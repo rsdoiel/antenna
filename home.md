@@ -1,11 +1,23 @@
 ---
 title: home
-updated: 2024-12-07 07:05:29
+updated: 2024-12-08 07:05:12
 ---
 
 # home
 
-(date: 2024-12-07 07:05:29)
+(date: 2024-12-08 07:05:12)
+
+---
+
+## What We Unearthed at Alcova, the Messy, Fascinating Emerging Designer Fair
+
+date: 2024-12-07, from: Dwell
+
+A penis vase, a chain mail chair, and other weird and wonderful objects made appearances at the second Miami edition of the show. 
+
+<br> 
+
+<https://www.dwell.com/article/design-miami-alcova-2024-editor-picks-and-highlights-7103f0a1>
 
 ---
 
@@ -1597,19 +1609,4 @@ date: 2024-12-01, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/succulents/yellow-leaves-yucca/>
-
----
-
-## 20 Types of Bluebell Flowers with Pictures and Names
-
-date: 2024-11-30, from: Yard Life blog
-
-<p>Bluebell flowers are admired worldwide for their enchanting bell-shaped blooms, vibrant colors, and symbolic meanings. In this guide, we’ll explore ... </p>
-<p class="read-more-container"><a title="20 Types of Bluebell Flowers with Pictures and Names" class="read-more button" href="https://ownyardlife.com/20-types-of-bluebell-flowers-with-pictures-and-names/#more-21911" aria-label="Read more about 20 Types of Bluebell Flowers with Pictures and Names">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/20-types-of-bluebell-flowers-with-pictures-and-names/">20 Types of Bluebell Flowers with Pictures and Names</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/20-types-of-bluebell-flowers-with-pictures-and-names/>
 

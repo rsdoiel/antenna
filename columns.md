@@ -1,11 +1,604 @@
 ---
 title: columns
-updated: 2024-12-07 07:05:27
+updated: 2024-12-08 07:05:11
 ---
 
 # columns
 
-(date: 2024-12-07 07:05:27)
+(date: 2024-12-08 07:05:11)
+
+---
+
+## 'Blue Velvet'
+
+date: 2024-12-08, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/blue-velvet>
+
+---
+
+## Sunday caption contest: Maze
+
+date: 2024-12-08, from: Robert Reich's blog
+
+And last week's winner 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-caption-contest-maze>
+
+---
+
+## December 7, 2024 
+
+date: 2024-12-08, from: Heather Cox Richardson blog
+
+On Thursday, December 5, in Chicago, Illinois, former president Barack Obama gave the third in an annual series of lectures he has delivered since 2022 at his foundation&#8217;s Democracy Forum, which gathers experts, leaders, and young people to explore ways to safeguard democracy through community action. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-7-2024>
+
+---
+
+## December 6, 2024
+
+date: 2024-12-08, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/152779733/4c1ea3cb40c4b6fe9a4dc03572ca2e87.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/152779733/4c1ea3cb40c4b6fe9a4dc03572ca2e87.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-6-2024-f63>
+
+---
+
+##  Jia Tolentino on the sometimes celebratory reaction to the death of UnitedHealthcare... 
+
+date: 2024-12-08, updated: 2024-12-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045805-jia-tolentino-on-the-some>
+
+---
+
+##  A fantastic interactive feature about the newly restored Notre-Dame cathedral. &#8220;Each day... 
+
+date: 2024-12-07, updated: 2024-12-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045804-a-fantastic-interactive-f>
+
+---
+
+## 2024-12-07 Armour in 2d6 Ultraviolet Grasslands
+
+date: 2024-12-07, from: Alex Schroeder's Blog
+
+<h1 id="2024-12-07-armour-in-2d6-ultraviolet-grasslands">2024-12-07 Armour in 2d6 Ultraviolet Grasslands</h1>
+
+<p>I&rsquo;m running Ultraviolet Grasslands (UVG) using 2d6 rules. UVG itself
+uses d20 rules and so I often have to translate back and forth and it
+is not very satisfying, to be honest.</p>
+
+<p>So what to do? In <a href="https://campaignwiki.org/wiki/MontagInZ%c3%bcrich/2024-11-17_Ultraviolet_Grasslands">a recent episode</a> of the <a href="https://campaignwiki.org/wiki/MontagInZürich/Internet_Office_Hours">Internet Office Hours</a> podcast,
+<a class="account" href="https://ludosphere.fr/@Whidou" title="@Whidou@ludosphere.fr">@Whidou</a> suggested a system of immunities.
+So here are my thoughts.</p>
+
+<h2 id="brainstorming">Brainstorming</h2>
+
+<p>Weapons are either &ldquo;normal&rdquo; (2d6 damage) or &ldquo;extreme violence&rdquo; (3d6
+damage). Some weapons might be practically instant death weapons, like
+plasma guns, necrotic blasters desintegrators and the like. These
+might do 4d6 and more damage.</p>
+
+<table>
+<thead>
+<tr>
+<th>Normal Weapon</th>
+<th>Vicious Weapon</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Dagger</td>
+<td>Halberd</td>
+</tr>
+
+<tr>
+<td>Axe</td>
+<td>Chainsword</td>
+</tr>
+
+<tr>
+<td>Spear</td>
+<td>Cat Rifle</td>
+</tr>
+
+<tr>
+<td>Blade</td>
+<td>Radiant Gun</td>
+</tr>
+
+<tr>
+<td>Bow</td>
+<td>Ultra Blaster</td>
+</tr>
+
+<tr>
+<td>Pistol</td>
+<td>Blue God Blaster</td>
+</tr>
+
+<tr>
+<td>Scimitar</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Long Knife</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Cutlass</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Rapier</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Claymore</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Zweihänder</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Crossbow</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Armour either makes you &ldquo;hard to hit&rdquo;
+(3d6 ≤ attribute + skill) or &ldquo;impossible to hit&rdquo;.</p>
+
+<table>
+<thead>
+<tr>
+<th>Armour</th>
+<th>Hard to hit</th>
+<th>Impossible to hit</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Iron Breastplatte</td>
+<td>Blade weapons</td>
+<td>none</td>
+</tr>
+
+<tr>
+<td>Skinchanger Suit</td>
+<td>Blade weapons</td>
+<td>none</td>
+</tr>
+
+<tr>
+<td>Ballistic Linen</td>
+<td>Scimitar</td>
+<td>Sluggers (Pistol, SMG, Rifle)</td>
+</tr>
+
+<tr>
+<td>Scale Shirt</td>
+<td>Blade weapons</td>
+<td>none</td>
+</tr>
+
+<tr>
+<td>Lobster Armour</td>
+<td>Normal weapons</td>
+<td>none</td>
+</tr>
+
+<tr>
+<td>Bone Mesh Armnour</td>
+<td>All weapons</td>
+<td>none</td>
+</tr>
+
+<tr>
+<td>Spectral Combat Suit</td>
+<td>Energy weapons, Sluggers</td>
+<td>Normal weapons</td>
+</tr>
+
+<tr>
+<td>Porcelain Armour</td>
+<td>Energy weapons, Sluggers</td>
+<td>Normal weapons</td>
+</tr>
+
+<tr>
+<td>Golem Armour</td>
+<td>Energy weapons</td>
+<td>Normal weapons, Sluggers</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="tags">Tags</h2>
+
+<p>Perhaps it would be best to extend the list of tags UVG uses. Then
+weapons can have tags such as Cut, Stab, Crush, Slug, Energy, Necrotic,
+Blast – and armour can confer protection or immunity
+against these tags. Other tags are easy to add:</p>
+
+<ul>
+<li>2H prevents the use of a shield.</li>
+<li>Vicious deals 3d6 instead of 2d6 damage.</li>
+<li>Close means that it&rsquo;s good for close combat, like in tunnels or inside narrow corridors. Enemies with longer weapons get a free attack if you need to close (outside of tunnels and corridors).</li>
+<li>Range means that you can shoot stuff.</li>
+</ul>
+
+<table>
+<thead>
+<tr>
+<th>Weapon</th>
+<th>Tags</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Dagger</td>
+<td>Stab, Close</td>
+</tr>
+
+<tr>
+<td>Axe</td>
+<td>Crush, Close</td>
+</tr>
+
+<tr>
+<td>Spear</td>
+<td>Stab</td>
+</tr>
+
+<tr>
+<td>Sword</td>
+<td>Cut</td>
+</tr>
+
+<tr>
+<td>Bow</td>
+<td>Stab, Range</td>
+</tr>
+
+<tr>
+<td>Pistol</td>
+<td>Slug, Range</td>
+</tr>
+
+<tr>
+<td>SMG</td>
+<td>Slug, Range</td>
+</tr>
+
+<tr>
+<td>Scimitar</td>
+<td>Cut</td>
+</tr>
+
+<tr>
+<td>Long Knife</td>
+<td>Stab</td>
+</tr>
+
+<tr>
+<td>Cutlass</td>
+<td>Cut, Stab</td>
+</tr>
+
+<tr>
+<td>Rapier</td>
+<td>Stab</td>
+</tr>
+
+<tr>
+<td>Claymore</td>
+<td>Cut, Crush</td>
+</tr>
+
+<tr>
+<td>Zweihänder</td>
+<td>Cut, Crush</td>
+</tr>
+
+<tr>
+<td>Crossbow</td>
+<td>Crush, Range</td>
+</tr>
+
+<tr>
+<td>Halberd</td>
+<td>Crush, Vicious</td>
+</tr>
+
+<tr>
+<td>Chainsword</td>
+<td>Energy, Vicious</td>
+</tr>
+
+<tr>
+<td>Cat Rifle</td>
+<td>Slug, Range, Vicious</td>
+</tr>
+
+<tr>
+<td>Radiant Gun</td>
+<td>Energy, Range, Vicious</td>
+</tr>
+
+<tr>
+<td>Ultra Blaster</td>
+<td>Blast, Energy, Range, Vicious</td>
+</tr>
+
+<tr>
+<td>Blue God Blaster</td>
+<td>Blast, Necrotic, Range, Vicious</td>
+</tr>
+</tbody>
+</table>
+<p>Vicious weapons do 3d6 damage; blast weapons do 4d6 damage. Stationary
+guns like plasma guns go on a different list but do 5d6 and more
+damage. Scope creep!</p>
+
+<p>And then armour! Using some more tags, too.</p>
+
+<ul>
+<li>Hot means no problem in cold environments but endurance tests to act otherwise</li>
+<li>Cold means no problem but cannot be worn outside of combat in cold environments</li>
+<li>Bulky means no sneaking and similar checks</li>
+<li>Rare cannot be bought at a regular shop</li>
+<li>Alive means that it is a permanent part of your body, now</li>
+<li>Power means that it can only be used for the given number of fights until it needs recharging; the altar to charge it takes a whole sack (a porter to carry it)</li>
+</ul>
+
+<table>
+<thead>
+<tr>
+<th>Armour</th>
+<th>Hard to hit</th>
+<th>Impossible to hit</th>
+<th>Other</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Iron Breastplate</td>
+<td>Cut, Stab</td>
+<td>none</td>
+<td>Hot, Bulky</td>
+</tr>
+
+<tr>
+<td>Skinchanger Suit</td>
+<td>Cut</td>
+<td>none</td>
+<td>Alive, Rare</td>
+</tr>
+
+<tr>
+<td>Ballistic Linen</td>
+<td>Cut, Stab</td>
+<td>Slug</td>
+<td>Cool</td>
+</tr>
+
+<tr>
+<td>Scale Shirt</td>
+<td>Cut</td>
+<td>none</td>
+<td>Hot, Bulky</td>
+</tr>
+
+<tr>
+<td>Lobster Armour</td>
+<td>Cut, Stab, Crush</td>
+<td>none</td>
+<td>Cool, Bulky</td>
+</tr>
+
+<tr>
+<td>Steel Cuirass</td>
+<td>Cut, Stab</td>
+<td>none</td>
+<td>Hot, Bulky</td>
+</tr>
+
+<tr>
+<td>Bone Mesh Armour</td>
+<td>Cut, Stab, Crush, Necrotic</td>
+<td>none</td>
+<td>Cool, Bulky, Rare</td>
+</tr>
+
+<tr>
+<td>Spectral Combat Suit</td>
+<td>Energy, Slug</td>
+<td>Cut, Stab, Crush</td>
+<td>Cool, Power 6, Bulky</td>
+</tr>
+
+<tr>
+<td>Porcelain Armour</td>
+<td>Energy, Slug</td>
+<td>Cut, Stab, Crush</td>
+<td>Cool, Power 6, Bulky</td>
+</tr>
+
+<tr>
+<td>Golem Armour</td>
+<td>Energy</td>
+<td>Cut, Stab, Crush, Slug</td>
+<td>Cool, Power 8, Rare</td>
+</tr>
+</tbody>
+</table>
+<p>A shield can be used to negate a single hit. (&ldquo;Shields shall be splintered.&rdquo;)</p>
+
+<p>I wonder how good spears and other stabbing weapons are, though.
+Cutting weapons really must be the best weapons against unarmoured
+opponents! Why were axes unpopular given the table above? There must
+be more to it.</p>
+
+<p>Let&rsquo;s test some assumptions:</p>
+
+<ul>
+<li>the crossbow and halberd are armour piercing: yes, because breastplate, scale shirt and cuirass all don&rsquo;t protect against Crush</li>
+<li>the dagger is good for unsuspecting enemies because it&rsquo;s Close</li>
+<li>the axe is is good for fighting in close quarters against armoured opponents because it&rsquo;s Close and Crush</li>
+<li>there cloth armour that helps against the smaller calibres (pistols and SMGs)</li>
+<li>golem armour is immune against slug throwers</li>
+<li>the advanced combat suites (spectral, porcelain) make you immune to normal melee weapons</li>
+</ul>
+
+<p>Surprising result: Swords are pretty bad against armoured opponents.
+Perhaps they are mostly a status symbol after all.
+A status symbol of a ruling warrior class over unarmed peasants.
+They&rsquo;re probably just easier to carry than spears.</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%232d6">#2d6</a> <a class="tag" href="/search/?q=%23Ultraviolet_Grasslands">#Ultraviolet Grasslands</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-12-07-armour>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/27/rssClub.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="http://scripting.com/images/2024/12/07/blogrollScreen.png">Screen shot</a> of my blogroll on Scripting News. It's dynamic. Shown are the latest posts on the <a href="https://www.emptywheel.net/">emptywheel</a> blog. When a blog updates it moves to the top of the list. A 2024 adaptation of a <a href="https://chatgpt.com/share/67547f62-b134-8012-9384-03649c49c969 ">concept</a> from early blogging days. It should be part of the social web. You can try it out realtime at <a href="http://scripting.com/">scripting.com</a>. 
+
+<br> 
+
+<http://scripting.com/2024/12/07.html#a165306>
+
+---
+
+## Prison Communication in Canyon County and Idaho State Prisons
+
+date: 2024-12-07, updated: 2024-12-07, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2024/12/07/treasure-valley-idaho-jail-communications/>
+
+---
+
+## Why I like my Model Y
+
+date: 2024-12-07, from: Dave Winer's Scripting News
+
+<p>Yesterday I <a href="http://scripting.com/2024/12/06.html#a150415">wrote</a> that I'd trade in my Model Y if an non-Tesla EV came along that equaled it. A few people asked what I liked about the Model Y that I'm not finding in alternatives. Here's the list. </p>
+<ul>
+<li>I love the handling of the Tesla. It's a <a href="https://en.wikipedia.org/wiki/Muscle_car">muscle car</a> like the 2007 <a href="https://www.kbb.com/bmw/5-series/2007/">BMW 535i</a> I used to drive, great acceleration, but handles like the 1993 <a href="https://www.cars.com/research/mazda-mx_5_miata-1993/">Miata</a> another car I owned and loved. I've also owned really sloppy cars like a <a href="https://www.caranddriver.com/subaru/forester-2022">Subaru Forester</a> or a <a href="https://www.cars.com/research/toyota-sienna-2004/">Toyota Sienna</a> minivan, even a <a href="https://en.wikipedia.org/wiki/Plymouth_Voyager#Full-size_van_(AB;_1974%E2%80%931983)">1974 Plymouth Voyager</a>, the largest American passenger car ever made. I'm never going back to a car that doesn't have the authority of a Model Y. </li>
+<li>The Model Y has lots of headroom, which my long torso needs, so I don't bruise my head each time I get in the freaking car. </li>
+<li>I have a Tesla charger at home, so whatever I buy has to be compatible with or adaptable to it.</li>
+<li>4WD is important because where I live it snows in winter, and I drive on dirt roads a lot too.</li>
+<li>It's a computer. It's going to be hard for a competitor to offer the integration with a network that Tesla offers, they're a computer company as much as they're a car company. Their connection to Starlink (assumed to be coming) is going to be hard to compete with too. </li>
+<li>Calling it <i>self-driving</i> should get them in trouble with the FTC, there's no way anyone should trust it to drive itself, and the car's OS enforces that view, so I guess they have lawyers at Tesla. That said, I like having access to this technology. I've been an innovative software developer for a long time, and I like using tech that pushes the leading edge. The marketing (a Musk feature presumably) is what I don't like. </li>
+<li>Charging network. I occasionally take trips that are out of range of my home charger, to Boston, or NYC sometimes leave me needing a charge on the way home. I'd like to have the option of driving cross-country as well. The Tesla charging network is a big plus. I honestly don't know how good the charging situation is for other brands. This would be something for car magazines to rate, to have a way of measuring it, as people who are put off by Musk's politics (about 1/2 of American voters) look for ways to drive something other than a Tesla. </li>
+</ul>
+<p>So this turned into an ad for Tesla. Heh. </p>
+<p>There are <i>reasons</i> we love it so much. </p>
+<p>Just separate from Musk and all's well. </p>
+<p>I've been thinking Tesla drivers who love America should have some kind of demonstration. We all park our cars around local Tesla dealers, let the police tow our cars, only to be replaced by other Teslas. We're all computer nerds, we could probably even figure out the scheduling. We probably have nearly as much money as they do. Just sayin. </p>
+<p>Tired of companies that push us around politically and Tesla is one of the worst. So far they've managed to convince us they aren't Elon Musk, but that's a mirage, he is the company and the company is him. They are completely one and the same. </p>
+<p>Like the <a href="https://en.wikipedia.org/wiki/Mike_Lindell">My Pillow guy</a> and his <a href="https://www.youtube.com/watch?v=FCHDCNvC_NE">pillows</a>. <span class="spOldSchoolEmoji">😄</span></p>
+<p><a href="http://scripting.com/wavs/curly1.wav"><img src="https://imgs.scripting.com/2023/11/30/curly.png" width="53" height="63" border="0" alt="I'm trying to think but nothing happens!"></a></p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/12/07/142329.html?title=whyILikeMyModelY>
+
+---
+
+## Digital Isle of Man: For all your connected tax haven needs?
+
+date: 2024-12-07, updated: 2024-12-07, from: Liam Proven's articles at the Register
+
+<h4>Fantasizing about leaving the mess at home behind? Pretty island packed with medieval ruins promotes itself as a venue for e-business</h4>
+      <p>The Isle of Man Government runs an annual conference to promote the tiny nation as a destination for online businesses.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/12/07/digital_isle_2024/>
+
+---
+
+## Rage Against the Machine | The Coffee Klatch, December 7, 2024
+
+date: 2024-12-07, from: Robert Reich's blog
+
+With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/152686188/6284d559ce86b812d23eaaa994a268b3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/152686188/6284d559ce86b812d23eaaa994a268b3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/rage-against-the-machine-the-coffee>
+
+---
+
+## Weeknotes: Nov. 30 – Dec. 6, 2024
+
+date: 2024-12-07, from: Tracy Durnell Blog
+
+👉 Do you have a blog? I&#8217;m offering to edit 5 people&#8217;s draft posts! I&#8217;ve had zero takers so far.  Win of the week: bought so many things I&#8217;ve been needing to! Made up for four and a half years of delayed purchases over Black Friday weekend 😆 Looking forward to: reading a book this weekend Stuff [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/12/06/weeknotes-nov-30-dec-6-2024/>
+
+---
+
+## December 6, 2024 
+
+date: 2024-12-07, from: Heather Cox Richardson blog
+
+On the sunny Sunday morning of December 7, 1941, Messman Doris Miller had served breakfast aboard the USS West Virginia, stationed in Pearl Harbor, Hawaii, and was collecting laundry when the first of nine Japanese torpedoes hit the ship. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-6-2024>
 
 ---
 
@@ -2521,153 +3114,4 @@ Cas Mudde, a political scientist who specializes in extremism and democracy, obs
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/november-30-2024>
-
----
-
-## Wabi-Sabi of Vintage Digicams
-
-date: 2024-11-30, from: Om Malik blog
-
-When reading this story about the growing popularity of vintage digital cameras in Wired, I was reminded of this quote by Don Draper from the television series Mad Men: “Nostalgia &#8211; its delicate, but potent. Teddy told me that in Greek nostalgia literally means “the pain from an old wound.” It’s a twinge in your &#8230; 
-
-<br> 
-
-<https://om.co/2024/11/30/wabi-sabi-of-vintage-digicams/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-11-30, from: Dave Winer's Scripting News)
-
-I wasn't clear enough <a href="http://scripting.com/2024/11/29.html#a133619">yesterday</a>. We're losing the word "podcast" very quickly. It's coming to mean video interviews on YouTube mostly. Our only hope is upgrading the open platform in a way that stimulates the imagination of creators, and there's no time to waste. If you make a podcast client, it's time to start collaborating with competitors and people who create RSS-based podcasts to take advantage of the open platforms, otherwise having a podcast will mean getting approved by Google, Apple, Spotify, Amazon etc. And they, as we know, are nuzzling up to the new government, who will want to impose severe limits. This isn't a casual <a href="http://scripting.com/2024/11/29.html#a133619">request</a>, it's <i>urgent.</i> 
-
-<br> 
-
-<http://scripting.com/2024/11/30.html#a161924>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-11-30, from: Dave Winer's Scripting News)
-
-I've been working on a <a href="https://this.how/bingeworthy/#1732982916000">reboot of Bingeworthy</a> over the last few days. 
-
-<br> 
-
-<http://scripting.com/2024/11/30.html#a161338>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-11-30, from: Dave Winer's Scripting News)
-
-Today's song: <a href="https://www.youtube.com/watch?v=Qa4An7uzPeg">I guess the lord must be in New York City</a>. 
-
-<br> 
-
-<http://scripting.com/2024/11/30.html#a160255>
-
----
-
-## 2024-11-15 Episode 51
-
-date: 2024-11-30, from: Alex Schroeder's Blog
-
-<h1 id="2024-11-15-episode-51">2024-11-15 Episode 51</h1>
-
-<p>I wanted to talk about Halberds &amp; Helmets but I ended up talking about 2d6 systems and how to model armour and shields. Oh no!</p>
-
-<p>It seems to me that I keep coming back to this because I want something out of it and I&rsquo;m not getting it and I&rsquo;m also not getting any closer.</p>
-
-<p><a href="/podcast/51-halberds-and-helmets.mp3">51-halberds-and-helmets.mp3</a></p>
-
-<p>Links:</p>
-
-<ul>
-<li><a href="Halberds_and_Helmets">Halberds and Helmets</a>, based on <em>Labyrinth Lord</em>, an old school fantasy RPG</li>
-<li><a href="Halberts">Halberts</a> &amp; <a href="Knives">Knives</a>, my minimal 2d6-based Fantasy Traveller games based on the German <em>Helmbarten</em></li>
-<li><a href="2022-02-10_No_armour_in_Helmbarten!">2022-02-10 No armour in Helmbarten!</a>, where I argue that Helmbarten has no armour at all</li>
-<li><a href="2019-03-19_Metal_Armour">2019-03-19 Metal Armour</a>, where I discuss other benefits of armour for Halberds &amp; Helmets</li>
-</ul>
-
-<p><a class="tag" href="/search/?q=%23Halberds_and_Helmets_Podcast">#Halberds and Helmets Podcast</a></p>
-
-<p><strong>2024-11-30</strong>. More about armour:</p>
-
-<blockquote>
-<p>Instead, where real armors evolve against <em>threats</em>, fictional armors evolve as a visual language, borrowing the design elements of <em>other fictional armors</em> far more often than they dip into their own historical exemplars, with the result that the whole thing sort of devours itself. … That solution – small metal plates connected to each other, rather than a backing – we call <strong>lamellar armor</strong> and it was <em>very common</em> in a wide range of cultures, but it has very little purchase in modern fantasy or science fiction armor designs, I think primarily because it was not included in the <em>Dungeons and Dragons</em> armor system. Nevertheless, lamellar armor was quite common in a wide range of cultures: we see it in the Near East, in Europe, in China and in Japan. &ndash; <a href="https://acoup.blog/2024/11/29/collections-the-problem-with-sci-fi-body-armor/">Collections: The Problem with Sci-Fi Body Armor</a>, by Bret Devereaux</p>
-</blockquote> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2024-11-15-episode-51>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-11-30, from: Dave Winer's Scripting News)
-
-<a href="https://this.how/podcasting/">Heres's where</a> I'll post ideas to help podcasting stay open. 
-
-<br> 
-
-<http://scripting.com/2024/11/30.html#a140119>
-
----
-
-## This is NOT Trump’s America! | The Coffee Klatch, November 30, 2024
-
-date: 2024-11-30, from: Robert Reich's blog
-
-With Heather Lofthouse and Yours Truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/152211259/c9dad5c2a2883c82c6947c88014b0fd9.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/152211259/c9dad5c2a2883c82c6947c88014b0fd9.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/this-is-not-trumps-america-the-coffee>
-
----
-
-## ChatGPT is two today
-
-date: 2024-11-30, from: John Naughton's online diary
-
-So I thought I&#8217;d ask it a question. Me: Today is your second birthday. If you could feel how do you think you’d feel about being two years old. This is a serious question so please don’t be flippant. ChatGPT: &#8230; <a href="https://memex.naughtons.org/chatgpt-is-two-today/40141/">Continue reading <span class="meta-nav">&#8594;</span></a> 
-
-<br> 
-
-<https://memex.naughtons.org/chatgpt-is-two-today/40141/>
-
----
-
-## November 29, 2024 
-
-date: 2024-11-30, from: Heather Cox Richardson blog
-
-In 2008, Congress passed and President George W. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/november-29-2024>
-
----
-
-## Weeknotes: Nov. 23-29, 2024
-
-date: 2024-11-30, from: Tracy Durnell Blog
-
-Highlight of the week: having a couple total lounge days Looking forward to: long weekend! Stuff I did: 9.5 hours consulting &#8212; wrapped up one of my projects took Thursday and Friday off work big fridge purge after the power outage ordered a new fridge! We have a 15-20 year old side by side and are excited [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2024/11/29/weeknotes-nov-23-29-2024/>
-
----
-
-## Lessons learned from burning things.
-
-date: 2024-11-30, updated: 2024-11-30, from: Anil Dash blog
-
- 
-
-<br> 
-
-<https://anildash.com/2024/11/30/making-fire/>
 

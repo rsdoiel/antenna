@@ -1,11 +1,188 @@
 ---
 title: journalism
-updated: 2024-12-07 07:05:28
+updated: 2024-12-08 07:05:11
 ---
 
 # journalism
 
-(date: 2024-12-07 07:05:28)
+(date: 2024-12-08 07:05:11)
+
+---
+
+## Report analyzes officials’ roles regarding encampment response, proposes reforms
+
+date: 2024-12-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+A UC Independent Review released Nov. 14 criticized UCLA&#8217;s failure to plan and coordinate effectively during protests on campus last spring, leaving the university unprepared to manage escalating conflict. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/07/report-analyzes-officials-roles-regarding-encampment-response-proposes-reforms/>
+
+---
+
+## CSUN Theatre delivers  “Dialogues of the Carmelites,” a powerful Opera about Faith and Sacrifice
+
+date: 2024-12-08, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN Theatre Department performed their interpretation of Dialogues of the Carmelites from Nov. 21 to 24 in the Campus Theatre located in Nordhoff Hall. As the audience took their... 
+
+<br> 
+
+<https://sundial.csun.edu/188396/arts-entertainment/csun-theatre-delivers-dialogues-of-the-carmelites-a-powerful-opera-about-faith-and-sacrifice/>
+
+---
+
+## Fun at the farm
+
+date: 2024-12-08, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The post <a href="https://theroundupnews.com/2024/12/07/fun-at-the-farm/">Fun at the farm</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/12/07/fun-at-the-farm/?utm_source=rss&utm_medium=rss&utm_campaign=fun-at-the-farm>
+
+---
+
+## Game on: Financial literacy edition
+
+date: 2024-12-08, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The post <a href="https://theroundupnews.com/2024/12/07/game-on-financial-literacy-edition/">Game on: Financial literacy edition</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/12/07/game-on-financial-literacy-edition/?utm_source=rss&utm_medium=rss&utm_campaign=game-on-financial-literacy-edition>
+
+---
+
+## Carnival on campus
+
+date: 2024-12-08, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The post <a href="https://theroundupnews.com/2024/12/07/carnival-on-campus/">Carnival on campus</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/12/07/carnival-on-campus/?utm_source=rss&utm_medium=rss&utm_campaign=carnival-on-campus>
+
+---
+
+## Editorial Cartoon: “Finals Rage”
+
+date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2024/12/07/editorial-cartoon-finals-rage/>
+
+---
+
+## Music Video Roundup: Fall’s female artists zoom into creativity, confidence
+
+date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+As fall quarter comes to a close, it is time to reflect on all that the changing winds of fall brought.
+Amid the music video releases of the past few months were visuals from several female artists. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/07/music-video-roundup-falls-female-artists-zoom-into-creativity-confidence/>
+
+---
+
+## Rewinding 2024: Presenting the year’s best songs, from chart-toppers to deep cuts
+
+date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+With the calendar year coming to a close and Apple Music Replay or Spotify Wrapped highlights popping up all around, there is no better time to reflect on all of the excellent music of 2024 than now. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/07/rewinding-2024-presenting-the-years-best-songs-from-chart-toppers-to-deep-cuts/>
+
+---
+
+## Raising awareness and advocating for accurate representation on World AIDS  Day
+
+date: 2024-12-07, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN Pride Center hosted a World AIDS Day event to destigmatize the conversation surrounding HIV and AIDS and raise awareness on campus. The event took place on Monday, Dec.... 
+
+<br> 
+
+<https://sundial.csun.edu/188377/news/raising-awareness-and-advocating-for-accurate-representation-on-world-aids-day/>
+
+---
+
+## ‘Fish in the Tank’ squares in on depths of intimacy within institution
+
+date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Dec. 7 at 12:45 p.m.</em>
+This weekend, UCLA theater audiences will be invited to dive into the fish tank.
+The student-run Untitled Theatre Company will hold three free staged workshops of the original student play “Fish in the Tank” at Macgowan Hall, with one showing Saturday and two Sunday. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/07/fish-in-the-tank-squares-in-on-depths-of-intimacy-within-institution/>
+
+---
+
+## ‘Challengers’ Art and Patrick lookalike competition courts community in Westwood
+
+date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Westwood served up competition Nov. 24, hosting a lookalike contest based on characters from the 2024 movie “Challengers.”
+The UCLA student-led Art and Patrick lookalike competition brought over 100 people and 25 contestants to Westwood Park. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/07/challengers-art-and-patrick-lookalike-competition-courts-community-in-westwood/>
+
+---
+
+## UCLA vs. USC Rivalry Game
+
+date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+On Nov. 23, 2024, the USC Trojans reclaimed the Victory Bell by defeating the UCLA Bruins 19-13 at the Rose Bowl. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/07/ucla-vs-usc-rivalry-game/>
+
+---
+
+## UC launches new website to help transfer students navigate application process
+
+date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC released its new Transfer Hub website in October, providing a centralized place for information about transferring to the University.
+The Hub provides direct links to common tools utilized by students looking to transfer to the UC and California State University schools, including the UC Transfer Admission Planner, which helps students plan their courses in alignment with UC requirements. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/06/uc-launches-new-website-to-help-transfer-students-navigate-application-process/>
+
+---
+
+## Album review: ROSÉ packages romantic vulnerability, toxicity in solo debut album ‘rosie’
+
+date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Embracing a newfound lyrical vulnerability, everything&#8217;s coming up for &#8220;rosie.&#8221;
+The member of K-pop group turned international sensation BLACKPINK, ROS&#201; reignited her career as a soloist with the release of &#8220;rosie&#8221; on Friday. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/06/album-review-ros-packages-romantic-vulnerability-toxicity-in-solo-debut-album-rosie/>
 
 ---
 
@@ -1961,69 +2138,4 @@ Advertised with 100 flyers around New York City, the first competition took plac
 <br> 
 
 <https://dailybruin.com/2024/11/30/second-take-lookalike-contests-bring-social-connections-offline-demystify-celebrity-beauty/>
-
----
-
-## Residents enjoying the Newhall Thanksgiving community dinner
-
-date: 2024-11-30, from: The Canyon News (COC Student Newspaper)
-
-<p>With the holiday season blowing its way into the Santa Clarita Valley,&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/community-thanksgiving/">Residents enjoying the Newhall Thanksgiving community dinner</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
- 
-
-<br> 
-
-<https://canyonsnews.com/community-thanksgiving/>
-
----
-
-## This Week: Nov. 29
-
-date: 2024-11-30, from: The Daily Bruin (UCLA Student Newspaper)
-
-In this episode of &#8220;This Week&#8221; by Daily Bruin Podcasts, learn about important campus safety updates, including recent developments in a Saxon Suites assault case and UCPD reports. 
-
-<br> 
-
-<https://dailybruin.com/2024/11/30/this-week-nov-29/>
-
----
-
-## UCLA participates in Big Ten, Abbott’s nationwide competition for blood donations
-
-date: 2024-11-30, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Dec. 1 at 11:08 p.m.</em>
-The UCLA Blood &#38; Platelet Center is rallying community members in a race against time, with its Big Ten blood donation competition set to conclude Dec. 
-
-<br> 
-
-<https://dailybruin.com/2024/11/29/ucla-participates-in-big-ten-abbotts-nationwide-competition-for-blood-donations/>
-
----
-
-## USAC Cultural Affairs Commissioner faces allegation of antisemitic discrimination
-
-date: 2024-11-30, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated</em> <em>Dec. 1 at 11 p.m.</em>
-A Jewish student filed a discrimination complaint against the Undergraduate Students Association Council Cultural Affairs Commissioner on Monday. 
-
-<br> 
-
-<https://dailybruin.com/2024/11/29/usac-cultural-affairs-commissioner-faces-allegation-of-antisemitic-discrimination/>
-
----
-
-## UCLA study finds impact of culturally divisive conflict on American public schools
-
-date: 2024-11-30, from: The Daily Bruin (UCLA Student Newspaper)
-
-A recent UCLA study found that cultural and political conflict is costing American public schools more than just time.
-American school districts have spent roughly $3.2 billion toward resolving tensions over how political issues are taught in educational spaces in the 2023-2024 school year, according to the study. 
-
-<br> 
-
-<https://dailybruin.com/2024/11/29/ucla-study-finds-impact-of-culturally-divisive-conflict-on-american-public-schools/>
 

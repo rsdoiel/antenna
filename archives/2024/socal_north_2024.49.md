@@ -1,11 +1,169 @@
 ---
 title: socal north
-updated: 2024-12-07 07:05:26
+updated: 2024-12-08 07:05:09
 ---
 
 # socal north
 
-(date: 2024-12-07 07:05:26)
+(date: 2024-12-08 07:05:09)
+
+---
+
+## LA Public Library to celebrate the life and legacy of LA’s first Black librarian, Miriam Matthews
+
+date: 2024-12-08, updated: 2024-12-08, from: The LAist
+
+Miriam Matthews was the city’s first Black librarian, as well as a tireless advocate for the arts and against censorship. On Wednesday, Dec. 11, LAPL’s Hyde Park Miriam Matthews Branch will honor its namesake. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/la-public-library-to-celebrate-the-life-and-legacy-of-las-first-black-librarian-miriam-matthews>
+
+---
+
+## How many species could go extinct from climate change? It depends on how hot it gets.
+
+date: 2024-12-08, updated: 2024-12-08, from: The LAist
+
+A new study projects biodiversity threats if global warming speeds up. Under the most extreme scenarios, about one in three species could be facing extinction by the end of the century. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/how-many-species-could-go-extinct-from-climate-change-it-depends-on-how-hot-it-gets>
+
+---
+
+## California’s employment safety net is still broken. Will anyone fix it?
+
+date: 2024-12-08, updated: 2024-12-08, from: The LAist
+
+California's unemployment system crashed during the pandemic. Now, the system continues to see fraud and questions about its funding model. 
+
+<br> 
+
+<https://laist.com/news/californias-employment-safety-net-is-still-broken-will-anyone-fix-it>
+
+---
+
+## PSA: The person holding a lottery ticket worth nearly $200 million has just hours left to claim the prize
+
+date: 2024-12-07, updated: 2024-12-07, from: The LAist
+
+The Mega Millions ticket was sold at a Chevron station on Ventura Blvd. Dec. 8 of last year. 
+
+<br> 
+
+<https://laist.com/news/psa-theres-a-winning-lottery-ticket-worth-some-200-million-floating-out-there-it-expires-today>
+
+---
+
+## Safe Travels and Happy Holidays!
+
+date: 2024-12-07, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin The holiday season is in full swing, filling Santa Clarita with festive cheer. It’s the perfect time to embrace traditions, gather with loved ones and travel around the City to shop, celebrate and visit friends and family. During this busy season, safe and well-maintained roads become even more valuable, ensuring [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/12/07/safe-travels-and-happy-holidays/">Safe Travels and Happy Holidays!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/12/07/safe-travels-and-happy-holidays/>
+
+---
+
+## Elevated fire risk through Wednesday as warmer weather and Santa Anas return
+
+date: 2024-12-07, updated: 2024-12-07, from: The LAist
+
+As warmer weather and a bout of Santa Ana winds come to Southern California, the National Weather Service is warning of an elevated risk of fire weather conditions until Wednesday. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/elevated-fire-risk-through-wednesday-as-warmer-weather-and-santa-anas-return>
+
+---
+
+## This little electric car made history. 25 years ago, GM stopped making it
+
+date: 2024-12-07, updated: 2024-12-07, from: The LAist
+
+The EV1 was the first modern, mass-produced electric vehicle from a major automaker — pioneering some technologies you can still find in today's EVs. But the model was controversial, and short-lived. 
+
+<br> 
+
+<https://laist.com/news/transportation/ev1-first-electric-car-25th-anniversary-general-motors>
+
+---
+
+## USDA orders testing across nation's milk supply amid rising bird flu cases
+
+date: 2024-12-07, updated: 2024-12-07, from: The LAist
+
+California is reporting the highest number of infections. At least 58 people have been infected with bird flu, including one child. 
+
+<br> 
+
+<https://laist.com/news/health/usda-orders-testing-across-nations-milk-supply-amid-rising-bird-flu-cases>
+
+---
+
+## There's a damaged castle out in Death Valley with a wild history. It's now open for tour
+
+date: 2024-12-07, updated: 2024-12-07, from: The LAist
+
+Nicknamed "Scotty's Castle," the property has an origin story built on the improbable friendship between a conman and a transplant millionaire who was his mark. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/damaged-scottys-castle-death-valley-now-open-for-tour>
+
+---
+
+## Go Fact Yourself quiz for December 7
+
+date: 2024-12-07, updated: 2024-12-07, from: The LAist
+
+Our celebrity panelists Marc Summers and Michaela Watkins go head to head this week on their knowledge of the talent competition TV show Star Search and pottery. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-december-7>
+
+---
+
+## Go Fact Yourself quiz for December 7
+
+date: 2024-12-07, updated: 2024-12-07, from: The LAist
+
+Our celebrity panelists Marc Summers and Michaela Watkins go head to head this week on their knowledge of the talent competition TV show Star Search and pottery. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<>
+
+---
+
+## California shorted prisoners on money for their release. It’s ending the practice
+
+date: 2024-12-07, updated: 2024-12-07, from: The LAist
+
+California prisons are supposed to give $200 in gate money to people leaving incarceration. Many did not receive the full amount because of deductions. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/california-shorted-prisoners-on-money-for-their-release-its-ending-the-practice>
+
+---
+
+## California's initial water allocation forecast is just 5%
+
+date: 2024-12-07, updated: 2024-12-07, from: The LAist
+
+Don't despair just yet. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/californias-initial-water-allocation-forecast>
 
 ---
 
@@ -1100,102 +1258,4 @@ The country's premier museum about the Japanese American experience is undergoin
 <br> 
 
 <https://laist.com/news/japanese-american-national-museum-janm-closes>
-
----
-
-## Monday likely to bring busy Thanksgiving return traffic, AAA says
-
-date: 2024-11-30, updated: 2024-12-01, from: The LAist
-
-Increased holiday traffic is projected for Sunday afternoon and evening, and Monday morning’s rush hour may also be busier due to return travelers, according to AAA. 
-
-<br> 
-
-<https://laist.com/news/transportation/sunday-and-monday-could-bring-busy-thanksgiving-return-traffic-says-aaa>
-
----
-
-## Shop Local, Eat Local This Holiday Season­
-
-date: 2024-11-30, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin As the holiday season unfolds, it’s the ideal time to emphasize the importance of supporting our local businesses. By choosing to shop and dine within our community, you’re making a direct impact on our City’s economy. Every purchase helps create jobs, boost tax revenue and enhance the overall quality of [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2024/11/30/shop-local-eat-local-this-holiday-season/">Shop Local, Eat Local This Holiday Season­</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2024/11/30/shop-local-eat-local-this-holiday-season/>
-
----
-
-## The price America paid for its first big immigration crackdown
-
-date: 2024-11-30, updated: 2024-11-30, from: The LAist
-
-The Chinese Exclusion Act is widely considered to be the first significant crackdown on immigration in American history. 
-
-<br> 
-
-<https://laist.com/news/the-price-america-paid-for-its-first-big-immigration-crackdown>
-
----
-
-## All I want for Christmas is ... help getting this song out of my head
-
-date: 2024-11-30, updated: 2024-11-30, from: The LAist
-
-The Earworm Eraser is a 40-second audio track specifically designed to banish "Jingle Bells," "All I Want For Christmas Is You" and other much-too-catchy seasonal tunes. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/all-i-want-for-christmas-is-help-getting-this-song-out-of-my-head>
-
----
-
-## Here's why bird flu fears are intensifying
-
-date: 2024-11-30, updated: 2024-12-01, from: The LAist
-
-Efforts to contain the virus are falling short. A teenager in Canada is in critical condition after an unexplained infection. And the arrival of flu season has scientists on edge. 
-
-<br> 
-
-<https://laist.com/news/health/heres-why-bird-flu-fears-are-intensifying>
-
----
-
-## Let's do good: Toy drives, volunteering opportunities and more in LA this holiday season
-
-date: 2024-11-30, updated: 2024-11-30, from: The LAist
-
-As we enter the last month of 2024, here's a list of events — from toy drives to fundraisers to volunteering opportunities — to give back to our communities. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/lets-do-good-toy-drives-volunteering-opportunities-and-more-in-la-this-holiday-season>
-
----
-
-## It's Shop Local Saturday. Here's why that matters to local businesses
-
-date: 2024-11-30, updated: 2024-11-30, from: The LAist
-
-There’s just something special about shopping IRL this time of the year. 
-
-<br> 
-
-<https://laist.com/news/its-shop-local-saturday-heres-why-that-matters-to-local-businesses>
-
----
-
-## Unstoppable invasion: How did mussels sneak into California, despite decades of state shipping rules?
-
-date: 2024-11-30, updated: 2024-11-30, from: The LAist
-
-Most ships discharging ballast water into California waters are inspected, but state officials have tested the water of only 16 ships. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/how-did-mussels-sneak-into-california-despite-decades-of-state-shipping-rules>
 

@@ -1,11 +1,445 @@
 ---
 title: pacific
-updated: 2024-12-07 07:05:26
+updated: 2024-12-08 07:05:10
 ---
 
 # pacific
 
-(date: 2024-12-07 07:05:26)
+(date: 2024-12-08 07:05:10)
+
+---
+
+## Troubled Hilo residential development in foreclosure
+
+date: 2024-12-08, from: Hawaii Tribune Harold
+
+
+				<p>The judge in the foreclosure case of a stalled Hilo subdivision project has ordered the property be listed on the real estate market for up to six months before the previous high bid can be accepted or new bids sought.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/08/hawaii-news/troubled-hilo-residential-development-in-foreclosure/>
+
+---
+
+## With pageantry and dignitaries, France unveils a reborn Notre Dame
+
+date: 2024-12-08, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; Five years after a fire that devoured its roof and nearly collapsed its walls, a renovated Notre Dame Cathedral reopened Saturday, its centuries-old bell clanging, its 8,000-pipe organ first groaning &#8212; and then roaring &#8212; back to life.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/08/nation-world-news/with-pageantry-and-dignitaries-france-unveils-a-reborn-notre-dame/>
+
+---
+
+## Kona man among Vietnam War Dustoff crew members to be awarded Congressional Gold Medal
+
+date: 2024-12-08, from: Hawaii Tribune Harold
+
+
+				<p>A 90-year-old Kailua-Kona resident who served as a battlefield air ambulance helicopter pilot during the Vietnam War is among about 3,500 U.S. Army Dustoff crew members, living and dead, recently honored with the Congressional Gold Medal, the highest honor given by the U.S. Congress.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/08/hawaii-news/kona-man-among-vietnam-war-dustoff-crew-members-to-be-awarded-congressional-gold-medal/>
+
+---
+
+## General Plan meeting strays off-topic with climate change talk
+
+date: 2024-12-08, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County planning officials last week addressed some misconceptions about draft revisions to the county&#8217;s General Plan.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/08/hawaii-news/general-plan-meeting-strays-off-topic-with-climate-change-talk/>
+
+---
+
+## County to hold abandoned vehicles auction
+
+date: 2024-12-08, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Department of Environmental Management&#8217;s Abandoned Vehicle Section will hold an abandoned vehicle auction in December in Kailua-Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/08/hawaii-news/county-to-hold-abandoned-vehicles-auction/>
+
+---
+
+## South Korea’s leader survives impeachment vote after his power grab
+
+date: 2024-12-08, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL, South Korea &#8212; South Korean lawmakers&#8217; attempt to impeach President Yoon Suk Yeol ended in failure on Saturday night, prolonging the political upheaval and uncertainty that has roiled the country since his short-lived imposition of martial law this past week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/08/nation-world-news/south-koreas-leader-survives-impeachment-vote-after-his-power-grab/>
+
+---
+
+## Syria’s government battles multiple rebel uprisings
+
+date: 2024-12-08, from: Hawaii Tribune Harold
+
+
+				<p>President Bashar Assad&#8217;s political survival was under threat Saturday as the Syrian government battled opposition rebellions around the country and the strategic city of Homs was breached by the main rebel coalition, according to the fighters and a war monitor.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/08/nation-world-news/syrias-government-battles-multiple-rebel-uprisings/>
+
+---
+
+## Akron police face questions after officer fatally shoots teenager
+
+date: 2024-12-08, from: Hawaii Tribune Harold
+
+
+				<p>Newly released video of the fatal November police shooting of Jazmir Tucker, a 15-year-old high school student in Akron, Ohio, has led to pointed questions from the city&#8217;s mayor and the teenager&#8217;s family about how officers handled the incident.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/08/nation-world-news/akron-police-face-questions-after-officer-fatally-shoots-teenager/>
+
+---
+
+## Detectives scour thousands of hours of video for clues in CEO killing
+
+date: 2024-12-08, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; It was footage from surveillance cameras that told police that the man they suspect of killing an insurance executive on Wednesday had arrived in New York City on a bus more than a week before.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/08/nation-world-news/detectives-scour-thousands-of-hours-of-video-for-clues-in-ceo-killing/>
+
+---
+
+## Volcano Watch: How have eruptions shaped Hawaii? Volcano Awareness Month 2025, with a twist
+
+date: 2024-12-08, from: Hawaii Tribune Harold
+
+
+				<p>The USGS Hawaiian Volcano Observatory monitors the six currently active volcanoes in Hawaii, but past eruptions have shaped all of the Hawaiian Islands. Join us in January 2025 for Volcano Awareness Month, an opportunity to learn about volcanic activity in Hawaii over the past year and beyond, or &#8212; new for this upcoming edition &#8212; submit art or poetry recognizing Hawaii&#8217;s volcanic history.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/08/features/volcano-watch-how-have-eruptions-shaped-hawaii-volcano-awareness-month-2025-with-a-twist/>
+
+---
+
+## Christmas in three European countries
+
+date: 2024-12-08, from: Hawaii Tribune Harold
+
+
+				<p>In Europe, &#8220;Christmas&#8221; (or the local word for it) refers not to the day but the whole season, which stretches well over a month &#8212; not to extend the shopping season, but to fit in the many holy days and festivities.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/08/features/christmas-in-three-european-countries/>
+
+---
+
+## Memories of the old world
+
+date: 2024-12-08, from: Pacific Island Times
+
+As we clear mounds of mom and dad’s stuff, we come across mounds of our own stuff.  The treasure finds have me giving thanks for being born  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/memories-of-the-old-world>
+
+---
+
+## As hot as it gets: Ti ovens for ti plant in Polynesia
+
+date: 2024-12-08, from: Pacific Island Times
+
+Earth ovens have been a central part of traditional Polynesian cooking for thousands of years. They were used not only in households but als 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/as-hot-as-it-gets-ti-ovens-for-ti-plant-in-polynesia>
+
+---
+
+## Hope for Guam’s struggling artists
+
+date: 2024-12-08, from: Pacific Island Times
+
+ For artists living on Guam, inspiration comes easily—from the island’s breathtaking beauty to its rich cultural heritage. Inspiration is ab 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/hope-for-guam-s-struggling-artists>
+
+---
+
+## Don’t wait ‘til it’s too late 
+
+date: 2024-12-07, from: Pacific Island Times
+
+Why is it that when someone you know becomes “someone you knew,” you suddenly think of how much that person meant to you? 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/don-t-wait-til-it-s-too-late>
+
+---
+
+## An Arctic hamlet is sinking into the thawing permafrost
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>TUKTOYAKTUK, Canada &#8212; On the shore of Lake Tiktalik in Canada&#8217;s Western Arctic, the thawing permafrost had set off two huge landslides into the water, leaving yawning craters on the tundra. These &#8220;thaw slumps&#8221; measured several hundred feet wide and just as deep.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/an-arctic-hamlet-is-sinking-into-the-thawing-permafrost/>
+
+---
+
+## TikTok faces US ban after losing bid to overturn new law
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>TikTok is one step closer to disappearing in the United States after a panel of federal judges Friday unanimously upheld a new law that could lead to the banning of the popular Chinese-owned video app by mid-January.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/tiktok-faces-us-ban-after-losing-bid-to-overturn-new-law/>
+
+---
+
+## Californians know about earthquakes, but tsunamis are a different story
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; For generations, the possibility of another devastating earthquake has lingered in the minds of Californians, who are remarkably familiar with seismological terms and regularly prepare for the next &#8220;Big One.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/californians-know-about-earthquakes-but-tsunamis-are-a-different-story/>
+
+---
+
+## Job growth rebounds with a gain of 227,000 in November
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>Job creation bounced back in November after disruptions from storms and a major strike, reinforcing a picture of modest employment expansion over the past several months.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/job-growth-rebounds-with-a-gain-of-227000-in-november/>
+
+---
+
+## Appeals court upholds nearly $1.3 billion Sandy Hook verdict against Alex Jones
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>A Connecticut appeals court on Friday largely upheld a nearly $1.3 billion defamation verdict against conspiracy theorist Alex Jones in a case accusing the Infowars founder of spreading lies about the 2012 Sandy Hook mass shooting.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/appeals-court-upholds-nearly-1-3-billion-sandy-hook-verdict-against-alex-jones/>
+
+---
+
+## Canada moves to protect Arctic from threats by Russia and China
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>OTTAWA, Ontario &#8212; Citing growing interest by China and Russia in the Arctic as global warming makes the region more accessible, Canada on Friday said it would focus on building stronger alliances with other nations in the region, particularly the United States.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/canada-moves-to-protect-arctic-from-threats-by-russia-and-china/>
+
+---
+
+## Police find backpack in Central Park, a possible link to gunman who killed CEO
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Investigators said Friday that they had recovered DNA from a water bottle they believed had been discarded by the man who killed a health care executive in a brazen attack in midtown Manhattan this week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/police-find-backpack-in-central-park-a-possible-link-to-gunman-who-killed-ceo/>
+
+---
+
+## After Hunter Biden’s pardon, White House considers broader clemency
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>The White House is listening to demands for President Joe Biden to extend the same grace to thousands of people wronged by the U.S. judicial system as he did to his son Hunter, officials say.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/after-hunter-bidens-pardon-white-house-considers-broader-clemency/>
+
+---
+
+## U.S. milk to be tested for bird flu virus
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Department of Agriculture will begin testing the nation&#8217;s milk supply for the bird flu virus known as H5N1, nearly a year after the virus began circulating through dairy cattle, the department announced Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/u-s-milk-to-be-tested-for-bird-flu-virus/>
+
+---
+
+## Syrian rebels seize fourth city, close in on Homs in threat to Assad’s rule
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>AMMAN/BEIRUT &#8212; Syrian rebels said they seized control of the southern city of Daraa on Saturday, the birthplace of a 2011 uprising against President Bashar al-Assad and the fourth city his forces have lost in a week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/syrian-rebels-seize-fourth-city-close-in-on-homs-in-threat-to-assads-rule/>
+
+---
+
+## How much did Trump, Biden and Harris raise? A stunning $4.7 billion.
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Donors spent an astonishing $4.7 billion on the presidential contenders in this year&#8217;s general election, piling that amount into the campaign coffers of Donald Trump, Kamala Harris, Joe Biden and their main allied groups over the course of the contest.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/how-much-did-trump-biden-and-harris-raise-a-stunning-4-7-billion/>
+
+---
+
+## Their fertilizer poisons farmland. Now, they want protection from lawsuits.
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>For decades, a little-known company now owned by a Goldman Sachs fund has been making millions of dollars from the unlikely dregs of American life: sewage sludge.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/features/their-fertilizer-poisons-farmland-now-they-want-protection-from-lawsuits/>
+
+---
+
+## Tropical Gardening: Tropical pines sometimes hard to find
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>Christmas is less than three weeks away, but it seems like most folks are a bit slow in getting their trees up this year. Don&#8217;t delay any longer since trees that are shipped in early are best.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/features/tropical-gardening-tropical-pines-sometimes-hard-to-find/>
+
+---
+
+## Fish Eye Park taps local market, extends 50% discount for Guam residents 
+
+date: 2024-12-07, from: Pacific Island Times
+
+As part of the promotion, Fish Eye Marine Park is also extending discounts on the other exciting adventures it offers: the island heritage a 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/fish-eye-park-taps-local-market-extends-50-discount-for-guam-residents>
+
+---
+
+## Kaʻana Manaʻo: Fashion is in fashion
+
+date: 2024-12-07, from: University of Hawaiʻi News
+
+<p>Column by <abbr>UH</abbr> Maui College Chancellor Lui Hokoana was published by The Maui News on November 29, 2024.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/06/kaana-manao-fashion/">Kaʻana Manaʻo: Fashion is in fashion</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/06/kaana-manao-fashion/>
+
+---
+
+## UH Mānoa Athletics maintains Big West membership for four teams
+
+date: 2024-12-07, from: University of Hawaiʻi News
+
+<p>This agreement ensures continued competitive opportunities for these programs while strengthening their long-term stability.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/06/uh-manoa-athletics-big-west-membership-four-teams/"><abbr>UH</abbr> Mānoa Athletics maintains Big West membership for four teams</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/06/uh-manoa-athletics-big-west-membership-four-teams/>
+
+---
+
+## Guam archdiocese releases list of priests named in sex abuse class action
+
+date: 2024-12-07, from: Pacific Island Times
+
+Disclosing the defendants' identities was part of the archdiocese's $45-million settlement agreement with "the 287 courageous men and women  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-archdiocese-releases-list-of-priests-named-in-sex-abuse-class-action>
 
 ---
 
@@ -2853,170 +3287,4 @@ Marshall Islands President Hilda Heine has issued a call to action to address th
 <br> 
 
 <https://www.pacificislandtimes.com/post/the-time-to-act-is-now-marshall-islands-leader-raises-the-alarm-on-escalating-non-communicable-di>
-
----
-
-## Musk’s slashing of the federal budget faces big hurdles
-
-date: 2024-11-30, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; These are frenzied times for the nascent Department of Government Efficiency.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/musks-slashing-of-the-federal-budget-faces-big-hurdles/>
-
----
-
-## Hoping for allies among Trump’s health picks, pharma faces hostility
-
-date: 2024-11-30, from: Hawaii Tribune Harold
-
-
-				<p>Drug company executives had hoped that a second Trump administration would be staffed by friendly health policy officials who would reduce regulation and help their industry boom.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/hoping-for-allies-among-trumps-health-picks-pharma-faces-hostility/>
-
----
-
-## Holiday shopping season separates winning retailers from losers
-
-date: 2024-11-30, from: Hawaii Tribune Harold
-
-
-				<p>Shoppers are heading into the Black Friday weekend unsure how wide to open their wallets, retailers say, with many still feeling the squeeze of inflation and also worried that tariffs could make things even more expensive if they wait too long to buy.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/holiday-shopping-season-separates-winning-retailers-from-losers/>
-
----
-
-## Republicans built an ecosystem of influencers. Some Democrats want one, too.
-
-date: 2024-11-30, from: Hawaii Tribune Harold
-
-
-				<p>Zackory Kirk, an influencer based in Atlanta who goes by the name The Zactivist and has more than 220,000 followers on Instagram, TikTok and other platforms, has been churning out mostly progressive content for more than four years.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/republicans-built-an-ecosystem-of-influencers-some-democrats-want-one-too/>
-
----
-
-## Israel warns residents on both sides of Lebanon border to stay away
-
-date: 2024-11-30, from: Hawaii Tribune Harold
-
-
-				<p>TEL AVIV, Israel &#8212; The Israeli military issued new warnings to residents on both sides of the Israel-Lebanon border on Friday, telling them not to return to their homes, as the fragile U.S.-brokered ceasefire between Israel and Hezbollah appeared to largely hold despite another Israeli strike in southern Lebanon.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/israel-warns-residents-on-both-sides-of-lebanon-border-to-stay-away/>
-
----
-
-## Killer whales hunt and feast on the largest fish on Earth
-
-date: 2024-11-30, from: Hawaii Tribune Harold
-
-
-				<p>Off Baja California in Mexico, a killer whale named after an Aztec emperor is leading his pod on routine takedowns of the largest fish in the sea: whale sharks.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/killer-whales-hunt-and-feast-on-the-largest-fish-on-earth/>
-
----
-
-## Uganda landslide death toll rises to 17
-
-date: 2024-11-30, from: Hawaii Tribune Harold
-
-
-				<p>KAMPALA (Reuters) &#8212; The death toll from a landslide triggered by heavy rain in eastern Uganda has climbed to 17, a government spokesperson said on Friday, with more than 100 others missing. </p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/uganda-landslide-death-toll-rises-to-17/>
-
----
-
-## Protests erupt in Georgia as it pulls back from pro-Western path
-
-date: 2024-11-30, from: Hawaii Tribune Harold
-
-
-				<p>TBILISI, Georgia &#8212; Thousands of people demonstrated in front of the parliament building in the Georgian capital, Tbilisi, for a second day Friday after the government announced that the country had suspended its bid to join the European Union for four years.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/protests-erupt-in-georgia-as-it-pulls-back-from-pro-western-path/>
-
----
-
-## Trudeau flies to Mar-a-Lago to see Trump amid tariff concerns
-
-date: 2024-11-30, from: Hawaii Tribune Harold
-
-
-				<p>TORONTO &#8212; Prime Minister Justin Trudeau of Canada went to Florida on Friday night to see President-elect Donald Trump at Mar-a-Lago, two officials with direct knowledge of the visit said, after a threat by Trump to impose across-the-board tariffs on goods from Canada and Mexico on Day 1 of his second term.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/trudeau-flies-to-mar-a-lago-to-see-trump-amid-tariff-concerns/>
-
----
-
-## California man to reunite with family 25 years after he ‘vanished with no trace’
-
-date: 2024-11-30, from: Hawaii Tribune Harold
-
-
-				<p>For years, Marcella Nasseri searched for the remains of her brother, who she believed had died after he mysteriously disappeared in Doyle, California, 25 years ago.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/california-man-to-reunite-with-family-25-years-after-he-vanished-with-no-trace/>
-
----
-
-## Tropical Gardening: Nature heralds glad tidings of Christmas
-
-date: 2024-11-30, from: Hawaii Tribune Harold
-
-
-				<p>Short cool days make conditions ideal for colorful poinsettias and its close relative <em>Euphorbia leucocephala</em> sometimes called Snow on the Mountain. Our holiday season usually begins with Halloween and extends to Easter, but it is also the time for colds, flu bugs, pneumonia, and even variants of Covid. This means we need to be a little careful of large crowds like wild parties around New Year&#8217;s Eve. Perhaps a safer endeavor would be to focus on enjoying the fresh air of our gardens!</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/30/features/tropical-gardening-nature-heralds-glad-tidings-of-christmas/>
-
----
-
-## Pacific takes stock of ‘disappointing’ COP29 climate summit
-
-date: 2024-11-30, from: Pacific Island Times
-
-Delegates tell of frantic negotiations, diplomatic intrigue and frustrated ambitions at the annual UN meeting in Baku, Azerbaijan By Sera... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/pacific-takes-stock-of-disappointing-cop29-climate-summit>
 

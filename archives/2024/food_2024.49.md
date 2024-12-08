@@ -1,11 +1,37 @@
 ---
 title: food
-updated: 2024-12-07 07:05:30
+updated: 2024-12-08 07:05:13
 ---
 
 # food
 
-(date: 2024-12-07 07:05:30)
+(date: 2024-12-08 07:05:13)
+
+---
+
+## UFO Disclosure Is Being Held Up By A Fear Of Lawsuits—Order These Coffees Today
+
+date: 2024-12-08, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. A weekly selection of coffees from the Sprudge Roaster's Village. 
+
+<br> 
+
+<https://sprudge.com/ufo-disclosure-is-being-held-up-by-a-fear-of-lawsuits-order-these-coffees-today-261790.html>
+
+---
+
+## Why Are There So Many Food Recalls Right Now?
+
+date: 2024-12-07, from: Taste of Home
+
+<p>I know I'm not the only one with listeria and E. coli in my newsfeed.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/why-are-there-so-many-food-recalls-right-now/">Why Are There So Many Food Recalls Right Now?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/why-are-there-so-many-food-recalls-right-now/>
 
 ---
 
@@ -1412,64 +1438,4 @@ date: 2024-12-01, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/21-cookies-for-holidays/>
-
----
-
-## 87 Black Friday Kitchen Deals BA Editors Are Shopping (2024)
-
-date: 2024-11-30, from: Bon Appetet
-
-Up to 50% off on Staub Dutch ovens, cookware sets, air fryers, and more. 
-
-<br> 
-
-<https://www.bonappetit.com/story/black-friday-kitchen-deals-11-29-2024>
-
----
-
-## 43 Best KitchenAid Black Friday Deals of 2024 to Mix It Up
-
-date: 2024-11-30, from: Bon Appetet
-
-The best early deals on the best stand mixers from Amazon, Walmart, and Best Buy. 
-
-<br> 
-
-<https://www.bonappetit.com/story/kitchenaid-mixer-black-friday-11-28-2024>
-
----
-
-## Greek Yogurt Cheesecake
-
-date: 2024-11-30, from: Taste of Home
-
-Whether dressing it up with toppings or savoring it plain, Greek yogurt cheesecake is pure indulgence. 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/greek-yogurt-cheesecake/>
-
----
-
-## 23 Best Nespresso Cyber Monday Deals 2024
-
-date: 2024-11-30, from: Bon Appetet
-
-Plus we help you make sense of all the machines that are on sale today. 
-
-<br> 
-
-<https://www.bonappetit.com/story/nespresso-black-friday-2024>
-
----
-
-## 31 Black Friday Meal Kit Deals (And Subscription Deals) for a Gift That Keeps on Giving
-
-date: 2024-11-30, from: Bon Appetet
-
-Deals on cookies, coffee, and cleaning supplies—delivered straight to your door. 
-
-<br> 
-
-<https://www.bonappetit.com/story/subscriptions-black-friday-11-29-2024>
 

@@ -1,11 +1,119 @@
 ---
 title: science and technology
-updated: 2024-12-07 07:05:27
+updated: 2024-12-08 07:05:10
 ---
 
 # science and technology
 
-(date: 2024-12-07 07:05:27)
+(date: 2024-12-08 07:05:10)
+
+---
+
+## You're so bad at recycling, this biz built an AI to handle it for you
+
+date: 2024-12-08, updated: 2024-12-08, from: The Register (UK I.T. News)
+
+<h4>Maybe start getting better at sorting your trash before these ML garbage bots gain sentience?</h4> <p>If our AI robot slaves ever decide to revolt, they might start in the most thankless place possible: The municipal solid waste facilities where AMP Robotics is using them to sort recyclables from all the rest of the municipal solid waste (MSW) that us meatbags regularly fail to separate properly.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/08/ai_for_recycling/>
+
+---
+
+## A Woman Appeared on the English Stage for the First Time on This Day in 1660, Transforming the World of Theater Forever
+
+date: 2024-12-08, from: Smithsonian Magazine
+
+Despite this historic first, the identity of the first professional English actress on stage remains a theatrical mystery 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-woman-appeared-on-the-english-stage-for-the-first-time-on-this-day-in-1660-transforming-the-world-of-theater-forever-180985557/>
+
+---
+
+## British boffins build diamond battery capable of working for a millennium or five
+
+date: 2024-12-08, updated: 2024-12-08, from: The Register (UK I.T. News)
+
+<h4>Carbon-14 decay could be coming to an implant in you</h4> <p><strong>Video</strong>  The UK Atomic Energy Authority (UKAEA) and the University of Bristol have built a diamond battery capable of delivering power, albeit a tiny amount, for thousands of years.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/08/boffins_diamond_battery/>
+
+---
+
+## Microsoft teases Copilot Vision, the AI sidekick that judges your tabs
+
+date: 2024-12-07, updated: 2024-12-07, from: The Register (UK I.T. News)
+
+<h4>Edge-exclusive tool promises &#39;second set of eyes&#39; for browsing</h4> <p>Microsoft has rolled out a Copilot Vision preview that says more about how poorly websites are designed rather than justifying the need to bring more AI into users&#39; lives.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/07/microsoft_copilot_vision/>
+
+---
+
+## Euro cloud body heads off to Microsoft's HQ to check it's keeping promises
+
+date: 2024-12-07, updated: 2024-12-07, from: The Register (UK I.T. News)
+
+<h4>Wine-tasting seems to be an essential part of an EU-friendly Azure Local</h4> <p><strong>Exclusive</strong>  Microsoft and the Cloud Infrastructure Service Providers of Europe (CISPE) trade body this week kicked off their technical summit to assess the Windows maker&#39;s progress in making available a version of Azure Local for hosters.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/07/cispe_microsoft/>
+
+---
+
+## When Instant Replay Debuted During the Broadcast of a College Football Game in 1963, It Revolutionized the Way We Watch Sports
+
+date: 2024-12-07, from: Smithsonian Magazine
+
+Piloting the new technology was a risky move in front of the national audience that watched the Army-Navy showdown on this day in 1963 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/when-instant-replay-debuted-during-the-broadcast-of-a-college-football-game-in-1963-it-revolutionized-the-way-we-watch-sports-180985516/>
+
+---
+
+## Digital Isle of Man: For all your connected tax haven needs?
+
+date: 2024-12-07, updated: 2024-12-07, from: The Register (UK I.T. News)
+
+<h4>Fantasizing about leaving the mess at home behind? Pretty island packed with medieval ruins promotes itself as a venue for e-business</h4> <p>The Isle of Man Government runs an annual conference to promote the tiny nation as a destination for online businesses.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/07/digital_isle_2024/>
+
+---
+
+## Students Aim High at NASA JPL ‘Candy Toss’ Competition
+
+date: 2024-12-07, from: NASA breaking news
+
+Treats went flying through the air by the dozens at the annual Invention Challenge at NASA’s Jet Propulsion Laboratory. The 25th Invention Challenge at NASA’s Jet Propulsion Laboratory in Southern California, which welcomed more than 200 students to compete using home-built devices, was pretty sweet this year. Literally. That’s because the challenge at the Friday, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/jpl/students-aim-high-at-nasa-jpl-candy-toss-competition/>
+
+---
+
+## Elon Musk tops US political donor list with $270M+ for Team Trump
+
+date: 2024-12-07, updated: 2024-12-07, from: The Register (UK I.T. News)
+
+<h4>Plus, xAI scores another $6B to fuel Tesla tycoon&#39;s war on OpenAI</h4> <p>Elon Musk gave more than $270 million to political groups supporting Donald Trump&#39;s 2024 presidential campaign and others on the American right running for office, according to donation figures released by the Federal Election Commission this week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/07/elon_election_spending/>
 
 ---
 
@@ -2420,52 +2528,4 @@ date: 2024-12-01, updated: 2024-12-01, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/12/01/uk_workplace_ai/>
-
----
-
-## Cryptocurrency policy under Trump: Lots of promises, few concrete plans
-
-date: 2024-11-30, updated: 2024-11-30, from: The Register (UK I.T. News)
-
-<h4>Pro-crypto lawmakers are in, but will that translate to action? Doubt it</h4> <p><strong>Analysis</strong>  The 2024 presidential election tipped the United States into a new era of uncertainty, but one thing&#39;s for sure: The crypto industry was triumphant. …</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2024/11/30/cryptocurrency_policy_trump/>
-
----
-
-## NASA's X-59 plane is aiming for a sonic thump, not a boom
-
-date: 2024-11-30, updated: 2024-11-30, from: The Register (UK I.T. News)
-
-<h4>Pilot James &#39;Clue&#39; Less is ready to take to the skies</h4> <p><strong>Feature</strong>  Sitting in the hangar of Lockheed Martin&#39;s famous Palmdale, California Skunk Works facility is one of the oddest aircraft ever to take shape: the X-59 that&#39;s looking to revive supersonic travel over land.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2024/11/30/nasa_x59_aircraft/>
-
----
-
-## When London's Iconic Crystal Palace Burned to the Ground in a Devastating Fire
-
-date: 2024-11-30, from: Smithsonian Magazine
-
-Three years before World War II, on this day in 1936, an inferno marked the symbolic end of the global hegemony of the British Empire 
-
-<br> 
-
-<https://www.smithsonianmag.com/smart-news/when-londons-iconic-crystal-palace-burned-to-the-ground-in-a-devastating-fire-180985408/>
-
----
-
-## RansomHub claims to net data hat-trick against Bologna FC
-
-date: 2024-11-30, updated: 2024-11-30, from: The Register (UK I.T. News)
-
-<h4>Crooks say they have stolen sensitive files on managers and players</h4> <p>Italian professional football club Bologna FC is allegedly a recent victim of the RansomHub cybercrime gang, according to the group&#39;s dark web postings.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2024/11/30/bologna_fc_ransomhub/>
 

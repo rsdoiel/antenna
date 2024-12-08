@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2024-12-07 07:05:29
+updated: 2024-12-08 07:05:12
 ---
 
 # motorcycles
 
-(date: 2024-12-07 07:05:29)
+(date: 2024-12-08 07:05:12)
+
+---
+
+## Watch the World’s First Yamaha Ténéré 700’s First-Ever Backflip
+
+date: 2024-12-08, from: Ride Apart, Electric Motorcycle News
+
+It weighs 452 lbs. How did he make it look this effortless? 
+
+<br> 
+
+<https://www.rideapart.com/news/743486/yamaha-tenere-700-first-backflip/>
+
+---
+
+## The Royal Enfield Goan Classic 350 Looks Like a Factory-Built Custom Bobber
+
+date: 2024-12-07, from: Ride Apart, Electric Motorcycle News
+
+It throws subtlety and stealthiness straight out the window. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/743451/royal-enfield-goan-classic-350-unveiled/>
+
+---
+
+## Jordan Anderson Racing Signs Jeb Burton, Blaine Perkins for 2025
+
+date: 2024-12-07, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor Jordan Anderson Racing Bommarito Autosport (JAR-BA) has solidified its’ 2025 NASCAR Xfinity Series driver lineup. Two-time winner Jeb Burton returns to the team for the&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/jordan-anderson-racing-burton-perkins-25/>
 
 ---
 
@@ -411,40 +448,4 @@ And Lynx.
 <br> 
 
 <https://www.rideapart.com/news/742364/ski-doo-brp-500000-snowmobiles-produced/>
-
----
-
-## Gallery: NHRA Puts On A Show At Pomona Raceway
-
-date: 2024-11-30, from: Kickin the Tires blog
-
-Photos by Jerry Jordan/Kickin&#8217; the Tires 
-
-<br> 
-
-<https://kickinthetires.net/nhra/gallery-nhra-puts-on-a-show-at-pomona-raceway/>
-
----
-
-## BMW Does BMW Things, Runs Red Light, Clobbers Motorcycle Rider
-
-date: 2024-11-30, from: Ride Apart, Electric Motorcycle News
-
-Some traffic saw this guy and stopped, but this rider wasn't so lucky. 
-
-<br> 
-
-<https://www.rideapart.com/news/742366/bmw-driver-runs-red-light/>
-
----
-
-## Lawsuit Documents: 23XI Racing And Team FRM File 2nd Temporary Injunction Against NASCAR
-
-date: 2024-11-30, from: Kickin the Tires blog
-
-By Jerry Jordan, Editor 
-
-<br> 
-
-<https://kickinthetires.net/nascar/lawsuit-documents-23xi-racing-and-team-frm-file-2nd-temporary-injunction-against-nascar/>
 

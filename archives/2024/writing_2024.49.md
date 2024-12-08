@@ -1,11 +1,37 @@
 ---
 title: writing
-updated: 2024-12-07 07:05:28
+updated: 2024-12-08 07:05:11
 ---
 
 # writing
 
-(date: 2024-12-07 07:05:28)
+(date: 2024-12-08 07:05:11)
+
+---
+
+## Augur: Short Fiction Reviews by A.C. Wise
+
+date: 2024-12-07, from: Locus Magazine
+
+<p>Augur 7.1</p>
+<p>Grief, loss, healing, and recovery are themes running through Augur 7.1, and it’s interesting to see how different authors approach similar subject matter. “<strong>Sagal, the-Witch-in Training</strong>” by <strong>Ardo Omer </strong>follows the titular witch-in-training on her first solo case, trying to help a young woman with a broken heart. The woman happens to be the sister of one of her classmates, and they work together to convince  <a href="https://locusmag.com/2024/12/augur-short-fiction-reviews-by-a-c-wise/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/augur-short-fiction-reviews-by-a-c-wise/>
+
+---
+
+## 2024 Word of the Year
+
+date: 2024-12-07, from: Locus Magazine
+
+<p>Collins Dictionary in the UK has released its “Word of the Year” winner and shortlist for 2024. The list include “romantasy,” defined as “a literary genre that combines romantic fiction with fantasy.” The overall word of the year is “brat,” in the sense of someone with a “confident, independent and hedonistic attitude,” as popularized by singer/songwriter Charli XCX’s album <strong>Brat</strong>.</p>
+<p>Other words on the list include “supermajor­ity,” “yapping,” “delulu,”  <a href="https://locusmag.com/2024/12/2024-word-of-the-year/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/2024-word-of-the-year/>
 
 ---
 
