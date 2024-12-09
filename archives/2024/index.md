@@ -7,6 +7,7 @@ title: Antenna Archives
 
 ## SoCal North
 
+* [socal north 2024.50](socal_north_2024.50.md)
 * [socal north 2024.49](socal_north_2024.49.md)
 * [socal north 2024.48](socal_north_2024.48.md)
 * [socal north 2024.47](socal_north_2024.47.md)
@@ -59,6 +60,7 @@ title: Antenna Archives
 
 ## Pacific
 
+* [pacific 2024.50](pacific_2024.50.md)
 * [pacific 2024.49](pacific_2024.49.md)
 * [pacific 2024.48](pacific_2024.48.md)
 * [pacific 2024.47](pacific_2024.47.md)
@@ -111,6 +113,7 @@ title: Antenna Archives
 
 ## Central Cost
 
+* [central coast 2024.50](central_coast_2024.50.md)
 * [central coast 2024.49](central_coast_2024.49.md)
 * [central coast 2024.48](central_coast_2024.48.md)
 * [central coast 2024.47](central_coast_2024.47.md)
@@ -143,6 +146,7 @@ title: Antenna Archives
 
 ## Home, Garden & Urban Farm
 
+* [home 2024.50](home_2024.50.md)
 * [home 2024.49](home_2024.49.md)
 * [home 2024.48](home_2024.48.md)
 * [home 2024.47](home_2024.47.md)
@@ -177,6 +181,7 @@ title: Antenna Archives
 
 ## Good Eats, Healthy Eats
 
+* [food 2024.50](food_2024.50.md)
 * [food 2024.49](food_2024.49.md)
 * [food 2024.48](food_2024.48.md)
 * [food 2024.47](food_2024.47.md)
@@ -197,6 +202,7 @@ title: Antenna Archives
 
 ## Columns
 
+* [columns 2024.50](columns_2024.50.md)
 * [columns 2024.49](columns_2024.49.md)
 * [columns 2024.48](columns_2024.48.md)
 * [columns 2024.47](columns_2024.47.md)
@@ -249,6 +255,7 @@ title: Antenna Archives
 
 ## Retro Computing
 
+* [retro computing 2024.50](retro_computing_2024.50.md)
 * [retro computing 2024.49](retro_computing_2024.49.md)
 * [retro computing 2024.48](retro_computing_2024.48.md)
 * [retro computing 2024.47](retro_computing_2024.47.md)
@@ -286,6 +293,7 @@ title: Antenna Archives
 
 ## Libaries
 
+* [libraries 2024.50](libraries_2024.50.md)
 * [libraries 2024.49](libraries_2024.49.md)
 * [libraries 2024.48](libraries_2024.48.md)
 * [libraries 2024.47](libraries_2024.47.md)
@@ -338,6 +346,7 @@ title: Antenna Archives
 
 ## Student Journalism
 
+* [journalism 2024.50](journalism_2024.50.md)
 * [journalism 2024.49](journalism_2024.49.md)
 * [journalism 2024.48](journalism_2024.48.md)
 * [journalism 2024.47](journalism_2024.47.md)
@@ -373,6 +382,7 @@ title: Antenna Archives
 
 ## Motocycles
 
+* [motorcycles 2024.50](motorcycles_2024.50.md)
 * [motorcycles 2024.49](motorcycles_2024.49.md)
 * [motorcycles 2024.48](motorcycles_2024.48.md)
 * [motorcycles 2024.47](motorcycles_2024.47.md)
@@ -423,6 +433,7 @@ title: Antenna Archives
 
 ## Craft
 
+* [craft 2024.50](craft_2024.50.md)
 * [craft 2024.49](craft_2024.49.md)
 * [craft 2024.48](craft_2024.48.md)
 * [craft 2024.47](craft_2024.47.md)
@@ -437,6 +448,7 @@ title: Antenna Archives
 
 ## Writing
 
+* [writing 2024.50](writing_2024.50.md)
 * [writing 2024.49](writing_2024.49.md)
 * [writing 2024.48](writing_2024.48.md)
 * [writing 2024.47](writing_2024.47.md)
@@ -489,6 +501,7 @@ title: Antenna Archives
 
 ## Weather
 
+* [weather 2024.50](weather_2024.50.md)
 * [weather 2024.49](weather_2024.49.md)
 * [weather 2024.48](weather_2024.48.md)
 * [weather 2024.47](weather_2024.47.md)
