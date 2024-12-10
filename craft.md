@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2024-12-09 07:04:44
+updated: 2024-12-10 07:05:25
 ---
 
 # craft
 
-(date: 2024-12-09 07:04:44)
+(date: 2024-12-10 07:05:25)
+
+---
+
+## Good News for our Digital Products
+
+date: 2024-12-10, from: Lost Arg Press blog
+
+If you are a fan of our digital products (pdfs, videos, plans, etc) then you know that they are sent to you as a link via email after checkout. But did you know that you can also access any of your digital purchases by logging into your Lost Art Press account? This prevents you from... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/10/good-news-for-our-digital-products/>
+
+---
+
+## Registration is Open! Receive 20% Off All Workshops in Celebration of Our 20 Year Anniversary — Maiwa School of Textiles - Online Workshops.
+
+date: 2024-12-09, updated: 2024-12-09, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2024/12/registration-is-open-receive-20-off-all.html>
 
 ---
 

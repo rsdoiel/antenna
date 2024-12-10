@@ -1,11 +1,85 @@
 ---
 title: motorcycles
-updated: 2024-12-09 07:04:43
+updated: 2024-12-10 07:05:24
 ---
 
 # motorcycles
 
-(date: 2024-12-09 07:04:43)
+(date: 2024-12-10 07:05:24)
+
+---
+
+## These Yamaha E-Bike Designs For Carrying Kids Look Sketchy As Hell
+
+date: 2024-12-10, from: Ride Apart, Electric Motorcycle News
+
+But they make perfect sense in the proper environment. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/743642/yamaha-ebike-carrying-kids-sketchy/>
+
+---
+
+## This Special Edition Moto Guzzi Stelvio Pays Tribute To The Iconic Italian Road
+
+date: 2024-12-10, from: Ride Apart, Electric Motorcycle News
+
+It does this by flaunting a fancy colorway and more tech than anyone could ever ask for. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/743643/moto-guzzi-stelvio-duecento-tributo/>
+
+---
+
+## It's Not Cake, But This Motorcycle Did Belong To Great British Bake Off's Paul Hollywood
+
+date: 2024-12-10, from: Ride Apart, Electric Motorcycle News
+
+When he's not baking, he's biking. Sometimes. 
+
+<br> 
+
+<https://www.rideapart.com/news/743767/paul-goes-to-hollywood-auction-great-british-bake-off/>
+
+---
+
+## Triumph Releases 'Factory Custom' Bonneville Bobber, Says Only a Few Will Be Made
+
+date: 2024-12-10, from: Ride Apart, Electric Motorcycle News
+
+The ultimate bar hopper. 
+
+<br> 
+
+<https://www.rideapart.com/news/743770/2025-triumph-factory-custom-bonneville-bobber-1200/>
+
+---
+
+## Watch a Motorcycle Cop Try to Pop a Wheelie, But Immediately Crash Into a Crowd
+
+date: 2024-12-10, from: Ride Apart, Electric Motorcycle News
+
+If you can't do the time, don't do the crime? 
+
+<br> 
+
+<https://www.rideapart.com/news/743765/motorcycle-cop-crash-wheelie-palm-springs-parade/>
+
+---
+
+## Come On, Don't Tow Your Snowmobiles or UTVs If You Don't Have Winter Tires
+
+date: 2024-12-09, from: Ride Apart, Electric Motorcycle News
+
+Additional weight ain't gonna help you get up an icy hill.  
+
+<br> 
+
+<https://www.rideapart.com/news/743549/winter-tires-towing-spiked-tires-snowmobiles-utvs/>
 
 ---
 

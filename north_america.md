@@ -1,11 +1,1085 @@
 ---
 title: north america
-updated: 2024-12-09 07:04:40
+updated: 2024-12-10 07:05:21
 ---
 
 # north america
 
-(date: 2024-12-09 07:04:40)
+(date: 2024-12-10 07:05:21)
+
+---
+
+## Why Rivian’s Stock Is Up
+
+date: 2024-12-10, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTI2NjAzNi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2NjMyNTc0OH0._gbnacrN6L0zYhuZB4cm-TydRDWsW0Xh4r0a10OXH2c/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+<em><strong>Current conditions: </strong>A severe heat wave warning is in place for large parts of Australia’s Queensland state, where “unsettling” thunderstorms are expected • A bitter Arctic blast is heading for the Upper Midwest • An explosive wildfire is <a href="https://www.latimes.com/california/story/2024-12-10/franklin-fire-malibu-wildfire-triggers-evacuations?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HFeJYrh_-2Y0YUwzTr576NdNlA3rF9YE9fWqng4aHOQ475w5BFs8tecghzdPGdE_sEG6b" rel="noopener noreferrer" target="_blank">raging</a> in Malibu, California, where at least 6,000 people have been told to evacuate immediately.</em>
+</p><h2>THE TOP FIVE</h2><h3>1. Microsoft unveils new data center design for reduced water use</h3><p>
+	Microsoft yesterday <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/12/09/sustainable-by-design-next-generation-datacenters-consume-zero-water-for-cooling/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HFeJYrh_-2Y0YUwzTr576NdNlA3rF9YE9fWqng4aHOQ475w5BFs8tecghzdPGdE_sEG6b" rel="noopener noreferrer" target="_blank">unveiled</a> a new design for data centers that reduces water use. The design “optimizes AI workloads and consumes zero water for cooling,” saving an estimated 125 million liters of water per year per data center. It does this by recycling water through a closed loop system, moving it between the servers and the water chillers. All new Microsoft data center designs will now be based on this cooling technology, and some pilots will come online in 2026.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="f4a9f9665b0d8ef8f345275acc4e28fb" data-rm-shortcode-name="rebelmouse-image" id="e612b" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTI2NjA2MS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTczOTA0NTkwNX0.24BwlKZpbrGjBSsq_euTRRjG1St59MSh1-iQJpB9Gzs/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Microsoft</small>
+</p><h3>2. Biden finalizes Arctic drilling lease sale</h3><p>
+	The Biden administration <a href="https://www.reuters.com/markets/commodities/us-offer-oil-gas-leases-alaska-wildlife-refuge-jan-9-2024-12-09/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HFeJYrh_-2Y0YUwzTr576NdNlA3rF9YE9fWqng4aHOQ475w5BFs8tecghzdPGdE_sEG6b" rel="noopener noreferrer" target="_blank">confirmed</a> its plans to hold an oil and gas drilling lease sale in the Arctic National Wildlife Refuge starting on January 9. The amount of land up for auction – some 400,000 acres – is the minimum required by law. The move seems to have angered people on all sides, for many different reasons. Environmentalists will remember that Biden campaigned on a promise to stop drilling in the ANWR. “The Arctic Refuge deserves to remain a place of refuge, not an industrial oilfield lining the pockets of big oil executives,” Kristen Miller, executive director of Alaska Wilderness League, said in a statement. Some Indigenous groups, however, want even more land included in the sale to maximize local economic benefits.
+</p><h3>3. Report: Battery pack prices plummeted in 2024</h3><p>
+	Lithium-ion battery pack prices dropped 20% this year, the biggest decline since 2017, according to <a href="https://23917781.fs1.hubspotusercontent-na1.net/hubfs/23917781/BNEF%202024%20Battery%20Price%20Survey%20Executive%20Summary%20vF.pdf?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HFeJYrh_-2Y0YUwzTr576NdNlA3rF9YE9fWqng4aHOQ475w5BFs8tecghzdPGdE_sEG6b" rel="noopener noreferrer" target="_blank">BloombergNEF’s annual battery price survey</a>, out today. It cites “significant overcapacity” as the main reason for the price change. Manufacturers expanded production in anticipation of a surge in EV sales that has been slow to materialize, and are now trying to sell off stock. Battery EV pack prices dropped by 27% this year, dropping below $100 per kilowatt-hour for the first time ever. This price point is “an oft-cited rule of thumb for where EVs reach price parity with internal combustion engine vehicles (ICEs),” the report adds. This will be hastened by increased production of cheaper batteries outside of China.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="9ee366f7d74023110a82dc3d1310f8c2" data-rm-shortcode-name="rebelmouse-image" id="b01b8" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTI2NjA3My9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MjMyMTY3NX0.Lc-HXSVYR6ul3do9nb7N-wgIsffVTcTVITKNMhFMP8I/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">BloombergNEF</small>
+</p><h3>4. ‘Massive market opportunity’ projected for Rivian</h3><p>
+	And sticking with EVs for a moment, Rivian’s stock got a nice boost after Benchmark Securities gave it a “buy” rating and projected a “massive market opportunity.” “We believe Rivian’s capability to manufacture EV’s domestically with in-house designed software has been validated through its partnerships with Amazon and <a href="https://heatmap.news/volkswagen-rivian-5-billion-evs?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HFeJYrh_-2Y0YUwzTr576NdNlA3rF9YE9fWqng4aHOQ475w5BFs8tecghzdPGdE_sEG6b" rel="noopener" target="_self">Volkswagen</a>,” <a href="https://finance.yahoo.com/news/rivian-stock-jumps-to-highest-since-august-as-benchmark-initiates-at-buy-214800596.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HFeJYrh_-2Y0YUwzTr576NdNlA3rF9YE9fWqng4aHOQ475w5BFs8tecghzdPGdE_sEG6b" rel="noopener noreferrer" target="_blank">wrote analyst Mickey Legg</a>. “VW’s industry relationships and experience will help [Rivian] negotiate with suppliers and provide engineering synergies.” Rivian shares were up 11% in pre-market trading.
+</p><div class="horizontal-rule"></div><p>
+<em>
+	Get Heatmap AM directly in your inbox every morning:<br/>
+</em>
+</p><p>
+<div id="mc_embed_signup"><form action="https://news.us13.list-manage.com/subscribe/post?u=eacecbac4b1d10158b5b6fbad&id=c5c20b220f&f_id=00a03fe3f0" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" target="_self"><div id="mc_embed_signup_scroll"><div class="indicates-required"><span class="asterisk">*</span> indicates required</div><div class="mc-field-group"><label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label><input class="required email" id="mce-EMAIL" name="EMAIL" placeholder="Your Email" required="" type="email" value=""/><span class="helper_text" id="mce-EMAIL-HELPERTEXT"></span><a class="policy__link" href="/privacy-statement">Our Privacy Policy & Terms Apply.</a></div>
+<li style="display:none!important;"><input checked="" id="mce-group[699211]-699211-2" name="group[699211][8]" type="checkbox" value="1"/></li>
+<input class="hidden hs-am" name="mcam" type="text" value="Yes"/>
+<input class="hidden hs-am" name="mcdaily" type="text" value="Yes"/>
+<div class="clear" id="mce-responses"><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div></div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div aria-hidden="true" style="position: absolute; left: -5000px;"><input name="b_eacecbac4b1d10158b5b6fbad_c5c20b220f" tabindex="-1" type="text" value=""/></div><div class="clear"><input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Sign Up"/></div></div></form></div>
+</p><div class="horizontal-rule"></div><h3>5. EU scientists call for solar geoengineering ban</h3><p>
+	Scientists are urging the European Union to ban solar geoengineering methods such as injecting aerosols into the stratosphere, cloud brightening/altering, and space mirrors. “The benefits and risks of these solar radiation modification technologies are highly uncertain,” the European Commission’s chief scientific advisers <a href="https://scientificadvice.eu/advice/solar-radiation-modification/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HFeJYrh_-2Y0YUwzTr576NdNlA3rF9YE9fWqng4aHOQ475w5BFs8tecghzdPGdE_sEG6b" rel="noopener noreferrer" target="_blank">wrote</a>, warning these activities could “bring substantial negative ecological and economic effects.” Instead, the group suggested prioritizing reducing greenhouse gas emissions as the “main solution to avoid dangerous levels of climate change.” It also called for implementing new rules that govern this practice worldwide.
+</p><h2>THE KICKER</h2><p>
+	The EPA has officially <a href="https://www.epa.gov/system/files/documents/2024-12/prepubcopy_frl-8317-ocspp_tsca6atce_final-rule_20241206_admin.pdf?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HFeJYrh_-2Y0YUwzTr576NdNlA3rF9YE9fWqng4aHOQ475w5BFs8tecghzdPGdE_sEG6b" rel="noopener noreferrer" target="_blank">banned</a> the use of trichloroethylene (TCE) and perchloroethylene (Perc), two common solvents known to cause cancer and other health problems.
+</p> 
+
+<br> 
+
+<https://heatmap.news/electric-vehicles/rivian-stock-microsoft-data-water>
+
+---
+
+## The $400 billion challenge to rebuild Syria’s economy
+
+date: 2024-12-10, from: Marketplace Morning Report
+
+<p>From the BBC World Service: Estimates suggest Syria will need at least $400 billion — likely much more — to begin to address its shattered economy. So where will that money come from? We&#8217;ll discuss. Then, Israel’s Prime Minister Benjamin Netanyahu has taken the stand in his corruption trial and is facing charges of fraud, breach of trust and bribery. Plus, could European soccer be heading for a strike over its relentless match schedule?</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/12/10/mmr_20241210_MMR_Podcast_1_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fthe-400-billion-challenge-to-rebuild-syrias-economy&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/12/10/mmr_20241210_MMR_Podcast_1_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fthe-400-billion-challenge-to-rebuild-syrias-economy&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/the-400-billion-challenge-to-rebuild-syrias-economy>
+
+---
+
+## Biden memorializes painful past of Native Americans
+
+date: 2024-12-10, from: VOA News USA
+
+U.S. President Joe Biden on Monday presided over his final White House Tribal Nations Summit by reaching into the nation’s dark past and establishing a national monument to honor the suffering of thousands of Native children and their families in federal boarding schools in the 19th and 20th centuries. VOA White House correspondent Anita Powell reports from Washington. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-memorializes-painful-past-of-native-americans/7895664.html>
+
+---
+
+## VOA Spanish: Florida farmers fear mass deportations
+
+date: 2024-12-10, from: VOA News USA
+
+U.S. President-elect Donald Trump’s promise to enforce mass deportations has raised alarm bells for immigrants in Florida. VOA Spanish’s José Pernalete says activists and field workers warn that crops could be affected if personnel shortages arise. 
+
+
+See the full story here. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-spanish-florida-farmers-fear-mass-deportations/7895644.html>
+
+---
+
+## South Korea’s leadership crisis jeopardizes US efforts to counter China
+
+date: 2024-12-10, from: VOA News USA
+
+WASHINGTON — South Korean President Yoon Suk Yeol’s uncertain political future from his martial law backlash could imperil the next Trump administration’s trilateral coordination with the country and Japan in countering China, analysts say.
+
+
+Yoon faces an investigation for treason after declaring martial law and rescinding it hours later last week. Although he survived an impeachment vote on Saturday, the main opposition Democratic Party said the following day it would seek an impeachment vote again.
+
+
+Uncertainty surrounds Yoon’s leadership and the future leadership of South Korea amid rapidly evolving political disarray and confusion.
+
+
+Key government officials have resigned over the martial law controversy, and the head of the ruling People Power Party (PPP), Han Dong-hun, said Sunday that Yoon would resign soon and would no longer be involved in conducting state affairs. In the meantime, the Defense Ministry said Monday that Yoon still had the control of the South Korean military.
+
+
+The South Korean political crisis poses risks to the security of the region, where countries such as North Korea, China and Russia lie in wait to take advantage of the situation, analysts say.
+
+
+“The resulting political turmoil raises uncertainty over the future direction of the country’s policies and ability to implement them,” said Bruce Klingner, the senior research fellow for Northeast Asia at the Heritage Foundation.
+
+
+“The incoming U.S. administration will be focused on countering the multifaceted Chinese threat to the region and urging allies and partners to assume larger roles," he said. "Yoon’s actions will trigger doubts as to the viability of Seoul’s roles and contributions.”
+
+
+“Coupled with the Japanese leadership change and loss of legislative majority by the LDP [Liberal Democratic Party], the United States now has two weakened allies in Northeast Asia,” Klingner said.
+
+
+Japanese Prime Minister Shigeru Ishiba assumed office in October. The same month, Japan’s ruling Liberal Democratic Party lost its majority in parliament. 
+
+
+On Monday, Daniel Kritenbrink, U.S. assistant secretary of state for East Asia and Pacific affairs, met with his South Korean and Japanese counterparts to discuss regional security, underscoring the importance of maintaining close trilateral cooperation.
+
+
+The trilateral ties were consolidated after Yoon extended an olive branch to then- Japanese Prime Minister Fumio Kishida after years of frayed relations between the two countries over colonial wartime issues.
+
+
+The two countries' mending of bilateral ties and their subsequent trilateral summit with the U.S. at Camp David in August 2023, viewed as historic in Washington, is frowned upon by South Korea's main opposition party, which is considered anti-Japan and pro-China.
+
+
+If the Democratic Party files another impeachment motion and manages to get two-thirds of the 300-seat National Assembly and six of nine constitutional court judges to vote in favor, the country will hold a special election to choose a new president.
+
+
+If Yoon resigns or impeachment votes by the parliament and court pass, the main opposition party has a shot at the country’s next leadership.
+
+
+However, how the process will unfold is uncertain as the PPP boycotted the first impeachment vote and the constitutional court has three vacancies.
+
+
+Terence Roehrig, a Korea expert and professor of national security at the U.S. Naval War College, said, “If Yoon leaves office, either through impeachment or resignation, the special election that follows will undoubtedly select a Democratic Party president.”
+
+
+He continued: “As a result, there is likely to be a shift in South Korean policy toward China and in maintaining trilateral ties with Japan and the United States. Much has been done in the past two years to institutionalize trilateral relations, but these efforts will be tested with Yoon’s departure along with the incoming Trump administration.”
+
+
+The PPP criticized Democratic Party leader Lee Jae-myung for what it described as his “subservient” attitude toward China when he met with then-Chinese Ambassador to South Korea Xing Haiming in March.
+
+
+Lee said at the meeting that South Korea should not be involved in the cross-strait issue involving Taiwan. China considers the independent island nation as its own sovereign territory.
+
+
+Xing in 2023 accused Yoon’s government of tilting too much toward the U.S. and damaging South Korea’s relations with China.
+
+
+Chinese Foreign Ministry spokesperson Mao Ning said at a press briefing in Beijing on Monday that she will “not comment on the ROK’s internal affairs,” referring to South Korea by its official name, the Republic of Korea.
+
+
+Andrew Yeo, the SK-Korea foundation chair in Korea Studies at the Brookings Institution, said it would not be surprising for China “to hope for a DP to come back in office,” as during the previous Moon Jae-in government before Yoon, because the main opposition party is “more open to engaging China.”
+
+
+Yeo said that based on President-elect Donald Trump's key Cabinet position picks, such as Representative Mike Waltz for national security adviser and Senator Marco Rubio for secretary of state, both viewed as China hawks, countering China will be a key focus, and good ties between Seoul and Tokyo would be “desirable.”
+
+
+At the same time, Trump’s preference to deal bilaterally rather than with alliances, makes the future of the trilateral ties a bit uncertain, Yeo said.
+
+
+“I don’t think the Trump administration may be as active as the Biden administration was in trying to orchestrate and encourage alliances to work together,” he said. 
+
+<br> 
+
+<https://www.voanews.com/a/south-korea-s-leadership-crisis-jeopardizes-us-efforts-to-counter-china/7895633.html>
+
+---
+
+## Polygamous sect leader sentenced to 50 years in child sex scheme
+
+date: 2024-12-10, from: VOA News USA
+
+PHOENIX — A polygamist religious leader who claimed more than 20 spiritual "wives" including 10 underage girls was sentenced to 50 years in prison on Monday for coercing girls as young as 9 years old to submit to criminal sex acts with him and other adults, and for scheming to kidnap them from protective custody.
+
+
+Samuel Bateman, whose small group was an offshoot of the sect once led by Warren Jeffs, had pleaded guilty to a yearslong scheme to transport girls across state lines for his sex crimes, and later to kidnap some of them from protective custody.
+
+
+Under the agreement, Bateman pleaded guilty to one count of conspiracy to commit transportation of a minor for sexual activity, which carries a sentence of 10 years to life imprisonment, and one count of conspiracy to commit kidnapping, which is punishable by up to life imprisonment. He was sentenced to 50 years on each count, to be served concurrently.
+
+
+The rest of the charges were dismissed as part of the agreement.
+
+
+Authorities say that Bateman, 48, tried to start an offshoot of the Fundamentalist Church of Jesus Christ of Latter-Day Saints based in the neighboring communities of Colorado City, Arizona, and Hildale, Utah. The fundamentalist group, also known as FLDS, split from the mainstream Church of Jesus Christ of Latter-day Saints after Mormons officially abandoned polygamy in 1890.
+
+
+U.S. District Court Judge Susan Brnovich sentenced Bateman after hearing statements in court by three teenage girls about the trauma they still struggle to overcome. Although they gave their names in court, The Associated Press does not name victims of sexual crime, and some appeared to still be minors.
+
+
+"You should not have the opportunity to be free and never have the opportunity to be around young women, " Brnovich told Bateman, noting that for a man of his age the 50-year sentence was effectively a life sentence.
+
+
+"You took them from their homes, from their families and made them into sex slaves," the judge said. "You stripped them of their innocence and childhood."
+
+
+A short competency hearing that was closed to the public was held just before sentencing to discuss a doctor's assessment of Bateman's mental health. The defense had argued that Bateman could have benefited from a maximum of 20 years of psychiatric treatment behind bars before being released.
+
+
+The girls told the court, sometimes addressing Bateman himself, how they grappled to develop relationships in high school, among other struggles. Now living with foster families, they said they had received much support from trusted adults outside their community.
+
+
+After the sentencing, the teens hugged and wept quietly. They were escorted out of court by a half dozen men and women in jackets with the slogan "Bikers Against Child Abuse," a group dedicated to protecting children from what it calls dangerous people and situations. A woman who sat with the teens said no one in the group would have a comment.
+
+
+There was no one in the courtroom who appeared to be a supporter of Bateman.
+
+
+The alleged practice of sect members sexually abusing girls whom they claim as spiritual "wives" has long plagued the FLDS. Jeffs was convicted of state charges in Texas in 2011 involving sexual assaults of his underage followers. Bateman was one of Jeffs' trusted followers and declared himself, like Jeffs, to be a "prophet" of the FLDS. Jeffs denounced Bateman in a written "revelation" sent to his followers from prison, and then tried to start his own group.
+
+
+In 2019 and 2020, insisting that polygamy brings exaltation in heaven and that he was acting on orders from the "Heavenly Father," Bateman began taking female adults and children from his male followers and proclaiming them to be his "wives," the plea agreement said. While none of these "marriages" were legally or ceremonially recognized, Bateman acknowledged that each time he claimed another "wife," it marked the beginning of his illicit sexual contact with the woman or girl.
+
+
+Federal agents said Bateman demanded that his followers confess publicly for any indiscretions and he imposed punishments that ranged from public shaming to sexual activity, including requiring that some male followers atone for their "sins" by surrendering their own wives and daughters to him.
+
+
+Bateman traveled extensively between Arizona, Utah, Colorado and Nebraska and regularly coerced underage girls into his criminal sexual activity, the U.S. Attorney's Office in Arizona said. Recordings of some of his sex crimes were transmitted across state lines via electronic devices.
+
+
+Bateman was arrested in August 2022 by state police as he drove through Flagstaff, Arizona, pulling a trailer. Someone had alerted authorities after spotting small fingers reaching through the slats of the door. Inside the trailer, which had no ventilation, they found a makeshift toilet, a sofa, camping chairs and three girls, 11 to 14 years old.
+
+
+Bateman posted bond but was soon arrested again, accused of obstructing justice in a federal investigation into whether children were being transported across state lines for his sex crimes. Authorities also took nine children from Bateman's home in Colorado City into protective custody.
+
+
+Eight of the children later escaped from foster care in Arizona, and were found hundreds of miles away in Washington state, in a vehicle driven by one of the adult "wives." Bateman also admitted his involvement in the kidnapping plot.
+
+
+Federal prosecutors noted that Bateman's plea agreement was contingent on all of his co-defendants also pleading guilty. It also called for restitution of as much as $1 million per victim, and for all assets to be immediately forfeited.
+
+
+Seven of Bateman's adult "wives" have been convicted of crimes related to coercing children into sexual activity or impeding the investigation into Bateman. Some acknowledged they also coerced girls to become Bateman's spiritual "wives," witnessed Bateman having criminal sexual activity with girls, participated in illicit group sex involving children, or joined in kidnapping them from foster care. Another woman is scheduled to be tried Jan. 14 on charges related to the kidnappings.
+
+
+Two Colorado City brothers also face 10 years to life at their sentencings, on Dec. 16 and Dec. 20, after being convicted in October of charges including interstate travel to persuade or coerce a child to engage in sexual activity. Authorities say one bought Bateman two Bentley automobiles, while the other bought him a Range Rover.
+
+
+In court records, lawyers for some of Bateman's "wives" painted a bleak picture of their clients' religious upbringings.
+
+
+One said his client was raised in a religious cult that taught sexual activity with children was acceptable and that she was duped into "marrying" Bateman. Another said her client was given to Bateman by another man as if she were a piece of property, feeling she had no choice. 
+
+<br> 
+
+<https://www.voanews.com/a/polygamous-sect-leader-sentenced-to-50-years-in-child-sex-scheme/7895626.html>
+
+---
+
+## Biden under pressure to commute federal death sentences
+
+date: 2024-12-10, from: VOA News USA
+
+WASHINGTON — U.S. President Joe Biden is facing growing calls to commute the death sentences of the more than three dozen federal inmates on Death Row before Donald Trump returns to the White House.
+
+
+Trump resumed federal executions during his last term in office, overseeing 13 by lethal injection during his final six months in power, more than any U.S. leader in 120 years.
+
+
+Biden campaigned for the White House as an opponent of the death penalty and the Justice Department issued a moratorium on its use at the federal level after he became president.
+
+
+During his re-election campaign against Kamala Harris, Trump spoke frequently of expanding the use of capital punishment to include migrants who kill American citizens and drug and human traffickers.
+
+
+There had been no federal inmates put to death in the United States since 2003 until Trump resumed federal executions in July 2020. 
+
+
+A coalition of death penalty opponents submitted a letter to Biden on Monday asking him to commute federal death sentences to life in prison without parole.
+
+
+"The only irreversible action you can take to prevent President-elect Trump from renewing his execution spree, as he has vowed to do, is commuting the death sentences of those on federal death row now," the American Civil Liberties Union, Amnesty International, Human Rights Watch and more than 130 other organizations said.
+
+
+"Your ability to change the course of the death penalty in the United States will be a defining, legacy-building moment in American history," they said.
+
+
+There are currently 40 prisoners — all men — convicted of federal crimes awaiting execution, according to the Death Penalty Information Center, including several in high-profile cases.
+
+
+They include:
+
+
+
+	Dzhokhar Tsarnaev, 31, the "Boston Bomber," who was sentenced to death for the murders of two people in the April 15, 2013 bombing of the Boston Marathon.
+	Dylann Roof, 30, an avowed white supremacist who shot dead nine Black parishoners during a June 17, 2015 Bible study meeting at a church in Charleston, South Carolina.
+	Robert Bowers, 52, an anti-Semitic Pennsylvania man who killed 11 Jewish worshippers during an October 27, 2018 attack on the Tree of Life synagogue in Pittsburgh.
+
+
+ 
+
+
+'Commuted, changed'
+
+
+Nine of the inmates on federal Death Row were convicted of murdering fellow prisoners while one killed a prison guard.
+
+
+Four were sentenced to death for murders committed during bank robberies.
+
+
+There are also four inmates on the military's Death Row including Nidal Hasan, an Army psychiatrist who shot dead 13 people during a rampage at Fort Hood, Texas, in 2009.
+
+
+The U.S. military has not carried out an execution since 1961.
+
+
+Pope Francis, in his Sunday address at the Vatican, asked the crowd to pray for Death Row inmates in the United States and said their sentences should "be commuted, changed."
+
+
+Biden, who controversially pardoned his son Hunter this month for tax and gun crimes, has been barraged with clemency appeals from other religious leaders, former state and federal prison officials, ex-prosecutors and dozens of relatives of murder victims.
+
+
+Richard Branson, the Virgin Group founder, and Sheryl Sandberg, a former top executive at Facebook, were among the signatories of a letter from top business leaders urging Biden to exercise his clemency power.
+
+
+According to The Washington Post, the White House is considering "taking steps to commute at least some federal death sentences."
+
+
+"No decision has been made, however, about the breadth or scope of such a possible move, including whether to do it at all," the newspaper said.
+
+
+There have been 23 executions in the United States in 2024 and two more are scheduled before the end of the year.
+
+
+The death penalty has been abolished in 23 of the 50 US states, while six others — Arizona, California, Ohio, Oregon, Pennsylvania and Tennessee — have moratoriums in place.
+
+
+Federal executions are carried out by lethal injection at a prison in Terre Haute, Indiana. The last one was on January 16, 2021, four days before Trump left office. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-under-pressure-to-commute-federal-death-sentences/7895615.html>
+
+---
+
+## US military force posture unchanged in Syria after massive counter-Islamic State strike
+
+date: 2024-12-10, from: VOA News USA
+
+The fall of Damascus has raised concerns about what’s next for U.S. troops based in the war-torn country, who have been working with allies to keep Islamic State from resurging. VOA’s Carla Babb has more from the Pentagon. 
+
+<br> 
+
+<https://www.voanews.com/a/us-military-force-posture-unchanged-in-syria-after-massive-counter-islamic-state-strike/7894583.html>
+
+---
+
+## UnitedHealthcare CEO was likely killed with a ghost gun that can be made at home
+
+date: 2024-12-10, from: VOA News USA
+
+WASHINGTON — The brazen killing of UnitedHealthcare’s CEO was likely carried out with a ghost gun, one of the nearly untraceable weapons that can be made a home, police said Monday.
+
+
+A ghost gun is a firearm without a serial number, and police believe the one used in last week's shooting of Brian Thompson may have been made with a 3D printer. It was capable of firing 9 mm rounds. The man arrested in the crime, Luigi Mangione, also had a sound suppressor, or silencer, police said.
+
+
+Ghost guns have increasingly turned up at crime scenes around the U.S. in recent years.
+
+
+Here's a look at the weapons and efforts to regulate them:
+
+
+What are ghost guns?
+
+
+The firearms are privately made and have no serial numbers.
+
+
+Generally, firearms manufactured by licensed companies must have serial numbers — usually displayed on the frame of the gun — that allow officials to trace the gun back to the manufacturer, the firearms dealer and original purchaser.
+
+
+Ghost guns, however, are made of parts that the owner can assemble together. The critical component in building an untraceable gun is what is known as the lower receiver. Some are sold in do-it-yourself kits, and the receivers are typically made from metal or polymer. They include semiautomatic handguns and rifles.
+
+
+Are they legal?
+
+
+It is legal in the U.S. to build a firearm for personal use. Until about two years ago, ghost gun kits were available online that allowed people to assemble the weapons at home without background checks or age verification.
+
+
+As police found more ghost guns at crime scenes, the Biden administration moved to add age requirements and background checks in 2022.
+
+
+Buying one now is more like purchasing a regular gun at a gun shop.
+
+
+The number of ghost guns has since flattened out or declined in several major cities, including New York, Los Angeles, Philadelphia and Baltimore, according to court documents.
+
+
+But gun groups have challenged the regulation in court. The Supreme Court heard a case in October and seemed likely to uphold the regulation. It hasn’t yet handed down a ruling.
+
+
+Where else have ghost guns been used?
+
+
+The number of ghost guns recovered by law enforcement increased from 4,000 in 2018 to nearly 20,000 in 2021, according to Justice Department data. However, traditional guns are still used far more often in crimes.
+
+
+Ghost guns really popped into the public consciousness in 2013 when John Zawahri opened fire on the campus of Santa Monica College in California, killing six people, including his father and brother. Zawahri, who was later shot and killed by police, had assembled an AR-15-style weapon after failing a background check at a gun dealer.
+
+
+A gunman who killed his wife and four others in Northern California in 2017 built his own weapon to skirt a court order prohibiting him from owning firearms. In 2019, a teenager used a homemade handgun to fatally shoot two classmates and wound three others at a school in suburban Los Angeles.
+
+
+A mass shooting carried out with an AR-15-style ghost gun left five people dead in Philadelphia in 2023. A ghost gun was also used in a shooting that critically wounded two kindergartners at a tiny religious school in Northern California last week, police said. 
+
+<br> 
+
+<https://www.voanews.com/a/unitedhealthcare-ceo-was-likely-killed-with-a-ghost-gun-that-can-be-made-at-home-/7894581.html>
+
+---
+
+## CEO killing and our for-profit health care system
+
+date: 2024-12-10, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>A person of interest in the killing of UnitedHealthcare Chief Executive Brian Thompson was arrested today. We&#8217;ll get into the public&#8217;s reaction to the killing and what it says about our for-profit health system. Plus, we discuss the largest intergenerational wealth transfer in U.S. history, which is projected to take place over the next 25 years. And, Dick Van Dyke has us smiling as he waltzes into his 99th birthday.</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.nytimes.com/live/2024/12/09/nyregion/uhc-ceo-murder-suspect" target="_blank" rel="noreferrer noopener">“Live Updates: Police Identify ‘Strong Person of Interest’ in C.E.O.’s Killing”</a> from The New York Times</li>
+</ul>
+<p><!-- /wp:paragraph --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://nypost.com/2024/12/09/us-news/person-of-interest-in-fatal-shooting-of-unitedhealthcare-boss-brian-thompson-idd-as-luigi-mangione-an-ex-ivy-league-student/" target="_blank" rel="noreferrer noopener">“Suspect in fatal shooting of UnitedHealthcare CEO Brian Thompson ID’d as Luigi Mangione, an ex-Ivy League student”</a> from New York Post</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.wsj.com/us-news/manhunt-for-unitedhealthcare-ceo-killer-meets-unexpected-obstacle-sympathy-for-the-gunman-31276307?mod=hp_lista_pos2" target="_blank" rel="noreferrer noopener">“Manhunt for UnitedHealthcare CEO Killer Meets Unexpected Obstacle: Sympathy for the Gunman”</a> from The Wall Street Journal</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2024-12-05/a-105-million-inheritance-windfall-is-coming-for-heirs-in-the-us" target="_blank" rel="noreferrer noopener">“A $105 Trillion Inheritance Windfall Is On the Way for US Heirs”</a> from Bloomberg</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.nytimes.com/2024/12/06/arts/music/dick-van-dyke-coldplay-all-my-love-video.html" target="_blank" rel="noreferrer noopener">“Dick Van Dyke, Approaching 99, Dances in Coldplay’s Latest Video”</a> from The New York Times</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.axios.com/2024/12/08/syria-assad-regime-austin-tice" target="_blank" rel="noreferrer noopener">“Biden says U.S. government believes Austin Tice is alive in Syria”</a> from Axios</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>We love to hear from you. Email us at makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/12/09/mms_20241209_MMS_Show_Roll_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fceo-killing-and-our-for-profit-health-care-system&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/12/09/mms_20241209_MMS_Show_Roll_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fceo-killing-and-our-for-profit-health-care-system&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/ceo-killing-and-our-for-profit-health-care-system>
+
+---
+
+## Biden memorializes painful past of Native people
+
+date: 2024-12-10, from: VOA News USA
+
+WASHINGTON — President Joe Biden on Monday presided over his final White House Tribal Nations Summit by reaching into the nation’s dark past and establishing a new national monument to honor the suffering of thousands of Native children and their families in federal boarding schools in the last century.
+
+
+His proclamation starts a three-year clock to design a monument to be placed at the flagship Carlisle Indian Industrial School in Pennsylvania.
+
+
+The Carlisle Indian Industrial School opened in 1879, with the stated mission to “kill the Indian” to “save the Man.” Schools like this removed children from their families and forced them to speak English, wear non-native clothing and eschew tribal customs.
+
+
+
+
+Earlier this year, Biden described the treatment of thousands of Native children at government boarding schools as “a blot” on the nation’s history.
+
+
+"The federal government mandated — mandated — removal of children from their families and tribes, launching what's called the federal Indian boarding school era, over a 150-year span, 150 years from the early 1800s to 1970 — one of the most horrific chapters in American history,” he said earlier this year. “We should be ashamed.”
+
+
+The most recent U.S. Census found that the population of those who consider themselves wholly or partly Native is upward of nearly 9 million. The U.S. Department of the Interior says it serves 1.9 million American Indian and Alaska Natives, many in sovereign lands.
+
+
+That’s a shadow of the population that historians say thrived on the continent before European colonization. Native Americans were only granted universal U.S. citizenship in 1924 with the passage of the Indian Citizenship Act.
+
+
+Activists like Elveda Martinez of the Walker River Paiute Tribe say it’s remarkable how recent this history of dispossession and discrimination is.
+
+
+"It's within our generation that Natives finally all had the right to vote,” she said. “So, that's still a big thing now. We always tell people, you know, it was our parents and people in that generation that fought for the right to vote."
+
+
+As a group, Native residents have the highest poverty rate in the country, and their youth lag behind other demographics in education, according to a study by a bipartisan research group.
+
+
+On Monday, Biden detailed his administration’s efforts to improve the livelihoods of descendants of the nation’s pre-colonial populations and to give communities more say, such as designating conservation areas. But he stressed that honoring the past is the way forward.“By making the Carlisle Indian School a national monument, we make clear what great nations do,” he said. “We don’t erase history. We acknowledge it and learn from it, so we never repeat it again.”
+
+
+Interior Secretary Deb Haaland, the first Native American to serve as a Cabinet secretary, praised Biden’s work.
+
+
+“President Biden has been the best president for Indian Country in my lifetime,” she said. “This is a president and an administration that truly sees Indigenous people and has worked tirelessly to address the issues in Indian Country that have long been underfunded or outright ignored.”
+
+
+As a sign of her esteem, Haaland, who is a member of the Pueblo of Laguna, draped Biden in a personalized parting gift: a black-and-white version of a blanket designed by Pueblo artist Pat Pruitt, who says the motif, which depicts thunder and lightning in the desert, is meant to evoke “the feeling of that calm before the storm that is filled with electricity and sound.”
+
+
+But as one tribe made clear Monday, America’s Native people are not a monolith.
+
+
+The Cow Creek Band of Umpqua Tribe of Indians lashed out at the Biden administration for what the group says is a “lack of tribal consultation” over a wave of proposed off-reservation casinos, including a recent approval for Oregon’s first off-reservation casino.
+
+
+“It is performative to celebrate an administration’s contributions to Indian Country when the actions tell a very different story,” Cow Creek Umpqua Tribal Chairman Carla Keene said in a statement sent to VOA on Monday. “We have been dismissed and ignored about policy that will devastate our social, cultural, and economic livelihood. There is time to do the right thing and put a stop to the pending decisions that will irreversibly harm Tribes across the Pacific Northwest and West Coast, which is a backwards step in American history, not forward.”
+
+
+The principal chief of the large and powerful Cherokee nation — which includes about 450,000 people — issued a careful, diplomatic statement Monday advocating for the summit to continue under the next administration.
+
+
+“I’m looking forward to attending the White House Tribal Nation’s summit this week,” Chief Chuck Hoskin Jr. posted on Facebook. “Other than when the summit was not held (2017-2020), I’ve been attending since 2013. I hope it is a productive engagement and I hope it continues on in future years.”
+
+
+President-elect Donald Trump indicated that he views Native issues as intertwined with energy generation, by naming North Dakota Governor Doug Burgum as Interior secretary, while also serving as “White House energy czar.”
+
+
+"We're going to do things with energy and with land interior that is going to be incredible,” he said, but did not elaborate.
+
+
+As president, Trump angered Indigenous activists by lifting a ban on the Keystone XL pipeline that cuts through sovereign native lands on its path south from Canada to Texas.
+
+
+Biden revoked Trump’s permit for the oil pipeline on the first day of his term. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-memorializes-painful-past-of-native-people/7894575.html>
+
+---
+
+## How Trump and Biden shaped the courts: Comparing their judicial achievements
+
+date: 2024-12-10, from: VOA News USA
+
+President Joe Biden is making last-ditch efforts to appoint more federal judges before he leaves the White House. But where does he stand on appointments compared to President-elect Donald Trump? 
+
+<br> 
+
+<https://www.voanews.com/a/how-trump-and-biden-shaped-the-courts-comparing-their-judicial-achievements/7893556.html>
+
+---
+
+## US wary of fissures, fragmentation as Syria looks to rebuild
+
+date: 2024-12-10, from: VOA News USA
+
+washington  — U.S. diplomats and military officials have intensified their outreach to groups vying to chart a new course for Syria, as well as to Syria’s neighbors, in an effort to ensure the fall of the regime of former President Bashar Assad does not give way to a more unstable and dangerous future.
+
+
+A number of key meetings took place Monday in Jordan, where senior U.S. diplomatic officials held consultations with their Jordanian counterparts following similar meetings a day earlier in Doha, Qatar.
+
+
+And U.S. Secretary of State Antony Blinken said more diplomatic missions are in the works.
+
+
+
+
+“Senior officials from this department are fanning out through the region as we speak, working with counterparts on how the United States can help support the Syrian people as they decide their own path for the future” Blinken told an audience at the State Department Monday.
+
+
+“This moment presents a historic opportunity, but it also carries considerable risks,” he said. “History shows how quickly moments of promise can descend into conflict and violence.”
+
+
+
+
+As evidence of the U.S. concern, the commander of U.S. Central Command, which oversees American forces in the Middle East, also engaged with allies in the region.
+
+
+General Michael “Erik” Kurilla met in Amman with Major General Yousef Al-Hunaiti, the chairman of the Jordanian Joint Chiefs of Staff. According to a U.S. readout, Kurilla promised U.S. support for Jordan should the situation in Syria deteriorate.
+
+
+Other U.S. officials on Monday likewise emphasized the need for a calm and orderly transition in Syria.
+
+
+“We want to make sure that our allies are safe and secure,” U.S. Deputy United Nations Ambassador Robert Wood told reporters at the U.N. in New York.
+
+
+“We want to make sure that there isn't a humanitarian catastrophe,” Wood said. “So, we're going to be working over the coming days and weeks to try to make sure that we can ensure all of those things happen.”
+
+
+But officials at the State Department and the Pentagon caution there is ample reason to worry that hopes for a better future for the Syrian people could disintegrate, with differences leading to new waves of violence and even migrations out of Syria.
+
+
+They say that while the words and actions of Syrian rebel leaders, including Hayat Tahrir al-Sham’s Abu Mohammed al-Golani, seem promising, pledges for a new, inclusive government will be tested if tensions between rival groups continue to simmer or escalate.
+
+
+And the State Department officials said Hayat Tahrir al-Sham, a U.S.-designated terror group that grew out of the al-Qaida terror group’s Syrian affiliate before cutting ties, has yet to show that it deserves to have the terror designation removed.
+
+
+So too, there are concerns about the Islamic State terror group, which commands between 2,500 and 5,000 fighters across Syria and Iraq, and which has been growing stronger in recent months.
+
+
+“ISIS will try to use this period to reestablish its capabilities, to create safe havens,” Blinken said Monday, using an acronym for the terror group, also known as IS or Daesh. “We are determined not to let that happen.”
+
+
+U.S. allies on the ground in Syria, however, warn IS has already begun ramping up its attacks, seeking to take advantage of the collapse of Syrian regime forces over the past week.
+
+
+“We are worried,” the U.S. representative for the political wing of the U.S.-backed, Kurdish-led Syrian Democratic Forces (SDF) told VOA, pointing to an uptick in attacks across northeastern Syria.
+
+
+“They are targeting our internal security forces,” said Syrian Democratic Council representative Sinam Mohamad, noting efforts by IS sleeper cells in places like Raqqa, Deir el-Zour and even Hasakah, home to one of the SDF-run prisons holding thousands of IS fighters captured after the fall of the terror group’s self-declared caliphate in 2019.
+
+
+She also warned of increased activity, and new escape attempts at al-Hol, a displaced persons camp that holds tens of thousands of IS wives and other family members, many of them children.
+
+
+Mohamad praised U.S. forces for lending support to the SDF but said there are indications of additional IS activity in areas abandoned by Syrian regime forces along with their Russian and Iranian allies.
+
+
+U.S. military officials hope a series of airstrikes, carried out Sunday at five locations across central Syria, will help to blunt the threat.
+
+
+The strikes are “a way to certainly prevent them [IS] from taking advantage of the dynamics within Syria and the current situation,” said Pentagon spokesperson Sabrina Singh, briefing reporters at the Pentagon Monday.
+
+
+But U.S. counterterrorism officials have long warned that IS is capable of demonstrating both patience and resilience and is well-aware of the types of fissures that could still serve to derail a transition government in Syria.
+
+
+And perhaps nowhere are those tensions more palpable at the moment than in Syria’s northeast, where fighting has broken out between Kurdish militias and the Syrian National Army, or SNA, a coalition of Turkish-backed militias.
+
+
+Turkey has defended various efforts to strike at the SDF, claiming it is led by fighters with the People's Protection Units, or YPG, a Syrian-based offshoot of the Turkey-based Kurdistan Workers' Party (PKK), labeled by both Ankara and Washington as a terrorist organization.
+
+
+The SDC and SDF, in return, have accused the SNA of attacking civilians in Manbij, and other nearby areas.
+
+
+“The United States, now, they are trying to stop this,” the SDC’s Mohamad told VOA.
+
+
+“There is some negotiation,” she said. “We hope they [the U.S.] can succeed in that.”
+
+
+The State Department Monday said it has been clear with both sides, echoing warnings from the SDF that ongoing clashes could hurt the ability of the U.S.-backed force to contain IS.
+
+
+“We don't want to see an escalation,” said spokesperson Matthew Miller of the clashes between Kurdish groups and the SNA. “We don't want to see anyone take advantage of this period of instability to try, and further their own position.”
+
+
+Nike Ching, Margaret Besheer and Carla Babb contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/7893559.html>
+
+---
+
+## Report: Media mogul Murdoch fails in bid to change family trust
+
+date: 2024-12-10, from: VOA News USA
+
+Rupert Murdoch has lost a bid to change his family trust to consolidate control of his media empire in the hands of his son Lachlan, The New York Times reported Monday, citing a sealed court document. 
+
+
+Nevada Commissioner Edmund Gorman concluded in a decision filed Saturday that Murdoch and his eldest son, Lachlan, who is the head of Fox News parent Fox Corp and News Corp, had acted in "bad faith" in their effort to amend the irrevocable trust, the Times reported. 
+
+
+The court docket indicates Gorman issued a recommendation or order Saturday, but the document is not publicly available. 
+
+
+The trust currently would divide control of the company equally among Murdoch’s four oldest children — Lachlan, James, Elisabeth and Prudence — after his death. 
+
+
+Rupert Murdoch proposed amending the family trust to solidify Lachlan's leadership of the family's media empire after his death, and block any interference by three of Lachlan’s siblings, who are politically moderate, the Times reported. 
+
+
+Under one scenario, three of the heirs could technically outvote a fourth, setting up a battle over the future of the powerful media outlets, even as Lachlan Murdoch runs Fox and is sole chair of News Corp. 
+
+
+In his opinion, Gorman said, the plan to change the trust was a "carefully crafted charade" to "permanently cement Lachlan Murdoch’s executive roles" inside the empire "regardless of the impacts such control would have over the companies or the beneficiaries" of the family trust, the Times said. 
+
+
+A lawyer for Rupert Murdoch, Adam Streisand, said they were disappointed with the ruling and intended to appeal, the Times reported. The commissioner's ruling is subject to approval by a district judge, whose decision could be challenged in court. 
+
+
+The trust was set up in Nevada, which is prized for its strict confidentiality rules. 
+
+
+A spokesperson for Rupert Murdoch, 93, could not immediately be reached for comment. Lachlan Murdoch did not respond to an email seeking comment. 
+
+
+Lachlan's siblings issued a joint statement expressing hope that the family would focus on mending relationships. 
+
+
+"We welcome Commissioner Gorman’s decision and hope that we can move beyond this litigation to focus on strengthening and rebuilding relationships among all family members," the siblings said. 
+
+<br> 
+
+<https://www.voanews.com/a/report-media-mogul-murdoch-fails-in-bid-to-change-family-trust-/7893557.html>
+
+---
+
+## Can the grid take the heat?
+
+date: 2024-12-10, from: Market Place
+
+<p>Over the next five years, electric power demand in the U.S. will increase five times faster than we thought it would in 2022, a new report says. Can the grid take it? Probably — it won&#8217;t be the first time demand for electricity has made a major leap. Also in this episode: An influencer sues a &#8220;copycat,&#8221; consumers overestimate inflation but think it will fall eventually and ad industry evolution triggers a merger of rivals.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/12/09/pm_20241209_Marketplace_PM_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace%2Fcan-the-grid-take-the-heat&awCollectionId=mkp-MKP-PM"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/12/09/pm_20241209_Marketplace_PM_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace%2Fcan-the-grid-take-the-heat&awCollectionId=mkp-MKP-PM" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace/can-the-grid-take-the-heat>
+
+---
+
+## VOA Spanish: Who is on Donald Trump's presidential transition team and what are they doing?
+
+date: 2024-12-09, from: VOA News USA
+
+Since winning the election, President-elect Donald Trump has begun a complex transition process involving a carefully selected team to ensure an orderly handover. Members of this group are tasked with assisting in making key appointments, identifying candidates for top Cabinet and federal agency positions and defining public policy priorities.
+
+
+See the full story here. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-spanish-who-is-on-donald-trump-s-presidential-transition-team-and-what-are-they-doing-/7893228.html>
+
+---
+
+## What 4 Years of Delay Means to an Offshore Wind Project
+
+date: 2024-12-09, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTEzOTk2Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczODQwNzg0OH0._GyqbDXWOLHCu2YdMuM_d1YvkLVolQBQYXFgeyZpMcI/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">As soon as Donald Trump was declared the winner of November’s presidential election, climate advocates vowed to continue making progress at the state and local level. But some local projects may still depend too much on federal policy to move forward.</p><p>The president-elect’s influence has already put a highly anticipated plan to convert New York City’s biggest power plant into a renewable energy hub on shaky ground. Central to the conversion is a 1,400-megawatt offshore wind farm called Attentive Energy developed by TotalEnergies. Trump, a longtime critic of the industry, has <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-political-rally-wildwood-new-jersey-may-11-2024/" rel="noopener noreferrer" target="_blank"><u>made vague threats</u></a> to “end” offshore wind “on day one.” While that <a href="https://www.canarymedia.com/articles/offshore-wind/how-will-offshore-wind-fare-under-a-second-trump-term" rel="noopener noreferrer" target="_blank">overstates his capabilities</a>, his administration will, at the very least, have the power to slow the processing of permits.</p><p>The regulatory uncertainty was enough to convince Patrick Pouyanne, the CEO of TotalEnergies, to put Attentive Energy on pause,  he said at the Energy Intelligence Forum in London, according to <a href="https://www.bloomberg.com/news/articles/2024-11-26/total-pauses-new-york-offshore-wind-farm-plans-after-trump-win" rel="noopener noreferrer" target="_blank"><u><em><em>Bloomberg</em></em></u></a> — though he left open the possibility of reviving it “in four years.”</p><p>That’s bad news for the Ravenswood Generating Station in Long Island City, Queens. Ravenswood consists of three steam turbines built in the 1960s that run mostly on natural gas, though sometimes also on oil, plus a natural gas combined cycle unit built in 2004. Together, they emitted nearly 1.3 million metric tons of CO2 in 2023, or about 8% of the city’s carbon emissions from electricity production, while representing more than 20% of the city’s local generating capacity. Ravenswood is also situated across the street from the largest public housing project in the country, and has spewed pollution into the area colloquially referred to as “asthma alley” for decades. </p><p>Rise Light and Power, the company that owns the plant, has said it will redress those harms to the community by transforming the site into “Renewable Ravenswood.” The aspiration includes retiring the three 1960s-era generators and replacing them with offshore wind, battery energy storage, and additional renewable energy delivered from upstate New York via a new transmission line. Long term, the company says it will repurpose the plant’s cooling infrastructure to provide clean heating and cooling to buildings in the neighborhood.</p><p>Members of the community and local political leaders celebrated the proposal and showed up at rallies and public hearings to support it. Rise Light and Power also incorporated clean energy job training into the plan and earned the support of the union workers who operate the plant. The environmental group Earthjustice recently cited Renewable Ravenswood <a href="https://earthjustice.org/wp-content/uploads/2024/09/2024.09.23_earthjusticecomments.pdf" rel="noopener noreferrer" target="_blank"><u>in a state filing</u></a> as a shining example of “a more community-centered approach to energy planning.” </p><p>The <a href="https://renewableravenswood.com/about-us/" rel="noopener noreferrer" target="_blank"><u>website</u></a> for Renewable Ravenswood declares that the plan “starts with offshore wind,” and <a href="https://renewableravenswood.com/initiatives/" rel="noopener noreferrer" target="_blank"><u>says</u></a> that “Attentive Energy One is the first step.” When Attentive Energy submitted its initial bid for a power contract with the state last year, Rise Light and Power CEO Clint Plummer <a href="https://citylimits.org/2023/08/15/citys-largest-power-plant-nears-milestone-in-renewable-energy-push" rel="noopener noreferrer" target="_blank"><u>told the local outlet </u><u><em><em>City Limits</em></em></u></a><em> </em>that the wind farm “essentially unlocks ‘Renewable Ravenswood.’”</p><p>Now, it's unclear when the promised air quality benefits and jobs will materialize.</p><p>When I hopped on the phone with Plummer, the Ravenswood CEO, last week, he downplayed the implications of the pause. </p><p>“I don’t think it changes that much,” he told me, stressing that “project delays don't impact our commitment to the vision” and that “it’s simply part of the process of developing these large scale energy infrastructure projects.” Plummer said the company could continue to make progress on permitting, engineering, and other related work on the site and in the community in the meantime. Since New York state has significantly more control over onshore renewables and transmission, he said, it may be possible to move more quickly on those.</p><p>The pause on Attentive Energy may have come with or without Trump — the project, which is a joint venture between Rise Light and Power, TotalEnergies, and Corio, had already <a href="https://attentiveenergy.com/new-york-update/" rel="noopener noreferrer" target="_blank"><u>withdrawn its revised bid</u></a> for a contract to sell power into New York’s energy market in October. When I asked Attentive for clarification, however, representatives didn’t respond.</p><p>The wind farm pause is the third big setback to the company’s replacement plans in as many years.</p><p>The first effort to bring clean energy to Ravenswood was a 316-megawatt battery project the New York Public Service Commission approved in 2019. It was slated to be completed by April 2021, but by January of that year, the company had <a href="https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/lacking-contract-ls-power-delays-major-battery-storage-station-in-ny-62467197" rel="noopener noreferrer" target="_blank"><u>not yet secured an offtake agreement with Con Edison</u></a>, the local utility, and so asked for a three-year extension. The development still has not broken ground. “Our project, and most like it that have been proposed in New York City, are awaiting the State’s expected battery procurement next year,” a spokesperson told me when I asked for a status update. “We expect that projects that received State incentives through that program will likely be able to proceed to construction quickly.”</p><p>The company also <a href="https://riselight.com/rise-plans-innovative-solution-to-power-15-of-nyc-with-upstate-clean-energy/" rel="noopener noreferrer" target="_blank"><u>submitted a bid</u></a> to the New York State Energy Research and Development Agency in May of 2021 to build a transmission line called the Catskills Renewable Connector that would be capable of delivering 1,200 megawatts of renewable energy from upstate solar and wind farms to the Ravenswood site, meeting up to 15% of the city’s electricity needs. But the agency passed over the proposal in favor of two other transmission lines — Clean Path New York, which would bring renewable power to the city from Western New York, and the Champlain Hudson Power Express, which would deliver hydropower from Canada. (While construction on the latter project is <a href="https://chpexpress.com/construction-progress/" rel="noopener noreferrer" target="_blank"><u>well underway</u></a>, Clean Path was cancelled the day before Thanksgiving.)</p><p>“We weren't selected then, but we’ve continued to mature and advance that project,” Plummer told me, regarding the Catskills line. “All these projects take a very long period of time to realize.”</p><p>The only aspect of Renewable Ravenswood that’s still alive and kicking, at least publicly, is the <a href="https://queensbororenewableexpress.com/" rel="noopener noreferrer" target="_blank"><u>Queensborough Renewable Express</u></a>, a set of high-voltage power lines that would connect the site to any future offshore wind farms in New York Harbor. The company is currently awaiting approval on a key permit for the line from the New York Public Service Commission. But while much of the project is located within the jurisdiction of New York, part of it will also need federal approvals.</p><p>Plummer may not be too concerned about the wind farm’s delay, but a freeze on offshore wind development for the next four years would further stretch New York’s already strained climate goals.</p><p>New York law requires the state to get 70% of its energy from renewable sources by 2030 and 100% from zero-emissions sources by 2040. The <a href="https://www.nypa.gov/-/media/nypa/documents/document-library/renewables/NYPA-Renewables-Draft-Strategic-Plan" rel="noopener noreferrer" target="_blank"><u>most recent progress report</u></a> on those goals, compiled by the New York Power Authority, found that the state had enough renewable energy operating and contracted so far to supply about 44% of expected demand in 2030. </p><p>A <a href="https://dps.ny.gov/news/comments-sought-regarding-clean-energy-standard-biennial-review" rel="noopener noreferrer" target="_blank"><u>separate state analysis</u></a> showed that offshore wind would play a key role in reaching the target, with an expected 6 gigawatts of offshore wind generation getting New York about 15% of the way there. But so far, the state has finalized contracts for only about 1.7 gigawatts. Though New York has several additional contracts pending awards, none of those potential projects has yet submitted construction plans to the federal Bureau of Ocean Management. If that office freezes its offshore wind work for the next four years, it’s possible none of them will be able to start construction until the 2030s at the earliest.</p><p>“Four years may not be significant for project development time frames,” Daniel Zarrilli, the former chief climate policy advisor for the city of New York, told me. “But the state has these 2030 and 2040 goals, and so many pieces of what makes up the ability to hit those goals are under stress. So it’s certainly not good news.” </p><p>New Yorkers aren’t the only ones who will be affected by the pause. Attentive Energy was also working on two additional offshore wind projects that would send power to New Jersey. The developer had already <a href="https://attentiveenergy.com/attentive-energy-two-celebrates-award-of-offshore-wind-contract-to-deliver-1-3-gw-of-clean-energy-and-thousands-of-jobs-into-new-jersey/" rel="noopener noreferrer" target="_blank"><u>secured a contract</u></a> to sell power into that state from a 1.3-gigawatt project called Attentive Energy Two. In July, it <a href="https://attentiveenergy.com/attentive-energys-proposal-to-new-jersey/" rel="noopener noreferrer" target="_blank"><u>submitted a bid</u></a> to New Jersey’s fourth offshore wind solicitation for an additional, unnamed 1.3-gigawatt project. The New Jersey Board of Public Utilities is expected to reach a decision on that solicitation this month.</p><p>I reached out to TotalEnergies to ask whether all three projects were paused or just the New York one, but the company said it would not comment on Pouyanne’s speech. The New Jersey Board of Public Utilities also did not respond as to whether Attentive had pulled either its awarded contract or bid.</p><p>It’s true that developing these projects takes a long time, and that anyone excited about Renewable Ravenswood should not have expected any new clean power to come into the site until the end of this decade, anyway. But further delays could have real consequences. “Any of these projects faltering is just going to keep New York City reliant on an aging and dirty fossil fleet,” said Zarrilli. The city is in a hole, he said, after the Indian Point nuclear plant closed and made it even more reliant on natural gas for electricity. </p><p>On my call with Plummer, he emphasized several times that the city has “the thinnest reserve margins we’ve had in decades” — in other words, it doesn’t have much wiggle room to meet increases in electricity demand. Rise Light and Power has already shut down 17 small gas “peaker” plants that were previously part of Ravenswood to make room for new renewable energy infrastructure. The city will be in better shape in 2026, assuming the Champlain Hudson Power Express finishes on time, <a href="https://www.nyiso.com/documents/20142/2248793/2024-RNA-Report.pdf/0fe6fd1e-0f28-0332-3e80-28bea71a2344?t=1732195607468" rel="noopener noreferrer" target="_blank"><u>according to the New York grid operator NYISO</u></a>. But by the early 2030s, when additional peaker plants are expected to be shut down due to pollution regulations, New York could be back on thin ice. </p><p>By then, the steam turbines at Ravenswood will be nearly 70 years old. Unless significant additional generation comes online by then, Rise Light and Power could be forced to re-invest in those gas generators rather than retire them. “It’d be terrible if they were forced to make that choice in the future,” said Zarrilli.</p> 
+
+<br> 
+
+<https://heatmap.news/climate/trump-offshore-wind-ravenswood>
+
+---
+
+## From VOA Mandarin: Trump 2.0 and the future of the CHIPS Act
+
+date: 2024-12-09, from: VOA News USA
+
+The Biden administration is shoring up its CHIPS Act funding agreements before President-elect Donald Trump takes office on January 20. Trump has previously disparaged the CHIPS Act and called for higher tariffs instead of subsidies to incentivize companies to build semiconductor factories. What would be the future of TSMC under the Trump administration?
+
+
+
+See the full story here. 
+
+<br> 
+
+<https://www.voanews.com/a/7893215.html>
+
+---
+
+## Suspect in UnitedHealthcare CEO killing charged with murder in New York, court records show
+
+date: 2024-12-09, from: VOA News USA
+
+Altoona, Pennsylvania — After UnitedHealthcare’s CEO was gunned down on a New York sidewalk, police searched for the masked gunman with dogs, drones and scuba divers. Officers used the city's muscular surveillance system. Investigators analyzed DNA samples, fingerprints and internet addresses. Police went door-to-door looking for witnesses.
+
+
+When an arrest came five days later, those sprawling investigative efforts shared credit with an alert civilian's instincts. A Pennsylvania McDonald's customer noticed another patron who resembled the man in the oblique security camera photos that New York police had publicized.
+
+
+Luigi Nicholas Mangione, a 26-year-old Ivy League graduate from a prominent Maryland real estate family, was arrested Monday in the killing of Brian Thompson, who headed one of the United States’ largest medical insurance companies.
+
+
+
+
+He remained jailed in Pennsylvania, where he was initially charged with possession of an unlicensed firearm, forgery and providing false identification to police. By late evening, prosecutors in Manhattan had added a charge of murder, according to an online court docket. He's expected to be extradited to New York eventually.
+
+
+It’s unclear whether Mangione has an attorney who can comment on the allegations. Asked at Monday's arraignment whether he needed a public defender, Mangione asked whether he could “answer that at a future date.”
+
+
+Mangione was arrested in Altoona, Pennsylvania, after the McDonald's customer recognized him and notified an employee, authorities said. Police in Altoona, about 375 kilometers west of New York City, were soon summoned.
+
+
+They arrived to find Mangione sitting at a table in the back of the restaurant, wearing a blue medical mask and looking at a laptop, according to a Pennsylvania police criminal complaint.
+
+
+He initially gave them a fake ID, but when an officer asked Mangione whether he’d been to New York recently, he “became quiet and started to shake,” the complaint says.
+
+
+
+
+When he pulled his mask down at officers' request, “we knew that was our guy,” rookie Officer Tyler Frye said at a news conference in Hollidaysburg.
+
+
+New York Police Commissioner Jessica Tisch said at a Manhattan news conference that Mangione was carrying a gun like the one used to kill Thompson and the same fake ID the shooter had used to check into a New York hostel, along with a passport and other fraudulent IDs.
+
+
+NYPD Chief of Detectives Joseph Kenny said Mangione also had a three-page, handwritten document that shows “some ill will toward corporate America."
+
+
+A law enforcement official who wasn’t authorized to discuss the investigation publicly and spoke with The Associated Press on condition of anonymity said the document included a line in which Mangione claimed to have acted alone.
+
+
+“To the Feds, I’ll keep this short, because I do respect what you do for our country. To save you a lengthy investigation, I state plainly that I wasn’t working with anyone,” the document said, according to the official.
+
+
+
+
+It also had a line that said, “I do apologize for any strife or traumas but it had to be done. Frankly, these parasites simply had it coming.”
+
+
+Pennsylvania prosecutor Peter Weeks said in court that Mangione was found with a passport and $10,000 in cash — $2,000 of it in foreign currency. Mangione disputed the amount.
+
+
+Thompson, 50, was killed last Wednesday as he walked alone to a midtown Manhattan hotel for an investor conference. Police quickly came to see the shooting as a targeted attack by a gunman who appeared to wait for Thompson, came up behind him and fired a 9 mm pistol.
+
+
+Investigators have said “delay,” “deny” and “depose” were written on ammunition found near Thompson’s body. The words mimic a phrase used to criticize the insurance industry.
+
+
+From surveillance video, New York investigators gathered that the shooter fled by bike into Central Park, emerged, then took a taxi to a northern Manhattan bus terminal.
+
+
+Once in Pennsylvania, he went from Philadelphia to Pittsburgh, “trying to stay low-profile” by avoiding cameras, Pennsylvania State Police Lt. Col. George Bivens said.
+
+
+A grandson of a wealthy, self-made real estate developer and philanthropist, Mangione is a cousin of a current Maryland state legislator. Mangione was valedictorian at his elite Baltimore prep school, where his 2016 graduation speech lauded his classmates’ “incredible courage to explore the unknown and try new things.”
+
+
+He went on to earn undergraduate and graduate degrees in computer science in 2020 from the University of Pennsylvania, a spokesperson said.
+
+
+“Our family is shocked and devastated by Luigi’s arrest,” Mangione’s family said in a statement posted on social media late Monday by his cousin, Maryland lawmaker Nino Mangione. “We offer our prayers to the family of Brian Thompson and we ask people to pray for all involved.”
+
+
+Luigi Nicholas Mangione worked for a time for the car-buying website TrueCar and left in 2023, CEO Jantoon Reigersman said by email.
+
+
+From January to June 2022, Mangione lived at Surfbreak, a “co-living” space at the edge of Honolulu tourist mecca Waikiki.
+
+
+Like other residents of the shared penthouse catering to remote workers, Mangione underwent a background check, said Josiah Ryan, a spokesperson for owner and founder R.J. Martin.
+
+
+“Luigi was just widely considered to be a great guy. There were no complaints,” Ryan said. "There was no sign that might point to these alleged crimes they’re saying he committed.”
+
+
+At Surfbreak, Martin learned Mangione had severe back pain from childhood that interfered with many aspects of his life, from surfing to romance, Ryan said.
+
+
+“He went surfing with R.J. once but it didn’t work out because of his back," Ryan said, but noted that Mangione and Martin often went together to a rock-climbing gym.
+
+
+Mangione left Surfbreak to get surgery on the mainland, Ryan said, then later returned to Honolulu and rented an apartment.
+
+
+Martin stopped hearing from Mangione six months to a year ago.
+
+
+Although the gunman obscured his face during the shooting, he left a trail of evidence in New York, including a backpack he ditched in Central Park, a cellphone found in a pedestrian plaza, a water bottle and a protein bar wrapper.
+
+
+In the days after the shooting, the NYPD collected hundreds of hours of surveillance video and released multiple clips and still images in hopes of enlisting the public’s eyes to help find a suspect.
+
+
+“This combination of old-school detective work and new-age technology is what led to this result today,” Tisch said at the New York news conference. 
+
+<br> 
+
+<https://www.voanews.com/a/ny-police-say-man-arrested-with-weapon-consistent-with-gun-in-killing-of-unitedhealthcare-ceo-/7893051.html>
+
+---
+
+## Veteran Daniel Penny is acquitted in NYC subway chokehold case over Jordan Neely's death
+
+date: 2024-12-09, from: VOA News USA
+
+New York — A Marine veteran who used a chokehold on an agitated subway rider was acquitted on Monday in a death that became a prism for differing views about public safety, valor and vigilantism. 
+
+
+A Manhattan jury cleared Daniel Penny of criminally negligent homicide in Jordan Neely's 2023 death. A more serious manslaughter charge was dismissed last week because the jury deadlocked on that count. 
+
+
+Penny, who had shown little expression during the trial, briefly smiled as the verdict was read. Both applause and anger erupted in the courtroom, and Neely's father and two supporters were ushered out after audibly reacting. Another person also left, wailing with tears. 
+
+
+"It really, really hurts," Neely's father, Andre Zachery, said outside the courthouse. "I had enough of this. The system is rigged." 
+
+
+
+
+Manhattan District Attorney Alvin Bragg, the Democrat whose office brought the case, said prosecutors "followed the facts and the evidence from beginning to end" and respect the verdict. 
+
+
+There was no immediate comment from lawyers for Penny, who rushed to a waiting car after the verdict. The anonymous jury, which had started deliberating Tuesday, was escorted out of court to a van. 
+
+
+Penny's attorneys had said he was protecting himself and other subway passengers from a volatile, mentally ill man who was making alarming remarks and gestures. 
+
+
+The case amplified many American fault lines, among them race, politics, crime, urban life, mental illness and homelessness. Neely was Black. Penny is white. 
+
+
+There were sometimes dueling demonstrations outside the courthouse, including Monday, when chants could be heard through the courtroom window ahead of the verdict. High-profile Republican politicians portrayed Penny as a hero while prominent Democrats attended Neely's funeral. 
+
+
+Penny, 26, served four years in the Marines and went on to study architecture. 
+
+
+Neely, 30, was a sometime subway performer with a tragic life story: His mother was killed and stuffed in a suitcase when he was a teenager. 
+
+
+As a younger man, Neely did Michael Jackson tributes — complete with moonwalks — on the city's streets and subways. But Neely also struggled with mental illness after losing his mother, whose boyfriend was convicted of murdering her. 
+
+
+He subsequently was diagnosed with depression and schizophrenia, was repeatedly hospitalized, and used the synthetic cannabinoid K2 and realized it negatively affected his thinking and behavior, according to medical records seen at the trial. The drug was in his system when he died. 
+
+
+Neely told a doctor in 2017 that being homeless, living in poverty and having to "dig through the garbage" for food made him feel so hopeless that he sometimes thought of killing himself, hospital records show. 
+
+
+About six years later, he boarded a subway under Manhattan on May 1, 2023, hurled his jacket onto the floor, and declared that he was hungry and thirsty and didn't care if he died or went to jail, witnesses said. Some told 911 operators that he tried to attack people or indicated he'd harm riders, and several testified that they were afraid. 
+
+
+Neely was unarmed, with nothing but a muffin in his pocket, and didn't touch any passengers. One said he made lunging movements that alarmed her enough that she shielded her 5-year-old from him. 
+
+
+Penny came up behind Neely, grabbed his neck, took him to the floor and "put him out," as the veteran told police at the scene. 
+
+
+Passengers' video showed that at one point during the roughly six-minute hold, Neely tapped an onlooker's leg and gestured to him. Later, he briefly got an arm free. But he went still nearly a minute before Penny released him. 
+
+
+"He's dying," an unseen bystander said in one video. "Let him go!" 
+
+
+A witness who stepped in to hold down Neely's arms testified that he told Penny to free the man, though Penny's lawyers noted the witness' story changed significantly over time. 
+
+
+Penny told detectives shortly after the encounter that Neely threatened to kill people and the chokehold was an attempt to "de-escalate" the situation until police could arrive. The veteran said he held on as long as he did because Neely periodically squirmed. 
+
+
+"I wasn't trying to injure him. I'm just trying to keep him from hurting anyone else. He's threatening people. That's what we learn in the Marine Corps," Penny told the detectives. 
+
+
+However, one of Penny's Marine Corps instructors testified that the veteran misused a chokehold technique he'd been taught. 
+
+
+Prosecutors said Penny reacted far too forcefully to someone he perceived as a peril, not a person. Prosecutors also argued that any need to protect passengers quickly ebbed when the train doors opened at the next station, seconds after Penny took action. 
+
+
+Although Penny himself told police he'd used "a choke" or "a chokehold," one of his lawyers, Steven Raiser, cast it as a Marine-taught chokehold "modified as a simple civilian restraint." The defense lawyers contended that Penny didn't consistently apply enough pressure to kill Neely. 
+
+
+Contradicting a city medical examiner's finding, a pathologist hired by the defense said Neely died not from the chokehold but from the combined effects of K2, schizophrenia, his struggle and restraint, and a blood condition that can lead to fatal complications during exertion. 
+
+
+Penny did not testify, but several of his relatives, friends and fellow Marines did — describing him as an upstanding, patriotic and empathetic man. 
+
+
+The manslaughter charge would have required proving that Penny recklessly caused Neely's death. Criminally negligent homicide involves engaging in serious "blameworthy conduct" while not perceiving such a risk. Both charges were felonies and carried the possibility of prison time. 
+
+
+While the criminal trial played out, Neely's father filed a wrongful death suit against Penny. 
+
+<br> 
+
+<https://www.voanews.com/a/veteran-daniel-penny-is-acquitted-in-nyc-subway-chokehold-case-over-jordan-neely-s-death/7893029.html>
+
+---
+
+## 62 Years After the '62 War, Where Do China and India Go From Here?
+
+date: 2024-12-09, updated: 2024-12-09, from: RAND blog
+
+Recent developments between India and China highlight a mutual focus on maintaining peace along their disputed border. Agreements to de-escalate tensions signal a potential shift towards improved relations, benefiting regional stability and U.S. strategic interests. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/12/62-years-after-the-62-war-where-do-china-and-india.html>
+
+---
+
+## The Education of George McKenna
+
+date: 2024-12-09, from: Capital and Main
+
+<p>After working through the growth and decline of Black enrollment, and assaults on racial equity, the outgoing LAUSD board member says the fight going forward is still about setting high expectations for Black students.</p>
+<p>The post <a href="https://capitalandmain.com/the-education-of-george-mckenna">The Education of George McKenna</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/the-education-of-george-mckenna>
+
+---
+
+## TikTok asks federal appeals court to bar enforcement of potential ban until Supreme Court review
+
+date: 2024-12-09, from: VOA News USA
+
+TikTok asked a federal appeals court on Monday to bar the Biden administration from enforcing a law that could lead to a ban on the popular platform until the Supreme Court reviews its challenge to the statue. 
+
+
+The legal filing was made after a panel of three judges on the same court sided with the government last week and ruled that the law, which requires TikTok to divest from its China-based parent company or face a ban as soon as next month, was constitutional. 
+
+
+If the law is not overturned, both TikTok and its parent ByteDance, which is also a plaintiff in the case, have claimed that the popular app will shut down by Jan. 19, 2025. TikTok has more than 170 million American users. 
+
+
+"Before that happens, the Supreme Court should have an opportunity, as the only court with appellate jurisdiction over this action, to decide whether to review this exceptionally important case," attorneys for the two companies wrote in the legal filing on Monday. 
+
+
+It's not clear if the Supreme Court will take up the case. 
+
+
+President-elect Donald Trump, who tried to ban TikTok the last time he was in the White House, has said he is now against such action. 
+
+
+In their legal filing, the two companies pointed to the political realities, saying that an injunction would provide a "modest delay" that would give "the incoming Administration time to determine its position — which could moot both the impending harms and the need for Supreme Court review." 
+
+<br> 
+
+<https://www.voanews.com/a/tiktok-asks-federal-appeals-court-to-bar-enforcement-of-potential-ban-until-supreme-court-review-/7892664.html>
+
+---
+
+## 'Emilia Perez,' 'The Brutalist' lead Golden Globe film nominations
+
+date: 2024-12-09, from: VOA News USA
+
+BEVERLY HILLS, California — Musical thriller "Emilia Perez" and historical epic "The Brutalist" led the roster of films nominated on Monday for the 2025 Golden Globes, the Hollywood honors that kick off the movie awards season leading to the Oscars.
+
+
+"Emilia Perez," released by Netflix NFLX.O, scored 10 nods and "The Brutalist," from independent distributor A24, earned seven.
+
+
+Taking home a Globe can help movies in the race to the Academy Awards in March. Last year's Hollywood strikes scrambled this year's release schedule, and awards pundits say there is no clear frontrunner for best picture at the Oscars.
+
+
+The Globe winners will be chosen by 334 entertainment journalists from 85 countries and will be announced Jan. 5 at a ceremony broadcast live on CBS and streamed on Paramount+.
+
+
+"Emilia Perez" stars Zoe Saldana as a lawyer who helps a drug cartel leader (Spanish actor Karla Sofía Gascón) fake his death and transition from a man to a woman. Selena Gomez co-stars as the cartel leader's wife. All three were nominated for by Globes voters for acting honors.
+
+
+"The Brutalist" stars Adrien Brody in an epic tale of a Hungarian immigrant who flees the horrors of World War Two to rebuild his life in the United States.
+
+
+Box office smash "Wicked," adapted from a long-running Broadway play about the witches in "The Wizard of Oz," landed four nominations. 
+
+<br> 
+
+<https://www.voanews.com/a/emilia-perez-the-brutalist-lead-golden-globe-film-nominations-/7892640.html>
+
+---
+
+## Can a “good but not booming” economy justify booming stock growth?
+
+date: 2024-12-09, from: Marketplace Morning Report
+
+<p>Just this past Friday, after a positive jobs report, the S&amp;P 500 hit another record high; it&#8217;s up 28% so far this year. If that holds, it&#8217;ll be two back-to-back years of more than 20% growth. But at what point does this growth become unsustainable? We&#8217;ll discuss. Also on the program: Bad weather is coming for your morning cup of joe and a look at how businesses in the U.K. are keeping up with holiday shopping demand.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/12/09/mmr_20241209_MMR_Podcast_3_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fcan-a-good-but-not-booming-economy-justify-booming-stock-growth&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/12/09/mmr_20241209_MMR_Podcast_3_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fcan-a-good-but-not-booming-economy-justify-booming-stock-growth&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/can-a-good-but-not-booming-economy-justify-booming-stock-growth>
 
 ---
 

@@ -24,6 +24,8 @@ https://elemental.green/feed/ "~Elemental Green blog"
 # They appear tobe a Wordpress site. Not sure what is up. 
 https://www.attainablehome.com/wp/feed/ "~The Attainable Home" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://www.practicaloffgridliving.com/feed/ "~Practical Off-Grid Living"
+https://gregalder.com/yardposts/feed/ "~Greg Alder's blog, Yard Post"
+https://californiagrown.org/feed/ "~California Grown"
 
 #
 # Inspiration

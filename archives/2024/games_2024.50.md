@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-12-09 07:04:42
+updated: 2024-12-10 07:05:23
 ---
 
 # games
 
-(date: 2024-12-09 07:04:42)
+(date: 2024-12-10 07:05:23)
+
+---
+
+## Suspect apprehended in UHC shooting was former Firaxis Games intern
+
+date: 2024-12-10, updated: 2024-12-10, from: Polygon Website
+
+On Dec. 4, a masked person shot UnitedHealthcare CEO Brian Thompson on the streets of Manhattan. On Monday, a McDonald’s employee in Pennsylvania spotted someone who resembled the shooter; that person, 26-year-old Luigi Mangione, has since been arrested, according to AP. Information about Mangione immediately circulated online, including his background in video game development and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/493418/uhc-shooter-shooting-suspect-luigi-mangione-arrest-firaxis-games>
+
+---
+
+## Where to find the ‘Father and Son’ safe code in Indiana Jones and the Great Circle
+
+date: 2024-12-10, updated: 2024-12-10, from: Polygon Website
+
+“Father and Son” is a mystery you’ll uncover in Indiana Jones and the Great Circle once you rescue Giuliana from the Blackshirts. She’ll give you a key — Giuliana’s Key — that unlocks a secret room in Borgia Tower. Our Indiana Jones and the Great Circle guide will show you how to find the “Father [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/indiana-jones-great-circle-guide/493051/father-and-son-safe-code-combination>
+
+---
+
+## The best sci-fi and fantasy books of 2024
+
+date: 2024-12-10, updated: 2024-12-10, from: Polygon Website
+
+Our favorite books this year were so wonderfully human. A sexbot’s quest for self-determination; a haunted house inhabited by angry witches; more than one heartbreaking new take on time travel — genre fiction is always about how we live now, but this year how we live now seems so much closer to the surface.&#160; With [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/2024/7/8/24180933/best-fantasy-books-sci-fi-2024>
+
+---
+
+## Space Marine 2&#8217;s Secret Level episode is the bolter porn we crave
+
+date: 2024-12-10, updated: 2024-12-09, from: Polygon Website
+
+Warhammer 40,000 fans have a problem: everybody loves Space Marines. These transhuman soldiers are the special forces of the Imperium of Man, and can be found on the front lines against all mutants, witches, and xenos. They’re the best selling army in the Games Workshop catalog, they star in the most books, and they even [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/493074/amazon-secret-level-space-marine-40k-episode-know-no-fear-titus>
+
+---
+
+## The 28 Years Later trailer has way more Teletubbies and creepy poetry than I was expecting
+
+date: 2024-12-10, updated: 2024-12-10, from: Polygon Website
+
+The first trailer for Danny Boyle and Alex Garland’s 28 Years Later — follow-up to their 2002 zombie banger 28 Days Later and its 2007 sequel 28 Weeks Later — has landed. And it’s really quite terrifying. The trailer opens with a flashback to the beginning of the “rage virus” outbreak, with its fast-moving, aggressive [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/493438/the-28-years-later-trailer-has-way-more-teletubbies-and-creepy-poetry-than-i-was-expecting>
+
+---
+
+## Can Murkrow be shiny in Pokémon Go?
+
+date: 2024-12-10, updated: 2024-12-09, from: Polygon Website
+
+Murkrow, the darkness Pokémon from Johto, can be found in the wild in Pokémon Go. Yes, Murkrow can be shiny in Pokémon Go! Honestly, Honchkrow is not a terrible option for both a dark- and flying-type attacker, if you have no better choices. It’s even better with its shadow form, where it’s strangely reliable. These [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/492859/can-murkrow-be-shiny-honchkrow>
+
+---
+
+## Suicide Squad: Kill the Justice League’s fourth season will be its last
+
+date: 2024-12-09, updated: 2024-12-09, from: Polygon Website
+
+Rocksteady Studios’ Suicide Squad game is officially coming to its end. The fourth season of Suicide Squad: Kill the Justice League will welcome a new playable character, Deathstroke, to the game, and “will mark the final battle against Brainiac,” the developer said Monday on the game’s official website. Suicide Squad: Kill the Justice League’s next [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/493305/suicide-squad-kill-justice-league-final-dlc>
+
+---
+
+## Discoveries
+
+date: 2024-12-09, updated: 2024-12-09, from: Polygon Website
+
+At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
+
+---
+
+## How to solve the Fountain of Confession puzzles in Indiana Jones and the Great Circle
+
+date: 2024-12-09, updated: 2024-12-09, from: Polygon Website
+
+You’ll reach the Fountain of Confession in Indiana Jones and the Great Circle as you progress “The Stolen Cat Mummy” adventure. Once you reach the fountain, you’ll have to solve a puzzle to open a secret door, and then solve more puzzles to get inside. The first puzzle involves three dragon statues at the Fountain [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/indiana-jones-great-circle-guide/493105/fountain-confession-baptism-bulrushes-puzzles-solutions-how-to-solve>
+
+---
+
+## What we think will get announced at the Game Awards 2024
+
+date: 2024-12-09, updated: 2024-12-10, from: Polygon Website
+
+The Game Awards is simultaneously an awards show and a trailer extravaganza in which game studios and publishers show off their upcoming slates. Some of these trailers are for games that have already been announced; others are what TGA host Geoff Keighley calls “world premieres.” We already know from official announcements about what’s confirmed to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/game-awards-tga/493119/game-awards-2024-tgas-trailers-predictions-announcements-reveals>
 
 ---
 

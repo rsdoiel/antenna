@@ -1,11 +1,515 @@
 ---
 title: science and technology
-updated: 2024-12-09 07:04:41
+updated: 2024-12-10 07:05:22
 ---
 
 # science and technology
 
-(date: 2024-12-09 07:04:41)
+(date: 2024-12-10 07:05:22)
+
+---
+
+## OpenAI's Sora lets ChatGPT subscribers churn out janky text-generated videos
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>Buckle up, because limbed creatures are about to get weird</h4> <p>OpenAI has put its video generation tool, Sora, into the hands of ChatGPT Plus and Pro users.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/openai_sora_release/>
+
+---
+
+## NASA TechLeap Prize: Space Technology Payload Challenge
+
+date: 2024-12-10, from: NASA breaking news
+
+The Space Technology Payload Challenge invites individuals, teams, and organizations to submit applications for systems that advance technology to address one or more of NASA’s shortfalls. These shortfalls identify technology areas where further technology development is required to meet future exploration, science, and other mission needs. In addition, technologies to address these select shortfalls are [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-space-technology-payload-challenge/>
+
+---
+
+## 3D Printable Bioreactor for Deep Space Food Production
+
+date: 2024-12-10, from: NASA breaking news
+
+NASA’s Synthetic Biology Project is turning to the 3D printing experts in the GrabCAD community for ideas and or designs that could lead to the ability to reuse and recycle small scale bioreactors to reduce the mass and volume requirements for deep space missions. Ideally, designs that could be printed using a 3D printer, using [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/3d-printable-bioreactor-for-deep-space-food-production/>
+
+---
+
+## A brief history of Mac servers
+
+date: 2024-12-10, from: OS News
+
+Although there’s little evidence of them today, Apple made a long succession of Mac servers and servers for Macs from 1988 to 2014, and only discontinued support for the last release of macOS Server in April 2022. Its first entry into the market was a special version of the Macintosh II running Apple’s own port of Unix way back in 1988. ↫ Howard Oakley These days, you can nab Xserves for pretty cheap on eBay, but since Apple doesn&#8217;t properly support them anymore, they&#8217;re mostly a curiosity for people who are into retro homelab stuff and the odd Apple enthusiast who doesn&#8217;t know what to do with it. It always felt like Apple&#8217;s head was never really in the game when it came to its servers, despite the fact that both its hardware and software were quite interesting and user friendly compared to the competition. Regardless, if my wife and I ever manage to buy our own house, the basement&#8217;s definitely getting a nice homelab rack with old &#8211; mostly non-x86 Sun and HP &#8211; servers, and I think an Xserve would be a fun addition, too. Living in the Arctic means any heat they generate is useful for like 9 or so months of the year to help warm the house, and since our electricity is generated from hydropower they wouldn&#8217;t be generating a massive excess of pollution, either. I have to figure out what to do with the excess heat during the few months of the year where it&#8217;s warm outside, though. 
+
+<br> 
+
+<https://www.osnews.com/story/141306/a-brief-history-of-mac-servers/>
+
+---
+
+## Meet Willow, our state-of-the-art quantum chip
+
+date: 2024-12-10, from: OS News
+
+Today I’m delighted to announce Willow, our latest quantum chip. Willow has state-of-the-art performance across a number of metrics, enabling two major achievements. The concensus seems to be that this is a major achievement and milestone in quantum computing, and that it&#8217;s come faster than everyone expected. This topic is obviously far more complicated than most people can handle, so we have to rely on the verdicts and opinions from independent experts to gain some sense of just how significant an announcement this really is. The paper&#8217;s published in Nature for those few of us posessing the right amount of skill and knowledge to 
+
+<br> 
+
+<https://www.osnews.com/story/141304/meet-willow-our-state-of-the-art-quantum-chip/>
+
+---
+
+## Fully patched Cleo products under renewed 'zero-day-ish' mass attack
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>Thousands of servers targeted while customers wait for patches</h4> <p>Researchers at security shop Huntress are seeing mass exploitation of a vulnerability affecting three Cleo file management products, even on patched systems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/cleo_vulnerability/>
+
+---
+
+## Hundreds of Curious Cats Contemplated Ancient Egyptian Artifacts During a Series of 'Meowseum Nights' in China
+
+date: 2024-12-10, from: Smithsonian Magazine
+
+For ten nights, animal lovers brought their furry friends to "On Top of the Pyramid: The Civilization of Ancient Egypt" at the Shanghai Museum, where many examples of ancient cat imagery are on display 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/hundreds-of-curious-cats-contemplated-ancient-egypt-artifacts-during-a-series-of-meowseum-nights-in-china-180985612/>
+
+---
+
+## How to Watch the Geminid Meteor Shower This Weekend
+
+date: 2024-12-10, from: Smithsonian Magazine
+
+The peak of this popular annual meteor shower risks being washed out by an almost full moon this year—but stargazers can still spot shooting stars if they follow the right tips 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/how-to-watch-the-geminid-meteor-shower-this-weekend-180985605/>
+
+---
+
+## Heart surgery device maker's security bypassed, data encrypted and stolen
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>Sounds like th-aorta get this sorted quickly</h4> <p>A manufacturer of devices used in heart surgeries says it&#39;s dealing with &#34;a cybersecurity incident&#34; that bears all the hallmarks of a ransomware attack.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/artivion_security_incident/>
+
+---
+
+## Microsoft delays final Exchange Server 2019 Cumulative Update to 2025
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>Quiet festive season for admins, but next year will be busy</h4> <p>Microsoft has pushed the final Cumulative Update for Exchange Server 2019 into 2025.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_exchange_server_cu/>
+
+---
+
+## SAP says GenAI will help solve legacy migration skills shortage
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>As 2027 support deadline looms, German vendor puts faith in on-trend tech to help SIs do more with less</h4> <p>SAP has claimed that its systems integrator partners will avoid a skills crunch in the looming 2027 support deadline by using GenAI to get to grips with legacy software.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/sap_says_genai_will_help/>
+
+---
+
+## Sols 4386-4388: Powers of Ten
+
+date: 2024-12-10, from: NASA breaking news
+
+Earth planning date: Friday, Dec. 6, 2024 We successfully arrived in our new exploration quadrangle — the Altadena quad — which is named after a town on Earth very near our own Jet Propulsion Laboratory! The names from this quad will recognize the incredible interaction between Altadena and its surrounding environs with the San Andreas […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4386-4388-powers-of-ten/>
+
+---
+
+## Bitfinex heist gets the Netflix treatment after 'cringey couple' sentenced
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>Streamer&#39;s trademark dramatic style takes on Bitcoin Bonnie and Clyde</h4> <p>A documentary examining the 2016 Bitfinex burglars hits Netflix, bringing the curious case to living rooms for the first time.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/bitfinex_bitcoin_heist_netflix/>
+
+---
+
+## On This Day in 1906, a Nobel Prize Was Awarded to an American for the First Time for Ending a War on the Other Side of the Globe
+
+date: 2024-12-10, from: Smithsonian Magazine
+
+It was immediately controversial that President Theodore Roosevelt, famous for vigorous military interventions, was the first statesman to win the Peace Prize 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/on-this-day-in-1906-a-nobel-prize-was-awarded-to-an-american-for-the-first-time-for-ending-a-war-on-the-other-side-of-the-globe-180985564/>
+
+---
+
+## With Gelsinger gone, to fab or not to fab is the $7B question
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>Whoever takes over has some tough decisions to make</h4> <p><strong>Analysis</strong>  There has already been much speculation about who will succeed Pat Gelsinger as Intel chief, but perhaps a more pertinent question is whether the company wants to continue to be a manufacturer or join the ranks of fabless semiconductor firms.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/gelsinger_departure_intel_future/>
+
+---
+
+## Open source maintainers are drowning in junk bug reports written by AI
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>Python security developer-in-residence decries use of bots that &#39;cannot understand code&#39;</h4> <p>Software vulnerability submissions generated by AI models have ushered in a &#34;new era of slop security reports for open source&#34; – and the devs maintaining these projects wish bug hunters would rely less on results produced by machine learning assistants.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/ai_slop_bug_reports/>
+
+---
+
+## WhatsApp finally fixes View Once flaw that allowed theft of supposedly vanishing pics
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>And it only took four months, tut</h4> <p>WhatsApp has fixed a problem with its View Once feature, designed to protect people&#39;s privacy with automatically disappearing pictures and videos.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/whatsapp_view_once/>
+
+---
+
+## TikTok appeals to have Trump – or Supreme Court – decide its fate later
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>Wants to defer shutdown order that takes effect a day before the presidential inauguration</h4> <p>Made-in-China social network TikTok has appealed the decision to shut it down in the US, arguing that the deadline for its destruction should be deferred to give another regime a chance to review its case.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/tiktok_appeal/>
+
+---
+
+## Alibaba exec trashes his own staff and customers, quickly apologizes
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>&#39;I am carefree, I like to joke,&#39; says guy who fines workers if they glance at phones during meetings</h4> <p>The CEO of Chinese tech giant Alibaba&#39;s entertainment division fines his staff if they look at their phones during meetings – a little nugget he revealed during a speech that included insults sprayed at both colleagues and customers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/alibaba_ceo_gaming_apology/>
+
+---
+
+## South Korean web giant Naver creates its own Linux distro
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>&#39;Navix&#39; follows OpenELA rules, comes with ten years support, and is already used in production at scale</h4> <p>Korean web giant Naver has gone into the operating system business, releasing its very own Linux distribution.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/naver_navix_linux/>
+
+---
+
+## Mystery border control outage causes misery at Malaysia/Singapore frontier
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>If this were a US scandal, we&#39;d cal it &#39;Gategate&#39;</h4> <p>Malaysia&#39;s automated border control equipment – known as e-gates or automates – glitched out over the weekend, leaving travelers crossing the very busy border between Johor Bahru and Singapore required to spend hours waiting in line.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/johor_bahru_singapore_outage_immigration/>
+
+---
+
+## Police arrest suspect in murder of UnitedHealthcare CEO, with grainy pics the only tech involved
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>McDonald&#39;s worker called it in, cops swooped, found &#39;gun, suppressor, manifesto&#39;</h4> <p>Police in Pennsylvania have arrested a man suspected of shooting dead the CEO of insurer UnitedHealthcare in New York City, thanks to a McDonald&#39;s employee who recognized the suspect in a burger joint – and largely without help from technology.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/unitedhealthcare_shooting_camera/>
+
+---
+
+## Neuraspace adds a second telescope to track objects in orbit
+
+date: 2024-12-09, updated: 2024-12-09, from: The Register (UK I.T. News)
+
+<h4>Starlink satellites might annoy astronomers, but at least they&#39;re easy to spot</h4> <p>Space debris tracking specialist Neuraspace added another optical telescope to extend satellite tracking over the Southern Hemisphere.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/09/neuraspace_second_telescope/>
+
+---
+
+## 30 Years Ago: NASA Selects its 15th Group of Astronauts
+
+date: 2024-12-09, from: NASA breaking news
+
+On Dec. 8, 1994, NASA announced the selection of its 15th group of astronauts. The diverse group comprised 19 candidates – 10 pilots and nine mission specialists, and included five women, two African Americans, one Asian American, and the first Peruvian-born and Indian-born astronauts. Four international astronauts, one each from Canada and Japan and two [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/history/30-years-ago-nasa-selects-its-15th-group-of-astronauts/>
+
+---
+
+## The Next Full Moon is the Cold Moon
+
+date: 2024-12-09, from: NASA breaking news
+
+The Next Full Moon is the Cold Moon, Frost Moon, or the Winter Moon; the Moon before Yule or the Oak Moon; the Long Night Moon; the Child Moon; the Datta or Dattatreya Jayanti Festival Moon; the Karthika Deepam Festival Moon; Unduvap Poya; and the Chang’e Moon. The next full Moon will be Sunday morning, […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-cold-moon-frost-moon-or-winter-moon/>
+
+---
+
+## Reddit rolls out AI-powered 'Answers' search feature, redditors don't rejoice
+
+date: 2024-12-09, updated: 2024-12-09, from: The Register (UK I.T. News)
+
+<h4>Many users unhappy with current state of search, want to know why this got priority</h4> <p>Reddit&#39;s internal search engine is often criticized as one of the site&#39;s weakest features but the platform claims AI integration will make it &#34;faster, smarter, and more relevant.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/09/reddit_ai_answers_search_feature/>
+
+---
+
+## Uncrewed Aircraft Systems Traffic Management Beyond Visual Line of Sight (UTM BVLOS)
+
+date: 2024-12-09, from: NASA breaking news
+
+NASA’s Uncrewed Aircraft Systems Traffic Management Beyond Visual Line of Sight (UTM BVLOS) subproject aims to support the growing demand for drone flights across the globe.   Uncrewed aircraft systems (UAS), or drones, offer an increasing number of services, from package delivery to critical public safety operations, like search and rescue missions. However, without special waivers, these [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/uncrewed-aircraft-systems-traffic-management-beyond-visual-line-of-sight-utm-bvlos/>
+
+---
+
+## NASA Awards Contract for NOAA’s Next Generation Space Weather Program
+
+date: 2024-12-09, from: NASA breaking news
+
+NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has selected Southwest Research Institute of San Antonio to build the Next-Generation Space Weather Magnetometer for the Lagrange 1 Series project as a part of NOAA’s Space Weather Next program. This cost-plus-fixed-fee contract is valued at approximately $26.1 million and includes the development of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-next-generation-space-weather-program/>
+
+---
+
+## NASA’s PACE, US-European SWOT Satellites Offer Combined Look at Ocean
+
+date: 2024-12-09, from: NASA breaking news
+
+One Earth satellite can see plankton that photosynthesize. The other measures water surface height. Together, their data reveals how sea life and the ocean are intertwined. The ocean is an engine that drives Earth’s weather patterns and climate and sustains a substantial portion of life on the planet. A new animation based on data from [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/pace/nasas-pace-us-european-swot-satellites-offer-combined-look-at-ocean/>
+
+---
+
+## NASA Researchers Discover More Dark Comets
+
+date: 2024-12-09, from: NASA breaking news
+
+These celestial objects look like asteroids but act like comets now come in two flavors. The first dark comet — a celestial object that looks like an asteroid but moves through space like a comet — was reported less than two years ago. Soon after, another six were found. In a new paper, researchers announce [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/solar-system/comets/nasa-researchers-discover-more-dark-comets/>
+
+---
+
+## Climate Scientists Project 2024 Will Be the Hottest Year on Record—and the First to Pass 1.5 Degrees Celsius of Warming
+
+date: 2024-12-09, from: Smithsonian Magazine
+
+After November 2024 was the second warmest November in the books, experts say the year is "effectively certain" to break the heat record set by 2023 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/climate-scientists-project-2024-will-be-the-hottest-year-on-record-and-the-first-to-pass-15-degrees-celsius-of-warming-180985614/>
+
+---
+
+## Station Science Top News: Dec. 6, 2024
+
+date: 2024-12-09, from: NASA breaking news
+
+Astronaut cognitive performance remains generally stable Researchers found that astronauts on six-month missions to the International Space Station demonstrated generally stable cognitive performance but mild changes in certain areas, including processing speed, working memory, attention, and willingness to take risks. This research provides baseline data that could help identify cognitive changes on future missions and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-6-2024/>
+
+---
+
+## 'Polarization' Is Merriam-Webster's Word of the Year for 2024
+
+date: 2024-12-09, from: Smithsonian Magazine
+
+The winning word beat out finalists such as "demure," "pander," "totality," "fortnight," "allision" and "democracy" 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/polarization-is-merriam-websters-word-of-the-year-for-2024-180985610/>
+
+---
+
+## China's Salt Typhoon recorded top American officials' calls, says White House
+
+date: 2024-12-09, updated: 2024-12-09, from: The Register (UK I.T. News)
+
+<h4>No word yet on who was snooped on. Any bets?</h4> <p>Chinese cyberspies recorded &#34;very senior&#34; US political figures&#39; calls, according to White House security boss Anne Neuberger.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/09/white_house_salt_typhoon/>
+
+---
+
+## A Rare Caravaggio Portrait Was Hidden Away for Years. Now, Visitors Can See It in Person for the First Time
+
+date: 2024-12-09, from: Smithsonian Magazine
+
+The 17th-century painting, which may depict a young Pope Urban VIII, wasn't officially attributed to the renowned Baroque artist until the 1960s 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-rare-caravaggio-portrait-was-hidden-away-for-years-now-visitors-can-see-it-in-person-for-the-first-time-180985598/>
+
+---
+
+## You Can Now See Apex, the World's Most Expensive Dinosaur Fossil, on Display at a New York City Museum
+
+date: 2024-12-09, from: Smithsonian Magazine
+
+The largest and most complete Stegosaurus specimen sold for a record-setting price in July, and it is currently on loan to the American Museum of Natural History for four years 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/you-can-now-see-apex-the-worlds-most-expensive-dinosaur-fossil-on-display-at-a-new-york-city-museum-180985606/>
+
+---
+
+## Microsoft rolls out Recall for Intel, AMD-based Copilot+ PCs
+
+date: 2024-12-09, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>More Windows Insiders get to see if the snapshotter is fixed</h4> <p>Microsoft is widening the rollout of the Recall Preview to include Dev Channel Windows Insiders running AMD and Intel-based Copilot+ PCs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/09/windows_recall_intel_amd/>
+
+---
+
+## Mysterious outbreak with high fatality rate in the DRC could imperil tech supply chains
+
+date: 2024-12-09, updated: 2024-12-09, from: The Register (UK I.T. News)
+
+<h4>Is the industry ready to be tested if the unidentified deadly pathogen spreads beyond rural Kwango Province?</h4> <p>A mystery disease with a fatality rate higher than COVID-19 has broken out in the Democratic Republic of the Congo (DRC), and while the global pandemic risk is currently considered to be low, some of the world&#39;s biggest tech giants may want to dust off those pandemic supply chain disruption plans. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/09/drc_disease/>
+
+---
+
+## Crooks stole AWS credentials from misconfigured sites then kept them in open S3 bucket
+
+date: 2024-12-09, updated: 2024-12-09, from: The Register (UK I.T. News)
+
+<h4>ShinyHunters-linked heist thought to have been ongoing since March</h4> <p><strong>Exclusive</strong>  A massive online heist targeting AWS customers during which digital crooks abused misconfigurations in public websites and stole source code, thousands of credentials, and other secrets remains &#34;ongoing to this day,&#34; according to security researchers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/09/aws_credentials_stolen/>
+
+---
+
+## Quantum Computers Cross Critical Error Threshold
+
+date: 2024-12-09, from: Quanta Magazine
+
+In a first, researchers have shown that adding more “qubits” to a quantum computer can make it more resilient. It’s an essential step on the long road to practical applications.            <p>The post <a href="https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/" target="_blank">Quantum Computers Cross Critical Error Threshold</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/>
+
+---
+
+## A Trove of Gold Coins Stolen From 300-Year-Old Florida Shipwrecks Has Been Recovered by Investigators
+
+date: 2024-12-09, from: Smithsonian Magazine
+
+Contracted divers found 101 gold coins from the wreckage of a Spanish fleet in 2015, but they only reported 51 to authorities. Now, 37 of the stolen coins have been found 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-trove-of-gold-coins-stolen-from-300-year-old-florida-shipwrecks-has-been-recovered-by-investigators-180985586/>
+
+---
+
+## China strikes back with Nvidia antitrust probe as US tightens tech chokehold
+
+date: 2024-12-09, updated: 2024-12-09, from: The Register (UK I.T. News)
+
+<h4>Beijing cites GPU giant&#39;s Mellanox merger conditions from four years ago</h4> <p><strong>Updated</strong>  Nvidia has been slapped with an antitrust probe by China&#39;s state regulator, likely a response to US export restrictions as part of the ongoing chip wars between the two countries.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/09/nvidia_antitrust_probe_china/>
 
 ---
 
@@ -45,7 +549,7 @@ From a deep dive on a fatal space shuttle disaster to a study of a dozen iconic 
 
 ---
 
-## Another issue in Windows 11 24H2 – Outlook might not start with Google Workspace Sync running
+## Windows 11 24H2 strikes again – Outlook might not start with Google Workspace Sync running
 
 date: 2024-12-09, updated: 2024-12-09, from: The Register (UK I.T. News)
 
@@ -165,7 +669,7 @@ date: 2024-12-09, updated: 2024-12-09, from: The Register (UK I.T. News)
 
 ---
 
-## We can't make this stuff up: tech companies Palantir and Anduril form fellowship for AI adventures
+## We can't make this stuff up: Palantir, Anduril form fellowship for AI adventures
 
 date: 2024-12-09, updated: 2024-12-09, from: The Register (UK I.T. News)
 
@@ -215,7 +719,7 @@ date: 2024-12-08, updated: 2024-12-08, from: The Register (UK I.T. News)
 
 ## How Chinese insiders are stealing data scooped up by President Xi's national surveillance system
 
-date: 2024-12-08, updated: 2024-12-08, from: The Register (UK I.T. News)
+date: 2024-12-08, updated: 2024-12-09, from: The Register (UK I.T. News)
 
 <h4>&#39;It&#39;s a double-edged sword,&#39; security researchers tell The Reg</h4> <p><strong>Feature</strong>  Chinese tech company employees and government workers are siphoning off user data and selling it online - and even high-ranking Chinese Communist Party officials and FBI-wanted hackers&#39; sensitive information is being peddled by the Middle Kingdom&#39;s thriving illegal data ecosystem.…</p> 
 

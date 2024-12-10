@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2024-12-09 07:04:43
+updated: 2024-12-10 07:05:24
 ---
 
 # retro computing
 
-(date: 2024-12-09 07:04:43)
+(date: 2024-12-10 07:05:24)
+
+---
+
+## Wakefield (and South-West) Show are dead, long live RISC OS North
+
+date: 2024-12-10, from: Icon Bar, RISC OS News
+
+RISC OS Developments has sent out a press release announcing that in place of the Wakefield Show next year, they will be running a new RISC OS North event. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2146.html>
+
+---
+
+## b.log 2024/12/09 - Cheesy pasta (recipe).
+
+date: 2024-12-09, from: Richard Murray's blog
+
+Cheesy pasta (recipe). 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241209>
+
+---
+
+## Cards! Cards! Cards
+
+date: 2024-12-09, from: Computer ads from the Past
+
+Do you want one? Maybe two? 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/cards-cards-cards>
 
 ---
 
