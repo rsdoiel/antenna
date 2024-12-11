@@ -1,11 +1,375 @@
 ---
 title: going electric
-updated: 2024-12-10 07:05:25
+updated: 2024-12-11 07:05:35
 ---
 
 # going electric
 
-(date: 2024-12-10 07:05:25)
+(date: 2024-12-11 07:05:35)
+
+---
+
+## Battery Prices Down So Sharply That EVs Could Reach Gas Car Prices By 2026
+
+date: 2024-12-11, from: Inside EVs News
+
+Lithium-ion battery prices witnessed a rapid fall in 2024. But something might stop this cascade. 
+
+<br> 
+
+<https://insideevs.com/news/744038/ev-battery-prices-fall-faster-than-expected/>
+
+---
+
+## Lightship’s Self-Propelled Electric RV Trailer Is Going Into Production, And It Ain’t Cheap
+
+date: 2024-12-11, from: Inside EVs News
+
+Originally known as the Lightship L1, the trailer has its own powertrain and battery to preserve the tow vehicle’s range. 
+
+<br> 
+
+<https://insideevs.com/news/743731/lightship-ae1-cosmos-production-official/>
+
+---
+
+## Lightship unveils production-ready AE.1 aero-electric travel trailer and begins initial sales
+
+date: 2024-12-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Electric-trailer-Lightship-open.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Electric RV specialist Lightship is officially entering the recreation vehicle segment with a renamed version of its all-electric travel trailer, formerly known as the L1. Today, the company unveiled the <a href="https://electrek.co/guides/lightship/">Lightship</a> AE.1—the production-ready version of its predecessor. It is now on sale as a limited “Cosmo Edition,” of which only a limited supply will be built and sold.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-rv,lightship,lightship-ae-1,lightship-l1" data-layer-viewtype="unknown" data-post-id="391776" href="https://electrek.co/2024/12/11/lightship-unveils-production-ready-ae-1-aero-electric-travel-trailer-begins-sales/#more-391776" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/11/lightship-unveils-production-ready-ae-1-aero-electric-travel-trailer-begins-sales/>
+
+---
+
+## US Postal Service says it is going electric despite Trump
+
+date: 2024-12-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/09/Oshkosh-USPS.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>While incoming president Donald Trump aims to cancel contracts for new EVs for the US Postal Service, the postmaster general says he defends its electrification plans and won’t return any funding for EVs  – unless Congress forces the issue, of course.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="usps" data-layer-viewtype="unknown" data-post-id="393211" href="https://electrek.co/2024/12/11/us-postal-service-says-it-is-going-electric-despite-trump/#more-393211" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/11/us-postal-service-says-it-is-going-electric-despite-trump/>
+
+---
+
+## The Toyota bZ3X EV SUV Starts Under $14,000–But You Can’t Have One
+
+date: 2024-12-11, from: Inside EVs News
+
+Roughly the same size as a Toyota Rav4, the electric crossover is powered by an LFP battery and has some bold range claims. 
+
+<br> 
+
+<https://insideevs.com/news/744039/toyota-bz3x-ev-suv-price/>
+
+---
+
+## Costco Is Adding More EV Fast Chargers At Its Stores
+
+date: 2024-12-11, from: Inside EVs News
+
+The wholesale giant partnered with Electrify America to install DC chargers capable of up to 350 kW in three states. 
+
+<br> 
+
+<https://insideevs.com/news/743982/costco-adding-more-ev-fast-chargers/>
+
+---
+
+## Nextracker ships the first 100% US-made solar trackers under the IRA
+
+date: 2024-12-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/nextracker-and-unimacts.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.nextracker.com/" target="_blank" rel="noreferrer noopener">Nextracker</a> just set a milestone in US clean energy manufacturing: It has delivered the first-ever solar trackers expected to meet 100% domestic content requirements under the Inflation Reduction Act (IRA).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,egeb,energy-brief,solar,inflation-reduction-act,president-biden,solar-power" data-layer-viewtype="unknown" data-post-id="393147" href="https://electrek.co/2024/12/10/nextracker-us-made-solar-trackers-ira/#more-393147" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/10/nextracker-us-made-solar-trackers-ira/>
+
+---
+
+## After buying an EV, less than 1% of drivers go back to gas-powered cars
+
+date: 2024-12-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/EV-drivers-gas-cars-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Once you go electric, you almost never go back to a gas-powered car. According to a new survey from the <em>Global EV Alliance</em>, over 90% of EV drivers plan to buy another <a href="https://electrek.co/guides/electric-vehicles/">electric vehicle</a> after trading in a gas car. Meanwhile, only 1% said they would return to an ICE vehicle.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles" data-layer-viewtype="unknown" data-post-id="393142" href="https://electrek.co/2024/12/10/after-buying-an-ev-less-than-1-drivers-go-back-gas-cars/#more-393142" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/10/after-buying-an-ev-less-than-1-drivers-go-back-gas-cars/>
+
+---
+
+## Cruise Robotaxi Service Is Dead As GM Pivots
+
+date: 2024-12-10, from: Inside EVs News
+
+"A Robotaxi business is not General Motors' core business," said CEO Mary Barra. 
+
+<br> 
+
+<https://insideevs.com/news/743947/gm-pulls-funding-cruise-robotaxi/>
+
+---
+
+## Costco and Electrify America are offering EV fast charging beginning in three states
+
+date: 2024-12-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Costco-EV-charging-Electrify-America.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Costco Wholesale has collaborated with North American EV charging network <a href="https://electrek.co/guides/electrify-america/">Electrify America</a> and rolled out a series of DC fast chargers available to all EV drivers at select store locations. The EV chargers are operational at those Costco stores now, beginning in three states.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="costco,electrify-america,ev-chargers,ev-charging,ev-charging-stations" data-layer-viewtype="unknown" data-post-id="393143" href="https://electrek.co/2024/12/10/costco-electrify-america-offering-ev-fast-charging-in-three-states/#more-393143" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/10/costco-electrify-america-offering-ev-fast-charging-in-three-states/>
+
+---
+
+## EV batteries may last up to 40% longer than expected – Stanford
+
+date: 2024-12-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/GM-Tesla-adapter-Chevy.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Real-world driving and charging habits may make EV batteries last longer than researchers previously thought, finds a new Stanford-SLAC study.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-batteries,evs,lithium-ion-battery,stanford" data-layer-viewtype="unknown" data-post-id="393124" href="https://electrek.co/2024/12/10/ev-batteries-may-last-up-to-40-percent-longer-than-expected-stanford/#more-393124" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/10/ev-batteries-may-last-up-to-40-percent-longer-than-expected-stanford/>
+
+---
+
+## Genesis GV60 Magma EV spotted for the first time flaunting a new style [Video]
+
+date: 2024-12-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Genesis-GV60-Magma-spotted.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/genesis/">Genesis</a> has a new “alter ego” it’s about ready to unleash. The first vehicle from its new high-performance brand, the GV60 Magma, is launching next year. With its official debut just around the corner, we are finally seeing the new Genesis GV60 Magma for the first time after it was spotted out in the wild.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis,genesis-gv60" data-layer-viewtype="unknown" data-post-id="393086" href="https://electrek.co/2024/12/10/genesis-gv60-magma-spotted-flaunting-new-style-video/#more-393086" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/10/genesis-gv60-magma-spotted-flaunting-new-style-video/>
+
+---
+
+## Lectric Holiday sale continues Black Friday deals with $781 off e-bike bundles, Anker 60,000mAh station $80, Bluetti, Jetson, more
+
+date: 2024-12-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Lectric-XPress-750-Step-Thru-e-bike.webp?w=1200" /></div><p>Leading today’s Green Deals further into December savings is <a href="https://9to5toys.com/2024/12/09/lectric-holiday-sale-781-off-bundles-from-999/">Lectric’s Holiday sale</a> that is continuing many Black Friday deals with up to $781 taken off its e-bike bundles and offering a change-up with bonus savings – all starting from <a href="https://9to5toys.com/2024/12/09/lectric-holiday-sale-781-off-bundles-from-999/">$999</a>. Next we have some returning backup power lows, with <a href="https://9to5toys.com/2024/12/10/anker-powercore-reserve-return-80-low/">Anker’s PowerCore Reserve</a> 60,000mAh Power Bank Station back at <a href="https://9to5toys.com/2024/12/10/anker-powercore-reserve-return-80-low/">$80</a> alongside its descendant models, as well as <a href="https://9to5toys.com/2024/12/10/bluetti-handsfree-power-stations-from-299/">Bluetti’s Handsfree Backpack Power Stations</a> and bundle options starting from <a href="https://9to5toys.com/2024/12/10/bluetti-handsfree-power-stations-from-299/">$299</a>. Bringing up the rear we have a great entry-level commuter for teens and adults in the <a href="https://9to5toys.com/2024/12/10/jetson-eris-e-scooter-at-new-203-low/">Jetson Eris Folding Electric Scooter</a> that hit a new <a href="https://9to5toys.com/2024/12/10/jetson-eris-e-scooter-at-new-203-low/">$203</a> low. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2024/12/09/aventon-holiday-e-bike-sale-from-999/">Aventon Holiday sale</a>, the<a href="https://9to5toys.com/2024/12/09/anker-solix-c1000-429-low-flash-sale/"> Anker SOLIX power deal</a> offers, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="393097" href="https://electrek.co/2024/12/10/lectric-holiday-sale-continues-black-friday-deals-with-781-off-e-bike-bundles-anker-60000mah-station-80-bluetti-jetson-more/#more-393097" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/10/lectric-holiday-sale-continues-black-friday-deals-with-781-off-e-bike-bundles-anker-60000mah-station-80-bluetti-jetson-more/>
+
+---
+
+## From Tesla To Rivian: Here's What One Owner Thinks After Switching
+
+date: 2024-12-10, from: Inside EVs News
+
+Going from a Tesla to a Rivian, you have a lot of new stuff to play with, but there are some features you may still miss. 
+
+<br> 
+
+<https://insideevs.com/news/743908/tesla-to-rivian-switch-owner/>
+
+---
+
+## Tesla Model 3: The Used Buyer's Guide
+
+date: 2024-12-10, from: Inside EVs News
+
+There are a lot of used Model 3s out there. Here's what you need to know before buying one. 
+
+<br> 
+
+<https://insideevs.com/news/743728/used-tesla-model-3-buying-guide/>
+
+---
+
+## Tesla (TSLA) is reportedly exploring entering the Indian auto market again
+
+date: 2024-12-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/05/Tesla-Model-Y-Hero-2023.jpg?quality=82&#038;strip=all&#038;w=929" /></div><p>Deja vu. Tesla (TSLA) is reportedly exploring entering the Indian auto market again after several unsuccessful attempts in the last few years.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="393080" href="https://electrek.co/2024/12/10/tesla-tsla-is-reportedly-exploring-entering-the-indian-auto-market-again/#more-393080" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/10/tesla-tsla-is-reportedly-exploring-entering-the-indian-auto-market-again/>
+
+---
+
+## BYD’s new Dolphin EV just leaked: Here’s our first look at the updated best-seller
+
+date: 2024-12-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/BYDs-new-Dolphin-EV-leaked.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Another one of BYD’s best-selling electric cars is due for an overhaul. BYD’s new <a href="https://electrek.co/guides/byd-dolphin/">Dolphin EV</a> just leaked in China, giving us a sneak peek at the updated model for the first time.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,byd-dolphin" data-layer-viewtype="unknown" data-post-id="393038" href="https://electrek.co/2024/12/10/byds-new-dolphin-ev-leaked-first-look/#more-393038" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/10/byds-new-dolphin-ev-leaked-first-look/>
+
+---
+
+## Watch The Hyundai Ioniq 5 N Take On The Kia EV6 GT In A Range Test
+
+date: 2024-12-10, from: Inside EVs News
+
+The two vehicles are built on the same underpinnings, but their battery packs have different capacities. 
+
+<br> 
+
+<https://insideevs.com/news/743901/kia-ev6-hyundai-ioniq5-highway/>
+
+---
+
+## You Can Now Buy An Electric Hyundai On Amazon
+
+date: 2024-12-10, from: Inside EVs News
+
+Want a Hyundai EV, but don't want to endure Hyundai dealer shenanigans? Amazon Autos is the platform for you. Here's how it works. 
+
+<br> 
+
+<https://insideevs.com/news/743902/hyundai-amazon-autos-live/>
+
+---
+
+## Jaguar's Rebrand Has An Even Tougher Foe: An EV War With China
+
+date: 2024-12-10, from: Inside EVs News
+
+“If we make this a technical or price competition [against China], I’m not sure we can play to win." Instead, "sophistication in design" is the answer. 
+
+<br> 
+
+<https://insideevs.com/news/743787/jaguar-strategy-china-evs-glover/>
+
+---
+
+## XPeng’s regulatory filings share plans for facelifts to its G6 and G9 EVs, each abandoning LiDAR
+
+date: 2024-12-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/XPeng-LiDAR-G6.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>According to regulatory filings in China, EV automaker <a href="https://electrek.co/guides/xpeng-motors/">XPeng Motors</a> is planning upgrades to at least two current models. The filings detail facelifts to the XPeng G6 and G9 SUVs and hint at the automaker’s strategy of moving on from LiDAR sensors in favor of pure vision cameras, similar to Tesla.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lidar,xpeng,xpeng-g6,xpeng-g9,xpeng-motors" data-layer-viewtype="unknown" data-post-id="393029" href="https://electrek.co/2024/12/10/xpengs-regulatory-filings-facelifts-g6-g9-evs-abandoning-lidar/#more-393029" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/10/xpengs-regulatory-filings-facelifts-g6-g9-evs-abandoning-lidar/>
+
+---
+
+## Europe’s battery dreams die, but  China cashes in
+
+date: 2024-12-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/northvolt-revolt-ett-factory.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Europe’s vision of building homegrown EV batteries to cut its reliance on China is dying. But China is more than ready to step in where other companies have failed.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,ev-batteries,northvolt" data-layer-viewtype="unknown" data-post-id="393035" href="https://electrek.co/2024/12/10/europes-battery-dreams-die-but-china-cashes-in/#more-393035" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/10/europes-battery-dreams-die-but-china-cashes-in/>
+
+---
+
+## EV battery prices are plummeting and that’s great news for buyers
+
+date: 2024-12-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/EV-battery-prices-plummeting.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/ev-batteries/">EV battery</a> prices are plummeting, falling faster than most expected. This year will mark the steepest decline since 2017. With new tech and cheaper alternatives hitting the market, electric vehicles will soon be even more affordable than their gas-powered counterparts.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-batteries" data-layer-viewtype="unknown" data-post-id="393013" href="https://electrek.co/2024/12/10/ev-battery-prices-plummeting-great-news-for-buyers/#more-393013" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/10/ev-battery-prices-plummeting-great-news-for-buyers/>
+
+---
+
+## I got a $1,000 electric boat from China two years ago. Here’s what it looks like now
+
+date: 2024-12-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/china-electric-boat-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>My regular readers may remember that two years ago, I was winning so hard at life that<a href="https://electrek.co/2023/02/15/i-bought-a-cheap-electric-boat-from-china/"> I bought myself a brand-spankin’ new boat</a> as a treat. Don’t get me wrong, I’m still on an independent journalist’s salary here though, so when I say that I had “boat money”, I mean I scraped together enough to buy a $1,000 electric boat directly from China. It’s now been two years since that Alibaba delivery, so let’s see how it’s held up and what it looks like now.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="388491" href="https://electrek.co/2024/12/10/i-got-a-1000-electric-boat-from-china-two-years-ago-heres-what-it-looks-like-now/#more-388491" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/10/i-got-a-1000-electric-boat-from-china-two-years-ago-heres-what-it-looks-like-now/>
+
+---
+
+## Intramotev deploys first independently driven battery-electric railcar [Video]
+
+date: 2024-12-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Electric-railcar-Intramotev.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Zero-emissions freight mobility solutions specialist <a href="https://electrek.co/guides/intramotev/">Intramotev</a> continues to expand the use of its technology to new customers in the US. Today, the company shared video footage of its TugVolt battery electric railcar retrofit deployed at a calcium mine in Michigan. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-railcar,electric-train,intramotev" data-layer-viewtype="unknown" data-post-id="393018" href="https://electrek.co/2024/12/10/intramotev-deploys-worlds-first-independently-driven-electric-railcar-video/#more-393018" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/10/intramotev-deploys-worlds-first-independently-driven-electric-railcar-video/>
 
 ---
 

@@ -1,11 +1,153 @@
 ---
 title: writing
-updated: 2024-12-10 07:05:23
+updated: 2024-12-11 07:05:33
 ---
 
 # writing
 
-(date: 2024-12-10 07:05:23)
+(date: 2024-12-11 07:05:33)
+
+---
+
+## Use Scrivener’s Writing History to Track Your Progress
+
+date: 2024-12-11, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/use-scriveners-writing-history-to-track-your-progress>
+
+---
+
+## NYT Best SF, Fantasy, and Horror of 2024
+
+date: 2024-12-11, from: Locus Magazine
+
+<p>The New York Times published lists of the Best Science Fiction and Fantasy of 2024 and the Best Horror of 2024, compiled by critics Amal El-Mohtar and Gabino Iglesias respectively.</p>
+<p>El-Mohtar&#8217;s top ten picks are:</p>
+<ul>
+<li><strong>The Book of Love</strong>, Kelly Link (Random House)</li>
+<li><strong>Rakesfall</strong>, Vajra Chandrasekera (Tordotcom)</li>
+<li><strong>In Universes</strong>, Emet North (HarperCollins)</li>
+<li><strong>The Melancholy of Untold History</strong>, Minsoo Kang (Morrow)</li>
+<li><strong>The Practice, the Horizon, and the </strong></li></ul> <a href="https://locusmag.com/2024/12/nyt-best-sf-fantasy-and-horror-of-2024/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/12/nyt-best-sf-fantasy-and-horror-of-2024/>
+
+---
+
+## G.R.R.M. Screenwriting Competition
+
+date: 2024-12-11, from: Locus Magazine
+
+<p>The 2025 George R.R. Martin Screenwriting Grant is accepting submissions until December 15, 2024. Organized by the New Mexico Film Foundation, with support from the George R.R. Martin Literary Foundation, the competition is open to screenwriters from New Mexico.</p>
+<p>The winning grant award for an individual screenplay is $5,000 and includes a mentorship introduction with a seasoned screenwriter. Two additional writers will receive a foundation membership and developmental mentorship with  <a href="https://locusmag.com/2024/12/g-r-r-m-screenwriting-competition/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/g-r-r-m-screenwriting-competition/>
+
+---
+
+## Otherwise Fellowship Applications Due
+
+date: 2024-12-10, from: Locus Magazine
+
+<p>The Otherwise Fellowship is open to applications until December 15, 2024.</p>
+<p>From the organizers of the Fellowship:</p>
+<p>The Otherwise Fellowship (formerly Tiptree Fellowship) was established in 2015 to support and recognize new voices who are creating work that is changing our view of gender today. The Fellowship program seeks out creators who are striving to complete new works, particularly creators from communities that have been historically underrepresented in the science  <a href="https://locusmag.com/2024/12/otherwise-fellowship-applications-due/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/otherwise-fellowship-applications-due/>
+
+---
+
+## Weekly YouTube Video Is Up! Top New Releases 12/10/2024
+
+date: 2024-12-10, from: Locus Magazine
+
+<p>We&#8217;re back with a somewhat shorter, but no less awesome, video for you! Come by our YouTube channel to keep up-to-date on the top new releases for the science fiction, fantasy, and horror genres!</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2024/12/weekly-youtube-video-is-up-come-see-the-top-new-releases-for-the-week-of-12-10-2024/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/12/weekly-youtube-video-is-up-come-see-the-top-new-releases-for-the-week-of-12-10-2024/>
+
+---
+
+## Holiday Live Show 2024
+
+date: 2024-12-10, from: John August blog
+
+John and Craig welcome Brian Jordan Alvarez &#38; Stephanie Koenig (English Teacher) and Jac Schaeffer (Agatha All Along, WandaVision) to join them for a live holiday benefit for Hollywood HEART. They discuss constructing Agatha All Along from blue sky to the Witches’ Road, “protagonizing” a villain, breaking in through YouTube and maintaining a working relationship [&#8230;]
+The post <a href="https://johnaugust.com/2024/holiday-live-show-2024">Holiday Live Show 2024</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/668standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/668standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2024/holiday-live-show-2024>
+
+---
+
+## Check Out Any Time You Like: Josh Pearce and Arley Sorg Discuss Cuckoo
+
+date: 2024-12-10, from: Locus Magazine
+
+<p><strong>Cuckoo </strong>is an indie horror creature feature, relying heavily on its isolated location and small cast to effectively create an atmosphere of paranoia and dread. A teenager named Gretchen (Hunter Schafer) moves to a German mountain resort town with her father, stepmother, and stepsister where she meets an eclectic collection of characters—including the owner of the hotel, Herr König; a physician at the nearby hospital, Dr. Bonomo; several half-dressed, vomiting  <a href="https://locusmag.com/2024/12/check-out-any-time-you-like-josh-pearce-and-arley-sorg-discuss-cuckoo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/check-out-any-time-you-like-josh-pearce-and-arley-sorg-discuss-cuckoo/>
+
+---
+
+## ASFS Clears Ekpeki
+
+date: 2024-12-10, from: Locus Magazine
+
+<p>On December 10, 2024, the African Science Fiction Society (ASFS) released the following statement, retracting their earlier removal of Oghenechovwe Donald Ekpeki and establishing a Code of Conduct.</p>
+
+<p class="zfr3Q CDt4Ke " dir="ltr">In light of further revelations in the case of the allegations made by Erin Cairns’ against ASFS member Oghenechovwe Donald Ekpeki, the specific allegations of appropriation and non-disclosure have been investigated by a third party and no longer stand, and a public  <a href="https://locusmag.com/2024/12/asfs-clears-ekpeki/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/asfs-clears-ekpeki/>
+
+---
+
+## Darkome by Hannu Rajaniemi: Review by Niall Harrison
+
+date: 2024-12-10, from: Locus Magazine
+
+<p><strong>Darkome</strong>, Hannu Rajaniemi (Gollancz 978-1-47320-332-7, 245pp, £18.99, tp). September 2024.</p>
+<p>Mind you, better an ending that fades than no ending at all. I’ve had a good run recently, but it turns out that I was overdue an encounter with that frustrating species, the unmarked Book One that cannot be read as a standalone. Hannu Rajaniemi’s <strong>Darkome </strong>is the offender: After 250-odd brisk pages of biohackers vs. capitalists it ends  <a href="https://locusmag.com/2024/12/darkome-by-hannu-rajaniemi-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/darkome-by-hannu-rajaniemi-review-by-niall-harrison/>
+
+---
+
+## New Books, 10 December 2024
+
+date: 2024-12-10, from: Locus Magazine
+
+<p>Anderson, Kevin J.: <b>Fantasy Stories, Volume 2</b>
+(WordFire Press 9781680577129, $17.99, 316pp, formats: trade paperback, hardcover, ebook, 12/10/2024)</p>
+<p>Collection of 18 fantasy stories, one new; four are collaborations. Each story has an introduction by Anderson. Ten stories were previously collected as part of <strong>Selected Stories: Fantasy</strong> (2018). This is part of the seven-volume Kevin J. Anderson Short Fiction Library series funded through Kickstarter.</p>
+<p>&#160;</p>
+<p>Boey, Eliane: <b>Club Contango</b>
+(Dark Matter  <a href="https://locusmag.com/2024/12/new-books-10-december-2024/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/new-books-10-december-2024/>
 
 ---
 

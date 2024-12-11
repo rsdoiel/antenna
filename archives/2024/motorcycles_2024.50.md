@@ -1,11 +1,97 @@
 ---
 title: motorcycles
-updated: 2024-12-10 07:05:24
+updated: 2024-12-11 07:05:34
 ---
 
 # motorcycles
 
-(date: 2024-12-10 07:05:24)
+(date: 2024-12-11 07:05:34)
+
+---
+
+## EV Motorcycle Maker Stark Future Just Changed the Game, Again
+
+date: 2024-12-11, from: Ride Apart, Electric Motorcycle News
+
+Who's ready to rock some single track well into the night? 
+
+<br> 
+
+<https://www.rideapart.com/news/743925/stark-future-2025-varg-ex-enduro-street-legal/>
+
+---
+
+## Automotive Tuner Mansory Built a Snowmobile, It Looks Exactly How You Think It Would
+
+date: 2024-12-11, from: Ride Apart, Electric Motorcycle News
+
+Mansory doing Mansory things.  
+
+<br> 
+
+<https://www.rideapart.com/news/743928/mansory-black-lizard-snowmobile-custom/>
+
+---
+
+## Next Year's BMW Motorrad Days Promises To Be A Banger, Returning To Iconic Location
+
+date: 2024-12-11, from: Ride Apart, Electric Motorcycle News
+
+Mark your calendars for July 4 to 6, 2025, and book a flight to Germany. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/743801/bmw-motorrad-days-2025-confirmed/>
+
+---
+
+## Can-Am's Parent Company Isn't Sweating Trump's Proposed Tariffs, At Least Not Yet
+
+date: 2024-12-11, from: Ride Apart, Electric Motorcycle News
+
+It's all speculative until January 20th.  
+
+<br> 
+
+<https://www.rideapart.com/news/743777/brp-can-am-trump-proposed-tariffs-canada-mexico/>
+
+---
+
+## UTV-Maker Polaris is Facing a Nearly $100 Million Lawsuit for a Faulty Door Latch
+
+date: 2024-12-11, from: Ride Apart, Electric Motorcycle News
+
+The lawsuit stems from a 2019 crash that injured a woman's wrist and arm.  
+
+<br> 
+
+<https://www.rideapart.com/news/743775/polaris-faulty-utv-door-handle-latch-lawsuit-95-million-dollars/>
+
+---
+
+## This Custom Harley X350 Is Proof That It Needs To Come To the US
+
+date: 2024-12-11, from: Ride Apart, Electric Motorcycle News
+
+It’s definitely different, but that doesn’t make it any less cool.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/743798/custom-harley-x350-japan-should-come-usa/>
+
+---
+
+## MAVTV Rolls Into PRI Show With Taylor Swift Eras-Tour Inspired IndyCar, Plus More
+
+date: 2024-12-10, from: Kickin the Tires blog
+
+Press Release: INDIANAPOLIS (Dec. 10, 2024) – MAVTV – the world&#8217;s largest motorsports media platform – returns to the PRI Show with style and star-power, showcasing the Taylor Swift-inspired IndyCar that&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/mavtv-rolls-into-pri-show-with-taylor-swift-eras-tour-inspired-indycar-plus-more/>
 
 ---
 

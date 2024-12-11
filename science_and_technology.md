@@ -1,11 +1,419 @@
 ---
 title: science and technology
-updated: 2024-12-10 07:05:22
+updated: 2024-12-11 07:05:32
 ---
 
 # science and technology
 
-(date: 2024-12-10 07:05:22)
+(date: 2024-12-11 07:05:32)
+
+---
+
+## Microsoft hijacks keyboard shortcut to bring Copilot to your attention
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4>AI assistant goes native – sort of – for Windows Insiders</h4> <p>Copilot has gone native for Windows Insiders and comandeered a popular keyboard shortcut in the process.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/microsoft_copilot_keyboard_shortcut/>
+
+---
+
+## Cruise robotaxis parked forever, as GM decides it can't compete and wants to cut costs
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4><i>The Register</i> stumbles upon the place self-driving cabs appear to be rusting away into history</h4> <p><strong>Pictures</strong>  General Motors is winding up its autonomous taxi biz Cruise.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/cruise_gm_shutdown/>
+
+---
+
+## Three more vulns spotted in Ivanti CSA, all critical, one 10/10
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4>Patch up, everyone – that admin portal is mighty attractive to your friendly cyberattacker</h4> <p>Ivanti just put out a security advisory warning of three critical vulnerabilities in its Cloud Services Application (CSA), including a perfect 10.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/ivanti_vulns_critical/>
+
+---
+
+## A decade on from maiden flight, NASA's Orion is still waiting for its Moon moment
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4>Hopefully it won&#39;t be another 10 years before the capsule is troubled by a crew</h4> <p>It is ten years since NASA sent the Orion spacecraft into space on the Exploration Flight Test-1 mission.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/nasa_orion_10/>
+
+---
+
+## When a British King Stunned the Royal Family by Abdicating the Throne to Marry a Divorced American Socialite
+
+date: 2024-12-11, from: Smithsonian Magazine
+
+Scandal dogged Edward VIII, a suspected Nazi sympathizer, even after he relinquished his crown to marry Wallis Simpson, the woman he loved 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/when-a-british-king-stunned-the-royal-family-by-abdicating-the-throne-to-marry-a-divorced-american-socialite-180985569/>
+
+---
+
+## Linux 6.12 is the new long term supported kernel
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4>Mid-November release will be maintained for &#39;several years&#39;</h4> <p>Last month&#39;s new version of the Linux kernel, 6.12, has been confirmed as the newest LTS release… which also marks the end of the line for kernel 4.19.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/linux_612_lts/>
+
+---
+
+## Blue Origin's New Glenn will launch any day now – but it better hurry up
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4>2025 looming large as Blue Ring pathfinder prepped for liftoff</h4> <p>Blue Origin has confirmed its New Glenn rocket is on track for launch before the end of 2024.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/blue_origin_new_glenn/>
+
+---
+
+## Doctor Who theme added to national sound archive to honor innovation, longevity
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4>Australia’s archive, that is – it was an Aussie who wrote it</h4> <p>The theme music to iconic British sci-fi TV show Doctor Who has been immortalized by Australia&#39;s National Film and Sound Archive.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/doctor_who_theme_added_to/>
+
+---
+
+## US names Chinese national it alleges was behind 2020 attack on Sophos firewalls
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4>Also sanctions his employer – an outfit called Sichuan Silence linked to Ragnarok ransomware</h4> <p>The US Departments of Treasury and Justice have named a Chinese business and one of its employees as the actors behind the 2020 exploit of a zero-day flaw in Sophos firewalls…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/sichuan_silence_sophos_zeroday_sanctions/>
+
+---
+
+## Indian police demand Starlink identify alleged drug smugglers
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4>Elon Musk&#39;s satellite internet service asked to explain who used its service to navigate to remote islands</h4> <p>Police in India are demanding Starlink turn over customer details to assist its investigation into the country&#39;s biggest ever single seizure of narcotics.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/india_musk_starlink_police_bust_demand/>
+
+---
+
+## Judge hands WP Engine a win in legal fight with Automattic
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4>Mullenweg and co ordered to restore WP Engine&#39;s access to wordpress.org and stop touching WordPress installations</h4> <p><strong>Updated</strong>  WordPress hosting firm Automattic and its CEO Matthew Mullenweg have been ordered to stop interfering with the business of rival WP Engine.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/wp_engine_wins_injunction_against/>
+
+---
+
+## US Commerce Dept coughs up $6.1B Christmas present for Micron
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4>Funding to support development of memory vendor&#39;s $125B fab expansion in New York and Idaho</h4> <p>American memory vendor Micron will receive $6.1 billion in CHIPS Act funding under a deal finalized by the US Commerce Department on Tuesday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/micron_chips_funded/>
+
+---
+
+## Maker of emotional supports robots for kids abruptly shuts down, kills all the robots in the process
+
+date: 2024-12-10, from: OS News
+
+Some news is both sad and dystopian at the same time, and this is one of those cases. Moxie, a start-up selling $800 emotional support robots intended to help children is shutting down operations since it can&#8217;t find enough money, and since their robots require constant connectivity to servers to operate, all of the children&#8217;s robots will cease functioning within days. They&#8217;re not offering refunds, but they will send out a letter to help parents tell their children &#8220;in an age-appropriate way&#8221; that their lovable robot is going to die. If you have kids yourself, you know how easily they can sometimes get attached to the weirdest things, from fluffy stuffed animals designed to be cute, to random inanimate objects us adults would never consider to be even remotely interesting. I can definitely see how my own kids would be devastated if one of their favourite &#8220;emotional&#8221; toys were to suddenly stop working or disappear, and we don&#8217;t even have anything that pretends to have a personality or that actively interacts with our kids like this robot thing does. We can talk about how it&#8217;s insane that no refunds will be given, or how a company can just remotely kill a product like this without any repercussions, but most of all I&#8217;m just sad for the kids who use one and are truly attached to it, who now have to deal with their little friend going away. That&#8217;s just heartbreaking, and surely a sign of things to come as more and more companies start stuffing &#8220;AI&#8221; into their toys. The only thing I can say is that we as parents should think long and hard about what kind of toys we give our children, and that we should maybe try to avoid anything tied to a cloud service that can go away at any time. 
+
+<br> 
+
+<https://www.osnews.com/story/141311/maker-of-emotional-supports-robots-for-kids-abruptly-shuts-down-kills-all-the-robots-in-the-process/>
+
+---
+
+## Tesla sued over alleged Autopilot fail in yet another fatal accident
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>With two legal wins and one secret settlement on the books, the odds are in the automaker&#39;s favor</h4> <p>Tesla is facing a lawsuit alleging its claims about Autopilot and Full Self Driving&#39;s (FSD) capabilities contributed to a fatal crash, giving the courts yet another chance to hash out claims similar to those in previous lawsuits.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/tesla_sued_fatal_autopilot_accident/>
+
+---
+
+## Space Meets Sound: NASA Lands in 2024 Spotify Wrapped
+
+date: 2024-12-10, from: NASA breaking news
+
+NASA’s audio storytelling reached new frontiers in 2024, with Spotify Wrapped revealing the agency’s podcasts as a favorite among listeners worldwide. In celebration of the milestone, NASA astronaut Nick Hague spoke with Spotify about what space sounded like this year. “Music is one of those things that connects us to the planet,” said Hague, in [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/space-meets-sound-nasa-lands-in-2024-spotify-wrapped/>
+
+---
+
+## NASA Astronauts O’Hara and Moghbeli Explore Earth Data
+
+date: 2024-12-10, from: NASA breaking news
+
+On Dec. 4, 2024, NASA astronauts Loral O’Hara, left, and Jasmin Moghbeli spent a moment in part of the Earth Information Center, an immersive experience combining live NASA data sets with innovative data visualization and storytelling at NASA Headquarters in Washington. O’Hara and Moghbeli spent six months in space as part of Expedition 70 aboard [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-astronauts-ohara-and-moghbeli-explore-earth-data/>
+
+---
+
+## Microsoft holds last Patch Tuesday of the year with 72 gifts for admins
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>Twas the night before Christmas, and all through the house, patching was done with the click of a mouse</h4> <p><strong>Patch Tuesday</strong>  Microsoft hasn&#39;t added too much coal to the stocking this Patch Tuesday, with just 72 fixes, only one of which scored more than nine on the CVSS threat ranking scale.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_patch_tuesday/>
+
+---
+
+## This Peculiar Painting From the Experimental Mannerist Movement Is Back on Display After a Stunning Ten-Year Restoration
+
+date: 2024-12-10, from: Smithsonian Magazine
+
+Parmigianino painted St. Jerome asleep on the ground in his 16th-century altarpiece—a choice that's still puzzling experts five centuries later 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-peculiar-painting-from-the-experimental-mannerist-movement-is-back-on-display-after-a-stunning-ten-year-restoration-180985621/>
+
+---
+
+## Looking Out for ‘Lookout Hill’
+
+date: 2024-12-10, from: NASA breaking news
+
+At Pico Turquino, a bedrock mesa on the Jezero crater rim, the science and engineering teams planned proximity science on Percy’s 30th abrasion patch, Rio Chiquito. SCAM and ZCAM characterized the rock near the abrasion, while SHERLOC and PIXL instruments were deployed for proximity science. The data from Rio Chiquito will help characterize the Pico […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/looking-out-for-lookout-hill/>
+
+---
+
+## December 2024 Transformer of the Month: Jill Marlowe
+
+date: 2024-12-10, from: NASA breaking news
+
+If Digital Transformation were a ship, the vessel for delivering on our missions and ensuring smooth passage into the future, our final Digital Transformer of 2024 would be the captain. Growing up sailing with her father on the Chesapeake Bay, this transformer developed the navigation skills she now uses at NASA “with both clarity and precision, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/organizations/ocio/dt/december-2024-transformer-of-the-month-jill-marlowe/>
+
+---
+
+## Sarah Peacock Surveys Stellar Radiation to Hunt for Habitable Worlds
+
+date: 2024-12-10, from: NASA breaking news
+
+Knowing whether or not a planet elsewhere in the galaxy could potentially be habitable requires knowing a lot about that planet’s sun. Sarah Peacock relies on computer models to assess stars’ radiation, which can have a major influence on whether or not one of these exoplanets has breathable atmosphere. Name: Sarah Peacock Title: Assistant Research [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/people-of-nasa/goddard-people/sarah-peacock-surveys-stellar-radiation-to-hunt-for-habitable-worlds/>
+
+---
+
+## Black Hole Jet Stumbles Into Something in the Dark
+
+date: 2024-12-10, from: NASA breaking news
+
+Even matter ejected by black holes can run into objects in the dark. Using NASA’s Chandra X-ray Observatory, astronomers have found an unusual mark from a giant black hole’s powerful jet striking an unidentified object in its path. The discovery was made in a galaxy called Centaurus A (Cen A), located about 12 million light-years [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/black-hole-jet-stumbles-into-something-in-the-dark/>
+
+---
+
+## Scientists Find Another Reason Why 2023 Was So Hot: a Decline in Low-Lying Clouds
+
+date: 2024-12-10, from: Smithsonian Magazine
+
+According to new research, Earth might have reflected less solar radiation last year than in any other year since 1940, a trend that adds to the planet's warming 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-find-another-reason-why-2023-was-so-hot-a-decline-in-low-lying-clouds-180985600/>
+
+---
+
+## 50 Years Ago: Launch of Helios 1 to Explore the Sun
+
+date: 2024-12-10, from: NASA breaking news
+
+On Dec. 10, 1974, NASA launched Helios 1, the first of two spacecraft to make close observations of the Sun. In one of the largest international efforts at the time, the Federal Republic of Germany, also known as West Germany, provided the spacecraft, NASA’s Goddard Space Flight Center in Greenbelt, Maryland, had overall responsibility for [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/helios-1/50-years-ago-launch-of-helios-1-to-explore-the-sun/>
+
+---
+
+## NASA Moves Drone Package Delivery Industry Closer to Reality
+
+date: 2024-12-10, from: NASA breaking news
+
+Package delivery drones are coming to our doorsteps in the future, and NASA wants to make sure that when medication or pizza deliveries take to the skies, they will be safe. In July, the Federal Aviation Administration (FAA) for the first time authorized multiple U.S. companies to fly commercial drones in the same airspace without [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/drones/nasa-moves-drone-package-delivery-industry-closer-to-reality/>
+
+---
+
+## US military grounds entire Osprey tiltrotor fleet over safety concerns
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>Boeing-Bell V-22 can&#39;t outfly its checkered past, it seems</h4> <p>The US Navy, Air Force, and Marine Corps have grounded their fleet of Boeing-Bell-made Osprey V-22s on safety grounds.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/us_military_osprey/>
+
+---
+
+## NASA Scientific Balloon Flights to Lift Off From Antarctica
+
+date: 2024-12-10, from: NASA breaking news
+
+NASA’s Scientific Balloon Program has returned to Antarctica’s icy expanse to kick off the annual Antarctic Long-Duration Balloon Campaign, where two balloon flights will carry a total of nine missions to near space. Launch operations will begin mid-December from the agency’s Long Duration Balloon camp located near the U.S. National Science Foundation’s McMurdo Station on [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/scientific-balloons/nasa-scientific-balloon-flights-to-lift-off-from-antarctica/>
+
+---
+
+## Geneticists Solve the Mystery of Why Some Cats Are Orange—and Why They Tend to Be Males
+
+date: 2024-12-10, from: Smithsonian Magazine
+
+Two new, preliminary papers identify a gene related to a cat’s coloration. The work also explains why tortoiseshell and calico cats tend to be females 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/geneticists-solve-the-mystery-of-why-some-cats-are-orange-and-why-they-tend-to-be-males-180985619/>
+
+---
+
+## NASA to Discuss Firefly’s First Robotic Artemis Moon Flight
+
+date: 2024-12-10, from: NASA breaking news
+
+NASA will host a media teleconference at 1 p.m. EST Tuesday, Dec. 17, to discuss the agency science and technology flying aboard Firefly Aerospace’s first delivery to the Moon as part of the NASA’s CLPS (Commercial Lunar Payload Services) initiative and Artemis campaign.&#160;Audio of the call will livestream on the agency’s website at: https://www.nasa.gov/live Briefing [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-discuss-fireflys-first-robotic-artemis-moon-flight/>
+
+---
+
+## An Ice Age Infant's Bones Reveal Early Americans Ate Woolly Mammoths as a Protein Staple
+
+date: 2024-12-10, from: Smithsonian Magazine
+
+New research examines chemical signatures to determine the diet of a prehistoric boy and his mother, suggesting the Clovis people relied on mammoths for a large portion of their menu 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/an-ice-age-infants-bones-reveal-early-americans-ate-woolly-mammoths-as-a-protein-staple-180985618/>
+
+---
+
+## Oracle gets Big Red reality check after financials fail to impress
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>Strong year ends with a dip, but Ellison signs Meta deal to boost AI cred</h4> <p>Oracle shares tumbled around 7 percent on Monday after Q2 2025 revenues disappointed financial markets.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/oracle_q2_2025/>
+
+---
+
+## Dorothy's Ruby Slippers From 'The Wizard of Oz' Sell for a Record-Breaking $28 Million
+
+date: 2024-12-10, from: Smithsonian Magazine
+
+The iconic shoes, which went missing for more than a decade, are now the most valuable piece of movie memorabilia ever auctioned 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/dorothys-ruby-slippers-from-the-wizard-of-oz-sell-for-a-record-breaking-28-million-180985620/>
+
+---
+
+## AMD secure VM tech undone by DRAM meddling
+
+date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+
+<h4>Boffins devise BadRAM attack to pilfer secrets from SEV-SNP encrypted memory</h4> <p>Researchers have found that the security mechanism AMD uses to protect virtual machine memory can be bypassed with $10 of hardware – and perhaps not even that.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/10/amd_secure_vm_tech_undone/>
+
+---
+
+## The Ten Best Photography Books of 2024
+
+date: 2024-12-10, from: Smithsonian Magazine
+
+These works are not just for casual readers—they are for those who seek to expand their horizons, enrich their lives, and connect with the world on a deeper level 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-ten-best-photography-books-of-2024-180985597/>
 
 ---
 
@@ -61,7 +469,7 @@ Although there’s little evidence of them today, Apple made a long succession o
 
 date: 2024-12-10, from: OS News
 
-Today I’m delighted to announce Willow, our latest quantum chip. Willow has state-of-the-art performance across a number of metrics, enabling two major achievements. The concensus seems to be that this is a major achievement and milestone in quantum computing, and that it&#8217;s come faster than everyone expected. This topic is obviously far more complicated than most people can handle, so we have to rely on the verdicts and opinions from independent experts to gain some sense of just how significant an announcement this really is. The paper&#8217;s published in Nature for those few of us posessing the right amount of skill and knowledge to 
+Today I’m delighted to announce Willow, our latest quantum chip. Willow has state-of-the-art performance across a number of metrics, enabling two major achievements. The concensus seems to be that this is a major achievement and milestone in quantum computing, and that it&#8217;s come faster than everyone expected. This topic is obviously far more complicated than most people can handle, so we have to rely on the verdicts and opinions from independent experts to gain some sense of just how significant an announcement this really is. The paper&#8217;s published in Nature for those few of us possessing the right amount of skill and knowledge to disseminate this information. 
 
 <br> 
 
@@ -107,7 +515,7 @@ The peak of this popular annual meteor shower risks being washed out by an almos
 
 ## Heart surgery device maker's security bypassed, data encrypted and stolen
 
-date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+date: 2024-12-10, updated: 2024-12-11, from: The Register (UK I.T. News)
 
 <h4>Sounds like th-aorta get this sorted quickly</h4> <p>A manufacturer of devices used in heart surgeries says it&#39;s dealing with &#34;a cybersecurity incident&#34; that bears all the hallmarks of a ransomware attack.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -119,7 +527,7 @@ date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
 
 ## Microsoft delays final Exchange Server 2019 Cumulative Update to 2025
 
-date: 2024-12-10, updated: 2024-12-10, from: The Register (UK I.T. News)
+date: 2024-12-10, updated: 2024-12-11, from: The Register (UK I.T. News)
 
 <h4>Quiet festive season for admins, but next year will be busy</h4> <p>Microsoft has pushed the final Cumulative Update for Exchange Server 2019 into 2025.…</p> 
 
@@ -407,7 +815,7 @@ The winning word beat out finalists such as "demure," "pander," "totality," "for
 
 ## China's Salt Typhoon recorded top American officials' calls, says White House
 
-date: 2024-12-09, updated: 2024-12-09, from: The Register (UK I.T. News)
+date: 2024-12-09, updated: 2024-12-10, from: The Register (UK I.T. News)
 
 <h4>No word yet on who was snooped on. Any bets?</h4> <p>Chinese cyberspies recorded &#34;very senior&#34; US political figures&#39; calls, according to White House security boss Anne Neuberger.…</p> 
 

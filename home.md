@@ -1,11 +1,307 @@
 ---
 title: home
-updated: 2024-12-10 07:05:24
+updated: 2024-12-11 07:05:34
 ---
 
 # home
 
-(date: 2024-12-10 07:05:24)
+(date: 2024-12-11 07:05:34)
+
+---
+
+## If Your Car Smells Like Rotten Eggs, Here’s What It Means
+
+date: 2024-12-10, from: Family Handyman Blog
+
+<p>A sulfur smell can signal an urgent problem. Here's how to figure out where it's coming from and what to do about it.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/car-smells-like-rotten-eggs/">If Your Car Smells Like Rotten Eggs, Here&#8217;s What It Means</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/car-smells-like-rotten-eggs/>
+
+---
+
+## The 9 Best Ways To Open a Bottle Without a Bottle Opener
+
+date: 2024-12-10, from: Family Handyman Blog
+
+<p>Thirsty? You can still crack open an ice cold bottle of beer without a bottle opener. We tested the various nontraditional bottle opening methods, and these nine are what we found to be the best.  </p>
+<p>The post <a href="https://www.familyhandyman.com/list/how-to-open-a-bottle-without-bottle-opener/">The 9 Best Ways To Open a Bottle Without a Bottle Opener</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/how-to-open-a-bottle-without-bottle-opener/>
+
+---
+
+## 4 Myths Winemakers Want You to Stop Believing About Blends
+
+date: 2024-12-10, from: Sunset Magazine - Living in the West
+
+It’s easy to think that wine blends are like leftovers. Winemakers share what you need to know about wine blends and how to choose one. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/wine-blends-what-to-know>
+
+---
+
+## 5 Wine Hacks Pros Have Been Keeping a Secret Until Now
+
+date: 2024-12-10, from: Sunset Magazine - Living in the West
+
+We asked the wine industry’s finest talent to share their secret wine hacks and tips so you can fully enjoy that bottle of wine. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/wine-hacks-tips>
+
+---
+
+## Gold Winners of the 2024 Sunset International Wine Competition
+
+date: 2024-12-10, from: Sunset Magazine - Living in the West
+
+These are the judges' picks for the Gold Winners of the 2024 Sunset International Wine Competition. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/gold-winners-2024-sunset-international-wine-competition>
+
+---
+
+## Double Gold Winners of the 2024 Sunset International Wine Competition
+
+date: 2024-12-10, from: Sunset Magazine - Living in the West
+
+These are the Double Gold winners of West’s hottest wine competition, the 2024 Sunset International Wine Competition 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/double-gold-winners-2024-sunset-international-wine-competition>
+
+---
+
+## Best of Class Winners of the 2024 Sunset International Wine Competition
+
+date: 2024-12-10, from: Sunset Magazine - Living in the West
+
+The judges have named the Best of Class winners of the Sunset International Wine Competition after tasting hundreds of bottles of wine. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/best-of-class-winners-2024-sunset-international-winter-competition>
+
+---
+
+## Where to Travel This Winter Based on Your Zodiac Sign
+
+date: 2024-12-10, from: Sunset Magazine - Living in the West
+
+Celebrity astrologer Meghan Rose shares where you should book your winter trip according to your astrological sign. 
+
+<br> 
+
+<https://www.sunset.com/travel/where-to-travel-this-winter-based-on-your-zodiac-sign>
+
+---
+
+## 5 New Holiday Decor Trends to Style Your House for the Season
+
+date: 2024-12-10, from: Sunset Magazine - Living in the West
+
+Rolling Greens shares its holiday trend forecast with 5 dazzling decor ideas and the plant pairings that will bring them to life. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/holiday-trend-decor-styling-ideas>
+
+---
+
+## These Are the Wines to Pair with Your Holiday Meal
+
+date: 2024-12-10, from: Sunset Magazine - Living in the West
+
+Give the gift of the Sunset Wine Club, featuring the best bottles in the West, perfectly paired with recipes in the magazine. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/wine-club-pairings-holiday-issue-2024>
+
+---
+
+## The 2025 Plant of the Year Is a Low Maintenance Houseplant Everyone Needs to Own
+
+date: 2024-12-10, from: Sunset Magazine - Living in the West
+
+Every year 1-800-Flowers announces both a flower and plant of the year, and this year's plant is an easy-to-care-for houseplant. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/2025-plant-of-the-year-snake-plant>
+
+---
+
+## The 2025 Flower of the Year Is Set to Overtake the Peony in Popularity
+
+date: 2024-12-10, from: Sunset Magazine - Living in the West
+
+Step aside, peonies—2025 belongs to ranunculus, crowned as the Flower of the Year by 1-800-Flowers. Here's how to grow them. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/2025-flower-of-the-year>
+
+---
+
+## In "No Good Deed," Not Even a Murder Stops a Bidding War
+
+date: 2024-12-10, from: Dwell
+
+A new Netflix comedy series takes on the drama of real estate, asking viewers how far they’d go to own their dream home. 
+
+<br> 
+
+<https://www.dwell.com/article/in-no-good-deed-netflix-4e53c7bd-3067980a>
+
+---
+
+## DIY Bath Salt Recipe (How to Make Soothing Bath Salts)
+
+date: 2024-12-10, from: Homestead and Chil
+
+<p>Learn how to make beautiful homemade bath salts using natural ingredients like epsom salt, sea salt, herbs, flowers, and organic essential oils. Perfect for self-care or a thoughtful DIY gift to share, bath salt soaks help alleviate stress, tension, sore muscles, inflammation, and more.</p>
+<p>The post <a href="https://homesteadandchill.com/diy-bath-salts-recipe/">DIY Bath Salt Recipe (How to Make Soothing Bath Salts)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/diy-bath-salts-recipe/>
+
+---
+
+## Iwan Iwanoff Designed Some of Australia’s Most Ambitious Homes. This One Just Got an Update
+
+date: 2024-12-10, from: Dwell
+
+Known for its parties, the palatial 1971 Tomich House suffered remodels through the ’80s that have since been remedied to honor the architect’s original vision. 
+
+<br> 
+
+<https://www.dwell.com/article/iwan-iwanoff-tomich-house-restoration-coastal-family-home-144ebe43>
+
+---
+
+## This Old Sonoma Schoolhouse Graduated Into a $6.5M Three-Bedroom Home
+
+date: 2024-12-10, from: Dwell
+
+The renovated 1910 structure still has its original bell tower, hardwood floors, and chalkboard. 
+
+<br> 
+
+<https://www.dwell.com/article/converted-schoolhouse-home-sonoma-california-real-estate-72b0a48b>
+
+---
+
+## Antimicrobial Use and Stewardship — CDFA efforts continue to moderate antibiotics in animal care
+
+date: 2024-12-10, from: Calfifornia Dept. Aggriculture blog
+
+CDFA&#8217;s Antimicrobial Use and Stewardship Program, created by legislation in 2017, provides leadership in animal health circles for innovative approaches to antibiotic resistance and responsible use of medications. The program looks closely at antibiotic sales, surveys producers about on-farm practices, &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28447">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28447>
+
+---
+
+## Do Bromeliads Rebloom? How to Encourage Repeat Flowering
+
+date: 2024-12-10, from: The Gardener's Path
+
+<p>The flowers of different bromeliads are sight to behold. From the elegant spikes of a flaming sword to the cheerful explosions of tufted air plants, bromeliads produce unique and visually exciting blooms. But can they rebloom? Some species can flower repeatedly but others only do so once. Learn about reblooming bromeliads.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/bromeliads-rebloom/">Do Bromeliads Rebloom? How to Encourage Repeat Flowering</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/bromeliads-rebloom/>
+
+---
+
+## 10 Gifts For Your Friends With Good Taste
+
+date: 2024-12-10, from: Dwell
+
+Dwell’s intrepid shopping columnist curates presents for those in your life with an eye on design. 
+
+<br> 
+
+<https://www.dwell.com/article/10-of-the-best-design-gifts-for-your-favorite-people-8bd28752>
+
+---
+
+## How an Architect Restored His 1966 Seattle Home (While Also Paying Tribute to His Father)
+
+date: 2024-12-10, from: Sunset Magazine - Living in the West
+
+Architect Steve Hoedemaker's house was a doubly personal endeavor because it had a slight connection to his father. See how he updated the 1960s house. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/seattle-house-renovation-hoedemaker-pfeiffer>
+
+---
+
+## This 1,000-Square-Foot Maui Cottage Is the Hawaiian Ranch Getaway of Our Dreams
+
+date: 2024-12-10, from: Sunset Magazine - Living in the West
+
+In this tour, a family spreads their wings from their base on Maui, a 1,000-square-foot slice of paradise designed for their unique needs. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/handicap-accessible-maui-cottage>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-12-10, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## The Best Wines to Drink Right Now—Read Our 2024 Wine Issue to Find Out
+
+date: 2024-12-10, from: Sunset Magazine - Living in the West
+
+In our 2024 Wine Issue, we're celebrating the winners of the Sunset International Wine Competition. Plus, touring wineries and tasting rooms. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/2024-wine-issue>
+
+---
+
+## The Winners of the 2024 Sunset International Wine Competition
+
+date: 2024-12-10, from: Sunset Magazine - Living in the West
+
+After tasting hundreds of wines for the 2024 Sunset International Wine competition, the judges have named the winners. See them here. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/sunset-international-wine-competition-2024-winners>
 
 ---
 
@@ -44,18 +340,6 @@ Flying during the holiday season can be stressful and a little chaotic. We asked
 <br> 
 
 <https://www.sunset.com/travel/holiday-airport-tips>
-
----
-
-## How an Architect Restored His 1966 Seattle Home (While Also Paying Tribute to His Father)
-
-date: 2024-12-10, from: Sunset Magazine - Living in the West
-
-Architect Steve Hoedemaker's house was a doubly personal endeavor because it had a slight connection to his father. See how he updated the 1960s house. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/seattle-house-renovation-hoedemaker-pfeiffer>
 
 ---
 
@@ -182,18 +466,6 @@ Lean on local makers to put together a better holiday spread. These indulgent fo
 <br> 
 
 <https://www.sunset.com/lifestyle/shopping/best-food-gifts>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-12-09, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

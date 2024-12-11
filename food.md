@@ -1,11 +1,191 @@
 ---
 title: food
-updated: 2024-12-10 07:05:25
+updated: 2024-12-11 07:05:35
 ---
 
 # food
 
-(date: 2024-12-10 07:05:25)
+(date: 2024-12-11 07:05:35)
+
+---
+
+## Coffee Design: Onda Origins In Seattle, Washington
+
+date: 2024-12-11, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The brand refresh of Onda Origins in Seattle, Washington. 
+
+<br> 
+
+<https://sprudge.com/coffee-design-onda-origins-in-seattle-washington-260145.html>
+
+---
+
+## I Need Festive Holiday Recipes
+
+date: 2024-12-11, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris, Kendra and Jesse talk about all things holidays. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-festive-holiday-recipes>
+
+---
+
+## Cold Brew & Donut Flavored Goat Cheese: Good Or Baaaaaaad?
+
+date: 2024-12-11, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. So it's come to this. 
+
+<br> 
+
+<https://sprudge.com/cold-brew-donut-flavored-goat-cheese-good-or-baaaaaaad-262279.html>
+
+---
+
+## Behind the Headlines: Is Starbucks Writing Names on Cups Again Sweet or Silly?
+
+date: 2024-12-11, from: The Fresh Cup
+
+<p>Starbucks’ announced they’ll return to hand-writing customers’ names on their cups. We interview shop owners and ask: is writing names on cups silly or a way to build connection with customers? </p>
+<p>The post <a href="https://freshcup.com/behind-the-headlines-is-starbucks-writing-names-on-cups-again-sweet-or-silly/">Behind the Headlines: Is Starbucks Writing Names on Cups Again Sweet or Silly?</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/behind-the-headlines-is-starbucks-writing-names-on-cups-again-sweet-or-silly/>
+
+---
+
+## 11 Accessories for Your Vintage ’50s Kitchen
+
+date: 2024-12-11, from: Taste of Home
+
+<p>Embrace your 1950s kitchen! These vintage kitchen accessories combine retro style with modern functionality.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/50s-vintage-kitchen-accessories/">11 Accessories for Your Vintage &#8217;50s Kitchen</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/50s-vintage-kitchen-accessories/>
+
+---
+
+## Buñuelos de Viento
+
+date: 2024-12-11, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/bunuelos-de-viento/"><img title="buñuelos-de-viento-small-8" src="https://www.isabeleats.com/wp-content/uploads/2024/12/bunuelos-de-viento-small-8-400x600.jpg" alt="Buñuelos de Viento on a plate covered in cinnamon sugar." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Buñuelos de Viento are a traditional Mexican fritter tossed in cinnamon sugar made with a special rosette-shaped iron mold. These light and crispy treats are popular during Christmas time but use everyday ingredients for the dough that can be enjoyed any time of year! On Christmas and New Year&#8217;s Eve, my family goes all out [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/bunuelos-de-viento/>
+
+---
+
+## 71 Best Vegan Recipes for Dinner
+
+date: 2024-12-10, from: Bon Appetet
+
+Like tempeh stir-fry with chile crisp and coconut rice, garlic-soy braised lentils, and a dairy-free cream sauce to pair with any pasta. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/vegan-dinner-recipes-that-we-just-love>
+
+---
+
+## Reese’s Just Dropped a Brand-New Kind of Peanut Butter Cup
+
+date: 2024-12-10, from: Taste of Home
+
+<p>Reese's has a luxe new flavor that I need for my Christmas stockings.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/red-velvet-reeses-2024/">Reese&#8217;s Just Dropped a Brand-New Kind of Peanut Butter Cup</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/red-velvet-reeses-2024/>
+
+---
+
+## The 19 Best Cookbooks of 2024
+
+date: 2024-12-10, from: Bon Appetet
+
+We asked a panel of chefs and food writers which titles stood out to them most this year. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-cookbooks-2024>
+
+---
+
+## 15 Cozy Gifts For People Who Love Staying In
+
+date: 2024-12-10, from: Bon Appetet
+
+Get warm and fuzzy with these snuggle-worthy gifts. 
+
+<br> 
+
+<https://www.bonappetit.com/story/cozy-gifts>
+
+---
+
+## This Wendy’s Key Tag Is Only $3—and It’s Good for Free Frostys All Year
+
+date: 2024-12-10, from: Taste of Home
+
+<p>The Wendy's Frosty Key Tag is a beloved annual promotion that benefits the Dave Thomas Foundation for Adoption.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/wendys-frosty-key-tag-2024/">This Wendy&#8217;s Key Tag Is Only $3—and It&#8217;s Good for Free Frostys All Year</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/wendys-frosty-key-tag-2024/>
+
+---
+
+## The 14 Best Wine Gifts (2024)
+
+date: 2024-12-10, from: Bon Appetet
+
+All the best stemware, wine keys, and other thoughtful accessories for the budding sommelier in your life. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-wine-gifts>
+
+---
+
+## Three Questions with Swelter Coffee Roasters Founder Stephanie Welter-Krause
+
+date: 2024-12-10, from: Daily Coffee News
+
+<div><img width="620" height="427" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause-620x427.jpg" class="attachment-large size-large wp-post-image" alt="Stephanie Welter-Krause" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause-620x427.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause-300x206.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause-150x103.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause-768x528.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Stephanie Welter-Krause was first inspired to roast coffee while thumbing through the home roasting section in the influential 2012 book, The Blue Bottle Craft of Coffee, written by James Freeman,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/10/three-questions-with-swelter-coffee-roasters-founder-stephanie-welter-krause/>
+
+---
+
+## Ligre Brings a Clean Slate to European Home Espresso Design
+
+date: 2024-12-10, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige-620x465.jpg" class="attachment-large size-large wp-post-image" alt="4_LIGRE_youn_siji_silver-beige" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new high-end home espresso machine and companion grinder from the German boutique brand Ligre are attempting to cut through the visual clutter of classic countertop equipment. The striking designs... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/10/ligre-brings-a-clean-slate-to-european-home-espresso-design/>
 
 ---
 
@@ -21,11 +201,23 @@ date: 2024-12-10, from: The Sprudge
 
 ---
 
-## The December Cook With Bon Appétit Box Brings A Global Pantry Home
+## Study: Coffee Greatly Reduces Risk of Co-Existing Cardio Diseases
+
+date: 2024-12-10, from: Daily Coffee News
+
+<div><img width="620" height="409" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1-620x409.jpg" class="attachment-large size-large wp-post-image" alt="cups of coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1-620x409.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1-300x198.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1-768x506.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>New research shows that moderate coffee consumption may reduce risk of having two or more cardio or metabolic diseases at the same time. The study, published in the Endocrine Society’s... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/10/study-coffee-greatly-reduces-risk-of-co-existing-cardio-diseases/>
+
+---
+
+## The December Cook With Bon Appétit Box Brings a Global Pantry Home
 
 date: 2024-12-10, from: Bon Appetet
 
-The crispiest chicken cutlets, sloppy joes with a kick, sweet and savory seared shrimp, and more recipes to add oomph to cozy nights in 
+The crispiest chicken cutlets, sloppy joes with a kick, sweet and savory seared shrimp, and more recipes to add oomph to cozy nights in. 
 
 <br> 
 
@@ -135,11 +327,23 @@ date: 2024-12-09, from: The Sprudge
 
 ---
 
+## Fluffernutter Sandwich
+
+date: 2024-12-09, from: Taste of Home
+
+Never had a fluffernutter sandwich? You don't know what you're missing! This marshmallowy sandwich is the ooey, gooey favorite of kids and adults alike in the Northeast. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/fluffernutter-sandwich/>
+
+---
+
 ## Column: The Shifting Seasons of Coffee Shipments
 
 date: 2024-12-09, from: Daily Coffee News
 
-<div><img width="620" height="332" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/ethiopia-arrivals-2018-vs-2024-final-620x332.png" class="attachment-large size-large wp-post-image" alt="ethiopia-arrivals-2018-vs-2024-final" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/ethiopia-arrivals-2018-vs-2024-final-620x332.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/ethiopia-arrivals-2018-vs-2024-final-300x160.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/ethiopia-arrivals-2018-vs-2024-final-150x80.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/ethiopia-arrivals-2018-vs-2024-final-768x411.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/ethiopia-arrivals-2018-vs-2024-final.png 1172w" sizes="(max-width: 620px) 100vw, 620px" /></div>Seasonality&#160;&#160; The idea that a particular crop — in our case, coffee — is available and fresh for a particular portion of the year is long-ingrained in the specialty food... 
+<div><img width="620" height="332" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/ethiopia-arrivals-2018-vs-2024-final-620x332.png" class="attachment-large size-large wp-post-image" alt="ethiopia-arrivals-2018-vs-2024-final" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/ethiopia-arrivals-2018-vs-2024-final-620x332.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/ethiopia-arrivals-2018-vs-2024-final-300x160.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/ethiopia-arrivals-2018-vs-2024-final-150x80.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/ethiopia-arrivals-2018-vs-2024-final-768x411.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/ethiopia-arrivals-2018-vs-2024-final.png 1172w" sizes="(max-width: 620px) 100vw, 620px" /></div>Seasonality&#160;&#160; The idea that a particular crop — in our case, coffee — is available and fresh for a particular portion of the year is long-ingrained in the specialty food... 
 
 <br> 
 
@@ -167,7 +371,7 @@ date: 2024-12-09, from: Isebel Eats
 
 date: 2024-12-09, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Hardline-Coffee-Sioux-City-IA-3-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Hardline Coffee Sioux City IA 3" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Hardline-Coffee-Sioux-City-IA-3-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Hardline-Coffee-Sioux-City-IA-3-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Hardline-Coffee-Sioux-City-IA-3-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Hardline-Coffee-Sioux-City-IA-3-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Hardline-Coffee-Sioux-City-IA-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Though permanence hasn&#8217;t come easy, Hardline Coffee has solidified its place in Sioux City, Iowa, with the opening of its new roastery and cafe.&#160; After launching and with a mobile... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Hardline-Coffee-Sioux-City-IA-3-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Hardline Coffee Sioux City IA 3" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Hardline-Coffee-Sioux-City-IA-3-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Hardline-Coffee-Sioux-City-IA-3-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Hardline-Coffee-Sioux-City-IA-3-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Hardline-Coffee-Sioux-City-IA-3-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Hardline-Coffee-Sioux-City-IA-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Though permanence hasn&#8217;t come easy, Hardline Coffee has solidified its place in Sioux City, Iowa, with the opening of its new roastery and cafe.&#160; After launching and with a mobile... 
 
 <br> 
 

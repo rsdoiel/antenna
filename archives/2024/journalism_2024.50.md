@@ -1,11 +1,253 @@
 ---
 title: journalism
-updated: 2024-12-10 07:05:23
+updated: 2024-12-11 07:05:34
 ---
 
 # journalism
 
-(date: 2024-12-10 07:05:23)
+(date: 2024-12-11 07:05:34)
+
+---
+
+## 19 horses housed at Pierce due to fire evacuations in Malibu
+
+date: 2024-12-11, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Nineteen horses are being temporarily kept at the Pierce College Farm, after they were evacuated from Malibu due to the ongoing Franklin Fire. “We are</p>
+<p>The post <a href="https://theroundupnews.com/2024/12/10/19-horses-housed-at-pierce-due-to-fire-evacuations-in-malibu/">19 horses housed at Pierce due to fire evacuations in Malibu</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/12/10/19-horses-housed-at-pierce-due-to-fire-evacuations-in-malibu/?utm_source=rss&utm_medium=rss&utm_campaign=19-horses-housed-at-pierce-due-to-fire-evacuations-in-malibu>
+
+---
+
+## Holiday Market Brings Life to Student Art
+
+date: 2024-12-10, from: The Sundail (CSUN Student Newspaper)
+
+As fall semester comes to an end, the CSUN Art Department combined its annual ceramics sale with other art clubs in a new Holiday Market event. The event took place... 
+
+<br> 
+
+<https://sundial.csun.edu/188437/news/holiday-market-brings-life-to-student-art/>
+
+---
+
+## Jewish Studies Offers a Creative Space to Process Challenging Classroom Topics
+
+date: 2024-12-10, from: The Sundail (CSUN Student Newspaper)
+
+Throughout the fall 2024 semester, CSUN’s Jewish Studies Program offered a wide range of “campus and community peacebuilding workshops,” sponsored by the program. Concluding the semester, Professor Jennifer Thompson hosted... 
+
+<br> 
+
+<https://sundial.csun.edu/188431/arts-entertainment/jewish-studies-offers-a-creative-space-to-process-challenging-classroom-topics/>
+
+---
+
+## Journalists fight digital decay
+
+date: 2024-12-10, from: Nieman Journalism Lab
+
+As journalists, authors, and photographers, our work shapes how history remembers the world. But in 2025, the fight to preserve this work feels more urgent than ever. Digital fragility and denialism threaten to erode the integrity of our stories, making preservation a moral imperative. Decades of photojournalism, often captured under the most challenging conditions, are... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/journalists-fight-digital-decay/>
+
+---
+
+## A generation of journalists moves on
+
+date: 2024-12-10, from: Nieman Journalism Lab
+
+Journalism should be the greatest job in the world, but for many journalists — even at top news outlets — it isn’t. Even the best journalists have to worry about layoffs, changes in ownership, stagnant pay and the life sacrifices the job often requires. Freeing four wrongfully convicted people from prison with her reporting wasn’t... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/a-generation-of-journalists-moves-on/>
+
+---
+
+## Prediction markets go mainstream
+
+date: 2024-12-10, from: Nieman Journalism Lab
+
+For decades, the news industry has operated on a familiar rhythm: Journalists chase scoops, publish headlines, and define the news cycle. But a new model for information sharing is emerging. Prediction markets — platforms where users buy and sell shares based on the probability of future events — are poised to disrupt the media landscape... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/prediction-markets-go-mainstream/>
+
+---
+
+## Maybe we really are done with news?
+
+date: 2024-12-10, from: Nieman Journalism Lab
+
+Years of year-end predictions reveal a journalism industry battered about by change. Past predictions chronicle the bumpy adaptation to economic precarity, unstable alliances with platforms, so many technology innovations, real physical threats, and a host of other developments that are often challenges and sometimes opportunities. These topics are all important and worthy of our attention,... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/maybe-we-really-are-done-with-news/>
+
+---
+
+## A new generation of knowledge management tools
+
+date: 2024-12-10, from: Nieman Journalism Lab
+
+The typical inverted-pyramid news article is like airplane food — edible but to no one&#8217;s taste. Since its inception in the 1800s, the story format is a functional, practical way to organize information in the absence of any knowledge about what the members of their audience want and need. But in 2025, we can know... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/a-new-generation-of-knowledge-management-tools/>
+
+---
+
+## The podcast middle class will continue to shrink
+
+date: 2024-12-10, from: Nieman Journalism Lab
+
+During the podcasting gold rush of the 2010s, the industry saw an injection of capital into its middle class: the creators who did this work professionally but who weren&#8217;t multimillionaires, those whose success was modest, not explosive. The podcast middle class is a range of shows operating in the $100,000 to $500,000 budget range, which... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-podcast-middle-class-will-continue-to-shrink/>
+
+---
+
+## Journalism has its Kendrick Lamar year
+
+date: 2024-12-10, from: Nieman Journalism Lab
+
+This year could define the future of journalism — our Kendrick Lamar year. We are classically trained to serve and defend democracy, and now we must deliver unmatched, impactful work that reclaims our place as the Fourth Estate. The influencers, haters, and imitators? They’re not like us. But the threats are real. Technology has disrupted... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/journalism-has-its-kendrick-lamar-year/>
+
+---
+
+## Newsrooms fight back against criminalization
+
+date: 2024-12-10, from: Nieman Journalism Lab
+
+In 2025, attacks on journalists are set to escalate. A disturbing global trend continues to expand: the use of criminal law to silence journalists. This tactic, perfected by authoritarian regimes in places like Nicaragua, Venezuela, Russia, China, and the Philippines, is now spreading worldwide. Even in the United States, a Kansas newsroom faced such tactics... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/newsrooms-fight-back-against-criminalization/>
+
+---
+
+## Humanness > authenticity
+
+date: 2024-12-10, from: Nieman Journalism Lab
+
+Rather than focus on authenticity, media organizations will double down on journalists&#8217; humanness in its many forms. Theorists have long lamented the lionization of an authentic self, decrying authenticity as a mirage, an illusive social construct, a pursuit of expectations rather than genuineness, and a trap of stereotypes that, when chased, can promote an individualistic... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/humanness-authenticity/>
+
+---
+
+## Journalists embrace transparency about the business side
+
+date: 2024-12-10, from: Nieman Journalism Lab
+
+For as long as we’ve been talking about journalism’s credibility crisis, we’ve been talking about one possible solution: more transparency about how journalists do their jobs. The story goes like this: People distrust the news because they don’t know how it gets made, which leads to inaccurate assumptions about journalists’ motivations and practices. So if... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/journalists-embrace-transparency-about-the-business-side/>
+
+---
+
+## The line between activism and journalism breaks
+
+date: 2024-12-10, from: Nieman Journalism Lab
+
+There is a growing frustration in the pit of the global journalism industry&#8217;s stomach. A frustration that comes from witnessing an entire year of devastating war in the Middle East, massive bloodshed, and ongoing conflicts across the globe where nothing seems to be working. A sickening frustration fed by the reeking hypocrisy of trying to... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-line-between-activism-and-journalism-breaks/>
+
+---
+
+## Put AI at the beginning, not at the end
+
+date: 2024-12-10, from: Nieman Journalism Lab
+
+Many newsrooms and publishers are looking for ways to use generative AI, and they&#8217;re making one crucial mistake: They&#8217;re hoping for the one magic button. They&#8217;re hoping for AI that can quickly turn an article into a podcast, web story, or newsletter. For AI that can quickly add illustrations to a product. For AI that... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/put-ai-at-the-beginning-not-at-the-end/>
+
+---
+
+## The distinct human writer becomes more essential
+
+date: 2024-12-10, from: Nieman Journalism Lab
+
+Odds are artificial intelligence will feature prominently in many of Nieman Lab&#8217;s predictions for journalism in the coming year. I predict that editors in newsrooms worldwide will find themselves navigating two concurrent revolutions: mobile-first and AI. Unlike previous changes the media has encountered, these transformations fundamentally affect the craft of journalism itself — specifically, how... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-distinct-human-writer-becomes-more-essential/>
+
+---
+
+## Local collaboration follows contraction
+
+date: 2024-12-10, from: Nieman Journalism Lab
+
+Readers who have been tuning out and disengaging from the news will begin turning back to trusted online sources once the new year gets rolling, but not in the numbers that we saw during the pandemic. It might take a while to emerge from what some are calling their “cocooning,” and it won’t be enough... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/local-collaboration-follows-contraction/>
+
+---
+
+## Public media embraces its future
+
+date: 2024-12-10, from: Nieman Journalism Lab
+
+The rapid pace of technological change, volatile ad revenues, intense digital competition, and the ever-shifting preferences of audiences make maintaining a sustainable business model daunting. For public media, these challenges are compounded by a fragmented market and political pressures. Yet public media remains an indispensable community asset. Years ago, I rappelled down a 400-foot building... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/public-media-embraces-its-future/>
+
+---
+
+## Story budgets get reshaped to coax the disengaged
+
+date: 2024-12-10, from: Nieman Journalism Lab
+
+In the year ahead, editors, stretched thin by the demands of daily news and shrinking staff, will adopt new approaches and technology to ease work burdens and unleash reporters to tackle stories with greater depth and engagement. In the past year, I’ve enjoyed conversations with dozens of Evergreen State leaders seeking to host one of... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/story-budgets-get-reshaped-to-coax-the-disengaged/>
+
+---
+
+## B2B media shifts from content to solutions
+
+date: 2024-12-10, from: Nieman Journalism Lab
+
+In the coming year, B2B digital media will evolve from traditional content publishing to holistic &#8220;solution hubs&#8221; that prioritize actionable intelligence and deep interactivity over static content. This shift will see B2B media transform into platforms that connect, educate, and empower professionals with immediate, custom-fit insights where the value lies in utility versus volume. Here... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/b2b-media-shifts-from-content-to-solutions/>
 
 ---
 

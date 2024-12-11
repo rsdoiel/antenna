@@ -1,11 +1,143 @@
 ---
 title: socal north
-updated: 2024-12-10 07:05:21
+updated: 2024-12-11 07:05:32
 ---
 
 # socal north
 
-(date: 2024-12-10 07:05:21)
+(date: 2024-12-11 07:05:32)
+
+---
+
+## LA has overspent by $300 million so far, cuts to city services likely
+
+date: 2024-12-11, updated: 2024-12-11, from: The LAist
+
+The city’s reserve fund has dropped to 4% of revenues, according to the report. The city has a policy of keeping the fund at a minimum of 5%. 
+
+<br> 
+
+<https://laist.com/news/politics/la-city-budget-overspends>
+
+---
+
+## Santa Ana winds move out, cooler days ahead
+
+date: 2024-12-11, updated: 2024-12-11, from: The LAist
+
+Dangerous red flag warnings expire Wednesday. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/santa-ana-winds-move-out-cooler-days-ahead>
+
+---
+
+## Facing need for more housing, LA's City Council votes to keep new apartments away from homeowners
+
+date: 2024-12-11, updated: 2024-12-11, from: The LAist
+
+The city needs to rezone for more than a quarter-million new homes. Elected leaders decided to block new housing in single-family neighborhoods. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-rezoning-housing-element-chip-ordinance-single-family-zones-city-council-vote>
+
+---
+
+## LA rolls out text to pay parking meters
+
+date: 2024-12-11, updated: 2024-12-11, from: The LAist
+
+No need to drop more quarters into the machine. 
+
+<br> 
+
+<https://laist.com/news/transportation/la-rolls-out-text-to-pay-parking-meters>
+
+---
+
+## USC faculty move to unionize
+
+date: 2024-12-10, updated: 2024-12-10, from: The LAist
+
+The union would represent about 2,500 full-time non-tenured, part time, and adjunct professors. 
+
+<br> 
+
+<https://laist.com/news/education/usc-faculty-move-to-unionize>
+
+---
+
+## Kroger and Albertsons grocery megamerger halted by two courts
+
+date: 2024-12-10, updated: 2024-12-10, from: The LAist
+
+Two rulings — in federal and state courts — make it increasingly likely that Kroger might abandon its $24.6 billion plan to buy Albertsons. The merger aimed to combine two of America's largest supermarket chains. 
+
+<br> 
+
+<https://laist.com/news/food/kroger-and-albertsons-grocery-megamerger-halted-by-two-courts>
+
+---
+
+## Gambling companies spent big to defeat three California lawmakers. ‘We want to be respected’
+
+date: 2024-12-10, updated: 2024-12-10, from: The LAist
+
+California’s card room industry spent over $3 million targeting four lawmakers as payback for their votes on a gambling bill. Three of the lawmakers lost. 
+
+<br> 
+
+<https://laist.com/news/gambling-companies-california-card-rooms-commerce-hawaiian-gardens>
+
+---
+
+## Former principal, incumbent elected to lead LAUSD board
+
+date: 2024-12-10, updated: 2024-12-10, from: The LAist
+
+Scott Schmerelson was unanimously elected Tuesday to lead the LAUSD board after defeating a well-funded challenger in November’s election. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-board-former-principal-incumbent-schmerelson-elected>
+
+---
+
+## Polluted communities hold their breath as companies struggle with California’s diesel truck ban
+
+date: 2024-12-10, updated: 2024-12-10, from: The LAist
+
+California has an aggressive mandate for zero-emission trucks, which are powered by electricity or hydrogen. But trucking companies face big obstacles — and people are still breathing dangerous diesel exhaust. 
+
+<br> 
+
+<https://laist.com/news/health/polluted-communities-wilmington-california-diesel-truck-ban>
+
+---
+
+## 'Nobody Knows Anything' is here to make you (and me) smile more
+
+date: 2024-12-10, updated: 2024-12-10, from: The LAist
+
+LAist's newest podcast Nobody Knows Anything is fun, funny, and educational (if nothing else, your Letterboxd Watchlist is about to get an upgrade). 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/nobody-knows-anything-growing-pains>
+
+---
+
+## Why Gen Z loves the digital compact cameras that millennials used to covet
+
+date: 2024-12-10, updated: 2024-12-10, from: The LAist
+
+Digital compact cameras are showing up on wish lists this holiday season. Here's what to look for when buying one. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/why-gen-z-loves-the-digital-compact-cameras-that-millennials-used-to-covet>
 
 ---
 
@@ -33,11 +165,11 @@ A red flag warning for the Inland Empire, Orange county last until Wednesday mor
 
 ---
 
-## Fast-moving brush fire in Malibu prompts evacuations, school closures, shelter in place order at Pepperdine
+## Franklin Fire in Malibu forces thousands to evacuate, 7 structures destroyed
 
-date: 2024-12-10, updated: 2024-12-10, from: The LAist
+date: 2024-12-10, updated: 2024-12-11, from: The LAist
 
-The Franklin Fire in Malibu Canyon spread to 1,822 acres overnight Monday. University officials activated shelter-in-place protocols in the early morning. 
+The Franklin Fire in Malibu Canyon spread to nearly 4,000 acres by Wednesday morning. At one point, Pepperdine students were required to shelter in place. 
 
 <br> 
 

@@ -1,11 +1,375 @@
 ---
 title: columns
-updated: 2024-12-10 07:05:23
+updated: 2024-12-11 07:05:33
 ---
 
 # columns
 
-(date: 2024-12-10 07:05:23)
+(date: 2024-12-11 07:05:33)
+
+---
+
+##  If you haven&#8217;t had the pleasure, you should double back and read... 
+
+date: 2024-12-11, updated: 2024-12-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045826-if-you-havent-had-the>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-11, from: Dave Winer's Scripting News)
+
+Just added to my todo list -- add the option to use the <a href="https://github.com/WP-API/node-wpapi">WordPress REST interface</a> in place of the <a href="https://github.com/Automattic/wpcom.js">WPCOM interface</a>, this will give <a href="https://this.how/wordland/">WordLand</a> the ability to edit WordPress sites anywhere, not just on wordpress.com. When I made the choice to go with WPCOM I didn't have ChatGPT to look at the other options, I was surprised to find that WordPress actually had a good JavaScript API. It doesn't look like the conversion will be too bad. It's obviously better to be able to work with all WordPress sites. 
+
+<br> 
+
+<http://scripting.com/2024/12/11.html#a143952>
+
+---
+
+##  The old school Oregon Trail video game is being adapted into an... 
+
+date: 2024-12-11, updated: 2024-12-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045821-the-old-school-oregon-tra>
+
+---
+
+## Jailbreaking LLM-Controlled Robots
+
+date: 2024-12-11, updated: 2024-12-09, from: Bruce Schneier blog
+
+<p>Surprising no one, it&#8217;s <a href="https://spectrum.ieee.org/jailbreak-llm">easy</a> <a href="https://robopair.org/">to</a> trick an LLM-controlled robot into ignoring its safety instructions.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/12/jailbreaking-llm-controlled-robots.html>
+
+---
+
+## Linux 6.12 is the new long term supported kernel
+
+date: 2024-12-11, updated: 2024-12-11, from: Liam Proven's articles at the Register
+
+<h4>Mid-November release will be maintained for &#39;several years&#39;</h4>
+      <p>Last month&#39;s new version of the Linux kernel, 6.12, has been confirmed as the newest LTS release… which also marks the end of the line for kernel 4.19.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/12/11/linux_612_lts/>
+
+---
+
+## Office Hours: Where they’re raging against the establishment
+
+date: 2024-12-11, from: Robert Reich's blog
+
+It&#8217;s one of the most powerful forces in America. How does it express itself? 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-where-theyre-raging>
+
+---
+
+## Air fryers produce less indoor air pollution
+
+date: 2024-12-11, from: Tracy Durnell Blog
+
+ 
+
+<br> 
+
+<https://tracydurnell.com/2024/12/10/air-fryers-produce-less-indoor-air-pollution/>
+
+---
+
+## Video pairing: systems steeped in values
+
+date: 2024-12-11, from: Tracy Durnell Blog
+
+How thousands of school lunches are made for Japanese students (video) by Adedayo Afolabi and David Valerio (Business Insider) A completely different perspective on food in schools, considering it both part of the curriculum and an essential role of schools to make sure kids are fed. + How did planners design Soviet cities? (video) by [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/12/10/video-pairing-systems-steeped-in-values/>
+
+---
+
+## curl 8.11.1
+
+date: 2024-12-11, from: Daniel Stenberg Blog
+
+Welcome to another curl release. This time we do a bugfix only release, five weeks since the previous version shipped. Release Presentation Numbers the 263rd release0 changes35 days (total: 9,763)79 bugfixes (total: 11,173)115 commits (total: 33,811)0 new public libcurl function (total: 94)0 new curl_easy_setopt() option (total: 306)0 new curl command line option (total: 266)51 contributors, &#8230; <a href="https://daniel.haxx.se/blog/2024/12/11/curl-8-11-1/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.11.1</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2024/12/11/curl-8-11-1/>
+
+---
+
+## Bankruptcy Judge Rejects The Onion’s Bid to Buy Infowars
+
+date: 2024-12-11, updated: 2024-12-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nbcnews.com/tech/internet/bankruptcy-judge-rejects-onions-bid-buy-alex-jones-infowars-rcna183453>
+
+---
+
+## December 10, 2024 
+
+date: 2024-12-11, from: Heather Cox Richardson blog
+
+Today is Human Rights Day, celebrated internationally in honor of the day seventy-six years ago, December 10, 1948, when the United Nations General Assembly announced the Universal Declaration of Human Rights (UDHR). 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-10-2024>
+
+---
+
+## Intermittent fasting
+
+date: 2024-12-11, from: Dave Rupert blog
+
+<aside>
+<p>⚠️ Content warning: Weight loss, feel free to skip if that is not a good topic for you.</p>
+</aside>
+<p>A doctor told me to look into intermittent fasting. Not for weight loss, but for ADHD. There’s some <a href="https://www.addrc.org/the-role-of-brain-insulin-in-adhd-emerging-evidence/">new data that suggests a link between ADHD and insulin in the brain</a>. Based on that science, intermittent fasting or a ketogenic diet –which can help improve insulin resistance– might help my brain. I’m a week into it and am seeing some weight loss, but it’s hard to tell with the ADHD without measuring my brainflorps per second. I might be more focused, but hunger and “hangry” bring their own distractions.</p>
+<p>I’m skeptical, to say the least. Intermittent fasting makes frequent appearances in my YouTube shorts with balding Joe Rogan clones dressed in all black selling workout supplements. It has a whiff of being a cure-all. To counter that skepticism, I read a book called <a href="https://amzn.to/4fRPUMt"><em>Life in the Fasting Lane</em></a> co-authored by Dr Jason Fung, who was specifically recommended to me. It’s a mix of doctorly advice and testimonials from advocates who have had success with fasting. As scientific as the book tries to be, it undoes its own credibility pitching intermittent fasting with all the hallmarks of a fad elimination diet:</p>
+<ul>
+<li>Lose weight in 30 days</li>
+<li>Reduce cravings</li>
+<li>Live longer</li>
+<li>Reverse diseases</li>
+<li>Helps you focus at work</li>
+<li>Improves your sex life</li>
+<li>Big pharma doesn’t want you to know about this one weird trick!</li>
+<li>Used by ancient civilizations. Ugh. The appeal to history (ancient, therefore good!) is a major pet peeve of mine.</li>
+<li>And my least favorite: It doesn’t cure cancer, but it cures obesity, which causes all different kinds of cancer… so we’re not gonna say it cures cancer because that’s a douchebag thing to say, but it <em>doesn’t not</em> cure cancer if you catch our drift (wink).</li>
+</ul>
+<p>I do appreciate that the book calls out “Calories-In/Calories-Out” as a myth that works 1% of the time. But it’s hard to shake the feeling that eliminating meals or days worth of food isn’t a macro-version of calories-in/calories-out, where you measure calories in weeks instead of per meal. I suppose the key difference is the duration between meals allows my body to enter ketosis (read: a starving state) which will consume my excess fat stores instead of my morning breakfast tacos adding to those fat stores.</p>
+<p>To be honest, I’m a good candidate for this fad diet. I can sustain myself on a couple meals a day. I could skip lunch most days. Skipping breakfast though is hard. Not putting creamer in my morning coffee is hard. Not having a little after dinner snack with the kids is hard. Not eating is not my favorite, but I’m going to trust the process for a bit and hopefully it’ll help a weary brain like mine.</p> 
+
+<br> 
+
+<https://daverupert.com/2024/12/intermittent-fasting/>
+
+---
+
+##  In Training: A Book of Bonsai Photos 
+
+date: 2024-12-10, updated: 2024-12-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/in-training-a-book-of-bonsai-photos>
+
+---
+
+##  A very simple little browser game: open the microwave door as close... 
+
+date: 2024-12-10, updated: 2024-12-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045824-a-very-simple-little-brow>
+
+---
+
+##  Straight White Male, the Game of Life&#8217;s Lowest Difficulty Setting 
+
+date: 2024-12-10, updated: 2024-12-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/straight-white-male-the-game-of-lifes-lowest-difficulty-setting-1>
+
+---
+
+##  The New Rules of Media. &#8220;Everything is a personality cult, and maybe... 
+
+date: 2024-12-10, updated: 2024-12-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045823-the-new-rules-of-media>
+
+---
+
+##  Willem Dafoe interviewed by Matt Zoller Seitz. &#8220;If you make it about... 
+
+date: 2024-12-10, updated: 2024-12-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045820-willem-dafoe-interviewed->
+
+---
+
+##  &#8220;ProPublica&#8217;s Claim File Helper lets you customize a letter requesting the notes... 
+
+date: 2024-12-10, updated: 2024-12-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045819-propublicas-claim-file-he>
+
+---
+
+## December 9, 2024
+
+date: 2024-12-10, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/152927088/562a798c5b1904b71bca7dff4fe232f9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/152927088/562a798c5b1904b71bca7dff4fe232f9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-9-2024-108>
+
+---
+
+##  Sally Rooney: When are we going to have the courage to stop... 
+
+date: 2024-12-10, updated: 2024-12-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045818-sally-rooney-when-are-we>
+
+---
+
+##  A thread of some letters people wrote to each other on clay... 
+
+date: 2024-12-10, updated: 2024-12-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045733-a-thread-of-some-letters>
+
+---
+
+## The Spectacular Typography of the Sanborn Fire Maps
+
+date: 2024-12-10, updated: 2024-12-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sanbornfiremaps.com/>
+
+---
+
+## Apple watch and Tesla
+
+date: 2024-12-10, from: Dave Winer's Scripting News
+
+<p>Many Tesla drivers <a href="http://scripting.com/2024/12/07/142329.html#a143215">wish</a> they'd evict Elon Musk. On the other hand can your car do this?</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/12/10/appleWatchOnTesla.png"></center>My Apple Watch can unlock my Model Y, turn the heat on, open the frunk.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/12/10/165048.html?title=appleWatchAndTesla>
+
+---
+
+##  What&#8217;s The One Thing Only You Noticed? 
+
+date: 2024-12-10, updated: 2024-12-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/whats-the-one-thing-only-you-noticed>
+
+---
+
+## Raspberry Pi 500 uses QMK Firmware for built-in keyboard
+
+date: 2024-12-10, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Raspberry Pi 500 uses QMK Firmware for built-in keyboard</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>I mentioned in my <a href="https://www.jeffgeerling.com/blog/2024/pi-500-much-faster-lacks-m2">Pi 500 review</a> Raspberry Pi is dogfooding their own microcontroller in the new Pi 500. An RP2040 sits next to the keyboard ribbon cable connector, and interfaces it through a USB port directly into the RP1 chip:</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/pi-500-rp2040-keyboard-qmk.jpg" alt="Raspberry Pi 500 PCB with RP2040 for keyboard input"></p>
+
+<p>In good news for keyboarding enthusiasts, the RP2040 seems to be flashed with the open-source <a href="https://github.com/raspberrypi/QMK">QMK ('Quantum Mechanical Keyboard') Firmware</a>. Thanks to a reader, 'M', who figured that out!</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/system76-launch-keyboard.jpg" alt="System76 Launch keyboard with RP2040 inside"></p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-12-10T09:52:00-06:00" title="Tuesday, December 10, 2024 - 09:52" class="datetime">December 10, 2024</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2024/raspberry-pi-500-uses-qmk-firmware-built-keyboard>
+
+---
+
+##  An analysis of the UX of Lego interface panels. &#8220;Armed with 52... 
+
+date: 2024-12-10, updated: 2024-12-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045810-an-analysis-of-the-ux>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-10, from: Dave Winer's Scripting News)
+
+This time of year every day feels like Sunday. 
+
+<br> 
+
+<http://scripting.com/2024/12/10.html#a153623>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-10, from: Dave Winer's Scripting News)
+
+Here's a sad fact. When something open takes off, the vultures swoop in and try to own it. You wouldn't believe the greed I've seen. It's a virus, and it needs to stop, or at least be exposed as it's happening. 
+
+<br> 
+
+<http://scripting.com/2024/12/10.html#a150844>
 
 ---
 

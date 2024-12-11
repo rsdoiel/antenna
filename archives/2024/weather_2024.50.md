@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2024-12-10 07:05:23
+updated: 2024-12-11 07:05:33
 ---
 
 # weather
 
-(date: 2024-12-10 07:05:23)
+(date: 2024-12-11 07:05:33)
 
 ---
 
-## SPC - No watches are valid as of Tue Dec 10 15:00:02 UTC 2024
+## SPC - No watches are valid as of Wed Dec 11 14:52:02 UTC 2024
 
-date: 2024-12-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Dec 10 15:00:02 UTC 2024. 
+No watches are valid as of Wed Dec 11 14:52:02 UTC 2024. 
 
 <br> 
 
@@ -21,11 +21,11 @@ No watches are valid as of Tue Dec 10 15:00:02 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Tue Dec 10 15:00:02 UTC 2024
+## SPC - No MDs are in effect as of Wed Dec 11 14:52:02 UTC 2024
 
-date: 2024-12-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Tue Dec 10 15:00:02 UTC 2024. 
+No Mesoscale Discussions are in effect as of Wed Dec 11 14:52:02 UTC 2024. 
 
 <br> 
 
@@ -33,91 +33,88 @@ No Mesoscale Discussions are in effect as of Tue Dec 10 15:00:02 UTC 2024.
 
 ---
 
-## SPC Dec 10, 2024 1300 UTC Day 1 Convective Outlook
+## SPC Dec 11, 2024 1300 UTC Day 1 Convective Outlook
 
-date: 2024-12-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0639 AM CST Tue Dec 10 2024
+0639 AM CST Wed Dec 11 2024
 
-Valid 101300Z - 111200Z
+Valid 111300Z - 121200Z
 
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM PORTIONS OF
-THE CENTRAL GULF COAST REGION INTO CENTRAL/SOUTHERN GEORGIA AND THE
-FLORIDA PANHANDLE...
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM THE EASTERN
+CAROLINAS TO SOUTHERN NEW ENGLAND...
 
 ...SUMMARY...
-A few strong to severe thunderstorms are possible across portions of
-the central Gulf Coast region into central/southern Georgia and the
-Florida Panhandle through tonight.
+Severe thunderstorm winds and a few tornadoes are possible from the
+eastern Carolinas to southern New England.  Isolated severe
+thunderstorms may occur southward into portions of Florida.
 
 ...Synopsis...
-In mid/upper levels, mean troughing over the central CONUS will
-evolve from positively to near neutrally tilted through the period,
-in conjunction with two predominant subsynoptic-scale processes:
-1.  South-southeastward digging of a cyclone now over extreme
-northern MB, reaching the MB/ON border east of Lake Winnipeg by 12Z
-tomorrow;
-2.  Eastward shift of a strong, basal shortwave trough -- now
-evident in moisture-channel imagery over northern NM into
-south-central AZ -- absorbing a weaker/trailing perturbation and
-reaching from middle TN to central LA by the end of the period.
+Moisture-channel imagery showed a substantial mid/upper trough
+extending from a cyclone over the MB/ON border southward over the
+Mississippi Valley to a strong, basal shortwave trough over portions
+of MS/LA.  The latter feature is forecast to pivot eastward to the
+TN Valley and FL Panhandle through 18Z, then turn northeastward
+across WV, western VA and the west-central Carolinas by 00Z.  As
+that occurs, the entire synoptic trough will become more negatively
+tilted, with preceding speed maxima of 160-180-kt at 250 mb, 110-125
+kt at 500 mb, and 70-85 kt at 700 mb over parts of the Atlantic
+Coast States.
 
-As this occurs, a surface cold front -- analyzed at 11Z from a low
-near BNA southwestward across northwestern MS, central LA, middle TX
-Coast, and deep south TX -- should extend from western PA across the
-southern Appalachians and southwestern AL, to southeastern LA, by
-00Z.  A low-level, prefrontal confluence/convergence zone may
-intensify this evening and tonight over portions of the FL
-Panhandle, southeastern AL and southwestern GA.  The cold front
-should approach and perhaps overtake the confluence zone by 12Z, as
-it reaches a position from central PA across the western Carolinas,
-to near a MCN-AAF line, then over the northeastern/central Gulf.
+A cold front precedes the main mid/upper trough, and was analyzed at
+11Z from east-central PA over western VA to a weak low near AVL,
+then across central/southwestern GA and the west-central FL
+Panhandle, to the central Gulf.  The front should sweep eastward
+across VA, the Carolinas, GA and most of FL today, with a 00Z
+position progged from VT across western Long Island, over Atlantic
+waters to near or just offshore HSE, then southwestward over more of
+the Atlantic to southeastern FL.  The front should proceed offshore
+from the remaining Atlantic Coast by around 12Z tomorrow. 
 
-...Southeast...
-Widely scattered, ongoing thunderstorms clusters are apparent across
-portions of southern MS into southeastern LA, with a marginal
-potential for a brief tornado or strong-severe gust.  See SPC
-mesoscale discussion 2255 for near-term coverage of this scenario.
-Similarly sporadic, isolated and marginal tornado and severe-gust
-potential will exist throughout today and tonight with convection
-along and just ahead of the cold front, as well as slowly increasing
-convective coverage from late afternoon through overnight in the
-prefrontal convergence zone.  The warm-sector environment will
-remain characterized by a nearly saturated boundary layer with
-surface dewpoints commonly in the upper 60s to near 70 F along the
-coast, to mid 60s well inland, amidst nearly moist-adiabatic
-low-level lapse rates.  Somewhat greater boundary-layer instability
-is possible this afternoon in the inflow to the near-frontal
-convection, as modest heating occurs through cloud breaks.  That my
-offset weak midlevel lapse rates enough to support peak MLCAPE
-around 1000 J/kg from southeastern LA to south-central AL,
-decreasing northeastward as well as eastward.  An axis of lesser
-buoyancy -- with MLCAPE remaining in the 500-800 J/kg range, should
-shift eastward tonight near the confluence line, in support of
-convection there.
+...East Coast States...
+An ongoing, prefrontal band of convection, with scattered to widely
+scattered embedded thunderstorms, was apparent in radar, satellite
+and lightning data from the northeastern Gulf northeastward across
+the FL Big Bend region and southern/eastern GA.  This activity
+should proceed eastward across much of FL and offshore from GA
+today, with isolated potential for damaging to severe gusts and/or a
+tornado, as it encounters foregoing diabatic surface destabilization
+and boundary-layer theta-e advection.  The main changes this cycle
+are to the associated "marginal area, to:
+1.  Trim on the southwest edge in deference to ongoing convective
+trends (faster than earlier guidance), and 
+2.  Add somewhat more of central/southwestern FL to the
+5%-wind/Marginal area to give the trailing part of the main squall
+line more room to weaken, as diurnal heating of a moist airmass
+somewhat offsets weakening trends in both large-scale and frontal
+forcings.
 
-Deep shear should increase from late this afternoon through tonight
-with the more neutral tilt of the larger-scale trough aloft, and
-related tightening of the mid/upper height gradient over the warm
-sector.  While strongest flow aloft will remain behind the front,
-effective-shear magnitudes of 45-55 kt and elongated low-level
-hodographs are forecast from the northeastern Gulf Coast to the
-Carolinas.  As the basal shortwave trough approaches (but remains
-behind the cold front), the LLJ should strengthen to 45-55 kt
-tonight over southern GA, reaching 55-65 kt over eastern NC, with
-lengthening but only somewhat curved low-level hodographs.  The
-northeastward extent of the conditional severe potential may extend
-into near-coastal SC/NC; however, poor low- and middle-level lapse
-rates (with stable layers apparent in forecast soundings) are
-precluding any expansion of unconditional probabilities
-northeastward for this outlook cycle.  The main (yet marginal)
-severe threat for the Carolinas still appears to hold off until
-early day 2.
+Meanwhile, the most dense potential for damaging to severe gusts is
+expected to develop farther north today across central/eastern parts
+of the Carolinas, northeastward along the coast into southern New
+England.  As the shortwave and synoptic troughs assume negative
+tilt, synoptic to frontal-scale lift will increase and overlap,
+resulting in a narrow band of convection (some with lightning, but
+potentially a majority without) firming up into the Mid-Atlantic and
+perhaps southern New England.  The aforementioned deep-layer wind
+maxima will contribute to fast embedded cell motions and downward
+momentum transfer within this band.  Intense associated gusts
+sporadically should penetrate a deeply near-neutral to slightly
+above moist-adiabatic layer of lapse rates -- with a shallow
+near-surface absolutely stable layer possible -- from around the
+Delmarva region northeastward, beneath MUCAPE of around 300-800
+J/kg.  Buoyancy will become more surface-based with southern extent
+from southeastern VA southward, with the greatest values of
+low-level shear/SRH and largest hodographs expected over eastern NC
+in and near the area of relatively peaked tornado probabilities. 
+Line-embedded supercells and/or QLCS mesovortices will be the main
+tornado concern, with the wind threat more generalized to any
+sustained, bow/LEWP segments within the line.
 
-..Edwards/Jewell.. 12/10/2024
+..Edwards/Jewell.. 12/11/2024
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
@@ -131,34 +128,53 @@ early day 2.
 
 ## SPC Day 2 Fire Weather Outlook
 
-date: 2024-12-10, from: NOAA Weather Forecasts
+date: 2024-12-11, from: NOAA Weather Forecasts
 
 <br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 2 Fire Weather Outlook  
 NWS Storm Prediction Center Norman OK
-0132 AM CST Tue Dec 10 2024
+0109 AM CST Wed Dec 11 2024
 
-Valid 111200Z - 121200Z
+Valid 121200Z - 131200Z
+
+...NO CRITICAL AREAS...
 
 ...Synopsis...
-Elevated to locally critical fire weather conditions are anticipated
-Wednesday along the southern CA coast as an ongoing offshore wind
-event begins to wane. This event is expected to peak in intensity
-this morning (Tuesday) before gradually abating through the late
-afternoon and overnight hours. Critical (20+ mph) wind speeds will
-likely be ongoing within the coastal mountains by 12 UTC Wednesday,
-but winds are expected to weaken steadily through the day as the
-surface high over the Great Basin shifts southeast into the Four
-Corners/southern High Plains. Regardless, overnight RH recovery will
-be minimal due to the long-duration nature of the offshore wind
-event heading into Wednesday morning, which will promote several
-hours of elevated to locally critical fire weather conditions (most
-likely through 18 UTC). By late Wednesday afternoon, 15-25 mph winds
-should be confined to typically breezy locations within the higher
-terrain, though widespread 5-15% RH values should persist, given
-increasing subsidence and diurnal heating.
+Low-end fire weather potential is noted for Thursday across the
+southern Plains and parts of the Southwest, but unsupportive fuel
+conditions should moderate the overall fire weather threat. A cold
+continental air mass will continue to overspread the eastern CONUS
+in the wake of Wednesday's cold frontal passage with surface high
+pressure building from the upper MS River Valley into the Southeast
+states. Across the West, a more progressive, less-amplified upper
+regime will begin to emerge with a shortwave trough migrating into
+the lower Great Basin by late Thursday. This will promote surface
+pressure falls across NV/UT with an uptick in low-level winds.
 
-..Moore.. 12/10/2024
+...Southern Plains...
+The surface high over the Southeast coupled with weak lee troughing
+along the southern High Plains should promote a dry return flow
+regime across TX and much of OK Thursday afternoon. Areas of 15-20
+mph winds with RH reductions into the 20-30% range appear probable
+based on latest ensemble guidance. While areas of elevated fire
+weather conditions may emerge, fuels across the region do not
+support fire spread after recent precipitation and/or cool
+temperatures. 
+
+...Southern NV into AZ...
+The low-level mass response across the Great Basin will induce
+southerly winds across southern CA, NV, and much of AZ. Trajectories
+emanating out of southern CA/AZ (where single-digit dewpoint values
+are noted in recent surface observations) will advect dry air
+northward coincident with 15-20 mph winds. Elevated to locally
+critical fire weather conditions appear possible - especially along
+and north of the Mogollon Rim into far southern NV. But as with the
+southern Plains, latest fuel guidance shows ERCs are relatively
+modest (between the 60-80th percentile), which should modulate the
+overall fire threat and precludes highlights at this time (though
+fuel trends will continue to be monitored).
+
+..Moore.. 12/11/2024
 
 ...Please see www.spc.noaa.gov/fire for graphic product...
 

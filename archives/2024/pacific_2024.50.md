@@ -1,11 +1,454 @@
 ---
 title: pacific
-updated: 2024-12-10 07:05:22
+updated: 2024-12-11 07:05:32
 ---
 
 # pacific
 
-(date: 2024-12-10 07:05:22)
+(date: 2024-12-11 07:05:32)
+
+---
+
+## Kealakehe H.S. engineering team Hawaii’s lone entrant in NASA competition
+
+date: 2024-12-11, from: Hawaii Tribune Harold
+
+
+				<p>So many high schoolers are contemplating their futures, but for those on Kealakehe High School&#8217;s student engineering team, the future is now.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/11/hawaii-news/kealakehe-h-s-engineering-team-hawaiis-lone-entrant-in-nasa-competition/>
+
+---
+
+## Supreme Court poised to curb scope of environmental reviews
+
+date: 2024-12-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court seemed prepared Tuesday to rule that a federal agency had done enough to consider the environmental impact of a proposed 88-mile railway in Utah. Such a ruling could limit the scope of environmental reviews required by federal law in all sorts of settings. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/11/nation-world-news/supreme-court-poised-to-curb-scope-of-environmental-reviews/>
+
+---
+
+## Nation and world news in brief for December 11
+
+date: 2024-12-11, from: Hawaii Tribune Harold
+
+
+				<p>US successfully &#0010;conducts ballistic missile intercept test from Guam, Pentagon says</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/11/nation-world-news/nation-and-world-news-in-brief-for-december-11/>
+
+---
+
+## Luigi Mangione charged with murder of Brian Thompson
+
+date: 2024-12-11, from: Hawaii Tribune Harold
+
+
+				<p>ALTOONA, Pennsylvania &#8212; Luigi Mangione, the suspect charged with murder in the shooting of a top UnitedHealth executive, briefly struggled with officers and angrily shouted while being escorted into a Pennsylvania courthouse on Tuesday, as a clearer picture of his motives began to emerge a day after his arrest ended a massive manhunt. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/11/nation-world-news/luigi-mangione-charged-with-murder-of-brian-thompson/>
+
+---
+
+## Netanyahu assails media as he testifies for first time in his corruption trial
+
+date: 2024-12-11, from: Hawaii Tribune Harold
+
+
+				<p>TEL AVIV &#8212; Israeli Prime Minister Benjamin Netanyahu took the witness stand for the first time on Tuesday in his long-running corruption trial, saying he was being hounded for his hawkish security policies. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/11/nation-world-news/netanyahu-assails-media-as-he-testifies-for-first-time-in-his-corruption-trial/>
+
+---
+
+## Kona man sentenced to 10 years for vape shop robbery
+
+date: 2024-12-11, from: Hawaii Tribune Harold
+
+
+				<p>A 40-year-old Kona man was sentenced Monday in Kona Circuit Court to a 10-year prison term for robbing a Kailua-Kona vape shop in May.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/11/hawaii-news/kona-man-sentenced-to-10-years-for-vape-shop-robbery/>
+
+---
+
+## Cell tower bills head to council
+
+date: 2024-12-11, from: Hawaii Tribune Harold
+
+
+				<p>A duel between two proposed regulations on Big Island cell towers ended with both bills victorious, after the Windward Planning Commission punted them both to the County Council on Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/11/hawaii-news/cell-tower-bills-head-to-council/>
+
+---
+
+## Conservation groups voice concern for native birds with H5N1 on Oahu
+
+date: 2024-12-11, from: Hawaii Tribune Harold
+
+
+				<p>The first confirmed cases of highly pathogenic avian influenza on Oahu is worrisome news for those dedicated to protecting endangered birds.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/11/hawaii-news/conservation-groups-voice-concern-for-native-birds-with-h5n1-on-oahu/>
+
+---
+
+## What to know about the countries still dropping bombs in Syria
+
+date: 2024-12-11, from: Hawaii Tribune Harold
+
+
+				<p>Great powers have fought for centuries for influence in the territory known today as Syria, each seeing a prize in its strategic position, stretching from the Mediterranean Sea to the Euphrates River and beyond. That struggle continues today. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/11/nation-world-news/what-to-know-about-the-countries-still-dropping-bombs-in-syria/>
+
+---
+
+## Pacific Islands wait for Trump, wary of climate and China stance
+
+date: 2024-12-11, from: Hawaii Tribune Harold
+
+
+				<p>Pacific island nations at the centre of a strategic rivalry between the U.S. and China that brought infrastructure and funding hope President-elect Donald Trump stays engaged in the region but are wary of competition spilling into confrontation, diplomats say.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/11/nation-world-news/pacific-islands-wait-for-trump-wary-of-climate-and-china-stance/>
+
+---
+
+## California wildfire fueled by high winds forces Malibu evacuations
+
+date: 2024-12-11, from: Hawaii Tribune Harold
+
+
+				<p>MALIBU, California &#8212; A wildfire fanned by strong winds was burning on Tuesday just northwest of Los Angeles forced some residents in Malibu to evacuate as it threatened homes, knocked out power and closed roads in the beach community.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/11/nation-world-news/california-wildfire-fueled-by-high-winds-forces-malibu-evacuations/>
+
+---
+
+## Arctic tundra, once a cooling force, stokes heat
+
+date: 2024-12-11, from: Hawaii Tribune Harold
+
+
+				<p>For thousands of years, the shrubs, sedges, mosses and lichens of the Arctic have performed a vital task for the planet: gulping down carbon dioxide from the air and storing the carbon in their tissues. When the plants die, this carbon is entombed in the frigid soil, where it no longer helps warm Earth&#8217;s surface.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/11/nation-world-news/arctic-tundra-once-a-cooling-force-stokes-heat/>
+
+---
+
+## Monarch butterflies are recommended for protected status
+
+date: 2024-12-11, from: Hawaii Tribune Harold
+
+
+				<p>Federal wildlife officials proposed Tuesday that monarch butterflies receive protection as a threatened species.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/11/nation-world-news/monarch-butterflies-are-recommended-for-protected-status/>
+
+---
+
+## Hawaiian Word of the Week: Pepa
+
+date: 2024-12-11, from: University of Hawaiʻi News
+
+<p>Pepa&#8212;Paper, card, playing cards.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/10/hawaiian-word-of-the-week-pepa/">Hawaiian Word of the Week: Pepa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/10/hawaiian-word-of-the-week-pepa/>
+
+---
+
+## Operation Christmas Drop 2024
+
+date: 2024-12-11, from: Pacific Island Times
+
+Airmen from Andersen Air Force prepare the boxes of humanitarian aid that will be dropped in Yap from  a C-130 on the third day of the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/operation-christmas-drop-2024>
+
+---
+
+## UH-mazing Recipes: Daisy Church’s The Berry Manilow
+
+date: 2024-12-11, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa's Daisy Church shares her &#8220;Berry Manilow.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/10/daisy-church-the-berry-manilow/"><abbr>UH</abbr>-mazing Recipes: Daisy Church’s The Berry Manilow</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/10/daisy-church-the-berry-manilow/>
+
+---
+
+## In memoriam: UH trailblazing cultural psychology leader
+
+date: 2024-12-11, from: University of Hawaiʻi News
+
+<p>Anthony (Tony) Joseph Marsella served as <abbr>UH</abbr> vice president for academic affairs and is known for groundbreaking work in cross-cultural psychology.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/10/in-memoriam-anthony-joseph-marsella/">In memoriam: <abbr>UH</abbr> trailblazing cultural psychology leader</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/10/in-memoriam-anthony-joseph-marsella/>
+
+---
+
+## UH Hilo biologist leads $2M invasive species research
+
+date: 2024-12-11, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo biologist Natalie Graham’s goal is to develop methods for early detection using <abbr>DNA</abbr> and predictive modeling.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/10/hilo-biologist-leads-2m-research/"><abbr>UH</abbr> Hilo biologist leads $2<abbr>M</abbr> invasive species research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/10/hilo-biologist-leads-2m-research/>
+
+---
+
+## UH Hilo computer science team wins big at programming contest
+
+date: 2024-12-11, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo hosted the Association for Computing Machinery’s Intercollegiate Programming Contest and took home the championship award.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/10/uh-hilo-computer-science-team-wins/"><abbr>UH</abbr> Hilo computer science team wins big at programming contest</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/10/uh-hilo-computer-science-team-wins/>
+
+---
+
+## Alexander, Lang earn All-Region VB honors
+
+date: 2024-12-11, from: University of Hawaiʻi News
+
+<p>Caylen Alexander led the <abbr>NCAA</abbr> Division I with 611 kills and 676.5 points, while Lang ranked sixth nationally with 1,314 assists.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/10/alexander-lang-earn-vb-honors/">Alexander, Lang earn All-Region <abbr>VB</abbr> honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/10/alexander-lang-earn-vb-honors/>
+
+---
+
+## Architecture students shine at annual Hawaiʻi Woodshow
+
+date: 2024-12-11, from: University of Hawaiʻi News
+
+<p>Architecture students earned awards at the annual <span aria-label="Hawaii">Hawai&#699;i</span> Woodshow, an event that highlights the beauty and sustainability of locally sourced woods.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/10/hawaii-woodshow-2024/">Architecture students shine at annual Hawaiʻi Woodshow</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/10/hawaii-woodshow-2024/>
+
+---
+
+## MDA conducts Guam's first missile defense test 
+
+date: 2024-12-10, from: Pacific Island Times
+
+ “I witnessed the first-ever testing and success of the missile defense dystem in Guam. It was indeed a moment of satisfaction to see all  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/mda-conducts-guam-s-first-missile-test>
+
+---
+
+## UH Mānoa brings world’s top nano scientists to Hawaiʻi
+
+date: 2024-12-10, from: University of Hawaiʻi News
+
+<p>The conference also provided invaluable opportunities for more than 20 <abbr>UH</abbr> students.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/10/ieee-nanomed-conference-honolulu/"><abbr>UH</abbr> Mānoa brings world’s top nano scientists to Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/10/ieee-nanomed-conference-honolulu/>
+
+---
+
+## Power of pilina important to commencement student speaker
+
+date: 2024-12-10, from: University of Hawaiʻi News
+
+<p>Transfer student closes gaps between <span aria-label="Kauai">Kaua&#699;i</span> <abbr>CC</abbr> and <abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span></p>
+The post <a href="https://www.hawaii.edu/news/2024/12/10/uh-west-oahu-student-speaker-travis-antonacci/">Power of pilina important to commencement student speaker</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/10/uh-west-oahu-student-speaker-travis-antonacci/>
+
+---
+
+## Businesswoman accused of bribing zoning officers
+
+date: 2024-12-10, updated: 2024-12-11, from: Marianas Variety
+
+XIAJUN Ning, a businesswoman, is accused of bribing zoning officers so she could continue with the construction of her building without proper zoning or building permits. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/businesswoman-accused-of-bribing-zoning-officers/article_af015c22-b6c9-11ef-822d-f36184171806.html>
+
+---
+
+## CNMI receives $1M grant through America the Beautiful Challenge
+
+date: 2024-12-10, updated: 2024-12-11, from: Marianas Variety
+
+THE Office of the Governor of the Commonwealth of the Northern Mariana Islands is honored to announce the receipt of a $1,000,000 grant through the America the Beautiful Challenge. This award was made possible by the National Fish and Wildlife Foundation in partnership with the U.S. Department of the Interior’s Fish and Wildlife Service, the U.S. Department of Agriculture, and the U.S. Department of Defense’s Readiness and Environmental Protection Integration Program, reflects a shared commitment to preserving and protecting our environment. The project is entitled, “Building Capacity for Inter-Island Resilience in the Commonwealth of the Northern Mariana Islands.” 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-receives-1m-grant-through-america-the-beautiful-challenge/article_55c92bd0-b6ba-11ef-b1f0-bf67c36eeea6.html>
+
+---
+
+## From an island to the world: Stephanie Diaz’s inspirational achievements
+
+date: 2024-12-10, updated: 2024-12-11, from: Marianas Variety
+
+TINIAN — Stephanie Diaz, a current senior at Tinian High School, has made remarkable achievements in the STEM field as a student. As a finalist in the prestigious National STEM Festival, Diaz has demonstrated exceptional dedication to scientific research. She is also an active participant in the Step-Up Program, mentored by Dr. Conrado Kiyoshi, a science teacher at Tinian High School. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/from-an-island-to-the-world-stephanie-diaz-s-inspirational-achievements/article_c267cb54-b6bd-11ef-ae05-17101b4bb448.html>
+
+---
+
+## Rota delegation OKs $155K for gaming commission
+
+date: 2024-12-10, updated: 2024-12-11, from: Marianas Variety
+
+THE Rota Legislative Delegation on Friday unanimously passed House Local Bill 23-61 appropriating $155,000 in casino license fee that the Rota Casino and Gaming Commission collected from the IH Group two months ago. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/rota-delegation-oks-155k-for-gaming-commission/article_51d8f8b4-b6b2-11ef-9685-cb9dc2600a31.html>
+
+---
+
+## HANMI occupancy down 37% in October
+
+date: 2024-12-10, updated: 2024-12-11, from: Marianas Variety
+
+(HANMI) — The Hotel Association of the Northern Mariana Islands reported 31.6% average occupancy rate among 11 member hotels for October 2024, a 37% decrease compared to a year ago in October 2024. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/hanmi-occupancy-down-37-in-october/article_32fa420c-b6c8-11ef-8157-23c96927c1cc.html>
+
+---
+
+## NMI Bar supports proposed amendments to attorney rules
+
+date: 2024-12-10, updated: 2024-12-11, from: Marianas Variety
+
+THE Northern Marianas Bar Association on Monday expressed support for the proposed amendments to the rules of attorney discipline and procedure that the CNMI Supreme Court submitted to the Legislature. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/nmi-bar-supports-proposed-amendments-to-attorney-rules/article_f5f0ba30-b6bd-11ef-a348-93a5a36f8c01.html>
+
+---
+
+## ‘Paskong Pinoy’ draws crowds
+
+date: 2024-12-10, updated: 2024-12-11, from: Marianas Variety
+
+ON Sunday, Dec. 8, 2024, the United Filipino Organizations hosted the “Paskong Pinoy” event at Marianas Business Plaza, attracting a large crowd. Major sponsors of the event included IT&amp;E CNMI, RNV Construction and its affiliates Homesmart Realty and Best Deal Merchandises, Hong Ye Construction, and Marianas Business Plaza. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/paskong-pinoy-draws-crowds/article_320549ee-b6bb-11ef-9023-b364d489af52.html>
+
+---
+
+## ‘Polar Bear’ challenge starts later this month
+
+date: 2024-12-10, updated: 2024-12-11, from: Marianas Variety
+
+500 Sails invites the community to participate in the Saipan Polar Bear swim challenge. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/polar-bear-challenge-starts-later-this-month/article_be1a6168-b6b5-11ef-9535-4face257db3e.html>
+
+---
+
+## Guam addresses teacher shortage
+
+date: 2024-12-10, updated: 2024-12-11, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — The shortage of teachers on Guam is not unique. At the national level, shortages persist across the United States, but here on the island, the pool of teachers is by far more limited. Guam Department of Education Deputy Superintendent of Curriculum and Instructional Improvement Joseph Sanchez shared with The Guam Daily Post several initiatives to come into compliance with the Adequate Education Act. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/guam-addresses-teacher-shortage/article_4635779a-b6f2-11ef-a4cd-f309de830c20.html>
+
+---
+
+## Former Palau president’s wife arrested on Saipan for Texas warrant
+
+date: 2024-12-10, updated: 2024-12-11, from: Marianas Variety
+
+CHRISTA Nafstad Toribiong, the American wife of former Palau President Johnson Toribiong, was arrested Monday afternoon at the Francisco C. Ada/Saipan International Airport on an active arrest warrant in Texas. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/former-palau-president-s-wife-arrested-on-saipan-for-texas-warrant/article_21999fc8-b6ad-11ef-842f-17c70d1d6c85.html>
 
 ---
 
@@ -121,7 +564,21 @@ date: 2024-12-10, from: Hawaii Tribune Harold
 
 ---
 
-## Wife of former Palau president arrested on Saipan
+## Hawaiian to take over Seattle-based routes, add airplanes and crews
+
+date: 2024-12-10, from: Hawaii Tribune Harold
+
+
+				<p>Alaska Air Group today plans to tell investors in New York that Hawaiian Airlines will take over West Coast routes from Alaska Airlines to Hawaii and fly new nonstop routes from Seattle to Japan and South Korea, and announce more Hawaiian Air planes, and flight and ground crews.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/10/hawaii-news/hawaiian-to-take-over-seattle-based-routes-add-airplanes-and-crews/>
+
+---
+
+## Former Palau president's wife arrested on Saipan
 
 date: 2024-12-10, from: Pacific Island Times
 

@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-12-10 07:05:25
+updated: 2024-12-11 07:05:35
 ---
 
 # craft
 
-(date: 2024-12-10 07:05:25)
+(date: 2024-12-11 07:05:35)
+
+---
+
+## Project Phoenix: IV
+
+date: 2024-12-10, from: A Luthier's blog
+
+<p>&nbsp;<span style="color: white;"><span style="background-color: black;">Time to get the neck joint sorted out and think about what happened to the old one!</span></span></p><p><span style="color: white;"></span></p><div class="separator" style="clear: both; text-align: center;"><span style="color: white;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/GSrWgXhb1mM" width="320" youtube-src-id="GSrWgXhb1mM"></iframe></span></div><span style="color: white;"><br /><span style="background-color: black;"><br /></span></span><p></p> 
+
+<br> 
+
+<https://guitar-maker.blogspot.com/2024/12/project-phoenix-iv.html>
 
 ---
 

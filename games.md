@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-12-10 07:05:23
+updated: 2024-12-11 07:05:33
 ---
 
 # games
 
-(date: 2024-12-10 07:05:23)
+(date: 2024-12-11 07:05:33)
+
+---
+
+## New Pokémon animation coming from Wallace &#038; Gromit, Chicken Run creators
+
+date: 2024-12-11, updated: 2024-12-11, from: Polygon Website
+
+Animation studio Aardman, the creators of Wallace &#38; Gromit, Chicken Run, and Shaun the Sheep, is bringing its stop-motion expertise to the world of Pokémon, The Pokémon Company International and Aardman announced Wednesday. Their collaboration will be released sometime in 2027. Details on Aardman’s take on the Pokémon franchise are scant, but the two companies [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/494299/pokemon-aardman-animated-project>
+
+---
+
+## Secret Level exposes a side of the Armored Core series we rarely see
+
+date: 2024-12-11, updated: 2024-12-10, from: Polygon Website
+
+In trailers for Prime Video’s Secret Level, we’re shown a glimpse of its Armored Core episode that evokes Michelangelo’s The Creation of Adam: With a massive, outstretched metal finger, a godlike mech gingerly reaches out to an injured human pilot, seemingly ready to rescue it from its broken machine. While watching those trailers, I rolled [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/494039/amazon-secret-level-armored-core-keanu-reeves>
+
+---
+
+## Where to find the ‘Cloud Atlas’ chest code in Indiana Jones and the Great Circle
+
+date: 2024-12-10, updated: 2024-12-10, from: Polygon Website
+
+“Cloud Atlas” is a mystery you’ll uncover in Indiana Jones and the Great Circle’s Gizeh as you explore. You’ll have to decode a note about weather observations and a list of cloud types to solve it. Our Indiana Jones and the Great Circle guide will show you how to find the “Cloud Atlas” chest code. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/indiana-jones-great-circle-guide/493656/cloud-atlas-chest-code-solution>
+
+---
+
+## Where to find the ‘Bright Future’ chest code in Indiana Jones and the Great Circle
+
+date: 2024-12-10, updated: 2024-12-10, from: Polygon Website
+
+There’s a nondescript chest you’ll find early in your exploration of Gizeh in Indiana Jones and the Great Circle. It’s about halfway between the Great Sphinx and the Tomb of Khentkawes I. Turns out, this chest is the conclusion to a mystery called “Bright Future” that you can begin elsewhere. Our Indiana Jones and the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/indiana-jones-great-circle-guide/494017/bright-future-chest-code-solution-location>
+
+---
+
+## How to file a Fortnite refund claim with the FTC
+
+date: 2024-12-10, updated: 2024-12-10, from: Polygon Website
+
+Thanks to a 2022 settlement with Fortnite creator Epic Games, the Federal Trade Commission is now distributing around $114 worth in refunds to hundreds of thousands of people who played the game. The federal agency starting paying out the money on Monday, but it’s not too late to file a claim if you think you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/494077/fortnite-refund-ftc-claim-how-to-file>
+
+---
+
+## What&#8217;ll it take to get board gamers into this 1920s tabletop role-playing game?
+
+date: 2024-12-10, updated: 2024-12-10, from: Polygon Website
+
+Among the swirling masses of Pax Unplugged, frantically running through the convention’s labyrinthine passages, I desperately search for Room 103. I am late to meet Michaël Croitoriu, the head of Edge Studios, to discuss the new Arkham Horror: The Roleplaying Game Starter Set— a Lovecraftian pulp-horror game that’s meant to bridge the gap between role-players [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/494100/arkham-horror-rpg-starter-set-interview>
+
+---
+
+## ‘Ancient Vows’ quest walkthrough in Path of Exile 2
+
+date: 2024-12-10, updated: 2024-12-10, from: Polygon Website
+
+“Ancient Vows” is a quest in Act 2 of Path of Exile 2 that tasks you with finding a mysterious relic, though you’re only given one vague direction: “Find a use for the Relic.” The “Ancient Vows” quest will send you on a hunt around the Vastiri Plains of Act 2 in search for the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/path-exile-2-guide/493482/ancient-vows-quest-walkthrough-poe-2>
+
+---
+
+## Tom King on his Black Canary series: ‘This is a fight that if Batman got in the ring, he’d get his ass kicked’
+
+date: 2024-12-10, updated: 2024-12-10, from: Polygon Website
+
+To comics writer Tom King, who’s taken the reins on Batman, Superman, and Wonder Woman, legacy is the one core theme the DC universe has that Marvel’s comics universe simply can’t compete with. “We can explore this idea that I think every human being has to deal with — how do they inherit the world [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/comics/493134/dc-black-canary-best-of-the-best-tom-king-interview>
+
+---
+
+## Everything announced at the 2024 Wholesome Snack showcase
+
+date: 2024-12-10, updated: 2024-12-10, from: Polygon Website
+
+What’s next in the world of cozy, wholesome games? During the Wholesome Games showcase ahead of The Game Awards, we got a look at an incredible lineup of upcoming indie games — one of which will be surprise-launched Tuesday. That game is Naiad, a breathtakingly beautiful game centered on nature and myth, which is out [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/490851/everything-announced-at-the-2024-wholesome-snack-showcase>
+
+---
+
+## How to get more clothes in Infinity Nikki
+
+date: 2024-12-10, updated: 2024-12-10, from: Polygon Website
+
+Clothes make the world go ‘round in Infinity Nikki. Nikki is a stylist, meaning that she’ll need a diverse closet of gear that you’ll be able to set her up in. Whether you’re looking for clothes to take on styling duels or you just want to set up Nikki in a variety of cute outfits, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/infinity-nikki-guides/490048/where-to-get-clothes-shops-free-unlock-sketches>
 
 ---
 

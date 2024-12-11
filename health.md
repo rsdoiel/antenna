@@ -1,11 +1,47 @@
 ---
 title: health
-updated: 2024-12-10 07:05:24
+updated: 2024-12-11 07:05:35
 ---
 
 # health
 
-(date: 2024-12-10 07:05:24)
+(date: 2024-12-11 07:05:35)
+
+---
+
+## Editorial: Applications of next generation sequencing (NGS) technologies to decipher the oral microbiome in systemic health and disease, volume II
+
+date: 2024-12-11, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1532762>
+
+---
+
+## Five new species, two new sexual morph reports, and one new geographical record of Apiospora (Amphisphaeriales, Sordariomycetes) isolated from bamboo in Yunnan, China
+
+date: 2024-12-11, from: Frontiers in Cellular and Infection Microbiology
+
+Apiospora is an important genus in the Apiosporaceae family with a worldwide distribution. They exhibit different lifestyles including pathogenic, saprophytic, and endophytic. In this study, we aimed to explore the Apiospora associated with bamboo and  collected 14 apiospora-like taxa from the forests of Yunnan Province, China. Morphological and phylogenetic analyses (combined ITS, LSU, tef1-α, and tub2 sequence data) confirmed that these collections belong to Apiospora s. str. and reports five new species (viz., Ap. dehongensis, Ap. jinghongensis, Ap. shangrilaensis, Ap. zhaotongensis, and Ap. zhenxiongensis). New sexual morphs of asexually typified Ap. globose and Ap. guangdongensis species, and a new geographical record of Ap. subglobosa are also reported. The findings of this study not only enhance the diversity of bambusicolous fungi in the region of Yunnan, but also geographical distribution of some known Apiospora species. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1476066>
+
+---
+
+## Functional role of the biofilm regulator CsgD in Salmonella enterica sv. Typhi
+
+date: 2024-12-11, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionTyphoid fever is an infectious disease primarily caused by Salmonella enterica sv. Typhi (S. Typhi), a bacterium that causes as many as 20 million infections and 600,000 deaths annually. Asymptomatic chronic carriers of S. Typhi play a major role in the transmission of typhoid fever, as they intermittently shed the bacteria and can unknowingly infect humans in close proximity. An estimated 90% of chronic carriers have gallstones; biofilm formation on gallstones is a primary factor in the establishment and maintenance of gallbladder carriage. CsgD is a central biofilm regulator in Salmonella, but the S. Typhi csgD gene has a mutation that introduces an early stop codon, resulting in a protein truncated by 8 amino acids at the C-terminus. In this study, we investigate the role of role of CsgD in S. Typhi. MethodsWe introduced a fully functional copy of the csgD gene from S. Typhimurium into S. Typhi under both a native and a constitutive promoter and tested for red, dry, and rough (Rdar) colony morphology, curli fimbriae, cellulose, and biofilm formation. Results and discussionWe demonstrate that although CsgD-regulated curli and cellulose production were partially restored, the introduction of the S. Typhimurium csgD did not induce the Rdar colony morphology. Interestingly, we show that CsgD does not have a significant role in S. Typhi biofilm formation, as biofilm-forming capacities depend more on the isolate than the CsgD regulator. This data suggests the presence of an alternative biofilm regulatory process in this human-restricted pathogen.  
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1478488>
 
 ---
 

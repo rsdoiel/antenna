@@ -1,11 +1,61 @@
 ---
 title: libraries
-updated: 2024-12-10 07:05:23
+updated: 2024-12-11 07:05:34
 ---
 
 # libraries
 
-(date: 2024-12-10 07:05:23)
+(date: 2024-12-11 07:05:34)
+
+---
+
+## Growth Without Burnout: Managing Polarities Consciously for Sustainable Success in Publishing
+
+date: 2024-12-11, from: Scholarly Kitchen
+
+<p>A relentless push for growth can lead to burnout among authors, editors, and reviewers, while also placing undue pressure on organizations to maintain high levels of output. How can we better provide the infrastructure and support systems needed to sustain that growth over the long term.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/12/11/growth-without-burnout-managing-polarities-consciously-for-sustainable-success-in-publishing/">Growth Without Burnout: Managing Polarities Consciously for Sustainable Success in Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/12/11/growth-without-burnout-managing-polarities-consciously-for-sustainable-success-in-publishing/>
+
+---
+
+## Poetry, by Thomas Gray
+
+date: 2024-12-10, from: Standard Ebooks, new releaases
+
+A collection of poems by Thomas Gray. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/thomas-gray/poetry>
+
+---
+
+## Oedipus Rex, by Sophocles
+
+date: 2024-12-10, from: Standard Ebooks, new releaases
+
+A king tries to save his citizens from a devastating plague. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/sophocles/oedipus-rex/francis-storr>
+
+---
+
+## Lady Chatterley’s Lover, by D. H. Lawrence
+
+date: 2024-12-10, from: Standard Ebooks, new releaases
+
+A woman in an unhappy marriage finds love with the local gameskeeper, while she contemplates her position in the society of early 20th century England. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/d-h-lawrence/lady-chatterleys-lover>
 
 ---
 

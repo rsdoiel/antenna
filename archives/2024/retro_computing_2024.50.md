@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-12-10 07:05:24
+updated: 2024-12-11 07:05:34
 ---
 
 # retro computing
 
-(date: 2024-12-10 07:05:24)
+(date: 2024-12-11 07:05:34)
+
+---
+
+## Gnome 47.2 Now Available
+
+date: 2024-12-10, from: Linux Magazine
+
+<p>Gnome 47.2 is now available for general use but don't expect much in the way of newness, as this is all about improvements and bug fixes.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Gnome-47.2-Now-Available>
 
 ---
 
