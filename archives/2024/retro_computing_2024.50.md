@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-12-11 07:05:34
+updated: 2024-12-12 07:05:26
 ---
 
 # retro computing
 
-(date: 2024-12-11 07:05:34)
+(date: 2024-12-12 07:05:26)
+
+---
+
+## RISC OS 'Advent' Calendar 2024 - Archive
+
+date: 2024-12-12, from: Icon Bar, RISC OS News
+
+Many thanks to Archive for sending this in (and a special xmas offer). It's not too late to send us yours.... 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2147.html>
 
 ---
 

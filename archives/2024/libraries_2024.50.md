@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2024-12-11 07:05:34
+updated: 2024-12-12 07:05:25
 ---
 
 # libraries
 
-(date: 2024-12-11 07:05:34)
+(date: 2024-12-12 07:05:25)
+
+---
+
+## Guest Post: The Perennial Question of Librarian Credentialing
+
+date: 2024-12-12, from: Scholarly Kitchen
+
+<p>A new survey looks at the philosophies and practices around librarian credentialing in the United States.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/12/12/guest-post-the-perennial-question-of-librarian-credentialing/">Guest Post: The Perennial Question of Librarian Credentialing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/12/12/guest-post-the-perennial-question-of-librarian-credentialing/>
 
 ---
 

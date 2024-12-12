@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2024-12-11 07:05:35
+updated: 2024-12-12 07:05:27
 ---
 
 # craft
 
-(date: 2024-12-11 07:05:35)
+(date: 2024-12-12 07:05:27)
+
+---
+
+## At Home With Maiwa — Comfort Everywhere
+
+date: 2024-12-11, updated: 2024-12-11, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2024/12/at-home-with-maiwa-comfort-everywhere.html>
+
+---
+
+## How We Make Our Soft Wax
+
+date: 2024-12-11, from: Lost Arg Press blog
+
+You may be familiar with &#8220;A Glue Story&#8221;, a video we posted months ago showing how we make our Piggly No Wiggly Glue. Well, Chris and I decided to create &#8220;A Wax Story&#8221; in the same vein, a video demonstrating how we make our soft wax. In case you&#8217;re curious about making your own wax,... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/11/how-we-make-our-soft-wax/>
 
 ---
 

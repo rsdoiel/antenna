@@ -1,11 +1,59 @@
 ---
 title: health
-updated: 2024-12-11 07:05:35
+updated: 2024-12-12 07:05:26
 ---
 
 # health
 
-(date: 2024-12-11 07:05:35)
+(date: 2024-12-12 07:05:26)
+
+---
+
+## Diagnosis value of targeted and metagenomic sequencing in respiratory tract infection
+
+date: 2024-12-12, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundTargeted next-generation sequencing (tNGS) has become a trending tool in the field of infection diagnosis, but concerns are also raising about its performance compared with metagenomic next-generation sequencing (mNGS). This study aims to explore the clinical feasibility of a tNGS panel for respiratory tract infection diagnosis and compare it with mNGS in the same cohort of inpatients.Methods180 bronchoalveolar lavage fluid samples were collected and sent to two centers for mNGS and tNGS blinded tests, respectively. The concordance between pathogen reports of both methods and the clinical significance among samples with/without known etiology was further evaluated.ResultsOverall, both methods displayed high agreement on pathogen reports, as the average percent agreement reached 95.29%. But tNGS presented a slightly higher detection rate per species than mNGS (PWilcoxon=1.212e-05; standard mean difference = 0.2887091), as detection rates for 32 out of 48 species were higher than those of mNGS. Due to limitations of panel coverage, tNGS identified 28 fewer species than mNGS, among which only 3 were considered clinically relevant. In reference to composite reference standard, accuracy, sensitivity, and specificity combining both tNGS and mNGS reached 95.61%, 96.71%, and 95.68%, respectively, while positive prediction value (PPV) was low at 48.13%, which was caused by low agreement regarding opportunistic pathogens. tNGS and mNGS improved the etiology identification in 30.6% (55/180) and 33.9% (61/180) cases, respectively.ConclusionCollectively, tNGS presented a similar overall performance in pathogen identification compared to mNGS, but outperformed in some pathogens. This study also demonstrated that deployment of tNGS significantly improves etiology identification in routine practice and provides hints for clinical decisions. The low agreement between clinical diagnosis and NGS reports towards opportunistic pathogens implies that adjudication is essential for report interpretation. Finally, We proposed tNGS as a diagnosis option in clinical practice due to its cost-efficiency. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1498512>
+
+---
+
+## A simple predictive model for puerperal infections: emphasizing risk factors and pathogen analysis
+
+date: 2024-12-12, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundPuerperal infection (PI) accounting for approximately 11% of maternal deaths globally is an important preventable cause of maternal morbidity and mortality. This study aims to analyze the high-risk factors and pathogenic bacteria of PI, design a nomogram to predict the risk of PI occurrence, and provide clinical guidance for prevention and treatment to improve maternal outcomes.MethodsA total of 525 pregnant women were included in the study. The mothers were randomly divided into a training cohort (n=367) and a test cohort (n=158). The performance of our model was assessed using the area under the receiver operating characteristic (ROC) curve, calibration curve, and decision curve analyses. All the women in the group of PI underwent blood culture tests, if the bacteria were detected, drug sensitivity tests were performed. The drug sensitivity spectrum was recorded and analyzed.ResultsUnivariate analysis showed that 12 indicators were significantly different (P < 0.05). Logistic regression analysis showed 6 factors, such as parity, number of vaginal examinations, amount of postpartum bleeding, antibiotics administered in one week before admission, induced labor, and indwelling catheter were significantly different between the PI group and control group (P < 0.05). The area under the ROC curve was 0.904 (95% CI: 0.871-0.936) in the training set and 0.890 (95% CI: 0.837-0.942) in the test set. The calibration curve of the nomogram showed good agreement between prediction and observation. The analysis of the clinical decision curve showed that the nomogram is of practical significance. There were 100 patients with positive blood cultures in the PI group, and Escherichia.coli was the main pathogenic bacteria, accounting for 89%. The sensitivity to Meropenem and Imipenem was 100%, to Piperacillin tazobactam 97.75%, to Ceftazidime 95.51%, and to Amoxicillin/Clavulanat (AMC) was 93.26%.ConclusionThe risk of PI will be significantly reduced by controlling the number of vaginal examinations less than 4 times, postpartum hemorrhage less than 414ml, and reducing the time of urethral catheter indwelling. If PI was clinically diagnosed or highly suspected, it was recommended to use antibiotics that were sensitive to Escherichia. coli, such as Piperacillin tazobactam, Ceftazidime, and AMC 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1464485>
+
+---
+
+## Deciphering the gut microbiota’s role in diverticular disease: insights from a Mendelian randomization study
+
+date: 2024-12-12, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundPrevious studies have indicated a potential association between gut microbiota and diverticular disease. However, the precise nature of this relationship remains unclear. In light of this, we decided to use a bidirectional two-sample Mendelian randomization (MR) study to investigate the causal relationship between gut microbiota and intestinal diverticular disease in greater depth.MethodsTo investigate the potential causal relationship between gut microbiota and intestinal diverticular disease, we conducted a two-sample MR study in a European ancestry. Genetic instrumental variables for gut microbiota were obtained from a genome-wide association study (GWAS) involving 5,959 participants. Summary statistics for intestinal diverticular disease were sourced from the IEU Open GWAS project, which included data from 5,193 cases and 457,740 controls. The analysis was primarily conducted using the inverse variance weighted method, with additional sensitivity analyses to assess the robustness of the findings.ResultsWith regard to the findings, 11 microbial taxa were identified as having a potential causal relationship with intestinal diverticular disease. Specifically, the microbial taxa Caryophanales, Paenibacillaceae, Herbinix, Turicibacter, Turicibacteraceae, and Staphylococcus fleurettii were found to be positively associated with the risk of developing intestinal diverticular disease, while Chromatiales, Arcobacter, Herbidospora, Ligilactobacillus ruminis, and Megamonas funiformis were found to be negatively associated with the risk. Further reverse MR analysis did not reveal a reverse causal effect between these microbial taxa and intestinal diverticular disease.ConclusionOur MR analyses revealed a potential causal relationship between certain gut microbiota and intestinal diverticular disease, which may provide new directions for future intestinal diverticular disease prevention and treatment strategies. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1460504>
+
+---
+
+## MMP-3 and TIMP-1 as prognostic biomarkers in VZV-induced retinal necrosis
+
+date: 2024-12-12, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveAcute retinal necrosis (ARN) caused by varicella-zoster virus (VZV) is associated with changes in specific proteins in the eye’s fluid, particularly matrix metalloproteinase-3 (MMP-3), an enzyme that breaks down tissue structures, and tissue inhibitor of metalloproteinase-1 (TIMP-1), which regulates MMP activity. This study aims to investigate how these proteins correlate with the progression of ARN.MethodsWe analyzed aqueous humor samples from 33 patients with ARN and 23 control patients with virus-negative uveitis. MMP-3 levels were measured using immunoturbidimetry, and TIMP-1 levels were determined using an enzyme-linked immunosorbent assay. We examined the relationships between these protein levels and clinical findings using statistical correlation methods.ResultsMMP-3, TIMP-1 were significantly higher in the aqueous humor of ARN patients compared to the controls (P<0.0001). Correlation analysis revealed a significant correlation between MMP-3 levels and TIMP-1 (r = 0.460, P = 0.007). The upregulation of MMP-3 and TIMP-1 was found to parallel VZV DNA load and IL-6 levels. Additionally, they exhibited negative correlation with best corrected visual acuity (BCVA) and positive correlation with the percentage of active retinal necrosis area.MMP-3 was markedly enhanced in all 14 cases of retinal detachment (RD), whereas TIMP-1 levels were significantly reduced in the same cohort of eyes. Patients with initial higher TIMP-1 levels have a significantly increased risk of developing RD, with a hazard ratio (HR) of 3.152 (95% CI, 1.082-9.18).ConclusionThe imbalance between MMP-3 and TIMP-1 may play a critical role in the development and severity of ARN. Measuring these proteins in the eye’s aqueous humor could be valuable for assessing disease progression and guiding treatment strategies, potentially improving outcomes for patients with virus-induced retinal diseases. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1502912>
 
 ---
 

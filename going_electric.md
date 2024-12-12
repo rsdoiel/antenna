@@ -1,11 +1,291 @@
 ---
 title: going electric
-updated: 2024-12-11 07:05:35
+updated: 2024-12-12 07:05:26
 ---
 
 # going electric
 
-(date: 2024-12-11 07:05:35)
+(date: 2024-12-12 07:05:26)
+
+---
+
+## Tesla Quietly Lobbied For Strict Emission Regulations As Musk Eyes Dismantling Others
+
+date: 2024-12-12, from: Inside EVs News
+
+Plus, the Cybertruck could be coming to China and Ferrari says it will always build its cars—even EVs—in Italy. 
+
+<br> 
+
+<https://insideevs.com/news/744114/tesla-uk-emissions-mandate-lobbied/>
+
+---
+
+## The strange logic behind NYC’s push to force license plates on electric bicycles
+
+date: 2024-12-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/08/new-york-bike-lane-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Get ready, New Yorkers. A new bill could soon extend the same car license plate and registration requirements to e-bikes in the largest city in the US. But despite ostensibly focusing on safety, some argue that the move is a misguided attempt to target marginalized communities.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,new-york" data-layer-viewtype="unknown" data-post-id="393346" href="https://electrek.co/2024/12/12/the-strange-logic-behind-nycs-push-to-force-license-plates-on-electric-bicycles/#more-393346" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/12/the-strange-logic-behind-nycs-push-to-force-license-plates-on-electric-bicycles/>
+
+---
+
+## Factorial announces major milestone with its all-solid-state EV batteries for Mercedes-Benz
+
+date: 2024-12-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Mercedes-Tesla-Model-Y-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Factorial is making swift progress on its <a href="https://electrek.co/guides/solid-state-batteries/">all-solid-state EV batteries</a>, which were introduced with Mercedes-Benz just a few months ago. Its first all-solid-state EV battery cells, promising to boost energy density by up to 80%, reached a significant milestone.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="factorial-energy,mercedes,mercedes-benz,solid-state-batteries" data-layer-viewtype="unknown" data-post-id="393119" href="https://electrek.co/2024/12/12/factorial-all-solid-state-ev-batteries-mercedes-hit-key-milestone/#more-393119" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/12/factorial-all-solid-state-ev-batteries-mercedes-hit-key-milestone/>
+
+---
+
+## The Toyota Urban Cruiser Returns To Europe As A Compact EV Crossover
+
+date: 2024-12-12, from: Inside EVs News
+
+Remember the Scion xD? This is its successor in Europe. 
+
+<br> 
+
+<https://insideevs.com/news/744182/toyota-urban-cruiser-ev-specs-battery-official/>
+
+---
+
+## This is what the solar + storage industry wants from Trump
+
+date: 2024-12-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/FirstSolar_Alabama.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>The Solar Energy Industries Association (SEIA) has unveiled a “Top 10” solar and storage priorities list for President-elect Trump and the 119th Congress – here’s what it wants.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,donald-trump,egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="393330" href="https://electrek.co/2024/12/11/solar-storage-industry-wants-from-trump/#more-393330" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/11/solar-storage-industry-wants-from-trump/>
+
+---
+
+## Tesla loses HW chief to Amazon and Cybertruck might go to China after all
+
+date: 2024-12-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/prime-time.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s prime time episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, Amazon is taking on Tesla with the launch of an online car shopping tool AND by snagging Elon’s longtime head of Autopilot hardware development. Tesla isn’t taking the news lying down, however – they’re eyeing new markets for Cybertruck expansion!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="amazon,hyundai,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="393347" href="https://electrek.co/2024/12/11/tesla-loses-hw-chief-to-amazon-and-cybertruck-might-go-to-china-after-all/#more-393347" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/11/tesla-loses-hw-chief-to-amazon-and-cybertruck-might-go-to-china-after-all/>
+
+---
+
+## Watch Toyota’s robot set a new world record sinking an 80-foot basketball shot like it’s nothing
+
+date: 2024-12-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Toyotas-robot-world-record-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota’s robot is really good at basketball. And it will only get better thanks to AI. After sinking an over 80-foot basketball shot, <a href="https://electrek.co/guides/toyota/">Toyota’s</a> hoop prodigy set a new Guinness World Record for the longest basketball shot by a humanoid robot. Check out the impressive shot in the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="robots,toyota" data-layer-viewtype="unknown" data-post-id="393314" href="https://electrek.co/2024/12/11/watch-toyotas-robot-sink-world-record-80-foot-basketball-shot/#more-393314" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/11/watch-toyotas-robot-sink-world-record-80-foot-basketball-shot/>
+
+---
+
+## Glencore + Cyclic Materials go large on copper recycling for EVs, clean energy
+
+date: 2024-12-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Cyclic-Materials-copper-recycling.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.cyclicmaterials.earth/" target="_blank" rel="noreferrer noopener">Cyclic Materials</a>, a cleantech company focused on metals recycling, has struck a multi-year deal with Swiss mining giant Glencore to supply recycled copper. </p>
+
+
+
+<p>The collaboration is a step forward in making copper production more sustainable and meeting the skyrocketing demand for materials essential to clean energy technologies.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-recycling,egeb,energy-brief,solar" data-layer-viewtype="unknown" data-post-id="393313" href="https://electrek.co/2024/12/11/glencore-cyclic-materials-copper-recycling-for-evs-and-clean-energy/#more-393313" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/11/glencore-cyclic-materials-copper-recycling-for-evs-and-clean-energy/>
+
+---
+
+## ‘EVs right now are the best deals in the market’ – Kelley Blue Book
+
+date: 2024-12-11, from: Electrek Feed
+
+New EV sales were strong in November, with early estimates pointing to the second-best month ever in the US, just... 
+
+<br> 
+
+<https://electrek.co/2024/12/11/evs-right-now-are-the-best-deals-in-the-market-kelley-blue-book/>
+
+---
+
+## Jeep Recon EV looks familiar in the latest spy photos and here’s a first look at the interior
+
+date: 2024-12-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Jeep-Recon-spy-photos.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Is that a <a href="https://electrek.co/guides/jeep/">Jeep </a>or the Ford Bronco? Jeep’s Wrangler-inspired electric SUV was spotted with a familiar look with its official debut just around the corner. Check out the latest spy photos of the Jeep Recon EV, including a first look at the interior below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-jeep,jeep" data-layer-viewtype="unknown" data-post-id="393283" href="https://electrek.co/2024/12/11/jeep-recon-ev-looks-familiar-new-spy-photos-surface/#more-393283" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/11/jeep-recon-ev-looks-familiar-new-spy-photos-surface/>
+
+---
+
+## Tesla Cybertruck receive homologations in China days after denying rumor of launch
+
+date: 2024-12-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Tesla-Cybertruck-lease-prices.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla Cybertruck received homologation of energy consumption in China days after the automaker denied a rumor of an imminent launch.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="393287" href="https://electrek.co/2024/12/11/tesla-cybertruck-receive-homologations-in-china-days-after-denying-rumor-of-launch/#more-393287" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/11/tesla-cybertruck-receive-homologations-in-china-days-after-denying-rumor-of-launch/>
+
+---
+
+## Why GM CEO Mary Barra Is Our 2024 Person Of The Year
+
+date: 2024-12-11, from: Inside EVs News
+
+It took lots of hard work, and un-learning old habits, to walk back GM’s disastrous electric 2023. Its CEO was up for the challenge.  
+
+<br> 
+
+<https://insideevs.com/news/743774/gm-mary-barra-award-breakthrough/>
+
+---
+
+## MOD Easy 3 e-bike hits new $2,159 low in Holiday sale, Segway EVs 60% off, Samsung Bespoke AI Combo saves $1,598, more
+
+date: 2024-12-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/MOD-Easy-3-e-bike-lifestyle-2.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>We’ve got three big Holiday sales for today’s Green Deals, with <a href="https://9to5toys.com/2024/12/10/mod-easy-3-e-bike-new-2159-low-holiday-sale/">MOD’s savings event</a> offering a 10% sitewide discount across its e-bikes, with the popular <a href="https://9to5toys.com/2024/12/10/mod-easy-3-e-bike-new-2159-low-holiday-sale/">Easy 3 e-bike</a> even hitting a new <a href="https://9to5toys.com/2024/12/10/mod-easy-3-e-bike-new-2159-low-holiday-sale/">$2,159</a> low. Cruising up right behind it is <a href="https://9to5toys.com/2024/12/11/segway-holiday-sale-zt3-pro-950-low/">Segway’s December savings</a> that is taking up to 60% off its EVs, spotlighting the new <a href="https://9to5toys.com/2024/12/11/segway-holiday-sale-zt3-pro-950-low/">ZT3 Pro</a> All-Terrain KickScooter that has returned to its <a href="https://9to5toys.com/2024/12/11/segway-holiday-sale-zt3-pro-950-low/">$950</a> low for the first time since its pre-order launch deal. Lastly, we have the <a href="https://9to5toys.com/2024/12/11/samsung-bespoke-ai-combo-1999/">2024 Discover Samsung sale</a> that has dropped its <a href="https://9to5toys.com/2024/12/11/samsung-bespoke-ai-combo-1999/">Bespoke AI Combo</a> All-in-One Electric Washer and Ventless Dryer to <a href="https://9to5toys.com/2024/12/11/samsung-bespoke-ai-combo-1999/">$1,999</a> with $273 in bonus savings. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2024/12/09/lectric-holiday-sale-781-off-bundles-from-999/">Lectric Holiday sale</a> deals, Anker’s <a href="https://9to5toys.com/2024/12/10/anker-powercore-reserve-return-80-low/">PowerCore Reserve</a> low, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="393269" href="https://electrek.co/2024/12/11/mod-holiday-sale-segway-samsung-more/#more-393269" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/11/mod-holiday-sale-segway-samsung-more/>
+
+---
+
+## Kia confirms the electric Tasman pickup we’ve been waiting for is coming soon
+
+date: 2024-12-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Kia-EV-pickup-side.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s official: The all-electric <a href="https://electrek.co/guides/kia/">Kia</a> pickup truck is on its way. Although we had a suspicion, Kia confirmed an EV version of its Tasman pickup is coming soon. Here’s what to expect.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-tasman" data-layer-viewtype="unknown" data-post-id="393251" href="https://electrek.co/2024/12/11/kia-confirms-highly-anticipated-ev-pickup-coming-soon/#more-393251" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/11/kia-confirms-highly-anticipated-ev-pickup-coming-soon/>
+
+---
+
+## These cities rank highest in the world for urban mobility
+
+date: 2024-12-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/pexels-photo-3584437.jpeg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Walkability, electrified transport, free public EV charging – cities earning the top spot in urban mobility include San Francisco and Paris.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="393242" href="https://electrek.co/2024/12/11/these-cities-rank-highest-in-the-world-for-urban-mobility/#more-393242" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/11/these-cities-rank-highest-in-the-world-for-urban-mobility/>
+
+---
+
+## Honda Prologue deals get even sweeter with 0% APR for the first time and up to $6,000 off
+
+date: 2024-12-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Honda-Prologue-lease-Civic.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Honda just made the Prologue even more attractive with massive deals to close out the year. For the first time, you can buy the <a href="https://electrek.co/guides/honda-prologue/">electric Prologue SUV</a> with 0% APR and up to $6,000 in savings.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda-prologue" data-layer-viewtype="unknown" data-post-id="393228" href="https://electrek.co/2024/12/11/honda-prologue-deals-get-even-better-0-apr-6000-off/#more-393228" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/11/honda-prologue-deals-get-even-better-0-apr-6000-off/>
+
+---
+
+## Tesla loses its head of Autopilot HW engineering to Amazon’s self-driving effort
+
+date: 2024-12-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Zoox-San-Francisco-Traffic.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla has lost its long-time head of Autopilot hardware engineering to Amazon’s self-driving company, Zoox.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,zoox" data-layer-viewtype="unknown" data-post-id="393224" href="https://electrek.co/2024/12/11/tesla-loses-its-head-of-autopilot-hw-engineering-to-amazons-self-driving-effort/#more-393224" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/11/tesla-loses-its-head-of-autopilot-hw-engineering-to-amazons-self-driving-effort/>
+
+---
+
+## Hyundai is now selling EVs on Amazon: Here’s how you can snag one
+
+date: 2024-12-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Hyundais-EV-plant-supplier.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>An electric vehicle from Amazon? That’s right. Starting today, you can buy <a href="https://electrek.co/guides/hyundai/">Hyundai’s</a> top-selling EVs, like the IONIQ 5, right on Amazon. Here’s how you can get your hands on one.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="amazon,hyundai" data-layer-viewtype="unknown" data-post-id="393213" href="https://electrek.co/2024/12/11/hyundai-selling-evs-on-amazon-how-to-snag-one/#more-393213" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/11/hyundai-selling-evs-on-amazon-how-to-snag-one/>
 
 ---
 
@@ -37,7 +317,7 @@ Originally known as the Lightship L1, the trailer has its own powertrain and bat
 
 date: 2024-12-11, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Electric-trailer-Lightship-open.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Electric RV specialist Lightship is officially entering the recreation vehicle segment with a renamed version of its all-electric travel trailer, formerly known as the L1. Today, the company unveiled the <a href="https://electrek.co/guides/lightship/">Lightship</a> AE.1—the production-ready version of its predecessor. It is now on sale as a limited “Cosmo Edition,” of which only a limited supply will be built and sold.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Electric-trailer-Lightship-open.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Electric RV specialist Lightship is officially entering the recreation vehicle segment with a renamed version of its all-electric travel trailer, formerly known as the L1. Today, the company unveiled the <a href="https://electrek.co/guides/lightship/">Lightship</a> AE.1—the production-ready version of its predecessor. It is now on sale as a limited “Cosmos Edition,” of which only a limited supply will be built and sold.</p>
 
 
 

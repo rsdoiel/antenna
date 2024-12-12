@@ -1,11 +1,291 @@
 ---
 title: socal north
-updated: 2024-12-11 07:05:32
+updated: 2024-12-12 07:05:23
 ---
 
 # socal north
 
-(date: 2024-12-11 07:05:32)
+(date: 2024-12-12 07:05:23)
+
+---
+
+## Best things to do this weekend in LA and SoCal: December 13 - 15
+
+date: 2024-12-12, updated: 2024-12-12, from: The LAist
+
+Kristin Chenoweth sings holiday favorites, San Juan Capistrano lights up, we’re hanging ten at the annual Venice Surf-a-Thon and more of the best things to do. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-this-weekend-in-los-angeles-and-southern-california-december-13-15>
+
+---
+
+## This is how Syrians in Southern California are celebrating the fall of the Assad regime
+
+date: 2024-12-12, updated: 2024-12-12, from: The LAist
+
+People say they’re hopeful and anxious for the future. 
+
+<br> 
+
+<https://laist.com/news/syrians-southern-california-celebrate-fall-of-assad-regime>
+
+---
+
+## Stormy weather on the way, bringing a tiny chance of rain to SoCal
+
+date: 2024-12-12, updated: 2024-12-12, from: The LAist
+
+Forecasters say a slight chance of rain on Saturday for parts of L.A. County. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/stormy-weather-on-the-way-bringing-a-tiny-chance-of-rain-to-socal>
+
+---
+
+## “Ni Otro Niño, ni Otro Hospital”, Dicen los Doctores Locales
+
+date: 2024-12-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=2000%2C1125&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Esta es la Parte 1 de una serie El Dr. Mohammed Abdel Fattah se mantuvo firme frente al Hospital del Buen Samaritano con un grupo de colegas, que piden “medidas [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/11/ni-otro-nino-ni-otro-hospital-dicen-los-doctores-locales/">&#8220;Ni Otro Niño, ni Otro Hospital&#8221;, Dicen los Doctores Locales</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/11/ni-otro-nino-ni-otro-hospital-dicen-los-doctores-locales/>
+
+---
+
+## La Biblioteca Pública de Van Nuys Destaca la Cultura Palestina con la “Semana de la Lectura de Palestina”
+
+date: 2024-12-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Palestine-Zine-Workshop_SN_07-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Palestine-Zine-Workshop_SN_07-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Palestine-Zine-Workshop_SN_07-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Palestine-Zine-Workshop_SN_07-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Palestine-Zine-Workshop_SN_07-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Palestine-Zine-Workshop_SN_07-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Palestine-Zine-Workshop_SN_07-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Palestine-Zine-Workshop_SN_07-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Palestine-Zine-Workshop_SN_07-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Palestine-Zine-Workshop_SN_07-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Palestine-Zine-Workshop_SN_07-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Palestine-Zine-Workshop_SN_07-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Palestine-Zine-Workshop_SN_07-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Palestine-Zine-Workshop_SN_07-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Palestine-Zine-Workshop_SN_07-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La semana pasada, la Biblioteca Pública de Los Ángeles (LAPL, por sus siglas en inglés) sucursal de Van Nuys celebró la “Semana de la Lectura de Palestina”, que coincidió con [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/11/la-biblioteca-publica-de-van-nuys-destaca-la-cultura-palestina-con-la-semana-de-la-lectura-de-palestina/">La Biblioteca Pública de Van Nuys Destaca la Cultura Palestina con la “Semana de la Lectura de Palestina”</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/11/la-biblioteca-publica-de-van-nuys-destaca-la-cultura-palestina-con-la-semana-de-la-lectura-de-palestina/>
+
+---
+
+## Horóscopo
+
+date: 2024-12-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>ARIES (21 de mar &#8211; 19 de abr) Los altibajos de la vida se comparten mejor con los verdaderos amigos que están ahí a través de todo. Sabes que estás [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/11/horoscopo-193/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/11/horoscopo-193/>
+
+---
+
+## EVENTOS Locales – Semana de 12 de Diciembre, 2024
+
+date: 2024-12-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Sábado, Diciembre 14 Caminata por la Naturaleza Presa Hansen Hansen Dam Ranger Station 10965 Dronfield Ave. Pacoima 8 a.m. – 10 a.m. Prepárese para explorar la belleza de la naturaleza, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/11/eventos-locales-semana-de-12-de-diciembre-2024/">EVENTOS Locales &#8211; Semana de 12 de Diciembre, 2024</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/11/eventos-locales-semana-de-12-de-diciembre-2024/>
+
+---
+
+## El noreste del Valle de San Fernando Enciende las Luces para la Temporada Navideña
+
+date: 2024-12-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="771" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241208_054704511-scaled.jpg?fit=771%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241208_054704511-scaled.jpg?w=1928&amp;ssl=1 1928w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241208_054704511-scaled.jpg?resize=226%2C300&amp;ssl=1 226w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241208_054704511-scaled.jpg?resize=771%2C1024&amp;ssl=1 771w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241208_054704511-scaled.jpg?resize=768%2C1020&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241208_054704511-scaled.jpg?resize=1157%2C1536&amp;ssl=1 1157w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241208_054704511-scaled.jpg?resize=1542%2C2048&amp;ssl=1 1542w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241208_054704511-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241208_054704511-scaled.jpg?resize=1200%2C1594&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241208_054704511-scaled.jpg?resize=1568%2C2083&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241208_054704511-scaled.jpg?resize=2000%2C2656&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241208_054704511-scaled.jpg?resize=400%2C531&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241208_054704511-scaled.jpg?resize=706%2C938&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241208_054704511-scaled.jpg?fit=771%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La Ciudad de San Fernando llevó a cabo su encendido anual del árbol navideño el sábado 9 de diciembre, que se llevó a cabo en el centro comercial coincidiendo con [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/11/el-noreste-del-valle-de-san-fernando-enciende-las-luces-para-la-temporada-navidena/">El noreste del Valle de San Fernando Enciende las Luces para la Temporada Navideña</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/11/el-noreste-del-valle-de-san-fernando-enciende-las-luces-para-la-temporada-navidena/>
+
+---
+
+## USPS y CHP Proporcionan Regalos Navideños para Jóvenes de Crianza Temporal
+
+date: 2024-12-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/DCFS-Gift-Drive-03.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/DCFS-Gift-Drive-03.jpg?w=1440&amp;ssl=1 1440w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/DCFS-Gift-Drive-03.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/DCFS-Gift-Drive-03.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/DCFS-Gift-Drive-03.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/DCFS-Gift-Drive-03.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/DCFS-Gift-Drive-03.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/DCFS-Gift-Drive-03.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/DCFS-Gift-Drive-03.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/DCFS-Gift-Drive-03.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/DCFS-Gift-Drive-03.jpg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/DCFS-Gift-Drive-03.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/DCFS-Gift-Drive-03.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/DCFS-Gift-Drive-03.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>En esta temporada navideña, los niños de acogida de todas las edades en todo el condado de Los Ángeles recibirán más de 2,000 regalos de los trabajadores del Servicio Postal [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/11/usps-y-chp-proporcionan-regalos-navidenos-para-jovenes-decrianza-temporal/">USPS y CHP Proporcionan Regalos Navideños para Jóvenes de Crianza Temporal</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/11/usps-y-chp-proporcionan-regalos-navidenos-para-jovenes-decrianza-temporal/>
+
+---
+
+## Los Activistas Instan al Presidente Biden a Limitar el Vertido de PFAS en los Suministros de Agua Potable
+
+date: 2024-12-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="575" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PFAS-Chemical-Hearing_elsol-scaled.jpg?fit=1024%2C575&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PFAS-Chemical-Hearing_elsol-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PFAS-Chemical-Hearing_elsol-scaled.jpg?resize=300%2C168&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PFAS-Chemical-Hearing_elsol-scaled.jpg?resize=1024%2C575&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PFAS-Chemical-Hearing_elsol-scaled.jpg?resize=768%2C431&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PFAS-Chemical-Hearing_elsol-scaled.jpg?resize=1536%2C863&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PFAS-Chemical-Hearing_elsol-scaled.jpg?resize=2048%2C1150&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PFAS-Chemical-Hearing_elsol-scaled.jpg?resize=1200%2C674&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PFAS-Chemical-Hearing_elsol-scaled.jpg?resize=1568%2C881&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PFAS-Chemical-Hearing_elsol-scaled.jpg?resize=2000%2C1123&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PFAS-Chemical-Hearing_elsol-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PFAS-Chemical-Hearing_elsol-scaled.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PFAS-Chemical-Hearing_elsol-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PFAS-Chemical-Hearing_elsol-scaled.jpg?fit=1024%2C575&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>En un esfuerzo de último minuto antes de que termine la administración de Joe Biden, el Grupo de Trabajo Ambiental (EWG, por sus siglas en inglés) realizó una sesión informativa [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/11/los-activistas-instan-al-presidente-biden-a-limitar-el-vertido-de-pfas-en-los-suministros-de-agua-potable/">Los Activistas Instan al Presidente Biden a Limitar el Vertido de PFAS en los Suministros de Agua Potable</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/11/los-activistas-instan-al-presidente-biden-a-limitar-el-vertido-de-pfas-en-los-suministros-de-agua-potable/>
+
+---
+
+## Los Miembros Recién Electos del Concejo Municipal de San Fernando Prestan Juramento Durante una Reunión Especial
+
+date: 2024-12-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="549" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12092024_SF-City-Council_SN_16-scaled-e1733982795924.jpeg?fit=1024%2C549&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12092024_SF-City-Council_SN_16-scaled-e1733982795924.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12092024_SF-City-Council_SN_16-scaled-e1733982795924.jpeg?resize=300%2C161&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12092024_SF-City-Council_SN_16-scaled-e1733982795924.jpeg?resize=1024%2C549&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12092024_SF-City-Council_SN_16-scaled-e1733982795924.jpeg?resize=768%2C412&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12092024_SF-City-Council_SN_16-scaled-e1733982795924.jpeg?resize=1536%2C824&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12092024_SF-City-Council_SN_16-scaled-e1733982795924.jpeg?resize=1200%2C644&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12092024_SF-City-Council_SN_16-scaled-e1733982795924.jpeg?resize=1568%2C841&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12092024_SF-City-Council_SN_16-scaled-e1733982795924.jpeg?resize=400%2C215&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12092024_SF-City-Council_SN_16-scaled-e1733982795924.jpeg?resize=706%2C379&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12092024_SF-City-Council_SN_16-scaled-e1733982795924.jpeg?fit=1024%2C549&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Una multitud de pie desbordó las cámaras del Concejo Municipal de San Fernando para la juramentación oficial de las concejalas Victoria García y Patty López, quienes fueron elegidas el 5 [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/11/los-miembros-recien-electos-del-concejo-municipal-de-san-fernando-prestan-juramento-durante-una-reunion-especial/">Los Miembros Recién Electos del Concejo Municipal de San Fernando Prestan Juramento Durante una Reunión Especial</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/11/los-miembros-recien-electos-del-concejo-municipal-de-san-fernando-prestan-juramento-durante-una-reunion-especial/>
+
+---
+
+## Padilla Condena el Plan de Deportación Masiva de Trump y Sus Impactos en las Familias y la Economía Estadounidenses
+
+date: 2024-12-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Padilla_elsol.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Padilla_elsol.jpg?w=1272&amp;ssl=1 1272w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Padilla_elsol.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Padilla_elsol.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Padilla_elsol.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Padilla_elsol.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Padilla_elsol.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Padilla_elsol.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Padilla_elsol.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El martes 10 de diciembre, el senador estadounidense Alex Padilla (D-Calif.), presidente del Subcomité Judicial del Senado sobre Inmigración, Ciudadanía y Seguridad Fronteriza, se unió a una audiencia titulada “Cómo [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/11/padilla-condena-el-plan-de-deportacion-masiva-de-trump-y-sus-impactos-en-las-familias-y-la-economia-estadounidenses/">Padilla Condena el Plan de Deportación Masiva de Trump y Sus Impactos en las Familias y la Economía Estadounidenses</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/11/padilla-condena-el-plan-de-deportacion-masiva-de-trump-y-sus-impactos-en-las-familias-y-la-economia-estadounidenses/>
+
+---
+
+## ‘Miracle in Mission’ Trae Juguetes y Alegría Navideña a Panorama City
+
+date: 2024-12-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="771" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241207_020402588.MP_-scaled.jpg?fit=771%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241207_020402588.MP_-scaled.jpg?w=1928&amp;ssl=1 1928w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241207_020402588.MP_-scaled.jpg?resize=226%2C300&amp;ssl=1 226w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241207_020402588.MP_-scaled.jpg?resize=771%2C1024&amp;ssl=1 771w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241207_020402588.MP_-scaled.jpg?resize=768%2C1020&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241207_020402588.MP_-scaled.jpg?resize=1157%2C1536&amp;ssl=1 1157w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241207_020402588.MP_-scaled.jpg?resize=1542%2C2048&amp;ssl=1 1542w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241207_020402588.MP_-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241207_020402588.MP_-scaled.jpg?resize=1200%2C1594&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241207_020402588.MP_-scaled.jpg?resize=1568%2C2083&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241207_020402588.MP_-scaled.jpg?resize=2000%2C2656&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241207_020402588.MP_-scaled.jpg?resize=400%2C531&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241207_020402588.MP_-scaled.jpg?resize=706%2C938&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241207_020402588.MP_-scaled.jpg?fit=771%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Para ayudar a las familias que no tienen el presupuesto para comprar regalos en esta temporada navideña, la División de Misiones del Departamento de Policía de Los Ángeles (LAPD) y [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/11/miracle-in-mission-trae-juguetes-y-alegria-navidena-a-panorama-city/">‘Miracle in Mission’ Trae Juguetes y Alegría Navideña a Panorama City</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/11/miracle-in-mission-trae-juguetes-y-alegria-navidena-a-panorama-city/>
+
+---
+
+## Nearly a quarter of city-funded shelter beds for unhoused people in LA went unused,  audit finds
+
+date: 2024-12-12, updated: 2024-12-12, from: The LAist
+
+Additionally, less than a fifth of people who did enter interim housing were able to secure permanent housing, which the audit said is “woefully inadequate.” 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-homelessness-spending-audit-beds>
+
+---
+
+## ‘Tis the season! Here’s how to harvest your own mistletoe, and help trees in the process
+
+date: 2024-12-11, updated: 2024-12-11, from: The LAist
+
+It may be a symbol of romance, but it's also a parasitic plant. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/harvest-your-own-mistletoe-help-trees>
+
+---
+
+## A guide to 2024 holiday markets on the Eastside
+
+date: 2024-12-11, updated: 2024-12-11, from: The LAist
+
+From monthly community mercados to local pop-ups, we’ve got some ideas on how to shop local. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/2024-holiday-markets-eastside-la>
+
+---
+
+## In apparent reversal, LA County probation chief says he isn’t stepping down
+
+date: 2024-12-11, updated: 2024-12-11, from: The LAist
+
+The news comes as Los Padrinos Juvenile Hall faces a deadline to close. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/la-county-probation-chief-says-he-isnt-stepping-down>
+
+---
+
+## Newly elected LA City Council member Adrin Nazarian shares his priorities
+
+date: 2024-12-11, updated: 2024-12-11, from: The LAist
+
+Nazarian told LAist about what he's looking to address in his first term at City Hall. 
+
+<br> 
+
+<https://laist.com/news/politics/la-city-councils-newest-member-adrin-nazarian-shares-his-priorities>
+
+---
+
+## 'Unprecedented' number of hate crimes reported in LA County, report says
+
+date: 2024-12-11, updated: 2024-12-12, from: The LAist
+
+The Los Angeles County Commission on Human Relations called the numbers reflected in the latest report "unprecedented." 
+
+<br> 
+
+<https://laist.com/news/hate-crime-report-la-county>
+
+---
+
+## Most reports ordered by California’s Legislature this year are shown as missing
+
+date: 2024-12-11, updated: 2024-12-11, from: The LAist
+
+California agencies assigned to prepare reports to the Legislature on how new laws are working often fail to submit them properly, or at all. 
+
+<br> 
+
+<https://laist.com/news/california-legislature-reports-missing>
+
+---
+
+## Monarch butterflies will get federal protections as a threatened species
+
+date: 2024-12-11, updated: 2024-12-11, from: The LAist
+
+U.S. officials decided to extend protections to monarch butterflies after warnings from environmentalists that populations are shrinking and the beloved pollinator may not survive climate change. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/monarch-butterflies-will-get-federal-protections-as-a-threatened-species>
 
 ---
 
@@ -165,11 +445,11 @@ A red flag warning for the Inland Empire, Orange county last until Wednesday mor
 
 ---
 
-## Franklin Fire in Malibu forces thousands to evacuate, 7 structures destroyed
+## Franklin Fire in Malibu grows to more than 4,000 acres, 15 structures damaged or destroyed
 
-date: 2024-12-10, updated: 2024-12-11, from: The LAist
+date: 2024-12-10, updated: 2024-12-12, from: The LAist
 
-The Franklin Fire in Malibu Canyon spread to nearly 4,000 acres by Wednesday morning. At one point, Pepperdine students were required to shelter in place. 
+The Franklin Fire in Malibu Canyon grew by nearly 40% overnight Wednesday, but the red flag conditions have passed. 
 
 <br> 
 

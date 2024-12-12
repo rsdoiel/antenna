@@ -1,19 +1,487 @@
 ---
 title: science and technology
-updated: 2024-12-11 07:05:32
+updated: 2024-12-12 07:05:24
 ---
 
 # science and technology
 
-(date: 2024-12-11 07:05:32)
+(date: 2024-12-12 07:05:24)
+
+---
+
+## QEMU with VirtIO GPU Vulkan support
+
+date: 2024-12-12, from: OS News
+
+With its latest reales qemu added the Venus patches so that virtio-gpu now support venus encapsulation for vulkan. This is one more piece to the puzzle towards full Vulkan support. An outdated blog post on&#160;clollabora&#160;described in 2021 how to enable 3D acceleration of Vulkan applications in QEMU through the Venus experimental Vulkan driver for VirtIO-GPU with a local development environment. Following up on the outdated write up, this is how its done today. ↫ Pepper Gray A major milestone, and for the adventurous, you can get it working today. Give it a few more months, and many of the versions required will be part of your ditribution&#8217;s package repositories, making the process a bit easier. On a related note, Linux kernel developers are considering removing 32-bit x86 KVM host support for all architectures that support it &#8211; PowerPC, MIPS, RISC-V, and x86-64 &#8211; because nobody is using this functionality. This support was dropped from 32bit ARM a few years ago, and the remaining architectures mentioned abovw have orders of magnitude fewer users still. If nobody is using this functionality, it really makes no sense to keep it around, and as such, the calls to remove it. In other words, if your custom workflow of opening your garage door through your fridge light&#8217;s flicker frequency and the alignment of the planets and custom scripts on a Raspberry Pi 2 requires this support, let the kernel developers know, or forever hold your peace. 
+
+<br> 
+
+<https://www.osnews.com/story/141324/qemu-with-virtio-gpu-vulkan-support/>
+
+---
+
+## Turning off Zen 4’s op cache for curiosity and giggles
+
+date: 2024-12-12, from: OS News
+
+CPUs start executing instructions by fetching those instruction bytes from memory and decoding them into internal operations (micro-ops). Getting data from memory and operating on it consumes power and incurs latency. Micro-op caching is a popular technique to improve on both fronts, and involves caching micro-ops that correspond to frequently executed instructions. AMD&#8217;s recent CPUs have particularly large micro-op caches, or op caches for short. Zen 4&#8217;s op cache can hold 6.75K micro-ops, and has the highest capacity of any op cache across the past few generations of CPUs. This huge op cache enjoys high hitrates, and gives the feeling AMD is leaning harder on micro-op caching than Intel or Arm. That begs the question of how the core would handle if its big, beautiful op cache stepped out for lunch. ↫ Chester Lam at Chips and Cheese The results of turning off the op cache were far less dramatic than one would expect, and this mostly comes down to the processor having to wait on other bottlenecks anyway, like the memory, and a lot of tasks consisting of multiple types of operations which not all make use of op cache. While it definitely contributes to making Zen 4 cores faster overall, even without it, it&#8217;s still an amazing core that outperforms its Intel competition. As a sidenote, this is such a fun and weird thing to do and benchmark. It doesn&#8217;t serve much of a purpose, and the information gained isn&#8217;t very practical, but turning off specific parts of a processor and observing the consequences does create some insight into exactly how a modern processor works. There are so many different elements that make up a modern processor now, and just gigahertz or even the number of cores barely tells even half the story. Anyway, we need more of these weird benchmarks. 
+
+<br> 
+
+<https://www.osnews.com/story/141322/turning-off-zen-4s-op-cache-for-curiosity-and-giggles/>
+
+---
+
+## A twenty-five year old curl bug
+
+date: 2024-12-12, from: OS News
+
+When we announced the security flaw&#160;CVE-2024-11053&#160;on December 11, 2024 together with the release of&#160;curl 8.11.1&#160;we fixed a security bug that was introduced in a curl release&#160;9039&#160;days ago. That is close to twenty-five years. The previous record holder was&#160;CVE-2022-35252&#160;at 8729 days. ↫ Daniel Stenberg Ir&#8217;s really quite fascinating to see details like this about such a widepsread and widely used tool like curl. The bug in question was a logic error, which made Stenberg detail how any modern language like Rust, instead of C, would not have prevented this issue. Still, about 40% of all security issues in curl stem from not using a memory-safe language, or about 50% of all high/critical severity ones. I understand that jumping on every bandwagon and rewriting everything in a memory-safe language is a lot harder than it sounds, but I also feel like it&#8217;s getting harder and harder to keep justifying using old languages like C. I really don&#8217;t know why people get so incredibly upset at the cold, hard data about this. Anyway, the issue that sparked this post is fixed in curl 8.11.1. 
+
+<br> 
+
+<https://www.osnews.com/story/141320/a-twenty-five-year-old-curl-bug/>
+
+---
+
+## Apache issues patches for critical Struts 2 RCE bug
+
+date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
+
+<h4>More details released after devs allowed weeks to apply fixes</h4> <p>We now know the remote code execution vulnerability in Apache Struts 2 disclosed back in November carries a near-maximum severity rating following the publication of the CVE.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/12/apache_struts_2_vuln/>
+
+---
+
+## Lights out for 18 more DDoS booters in pre-Christmas Operation PowerOFF push
+
+date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
+
+<h4>Holiday cheer comes in the form of three arrests and 27 shuttered domains</h4> <p>The Europol-coordinated Operation PowerOFF struck again this week as cross-border cops pulled the plug on 27 more domains tied to distributed denial of service (DDoS) criminality.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/12/operation_poweroff_ddos_takedowns/>
+
+---
+
+## British Army zaps drones out of the sky with laser trucks
+
+date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
+
+<h4>High-energy weapon proves its mettle in testing</h4> <p>The British Army has successfully destroyed flying drones for the first time using a high-energy laser mounted on an armored vehicle. If perfected, the technology could form an effective counter-measure against drone attacks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/12/british_army_drone_laser/>
+
+---
+
+## Meet the Mysterious and Brooding Norwegian Painter Responsible for 'The Scream'
+
+date: 2024-12-12, from: Smithsonian Magazine
+
+Born on this day in 1863, Edvard Munch lived a life marked by mental health struggles and sought to brush themes of anxiety and dread into his art 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/meet-the-mysterious-and-brooding-norwegian-painter-responsible-for-the-scream-180985572/>
+
+---
+
+## Firefox ditches Do Not Track because nobody was listening anyway
+
+date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
+
+<h4>Few websites actually respect the option, says Mozilla</h4> <p>When Firefox 135 is released in February, it&#39;ll ship with one less feature: Mozilla plans to remove the Do Not Track toggle from its Privacy and Security settings. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/12/firefox_do_not_track/>
+
+---
+
+## Aliens, spy balloons, or drones? SUV-sized mystery objects spotted in US skies
+
+date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
+
+<h4>No word from the FBI about where they are hiding aliens or UFOs</h4> <p>Unidentified flying objects said to be the size of sports utility vehicles have been spotted flying over parts of the northeastern US, prompting investigations by law enforcement and the FBI as elected officials urge the public not to panic.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/12/mystery_objects_us/>
+
+---
+
+## Australia lays fiendish tax trap for Meta – with an expensive escape hatch
+
+date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
+
+<h4>If Zuck and other Big Tech players pay news publishers, their bills vanish</h4> <p>Australia has created a tax that only big tech companies must pay – but which they can also legally avoid by paying money to Aussie news publishers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/12/australia_news_bargaining_incentive/>
+
+---
+
+## Citrix goes shopping in Europe and returns with gifts for security-conscious customers
+
+date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
+
+<h4>Acquires two companies that help those on the nice list keep naughty list types at bay</h4> <p>Citrix has gone on a European shopping trip, and come home with its bag of gifts bulging thanks to a pair of major buys: infosec outfits deviceTRUST and Strong Network.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/12/citrix_acquires_devicetrust_strong_network/>
+
+---
+
+## China preps another rocket that Beijing hopes will become its workhorse
+
+date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
+
+<h4>Long March-8A improves payload by forty percent and comes just a month after Long March 12 debut</h4> <p>China is readying an upgraded and more capable rocket for its first launch, to advance its ambition of creating large constellations of satellites.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/12/china_rocket_long_march_8a_broadband/>
+
+---
+
+## Epic coughs up the dirty V-Bucks: Fortnite's 'dark pattern' refunds hit accounts
+
+date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
+
+<h4>Did you get your loot box?</h4> <p>Consumers tricked into making unwanted purchases in Epic Games&#39; popular Fortnite title should see refunds start to hit their accounts this week, according to the US Federal Trade Commission (FTC).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/12/bilked_by_epic_games_check/>
+
+---
+
+## Apple reportedly building AI server processor with help from Broadcom
+
+date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
+
+<h4>Something called &#39;Baltra&#39; expected to make its debut in 2026, perhaps with tech both already use</h4> <p>Apple is reportedly working with chip giant Broadcom to develop a custom server processor to power the AI services and features built into its operating systems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/12/apple_ai_chip_broadcom/>
+
+---
+
+## Blocking Chinese spies from intercepting calls? There ought to be a law
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4>Sen. Wyden blasts FCC&#39;s &#39;failure&#39; amid Salt Typhoon hacks</h4> <p>US telecoms carriers would be required to implement minimum cyber security standards and ensure their systems are not susceptible to hacks by nation-state attackers – like Salt Typhoon – under legislation proposed by senator Ron Wyden (D-OR).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/telecom_cybersecurity_standards/>
+
+---
+
+## Sols 4389-4390: A Wealth of Ripples, Nodules and Veins
+
+date: 2024-12-11, from: NASA breaking news
+
+Earth planning date: Monday, Dec. 9, 2024 We are continuing to edge our way around the large “Texoli” butte. Much of the bedrock we have been traversing recently looks pretty similar — paler-colored laminated bedrock — but today’s workspace had some interesting features, as did the “drive direction” image, which focuses on the future drive […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4389-4390-a-wealth-of-ripples-nodules-and-veins/>
+
+---
+
+## HP-RT: HP’s real-time operating system from the ’90s
+
+date: 2024-12-11, from: OS News
+
+Every now and then I load OpenPA and browse around. Its creator and maintainer, Paul Weissmann, has been very active lately updating the site with new articles, even more information, and tons of other things, and it&#8217;s usually a joy to stumble upon something I haven&#8217;t read yet, or just didn&#8217;t know anything about. This time it&#8217;s something called HP-RT, a real-time operating system developed and sold by HP for a number of its PA-RISC workstations back in the &#8217;90s. HP-RT is derived from the real-time operating system LynxOS and was built as real-time operating system from scratch with native POSIX API and Unix features like protected address spaces, multiprocessing, and standard GUI. Real-time scheduling is part of the kernel with response times under 200 µs, later improved to sub-100 µs for uses such as hospital system tied to a heart monitor, or a missile tracking system. For programming, HP-RT supported dynamic shared libraries, ANSI C, Softbench (5.2), FORTRAN, ADA, C++ and PA-RISC assembly. From HP-RT 3.0, GUI-based debugging environment (DDErt) and Event Logging library (ELOG) were included. POSIX 1003.1, 1003.1b and POSIX 1003.4a draft 4 were supported. On the software side, HP-RT supported fast file system, X and Motif clients, X11 SERVERrt, STREAMSrt (SVR 3.2), NFS, and others. ↫ Paul Weissmann at OpenPA I had no idea HP-RT existed, and looking at the feature list, it seems like it was actually a pretty impressive operating system and wider ecosystem back in the &#8217;90s when it was current. HP released several versions of its real-time operating system, with 1997&#8217;s 3.0 and 3.01 being the final version. Support for it ended in the early 2000s alongside the end of the line for PA-RISC. I&#8217;d absolutely love to try it out today, but sadly, my PA-RISC workstation &#8211; an HP Visualise c3750 &#8211; is way too &#8220;new&#8221; to be supported by HP-RT, and in the wrong product category at that. HP-RT required both a regular HP 9000 700 HP-UX workstation, as well as one of HP&#8217;s VME machines with a single-module module with the specific &#8220;rt&#8221; affix in the model number. On top of that you obviously needed the actual HP-RT operating system, which was part of the HP-RT Development Environment. The process entails using the HP-UX machine to compile HP-RT, which was then downloaded to the VMe machine. The odds of not only finding all the right parts to complete the setup, but also to get it all working with what is undoubtedly going to be spotty documentation and next to nobody to talk to about how to do it, are very, very slim. I&#8217;m open to suggestions, of course, but considering the probable crazy rarity of the specific hardware, the price-gauging going on in the retrocomputing world, the difficulty of shipping to the Swedish Arctic, and the knwoledge required, I don&#8217;t think I&#8217;ll be the one to get this to work and show it off. But man do I want to. 
+
+<br> 
+
+<https://www.osnews.com/story/141316/hp-rt-hps-real-time-operating-system-from-the-90s/>
+
+---
+
+## Monarch Butterflies Might Soon Be Listed as Threatened Under the Endangered Species Act
+
+date: 2024-12-11, from: Smithsonian Magazine
+
+If a new proposal is adopted, the insects would become the most commonly seen species to be the subject of federal protection under this law 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/monarch-butterflies-might-soon-be-listed-as-threatened-under-the-endangered-species-act-180985650/>
+
+---
+
+## Acuerdos de Artemis alcanzan 50 signatarios con la firma de Panamá y Austria
+
+date: 2024-12-11, from: NASA breaking news
+
+Read this release in English&#160;here. Panamá y Austria firmaron el miércoles los Acuerdos de Artemis en ceremonias que tuvieron lugar en la sede de la NASA en Washington, convirtiéndose así en los países número 49 y 50 en comprometerse a explorar el espacio de forma responsable para toda la humanidad. “La NASA da la bienvenida [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/acuerdos-de-artemis-alcanzan-50-signatarios-con-la-firma-de-panama-y-austria/>
+
+---
+
+## Ames Engineers Recognized as Technology Rising Stars at Women of Color STEM Conference
+
+date: 2024-12-11, from: NASA breaking news
+
+In October 2024, Michelle Dominguez and Dorcas Kaweesa from the Ames Aeromechanics Office were each awarded as a “Technology Rising Star” at the Women of Color STEM Conference in Detroit, Michigan.  Rising Star awards are for “young women, with 21 years or less in the workforce, who are helping to shape technology for the future.”  [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/ames-engineers-recognized-as-technology-rising-stars-at-women-of-color-stem-conference/>
+
+---
+
+## Artemis in Motion Listening Sessions
+
+date: 2024-12-11, from: NASA breaking news
+
+Through Artemis in Motion Sessions, NASA Seeks Moon Storytelling Ideas As NASA pioneers new technologies and methods for storytelling in space for the benefit of humanity, the agency is hosting Artemis in Motion listening sessions with industry on Thursday, Jan. 23, and Friday, Jan. 24, in Los Angeles. From the live TV images of humanity’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/organizations/otps/artemis-in-motion-listening-sessions/>
+
+---
+
+## Artemis Accords Reach 50 Signatories as NASA Welcomes Panama, Austria
+
+date: 2024-12-11, from: NASA breaking news
+
+Lee esta nota de prensa en español aquí. Panama and Austria signed the Artemis Accords Wednesday during separate signing ceremonies at NASA Headquarters in Washington, becoming the 49th and 50th nations to commit to the responsible exploration of space for all humanity. “NASA welcomes Panama and Austria to the Artemis Accords community and celebrates 50 countries [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/artemis-accords-reach-50-signatories-as-nasa-welcomes-panama-austria/>
+
+---
+
+## Intel turmoil prompts S&amp;P Global to downgrade chipmaker's credit rating
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4>Finance house finds x86 giant&#39;s lack of strategy disturbing</h4> <p>Intel&#39;s troubles continue to compound after S&amp;P Global on Tuesday downgraded its credit rating, citing concerns about the chipmaker&#39;s pace of recovery and management uncertainty.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/intel_sp_downgrade/>
+
+---
+
+## Belgium Has Been Found Guilty of 'Crimes Against Humanity' for Kidnapping Thousands of Children in Congo
+
+date: 2024-12-11, from: Smithsonian Magazine
+
+A Brussels court has ordered Belgium to pay damages to five women, now in their 70s and 80s, who were abducted from their parents when they were young children 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/belgium-has-been-found-guilty-of-crimes-against-humanity-for-kidnapping-thousands-of-children-in-congo-180985639/>
+
+---
+
+## Facebook, Threads, WhatsApp, Instagram stumble on and offline in global outage
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4>What&#39;s an influencer to do?</h4> <p><strong>Updated</strong>  Meta&#39;s techies are likely having a bad day as the internet titan&#39;s Facebook, WhatsApp, Threads, and Instagram are suffering some degree of downtime globally.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/wednesday_meta_outage/>
+
+---
+
+## NASA Astronaut Shares Breathtaking Photos From the ISS, Featuring Galaxies and Glowing 'Star Trails'
+
+date: 2024-12-11, from: Smithsonian Magazine
+
+On his fourth flight, Don Pettit is once again sharing the art of astrophotography, capturing and posting pictures of Earth, satellites and space 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/nasa-astronaut-shares-breathtaking-photos-from-the-iss-featuring-galaxies-and-glowing-star-trails-180985637/>
+
+---
+
+## Artemis II Core Stage Goes Vertical
+
+date: 2024-12-11, from: NASA breaking news
+
+NASA’s SLS (Space Launch System) Moon rocket core stage is vertical in High Bay 2 on Tuesday, Dec. 10, 2024, inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida. The core stage arrived on July 23 to NASA Kennedy, where it remained horizontal inside the facility’s transfer aisle. With the move to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/artemis-ii-core-stage-goes-vertical/>
+
+---
+
+## Atmospheric Probe Shows Promise in Test Flight
+
+date: 2024-12-11, from: NASA breaking news
+
+The most effective way to prove a new idea is to start small, test, learn, and test again. A team of researchers developing an atmospheric probe at NASA’s Armstrong Flight Research Center in Edwards, California, are taking that approach. The concept could offer future scientists a potentially better and more economical way to collect data [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/atmospheric-probe-shows-promise-in-test-flight/>
+
+---
+
+## Krispy Kreme Doughnut Corporation admits to hole in security
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4>Belly-busting biz says it&#39;s been hit by cowardly custards</h4> <p>Doughnut slinger Krispy Kreme has admitted to an attack that has left many customers unable to order online.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/krispy_kreme_cybercrime/>
+
+---
+
+## Stunning Artworks Seized From the Mafia Go On Display at a New Exhibition in Milan
+
+date: 2024-12-11, from: Smithsonian Magazine
+
+"Save Arts: From Confiscations to Public Collections" features more than 80 works recovered by Italian authorities, including pieces by Andy Warhol and Salvador Dalí 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/stunning-artworks-seized-from-the-mafia-go-on-display-at-a-new-exhibition-in-milan-180985609/>
+
+---
+
+## China gorging on silicon before Uncle Sam slams the door
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4>Chip imports up more than 14% this year in anticipation of fresh restrictions</h4> <p>China&#39;s semiconductor imports were up more than 14 percent in 2024 as companies in the country stockpiled ahead of widely expected fresh restrictions from Washington and pressure grows to develop local alternatives instead.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/china_stockpiling_chips/>
+
+---
+
+## A Paleontologist Cracked Open a Rock and Discovered a Prehistoric Amphibian With a Clever Survival Strategy
+
+date: 2024-12-11, from: Smithsonian Magazine
+
+Named "Ninumbeehan dookoodukah" by Eastern Shoshone students and elders, the creature burrowed in riverbeds to stay moist during extreme droughts 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-paleontologist-cracked-open-a-rock-and-discovered-a-prehistoric-amphibian-with-a-clever-survival-strategy-180985625/>
+
+---
+
+## NASA-DOD Study: Saltwater to Widely Taint Coastal Groundwater by 2100
+
+date: 2024-12-11, from: NASA breaking news
+
+Intrusion of saltwater into coastal groundwater can make water there unusable, damage ecosystems, and corrode infrastructure. Seawater will infiltrate underground freshwater supplies in about three of every four coastal areas around the world by the year 2100, according to a recent study led by researchers at NASA’s Jet Propulsion Laboratory in Southern California. In addition [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/space-shuttle/srtm/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/>
+
+---
+
+## NASA Study: Crops, Forests Responding to Changing Rainfall Patterns
+
+date: 2024-12-11, from: NASA breaking news
+
+Earth’s rainy days are changing: They’re becoming less frequent, but more intense. Vegetation is responding. 
+
+<br> 
+
+<https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/>
+
+---
+
+## Good news! You'll soon be able to send faxes again with Windows 11 24H2
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4>Microsoft squashes eSCL bug</h4> <p>There is good news for Microsoft customers seeking to attach a scanner or fax machine to their Windows 11 hardware. Support for eSCL has been fixed, and a compatibility hold will be lifted.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/microsoft_windows_11_escl_fix/>
+
+---
+
+## Science Photo Album Showcases Space Station Research in 2024
+
+date: 2024-12-11, from: NASA breaking news
+
+That’s a wrap! Astronauts aboard the International Space Station conducted hundreds of science experiments and technology demonstrations during 2024. Crew members participated in research across a variety of scientific disciplines and accomplished milestones demonstrating benefits for future missions and humanity back on Earth. Their work included snapping thousands of images of Earth to understand our [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/science-photo-album-showcases-space-station-research-in-2024/>
+
+---
+
+## These Delicate Needles Made From Animal Bones May Have Helped Prehistoric Humans Sew Warm Winter Clothing
+
+date: 2024-12-11, from: Smithsonian Magazine
+
+Researchers have discovered 32 needle fragments made from the bones of smaller animals. The tiny tools may have been used to sew insulated garments during the last ice age 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/these-delicate-needles-made-from-animal-bones-may-have-helped-prehistoric-humans-sew-warm-winter-clothing-180985601/>
+
+---
+
+## Mathematicians Uncover a New Way to Count Prime Numbers
+
+date: 2024-12-11, from: Quanta Magazine
+
+To make progress on one of number theory’s most elementary questions, two mathematicians turned to an unlikely source.            <p>The post <a href="https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/" target="_blank">Mathematicians Uncover a New Way to Count Prime Numbers</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/>
+
+---
+
+## Google Gemini 2.0 Flash comes out with real-time conversation, image analysis
+
+date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+
+<h4>Chocolate Factory&#39;s latest multimodal model aims to power more trusted AI agents</h4> <p>Google on Wednesday released Gemini 2.0 Flash, the latest addition to its AI model lineup, in the hope that developers will create agentic applications in AI Studio and Vertex AI.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/11/google_gemini_20_flash_shines/>
 
 ---
 
 ## Microsoft hijacks keyboard shortcut to bring Copilot to your attention
 
-date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+date: 2024-12-11, updated: 2024-12-12, from: The Register (UK I.T. News)
 
-<h4>AI assistant goes native – sort of – for Windows Insiders</h4> <p>Copilot has gone native for Windows Insiders and comandeered a popular keyboard shortcut in the process.…</p> 
+<h4>AI assistant goes native – sort of – for Windows Insiders</h4> <p>Copilot has gone native for Windows Insiders and commandeered a popular keyboard shortcut in the process.…</p> 
 
 <br> 
 

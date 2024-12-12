@@ -1,11 +1,151 @@
 ---
 title: food
-updated: 2024-12-11 07:05:35
+updated: 2024-12-12 07:05:27
 ---
 
 # food
 
-(date: 2024-12-11 07:05:35)
+(date: 2024-12-12 07:05:27)
+
+---
+
+## The Sprudge Guide To Holiday Coffee Blends For 2024
+
+date: 2024-12-12, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. A 2024 holiday blend'em compendium.  
+
+<br> 
+
+<https://sprudge.com/the-sprudge-guide-to-holiday-coffee-blends-for-2024-261150.html>
+
+---
+
+## Finca Deborah’s Jamison Savage Is Opening A Coffee Shop In Florida
+
+date: 2024-12-12, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Savage Coffees is scheduled to open in downtown St. Petersburg early next year. 
+
+<br> 
+
+<https://sprudge.com/finca-deborahs-jamison-savage-is-opening-a-coffee-shop-in-florida-262308.html>
+
+---
+
+## Coconut Toffee Crunch Cookies
+
+date: 2024-12-12, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2024/12/Coconut-Toffee-Crunch-Cookies-1200-1777.jpg"/></div>
+<p>Cookies with toffee bits and coconut along with crunchy corn flakes! These cookies are made with a pretty basic chocolate chip cookie style recipe for the dough with the addition of toffee bits, shredded coconut and corn flakes. The toffee and coconut flavour combo is amazing and the corn flakes add a nice crunchy texture...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/coconut-toffee-crunch-cookies/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/coconut-toffee-crunch-cookies/">Coconut Toffee Crunch Cookies</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/coconut-toffee-crunch-cookies/>
+
+---
+
+## The FDA Might Ban ‘Sell By’ Dates on Food Labels
+
+date: 2024-12-12, from: Taste of Home
+
+<p>Food labels lack regulation, but the government might soon require them to be less confusing.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/fda-sell-by-dates-on-food-labels/">The FDA Might Ban &#8216;Sell By&#8217; Dates on Food Labels</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/fda-sell-by-dates-on-food-labels/>
+
+---
+
+## Picadillo
+
+date: 2024-12-11, from: Bon Appetet
+
+Studded with poblanos and Yukon Gold potatoes, this Mexican-style picadillo is good enough to eat straight from the pan. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/mexican-picadillo>
+
+---
+
+## Ina Garten Never Brings Wine or Flowers As a Hostess Gift—Here’s Why
+
+date: 2024-12-11, from: Taste of Home
+
+<p>The Barefoot Contessa explains how to be a thoughtful guest at any gathering.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ina-garten-hostess-gifts/">Ina Garten Never Brings Wine or Flowers As a Hostess Gift—Here&#8217;s Why</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ina-garten-hostess-gifts/>
+
+---
+
+## Bouillon Paste Is for a Lot More Than Broth and Soup
+
+date: 2024-12-11, from: Bon Appetet
+
+Here’s how to put it toward extra-flavorful baked tofu, a 10-minute broccoli stir-fry, and a cheesy chickpea skillet. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/better-than-bouillon-recipes>
+
+---
+
+## The 14 Best Italian Gifts (2024)
+
+date: 2024-12-11, from: Bon Appetet
+
+Give them a taste of la dolce vita with aged balsamics, fresh pasta on demand, and olive-inspired cocktail napkins. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-italian-gifts>
+
+---
+
+## Autumn Coffee’s Second Shop Falls Close to Home in Gresham, Oregon
+
+date: 2024-12-11, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Autumn Coffee Roasting" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As its namesake season reached its colorful and gusty peak in October, Gresham, Oregon-based Autumn Coffee Roasting opened its second coffee shop. The roasting company opened its first brick-and-mortar cafe... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/11/autumn-coffees-second-shop-falls-close-to-home-in-gresham-oregon/>
+
+---
+
+## Dutch Trader Sucden Coffee Surrenders $670K+ After ICE Allegations
+
+date: 2024-12-11, from: Daily Coffee News
+
+<div><img width="620" height="391" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices-620x391.png" class="attachment-large size-large wp-post-image" alt="Coffee prices" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices-620x391.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices-300x189.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices-150x95.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices-768x484.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Dutch green coffee trader Sucden Coffee agreed to a settlement with the Intercontinental Exchange (ICE) following a notice that it &#8220;may have&#8221; violated a rule designed to prevent coffee market... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/11/dutch-trader-sucden-coffee-surrenders-670k-after-ice-allegations/>
+
+---
+
+## One-Pot Buffalo Chicken Pasta
+
+date: 2024-12-11, from: Bon Appetet
+
+Buffalo chicken dip, but make it dinner. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/one-pot-buffalo-chicken-pasta>
 
 ---
 
@@ -25,11 +165,23 @@ date: 2024-12-11, from: The Sprudge
 
 date: 2024-12-11, from: Bon Appetet
 
-On this episode of Dinner SOS, Chris, Kendra and Jesse talk about all things holidays. 
+On this episode of Dinner SOS, Chris, Kendra, and Jesse talk all things holiday. 
 
 <br> 
 
 <https://www.bonappetit.com/story/i-need-festive-holiday-recipes>
+
+---
+
+## Major FAO Report Reveals ‘Hidden Costs’ of Coffee Production
+
+date: 2024-12-11, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee production" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As coffee prices currently sit at historically high levels on the commodities markets, driven by supply concerns and growing demand, the economic benefits for green coffee producers might seem universally... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/11/major-fao-report-reveals-hidden-costs-of-coffee-production/>
 
 ---
 
@@ -86,6 +238,18 @@ date: 2024-12-11, from: Isebel Eats
 <br> 
 
 <https://www.isabeleats.com/bunuelos-de-viento/>
+
+---
+
+## Snow Globe Cocktail
+
+date: 2024-12-11, from: Taste of Home
+
+Impress your guests at your next holiday party with this easy to make snow globe cocktail. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/snow-globe-cocktail/>
 
 ---
 
@@ -169,7 +333,7 @@ All the best stemware, wine keys, and other thoughtful accessories for the buddi
 
 date: 2024-12-10, from: Daily Coffee News
 
-<div><img width="620" height="427" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause-620x427.jpg" class="attachment-large size-large wp-post-image" alt="Stephanie Welter-Krause" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause-620x427.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause-300x206.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause-150x103.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause-768x528.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Stephanie Welter-Krause was first inspired to roast coffee while thumbing through the home roasting section in the influential 2012 book, The Blue Bottle Craft of Coffee, written by James Freeman,... 
+<div><img width="620" height="427" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause-620x427.jpg" class="attachment-large size-large wp-post-image" alt="Stephanie Welter-Krause" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause-620x427.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause-300x206.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause-150x103.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause-768x528.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Stephanie-Welter-Krause.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Stephanie Welter-Krause was first inspired to roast coffee while thumbing through the home roasting section in the influential 2012 book, The Blue Bottle Craft of Coffee, written by James Freeman,... 
 
 <br> 
 
@@ -181,7 +345,7 @@ date: 2024-12-10, from: Daily Coffee News
 
 date: 2024-12-10, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige-620x465.jpg" class="attachment-large size-large wp-post-image" alt="4_LIGRE_youn_siji_silver-beige" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new high-end home espresso machine and companion grinder from the German boutique brand Ligre are attempting to cut through the visual clutter of classic countertop equipment. The striking designs... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige-620x465.jpg" class="attachment-large size-large wp-post-image" alt="4_LIGRE_youn_siji_silver-beige" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/4_LIGRE_youn_siji_silver-beige.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new high-end home espresso machine and companion grinder from the German boutique brand Ligre are attempting to cut through the visual clutter of classic countertop equipment. The striking designs... 
 
 <br> 
 
@@ -205,7 +369,7 @@ date: 2024-12-10, from: The Sprudge
 
 date: 2024-12-10, from: Daily Coffee News
 
-<div><img width="620" height="409" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1-620x409.jpg" class="attachment-large size-large wp-post-image" alt="cups of coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1-620x409.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1-300x198.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1-768x506.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>New research shows that moderate coffee consumption may reduce risk of having two or more cardio or metabolic diseases at the same time. The study, published in the Endocrine Society’s... 
+<div><img width="620" height="409" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1-620x409.jpg" class="attachment-large size-large wp-post-image" alt="cups of coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1-620x409.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1-300x198.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1-768x506.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/cups-of-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>New research shows that moderate coffee consumption may reduce risk of having two or more cardio or metabolic diseases at the same time. The study, published in the Endocrine Society’s... 
 
 <br> 
 

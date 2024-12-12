@@ -1,11 +1,254 @@
 ---
 title: journalism
-updated: 2024-12-11 07:05:34
+updated: 2024-12-12 07:05:25
 ---
 
 # journalism
 
-(date: 2024-12-11 07:05:34)
+(date: 2024-12-12 07:05:25)
+
+---
+
+## Former Chief John Thomas departs UC Police Department
+
+date: 2024-12-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Police Department confirmed Wednesday that its former police chief has left the department.
+In a statement released on X, UCPD said Tuesday was former Chief John Thomas’ last day leading the department. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/11/former-chief-john-thomas-departs-uc-police-department/>
+
+---
+
+## USG senate incorporates assembly for undocumented students
+
+date: 2024-12-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The programming assembly is working towards the creation of an Undocumented Trojan Resource Center.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/11/usg-senate-incorporates-assembly-for-undocumented-students/">USG senate incorporates assembly for undocumented students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/11/usg-senate-incorporates-assembly-for-undocumented-students/>
+
+---
+
+## The media becomes an activist for democracy
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+It&#8217;s time for American journalism to rewrite its own job description. The model used to go like this: Bad things happen. Journalists reveal them. Voters demand change. Politicians respond by reforming institutions. We call this accountability journalism, and it&#8217;s the foundation of the fourth estate. Of course, these linkages were always stronger in theory than... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-media-becomes-an-activist-for-democracy/>
+
+---
+
+## Embracing influencers as allies
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+A friend recently shared a social media post about a political scandal rocking Jackson, Mississippi. The post caught my attention because it drew on reporting work done by The Marshall Project&#8217;s local journalists there. But it generated more engagement than any of our own stories — or those from other area news organizations — had... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/embracing-influencers-as-allies/>
+
+---
+
+## Action over analysis
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+They say that defining the problem is the key to finding the solution. Much work for many years has gone into articulating the many problems confronting journalism and the media. These problems include: A lack of trust in news media to be unbiased and to help people live informed and fulfilling lives. The increase in... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/action-over-analysis/>
+
+---
+
+## The New York Times will hire a pro-Trump columnist
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+In January 1973, two months after Richard Nixon&#8217;s resounding election victory, the New York Times announced that it was adding a new columnist to its opinion pages: William Safire, a speechwriter for Nixon and his vice president, Spiro Agnew. Safire would go directly from bashing news outlets like the Times on behalf of a dishonest,... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-new-york-times-will-hire-a-pro-trump-columnist/>
+
+---
+
+## Watch your language
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+As we enter the new year, journalists need to reassert vigilance about the words we use and whether our choices play down the severity of conditions other humans face. Too often, the humanity of our sources gets diminished in the rush to report. One area that most concerns me is how the Trump administration plans... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/watch-your-language/>
+
+---
+
+## News websites hit an evolutionary dead end
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+The news website is dying. It&#8217;s about time, too: Websites are terrible at distributing news. When the internet was fresh and new, it made a lot of sense for media houses to experiment with this new technology. My former employer, the Mail &#038; Guardian, is rightly proud that it was the first-ever African news organization... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/news-websites-hit-an-evolutionary-dead-end/>
+
+---
+
+## Taking lessons from independent bookstores
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+The next time you find yourself leisurely browsing the shelves at your local independent bookstore, ask yourself how that store is still in business. Haven&#8217;t those little indie stores faced massive existential threats — multiple times? And yet they persist. Take a good look around, because that little store might just hold some answers about... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/taking-lessons-from-independent-bookstores/>
+
+---
+
+## No more baby steps in fixing crime coverage
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+We know the beats before we hear them. The crime stories that permeate our phones, laptops, TVs, and radios repeat the same narratives so many time. Every day of our lives, we can expect to see images of police tape outstretched, red and blue lights flashing, sirens blaring, officers inspecting a crime scene. We can... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/no-more-baby-steps-in-fixing-crime-coverage/>
+
+---
+
+## Science journalism becomes plain old journalism
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+There are pivotal, life-altering moments when access to trusted information and expert analysis is critical. Cast your mind back to 2020, when news of a deadly coronavirus was all-consuming, and we needed to know: Am I safe? Are my loved ones safe? Why did this happen? How long will this last? Almost overnight, it seemed... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/science-journalism-becomes-plain-old-journalism/>
+
+---
+
+## Accommodating journalists is in — or you’re out
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+I&#8217;ve spent a lot of time over the past year surrounded by cancer patients. Also, being one. I was at the beginning of my journalism career when a cancer diagnosis knocked me off center. I&#8217;m in my early 20s, and none of my ailments are immediately obvious, which is why I&#8217;ve been adamant online and... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/accommodating-journalists-is-in-or-youre-out/>
+
+---
+
+## AI turns news into a conversation
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+In 2025, we won&#8217;t just read the news — we&#8217;ll talk to it, and it will talk back. News will transform from something we passively consume to something we actively experience through voice-first AI that turns text into conversation and readers into participants. I&#8217;m talking about unleashing the most powerful form of human communication —... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/ai-turns-news-into-a-conversation/>
+
+---
+
+## Covering Trump 2.0, now with less Trump
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+In the spring of 2017, during the first 100 days of Donald Trump 1.0, I taught a class called Media and Policy Processes. We focused on the media&#8217;s role not only in covering policymaking, but also actively participating: helping government actors signal their positions and preferences to other policymakers, shifting and reflecting public opinion that... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/covering-trump-2-0-now-with-less-trump/>
+
+---
+
+## The rebirth of local news
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+The narrative around the news business has felt static for years. We&#8217;re caught in the grips of an ongoing &#8220;mediapocalypse,&#8221; characterized by buyouts, layoffs, and shuttered newsrooms. No one can deny that the environment is challenging. But the emphasis of the story too often obscures a trend that should be the source of real optimism:... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-rebirth-of-local-news/>
+
+---
+
+## To hell with algorithms
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+During economic downturns, people seek small comforts to offset broader hardships — what Estée Lauder chairman Leonard Lauder dubbed the &#8220;Lipstick Effect&#8221; 25 years ago. In 2025, I predict we&#8217;ll see a similar pattern in news consumption: an embrace of human-curated content as comfort food for our algorithm-weary minds. This comfort-seeking behavior parallels trends in... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/to-hell-with-algorithms/>
+
+---
+
+## Adjusting to a tech-heavy but code-light world
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+In 2025 — and beyond — we will discover, once again, that the transformative new shiny gizmos we put to work in newsrooms are just the beginning of a long, continuous journey to improving journalism and society. In the past couple of years, newsrooms have been flooded with offers for new state-of-the-art software solutions that... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/adjusting-to-a-tech-heavy-but-code-light-world/>
+
+---
+
+## Journalism as a social service
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+It&#8217;s Thanksgiving Day, 2022. Nearly everyone in the U.S. is commemorating the holiday. Most are gathering with friends and family, some for the first time since the start of the COVID pandemic, combatting a rising epidemic of loneliness and alienation plaguing every community in the country. When they turn on NPR&#8217;s morning news roundup, they&#8217;re... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/journalism-as-a-social-service/>
+
+---
+
+## A renewed appetite for print
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+In August, I canceled my weekend delivery of a print newspaper. By November, I&#8217;d resubscribed, longing for something I missed most during the pandemic: serendipity. This past Saturday, while leafing through The New York Times, I learned that Kim Deal, former bassist of the Pixies, lives in Dayton, Ohio. I stumbled upon an article about... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/a-renewed-appetite-for-print/>
+
+---
+
+## Bluesky is just the beginning
+
+date: 2024-12-11, from: Nieman Journalism Lab
+
+The decision by the European Federation of Journalists, the largest such organization in Europe, to stop posting on Twitter as of January 20, 2025, signals a broader media shift towards social media and news sharing alternatives. &#8220;The EFJ considers that it can no longer ethically participate in a social network that its owner has transformed... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/bluesky-is-just-the-beginning/>
 
 ---
 

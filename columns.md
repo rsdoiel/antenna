@@ -1,11 +1,366 @@
 ---
 title: columns
-updated: 2024-12-11 07:05:33
+updated: 2024-12-12 07:05:24
 ---
 
 # columns
 
-(date: 2024-12-11 07:05:33)
+(date: 2024-12-12 07:05:24)
+
+---
+
+## A twenty-five years old curl bug
+
+date: 2024-12-12, from: Daniel Stenberg Blog
+
+I have talked about old curl bugs before, but now we have a new curl record. When we announced the security flaw CVE-2024-11053 on December 11, 2024 together with the release of curl 8.11.1 we fixed a security bug that was introduced in a curl release 9039 days ago. That is close to twenty-five years. &#8230; <a href="https://daniel.haxx.se/blog/2024/12/12/a-twenty-five-years-old-curl-bug/" class="more-link">Continue reading <span class="screen-reader-text">A twenty-five years old curl bug</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2024/12/12/a-twenty-five-years-old-curl-bug/>
+
+---
+
+## America’s four stories (Part 1)
+
+date: 2024-12-12, from: Robert Reich's blog
+
+Trump has offered extreme versions. The Democrats stopped offering them at all. 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-four-stories-of-america>
+
+---
+
+## RAMA M6-C DUALSHOT™
+
+date: 2024-12-12, from: mrusme blog
+
+The RAMA M6-C _Dualshot_ edition. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/rama-m6-c-dualshot/>
+
+---
+
+## December 11, 2024 
+
+date: 2024-12-12, from: Heather Cox Richardson blog
+
+Yesterday, President Joe Biden spoke at the Brookings Institution, where he gave a major speech on the American economy. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-11-2024>
+
+---
+
+## Gist of Go: Pipelines
+
+date: 2024-12-12, from: Anton Zhiyanov blog
+
+Compose concurrent pipelines from independent blocks. 
+
+<br> 
+
+<https://antonz.org/go-concurrency/pipelines/>
+
+---
+
+## Dammit, I caught covid again
+
+date: 2024-12-12, from: Matt Haughey blog
+
+<p>I avoided covid for quite a while, but in August of 2023 my luck caught up with me and I think it was going to three sold out movies in theaters in the same week while a friend was visiting and also I decided not to wear a mask at</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/dammit-i-caught-covid-again/>
+
+---
+
+## ★ The Information Suggests, in an Aside, That Apple Scrapped Work on a Quad-Max/Double-Ultra M-Series Chip
+
+date: 2024-12-12, updated: 2024-12-12, from: Daring Fireball
+
+Reporting from The Information suggests that an M-series tier above Ultra might remain years away. 
+
+<br> 
+
+<https://daringfireball.net/2024/12/information_aside_double_ultra_scrapped>
+
+---
+
+## Spamalanche
+
+date: 2024-12-12, from: Matt Haughey blog
+
+<p>Today, someone tried to pull a scam on me, and it had some notable approaches I haven&apos;t seen or heard about before so I figure I&apos;ll write it up in case someone else someday is searching for a strange bunch of behaviors that hit their credit</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/spamalanche-2/>
+
+---
+
+## ‘Letterman TV’ Launching on Samsung TV Plus
+
+date: 2024-12-12, updated: 2024-12-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.hollywoodreporter.com/business/business-news/david-letterman-fast-channel-samsung-tv-plus-1236082779/>
+
+---
+
+##  I just updated the 2024 Kottke Holiday Gift Guide, including some gifts... 
+
+date: 2024-12-11, updated: 2024-12-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045837-i-just-updated-the-2024>
+
+---
+
+## Strong winds
+
+date: 2024-12-11, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/strong-winds-a83>
+
+---
+
+## Strong winds
+
+date: 2024-12-11, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/strong-winds>
+
+---
+
+##  Now Serving: Drinkable Mayonnaise 
+
+date: 2024-12-11, updated: 2024-12-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/now-serving-drinkable-mayonnaise>
+
+---
+
+## Obeying in Advance: The Christopher Wray Story.
+
+date: 2024-12-11, from: James Fallows, Substack
+
+Eight years ago, then-FBI director James Comey tipped the election to Donald Trump. Today, his successor ensured that he will also be remembered for the destructive end of his tenure. 
+
+<br> 
+
+<https://fallows.substack.com/p/obeying-in-advance-the-christopher>
+
+---
+
+##  Holiday Terms & Conditions (A Christmas Album). Lyrics include: &#8220;It&#8217;s beginning to... 
+
+date: 2024-12-11, updated: 2024-12-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045833-holiday-terms-conditions->
+
+---
+
+##  Bryan Cranston Reads From Robert Caro&#8217;s The Power Broker 
+
+date: 2024-12-11, updated: 2024-12-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/bryan-cranston-reads-from-robert-caros-the-power-broker>
+
+---
+
+## Answers for a tester
+
+date: 2024-12-11, from: Dave Winer's Scripting News
+
+<p>A valued tester of <a href="https://this.how/wordland/">WordLand</a> asked a series of questions, which I answered in some detail, and felt it was a good idea to post the answers here on my blog.</p>
+<ul>
+<li>Any kind of feedback you want to give is totally welcome. I'd prefer it be in the <a href="https://github.com/scripting/wordlandSupport/issues">GitHub issues section</a> so it might inspire other people to contribute. </li>
+<li>Re image insertion, I'm not sure it could be simpler. The goal is to get an image into the user's document. If it succeeded at doing that then I'm happy with the design. ;-)</li>
+<li>The target audience is writers who use WordPress. The idea is to put all the features writers need in one place, rather than scattered around the WP interface. And to use modern UI techniques you'd see in social web apps. </li>
+<li>I've tried to answer the questions you raised in the only way I can. For example I need to use a term for the arrows that move you through the stories you've written. They aren't all posts, but they are all drafts. I can explain that in the docs, but I seriously doubt if anyone would read them. There is a distinction and it's important to make that distinction. I also don't think it's crucial to get that one "right" -- not that I think there is a right answer to that one other than removing the feature, which I like having there because it emphasizes that we're working with a set of documents that you can edit.</li>
+<li>In all cases, you could raise any issue you have, I will think about what you say, but accept my response, and trust that I've incorporated your experience as data that might inspire a change in the design at some point. </li>
+<li>But do understand that a lot of thought has already gone into this, and a quick review by a new user is no substitute for a product design.</li>
+<li>I know the docs are non-existent. I am limited in the time I have and the commitments I've made. The truth is that even dedicated users won't read them. I know that by the questions they ask. But I will write the docs. </li>
+<li>What I suggest is you try using the product for its intended purpose, and assume that all feedback is welcome (it is) but once it has been registered, you should move on to the next thing.</li>
+<li>I've worked with testers many times going back a very long time. I've even hired testers. I don't take offense to critiques of the software.</li>
+</ul>
+<p>BTW, if after reading this, you think you could be this kind of tester for <a href="https://this.how/wordland/">WordLand</a>, and you have experience with WordPress, and a site on wordpress.com, and are excited about the idea of a simple way to write and manage lots of documents in a WordPress environment, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSeuk4REqAIkKs9vHf4ExMN_jtANenoDl0ciUxeLSFVmtehZ_Q/viewform">fill out this form</a>, I'll read it right away, and if it seems like a fit, I'll authorize your account. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/12/11/203305.html?title=answersForATester>
+
+---
+
+##  Recently found: a message in a bottle at an archaeological dig left... 
+
+date: 2024-12-11, updated: 2024-12-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045832-recently-found-a-message->
+
+---
+
+## MacOS Sequoia 15.2 Includes References to Next Year’s M4 MacBook Air Models
+
+date: 2024-12-11, updated: 2024-12-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2024/12/11/macos-sequoia-15-2-m4-macbook-air-leak/>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2024-12-11, from: Ryan Gantz Bluesky feed)
+
+sick of online services and steps for all things, every day. i did this to myself 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3ld2ku4non22b>
+
+---
+
+##  Racing&#8217;s Deadliest Day. After the 1955 Le Mans disaster, &#8220;it would be... 
+
+date: 2024-12-11, updated: 2024-12-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045835-racings-deadliest-day-aft>
+
+---
+
+## December 10, 2024
+
+date: 2024-12-11, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/152976821/273230a871d9f6281b5f1381bc5dc9ab.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/152976821/273230a871d9f6281b5f1381bc5dc9ab.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-10-2024-612>
+
+---
+
+##  Monument Valley 3 is out today on iOS & Android and is... 
+
+date: 2024-12-11, updated: 2024-12-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045831-monument-valley-3-is-out>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-11, from: Dave Winer's Scripting News)
+
+I have United Healthcare insurance. I got it as part of my Medicare package when I turned 65. I've had good experience with them. I had major surgery in 2002, cost hundreds of thousands, included a one-week hospital stay and lots of followup treatments. I know the hospital did all the work with them, I was shielded from any complications, but as far as I know there were none. Never had a treatment questioned or denied. I had another insurance provider for many years after that, but when given a chance I went back to United. Just want to say, so far -- knock wood -- I am a happy customer. 
+
+<br> 
+
+<http://scripting.com/2024/12/11.html#a171040>
+
+---
+
+## What Is To Be Done? Investing Where It Matters.
+
+date: 2024-12-11, from: James Fallows, Substack
+
+Something has started. Let's keep it going. 
+
+<br> 
+
+<https://fallows.substack.com/p/what-is-to-be-done-investing-where>
+
+---
+
+##  The Origin of Delay, Deny, Defend 
+
+date: 2024-12-11, updated: 2024-12-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/the-origin-of-delay-deny-defend>
+
+---
+
+##  Check Out the 2025 Moon Phases 
+
+date: 2024-12-11, updated: 2024-12-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/check-out-the-2025-moon-phases>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-11, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/03/28/juggler.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Bingeworthy has an RSS feed (not public yet), and new ratings <a href="https://imgs.scripting.com/2024/12/11/bingeworthyInBlogroll.png">show up</a> in my blogroll, of course. 
+
+<br> 
+
+<http://scripting.com/2024/12/11.html#a153744>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-11, from: Dave Winer's Scripting News)
+
+No more elections where Hope is the main theme. Better: Kicking ass. Kicking ass is for ass-kicking Americans. I personally <i>like</i> Hope, but I'm also a sports fan and understand the value of kicking ass. 
+
+<br> 
+
+<http://scripting.com/2024/12/11.html#a150820>
 
 ---
 
@@ -888,9 +1243,6 @@ date: 2024-12-09, from: Stephen Wolfram blog
 <br><video crossorigin="anonymous" controls="controls" width="250">
 <source type="video/mp4" src="https://content.wolfram.com/sites/43/2024/12/magic1input.mp4"></source>
 	<source type="video/mp4" src="https://content.wolfram.com/sites/43/2024/12/magic2codetext.mp4"></source>
-	<source type="video/mp4" src="https://content.wolfram.com/sites/43/2024/12/magic3subsubsection.mp4"></source>
-	<source type="video/mp4" src="https://content.wolfram.com/sites/43/2024/12/magic4text.mp4"></source>
-	<source type="video/mp4" src="https://content.wolfram.com/sites/43/2024/12/magic5insert-v2.mp4"></source>
 </video> <a href="https://content.wolfram.com/sites/43/2024/12/magic1input.mp4" target="_blank">download video/mp4</a> 
 
 <https://writings.stephenwolfram.com/2024/12/useful-to-the-point-of-being-revolutionary-introducing-wolfram-notebook-assistant/>

@@ -1,11 +1,98 @@
 ---
 title: motorcycles
-updated: 2024-12-11 07:05:34
+updated: 2024-12-12 07:05:26
 ---
 
 # motorcycles
 
-(date: 2024-12-11 07:05:34)
+(date: 2024-12-12 07:05:26)
+
+---
+
+## We Can Learn a Thing Or Two From This Child ATV-Rider Who Got Lost In The Woods
+
+date: 2024-12-12, from: Ride Apart, Electric Motorcycle News
+
+Despite being just 10 years old, this kid understood the assignment.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/743955/10-year-old-atv-rider-lost-and-rescued/>
+
+---
+
+## Watch the World’s Most Powerful 3-Wheeler Swap Go Berserk
+
+date: 2024-12-12, from: Ride Apart, Electric Motorcycle News
+
+It's somehow both underwhelming and terrifying at the same time. 
+
+<br> 
+
+<https://www.rideapart.com/news/743941/1000cc-three-wheeler-swap-video/>
+
+---
+
+## Could Plug & Charge Protocol Make EV Charging As Easy As One Two Three?
+
+date: 2024-12-12, from: Ride Apart, Electric Motorcycle News
+
+This could mean the end of pesky apps and tedious payment authentication systems. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/743799/plug-charge-protocol-ev-charging-easier-usa/>
+
+---
+
+## An Environmentalist Group Doesn't Want ATVs in State Forests, Sues Pennsylvania
+
+date: 2024-12-12, from: Ride Apart, Electric Motorcycle News
+
+Just because you don't like something, doesn't mean it should be banned.  
+
+<br> 
+
+<https://www.rideapart.com/news/743945/pennsylvania-nrat-state-forest-public-lands-environmental-defense-foundation/>
+
+---
+
+## This EV Motorcycle Manufacturer Is Celebrating Its Success With a…Sword
+
+date: 2024-12-12, from: Ride Apart, Electric Motorcycle News
+
+A totally badass titanium 3D-printed sword, at that. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/743802/stark-future-klinga-sabre-limited-edition-sword/>
+
+---
+
+## This Motorcycle Auction Haul Is a Literal Dirt Bike Treasure Trove
+
+date: 2024-12-12, from: Ride Apart, Electric Motorcycle News
+
+"Smell that, Dan? That's old mouse pee and two-stroke!" 
+
+<br> 
+
+<https://www.rideapart.com/news/743940/motorcycle-auction-haul-bearded-mechanic/>
+
+---
+
+## Did KTM Just Cut MV Agusta Loose After Only 9 Months?
+
+date: 2024-12-11, from: Ride Apart, Electric Motorcycle News
+
+At a trade union meeting earlier this week, we got an unexpected twist in an already strange story. 
+
+<br> 
+
+<https://www.rideapart.com/news/744071/ktm-backs-out-mv-agusta/>
 
 ---
 

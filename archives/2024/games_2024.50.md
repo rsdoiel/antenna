@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-12-11 07:05:33
+updated: 2024-12-12 07:05:25
 ---
 
 # games
 
-(date: 2024-12-11 07:05:33)
+(date: 2024-12-12 07:05:25)
+
+---
+
+## Digital Extremes’ team is bravely letting me e-date Warframe 1999 baddies
+
+date: 2024-12-12, updated: 2024-12-11, from: Polygon Website
+
+Warframe is a game that’s full of surprises. At first glance, the team at Digital Extremes is simply making a free-to-play space ninja game. Once I started digging past the surface, I was continually shocked with some new feature coming out of left field: a fighting game, a character creator for a new form, or [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/495077/warframe-1999-dating-sim-expansion>
+
+---
+
+## The Game Awards 2024: All the trailers, news, and announcements
+
+date: 2024-12-12, updated: 2024-12-12, from: Polygon Website
+
+It&#8217;s time for the Game Awards, when the video game industry looks back on 2024&#8217;s best games and debuts trailers for upcoming projects for 2025 and beyond. The annual awards show and video game trailer extravaganza hosted by Geoff Keighley celebrates its 10th anniversary this year. 
+
+<br> 
+
+<https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024>
+
+---
+
+## How to watch The Game Awards 2024
+
+date: 2024-12-12, updated: 2024-12-12, from: Polygon Website
+
+The Game Awards celebrates its 10th anniversary in 2024. The annual awards show and video game trailer extravaganza hosted by Geoff Keighley returns on Thursday, Dec. 12 for a night that aims to celebrate the year’s best and biggest games, while giving viewers sneak peeks of games to come. What reveals will be at this [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/events/479292/game-awards-2024-start-time-nominees>
+
+---
+
+## The best comics of 2024
+
+date: 2024-12-12, updated: 2024-12-12, from: Polygon Website
+
+Nothing beats having a new comic book in your hot little hands and settling in for a good read. Fortunately, 2024 delivered fantastic comics from every side of the industry — these are Polygon’s best comics of 2024.&#160; Comics were considered eligible if they were graphic novels published for the first time in 2024 or [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/24185731/best-comics-2024-graphic-novels-manga-books>
+
+---
+
+## Monster Hunter Now weapon list and how to unlock new weapon types
+
+date: 2024-12-12, updated: 2024-12-12, from: Polygon Website
+
+Weapons are the most important tools in your Monster Hunter Now arsenal. This mobile version of the series stripped back the usual roster of weapons down to six choices at launch, locking them behind story quest progression or Hunter Rank progress, with more being introduced with seasonal updates over time. Despite smaller number of weapons [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock>
+
+---
+
+## Monster Hunter Now monster list
+
+date: 2024-12-12, updated: 2024-12-12, from: Polygon Website
+
+Monsters in Monster Hunter Now are, as with every entry in the series, the main focus of the game, giving you new challenges to face and weapon and armor types to craft. Starting with just a handful of large monsters to begin with, the further you progress through the main story quest, the more species [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all>
+
+---
+
+## PlayStation Plus subscribers can spend December with Forspoken’s surprisingly good parkour
+
+date: 2024-12-11, updated: 2024-12-11, from: Polygon Website
+
+Forspoken probably isn’t destined for a comeback any time soon, but PlayStation Plus Extra and Premium subscribers on PlayStation 5 can try its surprisingly smooth fantasy parkour for free starting Dec. 17, Sony announced Wednesday. It’s joined by some other notable games this month, including Sonic Frontiers, A Space for the Unbound, PHOGS!, and Jak [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/494973/forspoken-playstation-plus-december-2024>
+
+---
+
+## Dungeons &#038; Dragons, Kobold Press give away free adventures for the holidays
+
+date: 2024-12-11, updated: 2024-12-11, from: Polygon Website
+
+It’s the most wonderful time of the year: when tabletop companies give away free stuff in the name of festive generosity! Both Dungeons &#38; Dragons and competitor Kobold Press are giving away a litany of free digital assets, and we couldn’t be merrier.&#160; Every year, D&#38;D Beyond runs its 12 Days of D&#38;D promotions in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/495168/dungeons-dragons-giveaways-kobold-press-holiday-gifts>
+
+---
+
+## All the Wheel of Time season 3 news we’ve heard so far
+
+date: 2024-12-11, updated: 2024-12-11, from: Polygon Website
+
+[Ed. note: This post contains spoilers for the end of season 2 of Prime Video’s The Wheel of Time.] Season 2 of The Wheel of Time covered a lot of ground. Moiraine (Rosamund Pike) and Lan (Daniel Henney) figured out what life looks like after she loses connection to the True Source (and then gets [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/23904579/wheel-time-season-3-release-date-cast-news>
+
+---
+
+## Why Magic: The Gathering’s writers changed the name of a fan-favorite plane
+
+date: 2024-12-11, updated: 2024-12-11, from: Polygon Website
+
+Wizards of the Coast has announced a major change to one of Magic: The Gathering’s most iconic planes of the last decade. In a statement published Tuesday, the company said that the plane formerly named Kaladesh — an India-inspired setting known for innovation and cultural progress — would be renamed to Avishkar. In two posts, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/495034/wizards-coast-avishkar-kaladesh-name-change-aetherdrift>
 
 ---
 

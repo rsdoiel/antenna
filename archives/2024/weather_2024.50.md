@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2024-12-11 07:05:33
+updated: 2024-12-12 07:05:24
 ---
 
 # weather
 
-(date: 2024-12-11 07:05:33)
+(date: 2024-12-12 07:05:24)
 
 ---
 
-## SPC - No watches are valid as of Wed Dec 11 14:52:02 UTC 2024
+## SPC - No watches are valid as of Thu Dec 12 14:23:01 UTC 2024
 
-date: 2024-12-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Wed Dec 11 14:52:02 UTC 2024. 
+No watches are valid as of Thu Dec 12 14:23:01 UTC 2024. 
 
 <br> 
 
@@ -21,11 +21,11 @@ No watches are valid as of Wed Dec 11 14:52:02 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Wed Dec 11 14:52:02 UTC 2024
+## SPC - No MDs are in effect as of Thu Dec 12 14:23:01 UTC 2024
 
-date: 2024-12-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Wed Dec 11 14:52:02 UTC 2024. 
+No Mesoscale Discussions are in effect as of Thu Dec 12 14:23:01 UTC 2024. 
 
 <br> 
 
@@ -33,88 +33,49 @@ No Mesoscale Discussions are in effect as of Wed Dec 11 14:52:02 UTC 2024.
 
 ---
 
-## SPC Dec 11, 2024 1300 UTC Day 1 Convective Outlook
+## SPC Dec 12, 2024 1300 UTC Day 1 Convective Outlook
 
-date: 2024-12-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0639 AM CST Wed Dec 11 2024
+0617 AM CST Thu Dec 12 2024
 
-Valid 111300Z - 121200Z
+Valid 121300Z - 131200Z
 
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM THE EASTERN
-CAROLINAS TO SOUTHERN NEW ENGLAND...
+...NO THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Severe thunderstorm winds and a few tornadoes are possible from the
-eastern Carolinas to southern New England.  Isolated severe
-thunderstorms may occur southward into portions of Florida.
+Thunderstorms appear unlikely through tonight.
 
-...Synopsis...
-Moisture-channel imagery showed a substantial mid/upper trough
-extending from a cyclone over the MB/ON border southward over the
-Mississippi Valley to a strong, basal shortwave trough over portions
-of MS/LA.  The latter feature is forecast to pivot eastward to the
-TN Valley and FL Panhandle through 18Z, then turn northeastward
-across WV, western VA and the west-central Carolinas by 00Z.  As
-that occurs, the entire synoptic trough will become more negatively
-tilted, with preceding speed maxima of 160-180-kt at 250 mb, 110-125
-kt at 500 mb, and 70-85 kt at 700 mb over parts of the Atlantic
-Coast States.
+...Synopsis/Discussion...
+A mid/upper-level cyclone -- initially over northern ON -- will
+break down as another develops across central QC today, within the
+same larger-scale troughing regime.  As the resulting low ejects
+northeastward over northern QC, and synoptic ridging moves from the
+Rockies to the Plains States, heights will rise over most of the
+central/eastern CONUS.  The air mass east of the Rockies mostly will
+remain too dry and/or stable for thunderstorms, behind the cold
+frontal passage related to the departing eastern trough.  One
+exception may be in the lake-effect regimes east of the lower Great
+Lakes, where steep low/middle-level lapse rates will support plumes
+of heavy convective snow.  However, shallowness of buoyancy/ELs
+precludes more than very brief/isolated lightning potential at most,
+and the threat appears too conditional and limited for outlook
+areas.
 
-A cold front precedes the main mid/upper trough, and was analyzed at
-11Z from east-central PA over western VA to a weak low near AVL,
-then across central/southwestern GA and the west-central FL
-Panhandle, to the central Gulf.  The front should sweep eastward
-across VA, the Carolinas, GA and most of FL today, with a 00Z
-position progged from VT across western Long Island, over Atlantic
-waters to near or just offshore HSE, then southwestward over more of
-the Atlantic to southeastern FL.  The front should proceed offshore
-from the remaining Atlantic Coast by around 12Z tomorrow. 
+A cyclone now located off the coast of OR and northwestern CA will
+move inland and devolve slightly to a strong shortwave trough,
+reaching northern CA and western/southern NV by 00Z.  By 12Z, the
+trough will reach southern ID, UT and AZ.  Strong DCVA/cooling aloft
+is expected immediately to its east today and tonight, from the
+Great Basin to the Colorado Plateau and UT/southwestern WY. 
+However, with dry air in low levels over most of the region,
+midlevel moisture/buoyancy should remain too weak and isolated for
+enough lightning to justify an outlook area.
 
-...East Coast States...
-An ongoing, prefrontal band of convection, with scattered to widely
-scattered embedded thunderstorms, was apparent in radar, satellite
-and lightning data from the northeastern Gulf northeastward across
-the FL Big Bend region and southern/eastern GA.  This activity
-should proceed eastward across much of FL and offshore from GA
-today, with isolated potential for damaging to severe gusts and/or a
-tornado, as it encounters foregoing diabatic surface destabilization
-and boundary-layer theta-e advection.  The main changes this cycle
-are to the associated "marginal area, to:
-1.  Trim on the southwest edge in deference to ongoing convective
-trends (faster than earlier guidance), and 
-2.  Add somewhat more of central/southwestern FL to the
-5%-wind/Marginal area to give the trailing part of the main squall
-line more room to weaken, as diurnal heating of a moist airmass
-somewhat offsets weakening trends in both large-scale and frontal
-forcings.
-
-Meanwhile, the most dense potential for damaging to severe gusts is
-expected to develop farther north today across central/eastern parts
-of the Carolinas, northeastward along the coast into southern New
-England.  As the shortwave and synoptic troughs assume negative
-tilt, synoptic to frontal-scale lift will increase and overlap,
-resulting in a narrow band of convection (some with lightning, but
-potentially a majority without) firming up into the Mid-Atlantic and
-perhaps southern New England.  The aforementioned deep-layer wind
-maxima will contribute to fast embedded cell motions and downward
-momentum transfer within this band.  Intense associated gusts
-sporadically should penetrate a deeply near-neutral to slightly
-above moist-adiabatic layer of lapse rates -- with a shallow
-near-surface absolutely stable layer possible -- from around the
-Delmarva region northeastward, beneath MUCAPE of around 300-800
-J/kg.  Buoyancy will become more surface-based with southern extent
-from southeastern VA southward, with the greatest values of
-low-level shear/SRH and largest hodographs expected over eastern NC
-in and near the area of relatively peaked tornado probabilities. 
-Line-embedded supercells and/or QLCS mesovortices will be the main
-tornado concern, with the wind threat more generalized to any
-sustained, bow/LEWP segments within the line.
-
-..Edwards/Jewell.. 12/11/2024
+..Edwards/Jewell.. 12/12/2024
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
@@ -128,53 +89,38 @@ sustained, bow/LEWP segments within the line.
 
 ## SPC Day 2 Fire Weather Outlook
 
-date: 2024-12-11, from: NOAA Weather Forecasts
+date: 2024-12-12, from: NOAA Weather Forecasts
 
 <br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 2 Fire Weather Outlook  
 NWS Storm Prediction Center Norman OK
-0109 AM CST Wed Dec 11 2024
+0108 AM CST Thu Dec 12 2024
 
-Valid 121200Z - 131200Z
-
-...NO CRITICAL AREAS...
+Valid 131200Z - 141200Z
 
 ...Synopsis...
-Low-end fire weather potential is noted for Thursday across the
-southern Plains and parts of the Southwest, but unsupportive fuel
-conditions should moderate the overall fire weather threat. A cold
-continental air mass will continue to overspread the eastern CONUS
-in the wake of Wednesday's cold frontal passage with surface high
-pressure building from the upper MS River Valley into the Southeast
-states. Across the West, a more progressive, less-amplified upper
-regime will begin to emerge with a shortwave trough migrating into
-the lower Great Basin by late Thursday. This will promote surface
-pressure falls across NV/UT with an uptick in low-level winds.
+Fire weather concerns are expected to emerge across the southern
+High Plains on Friday afternoon as a progressive upper wave
+traverses the southern Rockies. Recent water-vapor imagery depicts
+an upper wave off the coast of the Pacific Northwest. This feature
+is expected to reach central NM by around peak heating on Friday. In
+response to the arrival of the wave, an antecedent lee cyclone
+across east/southeast CO will intensify with an attendant low-level
+wind response. Recent ensemble guidance shows a strong signal for
+sustained 20 mph winds across eastern NM into parts of the
+northwestern TX Panhandle. The typically drier/windier deterministic
+solutions hint that sustained winds up to 25 mph (gusting to 35-40
+mph) are possible, and this appears reasonable given the favorable
+timing of peak heating with the passage of a 40-50 knot 700 mb jet.
+The downslope flow regime should promote RH reductions well into the
+low teens, and possible into the single digits for some locations.
+As such, widespread elevated to critical fire weather conditions
+appear likely. The primary modulating factor is fuel status, which
+appears unfavorable for fire spread based on recent ERC/fuel
+guidance. However, finer 1-hour grasses may see sufficient drying to
+support a fire concern for some areas.
 
-...Southern Plains...
-The surface high over the Southeast coupled with weak lee troughing
-along the southern High Plains should promote a dry return flow
-regime across TX and much of OK Thursday afternoon. Areas of 15-20
-mph winds with RH reductions into the 20-30% range appear probable
-based on latest ensemble guidance. While areas of elevated fire
-weather conditions may emerge, fuels across the region do not
-support fire spread after recent precipitation and/or cool
-temperatures. 
-
-...Southern NV into AZ...
-The low-level mass response across the Great Basin will induce
-southerly winds across southern CA, NV, and much of AZ. Trajectories
-emanating out of southern CA/AZ (where single-digit dewpoint values
-are noted in recent surface observations) will advect dry air
-northward coincident with 15-20 mph winds. Elevated to locally
-critical fire weather conditions appear possible - especially along
-and north of the Mogollon Rim into far southern NV. But as with the
-southern Plains, latest fuel guidance shows ERCs are relatively
-modest (between the 60-80th percentile), which should modulate the
-overall fire threat and precludes highlights at this time (though
-fuel trends will continue to be monitored).
-
-..Moore.. 12/11/2024
+..Moore.. 12/12/2024
 
 ...Please see www.spc.noaa.gov/fire for graphic product...
 

@@ -1,11 +1,381 @@
 ---
 title: pacific
-updated: 2024-12-11 07:05:32
+updated: 2024-12-12 07:05:23
 ---
 
 # pacific
 
-(date: 2024-12-11 07:05:32)
+(date: 2024-12-12 07:05:23)
+
+---
+
+## Hidden from view
+
+date: 2024-12-12, from: Marshal Islands Journal
+
+<p>Hidden behind the many layers of departments within the Bank of Marshall Islands main branch in Uliga is the Debit Card and Marketing office. This is where the hardworking duo Imaikta Junior (left) and Dickson Lomae were spotted last week. Their job is to ensure customers are satisfied in a timely fashion. The office is [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/hidden-from-view/">Hidden from view</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/hidden-from-view/>
+
+---
+
+## DOH to continue testing for bird flu on Big Island
+
+date: 2024-12-12, from: Hawaii Tribune Harold
+
+
+				<p>The state heath director said Wednesday that the discovery last week of avian influenza in Hilo wastewater samples is a &#8220;heads up&#8221; to poultry owners, but described ongoing wastewater testing &#8212; while important &#8212; as &#8220;a pretty blunt tool.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/12/hawaii-news/doh-to-continue-testing-for-bird-flu-on-big-island/>
+
+---
+
+## Can the US climb out of its ‘unprecedented’ housing crisis?
+
+date: 2024-12-12, from: Hawaii Tribune Harold
+
+
+				<p>A young family in Grand Rapids, Michigan, has been looking for a larger house for three years, losing countless bidding wars. In Portland, Maine, a 29-year-old data analyst has been anxious to get out of their rental for a year, but hasn&#8217;t found a home to buy. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/12/nation-world-news/can-the-us-climb-out-of-its-unprecedented-housing-crisis/>
+
+---
+
+## Can a US missile defense system shield Guam from Chinese threat?
+
+date: 2024-12-12, from: Hawaii Tribune Harold
+
+
+				<p>An SM-3 interceptor erupted into the night sky over Guam late on Tuesday, its engine briefly illuminating the northeast corner of the island as it accelerated toward its target: a ballistic missile. U.S. Missile Defense Agency and military personnel monitored the radars and telescopic cameras tracking both projectiles; this was not an attack, but a complex test. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/12/nation-world-news/can-a-us-missile-defense-system-shield-guam-from-chinese-threat/>
+
+---
+
+## FDA tries last-ditch move to slash nicotine levels in cigarettes
+
+date: 2024-12-12, from: Hawaii Tribune Harold
+
+
+				<p>In the final days of the Biden administration, the Food and Drug Administration is seeking White House approval to propose a drastic reduction in the amount of nicotine in cigarettes, a long-standing goal of public health experts that has faced stiff opposition from the powerful tobacco lobby.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/12/nation-world-news/fda-tries-last-ditch-move-to-slash-nicotine-levels-in-cigarettes/>
+
+---
+
+## Nation and world news in brief for December 12
+
+date: 2024-12-12, from: Hawaii Tribune Harold
+
+
+				<p>Colleges warn &#0010;foreign students to get to campus before Trump &#0010;takes office</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/12/nation-world-news/nation-and-world-news-in-brief-for-december-12/>
+
+---
+
+## Island Dance Academy presents ‘The Nutcracker’ this weekend at the Palace Theater in Hilo
+
+date: 2024-12-12, from: Hawaii Tribune Harold
+
+
+				<p>Island Dance Academy and the Palace Theater in downtown Hilo present &#8220;The Nutcracker.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/12/community/island-dance-academy-presents-the-nutcracker-this-weekend-at-the-palace-theater-in-hilo/>
+
+---
+
+## Driver’s learner’s permit test now available online
+
+date: 2024-12-12, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii residents meeting the minimum age to test for a learner&#8217;s permit for a driver&#8217;s license now have a new online option to take the written learner&#8217;s permit test.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/12/hawaii-news/drivers-learners-permit-test-now-available-online/>
+
+---
+
+## Police say suspect’s notebook described rationale for CEO killing
+
+date: 2024-12-12, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Luigi Mangione, who has been charged with killing the chief executive of UnitedHealthcare outside a company investors&#8217; day in Manhattan, was arrested with a notebook that detailed plans for the shooting, according to two law enforcement officials.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/12/nation-world-news/police-say-suspects-notebook-described-rationale-for-ceo-killing/>
+
+---
+
+## US House passes massive defense policy bill, despite transgender provision
+
+date: 2024-12-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. House of Representatives passed a defense policy bill on Wednesday, governing a record $895 billion in annual military spending, despite inclusion of a controversial policy targeting gender-affirming care for transgender children. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/12/nation-world-news/us-house-passes-massive-defense-policy-bill-despite-transgender-provision/>
+
+---
+
+## Firefly Sparkle galaxy offers a taste of the infant Milky Way
+
+date: 2024-12-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; NASA&#8217;s James Webb Space Telescope has spotted a young galaxy dating to the early universe &#8212; called Firefly Sparkle because its gleaming star clusters resemble the bioluminescent bugs &#8212; in a discovery that is giving astronomers a peek at what our Milky Way may have looked like in its infancy. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/12/nation-world-news/firefly-sparkle-galaxy-offers-a-taste-of-the-infant-milky-way/>
+
+---
+
+## Hannah Kobayashi found safe a month after disappearance
+
+date: 2024-12-12, from: Hawaii Tribune Harold
+
+
+				<p>Hannah Kobayashi, a Hawaii woman police believe &#8220;voluntarily&#8221; went missing while traveling from California to New York, has reportedly been located by her family roughly a month after her disappearance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/12/hawaii-news/hannah-kobayashi-found-safe-a-month-after-disappearance/>
+
+---
+
+## RMI, Pacific pitch climate claim
+
+date: 2024-12-12, from: Marshal Islands Journal
+
+<p>The Marshall Islands delivered a strong pitch in support of a climate petition before the International Court of Justice in The Hague late last week, joining several Pacific nations and regional agencies to provide oral testimony. United Nations Ambassador John Silk, Climate Envoy Kathy Jetnil-Kijiner and Deputy Attorney General Johnathen Kawakami all spoke to the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/rmi-pacific-pitch-climate-claim/">RMI, Pacific pitch climate claim</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/rmi-pacific-pitch-climate-claim/>
+
+---
+
+## Guam hospital project hits another snag; AG warns GHURA’s illegal land seizure signals a lawsuit 
+
+date: 2024-12-12, from: Pacific Island Times
+
+The Guam Housing and Urban Renewal Authority has circumvented the legal process and acted beyond its authority when it invoked eminent domai 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-hospital-project-hits-another-snag-ag-warns-ghura-s-illegal-land-seizure-signals-a-lawsuit>
+
+---
+
+## Tuna movement picks up
+
+date: 2024-12-12, from: Marshal Islands Journal
+
+<p>Majuro had the second busiest month of the year in November, as tuna transshipment activity picked up. The 23 transshipments in November was the highest since January saw 41 tuna transfers. This year has seen transshipment activity much reduced compared to recent past years, with increased transshipment activity in other ports including Tarawa, Kosrae, Pohnpei, [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/tuna-movement-picks-up/">Tuna movement picks up</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/tuna-movement-picks-up/>
+
+---
+
+## UH-mazing Recipes: Shawn Sumiki’s Thai Salad
+
+date: 2024-12-12, from: University of Hawaiʻi News
+
+<p><span aria-label="Hawaii">Hawai&#699;i</span> Community College's Shawn Sumiki shares his family favorite Thai salad.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/11/uh-mazing-recipes-shawn-sumikis-thai-salad/"><abbr>UH</abbr>-mazing Recipes: Shawn Sumiki’s Thai Salad</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/11/uh-mazing-recipes-shawn-sumikis-thai-salad/>
+
+---
+
+## PNG reveals $864M defense deal with US 
+
+date: 2024-12-12, from: Pacific Island Times
+
+Its proximity to Guam – the main U.S. military hub in the Western Pacific – and Australia also makes it a critical point from which American 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/png-reveals-864m-defense-deal-with-us>
+
+---
+
+## Paddles by Pacific artisans featured at Gallery ʻIolani exhibit
+
+date: 2024-12-12, from: University of Hawaiʻi News
+
+<p>The 14-foot steering paddles were carved during the 13th Festival of Pacific Arts and Culture.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/11/paddles-by-pacific-gallery-iolani/">Paddles by Pacific artisans featured at Gallery ʻIolani exhibit</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/11/paddles-by-pacific-gallery-iolani/>
+
+---
+
+## Asia Pacific Airlines ordered to pay $2M to pilot wrongly fired for whistleblowing
+
+date: 2024-12-11, from: Pacific Island Times
+
+The U.S. Department of Labor has ordered Asia Pacific Airlines to pay more than $2 million in wages, damages and attorney’s fees to an emplo 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/asia-pacific-airlines-ordered-to-pay-2m-to-pilot-wrongly-fired-for-whistleblowing>
+
+---
+
+## Pregnant humpback whales’ energy needs increase when fasting during migration
+
+date: 2024-12-11, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> researchers uncovered the energy challenges pregnant humpback whales face during migration, especially in their final trimester.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/11/pregnant-humpback-whale/">Pregnant humpback whales’ energy needs increase when fasting during migration</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/11/pregnant-humpback-whale/>
+
+---
+
+## MEC’s power plant demolition
+
+date: 2024-12-11, from: Marshal Islands Journal
+
+<p>The Marshall Islands government is injecting $10 million to the Marshalls Energy Company this fiscal year, with a planned additional $7 million next fiscal year. The purpose of the funding is to support MEC’s need to purchase new engines for the power plant, according to Finance Minister David Paul. “These are necessary investments for MEC [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/mecs-power-plant-demolition/">MEC’s power plant demolition</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/mecs-power-plant-demolition/>
+
+---
+
+## Image of the Week: Diving Santa
+
+date: 2024-12-11, from: University of Hawaiʻi News
+
+<p>This week's image is from the Waikīkī Aquarium.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/11/image-of-the-week-diving-santa/">Image of the Week: Diving Santa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/11/image-of-the-week-diving-santa/>
+
+---
+
+## GAO: Feds unable to fully account for climate investments in US territories and Pacific nations 
+
+date: 2024-12-11, from: Pacific Island Times
+
+The Government Accountability Office found that U.S. agencies could not determine how the climate funds are spent. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/gao-feds-unable-to-fully-account-for-climate-investments-in-us-territories-and-pacific-nations>
+
+---
+
+## South Korea’s fading nightlife signals shift in hard-drinking culture
+
+date: 2024-12-11, updated: 2024-12-12, from: Marianas Variety
+
+SEOUL (Reuters) —  For pub owner Jun Jung-sook, Seoul's once-vibrant Nokdu Street is not what it used to be when people queued for a table to end their day with Korean mung bean pancakes and shots of the fiery local rice wine makgeolli. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/south-korea-s-fading-nightlife-signals-shift-in-hard-drinking-culture/article_f2171b24-b790-11ef-86c0-936729a5995c.html>
+
+---
+
+## Stocks cheered Trump's victory, but tariffs bring unknowns to 2025
+
+date: 2024-12-11, updated: 2024-12-12, from: Marianas Variety
+
+NEW YORK (Reuters) — The U.S. stock market welcomed Donald Trump's victory in the 2024 presidential election, but turbulence may lie ahead if the president-elect makes good on his tariff threats. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/stocks-cheered-trumps-victory-but-tariffs-bring-unknowns-to-2025/article_de042e4e-b78e-11ef-97a0-c79ec57c878e.html>
+
+---
+
+## Nikki Giovanni, poet and literary celebrity, has died at 81
+
+date: 2024-12-11, updated: 2024-12-12, from: Marianas Variety
+
+NEW YORK (AP) — Nikki Giovanni, the poet, author, educator and public speaker who went from borrowing money to release her first book to spending decades as a literary celebrity who shared blunt and conversational takes on everything from racism and love to space travel and mortality, has died. She was 81. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/nikki-giovanni-poet-and-literary-celebrity-has-died-at-81/article_3016ab80-b78f-11ef-a40f-2f9294afb3a9.html>
+
+---
+
+## US military intercepts, downs ballistic missile target from Guam air base
+
+date: 2024-12-11, updated: 2024-12-12, from: Marianas Variety
+
+HAGÅTÑA (BenarNews/Pacnews) — The U.S. military downed a ballistic missile target for the first time from Guam in what Pentagon officials called a “critical milestone” in protecting the western Pacific from potential threats. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/us-military-intercepts-downs-ballistic-missile-target-from-guam-air-base/article_67a9f674-b77b-11ef-bed1-5bd5e7d7d77e.html>
+
+---
+
+## UnitedHealth murder suspect has angry outburst as details of his life emerge
+
+date: 2024-12-11, updated: 2024-12-12, from: Marianas Variety
+
+ALTOONA, Pennsylvania (Reuters) — Luigi Mangione, the suspect charged with murder in the shooting of a top UnitedHealth executive, briefly struggled with officers and angrily shouted while being escorted into a Pennsylvania courthouse on Tuesday, as a clearer picture of his motives began to emerge a day after his arrest ended a massive manhunt. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/unitedhealth-murder-suspect-has-angry-outburst-as-details-of-his-life-emerge/article_73d0b178-b789-11ef-9ffe-6ba9843aba5b.html>
 
 ---
 
@@ -191,6 +561,48 @@ date: 2024-12-11, from: Hawaii Tribune Harold
 
 ---
 
+## November rainfall a one-day deluge
+
+date: 2024-12-11, from: Hawaii Tribune Harold
+
+
+				<p>Much of the Big Island received normal to near-normal rainfall totals in November. In some areas, however, especially in East Hawaii, much, if not most fell on Nov. 4.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/11/hawaii-news/november-rainfall-a-one-day-deluge/>
+
+---
+
+## UH study on quality of life cites housing, health care as stressors
+
+date: 2024-12-11, from: Hawaii Tribune Harold
+
+
+				<p>A new dashboard launched by the University of Hawaii at Manoa offers insights into the pressing social, economic and health issues affecting state residents.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/11/hawaii-news/uh-study-on-quality-of-life-cites-housing-health-care-as-stressors/>
+
+---
+
+## Red flag warning in effect for leeward sides of all Hawaiian Islands
+
+date: 2024-12-11, from: Hawaii Tribune Harold
+
+
+				<p><strong>UPDATED 3:11 p.m.</strong></p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/11/hawaii-news/red-flag-warning-in-effect-for-leeward-sides-of-all-hawaiian-islands/>
+
+---
+
 ## Hawaiian Word of the Week: Pepa
 
 date: 2024-12-11, from: University of Hawaiʻi News
@@ -242,12 +654,12 @@ The post <a href="https://www.hawaii.edu/news/2024/12/10/in-memoriam-anthony-jos
 
 ---
 
-## UH Hilo biologist leads $2M invasive species research
+## UH Hilo biologist part of $2M invasive species research
 
 date: 2024-12-11, from: University of Hawaiʻi News
 
 <p><abbr>UH</abbr> Hilo biologist Natalie Graham’s goal is to develop methods for early detection using <abbr>DNA</abbr> and predictive modeling.</p>
-The post <a href="https://www.hawaii.edu/news/2024/12/10/hilo-biologist-leads-2m-research/"><abbr>UH</abbr> Hilo biologist leads $2<abbr>M</abbr> invasive species research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2024/12/10/hilo-biologist-leads-2m-research/"><abbr>UH</abbr> Hilo biologist part of $2<abbr>M</abbr> invasive species research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <br> 
 
