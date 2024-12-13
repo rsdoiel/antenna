@@ -1,11 +1,97 @@
 ---
 title: motorcycles
-updated: 2024-12-12 07:05:26
+updated: 2024-12-13 07:06:03
 ---
 
 # motorcycles
 
-(date: 2024-12-12 07:05:26)
+(date: 2024-12-13 07:06:03)
+
+---
+
+## This Custom Royal Enfield Guerrilla 450 Can Be Yours, But There’s a Catch
+
+date: 2024-12-13, from: Ride Apart, Electric Motorcycle News
+
+The custom build goes crazy with the whole retro-modern dystopian aesthetic. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/743952/custom-royal-enfield-guerrilla-450-raffle/>
+
+---
+
+## Harley Tried to Not Pay Europe's Tariffs With Thai Plant, It Just Lost In Court
+
+date: 2024-12-13, from: Ride Apart, Electric Motorcycle News
+
+Nice try, but fast-ones aren't allowed in the EU.  
+
+<br> 
+
+<https://www.rideapart.com/news/744093/harley-davidson-europe-tariff-customs-thailand-production-lawsuit-lost/>
+
+---
+
+## Is MotoGP's Pedro Acosta Looking to Already Jump Ship From KTM?
+
+date: 2024-12-13, from: Ride Apart, Electric Motorcycle News
+
+He'd be stupid if he wasn't and he isn't stupid.  
+
+<br> 
+
+<https://www.rideapart.com/news/744095/motogp-pedro-acosta-ktm-bankrupt-ducati/>
+
+---
+
+## This Modern RTW Moto Vlogger Just Rode With Absolute Legend Elspeth Beard
+
+date: 2024-12-13, from: Ride Apart, Electric Motorcycle News
+
+Marc Travels usually tours on a Zero, but this time he's on a Harley X440. 
+
+<br> 
+
+<https://www.rideapart.com/news/744091/moto-travels-harley-x440-india/>
+
+---
+
+## Kawasaki Just Donated a Bunch of Mule UTVs to Hurricane Helene Relief
+
+date: 2024-12-13, from: Ride Apart, Electric Motorcycle News
+
+Good move, Team Green.  
+
+<br> 
+
+<https://www.rideapart.com/news/744089/kawasaki-mule-utv-hurricane-helene-relief/>
+
+---
+
+## I Was Today Years Old When I Learned That Dainese Makes Airbags For Skiing
+
+date: 2024-12-13, from: Ride Apart, Electric Motorcycle News
+
+Turns out Dainese’s got a thing for protecting folks who seek out extreme situations. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/743954/dainese-innovation-ski-airbag/>
+
+---
+
+## Watch Injured Iom TT Racer Tell Us What Keeps Him Coming Back Each Year
+
+date: 2024-12-12, from: Ride Apart, Electric Motorcycle News
+
+It's an insight into a road racer's mind from a different angle. 
+
+<br> 
+
+<https://www.rideapart.com/news/743948/injured-iom-tt-rider-interview/>
 
 ---
 
@@ -84,11 +170,11 @@ date: 2024-12-12, from: Ride Apart, Electric Motorcycle News
 
 ---
 
-## Did KTM Just Cut MV Agusta Loose After Only 9 Months?
+## UPDATE: MV Agusta Seeks To Reassure Everyone That It's Doing Well, Actually
 
 date: 2024-12-11, from: Ride Apart, Electric Motorcycle News
 
-At a trade union meeting earlier this week, we got an unexpected twist in an already strange story. 
+At a trade union meeting earlier this week, we got an unexpected twist that raised questions. Now MV answers. 
 
 <br> 
 

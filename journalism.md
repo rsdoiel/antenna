@@ -1,11 +1,263 @@
 ---
 title: journalism
-updated: 2024-12-12 07:05:25
+updated: 2024-12-13 07:06:02
 ---
 
 # journalism
 
-(date: 2024-12-12 07:05:25)
+(date: 2024-12-13 07:06:02)
+
+---
+
+## Nightly Bruin: The Unsolved Disappearance of Michael Negrete – 25 Years Later
+
+date: 2024-12-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+In this episode of Nightly Bruin, hosts Olivia Miller, Mia Fernandez and Jina Bae investigate the disappearance of Michael Negrete from UCLA&#8217;s Dykstra Hall in 1999, examining multiple theories about what happened that night, speaking with current UCPD officials about the ongoing investigation and a friend of Negrete&#8217;s. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/12/nightly-bruin-the-unsolved-disappearance-of-michael-negrete-25-years-later/>
+
+---
+
+## Tips For Parents: Enhancing Home Education With Online School Resources
+
+date: 2024-12-12, from: The Sundail (CSUN Student Newspaper)
+
+With the growing availability of online school resources, parents have more flexibility than ever in shaping their children’s education at home. These resources enable parents to create customized learning experiences... 
+
+<br> 
+
+<https://sundial.csun.edu/188459/sundialbrandstudio/sundial-marketplace/tips-for-parents-enhancing-home-education-with-online-school-resources/>
+
+---
+
+## The rise of informal news networks
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+Predictions — said someone — are a fool&#8217;s game. But there&#8217;s little doubt that in the next year we will continue to bear painful witness to the decline of America&#8217;s formal news structures. Twentieth-century news outlets will keep crashing by the wayside — victims to changing business and technological models, to hubris, to cultural mistrust... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-rise-of-informal-news-networks/>
+
+---
+
+## The media industry adopts an insurgent strategy
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+General Douglas MacArthur once said, &#8220;In war, there is no substitute for victory.&#8221; In 2025, the media will heed this wisdom as it adopts an insurgent strategy to transition from survival to sustainability. Rather than playing by the rules of dominant platforms and entrenched forces, media organizations will redefine the battlefield, leveraging unconventional approaches to... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-media-industry-adopts-an-insurgent-strategy/>
+
+---
+
+## New dimensions for news storytelling
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+I want to share a news storytelling provocation for 2025, coming from a toolmaker who&#8217;s been building media prototypes with LLMs over the past year. My hope is that these capabilities will spark ideas from readers working in newsrooms. First, I&#8217;ll share what I&#8217;ve noticed in using AI in creative tools and interfaces: AI is... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/new-dimensions-for-news-storytelling/>
+
+---
+
+## Readers will seek out well-moderated spaces
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+&#8220;Don&#8217;t read the comments.&#8221; It&#8217;s advice editors often give writers when their first piece goes viral online. Yet it&#8217;s always struck me as odd guidance — why publish on the internet, a medium built for interconnection, only to ignore how readers respond to your work? What &#8220;don&#8217;t read the comments&#8221; almost always really means is... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/readers-will-seek-out-well-moderated-spaces/>
+
+---
+
+## Breaking old habits
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+I was ready to break up with journalism in 2020 when I decided to go to divinity school for a chaplaincy degree. My physical, mental, and spiritual burnout was real, but so was an emerging sense of hope because of the hundreds of mutual-aid networks and uprisings that cropped up that year. I realized that,... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/breaking-old-habits/>
+
+---
+
+## The darkness that democracy dies in is here
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+The darkness that democracy dies in is here. Some might call that hyperbolic, but as a practitioner, scholar, and close observer of journalism for more than 25 years, I&#8217;ve lost faith that well-meaning criticism of journalists who engage in horse-race coverage, false equivalence, and lazy, narrow ways of defining objectivity will make any meaningful difference.... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-darkness-that-democracy-dies-in-is-here/>
+
+---
+
+## There’s no “Trump Bump” (and that’s good!)
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+For better or worse, I don&#8217;t think there will be a &#8220;Trump Bump&#8221; in traffic to news websites during the second Trump administration. There are a bunch of reasons that levels of interest (and/or shock) aren&#8217;t what they were eight years ago: news fatigue, Trump&#8217;s (slight) popular vote win, self-preservation. There will surely be some... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/theres-no-trump-bump-and-thats-good/>
+
+---
+
+## Journalists build the AI tools they actually want to use
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+August 19, 2023 may well have been the day that journalism&#8217;s enthusiasm for artificial intelligence began its descent into the trough of disillusionment. That&#8217;s when Gannett published a wince-worthy report on a high school soccer match that would have gone largely unnoticed if it had not been obviously written by an AI bot that knew... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/journalists-build-the-ai-tools-they-actually-want-to-use/>
+
+---
+
+## We’ll rethink scale, trust, and our life’s work
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+Anyone with a sunny outlook for 2025 is delusional. Journalism faces an existential crisis, and whether we can meet the moment collectively will be telling. Here are four areas I predict we will be hearing a lot about in 2025, all interconnected. Trust I spent 30 years in mainstream media, including some big jobs at... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/well-rethink-scale-trust-and-our-lifes-work/>
+
+---
+
+## Using AI to make news more accessible
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+AI is everywhere. Amidst all the doom and hype, newsrooms are discovering a wide range of use cases for AI in journalism and its workflows. However, as with any emerging technology, this often leads to the mindless application of tools. For instance, in India, TV news channels are now filled with AI anchors. In a... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/using-ai-to-make-news-more-accessible/>
+
+---
+
+## Media companies will love their websites a lot less
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+The conversation around websites and how to make money from them is louder than it should be. Consider the facts: AI Overviews are here to stay: Google AI Overviews has, in some cases, impacted up to 40% of publishers&#8217; search traffic over the last year, with others purporting the effects as &#8220;negligible.&#8221; That&#8217;s with only... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/media-companies-will-love-their-websites-a-lot-less/>
+
+---
+
+## An authoritarian anti-journalism playbook
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+At this seeming inflection point for the future of news, I put the question to the most famous expert of them all and prompted ChatGPT to answer: &#8220;What will happen to journalism in 2025?&#8221; The response it spat out was a compendium of the bland but familiar, as if it had digested a decade&#8217;s worth... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/an-authoritarian-anti-journalism-playbook/>
+
+---
+
+## We can’t predict the future — but it’s essential to plan for it
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+On the evening of his election night coverage, Daily Show host Jon Stewart closed out with a simple pronouncement: &#8220;Here&#8217;s what we know: that we don&#8217;t really know anything. And that we&#8217;re going to come out of this election and we&#8217;re going to make all kinds of pronouncements about what this country is and what... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/we-cant-predict-the-future-but-its-essential-to-plan-for-it/>
+
+---
+
+## The year we stop talking about “AI”
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+We&#8217;ve gotten through the first part of the hype cycle on artificial intelligence. Just over two years since ChatGPT launched and raised mass awareness of this new technology, and billions of dollars of venture capital later, most people are aware of AI and a good number have tinkered with it. So where do things go... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-year-we-stop-talking-about-ai/>
+
+---
+
+## Journalism faces a reckoning, in Soviet style
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+The year ahead will be transformative for news and journalism as the cracks in the foundation of mainstream media deepen. The election of Donald Trump — once again misunderstood, dismissed, and maligned by media — has exposed a fundamental truth: The establishment press no longer represents the pulse of the public. Much like the state-controlled... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/journalism-faces-a-reckoning-in-soviet-style/>
+
+---
+
+## The federal attack on the press will trickle down locally
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+I&#8217;m a local reporter in New York City bracing for a second Trump administration in 2025, and what that means both for journalism and the most vulnerable New Yorkers we write about. I fear the federal attack on the press will trickle down locally, and it will be harder to get information through normal channels... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-federal-attack-on-the-press-will-trickle-down-locally/>
+
+---
+
+## We’ll reach beyond our own lane
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+You don&#8217;t have to look further than the recent U.S. elections to see why journalism will evolve in 2025 — and why it must. Candidates bypassed traditional news media in favor of podcasters and social media influencers, an approach strategists say helped Trump&#8217;s campaign appeal to young men and secure his victory. More than half... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/well-reach-beyond-our-own-lane/>
+
+---
+
+## Newsrooms will keep losing their conservative audiences
+
+date: 2024-12-12, from: Nieman Journalism Lab
+
+The hard question isn&#8217;t how journalists should cover Trump, but how they should relate to Trump voters. Now that the furor of the election has died down, perhaps political coverage might be perceived as a little less partisan. And perhaps there&#8217;s an opening for conservative audiences to return to the news, if they&#8217;re not worried... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/newsrooms-will-keep-losing-their-conservative-audiences/>
+
+---
+
+## Understanding Legal Rights for Students After Accidents
+
+date: 2024-12-12, from: The Sundail (CSUN Student Newspaper)
+
+(Source: Pexels) The sad and scary truth is that accidents can happen at any time, to anyone.  There is never a good time to be part of a car or... 
+
+<br> 
+
+<https://sundial.csun.edu/188455/sundialbrandstudio/independent-legal-guide/understanding-legal-rights-for-students-after-accidents/>
 
 ---
 

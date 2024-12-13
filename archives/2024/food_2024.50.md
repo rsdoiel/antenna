@@ -1,11 +1,229 @@
 ---
 title: food
-updated: 2024-12-12 07:05:27
+updated: 2024-12-13 07:06:04
 ---
 
 # food
 
-(date: 2024-12-12 07:05:27)
+(date: 2024-12-13 07:06:04)
+
+---
+
+## How to Throw an Oyster Roast
+
+date: 2024-12-13, from: Bon Appetet
+
+For Charleston restauranteurs James London and Yoanna Tang, nothing quite says Lowcountry like a winter oyster roast. 
+
+<br> 
+
+<https://www.bonappetit.com/story/how-to-throw-an-oyster-roast-charleston>
+
+---
+
+## Give Me This New Klein Blue Ceramic Mug For Christmas
+
+date: 2024-12-13, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. A stunning if not a bit quixotic coffee mug. 
+
+<br> 
+
+<https://sprudge.com/give-me-this-new-klein-blue-ceramic-mug-for-christmas-262337.html>
+
+---
+
+## Saag Feta and More Recipes We Made This Week
+
+date: 2024-12-13, from: Bon Appetet
+
+Like yuzu chicken piccata and banana cream pie. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-december-2024>
+
+---
+
+## Beer Cheese Soup
+
+date: 2024-12-13, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/beer-cheese-soup/" title="Beer Cheese Soup" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Beer-Cheese-Soup-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Beer Cheese Soup on a spoon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Beer-Cheese-Soup-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Beer-Cheese-Soup-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Beer-Cheese-Soup-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Beer-Cheese-Soup-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Beer-Cheese-Soup-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Beer-Cheese-Soup-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Beer-Cheese-Soup-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This beer cheese soup recipe is rich and creamy, flavored with crispy bacon and simple seasonings, easy to make with your favorite cheeses and beer.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/beer-cheese-soup/">Beer Cheese Soup</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/beer-cheese-soup/>
+
+---
+
+## 7 Vintage Christmas Ornaments to Look for at the Thrift Store
+
+date: 2024-12-12, from: Taste of Home
+
+<p>Look for vintage Christmas ornaments to cherish at home—or to resell for a tidy profit.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/vintage-christmas-ornaments/">7 Vintage Christmas Ornaments to Look for at the Thrift Store</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/vintage-christmas-ornaments/>
+
+---
+
+## Why Is Olive Oil So Expensive Right Now?
+
+date: 2024-12-12, from: Taste of Home
+
+<p>You're not wrong—olive oil is more expensive right now. The issue isn't simply inflation.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/why-is-olive-oil-so-expensive/">Why Is Olive Oil So Expensive Right Now?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/why-is-olive-oil-so-expensive/>
+
+---
+
+## The Best Paring Knives (2024), Reviewed by Our Experts
+
+date: 2024-12-12, from: Bon Appetet
+
+A delicate tool for delicate tasks 
+
+<br> 
+
+<https://www.bonappetit.com/story/just-buy-it-paring-knife>
+
+---
+
+## Step Inside a Fermentation Expert’s Fridge
+
+date: 2024-12-12, from: Bon Appetet
+
+Noma veteran David Zilber shows us what he keeps in his refrigerator 
+
+<br> 
+
+<https://www.bonappetit.com/story/david-zilber-fridge-raid>
+
+---
+
+## Taco Bell Is Testing a Brand-New Cafe Concept Right Now
+
+date: 2024-12-12, from: Taste of Home
+
+<p>Taco Bell's Live Más Cafe is the next level of its commitment to Baja Blast.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/taco-bell-live-mas-cafe/">Taco Bell Is Testing a Brand-New Cafe Concept Right Now</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/taco-bell-live-mas-cafe/>
+
+---
+
+## The 31 Best Trader Joe’s Foods of 2024
+
+date: 2024-12-12, from: Bon Appetet
+
+Squiggly noodles, ranch dressing, salmon rub, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-trader-joes-foods>
+
+---
+
+## Christmas PieCaken Is Here to Make You Very Merry (and Hungry!)
+
+date: 2024-12-12, from: Taste of Home
+
+<p>Santa doesn't want cookies this year. He wants a slice of this sweet, over-the-top Christmas PieCaken! </p>
+<p>The post <a href="https://www.tasteofhome.com/article/christmas-piecaken-2024/">Christmas PieCaken Is Here to Make You Very Merry (and Hungry!)</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/christmas-piecaken-2024/>
+
+---
+
+## The Buzziest Food Gifts of 2024
+
+date: 2024-12-12, from: Bon Appetet
+
+Give the gift of that thing you’ve seen everywhere and secretly want to buy for yourself. 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-buzziest-food-gifts-of-2024>
+
+---
+
+## Stanley Just Recalled 2.6 Million Travel Mugs Due to Burn Hazard
+
+date: 2024-12-12, from: Taste of Home
+
+<p>Stop using Switchback and Trigger Action travel mugs ASAP.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/stanley-cup-recall-december-2024/">Stanley Just Recalled 2.6 Million Travel Mugs Due to Burn Hazard</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/stanley-cup-recall-december-2024/>
+
+---
+
+## The Bean Box World Coffee Tour Is the ULTIMATE Gift for Coffee Lovers
+
+date: 2024-12-12, from: Taste of Home
+
+<p>The Bean Box World Coffee Tour is one of our favorite gifts for the holiday season. But coffee lovers should hurry—it's not around for long!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/bean-box-world-coffee-tour-2024/">The Bean Box World Coffee Tour Is the ULTIMATE Gift for Coffee Lovers</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/bean-box-world-coffee-tour-2024/>
+
+---
+
+## The Best New Restaurants to Try This Winter
+
+date: 2024-12-12, from: Bon Appetet
+
+A Laotian noodle bar in Oklahoma City, a beloved Atlanta chef’s next act, and plenty more new restaurants to check out this season. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-new-restaurant-openings-winter-2024>
+
+---
+
+## Report: Climate Change Adaptation Plans Are Working for Coffee Producers
+
+date: 2024-12-12, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1-620x413.jpg" class="attachment-large size-large wp-post-image" alt="coffee plant" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new report commissioned by Fairtrade International and co-funded by the European Union found that coffee producers are leading producers in other agricultural sectors in planning for climate change, though... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/12/report-climate-change-adaptation-plans-are-working-for-coffee-producers/>
+
+---
+
+## The Intricate Art of Wagashi
+
+date: 2024-12-12, from: Bon Appetet
+
+Chef Phoebe Ogawa explores a Japanese tradition with her stunning, miniature creations. 
+
+<br> 
+
+<https://www.bonappetit.com/story/wagashi-phoebe-ogawa>
 
 ---
 
@@ -18,6 +236,18 @@ date: 2024-12-12, from: The Sprudge
 <br> 
 
 <https://sprudge.com/the-sprudge-guide-to-holiday-coffee-blends-for-2024-261150.html>
+
+---
+
+## Consultancy Pomelo Bringing Roasting Business Owners Together with Junto
+
+date: 2024-12-12, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image-620x414.png" class="attachment-large size-large wp-post-image" alt="Junto PR Image" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Raleigh, North Carolina-based Pomelo Coffee Consulting is launching the second iteration of its coffee roaster, education, networking and consulting platform called Pomelo Junto. The six-month program will involve a cohort... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/12/consultancy-pomelo-bringing-roasting-business-owners-together-with-junto/>
 
 ---
 
@@ -46,6 +276,18 @@ date: 2024-12-12, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/coconut-toffee-crunch-cookies/>
+
+---
+
+## Potato Galette
+
+date: 2024-12-12, from: Taste of Home
+
+Crispy on the outside and cheesy in the middle, potato galette is a great side dish for a holiday party or an elegant dinner. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/potato-galette/>
 
 ---
 
@@ -89,7 +331,7 @@ date: 2024-12-11, from: Taste of Home
 
 ---
 
-## Bouillon Paste Is for a Lot More Than Broth and Soup
+## 8 Better Than Bouillon Recipes to Use up the Jar
 
 date: 2024-12-11, from: Bon Appetet
 
@@ -117,7 +359,7 @@ Give them a taste of la dolce vita with aged balsamics, fresh pasta on demand, a
 
 date: 2024-12-11, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Autumn Coffee Roasting" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As its namesake season reached its colorful and gusty peak in October, Gresham, Oregon-based Autumn Coffee Roasting opened its second coffee shop. The roasting company opened its first brick-and-mortar cafe... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Autumn Coffee Roasting" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As its namesake season reached its colorful and gusty peak in October, Gresham, Oregon-based Autumn Coffee Roasting opened its second coffee shop. The roasting company opened its first brick-and-mortar cafe... 
 
 <br> 
 
@@ -129,7 +371,7 @@ date: 2024-12-11, from: Daily Coffee News
 
 date: 2024-12-11, from: Daily Coffee News
 
-<div><img width="620" height="391" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices-620x391.png" class="attachment-large size-large wp-post-image" alt="Coffee prices" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices-620x391.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices-300x189.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices-150x95.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices-768x484.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Dutch green coffee trader Sucden Coffee agreed to a settlement with the Intercontinental Exchange (ICE) following a notice that it &#8220;may have&#8221; violated a rule designed to prevent coffee market... 
+<div><img width="620" height="391" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices-620x391.png" class="attachment-large size-large wp-post-image" alt="Coffee prices" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices-620x391.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices-300x189.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices-150x95.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices-768x484.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Coffee-prices.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Dutch green coffee trader Sucden Coffee agreed to a settlement with the Intercontinental Exchange (ICE) following a notice that it &#8220;may have&#8221; violated a rule designed to prevent coffee market... 
 
 <br> 
 
@@ -177,7 +419,7 @@ On this episode of Dinner SOS, Chris, Kendra, and Jesse talk all things holiday.
 
 date: 2024-12-11, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee production" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As coffee prices currently sit at historically high levels on the commodities markets, driven by supply concerns and growing demand, the economic benefits for green coffee producers might seem universally... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee production" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-production.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As coffee prices currently sit at historically high levels on the commodities markets, driven by supply concerns and growing demand, the economic benefits for green coffee producers might seem universally... 
 
 <br> 
 
@@ -603,7 +845,7 @@ date: 2024-12-09, from: Closet Cooking
 
 date: 2024-12-09, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/pozole-blanco/" title="Pozole Blanco Recipe (Mexican White Posole)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Pozole-Blanco-Recipe1-White-Posole-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Pozole Blanco (Mexican White Posole) in a bowl, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Pozole-Blanco-Recipe1-White-Posole-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Pozole-Blanco-Recipe1-White-Posole-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Pozole-Blanco-Recipe1-White-Posole-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Pozole-Blanco-Recipe1-White-Posole-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Pozole-Blanco-Recipe1-White-Posole-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Pozole-Blanco-Recipe1-White-Posole-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Pozole-Blanco-Recipe1-White-Posole.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Pozole Blanco is a traditional Mexican soup made with pork or chicken and hominy simmered in a white (light colored) homemade broth, delicious and homey.</p>
+<a href="https://www.chilipeppermadness.com/recipes/pozole-blanco/" title="Pozole Blanco Recipe (Mexican White Posole)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Pozole-Blanco-Recipe1-White-Posole-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Pozole Blanco (Mexican White Posole) in a bowl, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Pozole-Blanco-Recipe1-White-Posole-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Pozole-Blanco-Recipe1-White-Posole-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Pozole-Blanco-Recipe1-White-Posole-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Pozole-Blanco-Recipe1-White-Posole-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Pozole-Blanco-Recipe1-White-Posole-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Pozole-Blanco-Recipe1-White-Posole-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Pozole-Blanco-Recipe1-White-Posole.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Pozole Blanco is a traditional Mexican soup made with pork or chicken and hominy simmered in a white (light colored) homemade broth, delicious and homey.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/pozole-blanco/">Pozole Blanco Recipe (Mexican White Posole)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

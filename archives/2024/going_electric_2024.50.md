@@ -1,11 +1,291 @@
 ---
 title: going electric
-updated: 2024-12-12 07:05:26
+updated: 2024-12-13 07:06:04
 ---
 
 # going electric
 
-(date: 2024-12-12 07:05:26)
+(date: 2024-12-13 07:06:04)
+
+---
+
+## America's Public Fast Chargers Have Doubled Since 2020
+
+date: 2024-12-13, from: Inside EVs News
+
+Yet, electric vehicle sales have grown much faster, leaving a lot to be desired on the charger front. 
+
+<br> 
+
+<https://insideevs.com/news/744336/us-public-fast-chargers-doubled-since-2020/>
+
+---
+
+## Crazy Renault 5 Turbo 3E Is Headed To Production
+
+date: 2024-12-13, from: Inside EVs News
+
+The French are once again turning the craziness dial to 11. Meet the Renault 5 Turbo 3E, a rear-wheel drive super hatch. 
+
+<br> 
+
+<https://insideevs.com/news/744326/renault-5-turbo-3e-production-specs-ev/>
+
+---
+
+## 2025 Toyota BZ4X Gets A Huge Discount And 0% APR
+
+date: 2024-12-13, from: Inside EVs News
+
+The new model year isn’t even on dealer lots yet and Toyota is already offering massive discounts for its sole EV in the U.S. 
+
+<br> 
+
+<https://insideevs.com/news/744283/2025-toyota-bz4x-discount-lease-pricing/>
+
+---
+
+## Nikola bankruptcy looms as hydrogen problems add up, Toyota is everywhere
+
+date: 2024-12-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/sun-setting.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s heavy-duty episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we take a look at Nikola Motors’ troubling finances, reliability problems with their hydrogen semi trucks, and an all-new, all-different electric Toyota cute-ute makes its debut. Will it be enough to take Toyota to the front?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nikola-motors,quick-charge,toyota" data-layer-viewtype="unknown" data-post-id="393497" href="https://electrek.co/2024/12/12/nikola-bankruptcy-looms-as-hydrogen-problems-add-up-toyota-is-everywhere/#more-393497" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/12/nikola-bankruptcy-looms-as-hydrogen-problems-add-up-toyota-is-everywhere/>
+
+---
+
+## Check out the new Genesis Electrified GV70, spotted for the first time ahead of deliveries
+
+date: 2024-12-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/New-Genesis-GV70-EV-side.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Genesis is upgrading its luxury electric SUV with more style, a bigger battery, and a refined interior. It even comes with an NACS port to access Tesla Superchargers. With deliveries coming up, the new<a href="https://electrek.co/guides/genesis-electrified-gv70/"> Genesis Electrified GV70</a> was spotted in public for the first time. Check out the updated EV in the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis,genesis-electrified-gv70" data-layer-viewtype="unknown" data-post-id="393475" href="https://electrek.co/2024/12/12/new-genesis-gv70-ev-spotted-first-time-deliveries/#more-393475" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/12/new-genesis-gv70-ev-spotted-first-time-deliveries/>
+
+---
+
+## Bolt-On Solar Array Might Add Up To 20 Miles Of Range Per Day To Any EV
+
+date: 2024-12-12, from: Inside EVs News
+
+Who said you couldn’t build your own Aptera-like solar EV? 
+
+<br> 
+
+<https://insideevs.com/news/744228/dartsolar-ev-solar-panels-range/>
+
+---
+
+## Toyota is offering $10,000 off 2025 bZ4X EV models before they even hit the lot
+
+date: 2024-12-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Toyota-2024-bZ4X.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota is already offering big savings opportunities on the new version of its electric SUV. The 2025 <a href="https://electrek.co/guides/toyota-bz4x/">Toyota bZ4X </a>is available with a $10,000 discount, and the model has yet to hit dealerships. Here’s how you can snag the deal.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-lease,toyota-bz4x" data-layer-viewtype="unknown" data-post-id="393451" href="https://electrek.co/2024/12/12/toyota-offering-10000-discount-2025-bz4x-models-already/#more-393451" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/12/toyota-offering-10000-discount-2025-bz4x-models-already/>
+
+---
+
+## Rivian powers Michigan’s first federally funded NEVI EV fast charger
+
+date: 2024-12-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Nevi-1-rivian-lansing.jpg?quality=82&#038;strip=all&#038;w=1558" /></div><p>Michigan’s first EV fast charger, funded by the National Electric Vehicle Infrastructure (NEVI) program in partnership with the Rivian Adventure Network, is now live in Lansing. </p>
+
+
+
+<p>Located in the Meijer parking lot at 6200 South Pennsylvania Avenue, the station features six DC fast chargers, including one that’s trailer-friendly.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,ev-charging,ev-charging-stations,michigan,president-biden" data-layer-viewtype="unknown" data-post-id="393370" href="https://electrek.co/2024/12/12/rivian-powers-michigans-first-federally-funded-nevi-ev-fast-charger/#more-393370" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/12/rivian-powers-michigans-first-federally-funded-nevi-ev-fast-charger/>
+
+---
+
+## ALLPOWERS power stations 58% off in Christmas sale with bonus gifts, Holiday e-bike savings from Velotric, Blix, Tenways, more
+
+date: 2024-12-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/ALLPOWERS_Chrismas_Sale.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>As we get deeper into December, it shouldn’t surprise anyone that we are spotting more and more seasonal sales, and today’s Green Deals is bringing you a bunch of holiday savings on backup power and e-mobility options. First, we have <a href="https://9to5toys.com/2024/12/12/allpowers-christmas-sale-from-75/">ALLPOWERS’ Christmas sale</a> that is taking up to 58% off power stations, solar generators, and accessories with additional ways to save and bonus gifts all starting from <a href="https://9to5toys.com/2024/12/12/allpowers-christmas-sale-from-75/">$75</a>. Next, we have three e-bike sales, the first being from <a href="https://9to5toys.com/2024/12/12/velotric-holiday-sale-from-999/">Velotric</a> with up to up to 50% off accessory deals and $500 price cuts on e-bikes, like the <a href="https://9to5toys.com/2024/12/12/velotric-holiday-sale-from-999/">2024 Discover 1 Plus</a> for <a href="https://9to5toys.com/2024/12/12/velotric-holiday-sale-from-999/">$1,149</a>. There’s <a href="https://9to5toys.com/2024/12/12/blix-holiday-savings-1499-vika-x/">Blix’s holiday event</a> that has the new <a href="https://9to5toys.com/2024/12/12/blix-holiday-savings-1499-vika-x/">Vika X Folding e-bike</a> down at <a href="https://9to5toys.com/2024/12/12/blix-holiday-savings-1499-vika-x/">$1,499</a>, as well as up to $706 in savings from <a href="https://9to5toys.com/2024/12/12/tenways-706-christmas-savings-from-1599/">Tenways</a>, with a spotlight on the <a href="https://9to5toys.com/2024/12/12/tenways-706-christmas-savings-from-1599/">AGO X Urban All-Terrain e-bike</a> that has fallen to <a href="https://9to5toys.com/2024/12/12/tenways-706-christmas-savings-from-1599/">$2,199</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2024/12/10/mod-easy-3-e-bike-new-2159-low-holiday-sale/">new low MOD e-bike</a> holiday pricing, <a href="https://9to5toys.com/2024/12/11/samsung-bespoke-ai-combo-1999/">Samsung’s AI Combo</a> savings, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="393429" href="https://electrek.co/2024/12/12/allpowers-power-stations-58-off-in-christmas-sale-with-bonus-gifts-holiday-e-bike-savings-from-velotric-blix-tenways-more/#more-393429" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/12/allpowers-power-stations-58-off-in-christmas-sale-with-bonus-gifts-holiday-e-bike-savings-from-velotric-blix-tenways-more/>
+
+---
+
+## Why We Got Our Tesla Cybertruck Testers From Turo, Not Tesla
+
+date: 2024-12-12, from: Inside EVs News
+
+Tesla doesn't operate like other automakers. That makes testing one a bit more complicated. 
+
+<br> 
+
+<https://insideevs.com/news/744232/tesla-cybertruck-press-cars/>
+
+---
+
+## Toyota invests another nearly $1 billion in Kentucky to prep for its first 3-row electric SUV
+
+date: 2024-12-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Toyota-Land-Cruiser-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With another nearly $1 billion in funding for its Kentucky plant, <a href="https://electrek.co/guides/toyota/">Toyota</a> is gearing up to build its first three-row electric SUV in the US. However, it will not arrive as soon as planned. Here’s when you can expect to see it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="393391" href="https://electrek.co/2024/12/12/toyota-injects-another-nearly-1-billion-prep-first-3-row-ev-suv/#more-393391" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/12/toyota-injects-another-nearly-1-billion-prep-first-3-row-ev-suv/>
+
+---
+
+## Nikola (NKLA) confirms more layoffs as it desperately tries to avoid bankruptcy
+
+date: 2024-12-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Nikola-Q1-2024-BEV.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Nikola (NKLA) has confirmed another round of layoffs as it finds itself in an impressive financial mess. The hydrogen-battery electric truck manufacturer is launching a few last-ditch efforts to avoid bankruptcy.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nikola-corporation" data-layer-viewtype="unknown" data-post-id="393414" href="https://electrek.co/2024/12/12/nikola-nkla-confirms-more-layoffs-as-it-desperately-tries-to-avoid-bankruptcy/#more-393414" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/12/nikola-nkla-confirms-more-layoffs-as-it-desperately-tries-to-avoid-bankruptcy/>
+
+---
+
+## Callum’s New EV Is A $100,000+ Lightweight Buggy And Sports Car Mix
+
+date: 2024-12-12, from: Inside EVs News
+
+The upcoming battery-powered 2+2 has been designed to appeal to Americans living on the West Coast. 
+
+<br> 
+
+<https://insideevs.com/news/744084/callum-skye-lightweight-buggy-ev/>
+
+---
+
+## Mercedes-AMG’s first super electric SUV looks sharp on public roads
+
+date: 2024-12-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Merecedes-AMG-first-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/mercedes-amg/">Mercedes-AMG</a> is launching its first super electric SUV, separate from Mercedes. With its official debut just around the corner, we are finally getting our first look at the sleek. The all-electric performance SUV is now officially testing on public roads. Here’s a sneak peek at the upcoming performance SUV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes,mercedes-amg,mercedes-benz" data-layer-viewtype="unknown" data-post-id="393396" href="https://electrek.co/2024/12/12/mercedes-amg-teases-first-super-electric-suv-it-looks-sharp/#more-393396" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/12/mercedes-amg-teases-first-super-electric-suv-it-looks-sharp/>
+
+---
+
+## RollAway opens bookings for 270+ mile range ‘Suite on Wheels’ built from a BrightDrop electric van [Video]
+
+date: 2024-12-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/RollAway-van-kitchen-view.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Silicon Valley startup RollAway is offering a novel idea that rethinks the traditional lodging experience. RollAway has unveiled its first generation “Suite on Wheels” – a boutique sleeper rental built from a <a href="https://electrek.co/guides/brightdrop/">BrightDrop</a> electric van. The Suites on Wheels are available to reserve and test out now, giving customers the freedom to explore sustainably, park, and lodge in whatever location they’d like.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-rv,electric-van,rollaway,starlink" data-layer-viewtype="unknown" data-post-id="393385" href="https://electrek.co/2024/12/12/rollaway-opens-bookings-270-mile-range-suite-on-wheels-brightdrop-electric-van/#more-393385" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/12/rollaway-opens-bookings-270-mile-range-suite-on-wheels-brightdrop-electric-van/>
+
+---
+
+## Global EV Survey: 92% Of EV Drivers Won’t Return To  Gas Cars
+
+date: 2024-12-12, from: Inside EVs News
+
+Switching to an electric car apparently ruins combustion cars for the vast majority of owners. 
+
+<br> 
+
+<https://insideevs.com/news/744035/ev-owners-survey-global/>
+
+---
+
+## Tesla Cybertruck spotted at BYD facility, getting reverse-engineered?
+
+date: 2024-12-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Screenshot-2024-12-12-at-10.58.09 AM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A Tesla Cybertruck Foundation Series has been spotted at a BYD facility in China. Is it getting reverse-engineered?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="393382" href="https://electrek.co/2024/12/12/tesla-cybertruck-spotted-at-byd-facility-getting-reverse-engineered/#more-393382" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/12/tesla-cybertruck-spotted-at-byd-facility-getting-reverse-engineered/>
+
+---
+
+## Electric BMW M3 Shows Its Camouflaged Face For The First Time
+
+date: 2024-12-12, from: Inside EVs News
+
+It promises to deliver exhilarating performance thanks to a quad-motor layout when it arrives in 2027, but its looks may be polarizing. 
+
+<br> 
+
+<https://insideevs.com/news/744184/bmw-electric-m3-teaser/>
+
+---
+
+## Toyota finally unveils its new electric SUV: Meet the Urban Cruiser EV
+
+date: 2024-12-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Toyota-Urban-Cruiser-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/toyota/">Toyota</a> is finally launching another electric SUV. Say hello to the Toyota Urban Cruiser EV, unveiled on Thursday. Check out the first images below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="393358" href="https://electrek.co/2024/12/12/toyota-unveils-new-electric-suv-meet-urban-cruiser-ev/#more-393358" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/12/toyota-unveils-new-electric-suv-meet-urban-cruiser-ev/>
 
 ---
 
@@ -254,6 +534,22 @@ date: 2024-12-11, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2024/12/11/honda-prologue-deals-get-even-better-0-apr-6000-off/>
+
+---
+
+## Honda Prologue SUV is now even more affordable with 0% APR and up to $6,000 off
+
+date: 2024-12-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Honda-Prologue-lease-Civic.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Honda just made the Prologue even more attractive with massive deals to close out the year. For the first time, you can buy the <a href="https://electrek.co/guides/honda-prologue/">electric Prologue SUV</a> with 0% APR and up to $6,000 in savings.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda-prologue" data-layer-viewtype="unknown" data-post-id="393228" href="https://electrek.co/2024/12/11/honda-prologue-now-even-cheaper-with-0-apr-6000-off/#more-393228" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/11/honda-prologue-now-even-cheaper-with-0-apr-6000-off/>
 
 ---
 

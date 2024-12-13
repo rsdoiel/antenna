@@ -1,11 +1,176 @@
 ---
 title: socal north
-updated: 2024-12-12 07:05:23
+updated: 2024-12-13 07:06:00
 ---
 
 # socal north
 
-(date: 2024-12-12 07:05:23)
+(date: 2024-12-13 07:06:00)
+
+---
+
+## Some sunshine before more stormy weather returns over the weekend
+
+date: 2024-12-13, updated: 2024-12-13, from: The LAist
+
+There's a chance of rain Saturday for parts of the Southland. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/some-sunshine-before-more-stormy-weather-returns-over-the-weekend>
+
+---
+
+## Love eggnog? We tried some of the best in LA
+
+date: 2024-12-13, updated: 2024-12-13, from: The LAist
+
+We dive headfirst into a vat of the creamy good stuff. 
+
+<br> 
+
+<https://laist.com/news/food/eggnog-best-in-la>
+
+---
+
+## Love All-You-Can-Eat Korean BBQ? It’s time to honor Choeng Wun Buffet’s history
+
+date: 2024-12-13, updated: 2024-12-13, from: The LAist
+
+Open since 1985, this Melrose Hill establishment and its family have been pivotal to shaping Korean Angeleno culture. 
+
+<br> 
+
+<https://laist.com/news/food/love-all-you-can-eat-korean-bbq-its-time-to-honor-choeng-wun-buffets-history>
+
+---
+
+## UCLA police chief out one month after scathing audit
+
+date: 2024-12-13, updated: 2024-12-13, from: The LAist
+
+UCLA has come under intense criticism for its handling of spring protests related to the war in Gaza. 
+
+<br> 
+
+<https://laist.com/news/education/ucla-police-chief-john-thomas-gone>
+
+---
+
+## LA County Probation vows to keep Los Padrinos Juvenile Hall open despite state order to shut down
+
+date: 2024-12-13, updated: 2024-12-13, from: The LAist
+
+The Probation Department says it is asking the Board of State and Community Corrections to rescind findings that the facility is "unsuitable" to house youths. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/la-county-probation-keeps-los-padrinos-juvenile-hall-open>
+
+---
+
+## Celebrating the Feast Day of Our Lady of Guadalupe
+
+date: 2024-12-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>During the pre-dawn hours of Dec. 12, people around the world began celebrating the feast day of Our Lady of Guadalupe. Devotees flocked to church services, placing flowers beneath her [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/12/celebrating-the-feast-day-of-our-lady-of-guadalupe/">Celebrating the Feast Day of Our Lady of Guadalupe</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/12/celebrating-the-feast-day-of-our-lady-of-guadalupe/>
+
+---
+
+## Two cats in LA County are suspected of dying from bird flu
+
+date: 2024-12-12, updated: 2024-12-12, from: The LAist
+
+The are suspected of having contracted bird flu after consuming recently recalled raw milk, public health officials said. 
+
+<br> 
+
+<https://laist.com/news/health/la-county-cats-bird-flu-cases>
+
+---
+
+## Orcas are hunting whale sharks off Baja. Is there anything they can't take down?
+
+date: 2024-12-12, updated: 2024-12-12, from: The LAist
+
+New research shows tactics used by killer whales to take down their prey. 
+
+<br> 
+
+<https://laist.com/news/orcas-are-hunting-whale-sharks-off-baja>
+
+---
+
+## Suspected Bird Flu Detected in Cats That Consumed Recalled Raw Milk in LA County
+
+date: 2024-12-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Cat-1.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Cat-1.jpg?w=1440&amp;ssl=1 1440w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Cat-1.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Cat-1.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Cat-1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Cat-1.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Cat-1.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Cat-1.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Cat-1.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Cat-1.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Cat-1.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Cat-1.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; Public health officials said today they are investigating two possible cases of H5 bird flu in cats that ingested recalled raw milk in Los Angeles County. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/12/suspected-bird-flu-detected-in-cats-that-consumed-recalled-raw-milk-in-la-county/">Suspected Bird Flu Detected in Cats That Consumed Recalled Raw Milk in LA County</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/12/suspected-bird-flu-detected-in-cats-that-consumed-recalled-raw-milk-in-la-county/>
+
+---
+
+## Reported Hate Crimes Rise to Highest Level in 43 Years in LA County
+
+date: 2024-12-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1002" height="739" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EB33B0C1-8827-4D41-826D-9D298CA2A1A1.jpeg?fit=1002%2C739&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EB33B0C1-8827-4D41-826D-9D298CA2A1A1.jpeg?w=1002&amp;ssl=1 1002w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EB33B0C1-8827-4D41-826D-9D298CA2A1A1.jpeg?resize=300%2C221&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EB33B0C1-8827-4D41-826D-9D298CA2A1A1.jpeg?resize=768%2C566&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EB33B0C1-8827-4D41-826D-9D298CA2A1A1.jpeg?resize=400%2C295&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EB33B0C1-8827-4D41-826D-9D298CA2A1A1.jpeg?resize=706%2C521&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EB33B0C1-8827-4D41-826D-9D298CA2A1A1.jpeg?fit=1002%2C739&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; Reported hate crimes in Los Angeles County rose to their highest level in 43 years in 2023, jumping 45% from the previous year, according to a [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/12/reported-hate-crimes-rise-to-highest-level-in-43-years-in-la-county/">Reported Hate Crimes Rise to Highest Level in 43 Years in LA County</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/12/reported-hate-crimes-rise-to-highest-level-in-43-years-in-la-county/>
+
+---
+
+## California awarded $135 million for electric buses, trucks
+
+date: 2024-12-12, updated: 2024-12-12, from: The LAist
+
+The Biden administration is awarding Inflation Reduction Act money to help clean the air before President-elect Donald Trump takes over. 
+
+<br> 
+
+<https://laist.com/news/california-awarded-135-million-for-electric-buses-trucks>
+
+---
+
+## Phew! Outdoor dining in LA gets another extension
+
+date: 2024-12-12, updated: 2024-12-12, from: The LAist
+
+Many L.A. diners want outdoor restaurant seating to stick around forever. 
+
+<br> 
+
+<https://laist.com/news/food/outdoor-dining-in-la-gets-another-extension>
+
+---
+
+## The Geminids meteor shower peaks this week. Here's what to expect
+
+date: 2024-12-12, updated: 2024-12-12, from: The LAist
+
+The Geminids are one of the best and most visible annual meteor showers, when at least 120 meteors can usually be seen per hour. But 2024 will be different, thanks to the year's final full moon. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/geminids-meteor-shower-peaks>
 
 ---
 
@@ -49,7 +214,7 @@ Forecasters say a slight chance of rain on Saturday for parts of L.A. County.
 
 date: 2024-12-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="576" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=2000%2C1125&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="576" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=2000%2C1125&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_0637_elsol.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Esta es la Parte 1 de una serie El Dr. Mohammed Abdel Fattah se mantuvo firme frente al Hospital del Buen Samaritano con un grupo de colegas, que piden “medidas [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/12/11/ni-otro-nino-ni-otro-hospital-dicen-los-doctores-locales/">&#8220;Ni Otro Niño, ni Otro Hospital&#8221;, Dicen los Doctores Locales</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -445,11 +610,11 @@ A red flag warning for the Inland Empire, Orange county last until Wednesday mor
 
 ---
 
-## Franklin Fire in Malibu grows to more than 4,000 acres, 15 structures damaged or destroyed
+## Containment of Franklin Fire in Malibu grows, 23 structures damaged or destroyed
 
-date: 2024-12-10, updated: 2024-12-12, from: The LAist
+date: 2024-12-10, updated: 2024-12-13, from: The LAist
 
-The Franklin Fire in Malibu Canyon grew by nearly 40% overnight Wednesday, but the red flag conditions have passed. 
+Crews have been making steady progress on the Franklin Fire in Malibu Canyon since the red flag conditions subsided. 
 
 <br> 
 

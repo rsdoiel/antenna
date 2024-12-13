@@ -1,11 +1,94 @@
 ---
 title: writing
-updated: 2024-12-12 07:05:25
+updated: 2024-12-13 07:06:01
 ---
 
 # writing
 
-(date: 2024-12-12 07:05:25)
+(date: 2024-12-13 07:06:01)
+
+---
+
+## Uncanny, Nightmare and Apex: Short Fiction Reviews by Paula Guran
+
+date: 2024-12-12, from: Locus Magazine
+
+<p>Uncanny 9-10/24
+Nightmare 10/24
+Apex #146</p>
+<p>I found three stories in Uncanny’s 60th issue to be standouts. “<strong>The 6% Squeeze</strong>” by <strong>Eddie Robson </strong>will appeal to anyone who has ever designed for a corporation with a strict “bible” or even anyone who has experienced such a corporation’s need for a scapegoat. <strong>Tananarive Due</strong>’s engaging “<strong>A Stranger Knocks</strong>” is set in 1926 Washington, DC, where newlyweds  <a href="https://locusmag.com/2024/12/uncanny-nightmare-and-apex-short-fiction-reviews-by-paula-guran/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/uncanny-nightmare-and-apex-short-fiction-reviews-by-paula-guran/>
+
+---
+
+## Per-Screen Average
+
+date: 2024-12-12, from: Interesting, a blog on writing
+
+Buzz on the streets, but questions in the spreadsheets. 
+
+<br> 
+
+<https://inneresting.substack.com/p/per-screen-average>
+
+---
+
+## The Best American Science Fiction and Fantasy 2024 by Hugh Howey & John Joseph Adams, eds.: Review by Gary K. Wolfe
+
+date: 2024-12-12, from: Locus Magazine
+
+<p><strong>The Best American Science Fiction and Fantasy 2024, </strong>Hugh Howey &#38; John Joseph Adams, eds. (Mariner 978-0063315785, $18.99, 384pp, tp) October 2024.</p>
+<p>There are a lot of different ways of assembling an anthology, but none seem quite so programmatic as John Joseph Adams’s <strong>The Best American Sci­ence Fiction and Fantasy </strong>series, now in its tenth year. Adams describes his methodology with admirable clarity: As series editor, he compiles a list  <a href="https://locusmag.com/2024/12/the-best-american-science-fiction-and-fantasy-2024-by-hugh-howey-john-joseph-adams-eds-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/the-best-american-science-fiction-and-fantasy-2024-by-hugh-howey-john-joseph-adams-eds-review-by-gary-k-wolfe/>
+
+---
+
+## Write On: 'The Bikeriders' Writer and Director Jeff Nichols
+
+date: 2024-12-12, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-the-bikeriders-writer/director-jeff-nichols" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Jeff%20Nichols%20%281%29.png" alt="Write On Podcast Logo: Image of a phone with headphones around it featuring the movie poster for 'The Bikeriders'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<div>
+  “You’re reading these interviews [in the book 
+ <em>The Bikeriders</em> by Danny Lyon] and they’re all interesting, but Kathy’s are just fascinating. You could just tell she was a character, meaning she was just this interesting, dynamic person, a person that was trying to figure out how she found herself in this world because she really talks about walking into this bar and meeting this charismatic young bike rider. And so, it was a really beneficial crutch for me to kind of get into this world. And then before you know it, by the middle of the script, I’m writing words for Kathy that never existed. It didn’t hurt that, in my research, I reached out to Danny and he turned over hours and hours of recordings. I would drive around town just listening to Kathy talk. I mean, I had this woman in my head and I felt pretty confident midway through the script that I could write in her voice. It just gave this perspective to a very masculine, aggressive subculture. It gave this feminine point of view, but to me it was just a really interesting point of view,” says writer/director Jeff Nichols about writing the character Kathy, played by Jodie Comer, in his film 
+ <em>The Bikeriders</em>.&nbsp; 
+ <br> 
+ <br>In this episode of the podcast, we speak to Jeff Nichols about his departure from Southern Gothic storytelling and going deep into the world of a 1960s motorcycle club for 
+ <em>The Bikeriders</em>, starring Austin Butler and Tom Hardy. We also discuss some of his other films like 
+ <em>Loving, Take Shelter</em> and 
+ <em>Mud</em>, starring Matthew McConaughey – a film Nichols thought would never get released.&nbsp; 
+ <br> 
+ <br>“I thought 
+ <em>Mud</em> was a failure. We had taken 
+ <em>Mud</em> to the Cannes Film Festival, and although we had a really nice reception there, you know, standing ovations and whatnot – no one bought the film. And we went an entire year with no one buying that film. In fact, no one ever did buy that film. The financier put up half the money to market and distribute that film and luckily, Roadside Attractions came in and put up the other half and then it became the film that everybody knows,” says Nichols.&nbsp; 
+ <br> 
+ <br>To hear more about Nichols’s writing process, and his advice for building stories around “emotional impact,” listen to the podcast.&nbsp; 
+ <br> 
+ <br> 
+</div> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-the-bikeriders-writer/director-jeff-nichols>
 
 ---
 
@@ -135,7 +218,7 @@ date: 2024-12-10, from: Locus Magazine
 
 ---
 
-## ASFS Announces Stance on Ekpeki and New Code of Conduct
+## ASFS Statement on Ekpeki and New Code of Conduct
 
 date: 2024-12-10, from: Locus Magazine
 

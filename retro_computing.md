@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2024-12-12 07:05:26
+updated: 2024-12-13 07:06:03
 ---
 
 # retro computing
 
-(date: 2024-12-12 07:05:26)
+(date: 2024-12-13 07:06:03)
+
+---
+
+## RISC OS 'Advent' Calendar 2024 - RISCOSbits
+
+date: 2024-12-13, from: Icon Bar, RISC OS News
+
+Many thanks to RISCOSbits for some more festive fun and some good xmas news for FAST users (It's not too late to send us yours). 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2136.html>
+
+---
+
+## AlmaLinux 10.0 Beta Released
+
+date: 2024-12-12, from: Linux Magazine
+
+<p>The AlmaLinux OS Foundation has announced the availability of AlmaLinux 10.0 Beta (&quot;Purple Lion&quot;) for all supported devices with significant changes.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/AlmaLinux-10.0-Beta-Released>
 
 ---
 

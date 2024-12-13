@@ -1,11 +1,371 @@
 ---
 title: science and technology
-updated: 2024-12-12 07:05:24
+updated: 2024-12-13 07:06:00
 ---
 
 # science and technology
 
-(date: 2024-12-12 07:05:24)
+(date: 2024-12-13 07:06:00)
+
+---
+
+## Two Orphaned Siberian Tigers Reunite as Mates After a 120-Mile Trek Through Russian Wilderness
+
+date: 2024-12-13, from: Smithsonian Magazine
+
+Conservationists hope the love story between Boris and Svetlaya might indicate a new, successful chapter in tiger repopulation efforts 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/two-orphaned-siberian-tigers-reunite-as-mates-after-one-trekked-120-miles-through-russian-wilderness-180985660/>
+
+---
+
+## Intel execs discuss the possibility of spinning off foundry
+
+date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
+
+<h4>&#39;Does it ever fully separate? I think that&#39;s an open question for another day,&#39; interim co-CEO says</h4> <p>Intel&#39;s interim co-CEOs, David Zinsner and Michelle Johnson Holthaus, discussed the possibility of fully spinning off its foundry business while speaking at the Barclays investment banking conference on Thursday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/13/intel_foundry_spinoff/>
+
+---
+
+## systemd begrudgingly drops a safety net while a challenger appears, GNU Shepherd 1.0
+
+date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
+
+<h4>Holidays come early for distro builders with two init systems to choose from</h4> <p>Everyone&#39;s favorite Linux component has hit a milestone, while a fresh contender comes of age – with a touch of Lisp.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/>
+
+---
+
+## Hubble Images a Grand Spiral
+
+date: 2024-12-13, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image features the glorious spiral galaxy NGC 5643, which is located roughly 40 million light-years away in the constellation Lupus, the Wolf. NGC 5643 is a grand design spiral, which refers to the galaxy’s symmetrical form with two large, winding spiral arms that are clearly visible. Bright-blue stars define the […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/>
+
+---
+
+## 2024 according to Cloudflare: Global traffic up, Google still king, US churning out bots
+
+date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
+
+<h4>Same old same old really</h4> <p>Cloudflare says that global internet traffic grew by 17.2 percent this year, with Google still the most visited internet service, while the US was the source of over a third of global bot traffic (again).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/13/cloudflare_2024_review/>
+
+---
+
+## In 1577, an English Explorer Set Out to Circumnavigate the World. Here's What His Groundbreaking Journey Accomplished
+
+date: 2024-12-13, from: Smithsonian Magazine
+
+Francis Drake's successful voyage included British sailors' arrival in California and the plundering of a glut of Spanish riches that sustained Elizabeth I's empire 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/in-1577-an-english-explorer-set-out-to-circumnavigate-the-world-heres-what-his-groundbreaking-journey-accomplished-180985574/>
+
+---
+
+## Backup failed, but the boss didn't slam IT – because his son was to blame
+
+date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
+
+<h4>ISP deserves criticism too for falling over after script kiddie beefing</h4> <p><strong>On Call</strong>  The silly season is close, but not so close that <em>The Register</em> can&#39;t find another instalment of On Call, the Friday feature in which <em>Reg</em> readers share tales of tech support triumphs achieved under uncomfortable circumstances.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/13/on_call/>
+
+---
+
+## Broadcom says VMware is a better money-making machine than it hoped
+
+date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
+
+<h4>Chip side of the biz expects to take lion&#39;s share of hyperscalers&#39; $60-90 billion XPU spend in 2027, helped by 3nm models coming next year</h4> <p>Broadcom has told investors its integration of VMware is all but done, ahead of schedule, and that it has turned the virtualization giant into an even more prolific money machine than it hoped it would be possible.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/13/broadcom_q4_fy_2024_vmware/>
+
+---
+
+## Astroscale orbital janitor gets within 15 meters of space junk
+
+date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
+
+<h4>Couldn&#39;t reach out and touch it, but still happy as this attempt was out of mission scope</h4> <p>Japanese orbital janitor Astroscale says it has completed the closest ever approach by a commercial operator to space junk when it came within 15 meters of a defunct upper stage rocket.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/13/astroscale_15m_space_junk/>
+
+---
+
+## North Korea's fake IT worker scam hauled in at least $88 million over six years
+
+date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
+
+<h4>DoJ thinks it&#39;s found the folks that ran it, and some of the &#39;IT warriors&#39; sent out to fleece employers</h4> <p>North Korea&#39;s fake IT worker scams netted the hermit kingdom $88 million over six years, according to the US Department of Justice, which thinks it&#39;s found the people who run them.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/13/doj_dpkr_fake_tech_worker_indictment/>
+
+---
+
+## American cops are using AI to draft police reports, and the ACLU isn't happy
+
+date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
+
+<h4>Do we really need to explain why this is a problem?</h4> <p><strong>COMMENT</strong>  AI use by law enforcement to identify suspects is already problematic enough, but civil liberties groups have a new problem to worry about: the technology being employed to draft police reports.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/12/aclu_ai_police_report/>
+
+---
+
+## See How Michelangelo, Leonardo and Raphael Entered and Exited Each Other's Worlds
+
+date: 2024-12-12, from: Smithsonian Magazine
+
+A new exhibition in London examines the relationship between the three Italian Renaissance artists, who came together in Florence in 1504 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-how-michelangelo-leonardo-and-raphael-entered-and-exited-each-others-worlds-180985624/>
+
+---
+
+## Astronomers Detect the Smallest Main Belt Asteroids Ever Found by Repurposing a Technique for Exoplanet Discovery
+
+date: 2024-12-12, from: Smithsonian Magazine
+
+An unusual approach to spotting tiny asteroids uses James Webb Space Telescope data in a boost for planetary defense research 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/astronomers-detect-the-smallest-main-belt-asteroids-ever-found-by-repurposing-a-technique-for-exoplanet-discovery-180985659/>
+
+---
+
+## A Rare Coin Depicting Brutus, Caesar's Infamous Assassin, Sells for $2 Million
+
+date: 2024-12-12, from: Smithsonian Magazine
+
+Following the murder in 44 B.C.E., Brutus minted the gold aureus to promote his own image and celebrate his military victories 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-rare-coin-depicting-brutus-caesars-infamous-assassin-sells-for-2-million-180985623/>
+
+---
+
+## FCC throws open 6 GHz band to unlicensed low-power gizmos
+
+date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
+
+<h4>Good news for techies pushing &#39;education, healthcare, and entertainment&#39; gadgets in the US</h4> <p>America&#39;s telecoms regulator has opened up the entire 6 GHz frequency band to very low-power devices, alongside other unlicensed applications such as Wi-Fi kit.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/12/fcc_6ghz_band/>
+
+---
+
+## Hubble Captures an Edge-On Spiral with Curve Appeal
+
+date: 2024-12-12, from: NASA breaking news
+
+This NASA/ESA&#160;Hubble Space Telescope&#160;image features a spiral galaxy, named UGC 10043. We don’t see the galaxy’s spiral arms because we are seeing it from the side. Located roughly 150 million light-years from Earth in the constellation Serpens, UGC 10043 is one of the somewhat rare spiral galaxies that we see edge-on. This edge-on viewpoint makes [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hubble-captures-an-edge-on-spiral-with-curve-appeal/>
+
+---
+
+## NASA Kennedy Top 24 Stories of 2024
+
+date: 2024-12-12, from: NASA breaking news
+
+From sending crew members to the International Space Station to launching a spacecraft to Jupiter’s icy moon Europa to determine if it could support life, 2024 was a busy record setting year for NASA and its partners at Kennedy Space Center in Florida. JANUARYFirst Lunar Lander Takes Flight The first flight of NASA’s CLPS (Commercial [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/>
+
+---
+
+## Google Reveals New A.I. Model That Predicts Weather Better Than the Best Traditional Forecasts
+
+date: 2024-12-12, from: Smithsonian Magazine
+
+Instead of crunching mathematical calculations, GenCast was trained on four decades of historical weather data to produce an array of 15-day forecasts 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/google-reveals-new-ai-model-that-predicts-weather-better-than-the-best-traditional-forecasts-180985608/>
+
+---
+
+## Cruise shutdown blastzone increases – Microsoft takes $800M charge
+
+date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
+
+<h4>General Motors pulling the plug on autonomous taxi biz hits Redmond in the wallet</h4> <p>Microsoft is among those in the blast radius of General Motors&#39; decision to wind up its autonomous taxi business, Cruise.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/12/microsoft_to_take_an_800m/>
+
+---
+
+## Humpback Whale Makes Record-Breaking 8,000-Mile Migration Across Three Oceans, but the Reason Is Still a Mystery
+
+date: 2024-12-12, from: Smithsonian Magazine
+
+Biologists say mating, climate change or simply being confused might have driven the creature to swim great distances, between Colombia and Zanzibar 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/humpback-whale-makes-record-breaking-8000-mile-migration-across-three-oceans-but-the-reason-is-still-a-mystery-180985652/>
+
+---
+
+## NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
+
+date: 2024-12-12, from: NASA breaking news
+
+The road ahead will be even more scientifically intriguing, and probably somewhat easier-going, now that the six-wheeler has completed its long climb to the top. NASA’s Perseverance Mars rover has crested the top of Jezero Crater’s rim at a location the science team calls “Lookout Hill” and rolling toward its first science stop after the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/>
+
+---
+
+## 2024 NESC Technical Update
+
+date: 2024-12-12, from: NASA breaking news
+
+Annual Report of NESC Technical Activities On behalf of the NASA Engineering and Safety Center (NESC), I am pleased to provide you with the&#160;2024 NESC Technical Update. This annual report summarizes the technical work, engineering advancements, and knowledge capture efforts we made in FY24. With support provided by members of our NASA community from across [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/nesc/2024-nesc-technical-update/>
+
+---
+
+## NASA Gives The World a Brake
+
+date: 2024-12-12, from: NASA breaking news
+
+Just as NASA needs to reduce mass on a spacecraft so it can escape Earth’s gravity, automotive manufacturers work to reduce weight to improve vehicle performance. In the case of brake rotors, lighter is better for a vehicle’s acceleration, reliable stopping, and even gas mileage. Orbis Brakes Inc. licensed a NASA-patented technology to accomplish that [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-gives-the-world-a-brake/>
+
+---
+
+## Key Considerations When Developing Avionics for Safety-Critical Systems
+
+date: 2024-12-12, from: NASA breaking news
+
+This article is from the 2024 Technical Update. Multiple human spaceflight programs are underway at NASA including Orion, Space Launch System, Gateway, Human Landing System, and EVA and Lunar Surface Mobility programs. Achieving success in these programs requires NASA to collaborate with a variety of commercial partners, including both new spaceflight companies and robotic spaceflight [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/nesc/key-considerations-when-developing-avionics-for-safety-critical-systems/>
+
+---
+
+## 6DOF Check Cases
+
+date: 2024-12-12, from: NASA breaking news
+
+This article is from the 2024 Technical Update. In 2015, the NESC released benchmark Earth-based check-cases for well specified, rigid-body, six-degree-of-freedom (6DOF) aero/spacecraft models to promote consistent and accurate flight simulations across multiple Agency tools and facilities. Recently, the NESC expanded upon that effort to add Lunar-based check-cases to support new lunar exploration initiatives. This [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/nesc/6dof-check-cases/>
+
+---
+
+## Sols 4391-4392: Rounding the Bend
+
+date: 2024-12-12, from: NASA breaking news
+
+Earth planning date: Wednesday, Dec. 11, 2024 For planning today, we have a beautiful view of the northern tip of Texoli, as seen in the image foreground. Unfortunately, the rocks that make the view so pretty also made it unsafe to unstow the arm for contact science. Instead we are doing a lot of imaging […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4391-4392-rounding-the-bend/>
+
+---
+
+## Helium Conservation by Diffusion Limited Purging of Liquid Hydrogen Tanks
+
+date: 2024-12-12, from: NASA breaking news
+
+This article is from the 2024 Technical Update. The NASA Engineering and Safety Center (NESC) has developed an analytical model that predicts diffusion between two gases during piston purging of liquid hydrogen (LH2) tanks. This model helps explain dramatic helium savings seen in a recent Kennedy Space Center (KSC) purge, shows that undesired turbulent mixing [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/helium-conservation-by-diffusion-limited-purging-of-liquid-hydrogen-tanks/>
+
+---
+
+## See Winston Churchill Through the Eyes of the Political Cartoonists He Inspired
+
+date: 2024-12-12, from: Smithsonian Magazine
+
+A new exhibition at London’s Imperial War Museum brings together political cartoons from around the world that celebrate and satirize the wartime prime minister 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-winston-churchill-through-the-eyes-of-the-political-cartoonists-he-inspired-180985640/>
+
+---
+
+## Google thinks the grid can't support AI, so it's spending on solar for future datacenters
+
+date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
+
+<h4>Deal with Intersect Power will see gigawatts of compute capacity come online</h4> <p>Google believes the US electricity grid can&#39;t deliver the energy needed to power datacenters that deliver AI services, so has formed an alliance to build industrial parks powered by clean energy, at which it will build &#34;gigawatts of datacenter capacity&#34; across the nation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/12/google_solar_energy_datacenter/>
+
+---
+
+## Support my attempt to find out if you can do NFC tap-to-pay without big tech
+
+date: 2024-12-12, from: OS News
+
+I&#8217;ve been dropping a lot of hints about my journey to rid myself of Google&#8217;s Android on my Pixel 8 Pro lately, a quest which grew in scope until it covered everything from moving to GrapheneOS to dropping Gmail, from moving to open source &#8220;stock&#8221; Android application replacements to reconsidering my use of Google Photos, from dropping my dependency on Google Keep to setting up Home Assistant, and much, much more. You get the idea: this has turned into a very complex process where I evaluated my every remaining use of big tech, replacing them with alternatives where possible, leaving only a few cases where I&#8217;m sticking with what I was using. And yes, this whole process will turn into an article detailing my quest, because I think recent events have made remocing big tech from your life a lot more important than it already was. Anyway, one of the few things I couldn&#8217;t find an alternative for was Google Pay&#8217;s tap-to-pay functionality in stores. I don&#8217;t like using cash &#8211; I haven&#8217;t held paper money in my hands in like 15 years &#8211; and I&#8217;d rather keep my bank cards, credit card, and other important documents at home instead of carrying them around and losing them (or worse). As such, I had completely embraced the tap-to-pay lifestyle, with my phone and my Pixel Watch II. Sadly, Google Pay tap-to-pay NFC payments are simply not possible on GrapheneOS (or other de-Googled ROMS, for that matter), because of Google&#8217;s stringent certification requirements. Some banks do offer NFC payments through their own applications, but mine does not. I thought this is where the story ended, but as it turns out, there is actually a way to get tap-to-pay NFC payments in stores back: Garmin Pay. Garmin offers this functionality on a number of its watches, and it pretty much works wherever Google Pay or Apple Pay is accepted, too. And best of all: it works just fine on de-Googled Android ROMs. Peope have been asking me to check this out and make it part of my quest, and ever the people-pleaser, I would love to oblige. Sadly, it does require owning a supported Garmin watch, which I don&#8217;t have. To guage interest in me testing this, I&#8217;ve set up a Ko-Fi goal of €400 you can contribute to. Obviously, this is by no means a must, but if you&#8217;re interested in finding out if you can ditch big tech, but keep enjoying the convenience of tap-to-pay NFC payments &#8211; this is your chance. 
+
+<br> 
+
+<https://www.osnews.com/story/141327/support-my-attempts-to-find-out-if-you-can-do-nfc-tap-to-pay-without-big-tech/>
 
 ---
 
@@ -13,7 +373,7 @@ updated: 2024-12-12 07:05:24
 
 date: 2024-12-12, from: OS News
 
-With its latest reales qemu added the Venus patches so that virtio-gpu now support venus encapsulation for vulkan. This is one more piece to the puzzle towards full Vulkan support. An outdated blog post on&#160;clollabora&#160;described in 2021 how to enable 3D acceleration of Vulkan applications in QEMU through the Venus experimental Vulkan driver for VirtIO-GPU with a local development environment. Following up on the outdated write up, this is how its done today. ↫ Pepper Gray A major milestone, and for the adventurous, you can get it working today. Give it a few more months, and many of the versions required will be part of your ditribution&#8217;s package repositories, making the process a bit easier. On a related note, Linux kernel developers are considering removing 32-bit x86 KVM host support for all architectures that support it &#8211; PowerPC, MIPS, RISC-V, and x86-64 &#8211; because nobody is using this functionality. This support was dropped from 32bit ARM a few years ago, and the remaining architectures mentioned abovw have orders of magnitude fewer users still. If nobody is using this functionality, it really makes no sense to keep it around, and as such, the calls to remove it. In other words, if your custom workflow of opening your garage door through your fridge light&#8217;s flicker frequency and the alignment of the planets and custom scripts on a Raspberry Pi 2 requires this support, let the kernel developers know, or forever hold your peace. 
+With its latest reales qemu added the Venus patches so that virtio-gpu now support venus encapsulation for vulkan. This is one more piece to the puzzle towards full Vulkan support. An outdated blog post on&#160;clollabora&#160;described in 2021 how to enable 3D acceleration of Vulkan applications in QEMU through the Venus experimental Vulkan driver for VirtIO-GPU with a local development environment. Following up on the outdated write up, this is how its done today. ↫ Pepper Gray A major milestone, and for the adventurous, you can get it working today. Give it a few more months, and many of the versions required will be part of your ditribution&#8217;s package repositories, making the process a bit easier. On a related note, Linux kernel developers are considering removing 32-bit x86 KVM host support for all architectures that support it &#8211; PowerPC, MIPS, RISC-V, and x86-64 &#8211; because nobody is using this functionality. This support was dropped from 32bit ARM a few years ago, and the remaining architectures mentioned above have orders of magnitude fewer users still. If nobody is using this functionality, it really makes no sense to keep it around, and as such, the calls to remove it. In other words, if your custom workflow of opening your garage door through your fridge light&#8217;s flicker frequency and the alignment of the planets and custom scripts on a Raspberry Pi 2 requires this support, let the kernel developers know, or forever hold your peace. 
 
 <br> 
 
@@ -71,7 +431,7 @@ date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
 
 ## British Army zaps drones out of the sky with laser trucks
 
-date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
+date: 2024-12-12, updated: 2024-12-13, from: The Register (UK I.T. News)
 
 <h4>High-energy weapon proves its mettle in testing</h4> <p>The British Army has successfully destroyed flying drones for the first time using a high-energy laser mounted on an armored vehicle. If perfected, the technology could form an effective counter-measure against drone attacks.…</p> 
 
@@ -167,7 +527,7 @@ date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
 
 ## Apple reportedly building AI server processor with help from Broadcom
 
-date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
+date: 2024-12-12, updated: 2024-12-13, from: The Register (UK I.T. News)
 
 <h4>Something called &#39;Baltra&#39; expected to make its debut in 2026, perhaps with tech both already use</h4> <p>Apple is reportedly working with chip giant Broadcom to develop a custom server processor to power the AI services and features built into its operating systems.…</p> 
 
@@ -503,7 +863,7 @@ date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
 
 ## Three more vulns spotted in Ivanti CSA, all critical, one 10/10
 
-date: 2024-12-11, updated: 2024-12-11, from: The Register (UK I.T. News)
+date: 2024-12-11, updated: 2024-12-12, from: The Register (UK I.T. News)
 
 <h4>Patch up, everyone – that admin portal is mighty attractive to your friendly cyberattacker</h4> <p>Ivanti just put out a security advisory warning of three critical vulnerabilities in its Cloud Services Application (CSA), including a perfect 10.…</p> 
 

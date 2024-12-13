@@ -1,11 +1,300 @@
 ---
 title: home
-updated: 2024-12-12 07:05:25
+updated: 2024-12-13 07:06:02
 ---
 
 # home
 
-(date: 2024-12-12 07:05:25)
+(date: 2024-12-13 07:06:02)
+
+---
+
+## 15 Ways on How to Get Rid of Groundhogs Naturally
+
+date: 2024-12-13, from: Yard Life blog
+
+<p>Groundhogs, also known as woodchucks, can be a persistent nuisance for gardeners and homeowners, as they tunnel through the earth, ... </p>
+<p class="read-more-container"><a title="15 Ways on How to Get Rid of Groundhogs Naturally" class="read-more button" href="https://ownyardlife.com/15-ways-on-how-to-get-rid-of-groundhogs-naturally/#more-22009" aria-label="Read more about 15 Ways on How to Get Rid of Groundhogs Naturally">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/15-ways-on-how-to-get-rid-of-groundhogs-naturally/">15 Ways on How to Get Rid of Groundhogs Naturally</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/15-ways-on-how-to-get-rid-of-groundhogs-naturally/>
+
+---
+
+## 22 Ways for How to Get Rid of Asian Lady Beetles Naturally
+
+date: 2024-12-13, from: Yard Life blog
+
+<p>Asian lady beetles, also known as harlequin ladybugs, can become a nuisance in your home or garden. These colorful bugs ... </p>
+<p class="read-more-container"><a title="22 Ways for How to Get Rid of Asian Lady Beetles Naturally" class="read-more button" href="https://ownyardlife.com/22-ways-for-how-to-get-rid-of-asian-lady-beetles-naturally/#more-21999" aria-label="Read more about 22 Ways for How to Get Rid of Asian Lady Beetles Naturally">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/22-ways-for-how-to-get-rid-of-asian-lady-beetles-naturally/">22 Ways for How to Get Rid of Asian Lady Beetles Naturally</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/22-ways-for-how-to-get-rid-of-asian-lady-beetles-naturally/>
+
+---
+
+## Crabapple Tree Care and Growing Guide with Ultimate Tips
+
+date: 2024-12-13, from: Yard Life blog
+
+<p>Crabapple trees (Malus spp. and cultivars) are a popular choice for gardeners and landscape enthusiasts thanks to their stunning spring ... </p>
+<p class="read-more-container"><a title="Crabapple Tree Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/crabapple-tree-care-and-growing-guide-with-ultimate-tips/#more-21993" aria-label="Read more about Crabapple Tree Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/crabapple-tree-care-and-growing-guide-with-ultimate-tips/">Crabapple Tree Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/crabapple-tree-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## You Turned a Mall Into Housing?
+
+date: 2024-12-12, from: Dwell
+
+As strange as a recent viral project in Milwaukee may seem, there’s a historical precedent for this kind of adaptive reuse—but that doesn’t mean it’s always done right. 
+
+<br> 
+
+<https://www.dwell.com/article/you-turned-a-mall-into-housing-6e1bdf4f>
+
+---
+
+## How to Get Pet Urine Smell Out of Carpet
+
+date: 2024-12-12, from: Family Handyman Blog
+
+<p>We love our furry friends but not the messes they make. Here's how to get rid of stains and odors for good.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-get-pet-urine-smell-out-of-carpet/">How to Get Pet Urine Smell Out of Carpet</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-get-pet-urine-smell-out-of-carpet/>
+
+---
+
+## These Are the Best New Holiday Items at Trader Joe’s Right Now
+
+date: 2024-12-12, from: Sunset Magazine - Living in the West
+
+The newest holiday products to hit Trader Joe's shelves are both fun and delightful, but also super helpful for hosting and gifting. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/trader-joes-new-holiday-products-2024>
+
+---
+
+## Before & After: In Paris, a Dated ’70s Condo Rounds a Corner With a Curvaceous Revamp
+
+date: 2024-12-12, from: Dwell
+
+Architect Olivier Lekien rips up green carpeting and knocks down walls as he transforms a 1,345-square-foot flat with archways, clerestories, and textured tile. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-taclet-apartment-renovation-atelier-olk-paris-ef40d815>
+
+---
+
+## Here’s What Those Black Dots On Your Windshield Are For
+
+date: 2024-12-12, from: Family Handyman Blog
+
+<p>The black outline and dots on your car's windshield are there for several very important safety reasons. Here, we'll explain what they do. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/black-dots-car-windshield/">Here&#8217;s What Those Black Dots On Your Windshield Are For</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/black-dots-car-windshield/>
+
+---
+
+## This $2.8M Compound in Upstate New York Is Ready for Peak Cabin Season
+
+date: 2024-12-12, from: Dwell
+
+Set in the heart of the Hudson Valley, the 60-acre estate includes a three-bedroom home, a guest cottage, and a detached workshop. 
+
+<br> 
+
+<https://www.dwell.com/article/church-house-compound-germantown-upstate-new-york-real-estate-3504fc65>
+
+---
+
+## Here’s the Secret to a Holiday Wreath That Won’t Wither, Plus Other Winter Decor Tips
+
+date: 2024-12-12, from: Sunset Magazine - Living in the West
+
+This holiday season, create a wreath that lasts forever with foraged and unique items. An author and expert shows us how. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects/holiday-wreath-tips>
+
+---
+
+## How To Use an Oscillating Tool
+
+date: 2024-12-12, from: Family Handyman Blog
+
+<p>An oscillating tool is one of the most versatile pieces of equipment in any DIYer's arsenal. Here's how to get the most out it.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/how-to-use-oscillating-tool/">How To Use an Oscillating Tool</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/how-to-use-oscillating-tool/>
+
+---
+
+## A Madrid Couple Revive a Funky ’70s Hotel Bungalow and Never Check Out
+
+date: 2024-12-12, from: Dwell
+
+Their new retreat features a red-tiled kitchen, plaster walls that match Viroc floors, and a multiuse prefab greenhouse. 
+
+<br> 
+
+<https://www.dwell.com/article/casa-montesa-and-greenhouse-lucas-y-hernandez-gil-bungalow-renovation-indoor-outdoor-living-83831f60>
+
+---
+
+## Capture Retro Christmas Magic With These 1970s  Decorating Tips
+
+date: 2024-12-12, from: Family Handyman Blog
+
+<p>Check out these expert-approved '70s Christmas decoration tips to embrace kitsch, colorful, festive flourishes—regardless of your budget or home style.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/christmas-decoration-ideas-from-1970s/">Capture Retro Christmas Magic With These 1970s  Decorating Tips</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/christmas-decoration-ideas-from-1970s/>
+
+---
+
+## Why The FBI Is Warning iPhone and Android Users Not to Text Each Other
+
+date: 2024-12-12, from: Family Handyman Blog
+
+<p>U.S. officials are now advising against sending unencrypted messages in the wake of widespread cyber attacks.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/iphone-android-texting-security-risk/">Why The FBI Is Warning iPhone and Android Users Not to Text Each Other</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/iphone-android-texting-security-risk/>
+
+---
+
+## 5 Tips to Make the Most of Your Car’s Trunk Space
+
+date: 2024-12-12, from: Family Handyman Blog
+
+<p>The holidays are here and you're probably doing a lot of shopping. Here's how to maximize your trunks space while shopping.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/hot-to-utilize-trunk-space/">5 Tips to Make the Most of Your Car&#8217;s Trunk Space</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/hot-to-utilize-trunk-space/>
+
+---
+
+## How to Grow and Care for Spiral Aloe
+
+date: 2024-12-12, from: The Gardener's Path
+
+<p>Spiral aloe (Aloe polyphylla) is a gorgeous succulent plant appreciated for its symmetry and striking rounded shape. It's an almost perfect example of the Fibonacci sequence in nature and looks so flawless, it almost seems unreal. Learn how to grow and care for this stunning succulent in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/grow-spiral-aloe/">How to Grow and Care for Spiral Aloe</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/grow-spiral-aloe/>
+
+---
+
+## Helping for the Holidays — CDFA staff volunteer at Sacramento Food Bank and Family Services
+
+date: 2024-12-12, from: Calfifornia Dept. Aggriculture blog
+
+CDFA staff members recently took part in the 2024 California State Employees Food Drive by volunteering at the Sacramento Food Bank and Family Services. The CDFA team separated bulk elbow macaroni into one-pound bags, vacuum-sealed them, then applied stickers to &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28474">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28474>
+
+---
+
+## Tetris Road Signs Explained: The Message Behind the Blocks
+
+date: 2024-12-12, from: Family Handyman Blog
+
+<p>Trying to keep track of all the different road sign meanings may feel impossible. What does it mean when you come across a Tetris road sign?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/tetris-road-sign/">Tetris Road Signs Explained: The Message Behind the Blocks</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/tetris-road-sign/>
+
+---
+
+## Yes, You Should Serve Shrimp Louie at Your Holiday Party. Plus, Other Coastal Classics.
+
+date: 2024-12-12, from: Sunset Magazine - Living in the West
+
+This holiday-ready seafood party menu from Nick's Cove restaurant is a celebration of the riches of the Northern California coast. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/seafood-holiday-party-menu>
+
+---
+
+## The Wellness Gifts That Will Optimize Your Whole Life
+
+date: 2024-12-12, from: Sunset Magazine - Living in the West
+
+We've come a long way when it comes to wellness products. There are so many high-tech devices that can help you live a healthier life. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/wellness-gifts>
+
+---
+
+## 5 New Holiday Decor Trends to Style Your House for the Season
+
+date: 2024-12-12, from: Sunset Magazine - Living in the West
+
+Rolling Greens shares its holiday trend forecast with 5 dazzling decor ideas and the plant pairings that will bring them to life. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/holiday-trend-decor-styling-ideas>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-12-12, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -21,6 +310,20 @@ date: 2024-12-12, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/what-do-rabbits-eat-a-complete-guide-to-their-diet/>
+
+---
+
+## A Message from CNPS Executive Director Jun Bando
+
+date: 2024-12-12, from: California Native Plants Society
+
+<p>See Jun's year-end reflections as we approach the new year in a spirit of celebration for CNPS's upcoming anniversary and adaptation for the future.</p>
+<p>The post <a href="https://www.cnps.org/leadership-messages/a-message-from-cnps-executive-director-jun-bando-41450">A Message from CNPS Executive Director Jun Bando</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/leadership-messages/a-message-from-cnps-executive-director-jun-bando-41450>
 
 ---
 
@@ -42,7 +345,7 @@ date: 2024-12-11, from: California Grown
 
 date: 2024-12-11, from: California Grown
 
-<p>The beauty and bounty of California agriculture is at the heart of Auberge Solage, a celebrated retreat in the picturesque town of Calistoga, California where world-class hospitality, breathtaking Napa Valley landscapes, and an inspired culinary program converge. Well known for being a leader in sustainable hospitality, there are many opportunities for guests to experience the [&#8230;]</p>
+<p>The beauty and bounty of California agriculture is at the heart of Auberge Solage, a celebrated retreat in the picturesque town of Calistoga, California where world-class hospitality, breathtaking Napa Valley landscapes, and an inspired culinary program converge. Auberge Solage is well known for being a leader in sustainable hospitality. There are many opportunities for guests [&#8230;]</p>
 <p>The post <a href="https://californiagrown.org/blog/auberge-solage-elevating-farm-to-table-dining-in-napa-valley/" data-wpel-link="internal" target="_self">Auberge Solage: Elevating Farm-to-Table Dining in Napa Valley</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
  
 
@@ -119,18 +422,6 @@ date: 2024-12-11, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/lake-effect-snow/>
-
----
-
-## Yes, You Should Serve Shrimp Louie at Your Holiday Party. Plus, Other Coastal Classics.
-
-date: 2024-12-11, from: Sunset Magazine - Living in the West
-
-This holiday-ready seafood party menu from Nick's Cove restaurant is a celebration of the riches of the Northern California coast. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/seafood-holiday-party-menu>
 
 ---
 
@@ -330,18 +621,6 @@ This groovy 1970s chalet done in the Gambrel style is a must-book for snow seaso
 
 ---
 
-## Sunset.com Home Page
-
-date: 2024-12-11, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## If Your Car Smells Like Rotten Eggs, Here’s What It Means
 
 date: 2024-12-10, from: Family Handyman Blog
@@ -439,18 +718,6 @@ Celebrity astrologer Meghan Rose shares where you should book your winter trip a
 <br> 
 
 <https://www.sunset.com/travel/where-to-travel-this-winter-based-on-your-zodiac-sign>
-
----
-
-## 5 New Holiday Decor Trends to Style Your House for the Season
-
-date: 2024-12-10, from: Sunset Magazine - Living in the West
-
-Rolling Greens shares its holiday trend forecast with 5 dazzling decor ideas and the plant pairings that will bring them to life. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/flowers-plants/holiday-trend-decor-styling-ideas>
 
 ---
 

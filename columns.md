@@ -1,11 +1,564 @@
 ---
 title: columns
-updated: 2024-12-12 07:05:24
+updated: 2024-12-13 07:06:01
 ---
 
 # columns
 
-(date: 2024-12-12 07:05:24)
+(date: 2024-12-13 07:06:01)
+
+---
+
+##  Six Childhood Scourges We&#8217;ve Forgotten About, Thanks to Vaccines. &#8220;Parents in the... 
+
+date: 2024-12-13, updated: 2024-12-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045848-six-childhood-scourges-we>
+
+---
+
+##  Museums should be free, but if they can&#8217;t be free, they should... 
+
+date: 2024-12-13, updated: 2024-12-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045792-museums-should-be-free-bu>
+
+---
+
+## ‘Looking Forward’: A Brief Film for Our Times.
+
+date: 2024-12-13, from: James Fallows, Substack
+
+Optimism? Pessimism? The compelling (and beautiful) case for both at once. 
+
+<br> 
+
+<https://fallows.substack.com/p/looking-forward-a-brief-film-for>
+
+---
+
+## systemd begrudgingly drops a safety net while a challenger appears, GNU Shepherd 1.0
+
+date: 2024-12-13, updated: 2024-12-13, from: Liam Proven's articles at the Register
+
+<h4>Holidays come early for distro builders with two init systems to choose from</h4>
+      <p>Everyone&#39;s favorite Linux component has hit a milestone, while a fresh contender comes of age – with a touch of Lisp.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/>
+
+---
+
+## 
+                A quick look at OS/2’s builtin virtualization
+            
+
+date: 2024-12-13, updated: 2024-12-13, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2024-12-13/0/POSTING-en.html>
+
+---
+
+## 2024-12-13 Archiving homepages
+
+date: 2024-12-13, from: Alex Schroeder's Blog
+
+<h1 id="2024-12-13-archiving-homepages">2024-12-13 Archiving homepages</h1>
+
+<p>I keep thinking about self-hosting and people dying, myself included.
+So my first wish for the end of the year is a solar-powered machine
+that takes all my websites and turns them into clay tablets to bury
+and survive the coming darkness.</p>
+
+<p>Other than that, however, I think the solution would have to involve a
+kind decentralized archive sharing where I offer an archive (zip,
+tarball) for download and whoever has it can share it peer-to-peer
+with others. Is this how <a href="https://en.m.wikipedia.org/wiki/BitTorrent">BitTorrent</a> works? I think I don&rsquo;t understand
+what words like &ldquo;tracker&rdquo; mean. Also, where does the original torrent
+come from and where does it go? I know there are sites where I can
+search for and download torrent files. But what happens if Alice has a
+file she wants to share with others including Bob, does she create a
+torrent and offers it on her website, Bob finds it, downloads it, runs
+a torrent client and gets a copy. If Alice and her website disappear,
+how does Charlie get a copy now? Bob isn&rsquo;t hosting Alice&rsquo;s torrent
+file on his website. So are they all dependent on a torrent hosting
+site?</p>
+
+<p>I&rsquo;m only half-aware of the <a href="https://en.wikipedia.org/wiki/InterPlanetary_File_System">InterPlanetary
+File-System</a>
+(IPFS) and when I read the Wikipedia page, there&rsquo;s stuff about hashes
+and content addressing, but how does that work from a user
+perspective? Is there a directory? How does Charlie learn about
+Alice&rsquo;s site that&rsquo;s no longer online and how does Charlie get a copy
+from Bob? Can Bob make a list of files on offer and Charlie can get
+them all, maybe from Bob and maybe from others?</p>
+
+<p>In this case, preservation would mean: you need people interested in
+keeping a copy; the copies need to survive; the copies must be listed;
+the lists must be distributed widely; at least some people must make
+copies of these lists.</p>
+
+<p>So, for me and you and some other fedi randos, we could have a &ldquo;fedi
+website archive&rdquo; list where our names are listed together with the
+hashes pointing to the content, and some IPFS client would keep it in
+sync.</p>
+
+<p>The next question, though: how do we keep this list updated? What little
+I know about the blockchains underlying these protocols is that they are immutable so is there a way
+to say: &ldquo;this is the updated list&rdquo;? That would require some sort of
+social control and trust, too. An association of the living members of
+the &ldquo;fedi website archive&rdquo; list that manages the yearly updates,
+perhaps?</p>
+
+<p>And so how would the maintenance actually work, I wonder. I write a
+web app. We chat. (I think the human element is important.) You have
+an account based on an email address and upload an archive and give it
+a name (the name of your website, a short description, its current
+URL). Once a year, the living associates meet and discuss whether to
+dump some of their members who have turned fascist or whatnot (sadly,
+always a possibility). Then we use the data gathered by the website to
+generate a new &ldquo;directory&rdquo; list with names, description, URL and hash
+(the URL may no longer work) and all the members share or host (??)
+this new directory and drop previous directories so that the old
+versions of our sites can be forgotten. And the IPFS clients do the
+magic of actually exchanging the archive bytes?</p>
+
+<p>Perhaps all of this only requires BitTorrent and hosting the torrent files on our own websites.</p>
+
+<p>Would that work? Would you want to be part of this association? We
+could create <a href="https://en.wikipedia.org/wiki/Swiss_association">an association according to Swiss
+law</a>. There are some
+famous international orgs that use this format.</p>
+
+<p><a class="account" href="https://social.coop/@edsu" title="@edsu@social.coop">@edsu</a> wrote back, talking about
+<a href="https://inkdroid.org/2024/10/20/pincushion/">pincushion</a>. And that&rsquo;s
+what it is all about:</p>
+
+<blockquote>
+<p>The basic idea is that users should be able to download and view their
+data without losing the context they have added. We want a pincushion
+to represent a user’s collections, pins, images, videos, audio, tags,
+locations, comments … and we want users to be able to view this content
+when Historypin is no longer online, or even when the user isn’t
+online. Maybe the pincushion is discovered on an old thumbdrive in a
+shoebox under the bed.</p>
+
+<p>This means that the resources being served dynamically by the
+Historypin application need to be serialized as files, and specifically
+as files that can be viewed directly in a browser: HTML, CSS,
+JavaScript, JPEG, PNG, MP3, MP4, JSON. Once a users content can be
+represented as a set of static files they can easily be distributed,
+copied, and opportunities for replicating them using technologies like
+IPFS become much more realistic.</p>
+</blockquote>
+
+<p>This is what I&rsquo;m talking about! It&rsquo;s all about exporting user data out
+of a dynamic site into a form based on static files.</p>
+
+<p><a href="Odd%C2%B5">Oddµ</a> tries to do the same: all the pages you write, all the files
+you upload, everything can be downloaded as a static website. The
+dynamic wiki application on top of it is essentially optional.</p>
+
+<p>There are two things I still haven&rsquo;t solved, though:</p>
+
+<ol>
+<li>Bots crawling the web downloading the zip file again and again.</li>
+<li>A distribution procedure and organisation that keeps it alive.</li>
+</ol>
+
+<p>Perhaps BitTorrent is the better solution. There are a gazillion
+tools. It&rsquo;s been around for a while. It seems like a stable platform.</p>
+
+<p><a class="account" href="https://social.coop/@edsu" title="@edsu@social.coop">@edsu</a> also added:</p>
+
+<blockquote>
+<p>You might want to check out how Magnet Links work, which let users
+share links to their torrents and retrieve the metadata and data
+from peers using a Distributed Hash Table (DHT). IPFS uses a DHT as
+well.</p>
+</blockquote>
+
+<p>I think this is the way forward. People host to the latest torrent
+file and host a copy of the data.</p>
+
+<p>The org gets together once a year to celebrate, to welcome new
+members, to honor those who have passed, the review complaints,
+produces a new torrent file and we all agree to update our link.</p>
+
+<p>All of this while keeping in mind the two forces pulling in opposite
+directions: We want the right to curate, forget, delete, revise, but
+we also want to archive in a decentralized fashion.</p>
+
+<p>It seems to me that the only way to &ldquo;solve&rdquo; this currently is via a
+social process. I suspect that the problem of reconciling these two
+requirements is fundamentally not solvable on a technical level.</p>
+
+<p>And we need to start practising now, while we&rsquo;re alive.</p>
+
+<p><a class="tag" href="/search/?q=%23Archives">#Archives</a> <a class="tag" href="/search/?q=%23Web">#Web</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-12-13-archiving-homepages>
+
+---
+
+## America’s four stories (Part 2) 
+
+date: 2024-12-13, from: Robert Reich's blog
+
+The Democrats&#8217; failure to tell the truth about the Rot at the Top 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-four-stories-of-america-part>
+
+---
+
+## A Christmas Gift to My Families
+
+date: 2024-12-13, from: Doc Searls (at Harvard), New Old Blog
+
+A few weeks ago, my sister Jan and I drove a cache of archival stuff from her garage in North Carolina to my office in Indiana. One box was filled with boxes and carousels of slides nobody had seen for many decades. I also brought along my parents&#8217; slide projector, and digitized each slide by [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2024/12/12/a-christmas-gift-to-my-families/>
+
+---
+
+## December 12, 2024 
+
+date: 2024-12-13, from: Heather Cox Richardson blog
+
+Ten days ago, on December 2, President Joe Biden arrived in Angola, the first U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-12-2024>
+
+---
+
+## ‘Making “Social” Social Again’ — Ev Williams Explains Mozi
+
+date: 2024-12-13, updated: 2024-12-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://ev.medium.com/making-social-social-again-0126fa5c6ce8>
+
+---
+
+## Mozi
+
+date: 2024-12-13, updated: 2024-12-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.mozi.app/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-13, from: Dave Winer's Scripting News)
+
+It's a big enough <a href="https://www.youtube.com/watch?v=aENX1Sf3fgQ">umbrella but</a> it's always me that ends up getting wet. 
+
+<br> 
+
+<http://scripting.com/2024/12/12.html#a015759>
+
+---
+
+## Rage Against the System
+
+date: 2024-12-13, from: Dan Rather's Steady
+
+Murder, money, and Americans who are mad as hell 
+
+<br> 
+
+<https://steady.substack.com/p/rage-against-the-system>
+
+---
+
+## Friday 13 December, 2024
+
+date: 2024-12-13, from: John Naughton's online diary
+
+Snowy and me He’s been monitoring my workload atop the screens of a succession of MacBooks for many years. Quote of the Day ”People never die wishing they’d bought more stuff.” House-clearance manager Musical alternative to the morning’s radio news &#8230; <a href="https://memex.naughtons.org/friday-13-december-2024/40197/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-13-december-2024/40197/>
+
+---
+
+##  Wow, look at this video of wild skating — a thin layer... 
+
+date: 2024-12-12, updated: 2024-12-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045847-wow-look-at-this-video>
+
+---
+
+## Meet Mozi
+
+date: 2024-12-12, from: Matt Haughey blog
+
+<p>I had never heard of <a href="https://www.mozi.app/?ref=a.wholelottanothing.org" rel="noreferrer">Mozi</a> until a friend mentioned it in a Slack channel earlier today. I didn&apos;t hear about their big launch, but it&apos;s helmed by Ev Williams of former Blogger, Twitter, and Medium fame and I think it&apos;s a legitimately good</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/meet-mozi/>
+
+---
+
+##  I&#8217;m sorry, but if you need to fact-check an interview with your... 
+
+date: 2024-12-12, updated: 2024-12-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045846-im-sorry-but-if-you>
+
+---
+
+##  The Biggest Bomb in the World 
+
+date: 2024-12-12, updated: 2024-12-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/the-biggest-bomb-in-the-world>
+
+---
+
+##  A list of medieval English dog names, including Fyndewell, Sturdy, Plodder, Harmeles,... 
+
+date: 2024-12-12, updated: 2024-12-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045842-a-list-of-medieval-englis>
+
+---
+
+##  This is interesting and somewhat counterintuitive: &#8220;Fare-free transit is not an environmental... 
+
+date: 2024-12-12, updated: 2024-12-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045838-this-is-interesting-and-s>
+
+---
+
+## Zach Baron Interviews David Letterman for GQ: ‘Interviewing the Interview Master’
+
+date: 2024-12-12, updated: 2024-12-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=qycd0SMahac>
+
+---
+
+## The Amazing Kreskin Dies at 89
+
+date: 2024-12-12, updated: 2024-12-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2024/12/11/arts/the-amazing-kreskin-dead.html>
+
+---
+
+##  Aerial Foodscapes 
+
+date: 2024-12-12, updated: 2024-12-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/aerial-foodscapes>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-12-12, from: Miguel de Icaza Mastondon feed)
+
+<p>That Apple design award I am dreaming off is looking further and further away</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113641123710266394>
+
+---
+
+##  I missed this back in August: the excellent Art of the Title... 
+
+date: 2024-12-12, updated: 2024-12-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045841-i-missed-this-back-in-1>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-12-12, from: Miguel de Icaza Mastondon feed)
+
+<p>One month of testing Godot on iPad, I thought I was working really hard before the preview, but the last month of fixing bugs has been twice as intense:</p><p><a href="https://blog.la-terminal.net/xogot-preview-update/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/xogot-pre</span><span class="invisible">view-update/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113641037464809652>
+
+---
+
+## December 11, 2024
+
+date: 2024-12-12, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153029693/7ed6691a9eea90f1938613efe71a68e1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153029693/7ed6691a9eea90f1938613efe71a68e1.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-11-2024-43d>
+
+---
+
+##  Tressie McMillan Cottom: &#8220;Whether you call it crony capitalism or just an... 
+
+date: 2024-12-12, updated: 2024-12-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045840-tressie-mcmillan-cottom-w>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-12, from: Dave Winer's Scripting News)
+
+<a href="http://scripting.com/images/2024/12/12/finger.png">Possibly</a> the last moment when the Dems really kicked ass. 
+
+<br> 
+
+<http://scripting.com/2024/12/12.html#a162252>
+
+---
+
+## I'll keep my Tesla, thank you
+
+date: 2024-12-12, from: Dave Winer's Scripting News
+
+<p>I saw a <a href="https://bsky.app/profile/zephoria.bsky.social/post/3ld275e2kpk2u">pundit</a> suggest people harass people who drive Teslas.</p>
+<p>When I bought mine, it cost $70K, a large sum of money that I will not throw away just so a pundit can make a point. </p>
+<p>Here's my rebuttal. I'd like to see you get on without buying Exxon products. We all agree they suck, but evil companies have a way of building dependence, that's how they stay in business while openly doing despicable things.</p>
+<p>When I put down $70K for what is, btw, a <a href="http://scripting.com/2024/12/07/142329.html">fantastic car</a>, no one knew how evil Elon Musk was going to turn out to be, how little he would care what you and I think.</p>
+<p>And I don't believe anyone can live a pure life and extract all evil from it, and still participate in civilization. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/12/12/blueskyPostScreenshot.png"></center>PS: I wrote this initially as a <a href="https://bsky.app/profile/scripting.com/post/3ld4nne5fe22r">post</a> on Bluesky.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/12/12/161258.html?title=illKeepMyTeslaThankYou>
+
+---
+
+##  Great Casey Johnston piece on how chronic pain & capitalism intersect in... 
+
+date: 2024-12-12, updated: 2024-12-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045839-great-casey-johnston-piec>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-12, from: Dave Winer's Scripting News)
+
+BTW, I hear that Safari now defaults to using HTTPS. Not sure exactly <a href="https://bsky.app/profile/johnspurlock.com/post/3ld5fpnbp7s2c">what</a> that means. But if they ever actually stop showing scripting.com, which will always be plain old HTTP, I'll probably ship an Electron product that browses the web, and doesn't care if it's HTTP or whatever new fad Google is promoting. I'm going to <a href="https://www.collinsdictionary.com/dictionary/english/hold-the-fort">hold the fort</a> for the original web. I can't change scripting.com to HTTPS, it would break all the images and probably a lot of other stuff. 
+
+<br> 
+
+<http://scripting.com/2024/12/12.html#a155806>
+
+---
+
+## Wednesday 11 December, 2024
+
+date: 2024-12-12, from: John Naughton's online diary
+
+Summertime, when… It’s that time of year, when everything is muddy, brown and skies are grey. So it was nice while sorting through photos to stumble on a reminder of how the garden looked six months ago. Quote of the &#8230; <a href="https://memex.naughtons.org/wednesday-11-december-2024/40190/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-11-december-2024/40190/>
+
+---
+
+##  &#8220;The planet Uranus and its five biggest moons may not be the... 
+
+date: 2024-12-12, updated: 2024-12-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045836-the-planet-uranus-and-its>
+
+---
+
+## "Rules" that terminal programs follow
+
+date: 2024-12-12, updated: 2024-12-12, from: Julia Evans blog
+
+ 
+
+<br> 
+
+<https://jvns.ca/blog/2024/11/26/terminal-rules/>
 
 ---
 
@@ -1373,9 +1926,10 @@ date: 2024-12-09, updated: 2024-12-09, from: Jason Kittke's blog
 
 ## Trust Issues in AI
 
-date: 2024-12-09, updated: 2024-12-07, from: Bruce Schneier blog
+date: 2024-12-09, updated: 2024-12-13, from: Bruce Schneier blog
 
-<p>For a technology that seems startling in its modernity, AI sure has a long history. Google Translate, OpenAI chatbots, and Meta AI image generators are built on decades of advancements in linguistics, signal processing, statistics, and other fields going back to the early days of computing&#8212;and, often, on seed funding from the U.S. Department of Defense. But today&#8217;s tools are hardly the intentional product of the diverse generations of innovators that came before. We agree with Morozov that the &#8220;refuseniks,&#8221; as he <a href="https://www.bostonreview.net/forum/the-ai-we-deserve/">calls</a> them, are wrong to see AI as &#8220;irreparably tainted&#8221; by its origins. AI is better understood as a creative, global field of human endeavor that has been largely captured by U.S. venture capitalists, private equity, and Big Tech. But that was never the inevitable outcome, and it doesn&#8217;t need to stay that way...</p> 
+<p><em>This essay was written with Nathan E. Sanders. It originally appeared as a response to Evgeny Morozov in <cite>Boston Review</cite>&#8216;s forum, &#8220;<a href="https://www.bostonreview.net/forum/the-ai-we-deserve/">The AI We Deserve</a>.&#8221;</em></p>
+<p>For a technology that seems startling in its modernity, AI sure has a long history. Google Translate, OpenAI chatbots, and Meta AI image generators are built on decades of advancements in linguistics, signal processing, statistics, and other fields going back to the early days of computing&#8212;and, often, on seed funding from the U.S. Department of Defense. But today&#8217;s tools are hardly the intentional product of the diverse generations of innovators that came before. We agree with Morozov that the &#8220;refuseniks,&#8221; as he ...</p> 
 
 <br> 
 

@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-12-12 07:05:25
+updated: 2024-12-13 07:06:02
 ---
 
 # games
 
-(date: 2024-12-12 07:05:25)
+(date: 2024-12-13 07:06:02)
+
+---
+
+## In Microsoft Flight Simulator 2024, the sim is great — the game is not
+
+date: 2024-12-13, updated: 2024-12-12, from: Polygon Website
+
+How do you turn a good flight simulator into a good flight-simulation game? This is the crux of understanding what’s new, interesting, and ultimately unwieldy about Microsoft Flight Simulator 2024, the first entry in the decades-old series to actively court casual flyers and Xbox Game Pass-ersby. The series’ modern handlers at Asobo Studio aim for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/495162/microsoft-flight-simulator-2024-review-pc>
+
+---
+
+## Everything you should know before watching Lord of the Rings: War of the Rohirrim
+
+date: 2024-12-13, updated: 2024-12-13, from: Polygon Website
+
+Shake off any misgivings you might have about animated adaptations of J.R.R. Tolkien’s work. The Lord of the Rings: The War of the Rohirrim — based on J.R.R. Tolkien’s history of Rohan, land of horse lords and shield maidens — is from a top team of Middle-earth talent, and their dedication and skills have delivered [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/lord-of-the-rings/494860/everything-you-should-know-about-war-of-the-rohirrim>
+
+---
+
+## Naughty Dog’s next title revealed at The Game Awards, and it takes place in space
+
+date: 2024-12-13, updated: 2024-12-13, from: Polygon Website
+
+A new game from Naughty Dog studios called Intergalactic: The Heretic Prophet is on the way, announced at this year’s Game Awards. The game is set in a sci-fi universe, and the trailer shows a character going about their day, watching a little old school anime, and putting on a pet shop record before setting [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/game-awards-tga/495566/naughty-dog-intergalactic-heretic-prophet-game-awards-2024>
+
+---
+
+## The Game Awards 2024: The winners and the big reveals
+
+date: 2024-12-13, updated: 2024-12-13, from: Polygon Website
+
+It&#8217;s time for the Game Awards, when the video game industry looks back on 2024&#8217;s best games and debuts trailers for upcoming projects for 2025 and beyond. The annual awards show and video game trailer extravaganza hosted by Geoff Keighley celebrates its 10th anniversary this year. 
+
+<br> 
+
+<https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024>
+
+---
+
+## Here are all The Game Awards 2024 winners
+
+date: 2024-12-13, updated: 2024-12-13, from: Polygon Website
+
+Astro Bot took home the top award at The Game Awards Thursday night, winning the Game of the Year trophy, along with three other awards. The platformer – a playable tribute to Sony’s 30-year history – also took home the best game direction award. Other Game of the Year nominees were not shut out, though. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/awards/495868/2024-award-winners-game-year>
+
+---
+
+## The biggest game announcements and trailers from The Game Awards 2024
+
+date: 2024-12-13, updated: 2024-12-13, from: Polygon Website
+
+An avalanche of new game announcements hit at The Game Awards 2024, ranging from the returns of classic franchises (Okami, Turok, Virtua Fighter) to the reveals of all-new worlds (Naughty Dog’s Intergalactic, something new from Fumito Ueda). For a rundown of everything announced at The Game Awards, including the big world premieres, the smaller surprise [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/game-awards-tga/495677/game-awards-2024-biggest-announcements-trailers>
+
+---
+
+## Astro Bot wins Game of the Year at The Game Awards 2024
+
+date: 2024-12-13, updated: 2024-12-13, from: Polygon Website
+
+Astro Bot won the coveted Game of the Year award at The Game Awards Thursday night. Astro Bot, Balatro, Black Myth: Wukong, Elden Ring Shadow of the Erdtree, Final Fantasy 7 Rebirth, and Metaphor: ReFantazio were all up for Game of the Year 2024. The award is a testament to the ongoing achievements of developer [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/game-awards-tga/495359/game-of-the-year-2024-tgas-winner>
+
+---
+
+## How Squid Game: Unleashed’s team turned its dark source material into skill-based thrills
+
+date: 2024-12-13, updated: 2024-12-13, from: Polygon Website
+
+Boss Fight and Netflix Games debuted Squid Game: Unleashed at Gamescom 2024, and the team behind the 32-player battle-meets-party game reemerged at The Game Awards 2024 to announce that the game will be free to everyone — even if you don’t have a Netflix subscription. The game arrives on Dec. 17 (Squid Game season 2 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/game-awards-tga/495597/squid-game-unleashed-free-to-play-release-date>
+
+---
+
+## Palworld is getting a giant expansion this December
+
+date: 2024-12-13, updated: 2024-12-13, from: Polygon Website
+
+Nintendo may be siccing its lawyers on Palworld, but that isn’t keeping Studio Pocketpair from continuing the momentum of its monster-filled survival game. The next big reveal: a brand new expansion. It’s called Feybreak and it’s scheduled to launch Dec. 23. Pocketpair grabbed some precious time at the 2024 Game Awards, where Palworld was snubbed across [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/game-awards-tga/495323/palworld-expansion-reveal-feybreak-release-date>
+
+---
+
+## Turok is back, this time as a co-op third-person shooter
+
+date: 2024-12-13, updated: 2024-12-13, from: Polygon Website
+
+Dinosaur is back on the menu thanks to Turok: Origins, which was revealed at The Game Awards 2024 on Thursday night. A revival of the classic first-person shooter franchise, the Saber Interactive-developed Turok: Origins (see the trailer here) shifts gameplay to an over-the-shoulder third-person perspective. “Play as the legendary Turok warriors to face off against [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/game-awards-tga/496162/turok-origins-saber-interactive-reboot-third-person-shooter>
 
 ---
 
@@ -18,18 +138,6 @@ Warframe is a game that’s full of surprises. At first glance, the team at Digi
 <br> 
 
 <https://www.polygon.com/gaming/495077/warframe-1999-dating-sim-expansion>
-
----
-
-## The Game Awards 2024: All the trailers, news, and announcements
-
-date: 2024-12-12, updated: 2024-12-12, from: Polygon Website
-
-It&#8217;s time for the Game Awards, when the video game industry looks back on 2024&#8217;s best games and debuts trailers for upcoming projects for 2025 and beyond. The annual awards show and video game trailer extravaganza hosted by Geoff Keighley celebrates its 10th anniversary this year. 
-
-<br> 
-
-<https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024>
 
 ---
 
