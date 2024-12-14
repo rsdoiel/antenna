@@ -1,11 +1,123 @@
 ---
 title: home
-updated: 2024-12-13 07:06:02
+updated: 2024-12-14 07:05:02
 ---
 
 # home
 
-(date: 2024-12-13 07:06:02)
+(date: 2024-12-14 07:05:02)
+
+---
+
+## Why You Should Never Ignore a Recall On Your Car
+
+date: 2024-12-13, from: Family Handyman Blog
+
+<p>The average car has three recalls, so chance are you'll have to navigate at least one. Here's what to know, especially if you're a procrastinator.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/missed-auto-recall/">Why You Should Never Ignore a Recall On Your Car</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/missed-auto-recall/>
+
+---
+
+## Why Some Cars Have Multiple ‘Shark Fins’—And What They’re Really For
+
+date: 2024-12-13, from: Family Handyman Blog
+
+<p>Ever wondered why some cars have tiny shark fins on them? Here's the scoop on vortex generators and how they improve performance!</p>
+<p>The post <a href="https://www.familyhandyman.com/article/vortex-generators/">Why Some Cars Have Multiple &#8216;Shark Fins&#8217;—And What They’re Really For</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/vortex-generators/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-12-13, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## This €1.2M Townhouse in Menorca Is Ripe for a Revamp—and It Comes With Approved Plans
+
+date: 2024-12-13, from: Dwell
+
+The 1886 home needs some TLC, but it’s packed from top to bottom with old-world charm. 
+
+<br> 
+
+<https://www.dwell.com/article/1886-townhouse-island-home-mahon-menorca-real-estate-d312bcfa>
+
+---
+
+## Budget Breakdown: An $838K Brooklyn Townhouse Renovation Keeps Two Families Connected
+
+date: 2024-12-13, from: Dwell
+
+An unlocked door between levels, a shared backyard, and opened-up spaces make it easy for the adults to share in the day-to-day of raising their kids. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-windsor-terrace-townhouse-dunham-robinson-brooklyn-rowhouse-renovation-02792f4a>
+
+---
+
+## Jeremiah Brent Is a Natural—and Needed—Addition to "Queer Eye"
+
+date: 2024-12-13, from: Dwell
+
+While the departure of Bobby Berk worried fans, the Fab Five’s newest member gives the show’s rote formula an overdue shake-up. 
+
+<br> 
+
+<https://www.dwell.com/article/jeremiah-brent-netflix-queer-eye-season-9-review-672dfebe>
+
+---
+
+## These Are the Best New Holiday Items at Trader Joe’s Right Now
+
+date: 2024-12-13, from: Sunset Magazine - Living in the West
+
+The newest holiday products to hit Trader Joe's shelves are both fun and delightful, but also super helpful for hosting and gifting. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/trader-joes-new-holiday-products-2024>
+
+---
+
+## Here’s the Secret to a Holiday Wreath That Won’t Wither, Plus Other Winter Decor Tips
+
+date: 2024-12-13, from: Sunset Magazine - Living in the West
+
+This holiday season, create a wreath that lasts forever with foraged and unique items. An author and expert shows us how. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects/holiday-wreath-tips>
+
+---
+
+## 8 Dos and Don’ts for Decorating a Fireplace
+
+date: 2024-12-13, from: Sunset Magazine - Living in the West
+
+The fireplace mantel is the perfect spot to get creative with design. Experts share the dos and don'ts for decorating a fireplace. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/fireplace-mantel-decorating-tips>
 
 ---
 
@@ -80,18 +192,6 @@ date: 2024-12-12, from: Family Handyman Blog
 
 ---
 
-## These Are the Best New Holiday Items at Trader Joe’s Right Now
-
-date: 2024-12-12, from: Sunset Magazine - Living in the West
-
-The newest holiday products to hit Trader Joe's shelves are both fun and delightful, but also super helpful for hosting and gifting. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/trader-joes-new-holiday-products-2024>
-
----
-
 ## Before & After: In Paris, a Dated ’70s Condo Rounds a Corner With a Curvaceous Revamp
 
 date: 2024-12-12, from: Dwell
@@ -127,18 +227,6 @@ Set in the heart of the Hudson Valley, the 60-acre estate includes a three-bedro
 <br> 
 
 <https://www.dwell.com/article/church-house-compound-germantown-upstate-new-york-real-estate-3504fc65>
-
----
-
-## Here’s the Secret to a Holiday Wreath That Won’t Wither, Plus Other Winter Decor Tips
-
-date: 2024-12-12, from: Sunset Magazine - Living in the West
-
-This holiday season, create a wreath that lasts forever with foraged and unique items. An author and expert shows us how. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/diy-projects/holiday-wreath-tips>
 
 ---
 
@@ -286,18 +374,6 @@ Rolling Greens shares its holiday trend forecast with 5 dazzling decor ideas and
 
 ---
 
-## Sunset.com Home Page
-
-date: 2024-12-12, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## What Do Rabbits Eat? A Complete Guide to Their Diet
 
 date: 2024-12-12, from: Yard Life blog
@@ -331,7 +407,7 @@ date: 2024-12-12, from: California Native Plants Society
 
 date: 2024-12-11, from: California Grown
 
-<p>Amelia Ceja, President of Ceja Vineyards, is a trailblazing figure in the California wine industry, celebrated as both an influential winemaker and a champion of cultural diversity in viticulture. Ceja, along with her family, has transformed Ceja Vineyards from a small venture into a thriving wine business, with a mission to showcase her Hispanic heritage [&#8230;]</p>
+<p>Amelia Ceja, President of Ceja Vineyards, is a trailblazing figure in the California wine industry. She is celebrated as both an influential winemaker and a champion of cultural diversity in viticulture. Ceja, along with her family, has transformed Ceja Vineyards from a small venture into a thriving wine business, with a mission to showcase her [&#8230;]</p>
 <p>The post <a href="https://californiagrown.org/blog/amelia-ceja-pioneering-diversity-and-flavor-in-california-wine/" data-wpel-link="internal" target="_self">Amelia Ceja: Pioneering Diversity and Flavor in California Wine</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
  
 
@@ -434,18 +510,6 @@ West Hollywood's best celebrity trainers give us tips on how to not fall off you
 <br> 
 
 <https://www.sunset.com/lifestyle/wellness/how-to-stay-in-shape-holiday-season>
-
----
-
-## 8 Dos and Don’ts for Decorating a Fireplace
-
-date: 2024-12-11, from: Sunset Magazine - Living in the West
-
-The fireplace mantel is the perfect spot to get creative with design. Experts share the dos and don'ts for decorating a fireplace. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/fireplace-mantel-decorating-tips>
 
 ---
 
@@ -1083,4 +1147,30 @@ date: 2024-12-08, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/succulents/propagate-yucca-seed/>
+
+---
+
+## The layout of a food garden: where to plant what?
+
+date: 2024-12-07, from: Greg Alder's blog, Yard Post
+
+<p>You might be planning a food garden for the first time, or you might be wondering if your vegetables and fruit trees are planted in the best places. Either way, this post is for you. I have built food gardens in a couple different yards for myself and my family, and I have visited and [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/the-layout-of-a-food-garden-where-to-plant-what/">The layout of a food garden: where to plant what?</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/the-layout-of-a-food-garden-where-to-plant-what/>
+
+---
+
+## What We Unearthed at Alcova, the Messy, Fascinating Emerging Designer Fair
+
+date: 2024-12-07, from: Dwell
+
+A penis vase, a chain mail chair, and other weird and wonderful objects made appearances at the second Miami edition of the show. 
+
+<br> 
+
+<https://www.dwell.com/article/design-miami-alcova-2024-editor-picks-and-highlights-7103f0a1>
 

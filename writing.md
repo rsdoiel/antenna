@@ -1,11 +1,78 @@
 ---
 title: writing
-updated: 2024-12-13 07:06:01
+updated: 2024-12-14 07:05:01
 ---
 
 # writing
 
-(date: 2024-12-13 07:06:01)
+(date: 2024-12-14 07:05:01)
+
+---
+
+## 🫂🪦 #228 - Meetings and Partings
+
+date: 2024-12-13, from: Interesting, a blog on writing
+
+Boys II Men - End of the Road.mp3 
+
+<br> 
+
+<https://inneresting.substack.com/p/228-meetings-and-partings>
+
+---
+
+## SLF Illustration of the Year Call
+
+date: 2024-12-13, from: Locus Magazine
+
+<p>The Speculative Literature Foundation (SLF) has announced an open call for &#8220;original artwork combining fantasy and science fiction themes to be featured as its 2024 Illustration of the Year.&#8221;</p>
+<p>The deadline for submissions is January 15, 2025. The winner, to be announced in February 2025, will receive $750, and the winning artwork will be featured on the SLF website and social media &#8220;and used as a visual element of SLF’s  <a href="https://locusmag.com/2024/12/slf-illustration-of-the-year-call/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/slf-illustration-of-the-year-call/>
+
+---
+
+## Featured Friday: Awards 2024
+
+date: 2024-12-13, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we ring in the FYC season with all the screenplays that have been released (so far) as part of studio award campaigns. We’ll be updating this collection as more scripts are made available! Our [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-awards-2024">Featured Friday: Awards 2024</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2024/featured-friday-awards-2024>
+
+---
+
+## James Mangold talks ‘A Complete Unknown’ and how to make your writing better
+
+date: 2024-12-13, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/james-mangold-talks-a-complete-unknown" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/A%20Complete%20Unknown%20-%203.png" alt="Timothée Chalamet as Bob Dylan, walking down the street in 'A Complete Unknown' " class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>James Mangold has carved out a fascinating place in Hollywood as a director and writer who really can do it all—he’s elevated genre films into compelling character studies and tackled everything from Westerns to hard-hitting dramas to romantic comedies to comic book adaptations.<br><br>He made one of the best superhero films in history (2017’s <a href="https://blog.finaldraft.com/filmmaker-insight-james-mangold-give-new-focus-storytelling-logan"><em>Logan</em></a>), then a couple of years later told a true motorsport story in the brilliant <span style="font-style: italic;">Ford v Ferrari</span>. He’s twice Oscar-nominated, once for each of these films, but fans will also recall the much-feted <a href="https://www.imdb.com/title/tt0358273/awards/?ref_=tt_awd"><span style="font-style: italic;">Walk the Line</span></a>, which in 2006 captured a slew of awards across acting and technical categories. We could go on and on.&nbsp;<br><br>It’s fitting that Mangold has come back around to music with this year’s Bob Dylan biopic, <span style="font-style: italic;">A Complete Unknown</span>. Starring Timothée Chalamet as Dylan, the film follows the musician’s early years—his arrival in New York City, finding his place in music, and then turning the Newport Folk Festival upside-down when he chose not to play acoustic.&nbsp;<br><br>Mangold and his lead actor just received the Visionary Tribute at the <a href="https://awards.thegotham.org/">2024 Gotham Awards</a>, not to mention a couple of Golden Globe nominations. Final Draft chatted with the writer/director the day before those nominations were announced, and Mangold laid out some vital writing wisdom for us.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/james-mangold-talks-a-complete-unknown>
+
+---
+
+## Good Night, Sleep Tight by Brian Evenson: Review by Ian Mond
+
+date: 2024-12-13, from: Locus Magazine
+
+<p><strong>Good Night, Sleep Tight</strong>, Brian Evenson (Cof­fee House Press 978-1-56689-709-9, $19.00, 256pp, tp) September 2024.</p>
+<p>The best horror fiction is about dislocation, the growing feeling that something is askew or lopsided with the world and only you, no one else, is aware. Brian Evenson gets this. In a recent article for Lit Hub, he points out that:</p>
+<p>Writing Horror is about tapping into something that resonates for you, some­thing  <a href="https://locusmag.com/2024/12/good-night-sleep-tight-by-brian-evenson-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/good-night-sleep-tight-by-brian-evenson-review-by-ian-mond/>
 
 ---
 
@@ -375,4 +442,30 @@ date: 2024-12-08, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2024/12/a-hunger-with-no-name-by-lauren-c-teffeau-review-by-jake-casella-brookins/>
+
+---
+
+## Augur: Short Fiction Reviews by A.C. Wise
+
+date: 2024-12-07, from: Locus Magazine
+
+<p>Augur 7.1</p>
+<p>Grief, loss, healing, and recovery are themes running through Augur 7.1, and it’s interesting to see how different authors approach similar subject matter. “<strong>Sagal, the-Witch-in Training</strong>” by <strong>Ardo Omer </strong>follows the titular witch-in-training on her first solo case, trying to help a young woman with a broken heart. The woman happens to be the sister of one of her classmates, and they work together to convince  <a href="https://locusmag.com/2024/12/augur-short-fiction-reviews-by-a-c-wise/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/augur-short-fiction-reviews-by-a-c-wise/>
+
+---
+
+## 2024 Word of the Year
+
+date: 2024-12-07, from: Locus Magazine
+
+<p>Collins Dictionary in the UK has released its “Word of the Year” winner and shortlist for 2024. The list include “romantasy,” defined as “a literary genre that combines romantic fiction with fantasy.” The overall word of the year is “brat,” in the sense of someone with a “confident, independent and hedonistic attitude,” as popularized by singer/songwriter Charli XCX’s album <strong>Brat</strong>.</p>
+<p>Other words on the list include “supermajor­ity,” “yapping,” “delulu,”  <a href="https://locusmag.com/2024/12/2024-word-of-the-year/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/2024-word-of-the-year/>
 

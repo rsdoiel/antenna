@@ -1,11 +1,235 @@
 ---
 title: going electric
-updated: 2024-12-13 07:06:04
+updated: 2024-12-14 07:05:03
 ---
 
 # going electric
 
-(date: 2024-12-13 07:06:04)
+(date: 2024-12-14 07:05:03)
+
+---
+
+## Lucid (LCID) CEO hints at EV partnerships with ‘a couple’ of auto companies
+
+date: 2024-12-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Lucid-outpacing-rivals.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/lucid-motors/">Lucid</a> (LCID) may be in line for several new EV partnerships. CEO Peter Rawlinson revealed that the company is actively talking with “a couple” of automakers about supplying its tech.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="393666" href="https://electrek.co/2024/12/13/lucid-lcid-ceo-hints-at-couple-ev-partnerships-coming/#more-393666" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/13/lucid-lcid-ceo-hints-at-couple-ev-partnerships-coming/>
+
+---
+
+## Podcast: Lucid Gravity first drive, Tesla Model Q rumors, Nikola heading to bankruptcy, and more
+
+date: 2024-12-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p></p>
+
+
+
+<p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss our Lucid Gravity first frive, Tesla Model Q rumors, Nikola heading to bankruptcy, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="393656" href="https://electrek.co/2024/12/13/podcast-lucid-gravity-first-drive-tesla-model-q-rumors-nikola-heading-to-bankruptcy-and-more/#more-393656" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/13/podcast-lucid-gravity-first-drive-tesla-model-q-rumors-nikola-heading-to-bankruptcy-and-more/>
+
+---
+
+## The VW ID. Buzz Beats Its EPA Range Rating In The Real World
+
+date: 2024-12-13, from: Inside EVs News
+
+A new range test from Edmunds proves the ID. Buzz isn't as range-limited as we thought. 
+
+<br> 
+
+<https://insideevs.com/news/744372/vw-id-buzz-real-world-range/>
+
+---
+
+## Mazda’s $20,000 EZ-6 EV is off to a hot sales start
+
+date: 2024-12-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Mazdas-20000-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Mazda selling EVs? That’s right. After launching the EZ-6 for around $20,000 in October, <a href="https://electrek.co/guides/mazda/">Mazda’s</a> new EV is off to an impressive sales start in China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mazda" data-layer-viewtype="unknown" data-post-id="393637" href="https://electrek.co/2024/12/13/mazdas-20000-ez-6-ev-off-to-hot-sales-start/#more-393637" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/13/mazdas-20000-ez-6-ev-off-to-hot-sales-start/>
+
+---
+
+## Exclusive low prices on Vanpowers City Vanture & UrbanGlide e-bikes from $629, Christmas savings from Bluetti, Rad Power, more
+
+date: 2024-12-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Vanpowers-City-Vanture-Urban-e-bike-alone-in-sunset.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>We’re closing out the week with a bunch more seasonal savings, with four new exclusive discounts that are giving us the absolute best and lowest prices on Vanpowers’ <a href="https://9to5toys.com/2024/12/12/exclusive-discounts-vanpowers-e-bikes-from-629/">City Vanture and UrbanGlide e-bikes</a> starting from <a href="https://9to5toys.com/2024/12/12/exclusive-discounts-vanpowers-e-bikes-from-629/">$629</a>. Right behind it is Bluetti’s official Christmas sale that is taking up to 62% off a solid lineup of power stations and bundles, like the <a href="https://9to5toys.com/2024/12/13/bluetti-christmas-sale-2024/">AC300 Portable Power Station</a> and a B300K Expansion Battery returning to its Black Friday pricing of <a href="https://9to5toys.com/2024/12/13/bluetti-christmas-sale-2024/">$1,599</a>. From there we have two more e-bike sales, the first being the second phase of <a href="https://9to5toys.com/2024/12/13/rad-power-christmas-sale-radexpand-5-1299/">Rad Power’s Christmas sales</a> that is taking up to $300 off the selection of e-bikes and also offering free gear up to $200 in value – all starting from <a href="https://9to5toys.com/2024/12/13/rad-power-christmas-sale-radexpand-5-1299/">$1,299</a>. Right behind is ENGWE’s more budget-friendly e-bike sale with up to $600 discounts and tons of free gear packages, with the popular <a href="https://9to5toys.com/2024/12/12/engwe-christmas-holiday-sale-m20-e-bike-899/">M20 Dual-Suspension e-bike</a> back at its <a href="https://9to5toys.com/2024/12/12/engwe-christmas-holiday-sale-m20-e-bike-899/">$899</a> low, among others. Closing us out is <a href="https://9to5toys.com/2024/12/13/eve-aqua-smart-water-controller-103/">Eve’s Aqua Smart Water Controller</a> that is beating its Black Friday pricing at <a href="https://9to5toys.com/2024/12/13/eve-aqua-smart-water-controller-103/">$103</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s holiday sales from <a href="https://9to5toys.com/2024/12/12/allpowers-christmas-sale-from-75/">ALLPOWERS</a>, <a href="https://9to5toys.com/2024/12/12/velotric-holiday-sale-from-999/">Velotric</a>, <a href="https://9to5toys.com/2024/12/12/blix-holiday-savings-1499-vika-x/">Blix</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="393639" href="https://electrek.co/2024/12/13/exclusive-vanpowers-christmas-bluetti-rad-power-more/#more-393639" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/13/exclusive-vanpowers-christmas-bluetti-rad-power-more/>
+
+---
+
+## Chevrolet Bolt EV And EUV: The Used Buyer's Guide
+
+date: 2024-12-13, from: Inside EVs News
+
+Nearly every used Chevrolet Bolt EV should meet the $25,000 threshold to be eligible for the used EV tax credit.  
+
+<br> 
+
+<https://insideevs.com/news/744245/chevy-bolt-ev-euv-used-buying-guide/>
+
+---
+
+## Hyundai CEO vows the ‘best is yet to come’ with new EVs and advanced tech arriving soon
+
+date: 2024-12-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Hyundai-new-EVs-tech.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Despite an impressive year in 2024, <a href="https://electrek.co/guides/hyundai-motor-group/">Hyundai Motor Group</a> chairman Euisun Chung told employees that even more is on the way — and it’s coming very soon. With new EVs and advanced tech launching, Hyundai’s chief said, “The real best is yet to come.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-motor-group" data-layer-viewtype="unknown" data-post-id="393594" href="https://electrek.co/2024/12/13/hyundai-ceo-vows-best-yet-to-come-new-evs-tech/#more-393594" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/13/hyundai-ceo-vows-best-yet-to-come-new-evs-tech/>
+
+---
+
+## Nikola hydrogen semi seems belly-up as production halt rumors swirl
+
+date: 2024-12-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/hydrogen-trucks.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Cash-strapped hydrogen truck maker Nikola is facing tough times — and its most recent round of layoffs has halted production of its controversial hydrogen fuel cell semi trucks as the company faces down bankruptcy (again).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hydrogen,nikola-motors" data-layer-viewtype="unknown" data-post-id="393603" href="https://electrek.co/2024/12/13/nikola-hydrogen-semi-seems-belly-up-as-production-halt-rumors-swirl/#more-393603" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/13/nikola-hydrogen-semi-seems-belly-up-as-production-halt-rumors-swirl/>
+
+---
+
+## How Nissan Blew It
+
+date: 2024-12-13, from: Inside EVs News
+
+Nissan's U.S. strategy may be permanently behind the curve. Plus, the Trump Administration may end autonomous car crash reports like Tesla wants. 
+
+<br> 
+
+<https://insideevs.com/news/744333/nissan-hybrid-tesla-mercedes-cm/>
+
+---
+
+## Researchers figured out how to make electric car batteries… from coal?!
+
+date: 2024-12-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/two-paths-many-benefit-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Researchers from the Oak Ridge National Laboratory have figured out a way to change the dirtiest fuel out there, coal, into materials to help build batteries for new clean vehicles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-batteries,raw-materials" data-layer-viewtype="unknown" data-post-id="393558" href="https://electrek.co/2024/12/13/researchers-figured-out-how-to-make-electric-car-batteries-from-coal/#more-393558" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/13/researchers-figured-out-how-to-make-electric-car-batteries-from-coal/>
+
+---
+
+## Trump wants to stop Tesla having to report its crashes with Autopilot and Full Self-Driving
+
+date: 2024-12-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-Radar-e1603395743425.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>The Trump transition team is reportedly looking to kill the requirement for Tesla to have to report its crashes involving Autopilot and Full Self-Driving features.</p>
+
+
+
+<p>It probably has nothing to do with Tesla’s CEO, Elon Musk, being on Trump’s transition team.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="393569" href="https://electrek.co/2024/12/13/trump-wants-to-stop-tesla-having-to-report-its-crashes-with-autopilot-and-full-self-driving/#more-393569" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/13/trump-wants-to-stop-tesla-having-to-report-its-crashes-with-autopilot-and-full-self-driving/>
+
+---
+
+## EVgo closes a $1.25B federal loan  to build 7,500 DC fast chargers
+
+date: 2024-12-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/evgo-station_livermore.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.evgo.com/" target="_blank" rel="noreferrer noopener">EVgo</a> (Nasdaq: EVGO) yesterday announced the closing of a $1.25 billion guaranteed US Department of Energy (DOE) loan to build around 7,500 DC fast chargers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,department-of-energy,evgo,solar" data-layer-viewtype="unknown" data-post-id="393571" href="https://electrek.co/2024/12/13/evgo-closes-a-1-25b-federal-loan-to-build-7500-dc-fast-chargers/#more-393571" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/13/evgo-closes-a-1-25b-federal-loan-to-build-7500-dc-fast-chargers/>
+
+---
+
+## CATL tells its suppliers funding won’t be an issue as a price war erupts in the EV battery market
+
+date: 2024-12-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/CATL-EV-experience.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The world’s largest EV battery maker wants even more. China’s <a href="https://electrek.co/guides/catl/">CATL</a> told its suppliers it would provide funding as it looks to gain market share and overcome an intensifying price war in the EV battery space.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="catl,ev-batteries" data-layer-viewtype="unknown" data-post-id="393564" href="https://electrek.co/2024/12/13/catl-assures-supplier-funding-ev-battery-price-war-erupts/#more-393564" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/13/catl-assures-supplier-funding-ev-battery-price-war-erupts/>
+
+---
+
+## Planning to buy an EV in December? This is the only tool you need
+
+date: 2024-12-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/35000-Chevy-Equinox-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>If you’re thinking about buying or leasing an EV this month to secure the $7,500 federal tax credit, head to <a href="https://plugstar.com/">PlugStar.com</a>, because it has everything you need.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet,electric-vehicles,ev-federal-tax-credit,evs,gm,inflation-reduction-act,tesla,vw" data-layer-viewtype="unknown" data-post-id="393488" href="https://electrek.co/2024/12/13/plugstar-buy-ev-in-december-federal-tax-credit/#more-393488" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/13/plugstar-buy-ev-in-december-federal-tax-credit/>
 
 ---
 
@@ -1438,4 +1662,84 @@ date: 2024-12-08, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2024/12/07/flat-pack-ox-electric-truck-gets-a-163-million-order-expands-in-africa/>
+
+---
+
+## Report: EV charging sessions were up 50% YoY during Thanksgiving week
+
+date: 2024-12-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/paren_evadoption.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s been a week since the most politically-charged Thanksgiving week in four years, and the results are in: people are buying more EVs, and they’re not afraid to hit the road in their new, battery-powered conveyances. The automotive and EV charging industry analysts report that DC fast charging sessions were up nearly 50% compared to the same week last year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="automotive-industry-data,ev-charging" data-layer-viewtype="unknown" data-post-id="392746" href="https://electrek.co/2024/12/07/report-ev-charging-sessions-were-up-50-yoy-during-thanksgiving-week/#more-392746" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/07/report-ev-charging-sessions-were-up-50-yoy-during-thanksgiving-week/>
+
+---
+
+## Non-Tesla EV Roadtrips 'Sucked' Last Year. Now, They're ‘Dramatically’ Better
+
+date: 2024-12-07, from: Inside EVs News
+
+Is having access to the Tesla Supercharger network really such a big deal? This YouTuber set out to find out. 
+
+<br> 
+
+<https://insideevs.com/news/743502/non-tesla-ev-road-trip-ccs-or-supercharger/>
+
+---
+
+## Here are the best electric bikes you can buy at every price level in November 2024
+
+date: 2024-12-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/tern-quick-haul-taiwan-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I’ve spent countless hours here at <em>Electrek</em> doing detailed <a href="https://electrek.co/2023/01/11/radtrike-review-testing-rad-power-bikes-electric-trike/">hands-on testing</a> of hundreds of electric bikes. Through thousands of miles of riding, I’ve been fortunate to learn these e-bikes inside and out, top to bottom and front to back. That long-term experience with real-world e-bike testing has helped me find the best electric bicycles on the market for just about any budget.</p>
+
+
+
+<p>Below are some of the top e-bikes I’ve hand-tested for every price range, current as of December 2024. It’s the last chance to grab some great holiday deals on a new e-bike! And just like the<a href="https://electrek.co/2023/11/19/now-is-the-best-time-ever-to-buy-electric-bike/"> ultra-competitive e-bike selling year</a> last year, 2024 has turned into a year of impressive e-bike sales not to be missed. So check out the awesome e-bikes below, any one of which could become your next electric bike.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="228361" href="https://electrek.co/2024/12/07/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/#more-228361" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/07/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/>
+
+---
+
+## Hydrogen early adopter faces big problems amid Nikola challenges
+
+date: 2024-12-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/nikola-hydrogen.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Nikola stock sinks to a 52-week low, a NHTSA complaint claiming the fuel cell shuts down unpredictably, and one of hydrogen’s early adopters remains unconvinced. Is it time for Nikola to throw in the towel on hydrogen?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,hydrogen,nikola-motors" data-layer-viewtype="unknown" data-post-id="392714" href="https://electrek.co/2024/12/06/hydrogen-early-adopter-faces-big-problems-amid-nikola-challenges/#more-392714" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/hydrogen-early-adopter-faces-big-problems-amid-nikola-challenges/>
+
+---
+
+## This big battery storage project will boost San Antonio’s grid
+
+date: 2024-12-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/sanantonio-skyline-2022-11-8.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>San Antonio’s grid is about to get substantial backup with a 120-megawatt (MW), 480-megawatt-hour (MWh) battery storage project. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,egeb,energy-brief,solar,texas" data-layer-viewtype="unknown" data-post-id="392701" href="https://electrek.co/2024/12/06/battery-storage-project-will-boost-san-antonio-grid/#more-392701" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/battery-storage-project-will-boost-san-antonio-grid/>
 

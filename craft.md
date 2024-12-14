@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-12-13 07:06:04
+updated: 2024-12-14 07:05:03
 ---
 
 # craft
 
-(date: 2024-12-13 07:06:04)
+(date: 2024-12-14 07:05:03)
+
+---
+
+## New Jewellery! – The Subtle Language of Adornment — Timeless Pieces
+
+date: 2024-12-13, updated: 2024-12-13, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2024/12/new-jewellery-subtle-language-of.html>
 
 ---
 
@@ -102,4 +114,28 @@ Day 12: Aqua Net Extra Super Hold This is a must-have if you have socket chisels
 <br> 
 
 <https://blog.lostartpress.com/2024/12/08/2024-anarchists-gift-guide-day-12/>
+
+---
+
+## Registration Opens This Monday! Help Us Celebrate 20 Years With 20% Off All Workshops —  Back To School in Textiles – Online Workshops
+
+date: 2024-12-07, updated: 2024-12-07, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2024/12/registration-opens-this-monday-help-us.html>
+
+---
+
+## 2024 Anarchist’s Gift Guide: Day 11
+
+date: 2024-12-07, from: Lost Arg Press blog
+
+Day 11: Milwaukee 50-piece General Purpose Utility Blades We use utility knives all the time around here, and they get dull quickly. There is little more frustrating than trying to cut with a dull blade – plus it’s dangerous. But it’s a pain to go searching for that pack of blades you know is in... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/07/2024-anarchists-gift-guide-day-11/>
 

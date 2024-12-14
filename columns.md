@@ -1,15 +1,63 @@
 ---
 title: columns
-updated: 2024-12-13 07:06:01
+updated: 2024-12-14 07:05:00
 ---
 
 # columns
 
-(date: 2024-12-13 07:06:01)
+(date: 2024-12-14 07:05:00)
 
 ---
 
-##  Six Childhood Scourges We&#8217;ve Forgotten About, Thanks to Vaccines. &#8220;Parents in the... 
+## MarkItDown: Python Tool for Converting Files and Office Documents to Markdown
+
+date: 2024-12-13, updated: 2024-12-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://github.com/microsoft/markitdown>
+
+---
+
+## What’s New in MacOS 15.2 Sequoia
+
+date: 2024-12-13, updated: 2024-12-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2024/12/11/whats-new-in-macos-15-2-here-are-apples-full-release-notes/>
+
+---
+
+## What’s New in iOS 18.2
+
+date: 2024-12-13, updated: 2024-12-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2024/12/11/ios-18-2-release-date-new-features/>
+
+---
+
+## ★ Federico Viticci on Apple Intelligence, With ChatGPT, as a Breakthrough Automation Tool
+
+date: 2024-12-13, updated: 2024-12-13, from: Daring Fireball
+
+Like Viticci, I remain largely skeptical and uncomfortable with AI for purposes of generating original new stuff — writing, imagery, whatever. But as an assistive agent, it’s quite remarkable today and improving at a fast clip. 
+
+<br> 
+
+<https://daringfireball.net/2024/12/viticci_apple_intelligence_chatgpt_automation>
+
+---
+
+##  Go Back Home, Your Mother Made You Waffles 
 
 date: 2024-12-13, updated: 2024-12-13, from: Jason Kittke's blog
 
@@ -17,11 +65,37 @@ date: 2024-12-13, updated: 2024-12-13, from: Jason Kittke's blog
 
 <br> 
 
-<https://kottke.org/24/12/0045848-six-childhood-scourges-we>
+<https://kottke.org/24/12/go-back-home-your-mother-made-you-waffles>
 
 ---
 
-##  Museums should be free, but if they can&#8217;t be free, they should... 
+## Friday Squid Blogging: Biology and Ecology of the Colossal Squid
+
+date: 2024-12-13, updated: 2024-12-09, from: Bruce Schneier blog
+
+<p>Good <a href="https://nora.nerc.ac.uk/id/eprint/518000/">survey paper</a>.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/12/friday-squid-blogging-biology-and-ecology-of-the-colossal-squid.html>
+
+---
+
+## The CEO suck-ups to Trump
+
+date: 2024-12-13, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-ceo-suckups-to-trump>
+
+---
+
+##  &#8220;What would happen if you spent a nanosecond on the surface of... 
 
 date: 2024-12-13, updated: 2024-12-13, from: Jason Kittke's blog
 
@@ -29,46 +103,7 @@ date: 2024-12-13, updated: 2024-12-13, from: Jason Kittke's blog
 
 <br> 
 
-<https://kottke.org/24/12/0045792-museums-should-be-free-bu>
-
----
-
-## ‘Looking Forward’: A Brief Film for Our Times.
-
-date: 2024-12-13, from: James Fallows, Substack
-
-Optimism? Pessimism? The compelling (and beautiful) case for both at once. 
-
-<br> 
-
-<https://fallows.substack.com/p/looking-forward-a-brief-film-for>
-
----
-
-## systemd begrudgingly drops a safety net while a challenger appears, GNU Shepherd 1.0
-
-date: 2024-12-13, updated: 2024-12-13, from: Liam Proven's articles at the Register
-
-<h4>Holidays come early for distro builders with two init systems to choose from</h4>
-      <p>Everyone&#39;s favorite Linux component has hit a milestone, while a fresh contender comes of age – with a touch of Lisp.</p> 
-
-<br> 
-
-<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/>
-
----
-
-## 
-                A quick look at OS/2’s builtin virtualization
-            
-
-date: 2024-12-13, updated: 2024-12-13, from: Uninformative blog
-
- 
-
-<br> 
-
-<https://www.uninformativ.de/blog/postings/2024-12-13/0/POSTING-en.html>
+<https://kottke.org/24/12/0045710-what-would-happen-if-you>
 
 ---
 
@@ -208,11 +243,254 @@ requirements is fundamentally not solvable on a technical level.</p>
 
 <p>And we need to start practising now, while we&rsquo;re alive.</p>
 
-<p><a class="tag" href="/search/?q=%23Archives">#Archives</a> <a class="tag" href="/search/?q=%23Web">#Web</a></p> 
+<p><a class="tag" href="/search/?q=%23Archives">#Archives</a> <a class="tag" href="/search/?q=%23Web">#Web</a></p>
+
+<p><strong>2024-12-13</strong>. I&rsquo;ve been working on <a href="https://transjovian.org/view/archives/index">a wiki for the association</a>.</p> 
 
 <br> 
 
 <https://alexschroeder.ch/view/2024-12-13-archiving-homepages>
+
+---
+
+##  Time Lapse: From Pinecone to Pine Tree in 110 Seconds 
+
+date: 2024-12-13, updated: 2024-12-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/time-lapse-from-pinecone-to-pine-tree-in-110-seconds>
+
+---
+
+## 'Tis the season to test the RHEL and AlmaLinux 10 betas
+
+date: 2024-12-13, updated: 2024-12-13, from: Liam Proven's articles at the Register
+
+<h4>And the kernel team&#39;s patience?</h4>
+      <p>AlmaLinux 10 is joining RHEL 10 in public beta testing, and the developers of CentOS Stream 10 have just hit the release button ahead of the festive break.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/12/13/rhel_almalinux_betas/>
+
+---
+
+##  Look at feisty confectionary upstart Skittles trying to get in on the... 
+
+date: 2024-12-13, updated: 2024-12-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045829-look-at-feisty-confection>
+
+---
+
+## Patrick Soon-Shiong’s Tanking of the LA Times Continues
+
+date: 2024-12-13, updated: 2024-12-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2024/12/12/business/media/la-times-patrick-soon-shiong.html>
+
+---
+
+##  The Invention That Accidentally Made McMansions 
+
+date: 2024-12-13, updated: 2024-12-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/the-invention-that-accidentally-made-mcmansions>
+
+---
+
+## December 12, 2024
+
+date: 2024-12-13, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153079835/f0d5fc90f0a3aa293be84ba0bcfb5256.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153079835/f0d5fc90f0a3aa293be84ba0bcfb5256.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-12-2024-de0>
+
+---
+
+## Pi modder successfully adds M.2 slot to Pi 500
+
+date: 2024-12-13, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Pi modder successfully adds M.2 slot to Pi 500</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>As I briefly mentioned yesterday, someone <a href="https://www.jeffgeerling.com/comment/34602#comment-34602">mentioned in this blog's comments</a> a successful M.2 socket installation on the empty header on the Pi 500 (<a href="https://www.youtube.com/watch?v=omYWRb1dLA4">something I attempted, rather poorly!</a>). With a few added components, and 3.3V supplied to a pad on the bottom via a bench power supply, the M.2 slot works just fine, allowing the use of NVMe SSDs or <a href="https://pipci.jeffgeerling.com">other PCIe devices</a>.</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/pi-500-ssd-console-output.jpg" alt="Pi 500 NVMe dmesg boot info"></p>
+
+<p>Indeed, this person emailed me further proof, along with notes for anyone wishing to follow in their footsteps.</p>
+
+<p>First, solder on four minuscule capacitors (rating may be gleaned off the CM5 IO Board schematics, I think?) on the PCIe lines heading to the NVMe slot. These are <em>incredibly</em> small, so a good microscope and decent SMD soldering skills are pretty necessary.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-12-13T10:59:08-06:00" title="Friday, December 13, 2024 - 10:59" class="datetime">December 13, 2024</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2024/pi-modder-successfully-adds-m2-slot-pi-500>
+
+---
+
+##  I really like this: &#8220;If you think about it, the very best... 
+
+date: 2024-12-13, updated: 2024-12-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045850-i-really-like-this-if>
+
+---
+
+## Ultralytics Supply-Chain Attack
+
+date: 2024-12-13, updated: 2024-12-13, from: Bruce Schneier blog
+
+<p>Last week, we saw a supply-chain attack against the Ultralytics AI library on GitHub. A <a href="https://www.reversinglabs.com/blog/compromised-ultralytics-pypi-package-delivers-crypto-coinminer">quick summary</a>:</p>
+<blockquote><p>On December 4, a malicious version 8.3.41 of the popular AI library <i>ultralytics</i> ­&#8212;which has almost 60 million downloads&#8212;was published to the Python Package Index (PyPI) package repository. The package contained downloader code that was downloading the <i>XMRig</i> coinminer. The compromise of the project&#8217;s build environment was achieved by exploiting a known and previously reported GitHub Actions script injection.</p></blockquote>
+<p>Lots more details at that link. Also ...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/12/ultralytics-supply-chain-attack.html>
+
+---
+
+## Mid-day ramble
+
+date: 2024-12-13, from: Dave Winer's Scripting News
+
+<p>There was a moment a couple of years ago when Mastodon was gaining traction in a serious way when I thought that Automattic should do something publicly to demonstrate support for it because I felt that WordPress and Mastodon were two sides of the same important coin. </p>
+<p>As you know, I've felt as a writer that we've been tragically limited by the idea that Twitter popularized that there was glory in removing features that writers could use. As if to say that writers were over-using things like links, simple styling, titles, the ability to edit, or to finish a thought. These were all very basic features of writing on the web before 2006, as they should have been. </p>
+<p>Somehow a mass psychosis took over and there was a belief that these limits were good. I am shaking my head as I write this. It's as ridiculous an idea as the one that's going around at the top levels of our <a href="https://www.reuters.com/world/us/trump-discuss-ending-childhood-vaccination-programs-with-rfk-jr-2024-12-12/">future</a> <a href="https://www.nytimes.com/2024/12/13/health/aaron-siri-rfk-jr-vaccines.html?unlocked_article_code=1.hE4.9RTQ.LzniX-N7b4Jd&smid=bs-share">government</a> that we should <a href="https://www.mayoclinic.org/diseases-conditions/history-disease-outbreaks-vaccine-timeline/polio">bring polio back</a> to the children of America and the world.  </p>
+<p>Anyway, by supporting Mastodon, I hoped people would make the link between WordPress, which has none of those limits, yet is very popular for publishing on the web, and Mastodon, which I (it turns out correctly) believed would navigate away from those limits given enough time. </p>
+<p>I think I sent an email or a text message to Matt, or wrote a note on their Slack system, communicating with Matt is an iffy thing, not sure if the idea got through. Then this morning, I woke in the middle of the night, and realized that what I wished for was actually there. Without any fanfare at all. I could write on WordPress and it would <a href="https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113644817289884129">appear on Mastodon</a>. How is that not <i>exactly</i> what I asked for? And theoretically at least (someone should test this) you can access my WordPress writing on Threads, the system that Facebook launched to (as it turns out) compete with Bluesky! (In addition to Twitter, which is no longer called Twitter of course.) What a strange world it is. </p>
+<p>And in the interim, the focus has gone off the social web, imho because the limits are still very much in force at Bluesky, which still insists a post can only have 300 freaking characters and no links, styles etc blah blah blah and yadda yadda. <i>We're still having this argument. </i>Programmers vs writers. The world has lost its mind. </p>
+<p>And in another thread there are idiots who propose trying to vilify and presumably <a href="https://en.wikipedia.org/wiki/Cancel_culture">cancel</a> people <a href="http://scripting.com/2024/12/12/161258.html">who</a> drive Teslas as if the car you use for transport is as trivial a possession as a fur coat. </p>
+<p>I'm having a great day, no sarcasm, all of a sudden I feel like we might actually be winning, again. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/12/13/161841.html?title=middayRamble>
+
+---
+
+##  Restoring Vintage Star Wars Posters 
+
+date: 2024-12-13, updated: 2024-12-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/restoring-vintage-star-wars-posters>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2024-12-13, from: Ryan Gantz Bluesky feed)
+
+after doing my own research and asking myself and my loved ones some really tough questions, I have decided that I do NOT want to contract polio 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3ld73ldq64227>
+
+---
+
+##  Evan Gershkovich, recently freed by the Putin regime, has the lead byline... 
+
+date: 2024-12-13, updated: 2024-12-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045849-evan-gershkovich-recently>
+
+---
+
+##  Six Childhood Scourges We&#8217;ve Forgotten About, Thanks to Vaccines. &#8220;Parents in the... 
+
+date: 2024-12-13, updated: 2024-12-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045848-six-childhood-scourges-we>
+
+---
+
+##  Museums should be free, but if they can&#8217;t be free, they should... 
+
+date: 2024-12-13, updated: 2024-12-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045792-museums-should-be-free-bu>
+
+---
+
+## ‘Looking Forward’: A Brief Film for Our Times.
+
+date: 2024-12-13, from: James Fallows, Substack
+
+Optimism? Pessimism? The compelling (and beautiful) case for both at once. 
+
+<br> 
+
+<https://fallows.substack.com/p/looking-forward-a-brief-film-for>
+
+---
+
+## systemd begrudgingly drops a safety net while a challenger appears, GNU Shepherd 1.0
+
+date: 2024-12-13, updated: 2024-12-13, from: Liam Proven's articles at the Register
+
+<h4>Holidays come early for distro builders with two init systems to choose from</h4>
+      <p>Everyone&#39;s favorite Linux component has hit a milestone, while a fresh contender comes of age – with a touch of Lisp.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/>
+
+---
+
+## 
+                A quick look at OS/2’s builtin virtualization
+            
+
+date: 2024-12-13, updated: 2024-12-13, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2024-12-13/0/POSTING-en.html>
 
 ---
 
@@ -636,7 +914,7 @@ date: 2024-12-12, from: Matt Haughey blog
 
 ## ★ The Information Suggests, in an Aside, That Apple Scrapped Work on a Quad-Max/Double-Ultra M-Series Chip
 
-date: 2024-12-12, updated: 2024-12-12, from: Daring Fireball
+date: 2024-12-12, updated: 2024-12-13, from: Daring Fireball
 
 Reporting from The Information suggests that an M-series tier above Ultra might remain years away. 
 
@@ -793,7 +1071,7 @@ date: 2024-12-11, updated: 2024-12-11, from: Jason Kittke's blog
 
 ## MacOS Sequoia 15.2 Includes References to Next Year’s M4 MacBook Air Models
 
-date: 2024-12-11, updated: 2024-12-11, from: Daring Fireball
+date: 2024-12-11, updated: 2024-12-14, from: Daring Fireball
 
  
 
@@ -2165,4 +2443,547 @@ date: 2024-12-08, updated: 2024-12-08, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/24/12/0045805-jia-tolentino-on-the-some>
+
+---
+
+##  A fantastic interactive feature about the newly restored Notre-Dame cathedral. &#8220;Each day... 
+
+date: 2024-12-07, updated: 2024-12-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045804-a-fantastic-interactive-f>
+
+---
+
+## 2024-12-07 Armour in 2d6 Ultraviolet Grasslands
+
+date: 2024-12-07, from: Alex Schroeder's Blog
+
+<h1 id="2024-12-07-armour-in-2d6-ultraviolet-grasslands">2024-12-07 Armour in 2d6 Ultraviolet Grasslands</h1>
+
+<p>I&rsquo;m running Ultraviolet Grasslands (UVG) using 2d6 rules. UVG itself
+uses d20 rules and so I often have to translate back and forth and it
+is not very satisfying, to be honest.</p>
+
+<p>So what to do? In <a href="https://campaignwiki.org/wiki/MontagInZ%c3%bcrich/2024-11-17_Ultraviolet_Grasslands">a recent episode</a> of the <a href="https://campaignwiki.org/wiki/MontagInZürich/Internet_Office_Hours">Internet Office Hours</a> podcast,
+<a class="account" href="https://ludosphere.fr/@Whidou" title="@Whidou@ludosphere.fr">@Whidou</a> suggested a system of immunities.
+So here are my thoughts.</p>
+
+<h2 id="brainstorming">Brainstorming</h2>
+
+<p>Weapons are either &ldquo;normal&rdquo; (2d6 damage) or &ldquo;extreme violence&rdquo; (3d6
+damage). Some weapons might be practically instant death weapons, like
+plasma guns, necrotic blasters desintegrators and the like. These
+might do 4d6 and more damage.</p>
+
+<table>
+<thead>
+<tr>
+<th>Normal Weapon</th>
+<th>Vicious Weapon</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Dagger</td>
+<td>Halberd</td>
+</tr>
+
+<tr>
+<td>Axe</td>
+<td>Chainsword</td>
+</tr>
+
+<tr>
+<td>Spear</td>
+<td>Cat Rifle</td>
+</tr>
+
+<tr>
+<td>Blade</td>
+<td>Radiant Gun</td>
+</tr>
+
+<tr>
+<td>Bow</td>
+<td>Ultra Blaster</td>
+</tr>
+
+<tr>
+<td>Pistol</td>
+<td>Blue God Blaster</td>
+</tr>
+
+<tr>
+<td>Scimitar</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Long Knife</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Cutlass</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Rapier</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Claymore</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Zweihänder</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Crossbow</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Armour either makes you &ldquo;hard to hit&rdquo;
+(3d6 ≤ attribute + skill) or &ldquo;impossible to hit&rdquo;.</p>
+
+<table>
+<thead>
+<tr>
+<th>Armour</th>
+<th>Hard to hit</th>
+<th>Impossible to hit</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Iron Breastplatte</td>
+<td>Blade weapons</td>
+<td>none</td>
+</tr>
+
+<tr>
+<td>Skinchanger Suit</td>
+<td>Blade weapons</td>
+<td>none</td>
+</tr>
+
+<tr>
+<td>Ballistic Linen</td>
+<td>Scimitar</td>
+<td>Sluggers (Pistol, SMG, Rifle)</td>
+</tr>
+
+<tr>
+<td>Scale Shirt</td>
+<td>Blade weapons</td>
+<td>none</td>
+</tr>
+
+<tr>
+<td>Lobster Armour</td>
+<td>Normal weapons</td>
+<td>none</td>
+</tr>
+
+<tr>
+<td>Bone Mesh Armnour</td>
+<td>All weapons</td>
+<td>none</td>
+</tr>
+
+<tr>
+<td>Spectral Combat Suit</td>
+<td>Energy weapons, Sluggers</td>
+<td>Normal weapons</td>
+</tr>
+
+<tr>
+<td>Porcelain Armour</td>
+<td>Energy weapons, Sluggers</td>
+<td>Normal weapons</td>
+</tr>
+
+<tr>
+<td>Golem Armour</td>
+<td>Energy weapons</td>
+<td>Normal weapons, Sluggers</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="tags">Tags</h2>
+
+<p>Perhaps it would be best to extend the list of tags UVG uses. Then
+weapons can have tags such as Cut, Stab, Crush, Slug, Energy, Necrotic,
+Blast – and armour can confer protection or immunity
+against these tags. Other tags are easy to add:</p>
+
+<ul>
+<li>2H prevents the use of a shield.</li>
+<li>Vicious deals 3d6 instead of 2d6 damage.</li>
+<li>Close means that it&rsquo;s good for close combat, like in tunnels or inside narrow corridors. Enemies with longer weapons get a free attack if you need to close (outside of tunnels and corridors).</li>
+<li>Range means that you can shoot stuff.</li>
+</ul>
+
+<table>
+<thead>
+<tr>
+<th>Weapon</th>
+<th>Tags</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Dagger</td>
+<td>Stab, Close</td>
+</tr>
+
+<tr>
+<td>Axe</td>
+<td>Crush, Close</td>
+</tr>
+
+<tr>
+<td>Spear</td>
+<td>Stab</td>
+</tr>
+
+<tr>
+<td>Sword</td>
+<td>Cut</td>
+</tr>
+
+<tr>
+<td>Bow</td>
+<td>Stab, Range</td>
+</tr>
+
+<tr>
+<td>Pistol</td>
+<td>Slug, Range</td>
+</tr>
+
+<tr>
+<td>SMG</td>
+<td>Slug, Range</td>
+</tr>
+
+<tr>
+<td>Scimitar</td>
+<td>Cut</td>
+</tr>
+
+<tr>
+<td>Long Knife</td>
+<td>Stab</td>
+</tr>
+
+<tr>
+<td>Cutlass</td>
+<td>Cut, Stab</td>
+</tr>
+
+<tr>
+<td>Rapier</td>
+<td>Stab</td>
+</tr>
+
+<tr>
+<td>Claymore</td>
+<td>Cut, Crush</td>
+</tr>
+
+<tr>
+<td>Zweihänder</td>
+<td>Cut, Crush</td>
+</tr>
+
+<tr>
+<td>Crossbow</td>
+<td>Crush, Range</td>
+</tr>
+
+<tr>
+<td>Halberd</td>
+<td>Crush, Vicious</td>
+</tr>
+
+<tr>
+<td>Chainsword</td>
+<td>Energy, Vicious</td>
+</tr>
+
+<tr>
+<td>Cat Rifle</td>
+<td>Slug, Range, Vicious</td>
+</tr>
+
+<tr>
+<td>Radiant Gun</td>
+<td>Energy, Range, Vicious</td>
+</tr>
+
+<tr>
+<td>Ultra Blaster</td>
+<td>Blast, Energy, Range, Vicious</td>
+</tr>
+
+<tr>
+<td>Blue God Blaster</td>
+<td>Blast, Necrotic, Range, Vicious</td>
+</tr>
+</tbody>
+</table>
+<p>Vicious weapons do 3d6 damage; blast weapons do 4d6 damage. Stationary
+guns like plasma guns go on a different list but do 5d6 and more
+damage. Scope creep!</p>
+
+<p>And then armour! Using some more tags, too.</p>
+
+<ul>
+<li>Hot means no problem in cold environments but endurance tests to act otherwise</li>
+<li>Cold means no problem but cannot be worn outside of combat in cold environments</li>
+<li>Bulky means no sneaking and similar checks</li>
+<li>Rare cannot be bought at a regular shop</li>
+<li>Alive means that it is a permanent part of your body, now</li>
+<li>Power means that it can only be used for the given number of fights until it needs recharging; the altar to charge it takes a whole sack (a porter to carry it)</li>
+</ul>
+
+<table>
+<thead>
+<tr>
+<th>Armour</th>
+<th>Hard to hit</th>
+<th>Impossible to hit</th>
+<th>Other</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Iron Breastplate</td>
+<td>Cut, Stab</td>
+<td>none</td>
+<td>Hot, Bulky</td>
+</tr>
+
+<tr>
+<td>Skinchanger Suit</td>
+<td>Cut</td>
+<td>none</td>
+<td>Alive, Rare</td>
+</tr>
+
+<tr>
+<td>Ballistic Linen</td>
+<td>Cut, Stab</td>
+<td>Slug</td>
+<td>Cool</td>
+</tr>
+
+<tr>
+<td>Scale Shirt</td>
+<td>Cut</td>
+<td>none</td>
+<td>Hot, Bulky</td>
+</tr>
+
+<tr>
+<td>Lobster Armour</td>
+<td>Cut, Stab, Crush</td>
+<td>none</td>
+<td>Cool, Bulky</td>
+</tr>
+
+<tr>
+<td>Steel Cuirass</td>
+<td>Cut, Stab</td>
+<td>none</td>
+<td>Hot, Bulky</td>
+</tr>
+
+<tr>
+<td>Bone Mesh Armour</td>
+<td>Cut, Stab, Crush, Necrotic</td>
+<td>none</td>
+<td>Cool, Bulky, Rare</td>
+</tr>
+
+<tr>
+<td>Spectral Combat Suit</td>
+<td>Energy, Slug</td>
+<td>Cut, Stab, Crush</td>
+<td>Cool, Power 6, Bulky</td>
+</tr>
+
+<tr>
+<td>Porcelain Armour</td>
+<td>Energy, Slug</td>
+<td>Cut, Stab, Crush</td>
+<td>Cool, Power 6, Bulky</td>
+</tr>
+
+<tr>
+<td>Golem Armour</td>
+<td>Energy</td>
+<td>Cut, Stab, Crush, Slug</td>
+<td>Cool, Power 8, Rare</td>
+</tr>
+</tbody>
+</table>
+<p>A shield can be used to negate a single hit. (&ldquo;Shields shall be splintered.&rdquo;)</p>
+
+<p>I wonder how good spears and other stabbing weapons are, though.
+Cutting weapons really must be the best weapons against unarmoured
+opponents! Why were axes unpopular given the table above? There must
+be more to it.</p>
+
+<p>Let&rsquo;s test some assumptions:</p>
+
+<ul>
+<li>the crossbow and halberd are armour piercing: yes, because breastplate, scale shirt and cuirass all don&rsquo;t protect against Crush</li>
+<li>the dagger is good for unsuspecting enemies because it&rsquo;s Close</li>
+<li>the axe is is good for fighting in close quarters against armoured opponents because it&rsquo;s Close and Crush</li>
+<li>there cloth armour that helps against the smaller calibres (pistols and SMGs)</li>
+<li>golem armour is immune against slug throwers</li>
+<li>the advanced combat suites (spectral, porcelain) make you immune to normal melee weapons</li>
+</ul>
+
+<p>Surprising result: Swords are pretty bad against armoured opponents.
+Perhaps they are mostly a status symbol after all.
+A status symbol of a ruling warrior class over unarmed peasants.
+They&rsquo;re probably just easier to carry than spears.</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%232d6">#2d6</a> <a class="tag" href="/search/?q=%23Ultraviolet_Grasslands">#Ultraviolet Grasslands</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-12-07-armour>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/27/rssClub.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="http://scripting.com/images/2024/12/07/blogrollScreen.png">Screen shot</a> of my blogroll on Scripting News. It's dynamic. Shown are the latest posts on the <a href="https://www.emptywheel.net/">emptywheel</a> blog. When a blog updates it moves to the top of the list. A 2024 adaptation of a <a href="https://chatgpt.com/share/67547f62-b134-8012-9384-03649c49c969 ">concept</a> from early blogging days. It should be part of the social web. You can try it out realtime at <a href="http://scripting.com/">scripting.com</a>. 
+
+<br> 
+
+<http://scripting.com/2024/12/07.html#a165306>
+
+---
+
+## Prison Communication in Canyon County and Idaho State Prisons
+
+date: 2024-12-07, updated: 2024-12-07, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2024/12/07/treasure-valley-idaho-jail-communications/>
+
+---
+
+## Why I like my Model Y
+
+date: 2024-12-07, from: Dave Winer's Scripting News
+
+<p>Yesterday I <a href="http://scripting.com/2024/12/06.html#a150415">wrote</a> that I'd trade in my Model Y if an non-Tesla EV came along that equaled it. A few people asked what I liked about the Model Y that I'm not finding in alternatives. Here's the list. </p>
+<ul>
+<li>I love the handling of the Tesla. It's a <a href="https://en.wikipedia.org/wiki/Muscle_car">muscle car</a> like the 2007 <a href="https://www.kbb.com/bmw/5-series/2007/">BMW 535i</a> I used to drive, great acceleration, but handles like the 1993 <a href="https://www.cars.com/research/mazda-mx_5_miata-1993/">Miata</a> another car I owned and loved. I've also owned really sloppy cars like a <a href="https://www.caranddriver.com/subaru/forester-2022">Subaru Forester</a> or a <a href="https://www.cars.com/research/toyota-sienna-2004/">Toyota Sienna</a> minivan, even a <a href="https://en.wikipedia.org/wiki/Plymouth_Voyager#Full-size_van_(AB;_1974%E2%80%931983)">1974 Plymouth Voyager</a>, the largest American passenger car ever made. I'm never going back to a car that doesn't have the authority of a Model Y. </li>
+<li>The Model Y has lots of headroom, which my long torso needs, so I don't bruise my head each time I get in the freaking car. </li>
+<li>I have a Tesla charger at home, so whatever I buy has to be compatible with or adaptable to it.</li>
+<li>4WD is important because where I live it snows in winter, and I drive on dirt roads a lot too.</li>
+<li>It's a computer. It's going to be hard for a competitor to offer the integration with a network that Tesla offers, they're a computer company as much as they're a car company. Their connection to Starlink (assumed to be coming) is going to be hard to compete with too. </li>
+<li>Calling it <i>self-driving</i> should get them in trouble with the FTC, there's no way anyone should trust it to drive itself, and the car's OS enforces that view, so I guess they have lawyers at Tesla. That said, I like having access to this technology. I've been an innovative software developer for a long time, and I like using tech that pushes the leading edge. The marketing (a Musk feature presumably) is what I don't like. </li>
+<li>Charging network. I occasionally take trips that are out of range of my home charger, to Boston, or NYC sometimes leave me needing a charge on the way home. I'd like to have the option of driving cross-country as well. The Tesla charging network is a big plus. I honestly don't know how good the charging situation is for other brands. This would be something for car magazines to rate, to have a way of measuring it, as people who are put off by Musk's politics (about 1/2 of American voters) look for ways to drive something other than a Tesla. </li>
+</ul>
+<p>So this turned into an ad for Tesla. Heh. </p>
+<p>There are <i>reasons</i> we love it so much. </p>
+<p>Just separate from Musk and all's well. </p>
+<p>I've been thinking Tesla drivers who love America should have some kind of demonstration. We all park our cars around local Tesla dealers, let the police tow our cars, only to be replaced by other Teslas. We're all computer nerds, we could probably even figure out the scheduling. We probably have nearly as much money as they do. Just sayin. </p>
+<p>Tired of companies that push us around politically and Tesla is one of the worst. So far they've managed to convince us they aren't Elon Musk, but that's a mirage, he is the company and the company is him. They are completely one and the same. </p>
+<p>Like the <a href="https://en.wikipedia.org/wiki/Mike_Lindell">My Pillow guy</a> and his <a href="https://www.youtube.com/watch?v=FCHDCNvC_NE">pillows</a>. <span class="spOldSchoolEmoji">😄</span></p>
+<p><a href="http://scripting.com/wavs/curly1.wav"><img src="https://imgs.scripting.com/2023/11/30/curly.png" width="53" height="63" border="0" alt="I'm trying to think but nothing happens!"></a></p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/12/07/142329.html?title=whyILikeMyModelY>
+
+---
+
+## Digital Isle of Man: For all your connected tax haven needs?
+
+date: 2024-12-07, updated: 2024-12-07, from: Liam Proven's articles at the Register
+
+<h4>Fantasizing about leaving the mess at home behind? Pretty island packed with medieval ruins promotes itself as a venue for e-business</h4>
+      <p>The Isle of Man Government runs an annual conference to promote the tiny nation as a destination for online businesses.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/12/07/digital_isle_2024/>
+
+---
+
+## Rage Against the Machine | The Coffee Klatch, December 7, 2024
+
+date: 2024-12-07, from: Robert Reich's blog
+
+With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/152686188/6284d559ce86b812d23eaaa994a268b3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/152686188/6284d559ce86b812d23eaaa994a268b3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/rage-against-the-machine-the-coffee>
+
+---
+
+## Weeknotes: Nov. 30 – Dec. 6, 2024
+
+date: 2024-12-07, from: Tracy Durnell Blog
+
+👉 Do you have a blog? I&#8217;m offering to edit 5 people&#8217;s draft posts! I&#8217;ve had zero takers so far.  Win of the week: bought so many things I&#8217;ve been needing to! Made up for four and a half years of delayed purchases over Black Friday weekend 😆 Looking forward to: reading a book this weekend Stuff [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/12/06/weeknotes-nov-30-dec-6-2024/>
+
+---
+
+## Dithering
+
+date: 2024-12-07, updated: 2024-12-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://dithering.fm/>
+
+---
+
+## December 6, 2024 
+
+date: 2024-12-07, from: Heather Cox Richardson blog
+
+On the sunny Sunday morning of December 7, 1941, Messman Doris Miller had served breakfast aboard the USS West Virginia, stationed in Pearl Harbor, Hawaii, and was collecting laundry when the first of nine Japanese torpedoes hit the ship. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-6-2024>
 

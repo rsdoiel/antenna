@@ -1,11 +1,23 @@
 ---
 title: parks
-updated: 2024-12-13 07:06:03
+updated: 2024-12-14 07:05:02
 ---
 
 # parks
 
-(date: 2024-12-13 07:06:03)
+(date: 2024-12-14 07:05:02)
+
+---
+
+## Adventure of the Month: Folsom Powerhouse Is the Place That Made the Lights Go on in California
+
+date: 2024-12-13, from: California State Parks blog
+
+Folsom Powerhouse State Historic Park (SHP), situated between Sacramento and the base of the Sierra foothills, is the place that literally put California on the grid. It pays tribute to a period of visionary technological innovations and enterprising individuals, and it is a great destination for visitors who want to learn more about the period [&#8230;] 
+
+<br> 
+
+<https://castateparks.wordpress.com/2024/12/13/adventure-of-the-month-folsom-powerhouse-is-the-place-that-made-the-lights-go-on-in-california/>
 
 ---
 

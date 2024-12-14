@@ -1,11 +1,49 @@
 ---
 title: pacific
-updated: 2024-12-13 07:06:00
+updated: 2024-12-14 07:04:59
 ---
 
 # pacific
 
-(date: 2024-12-13 07:06:00)
+(date: 2024-12-14 07:04:59)
+
+---
+
+## Class suit alleges inhumane conditions at Guam correctional facilities
+
+date: 2024-12-13, from: Pacific Island Times
+
+By Jayvee Vallejera   A class action lawsuit filed Thursday against Guam’s Department of Corrections highlights decades of neglect and... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/class-suit-alleges-inhumane-conditions-at-guam-correctional-facilities>
+
+---
+
+## Applications open for free CIP/CIA courses for culinarians
+
+date: 2024-12-13, from: University of Hawaiʻi News
+
+<p>Chopped winner Lance Nitahara will teach two new cohorts of a collaboration between the Culinary Institute of the Pacific and the Culinary Institute of America.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/13/applications-open-cip-cia-courses/">Applications open for free <abbr>CIP</abbr>/<abbr>CIA</abbr> courses for culinarians</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/13/applications-open-cip-cia-courses/>
+
+---
+
+## UH lands $110M DoD contract for cutting-edge research
+
+date: 2024-12-13, from: University of Hawaiʻi News
+
+<p><abbr>ARL</abbr> at <abbr>UH</abbr> has secured over $175 million in funding since its establishment in 2008.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/13/110m-contract-cutting-edge-research/"><abbr>UH</abbr> lands $110<abbr>M</abbr> <abbr>DoD</abbr> contract for cutting-edge research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/13/110m-contract-cutting-edge-research/>
 
 ---
 
@@ -230,6 +268,34 @@ date: 2024-12-13, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/12/13/nation-world-news/are-religious-people-more-generous-than-non-religious-people-what-new-study-finds/>
+
+---
+
+## Police seeking three escapees from Hale Nani Correctional Facility
+
+date: 2024-12-13, from: Hawaii Tribune Harold
+
+
+				<p>Police are looking for a trio of escapees from Hale Nani Correctional Facility in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/13/hawaii-news/police-seeking-two-escapees-from-hale-nani-correctional-facility/>
+
+---
+
+## Big Island child first pediatric flu death this season
+
+date: 2024-12-13, from: Hawaii Tribune Harold
+
+
+				<p>A Big Island child with underlying medical conditions became the first influenza-associated death in a Hawaii resident under the age of 18 during this flu season, according to the state Department of Health.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/13/hawaii-news/big-island-child-first-pediatric-flu-death-this-season/>
 
 ---
 
@@ -610,6 +676,18 @@ date: 2024-12-12, from: Marshal Islands Journal
 
 ---
 
+## 14 million tons of plastic are dumped into the oceans each year. 6 ways you can help reduce waste
+
+date: 2024-12-12, updated: 2024-12-12, from: Marianas Variety
+
+(BPT) - The world's oceans are a magical, beautiful ecosystem ... and they also need help — urgently. According to the Ellen MacArthur Foundation, by 2050, there will be more plastic by weight than fish in the ocean. Let that sink in. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/home_improvement/14-million-tons-of-plastic-are-dumped-into-the-oceans-each-year-6-ways-you/article_6ceda46c-f291-5b55-bcd8-4734e073f92c.html>
+
+---
+
 ## Large marine protected areas are boosting fish catch rates
 
 date: 2024-12-12, from: University of Hawaiʻi News
@@ -623,6 +701,18 @@ The post <a href="https://www.hawaii.edu/news/2024/12/12/large-marine-protected-
 
 ---
 
+## Got holiday FOMO? 7 ways to stay healthy so you can enjoy the festive season
+
+date: 2024-12-12, updated: 2024-12-12, from: Marianas Variety
+
+(BPT) - Nobody wants to feel sick during the holiday season. From the hustle and bustle of office parties, school programs, holiday concerts, parades and gatherings with loved ones, the festivities are endless. But just as our calendars fill up, cold and flu season hits, creating a perfect storm of germs when we most want to stay healthy. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/seasonal/got-holiday-fomo-7-ways-to-stay-healthy-so-you-can-enjoy-the-festive-season/article_be03fc41-c65b-5c30-8d11-87ccfa432bfb.html>
+
+---
+
 ## Parrotfish Eulogy
 
 date: 2024-12-12, from: Hawai'i Pacific Review (HPU Literary Magazine)
@@ -632,6 +722,18 @@ by Courtney Hitson This sky unpeeled her eyelids’ opal interiors and tossed yo
 <br> 
 
 <https://hawaiipacificreview.org/2024/12/12/parrotfish-eulogy/>
+
+---
+
+## How to find thoughtful gifts that make a lasting impression
+
+date: 2024-12-12, updated: 2024-12-12, from: Marianas Variety
+
+(BPT) - Every holiday season, finding the perfect gifts for your loved ones can feel overwhelming. This year, let Lowe's simplify the process with unique, thoughtful options that bring joy and creativity to your celebrations. Whether you're shopping for kids, the DIY enthusiast, or even that hard-to-buy-for relative, Lowe's has you covered with an exciting lineup of gifts and services designed to make your holiday stress-free. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/seasonal/how-to-find-thoughtful-gifts-that-make-a-lasting-impression/article_33f51ddf-64f9-5ead-bc24-b9cb92930b15.html>
 
 ---
 
@@ -2501,4 +2603,248 @@ date: 2024-12-08, from: Pacific Island Times
 <br> 
 
 <https://www.pacificislandtimes.com/post/hope-for-guam-s-struggling-artists>
+
+---
+
+## Don’t wait ‘til it’s too late 
+
+date: 2024-12-07, from: Pacific Island Times
+
+Why is it that when someone you know becomes “someone you knew,” you suddenly think of how much that person meant to you? 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/don-t-wait-til-it-s-too-late>
+
+---
+
+## An Arctic hamlet is sinking into the thawing permafrost
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>TUKTOYAKTUK, Canada &#8212; On the shore of Lake Tiktalik in Canada&#8217;s Western Arctic, the thawing permafrost had set off two huge landslides into the water, leaving yawning craters on the tundra. These &#8220;thaw slumps&#8221; measured several hundred feet wide and just as deep.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/an-arctic-hamlet-is-sinking-into-the-thawing-permafrost/>
+
+---
+
+## TikTok faces US ban after losing bid to overturn new law
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>TikTok is one step closer to disappearing in the United States after a panel of federal judges Friday unanimously upheld a new law that could lead to the banning of the popular Chinese-owned video app by mid-January.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/tiktok-faces-us-ban-after-losing-bid-to-overturn-new-law/>
+
+---
+
+## Californians know about earthquakes, but tsunamis are a different story
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; For generations, the possibility of another devastating earthquake has lingered in the minds of Californians, who are remarkably familiar with seismological terms and regularly prepare for the next &#8220;Big One.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/californians-know-about-earthquakes-but-tsunamis-are-a-different-story/>
+
+---
+
+## Job growth rebounds with a gain of 227,000 in November
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>Job creation bounced back in November after disruptions from storms and a major strike, reinforcing a picture of modest employment expansion over the past several months.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/job-growth-rebounds-with-a-gain-of-227000-in-november/>
+
+---
+
+## Appeals court upholds nearly $1.3 billion Sandy Hook verdict against Alex Jones
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>A Connecticut appeals court on Friday largely upheld a nearly $1.3 billion defamation verdict against conspiracy theorist Alex Jones in a case accusing the Infowars founder of spreading lies about the 2012 Sandy Hook mass shooting.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/appeals-court-upholds-nearly-1-3-billion-sandy-hook-verdict-against-alex-jones/>
+
+---
+
+## Canada moves to protect Arctic from threats by Russia and China
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>OTTAWA, Ontario &#8212; Citing growing interest by China and Russia in the Arctic as global warming makes the region more accessible, Canada on Friday said it would focus on building stronger alliances with other nations in the region, particularly the United States.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/canada-moves-to-protect-arctic-from-threats-by-russia-and-china/>
+
+---
+
+## Police find backpack in Central Park, a possible link to gunman who killed CEO
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Investigators said Friday that they had recovered DNA from a water bottle they believed had been discarded by the man who killed a health care executive in a brazen attack in midtown Manhattan this week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/police-find-backpack-in-central-park-a-possible-link-to-gunman-who-killed-ceo/>
+
+---
+
+## After Hunter Biden’s pardon, White House considers broader clemency
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>The White House is listening to demands for President Joe Biden to extend the same grace to thousands of people wronged by the U.S. judicial system as he did to his son Hunter, officials say.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/after-hunter-bidens-pardon-white-house-considers-broader-clemency/>
+
+---
+
+## U.S. milk to be tested for bird flu virus
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Department of Agriculture will begin testing the nation&#8217;s milk supply for the bird flu virus known as H5N1, nearly a year after the virus began circulating through dairy cattle, the department announced Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/u-s-milk-to-be-tested-for-bird-flu-virus/>
+
+---
+
+## Syrian rebels seize fourth city, close in on Homs in threat to Assad’s rule
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>AMMAN/BEIRUT &#8212; Syrian rebels said they seized control of the southern city of Daraa on Saturday, the birthplace of a 2011 uprising against President Bashar al-Assad and the fourth city his forces have lost in a week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/syrian-rebels-seize-fourth-city-close-in-on-homs-in-threat-to-assads-rule/>
+
+---
+
+## How much did Trump, Biden and Harris raise? A stunning $4.7 billion.
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Donors spent an astonishing $4.7 billion on the presidential contenders in this year&#8217;s general election, piling that amount into the campaign coffers of Donald Trump, Kamala Harris, Joe Biden and their main allied groups over the course of the contest.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/how-much-did-trump-biden-and-harris-raise-a-stunning-4-7-billion/>
+
+---
+
+## Their fertilizer poisons farmland. Now, they want protection from lawsuits.
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>For decades, a little-known company now owned by a Goldman Sachs fund has been making millions of dollars from the unlikely dregs of American life: sewage sludge.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/features/their-fertilizer-poisons-farmland-now-they-want-protection-from-lawsuits/>
+
+---
+
+## Tropical Gardening: Tropical pines sometimes hard to find
+
+date: 2024-12-07, from: Hawaii Tribune Harold
+
+
+				<p>Christmas is less than three weeks away, but it seems like most folks are a bit slow in getting their trees up this year. Don&#8217;t delay any longer since trees that are shipped in early are best.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/07/features/tropical-gardening-tropical-pines-sometimes-hard-to-find/>
+
+---
+
+## Fish Eye Park taps local market, extends 50% discount for Guam residents 
+
+date: 2024-12-07, from: Pacific Island Times
+
+As part of the promotion, Fish Eye Marine Park is also extending discounts on the other exciting adventures it offers: the island heritage a 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/fish-eye-park-taps-local-market-extends-50-discount-for-guam-residents>
+
+---
+
+## Kaʻana Manaʻo: Fashion is in fashion
+
+date: 2024-12-07, from: University of Hawaiʻi News
+
+<p>Column by <abbr>UH</abbr> Maui College Chancellor Lui Hokoana was published by The Maui News on November 29, 2024.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/06/kaana-manao-fashion/">Kaʻana Manaʻo: Fashion is in fashion</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/06/kaana-manao-fashion/>
+
+---
+
+## UH Mānoa Athletics maintains Big West membership for four teams
+
+date: 2024-12-07, from: University of Hawaiʻi News
+
+<p>This agreement ensures continued competitive opportunities for these programs while strengthening their long-term stability.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/06/uh-manoa-athletics-big-west-membership-four-teams/"><abbr>UH</abbr> Mānoa Athletics maintains Big West membership for four teams</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/06/uh-manoa-athletics-big-west-membership-four-teams/>
+
+---
+
+## Guam archdiocese releases list of priests named in sex abuse class action
+
+date: 2024-12-07, from: Pacific Island Times
+
+Disclosing the defendants' identities was part of the archdiocese's $45-million settlement agreement with "the 287 courageous men and women  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-archdiocese-releases-list-of-priests-named-in-sex-abuse-class-action>
 

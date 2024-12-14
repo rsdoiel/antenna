@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2024-12-13 07:06:02
+updated: 2024-12-14 07:05:01
 ---
 
 # games
 
-(date: 2024-12-13 07:06:02)
+(date: 2024-12-14 07:05:01)
+
+---
+
+## Red One, Heretic, Netflix’s Maria, and every movie new to streaming
+
+date: 2024-12-13, updated: 2024-12-12, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Maria, Pablo Larraín’s biopic on the life and career of opera singer Maria Callas starring Angelina Jolie, comes to streaming on Netflix. If virtuoso [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/492727/new-movies-watch-streaming-red-one-heretic-netflix-maria-angelina-jolie>
+
+---
+
+## Elden Ring Nightreign&#8217;s trailer left out the juiciest details on how it actually works
+
+date: 2024-12-13, updated: 2024-12-13, from: Polygon Website
+
+The trailer for Elden Ring Nightreign that dropped during The Game Awards on Thursday doesn’t actually explain what’s going on. It opens with overhead shots of a world that looks sort of like The Lands Between if it was missing its giant golden tree, and then spends the next three minutes showing things that simply [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/496613/elden-ring-nightreign-how-it-works>
+
+---
+
+## Fortnite Ballistic is planting the seeds to bring in a new kind of player 
+
+date: 2024-12-13, updated: 2024-12-13, from: Polygon Website
+
+Fortnite is no longer just the culture-defining battle royale game. It has since become a platform to host a wide variety of games. Lego Fortnite takes a swipe at Minecraft lovers with survival and clicky crafting mechanics. Fortnite Obby Fun and the recent Lego Fortnite Brick Life bring young players familiar with Roblox into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/496771/fortnite-ballistic-review-impressions-fps>
+
+---
+
+## How to find the ‘Secret of Secrets’ safe code in Indiana Jones and the Great Circle
+
+date: 2024-12-13, updated: 2024-12-13, from: Polygon Website
+
+“Secret of Secrets” is a mystery you’ll find as you explore Indiana Jones and the Great Circle’s Vatican. You’ll be able to find it once you reach the Sistine Chapel. The safe — and all the clues — are located in a small office off the west end of the chapel. Our Indiana Jones and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/indiana-jones-great-circle-guide/496690/secret-of-secrets-safe-code-vatican>
+
+---
+
+## Indiana Jones and the Great Circle codes list for the Vatican, Gizeh, and Himalayas
+
+date: 2024-12-13, updated: 2024-12-13, from: Polygon Website
+
+Codes are the key to many mysteries in Indiana Jones and the Great Circle. You’ll need these codes to unlock the various safes and chests (and at least one door) found throughout the game. As you explore, you’ll find locked safes and chests throughout the game. In most cases, the code to unlock the safe [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/indiana-jones-great-circle-guide/494517/codes-all-safes-chest-list-combos>
+
+---
+
+## Is there crossplay in Marvel Rivals?
+
+date: 2024-12-13, updated: 2024-12-13, from: Polygon Website
+
+Crossplay is always a subject of much debate in a shooter like Marvel Rivals. While it allows players to play across consoles and PC, it tends to split the community between keyboard-and-mouse users and controller users, each of which bring their own frustrations to play against. In this Marvel Rivals guide, we’ll explain how crossplay [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/496672/crossplay-how-to-turn-off-ps5-xbox-pc>
 
 ---
 
@@ -618,4 +690,64 @@ Gigantamax Lapras is the sixth Gigantamax Pokémon introduced to Pokémon Go, an
 <br> 
 
 <https://www.polygon.com/pokemon-go-guide/492425/gigantamax-lapras-counters-tips-max-battle>
+
+---
+
+## What happened to the humans in Flow? The director left hints
+
+date: 2024-12-07, updated: 2024-12-07, from: Polygon Website
+
+Gints Zilbalodis’ wordless animated movie Flow follows a little black kitty who’s navigating a flood in a post-apocalyptic, seemingly post-human world. The cat finds a boat, encounters a host of different animals, and slowly sails with them through the rising waters. It’s a tense adventure with absolutely stunning animal animation: The creature characters experience a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/animation-cartoons/490951/flow-director-humans-what-happened>
+
+---
+
+## Lucasarts and Disney’s finest PC gaming gems are in this $10 bundle
+
+date: 2024-12-07, updated: 2024-12-06, from: Polygon Website
+
+Before Lucasarts was acquired by Disney in 2012, it had already developed and published some truly classic games, like The Curse of Monkey Island, Star Wars Empire at War, and Knights of the Old Republic, to name a few. If you’ve never had the chance to experience these games, or want to play them again, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/490918/lucasarts-disney-games-humble-bundle-sale>
+
+---
+
+## The best D&#038;D gift ideas for fans, players, and Dungeon Masters, too
+
+date: 2024-12-07, updated: 2024-12-07, from: Polygon Website
+
+Dungeons &#38; Dragons celebrated its 50th anniversary in 2024, and the tabletop role-playing game has never been more popular. If you’re looking to buy a gift for a D&#38;D fan, there are plenty of great options at every price level, whether they’re a seasoned Dungeon Master who’s always looking to throw new challenges at their [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gift-guide/479722/best-dnd-gifts-dungeons-dragons>
+
+---
+
+## Why Netflix’s Jentry Chau put Chinese mythic monsters in Texas, of all places
+
+date: 2024-12-07, updated: 2024-12-07, from: Polygon Website
+
+In Netflix’s new animated series Jentry Chau vs. the Underworld, the titular protagonist uses the powers she’s hidden for most of her life to battle demons out of Chinese mythology. But Jentry (Ali Wong) isn’t fighting off these monsters in a big city like New York; all the supernatural hijinks take place in a Texas [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/animation-cartoons/491699/jentry-chau-vs-the-underworld-texas-chinese-mythology>
+
+---
+
+## The best movies new to streaming this December
+
+date: 2024-12-07, updated: 2024-12-06, from: Polygon Website
+
+We’re in the final weeks of 2024, and there are still a ton of exciting new releases around the corner to enjoy before the year’s end. The Lord of the Rings: The War of the Rohirrim, Sonic the Hedgehog 3, and Robert Eggers’ Nosferatu, are some of this month’s biggest movies to see in theaters. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/488868/best-new-movies-netflix-amazon-prime-max-hulu-december-2024>
 

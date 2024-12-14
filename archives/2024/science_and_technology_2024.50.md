@@ -1,11 +1,275 @@
 ---
 title: science and technology
-updated: 2024-12-13 07:06:00
+updated: 2024-12-14 07:04:59
 ---
 
 # science and technology
 
-(date: 2024-12-13 07:06:00)
+(date: 2024-12-14 07:04:59)
+
+---
+
+## Iran-linked crew used custom 'cyberweapon' in US critical infrastructure attacks
+
+date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
+
+<h4>IOCONTROL targets IoT and OT devices from a ton of makers, apparently</h4> <p>An Iranian government-linked cybercriminal crew used custom malware called IOCONTROL to attack and remotely control US and Israel-based water and fuel management systems, according to security researchers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/13/iran_cyberweapon_us_attacks/>
+
+---
+
+## Scumbag gets 30 years in the clink for running CSAM dark-web chatrooms, abusing kids
+
+date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
+
+<h4>&#39;Today’s sentencing is more than just a punishment. It’s a message&#39;</h4> <p>A Texan who ran a forum on the dark web where depraved netizens could swap child sex abuse material (CSAM), and chat freely about abusing kids, has been sentenced to 30 years in prison.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/13/texas_it_admin_csam/>
+
+---
+
+## “Firefox” ported to Haiku
+
+date: 2024-12-13, from: OS News
+
+Haiku is already awash with browsers to choose from, with Falkon (yes, the same one) being the primary choice for most Haiku users, since it offers the best overall experience. We&#8217;ve got a new addition to the team, however, as Firefox &#8211; in the form of Iceweasel, because trademark stuff and so on &#8211; has been ported to Haiku. Jules Enriquez provides some more background in a post on Mastodon: An experimental port of Firefox Iceweasel is now available on HaikuDepot! So far, most sites are working fine. YouTube video playback is fine and Discord just works, however the web browser does occasionally take itself down. Still rather usable, though! If @ActionRetro thought that Haiku was ready for daily driving with Falkon (see first screenshot), then rebranded Firefox surely has to make it even more viable by those standards! It should be noted though that just like with Falkon, some crash dialogs can be ignored (drag them to another workspace) and the web browser can still be used. ↫ Jules Enriquez It&#8217;s not actually called Firefox at the moment because of the various trademark restrictions Mozilla places on the Firefox branding, which I think is fair just to make sure not every half-assed barely-working port can slap the Firefox logo and name on itself and call it a day. As noted, this port is experimental and needs more work to bring it up to snuff and eligible for using the name Firefox, but this is still an awesome achievement and a great addition to the pool of applications that are already making Haiku quite daily-drivable for some people. Speaking of which, are there any people in our audience who use Haiku as their main operating system? There&#8217;s a lot of chatter out there about just how realistic of an option this has become, but I&#8217;m curious if any of you have made the jump and are leading the way for the rest of us. Action Retro&#8216;s videos about Haiku have done a lot to spread the word, and I&#8217;m noticing more and more people from far outside the usual operating system circles talking about Haiku. Which is great, and hopefully leads to more people also picking up Haiku development, because I&#8217;m sure the team can always use fresh blood. 
+
+<br> 
+
+<https://www.osnews.com/story/141351/firefox-ported-to-haiku/>
+
+---
+
+## Musk's lawyer asks the SEC to quit pestering the shy and retiring billionaire
+
+date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
+
+<h4>Won&#39;t someone think of Elon? Ah, who are we kidding - none of this will matter in a month</h4> <p>Ever in the sights of the SEC, Elon Musk is engaged in another public spat with America&#39;s financial watchdog, this time in the form of a letter from the billionaire&#39;s lawyer published on X (better known as Twitter). …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/13/elon_musks_lawyer_sec_letter/>
+
+---
+
+## Google unveils Android XR for headsets and glasses
+
+date: 2024-12-13, from: OS News
+
+It was only a matter of time before Google would jump into the virtual/augmented reality fray once again with Android, after their several previous attempts failed to catch on. This time, it&#8217;s called Android XR, and it&#8217;s aimed at both the big clunky headsets like Apple&#8217;s Vision Pro as well as basic glasses that overlay information onto the world. Google has been working on this with Samsung, apparently, and of course, this new Android variant is drenched in &#8220;AI&#8221; slop. We’re working to create a vibrant ecosystem of developers and device makers for Android XR, building on the foundation that brought Android to billions. Today’s release is a preview for developers, and by supporting tools like ARCore, Android Studio, Jetpack Compose, Unity, and OpenXR from the beginning, developers can easily start building apps and games for upcoming Android XR devices. For Qualcomm partners like Lynx, Sony and XREAL, we are opening a path for the development of a wide array of Android XR devices to meet the diverse needs of people and businesses. And, we are continuing to collaborate with Magic Leap on XR technology and future products with AR and AI. ↫ Shahram Izadi at Google&#8217;s blog What they&#8217;ve shown of Android XR so far looks a lot like the kind of things Facebook and Apple are doing with their headsets, as far as user interface and interactions go. As for the developer story, Google is making it possible for regular Android applications to run on XR headsets, and for proper XR applications you&#8217;ll need to user Jetpack Compose and various new additions to it, and the 3D engine Google opted for is Unity, with whom they&#8217;ve been collaborating on this. For now, it&#8217;s just an announcement of the new platform and the availability of the development tools, but for actual devices that ship with Android XR you&#8217;ll have to wait until next year. Other than the potential for exercise, I&#8217;m personally not that interested in VR/AR, and I doubt Google&#8217;s Android-based me-too will change much in that regard. 
+
+<br> 
+
+<https://www.osnews.com/story/141341/google-unveils-android-xr-for-headsets-and-glasses/>
+
+---
+
+## NASA Awards Multi-Center Administrative Support Services Contract
+
+date: 2024-12-13, from: NASA breaking news
+
+NASA has selected FedSync-BFS, LLC of Alexandria, Virginia, to provide administrative services for multiple NASA centers. The Multi-Center Administrative Support Services Contract is a firm-fixed-price and indefinite-delivery/indefinite-quantity contract with a value not to exceed $200 million during a five-year ordering period. The performance period begins April 1, 2025. Contracted work will take place in six [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-multi-center-administrative-support-services-contract/>
+
+---
+
+## Scientists Warn of an 'Unprecedented Risk' From Synthetic 'Mirror Life,' Built With a Reverse Version of Natural Proteins and Sugars
+
+date: 2024-12-13, from: Smithsonian Magazine
+
+So-called mirror cells could rampage through our ecosystems, food supply and immune systems, experts say, potentially without existing barriers to protect against them 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-warn-of-an-unprecedented-risk-from-synthetic-mirror-life-built-with-a-reverse-version-of-natural-proteins-and-sugars-180985670/>
+
+---
+
+## Google Timeline location purge causes collateral damage
+
+date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
+
+<h4>Privacy measure leaves some mourning lost memories</h4> <p>A year ago, Google announced plans to save people&#39;s Location History, which it now calls Timeline, locally on devices rather than on its servers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/13/google_timeline_purge/>
+
+---
+
+## See These Ornately Decorated 18th-Century Clocks Before Time Runs Out
+
+date: 2024-12-13, from: Smithsonian Magazine
+
+An exhibition in London is highlighting a collection of Baroque timepieces designed by the renowned Parisian craftsman André-Charles Boulle 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-these-ornately-decorated-18th-century-clocks-before-time-runs-out-180985647/>
+
+---
+
+## 'Tis the season to test the RHEL and AlmaLinux 10 betas
+
+date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
+
+<h4>And the kernel team&#39;s patience?</h4> <p>AlmaLinux 10 is joining RHEL 10 in public beta testing, and the developers of CentOS Stream 10 have just hit the release button ahead of the festive break.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/13/rhel_almalinux_betas/>
+
+---
+
+## Atmospheric Probe Takes Flight
+
+date: 2024-12-13, from: NASA breaking news
+
+On Oct. 22, 2024, the latest iteration of an atmospheric probe developed by researchers at NASA’s Armstrong Flight Research Center in Edwards, California, successfully completed a test flight. Building on NASA 1960s research on&#160;lifting body aircraft, which use the aircraft’s shape for lift instead of wings, the concept could offer future scientists a potentially better [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/atmospheric-probe-takes-flight/>
+
+---
+
+## La NASA probará tecnología para medir las singulares ondas de choque del X-59
+
+date: 2024-12-13, from: NASA breaking news
+
+Read this story in English&#160;here. La NASA pronto pondrá a prueba los avances realizados en una herramienta clave para medir los singulares ‘golpes sónicos’ que su avión supersónico silencioso de investigación X-59 producirá durante el vuelo. Una sonda de detección de impactoses una sonda de datos de aire en forma cónica desarrollada con características específicas [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/la-nasa-probara-tecnologia-para-medir-las-singulares-ondas-de-choque-del-x-59/>
+
+---
+
+## James Webb Telescope Confirms the Universe Is Expanding Faster Than We Thought—and Scientists Still Don’t Know Why
+
+date: 2024-12-13, from: Smithsonian Magazine
+
+The findings suggest that astronomers’ widely accepted cosmology models might be missing something—meaning the longstanding mystery known as the “Hubble tension” continues 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/james-webb-telescope-confirms-the-universe-is-expanding-faster-than-we-thought-and-scientists-still-dont-know-why-180985622/>
+
+---
+
+## NASA Technologies Aim to Solve Housekeeping’s Biggest Issue – Dust
+
+date: 2024-12-13, from: NASA breaking news
+
+During the flight test with Blue Origin, seven technologies developed by NASA’s Game Changing Development (GCD) program will study regolith mechanics and lunar dust transport in a simulated lunar gravity environment. 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/nasa-technologies-aim-to-solve-housekeepings-biggest-issue-dust/>
+
+---
+
+## Doing business in US? Don't wait for state ruling on AI to act, warns former Senate chief of staff
+
+date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
+
+<h4>Workday policy expert suggests NIST framework will save you trouble later</h4> <p>The US House and Senate are unlikely to pass federal legislation on the use of AI in business, so users should focus their attention on a new NIST framework in lieu of state-level law, according to Workday&#39;s veep for corporate affairs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/13/nist_framework_for_ai_presents/>
+
+---
+
+## A Forgotten Collection of Charles de Gaulle's Personal Letters, Speeches and Manuscripts Has Been Discovered in a Safe
+
+date: 2024-12-13, from: Smithsonian Magazine
+
+Most of the documents are heading to the auction block, where they could fetch more than $1 million. They were found in a bank vault owned by the French statesman's son 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-forgotten-collection-of-charles-de-gaulles-personal-letters-speeches-and-manuscripts-has-been-discovered-in-a-safe-180985666/>
+
+---
+
+## Scientists Unlock the Secrets of Crocodile Skin and Its Irregular, Mystifying Patterns
+
+date: 2024-12-13, from: Smithsonian Magazine
+
+The scales on crocodiles’ heads are very different from the skin appendages of other animals and even distinct from the scales on the rest of their bodies 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-unlock-the-secrets-of-crocodile-skin-and-its-irregular-mystifying-patterns-180985654/>
+
+---
+
+## Ingenuity helicopter's flying days cut short by featureless Martian terrain
+
+date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
+
+<h4>Landing hard at an angle not great for the old rotor blades</h4> <p>It appears the bland Martian surface triggered a chain of events that left NASA&#39;s Ingenuity helicopter permanently grounded on the red planet.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/13/ingenuity_mars_helicopters_flying_days/>
+
+---
+
+## An Artist Noticed a Leak in His Studio. The Repairs Revealed a Mysterious Ancient Engraving Hidden Inside the Walls
+
+date: 2024-12-13, from: Smithsonian Magazine
+
+Jean Charles Blais had no idea that his studio in southern France was hiding a Roman funerary inscription dating to the first or second century C.E. 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/an-artist-noticed-a-leak-in-his-studio-the-repairs-revealed-a-mysterious-ancient-engraving-hidden-inside-the-walls-180985653/>
+
+---
+
+## NASA Outlines Latest Moon to Mars Plans in 2024 Architecture Update
+
+date: 2024-12-13, from: NASA breaking news
+
+As NASA develops a blueprint for space exploration throughout the solar system for the benefit of humanity, the agency released several new documents Friday updating its Moon to Mars architecture. The roadmap sets NASA on course for long-term lunar exploration under the Artemis campaign in preparation for future crewed missions to Mars. &#160; Following an [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-outlines-latest-moon-to-mars-plans-in-2024-architecture-update/>
+
+---
+
+## What Is Entropy? A Measure of Just How Little We Really Know.
+
+date: 2024-12-13, from: Quanta Magazine
+
+Exactly 200 years ago, a French engineer introduced an idea that would quantify the universe’s inexorable slide into decay. But entropy, as it’s currently understood, is less a fact about the world than a reflection of our growing ignorance. Embracing that truth is leading to a rethink of everything from rational decision-making to the limits of machines.            <p>The post <a href="https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/" target="_blank">What Is Entropy? A Measure of Just How Little We Really Know.</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/>
+
+---
+
+## Android beefs up Bluetooth tag stalker protections
+
+date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
+
+<h4>Wider ecosystem still has work to do, though</h4> <p>Google is rolling out two new features to help Android users evade stalkers who abuse Bluetooth tags to surreptitiously track them.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/13/creeps_beware_android_beefs_up/>
 
 ---
 
@@ -97,7 +361,7 @@ date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
 
 date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
 
-<h4>Chip side of the biz expects to take lion&#39;s share of hyperscalers&#39; $60-90 billion XPU spend in 2027, helped by 3nm models coming next year</h4> <p>Broadcom has told investors its integration of VMware is all but done, ahead of schedule, and that it has turned the virtualization giant into an even more prolific money machine than it hoped it would be possible.…</p> 
+<h4>Chip side of the biz expects to take lion&#39;s share of hyperscalers&#39; $60-90 billion XPU spend in 2027, helped by 3nm models coming next year</h4> <p>Broadcom has told investors its integration of VMware is all but done, ahead of schedule, and that it has turned the virtualization giant into an even more prolific money machine than it hoped would be possible.…</p> 
 
 <br> 
 
@@ -117,7 +381,7 @@ date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
 
 ---
 
-## North Korea's fake IT worker scam hauled in at least $88 million over six years
+## North Korea's fake IT worker scam hauled in at least $88M over six years
 
 date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
 
@@ -131,9 +395,9 @@ date: 2024-12-13, updated: 2024-12-13, from: The Register (UK I.T. News)
 
 ## American cops are using AI to draft police reports, and the ACLU isn't happy
 
-date: 2024-12-12, updated: 2024-12-12, from: The Register (UK I.T. News)
+date: 2024-12-12, updated: 2024-12-13, from: The Register (UK I.T. News)
 
-<h4>Do we really need to explain why this is a problem?</h4> <p><strong>COMMENT</strong>  AI use by law enforcement to identify suspects is already problematic enough, but civil liberties groups have a new problem to worry about: the technology being employed to draft police reports.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Do we really need to explain why this is a problem?</h4> <p><strong>Comment</strong>  AI use by law enforcement to identify suspects is already problematic enough, but civil liberties groups have a new problem to worry about: the technology being employed to draft police reports.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -1998,4 +2262,76 @@ date: 2024-12-08, updated: 2024-12-08, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/12/08/boffins_diamond_battery/>
+
+---
+
+## Microsoft teases Copilot Vision, the AI sidekick that judges your tabs
+
+date: 2024-12-07, updated: 2024-12-07, from: The Register (UK I.T. News)
+
+<h4>Edge-exclusive tool promises &#39;second set of eyes&#39; for browsing</h4> <p>Microsoft has rolled out a Copilot Vision preview that says more about how poorly websites are designed rather than justifying the need to bring more AI into users&#39; lives.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/07/microsoft_copilot_vision/>
+
+---
+
+## Euro cloud body heads off to Microsoft's HQ to check it's keeping promises
+
+date: 2024-12-07, updated: 2024-12-07, from: The Register (UK I.T. News)
+
+<h4>Wine-tasting seems to be an essential part of an EU-friendly Azure Local</h4> <p><strong>Exclusive</strong>  Microsoft and the Cloud Infrastructure Service Providers of Europe (CISPE) trade body this week kicked off their technical summit to assess the Windows maker&#39;s progress in making available a version of Azure Local for hosters.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/07/cispe_microsoft/>
+
+---
+
+## When Instant Replay Debuted During the Broadcast of a College Football Game in 1963, It Revolutionized the Way We Watch Sports
+
+date: 2024-12-07, from: Smithsonian Magazine
+
+Piloting the new technology was a risky move in front of the national audience that watched the Army-Navy showdown on this day in 1963 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/when-instant-replay-debuted-during-the-broadcast-of-a-college-football-game-in-1963-it-revolutionized-the-way-we-watch-sports-180985516/>
+
+---
+
+## Digital Isle of Man: For all your connected tax haven needs?
+
+date: 2024-12-07, updated: 2024-12-07, from: The Register (UK I.T. News)
+
+<h4>Fantasizing about leaving the mess at home behind? Pretty island packed with medieval ruins promotes itself as a venue for e-business</h4> <p>The Isle of Man Government runs an annual conference to promote the tiny nation as a destination for online businesses.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/07/digital_isle_2024/>
+
+---
+
+## Students Aim High at NASA JPL ‘Candy Toss’ Competition
+
+date: 2024-12-07, from: NASA breaking news
+
+Treats went flying through the air by the dozens at the annual Invention Challenge at NASA’s Jet Propulsion Laboratory. The 25th Invention Challenge at NASA’s Jet Propulsion Laboratory in Southern California, which welcomed more than 200 students to compete using home-built devices, was pretty sweet this year. Literally. That’s because the challenge at the Friday, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/jpl/students-aim-high-at-nasa-jpl-candy-toss-competition/>
+
+---
+
+## Elon Musk tops US political donor list with $270M+ for Team Trump
+
+date: 2024-12-07, updated: 2024-12-07, from: The Register (UK I.T. News)
+
+<h4>Plus, xAI scores another $6B to fuel Tesla tycoon&#39;s war on OpenAI</h4> <p>Elon Musk gave more than $270 million to political groups supporting Donald Trump&#39;s 2024 presidential campaign and others on the American right running for office, according to donation figures released by the Federal Election Commission this week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/07/elon_election_spending/>
 

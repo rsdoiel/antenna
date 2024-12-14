@@ -1,11 +1,65 @@
 ---
 title: journalism
-updated: 2024-12-13 07:06:02
+updated: 2024-12-14 07:05:01
 ---
 
 # journalism
 
-(date: 2024-12-13 07:06:02)
+(date: 2024-12-14 07:05:01)
+
+---
+
+## Equine de-stress event
+
+date: 2024-12-13, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Equine de-stress event</p>
+<p>The post <a href="https://theroundupnews.com/2024/12/13/equine-de-stress-event/">Equine de-stress event</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/12/13/equine-de-stress-event/?utm_source=rss&utm_medium=rss&utm_campaign=equine-de-stress-event>
+
+---
+
+## Women’s soccer game against El Camino
+
+date: 2024-12-13, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Women&#8217;s soccer game against El Camino</p>
+<p>The post <a href="https://theroundupnews.com/2024/12/13/womens-soccer-game-against-el-camino/">Women&#8217;s soccer game against El Camino</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/12/13/womens-soccer-game-against-el-camino/?utm_source=rss&utm_medium=rss&utm_campaign=womens-soccer-game-against-el-camino>
+
+---
+
+## Seasonal Adventures Christmas tree farm
+
+date: 2024-12-13, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Seasonal Adventures Christmas tree farm &#160;</p>
+<p>The post <a href="https://theroundupnews.com/2024/12/13/seasonal-adventures-christmas-tree-farm/">Seasonal Adventures Christmas tree farm</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/12/13/seasonal-adventures-christmas-tree-farm/?utm_source=rss&utm_medium=rss&utm_campaign=seasonal-adventures-christmas-tree-farm>
+
+---
+
+## Free Online Courses on Class Central Are Creating New Pathways to Tertiary Education
+
+date: 2024-12-13, from: The Sundail (CSUN Student Newspaper)
+
+The landscape of education is undergoing a seismic shift, with technology and accessibility redefining how knowledge is disseminated and acquired. Traditional pathways to tertiary education, once limited to physically attending... 
+
+<br> 
+
+<https://sundial.csun.edu/188468/sundialbrandstudio/sundial-marketplace/free-online-courses-on-class-central-are-creating-new-pathways-to-tertiary-education/>
 
 ---
 
@@ -1061,4 +1115,118 @@ date: 2024-12-08, from: The Round Up (Pierce College Student Newspaper)
 <br> 
 
 <https://theroundupnews.com/2024/12/07/carnival-on-campus/?utm_source=rss&utm_medium=rss&utm_campaign=carnival-on-campus>
+
+---
+
+## Editorial Cartoon: “Finals Rage”
+
+date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2024/12/07/editorial-cartoon-finals-rage/>
+
+---
+
+## Music Video Roundup: Fall’s female artists zoom into creativity, confidence
+
+date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+As fall quarter comes to a close, it is time to reflect on all that the changing winds of fall brought.
+Amid the music video releases of the past few months were visuals from several female artists. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/07/music-video-roundup-falls-female-artists-zoom-into-creativity-confidence/>
+
+---
+
+## Rewinding 2024: Presenting the year’s best songs, from chart-toppers to deep cuts
+
+date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+With the calendar year coming to a close and Apple Music Replay or Spotify Wrapped highlights popping up all around, there is no better time to reflect on all of the excellent music of 2024 than now. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/07/rewinding-2024-presenting-the-years-best-songs-from-chart-toppers-to-deep-cuts/>
+
+---
+
+## Raising awareness and advocating for accurate representation on World AIDS  Day
+
+date: 2024-12-07, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN Pride Center hosted a World AIDS Day event to destigmatize the conversation surrounding HIV and AIDS and raise awareness on campus. The event took place on Monday, Dec.... 
+
+<br> 
+
+<https://sundial.csun.edu/188377/news/raising-awareness-and-advocating-for-accurate-representation-on-world-aids-day/>
+
+---
+
+## ‘Fish in the Tank’ squares in on depths of intimacy within institution
+
+date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Dec. 7 at 12:45 p.m.</em>
+This weekend, UCLA theater audiences will be invited to dive into the fish tank.
+The student-run Untitled Theatre Company will hold three free staged workshops of the original student play “Fish in the Tank” at Macgowan Hall, with one showing Saturday and two Sunday. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/07/fish-in-the-tank-squares-in-on-depths-of-intimacy-within-institution/>
+
+---
+
+## ‘Challengers’ Art and Patrick lookalike competition courts community in Westwood
+
+date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Westwood served up competition Nov. 24, hosting a lookalike contest based on characters from the 2024 movie “Challengers.”
+The UCLA student-led Art and Patrick lookalike competition brought over 100 people and 25 contestants to Westwood Park. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/07/challengers-art-and-patrick-lookalike-competition-courts-community-in-westwood/>
+
+---
+
+## UCLA vs. USC Rivalry Game
+
+date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+On Nov. 23, 2024, the USC Trojans reclaimed the Victory Bell by defeating the UCLA Bruins 19-13 at the Rose Bowl. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/07/ucla-vs-usc-rivalry-game/>
+
+---
+
+## UC launches new website to help transfer students navigate application process
+
+date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC released its new Transfer Hub website in October, providing a centralized place for information about transferring to the University.
+The Hub provides direct links to common tools utilized by students looking to transfer to the UC and California State University schools, including the UC Transfer Admission Planner, which helps students plan their courses in alignment with UC requirements. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/06/uc-launches-new-website-to-help-transfer-students-navigate-application-process/>
+
+---
+
+## Album review: ROSÉ packages romantic vulnerability, toxicity in solo debut album ‘rosie’
+
+date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Embracing a newfound lyrical vulnerability, everything&#8217;s coming up for &#8220;rosie.&#8221;
+The member of K-pop group turned international sensation BLACKPINK, ROS&#201; reignited her career as a soloist with the release of &#8220;rosie&#8221; on Friday. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/06/album-review-ros-packages-romantic-vulnerability-toxicity-in-solo-debut-album-rosie/>
 

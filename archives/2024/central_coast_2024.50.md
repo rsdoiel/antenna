@@ -1,11 +1,11 @@
 ---
 title: central coast
-updated: 2024-12-13 07:06:01
+updated: 2024-12-14 07:05:00
 ---
 
 # central coast
 
-(date: 2024-12-13 07:06:01)
+(date: 2024-12-14 07:05:00)
 
 ---
 
@@ -475,4 +475,76 @@ date: 2024-12-08, from: Newshawk, the freshest news in Santa Barbara County
 <br> 
 
 <https://www.noozhawk.com/solvang-welcomes-christmas-season-with-julefest-parade/>
+
+---
+
+## Sunrise in Santa Barbara
+
+date: 2024-12-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sunrise in Santa Barbara." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/sunrise-in-santa-barbara-2/">Sunrise in Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/sunrise-in-santa-barbara-2/>
+
+---
+
+## Motorcyclist Dies After Crash on Southbound Highway 101 in Montecito
+
+date: 2024-12-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A motorcyclist was killed Friday night in a crash on Highway 101 in Montecito, according to the California Highway Patrol. Emergency personnel were dispatched to the incident on the southbound [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/motorcyclist-dies-after-crash-on-southbound-highway-101-in-montecito/">Motorcyclist Dies After Crash on Southbound Highway 101 in Montecito</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/motorcyclist-dies-after-crash-on-southbound-highway-101-in-montecito/>
+
+---
+
+## Christmas Spirit Shines Bright for Lompoc Valley Children’s Parade
+
+date: 2024-12-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The Polar Express, an entry from the Lompoc Federal Correctional Institution employees, makes it way along North H Street for the Lompoc Valley Children&#039;s Christmas Season Parade on Friday night." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Participants in the Lompoc Valley Children’s Christmas Season Parade displayed plenty of holiday spirit as they traveled along the route Friday night. Boasting more than 70 entries as it started [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/christmas-spirit-shines-bright-for-lompoc-valley-childrens-parade/">Christmas Spirit Shines Bright for Lompoc Valley Children&#8217;s Parade</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/christmas-spirit-shines-bright-for-lompoc-valley-childrens-parade/>
+
+---
+
+## Orcutt Financial Adviser Charged with Wire Fraud in New Federal Case
+
+date: 2024-12-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A former Santa Maria Valley financial adviser accused of defrauding multiple clients and a business now faces one federal criminal charge of wire fraud related to the allegations that amounted [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/orcutt-financial-adviser-charged-with-wire-fraud-in-new-federal-case/">Orcutt Financial Adviser Charged with Wire Fraud in New Federal Case</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/orcutt-financial-adviser-charged-with-wire-fraud-in-new-federal-case/>
+
+---
+
+## Westmont College Engineering Students Put Their Hand-Built Cars to the Test
+
+date: 2024-12-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Engineering students at Westmont College, who spent the semester building remote-control cars from scratch, participated in a series of races and obstacle courses this week designed to test the skills they learned in class." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Students, start your controllers. Westmont College engineering students this week were given the chance to put their skills to the test by racing remote-control cars through a series of obstacles [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/westmont-engineering-students-put-car-building-skills-to-the-test/">Westmont College Engineering Students Put Their Hand-Built Cars to the Test</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/westmont-engineering-students-put-car-building-skills-to-the-test/>
 

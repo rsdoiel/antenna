@@ -1,11 +1,172 @@
 ---
 title: socal north
-updated: 2024-12-13 07:06:00
+updated: 2024-12-14 07:04:58
 ---
 
 # socal north
 
-(date: 2024-12-13 07:06:00)
+(date: 2024-12-14 07:04:58)
+
+---
+
+## Kaiser mental health worker strike nears two months; no bargaining sessions scheduled
+
+date: 2024-12-13, updated: 2024-12-13, from: The LAist
+
+The union representing thousands of Kaiser employees said no progress has been made since the strike began in October. 
+
+<br> 
+
+<https://laist.com/news/health/kaiser-mental-health-worker-strike-nears-two-months>
+
+---
+
+## Sylmar Neighborhood Council Hosts Community Holiday Party
+
+date: 2024-12-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Sylmar-Party-05-scaled.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Sylmar-Party-05-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Sylmar-Party-05-scaled.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Sylmar-Party-05-scaled.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Sylmar-Party-05-scaled.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Sylmar-Party-05-scaled.jpg?resize=1536%2C1157&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Sylmar-Party-05-scaled.jpg?resize=2048%2C1542&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Sylmar-Party-05-scaled.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Sylmar-Party-05-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Sylmar-Party-05-scaled.jpg?resize=1200%2C904&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Sylmar-Party-05-scaled.jpg?resize=1568%2C1181&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Sylmar-Party-05-scaled.jpg?resize=2000%2C1506&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Sylmar-Party-05-scaled.jpg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Sylmar-Party-05-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Sylmar-Party-05-scaled.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Approximately 200 community members of all ages from across Sylmar attended a special holiday celebration the evening of Dec. 12, hosted by members of their very own Sylmar Neighborhood Council. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/13/sylmar-neighborhood-council-hosts-community-holiday-party/">Sylmar Neighborhood Council Hosts Community Holiday Party</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/13/sylmar-neighborhood-council-hosts-community-holiday-party/>
+
+---
+
+## Stanley recalls about 2.6 million travel mugs
+
+date: 2024-12-13, updated: 2024-12-13, from: The LAist
+
+The company behind the uber-viral water bottles is recommending customers affected by the recall reach out for a replacement part. 
+
+<br> 
+
+<https://laist.com/news/stanley-recall-travel-mug-free-replacement-lid>
+
+---
+
+## Where you live in LA can mean more ‘forever chemicals’ in your blood
+
+date: 2024-12-13, updated: 2024-12-13, from: The LAist
+
+A new USC study shows participants had significantly more PFAS chemicals in their blood based on certain neighborhood factors. 
+
+<br> 
+
+<https://laist.com/news/health/la-socal-los-angeles-forever-chemicals-pfas-blood>
+
+---
+
+## Former House Speaker Nancy Pelosi injured during trip abroad
+
+date: 2024-12-13, updated: 2024-12-13, from: The LAist
+
+The 84-year-old was injured during a congressional trip to Luxembourg and has been admitted to the hospital "for evaluation," a spokesperson said. 
+
+<br> 
+
+<https://laist.com/news/politics/nancy-pelosi-injured-luxembourg>
+
+---
+
+## More Californians are freezing to death. Experts point to more older homeless people
+
+date: 2024-12-13, updated: 2024-12-13, from: The LAist
+
+A growing number of people — many of them older and homeless — are freezing to death during winter. 
+
+<br> 
+
+<https://laist.com/news/health/californians-hypothermia-deths-rise-unhoused-homeless>
+
+---
+
+## Pharmacist Sue Ponce retires after 28 years
+
+date: 2024-12-13, from: Catalina Islander
+
+Courtesy of Catalina Island Health Catalina Island Health and Leo’s Catalina Drug Store have announced the retirement of Sue Ponce after 28 years as Avalon’s pharmacist. Her impact on the community was evident during a recent retirement gathering. For nearly three decades Ponce worked at Leo’s Catalina Drug Store providing medication for the residents and [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/pharmacist-sue-ponce-retires-after-28-years/>
+
+---
+
+## Avalon Kicks off Holiday Season
+
+date: 2024-12-13, from: Catalina Islander
+
+On December 7, 2024, residents and visitors gathered to enjoy a community event brought to you by Love Catalina Island Tourism Authority. The event dubbed Shop Catalina Holiday Kickoff, has been staged for the past 30 years. This year 30 merchants participated offering refreshments, discounts and drawings. Love Catalina Island brought the Jingle Singers to [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-kicks-off-holiday-season/>
+
+---
+
+## Catalina Birthday of the Week
+
+date: 2024-12-13, from: Catalina Islander
+
+Amaya Morales Birthday: 12/9/2021. She turned 3 years old on Dec. 9, 2024. Email your birthday of the week photos and details to editor@thecatalinaislander.com. Download QR 
+
+<br> 
+
+<https://thecatalinaislander.com/catalina-birthday-of-the-week/>
+
+---
+
+## New Diver Certified
+
+date: 2024-12-13, from: Catalina Islander
+
+There was another successful open water certification of a new diver by Catalina Diver’s Supply on Thanksgiving weekend. The newly certified diver in the photo is Patrick Mulvey, a Long Beach and part-time Avalon resident. Download QR 
+
+<br> 
+
+<https://thecatalinaislander.com/new-diver-certified/>
+
+---
+
+## Cabrillo Steamer fading into history
+
+date: 2024-12-13, from: Catalina Islander
+
+Former Catalina residents, now living in Northern California, recently sent in a photo of the last remnants of a piece of Catalina history. The Cabrillo Steamer, a wooden hull steamship, was one of the early transportation ships to bring visitors to Catalina Island. The ship was made by the Banning Brothers, who owned the Wilmington [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/cabrillo-steamer-fading-into-history/>
+
+---
+
+## Santa Clarita Spotlight Features Seasonal Offerings
+
+date: 2024-12-13, from: City of Santa Clarita
+
+<p>The City of Santa Clarita, in partnership with SCVTV, is excited to release the fifth episode of Santa Clarita Spotlight, a Shop Local video series dedicated to promoting and celebrating the diverse range of local businesses within the City. If you’re looking for the perfect gift for a loved one or are planning a festive [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/12/13/santa-clarita-spotlight-features-seasonal-offerings/">Santa Clarita Spotlight Features Seasonal Offerings</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/12/13/santa-clarita-spotlight-features-seasonal-offerings/>
+
+---
+
+## Love All-You-Can-Eat Korean BBQ? It’s time to honor Choeng Wun Buffet’s history
+
+date: 2024-12-13, updated: 2024-12-13, from: The LAist
+
+Open since 1985, this Melrose Hill establishment and its family have been pivotal to shaping Korean Angeleno culture. 
+
+<br> 
+
+<https://laist.com/news/food/love-all-you-can-eat-korean-bbq-its-time-to-honor-choeng-wun-buffets-history>
 
 ---
 
@@ -30,18 +191,6 @@ We dive headfirst into a vat of the creamy good stuff.
 <br> 
 
 <https://laist.com/news/food/eggnog-best-in-la>
-
----
-
-## Love All-You-Can-Eat Korean BBQ? It’s time to honor Choeng Wun Buffet’s history
-
-date: 2024-12-13, updated: 2024-12-13, from: The LAist
-
-Open since 1985, this Melrose Hill establishment and its family have been pivotal to shaping Korean Angeleno culture. 
-
-<br> 
-
-<https://laist.com/news/food/love-all-you-can-eat-korean-bbq-its-time-to-honor-choeng-wun-buffets-history>
 
 ---
 
@@ -73,7 +222,7 @@ The Probation Department says it is asking the Board of State and Community Corr
 
 date: 2024-12-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Lalo-Mass-CROP-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>During the pre-dawn hours of Dec. 12, people around the world began celebrating the feast day of Our Lady of Guadalupe. Devotees flocked to church services, placing flowers beneath her [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/12/12/celebrating-the-feast-day-of-our-lady-of-guadalupe/">Celebrating the Feast Day of Our Lady of Guadalupe</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -188,7 +337,7 @@ Kristin Chenoweth sings holiday favorites, San Juan Capistrano lights up, we’r
 
 ## This is how Syrians in Southern California are celebrating the fall of the Assad regime
 
-date: 2024-12-12, updated: 2024-12-12, from: The LAist
+date: 2024-12-12, updated: 2024-12-13, from: The LAist
 
 People say they’re hopeful and anxious for the future. 
 
@@ -863,4 +1012,126 @@ California's unemployment system crashed during the pandemic. Now, the system co
 <br> 
 
 <https://laist.com/news/californias-employment-safety-net-is-still-broken-will-anyone-fix-it>
+
+---
+
+## PSA: The person holding a lottery ticket worth nearly $200 million has just hours left to claim the prize
+
+date: 2024-12-07, updated: 2024-12-07, from: The LAist
+
+The Mega Millions ticket was sold at a Chevron station on Ventura Blvd. Dec. 8 of last year. 
+
+<br> 
+
+<https://laist.com/news/psa-theres-a-winning-lottery-ticket-worth-some-200-million-floating-out-there-it-expires-today>
+
+---
+
+## Safe Travels and Happy Holidays!
+
+date: 2024-12-07, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin The holiday season is in full swing, filling Santa Clarita with festive cheer. It’s the perfect time to embrace traditions, gather with loved ones and travel around the City to shop, celebrate and visit friends and family. During this busy season, safe and well-maintained roads become even more valuable, ensuring [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/12/07/safe-travels-and-happy-holidays/">Safe Travels and Happy Holidays!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/12/07/safe-travels-and-happy-holidays/>
+
+---
+
+## Red flag warning starting Monday as fire weather and Santa Anas return
+
+date: 2024-12-07, updated: 2024-12-08, from: The LAist
+
+As warmer weather and a bout of Santa Ana winds come to Southern California, the National Weather Service is warning of an elevated risk of fire weather conditions until Wednesday. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/elevated-fire-risk-through-wednesday-as-warmer-weather-and-santa-anas-return>
+
+---
+
+## This little electric car made history. 25 years ago, GM stopped making it
+
+date: 2024-12-07, updated: 2024-12-07, from: The LAist
+
+The EV1 was the first modern, mass-produced electric vehicle from a major automaker — pioneering some technologies you can still find in today's EVs. But the model was controversial, and short-lived. 
+
+<br> 
+
+<https://laist.com/news/transportation/ev1-first-electric-car-25th-anniversary-general-motors>
+
+---
+
+## USDA orders testing across nation's milk supply amid rising bird flu cases
+
+date: 2024-12-07, updated: 2024-12-07, from: The LAist
+
+California is reporting the highest number of infections. At least 58 people have been infected with bird flu, including one child. 
+
+<br> 
+
+<https://laist.com/news/health/usda-orders-testing-across-nations-milk-supply-amid-rising-bird-flu-cases>
+
+---
+
+## There's a damaged castle out in Death Valley with a wild history. It's now open for tour
+
+date: 2024-12-07, updated: 2024-12-07, from: The LAist
+
+Nicknamed "Scotty's Castle," the property has an origin story built on the improbable friendship between a conman and a transplant millionaire who was his mark. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/damaged-scottys-castle-death-valley-now-open-for-tour>
+
+---
+
+## Go Fact Yourself quiz for December 7
+
+date: 2024-12-07, updated: 2024-12-07, from: The LAist
+
+Our celebrity panelists Marc Summers and Michaela Watkins go head to head this week on their knowledge of the talent competition TV show Star Search and pottery. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-december-7>
+
+---
+
+## Go Fact Yourself quiz for December 7
+
+date: 2024-12-07, updated: 2024-12-07, from: The LAist
+
+Our celebrity panelists Marc Summers and Michaela Watkins go head to head this week on their knowledge of the talent competition TV show Star Search and pottery. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<>
+
+---
+
+## California shorted prisoners on money for their release. It’s ending the practice
+
+date: 2024-12-07, updated: 2024-12-07, from: The LAist
+
+California prisons are supposed to give $200 in gate money to people leaving incarceration. Many did not receive the full amount because of deductions. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/california-shorted-prisoners-on-money-for-their-release-its-ending-the-practice>
+
+---
+
+## California's initial water allocation forecast is just 5%
+
+date: 2024-12-07, updated: 2024-12-07, from: The LAist
+
+Don't despair just yet. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/californias-initial-water-allocation-forecast>
 

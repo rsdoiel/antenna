@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2024-12-13 07:06:03
+updated: 2024-12-14 07:05:02
 ---
 
 # retro computing
 
-(date: 2024-12-13 07:06:03)
+(date: 2024-12-14 07:05:02)
 
 ---
 
@@ -312,4 +312,64 @@ So I decided to keep it that way, just like he left it. You know, in case he eve
 <br> 
 
 <https://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html>
+
+---
+
+## b.log 2024/12/07 - SimpleSeq v0.24, Tea v0.18, Pushy collectors, Fascinating corona, Sombralyssia and the Tilley Lamp.
+
+date: 2024-12-07, from: Richard Murray's blog
+
+SimpleSeq v0.24, Tea v0.18, Pushy collectors, Fascinating corona, Sombralyssia and the Tilley Lamp. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241207>
+
+---
+
+## RISC OS Direct 5.31
+
+date: 2024-12-07, from: Hubersn RISC OS blog
+
+Seit Ende Oktober gibt es ein neues Release (v3, wie sie mancherorts genannt wird) von RISC OS Direct, basierend auf der aktuellen &#8222;unstable&#8220;-Entwicklungsversion von RISC OS 5.31. Eine Weile war das etwas aufwändiger in der Installation &#8211; man musste erst mal das v2-Image auf eine microSD-Karte bringen, obwohl die RISC OS-Partition nur knapp 8 GiB groß war war die Image-Datei leider so groß, dass man normalerweise eine 32GB-Karte brauchte, und dann musste man davon booten <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="http://riscosblog.huber-net.de/2024/12/risc-os-direct-5-31/" class="more-link"><span>Read More &#8594;</span></a></span> 
+
+<br> 
+
+<http://riscosblog.huber-net.de/2024/12/risc-os-direct-5-31/>
+
+---
+
+## Big Ben club announces 2025 date for ROX
+
+date: 2024-12-07, from: Icon Bar, RISC OS News
+
+Big Ben has announced that their RISC OS eXperience will be taking place again in 2025. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2142.html>
+
+---
+
+## Ovation Pro ist jetzt Open Source
+
+date: 2024-12-07, from: Hubersn RISC OS blog
+
+Lange nichts mehr gebloggt zum Thema RISC OS &#8211; insofern ist das &#8222;jetzt&#8220; im Titel relativ zu sehen. Bevor ich die 1,5 Jahre Pause aufarbeite, dachte ich, es sei nur fair, wenn ich erst mal das Pilling-Triple vollende. Drei Blog-Posts in Folge (die ursprüngliche &#8222;Freigeben als Open Source&#8220;-Meldung, dann das Open Source-Release von SparkFS, jetzt der aktuelle Artikel) rund um die Software des vermutlich produktivsten Entwicklers der RISC OS-Szene &#8211; niemand hat das mehr verdient <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="http://riscosblog.huber-net.de/2024/12/ovation-pro-ist-jetzt-open-source/" class="more-link"><span>Read More &#8594;</span></a></span> 
+
+<br> 
+
+<http://riscosblog.huber-net.de/2024/12/ovation-pro-ist-jetzt-open-source/>
+
+---
+
+## Comics from 1985/12 Australian Personal Computer Mag
+
+date: 2024-12-07, from: Computer ads from the Past
+
+Some computer related levity from OZ 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-198512-australian-personal>
 

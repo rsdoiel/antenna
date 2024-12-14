@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2024-12-13 07:06:03
+updated: 2024-12-14 07:05:02
 ---
 
 # motorcycles
 
-(date: 2024-12-13 07:06:03)
+(date: 2024-12-14 07:05:02)
+
+---
+
+## Dorna Has Some Weird Requirements for Suzuki and BMW To Enter MotoGP
+
+date: 2024-12-13, from: Ride Apart, Electric Motorcycle News
+
+If you read between the lines, you might make out the words "Pay us money". 
+
+<br> 
+
+<https://www.rideapart.com/news/744092/motogp-requirements-suzuki-bmw/>
 
 ---
 
@@ -424,4 +436,29 @@ It weighs 452 lbs. How did he make it look this effortless?
 <br> 
 
 <https://www.rideapart.com/news/743486/yamaha-tenere-700-first-backflip/>
+
+---
+
+## The Royal Enfield Goan Classic 350 Looks Like a Factory-Built Custom Bobber
+
+date: 2024-12-07, from: Ride Apart, Electric Motorcycle News
+
+It throws subtlety and stealthiness straight out the window. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/743451/royal-enfield-goan-classic-350-unveiled/>
+
+---
+
+## Jordan Anderson Racing Signs Jeb Burton, Blaine Perkins for 2025
+
+date: 2024-12-07, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor Jordan Anderson Racing Bommarito Autosport (JAR-BA) has solidified its’ 2025 NASCAR Xfinity Series driver lineup. Two-time winner Jeb Burton returns to the team for the&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/jordan-anderson-racing-burton-perkins-25/>
 

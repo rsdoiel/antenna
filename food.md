@@ -1,11 +1,73 @@
 ---
 title: food
-updated: 2024-12-13 07:06:04
+updated: 2024-12-14 07:05:03
 ---
 
 # food
 
-(date: 2024-12-13 07:06:04)
+(date: 2024-12-14 07:05:03)
+
+---
+
+## Taco Bell Just Leaked Plans to Drop Crunchwrap Sliders and a Cheesy Dipping Burrito
+
+date: 2024-12-13, from: Taste of Home
+
+<p>There will be a snackable version of the Crunchwrap Supreme? Say no more.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/taco-bell-crunchwrap-sliders/">Taco Bell Just Leaked Plans to Drop Crunchwrap Sliders and a Cheesy Dipping Burrito</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/taco-bell-crunchwrap-sliders/>
+
+---
+
+## Vote Now For Finalists At The 2nd Annual Sprudge Design Awards
+
+date: 2024-12-13, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Voting is open through January 7, 2025. 
+
+<br> 
+
+<https://sprudge.com/vote-now-for-finalists-at-the-2nd-annual-sprudge-design-awards-262379.html>
+
+---
+
+## What Are the 5 Spices in 5-Spice Powder?
+
+date: 2024-12-13, from: Bon Appetet
+
+Actually, there are often more than five. Here’s how to make and use one of our favorite blends. 
+
+<br> 
+
+<https://www.bonappetit.com/story/what-is-chinese-five-spice-powder>
+
+---
+
+## Bigface Coffee’s First Cafe is a Retail Odyssey in Miami
+
+date: 2024-12-13, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Bigface-Coffee-Miami-3-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Bigface Coffee Miami 3" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Bigface-Coffee-Miami-3-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Bigface-Coffee-Miami-3-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Bigface-Coffee-Miami-3-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Bigface-Coffee-Miami-3-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Bigface-Coffee-Miami-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Bigface Coffee, the high-end specialty coffee brand created by NBA star Jimmy Butler, opened its first brick-and-mortar cafe in Miami this month. Looking like a retro futuristic space station, the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/13/bigface-coffees-first-cafe-is-a-retail-odyssey-in-miami/>
+
+---
+
+## Weekly Coffee News: Vietnam Report + Taco Bell’s Cafe Concept
+
+date: 2024-12-13, from: Daily Coffee News
+
+<div><img width="620" height="411" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/robusta-coffee-620x411.jpg" class="attachment-large size-large wp-post-image" alt="robusta coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/robusta-coffee-620x411.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/robusta-coffee-300x199.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/robusta-coffee-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/robusta-coffee-768x509.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/robusta-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. USDA Releases Vietnam Coffee Semi-Annual Report&#160; The USDA Foreign... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/13/weekly-coffee-news-vietnam-report-taco-bells-cafe-concept/>
 
 ---
 
@@ -30,6 +92,20 @@ date: 2024-12-13, from: The Sprudge
 <br> 
 
 <https://sprudge.com/give-me-this-new-klein-blue-ceramic-mug-for-christmas-262337.html>
+
+---
+
+## How Three Coffee Shops Tackle Inventory Management
+
+date: 2024-12-13, from: The Fresh Cup
+
+<p>Effective inventory management can help coffee shops cut costs and increase profits. Read on for insights from three cafe owners to learn what works for them.</p>
+<p>The post <a href="https://freshcup.com/how-three-coffee-shops-tackle-inventory-management/">How Three Coffee Shops Tackle Inventory Management</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/how-three-coffee-shops-tackle-inventory-management/>
 
 ---
 
@@ -207,7 +283,7 @@ A Laotian noodle bar in Oklahoma City, a beloved Atlanta chef’s next act, and 
 
 date: 2024-12-12, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1-620x413.jpg" class="attachment-large size-large wp-post-image" alt="coffee plant" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new report commissioned by Fairtrade International and co-funded by the European Union found that coffee producers are leading producers in other agricultural sectors in planning for climate change, though... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1-620x413.jpg" class="attachment-large size-large wp-post-image" alt="coffee plant" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-plant-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new report commissioned by Fairtrade International and co-funded by the European Union found that coffee producers are leading producers in other agricultural sectors in planning for climate change, though... 
 
 <br> 
 
@@ -243,7 +319,7 @@ date: 2024-12-12, from: The Sprudge
 
 date: 2024-12-12, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image-620x414.png" class="attachment-large size-large wp-post-image" alt="Junto PR Image" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Raleigh, North Carolina-based Pomelo Coffee Consulting is launching the second iteration of its coffee roaster, education, networking and consulting platform called Pomelo Junto. The six-month program will involve a cohort... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image-620x414.png" class="attachment-large size-large wp-post-image" alt="Junto PR Image" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Junto-PR-Image.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Raleigh, North Carolina-based Pomelo Coffee Consulting is launching the second iteration of its coffee roaster, education, networking and consulting platform called Pomelo Junto. The six-month program will involve a cohort... 
 
 <br> 
 
@@ -359,7 +435,7 @@ Give them a taste of la dolce vita with aged balsamics, fresh pasta on demand, a
 
 date: 2024-12-11, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Autumn Coffee Roasting" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As its namesake season reached its colorful and gusty peak in October, Gresham, Oregon-based Autumn Coffee Roasting opened its second coffee shop. The roasting company opened its first brick-and-mortar cafe... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Autumn Coffee Roasting" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Autumn-coffee-roasters-Gresham-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As its namesake season reached its colorful and gusty peak in October, Gresham, Oregon-based Autumn Coffee Roasting opened its second coffee shop. The roasting company opened its first brick-and-mortar cafe... 
 
 <br> 
 
@@ -904,4 +980,30 @@ Creamy, cheesy and cozy—what's not to love about potatoes au gratin Gruyere? T
 <br> 
 
 <https://www.tasteofhome.com/recipes/potatoes-au-gratin-gruyere/>
+
+---
+
+## Why Are There So Many Food Recalls Right Now?
+
+date: 2024-12-07, from: Taste of Home
+
+<p>I know I'm not the only one with listeria and E. coli in my newsfeed.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/why-are-there-so-many-food-recalls-right-now/">Why Are There So Many Food Recalls Right Now?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/why-are-there-so-many-food-recalls-right-now/>
+
+---
+
+## Candy Cane Danish
+
+date: 2024-12-07, from: Taste of Home
+
+Absolutely everyone will want a slice of this festive, fruit-filled candy cane Danish! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/candy-cane-danish/>
 

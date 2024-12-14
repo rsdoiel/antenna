@@ -1,11 +1,11 @@
 ---
 title: weather
-updated: 2024-12-13 07:06:01
+updated: 2024-12-14 07:05:00
 ---
 
 # weather
 
-(date: 2024-12-13 07:06:01)
+(date: 2024-12-14 07:05:00)
 
 ---
 
@@ -18,80 +18,6 @@ No Mesoscale Discussions are in effect as of Fri Dec 13 14:41:02 UTC 2024.
 <br> 
 
 <https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC - No watches are valid as of Fri Dec 13 14:41:02 UTC 2024
-
-date: 2024-12-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Fri Dec 13 14:41:02 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC Dec 13, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-12-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0643 AM CST Fri Dec 13 2024
-
-Valid 131300Z - 141200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not expected through tonight.
-
-...Synopsis/Discussion...
-As heights rise in the East following the departure of a substantial
-synoptic-scale trough, two strong shortwave troughs will progress
-through the midlatitude westerlies upstream, and influence thunder
-potential across the western/central CONUS:
-
-1.  A leading perturbation -- now apparent over the eastern Great
-Basin and southern ID -- should extend from southeastern WY across
-east-central CO to eastern NM by 00Z.  By the end of the period, the
-trough should reach central portions of SD/NE/KS and northwestern
-OK, while deepening.  A closed 500-mb low may develop on the trough,
-either then or within a few hours into day 2, over south-central/
-southeastern NE.  Strong, foregoing low-level warm advection and
-moisture transport will persist through the period, atop a
-relatively stable near-surface layer.  Increasing thunderstorm
-coverage is expected after about 06Z from the middle/upper TX Coast
-to the lower Missouri Valley, as increasingly moist parcels above
-that stable layer reach LFC.  This will occur in concordance with
-steepening low/middle-level lapse rates and decreasing MUCINH,
-mainly related to the warm advection (but also late DCVA over
-northwestern parts of the outlook area).  Small hail may fall from
-the strongest cells; however, forecast soundings indicate effective
-shear, buoyancy and inflow-layer moisture content should be too
-small for a severe threat.
-
-2.  The trailing shortwave trough -- initially evident in moisture-
-channel imagery over the North Pacific around 40N150W -- will move
-rapidly eastward and amplify, with preceding large-scale ascent
-reaching the CA/OR coastline after 06Z on either side of a low-level
-cold front.  While lapse rates in the frontal band should be modest,
-and buoyancy meager, areas of MUCAPE around 50-200 J/kg, rooted near
-700 mb -- may extend deeply enough into suitable icing layers to
-support isolated lightning.
-
-..Edwards/Goss.. 12/13/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
