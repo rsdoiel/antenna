@@ -1,11 +1,391 @@
 ---
 title: pacific
-updated: 2024-12-14 07:04:59
+updated: 2024-12-15 07:05:10
 ---
 
 # pacific
 
-(date: 2024-12-14 07:04:59)
+(date: 2024-12-15 07:05:10)
+
+---
+
+## Police seek leads on theft suspect
+
+date: 2024-12-15, from: Hawaii Tribune Harold
+
+
+				<p>Police are requesting the public&#8217;s assistance to identify a man who is a person of interest in a theft that took place at a residence in Pahoa in October.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/15/hawaii-news/police-seek-leads-on-theft-suspect-2/>
+
+---
+
+## Block by block: Hilo team takes Lego robot to state competition
+
+date: 2024-12-15, from: Hawaii Tribune Harold
+
+
+				<p>A team of Hilo keiki will pit their Lego robot against 49 others in Honolulu today at the FIRST Lego League State Tournament.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/15/hawaii-news/block-by-block-hilo-team-takes-lego-robot-to-state-competition/>
+
+---
+
+## Pohoiki dredging could soon begin: $9.2M contract awarded; work expected to begin in February
+
+date: 2024-12-15, from: Hawaii Tribune Harold
+
+
+				<p>Puna residents and lawmakers are eager to get boats back in the water when the Pohoiki Boat Ramp reopens late next year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/15/hawaii-news/pohoiki-dredging-could-soon-begin-9-2m-contract-awarded-work-expected-to-begin-in-february/>
+
+---
+
+## Murder suspect found fit to stand trial
+
+date: 2024-12-15, from: Hawaii Tribune Harold
+
+
+				<p>A 34-year-old Mountain View man accused of a shooting death and two nonfatal shootings four years ago has been found fit to stand trial.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/15/hawaii-news/murder-suspect-found-fit-to-stand-trial/>
+
+---
+
+## US appeals court judge rescinds retirement after Trump’s win
+
+date: 2024-12-15, from: Hawaii Tribune Harold
+
+
+				<p>A U.S. appeals court judge has taken the rare step of revoking his decision to retire from active service on the bench, depriving Republican President-elect Donald Trump of the ability to fill a judicial vacancy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/15/nation-world-news/us-appeals-court-judge-rescinds-retirement-after-trumps-win/>
+
+---
+
+## Zoo implements measures after discovery of bird flu on isle
+
+date: 2024-12-15, from: Hawaii Tribune Harold
+
+
+				<p>The Pana&#8216;ewa Rainforest Zoo &#38;Gardens will implement precautionary measures to protect its animals from bird flu after the virus was detected on the Big Island.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/15/hawaii-news/zoo-implements-measures-after-discovery-of-bird-flu-on-isle/>
+
+---
+
+## After weeks of drone sightings, New Jersey remains on edge
+
+date: 2024-12-15, from: Hawaii Tribune Harold
+
+
+				<p>The day after Thanksgiving, Susan and Lorelai Woodruff saw about 10 brightly lit objects banking and turning quickly in the night sky above their home in Elsinboro, in southern New Jersey.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/15/nation-world-news/after-weeks-of-drone-sightings-new-jersey-remains-on-edge/>
+
+---
+
+## Hawaii secures over $6M to bridge digital divide
+
+date: 2024-12-15, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii on Thursday received more than $6 million from the federal government to implement its Digital Equity Plan, part of a nationwide effort to address barriers to internet access and use. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/15/hawaii-news/hawaii-secures-over-6m-to-bridge-digital-divide/>
+
+---
+
+## Where it isn’t Christmas until the city shoots lasers at 20,000 crows
+
+date: 2024-12-15, from: Hawaii Tribune Harold
+
+
+				<p>In Rochester, New York, there are telltale signs that the holiday season is underway.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/15/features/where-it-isnt-christmas-until-the-city-shoots-lasers-at-20000-crows/>
+
+---
+
+## South Korea’s president is impeached after martial law crisis
+
+date: 2024-12-15, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL, South Korea &#8212; Eleven days ago, President Yoon Suk Yeol of South Korea made a bold power grab, putting the country under military rule for the first time in 45 years, citing frustration at the opposition for obstructing his agenda in parliament.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/15/nation-world-news/south-koreas-president-is-impeached-after-martial-law-crisis/>
+
+---
+
+## Rick Steves: Andorra: Not lost in the Pyrenees
+
+date: 2024-12-15, from: Hawaii Tribune Harold
+
+
+				<p>High in the mountains where France and Spain come together, I drove and drove. My goal: to stand atop a ridge looking into a rugged mountain-ringed basin where nature cradles an ancient tribe. There was an age when these pint-sized kingdoms were commonplace. But today, only a few survive. I finally reached my destination, deep in the rugged Pyrenees Mountains. Before me stretched the principality of Andorra.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/15/features/rick-steves-andorra-not-lost-in-the-pyrenees/>
+
+---
+
+## In display of fealty, tech industry curries favor with Trump
+
+date: 2024-12-15, from: Hawaii Tribune Harold
+
+
+				<p>The $1 million donations came gradually &#8212; and then all at once.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/15/nation-world-news/in-display-of-fealty-tech-industry-curries-favor-with-trump/>
+
+---
+
+## Volcano Watch: It’s all about perspective: How to interpret an interferogram
+
+date: 2024-12-15, from: Hawaii Tribune Harold
+
+
+				<p>Interferograms are images created by radar satellites that show how the ground has changed shape, or deformed, over time. Today, we&#8217;ll dive into one of the trickiest parts of interpreting interferograms: the perspective of satellites.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/15/features/volcano-watch-its-all-about-perspective-how-to-interpret-an-interferogram/>
+
+---
+
+## Marines' relocation kicks off; small unit from Okinawa arrives on Guam 
+
+date: 2024-12-15, from: Pacific Island Times
+
+Approximately 100 logistics support Marines from Okinawa have arrived on Guam, launching the first phase of the troop realignment plan. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/marines-relocation-kicks-off-small-unit-from-okinawa-arrives-on-guam>
+
+---
+
+## Bank of America flagged suspicious payments to Epstein only after he died
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>When Bank of America alerted financial regulators in 2020 to potentially suspicious payments from Leon Black, the billionaire investor, to Jeffrey Epstein, the disgraced financier, the bank was following a routine practice.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/bank-of-america-flagged-suspicious-payments-to-epstein-only-after-he-died/>
+
+---
+
+## South Korea’s president faces new impeachment vote
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL, South Korea &#8212; Yoon Suk Yeol, the embattled president of South Korea, faces a second parliamentary vote to impeach him Saturday, with the opposition and protesters demanding more ruling party lawmakers abandon support for their leader over his short-lived martial law&#8203; decree.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/south-koreas-president-faces-new-impeachment-vote/>
+
+---
+
+## Texas Attorney General sues New York doctor for mailing abortion pills
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>The Texas attorney general opened a new front in the contentious battle over access to abortion this week by suing a New York doctor for sending abortion pills into Texas. It appeared to be among the first attempts to stop the mailing of such medication into states that ban abortion.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/texas-attorney-general-sues-new-york-doctor-for-mailing-abortion-pills/>
+
+---
+
+## McKinsey to pay $650 million in opioid settlement with Justice Department
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>McKinsey &#038; Co. has agreed to pay $650 million to settle a Justice Department investigation of its work with opioid maker Purdue Pharma. A former senior partner, Martin Elling, has also agreed to plead guilty to obstruction of justice for destroying internal company records in connection with that work.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/mckinsey-to-pay-650-million-in-opioid-settlement-with-justice-department/>
+
+---
+
+## Kennedy’s lawyer has asked the FDA to revoke approval of the polio vaccine
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>The lawyer helping Robert F. Kennedy Jr. pick federal health officials for the incoming Trump administration has petitioned the government to revoke its approval of the polio vaccine, which for decades has protected millions of people from a virus that can cause paralysis or death.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/kennedys-lawyer-has-asked-the-fda-to-revoke-approval-of-the-polio-vaccine/>
+
+---
+
+## Uber and Lyft found a loophole in a driver pay law. Drivers pushed back.
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; New York City was the first place in the United States to mandate minimum pay rates for drivers for companies such as Uber and Lyft. But after the companies found a loophole that made it much harder for some drivers to get by, the city is looking to change its law, prompting dueling pressure campaigns as both sides seek to influence the outcome.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/uber-and-lyft-found-a-loophole-in-a-driver-pay-law-drivers-pushed-back/>
+
+---
+
+## Under Trump, Voice of America journalists fear politicization
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President-elect Donald Trump&#8217;s choice of Kari Lake to serve as the director of the federally funded broadcaster Voice of America sent a chill through the ranks of the organization, where journalists expressed anxiety about Lake and what the future could hold.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/under-trump-voice-of-america-journalists-fear-politicization/>
+
+---
+
+## Joy buoys Syria’s first Friday prayers since Assad ouster, but hardships loom
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>DAMASCUS, Syria &#8212; Jubilant crowds gathered in cities across Syria for the first Friday Prayers since rebels toppled President Bashar Assad, including at the historic Umayyad Mosque in the capital, where civilians and fighters worshipped side by side and joyful chants erupted over the collapse of a long authoritarian dynasty.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/joy-buoys-syrias-first-friday-prayers-since-assad-ouster-but-hardships-loom/>
+
+---
+
+## Tropical Gardening: Gifts for Christmas that go on giving
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>It is fun to receive gifts for Christmas. As we become adults, it is more about giving rather than getting. Some gifts we enjoy are ones that are satisfying for a short time. Others are with us for the long haul. But when you think about it, gifts are over rated, since Christmas really isn&#8217;t only about gift giving or getting.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/features/tropical-gardening-gifts-for-christmas-that-go-on-giving/>
+
+---
+
+## 5 robbery suspects arrested
+
+date: 2024-12-14, updated: 2024-12-14, from: Marianas Variety
+
+THE  Department of Public Safety on Saturday evening said it has obtained arrest warrants for five robbery suspects: two adults and three juveniles. They have been charged with kidnapping, aggravated assault and battery, robbery, and disturbing the peace. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/5-robbery-suspects-arrested/article_988cd026-b9fc-11ef-af11-f7276004d9e3.html>
+
+---
+
+## South Korea lawmakers vote to impeach President Yoon over martial law bid
+
+date: 2024-12-14, updated: 2024-12-15, from: Marianas Variety
+
+SEOUL (Reuters) — South Korea's opposition-led parliament impeached President Yoon Suk Yeol on Saturday, voting to suspend him from his official duties over his short-lived attempt last week to impose martial law. Under the constitution Prime Minister Han Duck-soo, who was appointed by Yoon, becomes acting president. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/south-korea-lawmakers-vote-to-impeach-president-yoon-over-martial-law-bid/article_0b89a3e4-b9fb-11ef-9443-6f0be31b712c.html>
+
+---
+
+## Vanuatu hopes for a climate change opinion that will 'inspire global action'
+
+date: 2024-12-14, from: Pacific Island Times
+
+Arnold Kiel Loughman By Pacific Island Times News Staff Statements at the International Court of Justice highlighted a compelling legal... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/vanuatu-hopes-for-a-climate-change-opinion-that-will-inspire-global-action>
+
+---
+
+## Study: Palau's marine sanctuary protects tuna during spawning period 
+
+date: 2024-12-14, from: Pacific Island Times
+
+Researchers have found that tuna spawn within the boundaries of the Palau National Marine Sanctuary, suggesting that the secured area potent 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/study-palau-s-marine-sanctuary-protects-tuna-during-spawning-period>
+
+---
+
+## ‘I can tell the changes’: Grand master navigators on climate change and perpetuating traditions
+
+date: 2024-12-14, from: The Husk
+
+Grand Master Navigator Ali Haleyalur, Grand Master Navigator Sesario Sewralur, and Master Navigator Larry Raigetal talk story at the Marianas Storytelling Series Micronesia Voyaging event 
+
+<br> 
+
+<https://thehusk.substack.com/p/i-can-tell-the-changes-master-navigators>
 
 ---
 
@@ -18,6 +398,18 @@ By Jayvee Vallejera   A class action lawsuit filed Thursday against Guam’s De
 <br> 
 
 <https://www.pacificislandtimes.com/post/class-suit-alleges-inhumane-conditions-at-guam-correctional-facilities>
+
+---
+
+## Unwrap the latest AI features with Amazon Fire Tablets
+
+date: 2024-12-13, updated: 2024-12-13, from: Marianas Variety
+
+Sorry, but your browser does not support the video tag. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/unwrap-the-latest-ai-features-with-amazon-fire-tablets/article_4f6073d6-f866-57b3-a48d-8c7a82f8cb34.html>
 
 ---
 
@@ -44,6 +436,66 @@ The post <a href="https://www.hawaii.edu/news/2024/12/13/110m-contract-cutting-e
 <br> 
 
 <https://www.hawaii.edu/news/2024/12/13/110m-contract-cutting-edge-research/>
+
+---
+
+## Getting smart about car insurance can provide cost savings and peace of mind
+
+date: 2024-12-13, updated: 2024-12-13, from: Marianas Variety
+
+(BPT) - Consumers are facing increasing costs on virtually every purchase these days and auto insurance is no exception. While skyrocketing costs of this auto-related expense can be attributed to everything from parts replacement to service — even health costs as a result of accidents — consumers can better manage these increases with thoughtful study and attention to detail. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/getting-smart-about-car-insurance-can-provide-cost-savings-and-peace-of-mind/article_cfe90892-8a31-5bdc-99ba-4094b1fc4cd1.html>
+
+---
+
+## Cancer’s Hidden Healing: How Supportive Care Transforms Lives
+
+date: 2024-12-13, updated: 2024-12-13, from: Marianas Variety
+
+(BPT) - Diego Serna's life changed forever in January 2020 when what seemed like a normal Saturday morning playing video games turned into a medical emergency for the then 13-year-old. After a frightening discovery of swollen, painful hands led to a devastating leukemia diagnosis, Diego and his family faced not just one challenge, but a series of them—including a heartbreaking relapse nine months into treatment. For Diego and his family, cancer has been more than a medical journey—it has been a battle that has impacted every aspect of their lives. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/cancer-s-hidden-healing-how-supportive-care-transforms-lives/article_5babb261-271a-593d-a2ec-6524d507d5c5.html>
+
+---
+
+## 5 expert tips to create an effortless holiday spread
+
+date: 2024-12-13, updated: 2024-12-13, from: Marianas Variety
+
+(BPT) - Nothing brings folks together during the holiday season like food. Whether you're hosting a low-key gathering or throwing a festive party, choosing and preparing the right food can make the difference between a good and a great event. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/seasonal/5-expert-tips-to-create-an-effortless-holiday-spread/article_6c35a76b-bd13-5bac-adb9-47502ab12eea.html>
+
+---
+
+## Gut health matters! 6 easy ways to prioritize it this winter
+
+date: 2024-12-13, updated: 2024-12-13, from: Marianas Variety
+
+(BPT) - The holiday season is a festive, joyous time of year but it can pack a one-two punch. With all of the holiday baking, get-togethers and big meals, people tend to overindulge in rich foods, sweet treats and more. All of that has the potential to disrupt your gut, which can make you feel sluggish and also weaken your immune system. Here's where that one-two punch comes in. This time of year is also the height of the cold and flu season, when you need your immune system to be super charged. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/gut-health-matters-6-easy-ways-to-prioritize-it-this-winter/article_fdfe7a87-1ed8-52c6-a00e-d7b93fae0a38.html>
+
+---
+
+## How Solar Generators Revolutionize All-Hazards Preparedness
+
+date: 2024-12-13, updated: 2024-12-13, from: Marianas Variety
+
+(BPT) - By Craig Fugate, former Administrator of FEMA and a lifelong advocate for all-hazards preparedness 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/how-solar-generators-revolutionize-all-hazards-preparedness/article_f485f7b5-24a2-592b-a212-c13b40a4bc18.html>
 
 ---
 
@@ -314,7 +766,7 @@ The post <a href="https://www.hawaii.edu/news/2024/12/13/uhero-fourth-quarter-fo
 
 ## Viral video links to taxi operator robbery, DPS investigates
 
-date: 2024-12-13, updated: 2024-12-13, from: Marianas Variety
+date: 2024-12-13, updated: 2024-12-15, from: Marianas Variety
 
 THE Department of Public Safety on Friday evening said it has been “made aware of videos going viral of a group of individuals who were assaulting a person inside a vehicle. We can confirm that the video is related to the taxi operator who was beaten and robbed on December 10. DPS CIB is actively in the process of investigating the content and the perpetrators in the video. We ask the community who may have information of the individuals involved to contact DPS.” 
 
@@ -557,6 +1009,30 @@ date: 2024-12-13, from: Island Times
 <br> 
 
 <https://islandtimes.org/australia-to-force-tech-titans-to-pay-for-news/>
+
+---
+
+## Don’t let the holidays kick you in the glass!
+
+date: 2024-12-13, updated: 2024-12-13, from: Marianas Variety
+
+(NewsUSA) - As the holiday season fast approaches, families across the country are already feeling the financial pinch. With gifts, travel, and celebrations adding up, unexpected expenses can be a burden. One such surprise? Auto glass damage from vehicle break-ins. The holidays tend to bring an uptick in car break-ins, leaving drivers facing costly auto glass repairs or replacements just when they can least afford it. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/automotive/don-t-let-the-holidays-kick-you-in-the-glass/article_54e92a45-0006-50c4-b846-3cba70e54868.html>
+
+---
+
+## Why Supporting STEM Education Helps Ensure U.S. Prosperity
+
+date: 2024-12-13, updated: 2024-12-13, from: Marianas Variety
+
+(NewsUSA) - Baby Boomers hit peak retirement in 2024, according to the Retirement Income Institute. In the years to come, we will see the remainder of this generation leave the workforce, as more than 4.1 million turn 65 every year between now and 2027. As Baby Boomers retire, new opportunities are emerging for younger generations to step into critical roles. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/education/why-supporting-stem-education-helps-ensure-u-s-prosperity/article_d71a40a0-340e-5186-ac4f-18c2ea2610b0.html>
 
 ---
 
@@ -2603,248 +3079,4 @@ date: 2024-12-08, from: Pacific Island Times
 <br> 
 
 <https://www.pacificislandtimes.com/post/hope-for-guam-s-struggling-artists>
-
----
-
-## Don’t wait ‘til it’s too late 
-
-date: 2024-12-07, from: Pacific Island Times
-
-Why is it that when someone you know becomes “someone you knew,” you suddenly think of how much that person meant to you? 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/don-t-wait-til-it-s-too-late>
-
----
-
-## An Arctic hamlet is sinking into the thawing permafrost
-
-date: 2024-12-07, from: Hawaii Tribune Harold
-
-
-				<p>TUKTOYAKTUK, Canada &#8212; On the shore of Lake Tiktalik in Canada&#8217;s Western Arctic, the thawing permafrost had set off two huge landslides into the water, leaving yawning craters on the tundra. These &#8220;thaw slumps&#8221; measured several hundred feet wide and just as deep.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/an-arctic-hamlet-is-sinking-into-the-thawing-permafrost/>
-
----
-
-## TikTok faces US ban after losing bid to overturn new law
-
-date: 2024-12-07, from: Hawaii Tribune Harold
-
-
-				<p>TikTok is one step closer to disappearing in the United States after a panel of federal judges Friday unanimously upheld a new law that could lead to the banning of the popular Chinese-owned video app by mid-January.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/tiktok-faces-us-ban-after-losing-bid-to-overturn-new-law/>
-
----
-
-## Californians know about earthquakes, but tsunamis are a different story
-
-date: 2024-12-07, from: Hawaii Tribune Harold
-
-
-				<p>SAN FRANCISCO &#8212; For generations, the possibility of another devastating earthquake has lingered in the minds of Californians, who are remarkably familiar with seismological terms and regularly prepare for the next &#8220;Big One.&#8221;</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/californians-know-about-earthquakes-but-tsunamis-are-a-different-story/>
-
----
-
-## Job growth rebounds with a gain of 227,000 in November
-
-date: 2024-12-07, from: Hawaii Tribune Harold
-
-
-				<p>Job creation bounced back in November after disruptions from storms and a major strike, reinforcing a picture of modest employment expansion over the past several months.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/job-growth-rebounds-with-a-gain-of-227000-in-november/>
-
----
-
-## Appeals court upholds nearly $1.3 billion Sandy Hook verdict against Alex Jones
-
-date: 2024-12-07, from: Hawaii Tribune Harold
-
-
-				<p>A Connecticut appeals court on Friday largely upheld a nearly $1.3 billion defamation verdict against conspiracy theorist Alex Jones in a case accusing the Infowars founder of spreading lies about the 2012 Sandy Hook mass shooting.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/appeals-court-upholds-nearly-1-3-billion-sandy-hook-verdict-against-alex-jones/>
-
----
-
-## Canada moves to protect Arctic from threats by Russia and China
-
-date: 2024-12-07, from: Hawaii Tribune Harold
-
-
-				<p>OTTAWA, Ontario &#8212; Citing growing interest by China and Russia in the Arctic as global warming makes the region more accessible, Canada on Friday said it would focus on building stronger alliances with other nations in the region, particularly the United States.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/canada-moves-to-protect-arctic-from-threats-by-russia-and-china/>
-
----
-
-## Police find backpack in Central Park, a possible link to gunman who killed CEO
-
-date: 2024-12-07, from: Hawaii Tribune Harold
-
-
-				<p>NEW YORK &#8212; Investigators said Friday that they had recovered DNA from a water bottle they believed had been discarded by the man who killed a health care executive in a brazen attack in midtown Manhattan this week.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/police-find-backpack-in-central-park-a-possible-link-to-gunman-who-killed-ceo/>
-
----
-
-## After Hunter Biden’s pardon, White House considers broader clemency
-
-date: 2024-12-07, from: Hawaii Tribune Harold
-
-
-				<p>The White House is listening to demands for President Joe Biden to extend the same grace to thousands of people wronged by the U.S. judicial system as he did to his son Hunter, officials say.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/after-hunter-bidens-pardon-white-house-considers-broader-clemency/>
-
----
-
-## U.S. milk to be tested for bird flu virus
-
-date: 2024-12-07, from: Hawaii Tribune Harold
-
-
-				<p>The U.S. Department of Agriculture will begin testing the nation&#8217;s milk supply for the bird flu virus known as H5N1, nearly a year after the virus began circulating through dairy cattle, the department announced Friday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/u-s-milk-to-be-tested-for-bird-flu-virus/>
-
----
-
-## Syrian rebels seize fourth city, close in on Homs in threat to Assad’s rule
-
-date: 2024-12-07, from: Hawaii Tribune Harold
-
-
-				<p>AMMAN/BEIRUT &#8212; Syrian rebels said they seized control of the southern city of Daraa on Saturday, the birthplace of a 2011 uprising against President Bashar al-Assad and the fourth city his forces have lost in a week.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/syrian-rebels-seize-fourth-city-close-in-on-homs-in-threat-to-assads-rule/>
-
----
-
-## How much did Trump, Biden and Harris raise? A stunning $4.7 billion.
-
-date: 2024-12-07, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Donors spent an astonishing $4.7 billion on the presidential contenders in this year&#8217;s general election, piling that amount into the campaign coffers of Donald Trump, Kamala Harris, Joe Biden and their main allied groups over the course of the contest.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/07/nation-world-news/how-much-did-trump-biden-and-harris-raise-a-stunning-4-7-billion/>
-
----
-
-## Their fertilizer poisons farmland. Now, they want protection from lawsuits.
-
-date: 2024-12-07, from: Hawaii Tribune Harold
-
-
-				<p>For decades, a little-known company now owned by a Goldman Sachs fund has been making millions of dollars from the unlikely dregs of American life: sewage sludge.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/07/features/their-fertilizer-poisons-farmland-now-they-want-protection-from-lawsuits/>
-
----
-
-## Tropical Gardening: Tropical pines sometimes hard to find
-
-date: 2024-12-07, from: Hawaii Tribune Harold
-
-
-				<p>Christmas is less than three weeks away, but it seems like most folks are a bit slow in getting their trees up this year. Don&#8217;t delay any longer since trees that are shipped in early are best.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/07/features/tropical-gardening-tropical-pines-sometimes-hard-to-find/>
-
----
-
-## Fish Eye Park taps local market, extends 50% discount for Guam residents 
-
-date: 2024-12-07, from: Pacific Island Times
-
-As part of the promotion, Fish Eye Marine Park is also extending discounts on the other exciting adventures it offers: the island heritage a 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/fish-eye-park-taps-local-market-extends-50-discount-for-guam-residents>
-
----
-
-## Kaʻana Manaʻo: Fashion is in fashion
-
-date: 2024-12-07, from: University of Hawaiʻi News
-
-<p>Column by <abbr>UH</abbr> Maui College Chancellor Lui Hokoana was published by The Maui News on November 29, 2024.</p>
-The post <a href="https://www.hawaii.edu/news/2024/12/06/kaana-manao-fashion/">Kaʻana Manaʻo: Fashion is in fashion</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2024/12/06/kaana-manao-fashion/>
-
----
-
-## UH Mānoa Athletics maintains Big West membership for four teams
-
-date: 2024-12-07, from: University of Hawaiʻi News
-
-<p>This agreement ensures continued competitive opportunities for these programs while strengthening their long-term stability.</p>
-The post <a href="https://www.hawaii.edu/news/2024/12/06/uh-manoa-athletics-big-west-membership-four-teams/"><abbr>UH</abbr> Mānoa Athletics maintains Big West membership for four teams</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2024/12/06/uh-manoa-athletics-big-west-membership-four-teams/>
-
----
-
-## Guam archdiocese releases list of priests named in sex abuse class action
-
-date: 2024-12-07, from: Pacific Island Times
-
-Disclosing the defendants' identities was part of the archdiocese's $45-million settlement agreement with "the 287 courageous men and women  
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/guam-archdiocese-releases-list-of-priests-named-in-sex-abuse-class-action>
 

@@ -1,11 +1,52 @@
 ---
 title: writing
-updated: 2024-12-14 07:05:01
+updated: 2024-12-15 07:05:11
 ---
 
 # writing
 
-(date: 2024-12-14 07:05:01)
+(date: 2024-12-15 07:05:11)
+
+---
+
+## Lightspeed, Small Wonders and Beneath Ceaseless Skies: Short Fiction Reviews by Charles Payseur
+
+date: 2024-12-14, from: Locus Magazine
+
+<p>Lightspeed 9/24
+Small Wonders 9/24
+Beneath Ceaseless Skies 9/5/24, 9/19/24</p>
+<p><strong>Gabriela Santiago </strong>returns to Lightspeed in September with the metatextual “<strong>Reconstruct­ing ‘The Goldenrod Conspiracy,’ Edina Room, Saturday 2:30-3:30</strong>”, which is framed as a pre­sentation at a fan convention dedicated to the <strong>Doctor Who</strong>&#8211;esque television show <strong>Backwards Man</strong>. The presentation is on a lost episode that has been remade by fans based on what people could remember  <a href="https://locusmag.com/2024/12/lightspeed-small-wonders-and-beneath-ceaseless-skies-short-fiction-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/lightspeed-small-wonders-and-beneath-ceaseless-skies-short-fiction-reviews-by-charles-payseur/>
+
+---
+
+## The Lost Souls of Benzaiten by Kelly Murashige: Review by Colleen Mondor
+
+date: 2024-12-14, from: Locus Magazine
+
+<p><strong>The Lost Souls of Benzaiten</strong>, Kelly Murashige (Soho Teen 978-1-641-29574-1, $19.99, 304pp, hc) July 2024.</p>
+<p>Debut author Kelly Murashige mixes a tender coming-of-age story with the unexpected antics of a bored Japanese goddess to give readers the highly original fantasy <strong>The Lost Souls of Ben­zaiten</strong>. The author’s clever plot and thoroughly en­gaging characters manage to make all too relatable the protagonist’s wish early on to “become one of  <a href="https://locusmag.com/2024/12/the-lost-souls-of-benzaiten-by-kelly-murashige-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/the-lost-souls-of-benzaiten-by-kelly-murashige-review-by-colleen-mondor/>
+
+---
+
+## 2024 World Fantasy Convention Report
+
+date: 2024-12-14, from: Locus Magazine
+
+<p xml:lang="en-us"></p>
+<p class="normal" xml:lang="en-us">The 50th World Fantasy Convention was held as a hybrid event October 17-20, 2024, with the in-person portion held at the Sheraton Niagara Falls and Niagara Falls Convention Center in Niagara Falls NY. Guests of honor were Scott H. Andrews, Galen Dara, and Heather Graham, with toastmaster Michael Swanwick. P. Djèlí Clark was a special guest, and Life Achievement Awards winners were Ginjer Buchanan and Jo Fletcher. The theme was  <a href="https://locusmag.com/2024/12/2024-world-fantasy-convention-report/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/2024-world-fantasy-convention-report/>
 
 ---
 
@@ -442,30 +483,4 @@ date: 2024-12-08, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2024/12/a-hunger-with-no-name-by-lauren-c-teffeau-review-by-jake-casella-brookins/>
-
----
-
-## Augur: Short Fiction Reviews by A.C. Wise
-
-date: 2024-12-07, from: Locus Magazine
-
-<p>Augur 7.1</p>
-<p>Grief, loss, healing, and recovery are themes running through Augur 7.1, and it’s interesting to see how different authors approach similar subject matter. “<strong>Sagal, the-Witch-in Training</strong>” by <strong>Ardo Omer </strong>follows the titular witch-in-training on her first solo case, trying to help a young woman with a broken heart. The woman happens to be the sister of one of her classmates, and they work together to convince  <a href="https://locusmag.com/2024/12/augur-short-fiction-reviews-by-a-c-wise/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2024/12/augur-short-fiction-reviews-by-a-c-wise/>
-
----
-
-## 2024 Word of the Year
-
-date: 2024-12-07, from: Locus Magazine
-
-<p>Collins Dictionary in the UK has released its “Word of the Year” winner and shortlist for 2024. The list include “romantasy,” defined as “a literary genre that combines romantic fiction with fantasy.” The overall word of the year is “brat,” in the sense of someone with a “confident, independent and hedonistic attitude,” as popularized by singer/songwriter Charli XCX’s album <strong>Brat</strong>.</p>
-<p>Other words on the list include “supermajor­ity,” “yapping,” “delulu,”  <a href="https://locusmag.com/2024/12/2024-word-of-the-year/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2024/12/2024-word-of-the-year/>
 

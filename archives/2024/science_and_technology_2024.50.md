@@ -1,11 +1,83 @@
 ---
 title: science and technology
-updated: 2024-12-14 07:04:59
+updated: 2024-12-15 07:05:10
 ---
 
 # science and technology
 
-(date: 2024-12-14 07:04:59)
+(date: 2024-12-15 07:05:10)
+
+---
+
+## Red Rabbit Robotics takes human form to sell work as a service
+
+date: 2024-12-15, updated: 2024-12-15, from: The Register (UK I.T. News)
+
+<h4>Take this job and automate it</h4> <p>Red Rabbit Robotics made an appearance at the Humanoids Summit this week – a conference for builders making machines resembling people and selling autonomous labor as a service.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/15/red_rabbit_robotics/>
+
+---
+
+## Xfce 4.20 with experimental Wayland support released
+
+date: 2024-12-15, from: OS News
+
+After two years of intense development, the third major Linux desktop environment has released a new version: Xfce 4.20 is here. The major focus of this release cycle was getting Xfce ready for Wayland, and they&#8217;ve achieved quite a bit of that goal, but support for it is still experimental. Thanks to&#160;Brian&#160;and&#160;Gaël&#160;almost all Xfce components are able to run on Wayland windowing, while still keeping support for X11 windowing. This major effort was achieved by abstracting away any X11/Wayland windowing specific calls and making use of Wayland/Wlroots protocols. A whole new Xfce library, &#8220;libxfce4windowing&#8221; was introduced during that process. XWayland will not be required to run any of the ported Xfce components. ↫ Xfce development team A major gap in Xfce&#8217;s Wayland support is the fact that Xfwm4 has not been ported to Wayland yet, so the team suggests using Labwc or Wayfire instead if you want to dive into using Xfce on Wayland. While there are plans to port Xfwm4 over to Wayland, this requires a major restructuring and they&#8217;re not going to set any timelines or expectations of when this will be completed. Regardless, this is an excellent achievement and solid progress for Xfce on Wayland, which is pretty much a requirement for Xfce (and other desktop environments) te remain relevant going forward. Of course, while Wayland is a major focus this release, there&#8217;s a lot more here, too &#8211; and that&#8217;s not doing the Xfce developers justice. Xfce 4.20 comes packed with so many new features, enchancements, and bug fixes across the board that I have no idea where to start. I like the large number of changes to Thunar, like the ability to use symoblic icons int he sidebar, optimising it for small window sizes, automatically opening folders when dragging and dropping, and so much more. They&#8217;ve also done another pass to update any remaining icons not working well on HiDPI displays, removing any instances where you&#8217;d encounter fizzy icons. I can&#8217;t wait to give Xfce 4.20 a go once it lands in Fedora Xfce. 
+
+<br> 
+
+<https://www.osnews.com/story/141355/xfce-4-20-with-experimental-wayland-support-released/>
+
+---
+
+## Why Sitting Bull Was Killed by Indian Agency Police at His Cabin on the Standing Rock Reservation
+
+date: 2024-12-15, from: Smithsonian Magazine
+
+Because of his alleged involvement with the Ghost Dance movement, the Lakota leader, who died on this day in 1890, was seen as a threat to the U.S. government's efforts to subdue Indigenous Americans 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/why-sitting-bull-was-killed-by-indian-agency-police-at-his-cabin-on-the-standing-rock-reservation-180985611/>
+
+---
+
+## Contrary to some, traceroute is very real – I should know, I helped make it work
+
+date: 2024-12-14, updated: 2024-12-14, from: The Register (UK I.T. News)
+
+<h4>Gather around the fire for another retelling of computer networking history</h4> <p><strong>Systems Approach</strong>  A few weeks ago I stumbled onto an article titled &#34;Traceroute isn’t real,&#34; which was reasonably entertaining while also not quite right in places.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/14/mpls_traceroute_history/>
+
+---
+
+## Suggested Actions fails to suggest its own survival as Windows 11 feature killed
+
+date: 2024-12-14, updated: 2024-12-14, from: The Register (UK I.T. News)
+
+<h4>Final curtain call for weird wingman</h4> <p>The Microsoft axman just claimed another victim. Less than three years after it appeared in the Windows Insider Dev Channel, the Suggested Actions feature is being deprecated.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/14/windows_11_suggested_actions/>
+
+---
+
+## What Happened When British Women Voted in a General Election for the First Time
+
+date: 2024-12-14, from: Smithsonian Magazine
+
+The enfranchisement of property-owning women over 30 on this day in 1918 came at a time of great strife within political parties in post-World War I Britain 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/what-happened-when-british-women-voted-in-a-general-election-for-the-first-time-180985607/>
 
 ---
 
@@ -2262,76 +2334,4 @@ date: 2024-12-08, updated: 2024-12-08, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/12/08/boffins_diamond_battery/>
-
----
-
-## Microsoft teases Copilot Vision, the AI sidekick that judges your tabs
-
-date: 2024-12-07, updated: 2024-12-07, from: The Register (UK I.T. News)
-
-<h4>Edge-exclusive tool promises &#39;second set of eyes&#39; for browsing</h4> <p>Microsoft has rolled out a Copilot Vision preview that says more about how poorly websites are designed rather than justifying the need to bring more AI into users&#39; lives.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2024/12/07/microsoft_copilot_vision/>
-
----
-
-## Euro cloud body heads off to Microsoft's HQ to check it's keeping promises
-
-date: 2024-12-07, updated: 2024-12-07, from: The Register (UK I.T. News)
-
-<h4>Wine-tasting seems to be an essential part of an EU-friendly Azure Local</h4> <p><strong>Exclusive</strong>  Microsoft and the Cloud Infrastructure Service Providers of Europe (CISPE) trade body this week kicked off their technical summit to assess the Windows maker&#39;s progress in making available a version of Azure Local for hosters.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2024/12/07/cispe_microsoft/>
-
----
-
-## When Instant Replay Debuted During the Broadcast of a College Football Game in 1963, It Revolutionized the Way We Watch Sports
-
-date: 2024-12-07, from: Smithsonian Magazine
-
-Piloting the new technology was a risky move in front of the national audience that watched the Army-Navy showdown on this day in 1963 
-
-<br> 
-
-<https://www.smithsonianmag.com/smart-news/when-instant-replay-debuted-during-the-broadcast-of-a-college-football-game-in-1963-it-revolutionized-the-way-we-watch-sports-180985516/>
-
----
-
-## Digital Isle of Man: For all your connected tax haven needs?
-
-date: 2024-12-07, updated: 2024-12-07, from: The Register (UK I.T. News)
-
-<h4>Fantasizing about leaving the mess at home behind? Pretty island packed with medieval ruins promotes itself as a venue for e-business</h4> <p>The Isle of Man Government runs an annual conference to promote the tiny nation as a destination for online businesses.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2024/12/07/digital_isle_2024/>
-
----
-
-## Students Aim High at NASA JPL ‘Candy Toss’ Competition
-
-date: 2024-12-07, from: NASA breaking news
-
-Treats went flying through the air by the dozens at the annual Invention Challenge at NASA’s Jet Propulsion Laboratory. The 25th Invention Challenge at NASA’s Jet Propulsion Laboratory in Southern California, which welcomed more than 200 students to compete using home-built devices, was pretty sweet this year. Literally. That’s because the challenge at the Friday, [&#8230;] 
-
-<br> 
-
-<https://www.nasa.gov/centers-and-facilities/jpl/students-aim-high-at-nasa-jpl-candy-toss-competition/>
-
----
-
-## Elon Musk tops US political donor list with $270M+ for Team Trump
-
-date: 2024-12-07, updated: 2024-12-07, from: The Register (UK I.T. News)
-
-<h4>Plus, xAI scores another $6B to fuel Tesla tycoon&#39;s war on OpenAI</h4> <p>Elon Musk gave more than $270 million to political groups supporting Donald Trump&#39;s 2024 presidential campaign and others on the American right running for office, according to donation figures released by the Federal Election Commission this week.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2024/12/07/elon_election_spending/>
 

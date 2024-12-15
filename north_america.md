@@ -1,11 +1,791 @@
 ---
 title: north america
-updated: 2024-12-14 07:04:58
+updated: 2024-12-15 07:05:09
 ---
 
 # north america
 
-(date: 2024-12-14 07:04:58)
+(date: 2024-12-15 07:05:09)
+
+---
+
+##  Murder By Spreadsheet 
+
+date: 2024-12-15, from: The Lever News
+
+ The democracy crisis led to these primal screams of outrage over health care.  
+
+<br> 
+
+<https://www.levernews.com/murder-by-spreadsheet/>
+
+---
+
+##  The Health Care Crisis Is The Democracy Crisis 
+
+date: 2024-12-15, from: The Lever News
+
+ What it will take for Americans to finally demand change?  
+
+<br> 
+
+<https://www.levernews.com/the-health-care-crisis-is-the-democracy-crisis/>
+
+---
+
+## Hackers demand ransom from Rhode Islanders after data breach
+
+date: 2024-12-15, from: VOA News USA
+
+Hundreds of thousands of Rhode Island residents' personal and bank information, including Social Security numbers, were likely hacked by an international cybercriminal group asking for a ransom, state officials said on Saturday. 
+
+
+In what Rhode Island officials described as extortion, the hackers threatened to release the stolen information unless they were paid an undisclosed amount of money. 
+
+
+The breached data affects people who use the state's government assistance programs and includes the Supplemental Nutrition Assistance Program, or SNAP, Temporary Assistance for Needy Families and healthcare purchased through the state's HealthSource RI, Governor Dan McKee announced on Friday. 
+
+
+Hackers gained access to RIBridges, the state's online portal for obtaining social services earlier this month, the governor's office said in a statement, but the breach was not confirmed by its vendor, Deloitte, until Friday. 
+
+
+"Deloitte confirmed that there is a high probability that a cybercriminal has obtained files with personally identifiable information from RIBridges," the governor's office said in a statement on Saturday. 
+
+
+A representative from McKee's office was not immediately available to Reuters for comment. 
+
+
+Anyone who has applied for or received benefits through those programs since 2016 could be affected. 
+
+
+The state directed Deloitte to shut down RIBridges to remediate the threat, and for the time being, anyone applying for new benefits will have to do so on paper applications until the system is back up. 
+
+
+Households believed to have been affected will receive a letter from the state notifying them of the problem and explaining steps to be taken to help protect their data and bank accounts. 
+
+<br> 
+
+<https://www.voanews.com/a/hackers-demand-ransom-from-rhode-islanders-after-data-breach/7901811.html>
+
+---
+
+## Storms encase Iowa, eastern Nebraska in ice; trigger tornado warning in California
+
+date: 2024-12-15, from: VOA News USA
+
+OMAHA, NEBRASKA — A major ice storm created treacherous driving conditions across Iowa and eastern Nebraska this weekend and prompted temporary closures of Interstate 80 after numerous cars and trucks slid off the road. 
+
+
+Many events were canceled across the region when the storm hit Friday evening, and businesses announced plans to open late Saturday as officials urged people to stay home if possible. Temperatures rose high enough in the afternoon to melt the ice in most places, however. 
+
+
+"Luckily some warmer air is moving in behind this to make it temporary," said Dave Cousins, a meteorologist with the National Weather Service's office in Davenport, Iowa. 
+
+
+At least one person died in a crash caused by the icy roads in eastern Nebraska. The Washington County Sheriff's office said a 57-year-old woman died after she lost control of her pickup on Highway 30 near Arlington and hit an oncoming truck. The other driver sustained minor injuries. 
+
+
+Trees topple
+
+
+Elsewhere a storm and wind gusts of up to 96 kilometers per hour prompted the first tornado warning in San Francisco, California, and caused some damage. Parts of neighboring San Mateo County were also included in the warning, which went out at 5:51 a.m. to about 1 million people in the area. It was lifted by 6:15 a.m. 
+
+
+The storm toppled trees onto cars and streets and damaged some roofs in San Francisco, which has not seen a tornado since 2005, according to the Weather Service. The damage was being assessed to determine if there was indeed a tornado. 
+
+
+
+
+"This was the first-ever warning for a possible tornado in San Francisco. I would guess there wasn't a clear signature on radar for a warning in 2005," said Roger Gass, a meteorologist in the Weather Service's Monterey, California. He said he was not there in 2005. 
+
+
+The fast-moving storm prompted warnings for residents to take shelter, but few people have basements in the area. 
+
+
+"The biggest thing that we tell people in the city is to put as many walls between you and the outside as possible," meteorologist Dalton Behringer said. 
+
+
+Snow falls at ski resorts
+
+
+In upstate New York, people were digging out after heavy snow fell. More than 84 centimeters was reported near Orchard Park, where residents are used to dealing with lake-effect snow this time of year. 
+
+
+And in Nevada, up to 91 centimeters of snow was forecast for Sierra Nevada mountaintops, with a winter storm warning in effect through 10 p.m. More than one-third of a meter fell at some Lake Tahoe ski resorts, according to the National Weather Service's Reno office. 
+
+
+Interstate 80 was closed for about an 130-kilometer stretch from Applegate, California, to the Nevada state line just west of Reno, where rain was falling and a winter weather advisory remained in effect through the afternoon. 
+
+
+In western Washington, tens of thousands of people lost electricity Saturday, local news outlets reported, amid a system that brought rain and gusty winds. 
+
+<br> 
+
+<https://www.voanews.com/a/storms-encase-iowa-eastern-nebraska-in-ice-trigger-tornado-warning-in-california/7901793.html>
+
+---
+
+## ABC to pay $15M to Trump library to settle lawsuit, court documents show
+
+date: 2024-12-14, from: VOA News USA
+
+ABC News has agreed to give $15 million to U.S. President-elect Donald Trump's presidential library to settle a lawsuit over comments that anchor George Stephanopoulos made on air involving the civil case brought against Trump by writer E. Jean Carroll, a court document filed on Saturday showed. 
+
+
+The lawsuit, filed on March 19 in U.S. District Court in Southern Florida, accused Stephanopoulos of making the statements with malice and a disregard for the truth. It said the statements were distributed widely to third parties and repeated. 
+
+
+"We are pleased that the parties have reached an agreement to dismiss the lawsuit on the terms in the court filing," an ABC News spokesperson said in a statement.   
+
+
+The lawsuit cites a March 10 interview with U.S. Representative Nancy Mace, a Republican who has spoken publicly about being raped as a teenager. During the interview, Stephanopoulos said Trump was found liable for rape and asked her how she could endorse the candidate. 
+
+
+According to the settlement, ABC News must publish by Sunday a statement at the bottom of a March 10 online article that accompanied the interview. 
+
+
+"ABC News and George Stephanopoulos regret statements regarding President Donald J. Trump made during an interview by George Stephanopoulos with Representative Nancy Mace on ABC's "This Week on March 10, 2024," the statement must say, according to the court document. 
+
+<br> 
+
+<https://www.voanews.com/a/abc-to-pay-15m-to-trump-library-to-settle-lawsuit-court-documents-show-/7901619.html>
+
+---
+
+## US officials: Most drones seen in nation's Northeast skies are manned
+
+date: 2024-12-14, from: VOA News USA
+
+New York — Officials from the White House, FBI and DHS on Saturday stressed that most of the recently reported drone sightings in New Jersey and nearby states involved manned aircraft, and there was no evidence of any national security threat. 
+
+
+An FBI official told reporters during an impromptu briefing that the agency was working with 50 local, state and federal partners to look into increased reports. The official said less than 100 of the over 5,000 reported sightings had turned out to merit further investigation, and all of the large fixed-wing reported sightings so far involved manned aircraft. 
+
+
+"The combination of efforts so far ... to include technical equipment, tip line information and noted consults has ... not found any evidence to support large-scale [unmanned aerial systems] activities," the official said, adding that many of the sightings occurred along regular flight paths. 
+
+
+Extensive efforts were underway to investigate the remaining cases, using interviews and analysis of radar and intelligence, the official added. 
+
+
+"We can't ignore the sightings that have been there," the official said. "We're doing our best to find the origin of those drone activities, but I think there has been a slight over-reaction." 
+
+
+
+
+A spate of reported drone sightings that began in New Jersey in mid-November spread in recent days to include Maryland, Massachusetts and other states. The sightings have garnered media attention and prompted creation of a Facebook page called "New Jersey Mystery Drones — let's solve it" with 56,000 online members. 
+
+
+U.S. President Joe Biden is receiving regular updates on the issue, a White House official said. 
+
+
+On Cape Cod in Massachusetts, residents and a police officer in Harwich reported seeing 10-15 drones flying in the Friday night sky, the Boston Herald reported. 
+
+
+Police relayed the information to the Boston FBI and Massachusetts State Police. 
+
+
+Governor Maura Healey said on Facebook that she is also “aware of a growing number of drone sightings across Massachusetts and we’re monitoring the situation closely.” 
+
+
+New York Governor Kathy Hochul on Saturday called for a boost in federal law enforcement efforts after the runways at a local airport in the Hudson Valley were shut down for one hour due to drone activity on Friday. 
+
+
+"This has gone too far," Hochul said in a statement on the social media network X, urging the Biden administration to boost law enforcement in New York and other areas, and calling on Congress to pass drone reform legislation. 
+
+
+
+
+An official with the Federal Aviation Administration said a temporary ban on drone activity had been put in place over Picatinny Arsenal, a military base in Wharton, New Jersey, that was due to expire on December 26 and could be made permanent. 
+
+
+There had been drone sightings over Picatinny and another naval weapons station in December, a military official told reporters, but there was no intelligence or observation that they were linked to a foreign actor or had malicious intent. Drone operations over military installations are generally banned, but occur from time to time, the official added. 
+
+
+A second ban was put in place over Trump National Golf Club in Bedminster, New Jersey, that was due to expire on Decemver 20, but could be extended, the FAA official said. 
+
+<br> 
+
+<https://www.voanews.com/a/mystery-drones-still-causing-concern-over-us-northeast-/7901613.html>
+
+---
+
+## Trump taps Grenell as envoy, Nunes for intelligence board
+
+date: 2024-12-14, from: VOA News USA
+
+WASHINGTON — U.S. President-elect Donald Trump on Saturday named his social media platform CEO Devin Nunes to lead an intelligence advisory panel and said his former intelligence chief Richard Grenell would run "special missions" in places such as U.S. adversaries Venezuela and North Korea.
+
+
+"Ric will work in some of the hottest spots around the World, including Venezuela and North Korea," Trump wrote on his Truth Social platform. "Ric will continue to fight for Peace through Strength, and always put AMERICA FIRST."
+
+
+Trump did not name any other specific countries such as Iran in his post naming Grenell as the "Presidential Envoy for Special Missions."
+
+
+Grenell previously served as acting director of national intelligence during Trump's 2017-21 term and was Trump's ambassador to Germany and a special presidential envoy for Serbia and Kosovo peace negotiations.
+
+
+Nunes, a former U.S. lawmaker who runs Trump's Truth Social platform, will serve as chairman of the President's Intelligence Advisory Board, which offers independent assessments of intelligence agencies' effectiveness and planning.
+
+
+A longtime Trump defender who led the U.S. House of Representatives Intelligence Committee during part of Trump's first White House term, Nunes will remain CEO while also serving on the White House panel, Trump said in a separate post on Truth Social, which is part of Trump Media & Technology Group.
+
+
+As committee chair, Nunes alleged that the FBI had conspired against Trump during its investigation of Russian interference in the 2016 presidential elections in which Trump defeated Democratic nominee Hillary Clinton.
+
+
+"Devin will draw on his experience as former Chairman of the House Intelligence Committee, and his key role in exposing the Russia, Russia, Russia Hoax, to provide me with independent assessments of the effectiveness and propriety of the U.S. Intelligence Community’s activities," Trump wrote.
+
+
+Trump's nominee to lead the FBI, Kash Patel, served as an aide to Nunes in the U.S. House of Representatives.
+
+
+A 2017 U.S. intelligence report said Russian President Vladimir Putin had directed a sophisticated influence campaign to denigrate Clinton and support Trump in the 2016 election campaign. The Kremlin denied meddling and Trump denied any collusion with Russia.
+
+
+Trump has vowed to pursue political adversaries and officials who investigated him when he begins his second term on January 20.
+
+
+Trump on Saturday also named IBM executive and former U.S. Department of Homeland Security official Troy Edgar to serve as the department's deputy secretary. He also said he would nominate businessmen Bill White and Edward Walsh to serve as U.S. ambassadors to Belgium and Ireland, respectively. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-taps-truth-social-ceo-nunes-to-lead-intelligence-board-/7901587.html>
+
+---
+
+## Pelosi gets hip replaced at US military hospital in Germany
+
+date: 2024-12-14, from: VOA News USA
+
+WASHINGTON — Former House Speaker Nancy Pelosi had hip replacement surgery Saturday at a U.S. military hospital in Germany after falling while at an event in Luxembourg with other members of Congress. 
+
+
+Pelosi, 84, “is well on the mend,” said Ian Krager, a Pelosi spokesperson.
+
+
+Krager, said in a statement that she is “currently receiving excellent treatment from doctors and medical professionals” and is unable to attend the remainder of events on her trip. 
+
+
+He did not describe the nature of her injury or give any additional details, but a person familiar with the incident said Pelosi tripped and fell while at an event with the other members of Congress. Another person familiar with the situation said she injured her hip. The people requested anonymity to discuss the fall because they were not authorized to speak about it publicly. 
+
+
+Pelosi thanked the staff at Landstuhl Regional Medical Center and the hospital in Luxembourg, where she was also treated, for “their excellent care and kindness.” 
+
+
+She was in Europe with a bipartisan congressional delegation to mark the 80th anniversary of the Battle of the Bulge in World War II. 
+
+
+Among those on the trip was Representative Michael McCaul, who posted on social media Friday that he was “praying for a speedy recovery” for Pelosi. The two lawmakers were captured holding hands in a group photo that day at the U.S. Embassy in Luxembourg. 
+
+
+Pelosi was first elected in 1987 and served as speaker twice. She stepped down from her leadership post two years ago but remained in Congress and was reelected to represent her San Francisco district in November. 
+
+<br> 
+
+<https://www.voanews.com/a/pelosi-gets-hip-replaced-at-us-military-hospital-in-germany-/7901563.html>
+
+---
+
+## Blinken: US in direct contact with Syrian rebels that ousted Assad
+
+date: 2024-12-14, from: VOA News USA
+
+AQABA, JORDAN — American officials have been in direct contact with the terrorist-designated rebel group that led the overthrow of Syrian President Bashar Assad, U.S. Secretary of State Antony Blinken said Saturday. 
+
+
+Blinken, speaking at a news conference in Jordan, was the first U.S. official to publicly confirm contacts between the Biden administration and Hayat Tahrir al-Sham, or HTS, which led a coalition of armed opposition groups that drove Assad from power and into asylum in Russia last weekend. 
+
+
+Along with counterparts from eight Arab nations and Turkey and senior officials from the European Union and United Nations, Blinken signed off on a set of principles meant to guide Syria's transition to a peaceful, nonsectarian and inclusive country. 
+
+
+Blinken would not discuss details of the contacts but said it was important for the U.S. to convey messages to the group about its conduct and how it intends to govern in a transition period. 
+
+
+"Yes, we have been in contact with HTS and with other parties," Blinken said in the port city of Aqaba. He added that "our message to the Syrian people is this: We want them to succeed and we're prepared to help them do so." 
+
+
+Blinken also stressed that "the success that we've had in ending the territorial caliphate" of the Islamic State group remains "a critical mission." And citing the U.S.-backed Syrian Democratic Forces, the Kurdish fighters who in recent years drove IS out of large areas of Syria, he said it was "very important at this moment that they continue that role because this is a moment of instability" in which IS "will seek to regroup and take advantage of." 
+
+
+HTS, which was once an affiliate of al-Qaida, has been designed as a foreign terrorist organization by the U.S. State Department since 2018. That designation carries with it severe sanctions, including a ban on the provision of any "material support" to the group or its members. The sanctions do not, however, legally bar U.S. officials from communicating with designated groups. 
+
+ 
+
+
+
+
+In an interview Saturday on Syrian television, the group's leader, Ahmad al-Sharaa, formerly known as Abu Mohammed al-Golani, did not address any direct contact with the United States, but said the new authorities in Damascus are in touch with Western embassies. 
+
+
+He also said that "we don't intend to enter any conflict because there is general exhaustion in Syria." 
+
+
+HTS has worked to establish security and start a political transition after seizing Damascus and has tried to reassure a public both stunned by Assad's fall and concerned about extremist jihadis among the rebels. Insurgent leaders say the group has broken with its extremist past. 
+
+
+A joint statement after the meeting of foreign ministers urged all parties to cease hostilities in Syria and expressed support for a locally led transitional political process. It called for preventing the reemergence of extremist groups and ensuring the security and safe destruction of chemical weapons stockpiles. 
+
+
+"We don't want Syria to fall into chaos," Jordan's foreign minister, Ayman Safadi, told journalists. 
+
+
+A separate statement by Arab foreign ministers called for U.N.-supervised elections based on a new constitution approved by Syrians. Their statement condemned Israel's incursion into the buffer zone with Syria and adjacent sites over the past week as a "heinous occupation" and demanded the withdrawal of Israeli forces. 
+
+
+U.S. officials say al-Sharaa has been making welcomed comments about protecting minority and women's rights but they remain skeptical that he will follow through on them in the long run. 
+
+
+On Friday, the rebels and Syria's unarmed opposition worked to safely turn over to U.S. officials an American man who had been imprisoned by Assad. 
+
+
+U.S. officials are continuing their search for Austin Tice, an American journalist who disappeared 12 years ago near Damascus. "We have impressed upon everyone we've been in contact with the importance of helping find Austin Tice and bringing him home," Blinken said. 
+
+
+
+
+In other developments: 
+
+
+—Turkey reopened its embassy in Damascus, becoming the first country to do so since the end of Assad's rule. The embassy suspended operations 12 years ago due to insecurity during Syria's civil war. 
+
+
+—Al-Sharaa said in the TV interview that "the pretexts that Israel uses have ended" for its airstrikes that have destroyed much of the Syrian army's assets in recent days. He said "the Israelis have crossed the rules of engagement" but that the insurgent group is not about to enter a conflict with Israel. 
+
+
+—The leader of Lebanon's Hezbollah militants said the group has lost its military supply line through Syria but that the new authority there might reinstate the route. 
+
+
+—A Syrian war monitor and a citizen journalist said gunmen attacked members of a Syrian insurgent group, Failaq al-Sham, in the country's coastal region, killing or wounding 15 of them on Saturday. That region is home to many members of Assad's minority Alawite sect. 
+
+<br> 
+
+<https://www.voanews.com/a/blinken-us-in-direct-contact-with-syrian-rebels-that-ousted-assad/7901462.html>
+
+---
+
+## Serbia's main gas supplier, controlled by Russia, faces US sanctions
+
+date: 2024-12-14, from: VOA News USA
+
+BELGRADE, SERBIA — The United States plans to introduce sanctions against Serbia’s main gas supplier, which is controlled by Russia, Serbia’s president said Saturday.
+
+
+President Aleksandar Vucic told state RTS broadcaster that Serbia has been officially informed that the decision on sanctions will come into force on January 1 but that he has so far not received any related documents from the U.S.
+
+
+There has been no comment from U.S. officials.
+
+
+Serbia almost entirely depends on Russian gas, which it receives through pipelines in neighboring states. The gas is then distributed by Petroleum Industry of Serbia, which is majority-owned by Russia’s state oil monopoly Gazprom Neft.
+
+
+Vucic said that after receiving the official documents, “we will talk to the Americans first, then we go talk to the Russians” to try to reverse the decision. “At the same time, we will try to preserve our friendly relations with the Russians and not to spoil relations with those who impose sanctions.”
+
+
+Although formally seeking European Union membership, Serbia has refused to join Western sanctions against Russia over its invasion in Ukraine, in part because of the crucial Russian gas deliveries.
+
+
+Vucic said that despite the embargo threat, “I’m not ready at this moment to discuss potential sanctions against Moscow.”
+
+
+Asked if the threat of U.S. sanctions against Serbia could change with the arrival of Donald Trump’s administration in January, Vucic said, “We must first get the [official] documents, and then talk to the current administration, because we are in a hurry.”
+
+
+The Serbian president is facing one of the biggest threats to more than a decade of his increasingly autocratic rule. Protests have been spreading by university students and others following the collapse last month of a concrete canopy at a railway station in the country’s north that killed 15 people on November 1.
+
+
+Many in Serbia believe rampant corruption and nepotism among state officials led to sloppy work on the building reconstruction, which was part of a wider railroad project with Chinese state companies. 
+
+<br> 
+
+<https://www.voanews.com/a/serbia-s-main-gas-supplier-controlled-by-russia-faces-us-sanctions/7901425.html>
+
+---
+
+## Trump promises lower prices, more oil for US economy
+
+date: 2024-12-14, from: VOA News USA
+
+The economy was one of the biggest issues for voters in this year’s U.S. presidential election. As they await Donald Trump’s return to power, many Americans say they expect improving the economy will be one of his first priorities. VOA Correspondent Scott Stearns has our story. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-promises-lower-prices-more-oil-for-us-economy/7901393.html>
+
+---
+
+##  YOU LOVE TO SEE IT: Big Grocery’s Merger Diet 
+
+date: 2024-12-14, from: The Lever News
+
+ Two huge grocery chains can’t merge, a junk-fee loophole gets plugged, crypto fraud goes to trial, and the Supreme Court has a big day off.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-big-grocerys-merger-diet/>
+
+---
+
+## As the Olympics Approach, Los Angeles Considers Crackdown on Illegal Vacation Rentals
+
+date: 2024-12-14, from: Capital and Main
+
+<p>City officials are proposing stricter enforcement, higher fines and new technology in part to prevent rent-controlled apartments from being listed on Airbnb and Booking.com.</p>
+<p>The post <a href="https://capitalandmain.com/as-the-olympics-approach-los-angeles-considers-crackdown-on-illegal-vacation-rentals">As the Olympics Approach, Los Angeles Considers Crackdown on Illegal Vacation Rentals</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/as-the-olympics-approach-los-angeles-considers-crackdown-on-illegal-vacation-rentals>
+
+---
+
+## US Marines start partial transfer from Japan's Okinawa to Guam
+
+date: 2024-12-14, from: VOA News USA
+
+TOKYO — The partial transfer of U.S. Marines from Okinawa to Guam began on Saturday, 12 years after Japan and the United States agreed on their realignment to reduce the heavy burden of American troop presence on the southern Japanese island, officials said.
+
+
+The relocation started with 100 members of III Marine Expeditionary Force stationed on Okinawa moving to the Pacific island for the initial logistical work, the U.S. Marine Corps and Japan's Defense Ministry said in a joint statement.
+
+
+Under the plan agreed between Tokyo and Washington in April 2012, about 9,000 of the 19,000 Marines currently stationed on Okinawa are to be moved out of Okinawa, including about 4,000 of them to be moved to the U.S. territory Guam in phases. Details, including the size and timing of the next transfer, were not immediately released.
+
+
+The Marine Corps is committed to the defense of Japan and meeting operational requirements to maintain a free and open Indo-Pacific, and it will maintain presence in the region "through a combination of stationing and rotating Marines in Japan, Guam and Hawaii," the joint statement said.
+
+
+Japan has paid up to $2.8 billion for the building of infrastructure at the U.S. bases on Guam, and the United States will fund the remaining costs. The two governments will continue to cooperate on the development of Camp Blaz, which will serve as the main installation for Marines stationed in Guam.
+
+
+The Marines and Japan Self Defense Forces will conduct joint training in Guam, the statement said.
+
+
+Okinawa, which was under U.S. postwar occupation until 1972, is still home to a majority of the more than 50,000 American troops based in Japan under a bilateral security pact, while 70% of U.S. military facilities are on Okinawa, which accounts for only 0.6% of Japanese land.
+
+
+Many Okinawans have long complained about the heavy U.S. military presence on the island and say Okinawa faces noise, pollution, aircraft accidents and crime related to American troops.
+
+
+The relocation is likely to be welcomed by residents, but how much improvement they will feel is uncertain because of the rapid Japanese military buildup on Okinawan islands as a deterrence to threats from China.
+
+
+The start of the Marines relocation comes at a time of growing anti-U.S. military sentiment following a series of sexual assault cases involving American servicemembers.
+
+
+On Thursday, a senior Air Force servicemember belonging to the Kadena Air Base was convicted of the kidnapping and sexual assault of a teenage girl last year, a case that triggered outrage on the island. The Naha District Court sentenced him to five years in prison. 
+
+<br> 
+
+<https://www.voanews.com/a/us-marines-start-partial-transfer-from-japan-s-okinawa-to-guam/7901262.html>
+
+---
+
+## Nutrition experts weigh in on US dietary guidelines
+
+date: 2024-12-14, from: VOA News USA
+
+Americans should eat more beans, peas and lentils and cut back on red and processed meats and starchy vegetables, all while continuing to limit added sugars, sodium and saturated fat.
+
+
+That's the advice released Tuesday by a panel of nutrition experts charged with counseling the U.S. government about the 2025 edition of the dietary guidelines that will form the cornerstone of federal food programs and policy.
+
+
+But the 20-member panel didn't weigh in on the growing role of ultraprocessed foods that have been linked to health problems, saying there's not enough evidence to tell people to avoid them. And the group steered clear of updating controversial guidance on alcohol consumption, leaving that analysis to two outside reports expected to be released soon.
+
+
+Overall, the recommendations for the 2025-30 Dietary Guidelines for Americans sound familiar, said Marion Nestle, a food policy expert.
+
+
+"This looks like every other set of dietary guidelines since 1980: eat your veggies and reduce consumption of foods high in salt, sugar and saturated fat," Nestle said in an email. "This particular statement says nothing about balancing calories, when overconsumption of calories, especially from ultra-processed foods, is the biggest challenge to the health of Americans."
+
+
+What the scientific panel said about healthy diets
+
+
+The nutrition panel concluded that a healthy diet for people aged 2 years and older is higher in vegetables, fruits, legumes, nuts, whole grains, fish and vegetable oils that are higher in unsaturated fat.
+
+
+It is lower in red and processed meats, sugar-sweetened foods and beverages, refined grains and saturated fat. It may also include fat-free or low-fat dairy and foods lower in sodium and may include plant-based foods.
+
+
+The panel, which met for nearly two years, was the first to focus on the dietary needs of Americans through what they called a "health equity lens," said Dr. Fatima Cody Stanford, a Massachusetts General Hospital obesity expert who was part of the group. That meant considering factors such as household income, race, ethnicity and culture when recommending healthy diets. It will help ensure that the guidance "reflects and includes various population groups," she said in an email.
+
+
+The panel didn't come to conclusions on ultraprocessed foods or alcohol
+
+
+Ultraprocessed foods include the snacks, sugary cereals and frozen meals that make up about 60% of the American diet.
+
+
+The panel considered more than 40 studies, including several that showed links between ultraprocessed foods and becoming overweight or developing obesity. But the nutrition experts had concerns with the quality of the research, leaving them to conclude that the evidence was too limited to make recommendations.
+
+
+That decision is likely to bump up against the views of Robert F. Kennedy Jr., the nominee to lead the U.S. Health and Human Services Department, who has questioned potential conflicts of interest among members of the dietary guidelines panel and vowed to crack down on ultraprocessed foods that contribute to chronic disease.
+
+
+The panel also didn't revise recommendations that suggest limiting alcohol intake to two drinks or less a day for men and one drink or less a day for women.
+
+
+In 2020, the last time the guidance was updated, the government rejected the advice of scientific advisers to recommend less alcohol consumption.
+
+
+Two groups — the National Academies of Science, Engineering and Medicine and a committee of the government agency that oversees substance abuse — are expected to release reports in the coming months on the effects of moderate alcohol use to inform the guidelines.
+
+
+Do Americans follow dietary guidelines?
+
+
+The advisory panel acknowledged that the diets of most Americans don't meet the current guidelines. More than half of all U.S. adults have one or more diet-related chronic health conditions and 18 million U.S. households have insecure sources of food, according to the report.
+
+
+"Nutrition-related chronic health conditions and their precursors continue to threaten health through the lifespan," the report concludes. "Which does not bode well for the future of health in the United States."
+
+
+What happens next?
+
+
+The scientific report informs the dietary guidelines, which are updated every five years. Tuesday's recommendations now go to HHS and the Agriculture Department, where officials will draft the final guidance set for release next year.
+
+
+Starting Wednesday, the public will have 60 days to comment on the guidance. HHS and USDA officials will hold a public meeting January 16 to discuss the recommendations.
+
+
+The new guidance, which will be finalized by the incoming Trump administration, is consistent with decades of federal efforts to reduce diet-related disease in the U.S., said Dr. Peter Lurie, president of the advocacy group Center for Science in the Public Interest.
+
+
+"Broadly, I think these are well-formulated recommendations that the incoming administration would do well to adopt," Lurie said. 
+
+<br> 
+
+<https://www.voanews.com/a/nutrition-experts-weigh-in-on-us-dietary-guidelines/7898473.html>
+
+---
+
+## Nancy Pelosi hospitalized after fall on official trip to Luxembourg
+
+date: 2024-12-14, from: VOA News USA
+
+WASHINGTON — Former House Speaker Nancy Pelosi has been hospitalized after she “sustained an injury” during an official engagement in Luxembourg, according to a spokesperson.
+
+
+Pelosi, 84, was in Europe with a bipartisan congressional delegation to mark the 80th anniversary of the Battle of the Bulge in World War II. Her spokesperson, Ian Krager, said in a statement that she is "currently receiving excellent treatment from doctors and medical professionals" and is unable to attend the remainder of events on her trip.
+
+
+He did not describe the nature of her injury or give any additional details, but a person familiar with the incident said that Pelosi tripped and fell while at an event with the other members of Congress. Another person familiar with the situation said she injured her hip. The people requested anonymity to discuss the fall because they were not authorized to speak about it publicly.
+
+
+Krager said that Pelosi "looks forward to returning home to the U.S. soon."
+
+
+Among the members on the trip was Representative Michael McCaul, a Republican from Texas, who posted on social media that he was "praying for a speedy recovery" for Pelosi. The two lawmakers were captured holding hands in a group photo Friday at the U.S. Embassy in Luxembourg.
+
+
+"I’m disappointed Speaker Emerita Pelosi won’t be able to join the rest of our delegation’s events this weekend as I know how much she looked forward to honoring our veterans," McCaul wrote on X. "But she is strong, and I am confident she will be back on her feet in no time."
+
+
+The former leader's fall comes two years after her husband, Paul, was attacked by a man with a hammer at their San Francisco home. The man, who was sentenced in October to 30 years in federal prison, broke into their home looking for Pelosi.
+
+
+Pelosi, who was first elected in 1987 and served as speaker twice, stepped down from her leadership post two years ago but remained in Congress and was re-elected to represent her San Francisco district in November.
+
+
+She has remained active in the two years since she left the top job, working with Democrats in private and in public and attending official events. Last summer, she was instrumental in her party's behind the scenes push to urge President Joe Biden to leave the presidential ticket.
+
+
+She attended the Kennedy Center Honors in Washington last weekend and was on the Senate floor Monday to attend the swearing in of her former Democratic House colleagues, Adam Schiff of California and Andy Kim of New Jersey.
+
+
+Earlier this week, Senate Republican Leader Mitch McConnell, 82, tripped and fell in the Senate, spraining his wrist and cutting his face. McConnell, who is stepping down from his leadership post at the end of the year, missed Senate votes on Thursday after experiencing some stiffness in his leg from the fall, his office said. 
+
+<br> 
+
+<https://www.voanews.com/a/nancy-pelosi-hospitalized-after-fall-on-official-trip-to-luxembourg/7901153.html>
+
+---
+
+## Texas attorney general sues NY doctor over abortion pill prescription
+
+date: 2024-12-14, from: VOA News USA
+
+Texas Attorney General Ken Paxton on Friday sued a New York doctor for allegedly providing a Texas woman with abortion pills by telemedicine.
+
+
+The lawsuit by the Republican attorney general, which appeared to be the first of its kind, could offer a test of conservative states' power to stop abortion pills from reaching their residents.
+
+
+New York is among the Democratic-led states that have passed so-called shield laws aiming to protect doctors who provide abortion pills to patients in other states. The law says New York will not cooperate with another state's effort to prosecute, sue or otherwise penalize a doctor for providing the pills, as long as the doctor complies with New York law.
+
+
+"As other states move to attack those who provide or obtain abortion care, New York is proud to be a safe haven for abortion access," New York Attorney General Letitia James said in a statement. "We will always protect our providers from unjust attempts to punish them for doing their job and we will never cower in the face of intimidation or threats."
+
+
+In the lawsuit, filed in the District Court of Collin County, Paxton said that New Paltz, New York, Dr. Margaret Carpenter prescribed and provided mifepristone and misoprostol, the two drugs used in medication abortion, to a Texas woman via telemedicine.
+
+
+Medication abortion accounts for more than half of U.S. abortions. It has drawn increasing attention since the U.S. Supreme Court's 2022 decision allowing states to ban abortion, which more than 20 have done.
+
+
+The woman went to the hospital after experiencing bleeding as a complication of taking the drugs, which were subsequently discovered by her partner, according to the lawsuit.
+
+
+Paxton claimed that Carpenter violated Texas's abortion law and its occupational licensing law by practicing medicine in the state despite not being licensed there. He is seeking an injunction barring her from further violations of Texas's abortion ban and at least $100,000 in civil penalties for each past violation.
+
+
+Carpenter is a member of the Abortion Coalition for Telemedicine, which supports nationwide access to abortion through telemedicine, and helped start Hey Jane, an online telehealth clinic offering abortion pills, according to the coalition's website. She could not immediately be reached for comment. 
+
+<br> 
+
+<https://www.voanews.com/a/texas-attorney-general-sues-ny-doctor-over-abortion-pill-prescription/7901138.html>
+
+---
+
+## Chinese migrants in US illegally uneasy after fourth removal flight
+
+date: 2024-12-14, from: VOA News USA
+
+WASHINGTON — After more than two years of separation, Chinese migrant Duan Chunxia, 51, recently met face to face with her husband and daughter at Stewart Detention Center, a U.S. Immigration and Customs Enforcement facility in Georgia.
+
+
+“My wife has lost a lot of weight, and her hair turned gray,” her husband, Ni Jinfang, told VOA Mandarin in an emotional video interview. “Our daughter cried so much when she saw her mother. Her tears were all over her face and neck.”
+
+
+That tearful reunion on December 1 was the latest in an emotional roller-coaster ride for the family as they’ve separately come to the United States seeking political asylum.
+
+
+Following the COVID-19 pandemic, there was a surge in Chinese nationals entering the United States illegally and seeking asylum. Over the past year, those numbers have dwindled, and U.S. authorities are stepping up efforts to send a growing number back to China.
+
+
+There is also increasing concern among undocumented migrants from China about President-elect Donald Trump’s pledge to carry out mass deportations.
+
+
+Deportation flights
+
+
+Just days after Duan met with her family, she was scheduled to be sent back to China on a U.S. government-chartered removal flight.
+
+
+That flight departed Monday, but Duan was not on it. Following a second asylum interview, authorities agreed to give her more time to appeal the deportation order.
+
+
+
+
+The charter flight marked the fourth time in six months that the United States has deported undocumented migrants back to China. Three previous flights in June, October and November carried a total of at least 350 Chinese citizens back to their homeland.
+
+
+The last previous large-scale repatriation occurred in 2018.
+
+
+Growing cooperation
+
+
+In a statement Wednesday, the U.S. Department of Homeland Security (DHS) said the flight “is yet another example of the department’s ongoing cooperation with [China] and other international partners to deter irregular migration.”
+
+
+It added that DHS and its counterparts in China “also continue joint work to counter the human smuggling networks that facilitate irregular migration.” DHS did not say how many migrants were on the flight.
+
+
+Chen Chuangchuang, an immigration lawyer in California, told VOA Mandarin that the Chinese and U.S. governments have cooperated more closely on immigration issues this year than previously.
+
+
+"In the past, China rarely cooperated with the U.S. government in accepting illegal migrants,” Chen told VOA in a December phone interview. “China has recently exchanged prisoners with the U.S. many times and also accepted undocumented people. [Chinese leader] Xi Jinping calls it ‘law enforcement cooperation’ rather than ‘border and immigration issues.’ ” 
+
+
+How they arrived
+
+
+Ni, 53, and the couple’s 18-year-old daughter entered the U.S. on  tourist visas in 2022. After Duan’s husband and daughter left China, she applied for a tourist visa the following year, but her application was rejected.
+
+
+More than one year after that, in late September, she illegally entered the U.S., crossing the southern border with Mexico.
+
+
+
+
+Duan made the hazardous journey through Ecuador and then traveled overland through Colombia, Central America and Mexico to the U.S. border.
+
+
+Both Duan and Ni are from China’s central city of Suzhou, just outside Shanghai. The city is relatively wealthy but human rights violations are not unheard of.
+
+
+In 2012, Ni lost his house and land following a government-led forced demolition. He tried to sue the local government in 2013 but was not given a chance to file his lawsuit. He continued to petition the government without result. In 2016, Ni was assaulted by local police officers and put in jail for 171 days for the crime of "disturbing public order."
+
+
+Ni continued to speak against the Chinese government after coming to the United States and participated in a protest in San Francisco last November, when Xi visited the city for the APEC summit and met with U.S. President Joe Biden.
+
+
+Panicking
+
+
+Another Chinese immigrant who entered the United States last year via the same route as Duan and is now living in New York state spoke with VOA on the condition that his name not be used because of his undocumented status.
+
+
+In a telephone interview, he said that with the recent deportations and Trump’s pledges, many in the Chinese immigrant community are a little panicked.
+
+
+"After he takes office, everyone will be worried about being deported, not just us illegal immigrants,” he said. “The ones with green cards, aren’t they afraid, too?"
+
+
+Before entering the United States, this man said he had openly criticized Xi on Chinese social media. He said that if he is deported, he will undoubtedly face a prison sentence in China.
+
+
+The man, who is in his 30s, has already begun applying for political asylum and is still hopeful.
+
+
+“Although I don't like this result [Trump's victory], this is the choice of the American people, and there is nothing I can do. We are all entering an uncertain era, and everyone's future is uncertain,” he said.
+
+
+Immigration lawyer Chen said that Chinese immigrants in the U.S. who have not yet obtained legal status do face a “real threat.”
+
+
+“The Republicans have already occupied both houses [of Congress], and conservatives also have a clear advantage in the Supreme Court," he said. "We can say with absolute certainty that the second Trump administration will have way more resources, in terms of manpower, law and finances, to support the implementation of his deportation plan. This is bound to happen.”
+
+
+However, Chen does not think that all Chinese immigrants who apply for asylum will be unsuccessful.
+
+
+“For those who have a deportation order, if you have a legal reason to apply to stay in the U.S., there is still a chance for review. It’s not easy though. The standard will be raised,” Chen said, adding that individuals need to prove that they will be persecuted if they return to their home country. 
+
+<br> 
+
+<https://www.voanews.com/a/illegal-chinese-immigrants-uneasy-as-us-conducts-fourth-china-removal-flight-/7901128.html>
+
+---
+
+## US court rejects TikTok request to temporarily halt pending US ban
+
+date: 2024-12-14, from: VOA News USA
+
+WASHINGTON  — A U.S. appeals court on Friday rejected an emergency bid by TikTok to temporarily block a law that would require its Chinese parent company ByteDance to divest the short-video app by January 19 or face a ban on the app.
+
+
+TikTok and ByteDance on Monday filed the emergency motion with the U.S. Court of Appeals for the District of Columbia, asking for more time to make its case to the U.S. Supreme Court. Friday's ruling means that TikTok now must quickly move to the Supreme Court in an attempt to halt the pending ban.
+
+
+The companies had warned that without court action, the law will "shut down TikTok — one of the nation's most popular speech platforms — for its more than 170 million domestic monthly users."
+
+
+"The petitioners have not identified any case in which a court, after rejecting a constitutional challenge to an Act of Congress, has enjoined the Act from going into effect while review is sought in the Supreme Court," the D.C. Circuit said.
+
+
+TikTok did not immediately respond to a request for comment.
+
+
+Under the law, TikTok will be banned unless ByteDance divests it by January 19. The law also gives the U.S. government sweeping powers to ban other foreign-owned apps that could raise concerns about collection of Americans' data.
+
+
+The U.S. Justice Department argues "continued Chinese control of the TikTok application poses a continuing threat to national security."
+
+
+TikTok says the Justice Department has misstated the social media app's ties to China, arguing its content recommendation engine and user data are stored in the U.S. on cloud servers operated by Oracle while content moderation decisions that affect U.S. users are made in the U.S. 
+
+<br> 
+
+<https://www.voanews.com/a/us-court-rejects-tiktok-request-to-temporarily-halt-pending-us-ban-/7901118.html>
 
 ---
 
@@ -5937,747 +6717,4 @@ The auction also included other memorabilia from The Wizard of Oz, such as a hat
 <br> 
 
 <https://www.voanews.com/a/garland-s-ruby-slippers-from-the-wizard-of-oz-auctioned-for-28m/7891298.html>
-
----
-
-## US announces nearly $1 billion in military aid for Ukraine
-
-date: 2024-12-07, from: VOA News USA
-
-WASHINGTON — The United States on Saturday announced a new $988 million military assistance package for Ukraine as Washington races to provide aid to Kyiv before President-elect Donald Trump takes office. 
-
-
-It nearly halves the available $2.21 billion remaining in Ukraine Security Assistance Initiative (USAI) as the Biden administration works to commit to buying weapons from industry, rather than pull from U.S. weapons stocks. 
-
-
-Trump's victory in the November election has cast doubt on the future of American aid for Ukraine, providing a limited window for billions of dollars in already authorized assistance to be provided before he is sworn in next month.  
-
-
-The package features drones, ammunition for precision HIMARS rocket launchers, and equipment and spare parts for artillery systems, tanks and armored vehicles, the Pentagon said in a statement. 
-
-
-The Biden administration has often used Presidential Drawdown Authority, which authorizes President Joe Biden to transfer excess articles and services from U.S. stocks without congressional approval during an emergency. 
-
-
-The USAI funds are separate and will go to purchase new weapons from the defense industry or partners rather than drawn from American stocks, meaning it will not immediately arrive on the battlefield. 
-
-
-It follows a $725 million package announced Monday that included a second tranche of landmines as well as anti-air and anti-armor weapons. 
-
-
-The outgoing U.S. administration is working to get as much aid as possible to Ukraine before Trump — who has repeatedly criticized U.S. assistance for Kyiv and claimed he could secure a ceasefire within hours — takes over. 
-
-
-Trump's comments have triggered fears in Kyiv and Europe about the future of U.S. aid, and Ukraine's ability to withstand Russian attacks in the absence of further American support. 
-
-
-The United States has spearheaded the push for international support for Ukraine, quickly forging a coalition to back Kyiv after Russia launched its full-scale invasion in 2022 and coordinating aid from dozens of countries. 
-
-
-Ukraine's international supporters have since then provided tens of billions of dollars in weapons, ammunition, training and other security aid that has been key to helping Kyiv resist Russian forces. 
-
-
-The Biden administration still has about $6 billion of congressionally granted presidential drawdown authority, including funds authorized in 2024 and funds discovered by the Pentagon after overestimating the value of arms shipped to Ukraine. 
-
-
-Since the Russian invasion in February 2022 the U.S. has committed more than $62 billion worth of security assistance to Ukraine. 
-
-
-Some material in this report is from Reuters. 
-
-<br> 
-
-<https://www.voanews.com/a/us-announces-nearly-1-billion-in-military-aid-for-ukraine-/7891108.html>
-
----
-
-## 'Net is tightening' on man suspected of shooting executive, says official
-
-date: 2024-12-07, from: VOA News USA
-
-NEW YORK — New York's mayor said Saturday "the net is tightening" on the man suspected of gunning down a top health insurance executive before fleeing the city. 
-
-
-Mayor Eric Adams said detectives knew the name of the fresh-faced suspect, an image of whom was released by investigators Thursday and who has now been on the run for almost four days. 
-
-
-Adams praised "the manner in which (investigators) were able to follow his footsteps to recover evidence — some of it is known, some of it is unknown — but the net is tightening and we're going to bring this person to justice," he said, the New York Post reported. 
-
-
-Adams was quoted by the Post as saying the police were withholding the suspect's name for now. 
-
-
-"We don't want to release that," the mayor said. "If you do, you are basically giving a tip to the person we are seeking, and we do not want to give him an upper hand at all. Let him continue to believe he can hide behind the mask." 
-
-
-
-
-"We revealed his face," the mayor continued, referring to numerous security camera photos and video released after Brian Thompson, CEO of UnitedHealthcare was gunned down. And eventually, "we're going to reveal who he is and we're going to bring him to justice," Adams said. 
-
-
-The masked assailant was caught on camera entering a bus station in a northern neighborhood of Manhattan in the wake of Wednesday's slaying, but he could not be identified exiting the facility on foot, a police spokesperson confirmed to Agence France-Presse. 
-
-
-"They believe he's not in New York City," the spokesperson added. 
-
-
-The image of the smiling suspect was obtained from a youth hostel where the gunman apparently stayed before the hit, detectives said, with media reporting he lowered his mask to flirt with a receptionist. 
-
-
-
-
-The FBI, which said it was assisting the New York police, offered a reward of up to $50,000 for information leading to his capture. 
-
-
-'Delay' and 'deny' 
-
-
-The gunman on Wednesday sprayed Thompson of United Healthcare — one of the country's largest medical insurers — with bullets in front of bystanders, in an audacious attack captured by a surveillance camera and now seen by millions. 
-
-
-Thompson was attending an investor conference in the Midtown business district. 
-
-
-Police have yet to suggest a motive and would not confirm media reports that the words "delay" and "deny" — often used by insurance companies to reject claims — were written on shell casings found at the scene. 
-
-
-Video footage shows Thompson on the sidewalk outside the New York Hilton Midtown when a man in a hooded top, his lower face covered, approaches from behind, then fires several shots at his 50-year-old victim, who crumples to the ground. 
-
-
-Camera footage showed the suspect fleeing on foot, before getting on a bicycle, with police revealing he headed to Central Park. 
-
-
-
-
-Officers have confirmed that a cell phone as well as DNA from a coffee cup were recovered from near the murder scene. 
-
-
-In the absence of an arrest, speculation has been rife that the gunman may have sought revenge for adverse medical coverage decisions made by the insurer. 
-
-
-UnitedHealthcare is a major player in the lucrative American health care market; the parent group had revenues of $100.8 billion in the third quarter of the year. 
-
-<br> 
-
-<https://www.voanews.com/a/net-is-tightening-on-man-suspected-of-shooting-executive-says-official/7891063.html>
-
----
-
-## Remembering the Sage of Los Angeles City Hall
-
-date: 2024-12-07, from: Capital and Main
-
-<p>Journalist Marc Haefele was one of the keenest analysts of Los Angeles politics. Capital &#038; Main columnist Erin Aubry Kaplan knew him as a colleague who could write authoritatively on practically everything.</p>
-<p>The post <a href="https://capitalandmain.com/remembering-the-sage-of-los-angeles-city-hall">Remembering the Sage of Los Angeles City Hall</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
- 
-
-<br> 
-
-<https://capitalandmain.com/remembering-the-sage-of-los-angeles-city-hall>
-
----
-
-## Macron welcomes Trump to Paris with presidential pomp, joined by Zelenskyy
-
-date: 2024-12-07, from: VOA News USA
-
-PARIS — French President Emmanuel Macron welcomed Donald Trump to Paris on Saturday with a full dose of presidential pomp as the two held a hastily arranged meeting with Ukraine’s Volodymyr Zelenskyy before celebrating the grand reopening of the Notre Dame Cathedral.
-
-
-On a day that mixed pageantry with attention to pressing global problems, the once and future American president was warmly embraced by Macron upon arriving at the Elysee Palace.
-
-
-"It’s a great honor for French people to welcome you five years later," Macron told Trump. "Welcome back again."
-
-
-Trump said it was a "very great honor" to be there, while hinting at challenges ahead.
-
-
-"It certainly seems like the world is going a little crazy right now. And we’ll be talking about that," Trump said.
-
-
-An actual red carpet was rolled out for Trump as Macron bestowed the kind of full diplomatic welcome that France offers sitting American presidents, complete with trumpets blaring and members of the Republican Guard in full uniform. It was a clear sign that even though Trump doesn't take office until Jan. 20, 2025, Macron and other European leaders are already working to win his favor and treating him as America's representative on the world stage.
-
-
-President Joe Biden declined an invitation to attend the Notre Dame ceremony, five years after a devastating fire, with the White House citing a scheduling conflict. First lady Jill Biden was the official U.S. representative in his place.
-
-
-Macron and leaders across Europe are trying to persuade the president-elect to maintain support for Ukraine in its defense against Russia’s invasion. Macron's office said the war, along with conflicts in the Mideast, would be discussed.
-
-
-As Trump arrived at the official residence of the French president, Macron went out of his way to project an image of close ties, offering handshakes and plenty of back-patting for the cameras.
-
-
-In a video posted later on X, Macron could be heard asking Trump: "You remember?" as both men entered a reception room.
-
-
-"I remember," Trump answered.
-
-
-Trump spent about 90 minutes inside, meeting first with Macron before they were joined by Zelenskyy for about 35 minutes.
-
-
-Macron had long planned to meet separately with Zelenskyy. The French president's office said the three-way talks were proposed by Macron and arranged shortly before Trump’s arrival. Trump has pledged to end the war in Ukraine swiftly but has not specified how, raising concerns in Kyiv about what terms may be laid out for any future negotiations.
-
-
-A person familiar with Trump's plans had said before the meeting was announced that while Trump and Zelenskyy were attending the cathedral ceremony and surrounding events and probably would interact, Trump's transition team had not worked with the Ukrainians to schedule formal talks.
-
-
-After the place meeting, a Trump senior transition official did not push back on the idea that it had come together at the last minute, but said it had been "discussed fully and agreed to" and that Trump had been "fully briefed" ahead of time.
-
-
-The three leaders spoke in English, and translator was in the room, according to a French official.
-
-
-Accompanying Trump to Paris was a small contingent of advisers that included incoming chief of staff Susie Wiles, along with Steve Witkoff, a longtime friend and real estate investor whom Trump has tapped as his special envoy to the Middle East, and Massad Boulos, who is the father-in-law of Trump’s daughter Tiffany and will serve as senior adviser on Arab and Middle Eastern affairs. 
-
-
-
-
-The group did not appear to include anyone with expertise on Ukraine.
-
-
-"United States, Ukraine and France. Together on this historic day. United for Notre-Dame. Let’s continue to work together for peace and security," Macron wrote on X afterward.
-
-
-Trump’s victory last month threw into doubt the Biden administration's flow of money and arms to Ukraine — aid bolstered even more on Saturday by U.S. Defense Secretary Lloyd Austin's announcement of a $988 million package that brings American military support to more than $62 billion since Russia’s invasion in February 2022.
-
-
-Trump has characterized Zelenskyy as "the greatest salesman on Earth" for winning billions in U.S. aid. Trump also has said he work out a peace deal between Russia and Ukraine within a day of taking office and has promoted his good relationship with Russian President Vladimir Putin.
-
-
-In an effort to build trust with the incoming U.S. administration, Zelenskyy’s top aide Andriy Yermak met key members of Trump’s team on a two-day trip to the U.S. earlier this week.
-
-
-Macron has argued that Ukraine's defeat or a cease-fire with Russia on unfavorable terms to Ukraine would be viewed as a loss for the U.S. and even Trump himself, according to two European officials familiar with the matter.
-
-
-After arriving at Notre Dame for the ceremony, Trump was greeted by Macron and his wife, Brigitte. He was given prime seating at the service right between them — a better location than Jill Biden, who sat on Brigitte Macron's other side — and many current heads of government and state. 
-
-
-
-
-Inside, Trump also greeted Zelenskyy as well as Britain’s Prince William, who Trump met with later at the British ambassador’s residence in Paris. Trump was greeted in the foyer, shook the royal’s hand and said "good man, this one."
-
-
-Trump told reporters the Prince of Wales was doing "a fantastic job" before the two went to sit down and talk in a private room reserved for high-profile figures in the residence that once was the Paris town home of Princess Pauline Borghese, the youngest sister French Emperor Napoleon Bonaparte.
-
-
-Prince William was also scheduled to meet separately with Jill Biden, according to the British royal palace.
-
-
-Elon Musk, the billionaire CEO of Tesla and X who has spent considerable time with Trump since the election and spent millions to elect him, was also in attendance at Notre Dame.
-
-
-Macron, who has had an up-and-down relationship with Trump, has made a point of cultivating their bond since the Republican defeated Democrat Kamala Harris. But Macron's office nonetheless played down the significance of the invitation, saying other politicians not now in office had been invited as well.
-
-
-Trump was invited as president-elect of a "friendly nation," Macron's office said, adding, "This is in no way exceptional, we’ve done it before." 
-
-
-
-
-Trump is known to revel in pomp and circumstance. One of his first trips as president his first term was to Paris, where Macron made him the the guest of honor at Bastille Day events. Trump later said he wanted to replicate the grand military parade back in the United States.
-
-
-Relations between France and the U.S. during Trump’s first term began warmly enough but grew increasingly strained over time.
-
-
-Macron was the guest of honor at Trump’s first state dinner, and Trump traveled to France several times. But the relationship suffered after Macron criticized Trump for questioning the need for NATO and raising doubts about America’s commitment to the mutual defense pact.
-
-
-During the 2024 presidential campaign, Trump often mocked Macron, imitating his accent and threatening to impose steep tariffs on wine and champagne bottles shipped to the U.S. if France tried to tax American companies.
-
-
-But Macron was one of the first global leaders to congratulate Trump last month after the election.
-
-
-When he accepted the invitation to travel to Paris, Trump said Macron had done "a wonderful job ensuring that Notre Dame has been restored to its full level of glory, and even more so. It will be a very special day for all!" Trump was president in 2019, when a fire nearly destroyed the 861-year-old landmark. 
-
-<br> 
-
-<https://www.voanews.com/a/macron-welcomes-trump-to-paris-with-presidential-pomp-joined-by-zelenskyy/7891010.html>
-
----
-
-## Trump says that US should 'not get involved' in conflict in Syria
-
-date: 2024-12-07, from: VOA News USA
-
-WASHINGTON — President-elect Donald Trump said on Saturday the U.S. should not be involved in the conflict in Syria, where rebel forces are threatening the government of President Bashar Assad.
-
-
-"Syria is a mess, but is not our friend, & THE UNITED STATES SHOULD HAVE NOTHING TO DO WITH IT. THIS IS NOT OUR FIGHT. LET IT PLAY OUT. DO NOT GET INVOLVED!," Trump said in a post on his social media platform Truth Social.
-
-
-Trump said because Russia, an Assad ally, is tied up fighting a war with Ukraine, it "seems incapable of stopping this literal march through Syria, a country they have protected for years."
-
-
-If Russia were forced out of Syria, it "may actually be the best thing that can happen to them" because "there was never much of a benefit in Syria for Russia," Trump said.
-
-
-Trump’s comments appeared to reflect his opposition to the presence of some 900 U.S. troops in Syria, mostly of them in the northeast, where they have backed a Syrian Kurd-led alliance in preventing a resurgence of Islamic State militants.
-
-
-Trump announced in 2018 during his first term that he wanted to withdraw the U.S. troops because he said Islamic State was near defeat.
-
-
-But he held off as advisers warned that a pullout would leave a void that would be filled by Iran and Russia. 
-
-<br> 
-
-<https://www.voanews.com/a/trump-says-that-us-should-not-get-involved-in-conflict-in-syria/7890980.html>
-
----
-
-##  Big Oil’s SCOTUS Connection Sees Himself Out 
-
-date: 2024-12-07, from: The Lever News
-
- An oil-backed justice bows out, location tracking gets turned off, Elon Musk loses a few bucks, Wisconsin public workers win big, and a controversial anesthesia policy is out cold.  
-
-<br> 
-
-<https://www.levernews.com/big-oils-scotus-connection-sees-himself-out/>
-
----
-
-## US to observe 83rd anniversary of attack on Pearl Harbor
-
-date: 2024-12-07, from: VOA News USA
-
-Pearl Harbor "changed the future of the world," U.S. President Joe Biden said at a White House event for veterans and their families on Friday, the eve of the anniversary of Japan's surprise attack on Pearl Harbor.
-
-
-The president recalled that he "heard so much" about Pearl Harbor when he was growing up and talked about his uncles who enlisted in the military after the attack.
-
-
-"During World War II, we stood at an inflection point," the president said.  "We still stand at an inflection point. The decisions we make now in the next four to five years will determine the course of our future for decades to come. ... We owe it to the next generation to set that course on a more free, more secure and more just path."
-
-
-Saturday, December 7, marks the 83rd anniversary of Japan’s surprise attack on Pearl Harbor, a U.S. naval base on the island of Oahu, Hawaii, near Honolulu.
-
-
-Hundreds of Japanese fighter planes unleashed bombs, bullets and aerial torpedoes on America’s Pacific Fleet in the Sunday morning attack.
-
-
-More than 2,400 U.S. sailors, soldiers and civilians were killed that day. About half of them died on the USS Arizona battleship.
-
-
-The Japanese succeeded in sinking four of the eight U.S. battleships at Pearl Harbor and damaging the remaining four.
-
-
-According to the Naval History and History Command website, "That more Japanese aircraft were not shot down had nothing to do with the skill, training or bravery of our Sailors and other servicemembers.
-
-
-"Rather, U.S. antiaircraft weapons were inadequate in number and capability, for not only had the Japanese achieved tactical surprise, they achieved technological surprise with aircraft and weapons far better than anticipated — a lesson in the danger of underestimating the enemy that resonates to this day."
-
-
-
-
-The day after the attack, U.S. President Franklin Roosevelt appeared before a joint session of Congress, seeking a declaration of war. After he delivered his famous "Day of Infamy" speech, the Senate unanimously supported the declaration. In the House, there was one dissenter, Montana’s Representative Jeanette Rankin, a pacifist.
-
-
-Roosevelt signed the declaration Monday afternoon. The United States had now been officially drawn into World War II.
-
-
-Before the surprise attack on Pearl Harbor, the United States had imposed economic sanctions on Japan as a way of stopping Japan’s expansion goals in Asia. The sanctions affected Japan’s access to aircraft exports.
-
-
-The attack on the U.S. Pacific Fleet at Pearl Harbor was part of Japan’s plan to prevent any challenges to those goals in Asia.
-
-
-There is now a USS Arizona Memorial that expands over the hull of the sunken vessel without touching it.
-
-
-Earlier this week, a 104-year-old survivor of Pearl Harbor returned to Hawaii to participate in this year’s commemorations. Ira “Ike” Schab Jr. of Portland, Oregon, who was a Navy musician, was greeted at the airport in Honolulu with a water cannon salute and music from the U.S. Pacific Fleet Band.
-
-
-When asked what he remembers about that day, Schab told the Hawaii News Now website, “Being scared, more than anything else.” Schab said he made the trip because he is one of the Pacific Fleet’s “very few” survivors remaining from that day.
-
-
-He said, “They deserve to be recognized and honored.” 
-
-<br> 
-
-<https://www.voanews.com/a/us-to-observe-83rd-anniversary-of-attack-on-pearl-harbor/7890052.html>
-
----
-
-## Maternal mortality review panels are in the spotlight. Here's what they do
-
-date: 2024-12-07, from: VOA News USA
-
-Efforts to reduce the nation's persistently high maternal mortality rates involve state panels of experts that investigate and learn from each mother's death.
-
-
-The panels — called maternal mortality review committees — usually do their work quietly and out of the public eye. But that's not been the case recently in three states with strict abortion laws.
-
-
-Georgia dismissed all members of its committee in November after information about deaths being reviewed leaked to the news organization ProPublica. Days later, The Washington Post reported that Texas' committee won't review cases from 2022 and 2023, the first two years after the state banned nearly all abortions. In Idaho, the state let its panel disband in 2023 only to reinstate it earlier this year.
-
-
-"They've become more of a lightning rod than they were before," said epidemiologist Michael Kramer, director of the Center for Rural Health and Health Disparities at Mercer University in Georgia.
-
-
-Here's what maternal mortality review committees across the nation do and what might happen next:
-
-
-What are they?
-
-
-"Maternal mortality review committees are important because they are the most comprehensive source of information about maternal mortality that we have," said David Goodman, who leads the maternal mortality prevention team at the U.S. Centers for Disease Control and Prevention.
-
-
-The panels review deaths that occur during pregnancy or within a year after it ends, whether directly related to the pregnancy or not. Causes of death can range from hemorrhage during childbirth to drug overdoses to traffic accidents.
-
-
-The goal, Kramer said, is to examine maternal deaths and help "decide what we can do about them."
-
-
-All states, a few cities and Puerto Rico have these committees. Their membership varies and may include OB-GYNs, maternal-fetal medicine doctors, nurses, midwives, mental and public health experts and members of patient advocacy groups. Most have representatives from several areas of expertise, which the CDC recommends.
-
-
-How members are selected also varies; people may apply, submit letters of interest or be invited to serve.
-
-
-The selection shouldn't be politically motivated, Kramer said, because "if there's a systematic exclusion of certain data or certain perspectives" it's difficult to truly understand what's happening.
-
-
-How do they look at deaths?
-
-
-First, the panels work with state vital statistics offices and epidemiologists to identify deaths associated with pregnancy by examining death certificates and looking for a pregnancy checkbox or a related cause of death. They may also search for links to birth and fetal death records, or delve into hospital discharge data, media reports and obituaries.
-
-
-Once they identify cases, they collect as much information as possible, such as prenatal care records, hospital and social service records, autopsy reports and interviews with family members. Professional "abstractors" distill all this into case narratives, which committee members pore over. Most use a standardized review process developed by the CDC — and all panels can get help and guidance from the agency.
-
-
-They consider questions such as: Was the death pregnancy-related? What was the underlying cause? Was it preventable? What factors contributed?
-
-
-States generally have privacy rules that protect committee members and people who provide information on the deaths.
-
-
-The groups then issue public reports that don't name moms or hospitals but include overall findings, trends and recommendations. Some come out a couple of years or more after the deaths.
-
-
-Across the nation in 2023, Goodman said, 151 recommendations from those reports were implemented by communities, hospitals, medical professionals and policymakers.
-
-
-What about Georgia, Texas and Idaho?
-
-
-Georgia will rebuild its committee through a new application process, the state public health commissioner said.
-
-
-Texas' committee has been reviewing 2021 deaths and will start on 2024 cases at its next meeting, Texas Department of State Health Services spokesperson Lara Anton said in an email to The Associated Press.
-
-
-"Reviewing cases is a lengthy process and legislators have asked for more recent data. Starting the next review cycle with 2024 cases will allow us to provide that in the next report," Anton said, adding that maternal and child health epidemiologists will continue to analyze and publish data for 2022 and 2023.
-
-
-In Idaho, the reconstituted review committee now falls under the state board of medicine, which licenses doctors, instead of the state's health and welfare department. It will operate like it always has, said Bob McLaughlin, spokesperson for the medical board. Members met for the first time in November and plan to issue a report by Jan. 31. Because the legislature wanted the most up-to-date information, McLaughlin said the first report will cover only 2023 cases, and the group will review 2022 deaths next.
-
-
-Goodman said he's encouraged that every state has a review committee now — only 20 had them in 2015. 
-
-<br> 
-
-<https://www.voanews.com/a/maternal-mortality-review-panels-are-in-the-spotlight-here-s-what-they-do/7889322.html>
-
----
-
-## Irish YouTuber moves millions of followers to donate millions for charity
-
-date: 2024-12-07, from: VOA News USA
-
-NEW YORK — Sean McLoughlin wears a lot of hats: YouTuber. Voice actor. Coffee entrepreneur. But McLoughlin, better known by his pseudonym Jacksepticeye, likes to say he would be a therapist if he wasn't posting video game playthroughs for his nearly 31 million subscribers. 
-
-
-The 34-year-old Irish creator finds that gaming enthusiasts aren't just drawn by his expressive reactions to the latest action role-playing games; fans also resonate with his candid discussions of mental health. The supportive responses from his niche but passionate following make McLoughlin feel "less alone," he said, forging the same camaraderie that brought him to online gaming communities as a lonely 20-something living at his family's remote home. 
-
-
-That shared connection is also central to his annual fundraiser, "Thankmas." The charity livestream is one of many online specials emerging as a modern spin on the classic telethon. Total donations have increased more than 50% over the last year on Tiltify, a digital platform that integrates giving tools into streams. The spaces are credited for allowing more authentic interactions between nonprofits and young donors — and encouraging benevolence in a corner of the web marked by incendiary rhetoric. 
-
-
-"If you want to do good things, the people are there, and they'll listen," McLoughlin said. "They're already following you for what you do for a reason. So they'll follow you to help out people as well." 
-
-
-Follow they have. His streams have raked in more than $26 million, according to partner Tiltify. This year's goal is to collect $6 million for two nonprofits supporting mental health: Crisis Text Line and Samaritans. 
-
-
-A seven-figure target would have seemed a longshot when McLoughlin entered the space. The initial idea was to hold monthly fundraisers. He hosted seven charitable streams in 2018, Tiltify records show, for causes including pediatric cancer and clean water. The year culminated in the inaugural "Thankmas," which pulled over a quarter of a million dollars. 
-
-
-But McLoughlin said the pace became "a bit much." That same year he announced a brief break from YouTube, in part due to unhappiness from the demands he felt for high content volumes. He resolved to focus on one big holiday event at the end of the year, when he said people are "a bit more giving and heartfelt." 
-
-
-It wasn't until 2020 that Tiltify CEO Michael Wasserman said the two began working closely to maximize the streams' reach. McLoughlin reached out, according to Wasserman, and said he wanted something "more impactful." With communities worldwide reeling from the pandemic, they put together the #HopeFromHome campaign: a peer-to-peer event where multitudes could simultaneously rally around the same cause. McLoughlin served as a tent pole supporting the other streamers. 
-
-
-Their first effort together yielded $1.9 million for United Way Worldwide and more than one-third came from McLoughlin's stream alone. The following "Thankmas" generated more than $4.7 million. Wasserman said he'd never seen his technology used so collaboratively. 
-
-
-"That's what really made this a regular, multimillion-dollar event," Wasserman said. "Not just making it, 'Hey I'm going to fundraise and just watch me,' but, 'We as a community can do this and get involved together.'" 
-
-
-Specials feature calls, celebrities
-
-
-This year's "Thankmas" will be performed before a live audience in Los Angeles but broadcast online. Recent specials have seen McLoughlin make surprise calls into streams that are also pooling contributions. Comedic segments sometimes feature traditional celebrities; actor Jack Black played a life-sized game of Jenga in 2022. 
-
-
-The idea resembles the star-studded telethon pioneered last century by comedian Jerry Lewis. But new technologies and web cultures enable more engaging experiences. Wasserman said charitable livestreams like McLoughlin's are not a "passive watching experience." 
-
-
-It's "a much more personable approach to giving," according to Yvette Wohn, a professor at the New Jersey Institute of Technology who studies human-computer interaction. 
-
-
-A streamer's audience "cares about them," Wohn said, and donors flock to their content because "they really like that person." Social media and chat boxes allow fans to feel seen by hosts in ways television viewers could never expect. Followers might get shoutouts by name upon contributing. McLoughlin has previously shared fan art submitted through specific hashtags. 
-
-
-Fandoms also develop subcultures. McLoughlin's gaming catchphrases are especially popular among his circles. Jacksepticeye content often starts with him shouting, "Top of the morning to ya, laddies!" and fans have uploaded video compilations of the expression. Members then form friendships with others in the fandom. That creates a "positive social pressure" to donate, according to Wohn, helping new generations "dip their toes into building an identity as somebody that gives." 
-
-
-"Giving habits are things that build over time," Wohn said. "If younger people start to engage in this culture of giving, I feel like the general culture of giving might expand in ways that cannot be done from a top-down perspective." 
-
-
-Online communities offer kinship
-
-
-Still, McLoughlin describes online communities as a "double-edged sword." The "monetization of hate," he said, is "bigger than it's ever been." And the desire for acceptance can introduce lonely people to dark pockets of the internet that nevertheless provide kinship. 
-
-
-"Thankmas" aims to prove it's easy to do good online. Yes, he acknowledged, charity work is "quite intimidating." Where is the line between promoting the fundraiser and promoting himself? McLoughlin doesn't know. He just hopes people trust it's coming from the right place. 
-
-
-At least one longtime follower was drawn by McLoughlin's ties to this year's cause. Jack Worthey, a 20-year-old from Texas, said McLoughlin brought much comfort growing up with "similar family troubles." It had been several years since he watched Jacksepticeye content, he said, but he was pulled back by an October video where McLoughlin detailed his journey finding mental health treatment. 
-
-
-Worthey said he wouldn't have looked into "Thankmas" had McLoughlin had not made the promotion so personal. He now plans to raise awareness through digital art. For Worthey, returning to the channel as an adult and seeing the "positive product" has been "really amazing." 
-
-
-"It makes you see what I was enjoying when I was younger in a different light," Worthey said. "It brings a different type of joy." 
-
-<br> 
-
-<https://www.voanews.com/a/irish-youtuber-moves-millions-of-followers-to-donate-millions-for-charity-/7887932.html>
-
----
-
-## Appeals court upholds law that could ban TikTok in US
-
-date: 2024-12-07, from: VOA News USA
-
-A federal appeals court in Washington on Friday upheld a law requiring the wildly popular social media app TikTok to be sold to a non-Chinese owner or face closure in the United States by next month. The court cited "persuasive" and "compelling" arguments presented by the federal government that TikTok poses a risk to national security.
-
-
-The ruling could leave the 170 million Americans who regularly use TikTok without access to a social media platform that has enjoyed explosive global growth in recent years. It could also mean that the millions of Americans who create content for TikTok — some of whom rely on monetizing that content for their livelihood — could be cut off from their audiences.
-
-
-The government has argued that TikTok presents a unique danger to national security because it collects vast amounts of information about its users, and because the Chinese government ultimately exercises control over its parent company, ByteDance, and over the algorithm that determines what content TikTok users see.
-
-
-Because ByteDance is in the People's Republic of China (PRC) it is subject to that country's laws, including measures requiring private companies to cooperate with government intelligence agencies.
-
-
-The three-judge panel of the U.S. Court of Appeals for the District of Columbia Circuit found that the government has a compelling interest in taking steps "to counter the PRC's efforts to collect great quantities of data about tens of millions of Americans" and "to limit the PRC's ability to manipulate content covertly on the TikTok platform."
-
-
-
-
-TikTok signals an appeal
-
-
-TikTok immediately signaled that it would appeal the circuit court's ruling to the Supreme Court.
-
-
-In a statement posted to its website, the company said, "The Supreme Court has an established historical record of protecting Americans' right to free speech, and we expect they will do just that on this important constitutional issue."
-
-
-The company said that the law underlying the case "was conceived and pushed through based on inaccurate, flawed and hypothetical information, resulting in outright censorship of the American people," and warned that it "will silence the voices of over 170 million Americans here in the U.S. and around the world."
-
-
-The Supreme Court is not obligated to hear the company's appeal, and it was not immediately clear that it would do so. If the high court accepts the case, it is possible that it would block the government from enforcing the law until the case is decided.
-
-
-President-elect Donald Trump, who once supported a TikTok ban before changing his mind during the recent presidential election, has suggested that he will act to save the app when he takes office. However, it is unclear what options he might have for doing that.
-
-
-Lack of trust
-
-
-In April, President Joe Biden signed the Protecting Americans from Foreign Adversary Controlled Applications Act into law. The measure gave TikTok 270 days to find a way to separate itself from ByteDance before a ban on the application would kick in on January 19, 2025.
-
-
-The federal government made it clear that the only kind of divestiture that it would accept was a complete separation of TikTok from its Chinese parent. The company offered alternatives, and established TikTok U.S. Data Security Inc. (TTUSDS) as a subsidiary in Delaware, to wall off U.S. user data from ByteDance.
-
-
-
-
-However, the government cited instances in which U.S. user data that the company claimed to have shielded from the PRC was, in fact, accessible to ByteDance employees in mainland China. It told the court that it lacked "the requisite trust" that "ByteDance and TTUSDS would comply in good faith" with any arrangement other than complete separation of TikTok and ByteDance.
-
-
-In Friday's ruling, the judges wrote, "The court can neither fault nor second-guess the government on these crucial points."
-
-
-First Amendment concerns
-
-
-TikTok and its supporters have claimed that severing TikTok from ByteDance is both practically impossible for technological reasons and legally impossible because the Chinese government will block the sale of the company. Therefore, they claim, the law constitutes a de facto ban and a violation of the guarantee of free speech enshrined in the First Amendment to the Constitution.
-
-
-In a sign of how seriously the court took the First Amendment arguments, the panel of judges agreed that the law should be subject to "heightened scrutiny," which the Supreme Court has applied to measures restricting fundamental rights.
-
-
-In the end, the panel determined that the law satisfies even the most stringent form of "strict scrutiny," which requires that the government "prove that the restriction furthers a compelling interest and is narrowly tailored to achieve that interest."
-
-
-Free speech advocates respond
-
-
-The decision came under immediate criticism from free speech advocates.
-
-
-"Although we're still analyzing the decision, we find it deeply disappointing," David Greene, civil liberties director at the Electronic Frontier Foundation, said in a statement emailed to VOA. "The court appropriately applied strict scrutiny as we have urged it to. But the strict-scrutiny analysis is lacking, relying heavily on speculation about possible future harms.
-
-
-"Restricting the free flow of information, even from foreign adversaries, is fundamentally undemocratic," Greene said. "Until now, the U.S. has championed the free flow of information and called out other nations when they have shut down internet access or banned online communications tools like social media apps."
-
-
-George Wang, a staff attorney at the Knight First Amendment Institute at Columbia University, told VOA that the court accorded "a shocking amount of deference" to the government's claims about the danger TikTok poses to national security.
-
-
-"We should be really wary whenever we allow the government to use vague national security arguments as a justification to shut down speech," Wang said. "That's a tactic of authoritarian regimes, not democracies. It's usually the job of courts to stand up to the government when it infringes on the constitutional rights of millions of Americans, and I think the D.C. Circuit really didn't do that today."
-
-
-
-
-'A victory for the American people'
-
-
-Representative Raja Krishnamoorthi, the senior Democrat on the House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party, and one of the original sponsors of the law requiring TikTok's divestiture or ban, released a statement Friday praising the court's decision.
-
-
-"With today's opinion, all three branches of government have reached the same conclusion: ByteDance is controlled by the Chinese Communist Party, and TikTok's ownership by ByteDance is a national security threat that cannot be mitigated through any other means than divestiture," Krishnamoorthi said.
-
-
-"Every day that TikTok remains under the Chinese Communist Party's control is a day that our security is at risk," Krishnamoorthi added.
-
-
-Representative John Moolenaar, the committee's Republican chairman, said in a statement that the ruling was "a victory for the American people and TikTok users, and a loss for the Chinese Communist Party, which will no longer be able to exploit ByteDance's control over TikTok to undermine our sovereignty, surveil our citizens and threaten our national security."
-
-
-Moolenaar also held out hope to the app's users that access to it may, in the end, be preserved under a Trump presidency.
-
-
-"I am optimistic that President Trump will facilitate an American takeover of TikTok to allow its continued use in the United States and I look forward to welcoming the app in America under new ownership," Moolenaar said. 
-
-<br> 
-
-<https://www.voanews.com/a/appeals-court-upholds-law-that-could-ban-tiktok-in-us/7890647.html>
-
----
-
-## For NASA, the moon just got farther away
-
-date: 2024-12-07, from: Market Place, Make me Smart
-
-<p>NASA is pushing back its highly anticipated Artemis 2 mission from September 2025 to April 2026. It will be the first crewed mission to the moon since 1972. We&#8217;ll unpack NASA&#8217;s setbacks. Plus, momentum is building for a TikTok ban. And the hosts share their thoughts on the word of the year in a round of Half Full / Half Empty!</p>
-<p>Here&#8217;s everything we talked about today:</p>
-<ul>
-<li><a href="https://www.space.com/space-exploration/artemis/nasa-delays-artemis-2-moon-mission-to-april-2026-artemis-3-lunar-landing-to-mid-2027" target="_blank" rel="noreferrer noopener">&#8220;NASA delays Artemis 2 moon mission to 2026, Artemis 3 astronaut landing to mid-2027&#8221;</a> from Space</li>
-<li><a href="https://www.nytimes.com/2024/12/06/us/politics/trump-hegseth-defense-secretary.html?smid=url-share" target="_blank" rel="noreferrer noopener">&#8220;Trump Defends His Imperiled Pick for Defense Secretary, Pete Hegseth&#8221;</a> from The New York Times</li>
-<li><a href="https://www.washingtonpost.com/technology/2024/12/06/tiktok-ban-court-ruling-justice-department-bytedance/" target="_blank" rel="noreferrer noopener">&#8220;Appeals court upholds nationwide TikTok ban-or-sale law&#8221;</a> from The Washington Post</li>
-<li><a href="https://www.reuters.com/technology/meta-shares-hit-record-high-after-us-appeals-court-upholds-tiktok-ban-2024-12-06/" target="_blank" rel="noreferrer noopener">&#8220;TikTok advertisers stay put after US appeals court upholds law forcing sale&#8221;</a> from Reuters</li>
-<li><a href="https://www.marketplace.org/2024/12/05/bitcoin-mining-surge-energy-grid-electricity-crypto-miners-fossil-fuels/" target="_blank" rel="noreferrer noopener">&#8220;Bitcoin mining surge strains energy grids as miners make a fortune&#8221;</a> from Marketplace</li>
-<li><a href="https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier" target="_blank" rel="noreferrer noopener">&#8220;OpenAI is charging $200 a month for an exclusive version of its o1 ‘reasoning’ model&#8221;</a> from The Verge</li>
-<li><a href="https://www.marketplace.org/2024/12/04/50-off-cyber-monday-deal-today-only-kidding/" target="_blank" rel="noreferrer noopener">&#8220;50% off! Cyber Monday deal today only! (Kidding!)&#8221;</a> from Marketplace</li>
-<li><a href="https://www.usatoday.com/story/entertainment/celebrities/2024/12/06/dolly-parton-broadway-musical-casting-search/76809769007/" target="_blank" rel="noreferrer noopener">&#8220;Dolly Parton launches search for actors to play her in a new Broadway musical&#8221;</a> from USA Today</li>
-<li><a href="https://apnews.com/article/oxford-word-year-brain-rot-b43d864aed7f7d9d039edbd9b8a19ffb" target="_blank" rel="noreferrer noopener">&#8220;&#8216;Brain rot&#8217; is the Oxford University Press word of the year&#8221;</a> from AP News</li>
-</ul>
-<p>We love to hear from you. Email us at makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/12/06/mms_20241206_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Ffor-nasa-the-moon-just-got-farther-away&awCollectionId=mkp-MMsmrt"></source>
-</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/12/06/mms_20241206_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Ffor-nasa-the-moon-just-got-farther-away&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
-
-<https://www.marketplace.org/shows/make-me-smart/for-nasa-the-moon-just-got-farther-away>
-
----
-
-## Wrapping up the 2024 job market
-
-date: 2024-12-07, from: Market Place
-
-<p>It&#8217;s been a wonky year for the labor market. Unemployment is down and inflation has eased. But ask an average American, and they might not feel like everything is peachy keen. In this episode, we asked economists to sum up the complicated year &#8230; in a song. Plus, homebuilders worry incoming President Donald Trump&#8217;s immigration policy will leave them short-handed, and retail hiring plateaued in November — unusual for the holiday shopping season.</p>
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/12/06/pm_20241206_PM_Podcast_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace%2Fwrapping-up-the-2024-job-market&awCollectionId=mkp-MKP-PM"></source>
-</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/12/06/pm_20241206_PM_Podcast_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace%2Fwrapping-up-the-2024-job-market&awCollectionId=mkp-MKP-PM" target="_blank">download audio/mpeg</a><br> 
-
-<https://www.marketplace.org/shows/marketplace/wrapping-up-the-2024-job-market>
-
----
-
-## Former police officer denies leaking information to Proud Boys leader
-
-date: 2024-12-07, from: VOA News USA
-
-WASHINGTON — A retired Washington, D.C., police officer charged with lying about his private communications with former Proud Boys national leader Enrique Tarrio testified Friday that he never leaked sensitive police information to the far-right extremist group leader. 
-
-
-Taking the witness stand at his federal trial, former Metropolitan Police Department Lieutenant Shane Lamond said he was upset that a prosecutor labeled him as a Proud Boys "sympathizer" who acted as a "double agent" for the group after Tarrio burned a stolen Black Lives Matter banner in December 2020. 
-
-
-"I don't support the Proud Boys, and I'm not a Proud Boys sympathizer," said Lamond, whose bench trial started Monday and continues next week. 
-
-
-Tarrio, who testified Thursday as a witness for Lamond's defense, is serving a 22-year prison sentence for his role in a plot to use force to keep Donald Trump in the White House after the 2020 election. Tarrio previously was sentenced to more than five months in jail for burning the banner stolen from a historic Black church in downtown Washington and for bringing two high-capacity firearm magazines into the district. 
-
-
-Lamond said Tarrio never confessed to him that he burned the banner. He also denies tipping off Tarrio that a warrant for his arrest had been signed before he arrived in Washington on January 4, 2021 — two days before other Proud Boys joined a mob's attack on the U.S. Capitol. 
-
-
-Lamond's indictment says he and Tarrio exchanged messages about the January 6 riot and discussed whether Proud Boys members were in danger of being charged in the attack. 
-
-
-"Of course I can't say it officially, but personally I support you all and don't want to see your group's name and reputation dragged through the mud," Lamond wrote. 
-
-
-Lamond said he considered Tarrio to be a source, not a friend. But he said he tried to build a friendly rapport with the group leader to gain his trust. 
-
-
-Justice Department prosecutor Joshua Rothstein pointed to other messages that suggest Lamond provided Tarrio with "real-time updates" on the police investigation of the December 12, 2020, banner burning. 
-
-
-Lamond is charged with one count of obstruction of justice and three counts of making false statements. U.S. District Judge Amy Berman Jackson will decide the case after hearing testimony without a jury. 
-
-
-Lamond, who met Tarrio in 2019, had supervised the intelligence branch of the police department's Homeland Security Bureau. He was responsible for monitoring groups like the Proud Boys when they came to Washington. 
-
-
-The men exchanged hundreds of messages across several platforms, with Lamond frequently greeting Tarrio as "brother." However, Lamond acknowledged that he only sent encrypted messages to Tarrio or met him in person after the banner burning.  
-
-
-On the day of his arrest, Tarrio posted a message to other Proud Boys leaders that said, "The warrant was just signed." Tarrio testified Thursday that he didn't confess to Lamond or receive any confidential information from him. 
-
-
-After the banner burning but before Tarrio's arrest, Lamond told him that the FBI and U.S. Secret Service was "all spun up" by chatter that Proud Boys planned to dress up as supporters of President Joe Biden for the Democrat's inauguration in January 2021. 
-
-
-"I'm just going to let them get all freaked out. They're idiots," Lamond wrote of his federal colleagues. 
-
-
-"Lol," Tarrio responded. 
-
-
-Lamond, 48, of Colonial Beach, Virginia, retired in May 2023 after 23 years of service to the police department. 
-
-<br> 
-
-<https://www.voanews.com/a/former-police-officer-denies-leaking-information-to-proud-boys-leader-/7890379.html>
 

@@ -1,11 +1,196 @@
 ---
 title: socal north
-updated: 2024-12-14 07:04:58
+updated: 2024-12-15 07:05:10
 ---
 
 # socal north
 
-(date: 2024-12-14 07:04:58)
+(date: 2024-12-15 07:05:10)
+
+---
+
+## After 19 years, a 'major lunar standstill' is happening tonight. Let us explain
+
+date: 2024-12-15, updated: 2024-12-15, from: The LAist
+
+The Griffith Observatory is holding a public and online viewing of something called the "major standstill northern moonrise" on early Sunday evening. So what is it exactly? 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/a-major-lunar-standstill-that-occurs-every-19-years-is-happening-tonight>
+
+---
+
+## Shhhh! This SoCal spot is the best-kept secret for magical winter sunset photos
+
+date: 2024-12-15, updated: 2024-12-15, from: The LAist
+
+Here are some insider tips for getting the best sunset photo in all of Southern California, IMHO. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/the-best-kept-photo-secret-in-south-california>
+
+---
+
+## LA's Minaret Records brings its cult jazz shows to venues across the city this week
+
+date: 2024-12-15, updated: 2024-12-15, from: The LAist
+
+Minaret Records, an L.A.-based jazz label founded in 2019, will bring a series of intimate shows to venues across central and northeast L.A. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/las-minaret-records-brings-its-cult-jazz-shows-to-venues-across-the-city-this-week>
+
+---
+
+## Federal health care dollars are helping to house homeless Californians. Trump could stop that
+
+date: 2024-12-15, updated: 2024-12-15, from: The LAist
+
+Gov. Newsom launched a program that uses Medi-Cal to help homeless Californians access housing. Trump could end it in 2026. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/federal-health-care-dollars-are-helping-to-house-homeless-californians-trump-could-stop-that>
+
+---
+
+## Supreme Court to hear challenge to California's authority to set vehicle emissions standards
+
+date: 2024-12-15, updated: 2024-12-15, from: The LAist
+
+Ohio and 16 other Republican-dominated states have sued, asserting that a waiver granted to California to set its own rules violates the basic design of the U.S. Constitution, which they assert should treat states as equals. 
+
+<br> 
+
+<https://laist.com/news/supreme-court-to-hear-challenge-to-californias-authority-to-set-vehicle-emissions-standards>
+
+---
+
+## Happy 37th Birthday Santa Clarita
+
+date: 2024-12-14, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin This Sunday, December 15, 2024 – the City of Santa Clarita will mark its 37th birthday. Back in 1987, the City of Santa Clarita became the largest area ever to incorporate. Our new City was 39-square-miles and included the communities of Saugus, Newhall, Valencia and Canyon Country. Since then, more [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/12/14/happy-37th-birthday-santa-clarita/">Happy 37th Birthday Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/12/14/happy-37th-birthday-santa-clarita/>
+
+---
+
+## California's second biggest homeowner insurer is stepping up coverage, a sign of turning tide
+
+date: 2024-12-14, updated: 2024-12-14, from: The LAist
+
+After companies spent years fleeing California’s insurance market following catastrophic wildfires and inflation, Farmers Insurance is reopening some closed lines of coverage starting today. 
+
+<br> 
+
+<https://laist.com/news/californias-biggest-homeowner-insurer-to-step-up-coverage-in-state-a-sign-of-turning-tide>
+
+---
+
+## South Korea's parliament votes to impeach President Yoon Suk Yeol
+
+date: 2024-12-14, updated: 2024-12-14, from: The LAist
+
+South Korea's parliament impeached President Yoon Suk Yeol for his attempt to impose martial law, the first time such a measure had been imposed on the nation in more than four decades. 
+
+<br> 
+
+<https://laist.com/news/south-koreas-parliament-votes-to-impeach-president-yoon-suk-yeol>
+
+---
+
+## Why Gen Zs are drawn to the art of Yoshitomo Nara — and how an LA show is deepening their bond
+
+date: 2024-12-14, updated: 2024-12-14, from: The LAist
+
+An exhibition on climate change at the Hammer Museum is closing in January. It features a popular Japanese artist beloved by Gen Zs. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/why-gen-zs-are-drawn-to-the-art-of-yoshitomo-nara-and-how-an-la-show-is-deepening-their-bond>
+
+---
+
+## Say goodbye to late night sweet treats at Torrance’s Sleepy Hollow holiday lights
+
+date: 2024-12-14, updated: 2024-12-14, from: The LAist
+
+Residents are no longer allowed to sell food outside their home after 5 p.m. at the popular attraction. 
+
+<br> 
+
+<https://laist.com/news/torrance-sleepy-hollow-holiday-lights-food-sales-ban>
+
+---
+
+## A tiny IKEA has opened in Arcadia. Here’s what you can find
+
+date: 2024-12-14, updated: 2024-12-14, from: The LAist
+
+It's the latest “small-format” concept store by the Swedish furniture giant to open in the country. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/tiny-ikea-arcadia-guide>
+
+---
+
+## Go Fact Yourself quiz for December 14
+
+date: 2024-12-14, updated: 2024-12-14, from: The LAist
+
+Our celebrity panelists Cory Doctorow and Aida Rodriguez go head to head this week on their knowledge of Disney's Haunted Mansion ride and Prince's album, 'Purple Rain.' Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-december-14>
+
+---
+
+## LAPD Apprehends Suspect After Attempted Break-Ins and Shootings in San Fernando and Sylmar
+
+date: 2024-12-14, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="600" height="400" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/03/LAPD-car.jpg?fit=600%2C400&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/03/LAPD-car.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/03/LAPD-car.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/03/LAPD-car.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/03/LAPD-car.jpg?fit=600%2C400&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>An armed suspect is in custody after multiple calls of attempted break-ins and shootings last night in the City of San Fernando and Sylmar. The Los Angeles Police Department (LAPD) [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/13/lapd-apprehends-suspect-after-attempted-break-ins-and-shootings-in-san-fernando-and-sylmar/">LAPD Apprehends Suspect After Attempted Break-Ins and Shootings in San Fernando and Sylmar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/13/lapd-apprehends-suspect-after-attempted-break-ins-and-shootings-in-san-fernando-and-sylmar/>
+
+---
+
+## There's still time to enroll in LAUSD's Winter Academy
+
+date: 2024-12-14, updated: 2024-12-14, from: The LAist
+
+The L.A. Unified School District is hosting a three-day winter academy next week, open to students in transitional kindergarten through 12th grade. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-winter-academy-2024>
+
+---
+
+## Valencia Branch Temporary Closure FAQ​
+
+date: 2024-12-14, from: Santa Clarita Public Library
+
+Valencia Branch Temporary Closure FAQ The Valencia Library will be temporarily closed December 21, 2024 through January 1, 2025 for renovations. During this time, library staff will be providing a curbside service for patrons to pick up their holds. Please note that the Old Town Newhall Library and the Jo Anne Darcy Canyon Country Library [&#8230;] 
+
+<br> 
+
+<https://www.santaclaritalibrary.com/2024/12/13/valencia-branch-temporary-closure-faq/>
 
 ---
 
@@ -60,11 +245,11 @@ A new USC study shows participants had significantly more PFAS chemicals in thei
 
 ---
 
-## Former House Speaker Nancy Pelosi injured during trip abroad
+## Former House Speaker Nancy Pelosi underwent hip surgery after injury on trip abroad
 
 date: 2024-12-13, updated: 2024-12-13, from: The LAist
 
-The 84-year-old was injured during a congressional trip to Luxembourg and has been admitted to the hospital "for evaluation," a spokesperson said. 
+The 84-year-old is "on the mend" after she underwent surgery for a hip injury she sustained during a congressional trip to Luxembourg, a spokesperson said. 
 
 <br> 
 
@@ -1012,126 +1197,4 @@ California's unemployment system crashed during the pandemic. Now, the system co
 <br> 
 
 <https://laist.com/news/californias-employment-safety-net-is-still-broken-will-anyone-fix-it>
-
----
-
-## PSA: The person holding a lottery ticket worth nearly $200 million has just hours left to claim the prize
-
-date: 2024-12-07, updated: 2024-12-07, from: The LAist
-
-The Mega Millions ticket was sold at a Chevron station on Ventura Blvd. Dec. 8 of last year. 
-
-<br> 
-
-<https://laist.com/news/psa-theres-a-winning-lottery-ticket-worth-some-200-million-floating-out-there-it-expires-today>
-
----
-
-## Safe Travels and Happy Holidays!
-
-date: 2024-12-07, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin The holiday season is in full swing, filling Santa Clarita with festive cheer. It’s the perfect time to embrace traditions, gather with loved ones and travel around the City to shop, celebrate and visit friends and family. During this busy season, safe and well-maintained roads become even more valuable, ensuring [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2024/12/07/safe-travels-and-happy-holidays/">Safe Travels and Happy Holidays!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2024/12/07/safe-travels-and-happy-holidays/>
-
----
-
-## Red flag warning starting Monday as fire weather and Santa Anas return
-
-date: 2024-12-07, updated: 2024-12-08, from: The LAist
-
-As warmer weather and a bout of Santa Ana winds come to Southern California, the National Weather Service is warning of an elevated risk of fire weather conditions until Wednesday. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/elevated-fire-risk-through-wednesday-as-warmer-weather-and-santa-anas-return>
-
----
-
-## This little electric car made history. 25 years ago, GM stopped making it
-
-date: 2024-12-07, updated: 2024-12-07, from: The LAist
-
-The EV1 was the first modern, mass-produced electric vehicle from a major automaker — pioneering some technologies you can still find in today's EVs. But the model was controversial, and short-lived. 
-
-<br> 
-
-<https://laist.com/news/transportation/ev1-first-electric-car-25th-anniversary-general-motors>
-
----
-
-## USDA orders testing across nation's milk supply amid rising bird flu cases
-
-date: 2024-12-07, updated: 2024-12-07, from: The LAist
-
-California is reporting the highest number of infections. At least 58 people have been infected with bird flu, including one child. 
-
-<br> 
-
-<https://laist.com/news/health/usda-orders-testing-across-nations-milk-supply-amid-rising-bird-flu-cases>
-
----
-
-## There's a damaged castle out in Death Valley with a wild history. It's now open for tour
-
-date: 2024-12-07, updated: 2024-12-07, from: The LAist
-
-Nicknamed "Scotty's Castle," the property has an origin story built on the improbable friendship between a conman and a transplant millionaire who was his mark. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/damaged-scottys-castle-death-valley-now-open-for-tour>
-
----
-
-## Go Fact Yourself quiz for December 7
-
-date: 2024-12-07, updated: 2024-12-07, from: The LAist
-
-Our celebrity panelists Marc Summers and Michaela Watkins go head to head this week on their knowledge of the talent competition TV show Star Search and pottery. Think you might know more than they do? Go Fact Yourself! 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-december-7>
-
----
-
-## Go Fact Yourself quiz for December 7
-
-date: 2024-12-07, updated: 2024-12-07, from: The LAist
-
-Our celebrity panelists Marc Summers and Michaela Watkins go head to head this week on their knowledge of the talent competition TV show Star Search and pottery. Think you might know more than they do? Go Fact Yourself! 
-
-<br> 
-
-<>
-
----
-
-## California shorted prisoners on money for their release. It’s ending the practice
-
-date: 2024-12-07, updated: 2024-12-07, from: The LAist
-
-California prisons are supposed to give $200 in gate money to people leaving incarceration. Many did not receive the full amount because of deductions. 
-
-<br> 
-
-<https://laist.com/news/criminal-justice/california-shorted-prisoners-on-money-for-their-release-its-ending-the-practice>
-
----
-
-## California's initial water allocation forecast is just 5%
-
-date: 2024-12-07, updated: 2024-12-07, from: The LAist
-
-Don't despair just yet. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/californias-initial-water-allocation-forecast>
 

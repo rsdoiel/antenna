@@ -1,11 +1,239 @@
 ---
 title: columns
-updated: 2024-12-14 07:05:00
+updated: 2024-12-15 07:05:11
 ---
 
 # columns
 
-(date: 2024-12-14 07:05:00)
+(date: 2024-12-15 07:05:11)
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-12-15, from: Miguel de Icaza Mastondon feed)
+
+<p>“Python tool for converting files and office documents to Markdown”</p><p><a href="https://github.com/microsoft/markitdown" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">github.com/microsoft/markitdown</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113657074208356759>
+
+---
+
+## A Dancing Dick Van Dyke
+
+date: 2024-12-15, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/a-dancing-dick-van-dyke>
+
+---
+
+## Sunday caption contest: Defense?
+
+date: 2024-12-15, from: Robert Reich's blog
+
+And last week&#8217;s winner 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-caption-contest-defense>
+
+---
+
+## December 14, 2024 
+
+date: 2024-12-15, from: Heather Cox Richardson blog
+
+Spent the day with family and friends, and am going to finish a lovely day with an early bedtime. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-14-2024>
+
+---
+
+## Sponsorship Openings at Daring Fireball, End-of-Year and Q1 2025 Edition
+
+date: 2024-12-15, updated: 2024-12-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/feeds/sponsors/>
+
+---
+
+## December 13, 2024
+
+date: 2024-12-14, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153134862/0a526f4a4517a11073e9603e1a6ff792.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153134862/0a526f4a4517a11073e9603e1a6ff792.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-13-2024-672>
+
+---
+
+## ★ On the Accountability of Unnamed Public Relations Spokespeople
+
+date: 2024-12-14, updated: 2024-12-14, from: Daring Fireball
+
+This is why it’s more than vanity to put your name on your work, whatever your work is — it shows you take responsibility for its validity. 
+
+<br> 
+
+<https://daringfireball.net/2024/12/on_the_accountability_of_unnamed_public_relations_spokespeople>
+
+---
+
+##  Once again, The 2024 Kottke Holiday Gift Guide. If you&#8217;re shopping online,... 
+
+date: 2024-12-14, updated: 2024-12-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045854-once-again-the-2024-kottk>
+
+---
+
+## Online communities can work
+
+date: 2024-12-14, from: Dave Winer's Scripting News
+
+<p>A <a href="https://www.nytimes.com/2024/12/14/magazine/bluesky-social-media.html">piece</a> in today's NYT said all networks flame out, but that's actually too crude a statement. </p>
+<p>If you want your network not to flame out, give the users the tools to keep things moderated.</p>
+<p>One of the best features of Facebook is it gives the author of a post the power to decide who can respond to it. (I know they're not the only ones, but they're the first in my experience, so I give them credit.)</p>
+<p>If I write something that I know will attract trolls, I just restrict it to friends. If they flame me, or even try to provoke an argument, I just unfriend them, and I suspect they know that. The hotheads have been culled from the list over time, there's trust that people don't want and won't pick fights. </p>
+<p>Assume adults know when they're asking to argue, and not only don't accept the bait, but don't allow them to participate. </p>
+<p>Keeps things friendly. Not kidding. It doesn't flame out there.</p>
+<p>It also helps that I've been using these networks since the 70s, and there have been times when I sought out the flames, because I could have shut them off at any time, but I let them keep going. Now I don't. I just don't argue online, and as a result the heat doesn't reach me. </p>
+<p>In other words, if you give people good tools, and they use them well, you can make this work. </p>
+<p>PS: To be fair, the NYT piece focused on Bluesky, and they are for sure going down a path much like the one Twitter went down, but it will happen much faster because the trolls are already plentiful and well-organized. They're going for the billion-dollar cashout, for sure and they will very likely get it, and as users we will still be looking for an open system that we can use to get work done. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/12/14/184411.html?title=onlineCommunitiesCanWork>
+
+---
+
+## What Really Matters: Memories
+
+date: 2024-12-14, from: Om Malik blog
+
+“It’s generally human nature to overestimate risk and underestimate opportunity. Thinking small is a self-fulfilling prophecy.” Jeff Bezos, founder, Amazon On My Mind We, as modern humans, try to control everything. In reality, though, we can’t really control the infinite number of ever-changing data points or the eventual outcomes. We can try, and in some &#8230; 
+
+<br> 
+
+<https://om.co/2024/12/14/what-really-matters-memories/>
+
+---
+
+## Upcoming Speaking Events
+
+date: 2024-12-14, updated: 2024-12-14, from: Bruce Schneier blog
+
+<p>This is a current list of where and when I am scheduled to speak:</p>
+<ul>
+<li>I&#8217;m speaking at a <a href="https://ewh.ieee.org/r1/boston/computer/schneier2025atMIT.html">joint meeting of the Boston Chapter of the IEEE Computer Society and GBC/ACM</a>, in Boston, Massachusetts, USA, at 7:00 PM ET on Thursday, January 9, 2025. The event will take place at the Massachusetts Institute of Technology in Room 32-G449 (Kiva), as well as online via Zoom. Please <a href="https://acm-org.zoom.us/webinar/register/1517341054470/WN_CYgexNC-Ssmbzi0gRF234Q">register in advance</a> if you plan to attend (whether online or in person).</li>
+</ul>
+<p>The list is maintained on <a href="https://www.schneier.com/events/">this page</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/12/upcoming-speaking-events-2.html>
+
+---
+
+## Listened to: Learning Conversations Artificial Intelligence with Ollie Bray
+
+date: 2024-12-14, from: John's World Wide Wall Display
+
+Listened to: Learning Conversations Artificial Intelligence with Ollie Bray &#124; Education Scotland podcast This is the first Education Scotland podcast episode I&#8217;ve listened to. Solid food for thought. I&#8217;ve not developed any really solid ideas around AI in education but this helped me think of some questions. Ollie compared the uptake and development to AI [&#8230;] 
+
+<br> 
+
+<https://johnjohnston.info/blog/listened-to-learning-conversations-artificial-intelligence-with-ollie-bray/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-12-14, from: Miguel de Icaza Mastondon feed)
+
+<p>I can quit anytime I want</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113651824612917859>
+
+---
+
+**@John's World Wide Wall Display** (date: 2024-12-14, from: John's World Wide Wall Display)
+
+Chat GPT&#8217;s geography is a bit off. 
+
+<br> 
+
+<https://johnjohnston.info/blog/chat-gpts-geography/>
+
+---
+
+## Time Magazine’s Jackass of the Year | The Coffee Klatch, December 14, 2024
+
+date: 2024-12-14, from: Robert Reich's blog
+
+With Michael Lahanas-Calder&#243;n, Vishal Shankar, and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153090482/e3a5f9d4502f0cbf3f18642ca9ed1a2b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153090482/e3a5f9d4502f0cbf3f18642ca9ed1a2b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/time-magazines-jackass-of-the-year>
+
+---
+
+## Weeknotes: Dec. 7-13, 2024
+
+date: 2024-12-14, from: Tracy Durnell Blog
+
+Win of the week: wrote every weekday this week! Looking forward to: planning to bake this sourdough apple cobbler this weekend 🍏 Stuff I did: 9.5 hours consulting 4.75 hours writing reviewed someone&#8217;s blog post! Two more people have asked me to read theirs 😀 That means I&#8217;ve got two more openings &#8212; so if you&#8217;ve [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/12/13/weeknotes-dec-7-13-2024/>
+
+---
+
+## December 13, 2024
+
+date: 2024-12-14, from: Heather Cox Richardson blog
+
+Time magazine&#8217;s interview with President-elect Donald Trump, published yesterday, revealed a man who was so desperate to be reelected to the presidency that he constructed a performance that he believed would woo voters, but who has no apparent plans for actual governance. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-13-2024>
+
+---
+
+## iGeneration Reports Apple Will Stop Selling Lightning-Port iPhones in the EU This Month
+
+date: 2024-12-14, updated: 2024-12-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2024/12/13/iphone-14-and-iphone-se-eu-report/>
 
 ---
 
@@ -47,13 +275,23 @@ date: 2024-12-13, updated: 2024-12-13, from: Daring Fireball
 
 ## ★ Federico Viticci on Apple Intelligence, With ChatGPT, as a Breakthrough Automation Tool
 
-date: 2024-12-13, updated: 2024-12-13, from: Daring Fireball
+date: 2024-12-13, updated: 2024-12-14, from: Daring Fireball
 
 Like Viticci, I remain largely skeptical and uncomfortable with AI for purposes of generating original new stuff — writing, imagery, whatever. But as an assistive agent, it’s quite remarkable today and improving at a fast clip. 
 
 <br> 
 
 <https://daringfireball.net/2024/12/viticci_apple_intelligence_chatgpt_automation>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-13, from: Dave Winer's Scripting News)
+
+ChatGPT gets projects. Haven't had a chance to explore, but I desperately need this. I organize all my work as projects, and need to have my ChatGPT work be part of that. 
+
+<br> 
+
+<http://scripting.com/2024/12/13.html#a222235>
 
 ---
 
@@ -510,7 +748,7 @@ The Democrats&#8217; failure to tell the truth about the Rot at the Top
 
 date: 2024-12-13, from: Doc Searls (at Harvard), New Old Blog
 
-A few weeks ago, my sister Jan and I drove a cache of archival stuff from her garage in North Carolina to my office in Indiana. One box was filled with boxes and carousels of slides nobody had seen for many decades. I also brought along my parents&#8217; slide projector, and digitized each slide by [&#8230;] 
+A few weeks ago, my sister Jan and I drove a cache of archival stuff from her garage in North Carolina to my office in Indiana. One plastic container was filled with boxes and carousels of slides nobody had seen for many decades. I also brought along my parents&#8217; slide projector, and digitized each slide [&#8230;] 
 
 <br> 
 
@@ -2443,547 +2681,4 @@ date: 2024-12-08, updated: 2024-12-08, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/24/12/0045805-jia-tolentino-on-the-some>
-
----
-
-##  A fantastic interactive feature about the newly restored Notre-Dame cathedral. &#8220;Each day... 
-
-date: 2024-12-07, updated: 2024-12-07, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/24/12/0045804-a-fantastic-interactive-f>
-
----
-
-## 2024-12-07 Armour in 2d6 Ultraviolet Grasslands
-
-date: 2024-12-07, from: Alex Schroeder's Blog
-
-<h1 id="2024-12-07-armour-in-2d6-ultraviolet-grasslands">2024-12-07 Armour in 2d6 Ultraviolet Grasslands</h1>
-
-<p>I&rsquo;m running Ultraviolet Grasslands (UVG) using 2d6 rules. UVG itself
-uses d20 rules and so I often have to translate back and forth and it
-is not very satisfying, to be honest.</p>
-
-<p>So what to do? In <a href="https://campaignwiki.org/wiki/MontagInZ%c3%bcrich/2024-11-17_Ultraviolet_Grasslands">a recent episode</a> of the <a href="https://campaignwiki.org/wiki/MontagInZürich/Internet_Office_Hours">Internet Office Hours</a> podcast,
-<a class="account" href="https://ludosphere.fr/@Whidou" title="@Whidou@ludosphere.fr">@Whidou</a> suggested a system of immunities.
-So here are my thoughts.</p>
-
-<h2 id="brainstorming">Brainstorming</h2>
-
-<p>Weapons are either &ldquo;normal&rdquo; (2d6 damage) or &ldquo;extreme violence&rdquo; (3d6
-damage). Some weapons might be practically instant death weapons, like
-plasma guns, necrotic blasters desintegrators and the like. These
-might do 4d6 and more damage.</p>
-
-<table>
-<thead>
-<tr>
-<th>Normal Weapon</th>
-<th>Vicious Weapon</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td>Dagger</td>
-<td>Halberd</td>
-</tr>
-
-<tr>
-<td>Axe</td>
-<td>Chainsword</td>
-</tr>
-
-<tr>
-<td>Spear</td>
-<td>Cat Rifle</td>
-</tr>
-
-<tr>
-<td>Blade</td>
-<td>Radiant Gun</td>
-</tr>
-
-<tr>
-<td>Bow</td>
-<td>Ultra Blaster</td>
-</tr>
-
-<tr>
-<td>Pistol</td>
-<td>Blue God Blaster</td>
-</tr>
-
-<tr>
-<td>Scimitar</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Long Knife</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Cutlass</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Rapier</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Claymore</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Zweihänder</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Crossbow</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Armour either makes you &ldquo;hard to hit&rdquo;
-(3d6 ≤ attribute + skill) or &ldquo;impossible to hit&rdquo;.</p>
-
-<table>
-<thead>
-<tr>
-<th>Armour</th>
-<th>Hard to hit</th>
-<th>Impossible to hit</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td>Iron Breastplatte</td>
-<td>Blade weapons</td>
-<td>none</td>
-</tr>
-
-<tr>
-<td>Skinchanger Suit</td>
-<td>Blade weapons</td>
-<td>none</td>
-</tr>
-
-<tr>
-<td>Ballistic Linen</td>
-<td>Scimitar</td>
-<td>Sluggers (Pistol, SMG, Rifle)</td>
-</tr>
-
-<tr>
-<td>Scale Shirt</td>
-<td>Blade weapons</td>
-<td>none</td>
-</tr>
-
-<tr>
-<td>Lobster Armour</td>
-<td>Normal weapons</td>
-<td>none</td>
-</tr>
-
-<tr>
-<td>Bone Mesh Armnour</td>
-<td>All weapons</td>
-<td>none</td>
-</tr>
-
-<tr>
-<td>Spectral Combat Suit</td>
-<td>Energy weapons, Sluggers</td>
-<td>Normal weapons</td>
-</tr>
-
-<tr>
-<td>Porcelain Armour</td>
-<td>Energy weapons, Sluggers</td>
-<td>Normal weapons</td>
-</tr>
-
-<tr>
-<td>Golem Armour</td>
-<td>Energy weapons</td>
-<td>Normal weapons, Sluggers</td>
-</tr>
-</tbody>
-</table>
-
-<h2 id="tags">Tags</h2>
-
-<p>Perhaps it would be best to extend the list of tags UVG uses. Then
-weapons can have tags such as Cut, Stab, Crush, Slug, Energy, Necrotic,
-Blast – and armour can confer protection or immunity
-against these tags. Other tags are easy to add:</p>
-
-<ul>
-<li>2H prevents the use of a shield.</li>
-<li>Vicious deals 3d6 instead of 2d6 damage.</li>
-<li>Close means that it&rsquo;s good for close combat, like in tunnels or inside narrow corridors. Enemies with longer weapons get a free attack if you need to close (outside of tunnels and corridors).</li>
-<li>Range means that you can shoot stuff.</li>
-</ul>
-
-<table>
-<thead>
-<tr>
-<th>Weapon</th>
-<th>Tags</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td>Dagger</td>
-<td>Stab, Close</td>
-</tr>
-
-<tr>
-<td>Axe</td>
-<td>Crush, Close</td>
-</tr>
-
-<tr>
-<td>Spear</td>
-<td>Stab</td>
-</tr>
-
-<tr>
-<td>Sword</td>
-<td>Cut</td>
-</tr>
-
-<tr>
-<td>Bow</td>
-<td>Stab, Range</td>
-</tr>
-
-<tr>
-<td>Pistol</td>
-<td>Slug, Range</td>
-</tr>
-
-<tr>
-<td>SMG</td>
-<td>Slug, Range</td>
-</tr>
-
-<tr>
-<td>Scimitar</td>
-<td>Cut</td>
-</tr>
-
-<tr>
-<td>Long Knife</td>
-<td>Stab</td>
-</tr>
-
-<tr>
-<td>Cutlass</td>
-<td>Cut, Stab</td>
-</tr>
-
-<tr>
-<td>Rapier</td>
-<td>Stab</td>
-</tr>
-
-<tr>
-<td>Claymore</td>
-<td>Cut, Crush</td>
-</tr>
-
-<tr>
-<td>Zweihänder</td>
-<td>Cut, Crush</td>
-</tr>
-
-<tr>
-<td>Crossbow</td>
-<td>Crush, Range</td>
-</tr>
-
-<tr>
-<td>Halberd</td>
-<td>Crush, Vicious</td>
-</tr>
-
-<tr>
-<td>Chainsword</td>
-<td>Energy, Vicious</td>
-</tr>
-
-<tr>
-<td>Cat Rifle</td>
-<td>Slug, Range, Vicious</td>
-</tr>
-
-<tr>
-<td>Radiant Gun</td>
-<td>Energy, Range, Vicious</td>
-</tr>
-
-<tr>
-<td>Ultra Blaster</td>
-<td>Blast, Energy, Range, Vicious</td>
-</tr>
-
-<tr>
-<td>Blue God Blaster</td>
-<td>Blast, Necrotic, Range, Vicious</td>
-</tr>
-</tbody>
-</table>
-<p>Vicious weapons do 3d6 damage; blast weapons do 4d6 damage. Stationary
-guns like plasma guns go on a different list but do 5d6 and more
-damage. Scope creep!</p>
-
-<p>And then armour! Using some more tags, too.</p>
-
-<ul>
-<li>Hot means no problem in cold environments but endurance tests to act otherwise</li>
-<li>Cold means no problem but cannot be worn outside of combat in cold environments</li>
-<li>Bulky means no sneaking and similar checks</li>
-<li>Rare cannot be bought at a regular shop</li>
-<li>Alive means that it is a permanent part of your body, now</li>
-<li>Power means that it can only be used for the given number of fights until it needs recharging; the altar to charge it takes a whole sack (a porter to carry it)</li>
-</ul>
-
-<table>
-<thead>
-<tr>
-<th>Armour</th>
-<th>Hard to hit</th>
-<th>Impossible to hit</th>
-<th>Other</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td>Iron Breastplate</td>
-<td>Cut, Stab</td>
-<td>none</td>
-<td>Hot, Bulky</td>
-</tr>
-
-<tr>
-<td>Skinchanger Suit</td>
-<td>Cut</td>
-<td>none</td>
-<td>Alive, Rare</td>
-</tr>
-
-<tr>
-<td>Ballistic Linen</td>
-<td>Cut, Stab</td>
-<td>Slug</td>
-<td>Cool</td>
-</tr>
-
-<tr>
-<td>Scale Shirt</td>
-<td>Cut</td>
-<td>none</td>
-<td>Hot, Bulky</td>
-</tr>
-
-<tr>
-<td>Lobster Armour</td>
-<td>Cut, Stab, Crush</td>
-<td>none</td>
-<td>Cool, Bulky</td>
-</tr>
-
-<tr>
-<td>Steel Cuirass</td>
-<td>Cut, Stab</td>
-<td>none</td>
-<td>Hot, Bulky</td>
-</tr>
-
-<tr>
-<td>Bone Mesh Armour</td>
-<td>Cut, Stab, Crush, Necrotic</td>
-<td>none</td>
-<td>Cool, Bulky, Rare</td>
-</tr>
-
-<tr>
-<td>Spectral Combat Suit</td>
-<td>Energy, Slug</td>
-<td>Cut, Stab, Crush</td>
-<td>Cool, Power 6, Bulky</td>
-</tr>
-
-<tr>
-<td>Porcelain Armour</td>
-<td>Energy, Slug</td>
-<td>Cut, Stab, Crush</td>
-<td>Cool, Power 6, Bulky</td>
-</tr>
-
-<tr>
-<td>Golem Armour</td>
-<td>Energy</td>
-<td>Cut, Stab, Crush, Slug</td>
-<td>Cool, Power 8, Rare</td>
-</tr>
-</tbody>
-</table>
-<p>A shield can be used to negate a single hit. (&ldquo;Shields shall be splintered.&rdquo;)</p>
-
-<p>I wonder how good spears and other stabbing weapons are, though.
-Cutting weapons really must be the best weapons against unarmoured
-opponents! Why were axes unpopular given the table above? There must
-be more to it.</p>
-
-<p>Let&rsquo;s test some assumptions:</p>
-
-<ul>
-<li>the crossbow and halberd are armour piercing: yes, because breastplate, scale shirt and cuirass all don&rsquo;t protect against Crush</li>
-<li>the dagger is good for unsuspecting enemies because it&rsquo;s Close</li>
-<li>the axe is is good for fighting in close quarters against armoured opponents because it&rsquo;s Close and Crush</li>
-<li>there cloth armour that helps against the smaller calibres (pistols and SMGs)</li>
-<li>golem armour is immune against slug throwers</li>
-<li>the advanced combat suites (spectral, porcelain) make you immune to normal melee weapons</li>
-</ul>
-
-<p>Surprising result: Swords are pretty bad against armoured opponents.
-Perhaps they are mostly a status symbol after all.
-A status symbol of a ruling warrior class over unarmed peasants.
-They&rsquo;re probably just easier to carry than spears.</p>
-
-<p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%232d6">#2d6</a> <a class="tag" href="/search/?q=%23Ultraviolet_Grasslands">#Ultraviolet Grasslands</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2024-12-07-armour>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-12-07, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/27/rssClub.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="http://scripting.com/images/2024/12/07/blogrollScreen.png">Screen shot</a> of my blogroll on Scripting News. It's dynamic. Shown are the latest posts on the <a href="https://www.emptywheel.net/">emptywheel</a> blog. When a blog updates it moves to the top of the list. A 2024 adaptation of a <a href="https://chatgpt.com/share/67547f62-b134-8012-9384-03649c49c969 ">concept</a> from early blogging days. It should be part of the social web. You can try it out realtime at <a href="http://scripting.com/">scripting.com</a>. 
-
-<br> 
-
-<http://scripting.com/2024/12/07.html#a165306>
-
----
-
-## Prison Communication in Canyon County and Idaho State Prisons
-
-date: 2024-12-07, updated: 2024-12-07, from: Russell Graves, Syonyk's Project Blog
-
- 
-
-<br> 
-
-<https://www.sevarg.net/2024/12/07/treasure-valley-idaho-jail-communications/>
-
----
-
-## Why I like my Model Y
-
-date: 2024-12-07, from: Dave Winer's Scripting News
-
-<p>Yesterday I <a href="http://scripting.com/2024/12/06.html#a150415">wrote</a> that I'd trade in my Model Y if an non-Tesla EV came along that equaled it. A few people asked what I liked about the Model Y that I'm not finding in alternatives. Here's the list. </p>
-<ul>
-<li>I love the handling of the Tesla. It's a <a href="https://en.wikipedia.org/wiki/Muscle_car">muscle car</a> like the 2007 <a href="https://www.kbb.com/bmw/5-series/2007/">BMW 535i</a> I used to drive, great acceleration, but handles like the 1993 <a href="https://www.cars.com/research/mazda-mx_5_miata-1993/">Miata</a> another car I owned and loved. I've also owned really sloppy cars like a <a href="https://www.caranddriver.com/subaru/forester-2022">Subaru Forester</a> or a <a href="https://www.cars.com/research/toyota-sienna-2004/">Toyota Sienna</a> minivan, even a <a href="https://en.wikipedia.org/wiki/Plymouth_Voyager#Full-size_van_(AB;_1974%E2%80%931983)">1974 Plymouth Voyager</a>, the largest American passenger car ever made. I'm never going back to a car that doesn't have the authority of a Model Y. </li>
-<li>The Model Y has lots of headroom, which my long torso needs, so I don't bruise my head each time I get in the freaking car. </li>
-<li>I have a Tesla charger at home, so whatever I buy has to be compatible with or adaptable to it.</li>
-<li>4WD is important because where I live it snows in winter, and I drive on dirt roads a lot too.</li>
-<li>It's a computer. It's going to be hard for a competitor to offer the integration with a network that Tesla offers, they're a computer company as much as they're a car company. Their connection to Starlink (assumed to be coming) is going to be hard to compete with too. </li>
-<li>Calling it <i>self-driving</i> should get them in trouble with the FTC, there's no way anyone should trust it to drive itself, and the car's OS enforces that view, so I guess they have lawyers at Tesla. That said, I like having access to this technology. I've been an innovative software developer for a long time, and I like using tech that pushes the leading edge. The marketing (a Musk feature presumably) is what I don't like. </li>
-<li>Charging network. I occasionally take trips that are out of range of my home charger, to Boston, or NYC sometimes leave me needing a charge on the way home. I'd like to have the option of driving cross-country as well. The Tesla charging network is a big plus. I honestly don't know how good the charging situation is for other brands. This would be something for car magazines to rate, to have a way of measuring it, as people who are put off by Musk's politics (about 1/2 of American voters) look for ways to drive something other than a Tesla. </li>
-</ul>
-<p>So this turned into an ad for Tesla. Heh. </p>
-<p>There are <i>reasons</i> we love it so much. </p>
-<p>Just separate from Musk and all's well. </p>
-<p>I've been thinking Tesla drivers who love America should have some kind of demonstration. We all park our cars around local Tesla dealers, let the police tow our cars, only to be replaced by other Teslas. We're all computer nerds, we could probably even figure out the scheduling. We probably have nearly as much money as they do. Just sayin. </p>
-<p>Tired of companies that push us around politically and Tesla is one of the worst. So far they've managed to convince us they aren't Elon Musk, but that's a mirage, he is the company and the company is him. They are completely one and the same. </p>
-<p>Like the <a href="https://en.wikipedia.org/wiki/Mike_Lindell">My Pillow guy</a> and his <a href="https://www.youtube.com/watch?v=FCHDCNvC_NE">pillows</a>. <span class="spOldSchoolEmoji">😄</span></p>
-<p><a href="http://scripting.com/wavs/curly1.wav"><img src="https://imgs.scripting.com/2023/11/30/curly.png" width="53" height="63" border="0" alt="I'm trying to think but nothing happens!"></a></p>
- 
-
-<br> 
-
-<http://scripting.com/2024/12/07/142329.html?title=whyILikeMyModelY>
-
----
-
-## Digital Isle of Man: For all your connected tax haven needs?
-
-date: 2024-12-07, updated: 2024-12-07, from: Liam Proven's articles at the Register
-
-<h4>Fantasizing about leaving the mess at home behind? Pretty island packed with medieval ruins promotes itself as a venue for e-business</h4>
-      <p>The Isle of Man Government runs an annual conference to promote the tiny nation as a destination for online businesses.</p> 
-
-<br> 
-
-<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/12/07/digital_isle_2024/>
-
----
-
-## Rage Against the Machine | The Coffee Klatch, December 7, 2024
-
-date: 2024-12-07, from: Robert Reich's blog
-
-With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and Yours Truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/152686188/6284d559ce86b812d23eaaa994a268b3.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/152686188/6284d559ce86b812d23eaaa994a268b3.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/rage-against-the-machine-the-coffee>
-
----
-
-## Weeknotes: Nov. 30 – Dec. 6, 2024
-
-date: 2024-12-07, from: Tracy Durnell Blog
-
-👉 Do you have a blog? I&#8217;m offering to edit 5 people&#8217;s draft posts! I&#8217;ve had zero takers so far.  Win of the week: bought so many things I&#8217;ve been needing to! Made up for four and a half years of delayed purchases over Black Friday weekend 😆 Looking forward to: reading a book this weekend Stuff [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2024/12/06/weeknotes-nov-30-dec-6-2024/>
-
----
-
-## Dithering
-
-date: 2024-12-07, updated: 2024-12-09, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://dithering.fm/>
-
----
-
-## December 6, 2024 
-
-date: 2024-12-07, from: Heather Cox Richardson blog
-
-On the sunny Sunday morning of December 7, 1941, Messman Doris Miller had served breakfast aboard the USS West Virginia, stationed in Pearl Harbor, Hawaii, and was collecting laundry when the first of nine Japanese torpedoes hit the ship. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/december-6-2024>
 

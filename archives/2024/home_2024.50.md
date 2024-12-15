@@ -1,11 +1,53 @@
 ---
 title: home
-updated: 2024-12-14 07:05:02
+updated: 2024-12-15 07:05:12
 ---
 
 # home
 
-(date: 2024-12-14 07:05:02)
+(date: 2024-12-15 07:05:12)
+
+---
+
+## How to Propagate Orchids: Five Methods
+
+date: 2024-12-14, from: The Gardener's Path
+
+<p>Orchids are unique and can be mystifying, especially when it comes to propagation. There are a number of different ways to propagate them, including from seed, by division and from stem cuttings, depending on the type you are growing. Learn about the different methods of propagating orchids in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/propagate-orchids/">How to Propagate Orchids: Five Methods</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/propagate-orchids/>
+
+---
+
+## Easy Sourdough Discard Crackers Recipe (Optional Cheese or Herbs)
+
+date: 2024-12-14, from: Homestead and Chil
+
+<p>Looking for ways to use sourdough starter discard? Come make delectable, crispy, savory crackers with our sourdough discard crackers recipe, including step-by-step photos. The recipe is easy and flexible - keep them plain, or add optional cheese, herbs, or other seasonings.</p>
+<p>The post <a href="https://homesteadandchill.com/sourdough-discard-crackers-recipe/">Easy Sourdough Discard Crackers Recipe (Optional Cheese or Herbs)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/sourdough-discard-crackers-recipe/>
+
+---
+
+## Rats! Protecting your garden fruits and vegetables
+
+date: 2024-12-14, from: Greg Alder's blog, Yard Post
+
+<p>At least squirrels work in daylight, such that it is easily observed if they’re chewing and stealing your produce. But rats! Nocturnal, sneaky, fecund, voracious. How to protect your garden fruits and vegetables from them? There are no rats doing damage among my vegetables or fruit trees these days because I have skilled hunter cats [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/rats-protecting-your-garden-fruits-and-vegetables/">Rats! Protecting your garden fruits and vegetables</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/rats-protecting-your-garden-fruits-and-vegetables/>
 
 ---
 
@@ -1147,30 +1189,4 @@ date: 2024-12-08, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/succulents/propagate-yucca-seed/>
-
----
-
-## The layout of a food garden: where to plant what?
-
-date: 2024-12-07, from: Greg Alder's blog, Yard Post
-
-<p>You might be planning a food garden for the first time, or you might be wondering if your vegetables and fruit trees are planted in the best places. Either way, this post is for you. I have built food gardens in a couple different yards for myself and my family, and I have visited and [&#8230;]</p>
-<p>The post <a href="https://gregalder.com/yardposts/the-layout-of-a-food-garden-where-to-plant-what/">The layout of a food garden: where to plant what?</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
- 
-
-<br> 
-
-<https://gregalder.com/yardposts/the-layout-of-a-food-garden-where-to-plant-what/>
-
----
-
-## What We Unearthed at Alcova, the Messy, Fascinating Emerging Designer Fair
-
-date: 2024-12-07, from: Dwell
-
-A penis vase, a chain mail chair, and other weird and wonderful objects made appearances at the second Miami edition of the show. 
-
-<br> 
-
-<https://www.dwell.com/article/design-miami-alcova-2024-editor-picks-and-highlights-7103f0a1>
 

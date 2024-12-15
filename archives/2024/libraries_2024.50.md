@@ -1,11 +1,35 @@
 ---
 title: libraries
-updated: 2024-12-14 07:05:01
+updated: 2024-12-15 07:05:12
 ---
 
 # libraries
 
-(date: 2024-12-14 07:05:01)
+(date: 2024-12-15 07:05:12)
+
+---
+
+## Multivariate analysis of organic contaminants in groundwater of an endorheic basin draining to a salt lagoon – Fuente de Piedra (Southern Spain)
+
+date: 2024-12-20, from: ETH Zurich, recently added
+
+Llamas-Dios, Marta Inés; Jiménez-Gavilán, Pablo; Corada-Fernández, Carmen; Ojeda, Lucía; Jiménez-Martínez, Juan; Vadillo-Pérez, Iñaki 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/708431>
+
+---
+
+## Valencia Branch Temporary Closure FAQ​
+
+date: 2024-12-14, from: Santa Clarita Public Library
+
+Valencia Branch Temporary Closure FAQ The Valencia Library will be temporarily closed December 21, 2024 through January 1, 2025 for renovations. During this time, library staff will be providing a curbside service for patrons to pick up their holds. Please note that the Old Town Newhall Library and the Jo Anne Darcy Canyon Country Library [&#8230;] 
+
+<br> 
+
+<https://www.santaclaritalibrary.com/2024/12/13/valencia-branch-temporary-closure-faq/>
 
 ---
 
@@ -216,6 +240,18 @@ alt="screenshot from Strategy page showing Crossref strategic themes." width="75
 <br> 
 
 <https://www.crossref.org/blog/a-progress-update-and-a-renewed-commitment-to-community/>
+
+---
+
+## Vanishing Culture: The DuMont Network—America’s Vanishing Television History
+
+date: 2024-12-11, from: Internet Archive Blog
+
+The following guest post from media historian Taylor Cole Miller&#160;is part of our&#160;Vanishing Culture&#160;series, highlighting the power and importance of preservation in our digital age.&#160;Read more essays online&#160;or&#160;download the full [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/12/11/vanishing-culture-the-dumont-network-americas-vanishing-television-history/>
 
 ---
 
@@ -454,95 +490,4 @@ alt="screenshot of a slide titled Memebership Stats: &gt;2000 new members per ye
 <br> 
 
 <https://www.crossref.org/blog/a-summary-of-our-annual-meeting/>
-
----
-
-## 2024 POSI audit
-
-date: 2024-12-07, from: Crossref Blog
-
-<h2 id="background">Background</h2>
-<p>The <a href="https://doi.org/10.24343/C34W2H" target="_blank">Principles of Open Scholarly Infrastructure (POSI)</a> provides a set of guidelines for operating open infrastructure in service to the scholarly community. It sets out 16 points to ensure that the infrastructure on which the scholarly and research communities rely is openly governed, sustainable, and replicable. Each POSI adopter regularly reviews progress, conducts periodic audits, and self-reports how they’re working towards each of the principles.</p>
-<p>In 2020, Crossref’s board <a href="https://www.crossref.org/blog/crossrefs-board-votes-to-adopt-the-principles-of-open-scholarly-infrastructure/">voted</a> to adopt the Principles of Open Scholarly Infrastructure, and we completed our first self-audit. We published our next review in <a href="https://www.crossref.org/blog/posi-fan-tutte/">2022</a>.</p>
-<p>The POSI adopters have continued to review the principles, <a href="https://doi.org/10.54900/n6az7-4xb07" target="_blank">reflecting</a> on the effects of adopting them and providing a <a href="https://openscholarlyinfrastructure.org/posi-v1.1-revisions.pdf" target="_blank">revision to the principles in late 2023</a>. We use the revised principles for this latest review.</p>
-<h2 id="key">Key</h2>
-<p>We use a traffic light system to indicate where we believe we stand against each of the 16 principles. Now with up/down arrows to show any significant movement, and an &lsquo;i&rsquo; where there is something of note with narrative.</p>
-<p><i class='fa fas fa-circle font-small font-crossref-red'></i>
-red indicates we are not fulfilling the principle. <br>
-<i class='fa fas fa-circle font-small font-crossref-yellow'></i>
-yellow indicates we are making progress towards meeting the principle. <br>
-<i class='fa fas fa-circle font-small font-crossref-green'></i>
-green indicates we are fulfilling the principle. <br>
-<i class='fa fas fa-circle-arrow-up font-small font-crossref-yellow'></i>
-or <i class='fa fas fa-circle-arrow-up font-small font-crossref-green'></i>
-means this is a new change, where we&rsquo;ve moved &lsquo;up&rsquo; the traffic lights, in comparison to the previous audit. We would use the same if &lsquo;down&rsquo; ever happens too. <br>
-<i class='fa fas fa-circle-info font-small font-crossref-yellow'></i>
-or <i class='fa fas fa-circle-info font-small font-crossref-green'></i>
-means that something has changed of note and in comparison to the previous audit.</p>
-<div class="shortcode-divwrap darkgrey-highlight">
-<span><h2 id="governance">GOVERNANCE</h2>
-<p><i class='fa fas fa-circle font-small font-crossref-green'></i>
-Coverage across the scholarly enterprise <br>
-<i class='fa fas fa-circle-info font-small font-crossref-yellow'></i>
-Stakeholder governed <br>
-<i class='fa fas fa-circle font-small font-crossref-green'></i>
-Non-discriminatory participation or membership <br>
-<i class='fa fas fa-circle font-small font-crossref-green'></i>
-Transparent governance <br>
-<i class='fa fas fa-circle font-small font-crossref-green'></i>
-Cannot lobby <br>
-<i class='fa fas fa-circle font-small font-crossref-green'></i>
-Living will <br>
-<i class='fa fas fa-circle font-small font-crossref-green'></i>
-Formal incentives to fulfil mission &amp; wind-down</p></span>
-</div>
-<h3 id="whats-changed-with-governance">What’s changed with governance</h3>
-<h4 id="stakeholder-governed">Stakeholder governed</h4>
-<p>We’ve been yellow and we’re still yellow, but it has been improving. In the past, we’ve reported that we are working towards this but we’re not there yet because we didn’t have representation on the board from certain types of members, specifically research funders and research institutions. In the incoming 2025 board class, we have both. Six out of our 16 board seats are held by universities, university presses, or libraries. We also look forward to adding a new research funder, the Austrian Science Fund (FWF), to the board in January.</p>
-<p>None of this, though, is hardcoded into the structure of the board. We extend an open call for board interest; any active member can apply for consideration. The Nominating Committee prepares a slate with a diverse range of candidates and organizations, and it is then up to the membership to elect board members.</p>
-<p>With only 16 board seats and &gt;21,000 members in 160 countries, being fully stakeholder-governed is challenging. Further, there are important contributors to the community that we all rely on who are not eligible for board seats because they are not members, as defined in our <a href="https://www.crossref.org/board-and-governance/bylaws/">by-laws</a>, such as sponsors, service providers, and metadata users.</p>
-<p>We don’t consider this principle fulfilled, and that’s a good thing to keep note of; we must keep aspiring to have a broader, more comprehensive representation of our evolving community. The board continues to discuss stakeholder representation.</p>
-<div class="shortcode-divwrap darkgrey-highlight">
-<span><h2 id="sustainability">SUSTAINABILITY</h2>
-<p><i class='fa fas fa-circle font-small font-crossref-green'></i>
-Time-limited funds are used only for time-limited activities <br>
-<i class='fa fas fa-circle font-small font-crossref-green'></i>
-Goal to generate surplus <br>
-<i class='fa fas fa-circle-up font-small font-crossref-green'></i>
-Goal to create financial reserves <br>
-<i class='fa fas fa-circle font-small font-crossref-green'></i>
-Mission-consistent revenue generation <br>
-<i class='fa fas fa-circle font-small font-crossref-green'></i>
-Revenue based on services, not data</p></span>
-</div>
-<h3 id="whats-changed-with-sustainability">What’s changed with sustainability</h3>
-<h4 id="goal-to-create-financial-reserves">Goal to create financial reserves</h4>
-<p>This was yellow and is now green. In 2023, we met our goal of maintaining a contingency fund of 12 months of operating costs. We also topped up this fund in 2024 to keep pace with our growing operating expenses. The revisions for POSI 1.1 actually removed the specificity of a 12-month timeline, allowing each adopting organisation to set its own goal; in Crossref’s case, 12 months remains appropriate.</p>
-<div class="shortcode-divwrap darkgrey-highlight">
-<span><h2 id="insurance">INSURANCE</h2>
-<p><i class='fa fas fa-circle-info font-small font-crossref-yellow'></i>
-Open source <br>
-<i class='fa fas fa-circle font-small font-crossref-green'></i>
-Open data (within constraints of privacy laws) <br>
-<i class='fa fas fa-circle font-small font-crossref-green'></i>
-Available data (within constraints of privacy laws) <br>
-<i class='fa fas fa-circle-up font-small font-crossref-green'></i>
-Patent non-assertion</p></span>
-</div>
-<h3 id="whats-changed-with-insurance">What’s changed with insurance</h3>
-<h4 id="open-source">Open source</h4>
-<p>This was yellow and still is, but we’re making improvements. In September of this year we migrated our database off of a closed-source solution and onto <a href="https://www.postgresql.org/" target="_blank">PostgreSQL</a>. This has improved the performance of the system and is an important step towards paying down technical debt and moving the system fully into the cloud.</p>
-<h4 id="patent-non-assertion">Patent non-assertion</h4>
-<p>This was yellow and is now green. We confirm that we do not hold any patents, and we have a published <a href="https://www.crossref.org/operations-and-sustainability/patent-policy/">policy</a> on it that is available for inspection and reuse by anyone in the community.</p>
-<h2 id="in-summary">In summary</h2>
-<p>These are the main changes of note for our 2024 POSI update. The summary is that we&rsquo;ve maintained all our greens, and of the four principles that were yellow last time, two have moved to green (financial reserves; patent non-assertion) and two have remained yellow but seen some progress of note (stakeholder governed; open source).</p>
-<figure><img src="https://www.crossref.org/images/blog/2024/crossref-posi-2024.png#floatstart"
-alt="Crossref POSI self-audit in a nutshell" width="75%">
-</figure>
-<p>Please let us have any comments or questions; by commenting here it will add a public record of the discussion on our community forum. Here is an image to share, if needed.</p>
-<p>We continue to learn from the <a href="https://openscholarlyinfrastructure.org/posse/" target="_blank">POSI adopters group</a>&mdash;now numbering 23 organisations&mdash;and the group will soon share a draft of POSI v2 for community comment. We look forward to the ongoing discussions with this group, and others, to keep improving and holding ourselves to account.</p> 
-
-<br> 
-
-<https://www.crossref.org/blog/2024-posi-audit/>
 

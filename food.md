@@ -1,11 +1,39 @@
 ---
 title: food
-updated: 2024-12-14 07:05:03
+updated: 2024-12-15 07:05:13
 ---
 
 # food
 
-(date: 2024-12-14 07:05:03)
+(date: 2024-12-15 07:05:13)
+
+---
+
+## The CIA Was Deeply Involved In The Manson Murders—Want To Learn More? You’ll Need Fresh Coffee From Our Curated Bevy Of Expert Recommendations
+
+date: 2024-12-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. A weekly selection of curated coffees from the Sprudge Roaster's Village. 
+
+<br> 
+
+<https://sprudge.com/the-cia-was-deeply-involved-in-the-manson-murders-want-to-learn-more-youll-need-fresh-coffee-from-our-curated-bevy-of-expert-recommendations-262372.html>
+
+---
+
+## Holiday Food Gifts
+
+date: 2024-12-15, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2017/12/Holiday-Gift-Recipes.jpg"/></div>
+<p>The best homemade Holiday food gift ideas! The holidays are nearly upon us and that means that it is time get cracking and finish up those homemade food gifts! Nothing says I love you like the gift of homemade food products! Top on my list this year has to be the Maple Bourbon Bacon Jam...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/9-homemade-holiday-gift-ideas/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/9-homemade-holiday-gift-ideas/">Holiday Food Gifts</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/9-homemade-holiday-gift-ideas/>
 
 ---
 
@@ -980,30 +1008,4 @@ Creamy, cheesy and cozy—what's not to love about potatoes au gratin Gruyere? T
 <br> 
 
 <https://www.tasteofhome.com/recipes/potatoes-au-gratin-gruyere/>
-
----
-
-## Why Are There So Many Food Recalls Right Now?
-
-date: 2024-12-07, from: Taste of Home
-
-<p>I know I'm not the only one with listeria and E. coli in my newsfeed.</p>
-<p>The post <a href="https://www.tasteofhome.com/article/why-are-there-so-many-food-recalls-right-now/">Why Are There So Many Food Recalls Right Now?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
- 
-
-<br> 
-
-<https://www.tasteofhome.com/article/why-are-there-so-many-food-recalls-right-now/>
-
----
-
-## Candy Cane Danish
-
-date: 2024-12-07, from: Taste of Home
-
-Absolutely everyone will want a slice of this festive, fruit-filled candy cane Danish! 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/candy-cane-danish/>
 

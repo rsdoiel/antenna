@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2024-12-14 07:05:01
+updated: 2024-12-15 07:05:11
 ---
 
 # games
 
-(date: 2024-12-14 07:05:01)
+(date: 2024-12-15 07:05:11)
+
+---
+
+## Discoveries
+
+date: 2024-12-15, updated: 2024-12-13, from: Polygon Website
+
+At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
+
+---
+
+## ​​​​Windblown uses friendship to get around roguelike dread
+
+date: 2024-12-15, updated: 2024-12-13, from: Polygon Website
+
+I have a confession: I’m a rampant roguelike uninstaller. Almost invariably, I reach a point with games like Balatro, Dead Cells, or Hades when, watching my playtime balloon, I feel the need to remove the temptation to play the game. Roguelikes, almost by definition, pursue an addictive structure that reviewers often describe as the “one [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/494888/windblown-multiplayer-roguelike-impressions>
+
+---
+
+## When does the Mythical Island expansion release in Pokémon TCG Pocket?
+
+date: 2024-12-15, updated: 2024-12-13, from: Polygon Website
+
+Mythical Island is the first expansion for Pokémon TCG Pocket, adding dozens of new cards that are sure to shake up the meta (and demolish even more friendships). The expansion pack is tropical island-themed, features twists on cards like Magmar, Exeggcute, and Aerodactyl alongside newcomers like Snivy and Larvesta. A powerful Mew card, though, is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/496420/mythical-island-expansion-release-time-date-est-pst-bst>
+
+---
+
+## Lord of the Rings: War of the Rohirrim makes oliphaunts terrifying again
+
+date: 2024-12-14, updated: 2024-12-14, from: Polygon Website
+
+I thought I had a handle on oliphaunts. You know, the massive war elephants of The Lord of the Rings, as featured thrillingly in Peter Jackson’s Lord of the Rings trilogy? Jackson’s productions brought the creatures to life in terrifying might, and made them the crux of one of the trilogy’s most debated action moments.&#160; [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/lord-of-the-rings/496681/war-rohirrim-movie-elephants-oliphaunts-mumakil>
+
+---
+
+## The best gifts for Fortnite fans
+
+date: 2024-12-14, updated: 2024-12-14, from: Polygon Website
+
+Fortnite is the only video game where you can play as Snoop Dogg and land a headshot on Paul Atreides. While it started as a very different kind of game, it’s known nowadays as a popular battle royale shooter and multimedia melting pot. You can play as characters from franchises spanning gaming, movies, and anime. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/23940369/fortnite-gifts-best-books-games>
+
+---
+
+## Antonblast plays like a Wario Land made by the devil
+
+date: 2024-12-14, updated: 2024-12-13, from: Polygon Website
+
+A couple hours into Antonblast, a new side-scrolling action-platformer that’s inspired by Game Boy Advance-era Wario Land and Crash Bandicoot games, I wondered if I knew what I was really doing. Sure, I’d beaten some of the game’s hard-as-hell bosses and blasted through a handful of challenging levels, yet I felt like I was barely [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/496953/antonblast-impresssions-steam-deck-nintendo-switch>
+
+---
+
+## The best thrillers to watch on Netflix this December
+
+date: 2024-12-14, updated: 2024-12-13, from: Polygon Website
+
+A new month means a new batch of thrillers on Netflix, and a new breakdown from us about which ones are worth your time. And this month, that even includes a new release that’s perfectly timed for the holidays. Every month, we handpick a few of the best thrillers on Netflix that fit the current [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/496473/best-thriller-movies-netflix-watch-december-2024>
 
 ---
 
@@ -513,18 +597,6 @@ Rocksteady Studios’ Suicide Squad game is officially coming to its end. The fo
 
 ---
 
-## Discoveries
-
-date: 2024-12-09, updated: 2024-12-09, from: Polygon Website
-
-At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
-
----
-
 ## How to solve the Fountain of Confession puzzles in Indiana Jones and the Great Circle
 
 date: 2024-12-09, updated: 2024-12-09, from: Polygon Website
@@ -690,64 +762,4 @@ Gigantamax Lapras is the sixth Gigantamax Pokémon introduced to Pokémon Go, an
 <br> 
 
 <https://www.polygon.com/pokemon-go-guide/492425/gigantamax-lapras-counters-tips-max-battle>
-
----
-
-## What happened to the humans in Flow? The director left hints
-
-date: 2024-12-07, updated: 2024-12-07, from: Polygon Website
-
-Gints Zilbalodis’ wordless animated movie Flow follows a little black kitty who’s navigating a flood in a post-apocalyptic, seemingly post-human world. The cat finds a boat, encounters a host of different animals, and slowly sails with them through the rising waters. It’s a tense adventure with absolutely stunning animal animation: The creature characters experience a [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/animation-cartoons/490951/flow-director-humans-what-happened>
-
----
-
-## Lucasarts and Disney’s finest PC gaming gems are in this $10 bundle
-
-date: 2024-12-07, updated: 2024-12-06, from: Polygon Website
-
-Before Lucasarts was acquired by Disney in 2012, it had already developed and published some truly classic games, like The Curse of Monkey Island, Star Wars Empire at War, and Knights of the Old Republic, to name a few. If you’ve never had the chance to experience these games, or want to play them again, [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/good-deals/490918/lucasarts-disney-games-humble-bundle-sale>
-
----
-
-## The best D&#038;D gift ideas for fans, players, and Dungeon Masters, too
-
-date: 2024-12-07, updated: 2024-12-07, from: Polygon Website
-
-Dungeons &#38; Dragons celebrated its 50th anniversary in 2024, and the tabletop role-playing game has never been more popular. If you’re looking to buy a gift for a D&#38;D fan, there are plenty of great options at every price level, whether they’re a seasoned Dungeon Master who’s always looking to throw new challenges at their [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gift-guide/479722/best-dnd-gifts-dungeons-dragons>
-
----
-
-## Why Netflix’s Jentry Chau put Chinese mythic monsters in Texas, of all places
-
-date: 2024-12-07, updated: 2024-12-07, from: Polygon Website
-
-In Netflix’s new animated series Jentry Chau vs. the Underworld, the titular protagonist uses the powers she’s hidden for most of her life to battle demons out of Chinese mythology. But Jentry (Ali Wong) isn’t fighting off these monsters in a big city like New York; all the supernatural hijinks take place in a Texas [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/animation-cartoons/491699/jentry-chau-vs-the-underworld-texas-chinese-mythology>
-
----
-
-## The best movies new to streaming this December
-
-date: 2024-12-07, updated: 2024-12-06, from: Polygon Website
-
-We’re in the final weeks of 2024, and there are still a ton of exciting new releases around the corner to enjoy before the year’s end. The Lord of the Rings: The War of the Rohirrim, Sonic the Hedgehog 3, and Robert Eggers’ Nosferatu, are some of this month’s biggest movies to see in theaters. [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/488868/best-new-movies-netflix-amazon-prime-max-hulu-december-2024>
 

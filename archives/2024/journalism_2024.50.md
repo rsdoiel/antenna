@@ -1,11 +1,24 @@
 ---
 title: journalism
-updated: 2024-12-14 07:05:01
+updated: 2024-12-15 07:05:12
 ---
 
 # journalism
 
-(date: 2024-12-14 07:05:01)
+(date: 2024-12-15 07:05:12)
+
+---
+
+## Mayor Karen Bass, UCLA professor discuss plans to combat LA homelessness at panel
+
+date: 2024-12-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Mayor Karen Bass revealed the inner workings of her efforts to combat homelessness and answered questions about it in downtown Los Angeles on Nov. 13.
+The event &#8211; hosted alongside Jim Newton, a professor in the communication department and editor in chief of the Blueprint magazine &#8211; began with discussion about the results of the Nov. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/14/mayor-karen-bass-ucla-professor-discuss-plans-to-combat-la-homelessness-at-panel/>
 
 ---
 
@@ -1115,118 +1128,4 @@ date: 2024-12-08, from: The Round Up (Pierce College Student Newspaper)
 <br> 
 
 <https://theroundupnews.com/2024/12/07/carnival-on-campus/?utm_source=rss&utm_medium=rss&utm_campaign=carnival-on-campus>
-
----
-
-## Editorial Cartoon: “Finals Rage”
-
-date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
-
-&#160; 
-
-<br> 
-
-<https://dailybruin.com/2024/12/07/editorial-cartoon-finals-rage/>
-
----
-
-## Music Video Roundup: Fall’s female artists zoom into creativity, confidence
-
-date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
-
-As fall quarter comes to a close, it is time to reflect on all that the changing winds of fall brought.
-Amid the music video releases of the past few months were visuals from several female artists. 
-
-<br> 
-
-<https://dailybruin.com/2024/12/07/music-video-roundup-falls-female-artists-zoom-into-creativity-confidence/>
-
----
-
-## Rewinding 2024: Presenting the year’s best songs, from chart-toppers to deep cuts
-
-date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
-
-With the calendar year coming to a close and Apple Music Replay or Spotify Wrapped highlights popping up all around, there is no better time to reflect on all of the excellent music of 2024 than now. 
-
-<br> 
-
-<https://dailybruin.com/2024/12/07/rewinding-2024-presenting-the-years-best-songs-from-chart-toppers-to-deep-cuts/>
-
----
-
-## Raising awareness and advocating for accurate representation on World AIDS  Day
-
-date: 2024-12-07, from: The Sundail (CSUN Student Newspaper)
-
-The CSUN Pride Center hosted a World AIDS Day event to destigmatize the conversation surrounding HIV and AIDS and raise awareness on campus. The event took place on Monday, Dec.... 
-
-<br> 
-
-<https://sundial.csun.edu/188377/news/raising-awareness-and-advocating-for-accurate-representation-on-world-aids-day/>
-
----
-
-## ‘Fish in the Tank’ squares in on depths of intimacy within institution
-
-date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Dec. 7 at 12:45 p.m.</em>
-This weekend, UCLA theater audiences will be invited to dive into the fish tank.
-The student-run Untitled Theatre Company will hold three free staged workshops of the original student play “Fish in the Tank” at Macgowan Hall, with one showing Saturday and two Sunday. 
-
-<br> 
-
-<https://dailybruin.com/2024/12/07/fish-in-the-tank-squares-in-on-depths-of-intimacy-within-institution/>
-
----
-
-## ‘Challengers’ Art and Patrick lookalike competition courts community in Westwood
-
-date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
-
-Westwood served up competition Nov. 24, hosting a lookalike contest based on characters from the 2024 movie “Challengers.”
-The UCLA student-led Art and Patrick lookalike competition brought over 100 people and 25 contestants to Westwood Park. 
-
-<br> 
-
-<https://dailybruin.com/2024/12/07/challengers-art-and-patrick-lookalike-competition-courts-community-in-westwood/>
-
----
-
-## UCLA vs. USC Rivalry Game
-
-date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
-
-On Nov. 23, 2024, the USC Trojans reclaimed the Victory Bell by defeating the UCLA Bruins 19-13 at the Rose Bowl. 
-
-<br> 
-
-<https://dailybruin.com/2024/12/07/ucla-vs-usc-rivalry-game/>
-
----
-
-## UC launches new website to help transfer students navigate application process
-
-date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
-
-The UC released its new Transfer Hub website in October, providing a centralized place for information about transferring to the University.
-The Hub provides direct links to common tools utilized by students looking to transfer to the UC and California State University schools, including the UC Transfer Admission Planner, which helps students plan their courses in alignment with UC requirements. 
-
-<br> 
-
-<https://dailybruin.com/2024/12/06/uc-launches-new-website-to-help-transfer-students-navigate-application-process/>
-
----
-
-## Album review: ROSÉ packages romantic vulnerability, toxicity in solo debut album ‘rosie’
-
-date: 2024-12-07, from: The Daily Bruin (UCLA Student Newspaper)
-
-Embracing a newfound lyrical vulnerability, everything&#8217;s coming up for &#8220;rosie.&#8221;
-The member of K-pop group turned international sensation BLACKPINK, ROS&#201; reignited her career as a soloist with the release of &#8220;rosie&#8221; on Friday. 
-
-<br> 
-
-<https://dailybruin.com/2024/12/06/album-review-ros-packages-romantic-vulnerability-toxicity-in-solo-debut-album-rosie/>
 

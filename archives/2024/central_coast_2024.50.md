@@ -1,11 +1,143 @@
 ---
 title: central coast
-updated: 2024-12-14 07:05:00
+updated: 2024-12-15 07:05:11
 ---
 
 # central coast
 
-(date: 2024-12-14 07:05:00)
+(date: 2024-12-15 07:05:11)
+
+---
+
+## Summerland Afternoon
+
+date: 2024-12-15, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/090620-POD-Cirincione.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Summerland afternoon." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/090620-POD-Cirincione.jpg?w=1670&amp;ssl=1 1670w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/090620-POD-Cirincione.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/090620-POD-Cirincione.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/090620-POD-Cirincione.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/090620-POD-Cirincione.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/090620-POD-Cirincione.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/090620-POD-Cirincione.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/090620-POD-Cirincione.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/090620-POD-Cirincione.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/summerland-afternoon/">Summerland Afternoon</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/summerland-afternoon/>
+
+---
+
+## Construction Along Santa Claus Lane to Provide Beach Access, Safer Streets
+
+date: 2024-12-15, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12122024-Santa-Claus-Lane-CourtesyofCounty-1--scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12122024-Santa-Claus-Lane-CourtesyofCounty-1--scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12122024-Santa-Claus-Lane-CourtesyofCounty-1--scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12122024-Santa-Claus-Lane-CourtesyofCounty-1--scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12122024-Santa-Claus-Lane-CourtesyofCounty-1--scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12122024-Santa-Claus-Lane-CourtesyofCounty-1--scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12122024-Santa-Claus-Lane-CourtesyofCounty-1--scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12122024-Santa-Claus-Lane-CourtesyofCounty-1--scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12122024-Santa-Claus-Lane-CourtesyofCounty-1--scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12122024-Santa-Claus-Lane-CourtesyofCounty-1--scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12122024-Santa-Claus-Lane-CourtesyofCounty-1--scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12122024-Santa-Claus-Lane-CourtesyofCounty-1--scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12122024-Santa-Claus-Lane-CourtesyofCounty-1--scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara County and Caltrans have partnered to complete a project along Santa Claus Lane that will bring beach access, bike lanes, and more parking spaces to the area. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/construction-along-santa-claus-lane-to-provide-beach-access-safer-streets/">Construction Along Santa Claus Lane to Provide Beach Access, Safer Streets</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/construction-along-santa-claus-lane-to-provide-beach-access-safer-streets/>
+
+---
+
+## Stuck Railroad Arms Wreak Havoc at Santa Barbara Railroad Crossings
+
+date: 2024-12-15, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7008-scaled.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7008-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7008-scaled.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7008-scaled.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7008-scaled.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7008-scaled.jpeg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7008-scaled.jpeg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7008-scaled.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7008-scaled.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7008-scaled.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7008-scaled.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7008-scaled.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7008-scaled.jpeg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7008-scaled.jpeg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7008-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7008-scaled.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Alleged vandals have been tampering with the Union Pacific railroad track crossing arms, snarling the arms for several hours, and causing traffic havoc. The most recent incident occurred last Sunday, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/stuck-railroad-arms-wreak-havoc-at-santa-barbara-railroad-crossings/">Stuck Railroad Arms Wreak Havoc at Santa Barbara Railroad Crossings</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/stuck-railroad-arms-wreak-havoc-at-santa-barbara-railroad-crossings/>
+
+---
+
+## Woman Rescued After Vehicle Plunges 100 Feet Off Side of Highway 1
+
+date: 2024-12-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara County firefighters rescued a woman who drove a vehicle over the side of Highway 1 near Vandenberg Village." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara County firefighters rescued a woman who crashed a vehicle over the side of the road near Vandenberg Village on Saturday. Capt. Scott Safechuck of the Santa Barbara County [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/woman-rescued-after-vehicle-crashes-100-feet-off-side-of-highway-1/">Woman Rescued After Vehicle Plunges 100 Feet Off Side of Highway 1</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/woman-rescued-after-vehicle-crashes-100-feet-off-side-of-highway-1/>
+
+---
+
+## Ostrich View
+
+date: 2024-12-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="An ostrich checks out the view from Cape Point, South Africa." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/ostrich-view/">Ostrich View</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/ostrich-view/>
+
+---
+
+## Buellton Gets New Mayor; Council Plots How to Fill Vacancy
+
+date: 2024-12-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A standing-room-only crowd filled the Buellton Council Chambers to celebrate the city’s new mayor before the panel debated how to fill the vacancy created by David Silva’s election to the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/buellton-gets-new-mayor-council-plots-how-to-fill-vacancy/">Buellton Gets New Mayor; Council Plots How to Fill Vacancy</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/buellton-gets-new-mayor-council-plots-how-to-fill-vacancy/>
+
+---
+
+## 4 People Injured in Collision on Hollister Avenue Near Santa Barbara
+
+date: 2024-12-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Four people were injured, one seriously, in a multi-vehicle collision Friday night on Hollister Avenue near Santa Barbara." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Serious injuries were reported Friday night in a multi-vehicle collision on Hollister Avenue near Santa Barbara. Emergency personnel were dispatched shortly before 8 p.m. to the crash on Hollister just [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/4-people-injured-in-collision-on-hollister-avenue-near-santa-barbara/">4 People Injured in Collision on Hollister Avenue Near Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/4-people-injured-in-collision-on-hollister-avenue-near-santa-barbara/>
+
+---
+
+## Surfliner Inn Wins Preliminary Approval from Carpinteria Architectural Review Board
+
+date: 2024-12-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Carpinteria Architectural Review Board granted preliminary approval to the 36-room Surfliner Inn at 499 Linden Ave. on Thursday despite numerous concerns from the community. Preliminary approval was granted with [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/surfliner-inn-wins-preliminary-approval-from-carpinteria-architectural-review-board/">Surfliner Inn Wins Preliminary Approval from Carpinteria Architectural Review Board</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/surfliner-inn-wins-preliminary-approval-from-carpinteria-architectural-review-board/>
+
+---
+
+## Organizers Cancel Orcutt Christmas Parade Due to Rainy Forecast
+
+date: 2024-12-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Organizers have called off the 62nd Annual Orcutt Christmas Parade due to forecasts calling for rain. The procession had been set to travel through Old Town Orcutt starting at noon [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/organizers-cancel-orcutt-christmas-parade-due-to-rainy-forecast/">Organizers Cancel Orcutt Christmas Parade Due to Rainy Forecast</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/organizers-cancel-orcutt-christmas-parade-due-to-rainy-forecast/>
 
 ---
 
@@ -475,76 +607,4 @@ date: 2024-12-08, from: Newshawk, the freshest news in Santa Barbara County
 <br> 
 
 <https://www.noozhawk.com/solvang-welcomes-christmas-season-with-julefest-parade/>
-
----
-
-## Sunrise in Santa Barbara
-
-date: 2024-12-07, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sunrise in Santa Barbara." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1024-POD-Tracie-Doordan.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The post <a href="https://www.noozhawk.com/sunrise-in-santa-barbara-2/">Sunrise in Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/sunrise-in-santa-barbara-2/>
-
----
-
-## Motorcyclist Dies After Crash on Southbound Highway 101 in Montecito
-
-date: 2024-12-07, from: Newshawk, the freshest news in Santa Barbara County
-
-<p>A motorcyclist was killed Friday night in a crash on Highway 101 in Montecito, according to the California Highway Patrol. Emergency personnel were dispatched to the incident on the southbound [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/motorcyclist-dies-after-crash-on-southbound-highway-101-in-montecito/">Motorcyclist Dies After Crash on Southbound Highway 101 in Montecito</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/motorcyclist-dies-after-crash-on-southbound-highway-101-in-montecito/>
-
----
-
-## Christmas Spirit Shines Bright for Lompoc Valley Children’s Parade
-
-date: 2024-12-07, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The Polar Express, an entry from the Lompoc Federal Correctional Institution employees, makes it way along North H Street for the Lompoc Valley Children&#039;s Christmas Season Parade on Friday night." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120624-Lompoc-Parade1a-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Participants in the Lompoc Valley Children’s Christmas Season Parade displayed plenty of holiday spirit as they traveled along the route Friday night. Boasting more than 70 entries as it started [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/christmas-spirit-shines-bright-for-lompoc-valley-childrens-parade/">Christmas Spirit Shines Bright for Lompoc Valley Children&#8217;s Parade</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/christmas-spirit-shines-bright-for-lompoc-valley-childrens-parade/>
-
----
-
-## Orcutt Financial Adviser Charged with Wire Fraud in New Federal Case
-
-date: 2024-12-07, from: Newshawk, the freshest news in Santa Barbara County
-
-<p>A former Santa Maria Valley financial adviser accused of defrauding multiple clients and a business now faces one federal criminal charge of wire fraud related to the allegations that amounted [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/orcutt-financial-adviser-charged-with-wire-fraud-in-new-federal-case/">Orcutt Financial Adviser Charged with Wire Fraud in New Federal Case</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/orcutt-financial-adviser-charged-with-wire-fraud-in-new-federal-case/>
-
----
-
-## Westmont College Engineering Students Put Their Hand-Built Cars to the Test
-
-date: 2024-12-07, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Engineering students at Westmont College, who spent the semester building remote-control cars from scratch, participated in a series of races and obstacle courses this week designed to test the skills they learned in class." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12022024-Westmont-RC-Race-DG-04.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Students, start your controllers. Westmont College engineering students this week were given the chance to put their skills to the test by racing remote-control cars through a series of obstacles [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/westmont-engineering-students-put-car-building-skills-to-the-test/">Westmont College Engineering Students Put Their Hand-Built Cars to the Test</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/westmont-engineering-students-put-car-building-skills-to-the-test/>
 
