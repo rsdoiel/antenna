@@ -1,11 +1,97 @@
 ---
 title: health
-updated: 2024-12-16 07:06:21
+updated: 2024-12-17 07:05:25
 ---
 
 # health
 
-(date: 2024-12-16 07:06:21)
+(date: 2024-12-17 07:05:25)
+
+---
+
+## Localized provoked vulvodynia as an immune-mediated inflammatory disease: rationale for a new line of research
+
+date: 2024-12-17, from: Frontiers in Cellular and Infection Microbiology
+
+Localized provoked vulvodynia (LPV), also called vulvar vestibulitis or provoked vestibulodynia, is a major cause of dyspareunia that severely impacts sexual health. At the tissue level, lymphocytic inflammation and hyperinnervation are characteristic pathological features, explaining the main symptoms and signs. A recent experimental animal study suggests that the histopathological findings of LPV may be due to mucosal CD4 Th17 immune responses to microbial antigens. We hypothesize that LPV is an immune-mediated inflammatory disease and challenge the concept of LPV as a chronic pain syndrome of unknown cause. Since most treatment modalities currently used in LPV are no better than placebo, we therefore warrant future research investigating the possible presence of CD4 Th17 cells and IL17 cytokine in affected tissues together with treatment trials that include inhibitors of the IL17 pathway. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1505845>
+
+---
+
+## Helicobacter pylori resistance in Hainan Province, China: investigating phenotypes and genotypes through whole-genome sequencing
+
+date: 2024-12-17, from: Frontiers in Cellular and Infection Microbiology
+
+Helicobacter pylori is increasingly resistant to antibiotics, significantly lowering eradication rates and posing a major public health challenge. This study investigated the distribution of antibiotic-resistant phenotypes and genotypes of H. pylori in Hainan Province. It determined the minimum inhibitory concentrations (MICs) of six antibiotics using the E-test method and detected resistance genes via Sanger sequencing. Furthermore, we compared resistance detection based on phenotypic analysis and whole genome sequencing (WGS) across 19 clinical isolates of H. pylori. A total of 140 H. pylori strains were isolated. The resistance rates to levofloxacin (LEV), clarithromycin (CLA), and metronidazole (MTZ) were 37.9%, 40.0%, and 93.6%, respectively. Notably, only 3.3% of the strains were susceptible to all six antibiotics. Multidrug-resistant strains accounted for 25.0% of the total, with no resistance detected to amoxicillin (AMX), tetracycline (TET), or furazolidone (FR) during the study period. Genotypic resistance to CLA and LEV showed near-perfect concordance with phenotypic resistance, with Kappa values of 0.910 and 0.938, respectively. Although all isolates were phenotypically sensitive to TET, 16 exhibited a mutation in the 16S rRNA gene (A926G). All strains harboring the R16H/C mutation and truncated rdxA were resistant to metronidazole, demonstrating a specificity of 100%. Therefore, FR, AMX, and TET are recommended as suitable empirical treatment options for H. pylori infections in this region. Genotypic analysis provides a reliable method for predicting resistance to CLA and LEV. WGS proves to be a valuable tool for identifying novel resistance loci in H. pylori and contributes to the phylogenetic classification of strains. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1505166>
+
+---
+
+## Metabarcoding analysis of oral microbiome during pregnancy
+
+date: 2024-12-17, from: Frontiers in Cellular and Infection Microbiology
+
+Pregnancy is a dynamic physiological process involving significant hormonal, immune, and metabolic changes to support fetal growth and development. This study investigates the changes in salivary microbiome and biochemical markers from the second to the third trimester of pregnancy. Saliva samples were collected from 45 pregnant women enrolled in the Qatar Birth Cohort study at two time points (second and third trimesters). DNA was extracted and subjected to 16S rRNA gene sequencing using Oxford Nanopore Technology. Microbial diversity and taxonomic analyses were performed, along with correlation analyses between microbial abundance and clinical parameters. Biochemically, significant increases in BMI, pulse rate, HbA1c, LDL, total cholesterol, and triglycerides were observed in the third trimester compared to the second. Microbial diversity analysis revealed significant changes in microbial richness and composition. Taxonomy analysis showed a significant 3-fold increase in Bacteroidota. Also, a significant decline in Selenomonas and a significant increase in Veillonella, specifically Veillonella dispar and Veillonella atypica, as well as an increase in Granulicatella were observed in the third trimester, along with a significant decrease in Streptococcus sanguinis. Correlation analysis during the second trimester revealed positive associations between BMI, cholesterol, LDL, and Selenomonas, and negative correlations with Streptococcus and Gemella. In the third trimester, BMI was negatively correlated with Campylobacter, glucose levels were negatively correlated with Neisseria, and triglyceride levels were negatively correlated with Prevotella. These findings highlight significant biochemical and microbial shifts during pregnancy, underscoring the importance of monitoring oral health and metabolic changes in pregnant women. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1477703>
+
+---
+
+## Polymorphonuclear myeloid-derived suppressor cells regulates immune recovery during HIV infection through PD-L1 and TGF-β pathways
+
+date: 2024-12-17, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundAlthough MDSCs are widely recognized for their immunoinhibitory effects in pathological conditions, their function during HIV infection particularly within the mechanisms underlying incomplete immune recovery remains elusive.MethodsWe conducted a cross-sectional study in which 30 healthy controls and 62 HIV-1-infected subjects [31 immunological non-responders (INRs) and 31 immunological responders (IRs)] were selected. The proportion of MDSCs was determined in each category of participants. Using flow cytometry and real-time PCR, immune regulatory molecules (including PD-L1, ARG1, iNOS, IL-10, TGF-β, and IDO) that are relevant for MDSCs activity were quantified. Furthermore, we investigated the impact of the blockade of PD-L1 and TGF-β pathways on MDSCs and their effects on CD4+ T-cells using in vitro functional experiments.ResultsPMN-MDSCs are more abundant and are negatively correlated to CD4 counts in HIV-infected individuals. In addition, PMN-MDSCs suppress CD4+ T-cell proliferation and IFN-γ production in INRs. Furthermore, correlations were found between PD-L1 expression on PMN-MDSCs and PD-1+ CD4+ T-cells. TGF-β expression on PMN-MDSCs was likewise enhanced in INRs. Importantly, inhibiting both PD-L1 and TGF-β pathways had a synergistic impact on restoring CD4+ T-cell activity in vitro.ConclusionsPMN-MDSCs expansion inhibits CD4+ T-cell responses. We suggest that targeting PD-L1 and TGF-β pathways together may significantly improve immune recovery in INRs. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1516421>
+
+---
+
+## The clinical indexes and immunological status of HIV/AIDS patients undergoing different highly active antiretroviral treatments
+
+date: 2024-12-17, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveThis study aims to investigate the differences of clinical indices in HIV patients between three different first-line antiretroviral treatment strategies in Yunnan Province, China. Furthermore, the hematologic system, liver function, kidney function, blood lipid levels of HIV patients and its association with CD4+ count, CD8+ count, CD4/CD8 ratio and antiretroviral treatment were also assessed.MethodsThis retrospective cohort study included 81 participants who underwent highly active antiretroviral treatment from September 2009 to September 2019. Baseline sociodemographic and clinical characteristics were collected from each study participant. Routine blood tests, liver and renal function, lipid levels as well as lymphocyte subset counts were measured and recorded for evaluation before and 3, 6, 9, and 12 months after the treatment. Paired t-test was used to compare clinical indices changes after antiretroviral treatment. Univariate linear regression was performed to determine the association between clinical indices and CD4+ count, CD8+ count, CD4/CD8 ratio and antiretroviral treatment.ResultThere were no statistical differences in baseline demographic and clinical characteristics in either treatment group. Compared with the initiation of HARRT treatment, the CD4+ count(p < 0.001), CD4/CD8 ratio(p < 0.001) and PLT(p < 0.001) were increased in the three treatment groups. The TC(p < 0.01) and TG(p < 0.05) were increased in 3TC+AZT+EFV group after treatment. The ALT(p < 0.05), AST(p < 0.01) were decreased in 3TC+EFV+TDF group after treatment. The study indicated statistical differences in CD4+ count (p < 0.001), CD8+ count (p < 0.001), and CD4/CD8 ratio (p < 0.001) in the three treatment cohorts. Furthermore, a strong positive correlation was observed between WBC (p < 0.001), platelet (p < 0.001), Hb (p < 0.001), and CD4+ count in the three treatment cohorts. Moreover, ALT and AST were negatively associated with CD4+ count in the 3TC + AZT + EFV group. Whereas WBC were positively correlated with CD8+ count in the three treatment methods. In addition, platelet and TG were positively correlated with CD8+ count in the 3TC + EFV + TDF. The study also indicated that TC was positively associated with CD8+ count in the 3TC + AZT + NVP group. Furthermore, WBC was negatively related to CD4/CD8 ratio in the 3TC + EFV + TDF group. The platelet level analysis revealed a positive, while TG indicated a negative association with CD4/CD8 ratio in the 3TC + AZT + NVP group. Moreover, ALT and AST were negatively correlated with the CD4/CD8 ratio in the 3TC + AZT + EFV and 3TC + AZT + NVP groups.ConclusionThe results showed that HIV/AIDS patients treated with different first-line antiretroviral treatment strategies had different hematopoietic, liver, renal and immune system functions. Furthermore, some clinical indicators such as WBC, PLT, TC, TG, and ALT could predict the CD4+ count, CD8+ count, CD4/CD8 ratio levels and recuperation of HIV/AIDS patients, therefore, should be monitored by clinicians. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1436123>
+
+---
+
+## Deciphering pathogenicity and virulence of the first Staphylococcus debuckii isolate from diabetic foot osteomyelitis
+
+date: 2024-12-17, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThis study identifies Staphylococcus debuckii as a new coagulase-negative staphylococcal species isolated from diabetic foot osteomyelitis (DFOM) and provides an in-depth analysis of its pathogenic and virulence profile, as well as demonstrating its potential to cause infection.MethodsThe S. debuckii NSD001 strain was examined for its planktonic growth, biofilm production, and phagocytosis rates in murine macrophages compared to S. aureus NSA739. Additionally, persistence and replication within human osteoblasts were investigated, while the zebrafish embryo model was employed to assess virulence. Genomic sequencing and bioinformatic analysis were also conducted to identify genes associated with virulent potential.Results and DiscussionS. debuckii NSD001 exhibited robust planktonic growth and significant biofilm production, highlighting its capacity to initiate and maintain an infection, and demonstrated similar rates of phagocytosis as S. aureus NSA739 in murine macrophages, suggesting a mechanism for evading initial host defenses. The strain persisted and replicated within human osteoblasts, indicative of a strategy for intracellular survival and facilitation of chronic osteomyelitis. The zebrafish embryo model revealed a slower, yet fatal, virulence profile for S. debuckii NSD001 compared to the rapid lethality induced by S. aureus NSA739. Genomic sequencing and bioinformatic analysis uncovered various genes corroborating its virulence. S. debuckii NSD001 poses a significant concern in DFOM due to its ability to form biofilms and survive within host cells, presenting challenges for current treatment strategies. This underscores the need for updated clinical protocols and increased awareness among healthcare professionals to effectively manage infections caused by this emerging pathogen. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1489280>
+
+---
+
+## Does Smoking Cause Kidney Stones? [from a kidney stone dietitian]
+
+date: 2024-12-16, from: The Kidney Dietitian
+
+<p>Smoking increases the of many chronic diseases such as heart disease, diabetes, stroke and cancer. It is reasonable to question if smoking causes kidney stones too! There is some research to show that smoking might cause kidney stones. Let&#8217;s dive into it! What is a Kidney Stone? A kidney stone is a crystallization of molecules [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/does-smoking-cause-kidney-stones/">Does Smoking Cause Kidney Stones? [from a kidney stone dietitian]</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<br> 
+
+<https://www.thekidneydietitian.org/does-smoking-cause-kidney-stones/>
 
 ---
 

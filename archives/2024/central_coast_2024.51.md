@@ -1,11 +1,154 @@
 ---
 title: central coast
-updated: 2024-12-16 07:06:19
+updated: 2024-12-17 07:05:23
 ---
 
 # central coast
 
-(date: 2024-12-16 07:06:19)
+(date: 2024-12-17 07:05:23)
+
+---
+
+## Late Fall in the Rockies
+
+date: 2024-12-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102424-POD-Joyce-Dudley.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Late fall in the Colorado Rocky Mountains." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102424-POD-Joyce-Dudley.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102424-POD-Joyce-Dudley.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102424-POD-Joyce-Dudley.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102424-POD-Joyce-Dudley.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102424-POD-Joyce-Dudley.webp?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102424-POD-Joyce-Dudley.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102424-POD-Joyce-Dudley.webp?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102424-POD-Joyce-Dudley.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102424-POD-Joyce-Dudley.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102424-POD-Joyce-Dudley.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102424-POD-Joyce-Dudley.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102424-POD-Joyce-Dudley.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/late-fall-in-the-rockies/">Late Fall in the Rockies</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/late-fall-in-the-rockies/>
+
+---
+
+## Vandenberg SFB Launches Environmental Study for 100 SpaceX Liftoffs a Year
+
+date: 2024-12-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-SpaceX-EIS-SLC6-cont.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A United Launch Alliance Delta IV Medium rocket sits on the pad at Space Launch Comple-6 in 2012. The Vandenberg facility with a long history is set to become home to a second SpaceX Falcon launch site on the West Coast." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-SpaceX-EIS-SLC6-cont.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-SpaceX-EIS-SLC6-cont.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-SpaceX-EIS-SLC6-cont.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-SpaceX-EIS-SLC6-cont.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-SpaceX-EIS-SLC6-cont.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-SpaceX-EIS-SLC6-cont.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-SpaceX-EIS-SLC6-cont.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-SpaceX-EIS-SLC6-cont.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-SpaceX-EIS-SLC6-cont.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>With SpaceX planning to use a second launch site and boost the number of West Coast liftoffs to 100 annually, Vandenberg Space Force Base has kicked off the environmental assessment [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/vandenberg-sfb-launches-environmental-study-for-100-spacex-liftoffs-a-year/">Vandenberg SFB Launches Environmental Study for 100 SpaceX Liftoffs a Year</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/vandenberg-sfb-launches-environmental-study-for-100-spacex-liftoffs-a-year/>
+
+---
+
+## The Hidden Costs of What We Eat
+
+date: 2024-12-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Shifting our diets to be more sustainable can be a powerful way for each of us to address both climate change and global food insecurity, however making such adjustments at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/revealing-hidden-costs-of-what-we-eat/">The Hidden Costs of What We Eat</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/revealing-hidden-costs-of-what-we-eat/>
+
+---
+
+## Jennifer Smith Brings Wealth of Public Service Experience to Goleta Council
+
+date: 2024-12-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120524-Jennifer-Smith-1-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Jennifer Smith, who has served on the Goleta Planning Commission and is the executive director of the Legal Aid Foundation of Santa Barbara County, is set to be sworn in Tuesday to the Goleta City Council." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120524-Jennifer-Smith-1-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120524-Jennifer-Smith-1-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120524-Jennifer-Smith-1-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120524-Jennifer-Smith-1-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120524-Jennifer-Smith-1-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120524-Jennifer-Smith-1-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120524-Jennifer-Smith-1-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120524-Jennifer-Smith-1-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120524-Jennifer-Smith-1-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>When Jennifer Smith was a student at UC Santa Barbara, she watched Goleta officially become a city. Now, 22 years later, she’s joining the City Council. Smith has served on [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/jennifer-smith-brings-wealth-of-public-service-experience-to-goleta-council/">Jennifer Smith Brings Wealth of Public Service Experience to Goleta Council</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/jennifer-smith-brings-wealth-of-public-service-experience-to-goleta-council/>
+
+---
+
+## 4 Former Dos Pueblos Student Athletes Sue School District Over Alleged Sexual Abuse
+
+date: 2024-12-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Four former Dos Pueblos High School student athletes have filed a civil complaint against the Santa Barbara Unified School District, alleging that the district’s negligence enabled sexual assault, molestation and [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/former-dos-pueblos-students-sue-district-over-alleged-sexual-abuse/">4 Former Dos Pueblos Student Athletes Sue School District Over Alleged Sexual Abuse</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/former-dos-pueblos-students-sue-district-over-alleged-sexual-abuse/>
+
+---
+
+## Gerald Carpenter: Sing Handel With Your Friends and Neighbors
+
+date: 2024-12-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Phillip McLendon — conductor, founder, educator, and maestro of maestros — will lead his 39th Messiah Sing Along, 7:30 p.m. Tuesday, Dec. 17 at the First Presbyterian Church, 21 E. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/gerald-carpenter-sing-handel-with-your-friends-and-neighbors/">Gerald Carpenter: Sing Handel With Your Friends and Neighbors</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/gerald-carpenter-sing-handel-with-your-friends-and-neighbors/>
+
+---
+
+## City of Lompoc Posts Holiday Closure and Service Information
+
+date: 2024-12-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Lompoc City Hall and other city facilities will be closed to the public Monday, Dec. 23 through Friday, Dec. 27, and Wednesday, Jan. 1 for New Year’s Day. The holiday [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/city-of-lompoc-posts-holiday-closure-and-service-information/">City of Lompoc Posts Holiday Closure and Service Information</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/city-of-lompoc-posts-holiday-closure-and-service-information/>
+
+---
+
+## SpaceX Launch of NRO Payload Planned for Early Tuesday at Vandenberg SFB
+
+date: 2024-12-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A Falcon 9 rocket will deliver a gift of more spy satellites into orbit as soon as early Tuesday from Vandenberg Space Force Base. The SpaceX rocket’s departure may occur [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/spacex-launch-of-nro-payload-planned-for-early-tuesday-at-vandenberg-sfb/">SpaceX Launch of NRO Payload Planned for Early Tuesday at Vandenberg SFB</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/spacex-launch-of-nro-payload-planned-for-early-tuesday-at-vandenberg-sfb/>
+
+---
+
+## Strong Winds, Possible PSPS Expected in Parts of Santa Barbara County
+
+date: 2024-12-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Some Santa Barbara County residents may want to prepare for strong winds and possible power outages. The National Weather Service issued a wind advisory on Monday for the southwestern coast [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/strong-winds-possible-psps-expected-in-parts-of-santa-barbara-county/">Strong Winds, Possible PSPS Expected in Parts of Santa Barbara County</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/strong-winds-possible-psps-expected-in-parts-of-santa-barbara-county/>
+
+---
+
+## 1 Dead, 2 Injured in 3-Vehicle Crash East of Orcutt
+
+date: 2024-12-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-clark-avenue-vehicle-crash-1-sbcfire.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="One person was killed and two more were injured in a vehicle crash east of Orcutt Monday afternoon, Santa Barbara County Fire officials said." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-clark-avenue-vehicle-crash-1-sbcfire.jpg?w=1536&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-clark-avenue-vehicle-crash-1-sbcfire.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-clark-avenue-vehicle-crash-1-sbcfire.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-clark-avenue-vehicle-crash-1-sbcfire.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-clark-avenue-vehicle-crash-1-sbcfire.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-clark-avenue-vehicle-crash-1-sbcfire.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121624-clark-avenue-vehicle-crash-1-sbcfire.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>One person was killed and two others were critically injured in a three-vehicle crash east of Orcutt on Monday afternoon. At approximately 2:15 p.m., personnel from the Santa Barbara County [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/1-dead-2-injured-in-3-vehicle-crash-east-of-orcutt/">1 Dead, 2 Injured in 3-Vehicle Crash East of Orcutt</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/1-dead-2-injured-in-3-vehicle-crash-east-of-orcutt/>
 
 ---
 

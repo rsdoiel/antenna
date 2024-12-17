@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-12-16 07:06:20
+updated: 2024-12-17 07:05:24
 ---
 
 # libraries
 
-(date: 2024-12-16 07:06:20)
+(date: 2024-12-17 07:05:24)
 
 ---
 
@@ -18,6 +18,20 @@ Llamas-Dios, Marta Inés; Jiménez-Gavilán, Pablo; Corada-Fernández, Carmen; O
 <br> 
 
 <http://hdl.handle.net/20.500.11850/708431>
+
+---
+
+## Research Integrity was the Leading Topic of Conversation at the STM Innovation Day
+
+date: 2024-12-17, from: Scholarly Kitchen
+
+<p>At the start  of every December, STM hosts their innovation and integrity days in London. This year, research integrity was the focus of both days, reflecting growing interest and concern in the publishing industry.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/12/17/research-integrity-was-the-leading-topic-of-conversation-at-the-stm-innovation-day/">Research Integrity was the Leading Topic of Conversation at the STM Innovation Day</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/12/17/research-integrity-was-the-leading-topic-of-conversation-at-the-stm-innovation-day/>
 
 ---
 

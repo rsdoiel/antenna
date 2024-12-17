@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-12-16 07:06:22
+updated: 2024-12-17 07:05:26
 ---
 
 # craft
 
-(date: 2024-12-16 07:06:22)
+(date: 2024-12-17 07:05:26)
+
+---
+
+## Fall Collection 2024
+
+date: 2024-12-17, from: Guild of American Luthiers
+
+Articles Online Fall Collection 2024 GAL Members – Login first before clicking on article titles to read the full articles. Not a 2024 member? You can join or renew here. &#160; Radiation from Lower Guitar Modes by Graham Caldersmith (1985) Caldersmith discusses the efficiency and pattern of sound radiation in the classic guitar produced by [&#8230;] 
+
+<br> 
+
+<https://luth.org/fall-collection-2024/>
 
 ---
 

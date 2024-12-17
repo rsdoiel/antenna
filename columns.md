@@ -1,11 +1,279 @@
 ---
 title: columns
-updated: 2024-12-16 07:06:19
+updated: 2024-12-17 07:05:23
 ---
 
 # columns
 
-(date: 2024-12-16 07:06:19)
+(date: 2024-12-17 07:05:23)
+
+---
+
+##  Apple has renewed Silo for two more seasons. The show will end... 
+
+date: 2024-12-17, updated: 2024-12-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045870-apple-has-renewed-silo-fo>
+
+---
+
+## Alpine Linux 3.21: Lean, mean, and LoongArch-ready
+
+date: 2024-12-17, updated: 2024-12-17, from: Liam Proven's articles at the Register
+
+<h4>A cool mountain breeze blowing in after the new LTS kernel</h4>
+      <p>A fresh release of the minimalist and very lightweight Alpine Linux is here, with support for Chinese LoongArch64 CPUs.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/12/17/alpine_linux_321/>
+
+---
+
+## Why did ABC cave in to Trump?
+
+date: 2024-12-17, from: Robert Reich's blog
+
+It didn&#8217;t need to. It shouldn&#8217;t have. But there&#8217;s a big reason why it thought it must. 
+
+<br> 
+
+<https://robertreich.substack.com/p/why-did-abc-cave-in-to-trump>
+
+---
+
+## December 16, 2024 
+
+date: 2024-12-17, from: Heather Cox Richardson blog
+
+Today, President Joe Biden designated a new national monument in honor of Frances Perkins, secretary of labor under President Franklin Delano Roosevelt. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-16-2024>
+
+---
+
+## ‘The Developers Who Came in From the Cold’
+
+date: 2024-12-17, updated: 2024-12-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://weblog.rogueamoeba.com/2024/12/13/the-developers-who-came-in-from-the-cold/>
+
+---
+
+##  Trailer for The White Lotus Season Three 
+
+date: 2024-12-16, updated: 2024-12-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/trailer-for-the-white-lotus-season-three>
+
+---
+
+## Getting beyond ProcessExecutionErrors when installing Ubuntu on arm64
+
+date: 2024-12-16, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Getting beyond ProcessExecutionErrors when installing Ubuntu on arm64</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Currently there are precious few SystemReady Arm computers—computers like the <a href="https://system76.com/desktops/thelio-astra-a1-n1/configure">System76 Thelio Astra</a> I was sent recently to test.</p>
+
+<p>The level or 'band' of <a href="https://developer.arm.com/Architectures/Arm%20SystemReady%20Band">SystemReady SR</a> used by modern Ampere-based arm64 workstations and servers means you can install any out-of-the-box Linux distributions, as long as they provide an arm64-compatible installer.</p>
+
+<p>Ubuntu has some of the most complete support for arm64, so I went to download a Live CD ISO I could flash to a USB stick, to install on my test Thelio Astra. For server installs (with no GUI), either 4k or 64k page sizes, there are easily-findable ISOs:</p>
+
+<ul>
+<li><a href="https://ubuntu.com/download/server/arm">Ubuntu Server for Arm</a></li>
+</ul>
+
+<p>However, for desktop, you can only get it via daily build downloads:</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-12-16T17:27:18-06:00" title="Monday, December 16, 2024 - 17:27" class="datetime">December 16, 2024</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2024/getting-beyond-processexecutionerrors-when-installing-ubuntu-on-arm64>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-16, from: Dave Winer's Scripting News)
+
+Interesting <a href="https://www.nytimes.com/2024/12/15/podcasts/the-daily/ai-hollywood-movies-cgi.html">episode</a> of the Daily podcast about AI in Hollywood. They specifically mention a <a href="https://en.wikipedia.org/wiki/Here_(2024_film)">new movie</a> starring Tom Hanks and Robin Wright, with bodies and faces edited by AI to be various ages other than what they are (mid-late 60s). The movie <a href="https://en.wikipedia.org/wiki/Here_(2024_film)">Here</a>, was rated not too great by <a href="https://www.metacritic.com/movie/here-2024/">various critics</a> including the NYT. 
+
+<br> 
+
+<http://scripting.com/2024/12/16.html#a231138>
+
+---
+
+## Oh, Never Mind
+
+date: 2024-12-16, from: Dan Rather's Steady
+
+You didn&#8217;t really think he was going to lower prices, did you? 
+
+<br> 
+
+<https://steady.substack.com/p/oh-never-mind>
+
+---
+
+##  Speaking of Tiny Desk Concerts, the most popular set of 2024 (18M... 
+
+date: 2024-12-16, updated: 2024-12-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045863-speaking-of-tiny-desk-con>
+
+---
+
+## A good (fast) coastal ride
+
+date: 2024-12-16, from: Matt Haughey blog
+
+<p>I didn&apos;t hear about it when this happened this past summer live, but I&apos;ve been really digging the long-form videos that <a href="https://www.instagram.com/vcadventuretime/?ref=a.wholelottanothing.org" rel="noreferrer">the Vegan Cyclist</a> guy has been posting once a day to his YouTube channel for the past week. </p><p>Here&apos;s where you&apos;d</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/a-good-fast-coastal-ride/>
+
+---
+
+## December 15, 2024
+
+date: 2024-12-16, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153230403/6b8ef1e64142c28338ac663a43e8669f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153230403/6b8ef1e64142c28338ac663a43e8669f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-15-2024-541>
+
+---
+
+## Google Fi Still Doesn’t Fully Support RCS Either
+
+date: 2024-12-16, updated: 2024-12-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://support.google.com/fi/answer/6188337?hl=en&co=GENIE.Platform%3DAndroid>
+
+---
+
+## Social Media Algorithms Are Cultural Blandifiers
+
+date: 2024-12-16, updated: 2024-12-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=aToMV4wL2wc>
+
+---
+
+##  Actual things my parents said while watching my son&#8217;s swimming lesson. &#8220;MOM:... 
+
+date: 2024-12-16, updated: 2024-12-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045859-actual-things-my-parents->
+
+---
+
+##  HPV vaccines have been linked to a steep drop in cervical cancer... 
+
+date: 2024-12-16, updated: 2024-12-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045862-hpv-vaccines-have-been-li>
+
+---
+
+##  Billie Eilish&#8217;s Tiny Desk Concert 
+
+date: 2024-12-16, updated: 2024-12-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/billie-eilishs-tiny-desk-concert>
+
+---
+
+## Wah Ustad! Zakir Hussain’s Lasting Lessons
+
+date: 2024-12-16, from: Om Malik blog
+
+It’s a hell of a noise to be woken up by your continuous glucose monitoring app sending an alert for a hypoglycemic event. As a diabetic, you’ve got to pay attention to this — get up, take a quick sip of apple juice, and wait for things to get better. While you’re doing that, you &#8230; 
+
+<br> 
+
+<https://om.co/2024/12/16/wah-ustad-zakir-hussains-lasting-lessons/>
+
+---
+
+##  &#8220;Americans spend more years being unhealthy than people in any other country.&#8221;... 
+
+date: 2024-12-16, updated: 2024-12-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045857-americans-spend-more-year>
+
+---
+
+##  Isle of Tune: a web-based game where you build streetscapes that play... 
+
+date: 2024-12-16, updated: 2024-12-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045858-isle-of-tune-a-web-based>
+
+---
+
+##  From an old version of the Wikipedia page for Warren G and... 
+
+date: 2024-12-16, updated: 2024-12-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045843-from-an-old-version-of>
 
 ---
 

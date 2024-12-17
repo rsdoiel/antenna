@@ -1,11 +1,986 @@
 ---
 title: north america
-updated: 2024-12-16 07:06:18
+updated: 2024-12-17 07:05:22
 ---
 
 # north america
 
-(date: 2024-12-16 07:06:18)
+(date: 2024-12-17 07:05:22)
+
+---
+
+## Keith Kellogg as Trump's Ukraine-Russia envoy: Right man for the mission?
+
+date: 2024-12-17, from: VOA News USA
+
+President-elect Donald Trump has chosen retired Lieutenant General Keith Kellogg to be his special envoy for Ukraine and Russia, where Trump has promised to bring a quick end to the war. VOA's Tatiana Vorozhko looks into Kellogg's career, his vision for ending the war, and the challenges he might face in his new mission. Rafael Saakov and Andriy Borys contributed.VOA footage by Oleksii Osyka. Video editor: Alexey Zonov. 
+
+<br> 
+
+<https://www.voanews.com/a/keith-kellogg-as-trump-ukraine-russia-envoy-right-man-for-the-mission/7904263.html>
+
+---
+
+## What to Expect From the Looming LNG Report
+
+date: 2024-12-17, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTM1NzI4Mi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4MjQ4MDM0OH0.5_L1DqqlaSW-iAA5GnejQ9JB-TJjEVMwdyEqqtRHSqc/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+<em><strong>Current conditions:</strong> A 7.3-magnitude earthquake caused major damage on the Pacific island of Vanuatu • Oil from damaged tankers is washing up on Russian beaches after a storm in the Black Sea • Hot, dry, and windy weather returns to parched Southern California.</em>
+</p><h2>THE TOP FIVE</h2><h3>1. What to expect from the looming LNG report</h3><p>
+	The Department of Energy’s study on liquefied natural gas exports could drop as soon as today, but we might already know what’s in it thanks to an accompanying letter written by Energy Secretary Jennifer Granholm and <a href="https://www.nytimes.com/2024/12/16/climate/jennifer-granholm-gas-exports.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_1POfadaz4yC0RhLPZaUZM4tHxJJ9tm_6Uu5PqWJ1hJrPUYh3a2sLuLeIzozSiX5YiwlEt" rel="noopener noreferrer" target="_blank">obtained</a> by <em>The New York Times</em>. The key takeaways:
+</p><ul>
+<li>Continued U.S. LNG exports at recent levels would have negative impacts on both the economy and the environment.</li>
+<li>“Unfettered exports” would drive up wholesale domestic gas prices by 30%, hurting consumers and industry alike.</li>
+<li>Increasing exports could generate 1.5 gigatons of direct <a href="https://heatmap.news/climate/lng-exports-pause-biden-emissions?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_1POfadaz4yC0RhLPZaUZM4tHxJJ9tm_6Uu5PqWJ1hJrPUYh3a2sLuLeIzozSiX5YiwlEt" rel="noopener" target="_self">greenhouse gas emissions</a> a year, which is about 25% of total annual U.S. emissions.</li>
+<li>The pace at which we have been exporting is “neither sustainable nor advisable,” Granholm writes.</li>
+<li>Separately, two sources <a href="https://subscriber.politicopro.com/article/2024/12/biden-administration-to-warn-on-lngs-economic-impacts-but-not-call-for-ban-on-new-exports-00194503?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_1POfadaz4yC0RhLPZaUZM4tHxJJ9tm_6Uu5PqWJ1hJrPUYh3a2sLuLeIzozSiX5YiwlEt" rel="noopener noreferrer" target="_blank">said</a> the report will warn that increasing LNG exports could benefit China.</li>
+</ul><p>
+	The study reportedly stops short of saying that more LNG shipments are not in the public’s best interest and therefore should be banned. President Biden <a href="https://heatmap.news/politics/biden-lng-exports-pause-young-voters-climate?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_1POfadaz4yC0RhLPZaUZM4tHxJJ9tm_6Uu5PqWJ1hJrPUYh3a2sLuLeIzozSiX5YiwlEt" target="_self">halted new LNG export licenses</a> in January until the DOE could complete its analysis. President-elect Trump has promised to resume export terminal approvals.
+</p><h3>2. DOE to loan PG&E $15 billion for power upgrades</h3><p>
+	More from the DOE: The Loan Programs Office this morning <a href="https://www.energy.gov/lpo/articles/lpo-announces-conditional-commitment-pacific-gas-electric-company-expand-hydropower?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_1POfadaz4yC0RhLPZaUZM4tHxJJ9tm_6Uu5PqWJ1hJrPUYh3a2sLuLeIzozSiX5YiwlEt" rel="noopener noreferrer" target="_blank">announced</a> a conditional loan commitment of up to $15 billion for Pacific Gas & Electric Company’s Project Polaris. The project “will support a portfolio of projects to expand hydropower generation and battery storage, upgrade transmission capacity through reconductoring and grid enhancing technologies, and enable virtual power plants throughout PG&E’s service area,” the DOE said. This is the largest loan in the history of the LPO, and the office plans to finalize it before the end of President Biden’s term, <a href="https://www.wsj.com/us-news/climate-environment/biden-pge-record-loan-climate-change-grid-update-55b2fe6e?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_1POfadaz4yC0RhLPZaUZM4tHxJJ9tm_6Uu5PqWJ1hJrPUYh3a2sLuLeIzozSiX5YiwlEt" rel="noopener noreferrer" target="_blank">according to</a> <em>The Wall Street Journal</em>.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="b0a99b4a8c0f1bca010432f49f1ada7c" data-rm-shortcode-name="rebelmouse-image" id="a17da" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTM1NzI5My9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc1ODUwMjk5MX0.AqKluMA68gYUv_7sr88dnmCa6Q58Kr4MuPYqvvBozUg/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">DOE</small>
+</p><h3>3. Push for permitting reform hits a dead end</h3><p>
+<strong></strong>Permitting reform is officially off the table. Sens. Joe Manchin and John Barrasso had hoped some version of their bipartisan bill to help speed new energy infrastructure would <a href="https://heatmap.news/politics/permitting-bill-manchin-barrasso-westerman?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_1POfadaz4yC0RhLPZaUZM4tHxJJ9tm_6Uu5PqWJ1hJrPUYh3a2sLuLeIzozSiX5YiwlEt" target="_self">be included</a> in Congress’ must-pass final agenda items for the year, but alas, it won’t. <em>Politico</em>’s Joshua Siegel <a href="https://www.politico.com/live-updates/2024/12/16/congress/permitting-reform-dead-00194629?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_1POfadaz4yC0RhLPZaUZM4tHxJJ9tm_6Uu5PqWJ1hJrPUYh3a2sLuLeIzozSiX5YiwlEt" target="_blank">reported</a> that Manchin “conceded” yesterday on the issue after tense partisan disagreements – over things like who should be able to take advantage of loosened rules, and how local environments and communities would be protected – proved too difficult to overcome. “It’s a shame that our country is losing this monumental opportunity to advance commonsense, bipartisan permitting reform,” Manchin <a href="https://thehill.com/newsletters/energy-environment/5043261-bipartisan-energy-deal-push-flops/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_1POfadaz4yC0RhLPZaUZM4tHxJJ9tm_6Uu5PqWJ1hJrPUYh3a2sLuLeIzozSiX5YiwlEt" target="_blank">said</a> in a statement.
+</p><p>
+	Somewhat relatedly, the DOE <a href="https://www.energy.gov/gdo/articles/biden-harris-administration-announces-three-high-priority-areas-advancing-national?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_1POfadaz4yC0RhLPZaUZM4tHxJJ9tm_6Uu5PqWJ1hJrPUYh3a2sLuLeIzozSiX5YiwlEt" target="_blank">narrowed</a> (from 10 down to three) its list of potential “National Interest Electric Transmission Corridors,” or regions especially in need of energy transmission upgrades. They are:
+</p><ul>
+<li>The Lake Erie-Canada Corridor – includes parts of Lake Erie and Pennsylvania</li>
+<li>The Southwestern Grid Connector Corridor – includes parts of Colorado, New Mexico, and western Oklahoma</li>
+<li>The Tribal Energy Access Corridor – includes five Tribal Reservations, as well as parts of North Dakota, South Dakota, Nebraska </li>
+</ul><p>
+	A NEITC designation would allow the government to speed up grid expansion projects in these regions and provide federal funding. “A lack of transmission infrastructure can directly contribute to higher electricity prices, more frequent power outages from extreme weather, and longer outages as the grid struggles to come back online,” the Department explained in its announcement. A comment period on the three suggested corridors will now begin and extend into the next administration.
+</p><h3>4. SCOTUS shuts down red states’ attack on California’s clean air rules</h3><p>
+	The Supreme Court yesterday <a href="https://electrek.co/2024/12/16/court-rejects-challenge-to-californias-clean-air-rules-trump-said-hed-kill/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_1POfadaz4yC0RhLPZaUZM4tHxJJ9tm_6Uu5PqWJ1hJrPUYh3a2sLuLeIzozSiX5YiwlEt" target="_blank">dismissed</a> a constitutional challenge from 17 Republican-led states against California’s long standing right to make its own clean air rules. The state has had a waiver since the 1960s to set its own vehicle emission standards, so long as they meet or go beyond the national standards. And its rules have been <a href="https://csl.noaa.gov/news/2012/119_0809.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_1POfadaz4yC0RhLPZaUZM4tHxJJ9tm_6Uu5PqWJ1hJrPUYh3a2sLuLeIzozSiX5YiwlEt" rel="noopener noreferrer" target="_blank">really effective</a> at reducing pollution from cars in the Los Angeles area. Ohio and 16 other states were petitioning the Court, arguing that California was being treated differently than other states and that “the Golden State is not a golden child.” The dismissal “closes the door on a constitutional challenge to California’s anti-pollution standards,” the <em><em>Los Angeles Times</em></em> <a href="https://www.latimes.com/world-nation/story/2024-12-16/supreme-court-constitutional-challenge-california-air-pollution?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_1POfadaz4yC0RhLPZaUZM4tHxJJ9tm_6Uu5PqWJ1hJrPUYh3a2sLuLeIzozSiX5YiwlEt" rel="noopener noreferrer" target="_blank">explained</a>, but other challengers – including the oil and gas industry – are <a href="https://apnews.com/article/supreme-court-california-auto-emissions-climate-change-7aff58362d99dd0892b7a8540f3382c1?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_1POfadaz4yC0RhLPZaUZM4tHxJJ9tm_6Uu5PqWJ1hJrPUYh3a2sLuLeIzozSiX5YiwlEt" rel="noopener noreferrer" target="_blank">exploring</a> other legal routes.
+</p><h3>5. Germany set for snap election</h3><p>
+	German Chancellor Olaf Scholz yesterday lost a confidence vote in parliament, triggering snap elections to be held in February. The turmoil will have ramifications for energy and climate policy in Europe’s largest economy. Sholz’s coalition government “made significant progress in key policy areas, such as renewables expansion,” <a href="https://www.cleanenergywire.org/news/vote25-mixed-climate-legacy-scholzs-collapsed-coalition-leaves-challenges-next-government?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_1POfadaz4yC0RhLPZaUZM4tHxJJ9tm_6Uu5PqWJ1hJrPUYh3a2sLuLeIzozSiX5YiwlEt" rel="noopener noreferrer" target="_blank">reported</a> <em>Clean Energy Wire</em>. It also committed Germany to emissions reductions in line with the Paris Agreement. But a new government will have other things on its mind, especially as unemployment is high, energy prices remain elevated, and struggling industry heavyweights like Volkswagen and auto parts supplier Bosch are resorting to massive layoffs. Meanwhile, a scramble is also underway in France to form a government after the previous one failed a no-confidence vote two weeks ago. “The EU as a whole is affected” by these political instabilities, <a href="https://www.bbc.co.uk/news/articles/c0q0zvvjj19o?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_1POfadaz4yC0RhLPZaUZM4tHxJJ9tm_6Uu5PqWJ1hJrPUYh3a2sLuLeIzozSiX5YiwlEt" rel="noopener noreferrer" target="_blank">reported</a> the BBC, and everything from global climate policy to the war in Ukraine could feel the impacts.
+</p><h2>THE KICKER</h2><p>
+	A rapid <a href="https://www.imperial.ac.uk/grantham/research/climate-science/modelling-tropical-cyclones/tropical-cyclone-chido/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_1POfadaz4yC0RhLPZaUZM4tHxJJ9tm_6Uu5PqWJ1hJrPUYh3a2sLuLeIzozSiX5YiwlEt" rel="noopener noreferrer" target="_blank">study</a> from Imperial College London finds that human-caused climate change intensified Tropical Cyclone Chido from a Category 3 storm to a Category 4 storm. The cyclone devastated the French territory of Mayotte over the weekend.
+</p> 
+
+<br> 
+
+<https://heatmap.news/climate/pge-california-loan-lng-doe>
+
+---
+
+## US hits North Korea and Russia with new sanctions, Treasury says
+
+date: 2024-12-17, from: VOA News USA
+
+Washington — The United States hit North Korea and Russia on Monday with new sanctions targeting Pyongyang's financial and military support to Moscow as well as its ballistic missile program.
+
+
+The sanctions, which list North Korean banks, generals and other officials, as well as Russian oil shipping companies, are the latest U.S. measure aimed at disrupting North Korea's support to Russia's war in Ukraine.
+
+
+The North Korean banks targeted include Golden Triangle Bank, one of the biggest banks in the northeastern Rason Special Economic Zone, and Pyongyang-based Korea Mandal Credit Bank, which has representatives throughout China, the Treasury Department said in a statement.
+
+
+South Korea's foreign ministry separately said on Tuesday that it has blacklisted 11 individuals and 15 entities linked to illicit military cooperation between North Korea and Russia.
+
+
+The responses came as 10 countries, including the U.S., South Korea, Australia, Britain, France and Japan, as well as the European Union, issued a joint statement on Tuesday condemning Pyongyang and Moscow's military ties "in the strongest possible terms."
+
+
+The statement said North Korea's support for Russia's war against Ukraine was a "dangerous expansion of the conflict" and a "flagrant violation" of United Nations' sanctions. It urged the country to withdraw its troops from Russia.
+
+
+Pyongyang and Moscow have ramped up diplomatic and economic ties in recent years, culminating in Russian President Vladimir Putin's visit to North Korea in June when the countries' leaders agreed a mutual defense pact.
+
+
+Military cooperation between the two countries has been met by international alarm, with Washington, Kyiv and Seoul condemning North Korea for sending military equipment and more than 10,000 troops to support Russia's full-scale invasion of Ukraine, which began in February 2022.
+
+
+North Korea's actions, including its most recent test of a long-range ballistic missile and its deepening military support to Russia, undermine the stability of the region and sustain Putin's war in Ukraine, said Bradley Smith, acting Under Secretary of the U.S. Treasury for terrorism and financial intelligence.
+
+
+"The United States remains committed to disrupting the illicit procurement and facilitation networks that enable these destabilizing activities," he said.
+
+
+The officials sanctioned by both Washington and Seoul include North Korean generals leading tens of thousands of North Korean troops in Russia, including Kim Yong Bok, who has appeared at seven events with North Korean leader Kim Jong Un this year, including special forces exercises.
+
+
+South Korea separately blacklisted the North's special forces unit known as the Storm Corps, also in Russia fighting against Ukraine, and its chief, Ri Pong Chun.
+
+
+Ukraine said on Monday that at least 30 North Korean soldiers had been killed or injured in combat in Russia's Kursk region over the weekend.
+
+
+It said that Moscow began deploying them in the southern region in significant numbers last week to conduct assaults on Ukrainian forces.
+
+
+Ukraine launched a cross-border incursion into Kursk in August.
+
+
+Kyiv estimates there are 11,000 North Koreans in total, adding to a force of tens of thousands of Russians.
+
+
+Russia has neither confirmed nor denied the presence of North Koreans on its side.
+
+
+Oil and gas to the North 
+
+
+The Treasury sanctions freeze the U.S. assets of the designated entities, ban their trade with Americans, and block them from transactions with the U.S. financial system.
+
+
+The Treasury blacklisted Russia-based foreign trade companies that it said were shipping oil and gas to North Korea. The companies include Vostok Trading, DV Ink, and Novosibirskoblgaz. Treasury said they began shipping "thousands of tons of oil and gas" to North Korea beginning in 2022 and continuing through at least April 2024.
+
+
+North Korea has likely received more than 1 million barrels of oil from Russia over an eight-month period this year in breach of U.N. sanctions, according to an analysis of satellite imagery published in November by the British-based Open Source Centre and the BBC.
+
+
+North Korean oil tankers have made more than 40 visits to Russia's Far Eastern port of Vostochny since March, the report on the research group Open Source Centre's website said.
+
+
+The sanctions also targeted Sibregiongaz, AO, the Russia-based parent company and 100% owner of Novosibirskoblgaz. They also hit Okryu Trading Company, or Okryu, a North Korea-based foreign trade company that Treasury said has received thousands of tons of oil shipments from Russia. 
+
+<br> 
+
+<https://www.voanews.com/a/us-hits-north-korea-and-russia-with-new-sanctions-treasury-says-/7904085.html>
+
+---
+
+## Looking Back on the Big Policy Stories of 2024
+
+date: 2024-12-17, updated: 2024-12-17, from: RAND blog
+
+RAND president and CEO Jason Matheny reflects on the many ways RAND is helping leaders of all stripes better understand and address humanity's greatest challenges. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/12/looking-back-on-the-big-policy-stories-of-2024.html>
+
+---
+
+##  The Deadly Consequences Of UnitedHealth’s Unchecked Growth 
+
+date: 2024-12-17, from: The Lever News
+
+ Failure to block the insurance giant’s market consolidation, including by a judge with a potential conflict of interest, has led to worse care, higher prices, and a mounting human toll.  
+
+<br> 
+
+<https://www.levernews.com/the-deadly-consequences-of-unitedhealths-unchecked-growth/>
+
+---
+
+## Judge rejects Trump's bid to dismiss hush money conviction because of Supreme Court immunity ruling
+
+date: 2024-12-17, from: VOA News USA
+
+NEW YORK  — A judge Monday rejected President-elect Donald Trump's bid to have his hush money conviction dismissed because of the U.S. Supreme Court's recent ruling on presidential immunity. But the case's overall future remains unclear.
+
+
+Manhattan Judge Juan Merchan's decision eliminates one potential off-ramp from the case ahead of Trump's return to office next month. His lawyers have raised other arguments for dismissal, however.
+
+
+Prosecutors have said there should be some accommodation for his upcoming presidency, but they insist the conviction should stand.
+
+Trump's lawyer did not immediately respond to a request for comment.
+
+
+A jury convicted Trump in May of 34 counts of falsifying business records related to a $130,000 hush money payment to porn actor Stormy Daniels in 2016. Trump denies wrongdoing.
+
+
+The allegations involved a scheme to hide the payout to Daniels during the final days of Trump's 2016 presidential campaign to keep her from publicizing — and keep voters from hearing — her claim of a sexual encounter with the married then-businessman years earlier. He says nothing sexual happened between them.
+
+
+A month after the verdict, the Supreme Court ruled that ex-presidents can't be prosecuted for official acts — things they did in the course of running the country — and that prosecutors can't cite those actions to bolster a case centered on purely personal, unofficial conduct.
+
+
+Trump's lawyers then cited the Supreme Court opinion to argue that the hush money jury got some improper evidence, such as Trump's presidential financial disclosure form, testimony from some White House aides and social media posts made while he was in office.
+
+
+In Monday's ruling, Merchan denied the bulk of Trump's claims that some of prosecutors' evidence related to official acts and implicated immunity protections.
+
+
+The judge said that even if he found that some evidence related to official conduct, he'd still find that prosecutors' decision to use "these acts as evidence of the decidedly personal acts of falsifying business records poses no danger of intrusion on the authority and function of the Executive Branch."
+
+
+Even if prosecutors had erroneously introduced evidence that could be challenged under an immunity claim, Merchan continued, "such error was harmless in light of the overwhelming evidence of guilt."
+
+
+Prosecutors had said the evidence in question was only "a sliver" of their case.
+
+
+Trump communications director Steven Cheung on Monday called Merchan's decision a "direct violation of the Supreme Court's decision on immunity, and other longstanding jurisprudence."
+
+
+"This lawless case should have never been brought, and the Constitution demands that it be immediately dismissed," Cheung said in a statement.
+
+
+The Manhattan district attorney's office, which prosecuted the case, declined to comment.
+
+
+Trump takes office January 20. 
+
+<br> 
+
+<https://www.voanews.com/a/judge-rejects-trump-s-bid-to-dismiss-hush-money-conviction-because-of-supreme-court-immunity-ruling-/7903893.html>
+
+---
+
+## Trump, SoftBank CEO announce $100 billion investment in US
+
+date: 2024-12-17, from: VOA News USA
+
+In a joint appearance Monday morning, President-elect Donald Trump and Masayoshi Son, chairman and CEO of the Japanese technology conglomerate SoftBank Group, announced that the company would invest $100 billion in U.S. companies over the coming four years, saying that the infusion of cash would create 100,000 jobs in fields such as artificial intelligence.
+
+
+Son attributed the decision to make the investment directly to Trump’s win in last month’s presidential election.
+
+
+“I would really like to celebrate the great victory of President Trump,” Son said. “My confidence level [in] the economy of the United States has tremendously increased with his victory. So, because of that, I'm now excited to commit this 100 billion dollars and 100,000 jobs into the United States.”
+
+
+In introducing Son, Trump pointed out that eight years ago, after Trump’s victory in the 2016 election, SoftBank had made a similar pledge, promising $50 billion in U.S. investments and 50,000 new jobs.
+
+
+“And they did,” Trump said. “They kept that promise in every way, shape and form.”
+
+
+
+
+The president-elect then went on to press Son to double his pledge, saying “I’m going to ask him right now. Would you make it $200 billion?”
+
+
+Son reiterated his promise of $100 billion, but said he would "try" to get to $200 billion.
+
+
+"All right. $200 billion," Trump said.
+
+
+Son burst into laughter, telling the crowd Trump is “a great negotiator."
+
+
+‘Trump effect’
+
+
+After the announcement Monday, Trump’s rapid response director, Jake Schneider, sent media outlets an email attributing the announcement to what he called the “Trump Effect.”
+
+
+“President Trump is already delivering on his commitment to re-make America into the world's manufacturing superpower once again — and he hasn't even taken office yet,” Schneider wrote. “It's all centered around his Made in America agenda, which incentivizes companies that make their products in America with American workers.”
+
+
+He added, “In January, President Trump will immediately begin implementing bold reforms to restore the nation to full prosperity and make sure AI, emerging technologies, and the other industries of tomorrow are created, built, and grown in the United States.”
+
+
+Hits and misses
+
+
+Since founding SoftBank in 1981 at age 24, Son has become one of the most storied — and controversial — technology investors in the world. The company has several investment funds and owns significant shares of hundreds of companies across multiple fields, including telecommunication, robotics, internet services, e-commerce, artificial intelligence and much more.
+
+
+Throughout his decades-long career, Son has made headlines for spectacular victories as well as disastrous failures. For a time, at the beginning of 2000, he claimed to be the world’s richest man, with a fortune worth an estimated $78 billion amassed by buying up internet startups. However, the collapse of the dotcom bubble just months later wiped out more than 90% of his wealth.
+
+
+Son started rebuilding his business that same year, and a $20 million investment that bought SoftBank a 34% ownership share in a little-known Chinese e-commerce startup known as Alibaba would prove key to his fortunes. In 2014, Alibaba went public at a price that valued SoftBank’s shares at $58 billion, some 2,900 times its initial investment.
+
+
+Along the way, Son successfully managed to merge mobile telecommunications firms T-Mobile and Sprint, creating one of the largest U.S. service providers in 2020. Just two years later, though, SoftBank suffered disastrous losses with the collapse of the office-sharing startup WeWork, in which it had invested heavily, as well as other failed investments by in-house venture and hedge funds.
+
+
+At the time, Son announced that he was retiring from public life. However, by 2023, he was back in the headlines when ARM Holdings, a British computer chip design firm that SoftBank bought at a valuation of $30.8 billion in 2016, went public in the U.S. at a valuation of $54.5 billion.
+
+
+Choosing the West over China
+
+
+Lionel Barber, the former editor-in-chief of the Financial Times, told VOA that he believes Son’s appearance at Trump’s Mar-a-Lago resort Monday signals more than just an international investor seeking to get on the good side of an incoming U.S. president.
+
+
+Barber is the author of Gambling Man: The Wild Ride of Masayoshi Son, the first biography of the investor by a Western author, which will be published in the U.S. next month. He said that when Son made his pledge of $50 billion in 2016, he and Trump had clearly aligned interests.
+
+
+“Trump wanted a big signal about business confidence in the Trump agenda and Masayoshi Son and SoftBank wanted to get in with the new Republican administration with an eye to getting [a] blessing for his big project, which was Sprint merging with T-Mobile,” Barber told VOA by phone.
+
+
+Now, though, he sees something larger at play.
+
+
+“Obviously, the world looks very different. Eight years on, we've got wars around the world, and we've also got de-risking and decoupling between China and the West,” Barber said.
+
+
+In his last interview with him, Barber told VOA, Son said that he had realized that it was necessary for SoftBank to make a choice between China and the West.
+
+
+Paraphrasing Son, Barber said, “He basically said, ‘We understand the world's changed. We've been a global investor. We've been the biggest investor in China and the biggest investor in America. But now we have to choose. We've chosen the West.’”
+
+
+“So, I see his getting into Mar-a-Lago as [saying], ‘I've chosen the West. I've chosen America, and I'm going with Trump.’”
+
+
+Investment details unclear
+
+
+The announcement at Mar-a-Lago did not include any details about specific investments that SoftBank intends to make, and not all foreign investments touted by Trump over the years have come to pass.
+
+
+Taiwanese electronics manufacturer Foxconn in 2017 promised a $10 billion investment in a manufacturing facility in Wisconsin that was later dramatically scaled back.
+
+
+Even SoftBank’s 2016 pledge is difficult to consider truly fulfilled unless the more than $20 billion the company poured into Sprint in 2013 — three years before making the pledge — is included in the total.
+
+
+Barber, Son’s biographer, said he has some doubts about SoftBank’s ability to identify $100 billion in U.S. investments over the course of four years.
+
+
+“I’m not saying it's impossible, but I haven't figured out how he gets to 100 billion, yet,” Barber said.
+
+
+However, he said, it’s also important not to underestimate Son’s ability to achieve unexpected successes.
+
+
+“You can't write him off,” Barber said. “That's what he does. He's a bloody genius in that respect.” 
+
+<br> 
+
+<https://www.voanews.com/a/trump-softbank-ceo-announce-100-billion-investment-in-us-/7903846.html>
+
+---
+
+## Tice's mother asks Netanyahu to pause Syria strikes to locate journalist
+
+date: 2024-12-17, from: VOA News USA
+
+WASHINGTON — The mother of American journalist Austin Tice, who has been detained in Syria for more than 12 years, reiterated her call Monday for the Israeli military to pause strikes in a part of Syria where her son may be held.  
+
+
+“I think it would be polite, to say the least, that perhaps they’re not bombing while people are trying to clear the prisons,” Debra Tice told reporters Monday afternoon outside the Syrian Embassy in Washington.  
+
+
+That call comes days after she made the same appeal in a letter to Israeli Prime Minister Benjamin Netanyahu.  
+
+
+In a letter dated Dec. 14, Debra Tice told the Israeli leader her family has “credible information” that her son may be held in a prison outside the Syrian capital, Damascus, and urged the Israeli military to pause strikes in the area to allow rescuers to search the site.  
+
+
+“We are aware that your military has an active campaign in the area, preventing rescuers from approaching and accessing the prison facility,” she wrote in the letter, which The New York Times published Monday. 
+
+
+
+
+The Israeli military has been bombing weapons depots and air defenses in Syria. Israel says it wants to keep military equipment away from extremists.  
+
+
+In the letter, Debra Tice said her son may be held in a prison under a Syrian military museum in the mountainous Mount Qasioun area. The prison was connected by a tunnel to a neighborhood and a government palace, she added in the letter. 
+
+
+“We have no way of knowing if the prisoners there have food and water. We urgently request you pause strikes on this area and deploy Israeli assets to search for Austin Tice and other prisoners. Time is of the essence,” she said. 
+
+
+The Israeli Foreign Ministry did not immediately reply to VOA’s email requesting comment. 
+
+
+But Gal Hirsch, the Israeli government's lead envoy for hostage affairs, told The Times that he had received the letter and was coordinating with U.S. officials. 
+
+
+“We will do everything possible in assisting the United States of America to bring the hostages and missing persons back home,” Hirsch said. 
+
+
+A Texas native and former U.S. Marine, Austin Tice has been held in Syria since 2012, when he was detained at a checkpoint in Damascus. Aside from a brief video after his capture, little has been heard or seen of him since. 
+
+
+Earlier in December, before the Bashar al-Assad government fell, the Tice family revealed it had obtained information vetted by the U.S. government that confirmed Austin Tice was still alive and detained in the Damascus area.  
+
+
+Since Syrian rebels, led by the Islamist militant group Hayat Tahrir al-Sham (HTS), took Damascus and toppled Assad’s government on December 8, thousands of prisoners have been released from prisons run by the now-deposed government.  
+
+
+
+
+The release of those prisoners has raised hope in the Tice family that Austin will be among them.  
+
+
+“I feel like we’re standing in line, and we’re not the only ones that are still standing in line,” Debra Tice told reporters Monday. “It’s going to take a while.”  
+
+
+Austin Tice is an award-winning freelance journalist and photographer who works for outlets that include The Washington Post, CBS and McClatchy. He is the longest-held American journalist abroad. 
+
+
+U.S. State Department spokesperson Matthew Miller told reporters Monday that the  
+
+
+United States has communicated with HTS on the importance of locating Austin Tice, but that there are no U.S. government personnel on the ground in Syria looking for the journalist.  
+
+
+“We have a number of people engaged on trying to find Austin Tice and bring him home, and we communicated directly to HTS that anything that they could do to help us find him, we would greatly appreciate,” Miller said.  
+
+
+Syria’s transitional government said last week that the search for Austin Tice is ongoing, and that it would cooperate with the U.S. government in finding Americans who were disappeared by the former Assad government.  
+
+
+Outside the Syrian Embassy in Washington, which the U.S. government forced to close in 2014 but may now reopen soon, Debra Tice told reporters she has never lost hope that her son will return home. 
+
+
+“I’ve always had hope. I’ve never had even a millisecond of hopelessness,” she said. “We just need to get all those prisons opened, get all those families reunited, including us.” 
+
+<br> 
+
+<https://www.voanews.com/a/tice-s-mother-asks-netanyahu-to-pause-syria-strikes-to-locate-journalist-/7903606.html>
+
+---
+
+## Man sentenced for helping pregnant Chinese women in 'US birthing scheme'
+
+date: 2024-12-17, from: VOA News USA
+
+Los Angeles — A California man was sentenced Monday to nearly 3½ years in prison for running an extensive business that helped pregnant Chinese women travel to the United States to deliver babies who would automatically have American citizenship.
+
+
+U.S. authorities had sought a more than five-year prison term for Michael Wei Yueh Liu, 59, who was convicted in September of conspiracy and money laundering for running a company known as USA Happy Baby. Phoebe Dong, Liu's wife — though the couple have since separated — was also convicted in connection with the scheme and is expected to be sentenced early next year.
+
+
+After receiving a 41-month sentence, Liu was led out of the courtroom by authorities and taken into custody. He gave his attorney his belt and a folder and held Dong's hand briefly while she sobbed.
+
+
+In court, Liu had pleaded for leniency to care for his elderly parents and 13-year-old son, all of whom depend on him, while about a dozen supporters, many from his church, attended to provide moral support. Liu said his family has suffered deeply for nearly a decade since a 2015 raid on his business.
+
+
+“My intent was always to uphold the values of integrity and responsibility, so I regret any actions or decisions that may have brought us to this moment of judgment,” Liu told the court during his sentencing hearing. “I have tried my best to remain a source of stability for my family, but my incarceration will place them in a more vulnerable position.”
+
+
+“I am not here to deflect responsibility, but to seek mercy,” he said.
+
+
+U.S. District Judge R. Gary Klausner said defendants’ family members are often the ones who suffer, but it is the defendant’s actions, not the court’s, that caused the harm. Nevertheless, Klausner said he was reducing the sentence due to Liu’s family situation.
+
+
+“These are choices you make, not that the court makes,” Klausner said.
+
+
+U.S. authorities said USA Happy Baby helped several hundred women travel from China to give birth to U.S.-citizen babies between 2012 and 2015. The tourists paid as much as $40,000 for services including apartment rentals during their stays in Southern California and worked with overseas entities that coached women on what to say during visa interviews and upon arriving in U.S. airports, advising them to wear loose clothing to hide their pregnancies.
+
+
+“For tens of thousands of dollars each, [the] defendant helped his numerous customers deceive U.S. authorities and buy U.S. citizenship for their children,” federal prosecutors wrote in court papers. “This criminal conduct is serious and requires a meaningful sentence to promote respect for the law and hold [the] defendant accountable.”
+
+
+Prosecutors declined to comment immediately after the sentencing.
+
+
+Kevin Cole, Liu’s attorney, had asked that his client face no more than 26 months and requested he be allowed to serve his sentence from home. On Monday, Cole asked the judge to consider his client’s critical role as the caretaker for his 95-year-old father and 82-year-old mother, shuttling them to medical appointments, bathing them and cooking their food, and his otherwise upstanding life growing up in Taiwan — serving in its military and attending to his family.
+
+
+“He’s somebody that has lived an honorable life,” Cole told the court. “There’d be no benefit to him or the public for an extensive prison sentence in this case.”
+
+
+The case against Liu and Dong dates back years. Federal authorities searched more than a dozen homes across Southern California in a 2015 crackdown on operators of businesses catering to Chinese women seeking to deliver their babies in the United States and four years later charged the pair and more than a dozen others, including a woman who pleaded guilty and was sentenced to 10 months in prison for running a company known as You Win USA.
+
+
+Such businesses have long operated in California and other states and have catered to people not only from China, but also from Russia, Nigeria and elsewhere. It isn’t illegal to visit the United States while pregnant but lying to U.S. consular and immigration officials about the reasons for travel on government documents is not permitted.
+
+
+The key draw for travelers has been that the United States has birthright citizenship, which many believe could help their children secure a U.S. college education and provide a sort of future insurance policy — especially since the tourists themselves can apply for permanent residency once their American child turns 21.
+
+
+President-elect Donald Trump has promised to end birthright citizenship once in office, but any such effort would face steep legal hurdles. 
+
+<br> 
+
+<https://www.voanews.com/a/man-sentenced-for-helping-pregnant-chinese-women-in-us-birthing-scheme-/7903856.html>
+
+---
+
+## Mysterious drones over US prompt questions, demands for answers
+
+date: 2024-12-16, from: VOA News USA
+
+What is going on in the skies of the eastern United States? In recent weeks, countless drones have been spotted — and everyone from residents to the incoming president has questions. Anita Powell reports from Washington. 
+
+<br> 
+
+<https://www.voanews.com/a/mysterious-drones-over-us-prompt-questions-demands-for-answers/7903597.html>
+
+---
+
+## US Census Bureau adding refugees to immigrant count
+
+date: 2024-12-16, from: VOA News USA
+
+The U.S. Census Bureau is changing how it counts immigrants in annual estimates by including more people who were admitted for humanitarian, and often temporary, reasons. 
+
+
+The change is being made in an effort to better reflect population shifts this decade, officials said Monday. Population estimates, including immigration, are due to be released Thursday showing how the populations of the United States and the 50 states changed this year. However, the new approach to counting immigrants will only be reflected nationally. 
+
+
+The percentage of U.S. residents who were foreign born rose to its highest level in more than a century in 2023. It could be even higher under the new methodology. Census Bureau officials wouldn't say Monday how much larger they expected the immigration figures to be in Thursday's release because of the change. 
+
+
+Capturing the number of new immigrants is the most difficult part of the annual U.S. population estimates. Although the newly announced change in methodology is unrelated, the timing comes a month before a return to the White House of President-elect Donald Trump, who has promised mass deportations of people in the United States illegally. 
+
+
+“We feel confident that this was a good approach in order to make our estimates more current and reflect recent trends that we’ve seen,” said Eric Jensen, a senior research scientist at the Census Bureau. 
+
+
+The bureau's annual calculation of how many migrants entered the United States in the 2020s has been much lower than the numbers cited by other federal agencies, such as the Congressional Budget Office. The Census Bureau estimated 1.1 million immigrants entered the United States in 2023, while the Congressional Budget Office's estimate was 3.3 million people. 
+
+
+The group of people being included in the international migration estimates are those who enter the country through humanitarian parole, which has been granted for seven decades by Republican and Democratic presidential administrations to people unable to use standard immigration routes because of time pressure or their government’s poor relations with the U.S. The Migration Policy Institute, a Washington-based research organization, said last week that more than 5.8 million people were admitted under various humanitarian policies from 2021 to 2024. 
+
+
+Trump appears certain to dismantle humanitarian parole, saying during his campaign that he would end the “outrageous abuse of parole.” The annual population estimates released by the Census Bureau each year are calculated from births, deaths, migration to the United States and migration between states. The population estimates provide the official population counts each year between the once-a-decade census for the United States, the 50 states, counties and metro areas. The figures are used for distributing trillions of dollars in federal funding. 
+
+<br> 
+
+<https://www.voanews.com/a/us-census-bureau-adding-refugees-to-immigrant-count/7903554.html>
+
+---
+
+## Trump discusses drone sightings along US East Coast
+
+date: 2024-12-16, from: VOA News USA
+
+U.S. President-elect Donald Trump contended Monday that the country's military "for some reason" was keeping details secret about unexplained drones flying across the nighttime skies above the eastern United States, but the White House later minimized the drone sightings.
+
+
+"Our military knows … something strange is going on," Trump told reporters at his Mar-a-Lago estate in Florida in his first wide-ranging news conference since his election to a new four-year term in the White House starting next month.
+
+
+For weeks now, residents in the state of New Jersey, which borders New York City, and other states to the north and south along the Atlantic Ocean coastline have reported seeing more than 5,000 supposed drones, a figure U.S. officials have concluded is wildly inflated.
+
+
+They say that most of the alleged unmanned drones are manned aircraft, and that fewer than 100 of the sightings need to be investigated further.
+
+
+
+
+All manner of conspiracy theories has been offered for the unexplained sightings, including the dispatching of drones by foreign countries and the deployment of Iran-launched drones from a mothership positioned off U.S. eastern coastal waters.
+
+
+At the White House, National Security spokesperson John Kirby told reporters, “Our assessment at this stage is that the activity represents commercial, hobbyist, law enforcement drones, all operating legally and lawfully, and/or civilian aviation aircraft.”
+
+
+At a Pentagon briefing before Trump's news conference began, Air Force Major General Pat Ryder, the Pentagon spokesman, told reporters there was "no evidence at this time that the reported drone sightings pose a national security or public safety threat, or have a foreign nexus."
+
+
+Ryder added, "We are sensitive to the fact that there are public concerns and many questions. ... We are also committed to providing as much information as possible as quickly as possible on this."
+
+
+The military has a rationale for not shooting them down, Ryder said, offering a "loose analogy" to unexplained cars traveling near military bases.
+
+
+"On any given day, an unauthorized car or truck may approach one of the base gates, usually on accident," Ryder said, and "99% of the time those cars are turned away without incident."
+
+
+
+
+"The point being is that flying drones is not illegal," Ryder said. "There are thousands of drones flown around the U.S. on a daily basis. It's not that unusual to see drones in the sky, nor is it an indication of malicious activity or any public safety threat."
+
+
+In recent days, Republican and Democratic officials alike have called on officials in the administration of President Joe Biden to be more forthcoming in saying what they know about the drones.
+
+
+Republican Representative Michael Waltz of Florida, who is set to become Trump's national security adviser when he takes office January 20, told CBS' "Face the Nation" on Sunday, "We need to get to the bottom of it."
+
+
+In his hourlong news conference, Trump touched on a wide range of topics five weeks before assuming power again and becoming the second president after Grover Cleveland in the 1890s to take over the White House for a second nonconsecutive term.
+
+
+
+
+He said his reception from world leaders this time is sharply more favorable than it was in 2017 after his first presidential victory.
+
+
+"It's really the opposite of hostile. They're calling me," he said. "I've spoken to over 100 countries."
+
+
+Trump said he would not end the use of the long-accepted polio vaccine in the U.S. but questioned the mandates in many U.S. states for a range of childhood vaccines.
+
+
+"I'm not really a big mandate guy," he said, and asked rhetorically, "Why is the autism rate so high" in the United States, although any link between autism and vaccines has long been scientifically debunked.
+
+
+He also questioned why Americans "are paying so much more than people in other countries" for medicines.
+
+
+Trump said that he was doing his best to stop Russia's nearly three-year war on Ukraine, and that he would have ongoing conversations with Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy about a halt to the fighting.
+
+
+He called much of Ukraine "a demolition site" because of Russian attacks. "People can't go back there."
+
+
+Trump called the U.S. media "very corrupt" after winning a $15 million defamation settlement against ABC News over the weekend. He said he is planning lawsuits against other news outlets and individual journalists for what he considers to be false reporting, even as he lost other media-related suits.
+
+
+The president-elect reiterated his plan to impose tariffs against imports from some of the U.S.' biggest trading partners.
+
+
+"Tariffs will make our country rich," he contended, although individual importers pay the fees and often pass on their costs to customers buying the goods. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-pentagon-spar-over-drone-secrecy/7903491.html>
+
+---
+
+## The Age of Electrons Has Arrived, but Maybe Not for the Right Reasons
+
+date: 2024-12-16, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTMxNDg3Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1MDI4MDE3OX0.ZypzORFj-Dlpz7PzR4bSL7JMOCXn4t8tIzyBahde8BU/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">The transition to clean energy is largely a shift from molecules to electrons — gasoline in the tank is out, electricity stored in a battery cell is in. It follows, then, that as the transition progresses, the balance of power in the energy industry will shift from oil and gas production to electricity generation. </p>
+<p>We may look back on 2024 as the year the scales tipped. Among the top 260 publicly listed energy companies, utilities’ capital expenditures around the globe were slightly higher this year than oil and gas spending, according to a <a href="https://www.linkedin.com/posts/bcg-on-energy_north-america-utilities-data-center-demand-activity-7265316389505118208-_MST/" rel="noopener noreferrer" target="_blank"><u>recent analysis from Boston Consulting Group</u></a>, and the authors expect the trend to grow through the end of the decade. But it wasn’t a sudden spike in EV adoption or home electrification or some other climate solution that put utility spending in the lead. It was the rise in data centers.</p>
+<p>“When we went through all the data, all the 260 companies, it was the data centers that were having the biggest impact, most definitely,” Rebecca Fitz, a partner and director at Boston Consulting Group and lead author of the report, told me. “I’ve been in this sector for a long time, and to have such a rapid change in demand outlook, coupled with quick changes to capex, is a big story.”</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="6e7dc09050a5eee95851e3853886c6b1" data-rm-shortcode-name="rebelmouse-image" id="3b1df" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTM1MTcyMS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5NDExOTU3M30.b2Hd8XNclWXLRjA9pqf3HGAaZpnF9wvMthwU6jUp2V4/image.jpg?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Boston Consulting Group Center For Energy Impact</small>
+</p><p>
+	The finding was the surprise headline of an annual report that Fitz’ group has completed for the past three years called “Follow the Capital,” an analysis of what’s driving changes in capital supply and demand in the energy sector using data culled from publicly available sources. Data for prior years comes from regulatory and investor fillings. Future years are modeled using public announcements, plans filed with regulators, and a few conservative assumptions, Fitz told me.
+</p><p>
+	Surging demand for electricity from data centers was perhaps the biggest energy story of 2024, and the trend seemed to accelerate as the year went on. In just the past few months, almost every major tech company has signed an agreement to buy power from a nuclear plant, either <a href="https://heatmap.news/technology/microsoft-three-mile-island-nuclear" target="_self"><u>reviving formerly shuttered reactors</u></a> or <a href="https://blog.google/outreach-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" rel="noopener noreferrer" target="_blank"><u>helping to build new ones</u></a>. GE Vernova, which manufactures energy generation equipment, <a href="https://www.gevernova.com/sites/default/files/gev_investor_update_transcript_12102024.pdf" rel="noopener noreferrer" target="_blank"><u>reported last week</u></a> that it had secured contracts for 9 gigawatts’ worth of new gas turbines since its previous quarterly report in October, “tied to both load growth in the U.S and … serving the hyperscaler demand associated with AI.” As the “Follow the Capital” authors were wrapping up this year’s edition in November, they found that U.S. utilities had added $50 billion in planned capex during the third quarter alone, mostly due to data center demand growth.
+</p><p>
+	Data center demand isn’t the only factor playing into the above chart. Though utility spending is definitely up, oil and gas companies are also reining in capex growth in favor of shareholder returns, Fitz told me. But oil and gas also sees the winds changing and is making moves to get into the power business. Two weeks ago, <a href="https://www.youtube.com/live/bbWeRY9jK5c?t=1800s" rel="noopener noreferrer" target="_blank"><u>during a panel hosted by the Atlantic Council</u></a>, Chevron CEO Mike Wirth said the company was “looking at possible solutions to build large-scale power generation” that would serve data centers directly, rather than feed into the grid, so that regular electricity ratepayers would not shoulder the costs. “There’s sensitivity to increasing electricity rates for the average person just for the benefit of a few of these tech companies,” he said.
+</p><p>
+	Beating Chevron to the punch, last week ExxonMobil <a href="https://corporate.exxonmobil.com/what-we-do/delivering-industrial-solutions/carbon-capture-and-storage/steel-ammonia-ai-what-cant-ccs-help-decarbonize" rel="noopener noreferrer" target="_blank"><u>announced</u></a> that it was “moving fast” on this exact type of project, designing a natural gas plant that would “use carbon capture to remove more than 90% of the associated CO2 emissions” and directly power data centers without connecting to the grid.
+</p><p>
+	“I have no doubt that most of the oil and gas sector is looking at opportunities in this area,” said Fitz.
+</p><p>
+	Though the report covers global companies and spending, the data center demand signal is hyperlocal. Among the 30 largest North American utilities, 65% of demand growth is concentrated within just six of them, the report says. Though the report does not name the companies, Fitz told me that Texas, North Carolina, Virginia, and Ohio were seeing the most aggressive plans.
+</p><p>
+	Artificial intelligence boosters often argue that this demand pull is a <a href="https://heatmap.news/technology/ai-climate-week-clean-energy" target="_self"><u>boon for the energy transition</u></a>. By ushering in the age of electrons, the logic goes, tech companies with deep pockets can drive the first deployments of new clean energy technologies like advanced nuclear and geothermal power plants. These early deployments would then help lower costs and give rise to cheaper, cleaner electricity for the rest of us average energy consumers and our future electric cars, stoves, and water heaters.
+</p><p>
+	But that’s not the only potential outcome. “Follow the Capital” found that when the six utilities most affected by demand growth recently revised their integrated resource plans, they increased the amount of natural gas generation they planned to add from 26% of total new generation to 31%. As GE Vernova reported, orders for gas generators are skyrocketing. “I can’t think of a time that the gas business has had more fun than they’re having right now,” the company’s CEO Scott Strazik said during a recent investor update.
+</p><p>
+	As my colleague Matthew Zeitlin <a href="https://heatmap.news/economy/ge-vernova-natural-gas-ai" target="_self"><u>reported</u></a>, the industry is turning to natural gas plants because they can run 24/7 and they are not as dependent on transmission lines as renewables are, so they can be built faster and more cheaply. Renewables paired with energy storage are only competitive with gas if there’s infrastructure to support it, sources told him.
+</p><p>
+	The age of electrons may be nigh, but whether it helps to stop climate change is a separate question altogether.
+</p> 
+
+<br> 
+
+<https://heatmap.news/economy/utility-spending-oil-and-gas>
+
+---
+
+## US expands reach against Islamic State in Syria
+
+date: 2024-12-16, from: VOA News USA
+
+PENTAGON  — The United States is moving to fill the power vacuum in central Syria, worried the Islamic State terror group is looking to exploit the victory of Syrian rebels over forces loyal to former President Bashar al-Assad.
+
+
+U.S. warplanes Monday targeted IS camps and operatives in central Syria, marking at least the second time the U.S. has hit the terror group in areas formerly patrolled by Assad’s forces that had backing from Russian troops and airpower.
+
+
+U.S. Central Command, which oversees American forces in the Middle East, said the latest round of airstrikes targeted leaders, operatives and camps “in former regime and Russian-controlled areas.”
+
+
+The goal, CENTCOM said, is to ensure “pressure is maintained” against IS.
+
+
+CENTCOM and Pentagon officials said Monday initial assessments indicated the strikes killed12 IS members and that no civilians were killed or wounded.
+
+
+Neither CENTCOM nor the Pentagon offered additional details about the targets of Monday’s airstrikes or their operational value.
+
+
+The new strikes come just over a week after CENTCOM launched more than a dozen strikes against 75 IS targets in five locations across central Syria.
+
+
+Officials at the time said the targets included “a significant gathering of ISIS fighters and leaders.”
+
+
+
+
+Pentagon officials on Monday said the U.S. would carry out additional strikes as needed.
+
+
+“In as much as CENTCOM sees a potential threat posed by ISIS, and to mitigate their ability to be able to resurge, you're going to see these strikes,” said Pentagon press secretary Major General Pat Ryder, using another acronym for the terror group.
+
+
+Until the collapse of the Assad regime, however, much of central Syria was a no-go zone for U.S. forces and their Syrian allies.
+
+
+"One of the big factors that has changed in Syria is the airspace,” Ryder told reporters Monday. “It previously had Syrian regime and Russian air defenses, which would preclude in many cases our ability to or desirability to go into those areas."
+
+
+U.S. officials and independent analysts have long warned of a growing IS threat in areas of Syria under Assad’s control.
+
+
+A United Nations report issued earlier this year, based on intelligence from member states, warned the central Syria desert had become "a logistics and operations hub with 500 to 600 fighters."
+
+
+More recently, U.S. officials warned that IS had been exploiting the lack of pressure from Syrian and Russian forces to plan attacks across the West.
+
+
+IS has "used a base of operations in central Syria to drive external plotting, turning this desert location into the current locus of plotting against the West, including the United States,” Brett Holmgren, acting director of the National Counterterrorism Center, said last month. 
+
+<br> 
+
+<https://www.voanews.com/a/us-military-says-strikes-kill-12-islamic-state-group-militants-in-syria/7903316.html>
+
+---
+
+## Former FBI informant pleads guilty to lying about bribery scheme involving Bidens
+
+date: 2024-12-16, from: VOA News USA
+
+LOS ANGELES — A former FBI informant pleaded guilty Monday to lying about a phony bribery scheme involving President Joe Biden and his son Hunter that became central to the Republican impeachment inquiry in Congress. 
+
+
+Alexander Smirnov entered his plea to a felony charge in connection with the bogus story, along with a tax evasion charge stemming from a separate indictment accusing him of concealing millions of dollars of income. 
+
+
+An attorney for Smirnov declined to comment after the hearing in Los Angeles federal court. 
+
+
+Prosecutors and the defense have agreed to recommend a sentence of between four and six years in prison when he's sentenced next month. 
+
+
+Smirnov will get credit for the time he has served since his February arrest on charges that he told his FBI handler that executives from the Ukrainian energy company Burisma had paid President Biden and Hunter Biden $5 million each around 2015. 
+
+
+Smirnov had been an informant for more than a decade when he made the explosive allegations about the Bidens in June 2020, after “expressing bias” about Joe Biden as a presidential candidate, prosecutors said. 
+
+
+But Smirnov had only routine business dealings with Burisma starting in 2017, according to court documents. An FBI field office investigated the allegations and recommended the case be closed in August 2020, according to charging documents. 
+
+
+No evidence has emerged that Joe Biden acted corruptly or accepted bribes as president or in his previous office as vice president. 
+
+
+While Smirnov’s identity wasn’t publicly known before the indictment, his claims played a major part in the Republican effort in Congress to investigate the president and his family, and helped spark a House impeachment inquiry into Biden. Before Smirnov's arrest, Republicans had demanded the FBI release the unredacted form documenting the unverified allegations, though they acknowledged they couldn’t confirm if they were true. 
+
+
+During a September 2023 conversation with investigators, Smirnov also claimed the Russians probably had recordings of Hunter Biden because a hotel in Ukraine’s capital where he had stayed was “wired” and under their control — information he said was passed along to him by four high-level Russian officials. 
+
+
+But Hunter Biden had never traveled to Ukraine, according to Smirnov's indictment. 
+
+
+Smirnov claimed to have contacts with Russian intelligence-affiliated officials, and told authorities after his arrest this year that “officials associated with Russian intelligence were involved in passing a story” about Hunter Biden. 
+
+
+The case against Smirnov was brought by special counsel David Weiss, who also prosecuted Hunter Biden on gun and tax charges. Hunter Biden was supposed to be sentenced this month after being convicted at a trial in the gun case and pleading guilty to federal charges in the tax case. But he was pardoned this month by his father, who said he believed “raw politics has infected this process, and it led to a miscarriage of justice.” 
+
+<br> 
+
+<https://www.voanews.com/a/former-fbi-informant-pleads-guilty-to-lying-about-bribery-scheme-involving-bidens/7903299.html>
+
+---
+
+## Teacher, teenage student fatally shot at Christian school in Wisconsin
+
+date: 2024-12-16, from: VOA News USA
+
+A teenage student opened fire with a handgun Monday at a Christian school in Wisconsin, killing a teacher and another teenager during the final week before Christmas break. The shooter also died, police said. 
+
+
+The shooter also wounded six others at Abundant Life Christian School, including two students, who were in critical condition, Madison Police Chief Shon Barnes said. A teacher and three students were taken to a hospital with less serious injuries, and two of them had been released by Monday evening. 
+
+
+"Every child, every person in that building is a victim and will be a victim forever. ... We need to figure out and try to piece together what exactly happened," Barnes said. 
+
+
+Barbara Wiers, director of elementary and school relations for Abundant Life Christian School, said students "handled themselves magnificently." 
+
+
+She said when the school practices safety routines, which it had done just before the school year, leaders always announce that it is a drill. That didn't happen Monday. 
+
+
+"When they heard, 'Lockdown, lockdown,' they knew it was real," she said. 
+
+
+The shooter was a 17-year-old female student, a law enforcement official told The Associated Press. The official was not authorized to discuss the investigation and spoke to the AP on the condition of anonymity. 
+
+
+Police said the shooter was dead by apparent suicide when officers arrived. Barnes declined to give details about the shooter, partly out of respect for the family. With a few rare exceptions, a 17-year-old can't legally possess a gun in Wisconsin. 
+
+
+Barnes said investigators might have enough information to release more details about the shooter in another press conference later Monday. 
+
+
+He also warned people against sharing unconfirmed reports on social media about the shooter's identity. 
+
+
+"What that does is it helps erode the trust in this process," he said. 
+
+
+Abundant Life is a nondenominational Christian school — prekindergarten through high school — with approximately 420 students in Madison, the state capital. 
+
+
+Wiers said the school does not have metal detectors but uses other security measures, including cameras. 
+
+
+Children and families were reunited at a medical building about a mile away from the school. Parents pressed children against their chests while others squeezed hands and shoulders as they walked side by side. One girl was comforted with an adult-size coat around her shoulders as she moved to a parking lot teeming with police vehicles. 
+
+
+A motive for the shooting was not immediately known, but Barnes said officials were talking with the parents of the suspected shooter and they were cooperating. He also said he didn't know if the people shot had been targeted. 
+
+
+"I don't know why, and I feel like if we did know why, we could stop these things from happening," he told reporters. 
+
+
+A search warrant was issued Monday to a Madison home, he said. 
+
+
+Rapid response
+
+
+Someone from the school called 911 to report an active shooter shortly before 11 a.m. First responders who were in training just 3 miles (5 kilometers) away dashed to the school for an actual emergency, Barnes said. They arrived 3 minutes after the initial call and went into the building immediately. 
+
+
+Classes had been taking place when the shooting happened, Barnes said. He declined to say where exactly in the school it happened. 
+
+
+Investigators believe the shooter used a 9 mm pistol, a law enforcement official told the AP on the condition of anonymity. 
+
+
+Police blocked off roads around the school, and federal agents were at the scene to assist local law enforcement. No shots were fired by police. 
+
+
+Abundant Life asked for prayers in a brief Facebook post. 
+
+
+Wiers said the school's goal is to have staff get together early in the week and have community opportunities for students to reconnect before the winter break, but it's still to be decided whether they will resume classes this week. 
+
+
+Bethany Highman, the mother of a student, rushed to the school and learned over FaceTime that her daughter was OK. 
+
+
+"As soon as it happened, your world stops for a minute. Nothing else matters," Highman said. "There's nobody around you. You just bolt for the door and try to do everything you can as a parent to be with your kids." 
+
+
+In a statement, President Joe Biden cited the tragedy in calling on Congress to pass universal background checks, a national red flag law and certain gun restrictions. 
+
+
+"We can never accept senseless violence that traumatizes children, their families, and tears entire communities apart," Biden said. 
+
+
+Wisconsin Gov. Tony Evers said it's "unthinkable" that a child or teacher would go to school and never return home. 
+
+
+The school shooting was the latest among dozens across the U.S. in recent years, including especially deadly ones in Newtown, Connecticut; Parkland, Florida; and Uvalde, Texas. 
+
+
+The shootings have set off fervent debates about gun control and frayed the nerves of parents whose children are growing up accustomed to doing active shooter drills in their classrooms. But school shootings have done little to move the needle on national gun laws. 
+
+
+Firearms were the leading cause of death among children in 2020 and 2021, according to KFF, a nonprofit that researches health care issues. 
+
+
+Madison Mayor Satya Rhodes-Conway said the country needs to do more to prevent gun violence. 
+
+
+"I hoped that this day would never come to Madison," she said. 
+
+<br> 
+
+<https://www.voanews.com/a/dead-in-shooting-at-private-christian-school-in-wisconsin/7903242.html>
+
+---
+
+## First salmon in century reach Oregon's Klamath Basin after dam removal
+
+date: 2024-12-16, from: VOA News USA
+
+On the U.S. West Coast, conservationists for the world's largest dam-removal project are both celebrating initial successes and encountering short-term obstacles. VOA's Matt Dibble has our story from the Klamath River on the border between California and Oregon. 
+
+<br> 
+
+<https://www.voanews.com/a/first-salmon-in-century-reach-oregon-s-klamath-basin-after-dam-removal-/7902914.html>
+
+---
+
+## After losing beloved lake, a community navigates its future
+
+date: 2024-12-16, from: VOA News USA
+
+In the Pacific Northwest, the world’s largest river restoration project has removed hydroelectric dams from the Klamath River to help migrating salmon. The project emptied a lake beloved to its surrounding community. VOA's Matt Dibble went to the former Copco Lake to see how residents are adjusting. 
+
+<br> 
+
+<https://www.voanews.com/a/after-losing-beloved-lake-a-community-navigates-its-future-/7902930.html>
+
+---
+
+## US farmers hope agriculture secretary pick guides tariff, farm bill legislation
+
+date: 2024-12-16, from: VOA News USA
+
+U.S. farmers hope President-elect Donald Trump’s selection to head the U.S. Department of Agriculture will understand their concerns while guiding trade policy and farm legislation. VOA’s Kane Farabaugh has more from Chicago. 
+
+<br> 
+
+<https://www.voanews.com/a/us-farmers-hope-agriculture-secretary-pick-guides-tariff-farm-bill-legislation-/7902897.html>
+
+---
+
+## Taiwan receives first batch of US-made Abrams tanks
+
+date: 2024-12-16, from: VOA News USA
+
+Taipei, Taiwan — Taiwan has received 38 advanced Abrams battle tanks from the United States, the defense ministry said Monday, reportedly the island's first new tanks in 30 years.
+
+
+Washington has long been Taipei's most important ally and biggest arms supplier — angering Beijing, which claims Taiwan as part of its own territory.
+
+
+The M1A2 tanks — the first batch of 108 ordered in 2019 — arrived in Taiwan late Sunday and were transferred to an army training base in Hsinchu, south of the capital Taipei, the defense ministry said.
+
+
+The M1A2s are the first new tanks to be delivered to Taiwan in 30 years, the semi-official Central News Agency said.
+
+
+Taiwan's current tank force consists of around 1,000 Taiwan-made CM 11 Brave Tiger and U.S.-made M60A3 tanks, technology that is increasingly obsolete.
+
+
+Abrams tanks, which are among the heaviest in the world, are a mainstay of the U.S. military.
+
+
+Taiwan faces the constant threat of an invasion by China, which has refused to rule out using force to bring the self-ruled island under its control.
+
+
+China's foreign ministry on Monday urged the United States to "stop arming Taiwan... and supporting Taiwan independence forces."
+
+
+"The Taiwan authorities' attempt to seek independence through force and foreign help is doomed to fail," ministry spokesman Lin Jian said.
+
+
+"China will firmly defend its national sovereignty, security and territorial integrity."
+
+
+While it has a home-grown defense industry and has been upgrading its equipment, Taiwan relies heavily on U.S. arms sales to bolster its security capabilities.
+
+
+Taiwan requested the state-of-the-art M1A2 tanks in 2019, allocating the equivalent of more than $1.2 billion for them. The rest of the order is expected to be delivered in 2025 and 2026, an army official told AFP.
+
+
+While U.S. arms supplies to Taiwan are enshrined into law, a massive backlog caused by Covid-19 supply chain disruptions and U.S. weapons shipments to Ukraine and Israel have slowed deliveries to Taiwan.
+
+
+The backlog now exceeds $21 billion, according to Washington think tank Cato Institute.
+
+
+
+
+ 
+
+
+Taiwan would be massively outgunned in terms of troop numbers and firepower in any war with China and in recent years has increased spending on its military.
+
+
+Taipei allocated a record $19 billion for 2024 and next year's budget is set to hit a new high as it seeks to bolster its defense approach.
+
+
+China has increased military pressure on Taiwan in recent years, regularly deploying fighter jets and warships around the island.
+
+
+Taiwanese authorities said last week that China had held its biggest maritime drills in years, with around 90 ships deployed from near the southern islands of Japan to the South China Sea.
+
+
+The vessels simulated attacks on foreign ships and practiced blockading sea routes, a Taiwan security official said previously.
+
+
+Beijing did not confirm the drills and its defense ministry did not say whether the maneuvers had taken place when asked at a press conference on Friday. 
+
+<br> 
+
+<https://www.voanews.com/a/taiwan-receives-first-batch-of-us-made-abrams-tanks/7902881.html>
 
 ---
 

@@ -1,11 +1,73 @@
 ---
 title: motorcycles
-updated: 2024-12-16 07:06:21
+updated: 2024-12-17 07:05:25
 ---
 
 # motorcycles
 
-(date: 2024-12-16 07:06:21)
+(date: 2024-12-17 07:05:25)
+
+---
+
+## Arizonans Are Now Required to Take an OHV Safety Course
+
+date: 2024-12-17, from: Ride Apart, Electric Motorcycle News
+
+You won't be able to register your machine without it. 
+
+<br> 
+
+<https://www.rideapart.com/news/744622/arizona-ohv-safety-course-required/>
+
+---
+
+## Harley-Davidson's Warranty Policies are Predatory Says Owners' Lawsuit
+
+date: 2024-12-17, from: Ride Apart, Electric Motorcycle News
+
+Buying aftermarket parts voids your warranty, which may or may not be illegal.  
+
+<br> 
+
+<https://www.rideapart.com/news/744612/harley-davidson-parts-void-warranty-lawsuit-antitrust/>
+
+---
+
+## CFMoto’s Working On a New Sportbike With A 750cc 4-cylinder Engine
+
+date: 2024-12-17, from: Ride Apart, Electric Motorcycle News
+
+It wants to dominate all segments of the sportbike market. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/744456/cfmoto-750sr-sportbike-coming-soon/>
+
+---
+
+## Motorcycle Soccer is a Thing, So Where Do We Sign Up?
+
+date: 2024-12-17, from: Ride Apart, Electric Motorcycle News
+
+I'd hate to see what constitutes a slide tackle... 
+
+<br> 
+
+<https://www.rideapart.com/news/744607/motorcycle-soccer-is-an-awesome-thing-watch-video/>
+
+---
+
+## KTM Is Unable To Pay Salaries and Christmas Bonuses To Its Employees
+
+date: 2024-12-17, from: Ride Apart, Electric Motorcycle News
+
+The situation just went from bad to a whole lot worse, and some 3,600 employees are in for a blue Christmas.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/744401/ktm-unable-pay-salaries-3600-employees-affected/>
 
 ---
 

@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-12-16 07:06:20
+updated: 2024-12-17 07:05:24
 ---
 
 # games
 
-(date: 2024-12-16 07:06:20)
+(date: 2024-12-17 07:05:24)
+
+---
+
+## Secret Level’s Outer Worlds episode is missing a key part of the game
+
+date: 2024-12-17, updated: 2024-12-16, from: Polygon Website
+
+If The Outer Worlds could be summed up in three words, I’d go with “capitalism is bad.” That message is dressed up with silly mascot costumes, over-the-top advertising, and cheeky dialogue, but once you scratch at that silliness, the satire becomes quite clear. The Secret Level animated anthology spends one episode in this world, following [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/493108/amazon-secret-level-outer-worlds-episode-game-comparison>
+
+---
+
+## Bluey fever to continue with a movie
+
+date: 2024-12-17, updated: 2024-12-17, from: Polygon Website
+
+Bluey, the kid-friendly series that has made a name of itself by wrecking adults with stories of family, friends, and little life moments, is getting the movie treatment from Disney. The Australian animated series, which is globally distributed by the BBC, became a sensation in the U.S. after a streaming deal brought it to Disney [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/498058/bluey-movie-release-date-2027>
+
+---
+
+## Discoveries
+
+date: 2024-12-17, updated: 2024-12-17, from: Polygon Website
+
+At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
+
+---
+
+## Can Slugma be shiny in Pokémon Go?
+
+date: 2024-12-17, updated: 2024-12-16, from: Polygon Website
+
+Slugma, the lava Pokémon from Johto, can be found in the wild in Pokémon Go. Yes, Slugma can be shiny in Pokémon Go! You won’t see neither Slugma nor Magcargo get any use in PvP or PvE content, but it’s a pretty good shiny! It’ll be a hard decision whether or not to evolve your [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/497453/can-slugma-be-shiny-magcargo>
+
+---
+
+## Jeff Probst teams up with Exploding Kittens for Survivor card game
+
+date: 2024-12-16, updated: 2024-12-16, from: Polygon Website
+
+Days before the final episode of Survivor’s 47th season, gaming company Exploding Kittens announced Survivor The Tribe Has Spoken, a new card-based party game designed in collaboration with the show’s Emmy Award-winning host and producer Jeff Probst. Designed for both superfans and the uninitiated alike, the Survivor card game attempts to mirror the social strategy [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/497855/survivor-card-game-exploding-kittens-jeff-probst>
+
+---
+
+## The best Marvel Rivals crosshair codes for a custom reticle
+
+date: 2024-12-16, updated: 2024-12-16, from: Polygon Website
+
+Your crosshair is customizable in Marvel Rivals — a relative rarity for this sort of competitive shooter. Given the wide range of characters (and equally wide range of playstyles) in Rivals, a custom crosshair can give you a serious edge. In this Marvel Rivals guide, we’ll teach you how to customize your crosshair to perfectly [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/497404/crosshair-codes-best-how-to-change-reticle>
+
+---
+
+## D&#038;D&#8217;s more attractive Swedish cousin inspired Helldivers 2
+
+date: 2024-12-16, updated: 2024-12-16, from: Polygon Website
+
+Earlier this year, Helldiver 2’s grip on gaming culture was unmatched. For at least a month, every corner of social media was brimming with memes created from or inspired by absurd gameplay from the smash-hit by Arrowhead Games. And that’s not a fluke, comedic play was built into the bones of the game, all the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/497774/helldivers-2-inspired-by-dnd-dragonbane-free-league>
+
+---
+
+## How to beat Viper Napuatzi in Path of Exile 2
+
+date: 2024-12-16, updated: 2024-12-16, from: Polygon Website
+
+Viper Napuatzi is a boss in Path of Exile 2’s third act. Located in Utzaal, Napuatzi deploys a variety of poison attacks in an extremely small arena, forcing you into a claustrophobic fight. Viper Napuatzi may not be as complex or overwhelming as some of the other fights in Act 2 or Act 3, but [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/path-exile-2-guide/497665/viper-napuatzi-boss-fight-how-to-beat-poe2>
+
+---
+
+## Elgato’s Stream Deck makes for a great, versatile gaming gift, and they’re discounted now
+
+date: 2024-12-16, updated: 2024-12-16, from: Polygon Website
+
+2024’s biggest discounts on the ever-useful (and ever-customizable) Elgato Stream Deck are happening now, conveniently just before the holidays. For gamers, streamers, and just anyone who can appreciate good shortcut buttons that save time and effort, the trusty Elgato Stream Deck Mk. 2 with 15 buttons, and its larger sibling, the Stream Deck XL with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/497627/elgato-stream-deck-xl-plus-neo-deals>
+
+---
+
+## Can Bergmite be shiny in Pokémon Go?
+
+date: 2024-12-16, updated: 2024-12-16, from: Polygon Website
+
+Bergmite, the ice chunk Pokémon from Kalos, can be found in the wild in Pokémon Go. Yes, Bergmitecan be shiny in Pokémon Go! Avalugg and Hisuian Avalagg actually aren’t horrific when it comes to PvE meta, as they can be used as ice-type attackers. They’re also pretty bulky, making them great for plunking down in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/497790/can-bergmite-be-shiny-avalugg-hisuian>
 
 ---
 
@@ -78,18 +198,6 @@ Few things are better than settling down with a good book, but sometimes the set
 <br> 
 
 <https://www.polygon.com/24213728/best-audiobooks-listen-list>
-
----
-
-## Discoveries
-
-date: 2024-12-15, updated: 2024-12-13, from: Polygon Website
-
-At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
 
 ---
 
