@@ -1,11 +1,101 @@
 ---
 title: writing
-updated: 2024-12-18 07:05:37
+updated: 2024-12-18 15:46:48
 ---
 
 # writing
 
-(date: 2024-12-18 07:05:37)
+(date: 2024-12-18 15:46:48)
+
+---
+
+## Won't someone please think of the children?
+
+date: 2024-12-18, from: Interesting, a blog on writing
+
+If you don't talk to your kids about Final Draft, who will? 
+
+<br> 
+
+<https://inneresting.substack.com/p/wont-someone-please-think-of-the>
+
+---
+
+## Winterbottom Joins Transworld
+
+date: 2024-12-18, from: Locus Magazine
+
+<p></p>
+<p class="call-for-info">Rachel Winterbottom has joined Penguin Random House UK imprint Transworld as sci-fi and fantasy publishing director. Winterbottom is scheduled to start working in the newly created role in March 2025, reporting temporarily to managing director Kimberly Young. Winterbottom has worked as an editor for Gollancz as well as HarperVoyager UK. Young said,</p>
+<p>Rachel brings with her a magical combination of a deep passion for the SFF genre and a genuine  <a href="https://locusmag.com/2024/12/winterbottom-joins-transworld/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/winterbottom-joins-transworld/>
+
+---
+
+## Write On: 'Deadpool & Wolverine' Writer & Director Shawn Levy
+
+date: 2024-12-18, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-deadpool-wolverine-writer-director-shawn-levy" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20WriterDirector%20Shawn%20Levy.png" alt="Write On logo - 'Deadpool &amp; Wolverine' Writer &amp; Director Shawn Levy" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<div>
+  “I would argue that the movies, the plays, the stories that endure and certainly that resonate in the most populist and global way are the ones where we’re not just observing a piece of storytelling, we’re participative in some way and it’s connective. How can any of us who are flawed humans connect with a flawless hero? The beauty of Wade [Deadpool] and Logan [Wolverine] is that really, they’re two anti-heroes. They do not abide by typical moral codes. They both have been scarred deeply. And I think one thing that’s really interesting about them is that the worst thing that’s ever happened to them is also the source of their superpowers. Which I think, by the way, is something worth thinking about in all our lives – that the things that we had to get over are also the source of our strength,” says writer/director of 
+ <em>Deadpool &amp; Wolverine</em> Shawn Levy.&nbsp; 
+ <br> 
+ <br>In this episode, we discuss the elements that Levy thinks make a great hero and also a powerful villain like Cassandra Nova (Emma Corrin).&nbsp; 
+ <br> 
+ <br>“There was something really juicy about [Cassandra’s] twinship with Charles Xavier, that this villain is a new villain who has never been in a movie, who has never been anywhere other than the pages of a Marvel comic book. But there is this connective tissue to deep beloved, extensive mythology with Professor X and Charles. So we did lean into her resentment, her envy of Charles. You know, I think maybe one of my favorite couplets of our writing in this movie is when Cassandra says to Wolverine, ‘He must have really loved you.’ And he says to Cassandra, ‘He would have loved you too. He would have torn a hole in the universe if he knew where you were.’ I get goosebumps saying it now!” says Levy.&nbsp; 
+ <br> 
+ <br>We also break down that hilarious fight scene between 
+ <em>Deadpool &amp; Wolverine</em> that takes place entirely inside a Honda Odyssey. 
+ <br> 
+ <br>To hear more insights about the highest grossing R-rated comedy of all time, listen to the podcast. &nbsp; 
+</div> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-deadpool-wolverine-writer-director-shawn-levy>
+
+---
+
+## New York Public Library Best Books and Top Check Outs
+
+date: 2024-12-18, from: Locus Magazine
+
+<p>The New York Public Library (NYPL), the Brooklyn Public Library, the Queens Public Library, and others have released their annual lists of most-borrowed books. The 2024 announcement features a list of books tabulating check outs for the combined boroughs.</p>
+<p>On the &#8220;Citywide&#8221; list, <strong>Tomorrow, and Tomorrow, and Tomorrow</strong> by Gabrielle Zevin (Knopf) was the most checked out book for the combined boroughs of New York for 2024. Third place was  <a href="https://locusmag.com/2024/12/new-york-public-library-best-books-and-top-check-outs/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/new-york-public-library-best-books-and-top-check-outs/>
+
+---
+
+## Blood of the Old Kings by Sung-il Kim: Review by Sean Dowie
+
+date: 2024-12-18, from: Locus Magazine
+
+<p><strong>Blood of the Old Kings</strong>, Sung-il Kim (Tor 978-1-25089-533-2, $27.95, 368pp, hc) October 2024.</p>
+<p>Sung-il Kim’s 2016 fantasy novel <strong>Blood of the Old Kings </strong>features heroic characters and an innovative, engaging magic system. It makes for a breezy fantasy story where exposition is skillfully allotted in brief bursts that don’t mar its pacing. And the action scenes are breathlessly propulsive. Those ingredients launch a tale of a band of  <a href="https://locusmag.com/2024/12/blood-of-the-old-kings-by-sung-il-kim-review-by-sean-dowie/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/blood-of-the-old-kings-by-sung-il-kim-review-by-sean-dowie/>
 
 ---
 

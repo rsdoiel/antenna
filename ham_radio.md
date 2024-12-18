@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2024-12-18 07:05:36
+updated: 2024-12-18 15:46:47
 ---
 
 # ham radio
 
-(date: 2024-12-18 07:05:36)
+(date: 2024-12-18 15:46:47)
+
+---
+
+## Symmetrical 10 V, 1.5 A PWM-programmed power supply
+
+date: 2024-12-18, from: EDN Blog
+
+<img width="1105" height="864" src="https://www.edn.com/wp-content/uploads/BipolarPWM_Figure1.png?fit=1105%2C864" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/BipolarPWM_Figure1.png?w=1105 1105w, https://www.edn.com/wp-content/uploads/BipolarPWM_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/BipolarPWM_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/BipolarPWM_Figure1.png?w=1024 1024w" sizes="(max-width: 1105px) 100vw, 1105px" /><p>A symmetrical 0 V to 10 V, 1.5-A lab supply implements an extra handy trick: computer programming via a single PWM output.</p>
+<p>The post <a href="https://www.edn.com/symmetrical-10-v-1-5-a-pwm-programmed-power-supply/" data-wpel-link="internal">Symmetrical 10 V, 1.5 A PWM-programmed power supply</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/symmetrical-10-v-1-5-a-pwm-programmed-power-supply/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2024-12-18 07:05:36
 
 date: 2024-12-18, from: EDN Blog
 
-<img width="480" height="253" src="https://www.edn.com/wp-content/uploads/Hero-image-Samsung.png?fit=480%2C253" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Samsung.png?w=480 480w, https://www.edn.com/wp-content/uploads/Hero-image-Samsung.png?w=300 300w" sizes="(max-width: 480px) 100vw, 480px" /><p>The new leadership at Samsung's foundry division aims to streamline GAA technology and its yield at 2-nm process node.</p>
+<img width="480" height="253" src="https://www.edn.com/wp-content/uploads/Hero-image-Samsung.png?fit=480%2C253" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Samsung.png?w=480 480w, https://www.edn.com/wp-content/uploads/Hero-image-Samsung.png?w=300 300w" sizes="auto, (max-width: 480px) 100vw, 480px" /><p>The new leadership at Samsung's foundry division aims to streamline GAA technology and its yield at 2-nm process node.</p>
 <p>The post <a href="https://www.edn.com/the-2-nm-process-node-and-samsungs-foundry-crossroads/" data-wpel-link="internal">The 2-nm process node and Samsung’s foundry crossroads</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

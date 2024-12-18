@@ -1,11 +1,287 @@
 ---
 title: science and technology
-updated: 2024-12-18 07:05:37
+updated: 2024-12-18 15:46:47
 ---
 
 # science and technology
 
-(date: 2024-12-18 07:05:37)
+(date: 2024-12-18 15:46:47)
+
+---
+
+## NASA Ames Stars of the Month: January 2025
+
+date: 2024-12-18, from: NASA breaking news
+
+The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Maurice Valdez, Niki Parenteau, Dori Myer, and Judy Alfter. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Science and Astrobiology Star: Maurice Valdez Maurice Valdez is [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-ames-stars-of-the-month-january-2025/>
+
+---
+
+## How to make an Apple Watch work with Android
+
+date: 2024-12-18, from: OS News
+
+What if you have an Android phone, but consider the Apple Watch superior to other smartwatches? Well, you could switch to iOS, or, you know, you could hack your way into making an Apple Watch work with Android, like Abishek Muthian did. So I decided to make Apple Watch work with my Android phone using open-source applications, interoperable protocols and 3rd party services. If you just want to use my code and techniques and not read my commentary on it then feel free to checkout my GitHub for sources. ↫ Abishek Muthian Getting notifications to work, so that notifications from the Android phone would show up on the Apple Watch, was the hardest part. Muthian had to write a Python script to read the notifications on the Android device using Termux, and then use Pushover to send them to the Apple Watch. For things like contacts and calendar, he relied on *DAV, which isn&#8217;t exactly difficult to set up, so pretty much anyone who&#8217;s reading this can do that. Sadly, initial setup of the watch did require the use of an iPhone, using the same SIM as is in the Android phone. This way, it&#8217;s possible to set up mobile data as well as calling, and with the SIM back in the Android phone, a call will show up on both the Apple Watch and the Android device. Of course, this initial setup makes the process a bit more cumbersome than just buying a used Apple Watch off eBay or whatever, but I&#8217;m honestly surprised everything&#8217;s working as well as it does. This goes to show that the Apple Watch is not nearly as &#8220;deeply integrated&#8221; with the iPhone as Apple so loves to claim, and making the Apple Watch work with Android in a more official manner certainly doesn&#8217;t look to be as impossible as Apple makes it out to be when dealing with antitrust regulators. Of course, any official support would be much more involved, especially in the testing department, but it would be absolute peanuts, financially, for a company with Apple&#8217;s disgusting level of wealth. Anyway, if you want to setup an Apple Watch with Android, Muthian has put the code on GitHub. 
+
+<br> 
+
+<https://www.osnews.com/story/141374/how-to-make-an-apple-watch-work-with-android/>
+
+---
+
+## Intel sued again over struggling foundry business
+
+date: 2024-12-18, updated: 2024-12-18, from: The Register (UK I.T. News)
+
+<h4>Derivatives claim seeks damages from execs and board members</h4> <p>Beleaguered chipmaker Intel has been sued yet again by shareholders over its foundry business, this time in a derivative lawsuit targeting executives and board members.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/18/intel_sued_foundry_business/>
+
+---
+
+## The National Film Registry Adds 25 New Movies, Including ‘Dirty Dancing,’ ‘Beverly Hills Cop’ and ‘Star Trek II: The Wrath of Khan'
+
+date: 2024-12-18, from: Smithsonian Magazine
+
+This year’s list includes a diverse set of American films celebrating various genres and storytellers 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-national-film-registry-adds-25-new-movies-including-dirty-dancing-beverly-hills-cop-and-star-trek-ii-the-wrath-of-khan-180985693/>
+
+---
+
+## Officials Ward Off 20,000 Crows With Flares and Lasers in Upstate New York, an Annual Battle Waged in Cities Nationwide
+
+date: 2024-12-18, from: Smithsonian Magazine
+
+Massive roosts of crows in Rochester leave streets covered in feces, but some "corvid fanatics" aren't pleased about certain methods for dealing with the birds 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/officials-ward-off-20000-crows-with-flares-and-lasers-in-upstate-new-york-an-annual-battle-waged-in-cities-nationwide-180985696/>
+
+---
+
+## More NASA Science, Tech will Fly to Moon Aboard Future Firefly Flight
+
+date: 2024-12-18, from: NASA breaking news
+
+NASA continues to advance its campaign to explore more of the Moon than ever before, awarding Firefly Aerospace $179 million to deliver six experiments to the lunar surface. This fourth task order for Firefly will target landing in the Gruithuisen Domes on the near side of the Moon in 2028. As part of the agency’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/more-nasa-science-tech-will-fly-to-moon-aboard-future-firefly-flight/>
+
+---
+
+## A quick look at OS/2’s built-in virtualisation
+
+date: 2024-12-18, from: OS News
+
+Most of us are aware that IBM&#8217;s OS/2 has excellent compatibility with DOS and Windows 3.x programs, to the point where OS/2 just ships with an entire installation of Windows 3.x built-in that you can run multiple instances of. In fact, to this day, ArcaOS, the current incarnation of the maintained and slightly modernised OS/2 codebase, still comes with an entire copy of Windows 3.x, making ArcaOS one of the very best ways to run DOS and Windows 3.x programs on a modern machine, without resorting to VMware or VirtualBox. Peter Hofmann took a look at one of the earlier versions of OS/2 &#8211; version 2.1 from 1993 &#8211; to see how its DOS compatibility actually works, or more specifically, the feature &#8220;DOS from drive A:&#8221;. You can insert a bootable DOS floppy and then run&#160;that&#160;DOS in a new window. Since this is called &#8220;DOS&#160;from drive A:&#8221;, surely this is something DOS-specific, right? Maybe only supports MS-DOS or even only PC DOS? Far from it, apparently. ↫ Peter Hofmann Hofmann wrote a little test program using nothing but BIOS system calls, meaning it doesn&#8217;t use any DOS system calls. This &#8220;real mode BIOS program&#8221; can run from the bootsector, if you wanted to, so after combining his test program with a floppy disk boot record, you end up with a bootable floppy that runs the test program, for instance in QEMU. After a bit of work, the test program on the bootable floppy will work just fine using OS/2&#8217;s &#8220;DOS from drive A:&#8221; feature, even though it shouldn&#8217;t. What this seems to imply is that this functionality in OS/2 2.1 looks a lot like a hypervisor, or as Hofmann puts it, &#8220;basically a builtin QEMU that anybody with a 386 could use&#8221;. That&#8217;s pretty advanced for the time, and raises a whole bunch of questions about just how much you can do with this. 
+
+<br> 
+
+<https://www.osnews.com/story/141369/__trashed-4/>
+
+---
+
+## NASA Payload Aims to Probe Moon’s Depths to Study Heat Flow
+
+date: 2024-12-18, from: NASA breaking news
+
+Earth’s nearest neighboring body in the solar system is its Moon, yet to date humans have physically explored just 5% of its surface. It wasn’t until 2023 – building on Apollo-era data and more detailed studies made in 2011-2012 by NASA’s automated GRAIL (Gravity Recovery and Interior Laboratory) mission – that researchers conclusively determined that [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/clps/nasa-payload-aims-to-probe-moons-depths-to-study-heat-flow/>
+
+---
+
+## NASA Knows: How Does the Sun Behave? (Grades 5-8)
+
+date: 2024-12-18, from: NASA breaking news
+
+This article is for students grades 5-8. The Sun is the star of our solar system. Its gravity holds Earth and our planetary neighbors in its orbit. At 865,000 miles (1.4 million km) in diameter, it’s the largest object in our solar system. On Earth, its influence is felt in our weather, seasons, climate, and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/for-kids-and-students/how-does-the-sun-behave-grades-5-8/>
+
+---
+
+## NASA, CU Enact Collaborative Space Act Agreement
+
+date: 2024-12-18, from: NASA breaking news
+
+NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and Columbia University in New York, New York, enacted a collaborative Space Act Agreement to advance research and education opportunities during a signing ceremony Monday, Dec. 16, at Goddard. Presiding over the ceremony were Dr. Christa Peters-Lidard, director of Goddard’s Sciences and Exploration directorate, and Dr Jeannette [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-cu-enact-collaborative-space-act-agreement/>
+
+---
+
+## US reportedly mulls TP-Link router ban over national security risk
+
+date: 2024-12-18, updated: 2024-12-18, from: The Register (UK I.T. News)
+
+<h4>It could end up like Huawei -Trump&#39;s gonna get ya, get ya, get ya</h4> <p>The Feds may ban the sale of TP-Link routers in the US over ongoing national security concerns about Chinese-made devices being used in cyberattacks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/18/us_govt_probes_tplink_routers/>
+
+---
+
+## OTPS Releases Its 2024 Annual Report
+
+date: 2024-12-18, from: NASA breaking news
+
+NASA’s Office of Technology, Policy, and Strategy, shares highlights from the office in 2024, including key accomplishments and collaborations that support the NASA mission. Read the full report, NASA’s Office of Technology, Policy, and Strategy: A Year in Review 2024 
+
+<br> 
+
+<https://www.nasa.gov/organizations/otps/otps-releases-its-2024-annual-report/>
+
+---
+
+## NASA’s Agency Chief Technologist Presents Their Annual Year in Review 2024
+
+date: 2024-12-18, from: NASA breaking news
+
+OTPS shares an annual letter from the Agency Chief Technologist (ACT), updates on various studies in the technology domain within OTPS, overviews of the center chief technologists, and vignettes of various technology projects across the agency.&#160;Read the full report, A Year in Review 2024 from NASA’s Agency Chief Technologist. 
+
+<br> 
+
+<https://www.nasa.gov/organizations/otps/nasas-agency-chief-technologist-presents-their-annual-year-in-review-for-2024/>
+
+---
+
+## NASA's Starliner Astronauts Face Another Delay in Their Return Home, Drawing Out Their Unexpectedly Long Mission
+
+date: 2024-12-18, from: Smithsonian Magazine
+
+Suni Williams and Butch Wilmore were supposed to stay at the ISS for a little over a week. It's now been more than six months, and the end date has been pushed again 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/nasas-starliner-astronauts-face-another-delay-in-their-return-home-drawing-out-their-unexpectedly-long-mission-180985690/>
+
+---
+
+## NASA’s Spot the Station App Developed by and for the People
+
+date: 2024-12-18, from: NASA breaking news
+
+With more than 25 years of operations, the International Space Station continues to symbolize discovery and cooperation for the benefit of humanity. Since 2012, observers have interacted with the space station through NASA’s Spot the Station website, a web browser-based tool that includes interactive maps for users to track the station and find viewpoints closest [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasas-spot-the-station-app-developed-by-and-for-the-people/>
+
+---
+
+## SpaceX rocketeers get fresh FAA license for next Starship launch
+
+date: 2024-12-18, updated: 2024-12-18, from: The Register (UK I.T. News)
+
+<h4>Authorization comes less than a month after flight 6: &#39;The FAA continues to increase efficiencies&#39;</h4> <p>The US Federal Aviation Administration (FAA) is issuing a license authorization for the next test flight of SpaceX&#39;s Starship.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/18/faa_issues_a_license_for/>
+
+---
+
+## An Alabama Woman Got a Gene-Edited Pig Kidney Transplant. Three Weeks Later, She Has 'Never Felt Better'
+
+date: 2024-12-18, from: Smithsonian Magazine
+
+On November 25, 53-year-old Towana Looney became just the third living person to receive a pig kidney in an experimental procedure 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/an-alabama-woman-got-a-gene-edited-pig-kidney-transplant-three-weeks-later-she-has-never-felt-better-180985692/>
+
+---
+
+## A Mysterious Boulder Carved to Look Like a Tortoise Shell May Offer Evidence of Israel's Earliest Ritual Ceremonies
+
+date: 2024-12-18, from: Smithsonian Magazine
+
+The 35,000-year-old rock was found in Manot Cave, which was inhabited by both prehistoric humans and Neanderthals 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-mysterious-boulder-carved-look-like-tortoise-shell-may-offer-evidence-israels-earliest-ritual-ceremonies-180985691/>
+
+---
+
+## Chandra and Webb Spy a Cosmic Wreath
+
+date: 2024-12-18, from: NASA breaking news
+
+This new image of star cluster NGC 602, released on Dec. 17, 2024, combines data from&#160;NASA’s Chandra X-ray Observatory&#160;with a previously released image from the agency’s&#160;James Webb Space Telescope. Webb data provide the ring-like outline of the “wreath,” while X-rays&#160;from Chandra (red) show young, massive stars that are illuminating the wreath, sending high-energy light into&#160;interstellar [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/chandra-and-webb-spy-a-cosmic-wreath/>
+
+---
+
+## Microsoft won't let customers opt out of passkey push
+
+date: 2024-12-18, updated: 2024-12-18, from: The Register (UK I.T. News)
+
+<h4>Enrolment invitations will continue until security improves</h4> <p>Microsoft last week lauded the success of its efforts to convince customers to use passkeys instead of passwords, without actually quantifying that success.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/18/microsoft_passkey_push/>
+
+---
+
+## Space Gardens
+
+date: 2024-12-18, from: NASA breaking news
+
+Science in Space December 2024 As NASA plans missions to the Moon and Mars, one challenge is figuring out how to provide crew members with enough healthy food. Bringing along a supply for months or even years in space is impractical, and stored food can lose taste and nutritional value. Growing plants in space is [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/space-gardens/>
+
+---
+
+## Boffins trick AI model into giving up its secrets
+
+date: 2024-12-18, updated: 2024-12-18, from: The Register (UK I.T. News)
+
+<h4>All it took to make an Google Edge TPU give up model hyperparameters was specific hardware, a novel attack technique … and several days</h4> <p>Computer scientists from North Carolina State University have devised a way to copy AI models running on Google Edge Tensor Processing Units (TPUs), as used in Google Pixel phones and third-party machine learning accelerators.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/18/ai_model_reveal_itself/>
+
+---
+
+## The Year in Biology
+
+date: 2024-12-18, from: Quanta Magazine
+
+Biologists used artificial intelligence to make discoveries about molecules and the brain, and overturned long-held assumptions about the immune system and RNA.             <p>The post <a href="https://www.quantamagazine.org/the-year-in-biology-20241218/" target="_blank">The Year in Biology</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-year-in-biology-20241218/>
 
 ---
 
@@ -251,7 +527,7 @@ The Airspace Operations and Safety Program (AOSP) enables safe, sustainable, and
 
 ## Nvidia upgrades tiny Jetson Orin Nano dev kits for the holidays
 
-date: 2024-12-17, updated: 2024-12-17, from: The Register (UK I.T. News)
+date: 2024-12-17, updated: 2024-12-18, from: The Register (UK I.T. News)
 
 <h4>&#39;Super&#39; edition promises 67 TOPS and 102GB/s of memory bandwidth for your GenAI projects</h4> <p>Nvidia is bringing the AI hype home for the holidays with the launch of a tiny new dev board called the Jetson Orin Nano Super.…</p> 
 
@@ -827,7 +1103,7 @@ date: 2024-12-16, updated: 2024-12-16, from: The Register (UK I.T. News)
 
 ## Take a closer look at Nvidia's buy of Run.ai, European Commission told
 
-date: 2024-12-16, updated: 2024-12-16, from: The Register (UK I.T. News)
+date: 2024-12-16, updated: 2024-12-18, from: The Register (UK I.T. News)
 
 <h4>Campaign groups, non-profit orgs urge action to prevent GPU maker tightening grip on AI industry</h4> <p>A left-of-center think tank along with other non-profits are urging the European Commission to &#34;fully investigate&#34; Nvidia&#39;s purchase of workload management startup Run:ai amid worries its will help to tighten the GPU titan&#39;s grip on the AI industry.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 

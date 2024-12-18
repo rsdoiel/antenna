@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-12-18 07:05:39
+updated: 2024-12-18 15:46:50
 ---
 
 # craft
 
-(date: 2024-12-18 07:05:39)
+(date: 2024-12-18 15:46:50)
+
+---
+
+## Woodworking Charities We Love & Support
+
+date: 2024-12-18, from: Lost Arg Press blog
+
+Every year Chris, Lucy and I give what we can to a variety of charities. And we are picky. We do our research. And look at the records that charities file each year (here’s a primer). The following woodworking organizations are ones we have supported with both money and time. If you are interested in... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/18/woodworking-charities-we-love-support/>
 
 ---
 

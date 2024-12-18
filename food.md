@@ -1,11 +1,153 @@
 ---
 title: food
-updated: 2024-12-18 07:05:39
+updated: 2024-12-18 15:46:50
 ---
 
 # food
 
-(date: 2024-12-18 07:05:39)
+(date: 2024-12-18 15:46:50)
+
+---
+
+## Little Caesar’s Stuffed Crazy Crust Pizza Is Suddenly Back
+
+date: 2024-12-18, from: Taste of Home
+
+<p>Here's a Christmas gift from Little Caesar's to pizza lovers everywhere.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/little-caesars-stuffed-crazy-crust-pizza/">Little Caesar&#8217;s Stuffed Crazy Crust Pizza Is Suddenly Back</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/little-caesars-stuffed-crazy-crust-pizza/>
+
+---
+
+## BA's Best Old-Fashioned
+
+date: 2024-12-18, from: Bon Appetet
+
+A classic drink that never goes out of style. Stick with these steps and you’ll nail it every time. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/bas-best-old-fashioned-cocktail>
+
+---
+
+## Coca-Cola Plans to Drop a Nostalgic Flavor, and We Can’t Wait
+
+date: 2024-12-18, from: Taste of Home
+
+<p>You're not dreaming! Coca-Cola Orange Cream will be in stores around February 2025.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/coca-cola-orange-cream-2025/">Coca-Cola Plans to Drop a Nostalgic Flavor, and We Can&#8217;t Wait</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/coca-cola-orange-cream-2025/>
+
+---
+
+## Fellow Coffee Grinder Review: A Professional-Grade Pick
+
+date: 2024-12-18, from: Taste of Home
+
+<p>The Fellow coffee grinder is sleek, powerful and ideal for home baristas who are coffee-making pros.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/fellow-coffee-grinder-review/">Fellow Coffee Grinder Review: A Professional-Grade Pick</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/fellow-coffee-grinder-review/>
+
+---
+
+## Bodum Coffee Grinder Review: Intuitive and Easy to Use
+
+date: 2024-12-18, from: Taste of Home
+
+<p>The Bodum coffee grinder was named the best user-friendly coffee grinder for its helpful diagram and easy-to-use features.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/bodum-coffee-grinder-review/">Bodum Coffee Grinder Review: Intuitive and Easy to Use</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/bodum-coffee-grinder-review/>
+
+---
+
+## Inaugural STLCoffeeFest Coming to St. Louis in February
+
+date: 2024-12-18, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest-620x400.png" class="attachment-large size-large wp-post-image" alt="STLCoffeeFest" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee enthusiasts and professionals in the St. Louis area are gearing up for the inaugural STLCoffeeFest, an independent, consumer-focused coffee event taking place Feb. 22, 2025, at 18 Rails at... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/18/inaugural-stlcoffeefest-coming-to-st-louis-in-february/>
+
+---
+
+## The Best Blenders for Smoothies, Tested and Reviewed
+
+date: 2024-12-18, from: Taste of Home
+
+<p>The best blender for smoothies delivers silky smooth drinks. We tried 14 different blenders. These are the 3 that produced perfect results.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-blenders-for-smoothies/">The Best Blenders for Smoothies, Tested and Reviewed</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-blenders-for-smoothies/>
+
+---
+
+## The Best Sprudge Stories Of 2024 (Featuring Buzzy The Bean And Spesh L. Tee)
+
+date: 2024-12-18, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Buzzy and Spesh, oh they places they'll spro. 
+
+<br> 
+
+<https://sprudge.com/the-best-sprudge-stories-of-2024-featuring-buzzy-the-bean-and-spesh-l-tee-262554.html>
+
+---
+
+## The Best Food TV of 2024
+
+date: 2024-12-18, from: Bon Appetet
+
+Culinary Class Wars, Chicken Shop Date, the latest Chef’s Table—these are the food shows of the year that Bon Appétit editors loved most. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-food-tv-2024>
+
+---
+
+## Asian Development Bank and Ecom Sign $100 Million ‘Social Loan’ Deal
+
+date: 2024-12-18, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Vietnam coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Asian Development Bank (ADB) signed a US$100 million loan agreement with Swiss coffee trading giant Ecom designed to strengthen climate resilience within the conglomerate&#8217;s coffee supply chain in Asia.... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/18/asian-development-bank-and-ecom-sign-100-million-social-loan-deal/>
+
+---
+
+## I Need to Make Panettone
+
+date: 2024-12-18, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris and panettone expert Roy Shvartzapel help Brad overcome his many panettone making fails. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-to-make-panettone>
 
 ---
 
@@ -13,7 +155,7 @@ updated: 2024-12-18 07:05:39
 
 date: 2024-12-18, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Em Coffee &#8211; Interiors-02" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The owners of the San Diego-based Ding Tea bubble tea chain expanded earlier this fall with a cafe concept that celebrates Vietnamese coffee called Em Coffee House. Opened Nov. 18,... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Em Coffee &#8211; Interiors-02" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The owners of the San Diego-based Ding Tea bubble tea chain expanded earlier this fall with a cafe concept that celebrates Vietnamese coffee called Em Coffee House. Opened Nov. 18,... 
 
 <br> 
 
@@ -149,7 +291,7 @@ date: 2024-12-17, from: The Sprudge
 
 date: 2024-12-17, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/deforestation-620x414.jpg" class="attachment-large size-large wp-post-image" alt="deforestation" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/deforestation-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/deforestation-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/deforestation-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/deforestation-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/deforestation.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The European Union Parliament voted overwhelmingly today to postpone enforcement of the landmark EU deforestation-free supply chains law, known as EUDR. The EU Parliament adopted the extension by a vote... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/deforestation-620x414.jpg" class="attachment-large size-large wp-post-image" alt="deforestation" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/deforestation-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/deforestation-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/deforestation-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/deforestation-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/deforestation.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The European Union Parliament voted overwhelmingly today to postpone enforcement of the landmark EU deforestation-free supply chains law, known as EUDR. The EU Parliament adopted the extension by a vote... 
 
 <br> 
 

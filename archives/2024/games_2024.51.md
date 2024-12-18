@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2024-12-18 07:05:38
+updated: 2024-12-18 15:46:48
 ---
 
 # games
 
-(date: 2024-12-18 07:05:38)
+(date: 2024-12-18 15:46:48)
+
+---
+
+## Become the best DM for less than $20 with this Ultimate RPG books bundle
+
+date: 2024-12-18, updated: 2024-12-18, from: Polygon Website
+
+For Humble Bundle’s Very Humble Holiday, Adams Media is having a flash bundle sale that will give you all the skills and knowledge you need to be a great dungeon master. Raising money for Worldreader, the bundle includes 22 books collected from the Ultimate RPG series, Teri Litorco’s Civilized Guide to Tabletop Gaming, the Düngeonmeister [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/499517/ultimate-rpg-series-deal-james-damato-bundle-humble>
+
+---
+
+## The new Palia patch adds board games and more furniture colors
+
+date: 2024-12-18, updated: 2024-12-18, from: Polygon Website
+
+Palia is a cozy crafting game set in a beautiful fantasy world where humans have recently re-emerged into a world claimed by friendly elves and helpful robots. Over the game’s time in beta, game developer Singularity 6 has been adding new activities in the underground market of Kilima village and the open zone of Bahari [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/499452/palia-holiday-homestead-patch-winterlights-cozy-gaming>
+
+---
+
+## Elden Ring Nightreign director says ditching 2-player co-op is a ‘balancing decision’
+
+date: 2024-12-18, updated: 2024-12-18, from: Polygon Website
+
+Elden Ring Nightreign is a cooperative spinoff with an asterisk. You can play it with a group of three or by yourself, but not in a duo, according to an IGN interview with director Junya Ishizaki. There isn’t a technical reason for this awkward limitation, however. It’s about game balance. “This was largely a game [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring/499281/nightreign-two-player-co-op>
+
+---
+
+## All Slay Ride to Hell event rewards in Diablo 4
+
+date: 2024-12-18, updated: 2024-12-18, from: Polygon Website
+
+Slay Ride to Hell is the final 2024 event for Diablo 4, closing out the year with a big community event. It’s all focused around slaying Treasure Goblins. By participating alongside the rest of the Diablo 4 community, you can pick up some excellent loot and some festive cosmetics just for logging in. In this [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/499362/slay-ride-to-hell-event-rewards-all-tiers>
+
+---
+
+## Make your own Hot Frosty with this Hallmark rom-com tabletop RPG
+
+date: 2024-12-18, updated: 2024-12-18, from: Polygon Website
+
+The holiday season is in full swing, which can only mean one thing: cheesy holiday rom-coms are back. Hallmark invented the form, Richard Curtis stole the throne with Love Actually, and Netflix is hot on their heels with cultural moments like the sexy-snowman movie Hot Frosty. But no one knows how to make a better [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/499401/romantic-comedy-tabletop-roleplaying-game-hometown-holiday>
+
+---
+
+## How to solve the Hidden Pyramid Game Room puzzle in Indiana Jones and the Great Circle
+
+date: 2024-12-18, updated: 2024-12-18, from: Polygon Website
+
+The Nephilim Game in the Game Room is a puzzle you’ll find as you explore the Hidden Pyramid in Indiana Jones and the Great Circle’s Sukhothai. You’ll find the puzzle at the end of your trip through the secret pyramid. Our Indiana Jones and the Great Circle guide will show you how to solve the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/indiana-jones-great-circle-guide/499251/hidden-pyramid-game-room-puzzle-solution-how-to-solve>
+
+---
+
+## Sony’s best wireless earbuds are $100 off ahead of the holidays
+
+date: 2024-12-18, updated: 2024-12-18, from: Polygon Website
+
+If you’ve been waiting to buy a new pair of noise-canceling earbuds, you may want to consider this deal on the Sony WF-1000XM5, the company’s latest, greatest wireless earbuds. They usually sell at $299.99, but right now you can pick up a pair from Amazon or Best Buy for $199.99. This is the lowest price [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/499190/sony-wf1000xm5-inzone-wireless-earbuds-sale>
+
+---
+
+## Prince of Persia: The Lost Crown’s accessibility doesn’t ‘dilute’ the game: ‘It’s the opposite’
+
+date: 2024-12-18, updated: 2024-12-18, from: Polygon Website
+
+Prince of Persia: The Lost Crown is designed to be hard. It’s also designed, from the ground up, to be accessible. These things aren’t at odds with each other. Ubisoft Montpellier integrated accessibility options into every part of the game from the start; there was no one team designated to do the work, senior game [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/499327/prince-of-persia-lost-crown-accessibility-tgas-game-awards>
+
+---
+
+## When does Winterfest start in Fortnite?
+
+date: 2024-12-18, updated: 2024-12-18, from: Polygon Website
+
+Winterfest is returning to Fortnite from Friday, Dec. 20, to Tuesday, Jan. 7, 2025. The annual holiday event brings along free outfits, wrapped presents, items, and map updates to Fortnite Chapter 6 Season 1. However, the most important of them all — the cabin is coming back to Winterfest. Here’s when Fortnite Winterfest 2024 starts [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/497196/winterfest-2024-start-release-time-est-pst-bst>
 
 ---
 

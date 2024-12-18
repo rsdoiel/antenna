@@ -1,11 +1,167 @@
 ---
 title: home
-updated: 2024-12-18 07:05:38
+updated: 2024-12-18 15:46:49
 ---
 
 # home
 
-(date: 2024-12-18 07:05:38)
+(date: 2024-12-18 15:46:49)
+
+---
+
+## Governor Newsom takes proactive action to strengthen robust state response to Bird Flu
+
+date: 2024-12-18, from: Calfifornia Dept. Aggriculture blog
+
+News Release from Governor Newsom What you need to know: Following the spread of Bird Flu in sixteen states, including in California and outside the Central Valley, Governor Newsom proclaimed a State of Emergency today to further enhance the state&#8217;s &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28493">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28493>
+
+---
+
+## AT&T To Stop Landline Service Everywhere Except This One State
+
+date: 2024-12-18, from: Family Handyman Blog
+
+<p>AT&#038;T has announced plans to cut landline service in almost all of the United States. Learn which states are affected and why. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/att-to-stop-landline-service/">AT&#038;T To Stop Landline Service Everywhere Except This One State</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/att-to-stop-landline-service/>
+
+---
+
+## Why People Hang Pennies in a Bag of Water Outside Their House
+
+date: 2024-12-18, from: Family Handyman Blog
+
+<p>If you're looking for a pest control experiment, or are puzzled by seeing pennies in a bag of water at a friend's house, we've got answers.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/bag-with-pennies-keep-flies-away/">Why People Hang Pennies in a Bag of Water Outside Their House</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/bag-with-pennies-keep-flies-away/>
+
+---
+
+## How the "The Brutalist" Production Designer Went "Method" to Embody a Fictional Architect
+
+date: 2024-12-18, from: Dwell
+
+Judy Becker discusses crafting László Toth's modernist on-screen universe—including his buildings. 
+
+<br> 
+
+<https://www.dwell.com/article/how-the-the-brutalist-production-designer-went-method-to-embody-a-fictional-architect-e04629b0>
+
+---
+
+## California and Secretary Ross welcome $21.5 million investment from USDA to strengthen supply chain and local and regional food systems
+
+date: 2024-12-18, from: Calfifornia Dept. Aggriculture blog
+
+From a USDA News Release The U.S. Department of Agriculture’s (USDA) Agricultural Marketing Service (AMS) today announced it has partnered with the California Department of Food and Agriculture (CDFA) to award $21.5 million for 117 projects through the Resilient Food &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28488">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28488>
+
+---
+
+## Talk About Forest Bathing—This Wooded Quebecois Retreat Is Packed With Spa-Like Amenities
+
+date: 2024-12-18, from: Dwell
+
+Named after the sélénite crystal, the sparkling-white ADA-friendly rental has a steam bath, a sauna, a salt room, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/habitat-selenite-naturehumaine-universal-design-spa-like-home-fc6f0c4a>
+
+---
+
+## How to Identify and Control 13 Common Orchid Pests
+
+date: 2024-12-18, from: The Gardener's Path
+
+<p>Orchids are some of the world's most exquisite perennial flowers, appreciated as houseplants and garden specimens worldwide. These diverse plants can be attacked by a number of different pests, especially when stressed. Learn how to identify and control 13 common orchid pests in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/orchid-pests/">How to Identify and Control 13 Common Orchid Pests</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/orchid-pests/>
+
+---
+
+## Hey Rock Climbing Buffs: This Manhattan Townhouse Has an 83-Foot Climbing Wall
+
+date: 2024-12-18, from: Dwell
+
+Architect Adam Kushner reimagined the landmark 19th-century home with a double-height living area, a central courtyard, and a rooftop deck. 
+
+<br> 
+
+<https://www.dwell.com/article/manhattan-townhouse-adam-kushner-climbing-wall-new-york-city-real-estate-287903a7>
+
+---
+
+## Why You Shouldn’t Crush Aluminum Cans Before Recycling
+
+date: 2024-12-18, from: Family Handyman Blog
+
+<p>Think twice before flattening those aluminum cans—your recycling habits could be impacting the planet more than you realize.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/should-you-crush-aluminum-cans/">Why You Shouldn&#8217;t Crush Aluminum Cans Before Recycling</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/should-you-crush-aluminum-cans/>
+
+---
+
+## Jeep Renegade Recalled Over Reverse Lights Issue
+
+date: 2024-12-18, from: Family Handyman Blog
+
+<p>Chrysler has announced a recall of thousands of its Jeep Renegade vehicles due to a visibility issue with the bumper light assembly. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/jeep-renegade-recalled-over-reverse-lights-issue/">Jeep Renegade Recalled Over Reverse Lights Issue</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/jeep-renegade-recalled-over-reverse-lights-issue/>
+
+---
+
+## Before & After: Copious Cabinetry Makes a Compact Flat Work for a Family of Four
+
+date: 2024-12-18, from: Dwell
+
+Sugarhouse Design & Architecture sought to "pack in storage at every opportunity" as they revised this 1,171-square-foot Manhattan apartment. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-cohen-citron-residence-sugarhouse-design-and-architecture-500a90a3>
+
+---
+
+## Elevate Your Space: Building the Perfect DIY Loft Bed
+
+date: 2024-12-18, from: Family Handyman Blog
+
+<p>Dive into this step-by-step guide on how to build a loft bed that combines style, functionality, and simplicity.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-build-a-loft-bed/">Elevate Your Space: Building the Perfect DIY Loft Bed</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-build-a-loft-bed/>
 
 ---
 
@@ -18,6 +174,186 @@ The 75-year-old postwar subdivision of Arapahoe Acres near Denver is one place i
 <br> 
 
 <https://www.dwell.com/article/arapahoe-acres-englewood-colorado-midcentury-neighborhood-preservation-5b32ae2a>
+
+---
+
+## From a Crab Feast to a Festive Meal for Two, These Holiday Menu Ideas Work for Any Type of Gathering
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+Plan the perfect menu for your Christmas party. Get great menu ideas for classic holiday dinners, finger-food parties, and an easy holiday buffet. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays-occasions/christmas-holiday-menu-recipes>
+
+---
+
+## Finger Food Feast
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+Share simple, spicy stews and flatbread, Ethiopian-style 
+
+<br> 
+
+<https://www.sunset.com/food-wine/entertaining/finger-food-feast>
+
+---
+
+## Easy Holiday Beef Brisket
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+Jewish family favorite for a traditional holiday meal 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays-occasions/easy-holiday-beef-brisket>
+
+---
+
+## Easy Open House Party
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+Make a few choice recipes, then round them out with great buy-and-serve foods from around the West. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/entertaining/easy-open-house-party>
+
+---
+
+## Dinner at the Ranch
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+Celebrate the season with a menu inspired by rancher Bill Niman and friends 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays-occasions/dinner-at-ranch>
+
+---
+
+## Christmas in the Rockies
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+A rich and hearty Norwegian dinner brings the Old World to Colorado 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays-occasions/christmas-in-the-rockies>
+
+---
+
+## An Italian Family Lunch
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+Four generations share a traditional rustic menu at their annual celebration 
+
+<br> 
+
+<https://www.sunset.com/food-wine/entertaining/an-italian-family-lunch>
+
+---
+
+## 16 Extra-Special Holiday Appetizers That Will Impress Your Holiday Guests
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+Holiday gatherings are special by definition. So pull out all the stops and let guests know they’re in for a treat by starting the party with these extravagant appetizers 
+
+<br> 
+
+<https://www.sunset.com/food-wine/entertaining/christmas-appetizers>
+
+---
+
+## Simple Swaps to Make Your Holiday Favorites Vegan- and Vegetarian-Friendly
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+Simple ideas to make meals everyone can enjoy, without sacrificing flavor and texture. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/simple-swaps-to-make-your-holiday-favorites-vegan-and-vegetarian-friendly>
+
+---
+
+## 13 Festive Dishes for a Vegetarian Christmas Dinner
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+Feeding vegetarians at Christmas dinner? These special-occasion recipes will be big hits with omnivores, too. Try these tasty dishes out. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays-occasions/vegetarian-christmas-dinner>
+
+---
+
+## Creative Holiday Cocktail Ideas, for Boozy Brunch and Nonalcoholic Treats
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+These drinks and cocktail recipes are the perfect companions to your Christmas brunch. You'll find boozy ideas and some non-alcoholic ones here, too. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/christmas-drink-recipes-brunch>
+
+---
+
+## The Best Travel Gifts for Every Adventurer in Your Life
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+Got an adventurer on your gift list? Our editors picked the best travel gifts. These finds can elevate their explorations, no matter where they are. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/best-travel-gifts>
+
+---
+
+## Absolutely Everything You Need to Know About Maximizing Your Airport Lounge Time
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+Here's how to optimize your travel experience with airport lounges, according to an expert. Live in luxury away from chaotic airport crowds. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-tips/airport-lounge-tips>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Everything You Need to Know About Celebrating the Holidays at Disneyland
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+It's the merriest time of year, especially at the Disneyland Resort. From parades to fireworks, there's a lot going on at the park right now. 
+
+<br> 
+
+<https://www.sunset.com/travel/holidays-at-disneyland-2024>
 
 ---
 
@@ -185,7 +521,7 @@ CDFA Fertilizing Materials Inspection Program Manager Nick Young was recently aw
 
 ---
 
-## In Houston, a Home on Stilts Overlooking "Mount Rush Hour" Seeks $1.6M
+## In Houston, a Home on Stilts Overlooking "Mount Rush Hour" Seeks $1.5M
 
 date: 2024-12-17, from: Dwell
 
@@ -242,18 +578,6 @@ Passersby get a glimpse of residents through translucent panels that form a hall
 <br> 
 
 <https://www.dwell.com/article/house-b-kart-projects-renovation-extension-translucent-walkway-30c60163>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-12-17, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

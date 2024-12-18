@@ -1,11 +1,202 @@
 ---
 title: columns
-updated: 2024-12-18 07:05:37
+updated: 2024-12-18 15:46:48
 ---
 
 # columns
 
-(date: 2024-12-18 07:05:37)
+(date: 2024-12-18 15:46:48)
+
+---
+
+##  The Muppets&#8217; Carol of the Bells 
+
+date: 2024-12-18, updated: 2024-12-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/the-muppets-carol-of-the-bells>
+
+---
+
+##  The Missing van Gogh Masterpiece 
+
+date: 2024-12-18, updated: 2024-12-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/the-missing-van-gogh-masterpiece>
+
+---
+
+##  I&#8217;m an Apple News+ Article. Come and Get Me, Baby. &#8220;&#8216;You can... 
+
+date: 2024-12-18, updated: 2024-12-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045883-im-an-apple-news-article>
+
+---
+
+##  Saving this for future reference: the 25 most popular recipes published by... 
+
+date: 2024-12-18, updated: 2024-12-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045885-saving-this-for-future-re>
+
+---
+
+##  Thanks to a large donation, lift tickets will be free all season... 
+
+date: 2024-12-18, updated: 2024-12-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045884-thanks-to-a-large-donatio>
+
+---
+
+## December 17, 2024
+
+date: 2024-12-18, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153324524/53deb15e1a1d6a43bd6f9cd13c152b2e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153324524/53deb15e1a1d6a43bd6f9cd13c152b2e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-17-2024-dc6>
+
+---
+
+##  &#8220;Substack Is At It Again&#8221; 
+
+date: 2024-12-18, updated: 2024-12-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/substack-is-at-it-again>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-12-18, from: Miguel de Icaza Mastondon feed)
+
+<p>Michael Moore’s response to be mentioned by Luigi is going to carry me through the day:</p><p><a href="https://www.michaelmoore.com/p/a-manifesto-against-for-profit-health" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">michaelmoore.com/p/a-manifesto</span><span class="invisible">-against-for-profit-health</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113675069054568576>
+
+---
+
+##  How to make your own Die Hard Christmas tree ornament of John... 
+
+date: 2024-12-18, updated: 2024-12-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045860-how-to-make-your-own>
+
+---
+
+## Acorn 8’s Documentation
+
+date: 2024-12-18, updated: 2024-12-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://flyingmeat.com/acorn/docs/>
+
+---
+
+##  I am almost positive that I have posted this before but I... 
+
+date: 2024-12-18, updated: 2024-12-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045879-i-am-almost-positive-that>
+
+---
+
+## New Advances in the Understanding of Prime Numbers
+
+date: 2024-12-18, updated: 2024-12-18, from: Bruce Schneier blog
+
+<p>Really interesting <a href="https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/">research</a> into the structure of prime numbers. Not immediately related to the cryptanalysis of prime-number-based public-key algorithms, but every little bit matters.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/12/new-advances-in-the-understanding-of-prime-numbers.html>
+
+---
+
+## Dan Moren on Acorn 8
+
+date: 2024-12-18, updated: 2024-12-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/post/2024/12/acorn-8-brings-subject-selection-live-text-data-merge-more/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-18, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/10/10/ronaldMcGrimace.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've got a new project called <a href="https://github.com/scripting/davegpt">davegpt</a>, it's in GitHub, open source of course. I also created a ChatGPT project with the same code (new feature introduced on Monday). Presumably I can ask it questions about the code. Because I have a <a href="https://github.com/scripting/davegpt/blob/main/worknotes.md">worknotes.md</a> file in the GitHub project, ChatGPT understands where I want to take this project. Most amazing, it wrote a <a href="https://github.com/scripting/davegpt/blob/main/gptnotes.md">summary</a> of what it saw in the project. I <a href="https://github.com/scripting/davegpt/blob/main/gptnotes.md">added that</a> to the GitHub project, of course, and since it was in Markdown, it fit right in with no mods. The power of standards. I love it when things that should work, do. The next step is to implement a feature in the new Bingeworthy that can only be done with an AI bot like ChatGPT. It's such a thrill to be working on this stuff as it's happening. And what a delight that it has an API. I don't mind that I'm paying for it, I love the idea of paying to break down walls to create new things that couldn't have been created before. 
+
+<br> 
+
+<http://scripting.com/2024/12/18.html#a160909>
+
+---
+
+## MacOS 15.2 Breaks the Ability to Create Bootable Startup Drive Backups
+
+date: 2024-12-18, updated: 2024-12-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/>
+
+---
+
+##  They Thought They Were Free 
+
+date: 2024-12-18, updated: 2024-12-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/they-thought-they-were-free>
 
 ---
 

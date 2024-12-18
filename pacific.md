@@ -1,11 +1,100 @@
 ---
 title: pacific
-updated: 2024-12-18 07:05:36
+updated: 2024-12-18 15:46:47
 ---
 
 # pacific
 
-(date: 2024-12-18 07:05:36)
+(date: 2024-12-18 15:46:47)
+
+---
+
+## Aging crisis threatens Hawaiʻi’s economic stability, UHERO report warns
+
+date: 2024-12-18, from: University of Hawaiʻi News
+
+<p>The study recommends a balanced approach to resource allocation, considering the economic needs of children, working-age adults and seniors.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/18/aging-crisis-uhero-report/">Aging crisis threatens Hawaiʻi’s economic stability, <abbr>UHERO</abbr> report warns</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/18/aging-crisis-uhero-report/>
+
+---
+
+## Palauan students thrive at UH Mānoa’s College of Social Sciences
+
+date: 2024-12-18, from: University of Hawaiʻi News
+
+<p>The Aloha Pathways program offers a simplified transfer process for students from partner institutions in <span aria-label="Hawaii">Hawai&#699;i</span>, California, Asia and the Pacific.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/18/palauan-students-thrive-css/">Palauan students thrive at <abbr>UH</abbr> Mānoa’s College of Social Sciences</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/18/palauan-students-thrive-css/>
+
+---
+
+## Hospitals overwhelmed as Vanuatu quake's death and damage toll rises 
+
+date: 2024-12-18, from: Pacific Island Times
+
+At least 14 people have been killed and hundreds injured The 7.3 magnitude earthquake caused widespread infrastructure damage, including... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/vanuatu-s-earthquake-death-toll-14>
+
+---
+
+## United opens bookings for new nonstop Taipei-Guam service 
+
+date: 2024-12-18, from: Pacific Island Times
+
+By Pacific Island Times News Staff United Airlines has opened a booking service for customers seeking to travel the Taipei-Guam route,... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/united-opens-bookings-for-new-nonstop-taipei-guam-service>
+
+---
+
+## International student finds community, purpose at UH Mānoa
+
+date: 2024-12-18, from: University of Hawaiʻi News
+
+<p>Despite the challenges of being thousands of miles from family, Ritu Krishna Raju found a second home in <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/18/student-finds-community/">International student finds community, purpose at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/18/student-finds-community/>
+
+---
+
+## Image of the Week: Aloha President Lassner
+
+date: 2024-12-18, from: University of Hawaiʻi News
+
+<p>This week's image is from President Lassner's retirement party.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/18/image-of-the-week-aloha-president-lassner/">Image of the Week: Aloha President Lassner</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/18/image-of-the-week-aloha-president-lassner/>
+
+---
+
+## 91-year-old earns master’s degree, 70+ years after journey began
+
+date: 2024-12-18, from: University of Hawaiʻi News
+
+<p>Thomas Mui said that he was inspired to finish his degree after 105-year-old Virginia Hislop received her graduate degree from Stanford earlier this year.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/18/91-year-old-earns-masters-degree/">91-year-old earns master’s degree, 70+ years after journey began</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/18/91-year-old-earns-masters-degree/>
 
 ---
 
@@ -233,6 +322,48 @@ date: 2024-12-18, from: Hawaii Tribune Harold
 
 ---
 
+## County extends Impact Grant Program deadline
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>The county Department of Research and Development is extending the application deadline for its Impact Grant Program to 4:30 p.m. Wednesday, Feb. 5.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/hawaii-news/county-extends-impact-grant-program-deadline/>
+
+---
+
+## Roadwork continues on Makaʻala Street
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Department of Public Works will continue road paving this week on Maka&#699;ala Street near the intersection with Kanoelehua Avenue.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/hawaii-news/roadwork-continues-on-maka%ca%bbala-street/>
+
+---
+
+## HVO reports increase in seismic activity at Kilauea
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaiian Volcano Observatory is monitoring recent increases in seismic activity beneath Kilauea.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/hawaii-news/hvo-reports-increase-in-seismic-activity-at-kilauea/>
+
+---
+
 ## UH Maui College Holiday Bash shines bright
 
 date: 2024-12-18, from: University of Hawaiʻi News
@@ -259,12 +390,12 @@ The post <a href="https://www.hawaii.edu/news/2024/12/17/meet-wendy-hensel/">Mee
 
 ---
 
-## UH ‘most important institution for Hawaiʻi’s future:’ David Lassner’s aloha interview
+## UH ‘most important institution for Hawaiʻi’s future’: David Lassner’s aloha interview
 
 date: 2024-12-18, from: University of Hawaiʻi News
 
 <p>Lassner sat down for a wide-ranging interview with <em><abbr>UH</abbr> News</em> less than three weeks before his retirement, covering his 47-year <abbr>UH</abbr> career.</p>
-The post <a href="https://www.hawaii.edu/news/2024/12/17/uh-hawaiis-future-lassners-aloha-interview/"><abbr>UH</abbr> ‘most important institution for Hawaiʻi’s future:’ David Lassner’s aloha interview</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2024/12/17/uh-hawaiis-future-lassners-aloha-interview/"><abbr>UH</abbr> ‘most important institution for Hawaiʻi’s future’: David Lassner’s aloha interview</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <br> 
 

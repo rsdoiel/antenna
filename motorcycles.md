@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2024-12-18 07:05:39
+updated: 2024-12-18 15:46:50
 ---
 
 # motorcycles
 
-(date: 2024-12-18 07:05:39)
+(date: 2024-12-18 15:46:50)
+
+---
+
+## Snowmobiler Asks the Supreme Court to Throw Out Sentence for Doing Something Stupid
+
+date: 2024-12-18, from: Ride Apart, Electric Motorcycle News
+
+Do stupid things, win stupid prizes. Everyone knows that.  
+
+<br> 
+
+<https://www.rideapart.com/news/744761/snowmobile-supreme-court-david-lesh-influencer/>
 
 ---
 

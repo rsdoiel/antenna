@@ -1,11 +1,107 @@
 ---
 title: socal north
-updated: 2024-12-18 07:05:36
+updated: 2024-12-18 15:46:47
 ---
 
 # socal north
 
-(date: 2024-12-18 07:05:36)
+(date: 2024-12-18 15:46:47)
+
+---
+
+## More infants in OC are getting exposed to substances, report finds
+
+date: 2024-12-18, updated: 2024-12-18, from: The LAist
+
+The finding is among several in Orange County's "Conditions of Children" report identifying youth and maternal health disparities. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/more-infants-in-oc-are-getting-exposed-to-substances-report-finds>
+
+---
+
+## US to pay $116M settlement over rampant sexual abuse at California women's prison
+
+date: 2024-12-18, updated: 2024-12-18, from: The LAist
+
+The lawsuits were brought by more than 100 women who say they were abused or mistreated at a now-shuttered federal prison in California that was known as the "rape club" because of rampant staff-on-inmate sexual misconduct. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/settlement-sexual-abuse-dublin-prison>
+
+---
+
+## Watch where you park: Red flag restrictions in effect for parts of LA
+
+date: 2024-12-18, updated: 2024-12-18, from: The LAist
+
+No parking signs will be posted in the impacted areas until Thursday morning. 
+
+<br> 
+
+<https://laist.com/news/transportation/red-flag-parking-restrictions-la>
+
+---
+
+## Billie Eilish thought she'd always have a soft voice. Singing lessons changed that
+
+date: 2024-12-18, updated: 2024-12-18, from: The LAist
+
+The Grammy Award-winning singer says working with a vocal coach "honestly changed my life." Eilish and her brother/collaborator Finneas talk about their new album, Hit Me Hard and Soft. 
+
+<br> 
+
+<https://laist.com/news/billie-eilish-singing-lessons>
+
+---
+
+## Topanga Canyon Boulevard is closing until this evening amid wildfire warnings. Here's why
+
+date: 2024-12-18, updated: 2024-12-18, from: The LAist
+
+Officials say they don’t take these decisions lightly, but it’s about saving the lives of the thousands of people who live in the area. 
+
+<br> 
+
+<https://laist.com/news/transportation/topanga-canyon-boulevard-closures-wildfire-warnings-explained>
+
+---
+
+## Biden administration approves California electric car mandate
+
+date: 2024-12-18, updated: 2024-12-18, from: The LAist
+
+The EPA granted California’s waiver, which the incoming Trump administration is likely to try to overturn in the courts. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/epa-approves-ca-electric-car-mandate>
+
+---
+
+## You don't look a day over 4.35 billion! Here's the moon's anti-aging secret
+
+date: 2024-12-18, updated: 2024-12-18, from: The LAist
+
+Early interactions with the Earth may have heated up the Moon and caused it to remelt, producing new lunar rocks and erasing old craters. 
+
+<br> 
+
+<https://laist.com/news/moon-age-jupiter-io-tidal-heating>
+
+---
+
+## Taking vitamin D is unlikely to prevent falls or fractures. Here's what it does
+
+date: 2024-12-18, updated: 2024-12-18, from: The LAist
+
+Vitamin D is good for the immune system, but in older people it doesn't prevent falls or fractures, according to health experts at the U.S. Preventive Services Task Force. 
+
+<br> 
+
+<https://laist.com/news/vitamin-d-falls-fractures>
 
 ---
 
@@ -18,18 +114,6 @@ Warmest temperatures of the week
 <br> 
 
 <https://laist.com/news/climate-environment/warm-and-windy-conditions-continue-with-risk-of-wildfires>
-
----
-
-## Public employees often must disclose outside income and gifts to the public. Why aren’t top LA homelessness officials?
-
-date: 2024-12-18, updated: 2024-12-18, from: The LAist
-
-Out of hundreds of employees at the L.A. Homeless Services Authority, only the CEO currently files state-mandated disclosure forms meant to flag potential conflicts of interest, according to an LAist review of records. State officials say they will be looking into the issue after LAist brought it to their attention. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/lahsa-financial-disclosure-form-700-transparency>
 
 ---
 
@@ -54,6 +138,18 @@ Students will receive the payments for one year. The program aims to bridge the 
 <br> 
 
 <https://laist.com/news/education/how-la-college-students-are-using-monthly-guaranteed-income>
+
+---
+
+## Public employees often must disclose outside income and gifts to the public. Why aren’t top LA homelessness officials?
+
+date: 2024-12-18, updated: 2024-12-18, from: The LAist
+
+Out of hundreds of employees at the L.A. Homeless Services Authority, only the CEO currently files state-mandated disclosure forms meant to flag potential conflicts of interest, according to an LAist review of records. State officials say they will be looking into the issue after LAist brought it to their attention. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/lahsa-financial-disclosure-form-700-transparency>
 
 ---
 
@@ -341,7 +437,7 @@ Once Upon a Mattress brings Broadway joy to the Ahmanson, Billie Eilish slays at
 
 ## What is the LAUSD school board and how do I put them to work for me?
 
-date: 2024-12-16, updated: 2024-12-17, from: The LAist
+date: 2024-12-16, updated: 2024-12-18, from: The LAist
 
 It’s the most powerful school board in the country. And it faces enormous challenges, including funding shortfalls, chronic absenteeism, and safety concerns. 
 

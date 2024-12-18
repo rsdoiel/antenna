@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-12-18 07:05:38
+updated: 2024-12-18 15:46:49
 ---
 
 # libraries
 
-(date: 2024-12-18 07:05:38)
+(date: 2024-12-18 15:46:49)
 
 ---
 
@@ -75,7 +75,7 @@ As 2024 comes to a close, we&rsquo;re reflecting on where ROR is now, and the an
 
 date: 2024-12-17, from: Association of Research Libraries News
 
-<p>Last Updated on December 17, 2024, 10:17 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, December 17 &#124; Wednesday, December 18 &#124; Thursday,...</p>
+<p>Last Updated on December 18, 2024, 2:59 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, December 17 &#124; Wednesday, December 18 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-december-16-19/">Day in Review (December 16–19)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

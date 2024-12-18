@@ -1,11 +1,203 @@
 ---
 title: journalism
-updated: 2024-12-18 07:05:38
+updated: 2024-12-18 15:46:49
 ---
 
 # journalism
 
-(date: 2024-12-18 07:05:38)
+(date: 2024-12-18 15:46:49)
+
+---
+
+## The 2024 gift guide for journalists
+
+date: 2024-12-18, from: Nieman Journalism Lab
+
+Are you still looking for a holiday gift for the journalist in your life, or perhaps just doing a little shopping for yourself? We&#8217;ve got a bunch of ideas for you, whether you&#8217;re looking to give someone something to wear, something to read, or something to help organize life. A game to play A local... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-2024-gift-guide-for-journalists/>
+
+---
+
+## Reaching the hard-to-reach
+
+date: 2024-12-18, from: Nieman Journalism Lab
+
+I expect journalists to be consumed in the coming year with the riddle of how to break through to people who don&#8217;t read or trust them. Easy answers elude our industry. We rightly bemoan the gutting of local news, and the sense of connection and trust the best of these places were able to build.... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/reaching-the-hard-to-reach/>
+
+---
+
+## Newsrooms face a left-brain/right-brain divide
+
+date: 2024-12-18, from: Nieman Journalism Lab
+
+The real divide in newsrooms isn&#8217;t between editorial and advertising — it&#8217;s between left-brain (math, logic) and right-brain (creativity, intuition) functions. Hidden left-brained infrastructure underpins modern media businesses. It enables editors, product managers, brand strategists, developers, and sales teams to focus on higher-order, right-brain problems. In print publishing, this hidden infrastructure manages printing, sales, and... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/newsrooms-face-a-left-brain-right-brain-divide/>
+
+---
+
+## Journalism faces its Kobayashi Maru moment
+
+date: 2024-12-18, from: Nieman Journalism Lab
+
+2025 presents journalism with its Kobayashi Maru moment — an impossible scenario created by two converging forces. First, the 2024 U.S. election exposed how traditional media has lost its position as the primary information source for many Americans. While mainstream news invested heavily in conventional election coverage, audiences turned to alternative sources — from subject-matter-expert... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/journalism-faces-its-kobayashi-maru-moment/>
+
+---
+
+## News faces its final unbundling
+
+date: 2024-12-18, from: Nieman Journalism Lab
+
+The coming year will reveal the final phase in the long unbundling of the news industry. The industry will have to confront the growing class of podcasters, influencers, and Substackers, combined with the waning reach on social media, that has separated those that build knowledge through reporting from the voices that help make sense of... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/news-faces-its-final-unbundling/>
+
+---
+
+## There will be no second Trump Bump
+
+date: 2024-12-18, from: Nieman Journalism Lab
+
+The last Trump presidency catalyzed a movement around the importance of journalism. Billionaire-led newspapers crafted bold, public-facing mission statements like &#8220;Democracy Dies in Darkness.&#8221; Budgets soared. So did pageviews. When I told people what I did for a living at a party, I&#8217;d get a nod and a &#8220;So important.&#8221; And journalism organizations, for the... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/there-will-be-no-second-trump-bump/>
+
+---
+
+## Followers stop following
+
+date: 2024-12-18, from: Nieman Journalism Lab
+
+Over the past decade (often in this annual roundup!), we&#8217;ve heard a lot about journalist-influencers and journalists who go independent through services like Patreon and Substack. But we seldom hear about the people reading these independent newsletters or listening to these podcasts or viewing journalistic social media content. My prediction is that many of these... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/followers-stop-following/>
+
+---
+
+## Local newsrooms get a boost from data collaborations
+
+date: 2024-12-18, from: Nieman Journalism Lab
+
+It&#8217;s not enough to simply liberate big, messy datasets and hope other journalists will pick them up and run with a series of investigations. But help is here, and more is on the way, as an emerging model of support spreads and matures in 2025. Is it &#8220;concierge data journalism&#8221;? Is it &#8220;white-glove collaborations&#8221;? No... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/local-newsrooms-get-a-boost-from-data-collaborations/>
+
+---
+
+## It’s time to redefine sustainability
+
+date: 2024-12-18, from: Nieman Journalism Lab
+
+I predict that, over the next few years, funders will increasingly prioritize equity over inclusion when considering support for BIPOC-led media organizations. Inclusion often means adding BIPOC voices to the conversation, but equity requires a deeper commitment — one that reallocates resources, addresses historical disparities, and ensures that BIPOC-led media have the capacity to thrive... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/its-time-to-redefine-sustainability/>
+
+---
+
+## Focus on the “flabby middle” of the audience funnel
+
+date: 2024-12-18, from: Nieman Journalism Lab
+
+Your New Year&#8217;s resolution should be to get a fatter middle. You should widen the waistline of the audience funnel, paying more attention to the engaged middle than the fly-by traffic at top. Build a smart strategy for the full funnel by making 2025 the year of audience journey mapping. And ensure your key performance... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/focus-on-the-flabby-middle-of-the-audience-funnel/>
+
+---
+
+## The year we put everything on the table
+
+date: 2024-12-18, from: Nieman Journalism Lab
+
+About the last thing anyone wants to remember from this most recent election is that the Google search &#8220;did joe biden drop out&#8221; spiked on Election Day. Not good for the people who believe in an informed electorate being vital to democracy. I think it&#8217;s time we start looking at this a little closer, with... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-year-we-put-everything-on-the-table/>
+
+---
+
+## Ethical state funding for the press
+
+date: 2024-12-18, from: Nieman Journalism Lab
+
+The business model for the news media industry in the digital era remains uncertain. But a liberal democracy cannot function properly without an independent and free press. State funding, an increasing trend across the European Union, offers a potential solution to this challenge. According to the 2024 study Public financing of news media in the... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/ethical-state-funding-for-the-press/>
+
+---
+
+## Why 2025 is all about user needs
+
+date: 2024-12-18, from: Nieman Journalism Lab
+
+In 2025, I challenge you to send me a news user need I have yet to come across. A year ago, I predicted the spread of user needs models in global publishing, and I stand vindicated. Across continents, newsrooms have been enthusiastically adopting their own models, leveraging AI tools to conduct relevant analysis, develop specific... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/why-2025-is-all-about-user-needs/>
+
+---
+
+## Should we predict or define?
+
+date: 2024-12-18, from: Nieman Journalism Lab
+
+When it comes to looking at the year ahead, we can approach it in two ways: We can either predict what we think will happen, based on the trends, or we can define what outcome we want to achieve. I&#8217;m going to do both, because they&#8217;re not the same. Let&#8217;s talk predictions first. There are... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/should-we-predict-or-define/>
+
+---
+
+## Following utter failure
+
+date: 2024-12-18, from: Nieman Journalism Lab
+
+Hard to talk about anything to come for American journalism in 2025 without dwelling on the failures of 2024&#8230;because journalism failed us. It failed its role in our democracy. I&#8217;ve been utterly disinterested (and rather disgusted) by blame hurled at activists by the Democratic Party and its allied pundits. But I am not above hurling... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/following-utter-failure/>
+
+---
+
+## Focusing on what people actually need
+
+date: 2024-12-18, from: Nieman Journalism Lab
+
+In 2025, journalism is going to get a much-needed reality check. Instead of sticking to old habits and assuming people will adapt to how we deliver news, we&#8217;ll finally start designing content that fits into real lives — short attention spans and busy schedules. The focus will shift to meeting people where they are, offering... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/focusing-on-what-people-actually-need/>
 
 ---
 
