@@ -1,11 +1,155 @@
 ---
 title: socal north
-updated: 2024-12-17 07:05:22
+updated: 2024-12-18 07:05:36
 ---
 
 # socal north
 
-(date: 2024-12-17 07:05:22)
+(date: 2024-12-18 07:05:36)
+
+---
+
+## Warm and windy conditions continue with risk of wildfires
+
+date: 2024-12-18, updated: 2024-12-18, from: The LAist
+
+Warmest temperatures of the week 
+
+<br> 
+
+<https://laist.com/news/climate-environment/warm-and-windy-conditions-continue-with-risk-of-wildfires>
+
+---
+
+## Public employees often must disclose outside income and gifts to the public. Why aren’t top LA homelessness officials?
+
+date: 2024-12-18, updated: 2024-12-18, from: The LAist
+
+Out of hundreds of employees at the L.A. Homeless Services Authority, only the CEO currently files state-mandated disclosure forms meant to flag potential conflicts of interest, according to an LAist review of records. State officials say they will be looking into the issue after LAist brought it to their attention. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/lahsa-financial-disclosure-form-700-transparency>
+
+---
+
+## Pepperdine University survived the Franklin Fire and other devastating blazes. Campus officials aren’t surprised
+
+date: 2024-12-18, updated: 2024-12-18, from: The LAist
+
+Between fire-resistant construction and landscaping, the campus is meant to be a fire fortress. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/pepperdine-university-survived-the-franklin-fire-and-other-devastating-blazes-campus-officials-arent-surprised>
+
+---
+
+## Not just rent: How LA college students are using $1,000 of monthly guaranteed income
+
+date: 2024-12-18, updated: 2024-12-18, from: The LAist
+
+Students will receive the payments for one year. The program aims to bridge the gap between expenses and the region’s cost of living. 
+
+<br> 
+
+<https://laist.com/news/education/how-la-college-students-are-using-monthly-guaranteed-income>
+
+---
+
+## Here’s how California plans to get millions of adults without college degrees into better jobs
+
+date: 2024-12-18, updated: 2024-12-18, from: The LAist
+
+Newsom's job training plan would give students college credit for work experience and make it easier to get a state job without a degree. 
+
+<br> 
+
+<https://laist.com/news/education/heres-how-california-plans-to-get-millions-of-adults-without-college-degrees-into-better-jobs>
+
+---
+
+## Renters with pets could get new protections under LA County proposal
+
+date: 2024-12-18, updated: 2024-12-18, from: The LAist
+
+Furry friends are not always welcome in L.A. apartments. Some elected leaders now want to overturn pet bans — but landlords say they exist for good reasons. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-county-renter-pet-protections-board-of-supervisors-vote-tenant-landlord-housing>
+
+---
+
+## LA County approves emergency declaration to address staffing problems at Los Padrinos Juvenile Hall
+
+date: 2024-12-18, updated: 2024-12-18, from: The LAist
+
+County officials said lack of staffing is still the biggest issue. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/la-county-emergency-los-padrinos-juvenile-hall>
+
+---
+
+## Oscar shortlists for 2025 are here
+
+date: 2024-12-18, updated: 2024-12-18, from: The LAist
+
+See what's nominated for documentary, international feature film and other categories. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/oscar-shortlists-for-2025-are-here>
+
+---
+
+## LA port says its ready for another dockworker strike
+
+date: 2024-12-17, updated: 2024-12-17, from: The LAist
+
+The port is also anticipating potential tariffs under Trump. 
+
+<br> 
+
+<https://laist.com/news/transportation/la-port-says-its-ready-for-another-dockworker-strike>
+
+---
+
+## 'Dirty Dancing,' 'Wrath of Khan' added to the National Film Registry
+
+date: 2024-12-17, updated: 2024-12-17, from: The LAist
+
+Every year, the National Film Registry picks 25 movies to be preserved for posterity by the Library of Congress. This year's crop also includes Beverly Hills Cop, The Texas Chainsaw Massacre and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/dirty-dancing-wrath-of-khan-national-film-registry>
+
+---
+
+## A new CA law bans your boss from ordering you to attend anti-union meetings
+
+date: 2024-12-17, updated: 2024-12-17, from: The LAist
+
+Gov. Newsom and legislative Democrats pushed through a law that bans employers from requiring workers to attend ‘captive audience meetings.’ It was the latest victory for the labor movement at the state Capitol. 
+
+<br> 
+
+<https://laist.com/news/new-law-bans-boss-anti-union-meetings-workplace>
+
+---
+
+## Land movement in Rancho Palos Verdes has slowed from one foot to 2.7 inches a week
+
+date: 2024-12-17, updated: 2024-12-18, from: The LAist
+
+Dry weather and the city’s dewatering efforts have contributed to the slowdown, even as the area affected by the landslide has roughly doubled. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/rancho-palos-verdes-land-movement-slows>
 
 ---
 
@@ -195,6 +339,18 @@ Once Upon a Mattress brings Broadway joy to the Ahmanson, Billie Eilish slays at
 
 ---
 
+## What is the LAUSD school board and how do I put them to work for me?
+
+date: 2024-12-16, updated: 2024-12-17, from: The LAist
+
+It’s the most powerful school board in the country. And it faces enormous challenges, including funding shortfalls, chronic absenteeism, and safety concerns. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-los-angeles-unified-school-district-board-explained>
+
+---
+
 ## Put food waste in plastic bags? We found out why
 
 date: 2024-12-16, updated: 2024-12-17, from: The LAist
@@ -216,18 +372,6 @@ Treats you might not have tried but will have everyone talking.
 <br> 
 
 <https://laist.com/news/these-unique-socal-desserts-will-make-you-the-holiday-party-mvp>
-
----
-
-## What is the LAUSD school board and how do I put them to work for me?
-
-date: 2024-12-16, updated: 2024-12-16, from: The LAist
-
-It’s the most powerful school board in the country. And it faces enormous challenges, including funding shortfalls, chronic absenteeism, and safety concerns. 
-
-<br> 
-
-<https://laist.com/news/education/lausd-los-angeles-unified-school-district-board-explained>
 
 ---
 

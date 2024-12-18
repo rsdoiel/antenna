@@ -1,15 +1,504 @@
 ---
 title: pacific
-updated: 2024-12-17 07:05:23
+updated: 2024-12-18 07:05:36
 ---
 
 # pacific
 
-(date: 2024-12-17 07:05:23)
+(date: 2024-12-18 07:05:36)
 
 ---
 
-## 'Some decorum, please:' Guam senator censured over 'lewd gesture'
+## 2 people die when small plane crashes near Honolulu airport
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>Two people died after a single-turboprop Cessna Caravan plane crashed into an abandoned building near Daniel K. Inouye International Airport in Honolulu this afternoon, according to the state Department of Transportation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/hawaii-news/2-people-die-when-small-plane-crashes-near-honolulu-airport/>
+
+---
+
+## New County Council meets today, plans to work closely with Alameda
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>The reshuffled Hawaii County Council hopes to improve its relationships with the new county administration to get things done faster.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/hawaii-news/new-county-council-meets-today-plans-to-work-closely-with-alameda/>
+
+---
+
+## Tsunami museum in trouble: Downtown Hilo site closes due to financial woes; staff laid off
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>The Pacific Tsunami Museum is in dire financial straits, and its organizers hope the community will step up and help it navigate out of troubled waters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/hawaii-news/tsunami-museum-in-trouble-downtown-hilo-site-closes-due-to-financial-woes-staff-laid-off/>
+
+---
+
+## Gov. Josh Green’s state budget accounts for tax cuts, fire settlement
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green has unveiled his proposed state budget for the next two fiscal years, which accounts for record tax cuts for residents that begin in January, the state&#8217;s $800 million share of a proposed $4.037 billion settlement to settle lawsuits in the aftermath of the 2023 Maui wildfires and includes likely raises for unionized workers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/hawaii-news/gov-josh-greens-state-budget-accounts-for-tax-cuts-fire-settlement/>
+
+---
+
+## Kilauea Visitor Center will close for renovations in February
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>Kilauea Visitor Center in Hawaii Volcanoes National Park will close Sunday, Feb. 17, 2025 at 5 p.m. for extensive renovations that could take up to two years to complete.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/hawaii-news/kilauea-visitor-center-will-close-for-renovations-in-february/>
+
+---
+
+## Kuawa Street homeless camp closes
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>A Hawaii County homeless shelter established near Mamalahoa Highway in July has been disbanded.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/hawaii-news/kuawa-street-homeless-camp-closes/>
+
+---
+
+## Nation and world news in brief for December 18
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>Grubhub to pay $25M for misleading&#0010;customers and &#0010;restaurants</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/nation-world-news/nation-and-world-news-in-brief-for-december-18/>
+
+---
+
+## A grisly discovery at a Bronze Age mass grave: The victims were eaten, too
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>The bones were spread out across a nearly 50-foot ditch, thousands of them, bearing marks of a grisly end. Snapped femurs. Bashed skulls. Bones with slicing cuts, as if someone had butchered the skin around them.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/nation-world-news/a-grisly-discovery-at-a-bronze-age-mass-grave-the-victims-were-eaten-too/>
+
+---
+
+## Wisconsin police search for answers in rare case of female school shooter
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>Police in Wisconsin on Tuesday were interviewing friends and family and examining the online presence of a 15-year-old girl to determine what drove her to open fire in a classroom at her private Christian school, killing a fellow student and a teacher before taking her own life. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/nation-world-news/wisconsin-police-search-for-answers-in-rare-case-of-female-school-shooter/>
+
+---
+
+## Hannah Kobayashi unaware of media coverage, she says
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>A missing Hawaii woman returned to the United States on Sunday, and the Los Angeles Police Department closed the missing-person case that sparked global interest in her disappearance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/hawaii-news/hannah-kobayashi-unaware-of-media-coverage-she-says/>
+
+---
+
+## Trump sues The Des Moines Register, escalating threats against the media
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>WEST PALM BEACH, Fla. &#8212; President-elect Donald Trump has sued The Des Moines Register for running a poll before the election that showed him trailing Vice President Kamala Harris, escalating his threats to seek retribution against the mainstream media and his political enemies.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/nation-world-news/trump-sues-the-des-moines-register-escalating-threats-against-the-media/>
+
+---
+
+## Luigi Mangione sought to ‘sow terror’ in UnitedHealth executive killing, prosecutor says
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Luigi Mangione sought to &#8220;sow terror&#8221; by shooting dead UnitedHealth Group executive Brian Thompson on a Manhattan street this month, a New York prosecutor said on Tuesday in announcing Mangione had been indicted for murder.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/nation-world-news/luigi-mangione-sought-to-sow-terror-in-unitedhealth-executive-killing-prosecutor-says/>
+
+---
+
+## FTC bans hidden junk fees in hotel, event ticket prices
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Federal Trade Commission passed a rule on Tuesday requiring ticket sellers, hotels and vacation rental sites to disclose total prices, including fees upfront, prohibiting them from concealing add-on charges until the last minute. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/nation-world-news/ftc-bans-hidden-junk-fees-in-hotel-event-ticket-prices/>
+
+---
+
+## Syrian mass graves expose “machinery of death” under Assad, top prosecutor says
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>QUTAYFAH, Syria &#8212; An international war crimes prosecutor said on Tuesday that evidence emerging from mass grave sites in Syria has exposed a state-run &#8220;machinery of death&#8221; under toppled leader Bashar al-Assad in which he estimated more than 100,000 people were tortured and murdered since 2013. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/nation-world-news/syrian-mass-graves-expose-machinery-of-death-under-assad-top-prosecutor-says/>
+
+---
+
+## What Kennedy has said about the polio vaccine in recent years
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>Robert F. Kennedy Jr. began a tour of Capitol Hill this week to pay courtesy calls on senators who will vote on his nomination to be health secretary and to calm concerns that he would limit access to vaccines, especially for polio. &#8220;I&#8217;m all for the polio vaccine,&#8221; Kennedy said to a throng of reporters on Monday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/nation-world-news/what-kennedy-has-said-about-the-polio-vaccine-in-recent-years/>
+
+---
+
+## Ukraine kills Russian chemical weapons chief Igor Kirillov in Moscow
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>MOSCOW &#8212; A top Russian general accused by Ukraine of being responsible for the use of chemical weapons against Ukrainian troops was assassinated in Moscow by Ukraine&#8217;s SBU intelligence service on Tuesday morning in the most high-profile killing of its kind. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/nation-world-news/ukraine-kills-russian-chemical-weapons-chief-igor-kirillov-in-moscow/>
+
+---
+
+## UH Maui College Holiday Bash shines bright
+
+date: 2024-12-18, from: University of Hawaiʻi News
+
+<p>Golf cart electric light parade illuminates the <abbr>UH</abbr> Maui College Holiday Bash.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/17/maui-college-holiday-bash/"><abbr>UH</abbr> Maui College Holiday Bash shines bright</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/17/maui-college-holiday-bash/>
+
+---
+
+## Meet Wendy Hensel: A life shaped by resilience, learning and love
+
+date: 2024-12-18, from: University of Hawaiʻi News
+
+<p>Wendy Hensel will assume the role of <abbr>UH</abbr> president on January 1, 2025. A mother of four, she shares her journey, perspectives and values.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/17/meet-wendy-hensel/">Meet Wendy Hensel: A life shaped by resilience, learning and love</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/17/meet-wendy-hensel/>
+
+---
+
+## UH ‘most important institution for Hawaiʻi’s future:’ David Lassner’s aloha interview
+
+date: 2024-12-18, from: University of Hawaiʻi News
+
+<p>Lassner sat down for a wide-ranging interview with <em><abbr>UH</abbr> News</em> less than three weeks before his retirement, covering his 47-year <abbr>UH</abbr> career.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/17/uh-hawaiis-future-lassners-aloha-interview/"><abbr>UH</abbr> ‘most important institution for Hawaiʻi’s future:’ David Lassner’s aloha interview</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/17/uh-hawaiis-future-lassners-aloha-interview/>
+
+---
+
+## Fall commencement wraps up 2024
+
+date: 2024-12-18, from: University of Hawaiʻi News
+
+<p>See some of the photos from the <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr>, <abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span>, <abbr>UH</abbr> Hilo and <abbr>UH</abbr> M&#257;noa commencement ceremonies.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/17/fall-commencement-wraps-up-2024/">Fall commencement wraps up 2024</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/17/fall-commencement-wraps-up-2024/>
+
+---
+
+## 4 VB Rainbow Wahine earn Academic All-District distinction
+
+date: 2024-12-18, from: University of Hawaiʻi News
+
+<p>Tayli Ikenaga, Kate Lang, Stella Adeyemi and Tali Hakas were recognized for their performance on the court and in the classroom.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/17/4-vb-rainbow-wahine-earn-academic-all-district-distinction/">4 <abbr>VB</abbr> Rainbow Wahine earn Academic All-District distinction</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/17/4-vb-rainbow-wahine-earn-academic-all-district-distinction/>
+
+---
+
+## USP DISMAC Advisory: Emalus Campus Update 2
+
+date: 2024-12-18, from: University of the South Pacific (Fiji)
+
+<p>The post <a href="https://www.usp.ac.fj/news/usp-dismac-advisory-emalus-campus-update-2/">USP DISMAC Advisory: Emalus Campus Update 2</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-dismac-advisory-emalus-campus-update-2/>
+
+---
+
+## Kapiʻolani CC celebrates Women’s Community Correctional Center culinary arts grads
+
+date: 2024-12-18, from: University of Hawaiʻi News
+
+<p>Six women accepted their completion certificates from <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> during a special graduation ceremony.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/17/kcc-celebrates-wccc-culinary-arts-grads/">Kapiʻolani <abbr>CC</abbr> celebrates Women’s Community Correctional Center culinary arts grads</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/17/kcc-celebrates-wccc-culinary-arts-grads/>
+
+---
+
+## PACE leaders earn top awards at 2024 Honolulu Tech Week Hackathon
+
+date: 2024-12-18, from: University of Hawaiʻi News
+
+<p>Four PACE leaders secured awards across various categories, winning a total of $4,000 in prize money.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/17/pace-leaders-2024-honolulu-tech-week-hackathon/">PACE leaders earn top awards at 2024 Honolulu Tech Week Hackathon</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/17/pace-leaders-2024-honolulu-tech-week-hackathon/>
+
+---
+
+## Professor showcases breezeblock significance in Honolulu architecture
+
+date: 2024-12-18, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> architecture associate professor explores the history, functionality and cultural significance of breezeblocks in an episode of <em>Art of Living</em>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/17/breezeblock-significance/">Professor showcases breezeblock significance in Honolulu architecture</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/17/breezeblock-significance/>
+
+---
+
+## Book on Kahoʻolawe for keiki authored by former Leeward CC instructor
+
+date: 2024-12-18, from: University of Hawaiʻi News
+
+<p>Kamalani Hurley will donate the proceeds from her book to the Protect <span aria-label="Kahoolawe">Kaho&#699;olawe</span> <span aria-label="Ohana">&#699;Ohana</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/17/book-on-kahoolawe-for-keiki/">Book on Kahoʻolawe for keiki authored by former Leeward <abbr>CC</abbr> instructor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/17/book-on-kahoolawe-for-keiki/>
+
+---
+
+## UH Hilo’s Peat named PacWest Defender of the Week
+
+date: 2024-12-17, from: University of Hawaiʻi News
+
+<p>Nadjrick Peat tied the program’s single-game block record during the team’s road trip to open conference play.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/17/peat-named-pacwest-defender/"><abbr>UH</abbr> Hilo’s Peat named PacWest Defender of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/17/peat-named-pacwest-defender/>
+
+---
+
+## 2025 LEGISLATIVE PREVIEW
+
+date: 2024-12-17, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>The 2025 Legislative session convenes this month with several new faces including a new Speaker of the House...</p>
+<p>The post <a href="https://www.pbshawaii.org/2025-legislative-preview/">2025 LEGISLATIVE PREVIEW</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/2025-legislative-preview/>
+
+---
+
+## Buildings ‘pancaked’ in Vanuatu as 7.3-magnitude quake hits off capital Port Vila
+
+date: 2024-12-17, from: Pacific Island Times
+
+The Pacific island nation is ranked as one of the world’s most at-risk countries from natural disasters and extreme weather events, includin 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/buildings-pancaked-in-vanuatu-as-7-3-magnitude-quake-hits-off-capital-port-vila>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2024-12-17, updated: 2024-12-18, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Guam Legislature censures Sen. Parkinson
+
+date: 2024-12-17, updated: 2024-12-18, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — As lawmakers in the 37th Guam Legislature near the end of the term, they do so with a resolution censuring Sen. William Parkinson for a sexually explicit gesture reportedly made during an emergency session in October. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/guam-legislature-censures-sen-parkinson/article_cf2ef1d2-bc6c-11ef-8eff-2f6998d45e0d.html>
+
+---
+
+## ‘September 5’ goes inside a newsroom during the Munich Olympics hostage crisis
+
+date: 2024-12-17, updated: 2024-12-18, from: Marianas Variety
+
+(AP) — News junkies will find much to love in “September 5,” a fictionalized account of ABC’s live coverage of the hostage crisis during the 1972 Munich Olympics. There are spirited debates about reporting with only one source, use of words like “terrorism” and what to do if violence breaks out during a live shot. There are negotiations with rival networks over satellite usage, disguises and fake badges made to get reels of 16mm film in and out of the locked down Olympic village and plenty of confused men (and a few women) trying to keep up with an ever-escalating situation. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/september-5-goes-inside-a-newsroom-during-the-munich-olympics-hostage-crisis/article_2f4f4322-bc6e-11ef-81f3-bf66d97251d8.html>
+
+---
+
+## Twenty new US citizens sworn in
+
+date: 2024-12-17, updated: 2024-12-18, from: Marianas Variety
+
+ON Dec. 16, 2024, the District Court for the Northern Mariana Islands held a naturalization ceremony at which twenty candidates from four countries were granted their applications for naturalization and were officially welcomed as the country’s newest U.S. citizens. The event was presided over by Chief Judge Ramona V. Manglona and took place at the United States Courthouse in Saipan, attended by family, friends, and court officials. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/twenty-new-us-citizens-sworn-in/article_48523294-bc46-11ef-a960-13bd1ac9f168.html>
+
+---
+
+## Kingman served with new subpoena
+
+date: 2024-12-17, updated: 2024-12-18, from: Marianas Variety
+
+THE Superior Court has issued another subpoena “commanding” Assistant Attorney General James Kingman to testify at the trial of Shayne B. Villanueva, who was charged with contempt of Legislature. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/kingman-served-with-new-subpoena/article_9d563108-bc66-11ef-9ec4-b76b942c82cd.html>
+
+---
+
+## Saipan mayor urges solution to critical transportation issues for Rota and Tinian residents
+
+date: 2024-12-17, updated: 2024-12-18, from: Marianas Variety
+
+SAIPAN Mayor RB Camacho of has called for urgent action regarding the ongoing issue of inter-island transportation between Rota, Tinian, and Saipan, emphasizing the critical need for a practical and equitable solution. This issue is of particular concern for CNMI residents who rely on Saipan’s healthcare facilities for medical treatments not available on their home islands, especially for dialysis patients. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/saipan-mayor-urges-solution-to-critical-transportation-issues-for-rota-and-tinian-residents/article_379c78ae-bc43-11ef-a2e4-bf256d795ca4.html>
+
+---
+
+## Robert Myers Jr. asks court to dismiss CNMI Bar complaint
+
+date: 2024-12-17, updated: 2024-12-18, from: Marianas Variety
+
+ATTORNEY Robert H. Myers Jr. has requested the Superior Court to dismiss the CNMI Bar Association’s complaint for disciplinary action against him. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/robert-myers-jr-asks-court-to-dismiss-cnmi-bar-complaint/article_3272d56c-bc66-11ef-a594-73db6e2b9a37.html>
+
+---
+
+## Miss Earth NMI seeks holiday donations for local youth
+
+date: 2024-12-17, updated: 2024-12-18, from: Marianas Variety
+
+2024 Miss Earth Northern Marianas Heavenly Divine Aldan Pangelinan is calling on island residents and businesses to donate gifts and gift-wrapping supplies for children and young adults. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/miss-earth-nmi-seeks-holiday-donations-for-local-youth/article_0dee5e3a-bc45-11ef-9675-df432362a1e8.html>
+
+---
+
+## 'Decorum, please:' Guam senator censured over 'lewd gesture'
 
 date: 2024-12-17, from: Pacific Island Times
 
@@ -172,6 +661,20 @@ date: 2024-12-17, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/12/17/features/lets-talk-food-holiday-gatherings/>
+
+---
+
+## UPDATE: 2 confirmed dead in plane crash near Honolulu airport
+
+date: 2024-12-17, from: Hawaii Tribune Harold
+
+
+				<p><strong>UPDATED 5:09 p.m.</strong></p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/17/hawaii-news/dot-plane-crashes-near-honolulu-airport/>
 
 ---
 

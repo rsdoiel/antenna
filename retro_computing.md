@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2024-12-17 07:05:25
+updated: 2024-12-18 07:05:39
 ---
 
 # retro computing
 
-(date: 2024-12-17 07:05:25)
+(date: 2024-12-18 07:05:39)
+
+---
+
+## Oberon International's Omni-Reader
+
+date: 2024-12-17, from: Computer ads from the Past
+
+Audio Engineers announce a revolution in taking words from page to your computer 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/oberon-international-omni-reader>
+
+---
+
+## b.log 2024/12/17 - The sensory symphony of pasta, Livebox power, YT Studio's grammar fail.
+
+date: 2024-12-17, from: Richard Murray's blog
+
+The sensory symphony of pasta, Livebox power, YT Studio's grammar fail. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241217>
+
+---
+
+## Systemd Fixes Bug While Facing New Challenger in GNU Shepherd
+
+date: 2024-12-17, from: Linux Magazine
+
+<p>The systemd developers have fixed a really nasty bug amid the release of the new GNU Shepherd init system.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Systemd-Fixes-Bug-While-Facing-New-Challenger-in-GNU-Shepherd>
 
 ---
 

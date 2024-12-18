@@ -1,11 +1,168 @@
 ---
 title: writing
-updated: 2024-12-17 07:05:24
+updated: 2024-12-18 07:05:37
 ---
 
 # writing
 
-(date: 2024-12-17 07:05:24)
+(date: 2024-12-18 07:05:37)
+
+---
+
+## How to Use Internal Links to Connect Documents in Your Scrivener Projects
+
+date: 2024-12-18, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-to-use-internal-links-in-scrivener-projects>
+
+---
+
+## Demon Daughter by Lois McMaster Bujold: Review by Liz Bourke
+
+date: 2024-12-17, from: Locus Magazine
+
+<p><strong>Demon Daughter</strong>, Lois McMaster Bujold (Subter­ranean Press 978-1-64524-219-2, $45.00, 224pp, hc) January 2025. Cover by Lauren Saint-Onge.</p>
+<p>I first read Lois McMaster Bujold’s <strong>Demon Daughter </strong>when it was initially released in e-book. Now that it is coming out from Subterranean Press in hardcover – the latest of the Penric and Desdemona novellas set in the World of the Five Gods to do so – I have read it again  <a href="https://locusmag.com/2024/12/demon-daughter-by-lois-mcmaster-bujold-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/demon-daughter-by-lois-mcmaster-bujold-review-by-liz-bourke/>
+
+---
+
+## The Bookseller Ranks British and Irish Acquiring Editors
+
+date: 2024-12-17, from: Locus Magazine
+
+<p>The Bookseller has created a list of their top 30 UK and Ireland editors of 2024, using available data from Circana Bookscan and factoring in other achievements like literary prizes. The rankings feature several editors and works of genre interest, including:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li>Natasha Bardon (HarperCollins/HarperVoyager, acquisitions include <strong>Yellowface</strong> by R.F. Kuang)</li>
+<li>Romilly Morgan (Brazen, acquisitions include <strong>The Full Moon Coffee Shop </strong>by Mai Mochizuki, translated by Jesse Kirkwood)</li>
+<li>Michal Shavit (PRH/Jonathan </li></ul></div> <a href="https://locusmag.com/2024/12/bookseller-top-uk-editors-2024/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/12/bookseller-top-uk-editors-2024/>
+
+---
+
+## Authors Alliance 2024 Annual Report
+
+date: 2024-12-17, from: Author's Union blog
+
+Authors Alliance celebrated an important milestone in 2024: our 10th anniversary!&#160; Quite a lot has changed since 2014, but our mission remains the same. We exist to advance the interests of authors who want to serve the public good by sharing their creations broadly.&#160; I&#8217;m pleased to share&#160;our 2024 annual report, where you can find [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2024/12/17/authors-alliance-2024-annual-report/>
+
+---
+
+## 2024 HWA Scholarship and Grant Recipients
+
+date: 2024-12-17, from: Locus Magazine
+
+<p>The Horror Writers Association (HWA) announced the recipients of its 2024 scholarships and diversity grants.</p>
+<p>Amanda Helms, Somto Ihezue, Elis Montgomery, A.W. Prihandita, Ayida Shonibar, Tehnuka, and Ash Vale are winners of the $500 Diversity Grants, given to “underrepresented, diverse people who have an interest in the horror writing genre, including, but not limited to writers, editors, reviewers, and library workers.”</p>
+<p>Catherine Yu won the $2,500 Horror Writers Association Scholarship.  <a href="https://locusmag.com/2024/12/2024-hwa-scholarship-and-grant-recipients/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/2024-hwa-scholarship-and-grant-recipients/>
+
+---
+
+## 5 Reasons to be a Screenwriter
+
+date: 2024-12-17, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/5-reasons-to-be-a-screenwriter" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/5%20Reasons%20to%20be%20a%20Screenwriter%20%282%29.png" alt="Vector image of a woman typing on a typewriter with a movie camera and clapper in the background" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Maybe you’re a fan of movies and have thought about becoming a screenwriter, but you never took the time to follow through with it. Or maybe it never occurred to you that screenwriting is a possible career option.&nbsp;<br><br>Well, there are many people — myself included — who have made a living writing screenplays, and it’s definitely the best job I ever had. So if you think you have cinematic stories to tell, but still don’t know if such a venture is worth your time, here are <span style="font-weight: bold;">5 Reasons To Be a Screenwriter</span>.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/5-reasons-to-be-a-screenwriter>
+
+---
+
+## Pelletier Named PW Person of the Year
+
+date: 2024-12-17, from: Locus Magazine
+
+<p>Liz Pelletier, publisher of Entangled Publishing, is Publishers Weekly&#8217;s 2024 Person of the Year.</p>
+<p>Entangled Publishing—which includes genre imprints Red Tower, Entangled Teen, and Amara—had a breakout year in 2023 with the publication of bestseller <strong>Fourth Wing</strong> by Rebecca Yarros. Other notable titles include <strong>Assistant to the Villain</strong> by Hannah Nicole Maehrer and the Crave series by Tracy Wolff.</p>
+<p>Pelletier founded Entangled in 2010 &#8220;to bridge the gap in the  <a href="https://locusmag.com/2024/12/pelletier-named-pw-person-of-the-year/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/pelletier-named-pw-person-of-the-year/>
+
+---
+
+## Onoguwe Wins Working Class Writers Grant
+
+date: 2024-12-17, from: Locus Magazine
+
+<p>Hannah Onoguwe is the winner of the 2024 Working Class Writers Grant for her work &#8220;Eyes of the Igbadai&#8221;.</p>
+<p>The $1,000 grant is presented annually by the Speculative Literature Foundation (SLF) to &#8220;speculative fiction writers who are working class, blue-collar, financially disadvantaged, or homeless, who have been historically underrepresented in speculative fiction due to financial barriers which make it hard to access the writing world.&#8221;</p>
+<p>Other authors shortlisted for this  <a href="https://locusmag.com/2024/12/onoguwe-wins-working-class-writers-grant/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/onoguwe-wins-working-class-writers-grant/>
+
+---
+
+## They Ate Our Scripts
+
+date: 2024-12-17, from: John August blog
+
+Many of the biggest AI models have been trained on film and TV dialogue, and writers are furious. John and Craig explore the legal, ethical and philosophical implications of this revelation, our emotional reactions to it, and offer strategies for picking the right hills to die on. But first, we follow up on the definition [&#8230;]
+The post <a href="https://johnaugust.com/2024/they-ate-our-scripts">They Ate Our Scripts</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/669standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/669standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2024/they-ate-our-scripts>
+
+---
+
+## The Nightward by R.S.A. Garcia: Review by Liz Bourke
+
+date: 2024-12-17, from: Locus Magazine
+
+<p><strong>The Nightward</strong>, R.S.A. Garcia (Harper Voyager US 978-0-06-334575-1, $19.99, 448pp, tp) Oc­tober 2024.</p>
+<p><strong>The Nightward </strong>is R.S.A. Garcia’s first traditionally published novel. From the outside, it looks like a work of epic fantasy in the classic mode, in which a small team of he­roes must outwit and stand against a nebulously defined threat to all they know and love. A closer examination, however, finds it taking this classic form  <a href="https://locusmag.com/2024/12/the-nightward-by-r-s-a-garcia-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/the-nightward-by-r-s-a-garcia-review-by-liz-bourke/>
+
+---
+
+## New Books, 17 December 2024
+
+date: 2024-12-17, from: Locus Magazine
+
+<p>Anderson, Brad C.: <b>Ashme&#8217;s Song</b>
+(Shadowpaw Press 9781998273164, $19.99, 402pp, formats: trade paperback, ebook, 12/17/2024)</p>
+<p>SF novel. Ashme, a genetically enhanced New Mesopotamian has the ability to control computer systems at will, destined to help her oppressed people. But she is stuck caring for her neurologically frail twin brother.</p>
+<p>&#160;</p>
+<p>Heitz, M. Turville: <b>Black River</b>
+(Crossroad Press/Mystique Press 9781637891346, $14.99, 350pp, formats: trade paperback, ebook, 12/17/2024)</p>
+<p>Fantasy novel. Kyle Nelson,  <a href="https://locusmag.com/2024/12/new-books-17-december-2024/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/new-books-17-december-2024/>
 
 ---
 

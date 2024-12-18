@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-12-17 07:05:24
+updated: 2024-12-18 07:05:38
 ---
 
 # games
 
-(date: 2024-12-17 07:05:24)
+(date: 2024-12-18 07:05:38)
+
+---
+
+## What Deadpool director Tim Miller transferred from Love, Death &#038; Robots to Secret Level
+
+date: 2024-12-18, updated: 2024-12-17, from: Polygon Website
+
+It’s hard to find a pat, elevator-pitch narrative in Tim Miller’s career. Is he best described as a visual effects guy who graduated to directing movies with Deadpool and Terminator: Dark Fate? Or an animator whose short projects got him into effects work on games? Or a studio founder who parlayed his video game experience [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/496734/tim-miller-deadpool-director-interview-secret-level-love-death-robots>
+
+---
+
+## Buying gifts online? Here’s when you need to checkout to ensure they arrive on time
+
+date: 2024-12-18, updated: 2024-12-18, from: Polygon Website
+
+The holidays are right around the corner, and we hope you’ve already secured gifts for everyone on your shopping list. I mean, we’ve been doling out plenty of gift guides to help with that, like the best gaming gifts under $100, the best D&#38;D gifts, and a guide to shopping for luxury editions of classic [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/deals/498080/last-day-to-buy-gifts-online-shipping-amazon-best-buy-walmart>
+
+---
+
+## The best Nintendo Switch accessories
+
+date: 2024-12-18, updated: 2024-12-18, from: Polygon Website
+
+The Nintendo Switch continues to dominate portable gaming to this day, even with the imminent arrival of the Switch 2. It stands out with some great exclusive games for all ages, and each model comes with everything most people need to have a good time. However, the experience of using a Switch can improve in big ways [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-buy/23592426/best-nintendo-switch-accessories>
+
+---
+
+## Revealed: the top new PC and console games of 2024
+
+date: 2024-12-18, updated: 2024-12-18, from: Polygon Website
+
+We’re here: last stop for 2024, everybody off, the GDCo newsletter is heading to the depot. Before we quit for the annum, massive love to our increasing band of colleagues at GDCo: Alejandro, Avi, Matt, Tomek and Strale &#8211; building our game data and info platform right, behind the scenes. (Some exciting news about that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/498917/top-pc-console-video-games-of-2024-gamediscoverco>
+
+---
+
+## Sonic 3 is a speedrun through the franchise scrapyard, yet it works
+
+date: 2024-12-18, updated: 2024-12-18, from: Polygon Website
+
+Though the three Sonic the Hedgehog movies have charms of their own, they’ve also clearly benefited from a confluence of lucky breaks in order to reach their rarefied beloved-franchise status. The generally poor track record of previous video game adaptations; the release of the first movie before COVID closed theaters and the second one not [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/498909/sonic-3-movie-review>
+
+---
+
+## This fan favorite class is getting D&#038;D 2024&#8217;s first playtest
+
+date: 2024-12-17, updated: 2024-12-17, from: Polygon Website
+
+“It’s been a minute since we’ve done this,” says Todd Kenreck in Dungeons &#38; Dragon’s latest YouTube video, “but we have a new Unearthed Arcana.” Sitting across from him is a smiling Jeremy Crawford, D&#38;D’s lead rules designer, who says he is “so glad that the first Unearthed Arcana after the new Player’s Handbook and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dnd-dungeons-dragons/498829/artificer-unearthed-arcana-2024>
+
+---
+
+## How to get Mew in Pokémon TCG Pocket
+
+date: 2024-12-17, updated: 2024-12-17, from: Polygon Website
+
+There are a number of ways to get Mew in Pokémon TCG Pocket — you can get one type of Mew card from the Genetic Apex expansion, and five types in December 2024’s Mythical Island expansion. For the Genetic Apex version of Mew, you can’t simply pull the card from the expansion’s booster packs. Instead, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/481509/mew-how-to-get-unlock>
+
+---
+
+## Fellow Helldivers 2 players, I think Super Earth might be fibbing about the Illuminate
+
+date: 2024-12-17, updated: 2024-12-18, from: Polygon Website
+
+It’s a tumultuous time to be a Helldiver. Not only are the cowardly Illuminate back after a century-long disappearance, but they’re kidnapping Super Earth citizens and turning them into horrifying monsters known as the Voteless. This doesn’t even begin to cover the schemes of the other two factions: the Automatons, who are creeping closer toward [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/playstation/498647/helldivers-2-illuminate-arrival-super-earth-propaganda>
+
+---
+
+## The AAA24 membership is a great gift idea for movie lovers
+
+date: 2024-12-17, updated: 2024-12-17, from: Polygon Website
+
+If you know someone who unironically loves A24 as much as comedian Carmen Christopher ironically does, there’s a membership out there that’d make for an amazing gift. AAA24 is a $99 per year club that delivers perks upon perks. To name a few: they’ll get a ticket to every A24 movie on opening weekend at [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/deals/498480/a24-membership-perks-aaa24-buy>
+
+---
+
+## Path of Exile 2’s last patch of the year makes its brutal difficulty significantly less frustrating
+
+date: 2024-12-17, updated: 2024-12-17, from: Polygon Website
+
+Over 400,000 people are clicking monsters and picking up loot in Path of Exile 2 right now, according to Steam’s most played list. That also means that there are thousands of people getting torn apart by those monsters and wondering how they found themselves playing the Dark Souls of loot-based action RPGs. Developer Grinding Gear [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/498491/path-exile-2-early-access-patch-notes-difficulty>
 
 ---
 

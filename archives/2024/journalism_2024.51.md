@@ -1,11 +1,203 @@
 ---
 title: journalism
-updated: 2024-12-17 07:05:24
+updated: 2024-12-18 07:05:38
 ---
 
 # journalism
 
-(date: 2024-12-17 07:05:24)
+(date: 2024-12-18 07:05:38)
+
+---
+
+## Content creators find a place in newsrooms
+
+date: 2024-12-17, from: Nieman Journalism Lab
+
+What would you do to get your reporting in front of an audience of hundreds of thousands? Or maybe even millions? Here&#8217;s a hint: You don&#8217;t have to get on the evening news. In 2025, let&#8217;s imagine a new type of journalist in newsrooms across the country: A content creator. Picture a modern-day news anchor... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/content-creators-find-a-place-in-newsrooms/>
+
+---
+
+## Media owners will protect the powerful
+
+date: 2024-12-17, from: Nieman Journalism Lab
+
+We find ourselves in a moment that can be best described as a negative moment. We are returning to the sunken place, overcome with terror at what might be, still burdened by the scars from last time. We saw respectable news organizations make a political choice of &#8220;neutrality&#8221; in the face of what many saw... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/media-owners-will-protect-the-powerful/>
+
+---
+
+## Visual investigations become a mainstay of news
+
+date: 2024-12-17, from: Nieman Journalism Lab
+
+Over the last decade, many major news organizations have set up teams and sub-brands devoted to &#8220;visual investigations&#8221; or &#8220;visual forensics.&#8221; Their success signals the next major shift in reporting practices. Similar to &#8220;data journalism&#8221; before them, visual investigations are poised to move from niche desks to standard operating procedure in newsrooms in 2025 as... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/visual-investigations-become-a-mainstay-of-news/>
+
+---
+
+## Right-wing studies’ time has come
+
+date: 2024-12-17, from: Nieman Journalism Lab
+
+When Donald Trump won the 2016 U.S. presidential election, there was a collective sense of shock — I don&#8217;t think even he expected to win. This time, it&#8217;s giving resignation and despair — or triumphalism depending on your political persuasion. The last time this happened, scholars and journalists sought to explain what then seemed inexplicable.... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/right-wing-studies-time-has-come/>
+
+---
+
+## We’ll stop looking down on content creators
+
+date: 2024-12-17, from: Nieman Journalism Lab
+
+The recent U.S. presidential election made it even clearer (if anyone needed proof) that podcasters, YouTubers, and content creators are closer to the audience than traditional media and journalists, and their opinions mobilize more people. This has been happening for years, but in many sectors of journalism (at least in Latin America) we&#8217;ve refused to... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/well-stop-looking-down-on-content-creators/>
+
+---
+
+## We harness listening to build collective resilience
+
+date: 2024-12-17, from: Nieman Journalism Lab
+
+It&#8217;s ironic that listening is one of the core skills in journalism and yet we spend very little time listening inward — to our own selves and to each other. Focusing on our external audience is essential to our business; however, paying attention and caring for our colleagues is just as important to our sustainability.... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/we-harness-listening-to-build-collective-resilience/>
+
+---
+
+## We’ll draw the lines we will not cross
+
+date: 2024-12-17, from: Nieman Journalism Lab
+
+In the past, I&#8217;ve made predictions about emerging tech or, like last year, predicted the painful shortcomings of our industry leaders. (I&#8217;m sorry that one keeps coming true.) This year, I could predict that Bluesky will successfully emerge as the new social media platform of choice for news/media friends and junkies. (Follow me here.) Or... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/well-draw-the-lines-we-will-not-cross/>
+
+---
+
+## Building new ways to get information to readers
+
+date: 2024-12-17, from: Nieman Journalism Lab
+
+There are many factors that got us to where we are, but the fact of the matter is that a significant portion of the population does not want to engage with traditional news organizations. Reporters Without Borders found that, in a less-than-two-month span, Donald Trump insulted, attacked, or threatened the press more than 100 times... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/building-new-ways-to-get-information-to-readers/>
+
+---
+
+## Newsrooms confront lies and win
+
+date: 2024-12-17, from: Nieman Journalism Lab
+
+That the mission of journalism is to speak truth to power and hold power accountable doesn&#8217;t need explaining or defending — except, currently, to many of the powers in question. It&#8217;s not news, of course, that accessible fact-based journalism is increasingly under threat. But in the past year — and even the past month, with... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/newsrooms-confront-lies-and-win/>
+
+---
+
+## Journalists keep getting harassed
+
+date: 2024-12-17, from: Nieman Journalism Lab
+
+A year ago, the International Women&#8217;s Media Foundation was preparing to launch a nationwide journalism initiative that would provide in-person holistic safety training and wrap-around support to journalists and newsrooms before the U.S. elections. My prediction then was a call to action that, as an industry, we had an obligation to better prepare journalists due... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/journalists-keep-getting-harassed/>
+
+---
+
+## Philanthropy steps up for local news
+
+date: 2024-12-17, from: Nieman Journalism Lab
+
+Predictions are not exactly the business of the AP, where I work — rather, our mission is trusted, fact-based, independent journalism that is free from influence. And the facts about the current state of the news business are well known — to the point where they&#8217;re not exactly news: State and local news sources are... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/philanthropy-steps-up-for-local-news/>
+
+---
+
+## Journalists will learn to stop worrying and love the business plan
+
+date: 2024-12-17, from: Nieman Journalism Lab
+
+The migration started years ago, and the path from journalist to media operator (mogul?) has become more popular — and profitable. See how Jessica Lessin bootstrapped The Information, Nicholas Thompson revived the 167-year-old Atlantic, Vice expats built 404 Media, or former Politico reporters made Punchbowl a massive success. Even local news — arguably the most... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/journalists-will-learn-to-stop-worrying-and-love-the-business-plan/>
+
+---
+
+## Video-first “podcasts” bring a new kind of coverage
+
+date: 2024-12-17, from: Nieman Journalism Lab
+
+2025 will bring us a video-first news podcast that will take advantage of massive changes in media consumption to change how global news is covered. It will combine compelling imagery, quality news gathering, and timely reporting to bring the clarity and scope we currently expect from television news directly to our personal devices. A variety... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/video-first-podcasts-bring-a-new-kind-of-coverage/>
+
+---
+
+## The death of the media darling
+
+date: 2024-12-17, from: Nieman Journalism Lab
+
+There&#8217;s no doubt that 2025 will be a tough year across journalism. There are many unknowns and more disruptions in store than in years past. One thing I think may seem doom-and-gloom but has a silver lining is the death of the media darling. You know them. They&#8217;re the handful of &#8220;rising star&#8221; news organizations... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-death-of-the-media-darling/>
+
+---
+
+## Traceability becomes table stakes for AI
+
+date: 2024-12-17, from: Nieman Journalism Lab
+
+In its third year, generative AI&#8217;s potential as a force for good will become clearer — but only if trust, traceability and transparency come to the fore. If we are to reap the rewards that AI can afford us, we will need to be able to source the origin of information down to the very... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/traceability-becomes-table-stakes-for-ai/>
+
+---
+
+## Recalibrating on AI’s promise
+
+date: 2024-12-17, from: Nieman Journalism Lab
+
+In 2024, we saw media and tech companies flood resources and investments into the potential of generative AI. Now that the initial excitement has dwindled, it&#8217;s time to deliver. Business leaders are asking to see the returns of those investments and how we&#8217;re using the technology to bolster efficiency (and bottom lines). This next year,... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/recalibrating-on-ais-promise/>
 
 ---
 

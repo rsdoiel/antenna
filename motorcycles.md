@@ -1,15 +1,89 @@
 ---
 title: motorcycles
-updated: 2024-12-17 07:05:25
+updated: 2024-12-18 07:05:39
 ---
 
 # motorcycles
 
-(date: 2024-12-17 07:05:25)
+(date: 2024-12-18 07:05:39)
 
 ---
 
-## Arizonans Are Now Required to Take an OHV Safety Course
+## Get Hyped, a Gulf Oil Livery Is Coming to MotoGP Next Season
+
+date: 2024-12-18, from: Ride Apart, Electric Motorcycle News
+
+Trackhouse has a new sponsor and the livery should look dope. 
+
+<br> 
+
+<https://www.rideapart.com/news/744754/gulf-oil-livery-motogp-trackhouse-racing/>
+
+---
+
+## Is This Armed Chinese Robot a Motorcycle or Not?
+
+date: 2024-12-18, from: Ride Apart, Electric Motorcycle News
+
+What in the Judge Dredd future are we looking at? 
+
+<br> 
+
+<https://www.rideapart.com/news/744753/armed-chinese-robot-single-wheel-ai-tear-gas/>
+
+---
+
+## Can-Am Set To Race Maverick R at the Dakar Rally for the First Time
+
+date: 2024-12-18, from: Ride Apart, Electric Motorcycle News
+
+They're not messing around, just check out the driver lineup. 
+
+<br> 
+
+<https://www.rideapart.com/news/744620/can-am-racing-dakar-maverick-r/>
+
+---
+
+## MotoGP Will Set Brazil On Fire From the 2026 Season, Get Excited
+
+date: 2024-12-18, from: Ride Apart, Electric Motorcycle News
+
+MotoGP has struck a deal for Brazil to host the racing series from 2026 to 2030. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/744641/motogp-returns-brazil-2026/>
+
+---
+
+## Watch the World’s Largest ATV Demolish Regular Models, And Yes, It’s Russian
+
+date: 2024-12-18, from: Ride Apart, Electric Motorcycle News
+
+And it's somehow cheaper than most other high-end ATVs. 
+
+<br> 
+
+<https://www.rideapart.com/news/744628/worlds-largest-atv-russian-russia-sokol/>
+
+---
+
+## Is This Indian Motorcycle Manufacturer Working On a New 300cc Adventure Bike?
+
+date: 2024-12-18, from: Ride Apart, Electric Motorcycle News
+
+Signs point to yes, and it just might be a very big deal.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/744642/tvs-rtx300-spied-testing-india/>
+
+---
+
+## You Can't Off-Road in Arizona Without Taking This OHV Safety Course
 
 date: 2024-12-17, from: Ride Apart, Electric Motorcycle News
 

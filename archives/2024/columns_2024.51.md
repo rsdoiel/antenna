@@ -1,11 +1,351 @@
 ---
 title: columns
-updated: 2024-12-17 07:05:23
+updated: 2024-12-18 07:05:37
 ---
 
 # columns
 
-(date: 2024-12-17 07:05:23)
+(date: 2024-12-18 07:05:37)
+
+---
+
+##  Jamelle Bouie: &#8220;Either democracy was on the ballot in November, or it... 
+
+date: 2024-12-18, updated: 2024-12-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045878-jamelle-bouie-either-demo>
+
+---
+
+## Xfce 4.20 is out: Wayland support lands, but some pieces are still missing
+
+date: 2024-12-18, updated: 2024-12-18, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Comment</span> The Unixi-est of desktops gets a wide-ranging update</h4>
+      <p>The new version of the longest-established Linux desktop is here, and at last, it&#39;s possible to use Wayland – although not everything works yet.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/12/18/xfce_420_is_out/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-12-18, from: Miguel de Icaza Mastondon feed)
+
+<p>The gofundmes have shifted from “help me cross into Egypt”, to “help me get food”, to “help me survive with one limb” to “I need surgery to remove my rotting left lung”</p><p>Meanwhile our politicians line up to have their picture taken with the criminals.</p><p>This is America’s legacy.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113673916405676298>
+
+---
+
+## Osaka, Japan
+
+date: 2024-12-18, from: mrusme blog
+
+"Osaka is a designated city in the Kansai region of Honshu in Japan. It is the
+capital of and most populous city in Osaka Prefecture, and the third most
+populous city in Japan, following Tokyo and Yokohama. With a population of 2.7
+million, it is also the largest component of the Keihanshin Metropolitan Area,
+which is the second-largest metropolitan area in Japan and the 10th largest
+urban area in the world with more than 19 million inhabitants." 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/travel/japan/osaka-2024/>
+
+---
+
+## Office Hours: Where will the resistance come from?
+
+date: 2024-12-18, from: Robert Reich's blog
+
+Trump and his allies are already seeking to intimidate the four most likely centers of resistance. 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-where-will-the-resistance>
+
+---
+
+## December 17, 2024 
+
+date: 2024-12-18, from: Heather Cox Richardson blog
+
+Yesterday, Trump gave his first press conference since the election. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-17-2024>
+
+---
+
+## Wednesday 18 December, 2024
+
+date: 2024-12-18, from: John Naughton's online diary
+
+Harry Potter? Yawn… King’s Cross station in London is the terminus for the fast trains from Cambridge, so I pass through it quite a lot. In a brilliant marketing move years ago someone had the idea of capitalising on the &#8230; <a href="https://memex.naughtons.org/wednesday-18-december-2024/40218/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-18-december-2024/40218/>
+
+---
+
+## Acorn 8.0
+
+date: 2024-12-17, updated: 2024-12-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://shapeof.com/archives/2024/12/say_hello_to_acorn_8.html>
+
+---
+
+##  🔔 Laaaast call for The 2024 Kottke Holiday Gift Guide. If you... 
+
+date: 2024-12-17, updated: 2024-12-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045876-laaaast-call-for-the>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-17, from: Dave Winer's Scripting News)
+
+What could journalism do to help the country? Move your shows out into the red territories. Make it a requirement that Chris and Joy, Lawrence or Rachel, if they want to stay on the air, have to broadcast from one of the red states. It could be a large city in a red state. The reason is symbolic and practical. The red state voters wouldn't be such a mystery if you knew some of them from your everyday life. And you might have a few of them on the show. You have some selling to do, the idea you're selling is that you care about the people you don't know. 
+
+<br> 
+
+<http://scripting.com/2024/12/17.html#a222925>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-17, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/12/17/redstatesBluestates.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The Democrats are, of course, failing to lead the 75 million who voted for them in the last election, which was a bit over a month ago. Maybe they should factor that into their thinking, what kind of relationship would you have with an organization that only cared about what you thought if they needed something very specific from you in that exact moment. Any other time, who are you again? We are without leaders. 
+
+<br> 
+
+<http://scripting.com/2024/12/17.html#a222607>
+
+---
+
+##  36 Things That Stuck With Us in 2024, including Chappell Roan, Missy... 
+
+date: 2024-12-17, updated: 2024-12-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045877-36-things-that-stuck-with>
+
+---
+
+##  A group of scientists warns against creating mirror cells. This sentence is... 
+
+date: 2024-12-17, updated: 2024-12-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045873-a-group-of-scientists-war>
+
+---
+
+##  What Are Your Personal Foundational Texts? 
+
+date: 2024-12-17, updated: 2024-12-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/what-are-your-personal-foundational-texts>
+
+---
+
+## December 16, 2024
+
+date: 2024-12-17, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153276002/658885e1f4adfb9ff7242f59d0cc389e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153276002/658885e1f4adfb9ff7242f59d0cc389e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-16-2024-23e>
+
+---
+
+##  Then Comes The Body 
+
+date: 2024-12-17, updated: 2024-12-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/then-comes-the-body>
+
+---
+
+## Blackmagic Design Now Taking Pre-Orders for Vision-Pro–Optimized Immersive Camera
+
+date: 2024-12-17, updated: 2024-12-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.blackmagicdesign.com/media/release/20241217-01>
+
+---
+
+##  It is easy to be cynical about the do-gooding motivations of a... 
+
+date: 2024-12-17, updated: 2024-12-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045871-it-is-extremely-easy-to>
+
+---
+
+## In praise of the hundred page idea
+
+date: 2024-12-17, from: Tracy Durnell Blog
+
+I prefer a lightweight nonfiction book to a detailed tome. I&#8217;m a dilettante of many interests, so my attention for any given topic is more likely to sustain 100 pages than 600. The sweet spot is longer than a longread internet article, but that doesn&#8217;t demand a months-long commitment: a 2-3 hour text. At about [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/12/17/in-praise-of-the-hundred-page-idea/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-17, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/11/29/whiteRussian.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I get my greatest ideas walking, riding my bike, on a ski lift, or sitting in a hot tub esp when it's really cold out and there's a full moon as there was last night. Sometimes the ideas prove workable and other times they're like the great brainstorms one had with <a href="https://en.wikipedia.org/wiki/Cocaine_boom">cocaine</a> in the 80s, not that I would know, but have heard. Anyway, I was daydreaming about what I'd do with <a href="https://www.google.com/search?q=site%3Ascripting.com+bingeworthy">Bingeworthy</a> if I was going to continue working on it. I thought about the mode I want to use it in. I want to watch a series that I would like, not that Netflix thinks I'd like, because their idea of what I'd like is bullshit. I find that I'll like almost anything that's rated in the 80s by Metacritic, but really only if the NYT reviewed it well. I'll give almost any NYT <i>critics choice</i> a go. So what I really want in the middle of the Bingeworthy display of a program is 250 words about the program aggregated from various critics as Metacritic does so well. Unfortunately neither Metacritic or the NYT offer an API for this as far as I know. Oh too bad, same old thing. No access to the data where you need it (btw, ideally Bingeworthy would be baked into the TV set, or all the streamers could be played in the context of Bingeworthy). Anyway, then <i>boom</i> it hit me, holy shit the thing I was farting around with <a href="http://scripting.com/2024/12/17.html#a164345">in the outliner</a> could actually do this. Now I'm going to need to be able to call ChatGPT from a Node app. 
+
+<br> 
+
+<http://scripting.com/2024/12/17.html#a170704>
+
+---
+
+## Hacking Digital License Plates
+
+date: 2024-12-17, updated: 2024-12-17, from: Bruce Schneier blog
+
+<p>Not everything needs to be digital and &#8220;smart.&#8221; License plates, <a href="https://www.wired.com/story/digital-license-plate-jailbreak-hack/">for example</a>:</p>
+<blockquote><p>Josep Rodriguez, a researcher at security firm IOActive, has revealed a technique to “jailbreak” digital license plates sold by Reviver, the leading vendor of those plates in the US with 65,000 plates already sold. By removing a sticker on the back of the plate and attaching a cable to its internal connectors, he&#8217;s able to rewrite a Reviver plate&#8217;s firmware in a matter of minutes. Then, with that custom firmware installed, the jailbroken license plate can receive commands via Bluetooth from a smartphone app to instantly change its display to show any characters or image...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/12/hacking-digital-license-plates.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-17, from: Dave Winer's Scripting News)
+
+I'm farting around with the OpenAI API. I have a nice encapsulation for calls to ChatGPT, one that hides all the tricky stuff, all you need is an apiToken to make it work, something that is available for free. The first place I put it is in an outliner. Basically I can write a question in a headline, click an icon and the response from ChatGPT is placed in a series of sub-heads. Interesting to see that they use Markdown to convey the response. The logical choice. I'm not sure how or if I will use this in my writing, but now I have an idea what it's good for. Here's a <a href="https://imgs.scripting.com/2024/12/17/fartingAroundWithOpenAiApi.png">screen shot</a> of a question I asked and the answer. Also the API is very slow. A question like that would be displayed instantly in their app, in my app it takes a half minute. And I have to pay for it, whereas in their app it's all covered by my $20 a month subscription. 
+
+<br> 
+
+<http://scripting.com/2024/12/17.html#a164345>
+
+---
+
+##  Yo-Yo Ma played the prelude to Bach&#8217;s Suite No. 1 in G... 
+
+date: 2024-12-17, updated: 2024-12-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045864-yo-yo-ma-played-the-prelu>
+
+---
+
+## [Sponsor] Jiiiii
+
+date: 2024-12-17, updated: 2024-12-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://apps.apple.com/app/apple-store/id6472801548?pt=14724&ct=DaringFireball&mt=8>
+
+---
+
+## Cherry-picking
+
+date: 2024-12-17, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp4AYMyGDmf_kJD3Oroml_OX5vrv0VaGLnx3TcvOKISjrZPsxaDCZAr4sei3DC6rPm86vWfH4NOy0nHUq-4BwRvJhYYSBomKoRCyG6X-zfk8FMcdOAcuCKeX6VDniMZHZeoV8cshpM8IBrqB_7bv5rYs1gd83qGlebHRuL7zkpGlDuSSzGacGvvfGHcDFs/s1200/topstocks.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1200" data-original-width="865" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp4AYMyGDmf_kJD3Oroml_OX5vrv0VaGLnx3TcvOKISjrZPsxaDCZAr4sei3DC6rPm86vWfH4NOy0nHUq-4BwRvJhYYSBomKoRCyG6X-zfk8FMcdOAcuCKeX6VDniMZHZeoV8cshpM8IBrqB_7bv5rYs1gd83qGlebHRuL7zkpGlDuSSzGacGvvfGHcDFs/w144-h200/topstocks.jpg" width="144" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Source</td></tr></tbody></table>
+Via <a href="https://ritholtz.com/2024/12/weekend-reads-642/">Barry Ritholtz</a> we find this infographic entitled <i>Top Performing S&amp;P 500 Stocks</i> showing the best total return over the past 5, 10, 15 and 20 years.  Ritholtz sourced it from <a href="https://www.visualcapitalist.com/ranked-the-top-performing-sp-500-stocks-in-the-last-two-decades/"><i>Ranked: The Top Performing S&amp;P 500 Stocks in the Last Two Decades</i></a> By Marcus Lu with graphic design by Miranda Smith.<br />
+<br />
+In each case, Nvidia is the best performing stock, and it is the only stock to appear in all four periods. Sounds great, doesn't it? Why wouldn't you just hold NVDA all the time and be guaranteed to beat the market?<br />
+<br />
+But follow me below the fold for more detail from someone who has been long NVDA for more than three decades..<br />
+<span><a name='more'></a></span>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEignU3O5Nn1u4YzLI5obU8SScmUlpe4jXILiDJ9EL2tLEOXqJo0pN5pp13gl7PLORvzr4zSwr1IBhXTHjVsSvcTB_wHOCp6QnzaHzKY3OOrV-DQ5iYmsoyAFtbutByq7RwDaDSsyVOSAB5LXWh4NrIDQ2KfQMVPCQMPhSJrYMKdmMqXY1HK5RSCquHuUlk_/s2636/NVDA-LogPlot.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1386" data-original-width="2636" height="210" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEignU3O5Nn1u4YzLI5obU8SScmUlpe4jXILiDJ9EL2tLEOXqJo0pN5pp13gl7PLORvzr4zSwr1IBhXTHjVsSvcTB_wHOCp6QnzaHzKY3OOrV-DQ5iYmsoyAFtbutByq7RwDaDSsyVOSAB5LXWh4NrIDQ2KfQMVPCQMPhSJrYMKdmMqXY1HK5RSCquHuUlk_/w400-h210/NVDA-LogPlot.png" width="400" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://yhoo.it/37Y7noI">Source</a></td></tr></tbody></table>
+Alas,  this infographic is deeply misleading because they cherry-picked their data. Nvidia's stock price is extraordinarily volatile. The log plot of NVDA shows that on average over its history every three years it suffers a drop of between 45% and 80%. Fortunately, over the same time it has had much larger rises. Thus when discussing the return for being long NVDA for a period the start and end dates matter a lot.<br />
+<br />
+<table border="1" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody>
+<tr>
+<th>Dec</th><th>Close</th><th>Dec</th><th>Close</th><th>NVDA</th><th>S&amp;P</th>
+</tr>
+<tr><td>2004</td><td>0.19</td><td>2009</td><td>0.38</td><td>+100%</td><td>-9.1%</td></tr>
+<tr><td>2009</td><td>0.38</td><td>2014</td><td>0.48</td><td>+26%</td><td>+85.8%</td></tr>
+<tr><td>2014</td><td>0.48</td><td>2019</td><td>5.91</td><td>+1131%</td><td>+61.7%</td></tr>
+<tr><td>2019</td><td>5.91</td><td>2024</td><td>134.25</td><td>+22715%</td><td>+87.6%</td></tr>
+</tbody>
+</table>
+This table shows the performance of NVDA and the S&amp;P 500 over each of the 5-year periods in the infographic. Over three of the 5-year periods NVDA out-performed the S&amp;P 500, and over the remaining one it under-performed.  By choosing appropriate starting points it is easy to find other 5-year periods when NVDA under-performed the S&amp;P 500. For example, from 8/2007 to 8/2012 NVDA returned -63.7% but the S&amp;P returned -5.6%. Or from 11/2001 to 11/2006 NVDA returned +10.7% but the S&amp;P returned +23.5%.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLrEqV0nU9l1nNaZObbhjj2DMvR3tKozrH4Saa0aaHGGZPvAvjj4LWRO8uPc5j0OosBQWUjU1mGMgGgctPi6twSGJi2cKOi4FhOothmwosuF9c8qNRnDMhe8S52qQx2FjUuSV7nYd2ao3kWTNQHQzNlWS1VCR9fqyR305IpIqXhPVcd6ROHrjG5bj-tDiI/s1972/NVDA.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1130" data-original-width="1972" height="114" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLrEqV0nU9l1nNaZObbhjj2DMvR3tKozrH4Saa0aaHGGZPvAvjj4LWRO8uPc5j0OosBQWUjU1mGMgGgctPi6twSGJi2cKOi4FhOothmwosuF9c8qNRnDMhe8S52qQx2FjUuSV7nYd2ao3kWTNQHQzNlWS1VCR9fqyR305IpIqXhPVcd6ROHrjG5bj-tDiI/w200-h114/NVDA.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.nasdaq.com/market-activity/stocks/nvda/advanced-charting">Source</a></td></tr></tbody></table>
+Although the infographic suggests that the huge out-performance started 20 years ago and has been decreasing, this is misleading for two reasons. First, the infographic's numbers are for the whole 20-year period, not for each 5-year period. Second, they are dominated by the rise in the most recent 5-year period.  The linear plot of NVDA makes it clear that, had the most recent 5-year period been like any of the others, Nvidia would not have been in the infographic at all.<br />
+<br />
+None of this is financial advice. Nevertheless, Nvidia is a great company, and it is possible to make money in its stock. There are two ways to do it, trading on the stock's volatility, or buying low and being prepared to hold it for many years.<br />
+<br />
+Remember, past performance is no guarantee of future performance. If NVDA were to repeat the past 5-year return over the next 5 years, it would be around $3,100. To maintain its current P/E of 52.85 it would need annual revenue of around $2.6T.<br />
+<br /> 
+
+<br> 
+
+<https://blog.dshr.org/2024/12/cherry-picking.html>
+
+---
+
+##  Two More Tiny Desks 
+
+date: 2024-12-17, updated: 2024-12-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/two-more-tiny-desks>
 
 ---
 
@@ -31,6 +371,20 @@ date: 2024-12-17, updated: 2024-12-17, from: Liam Proven's articles at the Regis
 <br> 
 
 <https://go.theregister.com/i/cfa/https://www.theregister.com/2024/12/17/alpine_linux_321/>
+
+---
+
+## 
+                Exploring OS/2’s virtualization and low-level x86: Probing drives
+            
+
+date: 2024-12-17, updated: 2024-12-17, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2024-12-17/0/POSTING-en.html>
 
 ---
 
@@ -487,7 +841,7 @@ Spent the day with family and friends, and am going to finish a lovely day with 
 
 ## Sponsorship Openings at Daring Fireball, End-of-Year and Q1 2025 Edition
 
-date: 2024-12-15, updated: 2024-12-16, from: Daring Fireball
+date: 2024-12-15, updated: 2024-12-17, from: Daring Fireball
 
  
 

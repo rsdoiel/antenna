@@ -1,11 +1,407 @@
 ---
 title: science and technology
-updated: 2024-12-17 07:05:23
+updated: 2024-12-18 07:05:37
 ---
 
 # science and technology
 
-(date: 2024-12-17 07:05:23)
+(date: 2024-12-18 07:05:37)
+
+---
+
+## The Ten Best Children's Books of 2024
+
+date: 2024-12-18, from: Smithsonian Magazine
+
+This year’s top titles range from an alphabet book of quirky tunes to an authentic portrait of our nation 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-ten-best-childrens-books-of-2024-180985681/>
+
+---
+
+## Xfce 4.20 is out: Wayland support lands, but some pieces are still missing
+
+date: 2024-12-18, updated: 2024-12-18, from: The Register (UK I.T. News)
+
+<h4>The Unixi-est of desktops gets a wide-ranging update</h4> <p><strong>Comment</strong>  The new version of the longest-established Linux desktop is here, and at last, it&#39;s possible to use Wayland – although not everything works yet.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/18/xfce_420_is_out/>
+
+---
+
+## We told Post Office about system problems at the highest level, Fujitsu tells Horizon Inquiry
+
+date: 2024-12-18, updated: 2024-12-18, from: The Register (UK I.T. News)
+
+<h4>State-owned retail company was not subordinate to Japanese multinational in technical matters, legal rep says</h4> <p>Fujitsu has said it continually told the Post Office about problems with Horizon, the computer system at the center of one of the UK&#39;s widest miscarriages of justice, as its client prosecuted branch managers for accounting discrepancies.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/18/we_told_post_office_about/>
+
+---
+
+## On This Day in 1944, the Supreme Court Upheld the Executive Order That Incarcerated Over 120,000 Japanese Americans During World War II
+
+date: 2024-12-18, from: Smithsonian Magazine
+
+Even at the time, the now-notorious decision provoked strong dissent from three justices worried about sliding into the "ugly abyss of racism" 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/on-this-day-in-1944-the-supreme-court-upheld-the-executive-order-that-incarcerated-over-120000-japanese-americans-during-world-war-ii-180985616/>
+
+---
+
+## When old Microsoft codenames crop up in curious places
+
+date: 2024-12-18, updated: 2024-12-18, from: The Register (UK I.T. News)
+
+<h4>Chicago is my kind of driver model</h4> <p>Pour a cup of cocoa and settle down for another episode of Microsoft Storytime. Why do codenames sometimes linger on in the implementation of products?…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/18/when_old_microsoft_codenames_crop/>
+
+---
+
+## When your technological ghosts come back to haunt you, expect humbug
+
+date: 2024-12-18, updated: 2024-12-18, from: The Register (UK I.T. News)
+
+<h4>Spirits of the NeXTcube, the web ad, and the cursed smartphone deliver a seasonal Technicarol</h4> <p><strong>Column</strong>  On a Christmas Eve when nothing felt right, I lapsed into a deep yet disturbed sleep.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/18/a_christmas_technicarol/>
+
+---
+
+## Even Netflix struggles to identify and understand the cost of its AWS estate
+
+date: 2024-12-18, updated: 2024-12-18, from: The Register (UK I.T. News)
+
+<h4>If you have trouble keeping track of your various streaming subscriptions, you&#39;re gonna love the irony</h4> <p>Keeping track of the amount of cloudy resources an org uses, and the cost of doing so, is notoriously tricky – so tricky, indeed, that even Netflix isn&#39;t on top of it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/18/netflix_aws_management_tools/>
+
+---
+
+## Taiwan in talks to tap Amazon's Project Kuiper space broadband
+
+date: 2024-12-18, updated: 2024-12-18, from: The Register (UK I.T. News)
+
+<h4>In case of submarine cable failure, call Jeff Bezos</h4> <p>Taiwan has started talks with Amazon regarding access to its Kuiper satellite broadband service.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/18/taiwan_amazon_kuiper_broadband_talks/>
+
+---
+
+## Phishers cast wide net with spoofed Google Calendar invites
+
+date: 2024-12-18, updated: 2024-12-18, from: The Register (UK I.T. News)
+
+<h4>Not that you needed another reason to enable the &#39;known senders&#39; setting</h4> <p>Criminals are spoofing Google Calendar emails in a financially motivated phishing expedition that has already affected about 300 organizations with more than 4,000 emails sent over four weeks, according to Check Point researchers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/18/google_calendar_spoofed_in_phishing_campaign/>
+
+---
+
+## Fedora proposes dropping Atomic desktops for PPC64LE
+
+date: 2024-12-18, from: OS News
+
+Fedora is proposing to stop building their Atomic desktop versions for PPC64LE. PopwerPC 64 LE basically comes down to IBM&#8217;s POWER architecture, and as far as desktop use goes, that exclusively means the POWER9 machines from Raptor Computing Systems. I reviewed their small single-socket Blackbird machine in 2021, and I also have their dual-socket Talos II workstation. I can tell you from experience that nobody who owns one of these is opting for an immutable Fedora variant, and on top of that, these machines are getting long in the tooth. Raptor passed on POWER10 because it required proprietary firmware, so we&#8217;ve been without new machines for years now. As such, it makes sense for Fedora to stop building Atomic desktops for this architecture. We will stop building the Fedora Atomic Desktops for the PowerPC 64 LE architecture. According to the count me statistics, we don&#8217;t have any Atomic Desktops users on PPC64LE. Users of Atomic Desktops on PPC64LE will have to either switch back to a Fedora package mode installation or build their own images using Bootable Containers which are available for PPC64LE. ↫ Timothée Ravier I&#8217;ve never written much about the Talos II, surmising that most of my Blackbird review applies to the Talos II, as well. If there&#8217;s interest, I can check to see what the current state of Fedora and/or other distributions on POWER9 is, and write a short review about the experience. I honestly don&#8217;t know if there&#8217;s much interest at this point in POWER9, but if there is, here&#8217;s your chance to get your questions answered. 
+
+<br> 
+
+<https://www.osnews.com/story/141366/fedora-proposes-dropping-atomic-desktops-for-ppc64le/>
+
+---
+
+## Sols 4396-4397: Roving in a Martian Wonderland
+
+date: 2024-12-17, from: NASA breaking news
+
+Earth planning date: Monday, Dec. 16, 2024 Over the weekend Curiosity continued her trek around the northern end of Texoli butte, taking in the beautiful views in all directions. Steep buttes reveal cross-sections through ancient sedimentary strata, while the blocks in our workspace contain nice layers and veins — a detailed record of past surface […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4396-4397-roving-in-a-martian-wonderland/>
+
+---
+
+## Interpol wants everyone to stop saying 'pig butchering'
+
+date: 2024-12-17, updated: 2024-12-18, from: The Register (UK I.T. News)
+
+<h4>Victims&#39; feelings might get hurt, global cops contend, and that could hinder reporting</h4> <p>Interpol wants to put an end to the online scam known as &#34;pig butchering&#34; – through linguistic policing, rather than law enforcement.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/>
+
+---
+
+## Critical security hole in Apache Struts under exploit
+
+date: 2024-12-17, updated: 2024-12-18, from: The Register (UK I.T. News)
+
+<h4>You applied the patch that could stop possible RCE attacks last week, right?</h4> <p>A critical security hole in Apache Struts 2 – patched last week – is currently being exploited using publicly available proof-of-concept (PoC) code.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/17/critical_rce_apache_struts/>
+
+---
+
+## The World's Largest Iceberg Is Free-Floating Again, and It Could Help Build 'Thriving Ecosystems'
+
+date: 2024-12-17, from: Smithsonian Magazine
+
+After spending months stuck in a swirling ocean vortex, iceberg A23a is once again drifting through the Southern Ocean, offering scientists a glimpse into how it might affect waters in new regions 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-worlds-largest-iceberg-is-free-floating-again-and-it-could-help-build-thriving-ecosystems-180985685/>
+
+---
+
+## San Francisco Names a Street For the Photographer Who Captured Marines Raising an American Flag at Iwo Jima
+
+date: 2024-12-17, from: Smithsonian Magazine
+
+Joe Rosenthal is famous for his Pulitzer Prize-winning image. But he spent most of his career photographing San Francisco, where he lived for many years 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/san-francisco-names-a-street-for-the-photographer-who-captured-marines-raising-an-american-flag-at-iwo-jima-180985683/>
+
+---
+
+## 2024 in Review: Highlights from NASA in Silicon Valley
+
+date: 2024-12-17, from: NASA breaking news
+
+2024 intro: As NASA’s Ames Research Center in California’s Silicon Valley enters its 85th year since its founding, join us as we take a look back at some of our highlights of science, engineering, research, and innovation from 2024. Ames Arc Jets Play Key Role in Artemis I Orion Spacecraft Heat Shield Findings  Researchers at [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/2024-in-review-highlights-from-nasa-in-silicon-valley/>
+
+---
+
+## NASA Participates in Microgravity Science Summit
+
+date: 2024-12-17, from: NASA breaking news
+
+NASA leadership participated in the White House Office of Science and Technology Policy’s Microgravity Science Summit (OSTP) on Dec.16 focused on sharing information with leaders across the U.S. federal government about the benefits of microgravity research. During the summit, NASA Deputy Administrator Pam Melroy, OSTP leadership, and others highlighted the importance of the government coming [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-participates-in-microgravity-science-summit/>
+
+---
+
+## Check Out 14 Hilarious Winners From the Nikon Comedy Wildlife Photography Awards Contest
+
+date: 2024-12-17, from: Smithsonian Magazine
+
+From an "awkward" smiling frog to embarrassing owl parents, this year's winners of the entertaining annual competition won't let you down 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/check-out-14-hilarious-winners-from-the-nikon-comedy-wildlife-photography-awards-contest-180985682/>
+
+---
+
+## Cutting-Edge Satellite Tracks Lake Water Levels in Ohio River Basin
+
+date: 2024-12-17, from: NASA breaking news
+
+Data from the U.S.-European Surface Water and Ocean Topography mission gives researchers a detailed look at lakes and reservoirs in a U.S. watershed. The Ohio River Basin stretches from Pennsylvania to Illinois and contains a system of reservoirs, lakes, and rivers that drains an area almost as large as France. Researchers with the SWOT (Surface [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/swot/cutting-edge-satellite-tracks-lake-water-levels-in-ohio-river-basin/>
+
+---
+
+## Airspace Operations and Safety Program (AOSP)
+
+date: 2024-12-17, from: NASA breaking news
+
+The Airspace Operations and Safety Program (AOSP) enables safe, sustainable, and efficient aviation transportation operations to benefit the flying public and ensure the global competitiveness of the U.S. aviation industry. We are transforming the future of aviation into a digital, federated, and service-oriented architecture that fosters the growth of safe airspace for all users. By [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/airspace-operations-and-safety-program-aosp/>
+
+---
+
+## Nvidia upgrades tiny Jetson Orin Nano dev kits for the holidays
+
+date: 2024-12-17, updated: 2024-12-17, from: The Register (UK I.T. News)
+
+<h4>&#39;Super&#39; edition promises 67 TOPS and 102GB/s of memory bandwidth for your GenAI projects</h4> <p>Nvidia is bringing the AI hype home for the holidays with the launch of a tiny new dev board called the Jetson Orin Nano Super.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_jetson_orin/>
+
+---
+
+## NASA Sets Coverage for Roscosmos Spacewalk 63 Outside Space Station
+
+date: 2024-12-17, from: NASA breaking news
+
+NASA will provide live coverage as two Roscosmos cosmonauts conduct a spacewalk outside of the International Space Station on Thursday, Dec. 19. NASA’s live coverage begins at 9:45 a.m. EST, Thursday on NASA+. Learn how to watch NASA content through a variety of platforms, including social media. The spacewalk is scheduled to begin at approximately [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-63-outside-space-station/>
+
+---
+
+## Archaeologists Discover Lost Burial Site of Enslaved People on President Andrew Jackson's Tennessee Plantation
+
+date: 2024-12-17, from: Smithsonian Magazine
+
+An estimated 28 probable graves were identified at the seventh American president's former property, called the Hermitage 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-discover-lost-burial-site-of-enslaved-people-on-president-andrew-jacksons-tennessee-plantation-180985671/>
+
+---
+
+## Silent NASA lander gives boffins insight into Martian dust
+
+date: 2024-12-17, updated: 2024-12-17, from: The Register (UK I.T. News)
+
+<h4>NASA to bid a final farewell to InSight</h4> <p>Two years after NASA retired the InSight lander, scientists are continuing to use the vehicle to learn more about Mars.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/17/silent_nasa_lander_gives_scientists/>
+
+---
+
+## Media Invited to Speak to NASA Ames Experts – Celebrating 85 Years
+
+date: 2024-12-17, from: NASA breaking news
+
+NASA’s Ames Research Center in California’s Silicon Valley, is celebrating 85 years of cutting-edge research and development in space, life sciences, supercomputing, aeronautics, and more for the benefit of humanity. Ames was founded as an aeronautical laboratory in December 1939, and has since contributed to many of NASA’s flagship missions from Apollo to Artemis.&#160; NASA [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/media-invited-to-speak-to-nasa-ames-experts-celebrating-85-years/>
+
+---
+
+## Someone Is Sticking Googly Eyes on Public Sculptures in Oregon—and City Officials Are Not Amused
+
+date: 2024-12-17, from: Smithsonian Magazine
+
+Many residents of Bend love the illicit adornments, which they say are sparking joy and driving engagement with public art 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/someone-is-sticking-googly-eyes-to-public-sculptures-in-oregon-and-city-officials-are-not-amused-180985679/>
+
+---
+
+## Just how deep is Nvidia's CUDA moat really?
+
+date: 2024-12-17, updated: 2024-12-17, from: The Register (UK I.T. News)
+
+<h4>Not as impenetrable as you might think, but still more than Intel or AMD would like</h4> <p><strong>Analysis</strong>  Nvidia is facing its stiffest competition in years with new accelerators from Intel and AMD that challenge its best chips on memory capacity, performance, and price.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_cuda_moat/>
+
+---
+
+## None of These Books Exist. An Inventive New Exhibition Asks: What If They Did?
+
+date: 2024-12-17, from: Smithsonian Magazine
+
+"Imaginary Books: Lost, Unfinished and Fictive Works Found Only in Other Books" spotlights more than 100 texts written (or invented) by the likes of Shakespeare, Byron and Hemingway 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/none-of-these-books-exist-an-inventive-new-exhibition-asks-what-if-they-did-180985680/>
+
+---
+
+## NASA Missions Spot Cosmic ‘Wreath’ Displaying Stellar Circle of Life
+
+date: 2024-12-17, from: NASA breaking news
+
+Since antiquity, wreaths have symbolized the cycle of life, death, and rebirth. It is fitting then that one of the best places for astronomers to learn more about the stellar lifecycle resembles a giant holiday wreath itself. The&#160;star cluster&#160;NGC 602 lies on the outskirts of the Small Magellanic Cloud, which is one of the closest [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-missions-spot-cosmic-wreath-displaying-stellar-circle-of-life/>
+
+---
+
+## Jovian Vortex Hunters Spun Up Over New Paper
+
+date: 2024-12-17, from: NASA breaking news
+
+Jumping Jupiter! The results are in, storm chasers! Thanks to your help over the last two years the Jovian Vortex Hunter project has published a catalog of 7222 vortices, which you can download here. Each vortex is an enormous swirling windstorm in Jupiter’s atmosphere–terrifying yet beautiful to behold. The vortices are labeled by color (“white” […] 
+
+<br> 
+
+<https://science.nasa.gov/get-involved/citizen-science/jovian-vortex-hunters-spun-up-over-new-paper/>
+
+---
+
+## The Year in Physics
+
+date: 2024-12-17, from: Quanta Magazine
+
+Physicists discovered strange supersolids, constructed new kinds of superconductors, and continued to make the case that the cosmos is far weirder than anyone suspected.            <p>The post <a href="https://www.quantamagazine.org/the-year-in-physics-20241217/" target="_blank">The Year in Physics</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-year-in-physics-20241217/>
+
+---
+
+## Ireland fines Meta for 2018 'View As' breach that exposed 30M accounts
+
+date: 2024-12-17, updated: 2024-12-17, from: The Register (UK I.T. News)
+
+<h4>€251 million? Zuck can find that in his couch cushions, but Meta still vows to appeal</h4> <p>It&#39;s been six years since miscreants abused some sloppy Facebook code to steal access tokens belonging to 30 million users, and the slow-turning wheels of Irish justice have finally caught up with a €251 million ($264 million) fine for the social media biz. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/17/ireland_fines_meta_for_2018/>
+
+---
+
+## Transforming Space Exploration: NASA and Northrop Grumman’s Digital Engineering Collaboration
+
+date: 2024-12-17, from: NASA breaking news
+
+NASA’s Digital Engineering is paving the way for exciting new possibilities. Their latest Space Act Agreement with Northrop Grumman promises to accelerate progress in space exploration through innovative collaboration. Under NASA&#8217;s HQ Office of the Chief Engineer, Terry Hill the Digital Engineering Program Manager, recently signed a Space Act Agreement with Northrop Grumman Space Sector [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/organizations/ocio/dt/nasa-northrupgrumman-digitalengineering/>
 
 ---
 
@@ -491,7 +887,7 @@ date: 2024-12-16, updated: 2024-12-16, from: The Register (UK I.T. News)
 
 ## Coder wrote a bug so bad security guards wanted a word when he arrived at work
 
-date: 2024-12-16, updated: 2024-12-16, from: The Register (UK I.T. News)
+date: 2024-12-16, updated: 2024-12-18, from: The Register (UK I.T. News)
 
 <h4>Working for a startup is supposed to end with getting rich overnight, but not like this</h4> <p><strong>Who, Me?</strong>  Welcome once again to Who, Me? The Register&#39;s Monday morning feature in which we share tales of technological messes your fellow readers made, and escaped, to give you hope in case you err during the coming week.…</p> 
 

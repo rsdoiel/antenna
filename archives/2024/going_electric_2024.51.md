@@ -1,11 +1,439 @@
 ---
 title: going electric
-updated: 2024-12-17 07:05:25
+updated: 2024-12-18 07:05:39
 ---
 
 # going electric
 
-(date: 2024-12-17 07:05:25)
+(date: 2024-12-18 07:05:39)
+
+---
+
+## California will require EV charging for all new residential units in 2026
+
+date: 2024-12-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Screenshot-2024-12-04-at-9.45.37AM-e1733334464635.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>California’s new building codes will require EV chargers in most new overnight parking spots starting in 2026, going a big way towards solving the only actual problem with EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,ev-charging" data-layer-viewtype="unknown" data-post-id="393936" href="https://electrek.co/2024/12/18/california-will-require-ev-charging-for-all-new-residential-units-in-2026/#more-393936" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/18/california-will-require-ev-charging-for-all-new-residential-units-in-2026/>
+
+---
+
+## Einride deploys first daily commercial operations of autonomous trucks in Europe
+
+date: 2024-12-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Autonomous-trucks-Europe-Einride-Sweden.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Commercial freight EV and autonomous driving developer <a href="https://electrek.co/guides/einride/">Einride</a> continues to expand its operations globally. Today, the company announced the launch of the first daily commercial operations of its proprietary autonomous trucks in Europe, delivering goods for a pharmacy e-retailer.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous-truck,einride,europe,sweden" data-layer-viewtype="unknown" data-post-id="394277" href="https://electrek.co/2024/12/18/einride-deploys-first-daily-operations-autonomous-trucks-europe/#more-394277" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/18/einride-deploys-first-daily-operations-autonomous-trucks-europe/>
+
+---
+
+## ChargePoint collaborates with GM Energy to deploy up to 500 EV fast chargers with Omni Ports
+
+date: 2024-12-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/GM-Chargepoint-chargers.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/gm/">General Motors</a> (GM) and EV charging network ChargePoint announced they are joining efforts to install hundreds of ultra-fast EV charging ports across the US. Additionally, those new chargers will include ChargePoint’s recently released Omni Port technology, enabling both NACS- and CCS-equipped EVs to charge seamlessly.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="394220" href="https://electrek.co/2024/12/18/chargepoint-gm-energy-to-deploy-500-ev-fast-chargers-omni-port/#more-394220" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/18/chargepoint-gm-energy-to-deploy-500-ev-fast-chargers-omni-port/>
+
+---
+
+## How Ukraine assassinated a Russian general with an electric scooter
+
+date: 2024-12-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/scooter-russia-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In a brazen operation pulled off by Ukrainian security forces, Russian Lt. Gen. Igor Anatolyevich Kirillov was assassinated in the Russian capital with what appears to be a weaponized electric kickscooter.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-scooter,russia,secret-weapon" data-layer-viewtype="unknown" data-post-id="394264" href="https://electrek.co/2024/12/18/how-ukraine-assassinated-a-russian-general-with-an-electric-scooter/#more-394264" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/18/how-ukraine-assassinated-a-russian-general-with-an-electric-scooter/>
+
+---
+
+## Lucid Wants More OEM Partners. Currently In Talks With "A Couple"
+
+date: 2024-12-18, from: Inside EVs News
+
+One of these automakers may be Hyundai's Genesis. 
+
+<br> 
+
+<https://insideevs.com/news/744828/lucid-more-oem-partners-wanted/>
+
+---
+
+## The 2025 Rivian R1S Is The Safest Large SUV Tested By The IIHS This Year
+
+date: 2024-12-18, from: Inside EVs News
+
+The refreshed EV is the only large SUV to get the coveted safety rating this year. 
+
+<br> 
+
+<https://insideevs.com/news/744838/2025-rivian-r1s-top-safety-pick-plus-iihs-rating/>
+
+---
+
+## California wins the first round against Trump as Tesla faces down a union coup
+
+date: 2024-12-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/lisa-needs-braces.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, the Trump administration has lost its first battle against state’s rights in California while Tesla faces down (what it’s calling) a union <em>coup</em> in Germany. Meanwhile, SoCal Edison puts 280 Chevy Silverado EV pickups to work on California’s roads and Colorado is putting up a bunch of new DC fast chargers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,carb,donald-trump,honda,nissan" data-layer-viewtype="unknown" data-post-id="394239" href="https://electrek.co/2024/12/17/california-wins-the-first-round-against-trump-as-tesla-faces-down-a-union-coup/#more-394239" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/17/california-wins-the-first-round-against-trump-as-tesla-faces-down-a-union-coup/>
+
+---
+
+## Check out this custom Lucid Air cleverly designed so 7-foot Shaq can fit
+
+date: 2024-12-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Lucid-Air-Shaq-12.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lucid’s luxury EV just got the Shaq treatment. A <a href="https://electrek.co/guides/lucid-air/">Lucid Air</a> was converted into a slick two-door model so that Shaq could fit inside. Check out the custom electric car below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid-air" data-layer-viewtype="unknown" data-post-id="394212" href="https://electrek.co/2024/12/17/check-out-this-custom-lucid-air-designed-so-7-foot-shaq-can-fit/#more-394212" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/17/check-out-this-custom-lucid-air-designed-so-7-foot-shaq-can-fit/>
+
+---
+
+## Zeekr 7X Electric SUV Lands In Europe Starting At €52,990
+
+date: 2024-12-17, from: Inside EVs News
+
+This Geely-owned, Chinese brand has big plans for Europe. 
+
+<br> 
+
+<https://insideevs.com/news/744747/zeekr-7x-europe-pricing/>
+
+---
+
+## Tesla accuses union of coup at Giga Berlin as tensions rise
+
+date: 2024-12-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/08/Tesla-Gigafactory-Berlin-Aug-2023.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tensions are rising at Tesla Gigafactory Berlin as the automaker accuses a local union of a coup against the head of its workers’ council.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="394182" href="https://electrek.co/2024/12/17/tesla-accuses-union-of-coup-at-giga-berlin-as-tensions-rise/#more-394182" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/17/tesla-accuses-union-of-coup-at-giga-berlin-as-tensions-rise/>
+
+---
+
+## The Dodge Charger Daytona Can't Do A Burnout
+
+date: 2024-12-17, from: Inside EVs News
+
+Well, this is a little embarrassing. 
+
+<br> 
+
+<https://insideevs.com/news/744640/dodge-charger-daytona-cant-burnout/>
+
+---
+
+## The world’s largest single-capacity floating wind platform has two turbines
+
+date: 2024-12-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Mingyang-OceanX.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Mingyang Smart Energy’s huge 16.6 megawatt (MW) OceanX, with its double-turbine, “V”-shaped floating wind platform, has begun operations.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,egeb,energy-brief,solar,offshore-wind-power,wind-power" data-layer-viewtype="unknown" data-post-id="375836" href="https://electrek.co/2024/12/17/worlds-largest-single-capacity-floating-wind-platform-two-turbines/#more-375836" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/17/worlds-largest-single-capacity-floating-wind-platform-two-turbines/>
+
+---
+
+## GM is recalling the 2025 Chevy Equinox EV over an interesting safety concern: It’s too quiet
+
+date: 2024-12-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/35000-Chevy-Equinox-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>GM issued a recall on the 2025 Chevy Equinox EV because it doesn’t make enough noise when traveling at low speeds. EVs are quiet already, but with a faulty pedestrian alert system, the <a href="https://electrek.co/guides/chevy-equinox-ev/">electric Equinox</a> may not produce enough sound to alert those nearby. Here’s the fix.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet-equinox-ev,chevy-equinox-ev" data-layer-viewtype="unknown" data-post-id="394186" href="https://electrek.co/2024/12/17/gm-recalls-2025-chevy-equinox-ev-because-its-too-quiet/#more-394186" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/17/gm-recalls-2025-chevy-equinox-ev-because-its-too-quiet/>
+
+---
+
+## This $15,000 Nissan Kei Car Is Japan's Best-Selling EV
+
+date: 2024-12-17, from: Inside EVs News
+
+It's nice to see a cheap car winning. 
+
+<br> 
+
+<https://insideevs.com/news/744749/nissan-sakura-review/>
+
+---
+
+## Cambridge’s new solar VPPA is the largest ever by any US city
+
+date: 2024-12-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Prairie-Solar-BayWar.e.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Cambridge, Massachusetts, has signed the largest-ever virtual power purchase agreement (VPPA) by a US city to help build a utility-scale solar farm in Illinois. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,illinois,massachusetts,solar-power" data-layer-viewtype="unknown" data-post-id="394175" href="https://electrek.co/2024/12/17/cambridge-new-solar-vppa-is-the-largest-ever-by-any-us-city/#more-394175" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/17/cambridge-new-solar-vppa-is-the-largest-ever-by-any-us-city/>
+
+---
+
+## Jaguar’s Secret Weapon For Selling Its Controversial New EVs: Podcasts
+
+date: 2024-12-17, from: Inside EVs News
+
+“People buy cars for their design and interior. Powertrain is about 13th on the list,” said Rawdon Glover, Jaguar’s managing director. 
+
+<br> 
+
+<https://insideevs.com/news/744715/jaguar-new-ev-podcast-ownership-experience/>
+
+---
+
+## Vvolt e-bikes with free extra batteries $1,100 off, Updated EcoFlow Christmas sale, Low prices from Jackery and Goal Zero, more
+
+date: 2024-12-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Vvolt-Christmas-e-bike-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Starting off today’s Green Deals is <a href="https://9to5toys.com/2024/12/17/vvolt-e-bikes-free-extra-batteries-from-1799/">Vvolt’s Holiday sale</a> that is giving hopeful e-bike riders up to $1,100 in savings on three of its e-bikes with free extra batteries too, with the biggest savings on the <a href="https://9to5toys.com/2024/12/17/vvolt-e-bikes-free-extra-batteries-from-1799/">Centauri SE Commuter e-bike</a> with the doubled mileage that takes things down to the <a href="https://9to5toys.com/2024/12/17/vvolt-e-bikes-free-extra-batteries-from-1799/">$2,599</a> low. We’ve also got an updated <a href="https://9to5toys.com/2024/12/17/ecoflow-early-christmas-sale-from-45/">holiday sale from EcoFlow</a> that has switched into the second phase of its Christmas savings with an added 5% sitewide discount that drops the brand’s <a href="https://9to5toys.com/2024/12/17/ecoflow-early-christmas-sale-from-45/">DELTA 3 Plus</a> Portable Power Station to a new <a href="https://9to5toys.com/2024/12/17/ecoflow-early-christmas-sale-from-45/">$617</a> low, among others. The backup power savings don’t stop there, as we also have <a href="https://9to5toys.com/2024/12/16/jackery-explorer-700-plus-new-299-low/">Jackery’s Explorer 700 Plus</a> Portable Power Station hitting a new <a href="https://9to5toys.com/2024/12/16/jackery-explorer-700-plus-new-299-low/">$299</a> low, as well as <a href="https://9to5toys.com/2024/12/17/goal-zero-venture-power-banks-from-52/">Goal Zero’s Venture</a> 9,600mAh and 19,200mAh solar-charging power banks at their lowest rates starting from <a href="https://9to5toys.com/2024/12/17/goal-zero-venture-power-banks-from-52/">$52</a>. Bringing up the rear is a one-day only first-time discount on Greenworks’ <a href="https://9to5toys.com/2024/12/17/greenwork-snow-blower-snow-shovel-combo-522-today/">80V 20-inch Snow Blower and 12-inch Snow Shovel</a> Winter Combo Kit at <a href="https://9to5toys.com/2024/12/17/greenwork-snow-blower-snow-shovel-combo-522-today/">$522</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2024/12/16/anker-solix-christmas-sale-from-99/">Anker SOLIX Christmas sale</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="394145" href="https://electrek.co/2024/12/17/vvolt-e-bike-holiday-sale-ecoflow-jackery-more/#more-394145" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/17/vvolt-e-bike-holiday-sale-ecoflow-jackery-more/>
+
+---
+
+## Honda and Nissan close in on an EV merger to survive the industry’s rapid shift to electric
+
+date: 2024-12-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Hondas-Prologue-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Japanese automakers are taking drastic measures to keep pace with Tesla and Chinese EV leaders like BYD. <a href="https://electrek.co/guides/honda/">Honda</a> and Nissan are now closing in on an EV merger to join resources and fend off the incoming competition. The tie-up will likely involve a third auto partner from Japan.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda,nissan" data-layer-viewtype="unknown" data-post-id="394141" href="https://electrek.co/2024/12/17/honda-nissan-close-in-ev-merger-survive-industry-shift/#more-394141" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/17/honda-nissan-close-in-ev-merger-survive-industry-shift/>
+
+---
+
+## Tesla finally wide releases v13 ‘self-driving’, Elon says your mind will be blown again
+
+date: 2024-12-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is finally wide-releasing Full Self-Driving (FSD) Supervised v13 to vehicles with Hardware 4 computers. CEO Elon Musk commented on the release with a familiar comment: “Your mind will be blown,” again.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="394122" href="https://electrek.co/2024/12/17/tesla-finally-wide-releases-v13-self-driving-elon-says-your-mind-will-be-blown-again/#more-394122" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/17/tesla-finally-wide-releases-v13-self-driving-elon-says-your-mind-will-be-blown-again/>
+
+---
+
+## Is Tesla Model S Free Lifetime Supercharging Deal Worth It?
+
+date: 2024-12-17, from: Inside EVs News
+
+The Model S now comes with free Supercharging for life, but at the cost of a raised price tag. Let's figure out if it's worth the extra 
+
+<br> 
+
+<https://insideevs.com/news/744613/tesla-model-s-lifetime-supercharging/>
+
+---
+
+## BYD officially enters humanoid robot race as global talent search kicks off
+
+date: 2024-12-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/BYD-humanoid-robot-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s leading EV maker will try its hand in a promising new field. As electric car sales continue surging to record highs, <a href="https://electrek.co/guides/byd/">BYD</a> plans to take on the world of humanoid robots. To kick things off, BYD announced a new recruitment program to attract top talent from around the globe.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,robots" data-layer-viewtype="unknown" data-post-id="394101" href="https://electrek.co/2024/12/17/byd-enters-humanoid-robot-race-global-talent-search-kicks-off/#more-394101" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/17/byd-enters-humanoid-robot-race-global-talent-search-kicks-off/>
+
+---
+
+## E-lixr pivots business model to enable a globally unified electric water taxi network
+
+date: 2024-12-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Electric-water-taxis-Miami.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Young electric water taxi service <a href="https://electrek.co/guides/e-lixr/">E-lixr</a> is pivoting its previous business strategy to become the US’s first operator of all-electric vessels. It now seeks to support new and existing marine fleet operators with a unified platform. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="e-lixr,electric-boat,electric-boats,electric-water-taxi" data-layer-viewtype="unknown" data-post-id="394118" href="https://electrek.co/2024/12/17/e-lixr-pivots-business-model-to-enable-a-globally-unified-electric-water-taxi-network/#more-394118" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/17/e-lixr-pivots-business-model-to-enable-a-globally-unified-electric-water-taxi-network/>
+
+---
+
+## The 2025 Toyota bZ4X Just Got A Lot Cheaper
+
+date: 2024-12-17, from: Inside EVs News
+
+Toyota's sole U.S. electric vehicle is up to $6,000 less expensive for 2025. 
+
+<br> 
+
+<https://insideevs.com/news/744726/2025-toyota-bz4x-pricing-specs/>
+
+---
+
+## AC Future shares final design of its ‘AI-Transformable Home’ RV ahead of physical debut at CES
+
+date: 2024-12-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/AC-Fututre-RV-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Young mobile home solutions developer AC Future has shared the final design of its flagship product – a solar-electric RV called the AI-Transformable Home or “Ai-TH” for short. Designed through a partnership with Hydra Design Labs, the Ai-TH has transcended beyond the concept phase and will be showcased as a physical demonstration unit at CES 2025 in Las Vegas next month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ac-future,electric-rv,hydra-labs" data-layer-viewtype="unknown" data-post-id="394107" href="https://electrek.co/2024/12/17/ac-future-shares-final-design-ai-transformable-home-rv-debut-ces/#more-394107" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/17/ac-future-shares-final-design-ai-transformable-home-rv-debut-ces/>
+
+---
+
+## Trump Pitches A Complete U-Turn On Federal Support For EVs
+
+date: 2024-12-17, from: Inside EVs News
+
+Plus, automakers slash EV prices to meet EU targets and Mercedes reflects on its shrinking market share in China. 
+
+<br> 
+
+<https://insideevs.com/news/744636/trump-ev-policy-changes-2025/>
+
+---
+
+## Man sentenced to prison for stealing Tesla secrets, other still at large
+
+date: 2024-12-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/07/Tesla-Gigafactory-Texas-July-2022.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>One man has been sentenced to two years in prison for stealing Tesla secrets and trying to sell them while his co-conspirator is reportedly still at large.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="394096" href="https://electrek.co/2024/12/17/man-sentenced-to-prison-for-stealing-tesla-secrets-other-still-at-large/#more-394096" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/17/man-sentenced-to-prison-for-stealing-tesla-secrets-other-still-at-large/>
+
+---
+
+## ZEEKR to display ‘heavyweight’ EVs at CES 2025, plus unveil new tech and global market strategy
+
+date: 2024-12-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/ZEEKR-001-FR-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chinese EV automaker ZEEKR is returning to Las Vegas this January to showcase its EV technology in the US during the 2024 Consumer Electronics Show (CES). <a href="https://electrek.co/guides/zeekr/">ZEEKR </a>intends to showcase three of its most popular all-electric models before unveiling some new core technologies and discussing its plans for the global EV market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ces,zeekr,zeekr-001-fr,zeekr-009,zeekr-mix" data-layer-viewtype="unknown" data-post-id="394077" href="https://electrek.co/2024/12/17/zeekr-display-evs-ces-2025-unveil-new-tech-global-market-strategy/#more-394077" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/17/zeekr-display-evs-ces-2025-unveil-new-tech-global-market-strategy/>
+
+---
+
+## Toyota slashes 2025 bZ4X prices by $6,000 and adds a stealthy new Nightshade edition
+
+date: 2024-12-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Toyota-2025-bZ4X-prices.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota’s electric SUV is getting even cheaper in 2025. Despite adding new features, 2025 <a href="https://electrek.co/guides/toyota-bz4x/">Toyota bZ4</a> prices start at $6,000 less than the current model. For the first time, the bZ4X will also be available in a stealthy new Nightshade edition. Check out the new EV below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota,toyota-bz4x" data-layer-viewtype="unknown" data-post-id="394072" href="https://electrek.co/2024/12/17/toyota-cuts-2025-bz4x-prices-by-6000-adds-stealthy-new-trim/#more-394072" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/17/toyota-cuts-2025-bz4x-prices-by-6000-adds-stealthy-new-trim/>
+
+---
+
+## Honda Prelude Hybrid Will Come To The U.S. In 2025
+
+date: 2024-12-17, from: Inside EVs News
+
+Honda says the hybrid coupe will bring the fun back to driving with S+ Shift. And Americans won't be missing out. 
+
+<br> 
+
+<https://insideevs.com/news/744630/honda-prelude-confirmed-producton-coupe/>
 
 ---
 

@@ -1,11 +1,83 @@
 ---
 title: health
-updated: 2024-12-17 07:05:25
+updated: 2024-12-18 07:05:39
 ---
 
 # health
 
-(date: 2024-12-17 07:05:25)
+(date: 2024-12-18 07:05:39)
+
+---
+
+## Amoebae: beyond pathogens- exploring their benefits and future potential
+
+date: 2024-12-18, from: Frontiers in Cellular and Infection Microbiology
+
+Amoebae, fascinatingly diverse protists, showcase a dual nature that positions them as both friends and foes in our world. These organisms, defined by their distinctive pseudopodia, span a spectrum from harmful to helpful. On the darker side, species like Entamoeba histolytica pose serious health risks, causing intestinal and liver diseases, while the infamous “brain-eating” Naegleria fowleri leads to fatal primary amoebic meningoencephalitis (PAM), with a daunting 97% mortality rate. Other free-living amoebae, including Acanthamoeba castellanii and Balamuthia mandrillaris, also threaten the human central nervous system. Yet, beyond these dangers, amoebae play critical ecological roles. They function as nature’s recyclers, decomposing organic material and nourishing aquatic ecosystems, while also serving as food for various organisms. Moreover, certain amoebae help control plant pathogens and offer insight into human disease, proving valuable as model organisms in biomedical research. This review sheds light on the complex, multifaceted world of amoebae, highlighting their dual role as pathogens and as key contributors to vital ecological processes, as well as their significant impact on research and their promising potential for enhancing human well-being. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1518925>
+
+---
+
+## Characterization of glycogen-related glycoside hydrolase glgX and glgB from Klebsiella pneumoniae and their roles in biofilm formation and virulence
+
+date: 2024-12-18, from: Frontiers in Cellular and Infection Microbiology
+
+Glycogen is a polymer used by bacteria to store excess glucose, playing a crucial role in bacterial growth, stress resistance, biofilm formation, and virulence. In bacteria, the glycoside hydrolase family 13 protein are involved in the synthesis and metabolism of glycogen, respectively. The absence of these enzymes leads to changes in bacterial glycogen content, thereby affecting the growth metabolism of the strain. To date, research on the roles of these glycogen-related glycoside hydrolase genes in the synthesis metabolism and bacterial phenotypes of Klebsiella pneumoniae has been limited. In this study, we characterized the glycogen-related glycoside hydrolase genes glgB and glgX of K. pneumoniae. We found that both enzymes exhibited significant degradation activity against glycogen substrates and were capable of degrading amylopectin, amylose, and pullulan. The optimal temperatures for GlgB and GlgX were both in the range of 35-40°C, with optimal pH values of 7.5 and 7.0, respectively, and they exhibited high stability at 37°C. Subsequently, we deleted the glgB and glgX genes in K. pneumoniae. The deletion of the glgB gene resulted in a decrease in the growth rate of the bacteria and defected glycogen synthesis. In contrast, the deletion of the glgX gene slightly accelerated the growth rate and led to continuous glycogen accumulation. In terms of biofilm formation and virulence, defects in glycogen synthesis impeded biofilm formation and virulence, while continuous glycogen accumulation did not affect biofilm formation but slightly increased virulence. In conclusion, the glgB and glgX genes are essential for the glycogen synthesis and metabolism in K. pneumoniae and further influence the biofilm formation capacity and virulence. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1507332>
+
+---
+
+## Prolonged fecal shedding of replication-competent virus, lasting immune activation, and intestinal inflammation in a rhesus macaque after experimental SARS-CoV-2 infection
+
+date: 2024-12-18, from: Frontiers in Cellular and Infection Microbiology
+
+Infection of an adult rhesus macaque with SARS-CoV-2 led to viral RNAemia in nose, throat, and lungs. The animal also presented extended fecal shedding of viral genomic and subgenomic messenger RNA and replication-competent virus for more than 3 weeks after infection. Positron emission tomography revealed increased intestinal glucose metabolism which was histologically related to inflammation of the ileum. These findings highlight the potential of the virus to cause gastrointestinal infections in macaques like this is also regularly observed in COVID-19 patients and substantiates the probability of virus transmission via the fecal-oral route. This study further adds the importance of nonhuman primates as a valuable animal model to study SARS-CoV-2 infection in humans. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1505720>
+
+---
+
+## Preparation, characterization, and protective effects of Gardenia fructus carbon dots against oxidative damage induced by LPS in IPEC-J2 cells
+
+date: 2024-12-18, from: Frontiers in Cellular and Infection Microbiology
+
+This study aimed to prepare Gardenia fructus carbon dots (GF-CDs) and examine their efficacy in mitigating oxidative stress and apoptosis in intestinal porcine epithelial cells from the jejunum (IPEC-J2 cells) induced by lipopolysaccharide (LPS). The GF-CDs were synthesized using a one-step hydrothermal method. The oxidative damage model of IPEC-J2 cells was induced through LPS treatment. The potential mechanism by which GF-CDs affect cellular oxidative damage was examined through the perspectives of apoptosis, reactive oxygen species level, antioxidant-related enzyme index, mRNA transcription of antioxidant-related genes, and the expression of antioxidant proteins. The results revealed that GF-CDs, characterized by particle sizes<7 nm, abundant functional groups, and good water solubility, were synthesized using a one-step hydrothermal method. The carbon spots of Gardenia fructus at concentrations of 50, 100, and 200 μg/mL exhibited protective effects, as evidenced by their ability to enhance viability (P<0.01) and restore cellular morphology after oxidative damage. The GF-CDs decreased oxidative damage and reduced the apoptosis rate of cells by upregulating AKT1 expression and downregulating the expression of Caspase 3, STAT3, TNF-α, and JNK. These results indicate that GF-CDs have the characteristic physicochemical properties of CDs, exhibit biological activities related to antioxidation and cellular damage mitigation, and may serve as a potential healthcare product in swine raising. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1423760>
+
+---
+
+## Gut microbiome and clinical and lifestyle host factors associated with recurrent positive RT-PCR for SARS-CoV-2
+
+date: 2024-12-18, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundSARS-CoV-2 and COVID-19 are still active in the population. Some patients remained PCR-positive for more than 4 weeks, called “persistently PCR-positive”. Recent evidence suggests a link between the gut microbiota and susceptibility to COVID-19, although no studies have explored persistent PCR conditions. We aimed to evaluate the relationship between persistent positive SARS-CoV-2 RT-PCR, the gut microbiome, and individual host determinants.MethodsA shotgun metagenomic analysis was conducted on fecal samples from 28 individuals affected by COVID-19. Patients were divided into two groups: those who had cleared the virus within 30 days (designated as the control group) (n = 15), and those who remained PCR-positive beyond 30 days (called the PCR+ group) (n = 13). We also investigated the correlation between prolonged viral clearance and several additional factors, including clinical parameters, immune responses, microbial metabolites, and dietary habits.ResultsThe composition and functionality of the microbiome varied based on the duration of positivity as determined by PCR. Compared to the control group, the persistent PCR+ group exhibited elevated pathogen levels and augmented diversity in functional gene families (p-value < 0.05). A multi-omics analysis integrating metagenomics, metabolites, and metadata also revealed the specific contribution of certain blood markers in this group, including basophils, IgM, IgG (both general and specific for SARS-CoV-2), and markers of liver damage. Unhealthy diet was identified as a significant factor influencing the duration of PCR positivity.ConclusionsThese findings indicate that the gut microbiome may play a role in delayed viral clearance and persistent positive RT-PCR results. Our study also contributes to the understanding of the role of host factors as mediators linking the gut microbiota and disease outcomes. Further large-scale studies must confirm these data; however, they suggest the relevance of monitoring microbiome changes in the early post-viral years to control SARS-CoV-2 and providing individual healthcare support. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1494193>
+
+---
+
+## Immunogenicity and safety of the fourth dose of quadrivalent human papillomavirus (HPV) vaccine in immunosuppressed women who did not seroconvert after three doses
+
+date: 2024-12-18, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionImmunocompromised persons have high risk of persistent human papillomavirus (HPV) infection and HPV-related diseases, and lower immune response to vaccines. This study evaluated the immunogenicity and safety of administering a fourth dose of quadrivalent (4v)HPV vaccine in immunosuppressed women who did not seroconvert after three doses.MethodsAn open-label, not-controlled trial included immunosuppressed women (solid organ transplant patients and women receiving treatment for SLE) who did not seroconvert to at least one of the four HPV vaccine types after three 4vHPV vaccine doses. All participants received a fourth 4vHPV vaccine dose (median 27 months after third dose). Immunogenicity was evaluated a month after the fourth dose, by measuring seroconversion rates and antibody geometric mean concentration (GMC).ResultsTwenty-three women were included. Among women who did not seroconvert for each vaccine type after three doses, 2/10 seroconverted to HPV6, 3/10 to HPV11, 3/10 to HPV16 and 6/18 to HPV18, after the fourth 4vHPV dose. There was an increase in antibody GMC for HPV 6, 16, 18, with highest increase for HPV16 (from 6.02 to 44.63 International Units). There was no increase of anti-HPV-11. Within seven days after vaccination, only three of the 23 vaccinees reported any adverse event, none of which were classified as serious.ConclusionsAlthough safe, the fourth 4vHPV vaccine dose led to seroconversion in only few immunosuppressed women who had not seroconverted after three doses. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1451308>
 
 ---
 
@@ -78,6 +150,18 @@ IntroductionThis study identifies Staphylococcus debuckii as a new coagulase-neg
 <br> 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2024.1489280>
+
+---
+
+## People’s CDC COVID-19 Weather Report
+
+date: 2024-12-16, from: People's CDC
+
+This is the People's CDC bi-weekly update for December 16, 2024! This Weather Report from the People’s CDC sheds light on the ongoing COVID situation in the US. 
+
+<br> 
+
+<https://peoplescdc.org/2024/12/16/peoples-cdc-covid-19-weather-report-88/>
 
 ---
 

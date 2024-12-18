@@ -1,11 +1,98 @@
 ---
 title: central coast
-updated: 2024-12-17 07:05:23
+updated: 2024-12-18 07:05:37
 ---
 
 # central coast
 
-(date: 2024-12-17 07:05:23)
+(date: 2024-12-18 07:05:37)
+
+---
+
+## Sunset Window
+
+date: 2024-12-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/101924-POD-Patricia-Tangney.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sunset window in Santa Barbara." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/101924-POD-Patricia-Tangney.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/101924-POD-Patricia-Tangney.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/101924-POD-Patricia-Tangney.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/101924-POD-Patricia-Tangney.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/101924-POD-Patricia-Tangney.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/101924-POD-Patricia-Tangney.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/101924-POD-Patricia-Tangney.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/101924-POD-Patricia-Tangney.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/101924-POD-Patricia-Tangney.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/101924-POD-Patricia-Tangney.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/101924-POD-Patricia-Tangney.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/101924-POD-Patricia-Tangney.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/sunset-window/">Sunset Window</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/sunset-window/>
+
+---
+
+## Dear Annie: After 44 Years, How Does Widower Move Forward When High School Sweetheart Is Gone?
+
+date: 2024-12-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Dear Annie: My wife of 44 years passed away after a nine-day bout with cancer. We started dating at 16, went to college together, married at 20 and graduated at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dear-annie-after-44-years-how-does-widower-move-forward-when-high-school-sweetheart-is-gone/">Dear Annie: After 44 Years, How Does Widower Move Forward When High School Sweetheart Is Gone?</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/dear-annie-after-44-years-how-does-widower-move-forward-when-high-school-sweetheart-is-gone/>
+
+---
+
+## Goleta Council Bids Farewell to Kyle Richards, Welcomes Jennifer Smith
+
+date: 2024-12-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Goleta-swearing-in-1-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Re-elected Goleta Mayor Paula Perotte, left, Councilman Stuart Kasdin and newly elected Councilwoman Jennifer Smith are sworn in Tuesday." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Goleta-swearing-in-1-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Goleta-swearing-in-1-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Goleta-swearing-in-1-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Goleta-swearing-in-1-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Goleta-swearing-in-1-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Goleta-swearing-in-1-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Goleta-swearing-in-1-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Goleta-swearing-in-1-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Goleta-swearing-in-1-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Tuesday night marked the end of one era and the start of another for Goleta as the city bid farewell to Councilman Kyle Richards and swore in re-elected Mayor Paula [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-council-bids-farewell-to-kyle-richards-welcomes-jennifer-smith/">Goleta Council Bids Farewell to Kyle Richards, Welcomes Jennifer Smith</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/goleta-council-bids-farewell-to-kyle-richards-welcomes-jennifer-smith/>
+
+---
+
+## Activists Speak Out as County Sheriff’s Office Reports on Partnership with ICE
+
+date: 2024-12-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Truth-Act-DG-01.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="As the Santa Barbara County Board of Supervisors on Tuesday hears an annual report on Sheriff&#039;s Office cooperation with U.S. Immigration and Customs Enforcement, Supervisor Laura Capps expresses concern that immigrants could be scapegoated." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Truth-Act-DG-01.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Truth-Act-DG-01.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Truth-Act-DG-01.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Truth-Act-DG-01.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Truth-Act-DG-01.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Truth-Act-DG-01.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Truth-Act-DG-01.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Truth-Act-DG-01.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-Truth-Act-DG-01.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Immigration activists and protesters gathered during Tuesday&#8217;s Santa Barbara County Board of Supervisors meeting to express their dissatisfaction with the continued relationship between the county and U.S. Immigration and Customs [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/activists-speak-out-as-county-sheriffs-office-reports-on-partnership-with-ice/">Activists Speak Out as County Sheriff&#8217;s Office Reports on Partnership with ICE</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/activists-speak-out-as-county-sheriffs-office-reports-on-partnership-with-ice/>
+
+---
+
+## California’s First Partner Visits Santa Barbara School District to Talk About Cellphone Policy
+
+date: 2024-12-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-SB-Unified-Cell-Phone-Esther-Limon-Jennifer-Siebel-Newsom-Gabe-Escobedo-Victor-Prato-1-Courtesy-SB-Unified.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="San Marcos High School teacher Esther Limon, from left, California First Partner Jennifer Siebel Newsom, Santa Barbara school board member Gabe Escobedo and La Cuesta teacher Victor Prato attend an event Friday to talk about the Santa Barbara Unified School District&#039;s cellphone policy." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-SB-Unified-Cell-Phone-Esther-Limon-Jennifer-Siebel-Newsom-Gabe-Escobedo-Victor-Prato-1-Courtesy-SB-Unified.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-SB-Unified-Cell-Phone-Esther-Limon-Jennifer-Siebel-Newsom-Gabe-Escobedo-Victor-Prato-1-Courtesy-SB-Unified.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-SB-Unified-Cell-Phone-Esther-Limon-Jennifer-Siebel-Newsom-Gabe-Escobedo-Victor-Prato-1-Courtesy-SB-Unified.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-SB-Unified-Cell-Phone-Esther-Limon-Jennifer-Siebel-Newsom-Gabe-Escobedo-Victor-Prato-1-Courtesy-SB-Unified.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-SB-Unified-Cell-Phone-Esther-Limon-Jennifer-Siebel-Newsom-Gabe-Escobedo-Victor-Prato-1-Courtesy-SB-Unified.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-SB-Unified-Cell-Phone-Esther-Limon-Jennifer-Siebel-Newsom-Gabe-Escobedo-Victor-Prato-1-Courtesy-SB-Unified.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-SB-Unified-Cell-Phone-Esther-Limon-Jennifer-Siebel-Newsom-Gabe-Escobedo-Victor-Prato-1-Courtesy-SB-Unified.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-SB-Unified-Cell-Phone-Esther-Limon-Jennifer-Siebel-Newsom-Gabe-Escobedo-Victor-Prato-1-Courtesy-SB-Unified.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121724-SB-Unified-Cell-Phone-Esther-Limon-Jennifer-Siebel-Newsom-Gabe-Escobedo-Victor-Prato-1-Courtesy-SB-Unified.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Santa Barbara Unified School District&#8217;s cellphone policy continues to attract attention. First Partner of California Jennifer Siebel Newsom visited Santa Barbara Unified on Friday to talk to officials about [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/californias-first-partner-visits-santa-barbara-school-district-to-talk-about-cellphone-policy/">California&#8217;s First Partner Visits Santa Barbara School District to Talk About Cellphone Policy</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/californias-first-partner-visits-santa-barbara-school-district-to-talk-about-cellphone-policy/>
+
+---
+
+## People’s Self-Help Housing Has New Home Ownership Team Leader
+
+date: 2024-12-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>People’s Self-Help Housing (PSHH) has appointed Jimmy Summer as director of Home Ownership. Summer has more than five years of experience at PSHH, working in both multi-family housing and home [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/jimmy-summer-to-lead-peoples-self-help-housing-home-ownership-team/">People’s Self-Help Housing Has New Home Ownership Team Leader</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/jimmy-summer-to-lead-peoples-self-help-housing-home-ownership-team/>
 
 ---
 

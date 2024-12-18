@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2024-12-17 07:05:26
+updated: 2024-12-18 07:05:39
 ---
 
 # craft
 
-(date: 2024-12-17 07:05:26)
+(date: 2024-12-18 07:05:39)
+
+---
+
+## Workshops are Filling Fast! - Celebrate 20 Years With 20% Off All Workshops — Maiwa School of Textiles - Online Workshops
+
+date: 2024-12-17, updated: 2024-12-17, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2024/12/workshops-are-filling-fast-celebrate-20.html>
+
+---
+
+## Impressed with the Simplicity
+
+date: 2024-12-17, from: Lost Arg Press blog
+
+The following is an excerpt from &#8220;Welsh Stick Chairs&#8221; by John Brown. “Life without Industry is guilt, and Industry without Art is brutality” I came back to live in Wales in 1975. I had been made redundant and I was depressed. After years in a job I loved I had been told to go; my... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/17/impressed-with-the-simplicity/>
 
 ---
 

@@ -1,11 +1,990 @@
 ---
 title: north america
-updated: 2024-12-17 07:05:22
+updated: 2024-12-18 07:05:36
 ---
 
 # north america
 
-(date: 2024-12-17 07:05:22)
+(date: 2024-12-18 07:05:36)
+
+---
+
+## Senators urge US House to pass Kids Online Safety Act
+
+date: 2024-12-18, from: VOA News USA
+
+A bipartisan effort to protect children from the harms of social media is running out of time in this session of the U.S. Congress. If passed, the Kids Online Safety Act would institute safeguards for minors’ personal data online. But free speech advocates and some Republicans are concerned the bill could lead to censorship. VOA’s Congressional Correspondent Katherine Gypson has more. Kim Lewis contributed to this story. 
+
+<br> 
+
+<https://www.voanews.com/a/senators-urge-us-house-to-pass-kids-online-safety-act/7905596.html>
+
+---
+
+## The World Just Can’t Seem to Quit Coal
+
+date: 2024-12-18, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTM2NDI1Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5MjU3ODYxN30.GLgBkvL3K5PsykIcsPsmMfsqZ6Q97BPKlys2uKxckMI/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+<em><strong>Current conditions:</strong> Very windy conditions in the UK have sent wind power generation soaring but electricity prices <a href="https://www.bloomberg.com/news/articles/2024-12-18/uk-wind-power-hits-another-record-with-weather-warnings-in-place?srnd=phx-green&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_v2WmbZ53sx4QHJuke8gkx0xQXW5NozuSnu91toxPOVZFYIINhjofueTh15f74IZRiCmTH" rel="noopener noreferrer" target="_blank">plummeting</a> • Strong storms are expected to bring heavy rain and possibly tornadoes to Nashville, Tennessee • It’s cloudy in Tokyo, where Nissan shares were up on the news that the automaker is in merger talks with Honda.</em>
+</p><h2>THE TOP FIVE</h2><h3>1. Federal land emissions are falling</h3><p>
+	Greenhouse gas emissions from U.S. federal lands peaked in 2009 and have been mostly falling ever since, according to a <a href="https://www.sciencebase.gov/catalog/item/66bf4a0cd34e033882837601?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_v2WmbZ53sx4QHJuke8gkx0xQXW5NozuSnu91toxPOVZFYIINhjofueTh15f74IZRiCmTH" rel="noopener noreferrer" target="_blank">report</a> from the U.S. Geological Survey. Federal lands make up nearly 30% of all the nation’s land. In 2009, annual emissions from fossil fuel extraction and use on these lands reached 1,430.9 million metric tons of CO2 equivalent, but had fallen to 1,118.9 million metric tons in 2022. Emissions saw a particularly steep drop in 2020, likely linked to the pandemic, and have been rising, but it’s not clear if the upward trend will continue. Wyoming is a major emitter: Its federal land CO2 emissions in 2022 made up 41% of the national total.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="52fe98778646b9da5dcf1bd5076282c5" data-rm-shortcode-name="rebelmouse-image" id="5a505" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTM2NDI2Mi9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc1NTM4ODgzMH0.Lk7BRlpYR10eMZqn3bBde1pAPtAw6BhV3eRwpoeDOz0/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">USGS</small>
+</p><p>
+	The same report also found that natural ecosystems (like soil, vegetation, and deadwood) on federal lands are offsetting just 1.4% of the annual emissions, and that “climate conditions” like drought and wildfire have “resulted in a decline in the sink strength of ecosystems on federal lands.” For context, total greenhouse gas emissions for the U.S. have been <a href="https://www.epa.gov/climate-indicators/climate-change-indicators-us-greenhouse-gas-emissions?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_v2WmbZ53sx4QHJuke8gkx0xQXW5NozuSnu91toxPOVZFYIINhjofueTh15f74IZRiCmTH" rel="noopener noreferrer" target="_blank">falling</a> – in 2022 they were down 3% from 1990 levels. Carbon dioxide emissions from federal lands make up about 22% of the U.S. total.
+</p><h3>2. DOE finalizes $7.54 billion loan for Indiana EV battery plants</h3><p>
+	The Department of Energy’s Loan Program Office <a href="https://www.energy.gov/lpo/articles/lpo-announces-754-billion-loan-starplus-energy-construct-lithium-ion-battery-factories?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_v2WmbZ53sx4QHJuke8gkx0xQXW5NozuSnu91toxPOVZFYIINhjofueTh15f74IZRiCmTH" rel="noopener noreferrer" target="_blank">closed a loan</a> yesterday to fund EV battery plants in Kokomo, Indiana. The $7.54 billion goes to StarPlus Energy – a joint venture between Samsung and Stellantis – and was approved as a conditional loan in early December. At the time <a href="https://heatmap.news/electric-vehicles/stellantis-loan-billion-batteries-indiana?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_v2WmbZ53sx4QHJuke8gkx0xQXW5NozuSnu91toxPOVZFYIINhjofueTh15f74IZRiCmTH" rel="noopener" target="_self">it wasn’t clear</a> whether the LPO would be able to finalize it before the Trump administration takes over. The DOE estimates the Indiana projects will create 3,200 construction jobs and 2,800 operations jobs, and the finished plants will produce 67 GWh of batteries, “enough to supply approximately 670,000 vehicles annually.”
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="1be3947052956bbd2937422a193043d0" data-rm-shortcode-name="rebelmouse-image" id="d4fc4" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTM2NDI2NC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc0ODE5MzY2Mn0.33kLHXCoch33sdWD9al3zld2tiSM4Dlpdil_yQGdY4E/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">DOE/LPO</small>
+</p><h3>3. DOE publishes long-awaited LNG study</h3><p>
+	The Department of Energy on Tuesday <a href="https://www.energy.gov/sites/default/files/2024-12/LNGUpdate_SummaryReport_Dec2024_12pm.pdf?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_v2WmbZ53sx4QHJuke8gkx0xQXW5NozuSnu91toxPOVZFYIINhjofueTh15f74IZRiCmTH" rel="noopener noreferrer" target="_blank">published the results</a> of its analysis of the economic and environmental implications of expanding U.S. exports of liquefied natural gas. <a href="https://heatmap.news/climate/lng-study?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_v2WmbZ53sx4QHJuke8gkx0xQXW5NozuSnu91toxPOVZFYIINhjofueTh15f74IZRiCmTH" rel="noopener" target="_self">Among its key findings</a>:
+</p><ul>
+<li>LNG projects that have already been approved are likely to produce more than enough natural gas to meet global demand. New facilities that are under construction will nearly double exports by 2030, and exports could double again after that if all the facilities that have been approved, but have not yet reached a final investment decision, end up getting built.</li>
+<li>Demand for U.S. LNG has flattened in Europe and peaked in Japan, while South Korea’s demand is expected to plateau by 2030. China will be the largest LNG importer through 2050.</li>
+<li>While new LNG terminals will create jobs and revenues, increased exports could also raise wholesale domestic natural gas prices by more than 30% by 2050.</li>
+<li>In all five scenarios the DOE studied, U.S. LNG exports would increase global net emissions.</li>
+</ul><p>
+	The main takeaway, according to an accompanying letter penned by the Secretary of Energy Jennifer Granholm, is that “a business-as-usual approach is neither sustainable nor advisable.” In a call on Tuesday, Granholm acknowledged that the future is in the next administration’s hands. “We hope that they’ll take these facts into account to determine whether additional LNG exports are truly in the best interest of the American people and economy,” she said.
+</p><h3><span></span>4. IEA: Coal demand to hit a new high</h3><p>
+	Global coal demand is set to rise to a new record this year and remain steady through 2027, according to the International Energy Agency. While the rapid rollout of renewables is encroaching on coal’s “century-long supremacy in electricity generation,” soaring power demand is counterbalancing this trend and giving coal a boost, the IEA said in its <a href="https://www.iea.org/news/global-coal-demand-is-set-to-plateau-through-2027?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_v2WmbZ53sx4QHJuke8gkx0xQXW5NozuSnu91toxPOVZFYIINhjofueTh15f74IZRiCmTH" target="_blank">Coal 2024 report</a>. The future of coal will depend largely on what happens in China, the largest consumer of the world’s dirtiest fuel. This year China, India, and countries in Southeast Asia are projected to account for 75% of global coal demand.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="5a9672efd135b3c6f34bb07bfce205a9" data-rm-shortcode-name="rebelmouse-image" id="d7838" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTM2NDI3MC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc5MjY5NTE3Mn0.uWzuPITk9lCSoJekmTl-8Bny6FwS8SKjm0aqRWzETZY/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">IEA</small>
+</p><h3>5. Scientists urge holistic thinking to solve interlinked global problems </h3><p>
+	A new <a href="https://ipbes.canto.de/pdfviewer/viewer/viewer.html?v=IPBES11Media&portalType=v%2FIPBES11Media&column=document&id=cj0uc5396d1ed5418tsuic2r45&suffix=pdf&print=1&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_v2WmbZ53sx4QHJuke8gkx0xQXW5NozuSnu91toxPOVZFYIINhjofueTh15f74IZRiCmTH" rel="noopener noreferrer" target="_blank">analysis</a> from hundreds of researchers across the world recommends that we stop treating our most pressing global problems as being separate from one another, and instead acknowledge they’re all connected. Solving them will require a holistic approach. Climate change, biodiversity loss, water shortages, food insecurity, and health risks are all interlinked, the assessment says, and decisions to address these challenges should be coordinated to “maximize synergies and minimize trade-offs.” Right now, humanity is looking at these issues in isolation, “resulting in potential misalignment, unplanned trade-offs, and/or unintended consequences.”
+</p><p>
+	Last month some of the leading voices on global climate science and policy <a href="https://www.clubofrome.org/cop-reform-2024/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_v2WmbZ53sx4QHJuke8gkx0xQXW5NozuSnu91toxPOVZFYIINhjofueTh15f74IZRiCmTH" target="_blank">penned an open letter</a> calling for negotiators at future COP climate summits to consider the interconnected issues of nature loss, inequality, and poverty to ensure meaningful solutions. The new report was published by the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services.
+</p><h2>THE KICKER</h2><p>
+	Virginia will become home to the world’s <a href="https://heatmap.news/technology/commonwealth-fusion-virginia?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_v2WmbZ53sx4QHJuke8gkx0xQXW5NozuSnu91toxPOVZFYIINhjofueTh15f74IZRiCmTH" target="_self">first commercial fusion power plant</a>. The facility will be operated by Commonwealth Fusion Systems, and is expected to produce enough energy to power about 150,000 homes sometime in the early 2030s.
+</p> 
+
+<br> 
+
+<https://heatmap.news/climate/the-world-just-cant-seem-to-quit-coal>
+
+---
+
+## How Covid Shaped Climate Policy
+
+date: 2024-12-18, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTM1MjQ3Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczNzA0MzExNX0.1PfamI_mHhKbvK9zRsyZCLcUGdIR30zBJqod7FOerGk/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><h3>A Great Global Calamity</h3><p class="drop-caps">Five years ago this month, the novel coronavirus that would eventually become known as Covid-19 began to spread in Wuhan, China, kicking off a sequence of events that quite literally changed the world as we know it, the global climate not excepted.</p><p>The most dramatic effect of Covid on climate change wasn’t the 8% drop in annual greenhouse gas emissions caused by lockdowns and border closures in 2020, however. It wasn’t the crash in oil prices, which briefly went negative in April 2020. It wasn’t the delay of COP26 and of the United Nations Intergovernmental Panel on Climate Change’s Sixth Assessment Report. And it wasn’t, sadly, a legacy of green stimulus measures (some <a href="https://www.naturefinance.net/wp-content/uploads/2022/09/Green-Stimulus-Index-6th-Edition_final-report.pdf" rel="noopener noreferrer" target="_blank"><u>good efforts</u></a> notwithstanding).</p><p>Rather, it was in the way the world’s governments (especially the largest and most powerful) responded to the virus, which <a href="https://www.phenomenalworld.org/analysis/an-introduction/" target="_blank">undermined the very idea of multilateralism</a>, climate action included. This took place along three main vectors: inertia on global financial rules, even as long-acknowledged failings turned catastrophic; a renaissance in industrial policy that may prove transformative for domestic fiscal policy; and, at the intersection of both, deterioration of what we might call geopolitics or “global solidarity.” </p><p>Evidence of this phenomenon can be found in nearly every aspect of the global order. The <a href="https://blogs.worldbank.org/en/opendata/the-polycrisis-behind-a-lost-decade-of-poverty-reduction" target="_blank"><u>World Bank in October</u></a> pointed to Covid as chief among a “polycrisis” of “multiple and interconnected crises occurring simultaneously, where their interactions amplify the overall impact.” Development gains have almost slowed to a halt. Extreme poverty has <em><em>increased </em></em>overall in low-income countries since 2014, after decades of improvement, according to the World Bank’s analysis.</p><p>None of this, however, was an inevitable effect of Covid. Poor countries got poorer, for the most part, because of norms and hard rules in global finance that they have little control over — what a group of researchers last year termed “<a href="https://ideas.repec.org/a/taf/rripxx/v30y2023i4p1360-1386.html" rel="noopener noreferrer" target="_blank"><u>financial subordination</u></a>.” </p><p>To understand why, a brief history: Developing countries during the 2010s were seeking new avenues of finance as traditional sources like multilateral development bank loans, official development assistance, and commercial bank loans waned. Many turned to the U.S. dollar sovereign bond markets, and also to China; a few countries also turned to commodity traders like Glencore and Trafigura, taking on opaque debts to be repaid with their own oil and other commodities. </p><p>When the pandemic response shut down many kinds of economic activity in 2020, what World Bank researchers called a “fourth wave” of debt followed. After a continuous series of debt surges from 1970 to 1989, 1990 to 2001, and 2002 to 2009, global debt markets had been relatively stable for the preceding decade. What was different about this fourth wave was that it was <a href="https://thedocs.worldbank.org/en/doc/377151575650737178-0050022019/original/DebtChapter1.pdf" rel="noopener noreferrer" target="_blank"><u>largely in developing countries</u></a>.</p><p>With Covid, the fourth wave turned into a tsunami. Countries everywhere were paralysed by the pandemic, but the poorest ones lost critical revenue from tourism, remittances, and some exports. On top of that, they suffered the same lockdowns and illness that depressed local economic activity and drained government budgets in many countries. Unlike rich countries, developing countries had limited ability to dip into reserves or raise money from the bond markets to keep their citizens safe and tide over those who lost work.</p><p>Wealthy countries and lenders did little to ameliorate this stress. A “Debt Servicing Suspension Initiative” facilitated by the G20 provided some relief for 46 countries; China participated, too, granting deferrals to some of its debtor countries. But private bondholders (who were earning returns as high as 9%) and multilateral banks did not. The debts still had to be paid, and by 2023, aggregate net capital flows <a href="https://www.project-syndicate.org/commentary/imf-world-bank-spring-meetings-need-to-get-four-things-right-by-lawrence-h-summers-and-n-k-singh-2024-04" rel="noopener noreferrer" target="_blank"><u>were </u><u><em><em>negative</em></em></u></a><em> </em>for developing countries — that is, more money flowed from poorer countries to richer ones than the other way around. </p><p>Numerous governments defaulted on their debts in the wake of Covid, including Ghana, Sri Lanka, Zambia, Ethiopia, and Suriname. But perhaps just as bad, many, many more countries continued to pay their debts by slashing their health and social welfare budgets just as they were needed most. Low- and middle-income countries <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9944267/" rel="noopener noreferrer" target="_blank"><u>spent more</u></a> on debt servicing in 2022 than they spent on health in 2020, during the height of the pandemic. </p><p>Tensions between the U.S. and China, meanwhile, became even more overt around Covid, helped in part by accusations and recriminations over the source of the disease. The two great powers were themselves deeply changed. China emerged from its Covid Zero measures with <a href="https://blogs.soas.ac.uk/china-institute/2022/12/15/chinas-zero-covid-strategy-causes-for-public-protests/" rel="noopener noreferrer" target="_blank"><u>public</u></a> <a href="https://www.theguardian.com/world/2022/nov/27/anger-mounts-as-chinas-zero-covid-policy-fails-to-curb-record-rise-in-cases" rel="noopener noreferrer" target="_blank"><u>discontent</u></a> at a nearly unprecedented pitch and its engines of <a href="https://www.sciencedirect.com/science/article/abs/pii/S1043951X23001864" rel="noopener noreferrer" target="_blank"><u>economic growth </u></a>— domestic infrastructure and residential property — faltering as vast local government debts <a href="https://www.caixinglobal.com/2023-10-03/opinion-how-to-fix-chinas-local-government-debt-crisis-102113962.html" rel="noopener noreferrer" target="_blank"><u>became unmanageable</u></a>. The country’s central government renewed its focus on an export-led growth model, but this time instead of cheap, low-tech consumer goods, it was semiconductors, solar panels, and electric vehicles. </p><p>It quickly became clear that the Biden administration would not be much less hawkish towards China than Trump’s was. It largely focused inwards, on tackling the disenfranchisement of formerly solid Democratic working class constituencies that Trump had exploited and Covid deepened. These were largely seen as an outcome of untrammelled free trade — especially with China. But Covid lockdowns and the rush to regain normalcy in the re-opening choked complex supply chains and logistics networks, driving up prices around the world and helping to spark a global inflation crisis that has yet to meaningfully abate in many parts of the world. </p><p>When Russia invaded Ukraine, energy prices shot up, particularly in those countries reliant on imported oil and natural gas. This shook the global fossil energy economy. Exports of liquified natural gas by the United States to Europe skyrocketed, as European countries desperately sought alternatives to Russian piped gas. Those same desperate Europeans also bought LNG shipments that had been bound for countries like Bangladesh and Pakistan, <a href="https://www.thedailystar.net/business/global-economy/news/eu-thirst-lng-puts-bangladesh-pakistan-the-dark-3140426" rel="noopener noreferrer" target="_blank"><u>outbidding </u></a>the poorer countries which then endured blackouts and further hits to their financial reserves as they struggled to match the new EU price. </p><p>Global energy price rises compounded the Covid supply-chain pressures and monetary policymakers decided hiking interest rates was unavoidable. While Russian troops tried to capture Kyiv in March of 2022, the U.S. Federal Reserve — perhaps the most powerful U.S. entity for the rest of the world — began hiking interest rates, taking them from just a quarter of a percent before the invasion to more than 5% by mid-2023. This strengthened the U.S. dollar, heaping more pressure on developing countries trying to pay dollar-denominated debts. Meanwhile, in rich and poor countries alike, the jump in living costs has helped drive <a href="https://www.marketplace.org/2024/11/14/incumbents-are-losing-around-the-world-not-just-the-u-s/" target="_blank">backlashes against incumbents</a>, and a surge in far-right populism. </p><h3>A Precarious Recovery</h3><p>Perhaps years ago, if we’d known that we’d see a spike in temperatures, droughts, and storms alongside a flood of cheap solar panels and EVs, technological breakthroughs in batteries, and a renewed interest in industrial policy, it might have seemed that more urgent climate action was assured. Instead, divisions have worsened. The agreement text from this year’s United Nations climate conference is actually slightly watered down from the last year’s statement on fossil fuel phaseout. A special conference on biodiversity Cali, Colombia, finished last month only when delegates had to catch flights home, and a desertification conference hosted by Saudi Arabia finished this month with no group statement.</p><p>Rachel Kyte, the UK special envoy for climate change, told an event hosted by the Overseas Development Institute think tank that even as it approached its 10-year anniversary, the 2015 Paris Agreement was more fragile than it had ever been. Countries like the UK, she said, had been inflicting “paper cuts” on developing countries for so long that the ill will was becoming impossible to wave away. </p><p>“[W]e’ve also cherry-picked which international laws we want to stand behind and then, which conflicts we believe the international law is important for and not,” she added. “And you sit in the climate negotiations and they know that you know that they know that you know.” </p><p>And yet a hopeful note sounding out of all of this has been the central role of clean energy in many countries’ responses to the increasingly fractious global landscape. Responses to Covid, as chaotic as they were, demonstrated that governments can take decisive action. Although the vast majority of Covid stimulus was climate-neutral at best; about a trillion dollars’ worth of investments really <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/06/did-covid-19-accelerate-the-green-transition_da7d5332/5b486c18-en.pdf" rel="noopener noreferrer" target="_blank"><u>were green</u></a>. Efforts to boost cycling <a href="https://english.elpais.com/lifestyle/2024-04-24/the-cycling-revolution-in-paris-continues-bicycle-use-now-exceeds-car-use.html" rel="noopener noreferrer" target="_blank"><u>gained ground</u></a> in some cities, including in Paris, where bike trips now outnumber car trips in and around the city center. </p><p>Renewed interest in energy security sparked by the Ukraine invasion has been largely supportive of clean energy. Europe’s combined wind and solar generation rose 10% in the first year after the invasion as the bloc made its emissions reduction target more ambitious. Green industrial policy introduced by the Biden administration has encouraged other countries to see decarbonization as a competitive opportunity rather than an obligation. And China’s doubling down on its manufacturing of the “<a href="https://www.citigroup.com/global/insights/china-economics-out-with-the-old-three-and-in-with-the-new-three" rel="noopener noreferrer" target="_blank"><u>new three</u></a>” — batteries, EVs, and solar panels — has created an <a href="https://heatmap.news/politics/biden-china-climate" target="_self"><u>oversupply</u></a> that spurred rapid uptake of clean energy in many countries. </p><p>Fractures, however, are rife. Too many countries have steep tariffs on clean energy imports preventing them from taking advantage of cheap Chinese components, adding to other barriers to clean energy generation, such as the restrictive planning rules <a href="https://www.bloomberg.com/opinion/articles/2023-11-05/japan-is-the-land-that-the-energy-transition-forgot?sref=63ZrW3mM" rel="noopener noreferrer" target="_blank"><u>in Japan</u></a>, where renewable energy generation lags; even wind power, where the country has ample potential, was <a href="https://ember-energy.org/latest-insights/japans-missing-piece-of-clean-power/" rel="noopener noreferrer" target="_blank"><u>virtually flat </u></a>for the decade to 2022. Tariffs on imports to the U.S., while helping to build a domestic industry, also slow the rate of deployment. Globalized supply chains tend to be cheaper; a <a href="https://www.nature.com/articles/s41586-022-05316-6" rel="noopener noreferrer" target="_blank"><u>study in </u><u><em><em>Nature</em></em></u></a> estimated that they saved the U.S. up to $31 billion in the 12 years leading up to 2020, while China saved up to $45 billion, compared to a scenario in which domestic suppliers were prioritized. Even with its rapid expansion in clean tech manufacturing thanks to the Inflation Reduction Act, it will take years for the U.S. to catch up to China’s capabilities, while in the meantime, tariffs will slow down installations. </p><p>For those in wealthier and more powerful countries, there’s at least a chance of political shift. For countries under financial subordination, there are hard limits to what can be achieved. </p><p>Geopolitical alignment is an increasingly sensitive question for countries trying to avoid the pitfalls of appearing to be too close to either China or the U.S. Auto manufacturing has become the site of intense competition and tension, with the U.S. and EU putting punitive tariffs on Chinese EV imports to compensate for “state subsidies.” The introduction of the European carbon border adjustment mechanism this year, which penalizes high-carbon imports so they don’t undermine the continent’s carbon pricing regime, has introduced a new source of tension around trade, particularly for African countries that rely on exports to Europe and are nowhere near having their own carbon accounting scheme that is a prerequisite to avoiding the surcharges. </p><p>We may only know in retrospect, but the supply bottlenecks and inflationary surges associated with the Covid lockdowns and reopenings may have been a kind of masked transition phase into a new, more permanently supply-constrained world. Researchers at Potsdam Institute and the European Central Bank <a href="https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2821~f008e5cb9c.en.pdf" rel="noopener noreferrer" target="_blank"><u>published new research </u></a>in March showing that climate change impacts will raise general inflation by more than a percentage point by 2035. </p><p>The damage could be seen in the recent COP29 in Azerbaijan. Trust was close to an all-time low over negotiations for a new target for finance flows from wealthy to poor countries. After it ended with a controversially low $300 billion target, Fiona Harvey of the Guardian <a href="https://www.theguardian.com/commentisfree/2024/dec/03/cop-climate-baku-talks-division" rel="noopener noreferrer" target="_blank"><u>called it </u></a>the second worst COP of the 18 she’s attended, surpassed only by the disastrous 2009 COP15 in Copenhagen, which ended with no agreement at all. It can also be seen in the rebound in emissions since 2021. </p><p>While some hopeful shifts have emerged from the Covid era, the increasingly febrile global atmosphere risks endangering our already slim chances of protecting the habitable atmosphere. As climate impacts worsen, pushing back on that axiom will be more difficult, but more urgent. Combating climate change is such a monumental undertaking that collaboration – in technology, manufacturing, knowledge, and diplomacy – will be vital. </p> 
+
+<br> 
+
+<https://heatmap.news/ideas/how-covid-shaped-climate-policy>
+
+---
+
+##  The Dangerous Lie Behind On-Demand Nursing 
+
+date: 2024-12-18, from: The Lever News
+
+ “Uber for nurses” is extracting profits and hurting health care, all to solve a problem that doesn’t exist.  
+
+<br> 
+
+<https://www.levernews.com/the-dangerous-lie-behind-on-demand-nursing/>
+
+---
+
+## Energy Secretary Jennifer Granholm on What Comes After Biden’s Climate Agenda
+
+date: 2024-12-18, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTM2MTMwMi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4Njk1MjY0N30.qivNO4J2XFnd7MpqDMYMgd_L2Y5TdM0F8lauXc_F3gU/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
+	Jennifer Granholm has long been one of the most interesting figures in the Democratic Party. A former federal prosecutor, she was the governor of Michigan from 2003 to 2011, leading the state during the Great Recession and subsequent auto bailout. Since 2021, she has been the 16th U.S. Secretary of Energy. While there, she has overseen the department’s transformation from an R&D-focused agency to an aspiring engine of industrial strategy.
+</p><p>
+	On this week’s episode of Shift Key, Rob sits down with Secretary Granholm in person in New York to conduct an exit interview, of sorts. What climate policies is she most proud of — and what does she hope Democrats do better next time? What does she wish that Democrats understood about fossil fuels? And what does she think the outlook for clean energy is in the years to come?
+</p><p>
+	Shift Key is hosted by Robinson Meyer, the founding executive editor of Heatmap, and Jesse Jenkins, a professor of energy systems engineering at Princeton University. Jesse is off this week.
+</p><p>
+<strong>Subscribe to “Shift Key” and find this episode on <a href="https://podcasts.apple.com/us/podcast/shift-key-with-robinson-meyer-and-jesse-jenkins/id1728932037" rel="noopener noreferrer" target="_blank">Apple Podcasts</a>, <a href="https://open.spotify.com/show/0war1dXXCEEZNpZ3H7kRid" rel="noopener noreferrer" target="_blank">Spotify</a>, <a href="https://music.amazon.com/podcasts/d3491bb8-f4c3-429d-b622-b5d9b1329c69/shift-key-with-robinson-meyer-and-jesse-jenkins" rel="noopener noreferrer" target="_blank">Amazon</a>, or wherever you get your podcasts.</strong>
+</p><p>
+	You can also add 
+	<a href="https://feeds.acast.com/public/shows/65bac3af03341c00164bf93b" rel="noopener noreferrer" target="_blank">the show’s RSS feed</a> to your podcast app to follow us directly.
+</p><center><iframe frameborder="0" height="190px" src="https://embed.acast.com/65bac3af03341c00164bf93b/676213ced9cd65ec1e831570" width="100%"></iframe></center><p>
+	Here is an excerpt from our conversation:
+</p><blockquote>
+<strong>Robinson Meyer: </strong>And so one big question I have is like, are we going to learn in the next few years whether these are actual concerns to these folks and they want to preserve these programs? Because it turns out, this is how you would try to create an EV industry in the U.S. Or do they really just care about oil and gas and their concerns with supply chains, with mineral supply chains, are just kind of a tissue to cover up larger oil and gas concerns?<br/>
+<br/>
+<strong>Jennifer Granholm:</strong> I mean, obviously they’re very pro fossil fuels. We know that. But I will say all of the rhetoric has been about all of the above, an all of the above strategy. I mean everybody from Doug Burgum — I mean, all of these Republicans on the Energy Committee, they’ve all said that. So it just would be strange to turn your back on everything that you have said all of this time.<br/>
+<br/>
+	And I don’t even think, honestly, I can — This is what I would say: I think that the Trump administration, it seems, what do I know? I haven’t talked to them personally, but I, it seems from all I can, they want to reshore manufacturing. So if it’s not, if you eliminate the Inflation Reduction Act, you got to replace it with something that’s going to attract all of that investment. There has to be some industrial strategy. Otherwise you’re just ceding the territory to China, which is the thing you’re complaining about. So if you don’t like an incentive-based strategy, which is really what the Inflation Reduction Act is, I see he wants to put in a tariff-based strategy, if you just want to do all sticks. I’m not sure that’s good for the economy overall, but a blend of carrots and sticks, I’m sure most people would say are important. And so, you know, maybe you call it something else, but you got to get in a game, because otherwise our economic competitors are only too happy to see that happen. Can I tell you a quick story?
+	<br/>
+<br/>
+<strong>Meyer: </strong>Yes, we have a little bit of time. This is what this is for.<br/>
+<br/>
+<strong>Granholm:</strong> So when I was finished being governor, I went to China to see what China was doing in this clean energy space, because they were cornering the market on a lot of these technologies, solar in particular. At the time, I went with Securing America’s Future Energy, an organization that is focused on competitiveness in this clean space. And we went to a presentation by a bunch of mayors in China, mayors of provinces. And as we were standing there watching the presentation, one of the mayors stands next to me, and he says, “So when do you think the United States is going to get a national clean energy strategy?” And I said, “Oh, I don’t know … Congress …” And he looks at me, and he gets a big grin on his face, and he says, “Take your time.”<br/>
+<br/>
+	Because of course, they see our passivity as their opportunity, right? So this is why what we’ve done, what these laws have done, what the president has done, is so amazing. So I get that you may have to put a different spin on whatever the new administration wants to do, but ultimately, you have to have policies like these if we’re going to be successful in reshoring manufacturing.
+</blockquote><p>
+You can find a full transcript of the episode 
+	<a href="https://heatmap.news/podcast/shift-key-s2-e18-jennifer-granholm-transcript">here</a>.
+</p><div class="horizontal-rule">
+</div><p>
+	This episode of Shift Key is sponsored by …
+</p><p>
+<strong>Watershed</strong>’s climate data engine helps companies measure and reduce their emissions, turning the data they already have into an audit-ready carbon footprint backed by the latest climate science. Get the sustainability data you need in weeks, not months. Learn more at <a href="https://watershed.com/" target="_blank">watershed.com</a>.
+</p><p>
+	As a global leader in PV and ESS solutions, 
+	<strong>Sungrow</strong> invests heavily in research and development, constantly pushing the boundaries of solar and battery inverter technology. Discover why Sungrow is the essential component of the clean energy transition by visiting <a href="https://en.sungrowpower.com/" rel="noopener noreferrer" target="_blank">sungrowpower.com</a>.
+</p><p>
+	Music for Shift Key is by Adam Kromelow.
+</p> 
+
+<br> 
+
+<https://heatmap.news/podcast/shift-key-s2-e18-jennifer-granholm>
+
+---
+
+## Energy Secretary Jennifer Granholm on What Comes After Biden’s Climate Agenda: Transcript
+
+date: 2024-12-18, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTM2MTMwMi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4Njk1MjY0N30.qivNO4J2XFnd7MpqDMYMgd_L2Y5TdM0F8lauXc_F3gU/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><strong>Robinson Meyer: </strong>Secretary Granholm, welcome to Shift Key.</p><p><strong>Jennifer Granholm: </strong>Thank you. Glad to be on.</p><p><strong>Meyer:</strong> So let’s start here. Can you just start by setting the scene for us for what the Department of Energy has done over the past few years, and what it has become? Because as I think about it, and as we think about Trump again, I remember back in 2017 when, I believe your direct predecessor, Secretary Perry, took over the office, and he was very excited to talk about energy and to talk about fossil fuels and to evangelize oil and gas. And then he had to learn that at the time, DOE was really more of a national-labs-and-nuclear-weapons type of agency. I feel like that’s less true today. So can you just set the scene for us on how far we’ve come?</p><p><strong>Granholm: </strong>I mean, I can talk about the department, yeah. But I’d love to also, at some point, talk about the outcomes. </p><p><strong>Meyer: </strong>Let’s talk about outcomes first, and then let’s talk about the department. </p><p><strong>Granholm: </strong>Great, great. So just at a level, I hope — I know your listeners are savvy in this space, but just to put it in perspective: It is astonishing what the Inflation Reduction Act and the Bipartisan Infrastructure Law have been able to do to build out clean energy in the United States. It is mind-blowing. If you had told me — I’m a former governor of Michigan, and when I was governor, we saw all these jobs leave, all this manufacturing gone. It was just — and the federal government just sat on its hands and did nothing, although when the Obama-Biden administration came in, they saved the auto industry. But every supply chain, every — and they were all going to Mexico, or China, or whatever. </p><p>And so the hollowing out of much of the middle class and the manufacturing, and I think this is one of the things that Trump really picked up on. But across the nation, in industrial communities, small towns that had a factory that left … So the Inflation Reduction Act and the Bipartisan Infrastructure Law have caused now, as of today — and this is so far, since the Inflation Reduction Act was only passed a couple years ago — over 950 factories to come to America or expand in America, building these products for this clean energy transition. That is just mind-blowing to me. And those announcements are announcements. Then there’s the groundbreakings, and then there’s the ribbon cuttings. And so there’s been some groundbreakings and some ribbon cuttings, but all of those are going to bear fruit over the next few years.</p><p><strong>Meyer: </strong>So during the Trump administration.</p><p><strong>Granholm: </strong>Exactly. And that’s, I mean, regardless of who’s in the White House, this is really great for America, that we have, now, industrial strategy that has reversed that track, that tide. So that’s, in terms of outcomes, that is a huge outcome. </p><p>The second outcome that I think is really important is how much clean generation that has happened. So this year, we will add 60 gigawatts of clean electricity to the grid. That is more than double what we have ever done — 30 Hoover Dams’ worth, is what I like for everyday folks to understand the magnitude of what we are adding. And that trajectory is going to continue as long as those incentives are in place, and it’s going to be higher next year and next year. And so the goal that the President came in with, with 100% clean electricity on the grid by 2035, and to get to net zero by 2050, by 2030 we will have — just because of these two laws, the Bipartisan Infrastructure Law and the Inflation Reduction Act — we will have 80% clean electricity on the grid by 2030, and we will have reduced GHG emissions by 40%. Now that doesn’t speak to … the reduction in GHG doesn’t even speak to what the cities and states and private sector is doing. So we’re hopeful that we can get to the half, 50% reduction by 2030.</p><p><strong>Meyer:</strong> Do you think those trends will continue through and despite Trump? </p><p><strong>Granholm: </strong>Yeah, this is the question of the hour. Here’s — </p><p><strong>Meyer: </strong>And we can get more into this later, I just wanted to stress test that.</p><p><strong>Granholm: </strong>I’ll just say, I have hope that this will continue, and I don’t think it’s irrational exuberance because of the fact that those 950 factories, 85% are in red counties, red districts. And because, you know, governors and members of Congress and, you know, President-elect Trump will be able to oversee the fruition of people hiring, steel going in the ground in these factories, it really would be political malpractice to undo those incentives when it’s creating everything that both parties have asked for, which is to reshore supply chains, critical minerals for electric vehicles and other products. It’s just, it’s doing the thing that America should do. </p><p>And so I am, I’m hopeful because of that, and I’m hopeful because of the technologies that there’s bipartisan support for. So we know there’s bipartisan support for nuclear, for example. We know there’s bipartisan support for geothermal. We know there’s bipartisan support for hydroelectric power. We know there’s bipartisan support for getting critical minerals reshored, or at least the extraction and responsible extraction and processing of them. So there’s a lot of areas that I think there’s bipartisan support for, and therefore it will be difficult for Congress to overturn or yank back from the Inflation Reduction Act.</p><p><strong>Meyer:</strong> Let’s talk about the office. In addition to accomplishing those things — I remember in 2021, looking at the changes that were being made the Department of Energy, some of the changes that were in the Bipartisan Infrastructure Law, and thinking, <em><em>DOE is going to be a totally different agency by the end of this term, or even just in a few years, than it was a few years ago</em></em>. Can you talk about how the office has changed under your leadership? </p><p><strong>Granholm:</strong> This is one of the reasons we’ve been able to achieve those outcomes, is because we restructured the department. We still have our national security mission, of course, and that’s very important. And we still have the mission to clean up the legacy waste sites from the Manhattan Project, as well. But we have completely restructured to deploy, deploy, deploy. </p><p>We still have the labs, of course, doing all of the work that leads up to deploying on the technologies that really are significant, and those missions still occur. But we were given over $100 billion through these acts, 60 new programs to restructure and focus the Department of Energy on this clean energy transition, and that has utterly changed — we’ve hired almost 1,000 people to be able to do that. We’ve created a whole new vertical, a whole new Under Secretary for Infrastructure, which is all about the infrastructure of this clean energy economy. So that change, I think, has been significant. </p><p>We hired a bunch of people from the private sector to come in to understand how technology — we don’t want to take a risk. For example, through the Loan Programs Office, which I know you’re well familiar with. You know Jigar Shah, who runs that, he doesn’t take a risk, they don’t take a risk on the technology working. You know, the physics are going to work, the chemistry is going to work. The niche that they provide is great technology, do they have a business plan that is going to ensure that they’re successful in the market? So we’ve hired a number of people from the private sector to be the Sherpas on that and make it work. And the results have been really quite astounding. </p><p><strong>Meyer:</strong> It’s really become more of an industrial policy department, in some ways, which is something that a lot of other countries have. In fact, it’s something that most developed countries have, or many of them have. Japan has one. Germany has one. But it’s something the U.S. has historically not necessarily pursued in a civilian agency. At least we have, we do DoD industrial policy forever. </p><p><strong>Granholm:</strong> Yes, this is what’s so incredibly great about this. You know, again, I say this with my hat as former governor of Michigan: When we used to, you know, we were competing as states. States had their own economic development agencies, but we didn’t have a federal partner on any of it. It was like bringing a knife to a gunfight, and we would see, you know, we can’t compete with the industrial policy of China as a state, right? So the fact that we now have a federal strategy that enables states to enhance, but that there is a federal decision that we are going to get in the game. We’re not going to be passive and allow other countries to eat us for lunch.</p><p><strong>Meyer:</strong> So how do we think that … how do you think that these programs will fare under the next president?</p><p><strong>Granholm:</strong> Well, I do think because — I think they are durable, first of all, because one, we’re going to commit a huge amount of the money we were given — 98% of the programs we were given, 60 new programs under the Bipartisan Infrastructure Law and the Inflation Reduction Act. We will have at least on one round of funding, 98% of them, and we will have gotten commitments for all of these selections by January 20. So there may be a couple that we’re not able to do because they’re multi-year programs, etc., but we want that commitment. So that creates one layer of durability. </p><p>And of course, the second layer of durability is that they, these programs, are all going to stuff that Republicans have been calling for, too. So for example, there’s been a lot of curious complaints about the EV strategy of the administration because, it is said, all of the critical minerals, and China produces the batteries and the critical minerals. And that’s true. China has — but that’s why this strategy is reversing that trend. You know, China’s cornered the market on batteries, and now we’re make … I mean, of the 950 companies that I talked about, over 400 of them are batteries or electric vehicle companies that we’re building in the United States, you know, the anode, the cathode, the separator material, the electrolyte, the critical minerals, the processing of those minerals. That’s all coming back.</p><p><strong>Meyer:</strong> Well, and there is something … So have you talked to Doug Burgum or Chris Wright? Yeah. </p><p><strong>Granholm:</strong> Well, I hope I get a chance to talk to Chris Wright. I’ve definitely talked to Doug Burgum in my role, and in his role as governor. And he’s been an all-of-the-above guy.</p><p><strong>Meyer:</strong> I think it’s interesting because one of the big questions I have going into the Trump administration — in addition, I should say, that there’s like, two buckets of questions, right? There’s the, as you were saying, there’s a lot of durability, if you were to look at conventional ways of assessing durability, in the department’s programs, right? A lot of these programs are bipartisan. </p><p>Something we saw during the Trump administration was that the Office of Management and Budget from the White House would publish these extremely drastic budget cuts when they proposed a budget to Congress, and there’d be all these news stories about how they wanted to cut the EPA budget by half, and they wanted to cut the DOE budget, and they wanted to cut NASA’s budget. And all these news stories would come out, and then six months later, the Republican majorities in Congress would pass a budget, and it would lightly top off all of the budgets, and all the funding would go up, because it turns out the government largely does things that Congress wants it to do, and there’s a lot of support in Congress. </p><p>That being said, it also seems like this administration is going to test the limits of impoundment and what the president might be able to stop. But once you put aside that bucket, when you hear Doug Burgum talk about what his complaints with the Biden administration’s policies are, many of them are not grounded in factual inaccuracy. I would say they’re … for instance, the big point he made during the Republican primary debate was about, if we switch to EVs, we’re going to make China more important. We’re switching from OPEC to Sinopec, is, I think, his line. That is exactly what the suite of policies that have been advanced in this bill are supposed to do. </p><p>And so one big question I have is like, are we going to learn in the next few years whether these are actual concerns to these folks and they want to preserve these programs? Because it turns out, this is how you would try to create an EV industry in the U.S. Or do they really just care about oil and gas and their concerns with supply chains, with mineral supply chains, are just kind of a tissue to cover up larger oil and gas concerns? </p><p><strong>Granholm:</strong> I mean, obviously they’re very pro fossil fuels. We know that. But I will say all of the rhetoric has been about all of the above, an all of the above strategy. I mean everybody from Doug Burgum — I mean, all of these Republicans on the Energy Committee, they’ve all said that. So it just would be strange to turn your back on everything that you have said all of this time. </p><p>And I don’t even think, honestly, I can — This is what I would say: I think that the Trump administration, it seems, what do I know? I haven’t talked to them personally, but I, it seems from all I can, they want to reshore manufacturing. So if it’s not, if you eliminate the Inflation Reduction Act, you got to replace it with something that’s going to attract all of that investment. There has to be some industrial strategy. Otherwise you’re just ceding the territory to China, which is the thing you’re complaining about. So if you don’t like an incentive-based strategy, which is really what the Inflation Reduction Act is, I see he wants to put in a tariff-based strategy, if you just want to do all sticks. I’m not sure that’s good for the economy overall, but a blend of carrots and sticks, I’m sure most people would say are important. And so, you know, maybe you call it something else, but you got to get in a game, because otherwise our economic competitors are only too happy to see that happen. Can I tell you a quick story?</p><p><strong>Meyer: </strong>Yes, we have a little bit of time. This is what this is for.</p><p><strong>Granholm:</strong> So when I was finished being governor, I went to China to see what China was doing in this clean energy space, because they were cornering the market on a lot of these technologies, solar in particular. At the time, I went with Securing America’s Future Energy, an organization that is focused on competitiveness in this clean space. And we went to a presentation by a bunch of mayors in China, mayors of provinces. And as we were standing there watching the presentation, one of the mayors stands next to me, and he says, “So when do you think the United States is going to get a national clean energy strategy?” And I said, “Oh, I don’t know … Congress …” And he looks at me, and he gets a big grin on his face, and he says, “Take your time.”</p><p>Because of course, they see our passivity as their opportunity, right? So this is why what we’ve done, what these laws have done, what the president has done, is so amazing. So I get that you may have to put a different spin on whatever the new administration wants to do, but ultimately, you have to have policies like these if we’re going to be successful in reshoring manufacturing. </p><p><strong>Meyer:</strong> What do you think is the trajectory — you mentioned 60 gigawatts of clean generation coming online. What do you think is the trajectory of clean energy under Trump?</p><p><strong>Granholm:</strong> Well it, you know, if the Inflation Reduction Act holds, those incentives don’t go away. The developers are going to take advantage of it. I think it is inexorable that you will see continued climb of clean energy generation. I, you know, I know there’s a lot of talk about drill, baby, drill, etc. I mean, they have been drilling, baby, drilling. There hasn’t been limits on that. They may want to open up more auctions and more leases, but the private sector has to be willing to actually put the capital investment into going into those spaces. And the market is a global market, and they’re going to respond to what is happening globally. So I think clean energy … I believe strongly that if the Inflation Reduction Act stays, the clean energy investments will continue to go on that upward trajectory in a way that is astounding.</p><p><strong>Meyer:</strong> Let’s talk about fossil fuels for a minute. As of when we’re recording this, the LNG study is not yet out. Can you give us a sense of what we might hear when that study comes out, and what the department has aimed to do with it.</p><p><strong>Granholm:</strong> Well, I’ll just say this. I’m going to wait for the study to come out to speak to what its conclusions are, but know that for everybody listening, we were looking at what the greenhouse gas impacts are of all of the additional authorization that has been, and the current authorization that has already been approved for export. We have, we’re looking at what the impacts are from local communities who bear both the economic, the jobs, as well as the adverse impacts to that. We’re looking at what the global trajectory is of demand, and what our allies might be needing in terms of liquefied natural gas. And importantly, we’re looking at the impacts back home on the costs of natural gas. We, you know, if we are producing little over 100 bcf a day of natural gas, and you take a good chunk of that and export it, what does that do to the prices at home for those who use it? And so we’re looking at the costs at home. </p><p>So the study will come out soon. There will be a 60-day comment period, so it will run into the next administration, obviously, but I think it’s important to lay out what the study finds. Just the facts. These are, this is done by our labs. These are just facts. And I think it’s important for those commenters to comment on it so we have it for the record, and potentially a future administration could make policy based upon what the study reveals. </p><p><strong>Meyer:</strong> LNG has been such a big hot-button issue in this administration, and to some degree it has dominated some of the discourse around these questions. Have you been surprised by the degree to which it’s dominated discourse, or surprised by the degree of the backlash? </p><p><strong>Granholm: </strong>Yeah, a bit, because of the amount that we have already authorized for export. I mean, the pause on additional authorizations does not impact in any way, shape, or form the amount of exports we are doing. We have already built up and are exporting … we’re the largest exporter in the world, 13 bcf, you know, billion cubic feet per day. We are a powerhouse in exporting LNG, and we’ve authorized a whole bunch more that is either under construction or seeking final investment decisions, etc. </p><p>The amount we have approved is massive. And this is … this study was a pause on <em><em>even more</em></em>, you know. So we’ve approved an amount that is almost equivalent to what the U.S. the demand will be, you know. So it doesn’t affect any of that. We didn’t pause any exports at all. So have I been surprised? Yes, because of — But I understand politically that some things aren’t necessarily based on the actual facts. But people are afraid, maybe, that there will, that portends some callback in existing authorizations or something, which it does not.</p><p><strong>Meyer:</strong> So often when you go back, and I’ve been going back in and looking at the climate policy and energy policy from the administration, and what the coverage of it has been at the time. And what’s been striking — and I remember observing this when I was covering these issues, but it has been really striking to go back and see it in retrospect — is that the Biden administration was doing a lot at the same time, right? It was trying to stabilize the fossil fuel industry coming out of the Ukraine energy crisis. It was trying to help clean energy. It was trying to reduce emissions. But there’d be this pattern of, the Biden administration would pass the IRA, and a lot of the coverage on the IRA focused on the fossil fuel leasing provisions in the IRA, to the degree that I was like,<em><em> did they read the law?</em></em> You know, are they aware of what the policies are in this law? And then Biden would approve the Willow Project, or there’d be the fight over the LNG, and that would dominate attention. That would get a lot of coverage, and it would drive a lot of attention from climate activists, too.</p><p>Did what Biden was trying to do during this administration break through? Did what this administration was trying to do, did it break through with the people who needed to hear it? Meaning on the renewable side, on both sides, on the climate side and the fossil fuel side. </p><p><strong>Granholm: </strong>I would say no, it definitely didn’t break through. But that’s more of a comment about our media environment, right? I mean, for media, with all due respect …</p><p><strong>Meyer:</strong> This is an interesting question. Yeah, I mean, it ties into, like, what can the government do in terms of policy? How much do people notice what’s happening in terms of policy? </p><p><strong>Granholm:</strong> I mean, unless there’s a massive controversy, people are looking at, you know, TikTok and Instagram, and so the things that get the big, you know, generate the most clicks are the ones that have some backlash, right? So those are the things that people notice. Do they notice the good news? No. Do people know, they have any idea about the amount of factories that are coming to America, or expanding in America? No clue. No clue. So that’s a question about, how do you do that? How do you get the word out? I’ve been across the country and almost every state you know, trumpeting this, but it still doesn’t rise to the level of consciousness. </p><p>And maybe it’s because people aren’t so interested in it, but I think that people want to see — I mean, the economy was the number one issue, and if you’ve got a factory coming to your area, that should be a positive, positive thing. But people don’t attribute it necessarily to the Biden administration. Is that a failure on our part of not yelling loud enough, etc.? Or is it a failure of the atomized media that we have? It’s just it’s hard to know going forward.</p><p><strong>Meyer:</strong> Well, I think if it is a failure of the atomized media, it is a rather ominous sign for politics that tries to build things in the future. You’re the governor — you were the governor of a state that had ties to the fossil fuel industry, not in that it was extracting fossil fuels, but in that the main export, it uses them, right? What do you think Democrats should understand about the fossil fuel industry? And like, not only Democrats in government, but rank and file Democrats? </p><p><strong>Granholm:</strong> Well I think, first of all, I think it’s important to understand the word transition. You know that we are in a transition from a molecule-based fuel system to an electron-based fuel system, to electrify. And that electrification, obviously, is so much more healthy for the planet, and it creates huge job opportunities. But the transition period, you know, we have 26 years between now and 2050, when we need to get to net zero — and notice it says ‘net zero.’ The fossil fuel industry is going to continue to exist. The net means that we have to find the technologies that reduce, obviously, greenhouse gas emissions from that fossil fuel industry. </p><p>People, also Democrats, understand, if they live in one of these states, that the fossil fuel industry provides a huge number of jobs, good paying jobs, and so you can’t just come along and say, get rid of all of that, because you’re talking about people and people’s economies and communities and towns. So it, there has to be a vision of build, build, build on the clean, and that market will expand, so that you can have a reduction on the fossil side. But I don’t think that we’re going to be fully rid of all fossil because I, and I think the technology will allow for us to clean up the fossil fuel side of things.</p><p><strong>Meyer:</strong> Do you think that the voters, that rank and file Democrats — even beyond Democrats, just the type of voters the Democrats want to talk to — do you think they see this link between fossil fuels and their livelihoods and their economies? A link that Republicans are very eager to point to, but that I think Democrats sometimes avoid. Do you think that people see fossil fuels and associate their economic well-being with it?</p><p><strong>Granholm:</strong> No, I don’t think they ,,, unless they live in one of those communities, right? I don’t think they necessarily link … I think people are really interested in reliable power, yeah, and they’re interested in how much that reliable power costs. That’s, for most people, they’re not looking, when they flip on the light switch, is it something that’s coming from natural gas-powered? Or is it something that’s coming from solar? People like the idea — and I can say this as a former governor, communities love the idea of creating jobs that are future-facing, that their kids will stay for. And the next generation, the Gen Y, Gen Z, they’re, you know, they don’t want to work in an industry that is polluting the planet. Many of them, I mean, some of them — of course, I don’t want to generalize. But for the most part, communities embrace these industries of the future. And so I think that is something that people listen to, and they understand that this transition is happening, and it is not just like flipping a light switch, that there has to be a glide path so that the communities that have powered us for the past 100 years can be part of powering us for the next 100 years, but using clean. But that transition period has to be one where you are sensitive to the fact that these many rural places feel very threatened.</p><p><strong>Meyer:</strong> Democrats did a lot to help the fossil fuel industry during this administration, to stabilize it — after the pandemic, to stabilize it, after Ukraine, there was a Defense Production Act in the beginning to help the fracking industry. There was the use of the Strategic Petroleum Reserve to stabilize gas prices and oil prices. After Ukraine, the response they got from the fossil fuel industry was nothing but vitriol, nothing but, <em><em>Biden doesn’t want us to drill. We hate the tone coming out of this administration. We’re not happy with this at all.</em></em> Did Democrats do too much for the industry? Should they not have done what they did? </p><p><strong>Granholm:</strong> Well, I don’t think Democrats … I don’t think we did it for the industry. We did it for the people. So for example, on the Strategic Petroleum Reserve, you know, gas prices were bumping up to $5 a gallon because of the dearth of supply globally as a result of Russia’s fuel not being on the market. So we wanted to make sure that people in the United States and around the world, but people in the United States in particular, weren’t paying for Putin’s war, and so releasing more supply obviously brought that down. I mean, today we’re $2 under what it was during that height. So it worked. And we have replenished the Strategic Petroleum Reserve at a price that was much more favorable to taxpayers. So it wasn’t, that wasn’t about saving the industry. That was about saving people’s pocketbooks. </p><p>We did help our allies on liquified natural gas exports, and they were reeling as a result, a couple of years ago, as you know, as a result of the war and Putin weaponizing natural gas. So that had an impact on the industry. It helped the industry. But our the strategy really is what’s going to help people here in the United States.</p><p><strong>Meyer:</strong> There’s two different attitudes toward the fossil fuel industry, as — I’m going to generalize a little bit, but when I look at climate folks, folks who work in this professionally, who think about these issues day to day, whether they’re activists or engineers, I think people’s attitudes break down into two camps. And one of those camps is that the fossil fuel industry is a big enemy. They’re a big enemy of the transition. They’re going to fight the transition at all costs. They’re going to do everything they can to preserve fossil fuels. And just look at their support of Donald Trump, right? What they want from the Trump administration is shoring up demand because they want to lock people into fossil fuels. </p><p>And there’s another point of view that says, <em><em>Well, you know, it’s not great, but the obstacles to the transition are more along the lines of technology development and deployment. And the fossil fuel industry, in the meantime, actually does provide a lot of energy for people, and you can’t ignore that.</em></em> Where do you come down between those two camps? </p><p><strong>Granholm:</strong> Well, I definitely think that industries tend to preserve their self-interest, right? And so the fossil fuel industry is all about fossil fuels. And so if they view another type of energy, cleaner energy, as a challenge, then they’re going to do everything, which — I mean, that has proven throughout history to have been the case. </p><p>I will say there are a couple of actors, several of the majors, who maybe have a little more of the luxury of being able to do investments in technologies that allow for a clean energy transition. That’s encouraging. I mean, when I … there’s a big oil and gas conference in Houston every year. And the first year I went, I was like, you guys, you should transition to be diversified energy companies, not just oil and gas. You guys have all of the resources. You’re the richest companies around. Why don’t you being … why aren’t you investing more in geothermal, for example, because you have the skill set. You’ve got, you use rigs, you go, you understand about extracting energy from beneath the surface. You’re experts in the subsurface. You got skill set. This began the big blowback. How dare you come and tell us what we should be doing? But it’s just realistic, and to be fair, some have, a lot have not.</p><p><strong>Meyer:</strong> Some that got into it have now backed off of it, too, is the other thing, too. Because they’re just, the business is so … like, even if some leaders in the company are like, well, electricity looks like the future, we should get into it, the profit pattern’s totally different. The margins are totally different. So they then wind up getting back out, because fossil fuels just can be very profitable.</p><p><strong>Granholm:</strong> This is why, to me, this transition, we have to almost overbuild on the renewable side, so that it is, so that it were, we just have so much momentum there. And the cost, when you overbuild, you’re scaling, your costs come down, and it becomes a game of cost, right? Our natural gas is so cheap, and so that’s why it’s a difficult thing.</p><p><strong>Meyer: </strong>Right. This is like, in some ways, the good and the bad, right? Is that we have all this cheap natural gas, which means we’ve had fairly cheap electricity, right? And that means we attract a lot of industry that is not going to Europe. For instance, China also has cheap electricity because they subsidize it. They burn a lot of coal at state subsidy. They do a lot of generation. I know it’s just a tricky … it is tricky. </p><p><strong>Granholm:</strong> The whole thing. It’s complicated. It’s not binary. I mean, really, we have to think about it: Where do we want to be in 2050? We want to be at net zero. How do we get there? How do we back into that? And I think the electricity grid side of things will come along very, very quickly. You know, it’s going to be difficult to decarbonize heavy industry, and we’re working on strategies to do that. You know, the building sector — really, really important to be able to address that. So, bottom line is, it’s complicated. </p><p><strong>Meyer:</strong> Clean energy and electricity, let’s move on. So I think, as recently as 18 months ago, the word on electricity demand, on electricity markets, and what was happening in electricity in the U.S. was, yes, these AI companies are going to come along. They’re building a lot of data centers, but they’re not going to slow down the transition. I think that might have changed a little bit, that consensus might have changed a little bit since then, or I think it’s a little less clear, let’s say. What’s your view?</p><p><strong>Granholm:</strong> I think first of all, we know the demand is going up, and data centers are a part of that. So is electrification of transportation. So are all these 900 factories coming on. So there are a number of reasons —</p><p><strong>Meyer:</strong> Right, AI remains a relatively small percentage …</p><p><strong>Granholm: </strong>— at the moment. But it’s, but there is no doubt that it’s a growing part of it. We have managed increases in demand in the past, and we will continue to do that going forward by adding all of this additional power, which is why, you know, we just need to continue to build generation. But what our conversations with the hyperscalers on these data centers — first of all, we believe that it’s really important to have these data centers, the AI data centers, in the United States, for national security reasons. We need to hold on to that. And if that’s true, and they build out these data centers, and they need another, whatever, 20 gigawatts of power for the data centers — bring your own power. BYOP. So bring your own clean power. Your shareholders and your commitments to clean energy, all of them have commitments like that. </p><p>So this is why you’re seeing these really interesting announcements coming from Google and Meta and Amazon, etc., partnering with geothermal companies like Sage and Fervo, partnering with small modular reactor companies like Kairos, are turning on power. So it’s, to me, very exciting that, not only that there may be, there’s an additive component to this. And there’s a willingness on the part of the data centers to actually pay a green premium for those, that addition, those additional electrons. </p><p><strong>Meyer:</strong> Do you hear that they are willing to … is the willingness to pay that green premium durable? Because I do hear concerns that basically, once Trump comes in, or in a year from now, these companies are going to want to keep building AI data centers. They’re going to be starved for power, and they’re just going to build natural gas because it’s not coal, and they need the energy.</p><p><strong>Granholm:</strong> I think that there will be some temptation to do that. And I think that while nuclear reactors, for example, are being built, they may rely, there may be some reliance on natural gas to be able to power — natural gas combined, perhaps with CCS, for example, carbon capture … </p><p><strong>Meyer: </strong>Yeah, Exxon just made this announcement. It’s going to try to get into that.</p><p><strong>Granholm:</strong> Yes, exactly. But these companies themselves have made commitments. I mean, Amazon’s commitment to clean has been part of their ethos. So they can’t just rely upon that. They have got to bring their own. </p><p>And let me just say one other thing, is that bringing their own and paying a green premium for that, they recognize the backlash of adding demand on a grid that is socialized across the rate base. They recognize, they do not want to have protests because people’s rates are going up because of this data center. And data centers, of course, they are fantastic for construction jobs, but they don’t employ a huge number of people. There are ripple effects, of course, in an industrial cluster, but they’re worried about the backlash — as they should be, and therefore bringing their own power and paying for it is a part of the strategy.</p><p><strong>Meyer:</strong> Thinking more broadly, the Biden administration came in, and you came in with an interest in fixing issues in the U.S. innovation and deployment chain, let’s say, and in the chain of innovations, or the chain of scientific research, as it goes from the lab and the national labs to eventually the marketplace. And one big criticism, including from one thing that Jigar talks about the Loan Programs Office is trying to do, is make sure that when we invent technologies here, they don’t get then exported abroad, sold abroad, and then made somewhere else and commercialized somewhere else. Today, in 2024, is that chain working? And what are the biggest problems with that chain as you see them? </p><p><strong>Granholm:</strong> Well, there’s so many, there’s so many opportunities for solving the biggest problem. So for example, we launched eight Earthshots to be able to reduce the price for this next-generation technologies like enhanced geothermal or floating offshore wind platforms or clean hydrogen. If we can reduce the cost of those technologies by 90% — and that’s what a lot of the labs are working on — that makes them irresistible. </p><p>And that’s, making these advanced technologies irresistible is part of the strategy. And that includes, you know, nuclear reactors. So we have a whole office of technology transitions led by Vanessa Chan, who came in from outside, and she has overseen all these liftoff reports for these clean technologies that have, really, industry benchmarks about where we should be and when we should be there. We feel really good about the trajectory of these technologies as a result of that work, and the work that’s being done by the labs. </p><p>There are a number of knotty problems, though, that are beyond those particular technologies. One of the knottiest problems, honestly — and I mean knotty, K-N-O-T-T-Y — is the grid getting the connection through. And I think that that is a problem that we’re working on, using AI to solve. But there needs to be a much greater emphasis on how to get the RTOs and the ISOs to get more power online.</p><p><strong>Meyer:</strong> What technology in the clean energy … actually, let me just ask one follow up, which is, do you think that those Earthshot programs will be sustained through the next administration?</p><p><strong>Granholm:</strong> I do because, I mean, if there’s a big support for hydrogen, for example. So how do we get the cost of hydrogen down? I think you can cherry pick, I suppose. But you know, carbon management is one of the Earthshots. So how do you reduce the cost of that so a lot of the technologies have support?</p><p><strong>Meyer:</strong> Thinking across the full spectrum, full portfolio of technologies that the DOE has supported or gotten engaged on in the past four years, what technology are you most excited about? </p><p><strong>Granholm:</strong> Well, I’m certainly super excited about the deployment of solar that has just been, just a rocket ship, which is very, very cool. I personally love, and would love to see a greater investment by the next — we would have done this if we had the opportunity to serve — I think, a greater investment in geothermal, enhanced geothermal. I think that has huge promise, to be able to do that. And I would also want to see a greater investment, a consistent investment in the grid. So we got, there’s $70 billion that is focused on the grid through these laws. And we were able to do spot efforts, to do reconductoring and get more power across existing lines, to do grid-enhancing technologies, to do undergrounding, all of that. But a consistent investment in the grid, kind of like what we have for the Highway Trust Fund. If we had a, we have a national grid, it’s, you know, the transmission and distribution miles, 7 million miles, and 75% of the grid is over 25 years old. We need a consistent investment for both to deal with these extreme weather events, cyber, and make, just making sure that we are upgrading the poles on which this electricity is carried.</p><p><strong>Meyer:</strong> It is so different, and it’s interesting compared to highways. Because highways, it is a form of transmit, right? I mean, yeah, we move energy around on the highways. Highways are this big national system. The highways are also publicly owned. The grid is not. Do you think that’s an issue? </p><p><strong>Granholm:</strong> Well, some of the grid, I mean, you know, it depends, right? I think that we just need to think about it differently. Electricity is just a fundamental human need, like transportation on a road, or even more importantly. So I just think we have to think differently about how we support the grid and this scattershot … and I know it’s, obviously it’s a federalism issue, as well. But we have a system like that for the roads, and we should take a look at that. There’s state roads, and the money goes to the states and they do it, and then there’s federal roads, you know, federal highways. I think we can borrow lessons, I’ll just say that, from what we have done with other infrastructure to support the grid.</p><p><strong>Meyer:</strong> Looking back, I think one of the big promises, one of the big claims that Biden made coming into office was that government was going to do big things again. It was going to intervene and help the economy in big, strategic, supply-and-demand-oriented ways, right? It was going to bring back factories. It was going to bring back jobs. It could, government could be a major force for good in people’s lives, and that this would not only be good for the country in a kind of broad way, but also help defeat Trumpism. </p><p>Obviously, Donald Trump is about to be president again. But I also think the Biden administration did go much further in its economic policy than maybe the Obama administration did outside of healthcare. What did you learn from this go around? What did you learn from this outing at trying to do economic and industrial policy at the federal level, and trying to do big things with the government’s power?</p><p><strong>Granholm:</strong> You know, when I was done being governor, I wrote a book about this. It’s called <em><em>The Governor’s Story</em></em>, where I was lamenting the fact that we didn’t have national strategy to be able to create jobs in our states. And the fact that the troika of laws — I would include the CHIPS and Science Act, as well — but there are three basic laws that are the basis for this table of industrial strategy, and that it has worked so well. </p><p>I feel like, you know, all of the folks who have in the past been total free market, “free market” players, government shouldn’t be involved, we shouldn’t be picking, “winners or losers,” or all of that, and allowing all these other countries to take our jobs. I think people have now seen this play out, the fact that you don’t have any hands on and other countries are playing. And I have, I have learned, and I hope others see that had, the government can play an enabling role for actually creating jobs in this country and making us competitive. Who knew policy actually works?</p><p><strong>Meyer:</strong> I hear that …</p><p><strong>Granholm: </strong>I hear a “but” coming.</p><p><strong>Meyer:</strong> Kamala Harris, still, though, did not win the presidential election. So I think, to some degree, the Biden administration has proved you can do these things, and that they elicit a response. I think, unfortunately, what it’s also demonstrated is that this might be somewhat disconnected from political outcomes. So what lesson do you learn from that?</p><p><strong>Granholm:</strong> I mean, yeah. Lesson A: It works, yeah. Lesson B: How do you, how do you communicate that in a way that people understand that it’s working? How do we, yeah, how does that happen? It’s that. It’s back to the question we started to talk about at the front end. I wish I was a great communications guru and I could tell you how to do it. It’s one of those things that you almost have to, because it was so soon, in the results-bearing part of this strategy, meaning that you haven’t, people haven’t been hired for all those factories yet because they’re still under construction, or they’re still being contracts. </p><p>I still feel like it’s not over yet. The story’s not over yet. In the immediate, yes, there was a communications gap because people didn’t believe it. And I think people are angry, and they don’t trust government to begin with. And so if you’re coming in as a candidate saying that your government’s bad and they don’t believe you, and I’m going to fight for you, that’s a more compelling message than, yeah, we we have all these factories that are just starting. You need to wait a few years, but it’s gonna happen, I swear. So how do we communicate that? You’re in the communications business — tell me.</p><p><strong>Meyer:</strong> Well, do you think it was a mistake to communicate so many of these changes, so many of these policies were communicated through manufacturing — I mean, it’s what we’re doing right now. Not many voters actually work in manufacturing. We have a largely services-dominated economy. Was that a mistake? </p><p><strong>Granholm:</strong> I’m sort of manufacturing-centric. </p><p><strong>Meyer: </strong>I was gonna say, in some ways, because of governor of Michigan, you have an anomalous … </p><p><strong>Granholm:</strong> Totally. This, yeah, it’s not, it’s not how everybody else sees it, for sure. And I totally, I totally hear you on this. So here’s, you know, here’s another data point, is that — or factor: Part of the Inflation Reduction Act and the Bipartisan Infrastructure Law was to give people the ability to weatherize their homes, to have rebates for appliances that made them pay less on their bills. The cool thing about this was that, is that 49 out of the 50 states have said, yes, I want that program, and they’re applying for the funding to make that happen. But it’s just happening now. </p><p><strong>Meyer:</strong> I was going to say, I remember looking at the timelines for this and being like, they’re not going to get that out by the election. </p><p><strong>Granholm:</strong> Yeah, I mean, it’s just, the four-year period of time is just such a speck on the timeline that’s necessary to actually see it to fruition. </p><p><strong>Meyer:</strong> What do Democrats need the government to do that it cannot do, or that it has not been able to do?</p><p><strong>Granholm:</strong> Besides communicating these, the successes, and making sure that we can move more quickly on …</p><p><strong>Meyer:</strong> Communicating, or, yeah, maybe it’s that these were great rebate programs, and also, the law passed in August 2022, and we’re just getting them out now, right? Like, it took two years to get through that whole process.</p><p><strong>Granholm:</strong> Yeah, and that is a, that’s an issue, I think, that government has to deal with. In general, when you have a new program, you’ve got — rightfully so — all of the oversight, and making sure. And then the states have — if you push something through to the states, this is the same thing with the NEVI program, the vehicle program went to the states. </p><p>We have oversight on the federal level. States have oversight on the state level. It’s a new program. So, for example, for electric vehicle chargers, the NEVI program was to get these chargers to the hardest spaces, the spaces where no private sector entity would go, where there was no electricity. So the contracts took a while to figure out, and how to get them, and the states had to figure out their own processes. So they’re starting, we have 24,000 coming online from the NEVI program. But again, they will come online over the next couple of years — years. So the slowness of the systems, that is an inherent challenge. </p><p>If you move too fast, though, then you end up making mistakes. You don’t want to see some wrongful spending. So it is, I mean, government takes, the government, wheels of government, eventually they’ll get it right. There’s a lot of oversight. You want to make sure there’s no waste, fraud, and abuse, but it may not happen on the convenient timelines of a four-year term. </p><p><strong>Meyer:</strong> I understand how, you go slow, and it avoids mistakes, and you get your one shot to do things, I will say, looking back, the times when the government has been able to pass policies that resulted in political wins — and specifically, when Democrats were able to expand the government’s powers in ways that result in political wins, to build things, do big things, they did them pretty fast. The 1930s, like, the New Deal was a program, right? Yeah, all the LBJ programs were relatively fast. </p><p><strong>Granholm:</strong> Yes, I totally agree. And in history, there was less concern about a lot of the stuff that, yeah, that there have been embedded processes. I mean, it’s, I think, immediately, of the DOGE efforts to try to reduce bureaucracy. And honestly, there is truth to that. There should be some reduction of the steps it takes to get something accomplished. And there needs to be sort of a value-stream mapping of the bureaucratic systems. This is true. </p><p>We need to speed up permitting. We know we need to do that. And you know, the friction, the litigation, the NIMBY issues, in addition to the the government’s internal processes, it’s just too much. So can there be streamlining to make things move more quickly? There can be, and I think that should be a focus, as well, for Democrats, not just Republicans. </p><p><strong>Meyer:</strong> After four years at the nerve center of decarbonization in the government, what do you think is the biggest obstacle to decarbonization, and to doing the energy transition?</p><p><strong>Granholm:</strong> I think right now, I mean, I would say the most immediate big obstacle is that we have 3.7 terawatts of clean energy waiting to get into the queue, to be, build out that generation from the transmission point of view. If I could tackle one thing, one thing quickly, it would be the interconnection queues.</p><p><strong>Meyer:</strong> Wow. And so you would be willing to pay, you would be willing to make other concessions to handle transmission?</p><p><strong>Granholm:</strong> I would be. And then the, I would, there’s one other thing I would say, is, I would want to invest much more in baseload power, baseload clean power. So bigger investment in geothermal, bigger investment in hydroelectric — even distributed hydroelectric, you know, making dams where they don’t already exist, stuff like that that really are … you know, I believe nuclear is a really important part of the clean energy future. And those nuclear reactors, small modular reactors, I think are really important. I’d continue to invest in them. I would also continue to invest in fusion.</p><p><strong>Meyer:</strong> There’s a big tradeoff that the administration has kept dealing with, I think, or that it has kept running up against during the past four years, and to some degree, is really inherent in the design of the Inflation Reduction Act, which is, when you decarbonize, when you seek to make this transition happen, do you optimize for deployment and commercialization, or do you optimize for reducing emissions? </p><p>I think the clearest version of this tradeoff is with the hydrogen tax credit, where there is a tradeoff between getting as many electrolyzers out there as possible, trying to build as much electrolyte electrolysis capacity on the grid as you can, versus making sure that those electrolyzers don’t indirectly increase emissions across the national economy. In that case, but even more broadly, how do you come down? If there’s a tradeoff between deployment and reducing emissions, where do you come down?</p><p><strong>Granholm:</strong> I don’t like the binary choice. I will say this: I’m very big on actual deployment, knowing that there will be continuous improvement on the technologies that are being deployed, including GHG emissions. I just think that people need to get used to, I mean, you know, when you put out a product for the first time, there’s always going to be things that you want to improve on, and because the overall goal is to reduce emissions, that’s got to be a primary thing of the product that is being put to market. So I think both have to happen, but the deployment is is utterly priority for me. Get it out, and then improve. </p><p><strong>Meyer:</strong> Do you think … are the technologies ready, at this point, to think about reducing emissions? Or do we just need to deploy a lot? </p><p><strong>Granholm:</strong> Well, if you’re talking about electrolyzers, we still have to get these hubs up and running. And this is another thing, waiting for guidance on the tax credit associated with hydrogen is, is a whole ‘nother thing. But, but the bottom line is, once they’re, I mean, the whole point about doing hubs, for example, in hydrogen, and using fuels that are either renewable or natural gas with carbon capture or nuclear — the bottom line is, we’ve got to get these hubs, are the places where we’re going to experiment about what works and what doesn’t work. We’ve got to get the products in the hands of those who are going to be using them so that we can learn from them. New technology requires deployment in order to learn, in order to improve.</p><p><strong>Meyer:</strong> Looking back on the IRA — and to some degree, this troika of laws, but really the IRA — what is your biggest regret about how they played out?</p><p><strong>Granholm:</strong> My biggest regret is that there wasn’t, we weren’t able to get consistent investment in the grid through the IRA.</p><p><strong>Meyer: </strong>From the, from the point of view of the law being designed …</p><p><strong>Granholm: </strong>Yeah, from the design of it. That could be something that that is worked on in the years to come.</p><p><strong>Meyer:</strong> What’s your biggest regret on implementation of the law? Speed, clearly,</p><p><strong>Granholm:</strong> Speed, yeah. Trying to get through all of the hoops that you need to get through to do it, right? Why was it so slow? Again, because of all of — let me just say, I’m super proud of the work that our team has done, and the fact that we will have 98% of the funding out from these rounds of funding. That is amazing. </p><p><strong>Meyer: </strong>I’m going to ask you what you’re proudest of.</p><p><strong>Granholm:</strong> But it is, I regret we weren’t given the opportunity to serve in a second term to make sure that we were able to carry this forward, and that people can see that the benefits of these laws actually create an industrial strategy that reshores manufacturing, and it generates clean electricity and creates opportunity for communities all across the country.</p><p><strong>Meyer:</strong> Ultimately, the IRA did a ton of industrial policy through the tax code, and then it did a ton of grants and loans through DOE. And I think there could be criticisms of the speed of DOE getting loans out, let’s say. </p><p>I mean, something I’ve heard from companies is like, look, LPO is — $400 billion of loan authority, they only got out $54 billion. That number might go up a little bit in the next few days. But I’ve also heard criticism that we tried to do all this stuff through the tax code, and it just took a long time to get that tax guidance out, and we were trying to jam a lot through a relatively small tax policy office. What would you change … if there were to be another attempt at industrial policy, be it on climate or anything else, right? Because we want to do … like, Democrats do want to have goals for other sectors of the economy. What would you change about that implementation, or that way of writing the law, to make sure that industrial policy is effective in the U.S. government as it exists?</p><p><strong>Granholm:</strong> It’s hard for me to sa,y this is a process that I would remove from the system, because it, we have so many technologies, so many agencies involved, and I think that there needs to be a comprehensive look at it. I do think that in a next iteration, incentivizing or removing waste streams from permitting has got to be a priority to get this stuff deployed. As I say, incentivizing investment in the grid has got to be a priority. Incentivizing investment, specifically, in baseload clean technologies.</p><p><strong>Meyer:</strong> How would you incentivize those things without just winding up in another slow process.</p><p><strong>Granholm:</strong> So tax code’s a little more efficient, yeah. So the tax code, I think, gets the private sector to sit up and take notice, and move, yeah. And so doing it through the tax code, as opposed to grants or loans, that happens, assuming that folks are but the guidance —</p><p><strong>Meyer: </strong>This time it did take long, a long time for the guidance to come.</p><p><strong>Granholm:</strong> Yeah, for some. I mean, for like, solar stuff that we’ve, you were used to, instead of being incentivized in the tax code, that all obviously went very quickly and will continue to move. But it’s just, it’s the startup of these things where we haven’t written guidance before, where it’s a technology that has subsets of supply chains, what’s involved that, you know, and you have a small office. So I’d invest in the office to be able to expand the ability to get these through a little more quickly. But I think that ultimately, even though it takes a little bit of time, it works, and it will work, and we will see the benefits of this over the next few years, and I hope people recognize the incredible courage that it took for Joe Biden to act, create industrial policy in America where we had not done it before.</p><p><strong>Meyer:</strong> What are you proudest of?</p><p><strong>Granholm:</strong> I’m proud to work for this administration, for this president. And I’m really proud of our team, that we have been able to do so much in so short of amount of time, with all new programs. It is an amazing, amazing thing to have been in this position at this time. I feel so utterly lucky, and I hope the next guy sees it for the jewel that it is.</p><p><strong>Meyer: </strong>I think you’re in this role for another 35, 36 days. </p><p><strong>Granholm: </strong>I think it’s like 26 working days.</p><p><strong>Meyer:</strong> After that, what sort of problems are you thinking of next? </p><p><strong>Granholm:</strong> Oh, I’m still thinking of all of these problems. I’ll still be active in this space in some way, shape, or form. </p><p><strong>Meyer:</strong> Is there a particular set of problems you’re eager to tackle?</p><p><strong>Granholm:</strong> I don’t know what’s going to … I have no idea what I’m going to be doing next, but it’s got to be in this basic work. In the clean space is where I will be. </p><p><strong>Meyer:</strong> So at the end of every episode, we ask — Jesse and I, my co-host, do an upshift or a downshift. You just pick one. And an upshift, you pick something from the news or something that you’ve encountered recently that either is making you feel more upbeat about the energy transition, or more downbeat about the energy transition, about our ability to make it happen, about its ability to, our ability to decarbonize the economy. And so to conclude, I wanted to ask you, do you have an upshift or a downshift to share with us?</p><p><strong>Granholm:</strong> My upshift is that I am optimistic about the durability of these programs that I think, regardless of who’s in the White House, it is inexorable, this clean energy transition — because, because the Inflation Reduction Act has made investing in America irresistible, because there’s bipartisan support, and because of all of the mayors and the governors and the members of the, members of the private sector who have raised their hand and said, We got this. We’re taking the baton.</p><p><strong>Meyer:</strong> Secretary Granholm, thank you so much for joining us today. </p><p><strong>Granholm: </strong>I appreciate it. Thank you, Rob.</p> 
+
+<br> 
+
+<https://heatmap.news/podcast/shift-key-s2-e18-jennifer-granholm-transcript>
+
+---
+
+## Community members wrestle with grief in aftermath of Wisconsin school shooting
+
+date: 2024-12-18, from: VOA News USA
+
+MADISON, Wis. — Community members in Wisconsin continued to wrestle with grief and called for change in the aftermath of a school shooting that killed a teacher and a student and wounded six others. 
+
+
+Several hundred people gathered outside the Wisconsin State Capitol for a vigil Tuesday night to honor those slain at Abundant Life Christian School in Madison the day before, with some passing candles to each other and standing close against the winter chill. 
+
+
+Among those in attendance was Naomi Allen, 16, who was in a nearby classroom Monday when a 15-year-old girl attacked people in a study hall before fatally shooting herself. 
+
+
+“It’s doesn’t matter who you are or where you are, something like this could happen. There’s nothing that is going to exempt someone,” Allen said at the vigil. 
+
+
+Allen's father, Jay Allen, reflected on the dangers students face these days. 
+
+
+“When I was in school these things never happened,” he said. “This country at some point needs to take mental health seriously and we need to pour resources into it. We really need some changes in the way we handle that issue.” 
+
+
+The motive for the shooting appears to be a “combination of factors,” Madison Police Chief Shon Barnes said Tuesday as he appealed to the public to call in to a tip line and share what they might know about the shooter. 
+
+
+He offered no details about what that motive might be, though he said bullying at Abundant Life Christian School would be investigated. He also said police are investigating writings that may have been penned by the shooter, Natalie Rupnow, and could shed light on her actions. 
+
+
+“Identifying a motive is our top priority, but at this time it appears that the motive is a combination of factors,” Barnes told reporters. 
+
+
+Two students among the six people wounded Monday remain in critical condition. Officials have declined to disclose the names of the victims. 
+
+
+“Leave them alone,” Mayor Satya Rhodes-Conway said. 
+
+
+The school shooting was the latest among dozens across the U.S. in recent years, including especially deadly ones in Newtown, Connecticut; Parkland, Florida; and Uvalde, Texas. 
+
+
+The shootings have set off fervent debates about gun control and frayed the nerves of parents whose children are growing up accustomed to doing active shooter drills in their classrooms. But school shootings have done little to move the needle on national gun laws. 
+
+
+School shootings by teenage females have been extremely rare in U.S. history, with males in their teens and 20s carrying out the majority of them, said David Riedman, founder of the K-12 School Shooting Database. 
+
+
+Abundant Life is a nondenominational Christian school — prekindergarten through high school — with approximately 420 students. Barbara Wiers, the school's director of elementary and school relations, said the school does not have metal detectors but uses cameras and other security measures. 
+
+
+Barnes said police were talking with the shooter’s father and other family members, who were cooperating, and searching the shooter's home. 
+
+
+The shooter's parents, who are divorced, jointly shared custody of their child, but the shooter primarily lived with her 42-year-old father, according to court documents. 
+
+
+Investigators believe the shooter used a 9mm pistol, a law enforcement official told The Associated Press. The official spoke on the condition of anonymity because they were not authorized to discuss the ongoing investigation. 
+
+
+Madison resident Cristian Cuahutepitzi said he attended Tuesday's vigil to let the families of the victims know “we're thinking of them.” He said his uncle's two daughters go to the school. 
+
+
+“They're still a little bit shook,” he said. 
+
+
+Joe Gothard, the superintendent of the Madison Metropolitan School District, said at the vigil that the tragedy happened less than two blocks away from his childhood home. He said it wasn't enough to say the district would work on safety. 
+
+
+“We need to connect like we are tonight, each and every day and make a commitment that we know we’re there for one another, hopefully to avoid preventable tragedies like yesterday,” he said. 
+
+
+A prayer service was also held Tuesday night at City Church Madison, which is affiliated with the school. 
+
+
+Several teachers from the school prayed aloud one by one during the service, speaking into a microphone and standing in a line. One middle school teacher asked for courage, while another sought help quieting her own soul. 
+
+
+“God, this isn’t a Abundant Life Christian School tragedy," said Derrick Wright, the youth pastor at the church. "This is a community tragedy. This is a nation tragedy.” 
+
+<br> 
+
+<https://www.voanews.com/a/community-members-wrestle-with-grief-in-aftermath-of-wisconsin-school-shooting-/7905395.html>
+
+---
+
+## Return to Earth for 2 stuck NASA astronauts delayed until March
+
+date: 2024-12-18, from: VOA News USA
+
+CAPE CANAVERAL, florida — NASA's two stuck astronauts just got their space mission extended again. That means they won't be back on Earth until spring, 10 months after rocketing into orbit on Boeing's Starliner capsule. 
+
+
+NASA on Tuesday announced the latest delay in the homecoming for Butch Wilmore and Suni Williams. 
+
+
+The two test pilots planned on being away just a week or so when they blasted off June 5 on Boeing's first astronaut flight to the International Space Station. Their mission grew from eight days to eight months after NASA decided to send the company's problem-plagued Starliner capsule back empty in September. 
+
+
+Now the pair won't return until the end of March or even April because of a delay in launching their replacements, according to NASA. 
+
+
+A fresh crew needs to launch before Wilmore and Williams can return, and the next mission has been bumped more than a month, according to the space agency. 
+
+
+NASA's next crew of four was supposed to launch in February, followed by Wilmore's and Williams' return home by the end of that month alongside two other astronauts. But SpaceX needs more time to prepare the new capsule for liftoff. That launch is now scheduled for no earlier than late March. 
+
+
+NASA said it considered using a different SpaceX capsule to fly up the replacement crew in order to keep the flights on schedule. But it decided the best option was to wait for the new capsule to transport the next crew. 
+
+
+NASA prefers to have overlapping crews at the space station for a smoother transition, according to officials. 
+
+
+Most space station missions last six months, with a few reaching a full year. 
+
+<br> 
+
+<https://www.voanews.com/a/return-to-earth-for-2-stuck-nasa-astronauts-delayed-until-march-/7905291.html>
+
+---
+
+## Police look for motive in latest US school shooting
+
+date: 2024-12-18, from: VOA News USA
+
+Police in Madison, Wisconsin, said Tuesday that they were working to establish a motive for the shooting at a small, private Christian school that killed a teacher and a student and wounded six other people.
+
+
+"Identifying a motive is our top priority," Police Chief Shon Barnes said of the shooting Monday that he called a "hurting and haunting situation."
+
+
+Police were trying to verify a document posted online by the 15-year-old shooter, who apparently died of a self-inflicted wound. 
+
+
+Authorities said the shooter, Natalie Rupnow, was a student at the Abundant Life Christian School, which has an enrollment of just over 400 students from kindergarten to high school. She opened fire in a study hall late Monday morning.  
+
+
+"We don't know nearly enough yet," Mayor Satya Rhodes-Conway told reporters Tuesday about the shooting.  
+
+
+Rhodes-Conway also said it was too early to determine whether the shooter's parents, who were cooperating with the police investigation, would face criminal charges. 
+
+
+"We have to allow law enforcement the time and space for a careful and methodical examination," she said. 
+
+
+Barnes said Tuesday that several schools across the Madison metropolitan area "were targeted by false threats, often known as swatting." He said police and the school district were working together to determine who initiated the scheme. 
+
+
+The mayor lashed out at reporters' requests Tuesday for more information about the victims. 
+
+
+"I'm going to say this and then we're done," she said. "It is absolutely none of y'all's business who was harmed in this incident. Please have some human decency and respect for the people who have lost loved ones or were injured themselves or whose children were injured. Just have some human decency, folks." 
+
+
+Vice President Kamala Harris, speaking in Maryland, said, "Our nation mourns for those who were killed, and we pray for the recovery of those who were injured." 
+
+
+The vice president said stronger gun controls were needed.  
+
+
+"Solutions are in hand," she said, "but we need elected leaders to have the courage to step up and do the right thing." 
+
+
+President Joe Biden said in a statement Monday that the shooting was "shocking and unconscionable." 
+
+
+"Every child deserves to feel safe in their classroom," he said. "Students across our country should be learning how to read and write, not having to learn how to duck and cover." 
+
+
+Wisconsin Governor Tony Evers ordered flags to be flown at half-staff to honor the shooting victims.  
+
+
+Some information for this report came from The Associated Press. 
+
+<br> 
+
+<https://www.voanews.com/a/police-look-for-motive-in-latest-us-school-shooting/7905275.html>
+
+---
+
+## US Senate to vote on bill that fuels possibility of Chinese drone ban
+
+date: 2024-12-18, from: VOA News USA
+
+WASHINGTON  — The 2025 defense spending authorization bill is coming up to a final vote in the U.S. Senate. As the American Northeast buzzes with drone sightings and fears of foreign surveillance, the bill moves to ban products from the world's largest drone-maker: China.
+
+
+In a procedural vote on Monday, senators voted 83-12 in favor of moving to a full vote on the National Defense Authorization Act, a massive piece of annual legislation that sets priorities and authorizes funding for the U.S. Department of Defense.
+
+
+A provision within the 2025 NDAA aims to create mechanisms for further oversight and prohibition of the use of Chinese drones while working to increase drone supply chain resilience within the U.S. and partner countries.
+
+
+The bill mandates an investigation into two Chinese drone manufacturers, DJI and Autel Robotics, with the aim of placing them on the Federal Communications Commission's (FCC) "Covered List." This would prevent their use in telecommunications industries. Another section calls for the Department of Defense to regularly disassemble and analyze the components of DJI drones.
+
+
+The provision on drones draws in part from earlier anti-Chinese drone legislation introduced by Republican Representative Elise Stefanik and Senator Rick Scott. These bills received bipartisan support, showing how concerns over the risk that Chinese drones pose to U.S. national security have united a politically divided Congress.
+
+
+"DJI drones pose the national security threat of TikTok, but with wings," Stefanik said. “This Chinese-controlled company cannot be allowed to continue to operate in the U.S."
+
+
+During an interview on Fox News, Democratic Representative Raja Krishnamoorthi described how he collaborated with Stefanik to draft legislation on Chinese drones to be included in the NDAA.
+
+
+"These Chinese-manufactured drones allow for the CCP, the Chinese Communist Party, to access data in a backdoor manner and ultimately surveil Americans," Krishnamoorthi said.
+
+
+China's DJI dominates the production and sale of household drones, with 2021 estimates suggesting that the company accounts for 76% of the worldwide consumer market and about 90% of the U.S. market. While more companies have emerged in past years, DJI still controls the largest share of the market.
+
+
+This gives the U.S. an increased imperative to diversify the domestic drone economy, Carlos Gimenez, chairman of the House Homeland Security Committee's Transportation and Maritime Security Subcommittee, told VOA.
+
+
+"We have to go a little cold turkey on this one. To say, ‘No, we can't buy that anymore,’” Gimenez said. “You have to look for other suppliers, which then will slowly incentivize American companies to start building them.”
+
+
+While the Chinese drone ban has bipartisan support within Congress, it faces pushback from drone enthusiasts and nongovernmental organizations that oppose a blanket ban on Chinese drone products.
+
+
+Brandon Karr, spokesperson for the nonprofit Law Enforcement Drone Association (LEDA), supports the development of stricter and more rigorous data security regulations for drones rather than an all-out ban, which could pose problems for American law enforcement and safety agencies.
+
+
+Karr has written to Congress, advocating for agencies to develop their own protocol and oversight for drone data security and to maintain their right to use Chinese drones while minimizing their risk.
+
+
+LEDA leads training on drone operation and best practices for public safety and law enforcement. All 30 of the drones the group uses for training are made by Chinese companies.
+
+
+"Generally speaking, over 90% of public safety agencies in the nation and worldwide today are utilizing Chinese aircraft,” Karr said. “So in the event that a bill like this would go fully through and would potentially ban the use of Chinese drones for public safety, it'd be catastrophic for the public safety drone industry.”
+
+
+The biggest advantage of Chinese drones is their low cost, especially when compared with American models. Karr told VOA that he'd rather use American products, but that domestically produced drones were double the price of those made in China and included more maintenance fees.
+
+
+"There's not a law enforcement entity across the United States that would rather fly a Chinese aircraft over an American if they were competitively priced," he said.
+
+
+In addition to LEDA, the California Fire Chiefs Association, the Air Public Safety Association and other groups have written to Congress saying the bill will harm them, with most citing concerns over cost.
+
+
+In an interview with VOA in August, Republican Senator Marco Rubio called Chinese drones "a huge vulnerability," and said that data security regulations would not address the security risks of Chinese drones given their frequent software updates.
+
+
+People “just want drones, and these are the cheapest ones they can find," said Rubio, President-elect Donald Trump’s pick for secretary of state in the next administration. "We need to help incentivize the development of alternative manufacturers that are cost effective for law enforcement, for utility companies, for others.”
+
+
+DJI has not yet responded to VOA's request for comment on the latest version of the NDAA, which could ban the company's drones.
+
+
+However, when votes were taken to include a ban of DJI drones in the NDAA in the House of Representatives earlier this year, DJI representatives told VOA that the moves “suggest protectionism and undermine the principles of fair competition and an open market."
+
+
+"Our drones have enabled the growth of entire industries, empowering small businesses in sectors such as agriculture, real estate, and transportation. These businesses depend on the accessibility of DJI's drone technology to thrive. We believe that innovation, security, and privacy can coexist and are essential to advancing the drone industry and the interests of all stakeholders," wrote DJI representatives.
+
+
+DJI has consistently denied claims that it sends drone data to the Chinese government.
+
+
+Katherine Michaelson contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/us-senate-to-vote-on-bill-that-fuels-possibility-of-chinese-drone-ban-/7905266.html>
+
+---
+
+## US Congress lines up stopgap bill to avert partial government shutdown
+
+date: 2024-12-18, from: VOA News USA
+
+WASHINGTON  — Top Republicans and Democrats in the U.S. Congress unveiled a stopgap measure on Tuesday to keep federal agencies funded through March 14, which would avert a partial government shutdown that would otherwise begin Saturday. 
+
+
+The measure would likely keep the roughly $6.2 trillion federal budget running at its current level, funding such programs and activities as military operations, air traffic controllers, and federal regulators for areas ranging from drug safety to securities markets. 
+
+
+Rank-and-file members of Congress will now review the measure's details, with some hard-line Republicans in the House of Representatives already signaling opposition to some elements, meaning that some Democratic votes will likely be necessary for passage. 
+
+
+It was unclear when the Republican-controlled House would vote, but if successful, the Democratic-majority Senate would aim to take up the legislation before Friday's midnight deadline and send it to President Joe Biden to sign it into law. 
+
+
+The package includes $100.4 billion in new emergency funding to help states including North Carolina and Florida recover from devastating hurricanes, as well as Western wildfires and other recent disasters. 
+
+
+That money would include $29 billion for the Federal Emergency Management Agency's disaster relief fund; $21 billion for aid to farmers hit by flooding and other losses; and $10 billion in economic assistance for them, according to the legislative text. 
+
+
+State and local communities would receive $12 billion in block grants, and $8 billion would be earmarked for the Transportation Department's highway and road disaster relief. 
+
+
+Nearly $5.7 billion in new funding would go to the Pentagon's Virginia-class submarine building by General Dynamics Corp. and Huntington Ingalls Industries, and about $2.9 billion would go to the Columbia-class model. 
+
+
+The spending package would include more than $2 billion to help small businesses bounce back after natural disasters, and approximately $740 million to repair National Aeronautics and Space Administration facilities after recent hurricanes. 
+
+
+Also tucked into the legislation is a green light for year-round sales of gasoline with a higher ethanol blend, known as E15, and more than $13 million for security for U.S. Supreme Court justices at their residences. 
+
+
+Should lawmakers fail to act in time, federal agencies would enter a partial shutdown beginning Saturday. 
+
+
+House Speaker Mike Johnson leads a narrow and restive 219-211 Republican majority and has repeatedly over the past year had to rely on Democratic support to pass major legislation. 
+
+
+Representative Rosa DeLauro, the top Democrat on the House Appropriations Committee, said in a statement she supported the "responsible and necessary" spending package. 
+
+
+Rising debt 
+
+
+The stopgap measure is needed because Congress failed to pass its one dozen annual appropriations bills in time for the current fiscal year, which began October 1. The government's "mandatory" programs, which include Social Security and Medicare retirement and health care benefits and represent about two-thirds of the budget, renew automatically. 
+
+
+That has contributed to the rising federal debt, which exceeds $36 trillion. Congress will have to address that again early next year, when a 2023 deal to extend the nation's debt ceiling expires. Failure could shock bond markets with potentially severe economic consequences. 
+
+
+Democrats had pushed for a longer bill funding the government through the end of its current fiscal year ending September 30, but Republicans wanted to wait for final agreement until after President-elect Donald Trump is sworn in on January 20 and their party takes its majorities in both the Senate and the House of Representatives. 
+
+
+Trump and congressional Republicans campaigned all year on a promise of significantly cutting the number of federal workers and proposing deep cuts to many of the government's programs. 
+
+
+Trump has created an advisory committee called the Department of Government Efficiency, headed by Tesla founder Elon Musk, the world's richest person, and former presidential candidate and entrepreneur Vivek Ramaswamy. Neither has any government experience. 
+
+
+Riding along in this spending bill is a one-year extension of federal farm programs, including commodity subsidies and food and nutrition benefits for low-income people. Without such an extension, prices for milk, cheese and other dairy products would skyrocket after December 31. 
+
+<br> 
+
+<https://www.voanews.com/a/congress-nears-funding-deal-with-more-than-100-billion-in-disaster-aid-/7905246.html>
+
+---
+
+## In 2024, voters’ discontent with incumbents meant opting for change
+
+date: 2024-12-17, from: VOA News USA
+
+Ruling parties often have an advantage in elections. But in history's biggest election year so far, incumbents of all political stripes found that presiding over a period of economic inflation carries a heavy price at the ballot box. 
+
+<br> 
+
+<https://www.voanews.com/a/in-2024-voters-discontent-with-incumbents-meant-opting-for-change-/7904991.html>
+
+---
+
+## US lawmakers propose bills to hit China over fentanyl trade
+
+date: 2024-12-17, from: VOA News USA
+
+WASHINGTON — A bipartisan group of U.S. lawmakers on Tuesday proposed three bills aimed at cracking down on China's role in the U.S. fentanyl crisis, with measures that would set up a U.S. task force to disrupt narcotics trafficking and pave the way for sanctions on Chinese entities.
+
+
+China is the dominant source of chemical precursors used by Mexican cartels to produce fentanyl, while Chinese money launderers have become key players in the international drug trade, U.S. authorities say.
+
+
+The proposed legislation would help hold China's ruling Communist Party (CCP) accountable for "directly fueling the fentanyl crisis through its state subsidies of precursors," said the House of Representatives' Select Committee on China, on which all of the sponsors of the bills sit.
+
+
+One bill, The CCP Fentanyl Sanctions Act, introduced by Democratic Representative Jake Auchincloss, would codify authorities for the U.S. to cut off Chinese companies from the U.S. banking system, including vessels, ports and online marketplaces that "knowingly or recklessly" facilitate shipment of illicit synthetic narcotics.
+
+
+"This is state-sponsored poisoning of the American people," Auchincloss said at an event introducing the legislation. "The genesis of this is squarely on the mainland of the People's Republic of China."
+
+
+Two other bills would create a task force of U.S. agencies to conduct joint operations to disrupt trafficking networks and allow for the imposition of civil penalties on Chinese entities that fail to properly manifest or follow formal entry channels when shipping precursors to the U.S., the committee said.
+
+
+There is growing consensus in Republican circles close to President-elect Donald Trump that Beijing has exploited, even engineered, the synthetic opioid epidemic to harm Americans, something Beijing denies.
+
+
+China says it has some of the strictest drug laws in the world, and that the U.S. needs to curb narcotics demand at home.
+
+
+The Chinese Embassy in Washington did not immediately respond to a request for comment on the bills.
+
+
+With little time remaining in the current congressional term, the bills would likely need to be reintroduced next year after the new Congress is sworn in on January 3.
+
+
+Raja Krishnamoorthi, the top Democrat on the committee, wrote in an article this month that it was "time to get tough" on Beijing over fentanyl. 
+
+<br> 
+
+<https://www.voanews.com/a/us-lawmakers-propose-bills-to-hit-china-over-fentanyl-trade-/7904949.html>
+
+---
+
+## Trump sues Des Moines Register, pollster for 'election interference' after inaccurate poll
+
+date: 2024-12-17, from: VOA News USA
+
+President-elect Donald Trump sued the Des Moines Register and its pollster for "brazen election interference" in publishing a survey the weekend before the election that showed Democrat Kamala Harris with a surprising lead of 3 percentage points in the state.
+
+
+The Register's parent Gannett Co. on Tuesday dismissed the lawsuit as meritless and said it would vigorously defend its First Amendment rights.
+
+
+The lawsuit continues the president-elect's campaign against media outlets he feels have wronged him. ABC this past weekend agreed to pay $15 million toward a Trump presidential library in order to settle a defamation lawsuit against George Stephanopoulos for inaccurately saying Trump had been found civilly liable for rape.
+
+
+The Des Moines survey, done by since-retired pollster J. Ann Selzer, was considered shocking for indicating that an earlier Trump lead in the Republican-leaning Midwestern state had been erased. In the actual election, Trump won Iowa by more than 13 percentage points.
+
+
+"There was a perfectly good reason nobody saw this coming: because a three-point lead for Harris in deep-red Iowa was not reality," the lawsuit said. "It was election-interfering fiction."
+
+
+The poll increased enthusiasm among Democrats, compelled Republicans to divert campaign time and money to areas in which they were ahead, and deceived the public into thinking Democrats were doing better than they actually were, Trump charged.
+
+
+The lawsuit was filed late Monday in Polk County district court in Iowa. It cites Iowa consumer fraud law, and doesn't ask for specific monetary damages, but rather wants a trial jury to award triple the amount of what it determines actual damages to be.
+
+
+Whatever happens legally, the case could have a chilling effect beyond Iowa. Trump said in legal papers that he wanted it to deter "radicals from continuing to act with corrupt intent in releasing polls manufactured for the purpose of skewing election results in favor of Democrats."
+
+
+Lark-Marie Anton, Des Moines Register spokeswoman, said the newspaper acknowledged the pre-election poll did not reflect actual results and released technical information to explain the data and what went wrong.
+
+
+"We stand by our reporting on the matter and believe a lawsuit would be without merit," she said.
+
+
+Selzer did not immediately respond to a request for comment on Tuesday. But she told PBS in Iowa last week that "it's not my ethic" to set up a poll to deliver a specific response. She said she was mystified about what motivation people would think she had.
+
+
+"To suggest without a single shred of evidence that I was in cahoots with somebody, I was being paid by somebody, it's all just kind of, it's hard to pay too much attention to it except that they are accusing me of a crime," she said. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-sues-des-moines-register-pollster-for-election-interference-after-inaccurate-poll-/7904918.html>
+
+---
+
+## Archivist: Equal Rights Amendment can't be certified as Democrats push Biden to recognize it
+
+date: 2024-12-17, from: VOA News USA
+
+Washington — In a rare joint statement, the archivist and deputy archivist of the United States said Tuesday that the 1970s-era Equal Rights Amendment cannot be certified without further action by Congress or the courts, as Democrats press President Joe Biden to act unilaterally on its ratification before he leaves office next month.
+
+
+The five-decade push to amend the Constitution to prohibit discrimination based on sex remains stalled. Congress sent the amendment, which guarantees men and women equal rights under the law, to the states in 1972 and gave states seven years to ratify it, later extending the deadline to 1982. But the amendment wasn't ratified by the required three-quarters of states before the deadline.
+
+
+Four years ago, however, Virginia lawmakers voted to ratify the amendment, becoming the 38th and final state needed — albeit nearly four decades after the congressionally mandated deadline for ratification.
+
+
+More than 120 House Democrats, led by Representatives Cori Bush and Ayanna Pressley, called on Biden on Sunday to direct the archivist to certify and publish the amendment despite the missed deadline.
+
+
+"Solidifying your legacy on equal rights with a final action on the ERA would be a defining moment for the historic Biden-Harris administration and your presidency," they wrote to Biden.
+
+
+But the archivist, Colleen Shogan, and her deputy, William J. Bosanko, who are responsible for certifying and publishing new amendments once they meet the required ratification threshold, say neither they nor Biden can act without Congress or the courts lifting the deadline.
+
+
+"In 2020 and again in 2022, the Office of Legal Counsel of the U.S. Department of Justice affirmed that the ratification deadline established by Congress for the ERA is valid and enforceable," they said in a joint statement. "The OLC concluded that extending or removing the deadline requires new action by Congress or the courts. Court decisions at both the District and Circuit levels have affirmed that the ratification deadlines established by Congress for the ERA are valid."
+
+
+They added: "Therefore, the Archivist of the United States cannot legally publish the Equal Rights Amendment. As the leaders of the National Archives, we will abide by these legal precedents and support the constitutional framework in which we operate."
+
+
+Congress tried last year in the latest push to lift the deadline to allow for the amendment's ratification, but the measure didn't reach the required 60-vote threshold in the Senate.
+
+
+Sen. Kirsten Gillibrand, who is leading the effort among Democrats in the Senate, insisted in a statement that the archivist's analysis was flawed and said she was "wrongfully inserting herself into a clear constitutional process, despite the fact that her role is purely ministerial."
+
+
+She encouraged Biden to ignore the OLC memo and certify the ERA anyway. "OLC memos are advisory in nature and can easily be disregarded by the current administration," she said.
+
+
+The Biden White House has been discussing the possibility with lawmakers and in internal meetings, according to a person familiar with the matter, but believes the best path forward is for Congress to lift the deadline and thereby eliminate the risk of a legal challenge to the amendment.
+
+
+White House spokesperson Kelly Scully said: "President Biden has been clear that he wants to see the Equal Rights Amendment definitively enshrined in the Constitution."
+
+
+"Senior administration officials have and will continue to engage with key Congressional leaders and other stakeholders on this issue in the weeks ahead," she added. "It is long past time that we recognize the clear will of the American people." 
+
+<br> 
+
+<https://www.voanews.com/a/archivist-equal-rights-amendment-can-t-be-certified-as-democrats-push-biden-to-recognize-it-/7904905.html>
+
+---
+
+## Suspect in killing of US insurance CEO charged with murder as act of terrorism
+
+date: 2024-12-17, from: VOA News USA
+
+NEW YORK — The man accused of killing UnitedHealthcare's CEO has been charged with murder as an act of terrorism, prosecutors said Tuesday as they worked to bring him to a New York court from a Pennsylvania jail.
+
+
+Luigi Mangione already was charged with murder in the Dec. 4 killing of Brian Thompson, but the terror allegation is new.
+
+
+Under New York law, such a charge can be brought when an alleged crime is "intended to intimidate or coerce a civilian population, influence the policies of a unit of government by intimidation or coercion and affect the conduct of a unit of government by murder, assassination or kidnapping."
+
+
+Mangione's New York lawyer has not commented on the case.
+
+
+Thompson, 50, was shot dead as he walked to a Manhattan hotel where Minnesota-based UnitedHealthcare — the United States' biggest medical insurer — was holding an investor conference.
+
+
+"This was a frightening, well-planned, targeted murder that was intended to cause shock and attention and intimidation," Manhattan District Attorney Alvin Bragg said at a news conference Tuesday. "It occurred in one of the most bustling parts of our city, threatened the safety of local residents and tourists alike, commuters and businesspeople just starting out on their day."
+
+
+After days of intense police searches and publicity, Mangione was spotted at a McDonald's in Altoona, Pennsylvania, and arrested. New York police officials have said Mangione was carrying the gun used to kill Thompson, a passport and various fake IDs, including one that the suspected shooter presented to check into a New York hostel.
+
+
+The 26-year-old was charged with Pennsylvania gun and forgery offenses and locked up there without bail. His Pennsylvania lawyer has questioned the evidence for the forgery charge and the legal grounding for the gun charge. The attorney also has said Mangione would fight extradition to New York.
+
+
+Mangione has two court hearings scheduled for Thursday in Pennsylvania, including an extradition hearing, Bragg said.
+
+
+Hours after his arrest, the Manhattan district attorney's office filed paperwork charging him with murder and other offenses. The indictment builds on that paperwork.
+
+
+Investigators' working theory is that Mangione, an Ivy League computer science grad from a prominent Maryland family, was propelled by anger at the U.S. health care system. A law enforcement bulletin obtained by The Associated Press said that when arrested, he was carrying a handwritten letter that called health insurance companies "parasitic" and complained about corporate greed.
+
+
+Mangione repeatedly posted on social media about how spinal surgery last year had eased his chronic back pain, encouraging people with similar conditions to speak up for themselves if told they just had to live with it.
+
+
+In a Reddit post in late April, he advised someone with a back problem to seek additional opinions from surgeons and, if necessary, say the pain made it impossible to work.
+
+
+"We live in a capitalist society," Mangione wrote. "I've found that the medical industry responds to these key words far more urgently than you describing unbearable pain and how it's impacting your quality of life."
+
+
+He was never a UnitedHealthcare client, according to the insurer.
+
+
+Mangione apparently cut himself off from his family and close friends in recent months. His family reported him missing to San Francisco authorities in November.
+
+
+Thompson, who grew up on a farm in Iowa, was trained as an accountant. A married father of two high-schoolers, he had worked at the giant UnitedHealth Group for 20 years and became CEO of its insurance arm in 2021.
+
+
+His killing kindled a fiery outpouring of resentment toward U.S. health insurance companies, as Americans swapped stories online and elsewhere of being denied coverage, left in limbo as doctors and insurers disagreed, and stuck with sizeable bills. 
+
+<br> 
+
+<https://www.voanews.com/a/suspect-in-killing-of-us-insurance-ceo-charged-with-murder-as-act-of-terrorism/7904904.html>
+
+---
+
+## VOA interview: US urges Europe to end energy dependency on Russia
+
+date: 2024-12-17, from: VOA News USA
+
+The outgoing administration of U.S. President Joe Biden plans in its final weeks to "continue tightening the noose" around Russia's key energy exports with new sanctions to deprive Moscow of revenue for its war on Ukraine, according to Assistant Secretary of State Geoffrey Pyatt. 
+
+
+Pyatt over the past two weeks has traveled in Europe and Asia to discuss energy security with allies and the G7+Ukraine energy resilience group. 
+
+
+In an interview with VOA Ukrainian's Oksana Bedratenko, Pyatt said Europe should use the Dec. 31 expiration of a gas transit contract between Ukraine and Russia to decisively end its dependency on Russian energy. 
+
+
+He said he is encouraged that Europe sees American liquid natural gas (LNG) as part of its energy solution, noting that countries in Europe and even Japan — which imports 10% of its gas from Russia — understand the need to find alternative energy suppliers. 
+
+
+The following interview has been edited for clarity and brevity. 
+
+
+VOA: Over recent weeks Russia staged several massive attacks on the Ukrainian energy sector. With all of the preparations, with all of the help from Ukraine's allies before winter, what is your assessment of Ukrainian energy sector resilience?  
+
+
+Assistant Secretary of State Geoffrey Pyatt: We knew coming into this winter that this was going to be a very fragile period, but I think the good news is support for Ukraine, support for Ukrainian energy workers, is as strong as it's ever been. We saw another brutal attack on Friday, especially in western Ukraine, in Lviv, Ternopil, Ivano-Frankivsk. … And this is the bitterest part of the winter. So we know we need to continue to work together. I've just returned from two weeks of travel. I was in Tokyo and before that I was in Paris and London. The message I heard consistently from all of our G7 partners was a very clear focus on doing everything we can to help ensure that Russia's attempt to weaponize the winter is a failure.   
+
+
+VOA: The gas transit contract between Russia and Ukraine expires at the end of this year. Do you think Europe is ready for it? There has already been some pressure on Ukraine to continue the gas transit. Do you think this will actually be the end of Europe's dependency on Russian gas?  
+
+
+Pyatt: I certainly hope so. And importantly, the pressure that I see is only coming from one or two countries. I was very glad to see the statements over the weekend from the new [EU] Energy Commissioner [Dan] Jorgensen making very clear the need to make progress on gas phaseout, on nuclear, on all forms of dependency on Russian energy, in line with the EU goal of getting to zero by 2027. Obviously, Brussels and Kyiv need to make some decisions in the next couple of weeks. But I think long-term it is very clear that the energy and gas trade in particular has been the principal vector of Russian influence on the Ukrainian economy since independence. So why on earth would anybody be interested in extending that relationship?   
+
+
+VOA:  Europe has been buying more LNG from Russia. Are there any plans to have more sanctions on Russian LNG projects? 
+
+
+Pyatt: We welcome Europe's steps. Just today [Dec. 15], the 15th sanctions package, which is quite substantial. I have said publicly on a couple of occasions recently that there will be more coming from the Biden administration. I'm very confident of that. And we're working very hard to maintain alignment between Washington, Brussels, London. That's part of what I was doing in Europe two weeks ago. Everybody's pace of operations is slightly different. ... I was glad to see Commissioner Jorgensen also talk about the important role of American LNG as part of Europe's energy solution. So, I'm very confident that we are going to continue to tighten the noose. We're going to do everything that we can to drive down [Russian President Vladimir] Putin's energy revenues, which go to pay for the North Korean missiles and the Russian drones that are destroying Ukrainian civilian infrastructure every day of the week. 
+
+
+VOA: When we look into the next year, the U.S. support for Ukraine might go down. Do you think that Europe and other allies are ready to step up and continue supporting Ukrainian energy? 
+
+
+Pyatt: Everybody is already stepping up. As I think you saw Secretary [of State Antony] Blinken just signed with [Ukrainian] Foreign Minister [Andrii] Sybiha a second energy [Memorandum of Understanding]. This is for the implementation of $825 million in additional energy sector assistance just from the United States. … That very high level of U.S. assistance is exceeded by the assistance that has come from the other G7-plus partners. This is a really important point that it's not just the United States that's providing this assistance, and in fact, the majority of assistance in the energy sector has come from the other G7-plus countries.  
+
+
+VOA: In the MOU there's a lot of attention going to the protection of Ukrainian companies from political influence. How important are reforms in Ukraine even during the war? 
+
+
+Pyatt: Well, as you know, I've been working on these reform issues for 10 years now. So I can appreciate the progress that has been achieved, and that progress is real. Look for instance at the improved production numbers at Naftogaz. Maybe that improved production is because of better management; maybe it's because production that was previously skimmed off is now being declared transparently. But either way, it's a positive outcome. There's more that needs to be done. … Ukraine will not become a member of the European Union in one day, but I think fulfilling the aspirations that the Ukrainian people expressed during the revolution of dignity, when I was ambassador in Kyiv, is as important today as it's ever been, and aligning Ukraine's energy sector with the highest European and OECD (Organisation for Economic Co-operation and Development) standards is very much part and parcel of that larger process of becoming a member of the EU. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-interview-us-urges-europe-to-end-energy-dependency-on-russia/7904825.html>
+
+---
+
+## Her Face Inspired a Movement That Continues Today
+
+date: 2024-12-17, from: Capital and Main
+
+<p>Gloria Arellanes became famous for her Brown Beret portrait, but she also led a free clinic. In East Los Angeles, a new generation is working to improve diets to prevent chronic illnesses.</p>
+<p>The post <a href="https://capitalandmain.com/her-face-inspired-a-movement-that-continues-today">Her Face Inspired a Movement That Continues Today</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/her-face-inspired-a-movement-that-continues-today>
+
+---
+
+## The World’s First Commercial Fusion Plant Will Be in Virginia
+
+date: 2024-12-17, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTM1ODU5OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1NzQ2NjEyMn0.Xzh976mS-1h-2r1kOCO0jg21Ha4piy17QZDRDzLm2Eo/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Commonwealth Fusion Systems, the buzziest and most well-funded company in the increasingly <a href="https://heatmap.news/technology/fusion" target="_self"><u>buzzy and well-funded fusion sector</u></a>, announced today that it will build a commercial fusion power plant in Chesterfield County, Virginia — a first for both the company and the world. CFS will independently finance, build, own, and operate the 400-megawatt plant, which will produce enough energy to power about 150,000 homes sometime “in the early 2030s.”</p><p>All this will happen in collaboration with Dominion Energy Virginia, which serves electricity to more than 2.7 million homes and businesses. While Dominion isn’t contributing monetarily, it is providing CFS with the leasing rights for the proposed site, which it owns, as well as development and technical expertise. The plant itself will cost billions to develop and build. </p><p>“While a utility partnership is not a requirement for this type of project, we ultimately see utilities playing a critical role as key customers and future owners of fusion power plants,” a CFS spokesperson told me via email. “Collaborating and sharing expertise allows CFS to accelerate its development efforts while equipping Dominion with valuable insights to inform future commercial decisions and strategies.”</p><p>The company told me that after a global search, the decision to site the plant in Virginia came down to factors such as access to infrastructure, site readiness, the local workforce, potential partnerships, state support for the clean energy transition, and customer interest. Virginia is also the world’s biggest market for data centers, <a href="https://heatmap.news/climate/biden-ai-electricity-demand" target="_self"><u>a booming industry</u></a> in dire need of clean, firm energy to power it given the growing energy demands of <a href="https://heatmap.news/sparks/google-exxon-gas" target="_self"><u>artificial intelligence</u></a>. The spokesperson wrote, however, that data center power demand was “only a part of the decision criteria for CFS.”</p><p>Commonwealth Fusion Systems has raised over $2 billion in funding to date, including a historically huge $1.8 billion Series B in 2021, which cemented the company as the industry leader in the race to commercialize fusion. The spokesperson told me that construction of the grid-connected commercial plant, known as ARC (an acronym for “affordable, robust, compact”), isn’t expected to begin until the “late 2020s,” once the necessary permits are in place. Prior to building and operating ARC, CFS will demonstrate the technology’s potential via a smaller, noncommercial pilot plant known as SPARC (“smallest possible ARC”), which is scheduled to be turned on in 2026 and to produce more energy than it consumes, a.k.a. demonstrate net energy gain, in 2027. (SPARC will be built at the company’s headquarters outside Boston, Massachusetts.) </p><p>Of course, producing electricity from a first-of-its-kind fusion plant will not come cheap, though the company assured me that Virginia customers will not see this higher price reflected in their utility bills. That’s because while CFS plans to sell the electricity ARC generates into the wholesale energy market, the company is also in discussions with large corporate buyers interested in procuring the environmental benefits of this clean energy via long-term, virtual power purchase agreements. That means that while these potential customers wouldn’t receive the literal fusion electrons themselves, they would earn renewable energy credits by essentially covering the cost of the more expensive fusion power. “The intention is that these customers will pay for the power such that other Virginia customers will not be impacted,” the spokesperson told me. </p><p>CFS claims that when the time comes, connecting a fusion power plant to the grid should be relatively straightforward. “From the perspective of grid operators, it will operate similarly to natural gas power plants already integrated into the grid today,” the spokesperson wrote. That sets fusion apart from other clean energy sources such as solar and wind, which often languish in seemingly endless interconnection queues as they await the buildout of expensive and contentious transmission infrastructure.</p><p>Naturally, CFS is not the only player in the increasingly crowded fusion space <a href="https://www.theverge.com/2023/5/10/23717332/microsoft-nuclear-fusion-power-plant-helion-purchase-agreement" rel="noopener noreferrer" target="_blank"><u>aiming to commercialize</u></a> as soon as possible. If fusion is to play a significant role in the future energy mix, as many experts think it will, there will almost certainly be multiple companies with a variety of technical approaches getting grid-connected. But there’s got to be a first. As Ally Yost, senior vice president of corporate development at CFS, put it to me when I interviewed her this summer, “One of the things that’s most exciting about working here and working in this space is that we are simultaneously building an industry while building a company.”</p> 
+
+<br> 
+
+<https://heatmap.news/technology/commonwealth-fusion-virginia>
+
+---
+
+## The Long-Awaited LNG Study Is Out
+
+date: 2024-12-17, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTI0MzgxMC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NTgxMzc2MX0.AJYDfuf_JIY-cUaHawgmDqYSVGPFoNnzFTd5T976xeE/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">The Department of Energy on Tuesday published the results of its long-awaited analysis of the economic and environmental implications of expanding U.S. exports of liquified natural gas. The study was the culmination of a year-long process after President Biden paused approvals of new LNG export terminals in January so that the agency could update the underlying assumptions it uses to determine whether new facilities are in the “public interest.”</p>
+<p>Though the <a href="https://www.energy.gov/sites/default/files/2024-12/LNGUpdate_SummaryReport_Dec2024_12pm.pdf" rel="noopener noreferrer" target="_blank"><u>resulting assessment</u></a> stops short of advising against approving new projects, it finds that additional U.S. LNG export terminals beyond what has already been approved would likely raise natural gas prices for U.S. consumers and increase global greenhouse gas emissions. </p>
+<p>The main takeaway, according to an accompanying letter penned by the Secretary of Energy Jennifer Granholm, is that “a business-as-usual approach is neither sustainable nor advisable.” </p>
+<p>Among its other key findings:</p>
+<ul><li>LNG projects that have already been approved are likely to produce more than enough natural gas to meet global demand. New facilities that are under construction will nearly double exports by 2030, and exports could double again after that if all the facilities that have been approved, but have not yet reached a final investment decision, end up getting built. </li><li>Supporting that is the fact that demand for U.S. LNG has flattened in Europe and peaked in Japan, while South Korea’s demand is expected to plateau by 2030. The DOE’s analysis projects that China will be the largest LNG importer through 2050, and notes that entities there have already signed contracts with U.S. LNG export projects.</li><li>While new LNG terminals will create jobs and revenues, increased exports could also raise wholesale domestic natural gas prices by more than 30% by 2050.</li><li>In all five scenarios the DOE studied, U.S. LNG exports would increase global net emissions. </li></ul>
+<p>Environmental groups celebrated the outcome. “DOE’s analysis confirms the facts we’ve known for years,” Moneen Nasmith, a senior attorney at Earthjustice said in a statement. “Rampant LNG exports drive up energy prices, contribute to the catastrophic effects of climate change, and delay the global transition to truly clean energy.”</p>
+<p>But the gas industry was quick to criticize the findings. In a statement, Karen Harbert, the president and CEO of the American Gas Association, accused the Biden administration of attempting to “justify” the president’s earlier pause on approvals. “The contribution of U.S. natural gas to driving down emissions in this country and the potential for lowering global emissions is unquestioned,” she said. </p>
+<p>The transition from coal-fired power plants to natural gas was a major driver of emission reductions in the United States over the last decade. But renewable energy is increasingly a competitive alternative. An analysis of the climate impacts from expanding LNG exports must look not just at whether the fuel would displace dirtier options like coal and Russian natural gas, but also at whether it would displace cleaner options like renewables. The answer depends on which countries end up buying it, and how their climate commitments evolve. </p>
+<p>As such, any estimation of greenhouse gas emissions from LNG exports is based on assumptions. Under the Department of Energy’s “defined policies” scenario, it found that additional U.S. LNG exports could end up displacing more renewable energy in other countries than coal, without even factoring in countries’ stated commitments to decarbonize. Overall in this scenario, additional exports would lead to an increase of 711 million metric tons of carbon dioxide between now and 2050.</p>
+<p>The rapid acceleration of U.S. LNG exports has not had a discernible effect on U.S. natural gas prices to date. But the Department of Energy finds that “unfettered” LNG exports in the future would put upward pressure on domestic natural gas prices and potentially increase energy costs for U.S. consumers by more than $100 per year by 2050. </p>
+<p>Biden’s pause on new LNG approvals was technically overturned in July, when a federal judge found that the administration had overstepped its authority. But two major projects still hang in the balance, the Calcasieu Pass 2 LNG Terminal and the Commonwealth LNG Terminal, both of which would be built in coastal Louisiana. Both projects <a href="https://www.energy.gov/articles/following-ferc-notices-us-department-energy-provides-clarity-status-lng-export" rel="noopener noreferrer" target="_blank"><u>require approvals from the Federal Energy Regulatory Commission</u></a> before the Department of Energy can issue a public interest determination.</p>
+<p>Although the report published Tuesday is “final,” the administration is opening it up for public comment for 60 days, starting today, to ensure that alternative analyses are captured in the public record and can inform decisionmaking going forward.</p>
+<p>In that, the gas industry sees an opening. “We look forward to working with the incoming administration to rectify the glaring issues with this study during the public comment period,” Harbert said in her statement.</p>
+<p>During the call on Tuesday, Granholm acknowledged that the future is in the next administration’s hands. “We hope that they'll take these facts into account to determine whether additional LNG exports are truly in the best interest of the American people and economy,” she said.</p><p><em>Editor’s note: This story has been updated to reflect more information from the finished report as well as the DOE’s Tuesday call with reporters.</em><br/></p> 
+
+<br> 
+
+<https://heatmap.news/climate/lng-study>
+
+---
+
+## UK Fleet Air Arm Centenary: Looking Ahead to the Next 100 Years
+
+date: 2024-12-17, updated: 2024-12-17, from: RAND blog
+
+ 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/12/uk-fleet-air-arm-centenary-looking-ahead-to-the-next.html>
+
+---
+
+## IT consultant found guilty in San Francisco stabbing death of Cash App founder
+
+date: 2024-12-17, from: VOA News USA
+
+SAN FRANCISCO, CALIFORNIA — A San Francisco jury on Tuesday found a tech consultant guilty of second-degree murder in the stabbing death of Cash App founder Bob Lee, which carries a sentence of 16 years to life.
+
+
+Jurors took seven days to deliver their verdict against Nima Momeni in the April 4, 2023, death of Lee, a beloved tech mogul who was found staggering on a deserted downtown street, dripping a trail of blood and calling for help. Lee, 43, later died at a hospital.
+
+
+"We think justice was done here today," the victim's brother, Tim Oliver Lee, told reporters. "What matters today is that we had a guilty verdict and Nima Momeni is going away for a very long time."
+
+
+Prosecutors said Momeni planned the attack on Lee, driving him to an isolated spot under the Bay Bridge and stabbing him three times with a knife he took from his sister's kitchen. They say Momeni was angry with Lee for introducing his younger sister to a drug dealer she says gave her GHB and other drugs and then sexually assaulted her.
+
+
+But Momeni testified on the stand that Lee was the one who attacked him with a knife, angry after the tech consultant chided him about spending more time with his family instead of searching for a strip club that night. Momeni, who studies martial arts, claimed self-defense and said he didn't realize he had fatally wounded Lee or that Lee was even hurt.
+
+
+The case has drawn national attention, partly given Lee's status in the tech world.
+
+
+Momeni, 40, has been in custody since his arrest in April 2023, when he was charged with murder in the first degree. Jurors received the case, which started Oct. 14, on Dec. 4.
+
+
+Lee had created mobile payment service Cash App and was the chief product officer of the cryptocurrency MobileCoin when he died. He had moved to Miami from the San Francisco Bay Area, where his ex-wife Krista Lee lives with their two children. 
+
+<br> 
+
+<https://www.voanews.com/a/it-consultant-found-guilty-in-stabbing-death-of-cash-app-founder/7904653.html>
+
+---
+
+## Turkey positions itself for bigger role as broker in 2025
+
+date: 2024-12-17, from: VOA News USA
+
+Turkish President Recep Tayyip Erdogan made a strong push to project Turkey's influence internationally in 2024. He scored foreign policy successes with the ouster of Bashar al-Assad in Syria and Turkey’s growing ties to nations in Africa. Still, tensions remain between his country and the West over Israel and his strong relations with Russia. As Dorian Jones reports from Istanbul, Erdogan has positioned himself for a bigger role internationally in 2025 and for a good working relationship with the incoming U.S. administration. 
+
+<br> 
+
+<https://www.voanews.com/a/turkey-positions-itself-for-bigger-role-as-broker-in-2025/7904617.html>
+
+---
+
+## US targets North Korean money laundering network with sanctions
+
+date: 2024-12-17, from: VOA News USA
+
+Washington — The United States on Tuesday imposed sanctions on two people and one entity based in the United Arab Emirates, accusing them of being involved in a network that launders millions of dollars generated by IT workers and cybercrimes to support the North Korean government. 
+
+
+The U.S. Treasury Department said in a statement that the two people hit with sanctions worked through a UAE-based front company to facilitate money laundering and cryptocurrency conversion services that funneled the illicit proceeds back to Pyongyang. 
+
+
+North Korea's mission to the United Nations didn't immediately return a message seeking comment. 
+
+
+Tuesday's action comes as Washington seeks to cut off funding for North Korea's weapons of mass destruction and ballistic missile programs, the Treasury said.  
+
+
+“As the DPRK continues to use complex criminal schemes to fund its WMD and ballistic missile programs — including through the exploitation of digital assets — Treasury remains focused on disrupting the networks that facilitate this flow of funds to the regime,” Treasury Acting Under Secretary for Terrorism and Financial Intelligence Bradley Smith said in the statement. 
+
+
+Tuesday's move targeted UAE-based Chinese nationals Lu Huaying and Zhang Jian as well as UAE-based Green Alpine Trading LLC. It freezes any of their U.S. assets and generally bars Americans from dealing with them. Those that engage in certain transactions with them also risk being hit with sanctions. 
+
+
+The Emirati embassy in Washington didn't immediately return a message seeking comment. Reuters could not immediately locate contact details for Green Alpine Trading, Lu or Zhang. 
+
+<br> 
+
+<https://www.voanews.com/a/us-targets-north-korean-money-laundering-network-with-sanctions/7904463.html>
+
+---
+
+## Why Not Put Solar Panels on EVs?
+
+date: 2024-12-17, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTM1ODMxMS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4MzUyNTkzNX0.GkxFLKZxjX5xgjjHKOV28pEuCbDdIz2zl7f0a-hlYvk/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Here’s something to chew on over the holiday break: The top of a car is wasted space. Sure, you can put a sunroof there to let in a little light and breeze or install a roof rack to take your surfboard to the beach. But for the most part, the roof is just a field of metal to keep the elements out of the cabin. </p>
+<p>In an electric vehicle, that square footage could have a job. What if solar panels embedded in the roof generated juice to recharge the battery as the car flies down the highway or sits in the middle of a parking lot, blasted by the summertime sun? It’s an idea that’s starting to get more traction. It’s about time.</p>
+<p>The idea of a car slathered in solar panels is well-worn territory. For decades, engineers have staged solar car races such as the <a href="https://en.wikipedia.org/wiki/World_Solar_Challenge" rel="noopener noreferrer" target="_blank"><u>World Solar Challenge</u></a>, contested by vehicles running solely on sun power. It takes a lot of real estate to generate enough solar energy to move something as heavy as a car, though. That is why solar challenge competitors are often stripped-down, super-lightweight pods.</p>
+<p>The question for a commercial car is, can embedded solar produce enough energy to make it worth the trouble and expense? A few, like the <a href="https://www.motortrend.com/news/2023-lightyear-one-first-look-review/" rel="noopener noreferrer" target="_blank"><u>Lightyear One</u></a> concept vehicle, have dared to try. <a href="https://invest.aptera.us/?utm_campaign=AMM_2024&utm_medium=cpc&utm_source=google&utm_content=search_investment&gad_source=1&gclid=Cj0KCQiAvP-6BhDyARIsAJ3uv7bwYmWJ0tnJHB4LUMWzrBOlCCFkxBP3Hk7lqUg0GTguhcH_fjFMIPEaAqoKEALw_wcB" rel="noopener noreferrer" target="_blank"><u>Aptera</u></a> keeps trying to sell the solar car. Among real production EVs, the doomed Fisker Ocean offered a solar roof on its most expensive version. Toyota’s Prius Prime plug-in hybrid offers a solar roof as an add-on. In some places around the world, the popular Hyundai Ioniq 5 comes with <a href="https://www.edmunds.com/electric-car/articles/electric-cars-with-solar-panels.html" rel="noopener noreferrer" target="_blank"><u>enough</u></a> solar capability to add 3 miles of range per day.</p>
+<p>EV solar hasn’t caught on in the mainstream, however. The world’s top EV maker, Tesla, has long been standoffish about the idea. When CEO Elon Musk is asked about EVs with solar, <a href="https://www.slashgear.com/1435368/elon-musk-explains-electric-car-solar-panels/" rel="noopener noreferrer" target="_blank"><u>as he was</u></a> on the Joe Rogan Experience podcast in 2023, he typically dismisses the idea. After Rogan pressed him, Musk estimated that a square meter of PV would be exposed to just 1 kilowatt of energy and could probably only harvest 25% of that, a tiny contribution that’s nowhere near what you’d need to push a Tesla down the road. (Modern DC fast-chargers discharge energy in the hundreds of kilowatts.)</p>
+<p>In other words, what solar panels on a car could harvest amounts to a drop in the bucket. But if you leave out enough buckets for long enough, those drops eventually add up to something. For example: At the same time he was pooh-poohing car solar, Musk acknowledged the promise of a kind of fold-out system, something that unfurled like a satellite to expose a large surface area of PV. Imagine those <a href="https://www.backcountry.com/b/goal-zero-nomad-20-solar-panel?CMP_SKU=GZRG01I&MER=0406&skid=GZRG01I-ONECOL-ONESIZ&mr:device=c&mr:adType=plaonline&utm_source=google&utm_medium=pla&utm_campaign=20554353310__p:G%7Cs:BC%7Cct:Shopping%7Cct2:pmax%7Cg:xx%7Cc1:Travel%7Cc2:xx%7Cb:xx%7Cmt:xx&utm_content=&utm_id=go_cmp-20554353310_adg-_ad-__dev-c_ext-_prd-GZRG01I-ONECOL-ONESIZ_mca-7811_sig-Cj0KCQiA0--6BhCBARIsADYqyL_Max_XbqRNvNGm4hZGLS3VaNrC1K5uYt8tAUHpqTanH-xPT2hCt2gaAk2vEALw_wcB&gad_source=1&gclid=Cj0KCQiA0--6BhCBARIsADYqyL_Max_XbqRNvNGm4hZGLS3VaNrC1K5uYt8tAUHpqTanH-xPT2hCt2gaAk2vEALw_wcB&gclsrc=aw.ds" rel="noopener noreferrer" target="_blank"><u>backcountry panels</u></a> you can fold out at a campsite to harvest solar power for charging your phone, scaled up. </p>
+<p>Los Angeles-based <a href="https://insideevs.com/news/744228/dartsolar-ev-solar-panels-range/" rel="noopener noreferrer" target="_blank"><u>DartSolar</u></a> is trying to sell just that. The startup has begun offering a package of solar panels that can sit on the roof of an EV just like that big Thule roof box riding on the top racks of so many Subarus. When closed, just two of the six available solar panels are exposed, gathering up to 320 watts of energy as the car drives or sits in an outdoor parking stall. Find yourself at a campground, the beach, or anywhere else there’s room for the package to expand, then all six panels can start generating electricity at a maximum of 960 watts, or nearly a kilowatt. </p>
+<p>The company claims that you could add 10 to 20 miles of driving range per day this way, which is nothing to sneeze at. It’s like a green range extender that just lives on top of your car and, at 87 pounds, doesn’t weigh so much that it’s killing your mileage. But it’s not exactly cheap: DartSolar says the package will ultimately cost around $3,500, meaning it would take quite a while to recoup the upfront from free solar energy, even if the system does qualify for some incentives.</p>
+<p>Another startup, <a href="https://gosun.co/pages/ev-solar-charger?utm_source=google&utm_medium=cpc&utm_campaign=21397996718&gad_source=1&gclid=Cj0KCQiAvP-6BhDyARIsAJ3uv7Y7do1t-r3kvUiRpJSPCiRTr65XWUrt8fbdVGVqmNbyyiUZYTByq0caAr22EALw_wcB" rel="noopener noreferrer" target="_blank"><u>GoSun</u></a>, offers a slightly different take on the same idea. Instead of expanding into a flat plane of PV, its panels cascade from the roof down the front and back to gather up to 30 miles of range per day. GoSun promises to deliver in 2025 for about $3,000.</p>
+<p>Of course, the smartest way to power your EV with solar is to put PV on the roof of your home, a place with much fewer square footage and weight constraints than the surface of a vehicle. But as solar continues to get more efficient, it will make less and less sense to ignore the real estate on a car. After all, every watt of extra energy from the sun is one you don’t have to get somewhere else.</p> 
+
+<br> 
+
+<https://heatmap.news/electric-vehicles/ev-solar-panels-dartsolar-gosun>
+
+---
+
+## Alabama woman doing well after latest experimental pig kidney transplant
+
+date: 2024-12-17, from: VOA News USA
+
+NEW YORK — An Alabama woman is recovering well after a pig kidney transplant last month that freed her from eight years of dialysis, the latest effort to save human lives with animal organs. 
+
+
+Towana Looney is the fifth American given a gene-edited pig organ — and notably, she isn't as sick as prior recipients who died within two months of receiving a pig kidney or heart. 
+
+
+"It's like a new beginning," Looney, 53, told The Associated Press. Right away, "the energy I had was amazing. To have a working kidney — and to feel it — is unbelievable." 
+
+
+Looney's surgery marks an important step as scientists get ready for formal studies of xenotransplantation expected to begin next year, said Dr. Robert Montgomery of NYU Langone Health, who led the highly experimental procedure. 
+
+
+Looney is recuperating well after her transplant, which was announced Tuesday. She was discharged from the hospital 11 days after surgery to continue recovery in a nearby apartment although temporarily readmitted this week while her medications are adjusted. Doctors expect her to return home to Alabama in three months. If the pig kidney were to fail, she could begin dialysis again. 
+
+
+
+
+"To see hope restored to her and her family is extraordinary," said Dr. Jayme Locke, Looney's original surgeon who secured Food and Drug Administration permission for the Nov. 25 transplant. 
+
+
+More than 100,000 people are on the U.S. transplant list, most who need a kidney. Thousands die waiting and many more who need a transplant never qualify. Now, searching for an alternate supply, scientists are genetically altering pigs so their organs are more humanlike. 
+
+
+Looney donated a kidney to her mother in 1999. Later a complication during pregnancy caused high blood pressure that damaged her remaining kidney, which eventually failed. It's incredibly rare for living donors to develop kidney failure although those who do are given extra priority on the transplant list. 
+
+
+But Looney couldn't get a match — she had developed antibodies abnormally primed to attack another human kidney. Tests showed she'd reject every kidney donors have offered. 
+
+
+Then Looney heard about pig kidney research at the University of Alabama at Birmingham and told Locke, at the time a UAB transplant surgeon, she'd like to try one. In April 2023, Locke filed an FDA application seeking an emergency experiment, under rules for people like Looney who are out of options. 
+
+
+The FDA didn't agree right away. Instead, the world's first gene-edited pig kidney transplants went to two sicker patients last spring, at Massachusetts General Hospital and NYU. Both also had serious heart disease. The Boston patient recovered enough to spend about a month at home before dying of sudden cardiac arrest deemed unrelated to the pig kidney. NYU's patient had heart complications that damaged her pig kidney, forcing its removal, and she later died. 
+
+
+Those disappointing outcomes didn't dissuade Looney, who was starting to feel worse on dialysis but, Locke said, hadn't developed heart disease or other complications. The FDA eventually allowed her transplant at NYU, where Locke collaborated with Montgomery. 
+
+
+Even if her new organ fails, doctors can learn from it, Looney told the AP: "You don't know if it's going to work or not until you try." 
+
+
+Blacksburg, Virginia-based Revivicor provided Looney's new kidney from a pig with 10 gene alterations. Moments after Montgomery sewed it into place, the kidney turned a healthy pink and began producing urine. 
+
+
+Looney was initially discharged on Dec. 6, wearing monitors to track her blood pressure, heart rate and other bodily functions and returning to the hospital for daily checkups before her medication readmission. Doctors scrutinize her bloodwork and other tests, comparing them to prior research in animals and a few humans in hopes of spotting an early warning if problems crop up. 
+
+
+"A lot of what we're seeing, we're seeing for the first time," Montgomery said. 
+
+
+During a visit last week with Locke, who now works for the federal government, Looney hugged her longtime doctor, saying, "Thank you for not giving up on me." 
+
+
+"Never," Locke responded. 
+
+<br> 
+
+<https://www.voanews.com/a/alabama-woman-doing-well-after-latest-experimental-pig-kidney-transplant/7904331.html>
 
 ---
 
