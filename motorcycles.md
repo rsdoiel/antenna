@@ -1,11 +1,85 @@
 ---
 title: motorcycles
-updated: 2024-12-18 15:46:50
+updated: 2024-12-19 07:05:17
 ---
 
 # motorcycles
 
-(date: 2024-12-18 15:46:50)
+(date: 2024-12-19 07:05:17)
+
+---
+
+## These Retro Heated Motorcycle Gloves Are The Height Of Modern Old School Cool, I Think
+
+date: 2024-12-19, from: Ride Apart, Electric Motorcycle News
+
+It's an exquisite sandwich of classic design with modern materials and conveniences. 
+
+<br> 
+
+<https://www.rideapart.com/news/744928/helstons-fender-heating-retro-gloves/>
+
+---
+
+## I'd Likely Die Riding Kawasaki's New Stand-Up Jet Ski, But I'd Try It
+
+date: 2024-12-19, from: Ride Apart, Electric Motorcycle News
+
+I'm not coordinated enough for this machine.  
+
+<br> 
+
+<https://www.rideapart.com/news/744921/kawasaki-jet-ski-stand-up-sx-x160-debut-features-specs/>
+
+---
+
+## Bajaj Eyeing CBG-Powered Bikes, Which Just Might Be The Key To Future Motorcycling
+
+date: 2024-12-19, from: Ride Apart, Electric Motorcycle News
+
+Bajaj seems to be on to some pretty big things with its Freedom 125 CNG motorcycle.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/744787/bajaj-cbg-power-coming-soon/>
+
+---
+
+## Here's Hello Kitty Showing How Her Super Cub Is Made, and It's Everything
+
+date: 2024-12-19, from: Ride Apart, Electric Motorcycle News
+
+Who else do you know who's had an entire Super Cub made to honor them? I'll wait. 
+
+<br> 
+
+<https://www.rideapart.com/news/744918/hello-kitty-super-cub-video/>
+
+---
+
+## No One Bid On a Helmet From 'Easy Rider,' Duh, It's an Old Movie No One Cares About
+
+date: 2024-12-19, from: Ride Apart, Electric Motorcycle News
+
+OK, Boomers.  
+
+<br> 
+
+<https://www.rideapart.com/news/744915/easy-riders-peter-fonda-helmet-auction-no-bid/>
+
+---
+
+## Segway’s New UTV Has More Tech Features Than My Daily Driver
+
+date: 2024-12-19, from: Ride Apart, Electric Motorcycle News
+
+If you factor in all the optional extras, you’ll be conquering the trails in utmost style and comfort. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/744786/2025-segway-ut6-utv-unveiled/>
 
 ---
 

@@ -1,11 +1,303 @@
 ---
 title: pacific
-updated: 2024-12-18 15:46:47
+updated: 2024-12-19 07:05:14
 ---
 
 # pacific
 
-(date: 2024-12-18 15:46:47)
+(date: 2024-12-19 07:05:14)
+
+---
+
+## Trump rejects bipartisan US spending bill, raising government shutdown risk
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>Government will begin partial shutdown on Saturday without congressional action</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/nation-world-news/trump-rejects-bipartisan-us-spending-bill-raising-government-shutdown-risk/>
+
+---
+
+## Youth climate activists get major win in Montana supreme court
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>The Montana Supreme Court on Wednesday upheld a landmark victory for youth climate activists, affirming a decision by a lower court last year that the state&#8217;s energy policies violated their constitutional rights to a clean environment.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/nation-world-news/youth-climate-activists-get-major-win-in-montana-supreme-court/>
+
+---
+
+## The ‘murder hornet’ has been eradicated from US, officials say
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>SEATTLE &#8212; The hunt for the &#8220;murder hornet&#8221; in the northwest corner of Washington state began like a criminal investigation, with bee carcasses creating a crime scene and the public being asked to send tips about the potential culprit&#8217;s whereabouts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/nation-world-news/the-murder-hornet-has-been-eradicated-from-us-officials-say/>
+
+---
+
+## California declares an emergency over bird flu in cattle
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>In a stark acknowledgment of the increasing seriousness of bird flu&#8217;s spread, California Gov. Gavin Newsom declared on Wednesday that the outbreak of infections among the state&#8217;s dairy cattle constituted an emergency. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/nation-world-news/california-declares-an-emergency-over-bird-flu-in-cattle/>
+
+---
+
+## Amazon workers to strike at multiple US warehouses during busy holiday season
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>Thousands of Amazon.com workers will walk off the job on Thursday morning, in the crucial final days of the holiday season, after union officials said the retailer failed to come to the bargaining table to negotiate contracts. The strike is a challenge to Amazon&#8217;s operations as it races to fulfill orders during its busiest season of the year, although union-represented facilities represent only about 1% of Amazon&#8217;s hourly workforce. In the New York City area, for example, the company has multiple warehouses and smaller delivery depots. The International Brotherhood of Teamsters said unionized workers at facilities in New York City; Skokie, Illinois; Atlanta, San Francisco and southern California will join the picket line to seek contracts guaranteeing better wages and work conditions. The Teamsters union has said it represents about 10,000 workers at 10 of the company&#8217;s U.S. facilities. Workers at seven of those facilities will walk out on Thursday, the Teamsters said. An Amazon spokesperson did not respond to a request for comment. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/nation-world-news/amazon-workers-to-strike-at-multiple-us-warehouses-during-busy-holiday-season/>
+
+---
+
+## Council urges changes to midwives law
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>Big Island midwives and the Hawaii County Council are urging the state to remove a requirement that midwives must have a license in order to practice.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/hawaii-news/council-urges-changes-to-midwives-law/>
+
+---
+
+## Judge picks contractor to demolish mistakenly built house in HPP
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>A contractor has been chosen to demolish a house built on the wrong lot in Hawaiian Paradise Park.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/hawaii-news/judge-picks-contractor-to-demolish-mistakenly-built-house-in-hpp/>
+
+---
+
+## US accuses CVS of filling, billing government for illegal opioid prescriptions
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Department of Justice announced a lawsuit on Wednesday accusing pharmacy chain CVS of filling illegal opioid prescriptions and billing federal health insurance programs, contributing to a nationwide epidemic of opioid addiction and overdose. The newly unsealed complaint in Providence, Rhode Island federal court alleges that, from October 2013 to the present, CVS violated the federal Controlled Substances Act by filling prescriptions for dangerous quantities of opioids and dangerous combinations of drugs. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/nation-world-news/us-accuses-cvs-of-filling-billing-government-for-illegal-opioid-prescriptions/>
+
+---
+
+## Back-to-back-to-back atmospheric rivers are expected to soak the West Coast
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>A barrage of storms known as atmospheric rivers is expected to soak the West Coast over the next eight to 10 days, raising the risk of flooding, power outages and holiday travel disruptions leading up to Christmas in a region that has already experienced significant weather activity this season.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/nation-world-news/back-to-back-to-back-atmospheric-rivers-are-expected-to-soak-the-west-coast/>
+
+---
+
+## Fed lowers rates but sees fewer cuts next year due to stubbornly high inflation
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. central bank cut interest rates on Wednesday, as expected, but Federal Reserve Chair Jerome Powell said more reductions in borrowing costs now hinge on further progress in lowering stubbornly high inflation, remarks that showed policymakers are starting to reckon with the prospects for sweeping economic changes under a Trump administration. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/nation-world-news/fed-lowers-rates-but-sees-fewer-cuts-next-year-due-to-stubbornly-high-inflation/>
+
+---
+
+## Nation and world news in brief for December 19
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>US House panel to release ethics report on Matt Gaetz, source says</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/nation-world-news/nation-and-world-news-in-brief-for-december-19/>
+
+---
+
+## Trio who escaped from Hale Nani still at large
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>Three inmates who reportedly escaped Friday in a stolen car from Hawaii Community Correctional Center&#8217;s Hale Nani Facility remained at large as of late Wednesday afternoon.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/hawaii-news/trio-who-escaped-from-hale-nani-still-at-large/>
+
+---
+
+## Kona Choral Society presents ‘Messiah and More’
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>The Kona Choral Society invites the community to celebrate the holidays with musical pageantry at their &#8220;Messiah and More&#8221; concert from 4 p.m. to 5:30 p.m. Sunday at the Kaleiopapa Convention Center at the Outrigger Kona Resort &#38;Spa in Kailua-Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/community/kona-choral-society-presents-messiah-and-more/>
+
+---
+
+## Have ‘Coffee with a Cop’ today in Hilo
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Police Department&#8217;s South Hilo Community Policing Section invites members of the public to join them for &#8220;Coffee with a Cop&#8221; from 9 a.m. to 10:30 a.m. today at Big Island Coffee Roasters located at 76 Kalanianaole St. in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/community/have-coffee-with-a-cop-today-in-hilo/>
+
+---
+
+## UH Hilo’s Fall Commencement is Saturday
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>The University of Hawaii at Hilo celebrates its 2024 Fall Commencement at 9 a.m. on Saturday at Vulcan Gymnasium.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/community/uh-hilos-fall-commencement-is-saturday/>
+
+---
+
+## USDA grants awarded to support food system infrastructure projects
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Department of Agriculture recently announced awards for 17 Hawaii projects totaling $2.6 million under the Resilient Food System Infrastructure program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/community/usda-grants-awarded-to-support-food-system-infrastructure-projects/>
+
+---
+
+## Guamanian author earns Goodreads Choice nomination for ‘Dragonfruit’
+
+date: 2024-12-19, from: Pacific Island Times
+
+“Dragonfruit” draws deeply from Lucier’s memories of growing up on Guam, weaving elements of Pacific Island mythology and culture into its f 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guamanian-author-earns-goodreads-choice-nomination-for-dragonfruit>
+
+---
+
+## Jaya competes at World Aquatics meet
+
+date: 2024-12-19, from: Marshal Islands Journal
+
+<p>As the World Aquatics Swimming Championships reached its busiest day for Pacific island swimmers last Saturday in Budapest, Hungary, Jaya Corder represented the Marshall Islands with pride in the men’s 50m freestyle event. Competing in a short course 25m pool, Jaya made the most of the moment, achieving a personal best and enjoying the incredible [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/jaya-competes-at-world-aquatics-meet/">Jaya competes at World Aquatics meet</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/jaya-competes-at-world-aquatics-meet/>
+
+---
+
+## Wresters name new team
+
+date: 2024-12-19, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Waylon Muller and Damien Jacklick retained their top roles for the Marshall Islands Wrestling Federation following an election Tuesday at Aliang Restaurant in Uliga. Waylon was re-elected President with Damien as Vice President. The other person to retain his role as Secretary was Carthney Laukon. The Federation welcomed new member John Peralta for [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/wresters-name-new-team/">Wresters name new team</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/wresters-name-new-team/>
+
+---
+
+## Students get space view
+
+date: 2024-12-19, from: Marshal Islands Journal
+
+<p>SHERMAN HOGUE* Students at US Army Garrison–Kwajalein Atoll were chosen by NASA to conduct a down-link from the International Space Station to have questions answered by NASA Astronaut, US Space Force Col. Nick Hague and Flight Commander, Astronaut Sunita Williams. Students, staff and family enjoyed watching the crew flip in zero gravity as they answered [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/students-get-space-view/">Students get space view</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/students-get-space-view/>
+
+---
+
+## USP representatives attend joint soil science conference
+
+date: 2024-12-19, from: University of the South Pacific (Fiji)
+
+<p>Students and staff of USP’s Discipline of Agriculture and Food Technology (DAFT) recently attended the...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-attends-joint-new-zealand-soil-science-society-and-soil-science-australia-conference/">USP representatives attend joint soil science conference</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-attends-joint-new-zealand-soil-science-society-and-soil-science-australia-conference/>
 
 ---
 
@@ -95,6 +387,90 @@ The post <a href="https://www.hawaii.edu/news/2024/12/18/91-year-old-earns-maste
 <br> 
 
 <https://www.hawaii.edu/news/2024/12/18/91-year-old-earns-masters-degree/>
+
+---
+
+## Court denies claim in the estate of former CNMI judge
+
+date: 2024-12-18, updated: 2024-12-19, from: Marianas Variety
+
+SUPERIOR Court Associate Judge Joseph N. Camacho has denied a claim in the probate proceedings of the estate of former CNMI Judge Herbert D. Soll. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/court-denies-claim-in-the-estate-of-former-cnmi-judge/article_34dac5b4-bd59-11ef-9923-27cd47b3a570.html>
+
+---
+
+## Franklin Babauta Jr. is commissioned as an officer
+
+date: 2024-12-18, updated: 2024-12-19, from: Marianas Variety
+
+THE commissioning ceremony of Franklin Babauta Jr., a graduate of the University of Guam’s Reserve Officer Training Corps, was held on Tuesday evening, Dec. 17 at Kensington Hotel. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/franklin-babauta-jr-is-commissioned-as-an-officer/article_4cb87c18-bd17-11ef-9fd9-c79c6f9394a0.html>
+
+---
+
+## CNMI mayors form association, elect officers, adopt bylaws
+
+date: 2024-12-18, updated: 2024-12-19, from: Marianas Variety
+
+TINIAN Mayor Edwin Aldan was elected president of the Association of Northern Mariana Islands Mayors or ANMIM on Wednesday, Dec. 18 in the conference room of the Office of the Mayor of Saipan. 
+
+<br> 
+
+<https://www.mvariety.com/cnmi-mayors-form-association-elect-officers-adopt-bylaws/article_d205d28e-bd09-11ef-9235-2fd791ebf068.html>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2024-12-18, updated: 2024-12-19, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Vanuatu earthquake death toll expected to rise as second quake plunges island nation into state of emergency
+
+date: 2024-12-18, updated: 2024-12-19, from: Marianas Variety
+
+PORT VILA, (The Guardian/RNZ/Pacnews) — A second earthquake has struck Vanuatu, as the death toll from Tuesday’s deadly quake rose and an international search and rescue operation got underway. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/vanuatu-earthquake-death-toll-expected-to-rise-as-second-quake-plunges-island-nation-into-state/article_e072d7e2-bd16-11ef-8f6d-d7f4fc715a24.html>
+
+---
+
+## Rota gaming commission urges governor to veto ‘intrusive’ spending bill
+
+date: 2024-12-18, updated: 2024-12-19, from: Marianas Variety
+
+THE Rota Casino Gaming Commission wants Gov. Arnold I. Palacios to veto House Bill 23-61, which would appropriate $155,000 in casino license fee collection, saying it “intrudes upon the Commission’s independent authority” to allocate funds. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/rota-gaming-commission-urges-governor-to-veto-intrusive-spending-bill/article_640291a4-bcdd-11ef-ada5-47a9036137a7.html>
+
+---
+
+## Senators: Governor violated the law
+
+date: 2024-12-18, updated: 2024-12-19, from: Marianas Variety
+
+SENATE President Edith Deleon Guerrero and other senators present in a session on Wednesday said Gov. Arnold I. Palacios violated the Planning and Budgeting Act when he issued Executive Directive 2025-002 to restore the executive branch employees’ 80 working hours per pay period. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/senators-governor-violated-the-law/article_054e5ea6-bd08-11ef-947b-5b5f5143b570.html>
 
 ---
 
@@ -364,6 +740,20 @@ date: 2024-12-18, from: Hawaii Tribune Harold
 
 ---
 
+## HVO reports increase in seismic activity at Kilauea
+
+date: 2024-12-18, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaiian Volcano Observatory is monitoring recent increases in seismic activity beneath Kilauea.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/18/hawaii-news/hvo-reports-increase-in-seismic-activity-at-kilauea-2/>
+
+---
+
 ## UH Maui College Holiday Bash shines bright
 
 date: 2024-12-18, from: University of Hawaiʻi News
@@ -530,18 +920,6 @@ The Pacific island nation is ranked as one of the world’s most at-risk countri
 <br> 
 
 <https://www.pacificislandtimes.com/post/buildings-pancaked-in-vanuatu-as-7-3-magnitude-quake-hits-off-capital-port-vila>
-
----
-
-## Variety editor’s 4th book available at Joeten Susupe
-
-date: 2024-12-17, updated: 2024-12-18, from: Marianas Variety
-
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
 
 ---
 

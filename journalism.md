@@ -1,11 +1,215 @@
 ---
 title: journalism
-updated: 2024-12-18 15:46:49
+updated: 2024-12-19 07:05:16
 ---
 
 # journalism
 
-(date: 2024-12-18 15:46:49)
+(date: 2024-12-19 07:05:16)
+
+---
+
+## AI helps us revisit old journalism territory
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+The hype wave around AI has peaked (or close to it), but its impact on the industry hasn&#8217;t yet been felt. I don&#8217;t predict that AI will take us &#8220;boldly where no one has gone before.&#8221; Instead, it will help us revisit old territory, digging deeper into abandoned wells to uncover untapped value, hidden insights,... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/ai-helps-us-revisit-old-journalism-territory/>
+
+---
+
+## More small and mid-level podcasts hit the stage
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+In 2025, more podcasts will move from audio and video to the stage — and not just the big ones with big budgets. This already-growing trend will be adapted and invigorated by mid-tier and smaller shows whose audiences have been steadily increasing for years, whose listeners yearn for live interactions with hosts and shows that... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/more-small-and-mid-level-podcasts-hit-the-stage/>
+
+---
+
+## The media reckons with AGI
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+In 1988, NASA scientist James Hansen told the U.S. Senate that man-made climate change was real, imminent, and potentially catastrophic. It was a perfect opportunity for the media to start covering the issue with the importance and urgency it deserved. Yet journalists did not rise to the occasion. For decades, they peddled both-sidesism, failing to... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-media-reckons-with-agi/>
+
+---
+
+## Cross-border collaboration shines light in dark corners
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+Around the world, illiberal regimes seek to control the flow of information. But they themselves are often open to certain new ideas — the innovations that other regimes have successfully used to suppress or obscure information that is unflattering or undermines their authority. This mutual emboldening adds another advantage to an already unfair fight, as... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/cross-border-collaboration-shines-light-in-dark-corners/>
+
+---
+
+## The expert class confronts reality
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+Say what you will about The Washington Post&#8217;s much-maligned decision not to endorse a U.S. presidential candidate in 2024, but Jeff Bezos had a point when he wrote this: &#8220;Most people believe the media is biased. Anyone who doesn&#8217;t see this is paying scant attention to reality, and those who fight reality lose. Reality is... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-expert-class-confronts-reality/>
+
+---
+
+## Meeting people where they are
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+When Trump won in 2016, those in journalism circles wrung their hands. How had the media missed it? The field settled on an explanation: America&#8217;s elite newsrooms had overlooked middle America and neglected rural areas. Journalists misunderstood the zeitgeist. Listening became the new mantra. Employ journalists living in the heartland. Spend time in flyover country.... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/meeting-people-where-they-are-2/>
+
+---
+
+## Inviting — and making sense of — meaningful participation
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+It&#8217;s hardly revelatory that journalism does not reside at the center of most folks&#8217; lives today. We all now have more access to information, to analysis, and to opinions than at any point in human history, so newsrooms play a less central role on where and how we learn about the world than they did... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/inviting-and-making-sense-of-meaningful-participation/>
+
+---
+
+## People won’t “like” you
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+We&#8217;re heading into Trump: The Sequel and we know how some of this show goes. It will be the same — but different. We know people aren&#8217;t reading; social media is full of algorithmic distractions; silly videos are addicting; and brain rot is real. We know we&#8217;ll be contending with news fatigue and many of... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/people-wont-like-you/>
+
+---
+
+## Getting beyond the fact-check
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+In 2015, when I founded Lupa, Brazil&#8217;s first organization fully dedicated to combating disinformation, &#8220;fake news&#8221; was a niche term, Donald Trump was still a reality TV personality, and fact-checking was virtually unknown in Brazil. Back then, our mission was urgent and clear: uncover falsehoods, expose those responsible for it, and demand accountability. The work... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/getting-beyond-the-fact-check/>
+
+---
+
+## Redesign news infrastructures to build community power
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+After the 2016 presidential election, I left institutional journalism philanthropy, questioning my ability to reinvigorate journalism&#8217;s role in a healthy democracy. Since then, I&#8217;ve explored other avenues on how journalism might inspire in people a sense of self-efficacy — the driving factor for civic engagement. But many people have continued to feel even more hopeless,... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/redesign-news-infrastructures-to-build-community-power/>
+
+---
+
+## Repression of journalism under the guise of fighting antisemitism
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+One of the more unsettling reporting experiences I had this year was reading through the House Committee on Education and the Workforce report on antisemitism on college campuses, released in October. For the 325-page report on pro-Palestine protest activity, the Republican-led committee (the same group responsible for the show trials of U.S. college presidents over... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/repression-of-journalism-under-the-guise-of-fighting-antisemitism/>
+
+---
+
+## Media reform focuses on state and local initiatives
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+No silver bullet will magically solve our democracy crises. But without viable communication and information systems, the long slog toward reconstructing democratic institutions is rendered insurmountable. Any hope of a democratic future requires that we reimagine and rebuild local media infrastructures. What might this look like during Trump 2.0? While federal-level initiatives are mostly nonstarters... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/media-reform-focuses-on-state-and-local-initiatives/>
+
+---
+
+## The quest for diversity evolves
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+When I think about the future of diversity, belonging, equity and inclusion in the journalism industry in these uncertain times, I remind myself it&#8217;s nothing new to those who have studied and been a part of this work that has been going on for more than seven decades. DBEI work has survived being en vogue,... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-quest-for-diversity-evolves/>
+
+---
+
+## Nonprofits step up to hold officials accountable
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+The day after the election, ProPublica editor-in-chief Stephen Engelberg published a detailed article telling readers what to expect from the seven-time Pulitzer Prize-winner during the new administration. &#8220;At ProPublica, our mantra is that we bring the receipts to every story we publish,&#8221; he wrote. &#8220;We are journalists, not leaders of the resistance&#8230;As we have done... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/nonprofits-step-up-to-hold-officials-accountable/>
+
+---
+
+## Editorially anchored communities
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+Hegel, the German philosopher, had a theory of what drives history: conflict between the status quo and a new challenge, resolving (sometimes after much sturm und drang) into a stable synthesis. In 2025, I predict that the journalistic status quo and the challengers of digital social media will begin to resolve — into editorially anchored... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/editorially-anchored-communities/>
+
+---
+
+## Listening to the quiet majority
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+In the summer of 2016, a chance encounter while walking through downtown Manhattan provided an unexpected lens into the fractured dynamics of American politics and our state of civil discourse. I was engaged in a discussion about the election with a friend when a middle-aged white man approached us, two Black men, and politely asked... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/listening-to-the-quiet-majority/>
+
+---
+
+## El año de las luciérnagas del periodismo comunitario
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+[Click here for English version.] Soy latina, mexicana, migrante y fronteriza&#8230; y desde el 1 de noviembre también ciudadana estadounidense. Tardé 18 años. Fue un camino largo, doloroso y costoso. Fue una travesía de silencios, como los muchos que adoquinan el tan prostituido término del &#8220;sueño americano&#8221;. Regué las flores que hoy huelo con muchas... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/el-ano-de-las-luciernagas-del-periodismo-comunitario/>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-12-18 15:46:49
+updated: 2024-12-19 07:05:17
 ---
 
 # libraries
 
-(date: 2024-12-18 15:46:49)
+(date: 2024-12-19 07:05:17)
 
 ---
 
@@ -18,6 +18,44 @@ Llamas-Dios, Marta Inés; Jiménez-Gavilán, Pablo; Corada-Fernández, Carmen; O
 <br> 
 
 <http://hdl.handle.net/20.500.11850/708431>
+
+---
+
+## Once It Has Been Trained, Who Will Own My Digital Twin?
+
+date: 2024-12-19, from: Scholarly Kitchen
+
+<p>Generative AI agents have the possibility to make us more productive, but once trained, who will own and control it?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/12/19/once-it-has-been-trained-who-will-own-my-digital-twin/">Once It Has Been Trained, Who Will Own My Digital Twin?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/12/19/once-it-has-been-trained-who-will-own-my-digital-twin/>
+
+---
+
+## Clarivate Integrates ROR
+
+date: 2024-12-18, from: ROR Research ID Blog
+
+We are pleased to announce that Web of Science Core Collection™ now includes Research Organization Registry (ROR) identifiers. Users of the Web of Science™ can search for publications associated with an institution by using a ROR ID, and ROR IDs are available in organization profiles. 
+
+<br> 
+
+<https://ror.org/blog/2024-12-18-clarivate-integrates-ror/>
+
+---
+
+## Brewster’s Millions, by George Barr McCutcheon
+
+date: 2024-12-18, from: Standard Ebooks, new releaases
+
+A young man stands to gain a fortune—but only if he loses one first. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/george-barr-mccutcheon/brewsters-millions>
 
 ---
 

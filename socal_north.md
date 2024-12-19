@@ -1,11 +1,243 @@
 ---
 title: socal north
-updated: 2024-12-18 15:46:47
+updated: 2024-12-19 07:05:14
 ---
 
 # socal north
 
-(date: 2024-12-18 15:46:47)
+(date: 2024-12-19 07:05:14)
+
+---
+
+## Best things to do this weekend in Los Angeles and Southern California: December 20 - 22
+
+date: 2024-12-19, updated: 2024-12-19, from: The LAist
+
+A holiday movie double-header, Smorgasburg L.A.’s last weekend of the year, Kate Berlant at the Largo, and more of the best things to do. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-los-angeles-southern-california-december-20-22>
+
+---
+
+## Teen internships pave a pathway to careers — and belonging — in science
+
+date: 2024-12-19, updated: 2024-12-19, from: The LAist
+
+For more than 30 years, the California Science Center has worked to build a pathway for local teens to pursue careers in science, technology, engineering and mathematics. 
+
+<br> 
+
+<https://laist.com/news/education/california-science-center-teen-high-school-internship-program-stem-career-pathways>
+
+---
+
+## Mostly sunny skies with mild temperatures
+
+date: 2024-12-19, updated: 2024-12-19, from: The LAist
+
+Still warm but no strong Santa Ana winds today. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/mostly-sunny-skies-with-mild-temperatures>
+
+---
+
+## How Andrew Do involved his second daughter in fraud scandal
+
+date: 2024-12-19, updated: 2024-12-19, from: The LAist
+
+Besides Rhiannon Do, Andrew Do’s other daughter received $100,000 in stolen taxpayer money, according to his plea deal. 
+
+<br> 
+
+<https://laist.com/news/politics/how-andrew-do-involved-his-second-daughter-in-fraud-scandal>
+
+---
+
+## El Sorteo y Festival de Juguetes ‘Pacoima Holiday in the Park’ Trae Grandes Sonrisas
+
+date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="730" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?fit=1024%2C730&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?w=1536&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=300%2C214&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=1024%2C730&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=768%2C548&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=1200%2C855&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=400%2C285&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=706%2C503&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?fit=1024%2C730&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A partir de las 6:00 a.m., las familias comenzaron a hacer fila en las aceras afuera del Parque Recreativo David Gonzales en Pacoima para el tercer sorteo anual de juguetes, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/18/el-sorteo-y-festival-de-juguetes-pacoima-holiday-in-the-park-trae-grandes-sonrisas/">El Sorteo y Festival de Juguetes &#8216;Pacoima Holiday in the Park&#8217; Trae Grandes Sonrisas</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/18/el-sorteo-y-festival-de-juguetes-pacoima-holiday-in-the-park-trae-grandes-sonrisas/>
+
+---
+
+## ¿Bolsa de Regalo? ¿Qué Bolsa de Regalo?
+
+date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="780" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?fit=780%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?resize=229%2C300&amp;ssl=1 229w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?resize=780%2C1024&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?resize=768%2C1008&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?resize=400%2C525&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?resize=706%2C926&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?fit=780%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Siempre me encantó bromear con mi papá que si buscabas la palabra “frugal”, ¡su foto estaría sonriendo justo al lado! Es solo un recordatorio divertido de lo ingenioso e inteligente [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/18/bolsa-de-regalo-que-bolsa-de-regalo/">¿Bolsa de Regalo? ¿Qué Bolsa de Regalo?</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/18/bolsa-de-regalo-que-bolsa-de-regalo/>
+
+---
+
+## Horóscopo
+
+date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) El mundo natural proporciona todo el entorno que necesitas. Te sumergirás de cabeza en el movimiento y la [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/18/horoscopo-194/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/18/horoscopo-194/>
+
+---
+
+## EVENTOS Locales – Semana de 19 de diciembre, 2024
+
+date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Sábado, Diciembre 21 Trek Santa Clarita Paseo de las Luces Navideñas Trek Bicycle Santa Clarita 26625 Bouquet Canyon Rd. Santa Clarita 6:30 p.m. – 8:30 p.m. Decora tu bicicleta con [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/18/eventos-locales-semana-de-19-de-diciembre-2024/">EVENTOS Locales &#8211; Semana de 19 de diciembre, 2024</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/18/eventos-locales-semana-de-19-de-diciembre-2024/>
+
+---
+
+## El Accidente de Atropello y Fuga Que Mató a un Peatón en Arleta aún está Bajo Investigación
+
+date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="720" height="405" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?fit=720%2C405&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?w=720&amp;ssl=1 720w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?fit=720%2C405&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>En la víspera del Día de Acción de Gracias, Frank Padilla estaba cruzando la intersección de Terra Bella Street y Dorrington Avenue en Arleta cuando ocurrió una tragedia: un Dodge [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/18/el-accidente-de-atropello-y-fuga-que-mato-a-un-peaton-en-arleta-aun-esta-bajo-investigacion/">El Accidente de Atropello y Fuga Que Mató a un Peatón en Arleta aún está Bajo Investigación</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/18/el-accidente-de-atropello-y-fuga-que-mato-a-un-peaton-en-arleta-aun-esta-bajo-investigacion/>
+
+---
+
+## La Escuela Preparatoria de San Fernando Recibe un Nuevo Auto de Galpin Ford para el Programa Automotriz
+
+date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La semana pasada, el programa de Tecnología Automotriz de la Escuela Secundaria San Fernando (SFHS) recibió un Ford Explorer 2023 de Ford Motor Company y Galpin Ford Dealership, para ayudar [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/18/la-escuela-preparatoria-de-san-fernando-recibe-un-nuevo-auto-de-galpin-ford-para-el-programa-automotriz/">La Escuela Preparatoria de San Fernando Recibe un Nuevo Auto de Galpin Ford para el Programa Automotriz</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/18/la-escuela-preparatoria-de-san-fernando-recibe-un-nuevo-auto-de-galpin-ford-para-el-programa-automotriz/>
+
+---
+
+## Caballos Rampantes, Bandas de Música y Lowriders Regresan para el 57º Desfile Anual de Pacoima
+
+date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=1536%2C1156&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=2048%2C1542&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=1200%2C903&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=1568%2C1180&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=2000%2C1506&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Continuando con la tradición de difundir la alegría de la temporada y mostrar el orgullo de su comunidad de base, Pacoima celebró su 57º Desfile Navideño Anual el sábado 14 [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/18/caballos-rampantes-bandas-de-musica-y-lowriders-regresan-para-el-57o-desfile-anual-de-pacoima/">Caballos Rampantes, Bandas de Música y Lowriders Regresan para el 57º Desfile Anual de Pacoima</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/18/caballos-rampantes-bandas-de-musica-y-lowriders-regresan-para-el-57o-desfile-anual-de-pacoima/>
+
+---
+
+## El Aeropuerto de Van Nuys Invita a la Comunidad al Aeródromo para el Vuelo Anual de Santa Claus
+
+date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1009" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?fit=1009%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=296%2C300&amp;ssl=1 296w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=1009%2C1024&amp;ssl=1 1009w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=768%2C779&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=1514%2C1536&amp;ssl=1 1514w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=1200%2C1218&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=1568%2C1591&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=400%2C406&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=706%2C716&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?fit=1009%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>an típica, una fila de niños ansiosos saludaba y vitoreaba mientras Papá Noel volaba sobre sus cabezas en lo más parecido a un trineo, un pequeño avión de cuatro plazas. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/18/el-aeropuerto-de-van-nuys-invita-a-la-comunidad-al-aerodromo-para-el-vuelo-anual-de-santa-claus/">El Aeropuerto de Van Nuys Invita a la Comunidad al Aeródromo para el Vuelo Anual de Santa Claus</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/18/el-aeropuerto-de-van-nuys-invita-a-la-comunidad-al-aerodromo-para-el-vuelo-anual-de-santa-claus/>
+
+---
+
+## Campeón Juvenil de Kickboxing del Valle de San Fernando Logra Otra Victoria
+
+date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/20241214_H24A1292.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/20241214_H24A1292.jpeg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/20241214_H24A1292.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/20241214_H24A1292.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/20241214_H24A1292.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/20241214_H24A1292.jpeg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/20241214_H24A1292.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/20241214_H24A1292.jpeg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/20241214_H24A1292.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/20241214_H24A1292.jpeg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/20241214_H24A1292.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/20241214_H24A1292.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/20241214_H24A1292.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/20241214_H24A1292.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La multitud rugió cuando el joven de 15 años del Valle de San Fernando, Jermaine Soto Jr. “Triple J”, levantó victoriosamente sus puños en el aire. El pasado sábado 14 [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/18/campeon-juvenil-de-kickboxing-del-valle-de-san-fernando-logra-otra-victoria/">Campeón Juvenil de Kickboxing del Valle de San Fernando Logra Otra Victoria</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/18/campeon-juvenil-de-kickboxing-del-valle-de-san-fernando-logra-otra-victoria/>
+
+---
+
+## Tony Cárdenas es Homenajeado por el Concejo Municipal de Los Ángeles al Retirarse de Su Cargo Público
+
+date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="623" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241213_195658571.MP_-scaled-e1734585982489.jpg?fit=1024%2C623&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241213_195658571.MP_-scaled-e1734585982489.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241213_195658571.MP_-scaled-e1734585982489.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241213_195658571.MP_-scaled-e1734585982489.jpg?fit=1024%2C623&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241213_195658571.MP_-scaled-e1734585982489.jpg?fit=1024%2C623&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Después de casi tres décadas de servicio público, el congresista Tony Cárdenas fue honrado en las cámaras del Concejo Municipal de Los Ángeles con una resolución por sus logros, ya [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/18/tony-cardenas-es-homenajeado-por-el-concejo-municipal-de-los-angeles-al-retirarse-de-su-cargo-publico/">Tony Cárdenas es Homenajeado por el Concejo Municipal de Los Ángeles al Retirarse de Su Cargo Público</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/18/tony-cardenas-es-homenajeado-por-el-concejo-municipal-de-los-angeles-al-retirarse-de-su-cargo-publico/>
+
+---
+
+## Malibu’s Franklin Fire is now completely contained
+
+date: 2024-12-19, updated: 2024-12-19, from: The LAist
+
+Dozens of structures were damaged or destroyed by the more than 4,000-acre blaze. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/malibus-franklin-fire-is-now-completely-contained>
+
+---
+
+## State of emergency issued over bird flu after infected cows found in SoCal
+
+date: 2024-12-19, updated: 2024-12-19, from: The LAist
+
+The declaration comes after infected cows were found at four Southern California dairies. 
+
+<br> 
+
+<https://laist.com/news/health/california-bird-flu-emergency-newsom-dairy-milk-h5n1>
+
+---
+
+## FBI searches home of LA deputy mayor in connection with City Hall bomb threat
+
+date: 2024-12-19, updated: 2024-12-19, from: The LAist
+
+The LAPD called deputy mayor of public safety Brian Williams the "likely" source of the threat. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/fbi-searches-la-deputy-mayor-home-bomb-threat>
 
 ---
 
@@ -117,6 +349,18 @@ Warmest temperatures of the week
 
 ---
 
+## Public employees often must disclose outside income and gifts to the public. Why aren’t top LA homelessness officials?
+
+date: 2024-12-18, updated: 2024-12-19, from: The LAist
+
+Out of hundreds of employees at the L.A. Homeless Services Authority, only the CEO currently files state-mandated disclosure forms meant to flag potential conflicts of interest, according to an LAist review of records. State officials say they will be looking into the issue after LAist brought it to their attention. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/lahsa-financial-disclosure-form-700-transparency>
+
+---
+
 ## Pepperdine University survived the Franklin Fire and other devastating blazes. Campus officials aren’t surprised
 
 date: 2024-12-18, updated: 2024-12-18, from: The LAist
@@ -138,18 +382,6 @@ Students will receive the payments for one year. The program aims to bridge the 
 <br> 
 
 <https://laist.com/news/education/how-la-college-students-are-using-monthly-guaranteed-income>
-
----
-
-## Public employees often must disclose outside income and gifts to the public. Why aren’t top LA homelessness officials?
-
-date: 2024-12-18, updated: 2024-12-18, from: The LAist
-
-Out of hundreds of employees at the L.A. Homeless Services Authority, only the CEO currently files state-mandated disclosure forms meant to flag potential conflicts of interest, according to an LAist review of records. State officials say they will be looking into the issue after LAist brought it to their attention. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/lahsa-financial-disclosure-form-700-transparency>
 
 ---
 
@@ -246,6 +478,18 @@ Dry weather and the city’s dewatering efforts have contributed to the slowdown
 <br> 
 
 <https://laist.com/news/climate-environment/rancho-palos-verdes-land-movement-slows>
+
+---
+
+## 'Love Is Blind' cast are employees, labor board says. Could a reality TV union be next?
+
+date: 2024-12-17, updated: 2024-12-17, from: The LAist
+
+A pending ruling, whatever the outcome, would set a precedent that other unscripted TV cast members could follow. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/love-is-blind-cast-employees-labor-board-union-reality-tv>
 
 ---
 

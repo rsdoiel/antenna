@@ -1,11 +1,91 @@
 ---
 title: food
-updated: 2024-12-18 15:46:50
+updated: 2024-12-19 07:05:18
 ---
 
 # food
 
-(date: 2024-12-18 15:46:50)
+(date: 2024-12-19 07:05:18)
+
+---
+
+## Keto Fried Chicken
+
+date: 2024-12-19, from: Taste of Home
+
+Who says you need wheat flour to make crispy fried chicken? We coat our keto fried chicken with a flavorful combination of almond flour, Parmesan cheese and savory seasonings. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/keto-fried-chicken/>
+
+---
+
+## Is The White Lotus x Coffee Mate Collaboration The Worst Coffee Brand Plug Of All Time?
+
+date: 2024-12-19, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. These Mates, they're trying to murder me. 
+
+<br> 
+
+<https://sprudge.com/is-the-white-lotus-x-coffee-mate-collaboration-the-worst-coffee-brand-plug-of-all-time-262635.html>
+
+---
+
+## Taste of Home January 2025 Bakeable Drawing (#323) Official Rules
+
+date: 2024-12-19, from: Taste of Home
+
+<p>NO PURCHASE OR PAYMENT OF ANY KIND IS NECESSARY TO ENTER OR WIN. PURCHASE WILL NOT IMPROVE AN ENTRY’S CHANCE</p>
+<p>The post <a href="https://www.tasteofhome.com/taste-of-home-january-2025-bakeable-drawing-323-official-rules/">Taste of Home January 2025 Bakeable Drawing (#323) Official Rules</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/taste-of-home-january-2025-bakeable-drawing-323-official-rules/>
+
+---
+
+## Roasted Garlic Asiago Dip
+
+date: 2024-12-19, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2024/12/Roasted-Garlic-Asiago-Dip-1200-0705.jpg"/></div>
+<p>A hot melted cheese dip with 3 kinds of cheese, including asiago, along with 5 heads of mellow roasted garlic! Roasting garlic changes it from something that is sharp and pungent into something that is soft, creamy, mellow and all sorts of good; the perfect flavour for a hot melted cheese dip! This recipe starts...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/roasted-garlic-asiago-dip/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/roasted-garlic-asiago-dip/">Roasted Garlic Asiago Dip</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/roasted-garlic-asiago-dip/>
+
+---
+
+## Tennessee Onions
+
+date: 2024-12-19, from: Taste of Home
+
+Tennessee onions are hands down the best topping for burgers ever—although these sweet and tender onions can be a tasty side dish, too. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tennessee-onions/>
+
+---
+
+## You Too Can Make Sabrina Carpenter’s Easy (and Adorable) Christmas Cookies
+
+date: 2024-12-18, from: Taste of Home
+
+<p>The pop star shared her recipe on TikTok, and we're all about the red and green M&#038;M's.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/sabrina-carpenter-christmas-cookies/">You Too Can Make Sabrina Carpenter&#8217;s Easy (and Adorable) Christmas Cookies</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/sabrina-carpenter-christmas-cookies/>
 
 ---
 
@@ -112,6 +192,18 @@ date: 2024-12-18, from: The Sprudge
 <br> 
 
 <https://sprudge.com/the-best-sprudge-stories-of-2024-featuring-buzzy-the-bean-and-spesh-l-tee-262554.html>
+
+---
+
+## How to Make a Charcuterie Board
+
+date: 2024-12-18, from: Taste of Home
+
+A perfectly arranged spread of meat, cheese, crackers and condiments is irresistible at any gathering. Here's everything you need to know about how to make a charcuterie board. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/how-to-make-a-charcuterie-board-recipe/>
 
 ---
 

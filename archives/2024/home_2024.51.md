@@ -1,11 +1,59 @@
 ---
 title: home
-updated: 2024-12-18 15:46:49
+updated: 2024-12-19 07:05:17
 ---
 
 # home
 
-(date: 2024-12-18 15:46:49)
+(date: 2024-12-19 07:05:17)
+
+---
+
+## 5 New Holiday Decor Trends to Style Your House for the Season
+
+date: 2024-12-19, from: Sunset Magazine - Living in the West
+
+Rolling Greens shares its holiday trend forecast with 5 dazzling decor ideas and the plant pairings that will bring them to life. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/holiday-trend-decor-styling-ideas>
+
+---
+
+## Here’s the Secret to a Holiday Wreath That Won’t Wither, Plus Other Winter Decor Tips
+
+date: 2024-12-19, from: Sunset Magazine - Living in the West
+
+This holiday season, create a wreath that lasts forever with foraged and unique items. An author and expert shows us how. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects/holiday-wreath-tips>
+
+---
+
+## These Were the Best (and Worst) Design Trends of 2024
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+We're reflecting on the interior design trends that shaped this past year. Design experts share the trends they loved and hated. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/best-and-worst-design-trends-of-2024>
+
+---
+
+## This Passive House Was Built to Withstand Harsh Montana Winters
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+A Montana house was built with the tenets of Passive House design in mind. Now it can withstand freezing winters with minimal energy use. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/montana-passive-house-design>
 
 ---
 
@@ -198,6 +246,18 @@ Share simple, spicy stews and flatbread, Ethiopian-style
 <br> 
 
 <https://www.sunset.com/food-wine/entertaining/finger-food-feast>
+
+---
+
+## This Is What You’re Doing Wrong When Visiting Hot Springs
+
+date: 2024-12-18, from: Sunset Magazine - Living in the West
+
+Hot springs are the best place to recover weary muscles in the winter. Here are the basic rules to follow when soaking. 
+
+<br> 
+
+<https://www.sunset.com/travel/rules-hot-springs-travel>
 
 ---
 
@@ -617,18 +677,6 @@ According to a handful of buzzy California hotels, the coolest amenity isn't a p
 
 ---
 
-## This Passive House Was Built to Withstand Harsh Montana Winters
-
-date: 2024-12-16, from: Sunset Magazine - Living in the West
-
-A Montana house was built with the tenets of Passive House design in mind. Now it can withstand freezing winters with minimal energy use. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/montana-passive-house-design>
-
----
-
 ## These Paint Colors Will Be Trending in 2025
 
 date: 2024-12-16, from: Sunset Magazine - Living in the West
@@ -742,18 +790,6 @@ A wintertime road trip in Alberta reveals wide, open spaces, fewer crowds, and i
 <br> 
 
 <https://www.sunset.com/travel/canada/canadian-rockies-winter-roadtrip>
-
----
-
-## Here’s the Secret to a Holiday Wreath That Won’t Wither, Plus Other Winter Decor Tips
-
-date: 2024-12-15, from: Sunset Magazine - Living in the West
-
-This holiday season, create a wreath that lasts forever with foraged and unique items. An author and expert shows us how. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/diy-projects/holiday-wreath-tips>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: health
-updated: 2024-12-18 15:46:50
+updated: 2024-12-19 07:05:18
 ---
 
 # health
 
-(date: 2024-12-18 15:46:50)
+(date: 2024-12-19 07:05:18)
+
+---
+
+## Diagnosis and insight into the unique lung microbiota of pediatric pulmonary tuberculosis patients by bronchoalveolar lavage using metagenomic next-generation sequencing
+
+date: 2024-12-19, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundAlthough previous studies have reported the dysregulation of respiratory tract microbiota in infectious diseases, insufficient data exist regarding respiratory microbiota imbalances in the lower respiratory tracts of children with pulmonary tuberculosis (PTB). In this study, we assessed the value of mNGS in the pathogen diagnosis and microbiome analysis of PTB patients using bronchoalveolar lavage fluid (BALF) samples.MethodsA total of 64 participants, comprising 43 pediatric PTB and 21 pediatric pneumonia patients were recruited in the present study. BALF samples were collected from the above participants. Parallel comparisons between mNGS and conventional microbial test (CMT) pathogen detection were performed. Moreover, the diversity and structure of all 64 patients’ lung BALF microbiomes were explored using the mNGS data.ResultsComparing to the final clinical diagnosis, mNGS in BALF samples produced a sensitivity of 46.51%, which was lower than that of TB-PCR (55.00%) and Xpert (55.00%). The diagnostic efficacy of PTB can be highly enhanced by mNGS combined with TB-PCR (AUC=0.8140, P<0.0001). There were no significant differences in the diversity either between patients with TB and pneumonia. Positive mNGS pathogen results in pediatric PTB patients significantly affect the β-diversity of the pulmonary microbiota. In addition, significant taxonomic differences were found in BALF specimens from patients with PTB and pneumonia, both of which have unique bacterial compositions.ConclusionsmNGS is valuable in the etiological diagnosis of PTB, and can reveal pulmonary microecological characteristics. For pediatric PTB patients, the mNGS should be implemented early and complementary to CMTs. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1492881>
+
+---
+
+## Editorial: Factors associated with drug resistance and virulence of Mycobacterium tuberculosis
+
+date: 2024-12-19, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1504923>
 
 ---
 

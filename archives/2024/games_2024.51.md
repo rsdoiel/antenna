@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2024-12-18 15:46:48
+updated: 2024-12-19 07:05:16
 ---
 
 # games
 
-(date: 2024-12-18 15:46:48)
+(date: 2024-12-19 07:05:16)
+
+---
+
+## The 25 best PlayStation 5 games
+
+date: 2024-12-19, updated: 2024-12-19, from: Polygon Website
+
+What are the best games on PlayStation 5? Now that supply issues are over, Sony’s latest console is flying off shelves, while its library of games rapidly fills up. New and old PS5 owners will be wondering what to play, so here’s our living list of the best video games available on the platform, to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5>
+
+---
+
+## Leak suggests Switch 2 has Hall-effect sticks, is more powerful docked
+
+date: 2024-12-19, updated: 2024-12-19, from: Polygon Website
+
+The rate of leaks about Nintendo’s next console is intensifying — although the same can’t necessarily be said of genuinely new information emerging from those leaks. However, a particularly substantive report has emerged from Reddit user NextHandheld, who claims to have seen and handled a “final release” version of the console and its dock, albeit [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/499591/switch-2-dock-joy-con-hall-effect-name-leak>
+
+---
+
+## James Gunn’s Superman trailer reveals the start of a new DC Universe
+
+date: 2024-12-19, updated: 2024-12-19, from: Polygon Website
+
+Warner Bros.’ first trailer for 2025’s Superman arrived on Thursday, and it gives fans a look at David Corenswet as Superman, Rachel Brosnahan as Lois Lane, Nicholas Hoult as Lex Luthor, and lots and lots of people looking up at the sky. It’s been almost two years since Guardians of the Galaxy and The Suicide [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/491088/superman-teaser-james-gunn-krypto-mister-terrific>
 
 ---
 

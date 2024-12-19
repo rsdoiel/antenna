@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2024-12-18 15:46:47
+updated: 2024-12-19 07:05:15
 ---
 
 # science and technology
 
-(date: 2024-12-18 15:46:47)
+(date: 2024-12-19 07:05:15)
+
+---
+
+## 55 Years Ago: Apollo 13, Preparations for the Third Moon Landing
+
+date: 2024-12-19, from: NASA breaking news
+
+As 1969, an historic year that saw not just one but two successful human lunar landings, drew to a close, NASA continued preparations for its planned third Moon landing mission, Apollo 13, then scheduled for launch on March 12, 1970. The Apollo 13 prime crew of Commander James A. Lovell, Command Module Pilot (CMP) Thomas [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/55-years-ago-apollo-13-preparations-for-the-third-moon-landing/>
+
+---
+
+## Apple and Meta trade barbs over interoperability requests
+
+date: 2024-12-19, updated: 2024-12-19, from: The Register (UK I.T. News)
+
+<h4>Both are only thinking about the best interests of users, of course</h4> <p>The European Commission (EC) has continued pushing Apple to open up more of iOS to third parties, and Apple has pushed back, warning that doing so risks user privacy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/19/apple_meta_interoperability/>
+
+---
+
+## NASA, Axiom Space Change Assembly Order of Commercial Space Station
+
+date: 2024-12-19, from: NASA breaking news
+
+In coordination with NASA, Axiom Space modified its planned assembly sequence to accelerate its ability to operate as a viable free-flying space station and reduce International Space Station reliance during assembly. NASA awarded Axiom Space a firm-fixed price, indefinite-delivery, indefinite-quantity contract in January 2020, as the agency continues to open the space station for commercial [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-axiom-space-change-assembly-order-of-commercial-space-station/>
+
+---
+
+## Watchdog deep-sixes job ad that was actually pay-to-play training course
+
+date: 2024-12-19, updated: 2024-12-19, from: The Register (UK I.T. News)
+
+<h4>Misleading listing on a recruitment site? Whatever next?</h4> <p>The UK Advertising Standards Authority (ASA) has slapped IT Career Change Ltd on the wrist over a September 2024 ad promoting a career in Health &amp; Safety.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/19/asa_it_career_change/>
+
+---
+
+## 'A Christmas Carol' Marvelously Captured the Holiday's Victorian Spirit and Inspired New Traditions for Centuries to Come
+
+date: 2024-12-19, from: Smithsonian Magazine
+
+Published on this day in 1843, at a time when Christmas was undergoing great transformation, Charles Dickens' novel centered the virtues of kindness, charity and reform 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-christmas-carol-marvelously-captured-the-holidays-victorian-spirit-and-inspired-new-traditions-for-centuries-to-come-180985649/>
+
+---
+
+## Asda decided on a 'no go' for 'mass rollout' of store IT conversion
+
+date: 2024-12-19, updated: 2024-12-19, from: The Register (UK I.T. News)
+
+<h4>Amid plans to convert smaller stores, retailer opted to stall December shift as Walmart tech divorce continues</h4> <p><strong>Exclusive</strong>  Asda decided not to go ahead with planned cut-over dates to introduce new systems at some smaller stores earlier this month as part of its technical divorce from Walmart, the previous owner of the UK&#39;s third-largest supermarket.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/19/asda_tech_rollout/>
+
+---
+
+## Humanoid robots coming soon, initially under remote control
+
+date: 2024-12-19, updated: 2024-12-19, from: The Register (UK I.T. News)
+
+<h4>Dodgy AI chatbots as brains – what could go wrong?</h4> <p><strong>Feature</strong>  The first telephone call in 1876 was marked by Alexander Graham Bell&#39;s request to his assistant, Thomas, &#34;Mr. Watson, come here. I want to see you.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/19/humanoid_robots_remote_contral/>
+
+---
+
+## Don't fall for a mail asking for rapid Docusign action – it may be an Azure account hijack phish
+
+date: 2024-12-19, updated: 2024-12-19, from: The Register (UK I.T. News)
+
+<h4>Recent campaign targeted 20,000 folk across UK and Europe with this tactic, Unit 42 warns</h4> <p>Unknown criminals went on a phishing expedition that targeted about 20,000 users across the automotive, chemical and industrial compound manufacturing sectors in Europe, and tried to steal account credentials and then hijack the victims&#39; Microsoft Azure cloud infrastructure.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/19/docusign_lure_azure_account_takeover/>
+
+---
+
+## Fear of Foxconn reportedly driving possible Nissan, Honda and Mitsubishi merger
+
+date: 2024-12-19, updated: 2024-12-19, from: The Register (UK I.T. News)
+
+<h4>The EV race is well and truly running, and no-one wants to be left in the dust</h4> <p>The automotive industry has been shaken this week by news that giant Japanese carmakers Nissan and Honda are contemplating a merger, with Mitsubishi Motors apparently keen to become part of the mix.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/19/foxconn_nissan_honda_merger_acquisition/>
+
+---
+
+## Thanks again to our outgoing sponsor: OS-SCi
+
+date: 2024-12-19, from: OS News
+
+We&#8217;re grateful for our weekly sponsor, OpenSource Science B.V., an educational institution focused on Open Source software. OS-SCi is training the next generation FOSS engineers, by using Open Source technologies and philosophy in a project learning environment. One final reminder: OS-SCi is offering OSNews readers a free / gratis online masterclass by Prof. Ir. Erik Mols on how the proprietary ecosystem is killing itself. This is a live event, on January 9, 2025 at 17:00 PM CET. Sign up here. 
+
+<br> 
+
+<https://www.osnews.com/story/141124/os-sci-this-weeks-sponsor/>
+
+---
+
+## POSIX conformance testing for the Redox signals project
+
+date: 2024-12-19, from: OS News
+
+The Redox team has received a grant from&#160;NLnet&#160;to develop&#160;Redox OS Unix-style Signals, moving the bulk of signal management to userspace, and making signals more consistent with the POSIX concepts of signaling for processes and threads. It also includes Process Lifecycle and Process Management aspects. As a part of that project, we are developing tests to verify that the new functionality is in reasonable compliance with the POSIX.1-2024 standard. This report describes the state of POSIX conformance testing, specifically in the context of Signals. ↫ Ron Williams This is the kind of dry, but important matter a select few of you will fawn over. Consider it my Christmas present for you. There&#8217;s also a shorter update on the dynamic linker in Redox, which also goes into some considerable detail about how it works, and what progress has been made. 
+
+<br> 
+
+<https://www.osnews.com/story/141377/posix-conformance-testing-for-the-redox-signals-project/>
+
+---
+
+## Supreme Court to hear TikTok's appeal against law that would force it to shut, or sell
+
+date: 2024-12-19, updated: 2024-12-19, from: The Register (UK I.T. News)
+
+<h4>Will consider free speech arguments just nine days before the clock runs out</h4> <p>The US Supreme Court has decided to consider made-in-China social network TikTok&#39;s appeal against the law that requires it to shift to local ownership, or close, by January 19.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/19/tiktok_supreme_court_petition_allowed/>
 
 ---
 
@@ -239,9 +383,9 @@ This new image of star cluster NGC 602, released on Dec. 17, 2024, combines data
 
 ## Microsoft won't let customers opt out of passkey push
 
-date: 2024-12-18, updated: 2024-12-18, from: The Register (UK I.T. News)
+date: 2024-12-18, updated: 2024-12-19, from: The Register (UK I.T. News)
 
-<h4>Enrolment invitations will continue until security improves</h4> <p>Microsoft last week lauded the success of its efforts to convince customers to use passkeys instead of passwords, without actually quantifying that success.…</p> 
+<h4>Enrollment invitations will continue until security improves</h4> <p>Microsoft last week lauded the success of its efforts to convince customers to use passkeys instead of passwords, without actually quantifying that success.…</p> 
 
 <br> 
 

@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-12-18 15:46:50
+updated: 2024-12-19 07:05:18
 ---
 
 # craft
 
-(date: 2024-12-18 15:46:50)
+(date: 2024-12-19 07:05:18)
+
+---
+
+## Holiday Shutdown: Dec. 24 – Jan. 1
+
+date: 2024-12-19, from: Lost Arg Press blog
+
+Our fulfillment center and storefront will be closed from Dec. 24 to Jan. 1. So any online orders placed during that time will not ship until we return from the break. So if you want a book or tool shipped out before the end of the year, please place your order before Dec. 23. The... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/19/holiday-shutdown-dec-25-jan-1/>
 
 ---
 

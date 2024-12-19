@@ -1,11 +1,47 @@
 ---
 title: columns
-updated: 2024-12-18 15:46:48
+updated: 2024-12-19 07:05:15
 ---
 
 # columns
 
-(date: 2024-12-18 15:46:48)
+(date: 2024-12-19 07:05:15)
+
+---
+
+## Can the Muskrat shut the United States government?
+
+date: 2024-12-19, from: Robert Reich's blog
+
+Sure looks that way. The richest person in the world has turned his wealth into raw power. That's what oligarchy looks like. 
+
+<br> 
+
+<https://robertreich.substack.com/p/can-the-muskrat-shut-the-united-states>
+
+---
+
+## December 18, 2024
+
+date: 2024-12-19, from: Heather Cox Richardson blog
+
+Yesterday, Representative Barry Loudermilk (R-GA) released an &#8220;Interim Report on the Failures and Politicization of the January 6th Select Committee.&#8221; As the title suggests, the report seeks to rewrite what happened on January 6, 2021, when rioters encouraged by former president Donald Trump attacked the U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-18-2024>
+
+---
+
+## ‘Silo’ Renewed for Two Additional Seasons
+
+date: 2024-12-19, updated: 2024-12-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://variety.com/2024/tv/news/silo-renewed-season-3-ending-season-4-1236249072/>
 
 ---
 
@@ -168,7 +204,7 @@ date: 2024-12-18, updated: 2024-12-18, from: Daring Fireball
 
 **@Dave Winer's Scripting News** (date: 2024-12-18, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/10/10/ronaldMcGrimace.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've got a new project called <a href="https://github.com/scripting/davegpt">davegpt</a>, it's in GitHub, open source of course. I also created a ChatGPT project with the same code (new feature introduced on Monday). Presumably I can ask it questions about the code. Because I have a <a href="https://github.com/scripting/davegpt/blob/main/worknotes.md">worknotes.md</a> file in the GitHub project, ChatGPT understands where I want to take this project. Most amazing, it wrote a <a href="https://github.com/scripting/davegpt/blob/main/gptnotes.md">summary</a> of what it saw in the project. I <a href="https://github.com/scripting/davegpt/blob/main/gptnotes.md">added that</a> to the GitHub project, of course, and since it was in Markdown, it fit right in with no mods. The power of standards. I love it when things that should work, do. The next step is to implement a feature in the new Bingeworthy that can only be done with an AI bot like ChatGPT. It's such a thrill to be working on this stuff as it's happening. And what a delight that it has an API. I don't mind that I'm paying for it, I love the idea of paying to break down walls to create new things that couldn't have been created before. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/14/julieAndrews.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've got a new project called <a href="https://github.com/scripting/davegpt">davegpt</a>, it's in GitHub, open source of course. I also created a <a href="https://help.openai.com/en/articles/10169521-using-projects-in-chatgpt">ChatGPT project</a> with the same code. Presumably I can ask it questions about the code. Because I have a <a href="https://github.com/scripting/davegpt/blob/main/worknotes.md">worknotes.md</a> file in the GitHub project, ChatGPT understands where I want to take this project. Most amazing, it wrote a <a href="https://github.com/scripting/davegpt/blob/main/gptnotes.md">summary</a> of what it saw in the project. I <a href="https://github.com/scripting/davegpt/blob/main/gptnotes.md">added that</a> to the GitHub project, of course, and since it was in Markdown, it fit right in with no mods. The power of standards. I love it when things that should work, do. The next step is to implement a feature in the new Bingeworthy that can only be done with an AI bot like ChatGPT. It's such a thrill to be working on this stuff as it's happening. And what a delight that it has an API. I don't mind that I'm paying for it, I love the idea of paying to break down walls to create new things that couldn't have been created before. 
 
 <br> 
 
@@ -178,7 +214,7 @@ date: 2024-12-18, updated: 2024-12-18, from: Daring Fireball
 
 ## MacOS 15.2 Breaks the Ability to Create Bootable Startup Drive Backups
 
-date: 2024-12-18, updated: 2024-12-18, from: Daring Fireball
+date: 2024-12-18, updated: 2024-12-19, from: Daring Fireball
 
  
 
@@ -442,7 +478,7 @@ I prefer a lightweight nonfiction book to a detailed tome. I&#8217;m a dilettant
 
 ## Hacking Digital License Plates
 
-date: 2024-12-17, updated: 2024-12-17, from: Bruce Schneier blog
+date: 2024-12-17, updated: 2024-12-19, from: Bruce Schneier blog
 
 <p>Not everything needs to be digital and &#8220;smart.&#8221; License plates, <a href="https://www.wired.com/story/digital-license-plate-jailbreak-hack/">for example</a>:</p>
 <blockquote><p>Josep Rodriguez, a researcher at security firm IOActive, has revealed a technique to “jailbreak” digital license plates sold by Reviver, the leading vendor of those plates in the US with 65,000 plates already sold. By removing a sticker on the back of the plate and attaching a cable to its internal connectors, he&#8217;s able to rewrite a Reviver plate&#8217;s firmware in a matter of minutes. Then, with that custom firmware installed, the jailbroken license plate can receive commands via Bluetooth from a smartphone app to instantly change its display to show any characters or image...</p></blockquote> 
