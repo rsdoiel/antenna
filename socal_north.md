@@ -1,11 +1,59 @@
 ---
 title: socal north
-updated: 2024-12-20 07:04:57
+updated: 2024-12-20 09:24:25
 ---
 
 # socal north
 
-(date: 2024-12-20 07:04:57)
+(date: 2024-12-20 09:24:25)
+
+---
+
+## Unions make waves across Southern California campuses, learning from each other as they go
+
+date: 2024-12-20, updated: 2024-12-20, from: The LAist
+
+As faculty, graduate students and staff organize for better pay and benefits, they're finding inspiration as they ask "can it work here?" 
+
+<br> 
+
+<https://laist.com/news/education/unions-california-colleges-universities-usc-calarts>
+
+---
+
+## Judge to hear closing arguments in 'OC Snitch Scandal' 2.0
+
+date: 2024-12-20, updated: 2024-12-20, from: The LAist
+
+At stake is a decades-old murder case and whether criminal defendants can be sure of a fair trial in Orange County. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/judge-hearing-closing-arguments-orange-county-snitch-scandal>
+
+---
+
+## A small unit of volunteers helped fight Malibu’s Franklin Fire, here’s how they did it
+
+date: 2024-12-20, updated: 2024-12-20, from: The LAist
+
+After the devastating Woolsey Fire, residents and the fire department teamed up. 
+
+<br> 
+
+<https://laist.com/news/a-small-unit-of-volunteers-helped-fight-malibus-franklin-fire-heres-how-they-did-it>
+
+---
+
+## Starbucks workers say they will start striking at locations in L.A. and two other cities on Friday
+
+date: 2024-12-20, updated: 2024-12-20, from: The LAist
+
+Starbucks and Starbucks Workers United said in February they had come to common ground in moving forward for the rest of the year. 
+
+<br> 
+
+<https://laist.com/news/starbucks-workers-strike-la-seattle-chicago>
 
 ---
 
@@ -18,6 +66,18 @@ SoCal weather will cool down over the weekend and there's a chance of rain on Ch
 <br> 
 
 <https://laist.com/news/climate-environment/partly-cloudy-skies-with-cooler-temperatures>
+
+---
+
+## Legendary LA delis spill their matzo ball soup secrets
+
+date: 2024-12-20, updated: 2024-12-20, from: The LAist
+
+Sinkers, swimmers: how to make the best matzo balls. 
+
+<br> 
+
+<https://laist.com/news/food/la-delis-spill-their-matzo-ball-soup-secrets>
 
 ---
 
@@ -66,18 +126,6 @@ A cultural staple, the tamal helps bring members of the Curiel family together.
 <br> 
 
 <https://laist.com/news/food/tamalada-tradition-mexican-american-family-connected-to-roots>
-
----
-
-## Legendary LA delis spill their matzo ball soup secrets
-
-date: 2024-12-20, updated: 2024-12-20, from: The LAist
-
-Sinkers, swimmers: how to make the best matzo balls. 
-
-<br> 
-
-<https://laist.com/news/food/la-delis-spill-their-matzo-ball-soup-secrets>
 
 ---
 

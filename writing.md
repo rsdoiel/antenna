@@ -1,11 +1,67 @@
 ---
 title: writing
-updated: 2024-12-20 07:04:58
+updated: 2024-12-20 09:24:26
 ---
 
 # writing
 
-(date: 2024-12-20 07:04:58)
+(date: 2024-12-20 09:24:26)
+
+---
+
+## Locus Bestsellers, December
+
+date: 2024-12-20, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+
+<strong>The Locus Bestsellers for September include top titles: Somewhere Beyond the Sea by TJ Klune (Tor), Mistborn by Brandon Sanderson (Tor), </strong><strong>Fourth Wing by Rebecca Yarros (Red Tower), and The Book of Bill by Alex Hirsch (Hyperion Avenue).</strong>
+
+</div>
+<p></p>
+<div class="postcontent">
+
+
+
+
+HARDCOVERS
+Months
+on list
+Last
+month
+
+
+1)
+<strong>Somewhere Beyond the Sea</strong>, TJ Klune (Tor)
+1
+&#8211;
+
+
+2)
+<strong>The Mercy of Gods</strong>, James S.A. Corey (Orbit US)
+2
+2
+
+
+3)
+<strong>The </strong></div> <a href="https://locusmag.com/2024/12/locus-bestsellers-december-4/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/12/locus-bestsellers-december-4/>
+
+---
+
+## At the Fount of Creation by Tobi Ogundiran: Review by Archita Mittra
+
+date: 2024-12-20, from: Locus Magazine
+
+<p><strong>At the Fount of Creation</strong>, Tobi Ogundiran (Tor­dotcom 978-1-25090-803-2, $21.99, 224pp, hc) January 2025.</p>
+<p><strong>At the Fount of Creation </strong>is a thrilling con­clusion to Tobi Ogundiran’s Guardians of the Gods duology, packed with cinematic action and with more deities from the Yoruba pantheon making an appearance. It continues the story of Ashâke, a failed acolyte who is later revealed to be the vessel for the surviving orisha, and is  <a href="https://locusmag.com/2024/12/at-the-fount-of-creation-by-tobi-ogundiran-review-by-archita-mittra/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/at-the-fount-of-creation-by-tobi-ogundiran-review-by-archita-mittra/>
 
 ---
 

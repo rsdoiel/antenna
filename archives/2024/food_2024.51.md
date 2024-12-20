@@ -1,11 +1,49 @@
 ---
 title: food
-updated: 2024-12-20 07:05:00
+updated: 2024-12-20 09:24:28
 ---
 
 # food
 
-(date: 2024-12-20 07:05:00)
+(date: 2024-12-20 09:24:28)
+
+---
+
+## Voting Continues Through The Holidays At The 2nd Annual Sprudge Design Awards
+
+date: 2024-12-20, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Voting is open through January 7, 2025. 
+
+<br> 
+
+<https://sprudge.com/voting-continues-through-the-holidays-at-the-2nd-annual-sprudge-design-awards-262718.html>
+
+---
+
+## I Tried Giada de Laurentiis’ Recipe for Chocolate Pasta
+
+date: 2024-12-20, from: Taste of Home
+
+<p>Have you ever looked at a jar of Nutella and thought, This belongs on pasta? You're not alone. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/giada-de-laurentiis-chocolate-pasta/">I Tried Giada de Laurentiis&#8217; Recipe for Chocolate Pasta</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/giada-de-laurentiis-chocolate-pasta/>
+
+---
+
+## Weekly Coffee News: Comment on Prices + Sustainability Award Nominations
+
+date: 2024-12-20, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-beans-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee beans" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-beans-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-beans-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-beans-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-beans-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-beans.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Fairtrade Foundation Releases Statement on Coffee Prices Max Milward,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/20/weekly-coffee-news-comment-on-prices-sustainability-award-nominations/>
 
 ---
 
@@ -201,7 +239,7 @@ date: 2024-12-19, from: Taste of Home
 
 date: 2024-12-19, from: Daily Coffee News
 
-<div><img width="620" height="422" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release-620x422.jpg" class="attachment-large size-large wp-post-image" alt="Vietnam EUDR database" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release-620x422.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release-300x204.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release-768x523.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A public-private partnership involving the world&#8217;s second-largest coffee producer, Vietnam, is resulting in a nationwide database system for forests and coffee-growing areas. Led by the partnership-focused sustainable agriculture nonprofit IDH,... 
+<div><img width="620" height="422" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release-620x422.jpg" class="attachment-large size-large wp-post-image" alt="Vietnam EUDR database" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release-620x422.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release-300x204.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release-768x523.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A public-private partnership involving the world&#8217;s second-largest coffee producer, Vietnam, is resulting in a nationwide database system for forests and coffee-growing areas. Led by the partnership-focused sustainable agriculture nonprofit IDH,... 
 
 <br> 
 
@@ -289,7 +327,7 @@ date: 2024-12-19, from: Daily Coffee News
 
 date: 2024-12-19, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2-620x414.jpeg" class="attachment-large size-large wp-post-image" alt="Carson Clough Giddy Goat Coffee 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2-620x414.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>When not running a booming coffee business, the co-founder of Charlotte, North Carolina&#8217;s Giddy Goat Coffee Roasters is likely to still be running, or biking, or perhaps swimming. Carson Clough,... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2-620x414.jpeg" class="attachment-large size-large wp-post-image" alt="Carson Clough Giddy Goat Coffee 2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2-620x414.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>When not running a booming coffee business, the co-founder of Charlotte, North Carolina&#8217;s Giddy Goat Coffee Roasters is likely to still be running, or biking, or perhaps swimming. Carson Clough,... 
 
 <br> 
 

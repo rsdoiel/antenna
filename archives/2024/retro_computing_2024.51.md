@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2024-12-20 07:05:00
+updated: 2024-12-20 09:24:28
 ---
 
 # retro computing
 
-(date: 2024-12-20 07:05:00)
+(date: 2024-12-20 09:24:28)
 
 ---
 
@@ -18,6 +18,18 @@ As well as producing a quarterly magazine, Drag'n'Drop also produce a series of 
 <br> 
 
 <http://www.iconbar.com/comments/rss/news2145.html>
+
+---
+
+## Half-Life
+
+date: 2024-12-20, from: Digital Antiquarian
+
+Around twenty years ago, people would have laughed if you told them that videogames would end up at the Smithsonian, but the Half-Life team really did want to make games that were more than just throwaway toys. The rule against cinematics — which made our jobs much harder and also ended up leaving a lot [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2024/12/half-life/>
 
 ---
 

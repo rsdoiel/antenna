@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2024-12-20 07:04:59
+updated: 2024-12-20 09:24:27
 ---
 
 # journalism
 
-(date: 2024-12-20 07:04:59)
+(date: 2024-12-20 09:24:27)
+
+---
+
+## The 2024 gift guide for journalists
+
+date: 2024-12-20, from: Nieman Journalism Lab
+
+Are you still looking for a holiday gift for the journalist in your life, or perhaps just doing a little shopping for yourself? We&#8217;ve got a bunch of ideas for you, whether you&#8217;re looking to give someone something to wear, something to read, or something to help organize life. A game to play A local... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-2024-gift-guide-for-journalists/>
 
 ---
 
@@ -222,18 +234,6 @@ For years, Vox prided itself on being free, saying that this universal, ad-suppo
 <br> 
 
 <https://www.niemanlab.org/2024/12/youll-get-what-you-pay-for/>
-
----
-
-## The 2024 gift guide for journalists
-
-date: 2024-12-18, from: Nieman Journalism Lab
-
-Are you still looking for a holiday gift for the journalist in your life, or perhaps just doing a little shopping for yourself? We&#8217;ve got a bunch of ideas for you, whether you&#8217;re looking to give someone something to wear, something to read, or something to help organize life. A game to play A local... 
-
-<br> 
-
-<https://www.niemanlab.org/2024/12/the-2024-gift-guide-for-journalists/>
 
 ---
 

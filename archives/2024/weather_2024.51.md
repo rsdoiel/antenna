@@ -1,19 +1,62 @@
 ---
 title: weather
-updated: 2024-12-20 07:04:58
+updated: 2024-12-20 09:24:26
 ---
 
 # weather
 
-(date: 2024-12-20 07:04:58)
+(date: 2024-12-20 09:24:26)
 
 ---
 
-## SPC - No watches are valid as of Fri Dec 20 14:07:02 UTC 2024
+## SPC Dec 20, 2024 1730 UTC Day 2 Convective Outlook
 
 date: 2024-12-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Fri Dec 20 14:07:02 UTC 2024. 
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1110 AM CST Fri Dec 20 2024
+
+Valid 211200Z - 221200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected on Saturday.
+
+...Synopsis...
+An upper-level ridge centered near the Continental Divide will
+translate slowly eastward through the day as a strong, compact,
+negatively-tilted mid-level trough moves into the Pacific Northwest.
+Across the eastern CONUS a trough will persist on Saturday with dry,
+offshore flow at the surface. The lack of low-level moisture will
+limit any thunderstorm potential across most of the CONUS. The only
+exception will be across the Oregon/northern California coasts where
+cooling mid-level temps over the relatively warmer ocean waters may
+result in some shallow instability and the potential for a few
+thunderstorms. The strong low-level jet (50 to 70 knots from 12Z to
+18Z Saturday along the Oregon/northern CA coast) may result in some
+gusty winds, even where lightning is not present. However, overall,
+limited instability should mitigate any severe weather potential.
+
+..Bentley.. 12/20/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
+
+---
+
+## SPC - No watches are valid as of Fri Dec 20 17:15:02 UTC 2024
+
+date: 2024-12-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri Dec 20 17:15:02 UTC 2024. 
 
 <br> 
 
@@ -21,15 +64,103 @@ No watches are valid as of Fri Dec 20 14:07:02 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Fri Dec 20 14:07:02 UTC 2024
+## SPC - No MDs are in effect as of Fri Dec 20 17:15:02 UTC 2024
 
 date: 2024-12-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Fri Dec 20 14:07:02 UTC 2024. 
+No Mesoscale Discussions are in effect as of Fri Dec 20 17:15:02 UTC 2024. 
 
 <br> 
 
 <https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-12-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1019 AM CST Fri Dec 20 2024
+
+Valid 201700Z - 211200Z
+
+...NO CRITICAL AREAS...
+
+The previous forecast (see below) remains on track.
+
+..Squitieri.. 12/20/2024
+
+.PREV DISCUSSION... /ISSUED 1256 AM CST Fri Dec 20 2024/
+
+...Synopsis...
+A large-scale trough will move from the OH Valley to the Northeast,
+while a midlevel ridge persists over the Intermountain West. This
+will maintain relatively cool post-frontal conditions across much of
+the central and eastern CONUS. Over the central High Plains, surface
+lee troughing may result in locally dry/breezy conditions, though
+fire-weather concerns will be minimal.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## SPC Dec 20, 2024 1630 UTC Day 1 Convective Outlook
+
+date: 2024-12-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1010 AM CST Fri Dec 20 2024
+
+Valid 201630Z - 211200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe weather is not forecast across the contiguous United States
+through tonight.
+
+...Synopsis...
+Shortwave trough currently moving through the Mid MS Valley is
+expected to continue cyclonically through the base of the mean upper
+troughing over eastern North America, which takes it off the
+Mid-Atlantic Coast late tonight. Another shortwave trough is
+expected in its wake over the Great Lakes this afternoon through
+tonight, while yet another shortwave trough drops southeastward
+through the northern Plains. This evolution will help maintain mean
+troughing across the central and eastern CONUS, with cold and stable
+low levels precluding thunderstorm development. 
+
+Farther west, upper ridging will persist another much of the western
+CONUS. Some dampening is anticipated within the northwestern
+periphery of is ridging as a pair of shortwave troughs rotate around
+an upper low over the northwestern Pacific Ocean. Frontal band
+associated with the second of these waves should reach the northern
+CA coast early Saturday morning. Cold mid-level temperatures and
+related steep mid-level lapse rates may result in enough buoyancy
+for a few lightning flashes within this band.
+
+..Mosier/Moore.. 12/20/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 

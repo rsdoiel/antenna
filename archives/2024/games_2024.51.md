@@ -1,15 +1,111 @@
 ---
 title: games
-updated: 2024-12-20 07:04:59
+updated: 2024-12-20 09:24:26
 ---
 
 # games
 
-(date: 2024-12-20 07:04:59)
+(date: 2024-12-20 09:24:26)
 
 ---
 
-## Sonic 3 director says Keanu Reeves fixed a key scene for  Shadow the Hedgehog
+## Help stress test Baldur’s Gate 3’s last major update
+
+date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
+
+Registration is now open for stress testing Larian Studio’s last major content update for Baldur’s Gate 3. As the name implies, this test will give players the opportunity to check out all the fancy new stuff coming to Baldur’s Gate 3 early while also helping the devs find any “funny business” that may still be [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/500506/baldurs-gate-3-patch-8-stress-test-registration-open-larian-studios>
+
+---
+
+## One Piece’s new official Roblox game pales in comparison to its knockoffs
+
+date: 2024-12-20, updated: 2024-12-19, from: Polygon Website
+
+One Piece just got a brand-new video game, but you may not have heard of it.&#160; That’s because One Piece Grand Arena, which was released in early December, is only playable on Roblox. Formally licensed by Bandai Namco Entertainment, One Piece Grand Arena will allow Bandai to capitalize on Roblox’s massive platform of young people [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/499820/one-piece-roblox-ip-infringement>
+
+---
+
+## How to get shiny Rayquaza in Pokémon Scarlet and Violet
+
+date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
+
+Shiny Rayquaza, in all its black and gold glory, is making its rounds in many Pokémon games, and Pokémon Scarlet and Violet is no exception. This extremely rare beast will be available via five-star Tera Raids from Dec. 20 until Jan. 5, so make sure you grab one of these bad boys before they go [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-scarlet-violet-guide/500253/shiny-rayquaza-tera-raid-counters>
+
+---
+
+## The 45 best movies on Netflix right now
+
+date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
+
+What’s the best movie I can watch on Netflix? We’ve all asked ourselves this question, only to spend the next 15 minutes scrolling through the streaming service’s oddly specific genre menus and getting overwhelmed by the constantly shifting trend menus. Netflix’s huge catalog of movies continues to expand day by day, week by week, month [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## All flying mounts in Palworld and where to find them
+
+date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
+
+Flying mounts are essential for getting around Palworld, which you may have noticed features a deceptively huge map. Sure, going from waypoint to waypoint feels like a walk in the park&#8230; until you’re faced with the ginormous cliffsides, which turn your little trek to a treacherous journey to Mordor. You can either attempt to climb [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/palworld-guides/24047076/flying-mounts-locations-fastest-saddle>
+
+---
+
+## All tower boss locations and best tower boss order in Palworld
+
+date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
+
+Palworld has five bosses locked up in towers scattered around the gigantic map. While you may encounter the first tower boss early on as part of the tutorial, the other five tower bosses are pretty far from the starting area. Beating tower bosses reward you five Ancient Technology Points the first time, which is a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/palworld-guides/24049473/tower-boss-locations-bosses-order>
+
+---
+
+## How to get Ancient Technology Points in Palworld
+
+date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
+
+You’ll need Ancient Technology Points to learn how to make essential equipment in Palworld, such as the egg incubator and feed bag. Getting Ancient Technology Points is easier said than done, because you’ll need to track down difficult bosses and successfully defeat them. Continue on to learn how to get Ancient Technology Points in Palworld, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/palworld-guides/24049322/ancient-technology-points-how-to-get>
+
+---
+
+## The best sci-fi movies of 2024
+
+date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
+
+We love science fiction here at Polygon. We cover it in games, movies, TV, books — whatever medium you can find the genre in, we’re there. This year has already delivered a lot for fans of the genre, with fascinating stories from around the world for sci-fi faithful in theaters and at home. There have [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/24210391/best-sci-fi-movies-2024-watch>
+
+---
+
+## Sonic 3 director says Keanu Reeves fixed a key scene for Shadow the Hedgehog
 
 date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
 

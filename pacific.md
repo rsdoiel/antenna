@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2024-12-20 07:04:57
+updated: 2024-12-20 09:24:25
 ---
 
 # pacific
 
-(date: 2024-12-20 07:04:57)
+(date: 2024-12-20 09:24:25)
 
 ---
 
@@ -507,6 +507,66 @@ By Ernie Galito There will be a significant political landscape transformation i
 
 ---
 
+## COVID-19 is Not the Same Disease for Everyone
+
+date: 2024-12-20, updated: 2024-12-20, from: Marianas Variety
+
+(BPT) - The summer spike in COVID-19 infections, triggered in part by a rise in new variants of the virus, was an unpleasant reminder that COVID-19 is here to stay. As we brace for an anticipated larger wave of COVID-19 cases during the fall and winter respiratory season, healthcare professionals want to remind the public that the virus does not affect everyone equally; some people, because of their age or overall health, may be at greater risk for severe illness.1,2 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/covid-19-is-not-the-same-disease-for-everyone/article_a05bb61f-9d98-51c2-9526-2ed06f751dce.html>
+
+---
+
+## New Technology Provides Hope  For Millions Of Dogs And Cats Ravaged With Gum Disease
+
+date: 2024-12-20, updated: 2024-12-20, from: Marianas Variety
+
+(NAPSI)—Here’s news for pet parents: According to veterinarian Dr. Babette Gladstein, “Alarmingly, as many as 85% of dogs develop some form of gum disease by the age of two. Despite being the most diagnosed condition in dogs and cats, it often goes untreated until it progresses to an advanced stage.” 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/new-technology-provides-hope-for-millions-of-dogs-and-cats-ravaged-with-gum-disease/article_57f5ff26-04c0-595e-9933-c975838ff877.html>
+
+---
+
+## What to Know Now to Help Protect Your Newborn from RSV
+
+date: 2024-12-20, updated: 2024-12-20, from: Marianas Variety
+
+By Rebecca Norwick, 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/what-to-know-now-to-help-protect-your-newborn-from-rsv/article_5f89c09f-653b-567b-8c8a-2548f2c99e53.html>
+
+---
+
+## The Hidden Harm of Civil Legal Issues and a Path to Help
+
+date: 2024-12-20, updated: 2024-12-20, from: Marianas Variety
+
+(NAPSI)—Most Americans know that they have the right to a lawyer if they are accused of a crime. But more than half of Americans wrongly think that they also have a right to a lawyer in all civil legal cases. They do not. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/community_cares/the-hidden-harm-of-civil-legal-issues-and-a-path-to-help/article_c845722d-32d4-5a39-b661-1085b3cd3dc1.html>
+
+---
+
+## Qué hay que saber para proteger a tu bebé del VRS
+
+date: 2024-12-20, updated: 2024-12-20, from: Marianas Variety
+
+Por Rebecca Norwick 
+
+<br> 
+
+<https://www.mvariety.com/online_features/espanol/qu-hay-que-saber-para-proteger-a-tu-beb-del-vrs/article_356f6362-8ee9-525a-829e-60ea77fabbe8.html>
+
+---
+
 ## Record number of women elected as lawmakers in Palau
 
 date: 2024-12-20, from: The Husk
@@ -519,7 +579,7 @@ Weekender #51
 
 ---
 
-## Guam agency begins condemning private lands for hospital project
+## Guam attorney general sues governor, GHURA over landtaking 
 
 date: 2024-12-19, from: Pacific Island Times
 
@@ -541,6 +601,54 @@ The post <a href="https://www.hawaii.edu/news/2024/12/19/shidler-team-wins-finan
 <br> 
 
 <https://www.hawaii.edu/news/2024/12/19/shidler-team-wins-finance-case-challenge/>
+
+---
+
+## California’s Auto Liability Coverage Limits to Increase in 2025 to Better Financially Protect Drivers
+
+date: 2024-12-19, updated: 2024-12-19, from: Marianas Variety
+
+(BPT) - The state of California has not raised auto liability coverage limits for more than 50 years, but that is set to change beginning next year. The new legislation, introduced in 2022 to keep pace with rising medical and repair costs, will require higher liability coverage limits for drivers and will take effect on Jan. 1, 2025. As we approach the new year, Mercury Insurance wants to help consumers better understand what these new limits entail. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/california-s-auto-liability-coverage-limits-to-increase-in-2025-to-better-financially-protect-drivers/article_8402f002-8eb1-51d0-8c08-1103e9205f1c.html>
+
+---
+
+## 6 creative ways to save on healthcare using your Medicare Advantage OTC allowance
+
+date: 2024-12-19, updated: 2024-12-19, from: Marianas Variety
+
+(BPT) - Did you know that if you're on a Medicare Advantage plan, you most likely have an over-the-counter (OTC) allowance to help offset the costs of everyday healthcare items? Millions of Medicare Advantage beneficiaries have access to this key benefit, but most don't use it. According to a study by The Consumer Healthcare Products Association, 70% of OTC benefits are never used, leaving billions of dollars on the table. They also found that on average, every dollar spent on OTC medicines saves the U.S. healthcare system $7.33, resulting in an overall annual savings of $167.1 billion. It is time to double-check your health care plan and make sure you're taking advantage of all your benefits and supporting your everyday care routines. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/6-creative-ways-to-save-on-healthcare-using-your-medicare-advantage-otc-allowance/article_b28bbc75-6b3c-5f3e-b6ac-0b5dffce1ec0.html>
+
+---
+
+## 4 must-have laptops for everyone on your list
+
+date: 2024-12-19, updated: 2024-12-19, from: Marianas Variety
+
+(BPT) - The last days of holiday shopping are here! You've made your wish list, and now you're checking it twice to ensure your friends and family (and, on occasion, yourself) receive the best gifts possible. If you haven't wrapped up your shopping yet and are on the hunt for a gift that's fun and functional, look no further than the latest cutting-edge laptops as the ultimate choice for anyone on your list. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/4-must-have-laptops-for-everyone-on-your-list/article_72c20b0c-cd15-5c2e-b1c5-7c33cd3de6ba.html>
+
+---
+
+## 5 sous vide recipes that are sure to impress holiday guests
+
+date: 2024-12-19, updated: 2024-12-19, from: Marianas Variety
+
+(BPT) - The holiday season is the time for hosts and home chefs to shine. Of course, cooking a holiday feast for friends and family is time-consuming, and with so many moving parts, accidents do happen. However, for this year's feasts, you can perfectly cook your holiday dishes and save time using sous vide, the preferred cooking method by Michelin-starred chefs from around the world. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/5-sous-vide-recipes-that-are-sure-to-impress-holiday-guests/article_e48e80c3-5090-5d2c-a7ba-39ec72afbf9a.html>
 
 ---
 

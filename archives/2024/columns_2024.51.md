@@ -1,11 +1,48 @@
 ---
 title: columns
-updated: 2024-12-20 07:04:58
+updated: 2024-12-20 09:24:26
 ---
 
 # columns
 
-(date: 2024-12-20 07:04:58)
+(date: 2024-12-20 09:24:26)
+
+---
+
+##  Al Green&#8217;s Cover of R.E.M.&#8217;s &#8220;Everybody Hurts&#8221; 
+
+date: 2024-12-20, updated: 2024-12-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/al-greens-cover-of-rems-everybody-hurts>
+
+---
+
+##  “As an entomologist, I’ve been doing this for over 25 years now,... 
+
+date: 2024-12-20, updated: 2024-12-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045889-as-an-entomologist-ive-be>
+
+---
+
+## Adélie Linux 1.0 – small, fast, but not quite grown up
+
+date: 2024-12-20, updated: 2024-12-20, from: Liam Proven's articles at the Register
+
+<h4>Remarkably compact, remarkably cross-platform, remarkably long beta period</h4>
+      <p>Beta 6 of Adélie Linux is arriving, just over six years after Beta 1 – but they do say that good things come to those who wait.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/12/20/adelie_linux_1_beta_6/>
 
 ---
 

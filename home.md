@@ -1,11 +1,127 @@
 ---
 title: home
-updated: 2024-12-20 07:04:59
+updated: 2024-12-20 09:24:27
 ---
 
 # home
 
-(date: 2024-12-20 07:04:59)
+(date: 2024-12-20 09:24:27)
+
+---
+
+## This £875K English Cottage Encloses an Original 1800s Train Carriage
+
+date: 2024-12-20, from: Dwell
+
+The cozy three-bedroom getaway neighbors a 468-acre nature reserve on the coast of Kent. 
+
+<br> 
+
+<https://www.dwell.com/article/train-car-beach-cottage-dungeness-kent-england-real-estate-f5a8b1d9>
+
+---
+
+## How to Prepare Soil for Outdoor Succulent Gardens
+
+date: 2024-12-20, from: The Gardener's Path
+
+<p>Most succulent species are native to semi-arid regions and have developed specialized roots to absorb soil moisture quickly and efficiently. But the growing medium also needs excellent drainage to prevent problems like root rot. Learn how to prepare soil for outdoor succulent gardens in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/succulent-soil/">How to Prepare Soil for Outdoor Succulent Gardens</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/succulent-soil/>
+
+---
+
+## How To Get Rid of Weeds in Pine Trees Without Killing Them
+
+date: 2024-12-20, from: Family Handyman Blog
+
+<p>Tips for killing weeds around pine trees without damaging their roots or health—easy solutions for homeowners.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-kill-weeds-in-pine-trees-without-killing-them/">How To Get Rid of Weeds in Pine Trees Without Killing Them</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-kill-weeds-in-pine-trees-without-killing-them/>
+
+---
+
+## 6 Reasons Why Your Car Only Starts On the Second Try
+
+date: 2024-12-20, from: Family Handyman Blog
+
+<p>It's scary when your car doesn't immediately start on the first try, but don't get complacent when it does start on the second try.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/car-starting-second-time/">6 Reasons Why Your Car Only Starts On the Second Try</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/car-starting-second-time/>
+
+---
+
+## This Viral Video Shows How to Get Stains Out of Plastic Containers the Easy Way
+
+date: 2024-12-20, from: Family Handyman Blog
+
+<p>Plastic Tupperware may be a life saver but it picks up stains easily. Fortunately there's an easy hack to get stains out of Tupperware.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/get-stains-out-of-plastic-containers/">This Viral Video Shows How to Get Stains Out of Plastic Containers the Easy Way</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/get-stains-out-of-plastic-containers/>
+
+---
+
+## New Year’s Eve Wine Pairings: Bubbles and Dishes to Impress Your Friends
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+When these Western sparkling wines are paired with these dishes, they bring out the best in each other and are sure to enhance your New Year's Eve meal. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/entertaining/new-years-eve-wine-pairings>
+
+---
+
+## 15 Perfect Dishes to Serve for Christmas Lunch
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+Whether you want to go all out at lunchtime or balance out all the holiday decadence with a lighter meal, we've got you covered with these crowd-pleasing Christmas lunch ideas. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays-occasions/christmas-lunch-ideas>
+
+---
+
+## 16 Standout Side Dishes to Complete Your Christmas Dinner
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+These side dishes perfectly complement your Christmas roast, ham, or vegetarian dinner. Or, you can make a whole bunch and make them the "mains." 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays-occasions/christmas-dinner-side-dishes>
+
+---
+
+## The Citrus Decor DIY You Need to Try This Holiday Season
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+This holiday season, give your decor a chic citrus twist with carefully carved and dried whole citrus fruits (aka pomanders). 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects/citrus-pomander-holiday-decor-diy>
 
 ---
 
@@ -154,18 +270,6 @@ Before winter begins, there are some things you need to prep your garden to prot
 <br> 
 
 <https://www.sunset.com/home-garden/garden-basics/early-winter-garden-tasks>
-
----
-
-## The Citrus Decor DIY You Need to Try This Holiday Season
-
-date: 2024-12-19, from: Sunset Magazine - Living in the West
-
-This holiday season, give your decor a chic citrus twist with carefully carved and dried whole citrus fruits (aka pomanders). 
-
-<br> 
-
-<https://www.sunset.com/home-garden/diy-projects/citrus-pomander-holiday-decor-diy>
 
 ---
 

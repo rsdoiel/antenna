@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-12-20 07:04:59
+updated: 2024-12-20 09:24:27
 ---
 
 # libraries
 
-(date: 2024-12-20 07:04:59)
+(date: 2024-12-20 09:24:27)
 
 ---
 
@@ -69,6 +69,18 @@ Llamas-Dios, Marta Inés; Jiménez-Gavilán, Pablo; Corada-Fernández, Carmen; O
 <br> 
 
 <http://hdl.handle.net/20.500.11850/708431>
+
+---
+
+## General-Management-Kompetenzen von Führungspersonen an Schweizer Hochschulen
+
+date: 2024-12-20, from: ETH Zurich, recently added
+
+Perich, Robert; Rageth, Ladina; He, Danya; Lakhno, Maryna 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/712834>
 
 ---
 

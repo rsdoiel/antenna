@@ -1,11 +1,95 @@
 ---
 title: science and technology
-updated: 2024-12-20 07:04:58
+updated: 2024-12-20 09:24:25
 ---
 
 # science and technology
 
-(date: 2024-12-20 07:04:58)
+(date: 2024-12-20 09:24:25)
+
+---
+
+## Avalanches, Icy Explosions, and Dunes: NASA Is Tracking New Year on Mars
+
+date: 2024-12-20, from: NASA breaking news
+
+Instead of a winter wonderland, the Red Planet’s northern hemisphere goes through an active — even explosive — spring thaw. While New Year’s Eve is around the corner here on Earth, Mars scientists are ahead of the game: The Red Planet completed a trip around the Sun on Nov. 12, 2024, prompting a few researchers [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/mars-reconnaissance-orbiter/avalanches-icy-explosions-and-dunes-nasa-is-tracking-new-year-on-mars/>
+
+---
+
+## These Five Trailblazing American Women Will Be Featured on Quarters in 2025
+
+date: 2024-12-20, from: Smithsonian Magazine
+
+The U.S. Mint's American Women Quarters Program has announced its fourth and final group of honorees from throughout American history 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/these-five-trailblazing-american-women-will-be-featured-on-quarters-in-2025-180985705/>
+
+---
+
+## NASA Runs X-59 Engine with Maximum Afterburner for First Time
+
+date: 2024-12-20, from: NASA breaking news
+
+NASA completed the first maximum afterburner engine run test on its X-59 quiet supersonic research aircraft on Dec. 12. The ground test, conducted at Lockheed Martin’s Skunk Works facility in Palmdale, California, marks a significant milestone as the X-59 team progresses toward flight. An afterburner is a component of some jet engines that generates additional [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-runs-x-59-engine-with-maximum-afterburner-for-first-time/>
+
+---
+
+## NASA Science Payload to Study Sticky Lunar Dust Challenge
+
+date: 2024-12-20, from: NASA breaking news
+
+The Moon may look like barren rock, but it’s actually covered in a layer of gravel, pebbles, and dust collectively known as “lunar regolith.” During the Apollo Moon missions, astronauts learned firsthand that the fine, powdery dust – electromagnetically charged due to constant bombardment by solar and cosmic particles – is extremely abrasive and clings [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/clps/nasa-science-payload-to-study-sticky-lunar-dust-challenge/>
+
+---
+
+## Intel admits it no longer controls the direction of x86
+
+date: 2024-12-20, from: OS News
+
+Remember x86S, Intel&#8217;s initiative to create a 64bit-only x86 instruction set, with the goal of removing some of the bloat that the venerable architecture accumulated over the decades? Well, this initiative is now dead, and more or less replaced with the x86 Ecosystem Advisory Group, a collection of companies with a stake in keeping x86 going. Most notably, this includes Intel and AMD, but also other tech giants like Google. In the first sign of changes to come after the formation of a new industry group, Intel has confirmed to&#160;Tom&#8217;s Hardware&#160;that it is no longer working on the x86S specification. The decision comes after Intel announced the formation of the&#160;x86 Ecosystem Advisory Group, which brings together Intel, AMD, Google, and numerous other industry stalwarts to define the future of the x86 instruction set. Intel originally announced its intentions to de-bloat the x86 instruction set by developing a simplified 64-bit mode-only x86S version, publishing a draft specification in&#160;May 2023,&#160;and then updating it to a 1.2 revision in June of this year. Now, the company says it has officially ended that initiative. ↫ Paul Alcorn This seems like an acknowledgement of the reality that Intel is no longer in the position it once was when it comes to steering the direction of x86. It&#8217;s AMD that&#8217;s doing most of the heavy-lifting for the architecture at the moment, and it&#8217;s been doing that for a while now, with little signs that&#8217;s going to chance. I doubt Intel had enough clout left to push something as relatively drastic as x86S, and now has to rely on building concensus with other companies invested in x86. It may seem like a small thing, and I doubt many larger tech outlets will care, but this story is definitely the biggest sign yet that Intel is in a lot more trouble than people already seem to think based on Intel&#8217;s products and market performance. What we have here is a full admission by Intel that they no longer control the direction of x86, and have to rely on the rest of the industry to help them. That&#8217;s absolutely wild. 
+
+<br> 
+
+<https://www.osnews.com/story/141392/intel-admits-it-no-longer-controls-the-direction-of-x86/>
+
+---
+
+## Adélie Linux 1.0 – small, fast, but not quite grown up
+
+date: 2024-12-20, updated: 2024-12-20, from: The Register (UK I.T. News)
+
+<h4>Remarkably compact, remarkably cross-platform, remarkably long beta period</h4> <p>Beta 6 of Adélie Linux is arriving, just over six years after Beta 1 – but they do say that good things come to those who wait.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/20/adelie_linux_1_beta_6/>
+
+---
+
+## Squirrels Are Displaying 'Widespread Carnivorous Behavior' for the First Time in a California Park, New Study Finds
+
+date: 2024-12-20, from: Smithsonian Magazine
+
+The familiar rodents, known for eating nuts and seeds, have been spotted hunting and decapitating voles in a gruesome dietary adaptation. Scientists say it might signal resiliency in face of future environmental pressures 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/squirrels-are-displaying-widespread-carnivorous-behavior-for-the-first-time-in-a-california-park-new-study-finds-180985707/>
 
 ---
 
@@ -683,9 +767,9 @@ NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and Columbia Univer
 
 ## US reportedly mulls TP-Link router ban over national security risk
 
-date: 2024-12-18, updated: 2024-12-18, from: The Register (UK I.T. News)
+date: 2024-12-18, updated: 2024-12-20, from: The Register (UK I.T. News)
 
-<h4>It could end up like Huawei -Trump&#39;s gonna get ya, get ya, get ya</h4> <p>The Feds may ban the sale of TP-Link routers in the US over ongoing national security concerns about Chinese-made devices being used in cyberattacks.…</p> 
+<h4>It could end up like Huawei -Trump&#39;s gonna get ya, get ya, get ya</h4> <p><strong>updated</strong>  The Feds may ban the sale of TP-Link routers in the US over ongoing national security concerns about Chinese-made devices being used in cyberattacks.…</p> 
 
 <br> 
 

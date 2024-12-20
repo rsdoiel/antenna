@@ -1,11 +1,71 @@
 ---
 title: going electric
-updated: 2024-12-20 07:05:00
+updated: 2024-12-20 09:24:28
 ---
 
 # going electric
 
-(date: 2024-12-20 07:05:00)
+(date: 2024-12-20 09:24:28)
+
+---
+
+## Nissan’s new 2025 Ariya electric SUV is now on sale with prices starting under $40,000
+
+date: 2024-12-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Nissan-2025-Ariya-prices-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The 2025 <a href="https://electrek.co/guides/nissan-ariya/">Nissan Ariya</a> is now available with prices starting under $40,000. Nissan’s electric SUV offers up to nearly 300 miles range and can now charge up at <a href="https://electrek.co/guides/tesla-supercharger/">Tesla Superchargers</a> to make road trips effortless.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,nissan-ariya" data-layer-viewtype="unknown" data-post-id="394703" href="https://electrek.co/2024/12/20/nissan-launches-2025-ariya-suv-prices-starting-under-40000/#more-394703" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/20/nissan-launches-2025-ariya-suv-prices-starting-under-40000/>
+
+---
+
+## Rivian (RIVN) made a ‘secret’ deal with the UAW: Here’s what that means for the EV maker
+
+date: 2024-12-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Rivians-legal-battle-Tesla.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) has reportedly agreed to a “secret” deal with the UAW as it works toward its next growth phase. The new agreement is contingent on the EV maker reaching profitability. Here’s what you need to know.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="394685" href="https://electrek.co/2024/12/20/rivian-rivn-agrees-secret-uaw-deal-heres-what-that-means/#more-394685" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/20/rivian-rivn-agrees-secret-uaw-deal-heres-what-that-means/>
+
+---
+
+## Tesla issues a software recall on almost 700,000 vehicles
+
+date: 2024-12-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/11/Tesla-Software-Update-Interior-2.0.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla issued a new recall on a fleet of almost 700,000 vehicles, but fortunately, the fix is a simple over-the-air software update.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="394689" href="https://electrek.co/2024/12/20/tesla-issues-a-software-recall-on-almost-700000-vehicles/#more-394689" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/20/tesla-issues-a-software-recall-on-almost-700000-vehicles/>
+
+---
+
+## 'It’s A Desperate Move': Ex-Nissan Boss Carlos Ghosn On Honda Merger
+
+date: 2024-12-20, from: Inside EVs News
+
+The former Nissan-Renault chief isn't staying quiet about the former's potential merger with Honda. Plus: a Tesla recall, and Cybercabs in Austin? 
+
+<br> 
+
+<https://insideevs.com/news/745166/carlos-ghosn-honda-nissan-cm/>
 
 ---
 

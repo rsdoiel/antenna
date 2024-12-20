@@ -1,11 +1,153 @@
 ---
 title: north america
-updated: 2024-12-20 07:04:57
+updated: 2024-12-20 09:24:24
 ---
 
 # north america
 
-(date: 2024-12-20 07:04:57)
+(date: 2024-12-20 09:24:24)
+
+---
+
+## Elon Musk considers funding Nigel Farage's populist party in UK
+
+date: 2024-12-20, from: VOA News USA
+
+LONDON — It’s a photo that sent a tremor through British politics: Elon Musk flanked by British politician Nigel Farage and a wealthy backer, in front of a gilt-framed painting of a young Donald Trump.
+
+
+Taken this week at Trump’s Mar-a-Lago estate in Florida, the image suggested that Musk, a key player in the incoming U.S. administration, could soon turn his disruptive attention to the U.K.
+
+
+Farage, Trump’s highest-profile British champion, confirmed talks are under way about Musk making a hefty donation to Farage's party, Reform U.K. The Times of London reported it could be as much as $100 million, which would be far and away the largest political donation in U.K. history. The reports have sparked calls for Britain’s rules on political donations to be tightened — quickly.
+
+
+“We did discuss money,” Farage told broadcaster GB News after the meeting with Musk. “That’s a negotiation we will go back and have again. He is not against giving us money. He hasn’t fully decided whether he will.”
+
+
+
+
+Britain has strict limits on how much political parties can spend on elections, but they can accept unlimited donations, as long as the donors are U.K. voters or companies registered in Britain. Musk’s social network X has a British arm, Twitter U.K. Ltd., with a registered address in London.
+
+
+Critics say that’s a loophole that allows foreign influence in U.K. politics. The voting watchdog, the Electoral Commission, is calling for changes, including limiting the amount a company can donate to how much it earns in Britain.
+
+
+“It’s crucial that U.K. voters have trust in the financing of our political system,” the commission's chief executive, Vijay Rangarajan, told The Guardian. “The system needs strengthening, and we have been calling for changes to the law since 2013, to protect the electoral system from foreign interference.”
+
+
+Britain’s center-left Labour Party pledged during the summer election campaign to tighten the rules on political donations, although legislation is not scheduled in the coming year. Prime Minister Keir Starmer's spokesperson Dave Pares said Wednesday that work is already under way to “reinforce existing safeguards” against “impermissible proxy donations.”
+
+
+The Labour government and the right-of-center opposition Conservatives are trying to figure out how to deal with Musk, who has taken a keen interest in the U.K. — and seemingly formed a strong dislike for Starmer.
+
+
+Musk often posts on X about the U.K., retweeting criticism of Starmer and the hashtag TwoTierKeir — shorthand for an unsubstantiated claim that Britain has “two-tier policing,” with far-right protesters treated more harshly than pro-Palestinian or Black Lives Matter demonstrators. Musk has compared British attempts to weed out online misinformation to the Soviet Union, and during summer anti-immigrant violence across the U.K. tweeted that “civil war is inevitable.”
+
+
+
+
+Farage has echoed some of those themes in his own social media output and his party’s anti-“woke” agenda, which includes pledges to slash immigration, scrap green-energy targets and leave the European Convention on Human Rights.
+
+
+Founded in 2021, Reform U.K. is the latest in a string of small hard-right parties led by Farage that have had limited electoral success but an outsized influence on British politics. Farage’s opposition to the European Union helped push the country toward voting in 2016 to leave the bloc, a seismic political and economic break with the U.K.’s nearest neighbors.
+
+
+Reform U.K. won just five of the 650 seats in the House of Commons in July’s election, but it came second in dozens more and secured 14% of the vote. Now it is pushing for fast growth, trying to professionalize its previously ramshackle organization and holding gatherings around the U.K. to recruit new members.
+
+
+Farage, a strong communicator who has embraced TikTok and other platforms, aims to emulate Trump’s success in using the power of personality and social media to reach the “bro vote” — young men who are traditionally less likely to turn out at election time.
+
+
+Farage told GB News that Musk has “already given me considerable help – understanding the process from start to finish, reaching disaffected communities who frankly feel there’s no point voting for anybody.”
+
+
+The electoral power of social media was on show recently in Romania, where far-right candidate Calin Georgescu came from nowhere to win the first round of the presidential election in November, aided in part by a flood of TikTok videos promoting his campaign. Amid allegations that Russia had organized the social media campaign to back Georgescu, Romania’s Constitutional Court canceled the presidential election runoff two days before it was due to take place.
+
+
+With Britain’s Conservative Party trying to recover from its worst election result since 1832, Farage dreams of making Reform the main opposition — or even the government — after the next election, due by 2029.
+
+
+That’s a long shot, but Rob Ford, professor of political science at the University of Manchester, said a big donation from Musk could have “disruptive potential in all sorts of ways.”
+
+
+He said Musk’s money would give Reform “the opportunity to try and build up a serious campaign organization, which is something that they have generally lacked.”
+
+
+“It’s certainly adding a new joker to the pack of cards in British politics,” Ford said. “We’ve had no shortage of surprising developments here in the past few years. And maybe this is the next one.” 
+
+<br> 
+
+<https://www.voanews.com/a/elon-musk-considers-funding-nigel-farage-s-populist-party-in-uk/7908618.html>
+
+---
+
+## Trump wants to quickly end Gaza war. Can he?
+
+date: 2024-12-20, from: VOA News USA
+
+President-elect Donald Trump has signaled an eagerness to see the conflict in Gaza end quickly, saying, “All hell is going to break out” if Hamas does not release its hostages by Jan. 20, the day he takes office. White House Bureau Chief Patsy Widakuswara looks at prospects for peace as the outgoing Biden administration pushes for a ceasefire deal. Note: This video includes graphic images some may find disturbing. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-wants-to-quickly-end-gaza-war-can-he-/7908532.html>
+
+---
+
+## Interview: Biden administration pushes for Sudan ceasefire in remaining weeks
+
+date: 2024-12-20, from: VOA News USA
+
+UNITED NATIONS — U.S. Secretary of State Antony Blinken announced $200 million in new humanitarian funding for the Sudanese people at a high-level Sudan meeting he chaired Thursday at the U.N. Security Council, bringing total U.S. support to Sudan to more than $2.3 billion since fighting began among rival generals in April 2023.  
+
+
+U.S. Special Envoy for Sudan Tom Perriello spoke to VOA U.N. Correspondent Margaret Besheer on the sidelines of the council meeting. He said the outgoing administration of U.S. President Joe Biden wants to consolidate humanitarian progress and move toward a ceasefire, even a temporary one, in its remaining weeks. 
+
+
+Once allies in Sudan's transitional government after a 2021 coup, Sudanese Armed Forces General Abdel Fattah al-Burhan and Rapid Support Forces General Mohamed Hamdan Dagalo have become bitter rivals for power. Fighting erupted between their forces in the capital, Khartoum, last year. It has since spread across Sudan, causing widespread atrocities and killing, and one of the world’s largest humanitarian crises. 
+
+
+The following interview has been edited for clarity and brevity.  
+
+
+VOA: U.S. Special Envoy for Sudan Tom Perriello, thank you for talking to VOA today. You have one month to go for the Biden administration. What do you realistically think you can achieve in the remaining weeks on Sudan? 
+
+
+U.S. Special Envoy for Sudan Tom Perriello: Well, one of the things that Secretary Blinken made clear today at the United Nations is that we're going to use every second we've got, and we've got some momentum. We're in the fifth straight month of breaking the largest humanitarian embargo in the world, but we have so much more to do. We've seen four times more food and medicine moving into Sudan than we saw just a few months ago, and each one of those is food and medicine reaching a mother or a child that's been malnourished for months in places like Zamzam camp or Kadugli in South Kordofan. We're getting the convoys moving, including the first convoy into parts of southern Khartoum since the war began almost two years ago. So, we have got a lock in those humanitarian gains that are saving lives. But ultimately, we've got to move towards a ceasefire, even a temporary ceasefire, from the parties, to give some relief to the horrific conditions that millions of Sudanese people are facing. 
+
+
+VOA: And how do you hope to move toward that temporary ceasefire? Might you convene another meeting of the ALPS [Aligned for Advancing Lifesaving and Peace in Sudan] before January 20th? 
+
+
+Perriello: I just came yesterday from Mauritania, where we were meeting with the African Union, the United Nations, the Arab League and others, about how we can move towards expanding both local and national ceasefire efforts. It was a big statement for Secretary Blinken to sit at the council today in the U.N. And you heard from the Algerians and the other African leaders this idea that we've got to give more urgency to this ceasefire. ... This famine and this war was a war of choice by men who were willing to let the Sudanese people suffer, and those same men can help bring it to an end if we can get the regional actors in Africa and in the Gulf to align on an effort to put a pause in the fighting and restore the civilian transition. 
+
+
+VOA: Would you say the two generals are the biggest obstacle to peace? Is this just about their egos? Or does it go deeper? 
+
+
+Perriello: Well, certainly it was a big part of what started this war. But really, you have to go back a few steps and remember it was Generals Hemeti [Mohamed Hamdan Dagalo] and [Abdel Fattah] al-Burhan joining forces to overthrow the civilian transition that had inspired the world in 2019. And there are many forces behind both of them that want to prevent the people of Sudan from having the power over their future. And we continue to see that with extremist groups and others who want to profit from this war, whether it's groups like the National Congress party of the former Bashir era, that know the people wouldn't support them having power, and they're using this war to come back to power. We see some of the tribal leaders who should be some of the strongest voices for peace, instead of figuring out how to profit off of the famine and off of the war, we see countries that have engaged and are willing to continue to see that suffering of the Sudanese people. But we've also seen neighboring countries show the welcomeness ... to accept millions of refugees. We've seen efforts in the region to work with us on these local ceasefire efforts, including some of these humanitarian corridors. So, it's important that we not use the level of the crisis as an excuse to do nothing, because when we've engaged, we've been able to make a difference. And I think that's what Secretary Blinken was trying to remind the council today. 
+
+
+VOA: What will it take to get the two generals to the negotiating table? 
+
+
+Perriello: Well, first of all, I think we'll continue to try to push them to the table, but what we showed with the ALPS efforts in Switzerland on humanitarian access is you don't need a table anymore. We have telephones. We have proximity talks. What we need is the political will, and we appreciate that countries like Saudi Arabia and Egypt and others are continuing to try to support these peace efforts. We think the African Union has a role to play. And the American people, in the same way we've seen Americans show just so much compassion in crisis after crisis around the world, we need folks to see these young people with the Mutual Aid Sudan and elsewhere that are risking their lives to get food and medicine into their communities. They need that support and attention from us. It's also something, quite frankly, that has really strong bipartisan support on Capitol Hill, including from a recent letter this week from both Republican and Democratic senators trying to draw more attention to the crisis in Sudan. So, it needs all of us to pay more attention, but most of all, it needs the people with guns and the people supplying guns to all sides in Sudan, to put those down and become partners in peace. 
+
+
+VOA: You mentioned, and Secretary Blinken mentioned in the council, that there's a lot of external interference in the war in Sudan. There's credible evidence the UAE has been fueling the violence and supplying the RSF with arms. Why has the Biden administration been reluctant to really exert significant public pressure on the UAE? 
+
+
+Perriello: Well, you saw some powerful testimony today at the Security Council about this issue, about foreign interference and the role certain countries are playing to fuel this conflict. The Biden administration has really led the way on putting pressure on all of the external actors to stop fueling this war and inviting them to be partners in peace, both ending the famine and trying to end this war. [U.S. Ambassador to the U.N.] Linda Thomas-Greenfield helped push for an extension of the Darfur arms embargo — and also the first sanctions for violating that arms embargo in over 15 years. We are going to continue with our sanctions and with our diplomacy to raise the costs of those that are fueling this conflict, but also to continue to invite in those who want to be partners for not just peace for the Sudanese people, but how we rebuild Sudan and how we restore that civilian transition. Secretary Blinken announced today an additional $30 million with Congress to support civil society, particularly women and youth, who have continued to inspire us in Sudan, to help rebuild that political dialogue and that path — the only real path forward — which is a unified civilian front into peace and democracy. 
+
+
+VOA: There are reports that the State Department is considering a genocide declaration. Why the reluctance to use the “genocide” word? 
+
+
+Perriello: Far from reluctance, the State Department's really been leading the way. I mean, as someone who was in Darfur more than 20 years ago when the genocide was happening. When I was out of government a year ago, I was proud that the State Department led the way on declaring the acts of ethnic cleansing that we heard about from the Sultan of the Masalit today. Called out the crimes against humanity. We'll continue to look at where the facts lead in terms of other designations. 
+
+<br> 
+
+<https://www.voanews.com/a/interview-biden-administration-pushes-for-sudan-ceasefire-in-remaining-weeks-/7908494.html>
 
 ---
 
@@ -100,16 +242,16 @@ date: 2024-12-20, from: Heatmap News
 
 date: 2024-12-20, from: VOA News USA
 
-U.S. billionaire Elon Musk, set to join President-elect Donald Trump's administration, waded into Germany's election campaign on Friday, calling the far-right Alternative for Germany (AfD) the country's savior.
+U.S. billionaire Elon Musk, set to join President-elect Donald Trump's administration as an outside adviser, waded into Germany's election campaign on Friday, calling the far-right Alternative for Germany, or AfD, the country's savior.
 
 
-The AfD is running second in opinion polls and might be able to thwart either a center-right or center-left majority, but Germany's mainstream, more centrist parties have vowed to shun support from the AfD at national level.
+The AfD is running second in opinion polls and might be able to thwart either a center-right or center-left majority, but Germany's mainstream, more-centrist parties have vowed to shun support from the AfD at a national level.
 
 
-Europe's leading power is expected to vote on February 23 after a center-left coalition government led by Chancellor Olaf Scholz collapsed.
+Europe's leading power is expected to vote on Feb. 23 after a center-left coalition government led by Chancellor Olaf Scholz collapsed.
 
 
-"Only the AfD can save Germany," Musk wrote in a post on his social media platform, X.
+"Only the AfD can save Germany," Musk wrote in a post on his social media platform X.
 
 
 
@@ -123,7 +265,10 @@ The German government said it had taken note of Musk's post but declined to give
 Musk reposted a message by German right-wing influencer Naomi Seibt that criticized Friedrich Merz, chancellor candidate for the conservatives, who are comfortably ahead in surveys.
 
 
-Musk had already voiced support for the AfD last year, when he attacked the German government's handling of illegal migration.
+Matthias Miersch, secretary-general of Scholz's Social Democrats, told the media outlet t-online that Germany did not need foreign influences or "Trumpism," adding: "Stay out, Elon."
+
+
+Musk voiced support for the AfD last year, when he attacked the German government's handling of illegal migration.
 
 
 Last month, Musk called for the sacking of Italian judges who had questioned the legality of government measures to prevent irregular immigration.
@@ -160,6 +305,8 @@ Earlier this week, Trump said if the hostages held by Hamas are not home by Jan.
 
 
 The warning is similar to the threat he issued on social media earlier this month, where he said, "There will be ALL HELL TO PAY in the Middle East, and for those in charge who perpetrated these atrocities against Humanity. Those responsible will be hit harder than anybody has been hit in the long and storied History of the United States of America."
+
+
 
 
 It's not clear what Trump plans to do in Gaza. When asked to clarify the threat, he said, "It means it won't be pleasant."
