@@ -1,11 +1,299 @@
 ---
 title: food
-updated: 2024-12-19 07:05:18
+updated: 2024-12-20 07:05:00
 ---
 
 # food
 
-(date: 2024-12-19 07:05:18)
+(date: 2024-12-20 07:05:00)
+
+---
+
+## A Mega Holiday Blend Cupping On The Coffee Sprudgecast
+
+date: 2024-12-20, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. A massive 17 coffee cupping on this episode of the Coffee Sprudgecast. 
+
+<br> 
+
+<https://sprudge.com/cupping-holiday-blends-on-the-coffee-sprudgecast-262587.html>
+
+---
+
+## Steeping Sweetness: Milk Brew Provides a Fun Take on Cold Coffee
+
+date: 2024-12-20, from: The Fresh Cup
+
+<p>You’ve heard of cold brew. But what about milk brew? A common technique in coffee shops in Japan, more shops are trying steeping ground coffee beans in milk instead of the more typical cold water.</p>
+<p>The post <a href="https://freshcup.com/steeping-sweetness-milk-brew-provides-a-fun-take-on-cold-coffee/">Steeping Sweetness: Milk Brew Provides a Fun Take on Cold Coffee</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/steeping-sweetness-milk-brew-provides-a-fun-take-on-cold-coffee/>
+
+---
+
+## Creamy Cider Chicken and More Recipes We Made This Week
+
+date: 2024-12-20, from: Bon Appetet
+
+Like ginger fried rice and buttermilk pancakes. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-december-2024>
+
+---
+
+## Creole Gumbo Recipe
+
+date: 2024-12-20, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/creole-gumbo/" title="Creole Gumbo Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Creole-Gumbo-Recipe-RICE1b-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Creole Gumbo in a bowl with lots of shrimp, crab, chicken, and andouille sausage" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Creole-Gumbo-Recipe-RICE1b-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Creole-Gumbo-Recipe-RICE1b-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Creole-Gumbo-Recipe-RICE1b-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Creole-Gumbo-Recipe-RICE1b-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Creole-Gumbo-Recipe-RICE1b-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Creole-Gumbo-Recipe-RICE1b-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Creole-Gumbo-Recipe-RICE1b.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Creole-style gumbo is a one-pot wonder loaded with chicken, shrimp, crabmeat, smoked sausage, and Creole spices, a bit different from Cajun gumbo.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/creole-gumbo/">Creole Gumbo Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/creole-gumbo/>
+
+---
+
+## How to Make a Hot Chocolate Flight for an Extra Cozy Night
+
+date: 2024-12-19, from: Taste of Home
+
+<p>Make your holidays a little more festive with this hot chocolate flight! You'll get four different types of cocoa so tasty you won't want to pick a favorite.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/hot-chocolate-flight/">How to Make a Hot Chocolate Flight for an Extra Cozy Night</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/hot-chocolate-flight/>
+
+---
+
+## I Ordered Taco Bell’s Chicken Nuggets Today—Here’s What I Thought
+
+date: 2024-12-19, from: Taste of Home
+
+<p>I tried Taco Bell's new chicken nuggets the minute they were available to order.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/taco-bell-chicken-nuggets-review/">I Ordered Taco Bell&#8217;s Chicken Nuggets Today—Here&#8217;s What I Thought</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/taco-bell-chicken-nuggets-review/>
+
+---
+
+## Oreo O’s Are Being Discontinued and Replaced with an Oreo Cereal I Had to Try
+
+date: 2024-12-19, from: Taste of Home
+
+<p>We taste-tested Oreo Puffs, the new breakfast cereal that's replacing the discontinued Oreo O's.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/oreo-os-replaced-by-oreo-puffs/">Oreo O&#8217;s Are Being Discontinued and Replaced with an Oreo Cereal I Had to Try</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/oreo-os-replaced-by-oreo-puffs/>
+
+---
+
+## How the Bird Flu Outbreak Is Affecting the Price of Milk, Eggs and Beef
+
+date: 2024-12-19, from: Taste of Home
+
+<p>Rising cases of bird flu causes shortages and food insecurities in shoppers, triggering price increases on a variety of grocery staples.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/how-bird-flu-will-affect-costs/">How the Bird Flu Outbreak Is Affecting the Price of Milk, Eggs and Beef</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/how-bird-flu-will-affect-costs/>
+
+---
+
+## Bob Dylan’s Favorite Holiday Recipe
+
+date: 2024-12-19, from: Taste of Home
+
+<p>On his Christmas and New Year's radio special, Bob Dylan revealed his surprising favorite holiday recipe: figgy pudding. Here's how to make it at home.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/bob-dylans-favorite-holiday-recipe/">Bob Dylan&#8217;s Favorite Holiday Recipe</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/bob-dylans-favorite-holiday-recipe/>
+
+---
+
+## How to Style Your Dining Table Like Ina Garten
+
+date: 2024-12-19, from: Taste of Home
+
+<p>Whether it's a special event or a weeknight dinner, here's how to style a dining table.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/how-to-style-your-dining-table-like-ina-garten/">How to Style Your Dining Table Like Ina Garten</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/how-to-style-your-dining-table-like-ina-garten/>
+
+---
+
+## 29 Stir-Fry Recipes to Toss Into Your Rotation
+
+date: 2024-12-19, from: Bon Appetet
+
+Red curry pork with rice cakes, ground chicken with lots of basil, and more ultrafast weeknight dinners. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/best-stir-fry-recipes>
+
+---
+
+## The Best Aldi Christmas Finds, Reviewed and Ranked
+
+date: 2024-12-19, from: Taste of Home
+
+<p>Aldi's aisles are packed with fantastic Christmas finds that satisfy your sweet tooth while being easy on your wallet.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/aldi-christmas-finds-december-2024/">The Best Aldi Christmas Finds, Reviewed and Ranked</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/aldi-christmas-finds-december-2024/>
+
+---
+
+## The 7 Best Cocktail Recipes of 2024
+
+date: 2024-12-19, from: Bon Appetet
+
+From spirited classics to new-school riffs. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-cocktail-recipes-2024>
+
+---
+
+## 7 Last-Minute Holiday Cookware Sales to Shop Now
+
+date: 2024-12-19, from: Taste of Home
+
+<p>From HexClad to Our Place, we've rounded up the best cookware sales still happening through December. 'Tis the season for savings!</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/holiday-cookware-sales/">7 Last-Minute Holiday Cookware Sales to Shop Now</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/holiday-cookware-sales/>
+
+---
+
+## Vietnam, IDH and JDE Peet’s Partner in Landmark EUDR Database Project
+
+date: 2024-12-19, from: Daily Coffee News
+
+<div><img width="620" height="422" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release-620x422.jpg" class="attachment-large size-large wp-post-image" alt="Vietnam EUDR database" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release-620x422.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release-300x204.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release-768x523.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-press-release.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A public-private partnership involving the world&#8217;s second-largest coffee producer, Vietnam, is resulting in a nationwide database system for forests and coffee-growing areas. Led by the partnership-focused sustainable agriculture nonprofit IDH,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/19/vietnam-idh-and-jde-peets-partner-in-landmark-eudr-database-project/>
+
+---
+
+## Lay’s Just Recalled Some of Its Classic Potato Chips
+
+date: 2024-12-19, from: Taste of Home
+
+<p>The potato chips contain an undeclared allergen, which could be a life-threatening error.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/lays-potato-chips-recall-december-2024/">Lay&#8217;s Just Recalled Some of Its Classic Potato Chips</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/lays-potato-chips-recall-december-2024/>
+
+---
+
+## On The Menu: Enjoy An Almond Bisco-Latte For The Holidays
+
+date: 2024-12-19, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The Almond Bisco-Latte at The Caffe in Oakland, California. 
+
+<br> 
+
+<https://sprudge.com/on-the-menu-enjoy-an-almond-bisco-latte-for-the-holidays-262575.html>
+
+---
+
+## How to Put Together a Milk and Cookies Flight
+
+date: 2024-12-19, from: Taste of Home
+
+<p>Pair four different cookies with flavored milks for an adorable milk and cookies flight. The kiddos are going to love this one!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/milk-and-cookies-flight/">How to Put Together a Milk and Cookies Flight</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/milk-and-cookies-flight/>
+
+---
+
+## Bubble Tea
+
+date: 2024-12-19, from: Taste of Home
+
+This tea-based drink, made with chewy tapioca pearls, is sure to give you a caffeine boost with a flavorful twist. Here’s how to re-create a boba shop-worthy bubble tea recipe right at home with just four ingredients. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/bubble-tea-recipe/>
+
+---
+
+## Onyx Coffee Lab Launches New Coffee Line, Bringing Artisanal Quality To Major Retailers
+
+date: 2024-12-19, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Doyenne, honoring female coffee growers, is available online and at NWA Sam's Club stores 
+
+<br> 
+
+<https://sprudge.com/onyx-coffee-lab-launches-new-coffee-line-bringing-artisanal-quality-to-major-retailers-262644.html>
+
+---
+
+## Maryland’s Aveley Farms Coffee Plants New Roastery Alongside Beer and Pizza
+
+date: 2024-12-19, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Aveley-Farms-brewery-coffee-Credit-Colin-Marshall-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Aveley Farms brewery coffee Credit Colin Marshall" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Aveley-Farms-brewery-coffee-Credit-Colin-Marshall-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Aveley-Farms-brewery-coffee-Credit-Colin-Marshall-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Aveley-Farms-brewery-coffee-Credit-Colin-Marshall-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Aveley-Farms-brewery-coffee-Credit-Colin-Marshall-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Aveley-Farms-brewery-coffee-Credit-Colin-Marshall.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Aveley Farms Coffee Roasters is heading into a bountiful winter with the opening of its new roastery and coffee bar, part of an all-day coffee, beer and pizza collaboration just... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/19/marylands-aveley-farms-coffee-plants-new-roastery-alongside-beer-and-pizza/>
+
+---
+
+## The Co-Founder of Charlotte’s Giddy Goat Coffee is Also a Paralympic Medalist
+
+date: 2024-12-19, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2-620x414.jpeg" class="attachment-large size-large wp-post-image" alt="Carson Clough Giddy Goat Coffee 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2-620x414.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Carson-Clough-Giddy-Goat-Coffee-2.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>When not running a booming coffee business, the co-founder of Charlotte, North Carolina&#8217;s Giddy Goat Coffee Roasters is likely to still be running, or biking, or perhaps swimming. Carson Clough,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/19/the-co-founder-of-charlottes-giddy-goat-coffee-is-also-a-paralympic-medalist/>
 
 ---
 
@@ -63,6 +351,18 @@ date: 2024-12-19, from: Closet Cooking
 
 ---
 
+## Naughty but Nice Cocktail
+
+date: 2024-12-19, from: Taste of Home
+
+The bourbon in this Naughty but Nice cocktail makes it a little naughty, but the ginger syrup, orange juice and cranberry juice make it taste oh, so nice. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/naughty-but-nice-cocktail/>
+
+---
+
 ## Tennessee Onions
 
 date: 2024-12-19, from: Taste of Home
@@ -72,6 +372,18 @@ Tennessee onions are hands down the best topping for burgers ever—although the
 <br> 
 
 <https://www.tasteofhome.com/recipes/tennessee-onions/>
+
+---
+
+## Cowboy Coffee
+
+date: 2024-12-19, from: Taste of Home
+
+Yes, you can make a rich cup of coffee without a filter. This recipe for cowboy coffee is perfect for your next camping trip. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cowboy-coffee/>
 
 ---
 
@@ -161,7 +473,7 @@ date: 2024-12-18, from: Taste of Home
 
 date: 2024-12-18, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest-620x400.png" class="attachment-large size-large wp-post-image" alt="STLCoffeeFest" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee enthusiasts and professionals in the St. Louis area are gearing up for the inaugural STLCoffeeFest, an independent, consumer-focused coffee event taking place Feb. 22, 2025, at 18 Rails at... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest-620x400.png" class="attachment-large size-large wp-post-image" alt="STLCoffeeFest" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/STLCoffeeFest.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee enthusiasts and professionals in the St. Louis area are gearing up for the inaugural STLCoffeeFest, an independent, consumer-focused coffee event taking place Feb. 22, 2025, at 18 Rails at... 
 
 <br> 
 
@@ -223,7 +535,7 @@ Culinary Class Wars, Chicken Shop Date, the latest Chef’s Table—these are th
 
 date: 2024-12-18, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Vietnam coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Asian Development Bank (ADB) signed a US$100 million loan agreement with Swiss coffee trading giant Ecom designed to strengthen climate resilience within the conglomerate&#8217;s coffee supply chain in Asia.... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Vietnam coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Vietnam-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Asian Development Bank (ADB) signed a US$100 million loan agreement with Swiss coffee trading giant Ecom designed to strengthen climate resilience within the conglomerate&#8217;s coffee supply chain in Asia.... 
 
 <br> 
 
@@ -247,7 +559,7 @@ On this episode of Dinner SOS, Chris and panettone expert Roy Shvartzapel help B
 
 date: 2024-12-18, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Em Coffee &#8211; Interiors-02" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The owners of the San Diego-based Ding Tea bubble tea chain expanded earlier this fall with a cafe concept that celebrates Vietnamese coffee called Em Coffee House. Opened Nov. 18,... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Em Coffee &#8211; Interiors-02" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Em-Coffee-Interiors-02.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The owners of the San Diego-based Ding Tea bubble tea chain expanded earlier this fall with a cafe concept that celebrates Vietnamese coffee called Em Coffee House. Opened Nov. 18,... 
 
 <br> 
 
@@ -301,7 +613,7 @@ date: 2024-12-18, from: Isebel Eats
 
 date: 2024-12-18, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/chicken-bog/" title="Chicken Bog Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2023/08/Chicken-Bog-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Chicken Bog in a large bowl with a spoon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2023/08/Chicken-Bog-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2023/08/Chicken-Bog-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2023/08/Chicken-Bog-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2023/08/Chicken-Bog-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2023/08/Chicken-Bog-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2023/08/Chicken-Bog-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2023/08/Chicken-Bog-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Chicken bog is a classic lowcountry comfort food of tender pulled chicken and creamy rice in a delectable broth, the ultimate chicken and rice dish.</p>
+<a href="https://www.chilipeppermadness.com/recipes/chicken-bog/" title="Chicken Bog Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2023/08/Chicken-Bog-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Chicken Bog in a large bowl with a spoon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2023/08/Chicken-Bog-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2023/08/Chicken-Bog-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2023/08/Chicken-Bog-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2023/08/Chicken-Bog-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2023/08/Chicken-Bog-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2023/08/Chicken-Bog-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2023/08/Chicken-Bog-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Chicken bog is a classic lowcountry comfort food of tender pulled chicken and creamy rice in a delectable broth, the ultimate chicken and rice dish.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/chicken-bog/">Chicken Bog Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

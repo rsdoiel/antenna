@@ -1,11 +1,64 @@
 ---
 title: writing
-updated: 2024-12-19 07:05:16
+updated: 2024-12-20 07:04:58
 ---
 
 # writing
 
-(date: 2024-12-19 07:05:16)
+(date: 2024-12-20 07:04:58)
+
+---
+
+## How to Carve Out Time to Write During the Festive Season
+
+date: 2024-12-20, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-to-carve-out-time-to-write-during-the-festive-season>
+
+---
+
+## Weekly YouTube Video Is Up!
+
+date: 2024-12-19, from: Locus Magazine
+
+<p>We&#8217;re in the thick of the holidays, and we&#8217;ve got another quick video for all of you this week. Come by and have a look — we&#8217;re super excited to tell you all about the top new releases in the SF, fantasy, horror, and YA books! Support what we do and keep up-to-date on all of our videos by subscribing to the channel!</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2024/12/weekly-youtube-video-is-up/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/12/weekly-youtube-video-is-up/>
+
+---
+
+## GigaNotoSaurus, Diabolical Plots and Hexagon Fall ’24: Short Fiction Reviews by Charles Payseur
+
+date: 2024-12-19, from: Locus Magazine
+
+<p>GigaNotoSaurus 9/24
+Diabolical Plots 9/24
+Hexagon Fall ’24</p>
+<p>September’s GigaNotoSaurus is <strong>Monte Lin</strong>’s “<strong>Here in the Glittering Black, There is Hope</strong>”, which introduces Kavita, the captain of a ship contracted out to the ultrarich to go out and bring back previous materials from the reaches of space, staying young thanks to cryo-sleep while generations pass on Earth. She’s part of a tradition, a movement to the stars  <a href="https://locusmag.com/2024/12/giganotosaurus-diabolical-plots-and-hexagon-fall-24-short-fiction-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/giganotosaurus-diabolical-plots-and-hexagon-fall-24-short-fiction-reviews-by-charles-payseur/>
+
+---
+
+## Somewhere Beyond the Sea by TJ Klune: Review by Colleen Mondor
+
+date: 2024-12-19, from: Locus Magazine
+
+<p><strong>Somewhere Beyond the Sea</strong>, TJ Klune (Tor Books 879-1-250-88120-5, $28.99, 416pp, hc) September 2024.</p>
+<p>Fans of TJ Klune’s enormously popular <strong>The House in the Cerulean Sea </strong>were no doubt thrilled to hear about the unexpected sequel, <strong>Somewhere Beyond the Sea</strong>. The continuing story of Arthur, Linus, and the group of orphaned magic children they care for is as heartfelt and political as readers could want. Make no mistake,  <a href="https://locusmag.com/2024/12/somewhere-beyond-the-sea-by-tj-klune-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/somewhere-beyond-the-sea-by-tj-klune-review-by-colleen-mondor/>
 
 ---
 

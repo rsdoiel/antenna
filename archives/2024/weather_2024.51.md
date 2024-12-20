@@ -1,31 +1,19 @@
 ---
 title: weather
-updated: 2024-12-19 07:05:16
+updated: 2024-12-20 07:04:58
 ---
 
 # weather
 
-(date: 2024-12-19 07:05:16)
+(date: 2024-12-20 07:04:58)
 
 ---
 
-## SPC - No MDs are in effect as of Thu Dec 19 13:48:02 UTC 2024
+## SPC - No watches are valid as of Fri Dec 20 14:07:02 UTC 2024
 
-date: 2024-12-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Thu Dec 19 13:48:02 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC - No watches are valid as of Thu Dec 19 13:48:02 UTC 2024
-
-date: 2024-12-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Thu Dec 19 13:48:02 UTC 2024. 
+No watches are valid as of Fri Dec 20 14:07:02 UTC 2024. 
 
 <br> 
 
@@ -33,33 +21,46 @@ No watches are valid as of Thu Dec 19 13:48:02 UTC 2024.
 
 ---
 
-## SPC Dec 19, 2024 1300 UTC Day 1 Convective Outlook
+## SPC - No MDs are in effect as of Fri Dec 20 14:07:02 UTC 2024
 
-date: 2024-12-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri Dec 20 14:07:02 UTC 2024. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Dec 20, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-12-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0636 AM CST Thu Dec 19 2024
+0644 AM CST Fri Dec 20 2024
 
-Valid 191300Z - 201200Z
+Valid 201300Z - 211200Z
 
-...NO THUNDERSTORM AREAS FORECAST...
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Thunderstorms are not expected through tonight.
+Severe weather is not forecast across the contiguous United States
+through tonight.
 
-...Synopsis/Discussion...
-The upper-tropospheric pattern is evolving back to an eastern mean
-trough and western ridge for a few days, as a series of shortwave
-troughs dig southeastward from the northern/central Plains and
-upstream parts of western/central Canada.  Low-level cold frontal
-passage related to the eastern troughing will render the airmass
-east of the Rockies too dry and/or stable for thunderstorms over
-land for the rest of this period.  Meanwhile, ridging aloft and lack
-of greater moisture/instability will preclude thunder in the West.
+...Synopsis...
+Water-vapor imagery this morning shows an upper trough centered over
+the Great Lakes, with this feature forecast to move east into the
+Northeast and east of the Mid-Atlantic states by late tonight. 
+Farther west, a mid-level ridge will reside over the Rockies with an
+upper trough over the eastern Pacific approaching the northern
+CA/Pacific Northwest coast late.  Scant instability may develop and
+result in a couple of thunderstorms late tonight near the immediate
+northern CA coast as a strong WAA regime impinges on this region.
 
-..Edwards/Goss.. 12/19/2024
+..Smith/Goss.. 12/20/2024
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>

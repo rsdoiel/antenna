@@ -1,11 +1,439 @@
 ---
 title: going electric
-updated: 2024-12-19 07:05:18
+updated: 2024-12-20 07:05:00
 ---
 
 # going electric
 
-(date: 2024-12-19 07:05:18)
+(date: 2024-12-20 07:05:00)
+
+---
+
+## Wheel-E Podcast: New Priority Current Plus, Segway e-bikes, Rad trade-ins, more
+
+date: 2024-12-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time that includes Priority Bicycles launching the new Priority Current Plus, Segway going big on e-bikes in the US, California kicking off its e-bike vouchers, NYC may try to put license plates on e-bikes, Micromobility America 2024 coverage, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="394679" href="https://electrek.co/2024/12/20/wheel-e-podcast-new-priority-current-plus-segway-e-bikes-rad-trade-ins-more/#more-394679" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/20/wheel-e-podcast-new-priority-current-plus-segway-e-bikes-rad-trade-ins-more/>
+
+---
+
+## Tesla Sales Are Tanking In Europe
+
+date: 2024-12-20, from: Inside EVs News
+
+Eleven months into 2024, Tesla is seeing a double-digit decrease in registrations. 
+
+<br> 
+
+<https://insideevs.com/news/745119/tesla-sales-europe-2024/>
+
+---
+
+## Rivian Has Delivered Over 20,000 Electric Vans To Amazon So Far
+
+date: 2024-12-20, from: Inside EVs News
+
+Amazon’s Rivian EDV fleet in the U.S. has increased by roughly 33% in four months. 
+
+<br> 
+
+<https://insideevs.com/news/745106/rivian-amazon-edv-delivery-update/>
+
+---
+
+## Model Y loses top sales spot, Walmart goes solar, and Montana is for the kids
+
+date: 2024-12-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/dacia-sandero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s energizing episode of  <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, judges rule that Montana’s companies owe their kids a cleaner future, the Dacia Sandero looks set to overtake the Tesla Model Y in the European sales race, and a bunch of other stuff.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bmw,quick-charge,tesla,walmart" data-layer-viewtype="unknown" data-post-id="394663" href="https://electrek.co/2024/12/19/model-y-loses-top-sales-spot-walmart-goes-solar-and-montana-is-for-the-kids/#more-394663" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/model-y-loses-top-sales-spot-walmart-goes-solar-and-montana-is-for-the-kids/>
+
+---
+
+## Toyota gets $4.5M DOE grant to boost EV battery sustainability
+
+date: 2024-12-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/toyota-sign.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Toyota just got a $4.5 million boost from the US Department of Energy (DOE) to make EV batteries more sustainable. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-recycling,department-of-energy,egeb,energy-brief,ev-batteries,solar,sustainability,toyota" data-layer-viewtype="unknown" data-post-id="394352" href="https://electrek.co/2024/12/19/toyota-gets-4-5m-doe-ev-batteries-more-sustainable/#more-394352" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/toyota-gets-4-5m-doe-ev-batteries-more-sustainable/>
+
+---
+
+## Five solar farms come online in Maine, slashing electricity costs
+
+date: 2024-12-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Franklin-County-Solar-Farm-Image.jpg?quality=82&#038;strip=all&#038;w=1531" /></div><p><a href="https://ampion.net/" target="_blank" rel="noreferrer noopener">Ampion Renewable Energy</a> has brought five community solar farms in Maine online, adding nearly 25 megawatts (MW) of clean energy to the grid annually and generating over 28 million kilowatt-hours (kWh) of electricity. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="community-solar,egeb,energy-brief,solar,maine,solar-power" data-layer-viewtype="unknown" data-post-id="394650" href="https://electrek.co/2024/12/19/five-solar-farms-come-online-in-maine/#more-394650" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/five-solar-farms-come-online-in-maine/>
+
+---
+
+## Check out the updated Kia EV6’s new virtual gear shift feature in action [Video]
+
+date: 2024-12-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Kia-upgraded-EV6-GT-front-side.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s electric crossover SUV is getting major improvements for 2025. The updated <a href="https://electrek.co/guides/kia-ev6/">Kia EV6</a> has more range, a Tesla NACS charging port, sleek new styling, and fun new features. Watch the video below to see how the new virtual gear shift feature works.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev6" data-layer-viewtype="unknown" data-post-id="394628" href="https://electrek.co/2024/12/19/check-out-kia-ev6s-new-virtual-gear-shift-feature-video/#more-394628" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/check-out-kia-ev6s-new-virtual-gear-shift-feature-video/>
+
+---
+
+## Quebec will ban gas engines in cars starting in 2035 – or sooner?
+
+date: 2024-12-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/matthias-mullie-VAxCHgJvZ0g-unsplash-e1734645883616.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Quebec, Canada’s second-largest province, passed a bill this week banning the sale of gasoline-powered light-duty vehicle starting in the 2035 model year – a timeline in line with <a href="https://electrek.co/2022/04/01/canadas-new-2035-gas-car-ban-may-not-actually-ban-gas-cars/">the rest of the country’s ban</a>, but the specifics of Quebec’s are even stronger.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="canada,gas-ban" data-layer-viewtype="unknown" data-post-id="394597" href="https://electrek.co/2024/12/19/quebec-will-ban-gas-engines-in-cars-starting-in-2035-or-sooner/#more-394597" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/quebec-will-ban-gas-engines-in-cars-starting-in-2035-or-sooner/>
+
+---
+
+## 'Get Butts In Seats': Inside Dodge's Plan To Convert EV Skeptics
+
+date: 2024-12-19, from: Inside EVs News
+
+To win over the Mopar faithful, Dodge is about to lean on them actually experiencing the electric Charger Daytona. 
+
+<br> 
+
+<https://insideevs.com/news/745071/dodge-charger-ev-skeptics-roadkill/>
+
+---
+
+## Tesla is working with Austin on deploying self-driving cars
+
+date: 2024-12-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Robotaxi_82-e1728620096771.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is working with the City of Austin, the automaker’s new home, on deploying self-driving cars.</p>
+
+
+
+<p>Now, Tesla simply needs to have self-driving cars.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="394589" href="https://electrek.co/2024/12/19/tesla-is-working-with-austin-on-deploying-self-driving-cars/#more-394589" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/tesla-is-working-with-austin-on-deploying-self-driving-cars/>
+
+---
+
+## MG Says Its 2025 Semi-Solid-State EV Won’t Break The Bank
+
+date: 2024-12-19, from: Inside EVs News
+
+2025 is shaping up to be a big year for solid-state batteries in EVs and SAIC-owned MG wants to be at the forefront. 
+
+<br> 
+
+<https://insideevs.com/news/745068/mg-semi-solid-state-ev/>
+
+---
+
+## Ford closes a $9.63 billion DOE loan to supercharge 3 EV battery factories
+
+date: 2024-12-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/BlueOval-SK-KY-Plant-2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In a significant boost for the US EV industry, Ford’s joint venture, <a href="https://www.blueovalsk.com/" target="_blank" rel="noreferrer noopener">BlueOval SK</a>, has closed a $9.63 billion loan from the Department of Energy’s (DOE) Loans Programs Office. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-manufacturing,ev-batteries,ford,ford-blueoval-city,kentucky,tennessee" data-layer-viewtype="unknown" data-post-id="394590" href="https://electrek.co/2024/12/19/ford-doe-loan-3-ev-battery-factories/#more-394590" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/ford-doe-loan-3-ev-battery-factories/>
+
+---
+
+## Honda’s Prologue is already the third best-selling EV in the US
+
+date: 2024-12-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Hondas-Prologue-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/honda-prologue/">Honda Prologue</a> was the third best-selling EV in the US last month, behind only the Tesla Model Y and Model 3. With over 25,000 models sold already this year, Honda’s electric SUV has been a surprise hit.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda,honda-prologue" data-layer-viewtype="unknown" data-post-id="394604" href="https://electrek.co/2024/12/19/hondas-prologue-already-third-best-selling-ev-us/#more-394604" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/hondas-prologue-already-third-best-selling-ev-us/>
+
+---
+
+## Jetson encourages world’s first eVTOL races with a pilot onboard [Video]
+
+date: 2024-12-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/eVTOL-races-Jetson-ONE.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Single-seat eVTOL developer <a href="https://electrek.co/guides/jetson/">Jetson</a> has once again become the first in its segment to do something. Well, sort of. The company recently shared footage of its founder and CTO piloting its flagship Jetson ONE eVTOL around 26-foot tall pylons to demonstrate the agility the aircraft can perform to enable full-fledged eVTOL races. Could we be seeing the early days of a new venture in motorsports?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="evtol,evtol-racing,jetson,jetson-one" data-layer-viewtype="unknown" data-post-id="394594" href="https://electrek.co/2024/12/19/jetson-encourages-worlds-first-evtol-races-with-a-pilot-onboard-video/#more-394594" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/jetson-encourages-worlds-first-evtol-races-with-a-pilot-onboard-video/>
+
+---
+
+## NIO’s low-cost Onvo EV will arrive in its first European market in early 2025
+
+date: 2024-12-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/NIOs-Model-Y-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>NIO’s new <a href="https://electrek.co/guides/nio-onvo/">Onvo EV brand</a> is finally scheduled to arrive in its first European market in early 2025. The new lower-priced EV brand is expected to play a significant role as NIO looks for a bigger share of the global auto market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nio,nio-onvo" data-layer-viewtype="unknown" data-post-id="394571" href="https://electrek.co/2024/12/19/nios-low-cost-onvo-ev-arrive-first-european-market-2025/#more-394571" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/nios-low-cost-onvo-ev-arrive-first-european-market-2025/>
+
+---
+
+## Chevy Equinox EV: How To Get One Under $30,000
+
+date: 2024-12-19, from: Inside EVs News
+
+Considering the incentives that both dealers and GM are offering, the Equinox EV is incredibly affordable. 
+
+<br> 
+
+<https://insideevs.com/news/745048/chevy-equinox-ev-lt-deals/>
+
+---
+
+## NIU Christmas sale drops KQi2 Pro e-scooter to $379 2024 low, Goal Zero 1500X $779, Hoverfly EVs, Rexing EV adapters, more
+
+date: 2024-12-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/NIU-KQi2-Pro-Electric-Kick-Scooter.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Leading today’s Green Deals is the latest Christmas sale that we spotted from NIU, with up to 42% being taken off its e-scooter lineup, like the <a href="https://9to5toys.com/2024/12/19/niu-christmas-sale-kqi2-pro-2024-low/">KQi2 Pro Electric Kick Scooter</a> that hit a new <a href="https://9to5toys.com/2024/12/19/niu-christmas-sale-kqi2-pro-2024-low/">$379</a> 2024 low. From there, we have a returning low price on <a href="https://9to5toys.com/2024/12/18/goal-zero-yeti-1500x-779-low/">Goal Zero’s Yeti 1500X</a> Portable Power Station at <a href="https://9to5toys.com/2024/12/18/goal-zero-yeti-1500x-779-low/">$779</a>, as well as a new low rate for Hoverfly’s entry-level <a href="https://9to5toys.com/2024/12/19/hoverfly-h3-e-bike-new-423-low/">H3 16-inch Folding e-bike</a> down at <a href="https://9to5toys.com/2024/12/19/hoverfly-h3-e-bike-new-423-low/">$423</a>. Lastly, we have two <a href="https://9to5toys.com/2024/12/19/ev-adapters-and-cable-for-tesla-drivers-50/">Rexing EV charger adapters</a> and <a href="https://9to5toys.com/2024/12/19/ev-adapters-and-cable-for-tesla-drivers-50/">one extension cable</a> for Tesla drivers/owners at up to $100 off and starting from <a href="https://9to5toys.com/2024/12/19/ev-adapters-and-cable-for-tesla-drivers-50/">$50</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2024/12/18/jackery-christmas-flash-sale-explorer-2000-v2/">Jackery Christmas flash sale</a> that ends tonight, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="394570" href="https://electrek.co/2024/12/19/niu-christmas-sale-goal-zero-hoverfly-rexing/#more-394570" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/niu-christmas-sale-goal-zero-hoverfly-rexing/>
+
+---
+
+## Tesla delivers electric semi trucks to another customer, confirms efficiency
+
+date: 2024-12-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Tesla-Semi-SAIA.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has officially delivered its Tesla Semi electric trucks to a rare new customer, who confirmed the truck’s efficiency.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-semi" data-layer-viewtype="unknown" data-post-id="394557" href="https://electrek.co/2024/12/19/tesla-delivers-electric-semi-trucks-to-another-customer-confirms-efficiency/#more-394557" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/tesla-delivers-electric-semi-trucks-to-another-customer-confirms-efficiency/>
+
+---
+
+## BYD is taking the auto market by storm, forcing legacy rivals to make desperate moves
+
+date: 2024-12-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/BYD-new-EVs-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s EV leaders are rapidly gaining market share from legacy automakers. And it’s not only in China. <a href="https://electrek.co/guides/byd/">BYD</a> and other Chinese EV makers are expanding overseas to drive growth. Facing a shrinking market share, legacy rivals are taking drastic measures to keep up.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="394539" href="https://electrek.co/2024/12/19/byd-takes-global-ev-market-by-storm-rivals-make-drastic-moves/#more-394539" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/byd-takes-global-ev-market-by-storm-rivals-make-drastic-moves/>
+
+---
+
+## Nissan Leaf: The Used Buyer's Guide
+
+date: 2024-12-19, from: Inside EVs News
+
+If you’re looking to get from A to a reasonably distanced point B on a budget, a used Nissan Leaf could be an intriguing option. 
+
+<br> 
+
+<https://insideevs.com/news/745015/nissan-leaf-used-buying-guide/>
+
+---
+
+## Study shows Waymo’s robotaxi platform provides significantly higher safety performance than human drivers
+
+date: 2024-12-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Waymo-Google-investment.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>There are still many questions surrounding the plausibility of full-fledged autonomous robotaxi operations around the world, but <a href="https://electrek.co/guides/waymo">Waymo</a>, one of the current leaders in the segment, is putting at least one stigma to rest. A new study conducted with the help of reinsurance provider Swiss Re used hundreds of thousands of liability claims to demonstrate that robotaxi vehicles using the Waymo Driver platform deliver significantly higher safety performance than vehicles operated by a human driver.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous-driving,autonomous-vehicle,robotaxi,waymo" data-layer-viewtype="unknown" data-post-id="394548" href="https://electrek.co/2024/12/19/study-waymos-robotaxi-provides-higher-safety-performance-than-human-drivers/#more-394548" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/study-waymos-robotaxi-provides-higher-safety-performance-than-human-drivers/>
+
+---
+
+## Heybike Hauler review: A 1,400W electric cargo bike for the family
+
+date: 2024-12-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/heybike-hauler-header-image.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>There’s nothing worse than a weak cargo e-bike that struggles on hills and under heavy loads. That’s why Heybike ensured the deck was stacked in riders’ favor when they built the <a href="https://shrsl.com/4shke">Heybike Hauler electric cargo bike</a>. With a 1,400W peak-rated motor and 28 mph speeds, it sounded ready to rock n’ roll. And now that I’ve been testing one out for a while, here are my thoughts on the latest budget-oriented yet high-power family e-bike.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,review" data-layer-viewtype="unknown" data-post-id="394457" href="https://electrek.co/2024/12/19/heybike-hauler-review-a-1400w-electric-cargo-bike-for-the-family/#more-394457" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/heybike-hauler-review-a-1400w-electric-cargo-bike-for-the-family/>
+
+---
+
+## Tesla Model Y Juniper Could Enter Production In Shanghai In January
+
+date: 2024-12-19, from: Inside EVs News
+
+The refreshed version of the world’s best-selling EV is expected to bring important changes and improvements. 
+
+<br> 
+
+<https://insideevs.com/news/745040/tesla-model-y-juniper-january/>
+
+---
+
+## Tesla (TSLA) sales in Europe are down 14% year-to-date and it’s time to worry
+
+date: 2024-12-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesa-Supercharger-for-all-hero.jpg?quality=82&#038;strip=all&#038;w=1237" /></div><p>European automotive sales numbers are out, and Tesla’s sales are down 13.7% year-to-date. It is driving the entire EV market down.</p>
+
+
+
+<p>If you take Tesla out of the equation, the European EV market is up.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="394522" href="https://electrek.co/2024/12/19/tesla-tsla-sales-in-europe-are-down-14-year-to-date-and-its-time-to-worry/#more-394522" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/tesla-tsla-sales-in-europe-are-down-14-year-to-date-and-its-time-to-worry/>
+
+---
+
+## Tesla Model Y likely to lose its crown as top-selling car in Europe to Dacia Sandero
+
+date: 2024-12-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/2024-Tesla-Prices-Model-Y.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Unless Tesla pulls out a miracle in the final stretch, the Telsa Model Y very likely won’t take the lead as Europe’s best-selling vehicle this year. That honor looks to be going to an entirely different type of vehicle, the ICE hatchback Dacia Sandero.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="394535" href="https://electrek.co/2024/12/19/tesla-model-y-likely-to-lose-its-crown-as-top-selling-car-in-europe-to-dacia-sandero/#more-394535" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/tesla-model-y-likely-to-lose-its-crown-as-top-selling-car-in-europe-to-dacia-sandero/>
+
+---
+
+## Toyota wants to make owning an EV more affordable, but where are the choices?
+
+date: 2024-12-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Toyota-EV-more-affordable.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/toyota/">Toyota</a> vows to make owning an EV even more affordable, but with only one model available in the US, it’s not giving buyers many options. After another delay to its upcoming electric SUV, here’s when you can expect to see more Toyota EV models roll out.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="394499" href="https://electrek.co/2024/12/19/toyota-wants-more-affordable-evs-but-where-are-the-choices/#more-394499" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/toyota-wants-more-affordable-evs-but-where-are-the-choices/>
+
+---
+
+## Honda-Nissan Merger May Prevent A Hostile Takeover
+
+date: 2024-12-19, from: Inside EVs News
+
+Plus, Canoo is once again in trouble as it furloughs more workers and Subaru is betting big on a new hybrid plant. 
+
+<br> 
+
+<https://insideevs.com/news/744929/2024-12-19-cm/>
+
+---
+
+## GAC Group launches new eVTOL business and unveils flagship model called the AirJet
+
+date: 2024-12-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/GAC-eVTOL-Govy.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chinese auto conglomerate GAC Group is delving further into sustainable air transportation with a new eVTOL-centric business venture called Govy. The company unveiled its flagship aircraft, the AirJet, during the announcement of the new brand. AirJet is <a href="https://electrek.co/guides/gac-group/">GAC’s</a> second “flying car” design in two years, but this iteration is more of a traditional eVTOL.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="evtol,gac-gove,gac-group,govy" data-layer-viewtype="unknown" data-post-id="394502" href="https://electrek.co/2024/12/19/gac-group-new-evtol-busines-unveils-flagship-model-airjet/#more-394502" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/19/gac-group-new-evtol-busines-unveils-flagship-model-airjet/>
 
 ---
 

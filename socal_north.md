@@ -1,11 +1,184 @@
 ---
 title: socal north
-updated: 2024-12-19 07:05:14
+updated: 2024-12-20 07:04:57
 ---
 
 # socal north
 
-(date: 2024-12-19 07:05:14)
+(date: 2024-12-20 07:04:57)
+
+---
+
+## Partly cloudy skies with cooler temperatures
+
+date: 2024-12-20, updated: 2024-12-20, from: The LAist
+
+SoCal weather will cool down over the weekend and there's a chance of rain on Christmas Eve. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/partly-cloudy-skies-with-cooler-temperatures>
+
+---
+
+## A year ago, Andrew Do called for LAist to fire our reporter. Here are key takeaways from the investigation
+
+date: 2024-12-20, updated: 2024-12-20, from: The LAist
+
+Nearly a year after LAist started investigating what happened to millions in taxpayer dollars, Do pleaded guilty to federal charges and resigned as an O.C. supervisor. Catch up on key moments. 
+
+<br> 
+
+<https://laist.com/news/politics/andrew-do-laist-fire-reporter-nick-gerda-investigation>
+
+---
+
+## Three more possible cases of bird flu in LA County cats; 4 cases confirmed
+
+date: 2024-12-20, updated: 2024-12-20, from: The LAist
+
+People are being urged to avoid raw milk and sick birds, and that includes your pets. 
+
+<br> 
+
+<https://laist.com/news/health/more-possible-cases-of-bird-flu-in-la-county-cats>
+
+---
+
+## Santa Ana’s 'community gem' of a bookstore is at risk of shutting down
+
+date: 2024-12-20, updated: 2024-12-20, from: The LAist
+
+LibroMobile is a community arts, culture and history hub run by the city’s youth. 
+
+<br> 
+
+<https://laist.com/news/santa-ana-bookstore-risk-of-shutting-down>
+
+---
+
+## A tamalada tradition keeps my fourth-gen Mexican American family connected to our roots
+
+date: 2024-12-20, updated: 2024-12-20, from: The LAist
+
+A cultural staple, the tamal helps bring members of the Curiel family together. 
+
+<br> 
+
+<https://laist.com/news/food/tamalada-tradition-mexican-american-family-connected-to-roots>
+
+---
+
+## Legendary LA delis spill their matzo ball soup secrets
+
+date: 2024-12-20, updated: 2024-12-20, from: The LAist
+
+Sinkers, swimmers: how to make the best matzo balls. 
+
+<br> 
+
+<https://laist.com/news/food/la-delis-spill-their-matzo-ball-soup-secrets>
+
+---
+
+## Look at those baby lizards! LA Zoo welcomes perentie hatchlings
+
+date: 2024-12-20, updated: 2024-12-20, from: The LAist
+
+The long-necked animals are among the world’s largest lizards. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-zoo-welcomes-perentie-hatchlings>
+
+---
+
+## CHIRLA Leads Rally in Downtown LA for International Migrants Day
+
+date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="684" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?fit=1024%2C684&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=1024%2C684&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=2048%2C1367&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=1568%2C1047&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=2000%2C1335&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?fit=1024%2C684&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; In honor of International Migrants Day, local organizations and hundreds of people rallied in downtown Los Angeles yesterday in an act of solidarity with immigrants, who [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/19/chirla-leads-rally-in-downtown-la-for-international-migrants-day/">CHIRLA Leads Rally in Downtown LA for International Migrants Day</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/19/chirla-leads-rally-in-downtown-la-for-international-migrants-day/>
+
+---
+
+## Newly elected LA City Councilmember Ysabel Jurado sets her eyes on public services, housing, and homelessness
+
+date: 2024-12-19, updated: 2024-12-19, from: The LAist
+
+Jurado shares her first time priorities after replacing incumbent Kevin de León to represent district 14. 
+
+<br> 
+
+<https://laist.com/news/politics/newly-elected-la-city-councilmember-ysabel-jurado-sets-her-eyes-on-public-services-housing-and-homelessness>
+
+---
+
+## Researchers find vole-munching squirrels in East Bay park
+
+date: 2024-12-19, updated: 2024-12-19, from: The LAist
+
+For the first time, researchers captured squirrels in Contra Costa County hunting and killing voles, small rodents related to hamsters that typically weigh less than two ounces. 
+
+<br> 
+
+<https://laist.com/news/researchers-find-vole-munching-squirrels-in-east-bay-park>
+
+---
+
+## What Are You Thankful For This Holiday Season?
+
+date: 2024-12-19, from: City of Santa Clarita
+
+<p>By Mayor Pro Tem Laurene Weste &#160;“The holiday season is a perfect time to reflect on our blessings and seek out ways to make life better for those around us.” – Anonymous &#160; Reflecting on this past year, there are so many things to be thankful for. Whether it is our health, happiness or the [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/12/19/what-are-you-thankful-for-this-holiday-season/">What Are You Thankful For This Holiday Season?</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/12/19/what-are-you-thankful-for-this-holiday-season/>
+
+---
+
+## California’s lemon law is changing and car buyers have fewer protections in the new year
+
+date: 2024-12-19, updated: 2024-12-19, from: The LAist
+
+Californians who purchase a clunker car in 2025 face a confusing year as new lemon law rules take effect and the state Supreme Court limited warranty protections for used vehicles. 
+
+<br> 
+
+<https://laist.com/news/california-lemon-law-changes-fewer-protections-in-the-new-year>
+
+---
+
+## Want to visit Europe in 2025? You'll need to apply for new travel authorization
+
+date: 2024-12-19, updated: 2024-12-19, from: The LAist
+
+In January 2025, the U.K. will require an electronic travel authorization for visitors and the European Union will require the same mid-2025. 
+
+<br> 
+
+<https://laist.com/news/europe-2025-travel-authorization-requirement>
+
+---
+
+## LA County Supervisors are changing the way they do meetings, will it work to boost public input?
+
+date: 2024-12-19, updated: 2024-12-19, from: The LAist
+
+Supervisors plan to try a procedural change. 
+
+<br> 
+
+<https://laist.com/news/politics/la-county-supervisors-are-changing-the-way-they-do-meetings-will-it-work-to-boost-public-input>
 
 ---
 
@@ -61,7 +234,7 @@ Besides Rhiannon Do, Andrew Do’s other daughter received $100,000 in stolen ta
 
 date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="730" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?fit=1024%2C730&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?w=1536&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=300%2C214&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=1024%2C730&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=768%2C548&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=1200%2C855&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=400%2C285&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=706%2C503&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?fit=1024%2C730&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="730" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?fit=1024%2C730&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?w=1536&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=300%2C214&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=1024%2C730&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=768%2C548&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=1200%2C855&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=400%2C285&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=706%2C503&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?fit=1024%2C730&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A partir de las 6:00 a.m., las familias comenzaron a hacer fila en las aceras afuera del Parque Recreativo David Gonzales en Pacoima para el tercer sorteo anual de juguetes, [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/12/18/el-sorteo-y-festival-de-juguetes-pacoima-holiday-in-the-park-trae-grandes-sonrisas/">El Sorteo y Festival de Juguetes &#8216;Pacoima Holiday in the Park&#8217; Trae Grandes Sonrisas</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -241,9 +414,9 @@ The LAPD called deputy mayor of public safety Brian Williams the "likely" source
 
 ---
 
-## More infants in OC are getting exposed to substances, report finds
+## More infants in OC are getting exposed to harmful substances, report finds
 
-date: 2024-12-18, updated: 2024-12-18, from: The LAist
+date: 2024-12-18, updated: 2024-12-19, from: The LAist
 
 The finding is among several in Orange County's "Conditions of Children" report identifying youth and maternal health disparities. 
 

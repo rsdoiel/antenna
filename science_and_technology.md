@@ -1,11 +1,419 @@
 ---
 title: science and technology
-updated: 2024-12-19 07:05:15
+updated: 2024-12-20 07:04:58
 ---
 
 # science and technology
 
-(date: 2024-12-19 07:05:15)
+(date: 2024-12-20 07:04:58)
+
+---
+
+## 25 Years Ago: STS-103, The Hubble Servicing Mission-3A
+
+date: 2024-12-20, from: NASA breaking news
+
+ “Trying to do stellar observations from Earth is like trying to do birdwatching from the bottom of a lake.” James B. Odom, Hubble Program Manager 1983-1990. The third servicing mission to the Hubble Space Telescope, placed in orbit in 1990, occurred during the STS-103 mission in December 1999. During the mission, originally planned for June [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/25-years-ago-sts-103-the-hubble-servicing-mission-3a/>
+
+---
+
+## The Automattic vs WP Engine WordPress wars are getting really annoying
+
+date: 2024-12-20, updated: 2024-12-20, from: The Register (UK I.T. News)
+
+<h4>Forks at dawn.... but it&#39;s not great sign for open source</h4> <p><strong>Opinion</strong>  I am so sick of this. I&#39;ve been a happy WordPress user since it rolled out the door in 2003, and I kissed Vignette (since acquired by OpenText) goodbye. WordPress was just so much easier to use than the alternatives; it was open source; and it was free. It was such a win!…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/20/opinion_column_wordpress/>
+
+---
+
+## NASA, Notre Dame Connect Students to Inspire STEM Careers
+
+date: 2024-12-20, from: NASA breaking news
+
+High school students in Indiana are contributing to NASA’s groundbreaking research to develop quieter, more fuel-efficient aircraft engines. Their learning experience is a collaboration between aircraft noise researchers from NASA’s Glenn Research Center in Cleveland and educators from the University of Notre Dame’s Turbomachinery Laboratory. The collaboration aims to encourage students&#8217; interest in science, technology, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-notre-dame-connect-students-to-inspire-stem-careers/>
+
+---
+
+## NASA Flight Rerouting Tool Curbs Delays, Emissions
+
+date: 2024-12-20, from: NASA breaking news
+
+It’s the holiday season — which means many are taking to the skies to join their loved ones. If you’ve ever used an app to navigate on a road trip, you’ve probably noticed how it finds you the most efficient route to your destination, even before you depart. To that end, NASA has been working [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/nasa-flight-tool-curbs-delays-emissions/>
+
+---
+
+## The Ten Most Significant Science Stories of 2024
+
+date: 2024-12-20, from: Smithsonian Magazine
+
+From a total solar eclipse that captivated our continent to record temperatures that scorched the planet, these were the biggest moments of the year 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-ten-most-significant-science-stories-of-2024-180985698/>
+
+---
+
+## Hubble Spies a Cosmic Eye
+
+date: 2024-12-20, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image features the spiral galaxy NGC 2566, which sits 76 million light-years away in the constellation Puppis. A prominent bar of stars stretches across the center of this galaxy, and spiral arms emerge from each end of the bar. Because NGC 2566 appears tilted from our perspective, its disk takes […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-spies-a-cosmic-eye/>
+
+---
+
+## On This Day in 1951, Four Illuminated Lightbulbs in Idaho Were Evidence of the First Time a Nuclear Power Plant Generated Electricity
+
+date: 2024-12-20, from: Smithsonian Magazine
+
+Although it was just a byproduct of developing a new type of reactor, the generation of electricity from nuclear energy signaled a bright future ahead 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/on-this-day-in-1951-four-illuminated-lightbulbs-in-idaho-were-evidence-of-the-first-time-a-nuclear-power-plant-generated-electricity-180985710/>
+
+---
+
+## Fedora Asahi Remix 41 for Apple Macs is out
+
+date: 2024-12-20, updated: 2024-12-20, from: The Register (UK I.T. News)
+
+<h4>New shiny if you run Linux on an M1 or M2</h4> <p>The Fedora 41 version of Asahi Linux is out – the go-to Linux distro for Apple Silicon Macs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/20/fedora_asahi_41_out/>
+
+---
+
+## Sols 4398-4401: Holidays Ahead, Rocks Under the Wheels
+
+date: 2024-12-20, from: NASA breaking news
+
+Earth planning date: Wednesday, Dec. 18, 2024 It’s almost holiday time, and preparations are going ahead on Earth and Mars! For myself that means having a packed suitcase sitting behind me to go on my holiday travels tomorrow morning. For Curiosity that means looking forward to a long semi-rest, as we will not do our […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4398-4401-holidays-ahead-rocks-under-the-wheels/>
+
+---
+
+## Techie fluked a fix and found himself the abusive boss's best friend
+
+date: 2024-12-20, updated: 2024-12-20, from: The Register (UK I.T. News)
+
+<h4>And there his troubles began …</h4> <p><strong>On Call</strong>  Digital technology remains frighteningly finickity, which is why good tech support people are always in demand – and also the reason <i>The Register</i> never tires of telling your support stories each Friday in On Call, the column your generosity makes possible.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/20/on_call/>
+
+---
+
+## Rocks from Chinese Moon mission suggest Luna's history needs revision
+
+date: 2024-12-20, updated: 2024-12-20, from: The Register (UK I.T. News)
+
+<h4>Meanwhile, NASA signs off on Artemis software upgrade</h4> <p>Chinese scientists think it&#39;s time to rewrite the Moon&#39;s history after analyzing samples returned to Earth by the Chang&#39;e 6 mission.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/20/chinese_moon_samples_analysis/>
+
+---
+
+## Infosec experts divided on AI's potential to assist red teams
+
+date: 2024-12-20, updated: 2024-12-20, from: The Register (UK I.T. News)
+
+<h4>Yes, LLMs can do the heavy lifting. But good luck getting one to give evidence</h4> <p><strong>CANALYS FORUMS APAC</strong>  Generative AI is being enthusiastically adopted in almost every field, but infosec experts are divided on whether it is truly helpful for red team raiders who test enterprise systems.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/20/gen_ai_red_teaming/>
+
+---
+
+## NASA Cameras to Capture Interaction Between Blue Ghost, Moon’s Surface
+
+date: 2024-12-20, from: NASA breaking news
+
+Say cheese again, Moon. We’re coming in for another close-up. For the second time in less than a year, a NASA technology designed to collect data on the interaction between a Moon lander’s rocket plume and the lunar surface is set to make the long journey to Earth’s nearest celestial neighbor for the benefit of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-cameras-to-capture-interaction-between-blue-ghost-moons-surface/>
+
+---
+
+## Microsoft coughs up yet more Windows 11 24H2 headaches
+
+date: 2024-12-19, updated: 2024-12-19, from: The Register (UK I.T. News)
+
+<h4>Users report the sound of silence from operating system update</h4> <p>Microsoft has logged some new known issues with Windows 11 24H2 and thrown up more safeguard holds until the problems are resolved.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/19/windows_11_24h2_issues/>
+
+---
+
+## Perseverance Blasts Past the Top of Jezero Crater Rim
+
+date: 2024-12-19, from: NASA breaking news
+
+I have always loved the mountains. Growing up on the flat plains of Midwestern USA, every summer I looked forward to spending a few days on alpine trails while on vacation. Climbing upward from the trailhead, the views changed constantly. After climbing a short distance, the best views were often had by looking back down […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/perseverance-blasts-past-the-top-of-jezero-crater-rim/>
+
+---
+
+## NetBSD 10.1 released
+
+date: 2024-12-19, from: OS News
+
+NetBSD 10.1 has been released. As the version number indicates, this isn&#8217;t supposed to be a major, groundbreaking release, but it still contains a ton of changes, fixes, and improvements. It&#8217;s got the usual set of new and improved drivers, kernel improvements &#8211; like the ability to hotplug spares and components in a RAID &#8211; and improvements for various specific architectures, and much more. If you&#8217;re using NetBSD you already know how to upgrade, and if you&#8217;re not yet using NetBSD, here&#8217;s the download page for the various supported architectures. There are a lot of them. 
+
+<br> 
+
+<https://www.osnews.com/story/141389/netbsd-10-1-released/>
+
+---
+
+## The European Commission’s proposed interoperability measures place Apple under a form of guardianship
+
+date: 2024-12-19, from: OS News
+
+What&#8217;s the European Commission to do when one of the largest corporations in the world has not only been breaking its laws continually, but also absolutely refuses to comply, uses poison pills in its malicious compliance, badmouths you in the press through both official &#8211; and unofficial &#8211; employees? Well, you start telling that corporation exactly what it needs to do to comply, down to the most minute implementation details, and in the process take away any form of wiggle room. Steven Troughton-Smith, an absolute wizard when it comes to the inner workings of Apple&#8217;s various platforms and allround awesome person, dove into the European Commission&#8217;s proposed next steps when it comes to dealing with Apple&#8217;s refusal to comply with EU law &#8211; the Digital Markets Act, in particular &#8211; and it&#8217;s crystal-clear that the EC is taking absolutely no prisoners. They&#8217;re not only telling Apple exactly what kind of interoperability measures it must take, down to the API level, but they&#8217;re also explicitly prohibiting Apple from playing games through complex contracts and nebulous terms to try and make interoperability a massive burden. As an example of just how detailed the EC is getting with Apple, here&#8217;s what the company needs to do to make AirDrop interoperable: Apple shall provide a protocol specification that gives third parties all information required to integrate, access, and control the AirDrop protocol within an application or service (including as part of the operating system) running on a third-party connected physical device in order to allow these applications and services to send files to, and receive files from, an iOS device. ↫ European Commission In addition, Apple must make any new features or changes to AirDrop available to third parties at the same time as it releases them: For future functionalities of or updates to the AirDrop feature, Apple shall make them available to third parties no later than at the time they are made available to any Apple connected physical device. ↫ European Commission These specific quotes only cover AirDrop, but similar demands are made about things like AirPlay, the easy pairing process currently reserved for Apple&#8217;s own accessories, and so on. I highly suggest reading the source document, or at the very least the excellent summary thread by Steven, to get an even better idea of what the EC is demanding here. The changes must be made in the next major version of iOS, or at the very latest before the end of 2025. The EC really goes into excruciating detail about how Apple is supposed to implement these interoperability features, and leaves very little to no wiggle room for Apple shenanigans. The EC is also clearly fed up with Apple&#8217;s malicious compliance and other tactics to violate the spirit of the DMA: Apple shall not impose any restrictions on the type or use case of the software application and connected physical device that can access or makeuse of the features listed in this Document. Apple shall not undermine effective interoperability with the 11 features set out in this Document by behaviour of a technical nature. In particular, Apple shall actively take all the necessary actions to allow effective interoperability with these features.  Apple shall not impose any contractual or commercial restrictions that would be opaque, unfair, unreasonable, or discriminatory towards third parties or otherwise defeat the purpose of enabling effective interoperability. In particular, Apple shall not restrict business users, directly or indirectly, to make use of any interoperability solution in their existing apps via an automatic update. ↫ European Commission What I find most interesting about all of this is that it could have been so easily avoided by Apple. Had Apple approached the EU and the DMA with the same kind of respect, grace, and love Apple and Tim Cook clearly reserve for totalitarian dictatorships like China, Apple could&#8217;ve enabled interoperability in such a way that it would still align with most of Apple&#8217;s interests. They would&#8217;ve avoided the endless stream of negative press this fruitless &#8220;fight&#8221; with the EU is generating, and it would&#8217;ve barely impacted Apple&#8217;s bottom line. Put it on one of those Apple microsites that capture your scrolling, boast about how amazing Apple is and how much they love interoperability, and it most likely would&#8217;ve been a massive PR win. Instead, under the mistaken impression that this is a business negotiation, Apple tried to cry, whine, throw tamper tantrums, and just generally act like horrible spoiled brats just because someone far, far more powerful than they are told them &#8220;no&#8221; for once. Now they&#8217;ve effectively been placed under guardianship, and have to do exactly as the European Commission tells them to, down to the API level, without any freedom to make their own choices. The good thing is that the EC&#8217;s journey to make iOS a better and more capable operating system continues. We all benefit. Well, us EU citizens, anyway. 
+
+<br> 
+
+<https://www.osnews.com/story/141387/the-european-commissions-proposed-interoperability-measures-place-apple-under-a-form-of-guardianship/>
+
+---
+
+## These 500-Year-Old Cannons May Help Unravel the Mysteries of the Coronado Expedition
+
+date: 2024-12-19, from: Smithsonian Magazine
+
+The 16th-century artifacts were found during excavations in Arizona. Researchers say they may be the oldest firearms ever discovered in the continental United States 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/these-500-year-old-cannons-may-help-unravel-the-mysteries-of-the-coronado-expedition-180985688/>
+
+---
+
+## Axiom Space shuffles space station assembly sequence – to get it standalone sooner
+
+date: 2024-12-19, updated: 2024-12-19, from: The Register (UK I.T. News)
+
+<h4>Aiming to be freeflying by 2028. Handy if anything should happen to the ISS</h4> <p>Axiom Space has shuffled the assembly sequence of its space station to remove any dependence it would have on the International Space Station (ISS) by as soon as 2028.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/19/axiom_space_shuffles_station_assembly/>
+
+---
+
+## Gateway: Wired for Deep Space
+
+date: 2024-12-19, from: NASA breaking news
+
+A maze of cables and sensors snakes through a major piece of Gateway, humanity’s first space station around the Moon, during a key testing phase earlier this year to ensure the lunar-orbiting science lab can withstand the harsh conditions of deep space. HALO (Habitation and Logistics Outpost) is one of four Gateway modules where international [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/gateway-wired-for-deep-space/>
+
+---
+
+## A Homeowner Found Huge, Fossil Teeth While Mowing the Lawn. Then, Excavations Revealed a Complete Mastodon Jaw
+
+date: 2024-12-19, from: Smithsonian Magazine
+
+The new discovery is the first of its kind in New York state for at least 11 years and appeared in a county rich with mastodon remains 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-homeowner-found-huge-fossil-teeth-while-mowing-the-lawn-then-excavations-revealed-a-complete-mastodon-jaw-180985703/>
+
+---
+
+## New Report Analyzes Long History of NASA Support for Commercial Space
+
+date: 2024-12-19, from: NASA breaking news
+
+NASA published a new report Thursday highlighting 17 agency mechanisms that have directly and indirectly supported the development and growth of the U.S. commercial space sector for the benefit of humanity. The report, titled Enabling America on the Space Frontier: The Evolution of NASA’s Commercial Space Development Toolkit, is available on the agency’s website. “This [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/organizations/otps/new-report-analyzes-long-history-of-nasa-support-for-commercial-space/>
+
+---
+
+## Artemis II Core Stage Vertical Integration Begins at NASA Kennedy
+
+date: 2024-12-19, from: NASA breaking news
+
+NASA has taken a big step forward in how engineers will assemble and stack future SLS (Space Launch System) rockets for Artemis Moon missions inside the Vehicle Assembly Building (VAB) at the agency’s Kennedy Space Center in Florida. The VAB’s High Bay 2 has been outfitted with new tooling to facilitate the vertical integration of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/artemis-ii-core-stage-vertical-integration-begins-at-nasa-kennedy/>
+
+---
+
+## This Once-Rare Lizard Bounced Back From the Brink of Extinction After 'Painstaking' Restoration Efforts in the Caribbean
+
+date: 2024-12-19, from: Smithsonian Magazine
+
+In 2018, fewer than 100 Sombrero ground lizards remained on Sombrero Island—but now, more than 1,600 of the critically endangered reptiles are scampering around the limestone landscape 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-once-rare-lizard-bounced-back-from-the-brink-of-extinction-after-painstaking-restoration-efforts-in-the-caribbean-180985704/>
+
+---
+
+## US bipartisan group publishes laundry list of AI policy requests
+
+date: 2024-12-19, updated: 2024-12-19, from: The Register (UK I.T. News)
+
+<h4>Chair Jay Obernolte urges Congress to act – whether it will is another matter</h4> <p>After 10 months of work, the bipartisan Task Force on Artificial Intelligence in the US house of Congress has unveiled its report, outlining recommendations for federal AI policy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/19/house_ai_policy_requests/>
+
+---
+
+## Utah's Spellbinding 'Spiral Jetty' Has Been Added to the National Register of Historic Places
+
+date: 2024-12-19, from: Smithsonian Magazine
+
+Robert Smithson constructed the famous 1,500-foot-long land artwork on the shore of the Great Salt Lake in 1970 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/utahs-spellbinding-spiral-jetty-has-been-added-to-the-national-register-of-historic-places-180985702/>
+
+---
+
+## Meet the Brazilian Velvet Ant, a Rare 'Ultra-Black' Wasp That's So Dark It Absorbs Almost All Visible Light
+
+date: 2024-12-19, from: Smithsonian Magazine
+
+While the distinctive coloration is thought to be a warning to predators, it also has intriguing implications for designing man-made materials 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/meet-the-brazilian-velvet-ant-a-rare-ultra-black-wasp-thats-dark-that-it-absorbs-almost-all-visible-light-180985701/>
+
+---
+
+## Million GPU clusters, gigawatts of power – the scale of AI defies logic
+
+date: 2024-12-19, updated: 2024-12-19, from: The Register (UK I.T. News)
+
+<h4>It&#39;s not just one hyperbolic billionaire – the entire industry is chasing the AI dragon</h4> <p><strong>Comment</strong>  Next year will see some truly monstrous compute projects get underway as the AI boom enters its third year. Among the largest disclosed so far is xAI&#39;s plan to expand its Colossus AI supercomputer from an already impressive 100,000 GPUs to a cool million.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/19/scale_ai_defies_logic/>
+
+---
+
+## Archaeologists Say This Tiny Amulet Is the Oldest Evidence of Christianity Found North of the Alps
+
+date: 2024-12-19, from: Smithsonian Magazine
+
+Discovered in central Germany, the 1,800-year-old silver artifact held a tiny scroll, which researchers have now deciphered using high-resolution scans 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-say-this-tiny-amulet-is-the-oldest-evidence-of-christianity-found-north-of-the-alps-180985674/>
+
+---
+
+## Ancient Texts Reveal How Mesopotamians Felt Emotions—From Happiness in the Liver to Anger in the Feet
+
+date: 2024-12-19, from: Smithsonian Magazine
+
+Researchers found that ancient Mesopotamians associated body parts with emotions, just as we do—but they discovered some hilarious differences 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/ancient-texts-reveal-how-mesopotamians-felt-emotions-from-happiness-in-the-liver-to-anger-in-the-feet-180985675/>
+
+---
+
+## The Year in Computer Science
+
+date: 2024-12-19, from: Quanta Magazine
+
+Researchers got a better look at the thoughts of chatbots, amateurs learned exactly how complicated simple systems can be, and quantum computers passed an essential milestone.            <p>The post <a href="https://www.quantamagazine.org/the-year-in-computer-science-20241219/" target="_blank">The Year in Computer Science</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-year-in-computer-science-20241219/>
+
+---
+
+## How Will We Know We’re Not Alone?
+
+date: 2024-12-19, from: Quanta Magazine
+
+The first planet beyond our solar system was identified just 30 years ago. Since then, thousands have been found and characterized. As we look for more, exoplanet experts are also probing for signs of alien biospheres hundreds of light-years away. In this episode, co-host Janna Levin speaks with astrophysicist and astrobiologist Lisa Kaltenegger about how we’ll know we’re not alone in the cosmos.            <p>The post <a href="https://www.quantamagazine.org/how-will-we-know-were-not-alone-20241219/" target="_blank">How Will We Know We’re Not Alone?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-will-we-know-were-not-alone-20241219/>
+
+---
+
+## Who Was Frances Perkins? Meet the Trailblazing Workers' Rights Advocate Whose Homestead Just Became a National Monument
+
+date: 2024-12-19, from: Smithsonian Magazine
+
+Perkins was America’s first female cabinet secretary and the longest-serving Secretary of Labor 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/who-was-frances-perkins-meet-the-trailblazing-workers-rights-advocate-whose-homestead-just-became-a-national-monument-180985697/>
+
+---
+
+## Stranded in space: Starliner crew to remain in orbit even longer as SpaceX faces delays
+
+date: 2024-12-19, updated: 2024-12-19, from: The Register (UK I.T. News)
+
+<h4>Week-long mission set to stretch into ninth month</h4> <p>Two astronauts who traveled to the International Space Station aboard Boeing&#39;s problem-plagued Starliner are facing another extended delay. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/19/spacex_delayed_boeing_crew/>
 
 ---
 
@@ -366,6 +774,18 @@ The 35,000-year-old rock was found in Manot Cave, which was inhabited by both pr
 <br> 
 
 <https://www.smithsonianmag.com/smart-news/a-mysterious-boulder-carved-look-like-tortoise-shell-may-offer-evidence-israels-earliest-ritual-ceremonies-180985691/>
+
+---
+
+## A Mysterious Boulder Carved to Look Like a Tortoise Shell May Offer Evidence of the Middle East's Earliest Ritual Ceremonies
+
+date: 2024-12-18, from: Smithsonian Magazine
+
+The 35,000-year-old rock was found in Manot Cave, which was inhabited by both prehistoric humans and Neanderthals 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-mysterious-boulder-carved-look-like-tortoise-shell-may-offer-evidence-middle-east-earliest-ritual-ceremonies-180985691/>
 
 ---
 
@@ -1247,9 +1667,9 @@ date: 2024-12-16, updated: 2024-12-16, from: The Register (UK I.T. News)
 
 ## Take a closer look at Nvidia's buy of Run.ai, European Commission told
 
-date: 2024-12-16, updated: 2024-12-18, from: The Register (UK I.T. News)
+date: 2024-12-16, updated: 2024-12-20, from: The Register (UK I.T. News)
 
-<h4>Campaign groups, non-profit orgs urge action to prevent GPU maker tightening grip on AI industry</h4> <p>A left-of-center think tank along with other non-profits are urging the European Commission to &#34;fully investigate&#34; Nvidia&#39;s purchase of workload management startup Run:ai amid worries its will help to tighten the GPU titan&#39;s grip on the AI industry.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Campaign groups, non-profit orgs urge action to prevent GPU maker tightening grip on AI industry</h4> <p><strong>Updated</strong>  A left-of-center think tank along with other non-profits are urging the European Commission to &#34;fully investigate&#34; Nvidia&#39;s purchase of workload management startup Run:ai amid worries its will help to tighten the GPU titan&#39;s grip on the AI industry.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 

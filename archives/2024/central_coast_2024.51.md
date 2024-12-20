@@ -1,11 +1,139 @@
 ---
 title: central coast
-updated: 2024-12-19 07:05:15
+updated: 2024-12-20 07:04:58
 ---
 
 # central coast
 
-(date: 2024-12-19 07:05:15)
+(date: 2024-12-20 07:04:58)
+
+---
+
+## Autumn at Alice Keck Park Memorial Garden
+
+date: 2024-12-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102624-POD-Stephen-Fountain.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Autumn at Alice Keck Park Memorial Garden in Santa Barbara." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102624-POD-Stephen-Fountain.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102624-POD-Stephen-Fountain.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102624-POD-Stephen-Fountain.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102624-POD-Stephen-Fountain.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102624-POD-Stephen-Fountain.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102624-POD-Stephen-Fountain.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102624-POD-Stephen-Fountain.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102624-POD-Stephen-Fountain.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102624-POD-Stephen-Fountain.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102624-POD-Stephen-Fountain.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102624-POD-Stephen-Fountain.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102624-POD-Stephen-Fountain.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/autumn-at-alice-keck-memorial-park/">Autumn at Alice Keck Park Memorial Garden</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/autumn-at-alice-keck-memorial-park/>
+
+---
+
+## BizHawk: Restoration Hardware Brings Gallery, Eatery to Montecito’s The Old Firehouse
+
+date: 2024-12-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-BizHawk-Restoration-Hardware-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The Old Firehouse on East Valley Road in Montecito is now home to a Restoration Hardware gallery and restaurant." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-BizHawk-Restoration-Hardware-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-BizHawk-Restoration-Hardware-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-BizHawk-Restoration-Hardware-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-BizHawk-Restoration-Hardware-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-BizHawk-Restoration-Hardware-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-BizHawk-Restoration-Hardware-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-BizHawk-Restoration-Hardware-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-BizHawk-Restoration-Hardware-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-BizHawk-Restoration-Hardware-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Restoration Hardware has opened its unique concept of store and restaurant inside The Old Firehouse in the upper village of Montecito. The recent opening just might have sparked more buzz [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-restoration-hardware-unveils-new-gallery-restaurant-in-the-old-firehouse-in-montecito/">BizHawk: Restoration Hardware Brings Gallery, Eatery to Montecito&#8217;s The Old Firehouse</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/bizhawk-restoration-hardware-unveils-new-gallery-restaurant-in-the-old-firehouse-in-montecito/>
+
+---
+
+## Lompoc’s New Mayor, Council Ready to Revisit City Changes
+
+date: 2024-12-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-Lompoc-New-Council1-cont.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Lompoc City Clerk Stacey Haddon administers the oath of office to new Councilman Steve Bridge, from left, Mayor Jim Mosby and returning Councilman Jeremy Ball." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-Lompoc-New-Council1-cont.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-Lompoc-New-Council1-cont.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-Lompoc-New-Council1-cont.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-Lompoc-New-Council1-cont.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-Lompoc-New-Council1-cont.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-Lompoc-New-Council1-cont.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-Lompoc-New-Council1-cont.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-Lompoc-New-Council1-cont.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-Lompoc-New-Council1-cont.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Led by a newly elected mayor, the Lompoc City Council didn’t waste time looking to make changes by submitting a laundry list of items they want to revisit. On Tuesday [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lompocs-new-mayor-council-seek-to-revisit-recent-city-changes/">Lompoc&#8217;s New Mayor, Council Ready to Revisit City Changes</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/lompocs-new-mayor-council-seek-to-revisit-recent-city-changes/>
+
+---
+
+## SpaceX Launch, Landing at VSFB Likely to Cause Sonic Boom
+
+date: 2024-12-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A Saturday morning SpaceX rocket launch and landing at Vandenberg Space Force Base could provide a wakeup call for Central Coast residents. The Falcon 9 rocket’s liftoff will aim to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/spacex-launch-landing-at-vsfb-likely-to-cause-sonic-boom/">SpaceX Launch, Landing at VSFB Likely to Cause Sonic Boom</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/spacex-launch-landing-at-vsfb-likely-to-cause-sonic-boom/>
+
+---
+
+## County Brings In Staff to Oversee Jail Health Care Provider Wellpath
+
+date: 2024-12-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara County has hired two people to monitor the jail health care system and improve service for people in custody in response to concerns with the contractor. The county [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/county-brings-in-staff-to-oversee-jail-health-care-provider-wellpath/">County Brings In Staff to Oversee Jail Health Care Provider Wellpath</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/county-brings-in-staff-to-oversee-jail-health-care-provider-wellpath/>
+
+---
+
+## Cancer Foundation of Santa Barbara Launches Redesigned Website
+
+date: 2024-12-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Coinciding with its 75th anniversary and year-end fundraising campaign, the Cancer Foundation of Santa Barbara has released its redesigned website. The site, created by RKN Studio and Cyan Designs, makes [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/cancer-foundation-of-santa-barbara-launches-redesigned-website/">Cancer Foundation of Santa Barbara Launches Redesigned Website</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/cancer-foundation-of-santa-barbara-launches-redesigned-website/>
+
+---
+
+## Santa Barbara Art Museum Exhibit Reflects Modern Art and Modern Life
+
+date: 2024-12-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara Museum of Art (SBMA) will host Modern Life: A Global Artworld, 1850-1950, a long-term exhibition of the museum’s renowned permanent collection. Combining artists from Europe, South America [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-art-museum-exhibit-reflects-modern-art-and-modern-life/">Santa Barbara Art Museum Exhibit Reflects Modern Art and Modern Life</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-barbara-art-museum-exhibit-reflects-modern-art-and-modern-life/>
+
+---
+
+## Hearts Aligned Valentine’s Benefit Embraces Families With Ill Children
+
+date: 2024-12-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Hearts Aligned Inc. will presents its 3rd Annual Hearts to Hearts Valentine&#8217;s Luncheon to raise funds and awareness for the issues faced by families with a critically ill child. The event [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/hearts-aligned-valentines-benefit-embraces-families-with-ill-children/">Hearts Aligned Valentine&#8217;s Benefit Embraces Families With Ill Children</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/hearts-aligned-valentines-benefit-embraces-families-with-ill-children/>
+
+---
+
+## South Coast November Hotel Data Show 5% Increase Over 2023
+
+date: 2024-12-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Visit Santa Barbara, destination marketing organization for the Santa Barbara South Coast region, on Dec. 18 presented hotel performance data for November 2024. Santa Barbara South Coast hotel occupancy increased [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/south-coast-november-hotel-data-show-5-increase-over-2023/">South Coast November Hotel Data Show 5% Increase Over 2023</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/south-coast-november-hotel-data-show-5-increase-over-2023/>
 
 ---
 

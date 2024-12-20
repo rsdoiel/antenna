@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2024-12-19 07:05:16
+updated: 2024-12-20 07:04:59
 ---
 
 # games
 
-(date: 2024-12-19 07:05:16)
+(date: 2024-12-20 07:04:59)
+
+---
+
+## Sonic 3 director says Keanu Reeves fixed a key scene for  Shadow the Hedgehog
+
+date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
+
+Bringing Shadow the Hedgehog to life on the big screen has been a two-decade journey for Jeff Fowler, the director of Sega and Paramount’s live-action Sonic the Hedgehog movies. Fowler finally got his wish with his 2024 movie Sonic the Hedgehog 3. But he first got his hands on Shadow back in 2003, when he [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/499816/sonic-3-movie-shadow-hedgehog-keanu-reeves>
+
+---
+
+## You can pre-order the Helldivers 2 DualSense controller now
+
+date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
+
+Arm yourself against the Illuminate menace with a brand new DualSense controller inspired by Helldivers 2. The $84.99 controller from Sony won’t ship until Feb. 6, but you can prove your loyalty to managed democracy today by pre-ordering one exclusively from PlayStation Direct. Sony’s latest limited edition controller features weathered black-and-grey grips with yellow accents, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/499848/helldivers-2-dualsense-controller-where-to-buy>
+
+---
+
+## Genshin Impact version 5.3 livestream codes
+
+date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
+
+Hoyoverse just wrapped up the Genshin Impact version 5.3 preview livestream, showing off all sorts of details about the upcoming patch. Most importantly, there were several codes that award Primogems and other rewards shown during the stream. Our Genshin Impact 5.3 livestream code list provides you with the three stream codes for rewards and explains [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/genshin-impact-guides/498490/version-5-3-codes-livestream-redeem>
+
+---
+
+## 2024 Indie Game Awards winners went beyond Balatro (but also Balatro)
+
+date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
+
+As predicted going into the show, The Game Awards’ Game of the Year honor went to a AAA game that almost anyone could enjoy: Astro Bot was a safe-but-deserved pick. But Balatro, 2024’s hit roguelike deck-builder indie created by one-person dev team LocalThunk, felt like a true contender, considering the critical mass. The game went [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/500375/2024-indie-game-awards-winners-game-of-the-year-balatro>
+
+---
+
+## Cinch up your waders, Mystery Flesh Pit National Park is open for business
+
+date: 2024-12-20, updated: 2024-12-19, from: Polygon Website
+
+The National Park Service, tasked with protecting America’s most important ecological treasures, like the Grand Canyon, Crater Lake, and several hundred linear feet of stainless steel-reinforced Mississippi River shoreline, has an even more unusual plot of land to maintain beginning in 2025. It’s a place that’s fairly dark, extremely moist, and entirely fictional, called Mystery [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/500155/mystery-flesh-pit-national-park-rpg-tabletop-cypher-system>
+
+---
+
+## Check Cyberpunk 2077’s latest patch for a secret TTRPG surprise
+
+date: 2024-12-19, updated: 2024-12-19, from: Polygon Website
+
+In a secret pre-holiday update to Cyberpunk 2077, developer CD Projekt Red added a little tabletop-shaped gift. A spokesperson from Cyberpunk publisher R. Talsorian Games told Polygon that “any person who owns Cyberpunk 2077 and can access their Bonus Content folder can now find Cyberpunk RED: Easy Mode in there, of course for free.” Without [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/500301/cyberpunk-2077-red-easy-mode-ttrpg-pdf-how-to-get>
+
+---
+
+## The next World of Warcraft patch is a neon-soaked goblin paradise
+
+date: 2024-12-19, updated: 2024-12-19, from: Polygon Website
+
+World of Warcraft is renowned for its expansive set of locations, from barren deserts to lush forests, but some of the most interesting zones are densely inhabited, like Suramar or Tiragarde Sound. The first major patch for The War Within expansion adds another such area with Undermine, the goblin capital and a massive urban center [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/500202/world-warcraft-undermined-update-patch-1-1>
+
+---
+
+## The best characters in Marvel Rivals season 0
+
+date: 2024-12-19, updated: 2024-12-19, from: Polygon Website
+
+There are 33 different characters in Marvel Rivals, but not every hero (or villain) is equal. In the competitive shooter’s season 0, which is called Doom’s Rise and is significantly shorter than a regular season, every character is viable but there are some who are obviously more powerful than the rest. Below, we’ve compiled a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/493434/characters-best-heroes-meta>
+
+---
+
+## D&#038;D’s most famous adventures (and some hidden gems) are on sale right now
+
+date: 2024-12-19, updated: 2024-12-19, from: Polygon Website
+
+If you’re looking for the next campaign to run for your Dungeons &#38; Dragons campaign, look no further. Whether you play online or in person, the DM’s Guild is having their annual winter sale, marking down the cost of some of the most iconic D&#38;D 5e settings and adventures — alongside some of the online [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/500230/dnd-dms-guild-winter-sale-dungeons-dragons>
 
 ---
 

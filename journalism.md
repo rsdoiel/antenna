@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2024-12-19 07:05:16
+updated: 2024-12-20 07:04:59
 ---
 
 # journalism
 
-(date: 2024-12-19 07:05:16)
+(date: 2024-12-20 07:04:59)
 
 ---
 
@@ -210,6 +210,18 @@ date: 2024-12-19, from: Nieman Journalism Lab
 <br> 
 
 <https://www.niemanlab.org/2024/12/el-ano-de-las-luciernagas-del-periodismo-comunitario/>
+
+---
+
+## You’ll get what you pay for
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+For years, Vox prided itself on being free, saying that this universal, ad-supported access was a key part of its mission. Then the pandemic came and ad sales slumped, and Vox started asking readers for contributions &#8220;to help keep our work paywall-free.&#8221; Multiple rounds of layoffs later (one of which, full disclosure, got me), this... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/youll-get-what-you-pay-for/>
 
 ---
 

@@ -1,11 +1,84 @@
 ---
 title: motorcycles
-updated: 2024-12-19 07:05:17
+updated: 2024-12-20 07:05:00
 ---
 
 # motorcycles
 
-(date: 2024-12-19 07:05:17)
+(date: 2024-12-20 07:05:00)
+
+---
+
+## DJI Avoids Outright Ban For Now, But Future Looks Uncertain
+
+date: 2024-12-20, from: Ride Apart, Electric Motorcycle News
+
+It's also not only DJI drones that could potentially be affected. 
+
+<br> 
+
+<https://www.rideapart.com/news/745074/dji-not-banned-yet-ndaa/>
+
+---
+
+## KTM Pulls Funding for Hard Enduro World Championship, With Some Unexpected Positives
+
+date: 2024-12-20, from: Ride Apart, Electric Motorcycle News
+
+The Championship will go on, but the road ahead will be rocky. Good thing it's hard enduro! 
+
+<br> 
+
+<https://www.rideapart.com/news/745021/ktm-pulls-hard-enduro-funding/>
+
+---
+
+## We May Be Saying "Bye-Bye" to Arctic Cat Snowmobiles, Parent Company Pauses Production
+
+date: 2024-12-20, from: Ride Apart, Electric Motorcycle News
+
+It's not a good year to be in the powersports game. 
+
+<br> 
+
+<https://www.rideapart.com/news/745049/textron-pauses-powersports-production/>
+
+---
+
+## Do We Really Need A 2-Liter BMW Boxer Engined Cafe Racer? Probably Not
+
+date: 2024-12-20, from: Ride Apart, Electric Motorcycle News
+
+The BMW R 20 is expected to go from concept to reality in 2025.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/744932/bmw-r20-coming-soon-dumb-idea/>
+
+---
+
+## Hunting Arctic Muskox Requires Snowmobiles, Patience, and DIY Trailers
+
+date: 2024-12-20, from: Ride Apart, Electric Motorcycle News
+
+Remi Warren shows how to hunt at the top of the world. 
+
+<br> 
+
+<https://www.rideapart.com/news/745057/remi-warren-snowmobile-muskox-hunt-polaris-ski-doo/>
+
+---
+
+## Don’t Miss Your Chance To Own a WSBK World-Championship Winning Fireblade
+
+date: 2024-12-19, from: Ride Apart, Electric Motorcycle News
+
+The question is, would you ever track it? 
+
+<br> 
+
+<https://www.rideapart.com/news/744890/wsbk-honda-fireblade-for-sale/>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2024-12-19 07:05:17
+updated: 2024-12-20 07:05:00
 ---
 
 # retro computing
 
-(date: 2024-12-19 07:05:17)
+(date: 2024-12-20 07:05:00)
+
+---
+
+## The Giant Book of Applications reviewed
+
+date: 2024-12-20, from: Icon Bar, RISC OS News
+
+As well as producing a quarterly magazine, Drag'n'Drop also produce a series of books on Coding for RISC OS. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2145.html>
+
+---
+
+## Time to Vote for the December 2024 + Post Topic
+
+date: 2024-12-19, from: Computer ads from the Past
+
+Your options are a programming language, a multimedia program, and a printer. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/time-to-vote-for-the-december-2024>
 
 ---
 

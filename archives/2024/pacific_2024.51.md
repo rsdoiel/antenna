@@ -1,11 +1,666 @@
 ---
 title: pacific
-updated: 2024-12-19 07:05:14
+updated: 2024-12-20 07:04:57
 ---
 
 # pacific
 
-(date: 2024-12-19 07:05:14)
+(date: 2024-12-20 07:04:57)
+
+---
+
+## Income tax cuts set to kick in
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii taxpayers should have a happy New Year as the first of a series of historic tax cuts takes effect in January.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/hawaii-news/income-tax-cuts-set-to-kick-in/>
+
+---
+
+## Trump-backed spending deal fails in House, shutdown approaches
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A spending bill backed by Donald Trump failed in the U.S. House of Representatives on Thursday as dozens of Republicans defied the president-elect, leaving Congress with no clear plan to avert a fast-approaching government shutdown that could disrupt Christmas travel. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/nation-world-news/trump-backed-spending-deal-fails-in-house-shutdown-approaches/>
+
+---
+
+## Police nab one of three Hale Nani escapees
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>A judge on Thursday ruled probable cause exists to continue holding a 36-year-old Volcano man who allegedly escaped with two others Dec. 13 from Hawaii Community Correctional Center&#8217;s Hale Nani Facility.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/hawaii-news/police-nab-one-of-three-hale-nani-escapees-2/>
+
+---
+
+## Amazon workers strike at seven US facilities ahead of Christmas rush
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK/SAN FRANCISCO &#8212; Amazon.com workers at seven U.S. facilities walked off the job early on Thursday during the holiday shopping rush as workers protest what they say is the retailing giant&#8217;s unfair treatment of its employees. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/nation-world-news/amazon-workers-strike-at-seven-us-facilities-ahead-of-christmas-rush/>
+
+---
+
+## Hilo jail expansion unveiled
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>Corrections officials, dignitaries and other prominent community members gathered Thursday at Hawaii Community Correctional Center&#8217;s main Hilo campus to dedicate the brand-new Kamana Housing Unit.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/hawaii-news/hilo-jail-expansion-unveiled/>
+
+---
+
+## Banyan Drive Art Stroll returns to Hilo
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>Friends of Lili&#8216;uokalani Gardens will sponsor the fifth Banyan Drive Art Stroll on Saturday, Jan. 11, from noon until 6 p.m., reviving an event that brought artists and art lovers to the Waiakea peninsula for an afternoon of fun from Suisan Fish Market to the Grand Naniloa Hotel and every place in between.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/community/banyan-drive-art-stroll-returns-to-hilo/>
+
+---
+
+## Public invited to ‘Jingle Bells, Trek the Trails’ event
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County invites the public to the &#8220;Jingle Bells, Trek the Trails&#8221; today at the West Hawaii Civic Center.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/community/public-invited-to-jingle-bells-trek-the-trails-event/>
+
+---
+
+## Hilo Elks host New Year’s Eve benefit dance party
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>Community members are invited to the Hilo Elks Lodge to dance &#8220;Under the Stars&#8221; in a semi-formal ball from 8 p.m. to midnight on New Year&#8217;s Eve.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/community/hilo-elks-host-new-years-eve-benefit-dance-party/>
+
+---
+
+## Honokaa residents win AARP volunteer award
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>Honokaa residents Miles Okumura and Lynn Higashi have been selected by AARP &#8212; the nonprofit organization for people 50 and older &#8212; to receive the 2024 AARP Hawaii Andrus Award for Community Service, the association&#8217;s most prestigious and visible state volunteer award for community service.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/community/honokaa-residents-win-aarp-volunteer-award/>
+
+---
+
+## SingAlong Messiah set for Saturday in Hilo
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>All are invited to the 15th Annual Tom McAlexander Community SingAlong Messiah at 4 p.m. this Saturday at the Church of the Holy Cross, 440 W. Lanikaula St. in Hilo. It is a free event.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/community/singalong-messiah-set-for-saturday-in-hilo/>
+
+---
+
+## Suspect in UnitedHealth executive killing faces federal murder, stalking charges
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The suspect in the killing of UnitedHealth Group executive Brian Thompson was charged with federal murder and stalking crimes in a Manhattan courtroom on Thursday, alongside state murder and terrorism charges previously announced by New York prosecutors. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/nation-world-news/suspect-in-unitedhealth-executive-killing-faces-federal-murder-stalking-charges/>
+
+---
+
+## Nation and world news in brief for December 20
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>Texas launches &#0010;billboard campaign in Mexico, Central America to &#0010;warn migrants</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/nation-world-news/nation-and-world-news-in-brief-for-december-20/>
+
+---
+
+## Dominique Pelicot jailed for 20 years in landmark French mass rape trial
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>AVIGNON, France &#8212; A French court found Dominique Pelicot guilty on Thursday of repeatedly drugging and raping his wife for almost a decade, and inviting dozens of strangers to rape her unconscious body in a case that has horrified the world. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/nation-world-news/dominique-pelicot-jailed-for-20-years-in-landmark-french-mass-rape-trial/>
+
+---
+
+## Georgia appeals court disqualifies prosecutor Fani Willis in Trump 2020 election case
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>A Georgia appeals court ruled on Thursday that Fulton County District Attorney Fani Willis must be disqualified from prosecuting President-elect Donald Trump and several of his allies for attempting to interfere in the 2020 election in the U.S. state. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/nation-world-news/georgia-appeals-court-disqualifies-prosecutor-fani-willis-in-trump-2020-election-case/>
+
+---
+
+## Wisconsin shooter linked to California man planning separate attack
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>The teenage girl who killed a teacher and fellow student at her Wisconsin school this week was in contact with a California man who was planning his own mass shooting, according to California court records. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/nation-world-news/wisconsin-shooter-linked-to-california-man-planning-separate-attack/>
+
+---
+
+## Israel attacks Yemen’s capital after Houthi missile strike
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>Israeli warplanes struck Houthi sites in Yemen&#8217;s capital and elsewhere in the country following an increase in missile attacks by the Iran-backed militia, including one overnight that damaged a school near Tel Aviv.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/nation-world-news/israel-attacks-yemens-capital-after-houthi-missile-strike/>
+
+---
+
+## Syrian girls’ right to schooling unrestricted, new education minister says
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>DAMASCUS &#8212; Syria will remove all references to the former ruling Baath party from its educational system as of next week but will not otherwise change school curricula or restrict the rights of girls to learn, the country&#8217;s new education minister said. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/nation-world-news/syrian-girls-right-to-schooling-unrestricted-new-education-minister-says/>
+
+---
+
+## What are ‘healthy’ foods? The FDA updates the labeling terms
+
+date: 2024-12-20, from: Hawaii Tribune Harold
+
+
+				<p>The Food and Drug Administration on Thursday updated the definitions of the term &#8220;healthy&#8221; for labeling on foods, a move that reflected changes in nutrition and that tightened limits on saturated fat, sugar and salt in food that could be sold under that claim.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/20/nation-world-news/what-are-healthy-foods-the-fda-updates-the-labeling-terms/>
+
+---
+
+## Salary hike plan targets leadership, faces Constitutional scrutiny
+
+date: 2024-12-20, from: Island Times
+
+<p>KOROR, Palau — President Surangel Whipps Jr. has introduced a bill proposing salary increases for the Executive, Judiciary, and members of the Olbiil Era Kelulau (OEK), aiming to “strengthen the leadership capacity of our institutions, mitigate the risks of out-migration, and enhance public trust in the integrity of our governance .” In tandem with a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/salary-hike-plan-targets-leadership-faces-constitutional-scrutiny/">Salary hike plan targets leadership, faces Constitutional scrutiny</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/salary-hike-plan-targets-leadership-faces-constitutional-scrutiny/>
+
+---
+
+## U.S. donates ambulance to Palau for enhanced Airport Emergency response
+
+date: 2024-12-20, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/front1.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/front1.jpg?w=1197&amp;ssl=1 1197w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/front1.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/front1.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/front1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/front1.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/front1.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/front1.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/front1.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/front1.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/front1.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74624" data-permalink="https://islandtimes.org/u-s-donates-ambulance-to-palau-for-enhanced-airport-emergency-response/front1-17/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/front1.jpg?fit=1197%2C898&amp;ssl=1" data-orig-size="1197,898" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1734537135&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;12&quot;,&quot;shutter_speed&quot;:&quot;0.00076511094108646&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="front1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/front1.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/front1.jpg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>KOROR, Palau – The United States formally handed over a state-of-the-art ambulance to Palau on Wednesday, marking a significant contribution to the nation’s emergency response capabilities at its international airport. Commander Brendan Cruz, representing the U.S. military, emphasized the importance of the ambulance in safeguarding operations at Palau&#8217;s airport. “This ambulance will play a crucial [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-donates-ambulance-to-palau-for-enhanced-airport-emergency-response/">U.S. donates ambulance to Palau for enhanced Airport Emergency response</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/u-s-donates-ambulance-to-palau-for-enhanced-airport-emergency-response/>
+
+---
+
+## Palau’s Immigration crackdown raises concerns over oversight and Economic Impact
+
+date: 2024-12-20, from: Island Times
+
+<p>Koror, Palau (Dec. 19, 2024) – President Surangel Whipps Jr. signed Presidential Directive No. 24-65 on Wednesday, December 18, instituting immigration controls for a 90-day period in an effort to combat criminal activity linked to foreign nationals. However, the directive has raised concerns over the scope of authority given to the National Security Coordinator and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-immigration-crackdown-raises-concerns-over-oversight-and-economic-impact/">Palau’s Immigration crackdown raises concerns over oversight and Economic Impact</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palaus-immigration-crackdown-raises-concerns-over-oversight-and-economic-impact/>
+
+---
+
+## January 20, 2025 declared as National Day of Prayer
+
+date: 2024-12-20, from: Island Times
+
+<p>KOROR, Palau (Dec. 20, 2024) — January 20, 2025, is declared a National Day of Prayer for the Republic of Palau according to Presidential Proclamation 24-388. The declaration follows the enactment of RPPL 10-6 in 2017, which established the need for an annual National Day of Prayer to be observed in January. The proclamation affirms [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/january-20-2025-declared-as-national-day-of-prayer/">January 20, 2025 declared as National Day of Prayer</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/january-20-2025-declared-as-national-day-of-prayer/>
+
+---
+
+## FIB office to close temporarily due to staff shortage
+
+date: 2024-12-20, from: Island Times
+
+<p>Office of the Foreign Investment Board announced this week that starting today, December 20, 2024, to January 5, 2025, the office will be closed due to a shortage of staff to respond inquiries, or provide other services. The announcement issued by Board member and Acting Executive Director Cornelia Mason said that for urgent matters, to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/fib-office-to-close-temporarily-due-to-staff-shortage/">FIB office to close temporarily due to staff shortage</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/fib-office-to-close-temporarily-due-to-staff-shortage/>
+
+---
+
+## Northern Marianas upbeat on arrivals as Jeju Air resumes Saipan flights
+
+date: 2024-12-20, from: Island Times
+
+<p>SAIPAN (PACIFIC ISLAND TIMES)&#8212;The Marianas Visitors Authority is anticipating visitor arrivals to bounce back starting this month with the reinstatement of suspended flights from South Korea. Jeju Air’s second daily flight resumed on 08 December and the temporary twice-weekly charter flights from Busan are set to begin on 20 December. Visitor arrivals to the Northern [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/northern-marianas-upbeat-on-arrivals-as-jeju-air-resumes-saipan-flights/">Northern Marianas upbeat on arrivals as Jeju Air resumes Saipan flights</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/northern-marianas-upbeat-on-arrivals-as-jeju-air-resumes-saipan-flights/>
+
+---
+
+## Palau proclaims Red Ribbon Awareness months to combat drug misuse
+
+date: 2024-12-20, from: Island Times
+
+<figure><img width="600" height="800" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/1000004220.jpg?fit=600%2C800&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/1000004220.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/1000004220.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/1000004220.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/1000004220.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/1000004220.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/1000004220.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/1000004220.jpg?fit=600%2C800&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74605" data-permalink="https://islandtimes.org/palau-proclaims-red-ribbon-awareness-months-to-combat-drug-misuse/attachment/1000004220/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/1000004220.jpg?fit=600%2C800&amp;ssl=1" data-orig-size="600,800" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1734536228&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.9&quot;,&quot;iso&quot;:&quot;250&quot;,&quot;shutter_speed&quot;:&quot;0.025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1000004220" data-image-description="" data-image-caption="&lt;p&gt;President Whipps Jr signed the Red Ribbons Months Proclamation, and youths signed pledges to observe Red Ribbons Months, promoting a drug-free lifestyle.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/1000004220.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/1000004220.jpg?fit=600%2C800&amp;ssl=1" /></figure>
+<p>KOROR, Palau — President Surangel S. Whipps Jr. declared December 2024 through February 2025 as Red Ribbon Awareness Months under the theme, “Life is a Movie, Live Drug Free.” The proclamation highlights the ongoing efforts to combat illegal drug misuse and abuse, which continue to harm individuals, families, and communities across the nation. The proclamation [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-proclaims-red-ribbon-awareness-months-to-combat-drug-misuse/">Palau proclaims Red Ribbon Awareness months to combat drug misuse</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-proclaims-red-ribbon-awareness-months-to-combat-drug-misuse/>
+
+---
+
+## Honoring the legacy of WW2 photographer
+
+date: 2024-12-20, from: Island Times
+
+<p>By Lieutenant Geoff Long This year marks 80 years since legendary Australian war photographer Damien Parer was killed filming US Marines in action on the island of Peleliu in the Palau archipelago on September 17, 1944. So it was fitting that both US and Australian C-130 Hercules came together to air drop the first Christmas [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/honoring-the-legacy-of-ww2-photographer/">Honoring the legacy of WW2 photographer</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/honoring-the-legacy-of-ww2-photographer/>
+
+---
+
+## Australian Embassy supports Biomedical Technician
+
+date: 2024-12-20, from: Island Times
+
+<p>17 December 2024&#8211; The Australian Embassy is pleased to announce its support for the placement of Biomedical Technician – Mr. Andrew Lyons, at the Belau National Hospital (BNH). Mr Lyons visited Palau twice on technical assistance missions in 2023, to work alongside the biomed department and provide hands-on training to local staff. With more than [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australian-embassy-supports-biomedical-technician/">Australian Embassy supports Biomedical Technician</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/australian-embassy-supports-biomedical-technician/>
+
+---
+
+## End of Year Fun Run
+
+date: 2024-12-20, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/funrun.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/funrun.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/funrun.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/funrun.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/funrun.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/funrun.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/funrun.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/funrun.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/funrun.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/funrun.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/funrun.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/funrun.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74597" data-permalink="https://islandtimes.org/end-of-year-fun-run/funrun/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/funrun.jpg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="funrun" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/funrun.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/funrun.jpg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>Australia- Palau celebrating 30 Years 17 December 2024&#8211; The Australian Embassy wraps up our 30th anniversary celebrations of diplomatic relations the way we started &#8211; by hosting a fun run!  Anniversary events throughout the year focused on the breadth and depth of our bilateral friendship. The fun run/walk demonstrates our mutual appreciation of community and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/end-of-year-fun-run/">End of Year Fun Run</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/end-of-year-fun-run/>
+
+---
+
+## Allee effects limit coral fertilization success
+
+date: 2024-12-20, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PRphoto-Credit-Professor-Peter-J-Mumby-University-of-Queensland.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PRphoto-Credit-Professor-Peter-J-Mumby-University-of-Queensland.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PRphoto-Credit-Professor-Peter-J-Mumby-University-of-Queensland.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PRphoto-Credit-Professor-Peter-J-Mumby-University-of-Queensland.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PRphoto-Credit-Professor-Peter-J-Mumby-University-of-Queensland.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PRphoto-Credit-Professor-Peter-J-Mumby-University-of-Queensland.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PRphoto-Credit-Professor-Peter-J-Mumby-University-of-Queensland.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PRphoto-Credit-Professor-Peter-J-Mumby-University-of-Queensland.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PRphoto-Credit-Professor-Peter-J-Mumby-University-of-Queensland.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74593" data-permalink="https://islandtimes.org/allee-effects-limit-coral-fertilization-success/prphoto-credit-professor-peter-j-mumby-university-of-queensland/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PRphoto-Credit-Professor-Peter-J-Mumby-University-of-Queensland.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PRphoto &#8211; Credit Professor Peter J Mumby, University of Queensland" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PRphoto-Credit-Professor-Peter-J-Mumby-University-of-Queensland.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PRphoto-Credit-Professor-Peter-J-Mumby-University-of-Queensland.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>New study reveals how coral colony proximity drives reproductive success A groundbreaking study by PICRC and Professor Peter J Mumby from the University of Queensland was published in the journal The Proceedings of the National Academy of Science (PNAS). The study demonstrated the importance of having high densities of corals of a certain species on [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/allee-effects-limit-coral-fertilization-success/">Allee effects limit coral fertilization success</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/allee-effects-limit-coral-fertilization-success/>
+
+---
+
+## U.S on target in Guam with first Marine redeployment and missile test
+
+date: 2024-12-20, from: Island Times
+
+<p>HAGATNA (BENAR NEWS)&#8212;The U.S is advancing the fortification of its territory closest to China with the arrival of the first Marines from Okinawa and its first interceptor missile test in Guam last week. About 100 Marines from Japan landed on Saturday, the vanguard of about 5,000 due to be relocated to Guam under a security [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-on-target-in-guam-with-first-marine-redeployment-and-missile-test/">U.S on target in Guam with first Marine redeployment and missile test</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/u-s-on-target-in-guam-with-first-marine-redeployment-and-missile-test/>
+
+---
+
+## THE UNLOVED WOMAN
+
+date: 2024-12-20, from: Island Times
+
+<figure><img width="600" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?resize=400%2C378&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="59961" data-permalink="https://islandtimes.org/raumatic-grief/womens-corner-1-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" data-orig-size="600,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" /></figure>
+<p>&#8220;Be kind to everyone because everyone is fighting in some sort of a battle.&#8221; -Unknown C.S. Lewis, wrote to an unloved woman, &#8220;Be patient. God is working in silence and remember that all things work together for good to&#160; those who love the Lord and are called by God. The story of the unloved woman [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-unloved-woman/">THE UNLOVED WOMAN</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/the-unloved-woman/>
+
+---
+
+## Rescuers hunt for survivors in Vanuatu quake,nine dead
+
+date: 2024-12-20, from: Island Times
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/AFP__20241217__36QJ77K__v5__HighRes__TopshotVanuatuEarthquake.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/AFP__20241217__36QJ77K__v5__HighRes__TopshotVanuatuEarthquake.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/AFP__20241217__36QJ77K__v5__HighRes__TopshotVanuatuEarthquake.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/AFP__20241217__36QJ77K__v5__HighRes__TopshotVanuatuEarthquake.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/AFP__20241217__36QJ77K__v5__HighRes__TopshotVanuatuEarthquake.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/AFP__20241217__36QJ77K__v5__HighRes__TopshotVanuatuEarthquake.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/AFP__20241217__36QJ77K__v5__HighRes__TopshotVanuatuEarthquake.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/AFP__20241217__36QJ77K__v5__HighRes__TopshotVanuatuEarthquake.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/AFP__20241217__36QJ77K__v5__HighRes__TopshotVanuatuEarthquake.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74580" data-permalink="https://islandtimes.org/rescuers-hunt-for-survivors-in-vanuatu-quakenine-dead/vanuatu-earthquake/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/AFP__20241217__36QJ77K__v5__HighRes__TopshotVanuatuEarthquake.jpg?fit=1249%2C867&amp;ssl=1" data-orig-size="1249,867" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;AFP&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;This photo shows a general view of a severely damaged building housing the embassies of the United States, United Kingdom, and New Zealand after a powerful earthquake struck Port Vila, the capital city of Vanuatu, on December 17, 2024. - A powerful earthquake hit the Pacific island of Vanuatu on December 17, smashing buildings in the capital Port Vila including one housing the US and other embassies, with a witness telling AFP of bodies seen in the city. (Photo by AFP)&quot;,&quot;created_timestamp&quot;:&quot;1734402966&quot;,&quot;copyright&quot;:&quot;AFP or licensors&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;VANUATU-EARTHQUAKE&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="VANUATU-EARTHQUAKE" data-image-description="" data-image-caption="&lt;p&gt;This photo shows a general view of a severely damaged building housing the embassies of the United States, United Kingdom, and New Zealand after a powerful earthquake struck Port Vila, the capital city of Vanuatu, on December 17, 2024. &#8211; A powerful earthquake hit the Pacific island of Vanuatu on December 17, smashing buildings in the capital Port Vila including one housing the US and other embassies, with a witness telling AFP of bodies seen in the city. (Photo by AFP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/AFP__20241217__36QJ77K__v5__HighRes__TopshotVanuatuEarthquake.jpg?fit=300%2C208&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/AFP__20241217__36QJ77K__v5__HighRes__TopshotVanuatuEarthquake.jpg?fit=780%2C542&amp;ssl=1" /></figure>
+<p>Port Vila, VUT- (AFP) Rescue  teams  dug  for  survivors  trapped  in  crumpled  buildings  in  the  Pacific nation  of Vanuatu  on  Wednesday  after  a  powerful  earthquake  killed  at  least  nine  people, burying  some in  rubble  and  landslides. People &#160;called &#160;out &#160;from &#160;beneath &#160;the &#160;remains &#160;of &#160;a &#160;flattened &#160;three-storey &#160;shop &#160;in &#160;the &#160;capital Port Vila, &#160;where &#160;scores [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/rescuers-hunt-for-survivors-in-vanuatu-quakenine-dead/">Rescuers hunt for survivors in Vanuatu quake,nine dead</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/rescuers-hunt-for-survivors-in-vanuatu-quakenine-dead/>
+
+---
+
+## Orioles sign Japanese pitcher Sugano to one-year deal
+
+date: 2024-12-20, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/JapanEconomyAutoBusinessHondaNissan.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/JapanEconomyAutoBusinessHondaNissan.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/JapanEconomyAutoBusinessHondaNissan.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/JapanEconomyAutoBusinessHondaNissan.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/JapanEconomyAutoBusinessHondaNissan.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/JapanEconomyAutoBusinessHondaNissan.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/JapanEconomyAutoBusinessHondaNissan.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/JapanEconomyAutoBusinessHondaNissan.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/JapanEconomyAutoBusinessHondaNissan.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74572" data-permalink="https://islandtimes.org/no-methanol-found-from-fiji-alcohol-poisoning-incident-that-hospitalized-four-australians/japan-economy-auto-business-honda-nissan/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/JapanEconomyAutoBusinessHondaNissan.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;AFP&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Makoto Uchida (L), president and CEO of Japanese auto maker Nissan, and Toshihiro Mibe (R), director, president and representative executive officer of auto maker Honda, take part in a press conference in Tokyo on August 1, 2024. - Japanese car manufacturers Honda, Nissan and Mitsubishi Motors have signed a memorandum of understanding concerning a \u0093strategic partnership\u0094 in the electric sector in the face of their common challenges in this area, the three groups announced on August 1. (Photo by Richard A. Brooks \/ AFP)&quot;,&quot;created_timestamp&quot;:&quot;1722498166&quot;,&quot;copyright&quot;:&quot;AFP or licensors&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;JAPAN-ECONOMY-AUTO-BUSINESS-HONDA-NISSAN&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="JAPAN-ECONOMY-AUTO-BUSINESS-HONDA-NISSAN" data-image-description="" data-image-caption="&lt;p&gt;Makoto Uchida (L), president and CEO of Japanese auto maker Nissan, and Toshihiro Mibe (R), director, president and representative executive officer of auto maker Honda, take part in a press conference in Tokyo on August 1, 2024. &#8211; Japanese car manufacturers Honda, Nissan and Mitsubishi Motors have signed a memorandum of understanding concerning a strategic partnership in the electric sector in the face of their common challenges in this area, the three groups announced on August 1. (Photo by Richard A. Brooks / AFP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/JapanEconomyAutoBusinessHondaNissan.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/JapanEconomyAutoBusinessHondaNissan.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>Los Angeles, USA    &#8211; (AFP) Baltimore Orioles and Japanese pitcher Tomoyuki Sugano have agreed terms for a one-year contract, the Major League Baseball team said Monday, with US media reporting the deal was worth $13 million. Sugano, a star pitcher with the Yomiuri Giants, arrives in MLB after 12 seasons in Nippon Professional Baseball. The 35-year-old [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/orioles-sign-japanese-pitcher-suganotoone-yeardeal/">Orioles sign Japanese pitcher Sugano to one-year deal</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/orioles-sign-japanese-pitcher-suganotoone-yeardeal/>
+
+---
+
+## No methanol found from Fiji alcohol poisoning incident that hospitalized four Australians
+
+date: 2024-12-20, from: Island Times
+
+<p>By Fiji reporter&#160;Lice Movono&#160;and the Pacific Local Journalism Network&#8217;s&#160;Nick Sas ABC-Australia) A toxicology report into the drinks consumed at Fiji&#8217;s Warwick Resort that left four Australian tourists critically ill has found no traces of methanol. But the Fiji government, which revealed the initial results at a press conference on Tuesday night, is yet to disclose [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/no-methanol-found-from-fiji-alcohol-poisoning-incident-that-hospitalized-four-australians/">No methanol found from Fiji alcohol poisoning incident that hospitalized four Australians</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/no-methanol-found-from-fiji-alcohol-poisoning-incident-that-hospitalized-four-australians/>
+
+---
+
+## What Guam should anticipate in 2025
+
+date: 2024-12-20, from: Pacific Island Times
+
+By Ernie Galito There will be a significant political landscape transformation in Guam as President Donald J. Trump's inauguration... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/what-guam-should-anticipate-in-2025>
+
+---
+
+## Record number of women elected as lawmakers in Palau
+
+date: 2024-12-20, from: The Husk
+
+Weekender #51 
+
+<br> 
+
+<https://thehusk.substack.com/p/record-number-of-women-elected-as>
+
+---
+
+## Guam agency begins condemning private lands for hospital project
+
+date: 2024-12-19, from: Pacific Island Times
+
+The Guam Housing and Urban Renewal Authority has officially sought the condemnation of private lands in Mangilao, which are targeted for the 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-agency-begins-condemning-private-lands-for-hospital-project>
+
+---
+
+## Shidler team wins national finance case challenge
+
+date: 2024-12-19, from: University of Hawaiʻi News
+
+<p>The competition featured 25 teams with five making it to the final round.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/19/shidler-team-wins-finance-case-challenge/">Shidler team wins national finance case challenge</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/19/shidler-team-wins-finance-case-challenge/>
+
+---
+
+## South Korean won hits 15-year low as hawkish Fed, domestic politics weigh
+
+date: 2024-12-19, updated: 2024-12-19, from: Marianas Variety
+
+SEOUL (Reuters) — The South Korean won dropped to its weakest level in 15 years on Thursday, weighed down by risk-averse sentiment after the U.S. Federal Reserve's cautious stance on more interest rate cuts, as well as domestic political uncertainty. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/south-korean-won-hits-15-year-low-as-hawkish-fed-domestic-politics-weigh/article_bd34f61a-be1b-11ef-8253-c31fcaf40c99.html>
+
+---
+
+## Saipan Humane Society founder to pursue veterinary degree at WSU
+
+date: 2024-12-19, updated: 2024-12-19, from: Marianas Variety
+
+LAUREN Cabrera, Saipan Humane Society founder, has been accepted into Washington State University’s Doctorate of Veterinary Medicine Class of 2029. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/saipan-humane-society-founder-to-pursue-veterinary-degree-at-wsu/article_1a620370-bdd4-11ef-accf-8be787900631.html>
+
+---
+
+## Bill to tackle physician shortage heads to governor’s desk
+
+date: 2024-12-19, updated: 2024-12-19, from: Marianas Variety
+
+SENATE Bill 23-67, which would allow licensed physicians from foreign countries to practice medicine at the Commonwealth Healthcare Corp., is now on its way to the desk of Gov. Arnold I. Palacios. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/bill-to-tackle-physician-shortage-heads-to-governor-s-desk/article_7f829d86-bd08-11ef-a1ac-334aff991a5d.html>
+
+---
+
+## 9th Circuit seeks guidance from NMI Supreme Court on retirees’ COLA
+
+date: 2024-12-19, updated: 2024-12-19, from: Marianas Variety
+
+THE U.S. Court of Appeals for the Ninth Circuit has certified a legal question to the CNMI Supreme Court seeking guidance on whether the Cost-of-Living Allowance or COLA for retirees under the CNMI Constitution is protected and cannot be diminished. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/9th-circuit-seeks-guidance-from-nmi-supreme-court-on-retirees-cola/article_92065b50-bdc1-11ef-8163-5ba9a3ad9e91.html>
+
+---
+
+## #MarianasAdventure Campaign winners
+
+date: 2024-12-19, updated: 2024-12-19, from: Marianas Variety
+
+First place winner Patricia Castillon (@_chuchai), center, and other winners of the Marianas Visitors Authority’s #MarianasAdventure Campaign are awarded for their winning Instagram videos promoting the destination on Dec. 16, 2024, at the MVA office in I Liyan, Saipan. From left, MVA Marketing Specialists Brenda Repeki and Skye Seo, 3rd place winner Deejay Santomin (@svwfctr), Castillon, 2nd place winner Antonette Castro a.k.a. Netty Cee (#nettyceeofficial), MVA Media Marketing Specialist Ezra Lizama, and MVA Marketing Manager Thomas Kim. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/marianasadventure-campaign-winners/article_3d3f9764-bdc9-11ef-a156-33970c4a2879.html>
+
+---
+
+## MVA markets in Busan, Korea to bolster new flights
+
+date: 2024-12-19, updated: 2024-12-19, from: Marianas Variety
+
+(MVA) — The Marianas Visitors Authority has stepping up its marketing in Busan, South Korea, as a partner in the launch of new flights from the city beginning Friday, Dec. 20. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/mva-markets-in-busan-korea-to-bolster-new-flights/article_3b375852-bdca-11ef-a14e-7f12f1d491ca.html>
+
+---
+
+## Illegal alien convicted on Saipan arrested on Guam
+
+date: 2024-12-19, updated: 2024-12-19, from: Marianas Variety
+
+CONVICTED and sentenced last year by the District Court for the NMI for attempting to enter Guam illegally by boat, Hongmei Ding was arrested on Dec. 10, 2024 on Guam for violating her release conditions. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/illegal-alien-convicted-on-saipan-arrested-on-guam/article_c07dbcbc-bdc1-11ef-8b4a-f3b757a66398.html>
+
+---
+
+## CEDA board OKs tax relief for Micronesian Air
+
+date: 2024-12-19, updated: 2024-12-19, from: Marianas Variety
+
+THE Commonwealth Economic Development Authority’s board of directors on Thursday unanimously approved the request of J&amp;P Holdings (CNMI) LLC for a qualifying certificate, granting the company a 100% abatement on business gross revenue, corporate income and individual income taxes. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/ceda-board-oks-tax-relief-for-micronesian-air/article_f92029b4-bde0-11ef-bd7f-074a1cf25a96.html>
+
+---
+
+## ARPA funded restoration of 80 hours, says administration
+
+date: 2024-12-19, updated: 2024-12-19, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios and Lt. Gov. David M. Apatang on Thursday met with senators and their key staff “to clarify misconceptions … aired on the previous day’s Senate session,” the administration said. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/arpa-funded-restoration-of-80-hours-says-administration/article_ed711e74-bde6-11ef-bc6d-d3702c4adfb5.html>
+
+---
+
+## Rota delegation looks into gaming commissioners’ travel expenses
+
+date: 2024-12-19, updated: 2024-12-19, from: Marianas Variety
+
+THE Rota Legislative Delegation is looking into the expenses of the Rota Casino Gaming Commission, which claimed to have spent an “unapproved budget” to conduct an investigation into a casino investor, the IH Group. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/rota-delegation-looks-into-gaming-commissioners-travel-expenses/article_94de3d28-bdd7-11ef-bfe0-9300eea95607.html>
 
 ---
 
@@ -230,6 +885,34 @@ date: 2024-12-19, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/12/19/community/usda-grants-awarded-to-support-food-system-infrastructure-projects/>
+
+---
+
+## NTSB investigators probe fatal Kamaka Air crash
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>Three National Transportation Safety Board investigators will be taking the lead on trying to determine why Kamaka Air Flight 689 crashed Tuesday soon after takeoff from Daniel K. Inouye International Airport, killing two young pilots from Oahu.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/hawaii-news/ntsb-investigators-probe-fatal-kamaka-air-crash/>
+
+---
+
+## Police nab one of three Hale Nani escapees
+
+date: 2024-12-19, from: Hawaii Tribune Harold
+
+
+				<p>Police have arrested and charged one of the three men who escaped last Friday from the Hale Nani Correctional Facility.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/19/hawaii-news/police-nab-one-of-three-hale-nani-escapees/>
 
 ---
 

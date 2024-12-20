@@ -1,11 +1,320 @@
 ---
 title: columns
-updated: 2024-12-19 07:05:15
+updated: 2024-12-20 07:04:58
 ---
 
 # columns
 
-(date: 2024-12-19 07:05:15)
+(date: 2024-12-20 07:04:58)
+
+---
+
+##  20-minute video of carving a capital &#8220;I&#8221; in stone. I love how... 
+
+date: 2024-12-20, updated: 2024-12-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045888-20-minute-video-of-carvin>
+
+---
+
+## Fedora Asahi Remix 41 for Apple Macs is out
+
+date: 2024-12-20, updated: 2024-12-20, from: Liam Proven's articles at the Register
+
+<h4>New shiny if you run Linux on an M1 or M2</h4>
+      <p>The Fedora 41 version of Asahi Linux is out – the go-to Linux distro for Apple Silicon Macs.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/12/20/fedora_asahi_41_out/>
+
+---
+
+## The American oligarchy is back, and it’s out of control
+
+date: 2024-12-20, from: Robert Reich's blog
+
+It&#8217;s the third time in the nation&#8217;s history that a small group of hyper-wealthy people have gained political power over the rest of us. Here&#8217;s what we must do. 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-american-oligarchy-is-out-of>
+
+---
+
+## December 19, 2024 
+
+date: 2024-12-20, from: Heather Cox Richardson blog
+
+&#8220;These are the times that try men&#8217;s souls. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-19-2024>
+
+---
+
+## Friday 20 December, 2024
+
+date: 2024-12-20, from: John Naughton's online diary
+
+The Granta at night My favourite Cambridge pub, seen the other evening on my way home. Quote of the Day ”Whoever said money can’t buy you happiness didn’t know where to shop.” Gertrude Stein Musical alternative to the morning’s radio &#8230; <a href="https://memex.naughtons.org/friday-20-december-2024/40233/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-20-december-2024/40233/>
+
+---
+
+## Is Trump Really Calling the Shots?
+
+date: 2024-12-19, from: Dan Rather's Steady
+
+Just when you think it can&#8217;t get weirder or more dysfunctional &#8230; 
+
+<br> 
+
+<https://steady.substack.com/p/is-trump-really-calling-the-shots>
+
+---
+
+## Woody Johnson’s New York Jets
+
+date: 2024-12-19, updated: 2024-12-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/athletic/6005172/2024/12/19/woody-johnson-jets-madden-sons/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-19, from: Dave Winer's Scripting News)
+
+I'm thinking maybe we'll do a Kickstarter for <a href="https://this.how/wordland/">WordLand</a>. It'll cost money to run the server and continue to develop the sofware. It fills a big enough need to ask the users to support it financially, at least to get it off the ground. The server is open source so theoretically anyone can run one. But in practice most people will probably just want to use the service. I just want to solve this problem so we can start building a developer ecosystem around WordPress that it's never had. Think of WordLand as a pump primer. <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2024/12/19.html#a232030>
+
+---
+
+##  Gisèle Pelicot is the person of the year for 2024. &#8220;She told... 
+
+date: 2024-12-19, updated: 2024-12-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045893-gisele-pelicot-is-the-per>
+
+---
+
+## 2024-12-19 Valais
+
+date: 2024-12-19, from: Alex Schroeder's Blog
+
+<h1 id="2024-12-19-valais">2024-12-19 Valais</h1>
+
+<p>We are spending a week in the <a href="https://en.wikipedia.org/wiki/Valais">Valais</a>. It’s the source of the Rhone river (comparable to the Rhine except it flows west instead of north). We’re at around 1300m above sea level, here.</p>
+
+<p>The entire valley goes from east to west. There are mountains to the north, east and south. So in three out of four cardinal directions, the clouds already rained over some mountains. This region has the most sunny days in all of Switzerland.</p>
+
+<p>The Valais has two parts: the upper part is German speaking, the lower part is French speaking. The German speaking part used to lord it over the French speaking part. The region joined Switzerland in 1815.</p>
+
+<p>When I came here, I was about two weeks old. I don’t remember much. We left the Valais when I was at the age of learning to ride a bicycle. When is that? Maybe four years old? Not kindergarten age, in any case.</p>
+
+<p>In the seventies, the Valais got a tunnel through the mountains to connect it to the German speaking rest of Switzerland. I remember my das thinking the locals were extremely backwards. They didn’t understand that he rode the bicycle up the mountain just for fun. They threatened to call the police when they saw him tend his tomatoes on a Sunday (no working on a Sunday, it’s the law!).</p>
+
+<p>A little badmouthing remains. Outside of the Valais, people like to think that they are corrupt. The current and the last FIFA bosses – Blatter and Infantino – are from Valais. Enough said.</p>
+
+<p>People here, on the other hand, like to call everybody from outside the canton “Üsseschwyzer” (people from “outer Switzerland”).</p>
+
+<p>Historically, it was conquered by the Romans in 57 BCE, ended up as part of Burgundy in 888, was handed over to the bishop of Sion in 999 (still the capital), was part of the Holy Roman Empire in 1032, fell under the influence of Savoy, pushed them back and finally managed to conquer the lower parts during the Burgundian wars in 1475. This new, French speaking and subservient region got further expanded in 1536.</p>
+
+<p>With the French Revolution there was a revolt in 1798 against the upper Valais; France conquered the Valais in 1799, founded an independent republic in 1802 and absorbed it in 1810. At the Congress of Vienna in 1815 they joined the Swiss.</p>
+
+<p><a class="tag" href="/search/?q=%23Cantons">#Cantons</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-12-13-valais>
+
+---
+
+##  From Literary Hub, The 50 Biggest Literary Stories of 2024. Book bannings,... 
+
+date: 2024-12-19, updated: 2024-12-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045887-from-literary-hub-the-50>
+
+---
+
+## December 18, 2024
+
+date: 2024-12-19, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153380105/ab8fba0504dba28391bb2ecc2beb22fe.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153380105/ab8fba0504dba28391bb2ecc2beb22fe.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-18-2024-5ef>
+
+---
+
+##  Megastars used a pandemic-era grant intended to save music venues from closing... 
+
+date: 2024-12-19, updated: 2024-12-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045881-megastars-used-a-pandemic>
+
+---
+
+## Looking again
+
+date: 2024-12-19, from: Tracy Durnell Blog
+
+I like to read a lot of different writers because there&#8217;s so much cOnTeNt out there it&#8217;s easy to miss the good stuff; if multiple people are pointing to a piece it&#8217;s probably worth reading. And sometimes, writers will recontextualize something I did read: &#8220;look again.&#8221; Ah, you&#8217;re right, I didn&#8217;t catch that on the [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/12/19/looking-again/>
+
+---
+
+##  Philanthropist MacKenzie Scott writes about the $2 billion in donations her foundation... 
+
+date: 2024-12-19, updated: 2024-12-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045891-philanthropist-mackenzie->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-19, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/12/19/bojack.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://shownotes.scripting.com/scripting/2024/12/19/dontLetChatgptStrategizeForYou.html">Podcast</a>: ChatGPT is encyclopedic but is not good at strategy. It will drive you down blind alleys. It rewrites your code to conform to its standards. It has a terrible memory. Forgets things you told it specifically not to forget. It does not keep promises. People who say the bubble is fully inflated on this stuff are not paying attention. We're still dealing with very basic features. 
+
+<br> 
+
+<http://scripting.com/2024/12/19.html#a172939>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-19, from: Dave Winer's Scripting News)
+
+A <a href="https://www.youtube.com/watch?v=KyNMy-aaEeA">tuneup</a> for WordLand confirms that it's publishing. 
+
+<br> 
+
+<http://scripting.com/2024/12/19.html#a171532>
+
+---
+
+##  The Killings of Young Mothers. In the US, &#8220;when women under age... 
+
+date: 2024-12-19, updated: 2024-12-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045886-the-killings-of-young-mot>
+
+---
+
+##  The Vanity Fair Interview with Billie Eilish, Year Eight 
+
+date: 2024-12-19, updated: 2024-12-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/the-vanity-fair-interview-with-billie-eilish-year-eight>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-19, from: Dave Winer's Scripting News)
+
+I watched <a href="https://www.msnbc.com/the-beat-with-ari-melber">Ari Melber</a> last night and noted he isn't yet on Bluesky or hasn't updated his show graphics to include it? He usually tries to be leading edge in this, and at this point he looks a bit behind the times, imho, ymmv etc. After Melber, I stayed through the opening segment of Joy Reid and was charged up by her intro. She's clicking on all cylinders. They must be thinking about gutting or reconfiguring MSNBC at this time. It's up <a href="https://www.theguardian.com/media/2024/dec/01/msnbc-comcast-cable-news-for-sale-elon-musk-trump">for sale</a>, I wonder if a billionaire will see the wisdom of owning that piece of real estate as Musk saw the value in Twitter, far beyond what the stock market valued it at. (BTW, I should add that I benefited from his largesse, I was a very <a href="http://scripting.com/liveblog/users/davewiner/2015/11/15/0295.html">small shareholder</a> in Twitter at the time. I did not want to sell, but my vote didn't matter. Heh.) 
+
+<br> 
+
+<http://scripting.com/2024/12/19.html#a160815>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-19, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/12/19/arguingWithZombies.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've been thinking about <a href="https://www.google.com/search?q=site%3Ascripting.com+boty">Blogger Of The Year</a> for a few months, and had a choice (not yet final), but then <a href="https://www.google.com/search?q=site%3Ascripting.com+Krugman">Paul Krugman</a> left the NYT, set up shop <a href="https://paulkrugman.substack.com/">on Substack</a>, and has been totally kicking ass every day for the last week. Presumably these are all things the NYT wouldn't let him run? Or if he submitted them, would they edit them into mushy nonsense. I've been there, I quit Wired when they edited my pieces, with my name on them, where I said things I thought were inane, things that I most definitely did not say. There's never been a better illustration of the importance of blogging and the value that's removed by publishing in the NYT. If a <a href="https://www.princeton.edu/news/2008/10/13/princetons-paul-krugman-wins-nobel-economics-0">Nobel Laureate</a> like Krugman can't get his ideas out that way, with the huge advantage in circulation they have (as Wired did over my humble blog), then there must be a reason to have blogs after all. I don't think he will be my BOTY for 2024, but maybe next year, if he keeps up the intelligent irreverence. 
+
+<br> 
+
+<http://scripting.com/2024/12/19.html#a155019>
+
+---
+
+##  Superman Trailer 
+
+date: 2024-12-19, updated: 2024-12-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/superman-trailer>
+
+---
+
+## Mailbox Insecurity
+
+date: 2024-12-19, updated: 2024-12-19, from: Bruce Schneier blog
+
+<p>It turns out that all cluster mailboxes in the Denver area have the same master key. So if someone <a href="https://www.denver7.com/news/investigations/thieves-target-cluster-mailboxes-in-denvers-green-valley-ranch-north-neighborhood">robs a</a> <a href="https://www.msn.com/en-us/news/us/information-in-denver-postal-carrier-robbery-could-carry-150k-reward/ar-AA1tw3sJ">postal carrier</a>, they can open any mailbox.</p>
+<p>I get that a single master key makes the whole system easier, but it&#8217;s very fragile security.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/12/mailbox-insecurity.html>
+
+---
+
+## Every token is a feature
+
+date: 2024-12-19, from: Dave Rupert blog
+
+<p>I’m in the middle of a design tokens project and I thought I’d share something I’m learning that is probably obvious to everyone else; every design token is a feature.</p>
+<p>A token is a magical contract between design and engineering, if we agree to use the same name to abstractly refer to the same value, it will produce a desired outcome. That bridge alone is probably worth the investment, but tokens solve even more organizational problems. The mobile app and the website can look the same by sharing a single JSON file. But wait, there’s more! If the blue a different team chose is not blue enough for you, you can make your own blue and apply it at the global scope or the individual element scope. Tokens as an organizational feature are a powerful concept but there’s tons of nuance packed behind it.</p>
+<p>Like features, too many tokens can bloat your system. I recently learned –because I’m lucky to work with people who work on browsers– there’s a not-so-theoretical limit where the browser starts taking a performance hit based purely on the number of CSS variables. There’s no hard upper limit on the number of variables (we drew a line at ~500) because the limit ultimately depends on the size and the depth of your DOM. Style recalcs and tree walking are expensive problems for a browser. Alias tokens like <code>--foo: var(--bar)</code> compound the problem and the more static you can be, like <code>--foo: #bada55</code>, the better. Infinite customizability and peak performance are often at odds.</p>
+<p>Like features, too many tokens can create organizational problems! This is the opposite of what I said above, how can that be? It’s possible to generate enough tokens that they become their own <a href="https://robinrendle.com/essays/systems-mistakes-and-the-sea/">hyperobject</a>, impossible to comprehend from the outside, so well-meaning people eject from the system. Detached instances. One-offs. Snowflakes.</p>
+<p>Like features, tokens can create little piles of <a href="https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/">technical debt</a>. “Is anyone still using <code>--color-beefcake-primary-2</code>?” you shout into the void of the team chat. No one responds because no one knows. The person who does know left the company five months ago. Alas, we’ll bolt on more until we find time to fix it. Always adding. Never subtracting.</p>
+<p>Like features, some tokens are going to have a massive payoff if implemented and some tokens the user benefit is less clear. <a href="https://en.wikipedia.org/wiki/Conway%27s_law">You’re passing organizational complexity on to the user</a>. Like features, you can build over-complicated machinery around a simple concept like sharing values. Like features, people will build every part without considering whether they actually need each facet.</p>
+<p>Generally speaking, if someone wants to implement hundreds or thousands of little features in an application, that’s probably a red flag. <a href="https://daverupert.com/2018/09/if-statements-should-cost-10000/">If-statements are expensive over their lifetime</a>. But from my experience, a good system of tokens inside a cascade of meaningful componentry can make a product resonate with consistency across many surfaces, while providing just enough customizability to differentiate when necessary.</p> 
+
+<br> 
+
+<https://daverupert.com/2024/12/every-token-is-a-feature/>
 
 ---
 
@@ -13,7 +322,7 @@ updated: 2024-12-19 07:05:15
 
 date: 2024-12-19, from: Robert Reich's blog
 
-Sure looks that way. The richest person in the world has turned his wealth into raw power. That's what oligarchy looks like. 
+Sure looks that way. The richest person in the world has turned his wealth into raw power. That&#8217;s what oligarchy looks like. 
 
 <br> 
 

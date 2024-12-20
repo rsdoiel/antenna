@@ -1,11 +1,40 @@
 ---
 title: craft
-updated: 2024-12-19 07:05:18
+updated: 2024-12-20 07:05:01
 ---
 
 # craft
 
-(date: 2024-12-19 07:05:18)
+(date: 2024-12-20 07:05:01)
+
+---
+
+## AL 151: This Issue’s Authors
+
+date: 2024-12-20, from: Guild of American Luthiers
+
+<p>This Issue’s Authors Originally published in American Lutherie #151, 2024 Three-year GAL member Dan Alexander has spent the last three years learning to build guitars in his bathroom. In his spare time, he’s a dealer in professional recording gear and musical instruments, a published author, and has written songs for Eddie Money, Greg Kihn, and [&#8230;]</p>
+ 		<div class="woocommerce">
+			<div class="woocommerce-info wc-memberships-restriction-message wc-memberships-message wc-memberships-content-restricted-message">
+				To access this post, you must purchase <span class="wc-memberships-products-grant-access"><a href="https://luth.org/products/membership-products/membership/?attribute_your-location=United+States&#038;attribute_membership-years=2024+%2B+2025">Guild Membership &#8211; United States, 2024 + 2025</a>, <a href="https://luth.org/products/membership-products/membership/?attribute_your-location=Canada&#038;attribute_membership-years=2024+%2B+2025">Guild Membership &#8211; Canada, 2024 + 2025</a>, <a href="https://luth.org/products/membership-products/membership/?attribute_your-location=Outside+U.S.+and+Canada&#038;attribute_membership-years=2024+%2B+2025">Guild Membership &#8211; Outside U.S. and Canada, 2024 + 2025</a> or <a href="https://luth.org/products/membership-products/membership/?attribute_your-location=Outside+U.S.+and+Canada&#038;attribute_membership-years=2024+%2B+2025+Digital+Only">Guild Membership &#8211; Outside U.S. and Canada, 2024 + 2025 Digital Only</a></span>.		    </div>
+		</div>
+		 
+
+<br> 
+
+<https://luth.org/al-151-this-issues-authors/>
+
+---
+
+## Unlimited Generosity - MAIWA Gift Cards — All Options are Open
+
+date: 2024-12-19, updated: 2024-12-19, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2024/12/unlimited-generosity-maiwa-gift-cards.html>
 
 ---
 

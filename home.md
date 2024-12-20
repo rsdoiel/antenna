@@ -1,11 +1,323 @@
 ---
 title: home
-updated: 2024-12-19 07:05:17
+updated: 2024-12-20 07:04:59
 ---
 
 # home
 
-(date: 2024-12-19 07:05:17)
+(date: 2024-12-20 07:04:59)
+
+---
+
+## Rooted in Clay
+
+date: 2024-12-19, from: California Native Plants Society
+
+<p>Plants and pottery converge in the ceramics work of Laura Breidenthal</p>
+<p>The post <a href="https://www.cnps.org/flora-magazine/laura-breidenthal-native-plant-pottery-41494">Rooted in Clay</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/flora-magazine/laura-breidenthal-native-plant-pottery-41494>
+
+---
+
+## Trails For All
+
+date: 2024-12-19, from: California Native Plants Society
+
+<p>Author and advocate Syren Nagakyrie strives to make nature more accessible for disabled hikers</p>
+<p>The post <a href="https://www.cnps.org/flora-magazine/syren-nagakyrie-disabled-hikers-41514">Trails For All</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/flora-magazine/syren-nagakyrie-disabled-hikers-41514>
+
+---
+
+## Growing Joy
+
+date: 2024-12-19, from: California Native Plants Society
+
+<p>Julie Clements leads the Sacramento Valley CNPS Chapter's first Seed Swap</p>
+<p>The post <a href="https://www.cnps.org/flora-magazine/sacramento-cnps-seed-swap-2024-41544">Growing Joy</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/flora-magazine/sacramento-cnps-seed-swap-2024-41544>
+
+---
+
+## What You Need To Know About the New Seat Belt Warning Rules
+
+date: 2024-12-19, from: Family Handyman Blog
+
+<p>New rules from the Federal Government will require audio and visual warnings for every seat in cars and trucks starting in 2027. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/seat-belt-warnings/">What You Need To Know About the New Seat Belt Warning Rules</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/seat-belt-warnings/>
+
+---
+
+## This Palm Springs House Is Full of the Grooviest, Most Stylish Mid-Century Modern Decorating Ideas
+
+date: 2024-12-19, from: Sunset Magazine - Living in the West
+
+Decorating with groovy, mid-century decor is fun, but it's possible to go overboard. One designer strikes the perfect balance in this Palm Springs house. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/mid-century-decorating-ideas>
+
+---
+
+## 18 Ways To Use Fireplace Ash
+
+date: 2024-12-19, from: Family Handyman Blog
+
+<p>You don't need to throw out your fireplace wood ash. Try these savvy ways to use it.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/fireplace-ash-uses/">18 Ways To Use Fireplace Ash</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/fireplace-ash-uses/>
+
+---
+
+## This 1958 Mid-Century Home Designed by a Famous Seattle Architect Was Revitalized and Restored
+
+date: 2024-12-19, from: Sunset Magazine - Living in the West
+
+This 1958 mid-century home in West Seattle was originally designed by architect Al Bumgardner. It was updated to honor its history. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/al-bumgardner-seattle-home-makeover>
+
+---
+
+## Everything to Know About High-Profile Vehicles
+
+date: 2024-12-19, from: Family Handyman Blog
+
+<p>According to highway authorities, neither a Maserati nor a Jaguar would be considered high-profile vehicles. Here's what the term actually means.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/everything-to-know-about-high-profile-vehicles/">Everything to Know About High-Profile Vehicles</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/everything-to-know-about-high-profile-vehicles/>
+
+---
+
+## If You See a Blue Stop Sign, Here’s What It Means
+
+date: 2024-12-19, from: Family Handyman Blog
+
+<p>Learn what blue stop signs really signify and how they differ from traditional red stop signs.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/if-you-see-a-blue-stop-sign-heres-what-it-means/">If You See a Blue Stop Sign, Here&#8217;s What It Means</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/if-you-see-a-blue-stop-sign-heres-what-it-means/>
+
+---
+
+## Underconsumption Core: Why We Love It, and How To Achieve It For Yourself
+
+date: 2024-12-19, from: Family Handyman Blog
+
+<p>Kick your shopping habit with these underconsumption core tips.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/underconsumption-core/">Underconsumption Core: Why We Love It, and How To Achieve It For Yourself</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/underconsumption-core/>
+
+---
+
+## 10 Things Gardeners Need to Do Before Winter Hits
+
+date: 2024-12-19, from: Sunset Magazine - Living in the West
+
+Before winter begins, there are some things you need to prep your garden to protect it in the colder months and get it ready for spring. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/early-winter-garden-tasks>
+
+---
+
+## The Citrus Decor DIY You Need to Try This Holiday Season
+
+date: 2024-12-19, from: Sunset Magazine - Living in the West
+
+This holiday season, give your decor a chic citrus twist with carefully carved and dried whole citrus fruits (aka pomanders). 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects/citrus-pomander-holiday-decor-diy>
+
+---
+
+## A Perforated Metal Box Hides the Bathroom in This Small Madrid Apartment
+
+date: 2024-12-19, from: Dwell
+
+Complete with storage compartments, the unit has wavy, see-through panels that provide a peek at the tub. 
+
+<br> 
+
+<https://www.dwell.com/article/a-house-is-a-metalwork-taller-crac-apartment-renovation-storage-solution-cf6a870a>
+
+---
+
+## A Rare Craftsman Compound Just Hit the Market in L.A. for $2M
+
+date: 2024-12-19, from: Dwell
+
+The three dwellings have been renovated from top to bottom with custom cabinetry, warm earth tones, and vintage-inspired wallpaper. 
+
+<br> 
+
+<https://www.dwell.com/article/renovated-craftsman-home-compound-altadena-los-angeles-real-estate-70955b29>
+
+---
+
+## 9 Travel Trends You Have to Pay Attention to in 2025
+
+date: 2024-12-19, from: Sunset Magazine - Living in the West
+
+Here are the biggest travel trends to keep an eye out for in 2025, from longevity tourism to psychedelic journeys. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-trends-2025>
+
+---
+
+## Why You Should Always Pull Up to the White Line at Intersections
+
+date: 2024-12-19, from: Family Handyman Blog
+
+<p>That light might never turn green if you don't stop close enough. Here's how to lessen the wait, plus not aggravate the drivers behind you.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/traffic-light-sensors-intersections/">Why You Should Always Pull Up to the White Line at Intersections</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/traffic-light-sensors-intersections/>
+
+---
+
+## How to Grow and Care for Peanut Cactus
+
+date: 2024-12-19, from: The Gardener's Path
+
+<p>The South American peanut cactus is a mat-forming species with cylindrical, fleshy stems and red, lily-like flowers. It is suited to outdoor cultivation in xeriscapes and water-wise gardens in Zones 10 to 11, and is ideal as a low-maintenance, easy-care houseplant. Learn how grow and care for peanut cactus in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/grow-peanut-cactus/">How to Grow and Care for Peanut Cactus</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/grow-peanut-cactus/>
+
+---
+
+## Do You Know Where Your Building Materials Are Actually Made?
+
+date: 2024-12-19, from: Family Handyman Blog
+
+<p>Learn what building materials are imported or made right here in the United States.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/do-you-know-where-your-building-materials-are-actually-made/">Do You Know Where Your Building Materials Are Actually Made?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/do-you-know-where-your-building-materials-are-actually-made/>
+
+---
+
+## Sourdough Chocolate Chip Cookies (Optional Cinnamon Spices)
+
+date: 2024-12-19, from: Homestead and Chil
+
+<p>Say hello to your new favorite sourdough chocolate chip cookie recipe! It's easy, flexible, and downright delicious. Keep them classic, or add optional warm spices to the batter along with a sprinkle of flaky sea salt on top. Can you say, sugar and spice and everything nice?</p>
+<p>The post <a href="https://homesteadandchill.com/spiced-sourdough-chocolate-chip-cookies/">Sourdough Chocolate Chip Cookies (Optional Cinnamon Spices)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/spiced-sourdough-chocolate-chip-cookies/>
+
+---
+
+## Why Is Spain’s Social Housing So Well-Designed?
+
+date: 2024-12-19, from: Dwell
+
+The country is trying to reverse its legacy of under-investing in public housing by churning out projects that defy expectations of the building type. 
+
+<br> 
+
+<https://www.dwell.com/article/why-is-spains-social-housing-so-well-designed-8421170b>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-12-19, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Those Passive Homes in ‘The Curse’ Are Very Real—Here’s What to Know About the Design Movement
+
+date: 2024-12-19, from: Sunset Magazine - Living in the West
+
+Yes, the eco-friendly homes from Showtime's 'The Curse' are real, and they're actually practical. An expert explains what passive houses are. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/what-are-passive-houses>
+
+---
+
+## This Passive House Was Built to Withstand Harsh Montana Winters
+
+date: 2024-12-19, from: Sunset Magazine - Living in the West
+
+A Montana house was built with the tenets of Passive House design in mind. Now it can withstand freezing winters with minimal energy use. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/montana-passive-house-design>
+
+---
+
+## Gifts That Were Practically Made for Design Enthusiasts
+
+date: 2024-12-19, from: Sunset Magazine - Living in the West
+
+Get the design enthusiast in your life these stylish and useful design gifts, from kitchen goods to accessories. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/design-gifts>
 
 ---
 
@@ -42,18 +354,6 @@ We're reflecting on the interior design trends that shaped this past year. Desig
 <br> 
 
 <https://www.sunset.com/home-garden/design/best-and-worst-design-trends-of-2024>
-
----
-
-## This Passive House Was Built to Withstand Harsh Montana Winters
-
-date: 2024-12-18, from: Sunset Magazine - Living in the West
-
-A Montana house was built with the tenets of Passive House design in mind. Now it can withstand freezing winters with minimal energy use. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/montana-passive-house-design>
 
 ---
 
@@ -106,6 +406,18 @@ Judy Becker discusses crafting László Toth's modernist on-screen universe—in
 <br> 
 
 <https://www.dwell.com/article/how-the-the-brutalist-production-designer-went-method-to-embody-a-fictional-architect-e04629b0>
+
+---
+
+## How the "The Brutalist" Production Designer Went "Method" to Embody a Fictional Architect
+
+date: 2024-12-18, from: Dwell
+
+Judy Becker discusses crafting László Toth’s modernist on-screen universe—including his buildings. 
+
+<br> 
+
+<https://www.dwell.com/article/the-brutalist-interview-production-designer-judy-becker-architect-6a15652b>
 
 ---
 
@@ -196,6 +508,18 @@ Sugarhouse Design & Architecture sought to "pack in storage at every opportunity
 <br> 
 
 <https://www.dwell.com/article/before-and-after-cohen-citron-residence-sugarhouse-design-and-architecture-500a90a3>
+
+---
+
+## Before & After: Copious Cabinetry Makes a Compact Flat Work for a Family of Four
+
+date: 2024-12-18, from: Dwell
+
+Sugarhouse Design & Architecture sought to "pack in storage at every opportunity" as they revised this 1,171-square-foot Manhattan apartment. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-upper-west-side-residence-sugarhouse-design-and-architecture-1f70501d>
 
 ---
 
@@ -390,18 +714,6 @@ Here's how to optimize your travel experience with airport lounges, according to
 <br> 
 
 <https://www.sunset.com/travel/travel-tips/airport-lounge-tips>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-12-18, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
