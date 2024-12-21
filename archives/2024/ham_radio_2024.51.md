@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2024-12-20 09:24:25
+updated: 2024-12-21 07:05:34
 ---
 
 # ham radio
 
-(date: 2024-12-20 09:24:25)
+(date: 2024-12-21 07:05:34)
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-12-20, from: Amateur Radio Relay League News
+
+<p>Excellent HF conditions greeted hams in the ARRL 10-Meter contest<br />last weekend. Recent indicators show a sudden shift to two digit<br />daily sunspot numbers from three, and although there is nothing<br />significant about 100, it makes one notice.<br /><br />All daily sunspot numbers this week were 97 or less.<br /><br />Perhaps this indicates a move off of solar maximum, or to a future<br />with a second maximum.<br /><br />Solar activity was way...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-858>
 
 ---
 

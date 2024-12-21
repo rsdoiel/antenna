@@ -1,11 +1,11 @@
 ---
 title: craft
-updated: 2024-12-20 09:24:28
+updated: 2024-12-21 07:05:39
 ---
 
 # craft
 
-(date: 2024-12-20 09:24:28)
+(date: 2024-12-21 07:05:39)
 
 ---
 
@@ -107,4 +107,28 @@ If access to wood (or lumberyard anxiety) is what&#8217;s holding you back from 
 <br> 
 
 <https://blog.lostartpress.com/2024/12/16/chest-chair-kits-from-alexander-bros/>
+
+---
+
+## LAP Open Wire, Dec. 14, 2024
+
+date: 2024-12-14, from: Lost Arg Press blog
+
+Update: Comments are now closed (we will answer any unanswered questions tonight or tomorrow). Thanks all! If you have a woodworking question, now is your chance to ask it! Post it in the comments below between now and 5 p.m. Eastern and will do out best to answer everyone (in between working on chairs and... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/14/lap-open-wire-dec-14-2024/>
+
+---
+
+## Low-Stress Archtop Guitar Design
+
+date: 2024-12-14, from: Guild of American Luthiers
+
+Low-Stress Archtop Guitar Design by Steve Grimes from his 2008 GAL Convention workshop Originally published in American Lutherie #101, 2010 Before I was a luthier I worked as a draftsman for Boeing. I’d rest my head in my hand and hold my pencil, and I could log in a half-hour or 45-minute nap. In 1972 I [&#8230;] 
+
+<br> 
+
+<https://luth.org/2010_0265400-grimes-low-stress/>
 

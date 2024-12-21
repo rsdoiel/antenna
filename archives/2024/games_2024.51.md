@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2024-12-20 09:24:26
+updated: 2024-12-21 07:05:36
 ---
 
 # games
 
-(date: 2024-12-20 09:24:26)
+(date: 2024-12-21 07:05:36)
+
+---
+
+## Yes, Santa is canon in the DC and Marvel universes
+
+date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
+
+Every December, heroes and heroines around the superhero world are pulled into unusually seasonal experiences that draw upon their powers of goodwill and cheer as much as their super strength. It’s only a matter of pages before Jolly Old Saint Nick himself, Santa Claus, appears and reminds everyone to think good thoughts if they want [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/comics/2020/12/24/22193929/santa-in-marvel-dc-universe-comics-canon>
+
+---
+
+## Anora, Cuckoo, Netflix’s The Six Triple Eight, and every movie new to streaming
+
+date: 2024-12-20, updated: 2024-12-19, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Anora, Sean Baker’s romantic crime comedy starring Mikey Madison, arrives on VOD. That’s not all there is to watch this week, though, as the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/494964/new-movies-watch-streaming-anora-cuckoo-netflix-the-six-triple-eight>
+
+---
+
+## Watch the trailer for Grand Theft Hamlet, a movie that delivers on its title&#8217;s promise
+
+date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
+
+I’ve seen a lot of interpretations of Hamlet — different actors taking on Shakespeare’s iconic story in both stage and film formats. But Grand Theft Hamlet offers something I’ve never seen before, which is a production of the play set in the world of GTA Online. The upcoming film isn’t just a beat-for-beat recreation of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/501101/grand-theft-hamlet-release-date-gta-online-shakespeare>
+
+---
+
+## It’s a Christmas miracle! Pricey Final Fantasy game gets reprint
+
+date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
+
+For the Final Fantasy physical media sickos among us, today is a special day. For the eBay scalpers out there, less so, because pre-orders for the out-of-print ESRB version Final Fantasy 7 Remake Intergrade for PlayStation 5 have appeared on some retailer sites, the results of a very welcome reprint. Final Fantasy 7 Remake made [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/490902/final-fantasy-7-remake-intergrade-ps5-preorder-reprint>
+
+---
+
+## Oh god, oh man, Helldivers 2’s Illuminate are beelining their way to the ominous space hole
+
+date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
+
+It’s an exciting time to be a Helldiver, with Arrowhead recently adding urban maps, a recon vehicle, and a third enemy faction to the game. At first, it looked like the story of the Illuminate returning to the galaxy would be one and done, told over the course of a weekend. The Illuminate arrived immediately [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/501024/helldivers-2-illuminate-merida-black-hole>
+
+---
+
+## How to get the free Yulejacket and Santa Dogg skins in Fortnite Winterfest 2024
+
+date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
+
+Yulejacket and Santa Dogg are the two free skins in Fortnite’s Winterfest 2024 event, shown left and right respectively in the screenshot above. Enjoy Winterfest 2024 and spread holiday cheer as Yulejacket and Snoop Dogg, but you have to get them first. Getting them requires a little more work than all of the other Winterfest [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/500842/free-skins-winterfest-2024-yulejacket-santa-dogg-how-to-get>
+
+---
+
+## Path of Exile 2&#8217;s fastest player is a walking lightning storm about to cross the finish line
+
+date: 2024-12-20, updated: 2024-12-20, from: Polygon Website
+
+The fastest player in Path of Exile 2 looks like he’s playing as a music visualizer. Lightning bolts ping-pong across the screen in sync with the breakneck beats he’s been blasting for the past nine hours on Twitch. He’s racing to be the first player in the world to hit the action RPG’s max level, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/500692/path-of-exile-2-fastest-rank-1-sorceress-player>
 
 ---
 
@@ -690,4 +774,52 @@ Mythical Island is the first expansion for Pokémon TCG Pocket, adding dozens of
 <br> 
 
 <https://www.polygon.com/pokemon-tcg-pocket-guides/496420/mythical-island-expansion-release-time-date-est-pst-bst>
+
+---
+
+## Lord of the Rings: War of the Rohirrim makes oliphaunts terrifying again
+
+date: 2024-12-14, updated: 2024-12-14, from: Polygon Website
+
+I thought I had a handle on oliphaunts. You know, the massive war elephants of The Lord of the Rings, as featured thrillingly in Peter Jackson’s Lord of the Rings trilogy? Jackson’s productions brought the creatures to life in terrifying might, and made them the crux of one of the trilogy’s most debated action moments.&#160; [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/lord-of-the-rings/496681/war-rohirrim-movie-elephants-oliphaunts-mumakil>
+
+---
+
+## The best gifts for Fortnite fans
+
+date: 2024-12-14, updated: 2024-12-14, from: Polygon Website
+
+Fortnite is the only video game where you can play as Snoop Dogg and land a headshot on Paul Atreides. While it started as a very different kind of game, it’s known nowadays as a popular battle royale shooter and multimedia melting pot. You can play as characters from franchises spanning gaming, movies, and anime. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/23940369/fortnite-gifts-best-books-games>
+
+---
+
+## Antonblast plays like a Wario Land made by the devil
+
+date: 2024-12-14, updated: 2024-12-13, from: Polygon Website
+
+A couple hours into Antonblast, a new side-scrolling action-platformer that’s inspired by Game Boy Advance-era Wario Land and Crash Bandicoot games, I wondered if I knew what I was really doing. Sure, I’d beaten some of the game’s hard-as-hell bosses and blasted through a handful of challenging levels, yet I felt like I was barely [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/496953/antonblast-impresssions-steam-deck-nintendo-switch>
+
+---
+
+## The best thrillers to watch on Netflix this December
+
+date: 2024-12-14, updated: 2024-12-13, from: Polygon Website
+
+A new month means a new batch of thrillers on Netflix, and a new breakdown from us about which ones are worth your time. And this month, that even includes a new release that’s perfectly timed for the holidays. Every month, we handpick a few of the best thrillers on Netflix that fit the current [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/496473/best-thriller-movies-netflix-watch-december-2024>
 

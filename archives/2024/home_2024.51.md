@@ -1,11 +1,289 @@
 ---
 title: home
-updated: 2024-12-20 09:24:27
+updated: 2024-12-21 07:05:37
 ---
 
 # home
 
-(date: 2024-12-20 09:24:27)
+(date: 2024-12-21 07:05:37)
+
+---
+
+## Hotels, Inns, and More
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+Staying in the right hotels can make or break a vacation. Get our recommendations for great bargains, most unique sleeps, coastal stays, and more Western accommodations. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels>
+
+---
+
+## Outdoor Adventure
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+Plan an outdoor adventure in the West with our insider tips on national parks, the best campgrounds, amazing hikes, and bike trips. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure>
+
+---
+
+## Road Trips
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+Satisfy your wanderlust with a Western classic??a great road trip. Get ideas for the best routes and where to eat along the way. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips>
+
+---
+
+## Wine Country
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+The West is home to the country's best wine regions. Explore them all and taste their best offerings, from the cult cabs of Napa to the Pinots of Willamette Valley. 
+
+<br> 
+
+<https://www.sunset.com/travel/wine-country>
+
+---
+
+## WildLands
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+The adventures and reporting of J.D. Simkins as he roams the remaining "wild lands" of the West. 
+
+<br> 
+
+<https://www.sunset.com/travel/wildlands>
+
+---
+
+## Travel the West
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<br> 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Wellness
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+Everyday inspiration for balanced, healthy living. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness>
+
+---
+
+## Gifts & Shopping
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+One-of-a-kind gifts to spread holiday cheer, including picks for everyone on your list, from gardeners and travelers to parents and pets. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping>
+
+---
+
+## Lifestyle
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+Lifestyle ideas and inspiration for every life stage, from gift guides and gear recommendations to wedding planning, living with kids and pets, and saving for home remodels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle>
+
+---
+
+## The Idea Hub
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+Innovative design and genius decorating ideas are around every corner in our Idea Hub showcase homes. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/idea-houses>
+
+---
+
+## Outdoor Living
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+Update your outdoor living areas with our design and decorating tips on patios, decks, sheds, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/outdoor-living>
+
+---
+
+## Flowers & Plants
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+The very best flowers and plants for your garden's climate zone. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/plants>
+
+---
+
+## Garden Basics
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+Learn how to start your own home garden with our gardening experts&apos; tips and tutorials 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics>
+
+---
+
+## Decorating & Design
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+Transform your home with our decorating tips, including ideas for small spaces, DIY projects, home design, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design>
+
+---
+
+## Home Tours
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours>
+
+---
+
+## Home & Garden
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine. 
+
+<br> 
+
+<https://www.sunset.com/home-garden>
+
+---
+
+## Wine & Drinks
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+Pair wine like a pro with our wine guide. Find the best wine for every meal, including burgers, pizza, steak, and more 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings>
+
+---
+
+## Food and Drink
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+Delicious recipes, food and wine pairings, and more ways to savor the West. 
+
+<br> 
+
+<https://www.sunset.com/food-wine>
+
+---
+
+## A Cold Day Delight: 26 Stew Recipes Perfect for Winter
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+Warm and delicious, stews are great for sharing as well as warming people up. Cook up a batch from one or all of these delicious stew recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/stew-recipes>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-12-20, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## The Restaging of "Luna Luna" Calls Back to a More Exciting—But Dead—Art World
+
+date: 2024-12-20, from: Dwell
+
+With significant venture capital funding, the resuscitated 1980s theme park, now in New York City, is a joy to explore—if you ignore the current moment. 
+
+<br> 
+
+<https://www.dwell.com/article/the-restaging-of-luna-luna-calls-back-to-a-more-excitingbut-deadart-world-8a325766>
+
+---
+
+## Here’s an Easy Hack To Prevent Your Windshield From Fogging Up
+
+date: 2024-12-20, from: Family Handyman Blog
+
+<p>A foggy windshield can really slow you down in the morning. Fortunately, there's an easy way to prevent it with a tube sock and kitty litter. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/prevent-windshield-fogging-up/">Here&#8217;s an Easy Hack To Prevent Your Windshield From Fogging Up</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/prevent-windshield-fogging-up/>
+
+---
+
+## How an Outdated Montreal Row House Became a Homey Office Space
+
+date: 2024-12-20, from: Dwell
+
+Brand design studio Wedge turns a century-old house into home-sweet-home for its creative team. 
+
+<br> 
+
+<https://www.dwell.com/article/wedge-home-inform-architecture-home-like-office-rowhouse-renovation-59960359>
 
 ---
 
@@ -374,18 +652,6 @@ The country is trying to reverse its legacy of under-investing in public housing
 <br> 
 
 <https://www.dwell.com/article/why-is-spains-social-housing-so-well-designed-8421170b>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-12-19, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -1268,4 +1534,46 @@ Celebrity astrologer Meghan Rose shares where you should book your winter trip a
 <br> 
 
 <https://www.sunset.com/travel/where-to-travel-this-winter-based-on-your-zodiac-sign>
+
+---
+
+## How to Propagate Orchids: Five Methods
+
+date: 2024-12-14, from: The Gardener's Path
+
+<p>Orchids are unique and can be mystifying, especially when it comes to propagation. There are a number of different ways to propagate them, including from seed, by division and from stem cuttings, depending on the type you are growing. Learn about the different methods of propagating orchids in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/propagate-orchids/">How to Propagate Orchids: Five Methods</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/propagate-orchids/>
+
+---
+
+## Easy Sourdough Discard Crackers Recipe (Optional Cheese or Herbs)
+
+date: 2024-12-14, from: Homestead and Chil
+
+<p>Looking for ways to use sourdough starter discard? Come make delectable, crispy, savory crackers with our sourdough discard crackers recipe, including step-by-step photos. The recipe is easy and flexible - keep them plain, or add optional cheese, herbs, or other seasonings.</p>
+<p>The post <a href="https://homesteadandchill.com/sourdough-discard-crackers-recipe/">Easy Sourdough Discard Crackers Recipe (Optional Cheese or Herbs)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/sourdough-discard-crackers-recipe/>
+
+---
+
+## Rats! Protecting your garden fruits and vegetables
+
+date: 2024-12-14, from: Greg Alder's blog, Yard Post
+
+<p>At least squirrels work in daylight, such that it is easily observed if they’re chewing and stealing your produce. But rats! Nocturnal, sneaky, fecund, voracious. How to protect your garden fruits and vegetables from them? There are no rats doing damage among my vegetables or fruit trees these days because I have skilled hunter cats [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/rats-protecting-your-garden-fruits-and-vegetables/">Rats! Protecting your garden fruits and vegetables</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/rats-protecting-your-garden-fruits-and-vegetables/>
 

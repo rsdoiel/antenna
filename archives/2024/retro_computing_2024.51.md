@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2024-12-20 09:24:28
+updated: 2024-12-21 07:05:38
 ---
 
 # retro computing
 
-(date: 2024-12-20 09:24:28)
+(date: 2024-12-21 07:05:38)
 
 ---
 
@@ -126,4 +126,40 @@ Reminder MUG is holding their December meeting at 7:30pm tomorrow night online.
 <br> 
 
 <http://www.iconbar.com/comments/rss/news2144.html>
+
+---
+
+## b.log 2024/12/14 - The problem with AI, AI vs BBC BASIC, AI vs TurboC, AI vs Humans, So to sum up..., On making shit up.
+
+date: 2024-12-14, from: Richard Murray's blog
+
+The problem with AI, AI vs BBC BASIC, AI vs TurboC, AI vs Humans, So to sum up..., On making shit up. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241214>
+
+---
+
+## RISC OS North officially announced for 29th March, 2025
+
+date: 2024-12-14, from: RiscOS Story
+
+As noted last week, we now have the dates for all of the main RISC OS shows that are planned for 2025 &#8211; and one of those is a new event, RISC OS North, to replace both the Southwest Show and Wakefield. The new show is being organised by R-Comp&#8217;s Andrew Rawnsley and Orpheus Internet&#8217;s Richard Brown, the pair who normally handles the Southwest event, and this week they sent out a formal announcement of the show. The reason for the new event is that the Wakefield RISC OS Computer&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/risc-os-north-29th-march-2025/>
+
+---
+
+## Impression User Manual – Bound!
+
+date: 2024-12-14, from: RiscOS Story
+
+And more updates to RingBind When Chris Hall announced version 0.20 of his RingBind application, which allows (specially converted) documents to be viewed on the desktop as though they are physical tomes on the desk, he made available a beta version of his current work-in-progress &#8211; a conversion of the Impression User Manual. Chris now reports that the manual is &#8216;finished&#8217;, though with a caveat that he hasn&#8217;t yet finished creating the links in 11 of the 12 pages of the Index. (Clicking on a link in a document displayed&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/impression-user-manual-bound/>
 

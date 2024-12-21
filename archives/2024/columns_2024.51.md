@@ -1,11 +1,296 @@
 ---
 title: columns
-updated: 2024-12-20 09:24:26
+updated: 2024-12-21 07:05:35
 ---
 
 # columns
 
-(date: 2024-12-20 09:24:26)
+(date: 2024-12-21 07:05:35)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-20, from: Dave Winer's Scripting News)
+
+<div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/12/20/wordlandScreenShot.png"></center>What WordLand looks like today. <a href="https://www.youtube.com/watch?v=KyNMy-aaEeA" target="_blank">Video</a>.</div> 
+
+<br> 
+
+<http://scripting.com/2024/12/20.html#a233038>
+
+---
+
+##  Balkonkraftwerk: a German word meaning &#8220;balcony power plant&#8221;, aka the low-cost solar... 
+
+date: 2024-12-20, updated: 2024-12-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045895-balkonkraftwerk-a-german->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-20, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/11/nakedJenToday.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Programming work: I was trying to work out a feature for <a href="https://this.how/wordland/">WordLand</a> that isn't cooperating, having to do with the clipboard and the <a href="https://github.com/yabwe/medium-editor">MediumEditor</a> package, which does all these nice things for us with the clipboard, but it isn't willing to share custody, or perhaps more accurately we can't figure out how to. The feature I want is when you paste a URL and there's a selection, the selected text is turned into a link. A video <a href="https://www.youtube.com/watch?v=fwQQPTlpNZQ">explanation</a>. I've burned two full sessions on this, seeking advice from ChatGPT, Claude and Perplexity. They all pretend to know what to do, but in fact they don't. The clipboard is one of those areas of the browser that is held together with rumors and confusion, as is MediumEditor, and the intersection is rumors and confusion squared. Tomorrow I'm going to work on other things, and the day after until I have an idea for another way to approach this. I really want this feature because apparently it's supported in Slack, WordPress and other software that supports links. 
+
+<br> 
+
+<http://scripting.com/2024/12/20.html#a231830>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-20, from: Dave Winer's Scripting News)
+
+BTW, we could use a few <a href="https://this.how/wordland/#1733146566000">more testers</a> with good experience with bug reporting who use WordPress. I'm sure there are more bugs we haven't gotten reports on yet. 
+
+<br> 
+
+<http://scripting.com/2024/12/20.html#a231452>
+
+---
+
+## ★ Journalism Requires Owners Committed to the Cause
+
+date: 2024-12-20, updated: 2024-12-21, from: Daring Fireball
+
+Bezos can still be a hero in this story. But his only move is to sell. 
+
+<br> 
+
+<https://daringfireball.net/2024/12/journalism_requires_owners_committed_to_the_cause>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-20, from: Dave Winer's Scripting News)
+
+One more thing. I love taking the time to craft a delicious piece of software. I have never really done that in the 50 years I've been doing this. This time I decided there's no rush. I'm going to wait until people want what I've created. We're not there yet. <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2024/12/20.html#a230758>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-20, from: Dave Winer's Scripting News)
+
+Amazing that the tech industry hasn't tried to retrieve its reputation from the ones who are repping us in DC nowadays. Software doesn't <i>have</i> to treat their users like nobodies. Quite the opposite. I come from the school that says our users are the smartest most powerful people in the world and it's our privilege to create tools for them. 
+
+<br> 
+
+<http://scripting.com/2024/12/20.html#a230615>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-20, from: Dave Winer's Scripting News)
+
+I've figured out more precisely what <a href="https://this.how/wordland/">WordLand</a> is meant to <a href="http://scripting.com/2024/04/13/214755.html?title=itsBiggerThanATinyLittleTextbox">compete</a> with --> the <a href="http://scripting.com/2024/01/14/031201.html">tiny little text boxes</a> of the social web. Ours is slightly bigger, and grows as your piece gets longer. Neatly arranged like the others, and all your writing flows through WordPress and RSS, where each of the <a href="http://scripting.com/2024/01/14/031201.html">TLTBs</a> only flows into their limited and incompatible views of the social web. RSS and WordPress are a powerful distribution system. Lots of software works with those two protocols, as do many programmers, and they're both marvelously open, stable over more than twenty years each, and <i>can't</i> be owned by billionaires. Pretty powerful place, kind of amazing that there's so much room here, and the people are friendly. <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2024/12/20.html#a225549>
+
+---
+
+## 2024-12-20 Games
+
+date: 2024-12-20, from: Alex Schroeder's Blog
+
+<h1 id="2024-12-20-games">2024-12-20 Games</h1>
+
+<p>I ran role-playing games and I played in them.
+I think I tracked almost all of them using my bot,
+<a href="https://src.alexschroeder.ch/norn.git">Norn</a>.
+The result is visible on the <a href="https://campaignwiki.org/wiki/MontagInZ%C3%BCrich/">Montag in Zürich</a> page.</p>
+
+<p>The games I ran:</p>
+
+<table>
+<thead>
+<tr>
+<th>Game</th>
+<th align="center">Count</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Burning Wheel</td>
+<td align="center">3</td>
+</tr>
+
+<tr>
+<td>Elredd</td>
+<td align="center">27</td>
+</tr>
+
+<tr>
+<td>Knochentanz</td>
+<td align="center">8</td>
+</tr>
+
+<tr>
+<td>Montag</td>
+<td align="center">4</td>
+</tr>
+
+<tr>
+<td>Traveller</td>
+<td align="center">1</td>
+</tr>
+
+<tr>
+<td>Ultraviolet Grasslands</td>
+<td align="center">11</td>
+</tr>
+</tbody>
+</table>
+<p>The Burning Wheel game was effectively a 1-on-1 game that I don&rsquo;t think we&rsquo;ll pick up again.</p>
+
+<p>Elredd refers to my running of the Arden Vul Megadungeon using AD&amp;D 1st ed.</p>
+
+<p>Knochentanz is my BREAK!! RPG campaign.</p>
+
+<p>Montag refers to my running of Stonehell and the Giant Giants hexcrawl.</p>
+
+<p>Traveller refers to my Traveller one-hots in the Tau subsector.</p>
+
+<p>Ultraviolet Grasslands (UVG) refers to my UVG game using 2d6 rules (Halberts).</p>
+
+<p>The games I played in:</p>
+
+<table>
+<thead>
+<tr>
+<th>Game</th>
+<th align="center">Count</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Dolmenwood</td>
+<td align="center">2</td>
+</tr>
+
+<tr>
+<td>Glimmermark</td>
+<td align="center">11</td>
+</tr>
+
+<tr>
+<td>GURPS</td>
+<td align="center">1</td>
+</tr>
+
+<tr>
+<td>Montag</td>
+<td align="center">5</td>
+</tr>
+
+<tr>
+<td>Pirates of Drinax</td>
+<td align="center">1</td>
+</tr>
+
+<tr>
+<td>Taverne</td>
+<td align="center">1</td>
+</tr>
+</tbody>
+</table>
+<p>Dolmenwood is a short introduction adventure.</p>
+
+<p>Glimmermark is Dyson&rsquo;s Delve plus the Keep on on the Borderlands.</p>
+
+<p>GURPS was a one-shot.</p>
+
+<p>Montag refers to Aberrant Reflection.</p>
+
+<p>Pirates of Drinax is a new Traveller campaign where we created characters and nothing else.</p>
+
+<p>Taverne refers to a short guest appearance in an eight year long, ongoing OD&amp;D campaign.</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-12-20-games>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-20, from: Dave Winer's Scripting News)
+
+I've been alternating days <a href="http://scripting.com/">here</a> on my blog. One day, lots of posts, maybe even a podcast. And then a quiet day. Today started out quiet, and then the ideas started flowing. 
+
+<br> 
+
+<http://scripting.com/2024/12/20.html#a223255>
+
+---
+
+##  A Thirty-Year-Old Man Today vs. a Thirty-Year-Old Man in 1884. &#8220;Today: Is... 
+
+date: 2024-12-20, updated: 2024-12-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045894-a-thirty-year-old-man-tod>
+
+---
+
+## Friday Squid Blogging: Squid Sticker
+
+date: 2024-12-20, updated: 2024-12-12, from: Bruce Schneier blog
+
+<p>A <a href="https://www.redbubble.com/i/sticker/Squid-Ink-by-implexity/130332154.EJUG5">sticker</a> for your water bottle.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/12/friday-squid-blogging-squid-sticker.html>
+
+---
+
+## Losing (or gaining) a Genius
+
+date: 2024-12-20, from: Doc Searls (at Harvard), New Old Blog
+
+Sixteenth in the News Commons series. Dave Askins is shutting down the B Square Bulletin. This is tragic. And not just for Bloomington and Monroe County. (Dave covered the governing bodies of both like a glove.) It&#8217;s tragic for journalism. Because Dave was far more than an exemplar of reporting in service to the public. [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2024/12/20/losing-or-gaining-a-genius/>
+
+---
+
+## December 19, 2024
+
+date: 2024-12-20, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153422549/d008f63c78243a6c161c0d182397f861.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153422549/d008f63c78243a6c161c0d182397f861.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-19-2024-cd5>
+
+---
+
+##  My Jade Plants Flower And Yours Can Too 
+
+date: 2024-12-20, updated: 2024-12-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/my-jade-plants-flower-and-yours-can-too>
 
 ---
 
@@ -1421,4 +1706,174 @@ date: 2024-12-15, updated: 2024-12-17, from: Daring Fireball
 <br> 
 
 <https://daringfireball.net/feeds/sponsors/>
+
+---
+
+## December 13, 2024
+
+date: 2024-12-14, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153134862/0a526f4a4517a11073e9603e1a6ff792.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153134862/0a526f4a4517a11073e9603e1a6ff792.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-13-2024-672>
+
+---
+
+## ★ On the Accountability of Unnamed Public Relations Spokespeople
+
+date: 2024-12-14, updated: 2024-12-16, from: Daring Fireball
+
+This is why it’s more than vanity to put your name on your work, whatever your work is — it shows you take responsibility for its validity. 
+
+<br> 
+
+<https://daringfireball.net/2024/12/on_the_accountability_of_unnamed_public_relations_spokespeople>
+
+---
+
+##  Once again, The 2024 Kottke Holiday Gift Guide. If you&#8217;re shopping online,... 
+
+date: 2024-12-14, updated: 2024-12-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045854-once-again-the-2024-kottk>
+
+---
+
+## Online communities can work
+
+date: 2024-12-14, from: Dave Winer's Scripting News
+
+<p>A <a href="https://www.nytimes.com/2024/12/14/magazine/bluesky-social-media.html">piece</a> in today's NYT said all networks flame out, but that's actually too crude a statement. </p>
+<p>If you want your network not to flame out, give the users the tools to keep things moderated.</p>
+<p>One of the best features of Facebook is it gives the author of a post the power to decide who can respond to it. (I know they're not the only ones, but they're the first in my experience, so I give them credit.)</p>
+<p>If I write something that I know will attract trolls, I just restrict it to friends. If they flame me, or even try to provoke an argument, I just unfriend them, and I suspect they know that. The hotheads have been culled from the list over time, there's trust that people don't want and won't pick fights. </p>
+<p>Assume adults know when they're asking to argue, and not only don't accept the bait, but don't allow them to participate. </p>
+<p>Keeps things friendly. Not kidding. It doesn't flame out there.</p>
+<p>It also helps that I've been using these networks since the 70s, and there have been times when I sought out the flames, because I could have shut them off at any time, but I let them keep going. Now I don't. I just don't argue online, and as a result the heat doesn't reach me. </p>
+<p>In other words, if you give people good tools, and they use them well, you can make this work. </p>
+<p>PS: To be fair, the NYT piece focused on Bluesky, and they are for sure going down a path much like the one Twitter went down, but it will happen much faster because the trolls are already plentiful and well-organized. They're going for the billion-dollar cashout, for sure and they will very likely get it, and as users we will still be looking for an open system that we can use to get work done. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/12/14/184411.html?title=onlineCommunitiesCanWork>
+
+---
+
+## What Really Matters: Memories
+
+date: 2024-12-14, from: Om Malik blog
+
+“It’s generally human nature to overestimate risk and underestimate opportunity. Thinking small is a self-fulfilling prophecy.” Jeff Bezos, founder, Amazon On My Mind We, as modern humans, try to control everything. In reality, though, we can’t really control the infinite number of ever-changing data points or the eventual outcomes. We can try, and in some &#8230; 
+
+<br> 
+
+<https://om.co/2024/12/14/what-really-matters-memories/>
+
+---
+
+## Upcoming Speaking Events
+
+date: 2024-12-14, updated: 2024-12-14, from: Bruce Schneier blog
+
+<p>This is a current list of where and when I am scheduled to speak:</p>
+<ul>
+<li>I&#8217;m speaking at a <a href="https://ewh.ieee.org/r1/boston/computer/schneier2025atMIT.html">joint meeting of the Boston Chapter of the IEEE Computer Society and GBC/ACM</a>, in Boston, Massachusetts, USA, at 7:00 PM ET on Thursday, January 9, 2025. The event will take place at the Massachusetts Institute of Technology in Room 32-G449 (Kiva), as well as online via Zoom. Please <a href="https://acm-org.zoom.us/webinar/register/1517341054470/WN_CYgexNC-Ssmbzi0gRF234Q">register in advance</a> if you plan to attend (whether online or in person).</li>
+</ul>
+<p>The list is maintained on <a href="https://www.schneier.com/events/">this page</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/12/upcoming-speaking-events-2.html>
+
+---
+
+## Listened to: Learning Conversations Artificial Intelligence with Ollie Bray
+
+date: 2024-12-14, from: John's World Wide Wall Display
+
+Listened to: Learning Conversations Artificial Intelligence with Ollie Bray &#124; Education Scotland podcast This is the first Education Scotland podcast episode I&#8217;ve listened to. Solid food for thought. I&#8217;ve not developed any really solid ideas around AI in education but this helped me think of some questions. Ollie compared the uptake and development to AI [&#8230;] 
+
+<br> 
+
+<https://johnjohnston.info/blog/listened-to-learning-conversations-artificial-intelligence-with-ollie-bray/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-12-14, from: Miguel de Icaza Mastondon feed)
+
+<p>I can quit anytime I want</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113651824612917859>
+
+---
+
+**@John's World Wide Wall Display** (date: 2024-12-14, from: John's World Wide Wall Display)
+
+Chat GPT&#8217;s geography is a bit off. 
+
+<br> 
+
+<https://johnjohnston.info/blog/chat-gpts-geography/>
+
+---
+
+## Time Magazine’s Jackass of the Year | The Coffee Klatch, December 14, 2024
+
+date: 2024-12-14, from: Robert Reich's blog
+
+With Michael Lahanas-Calder&#243;n, Vishal Shankar, and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153090482/e3a5f9d4502f0cbf3f18642ca9ed1a2b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153090482/e3a5f9d4502f0cbf3f18642ca9ed1a2b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/time-magazines-jackass-of-the-year>
+
+---
+
+## Weeknotes: Dec. 7-13, 2024
+
+date: 2024-12-14, from: Tracy Durnell Blog
+
+Win of the week: wrote every weekday this week! Looking forward to: planning to bake this sourdough apple cobbler this weekend 🍏 Stuff I did: 9.5 hours consulting 4.75 hours writing reviewed someone&#8217;s blog post! Two more people have asked me to read theirs 😀 That means I&#8217;ve got two more openings &#8212; so if you&#8217;ve [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/12/13/weeknotes-dec-7-13-2024/>
+
+---
+
+## December 13, 2024
+
+date: 2024-12-14, from: Heather Cox Richardson blog
+
+Time magazine&#8217;s interview with President-elect Donald Trump, published yesterday, revealed a man who was so desperate to be reelected to the presidency that he constructed a performance that he believed would woo voters, but who has no apparent plans for actual governance. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-13-2024>
+
+---
+
+## iGeneration Reports Apple Will Stop Selling Lightning-Port iPhones in the EU This Month
+
+date: 2024-12-14, updated: 2024-12-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2024/12/13/iphone-14-and-iphone-se-eu-report/>
 

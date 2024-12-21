@@ -1,11 +1,71 @@
 ---
 title: writing
-updated: 2024-12-20 09:24:26
+updated: 2024-12-21 07:05:36
 ---
 
 # writing
 
-(date: 2024-12-20 09:24:26)
+(date: 2024-12-21 07:05:36)
+
+---
+
+## 👻 #229 - Warnings from your future
+
+date: 2024-12-20, from: Interesting, a blog on writing
+
+Judgment Day is still possible. 
+
+<br> 
+
+<https://inneresting.substack.com/p/229-warnings-from-your-future>
+
+---
+
+## Featured Friday: Fantasy Epics
+
+date: 2024-12-20, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at how fantasy epics use their wizards, world building and wonder to create their own kind of magic. Our collection includes: Game of Thrones &#8211; “Pilot” by David Benioff &#38; D.B. Weiss [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-fantasy-epics">Featured Friday: Fantasy Epics</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2024/featured-friday-fantasy-epics>
+
+---
+
+## 2025 Prometheus Hall of Fame Award Finalists
+
+date: 2024-12-20, from: Locus Magazine
+
+<p>The Libertarian Futurist Society (LFS) has announced the finalists for the Prometheus Hall of Fame Award for Best Classic Fiction.</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Orion Shall Rise</strong>, Poul Anderson (Timescape)</li>
+<li>&#8220;As Easy as A.B.C.&#8221;, Rudyard Kipling (London Magazine 1912)</li>
+<li>&#8220;The Trees&#8221;, Rush (Hemispheres)</li>
+<li><b>Singularity Sky</b>, Charles Stoss (Ace)</li>
+</ul>
+</div>
+<p>Six other works were also considered: &#8220;Death and the Senator&#8221;, a 1961 short story by Arthur C. Clarke; <strong>That Hideous Strength</strong>, a 1945  <a href="https://locusmag.com/2024/12/2025-prometheus-hall-of-fame-award-finalists/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/2025-prometheus-hall-of-fame-award-finalists/>
+
+---
+
+## 6 Science Fiction Books Your Dad Doesn’t Own Yet: A Gift Guide
+
+date: 2024-12-20, from: Locus Magazine
+
+<p></p>
+<p>&#160;</p>
+<p>If you have a science fiction nerd for a parent, then you know it is impossible to shop for them over the holidays. They have read every SF title from the &#8216;Best of&#8217; lists and have a personal pulp collection from decades past. Here are <strong>six recent science fiction titles reviewed by our experts that we think your dad hasn&#8217;t read yet</strong> (unless he has a Locus subscription), in  <a href="https://locusmag.com/2024/12/6-science-fiction-books-your-dad-doesnt-own-yet-a-gift-guide/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/6-science-fiction-books-your-dad-doesnt-own-yet-a-gift-guide/>
 
 ---
 
@@ -594,4 +654,45 @@ date: 2024-12-15, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2024/12/clarkesworld-short-fiction-reviews-by-a-c-wise-3/>
+
+---
+
+## Lightspeed, Small Wonders and Beneath Ceaseless Skies: Short Fiction Reviews by Charles Payseur
+
+date: 2024-12-14, from: Locus Magazine
+
+<p>Lightspeed 9/24
+Small Wonders 9/24
+Beneath Ceaseless Skies 9/5/24, 9/19/24</p>
+<p><strong>Gabriela Santiago </strong>returns to Lightspeed in September with the metatextual “<strong>Reconstruct­ing ‘The Goldenrod Conspiracy,’ Edina Room, Saturday 2:30-3:30</strong>”, which is framed as a pre­sentation at a fan convention dedicated to the <strong>Doctor Who</strong>&#8211;esque television show <strong>Backwards Man</strong>. The presentation is on a lost episode that has been remade by fans based on what people could remember  <a href="https://locusmag.com/2024/12/lightspeed-small-wonders-and-beneath-ceaseless-skies-short-fiction-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/lightspeed-small-wonders-and-beneath-ceaseless-skies-short-fiction-reviews-by-charles-payseur/>
+
+---
+
+## The Lost Souls of Benzaiten by Kelly Murashige: Review by Colleen Mondor
+
+date: 2024-12-14, from: Locus Magazine
+
+<p><strong>The Lost Souls of Benzaiten</strong>, Kelly Murashige (Soho Teen 978-1-641-29574-1, $19.99, 304pp, hc) July 2024.</p>
+<p>Debut author Kelly Murashige mixes a tender coming-of-age story with the unexpected antics of a bored Japanese goddess to give readers the highly original fantasy <strong>The Lost Souls of Ben­zaiten</strong>. The author’s clever plot and thoroughly en­gaging characters manage to make all too relatable the protagonist’s wish early on to “become one of  <a href="https://locusmag.com/2024/12/the-lost-souls-of-benzaiten-by-kelly-murashige-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/the-lost-souls-of-benzaiten-by-kelly-murashige-review-by-colleen-mondor/>
+
+---
+
+## 2024 World Fantasy Convention Report
+
+date: 2024-12-14, from: Locus Magazine
+
+<p xml:lang="en-us"></p>
+<p class="normal" xml:lang="en-us">The 50th World Fantasy Convention was held as a hybrid event October 17-20, 2024, with the in-person portion held at the Sheraton Niagara Falls and Niagara Falls Convention Center in Niagara Falls NY. Guests of honor were Scott H. Andrews, Galen Dara, and Heather Graham, with toastmaster Michael Swanwick. P. Djèlí Clark was a special guest, and Life Achievement Awards winners were Ginjer Buchanan and Jo Fletcher. The theme was  <a href="https://locusmag.com/2024/12/2024-world-fantasy-convention-report/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/2024-world-fantasy-convention-report/>
 

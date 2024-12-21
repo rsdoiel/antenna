@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-12-20 09:24:27
+updated: 2024-12-21 07:05:37
 ---
 
 # libraries
 
-(date: 2024-12-20 09:24:27)
+(date: 2024-12-21 07:05:37)
 
 ---
 
@@ -81,6 +81,18 @@ Perich, Robert; Rageth, Ladina; He, Danya; Lakhno, Maryna
 <br> 
 
 <http://hdl.handle.net/20.500.11850/712834>
+
+---
+
+## Pulsed-field-ionization and dissociation spectroscopy of magnesium-containing molecules and H2S
+
+date: 2024-12-20, from: ETH Zurich, recently added
+
+Kreis, Carla 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/712787>
 
 ---
 
@@ -337,4 +349,16 @@ The Cocoanuts &#8211; 1929 &#8211; The Marx Brothers We invite filmmakers and ar
 <br> 
 
 <https://blog.archive.org/2024/12/16/2025-public-domain-day-remix-contest-the-internet-archive-is-looking-for-creative-short-films-made-by-you/>
+
+---
+
+## Valencia Branch Temporary Closure FAQ​
+
+date: 2024-12-14, from: Santa Clarita Public Library
+
+Valencia Branch Temporary Closure FAQ The Valencia Library will be temporarily closed December 21, 2024 through January 1, 2025 for renovations. During this time, library staff will be providing a curbside service for patrons to pick up their holds. Please note that the Old Town Newhall Library and the Canyon Country Jo Anne Darcy Library [&#8230;] 
+
+<br> 
+
+<https://www.santaclaritalibrary.com/2024/12/13/valencia-branch-temporary-closure-faq/>
 

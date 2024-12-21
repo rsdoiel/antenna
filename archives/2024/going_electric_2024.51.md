@@ -1,11 +1,167 @@
 ---
 title: going electric
-updated: 2024-12-20 09:24:28
+updated: 2024-12-21 07:05:38
 ---
 
 # going electric
 
-(date: 2024-12-20 09:24:28)
+(date: 2024-12-21 07:05:38)
+
+---
+
+## Critical EV battery materials face a supply crunch by 2030
+
+date: 2024-12-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/12/2022_Nth_Cycle_Team_-7618_websize-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The global shift to electric vehicles (EVs) is accelerating, but McKinsey’s <a href="https://www.mckinsey.com/industries/metals-and-mining/our-insights/toward-security-in-sustainable-battery-raw-material-supply" target="_blank" rel="noreferrer noopener">latest report</a> warns of significant strain on the supply chain for critical battery materials by 2030. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-recycling,ev-batteries,lfp-batteries,lithium,lithium-ion-battery" data-layer-viewtype="unknown" data-post-id="394820" href="https://electrek.co/2024/12/20/critical-ev-battery-materials-face-a-supply-crunch-by-2030/#more-394820" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/20/critical-ev-battery-materials-face-a-supply-crunch-by-2030/>
+
+---
+
+## Hyundai’s top-tier IONIQ 9 Calligraphy trim looks sharp in stealthy all-black
+
+date: 2024-12-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Hyundai-IONIQ-9-Calligraphy.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s new <a href="https://electrek.co/guides/hyundai-ioniq-9/">IONIQ 9</a> electric SUV already looks like it’s from the future, but the flagship Calligraphy trim stands apart from the other options. The top-tier model gains added tech, features, and sleek trim-exclusive design elements. A new all-black model was spotted in California, giving us a better look at the top-tier trim on the road.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-9" data-layer-viewtype="unknown" data-post-id="394806" href="https://electrek.co/2024/12/20/hyundais-top-tier-ioniq-9-calligraphy-suv-looks-sharp-in-black/#more-394806" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/20/hyundais-top-tier-ioniq-9-calligraphy-suv-looks-sharp-in-black/>
+
+---
+
+## Podcast: Tesla self-driving computer failure, Cybertruck issues, Honda/Nissan merger, and more
+
+date: 2024-12-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla’s issues self-driving computer failure, Cybertruck is also having some problem, Honda/Nissan merger, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="394757" href="https://electrek.co/2024/12/20/podcast-tesla-self-driving-computer-failure-cybertruck-issues-honda-nissan-merger-and-more/#more-394757" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/20/podcast-tesla-self-driving-computer-failure-cybertruck-issues-honda-nissan-merger-and-more/>
+
+---
+
+## Tesla Cybertrucks Are Piling Up On Used Car Lots
+
+date: 2024-12-20, from: Inside EVs News
+
+Sales of Tesla’s radical truck got off to a great start, but they seem to have slowed down. 
+
+<br> 
+
+<https://insideevs.com/news/745198/tesla-cybertrucks-piling-up-used/>
+
+---
+
+## Subaru’s Solterra electric SUV is getting much cheaper for 2025
+
+date: 2024-12-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Subaru-Solterra-2025-price-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Subaru’s electric SUV is significantly cheaper for the 2025 model year. Starting at under $39,000, the <a href="https://electrek.co/guides/subaru-solterra/">2025 Subaru Solterra</a> is up to $7,000 less than the 2024 model.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="subaru,subaru-solterra" data-layer-viewtype="unknown" data-post-id="394761" href="https://electrek.co/2024/12/20/subaru-solterra-getting-much-cheaper-2025/#more-394761" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/20/subaru-solterra-getting-much-cheaper-2025/>
+
+---
+
+## Velotric Go 1 Utility e-bike hits new $999 low in flash sale, Rad Power’s final phase of e-bike sales, Gotrax EVs, Greenworks, more
+
+date: 2024-12-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Velotric-Go-1-Utility-e-bike.webp?w=1200" /></div><p>Closing out this week’s Green Deals, we have a surprise flash sale through the weekend from Velotric on its <a href="https://9to5toys.com/2024/12/20/velotric-go-1-e-bike-999-holiday-flash-sale/">Go 1 Utility e-bike</a> that is now at a new <a href="https://9to5toys.com/2024/12/20/velotric-go-1-e-bike-999-holiday-flash-sale/">$999</a> low, among the <a href="https://9to5toys.com/2024/12/20/velotric-go-1-e-bike-999-holiday-flash-sale/">ongoing holiday sale</a> offers on its other e-bikes. For short-distance commuters, we spotted the newer <a href="https://9to5toys.com/2024/12/19/gotrax-gxl-v2-scooter-new-244-low/">Gotrax GXL V2 Electric Scooter</a> hitting a new <a href="https://9to5toys.com/2024/12/19/gotrax-gxl-v2-scooter-new-244-low/">$244</a> low alongside various other EVs from the brand at discounted rates. We then have <a href="https://9to5toys.com/2024/12/19/rad-power-christmas-sale-radexpand-5-1299/">Rad Power’s final phase of Christmas deals</a> through the rest of the year, with the <a href="https://9to5toys.com/2024/12/19/rad-power-christmas-sale-radexpand-5-1299/">RadExpand 5 Folding e-bike</a> remaining at <a href="https://9to5toys.com/2024/12/19/rad-power-christmas-sale-radexpand-5-1299/">$1,299</a> while all of the brand’s newest models are getting free gear promotions. Lastly, we have a one-day only sale on the <a href="https://9to5toys.com/2024/12/20/today-greenworks-80v-20-inch-snow-blower-300/">Greenworks 80V 20-inch Cordless Snow Blower kit for $300</a> until tonight. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2024/12/19/niu-christmas-sale-kqi2-pro-2024-low/">NIU e-scooter Christmas sale</a> offers, the collection of <a href="https://9to5toys.com/2024/12/19/ev-adapters-and-cable-for-tesla-drivers-50/">Rexing EV charger adapters</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="394733" href="https://electrek.co/2024/12/20/velotric-go-1-e-bike-rad-power-gotrax-greenworks-more/#more-394733" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/20/velotric-go-1-e-bike-rad-power-gotrax-greenworks-more/>
+
+---
+
+## BMW M shows off its secret ‘Beast’ EV sports car prototype [Video]
+
+date: 2024-12-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/bmw-m-beast-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/bmw-motorsport/">BMW M</a> is known for its powerful gas-powered sports cars, but its upcoming all-electric model could pack an even bigger punch. The team has been testing a secret EV prototype, dubbed “Beast,” since 2018. A new video gives us a sneak peek at the BMW M Beast.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bmw,bmw-motorsport" data-layer-viewtype="unknown" data-post-id="394732" href="https://electrek.co/2024/12/20/bmw-m-shows-off-secret-beast-ev-sports-car-prototype-video/#more-394732" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/20/bmw-m-shows-off-secret-beast-ev-sports-car-prototype-video/>
+
+---
+
+## Electric Car Charging Etiquette Guide
+
+date: 2024-12-20, from: Inside EVs News
+
+InsideEVs has compiled five key tips to make sure all EV drivers have hassle-free charging sessions.  
+
+<br> 
+
+<https://insideevs.com/news/745023/electric-car-ev-charging-etiquette/>
+
+---
+
+## The world’s highest solar + storage project is online in Tibet
+
+date: 2024-12-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Worlds-Highest-solar-storage-farm.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>At 5,228 meters (17,152 feet) above sea level, phase two of the world’s highest-altitude solar plus storage project has begun generating power, setting a new benchmark for renewable energy in extreme conditions.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,china,egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="394727" href="https://electrek.co/2024/12/20/worlds-highest-solar-storage-project-tibet/#more-394727" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/20/worlds-highest-solar-storage-project-tibet/>
+
+---
+
+## Tesla finds ‘cell-dent’ issues in Cybertrucks, starts replacing battery packs
+
+date: 2024-12-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla-Cybertruck-review-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has found a problem with “cell denting” in some Cybertrucks and it is starting to change the battery packs. The automaker is even sending the trucks back to Gigafactory Texas to investigate and replace the packs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="394704" href="https://electrek.co/2024/12/20/tesla-finds-cell-dent-issues-in-cybertrucks-starts-replacing-battery-packs/#more-394704" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/20/tesla-finds-cell-dent-issues-in-cybertrucks-starts-replacing-battery-packs/>
 
 ---
 
@@ -77,6 +233,10 @@ date: 2024-12-20, from: Electrek Feed
 
 
 
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Wheel-E-12-20-24.mp3"></audio></figure>
+
+
+
  <a data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="394679" href="https://electrek.co/2024/12/20/wheel-e-podcast-new-priority-current-plus-segway-e-bikes-rad-trade-ins-more/#more-394679" class="more-link">more…</a> 
 
 <br> 
@@ -145,7 +305,7 @@ date: 2024-12-20, from: Electrek Feed
 
 date: 2024-12-20, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Franklin-County-Solar-Farm-Image.jpg?quality=82&#038;strip=all&#038;w=1531" /></div><p><a href="https://ampion.net/" target="_blank" rel="noreferrer noopener">Ampion Renewable Energy</a> has brought five community solar farms in Maine online, adding nearly 25 megawatts (MW) of clean energy to the grid annually and generating over 28 million kilowatt-hours (kWh) of electricity. </p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Franklin-County-Solar-Farm-Image.jpg?quality=82&#038;strip=all&#038;w=1531" /></div><p><a href="https://ampion.net/" target="_blank" rel="noreferrer noopener">Ampion Renewable Energy</a> has brought five community solar farms in Maine online, adding nearly 25 megawatts (MW) of clean energy to the grid and generating over 28 million kilowatt-hours (kWh) of electricity  annually.</p>
 
 
 
@@ -1934,4 +2094,120 @@ date: 2024-12-15, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2024/12/15/labatt-breweries-places-single-largest-volvo-vnr-electric-truck-order-in-canada/>
+
+---
+
+## The New DS N°8 Is France’s Most Luxurious EV
+
+date: 2024-12-14, from: Inside EVs News
+
+There’s even a whiff of Cadillac about its design, which makes this something like a European Lyriq. 
+
+<br> 
+
+<https://insideevs.com/news/744378/ds-no8-flagship-french-ev/>
+
+---
+
+## Tesla is buffing Foundation Series badges off Cybertrucks to sell them as regular trucks
+
+date: 2024-12-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Hyundai-Tesla-Cybertruck.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla is turning some of its Foundation Series Cybertrucks into regular Cybertrucks to sell them and sending hundreds of US Cybertrucks to be homologated in Canada as it is having issues selling them in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="393762" href="https://electrek.co/2024/12/14/tesla-buffing-foundation-series-badges-off-cybertrucks-sell-them-as-regular/#more-393762" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/14/tesla-buffing-foundation-series-badges-off-cybertrucks-sell-them-as-regular/>
+
+---
+
+## The Lucid Gravity Is Here. Now Comes The Hard Part.
+
+date: 2024-12-14, from: Inside EVs News
+
+We talked to Lucid chief engineer Eric Bach about the start of Gravity production and what comes next.  
+
+<br> 
+
+<https://insideevs.com/news/744393/lucid-gravity-production-eric-bach/>
+
+---
+
+## Fossil-free jobsite reaches 50% electric operation with new Volvo wheel loader
+
+date: 2024-12-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/fossil-free-worksite-advances-electric-operation-1-2324x1200-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Just two years ago, 10% electric equipment operation seemed like an ambitious target for Sweden’s pioneering, fossil-free construction site. Last week, the site reached a 50% all-electric threshold with the addition of a new, <a href="https://electrek.co/2024/09/08/volvo-ce-opens-new-facility-to-support-production-of-electric-wheel-loaders/">Volvo L120H Electric Conversion wheel loader</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="carbon-emission,electric-construction-equipment,sweden,volvo" data-layer-viewtype="unknown" data-post-id="393746" href="https://electrek.co/2024/12/14/fossil-free-jobsite-reaches-50-electric-operation-with-new-volvo-wheel-loader/#more-393746" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/14/fossil-free-jobsite-reaches-50-electric-operation-with-new-volvo-wheel-loader/>
+
+---
+
+## Tesla Cybertruck After 50,000 Miles: Owner Details Issues, Charging Costs
+
+date: 2024-12-14, from: Inside EVs News
+
+This is the highest-mileage Cybertruck in the world, supposedly. 
+
+<br> 
+
+<https://insideevs.com/news/744191/tesla-cybertruck-50000-miles-issues-costs/>
+
+---
+
+## Hyundai XCIENT hydrogen fuel cell electric semi trucks arrive in Georgia
+
+date: 2024-12-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Large-64429-HyundaiMotorGroupDeploysXCIENTHydrogenFuelCellTrucksforHMGMACleanLogistics.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Just when you thought it was safe to count out hydrogen as a viable competitor to battery-electric power in the North American <a href="https://electrek.co/2024/03/13/what-real-world-hydrogen-pickup-looks-like-and-why-it-should-end-the-conversation/">medium</a>– and <a href="https://electrek.co/2024/12/13/nikola-hydrogen-semi-seems-belly-up-as-production-halt-rumors-swirl/">heavy-duty</a> trucking space, the new Hyundai XCIENT HFCEV Class 8 semi truck arrives in Georgia — and immediately gets to work.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,hydrogen,hyundai" data-layer-viewtype="unknown" data-post-id="393724" href="https://electrek.co/2024/12/14/hyundai-xcient-hydrogen-fuel-cell-electric-semi-trucks-arrive-in-georgia/#more-393724" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/14/hyundai-xcient-hydrogen-fuel-cell-electric-semi-trucks-arrive-in-georgia/>
+
+---
+
+## SoCal Edison adds 280 Chevy Silverado EV trucks to service fleet
+
+date: 2024-12-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/silverado_coned.jpg?quality=82&#038;strip=all&#038;w=1280" /></div><p>California utility SoCal Edison, one of the nation’s largest electric utilities, is helping reduce its own carbon footprint by adding 280 Chevrolet Silverado electric pickup trucks to its service fleet — part of a larger strategy to transition its entire vehicle fleet to electric by 2030.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevy-silverado-ev,commercial-evs,electric-utility" data-layer-viewtype="unknown" data-post-id="393707" href="https://electrek.co/2024/12/14/socal-edison-adds-280-chevy-silverado-ev-trucks-to-service-fleet/#more-393707" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/14/socal-edison-adds-280-chevy-silverado-ev-trucks-to-service-fleet/>
+
+---
+
+## California’s EV rules are a-okay, EPA sources say
+
+date: 2024-12-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/349912280_f9839a8826_k-e1734143671371.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The US government is ready to approve<a href="https://electrek.co/2022/08/25/ca-finalizes-2035-gas-car-ban-a-huge-deal-but-why-not-sooner/"> California’s emissions rules</a> which would end gas-only car sales within the state by 2035, according to <a href="https://www.washingtonpost.com/climate-environment/2024/12/13/epa-california-climate-cars-evs/">a report by the Washington Post</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california-air-resources-board,epa" data-layer-viewtype="unknown" data-post-id="393693" href="https://electrek.co/2024/12/13/californias-ev-rules-are-a-okay-epa-sources-say/#more-393693" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/13/californias-ev-rules-are-a-okay-epa-sources-say/>
 

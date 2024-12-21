@@ -1,11 +1,143 @@
 ---
 title: journalism
-updated: 2024-12-20 09:24:27
+updated: 2024-12-21 07:05:36
 ---
 
 # journalism
 
-(date: 2024-12-20 09:24:27)
+(date: 2024-12-21 07:05:36)
+
+---
+
+## Lessons learned in The Building of Lost Causes
+
+date: 2024-12-20, from: Nieman Journalism Lab
+
+Ten years ago, in Vancouver&#8217;s oldest office building, a few colleagues and I launched what seemed like an impossible venture: a digital newspaper that would stand up to one of the most powerful forces on earth, the oil and gas industry. We funded it through crowdfunding and a handful of &#8220;social impact&#8221; investors who knew... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/lessons-learned-in-the-building-of-lost-causes/>
+
+---
+
+## Publishers find the AI era not all that lucrative
+
+date: 2024-12-20, from: Nieman Journalism Lab
+
+&#8220;The AI era,&#8221; Sara Fischer writes in Axios, &#8220;is proving lucrative for media publishers looking to offset a slowdown in ads and subscription fatigue.&#8221; My prediction for 2025 is that this will not be true for most news organizations, because they&#8217;ll find that no technology companies are interested in paying for their content. While in... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/publishers-find-the-ai-era-not-all-that-lucrative/>
+
+---
+
+## Embrace the barbell
+
+date: 2024-12-20, from: Nieman Journalism Lab
+
+We live in a time of media fragmentation and hyperpolarization. This year&#8217;s presidential election raised further questions about traditional media&#8217;s relevance. And it seems increasingly clear that people are gravitating to extremes in the types of content they consume — whether scrolling short-form posts or listening to hours-long podcasts. We must meet them there. When... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/embrace-the-barbell/>
+
+---
+
+## Prediction markets go mainstream
+
+date: 2024-12-20, from: Nieman Journalism Lab
+
+For decades, the news industry has operated on a familiar rhythm: Journalists chase scoops, publish headlines, and define the news cycle. But a new model for information sharing is emerging. Prediction markets — platforms where users buy and sell shares based on the probability of future events — are poised to disrupt the media landscape... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/prediction-markets-go-mainstream/>
+
+---
+
+## The rise of informal news networks
+
+date: 2024-12-20, from: Nieman Journalism Lab
+
+Predictions — said someone — are a fool&#8217;s game. But there&#8217;s little doubt that in the next year we will continue to bear painful witness to the decline of America&#8217;s formal news structures. Twentieth-century news outlets will keep crashing by the wayside — victims to changing business and technological models, to hubris, to cultural mistrust... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-rise-of-informal-news-networks/>
+
+---
+
+## Back to the bundle
+
+date: 2024-12-20, from: Nieman Journalism Lab
+
+We’ve covered 2024 as the fragmentation election, and media analysts mostly assume fragmentation will continue — more and more podcasts and Substacks and hyper-personalized TikTok accounts, and a weaker and weaker big media. But as one of the great early internet CEOs once said, there are only two ways to go in media: bundling and... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/back-to-the-bundle/>
+
+---
+
+## The longform renaissance
+
+date: 2024-12-20, from: Nieman Journalism Lab
+
+If I&#8217;m going to predict the future, I find it useful to return to the past. As a kid, I wanted to be a journalist because I dreamed of seeing the world, meeting people who were different from me, and telling their stories. I suspect many of us were drawn to journalism for similar reasons:... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-longform-renaissance/>
+
+---
+
+## Journalists explain legislative procedure
+
+date: 2024-12-20, from: Nieman Journalism Lab
+
+This will be the year journalism finally explains arcane legislative rules to the public — for national, state, and local government. Most people find talk of clotures, filibusters, committee votes, bill reconciliation, the legislative calendar, and beyond absolutely boring. If civic-affairs news is the broccoli of American journalism, then coverage of legislative procedure is the... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/journalists-explain-legislative-procedure/>
+
+---
+
+## More small and mid-level podcasts hit the stage
+
+date: 2024-12-20, from: Nieman Journalism Lab
+
+In 2025, more podcasts will move from audio and video to the stage — and not just the big ones with big budgets. This already-growing trend will be adapted and invigorated by mid-tier and smaller shows whose audiences have been steadily increasing for years, whose listeners yearn for live interactions with hosts and shows that... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/more-small-and-mid-level-podcasts-hit-the-stage/>
+
+---
+
+## Data and context makes a comeback
+
+date: 2024-12-20, from: Nieman Journalism Lab
+
+Do you ever visit a friend&#8217;s house and find yourself surprised at how different their Netflix queue looks than yours? Or worry about the breaking down of a shared reality amid an increasingly fractured media landscape? As more of our digital experiences become mediated by personalization algorithms and fandoms built around individual content creators, I... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/data-and-context-makes-a-comeback/>
+
+---
+
+## Newsrooms will keep losing their conservative audiences
+
+date: 2024-12-20, from: Nieman Journalism Lab
+
+The hard question isn&#8217;t how journalists should cover Trump, but how they should relate to Trump voters. Now that the furor of the election has died down, perhaps political coverage might be perceived as a little less partisan. And perhaps there&#8217;s an opening for conservative audiences to return to the news, if they&#8217;re not worried... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/newsrooms-will-keep-losing-their-conservative-audiences/>
 
 ---
 
@@ -21,30 +153,6 @@ Are you still looking for a holiday gift for the journalist in your life, or per
 
 ---
 
-## AI helps us revisit old journalism territory
-
-date: 2024-12-19, from: Nieman Journalism Lab
-
-The hype wave around AI has peaked (or close to it), but its impact on the industry hasn&#8217;t yet been felt. I don&#8217;t predict that AI will take us &#8220;boldly where no one has gone before.&#8221; Instead, it will help us revisit old territory, digging deeper into abandoned wells to uncover untapped value, hidden insights,... 
-
-<br> 
-
-<https://www.niemanlab.org/2024/12/ai-helps-us-revisit-old-journalism-territory/>
-
----
-
-## More small and mid-level podcasts hit the stage
-
-date: 2024-12-19, from: Nieman Journalism Lab
-
-In 2025, more podcasts will move from audio and video to the stage — and not just the big ones with big budgets. This already-growing trend will be adapted and invigorated by mid-tier and smaller shows whose audiences have been steadily increasing for years, whose listeners yearn for live interactions with hosts and shows that... 
-
-<br> 
-
-<https://www.niemanlab.org/2024/12/more-small-and-mid-level-podcasts-hit-the-stage/>
-
----
-
 ## The media reckons with AGI
 
 date: 2024-12-19, from: Nieman Journalism Lab
@@ -54,6 +162,30 @@ In 1988, NASA scientist James Hansen told the U.S. Senate that man-made climate 
 <br> 
 
 <https://www.niemanlab.org/2024/12/the-media-reckons-with-agi/>
+
+---
+
+## AI companies grapple with what it means to be creators of news
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+As generative AI creeps further into news delivery, discovery, and consumption, both the media and the tech industries will increasingly find themselves in a strange new digital landscape where tech giants aren&#8217;t just aggregators of journalism, but creators of it. The media and tech industries, frequently to the dismay of both, are deeply and inextricably... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/ai-companies-grapple-with-what-it-means-to-be-creators-of-news/>
+
+---
+
+## AI helps us revisit old journalism territory
+
+date: 2024-12-19, from: Nieman Journalism Lab
+
+The hype wave around AI has peaked (or close to it), but its impact on the industry hasn&#8217;t yet been felt. I don&#8217;t predict that AI will take us &#8220;boldly where no one has gone before.&#8221; Instead, it will help us revisit old territory, digging deeper into abandoned wells to uncover untapped value, hidden insights,... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/ai-helps-us-revisit-old-journalism-territory/>
 
 ---
 
@@ -647,18 +779,6 @@ About 100 million students come to the United States annually, with around 3,500
 
 ---
 
-## Publishers find the AI era not all that lucrative
-
-date: 2024-12-16, from: Nieman Journalism Lab
-
-&#8220;The AI era,&#8221; Sara Fischer writes in Axios, &#8220;is proving lucrative for media publishers looking to offset a slowdown in ads and subscription fatigue.&#8221; My prediction for 2025 is that this will not be true for most news organizations, because they&#8217;ll find that no technology companies are interested in paying for their content. While in... 
-
-<br> 
-
-<https://www.niemanlab.org/2024/12/publishers-find-the-ai-era-not-all-that-lucrative/>
-
----
-
 ## All eyes are on Brazil
 
 date: 2024-12-16, from: Nieman Journalism Lab
@@ -668,18 +788,6 @@ Last November, Brazil&#8217;s first lady was involved in an unusual altercation 
 <br> 
 
 <https://www.niemanlab.org/2024/12/all-eyes-are-on-brazil/>
-
----
-
-## Embrace the barbell
-
-date: 2024-12-16, from: Nieman Journalism Lab
-
-We live in a time of media fragmentation and hyperpolarization. This year&#8217;s presidential election raised further questions about traditional media&#8217;s relevance. And it seems increasingly clear that people are gravitating to extremes in the types of content they consume — whether scrolling short-form posts or listening to hours-long podcasts. We must meet them there. When... 
-
-<br> 
-
-<https://www.niemanlab.org/2024/12/embrace-the-barbell/>
 
 ---
 
@@ -767,18 +875,6 @@ Is artificial intelligence ready to transform my content into other languages wi
 
 ---
 
-## Data and context makes a comeback
-
-date: 2024-12-16, from: Nieman Journalism Lab
-
-Do you ever visit a friend&#8217;s house and find yourself surprised at how different their Netflix queue looks than yours? Or worry about the breaking down of a shared reality amid an increasingly fractured media landscape? As more of our digital experiences become mediated by personalization algorithms and fandoms built around individual content creators, I... 
-
-<br> 
-
-<https://www.niemanlab.org/2024/12/data-and-context-makes-a-comeback/>
-
----
-
 ## News jumps off the page
 
 date: 2024-12-16, from: Nieman Journalism Lab
@@ -800,18 +896,6 @@ If the media wants to survive, it must work on trust and represent people fairly
 <br> 
 
 <https://www.niemanlab.org/2024/12/how-do-we-cover-people-like-me/>
-
----
-
-## The longform renaissance
-
-date: 2024-12-16, from: Nieman Journalism Lab
-
-If I&#8217;m going to predict the future, I find it useful to return to the past. As a kid, I wanted to be a journalist because I dreamed of seeing the world, meeting people who were different from me, and telling their stories. I suspect many of us were drawn to journalism for similar reasons:... 
-
-<br> 
-
-<https://www.niemanlab.org/2024/12/the-longform-renaissance/>
 
 ---
 

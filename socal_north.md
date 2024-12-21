@@ -1,11 +1,147 @@
 ---
 title: socal north
-updated: 2024-12-20 09:24:25
+updated: 2024-12-21 07:05:34
 ---
 
 # socal north
 
-(date: 2024-12-20 09:24:25)
+(date: 2024-12-21 07:05:34)
+
+---
+
+## Santa Ana Unified could lose 350 teachers and counselors due to budget cuts
+
+date: 2024-12-20, updated: 2024-12-21, from: The LAist
+
+The ending of federal and state COVID relief dollars, as well as declining enrollment, has resulted in a massive budget deficit. 
+
+<br> 
+
+<https://laist.com/news/education/santa-ana-unified-layoffs-budget-cuts>
+
+---
+
+## Big Lots says it is having going-out-of-business sales as it seeks a new buyer
+
+date: 2024-12-20, updated: 2024-12-20, from: The LAist
+
+The national discount retailer says that a previously announced deal to sell itself to a private-equity group fell through. 
+
+<br> 
+
+<https://laist.com/news/big-lots-going-out-of-business-sale>
+
+---
+
+## Renovations Coming to the Santa Clarita Public Library Valencia Branch
+
+date: 2024-12-20, from: City of Santa Clarita
+
+<p>Temporary Curbside Pickup Available Renovations are coming to the Santa Clarita Public Library Valencia Branch! The Valencia Branch will be temporarily closed from December 21, 2024, through January 1, 2025, for a flooring renovation project. During this time, Library services will be available through the temporary curbside service or through the outdoor lockers, which are [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/12/20/renovations-coming-to-the-santa-clarita-public-library-valencia-branch/">Renovations Coming to the Santa Clarita Public Library Valencia Branch</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/12/20/renovations-coming-to-the-santa-clarita-public-library-valencia-branch/>
+
+---
+
+## Join the Team and Become a Lifeguard at the City of Santa Clarita!
+
+date: 2024-12-20, from: City of Santa Clarita
+
+<p>Apply Now for This Upcoming Summer Season! The City of Santa Clarita is seeking enthusiastic individuals with a passion for swimming, exceptional customer service and community engagement to join our lifeguard team. This is a great way to make a difference in the community and promote water safety – all at a competitive pay rate! [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/12/20/join-the-team-and-become-a-lifeguard-at-the-city-of-santa-clarita/">Join the Team and Become a Lifeguard at the City of Santa Clarita!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/12/20/join-the-team-and-become-a-lifeguard-at-the-city-of-santa-clarita/>
+
+---
+
+## Aliso Canyon to stay open despite local worries
+
+date: 2024-12-20, updated: 2024-12-20, from: The LAist
+
+The gas storage facility was the site of a huge methane leak in 2015. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/aliso-canyon-stay-open-local-worries>
+
+---
+
+## Avalon School celebrates 100 years
+
+date: 2024-12-20, from: Catalina Islander
+
+Island school grew to include high school in 1924 For the Islander Avalon School celebrated its centennial with a gala and multi-class reunion on Dec. 7, in the Casino ballroom and was attended by more than 250 guests. Eddie Hoffman and his girlfriend provided entertainment during dinner and the Buzz Balls provided excellent live entertainment [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-school-celebrates-100-years/>
+
+---
+
+## City Council adopts annual growth policy for 2025
+
+date: 2024-12-20, from: Catalina Islander
+
+The City Council adopted the Annual Growth Policy for 2025 on Tuesday, Dec. 17. The Municipal Code requires the council to decide how much growth and what type of growth the city will allow, according to the staff report prepared by Contract Planner Kelly Ribuffo. “Southern California Edison (SCE) is not currently in any stage [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/city-council-adopts-annual-growth-policy-for-2025/>
+
+---
+
+## Hellas Construction Inc. to improve Machado Field
+
+date: 2024-12-20, from: Catalina Islander
+
+The City Council on Dec. 17 authorized the city manager to execute a contract with Hellas Construction Inc. to improve Joe Machado Field. The maximum cost of the project is $60,000, according to the staff report by Community Services Manager David Hart. Background In June 2016, the council awarded a contract to Hellas Construction, Inc., [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/hellas-construction-inc-to-improve-machado-field/>
+
+---
+
+## Sheriff’s Log: Dec. 4 to Dec. 16, 2024
+
+date: 2024-12-20, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Dec. 4 to Dec. 16, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/sheriffs-log-dec-4-to-dec-16-2024/>
+
+---
+
+## Letter to the Editor: Remembering Lolo
+
+date: 2024-12-20, from: Catalina Islander
+
+Walking from home to the post office to pick up the mail was only a 5-minute walk. Lolo’s shop was right along the way. The wife was never concerned that it would take me an hour or more to pick up the mail. She knew I would always stop in for a visit with my [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/letter-to-the-editor-remembering-lolo/>
+
+---
+
+## Saturday is the winter solstice. Make the most of the shortest day of the year
+
+date: 2024-12-20, updated: 2024-12-20, from: The LAist
+
+Saturday marks the shortest day of the year and the official start of winter in the Northern Hemisphere. 
+
+<br> 
+
+<https://laist.com/news/winter-solstice-shortest-day-of-the-year>
 
 ---
 
@@ -21,7 +157,7 @@ As faculty, graduate students and staff organize for better pay and benefits, th
 
 ---
 
-## Judge to hear closing arguments in 'OC Snitch Scandal' 2.0
+## Judge hears closing arguments in 'OC Snitch Scandal' 2.0
 
 date: 2024-12-20, updated: 2024-12-20, from: The LAist
 
@@ -35,9 +171,9 @@ At stake is a decades-old murder case and whether criminal defendants can be sur
 
 ## A small unit of volunteers helped fight Malibu’s Franklin Fire, here’s how they did it
 
-date: 2024-12-20, updated: 2024-12-20, from: The LAist
+date: 2024-12-20, updated: 2024-12-21, from: The LAist
 
-After the devastating Woolsey Fire, residents and the fire department teamed up. 
+After the devastating Woolsey Fire, residents and the fire department teamed up. Here's their story. 
 
 <br> 
 
@@ -69,6 +205,30 @@ SoCal weather will cool down over the weekend and there's a chance of rain on Ch
 
 ---
 
+## A year ago, Andrew Do called for LAist to fire our reporter. Catch up on what happened next
+
+date: 2024-12-20, updated: 2024-12-20, from: The LAist
+
+Nearly a year after LAist started investigating what happened to millions in taxpayer dollars, Do pleaded guilty to federal charges and resigned as an O.C. supervisor. Here are key takeaways from our investigation. 
+
+<br> 
+
+<https://laist.com/news/politics/andrew-do-laist-fire-reporter-nick-gerda-investigation>
+
+---
+
+## We talked to 6 legendary LA delis to help you perfect your matzo ball soup
+
+date: 2024-12-20, updated: 2024-12-20, from: The LAist
+
+Sinkers or swimmers? We've gathered matzo ball tips and tactics to help you master the craft. 
+
+<br> 
+
+<https://laist.com/news/food/best-matzo-ball-soup-la-deli-tips>
+
+---
+
 ## Legendary LA delis spill their matzo ball soup secrets
 
 date: 2024-12-20, updated: 2024-12-20, from: The LAist
@@ -78,18 +238,6 @@ Sinkers, swimmers: how to make the best matzo balls.
 <br> 
 
 <https://laist.com/news/food/la-delis-spill-their-matzo-ball-soup-secrets>
-
----
-
-## A year ago, Andrew Do called for LAist to fire our reporter. Here are key takeaways from the investigation
-
-date: 2024-12-20, updated: 2024-12-20, from: The LAist
-
-Nearly a year after LAist started investigating what happened to millions in taxpayer dollars, Do pleaded guilty to federal charges and resigned as an O.C. supervisor. Catch up on key moments. 
-
-<br> 
-
-<https://laist.com/news/politics/andrew-do-laist-fire-reporter-nick-gerda-investigation>
 
 ---
 
@@ -1017,4 +1165,129 @@ Ohio and 16 other Republican-dominated states have sued, asserting that a waiver
 <br> 
 
 <https://laist.com/news/supreme-court-to-hear-challenge-to-californias-authority-to-set-vehicle-emissions-standards>
+
+---
+
+## Happy 37th Birthday Santa Clarita
+
+date: 2024-12-14, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin This Sunday, December 15, 2024 – the City of Santa Clarita will mark its 37th birthday. Back in 1987, the City of Santa Clarita became the largest area ever to incorporate. Our new City was 39-square-miles and included the communities of Saugus, Newhall, Valencia and Canyon Country. Since then, more [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/12/14/happy-37th-birthday-santa-clarita/">Happy 37th Birthday Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/12/14/happy-37th-birthday-santa-clarita/>
+
+---
+
+## California's second biggest homeowner insurer is stepping up coverage, a sign of turning tide
+
+date: 2024-12-14, updated: 2024-12-14, from: The LAist
+
+After companies spent years fleeing California’s insurance market following catastrophic wildfires and inflation, Farmers Insurance is reopening some closed lines of coverage starting today. 
+
+<br> 
+
+<https://laist.com/news/californias-biggest-homeowner-insurer-to-step-up-coverage-in-state-a-sign-of-turning-tide>
+
+---
+
+## South Korea's parliament votes to impeach President Yoon Suk Yeol
+
+date: 2024-12-14, updated: 2024-12-14, from: The LAist
+
+South Korea's parliament impeached President Yoon Suk Yeol for his attempt to impose martial law, the first time such a measure had been imposed on the nation in more than four decades. 
+
+<br> 
+
+<https://laist.com/news/south-koreas-parliament-votes-to-impeach-president-yoon-suk-yeol>
+
+---
+
+## Why Gen Zs are drawn to the art of Yoshitomo Nara — and how an LA show is deepening their bond
+
+date: 2024-12-14, updated: 2024-12-14, from: The LAist
+
+An exhibition on climate change at the Hammer Museum is closing in January. It features a popular Japanese artist beloved by Gen Zs. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/why-gen-zs-are-drawn-to-the-art-of-yoshitomo-nara-and-how-an-la-show-is-deepening-their-bond>
+
+---
+
+## Say goodbye to late night sweet treats at Torrance’s Sleepy Hollow holiday lights
+
+date: 2024-12-14, updated: 2024-12-14, from: The LAist
+
+Residents are no longer allowed to sell food outside their home after 5 p.m. at the popular attraction. 
+
+<br> 
+
+<https://laist.com/news/torrance-sleepy-hollow-holiday-lights-food-sales-ban>
+
+---
+
+## A tiny IKEA has opened in Arcadia. Here’s what you can find
+
+date: 2024-12-14, updated: 2024-12-14, from: The LAist
+
+It's the latest “small-format” concept store by the Swedish furniture giant to open in the country. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/tiny-ikea-arcadia-guide>
+
+---
+
+## Go Fact Yourself quiz for December 14
+
+date: 2024-12-14, updated: 2024-12-14, from: The LAist
+
+Our celebrity panelists Cory Doctorow and Aida Rodriguez go head to head this week on their knowledge of Disney's Haunted Mansion ride and Prince's album, 'Purple Rain.' Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-december-14>
+
+---
+
+## LAPD Apprehends Suspect After Attempted Break-Ins and Shootings in San Fernando and Sylmar
+
+date: 2024-12-14, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="600" height="400" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/03/LAPD-car.jpg?fit=600%2C400&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/03/LAPD-car.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/03/LAPD-car.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/03/LAPD-car.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/03/LAPD-car.jpg?fit=600%2C400&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>An armed suspect is in custody after multiple calls of attempted break-ins and shootings last night in the City of San Fernando and Sylmar. The Los Angeles Police Department (LAPD) [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/13/lapd-apprehends-suspect-after-attempted-break-ins-and-shootings-in-san-fernando-and-sylmar/">LAPD Apprehends Suspect After Attempted Break-Ins and Shootings in San Fernando and Sylmar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/13/lapd-apprehends-suspect-after-attempted-break-ins-and-shootings-in-san-fernando-and-sylmar/>
+
+---
+
+## There's still time to enroll in LAUSD's Winter Academy
+
+date: 2024-12-14, updated: 2024-12-14, from: The LAist
+
+The L.A. Unified School District is hosting a three-day winter academy next week, open to students in transitional kindergarten through 12th grade. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-winter-academy-2024>
+
+---
+
+## Valencia Branch Temporary Closure FAQ​
+
+date: 2024-12-14, from: Santa Clarita Public Library
+
+Valencia Branch Temporary Closure FAQ The Valencia Library will be temporarily closed December 21, 2024 through January 1, 2025 for renovations. During this time, library staff will be providing a curbside service for patrons to pick up their holds. Please note that the Old Town Newhall Library and the Canyon Country Jo Anne Darcy Library [&#8230;] 
+
+<br> 
+
+<https://www.santaclaritalibrary.com/2024/12/13/valencia-branch-temporary-closure-faq/>
 

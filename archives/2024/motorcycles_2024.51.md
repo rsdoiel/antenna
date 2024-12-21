@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2024-12-20 09:24:27
+updated: 2024-12-21 07:05:37
 ---
 
 # motorcycles
 
-(date: 2024-12-20 09:24:27)
+(date: 2024-12-21 07:05:37)
 
 ---
 
@@ -413,4 +413,16 @@ An interesting concept, but one that might be a little too ahead of its time.
 <br> 
 
 <https://www.rideapart.com/news/744117/grounded-t1-electric-camper-trike/>
+
+---
+
+## This Tricolore Ducati Superbike Is Your Early Christmas Present
+
+date: 2024-12-14, from: Ride Apart, Electric Motorcycle News
+
+There are only 1,000 units up for grabs, and they're not cheap.  
+
+<br> 
+
+<https://www.rideapart.com/news/743924/ducati-panigale-v4-tricolore-2025-superbike/>
 

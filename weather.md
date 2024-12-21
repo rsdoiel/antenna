@@ -1,11 +1,11 @@
 ---
 title: weather
-updated: 2024-12-20 09:24:26
+updated: 2024-12-21 07:05:36
 ---
 
 # weather
 
-(date: 2024-12-20 09:24:26)
+(date: 2024-12-21 07:05:36)
 
 ---
 
@@ -49,30 +49,6 @@ limited instability should mitigate any severe weather potential.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## SPC - No watches are valid as of Fri Dec 20 17:15:02 UTC 2024
-
-date: 2024-12-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Fri Dec 20 17:15:02 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Fri Dec 20 17:15:02 UTC 2024
-
-date: 2024-12-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Fri Dec 20 17:15:02 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -161,45 +137,6 @@ for a few lightning flashes within this band.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
-
----
-
-## SPC Dec 20, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-12-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0644 AM CST Fri Dec 20 2024
-
-Valid 201300Z - 211200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe weather is not forecast across the contiguous United States
-through tonight.
-
-...Synopsis...
-Water-vapor imagery this morning shows an upper trough centered over
-the Great Lakes, with this feature forecast to move east into the
-Northeast and east of the Mid-Atlantic states by late tonight. 
-Farther west, a mid-level ridge will reside over the Rockies with an
-upper trough over the eastern Pacific approaching the northern
-CA/Pacific Northwest coast late.  Scant instability may develop and
-result in a couple of thunderstorms late tonight near the immediate
-northern CA coast as a strong WAA regime impinges on this region.
-
-..Smith/Goss.. 12/20/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
@@ -401,4 +338,68 @@ to remain largely offshore through the end of the period.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
+
+---
+
+## SPC MD 2267
+
+date: 2024-12-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md2267.html"><img src="https://www.spc.noaa.gov/products/md/mcd2267.png" border="1" alt="MD 2267 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 2267
+NWS Storm Prediction Center Norman OK
+0458 AM CST Sat Dec 14 2024
+
+Areas affected...eastern Iowa...northwestern Illinois...and vicinity
+
+Concerning...Freezing rain 
+
+Valid 141058Z - 141700Z
+
+SUMMARY...Freezing rain -- at rates locally in excess of 0.10"/hour
+-- will continue spreading north-northeastward across eastern Iowa
+and into northwestern Illinois through midday.
+
+DISCUSSION...Latest radar loop shows an expansive area of
+precipitation ongoing from the Arklatex region northward across the
+Lower Missouri and Mid Mississippi Valleys this morning.  The
+precipitation is occurring in an area of warm
+advection/quasigeostropic ascent, east of a 1013 mb surface low over
+central Kansas, and associated upper low moving eastward across
+Nebraska and Kansas this morning.
+
+A cold boundary layer remains in place across this region, on the
+western fringe of a 1048 mb high centered in the vicinity of the
+Pennsylvania/New York border area.  As low-level theta-e advection
+continues ascending atop the cold low-level airmass, resulting
+ascent will continue to support the broad/ongoing area of
+precipitation over the next several hours.
+
+Currently, the surface freezing line extends from the Omaha area
+east-southeastward into southern Illinois north of the St. Louis
+area.  North of this line, mixed/wintry precipitation is observed,
+mainly in the form of freezing rain.  The most substantial freezing
+rain has occurred over southeastern Iowa recently, with KOTM
+(Ottumwa) reporting 0.13" in the past hour.  This area of moderate
+precipitation will continue spreading north-northeastward with time,
+across eastern Iowa and northwestern Illinois, with ice
+accumulations likely.
+
+..Goss.. 12/14/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...LOT...ILX...MKX...LSX...DVN...ARX...DMX...EAX...
+
+LAT...LON   40859281 42109289 43389206 43369069 42498949 41588893
+            40229008 40169187 40859281 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md2267.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md2267.html>
 

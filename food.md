@@ -1,11 +1,93 @@
 ---
 title: food
-updated: 2024-12-20 09:24:28
+updated: 2024-12-21 07:05:38
 ---
 
 # food
 
-(date: 2024-12-20 09:24:28)
+(date: 2024-12-21 07:05:38)
+
+---
+
+## 37 Unique New Year's Eve Party Ideas to Ring in 2025
+
+date: 2024-12-20, from: Bon Appetet
+
+From scene setting to a showstopping menu, how to transform the ordinary into the extraordinary 
+
+<br> 
+
+<https://www.bonappetit.com/story/new-years-eve-2025-party-ideas>
+
+---
+
+## I Tried Burger King’s Churro Fries, and I Have Strong Feelings
+
+date: 2024-12-20, from: Taste of Home
+
+<p>I love churros (who doesn't?) so I was first in line to test Burger King's churro fries.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/i-tried-burger-kings-churro-fries-and-i-have-strong-feelings/">I Tried Burger King&#8217;s Churro Fries, and I Have Strong Feelings</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/i-tried-burger-kings-churro-fries-and-i-have-strong-feelings/>
+
+---
+
+## Why Are There So Many Food Recalls Right Now?
+
+date: 2024-12-20, from: Taste of Home
+
+<p>I know I'm not the only one with listeria and E. coli in my newsfeed.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/why-are-there-so-many-food-recalls-right-now/">Why Are There So Many Food Recalls Right Now?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/why-are-there-so-many-food-recalls-right-now/>
+
+---
+
+## Costco May Be Making a Controversial Change to Its Food Court Soda Selections
+
+date: 2024-12-20, from: Taste of Home
+
+<p>The ongoing war between Coke and Pepsi lovers continues. Rumors have it that Costco may be switching its Pepsi products for Coca-Cola ones come the New Year.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/costco-food-court-soda-fountains/">Costco May Be Making a Controversial Change to Its Food Court Soda Selections</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/costco-food-court-soda-fountains/>
+
+---
+
+## People Are Adding Glitter to Pickles to Make ‘Glickles’
+
+date: 2024-12-20, from: Taste of Home
+
+<p>'Glickles,' which are glitter pickles, are a hit with pickle fiends across TikTok.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/tiktok-glitter-pickles/">People Are Adding Glitter to Pickles to Make &#8216;Glickles&#8217;</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/tiktok-glitter-pickles/>
+
+---
+
+## McDonald’s Is Selling 10 Chicken McNuggets for $1
+
+date: 2024-12-20, from: Taste of Home
+
+<p>Here's how to score this deal in December.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mcdonalds-10-chicken-mcnuggets/">McDonald&#8217;s Is Selling 10 Chicken McNuggets for $1</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mcdonalds-10-chicken-mcnuggets/>
 
 ---
 

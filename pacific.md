@@ -1,11 +1,49 @@
 ---
 title: pacific
-updated: 2024-12-20 09:24:25
+updated: 2024-12-21 07:05:34
 ---
 
 # pacific
 
-(date: 2024-12-20 09:24:25)
+(date: 2024-12-21 07:05:34)
+
+---
+
+## U.S. Coast Guard, UH Mānoa renew recruitment partnership
+
+date: 2024-12-20, from: University of Hawaiʻi News
+
+<p>The renewed agreement will enhance recruitment efforts and provide students with career opportunities and financial support.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/20/uh-manoa-uscg-signing-ceremony/"><abbr>U.S.</abbr> Coast Guard, <abbr>UH</abbr> Mānoa renew recruitment partnership</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/20/uh-manoa-uscg-signing-ceremony/>
+
+---
+
+## Transforming Hawaiʻi’s food future: Advocates convene at UH West Oʻahu
+
+date: 2024-12-20, from: University of Hawaiʻi News
+
+<p>The <span aria-label="Hawaii">Hawai&#699;i</span> Food System Summit renewed calls to combat food insecurity across the state.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/20/transforming-hawaiis-food-future/">Transforming Hawaiʻi’s food future: Advocates convene at <abbr>UH</abbr> West <span aria-label="Oahu">Oʻahu</span></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/20/transforming-hawaiis-food-future/>
+
+---
+
+## Another ‘small death’ for local journalism
+
+date: 2024-12-20, from: Pacific Island Times
+
+Saipan and the greater Northern Mariana Islands is a very small region for news coverage, so it’s inevitable that both newspa 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/another-small-death-for-local-journalism>
 
 ---
 
@@ -70,7 +108,7 @@ date: 2024-12-20, from: Hawaii Tribune Harold
 date: 2024-12-20, from: Hawaii Tribune Harold
 
 
-				<p>Corrections officials, dignitaries and other prominent community members gathered Thursday at Hawaii Community Correctional Center&#8217;s main Hilo campus to dedicate the brand-new Kamana Housing Unit.</p>
+				<p>Corrections officials, dignitaries and other prominent community members gathered Thursday at Hawaii Community Correctional Center&#8217;s main Hilo campus to dedicate the brand-new Kaumana Housing Unit.</p>
 			 
 
 <br> 
@@ -2874,4 +2912,190 @@ Approximately 100 logistics support Marines from Okinawa have arrived on Guam, l
 <br> 
 
 <https://www.pacificislandtimes.com/post/marines-relocation-kicks-off-small-unit-from-okinawa-arrives-on-guam>
+
+---
+
+## Bank of America flagged suspicious payments to Epstein only after he died
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>When Bank of America alerted financial regulators in 2020 to potentially suspicious payments from Leon Black, the billionaire investor, to Jeffrey Epstein, the disgraced financier, the bank was following a routine practice.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/bank-of-america-flagged-suspicious-payments-to-epstein-only-after-he-died/>
+
+---
+
+## South Korea’s president faces new impeachment vote
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL, South Korea &#8212; Yoon Suk Yeol, the embattled president of South Korea, faces a second parliamentary vote to impeach him Saturday, with the opposition and protesters demanding more ruling party lawmakers abandon support for their leader over his short-lived martial law&#8203; decree.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/south-koreas-president-faces-new-impeachment-vote/>
+
+---
+
+## Texas Attorney General sues New York doctor for mailing abortion pills
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>The Texas attorney general opened a new front in the contentious battle over access to abortion this week by suing a New York doctor for sending abortion pills into Texas. It appeared to be among the first attempts to stop the mailing of such medication into states that ban abortion.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/texas-attorney-general-sues-new-york-doctor-for-mailing-abortion-pills/>
+
+---
+
+## McKinsey to pay $650 million in opioid settlement with Justice Department
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>McKinsey &#038; Co. has agreed to pay $650 million to settle a Justice Department investigation of its work with opioid maker Purdue Pharma. A former senior partner, Martin Elling, has also agreed to plead guilty to obstruction of justice for destroying internal company records in connection with that work.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/mckinsey-to-pay-650-million-in-opioid-settlement-with-justice-department/>
+
+---
+
+## Kennedy’s lawyer has asked the FDA to revoke approval of the polio vaccine
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>The lawyer helping Robert F. Kennedy Jr. pick federal health officials for the incoming Trump administration has petitioned the government to revoke its approval of the polio vaccine, which for decades has protected millions of people from a virus that can cause paralysis or death.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/kennedys-lawyer-has-asked-the-fda-to-revoke-approval-of-the-polio-vaccine/>
+
+---
+
+## Uber and Lyft found a loophole in a driver pay law. Drivers pushed back.
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; New York City was the first place in the United States to mandate minimum pay rates for drivers for companies such as Uber and Lyft. But after the companies found a loophole that made it much harder for some drivers to get by, the city is looking to change its law, prompting dueling pressure campaigns as both sides seek to influence the outcome.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/uber-and-lyft-found-a-loophole-in-a-driver-pay-law-drivers-pushed-back/>
+
+---
+
+## Under Trump, Voice of America journalists fear politicization
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President-elect Donald Trump&#8217;s choice of Kari Lake to serve as the director of the federally funded broadcaster Voice of America sent a chill through the ranks of the organization, where journalists expressed anxiety about Lake and what the future could hold.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/under-trump-voice-of-america-journalists-fear-politicization/>
+
+---
+
+## Joy buoys Syria’s first Friday prayers since Assad ouster, but hardships loom
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>DAMASCUS, Syria &#8212; Jubilant crowds gathered in cities across Syria for the first Friday Prayers since rebels toppled President Bashar Assad, including at the historic Umayyad Mosque in the capital, where civilians and fighters worshipped side by side and joyful chants erupted over the collapse of a long authoritarian dynasty.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/joy-buoys-syrias-first-friday-prayers-since-assad-ouster-but-hardships-loom/>
+
+---
+
+## Tropical Gardening: Gifts for Christmas that go on giving
+
+date: 2024-12-14, from: Hawaii Tribune Harold
+
+
+				<p>It is fun to receive gifts for Christmas. As we become adults, it is more about giving rather than getting. Some gifts we enjoy are ones that are satisfying for a short time. Others are with us for the long haul. But when you think about it, gifts are over rated, since Christmas really isn&#8217;t only about gift giving or getting.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/14/features/tropical-gardening-gifts-for-christmas-that-go-on-giving/>
+
+---
+
+## 5 robbery suspects arrested
+
+date: 2024-12-14, updated: 2024-12-14, from: Marianas Variety
+
+THE  Department of Public Safety on Saturday evening said it has obtained arrest warrants for five robbery suspects: two adults and three juveniles. They have been charged with kidnapping, aggravated assault and battery, robbery, and disturbing the peace. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/5-robbery-suspects-arrested/article_988cd026-b9fc-11ef-af11-f7276004d9e3.html>
+
+---
+
+## South Korea lawmakers vote to impeach President Yoon over martial law bid
+
+date: 2024-12-14, updated: 2024-12-15, from: Marianas Variety
+
+SEOUL (Reuters) — South Korea's opposition-led parliament impeached President Yoon Suk Yeol on Saturday, voting to suspend him from his official duties over his short-lived attempt last week to impose martial law. Under the constitution Prime Minister Han Duck-soo, who was appointed by Yoon, becomes acting president. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/south-korea-lawmakers-vote-to-impeach-president-yoon-over-martial-law-bid/article_0b89a3e4-b9fb-11ef-9443-6f0be31b712c.html>
+
+---
+
+## Vanuatu hopes for a climate change opinion that will 'inspire global action'
+
+date: 2024-12-14, from: Pacific Island Times
+
+Arnold Kiel Loughman By Pacific Island Times News Staff Statements at the International Court of Justice highlighted a compelling legal... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/vanuatu-hopes-for-a-climate-change-opinion-that-will-inspire-global-action>
+
+---
+
+## Study: Palau's marine sanctuary protects tuna during spawning period 
+
+date: 2024-12-14, from: Pacific Island Times
+
+Researchers have found that tuna spawn within the boundaries of the Palau National Marine Sanctuary, suggesting that the secured area potent 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/study-palau-s-marine-sanctuary-protects-tuna-during-spawning-period>
+
+---
+
+## ‘I can tell the changes’: Grand master navigators on climate change and perpetuating traditions
+
+date: 2024-12-14, from: The Husk
+
+Grand Master Navigator Ali Haleyalur, Grand Master Navigator Sesario Sewralur, and Master Navigator Larry Raigetal talk story at the Marianas Storytelling Series Micronesia Voyaging event 
+
+<br> 
+
+<https://thehusk.substack.com/p/i-can-tell-the-changes-master-navigators>
 
