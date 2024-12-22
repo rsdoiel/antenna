@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2024-12-21 07:05:36
+updated: 2024-12-22 07:04:57
 ---
 
 # games
 
-(date: 2024-12-21 07:05:36)
+(date: 2024-12-22 07:04:57)
+
+---
+
+## Lucasfilm is now shamelessly owning the Star Wars Holiday Special
+
+date: 2024-12-22, updated: 2024-12-22, from: Polygon Website
+
+For decades, the Star Wars Holiday Special was a misbegotten artifact of a specific era of network TV variety-show thinking, and Lucasfilm seemed content to pretend it never happened. Fans considered it a black mark on George Lucas’ franchise, and made it the butt of endless fandom jokes. But that’s changed over the past decade [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-wars/500987/star-wars-holiday-special-skeleton-crew>
+
+---
+
+## Pokémon Go ‘Dual Destiny’ Special Research Tasks and rewards
+
+date: 2024-12-22, updated: 2024-12-22, from: Polygon Website
+
+Pokémon Go’s “Dual Destiny” season has begun, lasting from Dec. 3 until March 4, 2025. This means that there’s a new set of Special Research to complete, though all the steps won’t be immediately available. The steps will likely be themed around different events that occur during the season, so while you may only be [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/489955/dual-destiny-special-research-tasks-rewards>
+
+---
+
+## Pokémon Go ‘Holiday Part 2’ 2024 event guide
+
+date: 2024-12-22, updated: 2024-12-22, from: Polygon Website
+
+Pokémon Go is having the second half of its holiday event (literally called “Holiday Part 2”) from Dec. 22-27, adding more festive Pokémon to the already-long list of costumed critters, alongside some pretty good event bonuses. All players will be able to get doubled XP from catching Pokémon and 50% more XP from raiding. All [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/498390/holiday-part-2-2024-timed-research-ticket-spawns-incense>
+
+---
+
+## Gartic Phone is the perfect game for (free) holiday family fun
+
+date: 2024-12-22, updated: 2024-12-22, from: Polygon Website
+
+The trendsetters online might have moved on from playing Gartic Phone, but my family has not. Developed by Onrizon, Gartic Phone combines the children’s game Telephone with the board game Pictionary. It might sound a bit simple, but this lighthearted game is a genuine delight. More importantly, it&#8217;s the perfect game to share with family [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/500386/gartic-phone-free-family-game>
+
+---
+
+## Carry-On gives Netflix its first great cable thriller
+
+date: 2024-12-21, updated: 2024-12-20, from: Polygon Website
+
+A great thriller lives and dies by its complexity. Movies like All the President’s Men or Blow Out create intricate, detailed worlds of mystery that pull you in before leaving you at the center of the labyrinth to unwind yourself in the days that follow. A solid B-tier thriller, however, is all about simplicity. These [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/499107/carry-on-netflix-christmas-movie-thriller-watch-streaming>
+
+---
+
+## Star Trek as ‘going to a national park’: Lower Decks’ creator reflects on the end of the show
+
+date: 2024-12-21, updated: 2024-12-20, from: Polygon Website
+
+Years ago, comedy writer Mike McMahan got the opportunity of a lifetime — an interview to join the writing staff of a new Star Trek series, the first in over a decade. McMahan was a massive Trekkie and had recently made a splash with a parody Twitter account called “TNG Season 8,” in which he [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-trek/500534/star-trek-lower-decks-finale-interview-showrunner-bts>
+
+---
+
+## Sonic 3’s incredible laser dance sequence was all Jim Carrey’s idea, of course
+
+date: 2024-12-21, updated: 2024-12-20, from: Polygon Website
+
+One of the standout moments of Sonic the Hedgehog 3 sees Jim Carrey pulling double duty as two Doctors Robotnik —&#160;Ivo and his grandfather Gerald —&#160;merrily dancing their way through a classic Hollywood trope: the laser security grid. That sequence was not only technically challenging to pull off, Sonic 3 director Jeff Fowler tells Polygon, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/499955/sonic-3-movie-laser-dance-robotnik-jim-carrey>
+
+---
+
+## Best sci-fi movies to watch on Netflix this December
+
+date: 2024-12-21, updated: 2024-12-20, from: Polygon Website
+
+We’re more than halfway through December, which means 2025 is right around the corner with a whole new slate of new movies to look forward to. Before that, though, there are still plenty of decent sci-fi films to watch on Netflix this month to tide you over until the new year! This month, we’ve got [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/498053/best-sci-fi-movies-watch-netflix-december-2024>
+
+---
+
+## Pokémon Go December 2024 Community Weekend event guide
+
+date: 2024-12-21, updated: 2024-12-20, from: Polygon Website
+
+Pokémon Go is hosting its yearly December Community Weekend event, allowing any players who missed out on previous Community Days throughout 2024 to catch up and get another chance at finding any shines they may have missed. The event features every Pokémon that was part of a 2024 Community Day and Community Day Classic. There [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/497618/december-2024-community-day-weekend-list-schedule-spawns-shiny>
 
 ---
 
@@ -774,52 +882,4 @@ Mythical Island is the first expansion for Pokémon TCG Pocket, adding dozens of
 <br> 
 
 <https://www.polygon.com/pokemon-tcg-pocket-guides/496420/mythical-island-expansion-release-time-date-est-pst-bst>
-
----
-
-## Lord of the Rings: War of the Rohirrim makes oliphaunts terrifying again
-
-date: 2024-12-14, updated: 2024-12-14, from: Polygon Website
-
-I thought I had a handle on oliphaunts. You know, the massive war elephants of The Lord of the Rings, as featured thrillingly in Peter Jackson’s Lord of the Rings trilogy? Jackson’s productions brought the creatures to life in terrifying might, and made them the crux of one of the trilogy’s most debated action moments.&#160; [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/lord-of-the-rings/496681/war-rohirrim-movie-elephants-oliphaunts-mumakil>
-
----
-
-## The best gifts for Fortnite fans
-
-date: 2024-12-14, updated: 2024-12-14, from: Polygon Website
-
-Fortnite is the only video game where you can play as Snoop Dogg and land a headshot on Paul Atreides. While it started as a very different kind of game, it’s known nowadays as a popular battle royale shooter and multimedia melting pot. You can play as characters from franchises spanning gaming, movies, and anime. [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/23940369/fortnite-gifts-best-books-games>
-
----
-
-## Antonblast plays like a Wario Land made by the devil
-
-date: 2024-12-14, updated: 2024-12-13, from: Polygon Website
-
-A couple hours into Antonblast, a new side-scrolling action-platformer that’s inspired by Game Boy Advance-era Wario Land and Crash Bandicoot games, I wondered if I knew what I was really doing. Sure, I’d beaten some of the game’s hard-as-hell bosses and blasted through a handful of challenging levels, yet I felt like I was barely [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/496953/antonblast-impresssions-steam-deck-nintendo-switch>
-
----
-
-## The best thrillers to watch on Netflix this December
-
-date: 2024-12-14, updated: 2024-12-13, from: Polygon Website
-
-A new month means a new batch of thrillers on Netflix, and a new breakdown from us about which ones are worth your time. And this month, that even includes a new release that’s perfectly timed for the holidays. Every month, we handpick a few of the best thrillers on Netflix that fit the current [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/496473/best-thriller-movies-netflix-watch-december-2024>
 

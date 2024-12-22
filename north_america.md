@@ -1,11 +1,1211 @@
 ---
 title: north america
-updated: 2024-12-21 07:05:33
+updated: 2024-12-22 07:04:55
 ---
 
 # north america
 
-(date: 2024-12-21 07:05:33)
+(date: 2024-12-22 07:04:55)
+
+---
+
+## It's beginning to look like another record for holiday travel in US
+
+date: 2024-12-22, from: VOA News USA
+
+Drivers and airline passengers without reindeer and sleighs better make a dash for it: it's beginning to look like another record for holiday travel in the U.S.
+
+
+The auto club AAA predicts that more than 119 million people will travel at least 80 kilometers from home between Saturday and New Year's Day, which would top the previous holiday-season high set in 2019. The two weekends on either side of Christmas look to be some of the most crowded times on the road and at airports.
+
+
+Trade group Airlines for America also foresees record travel, saying it expected U.S. airlines to carry 54 million passengers during a 19-day period that started Thursday and ends Jan. 6. The number would represent a 6% increase over last year.
+
+
+What will be the busiest travel days?
+
+
+Airlines expect to have their busiest days on Friday and Sunday, and on Dec. 26, Dec. 27 and Dec. 29. Flight traffic is expected to be light on both Christmas Day and New Year's Day. The slowest U.S. air-travel day this year — by a wide margin — was Thanksgiving Day.
+
+
+The Transportation Security Administration expects to screen 40 million passengers over the holidays and through Jan. 2.
+
+
+About 90% of Americans traveling far from home over the holidays will be in cars, according to AAA.
+
+
+"Airline travel is just really high right now, but most people do drive to their destinations, and that is true for every holiday," AAA spokesperson Aixa Diaz said.
+
+
+Gasoline prices are similar to last year. The nationwide average Thursday was about $.99 a liter, down from $1 a year ago, according to AAA. Charging an electric vehicle averages just under 35 cents per per kilowatt hour, but varies by state.
+
+
+Transportation-data firm INRIX says travel times on the nation's highways could be up to 30% longer than normal over the holidays, with Sunday expected to see the heaviest traffic. Boston, New York City, Seattle and Washington, D.C., are the metropolitan areas primed for the greatest delays, according to the company.
+
+
+Weather and other wildcards
+
+
+Because the holiday travel period lasts weeks, airports and airlines typically have smaller peak days than they do during the rush around Thanksgiving, but the grind of one hectic day followed by another takes a toll on flight crews. And any hiccups — a winter storm or a computer outage — can snowball into massive disruptions.
+
+
+That is how Southwest Airlines stranded 2 million travelers in December 2022, and Delta Air Lines suffered a smaller but significant meltdown after a worldwide technology outage in July caused by a faulty software update from cybersecurity company CrowdStrike.
+
+
+Many flights during the holidays are sold out, which makes cancellations even more disruptive than during slower periods. That is especially true for smaller budget airlines that have fewer flights and fewer options for rebooking passengers. Only the largest airlines, including American, Delta and United, have "interline agreements" that let them put stranded customers on another carrier's flights.
+
+
+This will be the first holiday season since a Transportation Department rule took effect that requires airlines to give customers an automatic cash refund for a canceled or significantly delayed flight. Most air travelers were already eligible for refunds, but they often had to request them.
+
+
+Passengers still can ask to get rebooked, which is often a better option than a refund during peak travel periods. That's because finding a last-minute flight on another airline yourself tends to be very expensive.
+
+
+"When they rebook you, they will pay for the fare difference. If my flight to visit grandma that I booked six months ago for $200 gets canceled, and I turn around and book a flight four hours from now for $400, I have to pay that difference," said Sally French, a travel expert at consumer-affairs company Nerdwallet.
+
+
+People traveling on budget airlines with fewer flights and no partnerships with other carriers may face a difficult choice in the event of a canceled flight.
+
+
+"They will put you on the next outgoing Spirit or Frontier flight, but that could be a while from now. Sometimes waiting three days for that next flight is not going to work for you," and paying more to rebook on a big airline might be worthwhile, French said.
+
+
+Some airlines are taking advantage of a provision in the new Transportation Department rule that defined a significant delay as three hours for a domestic flight and six hours for an international flight. According to Brett Snyder, who runs the Cranky Flyer website, airlines that previously issued refunds for shorter delays — Delta, United and JetBlue, for example — are now using the government standard.
+
+
+Delayed flights increase the risk that bags will get lost. Passengers who get separated from their bags should report it to the airline and ask what the airline will cover. Links to the customer-service plans of major U.S. airlines are at the bottom of this page.
+
+
+Planning ahead for 2025
+
+
+Airline fares were up 4.7% in November, compared with a year earlier, according to U.S. government figures. But early 2025 is a good time to start planning next year's trips, including for spring breaks and summer vacations.
+
+
+"Because travel is so popular, you're not going to find anything that feels very rock-bottom, but January and February are great times to plan for March, April and May," Laura Motta, an editor at travel-guide publisher Lonely Planet, said. "If you want to go to Paris in the spring, you need to be thinking about that in January." 
+
+<br> 
+
+<https://www.voanews.com/a/it-s-beginning-to-look-like-another-record-for-holiday-travel-in-us-/7909375.html>
+
+---
+
+## Survey: Most US teens are abstaining from drinking, smoking and marijuana
+
+date: 2024-12-22, from: VOA News USA
+
+NEW YORK — Teen drug use hasn't rebounded from its drop during the early years of the COVID-19 pandemic, according to the results from a large annual national survey released Tuesday.
+
+
+About two-thirds of 12th graders this year said they hadn't used alcohol, marijuana, cigarettes or e-cigarettes in the previous 30 days. That's the largest proportion abstaining since the annual survey started measuring abstinence in 2017.
+
+
+Among 10th graders, 80% said they hadn't used any of those substances recently, another record. Among eighth graders, 90% didn't use any of them, the same as was reported in the previous survey.
+
+
+The only significant increase occurred in nicotine pouches. About 6% of 12th graders saying they'd used them in the previous year, up from about 3% in 2023.
+
+
+Whether that has the makings of a new public health problem is unclear. The University of Michigan's Richard Miech, who leads the survey, said: "It's hard to know if we're seeing the start of something, or not."
+
+
+The federally funded Monitoring the Future survey has been operating since 1975. This year's findings are based on responses from about 24,000 students in grades eight, 10 and 12 in schools across the country. The survey is "one of the best, if not the best" source of national data for substance use by teens, said Noah Kreski, a Columbia University researcher who has studied teen drug use.
+
+
+Early in the pandemic, students across the country were told not to go to schools and to avoid parties or other gatherings. They were at home, under parents' supervision. Alcohol and drug use of all kinds dropped because experimentation tends to occur with friends, spurred by peer pressure, experts say.
+
+
+As lockdowns ended, "I think everyone expected at least a partial rebound," Miech said.
+
+
+Even before the pandemic, there were longstanding declines in teen cigarette smoking, drinking and use of several types of drugs. Experts theorized that kids were staying home and communicating on smartphones rather than hanging out in groups, where they sometimes tried illicit substances.
+
+
+But marijuana use wasn't falling before the pandemic. And vaping was on the upswing. It was only during the pandemic that those two saw enduring declines, too.
+
+
+Some experts wonder if the pandemic lockdowns had a deeper influence.
+
+
+Miech noted that a lot of teens who experiment with e-cigarettes or drugs start in the 9th grade, sometimes because older adolescents are doing it. But the kids who were 9th graders during the lockdowns never picked up the habit, and never had the opportunity to turn into negative influencers of their younger classmates, he said.
+
+
+"The pandemic stopped the cycle of new kids coming in and being recruited to drug use," Miech said.
+
+
+Mental health may also be a factor. There were increased reports of depression and anxiety in kids after the pandemic began. Depression is often associated with substance use, but some people with depression and anxiety are very wary of messing with drugs, said Dr. Duncan Clark, a University of Pittsburgh psychiatrist who researches substance use in kids.
+
+
+"Some teens with anxiety are worried about the effects of substances. They may also be socially inhibited and have less opportunity to use drugs," Clark said. "It's a complicated relationship." 
+
+<br> 
+
+<https://www.voanews.com/a/survey-most-us-teens-are-abstaining-from-drinking-smoking-and-marijuana/7908093.html>
+
+---
+
+## Nuclear bunker sales increase, despite expert warnings
+
+date: 2024-12-22, from: VOA News USA
+
+When Bernard Jones Jr. and his wife, Doris, built their dream home, they didn't hold back. A grotto swimming pool with a waterfall for hot summer days. A home theater for cozy winter nights. A fruit orchard to harvest in fall. And a vast underground bunker in case disaster strikes.
+
+
+"The world's not becoming a safer place," he said. "We wanted to be prepared."
+
+
+Under a nondescript metal hatch near the private basketball court, there's a hidden staircase that leads down into rooms with beds for about 25 people, bathrooms and two kitchens, all backed by a self-sufficient energy source.
+
+
+With water, electricity, clean air and food, they felt ready for any disaster, even a nuclear blast, at their bucolic home in California's Inland Empire.
+
+
+"If there was a nuclear strike, would you rather go into the living room or go into a bunker? If you had one, you'd go there too," said Jones, who said he reluctantly sold the home two years ago.
+
+
+Global security leaders are warning nuclear threats are growing as weapons spending surged to $91.4 billion last year. At the same time, private bunker sales are on the rise globally, from small metal boxes to crawl inside to extravagant underground mansions.
+
+
+Critics warn these bunkers create a false perception that a nuclear war is survivable. They argue that people planning to live through an atomic blast aren't focusing on the real and current dangers posed by nuclear threats, and the critical need to stop the proliferation of weapons of mass destruction.
+
+
+Meanwhile, government disaster experts say bunkers aren't necessary. A Federal Emergency Management Agency 100-page guide on responding to a nuclear detonation focuses on having the public get inside and stay inside, ideally in a basement and away from outside walls for at least a day. Those existing spaces can provide protection from radioactive fallout, says FEMA.
+
+
+But increasingly, buyers say bunkers offer a sense of security. The market for U.S. bomb and fallout shelters is forecast to grow from $137 million last year to $175 million by 2030, according to a market research report from BlueWeave Consulting. The report says major growth factors include "the rising threat of nuclear or terrorist attacks or civil unrest."
+
+
+Building bunkers
+
+
+"People are uneasy and they want a safe place to put their family. And they have this attitude that it's better to have it and not need it then to need it and not have it," said Atlas Survival Shelters CEO Ron Hubbard, amid showers of sparks and the loud buzz of welding at his bunker factory, which he says is the world's largest, in Sulphur Springs, Texas.
+
+
+Hubbard said COVID lockdowns, Russia's invasion of Ukraine and the outbreak of the Israel-Hamas war have driven sales.
+
+
+On Nov. 21, in the hours after Russia's first-ever use of an experimental, hypersonic ballistic missile to attack Ukraine, Hubbard said his phone rang nonstop.
+
+
+Four callers ended up buying bunkers in one day, he said, and more ended up ordering doors and other parts for shelters they were already building.
+
+
+Hubbard said his bunkers are built for all disasters.
+
+
+"They're good for anything from a tornado to a hurricane to nuclear fallout, to a pandemic to even a volcano erupting," he said, sweeping his arms toward a massive warehouse where more than 50 different bunkers were under construction.
+
+
+A loaded shotgun at arm's length and metal mesh window shields to block Molotov cocktails nearby, Hubbard said he started his company after building his own bunker about 10 years ago. He says callers ask about prices — $20,000 to multimillions, averaging $500,000 — and installations — they can go just about anywhere. He said most days he sells at least one bunker.
+
+
+Under Hubbard's doomsday scenario, global tensions could lead to World War III, a situation he is prepared to live through.
+
+
+"The good news about nuclear warfare," he said, "if there ever was any, that it's very survivable if you're not killed in the initial blast."
+
+
+He's not wrong, say U.S. government disaster preparedness experts.
+
+
+
+
+'You want to go to your most robust building'
+
+
+"Look, this fallout exposure is entirely preventable because it is something that happens after the detonation," said Brooke Buddemeier a radiation safety specialist at Lawrence Livermore National Laboratory, where the U.S. government designs nuclear weapons. Buddemeier and his colleagues are tasked with evaluating what could happen after an attack and how best to survive. "There's going to be a fairly obvious nuclear explosion event, a large cloud. So just getting inside, away from where those particles fall, can keep you and your family safe."
+
+
+Buddemeier and others in the U.S. government are trying to get Americans — who decades ago hid under desks during nuclear attack drills — educated about how to respond.
+
+
+After a deadly and deafening blast, a bright flash and a mushroom cloud, it will take about 15 minutes for the radioactive fallout to arrive for those a mile or more away from ground zero, said Michael Dillon, a scientist at Lawrence Livermore National Laboratory.
+
+
+"It's going to literally be sand falling on your head, and you're going to want to get out of that situation. You want to go to your most robust building," he said. In their models, they estimate people may need to stay inside for a day or two before evacuating.
+
+
+The government's efforts to educate the public were reinvigorated after a false alarm missile alert in Hawaii in 2018 caused widespread panic.
+
+
+The emergency alert, which was sent to cellphones statewide just before 8:10 a.m., said: "BALLISTIC MISSILE THREAT INBOUND TO HAWAII. SEEK IMMEDIATE SHELTER. THIS IS NOT A DRILL."
+
+
+For the next 40 minutes there were traffic jams, workers running into and out of buildings, families huddling in their bathrooms, students gathering in gyms, drivers blocking tunnels, all in an attempt to seek shelter, without any clear idea of what "seek immediate shelter" actually meant.
+
+
+Today the federal government offers a guide to prepare citizens for a nuclear attack that advises people to find a basement or the center of a large building and stay there, possibly for a few days, until they get word about where to go next.
+
+
+"Gently brush your pet's coat to remove any fallout particles" it says, adding that the 15-minute delay between bomb and fallout allows "enough time for you to be able to prevent significant radiation exposure."
+
+
+Jeffrey Schlegelmilch, who directs the FEMA-backed National Center for Disaster Preparedness at Columbia University, said "the scenarios of a nuclear detonation are not all or nothing."
+
+
+If a small number of weapons detonate rather than all-out war, he said, sheltering inside a large building to avoid the fallout could save lives.
+
+
+'Underground bunkers aren't going to protect people'
+
+
+Nonproliferation advocates bristle at the bunkers, shelters or any suggestion that a nuclear war is survivable.
+
+
+"Bunkers are, in fact, not a tool to survive a nuclear war, but a tool to allow a population to psychologically endure the possibility of a nuclear war," said Alicia Sanders-Zakre at the International Campaign to Abolish Nuclear Weapons.
+
+
+Sanders-Zakre called radiation the "uniquely horrific aspect of nuclear weapons," and noted that even surviving the fallout doesn't prevent long-lasting, intergenerational health crises. "Ultimately, the only solution to protect populations from nuclear war is to eliminate nuclear weapons."
+
+
+Researcher Sam Lair at the James Martin Center for Nonproliferation Studies says U.S. leaders stopped talking about bunkers decades ago.
+
+
+"The political costs incurred by causing people to think about shelters again is not worth it to leaders because it forces people to think about what they would do after nuclear war," he said. "That's something that very, very few people want to think about. This makes people feel vulnerable."
+
+
+Lair said building bunkers seems futile, even if they work in the short term.
+
+
+"Even if a nuclear exchange is perhaps more survivable than many people think, I think the aftermath will be uglier than many people think as well," he said. "The fundamental wrenching that it would do to our way of life would be profound."
+
+
+That's been a serious concern of Massachusetts Congressman James McGovern for almost 50 years.
+
+
+"If we ever get to a point where there's all out nuclear war, underground bunkers aren't going to protect people," he said. "Instead, we ought to be investing our resources and our energy trying to talk about a nuclear weapons freeze, initially."
+
+
+Next, he said, "we should work for the day when we get rid of all nuclear weapons."
+
+
+Year after year he introduces legislation pushing for nonproliferation, but looking out his office window at the Capitol, he said he's disappointed by the lack of debate over what will be a $1 trillion expenditure to build and modernize the U.S. arsenal.
+
+
+"The stakes, if a nuclear weapon is ever used, is that millions and millions and millions of people will die. It really is shocking that we have world leaders who talk casually about utilizing nuclear weapons. I mean, it would be catastrophic, not just for those that are involved in an exchange of nuclear weapons, but for the entire world."
+
+
+McGovern pushed back against FEMA's efforts to prepare the public for a nuclear attack by advising people to take shelter.
+
+
+"What a stupid thing to say that we all just need to know where to hide and where to avoid the most impacts of nuclear radiation. I mean, really, that's chilling when you hear people try to rationalize nuclear war that way," he said.
+
+
+Nuclear war was far from a couple's mind when they went house-hunting in Southern California a few years ago. They wanted a home to settle down and raise their family, and they needed extra garage space. They spotted an online ad for a home with at least eight parking spots. On the basketball court, there was a metal hatch. Beneath it was a bunker.
+
+
+This was Jones' former home, which Jones said he put up for sale for family reasons.
+
+
+The husband, who spoke on condition of anonymity because of concerns about his family's privacy, went ahead and bought Jones' home, bunker and all. They aren't particularly worried about nuclear war, and haven't spent a night in the bunker, but they have stored food and medical supplies down there.
+
+
+"We have told some of our friends, if something goes crazy and gets bad, get over here as fast as possible," the husband said. "It does provide a sense of security." 
+
+<br> 
+
+<https://www.voanews.com/a/nuclear-bunker-sales-increase-despite-expert-warnings-/7906658.html>
+
+---
+
+## Trump threatens to take back control of Panama Canal
+
+date: 2024-12-22, from: VOA News USA
+
+WASHINGTON — Incoming U.S. President Donald Trump on Saturday slammed what he called unfair fees for U.S. ships passing through the Panama Canal and threatened to demand control of the waterway be returned to Washington.
+
+
+He also hinted at China's growing influence around the canal, a worrying trend for American interests as U.S. businesses depend on the channel to move goods between the Atlantic and Pacific oceans.
+
+
+"Our Navy and Commerce have been treated in a very unfair and injudicious way. The fees being charged by Panama are ridiculous," he said in a post on his Truth Social platform.
+
+
+"This complete 'rip-off' of our Country will immediately stop."
+
+
+The Panama Canal, which was completed by the United States in 1914, was returned to the Central American country under a 1977 deal signed by Democratic President Jimmy Carter.
+
+
+Panama took full control in 1999.
+
+
+"It was solely for Panama to manage, not China, or anyone else," Trump said. "We would and will NEVER let it fall into the wrong hands!"
+
+
+He continued that if Panama could not ensure "the secure, efficient and reliable operation" of the channel, "then we will demand that the Panama Canal be returned to us, in full, and without question."
+
+
+Authorities in Panama did not immediately react to Trump's post.
+
+
+Although he does not officially take office until next month, Trump has nevertheless been flexing his political influence in the waning days of President Joe Biden's administration.
+
+
+The real estate mogul boasted on the campaign trail that as an entrepreneur, he was uniquely positioned to fight for U.S. business interests.
+
+
+An estimated 5% of global maritime traffic passes through the Panama Canal, which allows ships traveling between Asia and the U.S. East Coast to avoid the long, hazardous route around the southern tip of South America.
+
+
+The main users of the passage are the United States, China, Japan and South Korea.
+
+
+The Panama Canal Authority reported in October that the waterway had earned record revenues of nearly $5 billion in the last fiscal year. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-threatens-to-take-back-control-of-panama-canal/7910058.html>
+
+---
+
+## Trump taps 'Apprentice' producer as special envoy to United Kingdom
+
+date: 2024-12-22, from: VOA News USA
+
+WEST PALM BEACH, Fla. — Mark Burnett, the power producer who helped reintroduce Donald Trump to a national television audience with The Apprentice, is being tapped by the president-elect as special envoy to the United Kingdom in his upcoming administration.
+
+
+"With a distinguished career in television production and business, Mark brings a unique blend of diplomatic acumen and international recognition to this important role," Trump announced Saturday.
+
+
+Burnett, who was born in London, helped produce hits like Survivor and The Voice, but is perhaps best known for teaming up with Trump for The Apprentice, which first aired on NBC in 2004.
+
+
+Trump had been well-known in real estate and pop culture circles for decades. But the show helped again make him a household name. Trump severed ties with NBC in 2015, the same year he launched his first White House run.
+
+
+The selection of Burnett continues Trump's trend of filling out his incoming administration with people who have high-profile backgrounds in television or politics, or both, including his choice to be defense secretary, Pete Hegseth, a former co-host of Fox & Friends Weekend, and ex-television doctor and unsuccessful Senate candidate in Pennsylvania, Mehmet Oz.
+
+
+Trump's first campaign in 2016 was rocked by allegations about his conduct on The Apprentice and other appearances during his association with NBC, notably in footage in which he said he could sexually assault women and get away with it because he was a "star."
+
+
+Almost a decade after he left his reality TV role, Trump's television career remains central to his biography and political rise. The show presented Trump Tower to tens of millions of people as a symbol of power and success before Trump launched his first campaign from the building's lobby.
+
+
+"Mark is known for creating and producing some of the biggest shows in Television History," Trump wrote in his statement on Burnett, listing many of his biggest hits including, "most notably, The Apprentice" and noting that Burnett "has won 13 Emmy Awards!"
+
+
+Special envoys are usually picked by presidents for the world's traditional hotspots, including the Middle East, where Trump has said he'd like Steven Witkoff to fill the role. The United Kingdom, which has long enjoyed a "special relationship" with the U.S. that makes it one of Washington's strongest global allies, is not typically a candidate for such posts.
+
+
+But Trump has announced a series of special envoy positions to several top loyalists ahead of his inauguration on Jan. 20, including his former ambassador to Germany Richard Grenell who he chose as envoy for special missions. That announcement joined previous ones including Adam Boehler as special presidential envoy for hostage affairs, and Keith Kellogg to serve as special envoy for Ukraine and Russia.
+
+
+The president-elect said Burnett "will work to enhance diplomatic relations, focusing on areas of mutual interest, including trade, investment opportunities, and cultural exchanges." 
+
+<br> 
+
+<https://www.voanews.com/a/trump-taps-apprentice-producer-as-special-envoy-to-united-kingdom/7910042.html>
+
+---
+
+## Stolen base king Rickey Henderson dies at 65
+
+date: 2024-12-22, from: VOA News USA
+
+OAKLAND, Calif. — Hall of Famer Rickey Henderson, who shattered stolen base records and redefined baseball's leadoff position, has died. He was 65.
+
+
+Henderson died on Friday. The Athletics said Saturday they were "shocked and heartbroken by his passing," but did not specify a cause of death.
+
+
+Known as baseball's "Man of Steal," Henderson had a lengthy list of accolades and accomplishments over his 25-year career — an MVP, 10 All-Star selections, two World Series titles and a Gold Glove award.
+
+
+But it was stealing bases where Henderson made his name and dominated the sport like no other.
+
+
+He broke through with 100 steals in his first full season in the majors in 1980, topping Ty Cobb's AL single-season record with the Oakland Athletics. He barely slowed, playing for nine franchises over the next two decades. He broke Lou Brock's single-season record of 118 by stealing 130 bases in 1982 and led the league in steals for seven straight seasons and 12 overall.
+
+
+He broke Brock's career record when he stole his 939th base on May 1, 1991, for Oakland. He famously pulled third base out of the ground and showed it off to the adoring crowd before giving a speech that he capped by saying: "Lou Brock was a great base stealer, but today I am the greatest of all time."
+
+
+Henderson finished his career with 1,406 steals, a 468-steal edge over Brock.
+
+
+
+
+Henderson said in September he would have had many more steals in his career and in the record-breaking 1982 season if rules introduced in 2023 to limit pickoff throws and increase the size of bases had overlapped with his career.
+
+
+"If I was playing today, I would get 162, right now, without a doubt," he said.
+
+
+Henderson’s accomplishment that record-breaking day in 1991 was slightly overshadowed that night when Nolan Ryan threw his record seventh career no-hitter. Henderson had been Ryan’s 5,000th career strikeout victim, which led him to say, "If you haven’t been struck out by Nolan Ryan, you’re nobody."
+
+
+That was clearly not the case for Henderson. He is also the career leader in runs scored with 2,295 and in leadoff home runs with 81, ranks second to Barry Bonds with 2,190 walks and is fourth in games played (3,081) and plate appearances (13,346). He finished his career with 3,055 hits over 25 seasons spent with Oakland, the New York Yankees, Toronto, San Diego, Anaheim, the New York Mets, Seattle, Boston and the Los Angeles Dodgers.
+
+
+He fittingly finished his career with the Dodgers at age 44 in 2003 by scoring a run in his final play on a major league field.
+
+
+Henderson is the third prominent baseball Hall of Famer with ties to the Bay Area who died this year, following the deaths in June of former Giants stars Willie Mays and Orlando Cepeda.
+
+
+Henderson was the rare position player who batted from the right side and threw with his left arm — but then again, everything about Henderson was unique.
+
+
+He batted out of an extreme crouch, making for a tighter strike zone that contributed to his high walk total. He struck fear in opponents with his aggressive leads off first, his fingers twitching between his legs as he eyed the pitcher and the next base.
+
+
+Born on Christmas Day in 1958 in Chicago in the back of his parents' Chevy, Henderson grew up in Oakland and developed into a star athlete. He played baseball, basketball and football at Oakland Tech High School and was a highly sought-after football recruit who could have played tailback at Southern California, where he could have played eventually with football Hall of Famer Marcus Allen.
+
+
+But Henderson said his mother loved baseball and thought it would be the safer career in a decision that proved to be prescient.
+
+
+"She didn’t want her baby to get hurt," Henderson told the San Francisco Chronicle in 2019. "I was mad, but she was smart. Overall, with the career longevity and the success I had, she made the right decision. Some of the players in football now have short careers and they can barely move around when they’re done." 
+
+<br> 
+
+<https://www.voanews.com/a/stolen-base-king-rickey-henderson-dies-at-65/7910038.html>
+
+---
+
+## US military strikes Houthi targets in Yemen's capital
+
+date: 2024-12-21, from: VOA News USA
+
+CAIRO — The U.S. military said it conducted precision airstrikes on Saturday against a missile storage facility and a command-and-control facility operated by Iran-backed Houthis in Yemen's capital, Sanaa. 
+
+
+In a statement, the U.S. military's Central Command said the strikes aimed to "disrupt and degrade Houthi operations, such as attacks against U.S. Navy warships and merchant vessels in the Southern Red Sea, Bab al-Mandeb, and Gulf of Aden." 
+
+
+The U.S. military also said it struck multiple Houthi one-way drones and an anti-ship cruise missile over the Red Sea. 
+
+
+Saturday's strike followed a similar attack last week by U.S. aircraft against a command-and-control facility operated by the Houthis, which control much of Yemen. 
+
+
+On Thursday, Israel launched strikes against ports and energy infrastructure in Houthi-held parts of Yemen and threatened more attacks against the group, which has launched hundreds of missiles at Israel over the past year. 
+
+
+The Iran-backed group in Yemen has been attacking commercial shipping in the Red Sea for more than a year to try to enforce a naval blockade on Israel, saying they are acting in solidarity with Palestinians in Israel's year-long war in Gaza. 
+
+<br> 
+
+<https://www.voanews.com/a/us-military-strikes-houthi-targets-in-yemen-s-capital-/7909854.html>
+
+---
+
+## Senate review of Supreme Court ethics finds more luxury trips
+
+date: 2024-12-21, from: VOA News USA
+
+WASHINGTON — A nearly two-year investigation by Democratic senators of Supreme Court ethics details more luxury travel by Justice Clarence Thomas and urges Congress to establish a way to enforce a new code of conduct. 
+
+
+Any movement on the issue appears unlikely as Republicans prepare to take control of the Senate in January, underscoring the hurdles in imposing restrictions on a separate branch of government even as public confidence in the court has fallen to record lows. 
+
+
+The 93-page report released Saturday by the Democratic majority of the Senate Judiciary Committee found additional travel taken in 2021 by Thomas but not reported on his annual financial disclosure form: a private jet flight to New York's Adirondacks in July and jet and yacht trip to New York City sponsored by billionaire Harlan Crow in October, one of more than two dozen times detailed in the report that Thomas took luxury travel and gifts from wealthy benefactors. 
+
+
+The court adopted its first code of ethics in 2023, but it leaves compliance to each of the nine justices. 
+
+
+"The highest court in the land can't have the lowest ethical standards," the committee chairman, Illinois Senator Dick Durbin, said in a statement. He has long called for an enforceable code of ethics. 
+
+
+Republicans protested the subpoenas authorized for Crow and others as part of the investigation. No Republicans signed on to the final report, and no formal report from them was expected. 
+
+
+Attorney Mark Paoletta, a longtime friend of Thomas who has been tapped for the incoming Trump administration, said the report was aimed at conservatives whose rulings Democrats disagreed with. 
+
+
+"This entire investigation was never about 'ethics' but about trying to undermine the Supreme Court," Paoletta said in a statement posted on X. 
+
+
+The court did not immediately respond to a request for comment. 
+
+
+Thomas has said he was not required to disclose the trips that he and his wife, Ginni, took with Crow because the big donor is a close friend of the family and disclosure of that type of travel was not previously required. The new ethics code does explicitly require it, and Thomas has since reported some earlier travel. Crow has maintained that he has never spoken with his friend about pending matters before the court. 
+
+
+The report traces back to Justice Antonin Scalia, saying he "established the practice" of accepting undisclosed gifts and hundreds of trips over his decades on the bench. The late Justice Ruth Bader Ginsberg and retired Justice Stephen Breyer also took subsided trips but disclosed them on their annual forms, it said. 
+
+
+The investigation found that Thomas has accepted gifts and travel from wealthy benefactors worth more than $4.75 million by some estimates since his 1991 confirmation and failed to disclose much of it. "The number, value, and extravagance of the gifts accepted by Justice Thomas have no comparison in modern American history," according to the report. 
+
+
+It also detailed a 2008 luxury trip to Alaska taken by Justice Samuel Alito. He has said he was exempted from disclosing the trip under previous ethical rules. 
+
+
+Alito also declined calls to withdraw from cases involving Donald Trump or the January 6, 2021, attack on the Capitol after flags associated with the riot were seen flying at two of Alito's homes. Alito said the flags were raised by his wife. 
+
+
+Thomas has ignored calls to step aside from cases involving Trump, too. Ginni Thomas supported Trump's efforts to overturn the 2020 presidential election that the Republican lost to Democrat Joe Biden. 
+
+
+The report also pointed to scrutiny of Justice Sonia Sotomayor, who, aided by her staff, has advanced sales of her books through college visits over the past decade. Justices have also heard cases involving their book publishers or involving companies in which justices owned stock. 
+
+
+Biden has been the most prominent Democrat calling for a binding code of conduct. Justice Elena Kagan has publicly backed adopting an enforcement mechanism, though some ethics experts have said it could be legally tricky. 
+
+
+Justice Neil Gorsuch recently cited the code when he recused himself from an environmental case. He had been facing calls to step aside because the outcome could stand to benefit a Colorado billionaire whom Gorsuch represented before becoming a judge. 
+
+
+The report also calls for changes in the Judicial Conference, the federal courts' oversight body led by Chief Justice John Roberts, and further investigation by Congress. 
+
+<br> 
+
+<https://www.voanews.com/a/senate-review-of-supreme-court-ethics-finds-more-luxury-trips-/7909809.html>
+
+---
+
+## Trump picks David Fink to lead Federal Railroad Administration
+
+date: 2024-12-21, from: VOA News USA
+
+U.S. President-elect Donald Trump said on Saturday he has selected David Fink to serve as administrator of the Federal Railroad Administration. 
+
+
+"David will bring his 45+ years of transportation leadership and success, which will deliver the FRA into a new era of safety and technological innovation," Trump said in a post on Truth Social. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-picks-david-fink-to-lead-federal-railroad-administration-/7909792.html>
+
+---
+
+## New musical project tells 1800s story of US transcontinental railroad
+
+date: 2024-12-21, from: VOA News USA
+
+Rhiannon Giddens is a Grammy- and Pulitzer-winning musical artist whose latest project tells the story of the U.S. transcontinental railroad — a story told through the eyes of its builders, including African American, Chinese, Japanese, Irish and Native American workers. It’s called “American Railroad,” and Nina Vishneva has the story, narrated by Anna Rice. Camera: Vladimir Badikov 
+
+<br> 
+
+<https://www.voanews.com/a/new-musical-project-tells-1800s-story-of-us-transcontinental-railroad/7909782.html>
+
+---
+
+## Trump wants US to dominate AI as industry weighs benefits, risks
+
+date: 2024-12-21, from: VOA News USA
+
+Generative artificial intelligence companies are racing to build on the popularity of programs like ChatGPT, but AI regulation has not kept pace with the technology. Now, an incoming administration could favor U.S. domination over risk mitigation. Tina Trinh reports. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-wants-us-to-dominate-ai-as-industry-weighs-benefits-risks/7909755.html>
+
+---
+
+##  YOU LOVE TO SEE IT: Banning The Bans 
+
+date: 2024-12-21, from: The Lever News
+
+ Censorship gets banned, youth score a climate win, nurses win a major union vote, workers’ rights are clear and unmistakable, and small businesses go boom.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-banning-the-bans/>
+
+---
+
+## Pakistan labels US warning on missile program as ‘devoid of rationality’
+
+date: 2024-12-21, from: VOA News USA
+
+ISLAMABAD — Pakistan denied Saturday that its long-range ballistic missile capabilities could potentially strike locations as distant as the United States, asserting that such claims are “unfounded” and “devoid of rationality.”
+
+
+Foreign Ministry spokesperson Mumtaz Baloch made the statement while responding to recent revelations by a senior U.S. White House official regarding the “emerging threat” emanating from Pakistan, a key partner of Washington.
+
+
+“The alleged threat perception from Pakistan’s missile capabilities and delivery means raised by the US official [is] unfortunate,” Baloch said.
+
+
+“We wish to reiterate that Pakistan’s strategic capabilities are meant to defend its sovereignty and preserve peace and stability in South Asia,” she added, apparently referring to her country’s archrival, India.
+
+
+On Thursday, Jon Finer, the Biden administration’s deputy national security adviser, said at a public talk at the Carnegie Endowment for International Peace that Islamabad's missile-making program raises "real questions" about its intentions.
+
+
+"Pakistan has developed increasingly sophisticated missile technology, from long-range ballistic missile systems to equipment that would enable the testing of significantly larger rocket motors," Finer said. “If these trend lines continue, Pakistan will have the capability to strike targets well beyond South Asia, including in the United States.”
+
+
+Finer spoke a day after Washington announced new sanctions related to Pakistan’s development of ballistic missiles, including on the state-run agency that oversees the program. He stated that over the last year, the Biden administration has issued three rounds of sanctions against non-Pakistani entities, enabling Islamabad to advance its long-range missile systems.
+
+
+
+
+Finer emphasized, citing U.S. assessments, that the latest sanctions were directed against the country’s state-owned National Defense Complex developing and producing long-range ballistic missiles. He noted that this was the first time Washington had targeted a Pakistani state-owned enterprise tied to missile development.
+
+
+“The recent spate of U.S. allegations toward a major non-NATO ally would be unhelpful for the overall relationship, especially in the absence of any evidence in this regard,” Baloch said Saturday. “Pakistan has never had any ill intention toward the U.S. in any form or manner, and this fundamental reality has not changed.”
+
+
+Baloch highlighted Islamabad’s long history of cooperation with Washington, particularly in counterterrorism efforts, reiterating Pakistan’s commitment to engaging constructively with the U.S. on all issues, including regional security and stability.
+
+
+“Hence, any irrational assumption of hostile intent from Pakistan by any other country, including the U.S., is perplexing as well as illogical,” she said.
+
+
+In his speech on Thursday, Finer said that U.S. officials have consistently raised concerns with Pakistani counterparts about Islamabad’s efforts to advance its missile development capabilities.
+
+
+“Looking at a map and looking at ranges, we believe that this is fundamentally focused on us, and I think that is an inescapable conclusion based on the information we have got,” Finer said when asked about the motivation behind the missile development systems.
+
+
+“Unfortunately, it is our sense that Pakistan has failed to take U.S. concerns seriously,” Finer said, adding that Washington will continue to keep the pressure on Islamabad to address the U.S. concerns.
+
+
+The United States and Pakistan share a history marked by positive partnerships and more difficult periods. Relations between the two countries have become strained under the Biden administration, a situation further exacerbated by the chaotic U.S. troop withdrawal from Afghanistan in August 2021.
+
+
+Michael Kugelman, who directs the South Asia Institute at Washington’s Wilson Center, said the Biden administration likely doesn’t want to alienate Islamabad.
+
+
+“But the recent U.S. comments and this strong Pakistani rhetorical response put the relationship in a tough spot, especially with the incoming Trump administration likely to be even less receptive to the partnership than the Biden administration,” Kugelman told VOA.
+
+
+While announcing new sanctions on Wednesday, the U.S. State Department said that Pakistan’s Shaheen series of missiles also are among those being developed and produced by the state-owned National Defense Complex.
+
+
+
+
+The surface-to-surface Shaheen rocket can carry nuclear warheads to a range of approximately 2,750 kilometers, with experts saying the range enables the solid-fueled, multistage missile to reach targets anywhere in India and parts of the Middle East.
+
+
+Islamabad has consistently maintained that its defense capabilities are meant to deter India from imposing another war on Pakistan.
+
+
+"The technical development of Pakistan's missile program is primarily aimed at retaining and improving the penetration capabilities of its ballistic missiles against the Indian missile defense forces, which have received major acquisitions and improvements,” Syed Muhammad Ali, a security expert based in Islamabad, told VOA.
+
+
+India and Pakistan conducted their first nuclear weapons tests in May 1998, raising fears another war between the archrivals could escalate into a nuclear exchange in South Asia. The nations have fought three wars, resulting in strained relations and persistent military tensions. 
+
+<br> 
+
+<https://www.voanews.com/a/pakistan-dismisses-us-official-s-warning-over-missile-program/7909526.html>
+
+---
+
+## Trump adds EU to list of trade partners he threatens with tariffs
+
+date: 2024-12-21, from: VOA News USA
+
+WEST PALM BEACH, FLORIDA — President-elect Donald Trump on Friday added the 27 countries that make up the European Union to the list of trade partners he's threatening with tariffs — unless the group takes steps to import more U.S. goods. 
+
+
+"I told the European Union that they must make up their tremendous deficit with the United States by the large scale purchase of our oil and gas," Trump posted shortly after 1 a.m. on social media. "Otherwise, it is TARIFFS all the way!!!" 
+
+
+In 2023, the United States' trade imbalance with the EU on goods was $209 billion, according to the Census Bureau. There were $576 billion in imports from Europe and $367 billion in exports from the United States. 
+
+
+Trump's transition team did not respond to questions seeking greater clarity on the message, which for all its bluntness was unclear on next steps. 
+
+
+When Trump threatened Canada and Mexico with 25% tariffs in November, the leaders of both countries spoke with him to try to resolve any tensions. But the European Union lacks a single figure who can make the purchase commitments of natural gas and oil on behalf of its 27 member states that Trump is seeking. 
+
+
+EU Commission spokesperson Olof Gill said in reaction to Trump's post that "we are ready to discuss with President-elect Trump how we can further strengthen an already strong relationship, including by discussing our common interests in the energy sector." 
+
+
+Gill noted that the EU is already "committed to phasing out energy imports from Russia and diversifying our sources of supply. We're not going to go into any details about what that might entail in the future, given that the new administration isn't even in place yet." 
+
+
+Scott Lincicome, a vice president at the libertarian Cato Institute, said it was difficult to parse what Trump was trying to say relative to European trade, given that natural gas exports to the continent are already up after Russia's 2022 invasion of Ukraine. 
+
+
+"What we really need to chalk all of this up to is Trump laying the groundwork for future negotiations," Lincicome said. "This is for better or worse a lot of what we're going to see for the next four years." 
+
+
+While there is a $209 billion trade imbalance, a more complicated relationship lies beneath those numbers. A company such as German automaker BMW can import parts needed to assemble vehicles at its factory in South Carolina, such that the trade totals also reflect the flow of goods within European companies that employ U.S. workers. 
+
+
+More than half of the liquified natural gas imported by the EU and the United Kingdom in 2023 came from the United States, according to the U.S. Energy Information Administration. The volume of LNG going to the EU and UK has tripled since 2021. 
+
+
+On Tuesday, Energy Secretary Jennifer Granholm issued a statement based on a new study saying that unfettered exports of LNG could increase prices domestically and increase carbon emissions. Trump ran for president on the idea that increased oil and natural gas production would reduce costs for U.S. voters who were left frustrated by a 2022 inflationary spike that still lingers. 
+
+
+Trump's demands on Europe to buy more oil and natural gas were not especially new. He also made them during his initial term as president and in 2018 reached a deal with Jean-Claude Juncker, then-president of the European Commission, to sell more LNG to Europe. 
+
+
+The problem with that agreement, as noted by the University of Pennsylvania's Kleinman Center for Energy Policy, is that the U.S. "cannot force companies to send products to a specific region or country" and the EU cannot force its members to buy American fossil fuels. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-adds-eu-to-list-of-trade-partners-he-threatens-with-tariffs-/7909390.html>
+
+---
+
+## Pennsylvania's Bethlehem, founded by Moravians on Christmas eve, keeps its traditions alive
+
+date: 2024-12-21, from: VOA News USA
+
+BETHLEHEM, PENNSYLVANIA — On Christmas Eve in 1741, Moravian settlers named this Pennsylvania city after the biblical birthplace of Jesus. Nearly 300 years later, Moravians continue celebrating their Christmas season traditions in Bethlehem.
+
+
+They include the "putz," a Nativity scene that tells the story of Christ's birth with miniature wooden figurines, the making of thousands of beeswax candles by hand as a symbol of the light that Jesus brought to the world and a "lovefeast," a song service where worshippers share a simple meal of sweet buns and coffee in their pews.
+
+
+"Like all Moravian traditions, the importance of it is that it brings people together," said the Rev. Janel Rice, senior pastor of Central Moravian Church — Bethlehem's first congregation and the oldest Moravian church in North America.
+
+
+"Building community, emphasizing that, over doctrine or dogma, is really the Moravian practice and tradition at our core," she said.
+
+
+Moravians relate to the story of Jesus, Mary and Joseph, Rice said, because their ancestors began as a refugee church fleeing religious persecution. The Nativity is also a poignant reminder today, when the number of people fleeing their homes because of war, violence and persecution continues to rise worldwide.
+
+
+"It's so crucial because this story is not just Jesus's story of 2,000 years ago. It's today's story. And we need to make sure that we're living the word that we were told when it comes to these refugees," said church member Sarah Wascura. "That word is to give them refuge and to take care of them and to love them as ourselves."
+
+
+A town founded on Christmas Eve
+
+
+The Moravian Church is one of the world's oldest Protestant denominations. Its name comes from the historical provinces of Bohemia and Moravia in what is now the Czech Republic.
+
+
+
+
+Their beliefs of practice over dogma began with a religious reformer, John Hus, who led a protest movement against some of the practices of Roman Catholic hierarchy. Hus believed congregants in his church should listen to Mass and read the Bible in their native Czech instead of Latin. He was accused of heresy and burned at the stake in 1415.
+
+
+His ideas were carried on by his supporters, who broke with Rome and founded the Moravian Church, or Unitas Fratrum (Unity of Brethren) in 1457 — decades before Martin Luther's Protestant Reformation.
+
+
+Moravians facing persecution eventually fled to Herrnhut, Germany, and established the original Renewed Moravian Church settlement, according to accounts of church history.
+
+
+Moravian missionaries later settled in Pennsylvania.
+
+
+On Christmas Eve in 1741, their leader, Count Nicolas Ludwig von Zinzendorf, who was visiting them, led them to a stable, where they sang the hymn Jesus Call Thou Me. Its lyrics say: "Not Jerusalem — lowly Bethlehem 'twas that gave us Christ to save us." Thus inspired, Zinzendorf named the settlement Bethlehem.
+
+
+Beloved tradition retells the story of the birth of Jesus
+
+
+Bethlehem's first settlers brought with them hand-carved figures to retell the story of Christ's birth. The tradition is known as the putz, from the German word "putzen," meaning to clean or decorate.
+
+
+"It relates back to the creches of the Middle Ages," Rice said. "But it's not just a creche, which would be just the one Nativity scene."
+
+
+Instead, it uses figures to tell different parts of the Gospel in miniature, including Mary's annunciation and the visit of the three wise men to the infant Jesus.
+
+
+In Victorian days, Rice said, Bethlehem's residents would "go putzing" — visiting each other's homes between Christmas Eve and New Year's Day to look at Nativity scenes.
+
+
+In 1937, the local chamber of commerce launched a campaign promoting Bethlehem as "Christmas City USA." As part of that promotion, they took the tradition of the putz to the historic Hotel Bethlehem on Main Street. Thousands turned up.
+
+
+"The story goes that the hotel got so crowded that they couldn't really accommodate the number of people that were coming to see it, and they asked Central Moravian Church to host it."
+
+
+For every Christmas since then, the community putz has been put together by the church's congregants and displayed at the nearby Christian education building.
+
+
+"It's more than Christmas for four weeks a year," said Wascura, who went to the putz on her first date with Bob Wascura, her husband of 33 years.
+
+
+"The nature of the faith heritage of the city is something that is never forgotten."
+
+
+On a recent day, she led families visiting the community putz to their seats. After recounting a brief history of the Moravian Church and the Pennsylvania city, she drew a curtain to display the dozens of wooden figures — angels, shepherds, kings carrying gifts — in a tiny landscape decorated with pebbles, wood and moss.
+
+
+
+
+Children and parents listened to the recorded voice of Janel Rice, who narrated the biblical story about the other Bethlehem.
+
+
+"We might wonder why setting up a putz and telling the story of Jesus' birth is so important to the Moravians, and now to the city of Bethlehem," Rice says in the recording. "One reason has to do with the naming of the city itself."
+
+
+The church choir, after some singing, gave way to the powerful sound of the renowned Moravian Trombone Choir, known for playing its brassy tunes from the belfry of Central Moravian Church. When the lights turned on, children approached the stage to look up close at the figurines and point at surprises near the manger, including miniature zebras, lions and giraffes.
+
+
+"We feel really lucky to live so close to Bethlehem with all of the history here and specifically the history pertaining to Christmas," said visitor Kelly Ann Ryan. "It's just something that we can't miss every holiday season as it rolls around."
+
+
+She came to Bethlehem from a nearby town with her husband, Daniel, and their 5- and 8-year-old sons to see the community putz, in what she said has become a family tradition.
+
+
+"Telling the Christmas story this way is a great way for kids to connect with it."
+
+
+Lighting candles on Christmas Eve, joining Santa for a sleigh ride
+
+
+Christmas — from the Christian celebration to the secular commercial holiday — is omnipresent in Bethlehem.
+
+
+On a recent day, Santa Claus checked on a red sleigh (drawn by horses instead of reindeer) outside Central Moravian before he led families who hopped on for a tour of Bethlehem and its Moravian church settlements, which were recently designated by UNESCO as a World Heritage Site.
+
+
+Others strolled to nearby holiday-themed wooden huts or along Main Street with its stores decorated with Christmas globes and Moravian stars. Some stopped outside an Italian restaurant to greet Santa and Mrs. Claus, who welcomed diners and posed for photos.
+
+
+Across town, vendors sold ornaments at Christkindlmarkt, in the shadow of rusting blast furnaces of Bethlehem Steel illuminated in red and green. That company once supplied steel for construction of the Empire State Building, the Golden Gate Bridge and other landmarks.
+
+
+At Central Moravian, the choir sang hymns while sacristans handed out buns and mugs of coffee to families who enjoyed the sustenance in their pews at the "lovefeast."
+
+
+After Rice delivered a final blessing, Linda Thudium walked up the stairs and opened a large closet, where the congregation keeps thousands of handmade candles wrapped in red ribbons that they light during Christmas services.
+
+
+"To me, this is Christmas — looking at these candles," said Thudium. She recalled attending Christmas Eve services with lit candles since she was 5, a tradition she continued with her children and grandchildren.
+
+
+"To me, this is just magical. I remember my parents doing this, my grandparents," she said. "It's just a wonderful warm feeling of being connected with this church." 
+
+<br> 
+
+<https://www.voanews.com/a/pennsylvania-s-bethlehem-founded-by-moravians-on-christmas-eve-keeps-its-traditions-alive-/7908077.html>
+
+---
+
+## Younger Asian Americans navigate something new to their generation: Taking up space
+
+date: 2024-12-21, from: VOA News USA
+
+NEW YORK — Client after client comes through the 12 Pell barbershop in Manhattan's Chinatown. They come for the cuts, and for the cool.
+
+
+On 12 Pell's lively social media accounts, the young, predominantly Asian American barbers don't hesitate to offer advice to teens and men of all ages and ethnicities with humor, quips, and confidence.
+
+
+Karho Leung, 34, a son of Chinatown and a 12 Pell co-founder, wanted to start a business that reflected him and his desire for "building the world that I want to live in … not asking for permission."
+
+
+About as American as it gets, right? The hunger to find your own way, make your voice heard? A look at social media and pop culture shows Leung and plenty of other Asian Americans of his and younger generations doing just that.
+
+
+But that American reality hasn't always belonged to everyone, including previous generations of Asian Americans. That American notion of having the freedom to stake out your own space? Sometimes, oftentimes, that has meant less space for others.
+
+
+Earlier generations of Asian Americans, some of whom have been here for well over a century and others whose roots trace to recent decades, have lived in Americas where their immigrant-origin communities were smaller and regarded as foreign, and where there was little mainstream familiarity with the countries they traced their ancestries to. And there was no Internet or social media culture that encouraged people to define their own lives.
+
+
+Instead, there were stereotypes that persist to this day — of otherness, of broken-English speaking and passiveness, at times sneaky or suspicious, or nerds and geeks.
+
+
+But even as those stereotypes still do harm, they don't have the same power in a time when many Americans eat from a global plate; where yoga studios and henna tattoos, temples and cultural festivals are everywhere, and the size, variety and geography of Asian American communities have increased dramatically in recent decades even as they remain a small part of the overall whole.
+
+
+Those stereotypes don't touch Leung the same way they impacted generations before him.
+
+
+
+
+"It's funny because even though I watched this type of stereotype and portrayal happen growing up, it never really resonated or hit me that that was what I was up against," he says.
+
+
+Jeff Yang, 56, a writer who has spent decades chronicling Asian American communities and culture, laughs when asked if the cultural space that Leung inhabits and makes his own sounds like the world of Yang's childhood.
+
+
+"I grew up in a world where I felt like everything about me was projected on me by other people," Yang says. "The stories that were being told were all told by non-Asians about what I could do, who I could be, what I could look like."
+
+
+It's not as if that world doesn't still exist. Simran Anand, 27, was still part of just one of three South Asian families in Reading, Pennsylvania, in the 2000s. She can relate, she says, to the sense earlier generations had of feeling culturally isolated in her day-to-day life when she stepped out of the family home.
+
+
+But she had something they lacked — large-scale South Asian communities in nearby places to visit and interact with.
+
+
+For her, it's both-and, not either-or, a sensibility she takes to her jewelry company, BySimran, which drew inspiration from South Asian designs but also adapted to fit her sensibilities as a young American woman.
+
+
+"I am American, but I'm also South Asian," she says. "And I don't have to be one or the other."
+
+
+Demetri Manabat, 23, agrees. Born and raised in Las Vegas to a Filipino father and Mexican mother, the spoken word artist says "it sounds like a different world" to hear about his parents' experiences growing up.
+
+
+His parents didn't teach him or his brothers Tagalog, one of the languages of the Philippines, or Spanish because "they grew up in a time where that was kind of frowned upon to be speaking a different language. And so they were under the assumption that that kind of perception would continue throughout my years, which it didn't," Manabat says.
+
+
+
+
+Alex Paik remembers what it was like. The 43-year-old Korean American artist grew up in a predominantly white suburb outside of Philadelphia. "When I was growing up, it was like I either was not Korean enough or too Korean," he says.
+
+
+Today, he's intrigued watching his 11-year-old daughter. "She loves to read, and there's so many stories now that are written by Asian American women that center Asian and Asian American girls as protagonists," he says. "I don't know how it would affect your sense of self, but it must affect it somehow, so I'm really curious to see how she grows up … It's just normal for her."
+
+
+Factors that have made a difference in the lives of Asian Americans over time include the baseline demographic reality that there are more, and bigger, communities across the country largely due to the 1965 reform of immigration laws. Globalization has played a hand as well, introducing cultures to each other as the world has gotten smaller. And of course, the internet and technology.
+
+
+Paik thinks some of what he's seeing now is also the natural outpouring that comes from a connection to the country that looks different to those born here than it does for those who have immigrated here.
+
+
+"When you start with the assumption that you belong in a space, I feel like that changes how you approach things," he says. "Whether or not that space actually wants you is kind of beside the point. There's an attitude you carry, like, yeah, of course this is my house, this is my country. I grew up here."
+
+
+And "I grew up here" — is the operative engine as new generations of Asian Americans rise and claim their own space — even if the assumptions they make about what's possible for them could be a bit unsettling for other generations.
+
+
+"Previous generations, of course, they're going to have that kind of like 'what is going on' moment," Manabat says. "I do think that is the goal, to kind of have that moment of 'This is insane,' but it's everything that you kind of hoped would happen."
+
+
+In short: building the world they want to live in. And not asking for permission. 
+
+<br> 
+
+<https://www.voanews.com/a/younger-asian-americans-navigate-something-new-to-their-generation-taking-up-space-/7906680.html>
+
+---
+
+## Thousands rally at US Embassy in Cuba against trade embargo
+
+date: 2024-12-21, from: VOA News USA
+
+HAVANA — Thousands of Cubans joined a protest Friday in front of the U.S. Embassy in Havana that was led by President Miguel Diaz-Canel and ex-leader Raul Castro against Washington's long-standing trade blockade.
+
+
+"We are marching now to tell the U.S. government to let the Cuban people live in peace. Down with interference!" Diaz-Canel told a crowd that had gathered a month before Republican Donald Trump returns to the White House.
+
+
+Communist Cuba is enduring a worsening economic crisis that the government blames on U.S. sanctions that have been in place since 1962 and were tightened during Trump's first term.
+
+
+"If we didn't have the blockade, we would not be facing difficulty like this," said 85-year-old retiree Faustino Miranda.
+
+
+The Caribbean nation faces a lack of food and medicine, frequent blackouts and a wave of emigration.
+
+
+Rogelio Savigne, 55, head of transport at a state-owned company, told AFP: "We need them to open the doors for us to be able to trade with all countries."
+
+
+Authorities said that 700,000 people marched in the capital on Friday. AFP was not able to independently verify that number.
+
+
+Former president Castro, 93, stood at the head of the march along with Diaz-Canel, who earlier Friday had blamed the U.S. embargo for making this year "one of the most difficult" for Cuba.
+
+
+On Tuesday, the country's deputy foreign minister reiterated its willingness to enter into a dialogue with Trump, who will take office on Jan. 20.
+
+
+During his first term, Trump halted an easing of relations between Washington and Havana that began in 2014.
+
+
+He implemented 243 measures that reinforced the embargo, including the reincorporation of the island into the U.S. blacklist of "countries that sponsor terrorism," alongside Iran and North Korea.
+
+
+Current U.S. President Joe Biden has kept Cuba on that list but resumed discussions with Havana on counterterrorism and combating illegal migration. 
+
+<br> 
+
+<https://www.voanews.com/a/thousands-rally-at-us-embassy-in-cuba-against-trade-embargo/7909398.html>
+
+---
+
+## Foreign worker visa program faces uncertainty in Trump's second term
+
+date: 2024-12-21, from: VOA News USA
+
+WASHINGTON — Foreign workers seeking U.S. jobs enjoyed near-guaranteed visa success in fiscal year 2024, with immigration authorities approving more than 97% of H1-B visa applications, as reported by the National Foundation for American Policy.
+
+
+The was the second-highest approval rate in more than a decade. But the exceptionally high success rate could soon end if President-elect Donald Trump's team revives his first administration's restrictive immigration policies, according to immigration lawyers. That in turn could significantly affect U.S. businesses and other institutions that rely on highly skilled foreign workers, especially those from India, they warn.
+
+
+"I think it's going to get harder, and it's going to be more complicated to approve things," said Sharvari Dalal-Dheini, senior director of government relations at the American Immigration Lawyers Association (AILA) and a former lawyer for U.S. Citizenship and Immigration Services (USCIS).
+
+
+Companies exploit program, say critics
+
+
+Created in 1990, the H-1B program lets U.S. employers hire foreign talent in specialized fields such as technology, engineering and health care, with 85,000 visas issued by lottery. Indian workers received more than 70% of the slots in recent years, followed by Chinese nationals.
+
+
+The program has long been the subject of controversy. Proponents point to its role allowing the U.S. to attract top foreign talent and fill critical jobs. A 2016 study by the National Foundation for American Policy found that nearly one-quarter of America's billion-dollar startups had a founder who first came to the U.S. as an international student.
+
+
+But critics view the program as a weapon against American workers. Ira Mehlman of the Federation for American Immigration Reform (FAIR) pointed to Disney's controversial move a decade ago to lay off hundreds of U.S. staff members, forcing them to train foreign replacements as a condition of their severance.
+
+
+Though Disney denied any wrongdoing and beat subsequent lawsuits, the case became a rallying cry among anti-immigrant groups.
+
+
+FAIR says U.S. companies exploit the system to hire cheaper foreign labor, driving down U.S. wages.
+
+
+"There are plenty of tech workers available here in the United States, and that should be the first resort for these companies to go out there and hire people who are American citizens," Mehlman, FAIR's media director, said in an interview with VOA.
+
+
+Mehlman said the program has strayed from its roots as a temporary foreign worker program, with foreign nationals using it as a backdoor to American citizenship.
+
+
+"This should be a program that says you're going to come here for a specified amount of time, the duration of your visa, and then you're going to return home," Mehlman said.
+
+
+The criticism is shared by many congressional Republicans as well as Trump, who in 2016 campaigned to end what he called "a cheap labor program."
+
+
+That did not happen, but the first Trump administration moved swiftly against the program after Trump issued his Buy American, Hire American executive order within months of taking office. Immigration officials followed up with stricter degree and wage requirements for foreign workers.
+
+
+Most of those rules were eventually blocked by courts. But immigration officers found other ways to squeeze the program. They approved some visa requests for one year instead of three, rejected automatic extensions and ramped up worksite inspections. Visa applicants were hit with mounting demands for evidence to process their petitions, according to immigration lawyers.
+
+
+The crackdown hit hard. New visa denials soared to 24% in 2018 and dropped to 21% in 2019 before easing to 13% in 2020. That marked a sharp departure from the Obama era, when fewer than 1 in 10 petitions were denied.
+
+
+"What we did see that kind of worked effectively under the Trump administration was a gutting of the system," said Dalal-Dheini, who worked as a special counsel at the USCIS during the first Trump administration.
+
+
+Trump's plan for visas uncertain
+
+
+While changing rules and regulations are cumbersome and time-consuming, immigration lawyers warn about a likely return to the tactics the first Trump administration used to limit the number of visas issued to foreign workers.
+
+
+Kathleen Campbell Walker, head of immigration practice at the Dickinson Wright law firm, said she is particularly concerned that increased scrutiny by federal anti-fraud agents could slow things down and potentially create "more difficulty in getting your H-1B visa status approved."
+
+
+"That worries me," Walker, a former national president of AILA, said in an interview with VOA.
+
+
+The incoming administration's plans for the visa program remain uncertain. The Trump transition team did not immediately respond to a VOA request for comment, but a campaign spokesperson said in a statement to The Washington Post earlier this year that Trump "will restore all of his prior [immigration] policies" immediately upon returning to the White House.
+
+
+While Trump's new administration is expected to focus on cracking down on undocumented immigrants, immigration lawyers say the new administration could target legal as well as illegal immigration, pointing to the appointment of immigration hardliners such as Stephen Miller, Trump's incoming White House deputy chief of staff.
+
+
+Yet signals are mixed. Trump has floated the idea of giving green cards to foreign graduates of American colleges and universities. And key Trump ally Elon Musk is a staunch supporter of the H-1B program, with Tesla hiring 742 new foreign workers in fiscal year 2024, ranking 16th among U.S. companies with the most H-1B visa approvals.
+
+
+While it's unclear what influence, if any, Musk will have on Trump's immigration policies, Walker said she's "hoping he may be in there to try to help tweak things that are from a positive perspective for the H-1B category." 
+
+<br> 
+
+<https://www.voanews.com/a/foreign-worker-visa-program-faces-uncertainty-under-second-trump-term/7909372.html>
+
+---
+
+## Senate approves 235th judge of Biden's term, beating Trump's tally
+
+date: 2024-12-21, from: VOA News USA
+
+WASHINGTON  — President Joe Biden secured the 235th judicial confirmation of his presidency Friday, an accomplishment that exceeds his predecessor's total by one after Democrats put extra emphasis on the federal courts following Donald Trump's far-reaching first term, when he filled three seats on the Supreme Court.
+
+
+Senate Majority Leader Chuck Schumer, a New York Democrat, teed up votes on two California district judges, and they were likely to be the last judicial confirmations this year before Congress adjourns and makes way for a new, Republican-led Senate.
+
+
+The confirmation of Serena Raquel Murillo to be a district judge for the Central District of California broke Trump's mark. Come next year, Republicans will look to boost Trump's already considerable influence on the makeup of the federal judiciary in his second term.
+
+
+Biden and Senate Democrats placed particular focus on adding women, minorities and public defenders to the judicial ranks. About two-thirds of Biden's appointees are women and a solid majority of appointees are people of color. The most notable appointee was Supreme Court Justice Ketanji Brown Jackson, the first African American woman to serve on the nation's highest court.
+
+
+"Prior to our effort, the number of women on the federal bench was really diminished. It was overwhelmingly white males," said Sen. Dick Durbin, the Democratic chairman of the Senate Judiciary Committee. "We consciously moved forward to bring more women to the bench, and believe me, we had a great talent pool to work with. So I think it'll enhance the image of the court and its work product to bring these new judges on."
+
+
+
+
+Biden also placed an emphasis on bringing more civil rights lawyers, public defenders and labor rights lawyers to expand the professional backgrounds of the federal judiciary. More than 45 appointees are public defenders, and more than two dozen served as civil rights lawyers.
+
+
+While Biden did get more district judges confirmed than Trump, he had fewer higher-tier circuit court appointments than Trump — 45 compared with 54 for Trump. And he got one Supreme Court appointment compared with three for Trump. Republicans, much to Democrats' frustration, filled Justice Ruth Bader Ginsburg's seat on the court the week before the 2020 presidential election. Ginsburg had died in September.
+
+
+Democrats also faced the challenge of confirming nominees during two years of a 50-50 Senate. Rarely a week went by in the current Congress when Schumer did not tee up votes on judicial confirmations as liberal groups urged Democrats to show the same kind of urgency on judges that Republicans exhibited under Trump.
+
+
+Some Senate Republicans were harshly critical of Biden's choices. Sen. Ted Cruz, R-Texas, said talk of diversity did not extend to the views of the nominees.
+
+
+"One of the consequences of the age of Trump is that it drove Democrats insane, and it drove them to the extreme left, so they put people on the bench who were selected because they were extreme partisans," Cruz said.
+
+
+Liberal-leaning advocacy groups said they are delighted with the number of judges Democrats secured, but even more so with the quality of the nominees. They said diversity in personal and professional backgrounds improves judicial decision-making, helps build public trust and inspires people from all walks of life to pursue legal careers.
+
+
+"For our federal judiciary to actually deliver equal justice for all, it really has to be for all, and that is one reason why we certainly applaud this administration for prioritizing both professional but also demographic diversity," said Lena Zwarensteyn, senior director of the fair courts program at The Leadership Conference on Civil and Human Rights.
+
+
+Sen. Charles Grassley, R-Iowa, and the next chairman of the Senate Judiciary Committee, said Democrats showed newfound resolve on judicial confirmations.
+
+
+"They learned a lesson from the first Trump administration," Grassley said. "Paying attention to the number of judges you get and the type of judges you put on the court is worth it."
+
+
+Part of the urgency from Democrats came as they watched the nation's highest court overturn abortion protections, eliminate affirmative action in higher education and weaken the federal government's ability to protect the environment, public health and workplace safety through regulations. The cases showed that the balance of power in Washington extends to the judicial branch.
+
+
+Trump will inherit nearly three dozen judicial vacancies, but that number is expected to rise because of Republican-appointed judges who held off on retirement in hopes that a Republican would return to office and pick their replacements. 
+
+<br> 
+
+<https://www.voanews.com/a/senate-approves-235th-judge-of-biden-s-term-beating-trump-s-tally-/7909364.html>
+
+---
+
+## Biden signs bill to fund US federal government, avoid shutdown
+
+date: 2024-12-21, from: VOA News USA
+
+WASHINGTON  — President Joe Biden has signed legislation that prevents a government shutdown as the United States approaches the Christmas and New Year’s holidays.
+
+
+His action Saturday concludes days of disruption in the nation’s capital after Congress passed a bipartisan budget plan just after the deadline and turned back President-elect Donald Trump’s key demand in the deal.
+
+
+The legislation provides government funding at current levels through March 14, and it supplies $100 billion in disaster aid and $10 billion in agricultural assistance to farmers.
+
+
+In the early hours Saturday morning, the U.S. Senate passed a stopgap spending bill to fund the U.S. government through March.
+
+
+Both chambers of Congress — the Republican-controlled House of Representatives and the Democrat-controlled Senate — had to approve the measure for it to pass and avoid a government shutdown.
+
+
+Biden indicated Friday he supported the bill and would sign it into law.
+
+
+The legislation will not raise the federal debt ceiling.
+
+
+The 85-11 Senate vote came after the House of Representatives, following two failed attempts, passed the bill. The vote there was 366-34, with one member voting present. All 34 House votes against the bill were cast by Republicans.
+
+
+"We're excited about this outcome," House Speaker Mike Johnson said after the House vote, adding that he had spoken with Trump, who "was certainly happy about this outcome, as well."
+
+
+"This was a necessary step to bridge the gap, to put us into that moment where we can put our fingerprints on the final decisions on spending," Johnson told reporters after the vote.
+
+
+House Republicans reached an agreement among themselves on a new proposal earlier Friday. The last-ditch effort to avoid a government shutdown came after Republicans in Congress failed on Thursday to pass a spending bill backed by Trump that would have raised the debt ceiling, which Trump had demanded at the last minute.
+
+
+Dozens of Republicans voted against Thursday’s bill, and only two Democrats supported it.
+
+
+The new plan is the same bill as the one that failed Thursday, except without the debt ceiling suspension.
+
+
+Problems began for Johnson this week when he abandoned a bipartisan funding deal he had reached with Democrats after Trump and billionaire Elon Musk lambasted the plan.
+
+
+Even though the House passed the bill, government funding technically would have run out at midnight Friday. However, most of the impact of the shutdown would not have begun to take effect until Monday.
+
+
+The longest U.S. government shutdown in history lasted 34 days, from December 2018 until January 2019, when then-President Trump refused to sign any appropriations bill that did not include several billion dollars for a wall along the U.S. border with Mexico. The ploy hurt his approval ratings.
+
+
+Some information for this report came from Reuters and The Associated Press. 
+
+<br> 
+
+<https://www.voanews.com/a/stopgap-bill-passes-house-to-fund-federal-government-/7909305.html>
 
 ---
 
@@ -126,6 +1326,18 @@ date: 2024-12-20, from: The Lever News
 <br> 
 
 <https://www.levernews.com/2024-year-end-live-event-replay/>
+
+---
+
+## How to Succeed in Deterring an Invasion of Taiwan Without Really Trying (Hard)
+
+date: 2024-12-20, updated: 2024-12-20, from: RAND blog
+
+To deter a Chinese invasion, Taiwan could adopt a “porcupine” defense strategy, using obstacles, naval mines, and scorched-earth tactics. These low-cost measures, alongside traditional military capabilities, could delay and disrupt Chinese forces, enhancing deterrence. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/12/how-to-succeed-in-deterring-an-invasion-of-taiwan-without.html>
 
 ---
 
@@ -5075,668 +6287,4 @@ In western Washington, tens of thousands of people lost electricity Saturday, lo
 <br> 
 
 <https://www.voanews.com/a/storms-encase-iowa-eastern-nebraska-in-ice-trigger-tornado-warning-in-california/7901793.html>
-
----
-
-## ABC to pay $15M to Trump library to settle lawsuit, court documents show
-
-date: 2024-12-14, from: VOA News USA
-
-ABC News has agreed to give $15 million to U.S. President-elect Donald Trump's presidential library to settle a lawsuit over comments that anchor George Stephanopoulos made on air involving the civil case brought against Trump by writer E. Jean Carroll, a court document filed on Saturday showed. 
-
-
-The lawsuit, filed on March 19 in U.S. District Court in Southern Florida, accused Stephanopoulos of making the statements with malice and a disregard for the truth. It said the statements were distributed widely to third parties and repeated. 
-
-
-"We are pleased that the parties have reached an agreement to dismiss the lawsuit on the terms in the court filing," an ABC News spokesperson said in a statement.   
-
-
-The lawsuit cites a March 10 interview with U.S. Representative Nancy Mace, a Republican who has spoken publicly about being raped as a teenager. During the interview, Stephanopoulos said Trump was found liable for rape and asked her how she could endorse the candidate. 
-
-
-According to the settlement, ABC News must publish by Sunday a statement at the bottom of a March 10 online article that accompanied the interview. 
-
-
-"ABC News and George Stephanopoulos regret statements regarding President Donald J. Trump made during an interview by George Stephanopoulos with Representative Nancy Mace on ABC's "This Week on March 10, 2024," the statement must say, according to the court document. 
-
-<br> 
-
-<https://www.voanews.com/a/abc-to-pay-15m-to-trump-library-to-settle-lawsuit-court-documents-show-/7901619.html>
-
----
-
-## US officials: Most drone sightings in nation's Northeast skies are manned aircraft
-
-date: 2024-12-14, from: VOA News USA
-
-New York — Officials from the White House, FBI and DHS on Saturday stressed that most of the recently reported drone sightings in New Jersey and nearby states involved manned aircraft, and there was no evidence of any national security threat.
-
-
-An FBI official told reporters during an impromptu briefing that the agency was working with 50 local, state and federal partners to look into increased reports. The official said less than 100 of the over 5,000 reported sightings had turned out to merit further investigation, and all of the large fixed-wing reported sightings so far involved manned aircraft.
-
-
-"The combination of efforts so far ... to include technical equipment, tip line information and noted consults has ... not found any evidence to support large-scale [unmanned aerial systems] activities," the official said, adding that many of the sightings occurred along regular flight paths.
-
-
-Extensive efforts were underway to investigate the remaining cases, using interviews and analysis of radar and intelligence, the official added.
-
-
-"We can't ignore the sightings that have been there," the official said. "We're doing our best to find the origin of those drone activities, but I think there has been a slight over-reaction."
-
-
-
-
-A spate of reported drone sightings that began in New Jersey in mid-November spread in recent days to include Maryland, Massachusetts and other states. The sightings have garnered media attention and prompted creation of a Facebook page called "New Jersey Mystery Drones — let's solve it" with 56,000 online members.
-
-
-U.S. President Joe Biden is receiving regular updates on the issue, a White House official said.
-
-
-On Cape Cod in Massachusetts, residents and a police officer in Harwich reported seeing 10-15 drones flying in the Friday night sky, the Boston Herald reported.
-
-
-Police relayed the information to the Boston FBI and Massachusetts State Police.
-
-
-Governor Maura Healey said on Facebook that she is also “aware of a growing number of drone sightings across Massachusetts and we’re monitoring the situation closely.”
-
-
-New York Governor Kathy Hochul on Saturday called for a boost in federal law enforcement efforts after the runways at a local airport in the Hudson Valley were shut down for one hour due to drone activity on Friday.
-
-
-"This has gone too far," Hochul said in a statement on the social media network X, urging the Biden administration to boost law enforcement in New York and other areas, and calling on Congress to pass drone reform legislation.
-
-
-
-
-An official with the Federal Aviation Administration said a temporary ban on drone activity had been put in place over Picatinny Arsenal, a military base in Wharton, New Jersey, that was due to expire on December 26 and could be made permanent.
-
-
-There had been drone sightings over Picatinny and another naval weapons station in December, a military official told reporters, but there was no intelligence or observation that they were linked to a foreign actor or had malicious intent. Drone operations over military installations are generally banned, but occur from time to time, the official added.
-
-
-A second ban was put in place over Trump National Golf Club in Bedminster, New Jersey, that was due to expire on December 20, but could be extended, the FAA official said. 
-
-<br> 
-
-<https://www.voanews.com/a/mystery-drones-still-causing-concern-over-us-northeast-/7901613.html>
-
----
-
-## Trump taps Grenell as envoy, Nunes for intelligence board
-
-date: 2024-12-14, from: VOA News USA
-
-WASHINGTON — U.S. President-elect Donald Trump on Saturday named his social media platform CEO Devin Nunes to lead an intelligence advisory panel and said his former intelligence chief Richard Grenell would run "special missions" in places such as U.S. adversaries Venezuela and North Korea.
-
-
-"Ric will work in some of the hottest spots around the World, including Venezuela and North Korea," Trump wrote on his Truth Social platform. "Ric will continue to fight for Peace through Strength, and always put AMERICA FIRST."
-
-
-Trump did not name any other specific countries such as Iran in his post naming Grenell as the "Presidential Envoy for Special Missions."
-
-
-Grenell previously served as acting director of national intelligence during Trump's 2017-21 term and was Trump's ambassador to Germany and a special presidential envoy for Serbia and Kosovo peace negotiations.
-
-
-Nunes, a former U.S. lawmaker who runs Trump's Truth Social platform, will serve as chairman of the President's Intelligence Advisory Board, which offers independent assessments of intelligence agencies' effectiveness and planning.
-
-
-A longtime Trump defender who led the U.S. House of Representatives Intelligence Committee during part of Trump's first White House term, Nunes will remain CEO while also serving on the White House panel, Trump said in a separate post on Truth Social, which is part of Trump Media & Technology Group.
-
-
-As committee chair, Nunes alleged that the FBI had conspired against Trump during its investigation of Russian interference in the 2016 presidential elections in which Trump defeated Democratic nominee Hillary Clinton.
-
-
-"Devin will draw on his experience as former Chairman of the House Intelligence Committee, and his key role in exposing the Russia, Russia, Russia Hoax, to provide me with independent assessments of the effectiveness and propriety of the U.S. Intelligence Community’s activities," Trump wrote.
-
-
-Trump's nominee to lead the FBI, Kash Patel, served as an aide to Nunes in the U.S. House of Representatives.
-
-
-A 2017 U.S. intelligence report said Russian President Vladimir Putin had directed a sophisticated influence campaign to denigrate Clinton and support Trump in the 2016 election campaign. The Kremlin denied meddling and Trump denied any collusion with Russia.
-
-
-Trump has vowed to pursue political adversaries and officials who investigated him when he begins his second term on January 20.
-
-
-Trump on Saturday also named IBM executive and former U.S. Department of Homeland Security official Troy Edgar to serve as the department's deputy secretary. He also said he would nominate businessmen Bill White and Edward Walsh to serve as U.S. ambassadors to Belgium and Ireland, respectively. 
-
-<br> 
-
-<https://www.voanews.com/a/trump-taps-truth-social-ceo-nunes-to-lead-intelligence-board-/7901587.html>
-
----
-
-## Pelosi gets hip replaced at US military hospital in Germany
-
-date: 2024-12-14, from: VOA News USA
-
-WASHINGTON — Former House Speaker Nancy Pelosi had hip replacement surgery Saturday at a U.S. military hospital in Germany after falling while at an event in Luxembourg with other members of Congress. 
-
-
-Pelosi, 84, “is well on the mend,” said Ian Krager, a Pelosi spokesperson.
-
-
-Krager, said in a statement that she is “currently receiving excellent treatment from doctors and medical professionals” and is unable to attend the remainder of events on her trip. 
-
-
-He did not describe the nature of her injury or give any additional details, but a person familiar with the incident said Pelosi tripped and fell while at an event with the other members of Congress. Another person familiar with the situation said she injured her hip. The people requested anonymity to discuss the fall because they were not authorized to speak about it publicly. 
-
-
-Pelosi thanked the staff at Landstuhl Regional Medical Center and the hospital in Luxembourg, where she was also treated, for “their excellent care and kindness.” 
-
-
-She was in Europe with a bipartisan congressional delegation to mark the 80th anniversary of the Battle of the Bulge in World War II. 
-
-
-Among those on the trip was Representative Michael McCaul, who posted on social media Friday that he was “praying for a speedy recovery” for Pelosi. The two lawmakers were captured holding hands in a group photo that day at the U.S. Embassy in Luxembourg. 
-
-
-Pelosi was first elected in 1987 and served as speaker twice. She stepped down from her leadership post two years ago but remained in Congress and was reelected to represent her San Francisco district in November. 
-
-<br> 
-
-<https://www.voanews.com/a/pelosi-gets-hip-replaced-at-us-military-hospital-in-germany-/7901563.html>
-
----
-
-## Blinken: US in direct contact with Syrian rebels that ousted Assad
-
-date: 2024-12-14, from: VOA News USA
-
-AQABA, JORDAN — American officials have been in direct contact with the terrorist-designated rebel group that led the overthrow of Syrian President Bashar Assad, U.S. Secretary of State Antony Blinken said Saturday. 
-
-
-Blinken, speaking at a news conference in Jordan, was the first U.S. official to publicly confirm contacts between the Biden administration and Hayat Tahrir al-Sham, or HTS, which led a coalition of armed opposition groups that drove Assad from power and into asylum in Russia last weekend. 
-
-
-Along with counterparts from eight Arab nations and Turkey and senior officials from the European Union and United Nations, Blinken signed off on a set of principles meant to guide Syria's transition to a peaceful, nonsectarian and inclusive country. 
-
-
-Blinken would not discuss details of the contacts but said it was important for the U.S. to convey messages to the group about its conduct and how it intends to govern in a transition period. 
-
-
-"Yes, we have been in contact with HTS and with other parties," Blinken said in the port city of Aqaba. He added that "our message to the Syrian people is this: We want them to succeed and we're prepared to help them do so." 
-
-
-Blinken also stressed that "the success that we've had in ending the territorial caliphate" of the Islamic State group remains "a critical mission." And citing the U.S.-backed Syrian Democratic Forces, the Kurdish fighters who in recent years drove IS out of large areas of Syria, he said it was "very important at this moment that they continue that role because this is a moment of instability" in which IS "will seek to regroup and take advantage of." 
-
-
-HTS, which was once an affiliate of al-Qaida, has been designed as a foreign terrorist organization by the U.S. State Department since 2018. That designation carries with it severe sanctions, including a ban on the provision of any "material support" to the group or its members. The sanctions do not, however, legally bar U.S. officials from communicating with designated groups. 
-
- 
-
-
-
-
-In an interview Saturday on Syrian television, the group's leader, Ahmad al-Sharaa, formerly known as Abu Mohammed al-Golani, did not address any direct contact with the United States, but said the new authorities in Damascus are in touch with Western embassies. 
-
-
-He also said that "we don't intend to enter any conflict because there is general exhaustion in Syria." 
-
-
-HTS has worked to establish security and start a political transition after seizing Damascus and has tried to reassure a public both stunned by Assad's fall and concerned about extremist jihadis among the rebels. Insurgent leaders say the group has broken with its extremist past. 
-
-
-A joint statement after the meeting of foreign ministers urged all parties to cease hostilities in Syria and expressed support for a locally led transitional political process. It called for preventing the reemergence of extremist groups and ensuring the security and safe destruction of chemical weapons stockpiles. 
-
-
-"We don't want Syria to fall into chaos," Jordan's foreign minister, Ayman Safadi, told journalists. 
-
-
-A separate statement by Arab foreign ministers called for U.N.-supervised elections based on a new constitution approved by Syrians. Their statement condemned Israel's incursion into the buffer zone with Syria and adjacent sites over the past week as a "heinous occupation" and demanded the withdrawal of Israeli forces. 
-
-
-U.S. officials say al-Sharaa has been making welcomed comments about protecting minority and women's rights but they remain skeptical that he will follow through on them in the long run. 
-
-
-On Friday, the rebels and Syria's unarmed opposition worked to safely turn over to U.S. officials an American man who had been imprisoned by Assad. 
-
-
-U.S. officials are continuing their search for Austin Tice, an American journalist who disappeared 12 years ago near Damascus. "We have impressed upon everyone we've been in contact with the importance of helping find Austin Tice and bringing him home," Blinken said. 
-
-
-
-
-In other developments: 
-
-
-—Turkey reopened its embassy in Damascus, becoming the first country to do so since the end of Assad's rule. The embassy suspended operations 12 years ago due to insecurity during Syria's civil war. 
-
-
-—Al-Sharaa said in the TV interview that "the pretexts that Israel uses have ended" for its airstrikes that have destroyed much of the Syrian army's assets in recent days. He said "the Israelis have crossed the rules of engagement" but that the insurgent group is not about to enter a conflict with Israel. 
-
-
-—The leader of Lebanon's Hezbollah militants said the group has lost its military supply line through Syria but that the new authority there might reinstate the route. 
-
-
-—A Syrian war monitor and a citizen journalist said gunmen attacked members of a Syrian insurgent group, Failaq al-Sham, in the country's coastal region, killing or wounding 15 of them on Saturday. That region is home to many members of Assad's minority Alawite sect. 
-
-<br> 
-
-<https://www.voanews.com/a/blinken-us-in-direct-contact-with-syrian-rebels-that-ousted-assad/7901462.html>
-
----
-
-## Serbia's main gas supplier, controlled by Russia, faces US sanctions
-
-date: 2024-12-14, from: VOA News USA
-
-BELGRADE, SERBIA — The United States plans to introduce sanctions against Serbia’s main gas supplier, which is controlled by Russia, Serbia’s president said Saturday.
-
-
-President Aleksandar Vucic told state RTS broadcaster that Serbia has been officially informed that the decision on sanctions will come into force on January 1 but that he has so far not received any related documents from the U.S.
-
-
-There has been no comment from U.S. officials.
-
-
-Serbia almost entirely depends on Russian gas, which it receives through pipelines in neighboring states. The gas is then distributed by Petroleum Industry of Serbia, which is majority-owned by Russia’s state oil monopoly Gazprom Neft.
-
-
-Vucic said that after receiving the official documents, “we will talk to the Americans first, then we go talk to the Russians” to try to reverse the decision. “At the same time, we will try to preserve our friendly relations with the Russians and not to spoil relations with those who impose sanctions.”
-
-
-Although formally seeking European Union membership, Serbia has refused to join Western sanctions against Russia over its invasion in Ukraine, in part because of the crucial Russian gas deliveries.
-
-
-Vucic said that despite the embargo threat, “I’m not ready at this moment to discuss potential sanctions against Moscow.”
-
-
-Asked if the threat of U.S. sanctions against Serbia could change with the arrival of Donald Trump’s administration in January, Vucic said, “We must first get the [official] documents, and then talk to the current administration, because we are in a hurry.”
-
-
-The Serbian president is facing one of the biggest threats to more than a decade of his increasingly autocratic rule. Protests have been spreading by university students and others following the collapse last month of a concrete canopy at a railway station in the country’s north that killed 15 people on November 1.
-
-
-Many in Serbia believe rampant corruption and nepotism among state officials led to sloppy work on the building reconstruction, which was part of a wider railroad project with Chinese state companies. 
-
-<br> 
-
-<https://www.voanews.com/a/serbia-s-main-gas-supplier-controlled-by-russia-faces-us-sanctions/7901425.html>
-
----
-
-## Trump promises lower prices, more oil for US economy
-
-date: 2024-12-14, from: VOA News USA
-
-The economy was one of the biggest issues for voters in this year’s U.S. presidential election. As they await Donald Trump’s return to power, many Americans say they expect improving the economy will be one of his first priorities. VOA Correspondent Scott Stearns has our story. 
-
-<br> 
-
-<https://www.voanews.com/a/trump-promises-lower-prices-more-oil-for-us-economy/7901393.html>
-
----
-
-##  YOU LOVE TO SEE IT: Big Grocery’s Merger Diet 
-
-date: 2024-12-14, from: The Lever News
-
- Two huge grocery chains can’t merge, a junk-fee loophole gets plugged, crypto fraud goes to trial, and the Supreme Court has a big day off.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-big-grocerys-merger-diet/>
-
----
-
-## As the Olympics Approach, Los Angeles Considers Crackdown on Illegal Vacation Rentals
-
-date: 2024-12-14, from: Capital and Main
-
-<p>City officials are proposing stricter enforcement, higher fines and new technology in part to prevent rent-controlled apartments from being listed on Airbnb and Booking.com.</p>
-<p>The post <a href="https://capitalandmain.com/as-the-olympics-approach-los-angeles-considers-crackdown-on-illegal-vacation-rentals">As the Olympics Approach, Los Angeles Considers Crackdown on Illegal Vacation Rentals</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
- 
-
-<br> 
-
-<https://capitalandmain.com/as-the-olympics-approach-los-angeles-considers-crackdown-on-illegal-vacation-rentals>
-
----
-
-## US Marines start partial transfer from Japan's Okinawa to Guam
-
-date: 2024-12-14, from: VOA News USA
-
-TOKYO — The partial transfer of U.S. Marines from Okinawa to Guam began on Saturday, 12 years after Japan and the United States agreed on their realignment to reduce the heavy burden of American troop presence on the southern Japanese island, officials said.
-
-
-The relocation started with 100 members of III Marine Expeditionary Force stationed on Okinawa moving to the Pacific island for the initial logistical work, the U.S. Marine Corps and Japan's Defense Ministry said in a joint statement.
-
-
-Under the plan agreed between Tokyo and Washington in April 2012, about 9,000 of the 19,000 Marines currently stationed on Okinawa are to be moved out of Okinawa, including about 4,000 of them to be moved to the U.S. territory Guam in phases. Details, including the size and timing of the next transfer, were not immediately released.
-
-
-The Marine Corps is committed to the defense of Japan and meeting operational requirements to maintain a free and open Indo-Pacific, and it will maintain presence in the region "through a combination of stationing and rotating Marines in Japan, Guam and Hawaii," the joint statement said.
-
-
-Japan has paid up to $2.8 billion for the building of infrastructure at the U.S. bases on Guam, and the United States will fund the remaining costs. The two governments will continue to cooperate on the development of Camp Blaz, which will serve as the main installation for Marines stationed in Guam.
-
-
-The Marines and Japan Self Defense Forces will conduct joint training in Guam, the statement said.
-
-
-Okinawa, which was under U.S. postwar occupation until 1972, is still home to a majority of the more than 50,000 American troops based in Japan under a bilateral security pact, while 70% of U.S. military facilities are on Okinawa, which accounts for only 0.6% of Japanese land.
-
-
-Many Okinawans have long complained about the heavy U.S. military presence on the island and say Okinawa faces noise, pollution, aircraft accidents and crime related to American troops.
-
-
-The relocation is likely to be welcomed by residents, but how much improvement they will feel is uncertain because of the rapid Japanese military buildup on Okinawan islands as a deterrence to threats from China.
-
-
-The start of the Marines relocation comes at a time of growing anti-U.S. military sentiment following a series of sexual assault cases involving American servicemembers.
-
-
-On Thursday, a senior Air Force servicemember belonging to the Kadena Air Base was convicted of the kidnapping and sexual assault of a teenage girl last year, a case that triggered outrage on the island. The Naha District Court sentenced him to five years in prison. 
-
-<br> 
-
-<https://www.voanews.com/a/us-marines-start-partial-transfer-from-japan-s-okinawa-to-guam/7901262.html>
-
----
-
-## Nutrition experts weigh in on US dietary guidelines
-
-date: 2024-12-14, from: VOA News USA
-
-Americans should eat more beans, peas and lentils and cut back on red and processed meats and starchy vegetables, all while continuing to limit added sugars, sodium and saturated fat.
-
-
-That's the advice released Tuesday by a panel of nutrition experts charged with counseling the U.S. government about the 2025 edition of the dietary guidelines that will form the cornerstone of federal food programs and policy.
-
-
-But the 20-member panel didn't weigh in on the growing role of ultraprocessed foods that have been linked to health problems, saying there's not enough evidence to tell people to avoid them. And the group steered clear of updating controversial guidance on alcohol consumption, leaving that analysis to two outside reports expected to be released soon.
-
-
-Overall, the recommendations for the 2025-30 Dietary Guidelines for Americans sound familiar, said Marion Nestle, a food policy expert.
-
-
-"This looks like every other set of dietary guidelines since 1980: eat your veggies and reduce consumption of foods high in salt, sugar and saturated fat," Nestle said in an email. "This particular statement says nothing about balancing calories, when overconsumption of calories, especially from ultra-processed foods, is the biggest challenge to the health of Americans."
-
-
-What the scientific panel said about healthy diets
-
-
-The nutrition panel concluded that a healthy diet for people aged 2 years and older is higher in vegetables, fruits, legumes, nuts, whole grains, fish and vegetable oils that are higher in unsaturated fat.
-
-
-It is lower in red and processed meats, sugar-sweetened foods and beverages, refined grains and saturated fat. It may also include fat-free or low-fat dairy and foods lower in sodium and may include plant-based foods.
-
-
-The panel, which met for nearly two years, was the first to focus on the dietary needs of Americans through what they called a "health equity lens," said Dr. Fatima Cody Stanford, a Massachusetts General Hospital obesity expert who was part of the group. That meant considering factors such as household income, race, ethnicity and culture when recommending healthy diets. It will help ensure that the guidance "reflects and includes various population groups," she said in an email.
-
-
-The panel didn't come to conclusions on ultraprocessed foods or alcohol
-
-
-Ultraprocessed foods include the snacks, sugary cereals and frozen meals that make up about 60% of the American diet.
-
-
-The panel considered more than 40 studies, including several that showed links between ultraprocessed foods and becoming overweight or developing obesity. But the nutrition experts had concerns with the quality of the research, leaving them to conclude that the evidence was too limited to make recommendations.
-
-
-That decision is likely to bump up against the views of Robert F. Kennedy Jr., the nominee to lead the U.S. Health and Human Services Department, who has questioned potential conflicts of interest among members of the dietary guidelines panel and vowed to crack down on ultraprocessed foods that contribute to chronic disease.
-
-
-The panel also didn't revise recommendations that suggest limiting alcohol intake to two drinks or less a day for men and one drink or less a day for women.
-
-
-In 2020, the last time the guidance was updated, the government rejected the advice of scientific advisers to recommend less alcohol consumption.
-
-
-Two groups — the National Academies of Science, Engineering and Medicine and a committee of the government agency that oversees substance abuse — are expected to release reports in the coming months on the effects of moderate alcohol use to inform the guidelines.
-
-
-Do Americans follow dietary guidelines?
-
-
-The advisory panel acknowledged that the diets of most Americans don't meet the current guidelines. More than half of all U.S. adults have one or more diet-related chronic health conditions and 18 million U.S. households have insecure sources of food, according to the report.
-
-
-"Nutrition-related chronic health conditions and their precursors continue to threaten health through the lifespan," the report concludes. "Which does not bode well for the future of health in the United States."
-
-
-What happens next?
-
-
-The scientific report informs the dietary guidelines, which are updated every five years. Tuesday's recommendations now go to HHS and the Agriculture Department, where officials will draft the final guidance set for release next year.
-
-
-Starting Wednesday, the public will have 60 days to comment on the guidance. HHS and USDA officials will hold a public meeting January 16 to discuss the recommendations.
-
-
-The new guidance, which will be finalized by the incoming Trump administration, is consistent with decades of federal efforts to reduce diet-related disease in the U.S., said Dr. Peter Lurie, president of the advocacy group Center for Science in the Public Interest.
-
-
-"Broadly, I think these are well-formulated recommendations that the incoming administration would do well to adopt," Lurie said. 
-
-<br> 
-
-<https://www.voanews.com/a/nutrition-experts-weigh-in-on-us-dietary-guidelines/7898473.html>
-
----
-
-## Nancy Pelosi hospitalized after fall on official trip to Luxembourg
-
-date: 2024-12-14, from: VOA News USA
-
-WASHINGTON — Former House Speaker Nancy Pelosi has been hospitalized after she “sustained an injury” during an official engagement in Luxembourg, according to a spokesperson.
-
-
-Pelosi, 84, was in Europe with a bipartisan congressional delegation to mark the 80th anniversary of the Battle of the Bulge in World War II. Her spokesperson, Ian Krager, said in a statement that she is "currently receiving excellent treatment from doctors and medical professionals" and is unable to attend the remainder of events on her trip.
-
-
-He did not describe the nature of her injury or give any additional details, but a person familiar with the incident said that Pelosi tripped and fell while at an event with the other members of Congress. Another person familiar with the situation said she injured her hip. The people requested anonymity to discuss the fall because they were not authorized to speak about it publicly.
-
-
-Krager said that Pelosi "looks forward to returning home to the U.S. soon."
-
-
-Among the members on the trip was Representative Michael McCaul, a Republican from Texas, who posted on social media that he was "praying for a speedy recovery" for Pelosi. The two lawmakers were captured holding hands in a group photo Friday at the U.S. Embassy in Luxembourg.
-
-
-"I’m disappointed Speaker Emerita Pelosi won’t be able to join the rest of our delegation’s events this weekend as I know how much she looked forward to honoring our veterans," McCaul wrote on X. "But she is strong, and I am confident she will be back on her feet in no time."
-
-
-The former leader's fall comes two years after her husband, Paul, was attacked by a man with a hammer at their San Francisco home. The man, who was sentenced in October to 30 years in federal prison, broke into their home looking for Pelosi.
-
-
-Pelosi, who was first elected in 1987 and served as speaker twice, stepped down from her leadership post two years ago but remained in Congress and was re-elected to represent her San Francisco district in November.
-
-
-She has remained active in the two years since she left the top job, working with Democrats in private and in public and attending official events. Last summer, she was instrumental in her party's behind the scenes push to urge President Joe Biden to leave the presidential ticket.
-
-
-She attended the Kennedy Center Honors in Washington last weekend and was on the Senate floor Monday to attend the swearing in of her former Democratic House colleagues, Adam Schiff of California and Andy Kim of New Jersey.
-
-
-Earlier this week, Senate Republican Leader Mitch McConnell, 82, tripped and fell in the Senate, spraining his wrist and cutting his face. McConnell, who is stepping down from his leadership post at the end of the year, missed Senate votes on Thursday after experiencing some stiffness in his leg from the fall, his office said. 
-
-<br> 
-
-<https://www.voanews.com/a/nancy-pelosi-hospitalized-after-fall-on-official-trip-to-luxembourg/7901153.html>
-
----
-
-## Texas attorney general sues NY doctor over abortion pill prescription
-
-date: 2024-12-14, from: VOA News USA
-
-Texas Attorney General Ken Paxton on Friday sued a New York doctor for allegedly providing a Texas woman with abortion pills by telemedicine.
-
-
-The lawsuit by the Republican attorney general, which appeared to be the first of its kind, could offer a test of conservative states' power to stop abortion pills from reaching their residents.
-
-
-New York is among the Democratic-led states that have passed so-called shield laws aiming to protect doctors who provide abortion pills to patients in other states. The law says New York will not cooperate with another state's effort to prosecute, sue or otherwise penalize a doctor for providing the pills, as long as the doctor complies with New York law.
-
-
-"As other states move to attack those who provide or obtain abortion care, New York is proud to be a safe haven for abortion access," New York Attorney General Letitia James said in a statement. "We will always protect our providers from unjust attempts to punish them for doing their job and we will never cower in the face of intimidation or threats."
-
-
-In the lawsuit, filed in the District Court of Collin County, Paxton said that New Paltz, New York, Dr. Margaret Carpenter prescribed and provided mifepristone and misoprostol, the two drugs used in medication abortion, to a Texas woman via telemedicine.
-
-
-Medication abortion accounts for more than half of U.S. abortions. It has drawn increasing attention since the U.S. Supreme Court's 2022 decision allowing states to ban abortion, which more than 20 have done.
-
-
-The woman went to the hospital after experiencing bleeding as a complication of taking the drugs, which were subsequently discovered by her partner, according to the lawsuit.
-
-
-Paxton claimed that Carpenter violated Texas's abortion law and its occupational licensing law by practicing medicine in the state despite not being licensed there. He is seeking an injunction barring her from further violations of Texas's abortion ban and at least $100,000 in civil penalties for each past violation.
-
-
-Carpenter is a member of the Abortion Coalition for Telemedicine, which supports nationwide access to abortion through telemedicine, and helped start Hey Jane, an online telehealth clinic offering abortion pills, according to the coalition's website. She could not immediately be reached for comment. 
-
-<br> 
-
-<https://www.voanews.com/a/texas-attorney-general-sues-ny-doctor-over-abortion-pill-prescription/7901138.html>
-
----
-
-## Chinese migrants in US illegally uneasy after fourth removal flight
-
-date: 2024-12-14, from: VOA News USA
-
-WASHINGTON — After more than two years of separation, Chinese migrant Duan Chunxia, 51, recently met face to face with her husband and daughter at Stewart Detention Center, a U.S. Immigration and Customs Enforcement facility in Georgia.
-
-
-“My wife has lost a lot of weight, and her hair turned gray,” her husband, Ni Jinfang, told VOA Mandarin in an emotional video interview. “Our daughter cried so much when she saw her mother. Her tears were all over her face and neck.”
-
-
-That tearful reunion on December 1 was the latest in an emotional roller-coaster ride for the family as they’ve separately come to the United States seeking political asylum.
-
-
-Following the COVID-19 pandemic, there was a surge in Chinese nationals entering the United States illegally and seeking asylum. Over the past year, those numbers have dwindled, and U.S. authorities are stepping up efforts to send a growing number back to China.
-
-
-There is also increasing concern among undocumented migrants from China about President-elect Donald Trump’s pledge to carry out mass deportations.
-
-
-Deportation flights
-
-
-Just days after Duan met with her family, she was scheduled to be sent back to China on a U.S. government-chartered removal flight.
-
-
-That flight departed Monday, but Duan was not on it. Following a second asylum interview, authorities agreed to give her more time to appeal the deportation order.
-
-
-
-
-The charter flight marked the fourth time in six months that the United States has deported undocumented migrants back to China. Three previous flights in June, October and November carried a total of at least 350 Chinese citizens back to their homeland.
-
-
-The last previous large-scale repatriation occurred in 2018.
-
-
-Growing cooperation
-
-
-In a statement Wednesday, the U.S. Department of Homeland Security (DHS) said the flight “is yet another example of the department’s ongoing cooperation with [China] and other international partners to deter irregular migration.”
-
-
-It added that DHS and its counterparts in China “also continue joint work to counter the human smuggling networks that facilitate irregular migration.” DHS did not say how many migrants were on the flight.
-
-
-Chen Chuangchuang, an immigration lawyer in California, told VOA Mandarin that the Chinese and U.S. governments have cooperated more closely on immigration issues this year than previously.
-
-
-"In the past, China rarely cooperated with the U.S. government in accepting illegal migrants,” Chen told VOA in a December phone interview. “China has recently exchanged prisoners with the U.S. many times and also accepted undocumented people. [Chinese leader] Xi Jinping calls it ‘law enforcement cooperation’ rather than ‘border and immigration issues.’ ” 
-
-
-How they arrived
-
-
-Ni, 53, and the couple’s 18-year-old daughter entered the U.S. on  tourist visas in 2022. After Duan’s husband and daughter left China, she applied for a tourist visa the following year, but her application was rejected.
-
-
-More than one year after that, in late September, she illegally entered the U.S., crossing the southern border with Mexico.
-
-
-
-
-Duan made the hazardous journey through Ecuador and then traveled overland through Colombia, Central America and Mexico to the U.S. border.
-
-
-Both Duan and Ni are from China’s central city of Suzhou, just outside Shanghai. The city is relatively wealthy but human rights violations are not unheard of.
-
-
-In 2012, Ni lost his house and land following a government-led forced demolition. He tried to sue the local government in 2013 but was not given a chance to file his lawsuit. He continued to petition the government without result. In 2016, Ni was assaulted by local police officers and put in jail for 171 days for the crime of "disturbing public order."
-
-
-Ni continued to speak against the Chinese government after coming to the United States and participated in a protest in San Francisco last November, when Xi visited the city for the APEC summit and met with U.S. President Joe Biden.
-
-
-Panicking
-
-
-Another Chinese immigrant who entered the United States last year via the same route as Duan and is now living in New York state spoke with VOA on the condition that his name not be used because of his undocumented status.
-
-
-In a telephone interview, he said that with the recent deportations and Trump’s pledges, many in the Chinese immigrant community are a little panicked.
-
-
-"After he takes office, everyone will be worried about being deported, not just us illegal immigrants,” he said. “The ones with green cards, aren’t they afraid, too?"
-
-
-Before entering the United States, this man said he had openly criticized Xi on Chinese social media. He said that if he is deported, he will undoubtedly face a prison sentence in China.
-
-
-The man, who is in his 30s, has already begun applying for political asylum and is still hopeful.
-
-
-“Although I don't like this result [Trump's victory], this is the choice of the American people, and there is nothing I can do. We are all entering an uncertain era, and everyone's future is uncertain,” he said.
-
-
-Immigration lawyer Chen said that Chinese immigrants in the U.S. who have not yet obtained legal status do face a “real threat.”
-
-
-“The Republicans have already occupied both houses [of Congress], and conservatives also have a clear advantage in the Supreme Court," he said. "We can say with absolute certainty that the second Trump administration will have way more resources, in terms of manpower, law and finances, to support the implementation of his deportation plan. This is bound to happen.”
-
-
-However, Chen does not think that all Chinese immigrants who apply for asylum will be unsuccessful.
-
-
-“For those who have a deportation order, if you have a legal reason to apply to stay in the U.S., there is still a chance for review. It’s not easy though. The standard will be raised,” Chen said, adding that individuals need to prove that they will be persecuted if they return to their home country. 
-
-<br> 
-
-<https://www.voanews.com/a/illegal-chinese-immigrants-uneasy-as-us-conducts-fourth-china-removal-flight-/7901128.html>
-
----
-
-## US court rejects TikTok request to temporarily halt pending US ban
-
-date: 2024-12-14, from: VOA News USA
-
-WASHINGTON  — A U.S. appeals court on Friday rejected an emergency bid by TikTok to temporarily block a law that would require its Chinese parent company ByteDance to divest the short-video app by January 19 or face a ban on the app.
-
-
-TikTok and ByteDance on Monday filed the emergency motion with the U.S. Court of Appeals for the District of Columbia, asking for more time to make its case to the U.S. Supreme Court. Friday's ruling means that TikTok now must quickly move to the Supreme Court in an attempt to halt the pending ban.
-
-
-The companies had warned that without court action, the law will "shut down TikTok — one of the nation's most popular speech platforms — for its more than 170 million domestic monthly users."
-
-
-"The petitioners have not identified any case in which a court, after rejecting a constitutional challenge to an Act of Congress, has enjoined the Act from going into effect while review is sought in the Supreme Court," the D.C. Circuit said.
-
-
-TikTok did not immediately respond to a request for comment.
-
-
-Under the law, TikTok will be banned unless ByteDance divests it by January 19. The law also gives the U.S. government sweeping powers to ban other foreign-owned apps that could raise concerns about collection of Americans' data.
-
-
-The U.S. Justice Department argues "continued Chinese control of the TikTok application poses a continuing threat to national security."
-
-
-TikTok says the Justice Department has misstated the social media app's ties to China, arguing its content recommendation engine and user data are stored in the U.S. on cloud servers operated by Oracle while content moderation decisions that affect U.S. users are made in the U.S. 
-
-<br> 
-
-<https://www.voanews.com/a/us-court-rejects-tiktok-request-to-temporarily-halt-pending-us-ban-/7901118.html>
 

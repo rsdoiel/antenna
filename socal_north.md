@@ -1,11 +1,220 @@
 ---
 title: socal north
-updated: 2024-12-21 07:05:34
+updated: 2024-12-22 07:04:55
 ---
 
 # socal north
 
-(date: 2024-12-21 07:05:34)
+(date: 2024-12-22 07:04:55)
+
+---
+
+## Our non-exhaustive list of great music out of SoCal in 2024
+
+date: 2024-12-22, updated: 2024-12-22, from: The LAist
+
+It's hard to stay on top of all the great music coming out of Southern California, even if you live and breathe it. So here are a few recommendations from 2024 to get you started. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/our-non-exhaustive-list-of-great-music-out-of-socal-in-2024>
+
+---
+
+## Legal Aid Foundation sues city of LA alleging lack of transparency in towing practices
+
+date: 2024-12-22, updated: 2024-12-22, from: The LAist
+
+The lawsuit alleges years of unanswered public record requests directed toward city offices, including the L.A. Department of Transportation. 
+
+<br> 
+
+<https://laist.com/news/transportation/legal-aid-foundation-sues-city-of-la-alleging-lack-of-transparency-in-towing-practices>
+
+---
+
+## AAPI leaders in SoCal join renewed effort to confirm Julie Su as labor secretary
+
+date: 2024-12-22, updated: 2024-12-22, from: The LAist
+
+Su, formerly California's top labor official, has served as President Joe Biden's acting secretary of labor for nearly two years. 
+
+<br> 
+
+<https://laist.com/news/politics/aapi-leaders-socal-join-call-to-confirm-julie-su-as-labor-secretary>
+
+---
+
+## These sign makers are restoring LA to its neon glory, one display at a time
+
+date: 2024-12-22, updated: 2024-12-22, from: The LAist
+
+Signmakers LA makes all kinds of signs, but they have become the go-to folks to fix and make vintage neon signs. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/signmakers-neon-signs-los-angeles>
+
+---
+
+## Fourth Year of the SC2025 Strategic Plan
+
+date: 2024-12-21, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin The new year is just around the corner and with the change of the calendar, we will be in the homestretch of the City’s Strategic Plan &#8211; Santa Clarita 2025 (SC2025). Looking back over the past 12 months, we checked off many key action items in this extensive Plan. Some [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/12/21/fourth-year-of-the-sc2025-strategic-plan/">Fourth Year of the SC2025 Strategic Plan</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/12/21/fourth-year-of-the-sc2025-strategic-plan/>
+
+---
+
+## Saturday Night Live Alum Melissa Villaseñor to Host 65th Annual LA County Holiday Celebration
+
+date: 2024-12-21, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Stand-up comedian, actor, voice impressionist, visual artist and Los Angeles native Melissa Villaseñor, who broke barriers by becoming the first-ever Latina cast member of Saturday Night Live, is set to [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/21/saturday-night-live-alum-melissa-villasenor-to-host-65th-annual-la-county-holiday-celebration/">Saturday Night Live Alum Melissa Villaseñor to Host 65th Annual LA County Holiday Celebration</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/21/saturday-night-live-alum-melissa-villasenor-to-host-65th-annual-la-county-holiday-celebration/>
+
+---
+
+## Blake Lively sues 'It Ends With Us' co-star alleging sexual harassment and retaliation
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+The lawsuit, filed on Friday, alleges inappropriate conduct perpetrated by film co-star and director Justin Baldoni, and lead producer Jamey Heath. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/blake-lively-sues-it-ends-with-us-co-star-for-sexual-harassment-and-retaliation>
+
+---
+
+## A pair of satellites will create artificial solar eclipses to study the sun
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+Astronomers hope the Proba-3 mission will help them get a better view of the corona, the sun's outer atmosphere, which is even hotter than the sun's surface. 
+
+<br> 
+
+<https://laist.com/news/a-pair-of-satellites-will-create-artificial-solar-eclipses-to-study-the-sun>
+
+---
+
+## The FDA restricts a psychoactive mushroom used in some edibles
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+The Food and Drug Administration has told food manufacturers the psychoactive mushroom Amanita muscaria isn't authorized for food, including edibles, because it doesn't meet safety standards. 
+
+<br> 
+
+<https://laist.com/news/food/the-fda-restricts-a-psychoactive-mushroom-used-in-some-edibles>
+
+---
+
+## In a lawsuit, CFPB says 3 top U.S. banks failed to protect consumers from Zelle fraud
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+The consumer financial watchdog says customers of the top three banks lost more than $870 million over seven years due to a lack of safeguards against fraud on the Zelle network. 
+
+<br> 
+
+<https://laist.com/news/in-a-lawsuit-cfpb-says-3-top-u-s-banks-failed-to-protect-consumers-from-zelle-fraud>
+
+---
+
+## Go Fact Yourself quiz for December 21
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+Our celebrity panelists Cameron Esposito and Chris Grace go head to head this week on their knowledge of the TV series 'The L Word' and the podcast 'Never Not Funny.' Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-december-21>
+
+---
+
+## LAX is expecting some 3 million air passengers this holiday season
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+TSA is expecting record number of travelers nationally this year. Here's what LAX is looking at. 
+
+<br> 
+
+<https://laist.com/news/we-are-in-the-thick-of-holiday-travel-season-and-the-belly-of-the-beast-is-lax>
+
+---
+
+## LA County's newest historical landmark is a grave that marks a little-known piece of CA history
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+The late Altadena resident Owen Brown was famed abolitionist John Brown's son. Like his father, he also participated in the Harpers Ferry raid. Later, the younger Brown settled in Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/la-county-historical-landmark-grave-altadena-california-history>
+
+---
+
+## Go Fact Yourself quiz for December 21
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+Our celebrity panelists Cameron Esposito and Chris Grace go head to head this week on their knowledge of the TV series 'The L Word' and the podcast 'Never Not Funny.' Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<>
+
+---
+
+## Asian American groups call for action against comments made by KFI host
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+Bill Handel has repeatedly referred to Asians as eating cats and dogs. 
+
+<br> 
+
+<https://laist.com/news/asian-american-groups-call-for-action-against-comments-made-by-kfi-host>
+
+---
+
+## Are postpartum mothers getting support during the Kaiser mental health worker strike?
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+The union representing 2,400 picketing Kaiser employees says postpartum psychotherapy groups are being canceled. 
+
+<br> 
+
+<https://laist.com/news/postpartum-mothers-psychotherapy-sessions-kaiser-mental-health-strike>
+
+---
+
+## University of California resolves federal complaints over its handling of discrimination cases
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+The U.S. Department of Education investigated complaints that five campuses didn't properly address harassment or discrimination related to protests over the war in Gaza. 
+
+<br> 
+
+<https://laist.com/news/education/university-of-california-resolution-federal-complaints-discrimination>
 
 ---
 
@@ -293,7 +502,7 @@ The long-necked animals are among the world’s largest lizards.
 
 date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="684" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?fit=1024%2C684&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=1024%2C684&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=2048%2C1367&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=1568%2C1047&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=2000%2C1335&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?fit=1024%2C684&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="684" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?fit=1024%2C684&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=1024%2C684&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=2048%2C1367&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=1568%2C1047&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=2000%2C1335&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_11-scaled.jpg?fit=1024%2C684&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>LOS ANGELES (CNS) &#8211; In honor of International Migrants Day, local organizations and hundreds of people rallied in downtown Los Angeles yesterday in an act of solidarity with immigrants, who [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/12/19/chirla-leads-rally-in-downtown-la-for-international-migrants-day/">CHIRLA Leads Rally in Downtown LA for International Migrants Day</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -430,7 +639,7 @@ Besides Rhiannon Do, Andrew Do’s other daughter received $100,000 in stolen ta
 
 date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="730" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?fit=1024%2C730&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?w=1536&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=300%2C214&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=1024%2C730&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=768%2C548&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=1200%2C855&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=400%2C285&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=706%2C503&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?fit=1024%2C730&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="730" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?fit=1024%2C730&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?w=1536&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=300%2C214&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=1024%2C730&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=768%2C548&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=1200%2C855&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=400%2C285&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?resize=706%2C503&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/IMG_20241217_154930-2_elsol.jpg?fit=1024%2C730&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A partir de las 6:00 a.m., las familias comenzaron a hacer fila en las aceras afuera del Parque Recreativo David Gonzales en Pacoima para el tercer sorteo anual de juguetes, [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/12/18/el-sorteo-y-festival-de-juguetes-pacoima-holiday-in-the-park-trae-grandes-sonrisas/">El Sorteo y Festival de Juguetes &#8216;Pacoima Holiday in the Park&#8217; Trae Grandes Sonrisas</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -445,7 +654,7 @@ date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="780" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?fit=780%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?resize=229%2C300&amp;ssl=1 229w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?resize=780%2C1024&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?resize=768%2C1008&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?resize=400%2C525&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?resize=706%2C926&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?fit=780%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="780" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?fit=780%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?resize=229%2C300&amp;ssl=1 229w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?resize=780%2C1024&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?resize=768%2C1008&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?resize=400%2C525&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?resize=706%2C926&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/GiftBag_elsol.jpg?fit=780%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Siempre me encantó bromear con mi papá que si buscabas la palabra “frugal”, ¡su foto estaría sonriendo justo al lado! Es solo un recordatorio divertido de lo ingenioso e inteligente [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/12/18/bolsa-de-regalo-que-bolsa-de-regalo/">¿Bolsa de Regalo? ¿Qué Bolsa de Regalo?</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -488,7 +697,7 @@ date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="720" height="405" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?fit=720%2C405&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?w=720&amp;ssl=1 720w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?fit=720%2C405&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="720" height="405" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?fit=720%2C405&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?w=720&amp;ssl=1 720w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Frank-Padilla.jpg?fit=720%2C405&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>En la víspera del Día de Acción de Gracias, Frank Padilla estaba cruzando la intersección de Terra Bella Street y Dorrington Avenue en Arleta cuando ocurrió una tragedia: un Dodge [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/12/18/el-accidente-de-atropello-y-fuga-que-mato-a-un-peaton-en-arleta-aun-esta-bajo-investigacion/">El Accidente de Atropello y Fuga Que Mató a un Peatón en Arleta aún está Bajo Investigación</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -503,7 +712,7 @@ date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/L1740633-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>La semana pasada, el programa de Tecnología Automotriz de la Escuela Secundaria San Fernando (SFHS) recibió un Ford Explorer 2023 de Ford Motor Company y Galpin Ford Dealership, para ayudar [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/12/18/la-escuela-preparatoria-de-san-fernando-recibe-un-nuevo-auto-de-galpin-ford-para-el-programa-automotriz/">La Escuela Preparatoria de San Fernando Recibe un Nuevo Auto de Galpin Ford para el Programa Automotriz</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -518,7 +727,7 @@ date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=1536%2C1156&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=2048%2C1542&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=1200%2C903&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=1568%2C1180&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=2000%2C1506&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=1536%2C1156&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=2048%2C1542&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=1200%2C903&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=1568%2C1180&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=2000%2C1506&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241214_174449745_elsol.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Continuando con la tradición de difundir la alegría de la temporada y mostrar el orgullo de su comunidad de base, Pacoima celebró su 57º Desfile Navideño Anual el sábado 14 [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/12/18/caballos-rampantes-bandas-de-musica-y-lowriders-regresan-para-el-57o-desfile-anual-de-pacoima/">Caballos Rampantes, Bandas de Música y Lowriders Regresan para el 57º Desfile Anual de Pacoima</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -533,7 +742,7 @@ date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-12-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1009" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?fit=1009%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=296%2C300&amp;ssl=1 296w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=1009%2C1024&amp;ssl=1 1009w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=768%2C779&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=1514%2C1536&amp;ssl=1 1514w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=1200%2C1218&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=1568%2C1591&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=400%2C406&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=706%2C716&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?fit=1009%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1009" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?fit=1009%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=296%2C300&amp;ssl=1 296w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=1009%2C1024&amp;ssl=1 1009w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=768%2C779&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=1514%2C1536&amp;ssl=1 1514w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=1200%2C1218&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=1568%2C1591&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=400%2C406&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=706%2C716&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12142024_Santa-Fly-In_SN_26-scaled-e1734586280451.jpeg?fit=1009%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>an típica, una fila de niños ansiosos saludaba y vitoreaba mientras Papá Noel volaba sobre sus cabezas en lo más parecido a un trineo, un pequeño avión de cuatro plazas. [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/12/18/el-aeropuerto-de-van-nuys-invita-a-la-comunidad-al-aerodromo-para-el-vuelo-anual-de-santa-claus/">El Aeropuerto de Van Nuys Invita a la Comunidad al Aeródromo para el Vuelo Anual de Santa Claus</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -1048,6 +1257,18 @@ Once Upon a Mattress brings Broadway joy to the Ahmanson, Billie Eilish slays at
 
 ---
 
+## These unique SoCal desserts will make you the holiday party MVP
+
+date: 2024-12-16, updated: 2024-12-20, from: The LAist
+
+Treats you might not have tried but will have everyone talking. 
+
+<br> 
+
+<https://laist.com/news/these-unique-socal-desserts-will-make-you-the-holiday-party-mvp>
+
+---
+
 ## What is the LAUSD school board and how do I put them to work for me?
 
 date: 2024-12-16, updated: 2024-12-18, from: The LAist
@@ -1069,18 +1290,6 @@ Some cities are requiring residents to put food waste in plastic bags. We follow
 <br> 
 
 <https://laist.com/news/climate-environment/food-waste-plastic-bags-we-found-out-why>
-
----
-
-## These unique SoCal desserts will make you the holiday party MVP
-
-date: 2024-12-16, updated: 2024-12-16, from: The LAist
-
-Treats you might not have tried but will have everyone talking. 
-
-<br> 
-
-<https://laist.com/news/these-unique-socal-desserts-will-make-you-the-holiday-party-mvp>
 
 ---
 
@@ -1165,129 +1374,4 @@ Ohio and 16 other Republican-dominated states have sued, asserting that a waiver
 <br> 
 
 <https://laist.com/news/supreme-court-to-hear-challenge-to-californias-authority-to-set-vehicle-emissions-standards>
-
----
-
-## Happy 37th Birthday Santa Clarita
-
-date: 2024-12-14, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin This Sunday, December 15, 2024 – the City of Santa Clarita will mark its 37th birthday. Back in 1987, the City of Santa Clarita became the largest area ever to incorporate. Our new City was 39-square-miles and included the communities of Saugus, Newhall, Valencia and Canyon Country. Since then, more [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2024/12/14/happy-37th-birthday-santa-clarita/">Happy 37th Birthday Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2024/12/14/happy-37th-birthday-santa-clarita/>
-
----
-
-## California's second biggest homeowner insurer is stepping up coverage, a sign of turning tide
-
-date: 2024-12-14, updated: 2024-12-14, from: The LAist
-
-After companies spent years fleeing California’s insurance market following catastrophic wildfires and inflation, Farmers Insurance is reopening some closed lines of coverage starting today. 
-
-<br> 
-
-<https://laist.com/news/californias-biggest-homeowner-insurer-to-step-up-coverage-in-state-a-sign-of-turning-tide>
-
----
-
-## South Korea's parliament votes to impeach President Yoon Suk Yeol
-
-date: 2024-12-14, updated: 2024-12-14, from: The LAist
-
-South Korea's parliament impeached President Yoon Suk Yeol for his attempt to impose martial law, the first time such a measure had been imposed on the nation in more than four decades. 
-
-<br> 
-
-<https://laist.com/news/south-koreas-parliament-votes-to-impeach-president-yoon-suk-yeol>
-
----
-
-## Why Gen Zs are drawn to the art of Yoshitomo Nara — and how an LA show is deepening their bond
-
-date: 2024-12-14, updated: 2024-12-14, from: The LAist
-
-An exhibition on climate change at the Hammer Museum is closing in January. It features a popular Japanese artist beloved by Gen Zs. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/why-gen-zs-are-drawn-to-the-art-of-yoshitomo-nara-and-how-an-la-show-is-deepening-their-bond>
-
----
-
-## Say goodbye to late night sweet treats at Torrance’s Sleepy Hollow holiday lights
-
-date: 2024-12-14, updated: 2024-12-14, from: The LAist
-
-Residents are no longer allowed to sell food outside their home after 5 p.m. at the popular attraction. 
-
-<br> 
-
-<https://laist.com/news/torrance-sleepy-hollow-holiday-lights-food-sales-ban>
-
----
-
-## A tiny IKEA has opened in Arcadia. Here’s what you can find
-
-date: 2024-12-14, updated: 2024-12-14, from: The LAist
-
-It's the latest “small-format” concept store by the Swedish furniture giant to open in the country. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/tiny-ikea-arcadia-guide>
-
----
-
-## Go Fact Yourself quiz for December 14
-
-date: 2024-12-14, updated: 2024-12-14, from: The LAist
-
-Our celebrity panelists Cory Doctorow and Aida Rodriguez go head to head this week on their knowledge of Disney's Haunted Mansion ride and Prince's album, 'Purple Rain.' Think you might know more than they do? Go Fact Yourself! 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-december-14>
-
----
-
-## LAPD Apprehends Suspect After Attempted Break-Ins and Shootings in San Fernando and Sylmar
-
-date: 2024-12-14, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
-
-<figure><img width="600" height="400" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/03/LAPD-car.jpg?fit=600%2C400&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/03/LAPD-car.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/03/LAPD-car.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/03/LAPD-car.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/03/LAPD-car.jpg?fit=600%2C400&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>An armed suspect is in custody after multiple calls of attempted break-ins and shootings last night in the City of San Fernando and Sylmar. The Los Angeles Police Department (LAPD) [&#8230;]</p>
-<p>The post <a href="https://sanfernandosun.com/2024/12/13/lapd-apprehends-suspect-after-attempted-break-ins-and-shootings-in-san-fernando-and-sylmar/">LAPD Apprehends Suspect After Attempted Break-Ins and Shootings in San Fernando and Sylmar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
- 
-
-<br> 
-
-<https://sanfernandosun.com/2024/12/13/lapd-apprehends-suspect-after-attempted-break-ins-and-shootings-in-san-fernando-and-sylmar/>
-
----
-
-## There's still time to enroll in LAUSD's Winter Academy
-
-date: 2024-12-14, updated: 2024-12-14, from: The LAist
-
-The L.A. Unified School District is hosting a three-day winter academy next week, open to students in transitional kindergarten through 12th grade. 
-
-<br> 
-
-<https://laist.com/news/education/lausd-winter-academy-2024>
-
----
-
-## Valencia Branch Temporary Closure FAQ​
-
-date: 2024-12-14, from: Santa Clarita Public Library
-
-Valencia Branch Temporary Closure FAQ The Valencia Library will be temporarily closed December 21, 2024 through January 1, 2025 for renovations. During this time, library staff will be providing a curbside service for patrons to pick up their holds. Please note that the Old Town Newhall Library and the Canyon Country Jo Anne Darcy Library [&#8230;] 
-
-<br> 
-
-<https://www.santaclaritalibrary.com/2024/12/13/valencia-branch-temporary-closure-faq/>
 

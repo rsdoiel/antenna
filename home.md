@@ -1,11 +1,51 @@
 ---
 title: home
-updated: 2024-12-21 07:05:37
+updated: 2024-12-22 07:04:58
 ---
 
 # home
 
-(date: 2024-12-21 07:05:37)
+(date: 2024-12-22 07:04:58)
+
+---
+
+## These Are the Most Festive Holiday Bars to Visit Right Now
+
+date: 2024-12-21, from: Sunset Magazine - Living in the West
+
+These bars across the West are all decked out for the holidays. Now is the time to enjoy festive drinks before it's too late. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/holiday-bars-in-the-west>
+
+---
+
+## Want kids to eat vegetables? Grow them
+
+date: 2024-12-21, from: Greg Alder's blog, Yard Post
+
+<p>Over the years I’ve noticed a phenomenon that I have to share because I hear some parents talk of their kids not wanting to eat vegetables. One thing that I guarantee will increase their consumption is allowing them to graze. Grow what you want them to eat, and then give them access. They will take [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/want-kids-to-eat-vegetables-grow-them/">Want kids to eat vegetables? Grow them</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/want-kids-to-eat-vegetables-grow-them/>
+
+---
+
+## Rare Plant of the Month: Morro manzanita
+
+date: 2024-12-21, from: California Native Plants Society
+
+<p>Morro manzanita has a California Rare Plant Rank of 1B.1 and is Federally listed as Threatened. In its limited range, it grows on specialized sandy soils in chaparral, oak woodland, coastal dunes, and coastal scrub, including coast live oak elfin forest habitat.</p>
+<p>The post <a href="https://www.cnps.org/rare-plants/rare-plant-of-the-month-morro-manzanita-41566">Rare Plant of the Month: Morro manzanita</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/rare-plants/rare-plant-of-the-month-morro-manzanita-41566>
 
 ---
 
@@ -1287,18 +1327,6 @@ When a couple in Toronto needed their space to accommodate a wheelchair, Omar Ga
 
 ---
 
-## These Are the Most Festive Holiday Bars to Visit Right Now
-
-date: 2024-12-17, from: Sunset Magazine - Living in the West
-
-These bars across the West are all decked out for the holidays. Now is the time to enjoy festive drinks before it's too late. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/wine-pairings/holiday-bars-in-the-west>
-
----
-
 ## This Trending Japanese Plant Is the Most Dramatic Holiday Centerpiece We’ve Seen
 
 date: 2024-12-17, from: Sunset Magazine - Living in the West
@@ -1534,46 +1562,4 @@ Celebrity astrologer Meghan Rose shares where you should book your winter trip a
 <br> 
 
 <https://www.sunset.com/travel/where-to-travel-this-winter-based-on-your-zodiac-sign>
-
----
-
-## How to Propagate Orchids: Five Methods
-
-date: 2024-12-14, from: The Gardener's Path
-
-<p>Orchids are unique and can be mystifying, especially when it comes to propagation. There are a number of different ways to propagate them, including from seed, by division and from stem cuttings, depending on the type you are growing. Learn about the different methods of propagating orchids in this guide. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/propagate-orchids/">How to Propagate Orchids: Five Methods</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/propagate-orchids/>
-
----
-
-## Easy Sourdough Discard Crackers Recipe (Optional Cheese or Herbs)
-
-date: 2024-12-14, from: Homestead and Chil
-
-<p>Looking for ways to use sourdough starter discard? Come make delectable, crispy, savory crackers with our sourdough discard crackers recipe, including step-by-step photos. The recipe is easy and flexible - keep them plain, or add optional cheese, herbs, or other seasonings.</p>
-<p>The post <a href="https://homesteadandchill.com/sourdough-discard-crackers-recipe/">Easy Sourdough Discard Crackers Recipe (Optional Cheese or Herbs)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
- 
-
-<br> 
-
-<https://homesteadandchill.com/sourdough-discard-crackers-recipe/>
-
----
-
-## Rats! Protecting your garden fruits and vegetables
-
-date: 2024-12-14, from: Greg Alder's blog, Yard Post
-
-<p>At least squirrels work in daylight, such that it is easily observed if they’re chewing and stealing your produce. But rats! Nocturnal, sneaky, fecund, voracious. How to protect your garden fruits and vegetables from them? There are no rats doing damage among my vegetables or fruit trees these days because I have skilled hunter cats [&#8230;]</p>
-<p>The post <a href="https://gregalder.com/yardposts/rats-protecting-your-garden-fruits-and-vegetables/">Rats! Protecting your garden fruits and vegetables</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
- 
-
-<br> 
-
-<https://gregalder.com/yardposts/rats-protecting-your-garden-fruits-and-vegetables/>
 

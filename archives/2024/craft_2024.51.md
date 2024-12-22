@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-12-21 07:05:39
+updated: 2024-12-22 07:04:59
 ---
 
 # craft
 
-(date: 2024-12-21 07:05:39)
+(date: 2024-12-22 07:04:59)
+
+---
+
+## A Miscellany of 19th-century Tennessee Cabinetmakers & Chairmakers
+
+date: 2024-12-21, from: Lost Arg Press blog
+
+Well before gaining statehood in 1796, carpenters, cabinetmakers and chairmakers were leaving Eastern Seaboard states to settle in Tennessee. They crossed the mountains using The Great Road (also known as The Great Wagon Road). They advertised their services in local newspapers and, very fortunately for me, and possibly for you, these ads were collected by... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/21/a-miscellany-of-19th-century-tennessee-cabinetmakers-chairmakers/>
 
 ---
 
@@ -107,28 +119,4 @@ If access to wood (or lumberyard anxiety) is what&#8217;s holding you back from 
 <br> 
 
 <https://blog.lostartpress.com/2024/12/16/chest-chair-kits-from-alexander-bros/>
-
----
-
-## LAP Open Wire, Dec. 14, 2024
-
-date: 2024-12-14, from: Lost Arg Press blog
-
-Update: Comments are now closed (we will answer any unanswered questions tonight or tomorrow). Thanks all! If you have a woodworking question, now is your chance to ask it! Post it in the comments below between now and 5 p.m. Eastern and will do out best to answer everyone (in between working on chairs and... 
-
-<br> 
-
-<https://blog.lostartpress.com/2024/12/14/lap-open-wire-dec-14-2024/>
-
----
-
-## Low-Stress Archtop Guitar Design
-
-date: 2024-12-14, from: Guild of American Luthiers
-
-Low-Stress Archtop Guitar Design by Steve Grimes from his 2008 GAL Convention workshop Originally published in American Lutherie #101, 2010 Before I was a luthier I worked as a draftsman for Boeing. I’d rest my head in my hand and hold my pencil, and I could log in a half-hour or 45-minute nap. In 1972 I [&#8230;] 
-
-<br> 
-
-<https://luth.org/2010_0265400-grimes-low-stress/>
 

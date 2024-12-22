@@ -1,11 +1,63 @@
 ---
 title: food
-updated: 2024-12-21 07:05:38
+updated: 2024-12-22 07:04:59
 ---
 
 # food
 
-(date: 2024-12-21 07:05:38)
+(date: 2024-12-22 07:04:59)
+
+---
+
+## Coffee Coffee Coffee ACK! We’ve Got Just The Beans For You This Weekend
+
+date: 2024-12-22, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. A weekly selection of coffees from the Sprudge Roaster's Village. 
+
+<br> 
+
+<https://sprudge.com/coffee-coffee-coffee-ack-weve-got-just-the-beans-for-you-this-weekend-262714.html>
+
+---
+
+## Holiday Recipes
+
+date: 2024-12-22, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2017/12/Holiday-Recipes-1.jpg"/></div>
+<p>The best recipes for the perfect holiday food from breakfasts, to snacks, dinner, sides and dessert! The holidays are coming! For me the holidays are all about family, friends and good food so I like to have a lot of recipes on hand for everything from breakfasts to snacks and appetizers to the all important...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/holiday-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/holiday-recipes/">Holiday Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/holiday-recipes/>
+
+---
+
+## 11 Tempeh Recipes for Delicious Plant-Based Meals
+
+date: 2024-12-21, from: Bon Appetet
+
+Like a vegan take on kung pao, hummus bowls with merguez crumbles, and more easy ways to use the soy-based protein. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/best-tempeh-recipes>
+
+---
+
+## 41 Easy Appetizers for Less Stressing, More Snacking
+
+date: 2024-12-21, from: Bon Appetet
+
+Like dip made from giardineira, marinated cheeses galore, and pigs-in-a-blanket Chicago-style. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/easy-appetizers-15-minutes-or-less>
 
 ---
 

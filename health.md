@@ -1,11 +1,11 @@
 ---
 title: health
-updated: 2024-12-21 07:05:38
+updated: 2024-12-22 07:04:58
 ---
 
 # health
 
-(date: 2024-12-21 07:05:38)
+(date: 2024-12-22 07:04:58)
 
 ---
 
@@ -332,18 +332,4 @@ The free-living amoeba Naegleria fowleri (NF) causes a rare but lethal parasitic
 <br> 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2024.1490280>
-
----
-
-## Olive Oil and Lemon Juice For Kidney Stones
-
-date: 2024-12-14, from: The Kidney Dietitian
-
-<p>Kidney stones are surprisingly common, affecting at least 10% of people in the United States. Of course, passing kidney stones is incredibly painful and people are desperate for ways to pass them quickly! A variety of foods and supplements are often promoted to dissolve kidney stones or help you pass them faster and with less [&#8230;]</p>
-<p>The post <a href="https://www.thekidneydietitian.org/olive-oil-kidney-stones/">Olive Oil and Lemon Juice For Kidney Stones</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
- 
-
-<br> 
-
-<https://www.thekidneydietitian.org/olive-oil-kidney-stones/>
 

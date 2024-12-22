@@ -1,11 +1,38 @@
 ---
 title: writing
-updated: 2024-12-21 07:05:36
+updated: 2024-12-22 07:04:57
 ---
 
 # writing
 
-(date: 2024-12-21 07:05:36)
+(date: 2024-12-22 07:04:57)
+
+---
+
+## The Last Dangerous Visions edited by Harlan Ellison & J. Michael Straczynski: Review by Gary K. Wolfe
+
+date: 2024-12-21, from: Locus Magazine
+
+<p><strong>The Last Dangerous Visions</strong>, Harlan Ellison &#38; J. Michael Straczynski, eds. (Blackstone 979-8-212-18379-6, $27.99, 450pp) October 2024.</p>
+<p>Speaking of unusual ways to assemble an anthol­ogy, here we have <strong>The Last Dangerous Visions</strong>, nominally edited by Harlan Ellison, but also by El­lison’s executor J. Michael Straczynski, who added seven stories he solicited himself after Ellison’s death. By my count, nine of the 24 stories were among the nearly 90  <a href="https://locusmag.com/2024/12/the-last-dangerous-visions-edited-by-harlan-ellison-j-michael-straczynski-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/the-last-dangerous-visions-edited-by-harlan-ellison-j-michael-straczynski-review-by-gary-k-wolfe/>
+
+---
+
+## Can*Con 2024
+
+date: 2024-12-21, from: Locus Magazine
+
+<p xml:lang="en-us"></p>
+<p class="normal" xml:lang="en-us">Can*Con 2024 was held November 1-3 in person at the Sheraton Hotel in Ottawa, Canada. Guests of honour were Jennifer Brozek, Sarah Gailey, Diana M. Pho, Waubgeshig Rice, and Arley Sorg. A separate virtual Can*Con was held on April 20 with roughly one hundred attendees.</p>
+<p class="normal" xml:lang="en-us">There were 400 in-person registered attendees. Programming featured 115 panelists and 107 items on writing, literature, and more, such as ‘‘Post-Colonial Perspectives on the Post-Apocalypse’’  <a href="https://locusmag.com/2024/12/cancon-2024/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/cancon-2024/>
 
 ---
 
@@ -654,45 +681,4 @@ date: 2024-12-15, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2024/12/clarkesworld-short-fiction-reviews-by-a-c-wise-3/>
-
----
-
-## Lightspeed, Small Wonders and Beneath Ceaseless Skies: Short Fiction Reviews by Charles Payseur
-
-date: 2024-12-14, from: Locus Magazine
-
-<p>Lightspeed 9/24
-Small Wonders 9/24
-Beneath Ceaseless Skies 9/5/24, 9/19/24</p>
-<p><strong>Gabriela Santiago </strong>returns to Lightspeed in September with the metatextual “<strong>Reconstruct­ing ‘The Goldenrod Conspiracy,’ Edina Room, Saturday 2:30-3:30</strong>”, which is framed as a pre­sentation at a fan convention dedicated to the <strong>Doctor Who</strong>&#8211;esque television show <strong>Backwards Man</strong>. The presentation is on a lost episode that has been remade by fans based on what people could remember  <a href="https://locusmag.com/2024/12/lightspeed-small-wonders-and-beneath-ceaseless-skies-short-fiction-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2024/12/lightspeed-small-wonders-and-beneath-ceaseless-skies-short-fiction-reviews-by-charles-payseur/>
-
----
-
-## The Lost Souls of Benzaiten by Kelly Murashige: Review by Colleen Mondor
-
-date: 2024-12-14, from: Locus Magazine
-
-<p><strong>The Lost Souls of Benzaiten</strong>, Kelly Murashige (Soho Teen 978-1-641-29574-1, $19.99, 304pp, hc) July 2024.</p>
-<p>Debut author Kelly Murashige mixes a tender coming-of-age story with the unexpected antics of a bored Japanese goddess to give readers the highly original fantasy <strong>The Lost Souls of Ben­zaiten</strong>. The author’s clever plot and thoroughly en­gaging characters manage to make all too relatable the protagonist’s wish early on to “become one of  <a href="https://locusmag.com/2024/12/the-lost-souls-of-benzaiten-by-kelly-murashige-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2024/12/the-lost-souls-of-benzaiten-by-kelly-murashige-review-by-colleen-mondor/>
-
----
-
-## 2024 World Fantasy Convention Report
-
-date: 2024-12-14, from: Locus Magazine
-
-<p xml:lang="en-us"></p>
-<p class="normal" xml:lang="en-us">The 50th World Fantasy Convention was held as a hybrid event October 17-20, 2024, with the in-person portion held at the Sheraton Niagara Falls and Niagara Falls Convention Center in Niagara Falls NY. Guests of honor were Scott H. Andrews, Galen Dara, and Heather Graham, with toastmaster Michael Swanwick. P. Djèlí Clark was a special guest, and Life Achievement Awards winners were Ginjer Buchanan and Jo Fletcher. The theme was  <a href="https://locusmag.com/2024/12/2024-world-fantasy-convention-report/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2024/12/2024-world-fantasy-convention-report/>
 

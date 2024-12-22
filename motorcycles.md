@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2024-12-21 07:05:37
+updated: 2024-12-22 07:04:58
 ---
 
 # motorcycles
 
-(date: 2024-12-21 07:05:37)
+(date: 2024-12-22 07:04:58)
+
+---
+
+## Can Seaweed Save Internal Combustion? These Scientists Surely Think So
+
+date: 2024-12-22, from: Ride Apart, Electric Motorcycle News
+
+Seaweed-based biogas is now being used to power cars in Barbados. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/745075/sargassum-seaweed-biogas-barbados/>
+
+---
+
+## KTM Has an Entire Year's Worth of Unsold Motorcycles Piling Up
+
+date: 2024-12-21, from: Ride Apart, Electric Motorcycle News
+
+265,000 motorcycles are just...hangin' around. 
+
+<br> 
+
+<https://www.rideapart.com/news/745178/ktm-years-worth-of-unsold-motorcycles-insolvency-bankrupt/>
 
 ---
 
@@ -413,16 +438,4 @@ An interesting concept, but one that might be a little too ahead of its time.
 <br> 
 
 <https://www.rideapart.com/news/744117/grounded-t1-electric-camper-trike/>
-
----
-
-## This Tricolore Ducati Superbike Is Your Early Christmas Present
-
-date: 2024-12-14, from: Ride Apart, Electric Motorcycle News
-
-There are only 1,000 units up for grabs, and they're not cheap.  
-
-<br> 
-
-<https://www.rideapart.com/news/743924/ducati-panigale-v4-tricolore-2025-superbike/>
 

@@ -1,11 +1,138 @@
 ---
 title: central coast
-updated: 2024-12-21 07:05:35
+updated: 2024-12-22 07:04:56
 ---
 
 # central coast
 
-(date: 2024-12-21 07:05:35)
+(date: 2024-12-22 07:04:56)
+
+---
+
+## Stearns Wharf Christmas Scene
+
+date: 2024-12-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Don-Barthelmess.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Stearns Wharf Christmas scene in Santa Barbara." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Don-Barthelmess.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Don-Barthelmess.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Don-Barthelmess.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Don-Barthelmess.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Don-Barthelmess.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Don-Barthelmess.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Don-Barthelmess.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Don-Barthelmess.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Don-Barthelmess.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Don-Barthelmess.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Don-Barthelmess.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Don-Barthelmess.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/stearns-wharf-christmas-scene/">Stearns Wharf Christmas Scene</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/stearns-wharf-christmas-scene/>
+
+---
+
+## Sansum Clinic, Anthem Still Negotiating for 2025 Health Plan Coverage
+
+date: 2024-12-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Sansum Clinic and Anthem Blue Cross are still negotiating for health insurance contracts, and more than 30,000 people were recently notified that their coverage could be affected if no agreement [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/sansum-clinic-anthem-still-negotiating-for-2025-health-plan-coverage/">Sansum Clinic, Anthem Still Negotiating for 2025 Health Plan Coverage</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/sansum-clinic-anthem-still-negotiating-for-2025-health-plan-coverage/>
+
+---
+
+## Laurie Jervis: Board of Supervisors Endorses SBV Wine BID Progress
+
+date: 2024-12-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>In its final meeting of 2024, the Santa Barbara County Board of Supervisors on Tuesday voted unanimously to move one more step toward establishing the Santa Barbara County Wine Improvement [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/laurie-jervis-board-of-supervisors-endorses-sbv-wine-bid-progress/">Laurie Jervis: Board of Supervisors Endorses SBV Wine BID Progress</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/laurie-jervis-board-of-supervisors-endorses-sbv-wine-bid-progress/>
+
+---
+
+## Learn How to be The Change as a Central Coast Climate Steward
+
+date: 2024-12-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Community Environmental Council (CEC) is enrolling for the next session of its Climate Stewards certification course, designed to engage and empower individuals on the Central Coast to take action [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/learn-how-to-be-the-change-as-a-central-coast-climate-steward/">Learn How to be The Change as a Central Coast Climate Steward</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/learn-how-to-be-the-change-as-a-central-coast-climate-steward/>
+
+---
+
+## Get Warm Fuzzies With Goleta Library’s Winter Reading Programs
+
+date: 2024-12-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>As the weather cools down the Goleta Valley Library, 500 N. Fairview Ave., offers a cozy spot to browse bookshelves for new releases and old favorites, as well as participate [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/get-warm-feeling-from-goleta-valley-librarys-winter-reading-program/">Get Warm Fuzzies With Goleta Library&#8217;s Winter Reading Programs</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/get-warm-feeling-from-goleta-valley-librarys-winter-reading-program/>
+
+---
+
+## Christmas Glitter
+
+date: 2024-12-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121424-POD-Ruth-Lane.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Christmas glitter." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121424-POD-Ruth-Lane.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121424-POD-Ruth-Lane.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121424-POD-Ruth-Lane.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121424-POD-Ruth-Lane.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121424-POD-Ruth-Lane.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121424-POD-Ruth-Lane.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121424-POD-Ruth-Lane.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121424-POD-Ruth-Lane.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121424-POD-Ruth-Lane.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121424-POD-Ruth-Lane.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121424-POD-Ruth-Lane.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121424-POD-Ruth-Lane.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/christmas-glitter/">Christmas Glitter</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/christmas-glitter/>
+
+---
+
+## Judge Quashes UCSB Search Warrant Request in Girvetz Hall Takeover Investigation
+
+date: 2024-12-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-Addison-Steele-1-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Local criminal defense attorney Addison Steele is defending those who may be affected by the release of information in the investigation of the June takeover of UCSB&#039;s Girvetz Hall by a pro-Palestinian group identified as Say Genocide." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-Addison-Steele-1-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-Addison-Steele-1-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-Addison-Steele-1-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-Addison-Steele-1-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-Addison-Steele-1-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-Addison-Steele-1-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-Addison-Steele-1-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-Addison-Steele-1-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-Addison-Steele-1-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A Santa Barbara County judge on Friday moved to quash UC Santa Barbara Police&#8217;s search warrant for Instagram accounts in an investigation of the occupation of Girvetz Hall in June. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/judge-quashes-ucsb-search-warrant-request-in-girvetz-hall-takeover-investigation/">Judge Quashes UCSB Search Warrant Request in Girvetz Hall Takeover Investigation</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/judge-quashes-ucsb-search-warrant-request-in-girvetz-hall-takeover-investigation/>
+
+---
+
+## Santa Barbara Man Sentenced to 20 Years in Prison for Series of Sexual Assaults
+
+date: 2024-12-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A Santa Barbara man was sentenced Friday to 20 years in state prison for a series of sexual assaults committed in 2023.  Honorio Meliton Fidal, 35, was charged with rape [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-man-sentenced-to-20-years-in-prison-for-series-of-sexual-assaults/">Santa Barbara Man Sentenced to 20 Years in Prison for Series of Sexual Assaults</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-barbara-man-sentenced-to-20-years-in-prison-for-series-of-sexual-assaults/>
+
+---
+
+## Man From China Arrested for Flying Drone at VSFB to Remain in Custody
+
+date: 2024-12-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A man from China arrested after flying a drone above Vandenberg Space Force Base must remain in custody, a federal judge ruled Friday.  Yinpiao Zhou, 39, a citizen of China [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/man-from-china-arrested-for-flying-drone-at-vsfb-to-remain-in-custody/">Man From China Arrested for Flying Drone at VSFB to Remain in Custody</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/man-from-china-arrested-for-flying-drone-at-vsfb-to-remain-in-custody/>
 
 ---
 
@@ -770,92 +897,4 @@ date: 2024-12-15, from: Newshawk, the freshest news in Santa Barbara County
 <br> 
 
 <https://www.noozhawk.com/stuck-railroad-arms-wreak-havoc-at-santa-barbara-railroad-crossings/>
-
----
-
-## Woman Rescued After Vehicle Plunges 100 Feet Off Side of Highway 1
-
-date: 2024-12-14, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="768" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara County firefighters rescued a woman who drove a vehicle over the side of Highway 1 near Vandenberg Village." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/IMG_7025.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Santa Barbara County firefighters rescued a woman who crashed a vehicle over the side of the road near Vandenberg Village on Saturday. Capt. Scott Safechuck of the Santa Barbara County [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/woman-rescued-after-vehicle-crashes-100-feet-off-side-of-highway-1/">Woman Rescued After Vehicle Plunges 100 Feet Off Side of Highway 1</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/woman-rescued-after-vehicle-crashes-100-feet-off-side-of-highway-1/>
-
----
-
-## Ostrich View
-
-date: 2024-12-14, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="An ostrich checks out the view from Cape Point, South Africa." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102324-POD-Joyce-Axilrod.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The post <a href="https://www.noozhawk.com/ostrich-view/">Ostrich View</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/ostrich-view/>
-
----
-
-## Buellton Gets New Mayor; Council Plots How to Fill Vacancy
-
-date: 2024-12-14, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121224-Buellton-Council1b-js-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>A standing-room-only crowd filled the Buellton Council Chambers to celebrate the city’s new mayor before the panel debated how to fill the vacancy created by David Silva’s election to the [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/buellton-gets-new-mayor-council-plots-how-to-fill-vacancy/">Buellton Gets New Mayor; Council Plots How to Fill Vacancy</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/buellton-gets-new-mayor-council-plots-how-to-fill-vacancy/>
-
----
-
-## 4 People Injured in Collision on Hollister Avenue Near Santa Barbara
-
-date: 2024-12-14, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Four people were injured, one seriously, in a multi-vehicle collision Friday night on Hollister Avenue near Santa Barbara." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-Hollister-Crash-rn-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Serious injuries were reported Friday night in a multi-vehicle collision on Hollister Avenue near Santa Barbara. Emergency personnel were dispatched shortly before 8 p.m. to the crash on Hollister just [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/4-people-injured-in-collision-on-hollister-avenue-near-santa-barbara/">4 People Injured in Collision on Hollister Avenue Near Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/4-people-injured-in-collision-on-hollister-avenue-near-santa-barbara/>
-
----
-
-## Surfliner Inn Wins Preliminary Approval from Carpinteria Architectural Review Board
-
-date: 2024-12-14, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121324-surfliner-inn-1-RC-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The Carpinteria Architectural Review Board granted preliminary approval to the 36-room Surfliner Inn at 499 Linden Ave. on Thursday despite numerous concerns from the community. Preliminary approval was granted with [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/surfliner-inn-wins-preliminary-approval-from-carpinteria-architectural-review-board/">Surfliner Inn Wins Preliminary Approval from Carpinteria Architectural Review Board</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/surfliner-inn-wins-preliminary-approval-from-carpinteria-architectural-review-board/>
-
----
-
-## Organizers Cancel Orcutt Christmas Parade Due to Rainy Forecast
-
-date: 2024-12-14, from: Newshawk, the freshest news in Santa Barbara County
-
-<p>Organizers have called off the 62nd Annual Orcutt Christmas Parade due to forecasts calling for rain. The procession had been set to travel through Old Town Orcutt starting at noon [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/organizers-cancel-orcutt-christmas-parade-due-to-rainy-forecast/">Organizers Cancel Orcutt Christmas Parade Due to Rainy Forecast</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/organizers-cancel-orcutt-christmas-parade-due-to-rainy-forecast/>
 

@@ -1,11 +1,486 @@
 ---
 title: pacific
-updated: 2024-12-21 07:05:34
+updated: 2024-12-22 07:04:55
 ---
 
 # pacific
 
-(date: 2024-12-21 07:05:34)
+(date: 2024-12-22 07:04:55)
+
+---
+
+## Insurers are deserting homeowners as climate shocks worsen
+
+date: 2024-12-22, from: Hawaii Tribune Harold
+
+
+				<p>SILVER CITY, N.M. &#8212; The insurance crisis spreading across the United States arrived at Richard D. Zimmel&#8217;s door this month in the form of a letter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/22/nation-world-news/insurers-are-deserting-homeowners-as-climate-shocks-worsen/>
+
+---
+
+## Christmas in the Park set for Monday and Tuesday
+
+date: 2024-12-22, from: Hawaii Tribune Harold
+
+
+				<p>The 8th annual Garden Enchantment &#8211; Christmas in the Park &#8211; will be held in and around Lili&#8216;uokalani Gardens in Hilo from 6 p.m. to 9 p.m. on Monday and Tuesday,</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/22/hawaii-news/christmas-in-the-park-set-for-monday-and-tuesday/>
+
+---
+
+## County’s plan to vacate HBMC morgue moves ahead
+
+date: 2024-12-22, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County is making progress toward relieving the severely overcrowded Hilo Benioff Medical Center&#8217;s morgue of what are referred to as &#8220;HPD bodies,&#8221; according to Hawaii Police Department Chief Ben Moszkowicz.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/22/hawaii-news/countys-plan-to-vacate-hbmc-morgue-moves-ahead/>
+
+---
+
+## Kona man wins prestigious wildlife photo contest
+
+date: 2024-12-22, from: Hawaii Tribune Harold
+
+
+				<p>A&#8220;jaunty&#8221; sea bug captured on film by a Kailua-Kona man is the star of one of the world&#8217;s preeminent wildlife photography contests.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/22/hawaii-news/kona-man-wins-prestigious-wildlife-photo-contest/>
+
+---
+
+## Atmospheric rivers will drench the West Coast
+
+date: 2024-12-22, from: Hawaii Tribune Harold
+
+
+				<p>The Pacific Northwest and Northern California, especially Washington and Oregon, have had an onslaught of storms, and the run of them is expected to continue over the next week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/22/nation-world-news/atmospheric-rivers-will-drench-the-west-coast/>
+
+---
+
+## Houthi missile strikes Tel Aviv as attacks increase
+
+date: 2024-12-22, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Iranian-backed Houthi militants launched a missile from Yemen that landed in Tel Aviv, Israel, early Saturday after air defenses failed to intercept it, the latest in an increasing barrage of Houthi attacks.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/22/nation-world-news/houthi-missile-strikes-tel-aviv-as-attacks-increase/>
+
+---
+
+## Obituaries for December 22
+
+date: 2024-12-22, from: Hawaii Tribune Harold
+
+
+				<p>Marilyn Carmel Elsner, 81, died Oct. 5 at Honokaa Hospital, formerly Hale Ho&#0699;ola Hamakua. Born in Vineland, N.J., she was a primary school educator. Survived by son, Fred; brother, Richard, and their families.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/22/hawaii-news/obituaries-for-december-22-10/>
+
+---
+
+## Biden signs spending bill, finalizing end to shutdown drama
+
+date: 2024-12-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden on Saturday signed the spending package that allowed federal funds to keep flowing until mid-March, formally ending the week&#8217;s unexpected drama over the issue a few hours after the deadline for a shutdown had technically passed.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/22/nation-world-news/biden-signs-spending-bill-finalizing-end-to-shutdown-drama/>
+
+---
+
+## Justice Thomas did not disclose additional trips, Democrats say
+
+date: 2024-12-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Justice Clarence Thomas failed to disclose two additional trips from a billionaire patron that had not previously come to light, Senate Democrats revealed Saturday after conducting a 20-month investigation into ethics practices at the Supreme Court.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/22/nation-world-news/justice-thomas-did-not-disclose-additional-trips-democrats-say/>
+
+---
+
+## Iran’s energy crisis hits ‘dire’ point as industries are forced to shut down
+
+date: 2024-12-22, from: Hawaii Tribune Harold
+
+
+				<p>Government offices in Iran are closed or operating at reduced hours. Schools and colleges have moved to online only. Highways and shopping malls have descended into darkness, and industrial plants have been denied power, bringing manufacturing to a near halt.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/22/nation-world-news/irans-energy-crisis-hits-dire-point-as-industries-are-forced-to-shut-down/>
+
+---
+
+## Volcano Watch: The USGS review process: Checking and verifying our information
+
+date: 2024-12-22, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaiian Volcano Observatory is part of the U.S. Geological Survey, the science agency of the U.S. Department of Interior. Our job is to obtain and share science-based information about the volcanoes of Hawaii and American Samoa and earthquakes across the state. What are the different types of information that HVO provides and how do we ensure its accuracy?</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/22/features/volcano-watch-the-usgs-review-process-checking-and-verifying-our-information/>
+
+---
+
+## Steves: A walk across Prague
+
+date: 2024-12-22, from: Hawaii Tribune Harold
+
+
+				<p>Known as the &#8220;Golden City of 100 Spires,&#8221; Prague boasts a fairytale medieval Old Town, historic churches and synagogues, and perhaps Europe&#8217;s largest castle.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/22/features/steves-a-walk-across-prague/>
+
+---
+
+## Adelup: Guam stands to lose $100M in federal funds due to Moylan's lawsuit
+
+date: 2024-12-22, from: Pacific Island Times
+
+By Pacific Island Times News Staff   Guam stands to lose $100 million in federal grants due to Attorney General Douglas Moylan’s lawsuit... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/adelup-guam-stands-to-lose-100m-in-federal-funds-due-to-moylan-s-lawsuit>
+
+---
+
+## With This MoMA Artist, the Painting Does the Talking
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>RICHMOND, Calif. &#8212; Before Marlon Mullen begins a painting, he likes to tidy his work space. He&#8217;ll pre-mix his paints &#8212; Golden acrylics in recycled pots &#8212; and lay out his brushes and canvas on his table. Often, he&#8217;ll empty the studio&#8217;s trash cans. Sometimes he&#8217;ll even sweep the yard outside, or rearrange objects on the studio shelves according to their relation to colors he plans to use in his painting. As I learned when I visited him in Richmond, California, one recent rainy morning, this ritual process can take days.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/with-this-moma-artist-the-painting-does-the-talking/>
+
+---
+
+## Putin’s weaker than he looks. Seize the opportunity
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>Russian President Vladimir Putin has sought to project an image of economic strength while prosecuting the war in Ukraine, as if he could easily outlast the West&#8217;s efforts to counter his aggression. If President-elect Donald Trump and other Western leaders want to negotiate a prudent peace deal, they shouldn&#8217;t buy it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/opinion/their-views/putins-weaker-than-he-looks-seize-the-opportunity/>
+
+---
+
+## Angry residents of cyclone-hit Mayotte jeer Macron, plead for water
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>MAYOTTE &#8212; Angry residents of a Mayotte neighbourhood damaged by Cyclone Chido heckled French President Emmanuel Macron when he toured it on Friday, complaining that potable water had not reached them nearly a week after the storm hit the Indian Ocean archipelago.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/angry-residents-of-cyclone-hit-mayotte-jeer-macron-plead-for-water/>
+
+---
+
+## Trump aims at Biden’s Inflation Reduction Act: EVs, clean energy and manufacturing
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>President-elect Donald Trump has vowed to repeal Joe Biden&#8217;s signature climate bill called the Inflation Reduction Act, which initially aimed at some $400 billion in new spending and tax cuts and credits at accelerating America&#8217;s transition to a green energy economy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/trump-aims-at-bidens-inflation-reduction-act-evs-clean-energy-and-manufacturing/>
+
+---
+
+## Starbucks workers’ union goes on strike in US cities as talks hit impasse
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>Some members of the workers&#8217; union representing over 10,000 baristas at Starbucks began a five-day strike at stores in Los Angeles, Chicago, and Seattle starting Friday, citing unresolved issues over wages, staffing and schedules. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/starbucks-workers-union-goes-on-strike-in-us-cities-as-talks-hit-impasse/>
+
+---
+
+## Russian rush-hour missile strike on Kyiv kills one, damages embassies
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine&#8212; A Russian missile strike killed at least one person and damaged a historical cathedral, six embassies and other buildings across the Ukrainian capital during the morning rush hour on Friday, Ukrainian officials said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/russian-rush-hour-missile-strike-on-kyiv-kills-one-damages-embassies/>
+
+---
+
+## Israel’s Netanyahu eyes Iran after triumphs over Hamas, Hezbollah, Syria
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>DUBAI, UAE &#8212; 2025 will be a year of reckoning for Israeli Prime Minister Benjamin Netanyahu and his country&#8217;s arch foe Iran.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/israels-netanyahu-eyes-iran-after-triumphs-over-hamas-hezbollah-syria/>
+
+---
+
+## Why it’s hard to control what gets taught in public schools
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>Oklahoma and Texas are among more than 20 states that have passed laws since 2021 seeking to control how race, gender and American history are discussed in schools.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/why-its-hard-to-control-what-gets-taught-in-public-schools/>
+
+---
+
+## Biden withdraws proposed regulations on student loans and trans athletes
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Biden administration on Friday withdrew some of its main outstanding plans to enact significant federal student loan forgiveness and to set rules around the participation of transgender athletes on school sports teams.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/biden-withdraws-proposed-regulations-on-student-loans-and-trans-athletes/>
+
+---
+
+## Collecting debris from the fatal plane crash is NTSB’s focus
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>The National Transportation Safety Board said its investigation into Tuesday&#8217;s Kamaka Air crash that left two young Oahu pilots dead remains in its early stages, with current efforts focused on collecting airplane debris from a heavily damaged area of the building where the plane went down.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/hawaii-news/collecting-debris-from-the-fatal-plane-crash-is-ntsbs-focus/>
+
+---
+
+## Hawaii pilot killed in plane crash was set to get wings, propose to girlfriend
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>Hiram deFries was about to have the week of his young life.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/hawaii-news/hawaii-pilot-killed-in-plane-crash-was-set-to-get-wings-propose-to-girlfriend/>
+
+---
+
+## House passes bill to avert shutdown with hours to spare
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The House on Friday approved legislation to avert a federal shutdown that was just hours away, with lawmakers extending funding into mid-March and approving $100 billion in disaster relief for parts of the nation still reeling from storms. The Senate was expected to quickly follow suit.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/house-passes-bill-to-avert-shutdown-with-hours-to-spare/>
+
+---
+
+## A mouse that swims and dozens more species are discovered in a Peruvian jungle
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>In the summer of 2022, researchers trudged into the jungles of the Alto Mayo region of Peru in search of undiscovered creatures. This remote yet populous region had experienced significant deforestation, so the team didn&#8217;t expect to find much.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/a-mouse-that-swims-and-dozens-more-species-are-discovered-in-a-peruvian-jungle/>
+
+---
+
+## Tropical Gardening: Celebrate a merry Christmas and a happy Hanukkah
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>This is the perfect weekend with Christmas and Hanukkah right around the corner along with Boxing Day.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/features/tropical-gardening-celebrate-a-merry-christmas-and-a-happy-hanukkah/>
+
+---
+
+## US Senate passes government funding bill, averts shutdown
+
+date: 2024-12-21, updated: 2024-12-22, from: Marianas Variety
+
+WASHINGTON (Reuters) — The U.S. Congress passed spending legislation early on Saturday in a down-to-the wire burst of activity that will avert a destabilizing government shutdown ahead of the busy holiday travel season. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/us-senate-passes-government-funding-bill-averts-shutdown/article_8243055a-bf6b-11ef-8c63-031b894abf36.html>
+
+---
+
+## ‘I'm going to fight this all the way’: Veterinarian vows to challenge Guam agency's land taking 
+
+date: 2024-12-21, from: Pacific Island Times
+
+Dr. Joel Joseph, who owns two pieces of property marked to be condemned for a hospital project, said he would contest the government’s attem 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/i-m-going-to-fight-this-all-the-way-veterinarian-vows-to-challenge-guam-agency-s-land-taking>
+
+---
+
+## State lawmakers tour UH Mānoa’s student services, new destress sanctuary
+
+date: 2024-12-21, from: University of Hawaiʻi News
+
+<p>The <abbr>UH</abbr> Mānoa Talk Story: Campus Tour invited state legislators to discover and support services and programming for students.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/20/state-lawmakers-tour-uh-manoa/">State lawmakers tour <abbr>UH</abbr> Mānoa’s student services, new destress sanctuary</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/20/state-lawmakers-tour-uh-manoa/>
+
+---
+
+## Sculpture honors pioneering scientist Alice Ball
+
+date: 2024-12-21, from: University of Hawaiʻi News
+
+<p>In 1915, Ball became the first African-American and woman to graduate from both <abbr>UH</abbr> Mānoa and the U.S. with a master’s degree in chemistry.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/20/sculpture-honors-alice-ball/">Sculpture honors pioneering scientist Alice Ball</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/20/sculpture-honors-alice-ball/>
+
+---
+
+## Scholarships fuel culinary dreams at Hawaiʻi CC
+
+date: 2024-12-21, from: University of Hawaiʻi News
+
+<p>Culinary students Casey Chow and Marielle Acupan have received scholarships from the Japanese Chamber of Commerce and Industry of <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/20/culinary-dreams-scholarships-hawaii-cc/">Scholarships fuel culinary dreams at Hawaiʻi <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/20/culinary-dreams-scholarships-hawaii-cc/>
+
+---
+
+## Amazon employees around the world give their kids a special behind-the-scenes look before the holidays
+
+date: 2024-12-20, updated: 2024-12-20, from: Marianas Variety
+
+Sorry, but your browser does not support the video tag. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/seasonal/amazon-employees-around-the-world-give-their-kids-a-special-behind-the-scenes-look-before/article_21e7a1f9-22b2-5185-a56a-fab402efa3df.html>
+
+---
+
+## How to transform your kitchen in 2025 with 4 top trends
+
+date: 2024-12-20, updated: 2024-12-20, from: Marianas Variety
+
+(BPT) - The kitchen is the heart of the home. It's where you gather with loved ones for meals and conversations and make memories and traditions. To achieve these connections (while still making delicious meals), warmth and welcome are key. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/home_improvement/how-to-transform-your-kitchen-in-2025-with-4-top-trends/article_a412a0f0-320c-5dda-8d92-77d77c324151.html>
+
+---
+
+## Become an expert gift-giver with this holiday tech guide
+
+date: 2024-12-20, updated: 2024-12-20, from: Marianas Variety
+
+(BPT) - Finding the perfect gift for all your loved ones can be daunting. However, choosing a thoughtful present that matches each person's hobbies and interests doesn't have to be difficult. Check out this curated list of tech gifts that will make the movie lovers, jetsetters, holiday hosts, gamers and students in your life feel the spirit of the season this winter and beyond. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/travel/become-an-expert-gift-giver-with-this-holiday-tech-guide/article_b8b2ee90-3249-50f3-91e0-db41a8ae0de0.html>
 
 ---
 
@@ -35,6 +510,18 @@ The post <a href="https://www.hawaii.edu/news/2024/12/20/transforming-hawaiis-fo
 
 ---
 
+## Cutting expenses in the new year? Here are 6 painless ways to do it
+
+date: 2024-12-20, updated: 2024-12-20, from: Marianas Variety
+
+(BPT) - The new year is dawning. Are your resolutions in line? It's the same every year, right? You set lofty goals — get up an hour earlier to exercise, eat healthier, organize your life, save money, whatever it may be. And by the end of January, those high-minded goals have slipped away. Sound familiar? Time magazine reports that a mere 8% of people who set New Year's resolutions actually follow through on them. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/cutting-expenses-in-the-new-year-here-are-6-painless-ways-to-do-it/article_30a99f65-2922-568a-9f30-14017e500e5e.html>
+
+---
+
 ## Another ‘small death’ for local journalism
 
 date: 2024-12-20, from: Pacific Island Times
@@ -44,6 +531,66 @@ Saipan and the greater Northern Mariana Islands is a very small region for news 
 <br> 
 
 <https://www.pacificislandtimes.com/post/another-small-death-for-local-journalism>
+
+---
+
+## Ultimate skincare guide for the winter holidays
+
+date: 2024-12-20, updated: 2024-12-20, from: Marianas Variety
+
+(BPT) - While this may be the most wonderful time of the year in many ways, it's not ideal for your skin. Between frigid temps, brisk wind outside and ultra-dry, overheated air inside — not to mention holiday busyness and stress — your face may not be glowing along with the season. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/ultimate-skincare-guide-for-the-winter-holidays/article_bc70584c-97c5-5070-945e-9901d5d86144.html>
+
+---
+
+## Older adults at higher risk of confusion, memory problems after surgery: anesthesiologists and patients should partner to protect brain health
+
+date: 2024-12-20, updated: 2024-12-20, from: Marianas Variety
+
+(BPT) - The "silver tsunami" of people 65 and older combined with the uptick in surgeries during the winter months is creating the perfect storm for a sometimes-overlooked issue — postoperative delirium. More common in older people, postoperative delirium can cause symptoms such as confusion, memory problems or agitation that are usually temporary, but can lead to longer hospital stays and is associated with postoperative cognitive decline. However, if you or a loved one are 65 or older and having surgery, there are ways to reduce the risk, starting with talking to your anesthesiologist before the procedure. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/older-adults-at-higher-risk-of-confusion-memory-problems-after-surgery-anesthesiologists-and-patients-should/article_e7fc53d6-d2cc-527e-b6b8-bdd13b51388b.html>
+
+---
+
+## Mucho más que un resfriado: la alarmante historia de Tracy con el VRS
+
+date: 2024-12-20, updated: 2024-12-20, from: Marianas Variety
+
+(BPT) - Patrocinado por GSK. Cuando Tracy, una defensora del paciente de GSK jubilada de 66 años, comenzó a toser, supuso que solo era su enfermedad pulmonar obstructiva crónica (EPOC) manifestándose nuevamente. Poco sabía ella que este era el comienzo de una infección por el virus respiratorio sincicial (VRS). 
+
+<br> 
+
+<https://www.mvariety.com/online_features/espanol/mucho-m-s-que-un-resfriado-la-alarmante-historia-de-tracy-con-el-vrs/article_80f9cfeb-cd55-55be-873b-78ed249a4904.html>
+
+---
+
+## ¿Siente FOMO por las fiestas de fin de año? Siete formas de mantenerse saludable para disfrutar de la temporada de fiestas
+
+date: 2024-12-20, updated: 2024-12-20, from: Marianas Variety
+
+(BPT) - Nadie quiere sentirse enfermo durante la temporada de fiestas. Desde el bullicio de las fiestas de oficina, los programas escolares, los conciertos navideños, los desfiles y las reuniones con nuestros seres queridos, las festividades son infinitas. Pero justo cuando se copan nuestras agendas, llega la temporada de gripe y resfriados, creando una tormenta perfecta de gérmenes cuando más queremos mantenernos saludables. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/espanol/siente-fomo-por-las-fiestas-de-fin-de-a-o-siete-formas-de-mantenerse-saludable/article_6d9b70e8-0bf1-5191-a763-0b8ab62136aa.html>
+
+---
+
+## 5 tips for staying safe during a winter power outage
+
+date: 2024-12-20, updated: 2024-12-20, from: Marianas Variety
+
+(BPT) - Winter is in full swing. It's a beautiful season, but as the temperature drops and the snow, ice and cold approach, there's always the possibility of a power outage. When it's cold outside and your home is plunged into darkness, it can be more than just an inconvenience. It can mean not being able to keep your family warm, to work if your power is out, even to get water if your pipes freeze. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/5-tips-for-staying-safe-during-a-winter-power-outage/article_e1b7b49d-ad44-5d6a-b1d8-0af143209536.html>
 
 ---
 
@@ -2912,190 +3459,4 @@ Approximately 100 logistics support Marines from Okinawa have arrived on Guam, l
 <br> 
 
 <https://www.pacificislandtimes.com/post/marines-relocation-kicks-off-small-unit-from-okinawa-arrives-on-guam>
-
----
-
-## Bank of America flagged suspicious payments to Epstein only after he died
-
-date: 2024-12-14, from: Hawaii Tribune Harold
-
-
-				<p>When Bank of America alerted financial regulators in 2020 to potentially suspicious payments from Leon Black, the billionaire investor, to Jeffrey Epstein, the disgraced financier, the bank was following a routine practice.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/bank-of-america-flagged-suspicious-payments-to-epstein-only-after-he-died/>
-
----
-
-## South Korea’s president faces new impeachment vote
-
-date: 2024-12-14, from: Hawaii Tribune Harold
-
-
-				<p>SEOUL, South Korea &#8212; Yoon Suk Yeol, the embattled president of South Korea, faces a second parliamentary vote to impeach him Saturday, with the opposition and protesters demanding more ruling party lawmakers abandon support for their leader over his short-lived martial law&#8203; decree.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/south-koreas-president-faces-new-impeachment-vote/>
-
----
-
-## Texas Attorney General sues New York doctor for mailing abortion pills
-
-date: 2024-12-14, from: Hawaii Tribune Harold
-
-
-				<p>The Texas attorney general opened a new front in the contentious battle over access to abortion this week by suing a New York doctor for sending abortion pills into Texas. It appeared to be among the first attempts to stop the mailing of such medication into states that ban abortion.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/texas-attorney-general-sues-new-york-doctor-for-mailing-abortion-pills/>
-
----
-
-## McKinsey to pay $650 million in opioid settlement with Justice Department
-
-date: 2024-12-14, from: Hawaii Tribune Harold
-
-
-				<p>McKinsey &#038; Co. has agreed to pay $650 million to settle a Justice Department investigation of its work with opioid maker Purdue Pharma. A former senior partner, Martin Elling, has also agreed to plead guilty to obstruction of justice for destroying internal company records in connection with that work.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/mckinsey-to-pay-650-million-in-opioid-settlement-with-justice-department/>
-
----
-
-## Kennedy’s lawyer has asked the FDA to revoke approval of the polio vaccine
-
-date: 2024-12-14, from: Hawaii Tribune Harold
-
-
-				<p>The lawyer helping Robert F. Kennedy Jr. pick federal health officials for the incoming Trump administration has petitioned the government to revoke its approval of the polio vaccine, which for decades has protected millions of people from a virus that can cause paralysis or death.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/kennedys-lawyer-has-asked-the-fda-to-revoke-approval-of-the-polio-vaccine/>
-
----
-
-## Uber and Lyft found a loophole in a driver pay law. Drivers pushed back.
-
-date: 2024-12-14, from: Hawaii Tribune Harold
-
-
-				<p>NEW YORK &#8212; New York City was the first place in the United States to mandate minimum pay rates for drivers for companies such as Uber and Lyft. But after the companies found a loophole that made it much harder for some drivers to get by, the city is looking to change its law, prompting dueling pressure campaigns as both sides seek to influence the outcome.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/uber-and-lyft-found-a-loophole-in-a-driver-pay-law-drivers-pushed-back/>
-
----
-
-## Under Trump, Voice of America journalists fear politicization
-
-date: 2024-12-14, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; President-elect Donald Trump&#8217;s choice of Kari Lake to serve as the director of the federally funded broadcaster Voice of America sent a chill through the ranks of the organization, where journalists expressed anxiety about Lake and what the future could hold.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/under-trump-voice-of-america-journalists-fear-politicization/>
-
----
-
-## Joy buoys Syria’s first Friday prayers since Assad ouster, but hardships loom
-
-date: 2024-12-14, from: Hawaii Tribune Harold
-
-
-				<p>DAMASCUS, Syria &#8212; Jubilant crowds gathered in cities across Syria for the first Friday Prayers since rebels toppled President Bashar Assad, including at the historic Umayyad Mosque in the capital, where civilians and fighters worshipped side by side and joyful chants erupted over the collapse of a long authoritarian dynasty.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/14/nation-world-news/joy-buoys-syrias-first-friday-prayers-since-assad-ouster-but-hardships-loom/>
-
----
-
-## Tropical Gardening: Gifts for Christmas that go on giving
-
-date: 2024-12-14, from: Hawaii Tribune Harold
-
-
-				<p>It is fun to receive gifts for Christmas. As we become adults, it is more about giving rather than getting. Some gifts we enjoy are ones that are satisfying for a short time. Others are with us for the long haul. But when you think about it, gifts are over rated, since Christmas really isn&#8217;t only about gift giving or getting.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/14/features/tropical-gardening-gifts-for-christmas-that-go-on-giving/>
-
----
-
-## 5 robbery suspects arrested
-
-date: 2024-12-14, updated: 2024-12-14, from: Marianas Variety
-
-THE  Department of Public Safety on Saturday evening said it has obtained arrest warrants for five robbery suspects: two adults and three juveniles. They have been charged with kidnapping, aggravated assault and battery, robbery, and disturbing the peace. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/5-robbery-suspects-arrested/article_988cd026-b9fc-11ef-af11-f7276004d9e3.html>
-
----
-
-## South Korea lawmakers vote to impeach President Yoon over martial law bid
-
-date: 2024-12-14, updated: 2024-12-15, from: Marianas Variety
-
-SEOUL (Reuters) — South Korea's opposition-led parliament impeached President Yoon Suk Yeol on Saturday, voting to suspend him from his official duties over his short-lived attempt last week to impose martial law. Under the constitution Prime Minister Han Duck-soo, who was appointed by Yoon, becomes acting president. 
-
-<br> 
-
-<https://www.mvariety.com/news/regional_world/south-korea-lawmakers-vote-to-impeach-president-yoon-over-martial-law-bid/article_0b89a3e4-b9fb-11ef-9443-6f0be31b712c.html>
-
----
-
-## Vanuatu hopes for a climate change opinion that will 'inspire global action'
-
-date: 2024-12-14, from: Pacific Island Times
-
-Arnold Kiel Loughman By Pacific Island Times News Staff Statements at the International Court of Justice highlighted a compelling legal... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/vanuatu-hopes-for-a-climate-change-opinion-that-will-inspire-global-action>
-
----
-
-## Study: Palau's marine sanctuary protects tuna during spawning period 
-
-date: 2024-12-14, from: Pacific Island Times
-
-Researchers have found that tuna spawn within the boundaries of the Palau National Marine Sanctuary, suggesting that the secured area potent 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/study-palau-s-marine-sanctuary-protects-tuna-during-spawning-period>
-
----
-
-## ‘I can tell the changes’: Grand master navigators on climate change and perpetuating traditions
-
-date: 2024-12-14, from: The Husk
-
-Grand Master Navigator Ali Haleyalur, Grand Master Navigator Sesario Sewralur, and Master Navigator Larry Raigetal talk story at the Marianas Storytelling Series Micronesia Voyaging event 
-
-<br> 
-
-<https://thehusk.substack.com/p/i-can-tell-the-changes-master-navigators>
 

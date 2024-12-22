@@ -1,11 +1,269 @@
 ---
 title: columns
-updated: 2024-12-21 07:05:35
+updated: 2024-12-22 07:04:56
 ---
 
 # columns
 
-(date: 2024-12-21 07:05:35)
+(date: 2024-12-22 07:04:56)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-22, from: Dave Winer's Scripting News)
+
+BTW Twitter is innovating in ways that it never has. People not staying on Twitter would have no way of knowing. Another reason why, for software developers, quitting Twitter is stupid. As quitting Facebook was ten years ago. Great, now you have no idea what features your users are learning how to use. Eventually your software will be in a dead end while a new <a href="https://en.wikipedia.org/wiki/Coral_reef">coral reef</a> has been forming. Where are you going to get fresh ideas from. Not using these systems would be like not listening to the Beatles in the 60s,. You would have missed <a href="https://en.wikipedia.org/wiki/Cultural_impact_of_the_Beatles">all that followed</a>. And not just popular music. Same with Twitter in the 2020s. That story is far from over. 
+
+<br> 
+
+<http://scripting.com/2024/12/22.html#a140711>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-22, from: Dave Winer's Scripting News)
+
+I love <a href="https://imgs.scripting.com/2024/12/22/writingInWordland.png">writing</a> my morning <a href="https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113696639328781503">missives</a> in <a href="https://this.how/wordland/">WordLand</a>. It really fits. 
+
+<br> 
+
+<http://scripting.com/2024/12/22.html#a133401>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-22, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/06/17/charlieTheTuna.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">What we need, now, is a system to compete with Twitter. A system as capable as Twitter. It has to be privately held by a group that can be trusted not to interfere with democratic use of the system. This can't be guaranteed, it has to be based on trust. It needs to scale very quickly. Its vision is to represent democracy. And it has to be simple, clean and quickly understood as parallel to Twitter. Bluesky has a lot of what's needed, but its ownership is not clear. But it more like Twitter than Twitter is today and I expect that to continue. 
+
+<br> 
+
+<http://scripting.com/2024/12/22.html#a133121>
+
+---
+
+## Let There Be Peace
+
+date: 2024-12-22, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/let-there-be-peace>
+
+---
+
+## Gist of Go: Time
+
+date: 2024-12-22, from: Anton Zhiyanov blog
+
+Techniques for handling time in concurrent programs. 
+
+<br> 
+
+<https://antonz.org/go-concurrency/time/>
+
+---
+
+## Sunday caption contest: Big guns
+
+date: 2024-12-22, from: Robert Reich's blog
+
+And last week&#8217;s winner 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-caption-contest-big-guns>
+
+---
+
+## December 21, 2024 
+
+date: 2024-12-22, from: Heather Cox Richardson blog
+
+Shortly after midnight last night, the Senate passed the continuing resolution to fund the government through March 14, 2025. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-21-2024>
+
+---
+
+## Musings on Media in the Age of AI
+
+date: 2024-12-22, from: Om Malik blog
+
+I recently wrote about the future of the&#160;browser and&#160;Surf, a new app from the creators of Flipboard. Both stories&#160;explore&#160;the changing nature of the&#160;web&#160;and its impact on the media landscape. I’m not shy about expressing my frustrations with the establishment media and the ever-present gulf between technology and&#160;old&#160;media&#160;companies. I’ve&#160;been involved with the&#160;internet&#160;and online publishing from the &#8230; 
+
+<br> 
+
+<https://om.co/2024/12/21/dark-musings-on-media-ai/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-12-22, from: Miguel de Icaza Mastondon feed)
+
+<p>Godot on iPhone, I forgot to disable it from the TestFlight and it sort of runs.</p><p>My opinion was that we should block it, but people love it.   And in the last 12 hours I can’t stop thinking of some easy wins to make it at least passable.</p><p>But perhaps the right thing is still to prevent from running on iPhone or be destroyed by unhappy users reviews</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113694268169474375>
+
+---
+
+##  Rickey Henderson has died aged 65. &#8220;There may not have been any... 
+
+date: 2024-12-21, updated: 2024-12-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045899-rickey-henderson-has-died>
+
+---
+
+## Yankees Legend Rickey Henderson Dies at 65
+
+date: 2024-12-21, updated: 2024-12-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.cupofcoffeenews.com/cup-of-coffee-extra-rickey-henderson-1958-2024-2/>
+
+---
+
+## December 20, 2024
+
+date: 2024-12-21, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153465790/08ff8ce87cddafe840b474a0175e3c7f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153465790/08ff8ce87cddafe840b474a0175e3c7f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-20-2024-06e>
+
+---
+
+##  Last minute gift idea for the art fan in your life: Amy... 
+
+date: 2024-12-21, updated: 2024-12-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045898-last-minute-gift-idea-for>
+
+---
+
+## Shutdown averted but Republicans deserted | Coffee Klatch for December 21, 2024
+
+date: 2024-12-21, from: Robert Reich's blog
+
+With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153430683/c701be304031ba64665c54c45d63aae1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153430683/c701be304031ba64665c54c45d63aae1.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/shutdown-averted-but-republicans>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-21, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/12/21/quayleHead.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I like to share posts from Threads on Bluesky and Mastodon to illustrate the incompatibility, the ignorance of one to the other. These guys should all be using the same protocol. It's a travesty that each of them considers their product to define the <a href="https://oursocialweb.org/">social web</a> -- they don't understand the first thing about the web, what the miracle the web was. Before the web, the tech world was as it is now, fragmented by huge companies that didn't care about anything but their own internal drama. The last thing they would consider was reusing something that was already running. While all that was going on Unix basically agreed on a core set of functions that formed a basis for interop. They weren't perfect, there were differences in each of the Unixes, but you could reuse most of what you knew on each of the platforms. But Apple, Microsoft, Sun and IBM each ran their own ecosystems. And then one day along came the web. Instead of bookshelves of docs, it wasn't even a booklet. You could be up and running with a "website" in ten minutes. I speak from experience. My first website was authored with a freaking email. Threads, Bluesky and Mastodon are the IBM, Microsoft and Apple of 2024. It's ridiculous if they think this is a web. To paraphrase the late great <a href="https://www.youtube.com/watch?v=KgtfEX2Pka0&t=65s">Lloyd Bentsen</a>, I knew the web, the web was a friend of mine. You are not the web. 
+
+<br> 
+
+<http://scripting.com/2024/12/21.html#a155902>
+
+---
+
+## Ural Notes Part 1: General Notes
+
+date: 2024-12-21, updated: 2024-12-21, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2024/12/21/ural-notes-part-1-general/>
+
+---
+
+## Plan 9 is a bicycle
+
+date: 2024-12-21, from: Liam on Linux
+
+Someone on Reddit asked <a href="https://old.reddit.com/r/unix/comments/1hih6vs/screenshots_of_plan9_operatin_system/m30q8be/">how easy it was to do &quot;simple stuff&quot; on 9front.</a><br /><br />This is not a Linux distribution. It is an experimental research OS.<br /><br />Look, all Linux distros are the same kernel with different tools slapped on top. Mostly the GNU tools and a bunch of other stuff. Linux is one operating system.<br /><br />Linux is a GPL implementation of a simple monolithic 1970s Unix kernel. All the BSDs are BSD-licensed implementations of a simple monolithic 1970s Unix kernel.<br /><br />Taking a high-level view they are different implementations of the same design.<br /><br />So it's very easy to port the same apps to all of them. All run Firefox and Thunderbird and LibreOffice. They are slightly different flavours of a single design.<br /><br />They are all just Unixes.<br /><br />Solaris and AIX and HP/UX are the same design. All just Unixes.<br /><br />Now we get to outliers. Some break up the kernel into different programs that work together. This is called a microkernel design. Mac OS X/macOS, Minix 3, QNX, CoyotOS, keyKOS. Still pretty much Unixes but weird ones.<br /><br />The big names among them, like macOS, still run the same apps. Firefox, LibreOffice, etc.<br /><br /><a href="https://www.opengroup.org/openbrand/register/">Still UNIX.<br /></a><br />9front is a distro of Plan 9. Plan 9 is NOT a Unix.<br /><br />A small team -- originally 2 guys, Dennis Ritchie and Ken Thompson, designed Unix and C.<br /><br />It caught on. Lots of people built versions of it. Some of them changed the design a bit. Doesn't really matter. It is all just Unix.<br /><br />It takes the core design and adds a million layers of junk on top, implemented by well-meaning people who just had jobs to do and get stuff working, so now it's huge and vastly complex... but it's just Unix.<br /><br />It's an ancient tradition to compare computers to vehicles. Unix is a car. Lots of people make cars. It's surprisingly hard to define what a &quot;car&quot; is but it's a box on wheels, probably with a roof (but maybe not), probably with windows (but maybe not), on wheels (probably 4, maybe 3, could be 6) with an engine.<br /><br />All Unixes are types of car. You can't take the gearbox of a Ford and just bolt it into a Honda. Won't fit. But you can take a Ford and take a Honda and put 4 people in it and drive it on the same road to the same shop and buy stuff and carry it home.<br /><br />Windows is... not a car, but it's close. Let's say it's a bus. Still a box on wheels, still carries people (but lots of them.) You can buy a bus to yourself and drive to the shops, with 40 friends instead of 4, but you wouldn't want to. It's big and slow and hard to drive and expensive. But you could do.<br /><br />Plan 9 is not Unix. Plan 9 is what the guys who invented Unix did next.<br /><br />Plan 9 is not a car.<br /><br />You are only thinking of cars. We are not talking about cars any more.<br /><br />Plan 9 is, say, a bicycle. (I know, bicycles came before cars. Sue me, it's a metaphor not a history lecture.)<br /><br />It still has wheels. It still goes places. You can sit on it, and ride it, and go hundreds of miles. You can go to the shops and do your shopping and take it home, but no, 4 of you can't. You can't put the shopping in the boot. It doesn't have a boot. You need a backpack or panniers.<br /><br />Stop thinking of cars. We have left car-land behind. There are a hundred other types of &quot;things that have wheels and go&quot; that aren't cars. There are motorbikes and roller skates and skateboards and go-karts and racing cars and unicycles and roller blades and cross-country-skiing roller-trainers and wheely shoes and loads more.<br /><br />You're asking what kind of car a bicycle is. It isn't.<br /><br />&gt; I'm just wondering how easy it would be to load this on a cheap laptop and get up and running.<br /><br />It's doable. A few hours work maybe.<br /><br />&gt; Does it require a lot of tweaking to get simple things working?<br /><br />You do not define &quot;simple things&quot;. But downthread you do.<br /><br />You will never usefully browse the web on 9front. It doesn't really have a web browser. There are some kinda sorta things that do 1% of what a mainstream web browser does but you won't like them.<br /><br />It doesn't really have &quot;apps&quot;. Nobody ever wrote any. (With rounding errors. There is a tiny bit of 3rd party software, but you won't recognise anything.)<br /><br />Plan 9 is a bicycle. It can take you places but you can't drive it if you only know how to drive cars. Never mind that it has a manual gear shift and there are 27 gears in 2 different gearing systems and no clutch and you need to memorise all the combinations you need to climb a hill and speed along the flat.<br /><br />Also, you know, you need to pedal.<br /><br />There's no engine.<br /><br />&quot;I want to write Markdown text and print it to a laser printer.&quot;<br /><br />Right, well, you'll need to find a dozen separate tools, learn how to work them, and learn how to link them together... Or, you'll need to write your own.<br /><br />Plan 9 is not the end point of the story, either.<br /><br />Plan 9 was a step on the road to Inferno. Inferno is not a car and it's not a bicycle. It is, in extremely vague and general terms, a cross between an operating system, and Java, and the JVM. All in one.<br /><br />It's... a pedal-powered aeroplane. You can't ride it to the shops but it is in its way even more amazing than a bicycle... it can fly.<br /><br />What you call &quot;simple stuff&quot; is car stuff. You can't do it. It is not as &quot;simple&quot; as you think it is.<br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=93196" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<br> 
+
+<https://liam-on-linux.dreamwidth.org/93196.html>
+
+---
+
+## dropping hyper
+
+date: 2024-12-21, from: Daniel Stenberg Blog
+
+The ride is coming to an end. The experiment is done. We tried, but we admit defeat. Four years ago we started adding support for an alternative HTTP backend in curl. It would use a library written in rust, called hyper. The idea was to introduce an alternative implementation of HTTP internals that you could &#8230; <a href="https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/" class="more-link">Continue reading <span class="screen-reader-text">dropping hyper</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/>
+
+---
+
+## December 20, 2024 
+
+date: 2024-12-21, from: Heather Cox Richardson blog
+
+This evening the House of Representatives passed a measure to fund the government for three months. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-20-2024>
+
+---
+
+## Weeknotes: Dec. 14-20, 2024
+
+date: 2024-12-21, from: Tracy Durnell Blog
+
+The theme of the week is making space. Win of the week: fixed a bunch of images on my consulting website that I&#8217;d saved with Affinity, may as well get my money&#8217;s worth out of Adobe while I have it &#8212; maybe I just used crappy settings but Affinity Photo seems to be really bad [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/12/20/weeknotes-dec-14-20-2024/>
+
+---
+
+## The Muskrat’s political ambitions keep growing 
+
+date: 2024-12-21, from: Robert Reich's blog
+
+His malignant narcissism and grandiosity rival Trump&#8217;s, but at least Trump was elected. 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-muskrats-political-ambitions>
+
+---
+
+##  My mouth is watering reading this retrospective by Cup of Jo&#8217;s retiring... 
+
+date: 2024-12-21, updated: 2024-12-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045896-my-mouth-is-watering-read>
 
 ---
 
@@ -1706,174 +1964,4 @@ date: 2024-12-15, updated: 2024-12-17, from: Daring Fireball
 <br> 
 
 <https://daringfireball.net/feeds/sponsors/>
-
----
-
-## December 13, 2024
-
-date: 2024-12-14, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153134862/0a526f4a4517a11073e9603e1a6ff792.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/153134862/0a526f4a4517a11073e9603e1a6ff792.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/december-13-2024-672>
-
----
-
-## ★ On the Accountability of Unnamed Public Relations Spokespeople
-
-date: 2024-12-14, updated: 2024-12-16, from: Daring Fireball
-
-This is why it’s more than vanity to put your name on your work, whatever your work is — it shows you take responsibility for its validity. 
-
-<br> 
-
-<https://daringfireball.net/2024/12/on_the_accountability_of_unnamed_public_relations_spokespeople>
-
----
-
-##  Once again, The 2024 Kottke Holiday Gift Guide. If you&#8217;re shopping online,... 
-
-date: 2024-12-14, updated: 2024-12-14, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/24/12/0045854-once-again-the-2024-kottk>
-
----
-
-## Online communities can work
-
-date: 2024-12-14, from: Dave Winer's Scripting News
-
-<p>A <a href="https://www.nytimes.com/2024/12/14/magazine/bluesky-social-media.html">piece</a> in today's NYT said all networks flame out, but that's actually too crude a statement. </p>
-<p>If you want your network not to flame out, give the users the tools to keep things moderated.</p>
-<p>One of the best features of Facebook is it gives the author of a post the power to decide who can respond to it. (I know they're not the only ones, but they're the first in my experience, so I give them credit.)</p>
-<p>If I write something that I know will attract trolls, I just restrict it to friends. If they flame me, or even try to provoke an argument, I just unfriend them, and I suspect they know that. The hotheads have been culled from the list over time, there's trust that people don't want and won't pick fights. </p>
-<p>Assume adults know when they're asking to argue, and not only don't accept the bait, but don't allow them to participate. </p>
-<p>Keeps things friendly. Not kidding. It doesn't flame out there.</p>
-<p>It also helps that I've been using these networks since the 70s, and there have been times when I sought out the flames, because I could have shut them off at any time, but I let them keep going. Now I don't. I just don't argue online, and as a result the heat doesn't reach me. </p>
-<p>In other words, if you give people good tools, and they use them well, you can make this work. </p>
-<p>PS: To be fair, the NYT piece focused on Bluesky, and they are for sure going down a path much like the one Twitter went down, but it will happen much faster because the trolls are already plentiful and well-organized. They're going for the billion-dollar cashout, for sure and they will very likely get it, and as users we will still be looking for an open system that we can use to get work done. </p>
- 
-
-<br> 
-
-<http://scripting.com/2024/12/14/184411.html?title=onlineCommunitiesCanWork>
-
----
-
-## What Really Matters: Memories
-
-date: 2024-12-14, from: Om Malik blog
-
-“It’s generally human nature to overestimate risk and underestimate opportunity. Thinking small is a self-fulfilling prophecy.” Jeff Bezos, founder, Amazon On My Mind We, as modern humans, try to control everything. In reality, though, we can’t really control the infinite number of ever-changing data points or the eventual outcomes. We can try, and in some &#8230; 
-
-<br> 
-
-<https://om.co/2024/12/14/what-really-matters-memories/>
-
----
-
-## Upcoming Speaking Events
-
-date: 2024-12-14, updated: 2024-12-14, from: Bruce Schneier blog
-
-<p>This is a current list of where and when I am scheduled to speak:</p>
-<ul>
-<li>I&#8217;m speaking at a <a href="https://ewh.ieee.org/r1/boston/computer/schneier2025atMIT.html">joint meeting of the Boston Chapter of the IEEE Computer Society and GBC/ACM</a>, in Boston, Massachusetts, USA, at 7:00 PM ET on Thursday, January 9, 2025. The event will take place at the Massachusetts Institute of Technology in Room 32-G449 (Kiva), as well as online via Zoom. Please <a href="https://acm-org.zoom.us/webinar/register/1517341054470/WN_CYgexNC-Ssmbzi0gRF234Q">register in advance</a> if you plan to attend (whether online or in person).</li>
-</ul>
-<p>The list is maintained on <a href="https://www.schneier.com/events/">this page</a>.</p>
- 
-
-<br> 
-
-<https://www.schneier.com/blog/archives/2024/12/upcoming-speaking-events-2.html>
-
----
-
-## Listened to: Learning Conversations Artificial Intelligence with Ollie Bray
-
-date: 2024-12-14, from: John's World Wide Wall Display
-
-Listened to: Learning Conversations Artificial Intelligence with Ollie Bray &#124; Education Scotland podcast This is the first Education Scotland podcast episode I&#8217;ve listened to. Solid food for thought. I&#8217;ve not developed any really solid ideas around AI in education but this helped me think of some questions. Ollie compared the uptake and development to AI [&#8230;] 
-
-<br> 
-
-<https://johnjohnston.info/blog/listened-to-learning-conversations-artificial-intelligence-with-ollie-bray/>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2024-12-14, from: Miguel de Icaza Mastondon feed)
-
-<p>I can quit anytime I want</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/113651824612917859>
-
----
-
-**@John's World Wide Wall Display** (date: 2024-12-14, from: John's World Wide Wall Display)
-
-Chat GPT&#8217;s geography is a bit off. 
-
-<br> 
-
-<https://johnjohnston.info/blog/chat-gpts-geography/>
-
----
-
-## Time Magazine’s Jackass of the Year | The Coffee Klatch, December 14, 2024
-
-date: 2024-12-14, from: Robert Reich's blog
-
-With Michael Lahanas-Calder&#243;n, Vishal Shankar, and Yours Truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153090482/e3a5f9d4502f0cbf3f18642ca9ed1a2b.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/153090482/e3a5f9d4502f0cbf3f18642ca9ed1a2b.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/time-magazines-jackass-of-the-year>
-
----
-
-## Weeknotes: Dec. 7-13, 2024
-
-date: 2024-12-14, from: Tracy Durnell Blog
-
-Win of the week: wrote every weekday this week! Looking forward to: planning to bake this sourdough apple cobbler this weekend 🍏 Stuff I did: 9.5 hours consulting 4.75 hours writing reviewed someone&#8217;s blog post! Two more people have asked me to read theirs 😀 That means I&#8217;ve got two more openings &#8212; so if you&#8217;ve [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2024/12/13/weeknotes-dec-7-13-2024/>
-
----
-
-## December 13, 2024
-
-date: 2024-12-14, from: Heather Cox Richardson blog
-
-Time magazine&#8217;s interview with President-elect Donald Trump, published yesterday, revealed a man who was so desperate to be reelected to the presidency that he constructed a performance that he believed would woo voters, but who has no apparent plans for actual governance. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/december-13-2024>
-
----
-
-## iGeneration Reports Apple Will Stop Selling Lightning-Port iPhones in the EU This Month
-
-date: 2024-12-14, updated: 2024-12-16, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.macrumors.com/2024/12/13/iphone-14-and-iphone-se-eu-report/>
 

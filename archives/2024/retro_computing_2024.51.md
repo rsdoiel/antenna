@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2024-12-21 07:05:38
+updated: 2024-12-22 07:04:58
 ---
 
 # retro computing
 
-(date: 2024-12-21 07:05:38)
+(date: 2024-12-22 07:04:58)
+
+---
+
+## TrainTimes 2.05 released
+
+date: 2024-12-22, from: RiscOS Story
+
+Another small update has been made to TrainTimes by its developer, Kevin Wells. The application provides a way to look up information about trains and stations, including timetable information, and so on. It does this by using Wget to communicate user input to a couple of remote websites &#8211; Real Train Times and National Rail &#8211; and processing and displaying the data that is returned. The main change to bring the software up to version 2.06 is the addition of a &#8216;Station Data&#8217; entry in the Station Details window menu.&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/traintimes-2-05-released-2/>
+
+---
+
+## lDebug release 9
+
+date: 2024-12-21, from: FreeDOS News
+
+<div class="markdown_content"><p>Today marks another release of the DOS debugger "with the small L": lDebug. This line-oriented debugger is a fork originally based on the 2008 version 1.13 of FreeDOS Debug/X, with a number of additions. Release 9 marks some bugfixes, a new revision of the lDebug/lDOS boot protocol for FAT32 drives, and the immediate assembler feature now enabled at build time. There's <a class="" href="https://sourceforge.net/p/freedos/mailman/message/59108163/">a longer announcement</a>  on the freedos-user list. Get lDebug release 9 from <a class="" href="https://pushbx.org/ecm/web/#projects-ldebug" rel="nofollow">ecm's website</a>. We've also mirrored this release in the <a class="" href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files" rel="nofollow">FreeDOS Files Archive</a> at Ibiblio, under <a class="" href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/debug/ldebug/rel9/" rel="nofollow">/dos/debug/ldebug</a></p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2024/12/ldebug-release-9/>
+
+---
+
+## Early 'Christmas present' from Chris Hall
+
+date: 2024-12-21, from: Icon Bar, RISC OS News
+
+Chris Hall has released an early 'Christmas present' for the RISC OS community. He has made 2 very useful reference guides available as both PDF files and using his RingBound Page flipping software for RISC OS. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2152.html>
 
 ---
 
@@ -37,7 +73,7 @@ Around twenty years ago, people would have laughed if you told them that videoga
 
 date: 2024-12-19, from: Computer ads from the Past
 
-Your options are a programming language, a multimedia program, and a printer. 
+Your options are an accounting program, a laptop, and a joystick. 
 
 <br> 
 
@@ -126,40 +162,4 @@ Reminder MUG is holding their December meeting at 7:30pm tomorrow night online.
 <br> 
 
 <http://www.iconbar.com/comments/rss/news2144.html>
-
----
-
-## b.log 2024/12/14 - The problem with AI, AI vs BBC BASIC, AI vs TurboC, AI vs Humans, So to sum up..., On making shit up.
-
-date: 2024-12-14, from: Richard Murray's blog
-
-The problem with AI, AI vs BBC BASIC, AI vs TurboC, AI vs Humans, So to sum up..., On making shit up. 
-
-<br> 
-
-<https://heyrick.eu/blog/index.php?diary=20241214>
-
----
-
-## RISC OS North officially announced for 29th March, 2025
-
-date: 2024-12-14, from: RiscOS Story
-
-As noted last week, we now have the dates for all of the main RISC OS shows that are planned for 2025 &#8211; and one of those is a new event, RISC OS North, to replace both the Southwest Show and Wakefield. The new show is being organised by R-Comp&#8217;s Andrew Rawnsley and Orpheus Internet&#8217;s Richard Brown, the pair who normally handles the Southwest event, and this week they sent out a formal announcement of the show. The reason for the new event is that the Wakefield RISC OS Computer&#8230; 
-
-<br> 
-
-<https://www.riscository.com/2024/risc-os-north-29th-march-2025/>
-
----
-
-## Impression User Manual – Bound!
-
-date: 2024-12-14, from: RiscOS Story
-
-And more updates to RingBind When Chris Hall announced version 0.20 of his RingBind application, which allows (specially converted) documents to be viewed on the desktop as though they are physical tomes on the desk, he made available a beta version of his current work-in-progress &#8211; a conversion of the Impression User Manual. Chris now reports that the manual is &#8216;finished&#8217;, though with a caveat that he hasn&#8217;t yet finished creating the links in 11 of the 12 pages of the Index. (Clicking on a link in a document displayed&#8230; 
-
-<br> 
-
-<https://www.riscository.com/2024/impression-user-manual-bound/>
 
