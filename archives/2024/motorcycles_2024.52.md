@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2024-12-23 07:05:37
+updated: 2024-12-24 07:05:29
 ---
 
 # motorcycles
 
-(date: 2024-12-23 07:05:37)
+(date: 2024-12-24 07:05:29)
+
+---
+
+## KTM Selling MV Agusta Shares, Under Investigation by Financial Market Authority
+
+date: 2024-12-24, from: Ride Apart, Electric Motorcycle News
+
+It's unclear exactly how related the investigation is to the selling of shares. 
+
+<br> 
+
+<https://www.rideapart.com/news/745192/ktm-sells-mv-agusta-shares-under-investigation/>
 
 ---
 

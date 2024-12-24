@@ -1,11 +1,107 @@
 ---
 title: food
-updated: 2024-12-23 07:05:38
+updated: 2024-12-24 07:05:30
 ---
 
 # food
 
-(date: 2024-12-23 07:05:38)
+(date: 2024-12-24 07:05:30)
+
+---
+
+## The Biggest Coffee Business News Stories of 2024
+
+date: 2024-12-24, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="2024 coffee business news stories" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Historically high coffee prices, new regulations such as EUDR, climate change and increased demand of high-quality coffees squeezed coffee businesses of all sizes this year, creating what many characterized as... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/24/the-biggest-coffee-business-news-stories-of-2024/>
+
+---
+
+## Best of ‘Three Questions’ 2024: Conversations with Coffee Leaders
+
+date: 2024-12-24, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Three Questions 2024" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Continuing our 2024 Year in Review, here are some highlights from our ongoing &#8220;Three Questions With&#8221; series, which features people doing amazing work in all corners of the coffee world.&#160;... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/24/best-of-three-questions-2024-conversations-with-coffee-leaders/>
+
+---
+
+## 2024 Year In Review: 10 New Coffee Shops in the US Rockies, Plains and Southwest
+
+date: 2024-12-24, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="New coffee shops west" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Continuing DCN’s&#160;2024 Year in Review, here are 10 exciting new coffee shops that opened throughout the inland American West in 2024. For all the latest coffee shop openings and specialty... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/24/2024-year-in-review-10-new-coffee-shops-in-the-us-rockies-plains-and-southwest/>
+
+---
+
+## 2024 Year In Review: 10 New Coffee Shops on the US West Coast
+
+date: 2024-12-24, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Untitled (1)" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Continuing DCN’s&#160;2024 Year in Review, here are 10 exciting new coffee shops that opened up in the U.S. West Coas states in 2024.&#160; For all the latest coffee shop openings... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/24/2024-year-in-review-10-new-coffee-shops-on-the-us-west-coast/>
+
+---
+
+## 2024 Year In Review: 10 New Coffee Shops in the US Midwest
+
+date: 2024-12-24, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/New-Coffee-Shops-Midwest-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="New Coffee Shops Midwest" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/New-Coffee-Shops-Midwest-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-Coffee-Shops-Midwest-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-Coffee-Shops-Midwest-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-Coffee-Shops-Midwest-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-Coffee-Shops-Midwest.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Continuing DCN&#8217;s 2024 Year in Review, here are 10 exciting new coffee shops that opened throughout the Midwest United States in 2024.&#160; For all the latest coffee shop openings and... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/24/2024-year-in-review-10-new-coffee-shops-in-the-us-midwest/>
+
+---
+
+## New Water Solutions, Milk Tools and Espresso Accessories in 2024
+
+date: 2024-12-24, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-espresso-water-accessories-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="2024 espresso water accessories" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-espresso-water-accessories-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-espresso-water-accessories-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-espresso-water-accessories-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-espresso-water-accessories-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-espresso-water-accessories.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>This was a big year for water in coffee — which makes sense considering the stuff accounts for some 98% of brews while threatening the longevity of equipment.&#160; 2024 saw... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/24/sideworks-center-stage-new-water-milk-and-preparation-tools-for-coffee-in-2024/>
+
+---
+
+## 2024 Year In Review: 10 New Coffee Shops in the US Southeast
+
+date: 2024-12-23, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-southeast-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="New coffee shops southeast" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-southeast-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-southeast-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-southeast-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-southeast-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-southeast.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Continuing DCN’s&#160;2024 Year in Review, here are 10 exciting new coffee shops that opened throughout the Southeastern United States in 2024.&#160; For all the latest coffee shop openings and specialty... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/23/2024-year-in-review-10-new-coffee-shops-in-the-us-southeast/>
+
+---
+
+## 2024 Year In Review: 10 New Coffee Shops in the US Northeast
+
+date: 2024-12-23, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-northeast-620x400.png" class="attachment-large size-large wp-post-image" alt="New coffee shops northeast" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-northeast-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-northeast-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-northeast-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-northeast-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-northeast.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Kicking off DCN&#8217;s 2024 Year in Review, here are 10 exciting new coffee shops that opened throughout the United States Northeast in 2024.&#160; For all the latest coffee shop openings... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/23/2024-year-in-review-10-new-coffee-shops-in-the-us-northeast/>
 
 ---
 

@@ -1,11 +1,299 @@
 ---
 title: science and technology
-updated: 2024-12-23 07:05:35
+updated: 2024-12-24 07:05:27
 ---
 
 # science and technology
 
-(date: 2024-12-23 07:05:35)
+(date: 2024-12-24 07:05:27)
+
+---
+
+## Microsoft Edge takes a victory lap with some high-looking usage stats for 2024
+
+date: 2024-12-24, updated: 2024-12-24, from: The Register (UK I.T. News)
+
+<h4>Lots of big numbers, but market share wasn&#39;t one of them</h4> <p>Microsoft has published a year in review for its Edge browser and talked up AI-powered chats while lightly skipping over the software&#39;s stagnating market share.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/24/microsoft_edge_2024/>
+
+---
+
+## Sea Turtle With 'Bubble Butt Syndrome' Gets Another Chance at Floating Straight, Thanks to a 3D-Printed Harness
+
+date: 2024-12-24, from: Smithsonian Magazine
+
+Named Charlotte, the animal was hit by a boat years ago, causing him to develop an affliction that traps air bubbles at the back of his shell 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/sea-turtle-with-bubble-butt-syndrome-gets-another-chance-at-floating-straight-thanks-to-a-3d-printed-harness-180985736/>
+
+---
+
+## The Ten Most Awe-Inspiring Ocean Moments of 2024
+
+date: 2024-12-24, from: Smithsonian Magazine
+
+From animal journeys across oceans to the discovery of dozens of new species in the deep sea, these stories wowed us 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-ten-most-awe-inspiring-ocean-moments-of-2024-180985733/>
+
+---
+
+## What do ransomware and Jesus have in common? A birth month and an unwillingness to die
+
+date: 2024-12-24, updated: 2024-12-24, from: The Register (UK I.T. News)
+
+<h4>35 years since AIDS first borked a PC and we&#39;re still no closer to a solution</h4> <p><strong>Feature</strong>  Your Christmas holidays looked quite different in the &#39;80s to how they do today. While some will remember what it was like to wake up on the 25th back then, some of you won&#39;t even have been born. The food hasn&#39;t changed much. Turkey, stuffing, Brussels sprouts… that&#39;s all been around for some time.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/24/ransomware_in_2024/>
+
+---
+
+## Ancient Britons May Have Built Stonehenge to Symbolize Unity
+
+date: 2024-12-24, from: Smithsonian Magazine
+
+The monument was built during a period of immigration from mainland Europe, and it may been intended to unify communities across the British Isles 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/ancient-britons-may-have-built-stonehenge-to-symbolize-unity-180985728/>
+
+---
+
+## A Stunning Series of Informal Ceasefires Known as the ‘Christmas Truce’ Began on This Day in 1914
+
+date: 2024-12-24, from: Smithsonian Magazine
+
+After official attempts at a World War I truce failed, soldiers in the trenches of the Western Front took it upon themselves to share in the bonhomie of the season 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-stunning-series-of-informal-ceasefires-known-as-the-christmas-truce-began-on-this-day-in-1914-180985734/>
+
+---
+
+## One third of adults can't delete device data
+
+date: 2024-12-24, updated: 2024-12-24, from: The Register (UK I.T. News)
+
+<h4>Easier to let those old phones gather dust in a drawer, survey finds</h4> <p>The UK&#39;s Information Commissioner&#39;s Office (ICO) has warned that many adults don&#39;t know how to wipe their old devices, and a worrying number of young people just don&#39;t care.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/24/uk_device_data_deletion/>
+
+---
+
+## Are you better value for money than AI?
+
+date: 2024-12-23, updated: 2024-12-23, from: The Register (UK I.T. News)
+
+<h4>Tech vendors start saying the quiet part out loud – do enterprises really need all that headcount?</h4> <p><strong>Comment</strong>  AI vendors are starting to say the quiet part out loud. As technology advances, it seems more about controlling costs and headcount.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/23/ai_job_replacement_comment/>
+
+---
+
+## Celebrating the Holiday Season in Space
+
+date: 2024-12-23, from: NASA breaking news
+
+Crew members aboard the International Space Station celebrate the holiday season in a unique way while living and working at the orbiting laboratory. Each crew member, including the current Expedition 72, spends time enjoying the view of Earth from the space station, privately communicating with their friends and families, and sharing a joint meal with [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/celebrating-the-holiday-season-in-space-2/>
+
+---
+
+## 'That's not a bug, it's a feature' takes on a darker tone when malware's involved
+
+date: 2024-12-23, updated: 2024-12-23, from: The Register (UK I.T. News)
+
+<h4>Mummy, where do zero days come from?</h4> <p><strong>Opinion</strong>  One of the charms of coding is that malice can be indistinguishable from incompetence. Last week&#39;s <a target="_blank" href="https://www.theregister.com/2024/12/16/who_me/">Who, Me?</a> story about financial transfer test software running amok is a case in point.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/23/firmware_malware_opinion/>
+
+---
+
+## Jury spares Qualcomm's AI PC ambitions, but Arm eyes a retrial
+
+date: 2024-12-23, updated: 2024-12-23, from: The Register (UK I.T. News)
+
+<h4>The victory may be short lived as the chip designer gears up for second round</h4> <p><strong>Analysis</strong>  Qualcomm&#39;s push into the PC arena is safe, at least for the moment, after a jury found its mobile processor designs had not violated Arm Holdings&#39; licenses as the British chip designer had claimed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/23/qualcomm_arm_trial/>
+
+---
+
+## Archaeologists in the Netherlands Just Uncovered a Centuries-Old Floor Made of Cow Bones
+
+date: 2024-12-23, from: Smithsonian Magazine
+
+Found beneath a building in the town of Alkmaar, the animal bones had been used to fill in gaps between crumbling pieces of tile 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-in-the-netherlands-just-uncovered-a-centuries-old-floor-made-of-cow-bones-180985714/>
+
+---
+
+## Some Whales Live Much Longer Than Previously Thought, a Discovery That Could Change How We Protect Them
+
+date: 2024-12-23, from: Smithsonian Magazine
+
+In a new study, researchers use novel techniques to uncover more accurate life expectancy estimates of southern and North Atlantic right whales 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/some-whales-live-much-longer-than-previously-thought-a-discovery-that-could-change-how-we-protect-them-180985732/>
+
+---
+
+## Commercial Moon Rovers Under Test
+
+date: 2024-12-23, from: NASA breaking news
+
+Venturi Astrolab’s FLEX, Intuitive Machines’ Moon RACER, and Lunar Outpost’s Eagle lunar terrain vehicle – three commercially owned and developed LTVs (Lunar Terrain Vehicle) – are pictured at NASA’s Johnson Space Center in Houston in this photo from Nov. 21, 2024. As part of an ongoing year-long feasibility study, each company delivered a static mockup [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/commercial-moon-rovers-under-test/>
+
+---
+
+## Ken Freeman Receives Air Traffic Control Association (ATCA) Award for ATM-X Digital Information Platform (DIP)
+
+date: 2024-12-23, from: NASA breaking news
+
+Air Traffic Control Association (ATCA) Award to the NASA&#160;ATM-X&#160;Digital Information Platform (DIP) TeamIn November 2024, the Digital Information Platform (DIP) team received the prestigious Industry Award from the Air Traffic Control Association (ATCA) at the annual ATCA Connect Conference in Washington, DC.&#160;The award recognized the team’s efforts in supporting NASA’s Sustainable Flight National Partnership (SFNP), [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/ken-freeman-receives-air-traffic-control-association-atca-award-for-atm-x-digital-information-platform-dip/>
+
+---
+
+## A NASA Spacecraft Will 'Touch' the Sun on Christmas Eve, Flying Closer to the Star Than Any Probe Before
+
+date: 2024-12-23, from: Smithsonian Magazine
+
+The Parker Solar Probe will endure scorching temperatures of 1,700 degrees Fahrenheit as it performs the closest solar flyby of any human-made object in history 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-nasa-spacecraft-will-touch-the-sun-on-christmas-eve-flying-closer-to-the-star-than-any-probe-before-180985730/>
+
+---
+
+## SvarDOS: DR-DOS is reborn as an open source operating system
+
+date: 2024-12-23, updated: 2024-12-23, from: The Register (UK I.T. News)
+
+<h4>A #DOScember surprise: fits on a single floppy, but has a network-capable package manager</h4> <p>With its recent switch to a different kernel, SvarDOS moves from being a distro of FreeDOS to greater independence.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/23/svardos_drdos_reborn/>
+
+---
+
+## Science Done by Volunteers Highlighted at December’s American Geophysical Union Meeting
+
+date: 2024-12-23, from: NASA breaking news
+
+More than 30,000 scientists gathered in Washington, D.C. during the second week of December – many to show off the work of NASA’s science volunteers! The American Geophysical Union held its annual meeting of professionals this month – the world’s largest gathering of Earth and Space Scientists. Here’s what they were talking about. Two dozen […] 
+
+<br> 
+
+<https://science.nasa.gov/get-involved/citizen-science/science-done-by-volunteers-highlighted-at-decembers-american-geophysical-union-meeting/>
+
+---
+
+## Divers Discover 2,500-Year-Old Shipwreck Off the Coast of Sicily
+
+date: 2024-12-23, from: Smithsonian Magazine
+
+Dating to the fifth or sixth century B.C.E., the vessel could provide new insights into the relationship between the ancient Greeks and Carthaginians 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/divers-discover-2500-year-old-shipwreck-off-the-coast-of-sicily-180985719/>
+
+---
+
+## How a NASA Senior Database Administrator Manifested her Dream Job
+
+date: 2024-12-23, from: NASA breaking news
+
+When Madhavi Latha Balijepalle noticed that her morning commute took her past NASA Ames Research Center in California’s Silicon Valley, she set a new career goal for herself: working for NASA.&#160; “I started manifesting it, thinking about it every day as I drove by. When I started looking for a new job, I saw an [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/how-a-nasa-senior-database-administrator-manifested-her-dream-job/>
+
+---
+
+## Expedition Discovers 27 New Species in Peru, From an ‘Exceedingly Rare’ Amphibious Mouse to a Blob-Headed Fish
+
+date: 2024-12-23, from: Smithsonian Magazine
+
+The hidden creatures were found in a densely populated region known for its successful—and controversial—conservation tactics 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/expedition-discovers-27-new-species-in-peru-from-an-exceedingly-rare-amphibious-mouse-to-a-blob-headed-fish-180985721/>
+
+---
+
+## AI's rising tide lifts all chips as AMD Instinct, cloudy silicon vie for a slice of Nvidia's pie
+
+date: 2024-12-23, updated: 2024-12-23, from: The Register (UK I.T. News)
+
+<h4>Analyst estimates show growing apetite for alternative infrastructure</h4> <p>Nvidia dominated the AI arena in 2024, with shipments of its Hopper GPUs more than tripling to over two million among its 12 largest customers, according to estimates from Omdia.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/23/nvidia_ai_hardware_competition/>
+
+---
+
+## Parker Solar Probe set for blisteringly hot date with the Sun on Christmas Eve
+
+date: 2024-12-23, updated: 2024-12-23, from: The Register (UK I.T. News)
+
+<h4>Ho-ho-holy heatshield!</h4> <p>NASA&#39;s Parker Solar Probe is scheduled to make its closest approach yet to the Sun, approximately 3.8 million miles from the star&#39;s surface, on Christmas Eve.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/23/parker_solar_probe_sun/>
+
+---
+
+## Scientists Say Bakers Were Making an Early Version of Focaccia Bread 9,000 Years Ago
+
+date: 2024-12-23, from: Smithsonian Magazine
+
+New research suggests that Neolithic communities living in the Middle East experimented with recipes and baked large flatbreads between 7000 and 5000 B.C.E. 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-say-bakers-were-making-an-early-version-of-focaccia-bread-9000-years-ago-180985684/>
 
 ---
 

@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2024-12-23 07:05:36
+updated: 2024-12-24 07:05:28
 ---
 
 # games
 
-(date: 2024-12-23 07:05:36)
+(date: 2024-12-24 07:05:28)
+
+---
+
+## Rankin/Bass’ holiday-special style makes 1977’s The Hobbit a great Christmas watch
+
+date: 2024-12-24, updated: 2024-12-24, from: Polygon Website
+
+Over the last 20 years, Peter Jackson’s Lord of the Rings trilogy has been enshrined as a wintertime favorite by those craving spectacle and a cozy time on the couch. We can (and have!) debated if the films are best served by one holiday or another, but every fantasy nut seems to agree: The mix [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/501804/hobbit-animated-streaming-1977-rankin-bass>
+
+---
+
+## New Mistborn game helps Brandon Sanderson’s unique form of magic come to life
+
+date: 2024-12-24, updated: 2024-12-23, from: Polygon Website
+
+In Brandon Sanderson’s Mistborn series, some people have the power to metabolize metal to work magic, burning pewter to enhance themselves physically or brass to soothe someone else’s emotions. But the most powerful characters in the world are the Mistborn, who can use many types of metals and combine their powers to effectively fly and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/499773/mistborn-deckbuilding-game-impressions-release-date-price>
+
+---
+
+## The state birds are garbage, but this video about them is genius
+
+date: 2024-12-24, updated: 2024-12-20, from: Polygon Website
+
+One of my favorite things about YouTube is discovering a channel that has this one stellar video unlike anything else they’ve done. Bill Wurtz’s “history of japan” is a classic example, the 80 million-view juggernaut from a channel that typically posts bite-sized neon surrealist animations. But I’d like to turn your attention to another absurdist [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/yuletide-youtube/479901/us-state-birds-garbage-youtube-video>
+
+---
+
+## Can Delibird (holiday ribbon) be shiny in Pokémon Go?
+
+date: 2024-12-24, updated: 2024-12-17, from: Polygon Website
+
+Delibird, the delivery Pokémon from Johto, can be found in the wild in Pokémon Go. Yes, Delibird with its holiday ribbon accessory can be shiny in Pokémon Go! Delibird doesn’t see any use in PvP or PvE content, but who can say no to a cute little delivery penguin, especially when it has a ribbon [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/497545/can-delibird-holiday-ribbon-be-shiny-in-pokemon-go>
+
+---
+
+## Christopher Nolan to adapt The Odyssey with appropriately epic cast
+
+date: 2024-12-23, updated: 2024-12-23, from: Polygon Website
+
+Christopher Nolan has decided to get a bit more literal with his next epic, by taking to the past and adapting Homer’s The Odyssey, according to a new post on X by Universal Pictures. The reveal came after months of fans speculating about the filmmaker’s follow-up to Oppenheimer, which won Nolan his first Best Director [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/501836/christopher-nolans-odyssey-movie-release-date-cast>
+
+---
+
+## How to get the free Yulejacket and Santa Dogg skins in Fortnite Winterfest 2024
+
+date: 2024-12-23, updated: 2024-12-23, from: Polygon Website
+
+Yulejacket and Santa Dogg are the two free skins in Fortnite’s Winterfest 2024 event, shown left and right respectively in the screenshot above. Enjoy Winterfest 2024 and spread holiday cheer as Yulejacket and Snoop Dogg, but you have to get them first. Getting them requires a little more work than all of the other Winterfest [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/500842/free-skins-winterfest-2024-yulejacket-santa-dogg-how-to-get>
+
+---
+
+## Hear ye, hear ye, this Team Fortress 2 comic is a holiday miracle
+
+date: 2024-12-23, updated: 2024-12-23, from: Polygon Website
+
+Before Overwatch and Marvel Rivals, there was another zany, character-based hero shooter that gamers adored: Valve’s Team Fortress 2. Team Fortress 2 is still a relevant game, and has retained a fanbase since its release in 2007. In fact, the surprise release of a Team Fortress 2 comic, a full seven years after the last [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/501710/team-fortress-2-valve-comic-surprise-release>
+
+---
+
+## Play as your Sonic the Hedgehog OC with these fan made tabletop games
+
+date: 2024-12-23, updated: 2024-12-23, from: Polygon Website
+
+In the days since Sonic the Hedgehog 3 was released, I’ve been doing a diligent search for the best Sonic-inspired tabletop games out there. And folks, I’ve found them. Surprisingly, there is no official Sonic the Hedgehog tabletop RPG (yet). Thankfully, the fans are here to save the day. Through some diligent dives, I&#8217;ve found [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/501703/sonic-the-hedgehog-oc-fan-ttrpg-tag-team-heroes-rings-and-running-shoes>
+
+---
+
+## How to get predator cores in Palworld
+
+date: 2024-12-23, updated: 2024-12-23, from: Polygon Website
+
+Predator cores are a new crafting material added in Palworld Feybreak. Predator cores are used to create items like pouches and the Meowmere, a sword from Terraria that meows and fires bullets. However, predator cores can be pretty hard to come by as you’ll need to find rampaging Predator Pals across the map. Here’s how [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/palworld-guides/501530/predator-core-rampaging-pal-locations-feybreak>
 
 ---
 

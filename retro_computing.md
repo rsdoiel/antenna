@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2024-12-23 07:05:37
+updated: 2024-12-24 07:05:30
 ---
 
 # retro computing
 
-(date: 2024-12-23 07:05:37)
+(date: 2024-12-24 07:05:30)
+
+---
+
+## RISC OS 'Advent' Calendar 2024 - ROOL
+
+date: 2024-12-24, from: Icon Bar, RISC OS News
+
+Many thanks to ROOL for sending this festive item and tutorial... 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2153.html>
+
+---
+
+## Fedora Asahi Remix 41 Available for Apple Silicon
+
+date: 2024-12-23, from: Linux Magazine
+
+<p>If you have an Apple Silicon Mac and you're hoping to install Fedora, you're in luck because the latest release supports the M1 and M2 chips.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Fedora-Asahi-Remix-41-Available-for-Apple-Silicon>
+
+---
+
+## NCR PC4i
+
+date: 2024-12-23, from: Computer ads from the Past
+
+Growing with your needs 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/ncr-pc4i>
 
 ---
 
@@ -247,7 +283,7 @@ date: 2024-12-22, from: Low-tech magazine
 </div>
 </div>
 <h2 id="span-iddressingdressing-and-undressing-the-tablespan"><span id="dressing">Dressing and undressing the table</span></h2>
-<p>Any heating system must be able to adapt to varying temperatures. For a central heating system, that happens by manipulating the thermostat. However, that doesn&rsquo;t work so well for a heated table, because the temperature range of the carbon heating film is limited. Going below 38°C (100°F) will not provide a pleasant sensation of warmth, while prolonged heating above 45°C (113°F) may damage the heating film and make it too hot to touch. However, you can adjust thermal comfort in a wide range of air temperatures by &ldquo;dressing&rdquo; and &ldquo;undressing&rdquo; the table: by adding and removing textile layers, and by using them in different ways.</p>
+<p>Any heating system must be able to be adjusted to achieve the desired comfort. For a central heating system, that happens by manipulating the thermostat. However, that doesn&rsquo;t work so well for a heated table, because the temperature range of the carbon heating film is limited. Going below 38°C (100°F) will not provide a pleasant sensation of warmth, while prolonged heating above 45°C (113°F) may damage the heating film and make it too hot to touch. However, you can adjust thermal comfort in a wide range of air temperatures by &ldquo;dressing&rdquo; and &ldquo;undressing&rdquo; the table: by adding and removing textile layers, and by using them in different ways.</p>
 <blockquote>
 <p>You can adjust thermal comfort in a wide range of air temperatures by adding and removing textile layers, and by using them in different ways</p>
 </blockquote>

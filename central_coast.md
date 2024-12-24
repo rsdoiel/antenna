@@ -1,11 +1,127 @@
 ---
 title: central coast
-updated: 2024-12-23 07:05:35
+updated: 2024-12-24 07:05:28
 ---
 
 # central coast
 
-(date: 2024-12-23 07:05:35)
+(date: 2024-12-24 07:05:28)
+
+---
+
+## Winter Sunset
+
+date: 2024-12-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-POD-Michael-Diamant.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Winter sunset at Santa Barbara’s Stearns Wharf." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-POD-Michael-Diamant.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-POD-Michael-Diamant.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-POD-Michael-Diamant.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-POD-Michael-Diamant.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-POD-Michael-Diamant.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-POD-Michael-Diamant.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-POD-Michael-Diamant.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-POD-Michael-Diamant.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-POD-Michael-Diamant.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-POD-Michael-Diamant.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-POD-Michael-Diamant.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-POD-Michael-Diamant.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/winter-sunset/">Winter Sunset</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/winter-sunset/>
+
+---
+
+## State Commission Accuses Santa Barbara County Judge of Misconduct
+
+date: 2024-12-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Carrozzo-Signs-his-Oath-of-Office.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Michael Carrozzo signs his oath of office for Santa Barbara County Superior Court in 2014." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Carrozzo-Signs-his-Oath-of-Office.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Carrozzo-Signs-his-Oath-of-Office.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Carrozzo-Signs-his-Oath-of-Office.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Carrozzo-Signs-his-Oath-of-Office.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Carrozzo-Signs-his-Oath-of-Office.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Carrozzo-Signs-his-Oath-of-Office.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Carrozzo-Signs-his-Oath-of-Office.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Carrozzo-Signs-his-Oath-of-Office.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Carrozzo-Signs-his-Oath-of-Office.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Formal proceedings have been launched against a Santa Barbara County Superior Court judge accused of misconduct by acting as an attorney, abusing his authority and disparaging court staff. The Commission [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-county-judge-michael-carrozzo-accused-of-misconduct/">State Commission Accuses Santa Barbara County Judge of Misconduct</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-barbara-county-judge-michael-carrozzo-accused-of-misconduct/>
+
+---
+
+## How America Lost Control of the Bird Flu, Setting the Stage for Another Pandemic
+
+date: 2024-12-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="968" height="1024" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-kff-Bird-Flu-Fail-Antibody-Testing.jpg?fit=968%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A researcher draws blood from a farmworker to analyze it for signs of a previous, undetected bird flu infection. (Thang Nguyen / UTMB photo)" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-kff-Bird-Flu-Fail-Antibody-Testing.jpg?w=1918&amp;ssl=1 1918w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-kff-Bird-Flu-Fail-Antibody-Testing.jpg?resize=284%2C300&amp;ssl=1 284w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-kff-Bird-Flu-Fail-Antibody-Testing.jpg?resize=968%2C1024&amp;ssl=1 968w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-kff-Bird-Flu-Fail-Antibody-Testing.jpg?resize=768%2C812&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-kff-Bird-Flu-Fail-Antibody-Testing.jpg?resize=1452%2C1536&amp;ssl=1 1452w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-kff-Bird-Flu-Fail-Antibody-Testing.jpg?resize=1200%2C1269&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-kff-Bird-Flu-Fail-Antibody-Testing.jpg?resize=1568%2C1659&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-kff-Bird-Flu-Fail-Antibody-Testing.jpg?resize=400%2C423&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122024-kff-Bird-Flu-Fail-Antibody-Testing.jpg?fit=968%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Noozhawk republishes news articles from&#160;KFF Health News&#160;on national and state health-related issues that impact Santa Barbara County readers.&#160; Keith Poulsen’s jaw dropped when farmers showed him images on their cellphones [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/how-america-lost-control-of-the-bird-flu-setting-the-stage-for-another-pandemic/">How America Lost Control of the Bird Flu, Setting the Stage for Another Pandemic</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/how-america-lost-control-of-the-bird-flu-setting-the-stage-for-another-pandemic/>
+
+---
+
+## Two Bird Flu Cases Confirmed in Cats in Santa Barbara County
+
+date: 2024-12-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara County Public Health Department (SBCPHD) has confirmed two cases of H5 bird flu in domesticated cats from two different households. After testing positive for influenza A, a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/two-bird-flu-cases-confirmed-in-cats-in-santa-barbara-county/">Two Bird Flu Cases Confirmed in Cats in Santa Barbara County</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/two-bird-flu-cases-confirmed-in-cats-in-santa-barbara-county/>
+
+---
+
+## Officials Remain Wary as High Tides, Heavy Surf Continue Along the South Coast
+
+date: 2024-12-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12232024-High-Surf-DG-03-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Officials at the Santa Barbara Harbor are keeping a close eye on the high tides and heavy surf that are combining to create a risk of flooding. So far, no major damage has been reported." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12232024-High-Surf-DG-03-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12232024-High-Surf-DG-03-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12232024-High-Surf-DG-03-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12232024-High-Surf-DG-03-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12232024-High-Surf-DG-03-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12232024-High-Surf-DG-03-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12232024-High-Surf-DG-03-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12232024-High-Surf-DG-03-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12232024-High-Surf-DG-03-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A High Surf Advisory is still in effect for coastal areas of southern Santa Barbara County, with officials remaining wary of possible flooding and related damage over the next couple [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/officials-remain-wary-as-high-tides-heavy-surf-continue-along-the-south-coast/">Officials Remain Wary as High Tides, Heavy Surf Continue Along the South Coast</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/officials-remain-wary-as-high-tides-heavy-surf-continue-along-the-south-coast/>
+
+---
+
+## Santa Barbara Talks: Das Williams Opens Up About Assembly Years, Cannabis Controversy
+
+date: 2024-12-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Das Williams reflects on his tenure in the California State Assembly, and touches on his years as a member of the Santa Barbara County Board of Supervisors, in the latest [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-talks-das-williams-opens-up-about-assembly-years-cannabis-controversy/">Santa Barbara Talks: Das Williams Opens Up About Assembly Years, Cannabis Controversy</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-barbara-talks-das-williams-opens-up-about-assembly-years-cannabis-controversy/>
+
+---
+
+## Community Asked to Weigh in on New Santa Maria-SLO Bus Route
+
+date: 2024-12-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Maria Regional Transit (SMRT) is soliciting public feedback on a proposed additional bus route connecting Santa Maria to San Luis Obispo. The new route is designed to provide added [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/community-asked-to-weigh-in-on-new-santa-maria-slo-bus-route/">Community Asked to Weigh in on New Santa Maria-SLO Bus Route</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/community-asked-to-weigh-in-on-new-santa-maria-slo-bus-route/>
+
+---
+
+## Mary Hunt: 7 Fabulous Last-Minute Gift Ideas
+
+date: 2024-12-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Stationery-Microsoft-Word.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Use your computer to make custom stationery as a last-minute gift." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Stationery-Microsoft-Word.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Stationery-Microsoft-Word.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Stationery-Microsoft-Word.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Stationery-Microsoft-Word.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Stationery-Microsoft-Word.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Stationery-Microsoft-Word.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Stationery-Microsoft-Word.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Stationery-Microsoft-Word.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Stationery-Microsoft-Word.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Stationery-Microsoft-Word.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Stationery-Microsoft-Word.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Stationery-Microsoft-Word.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Need a last-minute gift for an office party, a beloved friend, neighbor, co-worker or anyone else on your gift list, and for any occasion? Here are seven great ideas that [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/mary-hunt-7-fabulous-last-minute-gift-ideas/">Mary Hunt: 7 Fabulous Last-Minute Gift Ideas</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/mary-hunt-7-fabulous-last-minute-gift-ideas/>
 
 ---
 

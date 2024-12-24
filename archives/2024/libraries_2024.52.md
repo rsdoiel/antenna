@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-12-23 07:05:37
+updated: 2024-12-24 07:05:29
 ---
 
 # libraries
 
-(date: 2024-12-23 07:05:37)
+(date: 2024-12-24 07:05:29)
 
 ---
 
@@ -18,6 +18,42 @@ Schmidt, Katarina Wendy; Montespan, Charlotte; Thompson, Danielle; Lucas, Miriam
 <br> 
 
 <http://hdl.handle.net/20.500.11850/708429>
+
+---
+
+## A Marriage Settlement, by Honoré de Balzac
+
+date: 2024-12-23, from: Standard Ebooks, new releaases
+
+A young couple work through the details of negotiating a marriage contract. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/honore-de-balzac/a-marriage-settlement/clara-bell>
+
+---
+
+## The Middle of Things, by J. S. Fletcher
+
+date: 2024-12-23, from: Standard Ebooks, new releaases
+
+The murder of a wealthy man raises questions about the identity of the young woman who is his ward. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/j-s-fletcher/the-middle-of-things>
+
+---
+
+## VERBATIM, Verbatim
+
+date: 2024-12-23, from: Internet Archive Blog
+
+By Erin McKean, editor of VERBATIM. VERBATIM: The Language Quarterly began as a simple six-page pamphlet in 1974, a project launched by lexicographer Laurence Urdang as content marketing — before [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/12/23/verbatim-verbatim/>
 
 ---
 

@@ -1,11 +1,622 @@
 ---
 title: north america
-updated: 2024-12-23 07:05:34
+updated: 2024-12-24 07:05:26
 ---
 
 # north america
 
-(date: 2024-12-23 07:05:34)
+(date: 2024-12-24 07:05:26)
+
+---
+
+## Sofia Carson, singer-actress with Colombian roots, stars in holiday action film
+
+date: 2024-12-24, from: VOA News USA
+
+Singer and actress Sofia Carson closes 2024 with her first action film role and a duet of the holiday classic “White Christmas” with Andrea Bocelli. Carson reflected on her bicultural roots and humanitarian work to VOA’s Veronica Villafane. 
+
+<br> 
+
+<https://www.voanews.com/a/sofia-carson-singer-actress-with-colombian-roots-stars-in-holiday-action-film/7912443.html>
+
+---
+
+## American Airlines operations up and running again after technical issue grounded US flights
+
+date: 2024-12-24, from: VOA News USA
+
+American Airlines flights were cleared to fly by regulators early Tuesday after a brief grounding due to a systemwide technical issue.
+
+
+Just before 7 a.m. Eastern time, the Federal Aviation Administration ordered all American Airlines flights grounded in the U.S. at the airline’s request. American had reported a technical issue affecting its entire system with millions traveling for the holiday.
+
+
+In social media replies to frustrated travelers, the airline said: “Our team is currently working to rectify this. Your continued patience is appreciated.”
+
+
+The company has not issued a press release explaining the issue and an email was not immediately returned.
+
+
+A post on the Federal Aviation Administration's website acknowledged the airline's request for a “nationwide groundstop” for all American Airlines planes and their subsidiary airlines.
+
+
+The grounding occurred with millions of travelers expected to fly over the next 10 days.
+
+
+The Transportation Security Administration expects to screen 40 million passengers over the holidays and through Jan. 2. 
+
+<br> 
+
+<https://www.voanews.com/a/american-airlines-operations-up-and-running-again-after-technical-issue-grounded-us-flights/7912411.html>
+
+---
+
+##  When News Broke In 2025, We Were There 
+
+date: 2024-12-24, from: The Lever News
+
+ While The Lever team is on holiday break, we’re offering subscribers a selection of our best reporting this year.  
+
+<br> 
+
+<https://www.levernews.com/when-news-broke-in-2025-we-were-there/>
+
+---
+
+## Japanese PM Ishiba: Important to strengthen US-Japan alliance
+
+date: 2024-12-24, from: VOA News USA
+
+TOKYO — Japanese Prime Minister Shigeru Ishiba said on Tuesday he wanted to strengthen his country's alliance with the United States, as he pushed for as early as possible a meeting with U.S. President-elect Donald Trump. 
+
+
+Japan is neighbors with an increasingly assertive China and a nuclear-armed North Korea that has been deepening military ties with Russia. 
+
+
+"I think it's important to strengthen the U.S.-Japan alliance even further... and share a common understanding of the situation in north-east Asia," he said at a press conference, adding that no dates for a potential meeting were set yet. 
+
+
+Ishiba, in office since October, has sought a meeting with Trump, but told reporters last month that the president-elect's camp had said meetings with world leaders were restricted under the Logan Act before Trump's January inauguration. 
+
+
+Trump has met with Akie Abe, the widow of the late Japanese Prime Minister Shinzo Abe. 
+
+
+Ishiba also said his cabinet plans to approve on Dec. 27 a draft state budget for the next fiscal year from April. 
+
+
+He also pledged to work on measures to raise minimum wages and to eliminate public concerns for the future to boost private consumption. 
+
+<br> 
+
+<https://www.voanews.com/a/japanese-pm-ishiba-important-to-strengthen-us-japan-alliance/7912212.html>
+
+---
+
+## So, What Does AI Really Mean for Decarbonization?
+
+date: 2024-12-24, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTM2OTI5NC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4OTIwMjIzOH0.7z6GqwC-9iLxL6e2dZVXT_cyvX241nKith79El8f8aQ/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
+	The rise of artificial intelligence and the associated expansion of data centers is driving surging demand for new power supply. Earlier this fall at the annual meeting of Princeton University’s Andlinger Center for Energy and the Environment, Jesse sat down with a panel of experts to discuss how society can meet the growing energy demands of AI while staying on track broader decarbonization efforts.
+</p><p>
+	How will we power the growing demand from AI and data centers? What role can nuclear power really play? Will AI lock us into a new generation of gas power plants? Are regulators prepared for what's coming? Jesse dives into all this and more with <a href="https://acee.princeton.edu/2024-annual-meeting/speakers/#clements" rel="noopener noreferrer" target="_blank">Allison Clements</a>, former commissioner of the Federal Energy Regulatory Commission, <a href="https://acee.princeton.edu/2024-annual-meeting/speakers/#denichilo" rel="noopener noreferrer" target="_blank">Matt DeNichilo</a>, partner at energy investment firm ECP, and <a href="https://acee.princeton.edu/2024-annual-meeting/speakers/#tian" rel="noopener noreferrer" target="_blank">Lucia Tian</a>, head of clean energy and decarbonization technologies at Google.
+</p><p>
+	Shift Key is hosted by Robinson Meyer, the founding executive editor of Heatmap, and Jesse Jenkins, a professor of energy systems engineering at Princeton University. Rob is off this week.
+</p><p>
+<strong>Subscribe to “Shift Key” and find this episode on <a href="https://podcasts.apple.com/us/podcast/shift-key-with-robinson-meyer-and-jesse-jenkins/id1728932037" rel="noopener noreferrer" target="_blank">Apple Podcasts</a>, <a href="https://open.spotify.com/show/0war1dXXCEEZNpZ3H7kRid" rel="noopener noreferrer" target="_blank">Spotify</a>, <a href="https://music.amazon.com/podcasts/d3491bb8-f4c3-429d-b622-b5d9b1329c69/shift-key-with-robinson-meyer-and-jesse-jenkins" rel="noopener noreferrer" target="_blank">Amazon</a>, or wherever you get your podcasts.</strong>
+</p><p>
+	You can also add <a href="https://feeds.acast.com/public/shows/65bac3af03341c00164bf93b" rel="noopener noreferrer" target="_blank">the show’s RSS feed</a> to your podcast app to follow us directly.
+</p><center><iframe frameborder="0" height="190px" src="https://embed.acast.com/65bac3af03341c00164bf93b/6765dad3a977962b2ed3f32d" width="100%"></iframe></center><p>
+	Here is an excerpt from the conversation:
+</p><blockquote>
+<strong>Allison Clements:</strong> FERC, the agency, which, I was one of five commissioners, has jurisdiction over what resources sign up for and retire from participating on the grid. And over the last decade, two decades, what has happened is, as this 1.5 terawatts of generation have gotten in line, it’s just overwhelmed the interconnection system. The interconnection processes weren’t designed for anything other than central station, dispatchable, most recently gas plants, combined cycle gas plants, peaking plants, closer to load, you don’t need as much network upgrades.<br/>
+<br/>
+	There’s lots of room on the grid because there was an investment in the grid many decades ago. But now we’ve got this situation where there’s all these resources who want to sign up, and they can’t get on. In fact, this has been going on for a long time. And most of the supply resources waiting to get on today do have site control, do have the financial and commercial readiness. There’s some that we’re still clearing out from the days of the Wild West, where people would just sign up six interconnection applications and see what happened, which would cause a lot of problems for everybody else when they would drop out of those lines.<br/>
+<br/>
+	So, what do we do about it? FERC has passed a couple of different rules to clean up regional transmission planning. A comment about planning during this morning’s session that utilities plan so much — well, if we had been planning for an increasingly electrified economy 10 years ago, 15 years ago, 20 years ago, we would have a lot more transmission, a lot more space on the grid to give access to these resources.<br/>
+<br/>
+	We have taken action as an agency to try and fix that through one rule. We’ve also taken action as an agency to try and fix the interconnection lines themselves through some nuts and bolts requirements to make it harder to get through, so you don’t come until you’re ready to go. But those rules and policy changes that are very positive aren’t going to have impact for, let’s say, five years, seven years. I mean, the reality is we’re not going to be picking new transmission lines from these processes we’ve developed until at least 2029.<br/>
+<br/>
+	2024 — what do we do for the next five years, right? Even these really exciting new deals with SMR, advanced geothermal, we’re looking in the 2030 timeline. Well, the existing grid is really inefficient, and if we can use AI to improve it, that would be really, really important in validating and making this a positive cycle of affirmation.<br/>
+<br/>
+	The last thing I’ll say is, what are those inefficiencies? The lines between regions, the lines between PJM, which is the region we’re sitting in today, a grid operator, and the New York State grid operator, and the New England grid operator at the interties, the transfers, are very inefficient and they’re often counter to good economics. We have no hardware and software solutions, grid-enhancing technologies, advanced transmission technologies that can automatically double existing capacity, or existing room, extra room on the grid. We have surplus interconnection. We have the opportunity to put more resources behind existing points of interconnection and use that system more efficiently. So, the reality is to solve the power for AI, we need the AI to come back and help us do it. </blockquote><div class="horizontal-rule">
+</div><p>
+	This episode of Shift Key is sponsored by …
+</p><p>
+<strong>Watershed</strong>’s climate data engine helps companies measure and reduce their emissions, turning the data they already have into an audit-ready carbon footprint backed by the latest climate science. Get the sustainability data you need in weeks, not months. Learn more at <a href="https://watershed.com/" rel="noopener noreferrer" target="_blank">watershed.com</a>.
+</p><p>
+	As a global leader in PV and ESS solutions, <strong>Sungrow</strong> invests heavily in research and development, constantly pushing the boundaries of solar and battery inverter technology. Discover why Sungrow is the essential component of the clean energy transition by visiting <a href="https://en.sungrowpower.com/" rel="noopener noreferrer" target="_blank">sungrowpower.com</a>.
+</p><p>
+	Music for Shift Key is by Adam Kromelow.
+</p> 
+
+<br> 
+
+<https://heatmap.news/podcast/shift-key-s2-e19-ai-decarbonization>
+
+---
+
+## Report: Panel unable to reach consensus on Nippon's US Steel bid
+
+date: 2024-12-24, from: VOA News USA
+
+tokyo — The Committee on Foreign Investment in the United States (CFIUS) has told the White House it is unable to reach a consensus on national security risks involved in Nippon Steel's bid for U.S. Steel, The Washington Post reported Monday. 
+
+
+The decision now lies with President Joe Biden, who has 15 days to act. Both Biden and President-elect Donald Trump have said they oppose the $15 billion deal, which Nippon Steel announced last December. 
+
+
+Nippon Steel said Tuesday that it did not receive any updates from CFIUS. U.S. Steel did not immediately reply to request for a comment. Both companies had previously planned to close the deal before the year's end. 
+
+
+CFIUS, a government interagency committee that reviews security implications of foreign investment in the United States, said Monday that allowing Nippon Steel to take over U.S. Steel could result in lower domestic steel production, representing "a national security risk," according to the Post. 
+
+
+Nippon Steel said it could eliminate that risk by appointing U.S. citizens to top management and board of director positions at U.S. Steel, but the committee was divided in its view of whether those remedies would be sufficient, the newspaper said. 
+
+
+The U.S. Treasury Department, which leads CFIUS; the Commerce Department; and White House did not immediately respond to requests for comment. 
+
+
+Nippon Steel faces a $565 million penalty to U.S. Steel if the deal collapses, which would also be a major blow to the Japanese steelmaker's overseas expansion. It said earlier that it could pursue legal action against the U.S. government if the deal fell apart. 
+
+
+With U.S. Steel, Nippon Steel aimed to raise its global steel production capacity to 85 million metric tons per year from 65 million tons now, and the asset is core to its goal of lifting production capacity to more than 100 million tons in the long term. 
+
+
+With Japan being the largest foreign investor in the U.S., Japanese Prime Minister Shigeru Ishiba last month sent a letter to Biden asking him to approve Nippon Steel's acquisition of U.S. Steel. 
+
+<br> 
+
+<https://www.voanews.com/a/report-panel-unable-to-reach-consensus-on-nippon-s-us-steel-bid/7912095.html>
+
+---
+
+## Hawaii's Kilauea volcano erupts, spewing columns of lava
+
+date: 2024-12-24, from: VOA News USA
+
+LOS ANGELES — One of the world's most active volcanoes sprang into life again Monday, spewing columns of lava 80 meters above Hawaii, U.S. vulcanologists said.
+
+
+Images showed enormous fissures in the caldera of Kilauea, on Hawaii's Big Island, spraying jets of molten rock into the air.
+
+
+The U.S. Geological Survey’s Hawaiian Volcano Observatory said the eruption began just after 2 a.m. local time (1200 GMT) in the southwestern section of the caldera.
+
+
+“At 4:30 a.m., lava fountains were observed with heights up to 80 meters [262 feet],” the agency said.
+
+
+"Molten material, including lava bombs, is being ejected from the winds on the caldera floor up onto the west caldera rim."
+
+
+The eruption was also sending matter much higher into the atmosphere.
+
+
+"The plume of volcanic gas and fine volcanic particles is reaching elevations of 6,000-8,000 feet above sea level ... and winds are transporting it to the southwest," the observatory said.
+
+
+The observatory said sulfur dioxide emanating from the fissure would react with other gases in the atmosphere.
+
+
+So-called vog — volcanic smog — can affect people and animals, as well as crops.
+
+
+Kilauea has been very active since 1983 and erupts relatively regularly, including most recently in September.
+
+
+It is one of six active volcanoes in the Hawaiian Islands, which include Mauna Loa, the largest volcano in the world, though Kilauea is far more active. 
+
+<br> 
+
+<https://www.voanews.com/a/hawaii-s-kilauea-volcano-erupts-spewing-columns-of-lava-/7912065.html>
+
+---
+
+##  Floods: An Impending Partisan Disaster 
+
+date: 2024-12-24, from: The Lever News
+
+ A new Fed study warns that most expected flood losses are uninsured — and the lack of protection is more acute among Republican locales.  
+
+<br> 
+
+<https://www.levernews.com/floods-an-impending-partisan-disaster/>
+
+---
+
+## VOA Mandarin: Trump's new AI policy seeks to loosen regulations, support innovation, defeat China
+
+date: 2024-12-23, from: VOA News USA
+
+U.S. President-elect Donald Trump has vowed to repeal President Joe Biden's executive order on artificial intelligence security, setting the stage for deregulation for AI companies by nominating pro-business, pro-startups Silicon Valley leaders.
+
+
+The nomination of Jacob Helberg, an outspoken China critic, for a key State Department post indicates Trump’s intention to lead over China in AI, according to analysts.
+
+
+“We're likely to see quite a great focus on countering China when it comes to AI – beating China, when it comes to having the most advanced AI capabilities,” says Ruby Scanlon, a researcher on technology and national security at Center for a New America Security.
+
+
+Click here for the full story in Mandarin. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-mandarin-trump-s-new-ai-policy-seeks-to-loosen-regulations-support-innovation-defeat-china-/7911776.html>
+
+---
+
+## Bill Clinton hospitalized with fever but in good spirits, spokesperson says
+
+date: 2024-12-23, from: VOA News USA
+
+WASHINGTON — Former President Bill Clinton was admitted Monday to MedStar Georgetown University Hospital in Washington after developing a fever. 
+
+
+The 78-year-old was hospitalized in the "afternoon for testing and observation," Angel Urena, Clinton's deputy chief of staff, said in a statement. 
+
+
+"He remains in good spirits and deeply appreciates the excellent care he is receiving," Urena said. 
+
+
+Clinton, a Democrat who served two terms as president from January 1993 until January 2001, addressed the Democratic National Convention in Chicago this summer and campaigned ahead of November's election for Vice President Kamala Harris, the Democratic presidential candidate. 
+
+
+In the years since Clinton left the White House, he's faced some health scares. 
+
+
+In 2004, he underwent quadruple bypass surgery after experiencing prolonged chest pains and shortness of breath. Clinton returned to the hospital for surgery for a partially collapsed lung in 2005, and in 2010 he had a pair of stents implanted in a coronary artery. 
+
+
+Clinton responded by embracing a largely vegan diet that saw him lose weight and report improved health. 
+
+
+In 2021, the former president was hospitalized for six days in California while being treated for an infection that was unrelated to COVID-19, when the pandemic was still near its height. 
+
+
+An aide to the former president said then that Clinton had a urological infection that had spread to his bloodstream but was on the mend and never went into septic shock, a potentially life-threatening condition. The aide said Clinton was in an intensive care section of the hospital that time but wasn't receiving ICU care. 
+
+<br> 
+
+<https://www.voanews.com/a/bill-clinton-hospitalized-with-fever-but-in-good-spirits-spokesperson-says-/7911781.html>
+
+---
+
+## FAA probes holiday drone show accident that injured boy in Florida
+
+date: 2024-12-23, from: VOA News USA
+
+ORLANDO — The Federal Aviation Administration said Monday it has launched an investigation into why several drones collided and fell from the sky during a holiday show over the weekend in downtown Orlando, Florida, injuring a 7-year-old boy who required surgery. 
+
+
+The drones fell into a crowd of thousands of people watching the show Saturday night at the city's Lake Eola Park. The show was permitted through the FAA. 
+
+
+"Our thoughts are with the family and all those impacted by the outcome of this event," the city of Orlando said in a statement. "The city remains in contact with the vendor and FAA who will conduct a thorough investigation." 
+
+
+Adriana Edgerton told Orlando television station WESH that her son, Alexander, required surgery after being hit in the chest with a drone. 
+
+
+"The blade cut his mouth, but there's an actual imprint of the drone on his chest," she said. 
+
+
+Sky Elements Drone Shows, the Fort Worth, Texas, vendor that put on the show, didn't immediately respond to an emailed inquiry on Monday. On the company's website, it said, "Every step of the way, we put accuracy, execution, and compliance first." 
+
+
+Drone shows typically require a waiver to operate more than one drone at a time, and the FAA reviews each drone show application to make sure "the flying public and people on the ground will be safe," the agency said. 
+
+<br> 
+
+<https://www.voanews.com/a/faa-probes-holiday-drone-show-accident-that-injured-boy-in-florida-/7911775.html>
+
+---
+
+## US ship departs Cambodia after first port visit in nearly a decade
+
+date: 2024-12-23, from: VOA News USA
+
+TAIPEI, TAIWAN — The USS Savannah departed from Cambodia last Friday, after the first port visit by the U.S. Navy to the Southeast Asian nation in eight years. Despite being a close partner of China, analysts say the stop in Cambodia’s port city of Sihanoukville shows that the country is looking to improve its relations with the United States. 
+
+
+The Savannah arrived in Sihanoukville last Monday and docked there about 30 kilometers from the Chinese-funded Ream Naval Base, which has drawn concern from U.S. analysts as a potential permanent base for Chinese forces. 
+
+
+Cambodia’s Ministry of National Defense says the U.S. warship’s five-day visit was aimed at “strengthening and expanding friendship” and “promoting bilateral cooperation.” 
+
+
+In June 2024, U.S. Secretary of Defense Lloyd Austin met with Cambodian Prime Minister Hun Manet and Minister of National Defense Tea Seiha, with the two sides agreeing to strengthen their bilateral defense relationship. 
+
+
+
+
+Recent anti-democratic reforms, human rights violations and an increasing Chinese presence within Cambodia have strained relations. The Ream Naval Base is a particular sore spot for the two nations, with the U.S. imposing sanctions in 2021 on two senior Cambodian military officials accused of profiting from the Chinese-built base. 
+
+
+However, last week’s port call and official promises suggest that Cambodia wishes to push back against its reputation as a client state of Beijing, analysts say. 
+
+
+“I think that Cambodians are trying to show that — look, we’re not taking the side of the Chinese or the Americans,” said Abdul Rahman Yaacob, a researcher at the Lowy Institute in Australia. 
+
+
+Yaacob said that Cambodia is using the return of a U.S. defense presence to its shores to demonstrate its adherence to self-proclaimed principles of nonalignment to the broader Asian region. 
+
+
+Sam Seun, a policy analyst at the Royal Academy of Cambodia, told VOA that the international community too often focuses on Cambodia’s relationship with China, and that this port call proves Cambodia can have good relationships with the United States and other countries too. 
+
+
+He said China’s presence in Cambodia’s defense infrastructure is normal for a small country looking to “strengthen its military capabilities.” 
+
+
+One port call, though, might not be enough to quell U.S. fears about Chinese military influence in Cambodia and mend the U.S.-Cambodian relationship. 
+
+
+Although he viewed it as a “good start,” the warship docking in Cambodia “will not lead to a full restoration of relations between Cambodia and the United States. The United States will still accuse Cambodia of allowing China to establish a military base in its territory,” Seun said. 
+
+
+
+
+China's two Type 056A frigates, the Aba and the Tianmen, had been stationed at Ream Naval Base for nearly 12 months by the time the Savannah arrived in Cambodia.  
+
+
+Cambodian officials earlier stated that the ships were there for training engagements with the Cambodian navy. 
+
+
+The base’s location holds strategic significance to China, given its proximity to potential conflict arenas and vital shipping routes in the South China Sea, said Sun Kim, assistant dean and lecturer at the Faculty of Social Sciences and International Relations at the Pannasastra University of Cambodia. 
+
+
+Sun said the base is important to Chinese oil and gas transportation, as it allows for a greater ease of transport of fuel from Africa and the Middle East. 
+
+
+Additionally, in the event of a conflict in the South China Sea or the Taiwan Strait, Ream Base could prove even more important, analysts say. 
+
+
+"If China needs to deploy its navy, Ream Naval Base may be used as one of the bases for deployment by China,” said Sun. 
+
+
+However, according to Cambodian law, foreign forces are prohibited from being permanently stationed in the country and from conducting military operations out of Cambodian bases. Cambodia has denied that the Ream Naval Base is controlled by China. 
+
+
+On Friday, Cambodia’s former Prime Minister Hun Sen said Japan would be granted visitation rights to Ream Naval Base, according to a post on his Facebook page. The announcement came during a visit to Cambodia by Japan national security adviser Akiba Takeo. 
+
+
+Katherine Michaelson contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/us-ship-departs-cambodia-after-first-port-visit-in-nearly-a-decade/7911676.html>
+
+---
+
+## Experts urge US to use Taiwan logistics pact to counter China's military coercion
+
+date: 2024-12-23, from: VOA News USA
+
+WASHINGTON — A recently released U.S. government report details China's ongoing efforts to "erode long-standing norms in and around Taiwan" through various pressure tactics, including increased military flights crossing the Taiwan Strait median line. 
+
+
+While U.S. officials have expressed serious concerns, some military experts argue that Washington's response has been ineffective in curbing Chinese aggression. 
+
+
+To deter further coercion, some former U.S. military officials propose leveraging the U.S.-Taiwan Acquisition and Cross-Servicing Agreement (ACSA) to allow American military jets to refuel there as a clear demonstration of resolve. 
+
+
+The ACSA, a rarely discussed logistics agreement between the U.S. and Taiwan, allows the U.S. Department of Defense to exchange supplies, services, and logistical support with its partners and allies. 
+
+
+In its 2024 report, Military and Security Developments Involving the People's Republic of China, released last week as mandated by Congress, the Pentagon highlights China's ongoing military buildup to secure national interests and assert territorial claims along its periphery. The report notes that the People’s Liberation Army (PLA) is increasingly focused on "military contingencies in the Taiwan Strait while simultaneously delaying or denying third-party intervention." 
+
+
+The report also details the PLA's extensive joint land, air and sea exercises around Taiwan throughout 2023 to enhance combat readiness and operational coordination. It notes that more than 1,500 PLA aircraft entered Taiwan's Air Defense Identification Zone in both 2022 and 2023. 
+
+
+Officials in Washington say U.S. defense engagement with Taiwan has evolved in response to China's growing capacity and willingness to use military coercion against Taiwan. 
+
+
+But in Beijing, officials are warning against what they call "foreign military intervention," asserting that Taiwan is part of China's "internal affairs." 
+
+
+"China urges the U.S. to immediately stop arming Taiwan," a Chinese Foreign Ministry spokesperson stated on Monday, following President Joe Biden's recent authorization of up to $571 million in Defense Department materials, services, and military training for the self-ruled island. 
+
+
+The spokesperson condemned the U.S. announcement of military aid, warning that Washington is "playing with fire” and will get “burned." 
+
+
+Founded in 1949, the Communist Party-led People's Republic of China has never governed Taiwan but claims sovereignty over the self-ruled democracy. It has never excluded the possibility of using force to bring the island under its control. 
+
+
+The U.S. maintains a policy of strategic ambiguity, taking neither an official stance on Taiwan's sovereignty nor supporting its independence. 
+
+
+A State Department spokesperson recently said that the U.S. remains concerned about "elevated" PLA activity near Taiwan, describing it as consistent with levels observed during previous "Joint Sword" military exercises. The statement followed PLA naval drills near Taiwan and along the First Island Chain earlier in December. 
+
+
+
+
+Trey Meeks, a senior defense fellow at the Washington-based Center for a New American Security, told VOA that low-cost strategies that would boost Taiwan's morale and demonstrate U.S. resolve could help counter China's "new normal" of constant and escalated military coercion. 
+
+
+Meeks is among the military experts who said President-elect Donald Trump’s team is likely to be much more aggressive only if Taiwan agrees to significantly increase its defense budget. 
+
+
+When Chinese military jets cross the median line, he suggested, a pair of U.S. fighter jets could later respond by leveraging the U.S.-Taiwan logistics agreement, the ACSA, by making a refueling stop in Taiwan. 
+
+
+Another U.S. option, Meeks said, would be a visit by a U.S. Coast Guard vessel already operating in the region. This would signify a strategic response and signal that larger ships, potentially including U.S. naval vessels, might follow at U.S.-Taiwanese discretion. 
+
+
+It wouldn’t be the first time. In June 2021, a U.S. military aircraft traveled to Taiwan to deliver COVID-19 vaccines, while in February 2023, South Korea's "Black Eagles" aerobatic team made a refueling stop at Taiwan's southern Kaohsiung airport while en route to an air show in Australia. 
+
+
+
+
+For Taiwan, other options include intercepting Chinese aircraft incursions using radar missile locks. 
+
+
+“The ride stops being fun for the Chinese fighter pilot when you lock him up with a surface-to-air missile," said Meeks, who's also a former U.S. military official. 
+
+
+Forty-five years ago, Congress passed the Taiwan Relations Act (TRA), which became law on April 10, 1979. 
+
+
+TRA policies would provide Taiwan with defensive weapons. U.S. special operations forces have been operating in Taiwan since 2012, and several hundred U.S. troops are currently known to be serving as a training team on the ground in Taiwan. 
+
+<br> 
+
+<https://www.voanews.com/a/experts-urge-us-to-use-taiwan-logistics-pact-to-counter-china-s-military-coercion/7911644.html>
+
+---
+
+## Surviving on $1,800 a Month in Social Security, She Died Looking for a Place to Live
+
+date: 2024-12-23, from: Capital and Main
+
+<p>Joanne Erickson’s story shows the looming challenges for millions of seniors struggling with health issues, an unforgiving housing market and little or no retirement savings. </p>
+<p>The post <a href="https://capitalandmain.com/surviving-on-1800-a-month-in-social-security-she-died-looking-for-a-place-to-live">Surviving on $1,800 a Month in Social Security, She Died Looking for a Place to Live</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/surviving-on-1800-a-month-in-social-security-she-died-looking-for-a-place-to-live>
+
+---
+
+## Getting Ahead of H5N1: Declare a Public Health Emergency, Expand Wastewater Testing, and Increase Vaccine Research and Availability—Sooner Rather Than Later
+
+date: 2024-12-23, updated: 2024-12-23, from: RAND blog
+
+The ongoing H5N1 outbreak presents a critical test of the United States' ability to apply the hard-earned lessons of a recent health emergencies. The time to act is not when the threat becomes unmanageable—it is now, when swift, coordinated efforts can make the greatest impact. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/12/getting-ahead-of-h5n1-declare-a-public-health-emergency.html>
+
+---
+
+## US House panel finds Matt Gaetz paid for sex and drugs, obstructed Congress
+
+date: 2024-12-23, from: VOA News USA
+
+Washington — Former Florida Congressman Matt Gaetz paid tens of thousands of dollars to women for drugs and sex that were violations of a series of House rules and included obstruction of Congress, the U.S. House of Representatives' Ethics Committee said in a report released on Monday.
+
+
+Among the committee findings were that Gaetz paid $90,000 to 12 women, a substantial portion of which the panel found was likely for either sexual activity or drug use.
+
+
+Gaetz, who has denied wrongdoing, resigned from the House of Representatives last month after he was selected by President-elect Donald Trump to be attorney general. He withdrew from consideration in the face of an uphill confirmation battle in the Senate.
+
+
+The release of the report came despite a last-minute legal challenge from Gaetz in federal court in Washington, DC, in which he arguedthat the Ethics panel no longer had jurisdiction after Gaetz resigned from Congress.
+
+
+That did not stop the committee from its decision to make the 37-page report public.
+
+
+"The committee determined there is substantial evidence that Representative Gaetz violated House rules and other standards of conduct prohibiting prostitution, statutory rape, illicit drug use, impermissible gifts, special favors or privileges, and obstruction of Congress," the report stated in its conclusion.
+
+
+While Gaetz was found to have been involved in transporting women across state lines for the purposes of commercial sex, the panel said it did not find evidence that any of the women were under 18 at the time of travel.
+
+
+"Nor did the committee find sufficient evidence to conclude that the commercial sex acts were induced by force, fraud, or coercion," the report said.
+
+
+However, someone identified as "Victim A" told the panel of twice having sex with Gaetz at a party in 2017 while she was underage, receiving a $400 cash payment that she understood to be for sex.
+
+
+At the time, the victim had just completed her junior year of high school. She testified that she did not inform Gaetz that she was under 18 at the time, nor did he ask her age. The committee did not receive any evidence indicating that Gaetz was aware that she was a minor when he had sex with her.
+
+
+Gaetz denied in a written submission to the panel that he had sex with anyone under the age of 18, but did not address the specific allegations related to "Victim A," according to the report.
+
+
+Reuters was not immediately able to reach Gaetz for comment.
+
+
+The move to make the report public was not unanimous.
+
+
+Chairman Michael Guest said in a dissenting statement that the committee's findings were not being challenged, but that the panel was deviating from "well-established standards" in releasing a report on a former member of the House.
+
+
+"The Committee's position regarding its lack of authority over former members represents a clear, well-established policy rather than an isolated interpretation," Gaetz's lawyers wrote in a complaint seeking to block the release of the report.
+
+
+Gaetz lawyers saidthe report would contain "untruthful and defamatory information" about Gaetz.
+
+
+A federal judge had not yet ruled on Gaetz's request at the time the report was published.
+
+
+Gaetz was the subject of a three-year FBI investigation into allegations of sex trafficking that produced no criminal charges.
+
+
+Gaetz played a lead role in 2023 in forcing a first-ever successful vote by the House to oust its speaker, who at the time was Kevin McCarthy -- just nine months into the job. 
+
+<br> 
+
+<https://www.voanews.com/a/us-house-ethics-committee-expected-to-release-long-anticipated-matt-gaetz-report-monday/7911195.html>
+
+---
+
+## Luigi Mangione pleads not guilty to state murder and other charges in United Healthcare CEO's death
+
+date: 2024-12-23, from: VOA News USA
+
+New York — The man accused of fatally shooting the CEO of UnitedHealthcare pleaded not guilty on Monday to murder and terror charges in a state case that will run parallel to his federal prosecution. 
+
+
+Luigi Mangione, 26, was shackled and seated in a Manhattan court when he leaned over to a microphone to enter his plea. The Manhattan district attorney formally charged him last week with multiple counts of murder, including murder as an act of terrorism. 
+
+
+His initial appearance in New York's state's trial court was preempted by federal prosecutors bringing their own charges over the shooting. The federal charges could carry the possibility of the death penalty, while the maximum sentence for the state charges is life in prison without parole. 
+
+
+
+
+Prosecutors have said the two cases will proceed on parallel tracks, with the state charges expected to go to trial first. 
+
+
+Authorities say Mangione gunned down Brian Thompson as he was walking to an investor conference in midtown Manhattan on the morning of Dec 4. 
+
+
+Mangione was arrested in a Pennsylvania McDonald's after a five-day search, carrying a gun that matched the one used in the shooting and a fake ID, police said. He also was carrying a notebook expressing hostility toward the health insurance industry and especially wealthy executives, according to federal prosecutors. 
+
+
+At a news conference announcing the state charges last Tuesday, Manhattan DA Alvin Bragg said the application of the terrorism law reflected the severity of a "frightening, well-planned, targeted murder that was intended to cause shock and attention and intimidation." 
+
+
+"In its most basic terms, this was a killing that was intended to evoke terror," he added. "And we've seen that reaction." 
+
+
+Karen Friedman Agnifilo, an attorney for Mangione, has accused federal and state prosecutors of advancing conflicting legal theories. In federal court last week, she called their approach "very confusing" and "highly unusual." 
+
+
+Mangione is being held in a Brooklyn federal jail alongside several other high-profile defendants, including Sean "Diddy" Combs and Sam Bankman-Fried. 
+
+
+
+
+Mangione was extradited from Pennsylvania on Thursday and quickly rushed to New York City, where he was seen wearing an orange jumpsuit as he was led away from a helicopter by heavily armed police officers and New York City Mayor Eric Adams. 
+
+
+Adams said he was hoping to send a message to the suspect: "I wanted to look him in the eye and say you carried out this terroristic act in my city — the city that the people of New York love," the mayor told a local TV station. "I wanted to be there to show the symbolism of that." 
+
+
+An Ivy-league graduate from a prominent Maryland family, Mangione appeared to have cut himself off from family and friends in recent months. He posted frequently in online forums about his struggles with back pain. He was never a UnitedHealthcare client, according to the insurer. 
+
+
+Thompson, a married father of two high-schoolers, had worked at the giant UnitedHealth Group for 20 years and became CEO of its insurance arm in 2021. 
+
+
+The killing has prompted some to voice their resentment at U.S. health insurers, with Mangione serving as a stand-in for frustrations over coverage denials and hefty medical bills. It also has sent shockwaves through the corporate world, rattling executives who say they have received a spike in threats. 
+
+<br> 
+
+<https://www.voanews.com/a/luigi-mangione-pleads-not-guilty-to-state-murder-and-other-charges-in-united-healthcare-ceo-s-death-/7911177.html>
 
 ---
 
@@ -33,62 +644,77 @@ The magic of Christmas is lighting up New York City, and nowhere is it more dazz
 
 ---
 
-## Biden gives life in prison to 37 of 40 federal death row inmates so Trump can't have them executed
+## Biden commutes sentences of 37 federal death row inmates, citing opposition to executions
 
 date: 2024-12-23, from: VOA News USA
 
-Washington — President Joe Biden announced on Monday that he is commuting the sentences of 37 of the 40 people on federal death row, converting their punishments to life imprisonment just weeks before President-elect Donald Trump, an outspoken proponent of expanding capital punishment, takes office.
+WASHINGTON — President Joe Biden on Monday commuted the sentences of all but three of the 40 people on federal death row, citing his long-standing opposition to capital punishment.  
 
 
-The move spares the lives of people convicted in killings, including the slayings of police and military officers, people on federal land and those involved in deadly bank robberies or drug deals, as well as the killings of guards or prisoners in federal facilities.
+By his action, Biden also denies the incoming Trump administration the chance to green-light the convicts' executions. The first Trump administration carried out 13 executions of death-row inmates, a record for a single presidential term.  
 
 
-It means just three federal inmates are still facing execution. They are Dylann Roof, who carried out the 2015 racist slayings of nine Black members of Mother Emanuel AME Church in Charleston, South Carolina; 2013 Boston Marathon bomber Dzhokhar Tsarnaev; and Robert Bowers, who fatally shot 11 congregants at Pittsburgh's Tree of life Synagogue in 2018, the deadliest antisemitic attack in U.S history.
+The 37 men, who will now spend the rest of their lives in prison without the possibility of parole, landed on death row because juries found them guilty of brutal crimes that ended the lives of others. Most of these men have been awaiting their sentence for more than a decade. 
 
 
-"I've dedicated my career to reducing violent crime and ensuring a fair and effective justice system," Biden said in a statement. "Today, I am commuting the sentences of 37 of the 40 individuals on federal death row to life sentences without the possibility of parole. These commutations are consistent with the moratorium my administration has imposed on federal executions, in cases other than terrorism and hate-motivated mass murder."
+“Make no mistake: I condemn these murderers, grieve for the victims of their despicable acts, and ache for all the families who have suffered unimaginable and irreparable loss,” Biden said in a statement accompanying the announcement. “But guided by my conscience and my experience as a public defender, chairman of the Senate Judiciary Committee, Vice President, and now President, I am more convinced than ever that we must stop the use of the death penalty at the federal level. In good conscience, I cannot stand back and let a new administration resume executions that I halted.” 
 
 
-The Biden administration in 2021 announced a moratorium on federal capital punishment to study the protocols used, which suspended executions during Biden's term. But Biden actually had promised to go further on the issue in the past, pledging to end federal executions without the caveats for terrorism and hate-motivated, mass killings.
+One man, Thomas Steven Sanders of Louisiana, was found guilty of kidnapping and killing a 12-year-old girl, after fatally shooting her mother. And a California kidnapping-and-serial-killing duo, Jurijus Kadamovas and Iouri Mikhel, were sentenced to death for the killings of five people, including the strangling of a pregnant woman. They had attempted to get ransom from the victims but ended up killing all of them anyway.  
 
 
-While running for president in 2020, Biden's campaign website said he would "work to pass legislation to eliminate the death penalty at the federal level, and incentivize states to follow the federal government's example."
+Excluded from the list are three men convicted for crimes that Biden described as “terrorism and hate-motivated mass murder.”  
 
 
-Similar language didn't appear on Biden's reelection website before he left the presidential race in July.
+That group is headlined by Dylann Roof, who in 2015 killed nine members of a historically Black South Carolina church in what prosecutors said was an attempt to spark a race war. In his sentencing, prosecutors quoted Roof’s prison diary, in which he wrote: “I am not sorry. I have not shed a tear for the innocent people I killed.” He went on, in that entry, to espouse racist beliefs, and concluded: “I have shed a tear of self-pity for myself. I feel pity that I had to do what I did in the first place.”  
 
 
-"Make no mistake: I condemn these murderers, grieve for the victims of their despicable acts, and ache for all the families who have suffered unimaginable and irreparable loss," Biden's statement said. "But guided by my conscience and my experience as a public defender, chairman of the Senate Judiciary Committee, vice president, and now president, I am more convinced than ever that we must stop the use of the death penalty at the federal level."
+Also excluded were Robert Bowers, convicted over the deadliest antisemitic attack in U.S. history, the 2018 shooting of 11 members of Pittsburgh's Tree of life Synagogue, and 2013 Boston Marathon bomber Dzhokhar Tsarnaev. He said during interrogation that he and his older brother – who was killed in a police shootout while they were on the run – were planning another attack in central New York City.  
 
 
-He took a political jab at Trump, saying, "In good conscience, I cannot stand back and let a new administration resume executions that I halted."
+Biden announced a moratorium on federal executions soon after taking office in 2021. On Monday, he also touted his announcement earlier in December on bestowing the largest-ever act of clemency in a single day by an American president, affecting about 1,500 people who had been placed in home confinement during the COVID-19 pandemic.  
 
 
-Trump, who takes office on Jan. 20, has spoken frequently of expanding executions. In a speech announcing his 2024 campaign, Trump called for those "caught selling drugs to receive the death penalty for their heinous acts." He later promised to execute drug and human smugglers and even praised China's harsher treatment of drug peddlers. During his first term as president, Trump also advocated for the death penalty for drug dealers.
+Also in December, Biden announced his highest-profile pardon of all: that of his son Hunter, on federal gun and tax charges. Biden’s announcement sparked outrage as he had maintained throughout his presidency that he would not pardon his son. In his statement, he said he believed his son had been “selectively, and unfairly, prosecuted.” 
 
 
-There were 13 federal executions during Trump's first term, more than under any president in modern history, and some may have happened fast enough to have contributed to the spread of the coronavirus at the federal death row facility in Indiana.
+Members of Biden’s party largely applauded Monday’s commutations. Capital punishment has been abolished in 23 of the 50 American states, and in Washington, D.C., the capital.  
 
 
-Those were the first federal executions since 2003. The final three occurred after Election Day in November 2020 but before Trump left office the following January, the first time federal prisoners were put to death by a lame-duck president since Grover Cleveland in 1889.
+“I have long advocated for reforms to make our justice system more fair and effective, and that includes ending the use of the death penalty which has not been shown to reduce crime,” said Virginia Democratic Representative Bobby Scott in a statement. “I applaud President Biden for commuting these sentences to life sentences without the possibility of parole. The Biden Administration placed a moratorium on federal executions and this will ensure the incoming Administration cannot easily resume the practice.” 
 
 
-Biden faced recent pressure from advocacy groups urging him to act to make it more difficult for Trump to increase the use of capital punishment for federal inmates. The president's announcement also comes less than two weeks after he commuted the sentences of roughly 1,500 people who were released from prison and placed on home confinement during the COVID-19 pandemic, and of 39 others convicted of nonviolent crimes, the largest single-day act of clemency in modern history.
+Some of Trump’s supporters openly disagreed. 
 
 
-The announcement also followed the post-election pardon that Biden granted his son Hunter on federal gun and tax charges after long saying he would not issue one, sparking an uproar in Washington. The pardon also raised questions about whether he would issue sweeping preemptive pardons for administration officials and other allies who the White House worries could be unjustly targeted by Trump's second administration.
+In a post on social media platform X, Senator Tom Cotton of Arkansas wrote, “When given the choice between law-abiding Americans or criminals, Joe Biden and Democrats choose criminals every time.” 
 
 
-Speculation that Biden could commute federal death sentences intensified last week after the White House announced he plans to visit Italy on the final foreign trip of his presidency next month. Biden, a practicing Catholic, will meet with Pope Francis, who recently called for prayers for U.S. death row inmates in hopes their sentences will be commuted.
+Hardline Republican Representative Chip Roy called the president's decision unconscionable. "The Presidents pardon power is being abused by @JoeBiden to carry out a miscarriage of justice," he wrote. 
 
 
-Martin Luther King III, who publicly urged Biden to change the death sentences, said in a statement issued by the White House that the president "has done what no president before him was willing to do: take meaningful and lasting action not just to acknowledge the death penalty's racist roots but also to remedy its persistent unfairness."
+The executive director of the American Civil Liberties Union described Biden’s decision as “the most consequential step of any president in our history to address the immoral and unconstitutional harms of capital punishment.”  
 
 
-Donnie Oliverio, a retired Ohio police officer whose partner was killed by one of the men whose death sentence was converted, said the execution of "the person who killed my police partner and best friend would have brought me no peace."
+“With a stroke of his pen, the President locks in his legacy as a leader who stands for racial justice, humanity, and morality,” said Anthony D. Romero, in a statement. “This will undoubtedly be one of the seminal achievements of the Biden presidency.” 
 
 
-"The president has done what is right here," Oliverio said in a statement also issued by the White House, "and what is consistent with the faith he and I share." 
+And criminal justice reform advocates pushed for more.  
+
+
+“We do not need to kill people to show that killing is wrong in this country,” said Bryan Stevenson, director of the Equal Justice Initiative. “The death penalty is a torturous, flawed, expensive, and error-filled practice that must be abolished. I commend President Biden for this historic act and hope that governors and state executives follow the president’s lead at a time when many of our courts are abandoning their role to ensure fairness and reliability in criminal cases. Leadership by elected officials will be more critical than ever.” 
+
+
+The United States is in the minority of countries that impose a federal death penalty. Recent U.S. polls show younger Americans have driven down the public’s appetite for this punishment, with less than half of Americans born after 1981 supporting the practice. 
+
+
+Trump, in his first term, pushed through 13 federal executions – the last one, just days before he left office – earning him the dubious distinction of overseeing more executions than any other U.S. president in more than a century. Trump has frequently praised what he says is China’s practice of swift trials and immediate execution for drug dealers.  
+
+
+China leads the world in imposing thousands of death sentences each year, according to the non-partisan Death Penalty Information Center, which says it “does not take a posi­tion on the death penal­ty itself but is crit­i­cal of prob­lems in its application.” 
+
+
+It is not known how many people are actually executed by the state, as Beijing does not release that information. 
 
 <br> 
 

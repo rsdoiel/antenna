@@ -1,11 +1,51 @@
 ---
 title: journalism
-updated: 2024-12-23 07:05:36
+updated: 2024-12-24 07:05:29
 ---
 
 # journalism
 
-(date: 2024-12-23 07:05:36)
+(date: 2024-12-24 07:05:29)
+
+---
+
+## Gingerbread House Breakdown
+
+date: 2024-12-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2024/12/23/gingerbread-house-breakdown/>
+
+---
+
+## University reduces scholarships for National Merit Finalists
+
+date: 2024-12-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Currently enrolled students are unaffected.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/23/university-reduces-scholarships-for-national-merit-finalists/">University reduces scholarships for National Merit Finalists</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/23/university-reduces-scholarships-for-national-merit-finalists/>
+
+---
+
+## Art 502: 3-Dimensional Design
+
+date: 2024-12-23, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Art 502: 3-Dimensional Design</p>
+<p>The post <a href="https://theroundupnews.com/2024/12/23/art-502-3-dimensional-design/">Art 502: 3-Dimensional Design</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/12/23/art-502-3-dimensional-design/?utm_source=rss&utm_medium=rss&utm_campaign=art-502-3-dimensional-design>
 
 ---
 
