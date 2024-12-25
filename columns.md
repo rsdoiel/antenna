@@ -1,17 +1,214 @@
 ---
 title: columns
-updated: 2024-12-24 07:05:28
+updated: 2024-12-25 07:05:23
 ---
 
 # columns
 
-(date: 2024-12-24 07:05:28)
+(date: 2024-12-25 07:05:23)
+
+---
+
+## 
+                Advent of OS/2
+            
+
+date: 2024-12-25, updated: 2024-12-25, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2024-12-25/0/POSTING-en.html>
+
+---
+
+## Office Hours on Christmas and Hanukkah: What about your Trumper Uncle Bob?
+
+date: 2024-12-25, from: Robert Reich's blog
+
+How do you deal with the Trumper in your family? (with special guest Sam Reich.) 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-what-about-your-uncle>
+
+---
+
+## December 24, 2024 
+
+date: 2024-12-25, from: Heather Cox Richardson blog
+
+Happy holidays to you all, however you celebrate... 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-24-2024>
+
+---
+
+## Updates 2024/Q4
+
+date: 2024-12-25, from: mrusme blog
+
+Project updates from the current consecutive three-month period, with info on
+the current status of my projects and next steps. You might find this
+interesting in case you're using any of my open source tools. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/updates-2024-q4/>
+
+---
+
+## Wednesday 25 December, 2024
+
+date: 2024-12-25, from: John Naughton's online diary
+
+Having’s one’s cake… … but not yet eating it. Merry Christmas! And thank you for reading this newsletter during 2024. Quote of the Day ”Resentment is like drinking poison and then hoping it will kill your enemies.” Nelson Mandela Musical &#8230; <a href="https://memex.naughtons.org/wednesday-25-december-2024/40248/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-25-december-2024/40248/>
+
+---
+
+## 2024-12-24 Israel
+
+date: 2024-12-24, from: Alex Schroeder's Blog
+
+<h1 id="2024-12-24-israel">2024-12-24 Israel</h1>
+
+<p>The stories of the atrocities committed by the Israelis in Gaza are so horrifying they make me want to puke.
+I can&rsquo;t read this shit.</p>
+
+<p>How will they ever dig themselves out of this again? Will they say that they didn&rsquo;t know?</p>
+
+<p>And what happens when these soldiers come back home?
+Will their deeds be forgotten or will these demons rear their ugly head in years to come?
+How will they treat their partners, their children, their neighbours if they have already shown this level of violence against fellow humans?</p>
+
+<p><a href="https://archive.is/d5iWb">&lsquo;When You Leave Israel and Enter Gaza, You Are God&rsquo;: Inside the Minds of IDF Soldiers Who Commit War Crimes</a>, by Yoel Elizur, for Haaretz</p>
+
+<p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-12-24-israel>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-12-24, from: Miguel de Icaza Mastondon feed)
+
+<p>Merry Christmas!</p><p>Israel is still committing genocide with my tax dollars and my representative is boasting about it.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113710110628035768>
+
+---
+
+## The Talk Show: ‘A Professional Internet User’, With Kagi Founder and CEO Vlad Prelovac
+
+date: 2024-12-24, updated: 2024-12-24, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/thetalkshow/2024/12/24/ep-416>
+
+---
+
+## December 23, 2024
+
+date: 2024-12-24, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153588248/6d5e5998f6a3057f2e830998a421498f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153588248/6d5e5998f6a3057f2e830998a421498f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-23-2024-199>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2024-12-24, from: Dave Winer's Scripting News)
 
-How this stuff fits in? 1. <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> blew a big open hole in the distribution of news and ideas. 2. Now we want to blow the equivalent hole in the <i>writer's</i> web. 
+I have a fairly large and old <a href="https://github.com/scripting/frontier">C application</a> that was written to run on the Mac and Windows. I still use it today on a relatively modern Macintosh. I wonder if it will soon be possible to turn this project over to an AI like ChatGPT, Claude or Perplexity or some other, to convert it to run on Linux, where it should be able to run in perpetuity, or at least a lot longer than on the Macintosh. I would be willing to pay a few thousand dollars to do this work. 
+
+<br> 
+
+<http://scripting.com/2024/12/24.html#a190744>
+
+---
+
+##  You can watch the first 8 minutes of Severance season two right... 
+
+date: 2024-12-24, updated: 2024-12-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045906-you-can-watch-the-first>
+
+---
+
+## I have failed.  Now what?
+
+date: 2024-12-24, updated: 2024-12-24, from: Ron Garret
+
+Nearly two months ago now I wrote:It's getting harder and harder to find a reason to keep doing this.&nbsp; My 
+opportunity costs are high, and writing a blog entry takes a non-trivial
+ amount of time.&nbsp; I wrote this because I needed to blow off some steam, 
+and I wanted to get my position on the election results on the record 
+while they were still fresh in my mind.&nbsp; Whether I keep 
+
+<br> 
+
+<https://blog.rongarret.info/2024/12/i-have-failed-now-what.html>
+
+---
+
+## Coding Font Selection ‘Tournament’
+
+date: 2024-12-24, updated: 2024-12-24, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.codingfont.com/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-12-24, from: Miguel de Icaza Mastondon feed)
+
+<p>It is a Christmas miracle!</p><p>I finally caved in to user pressure.  I still think it looks like a Xmas tree, but developers demand these visual cues.</p><p>New Godot on iPad will include icons for the ScenePad.  And true to the mantra on software design, I won’t have an option to hide it.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113708893648116217>
+
+---
+
+##  Christopher Nolan&#8217;s The Odyssey 
+
+date: 2024-12-24, updated: 2024-12-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/christopher-nolans-the-odyssey>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-24, from: Dave Winer's Scripting News)
+
+How this stuff fits in? 1. <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> blew a big open hole in the distribution of news and ideas. 2. Now we want to blow the equivalent hole in the <i>writer's</i> web. Put the two together and we will have finally, after 30+ years, delivered on the <a href="http://scripting.com/davenet/2000/03/02/theTwowayweb.html">promise</a> of the web. 
 
 <br> 
 
@@ -50,31 +247,6 @@ date: 2024-12-24, updated: 2024-12-23, from: Bruce Schneier blog
 <br> 
 
 <https://www.schneier.com/blog/archives/2024/12/spyware-maker-nso-group-found-liable-for-hacking-whatsapp.html>
-
----
-
-## 2024-12-24 Israel
-
-date: 2024-12-24, from: Alex Schroeder's Blog
-
-<h1 id="2024-12-24-israel">2024-12-24 Israel</h1>
-
-<p>The stories of the atrocities committed by the Israelis in Gaza are so horrifying they make me want to puke.
-I can&rsquo;t read this shit.</p>
-
-<p>How will they ever dig themselves out of this again? Will they say that they didn&rsquo;t know?</p>
-
-<p>And what happens when these soldiers come back home?
-Will their deeds be forgotten or will these demons read their ugly head in years to come?
-How will they treat their partners, their children, their neighbours if they have already shown this level of violence against fellow humans?</p>
-
-<p><a href="https://archive.is/d5iWb">&lsquo;When You Leave Israel and Enter Gaza, You Are God&rsquo;: Inside the Minds of IDF Soldiers Who Commit War Crimes</a>, by Yoel Elizur, for Haaretz</p>
-
-<p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2024-12-24-israel>
 
 ---
 

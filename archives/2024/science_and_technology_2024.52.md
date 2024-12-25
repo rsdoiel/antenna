@@ -1,11 +1,107 @@
 ---
 title: science and technology
-updated: 2024-12-24 07:05:27
+updated: 2024-12-25 07:05:22
 ---
 
 # science and technology
 
-(date: 2024-12-24 07:05:27)
+(date: 2024-12-25 07:05:22)
+
+---
+
+## Former NSA cyberspy's not-so-secret hobby: Hacking Christmas lights
+
+date: 2024-12-25, updated: 2024-12-25, from: The Register (UK I.T. News)
+
+<h4>Rob Joyce explains how it&#39;s done</h4> <p><strong>Video</strong>  In 2018, Rob Joyce, then Donald Trump&#39;s White House Cybersecurity Coordinator, gave a surprise talk at the legendary hacking conference Shmoocon about his hobby.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/25/joyce_christmas_lights/>
+
+---
+
+## The winner of last year's Windows Ugly Sweater is ...
+
+date: 2024-12-25, updated: 2024-12-25, from: The Register (UK I.T. News)
+
+<h4><i>Register</i> readers have spoken</h4> <p><i>The Register</i> readership has spoken – a &#34;winner&#34; is set to be punished with the horrible Windows XP Christmas sweater. And Copilot? Headed to where the sun doesn&#39;t shine, judging by the vast majority of comments.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/25/windows_ugly_sweaters/>
+
+---
+
+## The Moxie child support robot gets new lease on life through open source
+
+date: 2024-12-24, from: OS News
+
+It&#8217;s a Christmas miracle! The Moxie, that support robot thing for kids we talked about two weeks ago, seems to be getting a new lease on life. The start-up that makes the Moxie has announced it&#8217;s going to not only release a version of the server software for self-hosting, but will also publish all of the source code as open source. We understand how unsettling and disappointing it has been to face the possibility of losing the daily comfort and support Moxie provides. Since the onset of these recent challenges, many of you have voiced heartfelt concerns and offered suggestions, and we have taken that feedback seriously. While our cloud services may become unavailable, a group of former technical team members from Embodied is working on a potential solution to allow Moxie to operate locally—without the need for ongoing cloud connectivity. This initiative involves developing a local server application (“OpenMoxie”) that you can run on your own computer. Once available, this community-driven option will enable you (or technically inclined individuals) to maintain Moxie’s basic functionality, develop new features, and modify her capabilities to better suit your needs—without reliance on Embodied’s cloud servers. ↫ Paolo Pirjanian Having products like this be dependent on internet connectivity is not great, but as long as Silicon Valley is the way it is, that&#8217;s not going to change. You can tell from their efforts that the people at Embodied do genuinely care about their product and the people that use it, because they have zero &#8211; absolutely zero &#8211; financial incentive or legal obligation to do any of this. They could&#8217;ve just walked away like their original communication said they were going to, but instead they listened to their customers and changed their minds. Regardless of my thoughts on requiring internet connectivity for something like this, they at least did the right thing today &#8211; and I commend them for that. 
+
+<br> 
+
+<https://www.osnews.com/story/141401/the-moxie-child-support-robot-gets-new-lease-on-life-through-open-source/>
+
+---
+
+## Hang a Shining Star Upon the Highest Bough
+
+date: 2024-12-24, from: NASA breaking news
+
+This new view of the “Christmas tree cluster” NGC 2264, released on Dec. 17, 2024, combines data from NASA’s Chandra X-ray Observatory and optical data from astrophotographer Michael Clow’s telescope in Arizona. Chandra data is represented in red, purple, blue, and white, while optical data is in green and violet. Located about 2,500 light-years from [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hang-a-shining-star-upon-the-highest-bough/>
+
+---
+
+## Collaboration Is Key to A Strong Materials Discipline
+
+date: 2024-12-24, from: NASA breaking news
+
+NASA has a strong need for advanced materials and processes (M&#38;P) across the realms of robotic- and crewed-spaceflight, as well as aeronautics, particularly when one acknowledges that all craft must be made of something. To meet that need, the materials discipline relies on collaboration—both between centers and across disciplines. Reaching the Agency’s Moon-to-Mars objectives will [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/collaboration-is-key-to-a-strong-materials-discipline/>
+
+---
+
+## Characterizing the Visual Experience of Astronauts at the Lunar South Pole
+
+date: 2024-12-24, from: NASA breaking news
+
+Humans are returning to the Moon—this time, to stay. Because our presence will be more permanent, NASA has selected a location that maximizes line-of-sight communication with Earth, solar visibility, and access to water ice: the Lunar South Pole (LSP). While the Sun is in the lunar sky more consistently at the poles, it never rises [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/nesc/characterizing-the-visual-experience-of-astronauts-at-the-lunar-south-pole/>
+
+---
+
+## Technical issue briefly grounds American Airlines flights across US
+
+date: 2024-12-24, updated: 2024-12-24, from: The Register (UK I.T. News)
+
+<h4>Unspecified &#34;vendor technology&#34; to blame for hour-long stop order</h4> <p>A technical snafu briefly grounded American Airlines flights across the US on Christmas Eve.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/24/american_airlines_grounds/>
+
+---
+
+## How Androxgh0st rose from Mozi's ashes to become 'most prevalent malware'
+
+date: 2024-12-24, updated: 2024-12-24, from: The Register (UK I.T. News)
+
+<h4>Botnet&#39;s operators &#39;driven by similar interests as that of the Chinese state&#39;</h4> <p>After the Mozi botnet mysteriously disappeared last year, a new and seemingly more powerful botnet, Androxgh0st, rose from its ashes and has quickly become a major threat to critical infrastructure.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/24/androxgh0st_botnet_mozi/>
 
 ---
 

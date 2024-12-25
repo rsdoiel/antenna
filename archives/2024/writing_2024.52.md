@@ -1,11 +1,78 @@
 ---
 title: writing
-updated: 2024-12-24 07:05:28
+updated: 2024-12-25 07:05:23
 ---
 
 # writing
 
-(date: 2024-12-24 07:05:28)
+(date: 2024-12-25 07:05:23)
+
+---
+
+## Why You Should Do a Year-End Writing Retrospective
+
+date: 2024-12-25, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/why-you-should-do-a-year-end-writing-retrospective>
+
+---
+
+## New Books, 24 December 2024
+
+date: 2024-12-25, from: Locus Magazine
+
+<p>Lackey, Mercedes: <b>Miss Amelia&#8217;s List</b>
+(Astra House/DAW 9780756419097, $28, 336pp, formats: hardcover, ebook, 12/24/2024)</p>
+<p>Fantasy novel, 17th in the Elemental Master series. In 1815 Miss Amelia Stonehold, goes to the Devon town of Axminster, looking to buy and staff a property, and possibly find a husband. But the Honorable Captain Harold Roughtower has his eyes fixed on her fortune and his plans for her wealth include the hidden Roman temple  <a href="https://locusmag.com/2024/12/new-books-24-december-2024/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/new-books-24-december-2024/>
+
+---
+
+## The Sapling Cage by Margaret Killjoy: Review by Alex Brown
+
+date: 2024-12-24, from: Locus Magazine
+
+<p><strong>The Sapling Cage</strong>, Margaret Killjoy (The Femi­nist Press 978-1-55861-331-7, $17.95, 336pp, tp) September 2024.</p>
+<p>The trope of gender-based magic is an old one in fantasy fiction. It never fails to annoy me, and not just because I’m gen­derqueer. Besides the whole gender essentialism thing, I just find it to be lazy and uninspired. At this point, the only time I’ll read a ‘‘girls do this magic and boys do  <a href="https://locusmag.com/2024/12/the-sapling-cage-by-margaret-killjoy-review-by-alex-brown/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/the-sapling-cage-by-margaret-killjoy-review-by-alex-brown/>
+
+---
+
+## Writing Across Mediums
+
+date: 2024-12-24, from: John August blog
+
+Live from the Austin Film Festival, John joins panelists Jordan Mechner (Prince of Persia) and Erica Harrell &#38; Desirée Proctor (The Walking Dead: Saints &#38; Sinners) for an in-depth discussion on working across movies, tv, comics, plays, videogames and VR. Moderated by Evan Narcisse (Rise of the Black Panther), they discuss what led them to [&#8230;]
+The post <a href="https://johnaugust.com/2024/writing-across-mediums">Writing Across Mediums</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/670standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/670standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2024/writing-across-mediums>
+
+---
+
+## On the Calculation of Volume I by Solvej Balle: Review by Jake Casella Brookins
+
+date: 2024-12-24, from: Locus Magazine
+
+<p><strong>On the Calculation of Volume I, </strong>Solvej Balle (New Directions 978-0-81123-725-3, 160pp, $15.95, tp) November 2024.</p>
+<p>In Solvej Balle’s <strong>On the Calculation of Volume I</strong>, translated from the Danish by Barbara Haveland, rare book dealer Tara Selter has found herself trapped in a time loop on the 18th of November; the first entry in Balle’s septology begins with November 18 #121. For reasons unknown, time for her has “fallen  <a href="https://locusmag.com/2024/12/on-the-calculation-of-volume-i-by-solvej-balle-review-by-jake-casella-brookins/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/on-the-calculation-of-volume-i-by-solvej-balle-review-by-jake-casella-brookins/>
 
 ---
 
@@ -97,6 +164,7 @@ date: 2024-12-23, from: Locus Magazine
 
 <p></p>
 <p><strong>DAPHNE TONGE</strong> is the founder and CEO of Illumi­crate, the UK&#8217;s first specialist book subscription box. She is also the founder and MD of Daphne Press, a science fiction and fantasy publisher. She&#8217;s judged for book prizes and is an event chair. Previously, she was an award-winning book blogger. She lives in London, but is Chinese-Filipino born and was raised in Manila.</p>
+<p></p>
 <p><strong>Tell us about your book subscription box ser­vice, </strong> <a href="https://locusmag.com/2024/12/spotlight-on-illumicrate-starbright/" class="read-more">...Read More </a></p> 
 
 <br> 

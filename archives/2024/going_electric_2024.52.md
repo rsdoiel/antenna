@@ -1,11 +1,103 @@
 ---
 title: going electric
-updated: 2024-12-24 07:05:30
+updated: 2024-12-25 07:05:25
 ---
 
 # going electric
 
-(date: 2024-12-24 07:05:30)
+(date: 2024-12-25 07:05:25)
+
+---
+
+## Hydrogen had a wild ride in 2024, but Honda has more to come in 2025
+
+date: 2024-12-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/honda-class-8-hydrogen-fuel-cell-truck.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s high-powered episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we’ve got Honda fuel cell manager David Perzynski here to talk about Honda’s forty year history developing hydrogen powertrains, and the role Honda sees for HFCEVs in a battery dominated world.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda,hydrogen,quick-charge" data-layer-viewtype="unknown" data-post-id="395186" href="https://electrek.co/2024/12/24/hydrogen-had-a-wild-ride-in-2024-but-honda-has-more-to-come-in-2025/#more-395186" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/24/hydrogen-had-a-wild-ride-in-2024-but-honda-has-more-to-come-in-2025/>
+
+---
+
+## Check out this awesome looking new four-wheeled electric bike
+
+date: 2024-12-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/quad-bike-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Sixthreezero’s wide range of electric bike models includes some fairly out-there models, but the company’s new four-wheeled electric bike really charts a new direction in the industry. Take a look at the new ANYterrain Stabilized 4-wheel Electric Bike.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="394673" href="https://electrek.co/2024/12/24/check-out-this-awesome-looking-new-four-wheeled-electric-bike/#more-394673" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/24/check-out-this-awesome-looking-new-four-wheeled-electric-bike/>
+
+---
+
+## Here are the best EV lease deals for under $300 right now [live updates]
+
+date: 2024-12-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Honda-Prologue-lease-Civic.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Who said you had to break the bank to drive an electric vehicle? Several EV lease deals are available this December for under $300 or even $200 per month, but the savings may not last long. Here are some of the best <a href="https://electrek.co/guides/ev-lease/">EVs to consider leasing</a> right now.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-lease" data-layer-viewtype="unknown" data-post-id="392588" href="https://electrek.co/2024/12/24/best-ev-lease-deals-under-300-month-right-now-live-update/#more-392588" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/24/best-ev-lease-deals-under-300-month-right-now-live-update/>
+
+---
+
+## CATL launches the ‘world’s first ultra-safe’ EV skateboard chassis
+
+date: 2024-12-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/CATL-worlds-first-chassis.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s <a href="https://electrek.co/guides/catl/">CATL</a> launched its new Bedrock Chassis on Monday, calling it “the world’s first ultra-safe skateboard chassis.” The global EV battery leader said its newest tech “activates a trillion yuan market” as the new standard for intelligent vehicle design. According to CATL, it will also end the belief that gas-powered cars are safer than EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="catl" data-layer-viewtype="unknown" data-post-id="395179" href="https://electrek.co/2024/12/24/catl-launches-worlds-first-ultra-safe-ev-skateboard-chassis/#more-395179" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/24/catl-launches-worlds-first-ultra-safe-ev-skateboard-chassis/>
+
+---
+
+## BYD’s new EV plant in Brazil suddenly halted over ‘slavery-like’ worker conditions
+
+date: 2024-12-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/BYD-taking-over-NIO-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Construction at <a href="https://electrek.co/guides/byd/">BYD’s</a> new EV plant in Brazil was suddenly halted Monday after authorities found Chinese workers in “slavery-like” conditions. The workers were hired in China by another firm, and BYD has since cut ties.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="395167" href="https://electrek.co/2024/12/24/byd-ev-plant-brazil-suddenly-halted-over-slavery-conditions/#more-395167" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/24/byd-ev-plant-brazil-suddenly-halted-over-slavery-conditions/>
+
+---
+
+## Hyundai EV Owners: You Can Get A Tesla NACS Adapter For Free
+
+date: 2024-12-24, from: Inside EVs News
+
+Christmas came a couple of days early from Hyundai this year. The Tesla North American Charging Standard adapter will be free in Q1. 
+
+<br> 
+
+<https://insideevs.com/news/745429/hyundai-nacs-adapter-ev-q1/>
 
 ---
 

@@ -1,11 +1,49 @@
 ---
 title: ham radio
-updated: 2024-12-24 07:05:27
+updated: 2024-12-25 07:05:22
 ---
 
 # ham radio
 
-(date: 2024-12-24 07:05:27)
+(date: 2024-12-25 07:05:22)
+
+---
+
+## ARRL Kids Day - January 4, 2025
+
+date: 2024-12-24, from: Amateur Radio Relay League News
+
+<p>ARRL The National Association for Amateur Radio® Kids Day runs January 4, 2025 from 1800 UTC - 2359 UTC. Operate as much or as little as you like.</p><p>The event is designed to give on-the-air experience to young people, to foster interest in getting a license of their own, and give older hams a chance to share their stations and love for amateur radio with their children. You can share the excitemen...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-kids-day-january-4-2025>
+
+---
+
+## Call for Nominations: ARRL Awards Recognize Excellence in Ham Radio
+
+date: 2024-12-24, from: Amateur Radio Relay League News
+
+<p>ARRL The National Association for Amateur Radio® seeks nominations for awards.</p><p>It probably isn’t hard to think of someone you know in the hobby who goes above and beyond in service to amateur radio, their club, their fellow hams, or their community. Volunteers are the very core of the Amateur Radio Service, and that dedication is what carries the ARRL Field Organization. Excellence in on-air ope...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/call-for-nominations-arrl-awards-recognize-excellence-in-ham-radio>
+
+---
+
+## Perceiving the insides of a wireless camera flash receiver
+
+date: 2024-12-24, from: EDN Blog
+
+<img width="1400" height="803" src="https://www.edn.com/wp-content/uploads/overview_open1.jpg?fit=1400%2C803" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/overview_open1.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/overview_open1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/overview_open1.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/overview_open1.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>After previously tearing down a transmitter, our intrepid engineer now tackles the other end of the wireless connection.</p>
+<p>The post <a href="https://www.edn.com/perceiving-the-insides-of-a-wireless-camera-flash-receiver/" data-wpel-link="internal">Perceiving the insides of a wireless camera flash receiver</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/perceiving-the-insides-of-a-wireless-camera-flash-receiver/>
 
 ---
 
@@ -25,7 +63,7 @@ date: 2024-12-23, from: Amateur Radio Relay League News
 
 date: 2024-12-23, from: EDN Blog
 
-<img width="480" height="765" src="https://www.edn.com/wp-content/uploads/Zig-Zag-2.png?fit=480%2C765" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Zig-Zag-2.png?w=480 480w, https://www.edn.com/wp-content/uploads/Zig-Zag-2.png?w=188 188w" sizes="(max-width: 480px) 100vw, 480px" /><p>A discussion of three-phase power transformer secondaries set up in a delta or wye configuration and their grounding.</p>
+<img width="480" height="765" src="https://www.edn.com/wp-content/uploads/Zig-Zag-2.png?fit=480%2C765" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Zig-Zag-2.png?w=480 480w, https://www.edn.com/wp-content/uploads/Zig-Zag-2.png?w=188 188w" sizes="auto, (max-width: 480px) 100vw, 480px" /><p>A discussion of three-phase power transformer secondaries set up in a delta or wye configuration and their grounding.</p>
 <p>The post <a href="https://www.edn.com/zig-zag-transformers/" data-wpel-link="internal">Zig-zag transformers</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

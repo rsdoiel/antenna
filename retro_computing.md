@@ -1,11 +1,194 @@
 ---
 title: retro computing
-updated: 2024-12-24 07:05:30
+updated: 2024-12-25 07:05:24
 ---
 
 # retro computing
 
-(date: 2024-12-24 07:05:30)
+(date: 2024-12-25 07:05:24)
+
+---
+
+## A mostly merry Southern Hemisphere Commodore Christmas
+
+date: 2024-12-25, from: Old Ventage Computing Research
+
+A merry Christmas and happy holidays from the Southern Hemisphere, where it's my year to be with my wife's family in regional New South Wales, Australia. A friend of the family had an "old Commodore" in their house and asked if I wanted it. Stupid question, yeah?
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJw0-a-6bst0Q1XIvMrHkqikL0o71t-TXBcVAOaTOlX7p06dRZ-_LghmZLiIRV9GNZoUDJvCUnzKGqesb6YWPrwB3DenWWyN09_4yELOnTtNbLs6YnoK273ztOiMrZab__f9jxtvvRrFSbME7fb6NpbLaoLZlc0LMA-fdChbue2hsXvqGUbcwAjuCFoTw/s4080/PXL_20241224_055658598.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJw0-a-6bst0Q1XIvMrHkqikL0o71t-TXBcVAOaTOlX7p06dRZ-_LghmZLiIRV9GNZoUDJvCUnzKGqesb6YWPrwB3DenWWyN09_4yELOnTtNbLs6YnoK273ztOiMrZab__f9jxtvvRrFSbME7fb6NpbLaoLZlc0LMA-fdChbue2hsXvqGUbcwAjuCFoTw/s320/PXL_20241224_055658598.jpg"/></a></div>
+
+So they brought over, in their original boxes, a Commodore 128D (PAL) with Commodore 1802 monitor, Commodore MPS-1250 dot matrix printer and a separate box of magazines, circulars and boxed software. Let's fire it up!
+<p>
+<a name='more'></a>
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0nbxBLf7bgCYLJR2nFeP0qYDhUOls8n7oYBa9ZgF3bGx5wadIb3qNpq2KuGqSAWHzln9GdHM7QUBJFqxj9QDUUUBKRmWRyQMcwxk3WLph_6OpkctsQRpwfCfho4Jct3sx046Ns28HVcTAmcfEwoXLOB1_MqcCQxjTXtuR2pads30BqP5TnPKQoUyq9Zk/s4080/PXL_20241224_060405129.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0nbxBLf7bgCYLJR2nFeP0qYDhUOls8n7oYBa9ZgF3bGx5wadIb3qNpq2KuGqSAWHzln9GdHM7QUBJFqxj9QDUUUBKRmWRyQMcwxk3WLph_6OpkctsQRpwfCfho4Jct3sx046Ns28HVcTAmcfEwoXLOB1_MqcCQxjTXtuR2pads30BqP5TnPKQoUyq9Zk/s320/PXL_20241224_060405129.jpg"/></a></div>
+
+The magazine and software box was what attracted my eye first, because a fair bit of it wasn't anything I'd ordinarily encounter in the United States. This computer seemed to have been bought relatively late in the C128 lifecycle based on chip dates (we'll get to that) and the magazines correspond to that era, all copies of <i>The Australian Commodore and Amiga Review</i> published from 1983 to 1996. The issues here date from
+
+4/89,
+5/89,
+6/89,
+10/89,
+11/89,
+12/89,
+2/90,
+3/90,
+4/90,
+5/90,
+6/90,
+8/90,
+9/90, and the
+1990 Annual with an extensive list of Australian BBSes, software packages and user groups. By this time the Commodore 8-bits were past their prime compared to their 16-bit Amiga brethren, but there was still some decent coverage of the 64 and 128 in this set. Unlike most American Commodore magazines, there was little type-in content, at least in these particular issues; the ones here concentrate more on reviews and product announcements with sidecar tips and tricks.
+<p>
+The other bit of literature in the box was a 1987-88 Dick Smith Electronics catalogue. If you're on one of the other continents, DSE was approximately Australia's equivalent of Radio Shack and at its peak sold a similar range of rebadged products and electronics. It is likewise no more (shut down in 2016), though its name lives on as a zombie Kogan brand; today its closest domestic equivalent would probably be Jaycar.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI5mdRqW8zpBDEk7dhLU79NqN7KxkefnYCUINXTOu3NcgrF0TZiEDeZX9d6_lQcDO2aAvYkExUjgTtldT15VtIKd-8kP0Vbumq9_UJfWRBxVHFMx4nCRkkRn7iZi1OZoY2nMbMwlr-aKUZ72humDHo2KGZrSNmRo45z38E_4insT4W9ytLp-cFG4HW6EI/s4080/PXL_20241224_104206443~2.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI5mdRqW8zpBDEk7dhLU79NqN7KxkefnYCUINXTOu3NcgrF0TZiEDeZX9d6_lQcDO2aAvYkExUjgTtldT15VtIKd-8kP0Vbumq9_UJfWRBxVHFMx4nCRkkRn7iZi1OZoY2nMbMwlr-aKUZ72humDHo2KGZrSNmRo45z38E_4insT4W9ytLp-cFG4HW6EI/s320/PXL_20241224_104206443~2.jpg"/></a></div>
+
+Like Tandy Radio Shack, Dick Smith's typical MO was to rebadge existing products rather than engineer new ones if the company could possibly avoid it. Dick Smith's computer and computer-adjacent selection around this time included a smattering of relabeled VTech computers and toys such as the <a href="/2021/03/those-mysterious-toshiba-t-chips-plus.html">Type-right</a> and Whiz Kid.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7OvDQ6vlTN8kFnxAddpEj2YY1csD_qhfph3A4WRPUkXbVkmoQnn-RdHDA9IQfAVcABNexJjkP2FTc4KChdGuSR05-UrZREofdpv7TvrEYhAp-okSrKBAACU5Jt4Zl1SP0VK8amU-TWnkOoJVV8ffY8er3lqBxeStcb7dCvZ-dVsC2dr1ea4IUnwdZka4/s4080/PXL_20241224_104226794~2.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7OvDQ6vlTN8kFnxAddpEj2YY1csD_qhfph3A4WRPUkXbVkmoQnn-RdHDA9IQfAVcABNexJjkP2FTc4KChdGuSR05-UrZREofdpv7TvrEYhAp-okSrKBAACU5Jt4Zl1SP0VK8amU-TWnkOoJVV8ffY8er3lqBxeStcb7dCvZ-dVsC2dr1ea4IUnwdZka4/s320/PXL_20241224_104226794~2.jpg"/></a></div>
+
+However, DSE also sold a number of Sharp pocket computers directly as Sharp systems (unlike Tandy, which <a href="https://www.floodgap.com/retrobits/tpm/">rebadged them also</a>). The PC-1360 and PC-1401 were more advanced than Tandy's Sharp rebadges, but they did include the lowend PC-1246 (Tandy PC-8, which avoided being the worst Tandy Pocket Computer ever because of the execrable PC-7) and even lower-end PC-1100, a flip-face unit that had a narrower but 2-row display and basic organizer functions, and sold for more likely because of it. DSE also sold the excellent Sharp CE-126P, a lovely device that combines a thermal printer and cassette interface yet does not rely on the sure-to-fail NiCad batteries other such peripherals did to their detriment. Tandy never sold this unit, rebadged or otherwise.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf6hxu3F4LpGj1RZk_ZDLEgNB3JAlHWqqn0xqU3_hiNUXtGE45r7zqzL1JDCE8QbIPTayJ0784fxcarFwPakholiH5f61D-8VOZ4ryeOEMY_kl4WmQH6cqhzfgVkqKGJaBJDo0AHo52t_5D73uL-QSwHXUdXB-pg9uF3mCpPq3_Q84NgmE9puGh8rq29w/s4080/PXL_20241224_104243798~2.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf6hxu3F4LpGj1RZk_ZDLEgNB3JAlHWqqn0xqU3_hiNUXtGE45r7zqzL1JDCE8QbIPTayJ0784fxcarFwPakholiH5f61D-8VOZ4ryeOEMY_kl4WmQH6cqhzfgVkqKGJaBJDo0AHo52t_5D73uL-QSwHXUdXB-pg9uF3mCpPq3_Q84NgmE9puGh8rq29w/s320/PXL_20241224_104243798~2.jpg"/></a></div>
+
+Like Tandy, DSE also had several distinct house lines of computers, though also like Radio Shack by now the PCs were taking over. <em>Unlike</em> Tandy, though, DSE simply chose to rebadge other PC systems instead of creating its own like the Tandy 1000 series. At least initially their PCs came from a Taiwanese company called Multitech, which started in 1979 selling their Z80-based "MicroProfessor" MPF-I SBC and later two Apple II clones, the MPF-II and MPF-III. These clones were especially notable for their onboard Chinese language support, drawing characters in high-resolution graphics and as such completely omitting the Apple II's text mode. Subsequently Multitech started producing PC clones in 1984 with the MPF-PC-XT, and over several years served as a PC OEM for many diverse companies such as Texas Instruments. The clones shown here (the 8088-based PC500 and PC700, and the AT-class 80286 PC900) may have been some of the last to bear the Multitech name because after failing to land a large contract with a German firm, company head Stan Shih decided he'd had enough and retooled the company to start selling their own PCs under their own brand in 1987. He chose a new name for the company, too: Acer.
+<p>
+But just like the Tandy Color Computers, Dick Smith was still selling their range of 8-bit home computers as well in those days. The last of this line was the Z80-based VZ300, yet another VTech rebadge, and had a whole assortment of peripherals including memory expansion, floppy disk drive (three times the cost of the computer), and interfaces for the joysticks, cassette, printer and disk drive &mdash; which was sold separately from the disk drive! I have a VZ300 and some upgrades I need to finish building which will be <a href="/search/label/dick%20smith">in a future article</a>.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgExp-TPdDPjv8eyC_-pGReHOqfTwTqdmm4n6syCIlqXyq42mrAFHrx3hrrM2Ke2iNjD-ISJ9KRT8lrnx_kOzTIIEr2dkbySD9vNoHg7keGlNZbQcdznpMxWuGr5uI6__urXIJ9ZXhoi-TxyGgHOvEyBNevl0Y-PwrI9VAVlmD35Ngd2jABLy7MenypXdI/s4080/PXL_20241224_062321947.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgExp-TPdDPjv8eyC_-pGReHOqfTwTqdmm4n6syCIlqXyq42mrAFHrx3hrrM2Ke2iNjD-ISJ9KRT8lrnx_kOzTIIEr2dkbySD9vNoHg7keGlNZbQcdznpMxWuGr5uI6__urXIJ9ZXhoi-TxyGgHOvEyBNevl0Y-PwrI9VAVlmD35Ngd2jABLy7MenypXdI/s320/PXL_20241224_062321947.jpg"/></a></div>
+
+The boxed software assortment was more typical and almost all of these would be known to a Stateside audience. The previous owner really liked his MicroProse games, so there was Gunship, Red Storm Rising and Airborne Ranger; from Activision was Fighter Bomber, Big Trouble in Little China, The Last Ninja, Galactic Games, X-15 Alpha Mission, Labyrinth and Firetrap; and also Berkeley Softworks' GEOS 128, Broderbund's The Print Shop and Where In The World Is Carmen Sandiego? (complete with its 1989 World Almanac), Commodore's own Word Machine/Name Machine and rebranded copy of Arktronics' Jane 128, and finally Maths Mania and Let's Make Greeting Cards.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiClKyyNP9jdn2MpvkUoZ1Bi9eZkT6DaK_DC24iEvNKPezGpqj6YliJelzgV9gA2FPZ3ehVSzKV6YiIx_z4kmTOYSwoyYqqrpoYpBa-A3XhrvmxcVn5tJfQ0suCduWsBuz8KJWN0YuqGXs0pWjnzA43SofZDdbOko1DxQ1VxkeZ-1J0z_QWfAFMUA1zIPE/s4080/PXL_20241224_062611581.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiClKyyNP9jdn2MpvkUoZ1Bi9eZkT6DaK_DC24iEvNKPezGpqj6YliJelzgV9gA2FPZ3ehVSzKV6YiIx_z4kmTOYSwoyYqqrpoYpBa-A3XhrvmxcVn5tJfQ0suCduWsBuz8KJWN0YuqGXs0pWjnzA43SofZDdbOko1DxQ1VxkeZ-1J0z_QWfAFMUA1zIPE/s320/PXL_20241224_062611581.jpg"/></a></div>
+
+Several of these boxed items, however, show Australia-specific labels and packaging. Questor was a major NSW games distributor for Activision, Broderbund, Telecomsoft (Rainbird/Firebird), MicroProse and Mastertronic, and the six game pack shown here was a Questor-specific budget special. However, Dataflow Computer Services Pty Ltd (also NSW) had distribution rights for Broderbund's educational and productivity software, so The Print Shop and Carmen Sandiego came through them. Maths Mania was apparently an Irish package redistributed by Pactronics Pty Ltd in NSW, Victoria, Queensland and Western Australia.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVlYgsmM6v8V9yyDY7cBZB0wK6L-Xqa_3hwLyPw-obX1BGfjZ3gIBis9hKS1RlFmMy7UU2LRXVrEEqzq5GZyghUut50rKB8IkOKR38loVpa8wTc0ltp-gW_e-ho5Ef4BhpNI4nicA8_FGpuQV6nc-yXM5bHGV6uREVy_MfILolPwxpUDiDUF4bWDMAz_w/s4080/PXL_20241224_073009779.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVlYgsmM6v8V9yyDY7cBZB0wK6L-Xqa_3hwLyPw-obX1BGfjZ3gIBis9hKS1RlFmMy7UU2LRXVrEEqzq5GZyghUut50rKB8IkOKR38loVpa8wTc0ltp-gW_e-ho5Ef4BhpNI4nicA8_FGpuQV6nc-yXM5bHGV6uREVy_MfILolPwxpUDiDUF4bWDMAz_w/s320/PXL_20241224_073009779.jpg"/></a></div>
+
+Also in the documentation was a small Commodore product circular and a software-of-the-month membership card, which I've covered over the address on since the prior owner is still living there. On the back we see advertisemenets for the MPS-1250 printer, sold for AUD$525, or in 2024 Australian dollars about A$1400 (roughly US$875 at today's spot rate); the 1802 monitor, a rebadge of the cursed and poor quality CM-141 which we had the displeasure to have owned until it crapped out, offered at A$499 [A$1325, US$825]; and the deluxe 1084 monitor suitable for the Amiga, 64, 128 and CGA PCs at A$699 [A$1850, US$1150]. Notice the 1802 and MPS-1250 are exactly the peripherals we have here!
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-5eaEi4_4X-C6IM3tF121gHKCAi_m6wl4MJUA72T7upaFP6FXDfmMdFsvIUJozNObhizTPupZ9utelvfwU30dO2xxKcvGzpvECAarrn6zG66qE1n7OxhpgJEEISO_w8lj60PVYXsCB_ddDVbQIVD4cvFu1cFIvz1KSsVcQeWLEy6uVoAttHQg-bDEwlY/s4080/PXL_20241224_073057581.LONG_EXPOSURE-01.COVER~2.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="4080" data-original-width="3072" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-5eaEi4_4X-C6IM3tF121gHKCAi_m6wl4MJUA72T7upaFP6FXDfmMdFsvIUJozNObhizTPupZ9utelvfwU30dO2xxKcvGzpvECAarrn6zG66qE1n7OxhpgJEEISO_w8lj60PVYXsCB_ddDVbQIVD4cvFu1cFIvz1KSsVcQeWLEy6uVoAttHQg-bDEwlY/s320/PXL_20241224_073057581.LONG_EXPOSURE-01.COVER~2.jpg"/></a></div>
+
+Australia's Commodore pitchman at the time was John Laws, who by then was probably close to 50 years into his 71 years of national broadcasting. Best known for his extensive presence in talkback radio (talk radio to American audiences), he also endorsed products as diverse as Valvoline motor oil ("Valvoline, you know what I mean") and Oral-B toothbrushes. In his hand here he holds a Commodore credit card. He retired from his final posting at 2SM in Sydney about a month ago (November 2024).
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8rvbIkI6g0eOTzUjwzIHq9ko5TZEWrONBm0meUe5mgNhVXo1qn8X23vBUtOiNOGVpJDrZuokRqeyn4ZTwL1GXLd3jKIMMI3AhvyqKvtnIl9XEfBL22SwPspfYiO_ZI8IxvJAL5naI_thiQ3pwSHSfQQOsYnK_W7yWY2ezyBkbHamJ0bGXFfZZYwEUemw/s4080/PXL_20241225_034402017~3.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8rvbIkI6g0eOTzUjwzIHq9ko5TZEWrONBm0meUe5mgNhVXo1qn8X23vBUtOiNOGVpJDrZuokRqeyn4ZTwL1GXLd3jKIMMI3AhvyqKvtnIl9XEfBL22SwPspfYiO_ZI8IxvJAL5naI_thiQ3pwSHSfQQOsYnK_W7yWY2ezyBkbHamJ0bGXFfZZYwEUemw/s320/PXL_20241225_034402017~3.jpg"/></a></div>
+
+Three special combo packs were advertised inside the circular. The premier one was of course the Amiga 500 Pack, provided with 512K RAM, Textcraft Plus and an A520 RF modulator. This sold for A$999 [A$2650, US$1650]. Despite Commodore's best efforts, though, its financial anchor continued to be the computer it was trying its hardest to kill off: the C64. The Commodore Pro Pack had a Commodore 64, 1541 disk drive, GEOS, joystick, and 15 educational, games and utility programs for A$699 [A$1850, US$1150]. A second "Pro Pack Plus" added an MCS-810 printer, 1351 mouse (for which GEOS had a driver) and ten more software packages for an additional A$499 [A$1325, US$825].
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2n2-zPP0MUjyS4bAO2HsO0eEFmEhnGOsJSaQ4maSbGP92Tzm8n2fxa3iRYgMgctY1yh06hTKeBIJ7A_A53DqV0UOwarMpMT3DuTZPfqF9aM80Jj0AwxZ8_-sMRPLKYCftXTva_k-Io8njM_djh9YiNTMQrAZXfCgu57t-sFnN3k6h7LbEGSg11mRwz9M/s4080/PXL_20241225_005225144~2.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2n2-zPP0MUjyS4bAO2HsO0eEFmEhnGOsJSaQ4maSbGP92Tzm8n2fxa3iRYgMgctY1yh06hTKeBIJ7A_A53DqV0UOwarMpMT3DuTZPfqF9aM80Jj0AwxZ8_-sMRPLKYCftXTva_k-Io8njM_djh9YiNTMQrAZXfCgu57t-sFnN3k6h7LbEGSg11mRwz9M/s320/PXL_20241225_005225144~2.jpg"/></a></div>
+
+The membership card was for the Island By Mail Software Club, out of Werribee, Victoria, which in addition to member hardware sales provided public domain software on floppy disk and a catalogue, also on floppy disk. I'll likely end up imaging some of these. A number of Ocean Software games like Total Recall, Golden Axe and Super Off Road were on separate floppies in the disk box plus an Atarisoft Battlezone cartridge.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOU7Z4qtvCwXWATyxF-5AqDAVjxqTNdh5tc8Bp0_ueax21dlhZhzEYm25yf1N52uf-lH9lqvx5VCXd_0uEaq1hYFrYFMiQbi6nFUVcUW3etfZ1MiWQzq6z_PGsSwnTkmtV58T0tCyVzmHhgSH6ysW7qciPLE50rOcPRvEZS36dxdlqviGDFIEisl6PDwI/s4080/PXL_20241224_063246286.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOU7Z4qtvCwXWATyxF-5AqDAVjxqTNdh5tc8Bp0_ueax21dlhZhzEYm25yf1N52uf-lH9lqvx5VCXd_0uEaq1hYFrYFMiQbi6nFUVcUW3etfZ1MiWQzq6z_PGsSwnTkmtV58T0tCyVzmHhgSH6ysW7qciPLE50rOcPRvEZS36dxdlqviGDFIEisl6PDwI/s320/PXL_20241224_063246286.jpg"/></a></div>
+
+Well, let's get it unpacked.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc7oeSWQZODvMb6xgqcz1-m9o2YP2wCOOxZ_5-eTHTg7m18T5ycnVA69HAiSfFlya_BeVO-BUyWt5bGI2qsUcVPKGGI2lravKA55BJyyDW8JH6lHYhXpyvSOWIyjZlRU3wok42qwHZRdkzXhm5FfhldUoSbmYzme7e2PsJVyuvpxVwkN83QgtuCjGWoII/s4080/PXL_20241224_070151194.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc7oeSWQZODvMb6xgqcz1-m9o2YP2wCOOxZ_5-eTHTg7m18T5ycnVA69HAiSfFlya_BeVO-BUyWt5bGI2qsUcVPKGGI2lravKA55BJyyDW8JH6lHYhXpyvSOWIyjZlRU3wok42qwHZRdkzXhm5FfhldUoSbmYzme7e2PsJVyuvpxVwkN83QgtuCjGWoII/s320/PXL_20241224_070151194.jpg"/></a></div>
+
+Unfortunately this machine, printer, monitor, main system and keyboard alike, apparently spent a lot of time in the NSW sun because it ended up jaundice yellow &mdash; the disk drive lever was up long enough that the only beige portion of the front case was what it was covering. I sense some Retr0brighting in this system's future. 
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS-1nqpqBwiDlIITqm70S_IJTNpqznlbWrhwZQk3JHEekIJuL0QaHNDcyKCsYsYT8RaMI3k_DworX2774wYnOS6bryuVYR1FFCGwqaBGmnI0iXvc0_6TOHhlEo9RRXoEvSqIccuPhJ4m1YiEzhhQlqyHv8aOK3FmK_jKA3pop2oc-IR2A-mGG5xRSpu4E/s4080/PXL_20241224_065309486.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS-1nqpqBwiDlIITqm70S_IJTNpqznlbWrhwZQk3JHEekIJuL0QaHNDcyKCsYsYT8RaMI3k_DworX2774wYnOS6bryuVYR1FFCGwqaBGmnI0iXvc0_6TOHhlEo9RRXoEvSqIccuPhJ4m1YiEzhhQlqyHv8aOK3FmK_jKA3pop2oc-IR2A-mGG5xRSpu4E/s320/PXL_20241224_065309486.jpg"/></a></div>
+
+The monitor powered on (I'll get to the printer in a moment) and I decided to bring it up in 128 mode first. Unfortunately there are several obvious defects: the text colour is wrong &mdash; it should be light green, like the border &mdash; and the characters are flickering with other darker colours, and there is no <tt>READY.</tt> prompt because the computer can't boot from its internal disk drive. The drive activity light never turns on and the drive motor never turns off.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc-k2bSjgO4KUhk_WWmCBNvbznFvIyDPY_CfpwvQ06wpSrDP4tT2KPAcklELMO2rwBCDZ2HWiQErosEi9HmmVDZj0RxTHMgBt7sFc8oTtoPMCpP4XNjRusVI_0VId7XUChh2yaxQGt06oyoeOmRIL-_rjRUTJ3YPpZpb_3sQsYjDFjM9lYZCiNhcSLoRs/s4080/PXL_20241224_065640791.NIGHT.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc-k2bSjgO4KUhk_WWmCBNvbznFvIyDPY_CfpwvQ06wpSrDP4tT2KPAcklELMO2rwBCDZ2HWiQErosEi9HmmVDZj0RxTHMgBt7sFc8oTtoPMCpP4XNjRusVI_0VId7XUChh2yaxQGt06oyoeOmRIL-_rjRUTJ3YPpZpb_3sQsYjDFjM9lYZCiNhcSLoRs/s320/PXL_20241224_065640791.NIGHT.jpg"/></a></div>
+
+We'll need to get to BASIC to do a little more diagnosis since I don't have a dead-test cartridge here, so I brought it up in 64 mode next.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_QdoL6Ga5wSbJ1i8z1pZsTdgbn280UjZvIzOHmk5vdFMw80kUQumlLkDtsYt9a5X2Br9kpFpX924QDSiBkk9bC2o6F50AZLktwn6r_7PKQ7bsQL48Er09CBXXROa3mbG3Yugc5JOIkQZxeqUYUge3g_94EoC-3ItdEZkn6KzlA-bxxIVeaPbH2gIhhkI/s4080/PXL_20241224_065642192.NIGHT.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_QdoL6Ga5wSbJ1i8z1pZsTdgbn280UjZvIzOHmk5vdFMw80kUQumlLkDtsYt9a5X2Br9kpFpX924QDSiBkk9bC2o6F50AZLktwn6r_7PKQ7bsQL48Er09CBXXROa3mbG3Yugc5JOIkQZxeqUYUge3g_94EoC-3ItdEZkn6KzlA-bxxIVeaPbH2gIhhkI/s320/PXL_20241224_065642192.NIGHT.jpg"/></a></div>
+
+It has the same problem as 128 mode although the character colour at least matches the correct colour part of the time. We're dealing with either a VIC-IIe fault or colour RAM problem, but by this point I was leaning towards the latter since most of the system is working and a failure in the VIC would likely prevent starting up at all.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiED5hqv5KCCQj_h7teJ3igZZcbu96zNuGlL4Cpfugri0sxvYyQymDG5NZyyxs5uMcuqGftn3ZhZOzEX7NH9Gsls0tWMvnL_OBj14mg9kj9Rr9fep_7ASvBn-hg_asBIgSN3vU__R-0zv7Q2ZuGx9NA5jnF3jsUaXKJds9uZBLKXuTkWzNV62akS3FuLZg/s4080/PXL_20241224_065748249.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiED5hqv5KCCQj_h7teJ3igZZcbu96zNuGlL4Cpfugri0sxvYyQymDG5NZyyxs5uMcuqGftn3ZhZOzEX7NH9Gsls0tWMvnL_OBj14mg9kj9Rr9fep_7ASvBn-hg_asBIgSN3vU__R-0zv7Q2ZuGx9NA5jnF3jsUaXKJds9uZBLKXuTkWzNV62akS3FuLZg/s320/PXL_20241224_065748249.jpg"/></a></div>
+
+Setting every nybble in colour RAM to one (white) didn't change anything on-screen.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO5GyNIMfJ69wO1VZJK1NVc1QULarVPQbbrGP_RroNO16D6S73XQc59MCTt4-L1Z-Vrz8rTZsHU7Xr2CP1J6zELV9pdwA-aG5EuJuFC8Jp2YMcjCw8mW4IoroW9ZI9LSZShVUrF4e0hsoSVoB3wJts_Hj6n2NqoUtgWLEvAuywGviBQzYenJiEbjP7lB8/s4080/PXL_20241224_070017636.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO5GyNIMfJ69wO1VZJK1NVc1QULarVPQbbrGP_RroNO16D6S73XQc59MCTt4-L1Z-Vrz8rTZsHU7Xr2CP1J6zELV9pdwA-aG5EuJuFC8Jp2YMcjCw8mW4IoroW9ZI9LSZShVUrF4e0hsoSVoB3wJts_Hj6n2NqoUtgWLEvAuywGviBQzYenJiEbjP7lB8/s320/PXL_20241224_070017636.jpg"/></a></div>
+
+The internal disk drive also failed to respond in 64 mode (I put the background colour to white so I could photograph the flickering text more easily).
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV9g3_LmOrQlgltTJZaDpYNb22jiFzWxGQ2-vmSo0ebXqYhc31Lv5lGiYclyU1cSfvMInFaRXIx7erpDh2Qo67sOYIwkFFzLgJbeO471tgkwbUoOASIfDqq3oCLptsbwnoqx9Jq2Crn75_fjnb_OOPzlLsUbpxDwY2YmQVeTzpeZ2HhGeI_Y6oUR7oQHE/s4080/PXL_20241224_070358275.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV9g3_LmOrQlgltTJZaDpYNb22jiFzWxGQ2-vmSo0ebXqYhc31Lv5lGiYclyU1cSfvMInFaRXIx7erpDh2Qo67sOYIwkFFzLgJbeO471tgkwbUoOASIfDqq3oCLptsbwnoqx9Jq2Crn75_fjnb_OOPzlLsUbpxDwY2YmQVeTzpeZ2HhGeI_Y6oUR7oQHE/s320/PXL_20241224_070358275.jpg"/></a></div>
+
+Let's make sure there's not anything obviously wrong on the inside. We were last <a href="/2023/05/refurb-weekend-commodore-128dcr.html">inside a Commodore 128DCR</a> for a prior refurb weekend and the disassembly here is the same. With a little bit of care we can avoid tearing the intact warranty sticker here too.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaKIUOzjjemcsyv16ESvy4HR-5zpe0RleOmUpKUbZSzUX-cjB1AegxnIdd-u45UcUjlLFd7vNSNpZBV-0v_fOXBxJysoHz9GllswKU1Z7iv0lR9rGJkn046xeIrjD6HAHGn0d-pg9kW6TG3jbSluWnBKMOLTcj_PeoScaFoTyerhCLQvzsCnh0goP90R0/s4080/PXL_20241224_070416294.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaKIUOzjjemcsyv16ESvy4HR-5zpe0RleOmUpKUbZSzUX-cjB1AegxnIdd-u45UcUjlLFd7vNSNpZBV-0v_fOXBxJysoHz9GllswKU1Z7iv0lR9rGJkn046xeIrjD6HAHGn0d-pg9kW6TG3jbSluWnBKMOLTcj_PeoScaFoTyerhCLQvzsCnh0goP90R0/s320/PXL_20241224_070416294.jpg"/></a></div>
+
+Here's the rear plate (50Hz 240V).
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHPL53JL8li5cgkiItQsHkCT2x07OMiK0lLSCscSaIIQ5NaAeqBKR-_P_4SrwgZf0RwxZJB6xFXbvtd-9faoUWCTX4JPZNu_0gDWdvtCPTGSluAGulMPsrcmsUZZSFGDPbkbON49-5a6OtQi0mwhYnacBzN0YlEkLY0Nj-BCeSKyHncpKyohxJ2_M93IU/s4080/PXL_20241224_070744523.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHPL53JL8li5cgkiItQsHkCT2x07OMiK0lLSCscSaIIQ5NaAeqBKR-_P_4SrwgZf0RwxZJB6xFXbvtd-9faoUWCTX4JPZNu_0gDWdvtCPTGSluAGulMPsrcmsUZZSFGDPbkbON49-5a6OtQi0mwhYnacBzN0YlEkLY0Nj-BCeSKyHncpKyohxJ2_M93IU/s320/PXL_20241224_070744523.jpg"/></a></div>
+
+Overview of the mainboard. This "128D" is in fact a 128DCR too. Aside from a couple completely unsurprising cobwebs the board appears intact without obvious physical damage or deficiency. The colour RAM here is the M2128-15 at U19. This is unfortunately soldered to the board and not socketed, as most of the parts are. The disk drive issue could be either CIA 6526 #2 or some failure in the internal 1571.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUWb98H13J3RaBEd9z8f1f3eVXzI6CibHsS9bqAIBzwEONAGdYea93kTLaKCjd-UBBgNOl0BmsxR8Q9vUdKmZpJc6ZV3iBdDWHFTyH1i7LGbVVs-MH_ZbmgnxLcSE3IPA_qntt6mdpTP7pip2anzDS9vGmqo3RUCOx_L4iHaR2SCBTE_7VRhHg6RUrD6E/s4080/PXL_20241224_072105161.LONG_EXPOSURE.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUWb98H13J3RaBEd9z8f1f3eVXzI6CibHsS9bqAIBzwEONAGdYea93kTLaKCjd-UBBgNOl0BmsxR8Q9vUdKmZpJc6ZV3iBdDWHFTyH1i7LGbVVs-MH_ZbmgnxLcSE3IPA_qntt6mdpTP7pip2anzDS9vGmqo3RUCOx_L4iHaR2SCBTE_7VRhHg6RUrD6E/s320/PXL_20241224_072105161.LONG_EXPOSURE.jpg"/></a></div>
+
+Although only the four lower bits are connected to the colour RAM, those should at least be stable as we sample it, but they clearly aren't.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9K_6F5xeYMsCymRnJFKK-G7CiRiJBVZVA7Mcy1Hy1VNr8_BAC9hJsASpLiflBo0_txBtxyvNGXBf5ThybQbyQBAywpS5Nco0sDQVWbPNLK1kOhRplg5TsHpYki5cqBHDML0SQc_2mlHYMhCdkhoBWa4cQVdl79MOi_jE5eArW9RIoKbKEBbf7x3_ycx8/s4080/PXL_20241224_211723708.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9K_6F5xeYMsCymRnJFKK-G7CiRiJBVZVA7Mcy1Hy1VNr8_BAC9hJsASpLiflBo0_txBtxyvNGXBf5ThybQbyQBAywpS5Nco0sDQVWbPNLK1kOhRplg5TsHpYki5cqBHDML0SQc_2mlHYMhCdkhoBWa4cQVdl79MOi_jE5eArW9RIoKbKEBbf7x3_ycx8/s320/PXL_20241224_211723708.jpg"/></a></div>
+
+For the disk drive problem, we need to see whether it can talk over the IEC serial bus at all, so let's get out the printer. The printer has suffered the same leptospirotic fate as the other components of the system but it does power on and it does pass its internal self-test (hold down LF when turning it on). It doesn't actually print anything on the paper but you won't be surprised to hear the ribbon's as long gone as Menzies and I think its electronics are just fine.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY7QF0wfd1i6HSAcAJhhRINm327mDT0L_F6vbshjnbzuJsX8zZ9ZHxqtwD0CIR3nzCnfVSPtfjf4jyJKLUqo7VxgwNC_3w69M-KB2xl180oX8USTUHf5WdCotFT8IF27LCpML_DGNACdnDGeCPACYGqYEUa0roSWMvMgtrn0x9gd6pAnUvAC9LYx1COXI/s4080/PXL_20241224_211610430.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY7QF0wfd1i6HSAcAJhhRINm327mDT0L_F6vbshjnbzuJsX8zZ9ZHxqtwD0CIR3nzCnfVSPtfjf4jyJKLUqo7VxgwNC_3w69M-KB2xl180oX8USTUHf5WdCotFT8IF27LCpML_DGNACdnDGeCPACYGqYEUa0roSWMvMgtrn0x9gd6pAnUvAC9LYx1COXI/s320/PXL_20241224_211610430.jpg"/></a></div>
+
+Hooking it up to the 128DCR, the printer receives no data, and the machine freezes accessing it as well. This doesn't exonerate the disk drive as a factor, but I think we'd need to start with replacing CIA #2 at U4 and then see where we're at. If it still freezes then I'd wonder about the internal 1571's processor (the 6502AD at U101) or one of its 6522A VIAs at U106 or U104. One possible way to temporarily deal with the problem is disabling power to the internal drive and hooking up an external one.
+<p>
+I don't have any of these chips here and I don't even have a proper soldering iron available on this side of the Pacific, so this will be a restoration for another day while I get everything together. But it was fun looking at the software and magazines, and I think this machine is eminently repairable. <a href="/search/label/refurb%20weekend">To be continued</a> after a trip to Jaycar and some mail orders.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij_n1tJprim0UUvTK286hWWX9haGZ29rp1FQFU5gYdtlKVmC99GPx-sy2b31YG8w0FEHBWNrW1qTxz5gLW5vUGLZS4WtX-nWANBaOC2DtQ-Eue11R6NLaUhl59TyMaEDr_9J2wZc9JN49wwnyE1-XzWefpsl8YRA_Jvms4lIJN_aVK1ie3Wzpa0WRxId4/s4080/PXL_20241224_053818534.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij_n1tJprim0UUvTK286hWWX9haGZ29rp1FQFU5gYdtlKVmC99GPx-sy2b31YG8w0FEHBWNrW1qTxz5gLW5vUGLZS4WtX-nWANBaOC2DtQ-Eue11R6NLaUhl59TyMaEDr_9J2wZc9JN49wwnyE1-XzWefpsl8YRA_Jvms4lIJN_aVK1ie3Wzpa0WRxId4/s320/PXL_20241224_053818534.jpg"/></a></div>
+
+A very happy holiday and a merry Christmas to those of you who celebrate it. 
+
+<br> 
+
+<https://oldvcr.blogspot.com/2024/12/a-mostly-merry-southern-hemisphere.html>
+
+---
+
+## RISC OS 'Advent' Calendar 2024 - Gerph
+
+date: 2024-12-25, from: Icon Bar, RISC OS News
+
+Many thanks to Gerph for sending this item as well (exciting times in RISC OS development). It's not too late to send us yours.... 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2150.html>
+
+---
+
+## World of Commodore '24
+
+date: 2024-12-25, from: C64 OS Blog
+
+ <img src='https://s3.amazonaws.com/com.c64os.resources/weblog/worldofcommodore2024/icon_woc24.png'> I haven't blogged about World of Commodore since 2019. Now, to be fair, we did have a worldwide pandemic between then and now. In 2020 there was no in-person event. Maybe it happened online, but I didn't participate. In 2021 World of Commodore happened again in the flesh, but we were all masked up. I don't remember much about that event. I did take lots of photos, but I can only assume that attendance was low. I think they did the show via Zoom in parallel with the in-person event. At this time, C64 OS had not yet made its v1.0 debut. I was very busy preparing for the release though. Instead of blogging I was writing the User's Guide both printed and digital, and trying to finish everything up in the following 6 months. By the time 2022 rolled around, I had released C64 OS just a couple of months earlier, and my life and time availability had been completely deranged. That was one of the busiest times I've ever experienced. I was making sales every few minutes. I had a huge backlog of . . .  
+
+<br> 
+
+<https://www.c64os.com/post/worldofcommodore2024>
+
+---
+
+## Promotional video released for RISC OS North
+
+date: 2024-12-24, from: RiscOS Story
+
+You might have noticed that the recently announced new show, RISC OS North, has adopted a more modern style of website than traditional RISC OS shows, which still hold a more static, traditional design. The trend hasn&#8217;t just stopped at the website design, though; there is also now a promotional video for the event, which you might see popping up here and there &#8211; and will hopefully be seen by people beyond those who regularly come to RISC OS shows: 
+
+<br> 
+
+<https://www.riscository.com/2024/promo-video-risc-os-north/>
+
+---
+
+## ScummVM 2.9.0 released
+
+date: 2024-12-24, from: RiscOS Story
+
+Supporting some fifteen additional games, a new version of ScummVM has arrived. The software is maintained by a team of programmers across a number of platforms, with Cameron Cawley to be thanked for his work bringing each release to RISC OS. ScummVM is a &#8216;virtual machine&#8217; originally developed to allow games to be played that were based on LucasArts&#8217; Script Creation Utility for Maniac Mansion. By effectively replacing the executable component that came with such games, which was specific to the platforms on which the games were originally released, the&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/scummvm-2-9-0/>
 
 ---
 

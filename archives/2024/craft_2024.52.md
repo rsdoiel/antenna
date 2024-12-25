@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-12-24 07:05:30
+updated: 2024-12-25 07:05:25
 ---
 
 # craft
 
-(date: 2024-12-24 07:05:30)
+(date: 2024-12-25 07:05:25)
+
+---
+
+## Our Wishes to You — From Everyone at Maiwa
+
+date: 2024-12-25, updated: 2024-12-25, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2024/12/our-wishes-to-you-from-everyone-at-maiwa.html>
 
 ---
 

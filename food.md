@@ -1,11 +1,26 @@
 ---
 title: food
-updated: 2024-12-24 07:05:30
+updated: 2024-12-25 07:05:25
 ---
 
 # food
 
-(date: 2024-12-24 07:05:30)
+(date: 2024-12-25 07:05:25)
+
+---
+
+## Merry Christmas
+
+date: 2024-12-25, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2017/12/MerryChristmasscopy-1024x1024.jpg"/></div>
+<p>Merry Christmas to you and your loved ones! May your holidays be filled with good company, cheer and plenty of tasty food! I am grateful!</p>
+<p>The post <a href="https://www.closetcooking.com/merry-christmas-2023/">Merry Christmas</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/merry-christmas-2023/>
 
 ---
 

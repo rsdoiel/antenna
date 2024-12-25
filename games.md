@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2024-12-24 07:05:28
+updated: 2024-12-25 07:05:23
 ---
 
 # games
 
-(date: 2024-12-24 07:05:28)
+(date: 2024-12-25 07:05:23)
+
+---
+
+## This Yuletide, give yourself the soothing gift of gab and a good resin model video
+
+date: 2024-12-25, updated: 2024-12-22, from: Polygon Website
+
+Holidays come with a lot of family talk. Whether you have taken the requisite planes, trains, and automobiles to be with your loved ones or you are celebrating at a distance, there is often a parade of family updates — the well-wish calls that inevitably (and gratifyingly!) turn to the reports and the check-ins. Some [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/yuletide-youtube/495094/family-phone-youtube-hack-resin-videos-rule>
+
+---
+
+## The 25 best games on Game Pass
+
+date: 2024-12-25, updated: 2024-12-25, from: Polygon Website
+
+Microsoft’s Game Pass subscription service is having another great year in 2024, with over 450 games now available for console players and over 400 for PC players. The service has recently been bolstered with the fruits of Microsoft’s acquisition of Activision Blizzard — including Diablo 4 and Call of Duty: Modern Warfare 3. Blockbuster titles [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox>
+
+---
+
+## Best Ultra League teams to use in Pokémon Go
+
+date: 2024-12-24, updated: 2024-12-20, from: Polygon Website
+
+The Ultra League in Pokémon Go’s Go Battle League and its 2,500 CP limit is where more “regular” Pokémon have their time in the spotlight, compared to the almost Legendary-dominated Master League and lower levels of the Great League. In this League, every Pokémon has a chance to make a splash — but that’s not [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/500550/ultra-league-best-team-meta>
+
+---
+
+## Best Great League teams to use in Pokémon Go
+
+date: 2024-12-24, updated: 2024-12-20, from: Polygon Website
+
+The Great League is the perfect place to start dabbling in Go Battle League if you haven’t tried competitive battling yet in Pokémon Go. While the other leagues have their thrills, they can get bogged down with rare Legendary Pokémon, XL Candy requirements, and a lot of Community Day exclusive moves.  Great League is the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/500388/great-league-best-team-meta>
+
+---
+
+## YouTube’s best ‘how music works’ channel taught me so much about media I love
+
+date: 2024-12-24, updated: 2024-12-22, from: Polygon Website
+
+YouTube is packed with “How do I…” and “How did they…” channels. SEO masterminds chase Google glory on basic questions like “How to change a tire.” Lifestyle gurus explain how to change your life. Documentarians lay out series on how specific products are made. Comedians mix straight-faced how-tos with pointed irony. Entire channels are dedicated [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/yuletide-youtube/486717/best-music-analysis-channel>
+
+---
+
+## Werewolves director on his practical monsters: ‘If the werewolves don’t work, the movie doesn’t work’
+
+date: 2024-12-24, updated: 2024-12-23, from: Polygon Website
+
+If you’ve ever complained about the dominance of digital special effects in modern Hollywood movies, Werewolves was made for you. The new action-horror movie, now available for digital rental or purchase, has a delicious premise — a year ago, a supermoon turned a billion people into werewolves for one night. Now, it’s about to happen [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/499285/werewolves-movie-creature-design-practical-effects>
+
+---
+
+## Nosferatu director needed Bill Skarsgård’s vampire to look like a creepy corpse
+
+date: 2024-12-24, updated: 2024-12-23, from: Polygon Website
+
+Count Orlok looms over Nosferatu like the Cloverfield monster. While he is among the first voices we hear, and the first faces we see, the full reveal of Orlok’s form comes much later. When we see him in all his glory — with all the sores, sylphlike limbs, and ponderous movements — he looks like [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/501581/nosferatu-vampire-design-orlok-eggers-interview>
+
+---
+
+## Where to unlock Cloud of Darkness (Chaotic) in FFXIV
+
+date: 2024-12-24, updated: 2024-12-24, from: Polygon Website
+
+Cloud of Darkness (Chaotic) is a high-end duty in Final Fantasy 14, added as part of patch 7.15. This 24-man raid is a hard boss fight that will require lots of coordination to clear, but the rewards are worthwhile. Fans of The Crystal Tower raid series, the Cloud of Darkness Eden raid fight, and of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/498506/cloud-of-darkness-chaotic-unlock-reward-exchange>
 
 ---
 

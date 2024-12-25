@@ -1,11 +1,143 @@
 ---
 title: central coast
-updated: 2024-12-24 07:05:28
+updated: 2024-12-25 07:05:22
 ---
 
 # central coast
 
-(date: 2024-12-24 07:05:28)
+(date: 2024-12-25 07:05:22)
+
+---
+
+## Merry Christmas
+
+date: 2024-12-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Mary, Mother of God, at Bishop Diego High School in Santa Barbara." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/merry-christmas-2/">Merry Christmas</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/merry-christmas-2/>
+
+---
+
+## Garbage Truck Fire Leads to Shutdown of Calle Real Near Santa Barbara
+
+date: 2024-12-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trash-Truck-Fire-2-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A portion of Calle Real was shut down near Santa Barbara Tuesday afternoon after a garbage truck caught fire. The incident occurred just west of El Sueno Road." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trash-Truck-Fire-2-sbcfd-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trash-Truck-Fire-2-sbcfd-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trash-Truck-Fire-2-sbcfd-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trash-Truck-Fire-2-sbcfd-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trash-Truck-Fire-2-sbcfd-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trash-Truck-Fire-2-sbcfd-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trash-Truck-Fire-2-sbcfd-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trash-Truck-Fire-2-sbcfd-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trash-Truck-Fire-2-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A portion of Calle Real was shut down near Santa Barbara Tuesday afternoon after a garbage truck caught on fire. Santa Barbara County firefighters were dispatched shortly after 2:30 p.m. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/garbage-truck-fire-leads-to-shutdown-of-calle-real-near-santa-barbara/">Garbage Truck Fire Leads to Shutdown of Calle Real Near Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/garbage-truck-fire-leads-to-shutdown-of-calle-real-near-santa-barbara/>
+
+---
+
+## High Winds Topple Trees, Down Power Lines in Santa Barbara County
+
+date: 2024-12-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trees-Down-Via-Diego-2-ph-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Branches from a large tree toppled onto a house on Via Diego on Tuesday." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trees-Down-Via-Diego-2-ph-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trees-Down-Via-Diego-2-ph-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trees-Down-Via-Diego-2-ph-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trees-Down-Via-Diego-2-ph-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trees-Down-Via-Diego-2-ph-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trees-Down-Via-Diego-2-ph-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trees-Down-Via-Diego-2-ph-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trees-Down-Via-Diego-2-ph-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Trees-Down-Via-Diego-2-ph-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Batten down those Christmas lawn decorations. Santa Claus is on his way, but the crushing cold and wicked wind is already here. Heavy gusts have throttled the South Coast, toppling [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/high-winds-topple-trees-down-power-lines-in-santa-barbara-county/">High Winds Topple Trees, Down Power Lines in Santa Barbara County</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/high-winds-topple-trees-down-power-lines-in-santa-barbara-county/>
+
+---
+
+## 5046 Birchwood Road, SANTA BARBARA, CA 93111
+
+date: 2024-12-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="654" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/5046-Birchwood.webp?fit=1024%2C654&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="5046 Birchwood Road, SANTA BARBARA, CA 93111" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/5046-Birchwood.webp?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/5046-Birchwood.webp?resize=300%2C192&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/5046-Birchwood.webp?resize=1024%2C654&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/5046-Birchwood.webp?resize=768%2C491&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/5046-Birchwood.webp?resize=1536%2C981&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/5046-Birchwood.webp?resize=2048%2C1308&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/5046-Birchwood.webp?resize=1200%2C767&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/5046-Birchwood.webp?resize=1568%2C1002&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/5046-Birchwood.webp?resize=2000%2C1278&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/5046-Birchwood.webp?resize=400%2C256&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/5046-Birchwood.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/5046-Birchwood.webp?fit=1024%2C654&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Offered At $895,000</p>
+<p>The post <a href="https://www.noozhawk.com/5046-birchwood-road-santa-barbara-ca-93111/">5046 Birchwood Road, SANTA BARBARA, CA 93111</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/5046-birchwood-road-santa-barbara-ca-93111/>
+
+---
+
+## Tracy Beckerman: Taking the Plunge from Party Guest to Holiday Legend in 2 Gifts Flat
+
+date: 2024-12-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Plunger.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Plunger" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Plunger.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Plunger.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Plunger.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Plunger.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Plunger.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Plunger.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Plunger.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Plunger.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Plunger.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Plunger.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Plunger.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Plunger.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>When we got the last-minute invite to a Christmas party at someone’s house, I didn’t realize I had a problem until I was waiting for the elevator to take us [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/tracy-beckerman-taking-the-plunge-from-party-guest-to-holiday-legend-in-2-gifts-flat/">Tracy Beckerman: Taking the Plunge from Party Guest to Holiday Legend in 2 Gifts Flat</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/tracy-beckerman-taking-the-plunge-from-party-guest-to-holiday-legend-in-2-gifts-flat/>
+
+---
+
+## 523 Myrtle Court, SOLVANG, CA 93463
+
+date: 2024-12-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="575" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/523-Myrtle-Court-scaled.webp?fit=1024%2C575&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="523 Myrtle Court, SOLVANG, CA 93463" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/523-Myrtle-Court-scaled.webp?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/523-Myrtle-Court-scaled.webp?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/523-Myrtle-Court-scaled.webp?resize=1024%2C575&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/523-Myrtle-Court-scaled.webp?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/523-Myrtle-Court-scaled.webp?resize=1536%2C863&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/523-Myrtle-Court-scaled.webp?resize=2048%2C1151&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/523-Myrtle-Court-scaled.webp?resize=1200%2C674&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/523-Myrtle-Court-scaled.webp?resize=1568%2C881&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/523-Myrtle-Court-scaled.webp?resize=2000%2C1124&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/523-Myrtle-Court-scaled.webp?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/523-Myrtle-Court-scaled.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/523-Myrtle-Court-scaled.webp?fit=1024%2C575&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Offered At $1,950,000</p>
+<p>The post <a href="https://www.noozhawk.com/523-myrtle-court-solvang-ca-93463/">523 Myrtle Court, SOLVANG, CA 93463</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/523-myrtle-court-solvang-ca-93463/>
+
+---
+
+## 1 Dead, 1 Critically Injured in Head-On Crash Near Vandenberg Village
+
+date: 2024-12-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="One person was killed and another was critically injured on Tuesday in a head-on crash on northbound Highway 1 near Constellation Road in Vandenberg Village." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>One person was killed and another was critically injured on Tuesday in a head-on crash on Highway 1 near Vandenberg Village, according to the Santa Barbara County Fire Department. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/major-injuries-reported-in-head-on-crash-near-vandenberg-village/">1 Dead, 1 Critically Injured in Head-On Crash Near Vandenberg Village</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/major-injuries-reported-in-head-on-crash-near-vandenberg-village/>
+
+---
+
+## Shelters Open Overnight Dec. 24 to 25
+
+date: 2024-12-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Warming Centers are open overnight, 6 p.m.-6 a.m. Tuesday, Dec. 24 at the following sites: Santa Maria  &#8211; Atkinson Center, 1000 N. Railroad Ave.   Lompoc &#8211;  Bethany Lutheran Church, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/shelters-open-overnight-dec-24-25/">Shelters Open Overnight Dec. 24 to 25</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/shelters-open-overnight-dec-24-25/>
+
+---
+
+## Santa Barbara on a Quest to Find City’s Next Poet Laureate
+
+date: 2024-12-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara County Office of Arts and Culture, in partnership with the city of Santa Barbara and Santa Barbara Public Library, is accepting applications for the next Santa Barbara [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-on-a-quest-to-find-citys-next-poet-laureate/">Santa Barbara on a Quest to Find City&#8217;s Next Poet Laureate </a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-barbara-on-a-quest-to-find-citys-next-poet-laureate/>
 
 ---
 

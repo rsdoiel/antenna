@@ -1,11 +1,178 @@
 ---
 title: pacific
-updated: 2024-12-24 07:05:27
+updated: 2024-12-25 07:05:22
 ---
 
 # pacific
 
-(date: 2024-12-24 07:05:27)
+(date: 2024-12-25 07:05:22)
+
+---
+
+## The fastest spacecraft ever heads for its close-up with the sun
+
+date: 2024-12-25, from: Hawaii Tribune Harold
+
+
+				<p>On Christmas Eve, a vehicle traveled at incomprehensible speed around a celestial object to bring wonder to the people of Earth &#8212; and it&#8217;s not Santa&#8217;s sleigh. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/25/nation-world-news/the-fastest-spacecraft-ever-heads-for-its-close-up-with-the-sun/>
+
+---
+
+## Spending fight shows limits of Trump’s power to change fiscal path
+
+date: 2024-12-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; When Elon Musk and Vivek Ramaswamy, the businesspeople whom President-elect Donald Trump tapped to lead his new Department of Government Efficiency, met with lawmakers in early December, they laid out their plans for cutting federal spending and eliminating waste. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/25/nation-world-news/spending-fight-shows-limits-of-trumps-power-to-change-fiscal-path/>
+
+---
+
+## How ‘Rudolph the Red-Nosed Reindeer’ (and its writer) went down in history
+
+date: 2024-12-25, from: Hawaii Tribune Harold
+
+
+				<p>There were &#8220;years of heartbreak,&#8221; songwriter Johnny Marks once recalled of his start in the music business in 1935. He eventually found some modest success collaborating on a No. 1 hit for the Ink Spots, &#8220;Address Unknown,&#8221; and songs made popular by Bing Crosby and Glenn Miller. It was just enough renown for Billboard magazine to briefly note his decision to pause to volunteer for World War II in the spring of 1942, when he enlisted as a U.S. Army private.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/25/nation-world-news/how-rudolph-the-red-nosed-reindeer-and-its-writer-went-down-in-history/>
+
+---
+
+## Nation and world news in brief for December 25
+
+date: 2024-12-25, from: Hawaii Tribune Harold
+
+
+				<p>Former President Clinton discharged from hospital</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/25/nation-world-news/nation-and-world-news-in-brief-for-december-25/>
+
+---
+
+## Looting cripples food supply in Gaza despite Israeli pledge to tackle gangs, sources say
+
+date: 2024-12-25, from: Hawaii Tribune Harold
+
+
+				<p>Israel has failed to crack down on armed gangs attacking food convoys in Gaza, despite a pledge to do so in mid-October to help ward off famine in the Palestinian enclave, according to three U.N. and U.S. officials familiar with the matter. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/25/nation-world-news/looting-cripples-food-supply-in-gaza-despite-israeli-pledge-to-tackle-gangs-sources-say/>
+
+---
+
+## A cultural casualty of the war in Ukraine: ‘The Nutcracker’
+
+date: 2024-12-25, from: Hawaii Tribune Harold
+
+
+				<p>VILNIUS, Lithuania &#8212; Unimpressed by the substitute for Pyotr Ilyich Tchaikovsky&#8217;s &#8220;Nutcracker,&#8221; the mother and her young daughter left at the intermission, a small protest over a decision by the opera house not to perform the Russian composer&#8217;s Christmas classic.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/25/nation-world-news/a-cultural-casualty-of-the-war-in-ukraine-the-nutcracker-2/>
+
+---
+
+## As drugstores close, older people are left in ‘pharmacy deserts’
+
+date: 2024-12-25, from: Hawaii Tribune Harold
+
+
+				<p>In July, a notice appeared on the front door of The Drug Store, the only pharmacy in rural Kernville, California. After 45 years, the proprietor wrote regretfully, it would be closing in four days and transferring customers&#8217; prescriptions to a Rite Aid about 12 miles away. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/25/nation-world-news/as-drugstores-close-older-people-are-left-in-pharmacy-deserts/>
+
+---
+
+## Huge waves batter California coast: Man dead, another missing, pier partially collapses
+
+date: 2024-12-25, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Northern California is bracing for another day of deadly waves topping 40 feet Tuesday as officials in Santa Cruz search for survivors and assess the damage from a partial collapse of the city&#8217;s landmark pier.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/25/nation-world-news/huge-waves-batter-california-coast-man-dead-another-missing-pier-partially-collapses/>
+
+---
+
+## Social Security’s full retirement age will jump in 2025. When can you collect your full benefits?
+
+date: 2024-12-25, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8211; If you were planning to retire next year, double check your math because a law passed in the &#8217;80s is annually raising the age when Americans can collect their full Social Security benefits. And next year is no exception.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/25/nation-world-news/social-securitys-full-retirement-age-will-jump-in-2025-when-can-you-collect-your-full-benefits/>
+
+---
+
+## American Airlines briefly grounds US flights over technical issue
+
+date: 2024-12-25, from: Hawaii Tribune Harold
+
+
+				<p>American Airlines briefly grounded all its flights in the United States on Tuesday morning, according to a notice from the Federal Aviation Administration. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/25/nation-world-news/american-airlines-briefly-grounds-us-flights-over-technical-issue/>
+
+---
+
+## Trump slams Biden for commuting death sentences of 37 federal prisoners
+
+date: 2024-12-25, from: Hawaii Tribune Harold
+
+
+				<p>President-elect Donald Trump slammed President Joe Biden on Tuesday for commuting the death sentences of 37 federal prisoners in an act of holiday clemency.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/25/nation-world-news/trump-slams-biden-for-commuting-death-sentences-of-37-federal-prisoners/>
+
+---
+
+## 2 UH Hilo soccer players earn regional and academic accolades
+
+date: 2024-12-24, from: University of Hawaiʻi News
+
+<p>Alyssa Padron and Teani Arakawa earned spots on All West regional teams.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/24/2-uh-hilo-soccer-players-earn-accolades/">2 <abbr>UH</abbr> Hilo soccer players earn regional and academic accolades</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/24/2-uh-hilo-soccer-players-earn-accolades/>
 
 ---
 
@@ -736,7 +903,7 @@ The post <a href="https://www.hawaii.edu/news/2024/12/22/uh-news-images-of-the-w
 
 date: 2024-12-23, from: University of Hawaiʻi News
 
-<p>UHNews.org posted nearly 1,500 stories in the very eventful 2024. Here is a top story from each of the 10 UH campuses (in alphabetical order by campus)</p>
+<p>UHNews.org posted nearly 1,500 stories in the very eventful 2024. Here is a top story from each of the 10 UH campuses (in alphabetical order by campus).</p>
 The post <a href="https://www.hawaii.edu/news/2024/12/22/a-top-story-from-each-uh-campus-2024/">A top story from each UH campus 2024</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <br> 

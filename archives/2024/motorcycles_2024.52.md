@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2024-12-24 07:05:29
+updated: 2024-12-25 07:05:24
 ---
 
 # motorcycles
 
-(date: 2024-12-24 07:05:29)
+(date: 2024-12-25 07:05:24)
+
+---
+
+## Idiot Kia Driver Clearly Can't Read, Parks Car in Motorcycle Spot
+
+date: 2024-12-25, from: Ride Apart, Electric Motorcycle News
+
+Are you being an asshole or can you just not read? 
+
+<br> 
+
+<https://www.rideapart.com/news/745401/kia-driver-parks-car-in-motorcycle-spot/>
+
+---
+
+## Seriously, What Else Would Santa Ride In Rio But a PWC?
+
+date: 2024-12-25, from: Ride Apart, Electric Motorcycle News
+
+Local firefighters showed up to make Rio de Janeiro kids' holiday. 
+
+<br> 
+
+<https://www.rideapart.com/news/745411/santa-pwc-rio-de-janeiro/>
 
 ---
 

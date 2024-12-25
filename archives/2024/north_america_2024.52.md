@@ -1,11 +1,235 @@
 ---
 title: north america
-updated: 2024-12-24 07:05:26
+updated: 2024-12-25 07:05:21
 ---
 
 # north america
 
-(date: 2024-12-24 07:05:26)
+(date: 2024-12-25 07:05:21)
+
+---
+
+## American imprisoned in Russia sentenced to new 15-year jail term for espionage
+
+date: 2024-12-25, from: VOA News USA
+
+Moscow — A Russian-born U.S. citizen already imprisoned in Russia on a bribery conviction has been handed a second 15-year jail term for espionage, Russian news agencies reported Tuesday.
+
+
+A Moscow court brought espionage charges against Gene Spector in August 2023. Details surrounding the case were not made public.
+
+
+The U.S. State Department said it was aware of reports of the sentencing of a U.S. citizen in Russia and was monitoring the situation.
+
+
+Spector, formerly an executive at a medical equipment company in Russia, was previously sentenced to more than three years in prison in September 2022 for enabling bribes to an aide of former deputy prime minister Arkady Dvorkovich. The aide, Anastasia Alekseyeva, was sentenced to 12 years in April for taking bribes of two expensive overseas vacation trips.
+
+
+Dvorkovich was a deputy prime minister under Dmitry Medvedev from 2012 to 2018. He is currently head of the international chess federation FIDE. 
+
+<br> 
+
+<https://www.voanews.com/a/american-imprisoned-in-russia-sentenced-to-new-15-year-jail-term-for-espionage/7913592.html>
+
+---
+
+## VOA Mandarin: How China's mineral export ban could affect US weapon manufacturing
+
+date: 2024-12-25, from: VOA News USA
+
+In early December, China tightened export controls on dual-use goods to the United States. A recent report warns that this ban could disrupt the production of over 20,000 components used by the U.S. military, particularly in naval systems and nuclear missile technology. 
+
+
+Click here for the full story in Mandarin. 
+
+<br> 
+
+<https://www.voanews.com/a/7913272.html>
+
+---
+
+## NASA probe makes closest-ever pass by the sun
+
+date: 2024-12-25, from: VOA News USA
+
+WASHINGTON — NASA's pioneering Parker Solar Probe made history Tuesday, flying closer to the sun than any other spacecraft, with its heat shield exposed to scorching temperatures topping 930 degrees Celsius (1,700 degrees Fahrenheit). 
+
+
+Launched in August 2018, the spaceship is on a seven-year mission to deepen scientific understanding of our star and help forecast space-weather events that can affect life on Earth. 
+
+
+Tuesday's historic flyby should have occurred at precisely 11:53 Greenwich Mean Time, although mission scientists will have to wait until Friday for confirmation as they lose contact with the craft for several days due to its proximity to the sun. 
+
+
+"Right now, Parker Solar Probe is flying closer to a star than anything has ever been before," at 6.1 million kilometers (3.8 million miles) away, NASA official Nicky Fox said in a video on social media Tuesday morning.  
+
+
+"It is just a total 'yay, we did it,' moment." 
+
+
+If the distance between Earth and the sun is the equivalent to the length of an American football field, 109.7 meters, the spacecraft should have been about four meters from the end zone at the moment of closest approach — known as perihelion. 
+
+
+"This is one example of NASA's bold missions, doing something that no one else has ever done before to answer long-standing questions about our universe," Parker Solar Probe program scientist Arik Posner said in a statement on Monday. 
+
+
+"We can't wait to receive that first status update from the spacecraft and start receiving the science data in the coming weeks." 
+
+
+So effective is the heat shield that the probe's internal instruments remain near room temperature — around 29 C (85 F) — as it explores the sun's outer atmosphere, called the corona. 
+
+
+Parker will also be moving at a blistering pace of around 690,000 kilometers per hour (430,000 miles per hourph), fast enough to fly from the U.S. capital, Washington, to Japan's Tokyo in under a minute. 
+
+
+"Parker will truly be returning data from uncharted territory," said Nick Pinkine, mission operations manager at the Johns Hopkins Applied Physics Laboratory in Laurel, Maryland.  
+
+
+"We're excited to hear back from the spacecraft when it swings back around the sun." 
+
+
+By venturing into these extreme conditions, Parker has been helping scientists tackle some of the sun's biggest mysteries: how solar wind originates, why the corona is hotter than the surface below, and how coronal mass ejections — massive clouds of plasma that hurl through space are formed. 
+
+
+The Christmas Eve flyby is the first of three record-setting close passes, with the next two — on March 22 and June 19, 2025 — both expected to bring the probe back to a similarly close distance from the Sun. 
+
+<br> 
+
+<https://www.voanews.com/a/nasa-probe-makes-closest-ever-pass-by-the-sun/7913023.html>
+
+---
+
+## Inner city kids showcase talents in Hollywood Christmas Parade
+
+date: 2024-12-24, from: VOA News USA
+
+For 92 years, the Hollywood Christmas Parade has featured celebrities and performers. This year, the parade includes the Divas and Drummers of Compton, a nonprofit working to give inner city kids an opportunity to learn performing arts. Genia Dulot reports from Los Angeles. 
+
+<br> 
+
+<https://www.voanews.com/a/inner-city-kids-showcase-talents-in-hollywood-christmas-parade/7912997.html>
+
+---
+
+## Trump makes bid for Panama Canal and Greenland
+
+date: 2024-12-24, from: VOA News USA
+
+As he prepares to take office in less than a month, President-elect Donald Trump has threatened to reassert U.S. control over the Panama Canal, and he renewed calls to buy Greenland from Denmark. White House Bureau Chief Patsy Widakuswara has this report. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-makes-bid-for-panama-canal-and-greenland/7912934.html>
+
+---
+
+## Big banks, business groups sue US Federal Reserve over annual 'stress tests'
+
+date: 2024-12-24, from: VOA News USA
+
+Major banks and business groups sued the Federal Reserve on Tuesday, alleging the U.S. central bank's annual "stress tests" of Wall Street firms violate the law.
+
+
+The lawsuit filed in U.S. District Court in Columbus, Ohio, claims the Fed's practice of determining how big banks perform against hypothetical economic turmoil, and assigning capital requirements accordingly, do not follow proper administrative procedure. Plaintiffs included the Bank Policy Institute, the U.S. Chamber of Commerce and the American Bank Association.
+
+
+The lawsuit marks the latest example of the banking industry growing bolder and challenging in court their regulators' powers, particularly in the wake of recent Supreme Court rulings placing fresh restrictions on administrative authority.
+
+
+In June, the Supreme Court dealt a major blow to such power by overturning a 1984 precedent that granted deference to government agencies in interpreting laws they administer. The so-called "Chevron doctrine" had called for judges to defer to reasonable federal agency interpretations of U.S. laws deemed to be ambiguous.  
+
+
+While the 2010 Dodd-Frank law passed following the global financial crisis broadly requires the Fed to test banks' balance sheets, the capital adequacy analysis the Fed performs as part of tests, or the resulting capital it directs lenders to set aside, are not mandated by law.
+
+
+Specifically, the groups are calling for the Fed to make public and subject to feedback the now-confidential models the regulators use to gauge bank performance, as well as details of the annual scenarios they create to test for weaknesses. The groups said they did not want to kill the stress testing program, which provides an annual bill of health to the nation's biggest firms, but argue the process needs to be more transparent and responsive to public feedback.
+
+
+On Monday, the Fed announced plans to pursue similar changes ahead of the 2025 exams, citing recent legal developments, but the industry opted to proceed with its lawsuit. A Fed spokesperson declined to comment on the lawsuit on Tuesday.
+
+
+"The opaque nature of these tests undermines their value for providing meaningful insights into bank resilience," Rob Nichols, president and CEO of the American Bankers Association, said in a statement.  
+
+
+"We remain hopeful the Fed will address long-standing issues with the stress tests, but this litigation preserves our ability to seek legal remedies if the Fed falls short.”
+
+
+These tests, which banks have complained for years are opaque and subjective, are a central piece of the U.S. regulatory bank-capital structure. The Fed has long resisted calls to completely open up the testing process, due to concerns that it could make it easier for banks to clear the exams.
+
+
+How banks perform on the test informs how much capital they must set aside to meet their obligations and dictate the scope of dividend payouts and stock buybacks. 
+
+<br> 
+
+<https://www.voanews.com/a/big-banks-business-groups-sue-us-federal-reserve-over-annual-stress-tests-/7912850.html>
+
+---
+
+## Chad’s online journalists decry ban ahead of December 29 elections
+
+date: 2024-12-24, from: VOA News USA
+
+Yaounde — Online media journalists in Chad are voicing dissatisfaction and frustration over officials’ refusal to lift a ban on the broadcasting of audiovisual content. The High Media and Audiovisual Authority, or HAMA, accuses journalists of reposting videos without the content producers’ permission but journalists say they are being silenced from reporting on critical election issues.
+
+
+Journalists reporting for online media platforms say they are surprised that Chad's High Media and Audiovisual Authority, or HAMA, has refused to respect a December 20 Supreme Court decision ordering an immediate end to a ban on broadcasting online media content.
+
+
+Bello Bakary Mana, the president of the Association of Online Media of Chad, Mana took part in a protest Tuesday in N'djamena against what he calls a deliberate attempt by HAMA to silence Chad's online media.
+
+
+Mana said several hundred online reporters assisted by local radio, print and TV journalists are in N'djamena to let the world know that the media is being silenced in Chad. "They will continue protesting until HAMA stops threatening journalists and lifts what he calls its illegal December 4 ban on the broadcast of online audiovisual content," he said.
+
+
+Bello, who spoke to VOA from N'djamena via a messaging app, also said only police can compel HAMA to respect the lifting of a ban on the broadcasting of online audiovisual content, but that police are controlled by the government, which ordered the ban.
+
+
+HAMA says it prohibited online newspapers from broadcasting audiovisual content because many of the newspapers refused to obey an order earlier this year to stop reposting videos from foreign sources, including international media outlets, without the author or media outlets’ permission, as required by law.
+
+
+Journalists say the decision, taken before elections on December 29 to mark an end to Chad's three-year transitional period, is an indication the government, through HAMA, wants to silence online media that the government has described as highly critical.
+
+
+HAMA has always complained that online media regularly publish unverifiable information about President Mahamat Idriss Deby.
+
+
+
+
+Deby became Chad's transitional president in April 2021 after his father, Idriss Deby Itno, was killed in a gun battle with rebels following 30 years in power.
+
+
+Deby was declared the winner of Chad's contested May 6 presidential polls amid opposition and civil society allegations the victory was stolen.
+
+
+Government officials in Chad complained after the presidential elections that online media were reporting on and posting videos of opposition and civil society members saying that Deby wants to continue his late father's rule, according to local media.
+
+
+Journalists in Chad say by banning online audiovisual content, HAMA wants to silence online media that have been reporting that Deby's Patriotic Salvation Movement, or MPS, wants to use the polls to consolidate its grip on power at all costs.
+
+
+
+
+Abderrahmane Barka, the president of HAMA, created by Chad's government to regulate the media in the central African state, says Chad's High Media and Audiovisual Authority that he leads noticed that before elections, rich politicians hire media organizations to broadcast campaign messages, and that poses a disadvantage to politicians who don’t have a lot of money. He says HAMA is reinforcing the law, which requires the media to give equal access without pay to all political parties taking part in elections.
+
+
+Barka spoke on state TV on Tuesday. He said Chadian laws do not permit online newspapers to broadcast audiovisual content but did not comment on whether a Supreme Court decision to lift the ban will be respected.
+
+
+Chad's online journalists say the ban has affected about 60% of their audience who no longer have access to online media. They say they are surprised that HAMA also ordered them to stop broadcasting audiovisual content that they produce locally.
+
+
+Before the ban and ahead of the December 29 elections, HAMA suspended all interactive online, radio and TV programs, arguing that the media do not have sufficient human resources to produce such programs during election periods — a claim the media deny.
+
+
+Last week, Reporters Without Borders asked Chad to reverse its decision and lift the ban. The media rights group says the job of HAMA is regulating and not prohibiting the media from informing, educating and entertaining their audience.
+
+
+
+RSF acknowledges that broadcasting content without the consent of the producers is wrong and has asked Chad to allow online reporters to broadcast local content they create. 
+
+<br> 
+
+<https://www.voanews.com/a/chad-s-online-journalists-decry-ban-ahead-of-december-29-elections-/7912532.html>
 
 ---
 
@@ -21,29 +245,61 @@ Singer and actress Sofia Carson closes 2024 with her first action film role and 
 
 ---
 
-## American Airlines operations up and running again after technical issue grounded US flights
+## Heavy travel day starts with brief grounding of all American Airlines flights
 
 date: 2024-12-24, from: VOA News USA
 
-American Airlines flights were cleared to fly by regulators early Tuesday after a brief grounding due to a systemwide technical issue.
+Washington — American Airlines briefly grounded flights nationwide Tuesday because of a technical problem just as the Christmas travel season kicked into overdrive and winter weather threatened more potential problems for those planning to fly or drive. 
 
 
-Just before 7 a.m. Eastern time, the Federal Aviation Administration ordered all American Airlines flights grounded in the U.S. at the airline’s request. American had reported a technical issue affecting its entire system with millions traveling for the holiday.
+Government regulators cleared American flights to get airborne about an hour after the Federal Aviation Administration ordered a national ground stop for the airline. The order, which prevented planes from taking off, was issued at the airline's request after it experienced trouble with its flight operating system, or FOS. The airline blamed technology from one of its vendors. 
 
 
-In social media replies to frustrated travelers, the airline said: “Our team is currently working to rectify this. Your continued patience is appreciated.”
+As a result, flights were delayed across American’s major hubs, with only 37% of the airline's 3,901 domestic and international flights leaving on time, according to Cirium, an aviation analytics company. Nineteen flights were canceled. 
 
 
-The company has not issued a press release explaining the issue and an email was not immediately returned.
+Dennis Tajer, a spokesperson for the Allied Pilots Association, a union representing American Airlines pilots, said the airline told pilots at 7 a.m. Eastern that there was an outage affecting the FOS. It handles different types of airline operations, including dispatch, flight planning and passenger boarding, as well as an airplane's weight and balance data, he said. 
 
 
-A post on the Federal Aviation Administration's website acknowledged the airline's request for a “nationwide groundstop” for all American Airlines planes and their subsidiary airlines.
+Hours after the ground stop was lifted, Tajer said the union had not heard about any “chaos out there beyond just the normal heavy travel day.”  
 
 
-The grounding occurred with millions of travelers expected to fly over the next 10 days.
+On social media, however, customers expressed frustration with delays that caused them or their family members to miss connecting flights. One person asked if American planned to hold flights for passengers to make connections, while others complained about the lack of assistance they said they received from the airline or gate agents. 
 
 
-The Transportation Security Administration expects to screen 40 million passengers over the holidays and through Jan. 2. 
+
+
+Bobby Tighe, a real estate agent from Florida, said he will miss a family Christmas Eve party in New York because his American flight was repeatedly delayed. The delays made him miss a connecting flight, leaving him the choice of going to his destination — Westchester, New York — on Christmas Day or taking another flight to Newark, New Jersey, that was scheduled to land Tuesday evening. He chose the latter. 
+
+
+“I’m just going to take an Uber or Lyft to the airport I was originally supposed to go to, pick up my rental car and kind of restart everything tomorrow,” Tighe said. He said his girlfriend was “going through the same exact situation” on her way from Dallas to New York. 
+
+
+Cirium noted that the vast majority of flights were departing within two hours of their scheduled departure time. A similar percentage — 36% — were arriving at their destinations as scheduled. 
+
+
+Dallas-Fort Worth, New York’s Kennedy Airport and Charlotte, North Carolina, saw the greatest number of delays, Cirium said.  
+
+
+Meanwhile, the flight-tracking site FlightAware reported that 4,058 flights entering or leaving the U.S., or serving domestic destinations, were delayed, with 76 flights canceled. The site showed on Tuesday afternoon that 961 American flights were delayed. 
+
+
+Amid the travel problems, significant rain and snow were expected in the Pacific Northwest at least into Christmas Day. Showers and thunderstorms were developing in the South. Freezing rain was reported in the Mid-Atlantic region near Baltimore and Washington, and snow fell in New York. 
+
+
+Because the holiday travel period lasts weeks, airports and airlines typically have smaller peak days than they do during the rush around Thanksgiving, but the grind of one hectic day followed by another takes a toll on flight crews. And any hiccups — a winter storm or a computer outage — can snowball into massive disruptions. 
+
+
+That is how Southwest Airlines stranded 2 million travelers in December 2022, and Delta Air Lines suffered a smaller but significant meltdown after a worldwide technology outage in July caused by a faulty software update. 
+
+
+Many flights during the holidays are sold out, which makes cancellations even more disruptive than during slower periods. That is especially true for smaller budget airlines that have fewer flights and fewer options for rebooking passengers. Only the largest airlines, including American, Delta and United, have “interline agreements” that let them put stranded customers on another carrier’s flights. 
+
+
+About 90% of Americans traveling far from home over the holidays will be in cars, according to AAA. 
+
+
+“Airline travel is just really high right now, but most people do drive to their destinations, and that is true for every holiday,” AAA spokesperson Aixa Diaz said. 
 
 <br> 
 
@@ -51,7 +307,7 @@ The Transportation Security Administration expects to screen 40 million passenge
 
 ---
 
-##  When News Broke In 2025, We Were There 
+##  When News Broke In 2024, We Were There 
 
 date: 2024-12-24, from: The Lever News
 
@@ -249,35 +505,29 @@ Click here for the full story in Mandarin.
 
 ---
 
-## Bill Clinton hospitalized with fever but in good spirits, spokesperson says
+## Bill Clinton out of the hospital after being treated for the flu
 
 date: 2024-12-23, from: VOA News USA
 
-WASHINGTON — Former President Bill Clinton was admitted Monday to MedStar Georgetown University Hospital in Washington after developing a fever. 
+WASHINGTON — Former President Bill Clinton was discharged from a Washington hospital Tuesday and will be home for Christmas after he was admitted the day before with a fever.
 
 
-The 78-year-old was hospitalized in the "afternoon for testing and observation," Angel Urena, Clinton's deputy chief of staff, said in a statement. 
+Clinton is being treated for the flu, Angel Urena, Clinton's deputy chief of staff, said in a statement about his release.
 
 
-"He remains in good spirits and deeply appreciates the excellent care he is receiving," Urena said. 
+“He and his family are deeply grateful for the exceptional care provided by the team at MedStar Georgetown University Hospital and are touched by the kind messages and well wishes he received,” Urena said.
 
 
-Clinton, a Democrat who served two terms as president from January 1993 until January 2001, addressed the Democratic National Convention in Chicago this summer and campaigned ahead of November's election for Vice President Kamala Harris, the Democratic presidential candidate. 
+“He sends his warmest wishes for a happy and healthy holiday season to all,” Urena said.
 
 
-In the years since Clinton left the White House, he's faced some health scares. 
+The 78-year-old Democrat was hospitalized Monday afternoon for testing and observation.
 
 
-In 2004, he underwent quadruple bypass surgery after experiencing prolonged chest pains and shortness of breath. Clinton returned to the hospital for surgery for a partially collapsed lung in 2005, and in 2010 he had a pair of stents implanted in a coronary artery. 
+Clinton served two terms as president from January 1993 until January 2001. He addressed the Democratic National Convention in Chicago last summer, and campaigned in the fall for Democratic Vice President Kamala Harris, who lost the presidential election to Republican Donald Trump in November.
 
 
-Clinton responded by embracing a largely vegan diet that saw him lose weight and report improved health. 
-
-
-In 2021, the former president was hospitalized for six days in California while being treated for an infection that was unrelated to COVID-19, when the pandemic was still near its height. 
-
-
-An aide to the former president said then that Clinton had a urological infection that had spread to his bloodstream but was on the mend and never went into septic shock, a potentially life-threatening condition. The aide said Clinton was in an intensive care section of the hospital that time but wasn't receiving ICU care. 
+Clinton recently published his newest book, Citizen, a memoir about his life after the White House and the role of philanthropy in it. 
 
 <br> 
 
