@@ -1,11 +1,151 @@
 ---
 title: pacific
-updated: 2024-12-25 07:05:22
+updated: 2024-12-26 07:05:10
 ---
 
 # pacific
 
-(date: 2024-12-25 07:05:22)
+(date: 2024-12-26 07:05:10)
+
+---
+
+## History shows big changes in ‘big government’ are hard to achieve
+
+date: 2024-12-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; When the Newt Gingrich-led Republican Revolution swept the GOP into power in the House in 1994 for the first time in 40 years and Republicans also won the Senate, the newly invigorated party set out to revolutionize Washington, shrink the bureaucracy and reduce the federal footprint.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/26/nation-world-news/history-shows-big-changes-in-big-government-are-hard-to-achieve/>
+
+---
+
+## Maui County releases Lahaina’s long-term recovery plan
+
+date: 2024-12-26, from: Hawaii Tribune Harold
+
+
+				<p>Maui County has unveiled its finalized Long-Term Recovery Plan for Lahaina, marking a significant milestone since the devastating wildfires of Aug. 8, 2023.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/26/hawaii-news/maui-county-releases-lahainas-long-term-recovery-plan/>
+
+---
+
+## Schatz: Social Security change to boost benefits for 100K in Hawaii
+
+date: 2024-12-26, from: Hawaii Tribune Harold
+
+
+				<p>Congress gave over 100,000 public-sector workers in Hawaii an early Christmas gift by repealing provisions in federal law that reduced Social Security benefits for people who also receive a pension.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/26/hawaii-news/schatz-social-security-change-to-boost-benefits-for-100k-in-hawaii/>
+
+---
+
+## Assist or resist: Local officials debate Trump’s mass deportation threat
+
+date: 2024-12-26, from: Hawaii Tribune Harold
+
+
+				<p>The San Diego region, like many communities that hug the southern border, saw a sharp drop in migrants entering the United States after the Biden administration made it harder to apply for asylum.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/26/nation-world-news/assist-or-resist-local-officials-debate-trumps-mass-deportation-threat/>
+
+---
+
+## Dozens killed after jet crashes in Kazakhstan with 67 onboard
+
+date: 2024-12-26, from: Hawaii Tribune Harold
+
+
+				<p>Dozens of people were killed but at least 29 survived the crash of a passenger plane in Kazakhstan on Wednesday, according to the country&#8217;s authorities and local media.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/26/nation-world-news/dozens-killed-after-jet-crashes-in-kazakhstan-with-67-onboard/>
+
+---
+
+## At least 56 killed in clashes over Mozambique’s disputed election ruling
+
+date: 2024-12-26, from: Hawaii Tribune Harold
+
+
+				<p>MAPUTO, Mozambique &#8212; At least 56 people have been killed in Mozambique since Monday, a nongovernmental organization said Wednesday as police officers and protesters clashed in the latest wave of unrest over a presidential election that demonstrators claim was rigged by the governing party.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/26/nation-world-news/at-least-56-killed-in-clashes-over-mozambiques-disputed-election-ruling/>
+
+---
+
+## Russia launches ‘inhuman’ Christmas Day attacks, Ukraine says
+
+date: 2024-12-26, from: Hawaii Tribune Harold
+
+
+				<p>KYIV &#8212; Russia attacked Ukraine&#8217;s energy system and some cities with cruise and ballistic missiles plus drones on Wednesday in an &#8220;inhuman&#8221; Christmas Day assault, Ukraine&#8217;s President Volodymyr Zelenskiy said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/26/nation-world-news/russia-launches-inhuman-christmas-day-attacks-ukraine-says/>
+
+---
+
+## Regrets? Biden may have a few.
+
+date: 2024-12-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden has less than a month to go until his one-term presidency ends, and he is feeling reflective.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/26/nation-world-news/regrets-biden-may-have-a-few/>
+
+---
+
+## Biden, Trump send different Christmas messages
+
+date: 2024-12-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) &#8212; The outgoing and incoming U.S. presidents had different messages for the Christmas holiday on Wednesday, with Democrat Joe Biden urging Americans to reflect and unite, while Republican Donald Trump offered a holiday greeting and then took aim at his political opponents. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/26/nation-world-news/biden-trump-send-different-christmas-messages/>
+
+---
+
+## Elon Musk is creating his own Texas Town. Hundreds already live there.
+
+date: 2024-12-26, from: Hawaii Tribune Harold
+
+
+				<p>Over the past few years, Elon Musk has expanded his footprint in Texas, moving his companies from California and building offices, warehouses and manufacturing plants across a growing number of Texas counties.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/26/nation-world-news/elon-musk-is-creating-his-own-texas-town-hundreds-already-live-there/>
 
 ---
 

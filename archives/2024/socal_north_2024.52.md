@@ -1,11 +1,241 @@
 ---
 title: socal north
-updated: 2024-12-25 07:05:21
+updated: 2024-12-26 07:05:10
 ---
 
 # socal north
 
-(date: 2024-12-25 07:05:21)
+(date: 2024-12-26 07:05:10)
+
+---
+
+## Best things to do this weekend in Los Angeles and Southern California: December 27 - 29
+
+date: 2024-12-26, updated: 2024-12-26, from: The LAist
+
+It's your last chance to see L.A. Zoo Lights. Plus, there's a post-punk dance party, The Dirty Dozen Brass Band at the Mint, a Hanukkah comedy show, and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-los-angeles-southern-california-december-27-29>
+
+---
+
+## Lucky us! Mild temperatures and sunny skies continue today
+
+date: 2024-12-26, updated: 2024-12-26, from: The LAist
+
+We're looking at slightly warmer temperatures toward the end of the week. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/lucky-us-mild-temperatures-and-sunny-skies-continue-today>
+
+---
+
+## Will Huntington Beach voters get their say on a library review board?
+
+date: 2024-12-26, updated: 2024-12-26, from: The LAist
+
+The City Council has yet to decide an election date, or whether they’ll repeal the board outright. 
+
+<br> 
+
+<https://laist.com/news/politics/huntington-beach-library-review-board-qualifies-for-ballot>
+
+---
+
+## Just putting it out there! You can recycle your Christmas tree starting today
+
+date: 2024-12-26, updated: 2024-12-26, from: The LAist
+
+Ready to part with your tree? You can do put it on the curb for recycling in most cities and unicorporated communities in L.A. County now. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/just-putting-it-out-there-you-can-recycle-your-christmas-tree-starting-today>
+
+---
+
+## Chatsworth Family Demands Justice After Attack on 13 Year Old
+
+date: 2024-12-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12232024_Hate-Crime_SN_08.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12232024_Hate-Crime_SN_08.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12232024_Hate-Crime_SN_08.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12232024_Hate-Crime_SN_08.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12232024_Hate-Crime_SN_08.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12232024_Hate-Crime_SN_08.jpeg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12232024_Hate-Crime_SN_08.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12232024_Hate-Crime_SN_08.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12232024_Hate-Crime_SN_08.jpeg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12232024_Hate-Crime_SN_08.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12232024_Hate-Crime_SN_08.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/12232024_Hate-Crime_SN_08.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Parents, students and civil rights activists gathered on Monday, Dec. 23, in front of the Los Angeles Police Department (LAPD) Devonshire Department in Northridge to demand justice in what they [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/25/chatsworth-family-demands-justice-after-attack-on-13-year-old/">Chatsworth Family Demands Justice After Attack on 13 Year Old </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/25/chatsworth-family-demands-justice-after-attack-on-13-year-old/>
+
+---
+
+## Wellness Tips to Help Overcome Depression During the Holidays
+
+date: 2024-12-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>The Victory Wellness Center, a program at the San Fernando Valley Community Mental Health Center that offers support to clients in their process towards healing, change and transformation, assembled these [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/25/wellness-tips-to-help-overcome-depression-during-the-holidays-2/">Wellness Tips to Help Overcome Depression During the Holidays</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/25/wellness-tips-to-help-overcome-depression-during-the-holidays-2/>
+
+---
+
+## An Interreligious Memorial for the Homeless Held During the Longest Night
+
+date: 2024-12-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1007" height="579" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Screenshot-2024-12-23-at-12.37.46-PM.png?fit=1007%2C579&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Screenshot-2024-12-23-at-12.37.46-PM.png?w=1007&amp;ssl=1 1007w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Screenshot-2024-12-23-at-12.37.46-PM.png?resize=300%2C172&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Screenshot-2024-12-23-at-12.37.46-PM.png?resize=768%2C442&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Screenshot-2024-12-23-at-12.37.46-PM.png?resize=400%2C230&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Screenshot-2024-12-23-at-12.37.46-PM.png?resize=706%2C406&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Screenshot-2024-12-23-at-12.37.46-PM.png?fit=1007%2C579&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>At Los Angeles’ downtown Cathedral of the Angels, an interreligious memorial was held Saturday, Dec. 21, for the homeless who have lost their lives. “On the first day of winter [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/25/an-interreligious-memorial-for-the-homeless-held-during-the-longest-night/">An Interreligious Memorial for the Homeless Held During the Longest Night</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/25/an-interreligious-memorial-for-the-homeless-held-during-the-longest-night/>
+
+---
+
+## Arts for LA Seeks Participants for Training Programs
+
+date: 2024-12-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/ACTIVATE-Recruitment-2024-Graphic-1-LI-FB-T-1024x1024-1.jpg?fit=1024%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/ACTIVATE-Recruitment-2024-Graphic-1-LI-FB-T-1024x1024-1.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/ACTIVATE-Recruitment-2024-Graphic-1-LI-FB-T-1024x1024-1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/ACTIVATE-Recruitment-2024-Graphic-1-LI-FB-T-1024x1024-1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/ACTIVATE-Recruitment-2024-Graphic-1-LI-FB-T-1024x1024-1.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/ACTIVATE-Recruitment-2024-Graphic-1-LI-FB-T-1024x1024-1.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/ACTIVATE-Recruitment-2024-Graphic-1-LI-FB-T-1024x1024-1.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/ACTIVATE-Recruitment-2024-Graphic-1-LI-FB-T-1024x1024-1.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/ACTIVATE-Recruitment-2024-Graphic-1-LI-FB-T-1024x1024-1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/ACTIVATE-Recruitment-2024-Graphic-1-LI-FB-T-1024x1024-1.jpg?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/ACTIVATE-Recruitment-2024-Graphic-1-LI-FB-T-1024x1024-1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/ACTIVATE-Recruitment-2024-Graphic-1-LI-FB-T-1024x1024-1.jpg?fit=1024%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; Arts for LA is seeking applicants for two of its training initiatives intended to foster the growth of future leaders advocating for arts programs in Los [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/25/arts-for-la-seeks-participants-for-training-programs/">Arts for LA Seeks Participants for Training Programs</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/25/arts-for-la-seeks-participants-for-training-programs/>
+
+---
+
+## Organizations Helping with Relief Efforts and Advocacy for Palestine
+
+date: 2024-12-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Anera works on the ground with partners in Palestine (West Bank and Gaza), Lebanon and Jordan to mobilize resources for immediate emergency relief and for sustainable, long-term health, education and [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/25/organizations-helping-with-relief-efforts-and-advocacy-for-palestine/">Organizations Helping with Relief Efforts and Advocacy for Palestine</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/25/organizations-helping-with-relief-efforts-and-advocacy-for-palestine/>
+
+---
+
+## Los Padres que han Perdido a Sus Hijos a Manos de un Conductor Ebrio Repiten la Advertencia
+
+date: 2024-12-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Victims-Colin-and-Gail-with-kids_elsol.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Victims-Colin-and-Gail-with-kids_elsol.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Victims-Colin-and-Gail-with-kids_elsol.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Victims-Colin-and-Gail-with-kids_elsol.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Victims-Colin-and-Gail-with-kids_elsol.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Victims-Colin-and-Gail-with-kids_elsol.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Victims-Colin-and-Gail-with-kids_elsol.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Victims-Colin-and-Gail-with-kids_elsol.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Victims-Colin-and-Gail-with-kids_elsol.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Victims-Colin-and-Gail-with-kids_elsol.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Victims-Colin-and-Gail-with-kids_elsol.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Victims-Colin-and-Gail-with-kids_elsol.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Mientras amigos y familiares esperan con ansias la celebración de la víspera de Año Nuevo, Colin Campbell y Gail Lerner de Silver Lake se preocupan de que la gente pueda [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/25/los-padres-que-han-perdido-a-sus-hijos-a-manos-de-un-conductor-ebrio-repiten-la-advertencia/">Los Padres que han Perdido a Sus Hijos a Manos de un Conductor Ebrio Repiten la Advertencia</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/25/los-padres-que-han-perdido-a-sus-hijos-a-manos-de-un-conductor-ebrio-repiten-la-advertencia/>
+
+---
+
+## ¿Qué Futuro les Espera a los Inmigrantes Indocumentados y con Estatus de Protección?
+
+date: 2024-12-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="684" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_06-scaled.jpeg?fit=1024%2C684&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_06-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_06-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_06-scaled.jpeg?resize=1024%2C684&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_06-scaled.jpeg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_06-scaled.jpeg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_06-scaled.jpeg?resize=2048%2C1367&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_06-scaled.jpeg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_06-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_06-scaled.jpeg?resize=1568%2C1047&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_06-scaled.jpeg?resize=2000%2C1335&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_06-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_06-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_06-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Chirla_IntlMigrantsDay_06-scaled.jpeg?fit=1024%2C684&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Con el presidente electo Donald Trump a pocas semanas de asumir el cargo, los grupos laborales y de derechos de los inmigrantes temen lo que está por venir para los [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/25/que-futuro-les-espera-a-los-inmigrantes-indocumentados-y-con-estatus-de-proteccion/">¿Qué Futuro les Espera a los Inmigrantes Indocumentados y con Estatus de Protección?</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/25/que-futuro-les-espera-a-los-inmigrantes-indocumentados-y-con-estatus-de-proteccion/>
+
+---
+
+## Horóscopo
+
+date: 2024-12-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Anhelas la honestidad porque despierta algo verdadero en ti. La crudeza de la historia de otro, con defectos [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/25/horoscopo-195/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/25/horoscopo-195/>
+
+---
+
+## Winter Solstice Sunrise Ceremony
+
+date: 2024-12-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="656" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/470882861_1013726007464637_8090787491652792124_n-e1735151816675.jpg?fit=1024%2C656&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/470882861_1013726007464637_8090787491652792124_n-e1735151816675.jpg?w=1092&amp;ssl=1 1092w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/470882861_1013726007464637_8090787491652792124_n-e1735151816675.jpg?resize=300%2C192&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/470882861_1013726007464637_8090787491652792124_n-e1735151816675.jpg?resize=1024%2C656&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/470882861_1013726007464637_8090787491652792124_n-e1735151816675.jpg?resize=768%2C492&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/470882861_1013726007464637_8090787491652792124_n-e1735151816675.jpg?resize=400%2C256&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/470882861_1013726007464637_8090787491652792124_n-e1735151816675.jpg?resize=706%2C453&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/470882861_1013726007464637_8090787491652792124_n-e1735151816675.jpg?fit=1024%2C656&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Last Wednesday, Dec. 18, the Los Angeles Department of Water and Power (LADWP) co-hosted its annual Winter Solstice Sunrise Ceremony with the Fernandeño Tataviam Band of Mission Indians (FTBMI) at [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/25/winter-solstice-sunrise-ceremony/">Winter Solstice Sunrise Ceremony</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/25/winter-solstice-sunrise-ceremony/>
+
+---
+
+## EVENTOS Locales – Semana de 26 de diciembre, 2024
+
+date: 2024-12-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Sábado, Diciembre 28 Comparte un Libro con los Perros de Terapia BARK Chatsworth Library 21052 Devonshire St. Chatsworth 11:30 a.m. – 1 p.m. Únase a nosotros el cuarto sábado del [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/25/eventos-locales-semana-de-26-de-diciembre-2024/">EVENTOS Locales &#8211; Semana de 26 de diciembre, 2024 </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/25/eventos-locales-semana-de-26-de-diciembre-2024/>
+
+---
+
+## How to protect yourself from AI scams this holiday season
+
+date: 2024-12-25, updated: 2024-12-25, from: The LAist
+
+Generative AI is making it easier for fraudsters to dupe people, now more than ever. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/protect-yourself-ai-scams>
+
+---
+
+## 'Close Your Eyes' is the best film of 2024 — but these 10 others are also contenders
+
+date: 2024-12-25, updated: 2024-12-25, from: The LAist
+
+Fresh Air's film critic takes stock of the past 12 months' worth of movies, pairing 10 of his favorites, and picking one that stands alone. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/close-your-eyes-is-the-best-film-of-2024-but-these-10-others-are-also-contenders>
+
+---
+
+## Mariah Carey and K-pop group Stray Kids rule this week's charts
+
+date: 2024-12-25, updated: 2024-12-25, from: The LAist
+
+Holiday music rules the pop charts once again this week, as Mariah Carey's "All I Want for Christmas Is You" scores its 17th nonconsecutive week at No. 1 — the third longest run of all time. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/mariah-carey-and-k-pop-group-stray-kids-rule-this-weeks-charts>
 
 ---
 

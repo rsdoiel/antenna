@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2024-12-25 07:05:24
+updated: 2024-12-26 07:05:13
 ---
 
 # retro computing
 
-(date: 2024-12-25 07:05:24)
+(date: 2024-12-26 07:05:13)
+
+---
+
+## RISC OS 'Advent' Calendar 2024 - Gerph
+
+date: 2024-12-26, from: Icon Bar, RISC OS News
+
+Many thanks to Gerph for sending this item as well (and a nice reveal). It's not too late to send us yours.... 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2148.html>
+
+---
+
+## Merry Christmas 2024
+
+date: 2024-12-26, from: Computer ads from the Past
+
+and a Happy New Year 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/merry-christmas-2024>
+
+---
+
+## b.log 2024/12/25 - Merry Christmas, Freezer, Wages, Right-wing madness, Dora Advent Calendar, The Parcel scam, The maths of raycasting - part two.
+
+date: 2024-12-25, from: Richard Murray's blog
+
+Merry Christmas, Freezer, Wages, Right-wing madness, Dora Advent Calendar, The Parcel scam, The maths of raycasting - part two. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241225>
 
 ---
 
@@ -13,7 +49,7 @@ updated: 2024-12-25 07:05:24
 
 date: 2024-12-25, from: Old Ventage Computing Research
 
-A merry Christmas and happy holidays from the Southern Hemisphere, where it's my year to be with my wife's family in regional New South Wales, Australia. A friend of the family had an "old Commodore" in their house and asked if I wanted it. Stupid question, yeah?
+A merry Christmas and happy holidays from the Southern Hemisphere, where it's my year to be with my wife's family in regional New South Wales, Australia. One of my wife's relatives had an "old Commodore" in their house and asked if I wanted it. Stupid question, yeah?
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJw0-a-6bst0Q1XIvMrHkqikL0o71t-TXBcVAOaTOlX7p06dRZ-_LghmZLiIRV9GNZoUDJvCUnzKGqesb6YWPrwB3DenWWyN09_4yELOnTtNbLs6YnoK273ztOiMrZab__f9jxtvvRrFSbME7fb6NpbLaoLZlc0LMA-fdChbue2hsXvqGUbcwAjuCFoTw/s4080/PXL_20241224_055658598.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJw0-a-6bst0Q1XIvMrHkqikL0o71t-TXBcVAOaTOlX7p06dRZ-_LghmZLiIRV9GNZoUDJvCUnzKGqesb6YWPrwB3DenWWyN09_4yELOnTtNbLs6YnoK273ztOiMrZab__f9jxtvvRrFSbME7fb6NpbLaoLZlc0LMA-fdChbue2hsXvqGUbcwAjuCFoTw/s320/PXL_20241224_055658598.jpg"/></a></div>
 
@@ -66,7 +102,7 @@ Several of these boxed items, however, show Australia-specific labels and packag
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVlYgsmM6v8V9yyDY7cBZB0wK6L-Xqa_3hwLyPw-obX1BGfjZ3gIBis9hKS1RlFmMy7UU2LRXVrEEqzq5GZyghUut50rKB8IkOKR38loVpa8wTc0ltp-gW_e-ho5Ef4BhpNI4nicA8_FGpuQV6nc-yXM5bHGV6uREVy_MfILolPwxpUDiDUF4bWDMAz_w/s4080/PXL_20241224_073009779.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVlYgsmM6v8V9yyDY7cBZB0wK6L-Xqa_3hwLyPw-obX1BGfjZ3gIBis9hKS1RlFmMy7UU2LRXVrEEqzq5GZyghUut50rKB8IkOKR38loVpa8wTc0ltp-gW_e-ho5Ef4BhpNI4nicA8_FGpuQV6nc-yXM5bHGV6uREVy_MfILolPwxpUDiDUF4bWDMAz_w/s320/PXL_20241224_073009779.jpg"/></a></div>
 
-Also in the documentation was a small Commodore product circular and a software-of-the-month membership card, which I've covered over the address on since the prior owner is still living there. On the back we see advertisemenets for the MPS-1250 printer, sold for AUD$525, or in 2024 Australian dollars about A$1400 (roughly US$875 at today's spot rate); the 1802 monitor, a rebadge of the cursed and poor quality CM-141 which we had the displeasure to have owned until it crapped out, offered at A$499 [A$1325, US$825]; and the deluxe 1084 monitor suitable for the Amiga, 64, 128 and CGA PCs at A$699 [A$1850, US$1150]. Notice the 1802 and MPS-1250 are exactly the peripherals we have here!
+Also in the documentation was a small Commodore product circular and a software-of-the-month membership card, which I've covered over the address on since the prior owner is still living there. On the back we see advertisements for the MPS-1250 printer, sold for AUD$525, or in 2024 Australian dollars about A$1400 (roughly US$875 at today's spot rate); the 1802 monitor, a rebadge of the cursed and poor quality CM-141 which we had the displeasure to have owned until it crapped out, offered at A$499 [A$1325, US$825]; and the deluxe 1084 monitor suitable for the Amiga, 64, 128 and CGA PCs at A$699 [A$1850, US$1150]. Notice the 1802 and MPS-1250 are exactly the peripherals we have here!
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-5eaEi4_4X-C6IM3tF121gHKCAi_m6wl4MJUA72T7upaFP6FXDfmMdFsvIUJozNObhizTPupZ9utelvfwU30dO2xxKcvGzpvECAarrn6zG66qE1n7OxhpgJEEISO_w8lj60PVYXsCB_ddDVbQIVD4cvFu1cFIvz1KSsVcQeWLEy6uVoAttHQg-bDEwlY/s4080/PXL_20241224_073057581.LONG_EXPOSURE-01.COVER~2.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="4080" data-original-width="3072" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-5eaEi4_4X-C6IM3tF121gHKCAi_m6wl4MJUA72T7upaFP6FXDfmMdFsvIUJozNObhizTPupZ9utelvfwU30dO2xxKcvGzpvECAarrn6zG66qE1n7OxhpgJEEISO_w8lj60PVYXsCB_ddDVbQIVD4cvFu1cFIvz1KSsVcQeWLEy6uVoAttHQg-bDEwlY/s320/PXL_20241224_073057581.LONG_EXPOSURE-01.COVER~2.jpg"/></a></div>
 

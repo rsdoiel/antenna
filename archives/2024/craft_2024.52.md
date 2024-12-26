@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-12-25 07:05:25
+updated: 2024-12-26 07:05:13
 ---
 
 # craft
 
-(date: 2024-12-25 07:05:25)
+(date: 2024-12-26 07:05:13)
+
+---
+
+## ‘Cut & Dried’ Third Printing
+
+date: 2024-12-26, from: Lost Arg Press blog
+
+Late this year, we sold out of “Cut &#38; Dried”. Author Richard Jones had some changes he wanted to make in the third edition. This week, we sent the book, with these changes, to press. Some of the changes were small corrections, such as moving an illustration up a bit to better match the text... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/26/cut-dried-third-printing/>
 
 ---
 

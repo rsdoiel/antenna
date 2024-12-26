@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2024-12-25 07:05:23
+updated: 2024-12-26 07:05:12
 ---
 
 # games
 
-(date: 2024-12-25 07:05:23)
+(date: 2024-12-26 07:05:12)
+
+---
+
+## Premium live-service games are failing. Why is Diablo 4 a success?
+
+date: 2024-12-26, updated: 2024-12-23, from: Polygon Website
+
+Live-service gaming is in a difficult, transitional moment. Even as the sector consumes more and more millions of player hours, successful new launches are few and far between, and the frequency of shutdowns has increased. Franchises like Destiny and Overwatch have pivoted to free-to-play models in an attempt to keep their player numbers buoyant, and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/diablo/501334/diablo-4-premium-live-service-success>
+
+---
+
+## This YouTube scientist makes knives out of random stuff and it’s mesmerizing
+
+date: 2024-12-26, updated: 2024-12-22, from: Polygon Website
+
+Do you know how knives are made? Do you know how knives are made of milk? Unless you’ve seen this video — or any others on YouTube channel kiwami japan — you don’t. The channel is dedicated to the art of knifemaking, but most of the videos are detailed step-by-steps of the creator’s successful attempts [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/yuletide-youtube/486629/youtube-knifemaking-channel-kiwam-japan>
+
+---
+
+## All the Squid Game season 3 news we’ve heard so far
+
+date: 2024-12-26, updated: 2024-12-23, from: Polygon Website
+
+[Ed. note: This post contains spoilers for the end of Squid Game season 2.] Squid Game season 2 has come to an end with a bit of a bang and a whimper. Gi-hun (Lee Jung-jae) has effectively lost his attempt at gaining control of the game, and the aggressive cut on the ending leaves a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/501009/squid-game-season-3-release-date-cast-news>
+
+---
+
+## Giratina counters, weakness, and best moveset in Pokémon Go
+
+date: 2024-12-26, updated: 2024-12-26, from: Polygon Website
+
+Giratina is a hot target in Pokémon Go raids, and whether you’re fighting its Origin Forme or Altered Forme, you’ll want the same counters. When the creepy Pokémon is in its Origin Forme (the one that looks like a snake), it’s one of the strongest ghost-type attackers in the game. On the other hand, Altered [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/22574454/giratina-raid-best-moveset-weakness-origin-altered-counters-raid-shiny-forms>
+
+---
+
+## Mega Abomasnow counters, weakness, and best moveset in Pokémon Go
+
+date: 2024-12-26, updated: 2024-12-20, from: Polygon Website
+
+Mega Abomasnow is one of several Mega Pokémon that you can battle in Pokémon Go by participating in Mega Raids. These are among the most difficult raids in the game, so you’ll need to come prepared with a good team of counters that can target its weaknesses. The majority of Mega Pokémon have now debuted [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/500400/mega-abomasnow-counters-weakness-best-moveset>
+
+---
+
+## Pitch Perfect 237 takes a hilarious Kubrick-level microscope to the a cappella franchise
+
+date: 2024-12-25, updated: 2024-12-20, from: Polygon Website
+
+Room 237 is a documentary that plumbs the depths of The Shining, using various people’s voice-overs to guide the viewer through interpretations of Stanley Kubrick’s seminal 1980 horror film. I have no real thoughts on it; I love The Shining, but have avoided Room 237 mostly by nature of having heard about so much of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/yuletide-youtube/495068/pitch-perfect-237-best-youtube-video-imo-kubrick>
 
 ---
 

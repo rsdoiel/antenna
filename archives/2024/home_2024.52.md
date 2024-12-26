@@ -1,11 +1,51 @@
 ---
 title: home
-updated: 2024-12-25 07:05:24
+updated: 2024-12-26 07:05:12
 ---
 
 # home
 
-(date: 2024-12-25 07:05:24)
+(date: 2024-12-26 07:05:12)
+
+---
+
+## A Used Dryer Sheet Can Make Cleaning Your Toilet So Much Easier
+
+date: 2024-12-26, from: Family Handyman Blog
+
+<p>A simple dryer sheet is going to totally revolutionize the way you clean your toilets. Here's how to dust your toilet with a dryer sheet.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/clean-toilet-with-dryer-sheet/">A Used Dryer Sheet Can Make Cleaning Your Toilet So Much Easier</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/clean-toilet-with-dryer-sheet/>
+
+---
+
+## 23 of the Best Arrowhead (Syngonium) Varieties
+
+date: 2024-12-25, from: The Gardener's Path
+
+<p>Arrowhead plants (Syngonium podophyllum) are available in a huge range of colors, patterns, and sizes. There are cultivars with bronze, pink, cream, green, and yellow leaves. The foliage can be mottled, marbled, or splashed with color to dramatic effect. Learn about 23 striking Syngonium plants in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/best-arrowhead-varieties/">23 of the Best Arrowhead (Syngonium) Varieties</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/best-arrowhead-varieties/>
+
+---
+
+## These Are Dwell’s Most Popular Homes of 2024
+
+date: 2024-12-25, from: Dwell
+
+If there was something readers loved most this year, it was really great renovations—and one remarkable tiny cabin. 
+
+<br> 
+
+<https://www.dwell.com/article/these-are-dwells-most-popular-homes-of-2024-c9a7fab3>
 
 ---
 

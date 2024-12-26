@@ -1,11 +1,37 @@
 ---
 title: writing
-updated: 2024-12-25 07:05:23
+updated: 2024-12-26 07:05:11
 ---
 
 # writing
 
-(date: 2024-12-25 07:05:23)
+(date: 2024-12-26 07:05:11)
+
+---
+
+## New & Notable
+
+date: 2024-12-25, from: Locus Magazine
+
+<p>&#160;</p>
+<p>Aliette de Bodard,<strong> In the Shadow of the Ship </strong>(Subterranean 9/24) This far-future SF mystery novella is the latest installment in the author’s popular and ambitious Xuya universe. Khuyĕn, now a magistrate, returns to the sentient ship Nightjar and the family she hasn’t seen since fleeing as a teen to attend her grandmother’s funeral&#8230; but a disappearance forces her to face the past. “A sharp-edged and glittering science-fictional gem.”  <a href="https://locusmag.com/2024/12/new-notable-5/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/new-notable-5/>
+
+---
+
+## The Bog Wife by Kay Chronister: Review by Ian Mond
+
+date: 2024-12-25, from: Locus Magazine
+
+<p><strong>The Bog Wife</strong>, Kay Chronister (Counterpoint 978-1-64009-662-2, $28.00, 336pp, hc) October 2024. Cover by Nicole Caputo.</p>
+<p>Like all conscientious and well-meaning read­ers, I strive to bring an open mind unsullied by prejudice and bias to any fiction work. However, based solely on the title and cover of Kay Chro­nister’s new novel, <strong>The Bog Wife</strong>, I assumed it was a revisionist fairytale based on Celtic mythology that takes place  <a href="https://locusmag.com/2024/12/the-bog-wife-by-kay-chronister-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/the-bog-wife-by-kay-chronister-review-by-ian-mond/>
 
 ---
 

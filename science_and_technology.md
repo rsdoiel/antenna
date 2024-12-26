@@ -1,11 +1,71 @@
 ---
 title: science and technology
-updated: 2024-12-25 07:05:22
+updated: 2024-12-26 07:05:10
 ---
 
 # science and technology
 
-(date: 2024-12-25 07:05:22)
+(date: 2024-12-26 07:05:10)
+
+---
+
+## NESC Assists in Heatshield Investigation
+
+date: 2024-12-26, from: NASA breaking news
+
+NASA’s uncrewed Artemis I mission launched from KSC on November 16, 2022. After a successful mission that included orbiting the Moon, the Orion spacecraft returned to Earth splashing down in the Pacific Ocean on December 11, 2022. While the spacecraft made a safe return to Earth, postflight inspection of Orion’s thermal protection indicated that the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/nesc/nesc-assists-in-heatshield-investigation/>
+
+---
+
+## Laboratory Director Tawnya Plummer Laughinghouse
+
+date: 2024-12-26, from: NASA breaking news
+
+“When I transitioned from Spelman to Georgia Tech, it was probably the first time in my life that I had a professor that made me question if I belonged or had what it takes. Previously, I was always used as an example of how students should study, and now, in my first chemical engineering class, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/laboratory-director-tawnya-plummer-laughinghouse/>
+
+---
+
+## Naïve <em>Reg</em> hack thinks he can beat Christmas food comas once and for all
+
+date: 2024-12-26, updated: 2024-12-26, from: The Register (UK I.T. News)
+
+<h4>One man&#39;s plan to ruin his holiday for the better</h4> <p><strong>Comment</strong>  It was only recently I started reveling in the Black Friday feeling. My first foray into the e-commerce extravaganza came last year when I bought a PS5 and in the same spirit, I finally pulled the trigger on an Apple Watch Ultra 2 the other week after pining for one since launch. Not because I needed the impetus to get off my butt and start working out, the reason behind so many purchases, as I understand it. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/26/christmas_walking/>
+
+---
+
+## Get a Colorful Sneak Peek of Notre-Dame's New Stained Glass Designs
+
+date: 2024-12-26, from: Smithsonian Magazine
+
+Nearly a year after the controversial plans to replace six original windows were first announced, the French government unveils the winning plans by artist Claire Tabouret 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/notre-dame-to-get-a-colorful-update-with-new-stained-glass-by-claire-tabouret-180985731/>
+
+---
+
+## Beatlemania Took the United States by Storm on This Day in 1963, Launching the British Invasion
+
+date: 2024-12-26, from: Smithsonian Magazine
+
+With their arrival in America, the Beatles ushered in a new era of hyper-popular rock ’n’ roll music 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/beatlemania-took-the-united-states-by-storm-on-this-day-in-1963-launching-the-british-invasion-180985657/>
 
 ---
 

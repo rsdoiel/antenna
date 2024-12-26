@@ -1,11 +1,253 @@
 ---
 title: north america
-updated: 2024-12-25 07:05:21
+updated: 2024-12-26 07:05:09
 ---
 
 # north america
 
-(date: 2024-12-25 07:05:21)
+(date: 2024-12-26 07:05:09)
+
+---
+
+## Trump loyalist, ‘deep state’ critic Kash Patel looks to lead FBI
+
+date: 2024-12-26, from: VOA News USA
+
+The promised effort by President-elect Donald Trump to remake the U.S. government is set to encompass one of the country’s premier law enforcement and intelligence agencies. VOA national security correspondent Jeff Seldin reports on Trump’s choice to lead and reform the FBI. Kim Lewis contributed. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-loyalist-deep-state-critic-kash-patel-looks-to-lead-fbi/7914616.html>
+
+---
+
+##  The Human Face Of The Corporate Takeover 
+
+date: 2024-12-26, from: The Lever News
+
+ While The Lever team is on holiday break, here’s a selection of our best reporting this year.  
+
+<br> 
+
+<https://www.levernews.com/the-human-face-of-the-corporate-takeover/>
+
+---
+
+## 5 Climate Technologies You’ll Hear About in 2025
+
+date: 2024-12-26, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTM4Mjc2MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0Nzk0OTEzMn0.o_sADFz5qsxTi3JRg4JnFUQEwXZGi4ulQHiPlbBJ-P0/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">My inbox and calendar have been filled all year with press releases and requests to chat about <a href="https://heatmap.news/technology/charm-forest-service-carbon-removal" target="_self"><u>new carbon removal technologies</u></a>, <a href="https://heatmap.news/technology/vc-ai-climate-change" target="_self"><u>artificial intelligence</u></a> and its <a href="https://heatmap.news/sparks/last-energy-series-b" target="_self"><u>attendant energy demand</u></a>, <a href="https://heatmap.news/technology/sodium-batteries-china" target="_self"><u>novel battery designs</u></a>, advances in <a href="https://heatmap.news/sparks/last-energy-series-b" target="_self"><u>fission</u></a> and <a href="https://heatmap.news/technology/fusion" target="_self"><u>fusion</u></a>, and investors’ <a href="https://heatmap.news/technology/trump-climate-tech" target="_self"><u>ever-present concerns</u></a> about how to get all of this to market in time to make a real dent in the climate crisis (and also, you know, a profit). </p><p>I wrote about a lot of it — but not all of it, and much of the stuff that got left out is no less worthy of your attention than the stuff that <a href="https://heatmap.news/u/katiebrigham" target="_self"><u>made it</u></a>. So here I present a roundup of the climate technologies that you might not have read about in Heatmap this year, but that have investors, academics, and the climate world at large buzzing as we look toward 2025. </p><h3>1. Green methanol for sustainable shipping fuels</h3><p>This fall when I spoke with Amy Duffuor, a co-founder and partner at the venture capital firm Azolla Ventures, she told me that her firm, which is focused on “overlooked and neglected” climate solutions, has been fascinated by the shipping industry. Because while aviation and shipping each account for about 3% of global emissions, decarbonizing flight seems to get the bulk of the attention. “Sometimes it’s hard for people to imagine what they don’t see or what they’re not interacting with on a day to day basis,” Duffuor told me. </p><p>This fall, the firm co-led a <a href="https://www.prnewswire.com/news-releases/oxylus-energy-raises-4-5-million-seed-round-for-clean-fuel-technology-302237086.html" rel="noopener noreferrer" target="_blank"><u>$4.5 million seed round</u></a> of investment in clean fuels producer Oxylus Energy, which converts carbon dioxide into green methanol for use in shipping and other transportation fuels. The tech relies on renewable-powered electrolyzers similar to those used to make green hydrogen, but the company’s secret sauce is a special catalyst that can convert carbon dioxide into methanol at low temperature and pressure, making<em> </em>the whole process more efficient and more economical than ever before. </p><p>Duffuor told me that green methanol has a leg up on other clean fuels such as green hydrogen, which has a low energy density, or green ammonia, which is highly toxic and corrosive. While supply of all of these is still limited and costly, Duffuor said that retrofitting an engine to run on green methanol is much simpler than adapting to other alternative fuels, which is why it’s already being done on a small scale today. Indeed, <a href="https://www.maersk.com/news/articles/2022/10/05/maersk-continues-green-transformation" rel="noopener noreferrer" target="_blank"><u>shipping giant Maersk</u></a> has a number of green methanol boats in its fleet, one of which completed the <a href="https://stateofgreen.com/en/news/the-worlds-first-green-methanol-container-vessel-has-reached-copenhagen/#:~:text=Transport-,The%20world's%20first%20green%20methanol%20container%20vessel%20has%20reached%20Copenhagen,the%20Baltic%20Sea%20in%20October.&text=At%20a%20ceremony%20at%20Copenhagen's,compared%20to%20a%202020%20baseline." rel="noopener noreferrer" target="_blank"><u>world’s first green methanol-powered voyage</u></a> last fall. </p><h3>2. Solar geoengineering</h3><p>Long considered “<a href="https://heatmap.news/technology/climate-tech-geoengineering-carbon-removal?utm_campaign=heatmap_am&utm_medium=email&_hsenc=p2ANqtz-_w0jlvz4_eHo2RJavH6QpECnpgGTP6OhTPFj8eDHEWrwJ0KDvXWlNCdIy0jHV7ZnDZg8NrrMrgvWZ3YHvEEOp3k6kN-Q&_hsmi=311057301&utm_content=311057301&utm_source=hs_email" target="_self"><u>one of climate science’s biggest taboos</u></a>,” according to Heatmap’s own Robinson Meyer, geoengineering had a big 2024, and it looks poised to be taken increasingly seriously. In fact, one investor I spoke with this month, Lee Larson of Piva Capital, which focuses on decarbonizing heavy industry, told me he foresees a splashy but undeniably controversial funding announcement coming in the near future. “I don’t think it’s going to be Piva, but someone is going to take a bet on this, and there’s going to be a big funding round for a startup in this space,” he predicted. “Because there’s enough interested people with deep pockets that have been thinking about this space for someone to raise money off of it.”</p><p>But if nothing else, this year proved that the backlash would be swift. In June, the city council in the small town of Alameda, California, <a href="https://www.nytimes.com/2024/06/05/climate/alameda-cloud-brightening-geoengineering.html" rel="noopener noreferrer" target="_blank"><u>shut down testing</u></a> of a solar geoengineering device that could one day be used for “marine cloud brightening” — that is, spraying aerosols into the sky to enable clouds to reflect more sunlight away from Earth — and Harvard University <a href="https://www.thecrimson.com/article/2024/3/20/harvard-geoengineering-project-abandoned/" rel="noopener noreferrer" target="_blank"><u>abandoned another solar geoengineering project</u></a>, which aimed to study how aerosol plumes behave in the stratosphere. At the same time, though, the nonprofit Environmental Defense Fund <a href="https://www.nytimes.com/2024/06/10/climate/edf-solar-geoengineering-research.html" rel="noopener noreferrer" target="_blank"><u>announced</u></a> that it would fund research into solar geoengineering to help inform policymakers should it one day become regulated, and <a href="https://www.nytimes.com/2024/09/13/climate/united-kingdom-geoengineering-research.html" rel="noopener noreferrer" target="_blank"><u>the UK also committed</u></a> to supporting research into various solar geoengineering pathways, including conducting outdoor experiments. </p><p>“There’s a growing understanding that, on a per unit of warming avoidance basis, this is just way cheaper than carbon dioxide removal solutions,” Larson told me. From his perspective, the world needs to support this type of research lest a layperson, a billionaire, or a small nation choose to go rogue. “Just given how cheap it is, given how little we know about it, that’s a poor combination — because the chance of someone doing something with a lot of unintended consequences goes up and up.”</p><h3>3. Floating solar</h3><p>The idea is pretty straightforward — install solar panels that can float on the surface of reservoirs, canals, lakes, and the like — but this year it really began to pick up steam. There are myriad benefits to this solution: eliminating land use controversies, built-in temperature regulation (water keeps the panels cool, thus increasing their efficiency), and reducing evaporation from the water bodies. <a href="https://www.nature.com/articles/s44221-024-00251-4" rel="noopener noreferrer" target="_blank"><u>A paper</u></a> published in <em><em>Nature</em></em> this June found that floating solar could meet, on average, 16% of countries’ total energy needs.</p><p>And countries big and small are taking note. While there aren’t a lot of specialized floating solar startups seeking VC funding<em><em>, </em></em>governments as well as traditional solar manufacturers and project developers are stepping up. The <a href="https://www.doi.gov/pressreleases/biden-harris-administration-announces-19-million-investing-america-agenda-innovative" rel="noopener noreferrer" target="_blank"><u>U.S. Department of the Interior announced</u></a> in April that it’s investing $19 million to install panels over irrigation canals in California, Oregon, and Utah. <a href="https://www.bloomberg.com/news/articles/2024-12-09/zimbabwe-power-users-raise-250-million-for-floating-solar-plant" rel="noopener noreferrer" target="_blank"><u>Zimbabwe recently secured</u></a> $250 million from the African Export-Import Bank to install floating solar on the world’s largest man-made lake, while China turned on the <a href="https://www.semafor.com/article/11/14/2024/largest-offshore-solar-farm-goes-online" rel="noopener noreferrer" target="_blank"><u>largest offshore solar farm</u></a> in the world in November. <a href="https://www.msn.com/en-us/money/companies/taiwan-debuts-world-s-largest-offshore-solar-plant-to-power-74000-homes-yearly/ar-AA1tFZSQ" rel="noopener noreferrer" target="_blank"><u>Taiwan</u></a> and <a href="https://www.saurenergy.com/solar-energy-news/ntpc-ramagundam-is-indias-largest-floating-solar-plant-at-100-mw" rel="noopener noreferrer" target="_blank"><u>India</u></a> have also already deployed large installations, and have <a href="https://www.sunstar.com.ph/pampanga/floating-solar-farms-part-2#:~:text=A%20big%20project%20is%20ongoing%20in%20India%2C%20the%20Omkareshwar%20Floating%20Solar%20Power%20Park%20Omkareshwar%20Dam%20in%20Khandwa.%20It%20is%20a%20600MW%20floating%20solar%20power%20plant%20that%20is%20being%20built%20in%20two%20phases.%20The%20first%20phase%20involves%20installation%20of%20278%20MW%2C%20which%20has%20now%20been%20activated." rel="noopener noreferrer" target="_blank"><u>plans</u></a> for <a href="https://www.theasset.com/article/51172/mufg-aster-sign-us2587-million-solar-deal" rel="noopener noreferrer" target="_blank"><u>more</u></a>. </p><p>I spoke with the lead author of the <em><em>Nature</em></em> paper, Dr. Iestyn Woolway of the UK-based Bangor University, way back in June about floating solar’s decarbonization potential. Even he was “quite surprised with the number of countries that could meet a sizable fraction of the energy demands by [floating photovoltaics],” he told me.<em> </em>His modeling shows that Bolivia, for example, could meet about 80% of its energy demand with floating solar, while Ethiopia could meet 100% of its demand, with extra energy to spare. </p><p>The next step, he said, is gaining a deeper understanding of the ecological impacts of this technology. “Even if you do cover a water body by something small, like 10%, we don’t know what knock-on effect that would have,” he said. </p><h3>4. Soil carbon sequestration</h3><p>Soils are some of the world’s most effective carbon sinks, and sustainable farming techniques can enhance soil’s natural carbon sequestration potential. Thus, soil carbon sequestration plays at the intersection of the fuzzy and buzzy regenerative agriculture space and the increasingly scientifically rigorous carbon dioxide removal sector, with its carbon crediting schemes and verification requirements. One investor I spoke with, Amy Francetic of Buoyant Ventures, is eager to find and back a company that can merge these two worlds. “If you could figure out how to sink carbon in a farm and do that in a way that is easy to measure and validate, we don’t have a good solution for that today,” she told me.</p><p>As of now, Francetic said, startups are going about this problem by doing labor intensive and expensive soil sampling and “marrying that with geospatial data to try to measure what climate benefits there are of changing certain agricultural practices, doing different row crops, changing the crop rotation, the amount of inputs you put into the crops.” Many have pitched Buoyant on their methodologies for bridging satellite data with soil sampling data, but thus far she’s passed. “None of them have, I think, met the standard of reliability that the financial industry would back from a carbon credit standpoint,” she explained. “That might be one of these holy grail things. If somebody could really do that, it could be very impactful.”</p><h3>5. Parametric insurance products</h3><p>I’ll be honest, before this year I didn’t know what parametric insurance was. But since it came up time and again in conversations with investors about extreme weather and the necessity of climate resilience and adaptation measures, I decided to dig in. Here’s what parametric insurance is: an insurance product that automatically provides rapid payouts to customers in the case of natural disasters or weather events, assuming these events exceed a predefined limit. For example, a policyholder might be paid if the rainfall, wind speed, or temperature of a particular weather event is above or below a certain threshold, with the amount tied to how much the measurement deviates from the limit, not the damages incurred. </p><p>With extreme weather events getting more frequent and more intense due to climate change, this has given rise to a crop of startups that can leverage sensors, satellites, and artificial intelligence to quickly and accurately measure the extent of these events, thus enabling parametric insurance for a host of new customers. To name a few companies that have taken advantage: There’s Floodbase and FloodFlash (both focusing on flood insurance, naturally), which have each raised over $10 million in Series A financing; FloodFlash made a <a href="https://www.artemis.bm/news/floodflash-uk-floods-hit-parametric-triggers-for-some-policies/" rel="noopener noreferrer" target="_blank"><u>series </u></a>of <a href="https://www.reinsurancene.ws/floodflashs-parametric-coverage-ensures-rapid-payouts-to-uk-clients-after-floods/" rel="noopener noreferrer" target="_blank"><u>rapid </u></a><a href="https://www.reinsurancene.ws/storm-bert-triggers-rapid-parametric-payout-from-floodflash/" rel="noopener noreferrer" target="_blank"><u>payouts</u></a> this year following storms in the UK, getting policyholders their money in as little as 10 hours after the water level exceeded its threshold. There’s Arbol, which protects against a host of weather events from drought to heat waves and cold snaps, and raised a <a href="https://www.prnewswire.com/news-releases/arbol-raises-60-million-in-series-b-funding-to-scale-parametric-insurance-responding-to-increasing-climate-risk-302131746.html" rel="noopener noreferrer" target="_blank"><u>$40 million Series B</u></a> round this year. And there’s Pula, which helps provide parametric insurance to small-holder farmers in emerging markets, and raised a <a href="https://techcrunch.com/2024/04/14/pula-raises-20m-series-b/" rel="noopener noreferrer" target="_blank"><u>$20 million Series B</u></a> round this year.</p><p>“This is affecting everybody,” Clea Kolster of Lowercarbon Capital, which led Floodbase’s Series A round, told me when we met at this year’s San Francisco Climate Week. “So how do you actually make sure that people have coverage for it and can continue to have as close to livable lives as possible, even when they’re subject to more frequent extreme weather events?” Investors know the storms are going to keep coming, so this category of adaptation tech is only set to grow.</p> 
+
+<br> 
+
+<https://heatmap.news/technology/climate-tech-for-2025>
+
+---
+
+## Trial moved for man accused in Trump assassination attempt in Florida
+
+date: 2024-12-25, from: VOA News USA
+
+ORLANDO, FLORIDA — A man accused of attempting to assassinate President-elect Donald Trump in South Florida won't be tried until September, a federal judge ruled this week.
+
+
+Ryan Routh's trial will begin Sept. 8 instead of the previously scheduled Feb. 10, start date, U.S. District Judge Aileen Cannon said in an order released on Monday.
+
+
+Routh, 58, a Hawaii resident, has pleaded not guilty.
+
+
+Routh's attorneys had asked the judge to delay the trial until no earlier than next December, saying they needed more time to review the evidence against him and decide whether to mount an insanity defense.
+
+
+Routh owned 17 cellphones and numerous other electronic devices, and there are hundreds of hours of police body camera and surveillance videos that have been provided to the defense, Routh's attorneys argued during a hearing two weeks ago in Fort Pierce, Florida.
+
+
+In her order, Cannon said that she wanted to err on the side of providing more time given the seriousness of the allegations, but that starting the trial no earlier than December would be an excessive amount. A September trial date didn't amount to an "unreasonable delay," she said.
+
+
+The judge said that any insanity defense or any request related to Routh's mental competency must be made by early February. Any visit to the scene of the assassination attempt must be made by the end of February.
+
+
+Prosecutors say Routh methodically plotted to kill Trump for weeks before aiming a rifle through the shrubbery as Trump played golf on Sept. 15 at his West Palm Beach country club. Before Trump came into view, Routh was spotted by a Secret Service agent. Routh allegedly aimed his rifle at the agent, who opened fire, causing Routh to drop his weapon and flee without firing a shot. Prosecutors say he left behind a note describing his intentions.
+
+
+He was arrested a short time later driving on a nearby interstate.
+
+
+Routh's charge of attempted assassination of a major presidential candidate carries a potential life sentence if he is convicted. Other charges include assaulting a federal officer and three firearms counts. He is being held without bail at the federal jail in Miami.
+
+
+Routh's arrest came two months after Trump was shot and wounded in the ear in an assassination attempt during a campaign rally in Pennsylvania. The Secret Service acknowledged failings leading up to that shooting but has said security worked as it should have to thwart the potential Florida attack. 
+
+<br> 
+
+<https://www.voanews.com/a/trial-moved-for-man-accused-in-trump-assassination-attempt-in-florida/7914025.html>
+
+---
+
+## NORAD's Santa tracker was Cold War morale boost. Now it attracts millions of kids
+
+date: 2024-12-25, from: VOA News USA
+
+The Christmas tradition has become nearly global in scope: Children from around the world track Santa Claus as he sweeps across the earth, delivering presents and defying time.
+
+
+Each year, at least 100,000 kids call into the North American Aerospace Defense Command to inquire about Santa’s location. Millions more follow online in nine languages, from English to Japanese.
+
+
+On any other night, NORAD is scanning the heavens for potential threats, such as last year’s Chinese spy balloon. But on Christmas Eve, volunteers in Colorado Springs are fielding questions like, “When is Santa coming to my house?” and, “Am I on the naughty or nice list?”
+
+
+“There are screams and giggles and laughter,” said Bob Sommers, 63, a civilian contractor and NORAD volunteer.
+
+
+
+
+Sommers often says on the call that everyone must be asleep before Santa arrives, prompting parents to say, “Do you hear what he said? We got to go to bed early.”
+
+
+NORAD’s annual tracking of Santa has endured since the Cold War, predating ugly sweater parties and Mariah Carey classics. The tradition continues regardless of government shutdowns, such as the one in 2018, and this year.
+
+
+Here’s how it began and why the phones keep ringing.
+
+
+Origin story is Hollywood-esque
+
+
+
+It started with a child’s accidental phone call in 1955. The Colorado Springs newspaper printed a Sears advertisement that encouraged children to call Santa, listing a phone number.
+
+
+A boy called. But he reached the Continental Air Defense Command, now NORAD, a joint U.S. and Canadian effort to spot potential enemy attacks. Tensions were growing with the Soviet Union, along with anxieties about nuclear war.
+
+
+Air Force Col. Harry W. Shoup picked up an emergency-only “red phone” and was greeted by a tiny voice that began to recite a Christmas wish list.
+
+
+“He went on a little bit, and he takes a breath, then says, ‘Hey, you’re not Santa,’” Shoup told The Associated Press in 1999.
+
+
+Realizing an explanation would be lost on the youngster, Shoup summoned a deep, jolly voice and replied, “Ho, ho, ho! Yes, I am Santa Claus. Have you been a good boy?”
+
+
+Shoup said he learned from the boy’s mother that Sears mistakenly printed the top-secret number. He hung up, but the phone soon rang again with a young girl reciting her Christmas list. Fifty calls a day followed, he said.
+
+
+In the pre-digital age, the agency used an 18-by-24-meter plexiglass map of North America to track unidentified objects. A staff member jokingly drew Santa and his sleigh over the North Pole.
+
+
+The tradition was born.
+
+
+“Note to the kiddies,” began an AP story from Colorado Springs on Dec. 23, 1955. “Santa Claus Friday was assured safe passage into the United States by the Continental Air Defense Command.”
+
+
+In a likely reference to the Soviets, the article noted that Santa was guarded against possible attack from “those who do not believe in Christmas.”
+
+
+
+
+Is the origin story humbug?
+
+
+Some grinchy journalists have nitpicked Shoup’s story, questioning whether a misprint or a misdial prompted the boy’s call.
+
+
+In 2014, tech news site Gizmodo cited an International News Service story from December 1, 1955, about a child’s call to Shoup. Published in the Pasadena Independent, the article said the child reversed two digits in the Sears number.
+
+
+“When a childish voice asked COC commander Col. Harry Shoup, if there was a Santa Claus at the North Pole, he answered much more roughly than he should — considering the season:
+
+
+‘There may be a guy called Santa Claus at the North Pole, but he’s not the one I worry about coming from that direction,’” Shoup said in the brief piece.
+
+
+In 2015, The Atlantic magazine doubted the flood of calls to the secret line, while noting that Shoup had a flair for public relations.
+
+
+Phone calls aside, Shoup was indeed media savvy. In 1986, he told the Scripps Howard News Service that he recognized an opportunity when a staff member drew Santa on the glass map in 1955.
+
+
+A lieutenant colonel promised to have it erased. But Shoup said, “You leave it right there,” and summoned public affairs. Shoup wanted to boost morale for the troops and public alike.
+
+
+“Why, it made the military look good — like we’re not all a bunch of snobs who don’t care about Santa Claus,” he said.
+
+
+Shoup died in 2009. His children told the StoryCorps podcast in 2014 that it was a misprinted Sears ad that prompted the phone calls.
+
+
+“And later in life he got letters from all over the world,” said Terri Van Keuren, a daughter. “People saying, ‘Thank you, Colonel, for having, you know, this sense of humor.’”
+
+
+
+
+Rare addition to Santa’s story
+
+
+NORAD’s tradition is one of the few modern additions to the centuries-old Santa story that have endured, according to Gerry Bowler, a Canadian historian who spoke to the AP in 2010.
+
+
+Ad campaigns or movies try to “kidnap” Santa for commercial purposes, said Bowler, who wrote “Santa Claus: A Biography.” NORAD, by contrast, takes an essential element of Santa’s story and views it through a technological lens.
+
+
+In a recent interview with the AP, Air Force Lt. Gen. Case Cunningham explained that NORAD radars in Alaska and Canada — known as the northern warning system — are the first to detect Santa.
+
+
+He leaves the North Pole and typically heads for the international dateline in the Pacific Ocean. From there he moves west, following the night.
+
+
+“That’s when the satellite systems we use to track and identify targets of interest every single day start to kick in,” Cunningham said. “A probably little-known fact is that Rudolph’s nose that glows red emanates a lot of heat. And so those satellites track [Santa] through that heat source.”
+
+
+NORAD has an app and website, www.noradsanta.org, that will track Santa on Christmas Eve from 4 a.m. to midnight, mountain standard time. People can call 1-877-HI-NORAD to ask live operators about Santa’s location from 6 a.m. to midnight, mountain time. 
+
+<br> 
+
+<https://www.voanews.com/a/7913717.html>
+
+---
+
+## Biden signs bill officially making bald eagle the national bird of US
+
+date: 2024-12-25, from: VOA News USA
+
+Washington — The bald eagle, a symbol of the power and strength of the United States for more than 240 years, earned an overdue honor Tuesday: It officially became the country's national bird. 
+
+
+President Joe Biden signed into law legislation sent to him by Congress that amends the United States Code to correct what had long gone unnoticed and designate the bald eagle — familiar to many because of its white head, yellow beak and brown body — as the national bird. 
+
+
+The bald eagle has appeared on the Great Seal of the United States, which is used in official documents, since 1782, when the design was finalized. The seal is made up of the eagle, an olive branch, arrows, a flag-like shield, the motto “E Pluribus Unum” and a constellation of stars. 
+
+
+Congress, that same year, designated the bald eagle as the the national emblem, and its image appears in a host of places, ranging from documents and the presidential flag to military insignia and U.S. currency, according to USA.gov. 
+
+
+But it had never been officially designated to be what many had just assumed it was — the national bird. 
+
+
+The bald eagle is indigenous to North America. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-signs-a-bill-officially-making-the-bald-eagle-the-national-bird-of-the-us-/7913680.html>
+
+---
+
+## Refill stores tackling problem of single-use plastic packaging
+
+date: 2024-12-25, from: VOA News USA
+
+The U.N. estimates that the world produces over 430 million metric tons of plastic waste every year globally, with the largest source being single-use packaging. VOA's Valdya Baraputri reports on a movement to cut down on such waste. 
+
+<br> 
+
+<https://www.voanews.com/a/refill-stores-tackling-problem-of-single-use-plastic-packaging/7913641.html>
 
 ---
 

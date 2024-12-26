@@ -1,11 +1,85 @@
 ---
 title: motorcycles
-updated: 2024-12-25 07:05:24
+updated: 2024-12-26 07:05:12
 ---
 
 # motorcycles
 
-(date: 2024-12-25 07:05:24)
+(date: 2024-12-26 07:05:12)
+
+---
+
+## The Future of Helmets Lies in Recycling, at Least AGV Thinks So
+
+date: 2024-12-26, from: Ride Apart, Electric Motorcycle News
+
+The reduction in waste thanks to this project could be staggering, but would you trust a helmet made from recycled materials? 
+
+<br> 
+
+<https://www.rideapart.com/news/745413/dainese-agv-recycled-helmets-life-impacto/>
+
+---
+
+## The 2025 Dakar Rally Could Be The Most Grueling One Yet
+
+date: 2024-12-26, from: Ride Apart, Electric Motorcycle News
+
+Just reading the route details left me breathless.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/745287/2025-dakar-rally-route-details/>
+
+---
+
+## Is This a 1930s Czech Motorcycle Or Is It Really Santa's Sleigh?
+
+date: 2024-12-26, from: Ride Apart, Electric Motorcycle News
+
+Those pipes alone are as tall as I am. 
+
+<br> 
+
+<https://www.rideapart.com/news/745390/rare-bohmerland-motorcycle-for-sale/>
+
+---
+
+## Utah Changes Its Public Lands Supreme Court Lawsuit, States It Wants to Sell Land
+
+date: 2024-12-26, from: Ride Apart, Electric Motorcycle News
+
+It's now arguing that public lands are unconstitutional. 
+
+<br> 
+
+<https://www.rideapart.com/news/745396/utah-supreme-court-lawsuit-change-public-lands/>
+
+---
+
+## Royal Enfield’s New Thailand Factory Will Cater To Asia Pacific Demand
+
+date: 2024-12-26, from: Ride Apart, Electric Motorcycle News
+
+More than 30,000 motorcycles a year are expected from the new factory. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/745276/royal-enfield-new-factory-thailand/>
+
+---
+
+## Please Don’t Shut Down the Best Motorcycle Docuseries, KTM
+
+date: 2024-12-26, from: Ride Apart, Electric Motorcycle News
+
+Somebody, please, think of the children. 
+
+<br> 
+
+<https://www.rideapart.com/news/745207/ktm-born-racers-redbull-rookies-cup/>
 
 ---
 

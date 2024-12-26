@@ -1,11 +1,127 @@
 ---
 title: central coast
-updated: 2024-12-25 07:05:22
+updated: 2024-12-26 07:05:11
 ---
 
 # central coast
 
-(date: 2024-12-25 07:05:22)
+(date: 2024-12-26 07:05:11)
+
+---
+
+## Sky Highs
+
+date: 2024-12-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sky highs above Hendry’s Beach in Santa Barbara." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/sky-highs/">Sky Highs</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/sky-highs/>
+
+---
+
+## Construction to Close El Capitán State Beach Campground for a Year
+
+date: 2024-12-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-El-Capitan-Campgrounds-DG-01.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The El Capitán State Beach campground will close in January for a yearlong construction project. Visitors can use the park for day use during that time." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-El-Capitan-Campgrounds-DG-01.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-El-Capitan-Campgrounds-DG-01.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-El-Capitan-Campgrounds-DG-01.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-El-Capitan-Campgrounds-DG-01.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-El-Capitan-Campgrounds-DG-01.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-El-Capitan-Campgrounds-DG-01.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-El-Capitan-Campgrounds-DG-01.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-El-Capitan-Campgrounds-DG-01.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121824-El-Capitan-Campgrounds-DG-01.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Anyone hoping to sleep under the stars at El Capitán State Beach will have to hold off on their plans. The state park&#8217;s campground will be closing within the next [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/construction-to-close-el-capitan-state-beach-campground-for-a-year/">Construction to Close El Capitán State Beach Campground for a Year</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/construction-to-close-el-capitan-state-beach-campground-for-a-year/>
+
+---
+
+## Lompoc Looks to Launch Aerial Monitoring in Fireworks Crackdown
+
+date: 2024-12-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Lompoc-Fireworks1-cont.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Lompoc Fire Chief Brian Fallon speaks to the City Council about the flurry of illegal fireworks ignited in the city on the Fourth of July and efforts to extinguish them." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Lompoc-Fireworks1-cont.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Lompoc-Fireworks1-cont.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Lompoc-Fireworks1-cont.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Lompoc-Fireworks1-cont.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Lompoc-Fireworks1-cont.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Lompoc-Fireworks1-cont.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Lompoc-Fireworks1-cont.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Lompoc-Fireworks1-cont.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Lompoc-Fireworks1-cont.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The calendar said December, but Lompoc Fire Chief Brian Fallon was focused on the Fourth of July. In a presentation to the Lompoc City Council, Fallon revealed plans to hire [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lompoc-looks-to-launch-aerial-monitoring-in-fireworks-crackdown/">Lompoc Looks to Launch Aerial Monitoring in Fireworks Crackdown</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/lompoc-looks-to-launch-aerial-monitoring-in-fireworks-crackdown/>
+
+---
+
+## Laurie Jervis: Loubud Wines Opens Tasting Room in Santa Barbara’s El Paseo
+
+date: 2024-12-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Courtesy-Lou-Bud-Wines-TR-Interior.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Paul Hughes, husband of winemaker Laura Hughes and co-owner of their label, Loubud Wines, stands in their newly opened tasting room in Santa Barbara’s El Paseo." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Courtesy-Lou-Bud-Wines-TR-Interior.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Courtesy-Lou-Bud-Wines-TR-Interior.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Courtesy-Lou-Bud-Wines-TR-Interior.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Courtesy-Lou-Bud-Wines-TR-Interior.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Courtesy-Lou-Bud-Wines-TR-Interior.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Courtesy-Lou-Bud-Wines-TR-Interior.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Courtesy-Lou-Bud-Wines-TR-Interior.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Courtesy-Lou-Bud-Wines-TR-Interior.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/Courtesy-Lou-Bud-Wines-TR-Interior.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Loubud Wines has opened a tasting room in the courtyard of the historic El Paseo in Santa Barbara. The wine label, founded by winemaker Laura Hughes in 2015 and now [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/laurie-jervis-loubud-wines-opens-tasting-room-in-santa-barbaras-el-paseo-district/">Laurie Jervis: Loubud Wines Opens Tasting Room in Santa Barbara’s El Paseo</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/laurie-jervis-loubud-wines-opens-tasting-room-in-santa-barbaras-el-paseo-district/>
+
+---
+
+## Dan McCaslin: Up for a Challenge? Try Tunnel Trail to Rattlesnake Canyon
+
+date: 2024-12-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120324-View-oceanward-over-repaired-Tunnel-Trail-road-dm.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A view toward the ocean over the repaired Tunnel Trail road." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120324-View-oceanward-over-repaired-Tunnel-Trail-road-dm.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120324-View-oceanward-over-repaired-Tunnel-Trail-road-dm.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120324-View-oceanward-over-repaired-Tunnel-Trail-road-dm.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120324-View-oceanward-over-repaired-Tunnel-Trail-road-dm.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120324-View-oceanward-over-repaired-Tunnel-Trail-road-dm.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120324-View-oceanward-over-repaired-Tunnel-Trail-road-dm.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120324-View-oceanward-over-repaired-Tunnel-Trail-road-dm.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120324-View-oceanward-over-repaired-Tunnel-Trail-road-dm.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/120324-View-oceanward-over-repaired-Tunnel-Trail-road-dm.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>After learning that the beloved Tunnel Trail had recently reopened, I decided to try hiking one of my favorite frontcountry paths leading through the picturesque Mission Crags formation and on [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dan-mccaslin-up-for-a-challenge-try-tunnel-trail-to-rattlesnake-canyon/">Dan McCaslin: Up for a Challenge? Try Tunnel Trail to Rattlesnake Canyon</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/dan-mccaslin-up-for-a-challenge-try-tunnel-trail-to-rattlesnake-canyon/>
+
+---
+
+## Dear Annie: Wishing a Merry Christmas to All
+
+date: 2024-12-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Dear Readers: Wishing you all a very Merry Christmas. Hope you enjoy these poems for the holidays. “Christmas in the Heart” By Paul Laurence Dunbar “The snow lies deep upon [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dear-annie-wishing-a-merry-christmas-to-all/">Dear Annie: Wishing a Merry Christmas to All</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/dear-annie-wishing-a-merry-christmas-to-all/>
+
+---
+
+## Holly McCord Duncan: Start Making Summer Plans
+
+date: 2024-12-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>It may be December, but it is time to plan for summer if you are looking to explore your curiosity with a unique experience. Whether your interest is in engineering, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/holly-mccord-duncan-start-making-summer-plans/">Holly McCord Duncan: Start Making Summer Plans </a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/holly-mccord-duncan-start-making-summer-plans/>
+
+---
+
+## Santa Barbara Police to Set up DUI Checkpoint on Dec. 28
+
+date: 2024-12-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>On Saturday, Dec. 28, the Santa Barbara Police Department will conduct a driving-under-the influence (DUI) Checkpoint. DUI checkpoint locations are determined based on data showing incidents of impaired driving-related crashes. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-police-to-set-up-dui-checkpoint-on-dec-28/">Santa Barbara Police to Set up DUI Checkpoint on Dec. 28</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-barbara-police-to-set-up-dui-checkpoint-on-dec-28/>
 
 ---
 
@@ -13,7 +129,7 @@ updated: 2024-12-25 07:05:22
 
 date: 2024-12-25, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Mary, Mother of God, at Bishop Diego High School in Santa Barbara." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Mary, Mother of God, at Bishop Diego High School in Santa Barbara." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122324-POD-Stacey-Carr.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The post <a href="https://www.noozhawk.com/merry-christmas-2/">Merry Christmas</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 

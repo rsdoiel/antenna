@@ -1,11 +1,79 @@
 ---
 title: going electric
-updated: 2024-12-25 07:05:25
+updated: 2024-12-26 07:05:13
 ---
 
 # going electric
 
-(date: 2024-12-25 07:05:25)
+(date: 2024-12-26 07:05:13)
+
+---
+
+## Xtracycle Hopper review: A better cargo e-bike at a better price
+
+date: 2024-12-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/xtracycle-hopper-header-image.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>More people are shifting from car-focused lifestyles to a mix of cars and bikes—or even going mostly car-free. While switching to a bike or e-bike might seem limiting, the cycling industry offers a wide range of categories to suit various needs.</p>
+
+
+
+<p>Take cargo e-bikes, for example. These are basically the SUVs or pickup trucks of the electric bike world. And having spent many good miles on the <a href="https://www.avantlink.com/click.php?tt=cl&amp;merchant_id=fe8c03a4-3039-45a2-b092-00cba4559d41&amp;website_id=d8cb501a-c5ae-4e37-bc97-8c54add0467e&amp;url=https%3A%2F%2Fxtracycle.com%2Fproducts%2Fhopper-compact-cargo">Xtracycle Hopper</a> cargo e-bike, the newest offering from the most famous cargo bike maker in the US, I can tell you that this family truck in an e-bike form is capable of a lot more than many people would expect.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,review" data-layer-viewtype="unknown" data-post-id="394981" href="https://electrek.co/2024/12/26/xtracycle-hopper-review-a-better-cargo-e-bike-at-a-better-price/#more-394981" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/26/xtracycle-hopper-review-a-better-cargo-e-bike-at-a-better-price/>
+
+---
+
+## Volkswagen to cut 35,000 jobs but keep factories open
+
+date: 2024-12-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Volkswagen-Audi-plant.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volkswagen announced a “Christmas miracle” with sweeping changes to its German operations but no immediate factory closures, layoffs, or wage cuts. Still, some 35,000 jobs are on the chopping block soon, but factories should remain open.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="europe,volkswagen" data-layer-viewtype="unknown" data-post-id="395228" href="https://electrek.co/2024/12/26/volkswagen-to-cut-35000-jobs-but-keep-factories-open/#more-395228" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/26/volkswagen-to-cut-35000-jobs-but-keep-factories-open/>
+
+---
+
+## Ford, General Motors, and Toyota donate $1 million each to Trump
+
+date: 2024-12-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/49955371473_88d5a640e0_b.jpg?quality=82&#038;strip=all&#038;w=1024" /></div><p>Ford, General Motors, and Toyota North America are donating $1 million each to incoming president Donald Trump’s January inauguration. Ford and GM are throwing in a fleet of vehicles for the January 20 event, too, for good measure.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,ford,general-motors,toyota" data-layer-viewtype="unknown" data-post-id="395222" href="https://electrek.co/2024/12/26/ford-general-motors-and-toyota-donate-1-million-each-to-trump/#more-395222" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/26/ford-general-motors-and-toyota-donate-1-million-each-to-trump/>
+
+---
+
+## Why some Scrooges want to stop California from handing out $2,000 e-bike vouchers
+
+date: 2024-12-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/aventon-abound-electric-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In what couldn’t have been more on-the-nose timing, a group of local California newspapers published an editorial on Christmas Eve calling for the end of a generous $2,000 voucher program intended to help low-income Californians afford electric bicycles for transportation.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="395211" href="https://electrek.co/2024/12/25/why-some-scrooges-want-to-stop-california-from-handing-out-2000-e-bike-vouchers/#more-395211" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/25/why-some-scrooges-want-to-stop-california-from-handing-out-2000-e-bike-vouchers/>
 
 ---
 

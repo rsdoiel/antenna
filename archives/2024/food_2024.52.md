@@ -1,11 +1,25 @@
 ---
 title: food
-updated: 2024-12-25 07:05:25
+updated: 2024-12-26 07:05:13
 ---
 
 # food
 
-(date: 2024-12-25 07:05:25)
+(date: 2024-12-26 07:05:13)
+
+---
+
+## I Tried the Viral Cheesy Pickle Fries, and I’ve Got Opinions
+
+date: 2024-12-26, from: Taste of Home
+
+<p>The idea of pickles and cheese becoming fries was all the inspiration I needed to test this TikTok recipe.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/tiktok-cheesy-pickle-fries/">I Tried the Viral Cheesy Pickle Fries, and I&#8217;ve Got Opinions</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/tiktok-cheesy-pickle-fries/>
 
 ---
 
@@ -64,7 +78,7 @@ date: 2024-12-24, from: Daily Coffee News
 
 date: 2024-12-24, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Untitled (1)" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Continuing DCN’s&#160;2024 Year in Review, here are 10 exciting new coffee shops that opened up in the U.S. West Coas states in 2024.&#160; For all the latest coffee shop openings... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Untitled (1)" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Untitled-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Continuing DCN’s&#160;2024 Year in Review, here are 10 exciting new coffee shops that opened up in the U.S. West Coast states in 2024.&#160; For all the latest coffee shop openings... 
 
 <br> 
 

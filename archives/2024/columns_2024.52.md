@@ -1,11 +1,129 @@
 ---
 title: columns
-updated: 2024-12-25 07:05:23
+updated: 2024-12-26 07:05:11
 ---
 
 # columns
 
-(date: 2024-12-25 07:05:23)
+(date: 2024-12-26 07:05:11)
+
+---
+
+##  10 years ago, I wrote about why I support Wikipedia with a... 
+
+date: 2024-12-26, updated: 2024-12-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045908-10-years-ago-i-wrote>
+
+---
+
+## A Twitter eulogy and the complicated relationship with my X…
+
+date: 2024-12-26, from: Chris Heilmann's blog
+
+X isn&#8217;t Twitter. X isn&#8217;t even driven by human emotions any longer and is run by a management that doesn&#8217;t care about people, emotions or the dangers of propaganda. That&#8217;s why a lot of people who made Twitter grow in the beginning &#8211; real content creators &#8211; now meet on BlueSky. I do, too, but [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2024/12/26/a-twitter-eulogy-and-the-complicated-relationship-with-my-x/>
+
+---
+
+## The year in drawings
+
+date: 2024-12-26, from: Robert Reich's blog
+
+Hope my drawings made 2024 a bit less dismal. 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-year-in-drawings>
+
+---
+
+## A Reply to Don Geddis
+
+date: 2024-12-26, updated: 2024-12-26, from: Ron Garret
+
+Don Geddis left a comment on my last post.&nbsp; My reply grew far longer than would reasonably fit into a comment reply so I decided to post it as an article.&nbsp; Don wrote:I wonder if you've considered that perhaps you have more in common with the people who frustrate you, than your current self-image suggests.My reply:I've not just considered it, I will happily concede that I am not as 
+
+<br> 
+
+<https://blog.rongarret.info/2024/12/a-reply-to-don-geddis.html>
+
+---
+
+## December 25, 2024
+
+date: 2024-12-26, from: Heather Cox Richardson blog
+
+Buddy and I spent the day with family, and while I did sneak peeks at the news, it seems there is nothing that cannot wait. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-25-2024>
+
+---
+
+## 2024-12-26 Rot Economy
+
+date: 2024-12-25, from: Alex Schroeder's Blog
+
+<h1 id="2024-12-26-rot-economy">2024-12-26 Rot Economy</h1>
+
+<p>This essay is so good. You probably have seen it linked a few times on social media. I certainly have. And yet, perhaps you have not. If you have not, it’s a great read tying together our terrible computer experiences, us being exploited by big tech, enshittification and rot economy. The growth mindset that kills us all.</p>
+
+<blockquote>
+<p>Holding these people to a higher standard at scale is what brings about change. Be the wrench in the machine. Be the person that explains to a friend why Facebook sucks now, and who chose to make it suck. Be the person to explain who Prabhakar Raghavan is and what his role was in making Google Search worse. Be the person who tells people that Sam Altman burns $5 billion a year on unsustainable software that destroys the environment and is built upon the large-scale larceny of creative works because he&rsquo;s desperate for power. – <a href="https://www.wheresyoured.at/never-forgive-them/">Never Forgive Them</a>, by Edward Zitron</p>
+</blockquote>
+
+<p>Now there is a mission statement for bloggers and people on social media.</p>
+
+<p>It also confirms my peculiar service offerings like Emacs Wiki or Campaign Wiki. They are free for users. They are simpler and they don’t change much. There are no ads and there is no “growth” to be had. In fact, if more people set up similar sites that are similar in these respects, it’ll be better for us. We’ll be more resilient, more adapted to our local needs, it’ll be more like community tools for all of us instead of slop for us and billions for them. This is where I want to go.</p>
+
+<p><a class="tag" href="/search/?q=%23Economics">#Economics</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-12-25-rot-economy>
+
+---
+
+## As an avid Reddit user, I’ve learned…
+
+date: 2024-12-25, from: Om Malik blog
+
+As an avid Reddit user, I’ve learned to approach everything I read with skepticism, echoing Jerry Seinfeld’s catchphrase, “Really?” This morning, I encountered an unsourced post about Boox, a tablet and e-reader, which I viewed with a critical eye. According to the post, an upgrade to the Boox tablet’s operating system, which is based on &#8230; 
+
+<br> 
+
+<https://om.co/2024/12/25/perception-is-reality/>
+
+---
+
+##  Louis Armstrong Reads &#8216;Twas The Night Before Christmas 
+
+date: 2024-12-25, updated: 2024-12-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/louis-armstrong-reads-twas-the-night-before-christmas>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-25, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/12/25/leftfacingsanta.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I am ready to start programming ChatGPT, the same way I have  built my own code writing and deploying software on Macintosh. I want to create rules in some kind of macro language that it will never violate. I find it has huge problems with memory, it says it's remembering something, but has forgotten it 24 hours later. This is like the <a href="https://www.theatlantic.com/technology/archive/2015/01/the-story-behind-twitters-fail-whale/384313/?gift=f35zZN0v_gDFE8xNwlQAHSNkdwehtNpsP-bh1d4EoU4&utm_source=copy-link&utm_medium=social&utm_campaign=share">Fail Whale</a> in the early days of Twitter. Cute, because the system is doing something so new, futuristic and useful, but after a while it's not cute because we're using the system for real work. The web is programmable, our operating systems are, of course the AI-o-verse will be programmable too. We are able to create entirely new development environments, these platforms deserve a fresh new look at <i>everything.</i> I'd also like to note that at the same time, the platforms are breaking through in web user interfaces. Remarkable progress. Far beyond what we were doing in the very stagnant Web 2.0 world. They're still stuck on whether or not our writing can have titles. So bizarre to have to exist in a world that is deliberately hobbled, and another with infinite horizons. Anyway this is what I'm thinking about just before hunkering down with my Knicks and popcorn, a Christmas tradition for many many years. Ho ho ho. 
+
+<br> 
+
+<http://scripting.com/2024/12/25.html#a163255>
 
 ---
 
