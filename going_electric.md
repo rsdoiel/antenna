@@ -1,11 +1,103 @@
 ---
 title: going electric
-updated: 2024-12-27 07:06:02
+updated: 2024-12-27 09:41:03
 ---
 
 # going electric
 
-(date: 2024-12-27 07:06:02)
+(date: 2024-12-27 09:41:03)
+
+---
+
+## Jeep’s new Recon EV sheds its camouflage while charging ahead of its big debut [Photo]
+
+date: 2024-12-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Jeep-Recon-spy-photos.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Another electric <a href="https://electrek.co/guides/jeep/">Jeep</a> SUV is almost here. With its official debut just around the corner, Jeep’s new Recon EV was spotted charging in production form, giving us our best look at the Wrangler-inspired SUV. Will the Recon live up to its legendary predecessor?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-jeep,jeep" data-layer-viewtype="unknown" data-post-id="395356" href="https://electrek.co/2024/12/27/jeeps-new-recon-ev-sheds-camouflage-while-charging-photo/#more-395356" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/27/jeeps-new-recon-ev-sheds-camouflage-while-charging-photo/>
+
+---
+
+## Tesla Semi factory gets its main structure, on track for production in 2025
+
+date: 2024-12-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Screenshot-2024-12-27-at-11.11.01 AM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has finished raising its main steel structure for its Tesla Semi factory, which appears to be on track for production in 2025.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-semi" data-layer-viewtype="unknown" data-post-id="395355" href="https://electrek.co/2024/12/27/tesla-semi-factory-gets-its-main-structure-on-track-for-production-in-2025/#more-395355" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/27/tesla-semi-factory-gets-its-main-structure-on-track-for-production-in-2025/>
+
+---
+
+## Toyota's Hydrogen Car Dream Is Falling Apart
+
+date: 2024-12-27, from: Inside EVs News
+
+Toyota sold fewer than 150 fuel-cell electric vehicles worldwide last month. 
+
+<br> 
+
+<https://insideevs.com/news/745570/toyota-fcev-sales-november-2024/>
+
+---
+
+## VinFast is offering a crazy low lease deal on the VF 8 SUV for $0 down
+
+date: 2024-12-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Vinfast-VF8-lease.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Vietnamese automaker <a href="https://electrek.co/guides/vinfast/">VinFast</a> is pulling a late demand lever in 2024 to entice US customers to get behind the wheel of its VF 8 SUV. Designed for SUV-loving families in the US, the VinFast VF 8 is now available to lease for well under $300 a month with $0 down.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-lease,vinfast,vinfast-vf-8" data-layer-viewtype="unknown" data-post-id="395344" href="https://electrek.co/2024/12/27/vinfast-is-offering-a-crazy-low-lease-deal-on-the-vf-8-suv-for-0-down/#more-395344" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/27/vinfast-is-offering-a-crazy-low-lease-deal-on-the-vf-8-suv-for-0-down/>
+
+---
+
+## No, for crying out loud, killing EV subsidies will not help an EV company
+
+date: 2024-12-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/themes/ninetofive/dist/images/default-electrek-related-guide.png?w=1600" /></div><p>In light of Tesla and its CEO Elon Musk’s support of <a href="https://electrek.co/2024/11/14/tesla-supports-killing-7500-ev-tax-credit-going-directly-against-its-mission/">ending EV credits in the US</a>, many have said that this will somehow help Tesla against the competition. But it won’t, and here’s why.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="395111" href="https://electrek.co/2024/12/27/no-for-crying-out-loud-killing-ev-subsidies-will-not-help-an-ev-company/#more-395111" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/27/no-for-crying-out-loud-killing-ev-subsidies-will-not-help-an-ev-company/>
+
+---
+
+## NIO’s new low-cost Onvo L60 EV shines in debut with +20,000 deliveries in just 100 days
+
+date: 2024-12-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/NIOs-Model-Y-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>NIO’s (NYSE: NIO) new electric SUV already looks like a hit. In just 100 days since launching,<a href="https://electrek.co/guides/nio-onvo/"> NIO Onvo</a> L60 deliveries reached over 20,000 as the EV maker taps into the mass market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nio,nio-onvo" data-layer-viewtype="unknown" data-post-id="395333" href="https://electrek.co/2024/12/27/nio-onvo-l60-ev-deliveries-surge-over-20000-just-100-days/#more-395333" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/27/nio-onvo-l60-ev-deliveries-surge-over-20000-just-100-days/>
 
 ---
 

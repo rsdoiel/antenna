@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-12-27 07:06:01
+updated: 2024-12-27 09:41:03
 ---
 
 # retro computing
 
-(date: 2024-12-27 07:06:01)
+(date: 2024-12-27 09:41:03)
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2024-12-27, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 21: Philippine Vagabonds I hope you&#8217;re all having a great holiday season. There will go one extra week before the next article here, folks, as I ease myself out of holiday mode. ;) 
+
+<br> 
+
+<https://www.filfre.net/2024/12/this-week-on-the-analog-antiquarian-2/>
 
 ---
 

@@ -1,11 +1,47 @@
 ---
 title: north america
-updated: 2024-12-27 07:05:58
+updated: 2024-12-27 09:41:00
 ---
 
 # north america
 
-(date: 2024-12-27 07:05:58)
+(date: 2024-12-27 09:41:00)
+
+---
+
+## What will US immigration look like under Trump?
+
+date: 2024-12-27, from: VOA News USA
+
+U.S. President-elect Donald Trump made immigration a key focus of his 2024 presidential campaign. His incoming administration is planning stricter enforcement. VOA’s Immigration Correspondent Aline Barros explains what these policies might mean. 
+
+<br> 
+
+<https://www.voanews.com/a/what-will-us-immigration-look-like-under-trump-/7915873.html>
+
+---
+
+## Americans have plenty of gift card dollars to spend after the holidays
+
+date: 2024-12-27, from: Market Place
+
+More than 40% of Americans have an unused gift card, according to Bankrate.  
+
+<br> 
+
+<https://www.marketplace.org/2024/12/27/americans-have-plenty-of-gift-card-dollars-to-spend-after-the-holidays/>
+
+---
+
+## Job churn has been at historic lows. AI could change that.
+
+date: 2024-12-27, from: Market Place
+
+Leaders need to develop a safety net that will help displaced workers find good jobs, says senior economics contributor Chris Farrell. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/27/job-churn-has-been-at-historic-lows-ai-could-change-that/>
 
 ---
 
@@ -357,6 +393,18 @@ Military support for Israel's war in Gaza is politically charged in the U.S., wi
 
 ---
 
+## Soon, we’ll be chatting about a new buzzword: “agentic AI”
+
+date: 2024-12-26, from: Market Place
+
+Companies are increasingly turning to artificial intelligence agents to perform some of the complex tasks once assigned to humans. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/26/agentic-ai-artificial-intelligence-agent-personal-assistant/>
+
+---
+
 ## Panama president rules out talks with Trump over canal threat
 
 date: 2024-12-26, from: VOA News USA
@@ -420,6 +468,54 @@ On Tuesday, dozens of demonstrators gathered outside the U.S. embassy in Panama 
 <br> 
 
 <https://www.voanews.com/a/panama-president-rules-out-talks-with-trump-over-canal-threat-/7915162.html>
+
+---
+
+## Corporations are riding a trend: spinning off units into public companies
+
+date: 2024-12-26, from: Market Place
+
+Parts of companies can be worth more on their own. Spinoffs are happening in quickly changing industries, like cable TV and package delivery. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/26/corporate-spin-offs-debt-assets-companies-activist-investors/>
+
+---
+
+## How much can Americans spend? Check the money supply.
+
+date: 2024-12-26, from: Market Place
+
+M1 and M2 figure into consumption and inflation and can be used as a policy lever by the Federal Reserve. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/26/m2-money-supply-tells-us-about-the-economy-fed-federal-reserve/>
+
+---
+
+## Despite a GOP-controlled Congress, tax reform might still be an uphill battle
+
+date: 2024-12-26, from: Market Place
+
+Between campaign promises and concerns about the deficit, updating the tax code in 2025 will be no easy feat. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/26/tax-reform-gop-republican-congress-taxation-house-senate/>
+
+---
+
+## Sharp property tax increases shock residents of south suburban Chicago
+
+date: 2024-12-26, from: Market Place
+
+The sudden rise in property taxes in Chicago’s south suburbs is due in part to commercial disinvestment and a shrinking tax base, experts say.  
+
+<br> 
+
+<https://www.marketplace.org/2024/12/26/sharp-property-tax-increases-shock-residents-of-south-suburban-chicago/>
 
 ---
 
@@ -573,6 +669,18 @@ AI can improve emergency management by combating misinformation and enhancing co
 
 ---
 
+## Threats of tariffs on Mexican goods stresses relationship with key U.S. trade partner
+
+date: 2024-12-26, from: Market Place
+
+President-elect Donald Trump has threatened 25% tariffs on Mexican goods unless more is done to stop illegal immigration and illegal drugs. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/26/trump-mexico-tariffs-us-trade/>
+
+---
+
 ## India is Losing Bangladesh to China and Pakistan—and It Could Get Worse
 
 date: 2024-12-26, updated: 2024-12-26, from: RAND blog
@@ -689,6 +797,18 @@ Aunallah, similarly, is looking for more depth and variety. He's not interested 
 
 ---
 
+## It’s officially retail returns season
+
+date: 2024-12-26, from: Market Place
+
+The growth of online shopping means returns may rise to $890 billion for 2024. Retailers, though, are trying to impose costs on the practice. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/26/retail-returns-season-shopping-online-bracketing/>
+
+---
+
 ## Trump loyalist, ‘deep state’ critic Kash Patel looks to lead FBI
 
 date: 2024-12-26, from: VOA News USA
@@ -698,6 +818,18 @@ The promised effort by President-elect Donald Trump to remake the U.S. governmen
 <br> 
 
 <https://www.voanews.com/a/trump-loyalist-deep-state-critic-kash-patel-looks-to-lead-fbi/7914616.html>
+
+---
+
+## What the passion of soccer fans reveals about economic decision making
+
+date: 2024-12-26, from: Market Place
+
+English Premier League fans bet on their favorite teams even against the odds, highlighting the role of emotion rather than rationality. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/26/what-the-passion-of-soccer-fans-reveals-about-economic-decision-making/>
 
 ---
 
@@ -765,6 +897,78 @@ Routh's arrest came two months after Trump was shot and wounded in the ear in an
 <br> 
 
 <https://www.voanews.com/a/trial-moved-for-man-accused-in-trump-assassination-attempt-in-florida/7914025.html>
+
+---
+
+## Skip-the-line offers now a popular attraction in travel world
+
+date: 2024-12-25, from: Market Place
+
+Would you pay hundreds of dollars to skip the lines for rides at theme parks like Disney World? More of the travel industry thinks the answer is yes. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/25/skip-the-line-offers-vip-tours-travel/>
+
+---
+
+## Makeup? RVs? Company credit card fraud seems to be on the rise
+
+date: 2024-12-25, from: Market Place
+
+"Firms are catching more shenanigans than they did in the past" because of AI, says Callum Borchers of the Wall Street Journal. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/25/company-credit-card-fraud-on-the-rise/>
+
+---
+
+## What becomes of the brokenhearted? They hire a coach and go on a retreat.
+
+date: 2024-12-25, from: Market Place
+
+Recovering from a breakup costs more than ice cream and a DVD. Well-off exes can hook up with specialized services to rebuild their confidence. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/25/what-becomes-of-the-brokenhearted-they-hire-a-coach-and-go-on-a-retreat/>
+
+---
+
+## Businesses’ inventory levels are lean again. Tariffs could change that.
+
+date: 2024-12-25, from: Market Place
+
+Trump trade proposals may spur early purchasing, considering that companies know consumers will balk at escalating surcharges on imported goods. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/25/inventory-levels-tariffs-warehousing-trump-tariffs-wholesalers-importers/>
+
+---
+
+## Car sales, prices tick up as more Americans think it’s time to buy
+
+date: 2024-12-25, from: Market Place
+
+End-of-year deals, along with replacement of vehicles lost to hurricanes and anticipation of higher prices in 2025, may be prodding buyers. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/25/car-sales-prices-tick-up-as-more-americans-think-its-time-to-buy/>
+
+---
+
+## In a Trump immigration crackdown, there will be losers and winners
+
+date: 2024-12-25, from: Market Place
+
+Labor shortages may fuel inflation and hurt construction and food service. Some U.S.-born workers, along with the detention industry, may gain. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/25/in-a-trump-immigration-crackdown-there-will-be-losers-and-winners/>
 
 ---
 
@@ -919,6 +1123,18 @@ The bald eagle is indigenous to North America.
 
 ---
 
+## Quantum leap? This computing system could advance in 2025.
+
+date: 2024-12-25, from: Market Place
+
+Artificial intelligence is sure to get most of the hype, but technologists are making progress in realizing the promise of quantum computing. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/25/quantum-leap-this-computing-system-could-advance-in-2025/>
+
+---
+
 ## Refill stores tackling problem of single-use plastic packaging
 
 date: 2024-12-25, from: VOA News USA
@@ -952,6 +1168,18 @@ Dvorkovich was a deputy prime minister under Dmitry Medvedev from 2012 to 2018. 
 <br> 
 
 <https://www.voanews.com/a/american-imprisoned-in-russia-sentenced-to-new-15-year-jail-term-for-espionage/7913592.html>
+
+---
+
+## A farewell to copyright protection for Hemingway, Hammett — and Popeye
+
+date: 2024-12-25, from: Market Place
+
+"A Farewell to Arms" is among the works entering the public domain in 2025. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/25/public-domain-2025-heminway-farewell-to-arms-popeye/>
 
 ---
 
@@ -1033,6 +1261,54 @@ For 92 years, the Hollywood Christmas Parade has featured celebrities and perfor
 
 ---
 
+## Minimum wages will rise in more states and cities in 2025
+
+date: 2024-12-24, from: Market Place
+
+The $7.25 federal minimum wage has not changed for more than 15 years, but state and local increases have proved popular with voters. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/24/minimum-wage-hike-state-city-2025-wage-growth/>
+
+---
+
+## Netflix bets big on Christmas NFL streaming
+
+date: 2024-12-24, from: Market Place
+
+Despite hiccups with a boxing match, the ad revenue a live football double bill would bring is one of the reasons it's worth the gamble.  
+
+<br> 
+
+<https://www.marketplace.org/2024/12/24/netflix-streaming-nfl-sports-television-advertising-christmas/>
+
+---
+
+## For millennia, the Arctic absorbed more carbon than it emitted. That’s changed.
+
+date: 2024-12-24, from: Market Place
+
+The region is warming much faster than the rest of the planet and releasing greenhouse gases from its thawing soil. Umair Irfan of Vox explains.  
+
+<br> 
+
+<https://www.marketplace.org/2024/12/24/arctic-is-becoming-a-net-emitter-of-greenhouse-gasses/>
+
+---
+
+## Christmas tree farmers in North Carolina struggle through a challenging season
+
+date: 2024-12-24, from: Market Place
+
+Farmers and scientists are concerned Hurricane Helene floodwaters may have spread a deadly fungus to the region's beloved Fraser firs. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/24/christmas-tree-farmers-in-north-carolina-season-fraser-fir-challenge-hurricane-helene/>
+
+---
+
 ## Trump makes bid for Panama Canal and Greenland
 
 date: 2024-12-24, from: VOA News USA
@@ -1042,6 +1318,18 @@ As he prepares to take office in less than a month, President-elect Donald Trump
 <br> 
 
 <https://www.voanews.com/a/trump-makes-bid-for-panama-canal-and-greenland/7912934.html>
+
+---
+
+## Old-school restaurants bank on nostalgia to keep holiday diners coming back
+
+date: 2024-12-24, from: Market Place
+
+Many family-owned eateries are built on tradition. This time of year, they host tradition-seeking regulars coming in for holiday get-togethers. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/24/old-school-restaurants-bank-on-nostalgia-to-keep-holiday-diners-coming-back/>
 
 ---
 
@@ -1084,6 +1372,46 @@ How banks perform on the test informs how much capital they must set aside to me
 <br> 
 
 <https://www.voanews.com/a/big-banks-business-groups-sue-us-federal-reserve-over-annual-stress-tests-/7912850.html>
+
+---
+
+## How Big Food changed the way we eat (rerun)
+
+date: 2024-12-24, from: Market Place, Make me Smart
+
+<p><em>Hey smarties! We’re on a break for the holidays and revisiting some of our top episodes from 2024. We can’t do this show without you and we still need your support. If you can, donate today to keep independent journalism going strong into 2025 and beyond. <a href="https://support.marketplace.org/smart-sn" target="_blank" rel="noreferrer noopener">Give now to support &#8220;Make Me Smart.&#8221;</a> Thank you so much for your generosity, happy holidays and we’ll see you in the new year.</em></p>
+<p>Today we&#8217;re talking about food. Specifically, Big Food. In his book, “Barons: Money, Power, and the Corruption of America’s Food Industry,” Austin Frerick, agricultural and antitrust policy fellow at Yale, argues the food system is the most consolidated sector in the United States. On the show today, Frerick explains how the American food system became so concentrated, how that&#8217;s inflated prices and eroded quality, and what we should do about it. Plus, Walmart&#8217;s role as king of grocery kings.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Then, we&#8217;ll get into why Boeing can&#8217;t keep up with SpaceX. And, an expert on youth mental health <a href="https://www.marketplace.org/shows/make-me-smart/what-we-often-get-wrong-about-teens-and-screen-time/" target="_blank" rel="noreferrer noopener">(and former guest on &#8220;Make Me Smart&#8221;)</a> was wrong about how teens curate their social media feeds.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Here&#8217;s everything else we talked about today:</p>
+<ul>
+<li><a href="https://www.forbes.com/sites/stevebanker/2024/05/14/lax-antitrust-enforcement-imperils-the-nations-supply-chains/?sh=545a28c57308" target="_blank" rel="noreferrer noopener">&#8220;Lax Antitrust Enforcement Imperils The Nation’s Supply Chains&#8221;</a> from Forbes</li>
+<li><a href="https://blog.ucsusa.org/karen-perry-stillerman/what-is-big-ag-and-why-should-you-be-worried-about-them/" target="_blank" rel="noreferrer noopener">&#8220;What Is “Big Ag,” and Why Should You Be Worried About Them?&#8221;</a> from Union of Concerned Scientists</li>
+<li><a href="https://www.nature.com/articles/s43016-021-00297-7" target="_blank" rel="noreferrer noopener">&#8220;The problem with growing corporate concentration and power in the global food system&#8221;</a> from Nature Food</li>
+<li><a href="https://apnews.com/article/retail-price-cuts-inflation-target-65fbc568804f20919a609c594531e129" target="_blank" rel="noreferrer noopener">&#8220;Major retailers are offering summer deals to entice inflation-weary shoppers&#8221;</a> from AP News</li>
+<li><a href="https://www.bloomberg.com/news/articles/2024-05-28/us-consumer-confidence-unexpectedly-rises-tops-all-forecasts" target="_blank" rel="noreferrer noopener">&#8220;US Consumer Confidence Rises for First Time in Four Months&#8221;</a> from Bloomberg</li>
+<li><a href="https://www.axios.com/2024/05/26/inflation-definition-evolution-high-prices" target="_blank" rel="noreferrer noopener">&#8220;Inflation now means high prices, not just rising costs&#8221;</a> from Axios</li>
+<li><a href="https://www.brookings.edu/articles/what-do-americans-think-about-inflation/" target="_blank" rel="noreferrer noopener">&#8220;What do Americans think about inflation?&#8221;</a> from The Brookings Institution</li>
+<li><a href="https://www.bloomberg.com/news/articles/2024-05-24/boeing-nasa-prepare-to-fly-crewed-space-taxi-with-helium-leak?srnd=homepage-americas&amp;sref=F8BwdiK2" target="_blank" rel="noreferrer noopener">&#8220;Boeing Prepared to Fly Crewed Space Taxi With Helium Leak&#8221;</a> from Bloomberg</li>
+</ul>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li style="list-style-type: none">
+<ul><!-- wp:list-item --></ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --></p>
+<p>We love to hear from you. Send your questions and comments to makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/12/24/mms_20241224_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fhow-big-food-changed-the-way-we-eat-rerun&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/12/24/mms_20241224_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fhow-big-food-changed-the-way-we-eat-rerun&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/how-big-food-changed-the-way-we-eat-rerun>
 
 ---
 
@@ -1152,6 +1480,18 @@ RSF acknowledges that broadcasting content without the consent of the producers 
 <br> 
 
 <https://www.voanews.com/a/chad-s-online-journalists-decry-ban-ahead-of-december-29-elections-/7912532.html>
+
+---
+
+## An elite college antitrust suit and the illusion of meritocracy
+
+date: 2024-12-24, from: Market Place
+
+Plaintiffs in a 2022 class-action lawsuit against 17 elite colleges who allege the schools colluded in determining financial aid packages are seeking $685 million in damages. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/24/elite-college-antitrust-suit-meritocracy/>
 
 ---
 
@@ -1226,6 +1566,18 @@ About 90% of Americans traveling far from home over the holidays will be in cars
 <br> 
 
 <https://www.voanews.com/a/american-airlines-operations-up-and-running-again-after-technical-issue-grounded-us-flights/7912411.html>
+
+---
+
+## After reaching a buyout deal, Nordstrom will go private
+
+date: 2024-12-24, from: Market Place
+
+The Nordstrom family will have a majority ownership stake. 
+
+<br> 
+
+<https://www.marketplace.org/2024/12/24/after-reaching-a-buyout-deal-nordstrom-will-go-private/>
 
 ---
 

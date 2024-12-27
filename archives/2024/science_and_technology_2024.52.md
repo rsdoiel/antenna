@@ -1,11 +1,35 @@
 ---
 title: science and technology
-updated: 2024-12-27 07:05:59
+updated: 2024-12-27 09:41:01
 ---
 
 # science and technology
 
-(date: 2024-12-27 07:05:59)
+(date: 2024-12-27 09:41:01)
+
+---
+
+## Microsoft adds another problem to the Windows 11 24H2 naughty list
+
+date: 2024-12-27, updated: 2024-12-27, from: The Register (UK I.T. News)
+
+<h4>Santa Satya pops one more issue into his sack just in time for Christmas</h4> <p>The trickle of known issues with Windows 11 24H2 has continued with a new one just in time for festive season: installed the operating system using removable media? There&#39;s a chance it might stop receiving security updates.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/27/microsoft_windows_11_security_update/>
+
+---
+
+## Hubble Spies a Cosmic Eye
+
+date: 2024-12-27, from: NASA breaking news
+
+This NASA/ESA&#160;Hubble Space Telescope&#160;image features the spiral galaxy NGC 2566, which sits 76 million light-years away in the constellation Puppis. A prominent bar of stars stretches across the center of this galaxy, and spiral arms emerge from each end of the bar. Because NGC 2566 appears tilted from our perspective, its disk takes on an [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hubble-spies-a-cosmic-eye/>
 
 ---
 

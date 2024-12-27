@@ -1,11 +1,11 @@
 ---
 title: ham radio
-updated: 2024-12-27 07:05:59
+updated: 2024-12-27 09:41:00
 ---
 
 # ham radio
 
-(date: 2024-12-27 07:05:59)
+(date: 2024-12-27 09:41:00)
 
 ---
 
@@ -123,7 +123,7 @@ date: 2024-12-26, from: Amateur Radio Relay League News
 
 date: 2024-12-25, from: Amateur Radio Relay League News
 
-<p>ARRL Straight Key Night will be January 1, 2025, from 0000 UTC through 2359 UTC. This 24-hour event is not a contest but rather a day dedicated to celebrating our CW heritage.</p><p><span>articipants are encouraged to get on the air and simply make enjoyable, conversational CW QSOs. The use of straight keys or bugs to send CW is preferred. There are no points scored and all who participate are winners. All ...</span></p> 
+<p>ARRL Straight Key Night is January 1, 2025, from 0000 UTC through 2359 UTC. This 24-hour event is not a contest but rather a day dedicated to celebrating our CW heritage -- radio communications by Morse code.</p><p><span>Participants are encouraged to get on the air and simply make enjoyable, conversational CW QSOs (radio contacts). The use of straight keys or bugs to send CW is preferred. There are no poin...</span></p> 
 
 <br> 
 

@@ -1,11 +1,23 @@
 ---
 title: food
-updated: 2024-12-27 07:06:02
+updated: 2024-12-27 09:41:03
 ---
 
 # food
 
-(date: 2024-12-27 07:06:02)
+(date: 2024-12-27 09:41:03)
+
+---
+
+## Weekly Coffee News: Traders Find Alternatives + What Does ‘Forest’ Mean in EUDR
+
+date: 2024-12-27, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-beans-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee beans" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-beans-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-beans-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-beans-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-beans-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-beans-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Bloomberg: Traders Explore Alternative Hedging Strategies Bloomberg this week... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/27/weekly-coffee-news-traders-find-alternatives-what-does-forest-mean-in-eudr/>
 
 ---
 
@@ -55,7 +67,7 @@ date: 2024-12-27, from: Chili Pepper Madness
 
 date: 2024-12-26, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="home coffee grinders" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee grinders for home use advanced from all angles in 2024, from the purely manual Ousia grinder to the technologically complex Geimori grinder. Meanwhile, motorization kits from the likes of... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="home coffee grinders" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee grinders for home use advanced from all angles in 2024, from the purely manual Ousia grinder to the technologically complex Geimori grinder. Meanwhile, motorization kits from the likes of... 
 
 <br> 
 
@@ -124,7 +136,7 @@ date: 2024-12-25, from: Closet Cooking
 
 date: 2024-12-24, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="2024 coffee business news stories" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Historically high coffee prices, new regulations such as EUDR, climate change and increased demand of high-quality coffees squeezed coffee businesses of all sizes this year, creating what many characterized as... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="2024 coffee business news stories" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Historically high coffee prices, new regulations such as EUDR, climate change and increased demand of high-quality coffees squeezed coffee businesses of all sizes this year, creating what many characterized as... 
 
 <br> 
 

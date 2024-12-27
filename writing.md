@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2024-12-27 07:06:00
+updated: 2024-12-27 09:41:01
 ---
 
 # writing
 
-(date: 2024-12-27 07:06:00)
+(date: 2024-12-27 09:41:01)
+
+---
+
+## Sargassa by Sophie Burnham: Review by Liz Bourke
+
+date: 2024-12-27, from: Locus Magazine
+
+<p><strong>Sargassa</strong>, Sophie Burnham (DAW 978-0-7564-1936-3, $28.00, 416pp, hc) October 2024.</p>
+<p>Sophie Burnham’s <strong>Sargassa </strong>is another first novel, and another novel that flits with playful seriousness between the trappings of fantasy, science fiction, and alternate history, using all three to question and upend the reader’s assumptions about the world of the novel (and perhaps the world at large) and how it works. <strong>Sargassa </strong>takes the aura of Rome – perennial  <a href="https://locusmag.com/2024/12/sargassa-by-sophie-burnham-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/sargassa-by-sophie-burnham-review-by-liz-bourke/>
 
 ---
 

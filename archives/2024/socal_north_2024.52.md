@@ -1,11 +1,49 @@
 ---
 title: socal north
-updated: 2024-12-27 07:05:58
+updated: 2024-12-27 09:41:00
 ---
 
 # socal north
 
-(date: 2024-12-27 07:05:58)
+(date: 2024-12-27 09:41:00)
+
+---
+
+## The Transiting Los Angeles Podcast – #10: Miles in Transit
+
+date: 2024-12-27, from: Transiting Los Angeles
+
+Over the course of a single weekend, YouTuber and musician Miles in Transit attempted to ride every single one of L.A. County's many transit systems. In this podcast episode, we discuss how it went, why the region's transit network is so fragmented, and the good as well as the bad of L.A. transit. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://transitinglosangeles.com/wp-content/uploads/2024/12/milesintransit.mp3"></source>
+</audio> <a href="https://transitinglosangeles.com/wp-content/uploads/2024/12/milesintransit.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://transitinglosangeles.com/2024/12/27/podcast-10-miles-in-transit/>
+
+---
+
+## Miles in Transit, and L.A.’s many many bus systems
+
+date: 2024-12-27, from: Transiting Los Angeles
+
+Over the course of a single weekend, YouTuber and musician Miles in Transit attempted to ride every single one of L.A. County's many transit systems. In our interview, we discuss how it went, why the region's transit network is so fragmented, and the good as well as the bad of L.A. transit. 
+
+<br> 
+
+<https://transitinglosangeles.com/2024/12/27/miles-in-transit/>
+
+---
+
+## 2024 year in review: How did California pay for everything?
+
+date: 2024-12-27, updated: 2024-12-27, from: The LAist
+
+How’d lawmakers close this year’s budget chasm? For starters, they pulled $12 billion from the state’s reserves for the next two years. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-year-in-review-how-did-california-pay-for-everything>
 
 ---
 

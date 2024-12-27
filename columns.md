@@ -1,11 +1,67 @@
 ---
 title: columns
-updated: 2024-12-27 07:05:59
+updated: 2024-12-27 09:41:01
 ---
 
 # columns
 
-(date: 2024-12-27 07:05:59)
+(date: 2024-12-27 09:41:01)
+
+---
+
+##  You can use this game to narrow down 30 monospaced typefaces to... 
+
+date: 2024-12-27, updated: 2024-12-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045919-you-can-use-this-game>
+
+---
+
+##  The most popular Wikipedia articles of 2024 (thru Nov 22), including Deaths... 
+
+date: 2024-12-27, updated: 2024-12-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045910-the-most-popular-wikipedi>
+
+---
+
+##  Costco Board Pushes Back Against Anti-DEI Activists 
+
+date: 2024-12-27, updated: 2024-12-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/costco-board-pushes-back-against-anti-dei-activists>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-27, from: Dave Winer's Scripting News)
+
+BTW, as a longtime speaker of English <i>and</i> programmer, I think the term <a href="https://en.wikipedia.org/wiki/Code_refactoring">refactoring</a> is re-dundant. The term comes from mathematics where you simplify a statement without altering its truth. Factoring is a repetitive process. You factor, and then factor some more if you can. 
+
+<br> 
+
+<http://scripting.com/2024/12/27.html#a153648>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-27, from: Dave Winer's Scripting News)
+
+We should be thinking about a new SQL that's much higher level. Another layer. Get all the efficiencies of a <a href="https://en.wikipedia.org/wiki/SQL#History">50+ year platform</a>, with all the understanding gained at the top level in all that time. Most of the learning I did in the last five years can be hidden behind a much simpler programming interface, imho. It's worth trying <a href="https://en.wikipedia.org/wiki/Code_refactoring">factor</a>, again imho. 
+
+<br> 
+
+<http://scripting.com/2024/12/27.html#a152504>
 
 ---
 

@@ -9,7 +9,6 @@ Collection                                          Description of Posts        
 ---------------------------------                   --------------------------------------------------------------     --------------------------------
 [SoCal North](socal_north.html)                     Northern end of Southern California                                [socal_north.txt](socal_north.txt)
 [Pacific](pacific.html)                             Micronesia, Hawaii and the Pacific                                 [pacific.txt](pacific.txt)
-[Central Coast](central_coast.html)                 Califronia's Central Coast                                         [central_coast.txt](central_coast.txt)
 [North America](north_america.html)                 North America                                                      [north_america.txt](north_america.txt)
 [Home, Garden & Urban Farm](home.html)              Home, Garden & Urban blogs and news                                [home.txt](home.txt)
 [Good Eats, Healthy Eats](food.html)                Healthy Eats, Good Eats                                            [food.txt](foot.txt)

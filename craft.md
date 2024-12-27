@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-12-27 07:06:02
+updated: 2024-12-27 09:41:04
 ---
 
 # craft
 
-(date: 2024-12-27 07:06:02)
+(date: 2024-12-27 09:41:04)
+
+---
+
+## Download ‘Ingenious Mechanicks’ For Free – Today and Always
+
+date: 2024-12-27, from: Lost Arg Press blog
+
+My book on Roman workbenches and early workholding is now a free download for everyone. You don’t have to register, or give up your email, or sign up for sausage-making lessons. You can just click here, and the download will begin. If you forget to do this, you can always go to the book’s page... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/27/download-ingenious-mechanicks-for-free-today-and-always/>
 
 ---
 

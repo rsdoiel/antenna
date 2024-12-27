@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2024-12-27 07:06:00
+updated: 2024-12-27 09:41:01
 ---
 
 # games
 
-(date: 2024-12-27 07:06:00)
+(date: 2024-12-27 09:41:01)
+
+---
+
+## Pokémon Go backpacks get bigger to hold more of your ‘mons
+
+date: 2024-12-27, updated: 2024-12-27, from: Polygon Website
+
+If there’s a point to the Pokémon games, it’s that you’ve gotta catch ‘em all. In Pokémon Go, the player is consistently incentivized to catch critters — even if they have a Pikachu in their Pokédex, there are reasons to capture more of them. The app’s developer, Niantic, has announced that players will have more [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/502475/pokemon-go-storage-pokemon-space-increase>
+
+---
+
+## Lower Decks’ final episodes are a reason to love the multiverse
+
+date: 2024-12-27, updated: 2024-12-26, from: Polygon Website
+
+[Ed. note: This piece contains spoilers for the penultimate episode of Star Trek: Lower Decks.] Captain William Boimler, the lead of part one of Star Trek: Lower Decks’ two-part series finale, has a problem that a lot of modern nerds can probably relate to. His secret mission is to hunt down someone who’s been punching [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-trek/501994/lower-decks-fissure-quest-review-multiverse>
+
+---
+
+## Anora actor admits his notorious button-mashing scene was a win in the end
+
+date: 2024-12-27, updated: 2024-12-27, from: Polygon Website
+
+Anora is one of 2024’s big indie success stories, an Oscar hopeful after winning big at the Cannes Film Festival over the summer, and among the best films of the year. Sean Baker (The Florida Project, Red Rocket) continues his American neorealist streak by dropping into New York’s Russian-American community in Brighton Beach to see [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/features/502462/anora-video-game-scene>
 
 ---
 
@@ -35,7 +71,7 @@ What’s the best movie I can watch on Netflix? We’ve all asked ourselves this
 
 ## Squid Game season 2 probes the true nature of man — and gets closer than you’d think
 
-date: 2024-12-27, updated: 2024-12-26, from: Polygon Website
+date: 2024-12-27, updated: 2024-12-27, from: Polygon Website
 
 Squid Game season 2 isn’t here to give us resolution. Rather, it follows a similar trajectory of The Hunger Games’ Catching Fire: Now wealthy Gi-hun (Lee Jung-jae) returns to the games, desperate to shut them down once and for all. The stakes are technically the same as the first season — you win or you die [&#8230;] 
 
