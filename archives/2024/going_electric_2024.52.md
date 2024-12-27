@@ -1,11 +1,191 @@
 ---
 title: going electric
-updated: 2024-12-26 07:05:13
+updated: 2024-12-27 07:06:02
 ---
 
 # going electric
 
-(date: 2024-12-26 07:05:13)
+(date: 2024-12-27 07:06:02)
+
+---
+
+## Hyundai May Test Solid-State Batteries In 2025: Report
+
+date: 2024-12-27, from: Inside EVs News
+
+The automaker is reportedly building a pilot production line for solid-state batteries in Korea, gearing up for testing next year. 
+
+<br> 
+
+<https://insideevs.com/news/745589/hyundai-solid-state-battery-testing/>
+
+---
+
+## BYD is offering free car insurance on select EVs in new end-of-year sales promo
+
+date: 2024-12-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/BYD-largest-automaker-RD-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s EV leader wants to close the year strong with a new sales promotion. <a href="https://electrek.co/guides/byd/">BYD</a> is now offering free car insurance on certain EVs ahead of the upcoming Chinese New Year. Will it be enough to take the global EV sales crown in 2024?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="395311" href="https://electrek.co/2024/12/26/byd-offering-free-insurance-select-evs-year-end-sales-push/#more-395311" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/26/byd-offering-free-insurance-select-evs-year-end-sales-push/>
+
+---
+
+## The rate at which China has transformed its car industry is truly staggering
+
+date: 2024-12-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/ZEEKR-001-FR-Launch-China.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After starting off slow, China’s EV industry has reorganized itself in record time, going from a global laggard to the global leader in about 5 years – showing other countries how it ought to be done.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china" data-layer-viewtype="unknown" data-post-id="395299" href="https://electrek.co/2024/12/26/the-rate-at-which-china-has-rebuilt-its-car-industry-is-truly-staggering/#more-395299" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/26/the-rate-at-which-china-has-rebuilt-its-car-industry-is-truly-staggering/>
+
+---
+
+## Kia’s new Syros SUV is going electric as a low-cost Hyundai Inster EV twin
+
+date: 2024-12-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Kia-Syros-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia introduced its new Syros SUV last week. Although it was launched with a gas-powered engine,<span style="margin: 0px; padding: 0px;"> <a href="https://electrek.co/guides/kia/" target="_blank">Kia</a></span> plans to launch the all-electric version soon. The new Kia Syros EV will share underpinnings with the Hyundai Inster EV as its latest low-cost electric model.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia" data-layer-viewtype="unknown" data-post-id="395300" href="https://electrek.co/2024/12/26/kias-new-syros-suv-going-electric-low-cost-ev/#more-395300" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/26/kias-new-syros-suv-going-electric-low-cost-ev/>
+
+---
+
+## Hyundai’s all-solid-state EV batteries are on the verge of a major milestone
+
+date: 2024-12-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Hyundais-all-solid-state-ev-batteries.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><span style="margin: 0px; padding: 0px;"><a href="https://electrek.co/guides/hyundai/" target="_blank">Hyundai</a> is about to take the next steps as it preps to launch production of its “game-changi</span>ng” all-solid-state batteries. The new EV battery tech promises a longer driving range, faster charging, and significantly higher energy density. Here’s what to expect.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-motor-group,solid-state-batteries,solid-state-battery" data-layer-viewtype="unknown" data-post-id="395287" href="https://electrek.co/2024/12/26/hyundais-all-solid-state-ev-batteries-on-verge-of-milestone/#more-395287" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/26/hyundais-all-solid-state-ev-batteries-on-verge-of-milestone/>
+
+---
+
+## Think EVs Are Bad In Winter? Here's Where They Have A Huge Advantage
+
+date: 2024-12-26, from: Inside EVs News
+
+Worried about driving electric when the weather gets bad? Here's where an EV might even be better than a gas car. 
+
+<br> 
+
+<https://insideevs.com/news/745477/ev-winter-driving-benefits-traction/>
+
+---
+
+## BYD’s new EV plant in Brazil suddenly halted over ‘slavery’ worker conditions [Update]
+
+date: 2024-12-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/BYD-cheapest-electric-car.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Construction at <a href="https://electrek.co/guides/byd/">BYD’s</a> new EV plant in Brazil was suddenly halted Monday after authorities found Chinese workers in “slavery-like” conditions. The workers were hired in China by another firm, and BYD has since cut ties. BYD and the firm are now saying the term “slavery” was unjustly used, and some translations may have been misunderstood.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="395167" href="https://electrek.co/2024/12/26/byds-ev-plant-brazil-suddenly-halted-heres-why-update/#more-395167" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/26/byds-ev-plant-brazil-suddenly-halted-heres-why-update/>
+
+---
+
+## Tesla is rumored to have signed battery cell supply agreement with EVE
+
+date: 2024-12-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/Tesla-extended-warranty-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is rumored to have signed a battery cell supply agreement with EVE Energy, a Chinese battery cell manufacturer.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="395281" href="https://electrek.co/2024/12/26/tesla-is-rumored-to-have-signed-battery-cell-supply-agreement-with-eve/#more-395281" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/26/tesla-is-rumored-to-have-signed-battery-cell-supply-agreement-with-eve/>
+
+---
+
+## 'Hybrids Are A Road To Hell' In EV Race Against China: Former Nissan Exec
+
+date: 2024-12-26, from: Inside EVs News
+
+Plus, BYD is accused of 'slavery-like' conditions and Hertz doesn't want rented Teslas back. 
+
+<br> 
+
+<https://insideevs.com/news/745522/hybrids-road-to-hell-china/>
+
+---
+
+## ‘Like your Tesla rental? Want to keep it?’ Hertz is trying to unload its Tesla cars on renters
+
+date: 2024-12-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-uber-hertz.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Hertz is trying to sell its Tesla cars to renters as it desperately tries to unload its electric vehicle inventory after a massive drop in value.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="395241" href="https://electrek.co/2024/12/26/like-your-tesla-rental-want-to-keep-it-hertz-is-trying-to-unload-its-tesla-cars-on-renters/#more-395241" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/26/like-your-tesla-rental-want-to-keep-it-hertz-is-trying-to-unload-its-tesla-cars-on-renters/>
+
+---
+
+## Hyundai IONIQ 5 set a new EV World Record after taking on the highest driveable road
+
+date: 2024-12-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Hyundai-IONIQ-5-world-record.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s electric SUV has just earned its place in history books. The <a href="https://electrek.co/guides/hyundai-ioniq-5/">Hyundai IONIQ 5</a> set a new Guinness World Record after braving the highest driveable road.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="395237" href="https://electrek.co/2024/12/26/hyundai-ioniq-5-set-new-guinness-world-record-evs/#more-395237" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/26/hyundai-ioniq-5-set-new-guinness-world-record-evs/>
+
+---
+
+## NIO adds new Signature Edition trim of the ET9 after Limited Edition sells out in 12 hours
+
+date: 2024-12-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/NIO-ET9-front-side.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s only been five days since NIO officially launched its top-tier luxury sedan, the ET9, but the early buzz in China has been encouraging. The BEV will launch in 2025, beginning with a Limited Edition trim that sold out in the first 12 hours, so <a href="https://electrek.co/guides/nio/">NIO</a> has introduced another limited production run called the ET9 Signature Edition.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nio,nio-et9" data-layer-viewtype="unknown" data-post-id="395255" href="https://electrek.co/2024/12/26/nio-adds-signature-edition-trim-et9-after-limited-edition-sells-12-hours/#more-395255" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/26/nio-adds-signature-edition-trim-et9-after-limited-edition-sells-12-hours/>
 
 ---
 
@@ -49,7 +229,7 @@ date: 2024-12-26, from: Electrek Feed
 
 date: 2024-12-26, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/49955371473_88d5a640e0_b.jpg?quality=82&#038;strip=all&#038;w=1024" /></div><p>Ford, General Motors, and Toyota North America are donating $1 million each to incoming president Donald Trump’s January inauguration. Ford and GM are throwing in a fleet of vehicles for the January 20 event, too, for good measure.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/49955371473_88d5a640e0_b.jpg?quality=82&#038;strip=all&#038;w=1024" /></div><p>Ford, General Motors, and Toyota North America are donating $1 million each to incoming president Donald Trump’s upcoming inauguration. Ford and GM are throwing in a fleet of vehicles for the January 20th event, too, for good measure.</p>
 
 
 

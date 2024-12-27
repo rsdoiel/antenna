@@ -1,11 +1,207 @@
 ---
 title: socal north
-updated: 2024-12-26 07:05:10
+updated: 2024-12-27 07:05:58
 ---
 
 # socal north
 
-(date: 2024-12-26 07:05:10)
+(date: 2024-12-27 07:05:58)
+
+---
+
+## Popeye, Tintin and more will enter the public domain in the new year
+
+date: 2024-12-27, updated: 2024-12-27, from: The LAist
+
+The copyrights of thousands of 20th-century films, books, compositions and sound recordings expire on Jan. 1, making them free for anyone to share and adapt. Here are some of the highlights. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/popeye-tintin-and-more-will-enter-the-public-domain-in-the-new-year>
+
+---
+
+## 100-plus cities, including in SoCal, banned homeless camping this year. But will it work?
+
+date: 2024-12-27, updated: 2024-12-27, from: The LAist
+
+The burst of new laws follows a landmark Supreme Court ruling and reflects public frustration with record-high homelessness. But advocates say fines and jail time will only make the problem worse. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/cities-socal-homeless-camping-bans-this-year>
+
+---
+
+## High surf returns to SoCal beaches
+
+date: 2024-12-27, updated: 2024-12-27, from: The LAist
+
+High surf will continue along Ventura and L.A. county beaches through Sunday 
+
+<br> 
+
+<https://laist.com/news/climate-environment/more-high-surf-pummeling-socal-beaches>
+
+---
+
+## What you need to know for the 2025 Rose Parade
+
+date: 2024-12-27, updated: 2024-12-27, from: The LAist
+
+Thousands of people will flock to Pasadena, with millions more tuning in on TV. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/2025-rose-parade-what-to-know-guide>
+
+---
+
+## Four specialty LA cheese stores help you elevate your New Year's spread
+
+date: 2024-12-27, updated: 2024-12-27, from: The LAist
+
+Why not make 2025 a cheesy delight? 
+
+<br> 
+
+<https://laist.com/news/food/specialty-la-cheese-stores-offer-new-years-ideas>
+
+---
+
+## My 12 most memorable LA bites in 2024
+
+date: 2024-12-27, updated: 2024-12-27, from: The LAist
+
+LAist food editor Gab Chabran recalls some memorable bites he had throughout SoCal this past year. 
+
+<br> 
+
+<https://laist.com/news/food/my-12-most-memorable-la-bites-in-2024>
+
+---
+
+## Malaysian cuisine is ready for its close-up with Rasarumah in Historic Filipinotown
+
+date: 2024-12-27, updated: 2024-12-27, from: The LAist
+
+Chef Johnny Lee, formerly of the much-loved Pearl River Deli, has partnered with the group behind Barra Santos, Found Oyster, and opened a restaurant focused on Malaysian and Southeast Asian flavors. 
+
+<br> 
+
+<https://laist.com/news/food/malaysian-cuisine-is-ready-for-its-close-up-with-rasarumah-in-historic-filipinotown>
+
+---
+
+## More family leave pay in California starting in January
+
+date: 2024-12-27, updated: 2024-12-27, from: The LAist
+
+Starting in January, California will increase leave payments for workers caring for a new child or a sick family member. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/more-family-leave-pay-california-january-2025>
+
+---
+
+## The 'Beyoncé Bowl' halftime show was a massive hit for Netflix. The football was too
+
+date: 2024-12-26, updated: 2024-12-26, from: The LAist
+
+Netflix says more than 200 countries tuned into the "Beyoncé Bowl" and its two NFL games. We may just be starting to learn what that ultimately means for the future of television and sports media. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/beyonce-bowl-halftime-show-netflix-nfl-football>
+
+---
+
+## Man Fatally Shot Christmas Day in Panorama City
+
+date: 2024-12-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ANGELES (CNS) &#8211; A 30-year-old man was fatally shot during an argument with another man on Christmas Day in Panorama City, authorities said today. The shooting occurred around 8:50 [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/26/man-fatally-shot-christmas-day-in-panorama-city/">Man Fatally Shot Christmas Day in Panorama City</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/26/man-fatally-shot-christmas-day-in-panorama-city/>
+
+---
+
+## With holiday cheer comes holiday waste. Here's how to reduce yours
+
+date: 2024-12-26, updated: 2024-12-26, from: The LAist
+
+We throw a lot more stuff away during the holidays. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/holiday-cheer-waste-how-to-reduce-yours>
+
+---
+
+## 10 great SoCal walks after all that holiday food and drink
+
+date: 2024-12-26, updated: 2024-12-27, from: The LAist
+
+Did you eat and drink your fill at the holiday buffet? Us too! Now, we have some ideas of where you can get some steps in and enjoy Southern California at its finest. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/great-socal-hikes-to-start-walking-off-all-that-holiday-food>
+
+---
+
+## Most medical debt can no longer hurt your credit score under new California law
+
+date: 2024-12-26, updated: 2024-12-26, from: The LAist
+
+This is a big deal for California where millions struggle with unpaid medical bills. It takes effect Jan. 1, 2025. 
+
+<br> 
+
+<https://laist.com/news/health/most-medical-debt-can-no-longer-hurt-your-credit-score-under-new-california-law>
+
+---
+
+## 5 must-read books of 2024: A mix of fiction, fantasy and flavor
+
+date: 2024-12-26, updated: 2024-12-26, from: The LAist
+
+A list of standout books from 2024. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/must-read-books-2024>
+
+---
+
+## Connecting With the Community
+
+date: 2024-12-26, from: City of Santa Clarita
+
+<p>Councilmember Patsy Ayala Santa Clarita is a special place. It is the City where I chose to make my home, raise my family and now serve the community as a City Councilmember. For those of you whom I haven’t had the pleasure of meeting, I would like to take this opportunity to introduce myself. My [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/12/26/connecting-with-the-community/">Connecting With the Community</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/12/26/connecting-with-the-community/>
+
+---
+
+## Get up to speed fast on these new California laws taking effect in 2025
+
+date: 2024-12-26, updated: 2024-12-26, from: The LAist
+
+Here are some of the most noteworthy new 2025 California laws, from cannabis cafes to voter ID bans, that go into effect Jan. 1. 
+
+<br> 
+
+<https://laist.com/news/politics/new-california-laws-taking-effect-in-2025>
 
 ---
 

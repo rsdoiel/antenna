@@ -1,11 +1,344 @@
 ---
 title: pacific
-updated: 2024-12-26 07:05:10
+updated: 2024-12-27 07:05:59
 ---
 
 # pacific
 
-(date: 2024-12-26 07:05:10)
+(date: 2024-12-27 07:05:59)
+
+---
+
+## Plane crash investigators focus on Russian air defenses as possible cause
+
+date: 2024-12-27, from: Hawaii Tribune Harold
+
+
+				<p>As authorities in several countries tried to determine what caused the deadly crash of a passenger airplane in Kazakhstan, investigators and experts Thursday were focusing on the possibility that a Russian air defense system had struck the plane.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/27/nation-world-news/plane-crash-investigators-focus-on-russian-air-defenses-as-possible-cause/>
+
+---
+
+## In some doctors’ offices, the weigh-in is no longer required
+
+date: 2024-12-27, from: Hawaii Tribune Harold
+
+
+				<p>Until she was in her mid-30s, Xanthia Walker rarely went to the doctor, even when she needed care. She didn&#8217;t want to step on the scale. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/27/nation-world-news/in-some-doctors-offices-the-weigh-in-is-no-longer-required/>
+
+---
+
+## New US jobless claims slip, but people are remaining unemployed for longer
+
+date: 2024-12-27, from: Hawaii Tribune Harold
+
+
+				<p>The number of Americans filing new applications for jobless benefits dipped to the lowest in a month last week, consistent with a cooling but still-healthy U.S. labor market that is likely to keep Federal Reserve officials from cutting interest rates any further in the near term.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/27/nation-world-news/new-us-jobless-claims-slip-but-people-are-remaining-unemployed-for-longer/>
+
+---
+
+## Continued Hawaii airline seat reductions are expected
+
+date: 2024-12-27, from: Hawaii Tribune Harold
+
+
+				<p>The outlook for Hawaii air service in 2025 remains down, especially after adjustments from Southwest Airlines and following Alaska Airlines&#8217; purchase of Hawaiian Airlines.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/27/hawaii-news/continued-hawaii-airline-seat-reductions-are-expected/>
+
+---
+
+## DOH issues recall alert Systane brand eye drops
+
+date: 2024-12-27, from: Hawaii Tribune Harold
+
+
+				<p>A recall has been issued for Systane Lubricant Eye Drops (Ultra PF single vials On-the-Go, 25 count) because of potential fungal contamination, according to the state Department of Health&#8217;s Food and Drug Branch.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/27/hawaii-news/doh-issues-recall-alert-systane-brand-eye-drops/>
+
+---
+
+## The deadliest tsunami set off work to be ready for the next big wave
+
+date: 2024-12-27, from: Hawaii Tribune Harold
+
+
+				<p>The Indian Ocean tsunami in 2004, one of the deadliest events in recorded history, was an enigma to many survivors. Some experts were surprised to learn that a significant number of the people in the path of those lethal waves had never heard of such a destructive phenomenon until it came their way. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/27/nation-world-news/the-deadliest-tsunami-set-off-work-to-be-ready-for-the-next-big-wave/>
+
+---
+
+## The speed of human thought lags far behind your internet connection, study finds
+
+date: 2024-12-27, from: Hawaii Tribune Harold
+
+
+				<p>In our digital age, few things are more irritating than a slow internet connection. Your web browser starts to lag. On video calls, the faces of your friends turn to frozen masks. When the flow of information dries up, it can feel as if we are cut off from the world. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/27/nation-world-news/the-speed-of-human-thought-lags-far-behind-your-internet-connection-study-finds/>
+
+---
+
+## Will the US ever be ready for a female president?
+
+date: 2024-12-27, from: Hawaii Tribune Harold
+
+
+				<p>Former President Bill Clinton and Sen. Lindsey Graham, R-S.C., don&#8217;t agree on much. Yet, recently the ideological adversaries found some common ground on a political question that has quietly endured over nearly two decades. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/27/nation-world-news/will-the-us-ever-be-ready-for-a-female-president/>
+
+---
+
+## Search continues for two Hale Nani escapees
+
+date: 2024-12-27, from: Hawaii Tribune Harold
+
+
+				<p>Two men who escaped Dec. 13 from Hawaii Community Correctional Center&#8217;s Hale Nani facility were still at large Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/27/hawaii-news/search-continues-for-two-hale-nani-escapees/>
+
+---
+
+## Female robbery suspect sought
+
+date: 2024-12-27, from: Hawaii Tribune Harold
+
+
+				<p>Police are asking for the public&#8217;s help to identify a female robbery suspect in an incident that took place at 5:30 a.m. on Wednesday, Dec. 11, at a grocery store on Makaala Street in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/27/hawaii-news/female-robbery-suspect-sought/>
+
+---
+
+## Guatemala open to accepting Trump’s Central American deportees, sources say
+
+date: 2024-12-27, from: Hawaii Tribune Harold
+
+
+				<p>MEXICO CITY &#8212; Guatemala is open to receiving citizens of other Central American nations who are deported from the United States, three sources familiar with the matter said, as the country looks to build a positive relationship with the incoming Trump administration. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/27/nation-world-news/guatemala-open-to-accepting-trumps-central-american-deportees-sources-say/>
+
+---
+
+## New York to fine fossil fuel companies $75 billion under new climate law
+
+date: 2024-12-27, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; New York state will fine fossil fuel companies a total of $75 billion over the next 25 years to pay for damage caused to the climate under a bill Governor Kathy Hochul signed into law on Thursday. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/27/nation-world-news/new-york-to-fine-fossil-fuel-companies-75-billion-under-new-climate-law/>
+
+---
+
+## How they celebrated the holidays 250 miles above Earth
+
+date: 2024-12-27, from: Hawaii Tribune Harold
+
+
+				<p>In June, two NASA astronauts, Suni Williams and Butch Wilmore, set out for what was expected to be an eight-day trip to the International Space Station. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/27/nation-world-news/how-they-celebrated-the-holidays-250-miles-above-earth/>
+
+---
+
+## Nation and world news in brief for December 27
+
+date: 2024-12-27, from: Hawaii Tribune Harold
+
+
+				<p>Finland boards oil tanker suspected of causing internet, power cable outages</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/27/nation-world-news/nation-and-world-news-in-brief-for-december-27/>
+
+---
+
+## 2024 in Review: Reflections on mission and progress
+
+date: 2024-12-27, from: Pacific Island Times
+
+U.S. Indo-Pacific Command established JTF-M to strengthen regional cooperation and provide a unified U.S. presence in one of the most strate 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/2024-in-review-reflections-on-mission-and-progress>
+
+---
+
+## Hawaiian Airlines Diamond Head Classic moves to November, adds women’s event
+
+date: 2024-12-26, from: University of Hawaiʻi News
+
+<p>The tournament has featured some of the best players and programs in college basketball.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/26/diamond-head-classic-moves-to-november/">Hawaiian Airlines Diamond Head Classic moves to November, adds women’s event</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/26/diamond-head-classic-moves-to-november/>
+
+---
+
+## More buying, less singing
+
+date: 2024-12-26, from: Marshal Islands Journal
+
+<p>Journal 1/1/1982 P1 More spending, less singingChristmas and money; money and Christmas. There seems to be a correlation between the two. In the few days before Christmas, stores around the capital were crowded with shoppers, particularly at Robert Reimers store. People were buying like crazy. Like there was no tomorrow. It seems like the spirit [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/more-buying-less-singing/">More buying, less singing</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/more-buying-less-singing/>
+
+---
+
+## Crowne Plaza Resort Saipan ushers in 2025 with exciting New Year’s offers!
+
+date: 2024-12-26, updated: 2024-12-26, from: Marianas Variety
+
+(Special Advertising Feature) — Celebrate the arrival of 2025 at Crowne Plaza Resort Saipan! We are thrilled to announce our much-anticipated New Year’s Eve Countdown Party on December 31, from 9 p.m. to 1 a.m. With free entry for everyone, it’s the perfect opportunity to gather your family and friends for a memorable start to 2025! 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/crowne-plaza-resort-saipan-ushers-in-2025-with-exciting-new-year-s-offers/article_dcd7ed86-c354-11ef-9d97-efd0abb45c6b.html>
+
+---
+
+## Manta Ray Battalion cadets hold annual Christmas Canned Food Drive
+
+date: 2024-12-26, updated: 2024-12-26, from: Marianas Variety
+
+ON Dec. 18, 2024, the Manta Ray Battalion cadets and their JROTC instructor were again spreading holiday cheer with their annual Christmas Canned Food Drive. This initiative, aimed at supporting local needy families, has become a beloved tradition in the community. Cadets collected non-perishable food items throughout November and December, setting an ambitious goal to gather cans of food. The drive also encouraged donations from the cadets and families. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/manta-ray-battalion-cadets-hold-annual-christmas-canned-food-drive/article_117729bc-c350-11ef-b135-ef7e0ff5a776.html>
+
+---
+
+## Wenliang Ma’s jury trial set for Jan. 14
+
+date: 2024-12-26, updated: 2024-12-26, from: Marianas Variety
+
+THE jury trial of Wenliang Ma, who was arrested on Guam on June 23, 2024, has been scheduled for Jan. 14, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/wenliang-ma-s-jury-trial-set-for-jan-14/article_acd26f04-c38f-11ef-9b87-67ecceb3f9f2.html>
+
+---
+
+## China, Japan foreign ministers agree on visit, security dialogue
+
+date: 2024-12-26, updated: 2024-12-26, from: Marianas Variety
+
+BEIJING/TOKYO (Reuters) — Talks between China and Japan's foreign ministers in Beijing have paved way for Japan to host China's foreign affairs chief next year, and mutual agreement to hold a security dialogue as soon as possible, Japan said on Wednesday. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/china-japan-foreign-ministers-agree-on-visit-security-dialogue/article_9d0fbf08-c390-11ef-bc77-f7f24e6b7f6a.html>
+
+---
+
+## NMI gets $48.6M in EPA grant for EVs
+
+date: 2024-12-26, updated: 2024-12-26, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios on Thursday announced that the CNMI was awarded a $48.6 million grant by the U.S. Environmental Protection Agency under its Clean Heavy-Duty Vehicles Grant Program. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/nmi-gets-48-6m-in-epa-grant-for-evs/article_58496758-c349-11ef-8980-dbdce5cee834.html>
+
+---
+
+## District 204 Lions bring joy to EIS children with toy donations
+
+date: 2024-12-26, updated: 2024-12-26, from: Marianas Variety
+
+IN the spirit of giving, the Lions Club International, District 204, Region 2 donated toy gifts for the children of the Public School System’s Early Intervention Services on Dec. 19. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/district-204-lions-bring-joy-to-eis-children-with-toy-donations/article_0f563d86-c390-11ef-995d-377ae9413b96.html>
+
+---
+
+## Miss Earth Northern Marianas spreads holiday cheer with toy donations
+
+date: 2024-12-26, updated: 2024-12-26, from: Marianas Variety
+
+2024 Miss Earth Northern Marianas, Heavenly Pangelinan, helped make the holidays merry and bright for local children by collecting, wrapping, and delivering toys around the island on Dec. 23. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/miss-earth-northern-marianas-spreads-holiday-cheer-with-toy-donations/article_b1bc4f0a-c32e-11ef-b165-d37526844973.html>
+
+---
+
+## Diplomats join Santa team
+
+date: 2024-12-26, from: Marshal Islands Journal
+
+<p>The diplomatic community was out in force for the annual Christmas Parade last Saturday, joining with numerous businesses, Majuro Atoll Local Government and the Marshall Islands Chamber of Commerce. Taiwan Ambassador Steve Hsia, US Embassy Deputy Chief of Mission Lance Posey and Australian Ambassador Paul Wilson were all seen happily handing out goodies to children [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/diplomats-join-santa-team/">Diplomats join Santa team</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/diplomats-join-santa-team/>
 
 ---
 
@@ -146,6 +479,48 @@ date: 2024-12-26, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/12/26/nation-world-news/elon-musk-is-creating-his-own-texas-town-hundreds-already-live-there/>
+
+---
+
+## Prepping students for college
+
+date: 2024-12-26, from: Marshal Islands Journal
+
+<p>WILMER JOEL The College of the Marshall Islands has a new director overseeing operations at the Upward Bound program. With a master&#8217;s degree in Curriculum Studies, Pam Kaious began working in May and is now in charge of managing Upward Bound’s planning, execution, and accountability in addition to making sure that all grant requirements are [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/prepping-students-for-college/">Prepping students for college</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/prepping-students-for-college/>
+
+---
+
+## Schools get water stations
+
+date: 2024-12-26, from: Marshal Islands Journal
+
+<p>Six Majuro schools now have access to safe drinking water systems that use filtered rain water. The program to get reliable and safe drinking water was implemented by the RMI EPA in partnership with donors the Pacific Community known as SPC and the New Zealand Ministry of Foreign Affairs and Trade. Water stations were built [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/schools-get-water-stations/">Schools get water stations</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/schools-get-water-stations/>
+
+---
+
+## Santa Claus hits town
+
+date: 2024-12-25, from: Marshal Islands Journal
+
+<p>Santa — in the form of Dr. David Ackley — and the team came on wheels last weekend in the Chamber of Commerce’s 35th annual Christmas Parade. Residents received candies and goodies from the nine floats that started from Rita and headed to Laura. Even the pets came out to greet the paraders. The children [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/santa-claus-hits-town/">Santa Claus hits town</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/santa-claus-hits-town/>
 
 ---
 

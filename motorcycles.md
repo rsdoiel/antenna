@@ -1,11 +1,97 @@
 ---
 title: motorcycles
-updated: 2024-12-26 07:05:12
+updated: 2024-12-27 07:06:01
 ---
 
 # motorcycles
 
-(date: 2024-12-26 07:05:12)
+(date: 2024-12-27 07:06:01)
+
+---
+
+## Snowmobile Avalanche Reports Are Being Affected By the Forest Service's Budget Cuts
+
+date: 2024-12-27, from: Ride Apart, Electric Motorcycle News
+
+Budget cuts now affect snowmobilers' safety. 
+
+<br> 
+
+<https://www.rideapart.com/news/745551/snowmobile-avalanche-reports-budget-cuts-forest-service/>
+
+---
+
+## This E-Bike Wants To Be Your Ultimate Urban Sidekick
+
+date: 2024-12-27, from: Ride Apart, Electric Motorcycle News
+
+It’s simple, low-maintenance, and customizable.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/745482/vvolt-centauri-2-urban-ebike/>
+
+---
+
+## Mazda's Suitcase Car Isn't a Car, It's a Motorcycle
+
+date: 2024-12-27, from: Ride Apart, Electric Motorcycle News
+
+That's no moon...I mean, car. 
+
+<br> 
+
+<https://www.rideapart.com/news/745547/mazda-suit-case-car-motorcycle/>
+
+---
+
+## Someone Built a Superbike Penny Farthing, and It Isn't In Portland
+
+date: 2024-12-27, from: Ride Apart, Electric Motorcycle News
+
+One last overengineered British shed-built classic for your year-end amusement. 
+
+<br> 
+
+<https://www.rideapart.com/news/745552/yamaha-penny-farthing-superbike-build/>
+
+---
+
+## Piaggio’s New Scooter Promises Maximum Urban Utility, But There’s a Problem
+
+date: 2024-12-27, from: Ride Apart, Electric Motorcycle News
+
+Is the extra wheel worth the added bulk and complexity?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/745481/2025-piaggio-mp3-310-updated-specs-features/>
+
+---
+
+## Is Formula 1 Superstar Lewis Hamilton Rescuing KTM's MotoGP Team?
+
+date: 2024-12-26, from: Ride Apart, Electric Motorcycle News
+
+It's beginning to look a lot like the 7-time F1 champ in MotoGP with the KTM. Colonel Mustard could never. 
+
+<br> 
+
+<https://www.rideapart.com/news/745540/lewis-hamilton-motogp-ktm-2025/>
+
+---
+
+## Watch the World’s Most Powerful Dirt Bike Shred on Very Thin Ice
+
+date: 2024-12-26, from: Ride Apart, Electric Motorcycle News
+
+Don't watch if you're feeling anxious. 
+
+<br> 
+
+<https://www.rideapart.com/news/745388/stark-varg-ice-riding-video/>
 
 ---
 

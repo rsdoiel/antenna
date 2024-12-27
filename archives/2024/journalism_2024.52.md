@@ -1,11 +1,38 @@
 ---
 title: journalism
-updated: 2024-12-26 07:05:12
+updated: 2024-12-27 07:06:00
 ---
 
 # journalism
 
-(date: 2024-12-26 07:05:12)
+(date: 2024-12-27 07:06:00)
+
+---
+
+## UC faculty delay proposal for ethnic studies requirement for incoming students
+
+date: 2024-12-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Dec. 26 at 9:11 p.m.</em>
+UC faculty have delayed sending the UC President and Board of Regents a first-year ethnic studies admissions proposal until they get more clarity from the state legislature’s upcoming budget. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/26/uc-faculty-delays-proposal-for-ethnic-studies-requirement-for-incoming-students/>
+
+---
+
+## UCPD searches for 4 suspects in assault, hate crime
+
+date: 2024-12-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Dec. 26 at 2:15 p.m.</em>
+UCPD is searching for four individuals suspected of committing an assault and hate crime on Weyburn Avenue on Tuesday.&#160;
+According to a crime alert sent Thursday, the victim was walking along Weyburn Avenue around 6 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/26/ucpd-searches-for-4-suspects-in-assault-hate-crime/>
 
 ---
 

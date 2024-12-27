@@ -1,11 +1,95 @@
 ---
 title: science and technology
-updated: 2024-12-26 07:05:10
+updated: 2024-12-27 07:05:59
 ---
 
 # science and technology
 
-(date: 2024-12-26 07:05:10)
+(date: 2024-12-27 07:05:59)
+
+---
+
+## Parker Solar Probe sends a "Still Alive" tone back to Earth
+
+date: 2024-12-27, updated: 2024-12-27, from: The Register (UK I.T. News)
+
+<h4>This was a triumph</h4> <p>There is good news for Sun botherers: the Parker Solar Probe appears to have survived its close encounter with our nearest star.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/27/parker_solar_probe_sends_a/>
+
+---
+
+## Seventy-Seven Fascinating Finds Revealed in 2024, From a Mysterious 'Anomaly' Near the Great Pyramid of Giza to a Missing Portrait of Henry VIII
+
+date: 2024-12-27, from: Smithsonian Magazine
+
+The year's most exciting discoveries included musket balls fired in the early days of the American Revolution, a lost composition by Mozart and a medieval chess piece 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/seventy-seven-fascinating-finds-revealed-in-2024-from-a-mysterious-anomaly-near-the-great-pyramid-of-giza-to-a-missing-portrait-of-henry-viii-180985718/>
+
+---
+
+## On This Day in 1831, Charles Darwin Embarked on a Journey That Led to His Groundbreaking Theory of Evolution by Natural Selection
+
+date: 2024-12-27, from: Smithsonian Magazine
+
+Darwin was just 22 when he set out on a voyage that would change the way humanity understands itself and the natural world 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/on-this-day-in-1831-charles-darwin-embarked-on-a-journey-that-led-to-his-groundbreaking-theory-of-evolution-by-natural-selection-180985740/>
+
+---
+
+## After a long lunch, user thought a cursor meant their computer was cactus
+
+date: 2024-12-27, updated: 2024-12-27, from: The Register (UK I.T. News)
+
+<h4><i>Reg</i>-reading heroes snacked on their woes and solved problems with extreme speed</h4> <p><strong>On Call</strong>  The biggest days of the festive season may be behind us, but demand for tech support never stops. That&#39;s why each Friday, even this one, <i>The Register</i> shares stories of fixers forced to help flummoxed fools in On Call – the reader-contributed column that celebrates your successes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/27/on_call/>
+
+---
+
+## ASUS UEFI force-installs and reinstalls shovelware on Windows and it’s spamming users with Christmas wishes
+
+date: 2024-12-26, from: OS News
+
+I didn&#8217;t have the time to post this one before Christmas, but it&#8217;s so funny and sad at the same time I don&#8217;t want to keep this from you. It turns out that in the days leading up to Christmas this year, users of ASUS computers &#8211; or with ASUS motherboards, I guess &#8211; were greeted with a black bar covering about a third of their screen, decorated with a Christmas wreath. I am making this post for the sake of people like me who will have a black box show up at the bottom of their screen with a Christmas wreath labeled “christmas.exe” in task manager and think it’s Windows 10/11 malware. It is not. It is from the ASUS Armoury Crate program and can be safely closed and ignored. It looks super sketchy and will hopefully save you some time diagnosing the problem. ↫ Slow-Macaroon9630 on reddit So yes, if you&#8217;re using an ASUS computer and have their shovelware installed, you may have been greeted by a giant black banner caused by an executable called &#8220;christmas.exe&#8221;, which sounds exactly like something shitty malware would do. The banner would disappear after a while, and the executable would vanish from the list of running processes as well. It turns out there&#8217;s a similar seasonal greeting called &#8220;HappyNewYear.exe&#8221;, so if you haven&#8217;t done anything to address the first black bar, you might be getting a second one soon. The fact that shitty OEM shovelware does this kind of garbage on Windows is nothing new &#8211; class is not something you can accuse Windows of having &#8211; but I was surprised to find out just how deeply embedded this ASUS shovelware program called Armoury Crate really is. It doesn&#8217;t just come preinstalled on ASUS computers &#8211; no, this garbage program actually has roots in your motherboard&#8217;s firmware. If you merely uninstall Amoury Crate from Windows, it will automatically reinstall itself because your motherboard&#8217;s firmware tells it to. I&#8217;m not joking. To prevent Armory Crate from reinstalling itself, you have to reboot your PC into its UEFI, go to the Advanced Mode, go to Tool &#62; ASUS Armoury Crate, and disable the option Download &#38; Install ARMOURY CRATE app. I had no idea Windows hardware makers had sunk to this kind of low, but I&#8217;m also not surprised. If Microsoft shoves endless amounts of ads and shovelware on people&#8217;s computers, why can&#8217;t OEMs? 
+
+<br> 
+
+<https://www.osnews.com/story/141413/asus-uefi-force-installs-and-reinstalls-shovelware-on-windows-and-its-spamming-users-with-christmas-wishes/>
+
+---
+
+## CobolCraft: a Minecraft server written in COBOL
+
+date: 2024-12-26, from: OS News
+
+COBOL, your mother&#8217;s and grandmother&#8217;s programming language, is still in relatively wide use today, and with the initial batches of COBOL programmers retiring and, well, going away, there&#8217;s a market out there for younger people to learn COBOL and gain some serious job security in stable, but perhaps boring market segments. One of the things you would not associate with COBOL, however, is gaming &#8211; but it turns out it can be used for that, too. CobolCraft is a Minecraft server written in, you guessed it, COBOL. It was developed using GnuCOBOL, and only works on Linux &#8211; Windows and macOS are not supported, but it can be run using Electron for developers, otherwise known as Docker. It&#8217;s only compatible with the latest release of Minecraft at the time of CobolCraft&#8217;s development, version 1.21.4, and a few more complex blocks with states are not yet supported because of how difficult it is to program those using COBOL. CobolCraft&#8217;s creator, Fabian Meyer, explains why he started this project: Well, there are quite a lot of rumors and stigma surrounding COBOL. This intrigued me to find out more about this language, which is best done with some sort of project, in my opinion. You heard right &#8211; I had no prior COBOL experience going into this. Writing a Minecraft server was perhaps not the best idea for a first COBOL project, since COBOL is intended for business applications, not low-level data manipulation (bits and bytes) which the Minecraft protocol needs lots of. However, quitting before having a working prototype was not on the table! A lot of this functionality had to be implemented completely from scratch, but with some clever programming, data encoding and decoding is not just fully working, but also quite performant. ↫ Fabian Meyer I don&#8217;t know much about programming, but I do grasp that this is a pretty crazy thing to do, and quite the achievement to get working this well, too. Do note that this isn&#8217;t a complete implementation of the Minecraft server, with certain more complex blocks not working, and things like a lighting engine not being made yet either. This doesn&#8217;t detract from the achievement, but it does mean you won&#8217;t be playing regular Minecraft with this for a while yet &#8211; if ever, if this remains a fun hobby project for its creator. 
+
+<br> 
+
+<https://www.osnews.com/story/141411/cobolcraft-a-minecraft-server-written-in-cobol/>
+
+---
+
+## Mechanical Systems TDT Support Reaches Across NASA Programs
+
+date: 2024-12-26, from: NASA breaking news
+
+The NESC Mechanical Systems TDT provides broad support across NASA’s mission directorates. We are a diverse group representing a variety of sub-disciplines including bearings, gears, metrology, lubrication and tribology, mechanism design, analysis and testing, fastening systems, valve engineering, actuator engineering, pyrotechnics, mechatronics, and motor controls. In addition to providing technical support, theTDT owns and maintains [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/nesc/mechanical-systems-tdt-support-reaches-across-nasa-programs/>
 
 ---
 

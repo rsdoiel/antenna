@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2024-12-26 07:05:12
+updated: 2024-12-27 07:06:00
 ---
 
 # games
 
-(date: 2024-12-26 07:05:12)
+(date: 2024-12-27 07:06:00)
+
+---
+
+## Popeye, Tintin enter the public domain in 2025
+
+date: 2024-12-27, updated: 2024-12-27, from: Polygon Website
+
+Tintin, the seminal hero of the pulp genre of boy adventurers, enters the United States public domain in 2025, though in a way that probably wouldn’t please his creator Hergé very much. Not necessarily because the cartoonist would be angry at other folks being able to legally make Tintin stories — but because the Tintin [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/502293/2025-public-domain-list-tintin-popeye-mickey-mouse>
+
+---
+
+## The 46 best movies on Netflix right now
+
+date: 2024-12-27, updated: 2024-12-27, from: Polygon Website
+
+What’s the best movie I can watch on Netflix? We’ve all asked ourselves this question, only to spend the next 15 minutes scrolling through the streaming service’s oddly specific genre menus and getting overwhelmed by the constantly shifting trend menus. Netflix’s huge catalog of movies continues to expand day by day, week by week, month [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## Squid Game season 2 probes the true nature of man — and gets closer than you’d think
+
+date: 2024-12-27, updated: 2024-12-26, from: Polygon Website
+
+Squid Game season 2 isn’t here to give us resolution. Rather, it follows a similar trajectory of The Hunger Games’ Catching Fire: Now wealthy Gi-hun (Lee Jung-jae) returns to the games, desperate to shut them down once and for all. The stakes are technically the same as the first season — you win or you die [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/501713/squid-game-season-2-review-front-man-gi-hun>
+
+---
+
+## Homestar Runner is on YouTube now, so you should rewatch the absurdity of Teen Girl Squad
+
+date: 2024-12-27, updated: 2024-12-26, from: Polygon Website
+
+The death of Adobe Flash on Dec. 31, 2020, may have marked the end of a great era of internet creativity — but one of its most significant triumphs is still around. In an archival feat for the ages, HomestarRunner.com still lives on YouTube.&#160; In an age before algorithms or social media, Mike and Matt [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/yuletide-youtube/498222/watch-teen-girl-squad-strong-bad-homestar-runner>
+
+---
+
+## Naughty Dog co-founder says ‘ballooning budgets’ drove it to a Sony acquisition
+
+date: 2024-12-26, updated: 2024-12-26, from: Polygon Website
+
+Andy Gavin, who co-founded Naughty Dog with Jason Rubin in 1986, is a surprisingly prolific LinkedIn poster who has recently been sharing some memories about the company’s early days. This week, he posted about the state of the studio’s finances over the years, describing how much it cost to make some of Naughty Dog’s early [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/502300/naughty-dog-sony-acquisition-video-game-budgets>
+
+---
+
+## BobbyBroccoli’s science controversy videos give you great stories to tell at parties
+
+date: 2024-12-26, updated: 2024-12-23, from: Polygon Website
+
+I think we can all agree that Jon Bois and the team over on our sister site Secret Base do incredible work. Their documentaries are deeply researched, visually unique, and incredibly human, telling stories about sports but also the history of slipping on banana peels and that time some very dumb people got into an [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/yuletide-youtube/497558/bobbybroccoli-youtube-videos-like-jon-bois>
+
+---
+
+## Dozens of amazing board games are buy 1, get 1 half off at Target
+
+date: 2024-12-26, updated: 2024-12-26, from: Polygon Website
+
+Didn&#8217;t get enough quality time with the family over your holiday? Target is offering another excellent opportunity for Target Circle members to fill their shelves with some amazing board games. Through Jan. 4, Target Circle members can save 50% on a board game when they purchase a second eligible title of equal or greater value. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sales-guide/502100/target-buy-one-get-one-half-off-board-games-deal>
+
+---
+
+## The year’s most unexpected holiday gift is a new Charlie the Unicorn short
+
+date: 2024-12-26, updated: 2024-12-26, from: Polygon Website
+
+Improbably, one of the great viral hits of the 2000s has returned this holiday season: Charlie the Unicorn. Created by Jason Steele of FilmCow, the original “Charlie the Unicorn” Flash animation short was released on Newgrounds in 2005 and slammed in to the cultural vernacular of terminally online millennials. Steele’s Charlie shorts had a tight [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/yuletide-youtube/502061/charlie-unicorn-2024-video>
+
+---
+
+## Squid Game games miss the point — but viewers want them, says Netflix
+
+date: 2024-12-26, updated: 2024-12-26, from: Polygon Website
+
+Having watched and been profoundly unsettled by Squid Game, I felt some surprise upon seeing the reveal of Squid Game: Unleashed earlier this month. The new video game adaptation from Boss Fight at Netflix Games repurposes the show’s brutal games into madcap multiplayer experiences. There’s still gore, but it’s cartoonish. And dissimilar to the characters [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/502005/squid-game-video-games-battle-royale>
 
 ---
 

@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2024-12-26 07:05:11
+updated: 2024-12-27 07:06:00
 ---
 
 # weather
 
-(date: 2024-12-26 07:05:11)
+(date: 2024-12-27 07:06:00)
 
 ---
 
-## SPC - No watches are valid as of Thu Dec 26 13:46:01 UTC 2024
+## SPC - No watches are valid as of Fri Dec 27 15:02:02 UTC 2024
 
-date: 2024-12-26, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Thu Dec 26 13:46:01 UTC 2024. 
+No watches are valid as of Fri Dec 27 15:02:02 UTC 2024. 
 
 <br> 
 
@@ -21,11 +21,11 @@ No watches are valid as of Thu Dec 26 13:46:01 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Thu Dec 26 13:46:01 UTC 2024
+## SPC - No MDs are in effect as of Fri Dec 27 15:02:02 UTC 2024
 
-date: 2024-12-26, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Thu Dec 26 13:46:01 UTC 2024. 
+No Mesoscale Discussions are in effect as of Fri Dec 27 15:02:02 UTC 2024. 
 
 <br> 
 
@@ -33,54 +33,90 @@ No Mesoscale Discussions are in effect as of Thu Dec 26 13:46:01 UTC 2024.
 
 ---
 
-## SPC Dec 26, 2024 1300 UTC Day 1 Convective Outlook
+## SPC Dec 27, 2024 1300 UTC Day 1 Convective Outlook
 
-date: 2024-12-26, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0649 AM CST Thu Dec 26 2024
+0643 AM CST Fri Dec 27 2024
 
-Valid 261300Z - 271200Z
+Valid 271300Z - 281200Z
 
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS OVER MAINLY
-SOUTHEAST AND EAST TEXAS INTO WESTERN AND NORTHERN LOUISIANA AND
-SOUTHERN ARKANSAS...
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+THE CENTRAL GULF COAST STATES...
 
 ...SUMMARY...
-Scattered severe thunderstorms capable of all hazards are possible
-this afternoon and evening from the southern Plains eastward into
-the Ark-La-Tex and lower Mississippi Valley.
+A few strong to locally severe thunderstorms could occur today
+across parts of the central Gulf Coast States.
 
-...Southern Plains/Ark-La-Tex and Lower Mississippi Valley...
-Water-vapor imagery this morning shows a relatively compact but
-potent mid-level shortwave trough over west/northwest TX, and this
-feature will move east to the Ark-La-Tex by late evening before
-reaching western TN/northern MS by early Friday morning.  In the low
-levels, a weak surface low will consolidate over northeast TX by
-late afternoon/early evening before moving into northern AR late
-overnight.  A warm frontal zone will advance northward across much
-of east TX and western LA with lower 60s dewpoints near the I-20
-corridor and mid 60s over the coastal plain (locally mid-upper 60s
-in upper coast of TX).  Considerable cloud cover will likely limit
-the overall magnitude of destabilization today.
+...Synopsis...
+In mid/upper levels, a broad area of cyclonic flow will persist
+around mean troughing, from the Great Basin and Rockies across the
+Great Plains to the Mississippi Valley.  The leading shortwave
+trough -- in a series of them to influence convective potential
+through early next week -- is apparent in moisture-channel imagery
+over the MO Bootheel southward over portions of the Mid-South
+region.  This feature will weaken considerably as it ejects
+northeastward to OH by 00Z, in response to an upstream trough
+initially over the southern/central Plains to Black Hills and
+western Dakotas.  That higher-amplitude perturbation will reach the
+eastern Dakotas, lower Missouri Valley and Ozarks by 00Z, then eject
+northeastward to the Upper Great Lakes by the end of the period.  A
+third shortwave trough -- currently moving inland from the Pacific
+Northwest Coast -- should dig southeastward rapidly across the Great
+Basin, reaching the southern High Plains and Permian Basin regions
+by 12Z tomorrow.
 
-In relative agreement with previous forecast thinking, convective
-development should begin mid-late morning over north TX and
-subsequently southward along the I-35 corridor.  Weak capping will
-erode such as scattered to numerous storms will likely develop
-during afternoon near the low/frontal zone and in the warm sector
-near and west of the Sabine River.  Forecast soundings show enlarged
-hodographs with sufficient buoyancy for rotating storms capable of
-all hazards, primarily this afternoon into the early evening.  The
-aforementioned expanding thunderstorm coverage and linear evolution
-will lessen the hail risk towards evening.  Concurrently, this
-should favor more of a scattered damaging wind/isolated risk for a
-tornado into the evening, gradually lowering into the overnight as
-buoyancy lessens.
+At the surface, 11Z analysis showed a low over the western Ozarks
+between SGF-HRO, with occluded front arching across the Mid-South to
+west-central MS, warm front over south-central MS to near MOB then
+southeastward across the FL Keys.  A slow-moving cold to
+quasistationary front was drawn from west-central MS across the
+southwestern LA coastline and TX shelf waters to a weak low over
+Padre Island.  The low should move north-northeastward to northern
+WI by 12Z tomorrow, with frontolysis occurring to its south near the
+Mississippi Valley.  Cyclogenesis will occur overnight over
+northwest TX in advance of the third mid/upper-level shortwave
+trough.
 
-..Smith/Grams.. 12/26/2024
+...Portions of central Gulf Coast region...
+Multiple rounds of convection are expected through this evening,
+with the best-organized cells offering locally strong-severe gusts
+and a marginal tornado risk.  This includes a couple bands of
+ongoing convection -- along a dominant western convergence zone just
+ahead of the cold front, from eastern to southwestern MS and coastal
+south-central LA, and another near I-59 in southern MS.  The 12Z LIX
+sounding sampled the coastal airmass between these well, with MLCAPE
+around 1400 J kg, effective SRH around 270 J/kg, modest winds
+between 250-500 mb, and effective-shear magnitude near 30 kt.  With
+the leading trough ejecting away from the area and weakening fast,
+and the next remaining stronger but passing abeam of the outlook
+area to the north, net height changes through most of the period
+should be near neutral, with some rises possible in the near term
+(indicating the ongoing activity is unlikely to get substantially
+better organized than at present).  
+
+However, a progressive lobe of midlevel vorticity -- extending
+southeastward from the second trough -- will foster large-scale
+DCVA/lift late this afternoon into evening over portions of MS and
+northern/western AL before the lobe ejects away and dissipates. 
+This will be well-timed with peak afternoon warming, to steepen
+low-middle-level lapse rates and weaken MLCINH, contributing to
+potential regeneration/strengthening of the western convective/
+convergence band.  That process, with 60s F warm-sector surface
+dewpoints between the cold and warm fronts, should contribute to
+1000-2500 J/kg MLCAPE.  Deep shear and low-level hodographs should
+favor at least isolated supercells, with 35-45-kt effective-shear
+magnitudes and 200-300 J/kg effective SRH (maximized near the warm
+front).  However, by mid/late afternoon, deep ascent and shear will
+have peaked over most of the area.  With increasing displacement
+between the stronger flow/forcing aloft related to the second
+trough, and the favorable boundary-layer airmass, already marginal
+severe potential should diminish overnight.
+
+..Edwards/Grams.. 12/27/2024
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>

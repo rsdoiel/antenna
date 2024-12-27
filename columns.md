@@ -1,11 +1,392 @@
 ---
 title: columns
-updated: 2024-12-26 07:05:11
+updated: 2024-12-27 07:05:59
 ---
 
 # columns
 
-(date: 2024-12-26 07:05:11)
+(date: 2024-12-27 07:05:59)
+
+---
+
+##  Absolutely brilliant interactive explainer on everything about the Moon: how it moves,... 
+
+date: 2024-12-27, updated: 2024-12-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045920-brilliant-interactive-exp>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-27, from: Dave Winer's Scripting News)
+
+The problem with everyone who says you have to get off Twitter is that we're giving up the meeting place we had and spreading all the bits into the wind. Are you going to leave the United States now that Trump is going to be president again? Leaving Twitter is a lot like that. How do you know Musk isn't going to have to sell it? Might happen. How would you feel then about having quit Twitter in a huff as if it would always be the bastion of assholes. It's a mistake. He isn't making money with it. The more you use it the more it costs him, btw. By leaving you might actually be helping him survive. Nothing is so linear, first big point. Second big point, no one cares about your gestures. 
+
+<br> 
+
+<http://scripting.com/2024/12/27.html#a142748>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-27, from: Dave Winer's Scripting News)
+
+If you think <i>woke</i> is the problem, try reading the US Constitution and amendments. Really read them. Pretend you didn't know it was the Constitution. One woke idea after another. Basically if you don't believe in woke, you're in the wrong freaking country. 
+
+<br> 
+
+<http://scripting.com/2024/12/27.html#a142140>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-27, from: Dave Winer's Scripting News)
+
+Last night's email had a YouTube video in it. I had forgotten that they get lost somewhere in the email delivery supply chain, so the fire that I put in the email was <a href="https://imgs.scripting.com/2024/12/27/emailscreen.png">not transmitted</a>. It's even worse than it appears. Here's a <a href="https://www.youtube.com/watch?v=o1mXNfI1cbU">link to the video</a> of the fire, with any luck that will get through in tonight's email. Happy holidays everyone! 
+
+<br> 
+
+<http://scripting.com/2024/12/27.html#a134044>
+
+---
+
+## Casino Players Using Hidden Cameras for Cheating
+
+date: 2024-12-27, updated: 2024-12-26, from: Bruce Schneier blog
+
+<p>The <a href="https://www.wired.com/story/miniature-camera-poker-cheating/">basic strategy</a> is to place a device with a hidden camera in a position to capture normally hidden card values, which are interpreted by an accomplice off-site and fed back to the player via a hidden microphone. Miniaturization is making these devices harder to detect. Presumably AI will soon obviate the need for an accomplice.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/12/casino-players-using-hidden-cameras-for-cheating.html>
+
+---
+
+## Friday Squid Blogging: Squid on Pizza
+
+date: 2024-12-27, updated: 2024-12-26, from: Bruce Schneier blog
+
+<p>Pizza Hut in Taiwan has a history of weird pizzas, <a href="https://www.atlasobscura.com/articles/pizza-hut-taiwan-weird-toppings">including</a> a &#8220;2022 scalloped pizza with Oreos around the edge, and deep-fried chicken and calamari studded throughout the middle.&#8221;</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/12/friday-squid-blogging-squid-on-pizza.html>
+
+---
+
+## The Big Picture: How we got into this mess, and how we get out of it. 
+
+date: 2024-12-27, from: Robert Reich's blog
+
+Capitalism is compatible with democracy only if democracy is the dominant partner. It was dominant from 1933 until 1980. Then hyper-capitalism took over, and finally gave us Trump. 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-big-picture-how-we-got-into-this>
+
+---
+
+## How I’m cleaning out my music library
+
+date: 2024-12-27, from: Tracy Durnell Blog
+
+This week I took an aggressive initial pass on cleaning out my music library, trying to err on the side of removal. In the past, I&#8217;ve been hesitant to remove older tracks that I don&#8217;t listen to much for the sake of historical records, to keep old playlists playable. But now that I&#8217;ve cycled through [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/12/26/how-im-cleaning-out-my-music-library/>
+
+---
+
+## December 26, 2024 
+
+date: 2024-12-27, from: Heather Cox Richardson blog
+
+It is starting to seem like the best way to interpret social media posts from President-elect Donald Trump is through the lens of professional wrestling. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-26-2024>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-27, from: Dave Winer's Scripting News)
+
+Happy holidays everyone. Here's a nice fire to keep you warm. ❤️ <div style="margin-top: 10px"><iframe width="560" height="315" src="https://www.youtube.com/embed/o1mXNfI1cbU?si=F8gSyeWL708ZwaFG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div> 
+
+<br> 
+
+<http://scripting.com/2024/12/26.html#a010050>
+
+---
+
+## Friday 27 December, 2024
+
+date: 2024-12-27, from: John Naughton's online diary
+
+A Modernist duck-pond In the gardens of the Barbican Centre. Quote of the Day ”God give me the serenity to accept things which cannot be changed; Give me courage to change things which must be changed; And the wisdom to &#8230; <a href="https://memex.naughtons.org/friday-27-december-2024/40259/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-27-december-2024/40259/>
+
+---
+
+##  A reader found her father in a photo on the back cover... 
+
+date: 2024-12-26, updated: 2024-12-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045916-a-reader-found-her-father>
+
+---
+
+##  The unbearable slowness of being: &#8220;Streaming a high-def video takes about 25M... 
+
+date: 2024-12-26, updated: 2024-12-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045917-the-unbearable-slowness-o>
+
+---
+
+##  An Epic 2024 Movie Trailer Mashup 
+
+date: 2024-12-26, updated: 2024-12-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/an-epic-2024-movie-trailer-mashup>
+
+---
+
+## My little games workshop
+
+date: 2024-12-26, from: Dave Rupert blog
+
+<p>I always promised myself that if I was ever unemployed that I’d make a video game. When life dealt me an unpaid work hiatus though, the last thing I wanted to do was code in my spare time<sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup>. I worried I would have to let that dream, that part of me, die on the vine. But as interviews started going well the desire to try my hand at making a game came back. And in true adult ADHD fashion I didn’t focus on one game, but rather made a half-dozen different games in different formats and three of those games have made it to the release stage. Here’s an overview of those games and a little background on how I manage to make them.</p>
+<h2>Mundango, a bingo game about life’s small things</h2>
+<img src="https://cdn.daverupert.com/posts/2024/mundango-v1.png" alt="the bingo board ui for mundango" width="1200" height="719">
+<p>During my unpaid hiatus I found myself getting a lot of pleasure in the small things; seeing a cool bird, staring at trees, or watching animals be animal-like. To not lose sight of those moments and with a desire to replace my social media addiction, I made <a href="https://mundango.daverupert.com/">Mundango</a>, a bingo game about noticing life’s small things.</p>
+<p>The icon is a chill turtle because it invokes the feeling of going slow. The font is a playful little handwritten sans. And there’s a (Japan-inspired) minor pentatonic scale that plays as you check items off. I hope you enjoy it but more importantly I hope it nudges you (and myself) to stop doomscrolling on our phones so much and to start looking outside the windows a bit more often.</p>
+<h2>Hard Code &amp; Soft Skills, a workplace adventure</h2>
+<p><img src="https://cdn.daverupert.com/posts/2024/hcss.jpg" alt="A character creator tool for hard code soft skills" /></p>
+<p>In January, the unemployment got to my head and I got inspired to make a role playing game called <a href="https://hardcodesoftskills.daverupert.com/">Hard Code &amp; Soft Skills</a>. It’s a workplace-themed<sup class="footnote-ref"><a href="#fn2" id="fnref2">2</a></sup> clone of <a href="http://www.onesevendesign.com/laserfeelings/">Lasers &amp; Feelings</a>, a one-pager by John Harper. The original game is loosely based on Star Trek, where you can use lasers or diplomacy to solve your problems. I wanted to flip that a bit and have the game world be a startup because tech needs to realize that soft skills are as valuable as code, so that’s my big social commentary.</p>
+<p>It wasn’t labor intensive to clone the original game, but I put a lot of time into building a little one-page website with a character generator. It’s Astro and web components, if you’re curious. I also put a lot of mental energy in planning out the <a href="https://shoptalkshow.com/646/">first episode of Hard Code &amp; Soft Skills on Shop Talk</a>.  It went better than I could have imagined and what a thrill to get it out the door.</p>
+<h2>Pentablaster, an instrument with no wrong notes</h2>
+<img src="https://cdn.daverupert.com/posts/2024/pentablaster.png" alt="the UI for pentablaster" width="1200" height="719">
+<p>The pentatonic scale sound effects in Mundango were a hit with some folks, so I dug in and built a whole instrument that only plays pentatonic scales and called it <a href="https://pentablaster.daverupert.com/">Pentablaster</a>! It took about a week and I’m pleased with how it turned out. It’s jammy and a little unique. I extended it to allow you to change the key and to choose which pentatonic scale you want to play.</p>
+<p>There’s some features I’d like to add, but worry it’ll enter the “so complicated I don’t want to work on it anymore” paradox. I’ll park it for now, but I learned a lot about <a href="https://tonejs.github.io/">Tone.js</a> in the process.</p>
+<h2>An unreleased solitaire game</h2>
+<img src="https://cdn.daverupert.com/posts/2024/youdied.jpg" alt="a skull with the text you died beneath it and a button that says reset game" style="width: 100%; max-width: 300px;">
+<p>I went on a short bender learning about Solo RPGs (like <a href="https://coisinhaverde.itch.io/ronin">Ronin</a>) and that sparked an interest in trying my hand at making one. I challenged myself to prototype the game on pen and paper first to prove the game mechanics. After an evening of brainstorming, I devised a game system based on a standard 52-card deck of playing cards as a prototype. I play-tested it with my son and we both thought that I should make a mobile app version. After some nights and weekends, I had a rough alpha prototype.</p>
+<p>I play-tested the game with friends in the ShopTalk Discord and I got great, actionable feedback. They confirmed my suspicion that the RNG (randomness) was too high, creating a lack of decision making agency and thereby ruining the fun. I made some tweaks and the second round of play-tests went much better. It’s feeling pretty good now, but I think there’s one more ingredient needed to tie it all together before public release.</p>
+<h2>An unreleased Playdate game</h2>
+<p><video src="https://cdn.daverupert.com/posts/2024/newguy.mp4" muted autoplay loop playsinline alt="player walking around in office with npc boss in room, he exits and goes to a much larger room, black and white monochrome only"></video></p>
+<p>Since acquiring a little yellow wind-up boi, it’s been a small dream to write a game for <a href="https://play.date/">Playdate</a> and I picked the idea that seemed like the easiest and most PlayDate’y and descoped the hell out of it so that I’d have an achievable goal. It’s an office-themed<sup class="footnote-ref"><a href="#fn3" id="fnref3">3</a></sup> RPG type game.</p>
+<p>After playing with Playdate’s web-based game editor <a href="https://play.date/pulp/">Pulp</a> and trying PulpScript, I felt the chafing of limitations and wanted to get closer to the metal. I watched every one of <a href="https://www.youtube.com/watch?v=ZPcfC98JogQ&amp;list=PLlMPQvEA0GZPOuKJyhSr3Ra0vrpCiBTnb">SquidGod’s Development Tutorials</a> and decided to download the <a href="https://play.date/dev/">Playdate SDK</a> and write the game in Lua. This is my first time writing Lua and it’s been interesting because everything in Lua is a table: Arrays are tables, Dictionaries are tables, Objects are tables… tables all the way down. That takes some “undoing” of prior programming best practices to feel comfortable but after awhile you learn to embrace the chaos and for-loopedness.</p>
+<p>To short cut some of the player controllers and level building I picked <a href="https://github.com/unbelievableflavour/Cotton?tab=readme-ov-file">Cotton</a>, a Lua-based framework for Playdate. Cotton uses the <a href="https://ldtk.io/">LDtk map editor</a> for easier map making and that was a feature I was looking forward to using. However, I encountered a bug somewhere between the framework and LDtk. If I updated the map, my player could no longer get to a different room. Insecurity started to set in:</p>
+<ul>
+<li>Is this bug because I don’t know Lua?</li>
+<li>Is this bug because I don’t understand LDtk?</li>
+<li>Or is this a bug somewhere in Cotton?</li>
+</ul>
+<p>Feedback from the Playdate Dev Discord was “Last commit is 2 years ago, project’s dead” and “Use [Framework X] instead”…  😮‍💨 Ugh. I thought only JavaScript dorks did this but apparently Lua dorks do it too. I understand they’re trying to be a version of helpful; but this is terrible advice for someone who is learning. “You need to start over” or in video game parlance “The Princess is in another castle” kills the dopamine rush needed when learning something new.</p>
+<p>But I didn’t give up. And after many shower thoughts, I mustered up the energy to do some good ol’ fashioned debugging. The first step was step-by-step isolation where I manually diff’d thousands of lines of JSON line-by-line. That one step taught me there was a change in the exported JSON somewhere between the version of LDtk that Cotton used (v1.3) and the latest version of LDtk (v1.5.3). The primary key for joining map tiles no longer exists in v1.5.3. Then I followed the breadcrumb trail of how Cotton imports LDtk files and I fixed the bug by creating a new table (because Lua) to act as a join table for the neighboring map tiles.</p>
+<p>I was able to finish my core game loop and I’m proud of that, but fixing a framework level bug cut the wind out of my sails. <a href="https://github.com/unbelievableflavour/Cotton/issues/36">I may PR the bug fix</a>… but it’s more of a patch job than a holistic fix and I’m unsure if the author of Cotton is even interested in supporting that on their abandoned project.</p>
+<p>Will this game ever come out? I hope so, but it’s emotionally hard to pick up after fighting with it so much. If I buckled down, built some assets, and wrote more NPC dialog I bet I could finish it in a couple human weeks of work. Perhaps I could outsource the asset creation.</p>
+<h2>How the sausage gets made</h2>
+<p>I make my games after the kids and spouse go to bed or while the TV runs mindlessly. In some ways I’m borrowing from my own mental health staying up late tinkering with little apps that I’m going to give away for free. But these ideas all occupy brain RAM, so it feels good to chip away at ideas and get them out the door, to make room for more ideas, to chip away at ideas, to get them out the door… it’s a vicious cycle, but I think a net positive for my mental health.</p>
+<p>To hedge against wasting my spare time, I get prototypes out for review as soon as possible to gauge interest and invest accordingly. Shopping prototypes curbs emotional over-investment in an idea. Time builds attachment to bad ideas, making them seem good and grander in your head than reality. If you build in secret too long, it ends in disappointment when the public doesn’t understand your genius you spent all your time on.</p>
+<p>I default to web tech because it’s what I know best and staying in your wheelhouse means you can move faster with less mystery roadblocks (like the LDtk map issue above). But I’d like <em>NOT WORK</em> to not feel like work and see value in that, so this may change going forward.</p>
+<p>At times I create artificial limitations (e.g., limit myself to a single asset pack) because if the scope is overly broad and infinite, that guarantees failure. Having rules, even if arbitrary, allows for play.</p>
+<p>The last tool in the toolbelt is scoping the hell out of my ideas. When attention is your biggest limitation (e.g. ADHD) then keeping checkpoints small and achievable are critical. Then once you have the foundations established, do as much as time and ambition allow.</p>
+<h2>Unsure of what’s next… or how to book all of your free time from now until death with no promise of financial gain.</h2>
+<p>I have dozens of ideas kicking around in my head at all times, so my main issue is prioritization. Here’s the ideas that occupy a lot of brain RAM:</p>
+<ul>
+<li>Finishing <a href="https://daverupert.com/2023/03/gamedev-journal-1/">my son’s Zelda-like</a></li>
+<li>An ambitious battle royale that would take a hundred developers a hundred years to finish</li>
+<li>A platformer with a slime mechanic</li>
+<li>A local multiplayer game that has a Mario Kart vibe, but isn’t a karting game.</li>
+<li>A Solid Snake stealth game but for escaping awkward social situations</li>
+<li>A horror game parody</li>
+<li><a href="https://www.youtube.com/watch?v=01B4BqWxtKo">Tim McGraw’s What-if? Trucks: Fates</a></li>
+<li>A space shooter / medical sim</li>
+<li>A Contra-like with a dumb twist</li>
+</ul>
+<p>That’s a sampling of what’s going on up in the ol’ electric meatball. Not to be too macabre, but I’m not sure I have the lifespan left to get through even half of that short list. Hopefully there’s a banger billion dollar idea in there that allows me to retire and work on all the non-profitable dumb ideas.</p>
+<p>While doing this for a living is far off and/or will never happen I am at least pleased that I lived up to the promise to myself to make games if I had spare time. I made games, smaller in scope than what I had originally imagined, but I’m comfortable with that given the timelines. No regrets there.</p>
+<p>Risky as it may be, I may jump to a 3D engine because I’ve had a lot of fun building in environments like Unity in the past. That balloons the scope and raises the level of difficulty beyond my current expertise and it has never worked in the past… but perhaps this time it’ll be different! 😂</p>
+<section class="footnotes">
+<ol>
+<li id="fn1">
+<p>I had some big work emotions and burnout to process <a href="#fnref1" class="footnote-backref">↩</a></p>
+</li>
+<li id="fn2">
+<p>I’ve already established that yes, I was processing some work emotions. <a href="#fnref2" class="footnote-backref">↩</a></p>
+</li>
+<li id="fn3">
+<p>Again, processing some work emotions over here. <a href="#fnref3" class="footnote-backref">↩</a></p>
+</li>
+</ol>
+</section> 
+
+<br> 
+
+<https://daverupert.com/2024/12/my-little-games-workshop/>
+
+---
+
+## The 10 biggest myths about the economy
+
+date: 2024-12-26, from: Robert Reich's blog
+
+And why they have led us to Trump 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-ten-biggest-myths-about-the-economy>
+
+---
+
+##  How to Make 80s School Cafeteria Pizza 
+
+date: 2024-12-26, updated: 2024-12-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/how-to-make-80s-school-cafeteria-pizza>
+
+---
+
+## My favorite weird little apps
+
+date: 2024-12-26, from: Matt Haughey blog
+
+<p>As the year wraps up, I wanted to jot down some quick reviews of the lesser known apps that I&apos;ve come to rely on in my daily life. I looked at my phone&apos;s apps and listed things that are very good at doing one thing well.</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/my-favorite-weird-little-apps/>
+
+---
+
+##  You can watch the first five seasons of The Dick Van Dyke... 
+
+date: 2024-12-26, updated: 2024-12-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045909-you-can-watch-the-first-1>
+
+---
+
+##  Minnesota Guaranteed Free School Meals for All Kids. Now Let&#8217;s Do It... 
+
+date: 2024-12-26, updated: 2024-12-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045912-minnesota-guaranteed-free>
+
+---
+
+## Documenting an 1115 ft radio tower climb
+
+date: 2024-12-26, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Documenting an 1115 ft radio tower climb</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Some broadcast engineering tasks are a bit too daunting for me to consider. Climbing the massive towers that power radio and TV stations is one of them!</p>
+
+<div>
+
+  
+  Your browser does not support the video tag.
+
+</div>
+
+<p>Recently, local engineer Aaron Cox had the perfect set of conditions for a drone flight to capture some of that risk, as the weather and timing of an antenna inspection lined up perfectly with his schedule.</p>
+
+<h2>Video</h2>
+
+<p>I'll summarize a bit of what we talked about in today's Geerling Engineering video, but if you want to watch that directly, it's embedded below:</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-12-26T11:00:06-06:00" title="Thursday, December 26, 2024 - 11:00" class="datetime">December 26, 2024</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2024/documenting-1115-ft-radio-tower-climb>
+
+---
+
+##  California&#8217;s raised the minimum wage for fast-food workers and contrary to some... 
+
+date: 2024-12-26, updated: 2024-12-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045913-californias-raised-the-mi>
+
+---
+
+## 2024 in reading: The Enlightened Economist Prize shortlist
+
+date: 2024-12-26, from: Enlightenment Economics blog
+
+There has been a long gap since my last post, which coincided with the start of Michaelmas Term &#8211; suggestive timing. Life was indeed very busy, and although I carried on reading, sitting tapping away at the laptop had diminished &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/12/2024-in-reading-the-enlightened-economist-prize-shortlist/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2024/12/2024-in-reading-the-enlightened-economist-prize-shortlist/>
+
+---
+
+## Scams Based on Fake Google Emails
+
+date: 2024-12-26, updated: 2024-12-26, from: Bruce Schneier blog
+
+<p>Scammers are hacking Google Forms to send email to victims that come from google.com.</p>
+<p>Brian Krebs <a href="https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/">reports</a> on the effects.</p>
+<p>Boing Boing <a href="https://boingboing.net/2024/12/20/father-of-2-young-boys-loses-5-million-after-falling-for-terrifying-new-google-scam.html">post</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/12/scams-based-on-fake-google-emails.html>
+
+---
+
+##  Whooping cough cases reach highest level in a decade. &#8220;The U.S. has... 
+
+date: 2024-12-26, updated: 2024-12-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045914-whooping-cough-cases-reac>
 
 ---
 
@@ -119,7 +500,7 @@ date: 2024-12-25, updated: 2024-12-25, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-12-25, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/12/25/leftfacingsanta.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I am ready to start programming ChatGPT, the same way I have  built my own code writing and deploying software on Macintosh. I want to create rules in some kind of macro language that it will never violate. I find it has huge problems with memory, it says it's remembering something, but has forgotten it 24 hours later. This is like the <a href="https://www.theatlantic.com/technology/archive/2015/01/the-story-behind-twitters-fail-whale/384313/?gift=f35zZN0v_gDFE8xNwlQAHSNkdwehtNpsP-bh1d4EoU4&utm_source=copy-link&utm_medium=social&utm_campaign=share">Fail Whale</a> in the early days of Twitter. Cute, because the system is doing something so new, futuristic and useful, but after a while it's not cute because we're using the system for real work. The web is programmable, our operating systems are, of course the AI-o-verse will be programmable too. We are able to create entirely new development environments, these platforms deserve a fresh new look at <i>everything.</i> I'd also like to note that at the same time, the platforms are breaking through in web user interfaces. Remarkable progress. Far beyond what we were doing in the very stagnant Web 2.0 world. They're still stuck on whether or not our writing can have titles. So bizarre to have to exist in a world that is deliberately hobbled, and another with infinite horizons. Anyway this is what I'm thinking about just before hunkering down with my Knicks and popcorn, a Christmas tradition for many many years. Ho ho ho. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/12/25/leftfacingsanta.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I am ready to start programming ChatGPT, the same way I have  built my own code writing and deploying software on Macintosh. I want to create rules in some kind of macro language that it will never violate. I find it has huge problems with memory, it says it's remembering something, but has forgotten it 24 hours later. This is like the <a href="https://www.theatlantic.com/technology/archive/2015/01/the-story-behind-twitters-fail-whale/384313/?gift=f35zZN0v_gDFE8xNwlQAHSNkdwehtNpsP-bh1d4EoU4&utm_source=copy-link&utm_medium=social&utm_campaign=share">Fail Whale</a> in the early days of Twitter. Cute, because the system is doing something so new, futuristic and useful, but after a while it's not cute because we're using the system for real work. The web is programmable, our operating systems are, of course the AI-o-verse will be programmable too. We are able to create entirely new development environments, these platforms deserve a fresh new look at <i>everything.</i> I'd also like to note that at the same time, the platforms are breaking through in web user interfaces. Remarkable progress. Far beyond what we were doing in the very stagnant Web 2.0 world. They're still stuck on whether or not our writing can have titles. So bizarre to exist in a world that is deliberately hobbled, and another with infinite horizons. Anyway this is what I'm thinking about just before hunkering down with my Knicks and popcorn, a Christmas tradition for many many years. Ho ho ho. 
 
 <br> 
 

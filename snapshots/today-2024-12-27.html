@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>News gathered 2024-12-27</title>
+  <style>
+    body {
+       padding: 1%;
+       margin: 2%;
+    }
+    footer {
+    	border-top: 0.24em solid green;
+	text-align: center;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+</head>
+<body>
+<section>
+<h1 id="news-gathered-2024-12-27">News gathered 2024-12-27</h1>
+<p>(date: 2024-12-27 07:10:04)</p>
+<hr />
+<h2 id="oh-no-no-need-to-return-that">Oh, No, No Need to Return
+That</h2>
+<p>date: 2024-12-27, updated: 2024-12-27, from: One Foot Tsunami</p>
+<p><br></p>
+<p><a
+href="https://onefoottsunami.com/2024/12/27/oh-no-no-need-to-return-that/"
+class="uri">https://onefoottsunami.com/2024/12/27/oh-no-no-need-to-return-that/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-27, from: Dave Winer’s linkblog)</p>
+<p>Top 500 Bluesky Accounts by Followers for 25th December 2024.</p>
+<p><br></p>
+<p><a
+href="https://sydesjokes.blogspot.com/2024/12/top-500-bluesky-accounts-by-followers_25.html#anamariecox.bsky.social"
+class="uri">https://sydesjokes.blogspot.com/2024/12/top-500-bluesky-accounts-by-followers_25.html#anamariecox.bsky.social</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-27, from: Dave Winer’s linkblog)</p>
+<p>2017: RSS-in-JSON is a feed format.</p>
+<p><br></p>
+<p><a
+href="https://github.com/scripting/Scripting-News/tree/master/rss-in-json"
+class="uri">https://github.com/scripting/Scripting-News/tree/master/rss-in-json</a></p>
+<hr />
+<h2 id="wir-wissen-wo-dein-auto-steht">Wir wissen, wo dein Auto
+steht</h2>
+<p>date: 2024-12-27, updated: 2024-12-27, from: Chaos Computer Club
+Updates</p>
+<p>Der Chaos Computer Club (CCC) deckt auf, dass der Volkswagen-Konzern
+Bewegungsdaten von hunderttausenden Fahrzeugen der Marken VW, Audi,
+Skoda und Seat systematisch erfasst und über lange Zeiträume speichert.
+Die Daten, einschließlich Informationen über Fahrzeughalter:innen, waren
+zudem ungeschützt im Internet zugänglich.</p>
+<p><br></p>
+<p><a
+href="https://www.ccc.de/de/updates/2024/wir-wissen-wo-dein-auto-steht"
+class="uri">https://www.ccc.de/de/updates/2024/wir-wissen-wo-dein-auto-steht</a></p>
+<hr />
+<h2 id="open-webui">Open WebUI</h2>
+<p>date: 2024-12-27, updated: 2024-12-27, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://github.com/open-webui/open-webui">Open
+WebUI</a></strong>
+</p>
+I tried out this open source (MIT licensed, JavaScript and Python)
+localhost UI for accessing LLMs today for the first time. It’s very
+nicely done.
+</p>
+<p>
+I ran it with <a href="https://docs.astral.sh/uv/guides/tools/">uvx</a>
+like this:
+</p>
+<pre><code>uvx --python 3.11 open-webui serve
+</code></pre>
+<p>
+On first launch it installed a bunch of dependencies and then downloaded
+903MB to
+<code>~/.cache/huggingface/hub/models–sentence-transformers–all-MiniLM-L6-v2</code>
+- a copy of the
+<a href="https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2">all-MiniLM-L6-v2</a>
+embedding model, presumably for its
+<a href="https://docs.openwebui.com/features/rag">RAG feature</a>.
+</p>
+<p>
+It then presented me with a working Llama 3.2:3b chat interface, which
+surprised me because I hadn’t spotted it downloading that model. It
+turns out that was because I have
+<a href="https://ollama.com/">Ollama</a> running on my laptop already
+(with several models, including Llama 3.2:3b, already installed) - and
+Open WebUI automatically detected Ollama and gave me access to a list of
+available models.
+</p>
+<p>
+I found a “knowledge” section and added all of the Datasette
+documentation (by dropping in the <code>.rst</code> files from the docs)
+- and now I can type <code>#</code> in chat to search for a file, add
+that to the context and then ask questions about it directly.
+</p>
+<p>
+I selected the <code>spatialite.rst.txt</code> file, prompted it with
+“How do I use SpatiaLite with Datasette” and got back
+<a href="https://gist.github.com/simonw/3bf5ff0ed3b47aefbb94d3fd992f81f9#response">this</a>:
+</p>
+<p>
+<img alt="Chat UI. Prompt is How do I use SpatiaLite with Datasette? with an attached spatialite.rst.txt file. The response from llama3.2:3b reads: To use SpatiaLite with Datasette, you need to install the mod_spatialite dynamic library. This can then be loaded into Datasette using the --load-extension command-line option.   You can install it on OS X by running brew update and then brew install spatialite-tools. On Linux, SpatiaLite is packaged for most distributions, so you can typically install it with a package manager like apt.   When running Datasette, you can look for SpatiaLite in common installation locations or specify the full path to the extension if it's installed elsewhere.   For example, on OS X, you might run datasette --load-extension=spatialite after installing it with Homebrew. On Linux, you could use datasette --load-extension=/usr/lib/x86_64-linux-gnu/mod_spatialite.so.   It's also important to note that SpatiaLite adds a large number of additional SQL functions, some of which are not safe for untrusted users to execute. To secure your Datasette instance, consider disabling arbitrary SQL queries and defining canned queries with the SQL queries that use SpatiaLite functions you want people to be able to execute." src="https://static.simonwillison.net/static/2024/spatialite-webui.jpg" />
+</p>
+<p>
+That’s honestly a very solid answer, especially considering the Llama
+3.2 3B model from Ollama is just a 1.9GB file! It’s impressive how well
+that model can handle basic Q&amp;A and summarization against text
+provided to it - it somehow has a 128,000 token context size.
+</p>
+<p>
+<p>Open WebUI has a lot of other tricks up its sleeve: it can talk to
+API models such as OpenAI directly, has optional integrations with web
+search and custom tools and logs every interaction to a SQLite database.
+It also comes with <a href="https://docs.openwebui.com/">extensive
+documentation</a>.</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/ollama&quot;&gt;ollama&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llama&quot;&gt;llama&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/rag&quot;&gt;rag&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/uv&quot;&gt;uv&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/sqlite&quot;&gt;sqlite&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/python&quot;&gt;python&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/edge-llms&quot;&gt;edge-llms&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2024/Dec/27/open-webui/#atom-everything"
+class="uri">https://simonwillison.net/2024/Dec/27/open-webui/#atom-everything</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-27, from: Dave Winer’s linkblog)</p>
+<p>Matt Mullenweg Declares Holiday Break for WordPress.org Services.</p>
+<p><br></p>
+<p><a
+href="https://wptavern.com/matt-mullenweg-declares-holiday-break-for-wordpress-org-services"
+class="uri">https://wptavern.com/matt-mullenweg-declares-holiday-break-for-wordpress-org-services</a></p>
+<hr />
+<h2 id="a-boxing-day-reply-to-a-friendly-reader-about-israel">A Boxing
+Day Reply to a Friendly Reader about Israel</h2>
+<p>date: 2024-12-26, from: Michael Moore’s blog</p>
+<p>He wrote, “F*** You!” so I wrote him back</p>
+<p><br></p>
+<p><a
+href="https://www.michaelmoore.com/p/a-boxing-day-reply-to-a-friendly"
+class="uri">https://www.michaelmoore.com/p/a-boxing-day-reply-to-a-friendly</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-26, from: Dave Winer’s linkblog)</p>
+<p>Embracing change and new beginnings in Woodstock.</p>
+<p><br></p>
+<p><a
+href="https://hudsonvalleyone.com/2024/12/25/embracing-change-and-new-beginnings-in-woodstock/"
+class="uri">https://hudsonvalleyone.com/2024/12/25/embracing-change-and-new-beginnings-in-woodstock/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-26, from: Dave Winer’s linkblog)</p>
+<p>This is the kind of story that could be turned into a list people
+could subscribe to. <span style="letter-spacing: 0.01rem;">I love The
+Atlantic, long-time reader, and would try any podcast they recommend.
+</span></p>
+<p><br></p>
+<p><a
+href="https://www.theatlantic.com/culture/archive/2024/12/20-best-podcasts-2024/680853/?gift=f35zZN0v_gDFE8xNwlQAHQS8e4ay1R8oZx1MhFbqJWI&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share"
+class="uri">https://www.theatlantic.com/culture/archive/2024/12/20-best-podcasts-2024/680853/?gift=f35zZN0v_gDFE8xNwlQAHQS8e4ay1R8oZx1MhFbqJWI&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share</a></p>
+<hr />
+<h2 id="deepseek_v3.pdf">DeepSeek_V3.pdf</h2>
+<p>date: 2024-12-26, updated: 2024-12-26, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf">DeepSeek_V3.pdf</a></strong>
+</p>
+The DeepSeek v3 paper (and
+<a href="https://github.com/deepseek-ai/DeepSeek-V3/blob/main/README.md">model
+card</a>) are out, after yesterday’s mysterious release of
+<a href="https://simonwillison.net/2024/Dec/25/deepseek-v3/">the
+undocumented model weights</a>.
+</p>
+<p>
+Plenty of interesting details in here. The model pre-trained on 14.8
+trillion “high-quality and diverse tokens” (not otherwise documented).
+</p>
+<blockquote>
+<p>
+Following this, we conduct post-training, including Supervised
+Fine-Tuning (SFT) and Reinforcement Learning (RL) on the base model of
+DeepSeek-V3, to align it with human preferences and further unlock its
+potential. During the post-training stage, we distill the reasoning
+capability from the DeepSeek-R1 series of models, and meanwhile
+carefully maintain the balance between model accuracy and generation
+length.
+</p>
+</blockquote>
+<p>
+By far the most interesting detail though is how much the training cost.
+DeepSeek v3 trained on 2,788,000 H800 GPU hours at an estimated cost of
+$5,576,000. For comparison, Meta AI’s Llama 3.1 405B (smaller than
+DeepSeek v3’s 685B parameters)
+<a href="https://huggingface.co/meta-llama/Llama-3.1-405B-Instruct#hardware-and-software">trained
+on 11x that</a> - 30,840,000 GPU hours, also on 15 trillion tokens.
+</p>
+<p>
+DeepSeek v3 benchmarks comparably to Claude 3.5 Sonnet, indicating that
+it’s now possible to train a frontier-class model (at least for the 2024
+version of the frontier) for less than $6 million!
+</p>
+<p>
+<a href="https://twitter.com/karpathy/status/1872362712958906460">Andrej
+Karpathy</a>:
+</p>
+<blockquote>
+<p>
+For reference, this level of capability is supposed to require clusters
+of closer to 16K GPUs, the ones being brought up today are more around
+100K GPUs. E.g. Llama 3 405B used 30.8M GPU-hours, while DeepSeek-V3
+looks to be a stronger model at only 2.8M GPU-hours (~11X less compute).
+If the model also passes vibe checks (e.g. LLM arena rankings are
+ongoing, my few quick tests went well so far) it will be a highly
+impressive display of research and engineering under resource
+constraints.
+</p>
+</blockquote>
+<p>
+DeepSeek also
+<a href="https://twitter.com/deepseek_ai/status/1872242663489188088">announced
+their API pricing</a>. From February 8th onwards:
+</p>
+<blockquote>
+<p>
+Input: $0.27/million tokens ($0.07/million tokens with cache hits)<br>
+Output: $1.10/million tokens
+</p>
+</blockquote>
+<p>
+<p>Claude 3.5 Sonnet is currently $3/million for input and $15/million
+for output, so if the models are indeed of equivalent quality this is a
+dramatic new twist in the ongoing LLM pricing wars.</p>
+<pre><code>&lt;p&gt;&lt;small&gt;&lt;/small&gt;Via &lt;a href=&quot;https://twitter.com/deepseek_ai/status/1872242657348710721&quot;&gt;@deepseek_ai&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+
+&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/deepseek&quot;&gt;deepseek&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/training-data&quot;&gt;training-data&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm-pricing&quot;&gt;llm-pricing&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llama&quot;&gt;llama&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/meta&quot;&gt;meta&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/andrej-karpathy&quot;&gt;andrej-karpathy&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2024/Dec/26/deepseek-v3/#atom-everything"
+class="uri">https://simonwillison.net/2024/Dec/26/deepseek-v3/#atom-everything</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-26, from: Dave Winer’s linkblog)</p>
+<p>Scott Knaster, a friend I know from the early Mac days, where he
+wrote a lot of the <em>excellent</em> developer docs we depended on, has
+written a series of stories of memories of his work at Apple, Google and
+elsewhere.</p>
+<p><br></p>
+<p><a
+href="https://docs.google.com/document/d/1RAYCCeZau426Cih_J4aFMc0-Qx3gMHCbph_KCgM2rIg/edit?tab=t.0#heading"
+class="uri">https://docs.google.com/document/d/1RAYCCeZau426Cih_J4aFMc0-Qx3gMHCbph_KCgM2rIg/edit?tab=t.0#heading</a></p>
+<hr />
+<h2
+id="lilbits-install-google-play-on-amazon-fire-tablets-postmarketos-update-and-a-new-color-epaper-display-kit">Lilbits:
+Install Google Play on Amazon Fire tablets, postmarketOS update, and a
+new color ePaper display kit</h2>
+<p>date: 2024-12-26, from: Liliputing</p>
+<p>
+This week a lot of folks have been unwrapping Amazon Fire tablets,
+setting them up… and figuring out that some of the apps and games you
+want to run on them aren’t available out of the box. Fortunately there
+are a bunch of ways to make an Amazon tablet more useful. You can
+sideload applications […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/lilbits-install-google-play-on-amazon-fire-tablets-postmarketos-update-and-a-new-color-epaper-display-kit/">Lilbits:
+Install Google Play on Amazon Fire tablets, postmarketOS update, and a
+new color ePaper display kit</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/lilbits-install-google-play-on-amazon-fire-tablets-postmarketos-update-and-a-new-color-epaper-display-kit/"
+class="uri">https://liliputing.com/lilbits-install-google-play-on-amazon-fire-tablets-postmarketos-update-and-a-new-color-epaper-display-kit/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-26, from: Dave Winer’s linkblog)</p>
+<p>Hospitals Give Doctors Minimal Guidance Under Abortion Bans, Report
+Finds.</p>
+<p><br></p>
+<p><a
+href="https://www.propublica.org/article/abortion-ban-deaths-report-ron-wyden"
+class="uri">https://www.propublica.org/article/abortion-ban-deaths-report-ron-wyden</a></p>
+<hr />
+<h2 id="quoting-eu-artificial-intelligence-act">Quoting EU Artificial
+Intelligence Act</h2>
+<p>date: 2024-12-26, updated: 2024-12-26, from: Simon Willison’s
+Weblog</p>
+<blockquote cite="https://artificialintelligenceact.eu/article/4/">
+<p>
+Providers and deployers of AI systems shall take measures to ensure, to
+their best extent, a sufficient level of AI literacy of their staff and
+other persons dealing with the operation and use of AI systems on their
+behalf, taking into account their technical knowledge, experience,
+education and training and the context the AI systems are to be used in,
+and considering the persons or groups of persons on whom the AI systems
+are to be used.
+</p>
+</blockquote>
+<p class="cite">
+— <a href="https://artificialintelligenceact.eu/article/4/">EU
+Artificial Intelligence Act</a>, Article 4: AI literacy
+</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/eu&quot;&gt;eu&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2024/Dec/26/eu-artificial-intelligence-act/#atom-everything"
+class="uri">https://simonwillison.net/2024/Dec/26/eu-artificial-intelligence-act/#atom-everything</a></p>
+<hr />
+<h2 id="default-apps-2024">Default Apps 2024</h2>
+<p>date: 2024-12-26, from: Chris Coyier blog</p>
+<p>I wanted to update my list from my Default Apps 2023 list, but as I
+went through it… I haven’t really changed anything at all. What does
+that mean? I’m set in my ways? It doesn’t really feel like that, it
+feels more like I’m pretty happy with my choices and haven’t been
+sufficiently convinced […]</p>
+<p><br></p>
+<p><a href="https://chriscoyier.net/2024/12/26/default-apps-2024/"
+class="uri">https://chriscoyier.net/2024/12/26/default-apps-2024/</a></p>
+<hr />
+<h2 id="lenovo-thinkpad-x9-leak-points-to-a-missing-trackpoint">Lenovo
+ThinkPad X9 leak points to a missing TrackPoint</h2>
+<p>date: 2024-12-26, from: Liliputing</p>
+<p>
+One of the key differences between Lenovo’s ThinkPad-branded laptops
+and… pretty much every other laptop on the market these days (including
+most Lenovo models) is that in addition to a touchpad below the
+keyboard, ThinkPads feature Lenovo’s TrackPoint system with a small
+pointing stick in the center of the keyboard. But leaked pictures of a
+[…]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/lenovo-thinkpad-x9-leak-points-to-a-missing-trackpoint/">Lenovo
+ThinkPad X9 leak points to a missing TrackPoint</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/lenovo-thinkpad-x9-leak-points-to-a-missing-trackpoint/"
+class="uri">https://liliputing.com/lenovo-thinkpad-x9-leak-points-to-a-missing-trackpoint/</a></p>
+<hr />
+<h2 id="in-reading-the-enlightened-economist-prize-shortlist">2024 in
+reading: The Enlightened Economist Prize shortlist</h2>
+<p>date: 2024-12-26, from: Enlightenment Economics</p>
+<p>There has been a long gap since my last post, which coincided with
+the start of Michaelmas Term – suggestive timing. Life was indeed very
+busy, and although I carried on reading, sitting tapping away at the
+laptop had diminished …
+<a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/12/2024-in-reading-the-enlightened-economist-prize-shortlist/">Continue
+reading <span class="meta-nav">→</span></a></p>
+<p><br></p>
+<p><a
+href="http://www.enlightenmenteconomics.com/blog/index.php/2024/12/2024-in-reading-the-enlightened-economist-prize-shortlist/"
+class="uri">http://www.enlightenmenteconomics.com/blog/index.php/2024/12/2024-in-reading-the-enlightened-economist-prize-shortlist/</a></p>
+<hr />
+<h2
+id="lenovo-thinkbook-plus-laptop-with-a-rollable-display-could-launch-in-2025">Lenovo
+ThinkBook Plus laptop with a rollable display could launch in 2025</h2>
+<p>date: 2024-12-26, from: Liliputing</p>
+<p>
+Lenovo has been showing off concept laptops with rollable OLED displays
+for the past few years. Now Lenovo is said to be preparing to turn that
+concept into a real device you can actually buy. Evan Blass has shared a
+set of pictures to Leakmail subscribers that give us a first look at a
+new Lenovo […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/lenovo-thinkbook-plus-laptop-with-a-rollable-display-could-launch-in-2025/">Lenovo
+ThinkBook Plus laptop with a rollable display could launch in 2025</a>
+appeared first on <a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/lenovo-thinkbook-plus-laptop-with-a-rollable-display-could-launch-in-2025/"
+class="uri">https://liliputing.com/lenovo-thinkbook-plus-laptop-with-a-rollable-display-could-launch-in-2025/</a></p>
+<hr />
+<h2 id="a-fun-new-challenge">A Fun New Challenge</h2>
+<p>date: 2024-12-26, updated: 2024-12-26, from: One Foot Tsunami</p>
+<p><br></p>
+<p><a href="https://onefoottsunami.com/2024/12/26/a-fun-new-challenge/"
+class="uri">https://onefoottsunami.com/2024/12/26/a-fun-new-challenge/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-26, from: Dave Winer’s linkblog)</p>
+<p>You keep using that word. I do not think it means what you think it
+means.</p>
+<p><br></p>
+<p><a href="https://www.youtube.com/watch?v=dTRKCXC0JFg&amp;t=8s"
+class="uri">https://www.youtube.com/watch?v=dTRKCXC0JFg&amp;t=8s</a></p>
+<hr />
+<h2
+id="ai-generated-book-grifters-threaten-the-future-of-lace-making">AI-Generated
+Book Grifters Threaten The Future of Lace-Making</h2>
+<p>date: 2024-12-26, from: 404 Media Group</p>
+<p>“Unfortunately, for newcomers who might be excited to dive into this
+hobby, they could get burned by the inadequate books—and frankly the
+thievery—of the work of our cherished lacemakers and designers.”</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/bobbin-tatting-lace-ai-generated-books/"
+class="uri">https://www.404media.co/bobbin-tatting-lace-ai-generated-books/</a></p>
+<hr />
+<h2 id="cognitive-load-is-what-matters">Cognitive load is what
+matters</h2>
+<p>date: 2024-12-26, updated: 2024-12-26, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://minds.md/zakirullin/cognitive">Cognitive load
+is what matters</a></strong>
+</p>
+Excellent living document (the underlying repo has
+<a href="https://github.com/zakirullin/cognitive-load/commits/main/">625
+commits</a> since being created in May 2023) maintained by Artem
+Zakirullin about minimizing the cognitive load needed to understand and
+maintain software.
+</p>
+<p>
+This all rings very true to me. I judge the quality of a piece of code
+by how easy it is to change, and anything that causes me to take on more
+cognitive load - unraveling a class hierarchy, reading though dozens of
+tiny methods - reduces the quality of the code by that metric.
+</p>
+<p>
+Lots of accumulated snippets of wisdom in this one.
+</p>
+<blockquote>
+<p>
+Mantras like “methods should be shorter than 15 lines of code” or
+“classes should be small” turned out to be somewhat wrong.
+</p>
+</blockquote>
+<pre><code>&lt;p&gt;&lt;small&gt;&lt;/small&gt;Via &lt;a href=&quot;https://twitter.com/karpathy/status/1872038630405054853?s=46&quot;&gt;@karpathy&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+
+&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/programming&quot;&gt;programming&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/software-engineering&quot;&gt;software-engineering&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2024/Dec/26/cognitive-load-is-what-matters/#atom-everything"
+class="uri">https://simonwillison.net/2024/Dec/26/cognitive-load-is-what-matters/#atom-everything</a></p>
+<hr />
+<h2 id="in-the-holy-land-just-a-couple-of-dead-catholics">In the Holy
+Land, Just a Couple of Dead Catholics</h2>
+<p>date: 2024-12-26, from: Michael Moore’s blog</p>
+<p>There is much to feel today — love, family, community, kindness,
+etc.</p>
+<p><br></p>
+<p><a
+href="https://www.michaelmoore.com/p/in-the-holy-land-just-a-couple-of"
+class="uri">https://www.michaelmoore.com/p/in-the-holy-land-just-a-couple-of</a></p>
+<hr />
+<h2 id="merry-christmas-2024">Merry Christmas 2024</h2>
+<p>date: 2024-12-26, from: Computer ads from the Past</p>
+<p>and a Happy New Year</p>
+<p><br></p>
+<p><a
+href="https://computeradsfromthepast.substack.com/p/merry-christmas-2024"
+class="uri">https://computeradsfromthepast.substack.com/p/merry-christmas-2024</a></p>
+<hr />
+<h2 id="rss-feeds-and-real-time-crawling">RSS Feeds and Real Time
+Crawling</h2>
+<p>date: 2024-12-26, from: Marginallia log</p>
+<p>A while back an update went live that, with some caveats, changes the
+time it takes for an update on a website to reflect in the search engine
+index from up to 2 months to 1-2 days. Conditions being if the website
+has an RSS or Atom feed. The big crawl job takes about two months, and
+is run partition by partition, meaning there’s typically a slice of the
+index that is two months stale at any given point in time.</p>
+<p><br></p>
+<p><a href="https://www.marginalia.nu/log/a_113_rtc/"
+class="uri">https://www.marginalia.nu/log/a_113_rtc/</a></p>
+</section>
+<footer>Feed items based on the feeds identified in <a href="news.txt">news.txt</a> harvested
+with <a href="https://github.com/rsdoiel/skimmer">skimmer</a></footer>
+</body>
+</html>

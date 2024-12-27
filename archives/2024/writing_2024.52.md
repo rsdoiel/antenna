@@ -1,11 +1,39 @@
 ---
 title: writing
-updated: 2024-12-26 07:05:11
+updated: 2024-12-27 07:06:00
 ---
 
 # writing
 
-(date: 2024-12-26 07:05:11)
+(date: 2024-12-27 07:06:00)
+
+---
+
+## How ‘Disclaimer’ Redefines Narration and Structure
+
+date: 2024-12-26, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-disclaimer-redefines-narration-and-structure" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Cate%20Blanchett%20in%20Disclaimer%20%282%29.png" alt="Cate Blanchett in 'Disclaimer'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><em>Disclaimer</em> warns audiences at the beginning to be wary of narratives and forms that distract from hidden truths. Written and directed by auteur Alfonso Cuarón, this AppleTV+ miniseries weaves together storylines to uncover the truth about what happened years ago between a young Catherine Ravenscroft (Leila George) and Jonathan Brigstocke (Louis Partridge), the deceased son of a grieving widow.<br><br>After the adult Catherine (Cate Blanchett) receives a copy of an independently published novel with the disclaimer: “Any resemblance to persons living or dead is not a coincidence,” the mystery begins to unravel before the audience.<br><br>With a heavy focus on form and structure, <em>Disclaimer</em> offers valuable lessons for screenwriters looking to hook audiences with a shocking mystery.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-disclaimer-redefines-narration-and-structure>
+
+---
+
+## The Presidential Papers by John Kessel: Review by Gary K. Wolfe
+
+date: 2024-12-26, from: Locus Magazine
+
+<p><strong>The Presidential Papers</strong>, John Kessel (PM Press 979-8-88744-058-3 , $16.00, 160pp, tp), October 2024.</p>
+<p>PM Press’s series of “Outspoken Author” collec­tions, reaching its 30th volume with John Kessel’s <strong>The Presidential Papers</strong>, has long provided use­ful short overviews of the fiction and nonfiction of some of our field’s most distinguished writers (always accompanied by insouciant but revealing interviews by the late series editor Terry Bisson). While some authors have  <a href="https://locusmag.com/2024/12/the-presidential-papers-by-john-kessel-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/the-presidential-papers-by-john-kessel-review-by-gary-k-wolfe/>
 
 ---
 

@@ -1,11 +1,99 @@
 ---
 title: central coast
-updated: 2024-12-26 07:05:11
+updated: 2024-12-27 07:05:59
 ---
 
 # central coast
 
-(date: 2024-12-26 07:05:11)
+(date: 2024-12-27 07:05:59)
+
+---
+
+## Triple Threat
+
+date: 2024-12-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-POD-Stephen-Fountain.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A dog, a cat and a white rat ..." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-POD-Stephen-Fountain.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-POD-Stephen-Fountain.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-POD-Stephen-Fountain.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-POD-Stephen-Fountain.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-POD-Stephen-Fountain.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-POD-Stephen-Fountain.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-POD-Stephen-Fountain.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-POD-Stephen-Fountain.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-POD-Stephen-Fountain.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-POD-Stephen-Fountain.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-POD-Stephen-Fountain.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-POD-Stephen-Fountain.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/triple-threat/">Triple Threat</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/triple-threat/>
+
+---
+
+## BizHawk: Restaurants Rule in 2024 in Santa Barbara, But Retail Isn’t Dead Yet
+
+date: 2024-12-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/1-041124-BizHawk-LJ-Shalhoob-1-JM.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Meet L.J. Shalhoob at his newest restaurant, Shalhoob’s at 5112 Hollister Ave. in the Magnolia Shopping Center in Goleta." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/1-041124-BizHawk-LJ-Shalhoob-1-JM.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/1-041124-BizHawk-LJ-Shalhoob-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/1-041124-BizHawk-LJ-Shalhoob-1-JM.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/1-041124-BizHawk-LJ-Shalhoob-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/1-041124-BizHawk-LJ-Shalhoob-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/1-041124-BizHawk-LJ-Shalhoob-1-JM.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/1-041124-BizHawk-LJ-Shalhoob-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/1-041124-BizHawk-LJ-Shalhoob-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/1-041124-BizHawk-LJ-Shalhoob-1-JM.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/1-041124-BizHawk-LJ-Shalhoob-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/1-041124-BizHawk-LJ-Shalhoob-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/1-041124-BizHawk-LJ-Shalhoob-1-JM.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/1-041124-BizHawk-LJ-Shalhoob-1-JM.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Arnoldi&#8217;s left us, then came back. Shalhoob&#8217;s needed a new scene. And we discovered Kin. What a difference a year around the sun makes. We love our food and restaurants, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-restaurants-rule-in-2024-in-santa-barbara-but-retail-isnt-dead-yet/">BizHawk: Restaurants Rule in 2024 in Santa Barbara, But Retail Isn&#8217;t Dead Yet</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/bizhawk-restaurants-rule-in-2024-in-santa-barbara-but-retail-isnt-dead-yet/>
+
+---
+
+## High Surf Leaves South Coast Wet But Mostly Unscathed
+
+date: 2024-12-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-High-Surf-Update-DG-01.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Despite the end of a high surf warning, the National Weather Service warns residents that the surf is still higher than normal with an increased chance of riptides." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-High-Surf-Update-DG-01.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-High-Surf-Update-DG-01.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-High-Surf-Update-DG-01.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-High-Surf-Update-DG-01.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-High-Surf-Update-DG-01.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-High-Surf-Update-DG-01.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-High-Surf-Update-DG-01.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-High-Surf-Update-DG-01.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-High-Surf-Update-DG-01.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The high surf warning across the South Coast has ended, but officials are still warning residents of stronger waves than normal. A beach hazards statement is in effect until 4 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/high-surf-leaves-south-coast-wet-but-mostly-unscathed/">High Surf Leaves South Coast Wet But Mostly Unscathed</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/high-surf-leaves-south-coast-wet-but-mostly-unscathed/>
+
+---
+
+## Goleta Pedestrian Dies After Vehicle Collision in Old Town
+
+date: 2024-12-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-goleta-sbso-investigators-Fatal-Crash-DG-01.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Investigators walked the scene of a fatal traffic collision Thursday afternoon, two days after a pedestrian was hit and killed by a vehicle in Old Town Goleta." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-goleta-sbso-investigators-Fatal-Crash-DG-01.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-goleta-sbso-investigators-Fatal-Crash-DG-01.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-goleta-sbso-investigators-Fatal-Crash-DG-01.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-goleta-sbso-investigators-Fatal-Crash-DG-01.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-goleta-sbso-investigators-Fatal-Crash-DG-01.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-goleta-sbso-investigators-Fatal-Crash-DG-01.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-goleta-sbso-investigators-Fatal-Crash-DG-01.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-goleta-sbso-investigators-Fatal-Crash-DG-01.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-goleta-sbso-investigators-Fatal-Crash-DG-01.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-goleta-sbso-investigators-Fatal-Crash-DG-01.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/12262024-goleta-sbso-investigators-Fatal-Crash-DG-01.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A Goleta resident walking in Old Town Goleta died after being hit by a vehicle Christmas Eve, according to the Santa Barbara County Sheriff&#8217;s Office. Two pedestrians were crossing the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-pedestrian-dies-after-vehicle-collision-in-old-town/">Goleta Pedestrian Dies After Vehicle Collision in Old Town</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/goleta-pedestrian-dies-after-vehicle-collision-in-old-town/>
+
+---
+
+## 19-Year-Old from Oregon Identified as Driver Killed in Highway 1 Crash
+
+date: 2024-12-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="One person was killed and another was critically injured on Tuesday in a head-on crash on northbound Highway 1 near Constellation Road in Vandenberg Village." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/122424-Highway-1-Fatal-Crash-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A 19-year-old man has been named as the person killed the morning of Christmas Eve in a head-on crash that also critically injured a second driver on Highway 1 between [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/19-year-old-from-oregon-identified-as-driver-killed-in-highway-1-crash/">19-Year-Old from Oregon Identified as Driver Killed in Highway 1 Crash</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/19-year-old-from-oregon-identified-as-driver-killed-in-highway-1-crash/>
+
+---
+
+## Captain’s Log: Pirate Humor and Pirate Logic at the Parade of Lights
+
+date: 2024-12-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Earlier this month I was happy to serve as the emcee for the annual boat Parade of Lights at the Santa Barbara Harbor. The judges were hosted by Moby Dick [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/captains-log-pirate-humor-and-pirate-logic-at-the-parade-of-lights/">Captain’s Log: Pirate Humor and Pirate Logic at the Parade of Lights</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/captains-log-pirate-humor-and-pirate-logic-at-the-parade-of-lights/>
 
 ---
 
@@ -13,7 +101,7 @@ updated: 2024-12-26 07:05:11
 
 date: 2024-12-26, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sky highs above Hendry’s Beach in Santa Barbara." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sky highs above Hendry’s Beach in Santa Barbara." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/121924-POD-Beverly-Holley.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The post <a href="https://www.noozhawk.com/sky-highs/">Sky Highs</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 

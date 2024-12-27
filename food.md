@@ -1,11 +1,77 @@
 ---
 title: food
-updated: 2024-12-26 07:05:13
+updated: 2024-12-27 07:06:02
 ---
 
 # food
 
-(date: 2024-12-26 07:05:13)
+(date: 2024-12-27 07:06:02)
+
+---
+
+## The Best of Fresh Cup 2024
+
+date: 2024-12-27, from: The Fresh Cup
+
+<p>I love this time of year at Fresh Cup. Being the editor of a publication with a frequent posting cadence (we publish three to four stories per week, all of which I read, hear pitches for, and post directly on the site) means we must move quickly. Sometimes, it’s easy to forget just how extraordinary&#8230;</p>
+<p>The post <a href="https://freshcup.com/the-best-of-fresh-cup-2024/">The Best of Fresh Cup 2024</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/the-best-of-fresh-cup-2024/>
+
+---
+
+## This Is the Most Impressive Thing Martha Stewart Collects
+
+date: 2024-12-27, from: Taste of Home
+
+<p>Martha Stewart's jadeite dish collection is decades in the making.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/martha-stewart-jadeite-collection/">This Is the Most Impressive Thing Martha Stewart Collects</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/martha-stewart-jadeite-collection/>
+
+---
+
+## Short Rib and Chorizo Chili Recipe
+
+date: 2024-12-27, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/short-rib-and-chorizo-chili-recipe/" title="Short Rib and Chorizo Chili Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/01/Short-Rib-and-Chorizo-Chili-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A white bowl filled with Short Rib and Chorizo Chili" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/01/Short-Rib-and-Chorizo-Chili-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/01/Short-Rib-and-Chorizo-Chili-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/01/Short-Rib-and-Chorizo-Chili-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/01/Short-Rib-and-Chorizo-Chili-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/01/Short-Rib-and-Chorizo-Chili-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/01/Short-Rib-and-Chorizo-Chili-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/01/Short-Rib-and-Chorizo-Chili-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This chili recipe is loaded with tender chunks of short rib simmered with spicy chorizo, fire roasted tomatoes, and the perfect blend of spices, a favorite!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/short-rib-and-chorizo-chili-recipe/">Short Rib and Chorizo Chili Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/short-rib-and-chorizo-chili-recipe/>
+
+---
+
+## Home Coffee Grinders Broke New Ground in 2024
+
+date: 2024-12-26, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="home coffee grinders" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/home-coffee-grinders.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee grinders for home use advanced from all angles in 2024, from the purely manual Ousia grinder to the technologically complex Geimori grinder. Meanwhile, motorization kits from the likes of... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/26/home-coffee-grinders-broke-new-ground-in-2024/>
+
+---
+
+## Home Drip And Espresso Brewing Got Simpler, Smarter and More Stylish in 2024
+
+date: 2024-12-26, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/new-home-coffee-equipment-2024-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="new home coffee equipment 2024" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/new-home-coffee-equipment-2024-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/new-home-coffee-equipment-2024-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/new-home-coffee-equipment-2024-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/new-home-coffee-equipment-2024-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/new-home-coffee-equipment-2024.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In the endless quest to please all of the people all of the time, new coffee systems such as the Aiden drip brewer by Fellow, the xBloom Studio, Meraki espresso... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/26/home-drip-and-espresso-brewing-got-simpler-smarter-and-more-stylish-in-2024/>
 
 ---
 
@@ -20,6 +86,22 @@ date: 2024-12-26, from: Taste of Home
 <br> 
 
 <https://www.tasteofhome.com/article/tiktok-cheesy-pickle-fries/>
+
+---
+
+## Bacon Day Recipes
+
+date: 2024-12-26, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/09/Bacon-Day-Recipes.jpg"/></div>
+<p>The ultimate collection of the best bacon recipes for National Bacon Day! Baconlicious! I can&#8217;t believe that it&#8217;s here already, one of my favourite days of the year, National Bacon Day! National Bacon Day (December 30) is a day where we celebrate one of my favourite foods, bacon! On this most hallowed of days bacon...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/bacon-day-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/bacon-day-recipes/">Bacon Day Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/bacon-day-recipes/>
 
 ---
 
@@ -42,7 +124,7 @@ date: 2024-12-25, from: Closet Cooking
 
 date: 2024-12-24, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="2024 coffee business news stories" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Historically high coffee prices, new regulations such as EUDR, climate change and increased demand of high-quality coffees squeezed coffee businesses of all sizes this year, creating what many characterized as... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="2024 coffee business news stories" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/2024-coffee-business-news-stories.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Historically high coffee prices, new regulations such as EUDR, climate change and increased demand of high-quality coffees squeezed coffee businesses of all sizes this year, creating what many characterized as... 
 
 <br> 
 
@@ -54,7 +136,7 @@ date: 2024-12-24, from: Daily Coffee News
 
 date: 2024-12-24, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Three Questions 2024" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Continuing our 2024 Year in Review, here are some highlights from our ongoing &#8220;Three Questions With&#8221; series, which features people doing amazing work in all corners of the coffee world.&#160;... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Three Questions 2024" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Three-Questions-2024.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Continuing our 2024 Year in Review, here are some highlights from our ongoing &#8220;Three Questions With&#8221; series, which features people doing amazing work in all corners of the coffee world.&#160;... 
 
 <br> 
 
@@ -66,7 +148,7 @@ date: 2024-12-24, from: Daily Coffee News
 
 date: 2024-12-24, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="New coffee shops west" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Continuing DCN’s&#160;2024 Year in Review, here are 10 exciting new coffee shops that opened throughout the inland American West in 2024. For all the latest coffee shop openings and specialty... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="New coffee shops west" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-shops-west.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Continuing DCN’s&#160;2024 Year in Review, here are 10 exciting new coffee shops that opened throughout the inland American West in 2024. For all the latest coffee shop openings and specialty... 
 
 <br> 
 
@@ -196,7 +278,7 @@ date: 2024-12-23, from: Closet Cooking
 
 date: 2024-12-23, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/chimichurri-shrimp/" title="Chimichurri Shrimp Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Shrimp-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Spooning extra chimichurri over Chimichurri Shrimp in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Shrimp-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Shrimp-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Shrimp-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Shrimp-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Shrimp-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Shrimp-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Shrimp-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Chimichurri shrimp is easy to make with spiced shrimp pan seared and tossed with zesty, garlicky chimichurri, great as an app or with rice or noodles.</p>
+<a href="https://www.chilipeppermadness.com/recipes/chimichurri-shrimp/" title="Chimichurri Shrimp Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Shrimp-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Spooning extra chimichurri over Chimichurri Shrimp in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Shrimp-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Shrimp-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Shrimp-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Shrimp-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Shrimp-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Shrimp-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Shrimp-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Chimichurri shrimp is easy to make with spiced shrimp pan seared and tossed with zesty, garlicky chimichurri, great as an app or with rice or noodles.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/chimichurri-shrimp/">Chimichurri Shrimp Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

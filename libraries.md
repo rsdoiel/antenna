@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2024-12-26 07:05:12
+updated: 2024-12-27 07:06:00
 ---
 
 # libraries
 
-(date: 2024-12-26 07:05:12)
+(date: 2024-12-27 07:06:00)
+
+---
+
+## Fanny’s First Play, by George Bernard Shaw
+
+date: 2024-12-26, from: Standard Ebooks, new releaases
+
+A young woman writes a play to shock her father, in which two respectable families deal with their with disreputable children. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/george-bernard-shaw/fannys-first-play>
 
 ---
 
