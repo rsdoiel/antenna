@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-12-27 09:41:03
+updated: 2024-12-28 07:06:45
 ---
 
 # retro computing
 
-(date: 2024-12-27 09:41:03)
+(date: 2024-12-28 07:06:45)
+
+---
+
+## b.log 2024/12/27 - Celebrations chocolates, The maths of raycasting - part three, The Awakening of Omniscient.
+
+date: 2024-12-27, from: Richard Murray's blog
+
+Celebrations chocolates, The maths of raycasting - part three, The Awakening of Omniscient. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241227>
 
 ---
 
@@ -617,4 +629,28 @@ date: 2024-12-22, from: Low-tech magazine
 <br> 
 
 <https://solar.lowtechmagazine.com/2024/12/how-to-build-an-electrically-heated-table/>
+
+---
+
+## lDebug release 9
+
+date: 2024-12-21, from: FreeDOS News
+
+<div class="markdown_content"><p>Today marks another release of the DOS debugger "with the small L": lDebug. This line-oriented debugger is a fork originally based on the 2008 version 1.13 of FreeDOS Debug/X, with a number of additions. Release 9 marks some bugfixes, a new revision of the lDebug/lDOS boot protocol for FAT32 drives, and the immediate assembler feature now enabled at build time. There's <a class="" href="https://sourceforge.net/p/freedos/mailman/message/59108163/">a longer announcement</a>  on the freedos-user list. Get lDebug release 9 from <a class="" href="https://pushbx.org/ecm/web/#projects-ldebug" rel="nofollow">ecm's website</a>. We've also mirrored this release in the <a class="" href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files" rel="nofollow">FreeDOS Files Archive</a> at Ibiblio, under <a class="" href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/debug/ldebug/rel9/" rel="nofollow">/dos/debug/ldebug</a></p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2024/12/ldebug-release-9/>
+
+---
+
+## Early 'Christmas present' from Chris Hall
+
+date: 2024-12-21, from: Icon Bar, RISC OS News
+
+Chris Hall has released an early 'Christmas present' for the RISC OS community. He has made 2 very useful reference guides available as both PDF files and using his RingBound Page flipping software for RISC OS. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2152.html>
 

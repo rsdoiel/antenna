@@ -1,11 +1,27 @@
 ---
 title: food
-updated: 2024-12-27 09:41:03
+updated: 2024-12-28 07:06:46
 ---
 
 # food
 
-(date: 2024-12-27 09:41:03)
+(date: 2024-12-28 07:06:46)
+
+---
+
+## Jalapeño Cheese Ball
+
+date: 2024-12-27, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/jalapeno-cheese-ball/"><img title="jalapeño-cheese-ball-small-6" src="https://www.isabeleats.com/wp-content/uploads/2024/12/jalapeno-cheese-ball-small-6-400x600.jpg" alt="An easy jalapeño cheese ball covered with bacon and cheddar on a plate with crackers." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	This jalapeño cheese ball loaded with bacon, jalapeños, onions, and sharp cheddar is creamy, savory, and the ultimate crowd-pleaser. If you love easy appetizers like this one, try my taco dip, jalapeño poppers, and queso blanco. As a lover of all chips and dips, you might be surprised to know that I was well into [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/jalapeno-cheese-ball/>
 
 ---
 
@@ -325,4 +341,28 @@ date: 2024-12-22, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/holiday-recipes/>
+
+---
+
+## 11 Tempeh Recipes for Delicious Plant-Based Meals
+
+date: 2024-12-21, from: Bon Appetet
+
+Like a vegan take on kung pao, hummus bowls with merguez crumbles, and more easy ways to use the soy-based protein. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/best-tempeh-recipes>
+
+---
+
+## 41 Easy Appetizers for Less Stressing, More Snacking
+
+date: 2024-12-21, from: Bon Appetet
+
+Like dip made from giardineira, marinated cheeses galore, and pigs in a blanket Chicago-style. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/easy-appetizers-15-minutes-or-less>
 

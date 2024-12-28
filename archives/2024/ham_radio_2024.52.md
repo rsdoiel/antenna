@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2024-12-27 09:41:00
+updated: 2024-12-28 07:06:42
 ---
 
 # ham radio
 
-(date: 2024-12-27 09:41:00)
+(date: 2024-12-28 07:06:42)
+
+---
+
+## ARRL Systems Service Disruption
+
+date: 2024-12-27, from: Amateur Radio Relay League News
+
+<p>These are periodic updates to an <span><span>original story</span></span> published on May 16, 2024<strong>.<br /><br />Updated 12/27/2024</strong><br /><br />The following is an update on DXCC® application processing:<br /><br />In October, we reported that the ARRL DXCC® System had been returned to service. Since then, over 3,000 DXCC applications have been logged into the DXCC System for processing. It is important to understand that the queue of submitted applications...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-systems-service-disruption>
 
 ---
 

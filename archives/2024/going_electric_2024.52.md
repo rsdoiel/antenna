@@ -1,11 +1,187 @@
 ---
 title: going electric
-updated: 2024-12-27 09:41:03
+updated: 2024-12-28 07:06:45
 ---
 
 # going electric
 
-(date: 2024-12-27 09:41:03)
+(date: 2024-12-28 07:06:45)
+
+---
+
+## Isuzu NRR-EV gets to work as first electric trucks reach customers
+
+date: 2024-12-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/First-Isuzu-EV-Trucks-In-Service.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Isuzu is giving Red Bull <em>electrified</em> wings – the iconic drinks company is officially the first to put the production version of its new-for-2025 Isuzu NRR-EV medium duty electric box truck to work in North America.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-trucks,isuzu" data-layer-viewtype="unknown" data-post-id="395454" href="https://electrek.co/2024/12/27/isuzu-nrr-ev-gets-to-work-as-first-electric-trucks-reach-customers/#more-395454" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/27/isuzu-nrr-ev-gets-to-work-as-first-electric-trucks-reach-customers/>
+
+---
+
+## Hyundai is preparing to launch its first electric minivan: Here’s what we know so far
+
+date: 2024-12-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Hyundai-first-EV-minivan.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/hyundai/">Hyundai</a> is gearing up to launch its first all-electric minivan. Production is set to begin next year, and the EV minivan is expected to play a key role in its global expansion. Here’s what to expect.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="395430" href="https://electrek.co/2024/12/27/hyundai-preps-launch-first-ev-minivan-what-to-expect/#more-395430" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/27/hyundai-preps-launch-first-ev-minivan-what-to-expect/>
+
+---
+
+## Schneider electric semi truck fleet hits 6 million miles driven
+
+date: 2024-12-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/schneider_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://electrek.co/2023/11/20/schneider-1-million-emission-free-miles-freightliner-ecascadia-electric-trucks/">Just a year after it hit the 1 million electric mile mark</a>, Schneider National <a href="https://finance.yahoo.com/quote/SNDR/">($SNDR)</a> and its unmistakable orange semi trucks have thrown down the gauntlet – adding more than 5 million miles to its BEV tally and crossing the 6 million electric mile mark!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,freightliner,heavy-equipment" data-layer-viewtype="unknown" data-post-id="395440" href="https://electrek.co/2024/12/27/schneider-electric-semi-truck-fleet-hits-6-million-miles-driven/#more-395440" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/27/schneider-electric-semi-truck-fleet-hits-6-million-miles-driven/>
+
+---
+
+## VW has a fix for its ID.4 recall, and sales are starting back up now
+
+date: 2024-12-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/P1033167-edited-e1709159978272.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Volkswagen has identified a solution for its ID.4 recall and is ready to start producing post-recall ID.4s, with sales restarting now or soon at a dealership near you.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="395434" href="https://electrek.co/2024/12/27/vw-has-a-fix-for-its-id-4-recall-and-sales-are-starting-back-up-now/#more-395434" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/27/vw-has-a-fix-for-its-id-4-recall-and-sales-are-starting-back-up-now/>
+
+---
+
+## Honda's CEO Struggles To Explain Why Nissan Merger Makes Sense
+
+date: 2024-12-27, from: Inside EVs News
+
+Honda's CEO said it was "difficult" to pinpoint what makes Nissan a strong business partner. 
+
+<br> 
+
+<https://insideevs.com/news/745625/honda-nissan-merger-struggling-reason/>
+
+---
+
+## Podcast: Electrek car of the year, NIO Day, what’s coming for EVs in 2025, and more
+
+date: 2024-12-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss our choice for Electrek car of the year, NIO Day, what’s coming for EVs in 2025, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Electrek-366.mp3"></audio></figure>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="395388" href="https://electrek.co/2024/12/27/podcast-electrek-car-of-the-year-nio-day-whats-coming-for-evs-in-2025-and-more/#more-395388" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/27/podcast-electrek-car-of-the-year-nio-day-whats-coming-for-evs-in-2025-and-more/>
+
+---
+
+## Would you buy an EV without $7,500 credit?
+
+date: 2024-12-27, from: Electrek Feed
+
+ 
+
+<br> 
+
+<https://electrek.co/poll-post/would-you-buy-an-ev-without-7500-credit/>
+
+---
+
+## Electrek’s EV of 2024: The Volvo EX30
+
+date: 2024-12-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/image_1f2d05.png?w=1600" /></div><p>2024’s Electrek EV of the year will again be controversial: The <a href="https://electrek.co/2023/11/05/volvo-ex30-review/">Volvo EX30</a>. The svelt car from the Swedish brand that is owned by a Chinese company tops our list because it embodies the future of EVs. The EX30 was originally going to be made in only in China, but is now being built in Europe as well and it could even be built in the US where <a href="https://electrek.co/2024/11/06/volvo-confirms-ex30-will-arrive-in-us-by-end-of-2024/">deliveries are just now starting</a>.</p>
+
+
+
+<p>The non controversial part is that this is an amazing EV. From the Swedish minimalist interior and exterior styling, to the AWD version’s 3.4 0-60 time (the quickest accelerating Volvo) to its $35,000 starting price, the EX30 screams innovation.  But, as they say, that’s not all…</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electreks-vehicle-of-the-year,volvo-ex30" data-layer-viewtype="unknown" data-post-id="395363" href="https://electrek.co/2024/12/27/electreks-ev-of-2024-the-volvo-ex30/#more-395363" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/27/electreks-ev-of-2024-the-volvo-ex30/>
+
+---
+
+## CATL announces new stock listing plans as the EV battery giant expands globally
+
+date: 2024-12-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/CATL-EV-experience.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The world’s largest EV battery maker wants an even bigger market share. On Thursday, <a href="https://electrek.co/guides/catl/">CATL</a> announced plans to list on the Hong Kong Stock Exchange to drive the company’s “global strategic layout” and improve its competitiveness.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="catl" data-layer-viewtype="unknown" data-post-id="395389" href="https://electrek.co/2024/12/27/catl-announces-new-stock-listing-boost-global-ev-battery-share/#more-395389" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/27/catl-announces-new-stock-listing-boost-global-ev-battery-share/>
+
+---
+
+## Anker SOLIX New Year sale takes 50% off power stations, Samsung AI Combo washer/dryer $1,125 off, Hyper e-bike, more
+
+date: 2024-12-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Anker-SOLIX-New-Year-sale.png?w=1600" /></div><p>I hope everyone’s holidays were merry and filled with good food and better company! Closing out this week’s Green Deals is the <a href="https://9to5toys.com/2024/12/27/anker-solix-new-year-weekend-flash-sales/">Anker SOLIX New Year Sale</a> which is not only extending its Christmas savings into 2025 but also offering short-lived flash sale lows through the weekend, with one being the <a href="https://9to5toys.com/2024/12/27/anker-solix-new-year-weekend-flash-sales/">C800 Plus</a> Portable Power Station at its <a href="https://9to5toys.com/2024/12/27/anker-solix-new-year-weekend-flash-sales/">$429</a> Cyber Monday low while it lasts. There are also <a href="https://9to5toys.com/2024/12/27/samsungs-ai-combo-all-in-one-electric-washer-and-ventless-dryer-at-2199-through-the-rest-of-the-year-reg-3324/">Samsung’s AI Combo</a> Electric Washer and Ventless Dryer, which are down at <a href="https://9to5toys.com/2024/12/27/samsungs-ai-combo-all-in-one-electric-washer-and-ventless-dryer-at-2199-through-the-rest-of-the-year-reg-3324/">$2,199</a> for the rest of the year, as well as several other Bespoke smart appliance deals. And we’ve got two one-day-only discounts from Best Buy too – first, on the <a href="https://9to5toys.com/2024/12/27/for-the-rest-of-the-day-grab-hypers-26-inch-electric-mountain-bike-at-new-550-low-reg-1000/">Hyper 26-inch Electric Mountain Bike</a> at a new <a href="https://9to5toys.com/2024/12/27/for-the-rest-of-the-day-grab-hypers-26-inch-electric-mountain-bike-at-new-550-low-reg-1000/">$550</a> low, while <a href="https://9to5toys.com/2024/12/27/clear-a-6-car-driveway-with-greenworks-80v-22-inch-cordless-electric-snow-blower-at-570-reg-700-today-only/">Greenworks’ 80V 22-inch Cordless Electric Snow Blower</a> is down at <a href="https://9to5toys.com/2024/12/27/clear-a-6-car-driveway-with-greenworks-80v-22-inch-cordless-electric-snow-blower-at-570-reg-700-today-only/">$570</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="395395" href="https://electrek.co/2024/12/27/anker-solix-new-year-sale-samsung-hyper-more/#more-395395" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/27/anker-solix-new-year-sale-samsung-hyper-more/>
+
+---
+
+## Chevrolet Volt: The Used Buyer's Guide
+
+date: 2024-12-27, from: Inside EVs News
+
+The Volt delivered more EV range than a Toyota Prius Prime, up to 53 miles in the second generation. 
+
+<br> 
+
+<https://insideevs.com/news/745275/chevy-volt-used-buying-guide/>
 
 ---
 
@@ -73,7 +249,7 @@ date: 2024-12-27, from: Electrek Feed
 
 date: 2024-12-27, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/themes/ninetofive/dist/images/default-electrek-related-guide.png?w=1600" /></div><p>In light of Tesla and its CEO Elon Musk’s support of <a href="https://electrek.co/2024/11/14/tesla-supports-killing-7500-ev-tax-credit-going-directly-against-its-mission/">ending EV credits in the US</a>, many have said that this will somehow help Tesla against the competition. But it won’t, and here’s why.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Tesla-Charging-money-pile.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In light of Tesla and its CEO Elon Musk’s support of <a href="https://electrek.co/2024/11/14/tesla-supports-killing-7500-ev-tax-credit-going-directly-against-its-mission/">ending EV credits in the US</a>, many have said that this will somehow help Tesla against the competition. But it won’t, and here’s why.</p>
 
 
 
@@ -750,4 +926,48 @@ It’s not necessarily the car’s fault, though. Here’s why.
 <br> 
 
 <https://insideevs.com/news/745142/vw-id-buzz-winter-road-trip/>
+
+---
+
+## One of Texas’ dirtiest coal plants will swap to solar with help from US grant
+
+date: 2024-12-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/San-Miguel-Electric-Cooperative-1-e1734989576530.jpg?quality=82&#038;strip=all&#038;w=1183" /></div><p>A coal plant in South Texas will shut down and convert to a solar + battery electricity generation facility, with the help of a $1.4 billion grant from the US Department of Agriculture meant to help clean energy while saving rural jobs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="coal,solar-power,texas" data-layer-viewtype="unknown" data-post-id="394978" href="https://electrek.co/2024/12/21/one-of-texas-dirtiest-coal-plants-will-swap-to-solar-with-help-from-us-grant/#more-394978" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/21/one-of-texas-dirtiest-coal-plants-will-swap-to-solar-with-help-from-us-grant/>
+
+---
+
+## Tesla Wanted $3,000 To Fix A Dented Cybertruck. The Owner Fixed It For $25
+
+date: 2024-12-21, from: Inside EVs News
+
+Being resourceful has its advantages. 
+
+<br> 
+
+<https://insideevs.com/news/744851/tesla-cybertruck-diy-dent-removal-video/>
+
+---
+
+## Awesomely Weird Alibaba EV of the Week: This 18 MPH suitcase is a terrible idea
+
+date: 2024-12-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Suitcase-Luggages-EV-Alibaba.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I’ve got a bit of a reputation for testing out some of the <a href="https://electrek.co/2019/03/04/kiwano-ko1-plus-electric-scooter/">wildest</a>, <a href="https://electrek.co/2024/12/10/i-got-a-1000-electric-boat-from-china-two-years-ago-heres-what-it-looks-like-now/">strangest</a>, and <a href="https://electrek.co/2024/07/28/i-tested-the-worlds-most-affordable-electric-golf-cart-the-kandi-mini/">most interesting</a> non-car electric vehicles on the internet. In order to find many of these far-fetched electric steeds, all I have to do is pop open a few (dozen) Alibaba tabs in my browser and start window shopping through the world’s largest repository of creative EV engineering. That’s exactly how I found this week’s focus: a surprisingly fast and fun-looking suitcase that you can giddy-up and ride till the wheels fall off, which they very well might.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="alibaba" data-layer-viewtype="unknown" data-post-id="394919" href="https://electrek.co/2024/12/21/awesomely-weird-alibaba-ev-of-the-week-an-18-mph-suitcase/#more-394919" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/21/awesomely-weird-alibaba-ev-of-the-week-an-18-mph-suitcase/>
 

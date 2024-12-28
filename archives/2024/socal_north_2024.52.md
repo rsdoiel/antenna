@@ -1,11 +1,131 @@
 ---
 title: socal north
-updated: 2024-12-27 09:41:00
+updated: 2024-12-28 07:06:42
 ---
 
 # socal north
 
-(date: 2024-12-27 09:41:00)
+(date: 2024-12-28 07:06:42)
+
+---
+
+## The haters are wrong: the 'Wicked' singalong rules
+
+date: 2024-12-27, updated: 2024-12-28, from: The LAist
+
+Select theatres are showing singalong screenings of the beloved Broadway musical through Jan. 2, and we had to go see one. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/los-angeles-orange-county-wicked-singalong>
+
+---
+
+## Costco egg recall for salmonella receives FDA's most severe designation
+
+date: 2024-12-27, updated: 2024-12-28, from: The LAist
+
+The FDA has classified its recall of eggs sold under Costco's Kirkland brand as a Class I recall, a designation reserved for instances of the highest potential health risk — including death. 
+
+<br> 
+
+<https://laist.com/news/health/costco-egg-fda-recall-for-salmonella>
+
+---
+
+## State takes another step toward mandatory testing for reading difficulties in 2025
+
+date: 2024-12-27, updated: 2024-12-27, from: The LAist
+
+Panel of experts chooses reading difficulty screeners that districts can use for kindergarten through second grade. 
+
+<br> 
+
+<https://laist.com/news/education/state-takes-another-step-toward-mandatory-testing-for-reading-difficulties-in-2025>
+
+---
+
+## California State Parks is hosting free guided tours on New Year's Day. Check out the options in SoCal
+
+date: 2024-12-27, updated: 2024-12-27, from: The LAist
+
+During the guided hikes, you’ll be able to enjoy the outdoors and learn about local geology, wildlife and cultural treasures. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/california-state-parks-free-guided-tours-new-years-socal>
+
+---
+
+## Delivering holiday cheer to Catalina
+
+date: 2024-12-27, from: Catalina Islander
+
+For the Islander On Friday, Dec. 20, Maverick Helicopters helped spread holiday cheer to local children in need on Catalina Island. With toys collected through Maverick Helicopters’ Annual Holiday Toy Drive, Santa took to the skies flying a helicopter to Catalina Island. He made a memorable entrance in Avalon, where he distributed gifts and posed [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/delivering-holiday-cheer-to-catalina/>
+
+---
+
+## Commuter program changes
+
+date: 2024-12-27, from: Catalina Islander
+
+Commuter books to be sold only to individuals starting Jan. 6 By Charles M. Kelly Catalina Express is changing its commuter program starting on Jan. 6, 2025. “Commuter books will be sold on an individual basis only and will no longer allow multiple people to use a commuter book,” wrote Amanda Bombard of Catalina Express [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/commuter-program-changes/>
+
+---
+
+## City to request proposals for Civic Center project
+
+date: 2024-12-27, from: Catalina Islander
+
+The City Council on Dec. 17 authorized Avalon staff to publish a request for proposals for the Civic Center Housing Project. The vote was unanimous. Councilmember Mary Schickling was absent. “City Council has directed staff to prioritize private and public housing policy and development to improve overall housing stock in the City,” according to the [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/city-to-request-proposals-for-civic-center-project/>
+
+---
+
+## Avalon City Council receives and files Development Impact fee report
+
+date: 2024-12-27, from: Catalina Islander
+
+The Avalon City Council on Dec. 17 voted unanimously to receive and file the Development Impact Fees Annual Report. The report, required by state law, covered the fiscal year ending on June 30, 2024. This was a Consent Calendar item. Consent items are voted on collectively, without discussion, unless a council member pulls one or [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-city-council-receives-and-files-development-impact-fee-report/>
+
+---
+
+## Bluewater Marine to replace Pearson Dock
+
+date: 2024-12-27, from: Catalina Islander
+
+The Avalon City Council on Dec. 17 authorized the city manager to execute a contract with Bluewater Marine and Dock Specialties Inc. to replace the Barbara Pearson Public Dock. The agreement is for a maximum of $70,000. This was a Consent Calendar item. Consent items are voted on collectively, without discussion, unless a council member [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/bluewater-marine-to-replace-pearson-dock/>
+
+---
+
+## Number of registered lobbyists jumps to a record high in California
+
+date: 2024-12-27, updated: 2024-12-27, from: The LAist
+
+The increase in lobbyists means there’s now at least one lobbyist for every legislative staff member in California. 
+
+<br> 
+
+<https://laist.com/news/politics/number-of-registered-lobbyists-jumps-to-a-record-high-in-california>
 
 ---
 
@@ -59,6 +179,30 @@ The copyrights of thousands of 20th-century films, books, compositions and sound
 
 ---
 
+## My 12 most memorable LA bites in 2024
+
+date: 2024-12-27, updated: 2024-12-27, from: The LAist
+
+LAist food editor Gab Chabran recalls some memorable bites he had throughout SoCal this past year. 
+
+<br> 
+
+<https://laist.com/news/food/my-12-most-memorable-la-bites-in-2024>
+
+---
+
+## Malaysian cuisine is ready for its close-up with Rasarumah in Historic Filipinotown
+
+date: 2024-12-27, updated: 2024-12-27, from: The LAist
+
+Chef Johnny Lee, formerly of the much-loved Pearl River Deli, has partnered with the group behind Barra Santos, Found Oyster, and opened a restaurant focused on Malaysian and Southeast Asian flavors. 
+
+<br> 
+
+<https://laist.com/news/food/malaysian-cuisine-is-ready-for-its-close-up-with-rasarumah-in-historic-filipinotown>
+
+---
+
 ## 100-plus cities, including in SoCal, banned homeless camping this year. But will it work?
 
 date: 2024-12-27, updated: 2024-12-27, from: The LAist
@@ -104,30 +248,6 @@ Why not make 2025 a cheesy delight?
 <br> 
 
 <https://laist.com/news/food/specialty-la-cheese-stores-offer-new-years-ideas>
-
----
-
-## My 12 most memorable LA bites in 2024
-
-date: 2024-12-27, updated: 2024-12-27, from: The LAist
-
-LAist food editor Gab Chabran recalls some memorable bites he had throughout SoCal this past year. 
-
-<br> 
-
-<https://laist.com/news/food/my-12-most-memorable-la-bites-in-2024>
-
----
-
-## Malaysian cuisine is ready for its close-up with Rasarumah in Historic Filipinotown
-
-date: 2024-12-27, updated: 2024-12-27, from: The LAist
-
-Chef Johnny Lee, formerly of the much-loved Pearl River Deli, has partnered with the group behind Barra Santos, Found Oyster, and opened a restaurant focused on Malaysian and Southeast Asian flavors. 
-
-<br> 
-
-<https://laist.com/news/food/malaysian-cuisine-is-ready-for-its-close-up-with-rasarumah-in-historic-filipinotown>
 
 ---
 
@@ -938,4 +1058,165 @@ Su, formerly California's top labor official, has served as President Joe Biden'
 <br> 
 
 <https://laist.com/news/politics/aapi-leaders-socal-join-call-to-confirm-julie-su-as-labor-secretary>
+
+---
+
+## Fourth Year of the SC2025 Strategic Plan
+
+date: 2024-12-21, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin The new year is just around the corner and with the change of the calendar, we will be in the homestretch of the City’s Strategic Plan &#8211; Santa Clarita 2025 (SC2025). Looking back over the past 12 months, we checked off many key action items in this extensive Plan. Some [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/12/21/fourth-year-of-the-sc2025-strategic-plan/">Fourth Year of the SC2025 Strategic Plan</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/12/21/fourth-year-of-the-sc2025-strategic-plan/>
+
+---
+
+## Saturday Night Live Alum Melissa Villaseñor to Host 65th Annual LA County Holiday Celebration
+
+date: 2024-12-21, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Stand-up comedian, actor, voice impressionist, visual artist and Los Angeles native Melissa Villaseñor, who broke barriers by becoming the first-ever Latina cast member of Saturday Night Live, is set to [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/21/saturday-night-live-alum-melissa-villasenor-to-host-65th-annual-la-county-holiday-celebration/">Saturday Night Live Alum Melissa Villaseñor to Host 65th Annual LA County Holiday Celebration</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/21/saturday-night-live-alum-melissa-villasenor-to-host-65th-annual-la-county-holiday-celebration/>
+
+---
+
+## Blake Lively sues 'It Ends With Us' co-star alleging sexual harassment and retaliation
+
+date: 2024-12-21, updated: 2024-12-23, from: The LAist
+
+The lawsuit, filed on Friday, alleges inappropriate conduct perpetrated by film co-star and director Justin Baldoni, and lead producer Jamey Heath. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/blake-lively-sues-it-ends-with-us-co-star-for-sexual-harassment-and-retaliation>
+
+---
+
+## A pair of satellites will create artificial solar eclipses to study the sun
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+Astronomers hope the Proba-3 mission will help them get a better view of the corona, the sun's outer atmosphere, which is even hotter than the sun's surface. 
+
+<br> 
+
+<https://laist.com/news/a-pair-of-satellites-will-create-artificial-solar-eclipses-to-study-the-sun>
+
+---
+
+## The FDA restricts a psychoactive mushroom used in some edibles
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+The Food and Drug Administration has told food manufacturers the psychoactive mushroom Amanita muscaria isn't authorized for food, including edibles, because it doesn't meet safety standards. 
+
+<br> 
+
+<https://laist.com/news/food/the-fda-restricts-a-psychoactive-mushroom-used-in-some-edibles>
+
+---
+
+## In a lawsuit, CFPB says 3 top U.S. banks failed to protect consumers from Zelle fraud
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+The consumer financial watchdog says customers of the top three banks lost more than $870 million over seven years due to a lack of safeguards against fraud on the Zelle network. 
+
+<br> 
+
+<https://laist.com/news/in-a-lawsuit-cfpb-says-3-top-u-s-banks-failed-to-protect-consumers-from-zelle-fraud>
+
+---
+
+## Go Fact Yourself quiz for December 21
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+Our celebrity panelists Cameron Esposito and Chris Grace go head to head this week on their knowledge of the TV series 'The L Word' and the podcast 'Never Not Funny.' Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-december-21>
+
+---
+
+## LAX is expecting some 3 million air passengers this holiday season
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+TSA is expecting record number of travelers nationally this year. Here's what LAX is looking at. 
+
+<br> 
+
+<https://laist.com/news/we-are-in-the-thick-of-holiday-travel-season-and-the-belly-of-the-beast-is-lax>
+
+---
+
+## LA County's newest historical landmark is a grave that marks a little-known piece of CA history
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+The late Altadena resident Owen Brown was famed abolitionist John Brown's son. Like his father, he also participated in the Harpers Ferry raid. Later, the younger Brown settled in Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/la-county-historical-landmark-grave-altadena-california-history>
+
+---
+
+## Go Fact Yourself quiz for December 21
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+Our celebrity panelists Cameron Esposito and Chris Grace go head to head this week on their knowledge of the TV series 'The L Word' and the podcast 'Never Not Funny.' Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<>
+
+---
+
+## Asian American groups call for action against comments made by KFI host
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+Bill Handel has repeatedly referred to Asians as eating cats and dogs. 
+
+<br> 
+
+<https://laist.com/news/asian-american-groups-call-for-action-against-comments-made-by-kfi-host>
+
+---
+
+## Are postpartum mothers getting support during the Kaiser mental health worker strike?
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+The union representing 2,400 picketing Kaiser employees says postpartum psychotherapy groups are being canceled. 
+
+<br> 
+
+<https://laist.com/news/postpartum-mothers-psychotherapy-sessions-kaiser-mental-health-strike>
+
+---
+
+## University of California resolves federal complaints over its handling of discrimination cases
+
+date: 2024-12-21, updated: 2024-12-21, from: The LAist
+
+The U.S. Department of Education investigated complaints that five campuses didn't properly address harassment or discrimination related to protests over the war in Gaza. 
+
+<br> 
+
+<https://laist.com/news/education/university-of-california-resolution-federal-complaints-discrimination>
 

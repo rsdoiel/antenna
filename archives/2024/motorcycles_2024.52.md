@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2024-12-27 09:41:02
+updated: 2024-12-28 07:06:45
 ---
 
 # motorcycles
 
-(date: 2024-12-27 09:41:02)
+(date: 2024-12-28 07:06:45)
 
 ---
 
@@ -252,4 +252,16 @@ Seaweed-based biogas is now being used to power cars in Barbados.
 <br> 
 
 <https://www.rideapart.com/news/745075/sargassum-seaweed-biogas-barbados/>
+
+---
+
+## KTM Has an Entire Year's Worth of Unsold Motorcycles Piling Up
+
+date: 2024-12-21, from: Ride Apart, Electric Motorcycle News
+
+265,000 motorcycles are just...hangin' around. 
+
+<br> 
+
+<https://www.rideapart.com/news/745178/ktm-years-worth-of-unsold-motorcycles-insolvency-bankrupt/>
 

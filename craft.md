@@ -1,11 +1,11 @@
 ---
 title: craft
-updated: 2024-12-27 09:41:04
+updated: 2024-12-28 07:06:46
 ---
 
 # craft
 
-(date: 2024-12-27 09:41:04)
+(date: 2024-12-28 07:06:46)
 
 ---
 
@@ -90,4 +90,16 @@ Aesop’s Fables have long been an inspiration for carvers and “The Fox and th
 <br> 
 
 <https://blog.lostartpress.com/2024/12/23/the-fox-and-grapes-on-a-philadelphia-high-chest/>
+
+---
+
+## A Miscellany of 19th-century Tennessee Cabinetmakers & Chairmakers
+
+date: 2024-12-21, from: Lost Arg Press blog
+
+Well before gaining statehood in 1796, carpenters, cabinetmakers and chairmakers were leaving Eastern Seaboard states to settle in Tennessee. They crossed the mountains using The Great Road (also known as The Great Wagon Road). They advertised their services in local newspapers and, very fortunately for me, and possibly for you, these ads were collected by... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/21/a-miscellany-of-19th-century-tennessee-cabinetmakers-chairmakers/>
 

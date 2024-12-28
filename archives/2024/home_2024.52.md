@@ -1,11 +1,23 @@
 ---
 title: home
-updated: 2024-12-27 09:41:02
+updated: 2024-12-28 07:06:44
 ---
 
 # home
 
-(date: 2024-12-27 09:41:02)
+(date: 2024-12-28 07:06:44)
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-12-27, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -49,6 +61,18 @@ date: 2024-12-27, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/1000-cute-and-unique-female-cat-names-youll-absolutely-love/>
+
+---
+
+## These Are the Worst Times to Travel This Holiday Season
+
+date: 2024-12-27, from: Sunset Magazine - Living in the West
+
+It's a record-breaking holiday travel season. AAA outlined the best and worst times to travel between Christmas and New Year's. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-worst-times-to-travel-holidays-2025>
 
 ---
 
@@ -573,18 +597,6 @@ date: 2024-12-25, from: Yard Life blog
 
 ---
 
-## Sunset.com Home Page
-
-date: 2024-12-24, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## How to Grow and Care for Vanilla Orchids
 
 date: 2024-12-24, from: The Gardener's Path
@@ -760,18 +772,6 @@ Bing Crosby's Palm Desert estate is on the market for $13.5 million. The histori
 
 ---
 
-## These Are the Worst Times to Travel This Holiday Season
-
-date: 2024-12-23, from: Sunset Magazine - Living in the West
-
-It's a record-breaking holiday travel season. AAA outlined the best and worst times to travel between Christmas and New Year's. 
-
-<br> 
-
-<https://www.sunset.com/travel/best-worst-times-to-travel-holidays-2025>
-
----
-
 ## Santa’s Reindeer Cleared for Visit to California
 
 date: 2024-12-23, from: Calfifornia Dept. Aggriculture blog
@@ -874,4 +874,44 @@ date: 2024-12-22, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/succulents/grow-mother-of-thousands/>
+
+---
+
+## These Are the Most Festive Holiday Bars to Visit Right Now
+
+date: 2024-12-21, from: Sunset Magazine - Living in the West
+
+These bars across the West are all decked out for the holidays. Now is the time to enjoy festive drinks before it's too late. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/holiday-bars-in-the-west>
+
+---
+
+## Want kids to eat vegetables? Grow them
+
+date: 2024-12-21, from: Greg Alder's blog, Yard Post
+
+<p>Over the years I’ve noticed a phenomenon that I have to share because I hear some parents talk of their kids not wanting to eat vegetables. One thing that I guarantee will increase their consumption is allowing them to graze. Grow what you want them to eat, and then give them access. They will take [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/want-kids-to-eat-vegetables-grow-them/">Want kids to eat vegetables? Grow them</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/want-kids-to-eat-vegetables-grow-them/>
+
+---
+
+## Rare Plant of the Month: Morro manzanita
+
+date: 2024-12-21, from: California Native Plants Society
+
+<p>Morro manzanita has a California Rare Plant Rank of 1B.1 and is Federally listed as Threatened. In its limited range, it grows on specialized sandy soils in chaparral, oak woodland, coastal dunes, and coastal scrub, including coast live oak elfin forest habitat.</p>
+<p>The post <a href="https://www.cnps.org/rare-plants/rare-plant-of-the-month-morro-manzanita-41566">Rare Plant of the Month: Morro manzanita</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/rare-plants/rare-plant-of-the-month-morro-manzanita-41566>
 

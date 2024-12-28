@@ -1,11 +1,76 @@
 ---
 title: pacific
-updated: 2024-12-27 09:41:00
+updated: 2024-12-28 07:06:42
 ---
 
 # pacific
 
-(date: 2024-12-27 09:41:00)
+(date: 2024-12-28 07:06:42)
+
+---
+
+## UH team honored for Native Hawaiian fashion research
+
+date: 2024-12-27, from: University of Hawaiʻi News
+
+<p>A <abbr>UH</abbr> M&#257;noa research team has earned top honors at the 2024 International Textile and Apparel Association.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/27/native-hawaiian-fashion-research/"><abbr>UH</abbr> team honored for Native Hawaiian fashion research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/27/native-hawaiian-fashion-research/>
+
+---
+
+## Guam’s cultural crossroads: 500 years after 'Destiny’s Landfall'
+
+date: 2024-12-27, from: Pacific Island Times
+
+While pre-discovery Guam remains a mystery, historians tirelessly piece together our CHamoru heritage through available documents.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-s-cultural-crossroads-500-years-after-destiny-s-landfall>
+
+---
+
+## In memoriam: Trailblazing business leader, UH alum Richard Parsons
+
+date: 2024-12-27, from: University of Hawaiʻi News
+
+<p>The Brooklyn, New York native’s path to corporate leadership began at <abbr>UH</abbr> Mānoa, where he enrolled at age 16 and studied history from 1964 to 1968.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/27/in-memoriam-richard-parsons/">In memoriam: Trailblazing business leader, <abbr>UH</abbr> alum Richard Parsons</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/27/in-memoriam-richard-parsons/>
+
+---
+
+## The Challenges of Alzheimer’s
+
+date: 2024-12-27, from: KĀKOU: Hawaiʻi’s Town Hall
+
+<p>PBS Hawai‘i has invited people from across the state to join us for the next KĀKOU: Hawai‘i’s Town Hall to discuss, The Challenges of Alzheimer's</p>
+<p>The post <a href="https://www.pbshawaii.org/kakou-hawaiis-town-hall-the-challenges-of-alzheimers/">The Challenges of Alzheimer&#8217;s</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/kakou-hawaiis-town-hall-the-challenges-of-alzheimers/>
+
+---
+
+## Aerospace engineering student wins national space science award
+
+date: 2024-12-27, from: University of Hawaiʻi News
+
+<p>Sapphira Akins is now working on her master's degree with the <abbr>BAM</abbr> (bachelor's and master's) program.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/27/akins-usra-award/">Aerospace engineering student wins national space science award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/27/akins-usra-award/>
 
 ---
 
@@ -253,6 +318,19 @@ date: 2024-12-26, from: Marshal Islands Journal
 <br> 
 
 <https://marshallislandsjournal.com/more-buying-less-singing/>
+
+---
+
+## A new era of leadership: UH‘s new President Wendy Hensel
+
+date: 2024-12-26, from: University of Hawaiʻi News
+
+<p>Wendy Hensel will assume the role of <abbr>UH</abbr> president on January 1, 2025. With a leadership style rooted in compassion, she is poised to tackle key challenges.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/26/a-new-era-of-leadership/">A new era of leadership: <abbr>UH</abbr>‘s new President Wendy Hensel</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/26/a-new-era-of-leadership/>
 
 ---
 
@@ -1801,4 +1879,263 @@ By Pacific Island Times News Staff   Guam stands to lose $100 million in federa
 <br> 
 
 <https://www.pacificislandtimes.com/post/adelup-guam-stands-to-lose-100m-in-federal-funds-due-to-moylan-s-lawsuit>
+
+---
+
+## With This MoMA Artist, the Painting Does the Talking
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>RICHMOND, Calif. &#8212; Before Marlon Mullen begins a painting, he likes to tidy his work space. He&#8217;ll pre-mix his paints &#8212; Golden acrylics in recycled pots &#8212; and lay out his brushes and canvas on his table. Often, he&#8217;ll empty the studio&#8217;s trash cans. Sometimes he&#8217;ll even sweep the yard outside, or rearrange objects on the studio shelves according to their relation to colors he plans to use in his painting. As I learned when I visited him in Richmond, California, one recent rainy morning, this ritual process can take days.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/with-this-moma-artist-the-painting-does-the-talking/>
+
+---
+
+## Putin’s weaker than he looks. Seize the opportunity
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>Russian President Vladimir Putin has sought to project an image of economic strength while prosecuting the war in Ukraine, as if he could easily outlast the West&#8217;s efforts to counter his aggression. If President-elect Donald Trump and other Western leaders want to negotiate a prudent peace deal, they shouldn&#8217;t buy it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/opinion/their-views/putins-weaker-than-he-looks-seize-the-opportunity/>
+
+---
+
+## Angry residents of cyclone-hit Mayotte jeer Macron, plead for water
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>MAYOTTE &#8212; Angry residents of a Mayotte neighbourhood damaged by Cyclone Chido heckled French President Emmanuel Macron when he toured it on Friday, complaining that potable water had not reached them nearly a week after the storm hit the Indian Ocean archipelago.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/angry-residents-of-cyclone-hit-mayotte-jeer-macron-plead-for-water/>
+
+---
+
+## Trump aims at Biden’s Inflation Reduction Act: EVs, clean energy and manufacturing
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>President-elect Donald Trump has vowed to repeal Joe Biden&#8217;s signature climate bill called the Inflation Reduction Act, which initially aimed at some $400 billion in new spending and tax cuts and credits at accelerating America&#8217;s transition to a green energy economy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/trump-aims-at-bidens-inflation-reduction-act-evs-clean-energy-and-manufacturing/>
+
+---
+
+## Starbucks workers’ union goes on strike in US cities as talks hit impasse
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>Some members of the workers&#8217; union representing over 10,000 baristas at Starbucks began a five-day strike at stores in Los Angeles, Chicago, and Seattle starting Friday, citing unresolved issues over wages, staffing and schedules. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/starbucks-workers-union-goes-on-strike-in-us-cities-as-talks-hit-impasse/>
+
+---
+
+## Russian rush-hour missile strike on Kyiv kills one, damages embassies
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine&#8212; A Russian missile strike killed at least one person and damaged a historical cathedral, six embassies and other buildings across the Ukrainian capital during the morning rush hour on Friday, Ukrainian officials said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/russian-rush-hour-missile-strike-on-kyiv-kills-one-damages-embassies/>
+
+---
+
+## Israel’s Netanyahu eyes Iran after triumphs over Hamas, Hezbollah, Syria
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>DUBAI, UAE &#8212; 2025 will be a year of reckoning for Israeli Prime Minister Benjamin Netanyahu and his country&#8217;s arch foe Iran.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/israels-netanyahu-eyes-iran-after-triumphs-over-hamas-hezbollah-syria/>
+
+---
+
+## Why it’s hard to control what gets taught in public schools
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>Oklahoma and Texas are among more than 20 states that have passed laws since 2021 seeking to control how race, gender and American history are discussed in schools.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/why-its-hard-to-control-what-gets-taught-in-public-schools/>
+
+---
+
+## Biden withdraws proposed regulations on student loans and trans athletes
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Biden administration on Friday withdrew some of its main outstanding plans to enact significant federal student loan forgiveness and to set rules around the participation of transgender athletes on school sports teams.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/biden-withdraws-proposed-regulations-on-student-loans-and-trans-athletes/>
+
+---
+
+## Collecting debris from the fatal plane crash is NTSB’s focus
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>The National Transportation Safety Board said its investigation into Tuesday&#8217;s Kamaka Air crash that left two young Oahu pilots dead remains in its early stages, with current efforts focused on collecting airplane debris from a heavily damaged area of the building where the plane went down.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/hawaii-news/collecting-debris-from-the-fatal-plane-crash-is-ntsbs-focus/>
+
+---
+
+## Hawaii pilot killed in plane crash was set to get wings, propose to girlfriend
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>Hiram deFries was about to have the week of his young life.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/hawaii-news/hawaii-pilot-killed-in-plane-crash-was-set-to-get-wings-propose-to-girlfriend/>
+
+---
+
+## House passes bill to avert shutdown with hours to spare
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The House on Friday approved legislation to avert a federal shutdown that was just hours away, with lawmakers extending funding into mid-March and approving $100 billion in disaster relief for parts of the nation still reeling from storms. The Senate was expected to quickly follow suit.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/house-passes-bill-to-avert-shutdown-with-hours-to-spare/>
+
+---
+
+## A mouse that swims and dozens more species are discovered in a Peruvian jungle
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>In the summer of 2022, researchers trudged into the jungles of the Alto Mayo region of Peru in search of undiscovered creatures. This remote yet populous region had experienced significant deforestation, so the team didn&#8217;t expect to find much.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/a-mouse-that-swims-and-dozens-more-species-are-discovered-in-a-peruvian-jungle/>
+
+---
+
+## Tropical Gardening: Celebrate a merry Christmas and a happy Hanukkah
+
+date: 2024-12-21, from: Hawaii Tribune Harold
+
+
+				<p>This is the perfect weekend with Christmas and Hanukkah right around the corner along with Boxing Day.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/21/features/tropical-gardening-celebrate-a-merry-christmas-and-a-happy-hanukkah/>
+
+---
+
+## US Senate passes government funding bill, averts shutdown
+
+date: 2024-12-21, updated: 2024-12-22, from: Marianas Variety
+
+WASHINGTON (Reuters) — The U.S. Congress passed spending legislation early on Saturday in a down-to-the wire burst of activity that will avert a destabilizing government shutdown ahead of the busy holiday travel season. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/us-senate-passes-government-funding-bill-averts-shutdown/article_8243055a-bf6b-11ef-8c63-031b894abf36.html>
+
+---
+
+## ‘I'm going to fight this all the way’: Veterinarian vows to challenge Guam agency's land taking 
+
+date: 2024-12-21, from: Pacific Island Times
+
+Dr. Joel Joseph, who owns two pieces of property marked to be condemned for a hospital project, said he would contest the government’s attem 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/i-m-going-to-fight-this-all-the-way-veterinarian-vows-to-challenge-guam-agency-s-land-taking>
+
+---
+
+## State lawmakers tour UH Mānoa’s student services, new destress sanctuary
+
+date: 2024-12-21, from: University of Hawaiʻi News
+
+<p>The <abbr>UH</abbr> Mānoa Talk Story: Campus Tour invited state legislators to discover and support services and programming for students.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/20/state-lawmakers-tour-uh-manoa/">State lawmakers tour <abbr>UH</abbr> Mānoa’s student services, new destress sanctuary</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/20/state-lawmakers-tour-uh-manoa/>
+
+---
+
+## Sculpture honors pioneering scientist Alice Ball
+
+date: 2024-12-21, from: University of Hawaiʻi News
+
+<p>In 1915, Ball became the first African-American and woman to graduate from both <abbr>UH</abbr> Mānoa and the U.S. with a master’s degree in chemistry.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/20/sculpture-honors-alice-ball/">Sculpture honors pioneering scientist Alice Ball</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/20/sculpture-honors-alice-ball/>
+
+---
+
+## Scholarships fuel culinary dreams at Hawaiʻi CC
+
+date: 2024-12-21, from: University of Hawaiʻi News
+
+<p>Culinary students Casey Chow and Marielle Acupan have received scholarships from the Japanese Chamber of Commerce and Industry of <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/20/culinary-dreams-scholarships-hawaii-cc/">Scholarships fuel culinary dreams at Hawaiʻi <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/20/culinary-dreams-scholarships-hawaii-cc/>
 

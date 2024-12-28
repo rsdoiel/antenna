@@ -1,11 +1,47 @@
 ---
 title: science and technology
-updated: 2024-12-27 09:41:01
+updated: 2024-12-28 07:06:42
 ---
 
 # science and technology
 
-(date: 2024-12-27 09:41:01)
+(date: 2024-12-28 07:06:42)
+
+---
+
+## Microsoft puts an “AI” in a shell’s split view
+
+date: 2024-12-27, from: OS News
+
+AI Shell is an interactive shell that provides a chat interface with language models. The shell provides agents that connect to different AI models and other assistance providers. Users can interact with the agents in a conversational manner. ↫ Microsoft Learn Basically, what Microsoft means with this is a split-view terminal where one of the two views is a prompt where you can ask questions to an &#8220;AI&#8221;, like OpenAI or whatever. The &#8220;AI&#8221; features are not actually integrated into your shell, which instead lives in the other view and acts like a completely normal, standard shell. Instead of opening up an &#8220;AI&#8221; chatbot in a browser window or whatever, you now have it in a split view in your terminal &#8211; that&#8217;s really all there&#8217;s to it here. I&#8217;m going to blow your mind here and say that in theory, this could be an actually useful addition to terminals and shells, as a properly vetted and configured &#8220;AI&#8221; that has been trained on properly obtained source material could indeed be a great help in determining the right terminal commands and options. Tons of people already blindly copy and paste terminal commands from websites even though they really shouldn&#8217;t anyway, so it&#8217;s not like this introduces anything new here in terms of dangers. Hell, tutorial writers still add -y to dnf or apt-get commands, so it can really only go up from here. 
+
+<br> 
+
+<https://www.osnews.com/story/141421/microsoft-puts-an-ai-in-a-shells-split-view/>
+
+---
+
+## OpenAI plans to ring in the New Year with a for-profit push
+
+date: 2024-12-27, updated: 2024-12-27, from: The Register (UK I.T. News)
+
+<h4>We have altered the deal, pray we don’t alter it any further</h4> <p>Amid growing competition and skyrocketing compute requirements necessary to support the next generation of AI models, OpenAI is shaking up its corporate structure - again.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/27/openai_for_profit_push/>
+
+---
+
+## NASA’s Parker Solar Probe Makes History With Closest Pass to Sun
+
+date: 2024-12-27, from: NASA breaking news
+
+Operations teams have confirmed NASA’s mission to “touch” the Sun survived its record-breaking closest approach to the solar surface on Dec. 24, 2024. Breaking its previous record by flying just 3.8 million miles above the surface of the Sun, NASA’s Parker Solar Probe hurtled through the solar atmosphere at a blazing 430,000 miles per hour […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/nasas-parker-solar-probe-makes-history-with-closest-pass-to-sun/>
 
 ---
 
@@ -630,4 +666,40 @@ Unlike much of Georgia, the historic port city was preserved from Sherman’s wr
 <br> 
 
 <https://www.smithsonianmag.com/smart-news/general-sherman-offered-savannah-as-a-christmas-gift-to-president-lincoln-the-victory-signaled-the-end-of-his-brutal-march-to-the-sea-180985720/>
+
+---
+
+## Biden’s antitrust crackdown on tech M&amp;As may linger into Trump’s reign
+
+date: 2024-12-21, updated: 2024-12-24, from: The Register (UK I.T. News)
+
+<h4>Lina Khan’s tenure may end, but the regulatory hurdles she helped build aren’t going anywhere</h4> <p><strong>Analysis</strong>  When Donald Trump takes office for his second term on January 20, many expect sweeping changes across the board. But among tech players, when it comes to mergers and acquisitions, those hoping for looser regulations might be disappointed. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/21/trump_tech_merger_acquisition/>
+
+---
+
+## How a College Gym Teacher in Massachusetts Invented a New Sport to Keep His Students Entertained and Fit During the Frigid Winter
+
+date: 2024-12-21, from: Smithsonian Magazine
+
+From a humble first game with peach baskets and a soccer ball on this day in 1891, basketball evolved quickly into one of the world's most popular sports 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/how-a-college-gym-teacher-in-massachusetts-invented-a-new-sport-to-keep-his-students-entertained-and-fit-during-the-frigid-winter-180985651/>
+
+---
+
+## Never forgive them
+
+date: 2024-12-21, from: OS News
+
+The people running the majority of internet services have used a combination of monopolies and a cartel-like commitment to growth-at-all-costs thinking to make war with the user, turning the customer into something between a lab rat and an unpaid intern, with the goal to juice as much value from the interaction as possible. To be clear, tech has always had an avaricious streak, and it would be naive to suggest otherwise, but this moment feels different. I’m stunned by the extremes tech companies are going to extract value from customers, but also by the insidious way they’ve gradually degraded their products.  ↫ Ed Zitron This is the reality we&#8217;re all living in, and it&#8217;s obvious from any casual computer use, or talking to anyone who uses computers, just how absolutely dreadful using the mainstream platforms and services has become. Google Search has become useless, DuckDuckGo is being overrun with &#8220;AI&#8221;-generated slop, Windows is the operating system equivalent of this, Apple doesn&#8217;t even know how to make a settings application anymore, iOS is yelling at you about all the Apple subscriptions you don&#8217;t have yet, Android is adding &#8220;AI&#8221; to its damn file manager, and the web is unusable without aggressive ad blocking. And all of this is not only eating up our computers&#8217; resources, it&#8217;s also actively accelerating the destruction of our planet, just so lazy people can generate terrible images where people have six fingers. I&#8217;m becoming more and more extreme in my complete and utter dismissal of the major tech companies, and I&#8217;m putting more and more effort into taking back control over the digital aspects of my life wherever possible. Not using Windows or macOS has improved the user experience of my PCs and laptops by incredible amounts, and moving from Google&#8217;s Android to GrapheneOS has made my smartphone feel more like it&#8217;s actually mine than ever before. Using technology products and services made by people who actually care and have morals and values that don&#8217;t revolve around unending greed is having a hugely positive impact on my life, and I&#8217;m at the point now where I&#8217;d rather not have a smartphone or computer than be forced to use trashware like Windows, macOS, or iOS. The backlash against shitty technology companies and their abusive practices is definitely growing, and while it hasn&#8217;t exploded into the mainstream just yet, I think we&#8217;re only a few more shitty iOS updates and useless Android &#8220;AI&#8221; features away from a more general uprising against the major technology platforms. There&#8217;s a reason laws like the DMA are so overwhelmingy popular, and I feel like this is only the beginning. 
+
+<br> 
+
+<https://www.osnews.com/story/141399/never-forgive-them/>
 

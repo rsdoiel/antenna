@@ -1,11 +1,75 @@
 ---
 title: writing
-updated: 2024-12-27 09:41:01
+updated: 2024-12-28 07:06:43
 ---
 
 # writing
 
-(date: 2024-12-27 09:41:01)
+(date: 2024-12-28 07:06:43)
+
+---
+
+## New Books YouTube Video Is Up!
+
+date: 2024-12-27, from: Locus Magazine
+
+<p>It&#8217;s the end of 2024 and we&#8217;ve got one last video for you, so come on by our YouTube channel to discover the hottest new SF, Fantasy, Horror, and YA releases to add to your growing TBR pile! Support what we do and stay up-to-date on our videos by subscribing to the channel, we upload every week and you don&#8217;t wanna miss out on your next favorite book!</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2024/12/new-books-youtube-video-is-up/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/12/new-books-youtube-video-is-up/>
+
+---
+
+## Write On: 'Nosferatu' Writer & Director Robert Eggers
+
+date: 2024-12-27, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-nosferatu-writer-director-robert-eggers" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Robert%20Eggers%20-%20Nosferatu_.png" alt="Write On podcast with 'Nosferatu' writer/director Robert Eggers" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<div>
+  “As someone who’s been obsessed with vampires since I was a little kid, I don’t totally know [why we love vampire movies so much]. Obviously, sex and death are always interesting and in vampire stories, including the very earliest accounts of folk vampirism in Eastern Europe, that connection has always been there. Some of these early folkloric vampires didn’t drink blood but fornicated with their widows until they died. And then, being undead, rising from the grave, you know Dracula and Jesus have had the most movies made about them of any popular characters in Western cultures, so there must be something to that as well,” says Robert Eggers, writer/director of 
+ <em>Nosferatu</em>, starring Lily Rose Depp, Nicholas Hoult and Bill Skarsgård.&nbsp; 
+ <br> 
+ <br>In this episode, Eggers talks about the play-version of Nosferatu that he wrote and directed when he was in high school, writing the Ellen character (Depp) as a woman at war with herself, and making Orlok (Skarsgård) the villain without making him too arch or campy.&nbsp; 
+ <br> 
+ <br>“[Orlok] has a sense of humor and he has a sense of poetry. He’s a well-learned man so that’s enjoyable. It’s fun to write dialogue for someone who had their heyday in the 16th century and English was like their 17th language, that’s fun,” says Eggers.&nbsp; 
+ <br> 
+ <br>We also asked Eggers about telling an old story but making it relevant to today. He says that while he doesn’t worry about making a film with a specific message, “I don’t live in a vacuum. So even if I’m not trying to write a film with a message, whatever is happening around me is coming out. Also, it’s interesting that the movie didn’t get made until when it did. The original 
+ <em>Nosferatu</em> came out a couple of years after the Spanish flu. This is coming out a couple of years after the pandemic. And I wrote all that stuff before the pandemic. In fact, they had face coverings originally, and I took them away because it felt too much on the nose. So, I think it’s all there for the taking,” he says.&nbsp; 
+ <br> 
+ <br>To hear more about the power of vampires and Egger’s writing process, listen to the podcast.&nbsp; 
+</div> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-nosferatu-writer-director-robert-eggers>
+
+---
+
+## Featured Friday: New Year’s Eve
+
+date: 2024-12-27, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we say goodbye to 2024 with some favorite features that perfectly capture those last few days of the year. You survived ‘til &#8217;25 &#8212; congratulations! Our collection includes: Fruitvale Station by Ryan Coogler Phantom [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-new-years-eve">Featured Friday: New Year’s Eve</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2024/featured-friday-new-years-eve>
 
 ---
 
@@ -263,4 +327,31 @@ date: 2024-12-22, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2024/12/a-simple-intervention-by-yael-inokai-review-by-niall-harrison/>
+
+---
+
+## The Last Dangerous Visions edited by Harlan Ellison & J. Michael Straczynski: Review by Gary K. Wolfe
+
+date: 2024-12-21, from: Locus Magazine
+
+<p><strong>The Last Dangerous Visions</strong>, Harlan Ellison &#38; J. Michael Straczynski, eds. (Blackstone 979-8-212-18379-6, $27.99, 450pp) October 2024.</p>
+<p>Speaking of unusual ways to assemble an anthol­ogy, here we have <strong>The Last Dangerous Visions</strong>, nominally edited by Harlan Ellison, but also by El­lison’s executor J. Michael Straczynski, who added seven stories he solicited himself after Ellison’s death. By my count, nine of the 24 stories were among the nearly 90  <a href="https://locusmag.com/2024/12/the-last-dangerous-visions-edited-by-harlan-ellison-j-michael-straczynski-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/the-last-dangerous-visions-edited-by-harlan-ellison-j-michael-straczynski-review-by-gary-k-wolfe/>
+
+---
+
+## Can*Con 2024
+
+date: 2024-12-21, from: Locus Magazine
+
+<p xml:lang="en-us"></p>
+<p class="normal" xml:lang="en-us">Can*Con 2024 was held November 1-3 in person at the Sheraton Hotel in Ottawa, Canada. Guests of honour were Jennifer Brozek, Sarah Gailey, Diana M. Pho, Waubgeshig Rice, and Arley Sorg. A separate virtual Can*Con was held on April 20 with roughly one hundred attendees.</p>
+<p class="normal" xml:lang="en-us">There were 400 in-person registered attendees. Programming featured 115 panelists and 107 items on writing, literature, and more, such as ‘‘Post-Colonial Perspectives on the Post-Apocalypse’’  <a href="https://locusmag.com/2024/12/cancon-2024/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/cancon-2024/>
 

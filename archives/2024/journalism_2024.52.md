@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2024-12-27 09:41:02
+updated: 2024-12-28 07:06:44
 ---
 
 # journalism
 
-(date: 2024-12-27 09:41:02)
+(date: 2024-12-28 07:06:44)
 
 ---
 
@@ -122,4 +122,17 @@ This academic year, UCLA adjusted its COVID-19 policies to align with current pu
 <br> 
 
 <https://dailybruin.com/2024/12/21/ucla-housing-removes-covid-19-isolation-rooms-for-students-who-test-positive/>
+
+---
+
+## Concert Review: Billie Eilish shows her tour is ‘THE GREATEST,’ wows at Kia Forum concert
+
+date: 2024-12-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+Billie Eilish is undoubtedly “THE GREATEST” to grace the Kia Forum.
+The nine-time Grammy winner unleashed her electric “HIT ME HARD AND SOFT: THE TOUR” for the fourth of five nights in her hometown of Los Angeles on Friday. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/21/billie-eilish-shows-her-tour-is-the-greatest-wows-at-kia-forum-concert/>
 

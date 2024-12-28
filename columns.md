@@ -1,11 +1,73 @@
 ---
 title: columns
-updated: 2024-12-27 09:41:01
+updated: 2024-12-28 07:06:43
 ---
 
 # columns
 
-(date: 2024-12-27 09:41:01)
+(date: 2024-12-28 07:06:43)
+
+---
+
+## December 26, 2024
+
+date: 2024-12-27, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153695258/bd22c278305a908bb360aea9e88a8d54.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153695258/bd22c278305a908bb360aea9e88a8d54.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-26-2024-936>
+
+---
+
+##  &#8220;Depending on the printer, trying to photocopy money might result in a... 
+
+date: 2024-12-27, updated: 2024-12-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045922-depending-on-the-printer->
+
+---
+
+##  Crazy Football Commentary, Animated! 
+
+date: 2024-12-27, updated: 2024-12-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/crazy-football-commentary-animated>
+
+---
+
+##  The 7 Coolest Mathematical Discoveries of 2024, including &#8220;the biggest prime number... 
+
+date: 2024-12-27, updated: 2024-12-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045911-the-7-coolest-mathematica>
+
+---
+
+##  &#8220;Architecton is an epic, intimate, and poetic meditation on architecture and how... 
+
+date: 2024-12-27, updated: 2024-12-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045921-architecton-is-an-epic-in>
 
 ---
 
@@ -57,7 +119,7 @@ BTW, as a longtime speaker of English <i>and</i> programmer, I think the term <a
 
 **@Dave Winer's Scripting News** (date: 2024-12-27, from: Dave Winer's Scripting News)
 
-We should be thinking about a new SQL that's much higher level. Another layer. Get all the efficiencies of a <a href="https://en.wikipedia.org/wiki/SQL#History">50+ year platform</a>, with all the understanding gained at the top level in all that time. Most of the learning I did in the last five years can be hidden behind a much simpler programming interface, imho. It's worth trying <a href="https://en.wikipedia.org/wiki/Code_refactoring">factor</a>, again imho. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/09/14/bucky.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">We should be thinking about a new SQL that's much higher level. Another layer. Get all the efficiencies of a <a href="https://en.wikipedia.org/wiki/SQL#History">50+ year platform</a>, with all the understanding gained at the top level in all that time. Most of the learning I did in the last five years can be hidden behind a much simpler programming interface, imho. It's worth trying <a href="https://en.wikipedia.org/wiki/Code_refactoring">factor</a>, again imho. 
 
 <br> 
 
@@ -99,7 +161,7 @@ If you think <i>woke</i> is the problem, try reading the US Constitution and ame
 
 **@Dave Winer's Scripting News** (date: 2024-12-27, from: Dave Winer's Scripting News)
 
-Last night's email had a YouTube video in it. I had forgotten that they get lost somewhere in the email delivery supply chain, so the fire that I put in the email was <a href="https://imgs.scripting.com/2024/12/27/emailscreen.png">not transmitted</a>. It's even worse than it appears. Here's a <a href="https://www.youtube.com/watch?v=o1mXNfI1cbU">link to the video</a> of the fire, with any luck that will get through in tonight's email. Happy holidays everyone! 
+Last night's email had a <a href="https://www.youtube.com/watch?v=o1mXNfI1cbU">YouTube video</a> in it. I had forgotten that they get lost somewhere in the email delivery supply chain, so the fire that I put in the email was <a href="https://imgs.scripting.com/2024/12/27/emailscreen.png">not transmitted</a>. It's even worse than it appears. Here's a <a href="https://www.youtube.com/watch?v=o1mXNfI1cbU">link to the video</a> of the fire, with any luck that will get through in tonight's email. Happy holidays everyone! 
 
 <br> 
 
@@ -1240,4 +1302,162 @@ I recently wrote about the future of the&#160;browser and&#160;Surf, a new app f
 <br> 
 
 <https://mastodon.social/@Migueldeicaza/113694268169474375>
+
+---
+
+##  Rickey Henderson has died aged 65. &#8220;There may not have been any... 
+
+date: 2024-12-21, updated: 2024-12-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045899-rickey-henderson-has-died>
+
+---
+
+## Yankees Legend Rickey Henderson Dies at 65
+
+date: 2024-12-21, updated: 2024-12-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.cupofcoffeenews.com/cup-of-coffee-extra-rickey-henderson-1958-2024-2/>
+
+---
+
+## December 20, 2024
+
+date: 2024-12-21, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153465790/08ff8ce87cddafe840b474a0175e3c7f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153465790/08ff8ce87cddafe840b474a0175e3c7f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-20-2024-06e>
+
+---
+
+##  Last minute gift idea for the art fan in your life: Amy... 
+
+date: 2024-12-21, updated: 2024-12-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045898-last-minute-gift-idea-for>
+
+---
+
+## Shutdown averted but Republicans deserted | Coffee Klatch for December 21, 2024
+
+date: 2024-12-21, from: Robert Reich's blog
+
+With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153430683/c701be304031ba64665c54c45d63aae1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153430683/c701be304031ba64665c54c45d63aae1.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/shutdown-averted-but-republicans>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-21, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/12/21/quayleHead.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I like to share posts from Threads on Bluesky and Mastodon to illustrate the incompatibility, the ignorance of one to the other. These guys should all be using the same protocol. It's a travesty that each of them considers their product to define the <a href="https://oursocialweb.org/">social web</a> -- they don't understand the first thing about the web, what the miracle the web was. Before the web, the tech world was as it is now, fragmented by huge companies that didn't care about anything but their own internal drama. The last thing they would consider was reusing something that was already running. While all that was going on Unix basically agreed on a core set of functions that formed a basis for interop. They weren't perfect, there were differences in each of the Unixes, but you could reuse most of what you knew on each of the platforms. But Apple, Microsoft, Sun and IBM each ran their own ecosystems. And then one day along came the web. Instead of bookshelves of docs, it wasn't even a booklet. You could be up and running with a "website" in ten minutes. I speak from experience. My first website was authored with a freaking email. Threads, Bluesky and Mastodon are the IBM, Microsoft and Apple of 2024. It's ridiculous if they think this is a web. To paraphrase the late great <a href="https://www.youtube.com/watch?v=KgtfEX2Pka0&t=65s">Lloyd Bentsen</a>, I knew the web, the web was a friend of mine. You are not the web. 
+
+<br> 
+
+<http://scripting.com/2024/12/21.html#a155902>
+
+---
+
+## Ural Notes Part 1: General Notes
+
+date: 2024-12-21, updated: 2024-12-21, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2024/12/21/ural-notes-part-1-general/>
+
+---
+
+## Plan 9 is a bicycle
+
+date: 2024-12-21, from: Liam on Linux
+
+Someone on Reddit asked <a href="https://old.reddit.com/r/unix/comments/1hih6vs/screenshots_of_plan9_operatin_system/m30q8be/">how easy it was to do &quot;simple stuff&quot; on 9front.</a><br /><br />This is not a Linux distribution. It is an experimental research OS.<br /><br />Look, all Linux distros are the same kernel with different tools slapped on top. Mostly the GNU tools and a bunch of other stuff. Linux is one operating system.<br /><br />Linux is a GPL implementation of a simple monolithic 1970s Unix kernel. All the BSDs are BSD-licensed implementations of a simple monolithic 1970s Unix kernel.<br /><br />Taking a high-level view they are different implementations of the same design.<br /><br />So it's very easy to port the same apps to all of them. All run Firefox and Thunderbird and LibreOffice. They are slightly different flavours of a single design.<br /><br />They are all just Unixes.<br /><br />Solaris and AIX and HP/UX are the same design. All just Unixes.<br /><br />Now we get to outliers. Some break up the kernel into different programs that work together. This is called a microkernel design. Mac OS X/macOS, Minix 3, QNX, CoyotOS, keyKOS. Still pretty much Unixes but weird ones.<br /><br />The big names among them, like macOS, still run the same apps. Firefox, LibreOffice, etc.<br /><br /><a href="https://www.opengroup.org/openbrand/register/">Still UNIX.<br /></a><br />9front is a distro of Plan 9. Plan 9 is NOT a Unix.<br /><br />A small team -- originally 2 guys, Dennis Ritchie and Ken Thompson, designed Unix and C.<br /><br />It caught on. Lots of people built versions of it. Some of them changed the design a bit. Doesn't really matter. It is all just Unix.<br /><br />It takes the core design and adds a million layers of junk on top, implemented by well-meaning people who just had jobs to do and get stuff working, so now it's huge and vastly complex... but it's just Unix.<br /><br />It's an ancient tradition to compare computers to vehicles. Unix is a car. Lots of people make cars. It's surprisingly hard to define what a &quot;car&quot; is but it's a box on wheels, probably with a roof (but maybe not), probably with windows (but maybe not), on wheels (probably 4, maybe 3, could be 6) with an engine.<br /><br />All Unixes are types of car. You can't take the gearbox of a Ford and just bolt it into a Honda. Won't fit. But you can take a Ford and take a Honda and put 4 people in it and drive it on the same road to the same shop and buy stuff and carry it home.<br /><br />Windows is... not a car, but it's close. Let's say it's a bus. Still a box on wheels, still carries people (but lots of them.) You can buy a bus to yourself and drive to the shops, with 40 friends instead of 4, but you wouldn't want to. It's big and slow and hard to drive and expensive. But you could do.<br /><br />Plan 9 is not Unix. Plan 9 is what the guys who invented Unix did next.<br /><br />Plan 9 is not a car.<br /><br />You are only thinking of cars. We are not talking about cars any more.<br /><br />Plan 9 is, say, a bicycle. (I know, bicycles came before cars. Sue me, it's a metaphor not a history lecture.)<br /><br />It still has wheels. It still goes places. You can sit on it, and ride it, and go hundreds of miles. You can go to the shops and do your shopping and take it home, but no, 4 of you can't. You can't put the shopping in the boot. It doesn't have a boot. You need a backpack or panniers.<br /><br />Stop thinking of cars. We have left car-land behind. There are a hundred other types of &quot;things that have wheels and go&quot; that aren't cars. There are motorbikes and roller skates and skateboards and go-karts and racing cars and unicycles and roller blades and cross-country-skiing roller-trainers and wheely shoes and loads more.<br /><br />You're asking what kind of car a bicycle is. It isn't.<br /><br />&gt; I'm just wondering how easy it would be to load this on a cheap laptop and get up and running.<br /><br />It's doable. A few hours work maybe.<br /><br />&gt; Does it require a lot of tweaking to get simple things working?<br /><br />You do not define &quot;simple things&quot;. But downthread you do.<br /><br />You will never usefully browse the web on 9front. It doesn't really have a web browser. There are some kinda sorta things that do 1% of what a mainstream web browser does but you won't like them.<br /><br />It doesn't really have &quot;apps&quot;. Nobody ever wrote any. (With rounding errors. There is a tiny bit of 3rd party software, but you won't recognise anything.)<br /><br />Plan 9 is a bicycle. It can take you places but you can't drive it if you only know how to drive cars. Never mind that it has a manual gear shift and there are 27 gears in 2 different gearing systems and no clutch and you need to memorise all the combinations you need to climb a hill and speed along the flat.<br /><br />Also, you know, you need to pedal.<br /><br />There's no engine.<br /><br />&quot;I want to write Markdown text and print it to a laser printer.&quot;<br /><br />Right, well, you'll need to find a dozen separate tools, learn how to work them, and learn how to link them together... Or, you'll need to write your own.<br /><br />Plan 9 is not the end point of the story, either.<br /><br />Plan 9 was a step on the road to Inferno. Inferno is not a car and it's not a bicycle. It is, in extremely vague and general terms, a cross between an operating system, and Java, and the JVM. All in one.<br /><br />It's... a pedal-powered aeroplane. You can't ride it to the shops but it is in its way even more amazing than a bicycle... it can fly.<br /><br />What you call &quot;simple stuff&quot; is car stuff. You can't do it. It is not as &quot;simple&quot; as you think it is.<br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=93196" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<br> 
+
+<https://liam-on-linux.dreamwidth.org/93196.html>
+
+---
+
+## dropping hyper
+
+date: 2024-12-21, from: Daniel Stenberg Blog
+
+The ride is coming to an end. The experiment is done. We tried, but we admit defeat. Four years ago we started adding support for an alternative HTTP backend in curl. It would use a library written in rust, called hyper. The idea was to introduce an alternative implementation of HTTP internals that you could &#8230; <a href="https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/" class="more-link">Continue reading <span class="screen-reader-text">dropping hyper</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/>
+
+---
+
+## December 20, 2024 
+
+date: 2024-12-21, from: Heather Cox Richardson blog
+
+This evening the House of Representatives passed a measure to fund the government for three months. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-20-2024>
+
+---
+
+## Weeknotes: Dec. 14-20, 2024
+
+date: 2024-12-21, from: Tracy Durnell Blog
+
+The theme of the week is making space. Win of the week: fixed a bunch of images on my consulting website that I&#8217;d saved with Affinity, may as well get my money&#8217;s worth out of Adobe while I have it &#8212; maybe I just used crappy settings but Affinity Photo seems to be really bad [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/12/20/weeknotes-dec-14-20-2024/>
+
+---
+
+## The Muskrat’s political ambitions keep growing 
+
+date: 2024-12-21, from: Robert Reich's blog
+
+His malignant narcissism and grandiosity rival Trump&#8217;s, but at least Trump was elected. 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-muskrats-political-ambitions>
+
+---
+
+##  My mouth is watering reading this retrospective by Cup of Jo&#8217;s retiring... 
+
+date: 2024-12-21, updated: 2024-12-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045896-my-mouth-is-watering-read>
 

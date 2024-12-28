@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2024-12-27 09:41:01
+updated: 2024-12-28 07:06:44
 ---
 
 # games
 
-(date: 2024-12-27 09:41:01)
+(date: 2024-12-28 07:06:44)
+
+---
+
+## Gladiator II, The Return, Y2K, and every movie new to streaming
+
+date: 2024-12-27, updated: 2024-12-26, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Gladiator II, the long-awaited sequel to Ridley Scott’s Oscar-winning historical epic, wades into the open waters of VOD. That’s not all; the epic drama [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/501249/new-movies-watch-streaming-gladiator-ii-the-return-y2k>
+
+---
+
+## Indiana Jones and the Great Circle made me motion sick until I changed these settings
+
+date: 2024-12-27, updated: 2024-12-27, from: Polygon Website
+
+Greetings, fellow nauseated traveler who just wanted to enjoy Indiana Jones and the Great Circle but couldn’t manage to play for longer than an hour at a time. You’ve come to the right place. I, too, couldn’t deal with the strange head bob that our hero does in this first-person game. Through a combination of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/502730/indiana-jones-great-circle-motion-sick-settings-fix-head-bob>
+
+---
+
+## The Batman sequel from Matt Reeves delayed a year, but we know more details about it
+
+date: 2024-12-27, updated: 2024-12-27, from: Polygon Website
+
+Theatergoers will have to wait a bit longer for Robert Pattinson’s Batman to return to the big screen. Matt Reeves’ follow up to 2022’s The Batman has swooped back a year from its Oct. 2, 2026 release date to Oct. 1, 2027. Warner Bros. greenlit the unnamed sequel in 2022, Reeves will direct and co-write [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/502680/batman-movie-sequel-matt-reeves-delayed-release-date>
+
+---
+
+## You could spend the rest of your life watching amazing animated shorts on YouTube
+
+date: 2024-12-27, updated: 2024-12-22, from: Polygon Website
+
+The upside of YouTube’s “You watched this one video, so you must want to see everything else we have in that vein” algorithm is that it helpfully surfaces things you didn’t even know to search for, based on interests you’ve already demonstrated. The downside is how fast that algo can get samey: Just because you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/yuletide-youtube/499736/youtube-best-animated-shorts>
+
+---
+
+## All Winterfest 2024 presents and gifts list in Fortnite
+
+date: 2024-12-27, updated: 2024-12-27, from: Polygon Website
+
+Winterfest 2024 has brought a ton of presents and gifts to Fortnite, lasting until Tuesday, Jan. 7, 2025. Winterfest is a yearly holiday event in Fortnite that provides players with new outfits (including free skins), cosmetics, emotes, and quests, but the thing on everyone’s minds is definitely the free rewards. All you have to do [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/500816/winterfest-2024-gifts-presents-all-list-first>
+
+---
+
+## How to get the free Yulejacket and Santa Dogg skins in Fortnite Winterfest 2024
+
+date: 2024-12-27, updated: 2024-12-27, from: Polygon Website
+
+Yulejacket and Santa Dogg are the two free skins in Fortnite’s Winterfest 2024 event, shown left and right respectively in the screenshot above. Enjoy Winterfest 2024 and spread holiday cheer as Yulejacket and Snoop Dogg, but you have to get them first. Getting them requires a little more work than all of the other Winterfest [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/500842/free-skins-winterfest-2024-yulejacket-santa-dogg-how-to-get>
+
+---
+
+## The best PlayStation 5 deal of the year is still available
+
+date: 2024-12-27, updated: 2024-12-27, from: Polygon Website
+
+If you missed out on some of the holiday deals on the PlayStation 5, good news: Best Buy is still offering discounted bundles featuring the slimmed-down version of the Sony console that match the same price we saw on Black Friday. Right now, you can pick up the disc-based model of the PlayStation 5 Slim [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/502520/playstation-5-sale-slim-digital-console-bundle-best-buy>
+
+---
+
+## Hot Wheels Unleashed is free today on Epic Games Store and today only
+
+date: 2024-12-27, updated: 2024-12-27, from: Polygon Website
+
+This week, tons of families all around the world gathered together to exchange gifts, eat large dinners, and subsequently pass out into blissful food-induced slumber. Christmas might be over, but Epic Games Store still has one more gift to give you: A copy of the racing game Hot Wheels Unleashed available to download for free [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/502592/hot-wheels-unleashed-epic-games-store-free-download>
 
 ---
 
@@ -381,18 +477,6 @@ Christopher Nolan has decided to get a bit more literal with his next epic, by t
 
 ---
 
-## How to get the free Yulejacket and Santa Dogg skins in Fortnite Winterfest 2024
-
-date: 2024-12-23, updated: 2024-12-23, from: Polygon Website
-
-Yulejacket and Santa Dogg are the two free skins in Fortnite’s Winterfest 2024 event, shown left and right respectively in the screenshot above. Enjoy Winterfest 2024 and spread holiday cheer as Yulejacket and Snoop Dogg, but you have to get them first. Getting them requires a little more work than all of the other Winterfest [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/fortnite-guide/500842/free-skins-winterfest-2024-yulejacket-santa-dogg-how-to-get>
-
----
-
 ## Hear ye, hear ye, this Team Fortress 2 comic is a holiday miracle
 
 date: 2024-12-23, updated: 2024-12-23, from: Polygon Website
@@ -546,4 +630,64 @@ The trendsetters online might have moved on from playing Gartic Phone, but my fa
 <br> 
 
 <https://www.polygon.com/gaming/500386/gartic-phone-free-family-game>
+
+---
+
+## Carry-On gives Netflix its first great cable thriller
+
+date: 2024-12-21, updated: 2024-12-20, from: Polygon Website
+
+A great thriller lives and dies by its complexity. Movies like All the President’s Men or Blow Out create intricate, detailed worlds of mystery that pull you in before leaving you at the center of the labyrinth to unwind yourself in the days that follow. A solid B-tier thriller, however, is all about simplicity. These [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/499107/carry-on-netflix-christmas-movie-thriller-watch-streaming>
+
+---
+
+## Star Trek as ‘going to a national park’: Lower Decks’ creator reflects on the end of the show
+
+date: 2024-12-21, updated: 2024-12-20, from: Polygon Website
+
+Years ago, comedy writer Mike McMahan got the opportunity of a lifetime — an interview to join the writing staff of a new Star Trek series, the first in over a decade. McMahan was a massive Trekkie and had recently made a splash with a parody Twitter account called “TNG Season 8,” in which he [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-trek/500534/star-trek-lower-decks-finale-interview-showrunner-bts>
+
+---
+
+## Sonic 3’s incredible laser dance sequence was all Jim Carrey’s idea, of course
+
+date: 2024-12-21, updated: 2024-12-20, from: Polygon Website
+
+One of the standout moments of Sonic the Hedgehog 3 sees Jim Carrey pulling double duty as two Doctors Robotnik —&#160;Ivo and his grandfather Gerald —&#160;merrily dancing their way through a classic Hollywood trope: the laser security grid. That sequence was not only technically challenging to pull off, Sonic 3 director Jeff Fowler tells Polygon, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/499955/sonic-3-movie-laser-dance-robotnik-jim-carrey>
+
+---
+
+## Best sci-fi movies to watch on Netflix this December
+
+date: 2024-12-21, updated: 2024-12-20, from: Polygon Website
+
+We’re more than halfway through December, which means 2025 is right around the corner with a whole new slate of new movies to look forward to. Before that, though, there are still plenty of decent sci-fi films to watch on Netflix this month to tide you over until the new year! This month, we’ve got [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/498053/best-sci-fi-movies-watch-netflix-december-2024>
+
+---
+
+## Pokémon Go December 2024 Community Weekend event guide
+
+date: 2024-12-21, updated: 2024-12-20, from: Polygon Website
+
+Pokémon Go is hosting its yearly December Community Weekend event, allowing any players who missed out on previous Community Days throughout 2024 to catch up and get another chance at finding any shines they may have missed. The event features every Pokémon that was part of a 2024 Community Day and Community Day Classic. There [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/497618/december-2024-community-day-weekend-list-schedule-spawns-shiny>
 
