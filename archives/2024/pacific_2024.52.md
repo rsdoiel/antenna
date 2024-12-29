@@ -1,11 +1,361 @@
 ---
 title: pacific
-updated: 2024-12-28 07:06:42
+updated: 2024-12-29 07:06:07
 ---
 
 # pacific
 
-(date: 2024-12-28 07:06:42)
+(date: 2024-12-29 07:06:07)
+
+---
+
+## The EPA promotes toxic fertilizer. 3M told it of risks years ago.
+
+date: 2024-12-29, from: Hawaii Tribune Harold
+
+
+				<p>In early 2000, scientists at 3M, the chemicals giant, made a startling discovery: High levels of PFAS, the virtually indestructible &#8220;forever chemicals&#8221; used in nonstick pans, stain-resistant carpets and many other products were turning up in the nation&#8217;s sewage.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/29/nation-world-news/the-epa-promotes-toxic-fertilizer-3m-told-it-of-risks-years-ago/>
+
+---
+
+## Trump weighs in on immigrant visa debate but offers little clarity
+
+date: 2024-12-29, from: Hawaii Tribune Harold
+
+
+				<p>President-elect Donald Trump appeared to weigh in Saturday on a heated debate among his supporters over the role of skilled immigrant workers in the U.S. economy, saying he had frequently used the visas for those workers and backed the program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/29/nation-world-news/trump-weighs-in-on-immigrant-visa-debate-but-offers-little-clarity/>
+
+---
+
+## Israel detains 240 Palestinians including medics after Gaza hospital raid
+
+date: 2024-12-29, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/JERUSALEM &#8212; Israeli forces detained more than 240 Palestinians including dozens of medical staff from a north Gaza hospital they raided on Friday, including its director, according to the Health Ministry in the enclave and Israel&#8217;s military.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/29/nation-world-news/israel-detains-240-palestinians-including-medics-after-gaza-hospital-raid/>
+
+---
+
+## Annual census find homelessness rising in Hawaii, nationally
+
+date: 2024-12-29, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii reported an 87% increase in total homelessness between 2023 and 2024 that was largely attributed to the devastating Aug. 8, 2023, Maui wildfires, according to the latest Point-in-Time count report by the U.S. Department of Housing and Urban Development.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/29/hawaii-news/annual-census-find-homelessness-rising-in-hawaii-nationally/>
+
+---
+
+## Musk doubles down on support for German far-right party
+
+date: 2024-12-29, from: Hawaii Tribune Harold
+
+
+				<p>Elon Musk, the world&#8217;s richest man and a close adviser to President-elect Donald Trump, shocked many in Germany this month by endorsing its far-right Alternative for Germany party, which is under surveillance by domestic intelligence for being extremist.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/29/nation-world-news/musk-doubles-down-on-support-for-german-far-right-party/>
+
+---
+
+## Putin apologizes but stops short of taking responsibility for Kazakhstan crash
+
+date: 2024-12-29, from: Hawaii Tribune Harold
+
+
+				<p>BERLIN &#8212; President Vladimir Putin of Russia on Saturday apologized for the crash of an Azerbaijan Airlines plane this past week, breaking the Kremlin&#8217;s three-day silence on the accident that killed 38 people. He did not explicitly acknowledge Russia&#8217;s responsibility for the crash.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/29/nation-world-news/putin-apologizes-but-stops-short-of-taking-responsibility-for-kazakhstan-crash/>
+
+---
+
+## Winter in London: Chilly weather, warm memories
+
+date: 2024-12-29, from: Hawaii Tribune Harold
+
+
+				<p>London dazzles year-round, so consider visiting in winter. Despite the season&#8217;s drearier weather and shorter days, London&#8217;s museums, theaters, and pubs always offer a warm, cozy welcome. And come January, tourist crowds are at a minimum, and airfare and hotel rates are generally cheaper.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/29/features/winter-in-london-chilly-weather-warm-memories/>
+
+---
+
+## Volcano Watch: Kilauea summit erupts again
+
+date: 2024-12-29, from: Hawaii Tribune Harold
+
+
+				<p>Kilauea began erupting again on December 23, 2024. This is the eighth eruption of Kilauea, and the sixth within Kaluapele, since 2020. These previous eruptions within Kaluapele lasted from less than one week to more than a year in duration. This history of activity, along with continued summit inflation, suggests that eruptive activity may continue to pause and resume in the coming days or weeks.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/29/features/volcano-watch-kilauea-summit-erupts-again/>
+
+---
+
+## Plane crashes in South Korea, killing at least 85
+
+date: 2024-12-29, from: Hawaii Tribune Harold
+
+
+				<p>A passenger plane carrying 181 people crashed while landing at an airport in southwestern South Korea on Sunday, killing at least 85 people and kicking off a dwindling search for survivors, officials said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/29/nation-world-news/plane-crashes-in-south-korea-killing-at-least-85/>
+
+---
+
+## Severe weekend weather disrupts holiday travel
+
+date: 2024-12-29, from: Hawaii Tribune Harold
+
+
+				<p>Thousands of flights around the country were delayed or canceled Saturday because of severe weather, disrupting travel for many returning home after the holidays.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/29/nation-world-news/severe-weekend-weather-disrupts-holiday-travel/>
+
+---
+
+## The bald eagle is (finally) the national bird of the United States
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>The bald eagle received a title this week that many may have assumed it already had: the national bird of the United States. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/the-bald-eagle-is-finally-the-national-bird-of-the-united-states/>
+
+---
+
+## Another Delta Airlines stowaway is caught on flight from Seattle
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>A person was captured attempting to sneak onto a Delta Airlines flight from Seattle to Honolulu on Christmas Eve, authorities said this week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/another-delta-airlines-stowaway-is-caught-on-flight-from-seattle/>
+
+---
+
+## OpenAI details plans for becoming a for-profit company
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; OpenAI revealed details Friday about its plans to adopt a new corporate structure that will remove the company from control by a nonprofit that has been the focus of contention. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/openai-details-plans-for-becoming-a-for-profit-company/>
+
+---
+
+## A strange banging sound, chaos and prayers before a plane crashes
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>TBILISI, Georgia &#8212; At first, there was a strange banging noise outside the plane. Then, while one flight attendant was standing in the cabin, something hit his arm, cutting it. The passengers, sensing something was terribly wrong, began panicking. Some began praying. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/a-strange-banging-sound-chaos-and-prayers-before-a-plane-crashes/>
+
+---
+
+## A month on, a tenuous ceasefire holds in Lebanon
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT &#8212; A fragile ceasefire between Israel and the Lebanese militant group Hezbollah has largely held for a month now, halting the deadliest war in years between the two sides and injecting a measure of calm into a region in turmoil.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/a-month-on-a-tenuous-ceasefire-holds-in-lebanon/>
+
+---
+
+## NATO to boost Baltic Sea presence after cables broken
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>HELSINKI -NATO said on Friday it would boost its presence in the Baltic Sea after the suspected sabotage this week of an undersea power cable and four internet cables, while alliance member Estonia launched a naval operation to guard a parallel electricity link.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/nato-to-boost-baltic-sea-presence-after-cables-broken/>
+
+---
+
+## At least 69 migrants killed in shipwreck off Morocco on deadly route to Spain
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>BAMAKO/LAS PALMAS, Spain (Reuters) &#8212; At least 69 people died after a boat headed from West Africa to the Canary Islands capsized off Morocco on Dec. 19, Malian authorities said, as data showed deaths of migrants attempting to reach Spain surged to an all-time high in 2024. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/at-least-69-migrants-killed-in-shipwreck-off-morocco-on-deadly-route-to-spain/>
+
+---
+
+## Enforcement of anti-money-laundering law blocked after court reversal
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>Millions of corporate entities will not have to share information about their owners with the Treasury Department after an appeals court reversed a decision that would have required them to do so by Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/enforcement-of-anti-money-laundering-law-blocked-after-court-reversal/>
+
+---
+
+## Trump backers battle online over skilled immigrants
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>Weeks before President-elect Donald Trump is to take office, a major rift has emerged among his supporters over immigration and the place of foreign workers in the U.S. labor market.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/trump-backers-battle-online-over-skilled-immigrants/>
+
+---
+
+## Migrants and end of COVID restrictions fuel jump in homelessness
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Homelessness soared to the highest level on record this year, driven by forces that included high rents, stagnant wages and a surge in migrants seeking asylum, the federal government reported Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/migrants-and-end-of-covid-restrictions-fuel-jump-in-homelessness/>
+
+---
+
+## NPR and PBS stations brace for funding battle under Trump
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>Elon Musk is gunning for public media.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/npr-and-pbs-stations-brace-for-funding-battle-under-trump/>
+
+---
+
+## Hitachi Rail files $324M lawsuit against Honolulu, HART
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>Costly delays and mismanagement over Honolulu&#8217;s over-budget, long-overdue rail line are the basis for a new lawsuit being brought by the project&#8217;s principal contractor.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/hawaii-news/hitachi-rail-files-324m-lawsuit-against-honolulu-hart/>
+
+---
+
+## The vivid thread of memories by the yard
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; People like to send fabrics to artist Suchitra Mattai. Her mother, who lives in Edison, New Jersey, home to one of the largest South Asian populations in the United States, collects saris from secondhand shops and mails them to her daughter, who lives in Los Angeles and is of Indo-Caribbean descent. Friends, relatives and friends of relatives all send their finds: silks, fringe, trim and more.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/features/the-vivid-thread-of-memories-by-the-yard/>
+
+---
+
+## After days of silence, NASA’s Parker Solar Probe phones home
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>On Dec. 24, NASA&#8217;s Parker Solar Probe swooped closer than it ever had before to the sun, just a few million miles above its blazing hot surface.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/after-days-of-silence-nasas-parker-solar-probe-phones-home/>
+
+---
+
+## Tropical Gardening: A New Year’s resolution: Let’s take lessons from nature
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>Observing the extreme polarization of folks who have different political, cultural or religious points of view over the last decade, we should recognize it is nothing new. We have had divisions throughout history, and it makes us wonder if we will ever change for the better. The answer is yes &#8212; if we are willing to focus on the real sources of our misery.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/features/tropical-gardening-a-new-years-resolution-lets-take-lessons-from-nature/>
 
 ---
 
@@ -1879,263 +2229,4 @@ By Pacific Island Times News Staff   Guam stands to lose $100 million in federa
 <br> 
 
 <https://www.pacificislandtimes.com/post/adelup-guam-stands-to-lose-100m-in-federal-funds-due-to-moylan-s-lawsuit>
-
----
-
-## With This MoMA Artist, the Painting Does the Talking
-
-date: 2024-12-21, from: Hawaii Tribune Harold
-
-
-				<p>RICHMOND, Calif. &#8212; Before Marlon Mullen begins a painting, he likes to tidy his work space. He&#8217;ll pre-mix his paints &#8212; Golden acrylics in recycled pots &#8212; and lay out his brushes and canvas on his table. Often, he&#8217;ll empty the studio&#8217;s trash cans. Sometimes he&#8217;ll even sweep the yard outside, or rearrange objects on the studio shelves according to their relation to colors he plans to use in his painting. As I learned when I visited him in Richmond, California, one recent rainy morning, this ritual process can take days.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/with-this-moma-artist-the-painting-does-the-talking/>
-
----
-
-## Putin’s weaker than he looks. Seize the opportunity
-
-date: 2024-12-21, from: Hawaii Tribune Harold
-
-
-				<p>Russian President Vladimir Putin has sought to project an image of economic strength while prosecuting the war in Ukraine, as if he could easily outlast the West&#8217;s efforts to counter his aggression. If President-elect Donald Trump and other Western leaders want to negotiate a prudent peace deal, they shouldn&#8217;t buy it.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/21/opinion/their-views/putins-weaker-than-he-looks-seize-the-opportunity/>
-
----
-
-## Angry residents of cyclone-hit Mayotte jeer Macron, plead for water
-
-date: 2024-12-21, from: Hawaii Tribune Harold
-
-
-				<p>MAYOTTE &#8212; Angry residents of a Mayotte neighbourhood damaged by Cyclone Chido heckled French President Emmanuel Macron when he toured it on Friday, complaining that potable water had not reached them nearly a week after the storm hit the Indian Ocean archipelago.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/angry-residents-of-cyclone-hit-mayotte-jeer-macron-plead-for-water/>
-
----
-
-## Trump aims at Biden’s Inflation Reduction Act: EVs, clean energy and manufacturing
-
-date: 2024-12-21, from: Hawaii Tribune Harold
-
-
-				<p>President-elect Donald Trump has vowed to repeal Joe Biden&#8217;s signature climate bill called the Inflation Reduction Act, which initially aimed at some $400 billion in new spending and tax cuts and credits at accelerating America&#8217;s transition to a green energy economy.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/trump-aims-at-bidens-inflation-reduction-act-evs-clean-energy-and-manufacturing/>
-
----
-
-## Starbucks workers’ union goes on strike in US cities as talks hit impasse
-
-date: 2024-12-21, from: Hawaii Tribune Harold
-
-
-				<p>Some members of the workers&#8217; union representing over 10,000 baristas at Starbucks began a five-day strike at stores in Los Angeles, Chicago, and Seattle starting Friday, citing unresolved issues over wages, staffing and schedules. </p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/starbucks-workers-union-goes-on-strike-in-us-cities-as-talks-hit-impasse/>
-
----
-
-## Russian rush-hour missile strike on Kyiv kills one, damages embassies
-
-date: 2024-12-21, from: Hawaii Tribune Harold
-
-
-				<p>KYIV, Ukraine&#8212; A Russian missile strike killed at least one person and damaged a historical cathedral, six embassies and other buildings across the Ukrainian capital during the morning rush hour on Friday, Ukrainian officials said.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/russian-rush-hour-missile-strike-on-kyiv-kills-one-damages-embassies/>
-
----
-
-## Israel’s Netanyahu eyes Iran after triumphs over Hamas, Hezbollah, Syria
-
-date: 2024-12-21, from: Hawaii Tribune Harold
-
-
-				<p>DUBAI, UAE &#8212; 2025 will be a year of reckoning for Israeli Prime Minister Benjamin Netanyahu and his country&#8217;s arch foe Iran.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/israels-netanyahu-eyes-iran-after-triumphs-over-hamas-hezbollah-syria/>
-
----
-
-## Why it’s hard to control what gets taught in public schools
-
-date: 2024-12-21, from: Hawaii Tribune Harold
-
-
-				<p>Oklahoma and Texas are among more than 20 states that have passed laws since 2021 seeking to control how race, gender and American history are discussed in schools.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/why-its-hard-to-control-what-gets-taught-in-public-schools/>
-
----
-
-## Biden withdraws proposed regulations on student loans and trans athletes
-
-date: 2024-12-21, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The Biden administration on Friday withdrew some of its main outstanding plans to enact significant federal student loan forgiveness and to set rules around the participation of transgender athletes on school sports teams.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/biden-withdraws-proposed-regulations-on-student-loans-and-trans-athletes/>
-
----
-
-## Collecting debris from the fatal plane crash is NTSB’s focus
-
-date: 2024-12-21, from: Hawaii Tribune Harold
-
-
-				<p>The National Transportation Safety Board said its investigation into Tuesday&#8217;s Kamaka Air crash that left two young Oahu pilots dead remains in its early stages, with current efforts focused on collecting airplane debris from a heavily damaged area of the building where the plane went down.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/21/hawaii-news/collecting-debris-from-the-fatal-plane-crash-is-ntsbs-focus/>
-
----
-
-## Hawaii pilot killed in plane crash was set to get wings, propose to girlfriend
-
-date: 2024-12-21, from: Hawaii Tribune Harold
-
-
-				<p>Hiram deFries was about to have the week of his young life.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/21/hawaii-news/hawaii-pilot-killed-in-plane-crash-was-set-to-get-wings-propose-to-girlfriend/>
-
----
-
-## House passes bill to avert shutdown with hours to spare
-
-date: 2024-12-21, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The House on Friday approved legislation to avert a federal shutdown that was just hours away, with lawmakers extending funding into mid-March and approving $100 billion in disaster relief for parts of the nation still reeling from storms. The Senate was expected to quickly follow suit.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/house-passes-bill-to-avert-shutdown-with-hours-to-spare/>
-
----
-
-## A mouse that swims and dozens more species are discovered in a Peruvian jungle
-
-date: 2024-12-21, from: Hawaii Tribune Harold
-
-
-				<p>In the summer of 2022, researchers trudged into the jungles of the Alto Mayo region of Peru in search of undiscovered creatures. This remote yet populous region had experienced significant deforestation, so the team didn&#8217;t expect to find much.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/21/nation-world-news/a-mouse-that-swims-and-dozens-more-species-are-discovered-in-a-peruvian-jungle/>
-
----
-
-## Tropical Gardening: Celebrate a merry Christmas and a happy Hanukkah
-
-date: 2024-12-21, from: Hawaii Tribune Harold
-
-
-				<p>This is the perfect weekend with Christmas and Hanukkah right around the corner along with Boxing Day.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/21/features/tropical-gardening-celebrate-a-merry-christmas-and-a-happy-hanukkah/>
-
----
-
-## US Senate passes government funding bill, averts shutdown
-
-date: 2024-12-21, updated: 2024-12-22, from: Marianas Variety
-
-WASHINGTON (Reuters) — The U.S. Congress passed spending legislation early on Saturday in a down-to-the wire burst of activity that will avert a destabilizing government shutdown ahead of the busy holiday travel season. 
-
-<br> 
-
-<https://www.mvariety.com/news/national/us-senate-passes-government-funding-bill-averts-shutdown/article_8243055a-bf6b-11ef-8c63-031b894abf36.html>
-
----
-
-## ‘I'm going to fight this all the way’: Veterinarian vows to challenge Guam agency's land taking 
-
-date: 2024-12-21, from: Pacific Island Times
-
-Dr. Joel Joseph, who owns two pieces of property marked to be condemned for a hospital project, said he would contest the government’s attem 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/i-m-going-to-fight-this-all-the-way-veterinarian-vows-to-challenge-guam-agency-s-land-taking>
-
----
-
-## State lawmakers tour UH Mānoa’s student services, new destress sanctuary
-
-date: 2024-12-21, from: University of Hawaiʻi News
-
-<p>The <abbr>UH</abbr> Mānoa Talk Story: Campus Tour invited state legislators to discover and support services and programming for students.</p>
-The post <a href="https://www.hawaii.edu/news/2024/12/20/state-lawmakers-tour-uh-manoa/">State lawmakers tour <abbr>UH</abbr> Mānoa’s student services, new destress sanctuary</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2024/12/20/state-lawmakers-tour-uh-manoa/>
-
----
-
-## Sculpture honors pioneering scientist Alice Ball
-
-date: 2024-12-21, from: University of Hawaiʻi News
-
-<p>In 1915, Ball became the first African-American and woman to graduate from both <abbr>UH</abbr> Mānoa and the U.S. with a master’s degree in chemistry.</p>
-The post <a href="https://www.hawaii.edu/news/2024/12/20/sculpture-honors-alice-ball/">Sculpture honors pioneering scientist Alice Ball</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2024/12/20/sculpture-honors-alice-ball/>
-
----
-
-## Scholarships fuel culinary dreams at Hawaiʻi CC
-
-date: 2024-12-21, from: University of Hawaiʻi News
-
-<p>Culinary students Casey Chow and Marielle Acupan have received scholarships from the Japanese Chamber of Commerce and Industry of <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
-The post <a href="https://www.hawaii.edu/news/2024/12/20/culinary-dreams-scholarships-hawaii-cc/">Scholarships fuel culinary dreams at Hawaiʻi <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2024/12/20/culinary-dreams-scholarships-hawaii-cc/>
 

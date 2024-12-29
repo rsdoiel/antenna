@@ -1,11 +1,97 @@
 ---
 title: socal north
-updated: 2024-12-28 07:06:42
+updated: 2024-12-29 07:06:06
 ---
 
 # socal north
 
-(date: 2024-12-28 07:06:42)
+(date: 2024-12-29 07:06:06)
+
+---
+
+## Big Lots reaches deal to keep hundreds of U.S. stores open
+
+date: 2024-12-29, updated: 2024-12-29, from: The LAist
+
+Big Lots said Friday it will be sold to Gordon Brothers Retail Partners, a firm that specializes in distressed companies. 
+
+<br> 
+
+<https://laist.com/news/big-lots-reaches-deal-to-keep-hundreds-of-u-s-stores-open>
+
+---
+
+## Sober curious? A new non-alcoholic bottle shop in South Pasadena might be of service
+
+date: 2024-12-29, updated: 2024-12-29, from: The LAist
+
+The new South Pasadena bottle shop Burden of Proof looks to foster community for those seeking alternative drinking options. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/sober-curious-a-new-non-alcoholic-bottle-shop-in-south-pasadena-might-be-of-service>
+
+---
+
+## These volunteers are working to clear the ocean of an underwater menace
+
+date: 2024-12-29, updated: 2024-12-29, from: The LAist
+
+Local scuba divers work to clean up “ghost nets.” 
+
+<br> 
+
+<https://laist.com/news/climate-environment/volunteers-ocean-underwater-menace-ghost-net>
+
+---
+
+## Fresh Ideas for Staying Active in the New Year
+
+date: 2024-12-28, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin With the new year beginning, it’s a great time to create personal goals, and embrace a fresh start that encourages health and happiness. Whether you want to get active, enjoy more time outside or explore new activities, our City provides countless recreational options to support your goals. Santa Clarita is [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/12/28/fresh-ideas-for-staying-active-in-the-new-year/">Fresh Ideas for Staying Active in the New Year</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/12/28/fresh-ideas-for-staying-active-in-the-new-year/>
+
+---
+
+## Winning ticket for $1.22 billion lottery jackpot sold in California, Mega Millions says
+
+date: 2024-12-28, updated: 2024-12-28, from: The LAist
+
+After three months without anyone winning the top prize in the lottery, a ticket worth an estimated $1.22 billion was sold in California for the drawing Friday night. 
+
+<br> 
+
+<https://laist.com/news/winning-ticket-for-1-22-billion-lottery-jackpot-sold-in-california-mega-millions-says>
+
+---
+
+## Trump allies warn California leaders, including LA Mayor Karen Bass, that they could go to prison over sanctuary city laws
+
+date: 2024-12-28, updated: 2024-12-28, from: The LAist
+
+A conservative organization led by Trump adviser Stephen Miller sent letters to California leaders warning of ‘serious consequences’ over sanctuary policies that protect undocumented residents. 
+
+<br> 
+
+<https://laist.com/news/trump-allies-warn-california-leaders-they-could-go-to-prison-over-sanctuary-city-laws>
+
+---
+
+## He built a massive train set in his Altadena backyard. You have one more night to see it
+
+date: 2024-12-28, updated: 2024-12-29, from: The LAist
+
+Rob Caves and members of the Christmas Tree Lane Model Railroad Society have built a gigantic model train set that is ever expanding in his backyard. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/altadena-christmas-tree-lane-model-train-set>
 
 ---
 
@@ -717,7 +803,7 @@ date: 2024-12-24, from: City of Santa Clarita
 
 ## The smell of guavas is in Southern California kitchens. Here’s why lots of people hate it
 
-date: 2024-12-24, updated: 2024-12-24, from: The LAist
+date: 2024-12-24, updated: 2024-12-26, from: The LAist
 
 Guavas are the main ingredient in the Mexican holiday drink ponche. The warmer weather is lengthening the season of the backyard crop. 
 
@@ -1058,165 +1144,4 @@ Su, formerly California's top labor official, has served as President Joe Biden'
 <br> 
 
 <https://laist.com/news/politics/aapi-leaders-socal-join-call-to-confirm-julie-su-as-labor-secretary>
-
----
-
-## Fourth Year of the SC2025 Strategic Plan
-
-date: 2024-12-21, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin The new year is just around the corner and with the change of the calendar, we will be in the homestretch of the City’s Strategic Plan &#8211; Santa Clarita 2025 (SC2025). Looking back over the past 12 months, we checked off many key action items in this extensive Plan. Some [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2024/12/21/fourth-year-of-the-sc2025-strategic-plan/">Fourth Year of the SC2025 Strategic Plan</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2024/12/21/fourth-year-of-the-sc2025-strategic-plan/>
-
----
-
-## Saturday Night Live Alum Melissa Villaseñor to Host 65th Annual LA County Holiday Celebration
-
-date: 2024-12-21, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
-
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/HC2017-2_Photo-Courtesy-The-Music-Center.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Stand-up comedian, actor, voice impressionist, visual artist and Los Angeles native Melissa Villaseñor, who broke barriers by becoming the first-ever Latina cast member of Saturday Night Live, is set to [&#8230;]</p>
-<p>The post <a href="https://sanfernandosun.com/2024/12/21/saturday-night-live-alum-melissa-villasenor-to-host-65th-annual-la-county-holiday-celebration/">Saturday Night Live Alum Melissa Villaseñor to Host 65th Annual LA County Holiday Celebration</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
- 
-
-<br> 
-
-<https://sanfernandosun.com/2024/12/21/saturday-night-live-alum-melissa-villasenor-to-host-65th-annual-la-county-holiday-celebration/>
-
----
-
-## Blake Lively sues 'It Ends With Us' co-star alleging sexual harassment and retaliation
-
-date: 2024-12-21, updated: 2024-12-23, from: The LAist
-
-The lawsuit, filed on Friday, alleges inappropriate conduct perpetrated by film co-star and director Justin Baldoni, and lead producer Jamey Heath. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/blake-lively-sues-it-ends-with-us-co-star-for-sexual-harassment-and-retaliation>
-
----
-
-## A pair of satellites will create artificial solar eclipses to study the sun
-
-date: 2024-12-21, updated: 2024-12-21, from: The LAist
-
-Astronomers hope the Proba-3 mission will help them get a better view of the corona, the sun's outer atmosphere, which is even hotter than the sun's surface. 
-
-<br> 
-
-<https://laist.com/news/a-pair-of-satellites-will-create-artificial-solar-eclipses-to-study-the-sun>
-
----
-
-## The FDA restricts a psychoactive mushroom used in some edibles
-
-date: 2024-12-21, updated: 2024-12-21, from: The LAist
-
-The Food and Drug Administration has told food manufacturers the psychoactive mushroom Amanita muscaria isn't authorized for food, including edibles, because it doesn't meet safety standards. 
-
-<br> 
-
-<https://laist.com/news/food/the-fda-restricts-a-psychoactive-mushroom-used-in-some-edibles>
-
----
-
-## In a lawsuit, CFPB says 3 top U.S. banks failed to protect consumers from Zelle fraud
-
-date: 2024-12-21, updated: 2024-12-21, from: The LAist
-
-The consumer financial watchdog says customers of the top three banks lost more than $870 million over seven years due to a lack of safeguards against fraud on the Zelle network. 
-
-<br> 
-
-<https://laist.com/news/in-a-lawsuit-cfpb-says-3-top-u-s-banks-failed-to-protect-consumers-from-zelle-fraud>
-
----
-
-## Go Fact Yourself quiz for December 21
-
-date: 2024-12-21, updated: 2024-12-21, from: The LAist
-
-Our celebrity panelists Cameron Esposito and Chris Grace go head to head this week on their knowledge of the TV series 'The L Word' and the podcast 'Never Not Funny.' Think you might know more than they do? Go Fact Yourself! 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-december-21>
-
----
-
-## LAX is expecting some 3 million air passengers this holiday season
-
-date: 2024-12-21, updated: 2024-12-21, from: The LAist
-
-TSA is expecting record number of travelers nationally this year. Here's what LAX is looking at. 
-
-<br> 
-
-<https://laist.com/news/we-are-in-the-thick-of-holiday-travel-season-and-the-belly-of-the-beast-is-lax>
-
----
-
-## LA County's newest historical landmark is a grave that marks a little-known piece of CA history
-
-date: 2024-12-21, updated: 2024-12-21, from: The LAist
-
-The late Altadena resident Owen Brown was famed abolitionist John Brown's son. Like his father, he also participated in the Harpers Ferry raid. Later, the younger Brown settled in Los Angeles. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/la-county-historical-landmark-grave-altadena-california-history>
-
----
-
-## Go Fact Yourself quiz for December 21
-
-date: 2024-12-21, updated: 2024-12-21, from: The LAist
-
-Our celebrity panelists Cameron Esposito and Chris Grace go head to head this week on their knowledge of the TV series 'The L Word' and the podcast 'Never Not Funny.' Think you might know more than they do? Go Fact Yourself! 
-
-<br> 
-
-<>
-
----
-
-## Asian American groups call for action against comments made by KFI host
-
-date: 2024-12-21, updated: 2024-12-21, from: The LAist
-
-Bill Handel has repeatedly referred to Asians as eating cats and dogs. 
-
-<br> 
-
-<https://laist.com/news/asian-american-groups-call-for-action-against-comments-made-by-kfi-host>
-
----
-
-## Are postpartum mothers getting support during the Kaiser mental health worker strike?
-
-date: 2024-12-21, updated: 2024-12-21, from: The LAist
-
-The union representing 2,400 picketing Kaiser employees says postpartum psychotherapy groups are being canceled. 
-
-<br> 
-
-<https://laist.com/news/postpartum-mothers-psychotherapy-sessions-kaiser-mental-health-strike>
-
----
-
-## University of California resolves federal complaints over its handling of discrimination cases
-
-date: 2024-12-21, updated: 2024-12-21, from: The LAist
-
-The U.S. Department of Education investigated complaints that five campuses didn't properly address harassment or discrimination related to protests over the war in Gaza. 
-
-<br> 
-
-<https://laist.com/news/education/university-of-california-resolution-federal-complaints-discrimination>
 

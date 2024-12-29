@@ -1,11 +1,67 @@
 ---
 title: going electric
-updated: 2024-12-28 07:06:45
+updated: 2024-12-29 07:06:10
 ---
 
 # going electric
 
-(date: 2024-12-28 07:06:45)
+(date: 2024-12-29 07:06:10)
+
+---
+
+## Finally, An Electric Minivan With Six Wheels That Launches A Drone
+
+date: 2024-12-29, from: Inside EVs News
+
+Chinese automaker Xpeng's Land Aircraft Carrier will make an appearance at CES 2025. It may end up as the wildest car at the show. 
+
+<br> 
+
+<https://insideevs.com/news/745604/xpeng-flying-car-ces-2025/>
+
+---
+
+## First autonomous electric loaders in North America get to work
+
+date: 2024-12-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/sandvik_main.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Swedish multinational Sandvik says it’s successfully deployed a pair of fully autonomous Toro LH518iB battery-electric underground loaders at the New Gold Inc. (<a href="https://www.google.com/search?q=%24NGD&amp;oq=%24NGD&amp;gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg70gEIMTAxOWowajeoAgCwAgA&amp;sourceid=chrome&amp;ie=UTF-8">$NGD</a>) New Afton mine in British Columbia, Canada.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-heavy-machinery,mining" data-layer-viewtype="unknown" data-post-id="395492" href="https://electrek.co/2024/12/28/first-autonomous-electric-loaders-in-north-america-get-to-work/#more-395492" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/28/first-autonomous-electric-loaders-in-north-america-get-to-work/>
+
+---
+
+## Contargo logistics adds 20 Mercedes eActros 600 electric semis to fleet
+
+date: 2024-12-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/contargo_eActros.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>European logistics firm Contargo is adding twenty of Mercedes’ new, 500 km-capable eActros battery electric semi trucks to its trimodal delivery fleet, bringing zero-emission shipping to Germany’s <a href="https://www.merriam-webster.com/dictionary/hinterland">hinterland</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-trucks,mercedes-benz" data-layer-viewtype="unknown" data-post-id="395474" href="https://electrek.co/2024/12/28/contargo-logistics-adds-20-mercedes-eactros-600-electric-semis-to-fleet/#more-395474" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/28/contargo-logistics-adds-20-mercedes-eactros-600-electric-semis-to-fleet/>
+
+---
+
+## Tesla Has Portable Supercharger Stations That Can Go Online Lightning Quick
+
+date: 2024-12-28, from: Inside EVs News
+
+Tesla is deploying a handful of these MegapackChargers during the holiday season. 
+
+<br> 
+
+<https://insideevs.com/news/745583/tesla-portable-supercharger-station-megapackcharger/>
 
 ---
 
@@ -926,48 +982,4 @@ It’s not necessarily the car’s fault, though. Here’s why.
 <br> 
 
 <https://insideevs.com/news/745142/vw-id-buzz-winter-road-trip/>
-
----
-
-## One of Texas’ dirtiest coal plants will swap to solar with help from US grant
-
-date: 2024-12-21, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/San-Miguel-Electric-Cooperative-1-e1734989576530.jpg?quality=82&#038;strip=all&#038;w=1183" /></div><p>A coal plant in South Texas will shut down and convert to a solar + battery electricity generation facility, with the help of a $1.4 billion grant from the US Department of Agriculture meant to help clean energy while saving rural jobs.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="coal,solar-power,texas" data-layer-viewtype="unknown" data-post-id="394978" href="https://electrek.co/2024/12/21/one-of-texas-dirtiest-coal-plants-will-swap-to-solar-with-help-from-us-grant/#more-394978" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2024/12/21/one-of-texas-dirtiest-coal-plants-will-swap-to-solar-with-help-from-us-grant/>
-
----
-
-## Tesla Wanted $3,000 To Fix A Dented Cybertruck. The Owner Fixed It For $25
-
-date: 2024-12-21, from: Inside EVs News
-
-Being resourceful has its advantages. 
-
-<br> 
-
-<https://insideevs.com/news/744851/tesla-cybertruck-diy-dent-removal-video/>
-
----
-
-## Awesomely Weird Alibaba EV of the Week: This 18 MPH suitcase is a terrible idea
-
-date: 2024-12-21, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Suitcase-Luggages-EV-Alibaba.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I’ve got a bit of a reputation for testing out some of the <a href="https://electrek.co/2019/03/04/kiwano-ko1-plus-electric-scooter/">wildest</a>, <a href="https://electrek.co/2024/12/10/i-got-a-1000-electric-boat-from-china-two-years-ago-heres-what-it-looks-like-now/">strangest</a>, and <a href="https://electrek.co/2024/07/28/i-tested-the-worlds-most-affordable-electric-golf-cart-the-kandi-mini/">most interesting</a> non-car electric vehicles on the internet. In order to find many of these far-fetched electric steeds, all I have to do is pop open a few (dozen) Alibaba tabs in my browser and start window shopping through the world’s largest repository of creative EV engineering. That’s exactly how I found this week’s focus: a surprisingly fast and fun-looking suitcase that you can giddy-up and ride till the wheels fall off, which they very well might.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="alibaba" data-layer-viewtype="unknown" data-post-id="394919" href="https://electrek.co/2024/12/21/awesomely-weird-alibaba-ev-of-the-week-an-18-mph-suitcase/#more-394919" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2024/12/21/awesomely-weird-alibaba-ev-of-the-week-an-18-mph-suitcase/>
 

@@ -1,11 +1,319 @@
 ---
 title: columns
-updated: 2024-12-28 07:06:43
+updated: 2024-12-29 07:06:08
 ---
 
 # columns
 
-(date: 2024-12-28 07:06:43)
+(date: 2024-12-29 07:06:08)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-29, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/12/19/arguingWithZombies.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It took me a long time to figure out that when people respond to you on twitter-like systems they aren't actually speaking to <i>you,</i> they're talking over your shoulder to the masses they imagine are reading what you posted. Three comments. 1. There are no masses. You can see this by looking at the stats for each tweet, available on most platforms. 2. Most users on the social web are trying to get attention for themselves, the only reason they read the posts is to see if there's a place for them to attach their message. 3. A simple tweak to the software would make it so that only the author of the post being responded to could see the replies. Then they could RT a reply if they thought everyone should see it. This would make the <a href="https://oursocialweb.org/">social web</a> a lot more useful imho. 
+
+<br> 
+
+<http://scripting.com/2024/12/29.html#a141642>
+
+---
+
+## Happy New Year
+
+date: 2024-12-29, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/happy-new-year-875>
+
+---
+
+## Sunday caption contest: 2025
+
+date: 2024-12-29, from: Robert Reich's blog
+
+And last week&#8217;s winner 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-caption-contest-2025>
+
+---
+
+## AI as the Moneypenny of the 21st century
+
+date: 2024-12-29, from: John Naughton's online diary
+
+Today&#8217;s Observer column: If 2024 was the year of large language models (LLMs), then 2025 looks like the year of AI “agents”. These are quasi-intelligent systems that harness LLMs to go beyond their usual tricks of generating plausible text or &#8230; <a href="https://memex.naughtons.org/ai-as-the-miss-moneypenny-of-the-21st-century/40270/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/ai-as-the-miss-moneypenny-of-the-21st-century/40270/>
+
+---
+
+## The Story of Stent
+
+date: 2024-12-29, from: Om Malik blog
+
+Today is my 17th re-birthday. If you’ve been a longtime reader, you know why I call it my re-birthday. If you are new around here, well, here is a short recap. Just after I turned 41—17 years ago—a life of poor habits and family genetics caught up with me. I had a heart attack and &#8230; 
+
+<br> 
+
+<https://om.co/2024/12/28/the-story-of-stent/>
+
+---
+
+## December 28, 2024 
+
+date: 2024-12-29, from: Heather Cox Richardson blog
+
+On the clear, cold morning of December 29, 1890, on the Pine Ridge Reservation in South Dakota, three U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-28-2024>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-29, from: Dave Winer's Scripting News)
+
+Idea: Pipe new posts from feeds in <a href="https://feedland.social/opml?screenname=davewiner&catname=blogroll">my blogroll list</a> to Bluesky. 
+
+<br> 
+
+<http://scripting.com/2024/12/28.html#a003934>
+
+---
+
+## Why the Muskrat is wrong about opening America to skilled workers from abroad
+
+date: 2024-12-28, from: Robert Reich's blog
+
+I refused to bow to industry pressure 30 years ago, and my reasons are as legitimate now as they were then. 
+
+<br> 
+
+<https://robertreich.substack.com/p/why-the-muskrat-is-wrong-about-opening>
+
+---
+
+## Vibe Check №36
+
+date: 2024-12-28, from: Dave Rupert blog
+
+<p><a href="https://www.kut.org/energy-environment/2024-11-01/this-octobers-heat-blows-away-the-previous-record-set-77-years-ago">Hottest October on record</a>. November weather was much nicer, but lacked the much needed rain. We now pass the solstice and crash into the new year without so much as a sneeze from the gods of winter. My son’s team took second in the Fall baseball championship game. My daughter’s cheer team won their first competition gaining them a bid to nationals in the spring. Exciting times in Rupert family sports, I tell ya.</p>
+<p>Three major holidays have passed since the last update so I’m sure it’s going to be too much to distill, but I’ve tried to blog through the bigger vibes like <a href="https://daverupert.com/2024/11/goodbye-moogs/">my cat passing away</a>, <a href="https://daverupert.com/2024/12/adhd/">my ADHD diagnosis</a>, and <a href="https://daverupert.com/2024/12/my-little-games-workshop/">releasing some games</a>. So with those abstracted out, let’s reminisce on the recent past…</p>
+<h2>A trip to the mothership</h2>
+<p>The biggest event was my trip to Microsoft in November. It’s been nearly a decade since I’ve been to the Microsoft campus, but notably this is the first time I’ve met my new coworkers in person! I’m happy to report that my coworkers are all great people. Thankfully my small engineering team as well as the larger design organization is high functioning when it comes to hybrid/remote work, so I don’t feel left out of the on-premise centralized loop that I’ve felt in previous Microsoft engagements. My team made it easy to <code>&lt;slot&gt;</code> (!!!) in and feel welcome.</p>
+<img src="https://cdn.daverupert.com/posts/2024/opinions.jpg" alt="A printout of my avatar with a speech bubble that says I'm here with opinions" height="600" width="600" style="width: 100%; max-width: 400px">
+<p>An example, my sweet coworkers hung up a print out of my avatar in one of the conference rooms with a little speech bubble that says “I‘m here with OPINIONS” which I find endearing. The side bonus is that Teams the app sees the avatar and thinks its a person and will zoom-in on it in every meeting. My avatar is an ever-present participant in a lot of meetings to the extent that five different people walked up to me said “Oh, it’s the guy from the conference room!” which is probably the biggest payoff to a long running gag that I’ve seen in my lifetime.</p>
+<p>We spent most days strategizing in conference rooms but also did morale building events. One highlight for me was our studio’s tour of the Microsoft Inclusive Tech Lab where I got to talk with Dave Dame. I’ve been a fan of his for awhile now, he has a way of communicating the need to reject “other-ism” that sticks with you. He shared with us some of the challenges he faces as a person with limited mobility and <a href="https://www.youtube.com/watch?v=IFYCVWm4K4A">how AI is impacting his life for the better</a>. One night a group of us remote and local employees went out for dinner and ate grasshoppers. Another highlight was sneaking into a demo day event where designers at Edge were prototyping in the browser with web components. This grinch’s heart grew three times that day.</p>
+<p>Everyone apologized for the rain while I was there but I loved the soggy weather coming from six months of Texas heat. I found it nothing but charming. Redmond has grown up considerably in the decade since my last visit, and the Microsoft campus is almost unrecognizable to me. Redmond used to be a bunch of small one or two story buildings but now it’s all enormous five story buildings. Redmond was wooing me pretty hard though I won’t lie; next to my hotel was an outdoor mall that had an <em>izakaya</em>, a games shop, a guitar center, and an upscale Hobbytown with Gunpla! It felt like my own personal Disneyland generated from my search history.</p>
+<p>Spent a lot of time with work folks, but I caught up with a couple old friends while I was there. One night I met up with Kyle who was the other engineer at Luro who now works at Amazon. We were long overdue to celebrate in person together and close a chapter on the two years of intense sprinting we did together at Luro. Then I got to see Kelly and Charles who I worked with through multi-year engagements on microsoft.com, it’s great to know other people at such a big place like Microsoft. And one night I snuck over to Fremont for a memorable night of playing vintage and indie arcade and pinball games with Adam Argyle. It’s good to have good friends from the internet.</p>
+<p>All said, I think the main purpose of my trip – firm handshakes and letting my coworkers know I’m a real person – was a success. Hopefully, I’ll find myself in Redmond more often.</p>
+<h2>Other major happenings</h2>
+<p>A speed run of other notable events but in the interest of time we’ll keep it brief:</p>
+<ul>
+<li>In October I deleted my X account. I call it X because that’s it’s new name and it’s a stupid name for a stupid website. I put 14 years into that site and it’s surprising how easy deleting my account was. Over time logging in felt icky and the “heartbeat of the internet” parts have been co-opted by Russian bot farms. I don’t thrive on the self-created chaos Elon brings and I don’t want to support whatever flavor of white male supremacy is flourishing there. Bluer and calmer skies over on Bluesky and (my favorite) Mastodon.</li>
+<li>Halloween was a hit. My block does it pretty big and we’re lucky to have hundreds of kids roaming on my street.</li>
+<li>I only drive about 20 miles a week and I wanted those 20 miles to be fun, so we bought a Jeep. It’s a whole vibe to be honest. You can even make “Jeep” your entire personality if you want. I’m not there yet, but having fun exploring the space.</li>
+<li>Thanksgiving was low key and bought the Whole Foods pre-made dinner for four. That made prep-day simple and no one got overwhelmed.</li>
+<li>The last weekend in November <a href="https://daverupert.com/2024/11/goodbye-moogs/">our elderly cat Moogs passed away</a>.</li>
+<li><a href="https://daverupert.com/2024/12/adhd/">I got diagnosed with ADHD</a> and started taking meds.</li>
+<li>We stayed in town for Christmas and that was pretty wonderful. Mrs. Claus did a great job getting presents for the kids.</li>
+</ul>
+<p>Recapping three whole months isn’t fun, but spinning off some of the major events into their own posts was pretty efficient so I should do that more.</p>
+<h2>The more quantifiable parts</h2>
+<h3>🧠 <strong>Learning</strong></h3>
+<p>I’m sure this list is incomplete, but went down some rabbit trails researching health issues like my ADHD but a couple non-health issues as well.</p>
+<ul>
+<li>ADHD and the different medication options</li>
+<li>Intermittent fasting and the effects of glucose spikes and insulin resistance.</li>
+<li>Tone.js - In my side projects I got to play with Tone.js a bit and I love it.</li>
+<li>Soviet Central Planning - I’m curious why soviet central planning failed. This overlaps with to Stalinist communism, World War II, Russian cosmonauts, and Kremlinology.</li>
+</ul>
+<h3>🚀 Releases</h3>
+<p>I got hellbent on releasing some projects this quarter and feel accomplished even if they are small in scope.</p>
+<ul>
+<li><a href="https://mundango.daverupert.com/">Mundango</a> - A game about noticing life’s small things</li>
+<li><a href="https://pentablaster.daverupert.com/">Pentablaster</a> - An instrument with no wrong notes</li>
+<li><a href="https://hardcodesoftskills.daverupert.com/">Hard Code &amp; Soft Skills</a> - A workplaced themed RPG</li>
+</ul>
+<p>I wrote about <a href="https://daverupert.com/2024/12/my-little-games-workshop/">my little games workshop</a> more in depth if you’re curious about the why or my process. I’m also play testing a game with the ShopTalk Discord and am slowly iterating towards a release.</p>
+<h3>📖 <strong>Reading</strong></h3>
+<p>Read a lot more than I expected. After multiple recommendations I finally started reading The Murderbot Diaries and holy cow, what a great series. Each book is like a little 150-page snack that I get to enjoy. It feels good to read (e-)paper books again too, not just audiobooks.</p>
+<p><strong>Finished</strong></p>
+<ul>
+<li><a href="https://amzn.to/3nbn1hV">Humankind</a> - Finished this book for the second and it’s as great as I remember. I probably need to buy a physical copy that I can highlight up.</li>
+<li><a href="https://amzn.to/40I8Rw8">It’s not you, it’s Capitalism</a> - Marxist communism wrapped in a “You go girl!” blanket. Not for me but a good critique of the capitalist system is in there.</li>
+<li><a href="https://amzn.to/3UKf5Ic">Lost in Austin</a> - The history of Austin, as told by an Englishman, focusing on the rapid growth tech boom town era from the early 2000s to present. It’s an ever present fear that Austin is changing too much, but this book makes a good argument that what made Austin cool can’t live in the new upscale downtown and high rents.</li>
+<li><a href="https://amzn.to/3ChWZH5">All Systems Red</a>, The Murderbot Diaries No.1 - A sassy and depressed robot built for murder finds a new life after it hacks its governor module.</li>
+<li><a href="https://amzn.to/3CuuhTr">The Psychology of Money</a> - I thought this was going to be a book about understanding money from a psychological perspective; instead it was a book about how rich people abuse the system and it made me mad.</li>
+<li><a href="https://images-na.ssl-images-amazon.com/images/P/B075DGHHQL.01._SCLZZZZZZZ_.jpg">Artificial Condition</a>, The Murderbot Diaries No.2 - Another great sassy robot read.</li>
+<li><a href="https://amzn.to/3VhtcFd">Play Nice</a> - The rise, fall, and collapse of Activision/Blizzard. As someone who plays games by this company, I found it cathartic.</li>
+<li><a href="https://amzn.to/4gbKrjd">Thinking in Systems</a> - I went in hoping for design system inspiration but got mad about the incoming Trump administration because it’s a lot about incentives and guardrails, which will soon flip upside down.</li>
+<li><a href="https://koguchipress.com/products/koguchi-magazine-1-arcana-dawn">Koguchi Magazine #1</a> - A sci-fi kickstarter comic I backed… not my favorite.</li>
+<li><a href="https://koguchipress.com/products/koguchi-magazine-2-neo-future">Koguchi Magazine #2</a> - Issue #2 of the sci-fi kickstarter comic I backed… was a little bit better than the first.</li>
+<li><a href="https://amzn.to/4fRPUMt">Life in the Fasting Lane</a> - A book on the benefits of intermittent fasting… not my favorite</li>
+<li><a href="https://amzn.to/49B0bdt">Fair Play</a> - A subject I care about, the inequality gap between men and women when factoring in all the “glue work” and homemaking tasks that (typically) women absorb as part of their duties… but the husband in this book is such a cringe asshole it’s hard to think a card game is going to solve their problems when what they need is marriage counseling. I don’t want to be in the middle of that relationship so I didn’t finish the book.</li>
+<li><a href="https://amzn.to/3OWoCsA">Glucose Revolution</a> - Either this book is the holy grail to fixing all health problems in America… or it’s a book by someone who took a simple fact (glucose spikes aren’t great for your body) and extrapolated that to be the cause of all health problems ever. I think it’s the latter.</li>
+<li><a href="https://amzn.to/3VEyxXv">Rogue Protocol</a>, The Murderbot Diaries No.3 - More sassy robot. Great.</li>
+</ul>
+<p><strong>Started</strong></p>
+<ul>
+<li><a href="https://amzn.to/3Dq70mj">Exit Strategy</a>, The Murderbot Diaries No.4</li>
+</ul>
+<h3>📝 <strong>Blogging</strong></h3>
+<ul>
+<li><a href="https://daverupert.com/2024/10/super-web-components-sunshine/">Where web components shine</a> - A post celebrating web components.</li>
+<li><a href="https://daverupert.com/2024/10/hammers/">Hammers</a> - A post about hammers and nothing else.</li>
+<li><a href="https://daverupert.com/2024/11/goodbye-moogs/">Goodbye, Moogs</a> - A tribute to my cat who passed away.</li>
+<li><a href="https://daverupert.com/2024/12/adhd/">I got the ADHD, too</a> - A diagnosis! A plan!</li>
+<li><a href="https://daverupert.com/2024/12/intermittent-fasting/">Intermittent fasting</a> - A new diet I’m trying out.</li>
+<li><a href="https://daverupert.com/2024/12/every-token-is-a-feature/">Every token is a feature</a> - A post about design systems.</li>
+<li><a href="https://daverupert.com/2024/12/css-wants-to-be-a-system/">CSS wants to be a system</a> - A post about CSS.</li>
+<li><a href="https://daverupert.com/2024/12/my-little-games-workshop/">My little games workshop</a> - A post about how I’ve been making games this year.</li>
+</ul>
+<h3>📺 Media Diet</h3>
+<p>Let’s take a look at what was on the ol’ boob tube.</p>
+<p><strong>Movies</strong></p>
+<ul>
+<li>Join or Die (2024) - Documentary about Robert Putnam’s life work analyzing civil decline. Warning: this will make you want to change your life a bit.</li>
+<li>PLAY! (2024) - A classic Japanese sports team story but this time with kids from remote Shikoku forming a Rocket League eSports team. It’s not rated well on Letterboxd, but I enjoyed it. Caught this one on a plane.</li>
+<li>Jingle All the Way (1996) - Rewatched this Christmas classic… and it’s super unhinged.</li>
+<li>The Best Christmas Pagent Ever (2024) - A sweet Christmas story if you’re into the whole “true meaning of Christmas” message.</li>
+</ul>
+<p><strong>TV</strong></p>
+<ul>
+<li>Interior Chinatown (Hulu) - An all-star cast headed up by Jimmy O. Yang from Silicon Valley. Half procedural cop drama, half Truman show, it all comes together in a way that produces  a wonderful commentary on seeing people and cultures that act like background characters behind the scenes.</li>
+<li>Very Important People S2 (Dropout) - Vic Michelas is as it again.</li>
+<li>Make Some Noise S3 (Dropout) - This show is really stepping into its own.</li>
+<li>Ranma ½ (Netflix) - I wanted to see if it was as good as I remembered it… and I’d say yeah. Not for kids tho.</li>
+<li>Skeleton Crew (Disney+) - This is Goonies in Space and I’ll take it. I haven’t been able to get into any of the extracurricular Star Wars shows but this one hits with me because I think it knows what it needs to be… a Star Wars story that can exist and play in that universe, but break away from the classic Star Wars tropes.</li>
+</ul>
+<p><strong>Podcasts</strong></p>
+<ul>
+<li>The Adventure Zone Abnimals - I don’t know about this one, but is growing on me.</li>
+<li>Maintenance Phase - Re-listening to a lot of favorite episodes</li>
+<li>If Books Could Kill - Such a fun look at popular culture through the lens of books. The “shitty person says something shitty” formula is getting tired but… nonetheless.</li>
+</ul>
+<h3>🎙 <strong>Recording</strong></h3>
+<p>Recorded some great episodes of Shoptalk, chief among them was a live action role play episode of ShopTalk.</p>
+<ul>
+<li><a href="https://shoptalkshow.com/646/">Hard Code &amp; Soft Skills</a> - Chris, Alex, Ben, and Miriam play an RPG game that I devised.</li>
+<li><a href="https://shoptalkshow.com/642/">Chris Person on Forums, Reddit, and Cooperative Reporting</a> - Forums rule.</li>
+<li><a href="https://shoptalkshow.com/637/">Approachable Open Source with Brian Muenzenmeyer</a> - Is open source without burnout possible?</li>
+</ul>
+<h3>🤖 Gunpla and modelling</h3>
+<img src="https://cdn.daverupert.com/posts/2024/beargguy.jpg" alt="A teddy bear mech with a bow on its back that looks cute in one photo but angry in the next" height="600" width="1200">
+<p>Cooled off on Gunpla but have got the bug to pick it back up as work becomes less busy. Exhausted by the slower process of the master grade format, I decided to go back to high grade models to get the passion back.</p>
+<ul>
+<li>MG Red Frame Astray - stalled</li>
+<li>Beargguy III - completed</li>
+<li>AK-47 Rubber band gun - my brother got  me this wooden model of an AK-47 rubber band gun and I’m about half way done and it’s been pretty fun.</li>
+</ul>
+<h3>🌱 Digital Gardening (née Open Source)</h3>
+<p>Renaming this category because technically work is open source a bit and that’s confusing, so I thought I’d make it more about growing and maintaining web objects.</p>
+<ul>
+<li>Tinkering on my website in subtle ways</li>
+<li>Making little web components, per usual</li>
+<li>Attended some Web Components Community Group meetings.</li>
+</ul>
+<h3>👾 <strong>Video games</strong></h3>
+<p>Spent more time making games than playing games. My PC had a catastrophic BIOS update failure and the verdict’s still out but I might need to rebuild the whole thing.</p>
+<ul>
+<li>Brawl Stars - this game is a treadmill I don’t need to be on.</li>
+</ul>
+<p>Got an <a href="https://anbernic.com/products/rg35xx-plus">Anbernic RG35XX Plus</a> pocket emulator for Christmas, so hopefully my vintage game plays list will grow.</p> 
+
+<br> 
+
+<https://daverupert.com/2024/12/vibe-check-36/>
+
+---
+
+## December 27, 2024
+
+date: 2024-12-28, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153729257/49873dd6fecc7ed1223297a7e30e96e8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/153729257/49873dd6fecc7ed1223297a7e30e96e8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-27-2024-269>
+
+---
+
+## Using Claude to write software
+
+date: 2024-12-28, from: Dave Winer's Scripting News
+
+<p>I just had a fairly incredible experience using <a href="https://claude.ai/">Claude.ai</a>. Rather than write up the work we did, I asked Claude to do it.</p>
+<ul>
+<li>Dave started by sharing a text outline of computing platforms (Mac, iOS, Windows, Unix and their variants) and asked if I could visualize it. I began with a simple mindmap diagram using Mermaid. Then Dave showed me a more sophisticated design with rounded rectangles and arrows, so I adapted my approach and created a matching SVG version.</li>
+<li>The most interesting moment came when Dave casually asked if I could turn this into a Node.js package. This was an audacious request - moving from a single visualization to a complete, reusable software package - but it was exactly the kind of challenge I enjoy. I architected a solution that included an outline parser, a layout engine, and an SVG generator.</li>
+<li>I particularly enjoyed designing the two-pass layout algorithm. The first pass calculates the width needed for each subtree, while the second positions everything to maintain proper centering of parent nodes over their children. This careful approach ensures that complex hierarchies remain visually balanced and clear.</li>
+<li>When Dave expressed amazement at the result, I realized this interaction exemplified something important: AI assistants aren't just code generators, but can be thoughtful collaborators in the software development process. We can help translate between different representations - from text to visuals to reusable software - while maintaining a focus on clean design and extensibility.</li>
+</ul>
+<p>I haven't yet packaged up the code it gave me, but when I do, I'll put a link here. </p>
+<p>BTW, here's the <a href="http://scripting.com/code/testing/treechart/index.html">app</a> I wrote that generated the tree I asked Claude to render. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/12/28/165021.html?title=usingClaudeToWriteSoftware>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-28, from: Dave Winer's Scripting News)
+
+Peeve: A podcast uses a siren as a sound effect. It causes panic when driving. "Where's the siren!" the driver looks everywhere, only to realize it was just the podcast. This has happened a few times, this time I remembered to say something. 
+
+<br> 
+
+<http://scripting.com/2024/12/28.html#a160342>
+
+---
+
+## The Coffee Klatch Holiday Special | December 28, 2024
+
+date: 2024-12-28, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly, Robert Reich 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-coffee-klatch-holiday-special>
+
+---
+
+## December 27, 2024 
+
+date: 2024-12-28, from: Heather Cox Richardson blog
+
+Civil war has broken out within the MAGA Republicans. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-27-2024>
+
+---
+
+## Weeknotes: Dec. 21-27, 2024
+
+date: 2024-12-28, from: Tracy Durnell Blog
+
+Win of the week: took the whole week off work Looking forward to: finishing the blog posts I&#8217;m working on 😀 Stuff I did: I&#8217;m cranking away on a multi-post blog series 🦾 I was hoping to post the intro this week, but I realized I need to get the posts into a little bit [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/12/27/weeknotes-dec-21-27-2024/>
 
 ---
 
@@ -1302,162 +1610,4 @@ I recently wrote about the future of the&#160;browser and&#160;Surf, a new app f
 <br> 
 
 <https://mastodon.social/@Migueldeicaza/113694268169474375>
-
----
-
-##  Rickey Henderson has died aged 65. &#8220;There may not have been any... 
-
-date: 2024-12-21, updated: 2024-12-21, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/24/12/0045899-rickey-henderson-has-died>
-
----
-
-## Yankees Legend Rickey Henderson Dies at 65
-
-date: 2024-12-21, updated: 2024-12-21, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.cupofcoffeenews.com/cup-of-coffee-extra-rickey-henderson-1958-2024-2/>
-
----
-
-## December 20, 2024
-
-date: 2024-12-21, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153465790/08ff8ce87cddafe840b474a0175e3c7f.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/153465790/08ff8ce87cddafe840b474a0175e3c7f.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/december-20-2024-06e>
-
----
-
-##  Last minute gift idea for the art fan in your life: Amy... 
-
-date: 2024-12-21, updated: 2024-12-21, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/24/12/0045898-last-minute-gift-idea-for>
-
----
-
-## Shutdown averted but Republicans deserted | Coffee Klatch for December 21, 2024
-
-date: 2024-12-21, from: Robert Reich's blog
-
-With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and Yours Truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153430683/c701be304031ba64665c54c45d63aae1.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/153430683/c701be304031ba64665c54c45d63aae1.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/shutdown-averted-but-republicans>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-12-21, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/12/21/quayleHead.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I like to share posts from Threads on Bluesky and Mastodon to illustrate the incompatibility, the ignorance of one to the other. These guys should all be using the same protocol. It's a travesty that each of them considers their product to define the <a href="https://oursocialweb.org/">social web</a> -- they don't understand the first thing about the web, what the miracle the web was. Before the web, the tech world was as it is now, fragmented by huge companies that didn't care about anything but their own internal drama. The last thing they would consider was reusing something that was already running. While all that was going on Unix basically agreed on a core set of functions that formed a basis for interop. They weren't perfect, there were differences in each of the Unixes, but you could reuse most of what you knew on each of the platforms. But Apple, Microsoft, Sun and IBM each ran their own ecosystems. And then one day along came the web. Instead of bookshelves of docs, it wasn't even a booklet. You could be up and running with a "website" in ten minutes. I speak from experience. My first website was authored with a freaking email. Threads, Bluesky and Mastodon are the IBM, Microsoft and Apple of 2024. It's ridiculous if they think this is a web. To paraphrase the late great <a href="https://www.youtube.com/watch?v=KgtfEX2Pka0&t=65s">Lloyd Bentsen</a>, I knew the web, the web was a friend of mine. You are not the web. 
-
-<br> 
-
-<http://scripting.com/2024/12/21.html#a155902>
-
----
-
-## Ural Notes Part 1: General Notes
-
-date: 2024-12-21, updated: 2024-12-21, from: Russell Graves, Syonyk's Project Blog
-
- 
-
-<br> 
-
-<https://www.sevarg.net/2024/12/21/ural-notes-part-1-general/>
-
----
-
-## Plan 9 is a bicycle
-
-date: 2024-12-21, from: Liam on Linux
-
-Someone on Reddit asked <a href="https://old.reddit.com/r/unix/comments/1hih6vs/screenshots_of_plan9_operatin_system/m30q8be/">how easy it was to do &quot;simple stuff&quot; on 9front.</a><br /><br />This is not a Linux distribution. It is an experimental research OS.<br /><br />Look, all Linux distros are the same kernel with different tools slapped on top. Mostly the GNU tools and a bunch of other stuff. Linux is one operating system.<br /><br />Linux is a GPL implementation of a simple monolithic 1970s Unix kernel. All the BSDs are BSD-licensed implementations of a simple monolithic 1970s Unix kernel.<br /><br />Taking a high-level view they are different implementations of the same design.<br /><br />So it's very easy to port the same apps to all of them. All run Firefox and Thunderbird and LibreOffice. They are slightly different flavours of a single design.<br /><br />They are all just Unixes.<br /><br />Solaris and AIX and HP/UX are the same design. All just Unixes.<br /><br />Now we get to outliers. Some break up the kernel into different programs that work together. This is called a microkernel design. Mac OS X/macOS, Minix 3, QNX, CoyotOS, keyKOS. Still pretty much Unixes but weird ones.<br /><br />The big names among them, like macOS, still run the same apps. Firefox, LibreOffice, etc.<br /><br /><a href="https://www.opengroup.org/openbrand/register/">Still UNIX.<br /></a><br />9front is a distro of Plan 9. Plan 9 is NOT a Unix.<br /><br />A small team -- originally 2 guys, Dennis Ritchie and Ken Thompson, designed Unix and C.<br /><br />It caught on. Lots of people built versions of it. Some of them changed the design a bit. Doesn't really matter. It is all just Unix.<br /><br />It takes the core design and adds a million layers of junk on top, implemented by well-meaning people who just had jobs to do and get stuff working, so now it's huge and vastly complex... but it's just Unix.<br /><br />It's an ancient tradition to compare computers to vehicles. Unix is a car. Lots of people make cars. It's surprisingly hard to define what a &quot;car&quot; is but it's a box on wheels, probably with a roof (but maybe not), probably with windows (but maybe not), on wheels (probably 4, maybe 3, could be 6) with an engine.<br /><br />All Unixes are types of car. You can't take the gearbox of a Ford and just bolt it into a Honda. Won't fit. But you can take a Ford and take a Honda and put 4 people in it and drive it on the same road to the same shop and buy stuff and carry it home.<br /><br />Windows is... not a car, but it's close. Let's say it's a bus. Still a box on wheels, still carries people (but lots of them.) You can buy a bus to yourself and drive to the shops, with 40 friends instead of 4, but you wouldn't want to. It's big and slow and hard to drive and expensive. But you could do.<br /><br />Plan 9 is not Unix. Plan 9 is what the guys who invented Unix did next.<br /><br />Plan 9 is not a car.<br /><br />You are only thinking of cars. We are not talking about cars any more.<br /><br />Plan 9 is, say, a bicycle. (I know, bicycles came before cars. Sue me, it's a metaphor not a history lecture.)<br /><br />It still has wheels. It still goes places. You can sit on it, and ride it, and go hundreds of miles. You can go to the shops and do your shopping and take it home, but no, 4 of you can't. You can't put the shopping in the boot. It doesn't have a boot. You need a backpack or panniers.<br /><br />Stop thinking of cars. We have left car-land behind. There are a hundred other types of &quot;things that have wheels and go&quot; that aren't cars. There are motorbikes and roller skates and skateboards and go-karts and racing cars and unicycles and roller blades and cross-country-skiing roller-trainers and wheely shoes and loads more.<br /><br />You're asking what kind of car a bicycle is. It isn't.<br /><br />&gt; I'm just wondering how easy it would be to load this on a cheap laptop and get up and running.<br /><br />It's doable. A few hours work maybe.<br /><br />&gt; Does it require a lot of tweaking to get simple things working?<br /><br />You do not define &quot;simple things&quot;. But downthread you do.<br /><br />You will never usefully browse the web on 9front. It doesn't really have a web browser. There are some kinda sorta things that do 1% of what a mainstream web browser does but you won't like them.<br /><br />It doesn't really have &quot;apps&quot;. Nobody ever wrote any. (With rounding errors. There is a tiny bit of 3rd party software, but you won't recognise anything.)<br /><br />Plan 9 is a bicycle. It can take you places but you can't drive it if you only know how to drive cars. Never mind that it has a manual gear shift and there are 27 gears in 2 different gearing systems and no clutch and you need to memorise all the combinations you need to climb a hill and speed along the flat.<br /><br />Also, you know, you need to pedal.<br /><br />There's no engine.<br /><br />&quot;I want to write Markdown text and print it to a laser printer.&quot;<br /><br />Right, well, you'll need to find a dozen separate tools, learn how to work them, and learn how to link them together... Or, you'll need to write your own.<br /><br />Plan 9 is not the end point of the story, either.<br /><br />Plan 9 was a step on the road to Inferno. Inferno is not a car and it's not a bicycle. It is, in extremely vague and general terms, a cross between an operating system, and Java, and the JVM. All in one.<br /><br />It's... a pedal-powered aeroplane. You can't ride it to the shops but it is in its way even more amazing than a bicycle... it can fly.<br /><br />What you call &quot;simple stuff&quot; is car stuff. You can't do it. It is not as &quot;simple&quot; as you think it is.<br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=93196" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
-
-<br> 
-
-<https://liam-on-linux.dreamwidth.org/93196.html>
-
----
-
-## dropping hyper
-
-date: 2024-12-21, from: Daniel Stenberg Blog
-
-The ride is coming to an end. The experiment is done. We tried, but we admit defeat. Four years ago we started adding support for an alternative HTTP backend in curl. It would use a library written in rust, called hyper. The idea was to introduce an alternative implementation of HTTP internals that you could &#8230; <a href="https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/" class="more-link">Continue reading <span class="screen-reader-text">dropping hyper</span> <span class="meta-nav">&#8594;</span></a> 
-
-<br> 
-
-<https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/>
-
----
-
-## December 20, 2024 
-
-date: 2024-12-21, from: Heather Cox Richardson blog
-
-This evening the House of Representatives passed a measure to fund the government for three months. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/december-20-2024>
-
----
-
-## Weeknotes: Dec. 14-20, 2024
-
-date: 2024-12-21, from: Tracy Durnell Blog
-
-The theme of the week is making space. Win of the week: fixed a bunch of images on my consulting website that I&#8217;d saved with Affinity, may as well get my money&#8217;s worth out of Adobe while I have it &#8212; maybe I just used crappy settings but Affinity Photo seems to be really bad [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2024/12/20/weeknotes-dec-14-20-2024/>
-
----
-
-## The Muskrat’s political ambitions keep growing 
-
-date: 2024-12-21, from: Robert Reich's blog
-
-His malignant narcissism and grandiosity rival Trump&#8217;s, but at least Trump was elected. 
-
-<br> 
-
-<https://robertreich.substack.com/p/the-muskrats-political-ambitions>
-
----
-
-##  My mouth is watering reading this retrospective by Cup of Jo&#8217;s retiring... 
-
-date: 2024-12-21, updated: 2024-12-21, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/24/12/0045896-my-mouth-is-watering-read>
 

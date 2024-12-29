@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2024-12-28 07:06:44
+updated: 2024-12-29 07:06:08
 ---
 
 # games
 
-(date: 2024-12-28 07:06:44)
+(date: 2024-12-29 07:06:08)
+
+---
+
+## Polygon video picks Polygon’s favorite Polygon videos
+
+date: 2024-12-29, updated: 2024-12-27, from: Polygon Website
+
+We know you watched a few videos this year, but did you watch a few Polygon videos this year? To celebrate another year in the can, the Polygon video team gave each producer the chance (&#8230;and assignment) to shout out their favorite work from 2024 to give you an idea of where to dive in. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/videos/501476/polygon-youtube-best-videos-2024>
+
+---
+
+## ‘Outside In’ makes a complex math concept fun and approachable
+
+date: 2024-12-29, updated: 2024-12-29, from: Polygon Website
+
+When it comes to good YouTube videos, I’m biased in favor of content made explicitly for the platform: media critiques, long-form investigations, and pointless tests of human endurance. “Outside In” is an exception. This educational video comes from a strange and distant land: the 1990s. Based on the mathematical concept of sphere inversion, it should [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/yuletide-youtube/478707/outside-in-youtube-video-sphere-inversion>
+
+---
+
+## These charming mini movies will teach you about the people who live in the coldest town on Earth
+
+date: 2024-12-28, updated: 2024-12-22, from: Polygon Website
+
+Kiun B’s YouTube videos are mini documentaries about her life and the lives of the 800 people who live in her hometown of Yakutia, Siberia, aka the coldest town on Earth. The creator, who narrates the videos, says she and her community are native to the region. The enchanting mini docs showcase their customs, culture, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/yuletide-youtube/486698/coldest-town-earth-yakutia-siberia-mini-docs-watch-streaming>
+
+---
+
+## Dreams on a Pillow, a game about the 1948 Nakba, is the latest from a daring dev
+
+date: 2024-12-28, updated: 2024-12-29, from: Polygon Website
+
+Dreams on a Pillow is a video game experience about the 1948 Nakba, an event where roughly 700,000 people were displaced from their land and homes due to Zionist occupation. The game, described as “a pseudo-3D stealth adventure game about a land full of people being made into a people without land,” is from Palestinian [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/500737/dreams-on-a-pillow-crowdfund-palestine-game>
+
+---
+
+## The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of December 2024
+
+date: 2024-12-28, updated: 2024-12-27, from: Polygon Website
+
+The end of the year is nearly upon us, and while that means all kinds of things, one thing that might get lost is how many streaming services are cleaning out their catalogs for 2025. Of course, there will be plenty of movies added to platforms like Netflix, Prime Video, and Criterion Channel next year, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/501409/best-movies-netflix-amazon-criterion-leaving-december-2024>
 
 ---
 
@@ -630,64 +690,4 @@ The trendsetters online might have moved on from playing Gartic Phone, but my fa
 <br> 
 
 <https://www.polygon.com/gaming/500386/gartic-phone-free-family-game>
-
----
-
-## Carry-On gives Netflix its first great cable thriller
-
-date: 2024-12-21, updated: 2024-12-20, from: Polygon Website
-
-A great thriller lives and dies by its complexity. Movies like All the President’s Men or Blow Out create intricate, detailed worlds of mystery that pull you in before leaving you at the center of the labyrinth to unwind yourself in the days that follow. A solid B-tier thriller, however, is all about simplicity. These [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/499107/carry-on-netflix-christmas-movie-thriller-watch-streaming>
-
----
-
-## Star Trek as ‘going to a national park’: Lower Decks’ creator reflects on the end of the show
-
-date: 2024-12-21, updated: 2024-12-20, from: Polygon Website
-
-Years ago, comedy writer Mike McMahan got the opportunity of a lifetime — an interview to join the writing staff of a new Star Trek series, the first in over a decade. McMahan was a massive Trekkie and had recently made a splash with a parody Twitter account called “TNG Season 8,” in which he [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/star-trek/500534/star-trek-lower-decks-finale-interview-showrunner-bts>
-
----
-
-## Sonic 3’s incredible laser dance sequence was all Jim Carrey’s idea, of course
-
-date: 2024-12-21, updated: 2024-12-20, from: Polygon Website
-
-One of the standout moments of Sonic the Hedgehog 3 sees Jim Carrey pulling double duty as two Doctors Robotnik —&#160;Ivo and his grandfather Gerald —&#160;merrily dancing their way through a classic Hollywood trope: the laser security grid. That sequence was not only technically challenging to pull off, Sonic 3 director Jeff Fowler tells Polygon, [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/movies/499955/sonic-3-movie-laser-dance-robotnik-jim-carrey>
-
----
-
-## Best sci-fi movies to watch on Netflix this December
-
-date: 2024-12-21, updated: 2024-12-20, from: Polygon Website
-
-We’re more than halfway through December, which means 2025 is right around the corner with a whole new slate of new movies to look forward to. Before that, though, there are still plenty of decent sci-fi films to watch on Netflix this month to tide you over until the new year! This month, we’ve got [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/498053/best-sci-fi-movies-watch-netflix-december-2024>
-
----
-
-## Pokémon Go December 2024 Community Weekend event guide
-
-date: 2024-12-21, updated: 2024-12-20, from: Polygon Website
-
-Pokémon Go is hosting its yearly December Community Weekend event, allowing any players who missed out on previous Community Days throughout 2024 to catch up and get another chance at finding any shines they may have missed. The event features every Pokémon that was part of a 2024 Community Day and Community Day Classic. There [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/497618/december-2024-community-day-weekend-list-schedule-spawns-shiny>
 

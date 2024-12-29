@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2024-12-28 07:06:45
+updated: 2024-12-29 07:06:09
 ---
 
 # motorcycles
 
-(date: 2024-12-28 07:06:45)
+(date: 2024-12-29 07:06:09)
+
+---
+
+## Aprilia Went Way Overboard With Its 2025 RS and Tuono 125 Beginner Bikes
+
+date: 2024-12-28, from: Ride Apart, Electric Motorcycle News
+
+ABS, traction control, a quick shifter, and Bluetooth connectivity—how much tech is too much tech for a supposed beginner bike?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/745564/2025-aprilia-rs-tuono-125-specs-features/>
+
+---
+
+## AI Gives Nothing New For Championship Scenario That Fans, Drivers And Astute NASCAR Officials Don’t Already Know
+
+date: 2024-12-28, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor Upon reading a comment by NASCAR Chief Operating Officer, Steve O&#8217;Donnell, stating the sanctioning body is considering options to utilize Artificial Intelligence (AI) in ways that&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/ai-gives-nothing-new-for-championship-scenario-that-fans-drivers-and-astute-nascar-officials-dont-already-know/>
 
 ---
 
@@ -252,16 +277,4 @@ Seaweed-based biogas is now being used to power cars in Barbados.
 <br> 
 
 <https://www.rideapart.com/news/745075/sargassum-seaweed-biogas-barbados/>
-
----
-
-## KTM Has an Entire Year's Worth of Unsold Motorcycles Piling Up
-
-date: 2024-12-21, from: Ride Apart, Electric Motorcycle News
-
-265,000 motorcycles are just...hangin' around. 
-
-<br> 
-
-<https://www.rideapart.com/news/745178/ktm-years-worth-of-unsold-motorcycles-insolvency-bankrupt/>
 

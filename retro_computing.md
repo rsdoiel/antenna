@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2024-12-28 07:06:45
+updated: 2024-12-29 07:06:10
 ---
 
 # retro computing
 
-(date: 2024-12-28 07:06:45)
+(date: 2024-12-29 07:06:10)
+
+---
+
+## b.log 2024/12/28 - The parcel arrives, Doctor Whaaaa!, PTZ app hack, Lucy's Lousy Light, Centralised repositories, Cold.
+
+date: 2024-12-28, from: Richard Murray's blog
+
+The parcel arrives, Doctor Whaaaa!, PTZ app hack, Lucy's Lousy Light, Centralised repositories, Cold. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241228>
+
+---
+
+## RISC OS 'Advent' Calendar 2024 - Gerph
+
+date: 2024-12-28, from: Icon Bar, RISC OS News
+
+And a final treat from Gerph.... 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2151.html>
 
 ---
 
@@ -97,7 +121,7 @@ Merry Christmas, Freezer, Wages, Right-wing madness, Dora Advent Calendar, The P
 
 date: 2024-12-25, from: Old Ventage Computing Research
 
-A merry Christmas and happy holidays from the Southern Hemisphere, where it's my year to be with my wife's family in regional New South Wales, Australia. One of my wife's relatives had an "old Commodore" in their house and asked if I wanted it. Stupid question, yeah?
+A merry Christmas and happy holidays from the Southern Hemisphere, where it's our year to be with my wife's family in regional New South Wales, Australia. One of my wife's relatives had an "old Commodore" in their house and asked if I wanted it. Stupid question, yeah?
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJw0-a-6bst0Q1XIvMrHkqikL0o71t-TXBcVAOaTOlX7p06dRZ-_LghmZLiIRV9GNZoUDJvCUnzKGqesb6YWPrwB3DenWWyN09_4yELOnTtNbLs6YnoK273ztOiMrZab__f9jxtvvRrFSbME7fb6NpbLaoLZlc0LMA-fdChbue2hsXvqGUbcwAjuCFoTw/s4080/PXL_20241224_055658598.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJw0-a-6bst0Q1XIvMrHkqikL0o71t-TXBcVAOaTOlX7p06dRZ-_LghmZLiIRV9GNZoUDJvCUnzKGqesb6YWPrwB3DenWWyN09_4yELOnTtNbLs6YnoK273ztOiMrZab__f9jxtvvRrFSbME7fb6NpbLaoLZlc0LMA-fdChbue2hsXvqGUbcwAjuCFoTw/s320/PXL_20241224_055658598.jpg"/></a></div>
 
@@ -629,28 +653,4 @@ date: 2024-12-22, from: Low-tech magazine
 <br> 
 
 <https://solar.lowtechmagazine.com/2024/12/how-to-build-an-electrically-heated-table/>
-
----
-
-## lDebug release 9
-
-date: 2024-12-21, from: FreeDOS News
-
-<div class="markdown_content"><p>Today marks another release of the DOS debugger "with the small L": lDebug. This line-oriented debugger is a fork originally based on the 2008 version 1.13 of FreeDOS Debug/X, with a number of additions. Release 9 marks some bugfixes, a new revision of the lDebug/lDOS boot protocol for FAT32 drives, and the immediate assembler feature now enabled at build time. There's <a class="" href="https://sourceforge.net/p/freedos/mailman/message/59108163/">a longer announcement</a>  on the freedos-user list. Get lDebug release 9 from <a class="" href="https://pushbx.org/ecm/web/#projects-ldebug" rel="nofollow">ecm's website</a>. We've also mirrored this release in the <a class="" href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files" rel="nofollow">FreeDOS Files Archive</a> at Ibiblio, under <a class="" href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/debug/ldebug/rel9/" rel="nofollow">/dos/debug/ldebug</a></p></div> 
-
-<br> 
-
-<https://sourceforge.net/p/freedos/news/2024/12/ldebug-release-9/>
-
----
-
-## Early 'Christmas present' from Chris Hall
-
-date: 2024-12-21, from: Icon Bar, RISC OS News
-
-Chris Hall has released an early 'Christmas present' for the RISC OS community. He has made 2 very useful reference guides available as both PDF files and using his RingBound Page flipping software for RISC OS. 
-
-<br> 
-
-<http://www.iconbar.com/comments/rss/news2152.html>
 

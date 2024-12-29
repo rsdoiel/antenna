@@ -1,11 +1,27 @@
 ---
 title: food
-updated: 2024-12-28 07:06:46
+updated: 2024-12-29 07:06:10
 ---
 
 # food
 
-(date: 2024-12-28 07:06:46)
+(date: 2024-12-29 07:06:10)
+
+---
+
+## Crescent Roll Breakfast Casserole
+
+date: 2024-12-28, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/tex-mex-sausage-breakfast-casserole/"><img title="crescent-roll-breakfast-casserole-small-5" src="https://www.isabeleats.com/wp-content/uploads/2024/12/crescent-roll-breakfast-casserole-small-5-400x600.jpg" alt="A crescent roll breakfast casserole in a baking dish ready to be served." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	This easy crescent roll breakfast casserole is loaded with peppers, onions, taco seasoning, and cheese and uses store-bought refrigerated crescent roll dough to keep things quick and simple. Ready from start to finish in 45 minutes! Breakfast casseroles are a lifesaver for busy mornings, and this crescent roll version is one of my favorites. It’s [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/tex-mex-sausage-breakfast-casserole/>
 
 ---
 
@@ -341,28 +357,4 @@ date: 2024-12-22, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/holiday-recipes/>
-
----
-
-## 11 Tempeh Recipes for Delicious Plant-Based Meals
-
-date: 2024-12-21, from: Bon Appetet
-
-Like a vegan take on kung pao, hummus bowls with merguez crumbles, and more easy ways to use the soy-based protein. 
-
-<br> 
-
-<https://www.bonappetit.com/gallery/best-tempeh-recipes>
-
----
-
-## 41 Easy Appetizers for Less Stressing, More Snacking
-
-date: 2024-12-21, from: Bon Appetet
-
-Like dip made from giardineira, marinated cheeses galore, and pigs in a blanket Chicago-style. 
-
-<br> 
-
-<https://www.bonappetit.com/gallery/easy-appetizers-15-minutes-or-less>
 
