@@ -7,6 +7,7 @@ title: Antenna Archives
 
 ## SoCal North
 
+* [socal north 2024.53](socal_north_2024.53.md)
 * [socal north 2024.52](socal_north_2024.52.md)
 * [socal north 2024.51](socal_north_2024.51.md)
 * [socal north 2024.50](socal_north_2024.50.md)
@@ -62,6 +63,7 @@ title: Antenna Archives
 
 ## Pacific
 
+* [pacific 2024.53](pacific_2024.53.md)
 * [pacific 2024.52](pacific_2024.52.md)
 * [pacific 2024.51](pacific_2024.51.md)
 * [pacific 2024.50](pacific_2024.50.md)
@@ -152,6 +154,7 @@ title: Antenna Archives
 
 ## Home, Garden & Urban Farm
 
+* [home 2024.53](home_2024.53.md)
 * [home 2024.52](home_2024.52.md)
 * [home 2024.51](home_2024.51.md)
 * [home 2024.50](home_2024.50.md)
@@ -189,6 +192,7 @@ title: Antenna Archives
 
 ## Good Eats, Healthy Eats
 
+* [food 2024.53](food_2024.53.md)
 * [food 2024.52](food_2024.52.md)
 * [food 2024.51](food_2024.51.md)
 * [food 2024.50](food_2024.50.md)
@@ -212,6 +216,7 @@ title: Antenna Archives
 
 ## Columns
 
+* [columns 2024.53](columns_2024.53.md)
 * [columns 2024.52](columns_2024.52.md)
 * [columns 2024.51](columns_2024.51.md)
 * [columns 2024.50](columns_2024.50.md)
@@ -267,6 +272,7 @@ title: Antenna Archives
 
 ## Retro Computing
 
+* [retro computing 2024.53](retro_computing_2024.53.md)
 * [retro computing 2024.52](retro_computing_2024.52.md)
 * [retro computing 2024.51](retro_computing_2024.51.md)
 * [retro computing 2024.50](retro_computing_2024.50.md)
@@ -307,6 +313,7 @@ title: Antenna Archives
 
 ## Libaries
 
+* [libraries 2024.53](libraries_2024.53.md)
 * [libraries 2024.52](libraries_2024.52.md)
 * [libraries 2024.51](libraries_2024.51.md)
 * [libraries 2024.50](libraries_2024.50.md)
@@ -362,6 +369,7 @@ title: Antenna Archives
 
 ## Student Journalism
 
+* [journalism 2024.53](journalism_2024.53.md)
 * [journalism 2024.52](journalism_2024.52.md)
 * [journalism 2024.51](journalism_2024.51.md)
 * [journalism 2024.50](journalism_2024.50.md)
@@ -400,6 +408,7 @@ title: Antenna Archives
 
 ## Motocycles
 
+* [motorcycles 2024.53](motorcycles_2024.53.md)
 * [motorcycles 2024.52](motorcycles_2024.52.md)
 * [motorcycles 2024.51](motorcycles_2024.51.md)
 * [motorcycles 2024.50](motorcycles_2024.50.md)
@@ -453,6 +462,7 @@ title: Antenna Archives
 
 ## Craft
 
+* [craft 2024.53](craft_2024.53.md)
 * [craft 2024.52](craft_2024.52.md)
 * [craft 2024.51](craft_2024.51.md)
 * [craft 2024.50](craft_2024.50.md)
@@ -470,6 +480,7 @@ title: Antenna Archives
 
 ## Writing
 
+* [writing 2024.53](writing_2024.53.md)
 * [writing 2024.52](writing_2024.52.md)
 * [writing 2024.51](writing_2024.51.md)
 * [writing 2024.50](writing_2024.50.md)
@@ -525,6 +536,7 @@ title: Antenna Archives
 
 ## Weather
 
+* [weather 2024.53](weather_2024.53.md)
 * [weather 2024.52](weather_2024.52.md)
 * [weather 2024.51](weather_2024.51.md)
 * [weather 2024.50](weather_2024.50.md)
