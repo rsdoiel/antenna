@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2024-12-30 07:05:31
+updated: 2024-12-31 07:05:42
 ---
 
 # weather
 
-(date: 2024-12-30 07:05:31)
+(date: 2024-12-31 07:05:42)
 
 ---
 
-## SPC - No watches are valid as of Mon Dec 30 14:35:02 UTC 2024
+## SPC - No watches are valid as of Tue Dec 31 14:25:02 UTC 2024
 
-date: 2024-12-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Mon Dec 30 14:35:02 UTC 2024. 
+No watches are valid as of Tue Dec 31 14:25:02 UTC 2024. 
 
 <br> 
 
@@ -21,11 +21,11 @@ No watches are valid as of Mon Dec 30 14:35:02 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Mon Dec 30 14:35:02 UTC 2024
+## SPC - No MDs are in effect as of Tue Dec 31 14:25:02 UTC 2024
 
-date: 2024-12-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Mon Dec 30 14:35:02 UTC 2024. 
+No Mesoscale Discussions are in effect as of Tue Dec 31 14:25:02 UTC 2024. 
 
 <br> 
 
@@ -33,50 +33,117 @@ No Mesoscale Discussions are in effect as of Mon Dec 30 14:35:02 UTC 2024.
 
 ---
 
-## SPC Dec 30, 2024 1300 UTC Day 1 Convective Outlook
+## SPC Dec 31, 2024 1300 UTC Day 1 Convective Outlook
 
-date: 2024-12-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0614 AM CST Mon Dec 30 2024
+0657 AM CST Tue Dec 31 2024
 
-Valid 301300Z - 311200Z
+Valid 311300Z - 011200Z
 
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM THE CENTRAL
+APPALACHIANS TO PARTS OF THE MID-ATLANTIC...
 
 ...SUMMARY...
-Severe thunderstorms are not expected through tonight.
+Damaging to isolated marginally severe gusts, isolated large hail,
+and possibly a brief tornado, are possible today from the central
+Appalachians to parts of the Mid-Atlantic.
 
-...Synopsis/Discussion...
-Broadly cyclonic flow will be maintained over most of the CONUS in
-mid/upper levels, except for progressive shortwave ridging in
-between these two perturbations:
+...Synopsis...
+In mid/upper levels, a progressive shortwave pattern will persist
+within a broadly cyclonic flow field covering much of the CONUS from
+the Rockies eastward.  The most important of these features for
+convective potential will be a well-developed shortwave trough --
+evident in moisture-channel imagery from a low over IL south-
+southeastward to western portions of KY and the lower Tennessee
+Valley region.  Though the 500-mb low may not remain closed, the
+trough will remain strong and shift east-northeastward up the Ohio
+Valley today, reaching OH, WV and the western Appalachians of VA/NC
+by 00Z.  The trough should pivot over the northern Mid-Atlantic and
+offshore from the Delmarva Peninsula by 12Z.
 
-1.  A strong, negatively tilted shortwave trough apparent in
-moisture-channel imagery from a 500-mb low over Lake Huron,
-southeastward WV to coastal SC.  This feature is expected to lose
-amplitude while pivoting northeastward up the East Coast and
-central/northern Appalachians, and across the Lower Great Lakes,
-through the end of the period.  The associated surface cold front is
-offshore from the mid-Atlantic, and extends southwestward across
-central FL to the central Gulf, where frontal deceleration and
-weakening are expected through most of the period. 
+At the surface, 11Z analysis showed a low between CMI-MTO, related
+to the shortwave trough aloft, a cold front arching southwestward
+across western parts of TN/KY, and a warm front east-southeastward
+across northeastern KY that will shift northeastward over portions
+of WV and southern OH through the early afternoon, as the low
+occludes and moves northeastward.  By 00Z, the low should reach the
+CLE area, with cold front moving eastward across western parts of VA
+and NC, and warm front moving north up the Atlantic Coast and across
+the Delmarva Peninsula. An older frontal zone, now well offshore,
+should continue to weaken, with considerable theta-e advection
+occurring to its west near the coast.
 
-2.  An initially weaker shortwave trough, evident from the Black
-Hills southward over eastern CO. This feature should strengthen
-today and tonight as several proximal vorticity lobes phase with
-each other, and ageostrophic/baroclinic forcings intensify.  The
-trough should move east-southeastward across the central Plains and
-lower Missouri Valley, reaching the lower Ohio Valley and Mid-South
-region by 12Z tomorrow.  In the wake of prior cold-frontal passage,
-low/middle-level moisture will be weak, yet still sufficient to
-support isolated, nocturnal, non-severe thunderstorms amidst a
-corridor of strong large-scale ascent/destabilization aloft, from
-the mid-Mississippi Valley to lower Ohio Valley region.
+...Central Appalachians to Mid-Atlantic...
+Episodic lines and clusters of thunderstorms are expected to move
+eastward across the outlook area today, from the northern
+Cumberland/southern Allegheny Plateau region eastward toward coastal
+Delmarva and vicinity, with occasional strong/isolated severe gusts
+and hail the main severe modes, but with marginal tornado threat as
+well. 
 
-..Edwards/Grams.. 12/30/2024
+Large-scale ascent will spread over this region in the form of
+strong midlevel DCVA/cooling immediately preceding the trough, as
+well as the peripheral/ageostrophic influences of the left exit
+region of a strong 250-300-mb jet, centered from the Ozarks to the
+western Carolinas.  Associated destabilization aloft will offset
+modest (but diurnally steepening) low-level lapse rates and marginal
+moisture behind the offshore front.  This yields an area of 100-300
+J/kg MLCAPE already apparent in objective analyses between RAOBs,
+over southern IN, despite cool surface conditions.  This weakly
+buoyant regime is forecast to expand and strengthen somewhat
+(300-600 J/kg) as it moves eastward over eastern KY late this
+morning into midday.  Long, somewhat curved low-level hodographs and
+strong low-level shear are expected, supporting potential for
+embedded/low-topped supercells, as well as LEWP/bow features with
+any linear modes. 
+
+The area of large-scale lift and accompanying strong-severe
+convective potential then will shift across WV to VA/MD/DC and the
+Delmarva region, encountering theta-e advection from a modified
+post-frontal airmass over the Atlantic.  This regime then should
+move offshore, where even more-extensive convective development is
+likely overnight.  The wind and tornado areas have been shifted
+south out of most of PA, where the low-level stable/inversion layer
+should hold, and expanded westward into portions of eastern KY,
+where surface-based buoyancy will exist as the cold-core region
+moves overhead.  Severe potential probably will be discontinuous
+across this corridor, and a lack of more-robust buoyancy precludes
+more than a marginal unconditional severe threat for this outlook
+cycle. 
+------------------
+
+...Epilogue (RE)...
+This is my final SPC outlook, forecast and shift.  With a
+cyclonically swirling storm of memories, I retire mourning the end
+of a rewarding era, yet ever grateful, blessed with a career of
+public service devoted to excellence.  For a poor kid from
+inner-city east Dallas, carrying a passion for tornadoes from
+earliest awareness, and a relentless drive to research and forecast
+them, it has been everything the dream promised, and more.  I hope
+the American taxpayers have found my time worth their money.
+
+Even through this autumnal transition of life's seasons, I'll stay
+as inspired as ever by the tempestuous sky above -- to observe,
+photograph and study it, and keep giving back to the science in some
+way, as long as physically and mentally able.  It just won't be on
+rotating shifts.  The forecasting baton passes to another generation
+of sharp minds, just as the lead crew in the 1990s did for us "young
+pups of SELS" in Kansas City.  The SPC is in great hands.
+
+There isn't enough room here to thank everyone from early childhood
+through OU, NSSL, NHC, NSSFC/SELS, and SPC -- family, friends,
+instructors, mentors, students, and colleagues -- but be assured I
+do.  Nothing has granted greater career fulfillment than to deliver
+severe-weather forecasts with detailed, science-based insights,
+customized for each situation, shift after shift for over three
+decades, and to write related research papers.  Thanks for reading
+and using them, any or all.  Stay weather-aware!
+
+..Edwards/Grams.. 12/31/2024
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>

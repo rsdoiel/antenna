@@ -1,11 +1,306 @@
 ---
 title: home
-updated: 2024-12-30 07:05:32
+updated: 2024-12-31 07:05:43
 ---
 
 # home
 
-(date: 2024-12-30 07:05:32)
+(date: 2024-12-31 07:05:43)
+
+---
+
+## Editor's Picks: 2024 in Design
+
+date: 2024-12-31, from: Dwell
+
+From events and exhibitions to objects making their debuts, these were some of our favorite design moments of the year—including a lot of unusual lighting. 
+
+<br> 
+
+<https://www.dwell.com/article/editors-picks-2024-in-design-53d66ccf>
+
+---
+
+## My 2024 DIY Success Is Hacking the "Status" Bookshelf Dupe of My Dreams
+
+date: 2024-12-31, from: Dwell
+
+My understated storage solution didn’t break the bank—but it looks just as good as the beloved ’60s Vitsoe system I can't afford. 
+
+<br> 
+
+<https://www.dwell.com/article/my-2024-diy-success-is-hacking-the-status-bookshelf-dupe-of-my-dreams-14c0db4b-d610eada>
+
+---
+
+## My 2025 DIY Dream Is to Level Up My Living Room Into a Sick (and Chic) Home Theater
+
+date: 2024-12-31, from: Dwell
+
+A separate screening room isn’t in the cards for my rental apartment—but these upgrades would change the game. 
+
+<br> 
+
+<https://www.dwell.com/article/my-2025-diy-dream-is-to-level-up-my-living-room-into-a-sick-and-chic-home-theater-6acf2a92-e6d03f5a>
+
+---
+
+## The Worst Things We Bought in 2024
+
+date: 2024-12-31, from: Dwell
+
+From a "cheap, shitty frame" to dishwashing gloves that rip after a few uses, here are the home items Dwell editors and contributors purchased that proved to be a bit of a disappointment. 
+
+<br> 
+
+<https://www.dwell.com/article/the-worst-things-we-bought-in-2024-10385928>
+
+---
+
+## Mexican Petunia Care and Growing Guide with Ultimate Tips
+
+date: 2024-12-31, from: Yard Life blog
+
+<p>The Mexican Petunia (also known as Ruellia simplex) is a beautiful, easy-to-care-for flowering plant that thrives in a variety of ... </p>
+<p class="read-more-container"><a title="Mexican Petunia Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/mexican-petunia-care-and-growing-guide-with-ultimate-tips/#more-22272" aria-label="Read more about Mexican Petunia Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/mexican-petunia-care-and-growing-guide-with-ultimate-tips/">Mexican Petunia Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/mexican-petunia-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Texas Mountain Laurel Care and Growing Guide (Most Detailed)
+
+date: 2024-12-31, from: Yard Life blog
+
+<p>Texas Mountain Laurel (Sophora secundiflora) is a stunning, evergreen shrub native to the southwestern United States. Known for its fragrant ... </p>
+<p class="read-more-container"><a title="Texas Mountain Laurel Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/texas-mountain-laurel-care-and-growing-guide-most-detailed/#more-22265" aria-label="Read more about Texas Mountain Laurel Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/texas-mountain-laurel-care-and-growing-guide-most-detailed/">Texas Mountain Laurel Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/texas-mountain-laurel-care-and-growing-guide-most-detailed/>
+
+---
+
+## How to Get Rid of Spiders: 15 Effective Methods
+
+date: 2024-12-31, from: Yard Life blog
+
+<p>Spiders are often the unwanted guests we find in our homes. Though they may not be dangerous in most cases, ... </p>
+<p class="read-more-container"><a title="How to Get Rid of Spiders: 15 Effective Methods" class="read-more button" href="https://ownyardlife.com/how-to-get-rid-of-spiders-15-effective-methods/#more-22260" aria-label="Read more about How to Get Rid of Spiders: 15 Effective Methods">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-to-get-rid-of-spiders-15-effective-methods/">How to Get Rid of Spiders: 15 Effective Methods</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-to-get-rid-of-spiders-15-effective-methods/>
+
+---
+
+## How to Get Rid of Silverfish: 20 Effective and Easy Ways
+
+date: 2024-12-31, from: Yard Life blog
+
+<p>Silverfish are among the most unwelcome visitors in our homes. While they may not bite or transmit diseases, their presence ... </p>
+<p class="read-more-container"><a title="How to Get Rid of Silverfish: 20 Effective and Easy Ways" class="read-more button" href="https://ownyardlife.com/how-to-get-rid-of-silverfish-20-effective-and-easy-ways/#more-22257" aria-label="Read more about How to Get Rid of Silverfish: 20 Effective and Easy Ways">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-to-get-rid-of-silverfish-20-effective-and-easy-ways/">How to Get Rid of Silverfish: 20 Effective and Easy Ways</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-to-get-rid-of-silverfish-20-effective-and-easy-ways/>
+
+---
+
+## How to Get Rid of Gnats in Plants: 14 Effective Ways
+
+date: 2024-12-31, from: Yard Life blog
+
+<p>Gnats can be a pesky nuisance, especially when they invade your beloved houseplants. These tiny flying insects thrive in moist ... </p>
+<p class="read-more-container"><a title="How to Get Rid of Gnats in Plants: 14 Effective Ways" class="read-more button" href="https://ownyardlife.com/how-to-get-rid-of-gnats-in-plants-14-effective-ways/#more-22251" aria-label="Read more about How to Get Rid of Gnats in Plants: 14 Effective Ways">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-to-get-rid-of-gnats-in-plants-14-effective-ways/">How to Get Rid of Gnats in Plants: 14 Effective Ways</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-to-get-rid-of-gnats-in-plants-14-effective-ways/>
+
+---
+
+## 8 Effective Ways to Get Rid of Carpenter Ants
+
+date: 2024-12-31, from: Yard Life blog
+
+<p>Carpenter ants can be a significant nuisance, especially if they invade your home or property. Unlike termites, they do not ... </p>
+<p class="read-more-container"><a title="8 Effective Ways to Get Rid of Carpenter Ants" class="read-more button" href="https://ownyardlife.com/8-effective-ways-to-get-rid-of-carpenter-ants/#more-22247" aria-label="Read more about 8 Effective Ways to Get Rid of Carpenter Ants">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/8-effective-ways-to-get-rid-of-carpenter-ants/">8 Effective Ways to Get Rid of Carpenter Ants</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/8-effective-ways-to-get-rid-of-carpenter-ants/>
+
+---
+
+## How to Instantly Get Rid of Drain Flies: 6 Effective Ways
+
+date: 2024-12-31, from: Yard Life blog
+
+<p>Drain flies, also known as moth flies or sewer flies, are small, dark insects that tend to infest drains and ... </p>
+<p class="read-more-container"><a title="How to Instantly Get Rid of Drain Flies: 6 Effective Ways" class="read-more button" href="https://ownyardlife.com/how-to-instantly-get-rid-of-drain-flies-6-effective-ways/#more-22243" aria-label="Read more about How to Instantly Get Rid of Drain Flies: 6 Effective Ways">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-to-instantly-get-rid-of-drain-flies-6-effective-ways/">How to Instantly Get Rid of Drain Flies: 6 Effective Ways</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-to-instantly-get-rid-of-drain-flies-6-effective-ways/>
+
+---
+
+## Do Morning Glory Flowers Grow in Wetlands? Meaning and Facts
+
+date: 2024-12-31, from: Yard Life blog
+
+<p>Morning Glory flowers, with their vibrant hues and captivating blooms, are a popular choice in gardens and landscapes. These flowers ... </p>
+<p class="read-more-container"><a title="Do Morning Glory Flowers Grow in Wetlands? Meaning and Facts" class="read-more button" href="https://ownyardlife.com/do-morning-glory-flowers-grow-in-wetlands-meaning-and-facts/#more-22237" aria-label="Read more about Do Morning Glory Flowers Grow in Wetlands? Meaning and Facts">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/do-morning-glory-flowers-grow-in-wetlands-meaning-and-facts/">Do Morning Glory Flowers Grow in Wetlands? Meaning and Facts</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/do-morning-glory-flowers-grow-in-wetlands-meaning-and-facts/>
+
+---
+
+## 30 Beautiful Peony Flowers with Pictures and Peonies Care Tips
+
+date: 2024-12-31, from: Yard Life blog
+
+<p>Peonies are beloved for their lush blooms, delightful fragrances, and timeless elegance. Whether you&#8217;re a seasoned gardener or a beginner, ... </p>
+<p class="read-more-container"><a title="30 Beautiful Peony Flowers with Pictures and Peonies Care Tips" class="read-more button" href="https://ownyardlife.com/30-beautiful-peony-flowers-with-pictures-and-peonies-care-tips/#more-22205" aria-label="Read more about 30 Beautiful Peony Flowers with Pictures and Peonies Care Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/30-beautiful-peony-flowers-with-pictures-and-peonies-care-tips/">30 Beautiful Peony Flowers with Pictures and Peonies Care Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/30-beautiful-peony-flowers-with-pictures-and-peonies-care-tips/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-12-30, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## 50 for ’25: Resolutions for California Native Plants
+
+date: 2024-12-30, from: California Native Plants Society
+
+<p>CNPS chapter members and staff share resolutions, hopes, and actions for native plants in the year ahead.</p>
+<p>The post <a href="https://www.cnps.org/flora-magazine/california-native-plant-2025-resolutions-41591">50 for &#8217;25: Resolutions for California Native Plants</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/flora-magazine/california-native-plant-2025-resolutions-41591>
+
+---
+
+## How to Grow and Care for Tillandsia Sky Plants
+
+date: 2024-12-30, from: The Gardener's Path
+
+<p>Sky plants (Tillandsia ionantha) are air plants that feature bright purple, red, and yellow blossoms and textured green or reddish leaves. These gorgeous succulents couldn't be easier to care for, provided you give them the conditions they require. Learn how to grow and care for sky plants in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/grow-tillandsia-sky-plants/">How to Grow and Care for Tillandsia Sky Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/grow-tillandsia-sky-plants/>
+
+---
+
+## How the Biden Administration Addressed the Housing Crisis This Year
+
+date: 2024-12-30, from: Dwell
+
+Proposed legislation included removing barriers to new construction, cracking down on corporate landlords, and assistance to first-time homebuyers. 
+
+<br> 
+
+<https://www.dwell.com/article/biden-administration-housing-crisis-corporate-landlords-lead-pipe-38358a89>
+
+---
+
+## My 2024 DIY Fail Was a Fence Meant to Keep a Bevy of Animals From Ravaging My Garden
+
+date: 2024-12-30, from: Dwell
+
+My valiant efforts to save my veggies from the inquisitive paws of some friendly critters was a flop—so the garden is now their buffet. 
+
+<br> 
+
+<https://www.dwell.com/article/my-2024-diy-fail-was-a-fence-meant-to-keep-a-bevy-of-animals-from-ravaging-my-garden-bbcf91f0>
+
+---
+
+## 5 Smart Ways Professional Organizers Put Away Their Holiday Decorations
+
+date: 2024-12-30, from: Sunset Magazine - Living in the West
+
+When it's time to put away the holiday decorations, it helps to store things carefully. Experts share how to organize Christmas decorations. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/how-to-organize-christmas-decorations>
+
+---
+
+## This Is What You’re Doing Wrong When Visiting Hot Springs
+
+date: 2024-12-30, from: Sunset Magazine - Living in the West
+
+Hot springs are the best place to recover weary muscles in the winter. Here are the basic rules to follow when soaking. 
+
+<br> 
+
+<https://www.sunset.com/travel/rules-hot-springs-travel>
+
+---
+
+## This Secret, Cozy Mountain Town Lets You Ski or Just Chill Without the Crowds
+
+date: 2024-12-30, from: Sunset Magazine - Living in the West
+
+The tranquil mountain town, McCall, Idaho, captures the charm of the American West. Here's what to do on your vacation. 
+
+<br> 
+
+<https://www.sunset.com/travel/things-to-do-mccall-idaho>
+
+---
+
+## These Will Be the Biggest Design Trends of 2025
+
+date: 2024-12-30, from: Sunset Magazine - Living in the West
+
+Designers share their decor trend predictions for the new year so you can find inspiration for your next decor or renovation project. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/design-trends-2025>
 
 ---
 

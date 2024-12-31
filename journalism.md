@@ -1,27 +1,23 @@
 ---
 title: journalism
-updated: 2024-12-30 07:05:31
+updated: 2024-12-31 07:05:43
 ---
 
 # journalism
 
-(date: 2024-12-30 07:05:31)
+(date: 2024-12-31 07:05:43)
 
 ---
 
-## UCLA men’s basketball to face Gonzaga in West Coast Hoops Showdown
+## Gallery: Holiday displays across Los Angeles illuminate community, seasonal cheer
 
-date: 2024-12-30, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2024-12-31, from: The Daily Bruin (UCLA Student Newspaper)
 
-A Mick Cronin-led squad has yet to triumph over Gonzaga.
-But if at first you don’t succeed, try, try again.
-And again.
-And again.
-And again. 
+While the onset of winter marks a return to home for most Bruins, the city of angels takes on a new glow. From Santa Monica to downtown Los Angeles, various government and commercial entities hosted spirited lighting ceremonies, ushering in the start of the holiday season. 
 
 <br> 
 
-<https://dailybruin.com/2024/12/29/ucla-mens-basketball-to-face-gonzaga-in-west-coast-hoops-showdown/>
+<https://dailybruin.com/2024/12/30/gallery-holiday-displays-across-los-angeles-illuminate-community-seasonal-cheer/>
 
 ---
 

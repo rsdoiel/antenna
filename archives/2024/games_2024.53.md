@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-12-30 07:05:31
+updated: 2024-12-31 07:05:42
 ---
 
 # games
 
-(date: 2024-12-30 07:05:31)
+(date: 2024-12-31 07:05:42)
+
+---
+
+## Fitness Boxing 3 can and should kick your ass
+
+date: 2024-12-31, updated: 2024-12-30, from: Polygon Website
+
+Boxing is a full-body workout. Deceptively so — you’re just moving your arms, how tough could it be, right? But if you’re throwing a punch correctly, you’re putting your entire body into that motion. A boxing punch should involve a whole set of simultaneous movements that engage your legs, your core, your shoulders, and your [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/503060/fitness-boxing-3-review-workout-video-games-nintendo-switch>
+
+---
+
+## Defunctland’s Disney park videos are so good, I had to ration them out
+
+date: 2024-12-31, updated: 2024-12-22, from: Polygon Website
+
+For someone who’s really into theme parks, Disney history, and the stories behind childhood favorites, I became a Defunctland fan far too late — but I’m so glad I did. The channel has a wonderful spread of videos, from the feature-length documentary-style ones that the channel is primarily known for to the shorter, quicker bite-sized dives [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/yuletide-youtube/485365/yuletide-youtube-defunctland-american-idol>
+
+---
+
+## Every movie and show coming to Netflix in January
+
+date: 2024-12-31, updated: 2024-12-30, from: Polygon Website
+
+Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s coming difficult to parse. The Netflix back catalogue is delivering this month — there’s the Sam Raimi Spider-Man trilogy; Love Actually, in case you’re still in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/494357/new-on-netflix-january-2025-movies-tv-to-watch>
+
+---
+
+## Can Togetic be shiny in Pokémon Go?
+
+date: 2024-12-31, updated: 2024-12-17, from: Polygon Website
+
+Togetic, the happiness Pokémon from Johto, can be found in the wild in Pokémon Go. Yes, Togetic can be shiny in Pokémon Go! Togekiss is a great fairy-type attacker, as it has bulk and a decent moveset. It also does see use in PvP, meaning grabbing a ton of Togetic to check their IVs is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/497566/can-togetic-be-shiny-togepi-togekiss>
+
+---
+
+## Jason Momoa to play Lobo in Supergirl movie
+
+date: 2024-12-30, updated: 2024-12-30, from: Polygon Website
+
+Who needs YouTube videos of people arranging objects in pleasingly symmetrical formations when Jason Momoa has been cast as Lobo in the upcoming Supergirl movie? Deadline reports that Momoa has been tapped to play the DC Comics antihero alongside Milly Alcock’s Supergirl in Supergirl: Woman of Tomorrow. Momoa confirmed in an Instagram post that Warner [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/503103/jason-momoa-lobo-supergirl-cast>
+
+---
+
+## YuleTide YouTube: A celebration of fun on the internet
+
+date: 2024-12-30, updated: 2024-12-30, from: Polygon Website
+
+Ah, the holidays. A time for joy, merriment, and vegging out. Maybe you use the time to marathon Christmas movies. Maybe you use the time to catch up on the best media of the year that you missed. Or maybe you share a YouTube obsession with your friends and loved ones. This year, Polygon is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/youtube/481347/best-youtube-videos-channels-watch>
+
+---
+
+## Every PlayStation title for the PC is on sale at Fanatical
+
+date: 2024-12-30, updated: 2024-12-30, from: Polygon Website
+
+Some of the greatest hits to grace the PlayStation 5 have thankfully been ported over to PC. If you missed the chance to play these awesome games on their native hardware, Fanatical has discounted just about every formerly PlayStation-exclusive title to its lowest price ever through Jan. 2. These discounts are even better than what’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sales-guide/503068/playstation-port-pc-fanatical-deal>
+
+---
+
+## YouTube turned me into a backpacker. These are my 3 favorite outdoor creators on the platform
+
+date: 2024-12-30, updated: 2024-12-23, from: Polygon Website
+
+In the fall of 2021 the burnout, my friends, was real. That October, I determined that I needed to rapidly disassemble my day-to-day routine, yeet myself clear of everything that I considered normal, and not deal with… anything for just a little while, at least. The tool I used to break the chains that bound [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/500586/best-backpacking-videos-on-youtube>
+
+---
+
+## Discoveries
+
+date: 2024-12-30, updated: 2024-12-30, from: Polygon Website
+
+At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
+
+---
+
+## Yakuza studio director says don’t even try to figure out what its next game is about
+
+date: 2024-12-30, updated: 2024-12-30, from: Polygon Website
+
+Ryu Ga Gotoku Studio, the devs behind the Like a Dragon (formerly Yakuza) series, shared pre-alpha footage of its next game at The Game Awards on Dec. 12, but studio director Masayoshi Yokoyama says the short video reveals absolutely none of the project’s contents. During a Dec. 26 broadcast, Yokoyama claimed every fan theory and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/503069/project-century-like-a-dragon-yakuza-ryu-ga-gotoku-studio-fan-theories-wrong>
 
 ---
 

@@ -1,11 +1,47 @@
 ---
 title: food
-updated: 2024-12-30 07:05:33
+updated: 2024-12-31 07:05:44
 ---
 
 # food
 
-(date: 2024-12-30 07:05:33)
+(date: 2024-12-31 07:05:44)
+
+---
+
+## Electric Roasting Equipment Surged in 2024
+
+date: 2024-12-30, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/new-commercial-roasting-machines-2024-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="new commercial roasting machines 2024" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/new-commercial-roasting-machines-2024-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/new-commercial-roasting-machines-2024-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/new-commercial-roasting-machines-2024-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/new-commercial-roasting-machines-2024-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/new-commercial-roasting-machines-2024.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Last year&#8217;s trend towards electric roasting equipment for commercial coffee operations picked up even more steam this year. It&#8217;s now starting to feel like a full-on paradigm shift.&#160; Still relatively... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/30/electric-roasting-equipment-surged-in-2024/>
+
+---
+
+## Prices, EUDR and Value Inequity Defined the Year in Green Coffee
+
+date: 2024-12-30, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-news-2024-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="green coffee news 2024" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-news-2024-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-news-2024-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-news-2024-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-news-2024-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-news-2024.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Sustained relatively high prices and the looming enforcement of the European deforestation-free law known as EUDR captured headlines throughout the green coffee world this year. We say &#8220;relatively&#8221; high prices... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/30/prices-eudr-and-value-inequity-defined-the-year-in-green-coffee/>
+
+---
+
+## 25 New Coffee Roasters to Support in 2025
+
+date: 2024-12-30, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-roasters-2025-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="New coffee roasters 2025" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-roasters-2025-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-roasters-2025-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-roasters-2025-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-roasters-2025-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/New-coffee-roasters-2025.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>This year, dozens of new facilities dedicated to roasting specialty coffee opened across the United States. While some are led by seasoned industry veterans and others by newcomers, nearly all... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/30/25-new-coffee-roasters-to-support-in-2025/>
 
 ---
 

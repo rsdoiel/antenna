@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2024-12-30 07:05:33
+updated: 2024-12-31 07:05:44
 ---
 
 # craft
 
-(date: 2024-12-30 07:05:33)
+(date: 2024-12-31 07:05:44)
+
+---
+
+## LAP 2025 Open Wire Dates
+
+date: 2024-12-31, from: Lost Arg Press blog
+
+&#8220;Open Wire&#8221; is your bi-monthly opportunity to pose to us any and all woodworking questions, and we&#8217;ll do our best to answer (if you ask on other days, we&#8217;ll tell you to please wait for Open Wire). It&#8217;s simple – we post a blog entry on the scheduled Saturday mornings (usually at around 7:30 a.m.... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/31/lap-2025-open-wire-dates/>
+
+---
+
+## It's Almost 2025 — What will You Begin? — Everything you need to make a fresh start
+
+date: 2024-12-30, updated: 2024-12-30, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2024/12/its-almost-2025-what-will-you-begin.html>
 
 ---
 

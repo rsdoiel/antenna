@@ -1,11 +1,96 @@
 ---
 title: motorcycles
-updated: 2024-12-30 07:05:32
+updated: 2024-12-31 07:05:43
 ---
 
 # motorcycles
 
-(date: 2024-12-30 07:05:32)
+(date: 2024-12-31 07:05:43)
+
+---
+
+## This French ATV Has a Freakin' Laser Beam!
+
+date: 2024-12-31, from: Ride Apart, Electric Motorcycle News
+
+No, Mr. Powers, I expect you to die! Muah ha ha ha... 
+
+<br> 
+
+<https://www.rideapart.com/news/745852/french-atv-soframe-laser-beam-military/>
+
+---
+
+## Is the GSX-R600 Coming Back? All Signs Point To “Yes”
+
+date: 2024-12-31, from: Ride Apart, Electric Motorcycle News
+
+I think this points to an even bigger shift in the market. 
+
+<br> 
+
+<https://www.rideapart.com/news/745858/suzuki-sportbike-range-2025/>
+
+---
+
+## This Supercharged Kawasaki H2R F1 Car Isn't Real, But I Wish It Was
+
+date: 2024-12-31, from: Ride Apart, Electric Motorcycle News
+
+Formula One could never. 
+
+<br> 
+
+<https://www.rideapart.com/news/745855/kawasaki-spain-inocentes-h2r-racecar/>
+
+---
+
+## Villainous Motorcycle Rider 'Lobo' Is Finally Coming to the Big Screen In 'Supergirl'
+
+date: 2024-12-31, from: Ride Apart, Electric Motorcycle News
+
+Jason Momoa will finally get his wish.  
+
+<br> 
+
+<https://www.rideapart.com/news/745849/dc-supergirl-woman-of-tomorrow-lobo-motorcycle-jason-momoa/>
+
+---
+
+## Honda Sets Sights On India For Full-Scale Electric Domination
+
+date: 2024-12-31, from: Ride Apart, Electric Motorcycle News
+
+It’s launching new EV two-wheelers specific to the Indian market, among many other things. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/745725/honda-big-electrification-plans-india/>
+
+---
+
+## Tyler Reif to Compete Full-Time in 2025 ARCA Menards Series East and Select National Rounds with Sigma Performance Services
+
+date: 2024-12-31, from: Kickin the Tires blog
+
+Statesville, NC – Sigma Performance Services (SPS) is thrilled to announce that 17-year-old driver Tyler Reif will compete full-time in the 2025 ARCA Menards Series East, and select National series&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/tyler-reif-to-compete-full-time-in-2025-arca-menards-series-east-and-select-national-rounds-with-sigma-performance-services/>
+
+---
+
+## Travis Pastrana Challenges the Entire Block Family to a UTV Race, Hijinks Ensue
+
+date: 2024-12-30, from: Ride Apart, Electric Motorcycle News
+
+Wonder Boy vs. the Blocks in an all-out off-road battle.  
+
+<br> 
+
+<https://www.rideapart.com/news/745642/travis-pastrana-ken-block-utv-race-nitrocross-video/>
 
 ---
 
