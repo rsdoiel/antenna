@@ -13,7 +13,7 @@ ifeq ($(TODAY),$(SATURDAY))
 endif
 VOL_NO = $(shell date +%Y.%W)
 
-YEAR = 2024
+YEAR = 2025
 ifneq ($(vol),)
         VOL_NO=$(vol)
 endif
