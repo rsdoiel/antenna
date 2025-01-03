@@ -1,11 +1,49 @@
 ---
 title: food
-updated: 2025-01-02 13:18:47
+updated: 2025-01-03 07:05:11
 ---
 
 # food
 
-(date: 2025-01-02 13:18:47)
+(date: 2025-01-03 07:05:11)
+
+---
+
+## Best Vegetarian Meal Delivery Services in 2025: Expert Tested
+
+date: 2025-01-03, from: Bon Appetet
+
+Go beyond your same old smoothies and grain bowls. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-vegetarian-meal-kits>
+
+---
+
+## The Year In Coffee Unionizing: A Quick 2024 Recap
+
+date: 2025-01-03, from: The Fresh Cup
+
+<p>2024 was another big year for organizing in the coffee industry. Read about the most important coffee stories of the year. </p>
+<p>The post <a href="https://freshcup.com/the-year-in-coffee-unionizing-a-quick-2024-recap/">The Year In Coffee Unionizing: A Quick 2024 Recap</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/the-year-in-coffee-unionizing-a-quick-2024-recap/>
+
+---
+
+## Creamy Sesame Noodles and More Recipes We Made This Week
+
+date: 2025-01-03, from: Bon Appetet
+
+Like white chicken chili and blueberry scones. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-january-2025>
 
 ---
 
@@ -84,6 +122,22 @@ date: 2025-01-02, from: Taste of Home
 <br> 
 
 <https://www.tasteofhome.com/article/pepsi-zero-vs-diet-pepsi/>
+
+---
+
+## Healthy Recipes for the New Year
+
+date: 2025-01-02, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/01/Healthy-Recipes-for-the-New-Year.jpg"/></div>
+<p>A collection of some of the best light and healthy recipes on Closet Cooking to help you keep your New Years resolutions without sacrificing in flavour! With all of the eating over the Holidays I was looking for some lighter fare to start off the New Year right! With this in mind I thought that...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/50-healthy-recipes-to-start-new-year/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/50-healthy-recipes-to-start-new-year/">Healthy Recipes for the New Year</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/50-healthy-recipes-to-start-new-year/>
 
 ---
 
@@ -196,6 +250,22 @@ date: 2025-01-01, from: The Fresh Cup
 <br> 
 
 <https://freshcup.com/is-coffee-good-for-you-research-in-2024-says-yes-mostly/>
+
+---
+
+## NEW Cookbook! The Best of Closet Cooking 2025
+
+date: 2025-01-01, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2024/12/Cover-1200.jpg"/></div>
+<p>Happy New Year! What better way to start off the New Year than by giving away my new cookbook, The Best of Closet Cooking 2025, for free! This cookbook contains which contains the 25 tastiest and most popular new recipes on Closet Cooking in 2024. The Best of Closet Cooking 2025 is available completely for...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/new-cookbook-the-best-of-closet-cooking-2025/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/new-cookbook-the-best-of-closet-cooking-2025/">NEW Cookbook! The Best of Closet Cooking 2025</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/new-cookbook-the-best-of-closet-cooking-2025/>
 
 ---
 

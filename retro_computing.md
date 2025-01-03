@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-01-02 13:18:47
+updated: 2025-01-03 07:05:10
 ---
 
 # retro computing
 
-(date: 2025-01-02 13:18:47)
+(date: 2025-01-03 07:05:10)
+
+---
+
+## WROCC to perform some NICanatomy – 8th January
+
+date: 2025-01-03, from: RiscOS Story
+
+The Wakefield RISC OS Computer Club (WROCC) usually meets on the first Wednesday of each month, with the occasional exception. One such change often happens in January, when the regular day is often very close to New Year&#8217;s Day &#8211; and it doesn&#8217;t get much closer than it did this year. The group&#8217;s first meeting will therefore take place on Wednesday, 8th January &#8211; a week later &#8211; at which they will be using one of Elesar Ltd&#8217;s NIC designs as a case study to follow the process that leads&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/wrocc-meeting-8th-january/>
+
+---
+
+## Look up bank information
+
+date: 2025-01-03, from: RiscOS Story
+
+A new piece of software &#8211; BankInfo &#8211; has been released by Kevin Wells, following his tried and trusted approach of using Wget as an interface between the RISC OS desktop and a web-based application programmer interface (API). The new application makes use of the remote API at Bank Data, and provides a way to look up basic information about banks from a selection of source data. You can input one of the following to perform a lookup: International Bank Account Number (IBAN). SWIFT code, sometimes called a Bank Identifier&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/bankinfo-1-01/>
 
 ---
 

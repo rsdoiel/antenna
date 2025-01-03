@@ -1,11 +1,95 @@
 ---
 title: socal north
-updated: 2025-01-02 13:18:44
+updated: 2025-01-03 07:05:07
 ---
 
 # socal north
 
-(date: 2025-01-02 13:18:44)
+(date: 2025-01-03 07:05:07)
+
+---
+
+## Huntington Beach v. California, another year, another round of battles
+
+date: 2025-01-03, updated: 2025-01-03, from: The LAist
+
+The future of housing, voting, and the city’s public libraries are at stake. 
+
+<br> 
+
+<https://laist.com/news/politics/huntington-beach-faces-a-year-of-political-challenges>
+
+---
+
+## LA's best pozoles come in red, green, and white. And sometimes with shrimp, ‘shrooms, and jackfruit, too
+
+date: 2025-01-03, updated: 2025-01-03, from: The LAist
+
+Each pozole on this list has its own distinct identity. All will warm your body and soul. 
+
+<br> 
+
+<https://laist.com/news/food/la-best-pozoles-guide>
+
+---
+
+## LAist predicts 12 food trends that will be big in 2025
+
+date: 2025-01-03, updated: 2025-01-03, from: The LAist
+
+We’ve looked into our crystal ball to forecast what will happen in the food world in the new year. 
+
+<br> 
+
+<https://laist.com/news/food/laist-12-food-trends-that-will-be-big-in-2025>
+
+---
+
+## LA officials call on landlords to accept housing vouchers from veterans under new streamlined process
+
+date: 2025-01-03, updated: 2025-01-03, from: The LAist
+
+The two-pronged approach aims to get more housing vouchers into veterans' hands while boosting the number of units available. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-officials-call-on-landlords-to-accept-housing-vouchers-from-veterans>
+
+---
+
+## Avoid falling for this text scam claiming you owe a toll fee
+
+date: 2025-01-02, updated: 2025-01-03, from: The LAist
+
+California's attorney general is warning residents to be on the lookout for text messages that ask you to follow a link to pay an outstanding toll fee online. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/avoid-falling-for-this-text-scam-claiming-you-owe-a-toll-fee>
+
+---
+
+## California's snowpack is slightly below normal, more winter storms needed
+
+date: 2025-01-02, updated: 2025-01-02, from: The LAist
+
+While the northern part of the state is looking good, the southern part is looking bleak. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/ca-snowpack-below-normal-winter-storms>
+
+---
+
+## Here's how TikTok creators are preparing for a TikTok ban
+
+date: 2025-01-02, updated: 2025-01-02, from: The LAist
+
+TikTok will be shut down in the U.S. this month unless it's sold to a non-Chinese company. Here's how creators are preparing. 
+
+<br> 
+
+<https://laist.com/news/how-tiktok-creators-are-preparing-for-ban>
 
 ---
 

@@ -1,11 +1,186 @@
 ---
 title: columns
-updated: 2025-01-02 13:18:45
+updated: 2025-01-03 07:05:08
 ---
 
 # columns
 
-(date: 2025-01-02 13:18:45)
+(date: 2025-01-03 07:05:08)
+
+---
+
+## ShredOS
+
+date: 2025-01-03, updated: 2025-01-03, from: Bruce Schneier blog
+
+<p>ShredOS is a stripped-down operating system designed to <a href="https://boingboing.net/2025/01/02/shredos-is-an-entire-os-just-for-destroying-data.html">destroy data</a>.</p>
+<p>GitHub page <a href="https://github.com/PartialVolume/shredos.x86_64">here</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/01/shredos.html>
+
+---
+
+##  Fact-Checking the Spiciness of &#8216;Hot Ones&#8217; Sauces 
+
+date: 2025-01-03, updated: 2025-01-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/fact-checking-the-spiciness-of-hot-ones-sauces>
+
+---
+
+## Engineers and their problems
+
+date: 2025-01-03, from: Enlightenment Economics blog
+
+I bought Wicked Problems: How to engineer a better world by Guru Madhavan because of a column by the author in the FT, The Truth About Maximising Efficiency: it argues that governments, like engineered artefacts and indeed our bodies need &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/01/engineers-and-their-problems/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2025/01/engineers-and-their-problems/>
+
+---
+
+## 
+                Learning-OS/8086
+            
+
+date: 2025-01-03, updated: 2025-01-03, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-01-03/1/POSTING-en.html>
+
+---
+
+## 
+                Exploring OS/2’s virtualization: <code>EXIT_VDM.COM</code>
+            
+
+date: 2025-01-03, updated: 2025-01-03, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-01-03/0/POSTING-en.html>
+
+---
+
+## HMD Fusion: A budget repairable smartphone with modular flair
+
+date: 2025-01-03, updated: 2025-01-03, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Review</span> Expansion port on the back lets you add Outfits with added functions</h4>
+      <p>HMD&#39;s Fusion smartphone has a pogo-pin port on the back, allowing some nifty peripherals, including gaming controls, and its specs are open.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/01/03/hmd_fusion_review/>
+
+---
+
+## From the Robber Barons to Elon Musk: Will History Repeat Itself?
+
+date: 2025-01-03, from: Robert Reich's blog
+
+Preparing for the Trump Regime, Part 1. 
+
+<br> 
+
+<https://robertreich.substack.com/p/from-the-robber-barons-to-elon-musk>
+
+---
+
+## January 2, 2024 
+
+date: 2025-01-03, from: Heather Cox Richardson blog
+
+This evening, President Joe Biden awarded twenty Americans the Presidential Citizens Medal, which is given to those &#8220;who have performed exemplary deeds of service for their country or their fellow citizens.&#8221; Biden chose these particular individuals because he &#8220;believes these Americans are bonded by their common decency and commitment to serving others&#8221; and that &#8220;[t]he country is better because of their dedication and sacrifice.&#8221; 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-2-2024-555>
+
+---
+
+## 2024 Year-End Reading Review
+
+date: 2025-01-03, from: Tracy Durnell Blog
+
+What I Read in 2024 I read 167 books in 2024, funnily enough the same number as in 2023. All the books I read My 20 favorite books from the year Reading stats 35 novellas 48 self-published 30 re-reads 39 owned books 31 comics (fiction and non-fiction) 107 DNF’s 70 physical books Fiction by genre [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/02/2024-year-end-reading-review/>
+
+---
+
+## Monday 6 January, 2025
+
+date: 2025-01-03, from: John Naughton's online diary
+
+Snowscape A Cambridge scene that makes me think of L.S.Lowry, even though Cambridge is the last place Lowry would have though of painting. Quote of the Day &#8220;When nothing is sure, everything is possible&#8221; Margaret Drabble Musical alternative to the &#8230; <a href="https://memex.naughtons.org/monday-6-january-2025/40296/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/monday-6-january-2025/40296/>
+
+---
+
+## Simon Willions’s Approach to Running a Link Blog
+
+date: 2025-01-03, updated: 2025-01-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://simonwillison.net/2024/Dec/22/link-blog/>
+
+---
+
+##  Huh, there&#8217;s going to be a Blade Runner 2099 TV series. It... 
+
+date: 2025-01-02, updated: 2025-01-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045945-huh-theres-going-to-be>
+
+---
+
+## ‘Things We Learned About LLMs in 2024’
+
+date: 2025-01-02, updated: 2025-01-02, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://simonwillison.net/2024/Dec/31/llms-in-2024/>
+
+---
+
+##  Say Nothing TV Series 
+
+date: 2025-01-02, updated: 2025-01-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/say-nothing-tv-series>
 
 ---
 

@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-01-02 13:18:46
+updated: 2025-01-03 07:05:10
 ---
 
 # motorcycles
 
-(date: 2025-01-02 13:18:46)
+(date: 2025-01-03 07:05:10)
+
+---
+
+## E-Bike And Scooter Injuries Have Tripled Since 2019
+
+date: 2025-01-03, from: Ride Apart, Electric Motorcycle News
+
+Intoxicated riding stands as the main cause of e-bike and e-scooter-related injuries. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/745960/e-mobility-injuries-tripled-since-2019/>
+
+---
+
+## Get Ready to Mow Your Grass, Or Cut Deer Trails, With Polaris' New UTV Accessory
+
+date: 2025-01-03, from: Ride Apart, Electric Motorcycle News
+
+Polaris saw that Monster Garage episode and thought, "Why not?" 
+
+<br> 
+
+<https://www.rideapart.com/news/746078/polaris-brush-lawnmower-utv-accessory/>
+
+---
+
+## There's a KTM Clearance Sale On the Way, But Would You Buy One Right Now?
+
+date: 2025-01-03, from: Ride Apart, Electric Motorcycle News
+
+Would you dare to taste the forbidden fruit? 
+
+<br> 
+
+<https://www.rideapart.com/news/746070/ktm-clearance-sale/>
 
 ---
 

@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-01-02 13:18:45
+updated: 2025-01-03 07:05:09
 ---
 
 # games
 
-(date: 2025-01-02 13:18:45)
+(date: 2025-01-03 07:05:09)
+
+---
+
+## The 47 best movies on Netflix right now
+
+date: 2025-01-03, updated: 2025-01-03, from: Polygon Website
+
+What’s the best movie I can watch on Netflix? We’ve all asked ourselves this question, only to spend the next 15 minutes scrolling through the streaming service’s oddly specific genre menus and getting overwhelmed by the constantly shifting trend menus. Netflix’s huge catalog of movies continues to expand day by day, week by week, month [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## Andrew Garfield denies Spider-Man 4 rumors, fuels Spider-Man 4 rumors
+
+date: 2025-01-03, updated: 2025-01-03, from: Polygon Website
+
+I don’t blame The Amazing Spider-Man star Andrew Garfield for lying through his teeth for two years to preserve the secrecy of his role in Spider-Man: No Way Home, but that level of deception follows a person! To quote Aesop’s finger-wagging moral of “The Boy Who Cried Wolf”: “liars are not believed even when they [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/503716/andrew-garfield-spider-man-4-casting-rumors>
+
+---
+
+## Has Hollywood finally cracked video game adaptations? 2025 will be a big test
+
+date: 2025-01-03, updated: 2025-01-02, from: Polygon Website
+
+Hollywood doesn’t have a consistent track record when it comes to getting video game adaptations right. But in recent years, there’s been a shift in quality, thanks to projects like Fallout, The Last of Us, Arcane, Twisted Metal, and The Super Mario Bros. Movie. We can probably thank the creators and stewards of the aforementioned [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/500409/2025-video-game-movies-tv-shows-release-dates>
+
+---
+
+## Can’t find a tabletop gaming group? Try the solo version instead
+
+date: 2025-01-02, updated: 2025-01-02, from: Polygon Website
+
+The hardest mechanic of any tabletop game is finding people to play it with. The logistical difficulties of organizing a group, the influx of high-quality indie TTRPGs, and countless other factors have given rise to a renaissance of sorts for solo tabletop role-playing games — specifically, solo rules for games that would otherwise be for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/503622/solo-ttrpg-tabletop-role-playing-games-no-group>
+
+---
+
+## This gorgeous, 592-page Metaphor: ReFantazio strategy guide is up for pre-order
+
+date: 2025-01-02, updated: 2025-01-02, from: Polygon Website
+
+Gallica is a pretty great companion in Metaphor: ReFantazio, gleefully providing tips on how to spend your time, whether it’s with people, or tackling objectives to save Euchronia. Polygon’s a great resource for tips, too, if I say so myself. However, if you want your own physical companion to the game, one’s coming in the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/503585/metaphor-refantazio-strategy-guide-future-press-where-to-buy>
+
+---
+
+## How to prestige in Black Ops 6
+
+date: 2025-01-02, updated: 2025-01-02, from: Polygon Website
+
+Prestige returns to Black Ops 6 with new emblems and a ton of rewards. Prestige in Call of Duty is essentially a rank reset system that gives you items and rewards you can show off to your friends and other players. Black Ops 6 improves on the prestige feature by allowing you to keep some [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-ops-6-guides/485670/prestige-level-how-to-rewards-emblems-system>
+
+---
+
+## Every Marvel movie and TV release set for 2025 and beyond
+
+date: 2025-01-02, updated: 2025-01-02, from: Polygon Website
+
+Marvel Studios took a breather in 2024, releasing only one major film (Deadpool &#38; Wolverine) and a couple of live-action TV series (Agatha All Along, Echo). But the Marvel Cinematic Universe is set to make a thunderous return in 2025. A whopping nine MCU feature films and TV series are slated to arrive in movie [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule>
+
+---
+
+## Fantasy author John Wiswell explains the ‘Tetris method’ that can keep you productive in 2025
+
+date: 2025-01-02, updated: 2025-01-02, from: Polygon Website
+
+Talking to Nebula-winning fantasy author John Wiswell about the things he loves is a little overwhelming, because of the boundless energy he brings to the table. Whether he’s talking about his 2024 debut novel Someone You Can Build a Nest In (a cozy fantasy widely featured on best-of-the-year lists, including ours), the other books he [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/books/503383/writing-tips-tricks-beating-writers-block-john-wiswell-interview>
+
+---
+
+## Genshin Impact codes for January 2025
+
+date: 2025-01-02, updated: 2025-01-02, from: Polygon Website
+
+Genshin Impact is one of Hoyoverse’s many games, which means that there are tons of codes revealed via social media channels to redeem in exchange for free loot. These codes can reward a plethora of goods, from food that’ll buff or heal your characters to the premium currency, Primogems. Below we list out the currently [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/genshin-impact-guides/479183/codes-redeem-redemption-gift-primogems>
+
+---
+
+## Lego Mario Kart leaves the gate with six new sets
+
+date: 2025-01-02, updated: 2025-01-02, from: Polygon Website
+
+Lego has once again expanded its reach into the Mario universe, bringing us six new sets inspired by the Mario Kart franchise. The sets vary in size, but each one includes at least one racer driving their trademark Kart which is equipped with a launcher that can be loaded with a red or green shell [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/deals/503343/mario-kart-lego-where-to-buy>
 
 ---
 

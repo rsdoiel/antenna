@@ -1,11 +1,68 @@
 ---
 title: home
-updated: 2025-01-02 13:18:46
+updated: 2025-01-03 07:05:09
 ---
 
 # home
 
-(date: 2025-01-02 13:18:46)
+(date: 2025-01-03 07:05:09)
+
+---
+
+## 25 Amazing Aquatic Plants That Will Beautify Your Water Garden
+
+date: 2025-01-03, from: Yard Life blog
+
+<p>A water garden is a serene and captivating addition to any landscape, and the right aquatic plants can elevate its ... </p>
+<p class="read-more-container"><a title="25 Amazing Aquatic Plants That Will Beautify Your Water Garden" class="read-more button" href="https://ownyardlife.com/25-amazing-aquatic-plants-that-will-beautify-your-water-garden/#more-22356" aria-label="Read more about 25 Amazing Aquatic Plants That Will Beautify Your Water Garden">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/25-amazing-aquatic-plants-that-will-beautify-your-water-garden/">25 Amazing Aquatic Plants That Will Beautify Your Water Garden</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/25-amazing-aquatic-plants-that-will-beautify-your-water-garden/>
+
+---
+
+## How to Grow Potatoes in Containers or Garden Beds
+
+date: 2025-01-03, from: Yard Life blog
+
+<p>Growing potatoes can be a rewarding experience, whether you have a spacious garden or limited space for containers. Potatoes are ... </p>
+<p class="read-more-container"><a title="How to Grow Potatoes in Containers or Garden Beds" class="read-more button" href="https://ownyardlife.com/how-to-grow-potatoes-in-containers-or-garden-beds/#more-22352" aria-label="Read more about How to Grow Potatoes in Containers or Garden Beds">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-to-grow-potatoes-in-containers-or-garden-beds/">How to Grow Potatoes in Containers or Garden Beds</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-to-grow-potatoes-in-containers-or-garden-beds/>
+
+---
+
+## Cast Iron Plant Care and Growing Guide with Ultimate Tips
+
+date: 2025-01-03, from: Yard Life blog
+
+<p>The cast iron plant (Aspidistra elatior), often called the bar room plant, is a hardy and attractive evergreen perennial. It ... </p>
+<p class="read-more-container"><a title="Cast Iron Plant Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/cast-iron-plant-care-and-growing-guide-with-ultimate-tips/#more-22349" aria-label="Read more about Cast Iron Plant Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/cast-iron-plant-care-and-growing-guide-with-ultimate-tips/">Cast Iron Plant Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/cast-iron-plant-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## 12 Fun and Refreshing Mocktail Recipes from Bartending Pros
+
+date: 2025-01-02, from: Sunset Magazine - Living in the West
+
+Bartenders are thinking outside of the bottle to create a spectacular, spirit-free sip. Try these exciting mocktail recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/mocktail-recipes>
 
 ---
 
@@ -130,6 +187,18 @@ date: 2025-01-02, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/do-dogs-have-night-vision-the-truth-about-canine-eyesight/>
+
+---
+
+## This Is How to Clean Out Your Fridge (and Keep It Organized)
+
+date: 2025-01-01, from: Sunset Magazine - Living in the West
+
+Does your fridge need to be decluttered? A professional organizing expert shares her easy and helpful fridge clean-out tips. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/how-to-clean-out-fridge>
 
 ---
 
@@ -495,18 +564,6 @@ date: 2024-12-31, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/30-beautiful-peony-flowers-with-pictures-and-peonies-care-tips/>
-
----
-
-## 11 Fun and Refreshing Mocktail Recipes from Bartending Pros
-
-date: 2024-12-30, from: Sunset Magazine - Living in the West
-
-Bartenders are thinking outside of the bottle to create a spectacular, spirit-free sip. Try these exciting mocktail recipes. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/wine-pairings/mocktail-recipes>
 
 ---
 

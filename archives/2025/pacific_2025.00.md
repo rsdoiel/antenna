@@ -1,11 +1,346 @@
 ---
 title: pacific
-updated: 2025-01-02 13:18:44
+updated: 2025-01-03 07:05:07
 ---
 
 # pacific
 
-(date: 2025-01-02 13:18:44)
+(date: 2025-01-03 07:05:07)
+
+---
+
+## Court throws out Biden FCC’s net neutrality rule
+
+date: 2025-01-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A federal appeals court on Thursday overturned a Biden administration rule establishing so-called net neutrality for internet providers following years of litigation over efforts to regulate internet speeds for different content online.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/03/nation-world-news/court-throws-out-biden-fccs-net-neutrality-rule/>
+
+---
+
+## Meta appoints executive with Republican ties to lead global policy
+
+date: 2025-01-03, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; Meta on Thursday appointed Joel Kaplan, a longtime executive who was a former senior adviser to George W. Bush and is known for his Republican ties, to be its new head of global policy, as the social media giant seeks to strengthen its links to the incoming Trump administration. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/03/nation-world-news/meta-appoints-executive-with-republican-ties-to-lead-global-policy/>
+
+---
+
+## Tesla annual deliveries fall for first time as incentives fail to drum up demand
+
+date: 2025-01-03, from: Hawaii Tribune Harold
+
+
+				<p>Tesla reported its first fall in yearly deliveries on Thursday as lucrative year-end incentives for the Elon Musk-led EV maker&#8217;s aging line up and the new Cybertruck pickup failed to lure customers wary of high borrowing costs. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/03/nation-world-news/tesla-annual-deliveries-fall-for-first-time-as-incentives-fail-to-drum-up-demand/>
+
+---
+
+## Injured Chicago-area teen being flown to US after Mexico shooting that killed his father and uncle
+
+date: 2025-01-03, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO &#8212; Five days after a Chicago-area teen was shot in the head in Mexico, the teen was being flown Wednesday to a U.S. hospital for treatment while his family continues to grieve the loss of his father and uncle who were killed in the shooting.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/03/nation-world-news/injured-chicago-area-teen-being-flown-to-us-after-mexico-shooting-that-killed-his-father-and-uncle/>
+
+---
+
+## A half-ton piece of space junk falls onto a village in Kenya
+
+date: 2025-01-03, from: Hawaii Tribune Harold
+
+
+				<p>A glowing ring of metal, more than 8 feet in diameter and weighing more than 1,100 pounds, fell from the sky and crash-landed in a remote village in Kenya this week, causing no injuries but frightening residents who feared a bomb or worse.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/03/nation-world-news/a-half-ton-piece-of-space-junk-falls-onto-a-village-in-kenya/>
+
+---
+
+## Cold snap is forecast to grip much of the US
+
+date: 2025-01-03, from: Hawaii Tribune Harold
+
+
+				<p>The National Weather Service has said that a &#8220;significant Arctic outbreak&#8221; of cold air will cover large swathes of the United States starting this weekend, with frigid conditions anticipated to last well into mid-January.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/03/nation-world-news/cold-snap-is-forecast-to-grip-much-of-the-us/>
+
+---
+
+## Green extends protections for cannabis-patient caregivers
+
+date: 2025-01-03, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green is urging state lawmakers to address changes in Hawaii&#8217;s medical cannabis laws to ensure that primary caregivers can continue to provide essential services to patients in need.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/03/hawaii-news/green-extends-protections-for-cannabis-patient-caregivers/>
+
+---
+
+## Drugs, scams and sin: Myanmar’s war has made it the global crime capital
+
+date: 2025-01-03, from: Hawaii Tribune Harold
+
+
+				<p>SHAN STATE, Myanmar &#8212; The flower fields stretch out from the mountain village along most every road &#8212; fluttering patchworks of white and pink and purple.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/03/nation-world-news/drugs-scams-and-sin-myanmars-war-has-made-it-the-global-crime-capital/>
+
+---
+
+## US weighs ban on Chinese drones, citing national security concerns
+
+date: 2025-01-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Biden administration said Thursday that it was considering a new rule that could restrict or ban Chinese drones in the United States out of national security concerns.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/03/nation-world-news/us-weighs-ban-on-chinese-drones-citing-national-security-concerns/>
+
+---
+
+## Nation and world news in brief for January 3
+
+date: 2025-01-03, from: Hawaii Tribune Harold
+
+
+				<p>South Korean officials move on president&#8217;s home, with warrant</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/03/nation-world-news/nation-and-world-news-in-brief-for-january-3/>
+
+---
+
+## What we know about the Cybertruck explosion in Las Vegas
+
+date: 2025-01-03, from: Hawaii Tribune Harold
+
+
+				<p>The man who was driving a Tesla Cybertruck that exploded outside the Trump International Hotel in Las Vegas on Wednesday morning shot himself in the head immediately before the vehicle was engulfed by fire, authorities said Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/03/nation-world-news/what-we-know-about-the-cybertruck-explosion-in-las-vegas/>
+
+---
+
+## Cheney among 20 honored by Biden
+
+date: 2025-01-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden awarded the Presidential Citizens Medal, one of the nation&#8217;s highest civilian honors, to 20 people on Thursday afternoon, including former Rep. Liz Cheney and two close personal advisers, Ted Kaufman and Christopher J. Dodd.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/03/nation-world-news/cheney-among-20-honored-by-biden/>
+
+---
+
+## County driver safety coordinator charged with DUI after crash
+
+date: 2025-01-03, from: Hawaii Tribune Harold
+
+
+				<p>A Hawaii County employee whose title is &#8220;safety and driver improvement coordinator&#8221; for the Department of Environmental Management&#8217;s Solid Waste Division was arrested in the early morning of Dec. 21 after allegedly crashing a vehicle into a utility pole in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/03/hawaii-news/county-driver-safety-coordinator-charged-with-dui-after-crash/>
+
+---
+
+## New Orleans attacker most likely acted alone, officials say
+
+date: 2025-01-03, from: Hawaii Tribune Harold
+
+
+				<p>A Texas man who expressed support for the Islamic State group before he drove into a crowd in New Orleans on New Year&#8217;s Day, killing 14 people, appears to have acted alone, an FBI official said Thursday, as the city reopened Bourbon Street after the attack and hosted thousands of fans for the Sugar Bowl. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/03/nation-world-news/new-orleans-attacker-most-likely-acted-alone-officials-say/>
+
+---
+
+## Biden expected to permanently ban oil drilling in some federal waters
+
+date: 2025-01-03, from: Hawaii Tribune Harold
+
+
+				<p>President Joe Biden is expected to permanently ban new oil and gas drilling in large sections of the Atlantic and Pacific oceans, as well as other federal waters, in a way that could be difficult for the Trump administration to unwind, according to two people familiar with the plans. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/03/nation-world-news/biden-expected-to-permanently-ban-oil-drilling-in-some-federal-waters/>
+
+---
+
+## Hilo man pleads no contest to abduction, sex assault of minor
+
+date: 2025-01-03, from: Hawaii Tribune Harold
+
+
+				<p>A 54-year-old Hilo man has pleaded no contest to numerous charges related to the kidnapping and sexual assault of a 15-year-old girl in a 2022 case that resulted in the Big Island&#8217;s first-ever AMBER alert.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/03/hawaii-news/hilo-man-pleads-no-contest-to-abduction-sex-assault-of-minor/>
+
+---
+
+## Dollar set for best week since November on US rates, economic outlook
+
+date: 2025-01-03, updated: 2025-01-03, from: Marianas Variety
+
+SINGAPORE (Reuters) — The dollar was on track for its best weekly performance in over a month on Friday, underpinned by expectations of fewer Federal Reserve rate cuts this year and the view that the U.S. economy will continue to outperform the rest of its peers globally. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/dollar-set-for-best-week-since-november-on-us-rates-economic-outlook/article_c4def652-c9a3-11ef-9196-6fe7a6ea76fe.html>
+
+---
+
+## South Korean presidential guards prevent arrest of impeached Yoon after tense stand-off
+
+date: 2025-01-03, updated: 2025-01-03, from: Marianas Variety
+
+SEOUL (Reuters) — South Korea's presidential guards and military troops prevented authorities from arresting impeached President Yoon Suk Yeol on Friday in a tense six-hour stand-off inside Yoon's compound in the heart of Seoul. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/south-korean-presidential-guards-prevent-arrest-of-impeached-yoon-after-tense-stand-off/article_e30ba1e4-c9a2-11ef-82f4-534ad5452f4d.html>
+
+---
+
+## UH Hilo soccer star Arakawa receives 4 national accolades
+
+date: 2025-01-03, from: University of Hawaiʻi News
+
+<p>Teani Arakawa wrapped up the season with national awards for her outstanding play and record-breaking achievements.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/02/arakawa-receives-4-accolades/"><abbr>UH</abbr> Hilo soccer star Arakawa receives 4 national accolades</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/02/arakawa-receives-4-accolades/>
+
+---
+
+## Debates and dialogues: Democracy thrives when voices are heard
+
+date: 2025-01-03, from: Pacific Island Times
+
+This term has been marked by historic bipartisanship and a strong commitment to transparency, accountability and action 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/democracy-grows-when-voices-are-heard>
+
+---
+
+## Texas man who backed Islamic State acted alone in New Orleans attack, FBI says
+
+date: 2025-01-03, updated: 2025-01-03, from: Marianas Variety
+
+NEW ORLEANS (Reuters) — A U.S. Army veteran who drove a truck into a crowd of New Year's Day revelers in New Orleans had pledged allegiance to Islamic State, but acted alone in the attack that killed at least 14 people, the FBI said on Thursday. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/texas-man-who-backed-islamic-state-acted-alone-in-new-orleans-attack-fbi-says/article_e5749952-c96d-11ef-9ddb-4b087af39270.html>
+
+---
+
+## Police identify driver of exploded Tesla Cybertruck as US Army soldier
+
+date: 2025-01-03, updated: 2025-01-03, from: Marianas Variety
+
+(Reuters) — Law enforcement officials on Thursday said a U.S. Army soldier from Colorado was likely the person inside a Tesla Cybertruck that exploded outside the Trump International Hotel in Las Vegas, leaving the driver dead and seven people with minor injuries. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/police-identify-driver-of-exploded-tesla-cybertruck-as-us-army-soldier/article_569a21c0-c96d-11ef-b265-efa9855840a9.html>
+
+---
+
+## OPA questions Guam Homeland Security's $2.8M overtime expenses
+
+date: 2025-01-02, from: Pacific Island Times
+
+The Office of Public Accountability has questioned $2.8 million in overtime costs at the Guam Homeland Security/Office of Civil Defense,  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/opa-questions-guam-homeland-security-s-2-8m-overtime-expenses>
+
+---
+
+## Puerto Rico statehood majority vote no joke
+
+date: 2025-01-02, from: Pacific Island Times
+
+After 125 years of U.S. rule in Puerto Rico, voters now have given the most convincing mandate ever for a new political status option, usher 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/puerto-rico-statehood-majority-vote-no-joke>
+
+---
+
+## Ebeye woes highlighted
+
+date: 2025-01-02, from: Marshal Islands Journal
+
+<p>Journal 1/6/1982 P8 Ataji blasts neglect of EbeyeNitijela opened its third Constitutional regular session January 4 and Charles Takao Domnick was sworn in as the member for Maloelap. In a strongly worded statement on the floor, Minister of Internal Security Ataji Balos complained about lack of government support for his department especially the lack of [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/ebeye-woes-highlighted/">Ebeye woes highlighted</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/ebeye-woes-highlighted/>
 
 ---
 

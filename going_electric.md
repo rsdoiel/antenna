@@ -1,11 +1,159 @@
 ---
 title: going electric
-updated: 2025-01-02 13:18:47
+updated: 2025-01-03 07:05:10
 ---
 
 # going electric
 
-(date: 2025-01-02 13:18:47)
+(date: 2025-01-03 07:05:10)
+
+---
+
+## Kia Set New EV Sales Records Last Year In The U.S.
+
+date: 2025-01-03, from: Inside EVs News
+
+Adding the EV9 to the otherwise lonely U.S. electric lineup made a huge difference in Kia’s sales numbers in 2024. 
+
+<br> 
+
+<https://insideevs.com/news/746147/kia-ev-sales-record-2024-us/>
+
+---
+
+## Rivian (RIVN) stock surges after delivering more EVs than expected in Q4 2024
+
+date: 2025-01-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Rivians-legal-battle-Tesla.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) delivered more vehicles than expected in the fourth quarter, beating Wall St expectations. After overcoming its recent supply shortage, the EV maker is seeing momentum pick up. Here’s a look at how many EVs Rivian delivered in Q4 and 2024.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="396170" href="https://electrek.co/2025/01/03/rivian-rivn-stock-surges-q4-2024-deliveries-top-expectations/#more-396170" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/03/rivian-rivn-stock-surges-q4-2024-deliveries-top-expectations/>
+
+---
+
+## Wheel-E Podcast: California e-bike laws, Russian army scooters, more
+
+date: 2025-01-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes new laws and regulations in California regarding electric bicycles, the return of ONYX and the company’s electric mopeds, a review of the Xtracycle Hopper, Russian soldiers on electric scooters, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="396155" href="https://electrek.co/2025/01/03/wheel-e-podcast-california-e-bike-laws-russian-army-scooters-more/#more-396155" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/03/wheel-e-podcast-california-e-bike-laws-russian-army-scooters-more/>
+
+---
+
+## The Tesla Cybertruck Is Now Cheaper Thanks To The $7,500 Tax Credit
+
+date: 2025-01-03, from: Inside EVs News
+
+An even cheaper version of the EV is on the way, according to the updated list of EVs that are eligible for the tax credit. 
+
+<br> 
+
+<https://insideevs.com/news/746132/tesla-cybertruck-cheaper-tax-credit/>
+
+---
+
+## All The EVs And PHEVs That Lost The Federal Tax Credit In 2025
+
+date: 2025-01-03, from: Inside EVs News
+
+The Chrysler Pacifica minivan is now the only PHEV that qualifies for a tax credit. Meanwhile, the Rivian R1T and R1S are out. 
+
+<br> 
+
+<https://insideevs.com/news/746098/ev-phev-lost-tax-credit-2025/>
+
+---
+
+## Autonomous forklifts and 20,000 electric delivery vans at Amazon
+
+date: 2025-01-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Rivian-EDV-production.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>2024 was big year for Amazon – <a href="https://electrek.co/2024/12/11/hyundai-selling-evs-on-amazon-how-to-snag-one/">in addition to becoming the first online retailer for Hyundai cars</a>, the company kept busy putting a fleet of autonomous forklifts, order picking AI-powered robots, and a milestone 20,000th electric delivery van on the road.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="amazon,autonomous,forklifts" data-layer-viewtype="unknown" data-post-id="396121" href="https://electrek.co/2025/01/02/autonomous-forklifts-and-20000-electric-delivery-vans-at-amazon/#more-396121" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/02/autonomous-forklifts-and-20000-electric-delivery-vans-at-amazon/>
+
+---
+
+## In a world first, DHL deploys autonomous Oxa Ford in live airport traffic
+
+date: 2025-01-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/oxa-dhl.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>International shipping giants DHL partnered with autonomous software company Oxa to deploy a self-driving car in <em>live</em> airport traffic at Heathrow, safely completing more than 800 miles of fully autonomous driving in just 14 days.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous,aviation,dhl" data-layer-viewtype="unknown" data-post-id="396112" href="https://electrek.co/2025/01/02/in-a-world-first-dhl-deploys-autonomous-oxa-ford-in-live-airport-traffic/#more-396112" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/02/in-a-world-first-dhl-deploys-autonomous-oxa-ford-in-live-airport-traffic/>
+
+---
+
+## A Tesla Cybertruck burned down at Tesla lot in Atlanta, battery fire suspected
+
+date: 2025-01-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Cybertruck-fire-atlanta-hero-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A Tesla Cybertruck caught on fire in the lot of a Tesla store in North Decatur, Georgia, near Atlanta. The local fire authorities suspect a battery fire.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="396095" href="https://electrek.co/2025/01/02/a-tesla-cybertruck-burned-down-at-tesla-lot-in-atlanta-battery-fire-suspected/#more-396095" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/02/a-tesla-cybertruck-burned-down-at-tesla-lot-in-atlanta-battery-fire-suspected/>
+
+---
+
+## Lucid (LCID) EV drivers can now wake their new AI assistant with ‘Hey Lucid’
+
+date: 2025-01-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/08/Lucid-Air-Sapphire-specs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>If you own a <a href="https://electrek.co/guides/lucid-motors/">Lucid</a> EV, try saying “Hey Lucid” next time you drive it and see what happens. Lucid (LCID) launched a new AI assistant that allows you to interact with your vehicle in new ways. Here’s how it works.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-air,lucid-motors" data-layer-viewtype="unknown" data-post-id="396082" href="https://electrek.co/2025/01/02/lucid-lcid-ev-drivers-gain-new-ai-assistant-hey-lucid/#more-396082" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/02/lucid-lcid-ev-drivers-gain-new-ai-assistant-hey-lucid/>
+
+---
+
+## The latest US EV sales and charger growth – in numbers
+
+date: 2025-01-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Hondas-Prologue-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://driveelectric.gov/" target="_blank" rel="noreferrer noopener">Joint Office of Energy and Transportation</a> today reported record-breaking numbers in its monthly update for US EV sales and public charger availability in November 2024. Let’s break it down.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,ev-chargers,ev-sales,solar" data-layer-viewtype="unknown" data-post-id="396079" href="https://electrek.co/2025/01/02/us-ev-sales-charger-growth-november-2024/#more-396079" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/02/us-ev-sales-charger-growth-november-2024/>
 
 ---
 

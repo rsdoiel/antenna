@@ -1,11 +1,251 @@
 ---
 title: science and technology
-updated: 2025-01-02 13:18:44
+updated: 2025-01-03 07:05:08
 ---
 
 # science and technology
 
-(date: 2025-01-02 13:18:44)
+(date: 2025-01-03 07:05:08)
+
+---
+
+## IBM and GlobalFoundries settle multibillion-dollar trade secret and contract lawsuits
+
+date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>Clears way for &#39;new opportunities&#39; for collab, say pair</h4> <p>IBM and semiconductor maker GlobalFoundries have settled all of their litigation against each other, including breach of contract, patent, and trade secret suits, the pair say.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/03/ibm_globalfoundries_settle_lawsuits/>
+
+---
+
+## Why Computer Scientists Consult Oracles
+
+date: 2025-01-03, from: Quanta Magazine
+
+Hypothetical devices that can quickly and accurately answer questions have become a powerful tool in computational complexity theory.            <p>The post <a href="https://www.quantamagazine.org/why-computer-scientists-consult-oracles-20250103/" target="_blank">Why Computer Scientists Consult Oracles</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/why-computer-scientists-consult-oracles-20250103/>
+
+---
+
+## Tech titans hide in shadows awaiting Trump tariff threats
+
+date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>Being more diplomatic than the politicians makes sense amid fear of upsetting the next US President</h4> <p>A eerie quiet has descended upon elements in the tech exec community, and even the typically more vocal souls in the highest seats in corporations are scared to put the wrong foot forward ahead of a certain President Elect coming to power.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/03/tech_titans_hide_in_shadows/>
+
+---
+
+## CAPTCHAs now run Doom – on nightmare mode
+
+date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>As if the bot defense measure wasn&#39;t obnoxious enough</h4> <p>Though the same couldn&#39;t be said for most of us mere mortals, Vercel CEO Guillermo Rauch had a productive festive period, resulting in a CAPTCHA that requires the user to kill three monsters in Doom – on nightmare mode.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/03/captcha_doom_nightmare/>
+
+---
+
+## Boffins carve up C so code can be converted to Rust
+
+date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>Mini-C is a subset of C that can be automatically turned to Rust without much fuss</h4> <p>Computer scientists affiliated with France&#39;s Inria and Microsoft have devised a way to automatically turn a subset of C code into safe Rust code, in an effort to meet the growing demand for memory safety.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/03/mini_c_microsoft_inria/>
+
+---
+
+## Nick Clegg steps down as Meta's top flack in favor of more Trump-friendly candidate
+
+date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>Runny Clegg scrambles for door</h4> <p>The Right Honourable Sir Nick Clegg (to give him his full title) has stepped down from his job as Meta&#39;s president of global affairs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/03/nick_clegg_meta/>
+
+---
+
+## Accenture wins £35M more UK tax work without competition despite promise to 'disaggregate'
+
+date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>System which went live in 2009 cannot be supported by another supplier, tax collector says</h4> <p>The UK tax collector has handed Accenture an additional £35.2 million without competition on a £70.4 million contract which was never tendered.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/03/accenture_wins_35_million_more/>
+
+---
+
+## ERP fail causes shows sales loss greater than project budget
+
+date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>South African retailer struggles with SAP implementation, says it is making improvements</h4> <p>Readers will be familiar with the concept of return on investment (ROI) — when a tech project saves more than it costs — but less well-known is the idea that, like in particle physics, there exists an anti-ROI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/03/erp_project_causes_sales_losses/>
+
+---
+
+## On This Day in 1959, Alaska—One of America’s Riskiest Investments—Became the 49th State in the Union
+
+date: 2025-01-03, from: Smithsonian Magazine
+
+Before Alaska became an American state, Russia invaded and subjugated its people for fur trading 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/on-this-day-in-1959-alaskaone-of-americas-riskiest-investmentsbecame-the-49th-state-in-the-union-180985757/>
+
+---
+
+## HMD Fusion: A budget repairable smartphone with modular flair
+
+date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>Expansion port on the back lets you add Outfits with added functions</h4> <p><strong>Review</strong>  HMD&#39;s Fusion smartphone has a pogo-pin port on the back, allowing some nifty peripherals, including gaming controls, and its specs are open.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/03/hmd_fusion_review/>
+
+---
+
+## Apple auto-opts everyone into having their photos analyzed by AI for landmarks
+
+date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>Homomorphic-based Enhanced Visual Search is so privacy-preserving, iPhone giant activated it without asking</h4> <p>Apple last year deployed a mechanism for identifying landmarks and places of interest in images stored in the Photos application on its customers iOS and macOS devices and enabled it by default, seemingly without explicit consent.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/03/apple_enhanced_visual_search/>
+
+---
+
+## Tech support warrior left cosplay battle and Trekked to the office
+
+date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>Set aside the bat&#39;leth to fix trivial problem for p&#39;takh</h4> <p><strong>On Call</strong>  Welcome to the year 2025, which just three days ago was in the future! Welcome, also, to a new instalment of On Call, <i>The Register</i>&#39;s Friday column whose ongoing mission is to take your kind contributions of tech support stories and share them with the world.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/03/on_call/>
+
+---
+
+## LA deputies dogged by New Year date glitch in patrol car PCs
+
+date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>SoCal plod resort to paper logs after system that top brass was warned would &#39;inevitably fail&#39; did exactly that</h4> <p>Software on the computers in America&#39;s largest sheriff&#39;s department&#39;s patrol cars broke down on New Year&#39;s Eve due to what appears to be a date-related glitch.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/03/la_sheriffs_computer_crash/>
+
+---
+
+## Windows 2: Final Fantasy of operating systems
+
+date: 2025-01-03, from: OS News
+
+It is common knowledge that Final Fantasy could have been the last game in the series. It is far less known that Windows 2, released around the same time, could too have been the last. If anything, things were more certain: even Microsoft believed that Windows 2 would be the last. The miracle of overwhelming commercial success brought incredible attention to Windows. The retro community and computer historians generally seem to be interested in the legendary origins of the system (how it all began) or in its turnabout Windows 3.0 release (what did they do right?). This story instead will be about the underdog of Windows, version 2. To understand where it all went wrong, we must start looking at events that happened even before Microsoft was founded. By necessity, I will talk a lot about the origins of Windows, too. Instead of following interpersonal/corporate drama, I will try to focus on the technical aspects of Windows and its competitors, as well as the technological limitations of the computers around the time. Some details are so convoluted and obscure that even&#160;multiple Microsoft sources, including Raymond Chen, are wrong about essential technical details. It is going to be quite a journey, and it might seem a bit random, but I promise that eventually, it all will start making sense. ↫ Nina Kalinina I&#8217;m not going to waste your previous time with my stupid babbling when you could instead spend it reading this amazingly detailed, lovingly crafted, beautifully illustrated, and deeply in-depth article by Nina Kalinina about the history, development, and importance of Windows 2. She&#8217;s delivered something special here, and it&#8217;s a joy to read and stare at the screenshots from beginning to end. Don&#8217;t forget to click on the little expander triangles for a ton of in-depth technical stuff and even more background information. 
+
+<br> 
+
+<https://www.osnews.com/story/141472/windows-2-final-fantasy-of-operating-systems/>
+
+---
+
+## AROS centimeters closer to 64bit
+
+date: 2025-01-03, from: OS News
+
+We&#8217;ve just entered the new year, and that means we&#8217;re going to see some overviews about what the past year has brought. Today we&#8217;re looking at AROS, as AROS News &#8211; great name, very classy, you&#8217;ve got good taste, don&#8217;t change it &#8211; summarised AROS&#8217; 2024, and it&#8217;s been a good year for the project. We don&#8217;t hear a lot about AROS-proper, as the various AROS distributions are a more optimal way of getting to know the operating system and the project&#8217;s communication hasn&#8217;t always been great, but that doesn&#8217;t mean they&#8217;ve been sitting still. Perhaps the most surprising amount of progress in 2024 was made in the move from 32bit to 64bit AROS. Deadwood also released a 64-bit version of the system (ABIv11) in a Linux hosted version (ABIv11 20241102-1) and AxRuntime version 41.12, which promises a complete switch to 64-bit in the near future. He has also developed a prototype emulator that will enable 64-bit AROS to run programs written for the 32-bit version of the system. ↫ Andrzej “retrofaza” Subocz at AROS News This is great news for AROS, as being stuck in 32bit isn&#8217;t particularly future-proof. It might not pose many problems today, as older hardware remains available and 64bit x86 processors can handle running 32bit operating systems just fine, but you never know when that will change. Int the same vein, Deadwood also released a 64bit version of Oddysey, the WebKit-based browser, which was updated this year from August 2015&#8217;s WebKit to February 2019&#8217;s WebKit. Sure, 2019 might still be a little outdated, but it does mean a ton of complex sites now work again on AROS, and that&#8217;s a hugely positive development. Things like Python and GCC were also updated this year, and there was, as is fitting for an Amiga-inspired operating system, a lot of activity in the gaming world, including big updates to Doom 3 and ScummVM. This is just a selection of course, so be sure to read Subocz&#8217;s entire summary at AROS News. 
+
+<br> 
+
+<https://www.osnews.com/story/141470/aros-centimeters-closer-to-64bit/>
+
+---
+
+## The GPU, not the TPM, is the root of hardware DRM
+
+date: 2025-01-02, from: OS News
+
+Do you think streaming platforms and other entities that employ DRM schemes use the TPM in your computer to decrypt stuff? Well, the Free Software Foundation seems to think so, and adds Microsoft&#8217;s insistence on requiring a TPM for Windows 11 into the mix, but it turns out that&#8217;s simply not true. I&#8217;m going to be honest here and say that I don&#8217;t know what Microsoft&#8217;s actual motivation for requiring a TPM in Windows 11 is. I&#8217;ve been talking about TPM stuff for a long time. My job involves writing a lot of TPM code. I think having a TPM enables a number of worthwhile security features. Given the choice, I&#8217;d certainly pick a computer with a TPM. But in terms of whether it&#8217;s of sufficient value to lock out Windows 11 on hardware with no TPM that would otherwise be able to run it? I&#8217;m not sure that&#8217;s a worthwhile tradeoff. What I&#160;can&#160;say is that the FSF&#8217;s claim is just 100% wrong, and since this seems to be the sole basis of their overall claim about Microsoft&#8217;s strategy here, the argument is pretty significantly undermined. I&#8217;m not aware of any streaming media platforms making use of TPMs in any way whatsoever. There&#160;is&#160;hardware DRM that the media companies use to restrict users, but it&#8217;s not in the TPM &#8211; it&#8217;s in the GPU. ↫ Matthew Garrett A TPM is imply not designed to handle decryption of media streams, and even if they were, they&#8217;re far, far too slow and underpowered to decode even a 1080P stream, let alone anything more demanding than that. In reality, DRM schemes like Google&#8217;s Widevine, Apple&#8217;s Fairplay, and Microsoft&#8217;s Playready offer different levels of functionality, both in software and in hardware. The hardware DRM stuff is all done by the GPU, and not by the TPM. By focusing so much on the TPM, Garrett argues, the FSF is failing to see how GPU makers have enabled a ton of hardware DRM without anyone noticing. Personally, I totally understand why organisations like the Free Software Foundation are focusing on TPMs right now. They&#8217;re one of the main reasons why people can&#8217;t upgrade to Windows 11, it&#8217;s the thing people have heard about, and it&#8217;s the thing that&#8217;ll soon prevent them from getting security updates for their otherwise perfectly fine machines. I&#8217;m not sure the FSF has enough clout these days to make any meaningful media impact, especially in more general, non-tech media, but by choosing the TPM as their focus they&#8217;re definitely choosing a viable vector. Of course, over here in the tech corner, we don&#8217;t like it when people are factually inaccurate or twisting and bending the truth, and I&#8217;m glad someone as knowledgeable as Garrett stepped up to set the record straight for us tech-focused people, while everyone else can continue to ignore this matter. 
+
+<br> 
+
+<https://www.osnews.com/story/141468/the-gpu-not-the-tpm-is-the-root-of-hardware-drm/>
+
+---
+
+## Chinese cyber-spies reportedly targeted sanctions intel in US Treasury raid
+
+date: 2025-01-02, updated: 2025-01-02, from: The Register (UK I.T. News)
+
+<h4>OFAC, Office of the Treasury Secretary feared hit in data-snarfing swoop</h4> <p>Chinese spies who compromised the US Treasury Department&#39;s workstations reportedly stole data belonging to a government office responsible for sanctions against organizations and individuals.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/02/chinese_spies_targeted_sanctions_intel/>
+
+---
+
+## Anonymous Donors Across the Country Are Dropping Valuable Coins Into the Salvation Army's Red Kettles
+
+date: 2025-01-02, from: Smithsonian Magazine
+
+Many donors search their pockets for spare change, but some generous individuals are giving away historic coins worth thousands of dollars during the charity's annual fundraising campaign 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/anonymous-donors-across-the-country-are-dropping-valuable-coins-into-the-salvation-armys-red-kettles-180985758/>
+
+---
+
+## FCC net neutrality rules dead again as appeals court sides with Big Telco
+
+date: 2025-01-02, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>No more back-and-forth: Rosenworcel tells Congress the issue needs legislating</h4> <p>The prolonged fight for net neutrality in America has shifted once again, with the FCC&#39;s resurrected regulations struck down by a panel of appeals court judges today.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/>
+
+---
+
+## Apple offers to settle 'snooping Siri' lawsuit for an utterly incredible $95M
+
+date: 2025-01-02, updated: 2025-01-02, from: The Register (UK I.T. News)
+
+<h4>Even the sound of a zip could be enough to start the recordings, according to claims</h4> <p>Apple has filed a proposed settlement in California suggesting it will pay $95 million to settle claims that Siri recorded owners&#39; conversations without consent and allowed contractors to listen in.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/02/apple_siri_lawsuit/>
 
 ---
 
@@ -18,6 +258,18 @@ Launched in 1998, the 380Z was one very fine ThinkPad. It was the last ThinkPad 
 <br> 
 
 <https://www.osnews.com/story/141466/running-netbsd-on-an-ibm-thinkpad-380z/>
+
+---
+
+## NASA Workshops Culturally Inclusive Planetary Engagement with Educators
+
+date: 2025-01-02, from: NASA breaking news
+
+From November 6-8, 2024, the NASA Science Activation Program’s Planetary Resources and Content Heroes (ReaCH) project held a Culturally Inclusive Planetary Engagement workshop at the Bradley Observatory at Agnes Scott College in Atlanta, Georgia for the space sciences community, including planetary science, astrobiology, astronomy, and heliophysics professionals, as well as invited education specialists. To practice […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/nasa-workshops-culturally-inclusive-planetary-engagement-with-educators/>
 
 ---
 
@@ -109,7 +361,7 @@ date: 2025-01-02, updated: 2025-01-02, from: The Register (UK I.T. News)
 
 date: 2025-01-02, from: Smithsonian Magazine
 
-A beloved matriarch, 907F lived to be 11 years old, which is much longer than the average lifespan for gray wolves and a rare feat, even for those in the protected area of Yellowstone 
+A beloved matriarch, 907F lived to be 11 years old, which is much longer than the average life span for gray wolves and a rare feat, even for those in the protected area of Yellowstone 
 
 <br> 
 
@@ -525,11 +777,11 @@ Earth planning date: Friday, Dec. 20, 2024 Welcome to the 2024 holiday plan for 
 
 ---
 
-## More telcos confirm Salt Typhoon breaches as White House weighs in
+## More telcos confirm China Salt Typhoon security breaches as White House weighs in
 
-date: 2024-12-30, updated: 2024-12-31, from: The Register (UK I.T. News)
+date: 2024-12-30, updated: 2025-01-02, from: The Register (UK I.T. News)
 
-<h4>The intrusions allowed Beijing to &#39;geolocate millions of individuals&#39;</h4> <p>AT&amp;T, Verizon, and Lumen Technologies confirmed that Chinese government-backed snoops accessed portions of their systems earlier this year, while the White House added another, yet-unnamed telecommunications company to the list of those breached by Salt Typhoon.…</p> 
+<h4>Intrusions allowed Beijing to &#39;geolocate millions of individuals, record phone calls at will&#39;</h4> <p>AT&amp;T, Verizon, and Lumen Technologies confirmed that Chinese government-backed snoops accessed portions of their systems earlier this year, while the White House added another, yet-unnamed telecommunications company to the list of those breached by Salt Typhoon.…</p> 
 
 <br> 
 
