@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-01-03 07:05:10
+updated: 2025-01-04 07:05:03
 ---
 
 # retro computing
 
-(date: 2025-01-03 07:05:10)
+(date: 2025-01-04 07:05:03)
+
+---
+
+## DosView 1.6
+
+date: 2025-01-03, from: FreeDOS News
+
+<div class="markdown_content"><p>DosView is an image file viewer and converter for DOS. SuperIlu recently updated DosView to version 1.6. This is a minor update, but it works really well. DosView can read 16 different file formats (and write to 12 image formats) including BMP, PCX, JPG, PNG, WEBP, TIFF, and GIF. DosView is available under the MIT license, and libraries under other open source licenses. Download the new version from the <a class="" href="https://github.com/SuperIlu/DosView/releases/tag/v1.6" rel="nofollow">DosView 1.6</a> release at GitHub.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/01/dosview-16/>
 
 ---
 
@@ -140,4 +152,28 @@ Chilly? Larder v0.09, Edamame.
 <br> 
 
 <https://heyrick.eu/blog/index.php?diary=20241229>
+
+---
+
+## b.log 2024/12/28 - The parcel arrives, Doctor Whaaaa!, PTZ app hack, Lucy's Lousy Light, Centralised repositories, Cold.
+
+date: 2024-12-28, from: Richard Murray's blog
+
+The parcel arrives, Doctor Whaaaa!, PTZ app hack, Lucy's Lousy Light, Centralised repositories, Cold. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241228>
+
+---
+
+## RISC OS 'Advent' Calendar 2024 - Gerph
+
+date: 2024-12-28, from: Icon Bar, RISC OS News
+
+And a final treat from Gerph.... 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2151.html>
 

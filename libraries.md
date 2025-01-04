@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-01-03 07:05:09
+updated: 2025-01-04 07:05:03
 ---
 
 # libraries
 
-(date: 2025-01-03 07:05:09)
+(date: 2025-01-04 07:05:03)
 
 ---
 
@@ -295,4 +295,16 @@ Fulton, Ellen J.; Ni, Ying-Chuan; Kouvelas, Anastasios
 <br> 
 
 <http://hdl.handle.net/20.500.11850/713487>
+
+---
+
+## Producing New India: Periodising India's Infrastructure-led Extended Urbanisation
+
+date: 2024-12-28, from: ETH Zurich, recently added
+
+Bathla, Nitin 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/713410>
 

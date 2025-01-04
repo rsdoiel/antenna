@@ -1,78 +1,11 @@
 ---
 title: weather
-updated: 2025-01-03 07:05:08
+updated: 2025-01-04 07:05:02
 ---
 
 # weather
 
-(date: 2025-01-03 07:05:08)
-
----
-
-## SPC - No watches are valid as of Fri Jan  3 14:43:01 UTC 2025
-
-date: 2025-01-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Fri Jan  3 14:43:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Fri Jan  3 14:43:01 UTC 2025
-
-date: 2025-01-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Fri Jan  3 14:43:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Jan 3, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-01-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0655 AM CST Fri Jan 03 2025
-
-Valid 031300Z - 041200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Sporadic lightning flashes may occur this afternoon and evening over
-parts of the coastal Pacific Northwest and northern California.
-Severe thunderstorms are not expected.
-
-...Synopsis and Discussion...
-A strong upper trough will move inland today across the Northwest.
-Cold mid-level temperatures (around -24 to -28 C at 500 mb)
-associated with the trough, along with modestly steepened lapse
-rates aloft, should support the development of weak instability even
-though daytime heating will be muted by persistent cloud cover.
-Behind a cold front, isolated lightning flashes may occur with
-generally low-topped cells mainly this afternoon and evening along
-parts of the OR Coast into northern CA. Small hail and gusty winds
-may occur with the more robust cores, although limited forecast
-instability and deep-layer shear are expected to preclude a
-meaningful threat for severe thunderstorms.
-
-..Gleason/Bentley.. 01/03/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+(date: 2025-01-04 07:05:02)
 
 ---
 
@@ -782,4 +715,276 @@ LANIER               LAURENS             LOWNDES
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/ws0723.html>
+
+---
+
+## SPC MD 2297
+
+date: 2024-12-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md2297.html"><img src="https://www.spc.noaa.gov/products/md/mcd2297.png" border="1" alt="MD 2297 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 2297
+NWS Storm Prediction Center Norman OK
+0838 AM CST Sat Dec 28 2024
+
+Areas affected...portions of central Texas
+
+Concerning...Severe potential...Watch likely 
+
+Valid 281438Z - 281615Z
+
+Probability of Watch Issuance...80 percent
+
+SUMMARY...The severe threat is increasing across central portions of
+Texas. Severe wind and hail appear to be the predominant threats
+with the stronger storms that develop, though a tornado or two
+cannot be ruled out. A WW issuance may be needed in the next couple
+of hours.
+
+DISCUSSION...The boundary layer is expected to gradually warm
+through the morning (given diurnal heating), where upper 60s F
+surface dewpoints are in place. 7 C/km mid-level lapse rates and
+deep-layer ascent are overspreading central TX in tandem with the
+mid-level trough and associated 70-90 kt upper-level jet streak. As
+such, thunderstorms are already developing along a Bosque-Kendall
+County line ahead of the cold front, and they should continue to
+gradually organize/intensify further throughout the morning. 50+ kt
+effective bulk shear is already present over the warm sector, and
+shear (as well as boundary-layer based buoyancy) should only
+increase with time. 
+
+Supercells are possible within this developing band of storms, as
+well as with any storms that can develop and mature ahead of the
+line, as suggested by high-resolution model guidance. Given
+relatively steep lapse rates amid curved and elongated hodographs,
+severe hail and wind are likely with the stronger storms. Low-level
+hodographs are not particularly large (evident via the GRK VAD).
+However, given rich low-level moisture and strong deep-layer
+forcing/shear, a tornado or two cannot be ruled out, especially with
+any sustained supercell preceding the main line of storms. A WW
+issuance will likely be needed over the next hour or so.
+
+..Squitieri/Hart.. 12/28/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...HGX...FWD...EWX...
+
+LAT...LON   30949556 30339580 30059667 29979765 29989837 30239858
+            30909832 31469797 31779719 32019619 31929566 31539555
+            30949556 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md2297.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md2297.html>
+
+---
+
+## SPC Tornado Watch 718 Status Reports
+
+date: 2024-12-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0718.html"><img src="https://www.spc.noaa.gov/products/watch/ww0718_radar.gif" border="1" alt="WW 0718 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS FOR WATCH 0718 HAS NOT BEEN ISSUED YET
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0718.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ws0718.html>
+
+---
+
+## SPC Tornado Watch 718
+
+date: 2024-12-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0718.html"><img src="https://www.spc.noaa.gov/products/watch/ww0718_radar.gif" border="1" alt="WW 0718 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 718
+NWS Storm Prediction Center Norman OK
+735 AM CST Sat Dec 28 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  Louisiana
+  Southern and central Mississippi
+  East Texas
+
+* Effective this Saturday morning and afternoon from 735 AM until
+  300 PM CST.
+
+* Primary threats include...
+  A few tornadoes likely with a couple intense tornadoes possible
+  Scattered large hail and isolated very large hail events to 2
+    inches in diameter possible
+  Scattered damaging wind gusts to 70 mph possible
+
+SUMMARY...Several regenerative areas of thunderstorms are expected
+to form in the warm sector and shift northward to northeastward over
+the watch area through early afternoon, with tornadoes, damaging
+gusts and sporadic large hail possible.  Though the greater
+strong-tornado threat may be later this afternoon and evening, a few
+are possible in this region, in the meantime.
+
+The tornado watch area is approximately along and 70 statute miles
+north and south of a line from 15 miles west northwest of Lufkin TX
+to 65 miles east of Mc Comb MS. For a complete depiction of the
+watch see the associated watch outline update (WOUS64 KWNS WOU8).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 717...
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 2 inches. Extreme turbulence and surface wind
+gusts to 60 knots. A few cumulonimbi with maximum tops to 500. Mean
+storm motion vector 23025.
+
+...Edwards
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0718.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ww0718.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 717 Status Reports
+
+date: 2024-12-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0717.html"><img src="https://www.spc.noaa.gov/products/watch/ww0717_radar.gif" border="1" alt="WW 0717 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 717
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 15 NW SEP TO
+15 NNE TXK.
+
+FOR ADDITIONAL INFORMATION SEE FORTHCOMING MESOSCALE DISCUSSION 2296.
+
+..GRAMS..12/28/24
+
+ATTN...WFO...SHV...FWD...
+
+
+STATUS REPORT FOR WS 717 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+ARC057-081-091-281440-
+
+AR 
+.    ARKANSAS COUNTIES INCLUDED ARE
+
+HEMPSTEAD            LITTLE RIVER        MILLER              
+
+
+TXC035-037-063-067-139-143-159-213-217-221-223-251-257-315-343-
+349-379-423-425-449-459-467-499-281440-
+
+TX 
+.    TEXAS COUNTIES INCLUDED ARE
+
+BOSQUE               BOWIE               CAMP                
+CASS                 ELLIS               ERATH               
+FRANKLIN             HENDERSON           HILL                
+HOOD                 HOPKINS             JOHNSON             
+KAUFMAN              MARION              MORRIS              
+NAVARRO              RAINS               SMITH               
+SOMERVELL            TITUS               UPSHUR              
+VAN ZANDT            WOOD                
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0717.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ws0717.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 717
+
+date: 2024-12-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0717.html"><img src="https://www.spc.noaa.gov/products/watch/ww0717_radar.gif" border="1" alt="WW 0717 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 717
+NWS Storm Prediction Center Norman OK
+525 AM CST Sat Dec 28 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  Southwestern Arkansas
+  Extreme southeastern Oklahoma
+  North-central and northeast Texas
+
+* Effective this Saturday morning from 525 AM until NOON CST.
+
+* Primary threats include...
+  Scattered large hail and isolated very large hail events to 2
+    inches in diameter possible
+
+SUMMARY...Increasing coverage and intensity of elevated
+thunderstorms, with potential for large hail, are expected through
+the remainder of the morning, with activity spreading from the DFW
+Metroplex vicinity into the Arklatex. A separate tornado threat may
+evolve later this morning in or near the southern/eastern parts of
+this watch, and would be addressed then and separately.
+
+The severe thunderstorm watch area is approximately along and 50
+statute miles north and south of a line from 25 miles north
+northwest of Stephenville TX to 10 miles north northeast of
+Texarkana AR. For a complete depiction of the watch see the
+associated watch outline update (WOUS64 KWNS WOU7).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+2 inches. Extreme turbulence and surface wind gusts to 50 knots. A
+few cumulonimbi with maximum tops to 450. Mean storm motion vector
+25030.
+
+...Edwards
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0717.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ww0717.html>
 

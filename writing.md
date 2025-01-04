@@ -1,11 +1,130 @@
 ---
 title: writing
-updated: 2025-01-03 07:05:08
+updated: 2025-01-04 07:05:02
 ---
 
 # writing
 
-(date: 2025-01-03 07:05:08)
+(date: 2025-01-04 07:05:02)
+
+---
+
+## 📦 #230 - Inneresting's 2025 Starter Pack
+
+date: 2025-01-03, from: Interesting, a blog on writing
+
+Review meets preview. 
+
+<br> 
+
+<https://inneresting.substack.com/p/230-innerestings-2025-starter-pack>
+
+---
+
+## Our Wicked Histories by Amy Goldsmith: Review by Colleen Mondor
+
+date: 2025-01-03, from: Locus Magazine
+
+<p><strong>Our Wicked Histories</strong>, Amy Goldsmith (Dela­corte Press 978-0-583-70395-3, $19.99, 384pp, hc) July 2024. Cover by Marcela Bolivar.</p>
+<p>The heroine of Amy Goldsmith’s <strong>Our Wicked Histories </strong>is Meg, a scholarship student at an exclusive private art school. In the opening pages she is still reeling from an episode a few months earlier when, at a school dance, she made a stupid drunken mistake that obliterated her social life (she has  <a href="https://locusmag.com/2025/01/our-wicked-histories-by-amy-goldsmith-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/our-wicked-histories-by-amy-goldsmith-review-by-colleen-mondor/>
+
+---
+
+## We are launching a brand new reading series, The Storytellers, kicking off 2025 with author Ai Jiang reading from I AM AI!
+
+date: 2025-01-03, from: Locus Magazine
+
+<p>We are pleased to announce the first in our new series The Storytellers, a collection of author readings we&#8217;ve gathered over time, mostly from Locus Awards finalists and others. Many of the recordings come from our archive of Zoom recordings from the past few years.</p>
+<p>So many talented authors have done readings of their novellas, short stories, and chapters from their longer works for Locus. We will be releasing at  <a href="https://locusmag.com/2025/01/we-are-launching-a-brand-new-reading-series-the-storytellers-kicking-off-2025-with-author-ai-jiang-reading-from-i-am-ai/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/we-are-launching-a-brand-new-reading-series-the-storytellers-kicking-off-2025-with-author-ai-jiang-reading-from-i-am-ai/>
+
+---
+
+## Featured Friday: Prison
+
+date: 2025-01-03, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at how stories of the incarcerated allow characters from all walks of life to interact, and how prisons as a location are able to accommodate many different genres and tones. Our collection [&#8230;]
+The post <a href="https://johnaugust.com/2025/featured-friday-prison">Featured Friday: Prison</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/featured-friday-prison>
+
+---
+
+## Write On: 'Only Murders in the Building' Co-Creator & Showrunner John Hoffman
+
+date: 2025-01-03, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-only-murders-in-the-building-co-creator-showrunner-john-hoffman" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20John%20Hoffman%20-%20Only%20Murders%20in%20the%20Building%20%282%29.png" alt="Write On logo with the 'Only Murders in the Building' poster on a phone with headphones" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“There’s no greater laugh than when you’re at your most vulnerable. You’re at a funeral, or you’re in church and something’s happening and there’s great reprieve from the most human moments through humor. And even in those moments, something is funny or human and fumbling. And that scene itself [when Charles discovers Sazz’s ashes], when I was watching it, I really felt like this scene is encapsulating the whole experience of the best of this show for me when he is standing there and then watching him wipe her ashes off and he’s in deep pain over it, but caring so much. And then she pops in the doorway. I don’t know, things like that just made me happy to have been able to do anything like that,” says John Hoffman, co-creator and showrunner for <em>Only Murders in the Building</em>, about balancing the humor and the grief in the show.<br><br>In this episode, we go deep into Season 4 of <em>Only Murders in the Building</em> with co-creator, showrunner and writer/director John Hoffman. He talks about writing from theme, shares details about that rip-roaring fight scene between Meryl Streep and Melissa McCarthy, and exploring visual motifs this season.&nbsp;<br><br>“The twins and the reflections made me think of so many of my favorite films and the way cinema is used to show reflections and to do parallels and the Bergman-esque stuff. And I mean, granted, none of that might relate to what you’re watching on this show. But playing off that theme felt really good. We are a show that’s about three isolated, very lonely people in New York City and finding connection and so I think that recognition of we’re more alike than we’re apart also plays a huge part in the telling of the stories of Season 4. I like organizing them that way,” he says.&nbsp;<br><br>Hoffman also shares his advice for writing great scenes: “Know what a scene is and know that a scene wants to move in a certain way, and flip in a certain way. It might not take you in the direction you thought it was going to, but sometimes it will give you something of great comfort. Check yourself over and over again… is it honest? And check yourself on the truth of a character’s motivation. Would a human being do that, ever? And if not, what could compel them to do it? There are all those things that are just very basic to me,” he says.&nbsp;<br><br>To learn more about Hoffman’s writing process, listen to the podcast.&nbsp;<br><br><em>Please note: this episode contains mention of suicide.&nbsp;</em></p> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-only-murders-in-the-building-co-creator-showrunner-john-hoffman>
+
+---
+
+## From Class Clowns to Big-Budget Blockbusters: 'Sonic the Hedgehog' Screenwriters Tell All
+
+date: 2025-01-03, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/from-class-clowns-to-big-budget-blockbusters-sonic-the-hedgehog-screenwriters-tell-all" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/From%20Class%20Clowns%20to%20Big-Budget%20Blockbusters%20%20Sonic%20the%20Hedgehog%20screenwriters%20tell%20all.png" alt="Sonic the Hedgehog 3" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Whether or not you play video games, it’s no secret that movies and television shows based on video games are big business. The most lucrative of the videogame film adaptations has been Sega’s <em>Sonic the Hedgehog</em>, with the first two films collectively banking over $750 million worldwide, <a href="https://variety.com/2024/film/news/sonic-the-hedgehog-4-release-date-2027-1236254778/">according to Variety</a>. The franchise also spawned the Paramount+ series, <span style="font-style: italic;">Knuckles</span>, featuring the voice of Idris Elba, that came out earlier this year. Now <span style="font-style: italic;">Sonic the Hedgehog 3</span> is out in theaters and once again scoring big at the box office. Paramount has announced that a fourth <span style="font-style: italic;">Sonic</span> film is also in the works, set to release in 2027.<br><br>While all this success may sound like a no-brainer due to the popularity of the videogame that’s been a fan-favorite since 1991, the fact that <span style="font-style: italic;">STH3</span> currently has a <a href="https://www.rottentomatoes.com/m/sonic_the_hedgehog_3">Rotten Tomatoes score of 85%</a> proves that the latest film is a critical success as well.&nbsp;<br><br>Final Draft sat down with screenwriters Pat Casey and Josh Miller to find out how they keep Sonic, the popular whirling dervish of a hedgehog, going strong.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/from-class-clowns-to-big-budget-blockbusters-sonic-the-hedgehog-screenwriters-tell-all>
+
+---
+
+## King Closes Stations
+
+date: 2025-01-03, from: Locus Magazine
+
+<p>Author Stephen King is shutting down the three independent radio stations he owns in Bangor ME: WZON, WZLO, and WKIT. They are expected to go offline on De­cember 31, 2024. King said, “While radio across the country has been overtaken by giant corporate broadcasting groups, I’ve loved being a local, in­dependent owner all these years,” but the stations have never been profitable, with King covering the revenue shortfalls personally. Now,  <a href="https://locusmag.com/2025/01/king-closes-stations/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/king-closes-stations/>
+
+---
+
+## Strange Horizons, F&SF, and Kaleidotrope: Short Fiction Reviews by Charles Payseur
+
+date: 2025-01-03, from: Locus Magazine
+
+<p>Strange Horizons 9/16/24, 10/7/24, 10/14/24
+F&#38;SF Summer ’24
+Kaleidotrope Autumn ’24</p>
+<p>Strange Horizons has been firing on all cylinders lately, as with September’s “<strong>A War of Words</strong>” by <strong>Marie Brennan</strong>, a poem that imagines a war where the winners take more than wealth, more than land. They take language, leaving survivors without a way to contain their loss that isn’t filtered through the lens of their oppressors.  <a href="https://locusmag.com/2025/01/strange-horizons-fsf-and-kaleidotrope-short-fiction-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/strange-horizons-fsf-and-kaleidotrope-short-fiction-reviews-by-charles-payseur/>
 
 ---
 
@@ -348,4 +467,31 @@ date: 2024-12-29, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2024/12/wooing-the-witch-queen-by-stephanie-burgis-review-by-liz-bourke/>
+
+---
+
+## We Are All Ghosts in the Forest by Lorraine Wilson: Review by Niall Harrison
+
+date: 2024-12-28, from: Locus Magazine
+
+<p><strong>We Are All Ghosts in the Forest</strong>, Lorraine Wilson (Solaris 978-1-83786-144-6, 400pp, £18.99, hc). November 2024. Cover by Jo Walker.</p>
+<p>The image that I think will stay with me longest from Lorraine Wilson’s resonant new novel, <strong>We Are All Ghosts in the For­est</strong>, comes a little over halfway through the book. The novel’s protagonist, Katerina, has completed a trade in a village on the shore of Lake Peipus,  <a href="https://locusmag.com/2024/12/we-are-all-ghosts-in-the-forest-by-lorraine-wilson-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/we-are-all-ghosts-in-the-forest-by-lorraine-wilson-review-by-niall-harrison/>
+
+---
+
+## ICon: Tel Aviv 2024
+
+date: 2024-12-28, from: Locus Magazine
+
+<p xml:lang="en-us"></p>
+<p class="normal" xml:lang="en-us">The 28th ICon was held October 20-22, 20-24 in Tel Aviv, Israel, and included almost 350 panels, lectures, workshops, games, and roleplaying. Some 11,000 tickets were sold to the different events. In each of the three days, at a certain point, entrance to the venue had to be restricted to those who had tickets, because the 1,800 people limit on premises, set for health and safety reasons, was reached.</p>
+<p class="normal" xml:lang="en-us">The  <a href="https://locusmag.com/2024/12/icon-tel-aviv-2024/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/icon-tel-aviv-2024/>
 

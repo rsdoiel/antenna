@@ -1,11 +1,36 @@
 ---
 title: pacific
-updated: 2025-01-03 07:05:07
+updated: 2025-01-04 07:05:01
 ---
 
 # pacific
 
-(date: 2025-01-03 07:05:07)
+(date: 2025-01-04 07:05:01)
+
+---
+
+## Pacific 2025: What is happening?
+
+date: 2025-01-03, from: Pacific Island Times
+
+Vanuatu’s devastating earthquake and dramatic political developments in Tonga and New Caledonia at the end of 2024 set the tone for the comi 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/pacific-2025-what-is-happening>
+
+---
+
+## UH Alumni: Moana Abe sends spirits soaring at Japan whiskey company
+
+date: 2025-01-03, from: University of Hawaiʻi News
+
+<p>Suntory whiskey researcher keeps aloha alive with fellow Japan alumni.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/03/uh-alumni-moana-abe/"><abbr>UH</abbr> Alumni: Moana Abe sends spirits soaring at Japan whiskey company</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/03/uh-alumni-moana-abe/>
 
 ---
 
@@ -1668,4 +1693,214 @@ date: 2024-12-29, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/12/29/nation-world-news/severe-weekend-weather-disrupts-holiday-travel/>
+
+---
+
+## The bald eagle is (finally) the national bird of the United States
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>The bald eagle received a title this week that many may have assumed it already had: the national bird of the United States. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/the-bald-eagle-is-finally-the-national-bird-of-the-united-states/>
+
+---
+
+## Another Delta Airlines stowaway is caught on flight from Seattle
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>A person was captured attempting to sneak onto a Delta Airlines flight from Seattle to Honolulu on Christmas Eve, authorities said this week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/another-delta-airlines-stowaway-is-caught-on-flight-from-seattle/>
+
+---
+
+## OpenAI details plans for becoming a for-profit company
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; OpenAI revealed details Friday about its plans to adopt a new corporate structure that will remove the company from control by a nonprofit that has been the focus of contention. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/openai-details-plans-for-becoming-a-for-profit-company/>
+
+---
+
+## A strange banging sound, chaos and prayers before a plane crashes
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>TBILISI, Georgia &#8212; At first, there was a strange banging noise outside the plane. Then, while one flight attendant was standing in the cabin, something hit his arm, cutting it. The passengers, sensing something was terribly wrong, began panicking. Some began praying. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/a-strange-banging-sound-chaos-and-prayers-before-a-plane-crashes/>
+
+---
+
+## A month on, a tenuous ceasefire holds in Lebanon
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT &#8212; A fragile ceasefire between Israel and the Lebanese militant group Hezbollah has largely held for a month now, halting the deadliest war in years between the two sides and injecting a measure of calm into a region in turmoil.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/a-month-on-a-tenuous-ceasefire-holds-in-lebanon/>
+
+---
+
+## NATO to boost Baltic Sea presence after cables broken
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>HELSINKI -NATO said on Friday it would boost its presence in the Baltic Sea after the suspected sabotage this week of an undersea power cable and four internet cables, while alliance member Estonia launched a naval operation to guard a parallel electricity link.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/nato-to-boost-baltic-sea-presence-after-cables-broken/>
+
+---
+
+## At least 69 migrants killed in shipwreck off Morocco on deadly route to Spain
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>BAMAKO/LAS PALMAS, Spain (Reuters) &#8212; At least 69 people died after a boat headed from West Africa to the Canary Islands capsized off Morocco on Dec. 19, Malian authorities said, as data showed deaths of migrants attempting to reach Spain surged to an all-time high in 2024. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/at-least-69-migrants-killed-in-shipwreck-off-morocco-on-deadly-route-to-spain/>
+
+---
+
+## Enforcement of anti-money-laundering law blocked after court reversal
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>Millions of corporate entities will not have to share information about their owners with the Treasury Department after an appeals court reversed a decision that would have required them to do so by Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/enforcement-of-anti-money-laundering-law-blocked-after-court-reversal/>
+
+---
+
+## Trump backers battle online over skilled immigrants
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>Weeks before President-elect Donald Trump is to take office, a major rift has emerged among his supporters over immigration and the place of foreign workers in the U.S. labor market.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/trump-backers-battle-online-over-skilled-immigrants/>
+
+---
+
+## Migrants and end of COVID restrictions fuel jump in homelessness
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Homelessness soared to the highest level on record this year, driven by forces that included high rents, stagnant wages and a surge in migrants seeking asylum, the federal government reported Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/migrants-and-end-of-covid-restrictions-fuel-jump-in-homelessness/>
+
+---
+
+## NPR and PBS stations brace for funding battle under Trump
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>Elon Musk is gunning for public media.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/npr-and-pbs-stations-brace-for-funding-battle-under-trump/>
+
+---
+
+## Hitachi Rail files $324M lawsuit against Honolulu, HART
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>Costly delays and mismanagement over Honolulu&#8217;s over-budget, long-overdue rail line are the basis for a new lawsuit being brought by the project&#8217;s principal contractor.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/hawaii-news/hitachi-rail-files-324m-lawsuit-against-honolulu-hart/>
+
+---
+
+## The vivid thread of memories by the yard
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; People like to send fabrics to artist Suchitra Mattai. Her mother, who lives in Edison, New Jersey, home to one of the largest South Asian populations in the United States, collects saris from secondhand shops and mails them to her daughter, who lives in Los Angeles and is of Indo-Caribbean descent. Friends, relatives and friends of relatives all send their finds: silks, fringe, trim and more.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/features/the-vivid-thread-of-memories-by-the-yard/>
+
+---
+
+## After days of silence, NASA’s Parker Solar Probe phones home
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>On Dec. 24, NASA&#8217;s Parker Solar Probe swooped closer than it ever had before to the sun, just a few million miles above its blazing hot surface.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/after-days-of-silence-nasas-parker-solar-probe-phones-home/>
+
+---
+
+## Tropical Gardening: A New Year’s resolution: Let’s take lessons from nature
+
+date: 2024-12-28, from: Hawaii Tribune Harold
+
+
+				<p>Observing the extreme polarization of folks who have different political, cultural or religious points of view over the last decade, we should recognize it is nothing new. We have had divisions throughout history, and it makes us wonder if we will ever change for the better. The answer is yes &#8212; if we are willing to focus on the real sources of our misery.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/28/features/tropical-gardening-a-new-years-resolution-lets-take-lessons-from-nature/>
 

@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2025-01-03 07:05:09
+updated: 2025-01-04 07:05:02
 ---
 
 # games
 
-(date: 2025-01-03 07:05:09)
+(date: 2025-01-04 07:05:02)
+
+---
+
+## Why was 1000xResist’s best sales day 7 months post-launch? ‘Not being in The Game Awards,’ dev says
+
+date: 2025-01-03, updated: 2025-01-03, from: Polygon Website
+
+Narrative RPG 1000xResist became a critical darling when it released in May 2024 — but like so many other great indie games, it didn’t get its flowers at The Game Awards in December. But a buzz has been amassing around the game since the nominees for TGAs were announced, according to sunset visitor 斜陽過客 founder [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/504060/1000xresist-best-sales-day-six-months-later-indie-success>
+
+---
+
+## Wicked, A Real Pain, Netflix’s Wallace &#038; Gromit: Vengeance Most Fowl, and every movie new to streaming
+
+date: 2025-01-03, updated: 2025-01-04, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Wicked, the musical fantasy starring Cynthia Erivo and Ariana Grande, sings and dances its way onto VOD. That’s not all: actor-director Jesse Eisenberg’s new [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/502848/new-movies-watch-streaming-wicked-a-real-pain-netflix-wallace-gromit-vengeance-most-fowl>
+
+---
+
+## Massive mod is the best new Command &#038; Conquer game in over a decade
+
+date: 2025-01-03, updated: 2025-01-03, from: Polygon Website
+
+The classic real-time strategy franchise Command &#38; Conquer has been largely neglected by its caretaker EA in recent years, but modders have used open-source tools like OpenRA to carry the torch for almost a decade, regularly patching and improving the original Command &#38; Conquer and its sequel Red Alert with new quality-of-life features. In some [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pc/503559/command-and-conquer-combined-arms-mod>
+
+---
+
+## Starfinder Second Edition breaks through in a crowded year of releases
+
+date: 2025-01-03, updated: 2025-01-03, from: Polygon Website
+
+With 2025 promising a number of highly anticipated releases, the second edition of Paizo’s flagship sci-fi setting Starfinder is among the most exciting new additions to the tabletop landscape. Polygon recently sent some questions to Starfinder’s senior developer Jenny Jarzabski to learn how this new iteration of the game will distinguish itself in a crowded [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/503984/starfinder-second-edition-cover-reveal-interview>
+
+---
+
+## Get Shenmue, Ori, Condemned, and 5 other AGDQ games for $12 at Humble
+
+date: 2025-01-03, updated: 2025-01-03, from: Polygon Website
+
+Awesome Games Done Quick is revving up again in 2025, with speedrunners at the ready to attempt the perfect run in front of an audience. Humble’s primed for the moment, too, offering a bundle of marquee titles that’ll be played eviscerated during the upcoming event for just $12 through Jan. 17. The bundle claims to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/503953/agdq-2025-humble-bundle-shenmue-ori-condemned>
+
+---
+
+## Antonblast turns a profit in less than a month, director says sequel in the cards
+
+date: 2025-01-03, updated: 2025-01-03, from: Polygon Website
+
+Here’s some good news as we head into the weekend: Antonblast is already profitable, according to director Tony Grayson. “Less than one month to the day, ANTONBLAST has recouped ALL expenses related to development, marketing, and production! WE ARE PROFITABLE!” said Grayson, who doubles as studio head of Antonblast developer Summitsphere. “Looks like Summitsphere is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/503920/antonblast-profitable-sequel-summitsphere-wario-land>
+
+---
+
+## Discoveries
+
+date: 2025-01-03, updated: 2025-01-03, from: Polygon Website
+
+At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
 
 ---
 
@@ -345,18 +429,6 @@ In the fall of 2021 the burnout, my friends, was real. That October, I determine
 
 ---
 
-## Discoveries
-
-date: 2024-12-30, updated: 2024-12-30, from: Polygon Website
-
-At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
-
----
-
 ## Yakuza studio director says don’t even try to figure out what its next game is about
 
 date: 2024-12-30, updated: 2024-12-30, from: Polygon Website
@@ -474,4 +546,40 @@ When it comes to good YouTube videos, I’m biased in favor of content made expl
 <br> 
 
 <https://www.polygon.com/yuletide-youtube/478707/outside-in-youtube-video-sphere-inversion>
+
+---
+
+## These charming mini movies will teach you about the people who live in the coldest town on Earth
+
+date: 2024-12-28, updated: 2024-12-22, from: Polygon Website
+
+Kiun B’s YouTube videos are mini documentaries about her life and the lives of the 800 people who live in her hometown of Yakutia, Siberia, aka the coldest town on Earth. The creator, who narrates the videos, says she and her community are native to the region. The enchanting mini docs showcase their customs, culture, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/yuletide-youtube/486698/coldest-town-earth-yakutia-siberia-mini-docs-watch-streaming>
+
+---
+
+## Dreams on a Pillow, a game about the 1948 Nakba, is the latest from a daring dev
+
+date: 2024-12-28, updated: 2024-12-29, from: Polygon Website
+
+Dreams on a Pillow is a video game experience about the 1948 Nakba, an event where roughly 700,000 people were displaced from their land and homes due to Zionist occupation. The game, described as “a pseudo-3D stealth adventure game about a land full of people being made into a people without land,” is from Palestinian [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/500737/dreams-on-a-pillow-crowdfund-palestine-game>
+
+---
+
+## The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of December 2024
+
+date: 2024-12-28, updated: 2024-12-27, from: Polygon Website
+
+The end of the year is nearly upon us, and while that means all kinds of things, one thing that might get lost is how many streaming services are cleaning out their catalogs for 2025. Of course, there will be plenty of movies added to platforms like Netflix, Prime Video, and Criterion Channel next year, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/501409/best-movies-netflix-amazon-criterion-leaving-december-2024>
 

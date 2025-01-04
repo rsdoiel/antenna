@@ -1,11 +1,427 @@
 ---
 title: north america
-updated: 2025-01-03 07:05:07
+updated: 2025-01-04 07:05:00
 ---
 
 # north america
 
-(date: 2025-01-03 07:05:07)
+(date: 2025-01-04 07:05:00)
+
+---
+
+## It’s true love when an Orlando woman opens a romance bookstore
+
+date: 2025-01-03, from: Market Place
+
+After struggling to get bank loans, Jane Rodriguez borrowed from family members in order to open The New Romantics. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/03/its-true-love-when-an-orlando-woman-opens-a-romance-bookstore/>
+
+---
+
+## VOA Spanish: How does Miami combat the homeless crisis?
+
+date: 2025-01-03, from: VOA News USA
+
+Miami's housing crisis reflects a national problem: the increase in homelessness because of such factors as the high cost of living and lack of social support.
+
+
+Click here for the full story in Spanish. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-spanish-how-does-miami-combat-the-homeless-crisis-/7923855.html>
+
+---
+
+## Ukraine Defense Contact Group to hold one last meeting
+
+date: 2025-01-03, from: VOA News USA
+
+U.S. Secretary of Defense Lloyd Austin will attend his final meeting of the Ukraine Defense Contact Group at Ramstein Air Base in Germany next week, the Defense Department said Friday. 
+
+
+The group of more than 50 nations, also known as the Ramstein group, includes members of NATO as well as most of the European Union. It was formed by Austin in April 2022, after Russia’s invasion of Ukraine two months earlier, and is designed to coordinate military support for Ukraine’s defense.
+
+
+The meeting, originally scheduled for October, was postponed when U.S. President Joe Biden — who had been scheduled to chair a leaders-level meeting for the group — canceled his trip to deal with the aftermath of Hurricane Milton, according to Politico. The last full meeting of the group was held in September.
+
+
+The meeting will come just over a week before President-elect Donald Trump is sworn into office. The futures of the Ramstein group and any U.S. support to Ukraine are in question, as Trump has been critical of the level of U.S. aid to the country. He also has expressed an interest in ending the fighting swiftly.
+
+
+Ukrainian President Volodymyr Zelenskyy said Thursday that Trump could be important in the outcome of the yearslong war between Ukraine and Russia.
+
+
+"Trump can be decisive. For us, this is the most important thing," Zelenskyy said in an interview with Ukrainian television.
+
+
+"His qualities are indeed there," Zelenskyy said about Trump. "He can be decisive in this war. He is capable of stopping [Russian President Vladimir] Putin, or, to put it more fairly, help us stop Putin."
+
+
+Trump has previously said he would be able to stop the war in Ukraine in one day, but he has never detailed how he would accomplish that.
+
+
+Meanwhile, Agence France-Presse reported, citing local officials, that a Russian drone attack in the suburbs of the capital, Kyiv, early Friday killed one person and wounded four.
+
+
+AFP said Russian forces have escalated their aerial strikes across Ukraine through the first weeks of winter, including a New Year's Day drone attack targeting central Kyiv that killed two.
+
+
+In a statement posted to Facebook and other social media accounts, acting Kyiv regional Governor Mykola Kalashnyk reported a truck driver had been killed when he was hit by debris from a Russian drone that had been shot down.
+
+
+Also Friday, Ukraine’s General Staff of the Armed Forces reported that Russian troops were continuing to push forward in Donetsk Oblast, advancing near the key town of Pokrovsk. Ukraine's General Staff recorded 138 clashes on the battlefield from Thursday to Friday.
+
+
+Some information for this report came from The Associated Press, Reuters and Agence France-Presse. 
+
+<br> 
+
+<https://www.voanews.com/a/ukraine-defense-contact-group-to-hold-one-last-meeting/7923847.html>
+
+---
+
+## VOA Spanish: Migrants in Mexico fear cancellation of CBP One appointments
+
+date: 2025-01-03, from: VOA News USA
+
+Before the arrival of President-elect Donald Trump to power, migrants who remain in Mexico with the intention of entering the United States express concern about the possible cancellation of the CBP One mobile application.
+
+
+Click here for the full story in Spanish. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-spanish-migrants-in-mexico-fear-cancellation-of-cbp-one-appointments-/7923829.html>
+
+---
+
+## Seasonal illnesses in full force in most US states, CDC says
+
+date: 2025-01-03, from: VOA News USA
+
+The holidays came with a side of flu for many Americans, with 40 states reporting high or very high levels of illness last week, according to the latest government health data. 
+
+
+"A lot of flu out there," said Carrie Reed of the Centers for Disease Control and Prevention. 
+
+
+Of course, there are a number of bugs that cause fever, cough, sore throat and other flulike symptoms. One is COVID-19. Another is RSV, or respiratory syncytial virus, which is a common cause of coldlike symptoms but can be dangerous for infants and the elderly. 
+
+
+Reed said that the most recent CDC hospitalization data and other indicators show that the flu virus is trending higher than the other germs. Several seasonal flu strains are driving cases, with no dominant one, she added. 
+
+
+Pediatric hospitals have been busy since November with RSV, but "influenza has now joined the party," said Dr. Jason Newland, an infectious-diseases specialist at Nationwide Children's Hospital in Columbus, Ohio. 
+
+
+"Now we're really starting to roll," he added. "Our hospitals are busy." 
+
+
+Where flu illnesses are the highest 
+
+
+One indicator of flu activity is the percentage of doctor's office visits driven by flulike symptoms. That level last week was about equal to the peak of last winter's respiratory virus season — which occurred at the same time of year. Reed noted that most people avoid medical appointments over the holidays if they can help it, so the data in late December might be skewed by people who came down with sudden illnesses. 
+
+
+Last week's flu activity was particularly intense in the South, Southwest and West. The states reporting lesser amounts of suffering were mostly in the northern Great Plains and in New England. 
+
+
+So far this season, the CDC estimates, there have been at least 5.3 million flu illnesses, 63,000 hospitalizations and 2,700 deaths, including at least 11 children. 
+
+
+It's not clear if this winter respiratory virus season will be any worse than others. So far it seems relatively typical, at least for kids, Newland said. 
+
+
+How to protect yourself 
+
+
+U.S. health officials recommend that everyone 6 months and older get an annual flu vaccination, and they say it's not too late to get a shot. 
+
+
+You should also avoid touching your eyes, nose and mouth because germs can spread that way, health officials say. You should also wash your hands with soap and water, clean frequently touched surfaces and avoid close contact with people who are sick.
+
+
+The CDC also has been keeping its eye on a rise of illnesses from norovirus, a nasty stomach bug, with 91 outbreaks reported early in December. 
+
+
+Investigators also have been closely watching another kind of influenza virus, the Type A H5N1 version of bird flu. The CDC says 66 human U.S. cases of that were reported last year, but none of them in the last week. 
+
+
+The cases are "fairly sporadic," and the overall risk to the public remains low, Reed said. Almost all have been traced to direct contact with infected animals, with no proof of spread between people. 
+
+<br> 
+
+<https://www.voanews.com/a/seasonal-illnesses-in-full-force-in-most-us-states-cdc-says/7923841.html>
+
+---
+
+## New car sales were up in 2024. Can the trend last?
+
+date: 2025-01-03, from: Market Place
+
+Almost 1 in 5 new car buyers in the fourth quarter took on a $1,000 or more monthly payment, according to the car shopping site Edmunds.
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/03/new-car-sales-were-up-in-2024-autos-car-loans/>
+
+---
+
+## How an argument against gentrification stopped an L.A. building demolition
+
+date: 2025-01-03, from: Market Place
+
+Tenants in Los Angeles used a formal city process to make an unconventional argument to stop the demolition-- for now. 
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/03/how-an-argument-against-gentrification-stopped-an-l-a-building-demolition/>
+
+---
+
+## Judge sets Trump's sentencing in hush money case for Jan. 10
+
+date: 2025-01-03, from: VOA News USA
+
+NEW YORK — In an extraordinary turn, a judge Friday set President-elect Donald Trump's sentencing in his hush money case for Jan. 10 — just 10 days before he's due to return to the White House — but indicated he wouldn't be jailed. 
+
+
+The development nevertheless leaves Trump on course to be the first president to take office convicted of felony crimes. 
+
+
+Judge Juan M. Merchan, who presided over Trump’s trial, signaled in a written decision that he'd sentence the former and future president to what's known as a conditional discharge, in which a case is closed without jail time, a fine or probation. 
+
+
+Merchan rejected Trump’s push to dismiss the verdict and throw out the case on presidential immunity grounds and because of his impending return to the White House. The judge said he found “no legal impediment to sentencing” Trump and that it was “incumbent” on him to sentence Trump prior to his swearing in on Jan. 20. 
+
+
+“Only by bringing finality to this matter” will the interests of justice be served, Merchan wrote. 
+
+
+Trump was convicted in May of 34 counts of falsifying business records. They involved an alleged scheme to hide a hush money payment to porn actor Stormy Daniels in the last weeks of Trump’s first campaign in 2016. The payout was made to keep her from publicizing claims she’d had sex with the married Trump years earlier. He says that her story is false and that he did nothing wrong. 
+
+
+After Trump’s Nov. 5 election, Merchan halted proceedings and indefinitely postponed the sentencing so the defense and prosecution could weigh in on the future of the case. 
+
+
+
+
+Trump’s lawyers urged Merchan to toss it. They said it would otherwise pose unconstitutional “disruptions” to the incoming president’s ability to run the country. 
+
+
+Prosecutors acknowledged there should be some accommodation for his upcoming presidency, but they insisted the conviction should stand. 
+
+
+They suggested various options, such as freezing the case during his term or guaranteeing him a no-jail sentence. They also proposed closing the case while formally noting both his conviction and his undecided appeal — a novel idea drawn from what some state courts do when criminal defendants die while appealing their cases. 
+
+
+Merchan ruled that Trump’s current status as president-elect does not afford him the same kind of immunity granted to a sitting president and does not require that the verdict be set aside, and the case dismissed — a notion the judge described as “drastic” and “rare.” 
+
+
+Doing that “would undermine the Rule of Law in immeasurable ways," Merchan wrote. He opined that it wouldn't address the Supreme Court's concerns about presidential immunity, either. 
+
+
+Trump takes office Jan. 20 as the first former president to be convicted of a crime and the first convicted criminal to be elected to the office. 
+
+
+His conviction left the 78-year-old facing the possibility of punishment ranging from a fine or probation to up to four years in prison. 
+
+
+The case centered on how Trump accounted for reimbursing his personal attorney for the Daniels’ payment. 
+
+
+The lawyer, Michael Cohen, fronted the money. He later recouped it through a series of payments that Trump’s company logged as legal expenses. Trump, by then in the White House, signed most of the checks himself. 
+
+
+Prosecutors said the designation was meant to cloak the true purpose of the payments and help cover up a broader effort to keep voters from hearing unflattering claims about the Republican during his first campaign. 
+
+
+Trump said that Cohen was legitimately paid for legal services, and that Daniels’ story was suppressed to avoid embarrassing Trump’s family, not to influence the electorate. 
+
+
+Trump was a private citizen — campaigning for president, but neither elected nor sworn in — when Cohen paid Daniels in October 2016. He was president when Cohen was reimbursed, and Cohen testified that they discussed the repayment arrangement in the Oval Office. 
+
+
+Trump, a Republican, has decried the verdict as the “rigged, disgraceful” result of a “witch hunt” pursued by Manhattan District Attorney Alvin Bragg, a Democrat. 
+
+
+Before Trump’s November election, his lawyers sought to reverse his conviction for a different reason: a U.S. Supreme Court decision in July that gave presidents broad immunity from criminal prosecution. That request was still pending when the election raised new issues. 
+
+
+While urging Merchan to nix the conviction, Trump also sought to move the case to federal court, where he could also assert immunity. A federal judge repeatedly said no, but Trump appealed. 
+
+
+The hush money case was the only one of Trump’s four criminal indictments to go to trial.
+
+
+Since the election, special counsel Jack Smith has ended his two federal cases. One pertained to Trump’s efforts to overturn his 2020 election loss; the other alleged he hoarded classified documents at his Mar-a-Lago estate. 
+
+
+A separate, state-level election interference case in Georgia is largely on hold. 
+
+<br> 
+
+<https://www.voanews.com/a/judge-sets-trump-s-sentencing-in-hush-money-case-for-jan-10/7923804.html>
+
+---
+
+## Could Nippon still buy U.S. Steel after Biden blocked the deal?
+
+date: 2025-01-03, from: Market Place
+
+The president says the sale could threaten U.S. national security. The companies say they will fight the decision. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/03/could-nippon-still-buy-u-s-steel-after-biden-blocked-the-deal/>
+
+---
+
+## US capital in 'heightened threat environment' after New Year's Day attacks
+
+date: 2025-01-03, from: VOA News USA
+
+washington — Law enforcement and security agencies in and around Washington are bringing in reinforcements as they prepare to secure three high-profile events in the nation's capital, following the New Year's Day terror attack in New Orleans and the Cybertruck bombing in front of the Trump International Hotel in Las Vegas.
+
+
+The first event will occur Monday, when Congress meets to certify results of the presidential election four years to the day since the Jan. 6, 2021, Capitol riot.
+
+
+The second will be the state funeral for the late President Jimmy Carter, starting with a ceremony and procession on Tuesday before wrapping up on Thursday.
+
+
+The last high-profile event will come Jan. 20, when President-elect Donald Trump is inaugurated.
+
+
+"That has never happened before. We have three [National Special Security Events] over a 15-day period," Matt McCool, U.S. Secret Service Washington Field Office special agent in charge, told reporters Friday.
+
+
+"But what I will tell you is we're flexible. We're adaptable. We've been working on these events for, in some cases, years," he said. "So, we're going to be prepared."
+
+
+Despite concerns stemming from the New Orleans attack and the Las Vegas bombing, security officials are confident so far that the Washington events will proceed safely.
+
+
+"We are not tracking any credible or specific threats associated with these events," said David Sundberg, assistant director in charge at the FBI's Washington Field Office.
+
+
+The law enforcement and security agencies, however, are not taking any chances, acknowledging that the city and the region are operating in a heightened threat environment.
+
+
+The Secret Service said Friday that it was bringing in agents from across the country to boost staffing levels, which were already the highest they have been in three years.
+
+
+Washington's Metropolitan Police Department said it has added to its ranks almost 4,000 officers from departments across the country.
+
+
+
+
+The capital's National Guard Bureau confirmed it also has approved requests for additional support, including the provision of 500 guardsmen for the Jan. 6 election certification and liaison officers for the state funeral.
+
+
+An additional request for 7,800 National Guard soldiers and airmen to assist with security for the Trump inauguration is pending.
+
+
+Increased security measures, including barriers and fencing, are already up in parts of Washington and around the Capitol, but more are coming.
+
+
+"A multitude of seen and unseen security measures will operate in tandem to ensure a comprehensive and seamless security plan comes to fruition," McCool said, adding that the measures will include the use of aerial drones.
+
+
+"The Secret Service will use drones as part of our comprehensive security plan," McCool said. "Do not be alarmed if you see these assets during the upcoming events or training in the days ahead."
+
+
+The Metropolitan Police Department said its increased security measures would go into effect starting Sunday, with the deployment of specialized officers around the city to respond to any emergencies.
+
+
+The U.S. Capitol Police, whose 2,400 officers and civilian employees are responsible for protecting the Capitol and members of Congress, also said they were more prepared to handle contingencies than they were four years ago, when rioters upset with the outcome of the 2020 presidential election stormed the Capitol, forcing lawmakers to flee and injuring police officers.
+
+
+About 1,560 people have been charged with federal crimes in the riot. So far, about 979 have pleaded guilty, while another 210 have been convicted.
+
+
+"Our nation's capital is prepared to ensure that the legislative process will proceed without disruption, and our government will have a peaceful transfer of power," said Capitol Police Chief J. Thomas Manger, noting that the force has implemented more than 100 recommendations made following the 2021 riot.
+
+
+Officials in Washington are also bracing for potential protests, saying several planned demonstrations have already gotten required permits.
+
+
+"We are committed to upholding the right to peacefully assemble and protest here in our city," said Metropolitan Police Chief Pamela Smith.
+
+
+"We welcome visitors to come and experience what this incredible city has to offer, but those who are intentional on unlawful activity should know that there will be consequences," Smith said. "However, as I've stated before, when we have special events, and I want to be very clear, that we will not tolerate any violence, rioting, destruction of property, or any behavior that threatens the safety and security of our city." 
+
+<br> 
+
+<https://www.voanews.com/a/us-capital-in-heightened-threat-environment-after-new-year-s-day-attacks-/7923765.html>
+
+---
+
+## Biden blocks Japan’s Nippon Steel from buying US Steel
+
+date: 2025-01-03, from: VOA News USA
+
+President Joe Biden said Friday that he was blocking the proposed $14.9 billion acquisition of American company U.S. Steel by Japan’s Nippon Steel. Analysts said rejection of the deal could hurt relations with Japan, a key ally and trade partner. White House Bureau Chief Patsy Widakuswara reports. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-blocks-japan-s-nippon-steel-from-buying-us-steel/7923740.html>
+
+---
+
+## Here's Why Trump's Foreign Policy Is Hard to Pin Down
+
+date: 2025-01-03, updated: 2025-01-03, from: RAND blog
+
+While some view President-elect Trump as an isolationist, this characterization overlooks his complex foreign policy. He may adopt restraint in certain areas, but he is likely to encounter strong pressure for deep engagement, especially regarding military involvement in Europe and the Middle East. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2025/01/heres-why-trumps-foreign-policy-is-hard-to-pin-down.html>
+
+---
+
+## Climate-related cocoa shortages put strain on the global chocolate industry
+
+date: 2025-01-03, from: Market Place
+
+As climate change transforms agriculture worldwide, the commodity price of cocoa has surged.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/03/climate-related-cocoa-shortages-put-strain-on-the-global-chocolate-industry/>
+
+---
+
+## How Sanctuary Laws Could Throw a Wrench Into Trump’s Deportation Plans
+
+date: 2025-01-03, from: Capital and Main
+
+<p>Advocates see these laws as a critical shield for immigrant communities, but Trump’s team is devising ways to bypass them.</p>
+<p>The post <a href="https://capitalandmain.com/how-sanctuary-laws-could-throw-a-wrench-into-trumps-deportation-plans">How Sanctuary Laws Could Throw a Wrench Into Trump’s Deportation Plans</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/how-sanctuary-laws-could-throw-a-wrench-into-trumps-deportation-plans>
+
+---
+
+## Cold Comfort: The Latest Attacks on America Follow a Familiar Playbook
+
+date: 2025-01-03, updated: 2025-01-03, from: RAND blog
+
+Recent vehicle attacks in New Orleans and Las Vegas underscore persistent terrorist threats in the United States. Both incidents, though likely unrelated, were premeditated and suggest political motives, raising public anxiety about safety and security. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2025/01/cold-comfort-the-latest-attacks-on-america-follow-a.html>
 
 ---
 
@@ -38,7 +454,11 @@ Many provisions of that tax law expire at the end of this year — including th
 date: 2025-01-03, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTM2ODg0Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NTE0Nzk3MX0.BmuReZWudaifzr2refD_MBJlkKSJeKUk3IU8DX5VT6w/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">In one of the Biden administration’s final acts to advance decarbonization, and after more than <a href="https://heatmap.news/economy/green-hydrogen-tax-credit-treasury" target="_self"><u>two years of deliberation</u></a> and <a href="https://heatmap.news/economy/final-hydrogen-tax-credit-45v" target="_self"><u>heated debate</u></a>, the Treasury Department issued the final requirements governing eligibility for the clean hydrogen tax credit on Friday. </p><p>At up to $3 per kilogram of clean hydrogen produced, this was the most generous subsidy in the 2022 Inflation Reduction Act, and it came with significant risks if the Treasury did not get the rules right. Hydrogen could be an important tool to help decarbonize the economy. But without adequate guardrails, the tax credit could turn it into a shovel that digs the U.S. deeper into a warming hole by paying out billions of dollars to projects that increase emissions rather than reducing them. </p><p>In the final guidelines, the Biden administration recognized the severity of this risk. It maintained key safeguards from the rules proposed in 2023, while also making a number of changes, exceptions, and other “flexibilities” — in the preferred parlance of the Treasury Department — that sacrifice rigorous emissions accounting in favor of making the program easier to administer and take advantage of. </p><p>For example, it kept a set of requirements for hydrogen made from water and electricity known as the “<a href="https://heatmap.news/economy/hydrogen-tax-credit-rules" target="_self"><u>three pillars</u></a>.” Broadly, they compel producers to match every hour of their operation with simultaneous clean energy generation, buy this energy from newly built sources, and ensure those sources are in the same general region as the hydrogen plant. Hydrogen production is extremely energy-intensive, and the pillars were designed to ensure that it doesn’t end up causing coal and natural gas plants to run more. But the final rules are less strict than the proposal. For example, the hourly matching requirement doesn’t apply until 2030, and existing nuclear plants count as new zero-emissions energy if they are considered to be at risk of retirement.</p><p>Finding a balance between limiting emissions and ensuring that the tax credit unlocks development of this entirely new industry was a monumental challenge. The Treasury Department received more than 30,000 comments on the proposed rule, compared to about 2,000 for the clean electricity tax credit, and just 89 for the electric vehicle tax credit. Senior administration officials told me this may have been the most complicated of all of the provisions in the IRA. In October, the department <a href="https://heatmap.news/economy/final-hydrogen-tax-credit-45v" target="_self"><u>assured me</u></a> that the rules would be finished by the end of the year.</p><p>Energy experts, environmental groups, and industry are still digesting the rule, and I’ll be looking out for future analyses of the department’s attempt at compromise. But initial reactions have been cautiously optimistic. </p><p>On the environmental side, Dan Esposito from the research nonprofit Energy Innovation told me his first impression was that the final rule was “a clear win for the climate” and illustrated “overwhelming, irrefutable evidence” in favor of the three pillars approach, though he did have concerns about a few specific elements that I’ll get to in a moment. Likewise, Conrad Schneider, the U.S. senior director at the Clean Air Task Force, told me that with the exception of a few caveats, “we want to give this final rule a thumbs up.”</p><p>Princeton University researcher Jesse Jenkins, a co-host of Heatmap’s Shift Key podcast and a vocal advocate for the three pillars approach, told me by email that, “Overall, Treasury’s final rules represent a reasonable compromise between competing priorities and will provide much-needed certainty and a solid foundation for the growth of a domestic clean hydrogen industry.”</p><p>On the industry side, the Fuel Cell and Hydrogen Energy Association put out a somewhat cryptic statement. CEO Frank Wolak applauded the administration for making “significant improvements” but warned that the rules were “still extremely complex” and contain several open-ended parts that will be subject to interpretation by the incoming Trump-Vance administration.</p><p>“This issuance of Final Rules closes a long chapter, and now the industry can look forward to conversations with the new Congress and new Administration regarding how federal tax and energy policy can most effectively advance the development of hydrogen in the U.S.,” Wolak said.</p><p>Constellation Energy, the country’s biggest supplier of nuclear power, was among the most vocal critics of the proposed rule and had threatened to sue the government if it did not create a pathway for hydrogen plants that are powered by existing nuclear plants to claim the credit. In response to the final rule, CEO and President Joe Dominguez said he was “pleased” that the Treasury changed course on this and that the final rule was “an important step in the right direction.”</p><p>The California governor’s office, which had criticized the proposed rule, was also swayed. “The final rules create the certainty needed for developers to invest in and build clean, renewable hydrogen production projects in states like California,” Dee Dee Myers, the director of the Governor’s Office of Business and Economic Development, said in a statement. The state has <a href="https://www.gov.ca.gov/2024/07/17/california-launches-world-leading-hydrogen-hub/" target="_blank"><u>plans</u></a> to build a $12.6 billion hub for producing and using clean hydrogen.</p><p>Part of the reason the Treasury needed to find a Goldilocks compromise that pleased as many stakeholders as possible was to protect the rule from future lawsuits and lobbying. But not everyone got what they wanted. For example, the energy developer NextEra, pushed the administration to get rid of the hourly matching provision, which though delayed remained essentially untouched. NextEra did not respond to a request for comment.</p><p>Companies that fall on the wrong side of the final rules may still decide to challenge them in court. The next Congress could also make revisions to the underlying tax code, or the incoming Trump administration could change the rules to perhaps make them <a href="https://www.eenews.net/articles/trump-may-end-bidens-green-hydrogen-dream/" target="_blank"><u>more favorable to hydrogen made from fossil fuels</u></a>. But all of this would take time — a rule change, for example, would trigger a whole new notice and comment process. Though the one thing I’ve heard over and over is that the industry wants certainty, which the final rule provides, it’s not yet clear whether that will outweigh any remaining gripes.</p><p>In the meantime, it's off to the races for the nascent clean hydrogen industry. Between having clarity on the tax credit, the Department of Energy’s $7 billion hydrogen hubs grant program, and <a href="https://www.energy.gov/eere/fuelcells/bipartisan-infrastructure-law-clean-hydrogen-electrolysis-manufacturing-and-0#:~:text=On%20March%2013%2C%202024%2C%20the,in%20the%20growing%20hydrogen%20industry." rel="noopener noreferrer" target="_blank"><u>additional federal grants</u></a> to drive down the cost of clean hydrogen, companies now have numerous incentives to start building the hydrogen economy that has received much hype but has yet to <a href="https://heatmap.news/plus/the-fight/spotlight/hydrogen-hubs-problems" target="_self"><u>prove its viability</u></a>. The biggest question now is whether producers will <a href="https://www.bloomberg.com/news/articles/2024-08-12/why-almost-nobody-is-buying-hydrogen-dashing-green-power-hopes" rel="noopener noreferrer" target="_blank"><u>find any buyers</u></a> for their clean hydrogen.</p><p>Below is a more extensive accounting of where the Treasury landed in the final rules.</p><h3>What exactly happened to the “three pillars”?</h3><p>On “deliverability,” or the requirement to procure clean energy from the same region, the rules are largely unchanged, although they do allow for some flexibility on regional boundaries.</p><p>As I explained above, the Treasury Department also kept the hourly matching requirement, but delayed it by two years until 2030 to give the market more time to set up <a href="https://heatmap.news/politics/hydrogen-rule-biden-clean-energy" target="_self"><u>systems to achieve it</u></a> — a change Schneider said was “really disappointing” due to the potential emissions consequences. Until then, companies only have to match their operations with clean energy on an annual basis, which is a common practice today. The new deadline is strict, and those that start operations before 2030 will not be grandfathered in — that is, they’ll have to switch to hourly matching once that extended clock runs out. In spite of that, the final rules also ensure that producers won’t be penalized if they are not able to procure clean energy for <em><em>every single hour</em></em> their plant operates, an update several groups applauded.</p><p>On the requirement to procure clean power from newly built sources, also known as “incrementality,” the department made much bigger changes. It kept an overarching definition that “incremental” generators are those built within three years of the hydrogen plant coming into service, but added three major exceptions:</p><p><strong>1.</strong> If the hydrogen facility buys power from an existing nuclear plant that’s at risk of retirement.</p><p><strong>2.</strong> If the hydrogen facility is in a state that has both a robust clean electricity standard and a broad, binding, greenhouse gas cap, such as a cap and trade system. Currently, only California and Washington pass this test.</p><p><span></span><strong>3.</strong> If the hydrogen facility buys power from an existing natural gas or coal plant that has added new carbon capture and storage capacity within three years of the hydrogen project coming into service.</p><h3>What does this mean for nuclear plants?</h3><p>The hydrogen tax credit is so lucrative that environmental groups and energy analysts were concerned it would drive companies like Constellation to start selling all their nuclear power to hydrogen plants instead of to regular energy consumers, which could drive up prices and induce more fossil fuel emissions. </p><p>The final rules try to limit this possibility by only allowing existing reactors that are at risk of retirement to qualify. But the definition of “at risk of retirement” is loose. It includes “merchant” nuclear power plants — those that sell at least half their power on the wholesale electricity market rather than to regulated utilities — as well as plants that have just a single reactor, which the rules note have lower or more uncertain revenue and higher operational costs. Looking at the Nuclear Energy Institute’s <a href="https://nei.org/about-nei" target="_blank"><u>list of plants</u></a>, merchant plants make up roughly 40% of the total. All of Constellation Energy’s plants are merchant plants.</p><p>There are additional tests — the plant has to have had average annual gross receipts of less than 4.375 cents per kilowatt hour for at least two calendar years between 2017 and 2021. It also has to obtain a minimum 10-year power purchase agreement with the hydrogen company. Beyond that, the reactors that meet this definition are limited to selling no more than 200 megawatts to hydrogen companies, which is roughly 20% for the average reactor.</p><p>Esposito, who has closely analyzed the potential emissions consequences of using existing nuclear plants to power hydrogen production, was not convinced by the safeguards. “I don't love the power price look back,” he told me, “because that's not especially indicative of the future — particularly this high load growth future that we're quickly approaching with data centers and everything. It’s very possible power prices could go up from that, and then all of a sudden, the nuclear plants would have been fine without hydrogen.”</p><p>As for the 200 megawatt cap, Esposito said it was better than nothing, but he feels “it's kind of an implicit admission that it's not really, truly clean” to produce hydrogen with the energy from these nuclear plants.</p><p>Schneider, on the other hand, said the safeguards for nuclear-powered hydrogen projects were adequate. While a lot of plants are theoretically eligible, not all of their electricity will be eligible, he said.</p><h3>Are there concerns about the state policy exemption?</h3><p>The rules assert that in states that meet the two criteria of a clean electricity standard and a binding cap on emissions, “any increased electricity load is highly unlikely to cause induced grid emissions.” </p><p>But in a <a href="https://energyinnovation.org/wp-content/uploads/Energy-Innovation-45V-Exemptions-Need-Strong-Guardrails.pdf" target="_blank"><u>paper</u></a> published in February, Energy Innovation explored the potential consequences of this exemption in California. It found that hydrogen projects could have ripple effects on the cap and trade market, pushing up the state’s carbon price and triggering the release of extra carbon emission allowances. “In other words, the California program is more of a ‘soft’ cap than a binding one — the emissions budget ‘expands or contracts in response to price bounds set by the legislature and [California Air Resources Board],’” the report says.</p><p>Esposito thinks the exemption is a risk, but that it requires further analysis and he’s not sounding the alarm just yet. He said it could come down to other factors, including how economical hydrogen production in California ends up being.</p><h3>What about hydrogen made from methane?</h3><p>Producers are also eligible for the tax credit if they make hydrogen the conventional way, by “reforming” natural gas, but capture the emissions released in the process. For this pathway, the Treasury had to clarify several accounting questions.</p><p>First, there’s the question of how producers should account for methane leaked into the atmosphere upstream of the hydrogen plant, such as from wells and pipelines. The proposal had suggested using a national average of 0.9%. But researchers found this would <a href="https://heatmap.news/climate/blue-hydrogen-permian-marcellus" target="_self"><u>wildly underestimate</u></a> the true warming impact of hydrogen produced from natural gas. It could also underestimate emissions from natural gas producers that have taken steps to reduce methane leakage. “We branded that as one size fits none,” Schneider told me.</p><p>The final rules create a path for producers to use more accurate, project-specific methane emissions rates in the future once the Department of Energy updates a lifecycle emissions tool that companies have to use called the “GREET” model. The Environmental Protection Agency recently passed new methane emissions laws that will enable it to collect better data on leakage, which will help the DOE update the model.</p><p>Schneider said that’s a step in the right direction, though it will depend on how quickly the GREET model is updated. His bigger concern is if the Trump administration weakens or eliminates the EPA’s methane emissions regulations.</p><h3>Can producers just buy renewable natural gas certificates?</h3><p>The Treasury also opened up the potential for companies to produce hydrogen from alternative, cleaner sources of methane, like gas captured from wastewater, animal manure, and coal mines. (The original rule included a pathway for using gas captured from landfills.) In reality, hydrogen plants taking this approach are unlikely to use gas directly from these sources, but rather procure certificates that say they have “booked” this cleaner gas and can “claim” the environmental benefits. </p><p>Leading up to the final rule, some climate advocates were <a href="https://heatmap.news/climate/hydrogen-tax-credit-final-methane-offsets" target="_self"><u>concerned</u></a> that this system would give a boost to methane-based hydrogen production over electricity-based production, as it's cheaper to buy renewable natural gas certificates than it is to split water molecules. Existing markets for these credits also often overestimate their benefits — for example, California’s low carbon fuel system gives biogas captured from dairy farms a negative carbon intensity score, even though these projects don’t literally remove carbon from the atmosphere.</p><p>The Treasury tried to improve its emissions estimates for each of these alternative methane sources to make them more accurate, but negative carbon intensity scores are still possible. </p><p>The department did make one significant change here, however. It specified that companies can’t just buy a little bit of cleaner methane and then average it with regular fossil-based methane — each must be considered separately for determining tax credit eligibility. Jenkins, of Princeton, told me that without this rule, huge amounts of hydrogen made from regular natural gas could qualify.</p><p>Producers also won’t be able to take this “book and claim” approach until markets adapt to the Treasury’s reporting requirements, which isn’t expected until at least 2027.</p> 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTM2ODg0Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NTE0Nzk3MX0.BmuReZWudaifzr2refD_MBJlkKSJeKUk3IU8DX5VT6w/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">In one of the Biden administration’s final acts to advance decarbonization, and after more than <a href="https://heatmap.news/economy/green-hydrogen-tax-credit-treasury" target="_self"><u>two years of deliberation</u></a> and <a href="https://heatmap.news/economy/final-hydrogen-tax-credit-45v" target="_self"><u>heated debate</u></a>, the Treasury Department issued the final requirements governing eligibility for the clean hydrogen tax credit on Friday. </p><p>At up to $3 per kilogram of clean hydrogen produced, this was the most generous subsidy in the 2022 Inflation Reduction Act, and it came with significant risks if the Treasury did not get the rules right. Hydrogen could be an important tool to help decarbonize the economy. But without adequate guardrails, the tax credit could turn it into a shovel that digs the U.S. deeper into a warming hole by paying out billions of dollars to projects that increase emissions rather than reducing them. </p><p>In the final guidelines, the Biden administration recognized the severity of this risk. It maintained key safeguards from the rules proposed in 2023, while also making a number of changes, exceptions, and other “flexibilities” — in the preferred parlance of the Treasury Department — that sacrifice rigorous emissions accounting in favor of making the program easier to administer and take advantage of. </p><p>For example, it kept a set of requirements for hydrogen made from water and electricity known as the “<a href="https://heatmap.news/economy/hydrogen-tax-credit-rules" target="_self"><u>three pillars</u></a>.” Broadly, they compel producers to match every hour of their operation with simultaneous clean energy generation, buy this energy from newly built sources, and ensure those sources are in the same general region as the hydrogen plant. Hydrogen production is extremely energy-intensive, and the pillars were designed to ensure that it doesn’t end up causing coal and natural gas plants to run more. But the final rules are less strict than the proposal. For example, the hourly matching requirement doesn’t apply until 2030, and existing nuclear plants count as new zero-emissions energy if they are considered to be at risk of retirement.</p><p>Finding a balance between limiting emissions and ensuring that the tax credit unlocks development of this entirely new industry was a monumental challenge. The Treasury Department received more than 30,000 comments on the proposed rule, compared to about 2,000 for the clean electricity tax credit, and just 89 for the electric vehicle tax credit. Senior administration officials told me this may have been the most complicated of all of the provisions in the IRA. In October, the department <a href="https://heatmap.news/economy/final-hydrogen-tax-credit-45v" target="_self"><u>assured me</u></a> that the rules would be finished by the end of the year.</p><p>Energy experts, environmental groups, and industry are still digesting the rule, and I’ll be looking out for future analyses of the department’s attempt at compromise. But initial reactions have been cautiously optimistic. </p><p>On the environmental side, Dan Esposito from the research nonprofit Energy Innovation told me his first impression was that the final rule was “a clear win for the climate” and illustrated “overwhelming, irrefutable evidence” in favor of the three pillars approach, though he did have concerns about a few specific elements that I’ll get to in a moment. Likewise, Conrad Schneider, the U.S. senior director at the Clean Air Task Force, told me that with the exception of a few caveats, “we want to give this final rule a thumbs up.”</p><p>Princeton University researcher Jesse Jenkins, a co-host of Heatmap’s Shift Key podcast and a vocal advocate for the three pillars approach, told me by email that, “Overall, Treasury’s final rules represent a reasonable compromise between competing priorities and will provide much-needed certainty and a solid foundation for the growth of a domestic clean hydrogen industry.”</p><p>On the industry side, the Fuel Cell and Hydrogen Energy Association put out a somewhat cryptic statement. CEO Frank Wolak applauded the administration for making “significant improvements” but warned that the rules were “still extremely complex” and contain several open-ended parts that will be subject to interpretation by the incoming Trump-Vance administration.</p><p>“This issuance of Final Rules closes a long chapter, and now the industry can look forward to conversations with the new Congress and new Administration regarding how federal tax and energy policy can most effectively advance the development of hydrogen in the U.S.,” Wolak said.</p><p>Constellation Energy, the country’s biggest supplier of nuclear power, was among the most vocal critics of the proposed rule and had threatened to sue the government if it did not create a pathway for hydrogen plants that are powered by existing nuclear plants to claim the credit. In response to the final rule, CEO and President Joe Dominguez said he was “pleased” that the Treasury changed course on this and that the final rule was “an important step in the right direction.”</p><p>The California governor’s office, which had criticized the proposed rule, was also swayed. “The final rules create the certainty needed for developers to invest in and build clean, renewable hydrogen production projects in states like California,” Dee Dee Myers, the director of the Governor’s Office of Business and Economic Development, said in a statement. The state has <a href="https://www.gov.ca.gov/2024/07/17/california-launches-world-leading-hydrogen-hub/" target="_blank"><u>plans</u></a> to build a $12.6 billion hub for producing and using clean hydrogen.</p><p>Part of the reason the Treasury needed to find a Goldilocks compromise that pleased as many stakeholders as possible was to protect the rule from future lawsuits and lobbying. But not everyone got what they wanted. For example, the energy developer NextEra, pushed the administration to get rid of the hourly matching provision, which though delayed remained essentially untouched. NextEra did not respond to a request for comment.</p><p>Companies that fall on the wrong side of the final rules may still decide to challenge them in court. The next Congress could also make revisions to the underlying tax code, or the incoming Trump administration could change the rules to perhaps make them <a href="https://www.eenews.net/articles/trump-may-end-bidens-green-hydrogen-dream/" target="_blank"><u>more favorable to hydrogen made from fossil fuels</u></a>. But all of this would take time — a rule change, for example, would trigger a whole new notice and comment process. Though the one thing I’ve heard over and over is that the industry wants certainty, which the final rule provides, it’s not yet clear whether that will outweigh any remaining gripes.</p><p>In the meantime, it's off to the races for the nascent clean hydrogen industry. Between having clarity on the tax credit, the Department of Energy’s $7 billion hydrogen hubs grant program, and <a href="https://www.energy.gov/eere/fuelcells/bipartisan-infrastructure-law-clean-hydrogen-electrolysis-manufacturing-and-0#:~:text=On%20March%2013%2C%202024%2C%20the,in%20the%20growing%20hydrogen%20industry." rel="noopener noreferrer" target="_blank"><u>additional federal grants</u></a> to drive down the cost of clean hydrogen, companies now have numerous incentives to start building the hydrogen economy that has received much hype but has yet to <a href="https://heatmap.news/plus/the-fight/spotlight/hydrogen-hubs-problems" target="_self"><u>prove its viability</u></a>. The biggest question now is whether producers will <a href="https://www.bloomberg.com/news/articles/2024-08-12/why-almost-nobody-is-buying-hydrogen-dashing-green-power-hopes" rel="noopener noreferrer" target="_blank"><u>find any buyers</u></a> for their clean hydrogen.</p><p>Below is a more extensive accounting of where the Treasury landed in the final rules.</p><div class="horizontal-rule"></div><p><em>Get our best story in your inbox every day:</em></p><p><div id="mc_embed_signup"><form action="https://news.us13.list-manage.com/subscribe/post?u=eacecbac4b1d10158b5b6fbad&id=c5c20b220f&f_id=00a03fe3f0" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" target="_self"><div id="mc_embed_signup_scroll"><div class="indicates-required"><span class="asterisk">*</span> indicates required</div><div class="mc-field-group"><label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label><input class="required email" id="mce-EMAIL" name="EMAIL" placeholder="Your Email" required="" type="email" value=""/><span class="helper_text" id="mce-EMAIL-HELPERTEXT"></span><a class="policy__link" href="/privacy-statement">Our Privacy Policy & Terms Apply.</a></div>
+<li style="display:none!important;"><input checked="" id="mce-group[699211]-699211-0" name="group[699211][1]" type="checkbox" value="1"/></li>
+<input class="hidden hs-am" name="mcam" type="text" value="Yes"/>
+<input class="hidden hs-am" name="mcdaily" type="text" value="Yes"/>
+<div class="clear" id="mce-responses"><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div></div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div aria-hidden="true" style="position: absolute; left: -5000px;"><input name="b_eacecbac4b1d10158b5b6fbad_c5c20b220f" tabindex="-1" type="text" value=""/></div><div class="clear"><input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Sign Up"/></div></div></form></div></p><div class="horizontal-rule"></div><h3>What exactly happened to the “three pillars”?</h3><p>On “deliverability,” or the requirement to procure clean energy from the same region, the rules are largely unchanged, although they do allow for some flexibility on regional boundaries.</p><p>As I explained above, the Treasury Department also kept the hourly matching requirement, but delayed it by two years until 2030 to give the market more time to set up <a href="https://heatmap.news/politics/hydrogen-rule-biden-clean-energy" target="_self"><u>systems to achieve it</u></a> — a change Schneider said was “really disappointing” due to the potential emissions consequences. Until then, companies only have to match their operations with clean energy on an annual basis, which is a common practice today. The new deadline is strict, and those that start operations before 2030 will not be grandfathered in — that is, they’ll have to switch to hourly matching once that extended clock runs out. In spite of that, the final rules also ensure that producers won’t be penalized if they are not able to procure clean energy for <em><em>every single hour</em></em> their plant operates, an update several groups applauded.</p><p>On the requirement to procure clean power from newly built sources, also known as “incrementality,” the department made much bigger changes. It kept an overarching definition that “incremental” generators are those built within three years of the hydrogen plant coming into service, but added three major exceptions:</p><p><strong>1.</strong> If the hydrogen facility buys power from an existing nuclear plant that’s at risk of retirement.</p><p><strong>2.</strong> If the hydrogen facility is in a state that has both a robust clean electricity standard and a broad, binding, greenhouse gas cap, such as a cap and trade system. Currently, only California and Washington pass this test.</p><p><span></span><strong>3.</strong> If the hydrogen facility buys power from an existing natural gas or coal plant that has added new carbon capture and storage capacity within three years of the hydrogen project coming into service.</p><h3>What does this mean for nuclear plants?</h3><p>The hydrogen tax credit is so lucrative that environmental groups and energy analysts were concerned it would drive companies like Constellation to start selling all their nuclear power to hydrogen plants instead of to regular energy consumers, which could drive up prices and induce more fossil fuel emissions. </p><p>The final rules try to limit this possibility by only allowing existing reactors that are at risk of retirement to qualify. But the definition of “at risk of retirement” is loose. It includes “merchant” nuclear power plants — those that sell at least half their power on the wholesale electricity market rather than to regulated utilities — as well as plants that have just a single reactor, which the rules note have lower or more uncertain revenue and higher operational costs. Looking at the Nuclear Energy Institute’s <a href="https://nei.org/about-nei" target="_blank"><u>list of plants</u></a>, merchant plants make up roughly 40% of the total. All of Constellation Energy’s plants are merchant plants.</p><p>There are additional tests — the plant has to have had average annual gross receipts of less than 4.375 cents per kilowatt hour for at least two calendar years between 2017 and 2021. It also has to obtain a minimum 10-year power purchase agreement with the hydrogen company. Beyond that, the reactors that meet this definition are limited to selling no more than 200 megawatts to hydrogen companies, which is roughly 20% for the average reactor.</p><p>Esposito, who has closely analyzed the potential emissions consequences of using existing nuclear plants to power hydrogen production, was not convinced by the safeguards. “I don't love the power price look back,” he told me, “because that's not especially indicative of the future — particularly this high load growth future that we're quickly approaching with data centers and everything. It’s very possible power prices could go up from that, and then all of a sudden, the nuclear plants would have been fine without hydrogen.”</p><p>As for the 200 megawatt cap, Esposito said it was better than nothing, but he feels “it's kind of an implicit admission that it's not really, truly clean” to produce hydrogen with the energy from these nuclear plants.</p><p>Schneider, on the other hand, said the safeguards for nuclear-powered hydrogen projects were adequate. While a lot of plants are theoretically eligible, not all of their electricity will be eligible, he said.</p><h3>Are there concerns about the state policy exemption?</h3><p>The rules assert that in states that meet the two criteria of a clean electricity standard and a binding cap on emissions, “any increased electricity load is highly unlikely to cause induced grid emissions.” </p><p>But in a <a href="https://energyinnovation.org/wp-content/uploads/Energy-Innovation-45V-Exemptions-Need-Strong-Guardrails.pdf" target="_blank"><u>paper</u></a> published in February, Energy Innovation explored the potential consequences of this exemption in California. It found that hydrogen projects could have ripple effects on the cap and trade market, pushing up the state’s carbon price and triggering the release of extra carbon emission allowances. “In other words, the California program is more of a ‘soft’ cap than a binding one — the emissions budget ‘expands or contracts in response to price bounds set by the legislature and [California Air Resources Board],’” the report says.</p><p>Esposito thinks the exemption is a risk, but that it requires further analysis and he’s not sounding the alarm just yet. He said it could come down to other factors, including how economical hydrogen production in California ends up being.</p><h3>What about hydrogen made from methane?</h3><p>Producers are also eligible for the tax credit if they make hydrogen the conventional way, by “reforming” natural gas, but capture the emissions released in the process. For this pathway, the Treasury had to clarify several accounting questions.</p><p>First, there’s the question of how producers should account for methane leaked into the atmosphere upstream of the hydrogen plant, such as from wells and pipelines. The proposal had suggested using a national average of 0.9%. But researchers found this would <a href="https://heatmap.news/climate/blue-hydrogen-permian-marcellus" target="_self"><u>wildly underestimate</u></a> the true warming impact of hydrogen produced from natural gas. It could also underestimate emissions from natural gas producers that have taken steps to reduce methane leakage. “We branded that as one size fits none,” Schneider told me.</p><p>The final rules create a path for producers to use more accurate, project-specific methane emissions rates in the future once the Department of Energy updates a lifecycle emissions tool that companies have to use called the “GREET” model. The Environmental Protection Agency recently passed new methane emissions laws that will enable it to collect better data on leakage, which will help the DOE update the model.</p><p>Schneider said that’s a step in the right direction, though it will depend on how quickly the GREET model is updated. His bigger concern is if the Trump administration weakens or eliminates the EPA’s methane emissions regulations.</p><h3>Can producers just buy renewable natural gas certificates?</h3><p>The Treasury also opened up the potential for companies to produce hydrogen from alternative, cleaner sources of methane, like gas captured from wastewater, animal manure, and coal mines. (The original rule included a pathway for using gas captured from landfills.) In reality, hydrogen plants taking this approach are unlikely to use gas directly from these sources, but rather procure certificates that say they have “booked” this cleaner gas and can “claim” the environmental benefits. </p><p>Leading up to the final rule, some climate advocates were <a href="https://heatmap.news/climate/hydrogen-tax-credit-final-methane-offsets" target="_self"><u>concerned</u></a> that this system would give a boost to methane-based hydrogen production over electricity-based production, as it's cheaper to buy renewable natural gas certificates than it is to split water molecules. Existing markets for these credits also often overestimate their benefits — for example, California’s low carbon fuel system gives biogas captured from dairy farms a negative carbon intensity score, even though these projects don’t literally remove carbon from the atmosphere.</p><p>The Treasury tried to improve its emissions estimates for each of these alternative methane sources to make them more accurate, but negative carbon intensity scores are still possible. </p><p>The department did make one significant change here, however. It specified that companies can’t just buy a little bit of cleaner methane and then average it with regular fossil-based methane — each must be considered separately for determining tax credit eligibility. Jenkins, of Princeton, told me that without this rule, huge amounts of hydrogen made from regular natural gas could qualify.</p><p>Producers also won’t be able to take this “book and claim” approach until markets adapt to the Treasury’s reporting requirements, which isn’t expected until at least 2027.</p> 
 
 <br> 
 
@@ -137,7 +557,7 @@ But hopes were shattered in December when CFIUS set the stage for Biden to block
 
 ---
 
-## Is Lab-Grown Meat Cooked Under Trump?
+## Why Lab-Grown Meat Could Be Cooked Under Trump
 
 date: 2025-01-03, from: Heatmap News
 
@@ -5831,4 +6251,253 @@ Forecasters said to expect between 10 and 15 centimeters of rain before New Year
 <br> 
 
 <https://www.voanews.com/a/storms-delay-cancel-thousands-of-flights-across-us-/7917383.html>
+
+---
+
+## Trump sides with Musk in H-1B visa debate, saying he supports program
+
+date: 2024-12-28, from: VOA News USA
+
+WEST PALM BEACH, FLORIDA — President-elect Donald Trump on Saturday sided with key supporter and billionaire tech CEO Elon Musk in a public dispute over the use of the H-1B visa, saying he fully backs the program for foreign tech workers opposed by some of his supporters. 
+
+
+Trump's remarks followed a series of social media posts from Musk, the CEO of Tesla and SpaceX, who vowed late Friday to "go to war" to defend the visa program for foreign tech workers. 
+
+
+Trump, who moved to limit the visas' use during his first presidency, told The New York Post on Saturday he was likewise in favor of the visa program. 
+
+
+"I have many H-1B visas on my properties. I've been a believer in H-1B. I have used it many times. It's a great program," he was quoted as saying.  
+
+
+Musk, a naturalized U.S. citizen born in South Africa, has held an H-1B visa, and his electric-car company Tesla obtained 724 of the visas this year. H-1B visas are typically for three-year periods, though holders can extend them or apply for permanent residency. 
+
+
+The altercation was set off earlier this week by far-right activists who criticized Trump's selection of Sriram Krishnan, an Indian American venture capitalist, to be an adviser on artificial intelligence, saying he would have influence on the Trump administration's immigration policies. 
+
+
+Musk's tweet was directed at Trump's supporters and immigration hard-liners who have increasingly pushed for the H-1B visa program to be scrapped amid a heated debate over immigration and the place of skilled immigrants and foreign workers brought into the country on work visas. 
+
+
+On Friday, Steve Bannon, a longtime Trump confidante, critiqued "big tech oligarchs" for supporting the H-1B program and cast immigration as a threat to Western civilization. 
+
+
+In response, Musk and many other tech billionaires drew a line between what they view as legal immigration and illegal immigration. 
+
+
+Trump has promised to deport all immigrants who are in the U.S. illegally, deploy tariffs to help create more jobs for American citizens, and severely restrict immigration. 
+
+
+The visa issue highlights how tech leaders such as Musk — who has taken an important role in the presidential transition by advising on key personnel and policy areas — are now drawing scrutiny from his base. 
+
+
+The U.S. tech industry relies on the government's H-1B visa program to hire foreign skilled workers to help run its companies, a labor force that critics say undercuts wages for American citizens.  
+
+
+Musk spent more than a quarter of a billion dollars helping Trump get elected in November. He has posted regularly this week about the lack of homegrown talent to fill all the needed positions in American tech companies. 
+
+<br> 
+
+<https://www.voanews.com/a/7917156.html>
+
+---
+
+## Trump energy plans complicated by tariffs, global competition
+
+date: 2024-12-28, from: VOA News USA
+
+A different approach to energy is at the center of President-elect Donald Trump’s promise to bring down the cost of living for Americans. But as VOA’s Congressional Correspondent Katherine Gypson reports, Trump’s plans could be complicated by a complex global interdependence on oil and gas supplies. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-energy-plans-complicated-by-tariffs-global-competition/7916993.html>
+
+---
+
+##  The Year Of The Master Plan 
+
+date: 2024-12-28, from: The Lever News
+
+ The results are in, and they’ve exceeded our wildest hopes.  
+
+<br> 
+
+<https://www.levernews.com/the-year-of-the-master-plan/>
+
+---
+
+## US agency says decongestant in many cold medicines doesn't work. So what does?
+
+date: 2024-12-28, from: VOA News USA
+
+WASHINGTON — Changes are coming to the cold and cough aisle of your local pharmacy: U.S. officials are moving to phase out the leading decongestant found in hundreds of over-the-counter medicines, concluding that it doesn't actually relieve nasal congestion.
+
+
+Phenylephrine is used in popular versions of Sudafed, Dayquil and other medications, but experts have long questioned its effectiveness. Last month the Food and Drug Administration formally proposed revoking its use in pills and liquid solutions, kicking off a process that's likely to force drugmakers to remove or reformulate products.
+
+
+It's a win for skeptical academics, including researchers at the University of Florida who petitioned the FDA to revisit the drug's use in 2007 and again in 2015. For consumers it will likely mean switching to alternatives, including an older decongestant that was moved behind the pharmacy counter nearly 20 years ago.
+
+
+Doctors say Americans will be better off without phenylephrine, which is often combined with other medicines to treat cold, flu, fever and allergies.
+
+
+"People walk into the drugstore today and see 55,000 medicines on the shelf and they pick one that is definitely not going to work," said Dr. Brian Schroer of the Cleveland Clinic. "You take away that option and it will be easier for them to self-direct toward products that really will help them."
+
+
+Why is FDA doing this now?
+
+
+The FDA decision was expected after federal advisers last year voted unanimously that oral phenylephrine medications haven't been shown to relieve congestion.
+
+
+Experts reviewed several recent, large studies indicating that phenylephrine was no better than a placebo at clearing nasal passageways. They also revisited studies from the 1960s and 1970s that supported the drug's initial use, finding numerous flaws and questionable data.
+
+
+The panel's opinion only applied to phenylephrine in oral medications, which account for roughly $1.8 billion in annual U.S. sales. The drug is still considered effective in nasal sprays, though those are much less popular.
+
+
+Phenylephrine wasn't always the top choice for cold and allergy products. Many were originally formulated with a different drug, pseudoephedrine.
+
+
+But a 2006 law required pharmacies to move pseudoephedrine products behind the counter, citing their potential to be processed into methamphetamine. Companies such as Johnson & Johnson and Bayer decided to reformulate their products to keep them readily available on store shelves — and labeled many of them as "PE" versions of familiar brand names.
+
+
+What are some alternatives for congestion?
+
+
+Consumers who still want to take pills or syrups for relief will probably need to head to the pharmacy counter — where the pseudoephedrine-containing versions of Sudafed, Claritin D and other products remain available without a prescription. Purchasers need to provide a photo ID.
+
+
+Beyond those products, most of the other options are over-the-counter nasal sprays or solutions.
+
+
+Saline drops and rinses are a quick way to clear mucus from the nose. For long-term relief from seasonal stuffiness, itching and sneezing, many doctors recommend nasal steroids, sold as Flonase, Nasacort and Rhinocort.
+
+
+"These medicines are by far the most effective daily treatment for nasal congestion and stuffiness," Schroer said. "The biggest issue is they're not great when used on an as-needed basis."
+
+
+Nasal steroids generally have to be used daily to be highly effective. For short-term relief, patients can try antihistamine sprays, such as Astepro, which are faster acting.
+
+
+Phenylephrine-based sprays will also remain on pharmacy shelves.
+
+
+Why doesn't phenylephrine work when taken by mouth?
+
+
+The experts who challenged the drug's effectiveness say it's quickly broken down and rendered ineffective when it hits the stomach.
+
+
+"This is a good drug, but not when it's swallowed," said Leslie Hendeles, professor emeritus at the University of Florida's College of Pharmacy, where he co-authored several papers on the ingredient. "It's inactivated in the gut and doesn't get into the bloodstream, so it can't get to the nose."
+
+
+When Hendeles and his colleagues first petitioned the FDA on phenylephrine, they suggested a higher dose might be effective. But subsequent studies showed that even doses 400% higher than those currently recommended don't treat stuffiness.
+
+
+The FDA and other researchers concluded that pushing the dosage even higher might carry safety risks.
+
+
+"If you're using very high doses, the risk is raising blood pressure so high that it could be hazardous to patients," said Randy Hatton, a University of Florida professor who co-led the research on phenylephrine.
+
+
+Because of its cardiovascular effects, the drug is sometimes used to treat dangerously low blood pressure during surgery, Hatton noted.
+
+
+What happens next?
+
+
+Oral phenylephrine medicines will still be with us for a while.
+
+
+Government regulators must follow a public, multistep process to remove the ingredient from FDA's list of drugs approved for over-the-counter decongestants.
+
+
+For six months, the FDA must take comments on its proposal, including from consumers and companies. Then, the FDA must review the feedback before writing a final order. Even after that decision is finalized, companies will likely have a year or more to remove or reformulate products.
+
+
+Drugmakers could further delay the process by requesting additional FDA hearings.
+
+
+For now, the Consumer Healthcare Products Association — which represents medicine makers — wants the products to stay available, saying Americans deserve "the option to choose the products they prefer for self-care."
+
+
+Hatton says he and his colleagues disagree: "Our position is that choosing from something that doesn't work isn't really a choice." 
+
+<br> 
+
+<https://www.voanews.com/a/us-agency-says-decongestant-in-many-cold-medicines-doesn-t-work-so-what-does-/7914334.html>
+
+---
+
+## CDC says bird flu virus likely mutated within a US patient
+
+date: 2024-12-28, from: VOA News USA
+
+A genetic analysis suggests the bird flu virus mutated inside a Louisiana patient who contracted the nation’s first severe case of the illness, the U.S. Centers for Disease Control and Prevention said this week.
+
+
+Scientists believe the mutations may allow the virus to better bind to receptors in the upper airways of humans — something they say is concerning but not a cause for alarm.
+
+
+Michael Osterholm, a University of Minnesota infectious-disease researcher, likened this binding interaction to a lock and key. To enter a cell, the virus needs to have a key that turns the lock, and this finding means the virus may be changing to have a key that might work.
+
+
+“Is this an indication that we may be closer to seeing a readily transmitted virus between people? No,” Osterholm said. “Right now, this is a key that sits in the lock, but it doesn’t open the door.”
+
+
+The virus has been causing sporadic, mostly mild illnesses in people in the United States; nearly all of those infected worked on dairy or poultry farms.
+
+
+The patient in the U.S. state of Louisiana was hospitalized in critical condition with severe respiratory symptoms from bird flu after coming in contact with sick and dead birds in a backyard flock. The person, who has not been identified, is older than 65 and has underlying medical problems, officials said earlier this month.
+
+
+The CDC stressed there has been no known transmission of the virus from the Louisiana patient to anyone else. The agency said its findings about the mutations were “concerning,” but the risk to the general public from the outbreak “has not changed and remains low.”
+
+
+Still, Osterholm said, scientists should continue to follow what’s happening with mutations carefully.
+
+
+“There will be additional influenza pandemics, and they could be much worse than we saw with COVID," he said. "We know that the pandemic clock is ticking. We just don’t know what time it is.” 
+
+<br> 
+
+<https://www.voanews.com/a/cdc-says-bird-flu-virus-likely-mutated-within-a-us-patient/7916733.html>
+
+---
+
+## US proposes cybersecurity rules to limit impact of health data leaks
+
+date: 2024-12-28, from: VOA News USA
+
+Health care organizations may be required to bolster their cybersecurity to better prevent sensitive information from being leaked by cyberattacks like the ones that hit Ascension and UnitedHealth, a senior White House official said Friday.
+
+
+Anne Neuberger, the U.S. deputy national security adviser for cyber and emerging technology, told reporters that proposed requirements are necessary in light of the massive number of Americans whose data has been affected by large breaches of health care information. The proposals include encrypting data so it cannot be accessed, even if leaked, and requiring compliance checks to ensure networks meet cybersecurity rules.
+
+
+The full proposed rule was posted to the Federal Register on Friday, and the Department of Health and Human Services posted a more condensed breakdown on its website.
+
+
+She said that the health care information of more than 167 million people was affected in 2023 as a result of cybersecurity incidents.
+
+
+The proposed rule from the Office for Civil Rights (OCR) within HHS would update standards under the Health Insurance Portability and Accountability Act and would cost an estimated $9 billion in the first year, and $6 billion in years two through five, Neuberger said.
+
+
+"We've made some significant proposals that we think will improve cybersecurity and ultimately everyone's health information, if any of these proposals are ultimately finalized," an OCR spokesperson told Reuters late Friday. The next step in the process is a 60-day public comment period before any final decisions will be made.
+
+
+Large health care breaches caused by hacking and ransomware have increased by 89% and 102%, respectively, since 2019, Neuberger said.
+
+
+"In this job, one of the most concerning and really troubling things we deal with is hacking of hospitals, hacking of health care data," she said.
+
+
+Hospitals have been forced to operate manually and Americans' sensitive health care data, mental health information and other information are "being leaked on the dark web with the opportunity to blackmail individuals," Neuberger said. 
+
+<br> 
+
+<https://www.voanews.com/a/us-proposes-cybersecurity-rules-to-limit-impact-of-health-data-leaks-/7916725.html>
 

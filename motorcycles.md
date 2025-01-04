@@ -1,11 +1,24 @@
 ---
 title: motorcycles
-updated: 2025-01-03 07:05:10
+updated: 2025-01-04 07:05:03
 ---
 
 # motorcycles
 
-(date: 2025-01-03 07:05:10)
+(date: 2025-01-04 07:05:03)
+
+---
+
+## Ola Electric Just Opened 3,200 New Stores, Which Could Be a Good Or Bad Thing
+
+date: 2025-01-03, from: Ride Apart, Electric Motorcycle News
+
+After being on the receiving end of backlash surrounding its customer service, the company wants to appease its clientele. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/745965/ola-electric-3200-new-stores-india/>
 
 ---
 
@@ -312,4 +325,29 @@ But that doesn’t make them any less badass.
 <br> 
 
 <https://www.rideapart.com/news/745563/2025-triumph-rocket-3-evel-knievel-limited-edition/>
+
+---
+
+## Aprilia Went Way Overboard With Its 2025 RS and Tuono 125 Beginner Bikes
+
+date: 2024-12-28, from: Ride Apart, Electric Motorcycle News
+
+ABS, traction control, a quick shifter, and Bluetooth connectivity—how much tech is too much tech for a supposed beginner bike?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/745564/2025-aprilia-rs-tuono-125-specs-features/>
+
+---
+
+## AI Gives Nothing New For Championship Scenario That Fans, Drivers And Astute NASCAR Officials Don’t Already Know
+
+date: 2024-12-28, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor Upon reading a comment by NASCAR Chief Operating Officer, Steve O&#8217;Donnell, stating the sanctioning body is considering options to utilize Artificial Intelligence (AI) in ways that&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/ai-gives-nothing-new-for-championship-scenario-that-fans-drivers-and-astute-nascar-officials-dont-already-know/>
 

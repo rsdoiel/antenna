@@ -1,11 +1,158 @@
 ---
 title: socal north
-updated: 2025-01-03 07:05:07
+updated: 2025-01-04 07:05:00
 ---
 
 # socal north
 
-(date: 2025-01-03 07:05:07)
+(date: 2025-01-04 07:05:00)
+
+---
+
+## It started as a refuge for excluded art students. Now this show is celebrating 20 years
+
+date: 2025-01-03, updated: 2025-01-03, from: The LAist
+
+At an upcoming exhibition hosted by Cal State Long Beach, Greater L.A.’s next generation of artists are honing their skills and building community. 
+
+<br> 
+
+<https://laist.com/news/education/glamfa-cal-state-long-beach-los-angeles-artists>
+
+---
+
+## Apple to pay $95 million to settle lawsuit accusing Siri of eavesdropping
+
+date: 2025-01-03, updated: 2025-01-03, from: The LAist
+
+Apple isn't acknowledging wrongdoing in the settlement, which still must be approved by a U.S. District judge. 
+
+<br> 
+
+<https://laist.com/news/apple-95-million-settlement-lawsuit-siri-eavesdropping>
+
+---
+
+## Derek Tran sworn in as Little Saigon's first Vietnamese American Congress member
+
+date: 2025-01-03, updated: 2025-01-03, from: The LAist
+
+The Democrat defeated Republican Michelle Steel in one of the country's most expensive House races in the country. 
+
+<br> 
+
+<https://laist.com/news/politics/derek-tran-sworn-in-little-saigon-first-vietnamese-american-congress-member>
+
+---
+
+## A jury trial could force Huntington Beach to switch to by-district elections
+
+date: 2025-01-03, updated: 2025-01-03, from: The LAist
+
+A lawsuit filed against the city alleges the current at-large model disenfranchises Latino residents. 
+
+<br> 
+
+<https://laist.com/news/politics/a-jury-trial-could-force-huntington-beach-to-switch-to-by-district-elections>
+
+---
+
+## As California tribes sue their gambling rivals, cities could be the losers
+
+date: 2025-01-03, updated: 2025-01-03, from: The LAist
+
+California tribes sue card rooms over alleged illegal gambling, threatening millions in tax revenue for local city services like police. 
+
+<br> 
+
+<https://laist.com/news/as-california-tribes-sue-their-gambling-rivals-cities-could-be-the-losers>
+
+---
+
+## Cowboys and cowgirls, candy and compost and the CISC
+
+date: 2025-01-03, from: Catalina Islander
+
+The year 2024 has been a great one out at Middle Ranch, home of the Catalina Island Saddle Club a non-profit co-op of horse owners founded in 1998. We welcomed 2 new horses, Sedona and Samson, after the Los Caballeros Ride in September, and although they were only briefly members, we were happy to get [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/cowboys-and-cowgirls-candy-and-compost-and-the-cisc/>
+
+---
+
+## Medical cannabis to return to council
+
+date: 2025-01-03, from: Catalina Islander
+
+City staff will ask the council to resubmit the request for proposals for licensed medical cannabis in Avalon this month. During City Manager David Maistros’ report to the Dec. 17 council meeting, Maistros said 4 p.m., Monday, Dec. 16, was the deadline to apply for an open medical cannabis business in town. (Avalon voters rejected [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/medical-cannabis-to-return-to-council/>
+
+---
+
+## Sheriff’s Log: Dec. 18, 2024, to Jan.-1, 2025
+
+date: 2025-01-03, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Dec. 18, 2024, to Jan.-1, 2025. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/sheriffs-log-dec-18-2024-to-jan-1-2025/>
+
+---
+
+## City hires Tandem Solutions to update Avalon’s hazard plan
+
+date: 2025-01-03, from: Catalina Islander
+
+Avalon City Council will hire Tandem Solutions to update the city’s Local Hazard Mitigation Plan on Dec. 17. The cost: A maximum of $95,000. The project will be paid with a federal grant. The decision was unanimous. To be technical, the council authorized the city manager to execute the contract. This was a Consent Calendar [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/city-hires-tandem-solutions-to-update-avalons-hazard-plan/>
+
+---
+
+## Want to go camping near the Bay Area this summer? Make your reservations now (seriously)
+
+date: 2025-01-03, updated: 2025-01-03, from: The LAist
+
+If you want to head into the outdoors this summer, then now might actually be time to make your campsite reservations. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/camping-ca-reservations>
+
+---
+
+## Supporters of Re-Sentencing for Menendez Brothers to Meet with Hochman
+
+date: 2025-01-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="597" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?fit=1024%2C597&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?w=2041&amp;ssl=1 2041w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=300%2C175&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=1024%2C597&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=768%2C448&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=1536%2C896&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=400%2C233&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=706%2C412&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=1200%2C700&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=1568%2C914&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=2000%2C1166&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?fit=1024%2C597&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; A family-led coalition trying to secure re-sentencing for Erik and Lyle Menendez, who are serving life sentences without parole for the 1989 shotgun slayings of their [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/03/supporters-of-re-sentencing-for-menendez-brothers-to-meet-with-hochman/">Supporters of Re-Sentencing for Menendez Brothers to Meet with Hochman</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/03/supporters-of-re-sentencing-for-menendez-brothers-to-meet-with-hochman/>
+
+---
+
+## Can California keep ICE away from schools? Lawmakers want to try as crackdowns loom
+
+date: 2025-01-03, updated: 2025-01-03, from: The LAist
+
+California legislators want to limit deportation actions at schools, but they can’t ban immigration officials. 
+
+<br> 
+
+<https://laist.com/news/education/california-ice-schools-lawmakers-crackdowns-loom>
 
 ---
 
@@ -710,4 +857,54 @@ Local scuba divers work to clean up “ghost nets.”
 <br> 
 
 <https://laist.com/news/climate-environment/volunteers-ocean-underwater-menace-ghost-net>
+
+---
+
+## Fresh Ideas for Staying Active in the New Year
+
+date: 2024-12-28, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin With the new year beginning, it’s a great time to create personal goals, and embrace a fresh start that encourages health and happiness. Whether you want to get active, enjoy more time outside or explore new activities, our City provides countless recreational options to support your goals. Santa Clarita is [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/12/28/fresh-ideas-for-staying-active-in-the-new-year/">Fresh Ideas for Staying Active in the New Year</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/12/28/fresh-ideas-for-staying-active-in-the-new-year/>
+
+---
+
+## Winning ticket for $1.22 billion lottery jackpot sold in California, Mega Millions says
+
+date: 2024-12-28, updated: 2024-12-28, from: The LAist
+
+After three months without anyone winning the top prize in the lottery, a ticket worth an estimated $1.22 billion was sold in California for the drawing Friday night. 
+
+<br> 
+
+<https://laist.com/news/winning-ticket-for-1-22-billion-lottery-jackpot-sold-in-california-mega-millions-says>
+
+---
+
+## Trump allies warn California leaders, including LA Mayor Karen Bass, that they could go to prison over sanctuary city laws
+
+date: 2024-12-28, updated: 2024-12-29, from: The LAist
+
+A conservative organization led by Trump adviser Stephen Miller sent letters to California leaders warning of ‘serious consequences’ over sanctuary policies that protect undocumented residents. 
+
+<br> 
+
+<https://laist.com/news/trump-allies-warn-california-leaders-they-could-go-to-prison-over-sanctuary-city-laws>
+
+---
+
+## He built a massive train set in his Altadena backyard. Tonight's your last chance to see it
+
+date: 2024-12-28, updated: 2025-01-04, from: The LAist
+
+Rob Caves and members of the Christmas Tree Lane Model Railroad Society have built a gigantic model train set that is ever expanding in his backyard. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/altadena-christmas-tree-lane-model-train-set>
 

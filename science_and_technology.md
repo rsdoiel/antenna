@@ -1,11 +1,275 @@
 ---
 title: science and technology
-updated: 2025-01-03 07:05:08
+updated: 2025-01-04 07:05:01
 ---
 
 # science and technology
 
-(date: 2025-01-03 07:05:08)
+(date: 2025-01-04 07:05:01)
+
+---
+
+## Apple Vision Pro may now be out of production
+
+date: 2025-01-03, from: OS News
+
+Apple&#8217;s first-generation Vision Pro headset may have now ceased production, following reports of reduced demand and production cuts earlier in the year. ↫ Hartley Charlton at MacRumors I think we&#8217;ll live. 
+
+<br> 
+
+<https://www.osnews.com/story/141478/apple-vision-pro-may-now-be-out-of-production/>
+
+---
+
+## NVIDIA’s RTX 5090 will supposedly have a monstrous 575W TDP
+
+date: 2025-01-03, from: OS News
+
+The RTX 5090 and RTX 5080 are receiving their final updates. According to two highly reliable leakers, the RTX 5090 is officially a 575W TDP model, confirming that the new SKU requires significantly more power than its predecessor, the RTX 4090 with TDP of 450W. According to Kopite, there has also been an update to the RTX 5080 specifications. While the card was long rumored to have a 400W TDP, the final figure is now set at 360W. This change is likely because NVIDIA has confirmed the TDP, as opposed to earlier TGP figures that are higher and represent the maximum power limit required by NVIDIA&#8217;s specifications for board partners. ↫ WhyCry at VideoCardz.com These kinds of batshit insane GPU power power requirements are eventually going to run into the limits of the kind of airflow an ATX case can provide. We&#8217;re still putting the airflow stream of GPUs (bottom to top) perpendicular to the airflow through the case (front to back) like it&#8217;s 1987, and you&#8217;d think at least someone would be thinking about addressing this &#8211; especially when a GPU is casually dumping this much heat into the constrained space within a computer case. I don&#8217;t want more glass and gamer lights. I want case makers to hire at least one proper fluid dynamics engineer. 
+
+<br> 
+
+<https://www.osnews.com/story/141476/nvidias-rtx-5090-will-supposedly-have-a-monstrous-575w-tdp/>
+
+---
+
+## NASA Small Business Funding Enables Aircraft Inspection by Drone
+
+date: 2025-01-03, from: NASA breaking news
+
+A small business called Near Earth Autonomy developed a time-saving solution using drones for pre-flight checks of commercial airliners through a NASA Small Business Innovation Research (SBIR) program and a partnership with The Boeing Company. Before commercial airliners are deemed safe to fly before each trip, a pre-flight inspection must be completed. This process can [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/flight-innovation/nasa-small-business-funding-enables-aircraft-inspection-by-drone/>
+
+---
+
+## First Foxconn, now Microsoft: Wisconsin town dissed by big tech
+
+date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>Redmond&#39;s pause to redesign planned datacenters won&#39;t scuttle <i>this</i> project, say Mount Pleasant officials</h4> <p>Count the residents of Mount Pleasant, Wisconsin opposed to their town becoming a tech hub lucky: First, Foxconn abandoned its original $10 billion LCD factory plan in the town, and now Microsoft has reportedly paused construction on portions of its $3.3 billion datacenter campus, which is being built on land initially optioned for Foxconn&#39;s megaproject.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/03/microsoft_pauses_datacenter_construction/>
+
+---
+
+## NASA to Host Media Call Highlighting Mars Sample Return Update
+
+date: 2025-01-03, from: NASA breaking news
+
+NASA Administrator Bill Nelson and Nicky Fox, associate administrator, Science Mission Directorate, will host a media teleconference at 1 p.m. EST, Tuesday, Jan. 7, to provide an update on the status of the agency’s Mars Sample Return Program. The briefing will include NASA’s efforts to complete its goals of returning scientifically selected samples from Mars [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-host-media-call-highlighting-mars-sample-return-update/>
+
+---
+
+## Exceptionally Well-Preserved Gold Ring Featuring 'Venus the Victorious' Unearthed on Ancient Road in France
+
+date: 2025-01-03, from: Smithsonian Magazine
+
+In addition to the 1,800-year-old piece of engraved jewelry, archaeologists discovered a trove of Carolingian coins, medieval pottery and more 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/exceptionally-well-preserved-gold-ring-featuring-venus-the-victorious-unearthed-on-ancient-road-in-france-180985770/>
+
+---
+
+## Approval to Exceed GSA Lodging for LPSC 2025
+
+date: 2025-01-03, from: NASA breaking news
+
+This letter from SARA is to issue a waiver for NASA grantees attending the 2025 Lunar and Planetary Science Conference (LPSC), allowing them to be reimbursed out of their grants for their actual lodging, although it’s expected to be above the approved GSA amount. This waiver does not supersede the travel policy of your institution […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/for-researchers/approval-to-exceed-gsa-lodging-for-lpsc-2025/>
+
+---
+
+## Summary of the Third Annual AEOIP Workshop
+
+date: 2025-01-03, from: NASA breaking news
+
+Introduction The Applied Earth Observations Innovation Partnership (AEOIP) was established in 2018 to facilitate knowledge coproduction and optimization of NASA Earth observations that can be used by natural resource managers for decision making. Through continued iteration and reflection, coproduction brings together stakeholders to share responsibilities and the completion of activities towards a common goal. AEOIP […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/summary-of-the-third-annual-aeoip-workshop/>
+
+---
+
+## We’re paying for what we don’t get: East D.C. neighbors frustrated with Amazon’s Prime delivery exclusions
+
+date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>Locals demand transparency - and a refund wouldn&#39;t hurt</h4> <p><strong>Feature</strong>  When data scientist Andrew Breza learned that the Washington, D.C. attorney general was suing Amazon for excluding his zip code from its fastest delivery service, he immediately wanted to see the proof for himself - and he found it. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/03/amazon_delivery_exclusions_dc/>
+
+---
+
+## A Virginia Zoo Now Has Its Own Moo Deng—See the 'Adorable' Baby Pygmy Hippo Born in December
+
+date: 2025-01-03, from: Smithsonian Magazine
+
+The young female made her public debut this week, and the Metro Richmond Zoo is asking fans to vote on her name—a choice between Poppy and Hammie Mae 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-virginia-zoo-now-has-its-own-moo-deng-see-the-adorable-baby-pygmy-hippo-born-in-december-180985769/>
+
+---
+
+## Media Day with Artemis II Crews
+
+date: 2025-01-03, from: NASA breaking news
+
+From left, CSA (Canadian Space Agency) astronaut Jenni Gibbons, NASA astronaut Andre Douglas, CSA astronaut Jeremy Hansen, and NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman participate in a media day event on Monday, Dec. 16, 2024, inside the Vehicle Assembly Building at the agency’s Kennedy Space Center in Florida. Gibbons and Douglas are [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/media-day-with-artemis-ii-crews/>
+
+---
+
+## Idaho Students to Connect with NASA Astronaut Aboard Space Station
+
+date: 2025-01-03, from: NASA breaking news
+
+Students from Hawthorne Elementary School in Boise, Idaho, will have the chance to hear NASA astronaut Don Pettit answer their prerecorded science, technology, engineering, and math (STEM) related questions from aboard the International Space Station. Watch the 20-minute space-to-Earth call at 12:30 p.m. EST Friday, Jan. 10, on NASA+ and learn how to watch NASA [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/idaho-students-to-connect-with-nasa-astronaut-aboard-space-station/>
+
+---
+
+## With datacenter power crisis looming, US government looks to Constellation
+
+date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>Not just AWS, Microsoft et al that are betting on nuclear energy, 13 federal agencies get in on act too</h4> <p>Constellation Energy has won contracts worth more than $1 billion from the US government to supply nuclear power to over 13 federal agencies, validating efforts by datacenter operators to secure their own atomic sources.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/03/us_gov_nuclear_energy/>
+
+---
+
+## NASA’s LEXI Will Provide X-Ray Vision of Earth’s Magnetosphere
+
+date: 2025-01-03, from: NASA breaking news
+
+A NASA X-ray imager is heading to the Moon as part of NASA’s Artemis campaign, where it will capture the first global images of the magnetic field that shields Earth from solar radiation. The Lunar Environment Heliospheric X-ray Imager, or LEXI, instrument is one of 10 payloads aboard the next lunar delivery through NASA’s CLPS (Commercial […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/nasas-lexi-will-provide-x-ray-vision-of-earths-magnetosphere/>
+
+---
+
+## Rare and Giant Steller's Sea Eagle Spotted Thousands of Miles From Home in Eastern Canada Park
+
+date: 2025-01-03, from: Smithsonian Magazine
+
+The bird, thought to be the only one of its kind in the Western Hemisphere, is presumed to be Stella, an out-of-place raptor spotted at sites across North America in recent years 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/rare-and-giant-stellers-sea-eagle-spotted-thousands-of-miles-from-home-in-eastern-canada-park-180985761/>
+
+---
+
+## US logic in question, but perhaps American memory can still prevail
+
+date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>With Intel&#39;s foundry future in doubt, Micron takes center stage in US Chips Act push</h4> <p><strong>Comment</strong>  The US once led the world in the development and manufacturing of semiconductors and integrated circuits. And the $280 billion US CHIPS and Science Act sought to reestablish the country as a semiconductor manufacturing superpower and alleviate reliance on foreign fabs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/03/micron_us_memory/>
+
+---
+
+## NASA, NOAA to Announce 2024 Global Temperatures, Climate Conditions
+
+date: 2025-01-03, from: NASA breaking news
+
+Climate researchers from NASA and NOAA (National Oceanic and Atmospheric Administration) will release their annual assessments of global temperatures and discuss the major climate trends of 2024 during a media briefing at 12 p.m. EST Friday, Jan. 10. NASA will share the briefing on the agency’s website at: https://www.nasa.gov/live. Participants will include: Media interested in [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-noaa-to-announce-2024-global-temperatures-climate-conditions/>
+
+---
+
+## Lagniappe for January 2025
+
+date: 2025-01-03, from: NASA breaking news
+
+Explore Lagniappe for January 2025 featuring: Gator Speaks This time of year is one Gator enjoys. The ending of one year and beginning of another provides the opportunity to reflect, reset, and refocus. This is true at NASA Stennis, a place that powers space dreams, or for someone who enjoys staying up to date with [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-january-2025/>
+
+---
+
+## Once Feared Extinct, 1,329 Pea-Sized Snails Have Been Released on an Atlantic Island After Captive Breeding Effort
+
+date: 2025-01-03, from: Smithsonian Magazine
+
+Goats, rodents and habitat loss threatened the snails on Deserta Grande Island, so the mollusks were reintroduced on a neighboring island that’s free of invasive species 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/once-feared-extinct-1329-pea-sized-snails-have-been-released-on-an-atlantic-island-after-captive-breeding-effort-180985764/>
+
+---
+
+## How a good business deal made us underestimate BASIC
+
+date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>A somewhat savvy hardware move may have hurt street cred of an important language</h4> <p><strong>Feature</strong>  A generation of gray-haired IT folks learned computing using BASIC on 1980s home computers. Every pro since then holds it in disdain. What happened?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/03/reevaluating_basics_legacy/>
+
+---
+
+## The Museum of Bad Gifts Is a Celebration of Outlandish Objects, From Ceramic Clowns to Cat Nail Clippings
+
+date: 2025-01-03, from: Smithsonian Magazine
+
+Presented like pieces of fine art, the peculiar presents are mounted on the walls of a gallery in Toronto. Many of them will ultimately be sold at auction 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-museum-of-bad-gifts-is-a-celebration-of-outlandish-objects-from-ceramic-clowns-to-cat-nail-clippings-180985759/>
+
+---
+
+## Mission Possible: Coordinating Travel for NASA Employees
+
+date: 2025-01-03, from: NASA breaking news
+
+A leap of faith for Heather Seagren eight years ago brought the Gulf Coast native to something new, yet also returned her to a familiar place at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Following graduation from Pearl River Community College, Seagren worked as an office manager at a pediatric office. Seagren anticipated [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/heather-seagren-coordinating-travel-for-stennis-employees/>
 
 ---
 
@@ -71,7 +335,7 @@ date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
 
 ## Nick Clegg steps down as Meta's top flack in favor of more Trump-friendly candidate
 
-date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+date: 2025-01-03, updated: 2025-01-04, from: The Register (UK I.T. News)
 
 <h4>Runny Clegg scrambles for door</h4> <p>The Right Honourable Sir Nick Clegg (to give him his full title) has stepped down from his job as Meta&#39;s president of global affairs.…</p> 
 
@@ -90,6 +354,18 @@ date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/01/03/accenture_wins_35_million_more/>
+
+---
+
+## Stumbling ERP project racks up sales losses greater than budget
+
+date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+
+<h4>South African retailer struggles with SAP implementation, says it is making improvements</h4> <p>Readers will be familiar with the concept of return on investment (ROI) — when a tech project saves more than it costs — but less well-known is the idea that, like in particle physics, there exists an anti-ROI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/03/erp_project_sap_sales_losses/>
 
 ---
 
@@ -335,7 +611,7 @@ The colorful wall paintings adorn Boston's Old North Church, which played a cruc
 
 ## Will 2025 be the year satellite-to-smartphone services truly take off?
 
-date: 2025-01-02, updated: 2025-01-02, from: The Register (UK I.T. News)
+date: 2025-01-02, updated: 2025-01-03, from: The Register (UK I.T. News)
 
 <h4>Connectivity direct to unmodified mobes looms, thanks to Starlink and co</h4> <p><strong>Analysis</strong>  This year saw the launch of the first satellite constellations designed to provide commercial services straight to unmodified smartphones, which looks set to become the biggest satellite use case, with the US leading the way on adoption.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -347,9 +623,9 @@ date: 2025-01-02, updated: 2025-01-02, from: The Register (UK I.T. News)
 
 ## It's been 20 years since Oracle bought two software rivals, changing the market forever
 
-date: 2025-01-02, updated: 2025-01-02, from: The Register (UK I.T. News)
+date: 2025-01-02, updated: 2025-01-03, from: The Register (UK I.T. News)
 
-<h4>After lawsuits and poison pills, PeopleSoft and JD Edwards failed to resist the lure of Oracle&#39;s ambition</h4> <p><strong>Feature</strong>  Twenty years ago next week, <a target="_blank" href="https://www.theregister.com/2005/01/07/oracle_finishes_psft/">Oracle closed</a> the $10.3 billion deal to buy HR and finance software specialist PeopleSoft after a fraught, drawn-out, hostile takeover.…</p> 
+<h4>After lawsuits and poison pills, PeopleSoft and JD Edwards failed to resist the lure of Larry&#39;s ambition</h4> <p><strong>Feature</strong>  Twenty years ago next week, <a target="_blank" href="https://www.theregister.com/2005/01/07/oracle_finishes_psft/">Oracle closed</a> the $10.3 billion deal to buy HR and finance software specialist PeopleSoft after a fraught, drawn-out, hostile takeover.…</p> 
 
 <br> 
 
@@ -1014,4 +1290,88 @@ The mass murder made sensational news at the time, but getting to the heart of t
 <br> 
 
 <https://www.smithsonianmag.com/smart-news/on-this-day-in-1890-the-us-army-killed-nearly-300-lakota-people-in-the-wounded-knee-massacre-180985745/>
+
+---
+
+## IncludeOS: a minimal, resource efficient unikernel for cloud services
+
+date: 2024-12-28, from: OS News
+
+IncludeOS is an includable, minimal unikernel operating system for C++ services running in the cloud and on real HW. Starting a program with #include &#60;os> will literally include a tiny operating system into your service during link-time. ↫ IncludeOS GitHub page IncludeOS isn&#8217;t exactly the only one of its kind, but I&#8217;ve always been slightly mystified by what, exactly, unikernels are for. The gist is, as far as I understand it, that if you build an application using a unikernel, it will find out at compile time exactly what it needs from the operating system to run, and then everything it needs from the operating system to run will be linked inside the resulting application. This can then be booted directly by a hypervisor. The advantages are clear: you don&#8217;t have to deal with an entire operating system just to run that one application or service you need to provide, and footprint is kept to a minimum because only the exact dependencies the application needs from the operating system are linked to it during compilation. The downsides are obvious too &#8211; you&#8217;re not running an operating system so it&#8217;s far less flexible, and if issues are found in the unikernel you&#8217;re going to have to recompile the application and the operating system bits inside of it just to fix it (at least, I think that&#8217;s the case &#8211; don&#8217;t quote me on it). IncludeOS is under heavy development, so take that under advisement if you intend to use it for something serious. The last full release dates back to 2019, but it&#8217;s still under development as indicated by the GitHub activity. I hope it&#8217;ll push out a new release soon. 
+
+<br> 
+
+<https://www.osnews.com/story/141432/includeos-a-minimal-resource-efficient-unikernel-for-cloud-services/>
+
+---
+
+## Emulating HP-UX using QEMU
+
+date: 2024-12-28, from: OS News
+
+While we&#8217;re out here raising funds to make me daily-drive HP-UX 11i v1 &#8211; we&#8217;re at 59% of the goal, so I&#8217;m starting to prepare for the pain &#8211; it seems you can actually run older versions, HP-UX 10.20 and 11.00 to be specific, in a virtual machine using QEMU. QEMU is an open source computer emulation and virtualization software, first released in 2003 by Fabrice Bellard. It supports many different computer systems and includes support for many RISC architectures besides x86. PA-RISC emulation has been included in QEMU since 2018. QEMU emulates a complete computer in software without the need for specific virtualization hardware. With QEMU, a full HP Visualize B160L and C3700 workstation can be emulated to run PA-RISC operating systems like HP-UX Unix and compatible applications. ↫ Paul Weissman at OpenPA The emulation is complete enough that it can run X11 and CDE, and you can choose between emulating 32bit PA-RISC of 64bit PA-RISC. Devices and peripherals support is a bit of a mixed bag, with things like USB being only partially supported, and audio not working at all since an audio chip commonly found in PA-RISC workstations isn&#8217;t supported either. A number of SCSCI and networking devices found on HP&#8217;s workstations aren&#8217;t supported either, and a few chipsets don&#8217;t work either. As far as operating system support goes, you can run HP-UX 10.20, HP-UX 11.00, Linux, and NetBSD. Newer (11i v1 and later) and older (9.07 and 9.05) versions of HP-UX don&#8217;t work, and neither does NeXTSTEP 3.3. Some of these issues probably stem from missing QEMU drivers, others from a lack of testing; PA-RISC is, after all, not one of the most popular of the dead UNIX architectures, with things like SPARC and MIPS usually taking most of the spotlight. Absolutely nothing beats running operating systems on the bare metal they&#8217;re designed for, but with PA-RISC hardware becoming ever harder to obtain, it makes sense for emulation efforts to pick up speed so more people can explore HP-UX. I&#8217;m weirdly into HP-UX, despite its reputation as a difficult platform to work with, so I personally really want actual hardware, but for most of you, getting HP-UX 11i to work properly on QEMU is most likely the only way you will ever experience this commercial UNIX. 
+
+<br> 
+
+<https://www.osnews.com/story/141430/emulating-hp-ux-using-qemu/>
+
+---
+
+## A systemd-sysupdate plugin for GNOME Software
+
+date: 2024-12-28, from: OS News
+
+In late June 2024 I got asked to take over the work started by&#160;Jerry Wu&#160;creating a&#160;systemd-sysupdate&#160;plugin for&#160;Software. The goal was to allow Software to update sysupdate targets, such as base system images or&#160;system extension images, all while respecting the user’s preferences such as whether to download updates on metered connections. To do so, the plugin communicates with the&#160;systemd-sysupdated&#160;daemon via its&#160;org.freedesktop.sysupdate1&#160;D-Bus interface. I didn’t know many of the things required to complete this project and it’s been a lot to chew in one bite for me, hence how long it took to complete. ↫ Adrien Plazas This new plugin was one of the final pieces of moving GNOME OS &#8211; which we talked about before &#8211; from OSTree to sysupdate, which in turn is part of GNOME OS&#8217; effort to have a fully trusted boot sequence. While I&#8217;m not sure GNOME OS is something that will find a lot of uptake among the kind of people that read OSNews, I think it&#8217;s a hugely important effort to create a no-nonsense, easy-to-use Linux system for normal people to embrace. The Steam Deck employs similar implementations, and it&#8217;s easy to see why. 
+
+<br> 
+
+<https://www.osnews.com/story/141427/a-systemd-sysupdate-plugin-for-gnome-software/>
+
+---
+
+## The Tasmania LAN party photos archive reminded me of my terrible teenage fashion choices
+
+date: 2024-12-28, from: OS News
+
+I&#8217;ve never been to a LAN party, not even back in the &#8217;90s and early 2000s when they were quite the common occurance. Both my family and various friends did have multiple computers in the house, so I do have fond memories of hooking up computers through null modem cables to play Rise of the Triad, later superseded by direct Ethernet connections to play newer games. LAN parties have left lasting impressions on those that regularly attended them, but since most took place before the era of ever-present digital camera and smartphones, photos of such events are rarer than they should be. Luckily, Australian software engineer Issung did a lot of digging and eventually struck gold: a massive collection of photos and a few videos from LAN parties that took place from 1996 and 2010 in Australia. After trying a few other timestamps and a few more web searches I sadly couldn’t find anything. As a last ditch effort I made a few posts on various forums, including the long dormant Dark-Media Steam group, then I forgot about it all, until 2 months ago! Someone reached out and was able to get me into a small private Facebook group, once in I could see I had gotten more than I bargained for! I was just looking for Dark-Media photos, but found another regular LAN I had forgotten about, and photos from even more LANs from the late 90s. I was able to scrape all the photos and now upload them to&#160;archive.org&#160;where they can hopefully live forever. ↫ Issung I love browsing through these, as they bring back so many memories of the computers and dubious fashion choices of my teenage years &#8211; I used to combine different colours zip-off pants, and even had mohawks, spikes, and god knows what else before I started losing all my hair in my very early 20s. Anyway, the biggest change is the arrival of flat displays signalling the end of the widespread use of CRTs, and the slow dissappearence of beige in favour of black. Such a joy to see the trends change in these photos. If anyone else is sitting on treasure troves like these, be sure to share them with the world before it&#8217;s too late. 
+
+<br> 
+
+<https://www.osnews.com/story/141425/the-tasmania-lan-party-photos-archive-reminded-me-of-my-terrible-teenage-fashion-choices/>
+
+---
+
+## How cops taking down LockBit, ALPHV led to RansomHub's meteoric rise
+
+date: 2024-12-28, updated: 2024-12-28, from: The Register (UK I.T. News)
+
+<h4>Cut off one head, two more grow back in its place</h4> <p>RansomHub, the ransomware collective that emerged earlier this year, quickly gained momentum, outpacing its criminal colleagues and hitting its victims especially hard. The group named and shamed hundreds of organizations on its leak site, while demanding exorbitant payments across various industries.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/28/lockbit_alphv_disruptions_ransomhub_rise/>
+
+---
+
+## Discover the Story Behind a Legendary Exposé of the Brutality of the Soviet Union
+
+date: 2024-12-28, from: Smithsonian Magazine
+
+Published on this day in 1973, "The Gulag Archipelago" drew on Russian writer Aleksandr Solzhenitsyn's experiences as a political dissident in a prison camp, but it left him deported and stateless for the next two decades 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/discover-the-story-behind-a-legendary-expose-of-the-brutality-of-the-soviet-union-180985658/>
+
+---
+
+## Christmas 1984: The last hurrah for 8-bit home computers
+
+date: 2024-12-28, updated: 2024-12-28, from: The Register (UK I.T. News)
+
+<h4>Saturation point, and Nintendo and Sega, were just around the corner</h4> <p><strong>Feature</strong>  Remember the excitement of leafing through a catalog for home computer bargains? Or perhaps gazing longingly at festive tech displays in Britain&#39;s WH Smith (or ComputerLand if you lived Stateside)? Take a step back to 1984 and the last great hurrah of the home computer.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/28/christmas_1984_home_computers/>
 

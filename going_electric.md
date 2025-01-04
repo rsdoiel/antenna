@@ -1,11 +1,235 @@
 ---
 title: going electric
-updated: 2025-01-03 07:05:10
+updated: 2025-01-04 07:05:04
 ---
 
 # going electric
 
-(date: 2025-01-03 07:05:10)
+(date: 2025-01-04 07:05:04)
+
+---
+
+## Toyota is still lagging behind EV rivals in the US as bZ4X sales finally start to pick up
+
+date: 2025-01-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Toyota-bZ4X-name.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Although <a href="https://electrek.co/guides/toyota-bz4x/">Toyota bZ4X</a> sales nearly doubled last year, the auto giant is still falling behind in the US EV market. Overseas rivals like Hyundai and Kia are lapping Toyota. Even other Japanese automakers, including Honda and Nissan, are selling more EVs in the US than Toyota.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota,toyota-bz4x" data-layer-viewtype="unknown" data-post-id="396284" href="https://electrek.co/2025/01/03/toyota-bz4x-sales-finally-picking-up-but-still-behind-ev-rivals/#more-396284" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/03/toyota-bz4x-sales-finally-picking-up-but-still-behind-ev-rivals/>
+
+---
+
+## VW has a fix for its ID.4 recall, and sales are starting back up now (Updated)
+
+date: 2025-01-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/P1033167-edited-e1709159978272.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Volkswagen has identified a solution for its ID.4 recall and is ready to start producing post-recall ID.4s, with sales restarting now or soon at a dealership near you.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="395434" href="https://electrek.co/2025/01/03/vw-has-a-fix-for-its-id-4-recall-and-sales-are-starting-back-up-now/#more-395434" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/03/vw-has-a-fix-for-its-id-4-recall-and-sales-are-starting-back-up-now/>
+
+---
+
+## Podcast: Tesla deliveries, Cybertruck sales shock, Rivian surprises, and more
+
+date: 2025-01-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla’s delivery results, Cybertruck sales being disastrous, Rivian surprises, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="396209" href="https://electrek.co/2025/01/03/podcast-tesla-deliveries-cybertruck-sales-shock-rivian-surprises-and-more/#more-396209" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/03/podcast-tesla-deliveries-cybertruck-sales-shock-rivian-surprises-and-more/>
+
+---
+
+## Honda Prologue sales are on fire in the US as 2024 total reaches over 33,000
+
+date: 2025-01-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Honda-Prologue-lease-Civic.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Honda’s electric SUV is taking the US by storm. After another record month in December, <a href="https://electrek.co/guides/honda-prologue/">Honda Prologue</a> sales in the US reached over 33,000 in total in 2024.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda,honda-prologue" data-layer-viewtype="unknown" data-post-id="396264" href="https://electrek.co/2025/01/03/honda-prologue-sales-on-fire-over-33000-sold-2024/#more-396264" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/03/honda-prologue-sales-on-fire-over-33000-sold-2024/>
+
+---
+
+## Some Of Our Favorite Hyundai And Kia EVs Now Get The Tax Credit
+
+date: 2025-01-03, from: Inside EVs News
+
+The Hyundai Ioniq 5, Kia EV6 and Kia EV9  are now eligible for a $7,500 federal rebate.  
+
+<br> 
+
+<https://insideevs.com/news/746171/hyundai-kia-ev-tax-credit/>
+
+---
+
+## Jackery New Year sale saves up to $3,300 on power stations at new lows, Rad Power e-bike bundles from $1,399, Segway, more
+
+date: 2025-01-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Jackery-New-Year-sale-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Closing out our first week of 2025 Green Deals, we have <a href="https://9to5toys.com/2025/01/02/jackery-new-year-explorer-2000-v2-bundle-new-1499-low/">Jackery’s New Year sale</a> that is taking up to $3,300 off power stations, with some even hitting new low prices, like the <a href="https://9to5toys.com/2025/01/02/jackery-new-year-explorer-2000-v2-bundle-new-1499-low/">Explorer 2000 v2</a> Portable Power Station that comes bundled with two 200W solar panels for a new <a href="https://9to5toys.com/2025/01/02/jackery-new-year-explorer-2000-v2-bundle-new-1499-low/">$1,499</a> low, among others. Next, we have <a href="https://9to5toys.com/2025/01/03/rad-power-e-bike-bundles-from-1399/">Rad Power’s newest sale</a>, which is starting the year off with free extra battery and sports rack e-bike bundles from <a href="https://9to5toys.com/2025/01/03/rad-power-e-bike-bundles-from-1399/">$1,399</a>. Riding up alongside it is Segway’s New Year sale that is seeing its <a href="https://9to5toys.com/2025/01/02/segway-new-year-sale-max-g30p-600-low/">Ninebot Max G30P KickScooter</a> return to the <a href="https://9to5toys.com/2025/01/02/segway-new-year-sale-max-g30p-600-low/">$600</a> low we last saw during Black Friday. Lastly, we have a collection of Greenworks lawncare discounts led by the new low on the brand’s 80V 580 CFM Cordless Electric <a href="https://9to5toys.com/2025/01/03/greenwork-80v-580-cfm-axial-blower-new-170-low/">Axial Leaf Blower at $170</a>. Plus, all the other hangover Green Deals can be found in the links at the bottom of the page, like yesterday’s EcoFlow’s <a href="https://9to5toys.com/2025/01/02/ecoflow-phase-1-new-year-sale-from-50/">New Year sale</a>, Hiboy’s newest <a href="https://9to5toys.com/2025/01/02/hiboy-launches-s2-se-electric-scooter-300/">S2 SE e-scooter</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="396226" href="https://electrek.co/2025/01/03/jackery-new-year-sale-rad-power-segway-more/#more-396226" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/03/jackery-new-year-sale-rad-power-segway-more/>
+
+---
+
+## Equinor closes $3 billion for New York City’s first offshore wind farm
+
+date: 2025-01-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/South-Brooklyn-Marine-Terminal-Equinor-Empire-Wind-1.jpg?quality=82&#038;strip=all&#038;w=1420" /></div><p>Equinor has secured $3 billion to finance New York’s Empire Wind 1 offshore wind farm, which will provide power for 500,000 homes when it comes online in 2027. It’s set to become the first offshore wind farm to connect directly to New York City’s grid. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,new-york,offshore-wind-power" data-layer-viewtype="unknown" data-post-id="396211" href="https://electrek.co/2025/01/03/equinor-closes-3-billion-for-new-york-citys-first-offshore-wind-farm/#more-396211" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/03/equinor-closes-3-billion-for-new-york-citys-first-offshore-wind-farm/>
+
+---
+
+## GM surges to become America’s number 2 EV seller as electric SUVs, trucks roll out
+
+date: 2025-01-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/35000-Chevy-Equinox-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Outside of Tesla, <a href="https://electrek.co/guides/gm/">GM</a> sold more EVs than any other company in the US in 2024. GM’s EV sales surged 125% in the fourth quarter as new electric models like the Chevy Equinox and Blazer EVs saw strong demand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="general-motors,gm" data-layer-viewtype="unknown" data-post-id="396216" href="https://electrek.co/2025/01/03/gm-surges-become-americas-number-2-ev-seller-2024/#more-396216" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/03/gm-surges-become-americas-number-2-ev-seller-2024/>
+
+---
+
+## General Motors Caps Off An Epic 2024 With 114,000 EV Sales
+
+date: 2025-01-03, from: Inside EVs News
+
+GM’s electric fleet came roaring back in 2024, smashing sales records and expanding its footprint. 
+
+<br> 
+
+<https://insideevs.com/news/746177/general-motors-record-2024-ev-sales/>
+
+---
+
+## Rivian Hits A New Sales Record For 2024
+
+date: 2025-01-03, from: Inside EVs News
+
+Despite setbacks, Rivian sold more cars in 2024 than in 2023. 
+
+<br> 
+
+<https://insideevs.com/news/746170/rivian-sales-2024-up-increase/>
+
+---
+
+## Ford extends EV promotion after F-150 Lightning, Mach-E set new sales records in 2024
+
+date: 2025-01-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Ford-monster-vehicles.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After its best EV sales quarter ever in the fourth quarter, <a href="https://electrek.co/guides/ford/">Ford</a> is extending its “Power Promise” program, which includes a free home charger. Ford looks to keep the momentum going this year after the F-150 Lightning and Mustang Mach-E set new sales records in 2024.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-f-150-lightning,ford-f150-lightning,ford-mach-e" data-layer-viewtype="unknown" data-post-id="396200" href="https://electrek.co/2025/01/03/ford-extends-ev-promo-record-f-150-lightning-mach-e-sales/#more-396200" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/03/ford-extends-ev-promo-record-f-150-lightning-mach-e-sales/>
+
+---
+
+## Tesla’s energy storage business continues to boom
+
+date: 2025-01-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/04/Megapack_Mosslanding-1-e1714486362120.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>While Tesla’s vehicle delivery results were disappointing, there was still good news in the report: Tesla’s energy storage business continues to boom.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="396193" href="https://electrek.co/2025/01/03/teslas-energy-storage-business-continues-to-boom/#more-396193" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/03/teslas-energy-storage-business-continues-to-boom/>
+
+---
+
+## U.S. EV Sales Get A Trump Bump In Q4 2024
+
+date: 2025-01-03, from: Inside EVs News
+
+The President-elect’s threats to repeal incentives pushed EV buyers into showrooms in the final quarter of 2024. 
+
+<br> 
+
+<https://insideevs.com/news/746165/us-ev-sales-trump-bump-2024/>
+
+---
+
+## Hyundai and Kia had a record year in the US, but this is just the start with new EVs en route
+
+date: 2025-01-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Hyundais-all-solid-state-ev-batteries.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>South Korea’s auto giants, <a href="https://electrek.co/guides/hyundai/">Hyundai</a> and Kia, are making their presence known in the US after another record sales year in the US in 2024. With new EVs launching in key segments, Hyundai and Kia expect even more growth this year. Here’s what to expect in 2025.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,kia" data-layer-viewtype="unknown" data-post-id="396184" href="https://electrek.co/2025/01/03/hyundai-kia-top-us-sales-records-2024-new-evs-arrive/#more-396184" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/03/hyundai-kia-top-us-sales-records-2024-new-evs-arrive/>
+
+---
+
+## Xiaomi SU7's Record Deliveries Expected To Double For 2025
+
+date: 2025-01-03, from: Inside EVs News
+
+Xiaomi smashed its own targets by delivering over 135,000 cars for 2024, and it wants to double that for 2025. 
+
+<br> 
+
+<https://insideevs.com/news/746042/xiaomi-su7-record-deliveries-double/>
 
 ---
 
@@ -42,6 +266,10 @@ date: 2025-01-03, from: Electrek Feed
 date: 2025-01-03, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes new laws and regulations in California regarding electric bicycles, the return of ONYX and the company’s electric mopeds, a review of the Xtracycle Hopper, Russian soldiers on electric scooters, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Wheele_79.mp3"></audio></figure>
 
 
 
@@ -1070,4 +1298,48 @@ Chinese automaker Xpeng's Land Aircraft Carrier will make an appearance at CES 2
 <br> 
 
 <https://insideevs.com/news/745604/xpeng-flying-car-ces-2025/>
+
+---
+
+## First autonomous electric loaders in North America get to work
+
+date: 2024-12-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/sandvik_main.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Swedish multinational Sandvik says it’s successfully deployed a pair of fully autonomous Toro LH518iB battery-electric underground loaders at the New Gold Inc. (<a href="https://www.google.com/search?q=%24NGD&amp;oq=%24NGD&amp;gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg70gEIMTAxOWowajeoAgCwAgA&amp;sourceid=chrome&amp;ie=UTF-8">$NGD</a>) New Afton mine in British Columbia, Canada.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-heavy-machinery,mining" data-layer-viewtype="unknown" data-post-id="395492" href="https://electrek.co/2024/12/28/first-autonomous-electric-loaders-in-north-america-get-to-work/#more-395492" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/28/first-autonomous-electric-loaders-in-north-america-get-to-work/>
+
+---
+
+## Contargo logistics adds 20 Mercedes eActros 600 electric semis to fleet
+
+date: 2024-12-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/contargo_eActros.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>European logistics firm Contargo is adding twenty of Mercedes’ new, 500 km-capable eActros battery electric semi trucks to its trimodal delivery fleet, bringing zero-emission shipping to Germany’s <a href="https://www.merriam-webster.com/dictionary/hinterland">hinterland</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-trucks,mercedes-benz" data-layer-viewtype="unknown" data-post-id="395474" href="https://electrek.co/2024/12/28/contargo-logistics-adds-20-mercedes-eactros-600-electric-semis-to-fleet/#more-395474" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/28/contargo-logistics-adds-20-mercedes-eactros-600-electric-semis-to-fleet/>
+
+---
+
+## Tesla Has Portable Supercharger Stations That Can Go Online Lightning Quick
+
+date: 2024-12-28, from: Inside EVs News
+
+Tesla is deploying a handful of these MegapackChargers during the holiday season. 
+
+<br> 
+
+<https://insideevs.com/news/745583/tesla-portable-supercharger-station-megapackcharger/>
 
