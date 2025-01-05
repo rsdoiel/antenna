@@ -1,11 +1,433 @@
 ---
 title: pacific
-updated: 2025-01-04 07:05:01
+updated: 2025-01-05 07:05:58
 ---
 
 # pacific
 
-(date: 2025-01-04 07:05:01)
+(date: 2025-01-05 07:05:58)
+
+---
+
+## A powerful winter storm begins its march across the middle of the US
+
+date: 2025-01-05, from: Hawaii Tribune Harold
+
+
+				<p>A large winter storm that was expected to bring strong winds and heavy snow to a dozen states arrived in the Great Plains on Saturday, forcing officials to close the Kansas City airport in Missouri and an 18-mile section of Interstate 70 in Kansas.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/05/nation-world-news/a-powerful-winter-storm-begins-its-march-across-the-middle-of-the-us/>
+
+---
+
+## From Plains to Atlanta, a rolling tribute traces Jimmy Carter’s life
+
+date: 2025-01-05, from: Hawaii Tribune Harold
+
+
+				<p>AMERICUS, Ga. &#8212; In a few days, Jimmy Carter will be celebrated in a towering cathedral in Washington by fellow American presidents, noted humanitarians and other world leaders. There, dignitaries will reflect on his rise to the heights of political influence and his globe-trotting mission to eradicate disease and protect democracy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/05/nation-world-news/from-plains-to-atlanta-a-rolling-tribute-traces-jimmy-carters-life/>
+
+---
+
+## Olson Trust donates $200,000 to Pacific Tsunami Museum
+
+date: 2025-01-05, from: Hawaii Tribune Harold
+
+
+				<p>The Pacific Tsunami Museum, which has fallen on financial hard times, received some good news to start its new year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/05/hawaii-news/olson-trust-donates-200000-to-pacific-tsunami-museum/>
+
+---
+
+## Drones, exploding parcels and sabotage: How hybrid tactics target the West
+
+date: 2025-01-05, from: Hawaii Tribune Harold
+
+
+				<p>BRUSSELS &#8212; When mysterious drones began appearing over oil rigs and wind farms off Norway&#8217;s coast about three years ago, officials were not certain where they came from.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/05/nation-world-news/drones-exploding-parcels-and-sabotage-how-hybrid-tactics-target-the-west/>
+
+---
+
+## Syria’s international airport to reopen as government presses for stability
+
+date: 2025-01-05, from: Hawaii Tribune Harold
+
+
+				<p>Syria&#8217;s main international airport in Damascus, the capital, will reopen next week, the new government said Saturday, as it tries to reestablish a sense of normalcy after the uprising that toppled President Bashar Assad.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/05/nation-world-news/syrias-international-airport-to-reopen-as-government-presses-for-stability/>
+
+---
+
+## New Orleans releases most names of victims killed in attack
+
+date: 2025-01-05, from: Hawaii Tribune Harold
+
+
+				<p>NEW ORLEANS &#8212; Things had been looking up for Elliot Wilkinson, a 40-year-old man who was among the 14 people killed in New Orleans this past week in what federal authorities were investigating as a terrorist attack.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/05/nation-world-news/new-orleans-releases-most-names-of-victims-killed-in-attack/>
+
+---
+
+## Trump has reeled in more than $200 million since election day
+
+date: 2025-01-05, from: Hawaii Tribune Harold
+
+
+				<p>Since his victory in November, President-elect Donald Trump&#8217;s allies have raised well over $200 million for a constellation of groups that will fund his inauguration, his political operation and eventually his presidential library, according to four people involved in the fundraising.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/05/nation-world-news/trump-has-reeled-in-more-than-200-million-since-election-day/>
+
+---
+
+## Tomiko Itooka of Japan, world’s oldest person, dies at 116
+
+date: 2025-01-05, from: Hawaii Tribune Harold
+
+
+				<p>TOKYO &#8212; Tomiko Itooka, a Japanese woman born before the start of World War I and the sinking of the Titanic and who was believed to be the oldest person in the world, died at a nursing home in Ashiya, Japan. She was 116.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/05/nation-world-news/tomiko-itooka-of-japan-worlds-oldest-person-dies-at-116/>
+
+---
+
+## Biden awards 18 Medals of Freedom, and delivers one unmistakable message
+
+date: 2025-01-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; With 16 days left in a political career that spanned a half-century, President Joe Biden on Saturday conferred one of the nation&#8217;s highest honors on core members of the political, financial and celebrity establishment of which he has long been a part.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/05/nation-world-news/biden-awards-18-medals-of-freedom-and-delivers-one-unmistakable-message/>
+
+---
+
+## Steves: Steep, deep western Norway
+
+date: 2025-01-05, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;Rugged&#8221; is putting it mildly when it comes to 80% of Norway. Historically, it was a challenge to live here. That&#8217;s why Vikings ventured south and so many emigrants left for America.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/05/features/steves-steep-deep-western-norway/>
+
+---
+
+## Volcano Watch: Happy New Year, Hawaiian style
+
+date: 2025-01-05, from: Hawaii Tribune Harold
+
+
+				<p>People around the world greet the New Year with fireworks and other celebrations. This year, Hawaii Volcanoes National Park visitors greeted the New Year with displays of lava fountaining from the southwest part of Kaluapele, the summit caldera of Kilauea volcano.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/05/features/volcano-watch-happy-new-year-hawaiian-style/>
+
+---
+
+## Brief Chat with Frank Blas Jr.: Restoring decorum and civility
+
+date: 2025-01-05, from: Pacific Island Times
+
+Frank Blas Jr. begins his stint as speaker of the 38th Guam Legislature with plans to restore civility to legislative proceedings and then t 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/brief-chat-with-frank-blas-jr-restoring-decorum-and-civility>
+
+---
+
+## Ticket transactions and a barcode stress
+
+date: 2025-01-05, from: Pacific Island Times
+
+Lessons from Everyday Life By Theodore Lewis   Bridg man, MI —When I was in the School of Business at Andrews University, I learned about... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/ticket-transactions-and-a-barcode-stress>
+
+---
+
+## Johnson reelected as speaker after putting down GOP revolt
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Speaker Mike Johnson on Friday won reelection to the top post in the House, salvaging his job in a dramatic last-minute turnabout by putting down a revolt from conservatives who initially voted to block his ascent.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/johnson-reelected-as-speaker-after-putting-down-gop-revolt/>
+
+---
+
+## Nurses union gives Queen’s notice of dates for 3-day strike
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Nurses&#8217; Association this morning informed management at The Queen&#8217;s Health System of the official start date of its collective three-day strike on Jan. 13.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/hawaii-news/nurses-union-gives-queens-notice-of-dates-for-3-day-strike/>
+
+---
+
+## Surgeon general calls for cancer warnings on alcohol
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>Alcohol is a leading preventable cause of cancer, and alcoholic beverages should carry a warning label as packs of cigarettes do, the U.S. surgeon general said Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/surgeon-general-calls-for-cancer-warnings-on-alcohol/>
+
+---
+
+## Judge upholds Trump’s conviction but signals no jail time
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A New York judge Friday upheld President-elect Donald Trump&#8217;s felony conviction but signaled that he was inclined to spare him any punishment, a striking development in a case that had spotlighted an array of criminal acts and imperiled the former and future president&#8217;s freedom.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/judge-upholds-trumps-conviction-but-signals-no-jail-time/>
+
+---
+
+## Medical examiner identifies 2 of 3 women killed in Aliamanu explosion
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>The Honolulu Department of the Medical Examiner today identified two of the three people killed in the New Year&#8217;s illegal fireworks explosion at an Aliamanu home.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/hawaii-news/medical-examiner-identifies-2-of-3-women-killed-in-aliamanu-explosion/>
+
+---
+
+## Soldier in Tesla blast had PTSD and feared US ‘collapse,’ officials say
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>The Green Beret who blew up a Tesla Cybertruck outside the Trump International Hotel in Las Vegas this week and took his own life had written that he wanted to send a &#8220;wake-up call&#8221; to the country, authorities said Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/soldier-in-tesla-blast-had-ptsd-and-feared-us-collapse-officials-say/>
+
+---
+
+## Impeached president faces down detention bid, stoking South Korea’s crisis
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL, South Korea &#8212; When around 100 criminal investigators and police officers entered a hilly compound in central Seoul on Friday morning, they tried to achieve something that has never been done before in South Korea: detain a sitting president.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/impeached-president-faces-down-detention-bid-stoking-south-koreas-crisis/>
+
+---
+
+## Passengers say Turkish Airlines flights have unwelcome guests: bedbugs
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>Shortly after boarding her Turkish Airlines flight from Johannesburg to Istanbul in March, Patience Titcombe, 36, from Phoenix, noticed a small bug crawling on her seat when she got up to use the restroom.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/passengers-say-turkish-airlines-flights-have-unwelcome-guests-bedbugs/>
+
+---
+
+## European ministers visit Syria to strengthen ties with new government
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>Syria&#8217;s new leaders met the French and German foreign ministers in the capital, Damascus, on Friday in one of the highest-level Western diplomatic visits since the fall of President Bashar Assad last month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/european-ministers-visit-syria-to-strengthen-ties-with-new-government/>
+
+---
+
+## EV demand leads automakers to a strong 2024 finish
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>Automakers closed 2024 with strong sales in the United States in the final three months of the year, helped by a surge in demand for electric models.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/ev-demand-leads-automakers-to-a-strong-2024-finish/>
+
+---
+
+## Biden blocks takeover bid of U.S. Steel by Japan’s Nippon
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden blocked the $14 billion takeover of U.S. Steel by Nippon Steel of Japan in an announcement Friday based on grounds that the sale posed a threat to national security.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/biden-blocks-takeover-bid-of-u-s-steel-by-japans-nippon/>
+
+---
+
+## Biden honors police officers and veterans with medals at White House
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden on Friday recognized five Nashville police officers and seven U.S. Army veterans with national medals honoring their acts of bravery.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/biden-honors-police-officers-and-veterans-with-medals-at-white-house/>
+
+---
+
+## From $80 days to $6,000 days: How 3 small coffee shops got started
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>Rachel Nieves was 19 and working part time at Armani when she met someone who said her personality would do well in the car business.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/features/from-80-days-to-6000-days-how-3-small-coffee-shops-got-started/>
+
+---
+
+## Tropical Gardening: For you, a rose in Hawaii grows
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>In Hawaii, growing roses is always a rewarding challenge to the gardener. Roses are cool climate plants that do best at elevations of 1,000 feet or more. At lower elevations, insects and disease problems are aggravated. At best, roses require specific care or they will not do well.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/features/tropical-gardening-for-you-a-rose-in-hawaii-grows/>
+
+---
+
+## US Virgin Islands representative protests  exclusion of territorial delegates from House speaker vote
+
+date: 2025-01-04, from: Pacific Island Times
+
+Delegates representing U.S. territories were never called to cast their votes for the speakership. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-virgin-islands-delegate-protests-exclusion-of-territorial-delegates-from-house-speaker-vote>
+
+---
+
+## Win some, lose some: Sablan provides a congressional wrap-up
+
+date: 2025-01-04, from: Pacific Island Times
+
+Gregorio Kilili Camacho Sablan summed up what he has accomplished for the Northern Mariana Islands during his long stint as the commonwealth 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/win-some-lose-some-sablan-provides-a-congressional-wrap-up>
+
+---
+
+## Trump’s Republicans reelect Mike Johnson US House speaker despite dissent
+
+date: 2025-01-04, updated: 2025-01-05, from: Marianas Variety
+
+WASHINGTON (Reuters) — U.S. House of Representatives Speaker Mike Johnson was reelected to the chamber's top job on Friday by a razor-thin margin that highlighted potential fissures among President-elect Donald Trump's Republicans on Capitol Hill. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-s-republicans-reelect-mike-johnson-us-house-speaker-despite-dissent/article_16c483d0-ca38-11ef-a62c-632b3a292163.html>
+
+---
+
+## Again, a fresh start  
+
+date: 2025-01-04, from: Pacific Island Times
+
+The CHamoru term “inafa’ maolek” refers to a concept of restoring harmony or order, a hallmark of Guam’s values and a gift from CHamoru ance 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/again-a-fresh-start>
 
 ---
 
@@ -31,6 +453,18 @@ The post <a href="https://www.hawaii.edu/news/2025/01/03/uh-alumni-moana-abe/"><
 <br> 
 
 <https://www.hawaii.edu/news/2025/01/03/uh-alumni-moana-abe/>
+
+---
+
+## America’s Spam Scorecard
+
+date: 2025-01-03, updated: 2025-01-03, from: Marianas Variety
+
+(NAPSI)—The next time your phone rings, there’s a good chance it will be a spam call—but there are ways you can protect yourself. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/america-s-spam-scorecard/article_d52cf759-2505-5a93-8eb3-1f36dd537641.html>
 
 ---
 
@@ -260,7 +694,7 @@ date: 2025-01-03, from: Hawaii Tribune Harold
 
 ## Dollar set for best week since November on US rates, economic outlook
 
-date: 2025-01-03, updated: 2025-01-03, from: Marianas Variety
+date: 2025-01-03, updated: 2025-01-05, from: Marianas Variety
 
 SINGAPORE (Reuters) — The dollar was on track for its best weekly performance in over a month on Friday, underpinned by expectations of fewer Federal Reserve rate cuts this year and the view that the U.S. economy will continue to outperform the rest of its peers globally. 
 
@@ -272,7 +706,7 @@ SINGAPORE (Reuters) — The dollar was on track for its best weekly performance 
 
 ## South Korean presidential guards prevent arrest of impeached Yoon after tense stand-off
 
-date: 2025-01-03, updated: 2025-01-03, from: Marianas Variety
+date: 2025-01-03, updated: 2025-01-05, from: Marianas Variety
 
 SEOUL (Reuters) — South Korea's presidential guards and military troops prevented authorities from arresting impeached President Yoon Suk Yeol on Friday in a tense six-hour stand-off inside Yoon's compound in the heart of Seoul. 
 
@@ -309,7 +743,7 @@ This term has been marked by historic bipartisanship and a strong commitment to 
 
 ## Texas man who backed Islamic State acted alone in New Orleans attack, FBI says
 
-date: 2025-01-03, updated: 2025-01-03, from: Marianas Variety
+date: 2025-01-03, updated: 2025-01-05, from: Marianas Variety
 
 NEW ORLEANS (Reuters) — A U.S. Army veteran who drove a truck into a crowd of New Year's Day revelers in New Orleans had pledged allegiance to Islamic State, but acted alone in the attack that killed at least 14 people, the FBI said on Thursday. 
 
@@ -321,7 +755,7 @@ NEW ORLEANS (Reuters) — A U.S. Army veteran who drove a truck into a crowd of 
 
 ## Police identify driver of exploded Tesla Cybertruck as US Army soldier
 
-date: 2025-01-03, updated: 2025-01-03, from: Marianas Variety
+date: 2025-01-03, updated: 2025-01-05, from: Marianas Variety
 
 (Reuters) — Law enforcement officials on Thursday said a U.S. Army soldier from Colorado was likely the person inside a Tesla Cybertruck that exploded outside the Trump International Hotel in Las Vegas, leaving the driver dead and seven people with minor injuries. 
 
@@ -398,7 +832,7 @@ date: 2025-01-02, from: Hawaii Tribune Harold
 
 ## Meghan, the Duchess of Sussex, returns to Instagram and posts a New Year’s video
 
-date: 2025-01-02, updated: 2025-01-02, from: Marianas Variety
+date: 2025-01-02, updated: 2025-01-05, from: Marianas Variety
 
 NEW YORK (AP) — Meghan, the Duchess of Sussex, is starting the new year with her first Instagram account since 2020. 
 
@@ -410,7 +844,7 @@ NEW YORK (AP) — Meghan, the Duchess of Sussex, is starting the new year with h
 
 ## Carey Mulligan and Kazuo Ishiguro on UK’s New Year Honors list
 
-date: 2025-01-02, updated: 2025-01-02, from: Marianas Variety
+date: 2025-01-02, updated: 2025-01-05, from: Marianas Variety
 
 LONDON (AP) — Actors Carey Mulligan and Stephen Fry and author Kazuo Ishiguro were awarded New Year Honors on Monday that celebrate artists, athletes, politicians and others who make notable contributions to British society. 
 
@@ -1693,214 +2127,4 @@ date: 2024-12-29, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/12/29/nation-world-news/severe-weekend-weather-disrupts-holiday-travel/>
-
----
-
-## The bald eagle is (finally) the national bird of the United States
-
-date: 2024-12-28, from: Hawaii Tribune Harold
-
-
-				<p>The bald eagle received a title this week that many may have assumed it already had: the national bird of the United States. </p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/the-bald-eagle-is-finally-the-national-bird-of-the-united-states/>
-
----
-
-## Another Delta Airlines stowaway is caught on flight from Seattle
-
-date: 2024-12-28, from: Hawaii Tribune Harold
-
-
-				<p>A person was captured attempting to sneak onto a Delta Airlines flight from Seattle to Honolulu on Christmas Eve, authorities said this week.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/another-delta-airlines-stowaway-is-caught-on-flight-from-seattle/>
-
----
-
-## OpenAI details plans for becoming a for-profit company
-
-date: 2024-12-28, from: Hawaii Tribune Harold
-
-
-				<p>SAN FRANCISCO &#8212; OpenAI revealed details Friday about its plans to adopt a new corporate structure that will remove the company from control by a nonprofit that has been the focus of contention. </p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/openai-details-plans-for-becoming-a-for-profit-company/>
-
----
-
-## A strange banging sound, chaos and prayers before a plane crashes
-
-date: 2024-12-28, from: Hawaii Tribune Harold
-
-
-				<p>TBILISI, Georgia &#8212; At first, there was a strange banging noise outside the plane. Then, while one flight attendant was standing in the cabin, something hit his arm, cutting it. The passengers, sensing something was terribly wrong, began panicking. Some began praying. </p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/a-strange-banging-sound-chaos-and-prayers-before-a-plane-crashes/>
-
----
-
-## A month on, a tenuous ceasefire holds in Lebanon
-
-date: 2024-12-28, from: Hawaii Tribune Harold
-
-
-				<p>BEIRUT &#8212; A fragile ceasefire between Israel and the Lebanese militant group Hezbollah has largely held for a month now, halting the deadliest war in years between the two sides and injecting a measure of calm into a region in turmoil.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/a-month-on-a-tenuous-ceasefire-holds-in-lebanon/>
-
----
-
-## NATO to boost Baltic Sea presence after cables broken
-
-date: 2024-12-28, from: Hawaii Tribune Harold
-
-
-				<p>HELSINKI -NATO said on Friday it would boost its presence in the Baltic Sea after the suspected sabotage this week of an undersea power cable and four internet cables, while alliance member Estonia launched a naval operation to guard a parallel electricity link.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/nato-to-boost-baltic-sea-presence-after-cables-broken/>
-
----
-
-## At least 69 migrants killed in shipwreck off Morocco on deadly route to Spain
-
-date: 2024-12-28, from: Hawaii Tribune Harold
-
-
-				<p>BAMAKO/LAS PALMAS, Spain (Reuters) &#8212; At least 69 people died after a boat headed from West Africa to the Canary Islands capsized off Morocco on Dec. 19, Malian authorities said, as data showed deaths of migrants attempting to reach Spain surged to an all-time high in 2024. </p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/at-least-69-migrants-killed-in-shipwreck-off-morocco-on-deadly-route-to-spain/>
-
----
-
-## Enforcement of anti-money-laundering law blocked after court reversal
-
-date: 2024-12-28, from: Hawaii Tribune Harold
-
-
-				<p>Millions of corporate entities will not have to share information about their owners with the Treasury Department after an appeals court reversed a decision that would have required them to do so by Wednesday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/enforcement-of-anti-money-laundering-law-blocked-after-court-reversal/>
-
----
-
-## Trump backers battle online over skilled immigrants
-
-date: 2024-12-28, from: Hawaii Tribune Harold
-
-
-				<p>Weeks before President-elect Donald Trump is to take office, a major rift has emerged among his supporters over immigration and the place of foreign workers in the U.S. labor market.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/trump-backers-battle-online-over-skilled-immigrants/>
-
----
-
-## Migrants and end of COVID restrictions fuel jump in homelessness
-
-date: 2024-12-28, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Homelessness soared to the highest level on record this year, driven by forces that included high rents, stagnant wages and a surge in migrants seeking asylum, the federal government reported Friday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/migrants-and-end-of-covid-restrictions-fuel-jump-in-homelessness/>
-
----
-
-## NPR and PBS stations brace for funding battle under Trump
-
-date: 2024-12-28, from: Hawaii Tribune Harold
-
-
-				<p>Elon Musk is gunning for public media.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/npr-and-pbs-stations-brace-for-funding-battle-under-trump/>
-
----
-
-## Hitachi Rail files $324M lawsuit against Honolulu, HART
-
-date: 2024-12-28, from: Hawaii Tribune Harold
-
-
-				<p>Costly delays and mismanagement over Honolulu&#8217;s over-budget, long-overdue rail line are the basis for a new lawsuit being brought by the project&#8217;s principal contractor.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/28/hawaii-news/hitachi-rail-files-324m-lawsuit-against-honolulu-hart/>
-
----
-
-## The vivid thread of memories by the yard
-
-date: 2024-12-28, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; People like to send fabrics to artist Suchitra Mattai. Her mother, who lives in Edison, New Jersey, home to one of the largest South Asian populations in the United States, collects saris from secondhand shops and mails them to her daughter, who lives in Los Angeles and is of Indo-Caribbean descent. Friends, relatives and friends of relatives all send their finds: silks, fringe, trim and more.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/28/features/the-vivid-thread-of-memories-by-the-yard/>
-
----
-
-## After days of silence, NASA’s Parker Solar Probe phones home
-
-date: 2024-12-28, from: Hawaii Tribune Harold
-
-
-				<p>On Dec. 24, NASA&#8217;s Parker Solar Probe swooped closer than it ever had before to the sun, just a few million miles above its blazing hot surface.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/28/nation-world-news/after-days-of-silence-nasas-parker-solar-probe-phones-home/>
-
----
-
-## Tropical Gardening: A New Year’s resolution: Let’s take lessons from nature
-
-date: 2024-12-28, from: Hawaii Tribune Harold
-
-
-				<p>Observing the extreme polarization of folks who have different political, cultural or religious points of view over the last decade, we should recognize it is nothing new. We have had divisions throughout history, and it makes us wonder if we will ever change for the better. The answer is yes &#8212; if we are willing to focus on the real sources of our misery.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/12/28/features/tropical-gardening-a-new-years-resolution-lets-take-lessons-from-nature/>
 

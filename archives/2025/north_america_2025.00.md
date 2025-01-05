@@ -1,11 +1,2140 @@
 ---
 title: north america
-updated: 2025-01-04 07:05:00
+updated: 2025-01-05 07:05:57
 ---
 
 # north america
 
-(date: 2025-01-04 07:05:00)
+(date: 2025-01-05 07:05:57)
+
+---
+
+## New Orleans attack, Vegas explosion highlight extremist violence by active military and veterans
+
+date: 2025-01-05, from: VOA News USA
+
+While much remains unknown about the man who carried out an attack in New Orleans on New Year's and another who died in an explosion in Las Vegas the same day, the violence highlights the increased role of people with military experience in ideologically driven attacks, especially those that seek mass casualties.
+
+
+In New Orleans, Shamsud-Din Jabbar, a veteran of the U.S. Army, was killed by police after a deadly rampage in a pickup truck that left 14 others dead and injured dozens more. It's being investigated as an act of terrorism inspired by the Islamic State group.
+
+
+In Las Vegas, officials say Matthew Livelsberger, an active duty member of the U.S. Army Special Forces, shot himself in the head in a Tesla Cybertruck packed with firework mortars and camp fuel canisters, shortly before it exploded outside the entrance of the Trump International Hotel, injuring seven people. On Friday, investigators said Livelsberger wrote that the explosion was meant to serve as a "wakeup call" and that the country was "terminally ill and headed toward collapse."
+
+
+Service members and veterans who radicalize make up a tiny fraction of a percentage point of the millions who have honorably served their country. But an Associated Press investigation published last year found that radicalization among both veterans and active duty service members was on the rise and that hundreds of people with military backgrounds had been arrested for extremist crimes since 2017. The AP found that extremist plots they were involved in during that period had killed or injured nearly 100 people.
+
+
+The AP also found multiple issues with the Pentagon's efforts to address extremism in the ranks, including that there is still no force-wide system to track it, and that a cornerstone report on the issue contained old data, misleading analyses and ignored evidence of the problem.
+
+
+Since 2017, both veterans and active duty service members radicalized at a faster rate than people without military backgrounds, according to data from terrorism researchers at the National Consortium for the Study of Terrorism and Responses to Terrorism, or START, at the University of Maryland. Less than 1% of the adult population is currently serving in the U.S. military, but active duty military members make up a disproportionate 3.2% of the extremist cases START researchers found between 2017 and 2022.
+
+
+While the number of people with military backgrounds involved in violent extremist plots remains small, the participation of active military and veterans gave extremist plots more potential for mass injury or death, according to data collected and analyzed by the AP and START.
+
+
+
+
+More than 480 people with a military background were accused of ideologically driven extremist crimes from 2017 through 2023, including the more than 230 arrested in connection with the Jan. 6, 2021, insurrection — 18% of those arrested for the attack as of late last year, according to START. The data tracked individuals with military backgrounds, most of whom were veterans, involved in plans to kill, injure or inflict damage for political, social, economic or religious goals.
+
+
+The AP's analysis found that plots involving people with military backgrounds were more likely to involve mass casualties, weapons training or firearms than plots that didn't include someone with a military background. This held true whether or not the plots were carried out.
+
+
+The jihadist ideology of the Islamic State group apparently connected to the New Orleans attack would make it an outlier in the motivations of previous attacks involving people with military backgrounds. Only around 9% of such extremists with military backgrounds subscribed to jihadist ideologies, START researchers found. More than 80% identified with far-right, anti-government or white supremacist ideologies, with the rest split among far-left or other motivations.
+
+
+Still, there have been a number of significant attacks motivated by the Islamic State and jihadist ideology in which the attackers had U.S. military backgrounds. In 2017, a U.S. Army National Guard veteran who'd served in Iraq killed five people in a mass shooting at the Fort Lauderdale airport in Florida after radicalizing via jihadist message boards and vowing support for the Islamic State. In 2009, an Army psychiatrist and officer opened fire at Fort Hood, Texas, and killed 13 people, wounding dozens more. The shooter had been in contact with a known al-Qaida operative prior to the shooting.
+
+
+In the shadow of the Jan. 6 attack on the Capitol — led in part by veterans — law enforcement officials said the threat from domestic violent extremists was one of the most persistent and pressing terror threats to the United States. The Pentagon has said it is "committed to understanding the root causes of extremism and ensuring such behavior is promptly and appropriately addressed and reported to the proper authorities."
+
+
+Kristofer Goldsmith, an Army veteran and CEO of Task Force Butler Institute, which trains veterans to research and counter extremism, said the problem of violent extremism in the military cuts across ideological lines. Still, he said, while the Biden administration tried to put in place efforts to address it, Republicans in Congress opposed them for political reasons.
+
+
+"They threw, you know, every roadblock that they could in saying that all veterans are being called extremists by the Biden administration," Goldsmith said. "And now we're in a situation where we're four years behind where we could have been."
+
+
+During their long military careers, both Jabbar and Livelsberger served time at the U.S. Army base formerly known as Fort Bragg in North Carolina, one of the nation's largest military bases. One of the officials who spoke to the AP said there is no overlap in their assignments at the base, now called Fort Liberty.
+
+
+Goldsmith said he is concerned that the incoming Trump administration will focus on the New Orleans attack and ISIS and ignore that most deadly attacks in the United States in recent history have come from the far right, particularly if Trump's nominee for defense secretary, Pete Hegseth, is confirmed.
+
+
+Hegseth has justified the medieval Crusades that pitted Christians against Muslims, criticized the Pentagon's efforts to address extremism in the ranks and ahead of Joe Biden's inauguration in the weeks after the Jan. 6 attack was himself flagged by a fellow National Guard member as a possible "insider threat." 
+
+<br> 
+
+<https://www.voanews.com/a/new-orleans-attack-vegas-explosion-highlight-extremist-violence-by-active-military-and-veterans/7924110.html>
+
+---
+
+## Fraud allegations rock South Korean adoptees and families
+
+date: 2025-01-05, from: VOA News USA
+
+Her greatest fear, dormant for decades, came rushing back in an instant: had she adopted and raised a kidnapped child?
+
+
+Peg Reif's daughter, adopted from South Korea in the 1980s, had sent her a link to a documentary detailing how the system that made their family was rife with fraud: documents falsified, babies switched, children snatched off the street and sent abroad.
+
+
+Reif wept.
+
+
+She was among more than 120 who contacted The Associated Press this fall, after a series of stories and a documentary made with Frontline exposed how Korea created a baby pipeline, designed to ship children abroad as quickly as possible to meet Western demand. The reporting shook adoption communities around the world with details about how agencies competed for babies — pressuring mothers, bribing hospitals, fabricating documents. Most who wrote were adoptees, but some were adoptive parents like Reif, horrified to learn they had supported this system.
+
+
+"I can't stand the thought that somebody lost their child," Reif said. "I can't stop thinking about it. I don't know how to make it right. I don't know if I can."
+
+
+Forty years ago, she was struggling with infertility. She and her husband pinned their dreams for a family on adopting a baby from Mexico, paid an agency thousands of dollars and waited for months. Then the agency's directors were arrested, and they learned that those Mexican babies had been taken from their families against their will. Reif was heartbroken but recalls even now looking at her husband and saying, "Thank God we don't have a child who was stolen."
+
+
+But now she isn't sure of that. Because then they adopted two Korean children, and brought them to their home in rural Wisconsin, first a son and then a daughter. The two were not biological siblings, but both arrived with strangely similar stories in their files: their young unmarried mothers worked in factories with fathers who disappeared after they got pregnant.
+
+
+Back then, Reif still believed the common narrative about foreign adoption: it saved children who might otherwise live the rest of their lives in an orphanage, die or be damned to poverty.
+
+
+"I don't believe that anymore," Reif said. "I don't know what to believe."
+
+
+Cameron Lee Small, a therapist in Minneapolis whose practice caters to adoptees and their families, said many are feeling an intense sense of betrayal. Individual adoptees had long shared stories of falsified identities. But the revelations this year pointed to systemwide practices that routinely changed babies' origin stories to process adoptions quickly, including listing them as "abandoned" even when they had known parents.
+
+
+Small, who was also adopted from Korea in the 1980s, summarized what he's been hearing from adoptees: "I'm kind of back to nothing. What do I believe now? Who can I believe?"
+
+
+Reif's daughter, Jenn Hamilton, spent her life thinking she was unwanted, often quipping, "That's what happens when you're found in a dumpster as a baby."
+
+
+It has taken a toll on her all her life: She's been happily married for nine years, she said, but she has this insatiable insecurity: "I constantly find myself asking my husband, 'Are you mad at me? Did I do something wrong?' Do you want to leave me?'"
+
+
+She has no idea anymore if abandonment was ever really her story, with revelations of abuses so systemic that even the Korean government likened it to "trafficking."
+
+
+"You can't make that many mistakes. It has to be intentional. It was this huge tree of deception," she said. "I feel disgusted."
+
+
+Holt International, the U.S.-based agency that pioneered adoptions from Korea, did not respond to repeated requests for comment for this story.
+
+
+Reform is sweeping across Europe — countries have launched investigations, halted foreign adoptions and apologized to adoptees for failing to protect them. But the United States, which has taken in the most adopted children by far, has not done a review of its own history or culpability.
+
+
+The U.S. State Department told AP this summer that it would work with its historian to piece together its history, and detailed initial findings that some documents might have been falsified. But it said there was no evidence that U.S. officials were aware of it. The State Department has since said that it has "been unable to identify any records that could provide insight into the U.S. government role in adoptions from South Korea in the 1970s and 1980s."
+
+
+Korea's National Police Agency confirmed an increase in adoptees registering their DNA for family searches — both at domestic police stations and diplomatic offices across North America and Europe — in the weeks following the release of the AP stories and documentary in September. More than 120 adoptees registered their DNA in October and November, compared to an average of fewer than 30 a month from January to August.
+
+
+
+
+Korea's government has maintained that adoptions were a necessary tool to care for needy children, including babies of unwed mothers or other children deemed as abandoned. However, Korea's Ministry of Health and Welfare acknowledged to AP that the adoption boom in the 1970s and 80s was possibly fueled by a desire to reduce welfare costs.
+
+
+Korea's Truth and Reconciliation Commission has been investigating government accountability over foreign adoption problems since 2022, prompted by complaints filed by hundreds of adoptees, and is expected to release an interim report in February. The Commission has posted the AP stories on its website.
+
+
+A law passed in 2023 mandates that all adoption records be transferred from private agencies to a government department called the National Center for the Rights of the Child by July, to centralize the handling of family search requests. The center has confirmed that private agencies hold about 170,000 adoption files, but director Chung Ick-Joong doubts it will acquire a space to store and manage all these records in time, due to financial constraints and other challenges. The agency expects family search requests to increase dramatically – "possibly by tenfold," according to Chung — yet has funding to add only five staff members to its team of six searchers.
+
+
+Chung acknowledged that flaws in adoption laws had persisted for decades, and Korea only required adoptions to go through courts and birth records to be preserved after 2012.
+
+
+"It's difficult to determine who was responsible for the inaccuracies in records before then," he said. "The adoption agency might have been at fault, the biological parents may have lied, or something might have gone wrong at the orphanage ... no one truly knows what the truth is."
+
+
+Korean adoption agencies have mostly declined AP's requests for comment in recent months, often citing privacy concerns.
+
+
+Advocates insist that most adoptive families thrive, with both the parents and children happily living their lives without questioning the industry as Reif and Hamilton have.
+
+
+Hamilton grew up in a rural, almost exclusively white community in Wisconsin, and back then all she wanted was to be accepted. But having children of her own changed that. When her first child was born, she looked at him, and it took her breath away.
+
+
+"It can't explain it, like this is the first person I know in my life that I'm biologically related to," she said.
+
+
+She wanted to learn her own history, so her children could know theirs. She wrote a letter to her adoption agency, which within weeks connected her with a woman they said was her mother. It was emotional, shocking.
+
+
+But soon she felt like she had more questions than answers. The woman's name didn't match the one listed on paperwork, and the name she gave for the father was also different. Birthdates didn't match, the birthplace didn't either. They had not met in a factory, she said, they had been pen pals.
+
+
+Hamilton asked the woman to take a DNA test, but she said she didn't know how to access one. Hamilton came to believe this woman was not her birth mother.
+
+
+The AP's reporting found numerous cases where agencies connected adoptees with supposed birth families, only for them to later discover after emotional meetings that they weren't related at all.
+
+
+Hamilton has been trying to untangle the DNA results on her father's side, contacting people distantly related, cousins once removed, half great aunts.
+
+
+"It becomes an obsession," Hamilton said. "It's like a puzzle that you start, and you have to find the missing pieces."
+
+
+Lynelle Long, the founder of InterCountry Adoptee Voices, the largest organization of adoptees in the world, said governments at the very least need to legally mandate that agencies provide adoptees with their full and redacted documents, without the payment now often required.
+
+
+Long said parents like Reif have an important role, because in Western countries, laws always favored the desires of adoptive parents — designed to make adoptions quicker and easier. Many clung to the narrative that they saved needy orphans who should be grateful, she said, especially in the U.S., where the reckoning rocking Europe has not taken hold.
+
+
+"We really need adoptive parents in the United States, if they have any inkling of guilt or shame or loss, to step up, take responsibility and demand that legislation be put in place to criminalize these practices and prevent it from ever happening again," Long said.
+
+
+Hamilton is close to her parents; she just renovated the basement to accommodate their visits. She's sad for herself, she said, but she's sadder for her mother, who is desperate to learn if her children actually had parents somewhere, searching for them.
+
+
+"And I'm like, 'Why, so you can send us back?" Hamilton said. "I don't want to be a victim."
+
+
+She said she's glad she was adopted, and does not long for that different, alternative life in Korea.
+
+
+Reif loves her children profoundly, she said. But she doesn't think she would adopt from abroad again, if she'd known then what she knows now.
+
+
+"I'd rather be childless than think I have somebody else's child that didn't want to give them up," she said. "I think of somebody taking my child. Those poor families, I just can't imagine it." 
+
+<br> 
+
+<https://www.voanews.com/a/fraud-allegations-rock-south-korean-adoptees-and-families/7920666.html>
+
+---
+
+## 'Our county ignored Africa,' Jimmy Carter said. He didn't
+
+date: 2025-01-05, from: VOA News USA
+
+NAIROBI, KENYA  — Jimmy Carter was the first U.S. president to make a state visit to sub-Saharan Africa. He once called helping with Zimbabwe's transition from white rule to independence "our greatest single success." And when he died at 100, his foundation's work in rural Africa had nearly fulfilled his quest to eliminate a disease that afflicted millions, for the first time since the eradication of smallpox.
+
+
+The African continent, a booming region with a population rivaling China's that is set to double by 2050, is where Carter's legacy remains most evident. Until his presidency, U.S. leaders had shown little interest in Africa, even as independence movements swept the region in the 1960s and '70s.
+
+
+"I think the day of the so-called ugly American is over," Carter said during his warm 1978 reception in Nigeria, Africa's most populous country. He said the official state visit swept aside "past aloofness by the United States," and he joked that he and Nigerian President Olesegun Obasanjo would go into peanut farming together.
+
+
+Cold War tensions drew Carter's attention to the continent as the U.S. and Soviet Union competed for influence. But Carter also drew on the missionary traditions of his Baptist faith and the racial injustice he witnessed in his homeland in the U.S. South.
+
+
+"For too long our country ignored Africa," Carter told the Democratic National Committee in his first year as president.
+
+
+African leaders soon received invitations to the White House, intrigued by the abrupt interest from the world's most powerful nation and what it could mean for them.
+
+
+"There is an air of freshness which is invigorating," visiting Zambian President Kenneth Kaunda said.
+
+
+Carter observed after his first Africa trip, "There is a common theme that runs through the advice to me of leaders of African nations: 'We want to manage our own affairs. We want to be friends with both of the great superpowers and also with the nations of Europe. We don't want to choose up sides.'"
+
+
+The theme echoes today as China also jostles with Russia and the U.S. for influence, and access to Africa's raw materials. But neither superpower has had an emissary like Carter, who made human rights central to U.S. foreign policy and made 43 more trips to the continent after his presidency, promoting Carter Center projects that sought to empower Africans to determine their own futures.
+
+
+
+
+As president, Carter focused on civil and political rights. He later broadened his efforts to include social and economic rights as the key to public health.
+
+
+"They are the rights of the human by virtue of their humanity. And Carter is the single person in the world that has done the most for advancing this idea," said Abdullahi Ahmed An-Naim, a Sudanese legal scholar.
+
+
+Even as a candidate, Carter mused about what he might accomplish, telling Playboy magazine, "it might be that now I should drop my campaign for president and start a crusade for black-majority rule in South Africa or Rhodesia [now Zimbabwe]. It might be that later on, we'll discover there were opportunities in our lives to do wonderful things and we didn't take advantage of them."
+
+
+Carter welcomed Zimbabwe's independence just four years later, hosting new Prime Minister Robert Mugabe at the White House and quoting the Rev. Martin Luther King, Jr.: "Injustice anywhere is a threat to justice everywhere."
+
+
+"Carter told me that he spent more time on Rhodesia than he did on the entire Middle East. And when you go into the archives and look at the administration, there is indeed more on southern Africa than the Middle East," historian and author Nancy Mitchell said.
+
+
+Relations with Mugabe's government soon soured amid deadly repression and by 1986 Carter led a walkout of diplomats in the capital. In 2008, Carter was barred from Zimbabwe, a first in his travels. He called the country "a basket case, an embarrassment to the region."
+
+
+"Whatever the Zimbabwean leadership may think of him now, Zimbabweans, at least those who were around in the 1970s and '80s, will always regard him as an icon and a tenacious promoter of democracy," said Eldred Masunungure, a Harare-based political analyst.
+
+
+Carter also criticized South Africa's government for its treatment of Black citizens under apartheid, at a time when South Africa was "trying to ingratiate itself with influential economies around the world," current President Cyril Ramaphosa said on X after Carter's death.
+
+
+The think tank Jimmy and Rosalynn Carter founded in 1982 played a key role in monitoring African elections and brokering ceasefires between warring forces, but fighting disease was the third pillar of The Carter Center's work.
+
+
+"The first time I came here to Cape Town, I almost got in a fight with the president of South Africa, Thabo Mbeki, because he was refusing to let AIDS be treated," Carter told a local newspaper. "That's the closest I've come to getting into a fist fight with a head of state."
+
+
+Carter often said he was determined to outlive the last guinea worm infecting the human race. Once affecting millions of people, the parasitic disease has nearly been eliminated, with just 14 cases documented in 2023 in a handful of African countries.
+
+
+Carter's quest included arranging a four-month "guinea worm cease-fire" in Sudan in 1995 so that The Carter Center could reach almost 2,000 endemic villages.
+
+
+"He taught us a lot about having faith," said Makoy Samuel Yibi, who leads the guinea worm eradication program for South Sudan's health ministry and grew up with people who believed the disease was simply their fate. "Even the poor people call these people poor, you see. To have the leader of the free world pay attention and try to uplift them is a touching virtue."
+
+
+Such dedication impressed health officials in Africa over the years.
+
+
+"President Carter worked for all humankind irrespective of race, religion, or status," Ethiopia's former health minister, Lia Tadesse, said in a statement shared with the AP. Ethiopia, the continent's second most populous country with over 110 million people, had zero guinea worm cases in 2023. 
+
+<br> 
+
+<https://www.voanews.com/a/our-county-ignored-africa-jimmy-carter-said-he-didn-t/7924799.html>
+
+---
+
+## Italy's Meloni boosts ties with Trump in surprise Florida visit
+
+date: 2025-01-05, from: VOA News USA
+
+WEST PALM BEACH, FLORIDA — Italian Prime Minister Giorgia Meloni made a surprise trip to Florida to meet with Donald Trump late on Saturday, as the key European leader sought to buttress ties with the president-elect before his inauguration on January 20. 
+
+
+Members of Trump's Mar-a-Lago resort welcomed Meloni with applause after an introduction by the president-elect, according to videos shared on social media by reporters and others. 
+
+
+"This is very exciting. I'm here with a fantastic woman, the prime minister of Italy," Trump told the Mar-a-Lago crowd, according to a media pool report. "She’s really taken Europe by storm." 
+
+
+Meloni is seen as a potentially strong partner for Trump given her conservative credentials and the stability of the right-wing coalition she has led in Italy since late 2022. 
+
+
+She has also forged a close relationship with billionaire tech CEO Elon Musk, a close Trump ally who spent more than a quarter of a billion dollars to help him win the election. 
+
+
+Tommaso Foti, Italy's EU and regional affairs minister, said on Sunday that the meeting, which had not been announced in advance, showed that Italy could act as "a diplomatic bridge between two worlds: the European Union and the USA." 
+
+
+Meloni's trip comes days before she is to meet U.S. President Joe Biden during a visit to Rome from Thursday to Jan. 12. Trump defeated Biden in the November election and is preparing to return to the White House. 
+
+
+While no details of their meeting have been disclosed, Meloni had planned to talk with Trump about Russia's war in Ukraine, trade issues, the Middle East and the plight of an Italian journalist detained in Tehran, according to Italian media reports. 
+
+
+Trump and Meloni watched a screening of a documentary questioning the criminal investigations and legal scrutiny faced by John Eastman, a former Trump lawyer who was central to Trump's unsuccessful efforts to overturn his 2020 election loss. 
+
+
+One of the biggest challenges facing Meloni is the arrest of Italian journalist Cecilia Sala in Iran on Dec. 19. 
+
+
+Sala was detained three days after Mohammad Abedini, an Iranian businessman, was arrested at Milan's Malpensa airport on a U.S. warrant for allegedly supplying drone parts that Washington says were used in a 2023 attack that killed three U.S. service members in Jordan. Iran has denied involvement in the attack. 
+
+
+Meloni became the latest in the handful of foreign leaders who have visited Trump in Florida since the Nov. 5 election. He has met with Argentinian President Javier Milei, Prime Minister Viktor Orban of Hungary, and Canadian Prime Minister Justin Trudeau. 
+
+<br> 
+
+<https://www.voanews.com/a/italian-prime-minister-meloni-meets-with-trump-at-his-florida-resort/7924789.html>
+
+---
+
+## Jimmy Carter's state funeral has started. Here's what to know
+
+date: 2025-01-05, from: VOA News USA
+
+ATLANTA, GEORGIA — Six days of funeral observances for former President Jimmy Carter began Saturday in Georgia, where he died on Dec. 29 at the age of 100.
+
+
+The first events reflected Carter's climb up the political ladder, from the tiny town of Plains, Georgia, to decades on the global stage as a humanitarian and advocate for democracy.
+
+
+Here is what to know about the initial ceremonies and what happens next:
+
+
+The start honors Carter's deep roots in rural south Georgia
+
+
+The proceedings began at 10:15 a.m. local time Saturday with the Carter family arriving at Phoebe Sumter Medical Center in Americus.
+
+
+Former Secret Service agents who protected Carter served as pallbearers, walking alongside the hearse as it exited the campus on its way to Plains.
+
+
+James Earl Carter Jr. lived more than 80 of his 100 years in and around the town, which still has fewer than 700 people, not much more than when he was born on Oct. 1, 1924. Some other modern presidents — Richard Nixon, Ronald Reagan and Bill Clinton — also grew up in small-town settings but Carter stands out for returning and remaining in his birthplace for his long post-presidency.
+
+
+The motorcade moved through downtown Plains, which spans just a few blocks, passing near the girlhood home of former first lady Rosalynn Smith Carter, who died in November 2023 at the age of 96, and near where the couple operated the family peanut warehouses. The route also included the old train depot that served as Jimmy Carter's 1976 presidential campaign headquarters and the gas station once run by Carter's younger brother, Billy.
+
+
+The motorcade passed by the Methodist church where the Carters married in 1946, and the home where they lived and died. The former president will be buried there alongside Rosalynn.
+
+
+The Carters built the one-story house, now surrounded by Secret Service fencing, before his first state Senate campaign in 1962 and lived out their lives there with the exception of four years in the Governor's Mansion and four more in the White House.
+
+
+A stop at Carter's boyhood home — a blend of privilege, hard work
+
+
+After going through Plains, the procession stopped in front of Carter's family farm and boyhood home in Archery, just outside the town, after passing the cemetery where the former president's parents, James Earl Carter Sr. and Lillian Carter, are buried.
+
+
+The farm now is part of the Jimmy Carter National Historical Park. The National Park Service rang the old farm bell 39 times to honor the 39th president.
+
+
+Carter was the first president born in a hospital. But the home had no electricity or running water when he was born, and he worked his father's land during the Great Depression. Still, the Carters had relative privilege and status. Earl employed Black tenant farming families. The elder Carter also owned a store in Plains and was a local civic and political leader. Lillian was a nurse and she delivered Rosalynn. The property still includes a tennis court Earl had built for the family.
+
+
+It was Earl's death in 1953 that set Jimmy on course toward the Oval Office. The younger Carters had left Plains after he graduated from the U.S. Naval Academy. But Jimmy abandoned a promising career as a submarine officer and early participant in the Pentagon's nuclear program to take over the family's peanut business after his father's death. Within a decade, he was elected to the Georgia state Senate.
+
+
+Lying in repose in Atlanta, where Carter was a politician and global figure
+
+
+From Archery, the motorcade headed north to Atlanta. The military-run motorcade stopped outside the Georgia Capitol, where Carter served as a state senator from 1963-67 and governor from 1971-75. Georgia Gov. Brian Kemp and Atlanta Mayor Andre Dickens led a moment of silence. While former governors are honored with state-run funerals, presidents — even if they served as governors — are memorialized with national rites run by the federal government.
+
+
+The motorcade then proceeded to the Carter Presidential Center, which includes Carter's presidential library and The Carter Center, established by the former president and first lady in 1982. Carter's son, James Earl "Chip" Carter III, and his grandson, Jason Carter, spoke to an assembly that included many Carter Center employees whose work concentrating on international diplomacy and mediation, election monitoring, and fighting disease in the developing world continues to set a standard for what former presidents can accomplish.
+
+
+Jimmy Carter, who delivered the center's annual reports until 2019, won the 2002 Nobel Peace Prize in part for this post-presidential work.
+
+
+Carter was scheduled to lie in repose from 7 p.m. Saturday to 6 a.m. Tuesday, with the public able to pay respects around the clock.
+
+
+What's next: A return to Washington
+
+
+Carter's remains will travel next to Washington, where he will lie in state in the Capitol Rotunda until his funeral at 10 a.m. Thursday at the Washington National Cathedral. All the living presidents have been invited, and Joe Biden, a Carter ally, will deliver a eulogy. Biden also signed a bill to name a U.S. Postal Service facility in Plains after Jimmy and Rosalynn Carter.
+
+
+The Carter family then will return to bury its patriarch in Plains after a private hometown funeral at 3:45 p.m. at Maranatha Baptist Church, where Carter, a devout evangelical, taught Sunday School for decades.
+
+
+Carter will be buried afterward in a private graveside service, in a plot visible from the front porch of his home. 
+
+<br> 
+
+<https://www.voanews.com/a/jimmy-carter-s-state-funeral-has-started-here-s-what-to-know/7924781.html>
+
+---
+
+## Fed's Kugler, Daly say job not done on inflation
+
+date: 2025-01-05, from: VOA News USA
+
+Two Federal Reserve policymakers said Saturday they feel the U.S. central bank's job on taming inflation is not yet done, but also signaled they do not want to risk damaging the labor market as they try to finish that job. 
+
+
+The remarks, from Governor Adriana Kugler and San Francisco Fed President Mary Daly, highlight the delicate balancing act facing U.S. central bankers this year as they look to slow their pace of rate cutting. The Fed lowered short-term rates by a full percentage point last year, to a current range of 4.25%-4.50%. 
+
+
+Inflation by the Fed's preferred measure is well down from its mid-2022 peak of around 7%, registering 2.4% in November. Still, that's above the Fed's 2% goal, and in December policymakers projected slower progress toward that goal than they had earlier anticipated. 
+
+
+"We are fully aware that we are not there yet — no one is popping champagne anywhere," Kugler said at the annual American Economic Association conference in San Francisco, California. "And at the same time ... we want the unemployment rate to stay where it is" and not increase rapidly. 
+
+
+In November, unemployment was 4.2%, consistent in both her and colleague Daly's view with maximum employment, the Fed's second goal alongside its price stability goal. 
+
+
+"At this point, I would not want to see further slowing in the labor market — maybe gradually moving around in bumps and chunks on a given month, but certainly not additional slowing in the labor market," said Daly, who was speaking on the same panel. 
+
+
+The policymakers were not asked, nor did they volunteer their views, about the potential impact of incoming President-elect Donald Trump's economic policies, including tariffs and tax cuts, which some have speculated could fuel growth and reignite inflation. 
+
+<br> 
+
+<https://www.voanews.com/a/fed-s-kugler-daly-say-job-not-done-on-inflation-/7924763.html>
+
+---
+
+## Jill Biden gets priciest gift from foreign leader in 2023 — a $20,000 diamond
+
+date: 2025-01-05, from: VOA News USA
+
+WASHINGTON — President Joe Biden and his family were given tens of thousands of dollars in gifts from foreign leaders in 2023, according to an annual accounting published by the State Department on Thursday, with first lady Jill Biden receiving the single most expensive present: a $20,000 diamond from India's leader.
+
+
+The 7.5-carat diamond from Indian Prime Minister Narendra Modi was easily the most costly gift presented to any member of the first family in 2023, although she also received a brooch valued at $14,063 from the Ukrainian ambassador to the United States and a bracelet, brooch and photograph album worth $4,510 from the president and first lady of Egypt.
+
+
+The U.S. president himself received a number of expensive presents, including a commemorative photo album valued at $7,100 from South Korea's recently impeached President Yoon Suk Yeol , a $3,495 statue of Mongolian warriors from the Mongolian prime minister, a $3,300 silver bowl from the sultan of Brunei, a $3,160 sterling silver tray from the president of Israel, and a collage worth $2,400 from Ukrainian President Volodymyr Zelenskyy.
+
+
+Federal law requires executive branch officials to declare gifts they receive from foreign leaders and counterparts that have an estimated value of more than $480. Many of the gifts that meet that threshold are relatively modest, and the more expensive ones are typically — but not always — transferred to the National Archives or put on official displays.
+
+
+The $20,000 diamond was retained for official use in the White House East Wing, according to a State Department document, while the other gifts to the president and first lady were sent to the archives.
+
+
+Vanessa Valdivia, a spokesperson for Jill Biden, said the diamond will be turned over to the archives after they leave office. She did not say what it was being used for.
+
+
+Ukraine's ambassador, Oksana Markarova, said Friday on Facebook that a Ukrainian designer fashioned the brooch from the remains of a Russian rocket and that the piece was made from inexpensive materials, so its "true value … lies in its symbolism." The embassy's spokesperson, Halyna Yusypiuk, said U.S. officials provided the assessed value.
+
+
+Recipients have the option to purchase the gift from the U.S. government at its market value, although that is rare, particularly with high-end items.
+
+
+According to the State Department's Office of Protocol, which compiles the list that will be published in Friday's edition of the Federal Register, several employees of the CIA reported receiving lavish gifts of watches, perfume and jewelry, nearly all of which were destroyed. Of the gifts destroyed, they were worth more than $132,000 combined.
+
+
+
+
+CIA Director William Burns received a $18,000 astrograph, which is a telescope and astrological camera, from a foreign source whose identity is classified. That is being transferred to the General Services Administration. But Burns reported receiving and destroying an $11,000 Omega watch, while numerous others did the same with luxury timepieces.
+
+
+Below the rank of director, the CIA employees who reported gifts are not identified, but one of them logged an Omega Seamaster Aqua Terra watch, a ladies Omega Constellation watch, a diamond necklace, earring bracelet set, and a ring that were valued together at $65,100.
+
+
+All of those were destroyed, according to the report, as was a $30,000 women's jewelry set from the Libyan jeweler Al Grew consisting of a necklace, bracelet, ring and earrings received by another CIA employee.
+
+
+Another CIA employee reported receiving a men's Yacht Master II Rolex Oyster Perpetual watch worth $18,700, another reported getting a lady's Rolex Oyster Datejust watch valued at $12,500, and one other got a $7,450 Rolex Air King watch. All three of the watches were destroyed, according to the list.
+
+
+Another employee reported receiving a collection of pricey Amouage Perfume worth $10,670, the destruction of which is pending, the report says. 
+
+<br> 
+
+<https://www.voanews.com/a/jill-biden-gets-priciest-gift-from-foreign-leader-in-2023-a-20-000-diamond/7924761.html>
+
+---
+
+## US finds more records found linking Credit Suisse, Nazi accounts
+
+date: 2025-01-05, from: VOA News USA
+
+WASHINGTON — An investigation by a U.S. Senate panel has found that troubled investment bank Credit Suisse concealed information during previous inquiries into Nazi-controlled bank accounts during World War II.
+
+
+Tens of thousands of documents discovered during an ongoing examination have provided new proof of the existence of account holders linked to the Nazis, the Senate Budget Committee said in a statement released Saturday.
+
+
+The bank did not reveal the existence of these accounts during previous investigations, notably in the 1990s, the committee said.
+
+
+Credit Suisse, now a subsidiary of investment bank UBS, agreed in 1998 to take part in a $1.25 billion settlement of lawsuits brought by Holocaust survivors, but it has been accused of not being completely open about its past dealings with Nazis.
+
+
+The Senate committee said Saturday that one set of newly discovered files, including 3,600 physical documents and 40,000 microfilms, was found to have a "high relevance rate" of Nazi connections.
+
+
+It said the revelations stem from an interim report by former prosecutor Neil Barofsky, who was fired as an "independent ombudsperson" by the bank in 2022 after being pressed to limit his investigative work.
+
+
+Barofsky was reinstated in the role in 2023 "as a result of the committee's investigation," and after UBS's takeover of Credit Suisse.
+
+
+In a letter to the panel released Saturday, Barofsky noted the "extraordinary level of cooperation that Credit Suisse, under the leadership of UBS, has provided" since he rejoined the company.
+
+
+But he said Credit Suisse had yet to share all the information it held.
+
+
+The Barofsky team has discovered, among other things, accounts controlled by high-ranking SS officers, The Wall Street Journal reported.
+
+
+In his letter, Barofsky highlighted "especially noteworthy" discoveries from a Credit Suisse research department.
+
+
+"Numerous client files in the sample are marked with a stamp stating 'Amerikanische schwarze Liste' — meaning 'American Black List' — a list maintained by the Allies of individuals and companies that were directly financed by, or were known to regularly trade with, Axis powers," he wrote.
+
+
+"One file bearing this stamp relates to an entity that was involved in selling looted Jewish assets," he added.
+
+
+Contacted by AFP, UBS said it was committed to providing a complete record of the former Nazi-linked accounts in Credit Suisse's predecessor banks.
+
+
+It said it would provide Barofsky with all necessary assistance in his work to shed light "on this tragic period."
+
+
+The Senate panel's investigation is continuing. 
+
+<br> 
+
+<https://www.voanews.com/a/us-finds-more-records-found-linking-credit-suisse-nazi-accounts/7924755.html>
+
+---
+
+## Tesla data helped police after truck explosion; experts have privacy concerns
+
+date: 2025-01-05, from: VOA News USA
+
+NEW YORK — Your car is spying on you. 
+
+
+That is one takeaway from the fast, detailed data that Tesla collected on the driver of one of its Cybertrucks that exploded in Las Vegas, Nevada, earlier this week. Privacy data experts say the deep dive by Elon Musk's company was impressive but also shines a spotlight on a difficult question as vehicles become less like cars and more like computers on wheels. 
+
+
+"You might want law enforcement to have the data to crack down on criminals but can anyone have access to it?" said Jodi Daniels, CEO of privacy consulting firm Red Clover Advisors.  
+
+
+Many of the latest cars not only know where you've been and where you are going, but also often have access to your contacts, your call logs, your texts and other sensitive information thanks to cell phone syncing. 
+
+
+The data collected by Musk's electric car company after the Cybertruck packed with fireworks burst into flames in front of the Trump International Hotel Wednesday proved valuable to police in helping track the driver's movements. 
+
+
+Within hours of the New Year's Day explosion that burned the driver beyond recognition and injured seven, Tesla was able to track Matthew Livelsberger's movements in detail from Denver to Las Vegas — and confirm that the problem was explosives in the truck, not the truck itself. Tesla used data collected from charging stations and from onboard software. 
+
+
+"I have to thank Elon Musk, specifically," said Las Vegas Metropolitan Police Department Sheriff Kevin McMahill to reporters.  
+
+
+Some privacy experts were less enthusiastic. 
+
+
+"It reveals the kind of sweeping surveillance going on," said David Choffnes, executive director of the Cybersecurity and Privacy Institute at Northeastern University in Boston. "When something bad happens, it's helpful, but it's a double-edged sword. Companies that collect this data can abuse it." 
+
+
+General Motors, for instance, was sued in August by the Texas attorney general for allegedly selling data from 1.8 million drivers to insurance companies without their consent. 
+
+
+Cars equipped with cameras to enable self-driving features have added a new security risk. Tesla itself came under fire after Reuters reported how employees from 2019 through 2022 shared drivers' sensitive videos and recordings with each other, including videos of road rage incidents and, in one case, nudity. 
+
+
+Tesla did not respond to emailed questions about its privacy policy. On its website, Tesla says it follows strict rules for keeping names and information private. 
+
+
+"No one but you would have knowledge of your activities, location, or a history of where you've been," according to a statement. "Your information is kept private and secure." 
+
+
+Auto analyst Sam Abuelsamid at Telemetry Insight, said he doesn't think Tesla is "especially worse" than other auto companies in handling customer data, but he is still concerned. 
+
+
+"This is one of the biggest ethical issues we have around modern vehicles. They're connected," he said. "Consumers need to have control over their data." 
+
+
+Tensions were high when the Cybertruck parked at the front doors of Trump's hotel began smoking, then burst into flames. Just hours earlier, a driver in another vehicle using the same peer-to-peer car rental service, Turo, had killed 15 people after slamming into a crowd in New Orleans, Louisiana, in what law enforcement is calling a terrorist attack. 
+
+
+Shortly before 1 p.m., the Las Vegas police announced they were investigating a second incident. 
+
+
+"The whole Tesla senior team is investigating this matter right now," Musk wrote on X. "Will post more information as soon as we learn anything." 
+
+
+Over the next few hours, Tesla was able to piece together Livelsberger's journey over five days and four states by tracking, among other things, his recharging stops in various locations, including Monument, Colorado, Albuquerque, New Mexico, and Flagstaff, Arizona. 
+
+<br> 
+
+<https://www.voanews.com/a/tesla-data-helped-police-after-truck-explosion-experts-have-privacy-concerns-/7924749.html>
+
+---
+
+## Drivers skid, crash as winter storm grips central US
+
+date: 2025-01-05, from: VOA News USA
+
+MISSION, KANSAS — Road conditions were deteriorating Saturday in the central U.S. as a winter storm brought a mix of snow, ice and plunging temperatures, with forecasts calling for the dreaded combo to spread eastward in the coming days.
+
+
+"Winter returned," said Bob Oravec, lead forecaster at the National Weather Service in College Park, Maryland.
+
+
+The polar vortex of ultra-cold air usually stays penned up around the North Pole, spinning like a top. But sometimes it escapes or stretches down to the U.S., Europe or Asia — and that's when large numbers of people experience intense doses of cold.
+
+
+Studies show a fast-warming Arctic gets some of the blame for the increase in polar vortex stretching or wandering.
+
+
+Snow and ice in forecast
+
+
+By Saturday evening, widespread heavy snow was likely between central Kansas and Indiana, especially along and north of Interstate 70, where there was a high chance of at least 20 centimeters of snow. Part of the interstate was closed in central Kansas by the afternoon.
+
+
+The storm was forecast to move then into the Ohio Valley, with severe travel disruptions expected. It will reach the Mid-Atlantic states Sunday into Monday, with a hard freeze expected as far south as Florida.
+
+
+Severe thunderstorms, with the possibility of tornadoes and hail, were also possible ahead of the storm system's cold front as it crosses the Lower Mississippi Valley, the National Weather Service warned.
+
+
+Car wrecks
+
+
+A fire truck, several tractor-trailers and passenger vehicles overturned west of Salina, Kansas. Rigs also jackknifed and went into ditches, state Highway Patrol Trooper Ben Gardner said.
+
+
+
+
+He posted a video showing his boots sliding across the highway blacktop like an ice-skating rink.
+
+
+"We are in it now," Gardner said as he drove to the scene of an accident. Online, he begged for prayers and warned that some roadways were nearly impassable.
+
+
+Freezing rain in Wichita, Kansas, sent authorities to multiple crashes in the morning, and police urged drivers to stay home if possible and watch out for emergency vehicles.
+
+
+Governors in neighboring Missouri and nearby Arkansas declared states of emergency. Whiteout conditions threatened to make driving dangerous to impossible and heighten the risk of becoming stranded, forecasters warned.
+
+
+Getting ready
+
+
+Stores in Wichita were filled with shoppers stocking up on groceries in advance of the storm, and warming centers opened in churches and libraries.
+
+
+Several businesses closed across the Kansas City area, and the school district in suburban Independence, Missouri, said it might need to cancel classes for one or more days.
+
+
+"Get where you're going now & stay put. If you must travel, consider packing a bag & staying where you're headed," the Missouri Department of Transportation said in a message on the social platform X.
+
+
+The agency warned Friday that a shortage of workers could hamper the ability to clear roads.
+
+
+In Columbus, Ohio, crews treated major roadways with anti-icing liquids.
+
+
+"It will be a major headache," said Tom Kines, a senior meteorologist with AccuWeather. "The storm not only has the snow threat to it but the ice threat."
+
+
+Power outages could be significant particularly south of the Kansas City area, Kines said.
+
+
+Temperatures dip
+
+
+Starting Monday, the eastern two-thirds of the country will experience dangerous, bone-chilling cold and wind chills, forecasters said. Temperatures could be 7 to 14 degrees Celsius below normal as the polar vortex stretches down from the high Arctic.
+
+
+In Chicago on Saturday, temperatures hovered near minus 7-10 Celsius and around minus 18 C in Minneapolis, while dropping to minus 25 C at International Falls, Minnesota, on the Canadian border.
+
+
+Disruptions extend southward
+
+
+Virginia Governor Glenn Youngkin declared a state of emergency Friday evening ahead of the storm and noted it could impact people's ability to vote in the state's special elections Tuesday. In a statement on X, he encouraged residents to vote Saturday before the bad weather arrives.
+
+
+A similar declaration was issued in Maryland, where officials in the historic state capital near Chesapeake Bay asked residents to remove vehicles from emergency snow routes. Annapolis also announced plans to open several garages on Sunday for free parking.
+
+
+The National Weather Service predicted about 20 to 30 centimeters of snow for the Annapolis area, with temperatures remaining below freezing throughout the weekend.
+
+
+In Baltimore, an extreme weather alert was issued instructing agencies to provide shelter and assistance for those in need. City officials said wind chills were expected to dip to minus 10.56 degrees Celsius overnight Saturday and remain in the teens through Tuesday. 
+
+<br> 
+
+<https://www.voanews.com/a/drivers-skid-crash-as-winter-storm-grips-central-us/7924750.html>
+
+---
+
+## Blinken heads to South Korea, Japan, France
+
+date: 2025-01-05, from: VOA News USA
+
+WASHINGTON — Secretary of State Antony Blinken will embark on what is expected to be his final overseas trip in office this weekend, traveling to South Korea, Japan and France. 
+
+
+The State Department announced Friday that Blinken would visit Seoul, South Korean, Tokyo and Paris beginning Sunday. 
+
+
+In South Korea, which is in the midst of political turmoil following the impeachment of President Yoon Suk Yeol, and Japan, Blinken intends to highlight the expansion of U.S. cooperation with both nations as part of the Biden administration's Indo-Pacific strategy. 
+
+
+That strategy is primarily intended to blunt Chinese ambitions in the region but also to deter the nuclear threat from North Korea. Political developments in South Korea, however, after Yoon declared martial law and was later impeached, have raised questions about the stability of Washington-Seoul relations. 
+
+
+The U.S. has taken a cautious approach to the uncertainty, insisting that the U.S.-South Korea alliance remains intact and iron-clad. Blinken will speak with South Korean officials about how "to build on our critical cooperation on challenges around the world based on our shared values," the State Department said in a statement. 
+
+
+In Tokyo, Blinken will "review the tremendous progress the U.S.-Japan alliance has made over the past few years," the statement said. That includes a major arms sales approval announced on Friday under which the U.S. will deliver some $3.64 billion in medium-range missiles, related equipment and training to Japan. 
+
+
+China has repeatedly complained about the potential sale, saying it will affect stability and security in the region, allegations that both Japan and the U.S. reject. 
+
+
+Blinken will wrap up his trip in Paris in meetings with French officials to discuss developments in the Middle East and European security, particularly in Ukraine. 
+
+<br> 
+
+<https://www.voanews.com/a/blinken-heads-to-south-korea-japan-france-/7924746.html>
+
+---
+
+## Exiled Venezuelan opposition leader to visit US, speak with Biden
+
+date: 2025-01-05, from: VOA News USA
+
+BUENOS AIRES, ARGENTINA — Venezuelan opposition politician Edmundo Gonzalez Urrutia, who fled the country after a tumultuous election and subsequent police crackdown, said Saturday he plans to speak with U.S. President Joe Biden. 
+
+
+Speaking in Argentina, where he met with President Javier Milei, Gonzalez added that he was traveling to the United States on Sunday, though it was unclear when the conversation with Biden would take place. 
+
+
+"We are planning a conversation with President Biden, and we are waiting for definitions regarding the new authorities," Gonzalez said in the Argentine capital, Buenos Aires, referring to incoming President-elect Donald Trump, who is set to take over on January 20. 
+
+
+Gonzalez's meeting with Milei came at the start of a regional tour aimed at building international support for the man Venezuela's opposition considers the rightful president-elect. 
+
+
+The 75-year-old appeared alongside Milei on a balcony of the Casa Rosada, the Argentine president's official workplace, as hundreds of Venezuelans gathered below on the Plaza de Mayo chanted "Venezuela, you are not alone!" 
+
+
+The appearance came just days before Gonzalez's rival, Nicolas Maduro, is set to be sworn in for a third presidential term in Caracas. 
+
+
+The United States, the European Union and dozens of other countries say Venezuelan election officials manipulated the vote results, which they have yet to publish in detail, of the July 28 elections.  
+
+
+Some countries instead have recognized Gonzalez as the  winner. 
+
+
+Gonzalez arrived in Buenos Aires quietly from Madrid, where he has lived in exile since fleeing Venezuela in September. Authorities in Caracas have offered a reward of $100,000 for information leading to his capture. 
+
+
+Street protests erupted after the election and degenerated into clashes with police, with 28 people dead, 200 injured and more than 2,400 arrested. 
+
+
+Gonzalez's schedule calls for him to visit Uruguay late Saturday, Panama on Wednesday and the Dominican Republic the day after. 
+
+
+He has said he will be in Caracas on January 10 to be sworn in as president. It remains unclear how the Maduro government will respond. 
+
+
+Gonzalez's visit to Argentina came amid heightened bilateral tensions following the arrest in Venezuela of an Argentine policeman on what Buenos Aires says are trumped up charges of terrorism. 
+
+
+The relationship was already strained following an exchange of insults and, ultimately, Argentina's refusal to recognize Maduro's victory claim. 
+
+
+The Argentine Embassy in Caracas has also been sheltering six opposition figures accused of "terrorism," a matter Gonzalez had said he would take up with Milei. 
+
+<br> 
+
+<https://www.voanews.com/a/exiled-venezuelan-opposition-leader-to-visit-us-speak-with-biden-/7924744.html>
+
+---
+
+## Biden honors Clinton, Bono, Goodall, others for contributions
+
+date: 2025-01-04, from: VOA News USA
+
+WASHINGTON — In the East Room of the White House on a particularly frigid Saturday afternoon, President Joe Biden bestowed the Presidential Medal of Freedom to 19 of the most famous names in politics, sports, entertainment, civil rights, LGBTQ+ advocacy and science. 
+
+
+Former Secretary of State Hillary Clinton aroused a standing ovation from the crowd as she received her medal. Clinton was accompanied to the event by her husband former President Bill Clinton, daughter Chelsea Clinton and grandchildren. Democratic philanthropist George Soros and actor-director Denzel Washington were also awarded the nation's highest civilian honor in a White House ceremony. 
+
+
+"For the final time as president I have the honor [of] bestowing the Medal of Freedom, our nation's highest civilian honor, on a group of extraordinary, truly extraordinary people, who gave their sacred effort, their sacred effort, to shape the culture and the cause of America," Biden said in his opening remarks. 
+
+
+"Let me just say to each of you, thank you, thank you, thank you for all you've done to help this country," Biden said Saturday. 
+
+
+4 medals awarded posthumously
+
+
+Four medals were awarded posthumously. They went to George W. Romney, who served as both a Michigan governor and secretary of housing and urban development; former Attorney General and Senator Robert F. Kennedy; Ash Carter, a former secretary of defense; and Fannie Lou Hamer, who founded the Mississippi Freedom Democratic Party and laid the groundwork for the 1965 Voting Rights Act. 
+
+
+Kennedy is father to Robert F. Kennedy Jr., President-elect Donald Trump's nominee for health and human services secretary. Biden said, "Bobby is one of my true political heroes. I love and I miss him dearly." 
+
+
+Romney is the father of former Utah Republican Senator Mitt Romney, one of Trump's strongest conservative critics. 
+
+
+Recipients made 'exemplary contributions'
+
+
+Biden has days left in the presidential office and has spent the last few days issuing awards and medals to valiant military veterans, courageous law enforcement officials and exceptional Americans. 
+
+
+The White House said the Medal of Freedom recipients have made "exemplary contributions to the prosperity, values, or security of the United States, world peace, or other significant societal, public or private endeavors." 
+
+
+Major philanthropists receiving the award include Spanish American chef Jose Andres, whose World Central Kitchen charity has become one of the world's most recognized food relief organizations, and Bono, the front man for rock band U2 and a social justice activist. 
+
+
+
+
+Soros' son Alex Soros accepted the medal on his father's behalf. In an emailed statement, Soros said: "As an immigrant who found freedom and prosperity in America, I am deeply moved by this honor." 
+
+
+Sports and entertainment stars recognized include professional soccer player Lionel Messi, who did not attend the event; retired Los Angeles Lakers basketball legend and businessman Earvin "Magic" Johnson; actor Michael J. Fox, who is an outspoken advocate for Parkinson's disease research and development; and William Sanford Nye, known to generations of students as "Bill Nye the Science Guy." 
+
+
+Other awardees include conservationist Jane Goodall; longtime Vogue magazine editor-in-chief Anna Wintour; American fashion designer Ralph Lauren; American Film Institute founder George Stevens Jr.; entrepreneur and LGBTQ+ activist Tim Gill; and David Rubenstein, co-founder of The Carlyle Group global investment firm. 
+
+
+
+
+Lauren is the first fashion designer to receive the honor. 
+
+
+Last year, Biden bestowed the Presidential Medal of Freedom on 19 people, including the late Medgar Evers, House Speaker Emerita Nancy Pelosi, Representative James Clyburn of South Carolina and actor Michelle Yeoh. 
+
+
+The Presidential Medal of Freedom was awarded 654 times between 1963 and 2024, according to the Congressional Research Service. Notable Medal of Freedom recipients from the past include Dr. Martin Luther King Jr., Maya Angelou and Mother Teresa. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-honors-clinton-bono-goodall-others-for-contributions/7924573.html>
+
+---
+
+## Prince William saddened by death of former nanny's stepson in New Orleans attack
+
+date: 2025-01-04, from: VOA News USA
+
+LONDON — Prince William expressed his shock and sadness Saturday at the news of the death of his former nanny’s stepson in the New Year's truck attack in New Orleans that killed 14 people.
+
+
+London’s Metropolitan Police confirmed Saturday that they are supporting the family of 31-year-old Edward Pettifer, including helping them through the process of returning his body to the United Kingdom. Pettifer, who is from west London, is the final victim to be identified.
+
+
+In a statement on social media, the Prince of Wales said he and his wife, Catherine, were “shocked and saddened by the tragic death of Ed Pettifer. Our thoughts and prayers remain with the Pettifer family and all those innocent people who have been tragically impacted by this horrific attack."
+
+
+Pettifer was the stepson of Tiggy Legge-Bourke, who was the nanny for William and his brother, Prince Harry, between 1993 and 1999, which included the time after the death of their mother, Princess Diana, in 1997. Legge-Bourke, who is also known as Alexandra Pettifer, was regularly photographed with Diana.
+
+
+British media also reported that King Charles III is said to be deeply saddened by the news and that he has sent his condolences to Pettifer's family.
+
+
+In a statement, Pettifer’s family said they were “devastated at the tragic news of Ed’s death” and described him as “a wonderful son, brother, grandson, nephew and a friend to so many.”
+
+
+“We will all miss him terribly. Our thoughts are with the other families who have lost their family members due to this terrible attack,” the family added.
+
+
+Authorities say 14 people were killed and about 30 were injured in the attack early Wednesday by Shamsud-Din Jabbar, a former U.S. Army soldier who posted several videos on his Facebook account hours before the attack previewing the violence he would unleash and proclaiming his support for the Islamic State militant group. The coroner’s office listed the cause of death for all 14 victims as “blunt force injuries.”
+
+
+Jabbar, 42, was fatally shot in a firefight with police at the scene of the deadly crash on Bourbon Street, famous worldwide for its festive vibes in New Orleans’ historic French Quarter. 
+
+<br> 
+
+<https://www.voanews.com/a/7924469.html>
+
+---
+
+## Biden notifies Congress of planned $8 billion weapons sale to Israel
+
+date: 2025-01-04, from: VOA News USA
+
+WASHINGTON — The U.S. State Department has informed Congress of a planned $8 billion weapons sale to Israel, U.S. officials say, as the American ally presses forward with its war against Hamas in Gaza.
+
+
+Some of the arms in the package could be sent from current U.S. stocks, but the majority would take a year or several years to deliver, according to two U.S. officials Saturday who spoke on condition of anonymity because the notification to Congress hasn't been formally sent.
+
+
+The sale includes medium-range air-to-air missiles to help Israel defend against airborne threats, 155 mm projectile artillery shells for long-range targeting, Hellfire AGM-114 missiles, 500-pound bombs and more.
+
+
+The weapons package would add to a record of at least $17.9 billion in military aid that the U.S. has provided Israel since the Hamas terror attack on Oct. 7, 2023, launched the war.
+
+
+The United States, Britain and other Western nations designate Hamas as a terror group.
+
+
+The Biden administration has faced criticism over the mounting number of deaths of Palestinian civilians. There have been demonstrations on college campuses and unsuccessful efforts in Congress by Senator Bernie Sanders and some Democrats to block sales of offensive weapons to Israel.
+
+
+The United States paused a shipment of 2,000-pound bombs to Israel in May over concerns about civilian casualties if the bombs were to be used during an assault on the southern Gaza city of Rafah. The Biden administration has demanded that Israel increase humanitarian aid into the enclave. But in November, citing some limited progress, it declined to limit arms transfers as it threatened to do if the situation did not improve.
+
+
+In recent days, Israel has been conducting airstrikes in Gaza that have killed dozens of people, adding to the tens of thousands of deaths since the war began more than a year ago.
+
+
+The Israeli army said Friday that it had struck dozens of Hamas gathering points and command centers throughout Gaza. Israel’s military says it targets only militants and blames Hamas for civilian deaths because its fighters operate in dense residential areas.
+
+
+The war has caused widespread destruction and displaced about 90% of Gaza’s population of 2.3 million, many of them multiple times. Winter has now arrived, and hundreds of thousands are sheltering in tents near the sea.
+
+
+The informal notice to Congress isn’t the final notification before a sale. Now the leaders of the House Foreign Affairs Committee or the Senate Foreign Relations Committee can review the package.
+
+
+News of the weapons sale was first reported by Axios. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-notifies-congress-of-planned-8-billion-weapons-sale-to-israel/7924437.html>
+
+---
+
+## New Orleans attacker had suspected bomb materials at home, officials say
+
+date: 2025-01-04, from: VOA News USA
+
+NEW ORLEANS, LOUISIANA — The man who rammed a pickup truck into a crowd of New Year's revelers in New Orleans had suspected bomb-making materials at his home and reserved the vehicle used in the deadly attack more than six weeks earlier, law enforcement officials told The Associated Press on Friday.
+
+
+Federal authorities searching the home of Shamsud-Din Jabbar in Houston found a workbench in the garage and hazardous materials believed to have been used to make explosive devices, according to law enforcement officials familiar with the search. The officials were not authorized to speak about the ongoing inquiry and spoke to the AP on the condition of anonymity.
+
+
+The FBI investigation also revealed that Jabbar purchased a cooler in Vidor, Texas, hours before the attack and gun oil from a store in Sulphur, Louisiana, the officials said. Authorities also determined Jabbar booked his rental of the pickup truck on Nov. 14, suggesting he may have been plotting the attack for more than six weeks.
+
+
+Authorities say 14 people were killed and some 30 were injured in the attack early Wednesday by Jabbar, a former Army soldier who posted several videos on his Facebook hours before the attack previewing the violence he would unleash and proclaiming his support for the Islamic State militant group. The coroner’s office listed the cause of death for all 14 victims as “blunt force injuries.”
+
+
+Jabbar, 42, was fatally shot in a firefight with police at the scene of the deadly crash on Bourbon Street, famous worldwide for its festive vibes in New Orleans' historic French Quarter.
+
+
+Authorities found crude bombs that had been planted in the neighborhood in an apparent attempt to cause more carnage. Two improvised explosive devices left in coolers several blocks apart were rendered safe at the scene, officials said. Other devices were determined to be nonfunctional.
+
+
+Investigators recovered from Jabbar's rental truck a transmitter intended to trigger the two bombs, the FBI said in a statement Friday. It also said authorities found bomb-making materials at the New Orleans home Jabbar rented prior to the attack. Jabbar tried to burn the house down by setting a small fire in a hallway and placing accelerants to help spread it, the FBI said. The flames burned out before firefighters arrived.
+
+
+
+
+Authorities on Friday were still investigating Jabbar's motives and how he carried out the attack. They say he exited the crashed truck wearing a ballistic vest and helmet and fired at police, wounding at least two officers before he was fatally shot by officers returning fire.
+
+
+New Orleans police declined to say Friday how many shots were fired by Jabbar and police or whether any bystanders may have been hit, citing the active investigation.
+
+
+Stella Cziment, who heads the city's civilian-run Office of the Independent Police Monitor, said investigators are working to account for “every single bullet that was fired” and whether any of them struck bystanders.
+
+
+Bourbon Street was solemn Friday. A day after the crime scene reopened to the public, locals and tourists stopped to pay respects to victims of the attack as the sound of bucket drums echoed. People shed tears while gathering at a growing memorial. Some left flowers and candles while others dropped to their knees to say a quick prayer.
+
+
+“New Orleans is about having a good time, you know, just trying to live your best life," said Tony Lightfoot, who works in Baton Rouge and was visiting New Orleans with his son. He said the attacker “just decided to disrupt all of that.”
+
+
+Thirteen people remained hospitalized. Eight people were in intensive care at University Medical Center New Orleans, spokesperson Carolina Giepert said.
+
+
+The White House said President Joe Biden would travel to New Orleans on Monday to “grieve with the families and community members impacted by the tragic attack.”
+
+
+Police used multiple vehicles and barricades on Friday to block traffic at Bourbon and Canal streets as crowds of pedestrians swelled. Other law enforcement agencies helped city officers provide extra security, said Reese Harper, a spokesperson for the New Orleans Police Department.
+
+
+The first parade of the Carnival season leading up to Mardi Gras was scheduled to take place Monday. New Orleans will also host the Super Bowl on Feb. 9.
+
+
+“This enhanced safety effort will continue daily, not just during large events,” Harper said in a statement.
+
+
+In a previous effort to protect the French Quarter, the city had installed steel columns known as bollards to restrict vehicle access to Bourbon Street. The posts retracted to allow for deliveries to bars and restaurants, until — gummed up by Mardi Gras beads, beer and other detritus — they stopped working reliably.
+
+
+
+
+So, when New Year’s Eve arrived, the bollards were gone. They were being replaced ahead of the Super Bowl.
+
+
+Meanwhile, New Orleans City Council President Helena Moreno took steps toward launching an investigation of the attack. In a memo to another council member obtained by AP, Moreno said she was initiating the creation of a local and state legislative committee “dedicated to reviewing the incident and its implications.”
+
+
+“This committee will play a crucial role in assessing our current policies, enhancing security measures, and ensuring that we are adequately prepared to respond to any future threats,” Moreno wrote.
+
+
+The FBI concluded Jabbar was not aided by anyone else in the attack, which killed an 18-year-old aspiring nurse, a single mother, a father of two and a former Princeton University football star, among others.
+
+
+Thirteen of the 14 victims have been identified by the New Orleans coroner’s office, with the youngest listed as 18 and the oldest 63. Most of the victims were in their 20s. One victim was a British citizen.
+
+
+
+
+It was the deadliest IS-inspired assault on U.S. soil in years, laying bare what federal officials have warned is a resurgent international terrorism threat. 
+
+<br> 
+
+<https://www.voanews.com/a/new-orleans-attacker-had-suspected-bomb-materials-at-home-officials-say/7924423.html>
+
+---
+
+## How Congress will certify Trump's electoral college victory
+
+date: 2025-01-04, from: VOA News USA
+
+WASHINGTON — The U.S. congressional joint session to count electoral votes on Monday is expected to be much less eventful than the certification four years ago that was interrupted by a violent mob of supporters of then-President Donald Trump who tried to stop the count and overturn the results of an election he lost to Democrat Joe Biden.
+
+
+This time, Trump is returning to office after winning the 2024 election that began with Biden as his party's nominee and ended with Vice President Kamala Harris atop the ticket. She will preside over the certification of her own loss, fulfilling the constitutional role in the same way that Trump's vice president, Mike Pence, did after the violence subsided on Jan. 6, 2021.
+
+
+Usually a routine affair, the congressional joint session on Jan. 6 every four years is the final step in reaffirming a presidential election after the Electoral College officially elects the winner in December. The meeting is required by the Constitution and includes several distinct steps.
+
+
+What happens when Congress meets?
+
+
+Under federal law, Congress must meet on Jan. 6 to open sealed certificates from each state that contain a record of their electoral votes. The votes are brought into the chamber in special mahogany boxes that are used for the occasion.
+
+
+Bipartisan representatives of both chambers read the results out loud and do an official count. The vice president, as president of the Senate, presides over the session and declares the winner.
+
+
+The Constitution requires Congress to meet and count the electoral votes. If there is a tie, then the House decides the presidency, with each congressional delegation having one vote. That hasn’t happened since the 1800s and won't happen this time because Trump’s electoral win over Harris was decisive, 312-226.
+
+
+How has it changed since the last time?
+
+
+Congress tightened the rules for the certification after the violence of 2021 and Trump’s attempts to usurp the process.
+
+
+In particular, the revised Electoral Count Act passed in 2022 more explicitly defines the role of the vice president after Trump aggressively pushed Pence to object to the Republican's defeat — an action that would have gone far beyond Pence's ceremonial role. Pence rebuffed Trump and ultimately gaveled down his own defeat. Harris will do the same.
+
+
+The updated law clarifies that the vice president does not have the power to determine the results on Jan. 6.
+
+
+Harris and Pence were not the first vice presidents to be put in the uncomfortable position of presiding over their own defeats. In 2001, Vice President Al Gore presided over the counting of the 2000 presidential election that he narrowly lost to Republican George W. Bush. Gore had to gavel several Democrats’ objections out of order.
+
+
+In 2017, Biden as vice president presided over the count that declared Trump the winner. Biden also shot down objections from House Democrats that did not have any Senate support.
+
+
+How does the session unfold?
+
+
+The presiding officer opens and presents the certificates of the electoral votes in alphabetical order of the states.
+
+
+The appointed “tellers” from the House and Senate, members of both parties, then read each certificate out loud and record and count the votes. At the end, the presiding officer announces who has won the most votes for president and vice president.
+
+
+What if there's an objection?
+
+
+After a teller reads the certificate from any state, a lawmaker can stand up and object to that state’s vote on any grounds. But the presiding officer will not hear the objection unless it is in writing and signed by one-fifth of each chamber.
+
+
+That threshold is significantly higher than what came before. Previously, a successful objection only required support from one member of the Senate and one member of the House. Lawmakers raised the threshold in the 2022 law to make objections more difficult.
+
+
+If any objection reaches the threshold — something not expected this time — the joint session suspends, and the House and Senate go into separate sessions to consider it. For the objection to be sustained, both chambers must uphold it by a simple majority vote. If they do not agree, the original electoral votes are counted with no changes.
+
+
+In 2021, both the House and Senate rejected challenges to the electoral votes in Arizona and Pennsylvania.
+
+
+Before 2021, the last time that such an objection was considered was 2005, when Representative Stephanie Tubbs Jones of Ohio and Senator Barbara Boxer of California, both Democrats, objected to Ohio’s electoral votes, claiming there were voting irregularities. The House and Senate debated the objection and easily rejected it. It was only the second time such a vote had occurred.
+
+
+What happens next?
+
+
+After Congress certifies the vote, the president is inaugurated on the west front of the Capitol on Jan. 20.
+
+
+The joint session is the last official chance for objections, beyond any challenges in court. Harris has conceded and never disputed Trump’s win. 
+
+<br> 
+
+<https://www.voanews.com/a/how-congress-will-certify-trump-s-electoral-college-victory/7924343.html>
+
+---
+
+## Trump climate plans include rolling back vehicle emissions standards
+
+date: 2025-01-04, from: VOA News USA
+
+U.S. President-elect Donald Trump is promising to reverse Biden administration efforts to fight climate change and says he will grow the U.S. economy by drilling for more oil. VOA Correspondent Scott Stearns has our story. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-climate-plans-include-rolling-back-vehicle-emissions-standards/7924326.html>
+
+---
+
+##  In With The Good Energy, Out With The Bad 
+
+date: 2025-01-04, from: The Lever News
+
+ California looks to the renewable future, while New York probes the polluted past.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-in-with-the-good-energy-out-with-the-bad/>
+
+---
+
+## Memorials for Jimmy Carter start in US state of Georgia
+
+date: 2025-01-04, from: VOA News USA
+
+ATLANTA, GEORGIA — Six days of funeral observances for former U.S. President Jimmy Carter began Saturday morning in the state of Georgia, where he died on December 29 at the age of 100.
+
+
+The first events reflect Carter's climb up the political ladder, from the tiny town of Plains, Georgia, to decades on the global stage as a humanitarian and advocate for democracy.
+
+
+Here is what to know about the initial ceremonies and what happens next:
+
+
+Honors start in rural Georgia 
+
+
+The proceedings began at 10:15 a.m. local time Saturday with the Carter family arriving at Phoebe Sumter Medical Center in Americus.
+
+
+Former Secret Service agents who protected Carter served as pallbearers, walking alongside the hearse as it exited the campus on its way to Plains.
+
+
+
+
+James Earl Carter Jr. lived more than 80 of his 100 years in and around the town, which still has fewer than 700 people, not much more than when he was born on October 1, 1924. Some other modern presidents — Richard Nixon, Ronald Reagan and Bill Clinton — also grew up in small-town settings, but Carter stands out for returning and remaining in his birthplace for his long post-presidency.
+
+
+The motorcade moved through downtown Plains, which spans just a few blocks, passing near the girlhood home of first lady Rosalynn Smith Carter, who died in November 2023 at the age of 96, and near where the couple operated the family peanut warehouses. The route also included the old train depot that served as Jimmy Carter's 1976 presidential campaign headquarters and the gas station once run by Carter's younger brother Billy.
+
+
+The motorcade passed by the Methodist church where the Carters married in 1946, and the home where they lived and died. The former president will be buried there alongside Rosalynn.
+
+
+
+
+The Carters built the one-story house, now surrounded by Secret Service fencing, before his first state Senate campaign in 1962 and lived out their lives there with the exception of four years in the Governor's Mansion and four more in the White House.
+
+
+A stop at Carter's boyhood home 
+
+
+After going through Plains, the procession stopped in front of Carter's family farm and boyhood home in Archery, just outside the town, after passing the cemetery where the former president's parents, James Earl Carter Sr. and Lillian Carter, are buried.
+
+
+
+
+The farm now is part of the Jimmy Carter National Historical Park. The National Park Service rang the old farm bell 39 times to honor the 39th president.
+
+
+Carter was the first president born in a hospital. But the home had no electricity or running water when he was born, and he worked on his father's land during the Great Depression.
+
+
+Still, the Carters had relative privilege and status. Earl employed Black tenant farming families. The elder Carter also owned a store in Plains and was a local civic and political leader. Lillian was a nurse, and she delivered Rosalynn. The property still includes a tennis court Earl had built for the family.
+
+
+It was Earl's death in 1953 that set Jimmy on course toward the Oval Office. The younger Carters had left Plains after he graduated from the U.S. Naval Academy. But Jimmy abandoned a promising career as a submarine officer and early participant in the Pentagon's nuclear program to take over the family's peanut business after his father's death. Within a decade, he was elected to the Georgia state Senate.
+
+
+Lying in repose in Atlanta
+
+
+From Archery, the motorcade headed north to Atlanta. The military-run motorcade stopped outside the Georgia Capitol, where Carter served as a state senator from 1963 to 1967 and governor from 1971 to 1975. Georgia Governor Brian Kemp and Atlanta Mayor Andre Dickens led a moment of silence. While former governors are honored with state-run funerals, presidents — even if they served as governors — are memorialized with national rites run by the federal government. 
+
+
+The motorcade then proceeded to the Carter Presidential Center, which includes Carter's presidential library and The Carter Center, established by the former president and first lady in 1982. Carter's son, James Earl "Chip" Carter III, and his grandson, Jason Carter, spoke to an assembly that included many Carter Center employees. Their work on international diplomacy and mediation, election monitoring, and fighting disease in the developing world continues to set a standard for what former presidents can accomplish. 
+
+
+Jimmy Carter, who delivered the center's annual reports until 2019, won the 2002 Nobel Peace Prize in part for this post-presidential work. 
+
+
+Carter was scheduled to lie in repose from 7 p.m. Saturday to 6 a.m. Tuesday, with the public able to pay respects around the clock. 
+
+
+
+
+A return to Washington
+
+
+Carter's remains will travel next to Washington, where he will lie in state in the Capitol Rotunda until his funeral at 10 a.m. Thursday at the Washington National Cathedral. All the living presidents have been invited, and U.S. President Joe Biden, a Carter ally, will deliver a eulogy. 
+
+
+The Carter family then will return to bury its patriarch in Plains after a private hometown funeral at 3:45 p.m. at Maranatha Baptist Church, where Carter, a devout evangelical, taught Sunday School for decades. 
+
+
+Carter will be buried afterward in a private graveside service, in a plot visible from the front porch of his home. 
+
+<br> 
+
+<https://www.voanews.com/a/jimmy-carter-s-state-funeral-starts-saturday-here-is-what-to-know/7924279.html>
+
+---
+
+## Cybertruck soldier told ex-girlfriend of pain, exhaustion after Afghanistan
+
+date: 2025-01-04, from: VOA News USA
+
+WASHINGTON — The highly decorated Special Forces soldier who died by suicide in a Cybertruck explosion on New Year's Day confided to a former girlfriend who had served as an Army nurse that he faced significant pain and exhaustion that she says were key symptoms of traumatic brain injury.
+
+
+Green Beret Matthew Livelsberger, 37, was a five-time recipient of the Bronze Star, including one with a V device for valor under fire. He had an exemplary military record that spanned the globe and a baby born last year. But he struggled with the mental and physical toll of his service, which required him to kill and caused him to witness the deaths of fellow soldiers.
+
+
+Livelsberger mostly bore that burden in private but recently sought treatment for depression from the Army, according to a U.S. official who spoke on condition of anonymity to provide details that have not been made public.
+
+
+He also found a confidant in the former nurse, who he began dating in 2018.
+
+
+Alicia Arritt, 39, and Livelsberger met through a dating app while both were in Colorado Springs. Arritt had served at Landstul Regional Medical Center in Germany, the largest U.S. military medical facility in Europe, where many of the worst combat injuries from Iraq and Afghanistan were initially treated before being flown to the United States.
+
+
+There she saw and treated traumatic brain injuries, or TBIs, which troops suffered from incoming fire and roadside bombs. Serious but hard to diagnose, such injuries can have lingering effects that might take years to surface.
+
+
+“I saw a lot of bad injuries. But the personality changes can happen later,” Arritt said.
+
+
+
+
+In texts and images he shared with Arritt, Livelsberger raised the curtain a bit on what he was facing.
+
+
+“Just some concussions,” he said in a text about a deployment to Helmand Province in Afghanistan. He sent her a photo of a graphic tattoo he got on his arm of two skulls pierced by bullets to mark lives he took in Afghanistan. He talked about exhaustion and pain, not being able to sleep and reliving the violence of his deployment.
+
+
+“My life has been a personal hell for the last year,” he told Arritt during the early days of their dating, according to text messages she provided to The Associated Press. “It’s refreshing to have such a nice person come along.”
+
+
+On Friday, Las Vegas law enforcement officers released excerpts of messages Livelsberger left behind showing the way Livelsberger killed himself was intentional, meant both as a “wakeup call” but also to “cleanse the demons” he was facing from losing fellow soldiers and taking lives.
+
+
+Livelsberger’s death in front of the Trump Hotel using a truck produced by Elon Musk’s Tesla company has raised questions as to whether this was an act of political violence.
+
+
+Officials said Friday that Livelsberger apparently harbored no ill will toward President-elect Donald Trump, and Arritt said she and Livelsberger were Tesla fans.
+
+
+“I had a Tesla, too, that I rescued from a junkyard in 2019, and we used to work on it together, bond over it,” Arritt said.
+
+
+The pair stopped talking regularly after they broke up in 2021, and she had not heard from him in more than two years when he texted out of the blue on Dec. 28, and again on Dec. 31. The upbeat messages included a video of him driving the Cybertruck and another one of its dancing headlights; the vehicle can sync up its lighting and music.
+
+
+But she also said Livelsberger felt things “very deeply, and I could see him using symbolism” of both the truck and the hotel.
+
+
+“He wasn’t impulsive,” Arritt said. “I don’t see him doing this impulsively, so my suspicion would be that he was probably thinking it out.”
+
+
+
+
+Arritt served on active duty from 2003 to 2007 and then was in the Army Reserve until 2011. With Livelsberger, she saw symptoms of TBI as early as 2018.
+
+
+“He would go through periods of withdrawal, and he struggled with depression and memory loss,” Arritt said. “I don’t know what drove him to do this, but I think the military didn’t get him help when he needed it.”
+
+
+But Livelsberger was also sweet and kind, she recalled: “He had a really deep well of inner strength and character, and he just had a lot of integrity.”
+
+
+Pentagon Deputy Press Secretary Sabrina Singh told reporters Friday that it has turned over all Livelsberger's medical records to local law enforcement and encouraged troops facing mental health challenges to seek care through one of the military's support networks.
+
+
+“If you need help, if you feel that you need to seek any type of mental health treatment, or just to talk to someone — to seek the services that are available, either on base or off,” Singh said.
+
+
+When Livelsberger struggled during the time they were dating, Arritt prodded him to get help. But he would not, saying it could cost him his ability to deploy if he was found medically unfit.
+
+
+“There was a lot of stigma in his unit; they were, you know, big, strong, Special Forces guys there. There was no weakness allowed, and mental health is weakness is what they saw,” she said.
+
+
+Livelsberger seeking treatment for depression was first reported by CNN. 
+
+<br> 
+
+<https://www.voanews.com/a/cybertruck-soldier-told-ex-girlfriend-of-pain-exhaustion-after-afghanistan/7924262.html>
+
+---
+
+## US state of Tennessee refuses to release its new execution manual
+
+date: 2025-01-04, from: VOA News USA
+
+NASHVILLE, TENNESSEE — Just days after Tennessee announced it had a new manual for executing death row inmates, the state's top prison officials said they aren't going to release the document to the public.
+
+
+The Tennessee Department of Correction had told The Associated Press to file a public records request to obtain a copy of the latest execution manual, known as a protocol. However, the agency this week denied the AP's request, saying it needs to keep the entire document secret to protect the identities of the executioner and other people involved.
+
+
+The decision to maintain secrecy differs from how the state has handled similar requests in the past, but mirrors efforts across the U.S. to suppress public access surrounding executions, especially after anti-death penalty activists used records to expose problems.
+
+
+Here's what to know:
+
+
+What is an execution protocol?
+
+
+The protocol is typically a detailed set of procedures describing how the state executes death row inmates. Tennessee had been operating under a 2018 protocol that included directions on selecting execution team staff and the training they should undergo. It explained how lethal injection drugs should be procured, stored and administered. It gave instructions on the inmate's housing, diet and visitation in the days leading up to execution. It provided directions on how to choose media witnesses.
+
+
+For lethal injection, the 2018 protocol required a series of three drugs administered in sequence.
+
+
+The new version unveiled last week requires only a single dose of pentobarbital. But that is all that is known about the revised protocol.
+
+
+What reason does Tennessee give for not releasing the new protocol?
+
+
+In an email sent Monday, Tennessee correction spokesperson Kayla Hackney told the AP the "protocol is not a public record" and cited a Tennessee statute that makes the identities of the people carrying out executions confidential.
+
+
+However, that same statute says the existence of confidential information in a record is not a reason to deny access to it, noting that the confidential information should be redacted.
+
+
+What has Tennessee done in the past?
+
+
+In 2018, Tennessee's correction agency provided a redacted copy of the protocol to an AP reporter over email.
+
+
+In 2007, a previous version of the protocol was treated as a public record and provided to the AP after former Gov. Phil Bredesen, a Democrat, announced a surprise halt to executions. A reporter's review of that 100-page "Manual of Execution" found a jumble of conflicting instructions that mixed new lethal-injection instructions with those for electrocution.
+
+
+Why did Tennessee update its protocol?
+
+
+Executions have been on hold in Tennessee since 2022, when the state admitted it had not been following the 2018 protocol. Among other things, the Correction Department was not consistently testing the execution drugs for potency and purity.
+
+
+An independent review of the state's lethal injection practice later found that none of the drugs prepared for the seven inmates executed since 2018 had been fully tested. Later, the state Attorney General's Office conceded in court that two of the people most responsible for overseeing Tennessee's lethal injection drugs "incorrectly testified" under oath that officials were testing the chemicals as required.
+
+
+So what's with all the secrecy?
+
+
+Executions in the U.S. have remained at historic lows for years, but the small group of states still carrying out the death penalty have only increased the secrecy surrounding the procedures, particularly over how and where the state secures the drugs used for lethal injections.
+
+
+Many states argue that secrecy is critical to protect the safety of those involved in the execution process. Yet in a 2018 report, the Washington-D.C.-based nonprofit Death Penalty Information Center found that this argument often led to these states refusing to provide information about the qualifications of their execution teams and some courts have criticized such arguments for lack of evidence that more public disclosure would result in threats against prison officials.
+
+
+Kelley Henry, chief of the federal public defender's habeas unit that represents many of Tennessee's death row inmates, described the state's refusal to release the new protocol, given that background, as "mystifying."
+
+
+"The secrecy, which cloaked the former execution protocol, created a culture of incompetence and lack of accountability," she said in an email. 
+
+<br> 
+
+<https://www.voanews.com/a/us-state-of-tennessee-refuses-to-release-its-new-execution-manual/7922881.html>
+
+---
+
+## Deadly accident has Hawaii officials pleading for end to amateur fireworks shows
+
+date: 2025-01-04, from: VOA News USA
+
+honolulu — In recent years, occasions large and small — parties, Super Bowls, mixed martial arts fights, even Thanksgiving — have provided a reason for residents across Hawaii to set off illegal fireworks. 
+
+
+The increasingly sophisticated displays, loved by some and loathed by others, are so prevalent that some people consider them part of the state's culture. They have rattled neighborhoods of tightly packed houses, started fires, terrorized pets and knocked a light fixture off the ceiling of an Associated Press reporter's home, where it narrowly missed a child and shattered on the floor. 
+
+
+Each New Year's Day, Honolulu officials publish a list of fireworks casualties from the night before, typically a litany of burns, shrapnel wounds or amputations. Sometimes there are deaths. 
+
+
+But none of the damage has matched Tuesday night's tragedy, when a lit bundle of mortar-style aerials tipped over and shot into crates of unlit fireworks, causing a rapid-fire series of blasts that killed three women and injured more than 20 people, including children. 
+
+
+On Friday, the Honolulu medical examiner's department identified two of the women as Nelie Ibarra, 58, and Jennifer Van, 23. The cause and manner of death for both were listed as pending. The identity of the third was not yet confirmed, the department said in a news release. 
+
+
+Another person was killed in an unrelated fireworks explosion on Oahu. 
+
+
+
+
+Authorities and residents alike are now wondering whether the toll will dissuade people from putting on such shows in the future, or whether it will prompt more effective efforts by police to crack down. 
+
+
+"This incident is a painful reminder of the danger posed by illegal fireworks," Honolulu Mayor Rick Blangiardi told a news conference. "They put lives at risk, they drain our first responders and they disrupt our neighborhoods." 
+
+
+Efforts to crack down on contraband fireworks have had limited effect. In 2023, lawmakers created an illegal fireworks task force. Based on the ease with which it seized fireworks, including three shipping containers in its first few months in operation, the state Department of Law Enforcement concluded illegal fireworks are likely smuggled into Hawaii on a daily basis. 
+
+
+The task force has seized 227,000 pounds (about 103,000 kilograms) of fireworks in all, according to Governor Josh Green. 
+
+
+And yet, the Honolulu Fire Department reported Thursday that there were 30 fireworks-related blazes between Tuesday and Wednesday, a 30% increase from last New Year's celebrations. 
+
+
+Representative Gregg Takayama, who sponsored legislation passed last year to tighten fireworks controls, said he remembers setting them off when he was younger and agrees it's a tradition for many. But the ones he played with, including Roman candles, pale in comparison to those on the black market today. 
+
+
+"The kind of aerial fireworks that are being used now are really explosive bombs," he said. "And so the danger is magnified." 
+
+
+Charmaine Doran, the vice chair of the neighborhood board in Pearl City, northwest of Honolulu, called the notion that fireworks are part of Hawaii culture a misconception: "They have been outlawed for all of my life ... and I'm pretty old." 
+
+
+In her neighborhood, the fireworks ramp up after Halloween, exploding in the middle of the night until New Year's. Doran said she can tell if there is a big mixed martial arts fight on TV because the booms begin earlier in the day. 
+
+
+
+
+Enforcement is complicated because people are reluctant to report their neighbors on a small island where "we're related to everybody, everybody knows everybody," Doran said. 
+
+
+People fear retribution, she added: "If I dial 911, they're going to egg my house." 
+
+
+That was the theme of some testimony to the Legislature last January. Beverly Takushi, a Pearl City resident, described once being threatened by a neighbor when she told his brother to stop launching illegal fireworks in a show that lasted from 5:30 p.m. on New Year's Eve until after midnight. 
+
+
+"It was the first time I was threatened not only by the danger of the aerial fireworks to my family and property, but also for my safety from this neighbor who accused me of not respecting his culture," Takushi said. "He has since apologized, but this is the reason why no one wants to get involved and report their neighbors setting off bombs and aerials." 
+
+
+Many historians believe fireworks were invented in China more than 2,000 years ago and their use came to signify joy and prosperity, as well as warding off evil. In Hawaii they are celebrated not just by residents of Chinese descent but all across the state's diverse communities. 
+
+
+Takushi echoed Takayama's point about the big difference between today's large, professional-grade fireworks and the smaller ones of yesteryear. 
+
+
+"A string of firecrackers at midnight to ward off bad spirits is cultural, not loud explosives that sound like you are in the middle of a war," Takushi said. 
+
+
+Richard Oshiro, secretary of the neighborhood board for Waipahu, known as one of Oahu's hot spots for aerial displays, said he hopes this week's deaths will spur a change of mentality about playing with explosives. 
+
+
+He said he tries to report them whenever he can, even though he knows there is not much police can do if "they can't catch people in the act." 
+
+
+Possession of over 50 pounds (about 23 kilograms) of aerial or other illegal fireworks in Hawaii is a felony punishable by up to five years in prison and a $10,000 fine. Takayama noted the law now allows photographs and videos of fireworks to be submitted as evidence in court, but said prosecutions still face hurdles. 
+
+
+"We already have laws on the books. We need to find better ways to enforce them," he said. "I mean, we constantly hear about people who report on their neighbors using illegal aerials, but nothing is done about it." 
+
+
+The best way to control fireworks is to stop them at Hawaii's ports, Takayama said. Law enforcement has intelligence about which shipments contain illegal fireworks, and U.S. authorities have the power to open suspicious cargo. The task force has made seizures but needs to do more, he said. 
+
+
+"We need to find ways to restrict the amount of fireworks that are coming in, because once they arrive and once they're in the community, it's very difficult to track them down," Takayama said. 
+
+<br> 
+
+<https://www.voanews.com/a/deadly-accident-has-hawaii-officials-pleading-for-end-to-amateur-fireworks-shows/7924118.html>
+
+---
+
+## Ghana’s citizenship offer attracts some Black Americans
+
+date: 2025-01-04, from: VOA News USA
+
+ACCRA, GHANA — Flipping through a family album, Keachia Bowers paused on a photo of her as a baby on her father's lap as he held the 1978 album "Africa Stand Alone" by the Jamaican reggae band Culture.
+
+
+"When I was 10 years old, I was supposed to come to Ghana with him," she said. A day earlier, she had marked 10 years since her father's death. Though he was a Pan-Africanist who dreamed of visiting Ghana, he never made it here.
+
+
+Bowers and her husband, Damon Smith, however, are among the 524 diaspora members, mostly Black Americans, who were granted Ghanaian citizenship in a ceremony in November.
+
+
+Bowers and Smith moved to Ghana from Florida in 2023 after visiting the region several times between them since the '90s. They now run a tour business that caters to Black people who want to visit Ghana or elsewhere in West Africa, or like them have come to consider a permanent move.
+
+
+The November group was the largest one granted citizenship since Ghana launched the "Year of the Return" program, aimed at attracting the Black diaspora, in 2019. It marked 400 years since the first African slaves arrived in Virginia in 1619.
+
+
+Ghana's Tourism Authority and the Office of Diaspora Affairs have extended the program into "Beyond the Return," which fosters the relationship with diasporans. Hundreds have been granted citizenship, including people from Canada, the U.K. and Jamaica.
+
+
+Bowers said moving to Ghana gave her family a certain feeling of ease they didn't have in the U.S.
+
+
+"When we see Trayvon Martin, Sandra Bland, all these stories of people being murdered just in their home, living in their home and being murdered at the hands of police brutality, hearing about it creates trauma," she said.
+
+
+She also worried about her son Tsadik, 14.
+
+
+Tsadik towers over loved ones in the way that lanky teenage boys often do. He is shy but opens up around his younger sister Tselah, 11, and the family's dog, Apollo.
+
+
+"In America, being a Black male with locs who's very tall for his age, he is treated like a threat," Bowers said.
+
+
+
+
+Americans face few obstacles to living in Ghana, with most people paying an annual residency fee. But Bowers said getting citizenship signified more than simply living in Ghana.
+
+
+"I didn't need (citizenship) to tell me that I'm African. Anywhere that I go in the world and someone looks at me, I'm melanated," she said.
+
+
+"But my ancestors who wanted to return and come back home, those ancestors who never made it back," she said, "that passport, for me, is for them."
+
+
+Between 10 to 15 million people were forcibly taken from Africa to the Americas during the trans-Atlantic slave trade, the majority from West and Central Africa.
+
+
+Ghana, then a British colony known as the Gold Coast, was a main point of departure.
+
+
+As memorials to the slave trade become tourist destinations across West Africa, painful reminders of its brutality are easily accessible. From Ghana to Senegal to Benin, one can visit variations of the "Door of No Return," haunting doorways that open to the Atlantic Ocean where slaves left Africa, and their families, for the last time.
+
+
+The joy that people feel in finding connections that were broken long ago is palpable. Videos of the recent citizenship ceremony show men and women of all ages waving Ghanaian flags and cheering.
+
+
+Deijha Gordon, 33, was one of them.
+
+
+"I first visited Ghana in 2015. From then on, I knew this is a place that I wanted to be and a place where I wanted to show other diasporans, African-Americans, that we have a place where we belong," she said.
+
+
+She moved from Brooklyn to Ghana in 2019 and opened a food truck, Deijha Vu's Jerk Hut, selling Jamaican food.
+
+
+Between bagging to-go orders and speaking to a Black American tourist couple, she explained how she built the business from scratch.
+
+
+Gordon was giddy while recalling the moment she got citizenship.
+
+
+"It just feels good to have a connection to an African country as an African-American, as a Black American. Because back in America we don't have anything to trace our roots to but Africa. To have that connection here, I feel like I've done something right," she said.
+
+
+Like Bowers, Gordon has had a stream of people reaching out and asking about the citizenship process.
+
+
+The path is not clearly defined. Citizenship must come from a concession from Ghana's presidency, a process made legal under the 2000 Citizenship Act. It's granted to those residing in Ghana who have told the Office of Diaspora Affairs that they are interested in citizenship.
+
+
+Ghana's government in part describes the program as a benefit to the economy and focuses on investment opportunities for those wishing to relocate.
+
+
+Festus Owooson with the local nonprofit Migration Advocacy Center said that though the government emphasizes the economic angle, the real benefits of citizenship are intangible.
+
+
+"I don't think (recipients) were crying because they have landed a gold mine, or they've found oil or some kind of business opportunity. But it's something so relieving, which you cannot put value or a price on," he said.
+
+
+President Nana Akufo-Addo's administration, which launched the "Year of the Return," is on its way out. Ghana's main opposition party won the presidential election on Dec. 7.
+
+
+But Owooson said Black Americans and other diaspora citizens are likely to continue receiving citizenship by presidential concession.
+
+
+Citizenship also can pass to the next generation. The children of Bowers and Smith received it automatically after their parents' ceremony.
+
+
+Bowers' father, like her husband and children, was a follower of the Rastafari faith. "Part of the Rastafarian tradition is to repatriate. We see repatriation as the ultimate experience that you can have on this earth," she said.
+
+
+She believes that her father is proud of her. "I really feel like he's smiling, where he is. He wanted to experience this for himself, so he's experiencing it through me." 
+
+<br> 
+
+<https://www.voanews.com/a/ghana-s-citizenship-offer-attracts-some-black-americans/7924102.html>
+
+---
+
+## Danish-Swedish farmdog joins American Kennel Club's lineup
+
+date: 2025-01-04, from: VOA News USA
+
+NEW YORK — Say hello to the latest dog in the American Kennel Club's lineup of recognized breeds. Or you might say "hej."
+
+
+The Danish-Swedish farmdog — yep, that's the official name — joined the pack Thursday. The designation makes the breed eligible to compete for many best in show trophies, and it likely augurs more widespread interest in the small, sprightly dogs. The prospect both gladdens and concerns their biggest fans.
+
+
+"We're excited about it. We're looking forward to it," said Carey Segebart, one of the people who worked to get Danish-Swedish farmdogs recognized by the AKC. She proudly plans to debut one of her own at a dog show this month near her Iowa home.
+
+
+Still, she thinks increased exposure is "a double-edged sword" for the fleet, versatile pups.
+
+
+"We don't want the breed to just explode too quickly," she said.
+
+
+Called the farmdog or DSF for short, the breed goes back centuries in parts of what are now Denmark, southern Sweden and some other European countries, according to the Danish-Swedish Farmdog Club of America.
+
+
+"They're interesting, fun little dogs," said Segebart, who has owned them since 2011 and is the club's incoming president. "They're essentially up for anything. They succeed at most everything."
+
+
+In their original homelands, the dogs' main job was rodent patrol, but they also would herd a bit, act as watchdogs and play with farmers' children. Some even performed in circuses, according to the club.
+
+
+After Denmark and Sweden became more urban and suburban in the 20th century, farmdog fanciers set out to secure the breed's place in both nations (where "hej" translates to the English "hello"). Kennel clubs there began registering farmdogs in 1987.
+
+
+In the U.S., many of the just about 350 farmdogs nationwide compete in agility, obedience or other canine sports that are open to all dogs, including mixed breeds.
+
+
+But until now, farmdogs couldn't enter the traditional breed-by-breed judging that leads to best in show prizes at events including the prominent Westminster Kennel Club dog show in New York. The entry deadline has passed for February's Westminster show, so farmdogs will have to wait for 2026 there, but they may well appear later this year at two other major, televised shows, the National Dog Show and AKC National Championship.
+
+
+The Danish-Swedish farmdog is the AKC's 202nd breed and "a wonderful addition to a family that is able to provide it with the exercise and mental stimulation that it needs," said the club's Gina DiNardo.
+
+
+Too popular for its own good?
+
+
+The AKC is the United States' oldest purebred dog registry and essentially a league for many dog competitions. Registration is voluntary, and requirements for breed recognition include at least 300 pedigreed dogs spread through at least 20 states. Some breeds are in other kennel clubs or none at all.
+
+
+Danish-Swedish farmdog fanciers deliberated for several years before pursuing AKC recognition and the attention that's likely to come with it, Segebart said. The number of farmdog puppy-seekers has grown substantially over the last decade; each of the few breeders receives multiple inquiries a week, and the typical wait for a puppy is a year or more, she said.
+
+
+Farmdog folk fear that their appealing, relatively easy-care breed could quickly become too popular for its own good. They're not the first to worry: Much fur has flown in dogdom over the rise of the French bulldog, which the AKC now ranks as the most popular breed in the country.
+
+
+Some animal rights activists echo those concerns to argue against dog breeding in general. They say purebred popularity trends divert people from adopting shelter animals, fuel puppy mills and prize dogs' appearance over their health.
+
+
+The AKC says it promotes responsibly "breeding for type and function" to produce dogs with at least somewhat predictable traits, whether as basic as size or as specialized as bomb-sniffing skills. The club says it has given over $35 million since 1995 to its canine health research charity. 
+
+<br> 
+
+<https://www.voanews.com/a/danish-swedish-farmdog-joins-american-kennel-club-s-lineup-/7922875.html>
+
+---
+
+## National funeral service, flyover and 39 bells for Carter sendoff
+
+date: 2025-01-04, from: VOA News USA
+
+PLAINS, GEORGIA — Mourners are to begin paying their respects to Jimmy Carter on Saturday, kicking off a carefully choreographed six-day farewell for America's longest-lived president.
+
+
+Flags have been flying at half-staff across the country since Carter died on Dec. 29 at the age of 100 in his hometown of Plains, Georgia.
+
+
+Carter's state funeral officially begins on Saturday with Secret Service agents from his current and former protective detail carrying his casket to a hearse for a tour through Plains.
+
+
+The motorcade bearing his remains is to pause at Carter's boyhood family peanut farm while a farm bell rings 39 times in honor of America's 39th president.
+
+
+His body will then be taken to Atlanta for a brief stop at the Georgia Capitol, where Carter served as a state senator before becoming governor, and a moment of silence.
+
+
+From there, Carter will be escorted to the Carter Presidential Center where he will lie in repose from 7 p.m. on Saturday (0000 GMT Sunday) to 6 a.m. (1100 GMT) on Tuesday to allow the public to pay their respects.
+
+
+Carter's remains will be flown on Tuesday morning from a military base in Georgia to Joint Base Andrews outside Washington on a U.S. Air Force plane dubbed Special Air Mission 39.
+
+
+A motorcade will then transport the body of the former commander-in-chief to the U.S. Navy Memorial.
+
+
+Carter, who attended the U.S. Naval Academy, graduating in 1946, and served on submarines, will be transferred from a hearse to a horse-drawn caisson for a funeral procession to the U.S. Capitol.
+
+
+Military pall bearers will carry his flag-draped casket to the rotunda of the Capitol where his body will lie in state until 7 a.m. (1200 GMT) on Thursday, surrounded by a guard of honor of service members.
+
+
+Carter will be the 13th former U.S. president to lie in state in the Capitol. Abraham Lincoln, assassinated in 1865, was the first.
+
+
+A national funeral service is to be held on Thursday at the National Cathedral, an Episcopal church in the nation's capital that also hosted state funerals for former presidents Dwight D. Eisenhower, Ronald Reagan, Gerald Ford and George H.W. Bush.
+
+
+All four living former presidents — Bill Clinton, George W. Bush, Barack Obama and Donald Trump — are expected to attend.
+
+
+President Joe Biden is to deliver the eulogy for his fellow Democrat, who served in the White House from 1977-81.
+
+
+Biden has declared Thursday to be a national day of mourning, and federal government offices are to be closed for the day.
+
+
+He has also ordered flags to be flown at half-staff for 30 days as is customary, which means that will be the case during Trump's Jan. 20 inauguration.
+
+
+That drew the ire of the president-elect, who took to Truth Social to say "no American can be happy" about having flags at half-staff when he takes office.
+
+
+Following the cathedral service, Carter's remains will be flown aboard Special Air Mission 39 back to Georgia for a private funeral service at the Baptist church in Plains where Carter taught Sunday school.
+
+
+A final motorcade through his hometown will ferry Carter's body to a burial plot at his residence.
+
+
+U.S. Navy jets will conduct a flyover in his honor before he is laid to rest alongside his wife of 77 years, Rosalynn, who died in 2023 at the age of 96. 
+
+<br> 
+
+<https://www.voanews.com/a/national-funeral-service-flyover-and-39-bells-for-carter-sendoff/7924128.html>
+
+---
+
+## US new car sales hit 5-year high in 2024, helped by hybrids
+
+date: 2025-01-04, from: VOA News USA
+
+DETROIT — U.S. new car sales in 2024 continued to rise from their pandemic lows, bolstered by replenished inventories, higher incentives and surging demand for hybrid vehicles, automakers reported on Friday.
+
+
+Sales of new vehicles finished at 15.9 million last year, according to Wards Intelligence, up 2.2% from the prior year, and the highest since 2019. Automakers are projecting strong sales will continue into 2025, although President-elect Donald Trump's proposed automotive policies, such as removing tax credits for EVs, present a wild card.
+
+
+"We’re carrying significant momentum into 2025," Rory Harvey, GM's head of global markets, said in a release. The Detroit automaker defended its 2023 crown as the biggest U.S. carmaker by sales, selling 2.7 million vehicles last year, the company said on Friday, up 4.3% from 2023.
+
+
+Most automakers recorded solid sales results last year, as they adjusted to slowing demand for EVs and relied on their core business of gasoline-powered trucks and SUVs. Others capitalized on soaring consumer interest in hybrid vehicles.
+
+
+Sales of traditional hybrids increased 36.7% in 2024 compared with the previous year, Wards reported.
+
+
+'Hybrids, we're sold out'
+
+
+Toyota notched a 3.7% sales gain year-over-year in the U.S., boosted by steady increases of reliable smaller vehicles such as the Camry and RAV4 SUV, as well as significant gains for hybrid vehicles. Reuters reported last year that the automaker is potentially converting all of its lineup into hybrid-only models.
+
+
+"For hybrids, we’re sold out — customers want them. We can’t get enough of them," said David Christ, head of sales and marketing for Toyota in North America. "Battery electric vehicles, even with the huge incentives we’re spending and the federal government’s incentives, are just not as in demand."
+
+
+Ford Motor also benefited from an increase in hybrid sales, which helped the automaker's total vehicle sales rise 4.2% in 2024. The Dearborn, Michigan, company's total hybrid sales roughly doubled that of its EVs, with 187,426 hybrids sold and 97,865 EVs.
+
+
+Automakers have axed or changed lofty EV plans laid out when demand seemed much stronger than it turned out to be, but they are still aiming to attract new EV buyers.
+
+
+Ford said on Friday that to support EV sales, which were up 34.8% for the automaker in 2024, it would extend a program where EV buyers receive free chargers and installation at home through the end of March.
+
+
+U.S. sales of electric vehicles are expected to approach 1.3 million, or about 8% of all new vehicles purchased, Cox Automotive said. Buyers' willingness to go electric crept up slightly from 2023, when U.S. drivers bought 1.2 million EVs, making up 7.6% of all sales, Cox said.
+
+
+The Trump administration's plans would likely affect auto sales in 2025 and beyond if the incoming president makes good on plans to roll back President Joe Biden's EV policies, including a $7,500 consumer tax credit on some EVs, as well as increase tariffs on imports from Mexico and Canada.
+
+
+"If you take true demand for the car and you eliminate the $7,500 benefit ... it's really going to change who wants them and how they buy them. So we're preparing for that," Toyota's Christ said. 
+
+<br> 
+
+<https://www.voanews.com/a/us-new-car-sales-hit-5-year-high-in-2024-helped-by-hybrids/7924097.html>
+
+---
+
+## Can we trust the expiration dates on our food?
+
+date: 2025-01-04, from: Market Place
+
+These expiration dates tell us how long food will maintain its highest quality, but they’re often still safe to eat after they "expire."  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/03/can-we-trust-the-expiration-dates-on-our-food/>
+
+---
+
+## US announces $306 million in new bird flu funding
+
+date: 2025-01-04, from: VOA News USA
+
+WASHINGTON — U.S. President Joe Biden's outgoing administration announced Friday that it will allocate $306 million to bolster the nation's bird flu response before President-elect Donald Trump takes office.
+
+
+The new funding will support national, state and local preparedness and monitoring programs, as well as research into potential medical countermeasures against the H5N1 virus.
+
+
+"While the risk to humans remains low, we are always preparing for any possible scenario that could arise," Health Secretary Xavier Becerra said in a statement.
+
+
+"Preparedness is the key to keeping Americans healthy and our country safe."
+
+
+The United States has reported 66 human cases of bird flu since the start of 2024, though experts believe the true number could be higher, with cases potentially going undetected among cattle and poultry workers.
+
+
+While the virus has not been found to spread from person to person, the amount of bird flu circulating among animals and humans has alarmed scientists, because it might combine with seasonal influenza and mutate into a more transmissible form — potentially triggering a deadly pandemic.
+
+
+The funding announcement comes amid concern over how the incoming Trump administration will handle the threat.
+
+
+The president-elect told Time magazine recently he would abolish the Office of Pandemic Preparedness and Response Policy established under Biden — though it is not clear if he has the authority to do so, since it was created by Congress.
+
+
+His pick for health secretary, Robert F. Kennedy Jr., is a vocal vaccine skeptic who has pledged to shake up the nation's health agencies and promotes raw milk, thought to be a vector for bird flu.
+
+
+Biden's administration has also faced criticism for what some consider a subpar bird flu response.
+
+
+The Center for Strategic and International Studies, a Washington-based think tank, published a report last month citing an array of problems including "lagging data, incomplete surveillance, sluggish coordination, considerable mistrust, and insufficient planning and stockpiling of vaccines and therapies."
+
+
+Given these shortcomings, infectious disease epidemiologist Meg Schaeffer of the SAS Institute told AFP: "In my opinion, avian influenza is going to become either a pandemic or a virus...  that will become a very widespread and significant health issue for us in the next one to two years."
+
+
+She urged raw milk consumers in particular to "take a pause on that consumption."
+
+
+Adding to concerns, a virus sample from a critically ill patient in Louisiana has shown signs of mutating to better adapt to human airways, although there is no evidence it has spread beyond that individual, health authorities said last week.
+
+
+Researchers are also closely monitoring the growing number of bird flu infections in cats, which could expose humans through close contact. 
+
+<br> 
+
+<https://www.voanews.com/a/us-announces-306-million-in-new-bird-flu-funding/7924091.html>
+
+---
+
+## Biden's top aide to make China-focused visit to India
+
+date: 2025-01-04, from: VOA News USA
+
+washington — President Joe Biden's national security adviser, Jake Sullivan, will make his final visit to India next week to emphasize Washington's partnership with New Delhi, the White House announced Friday.
+
+
+The visit will cap the Biden administration's efforts to maximize ties with Prime Minister Narendra Modi's government, in its strategic focus to counter China's influence in the Indo-Pacific.
+
+
+Strengthening ties with India has been a "real foreign policy priority and area of legacy achievement for the Biden administration," a senior administration official said on condition of anonymity in a briefing to reporters Friday.
+
+
+Sullivan will visit New Delhi January 5-6 to discuss a range of issues, including civil nuclear partnership, China's overcapacity on semiconductor and biopharma supply chains, strategic technology cooperation and other shared security priorities, a second administration official said.
+
+
+Sullivan's visit comes as tension is brewing between India and China over Beijing's plan to build what it calls the "world's largest" hydro dam on the Yarlung Zangbo River on the eastern rim of the Tibetan plateau, which could affect millions downstream in India and Bangladesh.
+
+
+Sullivan is expected to discuss the dam along with other regional issues of concern, said the first administration official in response to VOA's question. "What matters to us is that when it comes to water resources that have to be managed across countries, that those are being handled fairly and in an equitable way," the official said.
+
+
+Technology initiative
+
+
+A key focus of the visit is the U.S.-India initiative on Critical and Emerging Technology (iCET) – an effort that Biden and Modi announced in May 2022 to bolster their strategic technology partnership and defense-industrial cooperation between their governments, businesses and academic institutions across various domains, from AI to quantum computing, and from semiconductors to space.
+
+
+Sullivan's visit will take place just two weeks before President-elect Donald Trump assumes office January 20. Many expect iCET to continue under his administration.
+
+
+"There is broad bipartisan support for some of the goals of iCET," said the second administration official in response to VOA's question. They include "strengthening the resilience of technology supply chains, working with allies and partners to position ourselves to offset PRC [People Republic of China's] advancements in certain technologies, and efforts to dominate some of the supply chains."
+
+
+The U.S. strategic partnership with New Delhi is "based upon a bet that India's economic, technological and military rise is critical to pushing back and containing China's dominance in these fields," said Aparna Pande, director of the Initiative on the Future of India and South Asia at the Hudson Institute.
+
+
+Irritants have not derailed bilateral ties. Those include India's democratic backsliding, and the case of a former Indian government employee charged in New York last year with murder-for-hire over his role in directing a foiled plot to assassinate a Sikh separatist and Modi critic.
+
+
+Most of Biden's policies on India will likely continue, Pande told VOA, as Trump's desire to "push back or contain China's rise – economic, technological and military – will help ensure that India is seen as a partner in this endeavor."
+
+
+During his first administration, Trump had a warm relationship with Modi. Trump attended a 2019 "Howdy Modi" rally in Texas, and Modi reciprocated by hosting a "Namaste Trump" rally in Ahmedabad in 2020. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-s-top-aide-to-make-china-focused-visit-to-india-/7924089.html>
+
+---
+
+## Soldier who died in Las Vegas blast meant it to be 'wake-up call' for US
+
+date: 2025-01-04, from: VOA News USA
+
+An Army soldier who died in an explosion of a Tesla Cybertruck at the Trump hotel in Las Vegas left a note saying it was a stunt to serve as a "wake-up call" for the country's ills, investigators said Friday. 
+
+
+Matthew Livelsberger, 37, a Green Beret from Colorado Springs, Colorado, also wrote in the note that he needed to "cleanse my mind" of the lives lost of people he knew and "the burden of the lives I took." 
+
+
+Livelsberger apparently harbored no ill will toward President-elect Donald Trump, Las Vegas Metropolitan Police Department officials said. 
+
+
+"Although this incident is more public and more sensational than usual, it ultimately appears to be a tragic case of suicide involving a heavily decorated combat veteran who was struggling with PTSD and other issues," Spencer Evans, FBI special agent in charge, said at a news conference. 
+
+
+The explosion caused minor injuries to seven people but virtually no damage to the hotel. Authorities said Friday that Livelsberger acted alone.
+
+
+'Not a terrorist attack' 
+
+
+"This was not a terrorist attack, it was a wake-up call. Americans only pay attention to spectacles and violence. What better way to get my point across than a stunt with fireworks and explosives," Livelsberger wrote in a letter found by authorities who released only excerpts of it. 
+
+
+Investigators identified the Tesla driver — who was burned beyond recognition — as Livelsberger by a tattoo and by comparing DNA from relatives. The cause of death was a self-inflicted gunshot to the head, according to coroner's officials. 
+
+
+Pentagon officials have declined to say whether Livelsberger may have been suffering from mental health issues but say they have turned over his medical records to police. 
+
+
+Authorities excerpted the messages from two letters Livelsberger wrote using a cellphone note application, said Assistant Sheriff Dori Koren of the Las Vegas police. 
+
+
+The letters covered a range of topics including political grievances, domestic issues and societal issues, Koren said. 
+
+
+
+
+Tesla engineers, meanwhile, helped extract data from the Cybertruck for investigators, including Livelsberger's path between charging stations from Colorado through New Mexico and Arizona and on to Las Vegas, Koren said. 
+
+
+"We still have a large volume of data to go through," Koren said. "There's thousands if not millions of videos and photos and documents and web history and all of those things that need to be analyzed." 
+
+
+The new details came as investigators sought to determine Livelsberger's motive, including whether he sought to make a political point with the Tesla and the hotel bearing the president-elect's name. 
+
+
+Tesla CEO Elon Musk has recently become a member of Trump's inner circle. Neither Trump nor Musk was in Las Vegas early Wednesday, the day of the explosion. Both had attended Trump's New Year's Eve party at his South Florida estate. 
+
+
+Musk spent an estimated $250 million during the presidential campaign to support Trump, who has named Musk, the world's richest man, to co-lead a new effort to find ways to cut the government's size and spending. 
+
+
+Truck absorbed blast
+
+
+Investigators suspect Livelsberger may have been planning a more damaging attack, but the steel-sided vehicle absorbed much of the force from the crudely built explosive. 
+
+
+Investigators said previously that Livelsberger shot himself inside the Tesla Cybertruck packed with fireworks just before it exploded outside Trump International Hotel in Las Vegas on New Year's Day. 
+
+
+"It's not lost on us that it's in front of the Trump building, that it's a Tesla vehicle, but we don't have information at this point that definitively tells us or suggests it was because of this particular ideology," the FBI’s Evans said Thursday. 
+
+
+A law enforcement official said investigators learned through interviews that he might have had a fight with his wife about relationship issues shortly before he rented the Tesla in Colorado on Saturday and bought the guns. The official spoke on the condition of anonymity because of a lack of authorization to discuss the investigation. 
+
+
+Livelsberger served in the Green Berets, highly trained special forces who work to counter terrorism abroad and train partners. He had served in the Army since 2006, rising through the ranks with a long career of overseas assignments, deploying twice to Afghanistan and serving in Ukraine, Tajikistan, Georgia and Congo, the Army said. He had recently returned from an overseas assignment in Germany and was on approved leave when he died, according to a U.S. official. 
+
+
+He was awarded five Bronze Stars, including one with a valor device for courage under fire, a combat infantry badge and an Army Commendation Medal with valor. 
+
+
+The explosion of the truck came hours after Shamsud-Din Bahar Jabbar, 42, rammed a truck into a crowd in New Orleans' famed French Quarter early on New Year's Day, killing at least 14 people before being shot to death by police. 
+
+<br> 
+
+<https://www.voanews.com/a/soldier-who-died-in-las-vegas-blast-meant-it-to-be-wake-up-call-for-us/7924075.html>
+
+---
+
+## Biden awards Medal of Honor and Medal of Valor to military heroes, first responders
+
+date: 2025-01-04, from: VOA News USA
+
+WASHINGTON — On Feb. 15, 1951, Army Private Bruno R. Orig was returning from a mission when he found his fellow soldiers under attack in what's now known as the Battle of Chipyong-ni.
+
+
+The infantryman provided first aid to his comrades wounded in the Korean War attack and began helping move those men to safety. He then took over a machine gun post and allowed a friendly platoon to pull back without a casualty. When the ground was recaptured later that day, Orig was found dead beside the machine gun, surrounded by enemy combatants he had killed.
+
+
+Orig was among the Medal of Honor recipients recognized Friday by President Joe Biden in one of his last opportunities to officially acknowledge acts of selflessness and personal bravery in times of war. Biden bestowed the medal posthumously to six men and one living recipient at a White House ceremony. In a separate Oval Office ceremony closed to the news media, he awarded the Medal of Valor to eight first responders who put their own lives at risk to save others.
+
+
+These are heroes of different ranks, different positions and even different generations.” Biden said at the Medal of Honor ceremony, Friday evening. “They are heroes who all went above and beyond the call of duty."
+
+
+Acknowledging his last days as president, Biden said, "These are my finals days as commander in chief. It was the greatest honor of my life to be entrusted" to lead America, he said "and the finest military in the history of the world."
+
+
+During the Korean War, Private First Class Wataru Nakamura destroyed an enemy machine gun nest and recaptured several bunkers. He exhausted his ammunition but resumed his attack after being rearmed, and he was ultimately killed by an enemy grenade and buried in Los Angeles.
+
+
+Army Corporal Fred B. McGee was recognized for his gallantry and intrepidity near Tang-Wan-Ni, Korea, on June 16, 1952, when he assumed command of his squad, neutralized an enemy machine gun and then sent his squad back while he helped rescue the wounded.
+
+
+The Ohio native died in 2020, according to news reports.
+
+
+Army Private First Class Charles R. Johnson, from Millbrook, New York, was killed on June 12, 1953, after holding off Chinese forces during the Korean War. His actions saved the lives of as many as 10 soldiers.
+
+
+After multiple raids on an entrenched enemy in the area of Sagimak during the Korean War, Army First Lieutenant Richard E. Cavazos stayed behind alone to evacuate five battle casualties to safety.
+
+
+Cavazos served more than three decades in the service, eventually attaining the rank of four-star general. The Texan died in 2018 at age 88. Fort Hood was renamed in honor of him on May 9, 2023.
+
+
+After an armed helicopter crashed during the Vietnam War on June 5, 1966, Army Captain Hugh R. Nelson Jr. from Rocky Mount, North Carolina, pulled two specialists from the aircraft, shielding one of them from enemy gunfire at the loss of his own life.
+
+
+
+
+While fighting in Vietnam on May 7, 1970, then-Army Private First Class Kenneth J. David drew enemy fire away from injured comrades and onto himself, becoming wounded by a satchel charge.
+
+
+But David kept fighting and pulled fire away from landing Medevac helicopters, and was evacuated after the last helicopter landed. The Ohioan is still living.
+
+
+
+
+On Friday, Biden also awarded eight people the Medal of Valor, which goes to those who have shown exceptional courage in attempting to save human lives.
+
+
+The recipients included the law enforcement officials who responded to a shooter who killed six people on March 27, 2023, at The Covenant School in Nashville, Tennessee.
+
+
+The Nashville Police Department's Sergeant Jeffrey Mathes, Officer Rex Engelbert and detectives Michael Collazo, Ryan Cagle and Zachary Plese rushed to the scene and faced gunfire from the shooter. They cleared out classrooms and ultimately took down the shooter.
+
+
+Biden also recognized Sergeant Tu Tran of the Lincoln, Nebraska, Police Department. On Feb. 22, 2023, Tran swam 9 meters (30 feet) into a frigid pond to rescue a woman from a submerging vehicle.
+
+
+Lieutenant John Vanderstar, a New York City firefighter, received the Medal of Valor for rescuing a mother and child from a burning apartment on Oct. 23, 2022. Separately, New York City firefighter Brendan Gaffney was honored for braving an apartment building fire to save an unconscious child and a pregnant woman. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-awards-medal-of-honor-and-medal-of-valor-to-military-heroes-first-responders-/7924074.html>
+
+---
+
+## Winter storms to hit much of US with snow, ice, biting cold
+
+date: 2025-01-04, from: VOA News USA
+
+A strong snow and ice storm followed by brutally cold conditions will soon smack the eastern two-thirds of the United States as frigid air escapes the Arctic, plunging as far south as Florida, meteorologists said.
+
+
+Starting Saturday, millions of people are going to be hit by moderate to heavy snow from Kansas City to Washington — including a high chance of at least 8 inches of snow between central Kansas and Indiana — the National Weather Service warned Friday.
+
+
+Dangerous ice particularly lethal to power lines — “so heavy like paste, it's hard to move," said private meteorologist Ryan Maue — is likely to set in just south of that in southern Kansas, Missouri, Illinois, Indiana and much of Kentucky and West Virginia.
+
+
+“It's going to be a mess, a potential disaster,” Maue said. “This is something we haven't seen in quite a while.”
+
+
+National Weather Service meteorologist Alex Lamers said Friday that the potential for blizzard conditions was increasing, particularly in Kansas and neighboring portions of the Central Plains, and that wind gusts might reach 50 mph at times.
+
+
+As the storm moves away Monday, hundreds of millions of people in the eastern two-thirds of the nation will be plunged into dangerous, bone-chilling air and wind chills all week, government and private forecasters said. Temperatures could be 12 to 25 degrees Fahrenheit (7 to 14 degrees Celsius) colder than normal as the dreaded polar vortex stretches down from the high Arctic, bringing chilly weather, they said.
+
+
+“This could lead to the coldest January for the U.S. since 2011," Dan DePodwin, director of forecast operations for AccuWeather, said Friday. “It’s not just one day of this. It's going to be three to five, in some cases a week or more of temperatures that are well below historical average.”
+
+
+Look out, Ohio Valley
+
+
+The biggest drop below normal is likely to be centered over the Ohio Valley, but significant unusual cold will extend southward all the way to the Gulf Coast, said Danny Barandiaran, a meteorologist at the National Weather Service’s Climate Prediction Center.
+
+
+Forecasts have moderated a bit from last week, when some computer models envisioned the worst cold spell in decades. Now it's unlikely many cold records will break, but it will still have a big impact on the country, Barandiaran said.
+
+
+There should even be a hard freeze in Florida, while areas near the Canadian border will be around zero, Barandiaran said.
+
+
+“It’s not going to thaw out for a while,” Maue said.
+
+
+Jennifer Francis, a climate scientist at the Woodwell Climate Research Institute, said the initial blasting winds from the north might shock people after a fairly warm last couple of years.
+
+
+“The wind chills are going to be brutal,” she said. "There’ll be a lot of whining, but it is winter. ... Just because the globe is warming doesn’t mean these cold snaps are going away.”
+
+
+This nasty weather may be triggered in part by a fast-warming Arctic, serving as a not-so-gentle reminder that climate change gooses weather extremes, even winter ones, said Francis and Judah Cohen, seasonal forecast director at the private firm Atmospheric and Environmental Research.
+
+
+The polar vortex - ultra-cold air spinning like a top 15 to 30 miles high - usually stays penned up above the North Pole. But sometimes it escapes or stretches down to the United States, Europe or Asia. And that's when large numbers of people get intense doses of cold.
+
+
+Cohen and colleagues have published several studies showing an increase in the polar vortex stretching or wandering. Cohen, Francis and others last month published a study that attributed these cold outbreaks partly to changes from an Arctic that’s warming four times faster than the rest of the globe.
+
+
+The change in temperature and loss of Arctic sea ice make the jet stream — the river of air that moves storm fronts — wavier, allowing plunges of cold air to come south and extreme weather to stay put, Francis said.
+
+
+What's about to hit “is a really good example of these kinds of cases,” Francis said. 
+
+<br> 
+
+<https://www.voanews.com/a/winter-storms-to-hit-much-of-us-with-snow-ice-biting-cold/7923866.html>
 
 ---
 
@@ -6251,253 +8380,4 @@ Forecasters said to expect between 10 and 15 centimeters of rain before New Year
 <br> 
 
 <https://www.voanews.com/a/storms-delay-cancel-thousands-of-flights-across-us-/7917383.html>
-
----
-
-## Trump sides with Musk in H-1B visa debate, saying he supports program
-
-date: 2024-12-28, from: VOA News USA
-
-WEST PALM BEACH, FLORIDA — President-elect Donald Trump on Saturday sided with key supporter and billionaire tech CEO Elon Musk in a public dispute over the use of the H-1B visa, saying he fully backs the program for foreign tech workers opposed by some of his supporters. 
-
-
-Trump's remarks followed a series of social media posts from Musk, the CEO of Tesla and SpaceX, who vowed late Friday to "go to war" to defend the visa program for foreign tech workers. 
-
-
-Trump, who moved to limit the visas' use during his first presidency, told The New York Post on Saturday he was likewise in favor of the visa program. 
-
-
-"I have many H-1B visas on my properties. I've been a believer in H-1B. I have used it many times. It's a great program," he was quoted as saying.  
-
-
-Musk, a naturalized U.S. citizen born in South Africa, has held an H-1B visa, and his electric-car company Tesla obtained 724 of the visas this year. H-1B visas are typically for three-year periods, though holders can extend them or apply for permanent residency. 
-
-
-The altercation was set off earlier this week by far-right activists who criticized Trump's selection of Sriram Krishnan, an Indian American venture capitalist, to be an adviser on artificial intelligence, saying he would have influence on the Trump administration's immigration policies. 
-
-
-Musk's tweet was directed at Trump's supporters and immigration hard-liners who have increasingly pushed for the H-1B visa program to be scrapped amid a heated debate over immigration and the place of skilled immigrants and foreign workers brought into the country on work visas. 
-
-
-On Friday, Steve Bannon, a longtime Trump confidante, critiqued "big tech oligarchs" for supporting the H-1B program and cast immigration as a threat to Western civilization. 
-
-
-In response, Musk and many other tech billionaires drew a line between what they view as legal immigration and illegal immigration. 
-
-
-Trump has promised to deport all immigrants who are in the U.S. illegally, deploy tariffs to help create more jobs for American citizens, and severely restrict immigration. 
-
-
-The visa issue highlights how tech leaders such as Musk — who has taken an important role in the presidential transition by advising on key personnel and policy areas — are now drawing scrutiny from his base. 
-
-
-The U.S. tech industry relies on the government's H-1B visa program to hire foreign skilled workers to help run its companies, a labor force that critics say undercuts wages for American citizens.  
-
-
-Musk spent more than a quarter of a billion dollars helping Trump get elected in November. He has posted regularly this week about the lack of homegrown talent to fill all the needed positions in American tech companies. 
-
-<br> 
-
-<https://www.voanews.com/a/7917156.html>
-
----
-
-## Trump energy plans complicated by tariffs, global competition
-
-date: 2024-12-28, from: VOA News USA
-
-A different approach to energy is at the center of President-elect Donald Trump’s promise to bring down the cost of living for Americans. But as VOA’s Congressional Correspondent Katherine Gypson reports, Trump’s plans could be complicated by a complex global interdependence on oil and gas supplies. 
-
-<br> 
-
-<https://www.voanews.com/a/trump-energy-plans-complicated-by-tariffs-global-competition/7916993.html>
-
----
-
-##  The Year Of The Master Plan 
-
-date: 2024-12-28, from: The Lever News
-
- The results are in, and they’ve exceeded our wildest hopes.  
-
-<br> 
-
-<https://www.levernews.com/the-year-of-the-master-plan/>
-
----
-
-## US agency says decongestant in many cold medicines doesn't work. So what does?
-
-date: 2024-12-28, from: VOA News USA
-
-WASHINGTON — Changes are coming to the cold and cough aisle of your local pharmacy: U.S. officials are moving to phase out the leading decongestant found in hundreds of over-the-counter medicines, concluding that it doesn't actually relieve nasal congestion.
-
-
-Phenylephrine is used in popular versions of Sudafed, Dayquil and other medications, but experts have long questioned its effectiveness. Last month the Food and Drug Administration formally proposed revoking its use in pills and liquid solutions, kicking off a process that's likely to force drugmakers to remove or reformulate products.
-
-
-It's a win for skeptical academics, including researchers at the University of Florida who petitioned the FDA to revisit the drug's use in 2007 and again in 2015. For consumers it will likely mean switching to alternatives, including an older decongestant that was moved behind the pharmacy counter nearly 20 years ago.
-
-
-Doctors say Americans will be better off without phenylephrine, which is often combined with other medicines to treat cold, flu, fever and allergies.
-
-
-"People walk into the drugstore today and see 55,000 medicines on the shelf and they pick one that is definitely not going to work," said Dr. Brian Schroer of the Cleveland Clinic. "You take away that option and it will be easier for them to self-direct toward products that really will help them."
-
-
-Why is FDA doing this now?
-
-
-The FDA decision was expected after federal advisers last year voted unanimously that oral phenylephrine medications haven't been shown to relieve congestion.
-
-
-Experts reviewed several recent, large studies indicating that phenylephrine was no better than a placebo at clearing nasal passageways. They also revisited studies from the 1960s and 1970s that supported the drug's initial use, finding numerous flaws and questionable data.
-
-
-The panel's opinion only applied to phenylephrine in oral medications, which account for roughly $1.8 billion in annual U.S. sales. The drug is still considered effective in nasal sprays, though those are much less popular.
-
-
-Phenylephrine wasn't always the top choice for cold and allergy products. Many were originally formulated with a different drug, pseudoephedrine.
-
-
-But a 2006 law required pharmacies to move pseudoephedrine products behind the counter, citing their potential to be processed into methamphetamine. Companies such as Johnson & Johnson and Bayer decided to reformulate their products to keep them readily available on store shelves — and labeled many of them as "PE" versions of familiar brand names.
-
-
-What are some alternatives for congestion?
-
-
-Consumers who still want to take pills or syrups for relief will probably need to head to the pharmacy counter — where the pseudoephedrine-containing versions of Sudafed, Claritin D and other products remain available without a prescription. Purchasers need to provide a photo ID.
-
-
-Beyond those products, most of the other options are over-the-counter nasal sprays or solutions.
-
-
-Saline drops and rinses are a quick way to clear mucus from the nose. For long-term relief from seasonal stuffiness, itching and sneezing, many doctors recommend nasal steroids, sold as Flonase, Nasacort and Rhinocort.
-
-
-"These medicines are by far the most effective daily treatment for nasal congestion and stuffiness," Schroer said. "The biggest issue is they're not great when used on an as-needed basis."
-
-
-Nasal steroids generally have to be used daily to be highly effective. For short-term relief, patients can try antihistamine sprays, such as Astepro, which are faster acting.
-
-
-Phenylephrine-based sprays will also remain on pharmacy shelves.
-
-
-Why doesn't phenylephrine work when taken by mouth?
-
-
-The experts who challenged the drug's effectiveness say it's quickly broken down and rendered ineffective when it hits the stomach.
-
-
-"This is a good drug, but not when it's swallowed," said Leslie Hendeles, professor emeritus at the University of Florida's College of Pharmacy, where he co-authored several papers on the ingredient. "It's inactivated in the gut and doesn't get into the bloodstream, so it can't get to the nose."
-
-
-When Hendeles and his colleagues first petitioned the FDA on phenylephrine, they suggested a higher dose might be effective. But subsequent studies showed that even doses 400% higher than those currently recommended don't treat stuffiness.
-
-
-The FDA and other researchers concluded that pushing the dosage even higher might carry safety risks.
-
-
-"If you're using very high doses, the risk is raising blood pressure so high that it could be hazardous to patients," said Randy Hatton, a University of Florida professor who co-led the research on phenylephrine.
-
-
-Because of its cardiovascular effects, the drug is sometimes used to treat dangerously low blood pressure during surgery, Hatton noted.
-
-
-What happens next?
-
-
-Oral phenylephrine medicines will still be with us for a while.
-
-
-Government regulators must follow a public, multistep process to remove the ingredient from FDA's list of drugs approved for over-the-counter decongestants.
-
-
-For six months, the FDA must take comments on its proposal, including from consumers and companies. Then, the FDA must review the feedback before writing a final order. Even after that decision is finalized, companies will likely have a year or more to remove or reformulate products.
-
-
-Drugmakers could further delay the process by requesting additional FDA hearings.
-
-
-For now, the Consumer Healthcare Products Association — which represents medicine makers — wants the products to stay available, saying Americans deserve "the option to choose the products they prefer for self-care."
-
-
-Hatton says he and his colleagues disagree: "Our position is that choosing from something that doesn't work isn't really a choice." 
-
-<br> 
-
-<https://www.voanews.com/a/us-agency-says-decongestant-in-many-cold-medicines-doesn-t-work-so-what-does-/7914334.html>
-
----
-
-## CDC says bird flu virus likely mutated within a US patient
-
-date: 2024-12-28, from: VOA News USA
-
-A genetic analysis suggests the bird flu virus mutated inside a Louisiana patient who contracted the nation’s first severe case of the illness, the U.S. Centers for Disease Control and Prevention said this week.
-
-
-Scientists believe the mutations may allow the virus to better bind to receptors in the upper airways of humans — something they say is concerning but not a cause for alarm.
-
-
-Michael Osterholm, a University of Minnesota infectious-disease researcher, likened this binding interaction to a lock and key. To enter a cell, the virus needs to have a key that turns the lock, and this finding means the virus may be changing to have a key that might work.
-
-
-“Is this an indication that we may be closer to seeing a readily transmitted virus between people? No,” Osterholm said. “Right now, this is a key that sits in the lock, but it doesn’t open the door.”
-
-
-The virus has been causing sporadic, mostly mild illnesses in people in the United States; nearly all of those infected worked on dairy or poultry farms.
-
-
-The patient in the U.S. state of Louisiana was hospitalized in critical condition with severe respiratory symptoms from bird flu after coming in contact with sick and dead birds in a backyard flock. The person, who has not been identified, is older than 65 and has underlying medical problems, officials said earlier this month.
-
-
-The CDC stressed there has been no known transmission of the virus from the Louisiana patient to anyone else. The agency said its findings about the mutations were “concerning,” but the risk to the general public from the outbreak “has not changed and remains low.”
-
-
-Still, Osterholm said, scientists should continue to follow what’s happening with mutations carefully.
-
-
-“There will be additional influenza pandemics, and they could be much worse than we saw with COVID," he said. "We know that the pandemic clock is ticking. We just don’t know what time it is.” 
-
-<br> 
-
-<https://www.voanews.com/a/cdc-says-bird-flu-virus-likely-mutated-within-a-us-patient/7916733.html>
-
----
-
-## US proposes cybersecurity rules to limit impact of health data leaks
-
-date: 2024-12-28, from: VOA News USA
-
-Health care organizations may be required to bolster their cybersecurity to better prevent sensitive information from being leaked by cyberattacks like the ones that hit Ascension and UnitedHealth, a senior White House official said Friday.
-
-
-Anne Neuberger, the U.S. deputy national security adviser for cyber and emerging technology, told reporters that proposed requirements are necessary in light of the massive number of Americans whose data has been affected by large breaches of health care information. The proposals include encrypting data so it cannot be accessed, even if leaked, and requiring compliance checks to ensure networks meet cybersecurity rules.
-
-
-The full proposed rule was posted to the Federal Register on Friday, and the Department of Health and Human Services posted a more condensed breakdown on its website.
-
-
-She said that the health care information of more than 167 million people was affected in 2023 as a result of cybersecurity incidents.
-
-
-The proposed rule from the Office for Civil Rights (OCR) within HHS would update standards under the Health Insurance Portability and Accountability Act and would cost an estimated $9 billion in the first year, and $6 billion in years two through five, Neuberger said.
-
-
-"We've made some significant proposals that we think will improve cybersecurity and ultimately everyone's health information, if any of these proposals are ultimately finalized," an OCR spokesperson told Reuters late Friday. The next step in the process is a 60-day public comment period before any final decisions will be made.
-
-
-Large health care breaches caused by hacking and ransomware have increased by 89% and 102%, respectively, since 2019, Neuberger said.
-
-
-"In this job, one of the most concerning and really troubling things we deal with is hacking of hospitals, hacking of health care data," she said.
-
-
-Hospitals have been forced to operate manually and Americans' sensitive health care data, mental health information and other information are "being leaked on the dark web with the opportunity to blackmail individuals," Neuberger said. 
-
-<br> 
-
-<https://www.voanews.com/a/us-proposes-cybersecurity-rules-to-limit-impact-of-health-data-leaks-/7916725.html>
 

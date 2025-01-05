@@ -1,11 +1,306 @@
 ---
 title: columns
-updated: 2025-01-04 07:05:01
+updated: 2025-01-05 07:05:59
 ---
 
 # columns
 
-(date: 2025-01-04 07:05:01)
+(date: 2025-01-05 07:05:59)
+
+---
+
+## The real reason that OS/2 flopped went on to shape modern software
+
+date: 2025-01-05, updated: 2025-01-05, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Opinion</span> Even Microsoft&#39;s lead architect misunderstood the failure</h4>
+      <p>The resurfacing of a 1995 Usenet post earlier this month prompted The Reg FOSS desk to re-examine a pivotal operating system flop … and its long-term consequences.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/01/05/os2_flopped_reason/>
+
+---
+
+## Biden Honors Bono
+
+date: 2025-01-05, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/bono-goes-to-the-white-house>
+
+---
+
+## Sunday Caption Contest: Crossword!
+
+date: 2025-01-05, from: Robert Reich's blog
+
+And last week&#8217;s winner 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-caption-contest-crossword>
+
+---
+
+## January 4, 2025 
+
+date: 2025-01-05, from: Heather Cox Richardson blog
+
+Let&#8217;s take the night off. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-4-2025>
+
+---
+
+## Memo to Trump: US telecoms are vulnerable to hackers. Hang up and try again
+
+date: 2025-01-05, from: John Naughton's online diary
+
+Today’s Observer column: You know the drill. You’re logging into your bank or another service (Gmail, to name just one) that you use regularly. You enter your username and password and then the service says that it will send you &#8230; <a href="https://memex.naughtons.org/memo-to-trump-us-telecoms-are-vulnerable-to-hackers-hang-up-and-try-again/40306/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/memo-to-trump-us-telecoms-are-vulnerable-to-hackers-hang-up-and-try-again/40306/>
+
+---
+
+## Pulitzer-Prize-Winner Ann Telnaes Quits the Washington Post After Editors Nix Cartoon Mocking Bezos (and His Tech/Media Mogul Cohorts) for Paying Fealty to Trump
+
+date: 2025-01-04, updated: 2025-01-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://anntelnaes.substack.com/p/why-im-quitting-the-washington-post>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-04, from: Dave Winer's Scripting News)
+
+BTW, as <a href="http://scripting.com/2025/01/03.html#a010024">promised</a>, last night's Knicks game was great. Up until the end, when the other guys took over and sadly the Knicks lost. We need a stronger bench. The starting five are great but they're not totally super-human. 
+
+<br> 
+
+<http://scripting.com/2025/01/04.html#a223717>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-04, from: Dave Winer's Scripting News)
+
+Just taking it easy. Thinking about stuff. Will resume blogging soon. <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2025/01/04.html#a223632>
+
+---
+
+## January 3, 2025
+
+date: 2025-01-04, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154157241/2f718a6249f31eef8f2a14f2827ca927.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154157241/2f718a6249f31eef8f2a14f2827ca927.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-3-2025-709>
+
+---
+
+## Disrupting my reading habits to read more of what *I* want (Part 3)
+
+date: 2025-01-04, from: Tracy Durnell Blog
+
+This is part three of a series on tackling wants, managing my media diet, and finding enough. Read the introduction on &#8220;the mindset of more.&#8221; The Internet feels like an old relative&#8217;s hoarder house, the hallways so packed with clutter you can barely squeeze through. At one point they remembered where some of the important [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/04/disrupting-my-reading-habits/>
+
+---
+
+## Ural Notes Part 2: Electrical and Lighting
+
+date: 2025-01-04, updated: 2025-01-04, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2025/01/04/ural-notes-part-2-electrical/>
+
+---
+
+## 2025-01-04 SSH app bots
+
+date: 2025-01-04, from: Alex Schroeder's Blog
+
+<h1 id="2025-01-04-ssh-app-bots">2025-01-04 SSH app bots</h1>
+
+<p>A long time ago I wrote a program that is accessible via <code>ssh</code>.
+Use the arrows to move around on the map, use <code>u</code> and <code>d</code> to raise and lower the land.
+The program recomputes water flow, forests, swamps, settlements, and so on.
+It&rsquo;s cute.</p>
+
+<p>I called it <a href="https://src.alexschroeder.ch/hex-populate.git/">hex-populate</a>,
+in honour of <a href="https://en.wikipedia.org/wiki/Populous_(series)">Populous</a>.</p>
+
+<p>If you &ldquo;save&rdquo; the map, an SVG rendering is saved on the server which you can download via <code>scp</code>.</p>
+
+<p>Since this application is a bit like a web site, there are not credentials to provide.
+Anybody can give it a try:</p>
+
+<pre><code>ssh campaignwiki.org -p 2022
+</code></pre>
+
+<p>Recently I wondered why load on the server was up to 3. The virtual server only has two cores so so it was overloaded.
+I checked with <code>htop</code> and <code>hex-populate</code> was eating 50% of the CPU.
+Really?
+Was somebody fuzzing the application, sending it random input?</p>
+
+<p>Let&rsquo;s check using <code>lsof</code>. The option <code>-i :2022</code> lists all the activity concerning the port I&rsquo;m interested in.
+<code>-n</code> means I don&rsquo;t need the hostname. (The hostname was &ldquo;inspector-apps.com&rdquo;.)</p>
+
+<pre><code># lsof -i :2022 -n
+COMMAND       PID         USER   FD   TYPE    DEVICE SIZE/OFF NODE NAME
+hex-popul 3601254 hex-populate    3u  IPv4 107999449      0t0  TCP 178.209.50.237:2022 (LISTEN)
+hex-popul 3601254 hex-populate    7u  IPv4 107999454      0t0  TCP 178.209.50.237:2022-&gt;159.203.81.114:57528 (ESTABLISHED)
+</code></pre>
+
+<p>You know what comes next.</p>
+
+<pre><code>root@sibirocobombus ~# whois 159.203.81.114
+</code></pre>
+
+<p>And based on the info, ban the whole network, and add it to <a href="/admin/ban-cidr">ban-cidr</a> as a warning for all to see.</p>
+
+<pre><code>ipset add banlist 159.203.0.0/16
+echo &quot;# &quot; (date --iso) &gt;&gt; bin/admin/ban-cidr
+echo &quot;ipset add banlist 159.203.0.0/16&quot; &gt;&gt; bin/admin/ban-cidr
+systemctl restart hex-populate.service
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Hex_Populate">#Hex Populate</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-01-04-ssh-app-bots>
+
+---
+
+## The Republican Takeover. Oof. | Coffee Klatch for January 4, 2025
+
+date: 2025-01-04, from: Robert Reich's blog
+
+With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154098651/8439265725de597eb83e870bb1f0fe07.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154098651/8439265725de597eb83e870bb1f0fe07.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/the-republican-takeover-oof-coffee>
+
+---
+
+## Weeknotes: Dec. 28, 2024 – Jan. 3, 2025
+
+date: 2025-01-04, from: Tracy Durnell Blog
+
+Win of the week: posted the intro and first two posts of the series I&#8217;ve been working on! third post scheduled for Saturday! Looking forward to: just got several books from the library I&#8217;ve been looking forward to, hopefully they&#8217;re good! Stuff I did: 0.5 hours consulting &#8212; took most of the week off work again, [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/03/weeknotes-dec-28-2024-jan-3-2025/>
+
+---
+
+## January 3, 2025 
+
+date: 2025-01-04, from: Heather Cox Richardson blog
+
+Today a new Congress, the 119th, came into session. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-3-2025>
+
+---
+
+## The Great American Tradition
+
+date: 2025-01-04, updated: 2025-01-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.politico.com/news/2021/01/09/biden-inaugural-donors-major-corporations-456907>
+
+---
+
+## Gambling, sports, kids
+
+date: 2025-01-04, from: Dave Winer's Scripting News
+
+<p><a href="https://paulkrugman.substack.com/p/the-plot-to-poison-childrens-minds">Krugman writes</a> about social media is poisoning children's minds. </p>
+<p>I like that Krugman has resumed his blogging. </p>
+<p>This means that sometimes I agree or disagree, or have mixed opinions, but I always learn something. That's what makes a blogger good imho.</p>
+<p>I don't know if I agree that children's minds are being poisoned. But I am pretty sure when people like Krugman and myself reach a certain age, and we are the same age, we start looking at new media that way. Maybe <i>our</i> minds are poisoned. My father called television the "idiot box." But it eventually became the literature of my generation, often very good. But maybe laws can help.</p>
+<p>One thing I am sure of is that sports is being ruined by gambling. I can't imagine that a parent in 2025 would let their kids watch the NBA on TV, because it makes gambling appear to be a normal part of being a fan. Yet the NBA, which has a reputation of being socially forward-thinking, has swallowed the pill, and gambling is an integral part of coverage of the NBA now. </p>
+<p>Same with the NFL, MLB and tennis. </p>
+<p>And is this why they can now afford to <a href="https://www.mlb.com/news/juan-soto-agrees-to-contract-with-mets">sign players</a> to $765 million contracts? </p>
+<p>They're all getting hugely rich, but I believe that they are certainly doing great harm to the new sports fans growing up now. </p>
+<p>I am a no apologist for being a sports fan. I love the Mets and the Knicks, have flirted with the Niners, and have a place in my heart for the Cubs and Red Sox, and I know that gambling spoils what's fun about sports, can turn it into an awful addiction. I manage to be a fan without ever having bet on a game, even just a bet between friends. I don't see it as part of sports. It wasn't the way my family enjoyed sports. </p>
+<p>I was a math major and a 50+ year programmer, and I know that if you gamble enough you lose all your money. And as an addiction no gambler ever gets up from the table to enjoy their winnings when they win.</p>
+<p>PS: I wrote this <a href="https://daveverse.wordpress.com/2025/01/01/gambling-has-infested-sport-in-new-unacceptable-ways/">post</a> in WordLand on New Years Day, saving it for a good moment on Scripting.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/03/014548.html?title=gamblingSportsKids>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-04, from: Dave Winer's Scripting News)
+
+<a href="https://www.youtube.com/watch?v=lhMDoBFYDmA">Knicks on Friday night</a>: A big offline day here in the mountains, the show will resume tomorrow bright and early, Murphy-willing. Enjoy tonight's <a href="https://www.si.com/nba/thunder/news/okc-thunder-vs-new-york-knicks-1-3-updated-injury-report-betting-odds">Knicks game</a> in OKC. Should be a great game. <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2025/01/03.html#a010024>
+
+---
+
+## ‘Don’t You Think We Should Maybe Ask for More Than a Million Dollars? A Million Dollars Isn’t Exactly a Lot of Money These Days.’
+
+date: 2025-01-04, updated: 2025-01-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=EJR1H5tf5wE>
+
+---
+
+## Understanding DOGE as Procurement Capture
+
+date: 2025-01-04, updated: 2025-01-04, from: Anil Dash blog
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/01/04/DOGE-procurement-capture/>
 
 ---
 
@@ -1693,242 +1988,4 @@ Idea: Pipe new posts from feeds in <a href="https://feedland.social/opml?screenn
 <br> 
 
 <http://scripting.com/2024/12/28.html#a003934>
-
----
-
-## Why the Muskrat is wrong about opening America to skilled workers from abroad
-
-date: 2024-12-28, from: Robert Reich's blog
-
-I refused to bow to industry pressure 30 years ago, and my reasons are as legitimate now as they were then. 
-
-<br> 
-
-<https://robertreich.substack.com/p/why-the-muskrat-is-wrong-about-opening>
-
----
-
-## Vibe Check №36
-
-date: 2024-12-28, from: Dave Rupert blog
-
-<p><a href="https://www.kut.org/energy-environment/2024-11-01/this-octobers-heat-blows-away-the-previous-record-set-77-years-ago">Hottest October on record</a>. November weather was much nicer, but lacked the much needed rain. We now pass the solstice and crash into the new year without so much as a sneeze from the gods of winter. My son’s team took second in the Fall baseball championship game. My daughter’s cheer team won their first competition gaining them a bid to nationals in the spring. Exciting times in Rupert family sports, I tell ya.</p>
-<p>Three major holidays have passed since the last update so I’m sure it’s going to be too much to distill, but I’ve tried to blog through the bigger vibes like <a href="https://daverupert.com/2024/11/goodbye-moogs/">my cat passing away</a>, <a href="https://daverupert.com/2024/12/adhd/">my ADHD diagnosis</a>, and <a href="https://daverupert.com/2024/12/my-little-games-workshop/">releasing some games</a>. So with those abstracted out, let’s reminisce on the recent past…</p>
-<h2>A trip to the mothership</h2>
-<p>The biggest event was my trip to Microsoft in November. It’s been nearly a decade since I’ve been to the Microsoft campus, but notably this is the first time I’ve met my new coworkers in person! I’m happy to report that my coworkers are all great people. Thankfully my small engineering team as well as the larger design organization is high functioning when it comes to hybrid/remote work, so I don’t feel left out of the on-premise centralized loop that I’ve felt in previous Microsoft engagements. My team made it easy to <code>&lt;slot&gt;</code> (!!!) in and feel welcome.</p>
-<img src="https://cdn.daverupert.com/posts/2024/opinions.jpg" alt="A printout of my avatar with a speech bubble that says I'm here with opinions" height="600" width="600" style="width: 100%; max-width: 400px">
-<p>An example, my sweet coworkers hung up a print out of my avatar in one of the conference rooms with a little speech bubble that says “I‘m here with OPINIONS” which I find endearing. The side bonus is that Teams the app sees the avatar and thinks its a person and will zoom-in on it in every meeting. My avatar is an ever-present participant in a lot of meetings to the extent that five different people walked up to me said “Oh, it’s the guy from the conference room!” which is probably the biggest payoff to a long running gag that I’ve seen in my lifetime.</p>
-<p>We spent most days strategizing in conference rooms but also did morale building events. One highlight for me was our studio’s tour of the Microsoft Inclusive Tech Lab where I got to talk with Dave Dame. I’ve been a fan of his for awhile now, he has a way of communicating the need to reject “other-ism” that sticks with you. He shared with us some of the challenges he faces as a person with limited mobility and <a href="https://www.youtube.com/watch?v=IFYCVWm4K4A">how AI is impacting his life for the better</a>. One night a group of us remote and local employees went out for dinner and ate grasshoppers. Another highlight was sneaking into a demo day event where designers at Edge were prototyping in the browser with web components. This grinch’s heart grew three times that day.</p>
-<p>Everyone apologized for the rain while I was there but I loved the soggy weather coming from six months of Texas heat. I found it nothing but charming. Redmond has grown up considerably in the decade since my last visit, and the Microsoft campus is almost unrecognizable to me. Redmond used to be a bunch of small one or two story buildings but now it’s all enormous five story buildings. Redmond was wooing me pretty hard though I won’t lie; next to my hotel was an outdoor mall that had an <em>izakaya</em>, a games shop, a guitar center, and an upscale Hobbytown with Gunpla! It felt like my own personal Disneyland generated from my search history.</p>
-<p>Spent a lot of time with work folks, but I caught up with a couple old friends while I was there. One night I met up with Kyle who was the other engineer at Luro who now works at Amazon. We were long overdue to celebrate in person together and close a chapter on the two years of intense sprinting we did together at Luro. Then I got to see Kelly and Charles who I worked with through multi-year engagements on microsoft.com, it’s great to know other people at such a big place like Microsoft. And one night I snuck over to Fremont for a memorable night of playing vintage and indie arcade and pinball games with Adam Argyle. It’s good to have good friends from the internet.</p>
-<p>All said, I think the main purpose of my trip – firm handshakes and letting my coworkers know I’m a real person – was a success. Hopefully, I’ll find myself in Redmond more often.</p>
-<h2>Other major happenings</h2>
-<p>A speed run of other notable events but in the interest of time we’ll keep it brief:</p>
-<ul>
-<li>In October I deleted my X account. I call it X because that’s it’s new name and it’s a stupid name for a stupid website. I put 14 years into that site and it’s surprising how easy deleting my account was. Over time logging in felt icky and the “heartbeat of the internet” parts have been co-opted by Russian bot farms. I don’t thrive on the self-created chaos Elon brings and I don’t want to support whatever flavor of white male supremacy is flourishing there. Bluer and calmer skies over on Bluesky and (my favorite) Mastodon.</li>
-<li>Halloween was a hit. My block does it pretty big and we’re lucky to have hundreds of kids roaming on my street.</li>
-<li>I only drive about 20 miles a week and I wanted those 20 miles to be fun, so we bought a Jeep. It’s a whole vibe to be honest. You can even make “Jeep” your entire personality if you want. I’m not there yet, but having fun exploring the space.</li>
-<li>Thanksgiving was low key and bought the Whole Foods pre-made dinner for four. That made prep-day simple and no one got overwhelmed.</li>
-<li>The last weekend in November <a href="https://daverupert.com/2024/11/goodbye-moogs/">our elderly cat Moogs passed away</a>.</li>
-<li><a href="https://daverupert.com/2024/12/adhd/">I got diagnosed with ADHD</a> and started taking meds.</li>
-<li>We stayed in town for Christmas and that was pretty wonderful. Mrs. Claus did a great job getting presents for the kids.</li>
-</ul>
-<p>Recapping three whole months isn’t fun, but spinning off some of the major events into their own posts was pretty efficient so I should do that more.</p>
-<h2>The more quantifiable parts</h2>
-<h3>🧠 <strong>Learning</strong></h3>
-<p>I’m sure this list is incomplete, but went down some rabbit trails researching health issues like my ADHD but a couple non-health issues as well.</p>
-<ul>
-<li>ADHD and the different medication options</li>
-<li>Intermittent fasting and the effects of glucose spikes and insulin resistance.</li>
-<li>Tone.js - In my side projects I got to play with Tone.js a bit and I love it.</li>
-<li>Soviet Central Planning - I’m curious why soviet central planning failed. This overlaps with to Stalinist communism, World War II, Russian cosmonauts, and Kremlinology.</li>
-</ul>
-<h3>🚀 Releases</h3>
-<p>I got hellbent on releasing some projects this quarter and feel accomplished even if they are small in scope.</p>
-<ul>
-<li><a href="https://mundango.daverupert.com/">Mundango</a> - A game about noticing life’s small things</li>
-<li><a href="https://pentablaster.daverupert.com/">Pentablaster</a> - An instrument with no wrong notes</li>
-<li><a href="https://hardcodesoftskills.daverupert.com/">Hard Code &amp; Soft Skills</a> - A workplaced themed RPG</li>
-</ul>
-<p>I wrote about <a href="https://daverupert.com/2024/12/my-little-games-workshop/">my little games workshop</a> more in depth if you’re curious about the why or my process. I’m also play testing a game with the ShopTalk Discord and am slowly iterating towards a release.</p>
-<h3>📖 <strong>Reading</strong></h3>
-<p>Read a lot more than I expected. After multiple recommendations I finally started reading The Murderbot Diaries and holy cow, what a great series. Each book is like a little 150-page snack that I get to enjoy. It feels good to read (e-)paper books again too, not just audiobooks.</p>
-<p><strong>Finished</strong></p>
-<ul>
-<li><a href="https://amzn.to/3nbn1hV">Humankind</a> - Finished this book for the second and it’s as great as I remember. I probably need to buy a physical copy that I can highlight up.</li>
-<li><a href="https://amzn.to/40I8Rw8">It’s not you, it’s Capitalism</a> - Marxist communism wrapped in a “You go girl!” blanket. Not for me but a good critique of the capitalist system is in there.</li>
-<li><a href="https://amzn.to/3UKf5Ic">Lost in Austin</a> - The history of Austin, as told by an Englishman, focusing on the rapid growth tech boom town era from the early 2000s to present. It’s an ever present fear that Austin is changing too much, but this book makes a good argument that what made Austin cool can’t live in the new upscale downtown and high rents.</li>
-<li><a href="https://amzn.to/3ChWZH5">All Systems Red</a>, The Murderbot Diaries No.1 - A sassy and depressed robot built for murder finds a new life after it hacks its governor module.</li>
-<li><a href="https://amzn.to/3CuuhTr">The Psychology of Money</a> - I thought this was going to be a book about understanding money from a psychological perspective; instead it was a book about how rich people abuse the system and it made me mad.</li>
-<li><a href="https://images-na.ssl-images-amazon.com/images/P/B075DGHHQL.01._SCLZZZZZZZ_.jpg">Artificial Condition</a>, The Murderbot Diaries No.2 - Another great sassy robot read.</li>
-<li><a href="https://amzn.to/3VhtcFd">Play Nice</a> - The rise, fall, and collapse of Activision/Blizzard. As someone who plays games by this company, I found it cathartic.</li>
-<li><a href="https://amzn.to/4gbKrjd">Thinking in Systems</a> - I went in hoping for design system inspiration but got mad about the incoming Trump administration because it’s a lot about incentives and guardrails, which will soon flip upside down.</li>
-<li><a href="https://koguchipress.com/products/koguchi-magazine-1-arcana-dawn">Koguchi Magazine #1</a> - A sci-fi kickstarter comic I backed… not my favorite.</li>
-<li><a href="https://koguchipress.com/products/koguchi-magazine-2-neo-future">Koguchi Magazine #2</a> - Issue #2 of the sci-fi kickstarter comic I backed… was a little bit better than the first.</li>
-<li><a href="https://amzn.to/4fRPUMt">Life in the Fasting Lane</a> - A book on the benefits of intermittent fasting… not my favorite</li>
-<li><a href="https://amzn.to/49B0bdt">Fair Play</a> - A subject I care about, the inequality gap between men and women when factoring in all the “glue work” and homemaking tasks that (typically) women absorb as part of their duties… but the husband in this book is such a cringe asshole it’s hard to think a card game is going to solve their problems when what they need is marriage counseling. I don’t want to be in the middle of that relationship so I didn’t finish the book.</li>
-<li><a href="https://amzn.to/3OWoCsA">Glucose Revolution</a> - Either this book is the holy grail to fixing all health problems in America… or it’s a book by someone who took a simple fact (glucose spikes aren’t great for your body) and extrapolated that to be the cause of all health problems ever. I think it’s the latter.</li>
-<li><a href="https://amzn.to/3VEyxXv">Rogue Protocol</a>, The Murderbot Diaries No.3 - More sassy robot. Great.</li>
-</ul>
-<p><strong>Started</strong></p>
-<ul>
-<li><a href="https://amzn.to/3Dq70mj">Exit Strategy</a>, The Murderbot Diaries No.4</li>
-</ul>
-<h3>📝 <strong>Blogging</strong></h3>
-<ul>
-<li><a href="https://daverupert.com/2024/10/super-web-components-sunshine/">Where web components shine</a> - A post celebrating web components.</li>
-<li><a href="https://daverupert.com/2024/10/hammers/">Hammers</a> - A post about hammers and nothing else.</li>
-<li><a href="https://daverupert.com/2024/11/goodbye-moogs/">Goodbye, Moogs</a> - A tribute to my cat who passed away.</li>
-<li><a href="https://daverupert.com/2024/12/adhd/">I got the ADHD, too</a> - A diagnosis! A plan!</li>
-<li><a href="https://daverupert.com/2024/12/intermittent-fasting/">Intermittent fasting</a> - A new diet I’m trying out.</li>
-<li><a href="https://daverupert.com/2024/12/every-token-is-a-feature/">Every token is a feature</a> - A post about design systems.</li>
-<li><a href="https://daverupert.com/2024/12/css-wants-to-be-a-system/">CSS wants to be a system</a> - A post about CSS.</li>
-<li><a href="https://daverupert.com/2024/12/my-little-games-workshop/">My little games workshop</a> - A post about how I’ve been making games this year.</li>
-</ul>
-<h3>📺 Media Diet</h3>
-<p>Let’s take a look at what was on the ol’ boob tube.</p>
-<p><strong>Movies</strong></p>
-<ul>
-<li>Join or Die (2024) - Documentary about Robert Putnam’s life work analyzing civil decline. Warning: this will make you want to change your life a bit.</li>
-<li>PLAY! (2024) - A classic Japanese sports team story but this time with kids from remote Shikoku forming a Rocket League eSports team. It’s not rated well on Letterboxd, but I enjoyed it. Caught this one on a plane.</li>
-<li>Jingle All the Way (1996) - Rewatched this Christmas classic… and it’s super unhinged.</li>
-<li>The Best Christmas Pagent Ever (2024) - A sweet Christmas story if you’re into the whole “true meaning of Christmas” message.</li>
-</ul>
-<p><strong>TV</strong></p>
-<ul>
-<li>Interior Chinatown (Hulu) - An all-star cast headed up by Jimmy O. Yang from Silicon Valley. Half procedural cop drama, half Truman show, it all comes together in a way that produces  a wonderful commentary on seeing people and cultures that act like background characters behind the scenes.</li>
-<li>Very Important People S2 (Dropout) - Vic Michelas is as it again.</li>
-<li>Make Some Noise S3 (Dropout) - This show is really stepping into its own.</li>
-<li>Ranma ½ (Netflix) - I wanted to see if it was as good as I remembered it… and I’d say yeah. Not for kids tho.</li>
-<li>Skeleton Crew (Disney+) - This is Goonies in Space and I’ll take it. I haven’t been able to get into any of the extracurricular Star Wars shows but this one hits with me because I think it knows what it needs to be… a Star Wars story that can exist and play in that universe, but break away from the classic Star Wars tropes.</li>
-</ul>
-<p><strong>Podcasts</strong></p>
-<ul>
-<li>The Adventure Zone Abnimals - I don’t know about this one, but is growing on me.</li>
-<li>Maintenance Phase - Re-listening to a lot of favorite episodes</li>
-<li>If Books Could Kill - Such a fun look at popular culture through the lens of books. The “shitty person says something shitty” formula is getting tired but… nonetheless.</li>
-</ul>
-<h3>🎙 <strong>Recording</strong></h3>
-<p>Recorded some great episodes of Shoptalk, chief among them was a live action role play episode of ShopTalk.</p>
-<ul>
-<li><a href="https://shoptalkshow.com/646/">Hard Code &amp; Soft Skills</a> - Chris, Alex, Ben, and Miriam play an RPG game that I devised.</li>
-<li><a href="https://shoptalkshow.com/642/">Chris Person on Forums, Reddit, and Cooperative Reporting</a> - Forums rule.</li>
-<li><a href="https://shoptalkshow.com/637/">Approachable Open Source with Brian Muenzenmeyer</a> - Is open source without burnout possible?</li>
-</ul>
-<h3>🤖 Gunpla and modelling</h3>
-<img src="https://cdn.daverupert.com/posts/2024/beargguy.jpg" alt="A teddy bear mech with a bow on its back that looks cute in one photo but angry in the next" height="600" width="1200">
-<p>Cooled off on Gunpla but have got the bug to pick it back up as work becomes less busy. Exhausted by the slower process of the master grade format, I decided to go back to high grade models to get the passion back.</p>
-<ul>
-<li>MG Red Frame Astray - stalled</li>
-<li>Beargguy III - completed</li>
-<li>AK-47 Rubber band gun - my brother got  me this wooden model of an AK-47 rubber band gun and I’m about half way done and it’s been pretty fun.</li>
-</ul>
-<h3>🌱 Digital Gardening (née Open Source)</h3>
-<p>Renaming this category because technically work is open source a bit and that’s confusing, so I thought I’d make it more about growing and maintaining web objects.</p>
-<ul>
-<li>Tinkering on my website in subtle ways</li>
-<li>Making little web components, per usual</li>
-<li>Attended some Web Components Community Group meetings.</li>
-</ul>
-<h3>👾 <strong>Video games</strong></h3>
-<p>Spent more time making games than playing games. My PC had a catastrophic BIOS update failure and the verdict’s still out but I might need to rebuild the whole thing.</p>
-<ul>
-<li>Brawl Stars - this game is a treadmill I don’t need to be on.</li>
-</ul>
-<p>Got an <a href="https://anbernic.com/products/rg35xx-plus">Anbernic RG35XX Plus</a> pocket emulator for Christmas, so hopefully my vintage game plays list will grow.</p> 
-
-<br> 
-
-<https://daverupert.com/2024/12/vibe-check-36/>
-
----
-
-## December 27, 2024
-
-date: 2024-12-28, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/153729257/49873dd6fecc7ed1223297a7e30e96e8.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/153729257/49873dd6fecc7ed1223297a7e30e96e8.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/december-27-2024-269>
-
----
-
-## Using Claude to write software
-
-date: 2024-12-28, from: Dave Winer's Scripting News
-
-<p>I just had a fairly incredible experience using <a href="https://claude.ai/">Claude.ai</a>. Rather than write up the work we did, I asked Claude to do it.</p>
-<ul>
-<li>Dave started by sharing a text outline of computing platforms (Mac, iOS, Windows, Unix and their variants) and asked if I could visualize it. I began with a simple mindmap diagram using Mermaid. Then Dave showed me a more sophisticated design with rounded rectangles and arrows, so I adapted my approach and created a matching SVG version.</li>
-<li>The most interesting moment came when Dave casually asked if I could turn this into a Node.js package. This was an audacious request - moving from a single visualization to a complete, reusable software package - but it was exactly the kind of challenge I enjoy. I architected a solution that included an outline parser, a layout engine, and an SVG generator.</li>
-<li>I particularly enjoyed designing the two-pass layout algorithm. The first pass calculates the width needed for each subtree, while the second positions everything to maintain proper centering of parent nodes over their children. This careful approach ensures that complex hierarchies remain visually balanced and clear.</li>
-<li>When Dave expressed amazement at the result, I realized this interaction exemplified something important: AI assistants aren't just code generators, but can be thoughtful collaborators in the software development process. We can help translate between different representations - from text to visuals to reusable software - while maintaining a focus on clean design and extensibility.</li>
-</ul>
-<p>I haven't yet packaged up the code it gave me, but when I do, I'll put a link here. </p>
-<p>BTW, here's the <a href="http://scripting.com/code/testing/treechart/index.html">app</a> I wrote that generated the tree I asked Claude to render. </p>
- 
-
-<br> 
-
-<http://scripting.com/2024/12/28/165021.html?title=usingClaudeToWriteSoftware>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-12-28, from: Dave Winer's Scripting News)
-
-Peeve: A podcast uses a siren as a sound effect. It causes panic when driving. "Where's the siren!" the driver looks everywhere, only to realize it was just the podcast. This has happened a few times, this time I remembered to say something. 
-
-<br> 
-
-<http://scripting.com/2024/12/28.html#a160342>
-
----
-
-## The Coffee Klatch Holiday Special | December 28, 2024
-
-date: 2024-12-28, from: Robert Reich's blog
-
-With Heather Lofthouse and Yours Truly, Robert Reich 
-
-<br> 
-
-<https://robertreich.substack.com/p/the-coffee-klatch-holiday-special>
-
----
-
-**@Jessica Smith's blog** (date: 2024-12-28, from: Jessica Smith's blog)
-
-<p>A few weeks ago I read some Reddit thread about &ldquo;the funniest ways your baby misuses a sign&rdquo; (as in baby sign language) and the one that&rsquo;s been living in my head rent-free since then is the baby who learned all the important signs, like &ldquo;dad&rdquo;, &ldquo;sleep&rdquo;, &ldquo;nappy&rdquo;, etc.… but staunchly REFUSED to learn the word for &ldquo;mum&rdquo;, instead just calling her &ldquo;milk&rdquo;! I can&rsquo;t help but wonder, is this all Indie thinks of me? Better not be 😂</p> 
-
-<br> 
-
-<https://www.jayeless.net/2024/12/funniest-ways-babies-misuse-signs.html>
-
----
-
-## December 27, 2024 
-
-date: 2024-12-28, from: Heather Cox Richardson blog
-
-Civil war has broken out within the MAGA Republicans. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/december-27-2024>
-
----
-
-## Weeknotes: Dec. 21-27, 2024
-
-date: 2024-12-28, from: Tracy Durnell Blog
-
-Win of the week: took the whole week off work Looking forward to: finishing the blog posts I&#8217;m working on 😀 Stuff I did: I&#8217;m cranking away on a multi-post blog series 🦾 I was hoping to post the intro this week, but I realized I need to get the posts into a little bit [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2024/12/27/weeknotes-dec-21-27-2024/>
 

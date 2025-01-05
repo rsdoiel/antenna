@@ -1,11 +1,167 @@
 ---
 title: science and technology
-updated: 2025-01-04 07:05:01
+updated: 2025-01-05 07:05:58
 ---
 
 # science and technology
 
-(date: 2025-01-04 07:05:01)
+(date: 2025-01-05 07:05:58)
+
+---
+
+## Why Half-Life 3 speculation is reaching a fever pitch again
+
+date: 2025-01-05, from: OS News
+
+The more than two decades since Half-Life 2&#8216;s release have been filled with plenty of rumors and hints about Half-Life 3, ranging from the official&#8211;ish to the thin to the downright misleading. As we head into 2025, though, we&#8217;re approaching something close to a critical mass of rumors and leaks suggesting that Half-Life 3 is really in the works this time, and could be officially announced in the coming months. ↫ Kyle Orland at Ars Technica We should all be skeptical of anything related to Half-Life 3, but there&#8217;s no denying something&#8217;s buzzing. The one reason why I personally think a Half-Life 3 might be happening is the imminent launch of SteamOS for generic PCs, possibly accompanied by prebuilt SteamOS PCs and consoles and third-party Steam Decks. It makes perfect sense for Valve to have such a launch accompanied by the release of Half-Life 3, similar to how Hlaf-Life 2 was accompanied by the launch of Steam. We&#8217;ll have to wait and see. It will be hard to fulfill all the crazy expectations, though. 
+
+<br> 
+
+<https://www.osnews.com/story/141486/why-half-life-3-speculation-is-reaching-a-fever-pitch-again/>
+
+---
+
+## The real reason that OS/2 flopped went on to shape modern software
+
+date: 2025-01-05, updated: 2025-01-05, from: The Register (UK I.T. News)
+
+<h4>Even Microsoft&#39;s lead architect misunderstood the failure</h4> <p><strong>Opinion</strong>  The resurfacing of a 1995 Usenet post earlier this month prompted <em>The Reg</em> FOSS desk to re-examine a pivotal operating system flop … and its long-term consequences.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/05/os2_flopped_reason/>
+
+---
+
+## Twigstats software sheds light on mysteries of Europe's old-school migrators
+
+date: 2025-01-05, updated: 2025-01-05, from: The Register (UK I.T. News)
+
+<h4>New tool for genetic analysis promises greater insights from the extraction of ancient DNA</h4> <p>Software developed to investigate more detailed differences between ancient DNA data has proved its worth this week after a paper describing human population movements in Europe in the first millennium AD was <a target="_blank" href="https://www.nature.com/articles/s41586-024-08275-2">published in the science journal Nature</a>.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/05/twigstats_genetic_analysis/>
+
+---
+
+## The Golden Gate Bridge Was a Dream That Turned Into a Depression-Era Nightmare for the 11 Men Who Died During Its Construction
+
+date: 2025-01-05, from: Smithsonian Magazine
+
+The building of the iconic "industry orange" landmark began on this day in 1933 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/on-this-day-in-1933-the-lethal-construction-of-the-golden-gate-bridge-began-in-san-francisco-180985773/>
+
+---
+
+## One dog v. the Windows 3.1 graphics stack
+
+date: 2025-01-04, from: OS News
+
+I&#8217;d like to write a full-fledged blog post about these adventures at some point, but for now I&#8217;m going to focus on one particular side quest: getting acceptable video output out of the 1000H when it&#8217;s running Windows 3.11 for Workgroups. By default, Windows 3.x renders using the standard &#8220;lowest common denominator&#8221; of video: VGA 640&#215;480 at 16 colours. Unfortunately this looks awful on the Eee PC&#8217;s beautiful 1024&#215;600 screen, and it&#8217;s not even the same aspect ratio. But how can we do better? ↫ Ash Wolf If you ever wanted to know how display drivers work in Windows 3.x, here&#8217;s your chance. This definitely falls into the category of light reading for the weekend. 
+
+<br> 
+
+<https://www.osnews.com/story/141484/one-dog-v-the-windows-3-1-graphics-stack/>
+
+---
+
+## The Mac OS X dock turns 25
+
+date: 2025-01-04, from: OS News
+
+James Thomson, developer of, originally, DragThing and now PCalc, also happens to be the developer of the very first publicly shown version of the Mac OS dock. Now that it was shown to the world by Steve Jobs exactly 25 years ago, he reminisces about what it was like to create such an iconic piece of software history. The new Finder (codename “Millennium”) was at this point being written on Mac OS 9, because Mac OS X wasn’t exactly firing on all cylinders quite yet. The filesystem wasn’t working well, which is not super helpful when you are trying to write a user interface on top of it. The Dock was part of the Finder then, and could lean on all the high level C++ interfaces for dealing with disks and files that the rest of the team was working on. So, I started on Mac OS 9, working away in Metrowerks Codewarrior. The Finder was a Carbon app, so we could actually make quite a bit of early progress on 9, before the OS was ready for us. I vividly remember the first time we got the code running on Mac OS X. ↫ James Thomson I especially like the story about how Steve Jobs really demanded Thomson live in Cupertino in order to work on the dock, instead of remaining remote in Ireland. Thomson and his wife decided not to move to the United States, so he figured he&#8217;d lose his assignment, or maybe even his job altogether. Instead, his managers told him something along the lines of &#8220;don&#8217;t worry, we&#8217;ll just tell Steve you moved&#8221;. What followed were a lot of back-and-forth flights between Ireland and California, and Thomson&#8217;s colleagues telling Steve all sorts of lies and cover stories for whenever he was in Ireland and Steve noticed. Absolutely wild. The dock is one of those things from my years using Mac OS X &#8211; between roughly 2003 and 2009 or so &#8211; that has stuck around with me ever since. To this day, I have a dock at the bottom of my screen that looks and works eerily similar to the Mac OS X dock, and I doubt that&#8217;s going to change any time soon. It suits my way of using my computer incredibly well, and it&#8217;s the first thing I set up on any new installation I perform (I use Fedora KDE). 
+
+<br> 
+
+<https://www.osnews.com/story/141482/the-mac-os-x-dock-turns-25/>
+
+---
+
+## How datacenters use water and why kicking the habit is nearly impossible
+
+date: 2025-01-04, updated: 2025-01-04, from: The Register (UK I.T. News)
+
+<h4>If they&#39;re not consuming H<sub>2</sub>O directly, the power plant almost certainly is</h4> <p><strong>Feature</strong>  The explosive growth of datacenters that followed ChatGPT&#39;s debut in 2022 has shone a spotlight on the environmental impact of these power-hungry facilities.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/04/how_datacenters_use_water/>
+
+---
+
+## Encryption backdoor debate 'done and dusted,' former White House tech advisor says
+
+date: 2025-01-04, updated: 2025-01-04, from: The Register (UK I.T. News)
+
+<h4>When the FBI urges E2EE, you know it&#39;s serious business</h4> <p><strong>interview</strong>  In the wake of the Salt Typhoon hacks, which lawmakers and privacy advocates alike have called the worst telecoms breach in America&#39;s history, the US government agencies have reversed course on encryption.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/04/encryption_backdoor_debate/>
+
+---
+
+## Solomon Northup's 'Twelve Years a Slave' Came to an End as He Regained His Long-Awaited Freedom on This Day in 1853
+
+date: 2025-01-04, from: Smithsonian Magazine
+
+Northup’s memoir told the story of his kidnapping and years of enslavement in Louisiana. The book became a national best seller and inspired an Oscar-winning film 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/solomon-northups-twelve-years-a-slave-came-to-an-end-as-he-regained-his-long-awaited-freedom-on-this-day-in-1853-180985722/>
+
+---
+
+## Shackleton's Endurance sets sail for polar peril in Lego
+
+date: 2025-01-04, updated: 2025-01-04, from: The Register (UK I.T. News)
+
+<h4>Because we&#39;re all still kids – just richer</h4> <p>The debate as to whether Lego is a toy or not largely depends on your willingness to accept revisiting childhood excitement as an adult, especially when it&#39;s now far more likely to be you footing the bill than your parents.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/04/lego_endurance/>
+
+---
+
+## Atos denies Space Bears' ransomware claims – with a 'but'
+
+date: 2025-01-04, updated: 2025-01-04, from: The Register (UK I.T. News)
+
+<h4>Points finger at third-party infrastructure being breached</h4> <p>French tech giant Atos today denied that Space Bears criminals breached its systems - but noted that third-party infrastructure was compromised by the ransomware crew, and that files accessed by the crooks included &#34;data mentioning the Atos company name.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/04/atos_denies_space_bears_ransomware/>
+
+---
+
+## Honey co-founder's Pie Adblock called out for copying GPL'd uBlock Origin files
+
+date: 2025-01-04, updated: 2025-01-04, from: The Register (UK I.T. News)
+
+<h4>And, magically, a repo appears on GitHub with attribution</h4> <p>Closed-source browser extension Pie Adblock was this week accused of copying code and text from rival uBlock Origin in violation of the latter&#39;s software license – the GNU GPL version 3.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/04/pie_adblock_ublock_origin_code/>
+
+---
+
+## Amazon worker – struck and shot in New Orleans terror attack – initially denied time off
+
+date: 2025-01-04, updated: 2025-01-04, from: The Register (UK I.T. News)
+
+<h4>Web giant now pledges full support</h4> <p>A warehouse worker at an Amazon facility in Mobile, Alabama, who was struck by a truck and shot in the New Orleans New Year&#39;s Day deadly terror attack, was initially denied medical leave by the internet mega-giant, possibly due to an HR mix-up.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/04/amazon_worker_health/>
 
 ---
 
@@ -239,7 +395,7 @@ Goats, rodents and habitat loss threatened the snails on Deserta Grande Island, 
 
 ## How a good business deal made us underestimate BASIC
 
-date: 2025-01-03, updated: 2025-01-03, from: The Register (UK I.T. News)
+date: 2025-01-03, updated: 2025-01-04, from: The Register (UK I.T. News)
 
 <h4>A somewhat savvy hardware move may have hurt street cred of an important language</h4> <p><strong>Feature</strong>  A generation of gray-haired IT folks learned computing using BASIC on 1980s home computers. Every pro since then holds it in disdain. What happened?…</p> 
 
@@ -659,7 +815,7 @@ date: 2025-01-02, updated: 2025-01-02, from: The Register (UK I.T. News)
 
 ## Screwed by the cloud: Hardware vendors looking for that raison d'refresh
 
-date: 2025-01-02, updated: 2025-01-02, from: The Register (UK I.T. News)
+date: 2025-01-02, updated: 2025-01-05, from: The Register (UK I.T. News)
 
 <h4>40% of world&#39;s servers are 6 years +, drink 66% of DC energy, provide 7% of compute. Please refresh, says HPE</h4> <p>Four in ten of the servers currently residing in datacenters across the globe are at least six years old. Meanwhile, not only does this 40 percent slice consume 66 percent of the energy used by all bit barns – they also only provide 7 percent of the world&#39;s total compute.…</p> 
 
@@ -1290,88 +1446,4 @@ The mass murder made sensational news at the time, but getting to the heart of t
 <br> 
 
 <https://www.smithsonianmag.com/smart-news/on-this-day-in-1890-the-us-army-killed-nearly-300-lakota-people-in-the-wounded-knee-massacre-180985745/>
-
----
-
-## IncludeOS: a minimal, resource efficient unikernel for cloud services
-
-date: 2024-12-28, from: OS News
-
-IncludeOS is an includable, minimal unikernel operating system for C++ services running in the cloud and on real HW. Starting a program with #include &#60;os> will literally include a tiny operating system into your service during link-time. ↫ IncludeOS GitHub page IncludeOS isn&#8217;t exactly the only one of its kind, but I&#8217;ve always been slightly mystified by what, exactly, unikernels are for. The gist is, as far as I understand it, that if you build an application using a unikernel, it will find out at compile time exactly what it needs from the operating system to run, and then everything it needs from the operating system to run will be linked inside the resulting application. This can then be booted directly by a hypervisor. The advantages are clear: you don&#8217;t have to deal with an entire operating system just to run that one application or service you need to provide, and footprint is kept to a minimum because only the exact dependencies the application needs from the operating system are linked to it during compilation. The downsides are obvious too &#8211; you&#8217;re not running an operating system so it&#8217;s far less flexible, and if issues are found in the unikernel you&#8217;re going to have to recompile the application and the operating system bits inside of it just to fix it (at least, I think that&#8217;s the case &#8211; don&#8217;t quote me on it). IncludeOS is under heavy development, so take that under advisement if you intend to use it for something serious. The last full release dates back to 2019, but it&#8217;s still under development as indicated by the GitHub activity. I hope it&#8217;ll push out a new release soon. 
-
-<br> 
-
-<https://www.osnews.com/story/141432/includeos-a-minimal-resource-efficient-unikernel-for-cloud-services/>
-
----
-
-## Emulating HP-UX using QEMU
-
-date: 2024-12-28, from: OS News
-
-While we&#8217;re out here raising funds to make me daily-drive HP-UX 11i v1 &#8211; we&#8217;re at 59% of the goal, so I&#8217;m starting to prepare for the pain &#8211; it seems you can actually run older versions, HP-UX 10.20 and 11.00 to be specific, in a virtual machine using QEMU. QEMU is an open source computer emulation and virtualization software, first released in 2003 by Fabrice Bellard. It supports many different computer systems and includes support for many RISC architectures besides x86. PA-RISC emulation has been included in QEMU since 2018. QEMU emulates a complete computer in software without the need for specific virtualization hardware. With QEMU, a full HP Visualize B160L and C3700 workstation can be emulated to run PA-RISC operating systems like HP-UX Unix and compatible applications. ↫ Paul Weissman at OpenPA The emulation is complete enough that it can run X11 and CDE, and you can choose between emulating 32bit PA-RISC of 64bit PA-RISC. Devices and peripherals support is a bit of a mixed bag, with things like USB being only partially supported, and audio not working at all since an audio chip commonly found in PA-RISC workstations isn&#8217;t supported either. A number of SCSCI and networking devices found on HP&#8217;s workstations aren&#8217;t supported either, and a few chipsets don&#8217;t work either. As far as operating system support goes, you can run HP-UX 10.20, HP-UX 11.00, Linux, and NetBSD. Newer (11i v1 and later) and older (9.07 and 9.05) versions of HP-UX don&#8217;t work, and neither does NeXTSTEP 3.3. Some of these issues probably stem from missing QEMU drivers, others from a lack of testing; PA-RISC is, after all, not one of the most popular of the dead UNIX architectures, with things like SPARC and MIPS usually taking most of the spotlight. Absolutely nothing beats running operating systems on the bare metal they&#8217;re designed for, but with PA-RISC hardware becoming ever harder to obtain, it makes sense for emulation efforts to pick up speed so more people can explore HP-UX. I&#8217;m weirdly into HP-UX, despite its reputation as a difficult platform to work with, so I personally really want actual hardware, but for most of you, getting HP-UX 11i to work properly on QEMU is most likely the only way you will ever experience this commercial UNIX. 
-
-<br> 
-
-<https://www.osnews.com/story/141430/emulating-hp-ux-using-qemu/>
-
----
-
-## A systemd-sysupdate plugin for GNOME Software
-
-date: 2024-12-28, from: OS News
-
-In late June 2024 I got asked to take over the work started by&#160;Jerry Wu&#160;creating a&#160;systemd-sysupdate&#160;plugin for&#160;Software. The goal was to allow Software to update sysupdate targets, such as base system images or&#160;system extension images, all while respecting the user’s preferences such as whether to download updates on metered connections. To do so, the plugin communicates with the&#160;systemd-sysupdated&#160;daemon via its&#160;org.freedesktop.sysupdate1&#160;D-Bus interface. I didn’t know many of the things required to complete this project and it’s been a lot to chew in one bite for me, hence how long it took to complete. ↫ Adrien Plazas This new plugin was one of the final pieces of moving GNOME OS &#8211; which we talked about before &#8211; from OSTree to sysupdate, which in turn is part of GNOME OS&#8217; effort to have a fully trusted boot sequence. While I&#8217;m not sure GNOME OS is something that will find a lot of uptake among the kind of people that read OSNews, I think it&#8217;s a hugely important effort to create a no-nonsense, easy-to-use Linux system for normal people to embrace. The Steam Deck employs similar implementations, and it&#8217;s easy to see why. 
-
-<br> 
-
-<https://www.osnews.com/story/141427/a-systemd-sysupdate-plugin-for-gnome-software/>
-
----
-
-## The Tasmania LAN party photos archive reminded me of my terrible teenage fashion choices
-
-date: 2024-12-28, from: OS News
-
-I&#8217;ve never been to a LAN party, not even back in the &#8217;90s and early 2000s when they were quite the common occurance. Both my family and various friends did have multiple computers in the house, so I do have fond memories of hooking up computers through null modem cables to play Rise of the Triad, later superseded by direct Ethernet connections to play newer games. LAN parties have left lasting impressions on those that regularly attended them, but since most took place before the era of ever-present digital camera and smartphones, photos of such events are rarer than they should be. Luckily, Australian software engineer Issung did a lot of digging and eventually struck gold: a massive collection of photos and a few videos from LAN parties that took place from 1996 and 2010 in Australia. After trying a few other timestamps and a few more web searches I sadly couldn’t find anything. As a last ditch effort I made a few posts on various forums, including the long dormant Dark-Media Steam group, then I forgot about it all, until 2 months ago! Someone reached out and was able to get me into a small private Facebook group, once in I could see I had gotten more than I bargained for! I was just looking for Dark-Media photos, but found another regular LAN I had forgotten about, and photos from even more LANs from the late 90s. I was able to scrape all the photos and now upload them to&#160;archive.org&#160;where they can hopefully live forever. ↫ Issung I love browsing through these, as they bring back so many memories of the computers and dubious fashion choices of my teenage years &#8211; I used to combine different colours zip-off pants, and even had mohawks, spikes, and god knows what else before I started losing all my hair in my very early 20s. Anyway, the biggest change is the arrival of flat displays signalling the end of the widespread use of CRTs, and the slow dissappearence of beige in favour of black. Such a joy to see the trends change in these photos. If anyone else is sitting on treasure troves like these, be sure to share them with the world before it&#8217;s too late. 
-
-<br> 
-
-<https://www.osnews.com/story/141425/the-tasmania-lan-party-photos-archive-reminded-me-of-my-terrible-teenage-fashion-choices/>
-
----
-
-## How cops taking down LockBit, ALPHV led to RansomHub's meteoric rise
-
-date: 2024-12-28, updated: 2024-12-28, from: The Register (UK I.T. News)
-
-<h4>Cut off one head, two more grow back in its place</h4> <p>RansomHub, the ransomware collective that emerged earlier this year, quickly gained momentum, outpacing its criminal colleagues and hitting its victims especially hard. The group named and shamed hundreds of organizations on its leak site, while demanding exorbitant payments across various industries.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2024/12/28/lockbit_alphv_disruptions_ransomhub_rise/>
-
----
-
-## Discover the Story Behind a Legendary Exposé of the Brutality of the Soviet Union
-
-date: 2024-12-28, from: Smithsonian Magazine
-
-Published on this day in 1973, "The Gulag Archipelago" drew on Russian writer Aleksandr Solzhenitsyn's experiences as a political dissident in a prison camp, but it left him deported and stateless for the next two decades 
-
-<br> 
-
-<https://www.smithsonianmag.com/smart-news/discover-the-story-behind-a-legendary-expose-of-the-brutality-of-the-soviet-union-180985658/>
-
----
-
-## Christmas 1984: The last hurrah for 8-bit home computers
-
-date: 2024-12-28, updated: 2024-12-28, from: The Register (UK I.T. News)
-
-<h4>Saturation point, and Nintendo and Sega, were just around the corner</h4> <p><strong>Feature</strong>  Remember the excitement of leafing through a catalog for home computer bargains? Or perhaps gazing longingly at festive tech displays in Britain&#39;s WH Smith (or ComputerLand if you lived Stateside)? Take a step back to 1984 and the last great hurrah of the home computer.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2024/12/28/christmas_1984_home_computers/>
 

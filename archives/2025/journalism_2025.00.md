@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2025-01-04 07:05:02
+updated: 2025-01-05 07:06:00
 ---
 
 # journalism
 
-(date: 2025-01-04 07:05:02)
+(date: 2025-01-05 07:06:00)
+
+---
+
+## Hannah Bahng Performs Sold-Out Concert at The Echo: Delivering the “Worst Night of Your Life”
+
+date: 2025-01-05, from: The Sundail (CSUN Student Newspaper)
+
+Hannah Bahng, the indie singer-songwriter behind the emotional and haunting ‘Abysmal’ album, wrapped up her first sold-out “The Abysmal Tour” on Monday, Dec. 16, bringing her “Worst Night of Your... 
+
+<br> 
+
+<https://sundial.csun.edu/188517/arts-entertainment/hannah-bahng-performs-sold-out-concert-at-the-echo-delivering-the-worst-night-of-your-life/>
 
 ---
 

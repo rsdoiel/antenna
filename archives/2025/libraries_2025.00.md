@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2025-01-04 07:05:03
+updated: 2025-01-05 07:06:00
 ---
 
 # libraries
 
-(date: 2025-01-04 07:05:03)
+(date: 2025-01-05 07:06:00)
+
+---
+
+## Trace metal evolution of the Late Cretaceous Ocean
+
+date: 2025-01-05, from: ETH Zurich, recently added
+
+Sun, Mingzhao; Archer, Corey; Scholz, Florian; Sweere, Tim; Vance, Derek 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/705683>
 
 ---
 
@@ -295,16 +307,4 @@ Fulton, Ellen J.; Ni, Ying-Chuan; Kouvelas, Anastasios
 <br> 
 
 <http://hdl.handle.net/20.500.11850/713487>
-
----
-
-## Producing New India: Periodising India's Infrastructure-led Extended Urbanisation
-
-date: 2024-12-28, from: ETH Zurich, recently added
-
-Bathla, Nitin 
-
-<br> 
-
-<http://hdl.handle.net/20.500.11850/713410>
 

@@ -1,11 +1,133 @@
 ---
 title: socal north
-updated: 2025-01-04 07:05:00
+updated: 2025-01-05 07:05:57
 ---
 
 # socal north
 
-(date: 2025-01-04 07:05:00)
+(date: 2025-01-05 07:05:57)
+
+---
+
+## The Golden Globes are Sunday night. Here's five things to look for
+
+date: 2025-01-05, updated: 2025-01-05, from: The LAist
+
+After a rocky few years and the disbanding of the Hollywood Foreign Press Association, the Golden Globes have seemingly stabilized. This time, comedian Nikki Glaser will be emceeing the ceremony. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/the-golden-globes-are-sunday-night-heres-five-things-to-look-for>
+
+---
+
+## Free Little Art Galleries brings inspirations, whimsy and community to your block. How to start yours
+
+date: 2025-01-05, updated: 2025-01-05, from: The LAist
+
+You can display and find free art to take home in your own community, and create an experience for your neighbors. LAist's Brian de los Santos shows you how to make your own free little museums. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/free-little-art-galleries-how-to-guide>
+
+---
+
+## Film director and screenwriter Jeff Baena, husband of Aubrey Plaza, dead at 47
+
+date: 2025-01-04, updated: 2025-01-05, from: The LAist
+
+The co-writer of I Heart Huckabees and director of The Little Hours was found dead at a Los Angeles residence on Friday. The Los Angeles Police Department is investigating the case. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/film-director-and-screenwriter-jeff-baena-husband-of-aubrey-plaza-dead-at-47>
+
+---
+
+## New Year, New Community Center!
+
+date: 2025-01-04, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Did you know that the City of Santa Clarita now has three community centers? Located at Valencia Summit Park in the former YMCA building, the 12,000-square-foot Valencia Community Center is officially open for residents to visit. Just last month, the Santa Clarita City Council was joined by the community to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/04/new-year-new-community-center/">New Year, New Community Center!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/04/new-year-new-community-center/>
+
+---
+
+## Britt Allcroft, who brought Thomas the Tank Engine to television, dies at 81
+
+date: 2025-01-04, updated: 2025-01-05, from: The LAist
+
+The beloved blue locomotive was first imagined in the 1940s — he starred in stories Rev. Wilbert Awdry told his son. Allcroft adapted Awdry's The Railway Series into Thomas the Tank Engine & Friends. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/britt-allcroft-who-brought-thomas-the-tank-engine-to-television-dies-at-81>
+
+---
+
+## Your own private Rose Parade. Here's the details — for next year
+
+date: 2025-01-04, updated: 2025-01-05, from: The LAist
+
+LAist's very own Julia Paskin is sharing one of living in the San Gabriel Valley's best-kept secrets — the yearly opportunity to see the parade at night. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/your-own-private-rose-parade-heres-the-details-for-next-year>
+
+---
+
+## The fair-weather fan guide to Roki Sasaki, the Dodgers’ latest pursuit
+
+date: 2025-01-04, updated: 2025-01-04, from: The LAist
+
+What to know about the Japanese pitcher who’s ready to sign with a Major League Baseball team this season. 
+
+<br> 
+
+<https://laist.com/news/fan-guide-to-roki-sasaki-dodgers-latest-pursuit>
+
+---
+
+## Go Fact Yourself quiz for January 4
+
+date: 2025-01-04, updated: 2025-01-04, from: The LAist
+
+Our celebrity panelists Ann-Margret and Antonio Villaraigosa go head to head this week on their knowledge of the Raiders football team from the 1980s to the present and L.A. area restaurants. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-january-4>
+
+---
+
+## DA Hochman meets with Menendez family, says he has not decided whether to recommend brothers' release from prison
+
+date: 2025-01-04, updated: 2025-01-05, from: The LAist
+
+Hochman described the meeting with the family as "productive" but noted his staff is still reviewing documents related to the high-profile murder case. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/da-hochman-meets-with-menendez-family-says-he-has-not-decided-whether-to-recommend-brothers-release-from-prison>
+
+---
+
+## DA Hochman meets with Menendez family, says he has not decided whether to recommend brothers' release from prison
+
+date: 2025-01-04, updated: 2025-01-04, from: The LAist
+
+Hochman described the meeting with the family as "productive" but noted his staff is still reviewing documents related to the high-profile murder case. 
+
+<br> 
+
+<https://laist.com/news/da-hochman-meets-with-menendez-family-says-he-has-not-decided-whether-to-recommend-brothers-release-from-prison>
 
 ---
 
@@ -344,7 +466,7 @@ date: 2025-01-02, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-01-02, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?w=2468&amp;ssl=1 2468w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=1536%2C1153&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=2048%2C1537&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=1568%2C1177&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=2000%2C1501&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?w=2468&amp;ssl=1 2468w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=1536%2C1153&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=2048%2C1537&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=1568%2C1177&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=2000%2C1501&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Sacramento_capitol_23024886910_elsol.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Desde la inteligencia artificial hasta los derechos de los inquilinos, la Legislatura de California aprobó alrededor de 1,000 nuevos proyectos de ley que entrarán en vigor en el nuevo año. [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/01/01/mas-nuevas-leyes-de-california-que-entraranen-vigor-en-2025/">Más Nuevas Leyes de California que Entraránen Vigor en 2025</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -359,7 +481,7 @@ date: 2025-01-02, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-01-02, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="537" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?fit=1024%2C537&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?w=1750&amp;ssl=1 1750w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?resize=300%2C157&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?resize=1024%2C537&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?resize=768%2C402&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?resize=1536%2C805&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?resize=1200%2C629&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?resize=1568%2C822&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?resize=400%2C210&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?resize=706%2C370&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?fit=1024%2C537&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="537" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?fit=1024%2C537&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?w=1750&amp;ssl=1 1750w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?resize=300%2C157&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?resize=1024%2C537&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?resize=768%2C402&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?resize=1536%2C805&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?resize=1200%2C629&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?resize=1568%2C822&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?resize=400%2C210&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?resize=706%2C370&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/UCravebreakin_reuse_elsol.jpg?fit=1024%2C537&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Con la aprobación por parte de los votantes de la Proposición 36 el pasado noviembre, que reclasifica algunos delitos menores de robo y delitos de drogas como delitos graves, los [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/01/01/el-robo-en-comercios-se-enfrentara-a-penas-mas-severas/">El Robo en Comercios se Enfrentará a Penas Más Severas</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -374,7 +496,7 @@ date: 2025-01-02, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-01-02, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="734" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?fit=1024%2C734&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=300%2C215&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=1024%2C734&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=768%2C550&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=1536%2C1101&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=2048%2C1468&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=1200%2C860&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=1568%2C1124&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=2000%2C1433&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=400%2C287&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=706%2C506&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?fit=1024%2C734&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="734" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?fit=1024%2C734&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=300%2C215&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=1024%2C734&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=768%2C550&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=1536%2C1101&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=2048%2C1468&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=1200%2C860&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=1568%2C1124&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=2000%2C1433&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=400%2C287&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?resize=706%2C506&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24353640864541-scaled.jpg?fit=1024%2C734&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Por David A. LiebAssociated Press Inteligencia artificial. Aborto. Salarios mínimos. Nombra un tema candente, y es muy probable que haya una nueva ley al respecto que entre en vigor en [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/01/01/las-nuevas-leyes-de-2025-abordan-temas-candentes-desde-la-ia-en-las-peliculas-hasta-los-limites-de-las-redes-sociales/">Las Nuevas Leyes de 2025 Abordan Temas Candentes, desde la IA en las Películas hasta los Límites de las Redes Sociales</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -417,7 +539,7 @@ date: 2025-01-02, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-01-02, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/thumbnail_IMG_6972.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Con las resoluciones de protección de inquilinos y las extensiones posteriores que se implementaron localmente durante la pandemia de COVID-19 expiradas, junto con los californianos que votaron en contra del [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/01/01/las-organizaciones-de-derechos-de-los-inquilinos-se-preparan-para-el-aumento-de-los-desalojos-que-se-espera-para-2025/">Las Organizaciones de Derechos de los Inquilinos se Preparan para el Aumento de los Desalojos que se Espera para 2025</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -432,7 +554,7 @@ date: 2025-01-02, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-01-02, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/12302024_Carter_SN_01-scaled-e1735787822429.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/12302024_Carter_SN_01-scaled-e1735787822429.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/12302024_Carter_SN_01-scaled-e1735787822429.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/12302024_Carter_SN_01-scaled-e1735787822429.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/12302024_Carter_SN_01-scaled-e1735787822429.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/12302024_Carter_SN_01-scaled-e1735787822429.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/12302024_Carter_SN_01-scaled-e1735787822429.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/12302024_Carter_SN_01-scaled-e1735787822429.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/12302024_Carter_SN_01-scaled-e1735787822429.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/12302024_Carter_SN_01-scaled-e1735787822429.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Líderes mundiales, nacionales, estatales y locales han emitido declaraciones y condolencias tras el fallecimiento del ex presidente Jimmy Carter el domingo 29 de diciembre. Pero, para todos los estudiantes y [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/01/01/la-escuela-st-genevieve-en-panorama-city-tenia-un-vinculo-unico-con-jimmy-y-rosalynn-carter/">La Escuela St. Genevieve en Panorama City tenía un Vínculo Único con Jimmy y Rosalynn Carter</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -857,54 +979,4 @@ Local scuba divers work to clean up “ghost nets.”
 <br> 
 
 <https://laist.com/news/climate-environment/volunteers-ocean-underwater-menace-ghost-net>
-
----
-
-## Fresh Ideas for Staying Active in the New Year
-
-date: 2024-12-28, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin With the new year beginning, it’s a great time to create personal goals, and embrace a fresh start that encourages health and happiness. Whether you want to get active, enjoy more time outside or explore new activities, our City provides countless recreational options to support your goals. Santa Clarita is [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2024/12/28/fresh-ideas-for-staying-active-in-the-new-year/">Fresh Ideas for Staying Active in the New Year</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2024/12/28/fresh-ideas-for-staying-active-in-the-new-year/>
-
----
-
-## Winning ticket for $1.22 billion lottery jackpot sold in California, Mega Millions says
-
-date: 2024-12-28, updated: 2024-12-28, from: The LAist
-
-After three months without anyone winning the top prize in the lottery, a ticket worth an estimated $1.22 billion was sold in California for the drawing Friday night. 
-
-<br> 
-
-<https://laist.com/news/winning-ticket-for-1-22-billion-lottery-jackpot-sold-in-california-mega-millions-says>
-
----
-
-## Trump allies warn California leaders, including LA Mayor Karen Bass, that they could go to prison over sanctuary city laws
-
-date: 2024-12-28, updated: 2024-12-29, from: The LAist
-
-A conservative organization led by Trump adviser Stephen Miller sent letters to California leaders warning of ‘serious consequences’ over sanctuary policies that protect undocumented residents. 
-
-<br> 
-
-<https://laist.com/news/trump-allies-warn-california-leaders-they-could-go-to-prison-over-sanctuary-city-laws>
-
----
-
-## He built a massive train set in his Altadena backyard. Tonight's your last chance to see it
-
-date: 2024-12-28, updated: 2025-01-04, from: The LAist
-
-Rob Caves and members of the Christmas Tree Lane Model Railroad Society have built a gigantic model train set that is ever expanding in his backyard. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/altadena-christmas-tree-lane-model-train-set>
 

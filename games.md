@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2025-01-04 07:05:02
+updated: 2025-01-05 07:06:00
 ---
 
 # games
 
-(date: 2025-01-04 07:05:02)
+(date: 2025-01-05 07:06:00)
+
+---
+
+## Get this MTG collection on eBay for just… 2.2 million dollars
+
+date: 2025-01-05, updated: 2025-01-03, from: Polygon Website
+
+“This is not a joke,” reads the first sentence of the listing’s description. Early in the morning on New Year’s Day, eBay user thelotusvale listed what looks like one of the most impressive collections of Magic: The Gathering cards ever hosted on the online auction site. “What I&#8217;m offering is a set of first edition [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/504072/mtg-collection-ebay-2-million-dollars>
+
+---
+
+## Checking in on 2024’s many primate pictures, from Monkey Man to Better Man
+
+date: 2025-01-05, updated: 2025-01-03, from: Polygon Website
+
+2024 had a lot of great movies of all stripes: Sci-fi! Action! Comedy! Animation! Thrillers! But there was one micro-genre that had a particularly noteworthy year: the primate picture. At least five movies about primates or with a primate in the title made it to theaters in 2024, and quite honestly most of them were [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/recommendations/503880/2024-primate-movie-ranking-important-journalism-better-man-monkey-man>
+
+---
+
+## Pokémon Go Sprigatito Community Day guide
+
+date: 2025-01-05, updated: 2025-01-03, from: Polygon Website
+
+Pokémon Go is having a Sprigatito Community Day event on Jan. 5 from 2-5 p.m. in your local time. As expected with a Community Day event, Sprigatito will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve listed out below. How [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/503810/sprigatito-community-day-event-shiny-moveset-floragato-meowscarada>
+
+---
+
+## Quick, watch one of the best sci-fi TV seasons ever while Apple TV Plus is free
+
+date: 2025-01-04, updated: 2025-01-03, from: Polygon Website
+
+Apple TV Plus is free the weekend of January 3rd and 4th and, like a lot of people, I have a suggestion for what you should watch. Most of the suggestions are probably fantastic and worthwhile, as Apple has thrown their trillion dollar weight around the streaming wars and assembled a shockingly good catalogue of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sci-fi/503030/best-sci-fi-tv-foundation-season-2-apple-tv-plus-watch-stream>
+
+---
+
+## GTA Online role-play server launches new phase with wild custom options
+
+date: 2025-01-04, updated: 2025-01-03, from: Polygon Website
+
+While fans eagerly anticipate Grand Theft Auto 6, players are still getting plenty of mileage out of the game’s predecessor. Rockstar is continuing to provide official updates for GTA Online, and players are building their own role-play servers set in San Andreas. These servers’ players build their own cultures, implementing homebrewed mechanics and new ways [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/504002/gta-online-purplerp-1-0-update>
+
+---
+
+## The best movies new to streaming this January
+
+date: 2025-01-04, updated: 2025-01-03, from: Polygon Website
+
+Happy New Year, Polygon readers! 2024 is dead and gone; long live 2025, or at least for the next… *glares at calendar* 361 days. The year is starting off strong with a ton of highly anticipated theatrical releases, including Steven Soderbergh’s Presence, Leigh Whannell’s Wolf Man, and Den of Thieves 2: Pantera. If you’re looking [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/502692/best-new-movies-netflix-amazon-prime-max-hulu-january-2025>
+
+---
+
+## Pokémon Go ‘Fidough Fetch’ event guide
+
+date: 2025-01-04, updated: 2025-01-04, from: Polygon Website
+
+Pokémon Go is having a global challenge event themed around dog-like Pokémon, called “Fidough Fetch.” Rather than running in your local time, the event will take place at a global time. The event starts on Jan. 3 at 6 p.m. EST and ends on Jan. 8 at 1 a.m. EST. The meat of this event [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/503798/fidough-fetch-global-challenge-rewards-field-research>
 
 ---
 
@@ -546,40 +630,4 @@ When it comes to good YouTube videos, I’m biased in favor of content made expl
 <br> 
 
 <https://www.polygon.com/yuletide-youtube/478707/outside-in-youtube-video-sphere-inversion>
-
----
-
-## These charming mini movies will teach you about the people who live in the coldest town on Earth
-
-date: 2024-12-28, updated: 2024-12-22, from: Polygon Website
-
-Kiun B’s YouTube videos are mini documentaries about her life and the lives of the 800 people who live in her hometown of Yakutia, Siberia, aka the coldest town on Earth. The creator, who narrates the videos, says she and her community are native to the region. The enchanting mini docs showcase their customs, culture, [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/yuletide-youtube/486698/coldest-town-earth-yakutia-siberia-mini-docs-watch-streaming>
-
----
-
-## Dreams on a Pillow, a game about the 1948 Nakba, is the latest from a daring dev
-
-date: 2024-12-28, updated: 2024-12-29, from: Polygon Website
-
-Dreams on a Pillow is a video game experience about the 1948 Nakba, an event where roughly 700,000 people were displaced from their land and homes due to Zionist occupation. The game, described as “a pseudo-3D stealth adventure game about a land full of people being made into a people without land,” is from Palestinian [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/500737/dreams-on-a-pillow-crowdfund-palestine-game>
-
----
-
-## The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of December 2024
-
-date: 2024-12-28, updated: 2024-12-27, from: Polygon Website
-
-The end of the year is nearly upon us, and while that means all kinds of things, one thing that might get lost is how many streaming services are cleaning out their catalogs for 2025. Of course, there will be plenty of movies added to platforms like Netflix, Prime Video, and Criterion Channel next year, [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/501409/best-movies-netflix-amazon-criterion-leaving-december-2024>
 

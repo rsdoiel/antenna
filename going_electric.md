@@ -1,11 +1,123 @@
 ---
 title: going electric
-updated: 2025-01-04 07:05:04
+updated: 2025-01-05 07:06:02
 ---
 
 # going electric
 
-(date: 2025-01-04 07:05:04)
+(date: 2025-01-05 07:06:02)
+
+---
+
+## ‘Not safe or legal’ – Cops continue crackdown on Sur Ron style electric bikes
+
+date: 2025-01-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/07/sur-ron-header-police.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>As powerful electric motorbikes such as those from brands like Sur Ron and Talaria become more popular, <a href="https://electrek.co/2024/08/29/why-are-sur-ron-style-electric-motorbikes-so-dang-popular-with-teens-today/">especially with teens</a>, police departments in the US are increasingly cracking down on their use on public roads.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,electric-motorcycle,police,talaria" data-layer-viewtype="unknown" data-post-id="396376" href="https://electrek.co/2025/01/05/not-safe-or-legal-cops-continue-crackdown-on-sur-ron-style-electric-bikes/#more-396376" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/05/not-safe-or-legal-cops-continue-crackdown-on-sur-ron-style-electric-bikes/>
+
+---
+
+## With glowing reviews, RIZON could soon be the #1 truck in the #2 business
+
+date: 2025-01-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Diamond-Environmental-Services-Rizon-1-1400-copy.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Portable bathroom company Diamond Environmental showcased its new, all-electric RIZON medium duty commercial truck at a San Marcos, California mobility event last month – and the verdict is in: these electric trucks don’t stink!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,daimler-trucks,electric-trucks" data-layer-viewtype="unknown" data-post-id="396356" href="https://electrek.co/2025/01/04/with-glowing-reviews-rizon-could-soon-be-the-1-truck-in-the-2-business/#more-396356" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/04/with-glowing-reviews-rizon-could-soon-be-the-1-truck-in-the-2-business/>
+
+---
+
+## Farmrobo iMog hopes to bring autonomous tractor to hobby farms
+
+date: 2025-01-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/3-Farmrobo-iMog_MAIN.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Developed by Indian company Farmrobo Technologies, the iMog is a fully autonomous, multipurpose electric farm tractor designed to be a cost-effective solution to support small-scale farming operations and hobby farms.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous,electric-tractors,farming" data-layer-viewtype="unknown" data-post-id="396338" href="https://electrek.co/2025/01/04/farmrobo-imog-hopes-to-bring-autonomous-tractor-to-hobby-farms/#more-396338" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/04/farmrobo-imog-hopes-to-bring-autonomous-tractor-to-hobby-farms/>
+
+---
+
+## The Ford Mustang Mach-E Handily Outsold The Gas Mustang In 2024
+
+date: 2025-01-04, from: Inside EVs News
+
+They said it couldn't be done, but the electric crossover Mustang is now the best-selling Mustang, period. 
+
+<br> 
+
+<https://insideevs.com/news/746229/mustang-mach-e-sales-2024/>
+
+---
+
+## The Volkswagen ID.4 Is Back On Sale
+
+date: 2025-01-04, from: Inside EVs News
+
+Volkswagen's electric crossover is back after fixing a defective door handle issue, and "highly competitive lease offers" are coming. 
+
+<br> 
+
+<https://insideevs.com/news/746228/vw-id4-stop-sale-ends/>
+
+---
+
+## Strong Performance In China Defied Tesla’s 2024 Global Sales Downturn
+
+date: 2025-01-04, from: Inside EVs News
+
+Even though Tesla sales in China, its second-largest market, were up in 2024, it wasn’t enough to make up for sliding sales elsewhere. 
+
+<br> 
+
+<https://insideevs.com/news/746181/tesla-china-sales-increased-2024/>
+
+---
+
+## The Toyota Previa Minivan May Return As A Plug-In
+
+date: 2025-01-04, from: Inside EVs News
+
+The Previa was a 1990s family hauler known more for its distinctive egg-shaped design than its popularity among minivan buyers. 
+
+<br> 
+
+<https://insideevs.com/news/746152/toyota-previa-returning-plug-in/>
+
+---
+
+## Awesomely Weird Alibaba EV of the Week: A $7,000 armored golf cart?
+
+date: 2025-01-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Alibaba-Patrol-Car-3-lg.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>What would you get if you created the illegitimate love child of a Mercedes G-Wagon and a Brinks armored truck (and perhaps if the Mercedes chain-smoked through the pregnancy)? I think you’d wind up with something like the wacky-looking electric cart that has earned the dubious honor of being named this week’s <a href="http://electrek.co/guides/alibaba">Awesomely Weird Alibaba Electric Vehicle of the Week</a>! </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="alibaba" data-layer-viewtype="unknown" data-post-id="396318" href="https://electrek.co/2025/01/04/awesomely-weird-alibaba-ev-of-the-week-a-7000-armored-golf-cart/#more-396318" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/04/awesomely-weird-alibaba-ev-of-the-week-a-7000-armored-golf-cart/>
 
 ---
 
@@ -46,6 +158,10 @@ date: 2025-01-03, from: Electrek Feed
 date: 2025-01-03, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla’s delivery results, Cybertruck sales being disastrous, Rivian surprises, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Electrek_367.mp3"></audio></figure>
 
 
 
@@ -1298,48 +1414,4 @@ Chinese automaker Xpeng's Land Aircraft Carrier will make an appearance at CES 2
 <br> 
 
 <https://insideevs.com/news/745604/xpeng-flying-car-ces-2025/>
-
----
-
-## First autonomous electric loaders in North America get to work
-
-date: 2024-12-28, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/sandvik_main.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Swedish multinational Sandvik says it’s successfully deployed a pair of fully autonomous Toro LH518iB battery-electric underground loaders at the New Gold Inc. (<a href="https://www.google.com/search?q=%24NGD&amp;oq=%24NGD&amp;gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg70gEIMTAxOWowajeoAgCwAgA&amp;sourceid=chrome&amp;ie=UTF-8">$NGD</a>) New Afton mine in British Columbia, Canada.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-heavy-machinery,mining" data-layer-viewtype="unknown" data-post-id="395492" href="https://electrek.co/2024/12/28/first-autonomous-electric-loaders-in-north-america-get-to-work/#more-395492" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2024/12/28/first-autonomous-electric-loaders-in-north-america-get-to-work/>
-
----
-
-## Contargo logistics adds 20 Mercedes eActros 600 electric semis to fleet
-
-date: 2024-12-28, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/contargo_eActros.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>European logistics firm Contargo is adding twenty of Mercedes’ new, 500 km-capable eActros battery electric semi trucks to its trimodal delivery fleet, bringing zero-emission shipping to Germany’s <a href="https://www.merriam-webster.com/dictionary/hinterland">hinterland</a>.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-trucks,mercedes-benz" data-layer-viewtype="unknown" data-post-id="395474" href="https://electrek.co/2024/12/28/contargo-logistics-adds-20-mercedes-eactros-600-electric-semis-to-fleet/#more-395474" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2024/12/28/contargo-logistics-adds-20-mercedes-eactros-600-electric-semis-to-fleet/>
-
----
-
-## Tesla Has Portable Supercharger Stations That Can Go Online Lightning Quick
-
-date: 2024-12-28, from: Inside EVs News
-
-Tesla is deploying a handful of these MegapackChargers during the holiday season. 
-
-<br> 
-
-<https://insideevs.com/news/745583/tesla-portable-supercharger-station-megapackcharger/>
 

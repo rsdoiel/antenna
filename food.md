@@ -1,11 +1,27 @@
 ---
 title: food
-updated: 2025-01-04 07:05:04
+updated: 2025-01-05 07:06:02
 ---
 
 # food
 
-(date: 2025-01-04 07:05:04)
+(date: 2025-01-05 07:06:02)
+
+---
+
+## Low-carb Recipes
+
+date: 2025-01-05, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/01/Low-carb-Recipes.jpg"/></div>
+<p>The best low-carb recipes on Closet Cooking! Everything from, light and healthy to quick and easy with breakfasts, snacks, dinners, sides, etc. Due to popular demand I have made it easier to find all of the low-carb recipes on Closet Cooking! I went through all of my recipes and labeled/tagged the low carb ones so...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/low-carb-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/low-carb-recipes/">Low-carb Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/low-carb-recipes/>
 
 ---
 
@@ -548,20 +564,4 @@ date: 2024-12-29, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/25-amazing-appetizers-for-new-years-eve/>
-
----
-
-## Crescent Roll Breakfast Casserole
-
-date: 2024-12-28, from: Isebel Eats
-
-
-	<div>
-	<a href="https://www.isabeleats.com/tex-mex-sausage-breakfast-casserole/"><img title="crescent-roll-breakfast-casserole-small-5" src="https://www.isabeleats.com/wp-content/uploads/2024/12/crescent-roll-breakfast-casserole-small-5-400x600.jpg" alt="A crescent roll breakfast casserole in a baking dish ready to be served." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
-	</div>
-	This easy crescent roll breakfast casserole is loaded with peppers, onions, taco seasoning, and cheese and uses store-bought refrigerated crescent roll dough to keep things quick and simple. Ready from start to finish in 45 minutes! Breakfast casseroles are a lifesaver for busy mornings, and this crescent roll version is one of my favorites. It’s [&#8230;] 
-
-<br> 
-
-<https://www.isabeleats.com/tex-mex-sausage-breakfast-casserole/>
 

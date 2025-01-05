@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-01-04 07:05:04
+updated: 2025-01-05 07:06:02
 ---
 
 # craft
 
-(date: 2025-01-04 07:05:04)
+(date: 2025-01-05 07:06:02)
+
+---
+
+## The Archivist’s Tool Chest: Thinking Inside the Box
+
+date: 2025-01-05, from: Lost Arg Press blog
+
+The below was written by our good friend Mattias Hallin, who lives in Belgium (though he would, I think, want me to let you know he is Swedish). You might recall that he is our non-resident expert in linseed oil paint, from this 2024 post (and he wrote for us about overseas ordering, for those... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/01/05/the-archivists-tool-chest-thinking-inside-the-box/>
 
 ---
 
