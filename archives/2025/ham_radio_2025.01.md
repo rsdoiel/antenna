@@ -1,11 +1,39 @@
 ---
 title: ham radio
-updated: 2025-01-06 07:05:25
+updated: 2025-01-07 07:04:02
 ---
 
 # ham radio
 
-(date: 2025-01-06 07:05:25)
+(date: 2025-01-07 07:04:02)
+
+---
+
+## A brief history and technical background of heat shrink tubing
+
+date: 2025-01-07, from: EDN Blog
+
+<img width="619" height="422" src="https://www.edn.com/wp-content/uploads/Fig-6-color-coding.png?fit=619%2C422" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-6-color-coding.png?w=619 619w, https://www.edn.com/wp-content/uploads/Fig-6-color-coding.png?w=300 300w" sizes="(max-width: 619px) 100vw, 619px" /><p>Heat shrink tubing is used for covering and protecting wire splices, of course, but also much more.</p>
+<p>The post <a href="https://www.edn.com/a-brief-history-and-technical-background-of-heat-shrink-tubing/" data-wpel-link="internal">A brief history and technical background of heat shrink tubing</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/a-brief-history-and-technical-background-of-heat-shrink-tubing/>
+
+---
+
+## CES 2025: Moving toward software-defined vehicles
+
+date: 2025-01-06, from: EDN Blog
+
+<img width="2440" height="720" src="https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?fit=2440%2C720" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=2440 2440w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=300 300w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=768 768w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=1900 1900w" sizes="(max-width: 2440px) 100vw, 2440px" /><p>TI’s automotive SoC releases for CES 2025 this year: a radar sensor for passenger safety, new audio processor solutions, and more.</p>
+<p>The post <a href="https://www.edn.com/ces-2025-moving-towards-software-defined-vehicles/" data-wpel-link="internal">CES 2025: Moving toward software-defined vehicles</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/ces-2025-moving-towards-software-defined-vehicles/>
 
 ---
 
@@ -13,7 +41,7 @@ updated: 2025-01-06 07:05:25
 
 date: 2025-01-06, from: EDN Blog
 
-<img width="797" height="417" src="https://www.edn.com/wp-content/uploads/Two-transistor-sine-oscillator_Figure2.png?fit=797%2C417" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Two-transistor-sine-oscillator_Figure2.png?w=797 797w, https://www.edn.com/wp-content/uploads/Two-transistor-sine-oscillator_Figure2.png?w=300 300w, https://www.edn.com/wp-content/uploads/Two-transistor-sine-oscillator_Figure2.png?w=768 768w" sizes="(max-width: 797px) 100vw, 797px" /><p>Low cost and simple sine wave oscillator that can be tuned with a single resistor with decent quality output.</p>
+<img width="797" height="417" src="https://www.edn.com/wp-content/uploads/Two-transistor-sine-oscillator_Figure2.png?fit=797%2C417" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Two-transistor-sine-oscillator_Figure2.png?w=797 797w, https://www.edn.com/wp-content/uploads/Two-transistor-sine-oscillator_Figure2.png?w=300 300w, https://www.edn.com/wp-content/uploads/Two-transistor-sine-oscillator_Figure2.png?w=768 768w" sizes="auto, (max-width: 797px) 100vw, 797px" /><p>Low cost and simple sine wave oscillator that can be tuned with a single resistor with decent quality output.</p>
 <p>The post <a href="https://www.edn.com/a-two-transistor-sine-wave-oscillator/" data-wpel-link="internal">A two transistor sine wave oscillator</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

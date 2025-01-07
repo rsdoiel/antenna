@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-01-06 07:05:28
+updated: 2025-01-07 07:04:05
 ---
 
 # craft
 
-(date: 2025-01-06 07:05:28)
+(date: 2025-01-07 07:04:05)
+
+---
+
+## On Sale! - Selected Mixed Weave Scarves — Our Favourite Dyeable Scarves
+
+date: 2025-01-07, updated: 2025-01-07, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2025/01/on-sale-selected-mixed-weave-scarves.html>
 
 ---
 

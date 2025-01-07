@@ -1,11 +1,168 @@
 ---
 title: writing
-updated: 2025-01-06 07:05:26
+updated: 2025-01-07 07:04:03
 ---
 
 # writing
 
-(date: 2025-01-06 07:05:26)
+(date: 2025-01-07 07:04:03)
+
+---
+
+## Weekly Bestsellers, 6 January 2025
+
+date: 2025-01-06, from: Locus Magazine
+
+<div style="padding: 14px 0px 0px 0px; text-align: center;">
+<p>Xiran Jay Zhao&#8217;s <b>Heavenly Tyrant</b> (Tundra), sequel to <b>Iron Window</b> (2021), debuts on two lists, ranking #1 on the New York Times Young Adult Hardcover list, and #10 on the combined USA Today list.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+01.12
+LAT
+01.05
+USAT 
+12.29
+PW 
+01.06
+Amz 
+(01.06)
+UK:
+Amz UK 
+(01.06)
+Canada:
+Amz.ca 
+(01.06)
+
+
+Items on list -x- number of lists surveyed
+
+10&#215;3
+10&#215;2
+150
+15&#215;3 <a href="https://locusmag.com/2025/01/weekly-bestsellers-6-january-2025/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/01/weekly-bestsellers-6-january-2025/>
+
+---
+
+## Something’s Coming
+
+date: 2025-01-06, from: John August blog
+
+Last week, Dwarkesh Patel put words to an uneasy feeling that resonated with me: I think we’re at what late February 2020 was for Covid, but for AI. If you can remember back to February 2020, both the media and the general public were still in normal-times mode, discussing Trump’s impeachment, the Democratic primaries and [&#8230;]
+The post <a href="https://johnaugust.com/2025/somethings-coming">Something’s Coming</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/somethings-coming>
+
+---
+
+## 2025 FAAn Award Voting Opens
+
+date: 2025-01-06, from: Locus Magazine
+
+<div dir="auto">Voting has opened for the 2025 Fanzine Activity Achievement (FAAn) Awards, recognizing work done in 2024.</div>
+<div dir="auto"></div>
+<div dir="auto">Categories last year included: Best Genzine, Best Perzine, Best Fan Writer, Best Fan Artist, Best Letterhack, Best Cover Art, and Best Special Publication.</div>
+<div dir="auto"></div>
+<div dir="auto">Voting is open to anyone, and no memberships or fees are required. &#8216;The Incompleat Register 2024&#8242; voters&#8217; guide is available online. Results will be announced at the Corflu 42 banquet on </div> <a href="https://locusmag.com/2025/01/2025-faan-award-voting-opens/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/01/2025-faan-award-voting-opens/>
+
+---
+
+## World Fantasy Awards Judges Announced
+
+date: 2025-01-06, from: Locus Magazine
+
+<p>The judges for the 2025 World Fantasy Awards have been empaneled.</p>
+<p>The judges will read and consider eligible materials from 2024 between now (January 6, 2025) and June 1, 2025. To be considered for awards, all materials must be received by all five judges and Peter Dennis Pautz by June 1, 2025. &#8220;If&#8230; something is received on May 31 the judges may well have only one day to read it  <a href="https://locusmag.com/2025/01/world-fantasy-awards-judges-announced/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/world-fantasy-awards-judges-announced/>
+
+---
+
+## How to Write a Feel-Good Comedy like ‘Shrinking’
+
+date: 2025-01-06, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-write-a-feel-good-comedy-like-shrinking" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/How%20to%20write%20a%20feel-good%20comedy%20like%20%E2%80%98Shrinking%E2%80%99.png" alt="Harrison Ford and Jason Segel sitting in a canoe in 'Shrinking'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>In a world where grief often takes center stage, <em>Shrinking</em> dares to ask: Can healing be funny? Feel-good comedies have long dominated streaming platforms. From <em>Ted Lasso</em> to <em>Abbott Elementary</em>, these shows highlight the human condition while offering viewers comfort and hope. Apple TV’s <em>Shrinking</em> broadens the horizons of this genre, delivering a dramedy that blends humor with raw, emotional truths.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-to-write-a-feel-good-comedy-like-shrinking>
+
+---
+
+## Write On: 'Conclave' Screenwriter Peter Straughan
+
+date: 2025-01-06, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-conclave-screenwriter-peter-straughan" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Peter%20Straughan%20-%20Conclave.png" alt="Write On logo featuring the poster of the movie Conclave" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“If everything’s being played on the surface, it’s very hard to make that character come to life.<br>You want hinterland, you want subtext. You want the things that are buried, the things that we don’t know about them, the things that maybe they don’t know about themselves. And always, the story is about this excavation of what’s underneath the surface. One way or the other, that’s kind of what story <em>is.</em> It’s about bringing things to the surface,” says <em>Conclave</em> screenwriter Peter Straughan, about the importance of giving your characters secrets.&nbsp;<br><br>In this episode, we speak to Peter Straughan about his powerful film <em>Conclave</em>, starring Ralph Fiennes, Stanley Tucci and John Lithgow. Based on the book by Robert Harris, the movie follows five very different modern Catholic Cardinals as they go through the process of electing a new Pope. Straughan talks about why he loves a flawed hero, getting to tour the Vatican, what surprised him the most, and whether or not he thinks the real Pope will watch this movie.&nbsp;<br><br>Having also written the TV show <em>Wolf Hall</em> about Tudor England, Straughan also talks about the surprising connection between King Henry VIII and the modern Catholic Church.&nbsp;<br><br>“Both the world of the Tudors and the world of <em>Conclave</em> give us a way of looking at human behavior and the pursuit of power from a sort of angle that makes it particularly clear and fresh, without the clutter of the normal secular world of elections, that really anchors it in the human individual. So, Tudor England was maybe the last time where the sexual desires of one man was going to dominate the political landscape of an entire country. Maybe not the last time. Maybe this still happens in the world. But it becomes really pared down to basics, so you see very clearly what’s going on. And I think it feels the same with <em>Conclave</em>, it’s about the personalities and the morals of these few individuals,” says Straughan.&nbsp;<br><br>Just a warning, there are spoilers about the ending of <em>Conclave</em> in this episode, but we give you plenty of warning before they are discussed.&nbsp;<br><br>To hear more about Straughan’s writing process, listen to the podcast.&nbsp;</p> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-conclave-screenwriter-peter-straughan>
+
+---
+
+## Shannon Lee & Fonda Lee: Breath of the Dragon
+
+date: 2025-01-06, from: Locus Magazine
+
+<p></p>
+<p><strong>SHANNON EMERY LEE</strong> was born April 19, 1969 in Santa Monica CA and grew up in Southern California, apart from a couple of years in Hong Kong as a young child. She is the only daughter of actor and martial arts legend Bruce Lee, and is an actress, businessperson, speaker, and producer. Lee is chairperson of the non-profit Bruce Lee Foundation, which ‘‘provides access to Bruce Lee’s teachings to help  <a href="https://locusmag.com/2025/01/154410/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/154410/>
+
+---
+
+## Analog: Short Fiction Reviews by A.C. Wise
+
+date: 2025-01-06, from: Locus Magazine
+
+<p>Analog 9-10/24</p>
+<p>The October/November issue of Analog opens with the novella “<strong>Minnie and Earl Have a Kit­ten</strong>” by <strong>Adam-Troy Castro</strong>, set on the moon and featuring the author’s recurring characters, Minnie and Earl, who on the surface appear to be a sweet, elderly Midwestern couple, but in truth may be higher intelligences. Tish receives an invitation out of the blue from Minnie and Earl to visit them  <a href="https://locusmag.com/2025/01/analog-short-fiction-reviews-by-a-c-wise-2/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/analog-short-fiction-reviews-by-a-c-wise-2/>
 
 ---
 

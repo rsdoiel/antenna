@@ -1,11 +1,193 @@
 ---
 title: home
-updated: 2025-01-06 07:05:27
+updated: 2025-01-07 07:04:04
 ---
 
 # home
 
-(date: 2025-01-06 07:05:27)
+(date: 2025-01-07 07:04:04)
+
+---
+
+## Governor Newsom today in Stanislaus County — previews 2025-2026 state budget and receives California Jobs First Plan for North San Joaquin Valley, including Ag contributions
+
+date: 2025-01-06, from: Calfifornia Dept. Aggriculture blog
+
+News Release from Governor Newsom&#8217;s Office What you need to know: Governor Newsom continued his statewide California Jobs First tour today to outline a first-of-its-kind, bottom-up economic vision for California’s future, receiving the regional plan from local leaders in the North &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28513">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28513>
+
+---
+
+## Popular Lawn Mower Brand Recalls 39,000 Units Over Engine Defect
+
+date: 2025-01-06, from: Family Handyman Blog
+
+<p>Own a John Deere mower? This recall could be a matter of safety—don’t miss the details!</p>
+<p>The post <a href="https://www.familyhandyman.com/article/john-deere-kawasaki-motors-recall/">Popular Lawn Mower Brand Recalls 39,000 Units Over Engine Defect</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/john-deere-kawasaki-motors-recall/>
+
+---
+
+## (Almost) Everything Shifts in This 667-Square-Foot Spanish Apartment
+
+date: 2025-01-06, from: Dwell
+
+The kitchen island slash dining table extends, a bookshelf opens to reveal a bathroom, and the sofa becomes a futon for added sleeping area. 
+
+<br> 
+
+<https://www.dwell.com/article/kanso-philosophy-miriam-barrio-studio-flexible-small-space-53b650d0>
+
+---
+
+## This Is How Often You Should Restart Your Phone
+
+date: 2025-01-06, from: Family Handyman Blog
+
+<p>How often do you restart your phone? Once a week is recommended, and here's why.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/this-is-how-often-you-should-restart-your-phone-2/">This Is How Often You Should Restart Your Phone</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/this-is-how-often-you-should-restart-your-phone-2/>
+
+---
+
+## Here’s Why the Bear Mattress is the Goldilocks of Mattresses
+
+date: 2025-01-06, from: Family Handyman Blog
+
+<p>It's cooling, comfy and supportive. In our Bear mattress review, we explain why this mattress is just right for every type of sleeper.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/bear-mattress-review/">Here&#8217;s Why the Bear Mattress is the Goldilocks of Mattresses</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/bear-mattress-review/>
+
+---
+
+## An Idea From the Homeowner’s Father Made Building on This ‘Unbuildable’ Silicon Valley Lot Possible
+
+date: 2025-01-06, from: Dwell
+
+A series of "stacked boxes" lay the foundation for a Sea Ranch–inspired home on a narrow site set on two flood zones and filled with protected redwoods. 
+
+<br> 
+
+<https://www.dwell.com/article/8-tree-8-ana-williamson-architect-sea-ranch-style-home-palo-alto-b3781ec1>
+
+---
+
+## A Step-by-Step Guide to Fixing Your Car’s Lights
+
+date: 2025-01-06, from: Family Handyman Blog
+
+<p>Learn how to replace a headlight bulb and keep your car's other lights shining bright with this simple step-by-step project.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-replace-a-headlight-bulb/">A Step-by-Step Guide to Fixing Your Car’s Lights</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-replace-a-headlight-bulb/>
+
+---
+
+## This $2.8M Midcentury Near Denver Comes With Over 17 Acres
+
+date: 2025-01-06, from: Dwell
+
+The wide-ranging property includes a 7,000-square-foot residence, a detached guest cottage, and a pool. 
+
+<br> 
+
+<https://www.dwell.com/article/sinclaire-residence-midcentury-sedalia-colorado-real-estate-e49c54ee>
+
+---
+
+## This Secret Season Is Actually the Best Time to Travel. Here’s Why (and Where to Go)
+
+date: 2025-01-06, from: Sunset Magazine - Living in the West
+
+The rainy months don't get the love they deserve when it comes to travel, but really it's the best time to explore. Here's how to do it. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-places-to-travel-in-rainy-season>
+
+---
+
+## The Death of the Bar Cart
+
+date: 2025-01-06, from: Dwell
+
+As "sober-curiosity" becomes more popular, has the ultimate signifier of midcentury modern chic lost its luster? 
+
+<br> 
+
+<https://www.dwell.com/article/the-death-of-the-bar-cart-6657f5f8>
+
+---
+
+## What It Means If A Gas Can Is Swollen or Collapsed
+
+date: 2025-01-06, from: Family Handyman Blog
+
+<p>A swollen or collapsed gas container gets that way because of the change in vapor pressure inside it. It looks dangerous, but it usually isn't.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/why-a-gas-can-swells-and-collapses/">What It Means If A Gas Can Is Swollen or Collapsed</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/why-a-gas-can-swells-and-collapses/>
+
+---
+
+## Tips for Growing Bishop’s Cap Astrophytum Cactus
+
+date: 2025-01-06, from: The Gardener's Path
+
+<p>Bishop’s cap (Astrophytum myriostigma) is a diminutive cactus beloved for its beautiful patterns and numerous cultivars. In addition to being beautiful, they are also spineless, making them safe for homes with kids and pets. Learn how to grow and care for bishop’s cap cactus in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/grow-bishops-cap-cactus/">Tips for Growing Bishop’s Cap Astrophytum Cactus</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/grow-bishops-cap-cactus/>
+
+---
+
+## 9 Travel Trends You Have to Pay Attention to in 2025
+
+date: 2025-01-06, from: Sunset Magazine - Living in the West
+
+Here are the biggest travel trends to keep an eye out for in 2025, from longevity tourism to psychedelic journeys. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-trends-2025>
+
+---
+
+## Here’s What Those Window Bars With a Potbelly Are Actually For
+
+date: 2025-01-06, from: Family Handyman Blog
+
+<p>Wondering what those quirky metal bars on windows are? Learn about window belly bars and why they're more than just a trend!</p>
+<p>The post <a href="https://www.familyhandyman.com/article/window-bars-security/">Here&#8217;s What Those Window Bars With a Potbelly Are Actually For</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/window-bars-security/>
 
 ---
 
@@ -23,6 +205,30 @@ date: 2025-01-06, from: Family Handyman Blog
 
 ---
 
+## 25 Fresh and Comforting Recipes to Cook This January
+
+date: 2025-01-06, from: Sunset Magazine - Living in the West
+
+Everything seems to get a revamp in the new year, even your recipe repertoire. Try these January recipe ideas this month. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/january-recipe-ideas>
+
+---
+
+## 13 Fun and Refreshing Mocktail Recipes from Bartending Pros
+
+date: 2025-01-06, from: Sunset Magazine - Living in the West
+
+Bartenders are thinking outside of the bottle to create a spectacular, spirit-free sip. Try these exciting mocktail recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/mocktail-recipes>
+
+---
+
 ## How to Grow and Care for String of Pearls
 
 date: 2025-01-06, from: The Gardener's Path
@@ -34,6 +240,30 @@ date: 2025-01-06, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/succulents/grow-string-pearls/>
+
+---
+
+## The 10 Garden Trends That Will Be Huge in 2025
+
+date: 2025-01-06, from: Sunset Magazine - Living in the West
+
+From climate-adaptable planting to hunt-and-gather foraging gardens, here are the garden trends we can’t wait to see take root in 2025. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/garden-trends-2025>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-01-06, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 

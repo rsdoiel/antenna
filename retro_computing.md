@@ -1,11 +1,26 @@
 ---
 title: retro computing
-updated: 2025-01-06 07:05:27
+updated: 2025-01-07 07:04:04
 ---
 
 # retro computing
 
-(date: 2025-01-06 07:05:27)
+(date: 2025-01-07 07:04:04)
+
+---
+
+## RISCOSBits releases a new ROM update for FAST machines
+
+date: 2025-01-07, from: Icon Bar, RISC OS News
+
+As hinted in their xmas screenshot, RISCOSbits have a new ROM build for owners of FAST machines. This updates the machine to latest version of 5.31 (previous release was 24th July 2024).
+ 
+ 
+It comes as a zip 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2160.html>
 
 ---
 

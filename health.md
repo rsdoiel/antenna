@@ -1,11 +1,155 @@
 ---
 title: health
-updated: 2025-01-06 07:05:27
+updated: 2025-01-07 07:04:04
 ---
 
 # health
 
-(date: 2025-01-06 07:05:27)
+(date: 2025-01-07 07:04:04)
+
+---
+
+## Metagenomic next-generation sequencing for the clinical identification of spinal infection-associated pathogens
+
+date: 2025-01-07, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThis study aimed to evaluate the efficacy of metagenomic next-generation sequencing (mNGS) technology for identifying pathogens associated with spinal infection (SI).MethodsA retrospective analysis was conducted on clinical data from 193 patients with suspected SI between August 2020 and September 2024. Based on histopathological results, the patients were divided into the SI group (n=162) and the non-SI group (n=31). The diagnostic performance of mNGS technology was compared with that of laboratory examination, imaging examination, and microbial culture.ResultsAmong SI group, mNGS detected 135 pathogens in 77.78% (126/162) of the cases, including nine cases of multiple infections. One or more pathogens were detected using mNGS in 86 patients with SI and negative microbial cultures. Staphylococcus aureus (22.22%, n=30) and Mycobacterium tuberculosis (22.22%, n=30) were the major pathogens, while various rare pathogens such as anaerobes, Brucella, and Coxiella burnetii were also detected. For the 40 cases with positive results for both culture- and mNGS-based identification, high consistency (77.50%) was observed. Antibiotic use did not significantly affect the mNGS detection rate (P = 0.45). There was no significant difference in the positivity rate of mNGS between CT-guided needle biopsy (80.00%) and surgical sampling (77.17%) (P = 0.72). The sensitivity of mNGS (77.78%) was significantly higher than that of traditional microbial culture (27.16%), and the specificity was similar (90.32% vs. 96.77%). Although the sensitivities of erythrocyte sedimentation rate-based assay (91.36%), magnetic resonance imaging (88.27%), and C-reactive protein-based assay (87.65%) were better than those of mNGS, their specificities were generally low (20%-40%).ConclusionThe pathogens responsible for SI are complex and diverse. As a novel diagnostic method, mNGS exhibits a high sensitivity and extensive pathogen coverage for SI diagnosis. When combined with imaging and laboratory indicators, mNGS can significantly improve the accuracy of SI diagnosis and provide strong support for clinical treatment. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1437665>
+
+---
+
+## The role of metagenomic next-generation sequencing in diagnosing and managing post-kidney transplantation infections
+
+date: 2025-01-07, from: Frontiers in Cellular and Infection Microbiology
+
+Kidney transplantation (KT) is a life-saving treatment for patients with end-stage renal disease, but post-transplant infections remain one of the most significant challenges. These infections, caused by a variety of pathogens, can lead to prolonged hospitalization, graft dysfunction, and even mortality, particularly in immunocompromised patients. Traditional diagnostic methods often fail to identify the causative organisms in a timely manner, leading to delays in treatment and poorer patient outcomes. This review explores the application of metagenomic next-generation sequencing (mNGS) in the diagnosis of post-KT infections. mNGS allows for the rapid, comprehensive detection of a wide range of pathogens, including bacteria, viruses, fungi, and parasites, without the need for culture-based techniques. We discuss the advantages of mNGS in early and accurate pathogen identification, its role in improving patient management, and the potential challenges in its clinical implementation. Additionally, we consider the future prospects of mNGS in overcoming current diagnostic limitations and its potential for guiding targeted therapies, particularly in detecting antimicrobial resistance and emerging pathogens. This review emphasizes the promise of mNGS as an essential tool in improving the diagnosis and treatment of infections in KT recipients. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1473068>
+
+---
+
+## Antibodies directed against bacterial antigens in sera of Polish patients with primary biliary cholangitis
+
+date: 2025-01-07, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundPrimary biliary cholangitis (PBC) is a cholestatic, autoimmune liver disease with the presence of characteristic autoantibodies. The aim of the work was to determine the level of antibodies directed against bacterial antigens: Chlamydia pneumoniae (anti-Cpn), Yersinia enterolitica (anti-Y.e), Helicobacter pylori (anti-Hp), Mycoplasma pneumoniae (anti- Mp.) and Escherichia coli (E.coli) in sera of PBC patients. We also performed in vitro studies on the impact of the bacterial peptides on the specific antigen-antibody binding.MethodWe screened 92 Polish PBC patients and sera samples from healthy donors and pathological controls. Autoantibodies and anti-bacterial antibodies were determined by commercially available ELISA kits. Specific inhibition of antibody binding was also detected by the in house ELISA method.ResultsAnti-Cpn, anti-Y. enterolitica, anti-Hp, anti-M. pneumoniae and anti-E. coli antibodies were significantly more common in the group of PBC patients than in the pathological and healthy control groups: 74%, 40%, 84%, 39% and 69% respectively. The mean level of anti-Cpn, anti- Y.e, anti-Hp and anti- M.p in the PBC group was significantly higher than those in the healthy group (p < 0.001). and in patients with other liver diseases. In sera of patients with the presence of positive anti-mitochondrial antibodies (AMA), specific for PBC, anti-bacterial antibodies have been found in 80% vs. 50% in sera with AMA negative. We observed inhibition of specific antigen-antibody binding by the bacterial peptide: EClpP (E. coli caseinolytic protease) and adenine glycosylase from E. coli caseinolytic protease P, ClpP Y.e from peptide of Y. enterolitica, Mp PDC from M. pneumonia peptide and adenine glycosylase of E. coli. Bacterial factors influence the specific binding of antibodies to pyruvate dehydrogenase (PDC-E2), gp210 and KLHL12 (kelch-like peptide 12) antigens.ConclusionMicrobial mimics may be the major targets of cross-reactivity with human pyruvate dehydrogenase, gp210, and KLHL12 in PBC. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1410282>
+
+---
+
+## Study on the effects of Massa Medicata Fermentata with different formulations on the intestinal microbiota and enzyme activities in mice with spleen deficiency constipation
+
+date: 2025-01-07, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveThis study aims to explore the therapeutic mechanism of Massa Medicata Fermentata (MMF) with different formulations on spleen deficiency constipation in mice by analyzing gastrointestinal hormones, D-xylose, intestinal microbiota, and intestinal enzyme activities.MethodsA spleen deficiency constipation model was established using an oral administration of Sennae Folium decoction combined with controlled diet and water intake. After successful model establishment, the mice with spleen deficiency constipation were treated with MMF S1, S2, S3. Following the intervention, serum samples from each group of mice were collected to measure VIP, 5-HT, and D-xylose. Additionally, small intestine contents were analyzed for intestinal enzyme activity and subjected to 16S rRNA high-throughput sequencing.ResultsMice with spleen deficiency constipation showed significant decreases in body weight and fecal water content. In contrast, the body weight of the CS2 and CS3 groups returned to normal levels, and fecal water content in the CS2 and CS3 groups also returned to normal. The MMF S2 and S3 significantly increased protease and sucrase enzymes levels compared with CM group. Serum D-xylose levels were significantly reduced in the CM and CS2 group. VIP levels increased significantly in the CM group but decreased in the CS2 and CS3 groups. Additionally, 5-HT levels in the CM and CS1 groups decreased significantly, with the CS2 group returning to normal and the CS3 group showing significant increases. 16S rRNA sequencing analysis revealed that all three MMF formulations effectively restored the intestinal microbiota composition in mice. LEfSe analysis identified characteristic microbiota linked to different intervention groups. The CS3 group significantly upregulated the chloroalkane and chloroalkene degradation and vibrio cholerae pathogenic cycle pathways compared to the CM group. Candidatus_Arthromitus in the CS3 group and Psychrobacter in the CS2 group were positive and negative correlations with 5-HT and VIP, respectively.ConclusionThe three formulations of MMF significantly alleviated spleen deficiency constipation symptoms by modulating intestinal enzyme activities, D-xylose, VIP, and 5-HT levels, and restoring intestinal microbiota balance. Psychrobacter and Candidatus_Arthromitus were identified as potential biomarkers for the treatment of spleen deficiency constipation. Different formulations of MMF have different mechanisms of regulating constipation through intestinal microbiota. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1524327>
+
+---
+
+## Rising prevalence and drug resistance of Corynebacterium striatum in lower respiratory tract infections
+
+date: 2025-01-07, from: Frontiers in Cellular and Infection Microbiology
+
+Corynebacterium striatum (C. striatum) is a Gram-positive bacterium commonly colonizing the skin and mucosa in healthy individuals and hospitalized patients. Traditionally regarded as a contaminant, C. striatum is now increasingly recognized as a potential cause of clinical infections, especially after the coronavirus disease pandemic. It has emerged as a pathogen implicated in severe infections, including pneumonia, bacteremia, meningitis, artificial joint infections, abdominal infections, and endocarditis. C. striatum has been reported in lower respiratory tract infections, mostly as a conditioned pathogen in immunocompromised individuals, particularly in those with chronic structural lung diseases, such as chronic obstructive pulmonary disease, leading to severe pneumonia or exacerbation of the existing disease and high mortality. Additionally, C striatum has been implicated in the community-acquired pneumonia among immunocompetent individuals and nosocomial lung infections, with evidence of person-to-person transmission through caregivers. C. striatum may exhibit multidrug resistance. Vancomycin, alone or in combination, is currently considered the most effective treatment for C. striatum. This review highlights the epidemiological characteristics, drug resistance mechanisms, diagnostics approaches, and treatment options for C. striatum lower respiratory tract infections to enhance clinician awareness and improve patient management strategies. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1526312>
+
+---
+
+## Exploring the mediating role of blood metabolites in the relationship between gut microbiota and gastric cancer risk: a Mendelian randomization study
+
+date: 2025-01-07, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundPrior studies have established correlations between gut microbiota (GM) dysbiosis, circulating metabolite alterations, and gastric cancer (GC) risk. However, the causal nature of these associations remains uncertain.MethodsWe utilized summary data from genome-wide association studies (GWAS) on GM (European, n=8,956), blood metabolites (European, n=120,241; East Asian, n=4,435), and GC (European, n=476,116; East Asian, n=167,122) to perform a bidirectional Mendelian randomization (MR) analysis, investigating the causal effects of GM and metabolites on GC risk. Additionally, we conducted mediation analysis (two-step MR) to identify potential metabolite mediators in the GM-GC relationship.ResultsWe identified twelve negative and seven positive associations between specific GM taxa and GC risk. For blood metabolites, seven traits were found to be significantly associated with reduced GC risk in the European population, with these findings subsequently validated in the East Asian cohort. Three GM taxa showed potential causal associations with five metabolic traits: the Bacteroidia class and Bacteroidales order were positively correlated with five metabolites (all P < 0.013), while Bacteroides OTU97_27 exhibited a negative correlation with one metabolite (P = 0.007). Two-step MR analysis indicated that total lipids in intermediate-density lipoprotein (IDL), IDL particle concentration, phospholipids in medium low-density lipoprotein (LDL), phospholipids in small LDL, and free cholesterol in small LDL indirectly influenced the association between Bacteroidia class/Bacteroidales order and GC, with mediation proportions of 1.71% (P = 0.048), 1.69% (P = 0.048), 2.05% (P = 0.045), 1.85% (P = 0.048), and 1.99% (P = 0.045), respectively.ConclusionThe present study provides suggestive evidence of a causal relationship between specific GM, blood metabolites, and GC risk, potentially offering new insights into GC etiology. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1453286>
+
+---
+
+## Corrigendum: Viable but nonculturable state in the zoonotic pathogen Bartonella henselae induced by low-grade fever temperature and antibiotic treatment
+
+date: 2025-01-07, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1544596>
+
+---
+
+## Identifying subgroup of severe community-acquired pneumonia based on clinical metagenomics, a multicenter retrospective cohort study
+
+date: 2025-01-07, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveSevere community-acquired pneumonia (sCAP) is one of the major diseases within the ICU. We hypothesize that subtyping sCAP based on simple inflammatory markers, organ dysfunction, and clinical metagenomics results is feasible.MethodIn this study, we retrospectively enrolled immunocompetent sCAP patients requiring invasive mechanical ventilation, who underwent clinical metagenomics from 17 medical centers. We collected data on potentially pathogenic species reported by clinical metagenomics and clinical information for all patients. Latent class analysis (LCA) was applied to routine clinical parameters such as gender, age, white blood cell (WBC), lymphocytes, C-reactive protein (CRP), and Procalcitonin (PCT), identifying two optimally fitting models.ResultsA total of 569 patients were enrolled. Compared to class B, class A was characterized by a younger age, higher CRP and PCT levels, and a higher incidence of coagulation dysfunction, liver failure, circulatory failure, and renal failure. However, the mortality rates were similar between the two groups. In class A, more cases of Streptococcus spp. and fewer cases of HSV-1 and Candida spp. were detected. Among the patients in the two phenotypes, 48.7% and 57.5% received corticosteroid treatment, respectively. In the class A, corticosteroid treatment was not associated with patient mortality (unadjusted hazard ratio (HR)=0.988; 95% confidence interval (CI), 0.634–1.541; p=0.959). In contrast, in the class B group, the use of corticosteroids was associated with a reduced mortality rate (adjusted HR=0.719; 95% CI, 0.525–0.986; p=0.04). Additional analysis showed that in class B, methylprednisolone was associated with reduced mortality (adjusted HR=0.61; 95% CI, 0.44–0.86; p=0.005), while dexamethasone was not associated with mortality (adjusted HR=1.4; 95% CI, 0.89–2.22; p=0.148). In addition, after dose conversion, the results showed that higher doses of corticosteroids in class B were associated with increased mortality (adjusted HR=1.01; 95% CI, 1.00–1.01; p=0.005).ConclusionWe identified two classes based on clinical metagenomics and clinical features. Class B exhibited a better response to corticosteroid compared to class A. The rapid identification of these phenotypes could facilitate the screening of sCAP patients responsive to corticosteroid in future prospective clinical trials. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1516620>
+
+---
+
+## Diagnostic value of third-generation nanopore sequencing in extrapulmonary tuberculosis
+
+date: 2025-01-07, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThis study aimed to explore the accuracy of third-generation nanopore sequencing to diagnose extrapulmonary tuberculosis (EPTB).MethodsSamples were collected from the lesions of 67 patients with suspected EPTB admitted between April 2022 and August 2023. Nanopore sequencing, acid-fast bacilli (AFB) staining, DNA testing, and X-pert and mycobacterial cultures were performed. The sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV) and area under the receiver operating characteristic curve (AUC) were calculated for different diagnostic methods, and their diagnostic accuracies were compared.ResultsNanopore sequencing demonstrated the highest correct diagnosis rate among 50 positive EPTB cases, independently diagnosing 19 positive cases missed by conventional methods. Its sensitivity (62.00%), specificity (94.10%), PPV (96.90%), NPV (45.70%) and AUC (0.781, 95% CI: 0.67–0.89) were superior to those of conventional methods, such as AFB staining, DNA testing, X-pert, and solid culture, indicating its significantly efficient advantage in EPTB detection.ConclusionNanopore sequencing technology significantly outperforms conventional methods such as AFB staining, DNA testing, X-pert, and mycobacterial culture to diagnose EPTB, promising to improve the diagnosis of EPTB. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1432446>
+
+---
+
+## Plasma Epstein-Barr Virus DNA load for diagnostic and prognostic assessment in intestinal Epstein-Barr Virus infection
+
+date: 2025-01-07, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe prospective application of plasma Epstein-Barr virus (EBV) DNA load as a noninvasive measure of intestinal EBV infection remains unexplored. This study aims to identify ideal threshold levels for plasma EBV DNA loads in the diagnosis and outcome prediction of intestinal EBV infection, particularly in cases of primary intestinal lymphoproliferative diseases and inflammatory bowel disease (IBD).MethodsReceiver operating characteristic (ROC) curves were examined to determine suitable thresholds for plasma EBV DNA load in diagnosing intestinal EBV infection and predicting its prognosis.Results108 patients were retrospectively assigned to the test group, while 56 patients were included in the validation group. Plasma EBV DNA loads were significantly higher in the intestinal EBV infection group compared to the non-intestinal EBV infection group (Median: 2.02 × 102 copies/mL, interquartile range [IQR]: 5.49 × 101-6.34×103 copies/mL versus 4.2×101 copies/mL, IQR: 1.07 ×101-6.08×101 copies/mL; P < 0.0001). Plasma EBV DNA levels at 9.21×101 and 6.77×101 copies/mL proved beneficial for the identification and prognostication in intestinal EBV infection, respectively. Values of 0.82 and 0.71 were yielded by the area under the ROC curve (AUC) in the test cohort, corresponding to sensitivities of 84.38% (95% confidence interval [95%CI]: 68.25%-93.14%) and 87.5% (95%CI: 69%-95.66%), specificities of 83.33% (95%CI: 64.15%-93.32%) and 68.09% (95%CI: 53.83%-79.6%), positive predictive values (PPV) of 87.1% (95%CI: 71.15%-94.87%) and 58.33% (95%CI: 42.2%-72.86%), and positive likelihood ratios (LR+) of 5.06 and 2.74 in the validation cohort, respectively. Furthermore, a plasma EBV DNA load of 5.4×102 copies/mL helped differentiate IBD with intestinal EBV infection from primary intestinal EBV-positive lymphoproliferative disorders (PIEBV+LPDs), achieving an AUC of 0.85 within the test cohort, as well as 85% sensitivity (95%CI: 63.96%-94.76%), 91.67% specificity (95%CI: 64.61%-99.57%), 94.44% PPV (95%CI: 74.24%-99.72%), and an LR+ of 10.2 in the validation cohort.ConclusionsPlasma EBV DNA load demonstrates notable potential in distinguishing between different patient cohorts with intestinal EBV infection, although its sensitivity requires further optimization for clinical application. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1526633>
+
+---
+
+## Clinical features and risk factors of HIV-infected patients with intracerebral hemorrhage: a retrospective study with propensity score matching analysis
+
+date: 2025-01-07, from: Frontiers in Cellular and Infection Microbiology
+
+PurposeTo investigate the clinical features and risk factors of the human immunodeficiency virus (HIV)-infected patients with intracerebral hemorrhage (ICH).Patients and methodsThe patients with HIV-infected without ICH group were matched to the group of HIV-infected ICH patients. Logistic regression analysis using 1:1 propensity score matching (PSM) was performed to investigate the independent risk factors for ICH in HIV-infected patients. The receiver operating characteristic (ROC) curve was configured to calculate the optimal predictors of ICH in HIV-infected patients.ResultsA total of 59 HIV-infected patients with ICH and 180 HIV-infected patients without ICH were included. A cohort of 118 patients was ascertained utilizing PSM. Multivariate binary logistic regression analysis revealed that drug abuse-related HIV-infected, prolonged prothrombin time (PT), and elevated triglyceride (TG) levels were independent risk factors of ICH in HIV-infected patients. The ROC curve demonstrated that the combined predictor, composed of drug abuse-related HIV-infected, prolonged PT, and elevated TG levels, exhibited the highest area under the curve (AUC), with a cut-off point at 0.426, sensitivity of 78%, and specificity of 81.4%.ConclusionThe present study revealed that a valuable factor combined with drug abuse-related HIV-infected, prolonged PT, and elevated serum TG levels could serve as predictors of ICH in HIV-infected patients. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1498327>
+
+---
+
+## Effects of fermented Artemisia annua on the intestinal microbiota and metabolites of Hu lambs with naturally infected with Eimeria spp.
+
+date: 2025-01-07, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundSheep coccidiosis could disturb the balance of intestinal microbiota, causing diarrhea, and even death in lambs. Chemical drugs are the primary method of treating sheep coccidiosis, but their use will bring drug resistance, toxic side effects, drug residues, and other problems. Chinese herbal medicines are investigated as alternative methods for controlling coccidian infections.MethodsIn this study, the effect of fermented Artemisia annua (FA) on oocysts per gram (OPG), average daily gain (ADG), and expression of inflammatory factors were investigated in lambs that were naturally infected with coccidia.ResultsThe results showed that the FA had similar anti-coccidiosis effect to the original drug, while the FA demonstrated a more significant effect on weight gain, and a better ability to reduce the inflammatory response compared to the unfermented drug during the treatment period (P < 0.05). Furthermore, High-throughput sequencing technology was used to study the effects of FA on intestinal microbiota, and fecal metabolites of naturally infected lambs. The species richness of intestinal microbiota of lambs was significantly improved by FA. The abundance of bacteria unclassified_Muribaculaceae, and UCG_005 were increased by fermentation of A. annua. The abundance of bacteria Escherichia_Shigella, unclassified_Clostridia_UCG_014, and Alistipes was reduced. The prevention, and treatment of coccidiosis by fermentation of A. annua may also be related to a series of metabolites affected by intestinal microbiota, including artemisinin, Lysyl-Proline, and TRP-tyrosine.ConclusionFA was found to have superior anti-coccidiosis, anti-inflammatory, and weight gain effects compared to the original Artemisia annua. Intestinal microbes and metabolites such as unclassified_Muribaculaceae, UCG-005, and Artemisinin were identified, suggesting their potential significance. Alistipes was proposed as a biomarker for predicting intestinal coccidia outbreak risk in lambs, pending further validation. The correlation between microbiota, and metabolites may provide new insights into pathogenic changes associated with Eimeria spp. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1448516>
 
 ---
 
