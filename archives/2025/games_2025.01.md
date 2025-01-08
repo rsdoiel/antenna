@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-01-07 07:04:03
+updated: 2025-01-08 07:05:55
 ---
 
 # games
 
-(date: 2025-01-07 07:04:03)
+(date: 2025-01-08 07:05:55)
+
+---
+
+## Love mess? Netflix just got the soapy dramedy for you to marathon
+
+date: 2025-01-08, updated: 2025-01-07, from: Polygon Website
+
+January is a “try hard” month. The year has turned, and many people are attempting to make changes — if not full-on resolutions, then at least a dream, a goal to try to angle themselves toward. I think it’s a great time to undertake a TV project. (Watch historical television! Cross off that one show [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/505009/netflix-younger-how-watch-full-show-best-mess-dramedy>
+
+---
+
+## Mythic Quest season 4 is getting called before Congress
+
+date: 2025-01-08, updated: 2025-01-08, from: Polygon Website
+
+Things in the Mythic Quest office aren’t exactly getting more normal. Far from it, in fact — just ask Jo (Jessie Ennis), who’s ready to “crank up the intensity” (much to the chagrin of her coworkers). Four seasons in, the Apple TV Plus show has covered a lot of ground in the video game industry. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/505237/mythic-quest-season-4-trailer-release-date-side>
+
+---
+
+## Mighty Morphin Power Rangers: Rita’s Rewind is a nostalgic letdown
+
+date: 2025-01-08, updated: 2025-01-07, from: Polygon Website
+
+It’s hard not to get excited when you boot up Mighty Morphin Power Rangers: Rita’s Rewind and hear the nostalgic guitar riffs of the theme song. The game starts with sending the gang back to the ’90s before jumping straight into the action: flipping and fighting their way through waves of putty patrollers deployed by [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/504431/mighty-morphin-power-rangers-ritas-rewind-review-pc>
+
+---
+
+## What time does Marvel Rivals season 1 release in your time zone?
+
+date: 2025-01-08, updated: 2025-01-07, from: Polygon Website
+
+Season 1 of Marvel Rivals, formally titled Eternal Night Falls, brings a whopping four new characters to the game, as well as a new series of maps. These additions will roll out across a two-part season that developer NetEase Games said has “double the playable content of a regular season.” In season 1, you can [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/504212/season-1-release-time-date-est-pst-bst>
+
+---
+
+## Guest stars like Mercer, Mulligan, and Iyengar aren&#8217;t even the best part of Godkiller: Balance
+
+date: 2025-01-07, updated: 2025-01-08, from: Polygon Website
+
+The gods are dying. More specifically, they’re being killed. The world is on the other side of the cataclysmic Great Divine War, losing its magic as it waits for a prophesied savior. But that’s not this story. This is the story before that. The story of Ever and Rake, two Godkillers lost in their own [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/actual-play/505232/godkiller-balance-blackwaterdnd-matt-mercer-brennan-mulligan-aabria-iyengar>
+
+---
+
+## The writer of Happy Death Day is giving Valentine’s Day the slasher it deserves
+
+date: 2025-01-07, updated: 2025-01-07, from: Polygon Website
+
+I don’t want to speak too soon, but it’s entirely possible we’re on the cusp of a new golden age of holiday themed horror movies. In just the last couple of years, we’ve had the Christmas-set Terrifier 3; Y2K, which focuses on a very specific New Year; and Eli Roth’s surprisingly fun, and unsurprisingly gory, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/505035/heart-eyes-trailer-release-date-valentines-day-horror-movie>
+
+---
+
+## All Pocket Promo A cards in Pokémon TCG Pocket
+
+date: 2025-01-07, updated: 2025-01-07, from: Polygon Website
+
+Promo cards have a lot of variance in Pokémon TCG Pocket. Some can be easily purchased from the shop, while others can only be obtained from limited time events. Right now, all promo cards are part of the Promo A series. If you were a late adopter of Pokémon TCG Pocket, you may have missed [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/504997/promo-a-cards-list-all-how-to-get>
+
+---
+
+## League of Legends’ new cinematic is a sequel to Arcane’s wild ending
+
+date: 2025-01-07, updated: 2025-01-07, from: Polygon Website
+
+Riot has released a new teaser for the upcoming League of Legends competitive season, and the developer is once again collaborating with Fortiche. The new trailer, “Welcome to Noxus,” shows an assortment of Noxian champions scheming and battling — including Mel, the council member from Piltover, who is travelling to the Immortal Bastion in search [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/505118/league-legends-welcome-to-noxus-bite-marks-cinematic>
+
+---
+
+## Pokémon Go Color Cup Great League Edition best team recommendations
+
+date: 2025-01-07, updated: 2025-01-06, from: Polygon Website
+
+The Color Cup: Great League Edition is a limited-time cup in Pokémon Go’s Go Battle League that only allows four types of Pokémon to compete. These types are inspired by the colors red, blue, green, and yellow – which just so happen to be the names of the original Pokémon games. As with most themed [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/500424/color-cup-best-team-restrictions>
+
+---
+
+## EN World’s most anticipated TTRPGs are all familiar faces fighting dragons
+
+date: 2025-01-07, updated: 2025-01-07, from: Polygon Website
+
+Earlier this week, RPG news forum EN World announced their annual community-decided list of the Top 10 most anticipated tabletop roleplaying games. While a number of these selections overlap with Polygon’s own list, overall it seems to predict that 2025 will be a year of building on the foundations of a consumer base that wants [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/505031/ttrpgs-2025-en-world-list-anticipated>
 
 ---
 

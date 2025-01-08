@@ -1,11 +1,97 @@
 ---
 title: motorcycles
-updated: 2025-01-07 07:04:04
+updated: 2025-01-08 07:05:56
 ---
 
 # motorcycles
 
-(date: 2025-01-07 07:04:04)
+(date: 2025-01-08 07:05:56)
+
+---
+
+## Project Honda Benly Dream Needs a Lot Of TLC, But Can It Get Dialed In?
+
+date: 2025-01-08, from: Ride Apart, Electric Motorcycle News
+
+Is it running? Yes. Is it running well? That's next. 
+
+<br> 
+
+<https://www.rideapart.com/news/746506/honda-dream-project-carb-tuning-video/>
+
+---
+
+## Never Heard Of Airoh Helmets? Well, You’re About To
+
+date: 2025-01-08, from: Ride Apart, Electric Motorcycle News
+
+The Italian helmet maker is set to make a grand entrance into the US market. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/746358/airoh-helmets-finally-coming-to-usa/>
+
+---
+
+## New House of Representatives Rules Just Made it Way Easier to Sell Public Lands
+
+date: 2025-01-08, from: Ride Apart, Electric Motorcycle News
+
+I'll say it again, but politiicans hate public land.  
+
+<br> 
+
+<https://www.rideapart.com/news/746482/house-of-representatives-rules-public-land-sell-off-sales/>
+
+---
+
+## Another One Bites The Dust, as KTM-Owned Metal Foundry Declares Insolvency
+
+date: 2025-01-08, from: Ride Apart, Electric Motorcycle News
+
+Over 100 employees were left without jobs just two days before they expected to get their next paycheck. 
+
+<br> 
+
+<https://www.rideapart.com/news/746487/ktm-components-vocklabrucker-foundry-insolvency/>
+
+---
+
+## KTM Somehow Has More Dealerships Worldwide Than Harley-Davidson
+
+date: 2025-01-08, from: Ride Apart, Electric Motorcycle News
+
+That's a whole lotta dealership space for those unsold bikes to sit in. 
+
+<br> 
+
+<https://www.rideapart.com/news/746478/ktm-more-dealerships-than-harley-davidson-expansion-bankrupt/>
+
+---
+
+## Doing A Base Jump With a Motorcycle Doesn’t Really Sound Like a Good Idea
+
+date: 2025-01-08, from: Ride Apart, Electric Motorcycle News
+
+But that doesn’t mean it isn’t totally badass.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/746430/motorcycle-base-jump-bad-idea-wrecked/>
+
+---
+
+## Indian Motorcycles Is Recalling Every 2025 Scout Over a False Neutral, Seriously
+
+date: 2025-01-08, from: Ride Apart, Electric Motorcycle News
+
+A software update is necessary to rectify the issue. 
+
+<br> 
+
+<https://www.rideapart.com/news/746352/indian-scout-2025-recall-software/>
 
 ---
 

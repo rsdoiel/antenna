@@ -1,11 +1,375 @@
 ---
 title: pacific
-updated: 2025-01-07 07:04:02
+updated: 2025-01-08 07:05:54
 ---
 
 # pacific
 
-(date: 2025-01-07 07:04:02)
+(date: 2025-01-08 07:05:54)
+
+---
+
+## Tree trimming scheduled at Keaau Transfer Station
+
+date: 2025-01-08, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County&#8217;s Department of Environmental Management has scheduled tree trimming along the driveway entrance to the Keaau Transfer Station between 8 a.m. and 4:45 p.m. daily from Jan. 14-16.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/08/community/tree-trimming-scheduled-at-keaau-transfer-station/>
+
+---
+
+## ‘Mu‘u + Mo‘olelo’ opens Friday
+
+date: 2025-01-08, from: Hawaii Tribune Harold
+
+
+				<p>Wailoa Center in Hilo will present &#8220;Mu&#8216;u + Mo&#8216;olelo,&#8221; a multimedia mu&#8216;umu&#8216;u exhibit, beginning Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/08/community/muu-moolelo-opens-friday/>
+
+---
+
+## Lawmakers to speak at Waimea town meeting
+
+date: 2025-01-08, from: Hawaii Tribune Harold
+
+
+				<p>Public policy leadership changes within the state Legislature and Hawaii County Council will be in the spotlight at Waimea Community Association&#8217;s Town Meeting this Thursday in the Jerry Nelson Conference Room of the W.M. Keck Observatory Waimea headquarters at 65-1120 Mamalahoa Highway.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/08/community/lawmakers-to-speak-at-waimea-town-meeting/>
+
+---
+
+## Schedule set for Banyan Drive Art Stroll
+
+date: 2025-01-08, from: Hawaii Tribune Harold
+
+
+				<p>The fifth Banyan Drive Art Stroll features exhibits, awards, prizes, entertainment and activities throughout the Banyan Drive area from noon to 6 p.m. Saturday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/08/community/schedule-set-for-banyan-drive-art-stroll/>
+
+---
+
+## Migrant arrests at US-Mexico border lower than when Trump left office
+
+date: 2025-01-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The number of migrants arrested illegally crossing the U.S.-Mexico border in December was lower than when President-elect Donald Trump ended his first term in 2020, according to preliminary figures shared with Reuters, a relative calm that Trump could upend with sweeping changes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/08/nation-world-news/migrant-arrests-at-us-mexico-border-lower-than-when-trump-left-office/>
+
+---
+
+## Blinken calls for push to get Gaza truce deal over ‘finish line’
+
+date: 2025-01-08, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM/CAIRO &#8212; U.S. Secretary of State Antony Blinken called on Monday for a final push for a Gaza ceasefire before President Joe Biden leaves office, after a Hamas official told Reuters the group had cleared a list of 34 hostages as first to go free under a truce.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/08/nation-world-news/blinken-calls-for-push-to-get-gaza-truce-deal-over-finish-line/>
+
+---
+
+## Raging Los Angeles wildfire engulfs upscale area, triggers evacuations
+
+date: 2025-01-08, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; A wildfire raged across an upscale section of Los Angeles on Tuesday, sending large billows of smoke over much of the metropolitan area and causing traffic jams as people fled their homes under evacuation orders.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/08/nation-world-news/raging-los-angeles-wildfire-engulfs-upscale-area-triggers-evacuations/>
+
+---
+
+## $250M yacht visits Hilo Bay
+
+date: 2025-01-08, from: Hawaii Tribune Harold
+
+
+				<p>Hilo Bay has a striking new visitor moored off Coconut Island: the luxurious superyacht Liva O.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/08/hawaii-news/250m-yacht-visits-hilo-bay/>
+
+---
+
+## Trump floats using force to take Greenland and the Panama Canal
+
+date: 2025-01-08, from: Hawaii Tribune Harold
+
+
+				<p>President-elect Donald Trump refused on Tuesday to rule out the use of military or economic coercion to force Panama to give up control of the canal that America built more than a century ago and to push Denmark to sell Greenland to the United States.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/08/nation-world-news/trump-floats-using-force-to-take-greenland-and-the-panama-canal/>
+
+---
+
+## House passes bill to deport immigrants charged with minor crimes
+
+date: 2025-01-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The House passed a bill Tuesday that would target for deportation immigrants in the U.S. illegally who are charged with nonviolent crimes, an opening salvo from a Republican majority that has vowed to deliver on President-elect Donald Trump&#8217;s promised crackdown at the border.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/08/nation-world-news/house-passes-bill-to-deport-immigrants-charged-with-minor-crimes/>
+
+---
+
+## West Hawaii park closes due to ‘hazardous’ surf
+
+date: 2025-01-08, from: Hawaii Tribune Harold
+
+
+				<p>Due to hazardous surf conditions and resource damage, Pu&#8216;uhonua o Honaunau National Historical Park in West Hawaii will remain closed until further notice, the park announced Tuesday in a press release.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/08/hawaii-news/west-hawaii-park-closes-due-to-hazardous-surf/>
+
+---
+
+## Council approves Alameda’s department heads
+
+date: 2025-01-08, from: Hawaii Tribune Harold
+
+
+				<p>The new heads of Hawaii County&#8217;s various departments were confirmed Tuesday by the County Council.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/08/hawaii-news/council-approves-alamedas-department-heads/>
+
+---
+
+## State offers funds to battle coffee pests
+
+date: 2025-01-08, from: Hawaii Tribune Harold
+
+
+				<p>Big Island coffee farmers could once again get thousands of dollars in state funds to pay for pesticides to combat a pair of devastating pests.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/08/hawaii-news/state-offers-funds-to-battle-coffee-pests/>
+
+---
+
+## NASA will let Trump decide how to bring Mars rocks to Earth
+
+date: 2025-01-08, from: Hawaii Tribune Harold
+
+
+				<p>NASA needs help fetching rocks from Mars, and on Tuesday, agency officials announced that they have not yet quite decided how to do that. Instead, they are leaving a final decision to the incoming administration of President-elect Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/08/nation-world-news/nasa-will-let-trump-decide-how-to-bring-mars-rocks-to-earth/>
+
+---
+
+## Washington kicks off a pomp-filled farewell to Carter, a man of humility
+
+date: 2025-01-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The nation&#8217;s leaders on Tuesday kicked off three days of tributes to Jimmy Carter, staging an elaborate pageant of Washington fanfare for a politician who disavowed the trappings of the imperial presidency and never gave up his humble Georgia roots.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/08/nation-world-news/washington-kicks-off-a-pomp-filled-farewell-to-carter-a-man-of-humility/>
+
+---
+
+## Appeals court judge refuses to halt Trump’s New York sentencing
+
+date: 2025-01-08, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A New York appellate court Tuesday declined to halt President-elect Donald Trump&#8217;s criminal sentencing, damping his hopes of shutting down the case before returning to the White House.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/08/nation-world-news/appeals-court-judge-refuses-to-halt-trumps-new-york-sentencing/>
+
+---
+
+## Fallen firefighter served with ‘honor and courage’
+
+date: 2025-01-08, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Department of Justice is sending dozens of federal agents to Honolulu to help investigate a fire on Young Street that caused a partial roof collapse and claimed the life of a 25-year-old firefighter who served the city with &#8220;honor and courage.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/08/hawaii-news/fallen-firefighter-served-with-honor-and-courage/>
+
+---
+
+## Hawaiian Word of the Week: ʻIanuali
+
+date: 2025-01-08, from: University of Hawaiʻi News
+
+<p>&#699;Ianuali&#8212;January.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/07/hawaiian-word-of-the-week-ianuali/">Hawaiian Word of the Week: ʻIanuali</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/07/hawaiian-word-of-the-week-ianuali/>
+
+---
+
+## Think tank hits military's plan to 'weaponize' Guam without corresponding protection for civilians
+
+date: 2025-01-08, from: Pacific Island Times
+
+The U.S. military’s proposed missile defense system for Guam is courting court more threats to the civilian community with no corresponding  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/think-tank-hits-military-s-plan-to-weaponize-guam-without-corresponding-protection-for-civilians>
+
+---
+
+## Free 6-day event: Build pilina, embrace culture through workshops, ceremony
+
+date: 2025-01-08, from: University of Hawaiʻi News
+
+<p>The third annual <span aria-label="Hawaii">Hawai&#699;i</span> <span aria-label="Kuu">Ku&#699;u</span> Home Aloha event will offer free workshops and activities.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/07/kuu-home-aloha-2025/">Free 6-day event: Build pilina, embrace culture through workshops, ceremony</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/07/kuu-home-aloha-2025/>
+
+---
+
+## Dance Fusion: Tongan to hip-hop hits UH Mānoa stage
+
+date: 2025-01-08, from: University of Hawaiʻi News
+
+<p>Graduating students showcase their original choreography in <em><abbr>MFA</abbr>/<abbr>BFA</abbr> Dance Concert: Introspection</em>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/07/dance-fusion-tongan-to-hip-hop/">Dance Fusion: Tongan to hip-hop hits <abbr>UH</abbr> Mānoa stage</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/07/dance-fusion-tongan-to-hip-hop/>
+
+---
+
+## Roure, Rosenthal secure Big West honors after season-opening
+
+date: 2025-01-08, from: University of Hawaiʻi News
+
+<p>Adrien Roure and Tread Rosenthal earned their honors after <abbr>UH</abbr>’s sweep of McKendree.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/07/roure-rosenthal-bw-honors-opening/">Roure, Rosenthal secure Big West honors after season-opening</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/07/roure-rosenthal-bw-honors-opening/>
+
+---
+
+## Botanical Garden at UH Hilo earns global recognition
+
+date: 2025-01-07, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo Botanical Garden received official accreditation from Botanic Gardens Conservation International.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/07/uh-hilo-botanical-garden-recognition/">Botanical Garden at <abbr>UH</abbr> Hilo earns global recognition</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/07/uh-hilo-botanical-garden-recognition/>
+
+---
+
+## PACE’s Susan Yamada earns PBN career achievement award
+
+date: 2025-01-07, from: University of Hawaiʻi News
+
+<p><em><abbr>PBN</abbr></em> cited Yamada’s work to diversify <span aria-label="Hawaii">Hawai&#699;i</span>’s economy through new businesses and higher education.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/07/yamada-pbn-career-achievement/"><abbr>PACE</abbr>’s Susan Yamada earns <em><abbr>PBN</abbr></em> career achievement award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/07/yamada-pbn-career-achievement/>
+
+---
+
+## Paying it forward: The story of Micronesian diaspora
+
+date: 2025-01-07, from: Pacific Island Times
+
+That could be attributed to the way the Chuukese migrated—one careful step after another. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/paying-it-forward-the-story-of-micronesian-diaspora>
+
+---
+
+## Soft power for a Cold War: Disaster relief for Vanuatu against the backdrop of race for influence
+
+date: 2025-01-07, from: Pacific Island Times
+
+A 7.3 magnitude earthquake hit Vanuatu on Dec. 16, 2024. Pacific Reflections By Gabriel McCoard I try not to make predictions or even... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/soft-power-for-a-cold-war-disaster-relief-for-vanuatu-against-the-backdrop-of-race-for-influence>
+
+---
+
+## Amid recruitment crisis nationwide, Guam remains a recruiter’s paradise
+
+date: 2025-01-07, from: Pacific Island Times
+
+By Jayvee Vallejera   Thanks to a community with a high propensity to serve in the U.S. military, the Guam Army National Guard is “doing... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/amid-recruitment-crisis-nationwide-guam-remains-a-recruiter-s-paradise>
 
 ---
 
@@ -261,6 +625,20 @@ date: 2025-01-07, from: Hawaii Tribune Harold
 
 ---
 
+## Six-pound opossum trapped at store in Kona
+
+date: 2025-01-07, from: Hawaii Tribune Harold
+
+
+				<p>An opossum was caught at a big-box store in Kailua-Kona over the weekend.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/07/hawaii-news/six-pound-opossum-trapped-at-store-in-kona/>
+
+---
+
 ## Palau celebrates arrival of 2025 New Year Baby
 
 date: 2025-01-07, from: Island Times
@@ -394,7 +772,7 @@ date: 2025-01-07, from: Island Times
 
 date: 2025-01-07, from: Island Times
 
-<figure><img width="1024" height="553" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?fit=1024%2C553&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?resize=300%2C162&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?resize=1024%2C553&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?resize=768%2C414&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?resize=1200%2C648&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?resize=400%2C216&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?resize=706%2C381&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?fit=1024%2C553&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74845" data-permalink="https://islandtimes.org/miss-pacific-islands-moemoana-schwenke-arrives-in-palau-for-cultural-tour/p5-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?fit=1249%2C674&amp;ssl=1" data-orig-size="1249,674" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="p5" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?fit=300%2C162&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?fit=780%2C421&amp;ssl=1" /></figure>
+<figure><img width="1024" height="553" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?fit=1024%2C553&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?resize=300%2C162&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?resize=1024%2C553&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?resize=768%2C414&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?resize=1200%2C648&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?resize=400%2C216&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?resize=706%2C381&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?fit=1024%2C553&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74845" data-permalink="https://islandtimes.org/miss-pacific-islands-moemoana-schwenke-arrives-in-palau-for-cultural-tour/p5-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?fit=1249%2C674&amp;ssl=1" data-orig-size="1249,674" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="p5" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?fit=300%2C162&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/p5.jpg?fit=780%2C421&amp;ssl=1" /></figure>
 <p>By: Eustoria Marie Borja KOROR, Palau – Reigning Miss Pacific Islands Moemoana Schwenke arrived in Palau on Friday, January 3, 2025, for her first-ever visit to the island nation. The Samoan beauty queen, who holds a background in indigenous studies and environmental humanities, was warmly welcomed by Palauan officials, cultural youth-leaders, and enthusiastic supporters at [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/miss-pacific-islands-moemoana-schwenke-arrives-in-palau-for-cultural-tour/">Miss Pacific Islands Moemoana Schwenke arrives in Palau for Cultural Tour</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -409,7 +787,7 @@ date: 2025-01-07, from: Island Times
 
 date: 2025-01-07, from: Island Times
 
-<figure><img width="600" height="628" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/OtisFerlyn.jpg?fit=600%2C628&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/OtisFerlyn.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/OtisFerlyn.jpg?resize=287%2C300&amp;ssl=1 287w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/OtisFerlyn.jpg?resize=400%2C419&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/OtisFerlyn.jpg?fit=600%2C628&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74842" data-permalink="https://islandtimes.org/otis-ferlyn-joins-picrc-as-a-research-assistant/otisferlyn/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/OtisFerlyn.jpg?fit=600%2C628&amp;ssl=1" data-orig-size="600,628" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="OtisFerlyn" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/OtisFerlyn.jpg?fit=287%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/OtisFerlyn.jpg?fit=600%2C628&amp;ssl=1" /></figure>
+<figure><img width="600" height="628" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/OtisFerlyn.jpg?fit=600%2C628&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/OtisFerlyn.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/OtisFerlyn.jpg?resize=287%2C300&amp;ssl=1 287w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/OtisFerlyn.jpg?resize=400%2C419&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/OtisFerlyn.jpg?fit=600%2C628&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74842" data-permalink="https://islandtimes.org/otis-ferlyn-joins-picrc-as-a-research-assistant/otisferlyn/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/OtisFerlyn.jpg?fit=600%2C628&amp;ssl=1" data-orig-size="600,628" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="OtisFerlyn" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/OtisFerlyn.jpg?fit=287%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/OtisFerlyn.jpg?fit=600%2C628&amp;ssl=1" /></figure>
 <p>The Palau International Coral Reef Center (PICRC) is pleased to welcome Otis Salmasang Ferlyn, a 26- year-old Palauan from Peleliu, as a new Research Assistant. His interest and passion for the ocean and marine life led him to PICRC after working as a delivery driver for a beverage distribution company in New York and beginning [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/otis-ferlyn-joins-picrc-as-a-research-assistant/">Otis Ferlyn joins PICRC as a Research Assistant</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -424,7 +802,7 @@ date: 2025-01-07, from: Island Times
 
 date: 2025-01-07, from: Island Times
 
-<figure><img width="301" height="284" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?w=301&amp;ssl=1 301w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="60533" data-permalink="https://islandtimes.org/risk-of-growing-up/womens-corner-1-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" data-orig-size="301,284" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" /></figure>
+<figure><img width="301" height="284" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?w=301&amp;ssl=1 301w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="60533" data-permalink="https://islandtimes.org/risk-of-growing-up/womens-corner-1-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" data-orig-size="301,284" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" /></figure>
 <p>My children may not always walk beside me, but they are always with me, etched into my heart, my soul, and even the quiet rhythms of my being. There’s a beautiful mystery to motherhood that goes far beyond what we see or feel. I recently learned about microchimerism &#8211; the phenomenon where a mother carries [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/microchimerism/">MICROCHIMERISM</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -481,7 +859,7 @@ date: 2025-01-07, from: Island Times
 
 date: 2025-01-07, from: Island Times
 
-<figure><img width="1024" height="684" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?fit=1024%2C684&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?resize=1024%2C684&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?fit=1024%2C684&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74827" data-permalink="https://islandtimes.org/north-korea-fires-missile-as-blinken-warns-of-russia-cooperation/skorea-us-diplomacy/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?fit=1249%2C834&amp;ssl=1" data-orig-size="1249,834" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;AFP&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;US Secretary of State Antony Blinken (R) and South Korea&#039;s National Assembly Speaker Woo Won-shik shake hands prior to a meeting at the National Assembly in Seoul on January 6, 2025. (Photo by Lee Jin-man \/ POOL \/ AFP)&quot;,&quot;created_timestamp&quot;:&quot;1736139064&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;SKOREA-US-DIPLOMACY&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="SKOREA-US-DIPLOMACY" data-image-description="" data-image-caption="&lt;p&gt;US Secretary of State Antony Blinken (R) and South Korea&#8217;s National Assembly Speaker Woo Won-shik shake hands prior to a meeting at the National Assembly in Seoul on January 6, 2025. (Photo by Lee Jin-man / POOL / AFP)&lt;/p&gt;
+<figure><img width="1024" height="684" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?fit=1024%2C684&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?resize=1024%2C684&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?fit=1024%2C684&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74827" data-permalink="https://islandtimes.org/north-korea-fires-missile-as-blinken-warns-of-russia-cooperation/skorea-us-diplomacy/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?fit=1249%2C834&amp;ssl=1" data-orig-size="1249,834" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;AFP&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;US Secretary of State Antony Blinken (R) and South Korea&#039;s National Assembly Speaker Woo Won-shik shake hands prior to a meeting at the National Assembly in Seoul on January 6, 2025. (Photo by Lee Jin-man \/ POOL \/ AFP)&quot;,&quot;created_timestamp&quot;:&quot;1736139064&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;SKOREA-US-DIPLOMACY&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="SKOREA-US-DIPLOMACY" data-image-description="" data-image-caption="&lt;p&gt;US Secretary of State Antony Blinken (R) and South Korea&#8217;s National Assembly Speaker Woo Won-shik shake hands prior to a meeting at the National Assembly in Seoul on January 6, 2025. (Photo by Lee Jin-man / POOL / AFP)&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/SkoreaUsDiplomacy.jpg?fit=780%2C521&amp;ssl=1" /></figure>
 <p>By Hieun SHIN &#160;Seoul,&#160;South Korea &#8211; North Korea on Monday fired a missile as US Secretary of State Antony Blinken visited South Korea, where he warned Pyongyang was working ever closer with Russia on advanced space technology. Blinken visited as investigators were trying to arrest conservative President Yoon Suk Yeol, who has entrenched himself in [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/north-korea-fires-missile-as-blinken-warns-of-russia-cooperation/">North Korea fires missile as Blinken warns of Russia cooperation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>

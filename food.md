@@ -1,11 +1,167 @@
 ---
 title: food
-updated: 2025-01-07 07:04:05
+updated: 2025-01-08 07:05:57
 ---
 
 # food
 
-(date: 2025-01-07 07:04:05)
+(date: 2025-01-08 07:05:57)
+
+---
+
+## Inside The Showstopping New BIGFACE Brand Miami Cafe
+
+date: 2025-01-08, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. BIGFACE in Miami, Florida. 
+
+<br> 
+
+<https://sprudge.com/inside-the-showstopping-new-bigface-brand-miami-cafe-262613.html>
+
+---
+
+## Panera and Caribou Group CEO Steps Down After Less Than Two Years
+
+date: 2025-01-08, from: Daily Coffee News
+
+<div><img width="620" height="439" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-620x439.jpg" class="attachment-large size-large wp-post-image" alt="panera coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-620x439.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-300x212.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-768x543.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Panera Brands CEO José Alberto Dueñas is stepping down from the role of CEO after approximately 22 months. He is being replaced on an interim basis by current CFO Paul... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/08/panera-and-caribou-group-ceo-steps-down-after-less-than-two-years/>
+
+---
+
+## Step Up and Ask: How Industry Consultant Rachel Apple Makes Coffee Education More Accessible
+
+date: 2025-01-08, from: The Fresh Cup
+
+<p>According to coffee consultant Rachel Apple, the industry has come a long way when it comes to improving education and accessibility. We spoke to her to learn how investing in coffee education can push your career further.</p>
+<p>The post <a href="https://freshcup.com/step-up-and-ask-how-industry-consultant-rachel-apple-makes-coffee-education-more-accessible/">Step Up and Ask: How Industry Consultant Rachel Apple Makes Coffee Education More Accessible</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/step-up-and-ask-how-industry-consultant-rachel-apple-makes-coffee-education-more-accessible/>
+
+---
+
+## Masa Harina Biscuits
+
+date: 2025-01-08, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/masa-harina-biscuits/"><img title="masa-harina-biscuits-small-8" src="https://www.isabeleats.com/wp-content/uploads/2025/01/masa-harina-biscuits-small-8-400x600.jpg" alt="Masa harina biscuits stacked on top of each other on a plate." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Flaky, buttery, and just a little sweet, these masa harina biscuits are like a cross between classic biscuits with the nutty and slight sweetness of corn muffins. Made with masa harina and honey, they’re light, fluffy, and perfect for breakfast or alongside a hearty soup or stew. These biscuits are a unique twist on the [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/masa-harina-biscuits/>
+
+---
+
+## If Your Kitchen Has a Pull-Out Cutting Board, Its Original Use Might Surprise You
+
+date: 2025-01-07, from: Taste of Home
+
+<p>You might think that a pull-out cutting board provides extra space to chop vegetables, but it's designed to serve a different purpose.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/pull-out-cutting-board/">If Your Kitchen Has a Pull-Out Cutting Board, Its Original Use Might Surprise You</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/pull-out-cutting-board/>
+
+---
+
+## Sprite Plans to Drop a Flavor Inspired By a Viral Soda Trend
+
+date: 2025-01-07, from: Taste of Home
+
+<p>You know a viral drink trend was good when it becomes a real thing. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/sprite-tea-january-2025/">Sprite Plans to Drop a Flavor Inspired By a Viral Soda Trend</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/sprite-tea-january-2025/>
+
+---
+
+## Best Food Processor of 2025: Expert-Approved Favorites
+
+date: 2025-01-07, from: Bon Appetet
+
+This kitchen workhorse deserves a spot on your countertop—here are our top picks. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-food-processor>
+
+---
+
+## How to Identify Real Milk Glass
+
+date: 2025-01-07, from: Taste of Home
+
+<p>Brilliant white milk glass is durable and beautiful—no wonder it's a favorite among collectors. Here's how to recognize milk glass at thrift shops and antique stores, and how to spot the most valuable pieces.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-is-milk-glass/">How to Identify Real Milk Glass</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-is-milk-glass/>
+
+---
+
+## Easy Baked Rigatoni With Sausage
+
+date: 2025-01-07, from: Bon Appetet
+
+This shortcut baked rigatoni is loaded with spicy Italian sausage and topped with melted cheese. And the best part: You don’t even have to boil the pasta. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/easy-baked-rigatoni-with-italian-sausage>
+
+---
+
+## Study: Coffee Drinking Significantly Reduces Head and Neck Cancer Risk
+
+date: 2025-01-07, from: Daily Coffee News
+
+<div><img width="620" height="449" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1-620x449.jpg" class="attachment-large size-large wp-post-image" alt="coffee and HNC" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1-620x449.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1-300x217.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1-768x556.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Drinking four or more cups of coffee per day is linked with a significant reduction in the risk of head and neck cancers, according to a comprehensive analysis of global... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/07/study-coffee-drinking-significantly-reduces-head-and-neck-cancer-risk/>
+
+---
+
+## Creature’s Plants & Coffee Offers Multiple Comforts in LA
+
+date: 2025-01-07, from: Daily Coffee News
+
+<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4-620x415.jpg" class="attachment-large size-large wp-post-image" alt="Creatures plants and coffee LA 4" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A hybrid plant nursery and coffee shop named Creature’s Plants &#38; Coffee opened in the Eagle Rock neighborhood of Los Angeles last fall, creating connections between plants, people and coffee.&#160;... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/07/creatures-plants-coffee-offers-multiple-comforts-in-la/>
+
+---
+
+## Portuguese Egg Tart (Pastel de Nata)
+
+date: 2025-01-07, from: Taste of Home
+
+For a fun and rewarding weekend baking project, try your hand at this Portuguese egg tart recipe. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/portuguese-egg-tart-pastel-de-nata/>
 
 ---
 
@@ -25,7 +181,7 @@ date: 2025-01-07, from: The Sprudge
 
 date: 2025-01-07, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Roastology-Richmond-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Roastology Richmond 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Roastology-Richmond-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Roastology-Richmond-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Roastology-Richmond-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Roastology-Richmond-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Roastology-Richmond-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Richmond, Virginia-based Roastology is diving deeper into the sweet science of coffee with a new roastery and cafe in the Scott&#8217;s Addition neighborhood. While smaller overall than Roastology&#8217;s original roastery... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Roastology-Richmond-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Roastology Richmond 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Roastology-Richmond-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Roastology-Richmond-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Roastology-Richmond-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Roastology-Richmond-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Roastology-Richmond-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Richmond, Virginia-based Roastology is diving deeper into the sweet science of coffee with a new roastery and cafe in the Scott&#8217;s Addition neighborhood. While smaller overall than Roastology&#8217;s original roastery... 
 
 <br> 
 
@@ -87,7 +243,7 @@ This shortcut baked rigatoni is loaded with spicy Italian sausage and topped wit
 
 date: 2025-01-07, from: Bon Appetet
 
-Topping a classic mushroom pot pie with crunchy, scrunched up phyllo takes the comfort food classic from good to great. 
+Topping a classic mushroom pot pie with crunchy, scrunched-up phyllo takes the comfort food classic from good to great. 
 
 <br> 
 
@@ -123,7 +279,7 @@ A comforting dinner of chewy rice cakes, punchy kimchi, bok choy, and perfectly 
 
 date: 2025-01-06, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Common-Roots-coffee-roastery-2-620x414.jpeg" class="attachment-large size-large wp-post-image" alt="Common Roots coffee roastery 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Common-Roots-coffee-roastery-2-620x414.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Common-Roots-coffee-roastery-2-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Common-Roots-coffee-roastery-2-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Common-Roots-coffee-roastery-2-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Common-Roots-coffee-roastery-2.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In the foothills of the Adirondacks in upstate New York, a fresh coffee business called Common Roots Coffee is shooting up like a sapling alongside its well-established craft brewing parent... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Common-Roots-coffee-roastery-2-620x414.jpeg" class="attachment-large size-large wp-post-image" alt="Common Roots coffee roastery 2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Common-Roots-coffee-roastery-2-620x414.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Common-Roots-coffee-roastery-2-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Common-Roots-coffee-roastery-2-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Common-Roots-coffee-roastery-2-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Common-Roots-coffee-roastery-2.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>In the foothills of the Adirondacks in upstate New York, a fresh coffee business called Common Roots Coffee is shooting up like a sapling alongside its well-established craft brewing parent... 
 
 <br> 
 
@@ -213,7 +369,7 @@ date: 2025-01-06, from: The Sprudge
 
 date: 2025-01-06, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Barista-League-Warsaw-2024-00029-620x413.jpg" class="attachment-large size-large wp-post-image" alt="The-Barista-League-Warsaw-2024-00029" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Barista-League-Warsaw-2024-00029-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Barista-League-Warsaw-2024-00029-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Barista-League-Warsaw-2024-00029-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Barista-League-Warsaw-2024-00029-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Barista-League-Warsaw-2024-00029.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Now 10 years old, The Barista League event series is refining its international focus with six events planned for six different global regions. Scaling back from 2024&#8217;s slate of 12... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Barista-League-Warsaw-2024-00029-620x413.jpg" class="attachment-large size-large wp-post-image" alt="The-Barista-League-Warsaw-2024-00029" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Barista-League-Warsaw-2024-00029-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Barista-League-Warsaw-2024-00029-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Barista-League-Warsaw-2024-00029-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Barista-League-Warsaw-2024-00029-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Barista-League-Warsaw-2024-00029.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Now 10 years old, The Barista League event series is refining its international focus with six events planned for six different global regions. Scaling back from 2024&#8217;s slate of 12... 
 
 <br> 
 
@@ -225,7 +381,7 @@ date: 2025-01-06, from: Daily Coffee News
 
 date: 2025-01-06, from: Daily Coffee News
 
-<div><img width="620" height="416" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/black-coffee-1-620x416.jpg" class="attachment-large size-large wp-post-image" alt="black coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/black-coffee-1-620x416.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/black-coffee-1-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/black-coffee-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/black-coffee-1-768x515.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/black-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The United States Food and Drug Administration (FDA) is updating its rules regarding the use of the term &#8220;healthy&#8221; in food product labeling and content claims. The revised rule, scheduled... 
+<div><img width="620" height="416" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/black-coffee-1-620x416.jpg" class="attachment-large size-large wp-post-image" alt="black coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/black-coffee-1-620x416.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/black-coffee-1-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/black-coffee-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/black-coffee-1-768x515.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/black-coffee-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The United States Food and Drug Administration (FDA) is updating its rules regarding the use of the term &#8220;healthy&#8221; in food product labeling and content claims. The revised rule, scheduled... 
 
 <br> 
 

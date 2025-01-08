@@ -1,11 +1,95 @@
 ---
 title: health
-updated: 2025-01-07 07:04:04
+updated: 2025-01-08 07:05:56
 ---
 
 # health
 
-(date: 2025-01-07 07:04:04)
+(date: 2025-01-08 07:05:56)
+
+---
+
+## Exosomes derived from syncytia induced by SARS-2-S promote the proliferation and metastasis of hepatocellular carcinoma cells
+
+date: 2025-01-08, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionCoronavirus disease 2019 (COVID-19) is characterized by fever, fatigue, dry cough, dyspnea, mild pneumonia and acute lung injury (ALI), which can lead to acute respiratory distress syndrome (ARDS), and SARS-CoV-2 can accelerate tumor progression. However, the molecular mechanism for the increased mortality in cancer patients infected with COVID-19 is unclear.MethodsColony formation and wound healing assays were performed on Huh-7 cells cocultured with syncytia. Exosomes were purified from the cell supernatant and verified by nanoparticle tracking analysis (NTA), Western blot (WB) analysis and scanning electron microscopy (SEM). Differentially expressed proteins in syncytia-derived exosomes (Syn-Exos) and their functions was analyzed by Proteomic sequencing. Syn-Exo-mediated promotion of hepatocellular carcinoma cells was measured by CCK-8 and Transwell migration assays. The mechanism by which Syn-Exos promote tumor growth was analyzed by Western blotting. A patient-derived xenotransplantation (PDX) mouse model was constructed to evaluate the pathological role of the SARS-CoV-2 spike protein (SARS-2-S). The number of syncytia in the tumor tissue sections was determined by immunofluorescence analysis.ResultsSyncytium formation promoted the proliferation and migration of hepatocellular carcinoma cells. Proteomic sequencing revealed that proteins that regulate cell proliferation and metastasis in Syn-Exos were significantly upregulated. Syn-Exos promote the proliferation and migration of hepatocellular carcinoma cells. Animal experiments showed that a pseudotyped lentivirus bearing SARS-2-S (SARS-2-Spp) promoted tumor development in PDX mice. More syncytia were found in tumor tissue from SARS-2-Spp mice than from VSV-Gpp mice.ConclusionsSyn-Exos induced by SARS-2-S can promote the proliferation and metastasis of hepatocellular carcinoma cells. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1415356>
+
+---
+
+## Interpretable machine learning-based prediction of 28-day mortality in ICU patients with sepsis: a multicenter retrospective study
+
+date: 2025-01-08, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundSepsis is a major cause of mortality in intensive care units (ICUs) and continues to pose a significant global health challenge, with sepsis-related deaths contributing substantially to the overall burden on healthcare systems worldwide. The primary objective was to construct and evaluate a machine learning (ML) model for forecasting 28-day all-cause mortality among ICU sepsis patients.MethodsData for the study was sourced from the eICU Collaborative Research Database (eICU-CRD) (version 2.0). The main outcome was 28-day all-cause mortality. Predictor selection for the final model was conducted using the least absolute shrinkage and selection operator (LASSO) regression analysis and the Boruta feature selection algorithm. Five machine learning algorithms including logistic regression (LR), decision tree (DT), extreme gradient boosting (XGBoost), support vector machine (SVM), and light gradient boosting machine (lightGBM) were employed to construct models using 10-fold cross-validation. Model performance was evaluated using AUC, accuracy, sensitivity, specificity, recall, and F1 score. Additionally, we performed an interpretability analysis on the model that showed the most stable performance.ResultsThe final study cohort comprised 4564 patients, among whom 568 (12.4%) died within 28 days of ICU admission. The XGBoost algorithm demonstrated the most reliable performance, achieving an AUC of 0.821, balancing sensitivity (0.703) and specificity (0.798). The top three risk predictors of mortality included APACHE score, serum lactate levels, and AST.ConclusionML models reliably predicted 28-day mortality in critically ill sepsis patients. Of the models evaluated, the XGBoost algorithm exhibited the most stable performance in identifying patients at elevated mortality risk. Model interpretability analysis identified crucial predictors, potentially informing clinical decisions for sepsis patients in the ICU. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1500326>
+
+---
+
+## Ectophoma salviniae sp. nov., Neottiosporina mihintaleensis sp. nov. and four other endophytes associated with aquatic plants from Sri Lanka and their extracellular enzymatic potential
+
+date: 2025-01-08, from: Frontiers in Cellular and Infection Microbiology
+
+Endophytic fungi associated with selected aquatic plants, Eichhornia crassipes, Nymphaea nouchali, Salvinia minima and S. molesta were evaluated. Ectophoma salviniae sp. nov. and Neottiosporina mihintaleensis sp. nov. are introduced as novel taxa from Salvinia spp. from Sri Lanka. Chaetomella raphigera is reported as a new geographical record, Colletotrichum siamense and C. truncatum are reported as novel host records in aquatic plants, while Phyllosticta capitalensis has been identified on the same host (Nymphaea nouchali) in the North-Central Province of Sri Lanka. Identification of the fungi was based on morphological characteristics and multi-locus phylogenetic analyses using ITS, LSU, SSU, ACT, CHS-1, GAPDH, tub2, rpb2, and tef1-α molecular markers. The identified fungi were analysed for extracellular enzymatic properties. According to the qualitative analysis, Ectophoma salviniae sp. nov. exhibited the highest amylase production, Chaetomella raphigera exhibited the highest cellulase enzyme production, and Neottiosporina mihintaleensis sp. nov. exhibited the highest laccase production. The results demonstrate the aquatic fungal diversity in this region and their extracellular enzymatic potentials, providing valuable insights for future biotechnological approaches. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1475114>
+
+---
+
+## Genetic insights into MIS-C Post-COVID-19 in Kuwaiti children: investigating monogenic factors
+
+date: 2025-01-08, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundMultisystem inflammatory syndrome in children (MIS-C) is a severe complication arising from SARS-CoV-2 infection, with indications that rare inborn errors of immunity may play a role in its pathogenesis. Recent studies suggest that genetic predispositions, particularly monogenic forms, could significantly influence the immune responses to SARS-CoV-2 in MIS-C.MethodsWe analysed 24 children under 12 years old, all of whom met the criteria provided by the World Health Organization, 2020 for MIS-C diagnosis, from the Paediatric COVID-19 Registry in Kuwait (PCR-Q8). Demographic and clinical data were collected from medical records, and exome sequencing was performed on the children and their parents to identify rare exonic variants. These variants were prioritized using two approaches: a candidate genes approach employing trio segregation analysis, and a candidate variants approach using a gene panel informed by previous studies on MIS-C-related genetic variants and datasets of differentially expressed genes in MIS-C patients.ResultsThe candidate genes approach identified 53 unique genes in 20 of the 24 probands, including DDX60 and TMEM154, which were also differentially expressed between MIS-C and control groups. The candidate variants approach identified 33 rare, predicted deleterious heterozygous variants across 19 unique genes in 19 of the 24 probands, including both previously described and novel candidate variants for MIS-C. Pathway analysis of the identified genes from both approaches revealed significant involvement in immune response, viral defence, and inflammatory pathways.ConclusionThis study underscores the monogenic susceptibility to MIS-C, enhancing the evidence base through comprehensive genetic analysis. The findings highlight the critical role of genetic predispositions in MIS-C and suggest that further functional genomics work is necessary to explore the mechanistic contributions of these genes, facilitating the development of targeted diagnostic strategies. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1444216>
+
+---
+
+## Single-nucleotide polymorphisms in genes associated with the vitamin D pathway related to clinical and therapeutic outcomes of American tegumentary leishmaniasis
+
+date: 2025-01-08, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe vitamin D pathway contributes to the microbicidal activity of macrophages against Leishmania infection. In addition to induction of this pathway, interferon-gamma (IFNγ), interleukin (IL)-15, and IL32γ are part of a network of pro-inflammatory cytokines. The aim of this study was to evaluate single-nucleotide polymorphisms (SNPs) in the components of the vitamin D pathway and associated cytokine genes that could be related to resistance or susceptibility to American tegumentary leishmaniasis (ATL).MethodsThe expressions of IFNG, IL15, IL32, CYP27B1, VDR, and other pro-inflammatory cytokines TNF, IL6, and IL17 genes were evaluated using real-time polymerase chain reaction (qPCR) in lesions of patients with localized cutaneous leishmaniasis (LCL) or mucosal leishmaniasis (ML). SNP genotypes/alleles (in IL15, IL32, CYP27B1, and VDR) were evaluated by TaqMan PCR assays using DNA from the blood of patients and healthy individuals. Serum vitamin D levels were determined by chemiluminescence.ResultsVitamin D pathway-associated genes were expressed in cutaneous as well as mucosal lesions. IFNG, IL6, and IL17 were more highly expressed in ML than in LCL. In contrast, IL32γ/CYP27B1/VDR mRNAs were mainly correlated in LCL, and IL32γ in ML makes strong connections with all cytokines. The SNP IL32 rs1555001 was less frequent in patients with ML. In addition, some SNPs appear to influence the VDR and CYP27B1 (IL15 rs10519613 and IL15 rs3775597) and IL6 (VDR rs7975232) expressions in LCL and the IL17 expression in ML (IL15 rs3775597). Gene expression was also correlated with clinical parameters, such as number of lesions (CYP27B1 mRNA) and treatment failure (VDR mRNA). In addition, one SNP was associated with treatment failure in ML (VDR rs7975232).ConclusionsOur findings suggested that some SNPs in the vitamin D pathway-associated genes can be related to resistance and therapeutic outcomes of ATL. They are promising candidates that need to be further evaluated to understand their biological effects in the control or immunopathogenesis of ATL. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1487255>
+
+---
+
+## Application of metagenomic next-generation sequencing in the diagnosis of post-stroke infections: a case series study using multiple sample types
+
+date: 2025-01-08, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundMetagenomic high-throughput sequencing (mNGS) represents a powerful tool for detecting nucleic acids from various pathogens, such as bacteria, fungi, viruses and parasites, in clinical samples. Despite its extensively employed in the pathogen diagnosis for various infectious diseases, its application in diagnosing stroke-related infection, and its potential impact on clinical decision-making, anti-infection treatment, clinical intervention, and patient prognosis remain insufficiently explored. Additionally, while mNGS offers promising potential, it facts limitations related to sensitivity, specificity, cost, and standardization, which could influence its integration into routine clinical practice.MethodsWe retrospectively analyzed 18 stroke patients admitted to the First Affiliated Hospital of Medical College of Shantou University from January to February 2023, comparing culture-based methods with mNGS detection, and assessing its significance in etiological diagnosis. Additionally, we evaluated the performance differences among various sequencing platforms.ResultsAmong the 18 stroke patients enrolled, pulmonary infections were identified in 7 cases, urinary tract infections in 1 case, central nervous system infections in 10 cases, and combined pulmonary and central nervous system infections in 2 cases, with 2 cases yielding negative results. mNGS detected pathogens in 13 cases, aligning with clinical diagnoses (75% concordance), whereas culture-based methods yielded positive results in only 6 cases (22% concordance). Importantly, for 9 of the 18 patients, adjustments to anti-infective treatment regimens based on mNGS results led to improved symptomatic relief and infection control. This suggests that mNGS can contribute to more timely and precise treatment modifications, particularly for infections with low pathogen loads, potentially enhancing clinical outcomes.ConclusionOur findings highlights the utility of mNGS in diagnosing stroke-associated infections by providing a more comprehensive etiological diagnosis compared to traditional method. While mNGS shows promise in enhancing diagnostic accuracy and guiding clinical treatment, it high cost and technical challenges need addressing before widespread clinical adoption. Future research should focus on optimizing mNGS protocols, integration it with convertional diagnostic tools, and evaluating its cost-effectiveness and clinical impact through larger, multicentric studies. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1386377>
+
+---
+
+## Dynamics of coagulation proteins upon ICU admission and after one year of recovery from COVID-19: a preliminary study
+
+date: 2025-01-08, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectivesThis study aimed to investigate the association of baseline coagulation proteins with hospitalization variables in COVID-19 patients admitted to ICU, as well as coagulation system changes after one-year post-discharge, taking into account gender-specific bias in the coagulation profile.MethodsWe conducted a prospective longitudinal study on 49 ICU-admitted COVID-19 patients. Proteins were measured using a Luminex 200™. The association between coagulation protein levels and hospitalization variables was carried out by generalized linear models adjusted by the most relevant covariates.ResultsAt ICU admission, lower factor XII, antithrombin, and protein C levels were linked to the need for invasive mechanical ventilation (IMV) or its duration (p=0.028; p=0.047 and p=0.015, respectively). Likewise, lower factor XII, antithrombin, and prothrombin levels were associated with longer ICU length of stay (ICU LOS) (p=0.045; p=0.022; p=0.036, respectively). From baseline to the end of the follow-up, factor XII, antithrombin, prothrombin, and protein C levels notably increased in patients with longer ICU LOS. One-year post-discharge, differences were found for factor IX, aPTT, and INR. Gender-stratified analysis showed sustained alterations in males.ConclusionsDepleted specific coagulation factors on ICU admission are associated with increased severity in critically ill COVID-19 patients. Most coagulation alterations recover one-year post-discharge, except for factor IX, aPTT and INR, which remain reduced. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1489936>
 
 ---
 

@@ -1,11 +1,391 @@
 ---
 title: going electric
-updated: 2025-01-07 07:04:05
+updated: 2025-01-08 07:05:56
 ---
 
 # going electric
 
-(date: 2025-01-07 07:04:05)
+(date: 2025-01-08 07:05:56)
+
+---
+
+## Zeekr Teases Electric Station Wagon, Stuns Us All
+
+date: 2025-01-08, from: Inside EVs News
+
+The Zeekr 7GT is an electric station wagon based on the pretty-good 007 sedan. Could it be Europe-bound? 
+
+<br> 
+
+<https://insideevs.com/news/746527/zeekr-7gt-007-sedan-wagon/>
+
+---
+
+## The Skoda Enyaq Facelift Brings More Range
+
+date: 2025-01-08, from: Inside EVs News
+
+The Volkswagen ID.4’s Czech cousin gets a mid-life refresh. 
+
+<br> 
+
+<https://insideevs.com/news/746604/skoda-enyaq-facelift-2025/>
+
+---
+
+## Tesla Is Being Investigated In The U.S. Over Cheekily-Named ‘ASS’ Feature
+
+date: 2025-01-08, from: Inside EVs News
+
+The remote driving feature allows owners to fetch their vehicles from a parking lot without anyone sitting in the driver’s seat. 
+
+<br> 
+
+<https://insideevs.com/news/746562/nhtsa-tesla-probe-actual-smart-summon/>
+
+---
+
+## Volkswagen EVs Will Get Tesla Supercharger Access This Summer
+
+date: 2025-01-08, from: Inside EVs News
+
+The German automaker is waiting for the official charging adapter to become available. 
+
+<br> 
+
+<https://insideevs.com/news/746531/volkswagen-ev-tesla-supercharger-2025/>
+
+---
+
+## New DOE report finds 90% of wind turbine materials are recyclable
+
+date: 2025-01-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/200118_nordex_N163_5_X_Raps_ohne_vordere_turbine_2252x1500_2_5_mb.jpg?quality=82&#038;strip=all&#038;w=1501" /></div><p>The US Department of Energy (DOE) has released an encouraging new report revealing that 90% of wind turbine materials are already recyclable using existing infrastructure, but tackling the remaining 10% needs innovation. </p>
+
+
+
+<p>That’s why the Biden administration’s Bipartisan Infrastructure Law has allocated over $20 million to develop technologies that address these challenges.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bipartisan-infrastructure-law,department-of-energy,egeb,energy-brief,solar,offshore-wind-power,president-biden,wind-power,wind-turbine" data-layer-viewtype="unknown" data-post-id="396818" href="https://electrek.co/2025/01/07/new-doe-report-90-percent-wind-turbine-materials-recyclable/#more-396818" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/07/new-doe-report-90-percent-wind-turbine-materials-recyclable/>
+
+---
+
+## Mazda finally reveals plans to build its first dedicated EV: Here’s what we know so far
+
+date: 2025-01-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Mazda-first-dedicted-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/mazda/">Mazda</a> is finally stepping up with plans to build its first dedicated EV. The upcoming Mazda EV will be made in Japan and based on a new in-house platform. Here’s what we know about it so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mazda" data-layer-viewtype="unknown" data-post-id="396854" href="https://electrek.co/2025/01/07/mazda-finally-reveals-plans-build-first-dedicated-ev/#more-396854" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/07/mazda-finally-reveals-plans-build-first-dedicated-ev/>
+
+---
+
+## Mazda Is Building A Battery Plant In Japan To Supply Its Future EVs
+
+date: 2025-01-07, from: Inside EVs News
+
+The carmaker will enlist Panasonic as its partner to develop EV batteries. 
+
+<br> 
+
+<https://insideevs.com/news/746489/mazda-battery-plant-japan-evs/>
+
+---
+
+## Ohio’s largest solar farm just came online
+
+date: 2025-01-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Fox_Squirrel-solar-EDF-ohio.jpg_download1_gl1_1w3gvqe__gcl_au_MTk4Mzg5MzUwMC4xNzMxNTQyMTMx__ga_ODg5NTk2NDk4LjE2OTgxNzk3NTI.__ga_ZQWF70T3FK_MTczNjI3ODU4Ny4xMjYuMS4xNzM2Mjc4NjEzLjM0LjAuMA.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>The largest solar farm in Ohio, Fox Squirrel Solar, is now fully online and delivering clean electricity to the PJM grid.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,ohio,solar-power" data-layer-viewtype="unknown" data-post-id="344379" href="https://electrek.co/2025/01/07/ohio-largest-solar-farm-just-came-online/#more-344379" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/07/ohio-largest-solar-farm-just-came-online/>
+
+---
+
+## Why is Jeep’s new Recon electric SUV sneaking around GM headquarters? [Image]
+
+date: 2025-01-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Jeep-Recon-EV-GM.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It looks like GM is preparing for a new rival electric SUV to arrive in the US. <a href="https://electrek.co/guides/jeep/">Jeep’s</a> upcoming Recon EV was just caught outside GM’s Detroit headquarters. What’s going on?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-jeep,jeep" data-layer-viewtype="unknown" data-post-id="396828" href="https://electrek.co/2025/01/07/jeep-recon-ev-caught-sneaking-around-gm-headquarters-image/#more-396828" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/07/jeep-recon-ev-caught-sneaking-around-gm-headquarters-image/>
+
+---
+
+## Toyota Prius Prime And Prius Plug-In Hybrid: The Used Buyer's Guide
+
+date: 2025-01-07, from: Inside EVs News
+
+Interested in a used plug-in Prime? Here's what you need to know. 
+
+<br> 
+
+<https://insideevs.com/news/746324/toyota-prius-prime-used-buying-guide/>
+
+---
+
+## Pininfarina and AC Future unveil first products for the market, including a ‘Transformer Home Drivable’ [Video]
+
+date: 2025-01-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/AC-Future-Product-Lineup-CES-2025.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Italian design firm Pininfarina and sustainable living solutions developer AC Future have expanded on an existing partnership and delivered an exciting debut at <a href="https://electrek.co/guides/ces/">CES</a> for a second consecutive year. Designed by Pininfarina, AC Future has unveiled three initial products it intends to bring to market, including “AI Transformer Home Unit,” “AI Transformer Home Trailer,” and “AI Transformer Home Drivable.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ac-future,ces,electric-rv,hydra-labs,pininfarina" data-layer-viewtype="unknown" data-post-id="396768" href="https://electrek.co/2025/01/07/pininfarina-ac-future-unveil-first-products-transformer-home-drivable/#more-396768" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/07/pininfarina-ac-future-unveil-first-products-transformer-home-drivable/>
+
+---
+
+## Aptera shows its production-intent solar EV at CES, ships this year(?)
+
+date: 2025-01-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/0C0A9262-2048x1366-1-e1736278581176.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Aptera has publicly unveiled the production-intent version of its long-awaited solar EV, which it says will start deliveries by the end of this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aptera,solar-electric-vehicles" data-layer-viewtype="unknown" data-post-id="396810" href="https://electrek.co/2025/01/07/aptera-shows-its-production-intent-solar-ev-at-ces-ships-this-year/#more-396810" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/07/aptera-shows-its-production-intent-solar-ev-at-ces-ships-this-year/>
+
+---
+
+## Tesla US sales dropped by as much as 5% despite record incentives and Cybertruck
+
+date: 2025-01-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/Toyota-Tesla-Cybertruck.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new estimate put Tesla’s US sales down by 5% in 2024 compared to the prior year despite the automaker offering record discounts, incentives, and the addition of the Cybertruck to its lineup.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="396771" href="https://electrek.co/2025/01/07/tesla-us-sales-dropped-by-as-much-as-5-despite-record-incentives-and-cybertruck/#more-396771" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/07/tesla-us-sales-dropped-by-as-much-as-5-despite-record-incentives-and-cybertruck/>
+
+---
+
+## CES2025 | new Honda 0 EV models inch closer to production
+
+date: 2025-01-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/01-Honda-0-Saloon-Honda-0-SUV-copy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Honda kicked off the 2025 Consumer Electronics Show (CES) in high style today with the global debut of the first two models in its new 0 Series of EVs set to roll off the line in 2026 – along with your newest road trip buddy: <strong>ASIMO</strong> (!).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ces,honda,honda-0,ionna" data-layer-viewtype="unknown" data-post-id="396637" href="https://electrek.co/2025/01/07/ces2025-new-honda-0-ev-models-inch-closer-to-production/#more-396637" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/07/ces2025-new-honda-0-ev-models-inch-closer-to-production/>
+
+---
+
+## Honda 0 Series EVs Move Closer To Production With New Saloon, SUV Concepts
+
+date: 2025-01-07, from: Inside EVs News
+
+The Honda 0 Saloon gets a makeover, and the 0 SUV comes onto the scene as a preview of Honda's Ohio-made EV crossover. 
+
+<br> 
+
+<https://insideevs.com/news/746341/honda-0-series-concept-production/>
+
+---
+
+## Honda Asimo OS: A Robot Legend Is Reborn To Power New EVs
+
+date: 2025-01-07, from: Inside EVs News
+
+The Asimo name returns as an original vehicle operating system developed in-house by Honda, set for use in the new 0 Series EVs. 
+
+<br> 
+
+<https://insideevs.com/news/746335/honda-asimo-os-ces-2025/>
+
+---
+
+## Segway launches new Xyber and Xafari e-bikes at $200 off, Worx robot mowers at new lows, Jackery Explorer 100 Plus $89, SKIL, more
+
+date: 2025-01-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Segway-e-bike-xafari-xyber-side-by-side.png?w=1440" /></div><p>We’ve got a special preorder discount leading today’s Green Deals, with Segway officially launching its <a href="https://9to5toys.com/2025/01/07/segway-xyber-and-xafari-e-bikes-open-for-preorder/">Xyber and Xafari e-bikes</a> at CES 2025 with a $200 off early-bird discount. Segway’s new e-bikes come packed with some truly impressive capabilities and AI-supported features, with prices starting from <a href="https://9to5toys.com/2025/01/07/segway-xyber-and-xafari-e-bikes-open-for-preorder/">$2,200</a>. Coming up right behind is the <a href="https://9to5toys.com/2025/01/07/worx-landroid-robot-mowers-from-478/">Worx Landroid S 20V and M 20V</a> Robot Lawn Mowers that are down at new low prices from <a href="https://9to5toys.com/2025/01/07/worx-landroid-robot-mowers-from-478/">$478.50</a>. Jackery has a few power stations matching or beating its current New Years sale, with the compact <a href="https://9to5toys.com/2025/01/07/jackery-explorer-100-plus-89-low-2/">Explorer 100 Plus</a> Portable Power Station that fits in your hand returning to its <a href="https://9to5toys.com/2025/01/07/jackery-explorer-100-plus-89-low-2/">$89</a> low. Lastly, we have a great budget-friendly option for homeowners with <a href="https://9to5toys.com/2025/01/06/skil-40v-20-inch-snow-blower-new-198-low/">SKIL’s PWR CORE 40V 20-inch Single-Stage Snow Blower</a> falling to a new <a href="https://9to5toys.com/2025/01/06/skil-40v-20-inch-snow-blower-new-198-low/">$198</a> low. Plus, all the other hangover Green Deals can be found in the links at the bottom of the page, like yesterday’s New Year savings from <a href="https://9to5toys.com/2025/01/03/bluetti-new-year-ac180-new-455-low/">Bluetti</a>, <a href="https://9to5toys.com/2025/01/06/mod-easy-sidecar-sahara-e-bike-3499-low/">MOD Bikes</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="396796" href="https://electrek.co/2025/01/07/segway-e-bikes-200-off-worx-robot-mowers-jackery-skil-more/#more-396796" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/07/segway-e-bikes-200-off-worx-robot-mowers-jackery-skil-more/>
+
+---
+
+## CATL powers a third of the world’s EVs and now it’s facing a US blacklisting
+
+date: 2025-01-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/CATL-supplier-funding.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The world’s largest EV battery maker was designated as a “Chinese Military Company” on Monday by the US Defense Department. <a href="https://electrek.co/guides/catl/">CATL</a>, which supplies EV batteries to Tesla, BMW, Ford, Volkswagen, Toyota, Nissan, Honda, and many others, is now on the US blacklist. Here’s what that means.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="catl" data-layer-viewtype="unknown" data-post-id="396765" href="https://electrek.co/2025/01/07/catl-powers-a-third-of-worlds-evs-now-on-us-blacklist/#more-396765" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/07/catl-powers-a-third-of-worlds-evs-now-on-us-blacklist/>
+
+---
+
+## Heybike ALPHA unveiled as new reasonably-priced mid-drive electric bike
+
+date: 2025-01-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/heybike-alpha-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://shrsl.com/4shke">Heybike</a> is well-known as an entry-level electric bike brand, so what is this company doing building a mid-drive e-bike that is leaps and bounds above anything they’ve produced before? That’s exactly what I wanted to find out – and why I decided to become the first to ride this newly introduced e-bike.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,review" data-layer-viewtype="unknown" data-post-id="396381" href="https://electrek.co/2025/01/07/heybike-alpha-unveiled-as-new-reasonably-priced-mid-drive-electric-bike/#more-396381" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/07/heybike-alpha-unveiled-as-new-reasonably-priced-mid-drive-electric-bike/>
+
+---
+
+## EVs And PHEVs Accounted For Nearly Half Of Volvo's Global Sales In 2024
+
+date: 2025-01-07, from: Inside EVs News
+
+The automaker’s U.S. EV sales dropped sharply, but PHEV sales increased by nearly 70%. 
+
+<br> 
+
+<https://insideevs.com/news/746466/volvo-ev-phev-us-global-sales-2024/>
+
+---
+
+## Toyota Exec: 'We Are Aware' Of Negative bZ4X Feedback
+
+date: 2025-01-07, from: Inside EVs News
+
+But Toyota's working on it, too, as it develops next-generation EVs in the U.S.—and hybrids as well. 
+
+<br> 
+
+<https://insideevs.com/news/746469/toyota-ces-bz4x-ogawa/>
+
+---
+
+## BMW’s New Panoramic iDrive Adds More Screens, But With A Twist
+
+date: 2025-01-07, from: Inside EVs News
+
+I checked out BMW’s new Panoramic Vision display which will be featured in the upcoming Neue Klasse models. Is it a game-changer? 
+
+<br> 
+
+<https://insideevs.com/news/746351/bmw-panoramic-idrive-vision-more-screens/>
+
+---
+
+## ZEEKR to deliver multiple EVs in 2025 with NVIDIA Thor tech, including a US model for Waymo
+
+date: 2025-01-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/11/ZEEKR-EV-Waymo-concept-front-side.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chinese EV Automaker ZEEKR is marking its third consecutive presence on the display floors of CES. During this year’s event, <a href="https://electrek.co/guides/zeekr/">ZEEKR </a>began teasing at least three new models scheduled to launch in 2025, some of which will feature an NVIDIA DRIVE Thor-based smart driver domain controller. In addition to those codenamed models, ZEEKR is also planning to launch another NVIDIA DRIVE Thor-equipped EV called “RT” in the US to be used by robotaxi developer Waymo.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nvidia,waymo,zeekr" data-layer-viewtype="unknown" data-post-id="396726" href="https://electrek.co/2025/01/07/zeekr-multiple-evs-2025-nvidia-thor-tech-us-model-waymo/#more-396726" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/07/zeekr-multiple-evs-2025-nvidia-thor-tech-us-model-waymo/>
+
+---
+
+## Hyundai is selling vehicles on Amazon? ‘You’re gonna need a bigger cart’
+
+date: 2025-01-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Hyundai-US-made-IONIQ-5-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>How about a new EV with your next Amazon order? As the first brand to sell vehicles on Amazon, <a href="https://electrek.co/guides/hyundai/">Hyundai</a> says, “You’re gonna need a bigger cart.” Hyundai is now selling cars directly on Amazon, including popular EVs like the IONIQ 5. Here’s how you can snag one.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="amazon,hyundai" data-layer-viewtype="unknown" data-post-id="396724" href="https://electrek.co/2025/01/07/hyundai-selling-evs-on-amazon-youre-gonna-need-a-bigger-cart/#more-396724" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/07/hyundai-selling-evs-on-amazon-youre-gonna-need-a-bigger-cart/>
+
+---
+
+## Tesla is under investigation for ‘Actually Smart Summon’ crashes
+
+date: 2025-01-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Actually-Smart-Summon-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is under investigation by NHTSA over reported crashes involving ‘Actually Smart Summon’, Tesla’s driverless system for parking lots.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="396725" href="https://electrek.co/2025/01/07/tesla-is-under-investigation-for-actually-smart-summon-crashes/#more-396725" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/07/tesla-is-under-investigation-for-actually-smart-summon-crashes/>
+
+---
+
+## Lucid (LCID) Gravity SUV will use new Panasonic EV batteries to unlock +450 miles range
+
+date: 2025-01-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Lucid-Gravity-EV-batteries.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lucid (LCID) confirmed that its new <a href="https://electrek.co/guides/lucid-gravity/">Gravity SUV</a> will provide up to 450 miles of EPA-estimated driving range. Powered by Panasonic’s high-performance EV batteries, Lucid promises the Gravity is “a groundbreaking new class of SUV.” Here’s what you need to know about Lucid’s new EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-gravity,lucid-motors,panasonic" data-layer-viewtype="unknown" data-post-id="396712" href="https://electrek.co/2025/01/07/lucid-lcid-gravity-suv-new-ev-batteries-450-miles-range/#more-396712" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/07/lucid-lcid-gravity-suv-new-ev-batteries-450-miles-range/>
 
 ---
 

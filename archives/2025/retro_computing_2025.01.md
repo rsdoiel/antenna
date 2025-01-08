@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-01-07 07:04:04
+updated: 2025-01-08 07:05:56
 ---
 
 # retro computing
 
-(date: 2025-01-07 07:04:04)
+(date: 2025-01-08 07:05:56)
+
+---
+
+## Firefox 134 Offers Improvements for Linux Version
+
+date: 2025-01-07, from: Linux Magazine
+
+<p>Fans of Linux and Firefox rejoice, as there's a new version available that includes some handy updates.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Firefox-134-Offers-Improvements-for-Linux-Version>
+
+---
+
+## Serpent OS Arrives with a New Alpha Release
+
+date: 2025-01-07, from: Linux Magazine
+
+<p>After months of silence, Ikey Doherty has released a new alpha for his Serpent OS.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Serpent-OS-Arrives-with-a-New-Alpha-Release>
 
 ---
 

@@ -1,11 +1,449 @@
 ---
 title: columns
-updated: 2025-01-07 07:04:02
+updated: 2025-01-08 07:05:54
 ---
 
 # columns
 
-(date: 2025-01-07 07:04:02)
+(date: 2025-01-08 07:05:54)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-08, from: Dave Winer's Scripting News)
+
+<a href="http://scripting.com/2023/07/13/115050.html">2023</a>: "If they really want to prove their love for the open web, if they aren't just trying to lull us to sleep while they steal yet another market from the open web, they should do something that helps the web more than it helps them." 
+
+<br> 
+
+<http://scripting.com/2025/01/08.html#a145047>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-08, from: Dave Winer's Scripting News)
+
+<a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lfad2dznnk2e">Liberals should support</a> truly open technology that doesn't have a Zuckerberg who can sell us all out. Get involved. 
+
+<br> 
+
+<http://scripting.com/2025/01/08.html#a144823>
+
+---
+
+##  Study: More Americans Buying Firearms To Defend Selves From Toddlers Who Found... 
+
+date: 2025-01-08, updated: 2025-01-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045978-study-more-americans-buyi>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-01-08, from: Miguel de Icaza Mastondon feed)
+
+<p>New source of UI inspiration.  This is a magnificent app, a mobile 3D model designer (a pocket blender kind of app).</p><p>Gorgeous, highly polished, mobile-centric.  A great companion for Godot on iPad:</p><p><a href="https://valence3d.app" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">valence3d.app</span><span class="invisible"></span></a></p><p>Files another dozen bugs on things they do wonderfully.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113792693896682244>
+
+---
+
+## Just when you thought terminal emulators couldn't get any better, Ghostty ships
+
+date: 2025-01-08, updated: 2025-01-08, from: Liam Proven's articles at the Register
+
+<h4>HashiCorp co-founder&#39;s side project reaches 1.0 – er, 1.0.1</h4>
+      <p>Ghostty is more interesting than it sounds, for several reasons: who wrote it, what it does, and the language it was written in are all more unusual than the ostensibly simple task it performs.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/01/08/ghostty_1/>
+
+---
+
+## Office Hours: Should we worry that Zuckerberg is opening his platforms to vicious lies?
+
+date: 2025-01-08, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-should-we-worry-that>
+
+---
+
+## January 7, 2025 
+
+date: 2025-01-08, from: Heather Cox Richardson blog
+
+Today, President Joe Biden signed proclamations that create the Chuckwalla National Monument and the S&#225;tt&#237;tla Highlands National Monument, protecting 848,000 acres (about 3,430 square kilometers) of land in southern California&#8217;s Eastern Coachella Valley. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-7-2025>
+
+---
+
+## On the Palisades and Eaton Fires
+
+date: 2025-01-08, from: Doc Searls (at Harvard), New Old Blog
+
+We&#8217;re watching KABC/7 from Los Angeles, live on our Roku TV (which has it among hundreds of &#8220;Live TV&#8221; channels), and in a browser on this laptop. One screen grab: Fire.ca.gov has much information, and maps. Here&#8217;s one for the Palisades fire: Winds are so strong that there is no fire fighting on the front [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/01/07/on-the-palisades-and-eaton-fires/>
+
+---
+
+## Also From the Archive: ‘“Beta” Is Not an Excuse’
+
+date: 2025-01-08, updated: 2025-01-08, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/2006/11/beta_excuse>
+
+---
+
+## From the DF Archive: ‘Life as a Facebook Moderator’
+
+date: 2025-01-08, updated: 2025-01-08, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/2019/03/life_as_a_facebook_moderator>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-01-08, from: Miguel de Icaza Mastondon feed)
+
+<p>I still remember my youthful days from three months ago when I thought &quot;only some 40 bugs left to put in the App Store&quot;.</p><p>The count has remained around 200 open bugs with over 6-7 fixed per day for November/December.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113790134083828056>
+
+---
+
+## Wednesday 8 January, 2025
+
+date: 2025-01-08, from: John Naughton's online diary
+
+Window art What a window-blind! Spotted on a walk through town after dusk the other night. Made my day. Quote of the Day ”It is easier to imagine the end of the world than the end of capitalism.” Frederic Jameson &#8230; <a href="https://memex.naughtons.org/wednesday-8-january-2025/40318/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-8-january-2025/40318/>
+
+---
+
+##  You&#8217;ll Never Get Off the Dinner Treadmill. &#8220;It&#8217;s not just the cooking... 
+
+date: 2025-01-08, updated: 2025-01-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045979-youll-never-get-off-the>
+
+---
+
+##  How to Make the World&#8217;s Rarest Pasta 
+
+date: 2025-01-07, updated: 2025-01-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/how-to-make-the-worlds-rarest-pasta>
+
+---
+
+## Dude, You’re Getting a Dell Pro Max Premium Plus
+
+date: 2025-01-07, updated: 2025-01-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/2025/1/6/24325799/dell-pro-max-premium-plus-ces-laptop-pc-rebrand-announcement>
+
+---
+
+## ★ After Years of Moderation-Heavy Zagging, Zuckerberg Announces That Meta Is Going Back to Moderation-Light Zigging Across Its Platforms
+
+date: 2025-01-07, updated: 2025-01-08, from: Daring Fireball
+
+Don’t get distracted by blather. Let’s see what happens. 
+
+<br> 
+
+<https://daringfireball.net/2025/01/meta_zuck_content_moderation_zig_zag>
+
+---
+
+##  From MIT Technology Review, the 8 worst technology failures of 2024. Includes... 
+
+date: 2025-01-07, updated: 2025-01-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045965-from-mit-technology-revie>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-01-07, from: Jessica Smith's blog)
+
+<p>Good morning. I have been awake since 4:20am, not for any fun reasons, but because Viv woke me to feed Indie and then he sat there for the next hour completing a form that had to be done by 9:30am today. I have to do this form too, but thanks to the genius computer system involved, I was not allowed to start until Viv had completed his copy. Anyway, at least Le Pen senior is dead, that&rsquo;s some good news.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/01/up-since-4-20.html>
+
+---
+
+##  Features of Adulthood 
+
+date: 2025-01-07, updated: 2025-01-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/features-of-adulthood>
+
+---
+
+## January 6, 2024
+
+date: 2025-01-07, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154350433/1bb5553d611446b756ec3f542f59ab00.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154350433/1bb5553d611446b756ec3f542f59ab00.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-6-2024-779>
+
+---
+
+##  Exercise is &#8220;the single most potent medical intervention ever known&#8221;. &#8220;People sleep... 
+
+date: 2025-01-07, updated: 2025-01-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045967-exercise-is-the-single-mo>
+
+---
+
+##  The 2024 Architecture and Design Awards. There&#8217;s a children&#8217;s book museum in... 
+
+date: 2025-01-07, updated: 2025-01-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045973-the-2024-architecture-and>
+
+---
+
+##  HTML: the Most Significant Computing Language Ever Developed 
+
+date: 2025-01-07, updated: 2025-01-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/html-the-most-significant-computing-language-ever-developed>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-07, from: Dave Winer's Scripting News)
+
+I wish the Ecmascript committee had put more effort into real soul-saving enhancements like comments in JSON instead of coming up with contorted ways to do the same old contortions we got used to dealing with ten years ago. And they could have removed features from the language instead of piling on more and more random reinventions. End of editorial, now on with the new Bingeworthy. 
+
+<br> 
+
+<http://scripting.com/2025/01/07.html#a165102>
+
+---
+
+## The new Bingeworthy
+
+date: 2025-01-07, from: Dave Winer's Scripting News
+
+<p>Last night while watching a basketball game, checking my iPad, and all of a sudden new items started appearing in the <a href="https://tv.bingeworthy.org/rss.xml">RSS feed</a> for <a href="https://tv.bingeworthy.org/">the new Bingeworthy</a>. </p>
+<p>I thought oh geez there's some kind of bug, last thing I need now, but quickly realized <i>someone was using it</i> and <i>it was working. </i></p>
+<p>There were some final mostly cosmetic things I wanted to deal with first, and I wanted to fix up the <a href="https://this.how/bingeworthy/">docs</a>, such as they are, but I am spread too thin, and had been putting it off. But here was a reminder, I put all that effort to rebuilding it after the TwitterPocalypse. <a href="https://tv.bingeworthy.org/">BingeWorthy</a> is the app I missed the most that hadn't been ported off Twitter identity. So I did the deed, flipped the switch and now you can use it too. </p>
+<p>Here's what you're getting.</p>
+<ul>
+<li>I started fresh, with no programs, no users and no ratings. Then I imported the programs that I had rated, and my ratings for them.</li>
+<li>The most important features are there, although they don't necessarily look that great. I want to do some more work there. </li>
+<li>The predictive stuff, users most like you and recommendations, have not been ported, because there are only two users, and we recommend both of them to you. And all the programs I liked a lot are great, if you haven't watched them, you should, right now, stop everything.</li>
+<li>If you have any questions or problems, I've started a <a href="https://github.com/scripting/Scripting-News/issues/315">thread</a>. </li>
+</ul>
+<p>It uses WordPress for identity. I like this because it's the same identity service I'm using for <a href="https://this.how/wordland/">WordLand</a>, of course, and this makes it possible to use WordLand to write reviews of shows you like or don't like for <a href="https://tv.bingeworthy.org/">BingeWorthy</a>. It doesn't mean anyone has to read them. And I have ideas for how to use OpenAI to generate some interesting stuff from collections of reviews. All of this is just in my head, not even started to be implemented. But the idea of compatibility between the two creates some interesting possibilities, and I love those kinds of integrations, a lot like what we were doing in <a href="http://frontier.userland.com">Frontier</a> on the Mac in the 90s. </p>
+<p>BTW, of course I had ChatGPT do a logo. There's a slight typo, but rather than fix it, I left it there as something for attentive fans to find. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/01/07/bingeworthyLogoForScriptingNews.png"></center>The all-new logo for Bingeworthy, via ChatGPT of course. <span class="spOldSchoolEmoji">😄</span></div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/07/162200.html?title=theNewBingeworthy>
+
+---
+
+## Storage Roundup
+
+date: 2025-01-07, from: David Rosenthal's blog
+
+It is time for another roundup of topics in storage that have caught my eye recently. Below the fold I discuss the possible ending of the HAMR saga and various developments in archival storage technology.<br />
+<span><a name='more'></a></span>
+<br />
+<h3>Heat-Assisted Magnetic Recording</h3>
+Unless you have been tracking storage technology for many years, it is hard to appreciate how long the timescales are. My  go-to example for communicating this is Seagate's development of HAMR.<br />
+<br />
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMEtHjIgtxAHlXzy_DQUhs8BB0KgahIURfneVHh3b49Byhf-rd_j7Qf9_7aSbFmWjIArop5kBHWS95UuOMYFrA9hbiNoEyDGnJNb7MOjLGtqRGFHfe9jb7HfpcbAsMVNGyh_-meN9PY7LEz1C4vIzDQDynC6EhUX3PV8K0wJ55NZwt2Hmk187QRdN5_pyr/s730/DaveAnderson.png" style="clear: right; display: block; float: right; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="497" data-original-width="730" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMEtHjIgtxAHlXzy_DQUhs8BB0KgahIURfneVHh3b49Byhf-rd_j7Qf9_7aSbFmWjIArop5kBHWS95UuOMYFrA9hbiNoEyDGnJNb7MOjLGtqRGFHfe9jb7HfpcbAsMVNGyh_-meN9PY7LEz1C4vIzDQDynC6EhUX3PV8K0wJ55NZwt2Hmk187QRdN5_pyr/s200/DaveAnderson.png" width="200" /></a>
+Seagate first <a href="https://web.archive.org/web/20190813175046/https://www.seagate.com/news/news-archive/seagate-swings-increase-disc-drive-densities-master-pr/">demonstrated HAMR in 2002</a>. In 2008 they published this graph, predicting HAMR would supplant Perpendicular Magnetic Recording (PMR) starting in 2009.<br />
+<br />
+I first wrote skeptically about projections of HAMR's deployment <a href="https://blog.dshr.org/2012/12/talk-at-fall-2012-cni.html">twelve years ago</a>.
+Seagate had just demonstrated <a href="https://www.theregister.com/2012/03/20/seagate_terabit_areal_density/">HAMR at a terabit per square inch</a> and predicted market entry in 2014.<br />
+<br />
+I wrote again in <a href="https://blog.dshr.org/2013/07/dr-pangloss-and-road-maps.html">2013</a>. In <a href="https://blog.dshr.org/2015/10/storage-technology-roadmaps.html">2015</a> I wrote more about it. Then in <a href="https://blog.dshr.org/2016/03/dr-pangloss-loves-technology-roadmaps.html">2016</a> I wrote about it again.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEoC3JZfZ5X0tm_59NFBmmu-DKaY18ZxgKzNA7ogjbqPYtAZ5RwzgCn0BQmKY3XuRE3e-xIdhhTLtGRL-K4TEdARUqfvCmNCku_-aZajafbskRDNPfDlgWMGkFI7uzeRdECkPwbOvyytgn/s950/seagate_why_hamr_950.jpg" style="clear: right; display: block; margin-bottom: 1em; margin-left: auto; margin-right: auto; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="528" data-original-width="950" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEoC3JZfZ5X0tm_59NFBmmu-DKaY18ZxgKzNA7ogjbqPYtAZ5RwzgCn0BQmKY3XuRE3e-xIdhhTLtGRL-K4TEdARUqfvCmNCku_-aZajafbskRDNPfDlgWMGkFI7uzeRdECkPwbOvyytgn/s200/seagate_why_hamr_950.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><tiny><a href="https://www.theregister.co.uk/2018/11/02/seagate_hamr_roadmap/">Seagate's 2018 HAMR roadmap</a></tiny></td></tr></tbody></table>
+In <a href="https://blog.dshr.org/2018/11/whats-happening-to-storage.html">2018</a> I wrote about Chris Mellor's <a href="https://www.theregister.com/2018/11/02/seagate_hamr_roadmap/"><i>Seagate HAMRs out a roadmap for future hard drive recording tech</i></a>::<br />
+<blockquote>
+Seagate has set a course to deliver a 48TB disk drive in 2023 using its HAMR (heat-assisted magnetic recording) technology, doubling areal density every 30 months, meaning 100TB could be possible by 2025/26. ... Seagate will introduce its <a href="https://www.theregister.co.uk/2018/03/21/seagate_to_drop_multiactuator_hamr_in_2020/">first HAMR drives in 2020</a>. ...  a 20TB+ drive will be rolled out in 2020.
+</blockquote>
+So in a decade the technology had gone from next year to the year after next.  The year after next Jim Slater wrote <a href="https://arstechnica.com/gadgets/2020/02/hamr-dont-hurt-em-laser-assisted-hard-drives-are-coming-in-2020/"><i>HAMR don’t hurt ’em—laser-assisted hard drives are coming in 2020</i></a>:<br />
+<blockquote>
+Seagate has been trialing 16TB HAMR drives with select customers for more than a year and <a href="https://blog.seagate.com/craftsman-ship/hamr-milestone-seagate-achieves-16tb-capacity-on-internal-hamr-test-units/">claims</a> that the trials have proved that its HAMR drives are "plug and play replacements" for traditional CMR drives, requiring no special care and having no particular poor use cases compared to the drives we're all used to.
+</blockquote>
+But no, it would be another four years before we saw the first signs of HAMR drives in the market. In December 2024 Matthew Connatser reported that <a href="https://www.tomshardware.com/pc-components/hdds/seagate-launches-32tb-exos-m-hard-drive-based-on-hamr-technology-mozaic-3-drives-are-the-worlds-first-generally-available-hamr-hdds"><i>Seagate launches 32TB Exos M hard drive based on HAMR technology – Mozaic 3+ drives are the world’s first generally available HAMR HDDs</i></a>:<br />
+<blockquote>
+Seagate’s biggest-ever hard drive is finally here, coming with 32TB of capacity courtesy of the company’s new HAMR technology (via <a href="https://www.expreview.com/97328.htm">Expreview</a>).<br />
+<br />
+It has almost been a year since Seagate said it had finally made <a href="https://www.tomshardware.com/pc-components/hdds/seagates-mozaic-3-hamr-platform-targets-30tb-hdds-and-beyond#xenforo-comments-3834163">a hard drive based on heat-assisted magnetic recording</a> (HAMR) technology using its new Mozaic 3+ platform.<br />
+...<br />
+Exos drives based on Mozaic 3+ were initially released to select customers in small quantities, but now the general release is (nearly) here, <a href="https://www.tomshardware.com/pc-components/hdds/seagates-hamr-hdds-qualified-by-customers-volume-shipments-imminent">thanks to mass production</a>.
+</blockquote>
+Note that the drives that are "(nearly) here" are still not available from Amazon, although they are featured on <a href="https://www.seagate.com/products/enterprise-drives/exos/exos-m-3-plus/">Seagate's web site</a>.
+Kevin Purdy <a href="https://arstechnica.com/gadgets/2024/12/after-decades-of-talk-seagate-seems-ready-to-actually-drop-the-hamr-hard-drives/">writes</a>:<br />
+<blockquote>
+Drives based on Seagate's Mozaic 3+ platform, in standard drive sizes, will soon arrive with wider availability than its initial test batches. The driver maker put in a <a href="https://d18rn0p25nwr6d.cloudfront.net/CIK-0001137789/5a69d4a1-883e-41f3-a6b8-f4cfdea91d09.pdf">financial filing earlier this month</a> (PDF) that it had completed qualification testing with several large-volume customers, including "a leading cloud service provider," akin to Amazon Web Services, Google Cloud, or the like. Volume shipments are <a href="https://www.tomshardware.com/pc-components/hdds/seagates-hamr-hdds-qualified-by-customers-volume-shipments-imminent">likely soon to follow</a>.<br />
+<br />
+There is no price yet, nor promise of delivery, but you can do some wishful thinking on the product page for the Exos M, where 30 and 32TB capacities are offered. That's 3TB per platter, and up to three times the efficiency per terabyte compared to "typical drives," according to Seagate.
+</blockquote>
+More indications that volume shipments could happen "next year" comes from Chris Mellor's <a href="https://blocksandfiles.com/2024/12/19/wds-hamr-switch-could-be-closer-than-we-think/"><i>WD’s HAMR switch could be closer than we think</i></a>:<br />
+<blockquote>
+Intevac has said there is strong interest in its HAMR disk drive platter and head production machinery from a second customer, which could indicate that Western Digital is now involved in HAMR disk developments following Seagate’s move into volume production.<br />
+<br />
+<a href="https://www.intevac.com/">Intevac</a> supplies its <a href="https://www.intevac.com/thin-film/hard-disk-drive/200-lean/">200 Lean</a> thin-film processing machines to hard disk drive media manufacturers, such as Seagate, Showa Denko and Western Digital. It claims more than 65 percent of the world’s HDD production relies on its machinery. The Lean 200 is used to manufacture recording media, disk drive platters, for current perpendicular magnetic recording (PMR) disks.<br />
+<br />
+Intevac’s main customer for HAMR-capable 200 Lean machines is Seagate, which first embarked on its HAMR development in the early 2000s. It is only this year that a prominent <a href="https://blocksandfiles.com/2024/12/04/seagate-hamr-disk-drive-qualification/">cloud service provider</a> has certified Seagate’s Mozaic 3 HAMR drives for general use, more than 20 years after development first started. The lengthy development period has been ascribed to solving difficulties in producing drives with high reliability from high yield manufacturing processes, and Intevac will have been closely involved in ensuring that its 200 Lean machines played their part in this.
+</blockquote>
+<h3>Archival Media</h3>
+Maybe 2025 will be the year I can finally bring my 12-year-long series about HAMR shipment schedules to a close, 23 years after Seagate started work on the technology. Why have I been HAMR-ing on Seagate all these years, and again now? Not to denigrate Seagate's engineering. Getting a HAMR drive into volume production that meets both the incredibly demanding standards for storage media reliability and performance, and the manufacturing yields needed for profit, is an extraordinarily difficult feat. It is not a surprise that it took a couple of decades.<br />
+<br />
+My criticisms have been aimed at the storage industry's marketing and PR, which hypes developments that are still in the lab as if they are going to solve customers' problems "next year". And at the technology press, which took far too long to start expressing skepticism.  Seagate's marketing eventually lost all credibility, with their predictions about HAMR becoming an industry joke.<br />
+<br />
+The situation is far worse when it comes to archival media. The canonical article about some development in the lab starts with the famous IDC graph projecting the amount of data that will be generated in the future. It goes on to describe the density some research team achieved by writing say a gigabyte into their favorite medium in the lab. This conveys four false impressions:<br />
+<ul>
+<li>That there is some possibility they could scale their process up to a meaningful fraction of IDC's projected demand, or even to the microscopic fraction of the projected demand that makes sense to archive. There is no such possibility. Archival media is a much <i>smaller</i> market than regular media.</li>
+<li>That the researcher's favorite medium could make it into the market in the timescale of IDC's projections. As we see with HAMR, where research started <a href="https://web.archive.org/web/20190813175046/https://www.seagate.com/news/news-archive/seagate-swings-increase-disc-drive-densities-master-pr/">twenty-six years ago</a>, it won't. Research on the silica medium started <a href="https://www.storagenewsletter.com/2014/10/31/rd-hitachi-rw-of-digital-data-in-fused-silica-glass/">fifteen years ago</a>. Research on the DNA medium started <a href="https://doi.org/10.2307/777811">thirty-six years ago</a>. Neither is within five years of market entry.</li>
+<li>That even if the researcher's favorite medium did make it into the market it would be a product that consumers could use. As <a href="https://blog.dshr.org/2014/09/more-on-facebooks-cold-storage.html">Kestutis Patiejunas figured out</a> more than a decade ago, the only way to make the economics of archival storage work is to do it at data-center scale and harvest the synergies that come from not needing data-center power, cooling, staffing, etc.</li>
+<li>That anyone either cares or even knows what medium their archived data lives on. Only the hyper-scalers do. Consumers believe their data is safe in the cloud. If anyone really cares about archiving they use a service such as Glacier, when they definitely have no idea what medium is being used.</li>
+</ul>
+Consumers already have an affordable, durable archival medium. As <a href="https://blog.dshr.org/2024/08/2024-optical-media-durability-update.html">I have shown</a>:<br />
+<blockquote>
+Surprisingly, with no special storage precautions, generic low-cost media, and consumer drives, I'm getting good data from CD-Rs more than 20 years old, and from DVD-Rs nearly 18 years old.
+</blockquote>
+The market for DVD-R media and drives is gradually dying because they have been supplanted in the non-archival space by streaming, an illustration that <a href="http://www.usenix.org/events/fast08/tech/marshall.pdf">consumers really don't care</a> about archiving their data!<br />
+<h3>DNA Storage</h3>
+In 2018's <a href="https://blog.dshr.org/2018/02/dnas-niche-in-storage-market.html"><i>DNA's Niche in the Storage Market</i></a> I imagined myself as the product marketing guy for an attempt to build a rack-scale DNA storage system, and concluded:<br />
+<blockquote>
+Engineers, your challenge is to increase the speed of synthesis by a factor of a quarter of a trillion, while reducing the cost by a factor of fifty trillion, in less than 10 years while spending no more than $24M/yr.
+</blockquote>
+The only viable market for DNA storage is the data-center, and the two critical parameters are still the write bandwidth and the write cost. As far as I'm aware despite the considerable progress in the last 6 years both parameters are still many orders of magnitude short of what a system would have needed back then to enter the market. Worse, the last six years of data center technology development have increased the need for write bandwidth and reduced the target cost. DNA storage is in a <a href="https://en.wikipedia.org/wiki/Red_Queen's_race">Red Queen's Race</a> and it is a long way behind.<br />
+<br />
+Nevertheless, DNA's long-term <i>potential</i> as an archival storage medium justifies continued research. Among recent publications is <a href="https://dx.doi.org/10.1038/s41586-024-08040-5"><i>Parallel molecular data storage by printing epigenetic bits on DNA</i></a> by Cheng Zhang <i>et al</i>, which avoids the need to synthesize strands of DNA by attaching the bits to prexisting strands.
+In principle this can be done in parallel.
+As is traditional, they start by asserting:<br />
+<blockquote>
+The markedly expanding global data-sphere has posed an imminent challenge on large-scale data storage and an urgent need for better storage materials.  Inspired by the way genetic information is preserved in nature, DNA has been recently considered a promising biomaterial for digital data storage owing to its extraordinary storage density and durability.
+</blockquote>
+The paper attracted comment from, among others, <a href="https://www.theregister.com/2024/10/25/epibit_dna_storage_research/"><i>The Register</i></a>, <a href="https://arstechnica.com/science/2024/10/how-can-you-write-data-to-dna-without-changing-the-base-sequence/"><i>Ars Technica</i></a> and <a href="https://doi.org/10.1038/d41586-024-03312-6"><i>Nature</i></a>. In each case the commentary included some skepticism. Here are Carina Imburgia and Jeff Nivala from the University of Washington team in <a href="https://doi.org/10.1038/d41586-024-03312-6"><i>Nature</i></a>:<br />
+<blockquote>
+However, there are still challenges to overcome.  For example, epigenetic marks such as methyl groups are not copied by the standard PCR techniques used to replicate DNA, necessitating a more complex strategy to preserve epi-bit information when copying DNA data.  The long-term behaviour of the methyl marks (such as their stability) in various conditions is also an open question that requires further study.<br />
+<br />
+Another challenge is that many applications require random access memory (RAM), which enables subsets of data to be retrieved and read from a database. However, in the epi-bit system, the entire database would need to be sequenced to access any subset of the files, which would be inefficient using nanopore sequencing. Moreover, the overall cost of the new system exceeds that of conventional DNA data storage and of digital storage systems, limiting immediate practical applications;
+</blockquote>
+You have to read a long way into the <a href="https://dx.doi.org/10.1038/s41586-024-08040-5">paper to find that</a>:<br />
+<blockquote>
+we stored 269,337 bits including the image of a tiger rubbing from the Han dynasty in ancient China and the coloured picture of a panda ...  An automatic liquid handling platform was used to typeset large-scale data at a speed of approximately 40 bits s<sup>−1</sup>
+</blockquote>
+This is interesting research but the skepticism in the commentaries doesn't exactly convey the difficulty and the time needed to scale from writing less than 40KB in a bit under 2 hours, to the petabyte/month rates (about 2.8TB every 2 hours) Facebook was writing <a href="https://blog.dshr.org/2013/02/facebooks-cold-storage.html">a decade ago</a>. This would be a speed-up of nearly 11 orders of magnitude to compete with decade-old technology.
+<h3>Diamonds</h3>
+<a href="https://www.theregister.com/2024/11/29/chinese_boffins_find_way_to/"><i>Chinese boffins find way to use diamonds as super-dense and durable storage medium</i></a> by Laura Dobberstein reports that:<br />
+<blockquote>
+The research, published in <a href="https://www.nature.com/articles/s41566-024-01573-1i">Nature Photonics</a>, highlights that the breakthrough extends beyond density. It is said to offer significant improvements in write times – as little as 200 femtoseconds – and lives up to the promise that "a diamond is forever" by offering millions of years of allegedly maintenance-free storage. Diamonds are highly stable by nature and the the authors have claimed their medium could protect data for 100 years even if kept at 200°C.<br />
+<br />
+High-speed readout is demonstrated with a fidelity of over 99 percent, according to the boffins.<br />
+<br />
+Scientists have been eyeing diamonds as storage devices for a while. Researchers at City College of New York in 2016 <a href="https://www.science.org/doi/10.1126/sciadv.1600911">claimed</a> to be the first group to demonstrate the viability of using diamond as a platform for superdense memory storage.
+</blockquote>
+These researchers, like so many others in the field, fail to understand that the key to success in archival storage is reducing total system cost. Long-lived but expensive media like diamonds are thus counter-productive.<br />
+<h3>Project Silica</h3>
+I wrote about Microsoft's Project Silica last March, in <a href="https://blog.dshr.org/2024/03/microsofts-archival-storage-research.html"><i>Microsoft's Archival Storage Research</i></a>. The more I think about this technology, the more I think it probably has the best chance of impacting the market among all the rival archival storage technologies:<br />
+<ul>
+<li>The media is very cheap, so the effect of Kryder's Law economics driving media replacement and thus its economic rather than technical lifetime is minimal.</li>
+<li>The media is quasi-immortal and survives benign neglect, so opex once written is minimal.</li>
+<li>The media is write-once, and the write and read heads are physically separate, so the data cannot be encrypted or erased by malware. The long read latency makes exfiltrating large amounts of data hard.</li>
+<li>The robotics are simple and highly redundant. Any of the shuttles can reach any of the platters. They should be much less troublesome than tape library robotics because, unlike tape, a robot failure only renders a small fraction of the library inaccessible and is easily repaired.</li>
+<li>All the technologies needed are in the market now, the only breakthroughs needed are economic, not technological.</li>
+<li>The team has worked on improving the  write bandwidth which is a critical issue for archival storage at scale. They can currently write hundreds of megabytes a second.</li>
+<li>Like <a href="https://blog.dshr.org/2014/09/more-on-facebooks-cold-storage.html">Facebook's archival storage technologies</a>, Project Silica enjoys the synergies of data center scale without needing full data center environmental and power resources.</li>
+<li>Like Facebook's technologies, Project Silica has an in-house customer, Azure's archival storage, with a need for a product like this.</li>
+</ul>
+The expensive part of the system is the write head, because it uses costly femtosecond lasers. The eventual system's economics will depend upon the progress made in cost-reducing the lasers. 
+<br /> 
+
+<br> 
+
+<https://blog.dshr.org/2025/01/storage-roundup.html>
+
+---
+
+##  The Criterion Channel&#8217;s collection of Surveillance Cinema, including The Conversation, Gattaca, Minority... 
+
+date: 2025-01-07, updated: 2025-01-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045970-the-criterion-channels-co>
 
 ---
 
@@ -23,7 +461,7 @@ date: 2025-01-07, updated: 2025-01-07, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2025-01-07, from: Dave Winer's Scripting News)
 
-Has anyone come up with a variant of JSON that allows comments? I've started using names like "comment1" etc to shoehorn comments in. A complete hack, impossible to maintain over time. The idea of not being able to put notes in your config.json files is absolutely ridiculous. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/03/07/tiger.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Has anyone come up with a variant of JSON that allows comments? I've started using names like "comment1" etc to shoehorn comments in. A complete hack, impossible to maintain over time. The idea of not being able to put notes in your config.json files is absolutely ridiculous. 
 
 <br> 
 
@@ -104,7 +542,7 @@ In less than 40 minutes today in snow-covered Washington, D.C., a joint session 
 
 ## Jason Snell: ‘Apple Intelligence Summaries Might Get Warning Labels. That’s Not Enough.’
 
-date: 2025-01-07, updated: 2025-01-07, from: Daring Fireball
+date: 2025-01-07, updated: 2025-01-08, from: Daring Fireball
 
  
 
@@ -128,7 +566,7 @@ Why is Jeff Bezos hurting, not helping, journalism?
 
 ## ★ Apple Claims It Will Soon ‘Further Clarify’ Which Notifications Are AI-Generated Summaries, Following Embarrassing BBC News Summarization Mistakes
 
-date: 2025-01-06, updated: 2025-01-07, from: Daring Fireball
+date: 2025-01-06, updated: 2025-01-08, from: Daring Fireball
 
 I think it’s correct for Apple to leave this in control of users, not developers. But Apple really does need to make it more clear what is an AI-generated summary and what is a verbatim original notification. 
 
@@ -289,7 +727,7 @@ At the end, he asks:</p>
 
 date: 2025-01-06, from: Matt Haughey blog
 
-<p>My wife and I love soccer. We love watching it, we&apos;ve both loved playing it in the past, and for the last few years we&apos;ve been pretty obsessed with women&apos;s soccer. The women&apos;s game doesn&apos;t have the same kind of</p> 
+<div class="kg-card kg-button-card kg-align-center"><a href="https://unofficialnwsl.stadium.guide/the-book-is-out/?ref=a.wholelottanothing.org" class="kg-btn kg-btn-accent">Buy the Book!</a></div><p>My wife and I love soccer. We love watching it, we&apos;ve both loved playing it in the past, and for the last few years we&apos;ve been pretty obsessed with women&apos;s soccer. The women&apos;s game doesn&apos;t have the</p> 
 
 <br> 
 

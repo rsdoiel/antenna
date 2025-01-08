@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2025-01-07 07:04:03
+updated: 2025-01-08 07:05:54
 ---
 
 # weather
 
-(date: 2025-01-07 07:04:03)
+(date: 2025-01-08 07:05:54)
 
 ---
 
-## SPC - No watches are valid as of Tue Jan  7 14:48:01 UTC 2025
+## SPC - No watches are valid as of Wed Jan  8 14:41:01 UTC 2025
 
-date: 2025-01-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Jan  7 14:48:01 UTC 2025. 
+No watches are valid as of Wed Jan  8 14:41:01 UTC 2025. 
 
 <br> 
 
@@ -21,11 +21,11 @@ No watches are valid as of Tue Jan  7 14:48:01 UTC 2025.
 
 ---
 
-## SPC - No MDs are in effect as of Tue Jan  7 14:48:01 UTC 2025
+## SPC - No MDs are in effect as of Wed Jan  8 14:41:01 UTC 2025
 
-date: 2025-01-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Tue Jan  7 14:48:01 UTC 2025. 
+No Mesoscale Discussions are in effect as of Wed Jan  8 14:41:01 UTC 2025. 
 
 <br> 
 
@@ -33,32 +33,33 @@ No Mesoscale Discussions are in effect as of Tue Jan  7 14:48:01 UTC 2025.
 
 ---
 
-## SPC Jan 7, 2025 1300 UTC Day 1 Convective Outlook
+## SPC Jan 8, 2025 1300 UTC Day 1 Convective Outlook
 
-date: 2025-01-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0639 AM CST Tue Jan 07 2025
+0633 AM CST Wed Jan 08 2025
 
-Valid 071300Z - 081200Z
+Valid 081300Z - 091200Z
 
-...NO THUNDERSTORM AREAS FORECAST...
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Thunderstorms are not expected through tonight.
+Severe thunderstorms are not expected, but very isolated
+thunderstorms are possible late tonight across parts of west Texas.
 
-...Discussion...
-The widespread prevalence of surface high pressure and cold
-continental trajectories is expected to preclude thunderstorm
-development across the CONUS. Minimal mid-level buoyancy could
-develop across parts of Arizona this afternoon and evening as lapse
-rates steepen east of the amplifying trough over the Southwest/Baja
-vicinity. However, convection should remain very weak in a
-moisture-starved environment, and no thunderstorms are expected.
+...West Texas...
+A low-latitude mid/upper-level low will settle south-southeastward
+over far northwest Mexico through tonight. Weak height falls will
+begin to influence far west Texas late tonight, with modestly
+increasing ascent atop a sub-freezing boundary layer. With cold
+temperatures aloft and steepening mid-level lapse rates, weak
+elevated instability based around 700 mb may be sufficient for
+isolated lightning flashes late tonight, primarily after midnight.
 
-..Guyer/Bentley.. 01/07/2025
+..Guyer/Bentley.. 01/08/2025
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>

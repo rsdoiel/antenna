@@ -1,11 +1,106 @@
 ---
 title: writing
-updated: 2025-01-07 07:04:03
+updated: 2025-01-08 07:05:55
 ---
 
 # writing
 
-(date: 2025-01-07 07:04:03)
+(date: 2025-01-08 07:05:55)
+
+---
+
+## Write Now with Scrivener, Episode no. 46: David Goodman, Spy Fiction Author
+
+date: 2025-01-08, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-46-david-goodman-spy-fiction-author>
+
+---
+
+## Scriptnotes, Episode 668: Holiday Live Show 2024, Transcript
+
+date: 2025-01-07, from: John August blog
+
+The original post for this episode can be found here. John August: Hey, this is John. Today’s episode has even more swearing than usual, so if you’re in a car with your kids, this is a standard warning about that. [applause] Craig Mazin: Hi. Hello. John: Hello and welcome. My name is John August. Craig: [&#8230;]
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-668-holiday-live-show-2024-transcript">Scriptnotes, Episode 668: Holiday Live Show 2024, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-668-holiday-live-show-2024-transcript>
+
+---
+
+## How to Write a Vampire Movie like ‘Nosferatu’…or ‘Hotel Transylvania’
+
+date: 2025-01-07, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-write-a-vampire-movie-like-nosferatu-or-hotel-transylvania" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Lily-Rose%20Depp%20in%20Nosferatu%20%282024%29.png" alt="Lily-Rose Depp in 'Nosferatu' (2024)" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>It’s been over 100 years since <em>Nosferatu</em> was introduced to the world. The silent film from 1922 was an unauthorized adaptation of Bram Stoker’s novel <em>Dracula</em> and remains a classic, influential horror film setting the stage and many of the rules for telling a vampire tale.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-to-write-a-vampire-movie-like-nosferatu-or-hotel-transylvania>
+
+---
+
+## The Best/Worst it Will Ever Be
+
+date: 2025-01-07, from: John August blog
+
+John and Craig look at three extraordinary news stories and ask, How Would this be a Movie? Stories include the United Healthcare CEO assassination, a small town’s process for licensing fortune tellers, and a harrowing I.V.F. mixup. We also follow up on AI, Flightplan’s source material, Craig’s Belfast accent, and answer a listener question on [&#8230;]
+The post <a href="https://johnaugust.com/2025/the-best-worst-it-will-ever-be">The Best/Worst it Will Ever Be</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/671standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/671standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2025/the-best-worst-it-will-ever-be>
+
+---
+
+## Flash Fiction Online, Cast of Wonders, and Escape Pod: Short Fiction Reviews by Charles Payseur
+
+date: 2025-01-07, from: Locus Magazine
+
+<p>Flash Fiction Online 9/24
+Cast of Wonders 9/29/24
+Escape Pod 9/19/24</p>
+<p>September’s Flash Fiction Online starts strong with <strong>Stefan Alcalá Slater</strong>’s “<strong>Tornado Break­ers Don’t Cry</strong>”, which finds siblings Ethel and Edgar living in the shadow of their father, a famous tornado breaker, long after he’s gone from their lives. Ethel has taken up the mantel, but when she fails to break a tornado that comes through their  <a href="https://locusmag.com/2025/01/flash-fiction-online-cast-of-wonders-and-escape-pod-short-fiction-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/flash-fiction-online-cast-of-wonders-and-escape-pod-short-fiction-reviews-by-charles-payseur/>
+
+---
+
+## Murray Receives NZ Royal Honor for Services to Speculative Literature
+
+date: 2025-01-07, from: Locus Magazine
+
+<p>Lee Murray is among those appointed by King Charles III as an Officer of the New Zealand Order of Merit (ONZM) in recognition of her &#8220;services to literature, particularly speculative literature.&#8221; ONZM officers will be presented with ONZM insignia at an investiture to be held at New Zealand’s Government House later in the year. The complete ONZM list celebrates 30 people for their contributions to New Zealand across various cultural,  <a href="https://locusmag.com/2025/01/murray-receives-nz-royal-honor-for-services-to-speculative-literature/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/murray-receives-nz-royal-honor-for-services-to-speculative-literature/>
+
+---
+
+## WSFA Small Press Awards Open
+
+date: 2025-01-07, from: Locus Magazine
+
+<p>The Washington Science Fiction Association is now accepting nominations of works &#8220;published for the first time in the English language&#8221; in 2024 for its Small Press Award, given annually to an outstanding story of &#8220;imaginative literature&#8221; (17,500 words or fewer) published in the small press. The deadline for nominations is March 31, 2025 at 11:59pm ET.</p>
+<p>Authors and small-press publishers are among those eligible to nominate, and need not be  <a href="https://locusmag.com/2025/01/wsfa-small-press-awards-open/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/wsfa-small-press-awards-open/>
 
 ---
 

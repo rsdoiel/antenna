@@ -1,11 +1,503 @@
 ---
 title: science and technology
-updated: 2025-01-07 07:04:02
+updated: 2025-01-08 07:05:54
 ---
 
 # science and technology
 
-(date: 2025-01-07 07:04:02)
+(date: 2025-01-08 07:05:54)
+
+---
+
+## Pairs not taken
+
+date: 2025-01-08, from: OS News
+
+So we all know about twisted-pair ethernet, huh? I get a little frustrated with a lot of histories of the topic, like the recent neil breen^w^wserial port video, because they often fail to address some obvious questions about the origin of twisted-pair network cabling. Well, I will fail to answer these as well, because the reality is that these answers have proven very difficult to track down. ↫ J. B. Crawford The problems with nailing down an accurate history of the development of the various standards, ideas, concepts, and implementations of Ethernet and other, by now dead, network standards are their age, as well as the fact that their history is entangled with the even longer history of telephone wiring. The reasoning behind some of the choices made by engineers over the past more than 100 years of telephone technology aren&#8217;t always clear, and very difficult to retrace. Crawford dives into some seriously old and fun history here, trying to piece together the origins of twisted pair the best he can. It&#8217;s a great read, as all of his writings are. 
+
+<br> 
+
+<https://www.osnews.com/story/141507/pairs-not-taken/>
+
+---
+
+## Japan's wooden satellite exits International Space Station
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>Carefully crafted wooden box, LignoSat, is on its own</h4> <p>Japan&#39;s wooden satellite, LignoSat, has been deployed into orbit from the International Space Station (ISS).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/japans_wooden_satellite_leaves_the/>
+
+---
+
+## An operating system in 1000 lines
+
+date: 2025-01-08, from: OS News
+
+Hey there! In this book, we&#8217;re going to build a small operating system from scratch, step by step. You might get intimidated when you hear OS or kernel development, the basic functions of an OS (especially the kernel) are surprisingly simple. Even Linux, which is often cited as a huge open-source software, was only 8,413 lines in version 0.01. Today&#8217;s Linux kernel is overwhelmingly large, but it started with a tiny codebase, just like your hobby project. We&#8217;ll implement basic context switching, paging, user mode, a command-line shell, a disk device driver, and file read/write operations in C. Sounds like a lot, however, it&#8217;s only 1,000 lines of code! ↫ Seiya Nuta It&#8217;s exactly what it says on the tin. 
+
+<br> 
+
+<https://www.osnews.com/story/141502/an-operating-system-in-1000-lines/>
+
+---
+
+## UN's aviation agency confirms attack on recruitment database
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>Various data points compromised but no risk to flight security</h4> <p>The International Civil Aviation Organization (ICAO), the United Nations&#39; aviation agency, has confirmed to <em>The Register</em> that a cyber crim did indeed steal 42,000 records from its recruitment database.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/uns_aviation_agency_confirms_attack/>
+
+---
+
+## AI hype led to an enterprise datacenter spending binge in 2024 that won't last
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>GPUs and generative AI systems so hot right now... yet &#39;long-term trend remains,&#39; says analyst</h4> <p>Bets on the future demand for AI drove a 48 percent jump in spending on public cloud infrastructure last year, as cloud providers and enterprises both rushed to invest in servers and GPUs to support generative AI workloads.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/synergy_research_dc_report/>
+
+---
+
+## The channel stands corrected: Hardware is a refresh cycle business now
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>&#39;For 30 years you thought you were business geniuses,&#39; veteran analyst tells resellers and distributors</h4> <p><strong>Opinion</strong>  The tech hardware industry may be facing something of an existential crisis if one veteran analyst is correct – the days of shifting boxes are going to be limited to mere replacement cycles.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/channel_stands_corrected/>
+
+---
+
+## Google snags ex-Microsoft exec to helm cloud in the UK
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>Maureen Costello hopes to &#39;empower&#39; businesses with AI</h4> <p>Google has hired Maureen Costello, a Microsoft and Accenture veteran, to the role of Vice President for UK, Ireland, and Sub-Saharan Africa regions as the UK&#39;s Competition Markets Authority (CMA) prepares to publish a provisional decision on its cloud services market investigation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/google_cloud_uk_vp/>
+
+---
+
+## Crims backdoored the backdoors they supplied to other miscreants. Then the domains lapsed
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>Here&#39;s what $20 gets you these days</h4> <p>More than 4,000 unique backdoors are using expired domains and/or abandoned infrastructure, and many of these expose government and academia-owned hosts – thus setting these hosts up for hijacking by criminals who likely have less altruistic intentions than the security researchers who uncovered the backdoors.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/backdoored_backdoors/>
+
+---
+
+## Just when you thought terminal emulators couldn't get any better, Ghostty ships
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>HashiCorp co-founder&#39;s side project reaches 1.0 – er, 1.0.1</h4> <p>Ghostty is more interesting than it sounds, for several reasons: who wrote it, what it does, and the language it was written in are all more unusual than the ostensibly simple task it performs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/ghostty_1/>
+
+---
+
+## An Unlikely Army of Militia and Pirates Shocked the World by Defeating the British Army at the Battle of New Orleans
+
+date: 2025-01-08, from: Smithsonian Magazine
+
+Forces commanded by Andrew Jackson fought the British in the Louisiana port city in the last standoff of the War of 1812 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/an-unlikely-army-of-militia-and-pirates-shocked-the-world-by-defeating-the-british-army-at-the-battle-of-new-orleans-180985785/>
+
+---
+
+## UK digital markets watchdog expects to launch investigations within the month using new powers
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>Regulator will see a &#39;participative&#39; approach before imposing fines</h4> <p>The UK market regulator said it would take a “participative” approach to exercising its new powers under the legislation designed to curb the market power of tech giants and promote growth.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/uk_markets_watchdog/>
+
+---
+
+## Additional Microprocessors Decoded: Quick guide to what AMD is flinging out next for AI PCs, gamers, business
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>Plus: A peek at Nvidia&#39;s latest hype</h4> <p><strong>CES</strong>  AMD unleashed a flood of CPUs at the annual CES super-conference this week in Las Vegas – chips that span the gamut from high-end desktop processors to those aimed at gaming notebooks, handhelds and, yes, so-called AI PCs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/amd_ai_nvidia/>
+
+---
+
+## Chinese RISC-V project teases 2025 debut of freely licensed advanced chip design
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>Third-gen Xiangshan may be close to performance of Arm’s made-for-HPC Neoverse 2</h4> <p>A key figure in in China’s drive to develop processors based on the RISC-V instruction set architecture has said the project will deliver in 2025, perhaps with a design that could be a datacenter contender.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/chinese_riscv_project_teases_2025/>
+
+---
+
+## Akamai to quit its CDN in China, seemingly not due to trouble from Beijing
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>Security and cloud compute have so much more upside than the boring business of shifting bits</h4> <p>Akamai has decided to end its content delivery network services in China, but not because it’s finding it hard to do business in the Middle Kingdom.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/akamai_eol_china_cdn/>
+
+---
+
+## Sols 4416-4417: New Year, New Clouds
+
+date: 2025-01-08, from: NASA breaking news
+
+Earth planning date: Monday, Jan. 6, 2025 After our marathon holiday plan, we’re easing back into the new year with a standard two-sol plan. We did arrive today to the news that the drive hadn’t made it as far as we wanted, but luckily the rover planners determined that we were still in a good […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4416-4417-new-year-new-clouds/>
+
+---
+
+## Honda upgrades robot brain into OS for future electric cars
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>Remember humanoid bot ‘Asimo’, which could kick balls and pour beer? It survives as EV software</h4> <p>Honda has announced it has developed an operating system for electric vehicles, using tech it first developed for a humanoid robot named “Asimo”.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/honda_upgrades_robot_brain_into/>
+
+---
+
+## US watchdog sticks probe into 2.6M Teslas over so-called Smart Summon crash reports
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>If it&#39;s spelled like an A.S.S, acts like an ass, maybe it&#39;s just...</h4> <p>The US National Highway Traffic Safety Administration (NHTSA) has launched a probe into Tesla&#39;s software that allows cars to operate autonomously over short distances, after reports of the code crashing in a physical sense.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/nhtsa_tesla_smart_summon/>
+
+---
+
+## Uncle Sam now targets six landlord giants in war on alleged algorithmic rent fixing
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>One of ya is gonna sing like a canary, prosecutors say</h4> <p>The US Justice Department on Tuesday expanded its antitrust lawsuit against property management software vendor RealPage, which is accused of unlawful algorithmic rent-fixing, to include six of the largest US landlords while also proposing a settlement to resolve the case against one of the defendants.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/feds_expand_algorithmic_rent_lawsuit/>
+
+---
+
+## FCC boss urges speedy spectrum auction to fund 'Rip'n'Replace' of Chinese kit
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>Telcos would effectively fund grants paid to protect national security</h4> <p>The outgoing boss of the FCC, Jessica Rosenworcel, has called on her colleagues to &#34;quickly&#34; adopt rules allowing the US regulator to stage a radio spectrum auction, the proceeds of which would fund the removal from American networks of equipment made by Chinese vendors Huawei and ZTE.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/fcc_chief_urges_spectrum_auction/>
+
+---
+
+## Now Trump's import tariffs could raise the cost of a laptop for Americans by 68%
+
+date: 2025-01-07, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>Make America irate again</h4> <p><strong>CES</strong>  The Consumer Technology Association has issued some fresh predictions of how much more Americans may have to pay for their hardware if Donald Trump&#39;s hard-line import tariffs are enacted.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/07/trumps_tariff_electronics_prices/>
+
+---
+
+## Biden Establishes Two New National Monuments in California
+
+date: 2025-01-07, from: Smithsonian Magazine
+
+The Chuckwalla National Monument and the Sáttítla Highlands National Monument will protect more than 848,000 acres of public lands 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/biden-establishes-two-new-national-monuments-in-california-180985783/>
+
+---
+
+## Zuck takes a page from Musk: Meta dumps fact-checkers, loosens speech restrictions
+
+date: 2025-01-07, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>&#39;We&#39;re going to catch less bad stuff,&#39; Facebook tycoon admits, but it&#39;s worth it to get Trump off his back</h4> <p><strong>Updated</strong>  Meta CEO Mark Zuckerberg has announced a whole bunch of changes designed to &#34;get back to our roots around free expression&#34; that, among other things, include ditching fact-checking moderators, and loosening content policies to allow previously restricted speech to proliferate. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/07/meta_eliminate_fact_check/>
+
+---
+
+## Best of 2024: Reestablished NASA Art Program Begins with Mural in New York City
+
+date: 2025-01-07, from: NASA breaking news
+
+The New York-based artist team Geraluz, left, and WERC, right, pose in front of their mural “To the Moon, and Back” with their son Amaru, 5. The community mural was created as part of the reimagined NASA Art Program, which aims to inspire and engage the next generation of explorers – the Artemis Generation – [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/best-of-2024-reestablished-nasa-art-program-begins-with-mural-in-new-york-city/>
+
+---
+
+## Many people are saying a luxury Dubai property developer will blow $20B on US datacenters
+
+date: 2025-01-07, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>A successful real-estate billionaire and Donald Trump walk into a bar...</h4> <p>At a news conference on Tuesday, President-elect Donald Trump said Dubai-based luxury property developer DAMAC plans to invest $20 billion over an undisclosed period to build datacenters in the US.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/07/trump_20_billion_datacenter_investment/>
+
+---
+
+## Ancient Romans Breathed in Enough Lead to Lower Their IQs, Study Finds. Did That Toxin Contribute to the Empire’s Fall?
+
+date: 2025-01-07, from: Smithsonian Magazine
+
+Using Arctic ice core samples, researchers estimate silver mining and smelting released enough lead during the Pax Romana to cause a 2.5- to 3-point drop in IQ 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/ancient-romans-breathed-in-enough-lead-to-lower-their-iqs-study-finds-did-that-toxin-contribute-to-the-empires-fall-180985781/>
+
+---
+
+## NASA eClips Educator Receives 2024 VAST Science Educator Specialist Award
+
+date: 2025-01-07, from: NASA breaking news
+
+On November 14, 2024, NASA eClips team member, Betsy McAllister, was recognized with the prestigious Virginia Association of Science Teachers (VAST) Science Educator Specialist Award at the 2024 VAST Annual Professional Development Institute. McAllister is an educator with Hampton City Schools in Virginia and Educator-in-Residence (EIR) at the National Institute of Aerospace’s Center for Integrative […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-educator-receives-2024-vast-science-educator-specialist-award/>
+
+---
+
+## See the Sprawling Secret Passageway Built for Florence's Elite 450 Years Ago
+
+date: 2025-01-07, from: Smithsonian Magazine
+
+The 2,500-foot-long Vasari Corridor impressed guests of the Medicis and other leaders that followed (including Benito Mussolini). Now, it's reopening to the public 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-the-sprawling-secret-passageway-built-for-florences-elite-450-years-ago-180985775/>
+
+---
+
+## JAXA’s First Wooden Satellite Deploys from Space Station
+
+date: 2025-01-07, from: NASA breaking news
+
+In December 2024, five CubeSats deployed into Earth’s orbit from the International Space Station. Among them was LignoSat, a wooden satellite from JAXA (Japanese Aerospace Exploration Agency) that investigates the use of wood in space. Findings could offer a more sustainable alternative to conventional satellites. A previous experiment aboard station exposed three species of wood [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/jaxas-first-wooden-satellite-deploys-from-space-station/>
+
+---
+
+## A Quarry Worker Felt Strange Bumps While Digging. They Turned Out to Be the Largest Dinosaur Trackway in the U.K.
+
+date: 2025-01-07, from: Smithsonian Magazine
+
+The five sets of tracks represent four-legged sauropods and a three-toed carnivore that might have crossed paths on a prehistoric landscape 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-quarry-worker-felt-strange-bumps-while-digging-they-turned-out-to-be-the-largest-dinosaur-trackway-in-the-uk-180985774/>
+
+---
+
+## John Deere boasts driverless fleet - who needs operators, anyway?
+
+date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
+
+<h4>Lots of new ways to cut labor costs, no mention of repairability</h4> <p><strong>CES</strong>  John Deere&#39;s vision of the future of farming, quarrying, and landscaping has emerged at CES 2025, and it&#39;s one that includes far fewer jobs for equipment operators and plenty more machine-driven independence.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/07/john_deere_new_autonomous_tractors/>
+
+---
+
+## NASA to Explore Two Landing Options for Returning Samples from Mars
+
+date: 2025-01-07, from: NASA breaking news
+
+To maximize chances of successfully bringing the first Martian rock and sediment samples to Earth for the benefit of humanity, NASA announced Tuesday a new approach to its Mars Sample Return Program. The agency will simultaneously pursue two landing architectures, or strategic plans, during formulation, encouraging competition and innovation, as well as cost and schedule [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-explore-two-landing-options-for-returning-samples-from-mars/>
+
+---
+
+## See How Basquiat's Travels to the Swiss Alps Influenced His Artistic Development
+
+date: 2025-01-07, from: Smithsonian Magazine
+
+A new exhibition in Switzerland examines the New York City artist's lesser-known fascination with pine trees and snowy mountain peaks 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-how-basquiats-travels-to-the-swiss-alps-influenced-his-artistic-development-180985776/>
+
+---
+
+## AAS Hyperwall Schedule
+
+date: 2025-01-07, from: NASA breaking news
+
+NASA Science at AAS Hyperwall Schedule, January 12-16, 2025 Join NASA in the Exhibit Hall (Booth #505) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. SUNDAY, JANUARY 12 7:00 – 7:15 PM    NASA Cosmic Pathfinders Program: Transforming the Early-Career Experience in STEM Ronald Gamble 7:15 – 7:30 PM The Hubble Space Telescope: A […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/aas-hyperwall-schedule/>
+
+---
+
+## NASA’s AI Use Cases: Advancing Space Exploration with Responsibility
+
+date: 2025-01-07, from: NASA breaking news
+
+NASA's 2024 AI Use Case inventory highlights the agency’s commitment to integrating artificial intelligence in its space missions and operations. The agency’s updated inventory consists of active AI use cases, ranging from AI-driven autonomous space operations, such as navigation for the Perseverance Rover on Mars, to advanced data analysis for scientific discovery.  
+
+<br> 
+
+<https://www.nasa.gov/general/2024-ai-use-cases/>
+
+---
+
+## Turbulence at UN aviation agency as probe into potential data theft begins
+
+date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
+
+<h4>Crime forum-dweller claims to have leaked 42,000 documents packed with personal info</h4> <p>The United Nations&#39; aviation agency is investigating &#34;a potential information security incident&#34; after a cybercriminal claimed they had laid hands on 42,000 of the branch&#39;s documents.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/07/icao_data_theft_investigation/>
+
+---
+
+## 2023 Entrepreneurs Challenge Winner Skyline Nav AI: Revolutionizing GPS-Independent Navigation with Computer Vision
+
+date: 2025-01-07, from: NASA breaking news
+
+NASA sponsored Entrepreneurs Challenge events in 2020, 2021, and 2023 to identify innovative ideas and technologies from small business start-ups with the potential to advance the agency’s science goals. To help leverage external funding sources for the development of innovative technologies of interest to NASA, SMD involved the venture capital community in Entrepreneurs Challenge events. […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/2023-entrepreneurs-challenge-winner-skyline-nav-ai-revolutionizing-gps-independent-navigation-with-computer-vision/>
+
+---
+
+## NASA Kicks off Testing Campaign for Remotely Piloted Cargo Flights
+
+date: 2025-01-07, from: NASA breaking news
+
+NASA recently began a series of flight tests with partners to answer an important aviation question: What will it take to integrate remotely piloted or autonomous planes carrying large packages and cargo safely into the U.S. airspace? Researchers tested new technologies in Hollister, California, that are helping to investigate what tools and capabilities are needed [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/nasa-kicks-off-testing-campaign-for-remotely-piloted-cargo-flights/>
+
+---
+
+## AI can improve on code it writes, but you have to know how to ask
+
+date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
+
+<h4>LLMs do more for developers who already know what they&#39;re doing</h4> <p>Large language models (LLMs) will write better code if you ask them, though it takes some software development experience to do so effectively – which limits the utility of AI code help for novices.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/07/ai_can_write_improved_code_research/>
+
+---
+
+## Qualcomm’s latest Snapdragon X chip targets $600 Copilot+ PCs
+
+date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
+
+<h4>Hopes to elbow out competition on Arm-based hardware</h4> <p><strong>CES</strong>  Qualcomm has unveiled the latest addition to its Snapdragon X Series of Arm-based chips to power Copilot+ PCs, targeting systems in the $600 range.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/07/qualcomms_snapdragon_x_chip/>
+
+---
+
+## Apple shrugs off BBC complaint with promise to 'further clarify' AI content
+
+date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
+
+<h4>It&#39;s down to users to do the fact-checking themselves</h4> <p>Apple plans to update an AI feature that produced an alarmingly incorrect summary of a BBC news story.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/07/apple_responds_bbc_complaint/>
+
+---
+
+## NASA to Cover Two Spacewalks, Hold Preview News Conference
+
+date: 2025-01-07, from: NASA breaking news
+
+Two NASA astronauts will venture outside the International Space Station, conducting U.S. spacewalk 91 on Thursday, Jan. 16, and U.S. spacewalk 92 on Thursday, Jan. 23, to complete station upgrades. NASA also will discuss the pair of upcoming spacewalks during a news conference at 2 p.m. EST Friday, Jan. 10, on NASA+ from the agency’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-cover-two-spacewalks-hold-preview-news-conference/>
 
 ---
 
@@ -85,7 +577,7 @@ date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
 
 date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
 
-<h4>Leaders miffed at &#39;unacceptable interference&#39;</h4> <p><strong>Opinion</strong>  It&#39;s been a busy month in the political brain of Elon Musk. The tech, automotive, and space entrepreneur has gone from <a target="_blank" rel="nofollow" href="https://www.bbc.co.uk/news/articles/c1kez8d2dygo">mulling a donation to the Reform UK party worth around $100 million</a> to <a target="_blank" rel="nofollow" href="https://news.sky.com/story/farage-doesnt-have-what-it-takes-musk-says-reform-uk-needs-a-new-leader-13284086">calling its leader unfit</a>.…</p> 
+<h4>Leaders miffed at &#39;unacceptable interference&#39;</h4> <p><strong>Opinion</strong>  It&#39;s been a busy month in the political brain of Elon Musk. The tech, automotive, and space entrepreneur has gone from <a target="_blank" rel="nofollow" href="https://www.bbc.co.uk/news/articles/c1kez8d2dygo">mulling</a> a donation to the Reform UK party worth around $100 million to <a target="_blank" rel="nofollow" href="https://news.sky.com/story/farage-doesnt-have-what-it-takes-musk-says-reform-uk-needs-a-new-leader-13284086">calling</a> its leader unfit.…</p> 
 
 <br> 
 
@@ -97,7 +589,7 @@ date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
 
 date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
 
-<h4>Nation&#39;s dominant broadband plumber wins ahead of altnets</h4> <p>The UK government has signed contracts with BT Group&#39;s Openreach worth upwards of £289 million ($363 million) for the further build-out of fiber infrastructure to serve more rural areas as part of Project Gigabit.…</p> 
+<h4>Nation&#39;s dominant broadband plumber wins ahead of altnets</h4> <p><strong>Updated</strong>  The UK government has signed contracts with BT Group&#39;s Openreach worth upwards of £289 million ($363 million) for the further build-out of fiber infrastructure to serve more rural areas as part of Project Gigabit.…</p> 
 
 <br> 
 
@@ -143,9 +635,9 @@ date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
 
 ## Intel debuts laptop silicon that doesn't qualify for Microsoft's 'Copilot+ PC' badge
 
-date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
+date: 2025-01-07, updated: 2025-01-08, from: The Register (UK I.T. News)
 
-<h4>TOPS, SCHMOPS, says Chipzilla, our NPUs may be slow but that doesn&#39;t matter</h4> <p>Intel has announced new silicon for the edge, and products for laptops that lack one.…</p> 
+<h4>TOPS, SCHMOPS, says Chipzilla, our NPUs may be slow but that doesn&#39;t matter</h4> <p><strong>CES</strong>  Intel has announced new silicon for the edge, and products for laptops that lack one.…</p> 
 
 <br> 
 

@@ -1,11 +1,335 @@
 ---
 title: home
-updated: 2025-01-07 07:04:04
+updated: 2025-01-08 07:05:56
 ---
 
 # home
 
-(date: 2025-01-07 07:04:04)
+(date: 2025-01-08 07:05:56)
+
+---
+
+## How They Pulled It Off: A Massive, Coiled Staircase in a 12,000-Square-Foot Home in England
+
+date: 2025-01-08, from: Dwell
+
+A sculptural concrete and European oak staircase in a house in rural Oxfordshire adds drama and ties into a cinematic valley landscape. 
+
+<br> 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-a-massive-coiled-staircase-in-a-12000-square-foot-home-in-england-40050c66>
+
+---
+
+## How To Clean Baseboards the Easy Way
+
+date: 2025-01-07, from: Family Handyman Blog
+
+<p>Cleaning your baseboards is relatively easy; all you need is soap and water. Just be sure to stay clean them regularly. </p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-clean-baseboards-in-your-home/">How To Clean Baseboards the Easy Way</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-clean-baseboards-in-your-home/>
+
+---
+
+## President Biden Plans to Designate New California National Monuments
+
+date: 2025-01-07, from: California Native Plants Society
+
+<p>Today, President Joe Biden announced the designation of Chuckwalla National Monument and the Sáttítla Highlands National Monument, protecting 848,000 acres of lands rich in natural and cultural significance.</p>
+<p>The post <a href="https://www.cnps.org/news-releases/president-biden-designates-new-california-national-monuments-41687">President Biden Plans to Designate New California National Monuments</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/news-releases/president-biden-designates-new-california-national-monuments-41687>
+
+---
+
+## 20 Tips for Moving Furniture
+
+date: 2025-01-07, from: Family Handyman Blog
+
+<p>Moving furniture is a big job, but there are ways to make it easier on yourself and your helpers. Here, expert movers show you how.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/moving-furniture/">20 Tips for Moving Furniture</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/moving-furniture/>
+
+---
+
+## 10 Tire Problems and How to Prevent And Fix Them
+
+date: 2025-01-07, from: Family Handyman Blog
+
+<p>Avoiding tire problems starts with you, the vehicle driver. The problems listed below have unique reasons for those particular problems....</p>
+<p>The post <a href="https://www.familyhandyman.com/list/tire-problems/">10 Tire Problems and How to Prevent And Fix Them</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/tire-problems/>
+
+---
+
+## How Often Do You Really Need To Wash Your Towels?
+
+date: 2025-01-07, from: Family Handyman Blog
+
+<p>Towels may dry you off once you're clean, but that doesn't mean they don't get dirty. How often should you wash your towels?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/when-to-wash-your-towels/">How Often Do You Really Need To Wash Your Towels?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/when-to-wash-your-towels/>
+
+---
+
+## If You See a Screw Like This, Here’s What It Means
+
+date: 2025-01-07, from: Family Handyman Blog
+
+<p>Ever struggled with a screw you just can't unscrew? Here’s what tamper-proof screws are, where they’re used, and how to get them out when you need to!</p>
+<p>The post <a href="https://www.familyhandyman.com/article/tamper-proof-screws-one-way/">If You See a Screw Like This, Here&#8217;s What It Means</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/tamper-proof-screws-one-way/>
+
+---
+
+## An Ambitious Home-Mirror Concept in Quebec Seeks $859K
+
+date: 2025-01-07, from: Dwell
+
+Contemplate nature from inside and out. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-mirror-quebec-real-estate-175fa4bb>
+
+---
+
+## The Dismantling of the Frank Gehry Project You’ve Never Heard Of
+
+date: 2025-01-07, from: Dwell
+
+Los Angeles’s New York Bagel and Co. shuttered at the end of December. Why was its architectural significance never acknowledged? 
+
+<br> 
+
+<https://www.dwell.com/article/the-frank-gehry-project-youve-never-heard-of-new-york-bagel-co-los-angeles-preservation750a4fd8-067b4eaf>
+
+---
+
+## Asking $1.9M, This Brand-New L.A. Home Is Boxy in the Best Way
+
+date: 2025-01-07, from: Dwell
+
+Built in 2024, the Mount Washington residence makes the most of its steep site with a series of stacked boxes that provide sweeping views of the San Gabriel Mountains. 
+
+<br> 
+
+<https://www.dwell.com/article/unstack-house-freelandbuck-contemporary-los-angeles-real-estate-f467c91f>
+
+---
+
+## Seriously, This Is Hands Down the Most Stylish Futon Ever
+
+date: 2025-01-07, from: Sunset Magazine - Living in the West
+
+The Sven Tufted Sofa Bed rom Article is as cute as it is cozy – and it pulls out into a king-sized bed. Plus it's totally affordable. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/article-sven-tufted-sofa-review>
+
+---
+
+## This Renovated Family Cabin Feels Like It’s Hovering Above the Puget Sound
+
+date: 2025-01-07, from: Dwell
+
+The kitchen, dining, and living spaces face a new band of windows lined with low-slung bench seating. 
+
+<br> 
+
+<https://www.dwell.com/article/horizon-house-studio-phh-family-cabin-renovation-994090a5>
+
+---
+
+## The Best Time Of Year To Get Chicks For An Egg-cellent Flock
+
+date: 2025-01-07, from: The Tiny Life blog
+
+<p>As homesteaders and farmers, we learn to work hand in hand with the changing seasons. When nature is your domain, thoughtful timing is your best friend whether you’re planting a garden or choosing the best time of year to get chicks for your chicken coop.</p>
+<p>The post <a href="https://thetinylife.com/best-time-of-year-to-get-chicks/">The Best Time Of Year To Get Chicks For An Egg-cellent Flock</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/best-time-of-year-to-get-chicks/>
+
+---
+
+## How to Grow Hellebores in Containers
+
+date: 2025-01-07, from: The Gardener's Path
+
+<p>Delicate in appearance yet hardy and tough, hellebores are unique, winter flowering perennials bearing showy, rose-like blooms when other plants are hiding from the cold. Often grown in shady beds and borders, they also make outstanding potted plants. Learn how to grow hellebores in containers in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-hellebores-containers/">How to Grow Hellebores in Containers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-hellebores-containers/>
+
+---
+
+## Do These 10 Things to Get Your Car Ready for Winter
+
+date: 2025-01-07, from: Family Handyman Blog
+
+<p>Safeguard your vehicle against harsh winter conditions with our 10-point checklist on how to winterize a car.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/winterize-car/">Do These 10 Things to Get Your Car Ready for Winter</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/winterize-car/>
+
+---
+
+## How Often Should You Reboot Your Router?
+
+date: 2025-01-07, from: Family Handyman Blog
+
+<p>Periodically restarting your router keeps your internet connection strong and deters hackers.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-often-should-you-reboot-your-router/">How Often Should You Reboot Your Router?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-often-should-you-reboot-your-router/>
+
+---
+
+## Guardians of the Coop: How to Use Geese to Protect Your Chickens
+
+date: 2025-01-07, from: The Tiny Life blog
+
+<p>After a fox started sneaking around my flock, getting guard geese for my chickens was the best decision I’ve made all year. At first, I thought geese were just good for noise and territorial aggression. However, it’s been my experience that dealing with a bit of noise is totally worth their role as guardians of chickens.</p>
+<p>The post <a href="https://thetinylife.com/do-geese-protect-chickens/">Guardians of the Coop: How to Use Geese to Protect Your Chickens</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/do-geese-protect-chickens/>
+
+---
+
+## California Just Got Two Brand New National Monuments. Here’s How to Visit.
+
+date: 2025-01-07, from: Sunset Magazine - Living in the West
+
+Chuckwalla National Monument and the Sáttítla Highlands National Monument were just announced by the White House. Here's why it's important. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-monuments-chuckwalla-sattitla>
+
+---
+
+## This Old Western Town Is the Best-Kept Secret in Colorado
+
+date: 2025-01-07, from: Sunset Magazine - Living in the West
+
+Ouray is a charming old Western town in Colorado. Here's what to do when visiting the Outdoor Recreation Capital of Colorado. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/ouray-colorado-things-to-do>
+
+---
+
+## Egg-cellent Layers: Best Chicken Breeds For Eggs
+
+date: 2025-01-07, from: The Tiny Life blog
+
+<p>So, you’ve decided that you want the best chickens for eggs. That said, egg-laying chickens come in all different sizes, colors, and dispositions. To help you determine which breed is right for you, there are a few more factors to consider. I’ll break them down below.</p>
+<p>The post <a href="https://thetinylife.com/best-chickens-for-eggs/">Egg-cellent Layers: Best Chicken Breeds For Eggs</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/best-chickens-for-eggs/>
+
+---
+
+## These Are the Must-Visit Spots in Boulder, According to a Local Expert
+
+date: 2025-01-07, from: Sunset Magazine - Living in the West
+
+A local tour guide shares her favorite places to eat, drink, and explore in the charming town of Boulder, Colorado. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/things-to-do-in-boulder>
+
+---
+
+## These Food and Dining Trends Will Dominate 2025
+
+date: 2025-01-07, from: Sunset Magazine - Living in the West
+
+It's going to be fun to dine out in 2025. Chefs share the food and dining trends that will be everywhere in the new year. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/restaurants/food-dining-trends-2025>
+
+---
+
+## Sorry, but These Design Trends Will Be Outdated in 2025
+
+date: 2025-01-07, from: Sunset Magazine - Living in the West
+
+Designers share the trends that they want to say goodbye to in 2025, from boucle to all-white palettes to modern farmhouse style. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/outdated-design-trends-2025>
+
+---
+
+## Are Moody Shades the ‘It’ Palette for 2025? Designers Weigh In
+
+date: 2025-01-07, from: Sunset Magazine - Living in the West
+
+Dark colors are in for 2025, at least in interior design. Designers share how to decorate with a moody color palette. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/moody-paint-color-trend>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-01-07, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -255,18 +579,6 @@ From climate-adaptable planting to hunt-and-gather foraging gardens, here are th
 
 ---
 
-## Sunset.com Home Page
-
-date: 2025-01-06, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## Is Peppermint Oil Safe for Dogs? Here’s What You Need to Know
 
 date: 2025-01-06, from: Yard Life blog
@@ -335,18 +647,6 @@ date: 2025-01-05, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/prune-hellebores/>
-
----
-
-## Sorry, but These Design Trends Will Be Outdated in 2025
-
-date: 2025-01-05, from: Sunset Magazine - Living in the West
-
-Designers share the trends that they want to say goodbye to in 2025, from boucle to all-white palettes to modern farmhouse style. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/outdated-design-trends-2025>
 
 ---
 

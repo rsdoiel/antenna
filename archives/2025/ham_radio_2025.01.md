@@ -1,11 +1,39 @@
 ---
 title: ham radio
-updated: 2025-01-07 07:04:02
+updated: 2025-01-08 07:05:54
 ---
 
 # ham radio
 
-(date: 2025-01-07 07:04:02)
+(date: 2025-01-08 07:05:54)
+
+---
+
+## AI at the edge: It’s just getting started
+
+date: 2025-01-08, from: EDN Blog
+
+<img width="1600" height="914" src="https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?fit=1600%2C914" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?w=1600 1600w, https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?w=1536 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><p>Processing-in-memory (PiM), a silver bullet for TinyML, is just one tool to execute SLMs and some LLMs effectively at the far edge.</p>
+<p>The post <a href="https://www.edn.com/ai-at-the-edge-its-just-getting-started/" data-wpel-link="internal">AI at the edge: It’s just getting started</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/ai-at-the-edge-its-just-getting-started/>
+
+---
+
+## Unconventional headphones: Sonic response consistency, albeit cosmetically ungainly
+
+date: 2025-01-07, from: EDN Blog
+
+<img width="1500" height="1000" src="https://www.edn.com/wp-content/uploads/Planar-magnetic-headphones.jpg?fit=1500%2C1000" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Planar-magnetic-headphones.jpg?w=1500 1500w, https://www.edn.com/wp-content/uploads/Planar-magnetic-headphones.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Planar-magnetic-headphones.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Planar-magnetic-headphones.jpg?w=1024 1024w" sizes="auto, (max-width: 1500px) 100vw, 1500px" /><p>Flat-membrane speaker drivers could be acoustically superior to cone-shaped ones, but relying on theoretical benefits isn’t always a safe bet.</p>
+<p>The post <a href="https://www.edn.com/unconventional-headphones-sonic-response-consistency-albeit-cosmetically-ungainly/" data-wpel-link="internal">Unconventional headphones: Sonic response consistency, albeit cosmetically ungainly</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/unconventional-headphones-sonic-response-consistency-albeit-cosmetically-ungainly/>
 
 ---
 
@@ -13,7 +41,7 @@ updated: 2025-01-07 07:04:02
 
 date: 2025-01-07, from: EDN Blog
 
-<img width="619" height="422" src="https://www.edn.com/wp-content/uploads/Fig-6-color-coding.png?fit=619%2C422" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-6-color-coding.png?w=619 619w, https://www.edn.com/wp-content/uploads/Fig-6-color-coding.png?w=300 300w" sizes="(max-width: 619px) 100vw, 619px" /><p>Heat shrink tubing is used for covering and protecting wire splices, of course, but also much more.</p>
+<img width="619" height="422" src="https://www.edn.com/wp-content/uploads/Fig-6-color-coding.png?fit=619%2C422" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-6-color-coding.png?w=619 619w, https://www.edn.com/wp-content/uploads/Fig-6-color-coding.png?w=300 300w" sizes="auto, (max-width: 619px) 100vw, 619px" /><p>Heat shrink tubing is used for covering and protecting wire splices, of course, but also much more.</p>
 <p>The post <a href="https://www.edn.com/a-brief-history-and-technical-background-of-heat-shrink-tubing/" data-wpel-link="internal">A brief history and technical background of heat shrink tubing</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
@@ -27,7 +55,7 @@ date: 2025-01-07, from: EDN Blog
 
 date: 2025-01-06, from: EDN Blog
 
-<img width="2440" height="720" src="https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?fit=2440%2C720" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=2440 2440w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=300 300w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=768 768w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=1900 1900w" sizes="(max-width: 2440px) 100vw, 2440px" /><p>TI’s automotive SoC releases for CES 2025 this year: a radar sensor for passenger safety, new audio processor solutions, and more.</p>
+<img width="2440" height="720" src="https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?fit=2440%2C720" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=2440 2440w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=300 300w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=768 768w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/domain-vs-zonal.png?w=1900 1900w" sizes="auto, (max-width: 2440px) 100vw, 2440px" /><p>TI’s automotive SoC releases for CES 2025 this year: a radar sensor for passenger safety, new audio processor solutions, and more.</p>
 <p>The post <a href="https://www.edn.com/ces-2025-moving-towards-software-defined-vehicles/" data-wpel-link="internal">CES 2025: Moving toward software-defined vehicles</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

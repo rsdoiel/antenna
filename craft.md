@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2025-01-07 07:04:05
+updated: 2025-01-08 07:05:57
 ---
 
 # craft
 
-(date: 2025-01-07 07:04:05)
+(date: 2025-01-08 07:05:57)
+
+---
+
+## Bringing ‘The Woodworker’ Books Back
+
+date: 2025-01-07, from: Lost Arg Press blog
+
+This week I’ve signed off on a new press run of our four-volume set of “The Woodworker: The Charles H. Hayward Years.” We ran out of stock last year, and reprinting the books became prohibitively expensive (thanks, inflation!). I didn’t want to charge people more than $200 for these foundational texts on handwork. So we... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/01/07/bringing-the-woodworker-books-back/>
+
+---
+
+## Karvsnitt – A Folk Tradition of Patterns
+
+date: 2025-01-07, from: Lost Arg Press blog
+
+The following is a portion of the introduction to Karvsnitt: Carving, Pattern and Color in the Slöjd Tradition. Cutting patterns is a natural part of working wood with hand tools. For centuries, patterns and symbols have decorated simple tools and utensils. During long winter nights in front of the fire, symbolic patterns were carved into the wood.... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/01/07/karvsnitt-a-folk-tradition-of-patterns/>
 
 ---
 

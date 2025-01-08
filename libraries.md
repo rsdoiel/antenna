@@ -1,11 +1,73 @@
 ---
 title: libraries
-updated: 2025-01-07 07:04:04
+updated: 2025-01-08 07:05:55
 ---
 
 # libraries
 
-(date: 2025-01-07 07:04:04)
+(date: 2025-01-08 07:05:55)
+
+---
+
+## We’re Seeking A Deputy Editor for The Scholarly Kitchen
+
+date: 2025-01-08, from: Scholarly Kitchen
+
+<p>Come join us in The Scholarly Kitchen! We are seeking a Deputy Editor.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/01/08/were-seeking-a-deputy-editor-for-the-scholarly-kitchen/">We&#8217;re Seeking A Deputy Editor for The Scholarly Kitchen</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/01/08/were-seeking-a-deputy-editor-for-the-scholarly-kitchen/>
+
+---
+
+## Enroll in LIB 296A, The Information Ecosystem
+
+date: 2025-01-08, from: CSUN Library Blog, Cited
+
+<div><img width="300" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/01/LIB296A-900-x-600-px-300x200.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/01/LIB296A-900-x-600-px-300x200.png 300w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/01/LIB296A-900-x-600-px-768x512.png 768w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/01/LIB296A-900-x-600-px.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></div>Are you interested in learning how information is created and consumed? Do you have questions about fake new or misinformation? Do you need a 1-unit,&#8230; 
+
+<br> 
+
+<https://library.csun.edu/blogs/cited/2025/01/08/enroll-in-lib-296a/>
+
+---
+
+## Jungle Tales of Tarzan, by Edgar Rice Burroughs
+
+date: 2025-01-07, from: Standard Ebooks, new releaases
+
+A collection of short stories about Tarzan growing up in the jungle. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/edgar-rice-burroughs/jungle-tales-of-tarzan>
+
+---
+
+## Oedipus at Colonus, by Sophocles
+
+date: 2025-01-07, from: Standard Ebooks, new releaases
+
+A prophecy is fulfilled when an exiled king dies, providing protection to Athens. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/sophocles/oedipus-at-colonus/francis-storr>
+
+---
+
+## Victory, by Joseph Conrad
+
+date: 2025-01-07, from: Standard Ebooks, new releaases
+
+A reclusive man rescues a mistreated young woman, but their romantic life on a remote island is soon disturbed. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/joseph-conrad/victory>
 
 ---
 
@@ -39,7 +101,7 @@ A king’s son embarks on an adventure to find a legendary well that grants long
 
 date: 2025-01-06, from: Association of Research Libraries News
 
-<p>Last Updated on January 6, 2025, 5:29 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 7 &#124; Wednesday, January 8 &#124; Thursday,...</p>
+<p>Last Updated on January 7, 2025, 3:12 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 7 &#124; Wednesday, January 8 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-6-9/">Day in Review (January 6–9)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
