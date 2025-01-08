@@ -1,11 +1,11 @@
 ---
 title: socal north
-updated: 2025-01-08 07:05:53
+updated: 2025-01-08 10:46:11
 ---
 
 # socal north
 
-(date: 2025-01-08 07:05:53)
+(date: 2025-01-08 10:46:11)
 
 ---
 
@@ -89,11 +89,23 @@ Numerous fires have been sparked in extreme fire danger weather, with treacherou
 
 <br> 
 
+<https://laist.com/news/climate-environment/hurst-palisades-eaton-woodley-tyler-fires>
+
+---
+
+## What we know about the fires burning right now in Southern California
+
+date: 2025-01-08, updated: 2025-01-08, from: The LAist
+
+Numerous fires have been sparked in extreme fire danger weather, with treacherous wind gusts driving devastation. 
+
+<br> 
+
 <https://laist.com/news/climate-environment/sylmar-sun-valley-palisades-eaton-fires>
 
 ---
 
-## At least 19 school districts are totally or partially closed as fires spread around LA County
+## At least 22 school districts are totally or partially closed as fires spread around LA County
 
 date: 2025-01-08, updated: 2025-01-08, from: The LAist
 
@@ -141,15 +153,27 @@ The funds were cash advances to service providers in the Los Angeles region.
 
 ---
 
-## Eaton Fire evacuation orders expand beyond Altadena, including all of La Cañada Flintridge
+## Two people die in Eaton Fire as evacuation orders expand beyond Altadena
 
 date: 2025-01-08, updated: 2025-01-08, from: The LAist
 
-A fire that started near Eaton Canyon in Pasadena at 6:23 p.m. on Tuesday and has grown to more than 2,000 acres. 
+A fire that started near Eaton Canyon in Pasadena at 6:23 p.m. on Tuesday and has grown to more than 10,000 acres. 
 
 <br> 
 
 <https://laist.com/news/climate-environment/eaton-fire-altadena>
+
+---
+
+## The Palisades Fire threatened the Getty Villa. The good news: It's still standing
+
+date: 2025-01-08, updated: 2025-01-08, from: The LAist
+
+Flames from the Palisades Fire threatened the beloved museum on Tuesday. News that the villa is intact was welcome amid the loss of many other iconic sites. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/palisades-fire-getty-villa-status>
 
 ---
 
@@ -237,11 +261,11 @@ Washington, D.C., is the next stop in former President Jimmy Carter's six days o
 
 ---
 
-## Residents flee on foot as Palisades Fire destroys homes
+## Palisades Fire: Authorities report 'high number of significant injuries' to residents who did not evacuate
 
 date: 2025-01-07, updated: 2025-01-08, from: The LAist
 
-The fire has become a nightmare scenario for multiple coastal communities. 
+The fire is a nightmare scenario for multiple coastal communities, with massive damage and no containment. 
 
 <br> 
 
