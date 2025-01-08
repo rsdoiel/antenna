@@ -1,15 +1,39 @@
 ---
 title: socal north
-updated: 2025-01-08 14:05:55
+updated: 2025-01-08 15:31:37
 ---
 
 # socal north
 
-(date: 2025-01-08 14:05:55)
+(date: 2025-01-08 15:31:37)
 
 ---
 
-## Cheat sheet: A quick round up of SoCal fire coverage and safety resources
+## Fact check: Why is Trump blaming the LA fires on Newsom’s water policies?
+
+date: 2025-01-08, updated: 2025-01-08, from: The LAist
+
+President-elect Donald Trump faulted California water policies for the devastating wildfires that are burning in Los Angeles County. The fires started because of fierce winds and extremely dry conditions. 
+
+<br> 
+
+<https://laist.com/news/politics/why-is-trump-blaming-the-la-fires-on-newsoms-water-policies>
+
+---
+
+## No weather break in sight for fire-ravaged SoCal
+
+date: 2025-01-08, updated: 2025-01-08, from: The LAist
+
+The forecast: continued winds, even drier conditions, no rain in sight. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/weather-forecast-for-fire-ravaged-socal>
+
+---
+
+## Cheat sheet: A quick roundup of SoCal fire coverage and safety resources
 
 date: 2025-01-08, updated: 2025-01-08, from: The LAist
 
@@ -165,7 +189,7 @@ Numerous fires have been sparked in extreme fire danger weather, with treacherou
 
 ---
 
-## At least 22 school districts are totally or partially closed as fires spread around LA County
+## At least 24 school districts are totally or partially closed as fires spread around LA County
 
 date: 2025-01-08, updated: 2025-01-08, from: The LAist
 
@@ -213,11 +237,11 @@ The funds were cash advances to service providers in the Los Angeles region.
 
 ---
 
-## 2 people die in Eaton Fire as evacuation orders expand beyond Altadena
+## 5 people die in Eaton Fire as evacuation orders expand beyond Altadena
 
 date: 2025-01-08, updated: 2025-01-08, from: The LAist
 
-A fire that started near Eaton Canyon in Pasadena at 6:23 p.m. on Tuesday and has grown to more than 10,000 acres. 
+Officials say the death toll rose to five Wednesday as the fire continues to burn uncontrolled. 
 
 <br> 
 
