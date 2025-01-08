@@ -1,11 +1,71 @@
 ---
 title: socal north
-updated: 2025-01-08 10:46:11
+updated: 2025-01-08 14:05:55
 ---
 
 # socal north
 
-(date: 2025-01-08 10:46:11)
+(date: 2025-01-08 14:05:55)
+
+---
+
+## Cheat sheet: A quick round up of SoCal fire coverage and safety resources
+
+date: 2025-01-08, updated: 2025-01-08, from: The LAist
+
+The basics on active fires and your one-stop shop for resources. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/southern-california-fires-tips-resources>
+
+---
+
+## Palisades and other Southern California fires could be most expensive in US history
+
+date: 2025-01-08, updated: 2025-01-08, from: The LAist
+
+"These fires will likely be the costliest in history, not the deadliest, and that is the only silver lining right now." 
+
+<br> 
+
+<https://laist.com/news/climate-environment/palisades-southern-california-fires-could-be-most-expensive-in-us-history>
+
+---
+
+## Trying to stay safe in a wildfire? There's an app that can help
+
+date: 2025-01-08, updated: 2025-01-08, from: The LAist
+
+Watch Duty, a free app for tracking wildfires, has taken off in the Western U.S. as more of the region experiences destructive wildfires and the overwhelming task of staying informed. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/trying-to-stay-safe-in-a-wildfire-theres-an-app-that-can-help>
+
+---
+
+## Cheat sheet: A very short guide for how to leave your house if you need to evacuate
+
+date: 2025-01-08, updated: 2025-01-08, from: The LAist
+
+If you’ve been ordered to leave, here’s some CalFire tips for protecting your property and making it easier for firefighters. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/short-guide-how-to-leave-your-house-if-you-evacuate>
+
+---
+
+## As SoCal fire evacuations expand, Pasadena Humane seeks pet foster families, donations
+
+date: 2025-01-08, updated: 2025-01-08, from: The LAist
+
+The animal shelter in Pasadena has taken more than 100 pets whose families have had to evacuate from the Eaton Fire. More are expected to arrive. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/pasadena-humane-seeks-pet-foster-families-donations>
 
 ---
 
@@ -109,7 +169,7 @@ Numerous fires have been sparked in extreme fire danger weather, with treacherou
 
 date: 2025-01-08, updated: 2025-01-08, from: The LAist
 
-There's no school, no activities, and no certainty about the rest of the week as the Palisades and Eaton fires spread. 
+There's no school, no activities, and no certainty about the rest of the week as multiple fires in the L.A. area spread. 
 
 <br> 
 
@@ -153,7 +213,7 @@ The funds were cash advances to service providers in the Los Angeles region.
 
 ---
 
-## Two people die in Eaton Fire as evacuation orders expand beyond Altadena
+## 2 people die in Eaton Fire as evacuation orders expand beyond Altadena
 
 date: 2025-01-08, updated: 2025-01-08, from: The LAist
 
