@@ -1,11 +1,619 @@
 ---
 title: north america
-updated: 2025-01-08 07:05:53
+updated: 2025-01-08 15:35:36
 ---
 
 # north america
 
-(date: 2025-01-08 07:05:53)
+(date: 2025-01-08 15:35:36)
+
+---
+
+## Companies now have the upper hand in the employer-worker dynamic
+
+date: 2025-01-08, from: Market Place
+
+The bargaining power that workers had a couple of years ago is not nearly as strong today.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/08/return-to-office-remote-work-employer-worker-dynamic-quits-attrition-in-person/>
+
+---
+
+## Term premium: The payoff for investing in longer-term bonds
+
+date: 2025-01-08, from: Market Place
+
+Higher yields compensate for the higher risk of investing for 10 or 30 years, when it's hard to predict how that future economy might look. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/08/term-premium-investors-higher-yields-longer-term-bonds/>
+
+---
+
+## California’s Insurance Overhaul Came Too Late
+
+date: 2025-01-08, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwMjY3Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4Mjc3NjQzOX0.QySLF5nwWwb7-RxfX-Lnrr6kbDtX0XhkSDC6GarEGgU/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
+	The massive wildfires in Pacific Palisades and Altadena in Southern California may deal a devastating blow to the state’s fragile home insurance market, which is in the midst of large-scale reforms as part of an effort to lure private insurers back to the state.
+</p><p>
+	In the years running up to yesterday’s, today’s, and <a href="https://www.latimes.com/california/story/2025-01-08/perilous-winds-will-continue-through-wednesday-fueling-destructive-l-a-fires" rel="noopener noreferrer" target="_blank"><u>likely tomorrow’s</u></a> fires, several home insurers <a href="https://www.nytimes.com/2023/06/04/business/allstate-insurance-california.html" rel="noopener noreferrer" target="_blank"><u>announced plans to stop writing new policies</u></a> in California, or <a href="https://www.latimes.com/business/story/2024-04-19/california-exodus-of-home-insurance-companies-continues" target="_blank"><u>even leave the state entirely</u></a>. The industry and many analysts blamed not just California’s famously hostile mix of dry vegetation, high winds, and scarce rains,<a href="https://www.bloomberg.com/news/articles/2024-03-21/why-insurance-rates-have-been-surging-in-california-and-florida" target="_blank"> </a>but also a rise in construction and reinsurance costs and a regulatory system that <a href="https://www.bloomberg.com/news/articles/2024-03-21/why-insurance-rates-have-been-surging-in-california-and-florida" target="_blank"><u>made it difficult</u></a> for insurers to raise rates or think prospectively about risk when setting rates.</p><p>
+	In other words, it was simply easier for insurers <a href="https://www.sfchronicle.com/california/article/home-insurance-nonrenewal-map-19589630.php" rel="noopener noreferrer" target="_blank"><u>to not renew policies</u></a> than it was for them to increase rates to better adjust for risk. Some of these <a href="https://x.com/PplsCityCouncil/status/1876904641830465923" target="_blank"><u>non-renewals occurred in the area now affected by the Eaton Fire</u></a> in Altadena, though they were <a href="https://www.sfchronicle.com/california/article/home-insurance-nonrenewal-map-19589630.php" target="_blank"><u>most prevalent</u></a> in the Bay Area and the Sierra Nevada foothills.</p><p>
+	In response, California’s insurance commissioner Ricardo Lara rolled out a set of reforms last year that<a href="https://www.insurance.ca.gov/0400-news/0100-press-releases/2024/release057-2024.cfm" target="_blank"> </a>tried to both <a href="https://www.insurance.ca.gov/0400-news/0100-press-releases/2024/release057-2024.cfm" rel="noopener noreferrer" target="_blank"><u>expand insurance in wildfire prone areas and lure insurers back to the state</u></a>. The new rules would allow insurers to use models to determine risk (not just historical data, as the law had previously been interpreted to allow) while also mandating that insurance companies operating in the state write policies in fire-prone areas as well as in those that are relatively safe. Lara then<a href="https://www.insurancejournal.com/news/west/2024/12/30/806461.htm" rel="noopener noreferrer" target="_blank"> </a>issued another rule late last year allowing insurers to <a href="https://www.insurancejournal.com/news/west/2024/12/30/806461.htm" rel="noopener noreferrer" target="_blank"><u>use the cost of reinsurance</u></a> in determining their rates, which insurers in the rest of the country <a href="https://www.capradio.org/articles/2024/12/30/california-will-soon-require-insurers-to-increase-home-coverage-in-wildfire-prone-areas/" rel="noopener noreferrer" target="_blank"><u>are allowed to do</u></a>.</p><p>
+	Allstate, which announced in November, 2022 that it would stop writing new home insurance policies in California, said last spring that it was considering a return to the state based on the possibility of <a href="https://www.insurancebusinessmag.com/us/news/catastrophe/allstate-says-it-is-considering-return-to-california-homeowners-insurance-market-486896.aspx" rel="noopener noreferrer" target="_blank"><u>models being allowed for ratemaking</u></a>. At the end of last year, partly in response to the reforms, Farmers also said that it would restart writing new policies for some lines of business in California, and that it would increase the number of new homeowners <a href="https://www.insurancejournal.com/news/west/2024/12/11/804458.htm" target="_blank"><u>insurance policies it writes every month</u></a> after <a href="https://www.insurancejournal.com/news/west/2023/07/07/729194.htm" target="_blank"><u>instituting limits in 2023</u></a>. Last week, <a href="https://www.insurancebusinessmag.com/us/news/catastrophe/verisk-submits-wildfire-model-under-new-ca-regulations-519343.aspx" target="_blank"><u>Verisk submitted a model</u></a> to project wildfire risk to the state for regulatory agency review for use in rate-setting.</p><p>
+	Consumer advocates have warned that these rules would lead to increases in insurance rates. So has Lara’s predecessor, Dave Jones, who has been skeptical of trying to grow the private insurance market by giving it more flexibility to set rates without addressing the core issues of climate change and fire management policy.
+</p><p>
+	“In the long term, we’re not going to be able to ‘rate increase’ ourselves out of this problem,” he said in an <a href="https://www.universityofcalifornia.edu/news/heres-why-you-cant-get-home-insurance-california" rel="noopener noreferrer" target="_blank"><u>interview with the University of California</u></a>, pointing to Florida’s insurance problems as an example, despite the flexibility that insurers have in setting rates there. “In the short-and mid-term for California, giving insurers proposed higher rates will get them to start writing new insurance again — although many homes in the wildland urban interface will continue to face challenges. But in the longer term, higher rates alone are likely to be overwhelmed by the higher risks and losses from climate change<em><em> — </em></em>just like in Florida.”
+</p><p>
+	Like Florida, California has a backup for the private market, an insurer of last resort. And, like Florida, it’s been trying to make it smaller, to little avail. It may now be so large as to place the rest of the state at financial risk.
+</p><p>
+	California’s FAIR Plan is a fire insurance pool that all property and casualty insurers operating in the state contribute to in proportion to how much business they have in the state; homeowners turn to FAIR when they can’t get insurance otherwise. As the state has experienced massive wildfires and insurers have pulled out, the size of the FAIR Plan has ballooned, with exposure rising to $458 billion in 2024 from $153 billion in 2020, <a href="https://www.cfpnet.com/about-fair-plan/" rel="noopener noreferrer" target="_blank"><u>even as it explicitly says</u></a> that its “goal is attrition” (i.e. getting customers back on normal insurance plans).</p><p>
+	“It’s a socialized cost,” Kate Gordon, the chief executive of California Forward, a policy nonprofit, and former advisor to Secretary of Energy Jennifer Granholm, told me. “We see more and more people switching to the FAIR plan. It’s getting massively oversubscribed. It’s going to hit some kind of wall at some point.”
+</p><p>
+	The communities with the most wildfire exposure for the insurer include vacation areas throughout the state such as Lake Arrowhead, Truckee, and Big Bear Lake, and affluent residential communities including Berkeley and the San Francisco suburb Orinda. They also include Pacific Palisades, the fifth most wildfire-exposed market for FAIR in Southern California, with some $5.9 billion of exposure.
+</p><p>
+	While the fires have yet to be substantially contained, let alone extinguished, and the damage has not yet been calculated, the still-raging fires will likely constitute a major hit to the FAIR Plan and California insurers. The number of residential FAIR policies in the Pacific Palisades zip code <a href="https://www.cfpnet.com/wp-content/uploads/2024/11/CFP5yearPIFGrowthbyzipcodethrough09302024(Residential%20line)20241112v001.pdf" target="_blank"><u>grew by over 80% between 2023 and 2024</u></a>, and has quadrupled since 2020. The total financial exposure for residential insurance in Pacific Palisades doubled in the past year, growing to almost $3 billion. In one zipcode affected by the fire in Altadena, residential FAIR plan policies grew by over 40% since 2020, with around $950 million of total exposure.</p><p>
+“As the risk of more climate change-intensified wildfires increases in California, a major wildfire in one geographical area concentrated with FAIR Plan-insured properties could overwhelm the FAIR Plan’s reserves and its capacity to quickly and fully pay consumers’ claims,” <a href="https://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/BULLETIN_2024-8__RE_INSURER_RECOUPMENT_PROCEDURES_IN_THE_HIGHLY_UNLIKELY_EVENT_OF_ASSESSMENT_BY_THE_FAIR_PLAN.pdf" rel="noopener noreferrer" target="_blank"><u>Lara wrote in a bulletin in September</u></a>.
+</p><p>Like other states with insurers of last resort, the FAIR Plan can seek cash from insurers — which could, <a href="https://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/BULLETIN_2024-8__RE_INSURER_RECOUPMENT_PROCEDURES_IN_THE_HIGHLY_UNLIKELY_EVENT_OF_ASSESSMENT_BY_THE_FAIR_PLAN.pdf" target="_blank"><u>if the losses are large enough</u></a>, extract “temporary supplemental fees from their own policyholders,” according to new California insurance regulations. This would mean that Californians who <em><em>were</em></em> able to buy private insurance — because they don’t live in a region of the state that insurers have abandoned — could be on the hook for massive wildfire losses. While such an assessment has not occurred since 1994, Victoria Roach, the FAIR Plan’s president, warned in a hearing before the State Assembly last March that a major fire <a href="https://www.paloaltoonline.com/blogs/a-new-shade-of-green/2024/03/31/wildfires-are-putting-your-insurance-at-risk-heres-why/" target="_blank"><u>could knock out the plan’s reserves</u></a> and force it to go to insurers — and their policyholders — to shell out for the difference.</p> 
+
+<br> 
+
+<https://heatmap.news/climate/la-fire-insurance-fair>
+
+---
+
+## California grapples with the cost of a year-round fire season
+
+date: 2025-01-08, from: Market Place
+
+In the past 10 years, the state’s firefighting agency, Cal Fire, has seen its budget more than double to $3.7 billion. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/08/cost-of-wildfire-season-california-fire-los-angeles-evacuation-firefighters/>
+
+---
+
+## More people are working multiple jobs again. They have multiple reasons.
+
+date: 2025-01-08, from: Market Place
+
+Some Americans work a second job to make ends meet. Others do it to build up cash or gain experience in a different field. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/08/multiple-jobs-employment-work-arrangement-labor-market/>
+
+---
+
+## Gas prices are often excluded from inflation calculations, but they do make a difference
+
+date: 2025-01-08, from: Market Place
+
+The U.S. Energy Information Administration reports that pump prices on average were 21 cents lower per gallon in 2024 than they were in 2023. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/08/gas-oil-prices-inflation-calculations/>
+
+---
+
+## Biden signs emergency declaration for California wildfires
+
+date: 2025-01-08, from: VOA News USA
+
+U.S. President Joe Biden on Wednesday approved a federal emergency declaration for California's wildfires that will release money and resources to battle the blazes. The president warned that area's recovery will take time. 
+
+
+The Los Angeles County Fire Department faced four life-threatening wildfires that have killed at least two people, burned more than 1,000 buildings, and forced tens of thousands of people to evacuate. 
+
+
+"The L.A. County Fire Department was prepared for one or two major brush fires, but not four, especially given these sustained winds and low humidities," L.A. County Fire Chief Anthony C. Marrone said Wednesday. 
+
+
+He said more than 2,000 hectares have burned and the fire is continuing to spread.  
+
+
+"We have no percentage of containment," Marrone said. 
+
+
+
+
+Officials have warned residents to pay attention to evacuation orders and leave when directed. 
+
+
+Two thousand National Guard members have been deployed to help local firefighters. 
+
+
+In the Pacific Palisades, the fire jumped from one house to the next, pushed by hurricane-force winds. In the same area, firefighters said hydrants had run dry. 
+
+
+"We had a tremendous demand on our system in the Palisades, Janisse Quiñones, chief executive and chief engineer of the Los Angeles Department of Water and Power, said Wednesday. "We pushed the system to the extreme."
+
+
+The call for water was "four times the normal demand ... for 15 hours straight," she added. 
+
+
+
+
+Later Wednesday, support aircraft that had been grounded by the strong winds were airborne again, dropping water and fire retardant on the fire. 
+
+
+More than 400,000 homes and businesses are without power across Los Angeles, according to poweroutage.us. 
+
+
+Washington is supporting California's firefighting efforts with four U.S. Forest Service large air tankers and an additional tanker in on route. The federal government has also helped the firefighting efforts with 10 helicopters. Meanwhile, dozens of the Forest Service fire engines are ready to be deployed.   
+
+
+Some information in this report came from The Associated Press. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-signs-emergency-declaration-for-california-wildfires/7930130.html>
+
+---
+
+## The New Age of Wildfire Is Overwhelming America’s Clean Air
+
+date: 2025-01-08, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwNTAwMS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4NzYyNDU0N30.d72TfO83vvDwx5MSl99_798Won_-ScSBDKWJw4_ggmo/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="">The Greater Los Angeles area is awash in smoke and ash as multiple fires burn in and around the city. It’s too soon to assess the overall pollution impacts from this rare January event, but we know the smoke is filled with tiny particles known as PM2.5, one of the most pernicious public health villains, associated with increased risk of respiratory and heart disease and premature death. </p><p>Last year, the Environmental Protection Agency <a href="https://heatmap.news/sparks/air-quality-index-what-you-need-to-know" target="_self"><u>tightened</u></a> the National Ambient Air Quality Standard for PM2.5 for the first time since 2012. The South Coast Air Quality District, which contains Los Angeles, is known for having some of the worst air quality in the country. State officials have already deemed it to be <a href="https://ww2.arb.ca.gov/sites/default/files/2024-12/Staff_Report_PM2.5_Area_Designation_Recommendations_2024_Annual_PM2.5_NAAQS.pdf" rel="noopener noreferrer" target="_blank"><u>out of compliance</u></a> — and that’s without even counting pollution from major wildfires. But new research raises questions about whether complying with the new standard will even be possible in many places due to the increasing frequency and severity of wildfires.</p><p>Marshall Burke, who <a href="https://eartharxiv.org/repository/view/8187/" rel="noopener noreferrer" target="_blank"><u>published the not-yet-peer-reviewed findings</u></a> in December, is a Stanford University researcher who has spent the past several years investigating how wildfires have affected PM2.5 exposure in the U.S. In a <a href="https://www.nature.com/articles/s41586-023-06522-6" rel="noopener noreferrer" target="_blank"><u>2023 paper published in </u><u><em><em>Nature</em></em></u></a>, he and his co-authors found that over just six years, wildfire smoke eroded decades of air quality improvements throughout the country. The trend was particularly bad in Western states, of course — some of which saw more than half of their gains erased. The pre-print of the new paper updates those findings to include data from 2023. But it also goes deeper on what this means in light of the new air quality standards. The authors find that 34% of air monitoring stations registered PM2.5 above the regulatory limit because of smoke in at least one of the last five years. </p><p>Technically, wildfire smoke is completely unregulated. Jurisdictions can request to exclude “exceptional events,” such as days when PM2.5 spiked due to wildfire, from their calculations. But as the “smoke season” has grown longer and more places experience more days with degraded air quality due to smoke, local officials have not been requesting more exemptions. The researchers analyzed applications for exemptions since 2019, and found that they were more common on days with higher levels of wildfire smoke, but were still infrequent overall. </p><p>One reason might be that local pollution control officers don’t always recognize when smoke has pushed pollution over the limit on a particular day versus other factors. There is also a “substantial resource burden involved” in demonstrating the influence of wildfire smoke on ambient air quality, the paper says. Also, as smoke becomes more commonplace, it may be more difficult for officials to make the case that a given smoke event is “exceptional.” </p><p>In any case, if this low rate of applications for exemptions continues, many more regions may find themselves to be out of compliance with the new PM2.5 standard.</p><p>In the paper’s discussion section, the researchers posit that as wildfire smoke continues to get worse, either of two possible scenarios could play out. In the first, air quality districts affected by smoke get better at applying for exemptions and therefore achieve compliance with the Clean Air Act, even as local air quality and public health deteriorate. In the second, they find other ways to stay in compliance with the standards, such as by tightening pollution caps on power plants and factories. “Such mitigation could be cost effective in many regions where abatement costs remain low relative to the benefits of further air quality improvements,” the authors write, “but could become onerous if wildfire smoke concentrations continue to grow, as is expected under a warming climate.”</p><p>The first scenario is bleak, and the second comes with a pretty big caveat. But those aren’t the only options — we can also reduce the risk of wildfires with better land-use planning and management. Unfortunately, promising strategies like controlled burns can push PM2.5 levels over the standard, and those are <a href="https://www.eenews.net/articles/forest-service-chief-prescribed-burns-conflict-with-air-rules/" rel="noopener noreferrer" target="_blank"><u>not exempt from reporting</u></a> the way that wildfires are — creating a perverse incentive not to do them.</p> 
+
+<br> 
+
+<https://heatmap.news/sparks/los-angeles-wildfire-smoke-study>
+
+---
+
+## Does Climate Change Make the Santa Ana Winds Worse?
+
+date: 2025-01-08, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwNTc0NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5Mjc3NjI2Nn0.eZaCAxI4z4Ag7BBa-JCJ6GuyI_2QvK6NH10HjNyfTRI/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">“It is the season of suicide and divorce and prickly dread, wherever the wind blows,” the great Los Angeles chronicler Joan Didion <a href="https://pasadena-library.net/adult_services/2017/the-santa-ana-winds-in-literature/" rel="noopener noreferrer" target="_blank"><u>once wrote</u></a> of the Santa Ana winds. It also happens to be the season of wildfires. The winds “<a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=354832315066989" rel="noopener noreferrer" target="_blank"><u>bedeviled</u></a>” efforts to fight the deadly Woolsey fire in 2018 and created “dangerous conditions” when they whipped the nearly 20,000-acre Mountain fire in Ventura County <a href="https://newsroom.ucla.edu/releases/mountain-fire-a-suburban-firestorm-due-to-santa-ana-winds" rel="noopener noreferrer" target="_blank"><u>this past fall</u></a>. And they were blowing, too, when a spark of unknown origin ignited <a href="https://www.latimes.com/wildfires-map/" rel="noopener noreferrer" target="_blank"><u>the now 23,000 acres</u></a> of wildfire burning through the suburbs of Los Angeles.</p><p>Though steeped in mystery and superstition (writers call them <a href="https://www.pbssocal.org/shows/lost-la/the-devil-wind-a-brief-history-of-the-santa-anas" rel="noopener noreferrer" target="_blank"><u>the “devil winds”</u></a>), the Santa Ana winds are common in Los Angeles during this time of year. (Scientists call them simply “offshore winds.”) The phenomenon is caused by winter’s cold, dry air becoming lodged in the bowl of the Great Basin, where it <a href="https://en.wikipedia.org/wiki/North_American_High#:~:text=Often%2C%20in%20the%20winter%20months,front%20on%20its%20leading%20edge." rel="noopener noreferrer" target="_blank"><u>forms a high-pressure area</u></a>. That clockwise-moving air wants to escape, and it does so by rushing down and south through the mountain passes to the low-pressure area on the coast: Los Angeles.</p><p>The wind can pick up a lot of speed — on Wednesday morning, gusts topped <a href="https://www.wsj.com/us-news/climate-environment/santa-ana-winds-palisades-california-wildfires-d625bd04" rel="noopener noreferrer" target="_blank"><u>100 miles per hour</u></a> in the San Gabriel Mountains. It can also become drier and warmer — by as much as 50 degrees Fahrenheit — as it rushes through the passes toward the coast, which is what gives the Santa Anas their signature warmth, which so many find disquieting.</p><h3>What makes the Santa Ana winds happening now unique?</h3><br/><p>For one thing, the current Santa Anas are on the upper end of the spectrum for velocity, which is part of why they have such a significant impact — and cause firefighters so much trouble. For another, there is a “rare placement of upper-level jet stream winds” giving the system a more northerly flow as opposed to the usual north-easterly orientation, Scott Capps, an atmospheric scientist and the head of Atmospheric Data Solutions, a forecasting firm, told me in an email. As a result, “many areas that are typically not impacted by Santa Ana winds were impacted.”</p><h3>Does climate change affect the Santa Anas?</h3><br/><p>“Logically, it makes sense that climate change will impact the frequency and characteristics of [the Santa Anas],” Capps told me. However, “due to the complexity of the environment, we cannot blame one single factor for any extreme weather event.” The more obvious connection between the L.A. fires and climate change is the lack of precipitation during what is supposed to be the region’s wet season; some parts of southern California have <a href="https://www.sfchronicle.com/weather/article/drought-water-fire-california-20011706.php" target="_blank"><u>received just 10% of their normal rainfall</u></a> since October, making the area <a href="https://heatmap.news/climate/los-angeles-fire-preparedness" target="_self"><u>ripe for a fire</u></a>.</p><p>Scientists <a href="https://www.science.org/content/article/california-s-fire-fanning-santa-ana-winds-may-not-get-any-better-climate-change" target="_blank"><u>used to think</u></a> that inland warming would reduce the cold weather-related high pressure in the Great Basin and weaken the Santa Anas. While it does appear that so-called “cold” Santa Anas — caused by air in the Great Basin that is so cold initially that it’s still chilly when it reaches L.A., and which account for about a third of all Santa Anas — are becoming less frequent, the more traditional “warm” winds that are associated with wildfires <a href="https://www.science.org/content/article/california-s-fire-fanning-santa-ana-winds-may-not-get-any-better-climate-change" rel="noopener noreferrer" target="_blank"><u>don’t actually seem</u></a> to bear out this hypothesis. Instead, they “are spread uniformly over the seven decades of record,” the authors of <a href="https://link.springer.com/article/10.1007/s00382-021-05802-z#Abs1" rel="noopener noreferrer" target="_blank"><u>a 2021 study</u></a> wrote.</p><p>If climate change is doing anything to warm or accelerate Santa Anas, the data would appear to suggest“an increasing potential of warmer and drier [Santa Ana winds] to dry out coastal vegetation and, particularly in anomalously dry winters, enhance the coastal wildfire season even into spring,” the authors went on.</p><p>While it’s far too soon to link the California disaster to climate change, the study’s authors now seem prescient: dry vegetation and an unusually dry winter both go far in explaining why this week’s fires are so <a href="https://heatmap.news/climate/los-angeles-fires" target="_self"><u>destructive</u></a>.</p> 
+
+<br> 
+
+<https://heatmap.news/guides/santa-ana-winds-climate-change>
+
+---
+
+## Former President Jimmy Carter lies in state at US Capitol
+
+date: 2025-01-08, from: VOA News USA
+
+Washington — Thousands of people braved freezing temperatures to come to the U.S. Capitol to pay their respects to former President Jimmy Carter, who lay in state Wednesday in the heart of American democracy ahead of his pomp-filled state funeral.
+
+
+Mourners, who included numerous elected officials and Vice President Kamala Harris, highlighted the achievements and the humanity of the100-year-old, who died last month.
+
+
+David Smith, a professor at the Carter School for Peace and Conflict Resolution at George Mason University, said that the former president obviously impacted his career. He told VOA that he came to the Capitol to honor the man but also to honor Carter’s causes.
+
+
+“He had such an impact on so many people,” he said. “His work on advancing minorities, appointments of women to the judiciary, protecting our environment, advocating for human rights – all those things are very important things to me.”
+
+
+The former president’s flag-draped coffin arrived in the Capitol rotunda Tuesday, ahead of Thursday’s national funeral.
+
+
+
+
+In that soaring space – where only about 50 Americans have been recognized with this distinct honor since 1852 – Senate Majority Leader Jon Thune, in a service late Tuesday, described Carter as: “Navy veteran, peanut farmer, governor of Georgia. And president of the United States. Sunday school teacher. Nobel Prize winner. Advocate for peace and human rights. And first and foremost, a faithful servant of his creator and his fellow man."
+
+
+And Vice President Harris – who a day earlier, in this building, certified the victory of the next president – extolled Carter’s policy.
+
+
+"He was the first president of the United States to have a comprehensive energy policy, including providing some of the first federal support for clean energy,” she said Tuesday. “He also passed over a dozen major pieces of legislation regarding environmental protection. And more than doubled the size of America's national parks."
+
+
+Carter, who served as the 39th president, died December 29 at the age of 100 after nearly two years in hospice care in the state of Georgia. Since then, his final journey has taken his remains over the skinny roads of his humble hometown of Plains; down the boulevards of Atlanta, the state capital, and through the skies to snowy Washington, for his state funeral.
+
+
+
+
+At the U.S. Capitol, lawmakers told VOA what the 39th president meant to them.
+
+
+Congresswoman Alma Adams, a North Carolina Democrat, said Carter was “a real moral person.”
+
+
+“He taught Sunday school – I did, too!” she said, smiling. “But I think (it’s) the fact that he cared about all people. He was a people’s president.”
+
+
+
+South Carolina Republican Representative Ralph Norman told VOA that while he did not align with Carter politically, “President Carter was a good man. President Carter was a man who served his country. He loved America. I didn’t agree with all of his policies, but you couldn’t (dis)agree with his patriotism, you couldn’t disagree. He just loved his country.”
+
+
+President Joe Biden will deliver the eulogy for his fellow Democrat on Thursday.
+
+
+"We may never see his like again, you know we can all do well to try to be a little more like Jimmy Carter,” Biden said in late December after receiving news of Carter’s death.
+
+
+Analysts say the two men have a few things in common.
+
+
+“There's an obvious similarity; that is, that Carter turned out to be a one-term president, and Biden turned out to be a one-term president,” Bill Galston, a senior fellow at the Brookings Institution, told VOA on Zoom. “And that's never a reflection of the right combination of politics and policy. In both cases, I would say that the two presidents put the policy ahead of the politics. And they paid the price for that.”
+
+
+Thursday’s funeral will bring together President Biden and former presidents, including Biden’s predecessor and successor, Donald Trump. When asked what Carter and the next and previous president have in common, Galston paused.
+
+
+“I don't even know how to begin to answer that question,” he said finally. “The two are polar opposites in every respect that I can think of, except one. And that is, they both attained the presidency as outsiders.”
+
+
+And now, here lies this outsider, decades after his presidency ended, inside his nation’s most venerated space.
+
+
+Paris Huang, Mykhailo Komadovsky and Kim Lewis contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/former-president-jimmy-carter-lies-in-state-at-us-capitol/7930056.html>
+
+---
+
+## Former President Jimmy Carter lies in state in US Capitol
+
+date: 2025-01-08, from: VOA News USA
+
+Former President Jimmy Carter lies in state Wednesday in the heart of the U.S. Capitol. A pomp-filled state funeral Thursday will bring all of his living successors together, under one roof, to mourn him. VOA’s Anita Powell reports. Mykhailo Komadovsky and Kim Lewis contributed. 
+
+<br> 
+
+<https://www.voanews.com/a/former-president-jimmy-carter-lies-in-state-in-us-capitol/7930040.html>
+
+---
+
+## In Los Angeles, Preparedness Wasn’t the Problem
+
+date: 2025-01-08, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwMjUzMy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0ODc0OTYzN30.CnpxkE4-1gnhb1K3VQSfWMgMgJXBY1S4RswgvZRz1TI/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">January is one of the worst months of the year for wildfires — in southern Australia. Not in the metro area of Los Angeles, where it is, technically, supposed to be the rainy season. </p><p>But try telling a fire that it’s unseasonal.</p><p>At the time of this writing, three wildfires are burning in the Los Angeles area, mostly uncontained: the nearly 3,000-acre Palisades fire in the hills between Santa Monica and Malibu; the 500-acre Hurst fire in Sylmar, northwest of downtown L.A.; and the 2,300-acre Eaton fire outside of Pasadena. The fire has destroyed more than 1,000 buildings — including, apparently, the home of reality TV royals <a href="https://www.thecut.com/article/heidi-montag-and-spencer-pratt-react-to-palisades-wildfires.html" rel="noopener noreferrer" target="_blank"><u>Heidi Montag and Spencer Pratt</u></a> — and <a href="https://www.latimes.com/california/live/pacific-palisades-fire-updates-los-angeles" rel="noopener noreferrer" target="_blank"><u>at least two people have died</u></a>. Emergency management officials told an additional 30,000 people to evacuate immediately, a number that is likely to climb as dry, windy conditions worsen throughout the day on the West Coast. Though it’s still early in the unfolding disaster, forecasters expect fire weather to continue through at least Thursday, and some experts are already saying the event may end up being <a href="https://www.cnn.com/weather/live-news/los-angeles-pacific-palisades-eaton-wildfires-01-08-25/index.html?t=1736358986008" rel="noopener noreferrer" target="_blank"><u>the costliest wildfire on record</u></a>.</p><p>It’s not the case, however, that this unusual storm has taken emergency management or the public by surprise. “We’ve been advertising this event for several days and talking about how serious it could be starting last week,” Kristen Allison, a fire management specialist with the Southern California Geographic Area Coordination Center, told me. Given the high Santa Ana winds —which, with their <a href="https://x.com/NWSLosAngeles/status/1877001296735051828" rel="noopener noreferrer" target="_blank"><u>100-mile-per-hour gusts</u></a>, were strong enough to blow unimpeded over the San Gabriel mountains and hit typically sheltered areas like Pasadena — and the low humidity, forecasters saw all the classic warning signs of wildfire well in advance.</p><p>It’s not the wind or dry air that is so atypical for January, though. “We haven’t had significant rain since April, so we’ve been dry for eight or nine months,” Allison went on. “Our fuels are basically bone dry at this point.” </p><p>And there is <em><em>a lot</em></em> of fuel waiting to burn after the region’s wet spring — a dangerous situation created by the see-sawing between extremes that is typical of climate change. <a href="https://www.sfchronicle.com/weather/article/drought-water-fire-california-20011706.php" rel="noopener noreferrer" target="_blank"><u>Earlier this year</u></a>, the U.S. Drought Monitor classified many parts of the state as being in a “moderate” drought, a trend that also <a href="https://heatmap.news/guides/is-extreme-weather-climate-change" target="_self"><u>has strong links to climate change</u></a> and will have dried out the vegetation in the hills. </p><div class="horizontal-rule"></div><p><em>Get the best of Heatmap in your inbox daily.</em></p><p><em></em><div id="mc_embed_signup"><form action="https://news.us13.list-manage.com/subscribe/post?u=eacecbac4b1d10158b5b6fbad&id=c5c20b220f&f_id=00a03fe3f0" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" target="_self"><div id="mc_embed_signup_scroll"><div class="indicates-required"><span class="asterisk">*</span> indicates required</div><div class="mc-field-group"><label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label><input class="required email" id="mce-EMAIL" name="EMAIL" placeholder="Your Email" required="" type="email" value=""/><span class="helper_text" id="mce-EMAIL-HELPERTEXT"></span><a class="policy__link" href="/privacy-statement">Our Privacy Policy & Terms Apply.</a></div>
+<li style="display:none!important;"><input checked="" id="mce-group[699211]-699211-0" name="group[699211][1]" type="checkbox" value="1"/></li>
+<input class="hidden hs-am" name="mcam" type="text" value="Yes"/>
+<input class="hidden hs-am" name="mcdaily" type="text" value="Yes"/>
+<div class="clear" id="mce-responses"><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div></div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div aria-hidden="true" style="position: absolute; left: -5000px;"><input name="b_eacecbac4b1d10158b5b6fbad_c5c20b220f" tabindex="-1" type="text" value=""/></div><div class="clear"><input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Sign Up"/></div></div></form></div></p><div class="horizontal-rule"></div><p>Making matters worse, the winter storms that usually hit the L.A. area this time of year have tracked north, soaking the Pacific Northwest and Northern California instead. L.A.’s fires, then, are “not so much a temperature story,” Max Moritz, a cooperative extension wildfire specialist at U.C. Santa Barbara’s Bren School of Environmental Science & Management, told me. “This is really more of a precipitation and climate change story.” All the landscape was ever going to need, in other words, was a spark.</p><p>It might be a long time before we discover what <a href="https://heatmap.news/climate/park-fire-arson" target="_self"><u>this particular spark</u></a> was. But it also doesn’t really matter. “Once fires like this start, there is not a whole lot firefighters can do,” Neil Lareau, a professor of atmospheric science at the University of Nevada, Reno, told me. “The pre-positioning of resources — all of that was there. But you see the impossibility of the task at hand once the fires get going.”</p><p>Allison agreed that few who live in the fire-prone hills outside of Malibu or Pasadena are likely to have ignored the warnings just because they’ve otherwise been lucky <a href="https://en.wikipedia.org/wiki/Woolsey_Fire" target="_blank"><u>lately</u></a>. “People know that if we haven’t had rain in months and months and months, and we got the wind coming — they know this is fire weather,” Allison said. The lack of significant casualties so far might be attributed to the fact that as awful as the <em><em>physical</em></em> destruction is, this is also what southern California <em><em>does</em></em>, even if it’s an unusual time of year.</p><p>But Scott Capps, an atmospheric scientist and the head of Atmospheric Data Solutions, a forecasting firm, pointed out to me in an email that just because we expect fire weather, “we cannot predict where and when a wildfire ignition will happen.” As he explained, the terrain of southern California is complex and extraordinarily difficult to accurately model; in a fast-moving situation like the fires in L.A., the advantages of predicting fire weather quickly reach their limits. Especially when a wildfire starts burning between fuel-rich homes, entire neighborhoods can quickly go up in smoke.</p><p>The late author and urban theorist Mike Davis once argued that <a href="https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/" rel="noopener noreferrer" target="_blank"><u>we should let Malibu burn</u></a>. “After every major California blaze, homeowners and their representatives take shelter in the belief that if wildfire can’t be prevented, nonetheless, its destructiveness can be tamed,” he wrote, adding: “Yet, as a contemporary Galileo might say … ‘still it burns.’” </p><p>Davis was writing in 1998, a time when he described fire season as “late August to early October.” Many would <a href="https://heatmap.news/culture/the-last-fire-season-manjula-martin#:~:text=fire%20season%20isn%E2%80%99t%20really%20a%20thing%20anymore." target="_self"><u>argue now</u></a> that there isn’t such a thing as a fire “season” anymore. Allison warned me that the forecast looks favorable for fires through Friday, and that “additional winds are coming next week” and “we’re not going to see rain anytime soon.” At a certain point, Davis’ wry pessimism might not seem not so crass. </p><p>Moritz, though, wanted to be clear in distinguishing between the inevitabilities. “We have built communities right up into and against flammable landscapes, so yes, it is inevitable that many of these neighborhoods are going to experience a fire,” he explained. But “is it inevitable that we would have this many home losses, or have to evacuate this many people, and who knows how many fatalities may end up emerging — is <em><em>that</em></em> part inevitable? No.”</p><p>Predicting fires is, of course, <em><em>vitally</em></em> important: Warnings and outlooks prevent deaths, promote <a href="https://heatmap.news/guides/how-to-protect-home-from-wildfire" target="_self"><u>home-hardening and resilience measures</u></a>, and help encourage smooth evacuations that, in turn, keep first responders safe. But when you have an alignment of conditions like these, prediction will never equal prevention. Moritz argued that we need to move beyond “preventing” fires, anyway — it’s more important that we begin to think of land use and urban planning as public health measures. “We need to have urban design standards that explicitly address the need for more survivable communities” in southern California, he told me.</p><p>Because of the climate, because of bad luck, because of the folly of wanting to live somewhere with that perfect Pacific view — California was going to catch fire. “I think there are going to be some tragic outcomes that we hear about,” Moritz said, “and if there are any lessons that we can take away, it’s that we have to learn to coexist with this kind of inevitable natural hazard.” </p> 
+
+<br> 
+
+<https://heatmap.news/climate/los-angeles-fire-preparedness>
+
+---
+
+## In Terror of Embers in Los Angeles
+
+date: 2025-01-08, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwNTA1MS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0NDQ0NTU1Mn0.-aPeEJM65Dk5qpgZJdOEQC9-FOKlLaa73kTBTR3zvY8/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Ask me one thing I love about living in Los Angeles and there’s a good chance I’d say, <em><em>Because it’s wild</em></em>. The giant city park near us is no flat, grassy plane for picnicking and Frisbee, but a rugged expanse of coyotes and the occasional <a href="https://www.nps.gov/articles/000/puma-profiles-p-22.htm" rel="noopener noreferrer" target="_blank"><u>mountain lion</u></a>, God rest his soul. Outside my window loom the San Gabriel Mountains, loaded with hiking trails. </p>
+<p>This is a place integrated with nature. People hike after brunch. But, as we must say at times like this, there is a cost to that.</p>
+<p>The skies are dark today after <a href="https://www.latimes.com/california/live/pacific-palisades-fire-updates-los-angeles" rel="noopener noreferrer" target="_blank"><u>two enormous wildfires</u></a> sprang up overnight, sparked and fueled by ferocious Santa Anas. The winds, which blow hot air from the inland Great Basin toward the ocean, typically bring unseasonably warm days and fire danger in autumn. This January incident brought gusts as high as 100 miles per hour that rattled our windows and downed trees across town.</p>
+<p>First came the fire in the <a href="https://x.com/JonVigliotti/status/1877020919475884110" rel="noopener noreferrer" target="_blank"><u>Pacific Palisades</u></a>, the area between the city’s ritzy western beach towns and the oft-burning hills of Malibu. The Palisades fire turned into a beast in a hurry as tens of thousands of people abandoned their homes and parts of Santa Monica went on high alert. Bulldozers <a href="https://www.bbc.com/news/videos/c24n4pz6p2eo" rel="noopener noreferrer" target="_blank"><u>bulldozed</u></a> abandoned cars to make way for fire trucks.</p>
+<p>Later in the evening, a second blaze began in Eaton Canyon, whose waterfall makes it one of the busiest hiking destinations in town. Eaton spread quickly in the dry mountains above Pasadena, forcing evacuations and alerts in the cities like Altadena and La Cañada Flintridge and creating a dark cloud of smoke over the San Gabriel Valley. At Caltech, where I work, the campus is wind-beaten and classes are canceled, as they are at plenty of area school districts.</p>
+<p>L.A. woke up Wednesday morning to find itself between two fires. And those two enormous events, each of which has consumed thousands of acres by now, aren’t the end of it. Another major wildfire broke out north of the city near Santa Clarita. Smaller blazes have popped up all around town like a cruel game of Whack-a-Mole — in Pasadena, in Culver City, and close to here, by Dodger Stadium. Mercifully, most of these flare-ups were extinguished before they could spread.</p>
+<p>In social media posts, residents are recommending to each other the excellent <a href="https://www.watchduty.org/" rel="noopener noreferrer" target="_blank"><u>Watch Duty</u></a> app that tracks fires as they develop. To have that on your phone this week is to be barraged by messages about new evacuation orders and new fires blazing up. With the whole region bone-dry and the gusts unrelenting, the city suddenly feels like a minefield. Any expanse of tree or scrub could be the next one to catch fire. As I watched out my window last night to see the mountain flames dance in the distance, a power line explosion in the foreground darkened part of a neighborhood across the river.</p>
+<p>Such gloom was already a signature part of late summer and autumn in California, when the months of near-zero precipitation create a tinderbox in the hills and the mountains. Now, wildfires are seasonally unbounded. No significant rain has fallen in November or December. That, plus, an extremely hot and dry summer, led to the parched conditions that combined with freak winds to set the city ablaze during what used to be a wet month.</p>
+<p>This is the way of things now. During the past two winters, El Niño conditions dropped heavy rainfall around Los Angeles that added snowpack to the mountains and eased drought conditions in the area. This winter we haven’t been so fortunate. In a climate-changed L.A. with less rain during its rainy season, the delicate balance of the city starts to tilt out of balance. It’s harder and harder to have neighborhoods in and up against the mountains, when wildfires seem to come so much more often.</p>
+<p>These events inevitably trigger a wave of “How could you live in such a place?” Of course, you could ask the same thing of the tornadoes that sweep through where I’m originally from, or the hurricanes of the Gulf Coast. Every place has its disasters, and major wildfires are growing more common everywhere, not just in California. Retreat is an illusion.</p>
+<p>What matters, here and elsewhere, is resilience. Not just the psychological kind that means we recover and come back, but the practical, logistical kind, like decentralized electrical grids that are less vulnerable to natural disasters and help people keep the lights on when the worst happens. We must build for the unexpected now that the freak cataclysm isn’t a freak event anymore. </p> 
+
+<br> 
+
+<https://heatmap.news/climate/los-angeles-fires>
+
+---
+
+##  Biden And Trump Help Wall Street Prey On Your Retirement 
+
+date: 2025-01-08, from: The Lever News
+
+ Thanks to Trump’s giveaways and Biden’s reticence, private equity is coming for your 401(k) savings.  
+
+<br> 
+
+<https://www.levernews.com/biden-and-trump-help-wall-street-prey-on-your-retirement/>
+
+---
+
+## The Growing Push to Ban Renewable Energy in Oklahoma
+
+date: 2025-01-08, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwNDY1NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NDY3MTE4NX0.GWD8fKDO5LhgYIucHSvau9f8JLfd57jAtFk7zXYYwDU/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">There’s a nascent, concerted effort to make Oklahoma the first state to ban new renewable energy projects. And it’s picking up steam. </p>
+<p>Across the U.S., activism against wind and solar energy has only grown in intensity, power, and scope in tandem with the recent renewables boom. This is in direct contrast to hopes many in the climate movement had that these technologies would become <em><em>more</em></em> popular as they entered communities historically hostile to the idea of switching away from fossil fuels. If anything, grassroots angst toward the energy transition has only surged in many pockets of the country since passage of the nation’s first climate law – Inflation Reduction Act – in 2022. </p>
+<p>Nowhere is this more true than Oklahoma, which on paper resembles a breadbasket of possibilities for the “green” economy. Oklahoma is the nation’s <a href="https://www.eia.gov/state/analysis.php?sid=OK#9" rel="noopener noreferrer" target="_blank"><u>third largest generator</u></a> of wind energy, home to a burgeoning solar energy sector, a <a href="https://h2alo.org/" rel="noopener noreferrer" target="_blank"><u>potential hydrogen hub</u></a>, and maybe even the nation’s <a href="https://ictnews.org/news/native-activists-fighting-nickel-and-cobalt-refinery" rel="noopener noreferrer" target="_blank"><u>first refinery for cobalt</u></a>, a rare metal used in electric vehicles. Yet yesterday, hundreds of people flocked to Oklahoma City, filled a giant hall in the state’s capitol building to the brim, and rallied for the state’s governor Kevin Stitt to issue an executive order to stop new wind and solar energy facilities from being built. </p>
+<p>“Welcome Oklahoma, for braving the cold out there into this very warm and receiving Capitol. And y’know what? Our warmth today was not brought to us by green energy,” Oklahoma Attorney General Gentner Drummond told the rally audience. </p>
+<p>It’s exceedingly likely these folks won’t get an executive order any time soon. Oklahoma Republican governor, Kevin Stitt, has embraced these technologies as job creators. “Oklahoma is an oil and gas state through and through, but we also generate about 47% of our electricity from renewable sources,” he wrote <a href="https://x.com/GovStitt/status/1827063872353923552" rel="noopener noreferrer" target="_blank"><u>on X</u></a> in August. “I just don’t think the government should pick winners and losers or force us to choose between one or the other.” Weeks ago, he <a href="https://oklahoma.gov/governor/newsroom/newsroom/2024/nov2024/governor-stitt-signs-energy-mou-with-ambassador-of-denmark.html" rel="noopener noreferrer" target="_blank"><u>signed a memorandum of understanding</u></a> between the state and the nation of Denmark to collaborate more on wind energy. </p>
+<p>But the political gusts are blowing in the direction of a ban. Exhibit A: Drummond, who it’s <a href="https://www.news9.com/story/67461d65ef6c021a9ebcd99d/oklahomas-2026-governors-race:-key-figures-who-have-been-speculated-to-run" rel="noopener noreferrer" target="_blank"><u>rumored may run</u></a> to replace Stitt and who at the rally pledged to work with legislators to pass a bill ending the deal with “quasi-socialist” Denmark. The rally also featured Oklahoma’s Education Secretary Ryan Walters, whose name has also been included in gubernatorial chatter. </p>
+<p>This uprising in Oklahoma has been happening for quite some time, without much fanfare due to a persistent and pernicious <a href="https://www.kgou.org/politics-and-government/2023-01-03/oklahoma-news-deserts-data-shows-voting-sagged-in-orphan-counties" rel="noopener noreferrer" target="_blank"><u>news desert problem</u></a> in the state (and <a href="https://www.thenation.com/article/archive/news-deserts-climate-disaster/" rel="noopener noreferrer" target="_blank"><u>many others</u></a>). Like other states, it is becoming more commonplace for towns and counties there <a href="https://www.okenergytoday.com/2024/12/legislators-take-a-stand-against-a-possible-mcintosh-county-wind-farm/" rel="noopener noreferrer" target="_blank"><u>to face pressure</u></a> to <a href="https://okcfox.com/news/local/tired-of-being-taken-advantage-of-officials-voice-support-for-wind-farm-moratorium-lincoln-county-turbines-power-energy-apex-clean-green-enel-robbie-jeff-mccommas-sandstone-hills-cedar-run-commissioner-board-garber-wellington-aquifer-iowa-tribe-jacob" rel="noopener noreferrer" target="_blank"><u>support moratoriums</u></a> against developing new projects, and GOP lawmakers are also increasingly facing primaries over offering any support to wind or solar energy, or even just remaining neutral on whether projects get built. One such casualty in the last election cycle was Kevin Wallace, the GOP chair of the Appropriations and Budget Committee in the statehouse, who <a href="https://www.oklahoman.com/story/news/politics/government/2024/08/22/oklahoma-elections-2024-runoffs-kevin-wallace-jim-shaw/74874494007/" rel="noopener noreferrer" target="_blank"><u>was dethroned</u></a> by a political newcomer – Jim Shaw, who ran heavily on anti-renewables policies, including a statewide moratorium. </p>
+<p>“It’s a groundswell,” said Pam Kingfisher, an environmental activist in northeast Oklahoma. Kingfisher is a Democrat but she has her own concerns with the environmental impacts that wind turbines could have in her community, the town of Kansas. So she’s grateful for this uprising. </p>
+<p>“They’re attacking their own people and being very effective and I’m standing back going, ‘hey yes, take them on.’” </p>
+<p>Suffice it to say, these activists feel emboldened by the primary wins and Trump’s election. Charity Linch, chair of the Oklahoma chapter of the Republican National Committee, told me she doesn’t believe the “pro-renewable Republican” will exist much longer in the state. </p>
+<p>“I don’t believe that’s going to continue in Oklahoma,” Linch told me. “If they haven’t figured it out yet, they will very soon.” </p>
+<p>Linch is the proud founder of Freedom Brigades, a grassroots network of activists with members in several states. The Freedom Brigade chapters for two counties conflicted over wind – McIntosh and Pittsburg – were instrumental in organizing the rally. Linch said Freedom Brigades also helped support some of the successful primary challengers in this past election cycle, and that her members were partially responsible for the Oklahoma GOP <a href="https://www.cnn.com/2024/01/29/politics/oklahoma-gop-condemns-censures-lankford-border-negotiations/index.html" rel="noopener noreferrer" target="_blank"><u>censuring Sen. James Lankford</u></a> last year over a bipartisan border deal in Congress – causing the bill <a href="https://missouriindependent.com/2024/05/24/bipartisan-border-bill-loses-support-fails-procedural-vote-in-u-s-senate/" rel="noopener noreferrer" target="_blank"><u>to die</u></a>. </p>
+<p>From talking to Linch, it’s clear to me that renewable developers should pay close attention to the Oklahoma uprising. So should Washington, because as talk in Congress proceeds toward changing the Inflation Reduction Act, rest assured some of these people will contact their members of Congress when the time comes. And you should expect the same from the myriad of anti-renewables activists in other states fighting solar and wind projects in their own backyards. </p>
+<p><strong>Getting Red In The Face</strong></p>
+<p>Why is this rebellion happening in Oklahoma? Well, if you ask Oklahomans, they’ll count the reasons. </p>
+<p>Activists involved in planning the rally told me the biggest reason for the uproar was that solar and wind projects aren’t bringing the ample jobs developers and policymakers promise, making their presence in communities more difficult to stomach. Others point to environmental concerns, from the impacts these projects can have on species to the chemicals used to make them. Like Saundra Traywick, a donkey farmer who attended the rally and author of a <a href="http://change.org" rel="noopener noreferrer" target="_blank"><u>Change.org petition</u></a> supporting a state renewables ban that has more than 3,000 signatures. The petition claims wind turbines present “hazards to the health, safety, and welfare of the people.” </p>
+<p>“They resort to calling us names instead of listening to us,” Traywick told me. “None of us wanted to get involved in any of this. We didn’t want to be involved in politics. These are farmers that are dealing with freezing temperatures,” referencing the temperature outside the rally. </p>
+<p>There’s a serious issue of tribal opposition, given a 2020 Supreme Court ruling that found nearly half of all lands in Oklahoma fall under some form of tribal sovereignty. As Heatmap’s Matthew Zeitlin <a href="https://heatmap.news/climate/sunzia-lawsuit-blm" target="_self"><u>explained last year</u></a>, this means developers may also need to get mineral rights approvals from tribal government bodies. Two weeks ago, a federal judge <a href="https://www.kjrh.com/news/local-news/justice-judge-orders-removal-of-8-400-acre-wind-farm-on-osage-reservation" rel="noopener noreferrer" target="_blank"><u>ordered the removal</u></a> of 84 wind turbines on those grounds, stating the developer Enel Green Power failed to get adequate permission from the Osage Nation. </p>
+<p>Some involved in this push for a renewables ban are also open about another rationale: They want to help oil and gas production, a key source of employment in the state. </p>
+<p>“Why are we as a state being forced to fund our own demise essentially, with our federal taxpayer dollars, to prop up an industry that’s literally killing the backbone industry of our state, which is oil and gas?” Shaw said on <em><em>Breitbar</em></em>t’s Conservative Review <a href="https://zeno.fm/podcast/conservative-review-with-daniel-horowitz/episodes/colonizing-red-states-with-green-grift-12-4-24/" rel="noopener noreferrer" target="_blank"><u>podcast in December</u></a>. </p>
+<p>To anyone who believes, as the vast <a href="https://www.axios.com/2025/01/07/hottest-year-record-2024-climate-change" rel="noopener noreferrer" target="_blank"><u>majority of scientists say</u></a>, that <a href="https://www.reuters.com/sustainability/climate-energy/what-is-latest-science-telling-us-about-climate-change-2025-01-06/" rel="noopener noreferrer" target="_blank"><u>climate change is real</u></a> and to <a href="https://climate.nasa.gov/news/3134/reducing-emissions-to-lessen-climate-change-would-yield-dramatic-health-benefits-by-2030/" rel="noopener noreferrer" target="_blank"><u>avert catastrophe</u></a> we must <a href="https://www.iea.org/topics/climate-change" rel="noopener noreferrer" target="_blank"><u>quickly build an energy grid</u></a> that <a href="https://www.climate.gov/news-features/climate-qa/does-it-matter-how-much-united-states-reduces-its-carbon-dioxide-emissions" rel="noopener noreferrer" target="_blank"><u>produces far fewer carbon emissions</u></a>, these may all look like terrible reasons. </p>
+<p>But if you don’t believe that climate change is real, or you believe it’s an overrated problem… renewables are just a much harder sell. </p>
+<p>“Most of us do not believe we need to reduce our CO2 to begin with,” NeAnne Clinton, an <a href="https://www.instagram.com/reel/DB6kgDGKCrc/" rel="noopener noreferrer" target="_blank"><u>activist fighting</u></a> a large <a href="https://www.nexteraenergyresources.com/skeleton-creek-project.html" rel="noopener noreferrer" target="_blank"><u>NextEra solar-plus-battery project</u></a> in Garfield County, Oklahoma, told me. “We know that it’s a scam and we don’t support it. And we don’t support using our taxpayer money for something that we didn’t have a voice in.” </p>
+<p>Cheyenne Branscum, chair of Sierra Club’s Oklahoma chapter, told me it is difficult for supporters of renewable energy to counter this insurgent populist movement against the sector. Part of the dilemma is that environmental activism itself is seen by many of the state’s most red-blooded Republicans as a “radical” act, so if climate advocates were to organize counter protests it would likely backfire. When asked how her organization and others could best deal with the anti-renewables sentiment rising in her state, she talked about <a href="https://www.sierraclub.org/oklahoma/programs/education" rel="noopener noreferrer" target="_blank"><u>education programs</u></a> – not confrontation. </p>
+<p>“We’re not going to change anything at the state capital,” Branscum told me. “All a counter rally is going to do is make them have more opportunities to make us into a meme. They’re going to have some angry picture out there with a sign and be labeled some crazy radical that doesn’t care about their community. And it is unfortunately a hurdle.” </p>
+<p><strong>The Sooners’ Warning Shot</strong></p>
+<p>The Oklahoma rebellion should be cold comfort for anyone who buys into one of the <a href="https://heatmap.news/politics/biden-climate-policy" target="_self"><u>implicit political principles</u></a> behind the country’s first climate law – the Inflation Reduction Act. </p>
+<p>Whether folks in D.C. want to admit it or not, the American anti-renewables revolution is rising up as Donald Trump retakes the White House and it is going to try and make its own impact on the Inflation Reduction Act. While much ado has been made about how the <a href="https://www.cnn.com/2024/06/16/climate/clean-energy-investment-republicans/index.html" rel="noopener noreferrer" target="_blank"><u>overwhelming majority</u></a> of monetary benefits from the IRA are supporting investments in Republican-controlled states, as veteran lobbyist Frank Maisano put it <a href="https://heatmap.news/politics/republicans-ira-climate-law" target="_self"><u>to me last year</u></a>, “Businesses will support many things that they have their tentacles into and Republicans will support many things that are going on in their districts that constituents like.” </p>
+<p>“The reality is, if you’re going to try to repeal it,” Maisano said, “you’re going to have to do it through Congress and a lot of the action in the energy transition is in Republican districts. It becomes a constituent issue.”</p>
+<p>What if many Republican constituents simply don’t like these new investments, in spite of the promises of jobs or tax benefits? What happens if Republicans in Congress are primaried simply for allowing solar and wind to keep getting federal tax breaks?</p>
+<p>None of this surprises Nathan Jensen, a Texas University professor specializing in resource politics, who believes Oklahoma will only be the first to face a movement for a state-wide ban on new renewables. Just look at Texas where, like Oklahoma, the energy sector has become a panacea for wind and solar energy but many GOP policymakers <a href="https://heatmap.news/politics/renewable-energy-texas-senate-voting" target="_self"><u>have turned</u></a> on <a href="https://www.texastribune.org/2023/03/01/chapter-313-texas-renewables-economic-development/" rel="noopener noreferrer" target="_blank"><u>economic development packages</u></a> for new renewables. A state-wide ban hasn’t been discussed yet, but Jensen can imagine the idea gaining traction. </p>
+<p>Jensen said he believes the organizing on platforms like Facebook only tells part of the story. Clearly, he says, a lot of people are joining that cause because the industry’s grown large enough that people are hearing from the farm or town next to theirs about solar and wind projects. And whether climate advocates want to hear it or not, these people are not loving what they’re hearing. Solar and wind projects don’t create <a href="https://graham.umich.edu/media/pubs/Wind-Turbine-Economic-Impact-Local-Employment-46932.pdf" rel="noopener noreferrer" target="_blank"><u><em><em>that</em></em></u></a> many jobs after they’re built. They do create a flurry of construction, but that’s a form of labor that leaves when it’s done and is often resented by neighbors, leading to disputes over dust, noise, or water. Then there’s the tax abatements for developers, which aggrieved residents see as taxpayer dollars going to large companies without their say – precisely the message gaining traction in Oklahoma. </p>
+<p>This means places that seem safe for renewable developers are no longer safe and companies need to be really careful about how they approach community benefits. It’s not something you can just say – you really need to deliver what you promise. </p>
+<p>“I know there’s a lot of news about organized anti-solar, which clearly happens, but also there’s this organic opposition that happens where it’s like, <em><em>‘You’re asking for how much from our school district?</em></em>’” Jensen said. “Some of it is organized Facebook groups against solar but I think there is a lot of frustration.” </p> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/spotlight/renewable-energy-ban-oklahoma>
+
+---
+
+## 11 Photos From a California on Fire
+
+date: 2025-01-08, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwMzU1My9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4NTUyOTk2OH0.IFPoWjc_RV3HpJrbd65O_5CKQCqjiVvmEqbqhkzxFN0/image.jpg?width=3000&height=2000&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">The <a href="https://www.latimes.com/california/live/pacific-palisades-fire-updates-los-angeles" target="_blank">Palisades</a>, <a href="https://ktla.com/news/local-news/more-fires-erupt-in-los-angeles-county-evacuations-ordered-for-sylmar-fire/" target="_blank">Hurst</a>, and <a href="https://www.cnn.com/weather/live-news/los-angeles-pacific-palisades-eaton-wildfires-01-08-25/index.html" target="_blank">Eaton</a> fires now spreading across Los Angeles are yet another reminder that our rapidly changing climate now acts in unprecedented ways, with hurricane-force winds, longstanding drought, and a host of other factors contributing to blazes that have so far caused <a href="https://www.nytimes.com/live/2025/01/08/us/california-wildfire-la-palisades" target="_blank">two deaths</a>, the evacuation of thousands, and mounting property damage. The following images are at once shockingly new — it is, after all, January in Los Angeles — and numbingly familiar. </p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="Smoke from the Palisades Fire billow over the Los Angeles skyline Tuesday." class="rm-shortcode" data-rm-shortcode-id="477e8ed2f8a6987fad8a2037a83cefee" data-rm-shortcode-name="rebelmouse-image" id="8104b" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwMjc1MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczODcxMzU0MX0.oDa8pvP35pjdDT-l_e_dwL5JPnLqdSVt7hHKf8lN6uQ/image.jpg?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">Smoke from the Palisades Fire billow over the Los Angeles skyline Tuesday.</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Eric Thayer/Getty Images</small></p><p><br/></p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="The Palisades Fire burns near homes amid a powerful windstorm." class="rm-shortcode" data-rm-shortcode-id="094c8c7d27659ce300842bea8c8b9f42" data-rm-shortcode-name="rebelmouse-image" id="3cadc" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwMjc1NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1OTQ5NTM4MX0.UFRA1Zc2YmzgWH8cnbPEpw-b09U-jOG2tgR309RLNlg/image.jpg?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">The Palisades Fire burns near homes amid a powerful windstorm.</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Mario Tama/Getty Images</small></p><p><br/></p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="An onlooker takes photos as the Palisades Fire burns." class="rm-shortcode" data-rm-shortcode-id="bbde79ab0080ba54e2466d5419ff33ac" data-rm-shortcode-name="rebelmouse-image" id="5a079" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwMjc1OC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2MzQyMDczMX0.bA6ZOCA3RNhnllbj94dmLxmlUVlTrJHO64GvB5wJ-4s/image.jpg?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">An onlooker takes photos as the Palisades Fire burns.</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Mario Tama/Getty Images</small></p><p><br/></p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="Traffic backs up on Sunset Boulevard as people attempt to evacuate from the Palisades Fire Tuesday." class="rm-shortcode" data-rm-shortcode-id="2f584c8a65ef7898617d2ec1690f6e16" data-rm-shortcode-name="rebelmouse-image" id="4c711" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwMjc2OC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5NjUxMzI2OX0.7q1BZsS_pWcc4y2zROgWX1SyPdKCJpMKSh_67ZLYnDU/image.jpg?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">Traffic backs up on Sunset Boulevard as people attempt to evacuate from the Palisades Fire Tuesday.</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Apu Gomes/Getty Images</small></p><p><br/></p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="Police officers help people evacuate along Sunset Boulevard." class="rm-shortcode" data-rm-shortcode-id="68e9ea02c04f057f9746266f81b65ef2" data-rm-shortcode-name="rebelmouse-image" id="0ea32" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwMjc4MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0NzIxODEwN30.vCvLfXnkvZadJppnZEQmHwQ_RoXImHoajXITp_l365I/image.jpg?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">Police officers help people evacuate along Sunset Boulevard.</small><small class="image-media media-photo-credit" placeholder="add photo credit...">Apu Gomes/Getty Images</small>
+</p><p><br/></p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="A firefighting aircraft drops a fire retardant on the Palisades Fire Tuesday." class="rm-shortcode" data-rm-shortcode-id="b81f1065f7ef820ac15862797267a685" data-rm-shortcode-name="rebelmouse-image" id="693eb" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwMjc2OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2NzIxNzgxOH0.sck0h2_HMQPMR2HmU_HP6-_3rMTor6IgUgq-R11AxhE/image.jpg?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">A firefighting aircraft drops a fire retardant on the Palisades Fire Tuesday.</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Mario Tama/Getty Images</small></p><p><br/></p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="Houses burn in the Pacific Palisades neighborhood Tuesday night." class="rm-shortcode" data-rm-shortcode-id="6fcba7089afc5aa80de4d45c14347ce4" data-rm-shortcode-name="rebelmouse-image" id="38ec6" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwMjc4NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2Mzc4OTIyN30.lcTxVJNu1RNXpMpIT-9vI8fJ7rNITMfcHGi2ypbWAg4/image.jpg?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">Houses burn in the Pacific Palisades neighborhood Tuesday night.</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Eric Thayer/Getty Images</small></p><p><br/></p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="Roughly 50 miles to the northeast, the Eaton Fire burns in Sierra Madre." class="rm-shortcode" data-rm-shortcode-id="7a6c7973012f95b3e07e8494ec28102a" data-rm-shortcode-name="rebelmouse-image" id="7eb6d" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwMzUxNC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4MDE2NzUyOX0.6cPYMdzjMuXZ2zc38A1fxLKGJp6TjPmSssgTWiqR7xw/image.jpg?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">Roughly 50 miles to the northeast, the Eaton Fire burns in Sierra Madre.</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Mario Tama/Getty Images</small></p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="Wind bends palm trees as the Eaton Fire moves through Altadena." class="rm-shortcode" data-rm-shortcode-id="331a3679ec4231486eff3dc1a033eb46" data-rm-shortcode-name="rebelmouse-image" id="b56fc" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwMzUwNS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0NDA4MjU2M30.O5NXvZQeVztoAeTixLb8Di-5Xr7L2d_YA7kgYJk-c9U/image.jpg?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">Wind bends palm trees as the Eaton Fire moves through Altadena.</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Justin Sullivan/Getty Images</small></p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="Flames attack the fireplace of a home in Pacific Palisades Tuesday night." class="rm-shortcode" data-rm-shortcode-id="058d83a7ec859a21ebca4f7417b815f9" data-rm-shortcode-name="rebelmouse-image" id="a947e" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwMjc5MS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4NTA1NDgwMX0.XH00ZnrCLMPZQQMwn52CC0IO4Onsbzb_Q278sN6BGIY/image.jpg?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">Flames attack the fireplace of a home in Pacific Palisades Tuesday night.</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Eric Thayer/Getty Images</small></p><p><br/></p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="Sparks fly from the wheel of a burned school bus as the Eaton Fire moves through Altadena on Wednesday morning." class="rm-shortcode" data-rm-shortcode-id="d6583b0be96701ea2e47469b186322ae" data-rm-shortcode-name="rebelmouse-image" id="87991" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwMjgwOS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4Mjc3MjE0NX0.rFHwYNyPp4d-L7AftLcf8xBgRmlufsFjkU6Wx8hf1hM/image.jpg?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">Sparks fly from the wheel of a burned school bus as the Eaton Fire moves through Altadena on Wednesday morning.</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Justin Sullivan/Getty Images</small></p> 
+
+<br> 
+
+<https://heatmap.news/climate/palisades-eaton-fire-photos>
+
+---
+
+## Taliban refute Trump’s claims on US financial aid to Afghanistan
+
+date: 2025-01-08, from: VOA News USA
+
+ISLAMABAD — Taliban leaders in Afghanistan on Wednesday denied President-elect Donald Trump’s assertions that they have received billions of dollars in U.S. financial aid since regaining control of the country. 
+
+
+Hamdullah Fitrat, the deputy Taliban spokesperson, responded to Trump’s claims by asserting that the Kabul administration neither anticipates nor seeks any assistance from the United States. 
+
+
+“In reality, the United States has not provided a single penny to the Islamic Emirate,” Fitrat stated, referring to Afghanistan’s official name under Taliban rule. “Instead, it has confiscated and frozen billions of dollars that rightfully belong to the people of Afghanistan.”  
+
+
+The Taliban’s sharp response followed Trump’s news conference in Florida on Tuesday, when he was asked to comment on the alleged monthly payments of millions of dollars by the Biden administration to the de facto Afghan rulers. 
+
+
+“It’s not even believable. Billions of dollars, not millions — billions. We pay billions of dollars to essentially the Taliban Afghanistan,” Trump stated. “This can’t be allowed to happen.” 
+
+
+Fitrat claimed that the U.S. funds in question were primarily utilized for the withdrawal of American troops from Afghanistan and the relocation and resettlement of their Afghan allies. 
+
+
+“A portion of this money may have also been used under the pretext of ‘humanitarian aid’ by international organizations. … [The] U.S. directed all this money to Afghanistan, primarily for its own interests, and now exploits it as propaganda against the Islamic Emirate,” the Taliban spokesperson alleged. 
+
+
+The controversy surrounding provision of financial aid to the Taliban intensified following a Jan. 2 letter by Congressman Tim Burchett to President-elect Trump, which expressed concern over foreign aid being directed to the de facto Afghan authorities. 
+
+
+“These cash shipments are auctioned off, and after that, they are nearly impossible to track. This is how the Taliban is being funded and plans to fund terrorism around the world,” warned Burchett. “The United States of America should not fund its enemies abroad.” 
+
+
+He cited U.S. Secretary of State Antony Blinken as having confirmed that non-governmental organizations in Afghanistan had paid nearly $10 million in foreign aid to the Taliban in taxes. 
+
+
+The Taliban swept back to power in August 2021, prompting Washington and the West at large to suspend development aid to the country and effectively isolate the Afghan banking sector, freezing billions of dollars of central bank assets in the United States. 
+
+
+The flow of humanitarian assistance, however, has primarily remained intact under the United Nations' supervision. 
+
+
+The U.N. Assistance Mission in Afghanistan (UNAMA) refutes allegations that some of the funds it receives for humanitarian operations are being diverted to the Taliban. 
+
+
+UNAMA has maintained that it transports cash into the country for the use of U.N. agencies and "approved and vetted" humanitarian partners to assist millions of Afghans needing support. 
+
+
+The mission has emphasized that all cash is deposited in designated U.N. accounts in a private bank before being distributed directly to the United Nations and other entities. It has also clarified that none of the cash brought into the country is deposited in the Central Bank of Afghanistan or provided to de facto Taliban authorities by the U.N. 
+
+<br> 
+
+<https://www.voanews.com/a/taliban-refute-trump-s-claims-on-us-financial-aid-to-afghanistan/7929790.html>
+
+---
+
+## European Union rebuffs Trump's designs on Greenland takeover
+
+date: 2025-01-08, from: VOA News USA
+
+The European Union on Wednesday dismissed U.S. President-elect Donald Trump’s refusal to rule out a military attack to take control of Denmark’s autonomous territory of Greenland as "wild hypothetical stuff," while confirming that EU states would be compelled to defend the island if Trump invaded it.
+
+
+Trump, set to be inaugurated for a second, nonconsecutive term in the White House on Jan. 20, refused at a news conference Tuesday to rule out military action to take control of the mineral-rich Arctic island and earlier had vowed to slap high tariffs on Denmark if it refused to cede control.
+
+
+The Brussels-based 27-nation bloc, long a U.S. ally, however, attempted to avoid being drawn into a verbal sparring match with Trump, saying it was “looking forward” to working with the incoming administration.
+
+
+As for Trump’s refusal to rule out military action to take over Greenland, a European Commission spokesperson said, "We are talking about fairly wild hypothetical stuff about an administration that hasn't come in yet."
+
+
+
+
+Another spokesperson added that the sovereignty of states had to be respected "as a matter of principle.”
+
+
+Asked if Greenland was covered by a mutual defense clause binding EU members to assist each other in case of attack, commission spokesperson Paula Pinho said that was the case.
+
+
+"But we are indeed speaking of something extremely theoretical on which we will not want to elaborate," she said.
+
+
+Greenland is a mineral-rich autonomous territory of EU member Denmark and an associated territory of the EU.
+
+
+Trump has long publicly hypothesized about taking over Greenland, saying Tuesday, “We need Greenland for national security purposes,” arguing that Denmark should give it up to “protect the free world.”
+
+
+Aside from minerals on the island, it is a strategic Arctic shipping portal, especially as ice floes melt at the top of the world as the planet warms.
+
+
+Trump earlier in the day wrote on social media that the potential American takeover of Greenland “is a deal that must happen” and uploaded photos of his eldest son, Donald Trump Jr., who was visiting Greenland.
+
+
+“MAKE GREENLAND GREAT AGAIN,” Trump added.
+
+
+Panama and Canada
+
+
+At his news conference, Trump also refused to rule out military action to secure control of the Panama Canal and use economic force against neighboring Canada to gain the upper hand in trade deals or merge the two countries.
+
+
+“Canada and the United States, that would really be something,” Trump said. “You get rid of that artificially drawn line, and you take a look at what that looks like, and it would also be much better for national security.”
+
+
+Trump posited the possibility that Canada should be the 51st U.S. state, a proposition that outgoing Canadian Prime Minister Justin Trudeau immediately rejected.
+
+
+“There isn’t a snowball’s chance in hell that Canada would become part of the United States,” Trudeau said.
+
+
+Germany and France
+
+
+Aside from the EU’s rejection of Trump eyeing a Greenland takeover, EU members Germany and France individually also rebuffed the suggestion by the incoming U.S. leader.
+
+
+German Chancellor Olaf Scholz expressed surprise at Trump’s comments, saying European partners agreed that the inviolability of borders was a fundamental principle of international law.
+
+
+"This principle applies and is a foundation of our peaceful order," Scholz told reporters.
+
+
+"In my discussions with our European partners, a certain lack of understanding has emerged with regard to recent statements from the USA," Scholz said in an unusually blunt statement called on short notice.
+
+
+"The principle of inviolability of borders applies to every country, regardless of whether it is to the east or west of us," said Scholz, adding that Russia had violated that principle with its nearly three-year invasion of Ukraine.
+
+
+French Foreign Minister Jean-Noel Barrot told France Inter radio, "There is no question of the EU letting other nations in the world, whoever they may be ... attack its sovereign borders. We are a strong continent. We need to strengthen ourselves more.”
+
+
+Barrot said he did not believe the U.S. would invade the vast Arctic island that has been part of Denmark for more than 600 years.
+
+
+But he added, "We have entered an era that is seeing the return of the law of the strongest. Should we be intimidated? Should we be overcome with worry? Evidently, no,” he said.
+
+
+"We need to wake up and reinforce ourselves militarily in competition in a world where the law of the strongest prevails.”
+
+
+Barrot said he believes the United States is "inherently not imperialistic" and said he "did not believe" that it is changing. 
+
+<br> 
+
+<https://www.voanews.com/a/european-union-rebuffs-trump-s-designs-on-greenland-takeover/7929685.html>
+
+---
+
+## These Teachers Will Have to Cross Party Lines to Get a Union
+
+date: 2025-01-08, from: Capital and Main
+
+<p>Can educators in California’s largest nonunion public school district —  in a county that flipped to Trump — upend a 65-year tradition? </p>
+<p>The post <a href="https://capitalandmain.com/these-teachers-will-have-to-cross-party-lines-to-get-a-union">These Teachers Will Have to Cross Party Lines to Get a Union</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/these-teachers-will-have-to-cross-party-lines-to-get-a-union>
+
+---
+
+## Justice Department says it plans to release only part of Trump report for now
+
+date: 2025-01-08, from: VOA News USA
+
+WASHINGTON — The U.S. Justice Department said Wednesday that it will release special counsel Jack Smith's findings on Donald Trump's efforts to undo the results of the 2020 presidential election but will keep under wraps for now the rest of the record focused on the president-elect's hoarding of classified documents at his Mar-a-Lago estate.
+
+
+The revelation was made in a filing to a federal appeals court that was considering a defense request to block the release of the two-volume report while charges remain pending against two Trump co-defendants in the Florida case accusing the Republican former president and current president-elect of illegally holding classified documents.
+
+
+Aileen Cannon, the Trump-appointed judge presiding over the classified documents case, granted the request Tuesday, issuing a temporary block on the report.
+
+
+The Justice Department said it would proceed with plans to release the first of two volumes centered on the election interference case but would make the classified documents section of the report available only to the chairs and ranking members of the House and Senate Judiciary Committees for their private review as long as the case against Trump's co-defendants is ongoing.
+
+
+"This limited disclosure will further the public interest in keeping congressional leadership apprised of a significant matter within the Department while safeguarding defendants' interests," the filing said. 
+
+<br> 
+
+<https://www.voanews.com/a/justice-department-says-it-plans-to-release-only-part-of-trump-report-for-now/7929634.html>
+
+---
+
+## In photos: Wildfires rage in California
+
+date: 2025-01-08, from: VOA News USA
+
+California firefighters battled wind-whipped wildfires that tore across the Los Angeles area, destroying homes, clogging roadways as tens of thousands fled and straining resources as officials prepared for the situation to worsen early Wednesday, The Associated Press reported. 
+
+<br> 
+
+<https://www.voanews.com/a/in-photos-california-wildfires/7929621.html>
+
+---
+
+## In photos: Mourners pay respects to Jimmy Carter
+
+date: 2025-01-08, from: VOA News USA
+
+Visitors honored Jimmy Carter this week, as the body of the nation's 39th president and Nobel Peace Prize winner will lie in state in the U.S. Capitol in Washington for two days, allowing the American public to pay its final respects. 
+
+<br> 
+
+<https://www.voanews.com/a/in-photos-mourners-pay-respects-to-jimmy-carter/7929624.html>
 
 ---
 
@@ -96,37 +704,37 @@ Companies could make their packaging more efficient and remap routes. Or expand 
 
 date: 2025-01-08, from: VOA News USA
 
-Sanaa — The U.S. military said Wednesday its forces hit weapons storage facilities used by Yemen's Houthi rebels to attack American warships and commercial vessels. 
+Sanaa — The U.S. military said Wednesday its forces hit weapons storage facilities used by Yemen's Houthi rebels to attack American warships and commercial vessels.
 
- 
 
-The operation involved "multiple precision strikes," US Central Command (CENTCOM) said in a statement, adding "there were no injuries or damage to US personnel or equipment," 
 
- 
+The operation involved "multiple precision strikes," U.S. Central Command (CENTCOM) said in a statement, adding "there were no injuries or damage to US personnel or equipment,"
 
-The statement did not specify the location of the storage facilities. 
 
- 
 
-"The strikes are part of CENTCOM's effort to degrade Iranian-backed (Houthi) attempts to threaten regional partners and military and merchant vessels in the region," it said. 
+The statement did not specify the location of the storage facilities.
 
- 
 
-The Houthis' Al-Masirah TV said there were five raids in the northwestern Amran province and two in Sanaa province, where the capital Sanaa is located. 
 
- 
+"The strikes are part of CENTCOM's effort to degrade Iranian-backed [Houthi] attempts to threaten regional partners and military and merchant vessels in the region," it said.
 
-The Houthis seized Sanaa in 2014 from Yemen's internationally recognized government and control much of the war-torn country's most populated areas. 
 
- 
 
-For more than a year they have been firing missiles and drones at Israel and at ships in the Red Sea and Gulf of Aden, in what they say is a show of solidarity with Palestinians during the Israel-Hamas war in the Gaza Strip. 
+The Houthis' Al-Masirah TV said there were five raids in the northwestern Amran province and two in Sanaa province, where the capital Sanaa is located.
 
- 
 
-The Houthis' attacks in the Red Sea and Gulf of Aden have destabilized a vital shipping lane, prompting strikes by the United States and sometimes Britain that began in January 2024. 
 
- 
+The Houthis seized Sanaa in 2014 from Yemen's internationally recognized government and control much of the war-torn country's most populated areas.
+
+
+
+For more than a year they have been firing missiles and drones at Israel and at ships in the Red Sea and Gulf of Aden, in what they say is a show of solidarity with Palestinians during the Israel-Hamas war in the Gaza Strip.
+
+
+
+The Houthis' attacks in the Red Sea and Gulf of Aden have destabilized a vital shipping lane, prompting strikes by the United States and sometimes Britain that began in January 2024.
+
+
 
 Most Houthi missiles and drones launched towards Israel have been intercepted, but a missile wounded 16 people in Tel Aviv in December, according to Israel's military and emergency services. 
 
@@ -184,6 +792,8 @@ The flames from a fire that broke out Tuesday evening near a nature preserve in 
 
 
 Another blaze that started hours earlier ripped through the city’s Pacific Palisades neighborhood, a hillside area along the coast dotted with celebrity residences and memorialized by the Beach Boys in their 1960s hit “Surfin' USA.” In the frantic haste to get to safety, roadways became impassable when scores of people abandoned their vehicles and fled on foot, some toting suitcases.
+
+
 
 
 The traffic jam on Palisades Drive prevented emergency vehicles from getting through and bulldozer was brought in to push the abandoned cars to the side and create a path. Video along the Pacific Coast Highway showed widespread destruction of homes and businesses along the famed roadway.
@@ -602,6 +1212,8 @@ WASHINGTON  — U.S. lawmakers honored Jimmy Carter on Tuesday, as the body of 
 "Today, we gather to celebrate the life of a man whose works will echo for generations to come," Vice President Kamala Harris said to the distinguished guests and members of Carter's family assembled in the U.S. Capitol Rotunda.
 
 
+
+
 Carter, a one-term Democratic president and Nobel Peace Prize winner, will lie in state in Washington for two days, allowing the American public to pay its final respects.
 
 
@@ -771,7 +1383,7 @@ It might not sound so bad for folks who dread shoveling the driveway in the morn
 date: 2025-01-07, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTQ5MjAyMC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2NDQyNTkyMH0.N5sG0tYk6X5Thh9aWrd0E0_9TikgqXk9u2v3g0I1bDY/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>President-elect Donald Trump’s first press conference after yesterday’s certification of his election win (four years to the day since the January 6, 2021 Capitol riots) was never going to be a normal one. And so it proved that Trump’s wide-ranging comments at Mar-a-Lago on Tuesday hit some familiar <a href="https://heatmap.news/politics/trump-fact-check-intro" target="_self"><u>climate and energy falsehoods</u></a> alongside some eyebrow-raising new ones, the largest-scale of which was probably his threat to reverse President Biden’s newly announced <a href="https://heatmap.news/politics/biden-offshore-drilling-ban" target="_self"><u>drilling ban</u></a>. </p><p>Biden signaled his move to permanently ban new offshore oil and gas drilling yesterday along most U.S. coastlines. The 625 million acres covered by the ban would include the entire East Coast, the eastern Gulf of Mexico, the Pacific off the coasts of Washington, Oregon, and California, and parts of the Northern Bering Sea in Alaska. “I will reverse it immediately,” Trump remarked of the ban. “It’ll be done immediately. And we will drill, baby, drill.” He also added that “we’re going to be drilling a lot of other locations,” and used the opportunity to call the energy transition “the green new scam,” <a href="https://heatmap.news/politics/trump-vance-green-new-deal" target="_self"><u>an old favorite of his</u></a>.</p><p>While Trump’s threats were alarming, they’re also most likely empty. The drilling ban would be considered permanent under the law, and Trump would not be able to simply reverse it without the approval of Congress.</p><p>In addition to his comments on drilling, Trump briefly criticized Biden’s “love” of <a href="https://heatmap.news/politics/trump-electric-vehicles-fact-check" target="_self"><u>electric cars</u></a>, and once again claimed that his administration was “going to be ending the electric car mandate quickly, by the way,” he said, the lack of such a mandate notwithstanding. “This guy loves electric, and we don’t have enough electricity. And then we have AI where we need more.” Trump isn’t necessarily wrong about “more” AI energy demand, and in case he’s reading this, we have a bit of <a href="https://heatmap.news/technology/data-center-solar-microgrids" target="_self"><u>recommended</u></a> <a href="https://heatmap.news/ideas/abundance-additionality-permitting-reform" target="_self"><u>background</u></a> for him on the topic.</p><p>Lest you think that Trump forgot his most beloved renewable energy talking point, he reiterated his hatred for wind power by adding, “We’re going to try and have a policy where no windmills are being built.” He noted “they don’t work without subsidy. … You don’t want energy that needs subsidy,” and repeated his <a href="https://heatmap.news/politics/trump-wind-solar-fact-check" target="_self"><u>blatantly false and conspiracy-driven claim</u></a> that “the windmills are driving the whales crazy,” noting that offshore wind caused the beaching of “two whales” in a “17-year period.” As a reminder, Lauren Gaches, the director of NOAA Fisheries Public Affairs, previously told Heatmap that “there is no scientific evidence that noise resulting from offshore wind site characterization surveys could potentially cause mortality of whales.” (Also worth noting: The oil and gas industry has long benefited from <a href="https://crsreports.congress.gov/product/pdf/IF/IF11528" rel="noopener noreferrer" target="_blank"><u>generous tax subsidies</u></a>.)</p><p>Trump also went on to shout out … gas heaters? He claimed that Biden “wants everybody to have an electric heater instead of a gas heater,” adding that gas heaters are “much less expensive,” “work much better,” and don’t make you “scratch and itch.” It’s not clear whether was talking about heat pumps or electric resistance heaters, both of which are powered by electricity. But gas furnace sales have been outpaced by heat pumps for <a href="https://heatmap.news/sparks/heat-pumps-beat-gas-furnaces-2023" target="_self"><u>several years running</u></a>, with no widespread itch issues we can find. Trump also put low-flow showerheads on blast: “It’s called rain, comes down from comes down from heaven. And they want to do, no water comes out of the shower.” This hasn’t been true of low-flow shower heads for some time now, as my colleague Jeva Lange <a href="https://heatmap.news/politics/trump-energy-efficiency-fact-check" target="_self"><u>reported last summer</u></a>, which are “specifically designed to ’push out water that feels like a higher pressure even with a lower flow rate.’”</p><p>In conclusion, there is no time like the present to peruse Jeva’s fact-check of <a href="https://heatmap.news/politics/trump-fact-check-intro" target="_self"><u>Trump’s climate and energy claims</u></a>. We’re going to be hearing a lot more of them in the coming years.</p> 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTQ5MjAyMC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2NDQyNTkyMH0.N5sG0tYk6X5Thh9aWrd0E0_9TikgqXk9u2v3g0I1bDY/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>President-elect Donald Trump’s first press conference after yesterday’s certification of his election win (four years to the day since the January 6, 2021 Capitol riots) was never going to be a normal one. And so it proved that Trump’s wide-ranging comments at Mar-a-Lago on Tuesday hit some familiar <a href="https://heatmap.news/politics/trump-fact-check-intro" target="_self"><u>climate and energy falsehoods</u></a> alongside some eyebrow-raising new ones, the largest-scale of which was probably his threat to reverse President Biden’s newly announced <a href="https://heatmap.news/politics/biden-offshore-drilling-ban" target="_self"><u>drilling ban</u></a>. </p><p>Biden signaled his move to permanently ban new offshore oil and gas drilling yesterday along most U.S. coastlines. The 625 million acres covered by the ban would include the entire East Coast, the eastern Gulf of Mexico, the Pacific off the coasts of Washington, Oregon, and California, and parts of the Northern Bering Sea in Alaska. “I will reverse it immediately,” Trump remarked of the ban. “It’ll be done immediately. And we will drill, baby, drill.” He also added that “we’re going to be drilling a lot of other locations,” and used the opportunity to call the energy transition “the green new scam,” <a href="https://heatmap.news/politics/trump-vance-green-new-deal" target="_self"><u>an old favorite of his</u></a>.</p><p>While Trump’s threats were alarming, they’re also most likely empty. The drilling ban would be considered permanent under the law, and Trump would not be able to simply reverse it without the approval of Congress.</p><p>In addition to his comments on drilling, Trump briefly criticized Biden’s “love” of <a href="https://heatmap.news/politics/trump-electric-vehicles-fact-check" target="_self"><u>electric cars</u></a>, and once again claimed that his administration was “going to be ending the electric car mandate quickly, by the way,” the lack of such a mandate notwithstanding. “This guy loves electric, and we don’t have enough electricity,” he said. “And then we have AI where we need more.” Trump isn’t necessarily wrong about “more” AI energy demand, and in case he’s reading this, we have a bit of <a href="https://heatmap.news/technology/data-center-solar-microgrids" target="_self"><u>recommended</u></a> <a href="https://heatmap.news/ideas/abundance-additionality-permitting-reform" target="_self"><u>background</u></a> for him on the topic.</p><p>Lest you think that Trump forgot his most beloved renewable energy talking point, he reiterated his hatred for wind power by adding, “We’re going to try and have a policy where no windmills are being built.” He noted “they don’t work without subsidy. … You don’t want energy that needs subsidy,” and repeated his <a href="https://heatmap.news/politics/trump-wind-solar-fact-check" target="_self"><u>blatantly false and conspiracy-driven claim</u></a> that “the windmills are driving the whales crazy,” noting that offshore wind caused the beaching of “two whales” in a “17-year period.” As a reminder, Lauren Gaches, the director of NOAA Fisheries Public Affairs, previously told Heatmap that “there is no scientific evidence that noise resulting from offshore wind site characterization surveys could potentially cause mortality of whales.” (Also worth noting: The oil and gas industry has long benefited from <a href="https://crsreports.congress.gov/product/pdf/IF/IF11528" rel="noopener noreferrer" target="_blank"><u>generous tax subsidies</u></a>.)</p><p>Trump also went on to shout out … gas heaters? He claimed that Biden “wants everybody to have an electric heater instead of a gas heater,” adding that gas heaters are “much less expensive,” “work much better,” and don’t make you “scratch and itch.” It’s not clear whether was talking about heat pumps or electric resistance heaters, both of which are powered by electricity. But gas furnace sales have been outpaced by heat pumps for <a href="https://heatmap.news/sparks/heat-pumps-beat-gas-furnaces-2023" target="_self"><u>several years running</u></a>, with no widespread itch issues we can find. Trump also put low-flow showerheads on blast: “It’s called rain, comes down from heaven. And they want to do, no water comes out of the shower.” This hasn’t been true of low-flow shower heads for some time now, as my colleague Jeva Lange <a href="https://heatmap.news/politics/trump-energy-efficiency-fact-check" target="_self"><u>reported last summer</u></a>, which are “specifically designed to ‘push out water that feels like a higher pressure even with a lower flow rate.’”</p><p>In conclusion, there is no time like the present to peruse Jeva’s fact-check of <a href="https://heatmap.news/politics/trump-fact-check-intro" target="_self"><u>Trump’s climate and energy claims</u></a>. We’re going to be hearing a lot more of them in the coming years.</p> 
 
 <br> 
 

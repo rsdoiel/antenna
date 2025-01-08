@@ -1,11 +1,323 @@
 ---
 title: science and technology
-updated: 2025-01-08 07:05:54
+updated: 2025-01-08 15:35:37
 ---
 
 # science and technology
 
-(date: 2025-01-08 07:05:54)
+(date: 2025-01-08 15:35:37)
+
+---
+
+## We did warn you – 2025 may be the year AI bots take over Meta's 'verse
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>Can&#39;t grow any more? Let&#39;s just invent engagement!</h4> <p><strong>Opinion</strong>  Recently, some netziens noticed &#34;AI managed by Meta&#34; bots on their feeds, remnants of the Facebook and Instagram owner&#39;s 2023 chatbot initiative that was discontinued after low interest.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/meta_ai_bots/>
+
+---
+
+## A Rover Retrospective: Turning Trials to Triumphs in 2024
+
+date: 2025-01-08, from: NASA breaking news
+
+A look back at a few Mars 2020 mission highlights of 2024   Perseverance’s past year operating on the surface of Mars was filled with some of the mission’s highest highs, but also some of its greatest challenges. True to its name and its reputation as a mission that overcomes challenges, Perseverance and its team […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/a-rover-retrospective-turning-trials-to-triumphs-in-2024/>
+
+---
+
+## NASA Selects Electrical Systems Engineering Services Contractor
+
+date: 2025-01-08, from: NASA breaking news
+
+NASA has selected Columbus Technologies and Services Inc. of El Segundo, California, to provide electrical and electronic engineering support to the agency’s Goddard Space Flight Center in Greenbelt, Maryland. The Electrical Systems Engineering Services IV is a cost-plus-award-fee indefinite-delivery/indefinite-quantity contract with a maximum estimated value of $1.1 billion. The base period of performance begins on [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-selects-electrical-systems-engineering-services-iv-contractor/>
+
+---
+
+## Officials Report the First Human Death From Bird Flu in the U.S. Here's What to Know About the Virus
+
+date: 2025-01-08, from: Smithsonian Magazine
+
+The death of a Louisiana resident who was over the age of 65 signals that future H5N1 infections are not guaranteed to be mild, health experts say 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/officials-report-the-first-human-death-from-bird-flu-in-the-us-heres-what-to-know-about-the-virus-180985792/>
+
+---
+
+## LA wildfires force tens of thousands to evacuate, NASA JPL closed
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>Fire crews battle to keep people, homes, science safe</h4> <p>With several major wildfires raging out of control in Los Angeles County, fire crews are risking their lives to protect people, homes, and a key NASA facility.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/los_angeles_fires_jpl/>
+
+---
+
+## Does This Peculiar Statue Found at an Ancient Egyptian Temple Really Depict Cleopatra?
+
+date: 2025-01-08, from: Smithsonian Magazine
+
+Experts on the hunt for the queen's tomb believe that they’ve found a small bust of her—but not everyone agrees 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/does-this-statue-found-at-an-ancient-egyptian-temple-really-depict-cleopatra-180985789/>
+
+---
+
+## Mitel 0-day, 5-year-old Oracle RCE bug under active exploit
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>3 CVEs added to CISA&#39;s catalog</h4> <p>Cybercriminals are actively exploiting two vulnerabilities in Mitel MiCollab, including a zero-day flaw – and a critical remote code execution vulnerability in Oracle WebLogic Server that has been abused for at least five years.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/mitel_0_day_oracle_rce_under_exploit/>
+
+---
+
+## NASA to Test Solution for Radiation-Tolerant Computing in Space
+
+date: 2025-01-08, from: NASA breaking news
+
+Onboard computers are critical to space exploration, aiding nearly every spacecraft function from propulsion and navigation systems to life support technology, science data retrieval and analysis, communications, and reentry. But computers in space are susceptible to ionizing solar and cosmic radiation. Just one high-energy particle can trigger a so-called “single event effect,” causing minor data [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/nasa-to-test-solution-for-radiation-tolerant-computing-in-space/>
+
+---
+
+## Houston, We Have the Holiday Cookies
+
+date: 2025-01-08, from: NASA breaking news
+
+Supporting the International Space Station is an around-the-clock responsibility for NASA and its international partners. This means there is always a team of flight operations and payload personnel working with the orbiting laboratory’s crew – including overnight, on weekends, and during the holidays. At Johnson Space Center’s Mission Control Center (MCC) in Houston, flight directors [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/houston-we-have-the-holiday-cookies/>
+
+---
+
+## The Fool Has Appeared in Art for Centuries. What Do These Portrayals of the Complex Character Say About Us?
+
+date: 2025-01-08, from: Smithsonian Magazine
+
+A new exhibition at the Louvre takes visitors on a visual journey, exploring how the figure of the fool evolved between the Middle Ages and the 19th century 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-fool-has-appeared-in-art-for-centuries-what-do-these-portrayals-of-the-complex-character-say-about-us-180985780/>
+
+---
+
+## A Tiny, 'Endangered' Fish Delayed a Dam's Construction in the 1970s. Now, Scientists Say the Snail Darter Isn't So Rare After All
+
+date: 2025-01-08, from: Smithsonian Magazine
+
+A lawsuit to protect the snail darter from the Tellico Dam in Tennessee offered the first real test of the 1973 Endangered Species Act. But a new study disputes the fish's status as a distinct species 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-tiny-endangered-fish-delayed-a-dams-construction-in-the-1970s-now-scientists-say-the-snail-darter-isnt-so-rare-after-all-180985786/>
+
+---
+
+## Quantum? No solace: Nvidia CEO sinks QC stocks with '20 years off' forecast
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>D-Wave, Rigetti, others plummet nearly 50% after Huang says the obvious</h4> <p><strong>CES</strong>  The quantum computing industry seems to be just as delicate as the qubits it relies on. Shares in some publicly traded QC companies saw steep declines today, following Nvidia CEO Jensen Huang&#39;s CES rather reasonable remark that practical quantum systems may still be 20 years away. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/quantum_no_solace_nvidia_ceo/>
+
+---
+
+## Divers Recover Ancient Shipwreck That Sank 2,600 Years Ago Off the Coast of Spain
+
+date: 2025-01-08, from: Smithsonian Magazine
+
+Piece by piece, experts carefully transported the Phoenician vessel to dry land, where it will be studied and preserved 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/divers-recover-ancient-shipwreck-that-sank-2600-years-ago-off-the-coast-of-spain-180985778/>
+
+---
+
+## Electrodynamic Dust Shield Heading to Moon on Firefly Lander
+
+date: 2025-01-08, from: NASA breaking news
+
+Defeating dust may be a small concern for most people on Earth, but for astronauts and spacecraft destined for the Moon or Mars, it is a significant hazard that must be mitigated. That’s why researchers at NASA’s Kennedy Space Center in Florida are seeking innovative ways to use the Electrodynamic Dust Shield (EDS) technology.&#160;&#160; The [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/electrodynamic-dust-shield-heading-to-moon-on-firefly-lander/>
+
+---
+
+## AMS Hyperwall Schedule
+
+date: 2025-01-08, from: NASA breaking news
+
+NASA Science at AMS Hyperwall Schedule, January 13-16, 2025 Join NASA in the Exhibit Hall (Booth #401) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, JANUARY 13 6:10 – 6:25 PM The Golden Age of Ocean Science: How NASA’s Newest Missions Advance the Study of Oceans in our Earth System Dr. Karen […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/ams-hyperwall-schedule/>
+
+---
+
+## Garmin Connect outage leaves folks unable to share their fitness virtue signaling
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>RUN/STOP</h4> <p>Fitness app Garmin Connect got knocked down but got up again, after an unexplained outage that left fitness extroverts flummoxed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/garmin_connect_outage/>
+
+---
+
+## Amazon splashes $11B on AI datacenters in Georgia
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>Peach State already home to more than 50 bit barns</h4> <p>Amazon&#39;s datacenter footprint in the US state of Georgia is set to swell, with an $11 billion investment proposed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/amazons_latest_investment_is_11b/>
+
+---
+
+## NASA has just two Mars Sample Return mission lander options left
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>JPL&#39;s sky crane tech or private vendor to get $5-7B contract, before hitching lift back to Earth with ESA</h4> <p>NASA says it needs until 2026 before making a final decision on how the Mars Sample Return (MSR) mission will work.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/nasa_whittles_down_mars_sample/>
+
+---
+
+## Scientists Find the Mysterious Source of the Massive 1831 Volcanic Eruption That Cooled Earth and Made the Sun Appear Blue
+
+date: 2025-01-08, from: Smithsonian Magazine
+
+The climate-altering eruption came from the Zavaritskii volcano on an uninhabited island in the Pacific that once hosted a Soviet submarine base, according to a new study 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-find-the-mysterious-source-of-the-massive-1831-volcanic-eruption-that-cooled-earth-and-made-the-sun-appear-blue-180985784/>
+
+---
+
+## Never mind those Chinese spies: US Air Force picks Verizon for 35 base network upgrades
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>Salt Typhoon? Unpatched network kit? Sorry, I think you&#39;re breaking up</h4> <p>Never mind that whole Salt Typhoon hiccup - Verizon&#39;s reputation hit hasn&#39;t stopped it from securing a deal to upgrade the networks on 35 US Air Force bases with new 4G and 5G kit. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/usaf_picks_verizon_network/>
+
+---
+
+## 415 Years Ago: Astronomer Galileo Discovers Jupiter’s Moons
+
+date: 2025-01-08, from: NASA breaking news
+
+On Jan. 7, 1610, Italian astronomer Galileo Galilei peered through his newly improved 20-power homemade telescope at the planet Jupiter. He noticed three other points of light near the planet, at first believing them to be distant stars. Observing them over several nights, he noted that they appeared to move in the wrong direction with [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/415-years-ago-astronomer-galileo-discovers-jupiters-moons/>
+
+---
+
+## NASA Lander to Test Vacuum Cleaner on Moon for Sample Collection
+
+date: 2025-01-08, from: NASA breaking news
+
+Among all the challenges of voyaging to and successfully landing on other worlds, the effective collection and study of soil and rock samples cannot be underestimated. To quickly and thoroughly collect and analyze samples during next-generation Artemis Moon missions and future journeys to Mars and other planetary bodies, NASA seeks a paradigm shift in techniques [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/nasa-lander-to-test-vacuum-cleaner-on-moon-for-sample-collection/>
+
+---
+
+## DNA sequencers found running ancient BIOS, posing risk to clinical research
+
+date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+
+<h4>Devices on six-year-old firmware vulnerable to takeover and destruction</h4> <p><strong>Updated</strong>  Argentine cybersecurity shop Eclypsium claims security issues affecting leading DNA sequencing devices could lead to disruptions in crucial clinical research.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/dna_sequencer_vulnerabilities/>
+
+---
+
+## Astronaut Set to Patch NASA’s X-ray Telescope Aboard Space Station
+
+date: 2025-01-08, from: NASA breaking news
+
+NASA astronaut Nick Hague will install patches to the agency’s NICER (Neutron star Interior Composition Explorer) X-ray telescope on the International Space Station as part of a spacewalk scheduled for Jan. 16. Hague, along with astronaut Suni Williams, will also complete other tasks during the outing. NICER will be the first NASA observatory repaired on-orbit since […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/station/iss-research/nicer/astronaut-set-to-patch-nasas-x-ray-telescope-aboard-space-station/>
+
+---
+
+## Rational or Not? This Basic Math Question Took Decades to Answer.
+
+date: 2025-01-08, from: Quanta Magazine
+
+It’s surprisingly difficult to prove one of the most basic properties of a number: whether it can be written as a fraction. A broad new method can help settle this ancient question.            <p>The post <a href="https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/" target="_blank">Rational or Not? This Basic Math Question Took Decades to Answer.</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/>
+
+---
+
+## NASA Joins Telescope, Instruments to Roman Spacecraft
+
+date: 2025-01-08, from: NASA breaking news
+
+Technicians have successfully integrated NASA’s Nancy Grace Roman Space Telescope’s payload – the telescope, instrument carrier, and two instruments – to the spacecraft that will deliver the observatory to its place in space and enable it to function while there. “With this incredible milestone, Roman remains on track for launch, and we’re a big step [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/universe/nasa-joins-telescope-instruments-to-roman-spacecraft/>
 
 ---
 
@@ -97,7 +409,7 @@ date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
 
 date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
 
-<h4>Here&#39;s what $20 gets you these days</h4> <p>More than 4,000 unique backdoors are using expired domains and/or abandoned infrastructure, and many of these expose government and academia-owned hosts – thus setting these hosts up for hijacking by criminals who likely have less altruistic intentions than the security researchers who uncovered the backdoors.…</p> 
+<h4>Here&#39;s what $20 gets you these days</h4> <p>More than 4,000 unique backdoors are using expired domains and/or abandoned infrastructure, and many of these expose government and academia-owned hosts – thus setting these hosts up for hijacking by criminals who likely have less altruistic intentions than the security researchers who uncovered the very same backdoors.…</p> 
 
 <br> 
 
@@ -109,7 +421,7 @@ date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
 
 date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
 
-<h4>HashiCorp co-founder&#39;s side project reaches 1.0 – er, 1.0.1</h4> <p>Ghostty is more interesting than it sounds, for several reasons: who wrote it, what it does, and the language it was written in are all more unusual than the ostensibly simple task it performs.…</p> 
+<h4>HashiCorp co-founder&#39;s side project reaches 1.0 – er, 1.0.1</h4> <p>Ghostty is more interesting than it sounds, for several reasons: Who wrote it, what it does, and the language it was written in are all more unusual than the ostensibly simple task it performs.…</p> 
 
 <br> 
 
@@ -241,7 +553,7 @@ date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
 
 date: 2025-01-07, updated: 2025-01-08, from: The Register (UK I.T. News)
 
-<h4>Make America irate again</h4> <p><strong>CES</strong>  The Consumer Technology Association has issued some fresh predictions of how much more Americans may have to pay for their hardware if Donald Trump&#39;s hard-line import tariffs are enacted.…</p> 
+<h4>Make America irate again</h4> <p><strong>CES</strong>  The Consumer Technology Association has issued some fresh predictions for how much more Americans may have to pay for their hardware if Donald Trump&#39;s hard-line import tariffs are imposed.…</p> 
 
 <br> 
 
@@ -467,7 +779,7 @@ date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
 
 ## Qualcomm’s latest Snapdragon X chip targets $600 Copilot+ PCs
 
-date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
+date: 2025-01-07, updated: 2025-01-08, from: The Register (UK I.T. News)
 
 <h4>Hopes to elbow out competition on Arm-based hardware</h4> <p><strong>CES</strong>  Qualcomm has unveiled the latest addition to its Snapdragon X Series of Arm-based chips to power Copilot+ PCs, targeting systems in the $600 range.…</p> 
 
@@ -647,9 +959,9 @@ date: 2025-01-07, updated: 2025-01-08, from: The Register (UK I.T. News)
 
 ## US adds web and gaming giant Tencent to list of Chinese military companies
 
-date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
+date: 2025-01-07, updated: 2025-01-08, from: The Register (UK I.T. News)
 
-<h4>This could be the start of a saga to rival TikTok’s troubles, and embroil Tesla and Microsoft</h4> <p>The US Department of Defense has added Chinese messaging and gaming Tencent to its list of “Chinese military company”, a designation that won’t necessarily result in a ban but is nonetheless unpleasant.…</p> 
+<h4>This could be the start of a saga to rival TikTok’s troubles, and embroil Tesla and Microsoft</h4> <p>The US Department of Defense has added Chinese messaging, media, and gaming giant Tencent to its list of “Chinese military companies”, a designation that won’t necessarily result in a ban but is nonetheless unpleasant.…</p> 
 
 <br> 
 
@@ -671,7 +983,7 @@ date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
 
 ## Nvidia shrinks Grace-Blackwell Superchip to power $3K mini PC
 
-date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
+date: 2025-01-07, updated: 2025-01-08, from: The Register (UK I.T. News)
 
 <h4>Tuned for running chunky models on the desktop with 128GB of RAM, custom Ubuntu</h4> <p><strong>CES</strong>  Nvidia has announced a desktop computer powered by a new GB10 Grace-Blackwell superchip and equipped with 128GB of memory to give AI developers, researchers, and students the tools they need to run large models on the desktop.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -683,9 +995,9 @@ date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
 
 ## Dude, you got a Dell, period! RIP XPS, Inspiron, Latitude, Precision
 
-date: 2025-01-07, updated: 2025-01-07, from: The Register (UK I.T. News)
+date: 2025-01-07, updated: 2025-01-08, from: The Register (UK I.T. News)
 
-<h4>It&#39;ll all end in tiers</h4> <p>Dell has used the annual CES extravaganza in Las Vegas this week to announce a branding shakeup that closely resembles Apple&#39;s hardware naming policy.…</p> 
+<h4>It&#39;ll all end in tiers</h4> <p><strong>CES</strong>  Dell has used the annual CES extravaganza in Las Vegas this week to announce a branding shakeup that closely resembles Apple&#39;s hardware naming policy.…</p> 
 
 <br> 
 
@@ -767,7 +1079,7 @@ The tire company's iconic "lighter-than-air" craft debuted in 1925 and began pro
 
 ## Microsoft declares 2025 'the year of the Windows 11 PC refresh'
 
-date: 2025-01-06, updated: 2025-01-06, from: The Register (UK I.T. News)
+date: 2025-01-06, updated: 2025-01-08, from: The Register (UK I.T. News)
 
 <h4>Slumping market share, unwanted features ... no, it&#39;s the consumers who are wrong!</h4> <p><strong>CES</strong>  Microsoft is continuing its push for users to adopt its new software paradigm, declaring 2025 &#34;the year of the Windows 11 PC refresh&#34; and reminding everyone that Windows 10&#39;s end-of-support date is just around the corner.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 

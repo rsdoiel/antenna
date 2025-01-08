@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-01-08 07:05:55
+updated: 2025-01-08 15:35:38
 ---
 
 # games
 
-(date: 2025-01-08 07:05:55)
+(date: 2025-01-08 15:35:38)
+
+---
+
+## Former Overwatch pro pleads with Marvel Rivals players to let him ‘move on’ from that C9 meme
+
+date: 2025-01-08, updated: 2025-01-08, from: Polygon Website
+
+Marvel Rivals has brought back the joys of Overwatch in its heyday: goofy hero interactions, legendary plays, and, of course, critical mistakes that cost the entire match. Overwatch’s infamous “C9” meme has made a comeback and one of the former esports players responsible for it wishes it didn’t. “MARVEL RIVALS’ BOOMING POPULARITY MEANS A TON [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/505659/marvel-rivals-c9-liquid-mendo-esports-meme>
+
+---
+
+## Discoveries
+
+date: 2025-01-08, updated: 2025-01-08, from: Polygon Website
+
+At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
+
+---
+
+## Galaxy Burger is like Diner Dash for stressed-out adults
+
+date: 2025-01-08, updated: 2025-01-08, from: Polygon Website
+
+Cooking sims run the gamut of intensity, but if Diner Dash is at the sweating-bullets end of the spectrum, Galaxy Burger is at the other end. This space-themed burger flipping game, developed by Galactic Workshop, is dripping with the weird — astronaut cats, delivery bots, aliens, and elvish humans are your customers across the various [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/505679/galaxy-burger-chill-cooking-sim>
+
+---
+
+## Get R.F. Kuang’s Babel, one of our favorite fantasy novels, while it’s just $2
+
+date: 2025-01-08, updated: 2025-01-08, from: Polygon Website
+
+R.F. Kuang’s Nebula and Locus Award-winning fantasy novel Babel: Or the Necessity of Violence is widely adored. Polygon considered one of the best SFF novels of 2022. For instance, my colleague Sadie Gennis loved it enough to buy the hardcover version for herself and as gifts for two of her friends, even though she already [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/505728/babel-rf-kuang-80-percent-off-sale-ebook>
+
+---
+
+## Marvel Rivals season 1 patch notes reveal surprising buffs and welcome nerfs
+
+date: 2025-01-08, updated: 2025-01-08, from: Polygon Website
+
+Season 1 of Marvel Rivals launches later this week, bringing two members of the Fantastic Four to the Marvel-themed multiplayer hero shooter. Friday’s update also brings a long list of changes for just about every playable Marvel superhero and villain, including many much-needed tweaks to characters like Hawkeye, Hela, and Thor. Many of Marvel Rivals [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/505821/marvel-rivals-season-1-patch-notes-buffs-nerfs>
+
+---
+
+## Fat Bear Week comes super early this year with Osprey Games’ board game Katmai
+
+date: 2025-01-08, updated: 2025-01-08, from: Polygon Website
+
+Fat Bear Week, the National Park Service’s official celebration of the fattest bears around, is getting its own unofficial board game. Tabletop publisher Osprey Games announced the upcoming release Katmai: The Bears of Brooks River, a two-player board game that takes direct inspiration from the cultural phenomenon. You play as sandy- or cinnamon-colored brown bears [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/board-games/505717/fat-bear-week-board-game-katmai-bears-of-brooks-river>
+
+---
+
+## Transformers: Reactivate canceled, studio scaling down
+
+date: 2025-01-08, updated: 2025-01-08, from: Polygon Website
+
+Transformers: Reactivate has been canceled, developer Splash Damage announced with a statement on X (formerly Twitter) on Jan. 8. “Today, we have some very difficult news to share,” the statement reads. “The decision has been made to end development of Transformers: Reactivate. This means we will be scaling down to refocus our efforts on other [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/505680/transformers-reactivate-canceled-splash-damage>
+
+---
+
+## How to sign up for the Elden Ring Nightreign network test
+
+date: 2025-01-08, updated: 2025-01-08, from: Polygon Website
+
+Elden Ring Nightreign, a cooperative roguelike Elden Ring spinoff, will be playable via a network test in February. Sign-ups for the test itself open later this week. You’ll experience a portion of what Nightreign has to offer, including a glimpse of its gameplay, classes, and progression — as long as you get selected to be [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/505147/network-test-beta-sign-up-dates-how-to>
+
+---
+
+## Two of our favorite gaming SSDs are on sale for their lowest price ever
+
+date: 2025-01-08, updated: 2025-01-08, from: Polygon Website
+
+Whether you’re doing your gaming on a PC or PlayStation, storage is always at a premium. But today, that premium is definitely a little more reasonable. Currently, the Samsung 990 Pro and the WD_Black SN850, two of the best SSDs available, are matching their lowest price ever. The 1 TB model of the Samsung 990 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/505487/storage-sale-ssd-samsung-wd-black-playstation>
+
+---
+
+## Sophie Thatcher’s sci-fi movie Companion drops a shocking  spoiler in its trailer
+
+date: 2025-01-08, updated: 2025-01-08, from: Polygon Website
+
+Details on Companion, the horror-thriller debut produced by Barbarian director Zach Cregger, have been skimpy since Warner Bros. released the film’s mysterious first teaser back in October. With less than a month until its theatrical premiere on Jan. 31, the studio finally decided to pull back the curtain with the first full trailer. And as [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/505663/companion-trailer-ai-ex-machina-sophie-thatcher-jack-quaid>
 
 ---
 
@@ -126,18 +246,6 @@ Earlier this week, RPG news forum EN World announced their annual community-deci
 <br> 
 
 <https://www.polygon.com/tabletop-games/505031/ttrpgs-2025-en-world-list-anticipated>
-
----
-
-## Discoveries
-
-date: 2025-01-07, updated: 2025-01-07, from: Polygon Website
-
-At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
 
 ---
 

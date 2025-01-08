@@ -1,11 +1,275 @@
 ---
 title: going electric
-updated: 2025-01-08 07:05:56
+updated: 2025-01-08 15:35:39
 ---
 
 # going electric
 
-(date: 2025-01-08 07:05:56)
+(date: 2025-01-08 15:35:39)
+
+---
+
+## Tesla board members officially settle excessive compensation case for nearly $1 billion
+
+date: 2025-01-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/04/tesla-board-of-director-e1491956328770.jpg?quality=82&#038;strip=all&#038;w=1024" /></div><p>A judge has officially approved a settlement in a case brought by Tesla shareholders against board members who will now have to return stock, cash, and give up on stock options worth a total of nearly $1 billion.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="396999" href="https://electrek.co/2025/01/08/tesla-board-members-officially-settle-excessive-compensation-case-for-nearly-1-billion/#more-396999" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/08/tesla-board-members-officially-settle-excessive-compensation-case-for-nearly-1-billion/>
+
+---
+
+## Nissan’s Ariya electric SUV takes on the extreme weather in its new test chamber [Video]
+
+date: 2025-01-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/07/Nissan-first-Tesla-NACS-Japan.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Despite how cold it may feel outside, Nissan’s electric SUV has likely been through colder. Nissan is proving its <a href="https://electrek.co/guides/nissan-ariya/">Ariya SUV</a> can handle the extreme weather at its unique new test chamber at its tech center near Detroit. With temperatures ranging from -40 to 176 °F, the Ariya is being pushed to see what it’s made of.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,nissan-ariya" data-layer-viewtype="unknown" data-post-id="396982" href="https://electrek.co/2025/01/08/nissan-ariya-extreme-weather-new-test-chamber-video/#more-396982" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/08/nissan-ariya-extreme-weather-new-test-chamber-video/>
+
+---
+
+## This Florida solar farm is supplying clean energy to 12 cities
+
+date: 2025-01-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Rice-Creek-COD-1500x1328-1.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Florida’s Rice Creek Solar Energy Center is now online, delivering nearly 75 megawatts (MW) of clean electricity to 12 cities across the state. The solar farm is part of the Florida Municipal Solar Project, one of the largest municipal solar initiatives in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,florida,solar,solar-power" data-layer-viewtype="unknown" data-post-id="396980" href="https://electrek.co/2025/01/08/florida-solar-farm-is-supplying-clean-energy-to-12-cities/#more-396980" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/08/florida-solar-farm-is-supplying-clean-energy-to-12-cities/>
+
+---
+
+## Hyundai’s 2025 IONIQ 5 EV is cheaper than a Toyota RAV4 with up to $16,000 in discounts
+
+date: 2025-01-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Hyundai-US-made-IONIQ-5-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The upgraded electric SUV is arriving with up to $16,000 in savings. With discounts, Hyundai’s new 2025 <a href="https://electrek.co/guides/hyundai-ioniq-5/">IONIQ 5</a> can be bought for under $28,000, nearly half off MSRP. That’s even cheaper than a new Toyota RAV4.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="396965" href="https://electrek.co/2025/01/08/hyundais-2025-ioniq-5-ev-already-has-16000-discounts/#more-396965" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/08/hyundais-2025-ioniq-5-ev-already-has-16000-discounts/>
+
+---
+
+## Tesla officially appeals judge’s decision on Elon Musk’s compensation package
+
+date: 2025-01-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Elon-Musk-Game-of-Thrones.webp?w=1500" /></div><p>Tesla has officially filed its appeal against the Delaware judge’s decision on Elon Musk’s compensation package.</p>
+
+
+
+<p>It’s heading to the state’s Supreme Court.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="elon-musk,tesla" data-layer-viewtype="unknown" data-post-id="396955" href="https://electrek.co/2025/01/08/tesla-officially-appeals-judges-decision-on-elon-musks-compensation-package/#more-396955" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/08/tesla-officially-appeals-judges-decision-on-elon-musks-compensation-package/>
+
+---
+
+## Scout Motors Is 'Highly Confident' It'll Win Battle With Dealers
+
+date: 2025-01-08, from: Inside EVs News
+
+The company is all-in on direct-to-consumer sales, despite dealer backlash. 
+
+<br> 
+
+<https://insideevs.com/news/746632/scout-motors-dealer-suits/>
+
+---
+
+## Akio Toyoda Makes Subtle Dig At Elon Musk As Toyota Invests In Rockets
+
+date: 2025-01-08, from: Inside EVs News
+
+“The future of mobility shouldn’t be limited to just cars. Or just one car company, for that matter,” the Toyota chairman said.  
+
+<br> 
+
+<https://insideevs.com/news/746623/akio-toyoda-rocket-interstellar-woven/>
+
+---
+
+## Lectric New Year sale increases savings on XPedition 2.0 cargo e-bike bundle, Govee smart composter, Worx, Greenworks, more
+
+date: 2025-01-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Lectric-XPedition-2.0-Cargo-e-bike-3.png?w=1200" /></div><p>Today’s Green Deals are being led by <a href="https://9to5toys.com/2025/01/08/lectric-new-year-xpedition-2-0-e-bike-1399/">Lectric’s New Year sale</a> that is giving folks up to $727 in free gear along with e-bike purchases, with increased savings on its new <a href="https://9to5toys.com/2025/01/08/lectric-new-year-xpedition-2-0-e-bike-1399/">XPedition 2.0</a> 13Ah Single-Battery Cargo e-bike that comes with $326 in free gear for <a href="https://9to5toys.com/2025/01/08/lectric-new-year-xpedition-2-0-e-bike-1399/">$1,399</a>. From there, we have a collection of handy devices and tools for around the home, with <a href="https://9to5toys.com/2025/01/08/govee-smart-electric-composter-300/">Govee’s Smart Electric Composter</a> down at <a href="https://9to5toys.com/2025/01/08/govee-smart-electric-composter-300/">$300</a>. We also have a new low price on Worx’s latest <a href="https://9to5toys.com/2025/01/08/worx-nitro-40v-leaf-blower-new-159-low/">Nitro 40V Cordless Leaf Blower for $159</a>, as well as two Greenworks deals – the <a href="https://9to5toys.com/2025/01/07/greenworks-80v-snow-shovel-234/">80V 12-inch Cordless Electric Snow Shovel at $234</a> and an <a href="https://9to5toys.com/2025/01/08/greenworks-3-tool-combo-570-today/">80V 3-tool lawncare combo</a> that is back at its <a href="https://9to5toys.com/2025/01/08/greenworks-3-tool-combo-570-today/">$570</a> low for today only. Plus, all the other hangover Green Deals can be found in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/01/07/segway-xyber-and-xafari-e-bikes-open-for-preorder/">Segway e-bike</a> preorder launch, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="396934" href="https://electrek.co/2025/01/08/lectric-new-year-sale-govee-composter-worx-greenworks-more/#more-396934" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/08/lectric-new-year-sale-govee-composter-worx-greenworks-more/>
+
+---
+
+## Lucid (LCID) is the first to earn the ‘Saudi Made’ badge on its EVs
+
+date: 2025-01-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Lucid-first-Saudi-Made-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The EV maker just secured another significant milestone as it looks to accelerate growth in 2025. <a href="https://electrek.co/guides/lucid-motors/">Lucid</a> (LCID) is now the first carmaker to earn the “Saudi Made” logo on its EVs. The badge symbolizes “quality, excellence, and customer trust” as The Kingdom shifts from oil to EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="396920" href="https://electrek.co/2025/01/08/lucid-lcid-first-to-earn-saudi-made-badge-evs/#more-396920" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/08/lucid-lcid-first-to-earn-saudi-made-badge-evs/>
+
+---
+
+## Mercedes U.S. EV Sales Plummeted In 2024 While PHEVs Surged
+
+date: 2025-01-08, from: Inside EVs News
+
+Overall sales were up 9% and helped offset the electric models’ poor performance. 
+
+<br> 
+
+<https://insideevs.com/news/746611/mercedes-ev-sales-fall-2024/>
+
+---
+
+## Aptera shows its production-intent solar EV at CES, ships this year? (Update)
+
+date: 2025-01-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/IMG_3782-e1736358907138.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Aptera has publicly unveiled the production-intent version of its long-awaited solar EV, which it says will start deliveries by the end of this year.</p>
+
+
+
+<p><em><strong>Update: </strong></em>We swung by the booth a took a few pictures of Aptera’s production-intent vehicle chassis, see below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aptera,solar-electric-vehicles" data-layer-viewtype="unknown" data-post-id="396810" href="https://electrek.co/2025/01/08/aptera-shows-its-production-intent-solar-ev-at-ces-ships-this-year/#more-396810" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/08/aptera-shows-its-production-intent-solar-ev-at-ces-ships-this-year/>
+
+---
+
+## Check out Hyundai’s new electric minivan caught undisguised for the first time
+
+date: 2025-01-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Hyundais-electric-minivan-4.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Who said minivans weren’t cool? <a href="https://electrek.co/guides/hyundai/">Hyundai’s</a> first electric minivan (which could double as a camper van) was spotted in public without camouflage, giving us a better look at what to expect. Check out the upcoming EV below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="396910" href="https://electrek.co/2025/01/08/hyundais-new-electric-minivan-caught-undisguised-first-time/#more-396910" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/08/hyundais-new-electric-minivan-caught-undisguised-first-time/>
+
+---
+
+## What Honda And Nissan Aren’t Telling Us About Their Merger
+
+date: 2025-01-08, from: Inside EVs News
+
+We also discuss Sony Honda Mobility’s direct-to-sales model and an update on labor violations allegations against BYD. 
+
+<br> 
+
+<https://insideevs.com/news/746624/what-honda-nissan-arent-telling-us-about-merger/>
+
+---
+
+## Honda Says Thin Is In: 0 Saloon And 0 SUV Designs Are Close To Production
+
+date: 2025-01-08, from: Inside EVs News
+
+The 0 Saloon and 0 SUV are meant to invoke the principles of Honda's new "thin, light, and wise" for its new EVs. 
+
+<br> 
+
+<https://insideevs.com/news/746532/honda-design-0-series-saloon/>
+
+---
+
+## Elon Musk claims Tesla is doing ‘unsupervised self-driving trials’ while playing video games
+
+date: 2025-01-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2020/08/Tesla-app-delivery.png?w=1600" /></div><p>Elon Musk is claiming that Tesla has started doing ‘unsupervised self-driving trials internally’. He made the claim while playing video games, and It should be taken with a grain, or pound, of salt.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="396880" href="https://electrek.co/2025/01/08/elon-musk-claims-tesla-is-doing-unsupervised-self-driving-trials-while-playing-video-games/#more-396880" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/08/elon-musk-claims-tesla-is-doing-unsupervised-self-driving-trials-while-playing-video-games/>
+
+---
+
+## BYD’s new lower-priced Dolphin lands in Australia as the first EV priced under $30,000
+
+date: 2025-01-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/BYD-30000-EV-Australia-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s EV leader is unleashing its low-cost electric cars overseas. BYD now has the first EV to cost under $30,000 in Australia. After launching an even cheaper Dolphin model, <a href="https://electrek.co/guides/byd/">BYD</a> said stay tuned for another big announcement on Monday.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,byd-dolphin" data-layer-viewtype="unknown" data-post-id="396881" href="https://electrek.co/2025/01/08/byd-just-launched-first-ev-priced-under-30000-australia/#more-396881" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/08/byd-just-launched-first-ev-priced-under-30000-australia/>
+
+---
+
+## ZEEKR teases images of its next shooting brake EV, a sleek GT version of its 007 sedan
+
+date: 2025-01-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/ZEEKR-007-GT-teaser.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A day after sharing plans for three new BEV launches in 2025, <a href="https://electrek.co/guides/zeekr/">ZEEKR</a> has shared a look at one of them. The Chinese automaker has developed a shooting brake version of its 007 sedan, the ZEEKR 007 GT, which you can see for the first time below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="zeekr,zeekr-007,zeekr-007-gt" data-layer-viewtype="unknown" data-post-id="396889" href="https://electrek.co/2025/01/08/zeekr-teases-images-shooting-brake-ev-gt-version-007-sedan/#more-396889" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/08/zeekr-teases-images-shooting-brake-ev-gt-version-007-sedan/>
 
 ---
 
@@ -277,7 +541,7 @@ date: 2025-01-07, from: Electrek Feed
 
 date: 2025-01-07, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/heybike-alpha-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://shrsl.com/4shke">Heybike</a> is well-known as an entry-level electric bike brand, so what is this company doing building a mid-drive e-bike that is leaps and bounds above anything they’ve produced before? That’s exactly what I wanted to find out – and why I decided to become the first to ride this newly introduced e-bike.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/heybike-alpha-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://bit.ly/ALPHAPRESSRELEASE">Heybike</a> is well-known as an entry-level electric bike brand, so what is this company doing building a mid-drive e-bike that is leaps and bounds above anything they’ve produced before? That’s exactly what I wanted to find out – and why I decided to become the first to ride this newly introduced e-bike.</p>
 
 
 
@@ -389,6 +653,22 @@ date: 2025-01-07, from: Electrek Feed
 
 ---
 
+## Lucid’s (LCID) +450 mile range Gravity SUV will use new Panasonic EV batteries
+
+date: 2025-01-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Lucid-Gravity-EV-batteries.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lucid (LCID) confirmed that its new <a href="https://electrek.co/guides/lucid-gravity/">Gravity SUV</a> will provide up to 450 miles of EPA-estimated driving range. Powered by Panasonic’s high-performance EV batteries, Lucid promises the Gravity is “a groundbreaking new class of SUV.” Here’s what you need to know about Lucid’s new EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-gravity,lucid-motors,panasonic" data-layer-viewtype="unknown" data-post-id="396712" href="https://electrek.co/2025/01/07/lucid-lcid-gravity-450-miles-range-new-ev-batteries/#more-396712" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/07/lucid-lcid-gravity-450-miles-range-new-ev-batteries/>
+
+---
+
 ## Here are the best electric bikes you can buy at every price level in January 2025
 
 date: 2025-01-07, from: Electrek Feed
@@ -493,7 +773,7 @@ Toyota's Woven City, located at the base of Mount Fuji, aims to develop everythi
 
 ---
 
-## Cox Automotive: 1 in 4 vehicles sold in 2025 will be electric
+## Cox Automotive: 1 in 4 vehicles sold in 2025 will be ‘electrified’
 
 date: 2025-01-06, from: Electrek Feed
 

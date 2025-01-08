@@ -1,11 +1,24 @@
 ---
 title: motorcycles
-updated: 2025-01-08 07:05:56
+updated: 2025-01-08 15:35:39
 ---
 
 # motorcycles
 
-(date: 2025-01-08 07:05:56)
+(date: 2025-01-08 15:35:39)
+
+---
+
+## Is SYM’s New Motorcycle a Scooter Or a Sport-Tourer?
+
+date: 2025-01-08, from: Ride Apart, Electric Motorcycle News
+
+Your guess is as good as mine.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/746357/sym-ttlbt-maxi-scooter-unveiled/>
 
 ---
 
@@ -38,7 +51,7 @@ The Italian helmet maker is set to make a grand entrance into the US market.
 
 date: 2025-01-08, from: Ride Apart, Electric Motorcycle News
 
-I'll say it again, but politiicans hate public land.  
+I'll say it again, but politicians hate public land.  
 
 <br> 
 

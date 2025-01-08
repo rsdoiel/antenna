@@ -1,11 +1,205 @@
 ---
 title: columns
-updated: 2025-01-08 07:05:54
+updated: 2025-01-08 15:35:37
 ---
 
 # columns
 
-(date: 2025-01-08 07:05:54)
+(date: 2025-01-08 15:35:37)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-08, from: Dave Winer's Scripting News)
+
+Started a new <a href="https://github.com/scripting/bingeworthySupport/issues/1">support repo</a> for Bingeworthy. 
+
+<br> 
+
+<http://scripting.com/2025/01/08.html#a224625>
+
+---
+
+##  The Weirdest TV Crossovers of All Time include St. Elsewhere + Cheers,... 
+
+date: 2025-01-08, updated: 2025-01-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045990-the-weirdest-tv-crossover>
+
+---
+
+## micro.one
+
+date: 2025-01-08, from: John's World Wide Wall Display
+
+If you want to leave some of the more toxic online spaces, I’d recommend a look at micro.one. You can gain ownership, and control over your content. All without the overhead of setting up your own site 
+
+<br> 
+
+<https://johnjohnston.info/blog/micro-one/>
+
+---
+
+##  You Don&#8217;t Need A Full-Size Pickup Truck, You Need a Cowboy Costume.... 
+
+date: 2025-01-08, updated: 2025-01-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045985-you-dont-need-a-full-size>
+
+---
+
+## January 7, 2025
+
+date: 2025-01-08, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154420289/c693edc222c76a4112d97ac1cc7ce0ba.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154420289/c693edc222c76a4112d97ac1cc7ce0ba.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-7-2025-e77>
+
+---
+
+##  Some New Site Features to Report 
+
+date: 2025-01-08, updated: 2025-01-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/some-new-site-features-to-report>
+
+---
+
+##  Simon Willison shares his approach to running a link blog. &#8220;I don&#8217;t... 
+
+date: 2025-01-08, updated: 2025-01-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045988-simon-willison-shares-his>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-08, from: Dave Winer's Scripting News)
+
+Podcast: <a href="https://shownotes.scripting.com/scripting/2025/01/08/howIViewWordpress.html">How I view WordPress</a>. 
+
+<br> 
+
+<http://scripting.com/2025/01/08.html#a182400>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-01-08, from: Miguel de Icaza Mastondon feed)
+
+<p>Would love it Xcode would color different isolation boundaries in swift.</p><p>Who does one need to bribe to get this feature?</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113794089349908788>
+
+---
+
+##  The Dune Bible 
+
+date: 2025-01-08, updated: 2025-01-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/the-dune-bible>
+
+---
+
+##  The Most Scathing Book Reviews of 2024. Here&#8217;s Ron Charles on Kristi... 
+
+date: 2025-01-08, updated: 2025-01-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045966-the-most-scathing-book-re>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-08, from: Dave Winer's Scripting News)
+
+Just found an exponential memory leak at the database level in Bingeworthy. I have never seen one of these in all my years of programming. A data structure that saves a copy of itself in itself. So every time it saved it became exponentially bigger. Until it made the SQL server crash because the JSON object it was storying was over the limit of JSON objects. Crashed the freaking server. Fixed. Feels good. 
+
+<br> 
+
+<http://scripting.com/2025/01/08.html#a170550>
+
+---
+
+##  Surviving President Tr*mp: Lessons from the 1960s and Octavia E. Butler. &#8220;First,... 
+
+date: 2025-01-08, updated: 2025-01-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045977-surviving-president-trmp->
+
+---
+
+## On Los Angeles Wildfires
+
+date: 2025-01-08, from: Doc Searls (at Harvard), New Old Blog
+
+2:56pm Here is the flight path of a private aircraft out of Lancaster, CA: I assume it has official business. 2:55pm A Ventura County fire helicopter, observing: 2:50pm on KABC/7: Mobile home park (surrounding Shore Drive) in Malibu across from the ocean is destroyed. Flaming homes on Mitwick in Altadena. 2:45 on KCAL/CBS: Episcopal Church [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/01/08/on-los-angeles-wildfires/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-08, from: Dave Winer's Scripting News)
+
+As part of the conversion of <a href="https://tv.bingeworthy.org/">BingeWorthy</a>, I started the database from scratch, but before I did that, I exported <a href="https://github.com/scripting/binge2Data/tree/master/data">all the data</a> and put it in a GitHub repo. This included a JSON file of ratings for each user. For example, <a href="https://github.com/scripting/binge2Data/blob/master/data/users/davewiner.json">this</a> is my file. Remember we used Twitter identity then, <i>davewiner</i> is my Twitter username, just replace my name with yours to see your file, if you were a Bingeworthy user in the past. 
+
+<br> 
+
+<http://scripting.com/2025/01/08.html#a160203>
+
+---
+
+##  The Days They Changed the Gauge 
+
+date: 2025-01-08, updated: 2025-01-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/the-days-they-changed-the-gauge-1>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-08, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2012/02/16/1984.jpg" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I wrote <a href="http://scripting.com/2023/07/13/115050.html">this post</a> in 2023 as Threads was coming online. Now that Zuckerberg has thrown us under the bus, again, it's worth remembering their rollout strategy was to get us to overlook their past betrayals of users. They said "We ❤️ Fediverse." That did it. It was at a moment of fear of Twitter, now owned by Musk, and a belief in the story of ActivityPub, that it would create an open social web. Zuck said "we're on board." Now it's expedient to say to another group that he sees things their way, and it just so happens to be the very people most people who were looking to get away from in 2023 when he was loving the Fediverse. Now we're doing the same thing with Bluesky. And <i>it's going to happen again. </i>There will be a moment when you look back on your "hope for the best" approach and realize that it didn't work, and if I'm around I will remind you again. We have to roll up our sleeves and make an <i>open social web</i> that can't be sold out. When you build value for other people, they will use it for their advantage, leaving you with nothing. That's business. There are no companies that are different, not Apple, not anyone. More in a <a href="https://bsky.app/profile/scripting.com/post/3lfagl2im4c2m">thread</a> on Bluesky. 
+
+<br> 
+
+<http://scripting.com/2025/01/08.html#a150826>
 
 ---
 
@@ -43,7 +237,7 @@ date: 2025-01-08, updated: 2025-01-08, from: Jason Kittke's blog
 
 **@Miguel de Icaza Mastondon feed** (date: 2025-01-08, from: Miguel de Icaza Mastondon feed)
 
-<p>New source of UI inspiration.  This is a magnificent app, a mobile 3D model designer (a pocket blender kind of app).</p><p>Gorgeous, highly polished, mobile-centric.  A great companion for Godot on iPad:</p><p><a href="https://valence3d.app" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">valence3d.app</span><span class="invisible"></span></a></p><p>Files another dozen bugs on things they do wonderfully.</p> 
+<p>New source of UI inspiration.  This is a magnificent app, a mobile 3D model designer (a pocket blender kind of app).</p><p>Gorgeous, highly polished, mobile-centric.  A great companion for Godot on iPad:</p><p><a href="https://valence3d.app" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">valence3d.app</span><span class="invisible"></span></a></p><p>Filed another dozen bugs on things they do wonderfully.</p> 
 
 <br> 
 
@@ -92,7 +286,7 @@ Today, President Joe Biden signed proclamations that create the Chuckwalla Natio
 
 date: 2025-01-08, from: Doc Searls (at Harvard), New Old Blog
 
-We&#8217;re watching KABC/7 from Los Angeles, live on our Roku TV (which has it among hundreds of &#8220;Live TV&#8221; channels), and in a browser on this laptop. One screen grab: Fire.ca.gov has much information, and maps. Here&#8217;s one for the Palisades fire: Winds are so strong that there is no fire fighting on the front [&#8230;] 
+We&#8217;re watching KABC/7 from Los Angeles, live on our Roku TV (which has it among hundreds of &#8220;Live TV&#8221; channels), and in a browser on this laptop. One screen grab: KABC/7 live coverage of the Palisades fire, and the new one a Eaton Canyon in Altadena.Fire.ca.gov has much information, and maps. Here&#8217;s one for the [&#8230;] 
 
 <br> 
 

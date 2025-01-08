@@ -1,11 +1,219 @@
 ---
 title: journalism
-updated: 2025-01-08 07:05:55
+updated: 2025-01-08 15:35:38
 ---
 
 # journalism
 
-(date: 2025-01-08 07:05:55)
+(date: 2025-01-08 15:35:38)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+Jeff Harris, owner of Feisty Fish Poke, stands outside the Westwood Recreation Center with his food truck offering free meals for evacuees. When asked why, Harris said he decided to show up, adding that it was amazing to see other members of the community bring food and blankets to the center. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476791/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+Around 2:40 p.m., the city of Santa Monica issued a new evacuation order for areas north of Montana Avenue from the beach to 11th Street. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476781/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+A spokesperson for the Unified Teachers Los Angeles – a union representing workers in the LA Unified School District – said they believe the district has responded inadequately to the fires, adding that students were forced to show up to schools which closed immediately when they arrived. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476788/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+Caroline Sierk, a third-year political science student who is originally from Iowa, said this is her first time ever seeing a wildfire and that watching the red clouds over the hills seemed &#8220;dystopian.&#8221;
+&#8220;It&#8217;s horrible that this is a normalcy for people,&#8221; Sierk added. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476782/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+Third-year music industry student Bryce Fleming said that although she experienced wildfires growing up in Orange County, this is the first one to severely impact her friends and community. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476779/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+Evacuees traveling to the Westwood Recreation Center – a designated official evacuation center – can take advantage of free Uber rides, according to a press release from the rideshare company. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476777/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 2:32 p.m., the Palisades fire has a size of over 15,000 acres, according to Cal Fire. People in affected areas are still being evacuated to the Westwood Recreation Center. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476766/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+Tyler Janssen, a first-year biochemistry student, said she noticed worsened air conditions on campus.
+“I feel like I feel more shortness of breath,” Janssen said. “I wasn’t feeling like that earlier in the week.”
+One of Janssen’s classes was canceled, she said. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476763/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+At the Westwood Recreation Center, a designated evacuation center for the Palisades fire, people displaced from various fires can be seen walking inside and asking for assistance. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476751/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+Aaden Doizina, a second-year political science student, said he did not have any Wednesday classes in his schedule but came on campus just to get face masks as a precaution. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476749/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+Christopher Diaz, a second-year environmental science student, said though he does not have immediate family affected, he knows of friends in surrounding areas who have had to evacuate. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476747/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+Undergraduate Students Association Council External Vice President Javier Nuñez-Verdugo&#8217;s office is distributing masks at Kerckhoff Hall, according to a joint Instagram post between their USAC President Adam Tfayli&#8217;s offices. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476745/>
+
+---
+
+## New student Convocation canceled due to fires
+
+date: 2025-01-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>University Park Campus remains “largely unimpacted and open.”</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/08/new-student-convocation-canceled-due-to-fires/">New student Convocation canceled due to fires</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/08/new-student-convocation-canceled-due-to-fires/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 12:10 p.m., the Palisades fire now has a size of 11,802 acres, according to the CalFIRE website. The UCLA campus remains open for campus with regular operations, according to Bruins Safe Online. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476726/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+President-elect Donald Trump alleged in a Truth social post that Gov. Gavin Newsom is at fault for wildfires across Los Angeles. In the post, he blamed a Newsom-backed policy that seeks to protect endangered fish by limiting how much water can be pumped out of the Sacramento-San Joaquin Delta. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476723/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+Multiple fires remained active in Los Angeles County at 11:45 a.m., according to CalFIRE.
+The largest of the three fires, located between Pasadena and Altadena had a size of 10,600 acres and was being dealt with by a combination of the county fire department, Pasadena fire and the United States Forest Services, according to the CalFIRE Website. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476721/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+UCLA is reporting that air quality is good, according to Bruin Safe Online. The quality report is based on monitoring near the Hill and Hilgard Avenue and was shared as part of a Wednesday morning post saying that campus remains open for classes. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476719/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+Over 20 classes scheduled for Wednesday have been moved online or canceled as of 11:01 a.m. All classes in the department of architecture and urban design have been moved to remote instruction for Wednesday, according to an email sent by the department&#8217;s manager to students. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476717/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+In a press conference Wednesday morning, Janisse Quiñones, CEO of Los Angeles Department of Water and Power, said residents in areas around the Palisades should conserve water because the system has been exhausted by the fire response, and first responders need as much water as possible. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476715/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+The UCLA Henry Samueli School of Engineering and Applied Science&#8217;s Office of Academic and Student Affairs announced it will be conducting fully remote operations as of 9:04 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476708/>
 
 ---
 

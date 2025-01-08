@@ -1,11 +1,51 @@
 ---
 title: ham radio
-updated: 2025-01-08 07:05:54
+updated: 2025-01-08 15:35:36
 ---
 
 # ham radio
 
-(date: 2025-01-08 07:05:54)
+(date: 2025-01-08 15:35:36)
+
+---
+
+## ADI’s efforts for a wirelessly upgraded software-defined vehicle
+
+date: 2025-01-08, from: EDN Blog
+
+<p>Based on the OPEN alliance 10BASE-T1S physical layer (PHY), the E2B bus aims at removing the need for MCUs centralizing the software to the HPC or central compute.</p>
+<p>The post <a href="https://www.edn.com/adis-efforts-for-a-wirelessly-upgraded-software-defined-vehicle/" data-wpel-link="internal">ADI&#8217;s efforts for a wirelessly upgraded software-defined vehicle</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/adis-efforts-for-a-wirelessly-upgraded-software-defined-vehicle/>
+
+---
+
+## FCC Closed January 9, 2025 for President Carter National Day of Mourning
+
+date: 2025-01-08, from: Amateur Radio Relay League News
+
+<p><span>The Federal Communications Commission (FCC) will be closed on Thursday, January 9, 2025, in observance of the national day of mourning for former President Jimmy Carter. Exam session applications for new and upgraded licenses, as well as individual and club license filings, will not be processed. Application processing will resume when FCC offices reopen on Friday, January 10 at 8:00 AM EST.</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/fcc-closed-january-9-2025-for-president-carter-national-day-of-mourning>
+
+---
+
+## PWMpot approximates a Dpot
+
+date: 2025-01-08, from: EDN Blog
+
+<img width="367" height="504" src="https://www.edn.com/wp-content/uploads/Ppot_Figure1.png?fit=367%2C504" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Ppot_Figure1.png?w=367 367w, https://www.edn.com/wp-content/uploads/Ppot_Figure1.png?w=218 218w" sizes="(max-width: 367px) 100vw, 367px" /><p>“PWMpot” that offers useful and often superior performance to Dpots in parameters such as programmable resolution and more.</p>
+<p>The post <a href="https://www.edn.com/pwmpot-approximates-a-dpot/" data-wpel-link="internal">PWMpot approximates a Dpot</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/pwmpot-approximates-a-dpot/>
 
 ---
 
@@ -13,7 +53,7 @@ updated: 2025-01-08 07:05:54
 
 date: 2025-01-08, from: EDN Blog
 
-<img width="1600" height="914" src="https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?fit=1600%2C914" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?w=1600 1600w, https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?w=1536 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><p>Processing-in-memory (PiM), a silver bullet for TinyML, is just one tool to execute SLMs and some LLMs effectively at the far edge.</p>
+<img width="1600" height="914" src="https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?fit=1600%2C914" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?w=1600 1600w, https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-1-AI-at-edge-PIMIC.jpeg?w=1536 1536w" sizes="auto, (max-width: 1600px) 100vw, 1600px" /><p>Processing-in-memory (PiM), a silver bullet for TinyML, is just one tool to execute SLMs and some LLMs effectively at the far edge.</p>
 <p>The post <a href="https://www.edn.com/ai-at-the-edge-its-just-getting-started/" data-wpel-link="internal">AI at the edge: It’s just getting started</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

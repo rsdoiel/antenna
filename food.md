@@ -1,11 +1,87 @@
 ---
 title: food
-updated: 2025-01-08 07:05:57
+updated: 2025-01-08 15:35:40
 ---
 
 # food
 
-(date: 2025-01-08 07:05:57)
+(date: 2025-01-08 15:35:40)
+
+---
+
+## Taco Bell Just Revealed Plans to Drop Steak Garlic Nacho Fries
+
+date: 2025-01-08, from: Taste of Home
+
+<p>The only thing better than Taco Bell's Nacho Fries is loaded Nacho Fries.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/taco-bell-steak-garlic-nacho-fries/">Taco Bell Just Revealed Plans to Drop Steak Garlic Nacho Fries</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/taco-bell-steak-garlic-nacho-fries/>
+
+---
+
+## Canada’s Happy Belly Acquiring Smile Tiger Coffee Roasters in $173K Deal
+
+date: 2025-01-08, from: Daily Coffee News
+
+<div><img width="620" height="396" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-620x396.jpg" class="attachment-large size-large wp-post-image" alt="Smile Tiger Coffee Roasters" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-620x396.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-300x191.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters.jpg 677w" sizes="(max-width: 620px) 100vw, 620px" /></div>Publicly traded Canadian company Happy Belly Food Group signed a definitive agreement to acquire Kitchener, Ontario-based Smile Tiger Coffee Roasters in a deal worth approximately $173,000 USD. The acquisition represents... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/08/canadas-happy-belly-acquiring-smile-tiger-coffee-roasters-in-173k-deal/>
+
+---
+
+## Best Mushroom Coffee (2025) If You're Adaptogen Curious
+
+date: 2025-01-08, from: Bon Appetet
+
+These fungi-fueled drinks are also a great way to cut back on caffeine 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-mushroom-coffee>
+
+---
+
+## Air-Fryer S’mores
+
+date: 2025-01-08, from: Taste of Home
+
+Put your campfire starter tools away! This air-fryer s'mores recipe takes the sweet treat inside thanks to everyone's favorite mini oven. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/air-fryer-smores-recipe/>
+
+---
+
+## Chemex Pour-Over Review: A Coffee Maker Well Worth the Splurge
+
+date: 2025-01-08, from: Taste of Home
+
+<p>Meet the Chemex Pour-Over, which we ranked the Best Splurge pour-over coffee maker for its elegance and strong cups of coffee.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/chemex-pour-over-review/">Chemex Pour-Over Review: A Coffee Maker Well Worth the Splurge</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/chemex-pour-over-review/>
+
+---
+
+## Study Finds the Best Time of Day to Drink Coffee for a Longer Life
+
+date: 2025-01-08, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="time to drink coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A major new study found that people who primarily drink coffee in the morning may have a lower risk of dying prematurely — especially from heart disease — than people... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/08/study-finds-the-best-time-of-day-to-drink-coffee-for-a-longer-life/>
 
 ---
 
@@ -21,11 +97,23 @@ date: 2025-01-08, from: The Sprudge
 
 ---
 
+## Coffee Consumption Linked With Lower Risk Of Head And Neck Cancer
+
+date: 2025-01-08, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Head and neck is the seventh most common type of cancer. 
+
+<br> 
+
+<https://sprudge.com/coffee-consumption-linked-with-lower-risk-of-head-and-neck-cancer-268342.html>
+
+---
+
 ## Panera and Caribou Group CEO Steps Down After Less Than Two Years
 
 date: 2025-01-08, from: Daily Coffee News
 
-<div><img width="620" height="439" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-620x439.jpg" class="attachment-large size-large wp-post-image" alt="panera coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-620x439.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-300x212.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-768x543.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Panera Brands CEO José Alberto Dueñas is stepping down from the role of CEO after approximately 22 months. He is being replaced on an interim basis by current CFO Paul... 
+<div><img width="620" height="439" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-620x439.jpg" class="attachment-large size-large wp-post-image" alt="panera coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-620x439.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-300x212.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-768x543.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Panera Brands CEO José Alberto Dueñas is stepping down from the role of CEO after approximately 22 months. He is being replaced on an interim basis by current CFO Paul... 
 
 <br> 
 
@@ -133,7 +221,7 @@ This shortcut baked rigatoni is loaded with spicy Italian sausage and topped wit
 
 date: 2025-01-07, from: Daily Coffee News
 
-<div><img width="620" height="449" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1-620x449.jpg" class="attachment-large size-large wp-post-image" alt="coffee and HNC" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1-620x449.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1-300x217.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1-768x556.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Drinking four or more cups of coffee per day is linked with a significant reduction in the risk of head and neck cancers, according to a comprehensive analysis of global... 
+<div><img width="620" height="449" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1-620x449.jpg" class="attachment-large size-large wp-post-image" alt="coffee and HNC" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1-620x449.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1-300x217.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1-768x556.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-and-HNC-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Drinking four or more cups of coffee per day is linked with a significant reduction in the risk of head and neck cancers, according to a comprehensive analysis of global... 
 
 <br> 
 
@@ -145,7 +233,7 @@ date: 2025-01-07, from: Daily Coffee News
 
 date: 2025-01-07, from: Daily Coffee News
 
-<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4-620x415.jpg" class="attachment-large size-large wp-post-image" alt="Creatures plants and coffee LA 4" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A hybrid plant nursery and coffee shop named Creature’s Plants &#38; Coffee opened in the Eagle Rock neighborhood of Los Angeles last fall, creating connections between plants, people and coffee.&#160;... 
+<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4-620x415.jpg" class="attachment-large size-large wp-post-image" alt="Creatures plants and coffee LA 4" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Creatures-plants-and-coffee-LA-4.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A hybrid plant nursery and coffee shop named Creature’s Plants &#38; Coffee opened in the Eagle Rock neighborhood of Los Angeles last fall, creating connections between plants, people and coffee.&#160;... 
 
 <br> 
 

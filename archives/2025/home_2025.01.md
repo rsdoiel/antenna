@@ -1,11 +1,167 @@
 ---
 title: home
-updated: 2025-01-08 07:05:56
+updated: 2025-01-08 15:35:38
 ---
 
 # home
 
-(date: 2025-01-08 07:05:56)
+(date: 2025-01-08 15:35:38)
+
+---
+
+## How Toll Text Scams Are Targeting Drivers
+
+date: 2025-01-08, from: Family Handyman Blog
+
+<p>There's a new text scam going around, and this one has to do with toll fees. We'll show you how to spot it and keep yourself safe. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/toll-text-scam/">How Toll Text Scams Are Targeting Drivers</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/toll-text-scam/>
+
+---
+
+## Here’s How To Look Up Old Photos on Google Maps
+
+date: 2025-01-08, from: Family Handyman Blog
+
+<p>Go on a digital nostalgic journey through Google Maps!</p>
+<p>The post <a href="https://www.familyhandyman.com/article/find-old-photos-on-google-maps/">Here&#8217;s How To Look Up Old Photos on Google Maps</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/find-old-photos-on-google-maps/>
+
+---
+
+## Airbnb Red Flags: How To Avoid Getting Scammed
+
+date: 2025-01-08, from: Family Handyman Blog
+
+<p>From fake listings to phishing scams, learn to spot common Airbnb traps and protect yourself before booking your next getaway.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-spot-airbnb-scams/">Airbnb Red Flags: How To Avoid Getting Scammed</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-spot-airbnb-scams/>
+
+---
+
+## Fighting for the Jurupa Oak
+
+date: 2025-01-08, from: California Native Plants Society
+
+<p>After surviving at least 13,000 years, California’s oldest living tree faces some of the modern era’s biggest threats.</p>
+<p>The post <a href="https://www.cnps.org/flora-magazine/jurupa-oak-conservation-fight-41628">Fighting for the Jurupa Oak</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/flora-magazine/jurupa-oak-conservation-fight-41628>
+
+---
+
+## North Stars
+
+date: 2025-01-08, from: California Native Plants Society
+
+<p>The native plants of the Klamath Mountains dazzle with their beauty, diversity, and resiliency.</p>
+<p>The post <a href="https://www.cnps.org/flora-magazine/north-stars-native-plants-klamath-mountains-41645">North Stars</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/flora-magazine/north-stars-native-plants-klamath-mountains-41645>
+
+---
+
+## Before & After: An Architect’s Home Reinterprets Suburbia in the Pacific Northwest
+
+date: 2025-01-08, from: Dwell
+
+Near Seattle, Neal Barber creates a dream house for his family that suits the neighborhood while subtly standing out. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-suburb-house-studio-nocturne-kenmore-washington-8e6d7ca1>
+
+---
+
+## Vintage Vibes Meet Passive Design in This $1M New Zealand Home
+
+date: 2025-01-08, from: Dwell
+
+Designed by GreenHaus Architects, the midcentury-inspired residence sits on over 17 acres and comes with a popular Airbnb rental. 
+
+<br> 
+
+<https://www.dwell.com/article/waraki-passive-house-greenhaus-architects-wellington-new-zealand-real-estate-05b7fd21>
+
+---
+
+## If You Can Dream It, This Tiny Tree House Maker Can Probably Build It
+
+date: 2025-01-08, from: Dwell
+
+O2 Treehouse is known for crafting fantastical escapes, like this new J.R.R Tolkien–inspired backyard retreat. 
+
+<br> 
+
+<https://www.dwell.com/article/02-treehouse-rivendlle-custom-tiny-homes-2cdc5406>
+
+---
+
+## How to Grow and Care for Baby’s Tears
+
+date: 2025-01-08, from: The Gardener's Path
+
+<p>Baby’s tears is an herbaceous perennial ground cover in Zones 9 to 11 and a low-maintenance, medium-light houseplant in other regions. Its trailing stems have tiny chartreuse, gold, green, silver, or variegated foliage that shows well in hanging planters. Learn how to grow baby’s tears indoors in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/grow-babys-tears/">How to Grow and Care for Baby’s Tears</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/grow-babys-tears/>
+
+---
+
+## 5 Smart Ways Professional Organizers Put Away Their Holiday Decorations
+
+date: 2025-01-08, from: Sunset Magazine - Living in the West
+
+When it's time to put away the holiday decorations, it helps to store things carefully. Experts share how to organize Christmas decorations. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/how-to-organize-christmas-decorations>
+
+---
+
+## These Organizing Products Are Must-Haves for Your New Year Decluttering Project
+
+date: 2025-01-08, from: Sunset Magazine - Living in the West
+
+If you're planning on decluttering your home in the new year you need to have the right gear. These best organizing products will help. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/best-organizing-products>
+
+---
+
+## Catastrophic Fires Are Ravaging Los Angeles. Here Is How to Stay Safe.
+
+date: 2025-01-08, from: Sunset Magazine - Living in the West
+
+The Palisades, Woodley, and Eaton Fires continue to grow throughout the city. Here's how to stay safe, and how to help out. 
+
+<br> 
+
+<https://www.sunset.com/travel/fires-los-angeles-palisades-eaton>
 
 ---
 
@@ -18,6 +174,42 @@ A sculptural concrete and European oak staircase in a house in rural Oxfordshire
 <br> 
 
 <https://www.dwell.com/article/how-they-pulled-it-off-a-massive-coiled-staircase-in-a-12000-square-foot-home-in-england-40050c66>
+
+---
+
+## Seriously, This Is Hands Down the Most Stylish Futon Ever
+
+date: 2025-01-08, from: Sunset Magazine - Living in the West
+
+The Sven Tufted Sofa Bed from Article is as cute as it is cozy—and it pulls out into a king-sized bed. Plus it's totally affordable. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/article-sven-tufted-sofa-review>
+
+---
+
+## Inside a San Mateo Home Inspired by Fruit (Yes, Fruit)
+
+date: 2025-01-08, from: Sunset Magazine - Living in the West
+
+This San Mateo ranch house lacked flooring, had asbestos in tiles, and was very outdated. See how it was transformed into a stylish oasis. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/san-mateo-ranch-house-renovation>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-01-08, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -117,6 +309,18 @@ Contemplate nature from inside and out.
 
 ---
 
+## Five Separate Pavilions Make Up This Showstopping Estate in Brisbane
+
+date: 2025-01-07, from: Dwell
+
+When you step outside, the wonders continue to unfold. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-pavilions-brisbane-real-estate-b23954ce>
+
+---
+
 ## The Dismantling of the Frank Gehry Project You’ve Never Heard Of
 
 date: 2025-01-07, from: Dwell
@@ -138,18 +342,6 @@ Built in 2024, the Mount Washington residence makes the most of its steep site w
 <br> 
 
 <https://www.dwell.com/article/unstack-house-freelandbuck-contemporary-los-angeles-real-estate-f467c91f>
-
----
-
-## Seriously, This Is Hands Down the Most Stylish Futon Ever
-
-date: 2025-01-07, from: Sunset Magazine - Living in the West
-
-The Sven Tufted Sofa Bed rom Article is as cute as it is cozy – and it pulls out into a king-sized bed. Plus it's totally affordable. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/article-sven-tufted-sofa-review>
 
 ---
 
@@ -318,18 +510,6 @@ Dark colors are in for 2025, at least in interior design. Designers share how to
 <br> 
 
 <https://www.sunset.com/home-garden/design/moody-paint-color-trend>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-01-07, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

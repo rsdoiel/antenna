@@ -1,11 +1,24 @@
 ---
 title: craft
-updated: 2025-01-08 07:05:57
+updated: 2025-01-08 15:35:40
 ---
 
 # craft
 
-(date: 2025-01-08 07:05:57)
+(date: 2025-01-08 15:35:40)
+
+---
+
+## Project Phoenix: V
+
+date: 2025-01-08, from: A Luthier's blog
+
+<p></p><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/dK5LbBeV694" width="320" youtube-src-id="dK5LbBeV694"></iframe></div><span style="background-color: black; color: white;"><br />&nbsp;In this episode, I look at making the bridge and tailpiece
+and then the final assembly. There’s also a bit of as surprise for you??</span><p></p> 
+
+<br> 
+
+<https://guitar-maker.blogspot.com/2025/01/project-phoenix-v.html>
 
 ---
 
@@ -35,7 +48,7 @@ The following is a portion of the introduction to Karvsnitt: Carving, Pattern an
 
 ## On Sale! - Selected Mixed Weave Scarves — Our Favourite Dyeable Scarves
 
-date: 2025-01-07, updated: 2025-01-07, from: Maiwa blog (weaving and textiles)
+date: 2025-01-07, updated: 2025-01-08, from: Maiwa blog (weaving and textiles)
 
  
 

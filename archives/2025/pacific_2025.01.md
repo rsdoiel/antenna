@@ -1,11 +1,210 @@
 ---
 title: pacific
-updated: 2025-01-08 07:05:54
+updated: 2025-01-08 15:35:36
 ---
 
 # pacific
 
-(date: 2025-01-08 07:05:54)
+(date: 2025-01-08 15:35:36)
+
+---
+
+## Unexploded WWII bombs plague Palau amid US military build-up 
+
+date: 2025-01-08, from: Pacific Island Times
+
+The United States fired more than 2,800 tons of munitions from the air and naval vessels on the Japanese-occupied island before making an am 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/unexploded-wwii-bombs-plague-palau-amid-us-military-build-up>
+
+---
+
+## UH forensic anthropologist honored for contributions in Thailand
+
+date: 2025-01-08, from: University of Hawaiʻi News
+
+<p>Robert Mann is recognized for his contributions to forensic anthropology and training Thailand's pioneering forensic osteologists.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/08/robert-mann-thailand-award/"><abbr>UH</abbr> forensic anthropologist honored for contributions in Thailand</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/08/robert-mann-thailand-award/>
+
+---
+
+## Lessons from the 2004 tsunami: UH’s Pacific Disaster Center helps make the world safer
+
+date: 2025-01-08, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr>ʻs Pacific Disaster Center opens up about its role in disaster response and recovery.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/08/2004-tsunami-pdc-disaster-management/">Lessons from the 2004 tsunami: <abbr>UH</abbr>’s Pacific Disaster Center helps make the world safer</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/08/2004-tsunami-pdc-disaster-management/>
+
+---
+
+## PhD student leads student engagement, diversity in $26M refrigerant initiative
+
+date: 2025-01-08, from: University of Hawaiʻi News
+
+<p>Vincent's group has already developed frameworks for collaboration and organized student workshops aligning with <abbr>ERC</abbr> <abbr>EARTH</abbr>’s goals.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/08/vincent-erc-earth-slc-president/"><abbr>PhD</abbr> student leads student engagement, diversity in $26<abbr>M</abbr> refrigerant initiative</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/08/vincent-erc-earth-slc-president/>
+
+---
+
+## Breakthrough discovery finds virus with critical cell component
+
+date: 2025-01-08, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> M&#257;noa researchers discovered that a virus, FloV-SA2, encodes one of the proteins needed to make ribosomes.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/08/ocean-virus-discovery/">Breakthrough discovery finds virus with critical cell component</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/08/ocean-virus-discovery/>
+
+---
+
+## Molokaʻi students earn medical assistant certifications
+
+date: 2025-01-08, from: University of Hawaiʻi News
+
+<p>Free medical assistant training helps <span aria-label="Molokai">Moloka&#699;i</span> students with certification.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/08/molokai-students-earn-medical-assistant-certifications/">Molokaʻi students earn medical assistant certifications</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/08/molokai-students-earn-medical-assistant-certifications/>
+
+---
+
+## UH faculty shine as ‘Volunteers of the Year’ at horticulture conference
+
+date: 2025-01-08, from: University of Hawaiʻi News
+
+<p>Two <abbr>CTAHR</abbr> faculty members were recognized as the 2024 Volunteers of the Year by the American Society for Horticultural Science.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/08/horticulture-conference-volunteers/"><abbr>UH</abbr> faculty shine as ‘Volunteers of the Year’ at horticulture conference</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/08/horticulture-conference-volunteers/>
+
+---
+
+## Image of the Week: Kīlauea
+
+date: 2025-01-08, from: University of Hawaiʻi News
+
+<p>This week’s image is from the John A. Burns School of Medicine Willed Body Program Administrator Mari Kuroyama-Ton.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/08/image-of-the-week-kilauea/">Image of the Week: Kīlauea</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/08/image-of-the-week-kilauea/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-01-08, updated: 2025-01-08, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Construction tax bill now goes to governor
+
+date: 2025-01-08, updated: 2025-01-08, from: Marianas Variety
+
+BY a vote of 18 to 1, the House of Representatives on Tuesday passed the Senate version of House Bill 23-120, which proposes to impose a 3% tax on construction projects with a $350,000 revenue threshold. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/construction-tax-bill-now-goes-to-governor/article_42a5c086-cd76-11ef-977c-8f4c9b1b6156.html>
+
+---
+
+## Tax workshop addresses key issues for CNMI employers and employees
+
+date: 2025-01-08, updated: 2025-01-08, from: Marianas Variety
+
+TAX attorney Tina Azarvand conducted a tax workshop on Tuesday, Jan. 7 at Last Shot Bar in Chalan Kanoa to discuss common tax issues as well as upcoming tax developments that affect employers and employees in 2025 and beyond. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/tax-workshop-addresses-key-issues-for-cnmi-employers-and-employees/article_8798bb56-cd78-11ef-979e-d35de03b6314.html>
+
+---
+
+## Scheduled power service interruption on Jan. 10 and 14
+
+date: 2025-01-08, updated: 2025-01-08, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — There will be scheduled power service interruptions on Friday, Jan. 10, 2025, and Tuesday, Jan. 14, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/scheduled-power-service-interruption-on-jan-10-and-14/article_c3b4967c-cdb0-11ef-bb97-6720b8a9f744.html>
+
+---
+
+## Court quashes subpoena for Tina Sablan
+
+date: 2025-01-08, updated: 2025-01-08, from: Marianas Variety
+
+SAYING that the subpoena ad testificandum issued to former Rep. Tina Sablan was “unreasonable, oppressive, and without merit,” the Superior Court granted her motion to quash the subpoena requiring her to testify in the trial of Shayne B. Villanueva, who was charged with contempt of the Legislature. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/court-quashes-subpoena-for-tina-sablan/article_9aa4cb64-cdb3-11ef-9925-d78aedf17ef9.html>
+
+---
+
+## Senate honors retired Lt. Col. Camacho
+
+date: 2025-01-08, updated: 2025-01-08, from: Marianas Variety
+
+THE Senate on Friday honored the special assistant for military affairs and the chief of the Commonwealth Bureau of Military Affairs, retired U.S. Army Lt. Col. Edward C. Camacho, for his distinguished military service and dedicated sacrifice for the freedoms of the people of the CNMI and the U.S. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/senate-honors-retired-lt-col-camacho/article_55a07050-cd7b-11ef-8dc4-83352aec7520.html>
+
+---
+
+## Senescent Sonnets Satori Sojourn
+
+date: 2025-01-08, updated: 2025-01-08, from: Marianas Variety
+
+Joey "Pepe Batbon" Connolly is a retired educator who taught in the CNMI, NOLA, and LVNV. He is the Poet Laureate of Tinian and enjoys stargazing. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/senescent-sonnets-satori-sojourn/article_67ab7f64-cc0f-11ef-af21-97205e5b6482.html>
+
+---
+
+## Meta shelves fact-checking in policy reversal ahead of Trump administration
+
+date: 2025-01-08, updated: 2025-01-08, from: Marianas Variety
+
+(Reuters) — Social media company Meta Platforms on Tuesday scrapped its U.S. fact-checking program and reduced curbs on discussions around contentious topics such as immigration and gender identity, bowing to criticism from conservatives as President-elect Donald Trump prepares to take office for a second time. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/meta-shelves-fact-checking-in-policy-reversal-ahead-of-trump-administration/article_451ab7a4-cdad-11ef-9549-97f230cb3f2e.html>
 
 ---
 
@@ -163,12 +362,12 @@ date: 2025-01-08, from: Hawaii Tribune Harold
 
 ---
 
-## Council approves Alameda’s department heads
+## Council committee approves Alameda’s department heads
 
 date: 2025-01-08, from: Hawaii Tribune Harold
 
 
-				<p>The new heads of Hawaii County&#8217;s various departments were confirmed Tuesday by the County Council.</p>
+				<p>A County Council committee gave a thumbs up to the new heads of Hawaii County&#8217;s various departments Tuesday.</p>
 			 
 
 <br> 
