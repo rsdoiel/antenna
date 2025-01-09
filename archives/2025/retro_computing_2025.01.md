@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-01-08 15:35:39
+updated: 2025-01-09 07:06:04
 ---
 
 # retro computing
 
-(date: 2025-01-08 15:35:39)
+(date: 2025-01-09 07:06:04)
+
+---
+
+## WROCC January 2025 meeting - Elesar
+
+date: 2025-01-09, from: Icon Bar, RISC OS News
+
+Wakefield's January speaker was Rob Sprowson from Elesar, talking from a non-snowy Cambridge. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2161.html>
 
 ---
 

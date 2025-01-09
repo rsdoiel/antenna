@@ -1,11 +1,154 @@
 ---
 title: columns
-updated: 2025-01-08 15:35:37
+updated: 2025-01-09 07:06:03
 ---
 
 # columns
 
-(date: 2025-01-08 15:35:37)
+(date: 2025-01-09 07:06:03)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-09, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/11/28/ifyoudontlikethenews.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If you read this blog, I hope you'll take the time to listen to <a href="https://shownotes.scripting.com/scripting/2025/01/08/howIViewWordpress.html">yesterday's podcast</a>. It's all about WordPress, a product that you won't read much about on this blog, going back through the <a href="https://www.google.com/search?q=site:scripting.com+wordpress">archive</a>. I wasn't paying attention until 2023 when I began to see what an amazing product it is, not just for 2004 when it came out, but in 2024. My theory is that it's the basis for an incredible social web platform, much better than Threads, Mastodon, Bluesky and of course Twitter. That's what I'm talking about for 1/2 hour in this podcast. If you give me that much time, I'll change the way you see the world, or at least the way you see me. I think I'm right about this, with another layer on top of the WordPress foundation, it becomes newly relevant, and very timely, in ways that as far as I know, no one has been pushing it. I think for example that Ghost and Substack should be built on top of WordPress. The fact that they aren't gives a clue as to how portable your work is there, and how much choice you get in editing tools. Anyway, please make the time to listen. This is pivotal, and I don't think I'll ever be able to spell it out in writing, it's pure storytelling. Thanks! 
+
+<br> 
+
+<http://scripting.com/2025/01/09.html#a144327>
+
+---
+
+##  The trailer for Super/Man: The Christopher Reeve Story. This looks pretty good.... 
+
+date: 2025-01-09, updated: 2025-01-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045986-the-trailer-for-superman->
+
+---
+
+## Dear president Biden
+
+date: 2025-01-09, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="http://scripting.com/images/2023/02/28/presidentCarter.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">We demand that the Department of Justice to release <i>all</i> the special counsel reports behind the indictments of former president Trump. </p>
+<p>Now, before the next government gets to do what <a href="https://apnews.com/article/donald-trump-ap-top-news-politics-russia-reggie-walton-fe8eee387b53888c478a24021fc101aa">Barr did</a> to the Mueller Report, or worse? </p>
+<p>We have a right to see what led to the indictments.</p>
+<p>Now is the time to speak up, for once, it really matters. </p>
+<p>Let's make the earth shake for the Biden and Garland. </p>
+<p>It's time for one last chance to not be a scared Democrat. </p>
+<p>Speaking up is often a pointless exercise on the net, but this is one of those times when it could really make a difference. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/09/140817.html?title=dearPresidentBiden>
+
+---
+
+## Gist of Go: Context
+
+date: 2025-01-09, from: Anton Zhiyanov blog
+
+Safely cancel and timeout operations in a concurrent environment. 
+
+<br> 
+
+<https://antonz.org/go-concurrency/context/>
+
+---
+
+## Jimmy Carter on the American oligarchy
+
+date: 2025-01-09, from: Robert Reich's blog
+
+He was a truth-teller. We should remember what he said &#8212; and act on it. 
+
+<br> 
+
+<https://robertreich.substack.com/p/what-jimmy-carter-said-about-the>
+
+---
+
+## Folk programming
+
+date: 2025-01-09, from: Tracy Durnell Blog
+
+Interesting framing in We&#8217;re all (folk) programmers by Spencer Chang: In contrast to fine art created for aesthetic value, folk art emerges from cultural significance and needs. Folklore encompasses emergent practices and traditions, passed down person-to-person within communities, as opposed to “high culture” which is universal and prescriptive, passed down through formal education&#8230; Folk programming [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/09/folk-programming/>
+
+---
+
+## Who would buy a Raspberry Pi for $120?
+
+date: 2025-01-09, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Who would buy a Raspberry Pi for $120?</span>
+
+            <p></p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">January 9, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/who-would-buy-raspberry-pi-120>
+
+---
+
+## What it means that blogs are part of oral culture
+
+date: 2025-01-09, from: Tracy Durnell Blog
+
+Sara does a better job than me laying out what it means that blogs are part of oral culture &#8212; how that influences what we get from the blogs we read and what we&#8217;re sharing when we write on our blogs: Because blogging is the oral culture and therefore we are looking at each other [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/08/what-it-means-that-blogs-are-part-of-oral-culture/>
+
+---
+
+## January 8, 2024
+
+date: 2025-01-09, from: Heather Cox Richardson blog
+
+At least four wildfires tearing across Los Angeles have killed at least five people and forced the evacuation of at least 130,000 more, and have flattened about 42 square miles (109 square kilometers). 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-8-2024-d1f>
+
+---
+
+##  Reporter Lucy Sherriff on fleeing from the LA fires: I Saw the... 
+
+date: 2025-01-09, updated: 2025-01-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045999-reporter-lucy-sherriff-on>
+
+---
+
+## When You Search for ‘Google’ on Bing, Bing Attempts to Trick You Into Thinking the Results Page Is Google
+
+date: 2025-01-08, updated: 2025-01-08, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/2025/1/6/24337117/microsoft-bing-search-results-google-design-trick>
 
 ---
 
@@ -163,7 +306,7 @@ date: 2025-01-08, updated: 2025-01-08, from: Jason Kittke's blog
 
 date: 2025-01-08, from: Doc Searls (at Harvard), New Old Blog
 
-2:56pm Here is the flight path of a private aircraft out of Lancaster, CA: I assume it has official business. 2:55pm A Ventura County fire helicopter, observing: 2:50pm on KABC/7: Mobile home park (surrounding Shore Drive) in Malibu across from the ocean is destroyed. Flaming homes on Mitwick in Altadena. 2:45 on KCAL/CBS: Episcopal Church [&#8230;] 
+8:02pm It appears that water dropped on the Sunset Fire has mostly contained it within a perimeter absent of houses. Good that the winds were not too high to allow that work. I also no longer see the Chinook operating on FlightRadar24, which may mean its air tanker work is done. 7:05pm Some meteorological background&#8230; [&#8230;] 
 
 <br> 
 
@@ -378,7 +521,7 @@ date: 2025-01-07, updated: 2025-01-07, from: Daring Fireball
 
 ## ★ After Years of Moderation-Heavy Zagging, Zuckerberg Announces That Meta Is Going Back to Moderation-Light Zigging Across Its Platforms
 
-date: 2025-01-07, updated: 2025-01-08, from: Daring Fireball
+date: 2025-01-07, updated: 2025-01-09, from: Daring Fireball
 
 Don’t get distracted by blather. Let’s see what happens. 
 

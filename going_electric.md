@@ -1,11 +1,91 @@
 ---
 title: going electric
-updated: 2025-01-08 15:35:39
+updated: 2025-01-09 07:06:05
 ---
 
 # going electric
 
-(date: 2025-01-08 15:35:39)
+(date: 2025-01-09 07:06:05)
+
+---
+
+## Mercedes-Benz EVs In The U.S. Get Tesla Supercharger Access In February
+
+date: 2025-01-09, from: Inside EVs News
+
+A charging adapter will be sold by dealers. Later this year, new Mercedes-Benz EVs will come with a NACS port from the factory. 
+
+<br> 
+
+<https://insideevs.com/news/746676/mercedes-benz-ev-tesla-supercharger-february-2025/>
+
+---
+
+## Mercedes-Benz EVs to get Tesla Supercharger access in February
+
+date: 2025-01-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Mercedes-Benz-BEV-Drivers-Gain-Access-to-Tesla-Supercharger-Network_G-580.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>From February 2025, US <a href="https://www.mbusa.com/en/home" target="_blank" rel="noreferrer noopener">Mercedes-Benz</a> EV drivers will be able to charge their cars at over 20,000 Tesla Superchargers in the US and Canada.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz,supercharger,tesla,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="396936" href="https://electrek.co/2025/01/09/mercedes-benz-evs-to-get-tesla-supercharger-access-in-february/#more-396936" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/mercedes-benz-evs-to-get-tesla-supercharger-access-in-february/>
+
+---
+
+## The Spectre EV Was The Most Popular Rolls-Royce In Europe In 2024
+
+date: 2025-01-09, from: Inside EVs News
+
+This means an electric coupe outsold a combustion SUV, the Rolls-Royce Cullinan, which is pretty unheard of these days. 
+
+<br> 
+
+<https://insideevs.com/news/746732/rolls-royce-spectre-popular-sales/>
+
+---
+
+## Model Y Juniper refresh spied uncamouflaged for first time in winter testing
+
+date: 2025-01-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Screenshot-2025-01-09-at-4.08.00AM.jpg?quality=82&#038;strip=all&#038;w=1330" /></div><p>Tesla’s Model Y “Juniper” refresh has been spotted for the first time undergoing winter testing in China, in anticipation of an imminent reveal.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="juniper,tesla-model-y" data-layer-viewtype="unknown" data-post-id="397010" href="https://electrek.co/2025/01/09/model-y-juniper-refresh-spied-uncamouflaged-for-first-time-in-winter-testing/#more-397010" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/model-y-juniper-refresh-spied-uncamouflaged-for-first-time-in-winter-testing/>
+
+---
+
+## 2025 Tesla Model Y Juniper Refresh Spied Without Any Camouflage
+
+date: 2025-01-09, from: Inside EVs News
+
+The best-selling EV in the world has a new face. 
+
+<br> 
+
+<https://insideevs.com/news/746685/2025-tesla-model-y-juniper-refresh-spied/>
+
+---
+
+## China's EVs Drew Big Crowds At CES. They Should Make Everyone Else Nervous
+
+date: 2025-01-09, from: Inside EVs News
+
+Zeekr, Great Wall Motors and others have cars on sale right now that the rest of the industry is trying to "catch up" to. And CES is proof. 
+
+<br> 
+
+<https://insideevs.com/news/746628/ces-zeekr-great-wall-2025/>
 
 ---
 

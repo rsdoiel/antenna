@@ -1,11 +1,85 @@
 ---
 title: motorcycles
-updated: 2025-01-08 15:35:39
+updated: 2025-01-09 07:06:04
 ---
 
 # motorcycles
 
-(date: 2025-01-08 15:35:39)
+(date: 2025-01-09 07:06:04)
+
+---
+
+## Tighter E-Bike Regulations In California—Here’s What You Need To Know
+
+date: 2025-01-09, from: Ride Apart, Electric Motorcycle News
+
+Remember all these if you plan on buying an e-bike in 2025.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/746511/tighter-ebike-regulations-coming-soon-california/>
+
+---
+
+## ATV Riders Contributed $36 Million to Just Three of Minnesota's Counties
+
+date: 2025-01-09, from: Ride Apart, Electric Motorcycle News
+
+Off-roaders continue to support local economies.  
+
+<br> 
+
+<https://www.rideapart.com/news/746642/atv-minnesota-36-million-dollars-local-economy-off-road/>
+
+---
+
+## You Will Not Believe How Much This Lowly Scooter Can Tow
+
+date: 2025-01-09, from: Ride Apart, Electric Motorcycle News
+
+You think you're cool with your HD truck? Pssh, pathetic.  
+
+<br> 
+
+<https://www.rideapart.com/news/746641/indian-scooter-towing-immense-amount-video/>
+
+---
+
+## Would You Ride Benelli’s New Small-Displacement V-Twin Cruiser?
+
+date: 2025-01-09, from: Ride Apart, Electric Motorcycle News
+
+The new small V-twin engine just might give birth to more bikes in the near future.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/746515/benelli-leoncino-bobber-400-unveiled-europe/>
+
+---
+
+## Here's Everything You Want To Know About That Bonkers 8 Cylinder Chinese Tourer
+
+date: 2025-01-09, from: Ride Apart, Electric Motorcycle News
+
+Gold Wing Killer?  
+
+<br> 
+
+<https://www.rideapart.com/news/746655/great-wall-soul-s2000-tourer/>
+
+---
+
+## Wait, Why Is Canada Getting Three Cool Hondas You Won't Find In The US?
+
+date: 2025-01-09, from: Ride Apart, Electric Motorcycle News
+
+Keep your eyes on the maple syrup-scented prize. 
+
+<br> 
+
+<https://www.rideapart.com/news/746639/canada-honda-hornet-nt1100-2025/>
 
 ---
 

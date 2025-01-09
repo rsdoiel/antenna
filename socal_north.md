@@ -1,11 +1,215 @@
 ---
 title: socal north
-updated: 2025-01-08 15:35:36
+updated: 2025-01-09 07:06:02
 ---
 
 # socal north
 
-(date: 2025-01-08 15:35:36)
+(date: 2025-01-09 07:06:02)
+
+---
+
+## What really happened with the Pacific Palisades water hydrants?
+
+date: 2025-01-09, updated: 2025-01-09, from: The LAist
+
+Why did water hydrants run dry in the midst of a conflagration? City officials stressed that the shortage was due to low water pressure, not a complete lack of water. But what caused it, and can it be prevented? 
+
+<br> 
+
+<https://laist.com/news/climate-environment/why-did-pacific-palisades-water-hydrants-run-dry>
+
+---
+
+## Incendios Monumentales Arrasan Los Ángeles
+
+date: 2025-01-09, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01082025_Eaton-Fire_SN_02_elsol-scaled-e1736401747411.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01082025_Eaton-Fire_SN_02_elsol-scaled-e1736401747411.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01082025_Eaton-Fire_SN_02_elsol-scaled-e1736401747411.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01082025_Eaton-Fire_SN_02_elsol-scaled-e1736401747411.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01082025_Eaton-Fire_SN_02_elsol-scaled-e1736401747411.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Con ráfagas de viento de Santa Ana, el condado de Los Ángeles estalló en llamas esta semana. Más de mil estructuras y al menos dos víctimas mortales han hecho de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/08/incendios-monumentales-arrasan-los-angeles/">Incendios Monumentales Arrasan Los Ángeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/08/incendios-monumentales-arrasan-los-angeles/>
+
+---
+
+## Más de 3,000 Personas Fueron Evacuadas Cerca del Lugar del Incendio Hurst en Sylmar
+
+date: 2025-01-09, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="954" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250108_191625166-scaled-e1736401500735.jpg?fit=1024%2C954&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250108_191625166-scaled-e1736401500735.jpg?w=1927&amp;ssl=1 1927w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250108_191625166-scaled-e1736401500735.jpg?resize=300%2C280&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250108_191625166-scaled-e1736401500735.jpg?resize=1024%2C954&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250108_191625166-scaled-e1736401500735.jpg?resize=768%2C716&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250108_191625166-scaled-e1736401500735.jpg?resize=1536%2C1432&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250108_191625166-scaled-e1736401500735.jpg?resize=1200%2C1118&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250108_191625166-scaled-e1736401500735.jpg?resize=1568%2C1461&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250108_191625166-scaled-e1736401500735.jpg?resize=400%2C373&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250108_191625166-scaled-e1736401500735.jpg?resize=706%2C658&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250108_191625166-scaled-e1736401500735.jpg?fit=1024%2C954&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Más de 3,000 residentes fueron evacuados cerca del incendio Hurst en Sylmar, que estalló en West Yarnell Street, detrás del Centro Médico Olive View-UCLA después de las 10 p.m. del [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/08/mas-de-3000-personas-fueron-evacuadas-cerca-del-lugar-del-incendio-hurst-en-sylmar/">Más de 3,000 Personas Fueron Evacuadas Cerca del Lugar del Incendio Hurst en Sylmar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/08/mas-de-3000-personas-fueron-evacuadas-cerca-del-lugar-del-incendio-hurst-en-sylmar/>
+
+---
+
+## Lista de Verificación para Regresar a Casa: Comprender los Riesgos y Mantenerse Seguro Después de un Incendio Forestal
+
+date: 2025-01-09, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>El peligro no termina cuando se extingue el incendio forestal. Las secuelas pueden presentar varios peligros, desde inundaciones repentinas y flujos de escombros hasta inestabilidad estructural y árboles comprometidos. Aquí [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/08/lista-de-verificacion-para-regresar-a-casa-comprender-los-riesgos-y-mantenerse-seguro-despues-de-un-incendio-forestal/">Lista de Verificación para Regresar a Casa: Comprender los Riesgos y Mantenerse Seguro Después de un Incendio Forestal</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/08/lista-de-verificacion-para-regresar-a-casa-comprender-los-riesgos-y-mantenerse-seguro-despues-de-un-incendio-forestal/>
+
+---
+
+## Horóscopo
+
+date: 2025-01-09, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Debido a que eres tan creativo, tu mente zumba con posibilidades. Debido a que eres decisivo, rápidamente reduces [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/08/horoscopo-197/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/08/horoscopo-197/>
+
+---
+
+## EVENTOS Locales – Semana de 9 de enero, 2025
+
+date: 2025-01-09, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Sábado, Enero 11 Woodland Hills Agricultores/Mercado Artesanal 5650 Shoup Ave. Woodland Hills 9 a.m. – 1:30 p.m. Únase a nosotros en el mercado de agricultores / artesanos de Woodland Hills [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/08/eventos-locales-semana-de-9-de-enero-2025/">EVENTOS Locales &#8211; Semana de 9 de enero, 2025 </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/08/eventos-locales-semana-de-9-de-enero-2025/>
+
+---
+
+## California Exigirá que Aseguradoras Amplíen Cobertura de Viviendas en Zonas Propensas a Incendios
+
+date: 2025-01-09, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24365729040373_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24365729040373_elsol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24365729040373_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24365729040373_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24365729040373_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24365729040373_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24365729040373_elsol.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24365729040373_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24365729040373_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24365729040373_elsol.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24365729040373_elsol.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24365729040373_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24365729040373_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/AP24365729040373_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Por Trân Nguyễn y Stefanie Dazio Associated Press SACRAMENTO, California, EE.UU. (AP) — Las aseguradoras que dejaron de ofrecer cobertura de hogar a cientos de miles de californianos en los últimos [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/08/california-exigira-que-aseguradoras-amplien-cobertura-de-viviendas-en-zonas-propensas-a-incendios/">California Exigirá que Aseguradoras Amplíen Cobertura de Viviendas en Zonas Propensas a Incendios</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/08/california-exigira-que-aseguradoras-amplien-cobertura-de-viviendas-en-zonas-propensas-a-incendios/>
+
+---
+
+## Crea Su ‘Bolsa de Viaje’ para Incendios Forestales
+
+date: 2025-01-09, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Prepare su kit de suministros de emergencia mucho antes de cualquier incendio forestal o desastre. Asegúrese de que sea accesible para una evacuación rápida y prepárese para la posibilidad de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/08/crea-su-bolsa-de-viaje-para-incendios-forestales/">Crea Su &#8216;Bolsa de Viaje&#8217; para Incendios Forestales</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/08/crea-su-bolsa-de-viaje-para-incendios-forestales/>
+
+---
+
+## ¡Prepárate, Listo, Ya!
+
+date: 2025-01-09, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>“Se insta a los residentes a permanecer atentos y monitorear los últimos pronósticos”, según el Servicio Meteorológico Nacional (NWS). “Se aconseja a los residentes que viven cerca de las estribaciones [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/08/preparate-listo-ya/">¡Prepárate, Listo, Ya!</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/08/preparate-listo-ya/>
+
+---
+
+## Incendio en Sylmar Quema 700 Acres en Medio de una Tormenta de Viento
+
+date: 2025-01-09, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="771" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_20250108_101321_elsol.jpg?fit=771%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_20250108_101321_elsol.jpg?w=1542&amp;ssl=1 1542w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_20250108_101321_elsol.jpg?resize=226%2C300&amp;ssl=1 226w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_20250108_101321_elsol.jpg?resize=771%2C1024&amp;ssl=1 771w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_20250108_101321_elsol.jpg?resize=768%2C1020&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_20250108_101321_elsol.jpg?resize=1157%2C1536&amp;ssl=1 1157w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_20250108_101321_elsol.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_20250108_101321_elsol.jpg?resize=1200%2C1594&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_20250108_101321_elsol.jpg?resize=400%2C531&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_20250108_101321_elsol.jpg?resize=706%2C938&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_20250108_101321_elsol.jpg?fit=771%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>SYLMAR (CNS) &#8211; Un incendio impulsado por el viento en el área de Sylmar se expandió rápidamente a 700 acres el miércoles 8 de enero, sin que se reportara contención. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/08/incendio-en-sylmar-quema-700-acres-en-medio-de-una-tormenta-de-viento/">Incendio en Sylmar Quema 700 Acres en Medio de una Tormenta de Viento</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/08/incendio-en-sylmar-quema-700-acres-en-medio-de-una-tormenta-de-viento/>
+
+---
+
+## Alivio del Impuesto a la Propiedad Disponible para los Afectados por los Incendios del Condado de Los Ángeles
+
+date: 2025-01-09, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ÁNGELES (CNS) &#8211; Los propietarios cuyas casas o edificios fueron dañados o destruidos por las tormentas de viento extremas y los incendios forestales de esta semana pueden calificar para [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/08/alivio-del-impuesto-a-la-propiedad-disponible-para-los-afectados-por-los-incendios-del-condado-de-los-angeles/">Alivio del Impuesto a la Propiedad Disponible para los Afectados por los Incendios del Condado de Los Ángeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/08/alivio-del-impuesto-a-la-propiedad-disponible-para-los-afectados-por-los-incendios-del-condado-de-los-angeles/>
+
+---
+
+## Eaton Fire destroys campus of Pasadena Jewish Temple and Center
+
+date: 2025-01-09, updated: 2025-01-09, from: The LAist
+
+The synagogue’s 13 Torah scrolls were saved from the building. 
+
+<br> 
+
+<https://laist.com/news/eaton-fire-destroys-pasadena-jewish-temple-and-center>
+
+---
+
+## Beloved places we’ve lost: Tracking LA fire destruction
+
+date: 2025-01-09, updated: 2025-01-09, from: The LAist
+
+An unknown number of homes, businesses and cherished community spots have gone up in flames. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-fire-palisades-eaton-hurst-historic-places-burned>
+
+---
+
+## Resources for SoCal fire victims, evacuees and first responders
+
+date: 2025-01-09, updated: 2025-01-09, from: The LAist
+
+Here’s where to find shelter, food and even discounted rides. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/resources-for-socal-fire-victims-evacuees-and-first-responders>
+
+---
+
+## I had to evacuate my home, what do I do next?
+
+date: 2025-01-09, updated: 2025-01-09, from: The LAist
+
+Finding shelter for yourself and animals, plus emergency numbers and tips. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/i-had-to-evacuate-my-home-what-do-i-do-next>
 
 ---
 
@@ -35,7 +239,7 @@ The forecast: continued winds, even drier conditions, no rain in sight.
 
 ## Cheat sheet: A quick roundup of SoCal fire coverage and safety resources
 
-date: 2025-01-08, updated: 2025-01-08, from: The LAist
+date: 2025-01-08, updated: 2025-01-09, from: The LAist
 
 The basics on active fires and your one-stop shop for resources. 
 
@@ -165,6 +369,18 @@ With the Los Angeles area already reeling from two wildfires, a third broke out 
 
 ---
 
+## Evacuation orders lifted for Sunset Fire. What we know about all the fires burning right now
+
+date: 2025-01-08, updated: 2025-01-09, from: The LAist
+
+Multiple fires remain burning, some still with 0% containment. Firefighters have had some wins stopping other fires from advancing, despite difficult conditions. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/sunset-hurst-palisades-eaton-woodley-tyler-fires>
+
+---
+
 ## What we know about the fires burning right now in Southern California
 
 date: 2025-01-08, updated: 2025-01-08, from: The LAist
@@ -189,9 +405,9 @@ Numerous fires have been sparked in extreme fire danger weather, with treacherou
 
 ---
 
-## At least 24 school districts are totally or partially closed as fires spread around LA County
+## LAUSD, other districts keep schools closed Thursday as fires spread
 
-date: 2025-01-08, updated: 2025-01-08, from: The LAist
+date: 2025-01-08, updated: 2025-01-09, from: The LAist
 
 There's no school, no activities, and no certainty about the rest of the week as multiple fires in the L.A. area spread. 
 
@@ -237,11 +453,11 @@ The funds were cash advances to service providers in the Los Angeles region.
 
 ---
 
-## 5 people die in Eaton Fire as evacuation orders expand beyond Altadena
+## Eaton Fire forces 100K people under evacuation orders, 5 deaths reported
 
-date: 2025-01-08, updated: 2025-01-08, from: The LAist
+date: 2025-01-08, updated: 2025-01-09, from: The LAist
 
-Officials say the death toll rose to five Wednesday as the fire continues to burn uncontrolled. 
+Officials say the death toll rose to five Wednesday as the fire continues to burn uncontrolled. A tap water advisory has been issued by the city of Pasadena. 
 
 <br> 
 
@@ -311,7 +527,7 @@ Reparations advocates are campaigning for two proposals that failed in the final
 
 ## UCLA students and faculty say new chancellor Julio Frenk has long to-do list
 
-date: 2025-01-07, updated: 2025-01-07, from: The LAist
+date: 2025-01-07, updated: 2025-01-09, from: The LAist
 
 New UCLA chancellor brings experience as a former University of Miami president, Harvard administrator, and Mexico health secretary. 
 
@@ -345,9 +561,9 @@ Washington, D.C., is the next stop in former President Jimmy Carter's six days o
 
 ---
 
-## Palisades Fire: Authorities report 'high number of significant injuries' to residents who did not evacuate
+## Palisades Fire: At least 1,000 homes and buildings lost, curfew orders issued in Santa Monica
 
-date: 2025-01-07, updated: 2025-01-08, from: The LAist
+date: 2025-01-07, updated: 2025-01-09, from: The LAist
 
 The fire is a nightmare scenario for multiple coastal communities, with massive damage and no containment. 
 

@@ -1,11 +1,228 @@
 ---
 title: journalism
-updated: 2025-01-08 15:35:38
+updated: 2025-01-09 07:06:03
 ---
 
 # journalism
 
-(date: 2025-01-08 15:35:38)
+(date: 2025-01-09 07:06:03)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Traffic on the Hill is now minimal and flowing, with only a few cars remaining. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476967/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+In an emailed press release sent at 11:10 p.m., Katy Yaroslavsky – the Los Angeles city council member who represents an area including UCLA – said nonemergency parking laws will not be enforced Wednesday. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476965/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Palisades fire, which is closest to UCLA, is now over 17,000 acres in size, according to the Cal Fire website. As of 11:25 p.m., no evacuation warning or order has been issued for the UCLA campus, according to the Cal Fire website. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476963/>
+
+---
+
+## Westwood Recreation Center provides shelter, essential resources amid LA fires
+
+date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Over 230 people sheltered in Westwood on Wednesday evening after losing their homes, workplaces and pets to the chaos of the Palisades fire.
+The Westwood Recreation Center was designated as an emergency shelter by Los Angeles County and opened at 6 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/westwood-recreation-center-provides-shelter-essential-resources-amid-la-fires/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Mimi Teller, the development communications manager with the American Red Cross Los Angeles Region, said in a written statement that the Westwood Recreation Center is not taking clothing donations. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476945/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Several houses in Studio City have caught fire, according to the Los Angeles Times. The blaze is unconnected to the ongoing Sunset fire.
+(Leydi Cris Cobo Cordon/Daily Bruin senior staff) 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476932/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Although many students are leaving the Hill, no evacuation notice has been issued for campus, either by the university or Cal Fire as of 10:15 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476930/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+The &#8220;Sunset fire&#8221; in Runyon Canyon now measures 60 acres and is being dealt with by the Los Angeles Fire Department, according to the Cal Fire website. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476927/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Groups of students are voluntarily leaving the dorm buildings with backpacks and luggage as of 10:05 p.m. UCLA Housing employees are coordinating traffic with glow sticks as students are picked up. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476924/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Housing safety officers on the Hill directed traffic as gridlock on streets surrounding the Hill worsened around 9:50 p.m.. Traffic appeared to be flowing on Sunset Boulevard at the time. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476922/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Clark Griffin, a second-year human biology and society student from Missouri, said she was worried because she had never experienced wildfires. She added that she was very concerned about the smell of the smoke. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476920/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Daniel Swain, a climate scientist at UCLA, said the Palisades fire has potential in becoming the most expensive fire in California in terms of insured losses. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476918/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+A spokesperson for President Joe Biden said he canceled a three-day trip to Italy to focus on responding to wildfires across Los Angeles, according to the New York Times. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476916/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Cars are bumper to bumper along the entire length of De Neve and parts of Charles E. Young Drive as people continue to leave the Hill. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476914/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Due to ongoing wildfires in Los Angeles, UCLA men&#8217;s volleyball has canceled its games scheduled for Thursday and Friday against Fairleigh Dickinson and St. Francis, respectively, originally slated as the Bruins&#8217; season-opening home matches. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476912/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Many students are leaving the Hill with packed bags following the cancellation of classes. Students carrying duffel bags, suitcases and tote bags walked out of Rieber and Hedrick Halls with cars horns honking along De Neve Drive. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476888/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 7:25 p.m. Wednesday, the easternmost perimeter of the Palisades fire is less than 3 miles away from the UCLA campus, according to Cal Fire. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476886/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+In a Wednesday evening Bruins Safe Online announcement, UCLA Office of Emergency Management spokesperson Seán Devine said UCLA Health operations will remain open and operational. Staff in the system will be given instructions in future communications, according to the post. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476884/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Frenk also said in the campuswide email that UCLA is assisting evacuees from the fire, including by hosting them at the Luskin Conference Center, treating them across the UCLA Health system and minimizing water use. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476882/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Undergraduate classes at UCLA have been canceled for the rest of the week, with graduate instruction set to happen remotely.
+In a BruinPost shortly after 6:30 p.m Wednesday., Chancellor Julio Frenk announced that the academic senate will make a decision on classes beyond next week. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/08/476880/>
+
+---
+
+## Death toll rises in L.A. County wildfires
+
+date: 2025-01-09, from: The Sundail (CSUN Student Newspaper)
+
+As high winds continue to roar throughout Southern California, wildfires and evacuation warning perimeters continue to expand in the San Fernando and San Gabriel valley. As of 6 p.m. Wednesday,... 
+
+<br> 
+
+<https://sundial.csun.edu/188545/news/death-toll-rises-in-l-a-county-wildfires/>
 
 ---
 

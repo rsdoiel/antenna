@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-01-08 15:35:37
+updated: 2025-01-09 07:06:02
 ---
 
 # science and technology
 
-(date: 2025-01-08 15:35:37)
+(date: 2025-01-09 07:06:02)
+
+---
+
+## Zero-day exploits plague Ivanti Connect Secure appliances for second year running
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>Factory resets and apply patches is the advice amid fortnight delay for other appliances</h4> <p>The cybersecurity industry is urging those in charge of defending their orgs to take mitigation efforts &#34;seriously&#34; as Ivanti battles two dangerous new vulnerabilities, one of which was already being exploited as a zero-day.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/zeroday_exploits_ivanti/>
+
+---
+
+## Energetic and Loyal: Meet the Danish-Swedish Farmdog, the Newest Breed Recognized by the American Kennel Club
+
+date: 2025-01-09, from: Smithsonian Magazine
+
+These small but mighty pups have roots on family farms in Denmark and Sweden, where they helped catch rodents, herd livestock, hunt and watch over the property 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/energetic-and-loyal-meet-the-danish-swedish-farmdog-the-newest-breed-recognized-by-the-american-kennel-club-180985790/>
+
+---
+
+## Achieving Instrument High Accuracy In-Orbit
+
+date: 2025-01-09, from: NASA breaking news
+
+One of the most challenging tasks in remote sensing from space is achieving required instrument calibration accuracy on-orbit. The Moon is considered to be an excellent exoatmospheric calibration source. However, the current accuracy of the Moon as an absolute reference is limited to 5 – 10%, and this level of accuracy is inadequate to meet [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/achieving-instrument-high-accuracy-in-orbit/>
+
+---
+
+## Trump China tariffs to 'overshadow' the 'progress' of AI PCs
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>Already inflated costs of NPU-based boxes set to jump on import tax</h4> <p>The &#34;progress&#34; of AI PCs is being &#34;overshadowed&#34; by enterprises concerned about the state of the economy and US President-elect Trump&#39;s tariff threats for kit made in China, according to market watcher and number cruncher IDC.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/trump_tariffs_ai_pc/>
+
+---
+
+## Security pros baited with fake Windows LDAP exploit traps
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>Tricky attackers trying yet again to deceive the good guys on home territory</h4> <p>Security researchers are once again being lured into traps by attackers, this time with fake exploits of serious Microsoft security flaws.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/security_pros_baited_by_fake/>
+
+---
+
+## NASA's lunar Roomba set to suck up Moon dirt for study
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>Collecting regolith samples with a blast of gas</h4> <p>NASA is sending a &#34;vacuum cleaner&#34; to the Moon as a payload on next week&#39;s Blue Ghost 1 mission to land on the lunar surface.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/nasa_moon_vacuum_cleaner/>
+
+---
+
+## What happens when someone subpoenas Cloudflare to unmask a blogger? This...
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>Ex-politician in UK claims he&#39;s been defamed – and goes to court in US for answers</h4> <p>A former deputy mayor in the UK has subpoenaed Cloudflare in the US to discover the identity of an anonymous British political blogger.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/uk_blog_cloudflare_subpoena/>
+
+---
+
+## £3.8B later, old tech supplier flames still burning for HMRC
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>Deal supposed to end in 2017 continues to haunt HMRC procurement</h4> <p>In the last five years, the UK&#39;s tax collector has spent £3.8 billion with tech suppliers - including £591 million without any outside competition - on top of a £10 billion project intended to end in 2017.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/hmrc_aspire_supplier_deals/>
+
+---
+
+## The Way We Listen to Music Changed Forever When Apple Launched iTunes in 2001
+
+date: 2025-01-09, from: Smithsonian Magazine
+
+The digital jukebox enjoyed a two-decade reign as the dominant program for storing audio files 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-way-we-listen-to-music-changed-forever-when-apple-launched-itunes-in-2001-180985725/>
+
+---
+
+## UK government pledges law against sexually explicit deepfakes
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>Not just making them, but sharing them too</h4> <p>The UK government has promised to make the creation and sharing of sexually explicit deepfake images a criminal offence.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/uk_government_promises_law_against_deepfake_smut/>
+
+---
+
+## The ultimate Pi 5 arrives carrying 16GB ... and a price to match
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>How much RAM does an enthusiast really need?</h4> <p>The Raspberry Pi has come a long way from its early days, as demonstrated by the single-board computer maker&#39;s latest iteration of the Pi 5 in 16GB guise.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/the_ultimate_pi_5_arrives/>
+
+---
+
+## To save the energy grid from AI, use open source AI, says open source body
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>Linux Foundation Energy argues rapidly decentralizing electricity sector can&#39;t succeed with silos</h4> <p>The energy industry needs to adopt open source AI software, and the collaborative processes used to create it, to satisfy demand for energy created by the growing use of ... artificial intelligence.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/linux_foundation_ai_energy_report/>
+
+---
+
+## Microsoft invites Chinese software vendors to sell on its marketplace and through its partners
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>Good luck getting buyers and resellers excited about that</h4> <p>Would you adopt software from a Chinese vendor? We ask because Microsoft has started helping Middle Kingdom developers to sell through its online marketplaces and channel.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_invites_chinese_isvs_to_marketplaces/>
+
+---
+
+## Japanese police claim China ran five-year cyberattack campaign targeting local orgs
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>‘MirrorFace’ group found ways to run malware in the Windows sandbox, which may be worrying</h4> <p>Japan’s National Police Agency and Center of Incident Readiness and Strategy for Cybersecurity have confirmed third party reports of attacks on local orgs by publishing details of a years-long series of attacks attributed to a China-backed source.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/japan_mirrorface_china_attack/>
+
+---
+
+## Database tables of student, teacher info stolen from PowerSchool in cyberattack
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>Class act: Cloud biz only serves 60M-plus folks globally, no biggie</h4> <p>A leading education software maker has admitted its IT environment was compromised in a cyberattack, with students and teachers&#39; personal data – including some Social Security Numbers and medical info – stolen.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/powerschool_school_data/>
+
+---
+
+## Nvidia CEO says company has plans for desktop chip designed with MediaTek
+
+date: 2025-01-09, from: OS News
+
+On Monday at CES 2025, Nvidia unveiled a desktop computer called Project DIGITS. The machine uses Nvidia&#8217;s latest &#8220;Blackwell&#8221; AI chip and will cost $3,000. It contains a new central processor, or CPU, which Nvidia and MediaTek worked to create. Responding to an analyst&#8217;s question during an investor presentation, Huang said Nvidia tapped MediaTek to co-design an energy-efficient CPU that could be sold more widely. &#8220;Now they could provide that to us, and they could keep that for themselves and serve the market. And so it was a great win-win,&#8221; Huang said. Previously, Reuters reported that Nvidia was working on a CPU for personal computers to challenge the consumer and business computer market dominance of Intel, Advanced Micro Devices and Qualcomm. ↫ Stephen Nellis at Reuters I&#8217;ve long wondered why NVIDIA wasn&#8217;t entering the general purpose processor market in a more substantial way than it did a few years ago with the Tegra, especially now that ARM has cemented itself as an architecture choice for more than just mobile devices. Much like Intel, AMD, and now Qualcomm, NVIDIA could easily deliver the whole package to laptop, tablet, and desktop makers: processor, chipset, GPU, of course glued together with special NVIDIA magic the other companies opting to use NVIDIA GPUs won&#8217;t get. There&#8217;s a lot of money to be made there, and it&#8217;s the move that could help NVIDIA survive the inevitable crash of the &#8220;AI&#8221; wave it&#8217;s currently riding, which has pushed the company to become one of the most valuable companies in the world. I&#8217;m also sure OEMs would love nothing more than to have more than just Qualcomm to choose from for ARM laptops and desktops, if only to aid in bringing costs down through competition, and to potentially offer ARM devices with the same kind of powerful GPUs currently mostly reserved for x86 machines. I&#8217;m personally always for more competition, but this time with the asterisk that NVIDIA really doesn&#8217;t need to get any bigger than it already is. The company has a long history of screwing over consumers, and I doubt that would change if they also conquered a chunky slice of the general purpose processor market. 
+
+<br> 
+
+<https://www.osnews.com/story/141509/nvidia-ceo-says-company-has-plans-for-desktop-chip-designed-with-mediatek/>
+
+---
+
+## NASA’s Kennedy Marks New Chapter for Florida Space Industry
+
+date: 2025-01-09, from: NASA breaking news
+
+The future of research and technology at NASA’s Kennedy Space Center in Florida is expanding Wednesday, as Kennedy’s center director and charter members in the Florida University Space Research Consortium signed a memorandum of understanding in research and development to assist with missions and contribute to NASA’s Moon to Mars exploration approach. Officials from the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/kennedy/nasas-kennedy-marks-new-chapter-for-florida-space-industry/>
+
+---
+
+## I tried hard, but didn't fix all of cybersecurity, admits outgoing US National Cyber Director
+
+date: 2025-01-08, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>In colossal surprise, ONCD boss Harry Coker says more work is needed</h4> <p>The outgoing leader of the United States&#39; Office of the National Cyber Director has a clear message for whomever President-elect Trump picks to be his successor: There&#39;s a lot of work still to do.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/08/oncd_director_harry_coker_exit_remarks/>
 
 ---
 
@@ -57,11 +273,11 @@ The death of a Louisiana resident who was over the age of 65 signals that future
 
 ---
 
-## LA wildfires force tens of thousands to evacuate, NASA JPL closed
+## Los Angeles wildfires force tens of thousands to evacuate, NASA JPL closed
 
 date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
 
-<h4>Fire crews battle to keep people, homes, science safe</h4> <p>With several major wildfires raging out of control in Los Angeles County, fire crews are risking their lives to protect people, homes, and a key NASA facility.…</p> 
+<h4>Crews battle to keep people, homes, science safe</h4> <p>With several major wildfires raging out of control in Los Angeles County, fire crews are risking their lives to protect people, homes, and a key NASA facility.…</p> 
 
 <br> 
 
@@ -203,7 +419,7 @@ date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
 
 ## Amazon splashes $11B on AI datacenters in Georgia
 
-date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+date: 2025-01-08, updated: 2025-01-09, from: The Register (UK I.T. News)
 
 <h4>Peach State already home to more than 50 bit barns</h4> <p>Amazon&#39;s datacenter footprint in the US state of Georgia is set to swell, with an $11 billion investment proposed.…</p> 
 
@@ -275,9 +491,9 @@ Among all the challenges of voyaging to and successfully landing on other worlds
 
 ## DNA sequencers found running ancient BIOS, posing risk to clinical research
 
-date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+date: 2025-01-08, updated: 2025-01-09, from: The Register (UK I.T. News)
 
-<h4>Devices on six-year-old firmware vulnerable to takeover and destruction</h4> <p><strong>Updated</strong>  Argentine cybersecurity shop Eclypsium claims security issues affecting leading DNA sequencing devices could lead to disruptions in crucial clinical research.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Devices on six-year-old firmware vulnerable to takeover and destruction</h4> <p><strong>Updated</strong>  Cybersecurity shop Eclypsium claims security issues affecting leading DNA sequencing devices could lead to disruptions in crucial clinical research.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 

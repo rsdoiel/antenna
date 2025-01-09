@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-01-08 15:35:38
+updated: 2025-01-09 07:06:03
 ---
 
 # games
 
-(date: 2025-01-08 15:35:38)
+(date: 2025-01-09 07:06:03)
+
+---
+
+## A Dark Universe reboot in the year 2025? It might just work…
+
+date: 2025-01-09, updated: 2025-01-08, from: Polygon Website
+
+On May 22, 2017, Universal Pictures pointed to the heavens and said, “Witness the beginning of a Dark Universe.” By that fall, the Dark Universe had imploded. Though Tom Cruise’s The Mummy made a modest splash at the box office a few days later, the costly reboot fell short of the franchise-starting expectations Universal had set [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/504530/dark-universe-2025-wolf-man-movie-bride-frankenstein-epic-universe-park>
+
+---
+
+## Epic gave a game away for free, then it blew up on Steam
+
+date: 2025-01-09, updated: 2025-01-09, from: Polygon Website
+
+Multiplayer World War 2 first-person shooter Hell Let Loose became free on the Epic Games Store earlier this week — a limited giveaway that benefited it on another platform, too. Publisher Team17’s 100-player military shooter, which was released in 2021, was free as part of Epic Games’ mystery giveaway starting on Jan. 2. (The giveaway [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/505711/hell-let-loose-military-shooter-player-numbers-increase>
+
+---
+
+## The best tabletop role-playing games we played in 2024
+
+date: 2025-01-09, updated: 2025-01-08, from: Polygon Website
+
+2024, like every year since 2020, was a monumental year for tabletop role-playing games. While Wizards of the Coast put out the highly anticipated update to Dungeons &#38; Dragons 5e — One D&#38;D, D&#38;D 5.5e, D&#38;D 2024, pick your favorite nom de game — the ecosystem of TTRPGs has a budding crop of designers, and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/505466/best-tabletop-rpgs-2024>
+
+---
+
+## Bluey is getting some Lego sets
+
+date: 2025-01-09, updated: 2025-01-09, from: Polygon Website
+
+Bluey’s ascension in the pop culture canon continues. Not only will the Australian animated series about cartoon dogs aimed at young kids be turned into a movie in 2027; this year, it will be bestowed with the ultimate franchise status symbol: Lego sets. Lego announced Thursday that six Bluey sets will be released in 2025. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/toys/505974/bluey-lego>
 
 ---
 

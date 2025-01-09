@@ -1,23 +1,214 @@
 ---
 title: weather
-updated: 2025-01-08 15:35:37
+updated: 2025-01-09 07:06:03
 ---
 
 # weather
 
-(date: 2025-01-08 15:35:37)
+(date: 2025-01-09 07:06:03)
 
 ---
 
-## SPC - No watches are valid as of Wed Jan  8 22:07:01 UTC 2025
+## SPC - No watches are valid as of Thu Jan  9 14:43:02 UTC 2025
 
-date: 2025-01-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Wed Jan  8 22:07:01 UTC 2025. 
+No watches are valid as of Thu Jan  9 14:43:02 UTC 2025. 
 
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC MD 23
+
+date: 2025-01-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0023.html"><img src="https://www.spc.noaa.gov/products/md/mcd0023.png" border="1" alt="MD 0023 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0023
+NWS Storm Prediction Center Norman OK
+0726 AM CST Thu Jan 09 2025
+
+Areas affected...far east-central New Mexico...much of the TX
+Panhandle...and southwest and south-central Oklahoma.
+
+Concerning...Heavy snow 
+
+Valid 091326Z - 091630Z
+
+SUMMARY...1+ inch per hour snowfall rates expected this morning.
+
+DISCUSSION...Moderate snowfall has expanded across the Texas
+Panhandle and southern Oklahoma. As the boundary layer continues to
+moisten and isentropic ascent maximizes this morning, expect heavy
+snow with rates of 1 inch per hour from far eastern New Mexico to
+south-central Oklahoma. The heaviest rates are expected from 14Z to
+17Z. Some locally higher rates, perhaps approaching 1.5 inches per
+hour, are possible across parts of the southern Texas Panhandle
+where a deeper dendritic growth zone and elevated convective
+instability (185 J/kg MUCAPE on the 12Z AMA RAOB) are present. After
+17Z, snowfall rates will likely weaken across the entire region amid
+veering/weakening 850-700mb flow.
+
+..Bentley.. 01/09/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...TSA...OUN...LUB...AMA...ABQ...
+
+LAT...LON   35040353 35520178 35560014 35429764 35189639 34929581
+            34369598 34219790 34460187 34270346 34620373 35040353 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0023.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md0023.html>
+
+---
+
+## SPC MD 22
+
+date: 2025-01-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0022.html"><img src="https://www.spc.noaa.gov/products/md/mcd0022.png" border="1" alt="MD 0022 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0022
+NWS Storm Prediction Center Norman OK
+0642 AM CST Thu Jan 09 2025
+
+Areas affected...West Texas into north central Texas and southern
+Oklahoma.
+
+Concerning...Winter mixed precipitation 
+
+Valid 091242Z - 091515Z
+
+SUMMARY...A mix of snow, freezing rain and occasional sleet is
+expanding from West Texas to the Red River.
+
+DISCUSSION...A precipitation shield has expanded across West Texas,
+the Texas Panhandle, and southern Oklahoma as isentropic ascent
+strengthens ahead of an approaching mid-level trough. Many
+observation sites across West Texas have observed freezing rain this
+morning with relatively light accumulation. However, as
+precipitation intensifies, isolated greater accumulation amounts
+have been observed (KABI reported 0.14 inches of ice accretion
+between 11Z and 12Z), with this likely continuing through the
+morning. While some mixed phase precipitation may occur this morning
+while the boundary layer is moistening across Oklahoma and North
+Texas, expect mostly snow across this region by mid-morning given
+the thermal profile from the KOUN 12Z RAOB. Farther south, expect
+freezing rain to persist this morning before temperatures should
+rise above freezing by late morning as low-level flow/warm air
+advection strengthens.
+
+..Bentley.. 01/09/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...FWD...OUN...EWX...SJT...LUB...MAF...
+
+LAT...LON   31920225 33740148 34269947 34449781 34379690 33129725
+            31239960 30620038 30140132 30220209 31050242 31920225 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0022.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md0022.html>
+
+---
+
+## SPC Jan 9, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-01-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0658 AM CST Thu Jan 09 2025
+
+Valid 091300Z - 101200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not forecast through tonight.
+
+...Discussion...
+A low-latitude positive-tilt upper trough over the Four Corners and
+northwest Mexico will slowly transition eastward toward the southern
+High Plains through tonight. A related strengthening of deep-layer
+southwesterly winds will occur across the southern Plains, atop a
+cool and stable air mass at the surface. Warm advection and elevated
+moisture transport will be maximized across broad parts of
+central/southern to east Texas today, and into the Lower Mississippi
+Valley tonight. Weak elevated buoyancy will support occasional
+thunderstorms. It is unlikely that instability will be strong enough
+for any hail risk given poor lapse rates aloft.
+
+..Guyer/Bentley.. 01/09/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2025-01-09, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0203 AM CST Thu Jan 09 2025
+
+Valid 101200Z - 111200Z
+
+...Synopsis...
+The upper-level trough in the Northwest will shift south and east on
+Friday. This feature is expected to lose amplitude as an upstream
+trough moves into the Northwest. As a result, surface high pressure
+in the Great Basin/Southwest should lose intensity rather quickly
+after the early morning hours.
+
+...Southern California...
+The offshore pressure gradient will have been in the process of
+gradually weakening for several hours prior to Friday morning. The
+weakening trend will continue, especially during the afternoon.
+Upper-level wind support will also quickly dissipate after the early
+morning as the trough pushes farther east and upper-level ridging
+increases in the region. RH will likely remain low through the day.
+5-20% RH will be fairly widespread by the afternoon. Winds will
+generally reach 15-25 mph. Some locally higher speeds are possible
+within the terrain. Given the overall large-scale trends and
+high-resolution ensemble guidance, critical fire weather conditions
+are expected to occur locally and primarily tied to terrain
+features.
+
+..Wendt.. 01/09/2025
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -141,81 +332,6 @@ capable of isolated lightning flashes.
 
 ---
 
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-01-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0132 PM CST Wed Jan 08 2025
-
-Valid 091200Z - 101200Z
-
-...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF THE SOUTHERN
-CALIFORNIA COAST...
-
-The only change from the previous forecast is to extend the Critical
-risk area southward through San Diego county to the Mexico border.
-Latest guidance continues to suggest a resurgence in offshore winds
-Thursday afternoon into the overnight hours/early-morning Friday.
-Based on recent ensemble guidance, the onset of critical conditions
-is probable/becoming more prevalent by around 18 UTC in the vicinity
-of the San Gabriel, San Bernardino, and Santa Ana mountains. An
-easterly wind shift after 00 UTC should lead to more isolated
-elevated/critical conditions across Ventura and Los Angeles
-counties, but will promote increasing downslope winds through the
-San Jacinto mountains and areas southward during the early-morning
-hours Friday. High-res solutions and ensemble guidance show a
-sufficiently strong signal for 20+ mph winds and RH values near 15%
-to warrant a southward extension of the Critical risk area. Fire
-weather concerns regarding southern Florida remain valid as outlined
-in the previous discussion below.
-
-..Moore.. 01/08/2025
-
-.PREV DISCUSSION... /ISSUED 0144 AM CST Wed Jan 08 2025/
-
-...Synopsis...
-The upper-level trough in the west will become quite elongated,
-stretching the entirety of the Rockies. A strong upper-level jet
-will progress through the trough and amplify it towards Friday
-morning. Surface high pressure will remain entrenched in the Great
-Basin.
-
-...Southern California...
-The offshore pressure gradient is expected to remain moderately
-strong through Thursday. Upper-level winds will initially be
-moderate as well; however, as another mid-level jet moves through
-the western flank of the upper trough, these winds will actually
-increase some during the afternoon. Prolonged elevated to critical
-fire weather is expected. Critical fire weather spatial extent is
-expected to be reduced from Wednesday. The terrain/foothills of Los
-Angeles/Ventura/Orange Counties will be the main focus. Elevated
-fire weather can be expected from Santa Barbara County southward
-into the San Diego vicinity. RH of 10-20% will be common, though
-single digit RH is possible locally. Winds of 20-30 mph will be
-possible in the typical Santa Ana wind corridors. 15-20 mph winds
-are more likely outside of those areas.
-
-...Central/South Florida...
-Persistent down-peninsula winds will push drier air into Florida on
-Thursday. RH during the afternoon could fall to 25-35%. Winds are
-expected to be light so only locally elevated conditions are
-expected.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
 ## SPC Jan 8, 2025 1930 UTC Day 3 Severe Thunderstorm Outlook
 
 date: 2025-01-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -254,44 +370,6 @@ expectation of minimal prospects for charge separation.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
-
----
-
-## SPC Jan 8, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-01-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0633 AM CST Wed Jan 08 2025
-
-Valid 081300Z - 091200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not expected, but very isolated
-thunderstorms are possible late tonight across parts of west Texas.
-
-...West Texas...
-A low-latitude mid/upper-level low will settle south-southeastward
-over far northwest Mexico through tonight. Weak height falls will
-begin to influence far west Texas late tonight, with modestly
-increasing ascent atop a sub-freezing boundary layer. With cold
-temperatures aloft and steepening mid-level lapse rates, weak
-elevated instability based around 700 mb may be sufficient for
-isolated lightning flashes late tonight, primarily after midnight.
-
-..Guyer/Bentley.. 01/08/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 

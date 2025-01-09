@@ -1,11 +1,115 @@
 ---
 title: food
-updated: 2025-01-08 15:35:40
+updated: 2025-01-09 07:06:05
 ---
 
 # food
 
-(date: 2025-01-08 15:35:40)
+(date: 2025-01-09 07:06:05)
+
+---
+
+## Drew Barrymore’s Heart-Shaped Dutch Oven Is the CUTEST Valentine’s Day Gift for Under $40
+
+date: 2025-01-09, from: Taste of Home
+
+<p>This surprisingly affordable heart-shaped dutch oven makes the perfect Valentine's Day gift for bakers, home cooks and cutesy decor lovers.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/heart-shaped-dutch-oven/">Drew Barrymore&#8217;s Heart-Shaped Dutch Oven Is the CUTEST Valentine&#8217;s Day Gift for Under $40</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/heart-shaped-dutch-oven/>
+
+---
+
+## Costa Rica Study Shows Promise for Low-Elevation Arabica Hybrids in Shade
+
+date: 2025-01-09, from: Daily Coffee News
+
+<div><img width="620" height="455" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1-620x455.png" class="attachment-large size-large wp-post-image" alt="costa rica carribean coffee agroforestry 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1-620x455.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1-300x220.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1-150x110.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1-768x564.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A groundbreaking multi-year study on coffee agroforestry in Costa Rica’s Caribbean lowlands revealed promising strategies to expand coffee cultivation into non-traditional regions. The implications may be globally significant, considering the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/09/costa-rica-study-shows-promise-for-low-elevation-arabica-hybrids-in-shade/>
+
+---
+
+## Wendy’s Is Rumored to Have a Thin Mint Frosty on the Way
+
+date: 2025-01-09, from: Taste of Home
+
+<p>I need to know if this Thin Mint Frosty is for real! Here's what I've learned so far.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/wendys-thin-mint-frosty/">Wendy&#8217;s Is Rumored to Have a Thin Mint Frosty on the Way</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/wendys-thin-mint-frosty/>
+
+---
+
+## How to Make the Perfect Nonalcoholic Cocktail, According to Bartenders
+
+date: 2025-01-09, from: Bon Appetet
+
+Nonalcoholic cocktails aren’t just a stand-in for the real thing—they mark a new world of flavors. Here’s how to explore the best in spirit-free drinks so you can make any gathering inclusive, tasty, and memorable. 
+
+<br> 
+
+<https://www.bonappetit.com/story/how-to-make-nonalcoholic-cocktails>
+
+---
+
+## Dirty Spritz
+
+date: 2025-01-09, from: Bon Appetet
+
+In this nonalcoholic take on a spritz, which typically features a bitter liqueur with sparkling wine or fizzy water, the olive brine brings flavor and depth. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/dirty-spritz>
+
+---
+
+## Tzatziki Chickpea Salad
+
+date: 2025-01-09, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/01/Tzatziki-Chickpea-Salad-1200-2253.jpg"/></div>
+<p>A quick and easy chickpea salad with a cool and creamy tzatziki dressing! Tzatziki Sauce, a Greek style cucumber sauce with yogurt, garlic, lemon and fresh herbs, is a favourite of mine and it goes well in so many things, like this chickpea salad! A while ago I shared a recipe for a tzatziki potato...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/tzatziki-chickpea-salad/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/tzatziki-chickpea-salad/">Tzatziki Chickpea Salad</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/tzatziki-chickpea-salad/>
+
+---
+
+## Gözleme With Kale and Cheddar
+
+date: 2025-01-09, from: Bon Appetet
+
+The tastiest way to eat a pound of kale. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/gozleme-kale-cheddar>
+
+---
+
+## 53 One-Pot Meals for Breezy Dinners
+
+date: 2025-01-08, from: Bon Appetet
+
+Baked rigatoni with Italian sausage, tomato-braised salmon, and more one-dish meals that won’t leave you with a full sink. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/one-pot-meal-recipe-ideas>
 
 ---
 
@@ -27,7 +131,7 @@ date: 2025-01-08, from: Taste of Home
 
 date: 2025-01-08, from: Daily Coffee News
 
-<div><img width="620" height="396" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-620x396.jpg" class="attachment-large size-large wp-post-image" alt="Smile Tiger Coffee Roasters" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-620x396.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-300x191.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters.jpg 677w" sizes="(max-width: 620px) 100vw, 620px" /></div>Publicly traded Canadian company Happy Belly Food Group signed a definitive agreement to acquire Kitchener, Ontario-based Smile Tiger Coffee Roasters in a deal worth approximately $173,000 USD. The acquisition represents... 
+<div><img width="620" height="396" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-620x396.jpg" class="attachment-large size-large wp-post-image" alt="Smile Tiger Coffee Roasters" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-620x396.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-300x191.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters.jpg 677w" sizes="(max-width: 620px) 100vw, 620px" /></div>Publicly traded Canadian company Happy Belly Food Group signed a definitive agreement to acquire Kitchener, Ontario-based Smile Tiger Coffee Roasters in a deal worth approximately $173,000 USD. The acquisition represents... 
 
 <br> 
 
@@ -113,7 +217,7 @@ date: 2025-01-08, from: The Sprudge
 
 date: 2025-01-08, from: Daily Coffee News
 
-<div><img width="620" height="439" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-620x439.jpg" class="attachment-large size-large wp-post-image" alt="panera coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-620x439.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-300x212.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-768x543.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Panera Brands CEO José Alberto Dueñas is stepping down from the role of CEO after approximately 22 months. He is being replaced on an interim basis by current CFO Paul... 
+<div><img width="620" height="439" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-620x439.jpg" class="attachment-large size-large wp-post-image" alt="panera coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-620x439.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-300x212.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee-768x543.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/panera-coffee.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Panera Brands CEO José Alberto Dueñas is stepping down from the role of CEO after approximately 22 months. He is being replaced on an interim basis by current CFO Paul... 
 
 <br> 
 

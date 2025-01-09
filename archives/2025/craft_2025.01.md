@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-01-08 15:35:40
+updated: 2025-01-09 07:06:05
 ---
 
 # craft
 
-(date: 2025-01-08 15:35:40)
+(date: 2025-01-09 07:06:05)
+
+---
+
+## A Video Tour of the Work at our HQ
+
+date: 2025-01-09, from: Lost Arg Press blog
+
+We spent the last couple months of 2024 working hard on our building at 407 Madison Ave., an old woodworking tool factory that we are restoring as our fulfillment center, retail store and editorial offices. In addition to the staff and sub-contractors, we brought in Zach Haynes of Haynes Carpentry to help do some of... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/01/09/a-video-tour-of-the-work-at-our-hq/>
 
 ---
 

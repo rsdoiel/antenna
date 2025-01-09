@@ -1,11 +1,39 @@
 ---
 title: libraries
-updated: 2025-01-08 15:35:38
+updated: 2025-01-09 07:06:04
 ---
 
 # libraries
 
-(date: 2025-01-08 15:35:38)
+(date: 2025-01-09 07:06:04)
+
+---
+
+## Insights from Arizona State University: Advancing Research Support Through Open Science, Data Sovereignty, and Machine-Actionable Plans
+
+date: 2025-01-09, from: Association of Research Libraries News
+
+<p>Last Updated on January 9, 2025, 9:04 am ET On the final site visit for the Machine Actionable Plans (MAP) Pilot project, the Association of Research Libraries (ARL) and the...</p>
+<p>The post <a href="https://www.arl.org/blog/insights-from-arizona-state-university-advancing-research-support-through-open-science-data-sovereignty-and-machine-actionable-plans/">Insights from Arizona State University: Advancing Research Support Through Open Science, Data Sovereignty, and Machine-Actionable Plans</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/insights-from-arizona-state-university-advancing-research-support-through-open-science-data-sovereignty-and-machine-actionable-plans/>
+
+---
+
+## AI and Content — The 2024 Trend that Wasn’t and the Related Opportunity that Exists
+
+date: 2025-01-09, from: Scholarly Kitchen
+
+<p>As a result of EU law and other factors, rights holders are reserving their AI rights. This material is available for AI training/licensing.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/01/09/ai-and-content-the-2024-trend-that-wasnt-and-the-related-opportunity-that-exists/">AI and Content &#8212; The 2024 Trend that Wasn’t and the Related Opportunity that Exists</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/01/09/ai-and-content-the-2024-trend-that-wasnt-and-the-related-opportunity-that-exists/>
 
 ---
 
@@ -25,7 +53,7 @@ A young woman defies the king’s decree to honor her brother with a proper buri
 
 date: 2025-01-08, from: Association of Research Libraries News
 
-<p>Last Updated on January 8, 2025, 1:32 pm ET The Machine Actionable Plans (MAP) Pilot project team from the Association of Research Libraries (ARL) and the California Digital Library (CDL)...</p>
+<p>Last Updated on January 9, 2025, 8:57 am ET The Machine Actionable Plans (MAP) Pilot project team from the Association of Research Libraries (ARL) and the California Digital Library (CDL)...</p>
 <p>The post <a href="https://www.arl.org/blog/uc-riverside-machine-actionable-plans-map-team-builds-promising-communication-prototype/">UC Riverside Machine Actionable Plans (MAP) Team Builds Promising Communication Prototype</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -182,7 +210,7 @@ A king’s son embarks on an adventure to find a legendary well that grants long
 
 date: 2025-01-06, from: Association of Research Libraries News
 
-<p>Last Updated on January 8, 2025, 2:37 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 7 &#124; Wednesday, January 8 &#124; Note:...</p>
+<p>Last Updated on January 9, 2025, 7:48 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 7 &#124; Wednesday, January 8 &#124; Note:...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-6-9/">Day in Review (January 6–8)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

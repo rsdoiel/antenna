@@ -1,11 +1,11 @@
 ---
 title: home
-updated: 2025-01-08 15:35:38
+updated: 2025-01-09 07:06:04
 ---
 
 # home
 
-(date: 2025-01-08 15:35:38)
+(date: 2025-01-09 07:06:04)
 
 ---
 
@@ -103,6 +103,18 @@ Designed by GreenHaus Architects, the midcentury-inspired residence sits on over
 
 ---
 
+## This Is The Next Big Thing in Houseplants (But It’s Extremely Hard to Find)
+
+date: 2025-01-08, from: Sunset Magazine - Living in the West
+
+Move over Monstera and snake plant, the fishbone cactus is the new favorite houseplant. Here's how to care for it. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/fishbone-cactus-houseplant-trend>
+
+---
+
 ## If You Can Dream It, This Tiny Tree House Maker Can Probably Build It
 
 date: 2025-01-08, from: Dwell
@@ -112,6 +124,18 @@ O2 Treehouse is known for crafting fantastical escapes, like this new J.R.R Tolk
 <br> 
 
 <https://www.dwell.com/article/02-treehouse-rivendlle-custom-tiny-homes-2cdc5406>
+
+---
+
+## 35 Quick and Easy Dinners You Can Make This Winter
+
+date: 2025-01-08, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/35-quick-and-easy-dinners-you-can-make-this-winter>
 
 ---
 
@@ -626,6 +650,18 @@ The rainy months don't get the love they deserve when it comes to travel, but re
 <br> 
 
 <https://www.sunset.com/travel/best-places-to-travel-in-rainy-season>
+
+---
+
+## 5 Tips for Scoring the Best Mid-Century Finds on Etsy, According to Someone Who Works There
+
+date: 2025-01-06, from: Sunset Magazine - Living in the West
+
+Etsy is a treasure trove of mid-century modern finds. Etsy Trend Expert Dayna Isom Johnson shares how to shop for mid-century decor on Etsy. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/how-to-shop-mid-century-finds-etsy>
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 title: ham radio
-updated: 2025-01-08 15:35:36
+updated: 2025-01-09 07:06:02
 ---
 
 # ham radio
 
-(date: 2025-01-08 15:35:36)
+(date: 2025-01-09 07:06:02)
 
 ---
 
-## ADI’s efforts for a wirelessly upgraded software-defined vehicle
+## How to a wirelessly upgraded a software-defined vehicle (SDV)
 
 date: 2025-01-08, from: EDN Blog
 
-<p>Based on the OPEN alliance 10BASE-T1S physical layer (PHY), the E2B bus aims at removing the need for MCUs centralizing the software to the HPC or central compute.</p>
-<p>The post <a href="https://www.edn.com/adis-efforts-for-a-wirelessly-upgraded-software-defined-vehicle/" data-wpel-link="internal">ADI&#8217;s efforts for a wirelessly upgraded software-defined vehicle</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+<p>Based on the OPEN alliance 10BASE-T1S PHY, E2B bus aims at removing the need for MCUs centralizing software to HPC or central compute.</p>
+<p>The post <a href="https://www.edn.com/adis-efforts-for-a-wirelessly-upgraded-software-defined-vehicle/" data-wpel-link="internal">How to a wirelessly upgraded a software-defined vehicle (SDV)</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
 <br> 

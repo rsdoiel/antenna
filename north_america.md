@@ -1,11 +1,632 @@
 ---
 title: north america
-updated: 2025-01-08 15:35:36
+updated: 2025-01-09 07:06:01
 ---
 
 # north america
 
-(date: 2025-01-08 15:35:36)
+(date: 2025-01-09 07:06:01)
+
+---
+
+## Clock ticks on US TikTok ban
+
+date: 2025-01-09, from: VOA News USA
+
+The United States Supreme Court has fast-tracked oral arguments on a challenge by the Chinese company ByteDance — the owner of TikTok — to a new law that would ban the social media platform on grounds of national security. VOA’s Steve Herman reports. 
+
+<br> 
+
+<https://www.voanews.com/a/clock-ticks-on-us-tiktok-ban/7930872.html>
+
+---
+
+## Could bird flu pandemic 'dwarf' COVID-19?
+
+date: 2025-01-09, from: VOA News USA
+
+For the first time, a person in the United States has died after being infected with the bird flu. Louisiana health officials reported the death on Monday. The World Health Organization says the risk of infection for the general population remains low, but as VOA’s Dora Mekouar reports, some medical experts are still sounding the alarm. 
+
+<br> 
+
+<https://www.voanews.com/a/could-a-bird-flu-pandemic-dwarf-covid-19-/7930867.html>
+
+---
+
+## What Happened to America’s Emissions in 2024?
+
+date: 2025-01-09, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUxMjM1NC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3MTkxNjA4MH0.WFdZ_B9og4xDQwwzTSQq0KCMSTeiMnh92evCDo6Bdwk/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><em><strong>Current conditions:</strong> Winter storm Cora is expected to disrupt more than 5,000 U.S. flights • Britain’s grid operator is asking power plants for more electricity as temperatures plummet • Parts of Australia could reach 120 degrees Fahrenheit in the coming days because the monsoon, which usually appears sometime in December, has yet to show up.</em></p><h2>THE TOP FIVE</h2><h3>1. Los Angeles fires rage on</h3><p>The fire emergency in Los Angeles continues this morning, with at least <a href="https://www.fire.ca.gov/incidents?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_pn0ys59OnChk1ZLSvA5Sg9hBBLTkf9ezTvt6Fp7bw9KVY2Jto0NasDiXocGUWd2ApyW3k" rel="noopener noreferrer" target="_blank">five blazes</a> raging in different parts of the nation’s second most-populated city. The largest, known as the Palisades fire, has charred more than 17,000 acres near Malibu and is now the <a href="https://www.cnn.com/weather/live-news/los-angeles-pacific-palisades-eaton-wildfires-01-08-25?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_pn0ys59OnChk1ZLSvA5Sg9hBBLTkf9ezTvt6Fp7bw9KVY2Jto0NasDiXocGUWd2ApyW3k#cm5o4ylet00003b6n5zk8bk1h" rel="noopener noreferrer" target="_blank">most destructive fire</a> in the county’s history. The Eaton fire near Altadena and Pasadena has grown to 10,600 acres. Both are 0% contained. Another fire ignited in Hollywood but is reportedly <a href="https://www.latimes.com/california/live/pacific-palisades-fire-updates-los-angeles?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_pn0ys59OnChk1ZLSvA5Sg9hBBLTkf9ezTvt6Fp7bw9KVY2Jto0NasDiXocGUWd2ApyW3k#p=firefighters-make-big-gains-battling-sunset-fire-which-forced-evacuations-in-hollywood" rel="noopener noreferrer" target="_blank">being contained</a>. At least five people have died, more than 2,000 structures have been destroyed or damaged, 130,000 people are under evacuation warnings, and more than <a href="https://poweroutage.us/area/state/california?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_pn0ys59OnChk1ZLSvA5Sg9hBBLTkf9ezTvt6Fp7bw9KVY2Jto0NasDiXocGUWd2ApyW3k" rel="noopener noreferrer" target="_blank">300,000 customers</a> are without power. Wind speeds have come down from the 100 mph gusts reported yesterday, but “high winds and low relative humidity will continue critical fire weather conditions in southern California through Friday,” the National Weather Service <a href="https://www.wpc.ncep.noaa.gov/discussions/hpcdiscussions.php?disc=pmdspd&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_pn0ys59OnChk1ZLSvA5Sg9hBBLTkf9ezTvt6Fp7bw9KVY2Jto0NasDiXocGUWd2ApyW3k" rel="noopener noreferrer" target="_blank">said</a>.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="e0f5416d66f55969bd0034315a103ed2" data-rm-shortcode-name="rebelmouse-image" id="ad94a" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUxMjM2MS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc0NTQzMjIxNX0.lcsAHsxWwvWprKY3dpL8-ExOeEOkOU7jT7YZBtzObyg/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Apu Gomes/Getty Images</small></p><p>As the scale of this disaster comes into focus, the finger-pointing has begun. President-elect Donald Trump <a href="https://www.eenews.net/articles/trump-seizes-on-california-wildfires-to-roast-endangered-fish-dems/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_pn0ys59OnChk1ZLSvA5Sg9hBBLTkf9ezTvt6Fp7bw9KVY2Jto0NasDiXocGUWd2ApyW3k" rel="noopener noreferrer" target="_blank">blamed</a> California Gov. Gavin Newsom, suggesting his wildlife protections have restricted the city’s water access. Many people slammed the city’s mayor for <a href="https://www.nbclosangeles.com/news/california-wildfires/la-widlfires-budget-cuts-palisades-fire/3598438/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_pn0ys59OnChk1ZLSvA5Sg9hBBLTkf9ezTvt6Fp7bw9KVY2Jto0NasDiXocGUWd2ApyW3k" rel="noopener noreferrer" target="_blank">cutting</a> the fire budget. Some <a href="https://www.nytimes.com/2025/01/08/us/what-caused-california-fires.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_pn0ys59OnChk1ZLSvA5Sg9hBBLTkf9ezTvt6Fp7bw9KVY2Jto0NasDiXocGUWd2ApyW3k" rel="noopener noreferrer" target="_blank">suspect</a> power lines are the source of the blazes, implicating major utility companies. And of course, underlying it all, is human-caused climate change, which <a href="https://www.noaa.gov/noaa-wildfire/wildfire-climate-connection?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_pn0ys59OnChk1ZLSvA5Sg9hBBLTkf9ezTvt6Fp7bw9KVY2Jto0NasDiXocGUWd2ApyW3k" rel="noopener noreferrer" target="_blank">researchers warn</a> is increasing the frequency and severity of wildfires. “The big culprit we’re suspecting is a warming climate that’s making it easier to burn fuels when conditions are just right,” <a href="https://www.euronews.com/green/2025/01/09/california-wildfires-why-are-they-happening-and-is-climate-change-to-blame?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_pn0ys59OnChk1ZLSvA5Sg9hBBLTkf9ezTvt6Fp7bw9KVY2Jto0NasDiXocGUWd2ApyW3k" rel="noopener noreferrer" target="_blank">said</a> University of Colorado fire scientist Jennifer Balch.</p><h3>2. U.S. emissions were flat in 2024</h3><p>America’s greenhouse gas emissions were down in 2024 compared to 2023, but not by much, according to the Rhodium Group’s annual <a href="https://rhg.com/research/preliminary-us-greenhouse-gas-estimates-for-2024/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_pn0ys59OnChk1ZLSvA5Sg9hBBLTkf9ezTvt6Fp7bw9KVY2Jto0NasDiXocGUWd2ApyW3k" rel="noopener noreferrer" target="_blank">report</a>, released this morning. The preliminary estimates suggest emissions fell by just 0.2% last year. In other words, they were basically flat. That’s good news in the sense that emissions didn’t <em><em>rise</em></em>, even as the economy grew by an estimated 2.7%. But it’s also a little worrying given that in 2023, emissions dropped by 3.3%.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="f3a02a6108c6278da2df07d6a5cf67b1" data-rm-shortcode-name="rebelmouse-image" id="f023f" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUxMjM2Ni9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc1NjY5MzI3Mn0.uGuDk34R3GtnKvSTq_FqZGHgKCmfFOg5bTp0rT5NoZg/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Rhodium Group, EPA</small></p><p>The transportation, power, and buildings sectors all saw upticks in emissions last year. But there are some bright spots in the report. Emissions fell across the industrial sector (down 1.8%) and oil and gas sector (down 3.7%). Solar and wind power generation surpassed coal for the first time, and coal production fell by 12% to its lowest level in decades, resulting in fewer industrial methane emissions. Still, “the modest 2024 decline underscores the urgency of accelerating decarbonization in all sectors,” Rhodium’s report concluded. “To meet its Paris Agreement target of a 50-52% reduction in emissions by 2030, the U.S. must sustain an ambitious 7.6% annual drop in emissions from 2025 to 2030, a level the U.S. has not seen outside of a recession in recent memory.”</p><h3>3. Insured losses from natural disasters soared last year</h3><p>Insured losses from natural disasters topped $140 billion last year, up significantly from $106 billion in 2023, <a href="https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2025/natural-disaster-figures-2024.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_pn0ys59OnChk1ZLSvA5Sg9hBBLTkf9ezTvt6Fp7bw9KVY2Jto0NasDiXocGUWd2ApyW3k#-1537950557" rel="noopener noreferrer" target="_blank">according to Munich Re</a>, the world’s largest insurer. That makes 2024 the third most expensive year in terms of insured losses since 1980. Weather disasters, and especially major U.S. hurricanes, accounted for a large chunk ($47 billion) of these costs: Hurricanes Helene and Milton were the most devastating natural disasters of 2024. “Climate change is taking the gloves off,” the insurer said. “Hardly any other year has made the consequences of global warming so clear.”</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="0fe1f790b4cc9e6ccdc3d53e97a58a3f" data-rm-shortcode-name="rebelmouse-image" id="8d1c7" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUxMjM3MS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc4MjY2MDg4Mn0.AX9JCPhF6o0m-3q-a5WCdlPanxy2J1cTW-9ztqoNag4/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Munich Re</small></p><h3>4. Study: Many freshwater species face extinction</h3><p>A new study found that a quarter of all the world’s freshwater animals are facing a high risk of extinction due to pollution, farming, and dams. The <a href="https://www.nature.com/articles/s41586-024-08375-z?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_pn0ys59OnChk1ZLSvA5Sg9hBBLTkf9ezTvt6Fp7bw9KVY2Jto0NasDiXocGUWd2ApyW3k" rel="noopener noreferrer" target="_blank">research</a>, published in the journal <em><em>Nature</em></em>, explained that freshwater sources – like rivers, lakes, marshes, and swamps – support over 10% of all known species, including fish, shrimps, and frogs. All these creatures support “essential ecosystem services,” including climate change mitigation and flood control. The report studied some 23,000 animals and found about 24% of the species were at high risk of extinction. The researchers said there “is urgency to act quickly to address threats to prevent further species declines and losses.”</p><h3>5. Alaska Arctic refuge oil and gas lease sale receives no bids</h3><p>A recent oil and gas lease sale in Alaska’s Arctic National Wildlife Refuge got zero bids, the Interior Department <a href="https://www.doi.gov/pressreleases/arctic-refuge-lease-sale-yields-no-interest?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_pn0ys59OnChk1ZLSvA5Sg9hBBLTkf9ezTvt6Fp7bw9KVY2Jto0NasDiXocGUWd2ApyW3k" rel="noopener noreferrer" target="_blank">announced</a> yesterday. This was the second sale – mandated by Congress under the 2017 Tax Act – to generate little interest. “The lack of interest from oil companies in development in the Arctic National Wildlife Refuge reflects what we and they have known all along – there are some places too special and sacred to put at risk with oil and gas drilling,” said Acting Deputy Secretary Laura Daniel-Davis. President-elect Donald Trump has promised to open more drilling in the refuge, <a href="https://www.nytimes.com/2025/01/08/climate/arctic-wildlife-refuge-drilling-leases.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_pn0ys59OnChk1ZLSvA5Sg9hBBLTkf9ezTvt6Fp7bw9KVY2Jto0NasDiXocGUWd2ApyW3k" rel="noopener noreferrer" target="_blank">calling it</a> “the biggest find anywhere in the world, as big as Saudi Arabia.”</p><h2>THE KICKER</h2><p><em>“Like it or not, addressing climate change requires the help of the wealthy – not just a small number of megadonors to environmental organizations, but the rich as a class. The more they understand that their money will not insulate them from the effects of a warming planet, the more likely they are to be allies in the climate fight, and vital ones at that.”</em> –<a href="https://heatmap.news/ideas/keith-wasserman-private-firefighters?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_pn0ys59OnChk1ZLSvA5Sg9hBBLTkf9ezTvt6Fp7bw9KVY2Jto0NasDiXocGUWd2ApyW3k" rel="noopener" target="_self">Paul Waldman writing for Heatmap</a></p> 
+
+<br> 
+
+<https://heatmap.news/climate/america-emissions-2024-rhodium>
+
+---
+
+## President Jimmy Carter’s economic plea to the American people
+
+date: 2025-01-09, from: Market Place
+
+On July 15, 1979, amid inflation and long lines at the gas pump, Carter made a speech that in many ways exemplified his presidency. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/09/president-jimmy-carters-economic-plea-to-the-american-people/>
+
+---
+
+## Jimmy Carter's woodworking, painting and poetry reveal introspective Renaissance Man
+
+date: 2025-01-09, from: VOA News USA
+
+PLAINS, Ga. — The world knew Jimmy Carter as a president and humanitarian, but he also was a woodworker, painter and poet, creating a body of artistic work that reflects deeply personal views of the global community — and himself. 
+
+
+His portfolio illuminates his closest relationships, his spartan sensibilities and his place in the evolution of American race relations. And it continues to improve the finances of The Carter Center, his enduring legacy. 
+
+
+Creating art provided “the rare opportunity for privacy” in his otherwise public life, Carter said. “These times of solitude are like being in another very pleasant world.” 
+
+
+‘One of the best gifts of my life’ 
+
+
+Mourners at Carter’s hometown funeral will see the altar cross he carved in maple and collection plates he turned on his lathe. Great-grandchildren in the front pews at Maranatha Baptist Church slept as infants in cradles he fashioned. 
+
+
+The former president measured himself a “fairly proficient” craftsman. Chris Bagby, an Atlanta woodworker whose shop Carter frequented, elevated that assessment to “rather accomplished.” 
+
+
+Carter gleaned the basics on his father’s farm, where the Great Depression meant being a jack-of-all-trades. He learned more in shop class and with Future Farmers of America. “I made a miniature of the White House,” he recalled, insisting it was not about his ambitions. 
+
+
+During his Navy years, Jimmy and Rosalynn Carter chose unfurnished military housing to stretch his $300 monthly wage, and he built their furniture himself in a shop on base. 
+
+
+As president, Carter nurtured woodworking rather than his golf game, spending hours in a wood shop at Camp David to make small presents for family and friends. And when he left the White House, West Wing aides and Cabinet members pooled money for a shopping spree at Sears, Roebuck & Co. so he could finally assemble a full-scale home woodshop. 
+
+
+“One of the best gifts of my life,” Carter said. 
+
+
+Working in their converted garage, he previewed decades of Habitat for Humanity work by refurbishing their one-story house in Plains. He also improved his fine woodworking skills, joining wood without nails or screws. He also bought Japanese carving tools, and fashioned a chess set later owned by a Saudi prince. 
+
+
+Not just any customer 
+
+
+Carter frequented Atlanta’s Highland Woodworking, a shop replete with a library of how-to books and hard-to-find tools, and recruited the world’s preeminent handmade furniture maker, Tage Frid, as an instructor, Bagby said. 
+
+
+Still hanging near the store entrance is a picture of Frid, who died in 2004, teaching students including a smiling former president at the front of the class. 
+
+
+“He was like a regular customer,” Bagby said, other than the “Secret Service agents who came with him.” 
+
+
+Carter built four ladder-back chairs out of hickory in 1983, and Sotheby’s auctioned them for $21,000 each at the time, the first of many sales of Carter paintings and furniture that raised millions to benefit The Carter Center. 
+
+
+It was rarely about the money, though. Jill Stuckey, a longtime friend who would have the Carters over to her home in Plains, recalled seeing the former president carrying out one of her chairs. 
+
+
+“I said, ‘What are you doing?’” she recalled. “He said, ‘It’s broken. I’m going to take it home and fix it.’” 
+
+
+He was at her back door at 7:30 the next morning, holding her repaired chair. 
+
+
+Carter compared woodworking to the results of his labor as a Navy engineer, or as a boy on the farm: “I like to see what I have done, what I have made.” 
+
+
+‘No special talent,’ but his paintings drive auctions 
+
+
+Carter employed a folk-art style as a late-in-life amateur painter and claimed “no special talent,” but a 2020 Carter Center auction drew $340,000 for his painting titled “Cardinals,” and his oil-on-canvas of an eagle sold for $225,000 in 2023, months after he entered hospice care. 
+
+
+Carter’s work hangs throughout the center’s campus. A room where he met with dignitaries is encircled with birds he painted after he and Rosalynn took on bird watching as a hobby. 
+
+
+Near the executive offices are a self-portrait and a painting of Rosalynn in their early post-presidential years, hanging across from a trio of Andy Warhol prints showing Carter in office. 
+
+
+Carter’s earliest years predominate, with boyhood farm scenes and portraits of influential figures like his father James Earl Carter Sr., whose death in 1953 led him to abandon a Navy career and eventually enter politics in Georgia. 
+
+
+Some of his subjects, including both of his parents, are looking away. Carter's likeness of his mother shows “Miss Lillian” as a 70-year-old Peace Corps volunteer in India. Jason Carter said the piece was particularly meaningful to his grandfather, who lost reelection at a relatively youthful 56. 
+
+
+“When he got out of the White House, she was standing there saying, ’Well, I turned 70 in the Peace Corps. What are you going to do?” Jason Carter said. 
+
+
+One Carter subject who meets his gaze is a young Rosalynn — they married when she was 18 and he was 21. He described her as “remarkably beautiful, almost painfully shy, obviously intelligent, and yet unrestrained in our discussions.” 
+
+
+Another who doesn’t look away is Rachel Clark, a Black sharecropper who had hosted the future president after they worked in the fields. “Except for my parents, Rachel Clark was the person closest to me,” Carter wrote of his childhood. 
+
+
+‘Just a word of praise’ 
+
+
+Carter wrote more than 30 books — even a novel — but was most introspective in poetry. 
+
+
+On his first real recognition of Jim Crow segregation: “A silent line was drawn between friend and friend, race and race.” 
+
+
+On his Cold War submarine’s delicate dance with enemies: “We wanted them to understand ... to share our love of solitude ... the peace we yearned to keep.” 
+
+
+Rosalynn’s smile, he gushed, silenced the birds, “or may be I failed to hear their song.” 
+
+
+Perhaps Carter’s most revealing poem, “I Wanted to Share My Father’s World,” concerns the man who never got to see his namesake son’s achievements. He wrote that he despised Earl’s discipline, and swallowed hunger for “just a word of praise.” 
+
+
+Only when he brought his own sons to visit his dying father did he “put aside the past resentments of the boy” and see “the father who will never cease to be alive in me.” 
+
+<br> 
+
+<https://www.voanews.com/a/jimmy-carter-s-woodworking-painting-and-poetry-reveal-introspective-renaissance-man/7930760.html>
+
+---
+
+## Schools cancel classes across Southern US as another burst of winter storms move in
+
+date: 2025-01-09, from: VOA News USA
+
+Dallas, Texas — Schools and buildings from Texas to Georgia were shut down Thursday or prepared to close ahead of freezing rain and snow forecast for much of the Southern U.S. as another burst of plunging temperatures and winter storms threatened to again snarl travel. 
+
+
+Texas schools canceled classes for more than 1 million students in anticipation of icy and potentially dangerous conditions that could last into Friday. Closures also kept students home in Kansas City and Arkansas' capital, Little Rock, while Virginia's capital, Richmond, remained under a weather-related boil advisory. 
+
+
+The cold snap coincided with rare January wildfires tearing through the Los Angeles area, forcing residents to flee from burning homes through flames, ferocious winds and towering clouds of smoke. 
+
+
+Texas braces for snow 
+
+
+In the Dallas area, crews treated roads ahead of the expected Thursday arrival of about 5 to 10 centimeters of snow. Up to 12.7 centimeters was expected farther north near Oklahoma, according to the National Weather Service. 
+
+
+Gov. Greg Abbott said the state deployed emergency crews in advance and urged residents to avoid driving in bad weather if possible. 
+
+
+Boston native Gina Eaton, who stocked up on groceries in Dallas ahead of the storm, said she has some trepidation sharing roads with drivers unaccustomed to ice and snow. 
+
+
+“Even if there is ice, I’m very comfortable driving in it,” Eaton said. “It’s just other people that scare me.” 
+
+
+Roads could be slick Friday as 75,000 fans were expected head to AT&T Stadium in Arlington for the college football championship semifinal between Texas and Ohio State in the Cotton Bowl. Arlington spokesperson Susan Shrock said crews will be ready to address any hazardous road conditions. 
+
+
+Southern discomfort 
+
+
+A mix of sleet, snow and freezing rain was expected along a stretch from New Mexico to Alabama. Forecasters said the heaviest amounts were likely in parts of Arkansas, Louisiana, Mississippi, Oklahoma and Texas. 
+
+
+The system was expected to push northeastward by Friday with heavy snow and freezing rain all the way to the Virginia and North Carolina coasts. As much as about 20 centimeters of snow could fall in parts of Georgia, North Carolina, Tennessee and West Virginia through Saturday, the weather service said. 
+
+
+Georgia Gov. Brian Kemp announced the closure of some state offices on Friday. Atlanta Mayor Andre Dickens said city offices would be closed, with employees working remotely. 
+
+
+Tennessee Emergency Management Agency Director Patrick Sheehan said he expected schools across the state to close Friday, although decisions will be made at the local level. 
+
+
+The polar vortex of ultra-cold air usually spins around the North Pole, but it sometimes ventures south into the U.S., Europe and Asia. Some experts say such events are happening more frequently, paradoxically, because of a warming world. 
+
+
+The agricultural impact 
+
+
+Some parts of Kansas have received nearly an entire year's average of snow over the past few days, hitting farmers and ranchers “in ways that we haven't seen in this area for a very, very long time, potentially a lifetime,” said Chip Redmond, a meteorologist at Kansas State University. 
+
+
+Calves are especially at risk and can die when temperatures slip below zero. And so much snow in rural areas can keep farmers from reaching herds with food and water 
+
+
+In northern Florida, growers were most concerned about ferns that are cultivated for floral arrangements, with Valentine's Day only a month away. 
+
+<br> 
+
+<https://www.voanews.com/a/schools-cancel-classes-across-southern-us-as-another-burst-of-winter-storms-move-in-/7930748.html>
+
+---
+
+## Former President Jimmy Carter to be honored at Washington funeral
+
+date: 2025-01-09, from: VOA News USA
+
+WASHINGTON — Former U.S. President Jimmy Carter is set to be honored Thursday with a funeral at Washington National Cathedral before being buried in his home state of Georgia.
+
+
+Carter’s living presidential successors – Bill Clinton, George W. Bush, Barack Obama, Donald Trump and Joe Biden – are due to attend the Washington funeral, with Biden delivering a eulogy.
+
+
+Mourners from the public were able to pay their final respects overnight at the U.S. Capitol, where Carter’s casket lay in state since Tuesday.
+
+
+
+
+David Smith, a professor at the Carter School for Peace and Conflict Resolution at George Mason University, said the former president obviously impacted his career. He told VOA that he came to the Capitol to honor the man but also to honor Carter’s causes.
+
+
+"He had such an impact on so many people," he said. "His work on advancing minorities, appointments of women to the judiciary, protecting our environment, advocating for human rights – all those things are very important things to me."
+
+
+In the Capitol rotunda – where only about 50 Americans have been recognized with this distinct honor since 1852 – Senate Majority Leader Jon Thune, in a service late Tuesday, described Carter as: "Navy veteran, peanut farmer, governor of Georgia. And president of the United States. Sunday school teacher. Nobel Prize winner. Advocate for peace and human rights. And first and foremost, a faithful servant of his creator and his fellow man."
+
+
+Vice President Kamala Harris – who on Monday in the Capitol certified the victory of the next president – extolled Carter’s policy.
+
+
+"He was the first president of the United States to have a comprehensive energy policy, including providing some of the first federal support for clean energy," she said Tuesday. "He also passed over a dozen major pieces of legislation regarding environmental protection. And more than doubled the size of America's national parks."
+
+
+
+
+Carter, who served as the 39th president, died Dec. 29 at the age of 100 after nearly two years in hospice care in the state of Georgia. Since then, his final journey has taken his remains over the skinny roads of his humble hometown of Plains; down the boulevards of Atlanta, the state capital, and through the skies to snowy Washington, for his state funeral.
+
+
+At the U.S. Capitol, lawmakers told VOA what the 39th president meant to them.
+
+
+Congresswoman Alma Adams, a North Carolina Democrat, said Carter was "a real moral person."
+
+
+"He taught Sunday school – I did, too!" she said, smiling. "But I think (it’s) the fact that he cared about all people. He was a people’s president."
+
+
+South Carolina Republican Representative Ralph Norman told VOA that while he did not align with Carter politically, "President Carter was a good man. President Carter was a man who served his country. He loved America. I didn’t agree with all of his policies, but you couldn’t (dis)agree with his patriotism, you couldn’t disagree. He just loved his country."
+
+
+In late December, after receiving news of Carter’s death, Biden said, "We may never see his like again. You know we can all do well to try to be a little more like Jimmy Carter."
+
+
+Analysts say the two men have a few things in common.
+
+
+"There's an obvious similarity; that is, that Carter turned out to be a one-term president, and Biden turned out to be a one-term president," Bill Galston, a senior fellow at the Brookings Institution, told VOA on Zoom. "And that's never a reflection of the right combination of politics and policy. In both cases, I would say that the two presidents put the policy ahead of the politics. And they paid the price for that."
+
+
+When asked what Carter and Trump have in common, Galston paused.
+
+
+"I don't even know how to begin to answer that question," he said finally. "The two are polar opposites in every respect that I can think of, except one. And that is, they both attained the presidency as outsiders."
+
+
+Some information for this report came from The Associated Press. 
+
+<br> 
+
+<https://www.voanews.com/a/former-president-jimmy-carter-to-be-honored-at-washington-funeral/7930646.html>
+
+---
+
+## Meta to offer wider range of speech on platforms, CEO says
+
+date: 2025-01-09, from: VOA News USA
+
+This week, Meta’s CEO announced there would be a wider range of speech on Facebook and other Meta platforms. Michelle Quinn has the story. 
+
+<br> 
+
+<https://www.voanews.com/a/meta-to-offer-wider-range-of-speech-on-platforms-ceo-says/7930636.html>
+
+---
+
+## Thousands more ordered to evacuate as Los Angeles wildfires spread
+
+date: 2025-01-09, from: VOA News USA
+
+More than 130,000 people in the Los Angeles area were under evacuation orders early Thursday as firefighters battled multiple major wildfires that already killed at least five people and destroyed more than 1,000 structures.
+
+
+A new, fast-moving fire broke out late Wednesday in the Hollywood Hills, prompting the latest round of orders for people to flee to safety.
+
+
+Meteorologists said the dry conditions and strong winds conducive to the breakout and spread of the fires are expected to remain in place through Friday.
+
+
+High wind gusts had forced the grounding of planes used to help fight the fires, but officials said Wednesday the winds had eased enough for those operations to resume.
+
+
+“Tonight, we have very mild wind conditions where we can get aircraft and a ton of additional resources getting their hands around this fire,” Pasadena Fire Chief Chad Augustine said. “That’s what gives me confidence that we’re going to get a handle on this fire.”
+
+
+
+
+U.S. President Joe Biden has approved a federal emergency declaration for California to release federal money and resources to help battle the wildfires.
+
+
+The White House said late Wednesday that Biden canceled a planned trip to Italy so that he can “remain focused on directing the full federal response in the days ahead.”
+
+
+“We are prepared to do everything and anything, as long as it takes, to contain these fires and help reconstruct and make sure we get back to normal. It’s going to be a hell of a long way,” Biden said Wednesday. “It’s going to take time.”
+
+
+The Defense Department pledged to provide “additional firefighting personnel and capabilities” to California.
+
+
+While authorities had warned of the potential for wildfires in the Los Angeles area given the conditions this week, the blazes were more extensive than anticipated.
+
+
+“The L.A. County Fire Department was prepared for one or two major brush fires, but not four, especially given these sustained winds and low humidities,” L.A. County Fire Chief Anthony Marrone said Wednesday.
+
+
+In addition to the Hollywood area, there were active fires in Pacific Palisades, Altadena, Pasadena and Sylmar.
+
+
+
+
+Thousands of hectares have burned, and the fire is continuing to spread.
+
+
+“We have no percentage of containment,” Marrone said.
+
+
+Two thousand National Guard members have been deployed to help local firefighters.
+
+
+
+
+In Pacific Palisades, the fire jumped from one house to the next, pushed by hurricane-force winds. In the same area, firefighters said hydrants had run dry.
+
+
+“We had a tremendous demand on our system in the Palisades,” said Janisse Quiñones, chief executive and chief engineer of the Los Angeles Department of Water and Power. “We pushed the system to the extreme.”
+
+
+
+The call for water was “four times the normal demand ... for 15 hours straight,” she added.
+
+
+The fire in Pacific Palisades is the most destructive in the history of Los Angeles. With 1,000 structures burned to the ground, the Palisades fire surpasses the devastation of the 2008 Sayre Fire, which demolished 604 structures in a northern suburb of L.A.
+
+
+Some information for this report came from The Associated Press and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/thousands-more-ordered-to-evacuate-as-los-angeles-wildfires-spread/7930613.html>
+
+---
+
+## Could Los Angeles Burn to the Ground?
+
+date: 2025-01-09, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwNjEzMy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczODc5MzI3N30.bqKmRveEl1__tVGGaPTTC7d4qa8Fu1Oo9HS1ztucAL8/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Everyone knows the story of Mrs. O’Leary’s cow, the one that allegedly knocked over a lantern in 1871 and burned down 2,100 acres of downtown Chicago. While the wildfires raging in Los Angeles County have already far exceeded that legendary bovine’s total attributed damage — at the time of this writing, five fires have <a href="https://www.latimes.com/california/live/pacific-palisades-fire-updates-los-angeles" rel="noopener noreferrer" target="_blank"><u>burned almost 16,000 acres</u></a> — the losses had centralized, at least initially, in the secluded neighborhoods and idyllic suburbs in the hills above the city. </p><p>On Wednesday, that started to change. Evacuation maps have since extended into <a href="https://x.com/AaronGuhreen/status/1877119700674469943" rel="noopener noreferrer" target="_blank"><u>the gridded streets of downtown Santa Monica</u></a> and Pasadena, and a new fire has started north of Beverly Hills, <a href="https://www.latimes.com/california/story/2025-01-08/sunset-fire-hollywood-hills-evacuations-shelters-closures" rel="noopener noreferrer" target="_blank"><u>moving quickly</u></a> toward an internationally recognizable street: Hollywood Boulevard. The two biggest fires, Palisades and Eaton, <a href="https://www.cnn.com/weather/live-news/los-angeles-pacific-palisades-eaton-wildfires-01-08-25/index.html" rel="noopener noreferrer" target="_blank"><u>remain 0% contained</u></a>, and <a href="https://heatmap.news/guides/santa-ana-winds-climate-change" target="_self"><u>high winds</u></a> have stymied firefighting efforts, all leading to an exceedingly grim question: Exactly how much of Los Angeles could burn. Could <em><em>all of it?</em></em></p><p>“I hate to be doom and gloom, but if those winds kept up … it’s not unfathomable to think that the fires would continue to push into L.A. — into the city,” Riva Duncan, a former wildland firefighter and fire management specialist who now serves as the executive secretary of <a href="https://www.grassrootswildlandfirefighters.com/" rel="noopener noreferrer" target="_blank"><u>Grassroots Wildland Firefighters</u></a>, an advocacy group, told me.</p><p>When a fire is burning in the chaparral of the hills, it’s one thing. But once a big fire catches in a neighborhood, it’s a different story. Houses, with their wood frames, gas lines, and <a href="https://gizmodo.com/cheap-plastic-filled-furniture-makes-it-easier-for-fir-5923299" rel="noopener noreferrer" target="_blank"><u>cheap modern furniture</u></a>, might as well be Duraflame. <a href="https://heatmap.news/climate/los-angeles-fires" target="_self"><u>Embers</u></a> from one burning house then leap to the next and alight in a clogged gutter or on <a href="https://heatmap.news/guides/how-to-protect-home-from-wildfire" target="_self"><u>shrubs planted too close</u></a> to vinyl siding. “That’s what happened with the Great Chicago Fire. When the winds push fires like that, it’s pushing the embers from one house to the others,” Duncan said. “It’s a really horrible situation, but it’s not unfathomable to think about that [happening in L.A.] — but people need to be thinking about that, and I know the firefighters are thinking about that.”</p><p>Once flames engulf a block, it will “overpower” the capabilities of firefighters, Arnaud Trouvé, the chair of the Department of Fire Protection Engineering at the University of Maryland, told me in an email. If firefighters can’t gain a foothold, the fire will continue to spread “until a change in driving conditions,” such as the winds weakening to the point that a fire isn’t igniting new fuel or its fuel source running out entirely, when it reaches something like an expansive parking lot <a href="https://x.com/latimes/status/1876851290107412817" rel="noopener noreferrer" target="_blank"><u>or the ocean</u></a>.</p><p>This waiting game sometimes leads to the impression that firefighters are standing around, not doing anything. But “what I know they’re doing is they’re looking ahead to places where maybe there’s a park, or some kind of green space, or a shopping center with big parking lots — they’re looking for those places where they could make a stand,” Duncan told me. If an entire city block is <em><em>already</em></em> on fire, “they’re not going to waste precious water there.”</p><p>Urban firefighting is a different beast than wildland firefighting, but Duncan noted that Forest Service, CALFIRE, and L.A. County firefighters are used to complex mixed environments. “This is their backyard, and they know how to fight fire there.”</p><p>“I can guarantee you, many of them haven’t slept 48 hours,” she went on. “They’re grabbing food where they can; they’re taking 15-minute naps. They’re in this really horrible smoke — there are toxins that come off burning vehicles and burning homes, and wildland firefighters don’t wear breathing apparatus to protect the airways. I know they all have horrible headaches right now and are puking. I remember those days.”</p><p>If there’s a sliver of good news, it’s that the biggest fire, Palisades, can’t burn any further to the west, <a href="https://www.nytimes.com/interactive/2025/01/08/weather/los-angeles-fire-maps-california.html#:~:text=Wind%20data%20as%20of%20Jan.%208%20at%2012%20p.m." rel="noopener noreferrer" target="_blank"><u>the direction the wind is blowing</u></a> — there lies the ocean — meaning its spread south into Santa Monica toward Venice and Culver City or Beverly Hills is slower than it would be if the winds shifted. The westward-moving Santa Ana winds, however, could conceivably fan the Eaton fire deeper into eastern Los Angeles if conditions don’t let up soon. “In many open fires, the most important factor is the wind,” Trouvé explained, “and the fire will continue spreading until the wind speed becomes moderate-to-low.”</p><p>Relief is supposed to begin Wednesday night, meaning firefighters will have a crucial opportunity to gain a foothold — an opportunity that will increase after the red flag warning <a href="https://www.sanluisobispo.com/news/weather-news/article298213423.html" rel="noopener noreferrer" target="_blank"><u>expires on Friday</u></a>. But “there are additional winds coming next week,” Kristen Allison, a fire management specialist with the Southern California Geographic Area Coordination Center, <a href="https://heatmap.news/climate/los-angeles-fire-preparedness" target="_self"><u>told me earlier today</u></a>. “It’s going to be a long duration — and we’re not seeing any rain anytime soon.”</p> 
+
+<br> 
+
+<https://heatmap.news/climate/los-angeles-burning>
+
+---
+
+## It’s Time to Recruit the Rich
+
+date: 2025-01-09, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwNTQ3NC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0MDE2Mjg2NH0.DfCnTSgyuxeSV2_HQXbtYoZioQ_JfPmvxcIBLrBoX2M/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">As wildfires spread through the Los Angeles area, one resident of a tony neighborhood made a desperate plea for help on social media. “Does anyone have access to private firefighters to protect our home in Pacific Palisades?” <a href="https://bsky.app/profile/paleofuture.bsky.social/post/3lf7jb526oc2n" rel="noopener noreferrer" target="_blank"><u>asked</u></a> Keith Wasserman on X. “Will pay any amount.” The reaction was predictable: Some users expressed their wish that Wasserman’s house would burn down, while others <a href="https://www.dailydot.com/debug/keith-wasserman-investor-los-angeles-wildfires/" rel="noopener noreferrer" target="_blank"><u>found</u></a> earlier tweets in which he had cheered Donald Trump’s pledges to lower taxes, and even once said “Real estate ballers don’t pay any taxes!” </p><p>It’s hard to feel too much sympathy for a rich guy getting what looks like a pointed object lesson in the necessity of universal services: If you’re disappointed that the government wasn’t able to save your house in a disaster, perhaps you should reconsider your advocacy for lowering the taxes that fund things like the fire department. But once we get the mockery out of our systems, perhaps we should approach Mr. Wasserman and his like-minded peers with a more open heart, and see this particular disaster as an opportunity to convince more people like him that we’re all in the path of the same threats. </p><p>Because like it or not, addressing climate change requires the help of the wealthy — not just a small number of megadonors to environmental organizations, but the rich as a class. The more they understand that their money will not insulate them from the effects of a warming planet, the more likely they are to be allies in the climate fight, and vital ones at that.</p><p>As of this writing the fires in Los Angeles are still burning, but it <a href="https://www.cnn.com/weather/live-news/los-angeles-pacific-palisades-eaton-wildfires-01-08-25/index.html?t=1736358986008" rel="noopener noreferrer" target="_blank"><u>already appears</u></a> that they could be among the costliest in history, not because of their size but because they are reducing some of the priciest real estate in America to ashes. It’s another vivid lesson in a truth more people need to learn: Climate change will affect everyone, no matter how much money you have. </p><p>Yes, those most affected will be people without resources, who live in vulnerable areas they can’t easily flee, and who are unable to harden their homes and communities against the most destructive effects of warming. Those with the lowest incomes <a href="https://www.epa.gov/system/files/documents/2021-09/climate-vulnerability_september-2021_508.pdf" rel="noopener noreferrer" target="_blank"><u>feel the brunt</u></a> of climate change in multiple ways. </p><p>But there’s a difference between being less vulnerable and being invulnerable. There are only so many times you can rebuild your beach house, only so many private firefighters you can hire, and only so often you can turn up the air conditioning. We saw in Asheville how a place <a href="https://www.npr.org/2024/10/09/nx-s1-5137024/climate-haven-hurricane-helene-asheville" rel="noopener noreferrer" target="_blank"><u>believed</u></a> to be a “climate haven” turned out to be just as susceptible to natural disaster as anywhere else. In the end, climate change comes for us all. And experiencing a climate-related event <a href="https://epic.uchicago.edu/insights/2024-poll-americans-views-on-climate-change-and-policy-in-12-charts/" rel="noopener noreferrer" target="_blank"><u>has a significant impact</u></a> on whether people both accept the reality of climate change and prioritize it as a political issue.</p><p>The more wealthy people believe that climate change is a threat to them and support policies that mitigate emissions, the better the chances that those policies will be translated into law. A <a href="https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B" rel="noopener noreferrer" target="_blank"><u>number</u></a> of <a href="https://faculty.wcas.northwestern.edu/jnd260/cab/CAB2012%20-%20Page1.pdf" rel="noopener noreferrer" target="_blank"><u>studies</u></a> by political scientists in recent years have shown that the policy preferences of the wealthy are more likely to prevail; it’s one of those findings that no one is surprised by, but it’s useful to have it demonstrated empirically. The wealthy are more politically active, donate more money, and are generally treated by politicians as though they cannot be ignored. </p><p>So while mass mobilization is a key component of successful movements, it doesn’t hurt to have rich people on your side, too. Surveys already show that higher-income voters are somewhat <a href="https://climatecommunication.yale.edu/publications/understanding-pro-climate-voters/" rel="noopener noreferrer" target="_blank"><u>more likely</u></a> to support policies to address climate change, though the differences are not that large. And if increasing numbers of them decide that the government has to institute more climate-friendly policies, wealthier voters might even put pressure on the party that usually represents their interests as a class: the GOP.</p><p>Admittedly, getting the wealthy to unite with the rest of us in common purpose will not be easy. One of the primary functions of wealth is to insulate the privileged from negative externalities of existence, both large and small. It separates them from ordinary people and the ordinary headaches of life. The wealthy glide through the world as though on a moving walkway, exempted from having to wait in lines or get their hands dirty or spend time worrying about their vulnerability. And they often use their political influence to insulate themselves even further, advocating for policies that starve the government of funds and exacerbate inequality. </p><p>Moreover, disasters like the fires we’re seeing right now wind up being interpreted through existing political lenses; Donald Trump is blaming them on the governor of California, to whom he <a href="https://bsky.app/profile/atrupar.com/post/3lfausi5rsc2v" rel="noopener noreferrer" target="_blank"><u>refers</u></a>, classy and mature as ever, as “Gavin Newscum,” while other conservatives are <a href="https://www.msn.com/en-us/public-safety-and-emergencies/natural-disasters/maga-actor-breaks-down-in-tears-as-he-reveals-home-destroyed-in-cali-fires/ar-AA1xbRCl" rel="noopener noreferrer" target="_blank"><u>angrily denying</u></a> that warming temperatures had anything to do with the destruction in southern California. </p><p>Nevertheless, there’s room for a generous response, to say even to the wealthiest of victims that we’re sorry they suffered the consequences of warming and hope they’ll become allies in the fight against climate change, because we’re all in it together. We all need robust public infrastructure (including an effective fire department), along with policies that will make wildfires and other disasters less destructive. The more people who come into the tent — even if it was only once they had to flee a disaster they only thought would affect the little people — the better off we’ll be.</p> 
+
+<br> 
+
+<https://heatmap.news/ideas/keith-wasserman-private-firefighters>
+
+---
+
+##  How Big Oil Hindered The Fight Against L.A.’s Wildfires 
+
+date: 2025-01-09, from: The Lever News
+
+ California’s oil and gas companies avoided paying billions of dollars in taxes that could have been used to fight the inferno.  
+
+<br> 
+
+<https://www.levernews.com/how-big-oil-hindered-the-fight-against-l-a-s-wildfires/>
+
+---
+
+## US to pledge $500M for Ukraine as Austin hosts his final Ramstein meeting
+
+date: 2025-01-09, from: VOA News USA
+
+U.S. Secretary of Defense Lloyd Austin held bilateral meetings Thursday with his Ukrainian and British counterparts Wednesday before hosting the Ukraine Defense Contact Group one last time. VOA Pentagon correspondent Carla Babb is traveling with Austin as the U.S. is expected to announce its final military aid package for Kyiv under the Biden administration. 
+
+<br> 
+
+<https://www.voanews.com/a/us-to-pledge-500m-for-ukraine-as-austin-hosts-his-final-ramstein-meeting/7930584.html>
+
+---
+
+## Ex-FBI informant who made up claims about Bidens sentenced to 6 years
+
+date: 2025-01-09, from: VOA News USA
+
+WASHINGTON — A former FBI informant who admitted lying about U.S. President Joe Biden and son Hunter Biden’s interactions with a Ukrainian energy company was sentenced to six years in prison Wednesday, court records showed. 
+
+
+Alexander Smirnov pleaded guilty last month of causing the creation of a false record after falsely telling his FBI handler that he had knowledge of bribes paid by executives at Burisma Holdings to Joe and Hunter Biden, according to court documents. 
+
+
+Hunter Biden served on the board of Burisma, a role that has attracted years of scrutiny from Republican lawmakers. 
+
+
+Smirnov also admitted tax evasion. 
+
+
+Prosecutors working with special counsel David Weiss, who investigated matters related to Hunter Biden, had asked U.S. District Judge Otis Wright in Los Angeles to sentence Smirnov to six years in federal prison. 
+
+
+“The defendant decided in 2020 to exploit the position of trust he enjoyed with the FBI in order to provide false information about one of the candidates for president of the United States in an attempt to influence the outcome of the election,” prosecutors wrote in a court filing, referring to Joe Biden’s 2020 campaign. 
+
+
+Lawyers for Smirnov sought a four-year prison sentence, arguing Smirnov had accepted responsibility and suffered a “personal downfall” resulting from the case. 
+
+
+Smirnov falsely claimed in conversations with the FBI that executives at Burisma told him in 2015 or 2016, while Joe Biden was vice president, that they'd hired Hunter Biden to "protect us, through his dad, from all kinds of problems."  
+
+
+Smirnov also fabricated a claim that Joe and Hunter Biden were each paid $5 million in bribes from Burisma executives, according to court documents. 
+
+
+Republican lawmakers learned of an FBI record documenting Smirnov’s claims, which briefly became a focus of a since-abandoned effort to impeach Joe Biden. 
+
+
+Weiss, the special counsel, also brought two criminal cases against Hunter Biden on tax and gun charges. Joe Biden issued a sweeping pardon for his son last month, ending both prosecutions. 
+
+<br> 
+
+<https://www.voanews.com/a/ex-fbi-informant-who-made-up-claims-about-bidens-sentenced-to-6-years-/7930576.html>
+
+---
+
+## US to pledge $500M for Ukraine at Ramstein meeting
+
+date: 2025-01-09, from: VOA News USA
+
+RAMSTEIN AIR BASE, GERMANY — The United States is providing Ukraine with $500 million in additional weapons and equipment from its existing military stockpiles, in what officials told VOA will be the final military aid package before President Joe Biden leaves office.
+
+The officials were speaking to VOA on condition of anonymity ahead of the announcement, which is expected Thursday when U.S. Secretary of Defense Lloyd Austin hosts the Ukraine Defense Contact Group in Ramstein, Germany, for the last time.
+
+"Our focus will be on maintaining momentum, delivering results, and sending a clear message: The international community stands resolute in its support for Ukraine," Austin said.
+
+Ukrainian President Volodymyr Zelenskyy announced that he will join Austin at the 25th meeting of the group, which comprises about 50 nations that came together under Austin's leadership to coordinate security assistance following Russia's invasion of Ukraine in February 2022.
+
+"They [Ukrainians] continue to survive, but they do that with the support of the U.S. and other allied countries and coalitions through the Ukraine Defense Contact Group. And I think it's pretty clear that the Ukraine Defense Contact Group is, it's more than just a common understanding. It's a common cause," Deputy Pentagon Press Secretary Sabrina Singh said Wednesday.
+
+As Ukrainians fight to survive, that common cause to support their fight is shrouded in uncertainty. President-elect Donald Trump has not indicated whether he will continue America's leadership of the group when President Biden leaves office on Jan. 20, and current administration officials and defense analysts warn that could prove catastrophic for Kyiv.
+
+Bradley Bowman, senior director of the Center on Military and Political Power at the Foundation for Defense of Democracies, said that Trump, who has been very critical of the Biden administration's handling of Afghanistan, would not want to see a similar humanitarian crisis "on his record."
+
+"If you have a major curtailment or end of U.S. support for Ukraine, then you could have a major disaster in Ukraine," he told VOA.
+
+Rather than cut Kyiv's lifeline, Bowman said, the U.S. should surge support to Ukraine in the first months of the new administration "to put Ukraine in the strongest possible position" ahead of any peace negotiations.
+
+There is still $3.8 billion in approved funds for Ukraine that was passed by Congress in April, but the Pentagon says it can't send that aid at this time because it needs additional funds from Congress to restock its own supplies.
+
+While analysts point to the Ukraine Defense Contact Group as a high point of Austin's legacy, funding delays from Congress and deliberations within the Biden administration on what weapons to give Kyiv have hampered Ukraine's fight.
+
+Bowman says that too often, when Ukraine asked for something, the Biden administration told them "no," then "maybe," before finally saying, "yes."
+
+"During that time period, we saw Russians advancing, Ukrainians dying and the delay being costly," he said.
+
+Since Russia's invasion in 2022, the group of about 50 nations has provided Kyiv with more than $126 billion in weapons, training and equipment. The U.S. has provided about $66 billion, slightly more than half of the group's aid.
+
+Officials said the administration hoped the latest aid package, along with other commitments from the Ukraine Defense Contact Group, could put Kyiv in a stronger negotiating position. They also told reporters that at least 80% of the American weapons and equipment promised to Kyiv from U.S. stockpiles would reach Ukraine before Biden left office. One notable exception, a senior defense official said, was a group of military vehicles that were still being refurbished to be used on the battlefield.
+
+VOA National Security Correspondent Jeff Seldin contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/us-to-pledge-500m-for-ukraine-at-ramstein-meeting/7930575.html>
+
+---
+
+## US port strike averted as 45,000 union workers, employers reach deal
+
+date: 2025-01-09, from: VOA News USA
+
+The union representing 45,000 dock workers on the U.S. East and Gulf Coasts and their employers on Wednesday said they reached a tentative deal on a new six-year contract, averting further strikes that could have snarled supply chains and taken a toll on the U.S. economy.
+
+
+The International Longshoremen's Association and the United States Maritime Alliance employer group, in a joint statement, called the agreement a win-win. The deal includes a resolution in automation, which had been the thorniest issue on the table.
+
+
+"This agreement protects current ILA jobs and establishes a framework for implementing technologies that will create more jobs while modernizing East and Gulf coast ports – making them safer and more efficient and creating the capacity they need to keep our supply chains strong," the groups said.
+
+
+Terms of the deal were not disclosed.
+
+
+The talks had been extended until Jan. 15 to reach a deal on automation. Shipping industry executives, customers and analysts had been concerned that the parties would be unable to overcome their impasse, leading to a second ILA strike just days before President-elect Donald Trump's Jan. 20 inauguration.
+
+
+A three-day ILA strike in October had triggered a surge in shipping prices and cargo backlogs at the 36 affected ports. Longshoremen returned to work after employers agreed to a 62% wage increase over the next six years.
+
+
+Employers at the ports stretching from Maine to Texas include terminal operators like APM, owned by Danish container carrier Maersk, as well as the U.S. arms of other major carriers like China's COSCO Shipping and Switzerland's MSC.
+
+
+ILA and USMX have agreed to continue operating under the current contract until the union can meet with its full Wage Scale Committee and schedule a ratification vote, and USMX members can ratify the terms of the final contract. 
+
+<br> 
+
+<https://www.voanews.com/a/us-port-strike-averted-as-45-000-union-workers-employers-reach-deal/7930558.html>
+
+---
+
+## What the L.A. Fires Are Doing to the City’s Air
+
+date: 2025-01-09, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwNjEyOS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4NTA1ODUyMX0.q0-Z6HACO_yD9gA9ia2aGAw7ANtCNe-KxSgOz1Ifzu8/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>Wildfires have been raging across Los Angeles County since Tuesday morning, but only in the past 24 hours or so has the city’s air quality begun to suffer. </p>
+<p>That’s because of the classic path of the Santa Ana winds, Alistair Hayden, a public health professor at Cornell who studies how wildfire smoke affects human health, told me. “Yesterday, it looked like the plumes [from the Palisades fire] were all blowing out to sea, which I think makes sense with the Santa Ana wind patterns blowing to the southwest,” Hayden said.</p>
+<p>But with the Eaton fire now raging near Pasadena, northeast of Los Angeles, the air quality across large swaths of the city is deteriorating, Hayden said. That’s because the winds are now carrying a smoke plume as they travel down to the coast. And the situation is still changing rapidly.</p>
+<p>At 6:30 p.m. Pacific time on Wednesday, the historic core of L.A. registered an air quality index of 105, according to <a href="https://fire.airnow.gov/" rel="noopener noreferrer" target="_blank"><u>the AirNow fire and smoke map</u></a>, part of the federal government’s national air quality index. Anything over 100 is considered unhealthy for sensitive groups such as asthmatics. In Pasadena and East Los Angeles, the AQI was in the high 180s, 190s, and even the low 200s, which ranks as “unhealthy” or “very unhealthy” for everyone. </p>
+<p>The AirNow map is a joint effort of the Interagency Wildland Fire Air Quality Response Program and the Environmental Protection Agency, incorporating smoke plume data from the National Oceanic and Atmospheric Administration’s satellites, Hayden said. </p>
+<p>It also shows readings from the EPA’s permanent air quality monitors set up across Los Angeles. And it includes data from cheaper, commercial sensors — from manufacturers such as <a href="https://www2.purpleair.com/?srsltid=AfmBOooex-1UiEhfSNt76wdBklaOw9whEVb4IC4ZjsoaNAIHzYmK4rIr" rel="noopener noreferrer" target="_blank"><u>PurpleAir</u></a> — that people can set up in their homes and backyards. The AirNow site also calibrates the data from those commercial sensors so that they can be more accurately compared to the government’s more robust and scientific air quality sensors. (Many websites that display the PurpleAir data do not calibrate the data in this way, he said, which can lead to faulty readings.)</p>
+<p>In recent years, wildfire smoke <a href="https://heatmap.news/sparks/los-angeles-wildfire-smoke-study" target="_self"><u>has become a major driver</u></a> of America’s air pollution.</p>
+<p>“We’ve been so successful that cleaning up our air through the Clean Air Act and other state-level activities that the air has been getting better for decades,” Hayden told me. “Now, with the growth of these huge wildfires emitting large amounts of pollution, that has undone some of the progress of all this awesome work over this past decade.</p>
+<p>“It’s amazing what we can do when we choose to do so,” he said. “But it shows there’s more work needed to be done of how do we protect communities from this current and growing threat of not just wildfires, but the smoke from those wildfires as well.”</p> 
+
+<br> 
+
+<https://heatmap.news/sparks/los-angeles-fires-smoke>
+
+---
+
+## What should you do if your health care claim has been denied?
+
+date: 2025-01-09, from: Market Place
+
+Patients may not know that they’re entitled to an appeal if they are denied care.
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/08/what-should-you-do-if-your-health-care-claim-has-been-denied/>
+
+---
+
+## Trump vows to undo Biden’s ban on offshore drilling
+
+date: 2025-01-09, from: VOA News USA
+
+President-elect Donald Trump says he will undo a sweeping new ban on offshore oil and gas drilling after he takes office on Jan. 20. President Joe Biden on Jan. 6 announced the prohibition covering most U.S. coastal waters. VOA’s Veronica Balderas Iglesias has more. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-vows-to-undo-biden-s-ban-on-offshore-drilling/7930488.html>
+
+---
+
+## Cities can’t be made fireproof, but they can be made fire-resilient
+
+date: 2025-01-08, from: Market Place
+
+As the California blazes demonstrate, the concentration of homes in urban areas raises risks and costs.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/08/cities-cant-be-made-fireproof-but-they-can-be-made-fire-resilient/>
 
 ---
 
@@ -66,6 +687,39 @@ date: 2025-01-08, from: Heatmap News
 
 ---
 
+## California’s Insurance Overhaul Came Too Late
+
+date: 2025-01-08, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUwMjY3Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4Mjc3NjQzOX0.QySLF5nwWwb7-RxfX-Lnrr6kbDtX0XhkSDC6GarEGgU/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
+	The massive wildfires in Pacific Palisades and Altadena in Southern California may deal a devastating blow to the state’s fragile home insurance market, which is in the midst of large-scale reforms as part of an effort to lure private insurers back to the state.
+</p><p>
+	In the years running up to yesterday’s, today’s, and <a href="https://www.latimes.com/california/story/2025-01-08/perilous-winds-will-continue-through-wednesday-fueling-destructive-l-a-fires" rel="noopener noreferrer" target="_blank"><u>likely tomorrow’s</u></a> fires, several home insurers <a href="https://www.nytimes.com/2023/06/04/business/allstate-insurance-california.html" rel="noopener noreferrer" target="_blank"><u>announced plans to stop writing new policies</u></a> in California, or <a href="https://www.latimes.com/business/story/2024-04-19/california-exodus-of-home-insurance-companies-continues" target="_blank"><u>even leave the state entirely</u></a>. The industry and many analysts blamed not just California’s famously hostile mix of dry vegetation, high winds, and scarce rains,<a href="https://www.bloomberg.com/news/articles/2024-03-21/why-insurance-rates-have-been-surging-in-california-and-florida" target="_blank"> </a>but also a rise in construction and reinsurance costs and a regulatory system that <a href="https://www.bloomberg.com/news/articles/2024-03-21/why-insurance-rates-have-been-surging-in-california-and-florida" target="_blank"><u>made it difficult</u></a> for insurers to raise rates or think prospectively about risk when setting rates.</p><p>
+	In other words, it was simply easier for insurers <a href="https://www.sfchronicle.com/california/article/home-insurance-nonrenewal-map-19589630.php" rel="noopener noreferrer" target="_blank"><u>to not renew policies</u></a> than it was for them to increase rates to better adjust for risk. Some of these <a href="https://x.com/PplsCityCouncil/status/1876904641830465923" target="_blank"><u>non-renewals occurred in the area now affected by the Eaton Fire</u></a> in Altadena, though they were <a href="https://www.sfchronicle.com/california/article/home-insurance-nonrenewal-map-19589630.php" target="_blank"><u>most prevalent</u></a> in the Bay Area and the Sierra Nevada foothills.</p><p>
+	In response, California’s insurance commissioner Ricardo Lara rolled out a set of reforms last year that<a href="https://www.insurance.ca.gov/0400-news/0100-press-releases/2024/release057-2024.cfm" target="_blank"> </a>tried to both <a href="https://www.insurance.ca.gov/0400-news/0100-press-releases/2024/release057-2024.cfm" rel="noopener noreferrer" target="_blank"><u>expand insurance in wildfire prone areas and lure insurers back to the state</u></a>. The new rules would allow insurers to use models to determine risk (not just historical data, as the law had previously been interpreted to allow) while also mandating that insurance companies operating in the state write policies in fire-prone areas as well as in those that are relatively safe. Lara then<a href="https://www.insurancejournal.com/news/west/2024/12/30/806461.htm" rel="noopener noreferrer" target="_blank"> </a>issued another rule late last year allowing insurers to <a href="https://www.insurancejournal.com/news/west/2024/12/30/806461.htm" rel="noopener noreferrer" target="_blank"><u>use the cost of reinsurance</u></a> in determining their rates, which insurers in the rest of the country <a href="https://www.capradio.org/articles/2024/12/30/california-will-soon-require-insurers-to-increase-home-coverage-in-wildfire-prone-areas/" rel="noopener noreferrer" target="_blank"><u>are allowed to do</u></a>.</p><p>
+	Allstate, which announced in November, 2022 that it would stop writing new home insurance policies in California, said last spring that it was considering a return to the state based on the possibility of <a href="https://www.insurancebusinessmag.com/us/news/catastrophe/allstate-says-it-is-considering-return-to-california-homeowners-insurance-market-486896.aspx" rel="noopener noreferrer" target="_blank"><u>models being allowed for ratemaking</u></a>. At the end of last year, partly in response to the reforms, Farmers also said that it would restart writing new policies for some lines of business in California, and that it would increase the number of new homeowners <a href="https://www.insurancejournal.com/news/west/2024/12/11/804458.htm" target="_blank"><u>insurance policies it writes every month</u></a> after <a href="https://www.insurancejournal.com/news/west/2023/07/07/729194.htm" target="_blank"><u>instituting limits in 2023</u></a>. Last week, <a href="https://www.insurancebusinessmag.com/us/news/catastrophe/verisk-submits-wildfire-model-under-new-ca-regulations-519343.aspx" target="_blank"><u>Verisk submitted a model</u></a> to project wildfire risk to the state for regulatory agency review for use in rate-setting.</p><p>
+	Consumer advocates have warned that these rules would lead to increases in insurance rates. So has Lara’s predecessor, Dave Jones, who has been skeptical of trying to grow the private insurance market by giving it more flexibility to set rates without addressing the core issues of climate change and fire management policy.
+</p><p>
+	“In the long term, we’re not going to be able to ‘rate increase’ ourselves out of this problem,” he said in an <a href="https://www.universityofcalifornia.edu/news/heres-why-you-cant-get-home-insurance-california" rel="noopener noreferrer" target="_blank"><u>interview with the University of California</u></a>, pointing to Florida’s insurance problems as an example, despite the flexibility that insurers have in setting rates there. “In the short-and mid-term for California, giving insurers proposed higher rates will get them to start writing new insurance again — although many homes in the wildland urban interface will continue to face challenges. But in the longer term, higher rates alone are likely to be overwhelmed by the higher risks and losses from climate change<em><em> — </em></em>just like in Florida.”
+</p><p>
+	Like Florida, California has a backup for the private market, an insurer of last resort. And, like Florida, it’s been trying to make it smaller, to little avail. It may now be so large as to place the rest of the state at financial risk.
+</p><p>
+	California’s FAIR Plan is a fire insurance pool that all property and casualty insurers operating in the state contribute to in proportion to how much business they have in the state; homeowners turn to FAIR when they can’t get insurance otherwise. As the state has experienced massive wildfires and insurers have pulled out, the size of the FAIR Plan has ballooned, with exposure rising to $458 billion in 2024 from $153 billion in 2020, <a href="https://www.cfpnet.com/about-fair-plan/" rel="noopener noreferrer" target="_blank"><u>even as it explicitly says</u></a> that its “goal is attrition” (i.e. getting customers back on normal insurance plans).</p><p>
+	“It’s a socialized cost,” Kate Gordon, the chief executive of California Forward, a policy nonprofit, and former advisor to Secretary of Energy Jennifer Granholm, told me. “We see more and more people switching to the FAIR plan. It’s getting massively oversubscribed. It’s going to hit some kind of wall at some point.”
+</p><p>
+	The communities with the most wildfire exposure for the insurer include vacation areas throughout the state such as Lake Arrowhead, Truckee, and Big Bear Lake, and affluent residential communities including Berkeley and the San Francisco suburb Orinda. They also include Pacific Palisades, the fifth most wildfire-exposed market for FAIR in Southern California, with some $5.9 billion of exposure.
+</p><p>
+	While the fires have yet to be substantially contained, let alone extinguished, and the damage has not yet been calculated, the still-raging fires will likely constitute a major hit to the FAIR Plan and California insurers. The number of residential FAIR policies in the Pacific Palisades zip code <a href="https://www.cfpnet.com/wp-content/uploads/2024/11/CFP5yearPIFGrowthbyzipcodethrough09302024(Residential%20line)20241112v001.pdf" target="_blank"><u>grew by over 80% between 2023 and 2024</u></a>, and has quadrupled since 2020. The total financial exposure for residential insurance in Pacific Palisades doubled in the past year, growing to almost $3 billion. In one zipcode affected by the fire in Altadena, residential FAIR plan policies grew by over 40% since 2020, with around $950 million of total exposure.</p><p>
+“As the risk of more climate change-intensified wildfires increases in California, a major wildfire in one geographical area concentrated with FAIR Plan-insured properties could overwhelm the FAIR Plan’s reserves and its capacity to quickly and fully pay consumers’ claims,” <a href="https://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/BULLETIN_2024-8__RE_INSURER_RECOUPMENT_PROCEDURES_IN_THE_HIGHLY_UNLIKELY_EVENT_OF_ASSESSMENT_BY_THE_FAIR_PLAN.pdf" rel="noopener noreferrer" target="_blank"><u>Lara wrote in a bulletin in September</u></a>.
+</p><p>Like other states with insurers of last resort, the FAIR Plan can seek cash from insurers — which could, <a href="https://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/BULLETIN_2024-8__RE_INSURER_RECOUPMENT_PROCEDURES_IN_THE_HIGHLY_UNLIKELY_EVENT_OF_ASSESSMENT_BY_THE_FAIR_PLAN.pdf" target="_blank"><u>if the losses are large enough</u></a>, extract “temporary supplemental fees from their own policyholders,” according to new California insurance regulations. This would mean that Californians who <em><em>were</em></em> able to buy private insurance — because they don’t live in a region of the state that insurers have abandoned — could be on the hook for massive wildfire losses. While such an assessment has not occurred since 1994, Victoria Roach, the FAIR Plan’s president, warned in a hearing before the State Assembly last March that a major fire <a href="https://www.paloaltoonline.com/blogs/a-new-shade-of-green/2024/03/31/wildfires-are-putting-your-insurance-at-risk-heres-why/" target="_blank"><u>could knock out the plan’s reserves</u></a> and force it to go to insurers — and their policyholders — to shell out for the difference.</p> 
+
+<br> 
+
+<https://heatmap.news/climate/los-angeles-fire-insurance-fair>
+
+---
+
 ## California grapples with the cost of a year-round fire season
 
 date: 2025-01-08, from: Market Place
@@ -106,47 +760,87 @@ The U.S. Energy Information Administration reports that pump prices on average w
 
 date: 2025-01-08, from: VOA News USA
 
-U.S. President Joe Biden on Wednesday approved a federal emergency declaration for California's wildfires that will release money and resources to battle the blazes. The president warned that area's recovery will take time. 
+U.S. President Joe Biden on Wednesday approved a federal emergency declaration for California that will release money and resources to battle the wildfires.
 
 
-The Los Angeles County Fire Department faced four life-threatening wildfires that have killed at least two people, burned more than 1,000 buildings, and forced tens of thousands of people to evacuate. 
+"We are prepared to do everything and anything, as long as it takes, to contain these fires and help reconstruct and make sure we get back to normal. It's gonna be a hell of a long way," Biden said. "It's gonna take time."
 
 
-"The L.A. County Fire Department was prepared for one or two major brush fires, but not four, especially given these sustained winds and low humidities," L.A. County Fire Chief Anthony C. Marrone said Wednesday. 
+The U.S. Defense Department said Wednesday that "it will work to provide additional firefighting personnel and capabilities" to California for its battle against the out-of-control fires.
 
 
-He said more than 2,000 hectares have burned and the fire is continuing to spread.  
+The total amount of damage from the wildfires could run between $52 billion and $57 billion or more in losses, according to an analysis by AccuWeather's Global Weather Center.
 
 
-"We have no percentage of containment," Marrone said. 
+The Los Angeles County Fire Department faced four life-threatening wildfires that have killed at least five people, burned more than 1,100 buildings, and forced tens of thousands of people to evacuate.
 
 
-
-
-Officials have warned residents to pay attention to evacuation orders and leave when directed. 
-
-
-Two thousand National Guard members have been deployed to help local firefighters. 
-
-
-In the Pacific Palisades, the fire jumped from one house to the next, pushed by hurricane-force winds. In the same area, firefighters said hydrants had run dry. 
-
-
-"We had a tremendous demand on our system in the Palisades, Janisse Quiñones, chief executive and chief engineer of the Los Angeles Department of Water and Power, said Wednesday. "We pushed the system to the extreme."
-
-
-The call for water was "four times the normal demand ... for 15 hours straight," she added. 
+"The L.A. County Fire Department was prepared for one or two major brush fires, but not four, especially given these sustained winds and low humidities," Los Angeles County Fire Chief Anthony Marrone said Wednesday. The fires erupted in Pacific Palisades, Altadena, Pasadena and Sylmar.
 
 
 
 
-Later Wednesday, support aircraft that had been grounded by the strong winds were airborne again, dropping water and fire retardant on the fire. 
+Thousands of hectares have burned, and the fire is continuing to spread.
 
 
-More than 400,000 homes and businesses are without power across Los Angeles, according to poweroutage.us. 
+"We have no percentage of containment," Marrone said.
 
 
-Washington is supporting California's firefighting efforts with four U.S. Forest Service large air tankers and an additional tanker in on route. The federal government has also helped the firefighting efforts with 10 helicopters. Meanwhile, dozens of the Forest Service fire engines are ready to be deployed.   
+Officials have warned residents to pay attention to evacuation orders and leave when directed.
+
+
+Two thousand National Guard members have been deployed to help local firefighters.
+
+
+Fire hydrants run dry
+
+
+In the Pacific Palisades, the fire jumped from one house to the next, pushed by hurricane-force winds. In the same area, firefighters said hydrants had run dry.
+
+
+"We had a tremendous demand on our system in the Palisades," Janisse Quiñones said Wednesday. Quiñones is the chief executive and chief engineer of the Los Angeles Department of Water and Power. "We pushed the system to the extreme."
+
+
+The call for water was "four times the normal demand ... for 15 hours straight," she added.
+
+
+
+
+Later Wednesday, support aircraft that had been grounded by the strong winds were airborne again, dropping water and fire retardant on the fire.
+
+
+The fire in the Pacific Palisades is the most destructive in the history of Los Angeles. With 1,000 structures burned to the ground, the Palisades fire surpasses the devastation of the 2008 Sayre Fire, which demolished 604 structures in a northern suburb of Los Angeles.
+
+
+At least 70,000 evacuation orders are in effect for the fires. Most of them were issued for Pacific Palisades.
+
+
+
+
+Three evacuation centers for people and 12 for animals have opened for those fleeing the fires, according to The Associated Press.
+
+
+The Pasadena Convention Center had several hundred evacuees by Wednesday afternoon, including many elderly people from assisted living facilities. Donald Fisher, 78, said he was wheeled into the center Wednesday morning.
+
+
+"I can stand up, but I can't walk," Fisher told the AP. "I think that the city of Pasadena did a marvelous job."
+
+
+EJ Soto and her family were not so lucky. They fled their Altadena home early Wednesday and also sought shelter at the Pasadena Convention Center, but by the time they arrived, all the cots had been taken.
+
+
+"I had one hour of sleep, so it's been a really bad, really bad day," Soto told the AP.
+
+
+
+
+Meanwhile, poweroutage.us reported that there were more than 1.5 million customers without power across Southern California on Wednesday afternoon, as firefighters continued to try to bring the fires under control.
+
+
+As a safety precaution, power companies will sometimes shut off the power when communities are battling extreme environmental conditions to prevent the equipment from sparking a fire.
+
+
+Washington is supporting California's firefighting efforts with four U.S. Forest Service large air tankers and an additional tanker in on route. The federal government has also helped the firefighting efforts with 10 helicopters. Meanwhile, dozens of the Forest Service fire engines are ready to be deployed.
 
 
 Some information in this report came from The Associated Press. 

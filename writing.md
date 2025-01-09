@@ -1,11 +1,39 @@
 ---
 title: writing
-updated: 2025-01-08 15:35:37
+updated: 2025-01-09 07:06:03
 ---
 
 # writing
 
-(date: 2025-01-08 15:35:37)
+(date: 2025-01-09 07:06:03)
+
+---
+
+## New Books, 1 January 2025
+
+date: 2025-01-09, from: Locus Magazine
+
+This week&#8217;s New Books can all be found at our Bookshop.org page, in support of your local bookstore.
+<p></p>
+<p>Feehan, Christine: <b>Dark Hope</b> (Penguin Random House/Berkley 9780593819609, $29, 432pp, formats: hardcover, ebook, audio, 01/07/2025)</p>
+<p>Paranormal romance novel, the 38th in the Carpathians series. Silke Vriese Reinders knows a war is coming. The demon slayer has seen it over and over again in the cards — and the battle won’t just be  <a href="https://locusmag.com/2025/01/new-books-1-january-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/new-books-1-january-2025/>
+
+---
+
+## Scriptnotes, Episode 669: They Ate Our Scripts, Transcript
+
+date: 2025-01-08, from: John August blog
+
+The original post for this episode can be found here. John August: Hello, and welcome. My name is John August. Craig Mazin: My name is Craig Mazin. John: You&#8217;re listening to episode 669 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, the revelation that many of [&#8230;]
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-669-they-ate-our-scripts-transcript">Scriptnotes, Episode 669: They Ate Our Scripts, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-669-they-ate-our-scripts-transcript>
 
 ---
 
