@@ -1,11 +1,87 @@
 ---
 title: writing
-updated: 2025-01-10 07:05:39
+updated: 2025-01-10 13:01:42
 ---
 
 # writing
 
-(date: 2025-01-10 07:05:39)
+(date: 2025-01-10 13:01:42)
+
+---
+
+## 2025 Philip K. Dick Award Nominees
+
+date: 2025-01-10, from: Locus Magazine
+
+<p>The 2025 Philip K. Dick Award finalists have been announced:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li class="normalfora" style="text-indent: 0in; text-align: left;"><b>City of Dancing Gargoyles</b>, Tara Campbell (Santa Fe Writers Project)</li>
+<li class="normalfora" style="text-indent: 0in; text-align: left;"><b>Your Utopia: Stories</b>, Bora Chung, translated by Anton Hur (Algonquin)</li>
+<li class="normalfora" style="text-indent: 0in; text-align: left;"><b>Time’s Agent</b>, Brenda Peynado (Tordotcom)</li>
+<li class="normalfora" style="text-indent: 0in; text-align: left;"><b>The Practice, the Horizon, and the Chain</b>, Sofia Samatar (Tordotcom)</li>
+<li class="normalfora" style="text-indent: 0in; text-align: left;"><b>Alien Clay</b>, Adrian Tchaikovsky (Orbit US)</li>
+<li class="normalfora" style="text-indent: 0in; text-align: left;"><b>Triangulum</b>, Subodhana Wijeyeratne (Rosarium)</li>
+</ul>
+<p>The award is presented annually to a distinguished work </p></div> <a href="https://locusmag.com/2025/01/2025-philip-k-dick-award-nominees/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/01/2025-philip-k-dick-award-nominees/>
+
+---
+
+## Compound Fracture by Andrew Joseph White: Review by Alex Brown
+
+date: 2025-01-10, from: Locus Magazine
+
+<p><strong>Compound Fracture</strong>, Andrew Joseph White (Peachtree Teen 978-1-68263-612-1, $19.99, 384pp, hc) September 2024.</p>
+<p>Teens fighting against the forces of empire or capitalism is a common theme in young adult fiction. Oftentimes, the teen protago­nist has a couple sidekicks and a love interest or two who help them wage battle, but it’s up to our hero to defeat the Big Bad and save the day. The empire or corporation is  <a href="https://locusmag.com/2025/01/compound-fracture-by-andrew-joseph-white-review-by-alex-brown/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/compound-fracture-by-andrew-joseph-white-review-by-alex-brown/>
+
+---
+
+## Featured Friday: Teachers
+
+date: 2025-01-10, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at teachers as characters; how they can drive the transformation of their students, what the profession can illuminate about the teacher, and how they’re forced to confront real issues every day. Our [&#8230;]
+The post <a href="https://johnaugust.com/2025/featured-friday-teachers">Featured Friday: Teachers</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/featured-friday-teachers>
+
+---
+
+## How ‘Squid Game’ Plays Against Expectations By Expanding Its World
+
+date: 2025-01-10, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-squid-game-plays-against-expectations-by-expanding-its-world" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Lee%20Jung-jae%20in%20Squid%20Game.png" alt="Lee Jung-jae in 'Squid Game'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Re-entering the <em>Squid Game</em> is both exhilarating and stressful. While we sit safely on our couches, Gi-hun (Lee Jung-jae) struggles to seek revenge against the game he remains trapped in—both literally and metaphorically.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-squid-game-plays-against-expectations-by-expanding-its-world>
+
+---
+
+## Dungeon Crawler Carl by Matt Dinniman: Review by Gabino Iglesias
+
+date: 2025-01-10, from: Locus Magazine
+
+<p><strong>Dungeon Crawler Carl</strong>, Matt Dinniman (Dandy House 979-8-6885-9150-7, $13.99, 400pp, tp) September 2020. (Ace 978-0-59382-024-7, $30.00, 464pp, hc) August 2024. Cover by George Towne.</p>
+<p><strong>Dungeon Crawler Carl </strong>is not really a book; it’s a long joke, a gimmick, a video game turned into fiction. The thing is, it works. It has spots where it is juvenile or a little slow, but author Matt Dinniman clearly had a blast writing  <a href="https://locusmag.com/2025/01/dungeon-crawler-carl-by-matt-dinniman-review-by-gabino-iglesias/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/dungeon-crawler-carl-by-matt-dinniman-review-by-gabino-iglesias/>
 
 ---
 

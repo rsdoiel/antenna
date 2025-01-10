@@ -1,11 +1,452 @@
 ---
 title: north america
-updated: 2025-01-10 07:05:37
+updated: 2025-01-10 13:01:40
 ---
 
 # north america
 
-(date: 2025-01-10 07:05:37)
+(date: 2025-01-10 13:01:40)
+
+---
+
+## Could More Controlled Burns Have Stopped the L.A. Fires?
+
+date: 2025-01-10, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUyNjc1Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3MDkxNzcwNn0.Zmh96slgFOOGBg7mujEkKWH8NaHV0XepZCDtdQJ-pM8/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Once the fires stop burning in Los Angeles and the city picks itself up from the rubble, the chorus of voices asking how such a disaster could have been prevented will rise. In California, the answer to that desperate query is so often “better forestry management practices,” and in particular “more controlled burns.” But that’s not always the full story, and in the case of the historically destructive L.A. fires, many experts doubt that prescribed burns and better vegetation management would have mattered much at all. </p><p>Controlled burns are intentionally set and supervised by land managers to clear out excess fuels such as shrubs, trees, and logs to reduce wildfire risk. Many habitats also require fire to thrive, and so ensuring they burn in a controlled manner is a win-win for natural ecosystems and the man-made environment. But controlled burns also pose a series of challenges. For one, complex permitting processes and restrictions around when and where burns are allowed can deter agencies from attempting them. Community backlash is also an issue, as residents are often concerned about air quality as well as the possibility of the prescribed fires spiraling out of control. Land management agencies also worry about the liability risks of a controlled burn getting out of hand.</p><p>Many of the state’s largest and most destructive fires — including the Camp Fire in 2018, lightning complex fires in 2020, and Dixie Fire in 2021 — started in forests, and would therefore have likely been severely curtailed had the state done more controlled burns. <a href="https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen" rel="noopener noreferrer" target="_blank"><u>According to ProPublica</u></a>, anywhere between 4.4 million and 11.8 million acres used to burn annually in prehistoric California. By 2017, overzealous fire suppression efforts driven by regulatory barriers and short-term risk aversion had caused that number to drop to 13,000 acres. While the state has increased the amount of prescribed fire in recent years, the backlog of fuel is enormous. </p><p>But the L.A. fires didn’t start or spread in a forest. The largest blaze, in the Pacific Palisades neighborhood, ignited in a chaparral environment full of shrubs that have been growing for about 50 years. Jon Keeley, a research scientist with the U.S. Geological Survey and an adjunct professor at the University of California, said that’s not enough time for this particular environment to build up an “unnatural accumulation of fuels.” </p><p>“That's well within the historical fire frequency for that landscape,” Keeley told my colleague, Emily Pontecorvo, for her reporting on <a href="https://heatmap.news/climate/what-started-los-angeles-fires" target="_self"><u>what started the fires</u></a>. Generally, he said, these chaparral environments <em><em>should</em></em> burn every 30 to 130 years, with coastal areas like Pacific Palisades falling on the longer end of that spectrum. “Fuels are not really the issue in these big fires — it's the extreme winds. You can do prescription burning in chaparral and have essentially no impact on Santa Ana wind-driven fires.” </p><p>We still don’t know what ignited the L.A. fires, and thus whether a human, utility, or other mysterious source is to blame. But the combination of factors that led to the blazes — wet periods that allowed for abundant vegetation growth followed by drought and intensely powerful winds — are simply a perilously bad combination. Firebreaks, strips of land where vegetation is reduced or removed, can often prove helpful, and they do exist in the L.A. hillsides. But as Matthew Hurteau, a professor at the University of New Mexico and director of the Center for Fire Resilient Ecosystems and Society, told me bluntly, “When you have 100-mile-an-hour winds pushing fire, there's not a hell of a lot that's going to stop it.” </p><p>Hurteau told me that he thinks of the primary drivers of destructive fires as a triangle, with fuels, climate, and the built environment representing the three points. “We're definitely on the built environment, climate side of that triangle for these particular fires around Los Angeles,” Hurteau explained, meaning that the wildland-urban interface combined with drought and winds are the primary culprits. But in more heavily forested, mountainous areas of Northern California, “you get the climate and fuels side of the triangle,” Hurteau said. </p><p>Embers can travel impressive distances in the wind, as <a href="https://www.youtube.com/watch?v=H4AU_U9YwlM" rel="noopener noreferrer" target="_blank"><u>evidenced</u></a> by <a href="https://abcnews.go.com/WNT/video/wildfire-jumps-highway-california-vehicles-catch-fire-32530675" rel="noopener noreferrer" target="_blank"><u>footage</u></a> of past fires jumping expansive freeways in Southern California. So, as Hurteau put it, “short of mowing whole hillsides down to nothing and keeping them that way,” there’s little vegetation management work to be done at the wildland-urban interface, where houses bump up against undeveloped lands. </p><p>Not everyone agrees, though. When I spoke to Susan Prichard, a fire ecologist and research scientist at the University of Washington School of Environmental and Forest Sciences, she told me that while prescribed burns close to suburban areas can be contentious and challenging, citizens can do a lot on their own to manage fuel risk. “Neighborhoods can come together and do the appropriate fuel reduction in and around their homes, and that makes a huge difference in wildfires,” she told me. “Landscaping in and around homes matters, even if you have 100-mile-an-hour winds with a lot of embers.”</p><p>Prichard recommends residents work with their neighbors to remove burnable vegetation and organic waste, and to get rid of so-called “ember traps” such as double fencing that can route fires straight to homes. Prichard <a href="https://sbfiresafecouncil.org/wp-content/uploads/2020/05/Kolden_Hensen_Case-Study_Thomas-Fire.pdf" rel="noopener noreferrer" target="_blank"><u>pointed to research </u></a>by Crystal Kolden, a “pyrogeographer” and associate professor at the University of California Merced, whose work focuses on understanding wildfire intersections with the human environment. Kolden has argued that proper vegetation management could have greatly lessened the impact of the L.A. fires. As she recently <a href="https://bsky.app/profile/pyrogeog.bsky.social/post/3lfd7jfszcr2l" rel="noopener noreferrer" target="_blank"><u>wrote on Bluesky</u></a>, “These places will see fire again. I have no doubt. But I also know that you can rebuild and manage the land so that next time the houses won't burn down. I've seen it work.” </p><p>Keeley pointed to the 2017 Thomas Fire in Ventura and Santa Barbara Counties, however, as an example of the futility of firebreaks and prescribed burns in extreme situations. That fire also ignited outside of what’s normally considered fire season, in December. “There were thousands of acres that had been prescribed burned near the eastern edge of that fire perimeter in the decade prior to ignition,” Keeley explained to Emily. “Once that fire was ignited, the winds were so powerful it just blew the embers right across the prescribed burn area and resulted in one of the largest wildfires that we've had in Southern California.” </p><p>Kolden, however, reads the Thomas Fire as a more optimistic story. As she wrote in a <a href="https://sbfiresafecouncil.org/wp-content/uploads/2020/05/Kolden_Hensen_Case-Study_Thomas-Fire.pdf" rel="noopener noreferrer" target="_blank"><u>case report on the fire</u></a> published in 2019, “Despite the extreme wind conditions and interviewee estimates of potentially hundreds of homes being consumed, only seven primary residences were destroyed by the Thomas Fire, and firefighters indicated that pre-fire mitigation activities played a clear, central role in the outcomes observed.” While the paper didn’t focus on controlled burns, mitigation activities discussed include reducing vegetation around homes and roads, as well as common-sense actions such as increasing community planning and preparedness, public education around fire safety, and arguably most importantly, adopting and enforcing fire-resistant building codes. </p><p>So while blaming decades of forestry mismanagement for major fires is frequently accurate, in Southern California the villains in this narrative can be trickier to pin down. Is it the fault of the winds? The droughts? The humans who want to live in beautiful but acutely fire-prone areas? The planning agencies that allow people to fulfill those risky dreams? </p><p>Prichard still maintains that counties and the state government can be doing a whole lot more to encourage fuel reduction. “That might not be prescribed burning, that might actually be ongoing mastication of some of the really big chaparral, so that It's not possible for really tall, developed, even senescent vegetation — meaning having a lot of dead material in it — to burn that big right next to homes.”</p><p>From Hurteau’s perspective though, far and away the most effective solution would be simply building structures to be much more fire-resilient than they are today. “Society has chosen to build into a very flammable environment,” Hurteau put it. California’s population has increased over 160% since the 1950’s, far outpacing the country overall and pushing development further and further out into areas that border forests, chaparral, and grasslands. “As people rebuild after what's going to be great tragedy, how do you reenvision the built environment so that this becomes less likely to occur in the future?”</p> 
+
+<br> 
+
+<https://heatmap.news/climate/los-angeles-controlled-burns>
+
+---
+
+## Biden administration extends temporary status for 4 nationalities
+
+date: 2025-01-10, from: VOA News USA
+
+MIAMI, FLORIDA — About 600,000 Venezuelans and more than 230,000 Salvadorans already living in the United States can legally remain another 18 months, the Department of Homeland Security said Friday, barely a week before President-elect Donald Trump takes office with promises of hard-line immigration policies.
+
+
+Biden's administration has strongly supported Temporary Protected Status, which he has expanded to cover about 1 million people. TPS faces an uncertain future under Trump, who tried to sharply curtail its use during his first term as president. Federal regulations would allow the extensions to be terminated early, although that's never been done before.
+
+
+Homeland Security also extended TPS for more than 103,000 Ukrainians and 1,900 Sudanese who are already living in the U.S.
+
+
+The TPS designation gives people legal authority to be in the country, but it doesn't provide a long-term path to citizenship. They are reliant on the government renewing their status when it expires. Conservative critics have said that over time, the renewal of the protection status becomes automatic, regardless of what is happening in the person's home country.
+
+
+
+
+Friday's announcement, which came as Venezuelan President Nicolas Maduro took office for a third six-year term in Caracas amid widespread international condemnation, is "based on the severe humanitarian emergency the country continues to face due to political and economic crises under the Maduro regime," the department said.
+
+
+Homeland Security cited "environmental conditions in El Salvador that prevent individuals from returning," specifically heavy rains and storms in the last two years.
+
+
+Congress created TPS in 1990 to prevent deportations to countries suffering from natural disasters or civil strife, giving people authorization to work in increments of up to 18 months at a time.
+
+
+About 1 million immigrants from 17 countries are protected by TPS, including people from Venezuela, Haiti, Honduras, Nicaragua, Afghanistan, Sudan, Ukraine and Lebanon. Venezuelans are one of the largest beneficiaries, and their extension runs from April 2025 to October 2, 2026.
+
+
+Salvadorans won TPS in 2001 after earthquakes rocked the Central American country. TPS for Salvadorans was to expire in March and was extended until Sept. 9, 2026.
+
+
+Trump and his running mate, JD Vance, suggested they would scale back the use of TPS and policies granting temporary status as they pursue mass deportations. During his first administration, Trump ended TPS for El Salvador but was held up in court.
+
+
+In recent months, advocates have increased pressure on the Biden administration to ask for TPS extensions for those who already have it and to protect people from other countries such as Guatemala and Ecuador.
+
+
+"This extension is just a small victory," said Felipe Arnoldo Diaz, an activist with the National TPS Alliance. "Our biggest concern is that after El Salvador, there are countries whose TPS are expiring soon and are being left out," such as Nepal, Nicaragua and Honduras.
+
+
+The money that Salvadorans send home is a major economic support for the Central American country, potentially complicating efforts to end TPS for the U.S. ally. Trump has had warm relations with Salvadoran President Nayib Bukele, who worked closely with him on preventing illegal immigration to the U.S. Remittances amount to about $7.5 billion a year.
+
+
+Bukele is immensely popular, largely because his heavy-handed security efforts have eviscerated the country's street gangs. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-administration-extends-temporary-status-for-4-nationalities/7932659.html>
+
+---
+
+## Donald Trump sentenced without penalties in New York court
+
+date: 2025-01-10, from: VOA News USA
+
+A New York judge Friday sentenced President-elect Donald Trump to an “unconditional discharge” over 34 felony counts of falsifying business records. The sentence spares him penalties but allows the convictions to stand. During sentencing, the president-elect again said the case was politically motivated. VOA senior Washington correspondent Carolyn Presutti reports. Contributor: Kim Lewis; Video editor: Rob Raffaele 
+
+<br> 
+
+<https://www.voanews.com/a/donald-trump-sentenced-without-penalties-in-new-york-court/7932512.html>
+
+---
+
+## Preventive action can’t avert wildfires but can save lives, meteorologists say
+
+date: 2025-01-10, from: VOA News USA
+
+GENEVA — The World Meteorlogical Organization says that preventive action cannot avert natural disasters such as the wildfires raging across Los Angeles, but that it can help save lives and mitigate loss of property.
+
+
+“Land management and prevention, regular clearing of underbrush play a key role in fire management, and evacuation plans are important in saving lives,” the WMO said Friday. “These are all part of effective early warning systems.”
+
+
+In a briefing to journalists in Geneva, Claire Nullis, a WMO spokesperson, stressed the importance of preparing adequate evacuation plans and early warning systems to prevent some of the worst impacts from a natural disaster.
+
+
+
+
+While acknowledging the staggering losses from the devastating wildfires sweeping across parts of Los Angeles in the United States this week, she said “The early warnings have, in this instance, been very, very good.
+
+
+“You know, people have been evacuated. It has been impossible to save houses, and the loss of life is still too high, but it has been kept to a relative minimum,” she said.
+
+
+Media reports say at least 10 people have been killed in this week's Southern California wildfires, although more bodies are expected to be found once the fires have been contained and searchers can go through the debris.
+
+
+More than 10,000 structures reportedly have burned, and 180,000 people are under evacuation orders.
+
+
+While California is no stranger to wildfires, the WMO calls this catastrophic event “extraordinary” in that it is affecting one of the largest cities in the United States.
+
+
+
+
+The WMO said that last year’s rainy season for the Los Angeles area as a whole was slightly above normal, but so far, this year it has been dry.
+
+
+“The big compounding factor in this context is the winds. … They cause temperatures to rise, and they cause very low humidity, drying out the ground and vegetation,” Nullis said.
+
+
+The WMO said destructive wildfires have been made worse by climate change.
+
+
+“Climate change, including increased heat, extended drought and a thirsty atmosphere, has been a key driver in increasing the risk and extent of wildfires in the western United States during the last decades,” it said, citing data from the U.S. National Oceanic and Atmospheric Administration.
+
+
+The WMO said wildfires require the alignment of a number of factors, including temperature, humidity and the lack of moisture in fuels such as trees, shrubs, grasses and forest debris.
+
+
+“All these factors have strong direct or indirect ties to climate variability and climate change,” it said.
+
+
+“Obviously, not every single weather-related disaster is due to climate change,” WMO spokesperson Nullis said. “Nobody would say that. But we get quite clear signals that climate change is exacerbating some of these disasters.”
+
+
+
+
+In addition to the loss of life and destruction of homes and other infrastructure that could total billions of dollars in insured losses, the World Health Organization warns that wildfires can have a significant impact on human morbidity and mortality.
+
+
+“Wildfire smoke, which is a mixture of air pollutants, of which particulate matter is of major concern as it can be full of PM 2.5. This is a very small particulate matter that gets right down into the lungs, and there certainly is a lot of it.” said Dr. Margaret Harris, a WHO spokesperson.
+
+
+“A lot of it is associated with premature death in the general population,” she said. “It can cause and exacerbate diseases of lung, heart, brain, the nervous system” and other illnesses.
+
+
+“It has been shown to lead to cognitive impairment and actually damage your intellectual capacity and lead to memory loss,” she said, adding that firefighters and emergency response workers “are most at risk from exposure to smoke.”
+
+
+The WHO estimates 4.2 million deaths globally are linked to ambient or outdoor air pollution, with 99% of the global population exposed to air pollution levels that exceed the WHO guideline level for fine particulate matter (PM 2.5).
+
+
+
+
+Harris said more research is needed to understand the long-term health effects of wildfire exposure on vulnerable populations, particularly children, older people, pregnant women and the chronically ill.
+
+
+“We expect that we will see this over and over again if we do not get what we are doing to the planet under control,” she said.
+
+
+Meanwhile, the World Meteorological Organization has officially confirmed that 2024 was the hottest year on record, “with a global mean temperature of more than 1.5 degrees above the 1850-1900 average.”
+
+
+“We have just endured the hottest decade on record, with 2024 topping the list,” U.N. Secretary-General Antonio Guterres said, noting that “blazing temperatures in 2024 require trailblazing climate action in 2025.”
+
+
+“There is still time to avoid the worst of climate catastrophe. But leaders must act now,” he said. 
+
+<br> 
+
+<https://www.voanews.com/a/preventive-action-can-t-avert-wildfires-but-can-save-lives-meteorologists-say/7932476.html>
+
+---
+
+## Why Misinformation About the L.A. Fires Keeps Spreading
+
+date: 2025-01-10, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUyNjQ3NC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3MzQwNzI3NH0.N8SqdKHMSpwkOD3AbWV47tS_TL2Io3Yn01z7f-u7oAo/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Almost no city in the country is destroyed more often than Los Angeles. America’s second-biggest city has been flattened, shaken, invaded, <a href="https://en.wikipedia.org/wiki/Volcano_(1997_film)" target="_blank"><u>subsumed by lava</u></a>, and calved off into the sea dozens of times on screen over the years; as the filmmaker and critic Thom Andersen has said, “Hollywood destroys Los Angeles because it’s there.”</p><p>But, understandably, when this destruction leaps from Netflix to a newscast, it’s an entirely different horror to behold. The L.A. County fires have now collectively burned an area more than twice the size of Manhattan; more than 10,000 businesses and homes that were standing last weekend are now ash. Officially, 10 people have died, but emergency managers have warned the public to brace for more. “It looks like an atomic bomb dropped in these areas. I don’t expect good news, and we’re not looking forward to those numbers,” Los Angeles County Sheriff Robert Luna said in <a href="https://www.reuters.com/business/environment/hollywood-hills-burn-la-engulfed-by-the-big-one-2025-01-09/" rel="noopener noreferrer" target="_blank"><u>a late Thursday press conference</u></a>.</p><p>The mind gropes for an explanation for this horror — and lands in bizarre places. Much has been made in the past few days of the rampant proliferation of conspiracy theories and rumors about the fires, ranging from the believable to the totally absurd. Alex Jones has <a href="https://slate.com/news-and-politics/2025/01/los-angeles-fires-elon-musk-alex-jones-conspiracy-theory-globalists.html" rel="noopener noreferrer" target="_blank"><u>claimed</u></a> the fires are part of a “globalist plot to wage economic warfare and deindustrialize the U.S.” (a theory incoming government official Elon Musk endorsed as “<a href="https://x.com/elonmusk/status/1877121563285217308" rel="noopener noreferrer" target="_blank"><u>true</u></a>”). <a href="https://x.com/lwoodhouse/status/1877089399676055788" rel="noopener noreferrer" target="_blank"><u>Libs of TikTok</u></a> and <a href="https://x.com/WUTangKids/status/1876982706933834132" rel="noopener noreferrer" target="_blank"><u>others</u></a> have said that the Los Angeles Fire Department’s hiring practices emphasizing diversity have left it strapped for personnel to fight the wildfires (Musk <a href="https://x.com/elonmusk/status/1877224004680843539" rel="noopener noreferrer" target="_blank"><u>endorsed</u></a> this one, too). President-elect Donald Trump has blamed California Gov. Gavin Newsom for the well-publicized occurrence of <a href="https://heatmap.news/climate/los-angeles-fires-water" target="_self"><u>dry fire hydrants</u></a>, citing a “water declaration resolution” that supposedly <a href="https://heatmap.news/climate/los-angeles-fires-water" target="_self"><u>limited firefighters’ access to water</u></a>, even though <a href="https://x.com/GovPressOffice/status/1877067195043221875" rel="noopener noreferrer" target="_blank"><u>such a thing doesn’t exist</u></a>. Still others have taken to TikTok to spread claims that the fires were <a href="https://www.tiktok.com/t/ZP8FkFNbH/" rel="noopener noreferrer" target="_blank"><u>intentionally started</u></a> to burn rapper and producer Sean “Diddy” Combs’ property and hide criminal evidence that could be used to support <a href="https://www.rollingstone.com/music/music-features/sean-diddy-combs-controversies-timeline-1234889043/" rel="noopener noreferrer" target="_blank"><u>sex trafficking and racketeering charges</u></a> against him (<a href="https://www.newsweek.com/sean-diddy-combs-home-path-palisades-fire-map-2011372" rel="noopener noreferrer" target="_blank"><u>another lie</u></a>). Mel Gibson even <a href="https://bsky.app/profile/profsanderlinden.bsky.social/post/3lffdiijr3k2k" rel="noopener noreferrer" target="_blank"><u>used the disaster</u></a> as an opportunity to share his thoughts about climate change on<em><em> The Joe Rogan Podcast </em></em>(spoiler alert: he doesn’t think it’s real), even as his house in Malibu <a href="https://www.hollywoodreporter.com/news/general-news/mel-gibson-wildfires-malibu-house-burned-down-joe-rogan-1236106022/" rel="noopener noreferrer" target="_blank"><u>burned to the ground</u></a>.</p><p>“We need some kind of explanation psychologically, especially if you’re not accustomed to that kind of thing happening,” Margaret Orr Hoeflich, a misinformation scholar, told me of how conspiracy theories spring up during disasters. She added that much of the rhetoric she’s seen — like that some cabal set the fires intentionally — has been used to “explain” other similar disasters, <a href="https://apnews.com/article/fact-check-hawaii-maui-wildfires-chile-dew-434395550756" rel="noopener noreferrer" target="_blank"><u>including the wildfire in Lahaina in 2023</u></a>. (“The Diddy one is really unique,” she allowed.)</p><p>It’s convenient to call this the coping mechanism of loons, bad actors, the far right, or people who want to promote a political agenda disingenuously, but left-leaning thinkers aren’t exempt. Posts blaming ChatGPT make important points about AI technologies’ energy and water use, but the <a href="https://www.thecut.com/article/is-chatgpt-ai-water-use-part-of-what-caused-the-wildfires.html#/" rel="noopener noreferrer" target="_blank"><u>fires aren’t “because” of ChatGPT</u></a>.</p><p>I’ve also seen the fires blamed on “forest management,” although the landscape around L.A. isn’t trees; it’s shrubland. “This kind of environment isn’t typically exposed to low intensity, deep, frequent fires creeping through the understory, like many dry forests of the Sierra Nevadas or even Eastern Oregon and Washington,” where <a href="https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen" rel="noopener noreferrer" target="_blank"><u>the U.S. Forest Service’s history of fire</u></a> has created the conditions for the high-intensity megafires of today, Max Moritz, a cooperative extension wildfire specialist at U.C. Santa Barbara’s Bren School of Environmental Science and Management, told me earlier this week. The shrublands around L.A., rather, “naturally have long-interval, high-intensity, stand-replacing fires” — that is, fires that level almost all vegetation in an area before new growth begins.</p><p>The fires in L.A. are extreme not so much because the landscape hasn’t been managed properly (not to mention that prescribed burns in the steep hillsides and suburbs are challenging and huge liabilities), but rather because we’ve built neighborhoods into a wildland that <a href="https://bsky.app/profile/pyrogeog.bsky.social/post/3lfd7je7gw22l" rel="noopener noreferrer" target="_blank"><u>has burned before and will burn again</u></a>. But unless your algorithm is tuned to the frequency of climate and weather models, you won’t necessarily find this more complicated narrative on social media.</p><p>We should also be precise in how we talk about climate change in relation to the fires. It’s true the fires have an excess of dry vegetative fuels after a wet winter and spring, which germinated lots of new green shoots, followed by a hot, dry summer and delayed start to the rainy season, which burned them to a crisp — classic “see-sawing” between extremes that you can expect to see as the planet warms. But droughts <a href="https://heatmap.news/guides/is-extreme-weather-climate-change#:~:text=The%20Oddballs-,Drought,-When%20I%20spoke" target="_self"><u>don’t always have a strong climate change signal</u></a>, and wildfires can be <a href="https://heatmap.news/guides/is-extreme-weather-climate-change#:~:text=of%20climate%20change.-,Wildfires,-WWA%20doesn%E2%80%99t%20specifically" target="_self"><u>tricky to attribute</u></a> to global warming definitively. Were the Los Angeles fires exacerbated by our decades of burning fossil fuels? It is pretty safe to say so! But right-wing narratives aren’t the only ones that benefit from an exaggerated posture of certainty.</p><p>To state what is hopefully obvious: Being overly confident in attributing a disaster to climate change is not equivalent to denying the reality of climate change, the latter being very much more wrong and destructive than the former. But it’s also true overall that humans, as a species, don’t like ambiguity. Though the careful work of <a href="https://heatmap.news/climate/what-started-los-angeles-fires" target="_self"><u>uncovering causes</u></a> and attributing them can take years, it’s natural to look for simple answers that confirm our worldviews or give us people to blame — especially in the face of a disaster that is <a href="https://heatmap.news/climate/los-angeles-burning" target="_self"><u>so unbelievably awful</u></a> and doesn’t have a clear end. If there’s a role for the creative mind during all of this, it’s not in jumping to logical extremes; it’s in looking forward, ambitiously and aggressively, to how we can rebuild and live better.</p><p>“There’s a lot of finger-pointing going around, and I would just try to emphasize that this is a really complex problem,” Faith Kearns, a water and wildfire researcher at Arizona State University, told me this week. “We have lots of different responsible parties. To me, what has happened requires more of a rethink than a blame game.”</p> 
+
+<br> 
+
+<https://heatmap.news/climate/los-angeles-fires-misinformation>
+
+---
+
+## US slaps new sanctions on Venezuelan officials as Maduro inaugurated
+
+date: 2025-01-10, from: VOA News USA
+
+WASHINGTON/HOUSTON, TEXAS — The United States imposed sanctions Friday on eight Venezuelan officials and increased to $25 million the reward it is offering for the arrest of President Nicolas Maduro. The actions came on the day of Maduro’s inauguration to a third term following a disputed election last year.
+
+
+It was the latest in a series of punitive steps by the outgoing Biden administration against Maduro's government in the aftermath of the July vote, which both his ruling Socialist party and the OPEC nation's opposition claim to have won.
+
+
+The new officials sanctioned include the recently appointed head of Venezuela's state oil company PDVSA, Hector Obregon, and Venezuela's transportation minister, Ramon Velasquez.
+
+
+The U.S. move coincided with sanctions announced by Britain and the European Union.
+
+
+Maduro and his aides have always rejected sanctions by the U.S. and others, saying they are illegitimate measures that amount to an "economic war" designed to cripple Venezuela. He and his allies have cheered what they say is the country’s resilience despite the measures, although they have historically blamed some economic hardships and shortages on sanctions.
+
+
+The country's electoral authority and top court claim Maduro, whose time in office has been marked by a deep economic and social crisis, won last year's presidential vote, although they have not published detailed tallies.
+
+
+The government, which has accused the opposition of fomenting fascist plots against it, said it will arrest opposition presidential candidate Edmundo Gonzalez should he return to the country from exile and has detained prominent opposition members and activists in the lead-up to the inauguration.
+
+
+The opposition says Gonzalez, 75, won in a landslide. It has published its own vote tallies as evidence, winning support from governments around the world, including the United States, who consider Gonzalez the president-elect. International election observers have said the vote was unfair.
+
+
+Maduro, 62, has been in power since 2013, and the new sanctions come little more than a week before U.S. President Joe Biden will end his term and be succeeded by Donald Trump on Jan. 20.
+
+
+In addition to the sanctions, the U.S. government increased to $25 million the reward it is offering for information leading to the arrest and conviction of Maduro, who has long faced U.S. drug trafficking charges. The reward was $15 million.
+
+
+Maduro has held onto power despite heavy pressure from successive U.S. administrations, retaining the support of Venezuela's military as well as China, Russia and Iran.
+
+
+The new measures had been in the works before the brief detention Thursday of opposition leader Maria Corina Machado following an anti-government march in Caracas, her first public appearance after months out of the public eye. 
+
+<br> 
+
+<https://www.voanews.com/a/us-slaps-new-sanctions-on-venezuelan-officials-as-maduro-inaugurated/7932377.html>
+
+---
+
+## US, Japan expand sanctions on Russia
+
+date: 2025-01-10, from: VOA News USA
+
+The U.S. and Japan Friday imposed new sanctions on Russia, in moves designed to constrain Russia’s ability to continue funding its war on Ukraine.
+
+
+The U.S. sanctions, imposed through the Treasury Department and announced simultaneously through the State Department and the White House, are aimed at reducing Russia’s revenue from energy production, and target two of Russia’s largest oil producers, Gazprom Neft and Surgutneftegas.
+
+
+Those sanctioned include more than 200 entities and individuals involved in Russia’s energy sector, including traders of Russian oil, Russia-based oilfield service providers, and Russian energy officials. The U.S. also designated 180 oil-carrying vessels as “blocked property.” Many are part of Russia’s “shadow fleet,” used to covertly transport Russian oil around the world.
+
+
+In a statement issued by the White House, deputy national security adviser Daleep Singh said, “These measures will collectively drain billions of dollars per month from the Kremlin’s war chest and, in doing so, intensify the costs and risks for Moscow to continue its senseless war.”
+
+
+Likewise, Japan’s Chief Cabinet Secretary Yoshimasa Hayashi announced Friday that Tokyo is freezing the assets of 33 organizations and 12 individuals, including a North Korean national, under the country’s foreign exchange and foreign trade law.
+
+
+An additional 53 organizations from Russia, China and other countries became subject to export bans and other measures. The cabinet secretary said Japan was taking the actions in response to North Korea’s support for the Russian war effort and Russia’s use of third nations to avoid previous sanctions.
+
+
+
+
+From his X social media account, Ukrainian President Volodymyr Zelenskyy expressed his gratitude and called both measures “a significant blow” to Russia’s ability to wage war.
+
+
+He said Japan’s measures will help “limit Russia’s access to critical microelectronics and [creates] additional obstacles for the production of missiles and drones.” Zelenskyy said the U.S. sanctions on Russia’s oil producing sector will disrupt Russia’s entire supply chain.
+
+
+“Such actions send a clear message: Criminals must pay for their crimes," Zelenskyy said. “The less revenue Russia earns from oil and other energy resources, the sooner peace will be restored."
+
+
+Moscow, naturally, had a different reaction. During a telephone news briefing Friday, Kremlin spokesperson Dmitry Peskov told reporters that through the sanctions, the outgoing Biden administration is trying “to leave behind the most toxic legacy possible when it comes to bilateral relations” between Russia and the United States.
+
+
+Peskov, referring to a new round of military aid approved by the U.S. and its European allies in the Ukraine Defense Contact Group on Thursday, also accused the outgoing Biden administration of trying to perpetuate the war in Ukraine before U.S. President-elect Donald Trump takes office.
+
+
+U.S. Secretary of State Antony Blinken announced Thursday that the United States will provide an additional $500 million in military aid to Ukraine.
+
+
+Some information for this report was provided by The Associated Press, Reuters and Agence France-Presse. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-levies-new-sanctions-against-russian-energy-sector-but-it-s-up-to-trump-whether-to-keep-them-/7932364.html>
+
+---
+
+## As thousands flee LA fires, disaster poses unique challenges for the unhoused
+
+date: 2025-01-10, from: Market Place
+
+There are roughly 75,000 people in Los Angeles experiencing homelessness, and those in the path of the fires face additional risks. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/10/los-angeles-wildfires-homeless-residents/>
+
+---
+
+## Jimmy Carter’s post-presidential legacy
+
+date: 2025-01-10, from: VOA News USA
+
+James Earl Carter Jr. served a single term as the 39th president of the United States, but despite his short tenure, he had the most extensive post-presidential career in U.S. history, lasting from 1981 until his death in 2024. 
+
+
+Carter was a peanut farmer before his presidency and placed the family farm in a blind trust when he took office. But it was heavily in debt when he returned, so Carter generated income through writing. He published more than 30 books from memoirs and nonfiction to children’s books and historical novels. 
+
+
+The first major achievement of Carter’s post-presidential career was the 1982 founding of The Carter Center, a nonprofit organization dedicated to promoting human rights.  
+
+
+The center would go on to operate a broad range of initiatives worldwide, often working with the United Nations. One of its most prominent roles has been election monitoring, having observed and produced reports on elections in 40 countries as a neutral organization unaffiliated with the U.S. government.  
+
+
+The Carter Center would also become known for its public health and agricultural assistance programs. Among these are ongoing efforts to combat river blindness and trachoma in developing nations by distributing medication and building toilet facilities. A major accomplishment has been the near-eradication of Guinea worm disease in Africa — the first such eradication achieved without any pharmaceuticals. 
+
+
+
+
+Carter himself continued to travel extensively to promote diplomatic efforts, both as a private citizen and as an unofficial negotiator for the United States. During the Ronald Reagan administration, he traveled to the Middle East to support the continuation of the Camp David Accords that his administration had brokered between Egypt and Israel, and he met with Israeli and Palestinian leaders to advance the peace process.  
+
+
+Carter helped to secure a temporary ceasefire during the Yugoslav Wars, and in 1994, went to North Korea at the request of President Bill Clinton to negotiate a treaty governing nuclear non-proliferation. He would later return to North Korea in 2010 to secure the release of Aijalon Gomes, an American citizen who had illegally crossed into the country. 
+
+
+Along with his wife, Rosalynn, Carter was also known for his work with Habitat for Humanity, an international charity dedicated to building affordable housing for low-income families around the world.  
+
+
+
+
+After first volunteering for the organization in 1984, the Carters launched an annual work project where they would personally participate alongside volunteers on a particular building site. Carter served on the organization’s board from 1984 to 1987. 
+
+
+Carter’s work in human rights and social justice has been widely praised and earned him the 1998 United Nations Prize in the Field of Human Rights, as well the 2002 Nobel Peace Prize, making him the third U.S. president to receive the honor.  
+
+
+However, Carter has also been criticized for alleged anti-Israel bias in his statements and writings on the Middle East, and for labeling Israel’s treatment of Palestinians as apartheid in his bestselling yet controversial 2006 book on the subject. 
+
+
+Carter was the longest-lived U.S. president, remaining active well into his 90s until his eventual death at 100. While his four-year presidency has often been considered a mediocre one by historians, his post-presidency set a standard that will be difficult to surpass. 
+
+<br> 
+
+<https://www.voanews.com/a/jimmy-carter-s-post-presidential-legacy-/7932304.html>
+
+---
+
+## How Climate Change Fueled Deadly Los Angeles Fires
+
+date: 2025-01-10, from: Capital and Main
+
+<p>A whipsaw swing from very wet to very dry weather exposed millions to flames, smoke and pollutants.</p>
+<p>The post <a href="https://capitalandmain.com/how-climate-change-fueled-deadly-los-angeles-fires">How Climate Change Fueled Deadly Los Angeles Fires</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/how-climate-change-fueled-deadly-los-angeles-fires>
+
+---
+
+## US added 256,000 jobs in December; unemployment rate dips to 4.1%
+
+date: 2025-01-10, from: VOA News USA
+
+WASHINGTON — U.S. hiring picked up unexpectedly in December as employers added a strong 256,000 jobs, another sign of the economy's resilience in the face of high interest rates. 
+
+
+Job growth rose 212,000 last month from November, the Labor Department reported Friday. 
+
+
+For all of 2024, the economy added 2.2 million jobs, a solid number but down from 3 million in 2023, 4.5 million in 2022 and a record 6.4 million in 2021 as the economy bounded back from massive pandemic layoffs. 
+
+
+The monthly numbers beat forecasters' expectations of around 155,000 new jobs and 4.2% unemployment. Health care companies added 46,000 jobs, retailers 43,000 and government agencies at the federal, state and local 33,000. But manufacturers cut 13,000 jobs. 
+
+
+Labor Department revisions shaved 8,000 jobs from October and November payrolls. 
+
+
+Average hourly wages rose 0.3% from November and 3.9% from a year earlier. The year-over-year wage gain was slightly less than economists had forecast. 
+
+
+Stocks fell Friday morning on the expectations that the strong jobs report will make the Federal Reserve less likely to cut interest rates. The economy doesn't seem to need help. "It seems pretty certain that the pace of Fed rate cuts is now going to slow down,” said Brian Coulton, chief economist at Fitch Ratings. 
+
+
+Getting a clear view of the U.S. job market hasn't been easy over the past few months. 
+
+
+Hurricanes and a big strike at Boeing threw off the October jobs numbers, pushing them down and setting up a payback rebound in November that likely exaggerated the strength of hiring. 
+
+
+Thomas Simons, chief U.S. economist at Jefferies, said that seasonal adjustments around the holidays may have affected the December numbers, but he added that nonetheless "it is hard to say anything negative about the details of this report.'' 
+
+
+Over the past few years, the economy and the job market have shown surprising resilience. Responding to inflation that hit a four-decade high two and a half years ago, the Fed raised its benchmark interest rate — the fed funds rate — 11 times in 2022 and 2023, taking it to the highest level in more than two decades. 
+
+
+The higher borrowing costs were widely expected to cause a recession but didn't. Companies kept hiring, consumers kept spending, and the economy kept rolling along. In fact, U.S. gross domestic product — the nation's output of goods and services — has expanded at a robust annual pace of 3% or more in four of the last five quarters. 
+
+
+Layoffs are running below the pre-pandemic trend. On Thursday, the Labor Department reported that 211,000 people applied for unemployment benefits last week, the fewest in nearly a year. 
+
+
+Inflation has come down, too, from a peak of 9.1% in June 2022 to 2.7% in November. The drop in year-over-year price increases gave the Fed enough confidence to cut rates three times in the last four months of 2024. 
+
+
+But Fed officials signaled at their December meeting that they planned to be more cautious about rate cuts this year. They now project just two rate reductions in 2025, down from the four they envisioned back in September. Progress against inflation has stalled in recent months, and it remains stuck above the Fed's 2% target. 
+
+<br> 
+
+<https://www.voanews.com/a/us-added-256-000-jobs-in-december-unemployment-rate-dips-to-4-1-/7932263.html>
+
+---
+
+## What Started the Fires in Los Angeles?
+
+date: 2025-01-10, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUxNzc3MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2ODk0NDc4OH0.O5seMWvranQeLDIE7cv2PyEvitcznDDu_w2Rv2FyImk/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
+	As Los Angeles continued to battle multiple big blazes ripping through some of the most beloved (and expensive) areas of the city on Friday, a question lingered in the background: What caused the fires in the first place?
+</p><p>
+	Though fires are less common in California during this time of the year, they aren’t unheard of. In early December 2017, power lines sparked the Thomas Fire near Ventura, California, which burned through to mid-January. At the time it was the largest fire in the state since at least the 1930s. Now <a href="https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/calfire-website/our-impact/fire-statistics/top-20-largest-ca-wildfires.pdf?rev=097f901c128347149e2614f2fca4f546&hash=27DDE83DFEF9A69E67C73765892A2B75" rel="noopener noreferrer" target="_blank"><u>it’s the ninth-largest</u></a>. Although that fire was in a more rural area, it ignited for some of the same reasons we’re seeing fires this week.
+</p><p>
+	Read on for everything we know so far about how the fires started.
+</p><h3>How many fires are burning in Los Angeles County and where are they?</h3><br/><p>
+	Six major fires started during the Santa Ana wind event this week:</p><ul><li>The Palisades Fire, in the Pacific Palisades, which has burned nearly 20,000 acres, started on Tuesday, January 7, around 10:30 a.m. Pacific time.</li><li>The Eaton Fire, north of Pasadena, which has burned about 13,600 acres, started on Tuesday just after 6:00 p.m.</li><li>The Hurst Fire, in the northern edge of the San Fernando Valley, which has burned about 770 acres, started on Tuesday night around 10:30 pm.</li><li>The Lidia Fire, in Acton, California, just north of Angeles National Forest, which has burned roughly 400 acres, started on Wednesday afternoon around 1:00 p.m.</li><li>The Sunset Fire, in the Hollywood Hills, which has burned about 43 acres, started on Wednesday night around 5:30 p.m. Evacuation orders lifted early Thursday morning, when the fire’s “forward progress has been stopped,” and crews were working to “put out hotspots within the fire perimeter and keep the wind from spreading embers,” <a href="https://x.com/PIOErikScott" target="_blank"><u>according to Los Angeles Fire Department Public Information Officer Erik Scott</u></a>.</li><li>The Kenneth Fire, in the hills above Calabasas, which burned about 960 acres, started on Thursday around 3:30 p.m.</li></ul><h3>How did the fires start?</h3><br/><p>Officials have not made any statements about the cause of any of the fires yet.</p><p>On Thursday morning, Edward Nordskog, a retired fire investigator from the Los Angeles Sheriff’s Department, told me it was unlikely they had even begun looking into the root of the biggest and most destructive of the fires in the Pacific Palisades. “They don't start an investigation until it's safe to go into the area where the fire started, and it just hasn't been safe until probably today,” he said.</p><p>It can take years to determine the cause of a fire. Investigators did not pinpoint the cause of the Thomas Fire until March 2019, more than two years after it started.</p><p>But Nordskog doesn’t think it will take very long this time. It’s easier to narrow down the possibilities for an urban fire because there are typically both witnesses and surveillance footage, he told me. He said the most common causes of wildfires in Los Angeles are power lines and those started by unhoused people. They can also be caused by sparks from vehicles or equipment.</p><h3>How do these fires compare to past fires in California?</h3><br/><p>At about 35,000 acres burned total, these fires are unlikely to make the charts for the <a href="https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/calfire-website/our-impact/fire-statistics/top-20-largest-ca-wildfires.pdf?rev=097f901c128347149e2614f2fca4f546&hash=27DDE83DFEF9A69E67C73765892A2B75" target="_blank"><u>largest in California history</u></a>. But because they are burning in urban, densely populated, and expensive areas, they could be some of the most devastating. With an <a href="https://www.latimes.com/california/live/pacific-palisades-fire-updates-los-angeles" rel="noopener noreferrer" target="_blank"><u>estimated 9,000 structures damaged</u></a> as of Friday morning, the Eaton and Palisades fires are likely to make the list for <a href="https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/calfire-website/our-impact/fire-statistics/top-20-destructive-ca-wildfires.pdf?rev=9e4974c273274858880c2dd28292a96f&hash=29E21CBFCE8D9885F606246607D21CEB" target="_blank"><u>most destructive wildfire events</u></a> in the state.</p><p>And they will certainly be at the top for costliest. The Palisades Fire has already been declared a likely contender for the <a href="https://www.bloomberg.com/news/newsletters/2025-01-09/the-costliest-fire-on-record-not-just-for-california" target="_blank"><u>most expensive wildfire in U.S. history</u></a>.  It has destroyed <a href="https://lafd.org/news/palisades-fire-0" rel="noopener noreferrer" target="_blank"><u>more than 5,000</u></a> structures in some of the most expensive zip codes in the country. Between that and the Eaton Fire, Accuweather estimates the damages could reach <a href="https://www.accuweather.com/en/blogs-webinars/california-wildfires-52-57b-damage-estimate-accuweather-report/1731718" rel="noopener noreferrer" target="_blank"><u>$57 billion</u></a>.</p><h3>Why are these fires so bad? Is it climate change?</h3><br/><p>
+	While we don’t know the root causes of the ignitions, several factors came together to create perfect fire conditions in Southern California this week.
+</p><p>
+	First, there’s the <a href="https://heatmap.news/guides/santa-ana-winds-climate-change" target="_self"><u>Santa Ana winds</u></a>, an annual phenomenon in Southern California, when very dry, high-pressure air gets trapped in the Great Basin and begins escaping westward through mountain passes to lower-pressure areas along the coast. Most of the time, the wind in Los Angeles blows eastward from the ocean, but during a Santa Ana event, it changes direction, picking up speed as it rushes toward the sea.
+</p><p>
+	Jon Keeley, a research scientist with the US Geological Survey and an adjunct professor at the University of California, Los Angeles told me that Santa Ana winds typically blow at maybe 30 to 40 miles per hour, while the winds this week hit upwards of 60 to 70 miles per hour. “More severe than is normal, but not unique,” he said. “We had similar severe winds in 2017 with the Thomas Fire.”
+</p><p>
+	Second, Southern California is currently in the midst of extreme drought. Winter is typically a rainier season, but Los Angeles has seen less than half an inch of rain since July. That means that all the shrubland vegetation in the area is bone-dry. Again, Keeley said, this was not usual, but not unique. Some years are drier than others.
+</p><p>
+	These fires were also not a question of fuel management, Keeley told me. “The fuels are not really the issue in these big fires. It's the extreme winds,” he said. “You can do prescription burning in chaparral and have essentially no impact on Santa Ana wind-driven fires.” As far as he can tell, <a href="https://www.fire.ca.gov/incidents/2025/1/7/eaton-fire/updates/b71f526e-4b91-4cdc-99cd-f5e19c80105f" target="_blank"><u>based on information from CalFire</u></a>, the Eaton Fire started on an urban street.
+</p><p>
+	While it’s likely that climate change played a role in amplifying the drought, it’s hard to say how big a factor it was. Patrick Brown, a climate scientist at the Breakthrough Institute and adjunct professor at Johns Hopkins University, published a long <a href="https://x.com/PatrickTBrown31/status/1877134442839310573" rel="noopener noreferrer" target="_blank"><u>post on X</u></a> outlining the factors contributing to the fires, including a <a href="https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/city/time-series/USW00023174/pcp/3/2/1895-2024?base_prd=true&begbaseyear=1991&endbaseyear=2020&trend=true&trend_base=10&begtrendyear=1975&endtrendyear=2024" rel="noopener noreferrer" target="_blank"><u>chart</u></a> of historic rainfall during the winter in Los Angeles that shows oscillations between wet and dry years over the past eight decades.
+</p><p>
+But climate change is expected to make dry years drier and wet years wetter, creating a “hydroclimate whiplash,” as Daniel Swain, a pre-eminent expert on climate change and weather in California puts it. In a <a href="https://bsky.app/profile/weatherwest.bsky.social/post/3lfdot3l5dm2o" target="_blank"><u>thread on Bluesky</u></a>, Swain wrote that “in 2024, Southern California experienced an exceptional episode of wet-to-dry hydroclimate whiplash.” Last year’s rainy winter fostered abundant plant growth, and the proceeding dryness primed the vegetation for fire.
+</p><p class=""><em>Editor’s note: This story was last update on Friday, January 10, at 10:00 a.m. ET.</em></p> 
+
+<br> 
+
+<https://heatmap.news/climate/what-started-los-angeles-fires>
 
 ---
 
@@ -26,56 +467,90 @@ date: 2025-01-10, from: Heatmap News
 
 ---
 
-## Trump will be sentenced in hush money case, days before his inauguration
+## Judge sentences Donald Trump in hush money case, no punishment imposed
 
 date: 2025-01-10, from: VOA News USA
 
-New York — In a singular moment in U.S. history, President-elect Donald Trump faces sentencing Friday for his New York hush money conviction after the nation's highest court refused to intervene.
+NEW YORK — President-elect Donald Trump was sentenced Friday in his hush money case, but the judge declined to impose any punishment, an outcome that cements his conviction but frees him to return to the White House unencumbered by the threat of a jail term or a fine.
 
 
-Like so much else in the criminal case and the current American political landscape, the scenario set to unfold in an austere Manhattan courtroom was unimaginable only a few years ago. A state judge is to say what consequences, if any, the country's former and soon-to-be leader will face for felonies that a jury found he committed.
+Trump’s sentence of an unconditional discharge caps a norm-smashing case that saw the former and future president charged with 34 felonies, put on trial for almost two months and convicted by a jury on every count. Yet, the legal detour — and sordid details aired in court of a plot to bury affair allegations — didn’t hurt him with voters, who elected him to a second term.
 
 
-With Trump 10 days from inauguration, Judge Juan M. Merchan has indicated he plans a no-penalty sentence called an unconditional discharge, and prosecutors aren't opposing it. That would mean no jail time, no probation and no fines would be imposed, but nothing is final until Friday's proceeding is done.
+Manhattan Judge Juan M. Merchan could have sentenced the 78-year-old Republican to up to four years in prison. Instead, he chose a sentence that sidestepped thorny constitutional issues by effectively ending the case but assured that Trump will become the first person convicted of a felony to assume the presidency.
 
 
-Regardless of the outcome, Trump, a Republican, will become the first person convicted of a felony to assume the presidency.
+Merchan said that, like when facing any other defendant, he must consider any aggravating factors before imposing a sentence, but the legal protection that Trump will have as president “is a factor that overrides all others.”
 
 
-Trump, who is expected to appear by video from his Mar-a-Lago club in Palm Beach, Florida, will have the opportunity to speak. He has pilloried the case, the only one of his four criminal indictments that has gone to trial and possibly the only one that ever will.
+“Despite the extraordinary breadth of those legal protections, one power they do not provide is that they do not erase a jury verdict," Merchan said.
 
 
-
-
-The judge has indicated that he plans the unconditional discharge — a rarity in felony convictions — partly to avoid complicated constitutional issues that would arise if he imposed a penalty that overlapped with Trump's presidency.
-
-
-The hush money case accused Trump of fudging his business' records to veil a $130,000 payoff to porn actor Stormy Daniels. She was paid, late in Trump's 2016 campaign, not to tell the public about a sexual encounter she maintains the two had a decade earlier. He says nothing sexual happened between them, and he contends that his political adversaries spun up a bogus prosecution to try to damage him.
-
-
-"I never falsified business records. It is a fake, made up charge," the Republican president-elect wrote on his Truth Social platform last week. Manhattan District Attorney Alvin Bragg, whose office brought the charges, is a Democrat.
-
-
-Bragg's office said in a court filing Monday that Trump committed "serious offenses that caused extensive harm to the sanctity of the electoral process and to the integrity of New York's financial marketplace."
+WATCH: Donald Trump sentenced without penalties in New York court 
 
 
 
 
-While the specific charges were about checks and ledgers, the underlying accusations were seamy and deeply entangled with Trump's political rise. Prosecutors said Daniels was paid off — through Trump's personal attorney at the time, Michael Cohen — as part of a wider effort to keep voters from hearing about Trump's alleged extramarital escapades.
+Trump, briefly addressing the court as he appeared virtually from his Florida home, said his criminal trial and conviction has “been a very terrible experience” and insisted he committed no crime.
+
+
+The Republican former president, appearing on a video feed 10 days before he is inaugurated, again pilloried the case, the only one of his four criminal indictments that has gone to trial and possibly the only one that ever will.
+
+
+“It’s been a political witch hunt. It was done to damage my reputation so that I would lose the election, and obviously, that didn’t work," Trump said.
+
+
+Trump called the case “a weaponization of government” and “an embarrassment to New York.”
+
+
+With Trump 10 days from inauguration, Merchan had indicated he planned a no-penalty sentence called an unconditional discharge, and prosecutors didn't oppose it.
+
+
+Prosecutors said Friday that they supported a no-penalty sentence, but they chided Trump's attacks on the legal system throughout and after the case.
+
+
+“The once and future president of the United States has engaged in a coordinated campaign to undermine its legitimacy,” prosecutor Joshua Steinglass said.
+
+
+Rather than show remorse, Trump has “bred disdain” for the jury verdict and the criminal justice system, Steinglass said, and his calls for retaliation against those involved in the case, including calling for the judge to be disbarred, "has caused enduring damage to public perception of the criminal justice system and has put officers of the court in harm’s way.”
+
+
+
+
+As he appeared from his Florida home, the former president was seated with his lawyer Todd Blanche, whom he’s tapped to serve as the second-highest ranking Justice Department official in his incoming administration.
+
+
+“Legally, this case should not have been brought,” Blanche said, reiterating Trump’s intention to appeal the verdict. That technically can’t happen until he’s sentenced.
+
+
+Trump, a Republican, becomes the first person convicted of a felony to assume the presidency.
+
+
+The judge had indicated that he planned the unconditional discharge — a rarity in felony convictions — partly to avoid complicated constitutional issues that would have arisen if he imposed a penalty that overlapped with Trump’s presidency.
+
+
+The hush money case accused Trump of fudging his business' records to veil a $130,000 payoff to porn actor Stormy Daniels. She was paid, late in Trump’s 2016 campaign, not to tell the public about a sexual encounter she maintains the two had a decade earlier. He says nothing sexual happened between them, and he contends that his political adversaries spun up a bogus prosecution to try to damage him.
+
+
+“I never falsified business records. It is a fake, made up charge,” the Republican president-elect wrote on his Truth Social platform last week. Manhattan District Attorney Alvin Bragg, whose office brought the charges, is a Democrat.
+
+
+Bragg's office said in a court filing Monday that Trump committed “serious offenses that caused extensive harm to the sanctity of the electoral process and to the integrity of New York’s financial marketplace.”
+
+
+While the specific charges were about checks and ledgers, the underlying accusations were seamy and deeply entangled with Trump’s political rise. Prosecutors said Daniels was paid off — through Trump's personal attorney at the time, Michael Cohen — as part of a wider effort to keep voters from hearing about Trump's alleged extramarital escapades.
 
 
 Trump denies the alleged encounters occurred. His lawyers said he wanted to squelch the stories to protect his family, not his campaign. And while prosecutors said Cohen's reimbursements for paying Daniels were deceptively logged as legal expenses, Trump says that's simply what they were.
 
 
-"There was nothing else it could have been called," he wrote on Truth Social last week, adding, "I was hiding nothing."
+“There was nothing else it could have been called,” he wrote on Truth Social last week, adding, “I was hiding nothing.”
 
 
 Trump's lawyers tried unsuccessfully to forestall a trial. Since his May conviction on 34 counts of falsifying business records, they have pulled virtually every legal lever within reach to try to get the conviction overturned, the case dismissed or at least the sentencing postponed.
 
 
-
-
-They have made various arguments to Merchan, New York appeals judges, and federal courts including the Supreme Court. The Trump attorneys have leaned heavily into assertions of presidential immunity from prosecution, and they got a boost in July from a Supreme Court decision that affords former commanders-in-chief considerable immunity.
+The Trump attorneys have leaned heavily into assertions of presidential immunity from prosecution, and they got a boost in July from a Supreme Court decision that affords former commanders-in-chief considerable immunity.
 
 
 Trump was a private citizen and presidential candidate when Daniels was paid in 2016. He was president when the reimbursements to Cohen were made and recorded the following year.
@@ -87,16 +562,13 @@ On one hand, Trump's defense argued that immunity should have kept jurors from h
 And after Trump won this past November's election, his lawyers argued that the case had to be scrapped to avoid impinging on his upcoming presidency and his transition to the Oval Office.
 
 
-Merchan, a Democrat, repeatedly postponed the sentencing, initially set for July. But last week, he set Friday's date, citing a need for "finality." He wrote that he strove to balance Trump's need to govern, the Supreme Court's immunity ruling, the respect due a jury verdict and the public's expectation that "no one is above the law."
+Merchan, a Democrat, repeatedly postponed the sentencing, initially set for July. But last week, he set Friday's date, citing a need for “finality.” He wrote that he strove to balance Trump's need to govern, the Supreme Court's immunity ruling, the respect due a jury verdict and the public’s expectation that "no one is above the law.”
 
 
 Trump's lawyers then launched a flurry of last-minute efforts to block the sentencing. Their last hope vanished Thursday night with a 5-4 Supreme Court ruling that declined to delay the sentencing.
 
 
-Meanwhile, the other criminal cases that once loomed over Trump have ended or stalled ahead of trial.
-
-
-After Trump's election, special counsel Jack Smith closed out the federal prosecutions over Trump's handling of classified documents and his efforts to overturn his 2020 election loss to Democrat Joe Biden. A state-level Georgia election interference case is locked in uncertainty after prosecutor Fani Willis was removed from it. 
+Meanwhile, the other criminal cases that once loomed over Trump have ended or stalled ahead of trial. 
 
 <br> 
 
@@ -108,7 +580,7 @@ After Trump's election, special counsel Jack Smith closed out the federal prosec
 
 date: 2025-01-10, from: VOA News USA
 
-Firefighters in Los Angeles battled flames for a fourth straight day Friday, trying to get control of wildfires that have destroyed thousands of homes and killed at least 10 people.
+Firefighters in Los Angeles battled flames for a fourth straight day Friday, trying to get the upper hand on wildfires that have destroyed thousands of homes and killed at least 10 people.
 
 
 Officials have warned the death toll, updated late Thursday, could increase once the multiple fires have been brought under control and workers can comb through the ruins.
@@ -117,15 +589,34 @@ Officials have warned the death toll, updated late Thursday, could increase once
 Firefighting operations continued overnight into Friday morning, with water-dropping helicopters taking advantage of a temporary lull in winds.
 
 
+The White House says President Joe Biden was to convene key officials Friday to discuss the federal government’s response to the wildfires.
 
 
-The White House says President Joe Biden will convene key officials Friday to discuss the federal government’s response to the wildfires.
+As of Friday morning, the largest blaze, the Palisades fire, was only 8% contained, according to the California Department of Forestry and Fire Protection. It has burned through more than 8,000 hectares of land.
+
+
+
+
+Meanwhile, the second-largest blaze, the Eaton fire, was 3% contained, according to the California Department of Forestry and Fire Protection. That one has burned through 5,000 hectares of land.
+
+
+The Palisades and Eaton fires already rank as the most destructive in Los Angeles history. Together, they have burned through about 85 square kilometers of land, and destroyed or damaged about 10,000 structures.
+
+
+"It looks like an atomic bomb dropped in these areas," Los Angeles County Sheriff Robert Luna said at a press conference late on Thursday.
+
+
 
 
 Biden told a White House briefing Thursday afternoon that federal resources and additional funding have been made available to California to fight the wildfires that he described as the "worst fires to ever hit Los Angeles."
 
 
 The money will be used, the president said, to cover all of the costs for 180 days for temporary shelters, the removal of hazardous materials, first responder salaries and measures to protect life.
+
+
+“I told the governor, local officials, spare no expense to do what they need to do and contain these fires,” Biden said Thursday.
+
+
 
 
 Vice President Kamala Harris, a former U.S. senator for California, also spoke at the briefing.
@@ -137,28 +628,39 @@ Harris described the situation in California as "apocalyptic" and "something tha
 The vice president has a home in an evacuation zone, but it was not immediately clear whether her house sustained any damage.
 
 
-
-
 Authorities said the wildfires burning in and around the city of Los Angeles have prompted the evacuation of nearly 180,000 people, destroyed thousands of homes and burned tens of thousands of hectares of land.
 
 
 "This is absolutely an unprecedented, historic firestorm," Los Angeles Mayor Karen Bass said.
 
 
+Bass has faced criticism for being absent from Los Angeles when the Palisades fire erupted Tuesday. She was in Ghana attending the inauguration of President John Dramani Mahama as part of a U.S. presidential delegation.
+
+
+Bass returned the following day. On Thursday, she highlighted the “unprecedented” nature of the fires and defended her leadership.
+
+
+“My focus right now is on the lives and the homes,” Bass said.
+
+
+
+
 At a news briefing Thursday, Los Angeles city and county officials provided an update on the fires and the efforts to bring them under control.
-
-
 
 
 Los Angeles Fire Chief Kristin Crowley told reporters the fierce winds that had driven the fires calmed enough to allow firefighters to increase containment and air operations to resume.
 
 
-The California Department of Forestry and Fire Protection said it is fighting five active wildfires in the Los Angeles area: the Palisades, Eaton, Hurst, Lidia and Sunset fires, with the Palisades and Eaton fires being the largest.
+The California Department of Forestry and Fire Protection is fighting five active wildfires in the Los Angeles area: the Palisades, Eaton, Hurst, Lidia and Kenneth fires, with the Palisades and Eaton fires being the largest.
 
 
-The sparking of a sixth fire — the Kenneth wildfire, near Woodland Hills — was announced Thursday.
+As of Friday morning, the Kenneth fire was 35% contained, according to the California Department of Forestry and Fire Protection.
 
 
+The Hurst fire was 37% contained, and the Lidia fire was 75% contained, according to the California Department of Forestry and Fire Protection.
+
+
+Los Angeles firefighters achieved 100% containment of the Sunset fire on Thursday. That fire triggered mandatory evacuation orders in Hollywood and the Hollywood Hills.
 
 
 Some people are apparently preying on the devastated neighborhoods, and at least 20 people have been arrested in recent days for looting.
@@ -167,16 +669,21 @@ Some people are apparently preying on the devastated neighborhoods, and at least
 "I promise you, you will be held accountable," Los Angeles Supervisor Kathryn Barger said at a press conference Thursday.
 
 
-"Shame on those who are preying on our residents during this time of crisis," Barger said, according to The Los Angeles Times. 
+"Shame on those who are preying on our residents during this time of crisis," Barger said, according to The Los Angeles Times.
+
+
+
+
+Meanwhile, California’s insurance commissioner has blocked insurance companies from canceling or not renewing the policies of customers in the areas of the Palisades and Eaton fires for a one-year period. Concerns have increased that this week’s fires could hasten the flow of insurers out of California.
 
 
 Los Angeles County Sheriff Robert Luna said the Palisades, Eaton, Hurst and Lidia fires have prompted the evacuation of nearly 180,000 residents, and another 200,000 residents are under evacuation orders.
 
 
-Fire Chief Crowley called the Palisades fire alone "one of the most destructive natural disasters in the history of Los Angeles." Officials said Thursday that more than 5,000 homes and other structures have been lost in Palisades.
+Fire Chief Crowley called the Palisades fire alone "one of the most destructive natural disasters in the history of Los Angeles."
 
 
-Some information for this report came from The Associated Press and Reuters. 
+Fern Robinson and Chris Hannas contributed to this report. Some information for this report came from The Associated Press and Reuters. 
 
 <br> 
 
@@ -462,7 +969,7 @@ Republicans won a narrow majority in both the Senate and the House of Representa
 
 date: 2025-01-09, from: Market Place
 
-Rita Magalde moved her bakery, Sheer Ambrosia, out of her home into a commercial kitchen about a year ago, meaning she&#8217;s now completed her first holiday busy season there. &#8220;It started off a little slow at the beginning of November, so I thought oh my gosh what am I gonna do?&#8221; she said. &#8220;And then [&#8230;] 
+Rita Magalde, owner of Sheer Ambrosia, just completed her first holiday season in a commercial kitchen space. 
 
 <br> 
 
@@ -730,26 +1237,6 @@ She noted that Carter spent years as a proud Washington outsider and skipped the
 <br> 
 
 <https://www.voanews.com/a/carter-funeral-brings-together-1-current-4-ex-presidents-to-honor-one-of-their-own/7931345.html>
-
----
-
-## What Started the Fires in Los Angeles?
-
-date: 2025-01-09, from: Heatmap News
-
-
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUxNzc3MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2ODk0NDc4OH0.O5seMWvranQeLDIE7cv2PyEvitcznDDu_w2Rv2FyImk/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
-	As Los Angeles continued to battle multiple big blazes ripping through some of the most beloved (and expensive) areas of the city on Thursday, a question lingered in the background: What caused the fires in the first place?
-</p><p>
-	Though fires are less common in California during this time of the year, they aren’t unheard of. In early December 2017, power lines sparked the Thomas Fire near Ventura, California, which burned through to mid-January. At the time it was the largest fire in the state since at least the 1930s. Now <a href="https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/calfire-website/our-impact/fire-statistics/top-20-largest-ca-wildfires.pdf?rev=097f901c128347149e2614f2fca4f546&hash=27DDE83DFEF9A69E67C73765892A2B75" rel="noopener noreferrer" target="_blank"><u>it’s the ninth-largest</u></a>. Although that fire was in a more rural area, it ignited for some of the same reasons we’re seeing fires this week.
-</p><p>
-	Read on for everything we know so far about how the fires started.
-</p><h3>How many fires are burning in Los Angeles County and where are they?</h3><br/><p>
-	Five major fires started during the Santa Ana wind event this week:</p><ul><li>The Palisades Fire, in the Pacific Palisades, which has burned roughly 17,000 acres, started on Tuesday, January 7, around 10:30 a.m. Pacific time.</li><li>The Eaton Fire, north of Pasadena, which has burned about 10,600 acres, started on Tuesday just after 6:00 p.m.</li><li>The Hurst Fire, in the northern edge of the San Fernando Valley, which has burned about 850 acres, started on Tuesday night around 10:30 pm.</li><li>The Lidia Fire, in Acton, California, just north of Angeles National Forest, which has burned roughly 350 acres, started on Wednesday afternoon around 1:00 p.m.</li><li>The Sunset Fire, in the Hollywood Hills, which has burned about 43 acres, started on Wednesday night around 5:30 p.m. Evacuation orders lifted early Thursday morning, when the fire’s “forward progress has been stopped,” and crews were working to “put out hotspots within the fire perimeter and keep the wind from spreading embers,” <a href="https://x.com/PIOErikScott" target="_blank"><u>according to Los Angeles Fire Department Public Information Officer Erik Scott</u></a>.</li></ul><h3>How did the fires start?</h3><br/><p>Officials have not made any statements about the cause of any of the fires yet.</p><p>On Thursday morning, Edward Nordskog, a retired fire investigator from the Los Angeles Sheriff’s Department, told me it was unlikely they had even begun looking into the root of the biggest and most destructive of the fires in the Pacific Palisades. “They don't start an investigation until it's safe to go into the area where the fire started, and it just hasn't been safe until probably today,” he said.</p><p>It can take years to determine the cause of a fire. Investigators did not pinpoint the cause of the Thomas Fire until March 2019, more than two years after it started.</p><p>But Nordskog doesn’t think it will take very long this time. It’s easier to narrow down the possibilities for an urban fire because there are typically both witnesses and surveillance footage, he told me. He said the most common causes of wildfires in Los Angeles are power lines and those started by unhoused people. They can also be caused by sparks from vehicles or equipment.</p><h3>How do these fires compare to past fires in California?</h3><br/><p>At about 27,000 acres burned, these fires are unlikely to make the charts for the <a href="https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/calfire-website/our-impact/fire-statistics/top-20-largest-ca-wildfires.pdf?rev=097f901c128347149e2614f2fca4f546&hash=27DDE83DFEF9A69E67C73765892A2B75" target="_blank"><u>largest in California history</u></a>. But because they are burning in urban, densely populated, and expensive areas, they could be some of the most devastating. With an <a href="https://www.latimes.com/california/story/2025-01-08/fire-weather-fierce-winds-los-angeles" target="_blank"><u>estimated 2,000 structures damaged</u></a> so far, the Eaton and Palisades fires are likely to make the list for <a href="https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/calfire-website/our-impact/fire-statistics/top-20-destructive-ca-wildfires.pdf?rev=9e4974c273274858880c2dd28292a96f&hash=29E21CBFCE8D9885F606246607D21CEB" target="_blank"><u>most destructive wildfire events</u></a> in the state.</p><p>And they will certainly be at the top for costliest. The Palisades Fire has already been declared a likely contender for the <a href="https://www.bloomberg.com/news/newsletters/2025-01-09/the-costliest-fire-on-record-not-just-for-california" target="_blank"><u>most expensive wildfire in U.S. history</u></a>. It has destroyed more than 1,000 structures in some of the most expensive zip codes in the country. Between that and the Eaton Fire, Accuweather estimates the damages could reach <a href="https://www.accuweather.com/en/blogs-webinars/california-wildfires-52-57b-damage-estimate-accuweather-report/1731718" rel="noopener noreferrer" target="_blank"><u>$57 billion</u></a>.</p><h3>Why are these fires so bad? Is it climate change?</h3><br/><p>While we don’t know the root causes of the ignitions, several factors came together to create perfect fire conditions in Southern California this week.</p><p>First, there’s the <a href="https://heatmap.news/guides/santa-ana-winds-climate-change" target="_self"><u>Santa Ana winds</u></a>, an annual phenomenon in Southern California, when very dry, high-pressure air gets trapped in the Great Basin and begins escaping westward through mountain passes to lower-pressure areas along the coast. Most of the time, the wind in Los Angeles blows eastward from the ocean, but during a Santa Ana event, it changes direction, picking up speed as it rushes toward the sea.</p><p>Jon Keeley, a research scientist with the US Geological Survey and an adjunct professor at the University of California, Los Angeles told me that Santa Ana winds typically blow at maybe 30 to 40 miles per hour, while the winds this week hit upwards of 60 to 70 miles per hour. “More severe than is normal, but not unique,” he said. “We had similar severe winds in 2017 with the Thomas Fire.”</p><p>Second, Southern California is currently in the midst of extreme drought. Winter is typically a rainier season, but Los Angeles has seen less than half an inch of rain since July. That means that all the shrubland vegetation in the area is bone-dry. Again, Keeley said, this was not usual, but not unique. Some years are drier than others.</p><p>These fires were also not a question of fuel management, Keeley told me. “The fuels are not really the issue in these big fires. It's the extreme winds,” he said. “You can do prescription burning in chaparral and have essentially no impact on Santa Ana wind-driven fires.” As far as he can tell, <a href="https://www.fire.ca.gov/incidents/2025/1/7/eaton-fire/updates/b71f526e-4b91-4cdc-99cd-f5e19c80105f" target="_blank"><u>based on information from CalFire</u></a>, the Eaton Fire started on an urban street.</p><p>While it’s likely that climate change played a role in amplifying the drought, it’s hard to say how big a factor it was. Patrick Brown, a climate scientist at the Breakthrough Institute and adjunct professor at Johns Hopkins University, published a long <a href="https://x.com/PatrickTBrown31/status/1877134442839310573" rel="noopener noreferrer" target="_blank"><u>post on X</u></a> outlining the factors contributing to the fires, including a <a href="https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/city/time-series/USW00023174/pcp/3/2/1895-2024?base_prd=true&begbaseyear=1991&endbaseyear=2020&trend=true&trend_base=10&begtrendyear=1975&endtrendyear=2024" rel="noopener noreferrer" target="_blank"><u>chart</u></a> of historic rainfall during the winter in Los Angeles that shows oscillations between very wet and very dry years over the past eight decades. But climate change is expected to make dry years drier in Los Angeles. “The LA area is about 3°C warmer than it would be in preindustrial conditions, which (all else being equal) works to dry fuels and makes fires more intense,” Brown wrote.</p> 
-
-<br> 
-
-<https://heatmap.news/climate/what-started-los-angeles-fires>
 
 ---
 

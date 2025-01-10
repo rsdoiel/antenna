@@ -1,11 +1,263 @@
 ---
 title: science and technology
-updated: 2025-01-10 07:05:38
+updated: 2025-01-10 13:01:41
 ---
 
 # science and technology
 
-(date: 2025-01-10 07:05:38)
+(date: 2025-01-10 13:01:41)
+
+---
+
+## NASA Awards 2025 Innovative Technology Concept Studies
+
+date: 2025-01-10, from: NASA breaking news
+
+NASA selected 15 visionary ideas for its NIAC (NASA Innovative Advanced Concepts) program which develops concepts to transform future missions for the benefit of all. Chosen from companies and institutions across the United States, the&#160;2025 Phase I awardees represent a wide range of aerospace concepts. The NIAC program nurtures innovation by funding&#160;early-stage technology concept studies [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-2025-innovative-technology-concept-studies/>
+
+---
+
+## Tongue-zapping spoons, tea-cooling catbots, lazy vacuums and more from CES
+
+date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
+
+<h4>All the consumer electronics weirdness you didn&#39;t want to see in person anyway</h4> <p><strong>CES</strong>  As the gadget-filled spectacle that CES draws to a close, there&#39;s much to anticipate and just as much that leaves us completely baffled.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/10/ces_weird_gadgets/>
+
+---
+
+## Medieval Crowns and Scepters Discovered Hidden Inside the Walls of a Crypt Beneath a Lithuanian Cathedral
+
+date: 2025-01-10, from: Smithsonian Magazine
+
+The royal treasures were stashed away at the beginning of World War II. Experts knew the trove existed, but previous attempts to find it had failed 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/medieval-crowns-and-scepters-discovered-hidden-inside-the-walls-of-a-crypt-beneath-a-lithuanian-cathedral-180985807/>
+
+---
+
+## NASA Sets Coverage for Firefly First Commercial Robotic Moon Launch
+
+date: 2025-01-10, from: NASA breaking news
+
+Carrying NASA science and technology to the Moon as part of the agency’s CLPS (Commercial Lunar Payload Services) initiative and Artemis campaign, Firefly Aerospace’s Blue Ghost Mission 1 is targeting launch Wednesday, Jan. 15. The mission will lift off on a SpaceX’s Falcon 9 rocket from Launch Complex 39A at the agency’s Kennedy Space Center [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-sets-coverage-for-firefly-first-commercial-robotic-moon-launch/>
+
+---
+
+## NIAC 2025 Selections
+
+date: 2025-01-10, from: NASA breaking news
+
+Phase I Phillip AnsellHydrogen Hybrid Power for Aviation Sustainable Systems (Hy2PASS)University of IllinoisUrbana, IL 61801-29572025 Phase I Ryan BensonConstruction Assembly DestinationThinkOrbital Inc.Boulder, CO 80303-00012025 Phase I Martin BermudezLunar Glass Structure (LUNGS): Enabling Construction of Monolithic Habitats in Low-Gravity EnvironmentSkyeports LLCSacramento, CA 95811-00012025 Phase I Christine GreggDynamically Stable Large Space Structures via Architected MetamaterialsNASA Ames Research [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/niac/niac-2025-selections/>
+
+---
+
+## LEAP – Legged Exploration Across the Plume
+
+date: 2025-01-10, from: NASA breaking news
+
+Justin YimUniversity of Illinois We propose Legged Exploration Across the Plume (LEAP), based on the Salto jumping robot as a novel multi-jet robotic sampling concept for Enceladus to be deployed from Enceladus Orbilander. If successful, LEAP will enable collection of pristine, ocean-derived material directly from Enceladus&#8217;s jets and measurement of particle properties across multiple jets [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/niac/leap-legged-exploration-across-the-plume/>
+
+---
+
+## Fusion-Enabled Comprehensive Exploration of the Heliosphere
+
+date: 2025-01-10, from: NASA breaking news
+
+Ryan WeedHelicity Space LLC This proposal aims to revolutionize space exploration by developing a constellation of spacecraft powered by the Helicity Drive, a compact and scalable fusion propulsion system. This innovative technology will enable rapid, multi-directional exploration of the heliosphere and beyond, providing unprecedented insights into the Sun&#8217;s vast influence on our solar system and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/niac/fusion-enabled-comprehensive-exploration-of-the-heliosphere/>
+
+---
+
+## Beholding Black Hole Power with the Accretion Explorer Interferometer
+
+date: 2025-01-10, from: NASA breaking news
+
+Kimberly WeaverNASA Goddard Space Flight Center Some of the most enigmatic objects in the Universe are giant supermassive black holes (SMBH). Yet after 30 years of study, we don&#8217;t know precisely how these objects produce their power. This requires observations at X-ray wavelengths. The state-of-the-art for X-ray images is Chandra (~0.5-1 arcsecond resolution) but this [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/niac/beholding-black-hole-power-with-the-accretion-explorer-interferometer/>
+
+---
+
+## Thermo-Photo-Catalysis of Water for Crewed Mars Transit Spacecraft Oxygen Supply
+
+date: 2025-01-10, from: NASA breaking news
+
+Saurabh VilekarPrecision Combustion Precision Combustion, Inc. (PCI) proposes to develop a uniquely compact, lightweight, low-power, and durable Microlith® Thermo-Photo-Catalytic (TPC) Reactor for crewed Mars transit spacecraft O2 supply. As crewed space exploration mission destinations move from low Earth orbit to sustained lunar surface habitation toward Mars exploration, the need becomes more intense to supplant heritage [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/niac/thermo-photo-catalysis-of-water-for-crewed-mars-transit-spacecraft-oxygen-supply/>
+
+---
+
+## SUPREME-QG: Space-borne Ultra-Precise Measurement of the Equivalence Principle Signature of Quantum Gravity
+
+date: 2025-01-10, from: NASA breaking news
+
+Selim ShahriarNorthwestern University, Evanston Progress in physics has largely been driven by the development and verification of new theories that unify different fundamental forces of nature. For example, Maxwell revolutionized physics with his unified theory of electricity and magnetism, and the Standard Model of particle physics provides a consistent description of all fundamental forces (electromagnetic, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/niac/supreme-qg-space-borne-ultra-precise-measurement-of-the-equivalence-principle-signature-of-quantum-gravity/>
+
+---
+
+## PULSAR: Planetary pULSe-tAkeR
+
+date: 2025-01-10, from: NASA breaking news
+
+Marco QuadrelliNASA Jet Propulsion Laboratory There is a strong coupling mechanism between the lithosphere, ionosphere, magnetosphere, atmosphere, and the plasmasphere of many planetary bodies. For example, the ionosphere has been shown to respond to space weather events induced by Solar activity, as well as to atmospheric events, and events in the surface and interior of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/niac/pulsar-planetary-pulse-taker/>
+
+---
+
+## Inflatable Starshade for Earthlike Exoplanets
+
+date: 2025-01-10, from: NASA breaking news
+
+John MatherNASA Goddard Space Flight Center We will design the first family of ISEE&#8217;s (Inflatable Starshade for Earthlike Exoplanets) with sizes from 35 to 100 m diameter. A starshade would enable any telescope to observe exoplanets, a top priority for astronomy worldwide. Compared with other starshade concepts, we aim for a lower mass, cost and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/niac/inflatable-starshade-for-earthlike-exoplanets/>
+
+---
+
+## Scientists Drill 1.7 Miles Into Antarctic Ice, Revealing 1.2 Million Years of Climate History
+
+date: 2025-01-10, from: Smithsonian Magazine
+
+Researchers say a collected sample is the longest continuous record of Earth’s past climate from an ice core 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-drill-17-miles-into-antarctic-ice-revealing-12-million-years-of-climate-history-180985809/>
+
+---
+
+## In a Study on Mice, Scientists Show How the Brain Washes Itself During Sleep
+
+date: 2025-01-10, from: Smithsonian Magazine
+
+The brain's waste-removal process is "like turning on the dishwasher," a neurologist says, but common sleep medications may harm it 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/in-a-study-on-mice-scientists-show-how-the-brain-washes-itself-during-sleep-180985810/>
+
+---
+
+## Freshwater Animals Are More Fragile Than Thought, With Nearly a Quarter Threatened With Extinction, Study Finds
+
+date: 2025-01-10, from: Smithsonian Magazine
+
+Species in Lake Victoria, Lake Titicaca, Sri Lanka’s Wet Zone and the Western Ghats of India are particularly vulnerable to the effects of agriculture, human infrastructure and climate change, per the paper 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/freshwater-animals-are-more-fragile-than-thought-with-nearly-a-quarter-threatened-with-extinction-study-finds-180985800/>
+
+---
+
+## Thousands of Book Lovers Gather for a 25-Hour-Long 'Moby Dick' Reading Marathon
+
+date: 2025-01-10, from: Smithsonian Magazine
+
+The annual event takes place in the Massachusetts town of New Bedford, which is where Herman Melville's celebrated 1851 novel opens 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/thousands-of-book-lovers-gather-for-a-moby-dick-reading-marathon-180985798/>
+
+---
+
+## Azure networking snafu enters day 2, some services still limping
+
+date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
+
+<h4>Struggling to connect to the cloud? You’re not alone</h4> <p>Microsoft on Friday warned Azure cloud service users may continue to experience &#34;intermittent errors,&#34; blaming the problem on a US East regional networking service configuration change.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/10/microsoft_azure_networking_snafu/>
+
+---
+
+## Blue Origin postpones New Glenn's maiden flight to January 12
+
+date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
+
+<h4>Now set for the day before SpaceX&#39;s next Starship test</h4> <p>Jeff Bezos-owned Blue Origin has postponed the inaugural launch of its New Glenn rocket to January 12, the day before SpaceX hopes to launch another Starship test flight.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/10/blue_origin_new_glenn/>
+
+---
+
+## Archaeologists Discover Intricately Decorated Tomb Belonging to a Doctor Who Treated Egyptian Pharaohs 4,100 Years Ago
+
+date: 2025-01-10, from: Smithsonian Magazine
+
+The chamber holds a stone coffin engraved with the physician’s name and titles, which include "director of medicinal plants" and "chief dentist" 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-discover-intricately-decorated-tomb-belonging-to-a-doctor-who-treated-egyptian-pharaohs-4100-years-ago-180985788/>
+
+---
+
+## The Physicist Decoding the Nonbinary Nature of the Subatomic World
+
+date: 2025-01-10, from: Quanta Magazine
+
+Inside the proton, quarks and gluons shift and morph their properties in ways that physicists are still struggling to understand. Rithya Kunnawalkam Elayavalli brings to the problem a perspective unlike many of their peers.            <p>The post <a href="https://www.quantamagazine.org/the-physicist-decoding-the-nonbinary-nature-of-the-subatomic-world-20250110/" target="_blank">The Physicist Decoding the Nonbinary Nature of the Subatomic World</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-physicist-decoding-the-nonbinary-nature-of-the-subatomic-world-20250110/>
+
+---
+
+## Drug addiction treatment service admits attackers stole sensitive patient data
+
+date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
+
+<h4>Details of afflictions and care plastered online</h4> <p>BayMark Health Services, one of the biggest drug addiction treatment facilities in the US, says it is notifying some patients this week that their sensitive personal information was stolen.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/10/baymark_data_breach/>
 
 ---
 
@@ -37,7 +289,7 @@ date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
 
 date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
 
-<h4>On the Fritz: German router maker AVM declines to appeal in device rights case after coughing up source code</h4> <p>Sebastian Steck, a software developer based in Germany, has obtained the source code and library installation scripts for his AVM FRITZ!Box 4020 router, thanks to a lawsuit funded by the Software Freedom Conservancy (SFC).…</p> 
+<h4>On the Fritz: German router maker AVM lets device rights case end after coughing up source code</h4> <p>Sebastian Steck, a software developer based in Germany, has obtained the source code and library installation scripts for his AVM FRITZ!Box 4020 router, thanks to a lawsuit funded by the Software Freedom Conservancy (SFC).…</p> 
 
 <br> 
 
@@ -227,9 +479,9 @@ Researchers accounted for the previously overlooked structures of the dwarf plan
 
 ## Biden said to weigh global limits on AI exports in 11th-hour trade war blitz
 
-date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+date: 2025-01-09, updated: 2025-01-10, from: The Register (UK I.T. News)
 
-<h4>China faces outright ban while others vie for Uncle Sam&#39;s favor</h4> <p>The Biden administration is reportedly weighing new limits in the ongoing US-China trade war, which would ban high-end AI accelerators to adversary nations and impose restrictions on AI models for others.…</p> 
+<h4>China faces outright ban while others vie for Uncle Sam&#39;s favor</h4> <p><strong>updated</strong>  The Biden administration is reportedly weighing new limits in the ongoing US-China trade war, which would ban high-end AI accelerators to adversary nations and impose restrictions on AI models for others.…</p> 
 
 <br> 
 
@@ -369,11 +621,11 @@ What do the X-15 and the space shuttles have in common? Information from the roc
 
 ---
 
-## Microsoft cutting more jobs as new year begins
+## Microsoft trims jobs as new year begins
 
-date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+date: 2025-01-09, updated: 2025-01-10, from: The Register (UK I.T. News)
 
-<h4>Redmond claims cuts are performance based</h4> <p>Microsoft kicks off the new year with more job cuts, as fewer than 1 percent of employees reportedly face the axe.…</p> 
+<h4>Redmond claims tiny cuts are performance based</h4> <p>Microsoft kicks off the new year with more job cuts, albeit fewer than one percent of employees reportedly face the ax.…</p> 
 
 <br> 
 
@@ -661,7 +913,7 @@ The death of a Louisiana resident who was over the age of 65 signals that future
 
 date: 2025-01-08, updated: 2025-01-10, from: The Register (UK I.T. News)
 
-<h4>Crews battle to keep people, homes, science safe</h4> <p>With several major wildfires raging out of control in Los Angeles County, fire crews are risking their lives to protect people, homes, and a key NASA facility.…</p> 
+<h4>Crews battle to keep people, homes, science safe</h4> <p><strong>Updated</strong>  With several major wildfires raging out of control in Los Angeles County, fire crews are risking their lives to protect people, homes, and a key NASA facility.…</p> 
 
 <br> 
 

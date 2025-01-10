@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-01-10 07:05:40
+updated: 2025-01-10 13:01:42
 ---
 
 # games
 
-(date: 2025-01-10 07:05:40)
+(date: 2025-01-10 13:01:42)
+
+---
+
+## This Gotham City RPG offers something for every type of Batman fan
+
+date: 2025-01-10, updated: 2025-01-10, from: Polygon Website
+
+Holy crowdfunding campaign, Batman! Two years after raising nearly $1.5 million for the Batman: Gotham City Chronicles role-playing game, the team at Monolith Board Games is crowdfunding an expanded Skyline Edition. For this campaign, Monolith Board Games is trying to reach all types of tabletop players and offer them a way into the iconic DC [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/507362/batman-gotham-city-chronicles-rpg-monolith-crowdfunding>
+
+---
+
+## Is the Marvel Rivals season 1 battle pass worth it?
+
+date: 2025-01-10, updated: 2025-01-10, from: Polygon Website
+
+The Marvel Rivals season 1 battle pass, formally referred to as the Darkhold in-game, offers 10 new skins and a variety of other cosmetic goodies for both free-to-play players and those who pick up the paid “luxury” battle pass (or its upgrade). But is the Marvel Rivals season 1 battle pass worth its $10 price [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/506076/season-1-battle-pass-is-it-worth-it-paid-free-upgrade>
+
+---
+
+## All Marvel Rivals season 1 battle pass skins and rewards
+
+date: 2025-01-10, updated: 2025-01-10, from: Polygon Website
+
+There are 10 skins in the Marvel Rivals season 1 battle pass, most of which fit into a spooky vampire theme. While two of these skins are available for free, the other eight require you to purchase the paid “luxury” battle pass. Below, we’ll show you all skins in the Marvel Rivals season 1 battle [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/506301/all-skins-season-1-battle-pass-rewards-paid-free-list>
+
+---
+
+## Fight Nazis at Stalingrad in this upcoming Axis &#038; Allies release
+
+date: 2025-01-10, updated: 2025-01-09, from: Polygon Website
+
+At the 2025 Action Briefing event, Renegade Games announced updated titles to historical tabletop game line Axis &#38; Allies. The franchise, which puts players in the roles of major military powers during the first and second World Wars, has four major releases coming out this year: a new theater of war, the return of an [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/505843/axis-and-allies-stalingrad-battle-of-the-bulge-2025-releases>
+
+---
+
+## Genki says it’s never seen the Switch 2, mock-ups were based on other leaks
+
+date: 2025-01-10, updated: 2025-01-10, from: Polygon Website
+
+Genki, a peripheral manufacturer that previously boasted about having access to Nintendo’s upcoming Switch successor, is now walking back the legitimacy of its own Switch 2 mock-ups, Automaton West reports. During a Jan. 10 interview with Japanese gaming site Game*Spark at the ongoing Consumer Electronics Show (CES), a Genki representative admitted no one at the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/507153/genki-switch-2-nintendo-leaks-fake>
+
+---
+
+## The best order to watch all the Star Wars movies and shows
+
+date: 2025-01-10, updated: 2025-01-10, from: Polygon Website
+
+The Skywalker saga is complete, the Clone Wars animated series has come to an end (sort of), and one of the best Star Wars stories ever told is between seasons. But one of Star Wars’ latest forays back to a galaxy far, far away actually takes place long before any of the movies and shows [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga>
+
+---
+
+## Five pages from Marvel’s new Star Wars series shows Jedi badassery at its height
+
+date: 2025-01-10, updated: 2025-01-10, from: Polygon Website
+
+With Star Wars: Jedi Knights, Marvel Comics’ latest series set in that galaxy far, far away, writer Marc Guggenheim (Legends of Tomorrow, X-Men Gold) wants to do something different: Tell a story of the prequel-era Jedi like Qui-Gon Jinn, Yoda, and Mace Windu… without the prequel-era corruption and malaise that lead to their downfall. “I [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-wars/507013/marvel-comics-jedi-knights-1-preview-corlis-rath>
+
+---
+
+## Indiana Jones and the Great Circle is a GOTY front-runner at the DICE Awards
+
+date: 2025-01-10, updated: 2025-01-10, from: Polygon Website
+
+If you want proof that Indiana Jones and the Great Circle would have been a serious Game of the Year contender at The Game Awards 2024 if it hadn’t missed the release date deadline, look no further. MachineGames’ acclaimed take on the archaeologist’s Nazi-punching adventures is a leading contender in nominations for the 28th annual [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/awards/506810/dice-awards-nominations-2025>
+
+---
+
+## Pokémon Go ‘Fashion Week’ 2025 event guide
+
+date: 2025-01-10, updated: 2025-01-10, from: Polygon Website
+
+Pokémon Go’s yearly “Fashion Week” event for 2025 has started, running Jan. 10-19, and bringing back a bunch of costumed Pokémon. This event specifically introduces a costumed Minccino in cute glasses and ribbons. “Fashion Week” 2025 also includes doubled Stardust from catching Pokémon and doubled chance to get Candy XL for trainers level 31 or [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/506988/fashion-week-minccino-shiny-collection-challenge-timed-research>
+
+---
+
+## The dizzying thriller Fall does for heights what The Descent did for depths
+
+date: 2025-01-10, updated: 2025-01-10, from: Polygon Website
+
+Some movie and TV stories, described to someone who hasn’t seen them, invariably sound cooler than they are. (Just try to sum up the plot of Disney Plus’ The Acolyte without sounding like you’re trying to sell it.) Others are just never going to sound like good ideas, no matter how well they’re executed. Scott [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/505360/fall-movie-hulu-best-thrillers-streaming>
 
 ---
 

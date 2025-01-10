@@ -1,11 +1,195 @@
 ---
 title: going electric
-updated: 2025-01-10 07:05:42
+updated: 2025-01-10 13:01:44
 ---
 
 # going electric
 
-(date: 2025-01-10 07:05:42)
+(date: 2025-01-10 13:01:44)
+
+---
+
+## Tesla Cybertruck Production Staff Cut As Sales Slow
+
+date: 2025-01-10, from: Inside EVs News
+
+Back in early December, Tesla told Cybertruck line workers that they didn’t need to come to work for three days. 
+
+<br> 
+
+<https://insideevs.com/news/746965/tesla-cybertruck-production-staff-cut/>
+
+---
+
+## Podcast: New Tesla Model Y unveil, Mazda 6e, Aptera solar car production-intent, more
+
+date: 2025-01-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the official unveiling of the new Tesla Model Y, Mazda 6e, Aptera solar car production-intent, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="397387" href="https://electrek.co/2025/01/10/podcast-new-tesla-model-y-unveiled-mazda-6e-aptera-solar-car-production-intent-and-more/#more-397387" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/10/podcast-new-tesla-model-y-unveiled-mazda-6e-aptera-solar-car-production-intent-and-more/>
+
+---
+
+## BYD’s new Han L EV just leaked in China and it’s a monster
+
+date: 2025-01-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/BYD-Han-L-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Chinese EV leader is launching a new flagship electric sedan. <a href="https://electrek.co/guides/byd/">BYD’s</a> new Han L EV leaked in China on Friday, revealing a potential Tesla Model S Plaid challenger.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="397381" href="https://electrek.co/2025/01/10/byds-new-han-l-ev-just-leaked-china-its-a-monster/#more-397381" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/10/byds-new-han-l-ev-just-leaked-china-its-a-monster/>
+
+---
+
+## Tesla Model S: The Used Buyer's Guide
+
+date: 2025-01-10, from: Inside EVs News
+
+If you’re considering buying a used Tesla Model S, here are the critical factors to consider.  
+
+<br> 
+
+<https://insideevs.com/news/746917/tesla-model-s-used-buying-guide/>
+
+---
+
+## Tenways’ new chain-drive CGO600 Pro e-bike returns to $1,399 low, ALLPOWERS New Year sale, Camplux water heater lows, Anker, more
+
+date: 2025-01-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tenways-CGO600-Pro-8-speed-chain-drive-e-bike-new-LS-FI.png?w=1600" /></div><p>Today’s Green Deals are closing out the week by headlining <a href="https://9to5toys.com/2025/01/10/tenway-cgo600-pro-e-bike-1399-new-year/">Tenways’ new 8-speed CGO600 Pro e-bike</a> that is getting $118 in free gear while down at its <a href="https://9to5toys.com/2025/01/10/tenway-cgo600-pro-e-bike-1399-new-year/">$1,399</a> low during the brand’s New Year sale, with the other models seeing similar offers. We also have <a href="https://9to5toys.com/2025/01/09/allpowers-new-year-sale-from-89/">New Year savings from ALLPOWERS</a> across a collection of power stations and bundle packages, with bonus gifts and extra 10% off promotions – all starting from <a href="https://9to5toys.com/2025/01/09/allpowers-new-year-sale-from-89/">$89</a>. For folks struggling to enjoy shower time, <a href="https://9to5toys.com/2025/01/10/camplux-electric-water-heaters-from-240/">Camplux’s 18kW and 27kW</a> Electric Tankless Water Heaters sitting at their lowest rates from <a href="https://9to5toys.com/2025/01/10/camplux-electric-water-heaters-from-240/">$240</a> for the time being. We also spotted a further drop in price on <a href="https://9to5toys.com/2025/01/09/anker-solix-c200-power-bank-station-110/">Anker’s SOLIX C200 DC</a> 60,000mAh Power Bank Station to its all-time low of <a href="https://9to5toys.com/2025/01/09/anker-solix-c200-power-bank-station-110/">$100</a> too. Plus, all the other hangover Green Deals can be found in the links at the bottom of the page, like yesterday’s phase 2 of <a href="https://9to5toys.com/2025/01/09/ecoflow-new-year-phase-2-deals/">EcoFlow’s New Year sale</a>, the $1,000 in savings on <a href="https://9to5toys.com/2025/01/09/lg-all-in-one-ventless-washer-dryer-1999/">LG’s all-in-one washer/dryer combo</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="397361" href="https://electrek.co/2025/01/10/tenways-new-chain-drive-cgo600-pro-e-bike-returns-to-1399-low-allpowers-new-year-sale-camplux-water-heater-lows-anker-more/#more-397361" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/10/tenways-new-chain-drive-cgo600-pro-e-bike-returns-to-1399-low-allpowers-new-year-sale-camplux-water-heater-lows-anker-more/>
+
+---
+
+## Kia has found its answer to low-cost Chinese EV makers like BYD
+
+date: 2025-01-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/Kia-EV5-video.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s compact <a href="https://electrek.co/guides/kia-ev5/">EV5 electric SUV</a> is making a statement in the world’s largest EV market. With sales surging nearly 50% last year, the EV5 helped Kia sell over 200,000 vehicles in China for the first time in four years. The impressive growth ranked first among joint venture brands in the country.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev5" data-layer-viewtype="unknown" data-post-id="397339" href="https://electrek.co/2025/01/10/kia-found-answer-to-low-cost-chinese-ev-makers/#more-397339" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/10/kia-found-answer-to-low-cost-chinese-ev-makers/>
+
+---
+
+## Tesla goes full circle and copies its own copycat with new Model Y
+
+date: 2025-01-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Model-Y-refresh-xpeng-comparison.jpg?quality=82&#038;strip=all&#038;w=1011" /></div><p>Tesla unveiled its new Model Y with a refreshed design in China and many pointed out that it looks remarkably similar to Xpeng’s P7, which is funny because Xpeng itself was a Tesla copycat at its inception.</p>
+
+
+
+<p>It goes full circle.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,xpeng-motors" data-layer-viewtype="unknown" data-post-id="397343" href="https://electrek.co/2025/01/10/tesla-goes-full-circle-and-copies-its-own-copycat-with-new-model-y/#more-397343" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/10/tesla-goes-full-circle-and-copies-its-own-copycat-with-new-model-y/>
+
+---
+
+## Hyundai Ioniq 5 N DK Edition Is Approved By The Drift King Himself
+
+date: 2025-01-10, from: Inside EVs News
+
+The Korean automaker unveiled this special drift-focused version, making the Ioniq 5 N even crazier through the corners. 
+
+<br> 
+
+<https://insideevs.com/news/746900/hyundai-ioniq-5-dk-edition/>
+
+---
+
+## 'It's Not Safe': Ford Mustang Mach-E Bricks Itself, Trapping Infant Inside
+
+date: 2025-01-10, from: Inside EVs News
+
+The Mach-E's electronic doors failed to open, causing a nightmare for this Los Angeles family. 
+
+<br> 
+
+<https://insideevs.com/news/746818/ford-mustang-mach-e-traps-infant-inside/>
+
+---
+
+## This long duration compressed air energy storage project just got a $1.76B DOE loan
+
+date: 2025-01-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Willow-Rock-Energy-Storage-Center.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Hydrostor’s GEM A-CAES has received a conditional loan guarantee of up to $1.76 billion from the US Department of Energy (DOE) to build the Willow Rock Energy Storage Center, a cutting-edge compressed air energy storage (CAES) system, in Eastern Kern County, California. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,california,egeb,energy-brief,energy-storage,solar" data-layer-viewtype="unknown" data-post-id="397313" href="https://electrek.co/2025/01/10/long-duration-compressed-air-energy-storage-project-just-got-a-1-76b-doe-loan/#more-397313" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/10/long-duration-compressed-air-energy-storage-project-just-got-a-1-76b-doe-loan/>
+
+---
+
+## BYD launches its ultra-compact ATTO 2 SUV in UK and Europe with Blade Batteries
+
+date: 2025-01-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/BYD-ATTO-2-Hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chinese EV automaker Build Your Dreams <a href="https://electrek.co/guides/byd/">(BYD)</a> has unveiled its ATTO 2 compact SUV to the European public. The launch, which took place at the Brussels Motor Show, kicks off BYD’s next EV entry into European and UK markets. The BYD ATTO 2 is smaller and more affordable than its SUV siblings, with a decent range to boot, perfect for European roads.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,byd-atto-2,byd-yuan-up,europe,uk" data-layer-viewtype="unknown" data-post-id="397298" href="https://electrek.co/2025/01/10/byd-launches-ultra-compact-atto-2-suv-uk-europe-blade-batteries/#more-397298" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/10/byd-launches-ultra-compact-atto-2-suv-uk-europe-blade-batteries/>
+
+---
+
+## Hyundai just launched its cheapest EV in Japan, starting at only $18,000
+
+date: 2025-01-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Hyundai-Casper-EV-battery.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s cheapest EV is now available in Japan. Starting at just $18,000, the new <a href="https://electrek.co/guides/hyundai/">Hyundai</a> Inster EV is the most affordable electric car in its segment, even cheaper than BYD’s Dolphin.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-inster" data-layer-viewtype="unknown" data-post-id="397312" href="https://electrek.co/2025/01/10/hyundai-just-launched-cheapest-ev-japan-starting-18000/#more-397312" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/10/hyundai-just-launched-cheapest-ev-japan-starting-18000/>
 
 ---
 
@@ -21,7 +205,7 @@ The car has been regularly DC fast charged to 100%, but the degradation level is
 
 ---
 
-## Tesla issues recall on over 200,000 for the self-driving computer failure
+## Tesla issues recall on over 200,000 vehicles for the self-driving computer failure
 
 date: 2025-01-10, from: Electrek Feed
 

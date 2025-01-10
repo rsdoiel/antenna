@@ -1,23 +1,348 @@
 ---
 title: weather
-updated: 2025-01-10 07:05:39
+updated: 2025-01-10 13:01:41
 ---
 
 # weather
 
-(date: 2025-01-10 07:05:39)
+(date: 2025-01-10 13:01:41)
 
 ---
 
-## SPC - No watches are valid as of Fri Jan 10 14:20:02 UTC 2025
+## SPC Day 2 Fire Weather Outlook
 
 date: 2025-01-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Fri Jan 10 14:20:02 UTC 2025. 
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0152 PM CST Fri Jan 10 2025
+
+Valid 111200Z - 121200Z
+
+...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF SOUTHERN CA...
+
+...20z Update...
+As the initial strong offshore winds over southern CA fade into
+early D2/Saturday, a brief lull in fire-weather activity is expected
+before another surge of offshore flow develops overnight into early
+D3/Sunday. Moderate offshore pressure gradients of 2-4 mb are
+expected to bolster winds across parts of Santa Barbra and
+LA/Ventura Counties through the overnight hours. While RH is not
+expected to be as low initially and overnight (15-25%), strong gusts
+of 20-40 mph through the terrain-favored locations in the western LA
+Basin and across Orange County are likely to support several hours
+of elevated to critical fire-weather concerns from late D2/Saturday
+into early D3/Sunday morning. Strong gusts and critical fire-weather
+concerns will likely continue through much of D3/Sunday. The
+Elevated area was expanded and a Critical area was added over the
+higher terrain and gap areas in coordination with LOX and SGX.
+
+..Lyons.. 01/10/2025
+
+.PREV DISCUSSION... /ISSUED 0141 AM CST Fri Jan 10 2025/
+
+...Synopsis...
+A mid-level trough will rapidly traverse the West Coast as another
+upper trough impinges on the Mississippi Valley tomorrow (Saturday).
+A surface low will move across the Midwest in tandem with the
+Mississippi Valley upper trough, with secondary surface low
+development likely over the southern High Plains. Downslope flow is
+likely over eastern New Mexico into western Texas. However,
+questions remain regarding how low RH will dip by afternoon peak
+heating, precluding fire weather highlights this outlook. 
+
+An upper trough traversing the West Coast will encourage some dry
+offshore flow across southern California. Though guidance differs on
+how dry the surface airmass will be, sustained offshore wind speeds
+may exceed 15 mph, especially in terrain-favored areas, warranting
+Elevated highlights.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
+
+---
+
+## SPC - No watches are valid as of Fri Jan 10 19:54:02 UTC 2025
+
+date: 2025-01-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri Jan 10 19:54:02 UTC 2025. 
 
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Fri Jan 10 19:54:02 UTC 2025
+
+date: 2025-01-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri Jan 10 19:54:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Jan 10, 2025 2000 UTC Day 1 Convective Outlook
+
+date: 2025-01-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0136 PM CST Fri Jan 10 2025
+
+Valid 102000Z - 111200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+The risk for thunderstorms appears negligible across the U.S.
+through the remainder of today and tonight.
+
+...20Z Update...
+A weak secondary surface low appears to be forming along coastal
+areas near/south of Pensacola FL.  The  latest Rapid Refresh
+suggests that this may be maintained, perhaps eventually migrating
+inland into areas northeast of the Florida Big Bend by mid to late
+evening.  However, warm sector boundary-layer destabilization is
+forecast to remain confined to areas well offshore.  
+
+Despite weak lower/mid-tropospheric lapse rates, forecast soundings
+do indicate that warming and moistening near/just below the 700 mb
+level may contribute to weak CAPE developing inland across the
+western Florida Panhandle through southern Georgia late this
+afternoon through tonight.  However, it appears that this
+instability will remain capped by relatively warm/dry layers farther
+aloft, which likely will tend to minimize the risk for convection
+capable of producing lightning.
+
+Overnight, as cyclogenesis commences near the North Carolina coast,
+weak boundary-layer based destabilization appears possible in a
+narrow corridor across/east of the Outer Banks vicinity by 08-12Z. 
+This may be accompanied by a developing band of showers; but
+forecast soundings suggest that relatively warm layers near/above
+500 mb will minimize the risk for convection capable of producing
+lightning, at least until activity approaches the Gulf Stream, where
+deeper/more substantive destabilization appears possible.
+
+..Kerr.. 01/10/2025
+
+.PREV DISCUSSION... /ISSUED 1024 AM CST Fri Jan 10 2025/
+
+...Synopsis and Discussion...
+Within a highly amplified longwave pattern over much of the
+central/southern CONUS, an embedded positively tilted upper trough
+will continue to develop south-southeastward over northern Mexico,
+while another embedded shortwave trough amplifies over the
+Midwest/OH Valley. Ahead of these features, robust low-level
+warm/moist advection will continue to foster widespread
+precipitation regionally, with isolated thunderstorm potential
+focused along/near the central Gulf Coast where weak MUCAPE may
+exist. Surface-based instability is expected to generally remain
+offshore, limiting severe potential. Still, given ample lift and
+strong low-level winds near the eastward-moving cold front and a
+near-coastal surface low, there is some potential that gusty winds
+augmented by a low-topped convective line could occur along the
+immediate coast from far southern AL into parts of the FL Panhandle.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
+
+---
+
+## SPC Jan 10, 2025 1930 UTC Day 3 Severe Thunderstorm Outlook
+
+date: 2025-01-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day3otlk.gif" border="1" alt="Day 3 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1255 PM CST Fri Jan 10 2025
+
+Valid 121200Z - 131200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Isolated, non-severe thunderstorms are possible near coastal
+southeast Louisiana during the early morning Monday.
+
+...Coastal LA...
+A drifting mid-level impulse over northern Mexico will finally eject
+east-northeast into the northwest Gulf Coast vicinity as an upper
+trough amplifies in the West. While this impulse should dampen, it
+will support weak cyclogenesis and renewed low-level warm-moist
+advection across the northwest Gulf towards the north-central Gulf
+Coast. Guidance indicates a surge of rich moisture with 60s surface
+dew points should approach coastal LA by Sunday night as a
+pronounced baroclinic zone becomes established. Mid-level lapse
+rates should not be as poor as on D1, but still weak enough to yield
+only scant elevated buoyancy near the coast. Scattered thunderstorms
+are expected in the offshore waters overnight. The northern extent
+of this activity may brush far southeast LA by early morning Monday.
+
+..Grams.. 01/10/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2025-01-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1028 AM CST Fri Jan 10 2025
+
+Valid 101700Z - 111200Z
+
+...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF FAR SOUTHERN CA...
+
+...17z Update...
+The prior forecast remains valid with only minor changes to the
+Elevated area over parts of the LA Basin. Morning observations show
+offshore gusts of 30-40 mph are ongoing across terrain-favored areas
+of the LA Basin. This is expected to gradually diminish through the
+morning and afternoon as the offshore pressure gradient and easterly
+flow aloft weaken. Still, low humidity (RH values from 10-20%) and
+the strong gusts appear likely to support a continued fire-weather
+threat into this afternoon. The most likely corridor for sustained
+elevated to near-critical conditions will remain over the
+terrain-enhanced features of the western LA Basin and farther south
+into the San Jacinto to Laguna mountain ranges. Fire concerns should
+then abate overnight as upper-level support and offshore gradients
+weaken further. See the prior discussion for more information.
+
+..Lyons.. 01/10/2025
+
+.PREV DISCUSSION... /ISSUED 0140 AM CST Fri Jan 10 2025/
+
+...Synopsis...
+A series of positively tilted mid-level troughs will progress
+southeastward across the western and central CONUS today, supporting
+the maintenance of surface high pressure across the Inter-mountain
+West. Dry offshore winds should continue off of the southern
+California coastline through at least the morning hours. However,
+the pressure gradient should diffuse through the day as the first in
+a series of mid-level troughs moves away from southern California.
+Elevated to Critical dry and windy conditions should be most
+prevalent during the morning, and will wane during the afternoon
+hours. The best chance for any Critical conditions (i.e. 20+ mph
+sustained offshore winds with 15 percent or less RH) will be across
+the San Jacinto to Laguna mountain ranges.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## SPC Jan 10, 2025 1730 UTC Day 2 Convective Outlook
+
+date: 2025-01-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1026 AM CST Fri Jan 10 2025
+
+Valid 111200Z - 121200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Thunderstorms are not expected on Saturday or Saturday night.
+
+...Synopsis...
+Conditions will be too dry/stable for potential lightning-producing
+convection across the CONUS through the period.
+
+..Grams.. 01/10/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
+
+---
+
+## SPC Jan 10, 2025 1630 UTC Day 1 Convective Outlook
+
+date: 2025-01-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1024 AM CST Fri Jan 10 2025
+
+Valid 101630Z - 111200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected through tonight. Occasional
+thunderstorms and windy/rainy conditions may occur across parts of
+the central Gulf Coast.
+
+...Synopsis and Discussion...
+Within a highly amplified longwave pattern over much of the
+central/southern CONUS, an embedded positively tilted upper trough
+will continue to develop south-southeastward over northern Mexico,
+while another embedded shortwave trough amplifies over the
+Midwest/OH Valley. Ahead of these features, robust low-level
+warm/moist advection will continue to foster widespread
+precipitation regionally, with isolated thunderstorm potential
+focused along/near the central Gulf Coast where weak MUCAPE may
+exist. Surface-based instability is expected to generally remain
+offshore, limiting severe potential. Still, given ample lift and
+strong low-level winds near the eastward-moving cold front and a
+near-coastal surface low, there is some potential that gusty winds
+augmented by a low-topped convective line could occur along the
+immediate coast from far southern AL into parts of the FL Panhandle.
+
+..Gleason/Thornton.. 01/10/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 
@@ -294,64 +619,6 @@ LAT...LON   31920225 33740148 34269947 34449781 34379690 33129725
 
 ---
 
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-01-09, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0203 AM CST Thu Jan 09 2025
-
-Valid 101200Z - 111200Z
-
-...Synopsis...
-The upper-level trough in the Northwest will shift south and east on
-Friday. This feature is expected to lose amplitude as an upstream
-trough moves into the Northwest. As a result, surface high pressure
-in the Great Basin/Southwest should lose intensity rather quickly
-after the early morning hours.
-
-...Southern California...
-The offshore pressure gradient will have been in the process of
-gradually weakening for several hours prior to Friday morning. The
-weakening trend will continue, especially during the afternoon.
-Upper-level wind support will also quickly dissipate after the early
-morning as the trough pushes farther east and upper-level ridging
-increases in the region. RH will likely remain low through the day.
-5-20% RH will be fairly widespread by the afternoon. Winds will
-generally reach 15-25 mph. Some locally higher speeds are possible
-within the terrain. Given the overall large-scale trends and
-high-resolution ensemble guidance, critical fire weather conditions
-are expected to occur locally and primarily tied to terrain
-features.
-
-..Wendt.. 01/09/2025
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## SPC - No MDs are in effect as of Wed Jan  8 22:07:01 UTC 2025
-
-date: 2025-01-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed Jan  8 22:07:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
 ## SPC Day 3-8 Fire Weather Outlook
 
 date: 2025-01-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -411,93 +678,6 @@ D7/Tue when the offshore flow regime should become established.
 <br> 
 
 <https://www.spc.noaa.gov/products/exper/fire_wx/>
-
----
-
-## SPC Jan 8, 2025 2000 UTC Day 1 Convective Outlook
-
-date: 2025-01-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0156 PM CST Wed Jan 08 2025
-
-Valid 082000Z - 091200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not expected, but very isolated
-thunderstorms are possible late tonight across parts of west Texas.
-
-...20z Update...
-No changes are needed to the current D1 Convective Outlook. See
-previous discussion below for more information.
-
-..Thornton/Smtih.. 01/08/2025
-
-.PREV DISCUSSION... /ISSUED 1023 AM CST Wed Jan 08 2025/
-
-...Discussion...
-A deep midlevel cyclone will move east-southeastward across
-northwest Mexico through the period. Modest midlevel height falls
-preceding this feature, combined with weak warm advection, will
-support an increase in precipitation across portions of west TX
-during the overnight and morning hours. Gradual low/midlevel
-moistening amid steep midlevel lapse rates (see 12Z observed DRT
-sounding) will yield weak elevated buoyancy atop a sub-freezing
-boundary layer. As a result, embedded convective elements will be
-capable of isolated lightning flashes.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
-
----
-
-## SPC Jan 8, 2025 1930 UTC Day 3 Severe Thunderstorm Outlook
-
-date: 2025-01-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day3otlk.gif" border="1" alt="Day 3 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1233 PM CST Wed Jan 08 2025
-
-Valid 101200Z - 111200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not forecast through Friday night.
-
-...Central to eastern Gulf Coast...
-Thunder potential appears quite limited on Friday as poor to weak
-mid-level lapse rates persist downstream of a positive-tilt longwave
-trough. Buoyancy inland appears negligible, but meager MUCAPE over
-the north-central Gulf may be sufficient for a thin, low-topped
-convective line to shift east through the day from coastal southeast
-LA through the FL Panhandle. Surface dew points may reach the mid
-60s near the mouth of the MS River, and into the low 60s elsewhere
-along the coast near the cyclone track. This could be adequate for
-strong gusts mixing to the surface given fast flow aloft. Will
-maintain a thunder area to highlight this potential despite the
-expectation of minimal prospects for charge separation.
-
-..Grams.. 01/08/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
 
 ---
 

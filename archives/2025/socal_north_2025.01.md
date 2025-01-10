@@ -1,11 +1,119 @@
 ---
 title: socal north
-updated: 2025-01-10 07:05:37
+updated: 2025-01-10 13:01:40
 ---
 
 # socal north
 
-(date: 2025-01-10 07:05:37)
+(date: 2025-01-10 13:01:40)
+
+---
+
+## These devastating fires are taking a toll on our mental health. Here’s how to know when to seek help
+
+date: 2025-01-10, updated: 2025-01-10, from: The LAist
+
+Mental health resources for kids and adults tailored to this fire disaster. 
+
+<br> 
+
+<https://laist.com/news/health/devastating-fires-mental-health-how-to-seek-help>
+
+---
+
+## 2025 Avalon Polar Swim and Polar Plunge
+
+date: 2025-01-10, from: Catalina Islander
+
+After nearly two weeks of overcast weather, the sun finally came out on New Year’s Day Morning. At 7:30, about 35 swimmers showed up at Casino Point for their first swim of the year in crystal clear, calm waters. The youngest, a 7-year-old girl, Dillan, from Kansas City, Missouri, was excited to have swum to [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/2025-avalon-polar-swim-and-polar-plunge/>
+
+---
+
+## What is the flame retardant that planes are dropping on the LA fires?
+
+date: 2025-01-10, updated: 2025-01-10, from: The LAist
+
+As fire crews and air tankers work to block the wildfires' explosive growth, images of red clouds of fire retardant falling onto trees are common. What is it — and what's in it? 
+
+<br> 
+
+<https://laist.com/news/climate-environment/what-is-the-flame-retardant-that-planes-are-dropping-on-the-la-fires>
+
+---
+
+## Letter to the Editor: Jan. 10, 2025
+
+date: 2025-01-10, from: Catalina Islander
+
+Thank you!! To the Avalon Fire Department, City of Avalon staff, L.A. County Sheriff Department and Southern California Edison. I know all of them must have been on high alert Tuesday with the high winds coming and the fire danger at “extreme”. When fires started popping up on the mainland I’m sure it even got [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/letter-to-the-editor-jan-10-2025/>
+
+---
+
+## Mandatory evacuations downgraded for Archer Fire in Granada Hills
+
+date: 2025-01-10, updated: 2025-01-10, from: The LAist
+
+The fire broke out at about 10:25 a.m. Friday and is being driven by erratic winds. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/archer-fire-granada-hills-san-fernando-valley>
+
+---
+
+## Curfew orders put in place for Palisades and Eaton fire zones as authorities warn of looters and scammers
+
+date: 2025-01-10, updated: 2025-01-10, from: The LAist
+
+L.A. County Sheriff Robert Luna said the curfews will take effect at 6 p.m. and violators will be arrested. 
+
+<br> 
+
+<https://laist.com/news/curfew-orders-put-in-place-for-palisades-and-eaton-fire-zones-as-authorities-warn-of-looters-and-scammers>
+
+---
+
+## California prisoners are battling wildfires in long-running and controversial practice
+
+date: 2025-01-10, updated: 2025-01-10, from: The LAist
+
+California has turned to incarcerated firefighters since 1915. To those opposed to the practice, the system is seen as exploitative. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/california-wildfires-incarcerated-firefighters-2025>
+
+---
+
+## Water-dropping Super Scooper aircraft is grounded after colliding with a civilian drone
+
+date: 2025-01-10, updated: 2025-01-10, from: The LAist
+
+The drone was flying illegally over the Palisades Fire Thursday, taking a vital firefighting resource out of commission for repairs. 
+
+<br> 
+
+<https://laist.com/news/water-dropping-super-scooper-aircraft-is-grounded-after-colliding-with-a-civilian-drone>
+
+---
+
+## Powerful winds fueling the California wildfires are expected through Friday
+
+date: 2025-01-10, updated: 2025-01-10, from: The LAist
+
+Red flag warnings are in effect for parts of Los Angeles and Ventura counties, as the National Weather Service warns that powerful winds and low humidity will increase the risk of fire. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/powerful-winds-fueling-the-california-wildfires-are-expected-through-friday>
 
 ---
 
@@ -81,11 +189,11 @@ More than 35 long-term care facilities were evacuated in recent days.
 
 ---
 
-## About that false alarm: Yes, a very loud countywide alert scared just about everyone who got it
+## About those false alarms: 2 have now gone out, the latest jarring many awake at 4 a.m.
 
 date: 2025-01-10, updated: 2025-01-10, from: The LAist
 
-And then minutes later, everyone in L.A. County got another alert saying never mind. 
+The first message went countywide and was followed by another minutes later saying nevermind. 
 
 <br> 
 
@@ -373,7 +481,7 @@ Finding shelter for yourself and animals, plus emergency numbers and tips.
 
 ## Fact check: Why is Trump blaming the LA fires on Newsom’s water policies?
 
-date: 2025-01-08, updated: 2025-01-08, from: The LAist
+date: 2025-01-08, updated: 2025-01-10, from: The LAist
 
 President-elect Donald Trump faulted California water policies for the devastating wildfires that are burning in Los Angeles County. The fires started because of fierce winds and extremely dry conditions. 
 
@@ -419,11 +527,11 @@ date: 2025-01-08, updated: 2025-01-08, from: The LAist
 
 ---
 
-## Trying to stay safe in a wildfire? There's an app that can help
+## Trying to stay safe in a wildfire? Why Watch Duty has exploded in popularity
 
-date: 2025-01-08, updated: 2025-01-08, from: The LAist
+date: 2025-01-08, updated: 2025-01-10, from: The LAist
 
-Watch Duty, a free app for tracking wildfires, has taken off in the Western U.S. as more of the region experiences destructive wildfires and the overwhelming task of staying informed. 
+The free app for tracking wildfires has taken off in the Western U.S. as more of the region experiences destructive wildfires and the overwhelming task of staying informed. 
 
 <br> 
 
@@ -623,7 +731,7 @@ The funds were cash advances to service providers in the Los Angeles region.
 
 ---
 
-## Eaton Fire forces 100K people under evacuation orders
+## Eaton Fire: 5 deaths reported so far as containment edges to 3%
 
 date: 2025-01-08, updated: 2025-01-10, from: The LAist
 

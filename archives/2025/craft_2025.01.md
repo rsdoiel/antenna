@@ -1,15 +1,15 @@
 ---
 title: craft
-updated: 2025-01-10 07:05:42
+updated: 2025-01-10 13:01:44
 ---
 
 # craft
 
-(date: 2025-01-10 07:05:42)
+(date: 2025-01-10 13:01:44)
 
 ---
 
-## ‘Cut & Dried’ and Assessing Wood Moisture Content
+## ‘Cut & Dried’ & Assessing Wood Moisture Content
 
 date: 2025-01-10, from: Lost Arg Press blog
 

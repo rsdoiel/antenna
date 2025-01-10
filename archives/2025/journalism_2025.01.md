@@ -1,11 +1,103 @@
 ---
 title: journalism
-updated: 2025-01-10 07:05:40
+updated: 2025-01-10 13:01:42
 ---
 
 # journalism
 
-(date: 2025-01-10 07:05:40)
+(date: 2025-01-10 13:01:42)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 7:51 a.m. Friday, the Westwood Recreation Center hosted 164 registered guests and 13 pets as a designated shelter for LA County. LA County is hosting family assistance centers to help people locate missing friends and families at the Cheviot Hills Recreation Center and Pasadena Convention Center and Visitor’s Bureau. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/10/477264/>
+
+---
+
+## UCLA study reveals insights into neuron involvement in memory systems
+
+date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+A recent study by UCLA researchers offers new insight into how the brain makes sense of sequences of experiences, and it may have implications for treating certain memory disorders. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/10/ucla-study-reveals-insights-into-neuron-involvement-in-memory-systems/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+Air quality appears to have improved significantly in Westwood overnight, with readings as of 11:35 a.m. showing the quality as “moderate”, according to the UCLA Air Quality website. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/10/477253/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+A significant number of students have left the hill as of Friday morning. Bruin Plate was almost empty compared to normal at the end of the breakfast slot, with just a handful of students finishing their meals. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/10/477249/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+A number of classes in the UCLA Henry Samueli School of Engineering and Applied Science have hosted online discussion sections for undergraduates Friday. Multiple classes across UCLA also have assignments due Friday. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/10/477239/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+Chair of LA County Board of Supervisors Kathryn Barger expressed frustration with yesterday&#8217;s accidental evacuation alert in the press conference. She added that, with power outages taking place across the region, the city needed to coordinate a more sound response to the broken messaging system than telling residents to look at evacuation zones online. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/10/477237/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+Los Angeles Police Chief Jim McDonnell said in a press conference that he deployed 200 officers to areas impacted by fires. Twenty people have been arrested for looting in these areas since fires began. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/10/477230/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+Favorable overnight weather conditions allowed firefighters to reach 8% containment of the Palisades fire, Los Angeles Fire Chief Kristin Crowley said in a press conference. However, windier daytime conditions will &#8220;test&#8221; these gains, she added. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/10/477228/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+Kevin McGowan, director of Office of Emergency Management for the County of Los Angeles, apologized for the erroneous evacuation warning that went out to Los Angeles county residents yesterday, adding that the alerts are not human-driven. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/10/477226/>
 
 ---
 

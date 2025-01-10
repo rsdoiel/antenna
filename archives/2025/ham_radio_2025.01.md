@@ -1,11 +1,47 @@
 ---
 title: ham radio
-updated: 2025-01-10 07:05:38
+updated: 2025-01-10 13:01:41
 ---
 
 # ham radio
 
-(date: 2025-01-10 07:05:38)
+(date: 2025-01-10 13:01:41)
+
+---
+
+## FCC Upholds Record $34,000 Forfeiture Against Amateur Licensee
+
+date: 2025-01-10, from: Amateur Radio Relay League News
+
+<p>The Federal Communications Commission (FCC) assessed a record $34,000 forfeiture against an amateur radio licensee for “willfully and repeatedly operating a radio station without authorization and interfering with the radio communications of the United States Forest Service … while the U.S. Forest Service and the Idaho Department of Lands were attempting to direct the operations of fire suppres...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/fcc-upholds-record-34-000-forfeiture-against-amateur-licensee>
+
+---
+
+## ARRL Teachers Institute: Coming to a Town Near You
+
+date: 2025-01-10, from: Amateur Radio Relay League News
+
+<p>The ARRL Teachers Institute on Wireless Technology is going mobile in 2025. In addition to the cohorts hosted at ARRL Headquarters in Newington, Connecticut, there will be several sessions around the United States this year. The first, hosted by ARRL model school Staten Island Technical High School in New York City, will be held January 21-24. </p><p></p><p>The format is being refined this year from five day...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-teachers-institute-coming-to-a-town-near-you>
+
+---
+
+## The K7RA Solar Update
+
+date: 2025-01-10, from: Amateur Radio Relay League News
+
+<p>Solar activity was a bit weak during recent days. Average daily<br />sunspot number was 159.1. During the previous week the average was<br />194.7.<br /><br />Predicted solar flux for the near term is 165 on January 10-11, 160<br />on January 12, 155 on January 13-17, 200, 210 and 220 on January<br />18-20, then 230 on January 21-25, then 225, 220, 215, 210, 205 and<br />200 on January 26-31, 170 on February 1-2, 165 on February 3-4, 1...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-861>
 
 ---
 

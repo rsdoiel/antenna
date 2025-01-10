@@ -1,11 +1,179 @@
 ---
 title: columns
-updated: 2025-01-10 07:05:39
+updated: 2025-01-10 13:01:41
 ---
 
 # columns
 
-(date: 2025-01-10 07:05:39)
+(date: 2025-01-10 13:01:41)
+
+---
+
+##  Want to Wear a Tiny Apollo Guidance Computer on Your Wrist? 
+
+date: 2025-01-10, updated: 2025-01-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/want-to-wear-a-tiny-apollo-guidance-computer-on-your-wrist>
+
+---
+
+##  Did we all know this already? &#8220;Chip is a nickname for a... 
+
+date: 2025-01-10, updated: 2025-01-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046000-did-we-all-know-this>
+
+---
+
+## Surviving the dentist
+
+date: 2025-01-10, from: Matt Haughey blog
+
+<p>I grew up with parents that owned their own struggling small business. Throughout my childhood, we had pretty much zero healthcare until I got to college. </p><p>I went to the same doctor from birth to high school but only saw him once every 2-3 years when I was super sick</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/surviving-the-dentist-2/>
+
+---
+
+##  The Art of the Snack Solo. &#8220;And now I am into my... 
+
+date: 2025-01-10, updated: 2025-01-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045996-the-art-of-the-snack>
+
+---
+
+## The Los Angeles Media Dashboard
+
+date: 2025-01-10, from: Doc Searls (at Harvard), New Old Blog
+
+This is my dashboard for Los Angeles as it looks this morning: Five TV stations, one radio station, one newspaper: KNBC/4 &#8220;4 Los Angeles&#8221; KTLA/5 &#8220;LA&#8217;s Very Own&#8221; KABC/7  &#8220;7 Eyewitness News&#8221; KCAL/9 &#8220;KCAL NEWS CBS Los Angeles&#8221; KTTV/11 &#8220;Fox 11 Los Angeles&#8221; KPCC/89.3 &#8220;LAist&#8221; Los Angeles Times Note the order. I come from the [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/01/10/the-los-angeles-media-dashboard/>
+
+---
+
+##  Post-Apocalyptic Orbs 
+
+date: 2025-01-10, updated: 2025-01-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/post-apocalyptic-orbs>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-10, from: Dave Winer's Scripting News)
+
+Good <a href="https://github.com/scripting/Scripting-News/issues/316#issuecomment-2583279043">questions</a> from Phil Jones re Wednesday's podcast. I'm glad to get to answer these questions. There's more to wpIdentity than is obvious at first glance, for example it has a relatively complete storage system built in for developers to use. I used one of its features yesterday in the connection between Bingeworthy and the profile display app. 
+
+<br> 
+
+<http://scripting.com/2025/01/10.html#a172317>
+
+---
+
+##  33 Ways To Improve Your Life, Japanese Style. Including &#8220;be happy in... 
+
+date: 2025-01-10, updated: 2025-01-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045987-33-ways-to-improve-your>
+
+---
+
+##  Jessica Hische & Chris Shiflett are launching a company called Studioworks that... 
+
+date: 2025-01-10, updated: 2025-01-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045983-jessica-hische-chris-shif>
+
+---
+
+## Apps That Are Spying on Your Location
+
+date: 2025-01-10, updated: 2025-01-10, from: Bruce Schneier blog
+
+<p>404 Media is <a href="https://www.404media.co/candy-crush-tinder-myfitnesspal-see-the-thousands-of-apps-hijacked-to-spy-on-your-location/">reporting</a> on all the apps that are spying on your location, based on a hack of the location data company Gravy Analytics:</p>
+<blockquote><p>The thousands of apps, <a href="https://www.404media.co/hackers-claim-massive-breach-of-location-data-giant-threaten-to-leak-data/">included in hacked files</a> from location data company Gravy Analytics, include everything from games like Candy Crush to dating apps like Tinder, to pregnancy tracking and religious prayer apps across both Android and iOS. Because much of the collection is occurring through the advertising ecosystem­&#8212;not code developed by the app creators themselves&#8212;­this data collection is likely happening both without users’ and even app developers’ knowledge...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/01/apps-that-are-spying-on-your-location.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-10, from: Dave Winer's Scripting News)
+
+The personal profile pages for Bingeworthy are working again. Here's <a href="https://my.bingeworthy.org/?username=scripting">my profile page</a>. This is how you share recommendations. More info <a href="https://github.com/scripting/bingeworthySupport/issues/4">here</a>. 
+
+<br> 
+
+<http://scripting.com/2025/01/10.html#a160153>
+
+---
+
+##  An Ambient 24/7 Streaming Video of Chill Work/Study Vibes 
+
+date: 2025-01-10, updated: 2025-01-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/an-ambient-247-streaming-video-of-chill-workstudy-vibes>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-10, from: Dave Winer's Scripting News)
+
+BTW, I'm going through all the episodes of <a href="https://en.wikipedia.org/wiki/Deadwood_(TV_series)">Deadwood</a>, and find it's influencing how I write. A good bingewatch is like that. You become one of the characters, or in a way, all of them. Sometimes I'm Swearingen and other times I'm Wu. Etc. 
+
+<br> 
+
+<http://scripting.com/2025/01/10.html#a151801>
+
+---
+
+## GitHub and chatbots
+
+date: 2025-01-10, from: Dave Winer's Scripting News
+
+<p>We need an AI chatbot that can work with GitHub repos. That is, in my prompt I say, the following questions are about this GitHub repo. At that point it is ready to answer any question about the project. This an incredibly important intersection of capabilities. As far as I can tell, GitHub doesn't offer it. </p>
+<p>Anticipating that people will suggest I use their editor, I don't want to use their freaking editor. This keeps coming up everywhere. You can't use this or that unless you use their editor. Insidious form of lock-in. And it also limits their market to people who use their editor. Shortsighted and stupid. </p>
+<p>We need to start thinking about choice. If it applies to developers, it's more likely they will follow through in the designs of their own projects and give their users choice as a matter of principle. </p>
+<p>I'd also like to use a chatbot that incorporates the philosophy of the open web. They have opinions btw. One of the first things Claude.ai does when I give it some JavaScript code is that they "modernize" it. That is also insidious. I choose which constructs I use carefully, and follow the rule that one way to do something is better than two, no matter how much better the second way is. </p>
+<p>The bots can be bullies because the companies that make them are tech companies and thus shortcuts to make money, and thus handicap their users. Maybe the users are starting to figure this out. One can hope. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/10/150635.html?title=githubAndChatbots>
 
 ---
 
@@ -143,7 +311,7 @@ date: 2025-01-09, from: Stephen Wolfram blog
 
 ## Breathable, Garrett Murray’s AQI Widget for iOS and MacOS, Is Now Free of Charge
 
-date: 2025-01-09, updated: 2025-01-09, from: Daring Fireball
+date: 2025-01-09, updated: 2025-01-10, from: Daring Fireball
 
  
 
@@ -315,7 +483,7 @@ date: 2025-01-09, updated: 2025-01-09, from: Jason Kittke's blog
 
 date: 2025-01-09, from: Doc Searls (at Harvard), New Old Blog
 
-8:00pm—It&#8217;s three hours later here in Indiana, where it is 16° and snow is approaching (and will add to the foot of it preserved by freezing temperatures since last weekend): So I will now leave the command post in my basement office. I&#8217;ll get back on the case tomorrow morning. Here&#8217;s hoping that all we&#8217;ll [&#8230;] 
+6:50am Friday, January 10, 2025—I will now shift my blogging about the #LAFires from the kind of continuous coverage I&#8217;ve done for the last three days to what we might call coverage of coverage. Or something beyond that: shifting to a new kind of news model: grounded in facts rather than just stories, stories, and [&#8230;] 
 
 <br> 
 
@@ -775,7 +943,7 @@ date: 2025-01-08, updated: 2025-01-08, from: Daring Fireball
 
 ## From the DF Archive: ‘Life as a Facebook Moderator’
 
-date: 2025-01-08, updated: 2025-01-08, from: Daring Fireball
+date: 2025-01-08, updated: 2025-01-10, from: Daring Fireball
 
  
 

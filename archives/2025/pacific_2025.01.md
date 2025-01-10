@@ -1,11 +1,50 @@
 ---
 title: pacific
-updated: 2025-01-10 07:05:38
+updated: 2025-01-10 13:01:40
 ---
 
 # pacific
 
-(date: 2025-01-10 07:05:38)
+(date: 2025-01-10 13:01:40)
+
+---
+
+## Lecture honors retired UH law school dean
+
+date: 2025-01-10, from: University of Hawaiʻi News
+
+<p>A &#36;100,000 gift from The Hundt Family Foundation will establish a visiting constitutional law lecturer program.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/10/lecture-honors-avi-soifer/">Lecture honors retired <abbr>UH</abbr> law school dean</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/10/lecture-honors-avi-soifer/>
+
+---
+
+## President Hensel to visit UH campuses, education centers
+
+date: 2025-01-10, from: University of Hawaiʻi News
+
+<p>New <abbr>UH</abbr> President Wendy Hensel will visit each of the 10 <abb>UH campuses and six of the university system’s nine education centers during her first 90 days in office.</abb></p>
+The post <a href="https://www.hawaii.edu/news/2025/01/10/president-hensel-campuses-education-centers-visits/">President Hensel to visit <abbr>UH</abbr> campuses, education centers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/10/president-hensel-campuses-education-centers-visits/>
+
+---
+
+## New app replaces pay stations for UH Mānoa visitors
+
+date: 2025-01-10, from: University of Hawaiʻi News
+
+<p>Instead of navigating pay stations, all <abbr>UH</abbr> M&#257;noa visitors will need is a smartphone and the JustPark app.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/10/new-app-replaces-pay-stations/">New app replaces pay stations for <abbr>UH</abbr> Mānoa visitors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/10/new-app-replaces-pay-stations/>
 
 ---
 
