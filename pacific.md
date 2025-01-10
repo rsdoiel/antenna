@@ -1,11 +1,628 @@
 ---
 title: pacific
-updated: 2025-01-09 07:06:02
+updated: 2025-01-10 07:05:38
 ---
 
 # pacific
 
-(date: 2025-01-09 07:06:02)
+(date: 2025-01-10 07:05:38)
+
+---
+
+## Los Angeles wildfires devour thousands of homes even as fierce winds ease
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Two massive wildfires menacing Los Angeles from the east and west devoured nearly 10,000 homes and other structures, burning into a third night on Thursday even as the fierce winds eased and gave firefighters a welcome but temporary respite.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/nation-world-news/los-angeles-wildfires-devour-thousands-of-homes-even-as-fierce-winds-ease/>
+
+---
+
+## ‘Sobering’ report issued on Hawaii natural disaster resilience spending needs
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>A panel advising Gov. Josh Green is urging the state Legislature to appropriate almost $2 billion over the next five years to help reduce and respond to future natural disaster damage in Hawaii.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/hawaii-news/sobering-report-issued-on-hawaii-natural-disaster-resilience-spending-needs/>
+
+---
+
+## Lots of work still ahead for road into Waipi‘o Valley
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>Access to Waipi&#8216;o Valley Road has been restricted since 2022 for work to make the steep, narrow and winding county road less dangerous.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/hawaii-news/lots-of-work-still-ahead-for-road-into-waipio-valley/>
+
+---
+
+## Trump’s tariff threat spurs auto suppliers to rethink production plans
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>LAS VEGAS &#8212; Global auto suppliers are working out how much of their production can be moved to the United States, or closer to it, as a defense against tariffs promised by President-elect Donald Trump, according to industry executives at CES in Las Vegas. The auto industry has already experienced eight years of U.S. protectionism, from real and threatened tariffs during Trump&#8217;s first term and then more tariffs and the U.S. Inflation Reduction Act under President Joe Biden. Most of those measures were aimed squarely at China, in particular a proposal by the Biden administration to bar Chinese software and hardware from cars on U.S. roads. But Trump has vowed to go much further, imposing a blanket tariff of 10% on global imports into the United States and a far higher 60% tariff on Chinese goods. In late November, he specifically pledged a 25% tariff on imports from Canada and Mexico when he takes office on Jan. 20. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/nation-world-news/trumps-tariff-threat-spurs-auto-suppliers-to-rethink-production-plans/>
+
+---
+
+## TikTok stars and marketers brace for app’s disappearance this month
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>The impending disappearance of TikTok, one of the most popular social media apps in the United States, has sent marketers, agencies and creators racing to embrace alternatives &#8212; even if they&#8217;re not entirely convinced that TikTok will in fact exit the United States this month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/nation-world-news/tiktok-stars-and-marketers-brace-for-apps-disappearance-this-month/>
+
+---
+
+## Grand jury counsel sought for Hilo and Kona
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>The Circuit Court of the Third Circuit, Hawaii Island, is seeking applications for independent grand jury counsel for Hilo and Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/hawaii-news/grand-jury-counsel-sought-for-hilo-and-kona-2/>
+
+---
+
+## County plans to install dozens of drywells along Kawili Street
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>A $21 million project to improve the shoulders of Kawili Street in Hilo also will drill more than two dozen drywells along the length of the road.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/hawaii-news/county-plans-to-install-dozens-of-drywells-along-kawili-street/>
+
+---
+
+## High surf damages Puʻuhonua o Honaunau park
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>High surf reaching about 14 feet continued to affect businesses and tourism Thursday in West Hawaii, prompting temporary closures and causing damage to Pu&#8216;uhonua o Honaunau National Historical Park.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/hawaii-news/high-surf-damages-pu%ca%bbuhonua-o-honaunau-park/>
+
+---
+
+## Judge rejects Biden’s title IX rules, scrapping protections for trans students
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A federal judge in Kentucky on Thursday struck down President Joe Biden&#8217;s effort to expand protections for transgender students and make other changes to the rules governing sex discrimination in schools, ruling that the Education Department had overstepped and violated teachers&#8217; rights by requiring them to use students&#8217; preferred pronouns.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/nation-world-news/judge-rejects-bidens-title-ix-rules-scrapping-protections-for-trans-students/>
+
+---
+
+## Can low unemployment last under Trump?
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>For a time, not too long ago, it was the central question animating economic forecasts and bets laid by investors in financial markets: Will the U.S. economy avoid a recession?</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/nation-world-news/can-low-unemployment-last-under-trump/>
+
+---
+
+## US efforts to cut emissions stalled in 2024 as power demand surged
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>America&#8217;s efforts to cut its climate change pollution stalled in 2024, with greenhouse gas emissions dropping just a fraction, 0.2%, compared with the year before, according to estimates published Thursday by the Rhodium Group, a research firm.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/nation-world-news/us-efforts-to-cut-emissions-stalled-in-2024-as-power-demand-surged/>
+
+---
+
+## Bill to expand deportations of migrants accused of crimes sails ahead in senate
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Senate on Thursday came closer to passing a bill requiring the deportation of immigrants in the country illegally charged with minor crimes after most Democrats joined Republicans to advance it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/nation-world-news/bill-to-expand-deportations-of-migrants-accused-of-crimes-sails-ahead-in-senate/>
+
+---
+
+## How saffron, a precious import, became an American cash crop
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>Tara and Chad Philipp had never tasted saffron until they took a camping trip with a family they&#8217;d recently met. Around the campfire, their new friends cooked a big pan of paella. The Philipps fell for the sweet, musky flavor of saffron &#8212; and were intrigued to learn it was the world&#8217;s most expensive spice.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/features/how-saffron-a-precious-import-became-an-american-cash-crop/>
+
+---
+
+## Brazil’s Lula calls Meta fact-checking changes ‘extremely serious’
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>BRASILIA &#8212; Brazilian President Luiz Inacio Lula da Silva said on Thursday that social media company Meta&#8217;s decision to scrap its fact-checking program in the U.S. was &#8220;extremely serious,&#8221; and that he would discuss the matter in a meeting with government officials.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/nation-world-news/brazils-lula-calls-meta-fact-checking-changes-extremely-serious/>
+
+---
+
+## 2024 was the first year above 1.5C of global warming, scientists say
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>BRUSSELS &#8212; The world just experienced the first full year in which global temperatures exceeded 1.5C above pre-industrial times, scientists said on Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/nation-world-news/2024-was-the-first-year-above-1-5c-of-global-warming-scientists-say/>
+
+---
+
+## Gaza war toll likely significantly undercounts deaths, says study
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; An official Palestinian tally of direct deaths in the Israel-Hamas war likely undercounted the number of casualties by 41% through the middle of 2024 as the Gaza Strip&#8217;s healthcare infrastructure unravelled, according to a study published on Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/nation-world-news/gaza-war-toll-likely-significantly-undercounts-deaths-says-study/>
+
+---
+
+## Lebanon chooses a president after 2 years of gridlock
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT &#8212; Lebanon&#8217;s fractured parliament overcame more than two years of gridlock Thursday to select a new president, a critical step toward bringing stability to a country attempting to recover from economic catastrophe and a devastating war.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/nation-world-news/lebanon-chooses-a-president-after-2-years-of-gridlock/>
+
+---
+
+## A lofty tribute to a public servant and humble grandfather
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The nation bade farewell to former President Jimmy Carter on Thursday with a majestic state funeral for a man who saw himself as anything but, remembering a peanut farmer from Georgia who rose to the heights of power and used it to fight for justice, eradicate disease and wage peace not war.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/nation-world-news/a-lofty-tribute-to-a-public-servant-and-humble-grandfather/>
+
+---
+
+## HAWAIʻI’S BAD DRIVER REPORT
+
+date: 2025-01-10, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Do you consider yourself a good driver? A Forbes Advisor study listed Hawaiʻi motorists as having the worst driving habits in the nation...</p>
+<p>The post <a href="https://www.pbshawaii.org/hawai%ca%bbis-bad-driver-report/">HAWAIʻI’S BAD DRIVER REPORT</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/hawai%ca%bbis-bad-driver-report/>
+
+---
+
+## Whipps Pledges tougher penalties for illegal drugs amid rising crisis
+
+date: 2025-01-10, from: Island Times
+
+<figure><img width="400" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/whipps.jpg?fit=400%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/whipps.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/whipps.jpg?resize=208%2C300&amp;ssl=1 208w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/whipps.jpg?fit=400%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73855" data-permalink="https://islandtimes.org/whipps-to-retain-current-cabinet-names-oilouch-as-justice-minister/whipps-7/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/whipps.jpg?fit=400%2C576&amp;ssl=1" data-orig-size="400,576" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1715164497&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0.0166&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="whipps" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/whipps.jpg?fit=208%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/whipps.jpg?fit=400%2C576&amp;ssl=1" /></figure>
+<p>KOROR, Palau — With Palau facing what law enforcement has described as a drug crisis, President Surangel Whipps Jr. has identified combating illegal drugs as a top priority for his administration as he prepares to lead the 12th government this month. Whipps announced his intention to pursue harsher penalties for drug-related crimes, emphasizing the urgent [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-pledges-tougher-penalties-for-illegal-drugs-amid-rising-crisis/">Whipps Pledges tougher penalties for illegal drugs amid rising crisis</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/whipps-pledges-tougher-penalties-for-illegal-drugs-amid-rising-crisis/>
+
+---
+
+## Blesoch Aderkeroi secures Ngardmau Delegate seat in the 2nd Runoff Election by 17 Votes
+
+date: 2025-01-10, from: Island Times
+
+<figure><img width="600" height="602" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Blesoch-Adelkeroi-secure-story.jpg?fit=600%2C602&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Blesoch-Adelkeroi-secure-story.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Blesoch-Adelkeroi-secure-story.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Blesoch-Adelkeroi-secure-story.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Blesoch-Adelkeroi-secure-story.jpg?resize=400%2C401&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Blesoch-Adelkeroi-secure-story.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Blesoch-Adelkeroi-secure-story.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Blesoch-Adelkeroi-secure-story.jpg?fit=600%2C602&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74952" data-permalink="https://islandtimes.org/blesoch-aderkeroi-secures-ngardmau-delegate-seat-in-the-2nd-runoff-election-by-17-votes/blesoch-adelkeroi-secure-story/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Blesoch-Adelkeroi-secure-story.jpg?fit=600%2C602&amp;ssl=1" data-orig-size="600,602" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Blesoch Adelkeroi secure story" data-image-description="" data-image-caption="&lt;p&gt;Blesoch Adelkeroi  &lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Blesoch-Adelkeroi-secure-story.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Blesoch-Adelkeroi-secure-story.jpg?fit=600%2C602&amp;ssl=1" /></figure>
+<p>By: Eustoria Marie Borja NGARDMAU STATE — Blesoch Aderkeroi, a former Governor of Ngardmau State, has won the second runoff election for the House of Delegate seat for Ngardmau in the 12th Olbiil Era Kelulau (OEK), defeating Fermin R. Meriang by a margin of 17 votes. The second runoff election, held on January 8, 2025, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/blesoch-aderkeroi-secures-ngardmau-delegate-seat-in-the-2nd-runoff-election-by-17-votes/">Blesoch Aderkeroi secures Ngardmau Delegate seat in the 2nd Runoff Election by 17 Votes</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/blesoch-aderkeroi-secures-ngardmau-delegate-seat-in-the-2nd-runoff-election-by-17-votes/>
+
+---
+
+## Car plunges into Water at Ngaraard Causeway, driver taken to hospital
+
+date: 2025-01-10, from: Island Times
+
+<figure><img width="1024" height="572" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Car-Plunges-into-Water-at-Ngaraard-.jpg?fit=1024%2C572&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Car-Plunges-into-Water-at-Ngaraard-.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Car-Plunges-into-Water-at-Ngaraard-.jpg?resize=300%2C168&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Car-Plunges-into-Water-at-Ngaraard-.jpg?resize=1024%2C572&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Car-Plunges-into-Water-at-Ngaraard-.jpg?resize=768%2C429&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Car-Plunges-into-Water-at-Ngaraard-.jpg?resize=1200%2C671&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Car-Plunges-into-Water-at-Ngaraard-.jpg?resize=400%2C224&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Car-Plunges-into-Water-at-Ngaraard-.jpg?resize=706%2C395&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Car-Plunges-into-Water-at-Ngaraard-.jpg?fit=1024%2C572&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74949" data-permalink="https://islandtimes.org/car-plunges-into-water-at-ngaraard-causeway-driver-taken-to-hospital/car-plunges-into-water-at-ngaraard/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Car-Plunges-into-Water-at-Ngaraard-.jpg?fit=1249%2C698&amp;ssl=1" data-orig-size="1249,698" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Car Plunges into Water at Ngaraard" data-image-description="" data-image-caption="&lt;p&gt;(A car submerged off the Ngaraard causeway, as seen in a Facebook live stream by local resident Gloria Ngirasiau on January 8, 2025)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Car-Plunges-into-Water-at-Ngaraard-.jpg?fit=300%2C168&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Car-Plunges-into-Water-at-Ngaraard-.jpg?fit=780%2C436&amp;ssl=1" /></figure>
+<p>Ngaraard, Palau — A vehicle accident at the Ngaraard causeway occurred in the morning of January 8, 2025, caught attention after a local resident streamed the incident live on Facebook. The video, shared by Ngaraard resident Gloria Ngirasiau, showed an SUV submerged in the water off the causeway. According to Gloria, she was outside inspecting [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/car-plunges-into-water-at-ngaraard-causeway-driver-taken-to-hospital/">Car plunges into Water at Ngaraard Causeway, driver taken to hospital</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/car-plunges-into-water-at-ngaraard-causeway-driver-taken-to-hospital/>
+
+---
+
+## “Ngardmau State 11th Constitutional government installation ceremony
+
+date: 2025-01-10, from: Island Times
+
+<figure><img width="600" height="764" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Ngardmau-State-11th-1.jpg?fit=600%2C764&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Ngardmau-State-11th-1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Ngardmau-State-11th-1.jpg?resize=236%2C300&amp;ssl=1 236w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Ngardmau-State-11th-1.jpg?resize=400%2C509&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Ngardmau-State-11th-1.jpg?fit=600%2C764&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74946" data-permalink="https://islandtimes.org/ngardmau-state-11th-constitutional-government-installation-ceremony/ngardmau-state-11th-1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Ngardmau-State-11th-1.jpg?fit=600%2C764&amp;ssl=1" data-orig-size="600,764" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Ngardmau State 11th 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Ngardmau-State-11th-1.jpg?fit=236%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Ngardmau-State-11th-1.jpg?fit=600%2C764&amp;ssl=1" /></figure>
+<p>Ngardmau, Palau – On January 7, 2024, Ngardmau State Government officially installed its 11th&#160;Constitutional Government in a ceremony held at Ngmall, Ngardmau. The event was attended by local dignitaries and citizens, marking the beginning of a new chapter in the state’s governance. Governor Jennifer Ngiraiwet was sworn into office, delivering the governor’s address focused on [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngardmau-state-11th-constitutional-government-installation-ceremony/">“Ngardmau State 11th Constitutional government installation ceremony</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ngardmau-state-11th-constitutional-government-installation-ceremony/>
+
+---
+
+## Court defers prosecution of former Aimeliik Land Authority Chair on felony charges
+
+date: 2025-01-10, from: Island Times
+
+<p>By: L.N. Reklai KOROR, Palau — The prosecution of Clarence Sriderio Rengulbai, former chairman of the Aimeliik State Public Land Authority, has been deferred for six months under conditions set by the Palau Supreme Court. Rengulbai faced felony charges of Theft of Government Property in the First Degree and Misconduct in Public Office for allegedly [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/court-defers-prosecution-of-former-aimeliik-land-authority-chair-on-felony-charges/">Court defers prosecution of former Aimeliik Land Authority Chair on felony charges</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/court-defers-prosecution-of-former-aimeliik-land-authority-chair-on-felony-charges/>
+
+---
+
+## Palau Tourism Minister optimistic about 2025 Growth
+
+date: 2025-01-10, from: Island Times
+
+<p>Palau’s Tourism Minister Ngirai Tmetuchl has expressed a positive outlook for the country’s tourism industry in 2025, citing promising visitor numbers and expanding flight connections. According to Tmetuchl, Palau welcomed 56,183 visitors by the end of December 2024, a figure representing 60% of the pre-pandemic visitor arrivals in 2019. The minister highlighted the impact of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-tourism-minister-optimistic-about-2025-growth/">Palau Tourism Minister optimistic about 2025 Growth</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-tourism-minister-optimistic-about-2025-growth/>
+
+---
+
+## Three Palau States usher in new leadership for 2025
+
+date: 2025-01-10, from: Island Times
+
+<figure><img width="900" height="355" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/three-palau.jpg?fit=900%2C355&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/three-palau.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/three-palau.jpg?resize=300%2C118&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/three-palau.jpg?resize=768%2C303&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/three-palau.jpg?resize=400%2C158&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/three-palau.jpg?resize=706%2C278&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/three-palau.jpg?fit=900%2C355&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74944" data-permalink="https://islandtimes.org/three-palau-states-usher-in-new-leadership-for-2025/jan10issue-indd/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/three-palau.jpg?fit=900%2C355&amp;ssl=1" data-orig-size="900,355" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;jan10issue.indd&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="jan10issue.indd" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/three-palau.jpg?fit=300%2C118&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/three-palau.jpg?fit=780%2C308&amp;ssl=1" /></figure>
+<p>Three of Palau&#8217;s 16 states have begun 2025 with new governments, marking transitions in leadership for two states and a continued term for another. Peleliu State and Angaur State inaugurated their new administrations on January 1, 2025, while Ngardmau State followed with its 11th government inauguration on January 7. Governor Natus Misech of Angaur State [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/three-palau-states-usher-in-new-leadership-for-2025/">Three Palau States usher in new leadership for 2025</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/three-palau-states-usher-in-new-leadership-for-2025/>
+
+---
+
+## Unexploded WWII bombs plague Palau amid US military build-up
+
+date: 2025-01-10, from: Island Times
+
+<p>UXOs contaminate the Pacific but there&#8217;s little clean-up funding despite hundreds of millions of dollars being spent on new defense infrastructure. By: Harry Pearl/Benar News (Peleliu, Palau) Palauan Sharla Paules surveys the contaminated ground of her lush tropical home island of Peleliu, still littered with WWII munitions 80 years after its liberation from the Japanese.  [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/unexploded-wwii-bombs-plague-palau-amid-us-military-build-up/">Unexploded WWII bombs plague Palau amid US military build-up</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/unexploded-wwii-bombs-plague-palau-amid-us-military-build-up/>
+
+---
+
+## Homebound Seniors in Babeldaob and Outlying States to receive hot lunches
+
+date: 2025-01-10, from: Island Times
+
+<p>KOROR, Palau — Starting January 13, homebound seniors in Babeldaob and outlying states will receive hot lunches through a partnership between the Old Age Program, the Ministry of Education, and state governments. Minister Gaafar Uherbelau of the Ministry of Health and Human Services announced the initiative during a press conference on Wednesday, January 8. Currently, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/homebound-seniors-in-babeldaob-and-outlying-states-to-receive-hot-lunches/">Homebound Seniors in Babeldaob and Outlying States to receive hot lunches</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/homebound-seniors-in-babeldaob-and-outlying-states-to-receive-hot-lunches/>
+
+---
+
+## Palau seeks support for Airport expansion to Boost Security, Economy
+
+date: 2025-01-10, from: Island Times
+
+<p>NGERULMUD (October 2022) — The Olbiil Era Kelulau (OEK) has adopted a resolution urging President Surangel Whipps Jr. to seek support from key allies, including the United States, Taiwan, Japan, Australia, and South Korea, for the expansion of Palau International Airport. House Joint Resolution No. 11-38-8, passed during the Eighth Regular Session, highlights the strategic [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-seeks-support-for-airport-expansion-to-boost-security-economy/">Palau seeks support for Airport expansion to Boost Security, Economy</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-seeks-support-for-airport-expansion-to-boost-security-economy/>
+
+---
+
+## Self-Control
+
+date: 2025-01-10, from: Island Times
+
+<figure><img width="301" height="284" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?w=301&amp;ssl=1 301w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="60533" data-permalink="https://islandtimes.org/risk-of-growing-up/womens-corner-1-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" data-orig-size="301,284" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" /></figure>
+<p>There are nine fruits of the Spirit mentioned in St. PAUL&#8217;s letter to the church of Galatia. They are love, joy, peace&#160; kindness, gentleness, faithfulness, goodness, patience, and self-control. There are three kinds of self-control: impulse control, emotional control, and movement control. The other day a friend texted me with what is known as unsolicited [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/self-control/">Self-Control</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/self-control/>
+
+---
+
+## Palau expected to have more Rain than Usual from January to March 2025
+
+date: 2025-01-10, from: Island Times
+
+<figure><img width="791" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICASO-and-ENSO-Outlooks-by-APCC-issued-Jan-2025.png?fit=791%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICASO-and-ENSO-Outlooks-by-APCC-issued-Jan-2025.png?w=1545&amp;ssl=1 1545w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICASO-and-ENSO-Outlooks-by-APCC-issued-Jan-2025.png?resize=232%2C300&amp;ssl=1 232w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICASO-and-ENSO-Outlooks-by-APCC-issued-Jan-2025.png?resize=791%2C1024&amp;ssl=1 791w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICASO-and-ENSO-Outlooks-by-APCC-issued-Jan-2025.png?resize=768%2C994&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICASO-and-ENSO-Outlooks-by-APCC-issued-Jan-2025.png?resize=1187%2C1536&amp;ssl=1 1187w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICASO-and-ENSO-Outlooks-by-APCC-issued-Jan-2025.png?resize=1200%2C1553&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICASO-and-ENSO-Outlooks-by-APCC-issued-Jan-2025.png?resize=400%2C518&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICASO-and-ENSO-Outlooks-by-APCC-issued-Jan-2025.png?resize=706%2C914&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICASO-and-ENSO-Outlooks-by-APCC-issued-Jan-2025.png?fit=791%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74922" data-permalink="https://islandtimes.org/palau-expected-to-have-more-rain-than-usual-from-january-to-march-2025/picaso-and-enso-outlooks-by-apcc-issued-jan-2025/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICASO-and-ENSO-Outlooks-by-APCC-issued-Jan-2025.png?fit=1545%2C2000&amp;ssl=1" data-orig-size="1545,2000" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="PICASO and ENSO Outlooks by APCC issued Jan 2025" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICASO-and-ENSO-Outlooks-by-APCC-issued-Jan-2025.png?fit=232%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICASO-and-ENSO-Outlooks-by-APCC-issued-Jan-2025.png?fit=780%2C1010&amp;ssl=1" /></figure>
+<p>Koror, Palau — Palau is likely to see more rain than usual from January to March 2025, according to the latest forecast from the Pacific Island Countries Advanced Seasonal Outlook (PICASO). Experts predict a 58% chance of above-normal rainfall during this time, driven by ongoing La Niña weather conditions. Normally, January sees over 284 millimeters [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-expected-to-have-more-rain-than-usual-from-january-to-march-2025/">Palau expected to have more Rain than Usual from January to March 2025</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-expected-to-have-more-rain-than-usual-from-january-to-march-2025/>
+
+---
+
+## Alleged Yakuza boss Takeshi Ebisawa admits to smuggling nuclear material
+
+date: 2025-01-10, from: Island Times
+
+<p>By Thomas Morgan with wires In short: (ABC-Australia) Takeshi Ebisawa has pleaded guilty in New York to conspiring with a network of associates to traffic nuclear materials from Myanmar, the US justice department says. The US justice department says Ebisawa told undercover operative, posing as an Iranian general, that he could supply plutonium and uranium. What&#8217;s next? [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/alleged-yakuza-boss-takeshi-ebisawa-admits-to-smuggling-nuclear-material/">Alleged Yakuza boss Takeshi Ebisawa admits to smuggling nuclear material</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/alleged-yakuza-boss-takeshi-ebisawa-admits-to-smuggling-nuclear-material/>
+
+---
+
+## PNG rugby player Keven Appo flew home after being charged with rape in England, court hears
+
+date: 2025-01-10, from: Island Times
+
+<p>By Papua New Guinea correspondent Marian Faa In short: (ABC-Australia) Keven Appo, who has been charged with rape, sexual assault of a female and two counts of assault in the UK, has flown home to PNG, an English court has heard. PNG&#8217;s government says the UK is yet to issue a formal request to extradite Keven [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/png-rugby-player-keven-appo-flew-home-after-being-charged-with-rape-in-england-court-hears/">PNG rugby player Keven Appo flew home after being charged with rape in England, court hears</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/png-rugby-player-keven-appo-flew-home-after-being-charged-with-rape-in-england-court-hears/>
+
+---
+
+## Tibet earthquake survivors at risk of hypothermia in sub-zero temperatures
+
+date: 2025-01-10, from: Island Times
+
+<p>In short:&#160; (ABC-Australia) At least 126 people are dead and 188 injured on the Tibetan side, with no fatalities yet reported by Nepal.&#160; More than 400 people have been rescued but 3,000 homes have been destroyed, leaving survivors without shelter in a below-freezing climate.&#160; What&#8217;s next?&#160; Rescuers are scrambling to reach survivors trapped under the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tibet-earthquake-survivors-at-risk-of-hypothermia-in-sub-zero-temperatures/">Tibet earthquake survivors at risk of hypothermia in sub-zero temperatures</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/tibet-earthquake-survivors-at-risk-of-hypothermia-in-sub-zero-temperatures/>
+
+---
+
+## Hollywood ablaze as fires rage around Los Angeles
+
+date: 2025-01-10, from: Island Times
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250109__36TD89R__v1__Preview__UsFireCalifornia.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250109__36TD89R__v1__Preview__UsFireCalifornia.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250109__36TD89R__v1__Preview__UsFireCalifornia.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250109__36TD89R__v1__Preview__UsFireCalifornia.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250109__36TD89R__v1__Preview__UsFireCalifornia.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250109__36TD89R__v1__Preview__UsFireCalifornia.jpg?resize=1200%2C799&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250109__36TD89R__v1__Preview__UsFireCalifornia.jpg?resize=400%2C266&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250109__36TD89R__v1__Preview__UsFireCalifornia.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250109__36TD89R__v1__Preview__UsFireCalifornia.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74915" data-permalink="https://islandtimes.org/hollywood-ablaze-as-fires-rage-around-los-angeles/us-fire-california/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250109__36TD89R__v1__Preview__UsFireCalifornia.jpg?fit=1249%2C832&amp;ssl=1" data-orig-size="1249,832" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;AFP&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;A firefighter runs near a burning structure along Pacific Coast Highway during the Palisades Fire in Malibu, California, on January 8, 2025. - At least five people have been killed in wildfires rampaging around Los Angeles, officials said on January 8, with firefighters overwhelmed by the speed and ferocity of multiple blazes -- including in Hollywood. (Photo by AGUSTIN PAULLIER \/ AFP)&quot;,&quot;created_timestamp&quot;:&quot;1736387733&quot;,&quot;copyright&quot;:&quot;AFP or licensors&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;US-FIRE-CALIFORNIA&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="US-FIRE-CALIFORNIA" data-image-description="" data-image-caption="&lt;p&gt;A firefighter runs near a burning structure along Pacific Coast Highway during the Palisades Fire in Malibu, California, on January 8, 2025. &#8211; At least five people have been killed in wildfires rampaging around Los Angeles, officials said on January 8, with firefighters overwhelmed by the speed and ferocity of multiple blazes &#8212; including in Hollywood. (Photo by AGUSTIN PAULLIER / AFP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250109__36TD89R__v1__Preview__UsFireCalifornia.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250109__36TD89R__v1__Preview__UsFireCalifornia.jpg?fit=780%2C519&amp;ssl=1" /></figure>
+<p>By: Huw GRIFFITH Hollywood, United States&#8211; At least five people have been killed in wildfires rampaging around Los Angeles, officials said Wednesday, with firefighters overwhelmed by the speed and ferocity of multiple blazes &#8212; including in Hollywood. Up to 1,500 buildings have burned in fires wreaking havoc around America&#8217;s second biggest city, forcing over 100,000 people [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/hollywood-ablaze-as-fires-rage-around-los-angeles/">Hollywood ablaze as fires rage around Los Angeles</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/hollywood-ablaze-as-fires-rage-around-los-angeles/>
+
+---
+
+## After Trump’s election win, Meta is firing fact checkers and making big changes
+
+date: 2025-01-10, from: Island Times
+
+<p>By Brad Ryan in Washington DC (ABC-Australia) Meta boss Mark Zuckerberg has announced a bunch of big changes for Facebook, Instagram and Threads. He says Donald Trump&#8217;s election win represents a &#8220;cultural tipping point&#8221; in favour of free speech, and his company will work with Trump to push back on censorship. The president-elect has praised the changes [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/after-trumps-election-win-meta-is-firing-fact-checkers-and-making-big-changes/">After Trump&#8217;s election win, Meta is firing fact checkers and making big changes</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/after-trumps-election-win-meta-is-firing-fact-checkers-and-making-big-changes/>
+
+---
+
+## Guam residents still burdened by credit card costs despite fee waiver law
+
+date: 2025-01-10, from: Pacific Island Times
+
+Despite the appropriation of $4.7 million to cover the credit card fee waiver, Guam residents are still getting charged the so-called “conve 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-residents-still-burdened-by-credit-card-costs-despite-fee-waiver-law>
+
+---
+
+## Innovative vaccine design targets HIV’s weak spots
+
+date: 2025-01-10, from: University of Hawaiʻi News
+
+<p>Iain MacPherson’s new vaccine design will target conserved virus regions and combat rapid mutations.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/09/hiv-vaccine-targets-weak-spots/">Innovative vaccine design targets <abbr>HIV</abbr>’s weak spots</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/09/hiv-vaccine-targets-weak-spots/>
+
+---
+
+## How does solar energy panels help farming?
+
+date: 2025-01-09, from: University of Hawaiʻi News
+
+<p>The <abbr>UH</abbr> Office of Sustainability and College of Engineering participated in a tour of the <span aria-label="Hawaii">Hawai&#699;i</span> Agriculture Research Center Agrisolar project.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/09/agrivoltaics/">How does solar energy panels help farming?</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/09/agrivoltaics/>
+
+---
+
+## Martin’s marketing focus
+
+date: 2025-01-09, from: Marshal Islands Journal
+
+<p>Journal 1/8/1982 P1 Small waves hitSome houses were flooded Friday by waves similar but smaller than those of 1979. A few pig pens and wooden structures were swept away in all the old areas such as Enenedrik and the north end of Uliga. Water entered some US-funded Individual and Family Grant (IFG) houses in Enenedrik, [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/martins-marketing-focus/">Martin&#8217;s marketing focus</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/martins-marketing-focus/>
+
+---
+
+## New AI model helps predict veteran suicide risk
+
+date: 2025-01-09, from: University of Hawaiʻi News
+
+<p>In its testing, the model identified a high-risk group comprising 10&#37; of soldiers.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/09/ai-model-veteran-suicide-risk/">New <abbr>AI</abbr> model helps predict veteran suicide risk</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/09/ai-model-veteran-suicide-risk/>
+
+---
+
+## Shidler College of Business reports 91% employment rate for recent BBA grads
+
+date: 2025-01-09, from: University of Hawaiʻi News
+
+<p>The college also facilitates more than 400 student internships annually.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/09/shidler-college-recent-grads-employment/">Shidler College of Business reports 91% employment rate for recent <abbr>BBA</abbr> grads</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/09/shidler-college-recent-grads-employment/>
+
+---
+
+## Headwinds and tailwinds in 2025: Guam’s economic outlook against the backdrop of geopolitics, Trump policies
+
+date: 2025-01-09, from: Pacific Island Times
+
+Guam’s economic outlook for 2025 is a mix of cautious optimism and challenges. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/headwinds-and-tailwinds-in-2025-guam-s-economic-outlook-against-the-backdrop-of-geopolitics-trump>
+
+---
+
+## This Morning Rendezvous
+
+date: 2025-01-09, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by John Grey Behind the mist, beyond the window, the forest, body murmurs, refutes the sleepy council of its dreams, waits to be peeled apart by an engaging fingertip. Morning&#8211;sun so light and equal to whatever task I give it&#8211; &#8230; <a href="https://hawaiipacificreview.org/2025/01/09/this-morning-rendezvous/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/01/09/this-morning-rendezvous/>
 
 ---
 
@@ -296,6 +913,20 @@ date: 2025-01-09, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/01/09/nation-world-news/russian-strike-kills-13-in-zaporizhzhia-ukraine/>
+
+---
+
+## DOH reports rise in number of Hawaii students not up to date on immunizations
+
+date: 2025-01-09, from: Hawaii Tribune Harold
+
+
+				<p>The number of Hawaii students not up to date with immunizations is increasing, according to new data from the state Department of Health, which described the trend as &#8220;a concerning development.&#8221; </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/09/hawaii-news/doh-reports-rise-in-number-of-hawaii-students-not-up-to-date-on-immunizations/>
 
 ---
 

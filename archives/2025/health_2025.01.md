@@ -1,11 +1,71 @@
 ---
 title: health
-updated: 2025-01-09 07:06:05
+updated: 2025-01-10 07:05:41
 ---
 
 # health
 
-(date: 2025-01-09 07:06:05)
+(date: 2025-01-10 07:05:41)
+
+---
+
+## Clinical characteristics and the role of IL-6 in acute-on-chronic liver failure patients with or without COVID-19: a multicenter paired cohort study
+
+date: 2025-01-10, from: Frontiers in Cellular and Infection Microbiology
+
+Background and AimsThe impact of coronavirus disease 2019 (COVID-19) on patients with acute-on-chronic liver failure (ACLF) remains unclear. To investigate the clinical characteristics of patients with ACLF complicated with COVID-19 in order to provide evidence for the precise treatment of this patient population.MethodsA total of 34 ACLF patients with COVID-19 admitted to these three hospitals from December 2022 to August 2023 were included as the ACLF+COVID-19 group. Additionally, 34 age-, gender-, etiology-, and Model for End-Stage Liver Disease-Sodium (MELD-Na) score-matched ACLF patients were screened from 286 ACLF patients as the ACLF group. From 382 COVID-19 patients, 34 were selected as the COVID-19 group, matching the ACLF+COVID-19 group in age, gender, and illness severity. Clinical features of these three groups were compared, with the primary measure being the 28-day mortality rate in the ACLF patients and the secondary measures including clinical symptoms, laboratory tests, comorbidities, and complications in three groups.ResultsCompared with the ACLF group, the ACLF+COVID-19 group had significantly higher incidence rates of fever, cough, sputum production, fatigue, and hypoxemia (all p<0.01). Patients in the ACLF+COVID-19 group were more likely to have hepatic encephalopathy (p=0.015), lower platelet count (p=0.016) and elevated IL-6 level (p=0.026), and higher MELD-Na score (p=0.041) one week after admission, but without a significant increase in 28-day mortality rate (p=0.16).ConclusionsACLF patients with COVID-19 have increased risk for thrombocytopenia, more obvious inflammatory response, and rapid disease progression 1 week after admission, but the 28-day mortality rate is similar to that of ACLF patients without COVID-19. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1471974>
+
+---
+
+## Investigating the biological significance of the TCM principle “promoting urination to regulate bowel movements” through the influence of the intestinal microbiota and their metabolites on the renal-intestinal axis
+
+date: 2025-01-10, from: Frontiers in Cellular and Infection Microbiology
+
+Treatment methods in traditional Chinese medicine (TCM) are foundational to their theoretical, methodological, formulaic, and pharmacological systems, significantly contributing to syndrome differentiation and therapy. The principle of “promoting urination to regulate bowel movements” is a common therapeutic approach in TCM. The core concept is “promoting the dispersion and drainage of water dampness, regulating urination to relieve diarrhea,” yet its scientific underpinning remains unclear. Modern medical treatment for watery diarrhea primarily focuses on electrolyte replenishment, as diuretics may lead to dehydration and other side effects. Some reports suggest that this TCM approach lacks scientific validity. Microecology, an area associated with the origins of TCM, is closely related to the development, diagnosis, and treatment of diarrhea. The renal-intestinal axis offers a molecular biological basis for examining associated pathological mechanisms, advancing therapeutic targets such as “treating the intestine to address kidney issues” and highlighting the interactions within the “renal-intestinal microbiota-liquid metabolism” framework, thus providing an endogenous mechanism to support “treating the intestine through the kidney.” An increasing number of studies have shown that the intestinal microbiota and its metabolites, as unique mediators, are involved in the physiological and pathological changes of the body. Therefore, this study explores the relationship between fluid metabolism and diarrhea from the perspective of the intestinal microbiota and its metabolites, aiming to elucidate the biological mechanisms underlying the “promoting urination to regulate bowel movements” therapeutic approach and to clarify the scientific basis for treating diarrhea via the renal-intestinal axis. This research provides new insights for the study of TCM microbiology. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1523708>
+
+---
+
+## The independent predictive value of admission serum ferritin concentration for prognosis in elderly patients with community-acquired pneumonia in the emergency department
+
+date: 2025-01-10, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundCommunity-acquired pneumonia (CAP) poses a significant health threat to the elderly population, leading to high morbidity and mortality rates. Serum ferritin, a critical indicator of iron metabolism, plays a pivotal role in inflammation and immune regulation. Nevertheless, its specific prognostic relevance in elderly patients with CAP remains unclear. This study aimed to evaluate the predictive capacity of serum ferritin in determining the prognosis of elderly patients with CAP and to investigate its effectiveness when combined with the sequential organ failure assessment (SOFA) or CURB-65 (confusion, uremia, respiratory rate, blood pressure, aged ≥65 years) scores.MethodsThis retrospective cohort study included 451 elderly patients (aged ≥65 years) diagnosed with CAP according to established criteria. Serum ferritin concentrations were measured upon admission and various prognostic indicators such as 28-day mortality, mechanical ventilation requirement, and vasopressor administration were analyzed in conjunction with white blood count (WBC), C-reactive protein (CRP), procalcitonin (PCT), lactate (Lac), SOFA scores, and CURB-65 scores. The independent predictive value of ferritin was assessed through receiver operating characteristic (ROC) curve analysis and multivariate logistic regression.ResultsAmong the 451 patients, 99 (22%) died within 28 days. The area under the curve (AUC) of serum ferritin for predicting 28-day mortality was 0.75 (95%CI: 0.695-0.805). Ferritin outperformed WBC, CRP, and PCT in predictive performance, and its performance was comparable to Lac. When combined with SOFA or CURB-65 scores, the AUC of ferritin for predicting 28-day mortality increased to 0.84 and 0.847, respectively (P<0.001). Moreover, the AUC of ferritin for predicting vasopressor administration was 0.707, which increased to 0.864 and 0.822 when combined with SOFA or CURB-65 scores, respectively (P<0.001). Ferritin could predict mechanical ventilation requirement with an AUC of 0.618, but it was not an independent risk factor, and its predictive ability was not significantly different from other indicators.ConclusionAdmission serum ferritin is an independent predictor for the prognosis of elderly patients with CAP, and it exhibits a strong ability to predict the 28-day mortality and vasopressor administration. The combination of ferritin with SOFA and CURB-65 scores significantly improves the prognostic predictive potency. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1505207>
+
+---
+
+## Exploring mosquito virome dynamics within São Paulo Zoo: insights into mosquito-virus-environment interactions
+
+date: 2025-01-10, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundMosquito-borne diseases have a significant public health threat worldwide, with arboviruses accounting for a high proportion of infectious diseases and mortality annually. Brazil, in particular, has been suffering outbreaks of diseases transmitted by mosquito viruses, notably those of the Aedes genus, such as dengue, Zika, and chikungunya. Against this background, the São Paulo Zoo is an intriguing ecological niche to explore the virome of mosquitoes, potentially shedding light on the dynamics of arbovirus transmission within a confined setting.MethodsIn this study, we conducted a comprehensive metagenomic analysis of mosquitoes collected from diverse habitats within the zoo, focusing on the Aedes, Anopheles, and Culex genera. From 1,039 contigs of viral origin, we identified 229 viral species infecting mosquitoes, with the orders Picornavirales, Nodamuvirales and Sobelivirales being the most prevalent and abundant. The difference in virome composition was primarily driven by mosquito host species rather than specific collection sites or trap height.ResultsDespite environmental disparities, the virome remained remarkably uniform across different areas of the zoo, emphasizing the strong association between mosquito species and their viral communities. Furthermore, we identified a core virome shared among mosquito species, highlighting potential cross-species transmission events and underscoring the need for targeted surveillance and control measures.ConclusionThese results contribute to our understanding of the interplay between mosquitoes, the environment, and viruses, providing valuable insights for disease intervention strategies in mosquito-borne diseases. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1496126>
+
+---
+
+## Genomic analysis of the main epidemiological lineages of Acinetobacter baumannii in Mexico
+
+date: 2025-01-10, from: Frontiers in Cellular and Infection Microbiology
+
+Acinetobacter baumannii has emerged as a critical global health threat due to its exceptional survival skills in adverse environment and its ability to acquire antibiotic resistance, presenting significant challenges for infection treatment and control. The World Health Organization has classified carbapenem-resistant A. baumannii as a “Critical Priority” pathogen to guide research and the development of control and prevention strategies. Epidemiological surveillance methodologies provide the tools necessary for classifying A. baumannii into international clonal lineages, facilitating the analysis of molecular characteristics, global dissemination, and evolution. This study provides a detailed analysis of the molecular epidemiology of A. baumannii in Mexico, focusing on identifying the main international clonal lineages. Genomic analyses of 146 genomes, along with information from previous studies, identified 24 different sequence types according to the Oxford Scheme. The major international clone IC2 (CC208) was identified and harbors β-lactamases OXA-66, ADC-30, OXA-72, and is predicted to possess the OCL1 locus. The international clone IC5 (CC205) carries β-lactamase OXA-65, along with ADC-214 and OXA-239, with OCL10 predicted in 82.2% of the genomes. The international clone IC7 (CC229) harbors β-lactamase OXA-64, as well as ADC-174 and ADC-214, with OCL6 and OCL7 loci predicted. These international clones were identified in different periods and regions of Mexico and are likely to be widely distributed throughout the country. The analysis of each lineage reveals distinct molecular characteristics, including sequence types, capsule typing, outer core loci, and specific antibiotic resistance profiles. Understanding these features is crucial for elucidating their roles in infection dynamics, resistance mechanisms, and their impact on clinical outcomes. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1499839>
 
 ---
 

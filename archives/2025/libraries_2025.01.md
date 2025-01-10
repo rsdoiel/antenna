@@ -1,11 +1,49 @@
 ---
 title: libraries
-updated: 2025-01-09 07:06:04
+updated: 2025-01-10 07:05:40
 ---
 
 # libraries
 
-(date: 2025-01-09 07:06:04)
+(date: 2025-01-10 07:05:40)
+
+---
+
+## Good Good Boy Alert: The Dogs of 2024
+
+date: 2025-01-10, from: Scholarly Kitchen
+
+<p>Before the chaos of 2025 really kicks in, luxuriate in the dogs of 2024.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/01/10/good-good-boy-alert-the-dogs-of-2024/">Good Good Boy Alert: The Dogs of 2024</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/01/10/good-good-boy-alert-the-dogs-of-2024/>
+
+---
+
+## Point Counter Point, by Aldous Huxley
+
+date: 2025-01-09, from: Standard Ebooks, new releaases
+
+Several connected stories are interwoven to create a satirical look at English society. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/aldous-huxley/point-counter-point>
+
+---
+
+## Metadata Matching: Beyond Correctness
+
+date: 2025-01-09, from: ROR Research ID Blog
+
+The fifth and final blog post about metadata matching by ROR’s Adam Buttrick and Crossref’s Dominika Tkaczyk outlines a set of pragmatic criteria for making decisions about metadata matching. 
+
+<br> 
+
+<https://ror.org/blog/2025-01-09-metadata-matching-beyond-correctness/>
 
 ---
 
@@ -93,6 +131,7 @@ date: 2025-01-08, from: CSUN Library Blog, Cited
 
 date: 2025-01-08, from: Crossref Blog
 
+<p><img src="https://www.crossref.org/img/crossref-logo-icon-only.svg" alt="Crossref logo icon" height="15" style="display: inline;" /> <a href="https://doi.org/10.13003/axeer1ee" target="_blank">https://doi.org/10.13003/axeer1ee</a></p>
 <p>In our <a href="https://www.crossref.org/blog/how-good-is-your-matching">previous entry</a>, we explained that thorough evaluation is key to understanding a matching strategy&rsquo;s performance. While evaluation is what allows us to assess the correctness of matching, choosing the best matching strategy is, unfortunately, not as simple as selecting the one that yields the best matches. Instead, these decisions usually depend on weighing multiple factors based on your particular circumstances. This is true not only for metadata matching, but for <a href="https://www.wired.com/2012/04/netflix-prize-costs/" target="_blank">many technical choices</a> that require navigating trade-offs. In this blog post, the last one in the metadata matching series, we outline a subjective set of criteria we would recommend you consider when making decisions about matching.</p>
 <h2 id="openness">Openness</h2>
 <p>Matching tools come in many different shapes and sizes: web applications, APIs, command-line tools, sometimes even <a href="https://adambuttrick.github.io/mysterious-crystal-ball-matching/" target="_blank">enchanted crystal balls showing matched identifiers emerging from a mysterious mist</a>! No matter what form they take, an important consideration is whether the source code and all the related resources for the matching are openly available.</p>

@@ -1,11 +1,187 @@
 ---
 title: food
-updated: 2025-01-09 07:06:05
+updated: 2025-01-10 07:05:42
 ---
 
 # food
 
-(date: 2025-01-09 07:06:05)
+(date: 2025-01-10 07:05:42)
+
+---
+
+## Ninja Just Soft-Launched the Creami Swirl on TikTok—Here’s What We Know
+
+date: 2025-01-10, from: Taste of Home
+
+<p>You scream, I scream. We all scream for the new Ninja Swirl by Creami.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ninja-creami-swirl/">Ninja Just Soft-Launched the Creami Swirl on TikTok—Here&#8217;s What We Know</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ninja-creami-swirl/>
+
+---
+
+## Ring in the New Year With January's Cook With Bon Appétit Box
+
+date: 2025-01-10, from: Bon Appetet
+
+Strawberry cheesecake, harissa-spiced brisket, sheet-pan salmon, and more recipes perfect for winter 
+
+<br> 
+
+<https://www.bonappetit.com/story/bon-appetit-box-6>
+
+---
+
+## Third Wave Water Acquires Perfect Coffee Water
+
+date: 2025-01-10, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Perfect-Coffee-Water-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Perfect Coffee Water" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Perfect-Coffee-Water-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Perfect-Coffee-Water-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Perfect-Coffee-Water-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Perfect-Coffee-Water-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Perfect-Coffee-Water.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Ohio-based water mineralization product maker Third Wave Water (TWW) has has acquired fellow coffee water specialist Perfect Coffee Water (PCW). The acquisition includes all of Washington State-based Perfect Coffee Water&#8217;s... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/10/third-wave-water-acquires-perfect-coffee-water/>
+
+---
+
+## Weekly Coffee News: Proud Mary’s All-Cold Journey + A Macro Cortado
+
+date: 2025-01-10, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Proud-Mary-Coffee-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Proud Mary Coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Proud-Mary-Coffee-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Proud-Mary-Coffee-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Proud-Mary-Coffee-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Proud-Mary-Coffee-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Proud-Mary-Coffee.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Proud Mary Coffee Partners with Lost Origin for an... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/10/weekly-coffee-news-proud-marys-all-cold-journey-a-macro-cortado/>
+
+---
+
+## Cornbread Breakfast Casserole
+
+date: 2025-01-10, from: Bon Appetet
+
+Protein-heavy, easy to portion, and ideal for making ahead, this breakfast casserole made with boxed corn muffin mix will see you through busy mornings. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/cornbread-breakfast-casserole>
+
+---
+
+## Green Curry Lentils and Pasta
+
+date: 2025-01-10, from: Bon Appetet
+
+This rich lentil soup is loaded with flavor and texture: coconut milk for creaminess and curry paste for punch, plus tons of spinach and a bit of tiny pasta. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/green-curry-lentils-and-pasta>
+
+---
+
+## Roastery Breakdown: Buunni Coffee and The Roasting Room in New York
+
+date: 2025-01-10, from: The Fresh Cup
+
+<p>Buunni Coffee has long been a staple in Upper Manhattan. Now, it hopes to bring educational opportunities and provide a roasting resource to the Bronx with its latest project, The Roasting Room.</p>
+<p>The post <a href="https://freshcup.com/roastery-breakdown-buunni-coffee-and-the-roasting-room-in-new-york/">Roastery Breakdown: Buunni Coffee and The Roasting Room in New York</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/roastery-breakdown-buunni-coffee-and-the-roasting-room-in-new-york/>
+
+---
+
+## Unbelievably Good Pizza and More Recipes We Made This Week
+
+date: 2025-01-10, from: Bon Appetet
+
+Like papas con rajas and creamy giardiniera dip. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-january-2025>
+
+---
+
+## Avocado Salsa Verde Recipe
+
+date: 2025-01-10, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/avocado-salsa-verde/" title="Avocado Salsa Verde Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Avocado-Salsa-Verde-Recipe-with-Tomatillo-CHIP2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mike scooping Creamy Avocado Salsa Verde with a Tortilla Chip" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Avocado-Salsa-Verde-Recipe-with-Tomatillo-CHIP2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Avocado-Salsa-Verde-Recipe-with-Tomatillo-CHIP2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Avocado-Salsa-Verde-Recipe-with-Tomatillo-CHIP2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Avocado-Salsa-Verde-Recipe-with-Tomatillo-CHIP2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Avocado-Salsa-Verde-Recipe-with-Tomatillo-CHIP2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Avocado-Salsa-Verde-Recipe-with-Tomatillo-CHIP2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Avocado-Salsa-Verde-Recipe-with-Tomatillo-CHIP2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This creamy Avocado Salsa Verde is a delicious blend fresh tomatillos, ripe avocados, and zesty lime juice, perfect for tacos, chips, and so much more.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/avocado-salsa-verde/">Avocado Salsa Verde Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/avocado-salsa-verde/>
+
+---
+
+## 4 Secrets for a Sparkling Kitchen from Drew and Jonathan Scott
+
+date: 2025-01-09, from: Taste of Home
+
+<p>The brothers know what it takes to keep a kitchen clean and tidy. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/drew-and-jonathan-scott-cleaning-secrets/">4 Secrets for a Sparkling Kitchen from Drew and Jonathan Scott</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/drew-and-jonathan-scott-cleaning-secrets/>
+
+---
+
+## I Need a Simple-Yet-Impressive Cake Recipe
+
+date: 2025-01-09, from: Bon Appetet
+
+On this episode of Dinner SOS, Shilpa and Jesse are back with this month’s installment of BA Bake Club featuring the most delicious, simple and long-lasting chocolate olive oil cake recipe. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-a-simple-yet-impressive-cake-recipe>
+
+---
+
+## Best Nonstick Pans 2025: Expert Recommendations for At-Home Chefs
+
+date: 2025-01-09, from: Bon Appetet
+
+Here’s what the pros use at work and at home. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-nonstick-pans>
+
+---
+
+## Creamy Pistachio Cheesecake
+
+date: 2025-01-09, from: Taste of Home
+
+The secret ingredient to the best pistachio cheesecake is real pistachio butter, but a homemade graham cracker crust and full-fat ingredients certainly help, too. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/creamy-pistachio-cheesecake/>
+
+---
+
+## Pony Coffee Gallops Into Tulsa with First Cafe
+
+date: 2025-01-09, from: Daily Coffee News
+
+<div><img width="620" height="421" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Pony-Coffee-Tulsa-2-1-620x421.jpeg" class="attachment-large size-large wp-post-image" alt="Pony Coffee Tulsa 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Pony-Coffee-Tulsa-2-1-620x421.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Pony-Coffee-Tulsa-2-1-300x203.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Pony-Coffee-Tulsa-2-1-150x102.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Pony-Coffee-Tulsa-2-1-768x521.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Pony-Coffee-Tulsa-2-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new coffee roasting company called Pony Coffee is showing itself in Tulsa, with its first cafe in a landmark building in Riverview. The coffee shop that opened in October... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/09/pony-coffee-gallops-into-tulsa-with-first-cafe/>
 
 ---
 
@@ -27,7 +203,7 @@ date: 2025-01-09, from: Taste of Home
 
 date: 2025-01-09, from: Daily Coffee News
 
-<div><img width="620" height="455" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1-620x455.png" class="attachment-large size-large wp-post-image" alt="costa rica carribean coffee agroforestry 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1-620x455.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1-300x220.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1-150x110.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1-768x564.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A groundbreaking multi-year study on coffee agroforestry in Costa Rica’s Caribbean lowlands revealed promising strategies to expand coffee cultivation into non-traditional regions. The implications may be globally significant, considering the... 
+<div><img width="620" height="455" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1-620x455.png" class="attachment-large size-large wp-post-image" alt="costa rica carribean coffee agroforestry 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1-620x455.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1-300x220.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1-150x110.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1-768x564.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/costa-rica-carribean-coffee-agroforestry-1.png 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A groundbreaking multi-year study on coffee agroforestry in Costa Rica’s Caribbean lowlands revealed promising strategies to expand coffee cultivation into non-traditional regions. The implications may be globally significant, considering the... 
 
 <br> 
 
@@ -131,7 +307,7 @@ date: 2025-01-08, from: Taste of Home
 
 date: 2025-01-08, from: Daily Coffee News
 
-<div><img width="620" height="396" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-620x396.jpg" class="attachment-large size-large wp-post-image" alt="Smile Tiger Coffee Roasters" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-620x396.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-300x191.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters.jpg 677w" sizes="(max-width: 620px) 100vw, 620px" /></div>Publicly traded Canadian company Happy Belly Food Group signed a definitive agreement to acquire Kitchener, Ontario-based Smile Tiger Coffee Roasters in a deal worth approximately $173,000 USD. The acquisition represents... 
+<div><img width="620" height="396" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-620x396.jpg" class="attachment-large size-large wp-post-image" alt="Smile Tiger Coffee Roasters" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-620x396.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-300x191.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Smile-Tiger-Coffee-Roasters.jpg 677w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Publicly traded Canadian company Happy Belly Food Group signed a definitive agreement to acquire Kitchener, Ontario-based Smile Tiger Coffee Roasters in a deal worth approximately $173,000 USD. The acquisition represents... 
 
 <br> 
 
@@ -181,7 +357,7 @@ date: 2025-01-08, from: Taste of Home
 
 date: 2025-01-08, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="time to drink coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A major new study found that people who primarily drink coffee in the morning may have a lower risk of dying prematurely — especially from heart disease — than people... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="time to drink coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/time-to-drink-coffee.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A major new study found that people who primarily drink coffee in the morning may have a lower risk of dying prematurely — especially from heart disease — than people... 
 
 <br> 
 
@@ -615,7 +791,7 @@ date: 2025-01-06, from: Closet Cooking
 
 date: 2025-01-06, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/chimichurri-chicken-recipe/" title="Chimichurri Chicken Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Chicken-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Chimichurri Chicken on a plate with extra chimichurri sauce" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Chicken-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Chicken-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Chicken-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Chicken-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Chicken-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Chicken-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Chicken-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This chimichurri chicken is so quick and easy with boneless chicken marinated and served with vibrant chimichurri sauce, huge on flavor, done in 30 minutes.</p>
+<a href="https://www.chilipeppermadness.com/recipes/chimichurri-chicken-recipe/" title="Chimichurri Chicken Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Chicken-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Chimichurri Chicken on a plate with extra chimichurri sauce" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Chicken-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Chicken-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Chicken-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Chicken-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Chicken-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Chicken-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chimichurri-Chicken-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This chimichurri chicken is so quick and easy with boneless chicken marinated and served with vibrant chimichurri sauce, huge on flavor, done in 30 minutes.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/chimichurri-chicken-recipe/">Chimichurri Chicken Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

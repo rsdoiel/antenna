@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2025-01-09 07:06:05
+updated: 2025-01-10 07:05:42
 ---
 
 # craft
 
-(date: 2025-01-09 07:06:05)
+(date: 2025-01-10 07:05:42)
+
+---
+
+## ‘Cut & Dried’ and Assessing Wood Moisture Content
+
+date: 2025-01-10, from: Lost Arg Press blog
+
+Editor&#8217;s note: The third edition of &#8220;Cut &#38; Dried&#8221; should arrive in February. You can sign up to be notified when it arrives here. In this post, author Richard Jones explains his update to Chapter 6. In 2021, I decided I ought to update “Cut &#38; Dried,” and the third reprint of it at the... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/01/10/cut-dried-and-assessing-wood-moisture-content/>
+
+---
+
+## Newly Arrived! Handmade Leather Bags from the Artisan's Alliance of Jawaja — Handworked Artistry
+
+date: 2025-01-09, updated: 2025-01-09, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2025/01/newly-arrived-handmade-leather-bags.html>
 
 ---
 

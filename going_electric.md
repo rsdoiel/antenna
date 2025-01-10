@@ -1,11 +1,435 @@
 ---
 title: going electric
-updated: 2025-01-09 07:06:05
+updated: 2025-01-10 07:05:42
 ---
 
 # going electric
 
-(date: 2025-01-09 07:06:05)
+(date: 2025-01-10 07:05:42)
+
+---
+
+## Tesla Model 3 Owner Reveals Surprising LFP Battery Degradation After 110,000 Miles
+
+date: 2025-01-10, from: Inside EVs News
+
+The car has been regularly DC fast charged to 100%, but the degradation level is minimal. 
+
+<br> 
+
+<https://insideevs.com/news/746729/tesla-model-3-lfp-battery-degradation-owner-review/>
+
+---
+
+## Tesla issues recall on over 200,000 for the self-driving computer failure
+
+date: 2025-01-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Hardware-4-self-driving-computer.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has officially issued a recall on over 200,000 vehicles in the US over the self-driving computer inside the vehicle short-circuiting and failing to work.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="397305" href="https://electrek.co/2025/01/10/tesla-issues-recall-on-over-200000-for-the-self-driving-computer-failure/#more-397305" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/10/tesla-issues-recall-on-over-200000-for-the-self-driving-computer-failure/>
+
+---
+
+## The New Tesla Model Y Is Here. It's Got Some Heavy Lifting To Do
+
+date: 2025-01-10, from: Inside EVs News
+
+Can these updates help the Model Y retain its sales crown as the competition heats up? Plus, cars stole the show at CES 2025. 
+
+<br> 
+
+<https://insideevs.com/news/746905/tesla-model-y-juniper-critical-materials/>
+
+---
+
+## Mazda unveils its new EV for Europe: Meet the Mazda 6e with nearly 350 miles range
+
+date: 2025-01-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Mazda-6e-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The electric <a href="https://electrek.co/guides/mazda/">Mazda</a> 6 successor will arrive in Europe this summer. Mazda finally revealed its new EV, the Mazda 6e, with nearly 350 miles of driving range. Check out the new Mazda EV below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mazda" data-layer-viewtype="unknown" data-post-id="397296" href="https://electrek.co/2025/01/10/mazda-unveils-new-ev-europe-6e-340-mi-range/#more-397296" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/10/mazda-unveils-new-ev-europe-6e-340-mi-range/>
+
+---
+
+## The Updated Tesla Model Y Still Has A Turn Signal Stalk
+
+date: 2025-01-10, from: Inside EVs News
+
+On the Model 3, both steering column stalks were removed in favor of buttons on the steering wheel and screen. Not here, though. 
+
+<br> 
+
+<https://insideevs.com/news/746902/tesla-model-y-turn-signal-stalk/>
+
+---
+
+## World’s largest EV maker unveils new sodium battery electric motorbikes
+
+date: 2025-01-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/yadea-sodium-battery-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="http://yadea.com">Yadea</a>, which has claimed the title of the world’s largest electric vehicle maker for seven years running, has just announced a new electric motorbike powered by the company’s innovative HuaYu sodium-ion battery technology.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-scooter,sodium-ion-battery" data-layer-viewtype="unknown" data-post-id="397289" href="https://electrek.co/2025/01/10/worlds-largest-ev-maker-unveils-new-sodium-battery-electric-motorbikes/#more-397289" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/10/worlds-largest-ev-maker-unveils-new-sodium-battery-electric-motorbikes/>
+
+---
+
+## The Mazda 6e Is A Gorgeous RWD EV Liftback With A 50-Inch Virtual Screen
+
+date: 2025-01-10, from: Inside EVs News
+
+Looks aren’t everything, though. Specs also matter, and they’re intriguing, to say the least. 
+
+<br> 
+
+<https://insideevs.com/news/746844/mazda-6-ev-official-specs-range-photos/>
+
+---
+
+## CES2025 | John Deere autonomous mower promises a perfect cut, every time
+
+date: 2025-01-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/john-deere-Autonomous-Mower.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>At CES2025, the impressively built-out John Deere exhibit was all about automation. Autonomous job sites, autonomous farms … but it was this new, battery electric, autonomous lawn mowing robot that stole the show.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous,ces,electric-landscaping,john-deere" data-layer-viewtype="unknown" data-post-id="397192" href="https://electrek.co/2025/01/09/ces2025-john-deere-autonomous-mower-promises-a-perfect-cut-every-time/#more-397192" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/ces2025-john-deere-autonomous-mower-promises-a-perfect-cut-every-time/>
+
+---
+
+## Tesla sales fall, Honda brings back ASIMO, and a bunch of stuff from CES2025
+
+date: 2025-01-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/ct_burning_3.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Despite big discounts and 0% financing, Tesla sales are down for the first time in a decade … but there’s even bigger robot news with the return of Honda ASIMO, a flying car from China, and a whole lot more from today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ces,honda,las-vegas,tesla" data-layer-viewtype="unknown" data-post-id="397203" href="https://electrek.co/2025/01/09/tesla-sales-fall-honda-brings-back-asimo-and-a-bunch-of-stuff-from-ces2025/#more-397203" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/tesla-sales-fall-honda-brings-back-asimo-and-a-bunch-of-stuff-from-ces2025/>
+
+---
+
+## This is the Tesla Model Y Juniper refresh, just unveiled in China
+
+date: 2025-01-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/model-y-juniper-refresh-unveil-china-e1736472959219.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has officially unveiled the Model Y “Juniper” refresh, less than a day after <a href="https://electrek.co/2025/01/09/model-y-juniper-refresh-spied-uncamouflaged-for-first-time-in-winter-testing/">uncamouflaged photos of the vehicle</a> leaked online.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="juniper,tesla-model-y" data-layer-viewtype="unknown" data-post-id="397210" href="https://electrek.co/2025/01/09/this-is-the-refreshed-model-y-just-unveiled-in-china/#more-397210" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/this-is-the-refreshed-model-y-just-unveiled-in-china/>
+
+---
+
+## Tesla Model Y 'Juniper' Refresh: This Is It
+
+date: 2025-01-10, from: Inside EVs News
+
+Tesla introduced the long-awaited, updated Model Y crossover to its China website on Thursday. It offers design tweaks and more range. 
+
+<br> 
+
+<https://insideevs.com/news/746817/tesla-model-y-refresh-revealed/>
+
+---
+
+## Hyundai’s first EV sports car has even Lamborghini interested [Video]
+
+date: 2025-01-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Hyundais-EV-Lamborghini.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/hyundai-ioniq-5-n/">IONIQ 5 N</a> is the fastest Hyundai ever made, electric or gas-powered. The sporty electric car is so good that it’s now drawing the attention of some of the industry’s finest. Hyundai’s EV sports car was recently spotted outside a Lamborghini test facility. Check out the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5-n,lamborghini" data-layer-viewtype="unknown" data-post-id="397164" href="https://electrek.co/2025/01/09/hyundais-first-ev-sports-car-has-lamborghini-interested-video/#more-397164" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/hyundais-first-ev-sports-car-has-lamborghini-interested-video/>
+
+---
+
+## Hydrogen dead end: Hyzon board votes to dissolve company
+
+date: 2025-01-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/retreat.jpg?quality=82&#038;strip=all&#038;w=1280" /></div><p>The board of directors of the troubled hydrogen fuel cell maker has voted to dissolve the company that developed the first HFC garbage truck to North America <a href="https://electrek.co/2024/05/07/americas-first-hydrogen-garbage-truck-arrives-in-las-vegas/">last spring</a>, pending shareholder approval.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-trucks,hydrogen" data-layer-viewtype="unknown" data-post-id="397178" href="https://electrek.co/2025/01/09/hydrogen-dead-end-hyzon-board-votes-to-dissolve-company/#more-397178" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/hydrogen-dead-end-hyzon-board-votes-to-dissolve-company/>
+
+---
+
+## GM is using AI to find ideal spots for EV charging stations
+
+date: 2025-01-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/GM-Flying-J-EV-charging-station.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Data scientists at General Motors (GM) are using AI and machine learning to pinpoint ideal EV charging station locations across the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,ev-chargers,evgo,general-motors,gm" data-layer-viewtype="unknown" data-post-id="397155" href="https://electrek.co/2025/01/09/gm-ai-ev-charging-stations/#more-397155" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/gm-ai-ev-charging-stations/>
+
+---
+
+## Ford’s electric Mach-E outsold the gas-powered Mustang for the first time in 2024
+
+date: 2025-01-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Ford-Saudi-Arabia-Mach-E-front.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Who said Ford’s electric crossover SUV wasn’t a real Mustang? The <a href="https://electrek.co/guides/ford-mach-e/">Mach-E</a> outsold the gas-powered Ford Mustang for the first time last year as one of the top-selling EVs in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-mach-e" data-layer-viewtype="unknown" data-post-id="397151" href="https://electrek.co/2025/01/09/fords-mach-e-ev-outsold-gas-mustang-first-time/#more-397151" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/fords-mach-e-ev-outsold-gas-mustang-first-time/>
+
+---
+
+## This new solar + storage site will help power the Las Vegas Strip
+
+date: 2025-01-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/1512px-Wynn_2_2.jpg?quality=82&#038;strip=all&#038;w=1512" /></div><p>The Escape Solar and Storage project in Lincoln County, Nevada, will send clean power to big resort customers on the Las Vegas Strip. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,las-vegas,nevada,solar-power" data-layer-viewtype="unknown" data-post-id="397060" href="https://electrek.co/2025/01/09/185-mw-solar-storage-las-vegas-strip/#more-397060" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/185-mw-solar-storage-las-vegas-strip/>
+
+---
+
+## Aptera signs LG as battery supplier for its solar electric car
+
+date: 2025-01-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/r6ii0246.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Aptera has signed a memorandum of understanding with LG Energy Solutions to supply batteries for its solar EV, which it says will start deliveries later this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aptera,lg-energy-solutions" data-layer-viewtype="unknown" data-post-id="397134" href="https://electrek.co/2025/01/09/aptera-signs-lg-as-battery-supplier-for-its-solar-electric-car/#more-397134" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/aptera-signs-lg-as-battery-supplier-for-its-solar-electric-car/>
+
+---
+
+## We Sat Down With Faraday Future At CES 2025. It Got Weird
+
+date: 2025-01-09, from: Inside EVs News
+
+Long-troubled Faraday Future has a new sub-brand and big plans. But a cloud still hangs over the EV company. 
+
+<br> 
+
+<https://insideevs.com/news/746781/faraday-x-ceo-interview/>
+
+---
+
+## Mazda is bringing this $20,000 Chinese EV overseas, but prices will be much higher
+
+date: 2025-01-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Mazda-first-dedicted-EV-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The electric <a href="https://electrek.co/guides/mazda/">Mazda</a> 6 predecessor is headed for Europe this summer. Mazda’s EV starts at around $20,000 in China, but prices are expected to be significantly higher in Europe. Here’s what we know about the Chinese-made EV so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mazda" data-layer-viewtype="unknown" data-post-id="397081" href="https://electrek.co/2025/01/09/mazda-bringing-this-20000-chinese-ev-overseas/#more-397081" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/mazda-bringing-this-20000-chinese-ev-overseas/>
+
+---
+
+## Lucid Air passes the Canadian winter test with flying colors
+
+date: 2025-01-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Lucid-Air-Touring-Winter-test-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I had the opportunity to drive the Lucid Air Touring for a little more than a week during the holidays, and I can say with confidence that the California-designed and engineered electric luxury sedan passes the Canadian winter test with flying colors.</p>
+
+
+
+<p>I am impressed. Let’s dive into it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid-air,lucid-motors" data-layer-viewtype="unknown" data-post-id="397100" href="https://electrek.co/2025/01/09/lucid-air-passes-the-canadian-winter-test-with-flying-colors/#more-397100" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/lucid-air-passes-the-canadian-winter-test-with-flying-colors/>
+
+---
+
+## Honda Finally Reveals What It Wants From Nissan
+
+date: 2025-01-09, from: Inside EVs News
+
+Plus, auto suppliers are scrambling to move production to dodge tariffs and China's exports expected to drop for 2025. 
+
+<br> 
+
+<https://insideevs.com/news/746762/honda-nissan-merger-pickups-suvs/>
+
+---
+
+## EcoFlow New Year sale phase 2 adds new power station deals from $50, LG all-in-one washer/dryer $1,000 off, EGO, Heybike, more
+
+date: 2025-01-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/EcoFlow-New-Year-sale-FI.png?w=1600" /></div><p>Today’s collection of Green Deals starts off with <a href="https://9to5toys.com/2025/01/09/ecoflow-new-year-phase-2-deals/">phase 2 of EcoFlow’s ongoing New Year sale</a>, with fresh new deals joining alongside previous ones, like the site-exclusive bundle for the <a href="https://9to5toys.com/2025/01/09/ecoflow-new-year-phase-2-deals/">DELTA 2 Max</a> Portable Power Station that comes along with two 220W solar panels and a protective bag at <a href="https://9to5toys.com/2025/01/09/ecoflow-new-year-phase-2-deals/">$1,472</a>, among others. We also spotted $1,000 in savings on <a href="https://9to5toys.com/2025/01/09/lg-all-in-one-ventless-washer-dryer-1999/">LG’s All-in-One Electric Ventless Washer/Dryer Combo</a> down at <a href="https://9to5toys.com/2025/01/09/lg-all-in-one-ventless-washer-dryer-1999/">$1,999</a>, as well as the best price in years on the <a href="https://9to5toys.com/2025/01/08/ego-power-56v-snow-blower-two-5-0ah-batteries-549/">EGO Power+ 56V 21-inch Cordless Electric Snow Blower</a> that comes with two 5.0Ah batteries for <a href="https://9to5toys.com/2025/01/08/ego-power-56v-snow-blower-two-5-0ah-batteries-549/">$549</a>. Lastly, Heybike’s New Year sale is seeing the best-selling <a href="https://9to5toys.com/2025/01/08/heybike-mars-2-e-bike-999-new-year-sale/">Mars 2.0 Folding e-bike</a> return to <a href="https://9to5toys.com/2025/01/08/heybike-mars-2-e-bike-999-new-year-sale/">$999</a> so you can kickstart your 2025 adventures with $500 in savings. Plus, all the other hangover Green Deals can be found in the links at the bottom of the page, like yesterday’s New Year savings on <a href="https://9to5toys.com/2025/01/08/lectric-new-year-xpedition-2-0-e-bike-1399/">Lectric e-bikes</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="397076" href="https://electrek.co/2025/01/09/ecoflow-new-year-sale-phase-2-lg-ego-heybike-more/#more-397076" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/ecoflow-new-year-sale-phase-2-lg-ego-heybike-more/>
+
+---
+
+## 2025 Tesla Model Y Juniper: It Will Probably Look Like This
+
+date: 2025-01-09, from: Inside EVs News
+
+We rendered the new Model Y based on spy shots we've seen, so you don't have to wait until the official reveal. 
+
+<br> 
+
+<https://insideevs.com/news/746789/tesla-model-y-juniper-rendering/>
+
+---
+
+## Hyundai commits a record +$16.6 billion in Korea to develop new tech and EVs
+
+date: 2025-01-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Hyundais-all-solid-state-ev-batteries.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The world’s third-largest auto group is going all-in to lead the shift to electrification. With plans to pour a record over $16.6 billion into advancing new tech and EVs in South Korea, <a href="https://electrek.co/guides/hyundai/">Hyundai</a> is laying the groundwork for the future. Can the new investment help it surpass Volkswagen or Toyota in global sales?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-motor-group" data-layer-viewtype="unknown" data-post-id="397042" href="https://electrek.co/2025/01/09/hyundai-commits-record-16-6b-develop-new-tech-evs/#more-397042" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/hyundai-commits-record-16-6b-develop-new-tech-evs/>
+
+---
+
+## Los Angeles is a tough city to get around. But this scooter made it work!
+
+date: 2025-01-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/vmax-vx2-extreme-electric-scooter-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Last month, I had the chance to visit Los Angeles and attend <a href="https://electrek.co/2024/12/03/here-are-the-coolest-e-bikes-and-more-we-saw-at-micromobility-america-2024/">Micromobility America</a>, a yearly industry tradeshow focusing on e-bikes, e-scooters, and other small-format vehicles. To get around the city for a few days, I borrowed a <a href="https://vmax-escooter.us/?ref=zhtwutpe">VMAX VX2 Extreme</a> from VMAX’s Los Angeles distribution center and it made all the difference in navigating a city that is notoriously hard to get around.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="395220" href="https://electrek.co/2025/01/09/los-angeles-is-awful-to-get-around-but-this-scooter-made-it-work/#more-395220" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/los-angeles-is-awful-to-get-around-but-this-scooter-made-it-work/>
+
+---
+
+## Can Model Y refresh reignite Tesla’s growth?
+
+date: 2025-01-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Screenshot-2025-01-09-at-4.08.00AM.jpg?quality=82&#038;strip=all&#038;w=1330" /></div><p>Tesla is about to release a design refresh for Model Y, its most popular model, and it raises an important question: can it reignite Tesla’s growth?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="397038" href="https://electrek.co/2025/01/09/can-model-y-refresh-reignite-teslas-growth/#more-397038" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/can-model-y-refresh-reignite-teslas-growth/>
+
+---
+
+## XPeng shares first images of its new G7 SUV, which will start at an ultra-competitive price of $34K
+
+date: 2025-01-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/XPeng-G7-SUV-top.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Mere hours after images emerged of a seemingly new Tesla Model Y performing winter testing in China, <a href="https://electrek.co/guides/xpeng/">XPeng Motors</a> unveiled a new SUV called the G7 that will compete directly with the world’s best-selling BEV. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,xpeng,xpeng-g7,xpeng-motors" data-layer-viewtype="unknown" data-post-id="397021" href="https://electrek.co/2025/01/09/xpeng-shares-first-images-new-g7-suv-ultra-competitive-price/#more-397021" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/xpeng-shares-first-images-new-g7-suv-ultra-competitive-price/>
+
+---
+
+## Volvo sold nearly 100,000 EX30 SUVs its first year and now it’s ready to take the US by storm
+
+date: 2025-01-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Volvo-recall-EX30-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Despite its smaller size, Volvo’s cheapest electric SUV is already having a massive impact on sales. <span style="margin: 0px; padding: 0px;">In</span> 2024, its first year on the market, Volvo sold nearly 100,000 <a href="https://electrek.co/guides/volvo-ex30/">EX30</a> models. With deliveries now kicking off in the US, the EV is poised to see even more demand in 2025.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo,volvo-ex30" data-layer-viewtype="unknown" data-post-id="397019" href="https://electrek.co/2025/01/09/volvo-sold-nearly-100000-ex30-electric-suvs-first-sales-year/#more-397019" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/09/volvo-sold-nearly-100000-ex30-electric-suvs-first-sales-year/>
 
 ---
 

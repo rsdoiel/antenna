@@ -1,15 +1,73 @@
 ---
 title: writing
-updated: 2025-01-09 07:06:03
+updated: 2025-01-10 07:05:39
 ---
 
 # writing
 
-(date: 2025-01-09 07:06:03)
+(date: 2025-01-10 07:05:39)
 
 ---
 
-## New Books, 1 January 2025
+## Weekly New Books YouTube Video Is Up!
+
+date: 2025-01-09, from: Locus Magazine
+
+<p>It&#8217;s the first week of 2025 and everyone at Locus is super excited for another year of fantastic new releases to share with you! Come by the Locus YouTube channel to keep up-to-date on all the top new SF, Fantasy, Horror, and YA book! Help us start off this year strong by showing your support for what we do by subscribing to the channel!</p>
+<div class="jetpack-video-wrapper"></div>
+<p>&#160; <a href="https://locusmag.com/2025/01/weekly-new-books-youtube-video-is-up/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/weekly-new-books-youtube-video-is-up/>
+
+---
+
+## 2025 Imagine 2200 Contest Winners
+
+date: 2025-01-09, from: Locus Magazine
+
+<p>Grist,  the online environmental magazine, has announced three winners for their Imagine 2200: Climate Fiction for Future Ancestors Short Story Contest. The contest asks authors to imagine &#8220;the future we want — futures in which climate solutions flourish and we all thrive.&#8221;</p>
+<p>The winners are:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li>First Place: “Meet Me Under the Molokhia”, Sage Hoffman Nadeau</li>
+<li>Second Place: “Last Tuesday, for Eternity”, Vinny Rose Pinto</li>
+<li>Third Place: “Mousedeer Versus the Ghost </li></ul></div> <a href="https://locusmag.com/2025/01/2025-imagine-2200-contest-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/01/2025-imagine-2200-contest-winners/>
+
+---
+
+## Countess by Suzan Palumbo: Review by Liz Bourke
+
+date: 2025-01-09, from: Locus Magazine
+
+<p><strong>Countess</strong>, Suzan Palumbo (ECW Press 978-1770417571, $16.95, 168pp, tp) September 2024</p>
+<p>Trinidadian-Canadian author Suzan Palumbo draws on Caribbean history, culture, and experi­ence in her space opera novella <strong>Countess. </strong>Pa­lumbo has been previously best known for short fiction: Her collection <strong>Skin Thief </strong>was published by Neon Hemlock Press in 2023.</p>
+<p>As a novella, <strong>Countess </strong>is a mixed bag. Its first half is genuinely compelling, while its second feelts to me  <a href="https://locusmag.com/2025/01/countess-by-suzan-palumbo-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/countess-by-suzan-palumbo-review-by-liz-bourke/>
+
+---
+
+## Artificial Intelligence, Authorship, and the Public Interest
+
+date: 2025-01-09, from: Author's Union blog
+
+Today, we’re pleased to announce a new project generously supported by the John S. and James L. Knight Foundation. The project, “Artificial Intelligence, Authorship, and the Public Interest,” aims to identify, clarify, and offer answers to some of the most challenging copyright questions posed by artificial intelligence (AI) and explain how this new technology can [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/01/09/artificial-intelligence-authorship-and-the-public-interest/>
+
+---
+
+## New Books, 7 January 2025
 
 date: 2025-01-09, from: Locus Magazine
 

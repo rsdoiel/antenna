@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-01-09 07:06:04
+updated: 2025-01-10 07:05:41
 ---
 
 # retro computing
 
-(date: 2025-01-09 07:06:04)
+(date: 2025-01-10 07:05:41)
+
+---
+
+## b.log 2025/01/09 - Winter sales, A parcel?, Cat calendar, The big wet, My FileStore Emulator, Who is the douchiest of them all?
+
+date: 2025-01-09, from: Richard Murray's blog
+
+Winter sales, A parcel?, Cat calendar, The big wet, My FileStore Emulator, Who is the douchiest of them all? 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250109>
 
 ---
 

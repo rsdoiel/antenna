@@ -1,11 +1,201 @@
 ---
 title: journalism
-updated: 2025-01-09 07:06:03
+updated: 2025-01-10 07:05:40
 ---
 
 # journalism
 
-(date: 2025-01-09 07:06:03)
+(date: 2025-01-10 07:05:40)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+The air quality on campus is currently listed as &#8220;unhealthy for sensitive groups,&#8221; according to the UCLA Air Quality website as of 10:10 p.m. Thursday. The nearest fire to campus, which started in the Pacific Palisades, has a size of nearly 20,000 acres, according to the Cal Fire website. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/477224/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+The death toll from the LA County fires rose to 10, the LA County Department of Medical Examiner announced Thursday evening. Of the 10 deaths, two were from the Palisades Fire, the fire closest to UCLA, said Los Angeles Fire Chief Kristin Crowley. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/477221/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+Administrative Vice Chancellor Michael Beck and Vice Chancellor for Student Affairs Monroe Gorden Jr. said in an email to the UCLA community that the university is monitoring air quality conditions. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/477205/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+Rapid wind gusts, decreased air quality and canceled classes faced members of the Westwood community as fires tore through Los Angeles this week.
+As of 7:30 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/477203/>
+
+---
+
+## Over 29K acres, 10K structures devastated as ‘unprecedented’ LA fires near 4th day
+
+date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Rapid wind gusts, decreased air quality and canceled classes faced members of the Westwood community as fires tore through Los Angeles this week.&#160;
+The first of the fires – which started in the Pacific Palisades – broke out 10:30 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/over-29k-acres-10k-structures-devastated-as-unprecedented-la-fires-near-4th-day/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 7:00 p.m. Thursday, the blaze closest to the UCLA campus, which started in the Pacific Palisades and has spread to 19,978 acres, is now 6% contained, according to the Cal Fire website. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/477196/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+USAC President Adam Tfayli said members of the UCLA administration – including Vice Chancellor of Student Affairs Monroe Gorden Jr. – told him they are considering sending a preemptive message to students providing details on what to do the event of an evacuation and added that he has encouraged administrators to do so. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/477185/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+UCLA students have been majorly impacted by fires across Los Angeles since Tuesday morning. Chancellor Julio Frenk canceled undergraduate classes for the remainder of this week in a Wednesday evening announcement. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/477182/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Los Angeles Fire Department announced that all evacuation orders have been lifted for the Hurst fire, which began in Sylmar. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/477179/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 5:56 p.m., the air quality on UCLA&#8217;s campus is once again rated as &#8220;unhealthy,&#8221; according to the UCLA Air Quality website. With an air quality index score of 164, UCLA is required to minimize outdoor work where possible. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/477178/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+Los Angeles Police Chief Jim McDonnell said at the 5 p.m. press conference that his department is hoping to restore safety and normalcy as soon as possible. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/477176/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+Los Angeles County District 3 Supervisor Lindsey Horvath said in the 5 p.m. press conference that evacuation orders in Santa Monica remain unchanged Thursday. She added that people should stay vigilant and pay attention to evacuation orders. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/477172/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+Dining halls on the Hill remain open but may modify provisions based on staffing availability, UCLA spokesperson Reggie Kumar said in an emailed statement. UCLA Athletics is also continuing to monitor conditions on campus, he said in the statement. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/477170/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+Mayor Karen Bass said at the 5 p.m. press conference that she is already looking to rebuild areas impacted by the fires. She added that leaders intend to eliminate red tape that could otherwise impact rebuilding. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/477168/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+Los Angeles Fire Department Chief Kristin Crowley said at the 5 p.m. press conference that she is able to confirm two fatalities relating to the Pacific Palisades fire. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/477166/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+In a 5 p.m. press conference, Los Angeles Mayor Karen Bass said she is expecting the fire in Woodland Hills, which is in the San Fernando Valley, to spread rapidly because of ongoing wind conditions. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/477163/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+Westwood residents received an erroneous evacuation warning Thursday afternoon.
+<strong>[Related: False evacuation warning sent out across Los Angeles County]</strong>
+
+(Anna Dai-Liu/Daily Bruin senior staff) 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/477157/>
+
+---
+
+## UCLA students react to LA wildfires, evacuations, loss of homes
+
+date: 2025-01-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Fires across Los Angeles County sparked unease among UCLA students, and criticism of the university’s emergency response.
+Chancellor Julio Frenk canceled all undergraduate classes and moved graduate instruction online for Thursday and Friday, he said in a BruinPost shortly after 6:30 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/09/ucla-students-react-to-la-wildfires-evacuations-loss-of-homes/>
 
 ---
 
@@ -349,12 +539,12 @@ Undergraduate Students Association Council External Vice President Javier Nuñez
 
 ---
 
-## New student Convocation canceled due to fires
+## Convocation canceled due to fires, classes to begin as planned
 
 date: 2025-01-08, from: The Daily Trojan (USC Student Newspaper)
 
 <p>University Park Campus remains “largely unimpacted and open.”</p>
-<p>The post <a href="https://dailytrojan.com/2025/01/08/new-student-convocation-canceled-due-to-fires/">New student Convocation canceled due to fires</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/08/new-student-convocation-canceled-due-to-fires/">Convocation canceled due to fires, classes to begin as planned</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <br> 

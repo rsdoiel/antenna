@@ -1,20 +1,116 @@
 ---
 title: ham radio
-updated: 2025-01-09 07:06:02
+updated: 2025-01-10 07:05:38
 ---
 
 # ham radio
 
-(date: 2025-01-09 07:06:02)
+(date: 2025-01-10 07:05:38)
 
 ---
 
-## How to a wirelessly upgraded a software-defined vehicle (SDV)
+## Integration of AI in sensors prominent at CES 2025
+
+date: 2025-01-10, from: EDN Blog
+
+<img width="8192" height="5464" src="https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?fit=8192%2C5464" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=8192 8192w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=2850 2850w" sizes="(max-width: 8192px) 100vw, 8192px" /><p>AI and software algorithms add value to the entire sensor system and enable a new breed of applications.</p>
+<p>The post <a href="https://www.edn.com/integration-of-ai-in-sensors-prominent-at-ces-2025/" data-wpel-link="internal">Integration of AI in sensors prominent at CES 2025</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/integration-of-ai-in-sensors-prominent-at-ces-2025/>
+
+---
+
+## CES 2025: Approaches towards hardware acceleration
+
+date: 2025-01-10, from: EDN Blog
+
+<img width="2092" height="2442" src="https://www.edn.com/wp-content/uploads/TI-edge-AI.png?fit=2092%2C2442" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=2092 2092w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=257 257w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=768 768w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=877 877w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=1316 1316w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=1754 1754w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=1900 1900w" sizes="(max-width: 2092px) 100vw, 2092px" /><p>Edge computing has been a hot topic at CES 2025, but what is the underlying hardware and how do the implementations vary?</p>
+<p>The post <a href="https://www.edn.com/ces-2025-approaches-towards-hardware-acceleration/" data-wpel-link="internal">CES 2025: Approaches towards hardware acceleration</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/ces-2025-approaches-towards-hardware-acceleration/>
+
+---
+
+## Dev kit uses backscatter Wi-Fi for low-power connectivity
+
+date: 2025-01-09, from: EDN Blog
+
+<img width="700" height="383" src="https://www.edn.com/wp-content/uploads/HaiLa-BSC2000-EVAL.jpg?fit=700%2C383" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/HaiLa-BSC2000-EVAL.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/HaiLa-BSC2000-EVAL.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>HaiLa Technologies has introduced the EVAL2000 development board, featuring its BSC2000 passive backscatter Wi-Fi chip and ST’s STM32U0 MCU.</p>
+<p>The post <a href="https://www.edn.com/dev-kit-uses-backscatter-wi-fi-for-low-power-connectivity/" data-wpel-link="internal">Dev kit uses backscatter Wi-Fi for low-power connectivity</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/dev-kit-uses-backscatter-wi-fi-for-low-power-connectivity/>
+
+---
+
+## SoC supports multiple wireless protocols
+
+date: 2025-01-09, from: EDN Blog
+
+<img width="800" height="451" src="https://www.edn.com/wp-content/uploads/InnoPhase-Talaria-6.jpg?fit=800%2C451" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/InnoPhase-Talaria-6.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/InnoPhase-Talaria-6.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/InnoPhase-Talaria-6.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Talaria 6 SoCs from InnoPhase provide Wi-Fi 6, Bluetooth 6.0, Thread, and Zigbee connectivity, along with PSA Level 2 and Level 3 security.</p>
+<p>The post <a href="https://www.edn.com/soc-supports-multiple-wireless-protocols/" data-wpel-link="internal">SoC supports multiple wireless protocols</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/soc-supports-multiple-wireless-protocols/>
+
+---
+
+## Synaptics partners with Google to advance edge AI
+
+date: 2025-01-09, from: EDN Blog
+
+<img width="800" height="440" src="https://www.edn.com/wp-content/uploads/Synaptics-Google-Astra.jpg?fit=800%2C440" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Synaptics-Google-Astra.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Synaptics-Google-Astra.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Synaptics-Google-Astra.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Synaptics is pairing Google’s ML core with its Astra AI-native hardware and open-source software to  simplify IoT device development.</p>
+<p>The post <a href="https://www.edn.com/synaptics-partners-with-google-to-advance-edge-ai/" data-wpel-link="internal">Synaptics partners with Google to advance edge AI</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/synaptics-partners-with-google-to-advance-edge-ai/>
+
+---
+
+## Mitsubishi samples high-voltage IGBT modules
+
+date: 2025-01-09, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Mitsubishi-S1.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Mitsubishi-S1.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Mitsubishi-S1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Mitsubishi-S1.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Mitsubishi announced that it has begun shipping samples of two S1-Series high-voltage IGBT modules rated at 1.7 kV.</p>
+<p>The post <a href="https://www.edn.com/mitsubishi-samples-high-voltage-igbt-modules/" data-wpel-link="internal">Mitsubishi samples high-voltage IGBT modules</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/mitsubishi-samples-high-voltage-igbt-modules/>
+
+---
+
+## Hurricane Watch Net Remembers Long Time Volunteer Terry Redding, W6LMJ, Silent Key.
+
+date: 2025-01-09, from: Amateur Radio Relay League News
+
+<p><strong><em>By HWN Net Manager Bobby Graves, KB5HAV</em></strong>  </p><p>It is with a heavy heart that I announce the passing of Terrence "Terry" Redding, Sr., Ph.D., W6LMJ, SK. Just before Christmas, I heard from one of Terry’s daughters that he suffered a bad stroke a few months earlier. Sadly, he passed away January 4, 2025. His daughter said he passed holding the hand of his bride as they listened to their favorite song.</p><p>A...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/hurricane-watch-net-remembers-long-time-volunteer-terry-redding-w6lmj-silent-key>
+
+---
+
+## CES 2025: Wirelessly upgrading SDVs
 
 date: 2025-01-08, from: EDN Blog
 
 <p>Based on the OPEN alliance 10BASE-T1S PHY, E2B bus aims at removing the need for MCUs centralizing software to HPC or central compute.</p>
-<p>The post <a href="https://www.edn.com/adis-efforts-for-a-wirelessly-upgraded-software-defined-vehicle/" data-wpel-link="internal">How to a wirelessly upgraded a software-defined vehicle (SDV)</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+<p>The post <a href="https://www.edn.com/adis-efforts-for-a-wirelessly-upgraded-software-defined-vehicle/" data-wpel-link="internal">CES 2025: Wirelessly upgrading SDVs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
 <br> 
@@ -39,7 +135,7 @@ date: 2025-01-08, from: Amateur Radio Relay League News
 
 date: 2025-01-08, from: EDN Blog
 
-<img width="367" height="504" src="https://www.edn.com/wp-content/uploads/Ppot_Figure1.png?fit=367%2C504" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Ppot_Figure1.png?w=367 367w, https://www.edn.com/wp-content/uploads/Ppot_Figure1.png?w=218 218w" sizes="(max-width: 367px) 100vw, 367px" /><p>“PWMpot” that offers useful and often superior performance to Dpots in parameters such as programmable resolution and more.</p>
+<img width="367" height="504" src="https://www.edn.com/wp-content/uploads/Ppot_Figure1.png?fit=367%2C504" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Ppot_Figure1.png?w=367 367w, https://www.edn.com/wp-content/uploads/Ppot_Figure1.png?w=218 218w" sizes="auto, (max-width: 367px) 100vw, 367px" /><p>“PWMpot” that offers useful and often superior performance to Dpots in parameters such as programmable resolution and more.</p>
 <p>The post <a href="https://www.edn.com/pwmpot-approximates-a-dpot/" data-wpel-link="internal">PWMpot approximates a Dpot</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

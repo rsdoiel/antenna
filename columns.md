@@ -1,17 +1,341 @@
 ---
 title: columns
-updated: 2025-01-09 07:06:03
+updated: 2025-01-10 07:05:39
 ---
 
 # columns
 
-(date: 2025-01-09 07:06:03)
+(date: 2025-01-10 07:05:39)
+
+---
+
+##  Learning from Finland&#8217;s success in combatting homelessness. &#8220;It is the result of... 
+
+date: 2025-01-10, updated: 2025-01-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045952-learning-from-finlands-su>
+
+---
+
+## How Trump seeks to destroy the four major pillars of resistance
+
+date: 2025-01-10, from: Robert Reich's blog
+
+But we lose only if we stop fighting 
+
+<br> 
+
+<https://robertreich.substack.com/p/how-trump-is-seeking-to-destroy-the>
+
+---
+
+## Sanding off friction from indie web connection
+
+date: 2025-01-10, from: Tracy Durnell Blog
+
+Add friction to the activities you&#8217;d like to change, and remove friction from the things you&#8217;d like to do more of. This is usually applied at a personal level, but we can think of it across communities, too: Where is there friction in our community that blocks people from participating in the ways we&#8217;d like? [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/09/sanding-off-friction-from-indie-web-connection/>
+
+---
+
+## January 9, 2025
+
+date: 2025-01-10, from: Heather Cox Richardson blog
+
+Family members, friends, and political leaders gathered today at the Washington National Cathedral to honor the life of former president Jimmy Carter, who died on December 29 at age 100. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-9-2025>
+
+---
+
+## Understanding the Various Inscrutable Beeps, Bops, and Bloops AirPods Make
+
+date: 2025-01-10, updated: 2025-01-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/01/09/airpods-pro-chime-sound/>
+
+---
+
+## Friday 10 January, 2025
+
+date: 2025-01-10, from: John Naughton's online diary
+
+Bread — and Circuses? Arles, on a July evening in 2022 Quote of the Day ”Communications tools don’t get socially interesting until they get technologically boring.” Clay Shirky (in Here Comes Everybody) Musical alternative to the morning’s radio news The &#8230; <a href="https://memex.naughtons.org/friday-10-january-2025/40323/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-10-january-2025/40323/>
+
+---
+
+##  The Rollercoaster of Compassionate Death 
+
+date: 2025-01-09, updated: 2025-01-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/the-rollercoaster-of-compassionate-death-1>
+
+---
+
+## “Character, Character, Character”
+
+date: 2025-01-09, from: Dan Rather's Steady
+
+Eulogies for Jimmy Carter contain good advice for Trump 
+
+<br> 
+
+<https://steady.substack.com/p/character-character-character>
+
+---
+
+## TILs are junk food
+
+date: 2025-01-09, from: Anton Zhiyanov blog
+
+They are but a waste of cognitive resources. 
+
+<br> 
+
+<https://antonz.org/til/>
+
+---
+
+##  When Your Terminal Illness Makes You a TikTok Star. &#8220;After being diagnosed... 
+
+date: 2025-01-09, updated: 2025-01-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045989-when-your-terminal-illnes>
+
+---
+
+## Who Can Understand the Proof? A Window on Formalized Mathematics
+
+date: 2025-01-09, from: Stephen Wolfram blog
+
+<span class="thumbnail"><img width="128" height="108" src="https://content.wolfram.com/sites/43/2025/01/proof-icon-1-v2.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></span>Related writings: &#8220;Logic, Explainability and the Future of Understanding&#8221; (2018)&#160;» &#8220;The Physicalization of Metamathematics and Its Implications for the Foundations of Mathematics&#8221; (2022)&#160;» &#8220;Computational Knowledge and the Future of Pure Mathematics&#8221; (2014)&#160;» The Simplest Axiom for Logic Theorem (Wolfram with Mathematica, 2000): The single axiom ((a•b)•c)•(a•((a•c)•a))&#63449;c is a complete axiom system for Boolean algebra (and [&#8230;] 
+
+<br> 
+
+<https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/>
+
+---
+
+## Breathable, Garrett Murray’s AQI Widget for iOS and MacOS, Is Now Free of Charge
+
+date: 2025-01-09, updated: 2025-01-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://breathable.app/>
+
+---
+
+##  The Design of Classic Doctor Who Title Cards 
+
+date: 2025-01-09, updated: 2025-01-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/the-design-of-classic-doctor-who-title-cards>
+
+---
+
+## January 8, 2025
+
+date: 2025-01-09, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154507379/169c50c19a427e2b5157aab202597c34.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154507379/169c50c19a427e2b5157aab202597c34.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-8-2025>
+
+---
+
+##  The Beauty Of Old Hollywood In One Scene. Evan Puschak dissects a... 
+
+date: 2025-01-09, updated: 2025-01-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045995-the-beauty-of-old-hollywo>
+
+---
+
+## How to weigh evidence
+
+date: 2025-01-09, from: Tracy Durnell Blog
+
+I lean towards trusting studies, but also recognize I&#8217;m not qualified to evaluate their quality. Coming from an environmental background, I also have skepticism around a lack of evidence of harm, which in the environmental field is often merely indicative of a lack of research, period. I don&#8217;t have time to stay up on the [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/09/how-to-weigh-evidence/>
+
+---
+
+##  How Ernest Wright Makes Scissors 
+
+date: 2025-01-09, updated: 2025-01-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/how-ernest-wright-makes-scissors>
+
+---
+
+##  What Dinosaurs Were Really Like. This is an entertaining and informative look... 
+
+date: 2025-01-09, updated: 2025-01-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045994-what-dinosaurs-were-reall>
+
+---
+
+##  &#8220;Coyote time&#8221; is a trick video game designers use to be more... 
+
+date: 2025-01-09, updated: 2025-01-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045980-coyote-time-is-a-trick>
+
+---
+
+## Zero-Day Vulnerability in Ivanti VPN
+
+date: 2025-01-09, updated: 2025-01-09, from: Bruce Schneier blog
+
+<p>It&#8217;s being <a href="https://techcrunch.com/2025/01/09/hackers-are-exploiting-a-new-ivanti-vpn-security-bug-to-hack-into-company-networks/">actively exploited</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/01/zero-day-vulnerability-in-ivanti-vpn.html>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-01-09, from: Ryan Gantz Bluesky feed)
+
+humans doing not so good job 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lfd5dcjnhs2q>
+
+---
+
+## Microsoft’s Recent History of Dirty Tricks With Edge
+
+date: 2025-01-09, updated: 2025-01-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/2023/4/28/23702274/microsoft-edge-developer-bing-ai-chatbot-advertisement-google-bard>
+
+---
+
+## Haiku Beta 5 / In tests it's (Fire)foxier / It pleases us well
+
+date: 2025-01-09, updated: 2025-01-09, from: Liam Proven's articles at the Register
+
+<h4>Simply the best FOSS desktop OS there is, outside of the Windows and Unix families</h4>
+      <p>Haiku still hasn&#39;t quite reached that magic Version One Point Zero line in the sand, in part because its developers are setting the bar much higher than that of any other FOSS OS.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/01/09/testing_haiku_beta_5/>
+
+---
+
+##  Kohei Ohmori&#8217;s Hyperrealistic Pencil Drawings 
+
+date: 2025-01-09, updated: 2025-01-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/kohei-ohmoris-hyperrealistic-pencil-drawings>
+
+---
+
+##  Montana youth score a major climate victory in court. &#8220;Montana&#8217;s Supreme Court... 
+
+date: 2025-01-09, updated: 2025-01-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045976-montana-youth-score-a-maj>
+
+---
+
+## Los Angeles Fires and Aftermath
+
+date: 2025-01-09, from: Doc Searls (at Harvard), New Old Blog
+
+8:00pm—It&#8217;s three hours later here in Indiana, where it is 16° and snow is approaching (and will add to the foot of it preserved by freezing temperatures since last weekend): So I will now leave the command post in my basement office. I&#8217;ll get back on the case tomorrow morning. Here&#8217;s hoping that all we&#8217;ll [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/01/09/los-angeles-fires-and-aftermath/>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2025-01-09, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2022/11/28/ifyoudontlikethenews.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If you read this blog, I hope you'll take the time to listen to <a href="https://shownotes.scripting.com/scripting/2025/01/08/howIViewWordpress.html">yesterday's podcast</a>. It's all about WordPress, a product that you won't read much about on this blog, going back through the <a href="https://www.google.com/search?q=site:scripting.com+wordpress">archive</a>. I wasn't paying attention until 2023 when I began to see what an amazing product it is, not just for 2004 when it came out, but in 2024. My theory is that it's the basis for an incredible social web platform, much better than Threads, Mastodon, Bluesky and of course Twitter. That's what I'm talking about for 1/2 hour in this podcast. If you give me that much time, I'll change the way you see the world, or at least the way you see me. I think I'm right about this, with another layer on top of the WordPress foundation, it becomes newly relevant, and very timely, in ways that as far as I know, no one has been pushing it. I think for example that Ghost and Substack should be built on top of WordPress. The fact that they aren't gives a clue as to how portable your work is there, and how much choice you get in editing tools. Anyway, please make the time to listen. This is pivotal, and I don't think I'll ever be able to spell it out in writing, it's pure storytelling. Thanks! 
+I started a <a href="https://github.com/scripting/Scripting-News/issues/316">thread</a> for questions and comments re the podcast. 
+
+<br> 
+
+<http://scripting.com/2025/01/09.html#a150703>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-09, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/11/28/ifyoudontlikethenews.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If you read this blog, I hope you'll take the time to listen to <a href="https://shownotes.scripting.com/scripting/2025/01/08/howIViewWordpress.html">yesterday's podcast</a>. It's all about WordPress, a product that you won't read much about on this blog, going back through the <a href="https://www.google.com/search?q=site:scripting.com+wordpress">archive</a>. I wasn't paying attention until 2023 when I began to see what an amazing product it is, not just for 2004 when it came out, but in 2024. My theory is that it's the basis for an incredible social web platform, much better than Threads, Mastodon, Bluesky and of course Twitter. That's what I'm talking about for 1/2 hour in this podcast. If you give me that much time, I'll change the way you see the world, or at least the way you see me. I think I'm right about this, with another layer on top of the WordPress foundation, it becomes newly relevant, and very timely, in ways that as far as I know, no one has been pushing it. I think for example that Ghost and Substack should be built on top of WordPress. The fact that they aren't gives a clue as to how portable your work is there, and how little choice you get in writing tools. Anyway, please make the time to listen. This is pivotal, and I don't think I'll ever be able to spell it out in writing, it's pure storytelling. Thanks! 
 
 <br> 
 
@@ -142,7 +466,7 @@ date: 2025-01-09, updated: 2025-01-09, from: Jason Kittke's blog
 
 ## When You Search for ‘Google’ on Bing, Bing Attempts to Trick You Into Thinking the Results Page Is Google
 
-date: 2025-01-08, updated: 2025-01-08, from: Daring Fireball
+date: 2025-01-08, updated: 2025-01-09, from: Daring Fireball
 
  
 
@@ -393,7 +717,7 @@ date: 2025-01-08, updated: 2025-01-08, from: Jason Kittke's blog
 date: 2025-01-08, updated: 2025-01-08, from: Liam Proven's articles at the Register
 
 <h4>HashiCorp co-founder&#39;s side project reaches 1.0 – er, 1.0.1</h4>
-      <p>Ghostty is more interesting than it sounds, for several reasons: who wrote it, what it does, and the language it was written in are all more unusual than the ostensibly simple task it performs.</p> 
+      <p>Ghostty is more interesting than it sounds, for several reasons: Who wrote it, what it does, and the language it was written in are all more unusual than the ostensibly simple task it performs.</p> 
 
 <br> 
 
@@ -521,7 +845,7 @@ date: 2025-01-07, updated: 2025-01-07, from: Daring Fireball
 
 ## ★ After Years of Moderation-Heavy Zagging, Zuckerberg Announces That Meta Is Going Back to Moderation-Light Zigging Across Its Platforms
 
-date: 2025-01-07, updated: 2025-01-09, from: Daring Fireball
+date: 2025-01-07, updated: 2025-01-10, from: Daring Fireball
 
 Don’t get distracted by blather. Let’s see what happens. 
 

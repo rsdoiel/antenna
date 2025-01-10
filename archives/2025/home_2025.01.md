@@ -1,11 +1,175 @@
 ---
 title: home
-updated: 2025-01-09 07:06:04
+updated: 2025-01-10 07:05:41
 ---
 
 # home
 
-(date: 2025-01-09 07:06:04)
+(date: 2025-01-10 07:05:41)
+
+---
+
+## 5 Trends and Predictions for the U.S. Housing Market, According to a Real Estate Pro
+
+date: 2025-01-09, from: Sunset Magazine - Living in the West
+
+Is 2025 the year for buyers or sellers? A real estate pro shares predictions for real estate trends and the housing market in the new year. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/2025-real-estate-trend-predictions>
+
+---
+
+## This Is How Hotels Make Their Lobbies Smell So Good (and How to Do It at Home)
+
+date: 2025-01-09, from: Sunset Magazine - Living in the West
+
+Luxury hotels that have a signature scent just hit different. Here's how to do it at home according to Waldorf Astoria and The Ritz-Carlton. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-make-your-house-smell-good>
+
+---
+
+## Frank Lloyd Wright’s Weisblat House Just Hit the Market for $2.2M
+
+date: 2025-01-09, from: Dwell
+
+Listed for the second time ever, the Usonian home is set in the Acres, a landmark Michigan community designed by the famed architect. 
+
+<br> 
+
+<https://www.dwell.com/article/frank-lloyd-wright-weisblat-house-galesburg-michigan-real-estate-d30f6e53>
+
+---
+
+## How to Make a Chicken Grazing Box (Chicken Run Idea)
+
+date: 2025-01-09, from: Homestead and Chil
+
+<p>Come learn how to make a DIY chicken grazing box, also known as a fodder box. This easy chicken run idea is a great boredom buster as it provides endless hours of entertainment, enrichment, AND nutritious greens for your flock.</p>
+<p>The post <a href="https://homesteadandchill.com/chicken-run-idea-diy-grazing-box/">How to Make a Chicken Grazing Box (Chicken Run Idea)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/chicken-run-idea-diy-grazing-box/>
+
+---
+
+## We’ve Never Seen a Brick-Clad Prefab Home Before, Either
+
+date: 2025-01-09, from: Dwell
+
+A pastiche of upcycled chunks finish the cross-laminated timber residence, designed to preserve energy and the U.K. countryside. 
+
+<br> 
+
+<https://www.dwell.com/article/foxglove-house-kirkland-fraser-moor-energy-efficient-prefab-home-01c791c8>
+
+---
+
+## If You See an Orange Dot On Your iPhone, This Is What It Means
+
+date: 2025-01-09, from: Family Handyman Blog
+
+<p>Learning all the symbols on your phone is overwhelming but important. Today, we're explaining what the orange dot on an iPhone means. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/orange-dot-on-iphone/">If You See an Orange Dot On Your iPhone, This Is What It Means</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/orange-dot-on-iphone/>
+
+---
+
+## As Wildfires Rage, a 100-Year-Old Copy of Sunset Magazine Offers a Message of Resilience
+
+date: 2025-01-09, from: Sunset Magazine - Living in the West
+
+When natural disaster strikes, Sunset’s editor-in-chief turns to an old issue of the magazine for the long view on the Western tradition of resilience and recovery. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/southern-california-wildfires-resilience>
+
+---
+
+## 23 of the Best Types of Gasteria Succulents
+
+date: 2025-01-09, from: The Gardener's Path
+
+<p>Species in the Gasteria genus are small, strap-leaved succulents that make charmingly unique houseplants. ‘Little Warty’ is one of the most commonly grown but there are many other delightful options, including those with speckled, variegated, or striped foliage. Discover 23 of the best gasteria varieties in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/best-gasteria-varieties/">23 of the Best Types of Gasteria Succulents</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/best-gasteria-varieties/>
+
+---
+
+## Clean a Drain With Baking Soda and Vinegar
+
+date: 2025-01-09, from: Family Handyman Blog
+
+<p>If your sink drains slowly or smells strange, here's a cheap and way to get it flowing again without using harsh chemicals.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-clean-drain-with-baking-soda/">Clean a Drain With Baking Soda and Vinegar</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-clean-drain-with-baking-soda/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-01-09, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## The Garden Trends We Want to Leave Behind in 2025
+
+date: 2025-01-09, from: Sunset Magazine - Living in the West
+
+It’s time to make room for fresh and meaningful practices in the new year by leaving behind these outdated garden trends. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/outdated-garden-trends-2025>
+
+---
+
+## Inside a San Mateo Home Inspired by Fruit (Yes, Fruit)
+
+date: 2025-01-09, from: Sunset Magazine - Living in the West
+
+This San Mateo ranch house lacked flooring, had asbestos in tiles, and was very outdated. See how it was transformed into a stylish oasis. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/san-mateo-ranch-house-renovation>
+
+---
+
+## Seriously, This Is Hands Down the Most Stylish Futon Ever
+
+date: 2025-01-09, from: Sunset Magazine - Living in the West
+
+The Sven Tufted Sofa Bed from Article is as cute as it is cozy—and it pulls out into a king-sized bed. Plus it's totally affordable. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/article-sven-tufted-sofa-review>
 
 ---
 
@@ -201,42 +365,6 @@ A sculptural concrete and European oak staircase in a house in rural Oxfordshire
 
 ---
 
-## Seriously, This Is Hands Down the Most Stylish Futon Ever
-
-date: 2025-01-08, from: Sunset Magazine - Living in the West
-
-The Sven Tufted Sofa Bed from Article is as cute as it is cozy—and it pulls out into a king-sized bed. Plus it's totally affordable. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/article-sven-tufted-sofa-review>
-
----
-
-## Inside a San Mateo Home Inspired by Fruit (Yes, Fruit)
-
-date: 2025-01-08, from: Sunset Magazine - Living in the West
-
-This San Mateo ranch house lacked flooring, had asbestos in tiles, and was very outdated. See how it was transformed into a stylish oasis. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/san-mateo-ranch-house-renovation>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-01-08, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## How To Clean Baseboards the Easy Way
 
 date: 2025-01-07, from: Family Handyman Blog
@@ -318,6 +446,30 @@ date: 2025-01-07, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/tamper-proof-screws-one-way/>
+
+---
+
+## This Historic 1913 Stucco Home in Atlanta Lists for $3.5M
+
+date: 2025-01-07, from: Dwell
+
+Architect P. Thornton Marye designed and built this as his personal home in Ansley Park. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-mediterranean-atlanta-real-estate-e18d5def>
+
+---
+
+## For $4.6M, This Marbella Villa Embodies Mediterranean Living
+
+date: 2025-01-07, from: Dwell
+
+The Spanish seaside home boasts unparalleled amenities and spaces designed for gathering. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-solarium-villa-marbella-real-estate-37a1769c>
 
 ---
 

@@ -1,11 +1,395 @@
 ---
 title: science and technology
-updated: 2025-01-09 07:06:02
+updated: 2025-01-10 07:05:38
 ---
 
 # science and technology
 
-(date: 2025-01-09 07:06:02)
+(date: 2025-01-10 07:05:38)
+
+---
+
+## New Jersey Students to Hear from NASA Astronauts Aboard Space Station
+
+date: 2025-01-10, from: NASA breaking news
+
+Students from the Toms River School District in New Jersey will have the chance to connect with NASA astronauts Don Pettit and Butch Wilmore as they answer &#160;prerecorded science, technology, engineering, and mathematics (STEM) related questions from aboard the International Space Station. Watch the 20-minute space-to-Earth call in collaboration with Science Friday at 10 a.m. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/new-jersey-students-to-hear-from-nasa-astronauts-aboard-space-station/>
+
+---
+
+## New Outlook marches onto Windows 10 for what little time it has left
+
+date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
+
+<h4>Users of doomed operating system to receive unloved app via an update</h4> <p>Microsoft&#39;s new Outlook will be automatically installed on Windows 10 machines as part of an upcoming monthly security release.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/10/new_outlook_windows_10/>
+
+---
+
+## Free-software warriors celebrate landmark case that enforced GNU LGPL
+
+date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
+
+<h4>On the Fritz: German router maker AVM declines to appeal in device rights case after coughing up source code</h4> <p>Sebastian Steck, a software developer based in Germany, has obtained the source code and library installation scripts for his AVM FRITZ!Box 4020 router, thanks to a lawsuit funded by the Software Freedom Conservancy (SFC).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/10/german_router_maker_avm_lgpl/>
+
+---
+
+## See 25 Incredible Images From the Wildlife Photographer of the Year Contest
+
+date: 2025-01-10, from: Smithsonian Magazine
+
+Cast your vote for your favorite of the photographs, which are all contenders for the People’s Choice award, through January 29 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-25-incredible-images-from-the-wildlife-photographer-of-the-year-contest-180985746/>
+
+---
+
+## Hubble Rings In the New Year
+
+date: 2025-01-10, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image reveals a tiny patch of sky in the constellation Hydra. The stars and galaxies depicted here span a mind-bending range of distances. The objects in this image that are nearest to us are stars within our own Milky Way galaxy. You can easily spot these stars by their diffraction […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-rings-in-the-new-year/>
+
+---
+
+## Scammers exploit UK's digital landline switch to swipe cash
+
+date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
+
+<h4>Old deadline of January 2025 being used to push victims into paying up</h4> <p>UK consumer champion Which? warns that scammers are using the ongoing phone line digital switchover program in Britain and Northern Ireland to trick customers into handing over their payment details.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/10/digital_landline_switch_scam/>
+
+---
+
+## Mail-out madness as insurer offers refunds to customers in error
+
+date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
+
+<h4>Hastings has a mystery to solve – how did all those customers get offered refunds?</h4> <p>UK insurer Hastings Direct had a few technical issues this week after some of its customers were told they&#39;d receive refunds, only to have their hopes dashed by a hasty apology.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/10/hastings_direct_mailout_error/>
+
+---
+
+## America’s First ‘Viral’ Post Was Published on This Day in 1776, When Thomas Paine’s Common Sense Sparked a Revolution
+
+date: 2025-01-10, from: Smithsonian Magazine
+
+The Englishman’s pamphlet helped spur the 13 colonies to declare independence from Britain 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/americas-first-viral-post-was-published-on-this-day-in-1776-when-thomas-paines-common-sense-sparked-a-revolution-180985802/>
+
+---
+
+## Two accused of COVID-19 vaccine fraud under Computer Misuse Act
+
+date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
+
+<h4>Investigation says scheme allegedly raked in £145k and sold nearly 2,000 fake records to the unvaccinated</h4> <p>The UK&#39;s National Crime Agency (NCA) has taken its case against two Luton men further by charging them over the alleged distribution of fraudulent COVID-19 vaccination records.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/10/covid19_vaccine_fraud_charges/>
+
+---
+
+## Devs sent into security panic by 'feature that was helpful … until it wasn't'
+
+date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
+
+<h4>Screenshot showed it wasn&#39;t a possible attack – unless you qualify everything Google does as a threat</h4> <p><strong>On Call</strong>  Velkomin, Vælkomin, Hoş geldin, and welcome to Friday, and therefore to another edition of On Call – <i>The Register</i>&#39;s end-of-week celebration of the tech support tasks you managed to tackle without too much trauma.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/10/on_call/>
+
+---
+
+## Hands-on jobs to grow fastest, because AI can't touch them
+
+date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
+
+<h4>World Economic Forum finds huge demand for brainbox skills, news for how it changes your role</h4> <p>Think tank and advocacy org the World Economic Forum has predicted strong growth in jobs that AI can’t replace, plus big demand for skills to automate those that can.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/10/ai_jobs_wef/>
+
+---
+
+## Court docs allege Meta trained its AI models on contentious trove of maybe-pirated content
+
+date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
+
+<h4>Did Zuck’s definition of ‘free expression’ just get even broader?</h4> <p>Meta allegedly downloaded material from an online source that’s been sued for breaching copyright, because it wanted the material to train its AI models, according to a new court filing.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/10/meta_libgen_allegation/>
+
+---
+
+## Is that a bird’s nest, a wireless broadband base station, or both?
+
+date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
+
+<h4>Everything in Australia is deadly, in this case giant eagles guarding eggs in places wireless broadband techs need to reach</h4> <p>Australia’s National Broadband Network has started building bird’s nests.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/10/nbn_australia_broadband_nests/>
+
+---
+
+## Rollable laptop displays to roll off the production line from April, says Samsung
+
+date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
+
+<h4>Lenovo’s already showing them off in a bonkers laptop</h4> <p><strong>CES</strong>  Laptops with rollable displays that allow expanded screens are about to become a thing, thanks to Lenovo and Samsung.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/10/lenovo_samsung_rollable_laptop_screens/>
+
+---
+
+## An Undersea Volcano Near Oregon May Erupt in 2025, Scientists Predict. It Could Help Improve Eruption Forecasts
+
+date: 2025-01-09, from: Smithsonian Magazine
+
+Axial Seamount doesn’t pose a threat to humans, but observing what happens before and after its potential eruption could help scientists learn about submerged volcanoes and strengthen predictions 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/an-undersea-volcano-near-oregon-may-erupt-in-2025-scientists-predict-it-could-help-improve-eruption-forecasts-180985796/>
+
+---
+
+## Look for the label: White House rolls out 'Cyber Trust Mark' for smart devices
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>Beware the IoT that doesn’t get a security tag</h4> <p>The White House this week introduced a voluntary cybersecurity labeling program for technology products so that consumers can have some assurance their smart devices aren&#39;t spying on them.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/white_house_smart_device_security_label/>
+
+---
+
+## The Netherlands Has Published a List of 425,000 Suspected Nazi Collaborators
+
+date: 2025-01-09, from: Smithsonian Magazine
+
+In the past, the names could only be viewed in person. But due to expiring access restrictions, they're now available to anyone with an internet connection 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-netherlands-has-published-a-list-of-425000-suspected-nazi-collaborators-180985793/>
+
+---
+
+## A Novel 'Kiss and Capture' Event Gave Pluto Its Largest Moon, Charon, New Study Suggests
+
+date: 2025-01-09, from: Smithsonian Magazine
+
+Researchers accounted for the previously overlooked structures of the dwarf planet and moon in computer simulations of a celestial collision 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-novel-kiss-and-capture-event-gave-pluto-its-largest-moon-charon-new-study-suggests-180985787/>
+
+---
+
+## Biden said to weigh global limits on AI exports in 11th-hour trade war blitz
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>China faces outright ban while others vie for Uncle Sam&#39;s favor</h4> <p>The Biden administration is reportedly weighing new limits in the ongoing US-China trade war, which would ban high-end AI accelerators to adversary nations and impose restrictions on AI models for others.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/us_weighing_global_limits_ai_exports/>
+
+---
+
+## Short-lived bling, dumb smart things, and more: The worst in show from CES 2025
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>The honors are dubious, but boy, so is the tech</h4> <p><strong>ces</strong>  The Consumer Electronics Show is back to showcase not just the cutting edge of innovation but also the worst of what&#39;s possible when modern tech collides with today&#39;s culture of capitalist excess.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/ces_worst_in_show_awards/>
+
+---
+
+## Massive Bluefin Tuna the Size of a Motorcycle Sells for $1.3 Million at a Japanese Fish Market
+
+date: 2025-01-09, from: Smithsonian Magazine
+
+The fish weighed 608 pounds, which is also about the same size as an adult male grizzly bear. It garnered the second highest bid at the Toyosu Market since records began in 1999 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/massive-bluefin-tuna-the-size-of-a-motorcycle-sells-for-13-million-at-a-japanese-fish-market-180985799/>
+
+---
+
+## Construction Workers Discover Ancient Stone Coffin Filled With Plaster While Expanding Highway in England
+
+date: 2025-01-09, from: Smithsonian Magazine
+
+The intricately crafted coffin dates back more than 1,500 years. Researchers say it weighs around 1,650 pounds, "comparable to an adult male polar bear" 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/construction-workers-discover-ancient-stone-coffin-filled-with-plaster-while-expanding-highway-in-england-180985779/>
+
+---
+
+## Microsoft preps for a year of enterprise-impacting M365 retirements
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>Hey administrators – buckle up. 2025 is going to be a wild ride</h4> <p>Administrators at Microsoft shops are in for a wild 2025 as Redmond prepares to deprecate and retire more than just support for Windows 10.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_enterprise_impacting_retirements/>
+
+---
+
+## Summary of the 2024 NASA LCLUC Science Team Meeting
+
+date: 2025-01-09, from: NASA breaking news
+
+Introduction The 2024 NASA Land-Cover and Land-Use Change (LCLUC) Science Team Meeting (STM) took place from April 2–4, 2024 at the Marriott Washingtonian Center in Gaithersburg, MD. During the meeting, 75 people attended in-person. Represented among the attendees were LCLUC project investigators and collaborators, NASA Headquarters (HQ) program managers, and university researchers and students – […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/summary-of-the-2024-nasa-lcluc-science-team-meeting/>
+
+---
+
+## The Historic Landmarks Razed By Los Angeles’ Deadly Fires
+
+date: 2025-01-09, from: Smithsonian Magazine
+
+Among the destroyed structures are the ranch established by comedian Will Rogers and a motel owned by notorious publisher William Randolph Hearst 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-historic-landmarks-razed-by-los-angeles-deadly-fires-180985797/>
+
+---
+
+## Tesla, Musk double down on $56B payday appeal
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>What could be the motivation for continuing to fight the case?</h4> <p>Tesla CEO Elon Musk and a group of other top executives employed by the electric car company have launched an appeal against a series of court rulings that blocked his $56 billion pay package.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/musk_appeal_tesla_pay/>
+
+---
+
+## Jimmy Carter Worked to Eradicate the Vicious Guinea Worm Parasite, Slashing Cases by the Millions
+
+date: 2025-01-09, from: Smithsonian Magazine
+
+The 39th U.S. president aimed to quash the debilitating water-based infection before he died. Through the Carter Center's work, he came tantalizingly close, lowering the number of yearly cases from 3.5 million to just 14 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/jimmy-carter-worked-to-eradicate-the-vicious-guinea-worm-parasite-slashing-cases-by-the-millions-180985791/>
+
+---
+
+## Haiku Beta 5 / In tests it's (Fire)foxier / It pleases us well
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>Simply the best FOSS desktop OS there is, outside of the Windows and Unix families</h4> <p>Haiku still hasn&#39;t quite reached that magic Version One Point Zero line in the sand, in part because its developers are setting the bar much higher than that of any other FOSS OS.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/testing_haiku_beta_5/>
+
+---
+
+## 35 Years Ago: STS-32 Returns the Long Duration Exposure Facility
+
+date: 2025-01-09, from: NASA breaking news
+
+On Jan. 9, 1990, space shuttle Columbia took off on its ninth flight, STS-32, from NASA’s Kennedy Space Center (KSC) in Florida. Its five-person crew of Commander Daniel Brandenstein, Pilot James Wetherbee, and Mission Specialists Bonnie Dunbar, Marsha Ivins, and David Low flew a then record-breaking 11-day mission to deploy the Syncom IV-F5 communications satellite [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/35-years-ago-sts-32-returns-the-long-duration-exposure-facility/>
+
+---
+
+## Helicopter Removes Artifact from NASA Armstrong Rooftop
+
+date: 2025-01-09, from: NASA breaking news
+
+What do the X-15 and the space shuttles have in common? Information from the rocket plane and the spacecraft, as well as many experimental aircraft, were tracked from a pedestal and telemetry dish during key eras in flight history at or near NASA’s Armstrong Flight Research Center in Edwards, California. When the NASA facility’s administration [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/helicopter-removes-artifact-from-nasa-armstrong-rooftop/>
+
+---
+
+## Microsoft cutting more jobs as new year begins
+
+date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+
+<h4>Redmond claims cuts are performance based</h4> <p>Microsoft kicks off the new year with more job cuts, as fewer than 1 percent of employees reportedly face the axe.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_cutting_more_jobs/>
+
+---
+
+## VLC gets caught in “AI” hype, adds “AI” subtitles and translations
+
+date: 2025-01-09, from: OS News
+
+VLC media player, the popular open-source software developed by nonprofit VideoLAN, has topped 6 billion downloads worldwide and teased an AI-powered subtitle system. The new feature automatically generates real-time subtitles — which can then also be translated in many languages — for any video using open-source AI models that run locally on users’ devices, eliminating the need for internet connectivity or cloud services, VideoLAN demoed at CES. ↫ Manish Singh at TechCrunch VLC is choosing to throw users who rely on subtitles for accessibility or translation reasons under the bus. Using speech-to-text and even &#8220;AI&#8221; as a starting point for a proper accessibility expert of translator is fine, and can greatly reduce the workload. However, as anyone who works with STT and &#8220;AI&#8221; translation software knows, their output is highly variable and wildly unreliable, especially once English isn&#8217;t involved. Dumping the raw output of these tools onto people who rely on closed captions and subtitles to even be able to view videos is not only lazy, it&#8217;s deeply irresponsible and demonstrates a complete lack of respect and understanding. I was a translator for almost 15 years, with two university degrees on the subject to show for it. This is obviously a subject close to my heart, and the complete and utter lack of respect and understanding from Silicon Valley and the wider technology world for proper localisation and translation has been a thorn in my side for decades. We all know about bad translations, but it goes much deeper than that &#8211; with Silicon Valley&#8217;s utter disregard for multilingual people drawing most of my ire. Despite about 60 million people in the US alone using both English and Spanish daily, software still almost universally assumes you speak only one language at all times, often forcing fresh installs for something as simple as changing a single application&#8217;s language, or not even allowing autocorrect on a touch keyboard to work with multiple languages simultaneously. I can&#8217;t even imagine how bad things are for people who, for instance, require closed-captions for accessibility reasons. Imagine just how bad the &#8220;AI&#8221;-translated Croation closed-captions on an Italian video are going to be &#8211; that&#8217;s two levels of &#8220;AI&#8221; brainrot between the source and the ears of the Croation user. It seems subtitles and closed captions are going to be the next area where technology companies are going to slash costs, without realising &#8211; or, more likely, without giving a shit &#8211; that this will hurt users who require accessibility or translations more than anything. Seeing even an open source project like VLC jump onto this bandwagon is disheartening, but not entirely unexpected &#8211; the hype bubble is inescapable, and a lot more respected projects are going to throw their users under the bus before this bubble pops. &#8230;wait a second. Why is VLC at CES in the first place? 
+
+<br> 
+
+<https://www.osnews.com/story/141513/vlc-gets-caught-in-ai-hype-adds-ai-subtitles-and-translations/>
 
 ---
 
@@ -97,7 +481,7 @@ date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
 
 date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
 
-<h4>Deal supposed to end in 2017 continues to haunt HMRC procurement</h4> <p>In the last five years, the UK&#39;s tax collector has spent £3.8 billion with tech suppliers - including £591 million without any outside competition - on top of a £10 billion project intended to end in 2017.…</p> 
+<h4>Deal supposed to end in 2017 continues to haunt tax collector procurement</h4> <p>In the last five years, the UK&#39;s tax collector has spent £3.8 billion with tech suppliers - including £591 million without any outside competition - on top of a £10 billion project intended to end in 2017.…</p> 
 
 <br> 
 
@@ -275,7 +659,7 @@ The death of a Louisiana resident who was over the age of 65 signals that future
 
 ## Los Angeles wildfires force tens of thousands to evacuate, NASA JPL closed
 
-date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+date: 2025-01-08, updated: 2025-01-10, from: The Register (UK I.T. News)
 
 <h4>Crews battle to keep people, homes, science safe</h4> <p>With several major wildfires raging out of control in Los Angeles County, fire crews are risking their lives to protect people, homes, and a key NASA facility.…</p> 
 
@@ -587,7 +971,7 @@ date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
 
 ## AI hype led to an enterprise datacenter spending binge in 2024 that won't last
 
-date: 2025-01-08, updated: 2025-01-08, from: The Register (UK I.T. News)
+date: 2025-01-08, updated: 2025-01-09, from: The Register (UK I.T. News)
 
 <h4>GPUs and generative AI systems so hot right now... yet &#39;long-term trend remains,&#39; says analyst</h4> <p>Bets on the future demand for AI drove a 48 percent jump in spending on public cloud infrastructure last year, as cloud providers and enterprises both rushed to invest in servers and GPUs to support generative AI workloads.…</p> 
 

@@ -1,17 +1,175 @@
 ---
 title: socal north
-updated: 2025-01-09 07:06:02
+updated: 2025-01-10 07:05:37
 ---
 
 # socal north
 
-(date: 2025-01-09 07:06:02)
+(date: 2025-01-10 07:05:37)
 
 ---
 
-## What really happened with the Pacific Palisades water hydrants?
+## Malibu and Altadena communities face the loss of much-loved eateries
+
+date: 2025-01-10, updated: 2025-01-10, from: The LAist
+
+The fires have wiped out several neighborhood staples. Here's what they meant to the community, and how to help 
+
+<br> 
+
+<https://laist.com/news/food/malibu-and-altadena-communities-face-the-loss-of-much-loved-eateries>
+
+---
+
+## What does the steep price of eggs mean for your favorite bakery?
+
+date: 2025-01-10, updated: 2025-01-10, from: The LAist
+
+L.A. bakeries are feeling the squeeze as the affects of bird flu hit hard. 
+
+<br> 
+
+<https://laist.com/news/food/what-does-the-steep-price-of-eggs-mean-for-your-favorite-bakery>
+
+---
+
+## Words we're saying goodbye to in 2025
+
+date: 2025-01-10, updated: 2025-01-10, from: The LAist
+
+LAist listeners shared what words and phrases they would like to retire in the new year. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/words-were-saying-goodbye-to-in-2025>
+
+---
+
+## What we know, and don't know, about the rising number of wildfires fatalities
+
+date: 2025-01-10, updated: 2025-01-10, from: The LAist
+
+The Los Angeles County Medical Examiner said the recent wildfires have claimed 10 lives. Official said in a statement they understand "how important it is to identify those lost in the wildfires.' 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-wildfires-claim-at-least-10-lives>
+
+---
+
+## Before and after: See the wildfires' destructive force in satellite images of Malibu and Altadena
+
+date: 2025-01-10, updated: 2025-01-10, from: The LAist
+
+Satellite images show the extent of devastation from multiple wildfires burning in Los Angeles County after one day. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/photos-see-the-california-wildfires-destructive-force-in-satellite-images>
+
+---
+
+## Nursing home evacuees faced cot shortages in Pasadena, medical staff say
+
+date: 2025-01-10, updated: 2025-01-10, from: The LAist
+
+More than 35 long-term care facilities were evacuated in recent days. 
+
+<br> 
+
+<https://laist.com/news/nursing-home-cot-shortages-pasadena-eaton-fire>
+
+---
+
+## About that false alarm: Yes, a very loud countywide alert scared just about everyone who got it
+
+date: 2025-01-10, updated: 2025-01-10, from: The LAist
+
+And then minutes later, everyone in L.A. County got another alert saying never mind. 
+
+<br> 
+
+<https://laist.com/news/la-county-alert-prepare-evacuation>
+
+---
+
+## Cheat Sheet: These are the steps fire victims need to take to make an insurance claim
+
+date: 2025-01-10, updated: 2025-01-10, from: The LAist
+
+We have tips from California's insurance commissioner on how to contact the state and start the claims process, and how to keep you and your loved ones from falling for scams. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/cheat-sheet-what-to-do-if-you-need-to-make-a-fire-insurance-claim>
+
+---
+
+## Experts tell us the best way to help LA's fire victims right now
+
+date: 2025-01-10, updated: 2025-01-10, from: The LAist
+
+Aid organizations say money is generally more helpful in the short-term than items or volunteering. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/how-to-help-la-fire-victims>
+
+---
+
+## Kenneth Fire: Firefighters make progress in containing the spread as it moves into Ventura County
+
+date: 2025-01-09, updated: 2025-01-10, from: The LAist
+
+The fire broke out at about 2:40 p.m. in the Upper Las Virgenes Canyon Open Space Preserve. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/kenneth-fire-san-fernando-valley>
+
+---
+
+## Back to School, Back to Safety
+
+date: 2025-01-09, from: City of Santa Clarita
+
+<p>By Councilwoman Marsha McLean And just like that, we’ve turned the page to a brand-new year here in Santa Clarita! Can you believe how fast 2024 flew by? With so many impressive City milestones—like groundbreakings for the Pioneer Oil Refinery and The Rink Sports Pavilion and the grand openings of the Valencia Community Center and [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/09/back-to-school-back-to-safety/">Back to School, Back to Safety</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/09/back-to-school-back-to-safety/>
+
+---
+
+## Angeles National Forest reaches 'critical' fire danger after closing to the public
 
 date: 2025-01-09, updated: 2025-01-09, from: The LAist
+
+The forest is closed to everyone, including to people who own cabins. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/angeles-national-forest-critical-fire-danger-closed>
+
+---
+
+## How to talk to children about wildfires, evacuations and losing a home
+
+date: 2025-01-09, updated: 2025-01-10, from: The LAist
+
+Experts say parents should validate feelings and create avenues for kids to express themselves. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/how-to-talk-to-children-about-wildfires-evacuations-and-losing-a-home>
+
+---
+
+## Fact check: What really happened with the Pacific Palisades water hydrants?
+
+date: 2025-01-09, updated: 2025-01-10, from: The LAist
 
 Why did water hydrants run dry in the midst of a conflagration? City officials stressed that the shortage was due to low water pressure, not a complete lack of water. But what caused it, and can it be prevented? 
 
@@ -179,7 +337,7 @@ The synagogue’s 13 Torah scrolls were saved from the building.
 
 ## Beloved places we’ve lost: Tracking LA fire destruction
 
-date: 2025-01-09, updated: 2025-01-09, from: The LAist
+date: 2025-01-09, updated: 2025-01-10, from: The LAist
 
 An unknown number of homes, businesses and cherished community spots have gone up in flames. 
 
@@ -191,7 +349,7 @@ An unknown number of homes, businesses and cherished community spots have gone u
 
 ## Resources for SoCal fire victims, evacuees and first responders
 
-date: 2025-01-09, updated: 2025-01-09, from: The LAist
+date: 2025-01-09, updated: 2025-01-10, from: The LAist
 
 Here’s where to find shelter, food and even discounted rides. 
 
@@ -369,6 +527,18 @@ With the Los Angeles area already reeling from two wildfires, a third broke out 
 
 ---
 
+## Death toll jumps to 10 as fires take staggering toll on LA
+
+date: 2025-01-08, updated: 2025-01-10, from: The LAist
+
+The rising death underscores the sheer destruction and danger caused by fires that remain very active Conditions are still ripe for additional fires to spark and spread. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/kenneth-sunset-hurst-palisades-eaton-woodley-tyler-fires>
+
+---
+
 ## Evacuation orders lifted for Sunset Fire. What we know about all the fires burning right now
 
 date: 2025-01-08, updated: 2025-01-09, from: The LAist
@@ -453,9 +623,9 @@ The funds were cash advances to service providers in the Los Angeles region.
 
 ---
 
-## Eaton Fire forces 100K people under evacuation orders, 5 deaths reported
+## Eaton Fire forces 100K people under evacuation orders
 
-date: 2025-01-08, updated: 2025-01-09, from: The LAist
+date: 2025-01-08, updated: 2025-01-10, from: The LAist
 
 Officials say the death toll rose to five Wednesday as the fire continues to burn uncontrolled. A tap water advisory has been issued by the city of Pasadena. 
 
@@ -561,9 +731,9 @@ Washington, D.C., is the next stop in former President Jimmy Carter's six days o
 
 ---
 
-## Palisades Fire: At least 1,000 homes and buildings lost, curfew orders issued in Santa Monica
+## Palisades Fire: 2 confirmed deaths and over 5.3K structures estimated to be damaged and destroyed
 
-date: 2025-01-07, updated: 2025-01-09, from: The LAist
+date: 2025-01-07, updated: 2025-01-10, from: The LAist
 
 The fire is a nightmare scenario for multiple coastal communities, with massive damage and no containment. 
 

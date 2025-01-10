@@ -1,11 +1,85 @@
 ---
 title: motorcycles
-updated: 2025-01-09 07:06:04
+updated: 2025-01-10 07:05:41
 ---
 
 # motorcycles
 
-(date: 2025-01-09 07:06:04)
+(date: 2025-01-10 07:05:41)
+
+---
+
+## Now's Your Chance To Own a Special Kawasaki H2 1000 4 Cylinder
+
+date: 2025-01-10, from: Ride Apart, Electric Motorcycle News
+
+Everyone's favo(u)rite mad UK builder only ever built four of these, and one is hitting the auction block soon. 
+
+<br> 
+
+<https://www.rideapart.com/news/746801/kawasaki-h2-1000-allen-millyard-special-mecum/>
+
+---
+
+## There's Now a 1,000 Horsepower Electric Motor Based on a Motorcycle Motor
+
+date: 2025-01-10, from: Ride Apart, Electric Motorcycle News
+
+So what are we tossing this into? 
+
+<br> 
+
+<https://www.rideapart.com/news/746792/verge-motorcycles-donut-lab-electric-motor/>
+
+---
+
+## This Weird E-Bike, Skateboard Mashup Looks Like Crazy Fun
+
+date: 2025-01-10, from: Ride Apart, Electric Motorcycle News
+
+It’s designed to go sideways, and for general hooligan behavior, too. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/746662/dryft-board-ebike-skateboard-mashup/>
+
+---
+
+## There's a New Four-Seat Kawasaki Ridge UTV Coming Real Soon
+
+date: 2025-01-10, from: Ride Apart, Electric Motorcycle News
+
+Grab your friends and family.  
+
+<br> 
+
+<https://www.rideapart.com/news/746788/kawasaki-ridge-crew-utv-debut-teaser/>
+
+---
+
+## HJC’s F71 Looks Like a Solid Sport-Touring Helmet
+
+date: 2025-01-10, from: Ride Apart, Electric Motorcycle News
+
+It even gets a vibrant Monkey DJ livery, too. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/746659/hjc-f71-monkey-dj-specs-features/>
+
+---
+
+## Bell primed for “break-out year,” following career-best campaign?
+
+date: 2025-01-09, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer Given what Christopher Bell has already accomplished throughout his young NASCAR Cup Series career, it’s bewildering to believe he’s yet to reach his full potential.&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/bell-primed-for-break-out-year-following-career-best-campaign/>
 
 ---
 
