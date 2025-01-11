@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2025-01-10 13:01:43
+updated: 2025-01-11 07:05:04
 ---
 
 # motorcycles
 
-(date: 2025-01-10 13:01:43)
+(date: 2025-01-11 07:05:04)
 
 ---
 
@@ -399,4 +399,16 @@ So what are we going after, bass or tarpon?
 <br> 
 
 <https://www.rideapart.com/news/746178/sea-doo-fishing-seat-pwc-patent-and-trademark/>
+
+---
+
+## LiveWire 'Outsources' Almost Everything to Harley-Davidson
+
+date: 2025-01-04, from: Ride Apart, Electric Motorcycle News
+
+New year, old company? 
+
+<br> 
+
+<https://www.rideapart.com/news/746176/livewire-outsource-harley-davidson-filing/>
 

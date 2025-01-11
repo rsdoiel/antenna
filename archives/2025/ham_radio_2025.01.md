@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-01-10 13:01:41
+updated: 2025-01-11 07:05:01
 ---
 
 # ham radio
 
-(date: 2025-01-10 13:01:41)
+(date: 2025-01-11 07:05:01)
+
+---
+
+## CES 2025 coverage
+
+date: 2025-01-10, from: EDN Blog
+
+<img width="4080" height="3072" src="https://www.edn.com/wp-content/uploads/PXL_20250109_034217992.jpg?fit=4080%2C3072" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/PXL_20250109_034217992.jpg?w=4080 4080w, https://www.edn.com/wp-content/uploads/PXL_20250109_034217992.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/PXL_20250109_034217992.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/PXL_20250109_034217992.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/PXL_20250109_034217992.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/PXL_20250109_034217992.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/PXL_20250109_034217992.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/PXL_20250109_034217992.jpg?w=2850 2850w" sizes="auto, (max-width: 4080px) 100vw, 4080px" /><p>Editors from EDN and our sister publications are covering the Consumer Electronics Show (CES). Scroll down to see coverage of this year's CES! </p>
+<p>The post <a href="https://www.edn.com/ces-2025-coverage/" data-wpel-link="internal">CES 2025 coverage</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/ces-2025-coverage/>
 
 ---
 
@@ -49,7 +63,7 @@ date: 2025-01-10, from: Amateur Radio Relay League News
 
 date: 2025-01-10, from: EDN Blog
 
-<img width="8192" height="5464" src="https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?fit=8192%2C5464" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=8192 8192w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=2850 2850w" sizes="(max-width: 8192px) 100vw, 8192px" /><p>AI and software algorithms add value to the entire sensor system and enable a new breed of applications.</p>
+<img width="8192" height="5464" src="https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?fit=8192%2C5464" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=8192 8192w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Fig-1-smart-sensors-Bosch.jpg?w=2850 2850w" sizes="auto, (max-width: 8192px) 100vw, 8192px" /><p>AI and software algorithms add value to the entire sensor system and enable a new breed of applications.</p>
 <p>The post <a href="https://www.edn.com/integration-of-ai-in-sensors-prominent-at-ces-2025/" data-wpel-link="internal">Integration of AI in sensors prominent at CES 2025</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
@@ -59,12 +73,12 @@ date: 2025-01-10, from: EDN Blog
 
 ---
 
-## CES 2025: Approaches towards hardware acceleration
+## CES 2025: Edge AI hardware acceleration highlights
 
 date: 2025-01-10, from: EDN Blog
 
-<img width="2092" height="2442" src="https://www.edn.com/wp-content/uploads/TI-edge-AI.png?fit=2092%2C2442" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=2092 2092w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=257 257w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=768 768w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=877 877w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=1316 1316w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=1754 1754w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=1900 1900w" sizes="(max-width: 2092px) 100vw, 2092px" /><p>Edge computing has been a hot topic at CES 2025, but what is the underlying hardware and how do the implementations vary?</p>
-<p>The post <a href="https://www.edn.com/ces-2025-approaches-towards-hardware-acceleration/" data-wpel-link="internal">CES 2025: Approaches towards hardware acceleration</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+<img width="2092" height="2442" src="https://www.edn.com/wp-content/uploads/TI-edge-AI.png?fit=2092%2C2442" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=2092 2092w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=257 257w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=768 768w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=877 877w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=1316 1316w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=1754 1754w, https://www.edn.com/wp-content/uploads/TI-edge-AI.png?w=1900 1900w" sizes="auto, (max-width: 2092px) 100vw, 2092px" /><p>Edge computing has been a hot topic, but what's underlying hardware and how do implementations vary?</p>
+<p>The post <a href="https://www.edn.com/ces-2025-approaches-towards-hardware-acceleration/" data-wpel-link="internal">CES 2025: Edge AI hardware acceleration highlights</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
 <br> 
@@ -145,7 +159,7 @@ date: 2025-01-09, from: Amateur Radio Relay League News
 
 date: 2025-01-08, from: EDN Blog
 
-<p>Based on the OPEN alliance 10BASE-T1S PHY, E2B bus aims at removing the need for MCUs centralizing software to HPC or central compute.</p>
+<img width="3072" height="4080" src="https://www.edn.com/wp-content/uploads/PXL_20250108_172930374.jpg?fit=3072%2C4080" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/PXL_20250108_172930374.jpg?w=3072 3072w, https://www.edn.com/wp-content/uploads/PXL_20250108_172930374.jpg?w=226 226w, https://www.edn.com/wp-content/uploads/PXL_20250108_172930374.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/PXL_20250108_172930374.jpg?w=771 771w, https://www.edn.com/wp-content/uploads/PXL_20250108_172930374.jpg?w=1157 1157w, https://www.edn.com/wp-content/uploads/PXL_20250108_172930374.jpg?w=1542 1542w, https://www.edn.com/wp-content/uploads/PXL_20250108_172930374.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/PXL_20250108_172930374.jpg?w=2850 2850w" sizes="auto, (max-width: 3072px) 100vw, 3072px" /><p>Based on the OPEN alliance 10BASE-T1S PHY, E2B bus aims at removing the need for MCUs centralizing software to HPC or central compute.</p>
 <p>The post <a href="https://www.edn.com/adis-efforts-for-a-wirelessly-upgraded-software-defined-vehicle/" data-wpel-link="internal">CES 2025: Wirelessly upgrading SDVs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

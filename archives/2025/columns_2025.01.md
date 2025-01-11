@@ -1,11 +1,77 @@
 ---
 title: columns
-updated: 2025-01-10 13:01:41
+updated: 2025-01-11 07:05:02
 ---
 
 # columns
 
-(date: 2025-01-10 13:01:41)
+(date: 2025-01-11 07:05:02)
+
+---
+
+## James Thomson on the Origins of the MacOS Dock
+
+date: 2025-01-10, updated: 2025-01-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/>
+
+---
+
+## Los Angeles Fires: The Damage in Maps, Video, and Images
+
+date: 2025-01-10, updated: 2025-01-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theguardian.com/us-news/2025/jan/10/los-angeles-fires-the-damage-in-maps-video-and-images>
+
+---
+
+## Friday Squid Blogging: Cotton-and-Squid-Bone Sponge
+
+date: 2025-01-10, updated: 2025-01-02, from: Bruce Schneier blog
+
+<p><a href="https://www.theguardian.com/environment/2024/dec/10/microplastics-pollution-sponge-cotton-squid-bone">News</a>:</p>
+<blockquote><p>A sponge made of cotton and squid bone that has absorbed about 99.9% of microplastics in water samples in China could provide an elusive answer to ubiquitous microplastic pollution in water across the globe, a new report suggests.</p>
+<p>[&#8230;]</p>
+<p>The study tested the material in an irrigation ditch, a lake, seawater and a pond, where it removed up to 99.9% of plastic. It addressed 95%-98% of plastic after five cycles, which the authors say is remarkable reusability.</p>
+<p>The sponge is made from chitin extracted from squid bone and cotton cellulose, materials that are often used to address pollution. Cost, secondary pollution and technological complexities have stymied many other filtration systems, but large-scale production of the new material is possible because it is cheap, and raw materials are easy to obtain, the authors say...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/01/friday-squid-blogging-cotton-and-squid-bone-sponge.html>
+
+---
+
+##  I paged through this illustrated retrospective of Hayao Miyazaki&#8217;s work at the... 
+
+date: 2025-01-10, updated: 2025-01-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0045998-i-paged-through-this-illu>
+
+---
+
+## January 9, 2025
+
+date: 2025-01-10, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154566392/da42d9856e389e8db22cc50ecb097490.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154566392/da42d9856e389e8db22cc50ecb097490.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-9-2025-aa7>
 
 ---
 
@@ -61,7 +127,7 @@ date: 2025-01-10, updated: 2025-01-10, from: Jason Kittke's blog
 
 date: 2025-01-10, from: Doc Searls (at Harvard), New Old Blog
 
-This is my dashboard for Los Angeles as it looks this morning: Five TV stations, one radio station, one newspaper: KNBC/4 &#8220;4 Los Angeles&#8221; KTLA/5 &#8220;LA&#8217;s Very Own&#8221; KABC/7  &#8220;7 Eyewitness News&#8221; KCAL/9 &#8220;KCAL NEWS CBS Los Angeles&#8221; KTTV/11 &#8220;Fox 11 Los Angeles&#8221; KPCC/89.3 &#8220;LAist&#8221; Los Angeles Times Note the order. I come from the [&#8230;] 
+Seventeenth in the News Commons series. While I&#8217;ve been writing about the #LAfires, this has been my main media dashboard: Those are tabs for five TV stations, one radio station, and one newspaper: KNBC/4 &#8220;4 Los Angeles&#8221; KTLA/5 &#8220;LA&#8217;s Very Own&#8221; KABC/7  &#8220;7 Eyewitness News&#8221; KCAL/9 &#8220;KCAL NEWS CBS Los Angeles&#8221; KTTV/11 &#8220;Fox 11 Los [&#8230;] 
 
 <br> 
 
@@ -620,6 +686,17 @@ At least four wildfires tearing across Los Angeles have killed at least five peo
 
 ---
 
+**@Jessica Smith's blog** (date: 2025-01-09, from: Jessica Smith's blog)
+
+<p>Just over five years ago (over New Year&rsquo;s) Viv and I visited Los Angeles, and the part we were staying in is now under an evacuation order 😳</p>
+<p>I think it&rsquo;s still only the second-most shocking thing that&rsquo;s happened in a place I&rsquo;ve stayed, though, after the metro station I used, like, every day when I visited Santiago in 2013 was reportedly converted into a torture facility by cops (carabineros or full-on paramilitaries? I don&rsquo;t remember) during the 2019 student uprising. It&rsquo;s weird, I guess, because you&rsquo;re as powerless as you always were about horrors happening far away, but it <em>feels</em> more visceral when you can put yourself, mentally, in the places involved.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/01/fires-in-la.html>
+
+---
+
 ##  Reporter Lucy Sherriff on fleeing from the LA fires: I Saw the... 
 
 date: 2025-01-09, updated: 2025-01-09, from: Jason Kittke's blog
@@ -926,6 +1003,17 @@ We&#8217;re watching KABC/7 from Los Angeles, live on our Roku TV (which has it 
 <br> 
 
 <https://doc.searls.com/2025/01/07/on-the-palisades-and-eaton-fires/>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-01-08, from: Jessica Smith's blog)
+
+<p>Really uplifting new parents&rsquo; session today. &ldquo;WAYS YOUR BABY COULD DIE&rdquo;</p>
+<p>Plus, I&rsquo;m starting to worry people will think I&rsquo;m drugging Indie before every meeting, because she slept through the whole entire thing… again.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/01/uplifting-new-parents-session.html>
 
 ---
 
@@ -1856,4 +1944,238 @@ Today’s Observer column: You know the drill. You’re logging into your bank o
 <br> 
 
 <https://memex.naughtons.org/memo-to-trump-us-telecoms-are-vulnerable-to-hackers-hang-up-and-try-again/40306/>
+
+---
+
+## Pulitzer-Prize-Winner Ann Telnaes Quits the Washington Post After Editors Nix Cartoon Mocking Bezos (and His Tech/Media Mogul Cohorts) for Paying Fealty to Trump
+
+date: 2025-01-04, updated: 2025-01-08, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://anntelnaes.substack.com/p/why-im-quitting-the-washington-post>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-04, from: Dave Winer's Scripting News)
+
+BTW, as <a href="http://scripting.com/2025/01/03.html#a010024">promised</a>, last night's Knicks game was great. Up until the end, when the other guys took over and sadly the Knicks lost. We need a stronger bench. The starting five are great but they're not totally super-human. 
+
+<br> 
+
+<http://scripting.com/2025/01/04.html#a223717>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-04, from: Dave Winer's Scripting News)
+
+Just taking it easy. Thinking about stuff. Will resume blogging soon. <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2025/01/04.html#a223632>
+
+---
+
+## January 3, 2025
+
+date: 2025-01-04, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154157241/2f718a6249f31eef8f2a14f2827ca927.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154157241/2f718a6249f31eef8f2a14f2827ca927.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-3-2025-709>
+
+---
+
+## Disrupting my reading habits to read more of what *I* want (Part 3)
+
+date: 2025-01-04, from: Tracy Durnell Blog
+
+This is part three of a series on tackling wants, managing my media diet, and finding enough. Read the introduction on &#8220;the mindset of more.&#8221; The Internet feels like an old relative&#8217;s hoarder house, the hallways so packed with clutter you can barely squeeze through. At one point they remembered where some of the important [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/04/disrupting-my-reading-habits/>
+
+---
+
+## Ural Notes Part 2: Electrical and Lighting
+
+date: 2025-01-04, updated: 2025-01-04, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2025/01/04/ural-notes-part-2-electrical/>
+
+---
+
+## 2025-01-04 SSH app bots
+
+date: 2025-01-04, from: Alex Schroeder's Blog
+
+<h1 id="2025-01-04-ssh-app-bots">2025-01-04 SSH app bots</h1>
+
+<p>A long time ago I wrote a program that is accessible via <code>ssh</code>.
+Use the arrows to move around on the map, use <code>u</code> and <code>d</code> to raise and lower the land.
+The program recomputes water flow, forests, swamps, settlements, and so on.
+It&rsquo;s cute.</p>
+
+<p>I called it <a href="https://src.alexschroeder.ch/hex-populate.git/">hex-populate</a>,
+in honour of <a href="https://en.wikipedia.org/wiki/Populous_(series)">Populous</a>.</p>
+
+<p>If you &ldquo;save&rdquo; the map, an SVG rendering is saved on the server which you can download via <code>scp</code>.</p>
+
+<p>Since this application is a bit like a web site, there are not credentials to provide.
+Anybody can give it a try:</p>
+
+<pre><code>ssh campaignwiki.org -p 2022
+</code></pre>
+
+<p>Recently I wondered why load on the server was up to 3. The virtual server only has two cores so so it was overloaded.
+I checked with <code>htop</code> and <code>hex-populate</code> was eating 50% of the CPU.
+Really?
+Was somebody fuzzing the application, sending it random input?</p>
+
+<p>Let&rsquo;s check using <code>lsof</code>. The option <code>-i :2022</code> lists all the activity concerning the port I&rsquo;m interested in.
+<code>-n</code> means I don&rsquo;t need the hostname. (The hostname was &ldquo;inspector-apps.com&rdquo;.)</p>
+
+<pre><code># lsof -i :2022 -n
+COMMAND       PID         USER   FD   TYPE    DEVICE SIZE/OFF NODE NAME
+hex-popul 3601254 hex-populate    3u  IPv4 107999449      0t0  TCP 178.209.50.237:2022 (LISTEN)
+hex-popul 3601254 hex-populate    7u  IPv4 107999454      0t0  TCP 178.209.50.237:2022-&gt;159.203.81.114:57528 (ESTABLISHED)
+</code></pre>
+
+<p>You know what comes next.</p>
+
+<pre><code>root@sibirocobombus ~# whois 159.203.81.114
+</code></pre>
+
+<p>And based on the info, ban the whole network, and add it to <a href="/admin/ban-cidr">ban-cidr</a> as a warning for all to see.</p>
+
+<pre><code>ipset add banlist 159.203.0.0/16
+echo &quot;# &quot; (date --iso) &gt;&gt; bin/admin/ban-cidr
+echo &quot;ipset add banlist 159.203.0.0/16&quot; &gt;&gt; bin/admin/ban-cidr
+systemctl restart hex-populate.service
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Hex_Populate">#Hex Populate</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-01-04-ssh-app-bots>
+
+---
+
+## The Republican Takeover. Oof. | Coffee Klatch for January 4, 2025
+
+date: 2025-01-04, from: Robert Reich's blog
+
+With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154098651/8439265725de597eb83e870bb1f0fe07.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154098651/8439265725de597eb83e870bb1f0fe07.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/the-republican-takeover-oof-coffee>
+
+---
+
+## Weeknotes: Dec. 28, 2024 – Jan. 3, 2025
+
+date: 2025-01-04, from: Tracy Durnell Blog
+
+Win of the week: posted the intro and first two posts of the series I&#8217;ve been working on! third post scheduled for Saturday! Looking forward to: just got several books from the library I&#8217;ve been looking forward to, hopefully they&#8217;re good! Stuff I did: 0.5 hours consulting &#8212; took most of the week off work again, [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/03/weeknotes-dec-28-2024-jan-3-2025/>
+
+---
+
+## January 3, 2025 
+
+date: 2025-01-04, from: Heather Cox Richardson blog
+
+Today a new Congress, the 119th, came into session. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-3-2025>
+
+---
+
+## The Great American Tradition
+
+date: 2025-01-04, updated: 2025-01-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.politico.com/news/2021/01/09/biden-inaugural-donors-major-corporations-456907>
+
+---
+
+## Gambling, sports, kids
+
+date: 2025-01-04, from: Dave Winer's Scripting News
+
+<p><a href="https://paulkrugman.substack.com/p/the-plot-to-poison-childrens-minds">Krugman writes</a> about social media is poisoning children's minds. </p>
+<p>I like that Krugman has resumed his blogging. </p>
+<p>This means that sometimes I agree or disagree, or have mixed opinions, but I always learn something. That's what makes a blogger good imho.</p>
+<p>I don't know if I agree that children's minds are being poisoned. But I am pretty sure when people like Krugman and myself reach a certain age, and we are the same age, we start looking at new media that way. Maybe <i>our</i> minds are poisoned. My father called television the "idiot box." But it eventually became the literature of my generation, often very good. But maybe laws can help.</p>
+<p>One thing I am sure of is that sports is being ruined by gambling. I can't imagine that a parent in 2025 would let their kids watch the NBA on TV, because it makes gambling appear to be a normal part of being a fan. Yet the NBA, which has a reputation of being socially forward-thinking, has swallowed the pill, and gambling is an integral part of coverage of the NBA now. </p>
+<p>Same with the NFL, MLB and tennis. </p>
+<p>And is this why they can now afford to <a href="https://www.mlb.com/news/juan-soto-agrees-to-contract-with-mets">sign players</a> to $765 million contracts? </p>
+<p>They're all getting hugely rich, but I believe that they are certainly doing great harm to the new sports fans growing up now. </p>
+<p>I am a no apologist for being a sports fan. I love the Mets and the Knicks, have flirted with the Niners, and have a place in my heart for the Cubs and Red Sox, and I know that gambling spoils what's fun about sports, can turn it into an awful addiction. I manage to be a fan without ever having bet on a game, even just a bet between friends. I don't see it as part of sports. It wasn't the way my family enjoyed sports. </p>
+<p>I was a math major and a 50+ year programmer, and I know that if you gamble enough you lose all your money. And as an addiction no gambler ever gets up from the table to enjoy their winnings when they win.</p>
+<p>PS: I wrote this <a href="https://daveverse.wordpress.com/2025/01/01/gambling-has-infested-sport-in-new-unacceptable-ways/">post</a> in WordLand on New Years Day, saving it for a good moment on Scripting.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/03/014548.html?title=gamblingSportsKids>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-04, from: Dave Winer's Scripting News)
+
+<a href="https://www.youtube.com/watch?v=lhMDoBFYDmA">Knicks on Friday night</a>: A big offline day here in the mountains, the show will resume tomorrow bright and early, Murphy-willing. Enjoy tonight's <a href="https://www.si.com/nba/thunder/news/okc-thunder-vs-new-york-knicks-1-3-updated-injury-report-betting-odds">Knicks game</a> in OKC. Should be a great game. <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2025/01/03.html#a010024>
+
+---
+
+## ‘Don’t You Think We Should Maybe Ask for More Than a Million Dollars? A Million Dollars Isn’t Exactly a Lot of Money These Days.’
+
+date: 2025-01-04, updated: 2025-01-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=EJR1H5tf5wE>
+
+---
+
+## Understanding DOGE as Procurement Capture
+
+date: 2025-01-04, updated: 2025-01-04, from: Anil Dash blog
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/01/04/DOGE-procurement-capture/>
 

@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-01-10 13:01:42
+updated: 2025-01-11 07:05:03
 ---
 
 # libraries
 
-(date: 2025-01-10 13:01:42)
+(date: 2025-01-11 07:05:03)
 
 ---
 
@@ -180,6 +180,18 @@ date: 2025-01-08, from: Crossref Blog
 <br> 
 
 <https://www.crossref.org/blog/metadata-matching-beyond-correctness/>
+
+---
+
+## Toward Attention-based TinyML: A Heterogeneous Accelerated Architecture and Automated Deployment Flow
+
+date: 2025-01-08, from: ETH Zurich, recently added
+
+Wiese, Philip; İslamoğlu, Gamze; Scherer, Moritz; Macan, Luka; Jung, Victor J.B.; Burello, Alessio; Conti, Francesco; Benini, Luca 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/714939>
 
 ---
 

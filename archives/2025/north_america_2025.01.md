@@ -1,11 +1,269 @@
 ---
 title: north america
-updated: 2025-01-10 13:01:40
+updated: 2025-01-11 07:05:00
 ---
 
 # north america
 
-(date: 2025-01-10 13:01:40)
+(date: 2025-01-11 07:05:00)
+
+---
+
+## Biden, Trump teams pushing for Gaza ceasefire before January 20
+
+date: 2025-01-10, from: VOA News USA
+
+With less than two weeks before U.S. President Joe Biden leaves office, his aides are working with President-elect Donald Trump’s team in a last-ditch push for a ceasefire in Gaza. White House Bureau Chief Patsy Widakuswara reports. Anita Powell contributed. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-trump-teams-pushing-for-gaza-ceasefire-before-january-20/7932846.html>
+
+---
+
+## 5.5 million people in the U.S. are labeled “not in labor force, want job”
+
+date: 2025-01-10, from: Market Place
+
+That’s 3% fewer than a year ago. If it keeps dropping, it could be a sign the labor market is getting warmer. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/10/5-5-million-not-in-labor-force-want-job-hiring-market-employment/>
+
+---
+
+## Airlines are optimistic as business travel recovers slowly and steadily
+
+date: 2025-01-10, from: Market Place
+
+Return-to-office mandates and fewer Zoom meetings may be part of the reason why business travel is picking up. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/10/airlines-optimistic-business-travel-pandemic-volume-spending-flights-air-travel/>
+
+---
+
+## VOA Persian: Political prisoners say executions are no cure for leader's 'crumbling rule'
+
+date: 2025-01-10, from: VOA News USA
+
+Five political prisoners held in Ghezel Hesar Prison in Karaj have issued a condemnation of the Supreme Court's decision to uphold the death sentences of three political prisoners: Pakhshan Azizi, Behrouz Ehsani and Mehdi Hassani. In their statement, the five said: "The weapon of execution can no longer heal the wounds of the frail and crumbling rule of the Supreme Leader."
+
+
+Click here to read the full story in Persian. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-persian-political-prisoners-say-executions-are-no-cure-for-leader-s-crumbling-rule-/7932805.html>
+
+---
+
+## One Reason Trump Wants Greenland: Critical Minerals
+
+date: 2025-01-10, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTQ5Mjg0Mi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2MjE0NjIyOH0.QDtqbSzd545stKwv-1Ptn_17WXjQqfsOOI040idjzDU/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>A top aide to incoming President Donald Trump is claiming the president-elect wants the U.S. to acquire Greenland to acquire more rare minerals. </p><p>“This is about critical minerals. This is about natural resources,” Trump’s soon-to-be national security advisor Michael Waltz told Fox News host Jesse Watters <a href="https://www.foxnews.com/video/6366840073112" rel="noopener noreferrer" target="_blank"><u>Thursday night</u></a>, adding: “You can call it Monroe Doctrine 2.0, but it’s all part of the America First agenda.” </p><p>Greenland is rich in “rare earths,” a class of unique and uncommon hardrock resources used for advanced weaponry, electronics, energy and transportation technologies, including electric vehicles. It is home to the Kvanefjeld deposit, believed to be one of the <a href="https://www.innovationnewsnetwork.com/the-kvanefjeld-project-potential-world-class-supplier-rare-earths/39520/" rel="noopener noreferrer" target="_blank"><u>richest rare earth deposits in the world</u></a>. Kvanefjeld is also stuffed with uranium, crucial for anything and everything nuclear.</p><p>Experts in security policy have <a href="https://www.reuters.com/article/business/five-eyes-alliance-urged-to-forge-ties-with-greenland-to-secure-minerals-idUSKCN2AW0G4/" rel="noopener noreferrer" target="_blank"><u>advocated for years</u></a> for Western nations to band together to ensure that China, which controls the vast majority of the world’s rare earth minerals, does not obtain a foothold in Greenland. U.S. and Danish officials have<a href="https://www.reuters.com/markets/commodities/us-lobbied-greenland-rare-earths-developer-tanbreez-not-sell-china-2025-01-09/" rel="noopener noreferrer" target="_blank"><u> reportedly urged</u></a> the developer of the island’s Tanbreez deposit — rich in the rare earths-containing mineral eudialyte — not to sell its project to any company linked to China. Eudialyte also contains high amounts of neodymium, an exceedingly rare metal used in magnets coveted by the tech sector. </p><p>If the U.S. somehow took control of Greenland, it could possibly seize these resources from Denmark, a NATO ally, and the Greenlandic home-rule government. So too could it lead to Greenlanders losing control of their homeland. The country’s minerals have been a major source of domestic debate, as politicians critical of mining have won <a href="https://apnews.com/article/legislature-greenland-elections-europe-parliamentary-elections-d6a1dc76fd981b1aaa5abcf587eadfa2" rel="noopener noreferrer" target="_blank"><u>recent elections</u></a> and regulators have since <a href="https://www.reuters.com/world/americas/greenland-bans-uranium-mining-halting-rare-earths-project-2021-11-10/" rel="noopener noreferrer" target="_blank"><u>fought with</u></a> mining companies <a href="https://www.mining.com/web/greenland-rejects-energy-transitions-alternate-licence-proposal-in-draft-decision/" rel="noopener noreferrer" target="_blank"><u>over their plans</u></a>. </p><p>Waltz didn’t go into that much detail on Fox. But he made it clear how the incoming administration sees the situation around control of the island.</p><p>“Denmark can be a great ally, but you can’t treat Greenland, which they have operational control over, as some kind of backwater,” Waltz told Waters. “The people of Greenland, all 56,000 of them, are excited about the prospect of making the Western Hemisphere great again.”</p> 
+
+<br> 
+
+<https://heatmap.news/sparks/trump-greenland-minerals-rare-earth>
+
+---
+
+## US intelligence mostly rejects links between ‘Havana Syndrome,’ adversaries
+
+date: 2025-01-10, from: VOA News USA
+
+WASHINGTON — U.S. intelligence agencies charged with investigating the spate of brain injuries and other serious health ailments that have struck hundreds of officials remain unconvinced that the illnesses are tied to the work of a foreign adversary.
+
+
+An updated intelligence assessment of what the U.S. government calls anomalous health incidents, or AHIs, released Friday calls the possibility that the health symptoms were caused by a foreign actor or weapon “very unlikely.”
+
+
+The conclusion, endorsed by five of the seven U.S. intelligence agencies tasked with investigating the ailments, commonly known as Havana Syndrome, match the results of a 2023 assessment that found symptoms “were probably the result of factors that did not involve a foreign adversary, such as preexisting conditions, conventional illnesses and environmental factors."
+
+
+
+
+New information, described by officials as being “sensitive” in nature, only served to further support the 2023 findings, they said.
+
+
+"The intelligence does not link a foreign actor to these events. Indeed, it points away from their involvement," according to a U.S. intelligence official who briefed reporters on the condition of anonymity to discuss the latest findings.
+
+
+“All IC [intelligence community] components agree that years of history collection, targeting and analytic efforts have not surfaced compelling intelligence reporting that ties a foreign actor to any specific event reported as a possible AHI,” the official said.
+
+
+The new assessment contrasts, however, with a December House Intelligence subcommittee report, which accused U.S. intelligence agencies of sloppy work and attempting to "create a politically palatable conclusion."
+
+
+There is reliable evidence to suggest that some anomalous health incidents are the work of foreign adversaries," CIA Subcommittee Chairman Rick Crawford, a Republican, said at the time.
+
+
+
+
+On Friday, the House Intelligence Committee chairman, Republican Mike Turner, accused the new U.S. intelligence report of again falling short.
+
+
+“This new intelligence, I believe, should completely change the assessment of our adversaries’ capabilities and the risks to our personnel,” he said.
+
+
+Despite the disagreement, some of the evidence pointing to foreign involvement in Havana Syndrome injuries appears to be finding more credibility with some elements of U.S. intelligence.
+
+
+Two of the seven agencies contributing to the latest assessment, which looked at intelligence gathered as recently as last month, now assess with “low confidence” that a foreign hand could be involved in a limited number of cases.
+
+
+One of the agencies now judges “there is ‘roughly even chance’ a foreign actor has used a novel weapon or prototype device to harm a small, undetermined subset of the USG [U.S. government] personnel or dependents,” according to the declassified assessment.
+
+
+The other agency concluded there is a “roughly even chance” that a U.S. adversary has developed such a weapon, although the report states even if that is the case, “it is unlikely a foreign actor has deployed such a weapon in any events reported as possible AHIs.”
+
+
+The U.S. intelligence official who spoke with reporters described the change as “subtle,” arguing, “they shift from unlikely with low confidence to roughly even chance with low confidence.”
+
+
+But White House officials Friday seemed to see the change as something more significant.
+
+
+“Today’s updated Intelligence Community Assessment, which is the product of ongoing analytic efforts and includes a shift in key judgments by some intelligence components,” said National Security Council spokesperson Sean Savett.
+
+
+“[It] only reinforces why it is vital that the U.S. government continue critical research, investigate credible incidents and strengthen efforts to provide timely care and long-term clinical follow-up,” he said.
+
+
+That includes ongoing research into the potential to weaponize pulsed electromatic energy.
+
+
+A February 2022 report by a panel of experts warned that the core symptoms in a small number of Havana Syndrome cases were "distinctly unusual" and suggested some sort of device must be responsible.
+
+
+"Pulsed electromagnetic energy, particularly in the radiofrequency range, plausibly explains the core characteristics," the 2022 report said.
+
+
+
+
+U.S. officials have, until now, mostly dismissed such claims, arguing that nothing in the available intelligence agencies or in medical studies supports that radiofrequency waves could be weaponized.
+
+
+Medical research has “historically shown no harmful bioeffects,” according to the latest U.S. assessment.
+
+
+But the new assessment noted, “more recent, limited studies have produced mixed preliminary results.”
+
+
+“We have made it a priority to continue research in this area, to understand the effects of directed energy, which is an area that requires much more ongoing work,” a senior administration official told reporters, briefing on the condition of anonymity to discuss the U.S. response.
+
+
+“There's a lot that we do not understand,” the official said. "We are gaining greater insight over time.”
+
+
+The admission is not enough for some suffering from Havana Syndrome.
+
+
+The new assessment “disgracefully continues to hide the truth behind a cloak of secrecy,” said Mark Zaid, a national security lawyer who represents dozens of victims.
+
+
+Zaid said he has filed a request to declassify the full report and called on President-elect Donald Trump to “require full disclosure of what the government knows.”
+
+
+“Evidence of the use of directed energy, particularly by Russia, of some form spans decades,” Zaid said in a statement shared with VOA. “The CIA has sought to cover up its knowledge through both Democrat and Republican administrations, and classified information exists that we have knowledge of that fundamentally contradicts today’s report.”
+
+
+Others have challenged the U.S. intelligence findings on Havana Syndrome.
+
+
+An investigation in April by CBS's “60 Minutes” show, Germany's Der Spiegel and The Insider said a review of travel documents and mobile phone records, along with eyewitness testimony and interviews with multiple U.S. officials and victims, shows that Russia is likely to blame.
+
+
+Specifically, the investigation tied numerous reports of Havana Syndrome with the presence of members of Unit 29155 of Russia's military intelligence service, known for its role in sabotage and assassinations. It found that members of GRU Unit 29155 had received awards and promotions for their work on sound or radio frequency-based directed energy weapons.
+
+
+
+
+The U.S. intelligence official Friday, however, pushed back against the findings.
+
+
+“The claims do not hold up to scrutiny,” the official said.
+
+
+Cases of Havana Syndrome were first publicly reported among diplomats and other employees at the U.S. Embassy in Havana, Cuba, in 2016. Symptoms range from nausea and dizziness to debilitating headaches and memory problems, with cases having been reported in Russia, China, Poland, Austria and the United States.
+
+
+“These are our colleagues and friends,” said the U.S. intelligence official, stressing that the assessment’s failure to link to a foreign adversary is not meant to question the suffering of those afflicted.
+
+
+“These personnel and their dependents experienced genuine, sometimes painful and traumatic, physical symptoms and sensory phenomena, and they honestly and sincerely reported those events as possible,” the official said. 
+
+<br> 
+
+<https://www.voanews.com/a/us-intelligence-mostly-rejects-links-between-havana-syndrome-adversaries/7932763.html>
+
+---
+
+## What do the LA fires mean for the county housing shortage?
+
+date: 2025-01-10, from: Market Place
+
+Los Angeles has one of the lowest multifamily vacancy rates in the country. The fires will push rents even higher.
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/10/la-housing-shortage-wildfires-damage-fire-homes-property/>
+
+---
+
+## As Fires Continue to Burn Around Los Angeles, Here Are Some Recovery Tips and Resources
+
+date: 2025-01-10, updated: 2025-01-10, from: RAND blog
+
+As Los Angeles battles ongoing wildfires, tens of thousands face displacement. Recovery begins now, but long-term healing will take years, requiring community support and resources for rebuilding and emotional care. Here are some key steps and resources to help. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2025/01/as-fires-continue-to-burn-around-los-angeles-here-are.html>
+
+---
+
+## Why you can’t find eggs at your grocery store anymore
+
+date: 2025-01-10, from: Market Place
+
+The avian flu keeps coming back, leading to millions of lost hens. 
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/10/why-you-cant-find-eggs-at-your-grocery-store-anymore/>
+
+---
+
+## The Wind Forecast Brings New Worries in L.A.
+
+date: 2025-01-10, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTU1MDk2OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3ODU3OTg2OX0.4f_RwPqyi5glvbmob7OyhqHDR2ywwb2dEELL1ewnOPs/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">On Friday, Angelenos awoke to their first good news in three days: that the battle against the city’s unprecedented fires had finally turned in firefighters’ favor. Though the two biggest blazes — the Palisades and the Eaton — were still only single-digit contained, at 8% and 3%, respectively, it was the first sign of progress since the fires ignited and roared out of control on Tuesday.</p><p>The days ahead, though, won’t be easy. Though <a href="https://heatmap.news/guides/santa-ana-winds-climate-change" target="_self"><u>the Santa Ana winds</u></a> dipped enough on Thursday and Friday for firefighters to <a href="https://heatmap.news/climate/los-angeles-fires-water" target="_self"><u>establish a foothold</u></a>, two upcoming wind events have forecasters and emergency management officials worried. The first will be shorter-lived, beginning on Saturday afternoon and continuing through Sunday, but “it does look significant enough where we might need additional red flag warnings,” Ryan Kittel, an L.A.-based meteorologist with the National Oceanic and Atmospheric Administration, told me. NOAA is anticipating gusts of between 35 and 50 miles per hour during that event, and at those speeds, aerial firefighting support will likely be grounded again.</p><p>A second wind event will follow that one, which is tracking to hit Monday night into Tuesday. “We’re still figuring out the exact details as far as the strength, but we’re very confident that it won’t be nearly as strong as the winds we saw on Tuesday this week,” Kittel said. “But it could be number two in the ranks of wind events that we’ve had over the last seven days.”</p><p>The associated concerns are twofold. The first is that the return of strong wind gusts will fan the blazes that firefighters are only now getting a handle on, potentially pushing the fires into new areas. But there’s another concern, too: that <em><em>new</em></em> fires will start.</p><p>“What we’re trying to communicate is that the environment is favorable for a fire to get really big, really fast, if one starts. We just don’t know <em><em>if</em></em> or <em><em>where</em></em>,” Kittel said.</p><p>Though the L.A. fires flared up as big as they have because of the Santa Anas, the wind’s cessation creates new risks. The Santa Anas “blow the fires towards the ocean,” Dan Reese, a veteran firefighter and the founder and president of the International Wildfire Consulting Group, told me. But when the Santa Anas subside and L.A.’s normal west-to-east winds return, they’ll push the fires <em><em>back</em></em> in the other direction and potentially into neighborhoods that haven’t burned yet.</p><p>“Right now, [firefighters’] challenge is what we call closing the back door, making sure that what was once the <em><em>heel</em></em> of the fire, or the back side of the fire, does not get up and all of a sudden become a running head the other direction,” Reese explained.</p><p>The weather is one problem, and it’s a big one. But there are other challenges, too. Firefighters are only human, and many are completely exhausted after working double shifts and <a href="https://heatmap.news/climate/los-angeles-fires-water" target="_self"><u>doing the grueling work</u></a> of defending people and structures for days on end. </p><p>There are also logistics-related challenges. Aerial firefighting is <a href="https://www.wsj.com/science/environment/wildfire-season-aerial-firefighters-plane-accidents-582c11df" rel="noopener noreferrer" target="_blank"><u>exceedingly complex and dangerous</u></a>, and pilots are only allowed to fly a certain number of hours, which varies depending on whether operations are conducted during the day or at night. “Rotating those crews and keeping those crew hours balanced becomes critical, especially when you’ve got ongoing, continuous fires,” Reese pointed out.</p><p>There’s one more bit of bad news. Putting out the fires is only the first challenge. A second will come close on its heels: the mop-up.</p><p>“Maybe the fire went through a community but the houses were left standing,” Reese said. “Now all those structures and properties are at the mercy of mudslides and rain, because all of the holding capacity keeping the soil in place has now been burned off.” Soil can even become hydrophobic after exposure to intense heat, repelling water instead of absorbing it, making runoff even more severe.</p><p>But there is no rain in the forecast, and the fight against the L.A. County fires — while it’s taken a turn for the better — is far from over. Firefighters “have to deal with the disaster they’ve got right now,” Reese said. “And then they’ll deal with the secondary disasters when those occur.”</p> 
+
+<br> 
+
+<https://heatmap.news/climate/los-angeles-fires-wind-forecast>
+
+---
+
+##  The L.A. Fires And The Uninsurable Earth (Part 1) 
+
+date: 2025-01-10, from: The Lever News
+
+ The urban inferno is a warning about America’s future — if we do not combat the climate crisis and adapt to its threats.  
+
+<br> 
+
+<https://www.levernews.com/the-l-a-fires-and-the-uninsurable-earth-part-1/>
 
 ---
 
@@ -14,11 +272,23 @@ updated: 2025-01-10 13:01:40
 date: 2025-01-10, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUyNjc1Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3MDkxNzcwNn0.Zmh96slgFOOGBg7mujEkKWH8NaHV0XepZCDtdQJ-pM8/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Once the fires stop burning in Los Angeles and the city picks itself up from the rubble, the chorus of voices asking how such a disaster could have been prevented will rise. In California, the answer to that desperate query is so often “better forestry management practices,” and in particular “more controlled burns.” But that’s not always the full story, and in the case of the historically destructive L.A. fires, many experts doubt that prescribed burns and better vegetation management would have mattered much at all. </p><p>Controlled burns are intentionally set and supervised by land managers to clear out excess fuels such as shrubs, trees, and logs to reduce wildfire risk. Many habitats also require fire to thrive, and so ensuring they burn in a controlled manner is a win-win for natural ecosystems and the man-made environment. But controlled burns also pose a series of challenges. For one, complex permitting processes and restrictions around when and where burns are allowed can deter agencies from attempting them. Community backlash is also an issue, as residents are often concerned about air quality as well as the possibility of the prescribed fires spiraling out of control. Land management agencies also worry about the liability risks of a controlled burn getting out of hand.</p><p>Many of the state’s largest and most destructive fires — including the Camp Fire in 2018, lightning complex fires in 2020, and Dixie Fire in 2021 — started in forests, and would therefore have likely been severely curtailed had the state done more controlled burns. <a href="https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen" rel="noopener noreferrer" target="_blank"><u>According to ProPublica</u></a>, anywhere between 4.4 million and 11.8 million acres used to burn annually in prehistoric California. By 2017, overzealous fire suppression efforts driven by regulatory barriers and short-term risk aversion had caused that number to drop to 13,000 acres. While the state has increased the amount of prescribed fire in recent years, the backlog of fuel is enormous. </p><p>But the L.A. fires didn’t start or spread in a forest. The largest blaze, in the Pacific Palisades neighborhood, ignited in a chaparral environment full of shrubs that have been growing for about 50 years. Jon Keeley, a research scientist with the U.S. Geological Survey and an adjunct professor at the University of California, said that’s not enough time for this particular environment to build up an “unnatural accumulation of fuels.” </p><p>“That's well within the historical fire frequency for that landscape,” Keeley told my colleague, Emily Pontecorvo, for her reporting on <a href="https://heatmap.news/climate/what-started-los-angeles-fires" target="_self"><u>what started the fires</u></a>. Generally, he said, these chaparral environments <em><em>should</em></em> burn every 30 to 130 years, with coastal areas like Pacific Palisades falling on the longer end of that spectrum. “Fuels are not really the issue in these big fires — it's the extreme winds. You can do prescription burning in chaparral and have essentially no impact on Santa Ana wind-driven fires.” </p><p>We still don’t know what ignited the L.A. fires, and thus whether a human, utility, or other mysterious source is to blame. But the combination of factors that led to the blazes — wet periods that allowed for abundant vegetation growth followed by drought and intensely powerful winds — are simply a perilously bad combination. Firebreaks, strips of land where vegetation is reduced or removed, can often prove helpful, and they do exist in the L.A. hillsides. But as Matthew Hurteau, a professor at the University of New Mexico and director of the Center for Fire Resilient Ecosystems and Society, told me bluntly, “When you have 100-mile-an-hour winds pushing fire, there's not a hell of a lot that's going to stop it.” </p><p>Hurteau told me that he thinks of the primary drivers of destructive fires as a triangle, with fuels, climate, and the built environment representing the three points. “We're definitely on the built environment, climate side of that triangle for these particular fires around Los Angeles,” Hurteau explained, meaning that the wildland-urban interface combined with drought and winds are the primary culprits. But in more heavily forested, mountainous areas of Northern California, “you get the climate and fuels side of the triangle,” Hurteau said. </p><p>Embers can travel impressive distances in the wind, as <a href="https://www.youtube.com/watch?v=H4AU_U9YwlM" rel="noopener noreferrer" target="_blank"><u>evidenced</u></a> by <a href="https://abcnews.go.com/WNT/video/wildfire-jumps-highway-california-vehicles-catch-fire-32530675" rel="noopener noreferrer" target="_blank"><u>footage</u></a> of past fires jumping expansive freeways in Southern California. So, as Hurteau put it, “short of mowing whole hillsides down to nothing and keeping them that way,” there’s little vegetation management work to be done at the wildland-urban interface, where houses bump up against undeveloped lands. </p><p>Not everyone agrees, though. When I spoke to Susan Prichard, a fire ecologist and research scientist at the University of Washington School of Environmental and Forest Sciences, she told me that while prescribed burns close to suburban areas can be contentious and challenging, citizens can do a lot on their own to manage fuel risk. “Neighborhoods can come together and do the appropriate fuel reduction in and around their homes, and that makes a huge difference in wildfires,” she told me. “Landscaping in and around homes matters, even if you have 100-mile-an-hour winds with a lot of embers.”</p><p>Prichard recommends residents work with their neighbors to remove burnable vegetation and organic waste, and to get rid of so-called “ember traps” such as double fencing that can route fires straight to homes. Prichard <a href="https://sbfiresafecouncil.org/wp-content/uploads/2020/05/Kolden_Hensen_Case-Study_Thomas-Fire.pdf" rel="noopener noreferrer" target="_blank"><u>pointed to research </u></a>by Crystal Kolden, a “pyrogeographer” and associate professor at the University of California Merced, whose work focuses on understanding wildfire intersections with the human environment. Kolden has argued that proper vegetation management could have greatly lessened the impact of the L.A. fires. As she recently <a href="https://bsky.app/profile/pyrogeog.bsky.social/post/3lfd7jfszcr2l" rel="noopener noreferrer" target="_blank"><u>wrote on Bluesky</u></a>, “These places will see fire again. I have no doubt. But I also know that you can rebuild and manage the land so that next time the houses won't burn down. I've seen it work.” </p><p>Keeley pointed to the 2017 Thomas Fire in Ventura and Santa Barbara Counties, however, as an example of the futility of firebreaks and prescribed burns in extreme situations. That fire also ignited outside of what’s normally considered fire season, in December. “There were thousands of acres that had been prescribed burned near the eastern edge of that fire perimeter in the decade prior to ignition,” Keeley explained to Emily. “Once that fire was ignited, the winds were so powerful it just blew the embers right across the prescribed burn area and resulted in one of the largest wildfires that we've had in Southern California.” </p><p>Kolden, however, reads the Thomas Fire as a more optimistic story. As she wrote in a <a href="https://sbfiresafecouncil.org/wp-content/uploads/2020/05/Kolden_Hensen_Case-Study_Thomas-Fire.pdf" rel="noopener noreferrer" target="_blank"><u>case report on the fire</u></a> published in 2019, “Despite the extreme wind conditions and interviewee estimates of potentially hundreds of homes being consumed, only seven primary residences were destroyed by the Thomas Fire, and firefighters indicated that pre-fire mitigation activities played a clear, central role in the outcomes observed.” While the paper didn’t focus on controlled burns, mitigation activities discussed include reducing vegetation around homes and roads, as well as common-sense actions such as increasing community planning and preparedness, public education around fire safety, and arguably most importantly, adopting and enforcing fire-resistant building codes. </p><p>So while blaming decades of forestry mismanagement for major fires is frequently accurate, in Southern California the villains in this narrative can be trickier to pin down. Is it the fault of the winds? The droughts? The humans who want to live in beautiful but acutely fire-prone areas? The planning agencies that allow people to fulfill those risky dreams? </p><p>Prichard still maintains that counties and the state government can be doing a whole lot more to encourage fuel reduction. “That might not be prescribed burning, that might actually be ongoing mastication of some of the really big chaparral, so that It's not possible for really tall, developed, even senescent vegetation — meaning having a lot of dead material in it — to burn that big right next to homes.”</p><p>From Hurteau’s perspective though, far and away the most effective solution would be simply building structures to be much more fire-resilient than they are today. “Society has chosen to build into a very flammable environment,” Hurteau put it. California’s population has increased over 160% since the 1950’s, far outpacing the country overall and pushing development further and further out into areas that border forests, chaparral, and grasslands. “As people rebuild after what's going to be great tragedy, how do you reenvision the built environment so that this becomes less likely to occur in the future?”</p> 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUyNjc1Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3MDkxNzcwNn0.Zmh96slgFOOGBg7mujEkKWH8NaHV0XepZCDtdQJ-pM8/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Once the fires stop burning in Los Angeles and the city picks itself up from the rubble, the chorus of voices asking how such a disaster could have been prevented will rise. In California, the answer to that desperate query is so often “better forestry management practices,” and in particular “more controlled burns.” But that’s not always the full story, and in the case of the historically destructive L.A. fires, many experts doubt that prescribed burns and better vegetation management would have mattered much at all. </p><p>Controlled burns are intentionally set and supervised by land managers to clear out excess fuels such as shrubs, trees, and logs to reduce wildfire risk. Many habitats also require fire to thrive, and so ensuring they burn in a controlled manner is a win-win for natural ecosystems and the man-made environment. But controlled burns also pose a series of challenges. For one, complex permitting processes and restrictions around when and where burns are allowed can deter agencies from attempting them. Community backlash is also an issue, as residents are often concerned about air quality as well as the possibility of the prescribed fires spiraling out of control. Land management agencies also worry about the liability risks of a controlled burn getting out of hand.</p><p>Many of the state’s largest and most destructive fires — including the Camp Fire in 2018, lightning complex fires in 2020, and Dixie Fire in 2021 — started in forests, and would therefore have likely been severely curtailed had the state done more controlled burns. <a href="https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen" rel="noopener noreferrer" target="_blank"><u>According to ProPublica</u></a>, anywhere between 4.4 million and 11.8 million acres used to burn annually in prehistoric California. By 2017, overzealous fire suppression efforts driven by regulatory barriers and short-term risk aversion had caused that number to drop to 13,000 acres. While the state has increased the amount of prescribed fire in recent years, the backlog of fuel is enormous. </p><p>But the L.A. fires didn’t start or spread in a forest. The largest blaze, in the Pacific Palisades neighborhood, ignited in a chaparral environment full of shrubs that have been growing for about 50 years. Jon Keeley, a research scientist with the U.S. Geological Survey and an adjunct professor at the University of California, said that’s not enough time for this particular environment to build up an “unnatural accumulation of fuels.” </p><p>“That’s well within the historical fire frequency for that landscape,” Keeley told my colleague, Emily Pontecorvo, for her reporting on <a href="https://heatmap.news/climate/what-started-los-angeles-fires" target="_self"><u>what started the fires</u></a>. Generally, he said, these chaparral environments <em><em>should</em></em> burn every 30 to 130 years, with coastal areas like Pacific Palisades falling on the longer end of that spectrum. “Fuels are not really the issue in these big fires — it’s the extreme winds. You can do prescription burning in chaparral and have essentially no impact on Santa Ana wind-driven fires.” </p><p>We still don’t know what ignited the L.A. fires, and thus whether a human, utility, or other mysterious source is to blame. But the combination of factors that led to the blazes — wet periods that allowed for abundant vegetation growth followed by drought and intensely powerful winds — are simply a perilously bad combination. Firebreaks, strips of land where vegetation is reduced or removed, can often prove helpful, and they do exist in the L.A. hillsides. But as Matthew Hurteau, a professor at the University of New Mexico and director of the Center for Fire Resilient Ecosystems and Society, told me bluntly, “When you have 100-mile-an-hour winds pushing fire, there’s not a hell of a lot that’s going to stop it.” </p><p>Hurteau told me that he thinks of the primary drivers of destructive fires as a triangle, with fuels, climate, and the built environment representing the three points. “We’re definitely on the built environment, climate side of that triangle for these particular fires around Los Angeles,” Hurteau explained, meaning that the wildland-urban interface combined with drought and winds are the primary culprits. But in more heavily forested, mountainous areas of Northern California, “you get the climate and fuels side of the triangle,” Hurteau said. </p><p>Embers can travel impressive distances in the wind, as <a href="https://www.youtube.com/watch?v=H4AU_U9YwlM" rel="noopener noreferrer" target="_blank"><u>evidenced</u></a> by <a href="https://abcnews.go.com/WNT/video/wildfire-jumps-highway-california-vehicles-catch-fire-32530675" rel="noopener noreferrer" target="_blank"><u>footage</u></a> of past fires jumping expansive freeways in Southern California. So, as Hurteau put it, “short of mowing whole hillsides down to nothing and keeping them that way,” there’s little vegetation management work to be done at the wildland-urban interface, where houses bump up against undeveloped lands. </p><p>Not everyone agrees, though. When I spoke to Susan Prichard, a fire ecologist and research scientist at the University of Washington School of Environmental and Forest Sciences, she told me that while prescribed burns close to suburban areas can be contentious and challenging, citizens can do a lot on their own to manage fuel risk. “Neighborhoods can come together and do the appropriate fuel reduction in and around their homes, and that makes a huge difference in wildfires,” she told me. “Landscaping in and around homes matters, even if you have 100-mile-an-hour winds with a lot of embers.”</p><p>Prichard recommends residents work with their neighbors to remove burnable vegetation and organic waste, and to get rid of so-called “ember traps” such as double fencing that can route fires straight to homes. Prichard <a href="https://sbfiresafecouncil.org/wp-content/uploads/2020/05/Kolden_Hensen_Case-Study_Thomas-Fire.pdf" rel="noopener noreferrer" target="_blank"><u>pointed to research </u></a>by Crystal Kolden, a “pyrogeographer” and associate professor at the University of California Merced, whose work focuses on understanding wildfire intersections with the human environment. Kolden has argued that proper vegetation management could have greatly lessened the impact of the L.A. fires. As she recently <a href="https://bsky.app/profile/pyrogeog.bsky.social/post/3lfd7jfszcr2l" rel="noopener noreferrer" target="_blank"><u>wrote on Bluesky</u></a>, “These places will see fire again. I have no doubt. But I also know that you can rebuild and manage the land so that next time the houses won’t burn down. I’ve seen it work.” </p><p>Keeley pointed to the 2017 Thomas Fire in Ventura and Santa Barbara Counties, however, as an example of the futility of firebreaks and prescribed burns in extreme situations. That fire also ignited outside of what’s normally considered fire season, in December. “There were thousands of acres that had been prescribed burned near the eastern edge of that fire perimeter in the decade prior to ignition,” Keeley explained to Emily. “Once that fire was ignited, the winds were so powerful it just blew the embers right across the prescribed burn area and resulted in one of the largest wildfires that we’ve had in Southern California.” </p><p>Kolden, however, reads the Thomas Fire as a more optimistic story. As she wrote in a <a href="https://sbfiresafecouncil.org/wp-content/uploads/2020/05/Kolden_Hensen_Case-Study_Thomas-Fire.pdf" rel="noopener noreferrer" target="_blank"><u>case report on the fire</u></a> published in 2019, “Despite the extreme wind conditions and interviewee estimates of potentially hundreds of homes being consumed, only seven primary residences were destroyed by the Thomas Fire, and firefighters indicated that pre-fire mitigation activities played a clear, central role in the outcomes observed.” While the paper didn’t focus on controlled burns, mitigation activities discussed include reducing vegetation around homes and roads, as well as common-sense actions such as increasing community planning and preparedness, public education around fire safety, and arguably most importantly, adopting and enforcing fire-resistant building codes. </p><p>So while blaming decades of forestry mismanagement for major fires is frequently accurate, in Southern California the villains in this narrative can be trickier to pin down. Is it the fault of the winds? The droughts? The humans who want to live in beautiful but acutely fire-prone areas? The planning agencies that allow people to fulfill those risky dreams? </p><p>Prichard still maintains that counties and the state government can be doing a whole lot more to encourage fuel reduction. “That might not be prescribed burning, that might actually be ongoing mastication of some of the really big chaparral, so that it’s not possible for really tall, developed, even senescent vegetation — meaning having a lot of dead material in it — to burn that big right next to homes.”</p><p>From Hurteau’s perspective though, far and away the most effective solution would be simply building structures to be much more fire-resilient than they are today. “Society has chosen to build into a very flammable environment,” Hurteau put it. California’s population has increased over 160% since the 1950’s, far outpacing the country overall and pushing development further and further out into areas that border forests, chaparral, and grasslands. “As people rebuild after what’s going to be great tragedy, how do you re-envision the built environment so that this becomes less likely to occur in the future?”</p> 
 
 <br> 
 
 <https://heatmap.news/climate/los-angeles-controlled-burns>
+
+---
+
+## Syrian Rebels' Remarkable Call for International Help on Chemical Weapons
+
+date: 2025-01-10, updated: 2025-01-10, from: RAND blog
+
+Hayat Tahrir al-Sham (HTS), the rebel group now in charge in Syria, has sought international help to dismantle Bashar al-Assad's chemical weapons program. Remarkably, it is HTS—a nonstate actor with a history of violence—that is highlighting the importance of global norms against such weapons. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2025/01/syrian-rebels-remarkable-call-for-international-help.html>
 
 ---
 
@@ -576,34 +846,62 @@ Meanwhile, the other criminal cases that once loomed over Trump have ended or st
 
 ---
 
-## Wildfires continue burning in Los Angeles as death toll rises to 10
+## Wildfires still burning in Los Angeles; death toll rises to 11
 
 date: 2025-01-10, from: VOA News USA
 
-Firefighters in Los Angeles battled flames for a fourth straight day Friday, trying to get the upper hand on wildfires that have destroyed thousands of homes and killed at least 10 people.
+Firefighters in Los Angeles battled flames for a fourth straight day on Friday, trying to get the upper hand on wildfires that have destroyed thousands of homes and killed at least 11 people.
 
 
-Officials have warned the death toll, updated late Thursday, could increase once the multiple fires have been brought under control and workers can comb through the ruins.
+Officials have warned that the death toll, updated late Thursday, could increase once the multiple fires have been brought under control and workers can comb through the ruins.
 
 
-Firefighting operations continued overnight into Friday morning, with water-dropping helicopters taking advantage of a temporary lull in winds.
+Firefighting operations continued overnight into Friday morning, with water-dropping helicopters taking advantage of a temporary lull in the winds.
 
 
-The White House says President Joe Biden was to convene key officials Friday to discuss the federal government’s response to the wildfires.
+President Joe Biden convened key officials Friday to discuss the federal government's response to the wildfires.
+
+
+"We have an awful lot of experience with this stuff, unfortunately," Biden later told reporters Friday. "Climate change has been real. It's been real for the last four years of our administration. We've seen devastating impacts."
+
+
 
 
 As of Friday morning, the largest blaze, the Palisades fire, was only 8% contained, according to the California Department of Forestry and Fire Protection. It has burned through more than 8,000 hectares of land.
 
 
+The second-largest blaze, the Eaton fire, was 3% contained, according to the department. That one has burned through nearly 6,000 hectares of land.
 
 
-Meanwhile, the second-largest blaze, the Eaton fire, was 3% contained, according to the California Department of Forestry and Fire Protection. That one has burned through 5,000 hectares of land.
+The Palisades and Eaton fires already rank as the most destructive in Los Angeles history. Together, they have burned through about 85 square kilometers of land and destroyed or damaged about 10,000 structures.
 
 
-The Palisades and Eaton fires already rank as the most destructive in Los Angeles history. Together, they have burned through about 85 square kilometers of land, and destroyed or damaged about 10,000 structures.
+"It looks like an atomic bomb dropped in these areas," Los Angeles County Sheriff Robert Luna said at a Thursday news conference.
 
 
-"It looks like an atomic bomb dropped in these areas," Los Angeles County Sheriff Robert Luna said at a press conference late on Thursday.
+
+
+Deanne Criswell, FEMA administrator, told reporters at the White House via video call from California that winds were forecast to pick up again after a pause Friday.
+
+
+Biden told reporters Friday that his administration was coordinating with the incoming Trump administration.
+
+
+President-elect Donald Trump has faulted Biden and California Governor Gavin Newsom for the crisis. "He is the blame for this," Trump wrote about Newsom on Truth Social.
+
+
+Trump claimed California's water policies are to blame for the fires, but the Los Angeles area is experiencing extremely dry conditions and fierce Santa Ana winds.
+
+
+Trump demanded that Newsom "open up the water main" in Northern California to send water south, but there is no such central water valve in the state. Local officials have said the overall water supply is not the problem; rather, it's that power was shut off to pumps around the fires.
+
+
+
+
+At a news briefing Friday afternoon, White House press secretary Karine Jean-Pierre rebuked criticism of the emergency response to the fires.
+
+
+"It is on all of us to show these people, to show folks in California some compassion, as they are reckoning with an unimaginable disaster," she said.
 
 
 
@@ -611,24 +909,16 @@ The Palisades and Eaton fires already rank as the most destructive in Los Angele
 Biden told a White House briefing Thursday afternoon that federal resources and additional funding have been made available to California to fight the wildfires that he described as the "worst fires to ever hit Los Angeles."
 
 
-The money will be used, the president said, to cover all of the costs for 180 days for temporary shelters, the removal of hazardous materials, first responder salaries and measures to protect life.
+The money will be used, the president said, to cover all the costs for 180 days for temporary shelters, the removal of hazardous materials, first responder salaries, and measures to protect life.
 
 
-“I told the governor, local officials, spare no expense to do what they need to do and contain these fires,” Biden said Thursday.
+"I told the governor, local officials, spare no expense to do what they need to do and contain these fires," Biden said Thursday.
 
 
+Vice President Kamala Harris, a former U.S. senator for California, spoke at the briefing, describing the situation in California as "apocalyptic" and "something that is going to have an impact for months and years to come."
 
 
-Vice President Kamala Harris, a former U.S. senator for California, also spoke at the briefing.
-
-
-Harris described the situation in California as "apocalyptic" and "something that is going to have an impact for months and years to come."
-
-
-The vice president has a home in an evacuation zone, but it was not immediately clear whether her house sustained any damage.
-
-
-Authorities said the wildfires burning in and around the city of Los Angeles have prompted the evacuation of nearly 180,000 people, destroyed thousands of homes and burned tens of thousands of hectares of land.
+Authorities said the wildfires burning in and around Los Angeles prompted the evacuation of nearly 180,000 people, destroyed thousands of homes, and burned tens of thousands of hectares of land.
 
 
 "This is absolutely an unprecedented, historic firestorm," Los Angeles Mayor Karen Bass said.
@@ -637,50 +927,41 @@ Authorities said the wildfires burning in and around the city of Los Angeles hav
 Bass has faced criticism for being absent from Los Angeles when the Palisades fire erupted Tuesday. She was in Ghana attending the inauguration of President John Dramani Mahama as part of a U.S. presidential delegation.
 
 
-Bass returned the following day. On Thursday, she highlighted the “unprecedented” nature of the fires and defended her leadership.
+Bass returned the following day. On Thursday, she highlighted the "unprecedented" nature of the fires and defended her leadership.
 
 
-“My focus right now is on the lives and the homes,” Bass said.
+"My focus right now is on the lives and the homes," Bass said.
+
+
+At a news briefing Thursday, Los Angeles Fire Chief Kristin Crowley told reporters the fierce winds that had driven the fires calmed enough to allow firefighters to increase containment and air operations to resume.
+
+
+Cal Fire is fighting five active wildfires in the Los Angeles area: the Palisades, Eaton, Hurst, Lidia and Kenneth fires.
 
 
 
 
-At a news briefing Thursday, Los Angeles city and county officials provided an update on the fires and the efforts to bring them under control.
-
-
-Los Angeles Fire Chief Kristin Crowley told reporters the fierce winds that had driven the fires calmed enough to allow firefighters to increase containment and air operations to resume.
-
-
-The California Department of Forestry and Fire Protection is fighting five active wildfires in the Los Angeles area: the Palisades, Eaton, Hurst, Lidia and Kenneth fires, with the Palisades and Eaton fires being the largest.
-
-
-As of Friday morning, the Kenneth fire was 35% contained, according to the California Department of Forestry and Fire Protection.
-
-
-The Hurst fire was 37% contained, and the Lidia fire was 75% contained, according to the California Department of Forestry and Fire Protection.
+As of Friday morning, the Kenneth fire was 35% contained, the Hurst fire was 37% contained, and the Lidia fire was 75% contained, according to CAL FIRE.
 
 
 Los Angeles firefighters achieved 100% containment of the Sunset fire on Thursday. That fire triggered mandatory evacuation orders in Hollywood and the Hollywood Hills.
 
 
-Some people are apparently preying on the devastated neighborhoods, and at least 20 people have been arrested in recent days for looting.
+Troops from the California National Guard arrived Friday morning to secure the fire zone in Altadena from theft. At least 20 people have been arrested for looting in devasted neighborhoods.
 
 
-"I promise you, you will be held accountable," Los Angeles Supervisor Kathryn Barger said at a press conference Thursday.
+"I promise you, you will be held accountable," Los Angeles County Supervisor Kathryn Barger said at a news conference Thursday.
 
 
-"Shame on those who are preying on our residents during this time of crisis," Barger said, according to The Los Angeles Times.
+"Shame on those who are preying on our residents during this time of crisis," Barger said, according to The Los Angeles Times. 
 
 
 
 
-Meanwhile, California’s insurance commissioner has blocked insurance companies from canceling or not renewing the policies of customers in the areas of the Palisades and Eaton fires for a one-year period. Concerns have increased that this week’s fires could hasten the flow of insurers out of California.
+Ash and smoke from the fires have put at least 17 million people in the Los Angeles area under air quality advisories. The air quality index reached 173 in the area; good air quality is 50 or less on the index.
 
 
-Los Angeles County Sheriff Robert Luna said the Palisades, Eaton, Hurst and Lidia fires have prompted the evacuation of nearly 180,000 residents, and another 200,000 residents are under evacuation orders.
-
-
-Fire Chief Crowley called the Palisades fire alone "one of the most destructive natural disasters in the history of Los Angeles."
+Meanwhile, California's insurance commissioner blocked insurance companies from canceling or not renewing the policies of customers in the areas of the Palisades and Eaton fires for a one-year period. Concerns have increased that this week's fires could hasten the flow of insurers out of California.
 
 
 Fern Robinson and Chris Hannas contributed to this report. Some information for this report came from The Associated Press and Reuters. 
@@ -982,9 +1263,11 @@ Rita Magalde, owner of Sheer Ambrosia, just completed her first holiday season i
 date: 2025-01-09, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUyNDUyNy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NDk5NTI0Nn0.-7uY4x5Bt4v9vWufH835S6DGiuGOekqSkojjeH-56OQ/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Recovering from the Los Angeles wildfires will be expensive. <em><em>Really</em></em> expensive. Insurance analysts and banks have already produced a wide range of estimates of both what insurance companies will pay out and overall economic loss. AccuWeather<a href="https://www.accuweather.com/en/blogs-webinars/california-wildfires-52-57b-damage-estimate-accuweather-report/1731718" rel="noopener noreferrer" target="_blank"> <u>has put out an eye-catching preliminary figure of $52 billion to $57 billion</u></a> for economic losses, with the service’s chief meteorologist saying that the fires have the potential to “become the worst wildfire in modern California history based on the number of structures burned and economic loss.” On Thursday, J.P. Morgan doubled its previous estimate for insured losses <a href="https://www.reinsurancene.ws/la-wildfire-insured-losses-could-exceed-20bn-j-p-morgan/" rel="noopener noreferrer" target="_blank"><u>to $20 billion</u></a>, with an economic loss figure of $50 billion — about the gross domestic product of the country of Jordan.</p><p>The startlingly high loss figures from a fire that has only lasted a few days and is (relatively) limited in scope show just how distinctly devastating an urban fire can be. Enormous wildfires that<a href="https://earthobservatory.nasa.gov/images/151985/tracking-canadas-extreme-2023-fire-season" rel="noopener noreferrer" target="_blank"> <u>cover millions of acres</u></a> like the 2023 Canadian wildfires can spew ash and particulate matter all over the globe and burn for months, darkening skies and clogging airways in other countries. And smaller — and far deadlier fires — than those still do not produce the same financial roll.</p>
-<p>It’s in coastal Southern California where you find large population centers areas known by all to be at extreme risk of fire. And so a fire there can destroy a whole neighborhood in a few hours and put the state’s insurance system <a href="https://heatmap.news/climate/los-angeles-fire-insurance-fair" target="_self"><u>into jeopardy</u></a>.</p><p>One reason why the projected economic impacts of the fires are so high is that the structures that have burned and the land those structures sit on are very valuable. Pacific Palisades, Malibu, and Santa Monica contain some of the most sought-after real estate on planet earth, with typical home prices over $2 million. Pacific Palisades itself has median home values of around $3 million, according to JPMorgan Chase.</p><p>The AccuWeather estimates put the economic damage for the Los Angeles fires at several times previous large, urban fires — the Maui wildfire in 2023 was estimated to cause around $14 billion of economic loss, for example — while the figure would be about a third or a quarter of a large hurricane, which tend to strike areas with millions of people in them across several states.</p><p>“The fires have not been contained thus far and continue to spread, implying that estimates of potential economic and insured losses are likely to increase,” the JPMorgan analysts wrote Thursday.</p><p>That level of losses would make the fires costlier in economic terms than the 2018 Butte County Camp Fire, whose insured losses of $10 billion made it California’s costliest at the time. That fire was far larger than the Los Angeles fires, spreading over 150,000 acres compared to just over 17,000 acres for the Palisades Fire and over 10,000 acres for the Eaton Fire. It also led to more than 80 deaths in the town of Paradise.</p>
-<p>So far, around 2,000 homes have been destroyed,<a href="https://www.latimes.com/california/live/pacific-palisades-fire-updates-los-angeles" rel="noopener noreferrer" target="_blank"> <u>according to the </u><u><em><em>Los Angeles Times</em></em></u></a>,<a href="https://www.nist.gov/el/fire-research-division-73300/wildland-urban-interface-fire-73305/nist-investigation-california" rel="noopener noreferrer" target="_blank"> </a>a fraction of the <a href="https://www.nist.gov/el/fire-research-division-73300/wildland-urban-interface-fire-73305/nist-investigation-california" rel="noopener noreferrer" target="_blank"><u>more than 19,000 structures</u></a> affected by the Camp Fire. The difference in estimated losses comes from the fact that homes in Pacific Palisades weigh in at more than six times those in rural Butte, according to JPMorgan.</p><p>While insured losses get the lion’s share of attention when it comes to the cost impacts of a natural disaster, the potential damages go far beyond the balance sheet of insurers.</p><p>For one, it’s likely that many affected homeowners did not even carry insurance, either because their insurers failed to renew their existing policies or the homeowners simply chose to go without due to the high cost of what insurance they could find. “A larger than usual portion of the losses caused by the wildfires will be uninsured,” according to <a href="https://dbrs.morningstar.com/research/445636" rel="noopener noreferrer" target="_blank"><u>Morningstar DBRS</u></a>, which estimated total insured losses at more than $8 billion. Many homeowners carry insurance from California’s backup FAIR Plan, which may itself come under financial pressure, potentially leading to assessments from the state’s policyholders to bolster its ability to pay claims.</p><p>AccuWeather arrived at its economic impact figure by looking not just at losses from property damage but also wages that go unearned due to economic activity slowing down or halting in affected areas, infrastructure that needs to be repaired, supply chain issues, and transportation snarls. Even when homes and businesses aren’t destroyed, people may be unable to work due to evacuations; businesses may close due to the dispersal of their customers or inability of their suppliers to make deliveries. <a href="https://heatmap.news/sparks/los-angeles-wildfire-smoke-study" target="_self"><u>Smoke inhalation</u></a> can lead to short-, medium-, and long-term health impacts that take a dent out of overall economic activity.</p><p>The high level of insured losses, meanwhile, could mean that insurers’ will see less surplus and could have to pay more for reinsurance, Nancy Watkins, an actuary and wildfire expert at Milliman, told me in an email. This may mean that they would have to shed yet more policies “in order to avoid deterioration in their financial strength ratings,” just as California has been trying to lure insurers back with reforms to its dysfunctional insurance market.</p><p>The economic costs of the fire will likely be felt for years if not decades. While it would take an act of God far stronger than a fire to keep people from building homes on the slopes of the Santa Monica Mountains or off the Pacific Coast, the city that rebuilds may be smaller, more heavily fortified, and more expensive than the one that existed at the end of last year. And that’s just before the next big fire. </p> 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTUyNDUyNy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NDk5NTI0Nn0.-7uY4x5Bt4v9vWufH835S6DGiuGOekqSkojjeH-56OQ/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Recovering from the Los Angeles wildfires will be expensive. <em><em>Really</em></em> expensive. Insurance analysts and banks have already produced a wide range of estimates of both what insurance companies will pay out and overall economic loss. AccuWeather<a href="https://www.accuweather.com/en/blogs-webinars/california-wildfires-52-57b-damage-estimate-accuweather-report/1731718" rel="noopener noreferrer" target="_blank"> <u>has put out an eye-catching preliminary figure of $52 billion to $57 billion</u></a> for economic losses, with the service’s chief meteorologist saying that the fires have the potential to “become the worst wildfire in modern California history based on the number of structures burned and economic loss.” On Thursday, J.P. Morgan doubled its previous estimate for insured losses <a href="https://www.reinsurancene.ws/la-wildfire-insured-losses-could-exceed-20bn-j-p-morgan/" rel="noopener noreferrer" target="_blank"><u>to $20 billion</u></a>, with an economic loss figure of $50 billion — about the gross domestic product of the country of Jordan.</p><p>The startlingly high loss figures from a fire that has only lasted a few days and is (relatively) limited in scope show just how distinctly devastating an urban fire can be. Enormous wildfires that<a href="https://earthobservatory.nasa.gov/images/151985/tracking-canadas-extreme-2023-fire-season" rel="noopener noreferrer" target="_blank"> <u>cover millions of acres</u></a> like the 2023 Canadian wildfires can spew ash and particulate matter all over the globe and burn for months, darkening skies and clogging airways in other countries. And smaller — and far deadlier fires — than those still do not produce the same financial roll.</p><p>It’s in coastal Southern California where you find large population centers areas known by all to be at extreme risk of fire. And so a fire there can destroy a whole neighborhood in a few hours and put the state’s insurance system <a href="https://heatmap.news/climate/los-angeles-fire-insurance-fair" target="_self"><u>into jeopardy</u></a>.</p><p>One reason why the projected economic impacts of the fires are so high is that the structures that have burned and the land those structures sit on are very valuable. Pacific Palisades, Malibu, and Santa Monica contain some of the most sought-after real estate on planet earth, with typical home prices over $2 million. Pacific Palisades itself has median home values of around $3 million, according to JPMorgan Chase.</p><p>The AccuWeather estimates put the economic damage for the Los Angeles fires at several times previous large, urban fires — the Maui wildfire in 2023 was estimated to cause around $14 billion of economic loss, for example — while the figure would be about a third or a quarter of a large hurricane, which tend to strike areas with millions of people in them across several states.</p><p>“The fires have not been contained thus far and continue to spread, implying that estimates of potential economic and insured losses are likely to increase,” the JPMorgan analysts wrote Thursday.</p><div class="horizontal-rule"></div><p><em></em><em>Get the best of Heatmap in your inbox daily.</em></p><p><em></em><div id="mc_embed_signup"><form action="https://news.us13.list-manage.com/subscribe/post?u=eacecbac4b1d10158b5b6fbad&id=c5c20b220f&f_id=00a03fe3f0" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" target="_self"><div id="mc_embed_signup_scroll"><div class="indicates-required"><span class="asterisk">*</span> indicates required</div><div class="mc-field-group"><label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label><input class="required email" id="mce-EMAIL" name="EMAIL" placeholder="Your Email" required="" type="email" value=""/><span class="helper_text" id="mce-EMAIL-HELPERTEXT"></span><a class="policy__link" href="/privacy-statement">Our Privacy Policy & Terms Apply.</a></div>
+<li style="display:none!important;"><input checked="" id="mce-group[699211]-699211-0" name="group[699211][1]" type="checkbox" value="1"/></li>
+<input class="hidden hs-am" name="mcam" type="text" value="Yes"/>
+<input class="hidden hs-am" name="mcdaily" type="text" value="Yes"/>
+<div class="clear" id="mce-responses"><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div></div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div aria-hidden="true" style="position: absolute; left: -5000px;"><input name="b_eacecbac4b1d10158b5b6fbad_c5c20b220f" tabindex="-1" type="text" value=""/></div><div class="clear"><input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Sign Up"/></div></div></form></div></p><div class="horizontal-rule"></div><p>That level of losses would make the fires costlier in economic terms than the 2018 Butte County Camp Fire, whose insured losses of $10 billion made it California’s costliest at the time. That fire was far larger than the Los Angeles fires, spreading over 150,000 acres compared to just over 17,000 acres for the Palisades Fire and over 10,000 acres for the Eaton Fire. It also led to more than 80 deaths in the town of Paradise.</p><p>So far, around 2,000 homes have been destroyed,<a href="https://www.latimes.com/california/live/pacific-palisades-fire-updates-los-angeles" target="_blank"> <u>according to the </u><u><em><em>Los Angeles Times</em></em></u></a>,<a href="https://www.nist.gov/el/fire-research-division-73300/wildland-urban-interface-fire-73305/nist-investigation-california" rel="noopener noreferrer" target="_blank"> </a>a fraction of the <a href="https://www.nist.gov/el/fire-research-division-73300/wildland-urban-interface-fire-73305/nist-investigation-california" rel="noopener noreferrer" target="_blank"><u>more than 19,000 structures</u></a> affected by the Camp Fire. The difference in estimated losses comes from the fact that homes in Pacific Palisades weigh in at more than six times those in rural Butte, according to JPMorgan.</p><p>While insured losses get the lion’s share of attention when it comes to the cost impacts of a natural disaster, the potential damages go far beyond the balance sheet of insurers.</p><p>For one, it’s likely that many affected homeowners did not even carry insurance, either because their insurers failed to renew their existing policies or the homeowners simply chose to go without due to the high cost of what insurance they could find. “A larger than usual portion of the losses caused by the wildfires will be uninsured,” according to <a href="https://dbrs.morningstar.com/research/445636" rel="noopener noreferrer" target="_blank"><u>Morningstar DBRS</u></a>, which estimated total insured losses at more than $8 billion. Many homeowners carry insurance from California’s backup FAIR Plan, which may itself come under financial pressure, potentially leading to assessments from the state’s policyholders to bolster its ability to pay claims.</p><p>AccuWeather arrived at its economic impact figure by looking not just at losses from property damage but also wages that go unearned due to economic activity slowing down or halting in affected areas, infrastructure that needs to be repaired, supply chain issues, and transportation snarls. Even when homes and businesses aren’t destroyed, people may be unable to work due to evacuations; businesses may close due to the dispersal of their customers or inability of their suppliers to make deliveries. <a href="https://heatmap.news/sparks/los-angeles-wildfire-smoke-study" target="_self"><u>Smoke inhalation</u></a> can lead to short-, medium-, and long-term health impacts that take a dent out of overall economic activity.</p><p>The high level of insured losses, meanwhile, could mean that insurers’ will see less surplus and could have to pay more for reinsurance, Nancy Watkins, an actuary and wildfire expert at Milliman, told me in an email. This may mean that they would have to shed yet more policies “in order to avoid deterioration in their financial strength ratings,” just as California has been trying to lure insurers back with reforms to its dysfunctional insurance market.</p><p>The economic costs of the fire will likely be felt for years if not decades. While it would take an act of God far stronger than a fire to keep people from building homes on the slopes of the Santa Monica Mountains or off the Pacific Coast, the city that rebuilds may be smaller, more heavily fortified, and more expensive than the one that existed at the end of last year. And that’s just before the next big fire. </p> 
 
 <br> 
 
@@ -7623,4 +7906,1331 @@ The Argentine Embassy in Caracas has also been sheltering six opposition figures
 <br> 
 
 <https://www.voanews.com/a/exiled-venezuelan-opposition-leader-to-visit-us-speak-with-biden-/7924744.html>
+
+---
+
+## Biden honors Clinton, Bono, Goodall, others for contributions
+
+date: 2025-01-04, from: VOA News USA
+
+WASHINGTON — In the East Room of the White House on a particularly frigid Saturday afternoon, President Joe Biden bestowed the Presidential Medal of Freedom to 19 of the most famous names in politics, sports, entertainment, civil rights, LGBTQ+ advocacy and science. 
+
+
+Former Secretary of State Hillary Clinton aroused a standing ovation from the crowd as she received her medal. Clinton was accompanied to the event by her husband former President Bill Clinton, daughter Chelsea Clinton and grandchildren. Democratic philanthropist George Soros and actor-director Denzel Washington were also awarded the nation's highest civilian honor in a White House ceremony. 
+
+
+"For the final time as president I have the honor [of] bestowing the Medal of Freedom, our nation's highest civilian honor, on a group of extraordinary, truly extraordinary people, who gave their sacred effort, their sacred effort, to shape the culture and the cause of America," Biden said in his opening remarks. 
+
+
+"Let me just say to each of you, thank you, thank you, thank you for all you've done to help this country," Biden said Saturday. 
+
+
+4 medals awarded posthumously
+
+
+Four medals were awarded posthumously. They went to George W. Romney, who served as both a Michigan governor and secretary of housing and urban development; former Attorney General and Senator Robert F. Kennedy; Ash Carter, a former secretary of defense; and Fannie Lou Hamer, who founded the Mississippi Freedom Democratic Party and laid the groundwork for the 1965 Voting Rights Act. 
+
+
+Kennedy is father to Robert F. Kennedy Jr., President-elect Donald Trump's nominee for health and human services secretary. Biden said, "Bobby is one of my true political heroes. I love and I miss him dearly." 
+
+
+Romney is the father of former Utah Republican Senator Mitt Romney, one of Trump's strongest conservative critics. 
+
+
+Recipients made 'exemplary contributions'
+
+
+Biden has days left in the presidential office and has spent the last few days issuing awards and medals to valiant military veterans, courageous law enforcement officials and exceptional Americans. 
+
+
+The White House said the Medal of Freedom recipients have made "exemplary contributions to the prosperity, values, or security of the United States, world peace, or other significant societal, public or private endeavors." 
+
+
+Major philanthropists receiving the award include Spanish American chef Jose Andres, whose World Central Kitchen charity has become one of the world's most recognized food relief organizations, and Bono, the front man for rock band U2 and a social justice activist. 
+
+
+
+
+Soros' son Alex Soros accepted the medal on his father's behalf. In an emailed statement, Soros said: "As an immigrant who found freedom and prosperity in America, I am deeply moved by this honor." 
+
+
+Sports and entertainment stars recognized include professional soccer player Lionel Messi, who did not attend the event; retired Los Angeles Lakers basketball legend and businessman Earvin "Magic" Johnson; actor Michael J. Fox, who is an outspoken advocate for Parkinson's disease research and development; and William Sanford Nye, known to generations of students as "Bill Nye the Science Guy." 
+
+
+Other awardees include conservationist Jane Goodall; longtime Vogue magazine editor-in-chief Anna Wintour; American fashion designer Ralph Lauren; American Film Institute founder George Stevens Jr.; entrepreneur and LGBTQ+ activist Tim Gill; and David Rubenstein, co-founder of The Carlyle Group global investment firm. 
+
+
+
+
+Lauren is the first fashion designer to receive the honor. 
+
+
+Last year, Biden bestowed the Presidential Medal of Freedom on 19 people, including the late Medgar Evers, House Speaker Emerita Nancy Pelosi, Representative James Clyburn of South Carolina and actor Michelle Yeoh. 
+
+
+The Presidential Medal of Freedom was awarded 654 times between 1963 and 2024, according to the Congressional Research Service. Notable Medal of Freedom recipients from the past include Dr. Martin Luther King Jr., Maya Angelou and Mother Teresa. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-honors-clinton-bono-goodall-others-for-contributions/7924573.html>
+
+---
+
+## Prince William saddened by death of former nanny's stepson in New Orleans attack
+
+date: 2025-01-04, from: VOA News USA
+
+LONDON — Prince William expressed his shock and sadness Saturday at the news of the death of his former nanny’s stepson in the New Year's truck attack in New Orleans that killed 14 people.
+
+
+London’s Metropolitan Police confirmed Saturday that they are supporting the family of 31-year-old Edward Pettifer, including helping them through the process of returning his body to the United Kingdom. Pettifer, who is from west London, is the final victim to be identified.
+
+
+In a statement on social media, the Prince of Wales said he and his wife, Catherine, were “shocked and saddened by the tragic death of Ed Pettifer. Our thoughts and prayers remain with the Pettifer family and all those innocent people who have been tragically impacted by this horrific attack."
+
+
+Pettifer was the stepson of Tiggy Legge-Bourke, who was the nanny for William and his brother, Prince Harry, between 1993 and 1999, which included the time after the death of their mother, Princess Diana, in 1997. Legge-Bourke, who is also known as Alexandra Pettifer, was regularly photographed with Diana.
+
+
+British media also reported that King Charles III is said to be deeply saddened by the news and that he has sent his condolences to Pettifer's family.
+
+
+In a statement, Pettifer’s family said they were “devastated at the tragic news of Ed’s death” and described him as “a wonderful son, brother, grandson, nephew and a friend to so many.”
+
+
+“We will all miss him terribly. Our thoughts are with the other families who have lost their family members due to this terrible attack,” the family added.
+
+
+Authorities say 14 people were killed and about 30 were injured in the attack early Wednesday by Shamsud-Din Jabbar, a former U.S. Army soldier who posted several videos on his Facebook account hours before the attack previewing the violence he would unleash and proclaiming his support for the Islamic State militant group. The coroner’s office listed the cause of death for all 14 victims as “blunt force injuries.”
+
+
+Jabbar, 42, was fatally shot in a firefight with police at the scene of the deadly crash on Bourbon Street, famous worldwide for its festive vibes in New Orleans’ historic French Quarter. 
+
+<br> 
+
+<https://www.voanews.com/a/7924469.html>
+
+---
+
+## Biden notifies Congress of planned $8 billion weapons sale to Israel
+
+date: 2025-01-04, from: VOA News USA
+
+WASHINGTON — The U.S. State Department has informed Congress of a planned $8 billion weapons sale to Israel, U.S. officials say, as the American ally presses forward with its war against Hamas in Gaza.
+
+
+Some of the arms in the package could be sent from current U.S. stocks, but the majority would take a year or several years to deliver, according to two U.S. officials Saturday who spoke on condition of anonymity because the notification to Congress hasn't been formally sent.
+
+
+The sale includes medium-range air-to-air missiles to help Israel defend against airborne threats, 155 mm projectile artillery shells for long-range targeting, Hellfire AGM-114 missiles, 500-pound bombs and more.
+
+
+The weapons package would add to a record of at least $17.9 billion in military aid that the U.S. has provided Israel since the Hamas terror attack on Oct. 7, 2023, launched the war.
+
+
+The United States, Britain and other Western nations designate Hamas as a terror group.
+
+
+The Biden administration has faced criticism over the mounting number of deaths of Palestinian civilians. There have been demonstrations on college campuses and unsuccessful efforts in Congress by Senator Bernie Sanders and some Democrats to block sales of offensive weapons to Israel.
+
+
+The United States paused a shipment of 2,000-pound bombs to Israel in May over concerns about civilian casualties if the bombs were to be used during an assault on the southern Gaza city of Rafah. The Biden administration has demanded that Israel increase humanitarian aid into the enclave. But in November, citing some limited progress, it declined to limit arms transfers as it threatened to do if the situation did not improve.
+
+
+In recent days, Israel has been conducting airstrikes in Gaza that have killed dozens of people, adding to the tens of thousands of deaths since the war began more than a year ago.
+
+
+The Israeli army said Friday that it had struck dozens of Hamas gathering points and command centers throughout Gaza. Israel’s military says it targets only militants and blames Hamas for civilian deaths because its fighters operate in dense residential areas.
+
+
+The war has caused widespread destruction and displaced about 90% of Gaza’s population of 2.3 million, many of them multiple times. Winter has now arrived, and hundreds of thousands are sheltering in tents near the sea.
+
+
+The informal notice to Congress isn’t the final notification before a sale. Now the leaders of the House Foreign Affairs Committee or the Senate Foreign Relations Committee can review the package.
+
+
+News of the weapons sale was first reported by Axios. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-notifies-congress-of-planned-8-billion-weapons-sale-to-israel/7924437.html>
+
+---
+
+## New Orleans attacker had suspected bomb materials at home, officials say
+
+date: 2025-01-04, from: VOA News USA
+
+NEW ORLEANS, LOUISIANA — The man who rammed a pickup truck into a crowd of New Year's revelers in New Orleans had suspected bomb-making materials at his home and reserved the vehicle used in the deadly attack more than six weeks earlier, law enforcement officials told The Associated Press on Friday.
+
+
+Federal authorities searching the home of Shamsud-Din Jabbar in Houston found a workbench in the garage and hazardous materials believed to have been used to make explosive devices, according to law enforcement officials familiar with the search. The officials were not authorized to speak about the ongoing inquiry and spoke to the AP on the condition of anonymity.
+
+
+The FBI investigation also revealed that Jabbar purchased a cooler in Vidor, Texas, hours before the attack and gun oil from a store in Sulphur, Louisiana, the officials said. Authorities also determined Jabbar booked his rental of the pickup truck on Nov. 14, suggesting he may have been plotting the attack for more than six weeks.
+
+
+Authorities say 14 people were killed and some 30 were injured in the attack early Wednesday by Jabbar, a former Army soldier who posted several videos on his Facebook hours before the attack previewing the violence he would unleash and proclaiming his support for the Islamic State militant group. The coroner’s office listed the cause of death for all 14 victims as “blunt force injuries.”
+
+
+Jabbar, 42, was fatally shot in a firefight with police at the scene of the deadly crash on Bourbon Street, famous worldwide for its festive vibes in New Orleans' historic French Quarter.
+
+
+Authorities found crude bombs that had been planted in the neighborhood in an apparent attempt to cause more carnage. Two improvised explosive devices left in coolers several blocks apart were rendered safe at the scene, officials said. Other devices were determined to be nonfunctional.
+
+
+Investigators recovered from Jabbar's rental truck a transmitter intended to trigger the two bombs, the FBI said in a statement Friday. It also said authorities found bomb-making materials at the New Orleans home Jabbar rented prior to the attack. Jabbar tried to burn the house down by setting a small fire in a hallway and placing accelerants to help spread it, the FBI said. The flames burned out before firefighters arrived.
+
+
+
+
+Authorities on Friday were still investigating Jabbar's motives and how he carried out the attack. They say he exited the crashed truck wearing a ballistic vest and helmet and fired at police, wounding at least two officers before he was fatally shot by officers returning fire.
+
+
+New Orleans police declined to say Friday how many shots were fired by Jabbar and police or whether any bystanders may have been hit, citing the active investigation.
+
+
+Stella Cziment, who heads the city's civilian-run Office of the Independent Police Monitor, said investigators are working to account for “every single bullet that was fired” and whether any of them struck bystanders.
+
+
+Bourbon Street was solemn Friday. A day after the crime scene reopened to the public, locals and tourists stopped to pay respects to victims of the attack as the sound of bucket drums echoed. People shed tears while gathering at a growing memorial. Some left flowers and candles while others dropped to their knees to say a quick prayer.
+
+
+“New Orleans is about having a good time, you know, just trying to live your best life," said Tony Lightfoot, who works in Baton Rouge and was visiting New Orleans with his son. He said the attacker “just decided to disrupt all of that.”
+
+
+Thirteen people remained hospitalized. Eight people were in intensive care at University Medical Center New Orleans, spokesperson Carolina Giepert said.
+
+
+The White House said President Joe Biden would travel to New Orleans on Monday to “grieve with the families and community members impacted by the tragic attack.”
+
+
+Police used multiple vehicles and barricades on Friday to block traffic at Bourbon and Canal streets as crowds of pedestrians swelled. Other law enforcement agencies helped city officers provide extra security, said Reese Harper, a spokesperson for the New Orleans Police Department.
+
+
+The first parade of the Carnival season leading up to Mardi Gras was scheduled to take place Monday. New Orleans will also host the Super Bowl on Feb. 9.
+
+
+“This enhanced safety effort will continue daily, not just during large events,” Harper said in a statement.
+
+
+In a previous effort to protect the French Quarter, the city had installed steel columns known as bollards to restrict vehicle access to Bourbon Street. The posts retracted to allow for deliveries to bars and restaurants, until — gummed up by Mardi Gras beads, beer and other detritus — they stopped working reliably.
+
+
+
+
+So, when New Year’s Eve arrived, the bollards were gone. They were being replaced ahead of the Super Bowl.
+
+
+Meanwhile, New Orleans City Council President Helena Moreno took steps toward launching an investigation of the attack. In a memo to another council member obtained by AP, Moreno said she was initiating the creation of a local and state legislative committee “dedicated to reviewing the incident and its implications.”
+
+
+“This committee will play a crucial role in assessing our current policies, enhancing security measures, and ensuring that we are adequately prepared to respond to any future threats,” Moreno wrote.
+
+
+The FBI concluded Jabbar was not aided by anyone else in the attack, which killed an 18-year-old aspiring nurse, a single mother, a father of two and a former Princeton University football star, among others.
+
+
+Thirteen of the 14 victims have been identified by the New Orleans coroner’s office, with the youngest listed as 18 and the oldest 63. Most of the victims were in their 20s. One victim was a British citizen.
+
+
+
+
+It was the deadliest IS-inspired assault on U.S. soil in years, laying bare what federal officials have warned is a resurgent international terrorism threat. 
+
+<br> 
+
+<https://www.voanews.com/a/new-orleans-attacker-had-suspected-bomb-materials-at-home-officials-say/7924423.html>
+
+---
+
+## How Congress will certify Trump's electoral college victory
+
+date: 2025-01-04, from: VOA News USA
+
+WASHINGTON — The U.S. congressional joint session to count electoral votes on Monday is expected to be much less eventful than the certification four years ago that was interrupted by a violent mob of supporters of then-President Donald Trump who tried to stop the count and overturn the results of an election he lost to Democrat Joe Biden.
+
+
+This time, Trump is returning to office after winning the 2024 election that began with Biden as his party's nominee and ended with Vice President Kamala Harris atop the ticket. She will preside over the certification of her own loss, fulfilling the constitutional role in the same way that Trump's vice president, Mike Pence, did after the violence subsided on Jan. 6, 2021.
+
+
+Usually a routine affair, the congressional joint session on Jan. 6 every four years is the final step in reaffirming a presidential election after the Electoral College officially elects the winner in December. The meeting is required by the Constitution and includes several distinct steps.
+
+
+What happens when Congress meets?
+
+
+Under federal law, Congress must meet on Jan. 6 to open sealed certificates from each state that contain a record of their electoral votes. The votes are brought into the chamber in special mahogany boxes that are used for the occasion.
+
+
+Bipartisan representatives of both chambers read the results out loud and do an official count. The vice president, as president of the Senate, presides over the session and declares the winner.
+
+
+The Constitution requires Congress to meet and count the electoral votes. If there is a tie, then the House decides the presidency, with each congressional delegation having one vote. That hasn’t happened since the 1800s and won't happen this time because Trump’s electoral win over Harris was decisive, 312-226.
+
+
+How has it changed since the last time?
+
+
+Congress tightened the rules for the certification after the violence of 2021 and Trump’s attempts to usurp the process.
+
+
+In particular, the revised Electoral Count Act passed in 2022 more explicitly defines the role of the vice president after Trump aggressively pushed Pence to object to the Republican's defeat — an action that would have gone far beyond Pence's ceremonial role. Pence rebuffed Trump and ultimately gaveled down his own defeat. Harris will do the same.
+
+
+The updated law clarifies that the vice president does not have the power to determine the results on Jan. 6.
+
+
+Harris and Pence were not the first vice presidents to be put in the uncomfortable position of presiding over their own defeats. In 2001, Vice President Al Gore presided over the counting of the 2000 presidential election that he narrowly lost to Republican George W. Bush. Gore had to gavel several Democrats’ objections out of order.
+
+
+In 2017, Biden as vice president presided over the count that declared Trump the winner. Biden also shot down objections from House Democrats that did not have any Senate support.
+
+
+How does the session unfold?
+
+
+The presiding officer opens and presents the certificates of the electoral votes in alphabetical order of the states.
+
+
+The appointed “tellers” from the House and Senate, members of both parties, then read each certificate out loud and record and count the votes. At the end, the presiding officer announces who has won the most votes for president and vice president.
+
+
+What if there's an objection?
+
+
+After a teller reads the certificate from any state, a lawmaker can stand up and object to that state’s vote on any grounds. But the presiding officer will not hear the objection unless it is in writing and signed by one-fifth of each chamber.
+
+
+That threshold is significantly higher than what came before. Previously, a successful objection only required support from one member of the Senate and one member of the House. Lawmakers raised the threshold in the 2022 law to make objections more difficult.
+
+
+If any objection reaches the threshold — something not expected this time — the joint session suspends, and the House and Senate go into separate sessions to consider it. For the objection to be sustained, both chambers must uphold it by a simple majority vote. If they do not agree, the original electoral votes are counted with no changes.
+
+
+In 2021, both the House and Senate rejected challenges to the electoral votes in Arizona and Pennsylvania.
+
+
+Before 2021, the last time that such an objection was considered was 2005, when Representative Stephanie Tubbs Jones of Ohio and Senator Barbara Boxer of California, both Democrats, objected to Ohio’s electoral votes, claiming there were voting irregularities. The House and Senate debated the objection and easily rejected it. It was only the second time such a vote had occurred.
+
+
+What happens next?
+
+
+After Congress certifies the vote, the president is inaugurated on the west front of the Capitol on Jan. 20.
+
+
+The joint session is the last official chance for objections, beyond any challenges in court. Harris has conceded and never disputed Trump’s win. 
+
+<br> 
+
+<https://www.voanews.com/a/how-congress-will-certify-trump-s-electoral-college-victory/7924343.html>
+
+---
+
+## Trump climate plans include rolling back vehicle emissions standards
+
+date: 2025-01-04, from: VOA News USA
+
+U.S. President-elect Donald Trump is promising to reverse Biden administration efforts to fight climate change and says he will grow the U.S. economy by drilling for more oil. VOA Correspondent Scott Stearns has our story. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-climate-plans-include-rolling-back-vehicle-emissions-standards/7924326.html>
+
+---
+
+##  YOU LOVE TO SEE IT: In With The Good Energy, Out With The Bad 
+
+date: 2025-01-04, from: The Lever News
+
+ California looks to the renewable future, while New York probes the polluted past.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-in-with-the-good-energy-out-with-the-bad/>
+
+---
+
+## Memorials for Jimmy Carter start in US state of Georgia
+
+date: 2025-01-04, from: VOA News USA
+
+ATLANTA, GEORGIA — Six days of funeral observances for former U.S. President Jimmy Carter began Saturday morning in the state of Georgia, where he died on December 29 at the age of 100.
+
+
+The first events reflect Carter's climb up the political ladder, from the tiny town of Plains, Georgia, to decades on the global stage as a humanitarian and advocate for democracy.
+
+
+Here is what to know about the initial ceremonies and what happens next:
+
+
+Honors start in rural Georgia 
+
+
+The proceedings began at 10:15 a.m. local time Saturday with the Carter family arriving at Phoebe Sumter Medical Center in Americus.
+
+
+Former Secret Service agents who protected Carter served as pallbearers, walking alongside the hearse as it exited the campus on its way to Plains.
+
+
+
+
+James Earl Carter Jr. lived more than 80 of his 100 years in and around the town, which still has fewer than 700 people, not much more than when he was born on October 1, 1924. Some other modern presidents — Richard Nixon, Ronald Reagan and Bill Clinton — also grew up in small-town settings, but Carter stands out for returning and remaining in his birthplace for his long post-presidency.
+
+
+The motorcade moved through downtown Plains, which spans just a few blocks, passing near the girlhood home of first lady Rosalynn Smith Carter, who died in November 2023 at the age of 96, and near where the couple operated the family peanut warehouses. The route also included the old train depot that served as Jimmy Carter's 1976 presidential campaign headquarters and the gas station once run by Carter's younger brother Billy.
+
+
+The motorcade passed by the Methodist church where the Carters married in 1946, and the home where they lived and died. The former president will be buried there alongside Rosalynn.
+
+
+
+
+The Carters built the one-story house, now surrounded by Secret Service fencing, before his first state Senate campaign in 1962 and lived out their lives there with the exception of four years in the Governor's Mansion and four more in the White House.
+
+
+A stop at Carter's boyhood home 
+
+
+After going through Plains, the procession stopped in front of Carter's family farm and boyhood home in Archery, just outside the town, after passing the cemetery where the former president's parents, James Earl Carter Sr. and Lillian Carter, are buried.
+
+
+
+
+The farm now is part of the Jimmy Carter National Historical Park. The National Park Service rang the old farm bell 39 times to honor the 39th president.
+
+
+Carter was the first president born in a hospital. But the home had no electricity or running water when he was born, and he worked on his father's land during the Great Depression.
+
+
+Still, the Carters had relative privilege and status. Earl employed Black tenant farming families. The elder Carter also owned a store in Plains and was a local civic and political leader. Lillian was a nurse, and she delivered Rosalynn. The property still includes a tennis court Earl had built for the family.
+
+
+It was Earl's death in 1953 that set Jimmy on course toward the Oval Office. The younger Carters had left Plains after he graduated from the U.S. Naval Academy. But Jimmy abandoned a promising career as a submarine officer and early participant in the Pentagon's nuclear program to take over the family's peanut business after his father's death. Within a decade, he was elected to the Georgia state Senate.
+
+
+Lying in repose in Atlanta
+
+
+From Archery, the motorcade headed north to Atlanta. The military-run motorcade stopped outside the Georgia Capitol, where Carter served as a state senator from 1963 to 1967 and governor from 1971 to 1975. Georgia Governor Brian Kemp and Atlanta Mayor Andre Dickens led a moment of silence. While former governors are honored with state-run funerals, presidents — even if they served as governors — are memorialized with national rites run by the federal government. 
+
+
+The motorcade then proceeded to the Carter Presidential Center, which includes Carter's presidential library and The Carter Center, established by the former president and first lady in 1982. Carter's son, James Earl "Chip" Carter III, and his grandson, Jason Carter, spoke to an assembly that included many Carter Center employees. Their work on international diplomacy and mediation, election monitoring, and fighting disease in the developing world continues to set a standard for what former presidents can accomplish. 
+
+
+Jimmy Carter, who delivered the center's annual reports until 2019, won the 2002 Nobel Peace Prize in part for this post-presidential work. 
+
+
+Carter was scheduled to lie in repose from 7 p.m. Saturday to 6 a.m. Tuesday, with the public able to pay respects around the clock. 
+
+
+
+
+A return to Washington
+
+
+Carter's remains will travel next to Washington, where he will lie in state in the Capitol Rotunda until his funeral at 10 a.m. Thursday at the Washington National Cathedral. All the living presidents have been invited, and U.S. President Joe Biden, a Carter ally, will deliver a eulogy. 
+
+
+The Carter family then will return to bury its patriarch in Plains after a private hometown funeral at 3:45 p.m. at Maranatha Baptist Church, where Carter, a devout evangelical, taught Sunday School for decades. 
+
+
+Carter will be buried afterward in a private graveside service, in a plot visible from the front porch of his home. 
+
+<br> 
+
+<https://www.voanews.com/a/jimmy-carter-s-state-funeral-starts-saturday-here-is-what-to-know/7924279.html>
+
+---
+
+## Cybertruck soldier told ex-girlfriend of pain, exhaustion after Afghanistan
+
+date: 2025-01-04, from: VOA News USA
+
+WASHINGTON — The highly decorated Special Forces soldier who died by suicide in a Cybertruck explosion on New Year's Day confided to a former girlfriend who had served as an Army nurse that he faced significant pain and exhaustion that she says were key symptoms of traumatic brain injury.
+
+
+Green Beret Matthew Livelsberger, 37, was a five-time recipient of the Bronze Star, including one with a V device for valor under fire. He had an exemplary military record that spanned the globe and a baby born last year. But he struggled with the mental and physical toll of his service, which required him to kill and caused him to witness the deaths of fellow soldiers.
+
+
+Livelsberger mostly bore that burden in private but recently sought treatment for depression from the Army, according to a U.S. official who spoke on condition of anonymity to provide details that have not been made public.
+
+
+He also found a confidant in the former nurse, who he began dating in 2018.
+
+
+Alicia Arritt, 39, and Livelsberger met through a dating app while both were in Colorado Springs. Arritt had served at Landstul Regional Medical Center in Germany, the largest U.S. military medical facility in Europe, where many of the worst combat injuries from Iraq and Afghanistan were initially treated before being flown to the United States.
+
+
+There she saw and treated traumatic brain injuries, or TBIs, which troops suffered from incoming fire and roadside bombs. Serious but hard to diagnose, such injuries can have lingering effects that might take years to surface.
+
+
+“I saw a lot of bad injuries. But the personality changes can happen later,” Arritt said.
+
+
+
+
+In texts and images he shared with Arritt, Livelsberger raised the curtain a bit on what he was facing.
+
+
+“Just some concussions,” he said in a text about a deployment to Helmand Province in Afghanistan. He sent her a photo of a graphic tattoo he got on his arm of two skulls pierced by bullets to mark lives he took in Afghanistan. He talked about exhaustion and pain, not being able to sleep and reliving the violence of his deployment.
+
+
+“My life has been a personal hell for the last year,” he told Arritt during the early days of their dating, according to text messages she provided to The Associated Press. “It’s refreshing to have such a nice person come along.”
+
+
+On Friday, Las Vegas law enforcement officers released excerpts of messages Livelsberger left behind showing the way Livelsberger killed himself was intentional, meant both as a “wakeup call” but also to “cleanse the demons” he was facing from losing fellow soldiers and taking lives.
+
+
+Livelsberger’s death in front of the Trump Hotel using a truck produced by Elon Musk’s Tesla company has raised questions as to whether this was an act of political violence.
+
+
+Officials said Friday that Livelsberger apparently harbored no ill will toward President-elect Donald Trump, and Arritt said she and Livelsberger were Tesla fans.
+
+
+“I had a Tesla, too, that I rescued from a junkyard in 2019, and we used to work on it together, bond over it,” Arritt said.
+
+
+The pair stopped talking regularly after they broke up in 2021, and she had not heard from him in more than two years when he texted out of the blue on Dec. 28, and again on Dec. 31. The upbeat messages included a video of him driving the Cybertruck and another one of its dancing headlights; the vehicle can sync up its lighting and music.
+
+
+But she also said Livelsberger felt things “very deeply, and I could see him using symbolism” of both the truck and the hotel.
+
+
+“He wasn’t impulsive,” Arritt said. “I don’t see him doing this impulsively, so my suspicion would be that he was probably thinking it out.”
+
+
+
+
+Arritt served on active duty from 2003 to 2007 and then was in the Army Reserve until 2011. With Livelsberger, she saw symptoms of TBI as early as 2018.
+
+
+“He would go through periods of withdrawal, and he struggled with depression and memory loss,” Arritt said. “I don’t know what drove him to do this, but I think the military didn’t get him help when he needed it.”
+
+
+But Livelsberger was also sweet and kind, she recalled: “He had a really deep well of inner strength and character, and he just had a lot of integrity.”
+
+
+Pentagon Deputy Press Secretary Sabrina Singh told reporters Friday that it has turned over all Livelsberger's medical records to local law enforcement and encouraged troops facing mental health challenges to seek care through one of the military's support networks.
+
+
+“If you need help, if you feel that you need to seek any type of mental health treatment, or just to talk to someone — to seek the services that are available, either on base or off,” Singh said.
+
+
+When Livelsberger struggled during the time they were dating, Arritt prodded him to get help. But he would not, saying it could cost him his ability to deploy if he was found medically unfit.
+
+
+“There was a lot of stigma in his unit; they were, you know, big, strong, Special Forces guys there. There was no weakness allowed, and mental health is weakness is what they saw,” she said.
+
+
+Livelsberger seeking treatment for depression was first reported by CNN. 
+
+<br> 
+
+<https://www.voanews.com/a/cybertruck-soldier-told-ex-girlfriend-of-pain-exhaustion-after-afghanistan/7924262.html>
+
+---
+
+## US state of Tennessee refuses to release its new execution manual
+
+date: 2025-01-04, from: VOA News USA
+
+NASHVILLE, TENNESSEE — Just days after Tennessee announced it had a new manual for executing death row inmates, the state's top prison officials said they aren't going to release the document to the public.
+
+
+The Tennessee Department of Correction had told The Associated Press to file a public records request to obtain a copy of the latest execution manual, known as a protocol. However, the agency this week denied the AP's request, saying it needs to keep the entire document secret to protect the identities of the executioner and other people involved.
+
+
+The decision to maintain secrecy differs from how the state has handled similar requests in the past, but mirrors efforts across the U.S. to suppress public access surrounding executions, especially after anti-death penalty activists used records to expose problems.
+
+
+Here's what to know:
+
+
+What is an execution protocol?
+
+
+The protocol is typically a detailed set of procedures describing how the state executes death row inmates. Tennessee had been operating under a 2018 protocol that included directions on selecting execution team staff and the training they should undergo. It explained how lethal injection drugs should be procured, stored and administered. It gave instructions on the inmate's housing, diet and visitation in the days leading up to execution. It provided directions on how to choose media witnesses.
+
+
+For lethal injection, the 2018 protocol required a series of three drugs administered in sequence.
+
+
+The new version unveiled last week requires only a single dose of pentobarbital. But that is all that is known about the revised protocol.
+
+
+What reason does Tennessee give for not releasing the new protocol?
+
+
+In an email sent Monday, Tennessee correction spokesperson Kayla Hackney told the AP the "protocol is not a public record" and cited a Tennessee statute that makes the identities of the people carrying out executions confidential.
+
+
+However, that same statute says the existence of confidential information in a record is not a reason to deny access to it, noting that the confidential information should be redacted.
+
+
+What has Tennessee done in the past?
+
+
+In 2018, Tennessee's correction agency provided a redacted copy of the protocol to an AP reporter over email.
+
+
+In 2007, a previous version of the protocol was treated as a public record and provided to the AP after former Gov. Phil Bredesen, a Democrat, announced a surprise halt to executions. A reporter's review of that 100-page "Manual of Execution" found a jumble of conflicting instructions that mixed new lethal-injection instructions with those for electrocution.
+
+
+Why did Tennessee update its protocol?
+
+
+Executions have been on hold in Tennessee since 2022, when the state admitted it had not been following the 2018 protocol. Among other things, the Correction Department was not consistently testing the execution drugs for potency and purity.
+
+
+An independent review of the state's lethal injection practice later found that none of the drugs prepared for the seven inmates executed since 2018 had been fully tested. Later, the state Attorney General's Office conceded in court that two of the people most responsible for overseeing Tennessee's lethal injection drugs "incorrectly testified" under oath that officials were testing the chemicals as required.
+
+
+So what's with all the secrecy?
+
+
+Executions in the U.S. have remained at historic lows for years, but the small group of states still carrying out the death penalty have only increased the secrecy surrounding the procedures, particularly over how and where the state secures the drugs used for lethal injections.
+
+
+Many states argue that secrecy is critical to protect the safety of those involved in the execution process. Yet in a 2018 report, the Washington-D.C.-based nonprofit Death Penalty Information Center found that this argument often led to these states refusing to provide information about the qualifications of their execution teams and some courts have criticized such arguments for lack of evidence that more public disclosure would result in threats against prison officials.
+
+
+Kelley Henry, chief of the federal public defender's habeas unit that represents many of Tennessee's death row inmates, described the state's refusal to release the new protocol, given that background, as "mystifying."
+
+
+"The secrecy, which cloaked the former execution protocol, created a culture of incompetence and lack of accountability," she said in an email. 
+
+<br> 
+
+<https://www.voanews.com/a/us-state-of-tennessee-refuses-to-release-its-new-execution-manual/7922881.html>
+
+---
+
+## Deadly accident has Hawaii officials pleading for end to amateur fireworks shows
+
+date: 2025-01-04, from: VOA News USA
+
+honolulu — In recent years, occasions large and small — parties, Super Bowls, mixed martial arts fights, even Thanksgiving — have provided a reason for residents across Hawaii to set off illegal fireworks. 
+
+
+The increasingly sophisticated displays, loved by some and loathed by others, are so prevalent that some people consider them part of the state's culture. They have rattled neighborhoods of tightly packed houses, started fires, terrorized pets and knocked a light fixture off the ceiling of an Associated Press reporter's home, where it narrowly missed a child and shattered on the floor. 
+
+
+Each New Year's Day, Honolulu officials publish a list of fireworks casualties from the night before, typically a litany of burns, shrapnel wounds or amputations. Sometimes there are deaths. 
+
+
+But none of the damage has matched Tuesday night's tragedy, when a lit bundle of mortar-style aerials tipped over and shot into crates of unlit fireworks, causing a rapid-fire series of blasts that killed three women and injured more than 20 people, including children. 
+
+
+On Friday, the Honolulu medical examiner's department identified two of the women as Nelie Ibarra, 58, and Jennifer Van, 23. The cause and manner of death for both were listed as pending. The identity of the third was not yet confirmed, the department said in a news release. 
+
+
+Another person was killed in an unrelated fireworks explosion on Oahu. 
+
+
+
+
+Authorities and residents alike are now wondering whether the toll will dissuade people from putting on such shows in the future, or whether it will prompt more effective efforts by police to crack down. 
+
+
+"This incident is a painful reminder of the danger posed by illegal fireworks," Honolulu Mayor Rick Blangiardi told a news conference. "They put lives at risk, they drain our first responders and they disrupt our neighborhoods." 
+
+
+Efforts to crack down on contraband fireworks have had limited effect. In 2023, lawmakers created an illegal fireworks task force. Based on the ease with which it seized fireworks, including three shipping containers in its first few months in operation, the state Department of Law Enforcement concluded illegal fireworks are likely smuggled into Hawaii on a daily basis. 
+
+
+The task force has seized 227,000 pounds (about 103,000 kilograms) of fireworks in all, according to Governor Josh Green. 
+
+
+And yet, the Honolulu Fire Department reported Thursday that there were 30 fireworks-related blazes between Tuesday and Wednesday, a 30% increase from last New Year's celebrations. 
+
+
+Representative Gregg Takayama, who sponsored legislation passed last year to tighten fireworks controls, said he remembers setting them off when he was younger and agrees it's a tradition for many. But the ones he played with, including Roman candles, pale in comparison to those on the black market today. 
+
+
+"The kind of aerial fireworks that are being used now are really explosive bombs," he said. "And so the danger is magnified." 
+
+
+Charmaine Doran, the vice chair of the neighborhood board in Pearl City, northwest of Honolulu, called the notion that fireworks are part of Hawaii culture a misconception: "They have been outlawed for all of my life ... and I'm pretty old." 
+
+
+In her neighborhood, the fireworks ramp up after Halloween, exploding in the middle of the night until New Year's. Doran said she can tell if there is a big mixed martial arts fight on TV because the booms begin earlier in the day. 
+
+
+
+
+Enforcement is complicated because people are reluctant to report their neighbors on a small island where "we're related to everybody, everybody knows everybody," Doran said. 
+
+
+People fear retribution, she added: "If I dial 911, they're going to egg my house." 
+
+
+That was the theme of some testimony to the Legislature last January. Beverly Takushi, a Pearl City resident, described once being threatened by a neighbor when she told his brother to stop launching illegal fireworks in a show that lasted from 5:30 p.m. on New Year's Eve until after midnight. 
+
+
+"It was the first time I was threatened not only by the danger of the aerial fireworks to my family and property, but also for my safety from this neighbor who accused me of not respecting his culture," Takushi said. "He has since apologized, but this is the reason why no one wants to get involved and report their neighbors setting off bombs and aerials." 
+
+
+Many historians believe fireworks were invented in China more than 2,000 years ago and their use came to signify joy and prosperity, as well as warding off evil. In Hawaii they are celebrated not just by residents of Chinese descent but all across the state's diverse communities. 
+
+
+Takushi echoed Takayama's point about the big difference between today's large, professional-grade fireworks and the smaller ones of yesteryear. 
+
+
+"A string of firecrackers at midnight to ward off bad spirits is cultural, not loud explosives that sound like you are in the middle of a war," Takushi said. 
+
+
+Richard Oshiro, secretary of the neighborhood board for Waipahu, known as one of Oahu's hot spots for aerial displays, said he hopes this week's deaths will spur a change of mentality about playing with explosives. 
+
+
+He said he tries to report them whenever he can, even though he knows there is not much police can do if "they can't catch people in the act." 
+
+
+Possession of over 50 pounds (about 23 kilograms) of aerial or other illegal fireworks in Hawaii is a felony punishable by up to five years in prison and a $10,000 fine. Takayama noted the law now allows photographs and videos of fireworks to be submitted as evidence in court, but said prosecutions still face hurdles. 
+
+
+"We already have laws on the books. We need to find better ways to enforce them," he said. "I mean, we constantly hear about people who report on their neighbors using illegal aerials, but nothing is done about it." 
+
+
+The best way to control fireworks is to stop them at Hawaii's ports, Takayama said. Law enforcement has intelligence about which shipments contain illegal fireworks, and U.S. authorities have the power to open suspicious cargo. The task force has made seizures but needs to do more, he said. 
+
+
+"We need to find ways to restrict the amount of fireworks that are coming in, because once they arrive and once they're in the community, it's very difficult to track them down," Takayama said. 
+
+<br> 
+
+<https://www.voanews.com/a/deadly-accident-has-hawaii-officials-pleading-for-end-to-amateur-fireworks-shows/7924118.html>
+
+---
+
+## Ghana’s citizenship offer attracts some Black Americans
+
+date: 2025-01-04, from: VOA News USA
+
+ACCRA, GHANA — Flipping through a family album, Keachia Bowers paused on a photo of her as a baby on her father's lap as he held the 1978 album "Africa Stand Alone" by the Jamaican reggae band Culture.
+
+
+"When I was 10 years old, I was supposed to come to Ghana with him," she said. A day earlier, she had marked 10 years since her father's death. Though he was a Pan-Africanist who dreamed of visiting Ghana, he never made it here.
+
+
+Bowers and her husband, Damon Smith, however, are among the 524 diaspora members, mostly Black Americans, who were granted Ghanaian citizenship in a ceremony in November.
+
+
+Bowers and Smith moved to Ghana from Florida in 2023 after visiting the region several times between them since the '90s. They now run a tour business that caters to Black people who want to visit Ghana or elsewhere in West Africa, or like them have come to consider a permanent move.
+
+
+The November group was the largest one granted citizenship since Ghana launched the "Year of the Return" program, aimed at attracting the Black diaspora, in 2019. It marked 400 years since the first African slaves arrived in Virginia in 1619.
+
+
+Ghana's Tourism Authority and the Office of Diaspora Affairs have extended the program into "Beyond the Return," which fosters the relationship with diasporans. Hundreds have been granted citizenship, including people from Canada, the U.K. and Jamaica.
+
+
+Bowers said moving to Ghana gave her family a certain feeling of ease they didn't have in the U.S.
+
+
+"When we see Trayvon Martin, Sandra Bland, all these stories of people being murdered just in their home, living in their home and being murdered at the hands of police brutality, hearing about it creates trauma," she said.
+
+
+She also worried about her son Tsadik, 14.
+
+
+Tsadik towers over loved ones in the way that lanky teenage boys often do. He is shy but opens up around his younger sister Tselah, 11, and the family's dog, Apollo.
+
+
+"In America, being a Black male with locs who's very tall for his age, he is treated like a threat," Bowers said.
+
+
+
+
+Americans face few obstacles to living in Ghana, with most people paying an annual residency fee. But Bowers said getting citizenship signified more than simply living in Ghana.
+
+
+"I didn't need (citizenship) to tell me that I'm African. Anywhere that I go in the world and someone looks at me, I'm melanated," she said.
+
+
+"But my ancestors who wanted to return and come back home, those ancestors who never made it back," she said, "that passport, for me, is for them."
+
+
+Between 10 to 15 million people were forcibly taken from Africa to the Americas during the trans-Atlantic slave trade, the majority from West and Central Africa.
+
+
+Ghana, then a British colony known as the Gold Coast, was a main point of departure.
+
+
+As memorials to the slave trade become tourist destinations across West Africa, painful reminders of its brutality are easily accessible. From Ghana to Senegal to Benin, one can visit variations of the "Door of No Return," haunting doorways that open to the Atlantic Ocean where slaves left Africa, and their families, for the last time.
+
+
+The joy that people feel in finding connections that were broken long ago is palpable. Videos of the recent citizenship ceremony show men and women of all ages waving Ghanaian flags and cheering.
+
+
+Deijha Gordon, 33, was one of them.
+
+
+"I first visited Ghana in 2015. From then on, I knew this is a place that I wanted to be and a place where I wanted to show other diasporans, African-Americans, that we have a place where we belong," she said.
+
+
+She moved from Brooklyn to Ghana in 2019 and opened a food truck, Deijha Vu's Jerk Hut, selling Jamaican food.
+
+
+Between bagging to-go orders and speaking to a Black American tourist couple, she explained how she built the business from scratch.
+
+
+Gordon was giddy while recalling the moment she got citizenship.
+
+
+"It just feels good to have a connection to an African country as an African-American, as a Black American. Because back in America we don't have anything to trace our roots to but Africa. To have that connection here, I feel like I've done something right," she said.
+
+
+Like Bowers, Gordon has had a stream of people reaching out and asking about the citizenship process.
+
+
+The path is not clearly defined. Citizenship must come from a concession from Ghana's presidency, a process made legal under the 2000 Citizenship Act. It's granted to those residing in Ghana who have told the Office of Diaspora Affairs that they are interested in citizenship.
+
+
+Ghana's government in part describes the program as a benefit to the economy and focuses on investment opportunities for those wishing to relocate.
+
+
+Festus Owooson with the local nonprofit Migration Advocacy Center said that though the government emphasizes the economic angle, the real benefits of citizenship are intangible.
+
+
+"I don't think (recipients) were crying because they have landed a gold mine, or they've found oil or some kind of business opportunity. But it's something so relieving, which you cannot put value or a price on," he said.
+
+
+President Nana Akufo-Addo's administration, which launched the "Year of the Return," is on its way out. Ghana's main opposition party won the presidential election on Dec. 7.
+
+
+But Owooson said Black Americans and other diaspora citizens are likely to continue receiving citizenship by presidential concession.
+
+
+Citizenship also can pass to the next generation. The children of Bowers and Smith received it automatically after their parents' ceremony.
+
+
+Bowers' father, like her husband and children, was a follower of the Rastafari faith. "Part of the Rastafarian tradition is to repatriate. We see repatriation as the ultimate experience that you can have on this earth," she said.
+
+
+She believes that her father is proud of her. "I really feel like he's smiling, where he is. He wanted to experience this for himself, so he's experiencing it through me." 
+
+<br> 
+
+<https://www.voanews.com/a/ghana-s-citizenship-offer-attracts-some-black-americans/7924102.html>
+
+---
+
+## Danish-Swedish farmdog joins American Kennel Club's lineup
+
+date: 2025-01-04, from: VOA News USA
+
+NEW YORK — Say hello to the latest dog in the American Kennel Club's lineup of recognized breeds. Or you might say "hej."
+
+
+The Danish-Swedish farmdog — yep, that's the official name — joined the pack Thursday. The designation makes the breed eligible to compete for many best in show trophies, and it likely augurs more widespread interest in the small, sprightly dogs. The prospect both gladdens and concerns their biggest fans.
+
+
+"We're excited about it. We're looking forward to it," said Carey Segebart, one of the people who worked to get Danish-Swedish farmdogs recognized by the AKC. She proudly plans to debut one of her own at a dog show this month near her Iowa home.
+
+
+Still, she thinks increased exposure is "a double-edged sword" for the fleet, versatile pups.
+
+
+"We don't want the breed to just explode too quickly," she said.
+
+
+Called the farmdog or DSF for short, the breed goes back centuries in parts of what are now Denmark, southern Sweden and some other European countries, according to the Danish-Swedish Farmdog Club of America.
+
+
+"They're interesting, fun little dogs," said Segebart, who has owned them since 2011 and is the club's incoming president. "They're essentially up for anything. They succeed at most everything."
+
+
+In their original homelands, the dogs' main job was rodent patrol, but they also would herd a bit, act as watchdogs and play with farmers' children. Some even performed in circuses, according to the club.
+
+
+After Denmark and Sweden became more urban and suburban in the 20th century, farmdog fanciers set out to secure the breed's place in both nations (where "hej" translates to the English "hello"). Kennel clubs there began registering farmdogs in 1987.
+
+
+In the U.S., many of the just about 350 farmdogs nationwide compete in agility, obedience or other canine sports that are open to all dogs, including mixed breeds.
+
+
+But until now, farmdogs couldn't enter the traditional breed-by-breed judging that leads to best in show prizes at events including the prominent Westminster Kennel Club dog show in New York. The entry deadline has passed for February's Westminster show, so farmdogs will have to wait for 2026 there, but they may well appear later this year at two other major, televised shows, the National Dog Show and AKC National Championship.
+
+
+The Danish-Swedish farmdog is the AKC's 202nd breed and "a wonderful addition to a family that is able to provide it with the exercise and mental stimulation that it needs," said the club's Gina DiNardo.
+
+
+Too popular for its own good?
+
+
+The AKC is the United States' oldest purebred dog registry and essentially a league for many dog competitions. Registration is voluntary, and requirements for breed recognition include at least 300 pedigreed dogs spread through at least 20 states. Some breeds are in other kennel clubs or none at all.
+
+
+Danish-Swedish farmdog fanciers deliberated for several years before pursuing AKC recognition and the attention that's likely to come with it, Segebart said. The number of farmdog puppy-seekers has grown substantially over the last decade; each of the few breeders receives multiple inquiries a week, and the typical wait for a puppy is a year or more, she said.
+
+
+Farmdog folk fear that their appealing, relatively easy-care breed could quickly become too popular for its own good. They're not the first to worry: Much fur has flown in dogdom over the rise of the French bulldog, which the AKC now ranks as the most popular breed in the country.
+
+
+Some animal rights activists echo those concerns to argue against dog breeding in general. They say purebred popularity trends divert people from adopting shelter animals, fuel puppy mills and prize dogs' appearance over their health.
+
+
+The AKC says it promotes responsibly "breeding for type and function" to produce dogs with at least somewhat predictable traits, whether as basic as size or as specialized as bomb-sniffing skills. The club says it has given over $35 million since 1995 to its canine health research charity. 
+
+<br> 
+
+<https://www.voanews.com/a/danish-swedish-farmdog-joins-american-kennel-club-s-lineup-/7922875.html>
+
+---
+
+## National funeral service, flyover and 39 bells for Carter sendoff
+
+date: 2025-01-04, from: VOA News USA
+
+PLAINS, GEORGIA — Mourners are to begin paying their respects to Jimmy Carter on Saturday, kicking off a carefully choreographed six-day farewell for America's longest-lived president.
+
+
+Flags have been flying at half-staff across the country since Carter died on Dec. 29 at the age of 100 in his hometown of Plains, Georgia.
+
+
+Carter's state funeral officially begins on Saturday with Secret Service agents from his current and former protective detail carrying his casket to a hearse for a tour through Plains.
+
+
+The motorcade bearing his remains is to pause at Carter's boyhood family peanut farm while a farm bell rings 39 times in honor of America's 39th president.
+
+
+His body will then be taken to Atlanta for a brief stop at the Georgia Capitol, where Carter served as a state senator before becoming governor, and a moment of silence.
+
+
+From there, Carter will be escorted to the Carter Presidential Center where he will lie in repose from 7 p.m. on Saturday (0000 GMT Sunday) to 6 a.m. (1100 GMT) on Tuesday to allow the public to pay their respects.
+
+
+Carter's remains will be flown on Tuesday morning from a military base in Georgia to Joint Base Andrews outside Washington on a U.S. Air Force plane dubbed Special Air Mission 39.
+
+
+A motorcade will then transport the body of the former commander-in-chief to the U.S. Navy Memorial.
+
+
+Carter, who attended the U.S. Naval Academy, graduating in 1946, and served on submarines, will be transferred from a hearse to a horse-drawn caisson for a funeral procession to the U.S. Capitol.
+
+
+Military pall bearers will carry his flag-draped casket to the rotunda of the Capitol where his body will lie in state until 7 a.m. (1200 GMT) on Thursday, surrounded by a guard of honor of service members.
+
+
+Carter will be the 13th former U.S. president to lie in state in the Capitol. Abraham Lincoln, assassinated in 1865, was the first.
+
+
+A national funeral service is to be held on Thursday at the National Cathedral, an Episcopal church in the nation's capital that also hosted state funerals for former presidents Dwight D. Eisenhower, Ronald Reagan, Gerald Ford and George H.W. Bush.
+
+
+All four living former presidents — Bill Clinton, George W. Bush, Barack Obama and Donald Trump — are expected to attend.
+
+
+President Joe Biden is to deliver the eulogy for his fellow Democrat, who served in the White House from 1977-81.
+
+
+Biden has declared Thursday to be a national day of mourning, and federal government offices are to be closed for the day.
+
+
+He has also ordered flags to be flown at half-staff for 30 days as is customary, which means that will be the case during Trump's Jan. 20 inauguration.
+
+
+That drew the ire of the president-elect, who took to Truth Social to say "no American can be happy" about having flags at half-staff when he takes office.
+
+
+Following the cathedral service, Carter's remains will be flown aboard Special Air Mission 39 back to Georgia for a private funeral service at the Baptist church in Plains where Carter taught Sunday school.
+
+
+A final motorcade through his hometown will ferry Carter's body to a burial plot at his residence.
+
+
+U.S. Navy jets will conduct a flyover in his honor before he is laid to rest alongside his wife of 77 years, Rosalynn, who died in 2023 at the age of 96. 
+
+<br> 
+
+<https://www.voanews.com/a/national-funeral-service-flyover-and-39-bells-for-carter-sendoff/7924128.html>
+
+---
+
+## US new car sales hit 5-year high in 2024, helped by hybrids
+
+date: 2025-01-04, from: VOA News USA
+
+DETROIT — U.S. new car sales in 2024 continued to rise from their pandemic lows, bolstered by replenished inventories, higher incentives and surging demand for hybrid vehicles, automakers reported on Friday.
+
+
+Sales of new vehicles finished at 15.9 million last year, according to Wards Intelligence, up 2.2% from the prior year, and the highest since 2019. Automakers are projecting strong sales will continue into 2025, although President-elect Donald Trump's proposed automotive policies, such as removing tax credits for EVs, present a wild card.
+
+
+"We’re carrying significant momentum into 2025," Rory Harvey, GM's head of global markets, said in a release. The Detroit automaker defended its 2023 crown as the biggest U.S. carmaker by sales, selling 2.7 million vehicles last year, the company said on Friday, up 4.3% from 2023.
+
+
+Most automakers recorded solid sales results last year, as they adjusted to slowing demand for EVs and relied on their core business of gasoline-powered trucks and SUVs. Others capitalized on soaring consumer interest in hybrid vehicles.
+
+
+Sales of traditional hybrids increased 36.7% in 2024 compared with the previous year, Wards reported.
+
+
+'Hybrids, we're sold out'
+
+
+Toyota notched a 3.7% sales gain year-over-year in the U.S., boosted by steady increases of reliable smaller vehicles such as the Camry and RAV4 SUV, as well as significant gains for hybrid vehicles. Reuters reported last year that the automaker is potentially converting all of its lineup into hybrid-only models.
+
+
+"For hybrids, we’re sold out — customers want them. We can’t get enough of them," said David Christ, head of sales and marketing for Toyota in North America. "Battery electric vehicles, even with the huge incentives we’re spending and the federal government’s incentives, are just not as in demand."
+
+
+Ford Motor also benefited from an increase in hybrid sales, which helped the automaker's total vehicle sales rise 4.2% in 2024. The Dearborn, Michigan, company's total hybrid sales roughly doubled that of its EVs, with 187,426 hybrids sold and 97,865 EVs.
+
+
+Automakers have axed or changed lofty EV plans laid out when demand seemed much stronger than it turned out to be, but they are still aiming to attract new EV buyers.
+
+
+Ford said on Friday that to support EV sales, which were up 34.8% for the automaker in 2024, it would extend a program where EV buyers receive free chargers and installation at home through the end of March.
+
+
+U.S. sales of electric vehicles are expected to approach 1.3 million, or about 8% of all new vehicles purchased, Cox Automotive said. Buyers' willingness to go electric crept up slightly from 2023, when U.S. drivers bought 1.2 million EVs, making up 7.6% of all sales, Cox said.
+
+
+The Trump administration's plans would likely affect auto sales in 2025 and beyond if the incoming president makes good on plans to roll back President Joe Biden's EV policies, including a $7,500 consumer tax credit on some EVs, as well as increase tariffs on imports from Mexico and Canada.
+
+
+"If you take true demand for the car and you eliminate the $7,500 benefit ... it's really going to change who wants them and how they buy them. So we're preparing for that," Toyota's Christ said. 
+
+<br> 
+
+<https://www.voanews.com/a/us-new-car-sales-hit-5-year-high-in-2024-helped-by-hybrids/7924097.html>
+
+---
+
+## Can we trust the expiration dates on our food?
+
+date: 2025-01-04, from: Market Place
+
+These dates tell us how long food will maintain its highest quality, but pantry items are often still safe to eat after expiration.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/03/can-we-trust-the-expiration-dates-on-our-food/>
+
+---
+
+## US announces $306 million in new bird flu funding
+
+date: 2025-01-04, from: VOA News USA
+
+WASHINGTON — U.S. President Joe Biden's outgoing administration announced Friday that it will allocate $306 million to bolster the nation's bird flu response before President-elect Donald Trump takes office.
+
+
+The new funding will support national, state and local preparedness and monitoring programs, as well as research into potential medical countermeasures against the H5N1 virus.
+
+
+"While the risk to humans remains low, we are always preparing for any possible scenario that could arise," Health Secretary Xavier Becerra said in a statement.
+
+
+"Preparedness is the key to keeping Americans healthy and our country safe."
+
+
+The United States has reported 66 human cases of bird flu since the start of 2024, though experts believe the true number could be higher, with cases potentially going undetected among cattle and poultry workers.
+
+
+While the virus has not been found to spread from person to person, the amount of bird flu circulating among animals and humans has alarmed scientists, because it might combine with seasonal influenza and mutate into a more transmissible form — potentially triggering a deadly pandemic.
+
+
+The funding announcement comes amid concern over how the incoming Trump administration will handle the threat.
+
+
+The president-elect told Time magazine recently he would abolish the Office of Pandemic Preparedness and Response Policy established under Biden — though it is not clear if he has the authority to do so, since it was created by Congress.
+
+
+His pick for health secretary, Robert F. Kennedy Jr., is a vocal vaccine skeptic who has pledged to shake up the nation's health agencies and promotes raw milk, thought to be a vector for bird flu.
+
+
+Biden's administration has also faced criticism for what some consider a subpar bird flu response.
+
+
+The Center for Strategic and International Studies, a Washington-based think tank, published a report last month citing an array of problems including "lagging data, incomplete surveillance, sluggish coordination, considerable mistrust, and insufficient planning and stockpiling of vaccines and therapies."
+
+
+Given these shortcomings, infectious disease epidemiologist Meg Schaeffer of the SAS Institute told AFP: "In my opinion, avian influenza is going to become either a pandemic or a virus...  that will become a very widespread and significant health issue for us in the next one to two years."
+
+
+She urged raw milk consumers in particular to "take a pause on that consumption."
+
+
+Adding to concerns, a virus sample from a critically ill patient in Louisiana has shown signs of mutating to better adapt to human airways, although there is no evidence it has spread beyond that individual, health authorities said last week.
+
+
+Researchers are also closely monitoring the growing number of bird flu infections in cats, which could expose humans through close contact. 
+
+<br> 
+
+<https://www.voanews.com/a/us-announces-306-million-in-new-bird-flu-funding/7924091.html>
+
+---
+
+## Biden's top aide to make China-focused visit to India
+
+date: 2025-01-04, from: VOA News USA
+
+washington — President Joe Biden's national security adviser, Jake Sullivan, will make his final visit to India next week to emphasize Washington's partnership with New Delhi, the White House announced Friday.
+
+
+The visit will cap the Biden administration's efforts to maximize ties with Prime Minister Narendra Modi's government, in its strategic focus to counter China's influence in the Indo-Pacific.
+
+
+Strengthening ties with India has been a "real foreign policy priority and area of legacy achievement for the Biden administration," a senior administration official said on condition of anonymity in a briefing to reporters Friday.
+
+
+Sullivan will visit New Delhi January 5-6 to discuss a range of issues, including civil nuclear partnership, China's overcapacity on semiconductor and biopharma supply chains, strategic technology cooperation and other shared security priorities, a second administration official said.
+
+
+Sullivan's visit comes as tension is brewing between India and China over Beijing's plan to build what it calls the "world's largest" hydro dam on the Yarlung Zangbo River on the eastern rim of the Tibetan plateau, which could affect millions downstream in India and Bangladesh.
+
+
+Sullivan is expected to discuss the dam along with other regional issues of concern, said the first administration official in response to VOA's question. "What matters to us is that when it comes to water resources that have to be managed across countries, that those are being handled fairly and in an equitable way," the official said.
+
+
+Technology initiative
+
+
+A key focus of the visit is the U.S.-India initiative on Critical and Emerging Technology (iCET) – an effort that Biden and Modi announced in May 2022 to bolster their strategic technology partnership and defense-industrial cooperation between their governments, businesses and academic institutions across various domains, from AI to quantum computing, and from semiconductors to space.
+
+
+Sullivan's visit will take place just two weeks before President-elect Donald Trump assumes office January 20. Many expect iCET to continue under his administration.
+
+
+"There is broad bipartisan support for some of the goals of iCET," said the second administration official in response to VOA's question. They include "strengthening the resilience of technology supply chains, working with allies and partners to position ourselves to offset PRC [People Republic of China's] advancements in certain technologies, and efforts to dominate some of the supply chains."
+
+
+The U.S. strategic partnership with New Delhi is "based upon a bet that India's economic, technological and military rise is critical to pushing back and containing China's dominance in these fields," said Aparna Pande, director of the Initiative on the Future of India and South Asia at the Hudson Institute.
+
+
+Irritants have not derailed bilateral ties. Those include India's democratic backsliding, and the case of a former Indian government employee charged in New York last year with murder-for-hire over his role in directing a foiled plot to assassinate a Sikh separatist and Modi critic.
+
+
+Most of Biden's policies on India will likely continue, Pande told VOA, as Trump's desire to "push back or contain China's rise – economic, technological and military – will help ensure that India is seen as a partner in this endeavor."
+
+
+During his first administration, Trump had a warm relationship with Modi. Trump attended a 2019 "Howdy Modi" rally in Texas, and Modi reciprocated by hosting a "Namaste Trump" rally in Ahmedabad in 2020. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-s-top-aide-to-make-china-focused-visit-to-india-/7924089.html>
+
+---
+
+## Soldier who died in Las Vegas blast meant it to be 'wake-up call' for US
+
+date: 2025-01-04, from: VOA News USA
+
+An Army soldier who died in an explosion of a Tesla Cybertruck at the Trump hotel in Las Vegas left a note saying it was a stunt to serve as a "wake-up call" for the country's ills, investigators said Friday. 
+
+
+Matthew Livelsberger, 37, a Green Beret from Colorado Springs, Colorado, also wrote in the note that he needed to "cleanse my mind" of the lives lost of people he knew and "the burden of the lives I took." 
+
+
+Livelsberger apparently harbored no ill will toward President-elect Donald Trump, Las Vegas Metropolitan Police Department officials said. 
+
+
+"Although this incident is more public and more sensational than usual, it ultimately appears to be a tragic case of suicide involving a heavily decorated combat veteran who was struggling with PTSD and other issues," Spencer Evans, FBI special agent in charge, said at a news conference. 
+
+
+The explosion caused minor injuries to seven people but virtually no damage to the hotel. Authorities said Friday that Livelsberger acted alone.
+
+
+'Not a terrorist attack' 
+
+
+"This was not a terrorist attack, it was a wake-up call. Americans only pay attention to spectacles and violence. What better way to get my point across than a stunt with fireworks and explosives," Livelsberger wrote in a letter found by authorities who released only excerpts of it. 
+
+
+Investigators identified the Tesla driver — who was burned beyond recognition — as Livelsberger by a tattoo and by comparing DNA from relatives. The cause of death was a self-inflicted gunshot to the head, according to coroner's officials. 
+
+
+Pentagon officials have declined to say whether Livelsberger may have been suffering from mental health issues but say they have turned over his medical records to police. 
+
+
+Authorities excerpted the messages from two letters Livelsberger wrote using a cellphone note application, said Assistant Sheriff Dori Koren of the Las Vegas police. 
+
+
+The letters covered a range of topics including political grievances, domestic issues and societal issues, Koren said. 
+
+
+
+
+Tesla engineers, meanwhile, helped extract data from the Cybertruck for investigators, including Livelsberger's path between charging stations from Colorado through New Mexico and Arizona and on to Las Vegas, Koren said. 
+
+
+"We still have a large volume of data to go through," Koren said. "There's thousands if not millions of videos and photos and documents and web history and all of those things that need to be analyzed." 
+
+
+The new details came as investigators sought to determine Livelsberger's motive, including whether he sought to make a political point with the Tesla and the hotel bearing the president-elect's name. 
+
+
+Tesla CEO Elon Musk has recently become a member of Trump's inner circle. Neither Trump nor Musk was in Las Vegas early Wednesday, the day of the explosion. Both had attended Trump's New Year's Eve party at his South Florida estate. 
+
+
+Musk spent an estimated $250 million during the presidential campaign to support Trump, who has named Musk, the world's richest man, to co-lead a new effort to find ways to cut the government's size and spending. 
+
+
+Truck absorbed blast
+
+
+Investigators suspect Livelsberger may have been planning a more damaging attack, but the steel-sided vehicle absorbed much of the force from the crudely built explosive. 
+
+
+Investigators said previously that Livelsberger shot himself inside the Tesla Cybertruck packed with fireworks just before it exploded outside Trump International Hotel in Las Vegas on New Year's Day. 
+
+
+"It's not lost on us that it's in front of the Trump building, that it's a Tesla vehicle, but we don't have information at this point that definitively tells us or suggests it was because of this particular ideology," the FBI’s Evans said Thursday. 
+
+
+A law enforcement official said investigators learned through interviews that he might have had a fight with his wife about relationship issues shortly before he rented the Tesla in Colorado on Saturday and bought the guns. The official spoke on the condition of anonymity because of a lack of authorization to discuss the investigation. 
+
+
+Livelsberger served in the Green Berets, highly trained special forces who work to counter terrorism abroad and train partners. He had served in the Army since 2006, rising through the ranks with a long career of overseas assignments, deploying twice to Afghanistan and serving in Ukraine, Tajikistan, Georgia and Congo, the Army said. He had recently returned from an overseas assignment in Germany and was on approved leave when he died, according to a U.S. official. 
+
+
+He was awarded five Bronze Stars, including one with a valor device for courage under fire, a combat infantry badge and an Army Commendation Medal with valor. 
+
+
+The explosion of the truck came hours after Shamsud-Din Bahar Jabbar, 42, rammed a truck into a crowd in New Orleans' famed French Quarter early on New Year's Day, killing at least 14 people before being shot to death by police. 
+
+<br> 
+
+<https://www.voanews.com/a/soldier-who-died-in-las-vegas-blast-meant-it-to-be-wake-up-call-for-us/7924075.html>
+
+---
+
+## Biden awards Medal of Honor and Medal of Valor to military heroes, first responders
+
+date: 2025-01-04, from: VOA News USA
+
+WASHINGTON — On Feb. 15, 1951, Army Private Bruno R. Orig was returning from a mission when he found his fellow soldiers under attack in what's now known as the Battle of Chipyong-ni.
+
+
+The infantryman provided first aid to his comrades wounded in the Korean War attack and began helping move those men to safety. He then took over a machine gun post and allowed a friendly platoon to pull back without a casualty. When the ground was recaptured later that day, Orig was found dead beside the machine gun, surrounded by enemy combatants he had killed.
+
+
+Orig was among the Medal of Honor recipients recognized Friday by President Joe Biden in one of his last opportunities to officially acknowledge acts of selflessness and personal bravery in times of war. Biden bestowed the medal posthumously to six men and one living recipient at a White House ceremony. In a separate Oval Office ceremony closed to the news media, he awarded the Medal of Valor to eight first responders who put their own lives at risk to save others.
+
+
+These are heroes of different ranks, different positions and even different generations.” Biden said at the Medal of Honor ceremony, Friday evening. “They are heroes who all went above and beyond the call of duty."
+
+
+Acknowledging his last days as president, Biden said, "These are my finals days as commander in chief. It was the greatest honor of my life to be entrusted" to lead America, he said "and the finest military in the history of the world."
+
+
+During the Korean War, Private First Class Wataru Nakamura destroyed an enemy machine gun nest and recaptured several bunkers. He exhausted his ammunition but resumed his attack after being rearmed, and he was ultimately killed by an enemy grenade and buried in Los Angeles.
+
+
+Army Corporal Fred B. McGee was recognized for his gallantry and intrepidity near Tang-Wan-Ni, Korea, on June 16, 1952, when he assumed command of his squad, neutralized an enemy machine gun and then sent his squad back while he helped rescue the wounded.
+
+
+The Ohio native died in 2020, according to news reports.
+
+
+Army Private First Class Charles R. Johnson, from Millbrook, New York, was killed on June 12, 1953, after holding off Chinese forces during the Korean War. His actions saved the lives of as many as 10 soldiers.
+
+
+After multiple raids on an entrenched enemy in the area of Sagimak during the Korean War, Army First Lieutenant Richard E. Cavazos stayed behind alone to evacuate five battle casualties to safety.
+
+
+Cavazos served more than three decades in the service, eventually attaining the rank of four-star general. The Texan died in 2018 at age 88. Fort Hood was renamed in honor of him on May 9, 2023.
+
+
+After an armed helicopter crashed during the Vietnam War on June 5, 1966, Army Captain Hugh R. Nelson Jr. from Rocky Mount, North Carolina, pulled two specialists from the aircraft, shielding one of them from enemy gunfire at the loss of his own life.
+
+
+
+
+While fighting in Vietnam on May 7, 1970, then-Army Private First Class Kenneth J. David drew enemy fire away from injured comrades and onto himself, becoming wounded by a satchel charge.
+
+
+But David kept fighting and pulled fire away from landing Medevac helicopters, and was evacuated after the last helicopter landed. The Ohioan is still living.
+
+
+
+
+On Friday, Biden also awarded eight people the Medal of Valor, which goes to those who have shown exceptional courage in attempting to save human lives.
+
+
+The recipients included the law enforcement officials who responded to a shooter who killed six people on March 27, 2023, at The Covenant School in Nashville, Tennessee.
+
+
+The Nashville Police Department's Sergeant Jeffrey Mathes, Officer Rex Engelbert and detectives Michael Collazo, Ryan Cagle and Zachary Plese rushed to the scene and faced gunfire from the shooter. They cleared out classrooms and ultimately took down the shooter.
+
+
+Biden also recognized Sergeant Tu Tran of the Lincoln, Nebraska, Police Department. On Feb. 22, 2023, Tran swam 9 meters (30 feet) into a frigid pond to rescue a woman from a submerging vehicle.
+
+
+Lieutenant John Vanderstar, a New York City firefighter, received the Medal of Valor for rescuing a mother and child from a burning apartment on Oct. 23, 2022. Separately, New York City firefighter Brendan Gaffney was honored for braving an apartment building fire to save an unconscious child and a pregnant woman. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-awards-medal-of-honor-and-medal-of-valor-to-military-heroes-first-responders-/7924074.html>
+
+---
+
+## Winter storms to hit much of US with snow, ice, biting cold
+
+date: 2025-01-04, from: VOA News USA
+
+A strong snow and ice storm followed by brutally cold conditions will soon smack the eastern two-thirds of the United States as frigid air escapes the Arctic, plunging as far south as Florida, meteorologists said.
+
+
+Starting Saturday, millions of people are going to be hit by moderate to heavy snow from Kansas City to Washington — including a high chance of at least 8 inches of snow between central Kansas and Indiana — the National Weather Service warned Friday.
+
+
+Dangerous ice particularly lethal to power lines — “so heavy like paste, it's hard to move," said private meteorologist Ryan Maue — is likely to set in just south of that in southern Kansas, Missouri, Illinois, Indiana and much of Kentucky and West Virginia.
+
+
+“It's going to be a mess, a potential disaster,” Maue said. “This is something we haven't seen in quite a while.”
+
+
+National Weather Service meteorologist Alex Lamers said Friday that the potential for blizzard conditions was increasing, particularly in Kansas and neighboring portions of the Central Plains, and that wind gusts might reach 50 mph at times.
+
+
+As the storm moves away Monday, hundreds of millions of people in the eastern two-thirds of the nation will be plunged into dangerous, bone-chilling air and wind chills all week, government and private forecasters said. Temperatures could be 12 to 25 degrees Fahrenheit (7 to 14 degrees Celsius) colder than normal as the dreaded polar vortex stretches down from the high Arctic, bringing chilly weather, they said.
+
+
+“This could lead to the coldest January for the U.S. since 2011," Dan DePodwin, director of forecast operations for AccuWeather, said Friday. “It’s not just one day of this. It's going to be three to five, in some cases a week or more of temperatures that are well below historical average.”
+
+
+Look out, Ohio Valley
+
+
+The biggest drop below normal is likely to be centered over the Ohio Valley, but significant unusual cold will extend southward all the way to the Gulf Coast, said Danny Barandiaran, a meteorologist at the National Weather Service’s Climate Prediction Center.
+
+
+Forecasts have moderated a bit from last week, when some computer models envisioned the worst cold spell in decades. Now it's unlikely many cold records will break, but it will still have a big impact on the country, Barandiaran said.
+
+
+There should even be a hard freeze in Florida, while areas near the Canadian border will be around zero, Barandiaran said.
+
+
+“It’s not going to thaw out for a while,” Maue said.
+
+
+Jennifer Francis, a climate scientist at the Woodwell Climate Research Institute, said the initial blasting winds from the north might shock people after a fairly warm last couple of years.
+
+
+“The wind chills are going to be brutal,” she said. "There’ll be a lot of whining, but it is winter. ... Just because the globe is warming doesn’t mean these cold snaps are going away.”
+
+
+This nasty weather may be triggered in part by a fast-warming Arctic, serving as a not-so-gentle reminder that climate change gooses weather extremes, even winter ones, said Francis and Judah Cohen, seasonal forecast director at the private firm Atmospheric and Environmental Research.
+
+
+The polar vortex - ultra-cold air spinning like a top 15 to 30 miles high - usually stays penned up above the North Pole. But sometimes it escapes or stretches down to the United States, Europe or Asia. And that's when large numbers of people get intense doses of cold.
+
+
+Cohen and colleagues have published several studies showing an increase in the polar vortex stretching or wandering. Cohen, Francis and others last month published a study that attributed these cold outbreaks partly to changes from an Arctic that’s warming four times faster than the rest of the globe.
+
+
+The change in temperature and loss of Arctic sea ice make the jet stream — the river of air that moves storm fronts — wavier, allowing plunges of cold air to come south and extreme weather to stay put, Francis said.
+
+
+What's about to hit “is a really good example of these kinds of cases,” Francis said. 
+
+<br> 
+
+<https://www.voanews.com/a/winter-storms-to-hit-much-of-us-with-snow-ice-biting-cold/7923866.html>
 

@@ -1,11 +1,49 @@
 ---
 title: socal north
-updated: 2025-01-10 13:01:40
+updated: 2025-01-11 07:05:01
 ---
 
 # socal north
 
-(date: 2025-01-10 13:01:40)
+(date: 2025-01-11 07:05:01)
+
+---
+
+## FAQs: The LAist newsroom is answering your questions about the fires
+
+date: 2025-01-10, updated: 2025-01-10, from: The LAist
+
+If you have a question about the firestorm, let the LAist newsroom know. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-fires-faqs-laist>
+
+---
+
+## Outpost Media to Present “The Wolves” at The MAIN
+
+date: 2025-01-10, from: City of Santa Clarita
+
+<p>Navigate Big Questions and Wage Tiny Battles with a Pack of Vigorous Adolescent Warriors Remember being a teenager, when the world felt both impossibly big and ridiculously small? “The Wolves” takes you back to that chaotic, cringey and wonderful time, but, this time, you can just sit back and laugh. This funny and poignant play [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/10/outpost-media-to-present-the-wolves-at-the-main/">Outpost Media to Present &#8220;The Wolves&#8221; at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/10/outpost-media-to-present-the-wolves-at-the-main/>
+
+---
+
+## Housing, housing, housing
+
+date: 2025-01-10, from: Catalina Islander
+
+Housing was the number one issue with participants in a recent Islander informal social media survey. The Islander asked: “What are the opportunities and challenges facing Catalina in 2025?” In all, the question received 72 comments, as of 1:33 p.m., Wednesday, Jan. 8. Multiple comments were made the same individuals. Comments that were unrelated to [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/housing-housing-housing/>
 
 ---
 
@@ -57,11 +95,11 @@ Thank you!! To the Avalon Fire Department, City of Avalon staff, L.A. County She
 
 ---
 
-## Mandatory evacuations downgraded for Archer Fire in Granada Hills
+## Archer Fire in Granada Hills brought under control
 
 date: 2025-01-10, updated: 2025-01-10, from: The LAist
 
-The fire broke out at about 10:25 a.m. Friday and is being driven by erratic winds. 
+The fire broke out at about 10:25 a.m. Friday and was quickly doused by water-dropping aircraft. 
 
 <br> 
 
@@ -71,7 +109,7 @@ The fire broke out at about 10:25 a.m. Friday and is being driven by erratic win
 
 ## Curfew orders put in place for Palisades and Eaton fire zones as authorities warn of looters and scammers
 
-date: 2025-01-10, updated: 2025-01-10, from: The LAist
+date: 2025-01-10, updated: 2025-01-11, from: The LAist
 
 L.A. County Sheriff Robert Luna said the curfews will take effect at 6 p.m. and violators will be arrested. 
 
@@ -95,7 +133,7 @@ California has turned to incarcerated firefighters since 1915. To those opposed 
 
 ## Water-dropping Super Scooper aircraft is grounded after colliding with a civilian drone
 
-date: 2025-01-10, updated: 2025-01-10, from: The LAist
+date: 2025-01-10, updated: 2025-01-11, from: The LAist
 
 The drone was flying illegally over the Palisades Fire Thursday, taking a vital firefighting resource out of commission for repairs. 
 
@@ -107,7 +145,7 @@ The drone was flying illegally over the Palisades Fire Thursday, taking a vital 
 
 ## Powerful winds fueling the California wildfires are expected through Friday
 
-date: 2025-01-10, updated: 2025-01-10, from: The LAist
+date: 2025-01-10, updated: 2025-01-11, from: The LAist
 
 Red flag warnings are in effect for parts of Los Angeles and Ventura counties, as the National Weather Service warns that powerful winds and low humidity will increase the risk of fire. 
 
@@ -155,6 +193,18 @@ LAist listeners shared what words and phrases they would like to retire in the n
 
 ## What we know, and don't know, about the rising number of wildfires fatalities
 
+date: 2025-01-10, updated: 2025-01-11, from: The LAist
+
+The Los Angeles County Medical Examiner said the recent wildfires have claimed 11 lives. Official said in a statement they understand "how important it is to identify those lost in the wildfires.' 
+
+<br> 
+
+<https://laist.com/news/climate-environment/eaton-palisades-fires-death-toll>
+
+---
+
+## What we know, and don't know, about the rising number of wildfires fatalities
+
 date: 2025-01-10, updated: 2025-01-10, from: The LAist
 
 The Los Angeles County Medical Examiner said the recent wildfires have claimed 10 lives. Official said in a statement they understand "how important it is to identify those lost in the wildfires.' 
@@ -167,7 +217,7 @@ The Los Angeles County Medical Examiner said the recent wildfires have claimed 1
 
 ## Before and after: See the wildfires' destructive force in satellite images of Malibu and Altadena
 
-date: 2025-01-10, updated: 2025-01-10, from: The LAist
+date: 2025-01-10, updated: 2025-01-11, from: The LAist
 
 Satellite images show the extent of devastation from multiple wildfires burning in Los Angeles County after one day. 
 
@@ -189,11 +239,11 @@ More than 35 long-term care facilities were evacuated in recent days.
 
 ---
 
-## About those false alarms: 2 have now gone out, the latest jarring many awake at 4 a.m.
+## LA County has some answers on why 10 million people got false alarms — twice
 
-date: 2025-01-10, updated: 2025-01-10, from: The LAist
+date: 2025-01-10, updated: 2025-01-11, from: The LAist
 
-The first message went countywide and was followed by another minutes later saying nevermind. 
+Messages went out at 4 p.m. Thursday and 4:24 a.m. Friday, rattling the nerves of an already shaken region. 
 
 <br> 
 
@@ -277,7 +327,7 @@ Experts say parents should validate feelings and create avenues for kids to expr
 
 ## Fact check: What really happened with the Pacific Palisades water hydrants?
 
-date: 2025-01-09, updated: 2025-01-10, from: The LAist
+date: 2025-01-09, updated: 2025-01-11, from: The LAist
 
 Why did water hydrants run dry in the midst of a conflagration? City officials stressed that the shortage was due to low water pressure, not a complete lack of water. But what caused it, and can it be prevented? 
 
@@ -291,7 +341,7 @@ Why did water hydrants run dry in the midst of a conflagration? City officials s
 
 date: 2025-01-09, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01082025_Eaton-Fire_SN_02_elsol-scaled-e1736401747411.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01082025_Eaton-Fire_SN_02_elsol-scaled-e1736401747411.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01082025_Eaton-Fire_SN_02_elsol-scaled-e1736401747411.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01082025_Eaton-Fire_SN_02_elsol-scaled-e1736401747411.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01082025_Eaton-Fire_SN_02_elsol-scaled-e1736401747411.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01082025_Eaton-Fire_SN_02_elsol-scaled-e1736401747411.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01082025_Eaton-Fire_SN_02_elsol-scaled-e1736401747411.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01082025_Eaton-Fire_SN_02_elsol-scaled-e1736401747411.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01082025_Eaton-Fire_SN_02_elsol-scaled-e1736401747411.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01082025_Eaton-Fire_SN_02_elsol-scaled-e1736401747411.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Con ráfagas de viento de Santa Ana, el condado de Los Ángeles estalló en llamas esta semana. Más de mil estructuras y al menos dos víctimas mortales han hecho de [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/01/08/incendios-monumentales-arrasan-los-angeles/">Incendios Monumentales Arrasan Los Ángeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -457,7 +507,7 @@ An unknown number of homes, businesses and cherished community spots have gone u
 
 ## Resources for SoCal fire victims, evacuees and first responders
 
-date: 2025-01-09, updated: 2025-01-10, from: The LAist
+date: 2025-01-09, updated: 2025-01-11, from: The LAist
 
 Here’s where to find shelter, food and even discounted rides. 
 
@@ -481,7 +531,7 @@ Finding shelter for yourself and animals, plus emergency numbers and tips.
 
 ## Fact check: Why is Trump blaming the LA fires on Newsom’s water policies?
 
-date: 2025-01-08, updated: 2025-01-10, from: The LAist
+date: 2025-01-08, updated: 2025-01-11, from: The LAist
 
 President-elect Donald Trump faulted California water policies for the devastating wildfires that are burning in Los Angeles County. The fires started because of fierce winds and extremely dry conditions. 
 
@@ -635,11 +685,11 @@ With the Los Angeles area already reeling from two wildfires, a third broke out 
 
 ---
 
-## Death toll jumps to 10 as fires take staggering toll on LA
+## Health emergency declared, new Palisades Fire evacuations. Containment still low on big fires devastating LA
 
-date: 2025-01-08, updated: 2025-01-10, from: The LAist
+date: 2025-01-08, updated: 2025-01-11, from: The LAist
 
-The rising death underscores the sheer destruction and danger caused by fires that remain very active Conditions are still ripe for additional fires to spark and spread. 
+So far, 11 victims have been confirmed to have died in the two biggest fires. Conditions are still ripe for additional fires to spark and spread. 
 
 <br> 
 
@@ -731,11 +781,11 @@ The funds were cash advances to service providers in the Los Angeles region.
 
 ---
 
-## Eaton Fire: 5 deaths reported so far as containment edges to 3%
+## Containment for Eaton Fire jumped to 15% overnight, but more wind is on its way
 
-date: 2025-01-08, updated: 2025-01-10, from: The LAist
+date: 2025-01-08, updated: 2025-01-11, from: The LAist
 
-Officials say the death toll rose to five Wednesday as the fire continues to burn uncontrolled. A tap water advisory has been issued by the city of Pasadena. 
+Six people have died in the fire. Sheriff's officials say they plan to begin a grid search Saturday, going structure to structure to assess damage and search for additional victims. 
 
 <br> 
 
@@ -839,11 +889,11 @@ Washington, D.C., is the next stop in former President Jimmy Carter's six days o
 
 ---
 
-## Palisades Fire: 2 confirmed deaths and over 5.3K structures estimated to be damaged and destroyed
+## Officials warn more 'critical fire weather' is possible Saturday as Palisades Fire spreads east
 
-date: 2025-01-07, updated: 2025-01-10, from: The LAist
+date: 2025-01-07, updated: 2025-01-11, from: The LAist
 
-The fire is a nightmare scenario for multiple coastal communities, with massive damage and no containment. 
+The fire, which has killed five people, is a nightmare scenario for multiple coastal communities. More evacuation orders were issued late Friday 
 
 <br> 
 
@@ -1081,4 +1131,102 @@ You can display and find free art to take home in your own community, and create
 <br> 
 
 <https://laist.com/news/los-angeles-activities/free-little-art-galleries-how-to-guide>
+
+---
+
+## Film director and screenwriter Jeff Baena, husband of Aubrey Plaza, dead at 47
+
+date: 2025-01-04, updated: 2025-01-05, from: The LAist
+
+The co-writer of I Heart Huckabees and director of The Little Hours was found dead at a Los Angeles residence on Friday. The Los Angeles Police Department is investigating the case. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/film-director-and-screenwriter-jeff-baena-husband-of-aubrey-plaza-dead-at-47>
+
+---
+
+## New Year, New Community Center!
+
+date: 2025-01-04, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Did you know that the City of Santa Clarita now has three community centers? Located at Valencia Summit Park in the former YMCA building, the 12,000-square-foot Valencia Community Center is officially open for residents to visit. Just last month, the Santa Clarita City Council was joined by the community to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/04/new-year-new-community-center/">New Year, New Community Center!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/04/new-year-new-community-center/>
+
+---
+
+## Britt Allcroft, who brought Thomas the Tank Engine to television, dies at 81
+
+date: 2025-01-04, updated: 2025-01-05, from: The LAist
+
+The beloved blue locomotive was first imagined in the 1940s — he starred in stories Rev. Wilbert Awdry told his son. Allcroft adapted Awdry's The Railway Series into Thomas the Tank Engine & Friends. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/britt-allcroft-who-brought-thomas-the-tank-engine-to-television-dies-at-81>
+
+---
+
+## Your own private Rose Parade. Here's the details — for next year
+
+date: 2025-01-04, updated: 2025-01-05, from: The LAist
+
+LAist's very own Julia Paskin is sharing one of living in the San Gabriel Valley's best-kept secrets — the yearly opportunity to see the parade at night. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/your-own-private-rose-parade-heres-the-details-for-next-year>
+
+---
+
+## The fair-weather fan guide to Roki Sasaki, the Dodgers’ latest pursuit
+
+date: 2025-01-04, updated: 2025-01-04, from: The LAist
+
+What to know about the Japanese pitcher who’s ready to sign with a Major League Baseball team this season. 
+
+<br> 
+
+<https://laist.com/news/fan-guide-to-roki-sasaki-dodgers-latest-pursuit>
+
+---
+
+## Go Fact Yourself quiz for January 4
+
+date: 2025-01-04, updated: 2025-01-04, from: The LAist
+
+Our celebrity panelists Ann-Margret and Antonio Villaraigosa go head to head this week on their knowledge of the Raiders football team from the 1980s to the present and L.A. area restaurants. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-january-4>
+
+---
+
+## DA Hochman meets with Menendez family, says he has not decided whether to recommend brothers' release from prison
+
+date: 2025-01-04, updated: 2025-01-05, from: The LAist
+
+Hochman described the meeting with the family as "productive" but noted his staff is still reviewing documents related to the high-profile murder case. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/da-hochman-meets-with-menendez-family-says-he-has-not-decided-whether-to-recommend-brothers-release-from-prison>
+
+---
+
+## DA Hochman meets with Menendez family, says he has not decided whether to recommend brothers' release from prison
+
+date: 2025-01-04, updated: 2025-01-04, from: The LAist
+
+Hochman described the meeting with the family as "productive" but noted his staff is still reviewing documents related to the high-profile murder case. 
+
+<br> 
+
+<https://laist.com/news/da-hochman-meets-with-menendez-family-says-he-has-not-decided-whether-to-recommend-brothers-release-from-prison>
 

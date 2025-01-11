@@ -1,11 +1,63 @@
 ---
 title: home
-updated: 2025-01-10 13:01:43
+updated: 2025-01-11 07:05:03
 ---
 
 # home
 
-(date: 2025-01-10 13:01:43)
+(date: 2025-01-11 07:05:03)
+
+---
+
+## As Wildfires Rage, a 100-Year-Old Copy of Sunset Magazine Offers a Message of Resilience
+
+date: 2025-01-10, from: Sunset Magazine - Living in the West
+
+When natural disaster strikes, Sunset’s editor-in-chief turns to an old issue of the magazine for the long view on the Western tradition of resilience and recovery. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/southern-california-wildfires-resilience>
+
+---
+
+## Written in Hope: Lucy Ferneyhough and Vern Goehring on Values and Vision
+
+date: 2025-01-10, from: California Native Plants Society
+
+<p>Learn how the CNPS DEIJ Vision Statement was created and the journey behind it, told through the words of two CNPS members who have been involved every step of the way.</p>
+<p>The post <a href="https://www.cnps.org/leadership-messages/written-in-hope-lucy-ferneyhough-and-vern-goehring-on-values-and-vision-41733">Written in Hope: Lucy Ferneyhough and Vern Goehring on Values and Vision</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/leadership-messages/written-in-hope-lucy-ferneyhough-and-vern-goehring-on-values-and-vision-41733>
+
+---
+
+## 10 Handy Hints To Make Your Gutters Last Longer and Function Better
+
+date: 2025-01-10, from: Family Handyman Blog
+
+<p>These tips will make it easier to clean your gutters and make sure they're functioning properly when you need them. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/gutter-cleaning-maintenance-tips/">10 Handy Hints To Make Your Gutters Last Longer and Function Better</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/gutter-cleaning-maintenance-tips/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-01-10, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -32,6 +84,18 @@ date: 2025-01-10, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/succulents/grow-baby-toes/>
+
+---
+
+## 35 Quick and Easy Dinners You Can Make This Winter
+
+date: 2025-01-10, from: Sunset Magazine - Living in the West
+
+Quick dinner recipes for long winter nights. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/35-quick-and-easy-dinners-you-can-make-this-winter>
 
 ---
 
@@ -98,30 +162,6 @@ date: 2025-01-10, from: Dwell
 <br> 
 
 <https://www.dwell.com/article/budget-breakdown-jamestown-passive-house-shelter-residential-a6fbffe1>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-01-10, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
-## As Wildfires Rage, a 100-Year-Old Copy of Sunset Magazine Offers a Message of Resilience
-
-date: 2025-01-10, from: Sunset Magazine - Living in the West
-
-When natural disaster strikes, Sunset’s editor-in-chief turns to an old issue of the magazine for the long view on the Western tradition of resilience and recovery. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/southern-california-wildfires-resilience>
 
 ---
 
@@ -383,18 +423,6 @@ O2 Treehouse is known for crafting fantastical escapes, like this new J.R.R Tolk
 
 ---
 
-## 35 Quick and Easy Dinners You Can Make This Winter
-
-date: 2025-01-08, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/35-quick-and-easy-dinners-you-can-make-this-winter>
-
----
-
 ## How to Grow and Care for Baby’s Tears
 
 date: 2025-01-08, from: The Gardener's Path
@@ -430,18 +458,6 @@ If you're planning on decluttering your home in the new year you need to have th
 <br> 
 
 <https://www.sunset.com/home-garden/design/best-organizing-products>
-
----
-
-## Catastrophic Fires Are Ravaging Los Angeles. Here Is How to Stay Safe.
-
-date: 2025-01-08, from: Sunset Magazine - Living in the West
-
-The Palisades, Woodley, and Eaton Fires continue to grow throughout the city. Here's how to stay safe, and how to help out. 
-
-<br> 
-
-<https://www.sunset.com/travel/fires-los-angeles-palisades-eaton>
 
 ---
 
@@ -1167,4 +1183,107 @@ Does your fridge need to be decluttered? A professional organizing expert shares
 <br> 
 
 <https://www.sunset.com/home-garden/how-to-clean-out-fridge>
+
+---
+
+## 7 Awesome Fire Cider Benefits, According to a Nutritionist
+
+date: 2025-01-04, from: Homestead and Chil
+
+<p>Fan of fire cider claim it helps support the immune system to prevent illness and feel better faster. But does it really work? Come see what a nutritionist says about the health benefits of fire cider, and some precautions.</p>
+<p>The post <a href="https://homesteadandchill.com/fire-cider-benefits-ingredients-nutritionist/">7 Awesome Fire Cider Benefits, According to a Nutritionist</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/fire-cider-benefits-ingredients-nutritionist/>
+
+---
+
+## Can Dogs Eat Hard Boiled Eggs? Get the Facts
+
+date: 2025-01-04, from: Yard Life blog
+
+<p>Hard boiled eggs are a popular and nutritious snack for humans, but what about dogs? Many pet owners wonder if ... </p>
+<p class="read-more-container"><a title="Can Dogs Eat Hard Boiled Eggs? Get the Facts" class="read-more button" href="https://ownyardlife.com/can-dogs-eat-hard-boiled-eggs-get-the-facts/#more-22397" aria-label="Read more about Can Dogs Eat Hard Boiled Eggs? Get the Facts">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/can-dogs-eat-hard-boiled-eggs-get-the-facts/">Can Dogs Eat Hard Boiled Eggs? Get the Facts</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/can-dogs-eat-hard-boiled-eggs-get-the-facts/>
+
+---
+
+## What Do Hermit Crabs Eat? Discover the Secrets of Their Diet
+
+date: 2025-01-04, from: Yard Life blog
+
+<p>Hermit crabs are fascinating creatures, known for their unique way of living and their quirky behavior. One of the most ... </p>
+<p class="read-more-container"><a title="What Do Hermit Crabs Eat? Discover the Secrets of Their Diet" class="read-more button" href="https://ownyardlife.com/what-do-hermit-crabs-eat-discover-the-secrets-of-their-diet/#more-22392" aria-label="Read more about What Do Hermit Crabs Eat? Discover the Secrets of Their Diet">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-do-hermit-crabs-eat-discover-the-secrets-of-their-diet/">What Do Hermit Crabs Eat? Discover the Secrets of Their Diet</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-do-hermit-crabs-eat-discover-the-secrets-of-their-diet/>
+
+---
+
+## Are Tulips Toxic to Cats? What Every Pet Owner Needs to Know
+
+date: 2025-01-04, from: Yard Life blog
+
+<p>Tulips are among the most popular and vibrant flowers, often found in gardens and bouquets. However, if you are a ... </p>
+<p class="read-more-container"><a title="Are Tulips Toxic to Cats? What Every Pet Owner Needs to Know" class="read-more button" href="https://ownyardlife.com/are-tulips-toxic-to-cats-what-every-pet-owner-needs-to-know/#more-22389" aria-label="Read more about Are Tulips Toxic to Cats? What Every Pet Owner Needs to Know">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/are-tulips-toxic-to-cats-what-every-pet-owner-needs-to-know/">Are Tulips Toxic to Cats? What Every Pet Owner Needs to Know</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/are-tulips-toxic-to-cats-what-every-pet-owner-needs-to-know/>
+
+---
+
+## Cat Sneezing a Lot? Causes and Solutions!
+
+date: 2025-01-04, from: Yard Life blog
+
+<p>Cats are beloved pets, often cherished for their playful and curious nature. However, when a cat starts sneezing a lot, ... </p>
+<p class="read-more-container"><a title="Cat Sneezing a Lot? Causes and Solutions!" class="read-more button" href="https://ownyardlife.com/cat-sneezing-a-lot-causes-and-solutions/#more-22386" aria-label="Read more about Cat Sneezing a Lot? Causes and Solutions!">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/cat-sneezing-a-lot-causes-and-solutions/">Cat Sneezing a Lot? Causes and Solutions!</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/cat-sneezing-a-lot-causes-and-solutions/>
+
+---
+
+## Can Dogs Eat Olives? The Surprising Truth You Should Know!
+
+date: 2025-01-04, from: Yard Life blog
+
+<p>Olives are a popular snack enjoyed by many people worldwide, often praised for their health benefits. But as a responsible ... </p>
+<p class="read-more-container"><a title="Can Dogs Eat Olives? The Surprising Truth You Should Know!" class="read-more button" href="https://ownyardlife.com/can-dogs-eat-olives-the-surprising-truth-you-should-know/#more-22383" aria-label="Read more about Can Dogs Eat Olives? The Surprising Truth You Should Know!">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/can-dogs-eat-olives-the-surprising-truth-you-should-know/">Can Dogs Eat Olives? The Surprising Truth You Should Know!</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/can-dogs-eat-olives-the-surprising-truth-you-should-know/>
+
+---
+
+## Learn How to Grow Roses at Menagerie Farm and Flower
+
+date: 2025-01-04, from: California Grown
+
+<p>Have you ever dreamed of having a rose garden? Felicia Alvarez of Menagerie Farm and Flower wants to help you make those dreams a reality.&#160; Born and raised on a small farm in Sutter County, Felicia Alvarez&#8217;s family grew prunes, rice and a handful of other crops. Felicia spent her childhood helping out on the [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/menagerie-farm/" data-wpel-link="internal" target="_self">Learn How to Grow Roses at Menagerie Farm and Flower </a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/menagerie-farm/>
 

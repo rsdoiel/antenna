@@ -1,11 +1,23 @@
 ---
 title: food
-updated: 2025-01-10 13:01:44
+updated: 2025-01-11 07:05:05
 ---
 
 # food
 
-(date: 2025-01-10 13:01:44)
+(date: 2025-01-11 07:05:05)
+
+---
+
+## The Best Ice Cream Maker (2025) to Churn the Pint of Your Dreams
+
+date: 2025-01-10, from: Bon Appetet
+
+Invest in an ice cream maker to churn all the weird, wild, homemade pints of your dreams. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-ice-cream-maker>
 
 ---
 

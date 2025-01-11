@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-01-10 13:01:42
+updated: 2025-01-11 07:05:03
 ---
 
 # games
 
-(date: 2025-01-10 13:01:42)
+(date: 2025-01-11 07:05:03)
+
+---
+
+## Flow, Netflix’s Ad Vitam, Look Into My Eyes, and every movie new to streaming this week
+
+date: 2025-01-10, updated: 2025-01-09, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Flow, the Golden Globe-winning animated feature from director Gints Zilbalodis, washes ashore to purchase on VOD. There’s tons of other exciting releases on VOD [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/504067/new-movies-watch-streaming-flow-netflix-ad-vitam-look-into-my-eyes>
+
+---
+
+## These solo tabletop RPGs will break your heart and put it back together
+
+date: 2025-01-10, updated: 2025-01-10, from: Polygon Website
+
+For at least the last decade, video games have been offering profound emotional single-player experiences, yet the recent surge of solo tabletop role-playing games has shown that pen &#38; paper RPGs can be just as heartbreaking — if not more.  Traditionally, tabletop role-playing games have been opportunities for players to come together at the table [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/507555/solo-tabletop-rpgs-to-break-your-heart-cezar-capacle-momatoes-kaiya>
+
+---
+
+## Love and Deepspace introduces a new innovation in video games: a period tracker
+
+date: 2025-01-10, updated: 2025-01-10, from: Polygon Website
+
+Love and Deepspace, the mega-popular mobile game from the studios behind Infinity Nikki, will be getting a head-turning feature in its next update: a period tracker. Released stateside in 2024 by InFold Games and Papergames, Love and Deepspace is a free-to-download otome game where players meet, date, and get to know a variety of swoon-worthy [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/506834/love-and-deepspace-update-period-tracker>
+
+---
+
+## Marvel Rivals mod support is dead
+
+date: 2025-01-10, updated: 2025-01-10, from: Polygon Website
+
+Fun’s over: The latest update to Marvel Rivals has killed support for PC mods that change the looks of its heroes, like turning Iron Man into Vegeta or Mantis into a goth. Just after season 1 started on Friday, players started asking in the Marvel Rivals Discord why their mods weren’t working. It turns out [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/507447/marvel-rivals-netease-disables-mod-support>
+
+---
+
+## All Team-Up abilities in Marvel Rivals and how to do them
+
+date: 2025-01-10, updated: 2025-01-10, from: Polygon Website
+
+Team-Up abilities are thematically appropriate moves in Marvel Rivals, allowing two or more heroes from the Marvel Universe to pair up and kick ass as a group. These unique effects can be extremely powerful, and can even change the tide of battle if you know what you’re doing. Season 1 added a new Team-Up for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/491013/team-up-abilities-list-all>
 
 ---
 
@@ -369,18 +429,6 @@ Transformers: Reactivate has been canceled, developer Splash Damage announced wi
 
 ---
 
-## How to sign up for the Elden Ring Nightreign network test
-
-date: 2025-01-08, updated: 2025-01-08, from: Polygon Website
-
-Elden Ring Nightreign, a cooperative roguelike Elden Ring spinoff, will be playable via a network test in February. Sign-ups for the test itself open later this week. You’ll experience a portion of what Nightreign has to offer, including a glimpse of its gameplay, classes, and progression — as long as you get selected to be [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/elden-ring-nightreign-guides/505147/network-test-beta-sign-up-dates-how-to>
-
----
-
 ## Two of our favorite gaming SSDs are on sale for their lowest price ever
 
 date: 2025-01-08, updated: 2025-01-08, from: Polygon Website
@@ -666,4 +714,52 @@ Pokémon Go is having a Sprigatito Community Day event on Jan. 5 from 2-5 p.m. i
 <br> 
 
 <https://www.polygon.com/pokemon-go-guide/503810/sprigatito-community-day-event-shiny-moveset-floragato-meowscarada>
+
+---
+
+## Quick, watch one of the best sci-fi TV seasons ever while Apple TV Plus is free
+
+date: 2025-01-04, updated: 2025-01-06, from: Polygon Website
+
+Apple TV Plus is free the weekend of Jan. 3-5 and, like a lot of people, I have a suggestion for what you should watch. Most of the suggestions are probably fantastic and worthwhile, as Apple has thrown its trillion-dollar weight around the streaming wars and assembled a shockingly good catalogue of original shows. But [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sci-fi/503030/best-sci-fi-tv-foundation-season-2-apple-tv-plus-watch-stream>
+
+---
+
+## GTA Online role-play server launches new phase with wild custom options
+
+date: 2025-01-04, updated: 2025-01-03, from: Polygon Website
+
+While fans eagerly anticipate Grand Theft Auto 6, players are still getting plenty of mileage out of the game’s predecessor. Rockstar is continuing to provide official updates for GTA Online, and players are building their own role-play servers set in San Andreas. These servers’ players build their own cultures, implementing homebrewed mechanics and new ways [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/504002/gta-online-purplerp-1-0-update>
+
+---
+
+## The best movies new to streaming this January
+
+date: 2025-01-04, updated: 2025-01-03, from: Polygon Website
+
+Happy New Year, Polygon readers! 2024 is dead and gone; long live 2025, or at least for the next… *glares at calendar* 361 days. The year is starting off strong with a ton of highly anticipated theatrical releases, including Steven Soderbergh’s Presence, Leigh Whannell’s Wolf Man, and Den of Thieves 2: Pantera. If you’re looking [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/502692/best-new-movies-netflix-amazon-prime-max-hulu-january-2025>
+
+---
+
+## Pokémon Go ‘Fidough Fetch’ event guide
+
+date: 2025-01-04, updated: 2025-01-04, from: Polygon Website
+
+Pokémon Go is having a global challenge event themed around dog-like Pokémon, called “Fidough Fetch.” Rather than running in your local time, the event will take place at a global time. The event starts on Jan. 3 at 6 p.m. EST and ends on Jan. 8 at 1 a.m. EST. The meat of this event [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/503798/fidough-fetch-global-challenge-rewards-field-research>
 

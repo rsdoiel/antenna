@@ -1,11 +1,83 @@
 ---
 title: science and technology
-updated: 2025-01-10 13:01:41
+updated: 2025-01-11 07:05:02
 ---
 
 # science and technology
 
-(date: 2025-01-10 13:01:41)
+(date: 2025-01-11 07:05:02)
+
+---
+
+## First NASA Neurodiversity Network Intern to Present at the American Geophysical Union Annual Conference
+
+date: 2025-01-10, from: NASA breaking news
+
+The NASA Science Activation Program’s NASA’s Neurodiversity Network (N3) project sponsors a summer internship program for high school students, in which learners on the autism spectrum are matched with NASA Subject Matter Experts. N3 intern Lillian Hall and mentor Dr. Juan Carlos Martinez Oliveros presented Lilly’s summer research project on December 9 at the 2024 […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/first-nasa-neurodiversity-network-intern-to-present-at-the-american-geophysical-union-annual-conference/>
+
+---
+
+## Google and Linux Foundation form Chromium love club
+
+date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
+
+<h4>Right as Uncle Sam pushes for Chrome sell-off, eh?</h4> <p>While Google awaits a decision about whether it will be required to sell its Chrome browser as an antitrust remedy, the search giant has joined with the Linux Foundation to announce an initiative to support the open source Chromium project upon which the Chrome browser depends.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/10/google_linux_foundation_chromium/>
+
+---
+
+## Los Angeles Fires Seen from International Space Station
+
+date: 2025-01-10, from: NASA breaking news
+
+On Jan. 10, 2025, NASA astronaut Don Pettit posted two images of the Los Angeles fires from the International Space Station. Multiple destructive fires broke out in the hills of Los Angeles County in early January 2025, fueled by a dry landscape and winds that gusted up to 100 miles per hour. See satellite imagery of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/los-angeles-fires-seen-from-international-space-station/>
+
+---
+
+## Chinese cyber-spies peek over shoulder of officials probing real-estate deals near American military bases
+
+date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
+
+<h4>Gee, wonder why Beijing is so keen on the – checks notes – Committee on Foreign Investment in the US</h4> <p>Chinese cyber-spies who broke into the US Treasury Department also stole documents from officials investigating real-estate sales near American military bases, it&#39;s reported.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/10/china_treasury_foreign_investment/>
+
+---
+
+## NASA Research To Be Featured at American Astronomical Society Meeting
+
+date: 2025-01-10, from: NASA breaking news
+
+From new perspectives on the early universe to illuminating the extreme environment near a black hole, discoveries from NASA missions will be highlighted at the 245th meeting of the American Astronomical Society (AAS). The meeting will take place Jan. 12-16 at the Gaylord National Resort &#038; Convention Center in National Harbor, Maryland. Press conferences highlighting […] 
+
+<br> 
+
+<https://science.nasa.gov/directorates/smd/astrophysics-division/nasa-research-to-be-featured-at-american-astronomical-society-meeting/>
+
+---
+
+## Four Lynx Have Been Illegally Released Into the Scottish Highlands. Officials Think ‘Guerrilla Rewilding’ Is to Blame
+
+date: 2025-01-10, from: Smithsonian Magazine
+
+So far, only two of the four lynx have been recaptured, leaving authorities scrambling across the snowy woods to find the missing cats 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/four-lynx-have-been-illegally-released-into-the-scottish-highlands-officials-think-guerrilla-rewilding-is-to-blame-180985812/>
 
 ---
 
@@ -345,7 +417,7 @@ date: 2025-01-10, updated: 2025-01-10, from: The Register (UK I.T. News)
 
 ---
 
-## America’s First ‘Viral’ Post Was Published on This Day in 1776, When Thomas Paine’s Common Sense Sparked a Revolution
+## America’s First ‘Viral’ Post Was Published on This Day in 1776, When Thomas Paine’s ‘Common Sense’ Sparked a Revolution
 
 date: 2025-01-10, from: Smithsonian Magazine
 
@@ -491,7 +563,7 @@ date: 2025-01-09, updated: 2025-01-10, from: The Register (UK I.T. News)
 
 ## Short-lived bling, dumb smart things, and more: The worst in show from CES 2025
 
-date: 2025-01-09, updated: 2025-01-09, from: The Register (UK I.T. News)
+date: 2025-01-09, updated: 2025-01-10, from: The Register (UK I.T. News)
 
 <h4>The honors are dubious, but boy, so is the tech</h4> <p><strong>ces</strong>  The Consumer Electronics Show is back to showcase not just the cutting edge of innovation but also the worst of what&#39;s possible when modern tech collides with today&#39;s culture of capitalist excess.…</p> 
 
@@ -637,7 +709,7 @@ date: 2025-01-09, updated: 2025-01-10, from: The Register (UK I.T. News)
 
 date: 2025-01-09, from: OS News
 
-VLC media player, the popular open-source software developed by nonprofit VideoLAN, has topped 6 billion downloads worldwide and teased an AI-powered subtitle system. The new feature automatically generates real-time subtitles — which can then also be translated in many languages — for any video using open-source AI models that run locally on users’ devices, eliminating the need for internet connectivity or cloud services, VideoLAN demoed at CES. ↫ Manish Singh at TechCrunch VLC is choosing to throw users who rely on subtitles for accessibility or translation reasons under the bus. Using speech-to-text and even &#8220;AI&#8221; as a starting point for a proper accessibility expert of translator is fine, and can greatly reduce the workload. However, as anyone who works with STT and &#8220;AI&#8221; translation software knows, their output is highly variable and wildly unreliable, especially once English isn&#8217;t involved. Dumping the raw output of these tools onto people who rely on closed captions and subtitles to even be able to view videos is not only lazy, it&#8217;s deeply irresponsible and demonstrates a complete lack of respect and understanding. I was a translator for almost 15 years, with two university degrees on the subject to show for it. This is obviously a subject close to my heart, and the complete and utter lack of respect and understanding from Silicon Valley and the wider technology world for proper localisation and translation has been a thorn in my side for decades. We all know about bad translations, but it goes much deeper than that &#8211; with Silicon Valley&#8217;s utter disregard for multilingual people drawing most of my ire. Despite about 60 million people in the US alone using both English and Spanish daily, software still almost universally assumes you speak only one language at all times, often forcing fresh installs for something as simple as changing a single application&#8217;s language, or not even allowing autocorrect on a touch keyboard to work with multiple languages simultaneously. I can&#8217;t even imagine how bad things are for people who, for instance, require closed-captions for accessibility reasons. Imagine just how bad the &#8220;AI&#8221;-translated Croation closed-captions on an Italian video are going to be &#8211; that&#8217;s two levels of &#8220;AI&#8221; brainrot between the source and the ears of the Croation user. It seems subtitles and closed captions are going to be the next area where technology companies are going to slash costs, without realising &#8211; or, more likely, without giving a shit &#8211; that this will hurt users who require accessibility or translations more than anything. Seeing even an open source project like VLC jump onto this bandwagon is disheartening, but not entirely unexpected &#8211; the hype bubble is inescapable, and a lot more respected projects are going to throw their users under the bus before this bubble pops. &#8230;wait a second. Why is VLC at CES in the first place? 
+VLC media player, the popular open-source software developed by nonprofit VideoLAN, has topped 6 billion downloads worldwide and teased an AI-powered subtitle system. The new feature automatically generates real-time subtitles — which can then also be translated in many languages — for any video using open-source AI models that run locally on users’ devices, eliminating the need for internet connectivity or cloud services, VideoLAN demoed at CES. ↫ Manish Singh at TechCrunch VLC is choosing to throw users who rely on subtitles for accessibility or translation reasons under the bus. Using speech-to-text and even &#8220;AI&#8221; as a starting point for a proper accessibility expert of translator is fine, and can greatly reduce the workload. However, as anyone who works with STT and &#8220;AI&#8221; translation software knows, their output is highly variable and wildly unreliable, especially once English isn&#8217;t involved. Dumping the raw output of these tools onto people who rely on closed captions and subtitles to even be able to view videos is not only lazy, it&#8217;s deeply irresponsible and demonstrates a complete lack of respect and understanding. I was a translator for almost 15 years, with two university degrees on the subject to show for it. This is obviously a subject close to my heart, and the complete and utter lack of respect and understanding from Silicon Valley and the wider technology world for proper localisation and translation has been a thorn in my side for decades. We all know about bad translations, but it goes much deeper than that &#8211; with Silicon Valley&#8217;s utter disregard for multilingual people drawing most of my ire. Despite about 60 million people in the US alone using both English and Spanish daily, software still almost universally assumes you speak only one language at all times, often forcing fresh installs for something as simple as changing a single application&#8217;s language, or not even allowing autocorrect on a touch keyboard to work with multiple languages simultaneously. I can&#8217;t even imagine how bad things are for people who, for instance, require closed-captions for accessibility reasons. Imagine just how bad the &#8220;AI&#8221;-translated Croatian closed-captions on an Italian video are going to be &#8211; that&#8217;s two levels of &#8220;AI&#8221; brainrot between the source and the ears of the Croatian user. It seems subtitles and closed captions are going to be the next area where technology companies are going to slash costs, without realising &#8211; or, more likely, without giving a shit &#8211; that this will hurt users who require accessibility or translations more than anything. Seeing even an open source project like VLC jump onto this bandwagon is disheartening, but not entirely unexpected &#8211; the hype bubble is inescapable, and a lot more respected projects are going to throw their users under the bus before this bubble pops. &#8230;wait a second. Why is VLC at CES in the first place? 
 
 <br> 
 
@@ -2382,4 +2454,112 @@ The building of the iconic "industry orange" landmark began on this day in 1933
 <br> 
 
 <https://www.smithsonianmag.com/smart-news/on-this-day-in-1933-the-lethal-construction-of-the-golden-gate-bridge-began-in-san-francisco-180985773/>
+
+---
+
+## One dog v. the Windows 3.1 graphics stack
+
+date: 2025-01-04, from: OS News
+
+I&#8217;d like to write a full-fledged blog post about these adventures at some point, but for now I&#8217;m going to focus on one particular side quest: getting acceptable video output out of the 1000H when it&#8217;s running Windows 3.11 for Workgroups. By default, Windows 3.x renders using the standard &#8220;lowest common denominator&#8221; of video: VGA 640&#215;480 at 16 colours. Unfortunately this looks awful on the Eee PC&#8217;s beautiful 1024&#215;600 screen, and it&#8217;s not even the same aspect ratio. But how can we do better? ↫ Ash Wolf If you ever wanted to know how display drivers work in Windows 3.x, here&#8217;s your chance. This definitely falls into the category of light reading for the weekend. 
+
+<br> 
+
+<https://www.osnews.com/story/141484/one-dog-v-the-windows-3-1-graphics-stack/>
+
+---
+
+## The Mac OS X dock turns 25
+
+date: 2025-01-04, from: OS News
+
+James Thomson, developer of, originally, DragThing and now PCalc, also happens to be the developer of the very first publicly shown version of the Mac OS dock. Now that it was shown to the world by Steve Jobs exactly 25 years ago, he reminisces about what it was like to create such an iconic piece of software history. The new Finder (codename “Millennium”) was at this point being written on Mac OS 9, because Mac OS X wasn’t exactly firing on all cylinders quite yet. The filesystem wasn’t working well, which is not super helpful when you are trying to write a user interface on top of it. The Dock was part of the Finder then, and could lean on all the high level C++ interfaces for dealing with disks and files that the rest of the team was working on. So, I started on Mac OS 9, working away in Metrowerks Codewarrior. The Finder was a Carbon app, so we could actually make quite a bit of early progress on 9, before the OS was ready for us. I vividly remember the first time we got the code running on Mac OS X. ↫ James Thomson I especially like the story about how Steve Jobs really demanded Thomson live in Cupertino in order to work on the dock, instead of remaining remote in Ireland. Thomson and his wife decided not to move to the United States, so he figured he&#8217;d lose his assignment, or maybe even his job altogether. Instead, his managers told him something along the lines of &#8220;don&#8217;t worry, we&#8217;ll just tell Steve you moved&#8221;. What followed were a lot of back-and-forth flights between Ireland and California, and Thomson&#8217;s colleagues telling Steve all sorts of lies and cover stories for whenever he was in Ireland and Steve noticed. Absolutely wild. The dock is one of those things from my years using Mac OS X &#8211; between roughly 2003 and 2009 or so &#8211; that has stuck around with me ever since. To this day, I have a dock at the bottom of my screen that looks and works eerily similar to the Mac OS X dock, and I doubt that&#8217;s going to change any time soon. It suits my way of using my computer incredibly well, and it&#8217;s the first thing I set up on any new installation I perform (I use Fedora KDE). 
+
+<br> 
+
+<https://www.osnews.com/story/141482/the-mac-os-x-dock-turns-25/>
+
+---
+
+## How datacenters use water and why kicking the habit is nearly impossible
+
+date: 2025-01-04, updated: 2025-01-07, from: The Register (UK I.T. News)
+
+<h4>If they&#39;re not consuming H<sub>2</sub>O directly, the power plant almost certainly is</h4> <p><strong>Feature</strong>  The explosive growth of datacenters that followed ChatGPT&#39;s debut in 2022 has shone a spotlight on the environmental impact of these power-hungry facilities.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/04/how_datacenters_use_water/>
+
+---
+
+## Encryption backdoor debate 'done and dusted,' former White House tech advisor says
+
+date: 2025-01-04, updated: 2025-01-06, from: The Register (UK I.T. News)
+
+<h4>When the FBI urges E2EE, you know it&#39;s serious business</h4> <p><strong>interview</strong>  In the wake of the Salt Typhoon hacks, which lawmakers and privacy advocates alike have called the worst telecoms breach in America&#39;s history, the US government agencies have reversed course on encryption.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/04/encryption_backdoor_debate/>
+
+---
+
+## Solomon Northup's 'Twelve Years a Slave' Came to an End as He Regained His Long-Awaited Freedom on This Day in 1853
+
+date: 2025-01-04, from: Smithsonian Magazine
+
+Northup’s memoir told the story of his kidnapping and years of enslavement in Louisiana. The book became a national best seller and inspired an Oscar-winning film 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/solomon-northups-twelve-years-a-slave-came-to-an-end-as-he-regained-his-long-awaited-freedom-on-this-day-in-1853-180985722/>
+
+---
+
+## Shackleton's Endurance sets sail for polar peril in Lego
+
+date: 2025-01-04, updated: 2025-01-04, from: The Register (UK I.T. News)
+
+<h4>Because we&#39;re all still kids – just richer</h4> <p>The debate as to whether Lego is a toy or not largely depends on your willingness to accept revisiting childhood excitement as an adult, especially when it&#39;s now far more likely to be you footing the bill than your parents.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/04/lego_endurance/>
+
+---
+
+## Atos denies Space Bears' ransomware claims – with a 'but'
+
+date: 2025-01-04, updated: 2025-01-06, from: The Register (UK I.T. News)
+
+<h4>Points finger at third-party infrastructure being breached</h4> <p><strong>updated</strong>  French tech giant Atos today denied that Space Bears criminals breached its systems - but noted that third-party infrastructure was compromised by the ransomware crew, and that files accessed by the crooks included &#34;data mentioning the Atos company name.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/04/atos_denies_space_bears_ransomware/>
+
+---
+
+## Honey co-founder's Pie Adblock called out for copying GPL'd uBlock Origin files
+
+date: 2025-01-04, updated: 2025-01-04, from: The Register (UK I.T. News)
+
+<h4>And, magically, a repo appears on GitHub with attribution</h4> <p>Closed-source browser extension Pie Adblock was this week accused of copying code and text from rival uBlock Origin in violation of the latter&#39;s software license – the GNU GPL version 3.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/04/pie_adblock_ublock_origin_code/>
+
+---
+
+## Amazon worker – struck and shot in New Orleans terror attack – initially denied time off
+
+date: 2025-01-04, updated: 2025-01-04, from: The Register (UK I.T. News)
+
+<h4>Web giant now pledges full support</h4> <p>A warehouse worker at an Amazon facility in Mobile, Alabama, who was struck by a truck and shot in the New Orleans New Year&#39;s Day deadly terror attack, was initially denied medical leave by the internet mega-giant, possibly due to an HR mix-up.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/04/amazon_worker_health/>
 

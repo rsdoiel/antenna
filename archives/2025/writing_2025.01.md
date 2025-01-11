@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-01-10 13:01:42
+updated: 2025-01-11 07:05:02
 ---
 
 # writing
 
-(date: 2025-01-10 13:01:42)
+(date: 2025-01-11 07:05:02)
+
+---
+
+## ⚖️ #231 - Take A Chance On Me
+
+date: 2025-01-10, from: Interesting, a blog on writing
+
+You gotta know when to hold 'em, and so forth. 
+
+<br> 
+
+<https://inneresting.substack.com/p/231-take-a-chance-on-me>
 
 ---
 
@@ -563,4 +575,17 @@ date: 2025-01-05, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/01/dream-machine-a-portrait-of-artificial-intelligence-by-appupen-laurent-daudet-review-by-archita-mittra/>
+
+---
+
+## The Midnight Club by Margot Harrison: Review by Gabino Iglesias
+
+date: 2025-01-04, from: Locus Magazine
+
+<p><strong>The Midnight Club</strong>, Margot Harrison (Graydon House 978-1-52580-988-0, $28.00, 368pp, hc) September 2024.</p>
+<p>Margot Harrison’s <strong>The Midnight Club </strong>is one of those novels that defies catego­rization. At its core, this is a murder mystery (or a mystery about a suicide that some folks think could have been a murder). However, it’s also a narrative about the changing nature of friendship as well as a science fiction tale about a  <a href="https://locusmag.com/2025/01/the-midnight-club-by-margot-harrison-review-by-gabino-iglesias/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/the-midnight-club-by-margot-harrison-review-by-gabino-iglesias/>
 

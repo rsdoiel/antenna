@@ -1,11 +1,36 @@
 ---
 title: pacific
-updated: 2025-01-10 13:01:40
+updated: 2025-01-11 07:05:01
 ---
 
 # pacific
 
-(date: 2025-01-10 13:01:40)
+(date: 2025-01-11 07:05:01)
+
+---
+
+## Tiny robots could deliver drugs in human body, more
+
+date: 2025-01-10, from: University of Hawaiʻi News
+
+<p>Janus particles can detect and navigate towards chemical signals, much like bacteria-sensing food.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/10/tiny-robots-janus-particles/">Tiny robots could deliver drugs in human body, more</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/10/tiny-robots-janus-particles/>
+
+---
+
+## North Korean launch of ‘new’ missile fires up Guam security debate
+
+date: 2025-01-10, from: Pacific Island Times
+
+North Korea’s launch of a “new” intermediate range ballistic missile earlier this week that “will reliably contain any rivals in the Pacific 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/north-korean-launch-of-new-missile-fires-up-guam-security-debate>
 
 ---
 
@@ -300,6 +325,34 @@ date: 2025-01-10, from: Hawaii Tribune Harold
 
 ---
 
+## HVO: More fountaining could occur in Kilauea volcano by Monday
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaiian Volcano Observatory reported today that Kilauea&#8217;s summit area is slowly inflating, indicating that new magma is accumulating below the surface.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/hawaii-news/hvo-more-fountaining-could-occur-in-kilauea-volcano-by-monday/>
+
+---
+
+## High surf continues today in W. Hawaii, but could ease on Saturday
+
+date: 2025-01-10, from: Hawaii Tribune Harold
+
+
+				<p>Strong waves continued to pummel the coastline today in West Hawaii, but were expected to calm down Saturday, forecasters said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/10/hawaii-news/high-surf-continues-today-in-w-hawaii-but-could-ease-on-saturday/>
+
+---
+
 ## HAWAIʻI’S BAD DRIVER REPORT
 
 date: 2025-01-10, from: INSIGHTS ON PBS HAWAIʻI
@@ -563,6 +616,18 @@ date: 2025-01-10, from: Island Times
 
 ---
 
+## Need a winter DIY project? Time to level up your uneven basement flooring
+
+date: 2025-01-10, updated: 2025-01-10, from: Marianas Variety
+
+(BPT) - Stuck indoors? Winter is the perfect time to address indoor issues that affect the functionality, safety, appearance and value of your home. One great example: A basement or other room with unlevel flooring, new concrete floors or pre-cast slabs with unacceptable finishes — or existing concrete floors with damaged finishes. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/real_estate/need-a-winter-diy-project-time-to-level-up-your-uneven-basement-flooring/article_a1f43566-8062-5bb0-a85d-540a975289f6.html>
+
+---
+
 ## Guam residents still burdened by credit card costs despite fee waiver law
 
 date: 2025-01-10, from: Pacific Island Times
@@ -638,6 +703,66 @@ The post <a href="https://www.hawaii.edu/news/2025/01/09/shidler-college-recent-
 <br> 
 
 <https://www.hawaii.edu/news/2025/01/09/shidler-college-recent-grads-employment/>
+
+---
+
+## Buoyant dollar keeps pound, euro and yen under pressure
+
+date: 2025-01-09, updated: 2025-01-09, from: Marianas Variety
+
+SINGAPORE (Reuters) — The U.S. dollar charged ahead on Thursday underpinned by rising Treasury yields, putting the yen, sterling and euro under pressure near multi-month lows amid the shifting threat of tariffs. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/buoyant-dollar-keeps-pound-euro-and-yen-under-pressure/article_1ca74628-ce81-11ef-8270-8725d4cd53fa.html>
+
+---
+
+## Tinian mayor, council honor long-serving restaurant
+
+date: 2025-01-09, updated: 2025-01-09, from: Marianas Variety
+
+TINIAN Mayor Edwin P. Aldan and the 19th Tinian Municipal Council on Wednesday thanked and honored J.C. Cafe for its outstanding contributions to the island community. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/tinian-mayor-council-honor-long-serving-restaurant/article_9b8a0d50-ce49-11ef-9098-c343c3ab5ec2.html>
+
+---
+
+## Los Angeles wildfires spread to Hollywood as 100,000 ordered to evacuate
+
+date: 2025-01-09, updated: 2025-01-09, from: Marianas Variety
+
+LOS ANGELES (Reuters) — Raging wildfires surrounding Los Angeles spread to the Hollywood Hills on Wednesday, after five other fires in the area killed at least five people, destroyed hundreds of homes and stretched firefighting resources and water supplies to the limit. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/los-angeles-wildfires-spread-to-hollywood-as-100-000-ordered-to-evacuate/article_36b50018-ce73-11ef-9fc8-d394074d6a8e.html>
+
+---
+
+## Real ID driver’s licenses to be issued again by February, DPS says
+
+date: 2025-01-09, updated: 2025-01-09, from: Marianas Variety
+
+THE Department of Public Safety’s Bureau of Motor Vehicles plans to resume issuing Real ID-compliant driver's licenses by February, Assistant Chief of Police Simon Manacop said. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/real-id-driver-s-licenses-to-be-issued-again-by-february-dps-says/article_f973281e-ce69-11ef-873e-9f87f43f011d.html>
+
+---
+
+## CNMI DOL to host training outreach event on Rota on Jan. 10
+
+date: 2025-01-09, updated: 2025-01-09, from: Marianas Variety
+
+THE CNMI Department of Labor is inviting residents of Rota to “Level Up Your Career!,” a training outreach event at the Puesto Grill function room in Songsong on Friday, Jan. 10 from 1 p.m. to 4 p.m. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-dol-to-host-training-outreach-event-on-rota-on-jan-10/article_b44a1120-ce42-11ef-a4e5-0b59d6ebfa5c.html>
 
 ---
 
@@ -2768,4 +2893,248 @@ Lessons from Everyday Life By Theodore Lewis   Bridg man, MI —When I was in t
 <br> 
 
 <https://www.pacificislandtimes.com/post/ticket-transactions-and-a-barcode-stress>
+
+---
+
+## Johnson reelected as speaker after putting down GOP revolt
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Speaker Mike Johnson on Friday won reelection to the top post in the House, salvaging his job in a dramatic last-minute turnabout by putting down a revolt from conservatives who initially voted to block his ascent.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/johnson-reelected-as-speaker-after-putting-down-gop-revolt/>
+
+---
+
+## Nurses union gives Queen’s notice of dates for 3-day strike
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Nurses&#8217; Association this morning informed management at The Queen&#8217;s Health System of the official start date of its collective three-day strike on Jan. 13.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/hawaii-news/nurses-union-gives-queens-notice-of-dates-for-3-day-strike/>
+
+---
+
+## Surgeon general calls for cancer warnings on alcohol
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>Alcohol is a leading preventable cause of cancer, and alcoholic beverages should carry a warning label as packs of cigarettes do, the U.S. surgeon general said Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/surgeon-general-calls-for-cancer-warnings-on-alcohol/>
+
+---
+
+## Judge upholds Trump’s conviction but signals no jail time
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A New York judge Friday upheld President-elect Donald Trump&#8217;s felony conviction but signaled that he was inclined to spare him any punishment, a striking development in a case that had spotlighted an array of criminal acts and imperiled the former and future president&#8217;s freedom.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/judge-upholds-trumps-conviction-but-signals-no-jail-time/>
+
+---
+
+## Medical examiner identifies 2 of 3 women killed in Aliamanu explosion
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>The Honolulu Department of the Medical Examiner today identified two of the three people killed in the New Year&#8217;s illegal fireworks explosion at an Aliamanu home.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/hawaii-news/medical-examiner-identifies-2-of-3-women-killed-in-aliamanu-explosion/>
+
+---
+
+## Soldier in Tesla blast had PTSD and feared US ‘collapse,’ officials say
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>The Green Beret who blew up a Tesla Cybertruck outside the Trump International Hotel in Las Vegas this week and took his own life had written that he wanted to send a &#8220;wake-up call&#8221; to the country, authorities said Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/soldier-in-tesla-blast-had-ptsd-and-feared-us-collapse-officials-say/>
+
+---
+
+## Impeached president faces down detention bid, stoking South Korea’s crisis
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL, South Korea &#8212; When around 100 criminal investigators and police officers entered a hilly compound in central Seoul on Friday morning, they tried to achieve something that has never been done before in South Korea: detain a sitting president.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/impeached-president-faces-down-detention-bid-stoking-south-koreas-crisis/>
+
+---
+
+## Passengers say Turkish Airlines flights have unwelcome guests: bedbugs
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>Shortly after boarding her Turkish Airlines flight from Johannesburg to Istanbul in March, Patience Titcombe, 36, from Phoenix, noticed a small bug crawling on her seat when she got up to use the restroom.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/passengers-say-turkish-airlines-flights-have-unwelcome-guests-bedbugs/>
+
+---
+
+## European ministers visit Syria to strengthen ties with new government
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>Syria&#8217;s new leaders met the French and German foreign ministers in the capital, Damascus, on Friday in one of the highest-level Western diplomatic visits since the fall of President Bashar Assad last month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/european-ministers-visit-syria-to-strengthen-ties-with-new-government/>
+
+---
+
+## EV demand leads automakers to a strong 2024 finish
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>Automakers closed 2024 with strong sales in the United States in the final three months of the year, helped by a surge in demand for electric models.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/ev-demand-leads-automakers-to-a-strong-2024-finish/>
+
+---
+
+## Biden blocks takeover bid of U.S. Steel by Japan’s Nippon
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden blocked the $14 billion takeover of U.S. Steel by Nippon Steel of Japan in an announcement Friday based on grounds that the sale posed a threat to national security.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/biden-blocks-takeover-bid-of-u-s-steel-by-japans-nippon/>
+
+---
+
+## Biden honors police officers and veterans with medals at White House
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden on Friday recognized five Nashville police officers and seven U.S. Army veterans with national medals honoring their acts of bravery.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/nation-world-news/biden-honors-police-officers-and-veterans-with-medals-at-white-house/>
+
+---
+
+## From $80 days to $6,000 days: How 3 small coffee shops got started
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>Rachel Nieves was 19 and working part time at Armani when she met someone who said her personality would do well in the car business.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/features/from-80-days-to-6000-days-how-3-small-coffee-shops-got-started/>
+
+---
+
+## Tropical Gardening: For you, a rose in Hawaii grows
+
+date: 2025-01-04, from: Hawaii Tribune Harold
+
+
+				<p>In Hawaii, growing roses is always a rewarding challenge to the gardener. Roses are cool climate plants that do best at elevations of 1,000 feet or more. At lower elevations, insects and disease problems are aggravated. At best, roses require specific care or they will not do well.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/04/features/tropical-gardening-for-you-a-rose-in-hawaii-grows/>
+
+---
+
+## US Virgin Islands representative protests  exclusion of territorial delegates from House speaker vote
+
+date: 2025-01-04, from: Pacific Island Times
+
+Delegates representing U.S. territories were never called to cast their votes for the speakership. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-virgin-islands-delegate-protests-exclusion-of-territorial-delegates-from-house-speaker-vote>
+
+---
+
+## Win some, lose some: Sablan provides a congressional wrap-up
+
+date: 2025-01-04, from: Pacific Island Times
+
+Gregorio Kilili Camacho Sablan summed up what he has accomplished for the Northern Mariana Islands during his long stint as the commonwealth 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/win-some-lose-some-sablan-provides-a-congressional-wrap-up>
+
+---
+
+## Trump’s Republicans reelect Mike Johnson US House speaker despite dissent
+
+date: 2025-01-04, updated: 2025-01-05, from: Marianas Variety
+
+WASHINGTON (Reuters) — U.S. House of Representatives Speaker Mike Johnson was reelected to the chamber's top job on Friday by a razor-thin margin that highlighted potential fissures among President-elect Donald Trump's Republicans on Capitol Hill. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-s-republicans-reelect-mike-johnson-us-house-speaker-despite-dissent/article_16c483d0-ca38-11ef-a62c-632b3a292163.html>
+
+---
+
+## Again, a fresh start  
+
+date: 2025-01-04, from: Pacific Island Times
+
+The CHamoru term “inafa’ maolek” refers to a concept of restoring harmony or order, a hallmark of Guam’s values and a gift from CHamoru ance 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/again-a-fresh-start>
 

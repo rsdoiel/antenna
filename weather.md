@@ -1,11 +1,11 @@
 ---
 title: weather
-updated: 2025-01-10 13:01:41
+updated: 2025-01-11 07:05:02
 ---
 
 # weather
 
-(date: 2025-01-10 13:01:41)
+(date: 2025-01-11 07:05:02)
 
 ---
 
@@ -67,30 +67,6 @@ Elevated highlights.
 <br> 
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## SPC - No watches are valid as of Fri Jan 10 19:54:02 UTC 2025
-
-date: 2025-01-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Fri Jan 10 19:54:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Fri Jan 10 19:54:02 UTC 2025
-
-date: 2025-01-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Fri Jan 10 19:54:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -465,52 +441,6 @@ LAT...LON   34618333 35118555 35288666 35458794 34838814 34708861
 <br> 
 
 <https://www.spc.noaa.gov/products/md/md0030.html>
-
----
-
-## SPC Jan 10, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-01-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0652 AM CST Fri Jan 10 2025
-
-Valid 101300Z - 111200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not expected through tonight. A few
-thunderstorms and windy/rainy conditions are likely across parts of
-the middle Gulf Coast.
-
-...Middle Gulf Coast...
-Within a highly amplified longwave pattern, an embedded low-latitude
-positive-tilt upper trough will continue to settle
-south-southeastward over northern Mexico, while another embedded
-shortwave trough amplifies over the Ozarks and Midwest.
-Trough-preceding warm/moist advection will continue to result in
-widespread precipitation regionally, with isolated/episodic
-thunderstorm potential focused along the middle Gulf coast where
-weak elevated buoyancy exists. Surface-based buoyancy should
-generally remain offshore, limiting severe potential. But given
-ample lift and strong low-level winds near the eastward-moving cold
-front and near-coastal surface wave, there is some potential that
-gusty winds, possibly augmented by heavier convective precipitation,
-could occur along the immediate coast from far southeast Mississippi
-to far southern Alabama and the Florida Panhandle.
-
-..Guyer/Dean.. 01/10/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
