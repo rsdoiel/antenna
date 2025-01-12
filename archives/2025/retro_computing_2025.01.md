@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-01-11 07:05:04
+updated: 2025-01-12 07:05:34
 ---
 
 # retro computing
 
-(date: 2025-01-11 07:05:04)
+(date: 2025-01-12 07:05:34)
+
+---
+
+## b.log 2025/01/11 - My 'parcel', About import fees into the EU, FINALLY! A Brexit benefit!, Mower fix.
+
+date: 2025-01-11, from: Richard Murray's blog
+
+My 'parcel', About import fees into the EU, FINALLY! A Brexit benefit!, Mower fix. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250111>
 
 ---
 

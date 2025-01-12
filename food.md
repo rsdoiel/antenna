@@ -1,11 +1,23 @@
 ---
 title: food
-updated: 2025-01-11 07:05:05
+updated: 2025-01-12 07:05:35
 ---
 
 # food
 
-(date: 2025-01-11 07:05:05)
+(date: 2025-01-12 07:05:35)
+
+---
+
+## Chug A Chaggachino And Trip Out On This Week’s Groovy Coffee Pics From Your Cosmic Cousins At Sprudge
+
+date: 2025-01-12, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection from the Sprudge Roaster's Village. 
+
+<br> 
+
+<https://sprudge.com/chug-a-chaggachino-and-trip-out-on-this-weeks-groovy-coffee-pics-from-your-cosmic-cousins-at-sprudge-268995.html>
 
 ---
 

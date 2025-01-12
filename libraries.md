@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2025-01-11 07:05:03
+updated: 2025-01-12 07:05:33
 ---
 
 # libraries
 
-(date: 2025-01-11 07:05:03)
+(date: 2025-01-12 07:05:33)
+
+---
+
+## Cement-MgO synergetic stabilized earth-straw mix: From material performance to building simulation
+
+date: 2025-01-15, from: ETH Zurich, recently added
+
+Cui, Jiaming; Li, Junjie; Du, Yi; Habert, Guillaume 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/708435>
 
 ---
 

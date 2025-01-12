@@ -1,11 +1,440 @@
 ---
 title: columns
-updated: 2025-01-11 07:05:02
+updated: 2025-01-12 07:05:32
 ---
 
 # columns
 
-(date: 2025-01-11 07:05:02)
+(date: 2025-01-12 07:05:32)
+
+---
+
+## Is Bluesky federated like Masto?
+
+date: 2025-01-12, from: Dave Winer's Scripting News
+
+<p>This is one of the dialogs you encounter when getting started with Bluesky. It's easy to see how new users might be led believe that Bluesky is federated, as Mastodon is. I'm a developer and I was confused by what it was saying.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/01/12/isBlueskyFederated.png"></center>Is Bluesky is federated?</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/12/135321.html?title=isBlueskyFederatedLikeMasto>
+
+---
+
+## The Answer, My Friend … 
+
+date: 2025-01-12, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/the-answer-my-friend>
+
+---
+
+## Sunday caption contest: Genuflecting 
+
+date: 2025-01-12, from: Robert Reich's blog
+
+In honor of Washington Post editorial cartoonist Ann Telnaes 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-caption-contest-in-honor-of>
+
+---
+
+## Giving up the pretense
+
+date: 2025-01-12, from: Tracy Durnell Blog
+
+Ryan Broderick at Garbage Day says content moderation died on January 6, 2021: [T]he Insurrection was the first time Americans could truly see the radicalizing effects of algorithmic platforms like Facebook and YouTube that other parts of the world, particularly the Global South, had dealt with for years. A moment of political violence Silicon Valley [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/11/giving-up-the-pretense/>
+
+---
+
+## January 11, 2025 
+
+date: 2025-01-12, from: Heather Cox Richardson blog
+
+We&#8217;re home tonight after a week on the road, coming back to a light snowfall that made everything look like it was tucked into bed for the winter. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-11-2025>
+
+---
+
+## Trump's Oligarchy | The Coffee Klatch for January 11, 2025 
+
+date: 2025-01-12, from: Robert Reich's blog
+
+With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154644457/96075a4ac9153bf58c1ccfd07cd46563.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154644457/96075a4ac9153bf58c1ccfd07cd46563.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/trumps-oligarchy-the-coffee-klatch-432>
+
+---
+
+## What Are Stories?
+
+date: 2025-01-11, from: Doc Searls (at Harvard), New Old Blog
+
+Eighteenth in the New Commons series. Several generations ago, my pal Jerry and I were cutting a hole between the ceiling studs of a rented house in Durham, North Carolina. This was our first step toward installing a drop-down stairway to an attic space that had been closed since the house, a defunct parsonage for [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/01/11/what-are-stories/>
+
+---
+
+## Does Politics Turn on a Message? Or a Messenger?
+
+date: 2025-01-11, from: James Fallows, Substack
+
+And other ramifications of Jimmy Carter's 100-plus years. Which may give the Democrats a challenge different from the one most often discussed. 
+
+<br> 
+
+<https://fallows.substack.com/p/does-politics-turn-on-a-message-or>
+
+---
+
+## Google and Microsoft Each Donate $1 Million to Trump’s Inauguration Racket
+
+date: 2025-01-11, updated: 2025-01-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.cnbc.com/2025/01/09/google-donates-1-million-to-trumps-inauguration-fund.html>
+
+---
+
+## ‘Inside Mark Zuckerberg’s Sprint to Remake Meta for the Trump Era’
+
+date: 2025-01-11, updated: 2025-01-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2025/01/10/technology/meta-mark-zuckerberg-trump.html?unlocked_article_code=1.oU4.1YiC.LBBOij0yKLtb&smid=url-share>
+
+---
+
+## January 10, 2025
+
+date: 2025-01-11, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154642234/9f91bc659aa31105d0149f5d9fa7f5a5.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154642234/9f91bc659aa31105d0149f5d9fa7f5a5.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-10-2025-31d>
+
+---
+
+## ‘We’re All Trying to Find the Guy Who Did This’
+
+date: 2025-01-11, updated: 2025-01-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theatlantic.com/technology/archive/2025/01/mark-zuckerberg-free-expression/681238/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-01-11, from: Miguel de Icaza Mastondon feed)
+
+<p>Small UI update, not visible, but worth talking about is that I got the tracking timeline at the top to be &quot;anchored&quot;, and not scroll away:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113811554601004561>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-11, from: Dave Winer's Scripting News)
+
+<a href="https://daveverse.wordpress.com/2025/01/11/little-feed-reader-seems-to-work/">Notes</a> on Little Feed Reader, <a href="https://bsky.app/profile/feediverse.bsky.social">running</a> on Bluesky since Jan 2. 
+
+<br> 
+
+<http://scripting.com/2025/01/11.html#a200549>
+
+---
+
+## 2025-01-11 ffmpeg and fish, yt-dlp
+
+date: 2025-01-11, from: Alex Schroeder's Blog
+
+<h1 id="2025-01-11-ffmpeg-and-fish-yt-dlp">2025-01-11 ffmpeg and fish, yt-dlp</h1>
+
+<p>If you know, you know.
+The <code>ffmpeg</code> command line options.
+🤨</p>
+
+<p>Let me collect some function definitions on this page.
+I&rsquo;ll be adding more over the years to come, for sure.</p>
+
+<pre><code>function video-resolution
+    ffprobe -v error -select_streams v:0 -show_entries stream=width,height -of default=nw=1 $argv
+end
+
+# remember to download lower resolutions for smaller laptops
+yt-dlp --list-formats URL
+yt-dlp --format N URL
+
+# download audio only
+yt-dlp --extract-audio --audio-format mp3 URL
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23ffmpeg">#ffmpeg</a> <a class="tag" href="/search/?q=%23fish">#fish</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-01-11-ffmpeg>
+
+---
+
+## ★ Nvidia, the New King of Keynotes
+
+date: 2025-01-11, updated: 2025-01-11, from: Daring Fireball
+
+The answer to the question of which company held the keynotes which attracted the most enthusiastic large live audiences was always Apple. And they just walked away from that. 
+
+<br> 
+
+<https://daringfireball.net/2025/01/nvidia_the_new_king_of_keynotes>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-11, from: Dave Winer's Scripting News)
+
+This is what my YouTube channel <a href="https://imgs.scripting.com/2025/01/11/youtubeInBlogroll.png">looks like</a> in my blogroll. 
+
+<br> 
+
+<http://scripting.com/2025/01/11.html#a174922>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-11, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/07/07/ohYeah.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">YouTube channels have feeds. Here's <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIKA6QNSb56qnA5Enn2BOXw">the feed</a> for my YouTube channel. And a canonical <a href="https://feeder.scripting.com/?feedurl=https://www.youtube.com/feeds/videos.xml?channel_id=UCIKA6QNSb56qnA5Enn2BOXw">JSONification</a> of the feed (this is how FeedLand gets the data from any type of feed, RSS, Atom or RDF, the YouTube feed is Atom). I did not know they had feeds, in fact I thought I heard they specifically did <i>not</i> have feeds. I've subscribed to the feed <a href="https://feedland.social/?feedurl=https%3A%2F%2Fwww.youtube.com%2Ffeeds%2Fvideos.xml%3Fchannel_id%3DUCIKA6QNSb56qnA5Enn2BOXw">in FeedLand</a> and it seems to work, and also included it in my blogroll category, so it should show up in my blogroll, and possibly in the <a href="https://bsky.app/profile/feediverse.bsky.social">Little Feed Reader</a> on Bluesky. All of this, and more, was discovered by <a href="https://www.google.com/search?q=site%3Ascripting.com+%22Andrew+Shell%22">Andrew Shell</a>. Two suggestions. 1. Include descriptions with the items. 2. Use enclosures for the videos. Atom does enclosures differently from RSS, but it can be made to work, imho. No matter what, thank you YouTube, and it's a great start. 
+
+<br> 
+
+<http://scripting.com/2025/01/11.html#a170329>
+
+---
+
+## Aviation vs. Fire
+
+date: 2025-01-11, from: Doc Searls (at Harvard), New Old Blog
+
+3:22pm—Hats off to Miles Archer for the links below, one of which goes here— —showing all the aircraft and their paths at once. You can start here at https://globe.adsbexchange.com/, which is kind of your slate that&#8217;s blank except for live aircraft over the Palisades Fire: Meanwhile all the media are reporting one home loss, in [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/01/11/aviation-vs-fire/>
+
+---
+
+## What's involved in getting a "modern" terminal setup?
+
+date: 2025-01-11, updated: 2025-01-11, from: Julia Evans blog
+
+ 
+
+<br> 
+
+<https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/>
+
+---
+
+## 2025-01-11 Personal blogging platform
+
+date: 2025-01-11, from: Alex Schroeder's Blog
+
+<h1 id="2025-01-11-personal-blogging-platform">2025-01-11 Personal blogging platform</h1>
+
+<p><a class="account" href="https://mastodon.social/@deivudesu" title="@deivudesu@mastodon.social">@deivudesu</a> recently wondered aloud about blogging software.</p>
+
+<blockquote>
+<p>If you were to design a brand new blogging platform from scratch today, what would it look like?</p>
+</blockquote>
+
+<p>Since I recently wrote Oddmu, I have opinions, of course. It would look like this site! 😅</p>
+
+<blockquote>
+<p>Would it stick to the standard &ldquo;N columns&rdquo; template format?</p>
+</blockquote>
+
+<p>Over the years of using Oddmuse (the predecessor software I started maintaining in 2003), I tried sidebars for my site and never liked it for long. When I visit other sites, I almost never use the sidebars.</p>
+
+<p>Blogroll? No. Just discuss blog posts and link to other people – that’s the better option.</p>
+
+<p>Archives? No. The calendar widgets are small and cramped and soon enough I end up on a separate page where I can navigate in big chunks. I almost never want to know what somebody posted on a particular day. I want to know whether they post a lot; whether they posted more on a topic in the past. It all involves better overview and search. This need is not met by an archive in the sidebar.</p>
+
+<p>Many links to entry points? No. Just put them on the first page.</p>
+
+<p>Many admin links? No. Just put them on a separate page, if you must. Also try to redesign the application so that it needs fewer admin links.</p>
+
+<blockquote>
+<p>Would it have a dedicated Admin UI, or would it reuse existing tools?</p>
+</blockquote>
+
+<p>Oddmu has no dedicated administration user-interface. It uses Markdown text files and media files for storage. If you really need direct access, open a file browser, a shell, an editor.</p>
+
+<blockquote>
+<p>Would it define its own DB schema, or piggyback off existing standards?</p>
+</blockquote>
+
+<p>Since Oddmu is designed to work with files directly, the DB schema would be trivial: page name and page content. It steered me away from keeping a lot of metadata.</p>
+
+<p>If I wanted to keep drafts somewhere, I guess I would set up a second Oddmu accessible only to me. Or I’d just use a text editor to write the posts. (This post started in a text editor.)</p>
+
+<p>Post scheduling would have to interface with command line tools like <code>at</code> to move a file from one folder to another at some point in the future. I don’t need this and so I never thought about it.</p>
+
+<blockquote>
+<p>Would it make sense to design it as an ActivityPub client with a Web UI?</p>
+</blockquote>
+
+<p>I don’t think so. Many people commenting on fedi might be surprised to see their comments show up on the web and vice versa.</p>
+
+<p>Conversely, having a little script off of a cron job that reads the blog’s feed and posts on fedi worked well for me. Of course that would not work for a platform like Blogger or Wordpress, but on an individual level, it works.</p>
+
+<p><a class="tag" href="/search/?q=%23Blogs">#Blogs</a> <a class="tag" href="/search/?q=%23Wiki">#Wiki</a> <a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a> <a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-01-11-blog-platform>
+
+---
+
+## Trump's Oligarchy | The Coffee Klatch for January 11, 2025 
+
+date: 2025-01-11, from: Robert Reich's blog
+
+With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154569809/53681506a512f8baf494111e46ccc009.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154569809/53681506a512f8baf494111e46ccc009.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/trumps-oligarchy-the-coffee-klatch>
+
+---
+
+## January 10, 2025 
+
+date: 2025-01-11, from: Heather Cox Richardson blog
+
+Today the Department of Labor released the final jobs report of Joe Biden&#8217;s presidency. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-10-2025>
+
+---
+
+## Palisades Fire on the Ridge
+
+date: 2025-01-11, from: Doc Searls (at Harvard), New Old Blog
+
+10:15pm—Here is a Google Earth Pro view of the Palisades fire crossing the wilderness north of Pacific Palisades and south of &#8220;Dry Mulholland&#8221;—the dirt road that serves as a firebreak along the ridge of the mountains south of the San Fernando Valley: The large squares are MODIS satellite fire detections. The smaller ones are VIIRS. [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/01/10/palisades-fire-on-the-ridge/>
+
+---
+
+## Progress vs. Growth
+
+date: 2025-01-11, from: Tracy Durnell Blog
+
+Ingrid Fetell Lee with the wisdom in her email newsletter: Progress is the tangible evidence that we&#8217;re moving closer to our goals. We&#8217;ve been conditioned to measure success in terms of progress&#8230; Growth is a subterranean shift, not what you made or did, but a change in who you are. It&#8217;s hard to measure, harder [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/10/progress-vs-growth/>
+
+---
+
+## Weeknotes: Jan 4 – 10, 2025
+
+date: 2025-01-11, from: Tracy Durnell Blog
+
+Win of the week: adapted a post that&#8217;s been sitting on draft since last June into my entry for this month&#8217;s IndieWeb carnival 🦾 Looking forward to: walking with a friend I haven&#8217;t seen since summer next week Stuff I did: 5.75 hours consulting 5 hours writing 🦾🦾🦾 wrote several alternate blurbs to help me decide between [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/10/weeknotes-jan-4-10-2025/>
+
+---
+
+## New Year
+
+date: 2025-01-11, from: Jirka's blog
+
+So it's 2025.  I'm not sure how much  time I will have for  my phlog or for any other tree-time computer stuff. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250111-0442_New_Year>
+
+---
+
+## Analog stuff in 2024
+
+date: 2025-01-11, from: Jirka's blog
+
+Actually, nothing special  happened. I have got a new  leather case for notebooks for work  and a new notebook with replaceable  inserts for my traveling (it's  a 1/3 of width  of A4 format  so it is also  ideal for folding of printed train tickets inside). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250111-0442_Analog_stuff_in_2024>
+
+---
+
+## The Great Fire
+
+date: 2025-01-11, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-great-fire>
+
+---
+
+## Zuckerberg Disses Apple With Joe Rogan: ‘They Haven’t Invented Anything Great in a While’
+
+date: 2025-01-11, updated: 2025-01-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/01/10/mark-zuckerberg-joe-rogan-apple-innovation/>
 
 ---
 
@@ -127,7 +556,7 @@ date: 2025-01-10, updated: 2025-01-10, from: Jason Kittke's blog
 
 date: 2025-01-10, from: Doc Searls (at Harvard), New Old Blog
 
-Seventeenth in the News Commons series. While I&#8217;ve been writing about the #LAfires, this has been my main media dashboard: Those are tabs for five TV stations, one radio station, and one newspaper: KNBC/4 &#8220;4 Los Angeles&#8221; KTLA/5 &#8220;LA&#8217;s Very Own&#8221; KABC/7  &#8220;7 Eyewitness News&#8221; KCAL/9 &#8220;KCAL NEWS CBS Los Angeles&#8221; KTTV/11 &#8220;Fox 11 Los [&#8230;] 
+Seventeenth in the News Commons series. That collection of tabs is my dashboard of major media that inform my writing about the #LAfires. There are tabs for five TV stations, one radio station, and one newspaper: KNBC/4 &#8220;4 Los Angeles&#8221; KTLA/5 &#8220;LA&#8217;s Very Own&#8221; KABC/7  &#8220;7 Eyewitness News&#8221; KCAL/9 &#8220;KCAL NEWS CBS Los Angeles&#8221; KTTV/11 [&#8230;] 
 
 <br> 
 
@@ -1944,238 +2373,4 @@ Today’s Observer column: You know the drill. You’re logging into your bank o
 <br> 
 
 <https://memex.naughtons.org/memo-to-trump-us-telecoms-are-vulnerable-to-hackers-hang-up-and-try-again/40306/>
-
----
-
-## Pulitzer-Prize-Winner Ann Telnaes Quits the Washington Post After Editors Nix Cartoon Mocking Bezos (and His Tech/Media Mogul Cohorts) for Paying Fealty to Trump
-
-date: 2025-01-04, updated: 2025-01-08, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://anntelnaes.substack.com/p/why-im-quitting-the-washington-post>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-01-04, from: Dave Winer's Scripting News)
-
-BTW, as <a href="http://scripting.com/2025/01/03.html#a010024">promised</a>, last night's Knicks game was great. Up until the end, when the other guys took over and sadly the Knicks lost. We need a stronger bench. The starting five are great but they're not totally super-human. 
-
-<br> 
-
-<http://scripting.com/2025/01/04.html#a223717>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-01-04, from: Dave Winer's Scripting News)
-
-Just taking it easy. Thinking about stuff. Will resume blogging soon. <span class="spOldSchoolEmoji">😄</span> 
-
-<br> 
-
-<http://scripting.com/2025/01/04.html#a223632>
-
----
-
-## January 3, 2025
-
-date: 2025-01-04, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154157241/2f718a6249f31eef8f2a14f2827ca927.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/154157241/2f718a6249f31eef8f2a14f2827ca927.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/january-3-2025-709>
-
----
-
-## Disrupting my reading habits to read more of what *I* want (Part 3)
-
-date: 2025-01-04, from: Tracy Durnell Blog
-
-This is part three of a series on tackling wants, managing my media diet, and finding enough. Read the introduction on &#8220;the mindset of more.&#8221; The Internet feels like an old relative&#8217;s hoarder house, the hallways so packed with clutter you can barely squeeze through. At one point they remembered where some of the important [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/01/04/disrupting-my-reading-habits/>
-
----
-
-## Ural Notes Part 2: Electrical and Lighting
-
-date: 2025-01-04, updated: 2025-01-04, from: Russell Graves, Syonyk's Project Blog
-
- 
-
-<br> 
-
-<https://www.sevarg.net/2025/01/04/ural-notes-part-2-electrical/>
-
----
-
-## 2025-01-04 SSH app bots
-
-date: 2025-01-04, from: Alex Schroeder's Blog
-
-<h1 id="2025-01-04-ssh-app-bots">2025-01-04 SSH app bots</h1>
-
-<p>A long time ago I wrote a program that is accessible via <code>ssh</code>.
-Use the arrows to move around on the map, use <code>u</code> and <code>d</code> to raise and lower the land.
-The program recomputes water flow, forests, swamps, settlements, and so on.
-It&rsquo;s cute.</p>
-
-<p>I called it <a href="https://src.alexschroeder.ch/hex-populate.git/">hex-populate</a>,
-in honour of <a href="https://en.wikipedia.org/wiki/Populous_(series)">Populous</a>.</p>
-
-<p>If you &ldquo;save&rdquo; the map, an SVG rendering is saved on the server which you can download via <code>scp</code>.</p>
-
-<p>Since this application is a bit like a web site, there are not credentials to provide.
-Anybody can give it a try:</p>
-
-<pre><code>ssh campaignwiki.org -p 2022
-</code></pre>
-
-<p>Recently I wondered why load on the server was up to 3. The virtual server only has two cores so so it was overloaded.
-I checked with <code>htop</code> and <code>hex-populate</code> was eating 50% of the CPU.
-Really?
-Was somebody fuzzing the application, sending it random input?</p>
-
-<p>Let&rsquo;s check using <code>lsof</code>. The option <code>-i :2022</code> lists all the activity concerning the port I&rsquo;m interested in.
-<code>-n</code> means I don&rsquo;t need the hostname. (The hostname was &ldquo;inspector-apps.com&rdquo;.)</p>
-
-<pre><code># lsof -i :2022 -n
-COMMAND       PID         USER   FD   TYPE    DEVICE SIZE/OFF NODE NAME
-hex-popul 3601254 hex-populate    3u  IPv4 107999449      0t0  TCP 178.209.50.237:2022 (LISTEN)
-hex-popul 3601254 hex-populate    7u  IPv4 107999454      0t0  TCP 178.209.50.237:2022-&gt;159.203.81.114:57528 (ESTABLISHED)
-</code></pre>
-
-<p>You know what comes next.</p>
-
-<pre><code>root@sibirocobombus ~# whois 159.203.81.114
-</code></pre>
-
-<p>And based on the info, ban the whole network, and add it to <a href="/admin/ban-cidr">ban-cidr</a> as a warning for all to see.</p>
-
-<pre><code>ipset add banlist 159.203.0.0/16
-echo &quot;# &quot; (date --iso) &gt;&gt; bin/admin/ban-cidr
-echo &quot;ipset add banlist 159.203.0.0/16&quot; &gt;&gt; bin/admin/ban-cidr
-systemctl restart hex-populate.service
-</code></pre>
-
-<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Hex_Populate">#Hex Populate</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-01-04-ssh-app-bots>
-
----
-
-## The Republican Takeover. Oof. | Coffee Klatch for January 4, 2025
-
-date: 2025-01-04, from: Robert Reich's blog
-
-With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and Yours Truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154098651/8439265725de597eb83e870bb1f0fe07.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/154098651/8439265725de597eb83e870bb1f0fe07.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/the-republican-takeover-oof-coffee>
-
----
-
-## Weeknotes: Dec. 28, 2024 – Jan. 3, 2025
-
-date: 2025-01-04, from: Tracy Durnell Blog
-
-Win of the week: posted the intro and first two posts of the series I&#8217;ve been working on! third post scheduled for Saturday! Looking forward to: just got several books from the library I&#8217;ve been looking forward to, hopefully they&#8217;re good! Stuff I did: 0.5 hours consulting &#8212; took most of the week off work again, [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/01/03/weeknotes-dec-28-2024-jan-3-2025/>
-
----
-
-## January 3, 2025 
-
-date: 2025-01-04, from: Heather Cox Richardson blog
-
-Today a new Congress, the 119th, came into session. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/january-3-2025>
-
----
-
-## The Great American Tradition
-
-date: 2025-01-04, updated: 2025-01-04, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.politico.com/news/2021/01/09/biden-inaugural-donors-major-corporations-456907>
-
----
-
-## Gambling, sports, kids
-
-date: 2025-01-04, from: Dave Winer's Scripting News
-
-<p><a href="https://paulkrugman.substack.com/p/the-plot-to-poison-childrens-minds">Krugman writes</a> about social media is poisoning children's minds. </p>
-<p>I like that Krugman has resumed his blogging. </p>
-<p>This means that sometimes I agree or disagree, or have mixed opinions, but I always learn something. That's what makes a blogger good imho.</p>
-<p>I don't know if I agree that children's minds are being poisoned. But I am pretty sure when people like Krugman and myself reach a certain age, and we are the same age, we start looking at new media that way. Maybe <i>our</i> minds are poisoned. My father called television the "idiot box." But it eventually became the literature of my generation, often very good. But maybe laws can help.</p>
-<p>One thing I am sure of is that sports is being ruined by gambling. I can't imagine that a parent in 2025 would let their kids watch the NBA on TV, because it makes gambling appear to be a normal part of being a fan. Yet the NBA, which has a reputation of being socially forward-thinking, has swallowed the pill, and gambling is an integral part of coverage of the NBA now. </p>
-<p>Same with the NFL, MLB and tennis. </p>
-<p>And is this why they can now afford to <a href="https://www.mlb.com/news/juan-soto-agrees-to-contract-with-mets">sign players</a> to $765 million contracts? </p>
-<p>They're all getting hugely rich, but I believe that they are certainly doing great harm to the new sports fans growing up now. </p>
-<p>I am a no apologist for being a sports fan. I love the Mets and the Knicks, have flirted with the Niners, and have a place in my heart for the Cubs and Red Sox, and I know that gambling spoils what's fun about sports, can turn it into an awful addiction. I manage to be a fan without ever having bet on a game, even just a bet between friends. I don't see it as part of sports. It wasn't the way my family enjoyed sports. </p>
-<p>I was a math major and a 50+ year programmer, and I know that if you gamble enough you lose all your money. And as an addiction no gambler ever gets up from the table to enjoy their winnings when they win.</p>
-<p>PS: I wrote this <a href="https://daveverse.wordpress.com/2025/01/01/gambling-has-infested-sport-in-new-unacceptable-ways/">post</a> in WordLand on New Years Day, saving it for a good moment on Scripting.</p>
- 
-
-<br> 
-
-<http://scripting.com/2025/01/03/014548.html?title=gamblingSportsKids>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-01-04, from: Dave Winer's Scripting News)
-
-<a href="https://www.youtube.com/watch?v=lhMDoBFYDmA">Knicks on Friday night</a>: A big offline day here in the mountains, the show will resume tomorrow bright and early, Murphy-willing. Enjoy tonight's <a href="https://www.si.com/nba/thunder/news/okc-thunder-vs-new-york-knicks-1-3-updated-injury-report-betting-odds">Knicks game</a> in OKC. Should be a great game. <span class="spOldSchoolEmoji">😄</span> 
-
-<br> 
-
-<http://scripting.com/2025/01/03.html#a010024>
-
----
-
-## ‘Don’t You Think We Should Maybe Ask for More Than a Million Dollars? A Million Dollars Isn’t Exactly a Lot of Money These Days.’
-
-date: 2025-01-04, updated: 2025-01-04, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.youtube.com/watch?v=EJR1H5tf5wE>
-
----
-
-## Understanding DOGE as Procurement Capture
-
-date: 2025-01-04, updated: 2025-01-04, from: Anil Dash blog
-
- 
-
-<br> 
-
-<https://anildash.com/2025/01/04/DOGE-procurement-capture/>
 

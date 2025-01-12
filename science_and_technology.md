@@ -1,11 +1,83 @@
 ---
 title: science and technology
-updated: 2025-01-11 07:05:02
+updated: 2025-01-12 07:05:32
 ---
 
 # science and technology
 
-(date: 2025-01-11 07:05:02)
+(date: 2025-01-12 07:05:32)
+
+---
+
+## Motown Records, Founded on This Day in 1959, Broke Racial Barriers in Pop Music With Its Beloved Hits
+
+date: 2025-01-12, from: Smithsonian Magazine
+
+Berry Gordy’s record label used the ‘sound of young America’ to bring people together 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/motown-records-founded-on-this-day-in-1959-broke-racial-barriers-in-pop-music-with-its-beloved-hits-180985803/>
+
+---
+
+## Is it really the plan to take over Greenland and the Panama Canal? It's been a weird week
+
+date: 2025-01-11, updated: 2025-01-11, from: The Register (UK I.T. News)
+
+<h4>Meanwhile, tech titans are falling over themselves to help Trump</h4> <p><strong>Opinion</strong>  We all know the US&#39;s incoming president, Donald Trump, has gone off-script in a way that is almost comical. Gulf of America? Make Greenland great again? Taking over the Panama Canal?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/11/opinion_column_us_moves/>
+
+---
+
+## Bringing SerenityOS to real hardware, one driver at a time
+
+date: 2025-01-11, from: OS News
+
+Many moons ago, around the time when Andreas formally resigned from being Serenity&#8217;s BDFL, I decided that I want to get involved in the project more seriously. Looking at it from a perspective of &#8220;what do I not like about this (codebase)&#8221;, the first thing that came to mind was that it runs HERE points at QEMU and not THERE points at real hardware. Obvious oversight, let&#8217;s fix it. ↫ sdomi There&#8217;s no way for me to summarise this cursed saga, so just follow the lovely link and read it. It&#8217;s a meandering story of complexity, but eventually, a corrupted graphical session appeared. Now the real work starts. 
+
+<br> 
+
+<https://www.osnews.com/story/141518/bringing-serenityos-to-real-hardware-one-driver-at-a-time/>
+
+---
+
+## Google launches Chromium development fund to ward off antitrust concerns
+
+date: 2025-01-11, from: OS News
+
+Don&#8217;t you just love it when companies get together under the thin guise of open source to promote their own interests? Today Google is pleased to announce our partnership with The Linux Foundation and the launch of the Supporters of Chromium-based Browsers. The goal of this initiative is to foster a sustainable environment of open-source contributions towards the health of the Chromium ecosystem and financially support a community of developers who want to contribute to the project, encouraging widespread support and continued technological progress for Chromium embedders. The Supporters of Chromium-based Browsers fund will be managed by the Linux Foundation, following their long established practices for open governance, prioritizing transparency, inclusivity, and community-driven development. We’re thrilled to have Meta, Microsoft, and Opera on-board as the initial members to pledge their support. ↫ Shruthi Sreekanta on the Chromium blog First, there&#8217;s absolutely no way around the fact that this entire effort is designed to counter some of the antitrust actions against Google, including a possible forced divestment of Chrome. By setting up an additional fund atop the Chromium organisation, placed under the management of the Linux Foundation, Google creates the veneer of more independence for Chromium than their really is. In reality, however, Chromium is very much a Google-led project, with 94% of code contributions coming from Google, and with the Linux Foundation being very much a corporate affair, of which Google itself is a member, one has to wonder just how much it means that the Linux Foundation is managing this new fund. Second, the initial members of this fund don&#8217;t exactly instill confidence in the fund&#8217;s morals and values. We&#8217;ve got Google, the largest online advertising company in the world. Then there&#8217;s Facebook, another major online advertising company, followed by Microsoft, which, among other business ventures, is also a major online advertising company. Lastly we have Opera, an NFT and cryptoscammer making money through predatory loans in poor countries. It&#8217;s a veritable who&#8217;s who of some of the companies you least want near anything related to your browsing experience. I highly doubt a transparent effort like this is going to dissuade any judge or antritrust regulator from backing down. It&#8217;s clear this fund is entirely self-serving and designed almost exclusively for optics, with an obvious bias towards online advertising companies who want to make the internet worse than towards companies and people trying to make the internet better. 
+
+<br> 
+
+<https://www.osnews.com/story/141516/google-launches-chromium-development-fund-to-ward-off-antitrust-concerns/>
+
+---
+
+## When the U.S. Surgeon General Shocked Americans by Announcing That Smoking Kills
+
+date: 2025-01-11, from: Smithsonian Magazine
+
+The 1964 disclosure marked the first time many smokers had heard about the health dangers of tobacco 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/when-the-us-surgeon-general-shocked-americans-by-announcing-that-smoking-kills-180985726/>
+
+---
+
+## Celebrating when EVs went to the Moon with a Lego Lunar Roving Vehicle build
+
+date: 2025-01-11, updated: 2025-01-11, from: The Register (UK I.T. News)
+
+<h4>Even better use for the Technic range than the Mars Rover – with one big caveat</h4> <p>The original Apollo Lunar Roving Vehicle had the look of something that had been strung together from an oversized Meccano set. It should, therefore, not come as a surprise to find a LEGO variant built from the company&#39;s Technic pieces.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/11/lego_lunar_roving_vehicle/>
 
 ---
 
@@ -2454,112 +2526,4 @@ The building of the iconic "industry orange" landmark began on this day in 1933
 <br> 
 
 <https://www.smithsonianmag.com/smart-news/on-this-day-in-1933-the-lethal-construction-of-the-golden-gate-bridge-began-in-san-francisco-180985773/>
-
----
-
-## One dog v. the Windows 3.1 graphics stack
-
-date: 2025-01-04, from: OS News
-
-I&#8217;d like to write a full-fledged blog post about these adventures at some point, but for now I&#8217;m going to focus on one particular side quest: getting acceptable video output out of the 1000H when it&#8217;s running Windows 3.11 for Workgroups. By default, Windows 3.x renders using the standard &#8220;lowest common denominator&#8221; of video: VGA 640&#215;480 at 16 colours. Unfortunately this looks awful on the Eee PC&#8217;s beautiful 1024&#215;600 screen, and it&#8217;s not even the same aspect ratio. But how can we do better? ↫ Ash Wolf If you ever wanted to know how display drivers work in Windows 3.x, here&#8217;s your chance. This definitely falls into the category of light reading for the weekend. 
-
-<br> 
-
-<https://www.osnews.com/story/141484/one-dog-v-the-windows-3-1-graphics-stack/>
-
----
-
-## The Mac OS X dock turns 25
-
-date: 2025-01-04, from: OS News
-
-James Thomson, developer of, originally, DragThing and now PCalc, also happens to be the developer of the very first publicly shown version of the Mac OS dock. Now that it was shown to the world by Steve Jobs exactly 25 years ago, he reminisces about what it was like to create such an iconic piece of software history. The new Finder (codename “Millennium”) was at this point being written on Mac OS 9, because Mac OS X wasn’t exactly firing on all cylinders quite yet. The filesystem wasn’t working well, which is not super helpful when you are trying to write a user interface on top of it. The Dock was part of the Finder then, and could lean on all the high level C++ interfaces for dealing with disks and files that the rest of the team was working on. So, I started on Mac OS 9, working away in Metrowerks Codewarrior. The Finder was a Carbon app, so we could actually make quite a bit of early progress on 9, before the OS was ready for us. I vividly remember the first time we got the code running on Mac OS X. ↫ James Thomson I especially like the story about how Steve Jobs really demanded Thomson live in Cupertino in order to work on the dock, instead of remaining remote in Ireland. Thomson and his wife decided not to move to the United States, so he figured he&#8217;d lose his assignment, or maybe even his job altogether. Instead, his managers told him something along the lines of &#8220;don&#8217;t worry, we&#8217;ll just tell Steve you moved&#8221;. What followed were a lot of back-and-forth flights between Ireland and California, and Thomson&#8217;s colleagues telling Steve all sorts of lies and cover stories for whenever he was in Ireland and Steve noticed. Absolutely wild. The dock is one of those things from my years using Mac OS X &#8211; between roughly 2003 and 2009 or so &#8211; that has stuck around with me ever since. To this day, I have a dock at the bottom of my screen that looks and works eerily similar to the Mac OS X dock, and I doubt that&#8217;s going to change any time soon. It suits my way of using my computer incredibly well, and it&#8217;s the first thing I set up on any new installation I perform (I use Fedora KDE). 
-
-<br> 
-
-<https://www.osnews.com/story/141482/the-mac-os-x-dock-turns-25/>
-
----
-
-## How datacenters use water and why kicking the habit is nearly impossible
-
-date: 2025-01-04, updated: 2025-01-07, from: The Register (UK I.T. News)
-
-<h4>If they&#39;re not consuming H<sub>2</sub>O directly, the power plant almost certainly is</h4> <p><strong>Feature</strong>  The explosive growth of datacenters that followed ChatGPT&#39;s debut in 2022 has shone a spotlight on the environmental impact of these power-hungry facilities.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/01/04/how_datacenters_use_water/>
-
----
-
-## Encryption backdoor debate 'done and dusted,' former White House tech advisor says
-
-date: 2025-01-04, updated: 2025-01-06, from: The Register (UK I.T. News)
-
-<h4>When the FBI urges E2EE, you know it&#39;s serious business</h4> <p><strong>interview</strong>  In the wake of the Salt Typhoon hacks, which lawmakers and privacy advocates alike have called the worst telecoms breach in America&#39;s history, the US government agencies have reversed course on encryption.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/01/04/encryption_backdoor_debate/>
-
----
-
-## Solomon Northup's 'Twelve Years a Slave' Came to an End as He Regained His Long-Awaited Freedom on This Day in 1853
-
-date: 2025-01-04, from: Smithsonian Magazine
-
-Northup’s memoir told the story of his kidnapping and years of enslavement in Louisiana. The book became a national best seller and inspired an Oscar-winning film 
-
-<br> 
-
-<https://www.smithsonianmag.com/smart-news/solomon-northups-twelve-years-a-slave-came-to-an-end-as-he-regained-his-long-awaited-freedom-on-this-day-in-1853-180985722/>
-
----
-
-## Shackleton's Endurance sets sail for polar peril in Lego
-
-date: 2025-01-04, updated: 2025-01-04, from: The Register (UK I.T. News)
-
-<h4>Because we&#39;re all still kids – just richer</h4> <p>The debate as to whether Lego is a toy or not largely depends on your willingness to accept revisiting childhood excitement as an adult, especially when it&#39;s now far more likely to be you footing the bill than your parents.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/01/04/lego_endurance/>
-
----
-
-## Atos denies Space Bears' ransomware claims – with a 'but'
-
-date: 2025-01-04, updated: 2025-01-06, from: The Register (UK I.T. News)
-
-<h4>Points finger at third-party infrastructure being breached</h4> <p><strong>updated</strong>  French tech giant Atos today denied that Space Bears criminals breached its systems - but noted that third-party infrastructure was compromised by the ransomware crew, and that files accessed by the crooks included &#34;data mentioning the Atos company name.&#34;…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/01/04/atos_denies_space_bears_ransomware/>
-
----
-
-## Honey co-founder's Pie Adblock called out for copying GPL'd uBlock Origin files
-
-date: 2025-01-04, updated: 2025-01-04, from: The Register (UK I.T. News)
-
-<h4>And, magically, a repo appears on GitHub with attribution</h4> <p>Closed-source browser extension Pie Adblock was this week accused of copying code and text from rival uBlock Origin in violation of the latter&#39;s software license – the GNU GPL version 3.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/01/04/pie_adblock_ublock_origin_code/>
-
----
-
-## Amazon worker – struck and shot in New Orleans terror attack – initially denied time off
-
-date: 2025-01-04, updated: 2025-01-04, from: The Register (UK I.T. News)
-
-<h4>Web giant now pledges full support</h4> <p>A warehouse worker at an Amazon facility in Mobile, Alabama, who was struck by a truck and shot in the New Orleans New Year&#39;s Day deadly terror attack, was initially denied medical leave by the internet mega-giant, possibly due to an HR mix-up.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/01/04/amazon_worker_health/>
 

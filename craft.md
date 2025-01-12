@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-01-11 07:05:05
+updated: 2025-01-12 07:05:35
 ---
 
 # craft
 
-(date: 2025-01-11 07:05:05)
+(date: 2025-01-12 07:05:35)
+
+---
+
+## Protected: Choose an Author – TEST
+
+date: 2025-01-11, from: Guild of American Luthiers
+
+There is no excerpt because this is a protected post. 
+
+<br> 
+
+<https://luth.org/choose-an-author-test/>
 
 ---
 

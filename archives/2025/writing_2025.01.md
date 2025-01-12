@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-01-11 07:05:02
+updated: 2025-01-12 07:05:33
 ---
 
 # writing
 
-(date: 2025-01-11 07:05:02)
+(date: 2025-01-12 07:05:33)
+
+---
+
+## Interstellar MegaChef by Lavanya Lakshminarayan: Review by Ian Mond
+
+date: 2025-01-11, from: Locus Magazine
+
+<p><strong>Interstellar MegaChef</strong>, Lavanya Lakshminarayan (Solaris 978-1-83786-233-7, $16.99, 400pp, tp) November 2024.</p>
+<p>I’ve always loved a good cooking show. Back in the day, it was <strong>Top Chef </strong>(where a contestant always undercooked the chicken) and <strong>Great British Menu </strong>(where every pudding had to include rhubarb). Now, I’m obsessed with Uncle Roger’s YouTube channel. His takedown of Jamie Oliver’s Egg Fried Rice, with 28 million views and over one million likes,  <a href="https://locusmag.com/2025/01/interstellar-megachef-by-lavanya-lakshminarayan-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/interstellar-megachef-by-lavanya-lakshminarayan-review-by-ian-mond/>
 
 ---
 
@@ -575,17 +588,4 @@ date: 2025-01-05, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/01/dream-machine-a-portrait-of-artificial-intelligence-by-appupen-laurent-daudet-review-by-archita-mittra/>
-
----
-
-## The Midnight Club by Margot Harrison: Review by Gabino Iglesias
-
-date: 2025-01-04, from: Locus Magazine
-
-<p><strong>The Midnight Club</strong>, Margot Harrison (Graydon House 978-1-52580-988-0, $28.00, 368pp, hc) September 2024.</p>
-<p>Margot Harrison’s <strong>The Midnight Club </strong>is one of those novels that defies catego­rization. At its core, this is a murder mystery (or a mystery about a suicide that some folks think could have been a murder). However, it’s also a narrative about the changing nature of friendship as well as a science fiction tale about a  <a href="https://locusmag.com/2025/01/the-midnight-club-by-margot-harrison-review-by-gabino-iglesias/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/01/the-midnight-club-by-margot-harrison-review-by-gabino-iglesias/>
 

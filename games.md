@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-01-11 07:05:03
+updated: 2025-01-12 07:05:33
 ---
 
 # games
 
-(date: 2025-01-11 07:05:03)
+(date: 2025-01-12 07:05:33)
+
+---
+
+## Den of Thieves 2 director is planning Den of Thieves 3 — and movies about pirates, Vikings, and ISIS
+
+date: 2025-01-12, updated: 2025-01-10, from: Polygon Website
+
+Creating a brand-new franchise in a world of IP adaptations is hard work. Just ask Christian Gudegast, writer-director of the Den of Thieves franchise. The first movie in the series broke out as a surprise hit in 2018, leading to a sequel now out in theaters. Den of Thieves 2: Pantera goes bigger and bolder, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/action/506218/den-of-thieves-3-sequel-christian-gudegast-future-movies-mafia-x>
+
+---
+
+## How did these hit games find their first 1,000 players?
+
+date: 2025-01-12, updated: 2025-01-10, from: Polygon Website
+
+One poorly understood aspect of the modern games industry is the question of how players find new games. Particularly for smaller indie devs with little or no advertising budget, it’s sort of miraculous that any game can go from 0 players to thousands, let alone millions. Most people give the credit for breakout hit indie [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/506967/first-1000-players-game-dev-interviews-push-talk>
+
+---
+
+## The Apothecary Diaries is back, and now’s the perfect time to catch up
+
+date: 2025-01-11, updated: 2025-01-10, from: Polygon Website
+
+The Apothecary Diaries wasn’t just my favorite anime of 2024, but my favorite show altogether. Based on the light novel series of the same name, The Apothecary Diaries is a perfect blend of medical procedural and period drama, sprinkled with a delicious slow-burn romance between one of my favorite tropes of grumpy girl and flirty [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/506598/the-apothecary-diaries-watch-season-1>
+
+---
+
+## The best Steam Deck accessories
+
+date: 2025-01-11, updated: 2025-01-11, from: Polygon Website
+
+The Steam Deck is a portable gaming powerhouse. After its 2022 launch, it didn&#8217;t take long for the Steam Deck accessory scene to blossom — and it shows no signs of slowing down. The accessories range from all but necessary add-ons (a microSD card and glass screen protectors) to some that are just nice to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories>
+
+---
+
+## It took ‘months’ to convince Donnie Yen to direct and star in The Prosecutor
+
+date: 2025-01-11, updated: 2025-01-10, from: Polygon Website
+
+A new Donnie Yen movie is always a must-see event for action fans. After wowing audiences in 2023 with his role as Caine in John Wick: Chapter 4 and his wuxia epic Sakra (which he directed and starred in), as well as his memorable semi-recent turns in Rogue One and the Ip Man series, the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/action/506278/donnie-yen-the-prosecutor-interview>
+
+---
+
+## Chaotic co-op platformer Pico Park 2 shows the Switch is still getting great new games
+
+date: 2025-01-11, updated: 2025-01-10, from: Polygon Website
+
+Given the excitement around the rumored Nintendo Switch 2, it’s easy to miss new games released to current Nintendo Switch consoles. Recent Nintendo Direct presentations seem to rattle off a bunch of random titles with little attention to each game, and the console hasn’t gotten any big new releases in a while, save for the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-play/506028/pico-park-2-nintendo-switch-new-game>
+
+---
+
+## The best thrillers to watch on Netflix this January
+
+date: 2025-01-11, updated: 2025-01-10, from: Polygon Website
+
+The new year has begun, and that means it’s time for a fresh batch of Netflix thrillers to fill your days. Every month, we handpick a few of the best thrillers on Netflix that fit the current season. Sometimes they pair well with an upcoming release. Other titles might be new additions to the platform. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/recommendations/506897/best-thriller-movies-netflix-watch-january-2025>
+
+---
+
+## How to sign up for the Elden Ring Nightreign network test
+
+date: 2025-01-11, updated: 2025-01-11, from: Polygon Website
+
+Elden Ring Nightreign, a cooperative roguelike Elden Ring spinoff, will be playable via a network test in February. You’ll experience a portion of what Nightreign has to offer, including a glimpse of its gameplay, classes, and progression — as long as you get selected to be a tester. Unfortunately, not everyone will be able to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/505147/network-test-beta-sign-up-dates-how-to>
 
 ---
 
@@ -714,52 +810,4 @@ Pokémon Go is having a Sprigatito Community Day event on Jan. 5 from 2-5 p.m. i
 <br> 
 
 <https://www.polygon.com/pokemon-go-guide/503810/sprigatito-community-day-event-shiny-moveset-floragato-meowscarada>
-
----
-
-## Quick, watch one of the best sci-fi TV seasons ever while Apple TV Plus is free
-
-date: 2025-01-04, updated: 2025-01-06, from: Polygon Website
-
-Apple TV Plus is free the weekend of Jan. 3-5 and, like a lot of people, I have a suggestion for what you should watch. Most of the suggestions are probably fantastic and worthwhile, as Apple has thrown its trillion-dollar weight around the streaming wars and assembled a shockingly good catalogue of original shows. But [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/sci-fi/503030/best-sci-fi-tv-foundation-season-2-apple-tv-plus-watch-stream>
-
----
-
-## GTA Online role-play server launches new phase with wild custom options
-
-date: 2025-01-04, updated: 2025-01-03, from: Polygon Website
-
-While fans eagerly anticipate Grand Theft Auto 6, players are still getting plenty of mileage out of the game’s predecessor. Rockstar is continuing to provide official updates for GTA Online, and players are building their own role-play servers set in San Andreas. These servers’ players build their own cultures, implementing homebrewed mechanics and new ways [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/culture/504002/gta-online-purplerp-1-0-update>
-
----
-
-## The best movies new to streaming this January
-
-date: 2025-01-04, updated: 2025-01-03, from: Polygon Website
-
-Happy New Year, Polygon readers! 2024 is dead and gone; long live 2025, or at least for the next… *glares at calendar* 361 days. The year is starting off strong with a ton of highly anticipated theatrical releases, including Steven Soderbergh’s Presence, Leigh Whannell’s Wolf Man, and Den of Thieves 2: Pantera. If you’re looking [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/502692/best-new-movies-netflix-amazon-prime-max-hulu-january-2025>
-
----
-
-## Pokémon Go ‘Fidough Fetch’ event guide
-
-date: 2025-01-04, updated: 2025-01-04, from: Polygon Website
-
-Pokémon Go is having a global challenge event themed around dog-like Pokémon, called “Fidough Fetch.” Rather than running in your local time, the event will take place at a global time. The event starts on Jan. 3 at 6 p.m. EST and ends on Jan. 8 at 1 a.m. EST. The meat of this event [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/503798/fidough-fetch-global-challenge-rewards-field-research>
 

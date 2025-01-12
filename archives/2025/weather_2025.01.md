@@ -1,11 +1,75 @@
 ---
 title: weather
-updated: 2025-01-11 07:05:02
+updated: 2025-01-12 07:05:32
 ---
 
 # weather
 
-(date: 2025-01-11 07:05:02)
+(date: 2025-01-12 07:05:32)
+
+---
+
+## SPC - No watches are valid as of Sun Jan 12 13:56:01 UTC 2025
+
+date: 2025-01-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Sun Jan 12 13:56:01 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Sun Jan 12 13:56:01 UTC 2025
+
+date: 2025-01-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Sun Jan 12 13:56:01 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Jan 12, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-01-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0655 AM CST Sun Jan 12 2025
+
+Valid 121300Z - 131200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected, but isolated thunderstorms
+may occur near the Gulf Coast tonight.
+
+...Middle Gulf Coast...
+Longwave troughing and prevalent cyclonic upper flow will persist
+over the CONUS with cold/stable conditions remaining prevalent from
+the Rockies eastward. Weak cyclogenesis is expected to occur over
+the western to northern Gulf of Mexico tonight, with increasing
+warm/moist advection toward the middle Gulf Coast. Richer low-level
+theta-e will approach areas such as coastal southeast Louisiana late
+tonight, although the potential for inland surface-rooted
+destabilization should remain limited, with thunderstorms tending to
+focus offshore.
+
+..Guyer.. 01/12/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 

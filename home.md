@@ -1,11 +1,50 @@
 ---
 title: home
-updated: 2025-01-11 07:05:03
+updated: 2025-01-12 07:05:34
 ---
 
 # home
 
-(date: 2025-01-11 07:05:03)
+(date: 2025-01-12 07:05:34)
+
+---
+
+## Umbrella Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-01-12, from: Yard Life blog
+
+<p>The umbrella plant (Schefflera spp.), also known as the umbrella tree, is a popular houseplant cherished for its attractive foliage ... </p>
+<p class="read-more-container"><a title="Umbrella Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/umbrella-plant-care-and-growing-guide-most-detailed/#more-22414" aria-label="Read more about Umbrella Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/umbrella-plant-care-and-growing-guide-most-detailed/">Umbrella Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/umbrella-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## 35 Quick and Easy Dinners You Can Make This Winter
+
+date: 2025-01-11, from: Sunset Magazine - Living in the West
+
+Quick dinner recipes for long winter nights. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/35-quick-and-easy-dinners-you-can-make-this-winter>
+
+---
+
+## Catastrophic Fires Are Ravaging Los Angeles. Here Is How to Stay Safe.
+
+date: 2025-01-11, from: Sunset Magazine - Living in the West
+
+The Palisades, Eaton, and other wildfires continue to grow throughout the city. Here's how to stay safe, and how to help out. 
+
+<br> 
+
+<https://www.sunset.com/travel/fires-los-angeles-palisades-eaton>
 
 ---
 
@@ -84,18 +123,6 @@ date: 2025-01-10, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/succulents/grow-baby-toes/>
-
----
-
-## 35 Quick and Easy Dinners You Can Make This Winter
-
-date: 2025-01-10, from: Sunset Magazine - Living in the West
-
-Quick dinner recipes for long winter nights. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/35-quick-and-easy-dinners-you-can-make-this-winter>
 
 ---
 
@@ -1183,107 +1210,4 @@ Does your fridge need to be decluttered? A professional organizing expert shares
 <br> 
 
 <https://www.sunset.com/home-garden/how-to-clean-out-fridge>
-
----
-
-## 7 Awesome Fire Cider Benefits, According to a Nutritionist
-
-date: 2025-01-04, from: Homestead and Chil
-
-<p>Fan of fire cider claim it helps support the immune system to prevent illness and feel better faster. But does it really work? Come see what a nutritionist says about the health benefits of fire cider, and some precautions.</p>
-<p>The post <a href="https://homesteadandchill.com/fire-cider-benefits-ingredients-nutritionist/">7 Awesome Fire Cider Benefits, According to a Nutritionist</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
- 
-
-<br> 
-
-<https://homesteadandchill.com/fire-cider-benefits-ingredients-nutritionist/>
-
----
-
-## Can Dogs Eat Hard Boiled Eggs? Get the Facts
-
-date: 2025-01-04, from: Yard Life blog
-
-<p>Hard boiled eggs are a popular and nutritious snack for humans, but what about dogs? Many pet owners wonder if ... </p>
-<p class="read-more-container"><a title="Can Dogs Eat Hard Boiled Eggs? Get the Facts" class="read-more button" href="https://ownyardlife.com/can-dogs-eat-hard-boiled-eggs-get-the-facts/#more-22397" aria-label="Read more about Can Dogs Eat Hard Boiled Eggs? Get the Facts">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/can-dogs-eat-hard-boiled-eggs-get-the-facts/">Can Dogs Eat Hard Boiled Eggs? Get the Facts</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/can-dogs-eat-hard-boiled-eggs-get-the-facts/>
-
----
-
-## What Do Hermit Crabs Eat? Discover the Secrets of Their Diet
-
-date: 2025-01-04, from: Yard Life blog
-
-<p>Hermit crabs are fascinating creatures, known for their unique way of living and their quirky behavior. One of the most ... </p>
-<p class="read-more-container"><a title="What Do Hermit Crabs Eat? Discover the Secrets of Their Diet" class="read-more button" href="https://ownyardlife.com/what-do-hermit-crabs-eat-discover-the-secrets-of-their-diet/#more-22392" aria-label="Read more about What Do Hermit Crabs Eat? Discover the Secrets of Their Diet">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/what-do-hermit-crabs-eat-discover-the-secrets-of-their-diet/">What Do Hermit Crabs Eat? Discover the Secrets of Their Diet</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/what-do-hermit-crabs-eat-discover-the-secrets-of-their-diet/>
-
----
-
-## Are Tulips Toxic to Cats? What Every Pet Owner Needs to Know
-
-date: 2025-01-04, from: Yard Life blog
-
-<p>Tulips are among the most popular and vibrant flowers, often found in gardens and bouquets. However, if you are a ... </p>
-<p class="read-more-container"><a title="Are Tulips Toxic to Cats? What Every Pet Owner Needs to Know" class="read-more button" href="https://ownyardlife.com/are-tulips-toxic-to-cats-what-every-pet-owner-needs-to-know/#more-22389" aria-label="Read more about Are Tulips Toxic to Cats? What Every Pet Owner Needs to Know">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/are-tulips-toxic-to-cats-what-every-pet-owner-needs-to-know/">Are Tulips Toxic to Cats? What Every Pet Owner Needs to Know</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/are-tulips-toxic-to-cats-what-every-pet-owner-needs-to-know/>
-
----
-
-## Cat Sneezing a Lot? Causes and Solutions!
-
-date: 2025-01-04, from: Yard Life blog
-
-<p>Cats are beloved pets, often cherished for their playful and curious nature. However, when a cat starts sneezing a lot, ... </p>
-<p class="read-more-container"><a title="Cat Sneezing a Lot? Causes and Solutions!" class="read-more button" href="https://ownyardlife.com/cat-sneezing-a-lot-causes-and-solutions/#more-22386" aria-label="Read more about Cat Sneezing a Lot? Causes and Solutions!">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/cat-sneezing-a-lot-causes-and-solutions/">Cat Sneezing a Lot? Causes and Solutions!</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/cat-sneezing-a-lot-causes-and-solutions/>
-
----
-
-## Can Dogs Eat Olives? The Surprising Truth You Should Know!
-
-date: 2025-01-04, from: Yard Life blog
-
-<p>Olives are a popular snack enjoyed by many people worldwide, often praised for their health benefits. But as a responsible ... </p>
-<p class="read-more-container"><a title="Can Dogs Eat Olives? The Surprising Truth You Should Know!" class="read-more button" href="https://ownyardlife.com/can-dogs-eat-olives-the-surprising-truth-you-should-know/#more-22383" aria-label="Read more about Can Dogs Eat Olives? The Surprising Truth You Should Know!">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/can-dogs-eat-olives-the-surprising-truth-you-should-know/">Can Dogs Eat Olives? The Surprising Truth You Should Know!</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/can-dogs-eat-olives-the-surprising-truth-you-should-know/>
-
----
-
-## Learn How to Grow Roses at Menagerie Farm and Flower
-
-date: 2025-01-04, from: California Grown
-
-<p>Have you ever dreamed of having a rose garden? Felicia Alvarez of Menagerie Farm and Flower wants to help you make those dreams a reality.&#160; Born and raised on a small farm in Sutter County, Felicia Alvarez&#8217;s family grew prunes, rice and a handful of other crops. Felicia spent her childhood helping out on the [&#8230;]</p>
-<p>The post <a href="https://californiagrown.org/blog/menagerie-farm/" data-wpel-link="internal" target="_self">Learn How to Grow Roses at Menagerie Farm and Flower </a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
- 
-
-<br> 
-
-<https://californiagrown.org/blog/menagerie-farm/>
 
