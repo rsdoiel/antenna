@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-01-14 07:05:43
+updated: 2025-01-14 13:25:18
 ---
 
 # craft
 
-(date: 2025-01-14 07:05:43)
+(date: 2025-01-14 13:25:18)
+
+---
+
+## NEW! Maiwa Shawls – Pashmina — From Kashmir Loom
+
+date: 2025-01-14, updated: 2025-01-14, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2025/01/new-maiwa-shawls-pashmina-from-kashmir.html>
 
 ---
 

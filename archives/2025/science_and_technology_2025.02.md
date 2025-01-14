@@ -1,19 +1,247 @@
 ---
 title: science and technology
-updated: 2025-01-14 07:05:40
+updated: 2025-01-14 13:25:15
 ---
 
 # science and technology
 
-(date: 2025-01-14 07:05:40)
+(date: 2025-01-14 13:25:15)
 
 ---
 
-## Intel and AMD engineers rush to save Linux 6.13 after dodgy Microsoft tweak
+## Allstate accused of paying app makers for driver data
 
 date: 2025-01-14, updated: 2025-01-14, from: The Register (UK I.T. News)
 
-<h4>&#39;Let&#39;s not do this again please&#39;... days before release date</h4> <p>Intel and AMD engineers have stepped in at the eleventh to deal with a code contribution from a Microsoft developer that could have broken Linux 6.13 on some systems.…</p> 
+<h4>Insurance giant sued by Texas for using surveillance without consent to jack up premiums, deny coverage</h4> <p>Texas Attorney General Ken Paxton on Monday filed a lawsuit against Allstate Corporation and its mobile analytics subsidiary, Arity, alleging the American insurance giant conspired with mobile app developers to collect telematics data on millions of motorists without consent, in violation of consumer protection laws.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/14/allstate_accused_of_paying_app/>
+
+---
+
+## Music History and Contemporary Art Destroyed in the Deadly Los Angeles Wildfires
+
+date: 2025-01-14, from: Smithsonian Magazine
+
+An archive of scores by composer Arnold Schoenberg and the collections of countless contemporary artists have been lost in the blaze 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/music-history-and-contemporary-art-destroyed-in-the-deadly-lost-angeles-wildfires-180985829/>
+
+---
+
+## Astronomers Found Strange, Accelerating X-Ray Pulses Coming From a Black Hole. They Might Be a Sign of an Orbiting White Dwarf
+
+date: 2025-01-14, from: Smithsonian Magazine
+
+The dense stellar remnant would, if confirmed, be the closest known object to any black hole, according to preliminary research 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/astronomers-found-strange-accelerating-x-ray-pulses-coming-from-a-black-hole-they-might-be-a-sign-of-an-orbiting-white-dwarf-180985832/>
+
+---
+
+## FM TOWNS Technical Databook partially translated to English
+
+date: 2025-01-14, from: OS News
+
+In recent months, we&#8217;ve talked twice about FM Towns, Fujitsu&#8217;s PC platform aimed solely at the Japanese market. It was almost entirely only available in Japanese, so it&#8217;s difficult to explore for those of us who don&#8217;t speak Japanese. There&#8217;s an effort underway to recreate it as open source, which will most likely take a while, but in the meantime, a part of the FM TOWNS Technical Databook, written by Noriaki Chiba, has been translated from Japanese into English by Joe Groff. From the book&#8217;s preface: That is why the author wrote this book, to serve as an essential manual for enthusiasts, systems developers, and software developers. Typical computer manuals do not adequately cover technical specifications, so users tend to have a hard time understanding the hardware. We have an opportunity to thoroughly break through this barrier, and with this new hardware architecture being a milestone in the FM series, it feels like the perfect time to try. Hardware manuals up to this point have typically only explained the consequences of the hardware design without explaining its fundamentals. By contrast, this book describes the hardware design of the TOWNS from its foundations. Since even expert systems developers can feel like amateurs when working with devices outside of their repertoire, this book focuses on explaining those foundations. This is especially necessary for the FM TOWNS, since it features so many new devices, including a 80386 CPU and a CD-ROM drive. ↫ Noriaki Chiba  This handbook goes into great detail about the inner workings of the hardware, and chapter II, which hasn&#8217;t been translated yet, also dives deep into the BIOS of the hardware, from its first revisions to all the additional features added on top as time progressed. This book, as well as its translation, will be invaluable to people trying to use Towns OS today, to developers working on emulators for the platform, and anyone who fits somewhere in between. It seems this translation was done entirely in Groff&#8217;s free time as a side project, which is commendable. We&#8217;re looking at about 65000 words in the target language, of a highly technical nature, all translated for free because someone decided it was worth it. Sending this over to a translation agency would most likely cost well over €10000. Of course, that would include additional editing and proofreading by parties other than the initial translator(s), but that&#8217;s definitely not needed for a passion project like this. Excellent, valuable work. 
+
+<br> 
+
+<https://www.osnews.com/story/141536/fm-towns-technical-databook-partially-translated-to-english/>
+
+---
+
+## FBI wipes Chinese PlugX malware from thousands of Windows PCs in America
+
+date: 2025-01-14, updated: 2025-01-14, from: The Register (UK I.T. News)
+
+<h4>Hey, Xi: Zài jiàn!</h4> <p>The FBI, working with French cops, obtained nine warrants to remotely wipe PlugX malware from thousands of Windows-based computers that had been infected by Chinese government-backed criminals, according to newly unsealed court documents.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/14/fbi_french_cops_boot_chinas/>
+
+---
+
+## Biden opens federal land to power-hungry AI datacenters
+
+date: 2025-01-14, updated: 2025-01-14, from: The Register (UK I.T. News)
+
+<h4>Watt&#39;s the problem? Not enough energy to win the arms race?</h4> <p>US President Joe Biden on Tuesday signed an executive order that aims to ensure American AI leadership doesn&#39;t lag because of shoddy energy infrastructure.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/14/biden_ai_executive_order/>
+
+---
+
+## NASA’s Webb Reveals Intricate Layers of Interstellar Dust, Gas
+
+date: 2025-01-14, from: NASA breaking news
+
+Once upon a time, the core of a massive star collapsed, creating a shockwave that blasted outward, ripping the star apart as it went. When the shockwave reached the star’s surface, it punched through, generating a brief, intense pulse of X-rays and ultraviolet light that traveled outward into the surrounding space. About 350 years later, […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/webb/nasas-webb-reveals-intricate-layers-of-interstellar-dust-gas/>
+
+---
+
+## Best of 2024: Dinosaur Prepared to Safely Watch Solar Eclipse
+
+date: 2025-01-14, from: NASA breaking news
+
+An adult Alamosaurus sports eclipse glasses outside of The Children’s Museum of Indianapolis, on April 6, 2024. Two days later, the total solar eclipse swept across a narrow portion of the North American continent from Mexico’s Pacific coast to the Atlantic coast of Newfoundland, Canada. A partial solar eclipse was visible across the entire North [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/800645/>
+
+---
+
+## Price-fixing-as-a-service: The claim against healthcare cost-cruncher MultiPlan
+
+date: 2025-01-14, updated: 2025-01-14, from: The Register (UK I.T. News)
+
+<h4>Attorney Jennifer Scullion on allegations of algorithmic suppression of competition</h4> <p><strong>Interview</strong>  Price fixing – an agreement between competitors to set price levels – has been illegal under the US Sherman Antitrust Act since 1890.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/14/multiplan_legal_action/>
+
+---
+
+## These Fascinating Objects Show How the Palace of Versailles Drove Surprising Scientific Advances in the 17th and 18th Centuries
+
+date: 2025-01-14, from: Smithsonian Magazine
+
+Titled "Versailles: Science and Splendor," a new exhibition illustrates how the royal court encouraged innovation during the reigns of Louis XIV, Louis XV and Louis XVI 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/these-fascinating-objects-show-how-the-palace-of-versailles-drove-surprising-scientific-advances-in-the-17th-and-18th-centuries-180985816/>
+
+---
+
+## With AI boom in full force 2024 datacenter deals reach $57B record
+
+date: 2025-01-14, updated: 2025-01-14, from: The Register (UK I.T. News)
+
+<h4>Fewer giant deals, but many more smaller ones, in bit barn feeding frenzy</h4> <p>Datacenter merger activity soared to new heights in 2024, with $57 billion in deals closed over the 12 months. If you&#39;re looking for a reason, you guessed it: anticipated gains around generative AI. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/14/2024_datacenter_deals/>
+
+---
+
+## Ten NASA Science, Tech Instruments Flying to Moon on Firefly Lander
+
+date: 2025-01-14, from: NASA breaking news
+
+As part of NASA’s CLPS (Commercial Lunar Payload Services) initiative and Artemis campaign, the agency is preparing to fly ten instruments aboard Firefly Aerospace’s first delivery to the Moon. These science payloads and technology demonstrations will help advance our understanding of the Moon and planetary processes, while paving the way for future crewed missions on [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/ten-nasa-science-tech-instruments-flying-to-moon-on-firefly-lander/>
+
+---
+
+## Oracle open source overlord calls it quits, leaves with big ol' pile of shares
+
+date: 2025-01-14, updated: 2025-01-14, from: The Register (UK I.T. News)
+
+<h4>38-year veteran Edward Screven led technology and architecture decisions since Sun merger</h4> <p>One of Oracle&#39;s longest-serving senior team members, chief corporate architect Edward Screven, has announced plans to retire on a comfortable sum.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/14/oracle_chief_corporate_architect_retires/>
+
+---
+
+## Bats Hitch a Ride on Storm Fronts When Migrating, Saving Energy by 'Surfing' Through the Sky, Study Finds
+
+date: 2025-01-14, from: Smithsonian Magazine
+
+Researchers tracking female bats in central Europe found they migrated much farther in a single night than previously thought. The findings could help protect bats from wind turbine collisions 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/bats-hitch-a-ride-on-storm-fronts-when-migrating-saving-energy-by-surfing-through-the-sky-study-finds-180985823/>
+
+---
+
+## Microsoft, PC makers cut prices of Copilot+ gear in Europe, analyst stats confirm
+
+date: 2025-01-14, updated: 2025-01-14, from: The Register (UK I.T. News)
+
+<h4>Double-digit reduction only served to &#39;stimulate some interest&#39;</h4> <p>Microsoft and its close circle of PC maufacturers slashed the price of Copilot+ PCs being sold into Europe in Q4, an analyst confirmed to <em>The Register</em>, yet it still didn&#39;t make the impact hoped.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/14/ai_pcs_europe_sales/>
+
+---
+
+## NASA Deputy Administrator to Receive 2025 National Space Award
+
+date: 2025-01-14, from: NASA breaking news
+
+The Rotary National Award for Space Achievement Foundation has selected NASA Deputy Administrator Pam Melroy, a retired United States Air Force colonel and former NASA astronaut, to receive the 2025 National Space Trophy on April 25 in Houston. “This honor is not just a reflection of my journey but a testament to the incredible teams [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-deputy-administrator-to-receive-2025-national-space-award/>
+
+---
+
+## Brit watchdog probes Google's search, ads empire
+
+date: 2025-01-14, updated: 2025-01-14, from: The Register (UK I.T. News)
+
+<h4>Third front opened amid continued scrutiny from US, Euro regulators</h4> <p>The UK&#39;s Competition and Markets Authority (CMA) is the latest regulator investigating Google&#39;s position in the search and search advertising business.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/14/cma_google_search_investigation/>
+
+---
+
+## New Simulated Universe Previews Panoramas From NASA’s Roman Telescope
+
+date: 2025-01-14, from: NASA breaking news
+
+Astronomers have released a set of more than a million simulated images showcasing the cosmos as NASA’s upcoming Nancy Grace Roman Space Telescope will see it. This preview will help scientists explore a myriad of Roman’s science goals. “We used a supercomputer to create a synthetic universe and simulated billions of years of evolution, tracing [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/universe/new-simulated-universe-previews-panoramas-from-nasas-roman-telescope/>
+
+---
+
+## Newfound Galaxy Class May Indicate Early Black Hole Growth, Webb Finds
+
+date: 2025-01-14, from: NASA breaking news
+
+In December 2022, less than six months after commencing science operations, NASA’s James Webb Space Telescope revealed something never seen before: numerous red objects that appear small on the sky, which scientists soon called “little red dots” (LRDs). Though these dots are quite abundant, researchers are perplexed by their nature, the reason for their unique […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/webb/newfound-galaxy-class-may-indicate-early-black-hole-growth-webb-finds/>
+
+---
+
+## Intel, AMD engineers rush to save Linux 6.13 after dodgy Microsoft code change
+
+date: 2025-01-14, updated: 2025-01-14, from: The Register (UK I.T. News)
+
+<h4>&#39;Let&#39;s not do this again please&#39;... days before release date</h4> <p>Intel and AMD engineers have stepped in at the eleventh hour to deal with a code contribution from a Microsoft developer that could have broken Linux 6.13 on some systems.…</p> 
 
 <br> 
 
@@ -153,7 +381,7 @@ date: 2025-01-14, updated: 2025-01-14, from: The Register (UK I.T. News)
 
 ---
 
-## WordPress leader Matt Mullenweg exiles five contributors
+## WordPress drama latest: Leader Matt Mullenweg exiles five contributors
 
 date: 2025-01-14, updated: 2025-01-14, from: The Register (UK I.T. News)
 
@@ -169,7 +397,7 @@ date: 2025-01-14, updated: 2025-01-14, from: The Register (UK I.T. News)
 
 date: 2025-01-14, updated: 2025-01-14, from: The Register (UK I.T. News)
 
-<h4>Ransomware &#39;not off the table,&#39; Arctic Wolf threat hunter tells El Reg</h4> <p>Miscreants running a &#34;mass exploitation campaign&#34; against Fortinet firewalls, which peaked in December, may be using an unpatched zero-day vulnerability to compromise the equipment, according to security researchers who say they&#39;ve observed the intrusions.…</p> 
+<h4>Ransomware &#39;not off the table,&#39; Arctic Wolf threat hunter tells El Reg</h4> <p><strong>Updated</strong>  Miscreants running a &#34;mass exploitation campaign&#34; against Fortinet firewalls, which peaked in December, may be using an unpatched zero-day vulnerability to compromise the equipment, according to security researchers who say they&#39;ve observed the intrusions.…</p> 
 
 <br> 
 

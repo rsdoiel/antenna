@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-01-14 07:05:41
+updated: 2025-01-14 13:25:17
 ---
 
 # libraries
 
-(date: 2025-01-14 07:05:41)
+(date: 2025-01-14 13:25:17)
 
 ---
 
@@ -18,6 +18,18 @@ Cui, Jiaming; Li, Junjie; Du, Yi; Habert, Guillaume
 <br> 
 
 <http://hdl.handle.net/20.500.11850/708435>
+
+---
+
+## The Charterhouse of Parma, by Stendhal
+
+date: 2025-01-14, from: Standard Ebooks, new releaases
+
+A young nobleman engages in picaresque adventures across Italy. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/stendhal/the-charterhouse-of-parma/c-k-scott-moncrieff>
 
 ---
 
@@ -58,6 +70,18 @@ A young man from the city becomes a shepherd in the Idaho Rocky Mountains and fi
 <br> 
 
 <https://standardebooks.org/ebooks/edison-marshall/shepherds-of-the-wild>
+
+---
+
+## REMAP-GloSSAC-2023
+
+date: 2025-01-14, from: ETH Zurich, recently added
+
+Jörimann, Andrin 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/713396>
 
 ---
 

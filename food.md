@@ -1,11 +1,111 @@
 ---
 title: food
-updated: 2025-01-14 07:05:43
+updated: 2025-01-14 13:25:18
 ---
 
 # food
 
-(date: 2025-01-14 07:05:43)
+(date: 2025-01-14 13:25:18)
+
+---
+
+## Stanley Is Dropping the Sweetest Berry Truffle Quencher for Valentine’s Day
+
+date: 2025-01-14, from: Taste of Home
+
+<p>Roses are red, violets are blue—the new "Berry Truffle" is our favorite tumbler hue! Here's what we know about the 2025 Valentine's Day Stanley cup. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/valentines-day-stanley-cup-2025/">Stanley Is Dropping the Sweetest Berry Truffle Quencher for Valentine’s Day</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/valentines-day-stanley-cup-2025/>
+
+---
+
+## The Best Cutting Boards (2025) for Slicing, Dicing, Chopping, and Charcuterie
+
+date: 2025-01-14, from: Bon Appetet
+
+Wood, rubber, or plastic—we’ve got a recommendation for every home cook. Plus, tips for cleaning and caring for your board. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-cutting-boards>
+
+---
+
+## Column: For Coffee’s Survival, Researchers Must Prioritize Climate Change
+
+date: 2025-01-14, from: Daily Coffee News
+
+<div><img width="620" height="423" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1-620x423.jpg" class="attachment-large size-large wp-post-image" alt="brazil coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1-620x423.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1-300x204.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1-768x523.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>[Note: This is Part 2 of a short series of stories by guest author Jonas Ferraresso exploring some of the intricacies of the Brazilian coffee market and Brazil’s outsize influence... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/14/column-for-coffees-survival-researchers-must-prioritize-climate-change/>
+
+---
+
+## These Nonalcoholic Bottle Shops Want to You to Drink More Curiously
+
+date: 2025-01-14, from: Bon Appetet
+
+While big box giants jump on the NA boom, mom-and-pop shops prioritize community with a personal touch. 
+
+<br> 
+
+<https://www.bonappetit.com/story/nonalcoholic-bottle-shops-sober-curious-drinking>
+
+---
+
+## KitchenAid Rice Cooker Review: Never Measure Your Rice Again
+
+date: 2025-01-14, from: Bon Appetet
+
+Just how convenient is a machine that measures your ingredients for you? 
+
+<br> 
+
+<https://www.bonappetit.com/story/kitchenaid-rice-cooker-review>
+
+---
+
+## The Best Doro Wat in Washington, DC
+
+date: 2025-01-14, from: Bon Appetet
+
+The rich and spicy stew, often regarded as Ethiopia’s national dish, is the pride of local restaurants. Here are the eight best versions. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-doro-wat-restaurants-washington-dc>
+
+---
+
+## World’s First Air-to-Water Coffee Machine Appears at CES
+
+date: 2025-01-14, from: Daily Coffee News
+
+<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod-620x415.jpg" class="attachment-large size-large wp-post-image" alt="Kara Pod" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Water, the stuff that typically accounts for more than 90% of any finished brew, is commanding increased attention in the coffee sphere. Yet one startup at the recent CES tech... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/14/worlds-first-air-to-water-coffee-machine-appears-at-ces/>
+
+---
+
+## Ruggable Kitchen Rug Review: Durable, Easy to Clean and Oh-So Stylish
+
+date: 2025-01-14, from: Taste of Home
+
+<p>Ruggable kitchen rugs are as good as they get. The only hard part is choosing from hundreds of pretty patterns.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ruggable-kitchen-rugs/">Ruggable Kitchen Rug Review: Durable, Easy to Clean and Oh-So Stylish</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ruggable-kitchen-rugs/>
 
 ---
 
@@ -13,7 +113,7 @@ updated: 2025-01-14 07:05:43
 
 date: 2025-01-14, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Citra Address Coffee 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new cafe and bar concept is making a permanent home in St. Augustine, Florida, with a multiroaster coffee program under the name Address Coffee leading the way by day.&#160;... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Citra Address Coffee 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new cafe and bar concept is making a permanent home in St. Augustine, Florida, with a multiroaster coffee program under the name Address Coffee leading the way by day.&#160;... 
 
 <br> 
 
@@ -197,7 +297,7 @@ date: 2025-01-13, from: The Sprudge
 
 date: 2025-01-13, from: Daily Coffee News
 
-<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Cafe Kreyol new roastery 3" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Virginia-based Café Kreyol, the 2023 Roast magazine Roaster of the Year in the macro category, recently relocated into an expanded production facility. 
+<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Cafe Kreyol new roastery 3" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Virginia-based Café Kreyol, the 2023 Roast magazine Roaster of the Year in the macro category, recently relocated into an expanded production facility. 
 
 <br> 
 
@@ -209,7 +309,7 @@ date: 2025-01-13, from: Daily Coffee News
 
 date: 2025-01-13, from: Daily Coffee News
 
-<div><img width="620" height="433" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Otto-Coffee-Roasters-Binghamton-seats-1-620x433.jpeg" class="attachment-large size-large wp-post-image" alt="Otto Coffee Roasters Binghamton seats" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Otto-Coffee-Roasters-Binghamton-seats-1-620x433.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Otto-Coffee-Roasters-Binghamton-seats-1-300x209.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Otto-Coffee-Roasters-Binghamton-seats-1-150x105.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Otto-Coffee-Roasters-Binghamton-seats-1-768x536.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Otto-Coffee-Roasters-Binghamton-seats-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new cafe and roasting company in Binghamton, New York, called Otto Coffee Roasters is open for business, serving expertly roasted coffees and other drinks in a European-inspired cafe space.&#160;... 
+<div><img width="620" height="433" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Otto-Coffee-Roasters-Binghamton-seats-1-620x433.jpeg" class="attachment-large size-large wp-post-image" alt="Otto Coffee Roasters Binghamton seats" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Otto-Coffee-Roasters-Binghamton-seats-1-620x433.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Otto-Coffee-Roasters-Binghamton-seats-1-300x209.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Otto-Coffee-Roasters-Binghamton-seats-1-150x105.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Otto-Coffee-Roasters-Binghamton-seats-1-768x536.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Otto-Coffee-Roasters-Binghamton-seats-1.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A new cafe and roasting company in Binghamton, New York, called Otto Coffee Roasters is open for business, serving expertly roasted coffees and other drinks in a European-inspired cafe space.&#160;... 
 
 <br> 
 

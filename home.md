@@ -1,11 +1,49 @@
 ---
 title: home
-updated: 2025-01-14 07:05:42
+updated: 2025-01-14 13:25:17
 ---
 
 # home
 
-(date: 2025-01-14 07:05:42)
+(date: 2025-01-14 13:25:17)
+
+---
+
+## Jean Prouvé Designed This €890K Midcentury Prefab for His Daughter
+
+date: 2025-01-14, from: Dwell
+
+Set at the foot of the Vosges mountains, the home is a certified historic monument—and it comes complete with original furnishings designed by the famed architect. 
+
+<br> 
+
+<https://www.dwell.com/article/jean-prouve-maison-du-dr-gauthier-prefab-vosges-france-real-estate-bcaa73c3>
+
+---
+
+## What We’re Watching Burn
+
+date: 2025-01-14, from: Dwell
+
+As the L.A. wildfires rage on, the destruction of 12,000 structures and counting reveals how individual tragedies add up to profound communal loss. 
+
+<br> 
+
+<https://www.dwell.com/article/los-angeles-wildfires-eaton-palisades-architecture-climate-change-9c28beae>
+
+---
+
+## Why Is My Christmas Cactus Not Blooming? 7 Reasons and Fixes
+
+date: 2025-01-14, from: The Gardener's Path
+
+<p>A Christmas cactus (Schlumbergera) in full bloom is a beautiful sight. But these succulents can sometimes be reluctant to flower for a variety of reasons, from the wrong lighting to watering issues. Learn why your holiday cactus is not blooming and what to do about it to bring back the blooms in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/christmas-cactus-not-blooming/">Why Is My Christmas Cactus Not Blooming? 7 Reasons and Fixes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/christmas-cactus-not-blooming/>
 
 ---
 
@@ -28,7 +66,7 @@ date: 2025-01-14, from: Yard Life blog
 
 date: 2025-01-14, from: Dwell
 
-Forget the gimmicky ones you see on YouTube or HGTV, our Small Spaces issue packs in a range of thoughtful homes designed for real life. And they don’t waste an inch. 
+Forget the gimmicky ones you see on YouTube or HGTV: our Small Spaces issue packs in a range of thoughtful homes designed for real life. And they don’t waste an inch. 
 
 <br> 
 
@@ -184,7 +222,7 @@ The designers of the 385-square-foot space turned a prefab structure into a one-
 
 date: 2025-01-14, from: Dwell
 
-The designer and curator says the spiritual object from his mother’s hometown shaped his understanding of rituals as a child, and reminds him to form new ones. 
+Anand Sheth says the spiritual object from his mother’s hometown shaped his understanding of rituals as a child, and reminds him to form new ones. 
 
 <br> 
 
@@ -201,6 +239,42 @@ In the landmark Immeuble Clarté in Geneva by the pioneering modernist and his c
 <br> 
 
 <https://www.dwell.com/article/immeuble-clarte-apartment-renovation-dvk-architects-le-corbusier-pierre-jeanneret-fc029e21>
+
+---
+
+## Disney California Adventure Is Bringing Back This Nostalgic Ride for a Limited Time
+
+date: 2025-01-14, from: Sunset Magazine - Living in the West
+
+Disney California Adventure is bringing back Soarin' Over California for a limited time this February through April. 
+
+<br> 
+
+<https://www.sunset.com/travel/disney-soarin-over-california-ride-return>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-01-14, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Beyond Defensible Space: Here’s How to Protect Your Home with a Safer Garden.
+
+date: 2025-01-14, from: Sunset Magazine - Living in the West
+
+Here's everything you need to know about firescaping and fire defensive landscapes to protect yourself from wildfires. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/firescaping-fire-defensive-tips>
 
 ---
 
@@ -422,18 +496,6 @@ Designed by architect James Strutt in 1969, the Bormann House is wrapped in wood
 
 ---
 
-## Disney California Adventure Is Bringing Back This Nostalgic Ride for a Limited Time
-
-date: 2025-01-13, from: Sunset Magazine - Living in the West
-
-Disney California Adventure is bringing back Soarin' Over California for a limited time this February through April. 
-
-<br> 
-
-<https://www.sunset.com/travel/disney-soarin-over-california-ride-return>
-
----
-
 ## Here’s Exactly What You Should Pack in Your Go-Bag (Plus Where to Buy It)
 
 date: 2025-01-13, from: Sunset Magazine - Living in the West
@@ -519,30 +581,6 @@ A modern house in Sonoma Country narrowly escaped destruction by a record-breaki
 <br> 
 
 <https://www.sunset.com/home-garden/home-tours/fire-resistant-home-design>
-
----
-
-## Beyond Defensible Space: Here’s How to Protect Your Home with a Safer Garden.
-
-date: 2025-01-13, from: Sunset Magazine - Living in the West
-
-Fire season is now year-round. Here's everything you need to know about firescaping and fire defensive landscapes. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/landscaping/firescaping-fire-defensive-tips>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-01-13, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

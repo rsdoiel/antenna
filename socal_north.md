@@ -1,11 +1,137 @@
 ---
 title: socal north
-updated: 2025-01-14 07:05:39
+updated: 2025-01-14 13:25:14
 ---
 
 # socal north
 
-(date: 2025-01-14 07:05:39)
+(date: 2025-01-14 13:25:14)
+
+---
+
+## Tiptoe's survival tale: How the beloved tortoise escaped the Palisades Fire
+
+date: 2025-01-14, updated: 2025-01-14, from: The LAist
+
+For years, Tiptoe has been a beloved sight in Pacific Palisades, quietly tromping along sidewalks and growing a major social media following. But last week, he lost his home to wildfires. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/how-tiptoe-tortoise-escaped-southern-californias-wildfires>
+
+---
+
+## What parents should know about wildfire air quality, ash, and protecting kids
+
+date: 2025-01-14, updated: 2025-01-14, from: The LAist
+
+Wildfire smoke causes particularly dangerous air quality, especially for sensitive groups including children and pregnant people. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/parent-guide-wildfire-air-quality-and-ash-palisades-eaton>
+
+---
+
+## LA restaurants offering free meals for evacuees and first responders
+
+date: 2025-01-14, updated: 2025-01-14, from: The LAist
+
+The restaurant community has stepped up after the fires. A (growing) list of places across the city are providing support. 
+
+<br> 
+
+<https://laist.com/news/food/la-restaurants-offering-free-meals-for-evacuees-and-first-responders>
+
+---
+
+## Santa Clarita Voices Episode Two Available Now
+
+date: 2025-01-14, from: City of Santa Clarita
+
+<p>The Official Podcast of Santa Clarita Covers the Topic of Homelessness in the City The City of Santa Clarita is excited to announce the release of the second episode of Santa Clarita Voices, the City’s official podcast that highlights the stories, experiences and conversations from City leaders, businesses and organizations. This episode features Bridge to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/14/santa-clarita-voices-episode-two-available-now/">Santa Clarita Voices Episode Two Available Now</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/14/santa-clarita-voices-episode-two-available-now/>
+
+---
+
+## 2025 Greater Los Angeles Homeless Count Postponed Due to Wildfires
+
+date: 2025-01-14, from: City of Santa Clarita
+
+<p>Due to the ongoing wildfires throughout the Los Angeles County region, the Los Angeles Homeless Services Authority (LAHSA) has POSTPONED the2025 Greater Los Angeles Homeless Count, which was originally scheduled to take place on Tuesday, January 21, at The Centre (20880 Centre Pointe Parkway). LAHSA currently anticipates a 30-day postponement and is monitoring the situation [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/14/2025-greater-los-angeles-homeless-count-postponed-due-to-wildfires/">2025 Greater Los Angeles Homeless Count Postponed Due to Wildfires</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/14/2025-greater-los-angeles-homeless-count-postponed-due-to-wildfires/>
+
+---
+
+## Does a ‘good’ Air Quality Index rating mean it’s safe to be outdoors?
+
+date: 2025-01-14, updated: 2025-01-14, from: The LAist
+
+The Air Quality Index measures particles in the air, but not how toxic they are, experts say. 
+
+<br> 
+
+<https://laist.com/news/health/air-quality-index-smoke>
+
+---
+
+## Join the City’s Annual Dr. Martin Luther King, Jr. Day Unity Walk
+
+date: 2025-01-14, from: City of Santa Clarita
+
+<p>Program and Walk Will Be Held on Monday, January 20, 2025, at Central Park The City of Santa Clarita and the Santa Clarita City Council invite the community to come together for a Unity Walk in celebration of Martin Luther King, Jr. Day (MLK Day) at Central Park (27150 Bouquet Canyon Road) on Monday, January [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/14/join-the-citys-annual-dr-martin-luther-king-jr-day-unity-walk/">Join the City&#8217;s Annual Dr. Martin Luther King, Jr. Day Unity Walk</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/14/join-the-citys-annual-dr-martin-luther-king-jr-day-unity-walk/>
+
+---
+
+## How Pasadena Humane mobilized to take in pets and wildlife escaping the Eaton Fire
+
+date: 2025-01-14, updated: 2025-01-14, from: The LAist
+
+Pasadena Humane has mobilized to rescue and care for more than 400 animals displaced by the Eaton Fire, including dogs, cats, bunnies, goats, and even a pony. 
+
+<br> 
+
+<https://laist.com/news/pasadena-humane-mobilized-pets-wildlife-escaping-eaton-fire>
+
+---
+
+## Family remembers Victor Shaw, killed in the Eaton Fire, for his bond with his sister
+
+date: 2025-01-14, updated: 2025-01-14, from: The LAist
+
+Family members said Victor Shaw, 66, was shy and reserved in nature, but had a deep love for sports and a tight-knit bond with his younger sister. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/victor-shaw-killed-in-the-eaton-fire-profile>
+
+---
+
+## A pitmaster and dedicated father died alongside his son waiting for help in LA fire
+
+date: 2025-01-14, updated: 2025-01-14, from: The LAist
+
+Anthony Mitchell Sr. and his son Justin were waiting for help to evacuate on the day they died in the Eaton fire, family members said. Anthony Sr. was remembered for his devotion to his children. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/father-dies-alongside-son-waiting-for-help-in-eaton-fire>
 
 ---
 
@@ -107,7 +233,7 @@ Think of PDS or "particular dangerous situation" as the National Weather Service
 
 ## Map: How big are the LA fires? Use this tool to overlay them atop where you live
 
-date: 2025-01-13, updated: 2025-01-13, from: The LAist
+date: 2025-01-13, updated: 2025-01-14, from: The LAist
 
 To better understand the size of the L.A. fires, this tool lets you overlay the fire perimeters on any location in California. 
 
@@ -131,7 +257,7 @@ Here’s what local animal organizations are doing and how to get in contact wit
 
 ## As fires ravage the LA region, so too are conspiracy theories and misinformation
 
-date: 2025-01-13, updated: 2025-01-13, from: The LAist
+date: 2025-01-13, updated: 2025-01-14, from: The LAist
 
 Let us help you separate fact from fiction. 
 

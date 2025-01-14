@@ -1,11 +1,32 @@
 ---
 title: journalism
-updated: 2025-01-14 07:05:41
+updated: 2025-01-14 13:25:16
 ---
 
 # journalism
 
-(date: 2025-01-14 07:05:41)
+(date: 2025-01-14 13:25:16)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Classes at UCLA remain online until Friday, according to a Saturday campuswide email from Chancellor Julio Frenk. The university will host several town halls – including one for students and another for parents Tuesday – to answer questions about the campus response to the fires, he added in a Sunday email. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/477973/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Several fires continue to burn in Southern California.
+The Palisades fire, which is closest to UCLA, has a size of 23,713 acres and is 17% contained, according to the Cal Fire website. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/477965/>
 
 ---
 

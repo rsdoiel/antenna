@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-01-14 07:05:42
+updated: 2025-01-14 13:25:18
 ---
 
 # retro computing
 
-(date: 2025-01-14 07:05:42)
+(date: 2025-01-14 13:25:18)
+
+---
+
+## PAL-2 is now on sale
+
+date: 2025-01-14, from: Hans Otten's Retro blog
+
+The longawaited successor of the PAL-1, the PAL-2 is on sale now. https://www.tindie.com/products/kim1/pal-2-a-mos-6502-powered-computer-kit/ See also:Focal-65 V3D for TIM and KIM-1Focal on the 6502, a page on this small language, originating for Digital Equipment. A small interpreter (about 5K) for...John Bell Engineering catalogsThanks to Dallas Shell I have added the 1984 and 1988 catalog to the [&#8230;] 
+
+<br> 
+
+<http://retro.hansotten.nl/pal-2-is-now-on-sale/>
 
 ---
 

@@ -1,11 +1,180 @@
 ---
 title: columns
-updated: 2025-01-14 07:05:40
+updated: 2025-01-14 13:25:16
 ---
 
 # columns
 
-(date: 2025-01-14 07:05:40)
+(date: 2025-01-14 13:25:16)
+
+---
+
+## January 13, 2024
+
+date: 2025-01-14, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154852035/55041a54fa0e2236b21aa5bf386ea76a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154852035/55041a54fa0e2236b21aa5bf386ea76a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-13-2024-407>
+
+---
+
+## Nick Wingfield on Sonos as an Acquisition Target (and a Juicy Tidbit Regarding a Former Apple Exec Who Wanted to Acquire Them)
+
+date: 2025-01-14, updated: 2025-01-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theinformation.com/articles/where-does-sonos-go-from-here>
+
+---
+
+## How to prepare for a Senate confirmation hearing
+
+date: 2025-01-14, from: Robert Reich's blog
+
+What I learned thirty-three years ago. 
+
+<br> 
+
+<https://robertreich.substack.com/p/how-to-prepare-for-a-senate-confirmation>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-14, from: Dave Winer's Scripting News)
+
+Why are all the people who hate AI so pissy about it. 
+
+<br> 
+
+<http://scripting.com/2025/01/14.html#a202434>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-14, from: Dave Winer's Scripting News)
+
+In the future I will be able to type a post into my blog and people who are following me will see it in their timeline. 
+
+<br> 
+
+<http://scripting.com/2025/01/14.html#a201522>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-14, from: Dave Winer's Scripting News)
+
+Peeve: TV shows or movies that show text messages that are impossible to read even if you stop the video and zoom in. 
+
+<br> 
+
+<http://scripting.com/2025/01/14.html#a201012>
+
+---
+
+## The Configuration Crisis
+
+date: 2025-01-14, from: Jonudell blog
+
+Perhaps, even though they are not themselves explainable, AIs can help us engineer explainable systems. But I’m not optimistic. It feels like we’re on a path to keep making systems harder for humans to configure, and we keep expanding our reliance on superhuman intelligence to do that for us. The Configuration Crisis and Developer Dependency &#8230; <a href="https://blog.jonudell.net/2025/01/14/the-configuration-crisis/" class="more-link">Continue reading <span class="screen-reader-text">The Configuration Crisis</span></a> 
+
+<br> 
+
+<https://blog.jonudell.net/2025/01/14/the-configuration-crisis/>
+
+---
+
+## Listened to Green Eyes by Ludes
+
+date: 2025-01-14, from: Tracy Durnell Blog
+
+An oldie (2006) that I rediscovered as I&#8217;ve been cleaning out my music collection &#8212; this is the mellowest song on the album, Never Had a Chance is fun, I also liked the song Free. 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/14/listened-to-green-eyes-by-ludes/>
+
+---
+
+## ‘47 Years Later, the Palisades Disappeared Overnight’
+
+date: 2025-01-14, updated: 2025-01-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://mikeindustries.com/blog/archive/2025/01/47-years-later-the-palisades-disappeared-overnight>
+
+---
+
+## Volume 1 of Jack Smith’s Special Counsel Report Flatly States Trump Would Have Been Convicted in Election Case
+
+date: 2025-01-14, updated: 2025-01-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2025/01/14/us/politics/trump-special-counsel-report-election-jan-6.html?rsrc=flt&unlocked_article_code=1.pE4.cFWv.PNC5gonIKomh&smid=url-share>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-01-14, from: Ryan Gantz Bluesky feed)
+
+how about y'all shut the fuck up https://heathercoxrichardson.substack.com/p/january-13-2025 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lfpsev44r22p>
+
+---
+
+## How Facts Matter
+
+date: 2025-01-14, from: Doc Searls (at Harvard), New Old Blog
+
+Nineteenth in the News Commons series. Facts don’t matter, or they matter much less than people think—Daniel Kahnemann Facts don’t matter. What matters is how much we hate the person talking—Scott Adams But facts do matter when life and death are on the line. Or when one is recovering from a life-changing situation. To help [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/01/14/how-facts-matter/>
+
+---
+
+## Upcoming Speaking Engagements
+
+date: 2025-01-14, updated: 2025-01-14, from: Bruce Schneier blog
+
+<p>This is a current list of where and when I am scheduled to speak:</p>
+<ul>
+<li>I’m speaking on “AI: Trust &#38; Power” at <a href="https://capricon.org/">Capricon 45</a> in Chicago, Illinois, USA, at 11:30 AM on February 7, 2025. I’m also signing books there on Saturday, February 8, starting at 1:45 PM.</li>
+<li>I’m speaking at <a href="https://boskone.org/">Boskone 62</a> in Boston, Massachusetts, USA, which runs from February 14-16, 2025.</li>
+<li>I’m speaking at the <a href="https://www.cl.cam.ac.uk/events/rossfest/">Rossfest Symposium</a> in Cambridge, UK, on March 25, 2025.</li>
+</ul>
+<p>The list is maintained on <a href="https://www.schneier.com/events/">this page</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/01/upcoming-speaking-engagements-42.html>
+
+---
+
+## Can AI reinvent biology?
+
+date: 2025-01-14, from: Om Malik blog
+
+A new season of&#160;CrazyStupidTech has&#160;begun,&#160;with my&#160;co-writer&#160;Fred Vogelstein&#160;turning his attention&#160;to&#160;a new company from one of the fathers of modern artificial intelligence.&#160; Generative AI has dominated recent discourse, but the impact of artificial intelligence extends far beyond consumer applications. Take Inceptive, for example. The startup, co-founded by Jakob Uszkoreit (co-author of the seminal Transformer paper) and Stanford biochemist Rhiju Das, marries AI and biology to create “biological software.” It is &#8230; 
+
+<br> 
+
+<https://om.co/2025/01/14/can-ai-reinvent-biology/>
 
 ---
 
@@ -113,6 +282,18 @@ date: 2025-01-14, updated: 2025-01-14, from: Daring Fireball
 <br> 
 
 <https://www.bloomberg.com/news/articles/2025-01-14/china-discusses-sale-of-tiktok-us-to-musk-as-one-possible-option>
+
+---
+
+## Just F***in' Do Your Bucket List, Joe
+
+date: 2025-01-14, from: Michael Moore's blog
+
+You Literally Have Nothing to Lose. 
+
+<br> 
+
+<https://www.michaelmoore.com/p/just-fin-do-your-bucket-list-joe>
 
 ---
 
@@ -400,6 +581,18 @@ Almost ten weeks after the 2024 election, North Carolina remains in turmoil from
 
 ---
 
+## Hollywood Reporter Declares FROM GROUND ZERO: "Nothing Short of a Miracle"
+
+date: 2025-01-13, from: Michael Moore's blog
+
+&#8216;From Ground Zero&#8217; Review: In Palestine&#8217;s Striking Shortlisted Oscar Entry, Gazans Find Hope Amid Wreckage 
+
+<br> 
+
+<https://www.michaelmoore.com/p/hollywood-reporter-declares-from>
+
+---
+
 ## Monday 13 January, 2025
 
 date: 2025-01-13, from: John Naughton's online diary
@@ -559,6 +752,18 @@ Ryan Broderick at Garbage Day says content moderation died on January 6, 2021: [
 <br> 
 
 <https://www.jayeless.net/2025/01/chained-echoes.html>
+
+---
+
+## It’s the End of California As We Know It
+
+date: 2025-01-12, from: Michael Moore's blog
+
+Which Means, It&#8217;s the End of Us. We Just Don&#8217;t Know It Yet. And as Trump Dances on LA&#8217;s Grave, We All Must Be 1st Responders. 
+
+<br> 
+
+<https://www.michaelmoore.com/p/its-the-end-of-california-as-we-know>
 
 ---
 

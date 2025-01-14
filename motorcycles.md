@@ -1,11 +1,24 @@
 ---
 title: motorcycles
-updated: 2025-01-14 07:05:42
+updated: 2025-01-14 13:25:17
 ---
 
 # motorcycles
 
-(date: 2025-01-14 07:05:42)
+(date: 2025-01-14 13:25:17)
+
+---
+
+## Would You Rock This Motorcycle Helmet Made Out Of Natural Fibers?
+
+date: 2025-01-14, from: Ride Apart, Electric Motorcycle News
+
+ExoTechnologies’ new recyclable helmet recently acquired a bunch of safety certifications.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/747059/exotech-danu-fiber-helmet-certification/>
 
 ---
 

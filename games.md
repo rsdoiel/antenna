@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-01-14 07:05:41
+updated: 2025-01-14 13:25:16
 ---
 
 # games
 
-(date: 2025-01-14 07:05:41)
+(date: 2025-01-14 13:25:16)
+
+---
+
+## Marvel Rivals tier list for season 1
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+The Marvel Rivals tier list is proof of an inherent truth: not every hero (or villain) is built equally. In the competitive shooter’s season 1 (which added two characters, two maps, a battle pass, and skins), every character is technically viable, but there are some who are obviously more powerful than the rest. Below, we’ve [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/508348/tier-list-best-heroes-ranked>
+
+---
+
+## Squid Game meets Survivor in this battle royale RPG
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+With the second season of Squid Game leaving us all in an emotional lurch and season 48 of Survivor more than a month away, Deathmatch Island is here to hold you over. The tabletop role-playing game takes inspiration from today’s cultural landscape to drop you in the middle of a battle royale-style reality show. The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/508767/deathmatch-island-squid-game-survivor-battle-royale>
+
+---
+
+## Blizzard is keeping Halloween alive in 2025 with Diablo 4’s Season of Witchcraft
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+Even though it’s vampire season, Diablo 4 has the next best thing: witches. In the next season, everyone will tap into the eldritch energy deep within themselves and wield unique powers, like summoning a giant frog and a swarm of burning bats. Starting on Jan. 21, Diablo 4 will look a lot different than an [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/508626/diablo-4-season-7-witchcraft-trailer>
+
+---
+
+## The Meta Quest 3S is on sale for its lowest price ever
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+One of the best ways to experience VR is the Meta Quest 3S, and Amazon has the best deal we’ve seen yet on the 256 GB model of this VR headset. Usually $399.99, you can pick up the 256 GB Meta Quest 3S for just $349.99, giving you double the storage of the baseline model [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/508387/meta-oculus-quest-3-s-vr-sale>
+
+---
+
+## As The Sims turns 25, Maxis teases free stuff in anniversary stream
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+The Sims franchise is a quarter-century old as of Feb. 4th, and it’s been a wild 25 years of WooHooing, drowning Sims in pools, painting goblins in the basement, vampire dynasties, grinding the career ladder, and other soap opera antics. Maxis and Electronic Arts hosted a short stream Tuesday showing some of the upcoming content, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/508655/sims-25th-anniversary-freebies-livestream>
+
+---
+
+## All characters in Marvel Rivals
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+All characters in Marvel Rivals fit into one of three roles: vanguards (tanks), duelists (damage), and strategists (support). While all characters can help out their allies or deal damage, these three roles help you differentiate the heroes and diversify team comps. In addition to a new battle pass and skins, season 1 added two new [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/508732/characters-all-roster-full-list>
+
+---
+
+## GOG joins Europe’s largest game preservation coalition
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+Games marketplace GOG has joined the ranks of the&#160;European Federation of Video Game Archives, Museums, and Preservation. This follows the November 2024 announcement of the GOG Preservation Program, the platform’s independent effort to ensure that games remain playable on modern hardware, even if the titles can no longer be officially sold on GOG or other [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/508410/gog-games-preservation-efgamp-partnership>
+
+---
+
+## Dress to Impress devs say the game isn’t coming to Fortnite
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+As it turns out, Fortnite and Roblox relying on user-made content can get a bit messy. Team Hive, a studio dedicated to creating user-generated content in Fortnite, appeared to tease an upcoming game seemingly inspired by the popular Roblox game, Dress to Impress, on Sunday. However, on Tuesday, a developer from the Dress to Impress [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/508431/dress-to-impress-devs-fortnite-fashion-show>
+
+---
+
+## How to catch an air sprite and water sprite in a single match in Fortnite
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+One of the quests in Fortnite requires you to find both an air sprite and a water sprite in the same match. These elusive little guys can be annoying to find, and if you’re not looking for them, you may not run into them, making it a quest you actively have to seek out (rather [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/508598/air-water-sprite-single-match-locations>
+
+---
+
+## Sea of Stars local co-op revived my love for turn-based RPGs
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+I was a bit skeptical the first time I heard about the local co-op mode in Sabotage Studio’s Sea of Stars. A turn-based game can feel a bit slow when playing alone, so I couldn’t really imagine how it would work with another person sitting next to me the entire time. However, I played Sea [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/508342/sea-of-stars-local-co-op-turn-based-great>
 
 ---
 

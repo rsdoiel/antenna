@@ -1,11 +1,170 @@
 ---
 title: pacific
-updated: 2025-01-14 07:05:40
+updated: 2025-01-14 13:25:15
 ---
 
 # pacific
 
-(date: 2025-01-14 07:05:40)
+(date: 2025-01-14 13:25:15)
+
+---
+
+## UH experts advise state on steps to prevent climate disasters
+
+date: 2025-01-14, from: University of Hawaiʻi News
+
+<p>The Climate Advisory Team provided guidance for climate resilience and disaster recovery in a comprehensive policy paper released on January 7.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/14/cat-policy-paper/"><abbr>UH</abbr> experts advise state on steps to prevent climate disasters</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/14/cat-policy-paper/>
+
+---
+
+## UHERO: Maui wildfires trigger population loss, economic impact
+
+date: 2025-01-14, from: University of Hawaiʻi News
+
+<p>The findings shed light on the long-term effects of the disaster.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/14/migration-effects-maui-wildfires/"><abbr>UHERO</abbr>: Maui wildfires trigger population loss, economic impact</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/14/migration-effects-maui-wildfires/>
+
+---
+
+## Real-world hotel insights for Kapiʻolani CC hospitality students
+
+date: 2025-01-14, from: University of Hawaiʻi News
+
+<p>Associate Professor Kawehi Sellers researched more than 15 hotels to update her housekeeping operations course.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/14/kapiolani-cc-housekeeping-operations-course/">Real-world hotel insights for Kapiʻolani <abbr>CC</abbr> hospitality students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/14/kapiolani-cc-housekeeping-operations-course/>
+
+---
+
+## Enhancing taxpayer services, DOF announces ‘Citizen Portal’
+
+date: 2025-01-14, updated: 2025-01-14, from: Marianas Variety
+
+THE Department of Finance’s Division of Revenue and Taxation is excited to announce the upcoming launch of the Citizen Portal in April 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/enhancing-taxpayer-services-dof-announces-citizen-portal/article_b949bdf8-d219-11ef-ac63-53ed28b0e7bc.html>
+
+---
+
+## NMC nursing graduate passes NCLEX-RN
+
+date: 2025-01-14, updated: 2025-01-14, from: Marianas Variety
+
+(NMC) —  Jaiden Sabugo, a 2024 Northern Marianas College nursing graduate, recently joined numerous other NMC students who have passed the National Council Licensure Examination for Registered Nurses or NCLEX-RN. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/nmc-nursing-graduate-passes-nclex-rn/article_52772aa4-d217-11ef-b9f0-0fbce0c4bf18.html>
+
+---
+
+## Oil shipping rates surge after US sanctions tighten global fleet
+
+date: 2025-01-14, updated: 2025-01-14, from: Marianas Variety
+
+SINGAPORE (Reuters) — Supertanker freight rates jumped after the U.S. expanded sanctions on Russian oil trade and sent traders rushing to book ships to pick up supply from other countries to go to China and India, shipbrokers and traders said. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/oil-shipping-rates-surge-after-us-sanctions-tighten-global-fleet/article_650fa9d4-d24e-11ef-81cf-bb7783ca7f70.html>
+
+---
+
+## Palau’s Whipps pledges tougher penalties for illegal drugs amid rising crisis
+
+date: 2025-01-14, updated: 2025-01-14, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) — With Palau facing what law enforcers have described as a drug crisis, President Surangel Whipps Jr. has identified combating illegal drugs as a top priority for his administration. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/palau-s-whipps-pledges-tougher-penalties-for-illegal-drugs-amid-rising-crisis/article_82731078-d218-11ef-9446-43e39fe7da1e.html>
+
+---
+
+## Utah Tech University students recognized on Dean’s List
+
+date: 2025-01-14, updated: 2025-01-14, from: Marianas Variety
+
+ST. GEORGE, Utah — Students at Utah Tech University in the Fall 2024 semester demonstrated remarkable academic prowess, with 1,208 students earning Dean's List honors. To qualify, students had to attain a semester GPA of 3.5 to 3.89 and complete at least 15 credits. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/utah-tech-university-students-recognized-on-dean-s-list/article_729b2122-d213-11ef-b021-7f7ec2de7dbf.html>
+
+---
+
+## Carrie Underwood, Village People to perform at Trump’s inauguration events
+
+date: 2025-01-14, updated: 2025-01-14, from: Marianas Variety
+
+NEW YORK (AP) — Country music star Carrie Underwood will perform “America the Beautiful” at Donald Trump’s inauguration next week and the 1970s hitmakers Village People will perform at two inaugural events. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/carrie-underwood-village-people-to-perform-at-trump-s-inauguration-events/article_cc6da56c-d24f-11ef-aa30-ebf578f85f37.html>
+
+---
+
+## JKPL’s ITC introduces free courses for continuing education online
+
+date: 2025-01-14, updated: 2025-01-14, from: Marianas Variety
+
+(JKPL) — The Joeten-Kiyu Public Library’s Information Technology Center is excited to introduce the latest online resource available, Universal Class.  All that’s needed to register and take advantage of the free courses is a library card, issued by any of the CNMI State Public Libraries.  All courses under Universal Class are accredited under the International Accreditors for Continuing Education and Training. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/jkpl-s-itc-introduces-free-courses-for-continuing-education-online/article_3fdaa7bc-d24f-11ef-91aa-0763be795443.html>
+
+---
+
+## Tinian mayor asks Finance to reinstate imprest account
+
+date: 2025-01-14, updated: 2025-01-14, from: Marianas Variety
+
+TINIAN Mayor Edwin P. Aldan is asking Finance Secretary Tracy B. Norita to reinstate the island’s imprest account for its Department of Public Safety. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/tinian-mayor-asks-finance-to-reinstate-imprest-account/article_42ea8702-d235-11ef-bee1-efb9aad0d3c2.html>
+
+---
+
+## Wenliang Ma no-show at jury trial; jurors excused
+
+date: 2025-01-14, updated: 2025-01-14, from: Marianas Variety
+
+WENLIANG Ma, who was charged with conspiracy to transport illegal aliens, was a no-show at his jury trial in federal court, which was scheduled to begin on Tuesday. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/wenliang-ma-no-show-at-jury-trial-jurors-excused/article_5936d23a-d254-11ef-93ec-fbe742d3f222.html>
+
+---
+
+## Micronesian Air to launch flight service within 30 to 60 days
+
+date: 2025-01-14, updated: 2025-01-14, from: Marianas Variety
+
+MICRONESIAN Air Connection Services will commence its initial service within the next 30 to 60 days, according to John Stewart, owner of J&amp;P Holdings (CNMI) LLC, which operates the new airline. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/micronesian-air-to-launch-flight-service-within-30-to-60-days/article_8ce218ac-d230-11ef-bf4a-2ffd4e6d8d35.html>
 
 ---
 
