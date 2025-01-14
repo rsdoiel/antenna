@@ -10,6 +10,8 @@ https://www.marketplace.org/feed/podcast/make-me-smart "~Market Place, Make me S
 #https://www.marketplace.org/feed/podcast/marketplace-morning-report "~Marketplace Morning Report"
 https://www.voanews.com/api/zqbomekvi_ "~VOA News USA"
 
+https://contrarian.substack.com/feed "~The Contrarian"
+
 #
 # Non-profit Journalism
 #
