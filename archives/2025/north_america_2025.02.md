@@ -1,11 +1,571 @@
 ---
 title: north america
-updated: 2025-01-13 18:23:12
+updated: 2025-01-14 07:05:39
 ---
 
 # north america
 
-(date: 2025-01-13 18:23:12)
+(date: 2025-01-14 07:05:39)
+
+---
+
+## The number of “sandwich generation” caregivers is growing
+
+date: 2025-01-14, from: Market Place
+
+The term refers to adults caring for both older parents and children — which takes a toll on mental, physical and financial health. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/14/the-number-of-sandwich-generation-caregivers-is-growing/>
+
+---
+
+## It was the Best of Biden, It was the Worst of Biden
+
+date: 2025-01-14, from: The Contrarian
+
+As President Biden&#8217;s final days in public service wind down, his legislative accomplishments and the stumbles of his presidency are laid bare 
+
+<br> 
+
+<https://contrarian.substack.com/p/it-was-the-best-of-biden-it-was-the>
+
+---
+
+## Why are fast casual restaurants like Shake Shack doing so well?
+
+date: 2025-01-14, from: Market Place
+
+Burger chain Shake Shack just announced plans to expand to 1,500 stores. The fast casual sector is growing much quicker than other parts of the restaurant industry. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/14/why-are-fast-casual-restaurants-like-shake-shack-doing-so-well/>
+
+---
+
+## A Contrarian Take on Volume One of Jack Smith’s Report
+
+date: 2025-01-14, from: The Contrarian
+
+The fact that we are already familiar with almost all of the facts in the first volume of Jack Smith's final report on January 6th and Donald Trump's attempted self-coup, makes them no less horrifying. 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-contrarian-take-on-volume-one-of>
+
+---
+
+## China’s ride-hailing and taxi drivers work longer hours for less pay
+
+date: 2025-01-14, from: Market Place
+
+More drivers are joining ride-booking apps at a time when there is less demand for their services. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/14/chinas-rideshare-taxi-drivers-longer-hours-less-pay/>
+
+---
+
+## The Offshore Wind Ban Is Coming
+
+date: 2025-01-14, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTQ4NTg0Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1OTA2MjgzMX0.7jS38JS5ekk4SzIgsSunYsqo36_IGvh0UneFGmwy_Tg/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><em><strong>Current conditions:</strong> <em>Nearly 10 million people are under alert today for fire weather conditions in southern California • The coastal waters off China hit their highest average temperature, 70.7 degrees Fahrenheit, since record-keeping began • A blast of cold air will bring freezing temperatures to an estimated 80% of Americans in the next week.</em> </em></p><h2>THE TOP FIVE</h2><h3>1. Los Angeles to face its ‘most dangerous day’</h3><p>High winds returned to Los Angeles on Monday night and will peak on Tuesday, the <a href="https://www.pbs.org/newshour/nation/los-angeles-wildfire-deaths-rise-to-24-as-crews-prepare-for-return-of-strong-winds?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" target="_blank">“most dangerous” day of the week</a> for the city still battling severe and deadly fires. In anticipation of the dry Santa Ana winds, the National Weather Service issued its highest fire weather warning, citing a “particularly dangerous situation” in Los Angeles and Ventura Counties for <a href="https://www.latimes.com/california/story/2025-01-13/particularly-dangerous-situation-red-flag-fire-weather-warning-issued-for-l-a-ventura-counties?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" target="_blank">the first time</a> since December 2020.</p><p>A new brush fire, the Auto Fire, ignited in Oxnard, Ventura County, on Monday evening. It spread 55 acres before firefighters <a href="https://www.latimes.com/california/live/2025-01-14/fire-winds-los-angeles-california-eaton-altadena-palisades-updates?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" target="_blank">stopped</a> it. Meanwhile, investigators continue <a href="https://heatmap.news/climate/what-started-los-angeles-fires?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" target="_self">to look for the cause of</a> the Palisades Fire, which ignited near a week-old burn scar, a popular partying spot, and damaged wooden utility poles, <a href="https://www.nytimes.com/2025/01/13/us/palisades-fire-cause-ignition-point-site.html?campaign_id=2&emc=edit_th_20250114&instance_id=144662&nl=today%27s-headlines®i_id=69900281&segment_id=188182&user_id=ea4097541ddfaa6543fdfebd013735ac&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" target="_blank">according to a <em>New York Times</em> analysis</a>.</p><p><br/></p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="Extreme Fire Danger map." class="rm-shortcode" data-rm-shortcode-id="327628656eef7f6b7d18984dc9c41e4a" data-rm-shortcode-name="rebelmouse-image" id="57901" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTU4NzczNS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4MDQ5NDAyOH0._vL008x0eVfyQc8ESeZXsXQeEKkMp3cSHrZx1Sj4ywM/image.jpg?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">National Weather Service</small></p><h3>2. Trump is preparing an offshore wind ban</h3><p>Trump is planning an executive order banning offshore wind developments on the East Coast, Heatmap’s Jael Holzman <a href="https://heatmap.news/sparks/offshore-wind-ban-order?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" rel="noopener" target="_self">reported Monday</a>. The news came from New Jersey Republican Representative Jeff Van Drew, who said he’s working with Trump’s team to “to prevent this offshore wind catastrophe from wreaking havoc on the hardworking people who call our coastal towns home.”</p><p>Van Drew’s press release also said that this order is “just the beginning,” and that it would be finalized “within the first few months of the administration,” a far cry from the <a href="https://heatmap.news/climate/what-trump-could-do-to-offshore-wind?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" rel="noopener" target="_self">Day One action</a> Trump has promised. Van Drew had earlier <a href="https://www.njspotlightnews.org/2025/01/nj-rep-jeff-van-drew-drafts-trump-executive-order-freezing-offshore-wind-development/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" rel="noopener noreferrer" target="_blank">told New Jersey reporters</a> that the ban would last six months.</p><p>Meanwhile, in other executive order news, Biden issued an order on Tuesday directing the Energy and Defense departments to lease federal lands for “gigawatt-scale” data centers, <a href="https://www.eenews.net/articles/biden-executive-order-opens-up-federal-tracts-to-data-centers-2/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" target="_blank">according to <em>E&E News</em></a>, but only if they bring online enough clean energy to match their facilities’ needs.</p><h3>3. Supreme Court rejects Utah lawsuit that threatened public lands</h3><p> On Monday, the Supreme Court refused to hear a lawsuit brought by Utah attempting to seize control of the “unappropriated” federal lands in the state. Opponents argued that the lawsuit, if successful, would have put public lands across the West on the path to privatization since Utah and other states likely couldn’t afford to manage them and would have had to sell off much of them. However, “while the Court’s decision denying original review of Utah’s claims is welcome news for our shared public lands, we fully expect Utah’s misguided attacks to continue,” Alison Flint, the senior legal director at The Wilderness Society, said in a statement. <br/><br/>As <a href="https://heatmap.news/climate/utah-seven-county-blm?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" target="_self">I reported last month</a>, the Utah lawsuit organizers “seem prepared to make an appeal to Congress or the Trump administration if the Supreme Court doesn’t make a move in their favor,” given that “funding for the messaging for <a href="https://standforourland.utah.gov/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9#press" target="_blank">Stand for Our Land</a>, the publicity arm of the lawsuit, has reportedly outpaced the spending on lawyers.<br/><br/>Also on Monday, the Supreme Court <a href="https://www.cbsnews.com/news/supreme-court-climate-change-lawsuits-hawaii-energy-companies/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" rel="noopener noreferrer" target="_blank">declined to hear a fossil fuel industry</a> argument to block states, municipalities, and other groups from seeking damages for the harms caused by climate change. The appeal by Sunoco, Exxon Mobil, Chevron, and others stemmed from a high-profile lawsuit in Honolulu that seeks to hold energy companies accountable for causing “a substantial portion” of the effects of climate change. Had the Supreme Court taken up the case, similar lawsuits by California and others likely would have been paused during deliberations. The American Enterprise Institute, a conservative think tank, responded to Monday’s decision by <a href="https://www.washingtonpost.com/business/2025/01/13/supreme-court-climate-change-oil-gas-companies/f613fa94-d1bc-11ef-9835-51843d9371d6_story.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" rel="noopener noreferrer" target="_blank">claiming</a> activists will now “make themselves the nation’s energy regulators.”</p><h3>4. New York’s congestion pricing has cut some commutes ‘in half’</h3><p>A little over a week after the start of New York City’s congestion pricing, the Metropolitan Transportation Authority released data showing significant decreases in the amount of time passengers spend in inbound traffic. On average, during the morning commute, <a href="https://www.congestion-pricing-tracker.com/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" target="_blank">traffic times have decreased by 30% to 40%</a>; in some cases, such as during rush hour in the Holland Tunnel, travel time <a href="https://bsky.app/profile/ianbremmer.com/post/3lfatmvy4is2r?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" rel="noopener noreferrer" target="_blank">has been cut in half</a>, going from <a href="https://x.com/sam_d_1995/status/1878962338210230548?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" rel="noopener noreferrer" target="_blank">over 11 minutes to under five</a>. Due to the traffic reductions, some bus routes are up to 28% faster now than at the same time last year. “It has been a very good week here in New York,” MTA deputy chief Juliette Michaelson said in a news conference.<br/><br/>So far, the MTA has seen an average of 43,000 fewer drivers entering the congestion pricing zone, which begins below 60th St. and costs $9 during the day. While <a href="https://gothamist.com/news/43k-fewer-drivers-on-manhattan-roads-after-congestion-pricing-turned-on-mta-says?utm_content=rundown&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" rel="noopener noreferrer" target="_blank"><em>Gothamist </em>notes</a> that this is only a 7.3% reduction compared to last January, many New Yorkers say congestion pricing effects are <a href="https://x.com/StreetsblogNYC/status/1878807997981352385?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" rel="noopener noreferrer" target="_blank">visibly noticeable</a> in the streets of lower Manhattan.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="The Brooklyn Bridge as congestion pricing went into effect. " class="rm-shortcode" data-rm-shortcode-id="0e9bdad4409a5c1c4b6ac8389ec40e8c" data-rm-shortcode-name="rebelmouse-image" id="9fe94" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTU4Nzc0OC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3Nzc1OTA5OH0.ICOPgXZDxQwvttxKzaHGv7piOx4kW4eyNgOCrfHzHNw/image.jpg?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">The Brooklyn Bridge as congestion pricing went into effect. </small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Photo by Michael M. Santiago/Getty Images</small></p><h3>5. Oil billionaire Harold Hamm plans ‘swanky’ Inauguration watch party</h3><p>Oil and gas magnate Harold Hamm is throwing a “swanky party” to celebrate the inauguration of Donald Trump, on whose campaign he spent more than $4.3 million, according to <a href="https://bsky.app/profile/fldnotes.bsky.social/post/3lfnchrnbjc2a?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" target="_blank">the research group Fieldnotes</a> and <a href="https://www.nytimes.com/2025/01/13/climate/inauguration-plans-harold-hamm-fossil-fuels.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" rel="noopener noreferrer" target="_blank"><em>The New York Times</em></a>. Interior Secretary nominee Doug Burgum was among the invitees, although an advisor has said he does not plan to attend; one of the party’s several major oil and gas industry sponsors, Liberty Energy, was founded by Chris Wright, Trump’s <a href="https://heatmap.news/climate/chris-wright-mind?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" target="_self">nominee for Energy Secretary</a>.<br/><br/>In May, Trump met with oil and gas executives at his Mar-a-Lago resort and <a href="https://www.washingtonpost.com/politics/2024/05/09/trump-oil-industry-campaign-money/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" rel="noopener noreferrer" target="_blank">promised</a> industry-friendly tax and regulatory policies and an aggressive stance against wind energy if they helped fund his White House bid. The oil and gas industry ultimately invested some $75 million in efforts to help re-elect the former president and contributed millions to his <a href="https://heatmap.news/politics/trump-47-committee-big-oil?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" target="_self">legal defense</a>.</p><h2>THE KICKER</h2><p><strong><em>25%</em></strong> — That’s the level of tariff Alberta Premier Danielle Smith said Canada should prepare for after a meeting with incoming President Trump — and not expect exceptions for its crude oil exports to the U.S., <a href="https://x.com/JavierBlas/status/1878830699354165329?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8f-SHP5hop_YW6pWTUhj2i_lr1CmI-6G8Rut067g3xgupWwjibc0YE2qhNRwMUqoTf1rt9" rel="noopener noreferrer" target="_blank">per <em>Bloomberg</em>’s Javier Blas</a>.</p> 
+
+<br> 
+
+<https://heatmap.news/politics/offshore-wind-ban-la-fires>
+
+---
+
+## Biden issues executive order for building AI data centers on federal land
+
+date: 2025-01-14, from: VOA News USA
+
+— U.S. President Joe Biden issued an executive order Tuesday directing the development of artificial intelligence data centers on six federal land sites, with a special focus on powering them with clean energy and upholding high labor standards. 
+
+
+Biden said in a statement that the United States is the world leader in AI, but cannot take that lead for granted. 
+
+
+“We will not let America be out-built when it comes to the technology that will define the future, nor should we sacrifice critical environmental standards and our shared efforts to protect clean air and clean water,” Biden said. 
+
+
+The order calls for the Department of Defense and Department of Energy to each identify three suitable sites where private companies will lease the land, pay for the construction and operation of the data centers and ensure the supply of enough clean energy to fully power the sites. 
+
+
+The developers will also have to buy “an appropriate share” of semiconductors produced in the United States to help ensure there is a “robust domestic semiconductor supply chain,” the White House said. 
+
+
+In addition to identifying the sites, the federal government will also commit under the order to expedite the permitting process for the data center construction. 
+
+
+Senior administration officials, in a phone call with journalists previewing the order, highlighted the national security need for the United States to have its own powerful AI infrastructure, both to protect it for its own use but also to prevent adversaries such as China from possessing those capabilities. 
+
+
+“From the national security standpoint, it's really critical to find a pathway for building the data centers and power infrastructure to support frontier AI operations here in the United States to ensure that the most powerful AI models continue to be trained and stored securely here in the United States,” an official said. 
+
+
+A senior administration official cited the priority of making sure the AI industry had an anchor in the United States to avoid repeating the history of other technologies that moved offshore to areas with lower labor and environmental standards as well. 
+
+
+AI chip restrictions 
+
+
+Tuesday’s order comes a day after the Biden administration announced new restrictions on the export of the most advanced artificial intelligence chips and proprietary parameters used to govern the interactions of users with AI systems.    
+
+
+The rule, which will undergo a 120-day period for public comments, comes in response to what administration officials described as a need to protect national security while also clarifying the rules under which companies in trusted partner countries could access the emerging technology in order to promote innovation.   
+
+
+“Over the coming years, AI will become really ubiquitous in every business application in every industry around the world, with enormous potential for enhanced productivity and societal, health care and economic benefits,” Commerce Secretary Gina Raimondo told reporters. “That being said, as AI becomes more powerful, the risks to our national security become even more intense.”   
+
+
+A senior administration official said the new rule will not include any restrictions on chip sales to Australia, Belgium, Canada, Denmark, Finland, France, Germany, Ireland, Italy, Japan, the Netherlands, New Zealand, Norway, South Korea, Spain, Sweden, Taiwan, the United Kingdom or the United States.   
+
+
+The rules build on 2023 curbs limiting the export of certain AI chips to China, a strategic competitor in the production of advanced semiconductors. Beijing attacked the new U.S. AI edict as a "flagrant violation" of international trade rules.  
+
+
+China’s Ministry of Commerce said the Biden administration announcement "is another example of the generalization of the concept of national security and the abuse of export control, and a flagrant violation of international multilateral economic and trade rules."  
+
+
+Beijing said it would "take necessary measures to firmly safeguard its legitimate rights and interests." 
+
+
+Countries that are under U.S. arms embargoes are already subject to export restrictions on advanced AI chips, but a senior administration official said they will now be under restrictions for the transfer of the most powerful closed weight AI models.    
+
+
+The weights in an AI model determine how it processes the inputs from a user and determines what to provide the user as a response, according to the National Telecommunications and Information Administration. In a closed weight system, those parameters are secret, unlike with an open weight system in which users could see the settings the model is using to make its decisions.    
+
+
+Most countries — those not included in the closed partner or arms embargo lists — will not face licensing requirements for obtaining the equivalent of 1,700 of the most advanced AI chips currently available, nor for any less advanced chips.   
+
+
+Companies in the United States and allied countries will not face restrictions in using the most powerful closed weight AI systems, provided they are stored under adequate security, a senior administration official said. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-administration-unveils-new-rules-for-ai-chip-model-exports-/7934695.html>
+
+---
+
+## Washington braces for Trump inauguration with fortress-like fencing, extra police
+
+date: 2025-01-14, from: VOA News USA
+
+WASHINGTON — With 48 km of tall black temporary fencing, 25,000 law enforcement officers and security checkpoints set up to process hundreds of thousands of spectators, Washington is braced for President-elect Donald Trump's inauguration next week.
+
+
+The Monday swearing-in on the steps of the U.S. Capitol and parade to the White House will follow a weekend featuring protests by Trump's opponents and parties and rallies by the Republican's supporters.
+
+
+The inauguration follows a campaign marked by two attempts on Trump's life — including one from a would-be assassin who nicked his ear with a bullet — and a pair of New Year's Day attacks on ordinary Americans. In one, 14 people were killed and dozens injured when a U.S. Army veteran rammed a truck into a crowd of New Year's Eve revelers in New Orleans. The same day, an active-duty U.S. Army soldier detonated a Tesla Cybertruck outside a Trump-branded hotel in Las Vegas, killing himself.
+
+
+
+
+"We are in a higher-threat environment," said U.S. Secret Service Special Agent in Charge Matt McCool at a Monday press briefing.
+
+
+The inauguration itself, when Trump formally takes the oath of office with members of Congress, the Supreme Court, his incoming administration and tens of thousands of others looking on, will take place on the Capitol steps, facing the Washington Monument.
+
+
+That is the same spot where, on Jan. 6, 2021, thousands of Trump supporters smashed windows, fought with police and sent lawmakers running for their lives in an attempt to overturn his 2020 election loss to Democratic President Joe Biden.
+
+
+Trump's 2024 election rival, Democratic Vice President Kamala Harris, conceded her defeat in the Nov. 5 contest, unlike Trump who continues to falsely maintain that his loss was the result of fraud.
+
+
+Fear of lone wolf 
+
+
+Security officials said they were not aware of any specific, coordinated threats to the inauguration. What they are worried about is lone wolves, such as the New Orleans attacker, or two separate incidents last week. In one, a man was arrested for trying to bring a machete into the Capitol. In the other, a man was arrested for trying to ignite a fire near the Capitol, according to U.S. Capitol Police.
+
+
+
+
+"That threat of the lone actor remains the biggest justification for us being at this heightened state of alert throughout the next week," U.S. Capitol Police Chief Thomas Manger told the security briefing.
+
+
+The FBI and Department of Homeland Security on Monday warned police nationwide of the risk of copycat attacks similar to the New Orleans incident.
+
+
+A large chunk of downtown Washington — stretching about 3 km from the White House to the Capitol — will be closed to vehicular traffic, with entry points blocked with concrete barriers, garbage trucks and other heavy items.
+
+
+The 48 km of 2-meters-tall black fencing, designed to be unclimbable, will be the longest ever erected in Washington, officials said. Some 7,800 National Guard troops and 4,000 officers brought in from other police departments around the country will reinforce security.
+
+
+While some residents of the city, where 90% of voters cast ballots for Harris over Trump, were readying to leave for the holiday weekend or hunker down at home to avoid the gridlock, tens of thousands of people were expected to descend upon the city for celebrations and protests.
+
+
+About 70% of Washington's 34,500 hotel rooms were booked for the night of the inauguration and the night before as of last week, according to data from Smith Travel Research and shared with Reuters by Destination DC, Washington’s official tourism organization. Hotel occupancy was at about 95% for Trump's 2017 inauguration, and about 78% for former President Barack Obama’s second inauguration in 2013.
+
+
+Marches and rallies 
+
+
+Trump's 2017 inauguration was marked by massive protests and counter-protests. His former spokesman, Sean Spicer, famously began his tenure by claiming — contrary to photographic evidence — that the crowd on the grassy National Mall was "the largest audience ever to witness an inauguration — period."
+
+
+
+
+The Women's March the following day drew hundreds of thousands of people onto the streets of Washington — and even more in pop-up solidarity events that took place around the country.
+
+
+A far smaller crowd of 25,000 people is expected to take part in the anti-Trump People's March on DC on Saturday, Metropolitan Police Chief Pamela Smith said on Monday.
+
+
+Thousands are expected to show up for nearly a dozen other protests or rallies that local officials have permitted between Saturday and Monday, including a Trump rally at the 20,000-seat Capital One Arena on Sunday.
+
+
+Juliette Kayyem, a professor at Harvard Kennedy School who served as a homeland security official during the Obama administration, said officials appeared to follow standard practice in planning for all possibilities.
+
+
+"What you're planning for is a worst-case scenario, but my suspicion is you're not going to get it, which is good," Kayyem said. "In terms of planning, it's always easier to ratchet down than ratchet up." 
+
+<br> 
+
+<https://www.voanews.com/a/washington-braces-for-trump-inauguration-with-fortress-like-fencing-extra-police-/7936074.html>
+
+---
+
+## 153 winners of Nobel and World Food prizes seek new ways to grow food
+
+date: 2025-01-14, from: VOA News USA
+
+DES MOINES, Iowa — More than 150 recipients of the Nobel and World Food prizes released an open letter Tuesday calling for a dramatic increase in research and a commitment to new food distribution efforts with a goal of producing more crops and avoiding a global hunger crisis in coming decades.
+
+
+The letter notes that an estimated 700 million people now are “food insecure and desperately poor” but that without a “moonshot” effort to grow more and different kinds of food, far more people will be in dire need of food because of climate change and population growth.
+
+
+“As difficult and as uncomfortable as it might be to imagine, humanity is headed towards an even more food insecure, unstable world by mid-century than exists today, worsened by a vicious cycle of conflict and food insecurity,” states the letter, signed by 153 recipients of the two prizes. “Climate change is projected to decrease the productivity of most major staples when substantial increases are needed to feed a world which will add another 1.5 billion people to its population by 2050.”
+
+
+Corn production in Africa is expected to decline and much of the world could see more soil degradation and water shortages, the letter says.
+
+
+“We are not on track to meet future food needs. Not even close,” it adds.
+
+
+The letter grew from a meeting of food accessibility experts last fall. Despite the potential gloom, it holds out hope for an optimistic vision of the future if people take needed actions. The letter says that a dramatic increase in research funding coupled with more effective ways to share information and distribute food could prevent a hunger crisis.
+
+
+Brian Schmidt, who won the Nobel Prize in physics in 2011, said the need to dramatically increase food production in the coming decades is a huge challenge. He calls it a “destination with destiny,” but one that can be achieved with proper funding to enhance existing knowledge as well as global leadership.
+
+
+“It is an imminently solvable problem. It is a problem that will affect billions of people in 25 years. It is a problem that to solve it, there are no losers, only winners,” Schmidt said in an interview. “All we have to do is do it.”
+
+
+Schmidt said he hopes governments in the U.S., Europe and elsewhere can commit to solving the problem, but he thinks private groups like the Gates Foundation may need to take the lead in funding initial steps that will draw attention and prompt action by politicians.
+
+
+The letter calls for “transformational efforts” such as enhancing photosynthesis in essential crops such as wheat and rice, developing crops that are not as reliant on chemical fertilizers and lengthening the shelf life of fruits and vegetables.
+
+
+Cynthia Rosenzweig, a climate research scientist at NASA who won the World Food Prize in 2022, said in an interview that researchers are already making progress toward breakthroughs, but their work needs to be turbocharged with more funding and emphasis from world leaders.
+
+
+“It's not that we have to dream up new solutions,” Rosenzweig said. “The solutions are very much being tested but in order to actually take them from the lab out into the agriculture regions of the world, we really do need the moonshot approach.”
+
+
+The term moonshot refers to an unprecedented effort, stemming from President John F. Kennedy's call in 1962 for Americans to rocket to the Moon. Rosenzweig, noting she works for NASA, said meeting the food needs of a growing population will take the kind of commitment the U.S. made in achieving Kennedy's goal of reaching the Moon.
+
+
+“Look at how the scientists had to come together. The engineers had to be part of it. The funding had to come together as well as the general public,” she said. “That base of support has to be there as well.” 
+
+<br> 
+
+<https://www.voanews.com/a/winners-of-nobel-and-world-food-prizes-seek-new-ways-to-grow-food/7935994.html>
+
+---
+
+## US special counsel report says prosecutors had enough evidence to convict Trump in 2020 election case
+
+date: 2025-01-14, from: VOA News USA
+
+In a report to Congress released early Tuesday, special counsel Jack Smith said his office had sufficient evidence to “obtain and sustain” a trial conviction of President-elect Donald Trump for efforts to overturn Trump’s loss to President Joe Biden in the 2020 election.
+
+
+Smith said Trump “resorted to a series of criminal efforts to retain power” after it became clear that he had lost and that legal ways to challenge the results had failed.
+
+
+“This included attempts to induce state officials to ignore true vote counts; to manufacture fraudulent slates of presidential electors in seven states that he had lost; to force Justice Department officials and his own Vice President, Michael R. Pence, to act in contravention of their oaths and to instead advance Mr. Trump's personal interests; and, on January 6 , 2021, to direct an angry mob to the United States Capitol to obstruct the congressional certification of the presidential election and then leverage rioters,” Smith said in his report.
+
+
+Smith said Trump acted both in his private capacity as an election candidate, as well as with the help of multiple co-conspirators, and that Trump tried to use “the power and authority of the United States Government in furtherance of his scheme.”
+
+
+The report further says that Trump’s false claims, such as votes being cast by large numbers of dead people or ineligible voters, or that voting machines had changed votes for Trump into votes for Biden, were “demonstrably and, in many cases, obviously false.”
+
+
+Trump has repeatedly denied wrongdoing and attacked the special counsel’s work as politically motivated.
+
+
+He responded to the report’s release early Tuesday with a post on his Truth Social platform calling Smith “a lamebrain prosecutor.”
+
+
+“Deranged Jack Smith was unable to successfully prosecute the Political Opponent of his ‘boss,’ Crooked Joe Biden, so he ends up writing yet another ‘Report’ based on information that the Unselect Committee of Political Hacks and Thugs ILLEGALLY DESTROYED AND DELETED, because it showed how totally innocent I was, and how completely guilty Nancy Pelosi, and others, were,” Trump said.
+
+
+Trump is set to be inaugurated for a new term next week after defeating Vice President Kamala Harris in the 2024 election. During the 2024 campaign, Trump denied he lost the 2020 vote, including in a September debate with Harris. 
+
+
+Tuesday’s report release came a day after U.S. District Judge Aileen Cannon cleared the Justice Department to make public the portion of Smith’s report that dealt with Trump’s efforts to cling to power.
+
+
+Judge Cannon, who was appointed by Trump, had earlier blocked the release of Smith’s full report, which also includes an unreleased section about accusations that Trump illegally retained classified documents after he left office.
+
+
+Smith sought to prosecute Trump on both matters, while Trump denied wrongdoing.
+
+
+Judge Cannon dismissed the classified documents case in July, ruling that Smith was illegally appointed.
+
+
+The Supreme Court also ruled in July that presidents have broad immunity from prosecution for official acts, which blunted Smith’s efforts in the election interference case.
+
+
+After Trump defeated Harris, the Justice Department dropped both cases against Trump, citing longstanding policy against prosecuting a sitting U.S. leader.
+
+
+Some information for this story was provided by The Associated Press and Reuters 
+
+<br> 
+
+<https://www.voanews.com/a/us-special-counsel-report-says-prosecutors-had-enough-evidence-to-convict-trump-in-2020-election-case/7935970.html>
+
+---
+
+## Release of US special counsel’s report could bring new insight into Trump’s 2020 efforts to cling to power
+
+date: 2025-01-14, from: VOA News USA
+
+The public could learn as early as Tuesday new details about U.S. President-elect Donald Trump’s efforts to overturn his 2020 election loss to President Joe Biden.
+
+
+A federal judge has cleared the U.S. Department of Justice to release special counsel Jack Smith’s report about Trump’s efforts to cling to power as he falsely claimed he won the election and a mob of his supporters stormed the U.S. Capitol.
+
+
+U.S. District Judge Aileen Cannon, who was appointed by Trump, had earlier blocked the release of Smith’s full report, which also includes a section about accusations that Trump illegally retained classified documents after he left office.
+
+
+Judge Cannon on Monday ruled the Justice Department can release the election interference portion, but not the classified documents section.
+
+
+Smith sought to prosecute Trump on both matters, while Trump denied wrongdoing.
+
+
+Judge Cannon dismissed the classified documents case in July, ruling that Smith was illegally appointed.
+
+
+The Supreme Court also ruled in July that presidents have broad immunity from prosecution for official acts, which blunted Smith’s efforts in the election interference case.
+
+
+After Trump defeated Vice President Kamala Harris in the 2024 election, the Justice Department dropped both cases against Trump, citing longstanding policy against prosecuting a sitting U.S. leader.
+
+
+Trump is set to be inaugurated for a new term on Jan. 20.
+
+
+Some information for this story was provided by The Associated Press and Reuters 
+
+<br> 
+
+<https://www.voanews.com/a/release-of-us-special-counsel-s-report-could-bring-new-insight-into-trump-s-2020-efforts-to-cling-to-power/7935952.html>
+
+---
+
+## California firefighters ‘better prepared’ amid wind-fueled extreme fire threat
+
+date: 2025-01-14, from: VOA News USA
+
+California firefighters backed by fresh reinforcements of manpower and equipment prepared for the potential of new or worsening wildfires in southern California on Tuesday amid warnings of high winds and dry conditions.
+
+
+The National Weather Service said wind gusts Tuesday could exceed 100 kph, putting large areas of southern California under extreme fire danger warnings.
+
+
+Los Angeles County Fire Chief Anthony Marrone said Monday that firefighters were “absolutely better prepared” than when a series of wildfires rapidly emerged last week, but that the wind gusts could force authorities to ground the aircraft critical to the firefighting effort.
+
+
+Such restrictions were in place for part of last week as four major fires burned. Together, those blazes have scorched more than 160 square kilometers.
+
+
+
+
+Firefighters have brought one fire fully under control, while another north of Los Angeles was 97% percent contained.
+
+
+Danger remained from the two largest fires, including the Palisades Fire on the western side of Los Angeles that has burned 96 square kilometers and was 14% contained as of late Monday, according to the California Department of Foresty and Fire Protection (Cal Fire).
+
+
+The other major fire was the Eaton Fire in the foothills of the San Gabriel Mountains on the east side of the city. That fire was 33% contained and has burned 57 square kilometers, Cal Fire said.
+
+
+The fires have killed at least 24 people, while authorities continue to search for dozens of people who have been reported missing.
+
+
+About 100,000 people in the region remained under evacuation orders.
+
+U.S. President Joe Biden pledged additional federal support on Monday and said during a briefing at the White House, “We’re going to keep doing everything possible to help you get through this.”
+
+
+“It was a heartbreaking weekend for a lot of people in Los Angeles,” Biden said. “Ash was raining down like snow, homes burned to the ground.
+
+
+Thousands of those homes are gone. And we learned we lost more of our fellow Americans. So, let’s say again to the people of Los Angeles, we’re with you.”
+
+
+The president also praised the work of emergency responders.
+
+
+“Los Angeles is the City of Angels, and you’re now the angels,” Biden said. “You’re the angels literally saving people’s lives, and we owe you.”
+
+
+
+
+Biden said the federal government was providing aid to help with overtime pay for firefighters, debris removal and temporary shelters. He said the region will need tens of billions of dollars to recover and called on Congress to “step up” and provide funding.
+
+
+Some Republican leaders in Congress have suggested federal aid only be given with conditions, as they criticized California leaders for what they allege is mismanaging water and forest resources.
+
+
+California Governor Gavin Newsom has said in recent days that the state has increased its firefighter force and forest management efforts since he took office in 2019.
+
+
+On Monday, a lawsuit filed against Southern California Edison claims the utility’s equipment sparked the deadly Eaton Fire that began Jan. 7.
+
+
+Edison acknowledged that fire agencies are investigating whether its equipment may have started a smaller fire in the area that also occurred Jan. 7.
+
+
+Authorities have not yet determined an official cause for the fire.
+
+
+The Los Angeles Department of Water and Power also was sued on Monday. The suit claims that the utility failed to properly manage water supplies critical to fighting the deadly Palisades Fire, which has killed at least eight people and destroyed thousands of structures, according to the court filing.
+
+
+Some information was provided by The Associated Press, Agence France-Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/california-firefighters-better-prepared-amid-wind-fueled-extreme-fire-threat/7935943.html>
+
+---
+
+## Bezos' Blue Origin calls off New Glenn launch again, eyes Thursday
+
+date: 2025-01-14, from: VOA News USA
+
+CAPE CANAVERAL, Fla. — Jeff Bezos' rocket company Blue Origin moved the launch of its New Glenn rocket from Tuesday to Jan. 16, further pushing back its inaugural attempt to reach orbit and compete with SpaceX in the satellite launch market.
+
+
+The company called off its first scheduled launch on Monday after a technical issue was encountered in the lead-up to its takeoff.
+
+
+The three-hour launch window opens at 1 a.m. EST (0600 GMT) on Thursday, Blue Origin said in a post on X.
+
+
+The development of New Glenn has spanned three Blue Origin CEOs and faced numerous delays as Elon Musk's SpaceX grew into an industry juggernaut with its reusable Falcon 9, the world's most active rocket.
+
+
+New Glenn is more than twice as powerful as a Falcon 9 rocket and has dozens of customer launch contracts collectively worth billions of dollars lined up.
+
+
+The rocket would seek to land New Glenn's first stage booster on a sea-fairing barge in the Atlantic Ocean 10 minutes after liftoff, while the rocket's second stage continues toward orbit.
+
+
+"The thing we're most nervous about is the booster landing," Bezos, who founded Blue Origin in 2000, told Reuters in a pre-launch interview on Sunday.
+
+
+"Clearly on a first flight you could have an anomaly at any mission phase, so anything could happen." 
+
+<br> 
+
+<https://www.voanews.com/a/jeff-bezos-space-company-tries-to-launch-rocket-after-last-minute-postponement/7935939.html>
+
+---
+
+## Supreme Court rejects Utah's push to wrest control of public land from the federal government
+
+date: 2025-01-14, from: VOA News USA
+
+WASHINGTON — The Supreme Court on Monday turned back a push by the state of Utah to wrest control of vast areas of public land from the federal government, marking a small victory for land conservation advocates who worry that similar efforts may escalate in a Republican-controlled Washington.
+
+
+The high court refused to let the GOP-controlled state file a lawsuit seeking to bring the land and its resources under state control. The decision came in a brief order in which the court did not explain its reasoning, as is typical. It marks the latest roadblock for states in a running feud with the U.S. government over who should control huge swaths of the West and the enormous oil and gas, timber, and other resources they contain.
+
+
+Utah's top state leaders said they have not ruled out taking their lawsuit to a lower court.
+
+
+In the Western state known for its rugged mountains popular with skiers and red-rock vistas that draw throngs of tourists, federal agencies control almost 70% of the land. Utah argues that local control would be more responsive and allow the state access to revenue from taxes and development projects.
+
+
+The complaint sought control of about half of federal land, which still amounts to an area nearly as large as South Carolina. The parcels are used for things like energy production, grazing, mining and recreation. Utah's world-famous national parks and national monuments would have stayed in federal hands.
+
+
+Monday's decision by the high court comes as the newly Republican-controlled Congress adopted a rules package that includes language allowing lawmakers to more easily transfer or sell off public lands managed by federal agencies. The rules consider public lands to have no monetary value, meaning lawmakers will no longer need to account for lost revenue if they decide to give parcels to states or extractive industries.
+
+
+While conservationists applauded the court's rejection of what they called a land-grab lawsuit, many remained worried that the efforts will continue.
+
+
+Public lands under state control could be vulnerable to privatization, degradation and oil drilling, said Steve Bloch, legal director for the Southern Utah Wilderness Alliance.
+
+
+"If successful, Utah's lawsuit would result in the sale of millions of acres of public lands in red-rock country to the highest bidder, an end to America's system of federal public lands and the dismantling of the American West as we know it," Bloch said.
+
+
+Utah's Republican Sens. Mike Lee and John Curtis criticized the court's decision and promised legislative action. Curtis, who campaigned on being a climate-conscious Republican, said the people of Utah should be entrusted to manage the land they have lived on for generations.
+
+
+"Building roads, moving cattle and cleaning up campgrounds all require navigating a behemothic bureaucracy that's stacked up against the average Utahn," Curtis said.
+
+
+In a joint statement with Utah's Republican legislative leaders and attorney general, Gov. Spencer Cox said he was disappointed in the court's decision to turn away the lawsuit.
+
+
+"Utah remains able and willing to challenge any BLM land management decisions that harm Utah," state leaders said. "We are also heartened to know the incoming administration shares our commitments to the principle of 'multiple use' for these federal lands and is committed to working with us to improve land management."
+
+
+While lawsuits typically start in federal district courts and eventually work their way up to the U.S. Supreme Court, disputes involving states can start at the nation's highest court if the justices agree to hear them.
+
+
+Utah leaders noted that the high court did not comment on the merits of their arguments or prevent them from filing the lawsuit in a federal district court. Conservation groups say they'll remain ready to challenge any future lawsuits.
+
+
+"This lawsuit is an assault on the country's long-standing and successful history of safeguarding valuable and vulnerable landscapes in trust for all Americans," said Chris Hill, who leads the Conservation Lands Foundation. "And while the Supreme Court's decision to not hear the case is a reprieve, we fully expect this small group of anti-public lands politicians to continue to waste taxpayer dollars and shop their bad ideas."
+
+
+The federal Bureau of Land Management declined to comment. 
+
+<br> 
+
+<https://www.voanews.com/a/supreme-court-rejects-utah-s-push-to-wrest-control-of-public-land-from-the-federal-government/7935933.html>
+
+---
+
+## Biden touts a ‘stronger’ America because of his foreign policy
+
+date: 2025-01-14, from: VOA News USA
+
+President Joe Biden laid out his foreign policy doctrine Monday in a sweeping speech just a week before he leaves office. He laid out his argument for staying the course just days before the return of President-elect Donald Trump, who has vowed to steer the ship in a different direction. VOA’s Anita Powell reports from the White House. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-touts-a-stronger-america-because-of-his-foreign-policy/7935916.html>
 
 ---
 
@@ -394,40 +954,70 @@ The role of such boards “is to assume there is reasonable risk and reasonable 
 
 date: 2025-01-13, from: VOA News USA
 
-Washington — Outgoing President Joe Biden sought to burnish his foreign policy record Monday and said U.S. adversaries are weaker than when he took office four years ago despite global crises that remain unresolved. 
+Washington — Outgoing President Joe Biden sought to burnish his foreign policy record on Monday and said U.S. adversaries are weaker than when he took office four years ago despite global crises that remain unresolved.
 
 
-A week before handing over to President-elect Donald Trump, Biden in a rare State Department speech touted his administration's backing for Ukraine against Russia's 2022 invasion and for Israel's wars in the Middle East. 
+A week before handing over to President-elect Donald Trump, Biden addressed U.S. diplomats at the State Department and touted his administration's backing for Ukraine against Russia's 2022 invasion and for Israel's wars in the Middle East.
 
 
-Biden said the United States was "winning the worldwide competition" and would not be surpassed economically by China as had been predicted, while Russia and Iran have been weakened by wars without direct U.S. involvement. 
+Biden said the United States was "winning the worldwide competition" and would not be surpassed economically by China as had been predicted, while Russia and Iran have been weakened by wars without direct U.S. involvement.
 
 
-"Compared to four years ago, America is stronger, our alliances are stronger, our adversaries and competitors are weaker," Biden said. "We have not gone to war to make these things happen." 
+"Compared to four years ago, America is stronger, our alliances are stronger, our adversaries and competitors are weaker," Biden said. "We have not gone to war to make these things happen."
 
 
-While wars continue to rage in Ukraine and the Middle East, officials hope a deal between Israel and the Palestinian militant group Hamas can be reached before Biden departs the White House on Jan. 20. 
+While wars continue to rage in Ukraine and the Middle East, officials hope a deal between Israel and the Palestinian militant group Hamas can be reached before Biden departs the White House on Jan. 20.
 
 
-Biden said negotiators were close to reaching a deal that would free hostages held by Hamas in the Gaza Strip and halt the fighting in the Palestinian enclave to allow a surge of humanitarian aid. 
+Biden said negotiators were close to reaching a deal that would free hostages held by Hamas in the Gaza Strip and halt the fighting in the Palestinian enclave to allow a surge of humanitarian aid.
 
 
-"So many innocent people have been killed, so many communities have been destroyed. Palestinian people deserve peace," he said. 
+"So many innocent people have been killed, so many communities have been destroyed. Palestinian people deserve peace, a right to determine their own futures. Israel deserves peace and real security. The hostages and their families deserve to be reunited," Biden said. "And so we're working urgently to close this deal."
 
 
-Biden has faced criticism for providing Israel with weapons and diplomatic support during its assault on Gaza after Hamas attacked southern Israel on Oct. 7, 2023, killing 1,200 people and taking more than 250 hostages, according to Israeli tallies. 
+Biden has faced criticism for providing Israel with weapons and diplomatic support, since the latest bloodshed in the decades-old Israeli Palestinian conflict began on Oct. 7, 2023, when Hamas attacked Israel, killing 1,200 people and taking about 250 hostages, according to Israeli tallies.
 
 
-Since then, more than 46,000 people have been killed in Gaza, according to Palestinian health officials, with much of the enclave laid to waste and most of its population displaced. 
+Israel's subsequent military assault on Gaza has killed over 46,000 Palestinians, according to the local health ministry, while also drawing accusations of genocide in a World Court case brought by South Africa and of war crimes and crimes against humanity at the International Criminal Court. Israel denies the allegations.
 
 
-Protesters shouting “war criminal” greeted Biden outside the State Department on Monday, some with signs and some throwing red liquid intended to look like blood. 
+The assault has displaced nearly Gaza's entire 2.3 million population and drawn the concern of the world’s main hunger monitor.
 
 
-Biden said he had helped Israel defeat adversaries like Hamas in Gaza and Hezbollah in Lebanon, both backed by Iran. The U.S. president also hailed Washington's support for Israel during two Iranian attacks in 2024. 
+Protesters shouting “war criminal” greeted Biden outside the State Department on Monday, some with signs and some throwing red liquid intended to look like blood.
 
 
-"All told, Iran is weaker than it's been in decades," he added, noting the collapse of the Syrian Assad government. "There's no question that our actions contributed significantly." 
+Biden said he had helped Israel defeat adversaries including Hamas in Gaza and Hezbollah in Lebanon, both backed by Iran. The U.S. president also hailed Washington's support for Israel during two Iranian attacks in 2024.
+
+
+"All told, Iran is weaker than it's been in decades," he added, noting the collapse of the Syrian Assad government. "There's no question that our actions contributed significantly."
+
+
+Authoritarian alliance
+
+
+Biden acknowledged that authoritarian states China, Iran, North Korea and Russia were now more closely aligned with one another, but he said that was more "out of weakness than out of strength."
+
+
+Ukraine, with U.S. backing, had thwarted Russian President Vladimir Putin's goal of wiping the country off the map, Biden said, touting his 2023 visit to Kyiv as the first by a sitting president to a war zone outside the control of U.S. forces.
+
+
+"When Putin invaded Ukraine, he thought he (could) conquer Kyiv in a matter of days. Truth is, since that war began, I'm the only one that stood in the center of Kyiv, not him," Biden said.
+
+
+Russian Foreign Ministry spokeswoman Maria Zakharova, writing on Telegram, said Biden's address amounted to an acknowledgement "that U.S. support for Kyiv created the risk of triggering a nuclear confrontation with Russia."
+
+
+"Today's statement by Biden is an admission of a deliberately executed provocation," Zakharova wrote. "The Biden administration knew it was pushing the world toward the brink and still chose to escalate the conflict."
+
+
+Biden defended his decision to withdraw U.S. troops from Afghanistan, saying there was nothing adversaries like China and Russia would have liked more than seeing the United States continue to be tied down there for another decade.
+
+
+Biden said when he entered the White House, experts predicted it was inevitable that China would surpass the United States in economic terms. Now, he predicted, that will never happen. He said the U.S. economy was moving forward, but there was still work to do.
+
+
+"Now, make no mistake, there are serious challenges the United States must continue to deal with," Biden said, including in Ukraine, the Middle East and the Indo-Pacific. He said the Biden administration was leaving the next administration "a very strong hand to play." 
 
 <br> 
 
@@ -779,51 +1369,6 @@ President-elect Donald Trump's pick to lead the Federal Trade Commission has vow
 <br> 
 
 <https://www.voanews.com/a/who-is-trump-s-pick-to-go-after-big-tech-/7934820.html>
-
----
-
-## Biden administration unveils new rules for AI chip, model exports
-
-date: 2025-01-13, from: VOA News USA
-
-— The Biden administration announced Monday new restrictions on the export of the most advanced artificial intelligence chips and proprietary parameters used to govern the interactions of users with AI systems.
-
-
-The rule, which will undergo a 120-day period for public comments, comes in response to what administration officials described as a need to protect national security while also clarifying the rules under which companies in trusted partner countries could access the emerging technology in order to promote innovation.
-
-
-“Over the coming years, AI will become really ubiquitous in every business application in every industry around the world, with enormous potential for enhanced productivity and societal, healthcare and economic benefits,” Commerce Secretary Gina Raimondo told reporters. “That being said, as AI becomes more powerful, the risks to our national security become even more intense.”
-
-
-A senior administration official said the new rule will not include any restrictions on chip sales to Australia, Belgium, Canada, Denmark, Finland, France, Germany, Ireland, Italy, Japan, the Netherlands, New Zealand, Norway, South Korea, Spain, Sweden, Taiwan, the United Kingdom or the United States.  
-
-
-The rules build on 2023 curbs limiting the export of certain AI chips to China, a strategic competitor in the production of advanced semiconductors. Beijing attacked the new U.S. AI edict as a "flagrant violation" of international trade rules. 
-
-
-China’s Ministry of Commerce said the Biden administration announcement "is another example of the generalization of the concept of national security and the abuse of export control, and a flagrant violation of international multilateral economic and trade rules." 
-
-
-Beijing said it would "take necessary measures to firmly safeguard its legitimate rights and interests." 
-
-
-Countries that are under U.S. arms embargoes are already subject to export restrictions on advanced AI chips, but a senior administration official said they will now be under restrictions for the transfer of the most powerful closed weight AI models.   
-
-
-The weights in an AI model determine how it processes the inputs from a user and determines what to provide the user as a response, according to the National Telecommunications and Information Administration. In a closed weight system, those parameters are secret, unlike with an open weight system in which users could see the settings the model is using to make its decisions.   
-
-
-Most countries — those not included in the closed partner or arms embargo lists — will not face licensing requirements for obtaining the equivalent of 1,700 of the most advanced AI chips currently available, nor for any less advanced chips.  
-
-
-Companies in the United States and allied countries will not face restrictions in using the most powerful closed weight AI systems, provided they are stored under adequate security, a senior administration official said.
-
-
-“I think the key point I would underscore is that we identified really some of the closest security allies of the United States that have effectively implemented and have a well-documented record of upholding a robust AI technology protection regime, and generally have technology ecosystems that promote the use of AI and other advanced technologies consistent with our national security and foreign policy interests,” a senior administration official said. 
-
-<br> 
-
-<https://www.voanews.com/a/biden-administration-unveils-new-rules-for-ai-chip-model-exports-/7934695.html>
 
 ---
 

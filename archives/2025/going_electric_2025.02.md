@@ -1,11 +1,355 @@
 ---
 title: going electric
-updated: 2025-01-13 07:05:53
+updated: 2025-01-14 07:05:43
 ---
 
 # going electric
 
-(date: 2025-01-13 07:05:53)
+(date: 2025-01-14 07:05:43)
+
+---
+
+## The Toyota BZ4X Was An Unexpected Sales Success In 2024
+
+date: 2025-01-14, from: Inside EVs News
+
+Its twin–the Subaru Solterra–did quite well too, despite both EVs having lackluster specs. 
+
+<br> 
+
+<https://insideevs.com/news/747286/toyota-bz4x-sales-success-2024/>
+
+---
+
+## Contrary to popular belief, EV sales grew more in 2024 than 2023 – report
+
+date: 2025-01-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/BYD-US-Chinese-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>In 2024, the world sold 3.5 million more EVs than it did in the previous year, according to a new report by Rho Motion. This increase is <em>larger</em> than the 3.2 million increase in EV sales from the previous year – meaning that EV sales aren’t just up, but that the rate of growth is itself increasing.</p>
+
+
+
+<p>However, an entire year of false political, media and industry statements might have had you thinking otherwise.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-sales" data-layer-viewtype="unknown" data-post-id="397485" href="https://electrek.co/2025/01/14/ev-growth-rose-again-in-2024-despite-media-political-lies-saying-otherwise/#more-397485" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/14/ev-growth-rose-again-in-2024-despite-media-political-lies-saying-otherwise/>
+
+---
+
+## Tesla Model Y 'Juniper' Is Going Into Production Today In Europe: Report
+
+date: 2025-01-14, from: Inside EVs News
+
+Tesla is wasting no time trying to get out of last year’s sales dip. 
+
+<br> 
+
+<https://insideevs.com/news/747239/tesla-model-y-juniper-europe-production/>
+
+---
+
+## These Automakers Are Next In Line To Get Tesla Supercharger Access
+
+date: 2025-01-14, from: Inside EVs News
+
+The list is about to grow from just six names to over a dozen. 
+
+<br> 
+
+<https://insideevs.com/news/747217/non-tesla-supercharger-brands-coming-soon/>
+
+---
+
+## Kia access to Tesla Superchargers delayed, had been expected this week
+
+date: 2025-01-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Kia-NACS-Hyundai-Tesla.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hot on the heels of Kia being added to <a href="https://electrek.co/2025/01/13/several-brands-added-to-teslas-nacs-coming-soon-page-as-rollout-quickens/">Tesla’s “coming soon” page</a> for Supercharger access, we’re now learning that Supercharger support won’t actually come nearly as soon as expected for Kia – with a delay of weeks or months before Kia owners can plug in at North America’s largest fast charging network.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,north-american-charging-standard-nacs" data-layer-viewtype="unknown" data-post-id="397651" href="https://electrek.co/2025/01/13/kia-access-to-tesla-superchargers-delayed-had-been-expected-this-week/#more-397651" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/13/kia-access-to-tesla-superchargers-delayed-had-been-expected-this-week/>
+
+---
+
+## Biden pushes through $635M in EV charger grants before Trump’s return
+
+date: 2025-01-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-Supercharger-Rockland-Maine.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>The Biden administration awarded $635 million in EV charger grants just 10 days before Donald Trump takes office, leaving just $700,000 of the $2.5 billion from the 2021 Bipartisan Infrastructure Law unallocated.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bipartisan-infrastructure-law,donald-trump,ev-chargers,nevi,president-biden" data-layer-viewtype="unknown" data-post-id="397631" href="https://electrek.co/2025/01/13/biden-pushes-through-635m-in-ev-charger-grants-before-trumps-return/#more-397631" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/13/biden-pushes-through-635m-in-ev-charger-grants-before-trumps-return/>
+
+---
+
+## Cybertruck goes solar, new Model Y takes off, and BYD tackles Toyota
+
+date: 2025-01-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/cyber-solar.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s exciting episode of <em></em><em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, Tesla’s redesigned Model Y is grabbing headlines, but the solar Cybertruck might be the thing for you. We’ve also got news from BYD, and an innovative new energy storage system in California.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,china,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="397632" href="https://electrek.co/2025/01/13/cybertruck-goes-solar-new-model-y-takes-off-and-byd-tackles-toyota/#more-397632" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/13/cybertruck-goes-solar-new-model-y-takes-off-and-byd-tackles-toyota/>
+
+---
+
+## Elon Musk misrepresents data that shows Tesla is still years away from unsupervised self-driving
+
+date: 2025-01-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk is praising data that he claims shows Tesla is on the verge of achieving unsupervised Full Self-Driving, when in fact, it shows it is still years away and he is misrepresenting it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="397610" href="https://electrek.co/2025/01/13/elon-musk-misrepresents-data-that-shows-tesla-is-still-years-away-from-unsupervised-self-driving/#more-397610" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/13/elon-musk-misrepresents-data-that-shows-tesla-is-still-years-away-from-unsupervised-self-driving/>
+
+---
+
+## These Are The Top-Selling U.S. Electric Vehicles Of 2024
+
+date: 2025-01-13, from: Inside EVs News
+
+Tesla is still king, but some new faces put up strong numbers as 8% of new car sales were all-electric in 2024. 
+
+<br> 
+
+<https://insideevs.com/news/747199/ev-top-10-sales-2024/>
+
+---
+
+## The Tesla Cybertruck Was A Hit In 2024, But The Hype Is Fading
+
+date: 2025-01-13, from: Inside EVs News
+
+Tesla sold almost 39,000 Cybertrucks in 2024, but sales slowed down significantly toward the end of the year.   
+
+<br> 
+
+<https://insideevs.com/news/747195/tesla-cybertruck-sales-demand-2024/>
+
+---
+
+## The first Jeep and Dodge EVs are finally arriving at US dealerships
+
+date: 2025-01-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Jeep-Dodge-EVs-dealerships-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The first all-electric <a href="https://electrek.co/guides/jeep/">Jeep</a> and Dodge models have officially landed in the US. Although later than planned, Jeep and Dodge EVs are now arriving at US dealerships.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dodge,electric-dodge-charger,electric-jeep,jeep" data-layer-viewtype="unknown" data-post-id="397580" href="https://electrek.co/2025/01/13/first-jeep-dodge-evs-finally-arriving-at-us-dealerships/#more-397580" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/13/first-jeep-dodge-evs-finally-arriving-at-us-dealerships/>
+
+---
+
+## Several brands added to Tesla’s NACS “coming soon” page as rollout quickens
+
+date: 2025-01-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Electric-vehicles-5K-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla has added several automotive brands to its <a href="https://www.tesla.com/NACS">NACS “coming soon” page</a>, indicating that a flood of new car brands are about to gain access to Superchargers in North America.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bmw,genesis,hyundai,jaguar-land-rover,kia,lucid-motors,north-american-charging-standard-nacs,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="397593" href="https://electrek.co/2025/01/13/several-brands-added-to-teslas-nacs-coming-soon-page-as-rollout-quickens/#more-397593" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/13/several-brands-added-to-teslas-nacs-coming-soon-page-as-rollout-quickens/>
+
+---
+
+## Cleantech investments to top fossil fuels for the first time in 2025
+
+date: 2025-01-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Avangrid-Texas-solar.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>For the first time ever, global investments in cleantech are projected to outpace upstream oil and gas spending in 2025, according to a new S&amp;P Global Commodity Insights report.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,oil-and-gas,renewable-energy,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="397582" href="https://electrek.co/2025/01/13/cleantech-investments-to-top-fossil-fuels-for-the-first-time-in-2025/#more-397582" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/13/cleantech-investments-to-top-fossil-fuels-for-the-first-time-in-2025/>
+
+---
+
+## Here’s a look Nissan’s next-gen LEAF spotted testing in the US [Image]
+
+date: 2025-01-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Nissans-next-gen-LEAF-spotted-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The iconic electric car is due for a revival. Nissan’s next-gen <a href="https://electrek.co/guides/nissan-leaf/">LEAF</a> was officially spotted testing in the US, giving us our best look at the upcoming EV so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,nissan-leaf" data-layer-viewtype="unknown" data-post-id="397557" href="https://electrek.co/2025/01/13/nissans-next-gen-leaf-finally-spotted-in-us-image/#more-397557" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/13/nissans-next-gen-leaf-finally-spotted-in-us-image/>
+
+---
+
+## Nobody’s Talking About BMW’s U.S. EV Sales Record
+
+date: 2025-01-13, from: Inside EVs News
+
+EVs are the bright spot for BMW, whose global sales have been declining due to an onslaught of Chinese competitors. 
+
+<br> 
+
+<https://insideevs.com/news/747173/bmw-2024-us-ev-sales-record/>
+
+---
+
+## Save $399 on NIU 40-mile KQi3 Max e-scooter at $600, Camplux portable shower low, Jackery on-the-go power stations, more
+
+date: 2025-01-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/NIU-KQi3-Max-Electric-Kick-Scooter-2-newer-side-by-side-on-lawn.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>We’re kicking off another week of Green Deals, with today’s offers following behind <a href="https://9to5toys.com/2025/01/13/niu-kqi3-max-scooter-600/">NIU’s latest sale</a> that has dropped its 40-mile trekking <a href="https://9to5toys.com/2025/01/13/niu-kqi3-max-scooter-600/">KQi3 Max Electric Kick Scooter to $600</a>, coming in $1 above its Black Friday/Cyber Monday pricing, among other models. We also spotted <a href="https://9to5toys.com/2025/01/10/camplux-nano-3-max-360-low/">Camplux’s Nano 3 Max</a> Portable Water Heater and Shower falling to its <a href="https://9to5toys.com/2025/01/10/camplux-nano-3-max-360-low/">$360</a> low, as well as <a href="https://9to5toys.com/2025/01/13/jackery-explorer-1000-v2-499/">Jackery’s Explorer 1000 v2</a> Portable Power Station hitting <a href="https://9to5toys.com/2025/01/13/jackery-explorer-1000-v2-499/">$499</a>, with other on-the-go backup power options as well. Lastly, we have a one-day discount on the budget-friendly <a href="https://9to5toys.com/2025/01/13/snow-joe-24v-cordless-snow-shovel-159-today/">Snow Joe 24V ION+</a> 13-inch Single-Stage Cordless Electric Snow Shovel for <a href="https://9to5toys.com/2025/01/13/snow-joe-24v-cordless-snow-shovel-159-today/">$159</a>, but keep in mind that the deal only lasts until midnight. We also have all the other hangover Green Deals from last week in the links at the bottom of the page, collected together in our <a href="https://9to5toys.com/2025/01/11/electrified-weekly-segway-e-bikes-preorder-ecoflow-sale-more/">Electrified Weekly roundup</a> from over the weekend. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="397529" href="https://electrek.co/2025/01/13/niu-kqi3-max-e-scooter-camplux-portable-shower-jackery-more/#more-397529" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/13/niu-kqi3-max-e-scooter-camplux-portable-shower-jackery-more/>
+
+---
+
+## Hyundai’s new adventure-ready Inster EV Cross starts at just $35,000 in the UK
+
+date: 2025-01-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Hyundais-Inster-EV-Cross-back.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s first small electric SUV has officially gained a new “outdoor-focused” variant. Starting at just $35,000 (£28,745) in the UK, the <a href="https://electrek.co/guides/hyundai/">Hyundai</a> Inster EV Cross includes more style and features to take on new adventures. Check out the new EV below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="397526" href="https://electrek.co/2025/01/13/hyundais-new-inster-ev-cross-starting-at-35000/#more-397526" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/13/hyundais-new-inster-ev-cross-starting-at-35000/>
+
+---
+
+## First look at Tesla’s new color on updated Model Y
+
+date: 2025-01-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Model-Y-glacier-blue.png?w=1600" /></div><p>We get a first look at Tesla’s new paint color launching on the updated Model Y: Glacier Blue. Dope or nope?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="397527" href="https://electrek.co/2025/01/13/first-look-at-teslas-new-color-on-updated-model-y/#more-397527" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/13/first-look-at-teslas-new-color-on-updated-model-y/>
+
+---
+
+## The Renault Twingo EV Will Be A 1990s Retro Nostalgia Trip
+
+date: 2025-01-13, from: Inside EVs News
+
+Renault recently unveiled the electric subcompact’s interior ahead of its launch next year. 
+
+<br> 
+
+<https://insideevs.com/news/747161/renault-twing-ev-interior-revealed/>
+
+---
+
+## Tesla receives 50,000 orders for new Model Y on first day, report says
+
+date: 2025-01-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/model-y-refresh-junier-promo-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has reportedly received 50,000 orders for the new Model Y with an updated design in about 24 hours, according to a new report in China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="397508" href="https://electrek.co/2025/01/13/tesla-receives-50000-orders-for-new-model-y-on-first-day-report-says/#more-397508" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/13/tesla-receives-50000-orders-for-new-model-y-on-first-day-report-says/>
+
+---
+
+## Jeep is racing to launch its new Wrangler-like Recon EV
+
+date: 2025-01-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Jeep-Recon-spy-photos.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The rugged new electric SUV will be here before you know it. <a href="https://electrek.co/guides/jeep/">Jeep</a> is fast-tracking Recon EV production as it prepares for an upcoming launch. Here’s what to expect from Jeep’s new electric SUV inspired by the legendary Wrangler.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-jeep,jeep" data-layer-viewtype="unknown" data-post-id="397504" href="https://electrek.co/2025/01/13/jeep-racing-to-launch-new-wrangler-like-recon-ev/#more-397504" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/13/jeep-racing-to-launch-new-wrangler-like-recon-ev/>
+
+---
+
+## Rivian R3X Is Already A Hit With Rimac's CEO: 'Would Buy It In A Heartbeat'
+
+date: 2025-01-13, from: Inside EVs News
+
+Mate Rimac, the visionary behind the 1,914 horsepower Nevera, says that he would buy Rivian's performance EV "in a heartbeat." 
+
+<br> 
+
+<https://insideevs.com/news/747131/rivian-r3x-rimac-ceo-heartbeat/>
+
+---
+
+## BYD beat Toyota in EV sales on its home turf in 2024
+
+date: 2025-01-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/BYD-Toyota-EV-sales-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The world’s largest EV maker is making a big statement overseas. In a historic win, <span style="margin: 0px; padding: 0px;"><a href="https://electrek.co/guides/byd/" target="_blank">BYD</a> officially outsold Toyota in EV sales on its own h</span>ome turf for the first time last year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,toyota" data-layer-viewtype="unknown" data-post-id="397487" href="https://electrek.co/2025/01/13/byd-beat-toyota-ev-sales-home-turf-2024/#more-397487" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/13/byd-beat-toyota-ev-sales-home-turf-2024/>
 
 ---
 

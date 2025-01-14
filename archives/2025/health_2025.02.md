@@ -1,11 +1,59 @@
 ---
 title: health
-updated: 2025-01-13 07:05:53
+updated: 2025-01-14 07:05:42
 ---
 
 # health
 
-(date: 2025-01-13 07:05:53)
+(date: 2025-01-14 07:05:42)
+
+---
+
+## Skin microbiota: pathogenic roles and implications in atopic dermatitis
+
+date: 2025-01-14, from: Frontiers in Cellular and Infection Microbiology
+
+Atopic dermatitis (AD) is a chronic and inflammatory skin disorder characterized by impaired barrier function and imbalanced immunity. Recent advances have revealed that dysbiosis of skin microbiota plays important roles in the pathogenesis and development of AD. Meanwhile, endogenous and external factors contribute to the dysbiosis of skin microbiota in AD. Additionally, various treatments, including topical treatments, phototherapy, and systemic biologics, have demonstrated positive impacts on the clinical outcomes, alongside with the modulations of cutaneous microbiota in AD patients. Importantly, therapeutics or products regulating skin microbiota homeostasis have demonstrated potential for AD treatment in early clinical studies. In this review, we underline changes of the skin microbiota correlated with AD. Meanwhile, we provide an overview of the skin microbiota regarding its roles in the pathogenesis and development of AD. Finally, we summarize therapeutic strategies restoring the skin microbial homeostasis in AD management. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1518811>
+
+---
+
+## Innovative epitopes in Staphylococcal Protein-A an immuno-informatics approach to combat MDR-MRSA infections
+
+date: 2025-01-14, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundMethicillin-resistant Staphylococcus aureus (MRSA) poses a significant challenge in clinical environments due to its resistance to standard antibiotics. Staphylococcal Protein A (SpA), a crucial virulence factor of MRSA, undermines host immune responses, making it an attractive target for vaccine development. This study aimed to identify potential epitopes within SpA that could elicit robust immune responses, ultimately contributing to the combat against multidrug-resistant (MDR) MRSA.MethodsThe SpA protein sequence was retrieved from the UniProt database, with various bioinformatics tools employed for epitope prediction. T-cell epitopes were identified using the Tepitool server, focusing on high-affinity interactions with prevalent human leukocyte antigens (HLAs). B-cell epitopes were predicted using the BepiPred tool. Predicted epitopes underwent docking studies with HLA molecules to evaluate binding properties. In-silico analyses confirmed the antigenicity, promiscuity, and non-glycosylated nature of the selected epitopes.ResultsSeveral T and B cell epitopes within SpA were identified, showcasing high binding affinities and extensive population coverage. A multi-epitope vaccine construct, linked by synthetic linkers and an adjuvant, was modelled, refined, and validated through various bioinformatics assessments. The vaccine candidate was subsequently docked with Toll-like receptor 4 (TLR-4) to evaluate its potential for immunogenicity.ConclusionThis study lays the groundwork for developing epitope-based vaccines targeting SpA in MRSA, identifying promising candidates for experimental validation and contributing to innovative immunotherapeutic strategies against MRSA infections. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1503944>
+
+---
+
+## Host cell responses to Candida albicans biofilm-derived extracellular vesicles
+
+date: 2025-01-14, from: Frontiers in Cellular and Infection Microbiology
+
+Candida albicans is a prevalent fungal pathogen responsible for infections in humans. As described recently, nanometer-sized extracellular vesicles (EVs) produced by C. albicans play a crucial role in the pathogenesis of infection by facilitating host inflammatory responses and intercellular communication. This study investigates the functional properties of EVs released by biofilms formed by two C. albicans strains—3147 (ATCC 10231) and SC5314—in eliciting host responses. We demonstrate the capability of C. albicans EVs to trigger reactions in human epithelial and immune cells. The involvement of EVs in pathogenesis was evidenced from the initial stages of infection, specifically in adherence to epithelial cells. We further established the capacity of these EVs to induce cytokine production in the epithelial A549 cell line, THP-1 macrophage-like cells, and blood-derived monocytes differentiated into macrophages. Internalization of EVs by THP-1 macrophage-like cells was confirmed, identifying macropinocytosis and phagocytosis as the most probable mechanisms, as demonstrated using various inhibitors that target potential vesicle uptake pathways in human cells. Additionally, C. albicans EVs and their cargo were identified as chemoattractants for blood-derived neutrophils. After verification of the in vivo effect of biofilm-derived EVs on the host, using Galleria mellonella larvae as an alternative model, it was demonstrated that vesicles from C. albicans SC5314 increased mortality in the injected larvae. In conclusion, for both types of EVs a predominantly pro-inflammatory effect on host was observed, highlighting their significant role in the inflammatory response during C. albicans infection. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1499461>
+
+---
+
+## Association between D-dimer to lymphocyte ratio and in hospital all-cause mortality in elderly patients with sepsis: a cohort of 1123 patients
+
+date: 2025-01-14, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe D-dimer to lymphocyte ratio (DLR), a novel inflammatory biomarker, had been shown to be related to adverse outcomes in patients with various diseases. However, there was limited research on the relationship between the DLR and adverse outcomes in patients with infectious diseases, particularly those with sepsis. Therefore, this study aimed to explore the association between the DLR and in hospital all-cause mortality in elderly patients with sepsis.MethodsA total of 1123 patients admitted in intensive care unit (ICU) were included in this study. The patients were categorized into quartiles (Q1-Q4) based on their DLR values. The primary outcomes included hospital mortality and ICU mortality. Kaplan-Meier analysis was conducted to compare all-cause mortality among the four DLR groups. The association between DLR and all-cause mortality in patients with sepsis was further elucidated using the receiver operating characteristic (ROC) curve and Cox proportional hazards regression analysis.ResultsThe study included participants with a median age of 75 (65-84) years, with 707 (63.0%) being male. The rates of hospital mortality and ICU mortality were 33.7% and 31.9%, respectively. Kaplan-Meier analysis highlighted a significantly increased risk of all-cause mortality among patients with elevated DLR values (log-rank p < 0.001). ROC curve analyses revealed that DLR had a stronger ability to predict hospital mortality and ICU mortality in patients with sepsis than D-dimer or Lym. Multivariable Cox proportional hazards analyses revealed DLR as an independent predictor of hospital death [per 1 SD increase in DLR: HR (95% CI): 1.098 (1.020-1.181); p = 0.013] and ICU death [per 1 SD increase in DLR: HR (95% CI): 1.095 (1.017-1.180); p = 0.017] during the hospital stay.ConclusionsA higher DLR value was associated with hospital and ICU all-cause death in elderly patients with sepsis. This finding demonstrated that the DLR could be a convenient and useful prognostic marker for sepsis prognosis. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1507992>
 
 ---
 

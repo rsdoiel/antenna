@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-01-13 07:05:51
+updated: 2025-01-14 07:05:41
 ---
 
 # games
 
-(date: 2025-01-13 07:05:51)
+(date: 2025-01-14 07:05:41)
+
+---
+
+## To release Animal Crossing in the West, Nintendo ‘had to change everything’
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+Credit the COVID-19 pandemic, social media, or turnip gambling, but as of Nintendo’s latest financial data, Animal Crossing: New Horizons is second to Mario Kart 8 Deluxe in all-time Switch software sales. At over 46 million, that’s more than 10 million above Super Smash Bros. Ultimate, The Legend of Zelda: Breath of the Wild, or [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/animal-crossing/484661/animal-crossing-localization-book-excerpt>
+
+---
+
+## This Game Boy Micro homage is trying to do too much
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+The Ayaneo Pocket Micro is the modern Sony Walkman of gaming handhelds — that is to say, its boxy, high-end design is strangely appealing, and because of its high price and narrow focus, it’s only going to please a certain type of person. To stand out from the crowd of Android gaming handhelds, of which [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hardware/508082/ayaneo-pocket-game-boy-micro-android-handheld-review>
+
+---
+
+## The weakest Donkey Kong Country is still pretty great
+
+date: 2025-01-14, updated: 2025-01-13, from: Polygon Website
+
+Donkey Kong Country Returns just won’t stop returning. Players may recall the game’s initial launch for the Wii in 2010 and perhaps even the updated Donkey Kong Country Returns 3D for the 3DS from 2013, but that’s just the tip of the banana hoard. Returns was also reissued for both Wii and 3DS as part [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/507546/donkey-kong-country-returns-hd-review-nintendo-switch>
+
+---
+
+## Discoveries
+
+date: 2025-01-14, updated: 2025-01-10, from: Polygon Website
+
+At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
+
+---
+
+## When is Godzilla coming to Fortnite this week?
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+Godzilla is coming to Fortnite in Chapter 6 Season 1, ready to stomp on everything (and look extremely weird wearing Kicks while doing so). Compared to previous seasonal skins, like Solid Snake, Geralt of Rivia, and Wolverine, Godzilla’s intimidating bulk doesn’t quite transpose to a vaguely humanoid frame. But the character’s signature chonkiness (Fortnite’s Godzilla [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/488786/godzilla-release-date-battle-pass-skin>
+
+---
+
+## The original Pokémon anime had unique theme songs in Italy — and they’re Eurodance bangers
+
+date: 2025-01-14, updated: 2025-01-13, from: Polygon Website
+
+During a recent live concert at Demodé Club in Modugno, Puglia, as a synth-only melody should have given his voice a moment of respite, singer and composer Giorgio Vanni yelled, “Su le mani per il capitano” (“put your hands up for the captain”). Whether surrounded by rave-like light beams in a clubby indoor venue, under [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon/492675/pokemon-theme-song-italy>
+
+---
+
+## All Fortnite Festival Season 7 music pass skins, songs and rewards list, including Neko Hatsune Miku
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+The Fortnite Festival Season 7 music pass is full of Hatsune Miku-themed rewards as the virtual singer makes her debut. The music pass features a plethora of rewards that’ll satisfy Miku fans, but the ultimate prize is the Neko Hatsune Miku outfit along with its Brite Hatsune Miku Style, which you can then use across [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/507734/festival-season-7-music-pass-neko-hatsune-miku-skins-rewards-songs>
+
+---
+
+## Can Roselia be shiny in Pokémon Go?
+
+date: 2025-01-14, updated: 2025-01-13, from: Polygon Website
+
+Roselia, the thorn Pokémon from Hoenn, can be found in the wild in Pokémon Go. Yes, Roselia can be shiny in Pokémon Go! Roserade is actually a really good grass- and poison-type attacker, so it’s worth grabbing a powerful one if you can. If you already have a shiny Roselia (or any of its family [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/507824/can-roselia-be-shiny-budew-roserade>
+
+---
+
+## How to swap between battle passes in Marvel Rivals
+
+date: 2025-01-13, updated: 2025-01-13, from: Polygon Website
+
+Swapping between battle passes in Marvel Rivals is a great way to get seasonal rewards from a previous season if you’ve existed the current. These battle passes offer a ton of value, adding new skins, sprays, emotes, and more to the game every season. In this Marvel Rivals guide, we’ll walk you through how to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/506952/swap-battle-passes-how-to-change>
+
+---
+
+## The Helldivers 2 devs won’t have much to do with the movie, apparently
+
+date: 2025-01-13, updated: 2025-01-13, from: Polygon Website
+
+The upcoming Helldivers movie won’t heavily involve the developers of the game, according to Arrowhead Game Studios creative director Johan Pilestedt. Pilestedt was asked on X if the studio would have a hand in the production of the upcoming film. “The short answer is yes. The long answer is that we’ll see,” he replied. “We [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/508080/helldivers-movie-arrowhead-games-involvement>
 
 ---
 

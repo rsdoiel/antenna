@@ -1,11 +1,204 @@
 ---
 title: journalism
-updated: 2025-01-13 07:05:51
+updated: 2025-01-14 07:05:41
 ---
 
 # journalism
 
-(date: 2025-01-13 07:05:51)
+(date: 2025-01-14 07:05:41)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Hammer Museum will remain closed until at least Friday, according to a post on the museum’s Instagram. Lulu, the museum’s restaurant, has been donating meals as fires continue to burn across Los Angeles County. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/477963/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Los Angeles Mayor Karen Bass issued an executive order convening a debris removal task force, expediting building permit processes and opening temporary housing, according to a 10:33 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/13/477961/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+The UCLA Volunteer Center is currently looking for people to work on nine wildfire-related projects – including delivering food and providing services to those experiencing homelessness, according to a UCLA Volunteer Center database. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/13/477958/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+The National Weather Service has designated a &#8220;particularly dangerous situation&#8221; from 4 p.m. Tuesday until noon Wednesday, according to a Monday evening press release from UnifiedLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/13/477949/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+UCLA Newsroom has also provided resources for people impacted by the fires and for remote instruction.
+Off-campus students displaced by evacuation orders or who have lost their homes can contact UCLA’s Economic Crisis Response Team, which will provide emergency housing, a transition to permanent UCLA-owned housing, food vouchers and financial assistance, according to UCLA Newsroom. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/13/477947/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 9 p.m. Monday, the UCLA campus is not under any evacuation orders or warnings. However, campus administrators provided more information on the UCLA Newsroom website about what would happen if if an evacuation is ordered. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/13/477945/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Ten individuals have been charged in four crimes related to the Los Angeles County fires, District Attorney Nathan Hochman announced in a Monday press release. Nine of the individuals are facing felony charges in connection with residential burglary allegations in Altadena and Pacific Palisades, and one has been charged with alleged arson for intentionally starting a fire in Azusa, according to the press release. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/13/477943/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Multiple UCLA resource centers, including the Bruin Resource Center, the LGBTQ Campus Resource Center and the Transfer Student Center, will remain remote until at least Friday, according to posts on the organizations&#8217; Instagrams. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/13/477936/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+UCLA First to Go, which provides resources for students who are in the first generation in their family to attend a four-year college, said in a post on Instagram that it was postponing its upcoming events because of the fires. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/13/477932/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Community members and public officials have criticized Los Angeles Mayor Karen Bass for her approach to the recent fires in LA.
+Funding for the LA Fire Department is $17.6 million lower than last year, with respect to a nearly $820 million total budget, according to the City of LA website. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/13/477930/>
+
+---
+
+## Concert preview: Winter season brings R&B singers, indie artists to Los Angeles stages
+
+date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+As snowflakes fall in the north and cool winds chill Los Angeles, another season of concerts begins.
+With artists ranging from R&#38;B singers to beloved groups and rising indie favorites currently on the road, the next few months are set to deliver memorable concerts across several LA venues. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/13/concert-preview-winter-season-brings-rb-singers-indie-artists-to-los-angeles-stages/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Concerns about air quality remain in place across Los Angeles.
+Free N95 face masks are being distributed at public libraries, senior centers and recreation centers across LA, according to a 5:32 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/13/477916/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+A disaster recovery center will be opening at the UCLA Research Park – formerly the Westside Pavilion mall – at 1 p.m. Tuesday, according to an emailed statement from Mayor Karen Bass&#8217; office. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/13/477913/>
+
+---
+
+## Karen Bass faces scrutiny for wildfire response, LAFD budget cuts
+
+date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Community members and public officials criticized Los Angeles Mayor Karen Bass’ approach to recent fires.
+Bass signed off on the city’s nearly $13 billion 2024-2025 budget in June. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/13/karen-bass-faces-scrutiny-for-wildfire-response-lafd-budget-cuts/>
+
+---
+
+## The Bruin’s full coverage of the LA County fires
+
+date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+See the Daily Bruin’s full coverage of the January 2025 Los Angeles County fires here. For live updates, please visit the live feed. 
+
+<br> 
+
+<https://dailybruin.com/tag/la-county-fires>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Palisades fire, which is closest to UCLA, remains 23,713 acres in size, according to the Cal Fire website.
+The UCLA Academic Senate approved remote instruction until at least Friday, Chancellor Julio Frenk said in a Saturday campuswide email. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/13/477897/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-13, from: The Daily Bruin (UCLA Student Newspaper))
+
+UCLA is helping people impacted by fires across Los Angeles County in a number of ways, said UCLA spokesperson Ricardo Vazquez in an emailed statement.
+The university has donated space at the UCLA Research Park – formerly the Westside Pavilion – to the Federal Emergency Management Agency for its Disaster Recovery Center. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/13/477890/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-13, from: The Daily Bruin (UCLA Student Newspaper))
+
+UCPD officers from UC San Diego, who were on campus as part of a mutual aid agreement that spans UC campuses, met with a fire evacuee to support them, according to a post on the UCLA Police Department Instagram. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/13/477884/>
 
 ---
 

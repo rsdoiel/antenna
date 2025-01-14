@@ -1,11 +1,73 @@
 ---
 title: motorcycles
-updated: 2025-01-13 07:05:52
+updated: 2025-01-14 07:05:42
 ---
 
 # motorcycles
 
-(date: 2025-01-13 07:05:52)
+(date: 2025-01-14 07:05:42)
+
+---
+
+## This DIY Electric Trike Looks Like a Garage-Built Death-Trap, So I Want One
+
+date: 2025-01-14, from: Ride Apart, Electric Motorcycle News
+
+This is certainly one way to enter the Pearly Gates.  
+
+<br> 
+
+<https://www.rideapart.com/news/747167/tomcat-trike-zero-motorcycles-diy-kit/>
+
+---
+
+## Volcon’s New UTV Is Ready To Take On the European Market
+
+date: 2025-01-14, from: Ride Apart, Electric Motorcycle News
+
+The new UTV is making its way to the UK thanks to a partnership with Electric Wheels Ltd. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/747065/volcon-hf1-electric-utv-launch-uk-europe/>
+
+---
+
+## The Supreme Court Just Told Utah to Get Out With Its Public Lands Lawsuit
+
+date: 2025-01-14, from: Ride Apart, Electric Motorcycle News
+
+Good news! 
+
+<br> 
+
+<https://www.rideapart.com/news/747163/supreme-court-dimiss-utah-public-lands-lawsuit/>
+
+---
+
+## Here's What Happens When Buying a Motorcycle in a Box Goes Incredibly Right
+
+date: 2025-01-14, from: Ride Apart, Electric Motorcycle News
+
+This sad old 1986 Honda XR250R came up so nice! 
+
+<br> 
+
+<https://www.rideapart.com/news/747177/honda-xr250r-restoration-running-video/>
+
+---
+
+## Please, Someone Buy This Brand-New 2005 Honda CBR1000RR Fireblade
+
+date: 2025-01-14, from: Ride Apart, Electric Motorcycle News
+
+It’s never been registered, and is still in its original transport crate.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/747062/brand-new-2005-honda-cbr1000rr-auction-mcn/>
 
 ---
 

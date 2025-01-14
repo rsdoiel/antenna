@@ -1,11 +1,195 @@
 ---
 title: food
-updated: 2025-01-13 07:05:53
+updated: 2025-01-14 07:05:43
 ---
 
 # food
 
-(date: 2025-01-13 07:05:53)
+(date: 2025-01-14 07:05:43)
+
+---
+
+## Address Coffee Speaks to Quality With Multiroaster Bar in NE Florida
+
+date: 2025-01-14, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Citra Address Coffee 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new cafe and bar concept is making a permanent home in St. Augustine, Florida, with a multiroaster coffee program under the name Address Coffee leading the way by day.&#160;... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/14/address-coffee-speaks-to-quality-with-multiroaster-bar-in-ne-florida/>
+
+---
+
+## Host Locations Have Been Announced For Four US Coffee Championships
+
+date: 2025-01-14, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Raleigh-Durham here we come! 
+
+<br> 
+
+<https://sprudge.com/host-locations-have-been-announced-for-four-us-coffee-championships-269383.html>
+
+---
+
+## 10 Discontinued McDonald’s Items​ We Want Back on the Menu
+
+date: 2025-01-14, from: Taste of Home
+
+<p>McDonald's has debuted all kinds of menu items over the years, and some things didn't stick around long enough. Here are the ones we miss the most!</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/discontinued-mcdonalds-items/">10 Discontinued McDonald&#8217;s Items​ We Want Back on the Menu</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/discontinued-mcdonalds-items/>
+
+---
+
+## The All-Time Best Cereals from Childhood, Ranked
+
+date: 2025-01-14, from: Taste of Home
+
+<p>I tasted 15 breakfast cereals to find out which ones stood the test of time. </p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-cereals/">The All-Time Best Cereals from Childhood, Ranked</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-cereals/>
+
+---
+
+## Spicy Salmon Hand Rolls
+
+date: 2025-01-14, from: Bon Appetet
+
+Spicy tinned salmon (or tuna!) is a fast track to flavor in these simple hand rolls—particularly when mashed with some oil from the can and a slick of mayo. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/spicy-salmon-hand-rolls>
+
+---
+
+## Walmart Just Recalled 12,138 Boxes of Great Value Chicken Broth
+
+date: 2025-01-13, from: Taste of Home
+
+<p>Some Great Value Chicken Broth cartons have a packaging issue that could lead to food spoilage.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/walmart-chicken-broth-recall-december-2024/">Walmart Just Recalled 12,138 Boxes of Great Value Chicken Broth</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/walmart-chicken-broth-recall-december-2024/>
+
+---
+
+## Is It Safe to Eat Chicken and Eggs Right Now?
+
+date: 2025-01-13, from: Taste of Home
+
+<p>The bird flu has affected poultry farms across the U.S., raising concerns about the safety of eating chicken and eggs.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/bird-flu-chicken-eggs/">Is It Safe to Eat Chicken and Eggs Right Now?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/bird-flu-chicken-eggs/>
+
+---
+
+## Levain Bakery’s New Coffee Toffee Cookie Is the Perfect Winter Pick-Me-Up
+
+date: 2025-01-13, from: Taste of Home
+
+<p>The dark, depressing days of winter just got a little brighter—thanks to this decadent new Levain cookie flavor. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/levain-coffee-toffee-cookie-2025/">Levain Bakery&#8217;s New Coffee Toffee Cookie Is the Perfect Winter Pick-Me-Up</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/levain-coffee-toffee-cookie-2025/>
+
+---
+
+## The Bon Appétit 56
+
+date: 2025-01-13, from: Bon Appetet
+
+We have thousands of obsessively tested recipes. Here are 56 essentials to make this year. 
+
+<br> 
+
+<https://www.bonappetit.com/story/bon-appetit-56>
+
+---
+
+## The New BruMate Valentine’s Day Tumblers Are Making Us Swoon
+
+date: 2025-01-13, from: Taste of Home
+
+<p>One of our favorite tumblers just got a sweet Valentine’s Day makeover.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/brumate-valentines-day-2025/">The New BruMate Valentine&#8217;s Day Tumblers Are Making Us Swoon</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/brumate-valentines-day-2025/>
+
+---
+
+## Everything You Need for the Best Soup Prep This Winter
+
+date: 2025-01-13, from: Bon Appetet
+
+We've got one word for easy and delicious weeknight meal plans, and the word is “soup." 
+
+<br> 
+
+<https://www.bonappetit.com/story/everything-you-need-for-the-best-soup-prep-this-winter>
+
+---
+
+## KFC Just Debuted 2 Brand-New Loaded Fries Bowls
+
+date: 2025-01-13, from: Taste of Home
+
+<p>Here's the first thing you need to know: Nashville hot sauce is back!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/kfc-loaded-fries-january-2025/">KFC Just Debuted 2 Brand-New Loaded Fries Bowls</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/kfc-loaded-fries-january-2025/>
+
+---
+
+## Aldi Just Recalled a Popular Casa Mamita Product Sold in 31 States
+
+date: 2025-01-13, from: Taste of Home
+
+<p>Aldi is recalling one of its Casa Mamita items after a customer found metal in it. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/aldi-casa-mamita-recall-january-2025/">Aldi Just Recalled a Popular Casa Mamita Product Sold in 31 States</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/aldi-casa-mamita-recall-january-2025/>
+
+---
+
+## The Los Angeles Coffee Community Rallies Amidst The Impacts Of Historic Wildfires
+
+date: 2025-01-13, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. How coffee shops in Los Angeles are being impacted by the wildfires, and what they are doing to help. 
+
+<br> 
+
+<https://sprudge.com/the-los-angeles-coffee-community-rallies-amidst-the-impacts-of-historic-wildfires-269123.html>
 
 ---
 
@@ -13,7 +197,7 @@ updated: 2025-01-13 07:05:53
 
 date: 2025-01-13, from: Daily Coffee News
 
-<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Cafe Kreyol new roastery 3" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Virginia-based Café Kreyol, the 2023 Roast magazine Roaster of the Year in the macro category, recently relocated into an expanded production facility. 
+<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Cafe Kreyol new roastery 3" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cafe-Kreyol-new-roastery-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Virginia-based Café Kreyol, the 2023 Roast magazine Roaster of the Year in the macro category, recently relocated into an expanded production facility. 
 
 <br> 
 

@@ -1,11 +1,301 @@
 ---
 title: columns
-updated: 2025-01-13 07:05:51
+updated: 2025-01-14 07:05:40
 ---
 
 # columns
 
-(date: 2025-01-13 07:05:51)
+(date: 2025-01-14 07:05:40)
+
+---
+
+## An internet of ideas
+
+date: 2025-01-14, from: Dave Winer's Scripting News
+
+<p>I used to use Twitter for middle of the night ideas. These days I use one of Twitter's successors.   </p>
+<p><a href="https://bsky.app/profile/scripting.com/post/3lfowjw3z6k2d">Here's one</a>. "We should be able to tweet from within any application that has the ability to create and edit text, and not just in tiny little text boxes." <a href="https://bsky.app/profile/scripting.com/post/3lfowjw4jrs2d">And another</a>. "The limits imposed by twitter initially in 2006 resulted in there being room for only very simple ideas. </p>
+<p>Self-contained isolated silos make progress impossible. We need an internet of ideas. Why should we depend on one small vulnerable company to handle all our internet publishing? It’s an old outdated idea. Look where our investment in Twitter left us, nomads searching for a new home, and what did we do, we went for basically the same deal as before. Oy. </p>
+<p>Re silos, are you watching the Apple TV+ series <a href="https://en.wikipedia.org/wiki/Silo_(TV_series)">Silo</a>? I don't want to spoil it, but their idea of a silo is more less exactly what we're talking about with the silos or semi-silos of the twitter-like era. They know being a silo is not popular so they do little things to give you reason to believe they might not be a silo. But being a partial silo is like being partially pregnant. No such thing. If you're federated that means you peer with your competitors. Facebook, or whatever you call Mark Xuckerberg's company these days, just <a href="https://www.404media.co/meta-is-blocking-links-to-decentralized-instagram-competitor-pixelfed/">cut off</a> an Instagram competitor and completely gave away that federation is a very conditional thing for them, even if a user of Instagram might also want to hook into flow from <a href="https://pixelfed.org/">Pixelfed</a>. I never believed in their support of the fediverse. Now let's get some reality into these discussions. </p>
+<p><a href="https://bsky.app/profile/scripting.com/post/3lfoxxs7gy22x">On Unix</a>. "Learning Unix was when I learned that computer networks could be simple yet infinitely powerful. Before that for me it was just an inkling, a hunch. Reading the source code I wanted to make software that works like that. I hope I have, to some extent."</p>
+<p>On <a href="https://en.wikipedia.org/wiki/Matt_Mullenweg">Matt Mullenweg</a>, who surprisingly has become a polarizing figure in the tech world. Who could've seen that coming? Not me. "<a href="https://bsky.app/profile/scripting.com/post/3lfoxsh7nd22x">Radical idea</a>. Matt Mullenweg doesn’t like how things are going. He has every right to try to change it, to make it right. As do you, and I." I don't like that people have called him things like the Mad King. People used to say stuff like that about me. It's a substitute for trying to understand where someone is coming from. One of the things I learned about creating open technology is you attract people who don't contribute anything but expect you to work for them, for you to take orders from them. That is really what it comes down to, and it's crazy. If you feel strongly about something, either learn how to program, or make your freaking case with some humility, or offer a bounty, or just trust the universe. But giving people orders, there's no place for that. Matt could be right or wrong, or he could be right for himself. But he has the right to control his own destiny, as you and I do, to the extent that we can. </p>
+<p>I have my own vision for WordPress, as I've started to talk about here and Murphy-willing you should see more of that in the coming weeks. If you want a clue, listen to my <a href="https://shownotes.scripting.com/scripting/2025/01/08/howIViewWordpress.html">podcast</a> from January 8, and then if you have questions, <a href="https://github.com/scripting/Scripting-News/issues/316">ask them here</a>. I think it's a better bet that WordPress will be the backbone of the social web than any of the other candidates. I wouldn't mind being wrong, as long as we can peer with the eventual winner. I can't endorse a silo, even on the hope that it will be de-silo'd. I also don't believe in the <a href="https://en.wikipedia.org/wiki/Tooth_fairy">Tooth Fairy</a> and <a href="https://en.wikipedia.org/wiki/Matt_Mullenweg">Glinda</a> the good witch of the south. </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2020/11/15/fatladysinging.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">One more thing. In the middle of the night the Department of Justice released <a href="https://www.documentcloud.org/documents/25486139-report-of-special-counsel-smith-volume-1-january-2025/">half of the report</a> on their case against president-elect Trump, a much anticipated bit of news. I didn't know it had been released, but when I woke up, and made the usual rounds, I checked in on Bluesky, Threads, Mastodon, Facebook and then finally Twitter, in that order. Guess where I discovered this news. Twitter. So when you think people move when they don't like what Musk does, or they find that Twitter is as polluted as some of the celebs do, understand this -- most people aren't affected by the noise. I don't see it unless I go look for it. Perhaps this is because I've been very liberal with blocking abusers, or more likely I don't have <a href="https://x.com/davewiner">enough followers</a> to be an attractive target for the abusers, who behave like spammers. They post where the flow is, and my account isn't as attractive as (for example) Paul Krugman, Mark Cuban or Jay Rosen. It takes a lot to get people to move, and I suspect most people never will. If you operate a gasoline powered car, I bet you buy a lot of Exxon gas, even if you don't see their logo when you fill up. It's very hard to get away from companies who hurt our species, by design, unfortunately. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/14/131116.html?title=anInternetOfIdeas>
+
+---
+
+## The First Password on the Internet
+
+date: 2025-01-14, updated: 2025-01-13, from: Bruce Schneier blog
+
+<p>It was <a href="https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404">created</a> in 1973 by Peter Kirstein:</p>
+<blockquote><p>So from the beginning I put password protection on my gateway. This had been done in such a way that even if UK users telephoned directly into the communications computer provided by Darpa in UCL, they would require a password.</p>
+<p>In fact this was the first password on Arpanet. It proved invaluable in satisfying authorities on both sides of the Atlantic for the 15 years I ran the service ­ during which no security breach occurred over my link. I also put in place a system of governance that any UK users had to be approved by a committee which I chaired but which also had UK government and British Post Office representation...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/01/the-first-password-on-the-internet.html>
+
+---
+
+## Absolute Linux has reached the end – where to next?
+
+date: 2025-01-14, updated: 2025-01-14, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Analysis</span> Linux distros that don&#39;t exist, but we wish did</h4>
+      <p>In an overcrowded field full of distributions, there are still many empty gaps. The Register would like to point in the direction of a few.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/01/14/the_end_of_absolute_linux/>
+
+---
+
+## The tech coup
+
+date: 2025-01-14, from: Enlightenment Economics blog
+
+It&#8217;s some months since I read Marietje Schaake&#8217;s The Tech Coup, as she delivered the ST Lee Poicy Lecture here in Cambridge last November 11th, right after the US presidential election. Just a short time later, her warning looks even &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/01/the-tech-coup/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2025/01/the-tech-coup/>
+
+---
+
+## The shame of Hegseth
+
+date: 2025-01-14, from: Robert Reich's blog
+
+Today begins the hearing on his bonkers nomination 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-shame-of-hegseth>
+
+---
+
+## Secure Transport support in curl is on its way out
+
+date: 2025-01-14, from: Daniel Stenberg Blog
+
+In May 2024 we finally decided that maybe the time has come for curl to drop support of older TLS libraries. Libraries that because they don&#8217;t support the modern TLS version (1.3) for many users are maybe not suitable to build upon for the future. We gave the world 12 months to adapt or to &#8230; <a href="https://daniel.haxx.se/blog/2025/01/14/secure-transport-support-in-curl-is-on-its-way-out/" class="more-link">Continue reading <span class="screen-reader-text">Secure Transport support in curl is on its way out</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/01/14/secure-transport-support-in-curl-is-on-its-way-out/>
+
+---
+
+## January 13, 2025 
+
+date: 2025-01-14, from: Heather Cox Richardson blog
+
+The incoming Trump administration is working to put its agenda into place. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-13-2025>
+
+---
+
+## Bananas Bloomberg Report: ‘China Weighs Sale of TikTok’s US Operations to Elon Musk’
+
+date: 2025-01-14, updated: 2025-01-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.bloomberg.com/news/articles/2025-01-14/china-discusses-sale-of-tiktok-us-to-musk-as-one-possible-option>
+
+---
+
+## [Sponsor] Protect Your App With WorkOS Radar
+
+date: 2025-01-14, updated: 2025-01-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://workos.com/radar?utm_source=daringfireball&utm_medium=RSS&utm_campaign=q12025>
+
+---
+
+## Conspiracy theorists
+
+date: 2025-01-14, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/conspiracy-theorists>
+
+---
+
+## Sonos Canned CEO Patrick Spence, Who Spearheaded Disastrous App Launch
+
+date: 2025-01-13, updated: 2025-01-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/2025/1/13/24342179/sonos-ceo-patrick-spence-resignation-reason-app>
+
+---
+
+## Mastodon Is Transferring Its Ownership to a New Non-Profit
+
+date: 2025-01-13, updated: 2025-01-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/>
+
+---
+
+## ‘Free Our Feeds’
+
+date: 2025-01-13, updated: 2025-01-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://freeourfeeds.com/>
+
+---
+
+## ★ One Bit of Anecdata That the Web Is Languishing Vis-à-Vis Native Mobile Apps
+
+date: 2025-01-13, updated: 2025-01-13, from: Daring Fireball
+
+The notion that mobile web apps are closing the gap with native apps is laughable. The gulf between them is widening, not narrowing. 
+
+<br> 
+
+<https://daringfireball.net/2025/01/one_bit_of_anecdata_that_the_web_is_languishing>
+
+---
+
+## “I Do Solemnly Swear ... ”
+
+date: 2025-01-13, from: Dan Rather's Steady
+
+A historic oath that suddenly means nothing 
+
+<br> 
+
+<https://steady.substack.com/p/i-do-solemnly-swear>
+
+---
+
+## January 12, 2025
+
+date: 2025-01-13, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154782867/38aab2451cda4758127a58ce94076030.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154782867/38aab2451cda4758127a58ce94076030.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-12-2025-4b3>
+
+---
+
+## Meta Is Blocking Links to Decentralized Instagram Competitor Pixelfed
+
+date: 2025-01-13, updated: 2025-01-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.404media.co/meta-is-blocking-links-to-decentralized-instagram-competitor-pixelfed/>
+
+---
+
+## It couldn't hurt to have a better lifeboat
+
+date: 2025-01-13, from: Dave Winer's Scripting News
+
+<p>I posted this to both <a href="https://bsky.app/profile/scripting.com/post/3lfncckr2sc2h">Bluesky</a> and <a href="https://mastodon.social/@davew/113822309652127443">Mastodon</a> just now.</p>
+<p>I see people betting on the idea of federation in Bluesky.</p>
+<p>At the same time, we should bet on simplifying Mastodon at scale.</p>
+<p>Approach the problem from both directions.</p>
+<p>We may need and not have federation in Bluesky at some point.</p>
+<p>It couldn't hurt to have a better lifeboat.</p>
+<p>This <a href="https://shownotes.scripting.com/scripting/2025/01/13/itCouldntHurtToHaveABetterLifeboat.html">podcast</a> goes into more depth of this idea. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/13/175042.html?title=itCouldntHurtToHaveABetterLifeboat>
+
+---
+
+## Los Angeles Fires: How to Help
+
+date: 2025-01-13, updated: 2025-01-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.calfund.org/funds/wildfire-recovery-fund/>
+
+---
+
+## Rory Sykes, Killed in LA Wildfires, RIP
+
+date: 2025-01-13, updated: 2025-01-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://ktla.com/news/local-news/mother-of-former-child-star-killed-in-palisades-fire-speaks-on-devastating-loss/>
+
+---
+
+## An "oh fuck" moment in time
+
+date: 2025-01-13, from: Geoffrey Hunntley's blog
+
+<p>Over the Christmas break I&#x2019;ve been critically looking at my own software development loop,  learning a new programming language and re-learning a language I haven&#x2019;t professionally used in over seven years.</p><p>It&apos;s now 2025. Software assistants are now a core staple of my day-to-day</p> 
+
+<br> 
+
+<https://ghuntley.com/oh-fuck/>
+
+---
+
+## What I want and am not getting from AI technology
+
+date: 2025-01-13, from: Dave Winer's Scripting News
+
+<p>There’s a funny contradiction in the AI world.</p>
+<ol>
+<li>News orgs, published authors, great artists, universities, want to retain ownership of their intellectual property and don’t trust the utility of AI chatbots. They think the only application of AI technology is to steal from them, to cheat at school and in work. They see AI technology as destructive, immoral and dishonest.</li>
+<li>As a writer, of prose and software, I want to use the new tools to analyze and develop my work. I want ChatGpt to help port my biggest piece of software from Mac to Linux where it will work far better, far into the future. I want it to reassemble my 30+ years of every day writing into something that can be read by anyone in a few days. I want it to organize new writing projects in ways I can’t. I want it to help me learn about myself. I would gladly give it access to all my creative work, if only there were a relatively easy way to do it. Rather than demanding money, I would gladly pay thousands of dollars to have it all absorbed into its models so I can study and learn.</li>
+</ol>
+<p>Two very different approaches to the same technology.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/13/150902.html?title=whatIWantAndAmNotGettingFromAiTechnology>
 
 ---
 
@@ -74,7 +364,7 @@ ffmpeg -i input.mp4 output.mp3
 
 ---
 
-## Go 1.24: Interactive tour
+## Go 1.24 interactive tour
 
 date: 2025-01-13, from: Anton Zhiyanov blog
 
