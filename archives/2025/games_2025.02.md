@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2025-01-14 13:25:16
+updated: 2025-01-15 07:05:25
 ---
 
 # games
 
-(date: 2025-01-14 13:25:16)
+(date: 2025-01-15 07:05:25)
+
+---
+
+## Is it too early to say Nnedi Okorafor’s genre-bender is one of my favorite books of 2025?
+
+date: 2025-01-15, updated: 2025-01-14, from: Polygon Website
+
+I know it’s only Jan. 15, but I feel confident in saying that I’ve already found one of my favorite books of the year. Nnedi Okorafor’s Death of the Author, out now, is a genre-defying metafiction about the author of a hit sci-fi book, the stories she tells, and the stories others tell about her. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/books/508584/nnedi-okorafor-death-author-book>
+
+---
+
+## Why the most coveted miniatures paintbrushes are so hard to find
+
+date: 2025-01-15, updated: 2025-01-14, from: Polygon Website
+
+Linger in the world of miniatures painting long enough and you’ll soon learn of the majesty, the precision, and the exotic allure of brushes made from 100% pure Kolinsky sable hair. From the animal also known as the Siberian weasel, or Mustela sibirica, Kolinsky sable hair is world-renowned for its ability to hold lots of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/features/508735/kolinsky-sable-hair-brush-rare-why-painting-best>
+
+---
+
+## How to get Shroodle and evolution Grafaiai in Pokémon Go
+
+date: 2025-01-15, updated: 2025-01-15, from: Polygon Website
+
+Shroodle makes its debut in Pokémon Go as part of Jan. 2025’s “Fashion Week: Taken Over” event. The Gen 9 poison- and normal-type has a single evolution, Grafaiai, which can also be added to your Pokédex with enough candy. Similar to many recent new Pokémon in Pokémon Go, Shroodle cannot be found in the wild, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/509046/shroodle-evolution-grafaiai-shiny>
+
+---
+
+## The Corrupted is the intimate TTRPG version of The Last Of Us
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+We tend to imagine the hardest part of surviving a zombie apocalypse would be, well, the zombies. But as properties like The Last Of Us, The Walking Dead, and Navaar Jackson’s tabletop role-playing game The Corrupted show us, it’s actually other people. While there are other games that tackle the zombie trope, like Free League’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/508936/corrupted-zombie-apocalypse-ttrpg-last-us-navaar-jackson>
+
+---
+
+## The Sims 3 gets another patch, 10 years since its last update
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+The Sims 3 community was confused on Tuesday when they saw an unfamiliar pop-up when launching the 2009 release: Update required. Electronic Arts pushed an update to The Sims 3, updating a patch that was originally issued in 2015, per a Sims wiki. (The last patch listed on The Sims 3’s official website is 1.67, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/the-sims/508823/3-new-patch-2025>
+
+---
+
+## Neil Gaiman breaks silence on sexual assault allegations: ‘I was caught up in my own story’
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+It’s been seven months since the news first broke about sexual assault allegations against The Sandman and Good Omens writer Neil Gaiman. During that time period, Gaiman has largely disappeared from public view, stepping away from his prolific, heavily trafficked social media channels on Twitter, Tumblr, and his own blog, and turning down requests for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/508662/neil-gaiman-response-sexual-assault-allegations>
+
+---
+
+## The best Asus ROG Ally accessories
+
+date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
+
+The Asus ROG Ally X is currently one of the most powerful handheld PCs currently available (the standard ROG Ally is no slouch, either). Compared to the Steam Deck, Asus’ handhelds are a better option for gamers who want Windows OS on their handheld for better game compatibility — especially those who like using non-Steam launchers [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-buy/23844769/best-asus-rog-ally-accessories>
 
 ---
 

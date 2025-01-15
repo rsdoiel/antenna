@@ -1,11 +1,456 @@
 ---
 title: pacific
-updated: 2025-01-14 13:25:15
+updated: 2025-01-15 07:05:24
 ---
 
 # pacific
 
-(date: 2025-01-14 13:25:15)
+(date: 2025-01-15 07:05:24)
+
+---
+
+## Main points of the Gaza ceasefire proposal
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>Qatari mediators have sent Israel and Hamas a draft proposal for an agreement to halt the fighting in the Gaza Strip and exchange hostages for Palestinian prisoners as a first step towards an end to the 15-month-old war. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/nation-world-news/main-points-of-the-gaza-ceasefire-proposal/>
+
+---
+
+## LA wildfire evacuees scramble to find sleep in cars, shelters and hotels
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>ALTADENA, Calif. &#8212; Tens of thousands of wildfire evacuees in Los Angeles are now scrambling to find &#8212; and hold onto &#8212; temporary shelter, exacerbating the housing shortage in one of America&#8217;s least affordable cities.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/nation-world-news/la-wildfire-evacuees-scramble-to-find-sleep-in-cars-shelters-and-hotels/>
+
+---
+
+## South Korea’s president is detained for questioning
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL, South Korea &#8212; President Yoon Suk Yeol became the first sitting South Korean leader to be detained for questioning on criminal charges Wednesday, striking a deal with massed law enforcement officials and ending a weekslong standoff. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/nation-world-news/south-koreas-president-is-detained-for-questioning/>
+
+---
+
+## Why are autism rates rising?
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>Autism spectrum disorder is a neurological and developmental condition marked by disruptions in brain-signaling that cause people to behave, communicate, interact, and learn in atypical ways. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/nation-world-news/why-are-autism-rates-rising/>
+
+---
+
+## Washington braces for Trump inauguration with fortress-like fencing, extra police
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; With 30 miles (48 km) of tall black temporary fencing, 25,000 law enforcement officers and security checkpoints set up to process hundreds of thousands of spectators, Washington is braced for President-elect Donald Trump&#8217;s inauguration next week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/nation-world-news/washington-braces-for-trump-inauguration-with-fortress-like-fencing-extra-police/>
+
+---
+
+## House passes bill to bar trans athletes from female school sports teams
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A divided House on Tuesday approved legislation that aims to bar transgender women and girls from participating in school athletic programs designated for female students, as Republicans sought to wring political opportunity from a social issue that helped them win the 2024 elections.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/nation-world-news/house-passes-bill-to-bar-trans-athletes-from-female-school-sports-teams/>
+
+---
+
+## US warns of health risks from sewage use for fertilizer
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>The use of treated sewage sludge as fertilizer on farms can pose a health risk to residents and consumers because of the presence of &#8220;forever chemicals&#8221; that break down slowly, the U.S. Environmental Protection Agency said on Tuesday. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/nation-world-news/us-warns-of-health-risks-from-sewage-use-for-fertilizer/>
+
+---
+
+## Trump says he will create new agency to collect revenue from foreign sources
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>U.S. President-elect Donald Trump said on Tuesday he will create a new government agency called the External Revenue Service &#8220;to collect tariffs, duties, and all revenue&#8221; from foreign sources as he readies new import tariffs ahead of his inauguration next week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/nation-world-news/trump-says-he-will-create-new-agency-to-collect-revenue-from-foreign-sources/>
+
+---
+
+## Ukraine launches ‘massive’ drone attacks inside Russia, officials say
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Ukraine carried out &#8220;massive&#8221; drone strikes on several regions of Russia overnight, local officials there said Tuesday, in what appeared to be one of the largest recent assaults in Ukraine&#8217;s campaign to cripple Russia&#8217;s war machine on its home turf.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/nation-world-news/ukraine-launches-massive-drone-attacks-inside-russia-officials-say/>
+
+---
+
+## Starbucks visitors must now buy something to stay or use bathroom
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>Starbucks will require people visiting its coffee shops to buy something in order to stay or to use its bathrooms, the company announced in a letter sent to store managers Monday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/nation-world-news/starbucks-visitors-must-now-buy-something-to-stay-or-use-bathroom/>
+
+---
+
+## Police renew request for leads on missing man
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>Police continue to seek information relative to the disappearance two years ago of 76-year-old William Romeo Bishop Sr. of Keaau.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/hawaii-news/police-renew-request-for-leads-on-missing-man-2/>
+
+---
+
+## Lawsuit over EPIC system moves ahead
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>Oral arguments have been scheduled in a lawsuit in which a Milolii homeowner is suing the county, alleging its Electronic Processing and Information Center system, known as EPIC, has trapped him in a permitting catch-22 that will allow him only to demolish his home &#8212; which is in a shoreline management area &#8212; not to remodel or live in it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/hawaii-news/lawsuit-over-epic-system-moves-ahead/>
+
+---
+
+## Waiakea High teacher wins national award
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>A Waiakea High School teacher has received the nation&#8217;s highest award for science and math teachers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/hawaii-news/waiakea-high-teacher-wins-national-award/>
+
+---
+
+## Playground improvements ongoing at Pu‘u Nui Park
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>Playground renovations and the installation of new equipment are underway at Pu&#8216;u Nui Park in Waikoloa Village and are projected to be completed by the end of February, county officials announced last week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/hawaii-news/playground-improvements-ongoing-at-puu-nui-park/>
+
+---
+
+## Republicans embrace Hegseth as Democrats question his fitness to lead Pentagon
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Pete Hegseth, President-elect Donald Trump&#8217;s pick to be defense secretary, faced sharp questions from Democrats, but no pointed ones from Republicans, at a contentious confirmation hearing Tuesday that focused on his past statements on issues including Pentagon diversity efforts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/nation-world-news/republicans-embrace-hegseth-as-democrats-question-his-fitness-to-lead-pentagon/>
+
+---
+
+## Replacement of narrow Hilo bridge pushed back
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>Plans to replace the Four Mile Creek Bridge are unlikely to come to fruition before 2028.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/hawaii-news/replacement-of-narrow-hilo-bridge-pushed-back/>
+
+---
+
+## Rep. Tokuda introduces legislation for ROD
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>A Hawaii congresswoman has drafted a bill urging federal agencies to take action to fight Rapid &#8216;Ohi&#8216;a Death in Hawaii.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/hawaii-news/rep-tokuda-introduces-legislation-for-rod/>
+
+---
+
+## Man sentenced in 2023 Honokaa shooting
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>A 30-year-old Kawaihae man was sentenced last month to 20 years in prison for the nonfatal shooting of another man 20 months ago on the Honokaa Salvation Army campus.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/hawaii-news/man-sentenced-in-2023-honokaa-shooting/>
+
+---
+
+## Campus eats: dining spots to savor
+
+date: 2025-01-15, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa eating options for spring 2025 include new trucks.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/14/campus-eats-dining-spots-to-savor/">Campus eats: dining spots to savor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/14/campus-eats-dining-spots-to-savor/>
+
+---
+
+## In memoriam: community health advocate, UHPA board member John Caksen
+
+date: 2025-01-15, from: University of Hawaiʻi News
+
+<p>Casken will be remembered for his commitment to improving community health particularly for rural communities in <span aria-label="Hawaii">Hawai&#699;i</span> and for Native Hawaiians.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/14/in-memoriam-john-caksen/">In memoriam: community health advocate, <abbr>UHPA</abbr> board member John Caksen</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/14/in-memoriam-john-caksen/>
+
+---
+
+## GMH beefs up security protocols
+
+date: 2025-01-15, from: Pacific Island Times
+
+By Pacific Island Times News Staff Guam Memorial Hospital today announced new security protocols beginning  Jan. 21 at 8 a.m. to help... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/gmh-beefs-up-security-protocols>
+
+---
+
+## Total security breakdown at key PNG gold mine threatens economic hit, landowners warn
+
+date: 2025-01-15, from: Pacific Island Times
+
+Fresh unrest and reports of a “complete breakdown” of law and order at the Porgera gold mine in Papua New Guinea are stoking fears about the 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/total-security-breakdown-at-key-png-gold-mine-threatens-economic-hit-landowners-warn>
+
+---
+
+## 'Morning-after' pills for rape victims reintroduced in 38th Guam Legislature
+
+date: 2025-01-15, from: Pacific Island Times
+
+By Pacific Island Times News Staff Sen. William A. Parkinson on Tuesday introduced a bill that would mandate emergency health care... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/morning-after-pills-for-rape-victims-reintroduced-in-38th-guam-legislature>
+
+---
+
+## UH West Oʻahu first visit of new president campus tour
+
+date: 2025-01-15, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> President Wendy Hensel will tour the 10-campus <abbr>UH</abbr> system and education centers throughout her first 90 days on the job.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/14/uh-west-oahu-president-campus-tour/"><abbr>UH</abbr> West Oʻahu first visit of new president campus tour</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/14/uh-west-oahu-president-campus-tour/>
+
+---
+
+## 'Granny flats' bill reintroduced
+
+date: 2025-01-15, from: Pacific Island Times
+
+The ADUs, commonly referred to as "granny flats" or "in-law suites," are designed to offer flexible housing options for families. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/granny-flats-bill-reintroduced>
+
+---
+
+## Hawaiian Word of the Week: Huli
+
+date: 2025-01-15, from: University of Hawaiʻi News
+
+<p>Huli&#8212;To turn, reverse, to curl over.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/14/hawaiian-word-of-the-week-huli/">Hawaiian Word of the Week: Huli</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/14/hawaiian-word-of-the-week-huli/>
+
+---
+
+## Taungakava pursues her passion through USP studies
+
+date: 2025-01-15, from: University of the South Pacific (Fiji)
+
+<p>At just 23 years old, So’otino Marcallonlani Taungakava is already working towards creating a legacy...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/taungakava-pursues-her-passion-through-usp-studies/">Taungakava pursues her passion through USP studies</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/taungakava-pursues-her-passion-through-usp-studies/>
+
+---
+
+## Waikīkī Aquarium to upgrade reef exhibit, improve water conservation
+
+date: 2025-01-15, from: University of Hawaiʻi News
+
+<p>The exhibit deconstruction will install an injection well to keep exhibit water from discharging into sewer systems or the ocean.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/14/waikiki-aquarium-edge-of-the-reef-upgrade/">Waikīkī Aquarium to upgrade reef exhibit, improve water conservation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/14/waikiki-aquarium-edge-of-the-reef-upgrade/>
+
+---
+
+## Mulan excels in legal field
+
+date: 2025-01-14, from: University of the South Pacific (Fiji)
+
+<p>At just 25 years old, Mulan John is already making waves in her community and...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/mulan-excels-in-legal-field/">Mulan excels in legal field</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/mulan-excels-in-legal-field/>
+
+---
+
+## UH Mānoa nursing alumna champions climate health
+
+date: 2025-01-14, from: University of Hawaiʻi News
+
+<p>Melveen Camba is leading climate health efforts, addressing climate change impacts and empowering communities in <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/14/nursing-alum-climate-health/"><abbr>UH</abbr> Mānoa nursing alumna champions climate health</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/14/nursing-alum-climate-health/>
+
+---
+
+## Students share science with diverse groups through outreach program
+
+date: 2025-01-14, from: University of Hawaiʻi News
+
+<p>Students created presentations and hands-on activities for high school students visiting the M&#257;noa campus and elementary, middle and high schools at their home campuses.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/14/grad-students-outreach-program/">Students share science with diverse groups through outreach program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/14/grad-students-outreach-program/>
+
+---
+
+## Water polo duo earns Big West preseason honors, UH 2nd in poll
+
+date: 2025-01-14, from: University of Hawaiʻi News
+
+<p>Bernadette Doyle and Daisy Logtens earned preseason all-conference honors as <abbr>UH</abbr> was ranked second in the poll after a dominant season.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/14/water-polo-bw-honors-2nd-poll/">Water polo duo earns Big West preseason honors, <abbr>UH</abbr> 2nd in poll</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/14/water-polo-bw-honors-2nd-poll/>
+
+---
+
+## Critical bird conservation efforts on Kauaʻi boosted by new joint facility
+
+date: 2025-01-14, from: University of Hawaiʻi News
+
+<p>The 25-year, no-cost lease grants <abbr>UH</abbr> Mānoa’s Pacific Cooperative Studies Unit use of a former dog pound site in Hanapēpē.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/14/critical-bird-conservation-efforts-kauai/">Critical bird conservation efforts on Kauaʻi boosted by new joint facility</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/14/critical-bird-conservation-efforts-kauai/>
 
 ---
 
@@ -371,6 +816,20 @@ date: 2025-01-14, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/01/14/business/indias-maha-kumbh-festival-sees-15-million-people-take-holy-dip-on-first-day/>
+
+---
+
+## Elderly man a non-official vehicle fatality
+
+date: 2025-01-14, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating a chain of events stemming from a traffic incident that resulted in the death of an elderly Waimea man several days after the initial crash.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/14/hawaii-news/elderly-man-a-non-official-vehicle-fatality/>
 
 ---
 

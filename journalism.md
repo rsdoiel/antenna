@@ -1,11 +1,341 @@
 ---
 title: journalism
-updated: 2025-01-14 13:25:16
+updated: 2025-01-15 07:05:25
 ---
 
 # journalism
 
-(date: 2025-01-14 13:25:16)
+(date: 2025-01-15 07:05:25)
+
+---
+
+## USG presents fire response, shuttle services
+
+date: 2025-01-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Senators created a form for input on National Merit Finalist scholarship cut.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/15/usg-presents-fire-response-shuttle-services/">USG presents fire response, shuttle services</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/15/usg-presents-fire-response-shuttle-services/>
+
+---
+
+## Helenes provide free N95s to USC community
+
+date: 2025-01-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The group distributed over 100 masks donated by club members and hospitals.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/15/helenes-provide-free-n95s-to-usc-community/">Helenes provide free N95s to USC community</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/15/helenes-provide-free-n95s-to-usc-community/>
+
+---
+
+## Daily Bruin Print Issue – Jan. 15, 2025
+
+date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>The Daily Bruin publishes print issues every Monday, Wednesday and Friday. With most campus operations curtailed this week, please view the day’s print issue here.</em> 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/daily-bruin-print-issue-jan-15-2025/>
+
+---
+
+## Involvement fair returns in full force
+
+date: 2025-01-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Student groups promoted themselves to prospective members around campus.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/15/involvement-fair-returns-in-full-force/">Involvement fair returns in full force</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/15/involvement-fair-returns-in-full-force/>
+
+---
+
+## Classifieds – January 15, 2025
+
+date: 2025-01-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/15/classifieds-january-15-2025/">Classifieds &#8211; January 15, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/15/classifieds-january-15-2025/>
+
+---
+
+## ‘Interior Chinatown’ author Charles Yu discusses TV adaptation
+
+date: 2025-01-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The National Book Award-winning author spoke to students on Monday.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/15/interior-chinatown-author-charles-yu-discusses-tv-adaptation/">‘Interior Chinatown’ author Charles Yu discusses TV adaptation</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/15/interior-chinatown-author-charles-yu-discusses-tv-adaptation/>
+
+---
+
+## Student Health discusses air quality, and advises Trojans
+
+date: 2025-01-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University created a Wildfire and Air Quality hotline to lead to resources.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/15/student-health-discusses-air-quality-and-advises-trojans/">Student Health discusses air quality, and advises Trojans</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/15/student-health-discusses-air-quality-and-advises-trojans/>
+
+---
+
+## Let me be the pale moonlight
+
+date: 2025-01-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/01/15/let-me-be-the-pale-moonlight/">Let me be the pale moonlight</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/15/let-me-be-the-pale-moonlight/>
+
+---
+
+## SDA unveils ‘Wilde’ new Spring Shows
+
+date: 2025-01-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>New plays and musicals will grace stages across USC this spring.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/15/sda-unveils-wilde-new-spring-shows/">SDA unveils ‘Wilde’ new Spring Shows</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/15/sda-unveils-wilde-new-spring-shows/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+Strong winds are expected until 3 p.m. Wednesday, meaning people should be ready to evacuate, according to a press release from Unified LA. A windblown dust and ash advisory also remains in place until 7 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/478097/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+In a 9:15 p.m. email to members of the UCLA Henry Samueli School of Engineering and Applied Science, Ronald and Valerie Sugar Dean Alissa Park said students should remain alert in light of the strong wind forecasts for Wednesday. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/478095/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Palisades fire is now 18% contained, according to Cal Fire.
+However, a Red Flag Warning remains in place for parts of Los Angeles County, and the National Weather Service has issued an &#8220;Extreme Fire Danger&#8221; warning for parts of northwest Los Angeles through Thursday, with conditions expected to peak Wednesday. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/478086/>
+
+---
+
+## 580 Café offers warm atmosphere with basic needs resources, mindfulness activities
+
+date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 15 at 12:33 a.m.</em>
+580 Café, a not-for-profit organization located along Hilgard Avenue, is not just a basic needs resource for students. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/580-caf-offers-warm-atmosphere-with-basic-needs-resources-mindfulness-activities/>
+
+---
+
+## UCLA scientists discuss factors of intense fires across Los Angeles County
+
+date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 15 at 12:32 a.m.</em>
+As flares spread across Los Angeles County, researchers seek to uncover the science behind what fuels the flames.&#160;
+The first of the fires started in Pacific Palisades on Jan. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/ucla-scientists-discuss-factors-of-intense-fires-across-los-angeles-county/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+While the nearest mandatory evacuation zone is about 1.3 miles from UCLA, an evacuation warning zone continues to border campus as of 7 p.m. Tuesday, according to Cal Fire. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/478055/>
+
+---
+
+## Students host other Bruins in hometowns during Southern California fires
+
+date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 15 at 12:13 a.m.</em>
+For most UCLA students with family in San Diego, going home for the weekend is not an unusual occurrence. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/students-host-other-bruins-in-hometowns-during-southern-california-fires/>
+
+---
+
+## Angelenos step up to serve community as city continues fighting wildfires
+
+date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 15 at 12:23 a.m.</em>
+Small tears formed in Michelle Leon’s eyes as she talked about the many lost homes Monday after fires burned for nearly a week across Los Angeles County. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/478035/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+Los Angeles County supervisors addressed the ongoing effects of the countywide fires at the LA County Board of Supervisors meeting Tuesday. The board planned to support people who have been affected by the fires by enforcing an LA Fire Recovery Fund to support rebuilding efforts, combat price gouging and protect people from fraud. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/478021/>
+
+---
+
+## Knowing the Game: Bruin Buckets
+
+date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/knowing-the-game-bruin-buckets/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+UCLA Student Legal Services is assisting students who have been impacted by fires, including reviewing insurance claims, replacing lost documents, resolving tenancy disputes and helping with benefit applications, said Caroline Gibbons, an assistant Human Resources manager at ASUCLA, in an email to student employees. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/478018/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+UCLA Chancellor Julio Frenk released a video message Tuesday outlining UCLA&#8217;s ongoing response to the fires.
+UCLA has been hosting town halls – including two Tuesday – so senior administrators can answer questions on the university response to the fires, Frenk said in the video. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/478015/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Students who need economic or housing services as a result of the fires can reach out to student development and health services to receive economic support and emergency temporary housing, said Assistant Vice Chancellor for Student Development and Health Services Suzanne Seplow in the Town Hall for Students. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/478011/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+In the Town Hall for Students, Administrative Vice Chancellor Michael Beck said that though there is a boil warning for some water regions in Los Angeles and North Santa Monica, there is no boil warning for the UCLA campus. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/478009/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+The UCLA Health Pacific Palisades Family Medicine clinic burned down in the Palisades fire, Administrative Vice Chancellor Michael Beck said in the Town Hall for Students. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/478007/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+In the Town Hall for Students, Administrative Vice Chancellor Michael Beck said university administration has been assessing the operational status of campus to determine if the current emergency operating status should be modified. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/478005/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+A Town Hall meeting for students began at 3:00 p.m. The town hall opened with Vice Chancellor of Student Affairs Monroe Gorden who reminded students of the ongoing online class schedule for undergraduate and graduate classes. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/478003/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 3:00 p.m. Tuesday, UCLA is not under an evacuation warning or order. However, an evacuation warning for the Palisades fire west of Interstate 405 borders the UCLA campus. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/478001/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+In a Tuesday press conference at the opening of the center, Los Angeles Mayor Karen Bass thanked UCLA and Chancellor Julio Frenk for their work in opening the Disaster Recovery Center at UCLA’s Research Park. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/14/477999/>
 
 ---
 
@@ -27,6 +357,126 @@ The Palisades fire, which is closest to UCLA, has a size of 23,713 acres and is 
 <br> 
 
 <https://dailybruin.com/2025/01/14/477965/>
+
+---
+
+## Behind “foreign” glasses
+
+date: 2025-01-14, from: California Tech (Caltech Student Newspaper)
+
+When I sent out my university applications it was as if my entire country was against me, no one wanted me to leave the traditional circle of the native student, and yet, here I am. I believe I owe this story to many people, but especially to that little girl with dark curls who, as soon as she set foot in the United States for the first time, felt a calling, felt totally a daughter of the American dream. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/14/behind-foreign-glasses/>
+
+---
+
+## AI at Caltech in 2025, how’s it going? Has it destroyed everything?
+
+date: 2025-01-14, from: California Tech (Caltech Student Newspaper)
+
+We must confess that artificial intelligence has changed the planet. Once upon a time, the man was surprised by the discovery of fire, then metal, cultivation techniques. Then we arrived at more scientific realities such as during the Middle Ages when extraordinary cathedrals were built using heavy tools, pulleys, a form of engineering, right? With the Enlightenment, the greatest scientific discoveries were made such as light with Edison or more specific analyses at an anatomical level. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/14/ai-in-caltech-2025/>
+
+---
+
+## As Below, So Above: Colonizing the Best in Ourselves
+
+date: 2025-01-14, from: California Tech (Caltech Student Newspaper)
+
+I just finished reading the new book <em>Star Bound</em> by Emily Carney and Bruce McCandless III (shoutout to my friend Paige Kaufman who released a podcast interview with the authors yesterday – Space Spiels, wherever you get your podcasts). In the book, the authors discuss – among other things – how we have successfully grown plants in lunar regolith brought back from the Apollo missions. This is especially relevant now, as Artemis is aimed at establishing a permanent base on the surface of the Moon. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/14/colonizing-the-best-in-ourselves/>
+
+---
+
+## Brownian Motion: A Study of Caltech's Lunch Hour Chaos.
+
+date: 2025-01-14, from: California Tech (Caltech Student Newspaper)
+
+Caltech is, by most accounts, a demanding place. Students work too hard; professors stress too much. Lunchtime should come as the universal comfort blanket to us all. A chance for our basement-ridden folk to remember what Vitamin D feels like; an opportunity for Caltech students to practice a social encounter; a time to sing Katy Perry to both halves of my grilled chicken sandwich. And yet, it is my frequent jaunts into the Browne dining hall that prove the most demanding of all. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/14/a-study-of-caltech-lunch-hour-chaos/>
+
+---
+
+## Caltech and LA wildfires.
+
+date: 2025-01-14, from: California Tech (Caltech Student Newspaper)
+
+we build rockets, not firefighters, but we are still talking about fire…right?  A combination of abnormally dry conditions and powerful wind gusts have fueled Los Angeles with destructive wildfires.” This was the subtitle of the first article published by the <em>L.A. Times</em>, and I think you have all read about what is happening, which areas are affected, and how hard they have tried to put out the fire and contain it, but it is a machine that does not stop. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/14/caltech-and-la-wildfires/>
+
+---
+
+## Circumnavigating TACIT’s Earth Data: The Musical — A Retrospective
+
+date: 2025-01-14, from: California Tech (Caltech Student Newspaper)
+
+Cast of <em>Earth Data</em>, from left to right: Kathryn Bikle, Ellis Spickermann, Cai Tong Ng, Jocelyn Argueta, Joony Kim, Anya Janowski, Armin Kleinboehl, the author, Maria Azcona Baez, Eric Smith, Joey Jefferson, Julian Wagner, Solvin Sigurdson, Jessica Kilgore, Josef Svoboda, Leslie Maxfield, Boyuan Chen, Maat Braaten. Just out of frame are Joži McKiernan and Michael Gutierrez. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/14/circumnavigating-tacit-earth-data/>
+
+---
+
+## Eaton Fire Scorches the Caltech and Pasadena Community
+
+date: 2025-01-14, from: California Tech (Caltech Student Newspaper)
+
+It is now Monday January 13<sup>th</sup> 2025 and the Eaton Fire is 14,117 acres and 27% contained. 3,155 firefighting personnel are assigned to this fire. The Eaton Fire is one of the worst natural disasters in United States history, and California’s deadliest wildfire disaster. Ten miles of foothills from the Jet Propulsion Laboratory to Santa Anita Avenue is just destruction. Caltech students, postdocs, faculty, staff, and the surrounding community have been impacted by this traumatic and devastating fire. At least 200 Caltech community members have lost their homes to the fires. Thousands have been displaced. Ash contamination, poor air quality, and loss of power and water utilities remain to be additional issues we face. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/14/eaton-fire-scorches-the-caltech-and-pasadena-community/>
+
+---
+
+## Let it Snow, Let it Shine, Let it Rain.
+
+date: 2025-01-14, from: California Tech (Caltech Student Newspaper)
+
+Contrary to what our pseudonym suggests, we are but college students. Thus we spent all of this past fall hoping and praying for a single miracle: Caltech’s Three Week Winter Break. This break is a time of rest, a time of relaxation, and a time of rejuvenation. During these three weeks, we slowly gather back up the energy needed for the upcoming winter term, whether that be through spending time with friends and family, going out and having fun, or simply just doing nothing. For this reason, we wanted to share with you how our respective winter breaks went. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/14/let-it-snow/>
+
+---
+
+## The Metaphysical Ideas of Plato: Reality or Imagination
+
+date: 2025-01-14, from: California Tech (Caltech Student Newspaper)
+
+I promised you Plato, and here we are. I would say that, after a period of rest where we fantasized about the future and especially about what we should and could have done during the following term, the philosopher I am going to write about fits perfectly. A Mediterranean illumination that I had trying to understand how to find a connection, but it allows us to see the world of Platonic ideas as a parallel reality truly capable of transforming the simple idea of ​​thought, with the intellectual search for being. Mamma mia! What big words—well, let&rsquo;s delve into the connections that can be seen between the world of science and research with Plato. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/14/the-metaphysical-ideas-of-plato/>
+
+---
+
+## What's up with the Switch 2?
+
+date: 2025-01-14, from: California Tech (Caltech Student Newspaper)
+
+Nintendo is arguably the largest gaming company in the world. From the Legend of Zelda to Mario, it’s amassed an impressive repertoire of successful franchises. Even more so, the success of these franchises becomes even more impressive considering how they are only available on a Nintendo console. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/14/what-up-with-switch-up-2/>
 
 ---
 

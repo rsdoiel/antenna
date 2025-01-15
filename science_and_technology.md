@@ -1,15 +1,303 @@
 ---
 title: science and technology
-updated: 2025-01-14 13:25:15
+updated: 2025-01-15 07:05:24
 ---
 
 # science and technology
 
-(date: 2025-01-14 13:25:15)
+(date: 2025-01-15 07:05:24)
 
 ---
 
-## Allstate accused of paying app makers for driver data
+## Crypto klepto North Korea stole $659M over just 5 heists last year
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>US, Japan, South Korea vow to intensify counter efforts</h4> <p>North Korean blockchain bandits stole more than half a billion dollars in cryptocurrency in 2024 alone, the US, Japan, and South Korea say.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/north_korea_crypto_heists/>
+
+---
+
+## Microsoft releases 161 Windows security updates
+
+date: 2025-01-15, from: OS News
+
+Speaking of Microsoft shipping bad code, how about an absolutely humongous &#8216;patch Tuesday&#8217;? Microsoft today unleashed updates to plug a whopping 161 security vulnerabilities in Windows and related software, including three “zero-day” weaknesses that are already under active attack. Redmond’s inaugural Patch Tuesday of 2025 bundles more fixes than the company has shipped in one go since 2017. ↫ Brian Krebs Happy new year, Windows users. 
+
+<br> 
+
+<https://www.osnews.com/story/141543/microsoft-releases-161-windows-security-updates/>
+
+---
+
+## Megan, AI recruiting agent, is on the job so HR can 'do less of the repetitive stuff'
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>She doesn&#39;t feel pity, remorse, or fear, but she&#39;ll craft a polite email message</h4> <p><strong>Interview</strong>  Mega HR, a Florida-based human resources startup, today launched an AI agent service called Megan that the biz claims can automate most recruiting and hiring tasks while improving communication with job applicants.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/megan_ai_recruiting_agent/>
+
+---
+
+## Enterprises in for a shock when they realize power and cooling demands of AI
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>Energy consumption set to become a key performance indicator by 2027</h4> <p>Most businesses rushing to adopt AI are unprepared for the energy demands it&#39;ll place on their infrastructure, and few have a handle on the power consumption of AI systems or the implications for their datacenters.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/ai_power_cooling_demands/>
+
+---
+
+## Shove your office mandates, people still prefer working from home
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>Threat to quit still preferred to commuting on packed public transport</h4> <p>Years after the pandemic reshaped working practices across the world, many staff are still resisting corporate efforts to get them to return to the office preferring instead to quit in favor of a more flexible employer.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/shove_your_mandates_people_still/>
+
+---
+
+## Four plead guilty in US government tech procurement fraud case
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>Scheme involving bribes, bid rigging and insider info may have cost US taxpayers $1.3M</h4> <p>Four defendants have pleaded guilty in a US government IT procurement fraud case, which prosecutors claim has cost taxpayers at least $1.3 million in losses.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/four_plead_guilty_in_us/>
+
+---
+
+## SpaceX launches 2 lunar landers on path to the Moon
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>Blue Ghost&#39;s first time, and second time lucky for Japanese company ispace?</h4> <p>SpaceX has successfully completed the 100th launch of a Falcon rocket from pad 39A and sent two landers on their way to the Moon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/spacex_sends_landers_to_moon/>
+
+---
+
+## British tribunal claim aims to take a bite out of Apple over App Store fees
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>Collective Proceedings Order seeks £1.5B from iGiant</h4> <p>Seven weeks of court action began this week as a case over alleged breaches of competition law by Apple is heard at the UK&#39;s Competition Appeal Tribunal (CAT).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/uk_tribunal_apple_fees/>
+
+---
+
+## UK businesses eye AI as the cheaper, non-whining alternative to actual staff
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>Rising costs blamed, although any excuse to do more with less</h4> <p>British companies are looking to AI as a way of cutting investment in staff, according to new research.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/uk_companies_ai_report/>
+
+---
+
+## How Archaeologists Discovered Europe's Oldest-Known Book, Revealing Never-Before-Seen Insights Into Ancient Religion and Philosophy
+
+date: 2025-01-15, from: Smithsonian Magazine
+
+Charred by the flames of a funeral pyre, the Derveni Papyrus has proved to be a fascinating—and confounding—artifact 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/how-archaeologists-discovered-europes-oldest-known-book-revealing-never-before-seen-insights-into-ancient-religion-and-philosophy-180985818/>
+
+---
+
+## Foundation model for tabular data slashes training from hours to seconds
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>Good ol&#39; spreadsheet data could benefit from &#39;revolutionary&#39; approach to ML inferences</h4> <p>Move over ChatGPT and DALL-E: Spreadsheet data is getting its own foundation machine learning model, allowing users to immediately make inferences about new data points for data sets with up to 10,000 rows and 500 columns.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/foundation_model_tabular_data/>
+
+---
+
+## Microsoft’s latest on-prem Azure is for apps you don’t want in the cloud, but will manage from it
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>Azure Local is about hybrid management, not hybrid resource pools, and is catching up with virtual rivals</h4> <p>Microsoft’s latest on-prem Azure offering is more about unified management than hybrid cloud as an enabler of elasticity or flexible resource pools.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/azure_local_explained/>
+
+---
+
+## Liftoff! NASA Sends Science, Tech to Moon on Firefly, SpaceX Flight
+
+date: 2025-01-15, from: NASA breaking news
+
+A suite of NASA scientific investigations and technology demonstrations is on its way to our nearest celestial neighbor aboard a commercial spacecraft, where they will provide insights into the Moon’s environment and test technologies to support future astronauts landing safely on the lunar surface under the agency’s Artemis campaign. Carrying science and tech on Firefly [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/liftoff-nasa-sends-science-tech-to-moon-on-firefly-spacex-flight/>
+
+---
+
+## Boeing going backwards as production’s slowing and woes keep flowing
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>No such problems at Airbus, which cruised at a high level and shipped almost two planes a day last year</h4> <p>Beleaguered aerospace outfit Boeing has revealed how many commercial aircraft it shipped in 2024, and the news isn’t good.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/boeing_airbus_commercial_deliveries_2024/>
+
+---
+
+## Intel Capital next into the chip giant's trebuchet, to be shot as far over the wall as possible
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>This&#39;ll be good for you, don&#39;t you worry, CFO tells venture fund while pulling back the sling</h4> <p>Stricken silicon giant Intel has decided it doesn’t want to be the sole investor in its venture capital operation, so will spin it out for others to plow money into.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/intel_capital_spinout/>
+
+---
+
+## SEC sues Elon Musk for allegedly screwing investors out of $150M before Twitter takeover
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>Plus: SpaceX rocket re-entries spark airline delays</h4> <p>America&#39;s financial watchdog has sued Elon Musk, alleging the billionaire failed to disclose his acquisition of Twitter shares in a timely manner and was therefore able to acquire the social network for $150 million less than would otherwise have been the case.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/sec_musk_complaint/>
+
+---
+
+## Microsoft fixes under-attack privilege-escalation holes in Hyper-V
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>Plus: Excel hell, angst for Adobe fans, and life&#39;s too Snort for Cisco</h4> <p><strong>Patch Tuesday</strong>  The first Patch Tuesday of 2025 has seen Microsoft address three under-attack privilege-escalation flaws in its Hyper-V hypervisor, plus plenty more problems that deserve your attention.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/patch_tuesday_january_2025/>
+
+---
+
+## A Microsoft change to the Linux kernel caused major breakage, but was caught in time
+
+date: 2025-01-15, from: OS News
+
+A change to the Linux 6.13 kernel contributed by a Microsoft engineer ended up changing Linux x86_64 code without proper authorization and in turn causing troubles for users and now set to be disabled ahead of the Linux 6.13 stable release expected next Sunday. ↫ Michael Larabel What I like about this story is that it seems to underline that the processes, checks, and balances in place in Linux kernel development seem to be working &#8211; at least, this time. A breaking change was caught during the prerelease phase, and a fix has been merged to make sure this issue will be fixed before the stable version of Linux 6.13 is released to the wider public. This all sounds great, but there is an element of this story that raises some serious questions. The change itself was related to EXECMEM_ROX, and was intended to improve performance of 64bit AMD and Intel processors, but in turn, this new code broke Control Flow Integrity on some setups, causing some devices not to wake from hibernation while also breaking other features. What makes this spicy is that the code was merged without acknowledgement from any of the x86 kernel maintainers, which made a lot of people very unhappy &#8211; and understandably so. So while the processes and checks and balances worked here, something still went horribly wrong, as such changes should not be able to be merged without acknowledgement from maintainers. This now makes me wonder how many more times this has happened without causing any instantly discoverable issues. For now, some code has been added to revert the offending changes, and Linux 6.13 will ship with Microsoft&#8217;s bad code disabled. 
+
+<br> 
+
+<https://www.osnews.com/story/141540/a-microsoft-change-to-the-linux-kernel-caused-major-breakagem-but-was-caught-in-time/>
+
+---
+
+## The bell tolls for TikTok as lifelines to avoid January 19 US ban vanish
+
+date: 2025-01-14, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>SCOTUS unlikely to save it, no time to find a buyer. Hi, Xiaohongshu!</h4> <p><strong>Comment</strong>  TikTok is just about out of options to save itself from a looming ban in the United States, though that hasn&#39;t stopped one US senator from planning a bill to extend the divest-or-dumped deadline another 270 days past this Sunday. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/14/tik_tok_ban/>
+
+---
+
+## Roman Space Telescope Coronagraph Instrument Poster
+
+date: 2025-01-14, from: NASA breaking news
+
+NASA’s Roman Coronagraph Instrument will greatly advance our ability to directly image exoplanets, or planets and disks around other stars. The Roman Coronagraph Instrument, a technology demonstration designed and built by NASA’s Jet Propulsion Laboratory, will fly aboard NASA’s next flagship astrophysics observatory, the Nancy Grace Roman Space Telescope. Coronagraphs work by blocking light from […] 
+
+<br> 
+
+<https://science.nasa.gov/image-article/coronagraph-instrument-poster/>
+
+---
+
+## Roman Space Telescope Wide Field Instrument Poster
+
+date: 2025-01-14, from: NASA breaking news
+
+The Wide-Field Instrument (WFI), the primary instrument aboard NASA’s Nancy Grace Roman Space Telescope, is a 300-megapixel visible and infrared camera that will allow scientists to perform revolutionary astrophysics surveys.   This specialized camera detects faint light across the cosmos and will be used to study a wide range of astrophysics topics including the expansion and […] 
+
+<br> 
+
+<https://science.nasa.gov/image-article/wide-field-instrument-poster/>
+
+---
+
+## Google allows advertisers to fingerprint you for even better tracking
+
+date: 2025-01-14, from: OS News
+
+They tried to keep it from prying eyes, but several people did notice it: Google made a pretty significant policy change regarding the use of fingerprinting by advertisers. While Google did not allow advertisers to use digital fingerprinting, the company has now changed its mind on this one. Google really tried to hide this change. The main support article talking about the reasoning behind the change is intentionally obtuse and nebulous, and doesn&#8217;t even link to the actual policy changes being implemented &#8211; which are found in a separate document. Google doesn&#8217;t highlight its changes there, so you have to compare the two versions of the policy yourself. Google claims this change has to be implemented because of &#8220;advances in privacy-enhancing technologies (PETs) such as on-device processing, trusted execution environments, and secure multi-party computation&#8221; and &#8220;the rise of new ad-supported devices and platforms&#8221;. What I think this word salad means is that users are regaining a modicum of privacy with some specific privacy-preserving features in certain operating systems and on certain devices, and that the use of dedicated, siloed streaming services is increasing, which is harder for Google and advertisers to track. In other words, Google is relaxing its rules on fingerprinting because we&#8217;re all getting more conscious about privacy. In any event, the advice remains the same: use ad-blockers, preferably at your network level. Install adblocking software and extensions, set up a Pi-Hole, or turn on any adblocking features in your router (my Ubiquiti router has it built-in, and it works like a charm). Remember: your device, your rules. If you don&#8217;t want to see ads, you don&#8217;t have to. 
+
+<br> 
+
+<https://www.osnews.com/story/141538/google-allows-advertisers-to-fingerprint-you-for-even-better-tracking/>
+
+---
+
+## Climate Activists Spray-Paint Warning on Charles Darwin's Grave
+
+date: 2025-01-14, from: Smithsonian Magazine
+
+The two protesters hoped to draw attention to reports that global temperatures in 2024 exceeded 1.5 degrees Celsius above pre-industrial levels for the first time 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/climate-activists-spray-paint-warning-on-charles-darwins-grave-180985826/>
+
+---
+
+## U.S. Dementia Cases Are Poised to Rise to One Million Each Year by 2060, According to New Projections
+
+date: 2025-01-14, from: Smithsonian Magazine
+
+As the American population ages, a new study finds the average lifetime risk of dementia for adults over 55 is around 42 percent—a higher rate than previously thought 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/us-dementia-cases-are-poised-to-rise-to-one-million-each-year-by-2060-according-to-new-projections-180985831/>
+
+---
+
+## Allstate accused of quietly paying app makers for driver data
 
 date: 2025-01-14, updated: 2025-01-14, from: The Register (UK I.T. News)
 
@@ -129,11 +417,11 @@ Titled "Versailles: Science and Splendor," a new exhibition illustrates how the 
 
 ---
 
-## With AI boom in full force 2024 datacenter deals reach $57B record
+## With AI boom in full force, 2024 datacenter deals reach $57B record
 
 date: 2025-01-14, updated: 2025-01-14, from: The Register (UK I.T. News)
 
-<h4>Fewer giant deals, but many more smaller ones, in bit barn feeding frenzy</h4> <p>Datacenter merger activity soared to new heights in 2024, with $57 billion in deals closed over the 12 months. If you&#39;re looking for a reason, you guessed it: anticipated gains around generative AI. …</p> 
+<h4>Fewer giant contracts, but many more smaller ones, in bit barn feeding frenzy</h4> <p>Datacenter merger activity soared to new heights in 2024, with $57 billion in deals closed over the 12 months. If you&#39;re looking for a reason, you guessed it: anticipated gains around generative AI. …</p> 
 
 <br> 
 
@@ -263,7 +551,7 @@ date: 2025-01-14, updated: 2025-01-14, from: The Register (UK I.T. News)
 
 ## Tim cooking up the dough as his Apple pay rises 18% to $74.6M
 
-date: 2025-01-14, updated: 2025-01-14, from: The Register (UK I.T. News)
+date: 2025-01-14, updated: 2025-01-15, from: The Register (UK I.T. News)
 
 <h4>He could buy 49,766 and a half MacBook Pros with that</h4> <p>Apple supremo Tim Cook bagged an 18 percent pay rise in 2024, taking his total compensation to $74.6 million, according to a regulatory filing.…</p> 
 

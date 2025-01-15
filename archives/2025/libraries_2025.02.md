@@ -1,11 +1,50 @@
 ---
 title: libraries
-updated: 2025-01-14 13:25:17
+updated: 2025-01-15 07:05:26
 ---
 
 # libraries
 
-(date: 2025-01-14 13:25:17)
+(date: 2025-01-15 07:05:26)
+
+---
+
+## Open Science is still an incipient topic in Business Administration journals
+
+date: 2025-01-15, from: SciELO in Perspective
+
+<p>Although valuable, the Open Science movement is still extremely new in the Administration journals indexed in SciELO. Effective and successful practices, such as the use of badges for studies with greater transparency, for example, are used by only one journal. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2025/01/15/open-science-is-still-an-incipient-topic-in-business-administration-journals/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/en/2025/01/15/open-science-is-still-an-incipient-topic-in-business-administration-journals/">Open Science is still an incipient topic in Business Administration journals</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<br> 
+
+<https://blog.scielo.org/en/2025/01/15/open-science-is-still-an-incipient-topic-in-business-administration-journals/>
+
+---
+
+## Guest Post:  An Editor’s Perspective on “My Very Last Issue.”
+
+date: 2025-01-15, from: Scholarly Kitchen
+
+<p>BMJ's Medical Humanities Editor-in-Chief Brandy Schillace reflects on changes in publishing that are making important work harder to do.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/01/15/guest-post-an-editors-perspective-on-my-very-last-issue/">Guest Post:  An Editor’s Perspective on “My Very Last Issue.”</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/01/15/guest-post-an-editors-perspective-on-my-very-last-issue/>
+
+---
+
+## Whose data is it, anyway? Research data management today.
+
+date: 2025-01-15, from: ETH Zurich Research Archives
+
+Under the motto “whose data is it, anyway?”, the ETH Library and Scientific IT Services will be celebrating their love for data from 10 to 14 February 2025 and jointly providing insight into research data management. Read more 
+
+<br> 
+
+<https://rc-blog.ethz.ch/en/whose-data-is-it-anyway-research-data-management-today/>
 
 ---
 

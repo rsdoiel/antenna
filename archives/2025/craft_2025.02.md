@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-01-14 13:25:18
+updated: 2025-01-15 07:05:27
 ---
 
 # craft
 
-(date: 2025-01-14 13:25:18)
+(date: 2025-01-15 07:05:27)
+
+---
+
+## Protected: Choose a Topic – TEST
+
+date: 2025-01-14, from: Guild of American Luthiers
+
+There is no excerpt because this is a protected post. 
+
+<br> 
+
+<https://luth.org/choose-a-topic-test/>
 
 ---
 
@@ -18,18 +30,6 @@ date: 2025-01-14, updated: 2025-01-14, from: Maiwa blog (weaving and textiles)
 <br> 
 
 <https://maiwahandprints.blogspot.com/2025/01/new-maiwa-shawls-pashmina-from-kashmir.html>
-
----
-
-## Protected: Choose a Topic – TEST
-
-date: 2025-01-13, from: Guild of American Luthiers
-
-There is no excerpt because this is a protected post. 
-
-<br> 
-
-<https://luth.org/choose-a-topic-test/>
 
 ---
 

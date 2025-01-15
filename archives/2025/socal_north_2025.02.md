@@ -1,11 +1,147 @@
 ---
 title: socal north
-updated: 2025-01-14 13:25:14
+updated: 2025-01-15 07:05:24
 ---
 
 # socal north
 
-(date: 2025-01-14 13:25:14)
+(date: 2025-01-15 07:05:24)
+
+---
+
+## Sewage spill forces beach closures in Orange County
+
+date: 2025-01-15, updated: 2025-01-15, from: The LAist
+
+Beaches are closed from Laguna Beach to Aliso Viejo. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/sewage-spill-forces-beach-closures-in-orange-county>
+
+---
+
+## LA mayor, council approve orders aimed at helping residents affected by fires
+
+date: 2025-01-15, updated: 2025-01-15, from: The LAist
+
+Mayor Karen Bass’ order is intended to expedite debris removal, obtaining building permits and setting up temporary housing. 
+
+<br> 
+
+<https://laist.com/news/la-mayor-bass-signs-executive-order>
+
+---
+
+## LA council delays vote on proposal to pause evictions and rent increases due to fires
+
+date: 2025-01-15, updated: 2025-01-15, from: The LAist
+
+A proposal to freeze rents and protect Angelenos affected by wildfires from eviction was sent to committee while other emergency motions passed unanimously. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-city-council-palisades-eaton-fire-eviction-moratorium-rent-increases-housing-vote>
+
+---
+
+## FEMA says ‘carefully consider’ GoFundMe campaign phrasing because it can affect disaster aid
+
+date: 2025-01-15, updated: 2025-01-15, from: The LAist
+
+GoFundMe has become a quick source for help from the community, but during a disaster, it can impact federal assistance. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-eaton-palisades-wildfire-aid-fema-gofundme>
+
+---
+
+## Gov. Newsom offers schools, students flexibility in wake of LA fires
+
+date: 2025-01-15, updated: 2025-01-15, from: The LAist
+
+Newsom has signed an executive order meant to help students who’ve been displaced by the recent fires. 
+
+<br> 
+
+<https://laist.com/news/education/gavin-newsom-students-schools-executive-order-palisades-eaton-fires>
+
+---
+
+## Want to know how to stay healthy during wildfire conditions? Join this online event
+
+date: 2025-01-15, updated: 2025-01-15, from: The LAist
+
+Public health and air quality experts will weigh in on risks. 
+
+<br> 
+
+<https://laist.com/news/health/health-info-wildfire-conditions-webinar>
+
+---
+
+## OC supervisors adopt a winter hotel voucher program for unhoused families
+
+date: 2025-01-14, updated: 2025-01-14, from: The LAist
+
+There is an acute need for shelter space during winter months, especially for families with children. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/oc-supervisors-adopt-a-winter-hotel-voucher-program-for-unhoused-families>
+
+---
+
+## California withdraws diesel truck ban and other clean-air rules ahead of Trump taking office
+
+date: 2025-01-14, updated: 2025-01-14, from: The LAist
+
+California regulators say the Trump administration is unlikely to approve the rules and that they have no choice but to abandon groundbreaking regulations for zero-emission trucks and cleaner locomotives. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/california-withdraws-diesel-truck-ban-other-clean-air-rules-as-trump-prepares-to-take-office>
+
+---
+
+## Entry Period Open for Annual Sister Cities Young Artists and Authors Showcase
+
+date: 2025-01-14, from: City of Santa Clarita
+
+<p>The City of Santa Clarita, in partnership with Santa Clarita Sister Cities, invites local students to submit original artwork, poetry, essays/creative writing, photographs or music for the 2025 Young Artists and Authors Showcase. The theme of the contest this year is “FRIENDSHIP: The Heartbeat of Global Peace.” Students are encouraged to highlight the power of [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/14/entry-period-open-for-annual-sister-cities-young-artists-and-authors-showcase-2/">Entry Period Open for Annual Sister Cities Young Artists and Authors Showcase</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/14/entry-period-open-for-annual-sister-cities-young-artists-and-authors-showcase-2/>
+
+---
+
+## Where can college students and employees get fire aid?
+
+date: 2025-01-14, updated: 2025-01-15, from: The LAist
+
+As first responders work to put out the Palisades and Eaton fires, colleges across Greater L.A. have set up relief funds to provide support for students, faculty, and staff. 
+
+<br> 
+
+<https://laist.com/news/education/colleges-universities-palisades-fire-donations>
+
+---
+
+## Scenes from the Fires in Los Angeles
+
+date: 2025-01-14, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/fire-photo-scaled.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/fire-photo-scaled.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/fire-photo-scaled.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/fire-photo-scaled.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/fire-photo-scaled.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/fire-photo-scaled.jpg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/fire-photo-scaled.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/fire-photo-scaled.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/fire-photo-scaled.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/fire-photo-scaled.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/fire-photo-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/fire-photo-scaled.jpg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/fire-photo-scaled.jpg?resize=1568%2C2091&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/fire-photo-scaled.jpg?resize=2000%2C2667&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/fire-photo-scaled.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/fire-photo-scaled.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/fire-photo-scaled.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://sanfernandosun.com/2025/01/14/scenes-from-the-fires-in-los-angeles/">Scenes from the Fires in Los Angeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/14/scenes-from-the-fires-in-los-angeles/>
 
 ---
 
@@ -23,7 +159,7 @@ For years, Tiptoe has been a beloved sight in Pacific Palisades, quietly trompin
 
 ## What parents should know about wildfire air quality, ash, and protecting kids
 
-date: 2025-01-14, updated: 2025-01-14, from: The LAist
+date: 2025-01-14, updated: 2025-01-15, from: The LAist
 
 Wildfire smoke causes particularly dangerous air quality, especially for sensitive groups including children and pregnant people. 
 
@@ -173,7 +309,7 @@ The region already had a severe shortage of affordable housing. With thousands o
 
 ## Cheat sheet: Everything LA residents need to know about water advisories
 
-date: 2025-01-14, updated: 2025-01-14, from: The LAist
+date: 2025-01-14, updated: 2025-01-15, from: The LAist
 
 As the wildfires in L.A. continue to burn, is it safe to shower? Wash dishes? What if you used tap water by accident? Here’s what to know about the three types of water advisories in effect right now. 
 
@@ -245,7 +381,7 @@ To better understand the size of the L.A. fires, this tool lets you overlay the 
 
 ## This is how you can get help finding pets lost in the LA fires
 
-date: 2025-01-13, updated: 2025-01-14, from: The LAist
+date: 2025-01-13, updated: 2025-01-15, from: The LAist
 
 Here’s what local animal organizations are doing and how to get in contact with them. 
 
@@ -257,7 +393,7 @@ Here’s what local animal organizations are doing and how to get in contact wit
 
 ## As fires ravage the LA region, so too are conspiracy theories and misinformation
 
-date: 2025-01-13, updated: 2025-01-14, from: The LAist
+date: 2025-01-13, updated: 2025-01-15, from: The LAist
 
 Let us help you separate fact from fiction. 
 
@@ -315,11 +451,11 @@ This week, stay safe. If you’re in a place to help, help. And if you’re able
 
 ---
 
-## Extreme fire weather begins early Tuesday morning for LA with no rain in sight
+## After weaker than expected winds, extreme fire conditions are predicted for Wednesday
 
-date: 2025-01-13, updated: 2025-01-14, from: The LAist
+date: 2025-01-13, updated: 2025-01-15, from: The LAist
 
-The National Weather Service forecasts a brief respite in fire weather starting Thursday into the weekend. But red flag warnings could kick in again Monday. 
+Firefighting efforts got a leg up Tuesday from weaker than predicted winds — but harsh fire conditions are still in the forecast. 
 
 <br> 
 
@@ -339,9 +475,9 @@ Santa Monica College will hold a donation drive to gather aid for students, empl
 
 ---
 
-## As LAUSD reopens, how the district is preparing schools to be safe and clean
+## How LAUSD prepared schools to be safe and clean amid wildfires
 
-date: 2025-01-13, updated: 2025-01-13, from: The LAist
+date: 2025-01-13, updated: 2025-01-15, from: The LAist
 
 The nation's second largest school district has been closed since Thursday as fires spread around the Los Angeles area. 
 

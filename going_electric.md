@@ -1,11 +1,167 @@
 ---
 title: going electric
-updated: 2025-01-14 13:25:18
+updated: 2025-01-15 07:05:27
 ---
 
 # going electric
 
-(date: 2025-01-14 13:25:18)
+(date: 2025-01-15 07:05:27)
+
+---
+
+## Why Toyota May Be At Its 'Limit'
+
+date: 2025-01-15, from: Inside EVs News
+
+Toyota struggles to build the cars of tomorrow. Plus, what happens to Volvo and Polestar if the U.S. bans Chinese technology in cars? 
+
+<br> 
+
+<https://insideevs.com/news/747430/toyota-kaizen-china-ev-cm/>
+
+---
+
+## Tesla will pause part of new Model Y production for 3 weeks for upgrades, report says
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Model-Y-2-Along-the-Way-Tablet-CN.png-e1736950646574.jpeg?quality=82&#038;strip=all&#038;w=1392" /></div><p>A new report states that Tesla will pause part of new Model Y production at Gigafactory Shanghai for 3 weeks to upgrade the lines.</p>
+
+
+
+<p>The shutdown will extend beyond the regular Chinese New Year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="397841" href="https://electrek.co/2025/01/15/tesla-will-pause-part-of-new-model-y-production-for-3-weeks-for-upgrades-report-says/#more-397841" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/tesla-will-pause-part-of-new-model-y-production-for-3-weeks-for-upgrades-report-says/>
+
+---
+
+## Honda And Acura EVs Will Get Tesla Supercharger Access This Spring
+
+date: 2025-01-15, from: Inside EVs News
+
+A certified adapter will be made available to customers, though it's unclear if it will carry a price tag or not. 
+
+<br> 
+
+<https://insideevs.com/news/747421/honda-acura-ev-tesla-supercharger-access/>
+
+---
+
+## 2026 Acura RSX: The Next All-Honda EV Is A Tesla Model Y-Fighter
+
+date: 2025-01-15, from: Inside EVs News
+
+The successor to the Acura Integra returns in all-electric form. The new RSX will debut Honda's in-house EV tech in early 2026.  
+
+<br> 
+
+<https://insideevs.com/news/747343/acura-rsx-ev-honda-2026/>
+
+---
+
+## Honda is bringing back the Acura RSX in 2025 as an EV built in the US
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Acura-RSX-EV-far.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/honda/">American Honda</a> shared a business outlook for 2025 during a recent briefing with the media. In terms of electrification, the next 12 months for Honda will be much of the same: facelifting tried-and-true ICE models like the CR-V and Passport. However, there was one exciting piece of news from Honda on the BEV front—the automaker has confirmed it will begin US production of an Acura RSX EV. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="397741" href="https://electrek.co/2025/01/15/honda-bringing-back-acura-rsx-2025-as-ev-built-in-us/#more-397741" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/honda-bringing-back-acura-rsx-2025-as-ev-built-in-us/>
+
+---
+
+## Here’s How Much Range These Popular EVs Lose In The Cold
+
+date: 2025-01-15, from: Inside EVs News
+
+Some EVs can lose over 30% of their range in freezing temperatures compared to ideal conditions. Others maintain over 80%. 
+
+<br> 
+
+<https://insideevs.com/news/747374/ev-range-loss-cold-heat-pump-data/>
+
+---
+
+## Toyota funded climate deniers and Fred says Elon fudged the FSD numbers
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/dirty-money.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we look into a new study revealing that Toyota outspends all other automakers when it comes to funding climate change denying politicians and Fred accuses Elon of misrepresenting the data behind Full Self Driving (again).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="full-self-driving-fsd,politics,toyota" data-layer-viewtype="unknown" data-post-id="397820" href="https://electrek.co/2025/01/14/toyota-funded-climate-deniers-and-fred-says-elon-fudged-the-fsd-numbers/#more-397820" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/14/toyota-funded-climate-deniers-and-fred-says-elon-fudged-the-fsd-numbers/>
+
+---
+
+## Amazon places its largest-ever order for electric semi trucks
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/amazon-Mercedes-eActros-semi.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Amazon is adding over 200 Mercedes-Benz eActros 600 electric semi trucks to its fleet later this year – its largest-ever order of electric heavy goods vehicles (eHGVs). </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="amazon-vehicles,daimler-trucks,electric-semi-truck,mercedes-benz" data-layer-viewtype="unknown" data-post-id="397806" href="https://electrek.co/2025/01/14/amazon-places-its-largest-ever-order-for-electric-semi-trucks/#more-397806" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/14/amazon-places-its-largest-ever-order-for-electric-semi-trucks/>
+
+---
+
+## 'Why Can't I Have This?' America's TikTok Refugees Discover China's EVs
+
+date: 2025-01-14, from: Inside EVs News
+
+TikTok users are migrating to Red Note (Xiaohongshu) and learning all about China's EV game. And now they want some. 
+
+<br> 
+
+<https://insideevs.com/news/747336/tiktok-byd-chinese-evs-learning/>
+
+---
+
+## Americans Overwhelmingly Support Stricter Fuel-Economy Standards: Study
+
+date: 2025-01-14, from: Inside EVs News
+
+Buyers across the political spectrum agree that fuel-economy standards should improve. EVs are helping achieve this goal. 
+
+<br> 
+
+<https://insideevs.com/news/747325/americans-support-stricter-fuel-economy-standards/>
+
+---
+
+## Check out the new Genesis GV60 interior, it looks even more luxurious in blue [Video]
+
+date: 2025-01-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Genesis-new-GV60-interior.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>If you thought the current <a href="https://electrek.co/guides/genesis-gv60/">GV60</a> looked pretty inside, wait until you see the updated model. Genesis unveiled the new GV60 earlier this month, its first major redesign since launching in 2021. Here’s our first look at the interior of the new Genesis GV60.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis,genesis-gv60" data-layer-viewtype="unknown" data-post-id="397798" href="https://electrek.co/2025/01/14/genesis-gv60-interior-looks-even-more-luxurious-in-blue-video/#more-397798" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/14/genesis-gv60-interior-looks-even-more-luxurious-in-blue-video/>
 
 ---
 

@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-01-14 13:25:15
+updated: 2025-01-15 07:05:24
 ---
 
 # ham radio
 
-(date: 2025-01-14 13:25:15)
+(date: 2025-01-15 07:05:24)
+
+---
+
+## How neon lamps can replace LEDs in AC-powered designs
+
+date: 2025-01-15, from: EDN Blog
+
+<img width="898" height="1280" src="https://www.edn.com/wp-content/uploads/Fig-4-NE-2-neon-lamp.png?fit=898%2C1280" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-4-NE-2-neon-lamp.png?w=898 898w, https://www.edn.com/wp-content/uploads/Fig-4-NE-2-neon-lamp.png?w=210 210w, https://www.edn.com/wp-content/uploads/Fig-4-NE-2-neon-lamp.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-4-NE-2-neon-lamp.png?w=718 718w" sizes="(max-width: 898px) 100vw, 898px" /><p>The inherent compatibility with DC sources makes the neon indicator a viable choice for higher-voltage DC rail designs.</p>
+<p>The post <a href="https://www.edn.com/how-neon-lamps-can-replace-leds-in-ac-powered-designs/" data-wpel-link="internal">How neon lamps can replace LEDs in AC-powered designs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/how-neon-lamps-can-replace-leds-in-ac-powered-designs/>
 
 ---
 
@@ -33,12 +47,12 @@ date: 2025-01-14, from: Amateur Radio Relay League News
 
 ---
 
-## Part 1: A beginner’s guide to the power of IQ data and beauty of negative frequencies
+## A beginner’s guide to power of IQ data and beauty of negative frequencies – Part 1
 
 date: 2025-01-14, from: EDN Blog
 
-<img width="1395" height="797" src="https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?fit=1395%2C797" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?w=1395 1395w, https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?w=1024 1024w" sizes="(max-width: 1395px) 100vw, 1395px" /><p>Part 1 of this DI series explains the commonly used SDR IQ signal representation and negative frequencies with the complexity of math. </p>
-<p>The post <a href="https://www.edn.com/part-1-a-beginners-guide-to-the-power-of-iq-data-and-beauty-of-negative-frequencies/" data-wpel-link="internal">Part 1: A beginner’s guide to the power of IQ data and beauty of negative frequencies</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+<img width="1395" height="797" src="https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?fit=1395%2C797" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?w=1395 1395w, https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?w=1024 1024w" sizes="(max-width: 1395px) 100vw, 1395px" /><p>Part 1 of this DI series explains the commonly used SDR IQ signal representation and negative frequencies with the complexity of math. </p>
+<p>The post <a href="https://www.edn.com/part-1-a-beginners-guide-to-the-power-of-iq-data-and-beauty-of-negative-frequencies/" data-wpel-link="internal">A beginner’s guide to power of IQ data and beauty of negative frequencies &#8211; Part 1</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
 <br> 

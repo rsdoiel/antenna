@@ -1,11 +1,191 @@
 ---
 title: columns
-updated: 2025-01-14 13:25:16
+updated: 2025-01-15 07:05:25
 ---
 
 # columns
 
-(date: 2025-01-14 13:25:16)
+(date: 2025-01-15 07:05:25)
+
+---
+
+## New version of Daytona
+
+date: 2025-01-15, from: Dave Winer's Scripting News
+
+<p>Daytona is the search engine for Scripting News.  </p>
+<p>I've wanted to do a rewrite for quite some time, there were a lot of decisions I wanted to redo, and I've learned a lot about databases in the <a href="http://scripting.com/2021/12/">three years</a> since the first release.</p>
+<p>You can <a href="https://daytona.scripting.com/">try it out</a>. There are <a href="https://this.how/daytona/">docs</a>, and a <a href="https://github.com/scripting/Scripting-News/issues/317">place</a> for questions and comments. The usual caveats apply, esp since it's newly deployed, quickly.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/01/15/newDaytonaScreenshot.png"></center>Screen shot of the new Daytona.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/15/143544.html?title=newVersionOfDaytona>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-15, from: Dave Winer's Scripting News)
+
+The <a href="https://feediverse.org/">feediverse</a> is not a joke. It's deployed, scaled, widely supported, far beyond AT Proto or ActivityPub. It's the HTML of the social web. And where the others are complicated, feeds are, wait for it, really simple. 😀 
+
+<br> 
+
+<http://scripting.com/2025/01/15.html#a142124>
+
+---
+
+## Wednesday 15 January, 2025
+
+date: 2025-01-15, from: John Naughton's online diary
+
+Bath time in the West End Amazing what you see when you wander round London with a camera. Quote of the Day &#8220;One should, for example, be able to see that things are hopeless and yet be determined to make &#8230; <a href="https://memex.naughtons.org/wednesday-15-january-2025/40335/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-15-january-2025/40335/>
+
+---
+
+## Phishing False Alarm
+
+date: 2025-01-15, updated: 2025-01-14, from: Bruce Schneier blog
+
+<p>A very security-conscious company was hit with a (presumed) massive state-actor phishing attack with gift cards, and everyone rallied to combat it&#8212;until it <a href="https://notalwaysright.com/?p=359144">turned out</a> it was company management sending the gift cards.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/01/phishing-false-alarm.html>
+
+---
+
+## Office Hours: The biggest long-term effect of LA's dystopian nightmare?
+
+date: 2025-01-15, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-the-biggest-long-term>
+
+---
+
+## A big western loop: day 1 & 2
+
+date: 2025-01-15, from: Matt Haughey blog
+
+<p>I spent the last few months cramming to finish off <a href="https://unofficialnwsl.stadium.guide/the-book-is-out/?ref=a.wholelottanothing.org" rel="noreferrer">the soccer stadium book</a>, and I purposely stacked my first week of January with every annoying obligation I had (oil changes, teeth cleanings, etc) so the rest of my month was free. I planned the second week in January for</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/a-big-western-loop-day-1-2/>
+
+---
+
+## January 14, 2025 
+
+date: 2025-01-15, from: Heather Cox Richardson blog
+
+Shortly after midnight last night, the Justice Department released special counsel Jack Smith&#8217;s final report on former president Donald Trump&#8217;s attempt to overturn the results of the 2020 presidential election. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-14-2025>
+
+---
+
+## Making "this" less annoying
+
+date: 2025-01-15, from: Dave Rupert blog
+
+<p>Now that I have a job where I’m writing web components full time, I see the <code>this</code> keyword more than I ever have in my whole life. It’s not a problem, per se, but you can see how it’s a little repetitive. I started wondering what my options were to fix this minor annoyance and the ShopTalk Discord helped me find a simple way and an over-the-top way to fix my issue.</p>
+<h2>Simple way: Overriding VS Code theme color tokens</h2>
+<p>By default my Github Light theme makes <code>this</code> a bold dark blue color. I didn’t want to roll my own theme though to scratch this niche itch, so I dug in and found out you can override single tokens in VS Code. Handy. The documentation is a bit opaque but here’s what you need to do:</p>
+<div class="language-jsx highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="jsx"><span class="c1">// settings.json</span>
+<span class="dl">"</span><span class="s2">editor.tokenColorCustomizations</span><span class="dl">"</span><span class="p">:</span> <span class="p">{</span>
+  <span class="dl">"</span><span class="s2">textMateRules</span><span class="dl">"</span><span class="p">:</span> <span class="p">[</span>
+    <span class="p">{</span>
+      <span class="dl">"</span><span class="s2">scope</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">variable.language.this</span><span class="dl">"</span><span class="p">,</span>
+      <span class="dl">"</span><span class="s2">settings</span><span class="dl">"</span><span class="p">:</span> <span class="p">{</span>
+        <span class="dl">"</span><span class="s2">foreground</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">#b0b0b0</span><span class="dl">"</span>
+      <span class="p">}</span>
+    <span class="p">}</span>
+  <span class="p">]</span>
+<span class="p">},</span>
+</code></pre></div></div>
+<p>Now my <code>this</code> looks like this…</p>
+<p><img src="https://cdn.daverupert.com/posts/2025/dimmed.jpg" alt="the keyword this in code set in a light gray, almost illegible font color" /></p>
+<p>It’s a calming sensation for me to have repetitive noise dimmed. I liked it so much I dimmed comments to match as well. I may even dim TypeScript because sometimes I wish I could hide the syntax, but keep the squiggles.</p>
+<h2>Over the top way: Replace <code>this</code> with a custom glyph</h2>
+<p>Changing colors is cool… but what if you could go one step further and replace <code>this</code> with an icon? What would an icon for <code>this</code> even look like?</p>
+<p>I asked the ShopTalk Discord and got some interesting ideas like the “☝️” emoji, which I think is funny in an “I’m with stupid” t-shirt sort of way. <a href="https://andrewwalpole.com/">Andrew Walpole</a> took it to the next level and <a href="https://www.redbubble.com/i/sticker/This-Logo-Yellow-by-walpolea/162159874.EJUG5">designed a custom glyph</a>:</p>
+<img src="https://cdn.daverupert.com/posts/2025/this.png" alt="the letter of the word this arranged in a diamond pattern" width="150" height="152">
+<p><a href="https://www.alanwsmith.com/">Alan Smith</a> then figured out <a href="https://youtu.be/x1heJdtQapI">how to use Glyphs Mini to add a custom ligature to an open source coding font</a>. Andrew riffed on Alan’s work and exported a custom version of Fira Code with his custom glyph as a ligature. The last step was to install the font update my VS Code settings:</p>
+<div class="language-jsx highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="jsx">  <span class="dl">"</span><span class="s2">editor.fontFamily</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">'Fira Code Ligged', monospace</span><span class="dl">"</span><span class="p">,</span>
+  <span class="dl">"</span><span class="s2">editor.fontLigatures</span><span class="dl">"</span><span class="p">:</span> <span class="kc">true</span>
+</code></pre></div></div>
+<p>Now my code looks incredibly futuristic…</p>
+<p><img src="https://cdn.daverupert.com/posts/2025/glyph.jpg" alt="the this glyph replacing instances of the glyph keyword in code" /></p>
+<p>Abusing typefaces to remove the repetitiveness of programming languages is fun. After seeing the icon <em>in situ</em>, the idea might be a smidge too wild for me due to reduced legibility. While I don’t use the custom glyph on the daily, this experiment does spark a deep desire in me to create a bunch of custom glyphs for common keywords so I can make JavaScript an entirely rune-based programming language.</p>
+<h2>Custom ligatures with CSS?</h2>
+<p>A wild idea, but it would be neat if you could create your own custom ligatures in CSS to avoid the need to re-bake custom fonts each time you have a niche typographic need. Here’s a pseudo-syntax of how that might work:</p>
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="css"><span class="k">@font-face</span> <span class="s1">"Dave Hijinks"</span> <span class="p">{</span>
+  <span class="py">match</span><span class="p">:</span> <span class="s1">"this."</span><span class="p">;</span>
+  <span class="py">replace</span><span class="p">:</span> <span class="s1">"☝️."</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="k">@font-face</span> <span class="s1">"Cloud2Butts"</span> <span class="p">{</span>
+  <span class="py">match</span><span class="p">:</span> <span class="s1">"cloud"</span><span class="p">,</span> <span class="s1">"AI"</span><span class="p">;</span>
+  <span class="py">replace</span><span class="p">:</span> <span class="s1">"butt"</span><span class="p">,</span> <span class="sx">url(fart.svg)</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nt">body</span> <span class="p">{</span>
+  <span class="py">font-face</span><span class="p">:</span> <span class="s1">"Dave Hijinks"</span><span class="p">,</span> <span class="s1">"Cloud2Butt"</span><span class="p">,</span> <span class="nb">sans-serif</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+<p>Anyways, it’s a thought. Not a serious proposal. This was a fun rabbit hole to travel down with some friends.</p> 
+
+<br> 
+
+<https://daverupert.com/2025/01/like-this-and-like-that-and-like-this-and-uh/>
+
+---
+
+## Breakfast With Pete Hegseth
+
+date: 2025-01-15, updated: 2025-01-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.newyorker.com/news/the-lede/the-pressure-campaign-to-get-pete-hegseth-confirmed-as-defense-secretary>
+
+---
+
+## While CTO at Pandora, Tom Conrad Had Them Building Their iPhone App Before the iPhone SDK Was Released
+
+date: 2025-01-15, updated: 2025-01-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.vice.com/en/article/how-pandora-won-its-royalty-battle-but-lost-the-war-to-spotify/>
+
+---
+
+## Sonos’s Reboot Continues: Chief Product Officer Maxime Bouvat-Merlin Is Out Too
+
+date: 2025-01-15, updated: 2025-01-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/2025/1/14/24343873/sonos-product-officer-maxime-bouvat-merlin-leaving>
 
 ---
 
@@ -39,7 +219,7 @@ date: 2025-01-14, updated: 2025-01-14, from: Daring Fireball
 
 date: 2025-01-14, from: Robert Reich's blog
 
-What I learned thirty-three years ago. 
+What I learned 33 years ago. 
 
 <br> 
 

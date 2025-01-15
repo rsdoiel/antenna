@@ -1,11 +1,97 @@
 ---
 title: motorcycles
-updated: 2025-01-14 13:25:17
+updated: 2025-01-15 07:05:26
 ---
 
 # motorcycles
 
-(date: 2025-01-14 13:25:17)
+(date: 2025-01-15 07:05:26)
+
+---
+
+## Would You Ride an Electric Harley-Davidson Fat Boy?
+
+date: 2025-01-15, from: Ride Apart, Electric Motorcycle News
+
+Collaborating shops in Japan worked out how to bring this project to life, with ace results. 
+
+<br> 
+
+<https://www.rideapart.com/news/747338/harley-fat-boy-ev-custom-electric-kit/>
+
+---
+
+## Michigan's DNR Will Host a Free Snowmobile Weekend
+
+date: 2025-01-15, from: Ride Apart, Electric Motorcycle News
+
+Free is always good.  
+
+<br> 
+
+<https://www.rideapart.com/news/747311/michigan-dnr-free-snowmobile-snowmobiling/>
+
+---
+
+## Is This Little Guy Yamaha's One-Seater Cybertruck Killer?
+
+date: 2025-01-15, from: Ride Apart, Electric Motorcycle News
+
+Please tell me that LED strip light up front sweeps back and forth cylon-style, Yamaha. 
+
+<br> 
+
+<https://www.rideapart.com/news/747316/yamaha-off-road-ev-concept/>
+
+---
+
+## KTM Says It's "Definitely" Working on Its New MotoGP Bike
+
+date: 2025-01-15, from: Ride Apart, Electric Motorcycle News
+
+Yep, we (winks) believe you, KTM!  
+
+<br> 
+
+<https://www.rideapart.com/news/747307/ktm-motogp-rc16-development-pause-lifted-working/>
+
+---
+
+## This Is Not A Drill: The Triumph Thruxton 400 Is Coming Soon
+
+date: 2025-01-15, from: Ride Apart, Electric Motorcycle News
+
+The Thruxton name will live on, albeit in a smaller package. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/747202/triumph-thruxton-400-test-mule-spotted-india/>
+
+---
+
+## Cardo Sponsors Motorcycle Mental Health Charity, Links Riding and Wellbeing
+
+date: 2025-01-15, from: Ride Apart, Electric Motorcycle News
+
+I couldn't be more behind this campaign. 
+
+<br> 
+
+<https://www.rideapart.com/news/746986/cardo-your-ride-your-recharge-campagin/>
+
+---
+
+## Royal Enfield Sold Nearly a Million Motorcycles Last Year
+
+date: 2025-01-15, from: Ride Apart, Electric Motorcycle News
+
+It managed to triple its sales figures in the span of 10 years.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/747203/royal-enfield-nearly-one-million-motorcycles-sold-2024/>
 
 ---
 

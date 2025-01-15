@@ -1,11 +1,141 @@
 ---
 title: food
-updated: 2025-01-14 13:25:18
+updated: 2025-01-15 07:05:27
 ---
 
 # food
 
-(date: 2025-01-14 13:25:18)
+(date: 2025-01-15 07:05:27)
+
+---
+
+## I Need Freezer Friendly Recipes
+
+date: 2025-01-15, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris and Hana help caller and first time mom Mara stock up on nourishing, freezer-friendly meals for when her baby arrives. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-freezer-friendly-recipes>
+
+---
+
+## Easy Spanish Coffee
+
+date: 2025-01-15, from: Taste of Home
+
+<span style="font-weight: 400;">Chase away the chill with this cozy Spanish coffee recipe, made with rum, orange and coffee liqueurs, lightly sweetened whipped cream and a bit of fiery flair.</span> 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/easy-spanish-coffee/>
+
+---
+
+## What Is Prosciutto and How Is It Made?
+
+date: 2025-01-15, from: Taste of Home
+
+<p>Whether it's layered on a charcuterie board or spread onto a sandwich, we can't get enough of prosciutto, the silky, world-famous Italian ham. Here's everything you need to know about the dry-cured meat and how to use it.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-is-prosciutto/">What Is Prosciutto and How Is It Made?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-is-prosciutto/>
+
+---
+
+## Canned Coffee Was Big in 2024—Here’s How Specialty Roasters Can Profit in 2025
+
+date: 2025-01-15, from: The Fresh Cup
+
+<p>Canned coffee beverages already dominate grocery shelves, and the category is still growing. Here’s how specialty roasters can get in on the RTD action.  </p>
+<p>The post <a href="https://freshcup.com/canned-coffee-was-big-in-2024-heres-how-specialty-roasters-can-profit-in-2025/">Canned Coffee Was Big in 2024—Here’s How Specialty Roasters Can Profit in 2025</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/canned-coffee-was-big-in-2024-heres-how-specialty-roasters-can-profit-in-2025/>
+
+---
+
+## Cabbage and Burrata Salad With Spicy Tahini
+
+date: 2025-01-15, from: Bon Appetet
+
+This dinner salad combines decadent burrata cheese with a spicy tahini dressing that clings to every crinkly leaf of Napa cabbage. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/cabbage-and-burrata-salad-with-spicy-tahini>
+
+---
+
+## Halloumi No-Meat Balls
+
+date: 2025-01-15, from: Bon Appetet
+
+Shredded Halloumi cheese stars in these meatless meatballs, a worthy vegetarian substitution that adds savory richness of its own. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/halloumi-no-meat-balls>
+
+---
+
+## Paneer and Green Bean Stir-Fry
+
+date: 2025-01-15, from: Bon Appetet
+
+Paneer is a creamy-firm cheese that stands in for meat in this vegetarian stir-fry featuring blistered green beans fragrant with curry powder and soy sauce. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/paneer-and-green-bean-stir-fry>
+
+---
+
+## I Figured Out Andy Reid’s Recipe for Mac and Cheese
+
+date: 2025-01-14, from: Taste of Home
+
+<p>The Kansas City Chiefs coach knows football—and comfort food. I made his most-talked-about recipe: Andy Reid's mac and cheese.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/andy-reid-mac-and-cheese-recipe/">I Figured Out Andy Reid&#8217;s Recipe for Mac and Cheese</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/andy-reid-mac-and-cheese-recipe/>
+
+---
+
+## This Is the Best Deal on the New McDonald’s McValue Menu
+
+date: 2025-01-14, from: Taste of Home
+
+<p>There's one McValue deal that's better than the rest!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/best-deal-mcvalue-menu/">This Is the Best Deal on the New McDonald&#8217;s McValue Menu</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/best-deal-mcvalue-menu/>
+
+---
+
+## Costco’s Bakery Has a Pastry That Will Change Your Life
+
+date: 2025-01-14, from: Taste of Home
+
+<p>Everything you need to know about the new almond croissant pastry at Costco.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/costco-almond-croissant-pastry/">Costco&#8217;s Bakery Has a Pastry That Will Change Your Life</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/costco-almond-croissant-pastry/>
 
 ---
 

@@ -1,11 +1,814 @@
 ---
 title: north america
-updated: 2025-01-14 13:25:14
+updated: 2025-01-15 07:05:23
 ---
 
 # north america
 
-(date: 2025-01-14 13:25:14)
+(date: 2025-01-15 07:05:23)
+
+---
+
+## Unhoused Angelenos face limited support amid LA fires
+
+date: 2025-01-15, from: Market Place
+
+"Twin challenges" arise as Los Angeles continues to face massive wildfire destruction in a tight housing market. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/15/unhoused-angelenos-face-limited-support-amid-la-fires/>
+
+---
+
+## The role of catastrophe bonds in paying to rebuild after fires and other disasters
+
+date: 2025-01-15, from: Market Place
+
+Catastrophe bonds play an important role in keeping the insurance market functioning at a time when it’s getting harder for homeowners to get affordable coverage. But what happens catastrophe actually strikes?  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/15/the-role-of-catastrophe-bonds-in-paying-to-rebuild-after-fires-and-other-disasters/>
+
+---
+
+## What the Oil and Gas Industry Expects from Trump
+
+date: 2025-01-15, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTYxMDU5Mi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2MTY1NzIyNH0.IprS_ZpB6Gh7wKx0YgMsqfeDbbwHqmfBlAgiATY6RkE/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><em><strong>Current conditions:</strong> Severe thunderstorms brought transportation chaos to Sydney and left 120,000 homes without power • Greece may resort to filling hotel pools with seawater instead of fresh water due to extreme drought • A clipper storm will bring some snow to the Great Lakes and parts of Appalachia today and tomorrow.</em></p><h2>THE TOP FIVE</h2><h3>1. Strong winds continue to fan LA fires</h3><p>Winds in fire-ravaged Los Angeles were weaker than expected yesterday, but are forecast to pick up again today as firefighters continue to battle ongoing blazes. The National Weather Service issued another “particularly dangerous situation” <a href="https://x.com/NWSLosAngeles/status/1879324332394270961/photo/1?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9hP0vig3Udh_894lv-ncweqpMbDk8LHkPt2Rlo8V8XZsm-nlXmiAEbrUTrv5fS4UIyFWDc" rel="noopener noreferrer" target="_blank">warning</a> indicating extreme red flag fire weather in large parts of LA until 3 p.m. Wednesday. The Palisades fire is just 18% contained, and the Eaton fire is 35% contained. Some 88,000 people are under evacuation orders, and the death toll has reached 25. Conditions are expected to ease tomorrow, but another round of Santa Ana winds could emerge next week, the NWS <a href="https://x.com/NWSCPC/status/1879276333244854273/photo/1?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9hP0vig3Udh_894lv-ncweqpMbDk8LHkPt2Rlo8V8XZsm-nlXmiAEbrUTrv5fS4UIyFWDc" rel="noopener noreferrer" target="_blank">said</a>.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="79cc22b8372b1c68da74fe90ec3b9984" data-rm-shortcode-name="rebelmouse-image" id="24929" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTYxMDU5Ni9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc5NDc2MDA3OH0.hS8GVQeVt1wuvcOWvbBvGOzJvfXU6YuxC_LxWUI4oOw/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">National Weather Service</small></p><h3>2. Trump planning executive orders on energy</h3><p>Lobbyists for the oil and gas industry widely believe President-elect Donald Trump will issue a suite of executive orders targeting energy policy shortly after his inauguration. <a href="https://www.wsj.com/politics/elections/trump-plans-energy-dominance-executive-orders-after-inauguration-df86acd8?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9hP0vig3Udh_894lv-ncweqpMbDk8LHkPt2Rlo8V8XZsm-nlXmiAEbrUTrv5fS4UIyFWDc" rel="noopener noreferrer" target="_blank">According to</a> <em><em>The Wall Street Journal</em></em>, Trump is expected to “instruct agencies to begin unwinding President Biden’s limits on drilling offshore and on federal land.” Other moves to watch for include:</p><ul><li>Rolling back tailpipe emissions rules</li><li>Resuming approvals for natural gas export facilities</li><li>Transforming agencies including the EPA, and the departments of energy and the interior</li><li>Withdrawing from the Paris Agreement</li><li>Creating a new national energy council</li><li><a href="https://www.reuters.com/business/energy/trumps-likely-first-moves-us-energy-policy-2025-01-13/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9hP0vig3Udh_894lv-ncweqpMbDk8LHkPt2Rlo8V8XZsm-nlXmiAEbrUTrv5fS4UIyFWDc" rel="noopener noreferrer" target="_blank">Declaring a national energy emergency</a> in order to fast-track permits for new energy projects</li><li>And of course, a ban on offshore wind turbine activity, which <a href="https://heatmap.news/sparks/offshore-wind-ban-order?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9hP0vig3Udh_894lv-ncweqpMbDk8LHkPt2Rlo8V8XZsm-nlXmiAEbrUTrv5fS4UIyFWDc" target="_self">Heatmap’s Jael Holzman reported yesterday</a></li></ul><p>Trump’s team has apparently discussed his plans with energy industry insiders, but these are not set in stone. “Energy clearly was on the ballot, and we’re going to make the case that energy won,” Mike Sommers, president of the American Petroleum Institute, told the <em>Journal</em>.</p><h3>3. Trump DOE nominee Chris Wright to face Senate confirmation hearing</h3><p>President-elect Trump’s pick to lead the Department of Energy, <a href="https://heatmap.news/climate/chris-wright-mind?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9hP0vig3Udh_894lv-ncweqpMbDk8LHkPt2Rlo8V8XZsm-nlXmiAEbrUTrv5fS4UIyFWDc" target="_self">Chris Wright</a>, is scheduled for his Senate confirmation hearing <a href="https://www.energy.senate.gov/hearings/2025/1/hearing-to-consider-the-nomination-of-mr-chris-wright-to-be-secretary-of-energy?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9hP0vig3Udh_894lv-ncweqpMbDk8LHkPt2Rlo8V8XZsm-nlXmiAEbrUTrv5fS4UIyFWDc" rel="noopener noreferrer" target="_blank">today at 10 a.m. EST</a>. He will face questions from the Senate Energy and Natural Resources Committee. Democrats had asked the panel’s chairman, Republican Sen. Mike Lee, to postpone the hearing due to missing paperwork from the Office of Government Ethics that includes financial disclosures. Lee <a href="https://www.eenews.net/articles/burgum-hearing-postponed-over-paperwork-delays/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9hP0vig3Udh_894lv-ncweqpMbDk8LHkPt2Rlo8V8XZsm-nlXmiAEbrUTrv5fS4UIyFWDc" rel="noopener noreferrer" target="_blank">postponed</a> the hearing for Trump’s pick for interior secretary, Doug Burgum, for a similar reason. Wright is currently the CEO for fracking powerhouse Liberty Energy. The Sierra Club <a href="https://www.sierraclub.org/press-releases/2024/11/sierra-club-statement-nomination-oil-and-fracked-gas-ceo-chris-wright-energy?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9hP0vig3Udh_894lv-ncweqpMbDk8LHkPt2Rlo8V8XZsm-nlXmiAEbrUTrv5fS4UIyFWDc" rel="noopener noreferrer" target="_blank">called</a> him a “climate denier who has profited off of polluting our communities and endangering our health and future.”</p><h3>4. Extreme weather ranks 2nd on list of global risks for 2025</h3><p>The World Economic Forum put out its annual <a href="https://reports.weforum.org/docs/WEF_Global_Risks_Report_2025.pdf?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9hP0vig3Udh_894lv-ncweqpMbDk8LHkPt2Rlo8V8XZsm-nlXmiAEbrUTrv5fS4UIyFWDc" rel="noopener noreferrer" target="_blank">report</a> of global risks ahead of next week’s summit in Davos. Extreme weather events, which were at the top of the list last year, moved down a notch into the second position, below armed conflict. Twenty-three percent of the 900 or so expert respondents ranked state-based armed conflict as the number one risk facing the globe in 2025, whereas 14% chose extreme weather events:</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="9ff399c00f71587b90ac0b248514d815" data-rm-shortcode-name="rebelmouse-image" id="eb1e2" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTYxMDYwMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc0ODMwMzQ1M30.6WI3Vi-qJQo_1lccYqqhqNIxi3t4ml63d2cLsck62yw/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">WEF</small></p><p><a href="https://www.weforum.org/publications/global-risks-report-2024/digest/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9hP0vig3Udh_894lv-ncweqpMbDk8LHkPt2Rlo8V8XZsm-nlXmiAEbrUTrv5fS4UIyFWDc" rel="noopener noreferrer" target="_blank">Last year</a>, 66% of respondents ranked extreme weather as the top risk, and 53% chose AI-generated misinformation. Looking ahead over the next 10 years, the climate crisis looms very large: Experts ranked extreme weather events, biodiversity loss and ecosystem collapse, critical change to Earth systems, and natural resource shortages as the top risks facing the globe through 2035. The World Economic Forum’s annual meeting runs from January 20 - 25. President-elect Trump is expected to give a virtual address on the 23rd.</p><h3>5. Nobel laureates call for ‘moonshot’ solutions to global hunger</h3><p>A group of more than 150 Nobel laureates composed <a href="https://www.worldfoodprize.org/documents/filelibrary/2025_Moonshots_Press_Release_5953018F7EE41.pdf?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9hP0vig3Udh_894lv-ncweqpMbDk8LHkPt2Rlo8V8XZsm-nlXmiAEbrUTrv5fS4UIyFWDc" rel="noopener noreferrer" target="_blank">an open letter</a> calling on governments to support the development of “moonshot” innovations to avert a looming hunger crisis. The letter warns some 700 million people are already going hungry, and the problem will only worsen as the population grows. The global food shortage has many causes, but the letter cites climate change as a major challenge and calls for “planet-friendly” technologies to boost food production. “We know that agricultural research and innovation can be a powerful lever, not only for food and nutrition security, but also improved health, livelihoods, and economic development,” said Cary Fowler, joint 2024 World Food Prize Laureate and outgoing U.S. Special Envoy for Global Food Security. “We need to channel our best scientific efforts into reversing our current trajectory, or today’s crisis will become tomorrow’s catastrophe.”</p><h2>THE KICKER</h2><p>Global EV sales were up by 25% last year compared to 2023, <a href="https://rhomotion.com/news/over-17-million-evs-sold-in-2024-record-year/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9hP0vig3Udh_894lv-ncweqpMbDk8LHkPt2Rlo8V8XZsm-nlXmiAEbrUTrv5fS4UIyFWDc" rel="noopener noreferrer" target="_blank">according to</a> research group Rho Motion. In the U.S. and Canada, sales rose by 9%, compared to a 40% jump in China.</p> 
+
+<br> 
+
+<https://heatmap.news/politics/trump-energy-executive-order>
+
+---
+
+## White House says Biden leaving Ukraine in strongest position possible
+
+date: 2025-01-15, from: VOA News USA
+
+Michael Carpenter, director for Europe at the National Security Council, spoke with VOA, defending the Biden administration’s policies on Ukraine, stating they were undeterred by Russia’s nuclear threats, and attributing Ukraine’s lack of success in regaining lost territories to manpower shortages.  The following interview has been edited for brevity and clarity. (Camera: Anne-Marie Fendrick) 
+
+<br> 
+
+<https://www.voanews.com/a/white-house-says-biden-leaving-ukraine-in-strongest-position-possible-attributes-lack-of-success-to-manpower-shortages/7937536.html>
+
+---
+
+## The Greatest DEI Disaster Ever
+
+date: 2025-01-15, from: The Contrarian
+
+Democratic Senators--especially the women--shed a glaring light on a sketchy, uninformed nominee who has no business lording over the Pentagon 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-greatest-dei-disaster-ever>
+
+---
+
+## Rubio vows to place US interests 'above all else' as Trump's top diplomat
+
+date: 2025-01-15, from: VOA News USA
+
+Washington — Florida Sen. Marco Rubio is promising to implement President-elect Donald Trump's "America First" vision as secretary of state, vowing in his confirmation hearing Wednesday that the incoming administration will forge a new path by placing American interests "above all else." 
+
+
+"Placing our core national interests above all else is not isolationism," Rubio will tell the Senate Foreign Relations Committee, according to an opening statement obtained by The Associated Press. "It is the commonsense realization that a foreign policy centered on our national interest is not some outdated relic." 
+
+
+"The postwar global order is not just obsolete; it is now a weapon being used against us," Rubio says. 
+
+
+It's a remarkable opening salvo from Rubio, who was born in Miami to Cuban immigrants, and who, if confirmed, would become the first Latino ever to serve as the nation's top diplomat. 
+
+
+The confirmation hearing begins a new chapter in the political career of the 53-year-old Florida Republican, whose relationship with Trump has evolved over the last decade. Once rivals trading schoolyard insults as they campaigned for president in 2016, the two men became close allies as Trump campaigned for another White House term last year. 
+
+
+Rubio first came to Washington as part of the "tea party" wave in 2010 and once advocated for allowing a path to citizenship for immigrants in the country illegally. But like other Republicans, Rubio's views on immigration have shifted toward the hardline stance of Trump, who has pledged to aggressively pursue deportations once he takes office on Monday. 
+
+
+Unlike many of Trump's Cabinet selections, Rubio is expected to easily win confirmation, notching support not only from Republicans but also Democrats who endorse him as a "responsible" pick to represent the U.S. abroad. Many expect he will be among the first of Trump's Cabinet picks approved. 
+
+
+Democratic Sen. Brian Schatz, who served alongside Rubio on the Foreign Relations Committee, said he has high hopes that the Florida Republican will reject the isolationist approach of other Trump allies. 
+
+
+"I think Marco is a hawk, but he's also an internationalist, and I think the challenge for him will be to maintain the long bipartisan tradition of America being indispensable in world affairs," the Hawaii lawmaker told AP. "And there are people in the Trump world who want us to run away from being the leaders of the free world. And I'm hoping that Marco's instincts towards American strength will win the day." 
+
+
+Rubio's approach to foreign affairs is grounded in his years of service on the Foreign Relations committee and the Senate Intelligence panel. In his speeches and writings, he's delivered increasingly stern warnings about growing military and economic threats to the United States, particularly from China, which he says has benefited from a "global world order" that he characterizes as obsolete. 
+
+
+China, Rubio will tell the committee, has "lied, cheated, hacked, and stolen their way to global superpower status, at our expense." 
+
+
+If confirmed, Rubio will become the leader of U.S. foreign policy — though his role will surely remain secondary to Trump, who relishes the global stage and frequently uses the bully pulpit against America's allies. 
+
+
+Even before taking office, Trump has stirred angst in foreign capitals by threatening to seize the Panama Canal and Greenland and suggesting he will pressure Canada to become the nation's 51st state. 
+
+
+By winning another term, Trump has won an "unmistakable mandate from the voters," Rubio will say. 
+
+
+"They want a strong America. Engaged in the world. But guided by a clear objective, to promote peace abroad, and security and prosperity here at home." 
+
+
+A Biden administration decision to rescind Cuba's designation as a state sponsor of terrorism with just days left in office is likely to irk Rubio, who has long supported tough sanctions on the communist-run island. 
+
+
+Rubio's office did not respond to multiple queries Tuesday about the senator's reaction to the move, which many believe will almost certainly be reversed by the Trump administration. 
+
+
+Secretaries of state have played a key role in formulating the foreign policy of the country since its founding, starting with the first one, Thomas Jefferson, who served in the top Cabinet position under President George Washington. 
+
+
+Since then, Jefferson, as well as his 19th century successors James Madison, James Monroe, John Quincy Adams, Martin Van Buren and James Buchanan, have all gone on to be elected president. 
+
+
+More recent secretaries of state have been less successful in their political ambitions, including John Kerry, who lost the 2004 presidential election to President George W. Bush before becoming the top diplomat, and Hillary Clinton, who lost the 2016 election to Trump. 
+
+
+The most successful secretaries of state have been known for their closeness to the presidents whom they serve, notably James Baker under George H.W. Bush, Condoleezza Rice under George W. Bush and, to some extent, Clinton under Barack Obama. 
+
+
+Like Clinton, Rubio was once a political rival to the president-elect who nominated them. However, the Clinton-Obama relationship during the 2008 Democratic primaries was not nearly as hostile as that between Trump and Rubio in the 2016 GOP primaries, which was marked by name-calling and personal insults. 
+
+
+Trump had an acrimonious relationship with his first secretary of state, Rex Tillerson. Trump fired him from the position via a social media post less than two years into his term. 
+
+<br> 
+
+<https://www.voanews.com/a/rubio-vows-to-place-us-interests-above-all-else-as-trump-s-top-diplomat-/7937510.html>
+
+---
+
+## A Beginner’s Guide to the Hydrogen Economy
+
+date: 2025-01-15, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTU3MjQ4Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1MTgxMDgwNX0.iuQi2T5eRBj6KpTOtsUQ1bLoHE5N2FQ4EjlidAogENU/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
+	Hydrogen. What are you even supposed to think about it? If you’ve spent serious time focusing on climate policy, you’ve heard the hype about hydrogen — about the miraculous things that it might do to eliminate carbon pollution from cars, power plants, steel mills, or more. You’ve also seen that hype fizzle out — even as governments have poured billions of dollars into making it work.
+</p><p>
+	On this week’s episode of Shift Key, Rob and Jesse give you a rough guide for how to think about clean hydrogen, which could help decarbonize the industrial — even the molecular — side of the economy by storing energy and helping to make clean steel and chemicals. Do we really need hydrogen to fight climate change? Where would it be useful? And why has it failed to take off in the past? What will Trump and China mean for global hydrogen policy? Shift Key is hosted by Robinson Meyer, the founding executive editor of Heatmap, and Jesse Jenkins, a professor of energy systems engineering at Princeton University.
+</p><p>
+<strong>Subscribe to “Shift Key” and find this episode on <a href="https://podcasts.apple.com/us/podcast/shift-key-with-robinson-meyer-and-jesse-jenkins/id1728932037" rel="noopener noreferrer" target="_blank">Apple Podcasts</a>, <a href="https://open.spotify.com/show/0war1dXXCEEZNpZ3H7kRid" rel="noopener noreferrer" target="_blank">Spotify</a>, <a href="https://music.amazon.com/podcasts/d3491bb8-f4c3-429d-b622-b5d9b1329c69/shift-key-with-robinson-meyer-and-jesse-jenkins" rel="noopener noreferrer" target="_blank">Amazon</a>, or wherever you get your podcasts.</strong>
+</p><p>
+	You can also add 
+	<a href="https://feeds.acast.com/public/shows/65bac3af03341c00164bf93b" target="_blank">the show’s RSS feed</a> to your podcast app to follow us directly.
+</p><center><iframe frameborder="0" height="190px" src="https://embed.acast.com/65bac3af03341c00164bf93b/67872e7b4c4d17f5eb62b372" width="100%"></iframe></center><p>
+Here is an excerpt from our conversation:</p><blockquote><strong>Jesse Jenkins: </strong>This is the next crazy thing that I think is just starting to kind of bubble up to the public awareness: Basically, hydrogen itself is not a climate forcer. It doesn’t warm the planet the way methane or [hydrofluorocarbons] or CO2 does. But it does react in the atmosphere in ways that increase the concentration of greenhouse gases.<br/><br/><strong>Robinson Meyer: </strong>I think specifically that right now, we talk about when methane leaks into the atmosphere. And it may apply to other greenhouse gases, too, but the big one that you tend to hear about is that when methane leaks into the atmosphere from natural gas — and of course, we’re very worried about methane leaks. Because the thing about methane is that it traps a lot of heat, but it breaks down really quickly, right? So it tends to break down, unlike carbon dioxide, which, when you release it into the atmosphere. sticks around for millennia. When you release it into the atmosphere, it captures a lot of heat, but then breaks down into a smaller amount of CO2 after about 20 years.<br/> <br/>The issue, and why it breaks down, that — we never talk about this, or we had no need to talk about this until hydrogen — and it’s crazy because the world is a closed system, or a largely closed system, right? Why it breaks down is it reacts with the free hydroxyl radicals floating around in the atmosphere.<br/><br/><strong>Jenkins: </strong>Right, OH molecules.<br/> <br/><strong>Meyer:</strong> Well, what else reacts with OH molecules? Hydrogen. And so if we leak too much industrially produced hydrogen into the atmosphere, it could mess with the rate of breakdown of all methane in the global atmosphere, and thus increase the global warming potential of natural gas.<br/><br/><strong>Jenkins: </strong>It makes the methane last, traps more heat, yeah. So let the record show that Robinson Meyer, the journalist, accurately captured the atmospheric chemistry of this process better than Jesse Jenkins, professor at Princeton. Nicely done.<br/></blockquote><div class="horizontal-rule"></div><p>This episode of Shift Key is sponsored by …</p><p><strong>Intersolar & Energy Storage North America</strong> is the premier U.S.-based conference and trade show focused on solar, energy storage, and EV charging infrastructure. To learn more, visit intersolar.us.</p><p>Music for Shift Key is by Adam Kromelow.</p> 
+
+<br> 
+
+<https://heatmap.news/podcast/shift-key-s2-e22-beginners-guide-to-hydrogen>
+
+---
+
+## California firefighters battle wildfires as forecasters warn of dangerous winds
+
+date: 2025-01-15, from: VOA News USA
+
+Warnings were in place again Wednesday in the Los Angeles area for the prospect of strong winds combining with dry conditions to spread wildfires as firefighters battled a series of blazes in the region that have already killed at least 25 people.
+
+
+After winds were weaker than expected during the day Tuesday, the National Weather Service said the region was “not out of the woods yet,” with the potential for a surge in winds through early Wednesday afternoon.
+
+
+Utility companies shut off power to more than 77,000 households to prevent their power lines from sparking new blazes.
+
+
+The winds threatened to undermine incremental gains that firefighters have made in recent days as they try to control two main fires that have been burning since last week, as well as a smaller fire that sparked Monday.
+
+
+The California Department of Foresty and Fire Protection (Cal Fire) said the Palisades Fire on the western side of Los Angeles had burned 96 square kilometers and was 18% contained as of early Wednesday.
+
+
+The Eaton Fire in the foothills of the San Gabriel Mountains on the east side of the city was 35% contained and has burned 57 square kilometers, Cal Fire said.
+
+
+About 88,000 people remained under evacuation orders with another nearly 85,000 being warned they might be ordered to evacuate. Los Angeles County Sheriff Robert Luna encouraged people to consider leaving when they get a warning without waiting for an order. He said deputies have had to rescue many people who waited until the last minute after receiving orders. 
+
+
+Authorities said nearly 30 people remain missing, and that the death toll was likely to rise as search crews gain access to areas that have already burned.
+
+
+Los Angeles Mayor Karen Bass told reporters she took an aerial tour of the affected areas on Monday.
+
+
+“The massive, massive destruction is unimaginable until you actually see it,” Bass said. 
+
+
+Some information for this report is from The Associated Press, Agence France-Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/california-firefighters-battle-wildfires-as-forecasters-warn-of-dangerous-winds/7937431.html>
+
+---
+
+## US, Japanese companies send landers on moon missions
+
+date: 2025-01-15, from: VOA News USA
+
+Two moon landers built by private U.S. and Japanese companies are on their way to the moon after lifting off early Wednesday on a shared ride aboard a SpaceX rocket.
+
+
+The launch from NASA’s Kennedy Space Center in Florida is the latest in a public-private program that put a spacecraft from Intuitive Machines on the moon last year.
+
+
+Wednesday’s launch included a lander from Japanese space exploration company ispace that is carrying a rover with the capability of collecting lunar dirt and testing potential food and water sources on the moon.
+
+
+The spacecraft is also carrying a small red “Moonhouse” built by Swedish artist Mikael Genberg.
+
+
+The ispace mission is expected to reach its destination on the moon’s far north in four to five months.
+
+
+The company is making its second attempt at a lunar landing, after a 2023 mission failed in the final stages. 
+
+
+Also aboard the rocket heading toward the moon is a lander from U.S. company Firefly Aerospace that is set to carry out 10 experiments for NASA.
+
+
+The planned experiments include gathering dirt and measuring subsurface temperatures.
+
+
+The spacecraft is expected to arrive in about 45 days.
+
+
+Some information for this story was provided by The Associated Press, Agence France-Presse and Reuters 
+
+<br> 
+
+<https://www.voanews.com/a/us-japanese-companies-send-landers-on-moon-missions/7937400.html>
+
+---
+
+## Trump’s choice for defense secretary faces tough questioning from senators
+
+date: 2025-01-15, from: VOA News USA
+
+President-elect Donald Trump’s choice for defense secretary, Pete Hegseth, faced resistance from Democrats in the Senate Armed Service Committee on Tuesday. VOA Pentagon correspondent Carla Babb has details. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-s-choice-for-defense-secretary-faces-tough-questioning-from-senators/7937349.html>
+
+---
+
+## Why did  US exclude India from unrestricted access to AI chips?
+
+date: 2025-01-15, from: VOA News USA
+
+WASHINGTON  — U.S. President Joe Biden signed on Tuesday an executive order to boost development of artificial intelligence infrastructure in America. A day earlier, his administration announced sweeping measures to block access to the most advanced semiconductors by China and other adversaries.
+
+
+But the U.S. left India, its strategic partner in the Indo-Pacific, off a list of 18 countries that are allowed unrestricted access to advanced AI chips. Analysts say while a growing technological relationship between the two countries would likely make India eligible in the future to access advanced U.S. AI chips, New Delhi's existing ties with Moscow and the perception of a less robust technology regulatory framework led to its exclusion from the top list.
+
+
+Exclusion not a surprise
+
+
+The Commerce Department's policy framework divides the world into three categories. The first tier includes the U.S. and 18 countries with unrestricted access, followed by a list of more than 100 countries that will be subjected to new caps on advanced semiconductors with individual exemptions. The third tier includes adversaries such as China and Russia that face maximum restrictions.
+
+
+India falls in the second category, along with U.S. allies like Israel and close friends such as Singapore.
+
+
+Bhaskar Chakravorti, the dean of global business at The Fletcher School of Law and Diplomacy at Tufts University in Massachusetts, said that India's relationship with Russia "puts it outside a super safe category."
+
+
+India has had close ties with Russia since the Soviet Union supported its desire for independence from Britain. It maintained those ties during the Cold War, when the U.S. sided with India's rival Pakistan.
+
+
+Scott Jones, a non-resident fellow at Washington's Stimson Center think tank, highlighted recent reports that accused a few Indian companies of aiding Russia's war on Ukraine, but stressed that while being excluded is a disappointment, it's "not a setback for India."
+
+
+He also pointed to the perception that "India's ability to control and manage technology is perhaps not as robust as evidenced in some of the 18 countries."
+
+
+While India may be off the unrestricted list for now, analysts say its growing technological cooperation with the U.S. may shield it from some curbs.
+
+
+Richard Rossow, senior adviser and chair on India and Emerging Asia Economies at Washington's Center for Strategic and International Studies, said the presence of caveats in the new framework would ensure India's later participation.
+
+
+"The fact that they have announced that there will be a pathway for some countries to get exemptions that are above what they're going to consider the standard cap, India, I imagine, would be on the short list of countries," he told VOA.
+
+
+In early January, national security adviser Jake Sullivan traveled to India and met with Prime Minister Narendra Modi and other senior officials. During the trip, both sides reiterated their commitment to forge a "strategic technology partnership" and strengthen cooperation under the U.S.-India initiative on Critical and Emerging Technology (iCET), a bilateral mechanism focused on technology partnership.
+
+
+On semiconductors, the U.S. is facilitating investments in India's semiconductor manufacturing and intensifying R&D collaboration.
+
+
+During his trip, Sullivan highlighted the investment of $2.7 billion in India by U.S. chipmaker Micron to create semiconductor packaging facilities, which he hoped would contribute to establishing "India as a new hub in the global chip ecosystem."
+
+
+The Indian government too is investing billions of dollars through its dedicated program called the India Semiconductor Mission and Production Linked Incentive scheme.
+
+
+Rossow argued that the Indian government would not have been "terribly surprised" that "they were not included" in the list.
+
+
+Jones of the Stimson Center agreed.
+
+
+"Jake Sullivan was in New Delhi last week, and I would be very surprised if he did not inform his Indian counterparts of what was going to happen," he said.
+
+
+Ensuring America's leadership in AI
+
+
+The Biden administration has focused on the centrality of artificial intelligence to America's security and economic strength. According to a White House factsheet, the latest steps are part of its effort to prevent offshoring this critical technology and ensure that "the world's AI runs on American rails."
+
+
+Since October 2022, the U.S. government has enacted a series of export controls, blocking access of advanced semiconductors to China to prevent its use for military applications. While initially the measures adversely affected the Chinese semiconductor industry, Beijing has continued to advance its capabilities and is attempting to narrow the technology gap.
+
+
+According to Chakravorti of the Fletcher School, there are numerous implementation challenges of this expansive global strategy.
+
+
+"From lobbying from the U.S. chipmakers that will start as soon as Trump takes office to potential leaks in the carefully calibrated list of countries. Will there be a secondary market? How does this affect where future data centers are built?" he asked.
+
+
+Jones of the Stimson Center argued that the policy is more a "symbolic gesture than a practical consideration" but has a stern message for the rest of the world.
+
+
+"The U.S. is clearly saying, if you want to participate in the U.S.-sponsored AI ecosystem, you have to pick now. You pick China or you pick us. You can't have it both ways. You can't play one off against the other. You have to choose," he concluded. 
+
+<br> 
+
+<https://www.voanews.com/a/why-did-the-us-exclude-india-from-unrestricted-access-to-ai-chips-/7936974.html>
+
+---
+
+## US SEC sues Elon Musk over late disclosure of Twitter stake
+
+date: 2025-01-15, from: VOA News USA
+
+Elon Musk was sued on Tuesday by the U.S. Securities and Exchange Commission, which accused the world's richest person of waiting too long to disclose in 2022 he had amassed a large stake in Twitter, the social media company he later bought.
+
+
+In a complaint filed in Washington, the SEC said Musk violated federal securities law by waiting 11 days too long to disclose his initial purchase of 5% of Twitter's common shares.
+
+
+An SEC rule requires investors to disclose within 10 calendar days, or by March 24, 2022, in Musk's case, when they cross a 5% ownership threshold.
+
+
+The SEC said that at the expense of unsuspecting investors, Musk bought more than $500 million of Twitter shares at artificially low prices before finally revealing his purchases on April 4, 2022, by which time he owned a 9.2% stake.
+
+
+Twitter's share price rose more than 27% following that disclosure, the SEC said.
+
+
+Tuesday's lawsuit seeks to force Musk to pay a civil fine and disgorge profits he didn't deserve.
+
+
+Musk eventually purchased Twitter for $44 billion in October 2022, and renamed it X.
+
+
+Alex Spiro, a lawyer for Musk, in an email called the SEC lawsuit the culmination of the regulator's "multi-year campaign of harassment" against his client.
+
+
+"Today's action is an admission by the SEC that they cannot bring an actual case," he said. "Mr. Musk has done nothing wrong and everyone sees this sham for what it is."
+
+
+Spiro added that the lawsuit addresses a mere "alleged administrative failure to file a single form — an offense that, even if proven, carries a nominal penalty."
+
+
+Musk, an adviser to U.S. President-elect Donald Trump, is worth $417 billion according to Forbes magazine, through businesses such as the electric car maker Tesla and rocket company.
+
+
+He is worth nearly twice as much as Amazon.com founder Jeff Bezos, the world's second-richest person at $232 billion, Forbes said.
+
+
+The SEC sued Musk six days before Trump's January 20 presidential inauguration.
+
+
+SEC Chairman Gary Gensler is stepping down that day, and Paul Atkins, who Trump nominated to succeed him, is expected to review many of Gensler's rules and enforcement actions.
+
+
+Musk has also been sued in Manhattan federal court by former Twitter shareholders over the late disclosure.
+
+
+In that case, Musk has said it was implausible to believe he wanted to defraud other shareholders, and that "all indications" were that his delay was a mistake.
+
+
+Musk has long feuded with the SEC, including after it sued him in 2018 over his Twitter posts about possibly taking Tesla private and having secured funding to do so.
+
+
+He settled that lawsuit by paying a $20 million civil fine, agreeing to have Tesla lawyers review some Twitter posts in advance, and giving up his role as Tesla's chairman.
+
+
+The SEC also sought sanctions from Musk after he missed court-ordered testimony last September for the Twitter probe so he could attend the launch of SpaceX's Polaris Dawn mission at Florida's Cape Canaveral.
+
+
+A federal judge in San Francisco rejected that request, because Musk later testified and agreed to pay the SEC's travel costs. 
+
+<br> 
+
+<https://www.voanews.com/a/us-sec-sues-elon-musk-over-late-disclosure-of-twitter-stake/7937332.html>
+
+---
+
+## Biden announces 2 new national monuments in California
+
+date: 2025-01-15, from: VOA News USA
+
+WASHINGTON — In an announcement postponed by the Los Angeles wildfires, President Joe Biden on Tuesday designated two sites in California as national monuments that will honor Native American tribes while shielding picturesque mountains and deserts from mining and energy development.
+
+
+Biden made the designations at an event at the White House, a week after and on the other side of the country from where he'd originally planned to do so with a speech in California's Eastern Coachella Valley.
+
+
+The president landed in California on January 6 but made it as far as Los Angeles before high winds — which helped spark the Los Angeles blazes — forced officials to scrap the event. It was a stark reminder that, even as Biden uses the last days of his administration to attempt to safeguard the environment, climate change is already helping to exacerbate natural disasters.
+
+
+Instead, Biden spoke next to screens featuring towering peaks, desert vistas and an array of plant and animal life.
+
+
+"I was hoping we were going to do this in place," the president said. "This is as close as we could get."
+
+
+Biden formally created the Chuckwalla National Monument, in Southern California near Joshua Tree National Park, and the Sáttítla Highlands National Monument, in Northern California.
+
+
+The declarations bar oil and natural gas drilling, as well as mining and other exploration and production initiatives, on the 2,400-square-kilometer Chuckwalla site, and roughly 800 square kilometers near the California-Oregon border.
+
+
+The protected area encompasses natural wonders, including the Painted Canyon of Mecca Hills and Alligator Rock, and is home to 50-plus rare species of plants and animals like the desert bighorn sheep and the Chuckwalla lizard, which the monument is named for, the White House said in a statement.
+
+
+At the event, Biden talked about taking his children to national monuments around the country yearly when they were young to "witness the majesty, the beauty."
+
+
+"Our national wonders are the heart and soul of this nation," he said. "It's a birthright we pass on from generation to generation."
+
+
+The monuments becoming realities honor past tribal requests. Many Native American tribes and environmental groups have pushed for designation of the Chuckwalla National Monument, while the Pit River Tribe has worked to get the federal government to designate the Sáttítla Highlands National Monument.
+
+
+Biden joked about being careful not to mispronounce Sáttítla, then still struggled to pronounce it. When he sat down to sign the formal acts, he simply referred to it as the "highlands" monument, so he didn't have to give it another try.
+
+
+The designations are part of a larger Biden administration effort to conserve at least 30% of U.S. lands and waters by 2030. They follow Biden's recent move banning new offshore oil and gas drilling in most U.S. coastal waters, including in California.
+
+
+That was an attempt to thwart possible efforts by the incoming Republican administration to expand offshore drilling, but President-elect Donald Trump has vowed to quickly reverse the order. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-announces-2-new-national-monuments-in-california/7937323.html>
+
+---
+
+## Could TikTok alternatives RedNote and Lemon8 be banned?
+
+date: 2025-01-15, from: Market Place
+
+The potential prohibition of the Chinese social media giant has sent users in search of other options. But some are based in China too. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/14/could-tiktok-alternatives-rednote-and-lemon8-be-banned/>
+
+---
+
+## Biden defends his policies on Ukraine
+
+date: 2025-01-15, from: VOA News USA
+
+U.S. President Joe Biden says strong leadership under his administration has “laid the foundation” for the incoming Trump administration. He said U.S. support will help Kyiv eventually negotiate a just end to its nearly three-year fight against Russia’s invasion. White House bureau chief Patsy Widakuswara reports. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-defends-his-policies-on-ukraine/7937311.html>
+
+---
+
+## Biden to lift state sponsor of terrorism designation on Cuba
+
+date: 2025-01-15, from: VOA News USA
+
+U.S. President Joe Biden notified Congress on Tuesday that he intends to delist Cuba as a U.S.-designated state sponsor of terrorism in a deal facilitated by the Catholic Church to free political prisoners on the island. 
+
+
+Speaking on the condition of anonymity before the announcement, senior administration officials told reporters that dozens of political prisoners and others deemed unjustly detained by U.S. officials would be freed by noon on January 20. 
+
+
+The announcement also indicated the U.S. would aim to reduce economic pressure on the island nation. 
+
+
+"Today's actions demonstrate that President Biden's Cuba policy, which is focused on achieving practical results with respect to human rights in Cuba, will pay dividends for the Cuban people," a senior official told reporters, acknowledging Havana's "direct dialogue with the Catholic Church."   
+
+
+Hours after Biden's announcement, Cuban President Miguel Diaz-Canel said his government would gradually release 553 prisoners after talks with the church.  
+
+
+Earlier, his government expressed gratitude.  
+
+
+"Despite its limited scope, this is a decision that points to the right direction and is in line with the sustained and firm demand by the government and the people of Cuba," the country's foreign ministry said in a press release. 
+
+
+"The decision announced today by the United States, rectifies, in a very limited way, some aspects of a cruel and unjust policy," it added. 
+
+
+In Congress, the backlash to Biden's announcement was swift.  
+
+
+"Today's decision is unacceptable on its merits," Republican Senator Ted Cruz said in a statement. "The terrorism advanced by the Cuban regime has not ceased. I will work with President Trump and my colleagues to immediately reverse and limit the damage from the decision." 
+
+
+Fellow Republican Representative Carlos Gimenez also criticized the announcement, predicting a quick reversal on the policy by President-elect Donald Trump. 
+
+
+"President Biden is a pathetic coward," Gimenez posted on X. "Come January 20th, there will be a NEW SHERIFF in town & President Trump alongside Secretary of State @SenMarcoRubio will not only put #Cuba BACK on the list but PULVERIZE the regime once & for all!" 
+
+
+According to The Associated Press, human rights groups and activists, including the U.S. Conference of Catholic Bishops, have been pressing the Biden administration to lift the designation to ease the suffering of Cuban people who feel the impact of Cuba's economic isolation. 
+
+
+Some information for this report is from The Associated Press. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-to-lift-state-sponsor-of-terrorism-designation-on-cuba/7937262.html>
+
+---
+
+## How to live with wildfires
+
+date: 2025-01-15, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>The Los Angeles fires are a warning to all of us. Over the past week, lives, homes, businesses and entire communities have been lost in what’s expected to be among the nation&#8217;s <a href="https://apnews.com/article/california-wildfires-natural-disasters-losses-insurance-recovery-d2f24e44d75503118643151eaee947fb#:~:text=The%20LA%20county%20wildfires%20could,US%20history%2C%20early%20estimates%20say&amp;text=LOS%20ANGELES%20(AP)%20%E2%80%94%20The,natural%20disasters%20in%20U.S.%20history.">costliest</a> disasters ever. But with more than <a href="https://www.linkedin.com/posts/headecon_wildfire-risk-hazard-activity-7201671830812696577-P-Qt/?utm_source=share&amp;utm_medium=member_desktop">one-third</a> of the U.S. population living in counties with high wildfire risk, this begs the question: Should lots of people relocate? Crystal Kolden, director of the Fire Resilience Center at the University of California at Merced and a former wildland firefighter, said abandoning these places isn&#8217;t the only option. On the show today, Kolden explains why the L.A. fires have been so tough to put out, why wildfires are different from other natural disasters like hurricanes and floods, and how devastated communities can rebuild in a way that makes them more resilient to future fires.</p>
+<p>Later, a listener shares a teamwork approach to cleaning up after a house party. And, Brad Stulberg, author of &#8220;Master of Change,&#8221; was wrong about how to find motivation.</p>
+<p><!-- /wp:paragraph --></p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.nytimes.com/2025/01/10/climate/california-fires-climate-change.html">&#8220;L.A. Fires Show Limits of America’s Efforts to Cope With Climate Change&#8221;</a> from The New York Times</li>
+<li><a href="https://www.latimes.com/california/story/2025-01-12/column-chabria-palisades-eaton-altadena-fire-rebuild">&#8220;Column: Recovery will be tempered by hard decisions and, if we aren&#8217;t careful, inequality&#8221;</a> from The L.A. Times</li>
+<li><a href="https://laist.com/news/climate-environment/palisades-southern-california-fires-could-be-most-expensive-in-us-history">&#8220;Palisades and other Southern California fires could be most expensive in US history&#8221;</a> from LAist</li>
+<li><a href="https://www.bloomberg.com/news/articles/2025-01-09/eaton-and-palisades-fires-show-more-people-moving-to-danger-zone?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTczNjQ2NTg0NywiZXhwIjoxNzM3MDcwNjQ3LCJhcnRpY2xlSWQiOiJTUFRTRlBUMEcxS1cwMCIsImJjb25uZWN0SWQiOiI5NUFFRTA2Q0Q1NjM0NTM4OTBFQjZGNDE2M0FCMTQ4NiJ9._TdTshtuhIpsRjihdBvRU88bcB-Wp69Gq6fyH_2zEio&amp;leadSource=uverify%20wall">&#8220;More People Are Living in the Riskiest Wildfire Zones&#8221;</a> from Bloomberg</li>
+<li><a href="https://www.sierraclub.org/sierra/zone-zero-mandates-near-completion-high-wildfire-risk-areas">&#8220;&#8216;Zone Zero&#8217; Mandates Near Completion for High Wildfire Risk Areas&#8221;</a> from the Sierra Club</li>
+<li><a href="https://www.usatoday.com/story/news/politics/2025/01/13/house-speaker-mike-johnson-california-wildfire-aid/77681997007/" target="_blank" rel="noreferrer noopener">&#8220;&#8216;Conditions&#8217; should be placed on California wildfire aid: House Speaker Mike Johnson&#8221;</a> from USA Today</li>
+</ul>
+<p>We want to hear your answer to the Make Me Smart question. Leave us a voicemail at 508-U-B-SMART or email us at makemesmart@marketplace.org.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/01/14/mms_20250114_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fhow-to-live-with-wildfires&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/01/14/mms_20250114_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fhow-to-live-with-wildfires&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/how-to-live-with-wildfires>
+
+---
+
+## ICE and Immigrant Advocates Debunk Reports of Los Angeles Raids Linked to Fires
+
+date: 2025-01-14, from: Capital and Main
+
+<p>ICE affirms it does not conduct enforcement at evacuation or assistance sites.</p>
+<p>The post <a href="https://capitalandmain.com/ice-and-immigrant-advocates-debunk-reports-of-los-angeles-raids-linked-to-fires">ICE and Immigrant Advocates Debunk Reports of Los Angeles Raids Linked to Fires</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/ice-and-immigrant-advocates-debunk-reports-of-los-angeles-raids-linked-to-fires>
+
+---
+
+## Jen Rubin interviews Amy McGrath
+
+date: 2025-01-14, from: The Contrarian
+
+Amy McGrath echoes Tammy Duckworth's sentiments in slamming Pete Hegseth's inadequate responses at confirmation hearing 
+
+<br> 
+
+<https://contrarian.substack.com/p/jen-rubin-interviews-amy-mcgrath>
+
+---
+
+## New Orleans attacker had researched similar rampage, and how to access Bourbon Street balcony
+
+date: 2025-01-14, from: VOA News USA
+
+BATON ROUGE — Before plowing a pickup truck into a crowd of New Year's revelers in New Orleans, killing 14 people, the man who carried out the Islamic State group-inspired attack had researched how to access a balcony on the city's famed Bourbon Street and looked up information about a similar recent attack at a Christmas market in Germany, the FBI said. 
+
+
+Nearly two weeks after Shamsud-Din Jabbar's rampage, the FBI continues to uncover new information detailing the extensive planning by the 42-year-old Army veteran who scouted out the area multiple times in the months leading up to the attack. Authorities also have been piecing together a timeline of his radicalization. 
+
+
+In the early hours of New Year's Day, Jabbar could be seen on video surveillance placing two containers with explosive devices, which would remain undetonated, in the French Quarter. Shortly after, about 3:15 a.m., Jabbar sped a white pickup truck around a police car blockading the entrance of Bourbon Street, where partygoers continued to wander around the street lined with bars. He drove through revelers before crashing and being killed by police in a shootout. Fifty-seven people were injured, authorities said. 
+
+
+
+
+Just hours before the deadly onslaught, Jabbar had searched online for information about an attack at a busy outdoor Christmas Market in east Germany that occurred just 10 days earlier and where a car was also used as a mass weapon, the FBI said on Tuesday. The attack in Europe left five people dead and more than 200 injured after a car slammed into a crowd. Police arrested a 50-year-old doctor from Saudi Arabia who has renounced Islam and supports the far-right AfD party. 
+
+
+In other online searches, Jabbar had looked up how to access a balcony on Bourbon Street, information about Mardi Gras, and several recent shootings in the city, the FBI said. 
+
+
+But Jabbar's research ahead of the attack was not limited to online: He also made a one-day visit to New Orleans from Houston on Nov. 10, during which he looked for an apartment, the FBI said. While Jabbar applied to rent the apartment, he later told the landlord that he changed his mind. 
+
+
+That was not his only visit to New Orleans, though. The FBI had previously reported that Jabbar had traveled to the city for a planning trip on Oct. 31, when he used glasses from Meta, the parent company of Facebook, to record video as he rode through the French Quarter on a bicycle. 
+
+
+In a series of online videos, posted hours before he struck, Jabbar proclaimed support for the Islamic State militant group. The Bourbon Street attack was the deadliest Islamic State-inspired assault on U.S. soil in years. On Tuesday, the FBI continued to draft out a timeline of Jabbar's radicalization, saying that he began isolating himself from society and became a more devout Muslim in 2022. By the spring of 2024, he began following extremist views. 
+
+
+While investigations into the attack are ongoing and additional information continues to trickle out about Jabbar's planning of the deadly rampage, city officials face questions about safety concerns. 
+
+
+State and local authorities have launched probes into possible security deficiencies that left New Orleans vulnerable. The work is especially urgent since Carnival season, a monthslong celebration that attracts tens of thousands of visitors to the French Quarter, began last week. The city is also set to host the Super Bowl on Feb. 9. 
+
+<br> 
+
+<https://www.voanews.com/a/new-orleans-attacker-had-researched-similar-rampage-and-how-to-access-bourbon-street-balcony/7936963.html>
+
+---
+
+## Producer prices rose slightly in December, a positive sign for inflation
+
+date: 2025-01-14, from: Market Place
+
+Where prices did climb — warehousing and transportation — points to an inventory build. Upcoming CPI will make the inflation picture clearer. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/14/producer-prices-rose-slightly-in-december-a-positive-sign-for-inflation/>
+
+---
+
+## Hybrid work has been a boon for coworking spaces — and a bright spot for commercial real estate
+
+date: 2025-01-14, from: Market Place
+
+The troubled office space market is showing signs of life as firms seek flexible short-term spaces for their employees' return to work. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/14/hybrid-work-has-been-a-boon-for-coworking-spaces-and-a-bright-spot-for-commercial-real-estate/>
+
+---
+
+## The Five Feet That Could Prevent the Next Palisades Fire
+
+date: 2025-01-14, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTU1MTYyMC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1ODkxMzY2OH0.qOdnOv-IMBfte5SFBVy1MTp0mGB9wm6xqY4oeGs-3qY/image.jpg?width=1185&height=793&coordinates=15%2C0%2C0%2C7"/><br/><br/><p class="drop-caps">
+	For more than four years, California has had a law on the books meant to protect homes and buildings during an urban firestorm like the Palisade and Eaton fires. But it’s never gone into effect.
+</p><p>
+	In theory, the policy was simple. It directed state officials to develop new rules for buildings in areas with high fire risk, which would govern what people were allowed to put within the five-foot perimeter immediately surrounding their homes. A large body of evidence shows that clearing this area, known in the fire mitigation world as “zone zero,” of combustible materials can be the difference between a building that alights during a wildfire and one that can weather the blaze.
+</p><p>
+	The new rules — essentially just a list of items allowed in that five-foot zone — were due two years ago, by January 1, 2023. But the California Natural Resources Agency, which is drafting the rules for the State Board of Forestry and Fire Protection to consider, has yet to even present a proposal. Ask anyone who’s been following this thread what’s taking so long, and they’ll almost certainly point to one thing: politics.
+</p><p>
+	“There’s a ton of science about what to do, but the science has run into challenges with social acceptance, and therefore political acceptance,” Michael Wara, director of Stanford University’s Climate and Energy Policy Program, told me. People do not want to be told how they can or can’t landscape or furnish or otherwise adorn the outside of their homes. Inevitably, when the rules do come out, you’ll hear about Gavin Newsom coming to take away people’s decks and policing gardens.
+</p><p>
+	No one thinks that zone zero rules, if enacted and adhered to, could have prevented fires in the Pacific Palisades or Altadena or saved every structure in the recent fires’ path. But alongside other fire mitigation strategies, zone zero design can significantly lower the chances of a given building burning, and therefore the chances that a fire will spread to neighboring buildings, and ultimately reduce the risk of fires becoming compounding, devastating disasters. Wara likened it to car safety rules like seatbelts and airbags — people still die in car accidents, but far fewer than would otherwise.
+</p><p>
+	The question now is whether the record-breaking destruction in Los Angeles will be enough to convince people that zone zero rules are effective and worthwhile. Past experience shows the answer is not an obvious yes.
+</p><h3>Why homes burn</h3><p>
+	There are three ways buildings ignite during a wildfire, Yana Valachovic, a forest scientist with the University of California Agriculture and Natural Resources Fire Network who specializes in community resilience and the built environment, told me. They are either exposed to burning embers, direct flames, or radiant heat, though most often a combination.
+</p><div class="horizontal-rule"></div><p><em>Get the best of Heatmap in your inbox daily.</em></p><p><em></em><div id="mc_embed_signup"><form action="https://news.us13.list-manage.com/subscribe/post?u=eacecbac4b1d10158b5b6fbad&id=c5c20b220f&f_id=00a03fe3f0" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" target="_self"><div id="mc_embed_signup_scroll"><div class="indicates-required"><span class="asterisk">*</span> indicates required</div><div class="mc-field-group"><label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label><input class="required email" id="mce-EMAIL" name="EMAIL" placeholder="Your Email" required="" type="email" value=""/><span class="helper_text" id="mce-EMAIL-HELPERTEXT"></span><a class="policy__link" href="/privacy-statement">Our Privacy Policy & Terms Apply.</a></div>
+<li style="display:none!important;"><input checked="" id="mce-group[699211]-699211-0" name="group[699211][1]" type="checkbox" value="1"/></li>
+<input class="hidden hs-am" name="mcam" type="text" value="Yes"/>
+<input class="hidden hs-am" name="mcdaily" type="text" value="Yes"/>
+<div class="clear" id="mce-responses"><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div></div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div aria-hidden="true" style="position: absolute; left: -5000px;"><input name="b_eacecbac4b1d10158b5b6fbad_c5c20b220f" tabindex="-1" type="text" value=""/></div><div class="clear"><input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Sign Up"/></div></div></form></div></p><div class="horizontal-rule"></div><p>
+	Embers — hot, hard debris of burned material from a fire — can be carried miles away from their origin by the wind and create new spot fires next to homes. “What happens with those embers is they get thrown at the building, they hit the walls, the siding, and then drop to the base and collect at the base,” Valachovic said, “so you can have not just one, but thousands of embers at the base of our structures.”
+</p><p>
+	Embers can also penetrate buildings through open windows and ventilation systems. If radiant heat from nearby burning structures causes windows to shatter or fall out, that can also create new vectors for embers to enter the home. “Embers find their way,” Valachovic said.
+</p><p>
+	Fire mitigation experts promote two strategies for reducing vulnerability, and they go hand in hand. The first is <a href="https://readyforwildfire.org/prepare-for-wildfire/hardening-your-home/" rel="noopener noreferrer" target="_blank"><u>home hardening</u></a>, which could mean building with fire-resistant materials but also includes smaller but effective actions like covering air vents with fine mesh screens and sealing gaps to try to block embers. The second is <a href="https://readyforwildfire.org/prepare-for-wildfire/defensible-space/" rel="noopener noreferrer" target="_blank"><u>creating so-called “defensible space,”</u></a> or a buffer around the building, where any vegetation is carefully selected and managed to slow the spread of fire to and from the building. California divides defensible space into three different zones: Zone one extends from 5 feet away from the structure to 30 feet, and zone two goes out to 100 feet away. Then, of course, there’s zone zero.
+</p><p>
+	The state has had regulations on the books to require at least 30 feet of defensible space in high-risk areas since 1965, and it updated the standards to establish a two-zone system in 2006. In both cases, the rules were “really framed around, how do you interrupt flames running at the building?” said Valachovic. The regulations included thinning trees and removing lower branches, clearing some trees that were closer to homes, clearing dead wood and litter, and pruning branches that hang over buildings. But they still allowed for vegetation right up against the house.
+</p><p>
+	Since then, wildfire post-mortems have found that this scenario of flames burning a path to a building is not a primary driver of structure loss. “It was missing the point,” Valachovic told me of the previous rule structure. “What we’ve seen now for the last decade is that embers are really driving our home loss issue, and so we’re basically allowing all this vegetation and combustible material to be present in the zone that is really very vulnerable.”
+</p><center><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/AYvwogREEk4?si=afZ1RDHpsMnX_K97" title="YouTube video player" width="560"></iframe></center><p>
+	In August 2020, after Governor Gavin Newsom declared a state of emergency in California due to an explosion of wildfires, the state legislature passed AB 3074, which finally sought to bridge the gap by creating a new, “ember-resistant zone” — zone zero. Had the rules been implemented under the timeline mandated by the law, new homes would have had to comply beginning in 2023, and existing homes would have had to comply beginning in 2024. Like the earlier defensible space rules, they would have applied to homes located in parts of the state designated as Fire Hazard Severity Zones. These are generally areas that you might think of as the “wildland-urban interface,” where homes abut wildland vegetation like forests or scrublands, but others extend into more urban areas. Almost all of the burned area in the Pacific Palisades, for instance, would have been <a href="https://lacounty.maps.arcgis.com/apps/webappviewer/index.html?id=d2ea45d15c784adfa601e84b38060c4e" rel="noopener noreferrer" target="_blank"><u>subject to the rules</u></a>, while only a small portion of the homes in Altadena are in the zone.
+</p><h3>
+	Why “zone zero” is political
+</h3><p>
+	When I reached out to the California Natural Resources Agency to ask if there was an updated timeline for the regulations, one of the first things that Tony Andersen, the Deputy Secretary for Communications, told me, was not about the timeline but about the ultimate cost of compliance.
+</p><p>
+	“We recognize there are costs associated with doing this work around homes and structures,” Andersen told me via email, “and we are focused on identifying options for financial assistance as well as education and outreach to help owners prepare and prioritize mitigations.” He then noted that the rulemaking was a “complex process” that the agency wanted to get right, and said it aimed to present a draft proposal to the Board “as soon as is feasible, most likely in the coming months.”
+</p><p>
+	Andersen’s response illustrates one of several tensions that have made it difficult to write the zone zero rules — and will ultimately make them difficult to implement. If the rules say you can’t have a wooden deck, for example, or you can’t have a fence that touches the building, homeowners could face costly retrofits. And despite witnessing the horror of destructive wildfires, many homeowners don’t want to switch their wooden fence for a metal one, or replace their bushes with gravel.
+</p><p>
+	Five feet might sound like a negligible amount of space, but people are attached to the aesthetics of this zone. Homeowners have become used to “softening” the line where the walls meet the ground by filling it in with vegetation, Valachovic told me. “We really developed this idea that we don’t visually want to see our foundations,” she said. “From a fire defense perspective, this idea that we have combustible material basically ringing our houses and our structures, that is problematic.”
+</p><p>
+	Several people I interviewed for this story asked if I had seen a documentary about the aftermath of the 2018 Camp Fire in Paradise, California called <em><em>Bring Your Own Brigade</em></em>. The film captures a series of city council meetings in 2019, when officials were considering updating local building standards. They weigh a number of ideas that would reduce the risk of embers collecting on top of, inside, or next to homes, including eliminating gutters and requiring roof overhangs and a five-foot setback for any combustible material.
+</p><p>
+	At the time, the Camp Fire was the deadliest and most destructive wildfire in state history, killing 85 people, displacing more than 50,000, and destroying more than 18,000 structures. But during a public hearing, community members lashed out at the potential cost, warned that new standards would prevent displaced residents from moving back, and decried the aesthetic implications.
+</p><p>
+	“Paradise is an individualistic town,” one person says. “That’s part of the charm and the quirkiness. We don’t need consistency and uniformity.”
+</p><p>
+	In another scene, a city councilmember asks Paradise Fire Chief John Messina to narrow down the list to just one rule that would make the community more fire resistant. “That five-foot barrier around your house is extremely important,” he replies. “That would be the No. 1 thing out of all of this that I would say would defend your home the best and have the most impact.” Shortly after, the council votes down the measure.
+</p><p>
+	Michael Wara, who recalled the scene to me over the phone, said a similar thing happened when the fire chief in his community in Mill Valley tried to get the city council to adopt zone zero rules. “The word got out in the community that this crazy fire chief was going to make us rip up our front yards,” he said. When the council convened for a vote, more than a thousand people showed up to oppose it. The council ended up passing it as a voluntary measure.
+</p><p>
+	To Wara, part of the problem is the language used to communicate these ideas with the public. “Zone zero” and “hardening” conjure a bunker mentality, he said. “I do not want my family to live in a bunker that is hardened to attack. I want my family to live in a home that is welcoming.”
+</p><p>
+	He also thinks the state can reach a compromise, like allowing succulents and other fire-resistant greenery in zone zero. The rules don’t have to turn these areas into gravel and concrete wastelands to be effective.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="Two examples of fire-safe zone zero." class="rm-shortcode" data-rm-shortcode-id="d96fd8e37a27d2f4885e1ee4fe880808" data-rm-shortcode-name="rebelmouse-image" id="1c233" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTU5NTg4NC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc0Mzk4MzI0N30.zyYqHDT75c5GbvG2sWeFfgcn_Fq8zlAKDcnrqK-ihpc/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Courtesy of the Los Angeles County Fire Department</small></p><p>The Los Angeles County Fire Department recently included photos in a <a href="https://fire.lacounty.gov/wp-content/uploads/2024/01/Annual-Defensible-Space-Notice_012024.pdf" target="_blank"><u>notice to homeowners</u></a> about defensible space rules and the upcoming zone zero regulations that illustrate how landscapes might strike that balance. The images feature stone walkways immediately next to homes, followed by raised beds made of metal and concrete containing attractive landscaping. Not quite “quirky” and “charming,” but far from a barren dystopia.</p><h3>Where insurance fits in</h3><p>Despite the delay in implementing zone zero, California has tried to pitch it as part of a strategy to solve the state’s <a href="https://heatmap.news/climate/los-angeles-fire-insurance-fair" target="_self"><u>insurance crisis</u></a>. In 2022, Insurance Commissioner Ricardo Lara <a href="https://www.insurance.ca.gov/01-consumers/200-wrr/Safer-from-Wildfires" rel="noopener noreferrer" target="_blank"><u>enacted new rules</u></a> requiring insurance companies to provide discounts to homeowners who do home hardening retrofits and create defensible space.</p><p>“That’s terrific,” Dave Jones, the director of the Climate Risk Initiative at the University of California, Berkeley, and Lara’s predecessor as insurance commissioner, told me. “But you don’t get the discount if they won’t write you the insurance.”</p><p>Jones said the bigger issue is that the models insurance companies use to decide whether or not to write a policy do not account for fire mitigation efforts. A homeowner could take every action on the list for home hardening, create a zone zero, live in a community that’s investing in aggressive fuels reduction, and so on, and insurance companies could still deny them coverage. Last year, Jones wrote a bill that would have required companies to change the models they use to determine coverage to account for mitigation. Several insurance industry trade groups opposed the bill, <a href="https://ains.assembly.ca.gov/system/files/2024-06/sb-1060-becker.pdf" rel="noopener noreferrer" target="_blank"><u>arguing</u></a> that it was “premature and impossible to implement given the real-world data constraints,” and that it was “inconsistent” with the state’s efforts to “restore a healthy and competitive insurance market.” It didn’t pass.</p><p>If following zone zero guidelines meant having a shot at getting insurance, maybe people would be more open to doing it, Jones argued to me. But as things stand, that’s not the case. “I don’t think the failure is so much in the state developing the standards as it is in the lack of political courage to stand up to the insurance industry and say, hey, look, enough is enough. We’re going to pass a law to require your models to account for this.”</p><p>This past year, the California legislature passed a law giving existing homes three years, instead of just one, to comply with zone zero rules once they are finalized, whenever that is. And if the regulations are finalized this year, it’s possible that some of the rebuilt structures in the Pacific Palisades and Altadena will have to meet them. </p><p>Ultimately, Valachovic sees hope in fire mitigation work. The narrative that climate change is driving these destructive wildfires can make people feel helpless. But there are so many low-cost, simple things people can do to reduce their exposure. “I just feel like we have a moral imperative to share practical, reasonable actions that people can take to make a difference, and to know that with that, the odds improve substantially.”</p> 
+
+<br> 
+
+<https://heatmap.news/climate/los-angeles-fires-zone-zero>
+
+---
+
+## Outgoing Commerce chief: “The only way to win is to out-innovate them”
+
+date: 2025-01-14, from: Market Place
+
+Kai Ryssdal does an "exit interview" with Commerce Secretary Gina Raimondo. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/14/outgoing-commerce-chief-the-only-way-to-win-is-to-out-innovate-them/>
+
+---
+
+## Why the Detroit Auto Show is happening in January again
+
+date: 2025-01-14, from: Market Place
+
+For the past few years, the annual gathering was held during warmer months. But many didn’t go for it, which may seem surprising given the typical weather in January in Michigan.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/14/why-the-detroit-auto-show-is-happening-in-january-again/>
+
+---
+
+## US finalizes rules banning Chinese, Russian smart cars
+
+date: 2025-01-14, from: VOA News USA
+
+The White House says it has finalized rules that crack down on Chinese and Russian automobile technology effectively banning all personal smart cars from the two countries from entering the U.S. market.
+
+
+In a White House fact sheet detailing the decision, the Biden administration Tuesday said that while connected vehicles offer advantages, the involvement of foreign adversaries such as China and Russia in their supply chains presents serious risks granting “malign actors unfettered access to these connected systems and the data they collect.”
+
+
+“The Department of Commerce has issued a final rule that will prohibit the sale and import of connected vehicle hardware and software systems, as well as completed connected vehicles, from the PRC and Russia,” the fact sheet said.
+
+
+PRC is the acronym for China’s official name, the People’s Republic of China.
+
+
+Connected vehicles are smart cars that are designed to be convenient for consumers and provide safety for drivers, passengers, and pedestrians through the use of many connected parts such as Wi-Fi, Bluetooth, cellular, and satellite connectivity.
+
+
+"Cars today aren't just steel on wheels; they're computers," said Commerce Secretary Gina Raimondo when speaking on the rule.
+
+
+"This is a targeted approach to ensure we keep PRC- and Russian-manufactured technologies off American roads," said Raimondo.
+
+
+The new rule is the “culmination of a year-long examination” of potential risks posed by connected vehicles and will “help the United States defend against the PRC’s cyber espionage and intrusion operations, which continue to pose a significant threat to U.S. critical infrastructure and public safety.”
+
+
+The crackdown on cars follows Washington’s announcement earlier this month that the U.S. consider new rules aimed at addressing risks posed by drones that utilize technology from China and Russia.
+
+
+The U.S. has repeatedly emphasized the need to balance technological progress with the protection of national security interests. 
+
+<br> 
+
+<https://www.voanews.com/a/us-finalizes-rules-banning-chinese-russian-smart-cars/7936903.html>
+
+---
+
+## Latest consumer expectations reports shows biggest concern is finding a new job
+
+date: 2025-01-14, from: Market Place
+
+In December, respondent confidence in getting hired fell to the lowest level it's been since 2021. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/14/new-job-search-consumer-sentiment-ny-fed-hiring-employment/>
 
 ---
 
@@ -163,110 +966,100 @@ Democratic lawmakers were quick to criticize the External Revenue Service plan.
 
 ---
 
-## Hegseth vows a 'warrior culture' if confirmed as Trump's defense secretary
+## Trump Cabinet choice faces tough first day of questions on Capitol Hill
 
 date: 2025-01-14, from: VOA News USA
 
-WASHINGTON — President-elect Donald Trump's choice for defense secretary, Pete Hegseth, vowed Tuesday to foster a "warrior culture" at the Pentagon, portraying himself as a "change agent" during a testy Senate confirmation hearing that drew protesters but also veterans in support. 
+Pete Hegseth, President-elect Donald Trump's choice to lead the U.S. Department of Defense, told U.S. lawmakers Tuesday he would bring back accountability and "a warrior ethos" to the nation's military.
 
 
-Hegseth did not initially address the allegations of sexual assault, excessive drinking or his derisive views on women in combat and minorities, as senators determine whether the veteran and TV news show host is fit to lead the U.S. military. Instead, he focused on his combat experience in the Army National Guard. 
+In the first confirmation hearing in the U.S. Senate for Trump's Cabinet secretary picks, Hegseth faced criticism from Senate Democrats over his statements about women and transgender people serving in the military, as well as allegations of sexual assault, drunkenness and financial mismanagement of two nonprofits serving U.S. veterans that he led.
 
 
-"It's time to give someone with dust on his boots the helm. A change agent," Hegseth said in his opening remarks. 
 
 
-"This is not academic," he declared, wearing an American flag pocket square on his suit coat. "This is my life." 
+"This nomination is unconventional. The nominee is unconventional, just like that New York developer who rode down the escalator in 2015 to announce his candidacy for president," Senate Armed Services Chairman Roger Wicker, a Republican, said Tuesday.
 
 
-Asked directly about the sexual assault allegation, Hegseth dismissed it as a "smear campaign" and unfair attack. But he did not specifically address any of the accusations, or tell the senators that he did not drink or womanize. 
+"Mr. Hegseth will bring energy and fresh ideas to shake up the bureaucracy. He will focus relentlessly on the war fighter and the military's core missions, deterring wars and winning the ones we must fight," Wicker continued.
 
 
-Senators immediately began drilling down on the questions surrounding Hegseth, with the Republican chairman of the Armed Services Committee acknowledging the "unconventional" choice and the top Democrat warning of "extremely alarming" allegations against him. 
+Hegseth, a former television host at the conservative Fox News channel, also served as an officer in the Army National Guard in Iraq, Afghanistan and Guantanamo Bay and is the author of several books.
 
 
-Senator Roger Wicker, a Mississippi Republican, the chairman, compared Hegseth to Trump himself, dismissed the various allegations against him as unfounded and said he will "bring energy and fresh ideas to shake up the bureaucracy." 
 
 
-But Senator Jack Reed, a Democrat from Rhode Island, said flatly: "I do not believe that you are qualified to meet the overwhelming demands of this job." 
+"I don't have a similar biography to defense secretaries of the last 30 years," Hegseth told senators in his opening statement. "But as President Trump also told me, we've repeatedly placed people atop the Pentagon with the supposed right credentials, whether they are retired generals, academics or defense contractor executives. And where has it gotten us?"
 
 
+Hegseth said his priorities, if he is confirmed as secretary of defense, would focus on the threat posed by China and defense of the homeland while reorienting the United States away from entanglements in the Middle East. He also pledged to restore morale and end diversity initiatives that he sees as harmful to establishing a merit-based military.
 
 
-Hegseth, 44, comes from a new generation of veterans from the Iraq and Afghanistan wars, and his military experience is widely viewed as an asset. But he also brings a jarring record of past actions and statements, including about women, minorities and "woke" generals. He has vowed not to drink alcohol if he is confirmed to lead the Pentagon. 
+"Getting anything that doesn't contribute to our democracy out of how decisions are made inside the Pentagon," Hegseth said of the ways he sees his potential role. "What gender you are, what race you are, your views on climate change, your conscience and your faith should have no bearing on whether you get promoted, or whether you're selected to go to West Point, or where you go to school. Only thing that should matter is how capable are you at your job. How excellent are you at your job."
 
 
-Trump backed his pick, saying Hegseth has "my Complete and Total support" in a morning post. 
+If confirmed, Hegseth would be the first secretary of defense to have served as a junior officer on the front lines and the first secretary from the generation that fought in post-9/11 wars.
 
 
-The hearing at the Senate Armed Services Committee is the start of a weeklong marathon as senators begin scrutinizing Trump's choices for more than a dozen top administrative positions. 
 
 
-Hegseth is among the most endangered of Trump's Cabinet choices, but GOP allies are determined to turn him into a cause célèbre for Trump's governing approach amid the nation's culture wars. Outside groups, including those aligned with the Heritage Foundation, are running costly campaigns to prop up Hegseth's bid. 
+Senate Democrats said Hegseth's experience running two nonprofits benefiting military veterans with fewer than 100 employees was not sufficient experience.
 
 
-In the audience were cadres of men wearing clothing expressing support for veterans or service in the military, but also protesters who momentarily disrupted proceedings but were removed from the room. 
+"We're hiring you to be the CEO of one of the most complex, largest organizations in the world. We're the board of directors here. I don't know of any corporate board of directors that would hire a CEO, that said, you know, I supervised 100 people before," said Democratic Senator Gary Peters.
 
 
+The Department of Defense has more than 3 million service members and a budget of $857 billion.
 
 
-The Republican-led Senate is rushing to have some of Trump's picks ready to be confirmed as soon as Inauguration Day, Jan. 20, despite potential opposition to some from both sides of the aisle. With a narrow GOP majority, they need almost all Republicans to support Trump's pick if Democrats oppose. 
+Senator Jack Reed, the top Democrat on the committee, said that the FBI background investigation into Hegseth was “insufficient” and that there are still FBI obligations to talk to people.”
 
 
-Hegseth faces perhaps the most difficult path to confirmation. He was forced to confront allegations of sexual assault, which he has denied, and his own comments that are far from the military mainstream. 
+"You lack the character and composure and competence to hold the position of defense," Reed said, noting that he has voted for all nine previous nominees for secretary of defense, including nominees during Trump's first term.
 
 
-Pressed on his opposition to diversity initiatives in the military and women serving in combat roles, Hegseth agreed that the military "was a forerunner in courageous racial integration." But he argued that modern diversity and inclusion policies "divide" current troops and don't prioritize "meritocracy." 
+All Cabinet nominees undergo a background check and an ethics review.
 
 
-And Hegseth had to answer for his comments that women should "straight up" not be in combat roles in the military, a view he has softened following recent meetings with senators. 
+Hegseth faces allegations of financial mismanagement of the two nonprofits where he served as executive director: Vets for Freedom and Concerned Veterans for America.
 
 
-In one fiery exchange, Senator Kristen Gillibrand, a New York Democrat, told Hegseth: "You will have to change how you see women to do this job." 
+After a 2009 audit of Vets for Freedom, Hegseth acknowledged the organization was $500,000 in debt, and he was demoted. During his time at Concerned Veterans for America, Hegseth faced whistleblower allegations of personal misconduct and financial mismanagement, which resulted in an investigation and a report.
 
 
-Gillibrand said of Hegseth's comments: "They are brutal, and they're mean, and they disrespect men and women" who fight for this country. 
+Hegseth said the allegations were part of a coordinated smear campaign by left-wing media and largely came from anonymous sources.
 
 
+"We undertook this responsibility with obligation to the troops to do right by them, for our war fighters. And what became very evident to us from the beginning, there was a coordinated smear campaign orchestrated in the media against us that was clear from moment one. And what we knew is, it wasn't about me. Most of it was about President Donald Trump, who's had to endure the very same thing for much longer amounts of time, and he endured it — to his credit — in incredibly strong ways," Hegseth said Tuesday.
 
 
-Hegseth was combative at times, and scoffed as Reed asked him to explain what a "jagoff" was. Only after further pressure from Reed did Hegseth say it was a military lawyer, a JAG officer, who "put their own priorities in front of the warfighters." 
+Hegseth has also faced criticism for past remarks about diversity in the U.S. military.
 
 
-Many senators have not yet met with Hegseth and most do not have access to his FBI background check, as only committee leaders were briefed on its findings. Reed said the background check on Hegseth was "insufficient." It did not probe or produce new information beyond what's already in the public realm about him, according to a person familiar with the situation who insisted on anonymity to discuss it. 
 
 
-In many ways, the Hegseth hearing was following the template set during Trump's first term, when one of his choices for Supreme Court justice, Brett Kavanaugh, came under intense scrutiny over allegations of sexual assault but turned the tables on his critics and recouped to win confirmation to the high court. 
+Democratic Senator Elizabeth Warren said Hegseth had done "a very big about-face in a short period of time" since Trump chose him to serve as secretary of defense.
 
 
-"He will be ripped. He will be demeaned. He will be talked about," said Senator Tommy Tuberville, a Republican from Alabama, at an event with former Navy SEALs, Army special forces and Marines supporting the nominee. "But we're going to get him across the finish line." 
+"For 12 years, you were quite open about your views, and your views were consistently the same: Women are inferior soldiers, sailors, marines, airmen and guardians. Then on Nov. 9, 2024, just 32 days after your last public comments saying that women absolutely should not be in combat, you declare that 'some of our greatest warriors are women,'" Warren said on Tuesday.
 
 
-Hegseth was largely unknown on Capitol Hill when Trump tapped him for the top Pentagon job. 
+Five women who served in combat wrote letters of support in favor of Hegseth's nomination.
 
 
-A co-host of Fox News Channel's Fox & Friends Weekend, he had been a contributor with the network since 2014 and apparently caught the eye of the president-elect, who is an avid consumer of television and the news channel, in particular. 
+"These women represent diverse viewpoints, from a retired colonel with over 25 years of service to an active-duty Navy Surface Warfare commander to a senior for Mr. Hegseth, and comment on his focus on merit war-fighting readiness, military training status and the warrior ethos," Wicker said.
 
 
-Hegseth attended Princeton University and served in the Army National Guard from 2002 to 2021, deploying to Iraq in 2005 and Afghanistan in 2011 and earning two Bronze Stars. But he lacks senior military and national security experience. 
+Hegseth pledged that women would have access to ground combat roles during his tenure as secretary of defense.
 
 
-In 2017, a woman told police that Hegseth sexually assaulted her, according to a detailed investigative report recently made public. Hegseth has denied any wrongdoing and told police at the time that the encounter at a Republican women's event in California was consensual. He later paid the woman a confidential settlement to head off a potential lawsuit. 
+"Given the standards remain high, and we'll have a review to ensure standards have not been eroded in any one of these cases," he said.
 
 
-If confirmed, Hegseth would take over a military juggling an array of crises on the global stage and domestic challenges in military recruitment, retention and ongoing funding. 
+Hegseth also faces allegations of sexual assault and public drunkenness during his time at Fox News.
 
 
-Besides being a key national security adviser to the president, the defense secretary oversees a massive organization, with nearly 2.1 million service members, about 780,000 civilians and a budget of roughly $850 billion. 
-
-
-The secretary is responsible for tens of thousands of U.S. troops deployed overseas and at sea, including in combat zones where they face attacks, such as in Syria and Iraq and in the waters around Yemen. The secretary makes all final recommendations to the president on what units are deployed, where they go and how long they stay. 
-
-
-The secretary's main job is to make sure the U.S. military is ready, trained and equipped to meet any call to duty. But the secretary also must ensure that American troops are safe and secure at home, with proper housing, health care, pay and support for programs dealing with suicide, sexual assault and financial scams. 
-
-
-Pentagon chiefs also routinely travel across the world, meeting with international leaders on a vast range of security issues including U.S. military aid, counterterrorism support, troop presence and global coalition building. And they play a key role at NATO as a critical partner to allies across the region. 
+Cabinet nominees must receive a majority of votes to be confirmed. The U.S. Senate is composed of 53 Republicans, 45 Democrats and two independents. 
 
 <br> 
 

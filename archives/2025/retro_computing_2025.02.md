@@ -1,11 +1,59 @@
 ---
 title: retro computing
-updated: 2025-01-14 13:25:18
+updated: 2025-01-15 07:05:26
 ---
 
 # retro computing
 
-(date: 2025-01-14 13:25:18)
+(date: 2025-01-15 07:05:26)
+
+---
+
+## FDISK 1.4.0
+
+date: 2025-01-15, from: FreeDOS News
+
+<div class="markdown_content"><p>Bernd released FDISK version 1.4.0 with many important fixes. See the <a class="" href="https://github.com/FDOS/fdisk/blob/v1.4.0/doc/fdisk/CHANGES.md" rel="nofollow">change log</a> for a full list, including: fixes related to logical partitions, fixes that prevent the user from accidentally deleting the wrong partition, fixes related to many logical partitions or multiple disks, and some command line changes. Download the new version from <a class="" href="https://github.com/FDOS/fdisk/releases/tag/v1.4.0" rel="nofollow">FDISK on GitHub</a>.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/01/fdisk-140/>
+
+---
+
+## January developer 'fireside' chat on saturday night
+
+date: 2025-01-15, from: Icon Bar, RISC OS News
+
+The first 'fireside' chat of 2025 is on 18th January (this saturday). As usual, it starts at 7:30pm UK time and the event is on Zoom. Stay for as long or as short a time as you like. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2139.html>
+
+---
+
+## mTCP version 2025-01-10
+
+date: 2025-01-14, from: FreeDOS News
+
+<div class="markdown_content"><p>mTCP is a set of TCP/IP applications for personal computers running DOS. The applications include DHCP, FTP, IRCJR, NetDrive, PING, TELNET, and others. Version 2025-01-10 has some changes that further improve reliability. The NetDrive device driver and source code is also available now. You can download the new version from the <a class="" href="https://www.brutman.com/mTCP/" rel="nofollow">mTCP website</a> -- scroll down the page to find the downloads.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/01/mtcp-version-2025-01-10/>
+
+---
+
+## Plasma 6.3 Ready for Public Beta Testing
+
+date: 2025-01-14, from: Linux Magazine
+
+<p>Plasma 6.3 will ship with KDE Gear 24.12.1 and KDE Frameworks 6.10, along with some new and exciting features.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Plasma-6.3-Ready-for-Public-Beta-Testing>
 
 ---
 

@@ -1,11 +1,133 @@
 ---
 title: home
-updated: 2025-01-14 13:25:17
+updated: 2025-01-15 07:05:26
 ---
 
 # home
 
-(date: 2025-01-14 13:25:17)
+(date: 2025-01-15 07:05:26)
+
+---
+
+## How They Pulled It Off: Making the Bedroom in This Berlin Loft Float
+
+date: 2025-01-15, from: Dwell
+
+"There are not many residences in Berlin with this ceiling height, so it felt like a unique thing to do." 
+
+<br> 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-making-the-bedroom-in-this-berlin-loft-float-97c75686>
+
+---
+
+## Freesia Flowers Care and Growing Guide (Most Detailed)
+
+date: 2025-01-15, from: Yard Life blog
+
+<p>Freesia flowers, with their stunning beauty and delightful fragrance, are a favorite among gardeners and flower enthusiasts alike. Known for ... </p>
+<p class="read-more-container"><a title="Freesia Flowers Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/freesia-flowers-care-and-growing-guide-most-detailed/#more-22501" aria-label="Read more about Freesia Flowers Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/freesia-flowers-care-and-growing-guide-most-detailed/">Freesia Flowers Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/freesia-flowers-care-and-growing-guide-most-detailed/>
+
+---
+
+## Lotus Flowers Care and Growing Guide (Most Detailed)
+
+date: 2025-01-15, from: Yard Life blog
+
+<p>The lotus flower (Nelumbo nucifera) is a stunning aquatic plant known for its majestic blooms that rise above the surface ... </p>
+<p class="read-more-container"><a title="Lotus Flowers Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/lotus-flowers-care-and-growing-guide-most-detailed/#more-22495" aria-label="Read more about Lotus Flowers Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/lotus-flowers-care-and-growing-guide-most-detailed/">Lotus Flowers Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/lotus-flowers-care-and-growing-guide-most-detailed/>
+
+---
+
+## Common Foxglove (Digitalis purpurea) Care and Growing Guide
+
+date: 2025-01-15, from: Yard Life blog
+
+<p>Foxgloves (Digitalis purpurea) are stunning biennial or short-lived perennial plants known for their towering spikes of tubular flowers in shades ... </p>
+<p class="read-more-container"><a title="Common Foxglove (Digitalis purpurea) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/common-foxglove-digitalis-purpurea-care-and-growing-guide/#more-22490" aria-label="Read more about Common Foxglove (Digitalis purpurea) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/common-foxglove-digitalis-purpurea-care-and-growing-guide/">Common Foxglove (Digitalis purpurea) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/common-foxglove-digitalis-purpurea-care-and-growing-guide/>
+
+---
+
+## 7 Types of Wisteria Flowers with Pictures and Care Guide
+
+date: 2025-01-15, from: Yard Life blog
+
+<p>Wisteria, with its cascading clusters of fragrant blooms, is one of the most enchanting plants in the gardening world. Known ... </p>
+<p class="read-more-container"><a title="7 Types of Wisteria Flowers with Pictures and Care Guide" class="read-more button" href="https://ownyardlife.com/7-types-of-wisteria-flowers-with-pictures-and-care-guide/#more-22475" aria-label="Read more about 7 Types of Wisteria Flowers with Pictures and Care Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/7-types-of-wisteria-flowers-with-pictures-and-care-guide/">7 Types of Wisteria Flowers with Pictures and Care Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/7-types-of-wisteria-flowers-with-pictures-and-care-guide/>
+
+---
+
+## Matthiasson Wines: Great Wines Start in the Vineyard
+
+date: 2025-01-14, from: California Grown
+
+<p>Matthiasson Wines is committed to organic and sustainable agriculture &#8211; because great wines start with healthy vineyards. Millions of tourists visit Napa Valley each year, eager to taste world-class wines while lounging in chic tasting rooms with perfectly manicured gardens and even art galleries. Many of Napa’s tasting rooms cater to that crowd, but you [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/matthiasson-wines/" data-wpel-link="internal" target="_self">Matthiasson Wines: Great Wines Start in the Vineyard</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/matthiasson-wines/>
+
+---
+
+## Elvis and Priscilla Presley’s Honeymoon House Is for Sale—Take a Peek Inside
+
+date: 2025-01-14, from: Sunset Magazine - Living in the West
+
+The Palm Springs house where newlyweds Elvis and Priscilla Presley honeymooned is on the market for $9.275 million. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/elvis-honeymoon-house-for-sale>
+
+---
+
+## Here’s Exactly What You Should Pack in Your Go-Bag (Plus Where to Buy It)
+
+date: 2025-01-14, from: Sunset Magazine - Living in the West
+
+With emergency preparedness being top of mind due ot the Palisades and Eaton Fires, here's how to pack a go-bag survival kit. 
+
+<br> 
+
+<https://www.sunset.com/travel/what-to-pack-in-a-go-bag-emergency>
+
+---
+
+## These Historic Homes and Buildings Were Destroyed in the L.A. Wildfires
+
+date: 2025-01-14, from: Sunset Magazine - Living in the West
+
+The devastating L.A. wildfires have destroyed thousands of homes, schools, businesses, and structures, including historic buildings. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/historic-la-homes-wildfires>
 
 ---
 
@@ -18,6 +140,18 @@ Set at the foot of the Vosges mountains, the home is a certified historic monume
 <br> 
 
 <https://www.dwell.com/article/jean-prouve-maison-du-dr-gauthier-prefab-vosges-france-real-estate-bcaa73c3>
+
+---
+
+## 10 Incredible Grassroots Efforts Providing Fire Relief That You Need to Know About
+
+date: 2025-01-14, from: Sunset Magazine - Living in the West
+
+The Palisades and Eaton wildfires have ravaged SoCal. These community-led efforts offer services—and a ray of hope. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/la-wildfires-grassroots-organizations>
 
 ---
 
@@ -496,18 +630,6 @@ Designed by architect James Strutt in 1969, the Bormann House is wrapped in wood
 
 ---
 
-## Here’s Exactly What You Should Pack in Your Go-Bag (Plus Where to Buy It)
-
-date: 2025-01-13, from: Sunset Magazine - Living in the West
-
-With emergency preparedness being top of mind due ot the Palisades and Eaton Fires, here's how to pack a go-bag survival kit. 
-
-<br> 
-
-<https://www.sunset.com/travel/what-to-pack-in-a-go-bag-emergency>
-
----
-
 ## An Airy Black Cabin Tucks Into a Tree Canopy in Australia
 
 date: 2025-01-13, from: Dwell
@@ -545,18 +667,6 @@ date: 2025-01-13, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/project/how-do-you-test-for-mold/>
-
----
-
-## These Historic Homes and Buildings Were Destroyed in the L.A. Wildfires
-
-date: 2025-01-13, from: Sunset Magazine - Living in the West
-
-The devastating L.A. wildfires have destroyed thousands of homes, schools, businesses, and structures, including historic buildings. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/historic-la-homes-wildfires>
 
 ---
 
@@ -610,6 +720,18 @@ date: 2025-01-13, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/houseplants/poinsettia-after-holidays/>
+
+---
+
+## This Is What Makes a Home Functional, According to Interior Designers
+
+date: 2025-01-12, from: Sunset Magazine - Living in the West
+
+Everyone wants a functional home, but what exactly does that mean? We asked designers how to achieve functional home design. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/functional-home-design>
 
 ---
 
