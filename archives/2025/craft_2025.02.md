@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-01-15 07:05:27
+updated: 2025-01-16 07:04:59
 ---
 
 # craft
 
-(date: 2025-01-15 07:05:27)
+(date: 2025-01-16 07:04:59)
+
+---
+
+## Choose an Author – TEST
+
+date: 2025-01-16, from: Guild of American Luthiers
+
+Choose an AuthorAbbaszadeh¸ HadiAlexander¸ DanAlfieri¸ DonAndersen¸ SteveAnderson¸ JayAntes¸ ScottAnthony¸ DesAram¸ KevinArial¸ JamesArnold¸ EdBashkin¸ MichaelBattershell¸ FrederickBeall¸ J.R.Benedetto¸ BobBidne¸ LeoBlilie¸ JamesBlokzyl¸ Anthony D.Bolla¸ DavidBonte¸ RalphBoulding¸ PhilBrandt¸ ChrisBraun¸ TobiasBrent¸ RachaelBrune¸ R.E.Bryant¸ RaymondBuckland¸ JamesBurns¸ BrianBurrell¸ LeoBurton¸ CyndyButler¸ PaulCaldersmith¸ GrahamCalkin¸ JohnCambio¸ ToddCarlson¸ FredCarol¸ BonnieCarruth¸ AlanCarter¸ WalterCasey¸ C.F.Cash¸ AaronCharles¸ RalphCohen¸ BenColeman¸ ErickColeman¸ HarryCole¸ ReaganColombini¸ John M.Condino¸ JamesCone¸ MichaelConnelly¸ MarcCoyle¸ Daniel P.Cumpiano¸ [&#8230;] 
+
+<br> 
+
+<https://luth.org/choose-an-author-test/>
 
 ---
 

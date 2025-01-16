@@ -1,11 +1,465 @@
 ---
 title: pacific
-updated: 2025-01-15 07:05:24
+updated: 2025-01-16 07:04:55
 ---
 
 # pacific
 
-(date: 2025-01-15 07:05:24)
+(date: 2025-01-16 07:04:55)
+
+---
+
+## Iokwe red carpet for Miss Pacific
+
+date: 2025-01-16, from: Marshal Islands Journal
+
+<p>HILARY HOSIA The arrival of Miss Pacific Islands Moemoana Schwenke to the Marshall Islands will go down in history as the most unique and entertaining of VIP arrivals to date. In her own words, Miss Pacific said “arriving in the Marshall Islands with a heart full of gratitude — I feel the love in my [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/iokwe-red-carpet-for-miss-pacific/">Iokwe red carpet for Miss Pacific</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/iokwe-red-carpet-for-miss-pacific/>
+
+---
+
+## 'Going the wrong way': General wary of moving troops from Okinawa to Guam 
+
+date: 2025-01-16, from: Pacific Island Times
+
+The U.S. Marine Corps commandant has expressed misgivings about relocating thousands of Marines from Okinawa to Guam, warning it will weaken 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/going-the-wrong-way-marines-commandant-questions-troop-relocation-to-guam>
+
+---
+
+## Case involving 2019 murder of kumu hula’s daughter drags on
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>A 31-year-old Hilo man accused of the fatal strangling of his 24-year-old girlfriend almost 5 1/2 years ago is seeking dismissal of the indictment that charged him with second-degree murder.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/hawaii-news/case-involving-2019-murder-of-kumu-hulas-daughter-drags-on/>
+
+---
+
+## Israel and Hamas reach long-awaited ceasefire deal for Gaza
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Negotiators announced Wednesday that they had reached a ceasefire deal for the war in the Gaza Strip, 15 months after a devastating Hamas-led attack on Israeli soil set off a relentless military campaign with few parallels in recent history.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/nation-world-news/israel-and-hamas-reach-long-awaited-ceasefire-deal-for-gaza/>
+
+---
+
+## Prickly dissent colors opening day of Hawaii Legislature
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>The 33rd biennial session of the Hawaii Legislature opened Wednesday at the state Capitol with the usual pageantry and entertainment, but also unusual displays of internal discord on both the House and Senate chamber floors.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/hawaii-news/prickly-dissent-colors-opening-day-of-hawaii-legislature/>
+
+---
+
+## A face-lift for Central Fire: Decrepit downtown Hilo station will be repaired, renovated starting later this year
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>Firefighters will vacate the Central Fire Station in downtown Hilo as early as this spring while the nearly 90-year-old building undergoes long-overdue repairs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/hawaii-news/a-face-lift-for-central-fire-decrepit-downtown-hilo-station-will-be-repaired-renovated-starting-later-this-year/>
+
+---
+
+## US sues Southwest Airlines over chronic delays
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>The federal government sued Southwest Airlines on Wednesday, accusing the airline of harming passengers who flew on two routes that were plagued by consistent delays in 2022.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/nation-world-news/us-sues-southwest-airlines-over-chronic-delays/>
+
+---
+
+## Police: Victim in Kona drowning was from Ohio
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>Police have identified the man who died Sunday, Jan. 5, in an apparent drowning in Kailua-Kona as 35-year-old Garret Khralovch Stanislav of Mayfield, Ohio.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/hawaii-news/police-victim-in-kona-drowning-was-from-ohio-2/>
+
+---
+
+## HPD to host its first-ever Keiki Fun Run/Walk in Kona
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Police Department&#8217;s Kona Community Policing Section, in collaboration with the Hawaii Island Police Activities League (HI-PAL), is holding the first-ever Keiki Fun Run/Walk in Kona on Saturday morning.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/community/hpd-to-host-its-first-ever-keiki-fun-run-walk-in-kona/>
+
+---
+
+## People’s Choice awards presented to Banyan Drive Art Stroll winners
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>Watercolorist Ron Louie took first place Saturday in the 5th Banyan Drive Art Stroll art exhibit with his misty view of a torii titled &#8220;Grand Entrance.&#8221; Louie will receive a gift certificate from Hilo Hawaiian Hotel.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/community/peoples-choice-awards-presented-to-banyan-drive-art-stroll-winners/>
+
+---
+
+## Park named executive director of the JCCIH
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>The Japanese Chamber of Commerce and Industry of Hawaii has announced the appointment of Leelen Park as its new executive director.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/community/park-named-executive-director-of-the-jccih/>
+
+---
+
+## Middle school essays sought for National Civics Bee Hawaii
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>Chamber of Commerce Hawaii has announced that the 2025 National Civics Bee Hawaii is now open to students statewide in grades 6-8, including those in public, private and charter schools as well as those who are homeschooled.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/community/middle-school-essays-sought-for-national-civics-bee-hawaii/>
+
+---
+
+## FDA moves to limit nicotine in cigarettes, some other tobacco
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Food and Drug Administration unveiled a proposal on Wednesday to limit the amount of nicotine allowed in cigarettes and some other combustible tobacco products, a final step for the agency before the Trump administration takes over next week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/nation-world-news/fda-moves-to-limit-nicotine-in-cigarettes-some-other-tobacco/>
+
+---
+
+## Supreme Court seems ready to back Texas law limiting access to pornography
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Several members of the Supreme Court&#8217;s conservative majority seemed deeply skeptical of a challenge to a Texas law that seeks to limit minors&#8217; access to pornography, peppering a lawyer for the challengers with exceptionally hostile questions.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/nation-world-news/supreme-court-seems-ready-to-back-texas-law-limiting-access-to-pornography/>
+
+---
+
+## Maui population losses cause millions in lost income
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>There were more Maui residents leaving after the devastating Maui wildfires in 2023 and fewer moving in &#8212; reducing the island&#8217;s population by more than 1,000 residents and resulting in an estimated $50 million loss in annual income for Hawaii&#8217;s economy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/hawaii-news/maui-population-losses-cause-millions-in-lost-income/>
+
+---
+
+## New York City lawsuit against Exxon, BP, Shell over climate change dismissed
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A judge has dismissed New York City&#8217;s lawsuit seeking to hold Exxon Mobil, BP and Shell liable for misleading the public about their products, and their commitment to renewable energy and fighting climate change.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/nation-world-news/new-york-city-lawsuit-against-exxon-bp-shell-over-climate-change-dismissed/>
+
+---
+
+## FDA bans red dye 3 in foods, linking it to cancer in rats
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>The Food and Drug Administration on Wednesday banned the use of Red Dye No. 3 in food, beverages and drugs, more than three decades after the synthetic coloring was first found to cause cancer in male laboratory rats.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/nation-world-news/fda-bans-red-dye-3-in-foods-linking-it-to-cancer-in-rats/>
+
+---
+
+## South Africa accused of ‘horrific’ crackdown as 78 corpses pulled from illegal mine
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>STILFONTEIN, South Africa &#8212; At least 78 dead bodies have been pulled from an illegal gold mine in South Africa where police cut off food and water supplies for months, in what trade unions called a &#8220;horrific&#8221; crackdown on desperate people trying to eke out a living.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/nation-world-news/south-africa-accused-of-horrific-crackdown-as-78-corpses-pulled-from-illegal-mine/>
+
+---
+
+## Trump nominees pressed on political influence in Senate hearings
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Donald Trump&#8217;s nominees for top national security jobs said they would not prioritize their loyalty to the president-elect over their duty to the country in U.S. Senate hearings on Wednesday, where they appeared to be on a path to easy confirmation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/nation-world-news/trump-nominees-pressed-on-political-influence-in-senate-hearings/>
+
+---
+
+## Angela’s action in RMI
+
+date: 2025-01-16, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON Angela Saunders, who will depart RMI at the end of this month, has helped the International Organization for Migration (IOM) grow from a small project-based operation of three short-term staff to a powerhouse organization that is engaged in multiple activities for the urban centers and remote outer islands. Angela will be moving to [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/angelas-action-in-rmi/">Angela’s action in RMI</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/angelas-action-in-rmi/>
+
+---
+
+## Trump should address performance issues at US Mission to Papua New Guinea, Solomon Islands and Vanuatu
+
+date: 2025-01-16, from: Pacific Island Times
+
+The U.S. mission to Papua New Guinea, Solomon Islands, and Vanuatu has woefully underperformed on several important metrics throughout the B 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/trump-administration-should-immediately-address-performance-issues-at-us-mission-to-papua-new-guinea>
+
+---
+
+## Mock vote at MIHS
+
+date: 2025-01-16, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Marshall Islands High School seniors had the opportunity to participate in a mock election where students got to play the different roles in the election process last Friday at the school’s library. One student was cheered on as he emptied the contents of the electoral box while portraying the role of a police [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/mock-vote-at-mihs/">Mock vote at MIHS</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/mock-vote-at-mihs/>
+
+---
+
+## True Ironman: UH Mānoa alumnus Jonathan Pascual races against terminal cancer
+
+date: 2025-01-16, from: University of Hawaiʻi News
+
+<p>A School of Nursing grad shows incredible courage in the face of stage 4 cancer.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/15/true-ironman-alumnus-jonathan-pascual/">True Ironman: <abbr>UH</abbr> Mānoa alumnus Jonathan Pascual races against terminal cancer</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/15/true-ironman-alumnus-jonathan-pascual/>
+
+---
+
+## Abandoned capital to be demolished
+
+date: 2025-01-15, from: Marshal Islands Journal
+
+<p>The aging RMI capital building is scheduled to be demolished starting at the beginning of next month. This is the first step toward the building of a new capital facility for the RMI government. “We’re targeting the first week of February to start demolition works at the Capital Building,” said Pacific International Inc.’s Senior Project [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/abandoned-capital-to-be-demolished/">Abandoned capital to be demolished</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/abandoned-capital-to-be-demolished/>
+
+---
+
+## New, paid AI training to address decarbonization, healthcare, more
+
+date: 2025-01-15, from: University of Hawaiʻi News
+
+<p>The program offers funding for both research and tuition, fostering cross-disciplinary collaboration and cutting-edge discoveries.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/15/descartes-ai-research-training/">New, paid <abbr>AI</abbr> training to address decarbonization, healthcare, more</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/15/descartes-ai-research-training/>
+
+---
+
+## UH launches space weather stations atop Haleakalā
+
+date: 2025-01-15, from: University of Hawaiʻi News
+
+<p>The stations fill a critical 162-degree gap in the global neutron monitor network between Mexico and Thailand.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/15/space-weather-stations/"><abbr>UH</abbr> launches space weather stations atop Haleakalā</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/15/space-weather-stations/>
+
+---
+
+## Image of the Week: Cannonball flower
+
+date: 2025-01-15, from: University of Hawaiʻi News
+
+<p>This week's image is from <abbr>UH</abbr> Mānoa's Samantha Peebles.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/15/image-of-the-week-cannonball-flower/">Image of the Week: Cannonball flower</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/15/image-of-the-week-cannonball-flower/>
+
+---
+
+## OGM-SC temporarily adjusts hours
+
+date: 2025-01-15, updated: 2025-01-16, from: Marianas Variety
+
+THE Office of Grants Management &amp; State Clearinghouse will be open to the public between the hours of 7:30 a.m. and 11:30 a.m. starting, Tuesday, Jan. 14, 2025, through Tuesday, Jan. 21, 2025. The staff will be dedicating the afternoons to work on their biannual grant report submissions. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/ogm-sc-temporarily-adjusts-hours/article_808c2968-d33d-11ef-86de-73babaab5c20.html>
+
+---
+
+## King-Hinds office announces e-newsletter sign-up
+
+date: 2025-01-15, updated: 2025-01-16, from: Marianas Variety
+
+WASHINGTON, D.C. — On Wednesday, the office of U.S. Congresswoman Kimberlyn King-Hinds announced the launch of the office’s e-newsletter. Constituents are now able to subscribe, enabling them to receive weekly updates on the congresswoman’s work in Congress as well as other key developments impacting the CNMI. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/king-hinds-office-announces-e-newsletter-sign-up/article_0fb18778-d33e-11ef-9b5f-bf63205cb820.html>
+
+---
+
+## Humanities Council invites community to help influence its strategic master plan
+
+date: 2025-01-15, updated: 2025-01-16, from: Marianas Variety
+
+THE Northern Marianas Humanities Council invites the public to help shape its 2026-2030 strategic master plan by submitting input to its 2025 Community Needs and Interests Survey. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/humanities-council-invites-community-to-help-influence-its-strategic-master-plan/article_388f6a76-d2fc-11ef-ada3-f7498ef48d6f.html>
+
+---
+
+## Dollar rally pauses ahead of US inflation test
+
+date: 2025-01-15, updated: 2025-01-16, from: Marianas Variety
+
+SINGAPORE (Reuters) — The dollar's towering rally hit a speed bump on Wednesday as traders turned cautious ahead of a closely watched U.S. consumer inflation report due later in the day, making them hesitant to take on new positions. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/dollar-rally-pauses-ahead-of-us-inflation-test/article_fcb590aa-d32f-11ef-a497-d3b2b368999f.html>
+
+---
+
+## Trump nominee Pete Hegseth weathers Democrat grilling to emerge largely unscathed
+
+date: 2025-01-15, updated: 2025-01-16, from: Marianas Variety
+
+WASHINGTON (Reuters) — President-elect Donald Trump's pick to lead the Pentagon, Pete Hegseth, endured fierce Democratic grilling over everything from his inexperience, alleged drinking and his past opposition to women in combat to emerge largely unscathed among Republicans at his confirmation hearing on Tuesday. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-nominee-pete-hegseth-weathers-democrat-grilling-to-emerge-largely-unscathed/article_2dd311ca-d33b-11ef-af2c-2b4c65eb4032.html>
+
+---
+
+## South Korea jobless rate hits 3-1/2-yr high amid political uncertainty
+
+date: 2025-01-15, updated: 2025-01-16, from: Marianas Variety
+
+SEOUL (Reuters) — South Korea's jobless rate jumped to the highest in 3-1/2 years in December, as political turmoil stoked economic uncertainty and dampened sentiment, data showed on Wednesday, a day ahead of the central bank's first monetary policy meeting of the year. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/south-korea-jobless-rate-hits-3-1-2-yr-high-amid-political-uncertainty/article_bd4024a6-d33b-11ef-9ef0-a33326c97bf0.html>
+
+---
+
+## Green flag on Managaha
+
+date: 2025-01-15, updated: 2025-01-16, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Managaha’s recreational beaches and dock as part of the regularly scheduled sampling.  None of the samples collected this week contained excessive concentrations of fecal indicator bacteria nor did they exceed CNMI marine water quality standards. Therefore, BECQ assigns all of the sampled beach sites a green flag. Enjoy our waters! 
+
+<br> 
+
+<https://www.mvariety.com/news/local/green-flag-on-managaha/article_45a6c204-d33d-11ef-a57e-139ba1b788b1.html>
 
 ---
 
@@ -261,12 +715,68 @@ date: 2025-01-15, from: Hawaii Tribune Harold
 
 ---
 
-## Campus eats: dining spots to savor
+## Police: Victim in Kona drowning was from Ohio
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>Police have identified the man who died Sunday, Jan. 5, in an apparent drowning in Kailua-Kona as 35-year-old Garret Khralovch Stanislav of Mayfield, Ohio.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/hawaii-news/police-victim-in-kona-drowning-was-from-ohio/>
+
+---
+
+## HVO: Kilauea eruption resumes
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>The eruption of Kilauea resumed this morning after a 12-day pause.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/hawaii-news/hvo-kilauea-eruption-resumes/>
+
+---
+
+## Second of three Hale Nani escapees back in custody
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p>Police have arrested and charged 41-year-old Kawai James Pomroy, one of the three men who escaped Dec. 13 from the Hale Nani Correctional Facility.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/hawaii-news/second-of-three-hale-nani-escapees-back-in-custody/>
+
+---
+
+## UPDATE: DOH cancels advisories for Richardson, Honolii
+
+date: 2025-01-15, from: Hawaii Tribune Harold
+
+
+				<p><strong>UPDATED 4:49 p.m.</strong></p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/15/hawaii-news/doh-richardson-honolii-flagged-for-high-bacteria-levels/>
+
+---
+
+## UH Mānoa eats: dining spots to savor
 
 date: 2025-01-15, from: University of Hawaiʻi News
 
 <p><abbr>UH</abbr> Mānoa eating options for spring 2025 include new trucks.</p>
-The post <a href="https://www.hawaii.edu/news/2025/01/14/campus-eats-dining-spots-to-savor/">Campus eats: dining spots to savor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2025/01/14/campus-eats-dining-spots-to-savor/"><abbr>UH</abbr> Mānoa eats: dining spots to savor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <br> 
 
@@ -274,12 +784,12 @@ The post <a href="https://www.hawaii.edu/news/2025/01/14/campus-eats-dining-spot
 
 ---
 
-## In memoriam: community health advocate, UHPA board member John Caksen
+## In memoriam: community health advocate, UHPA board member John Casken
 
 date: 2025-01-15, from: University of Hawaiʻi News
 
 <p>Casken will be remembered for his commitment to improving community health particularly for rural communities in <span aria-label="Hawaii">Hawai&#699;i</span> and for Native Hawaiians.</p>
-The post <a href="https://www.hawaii.edu/news/2025/01/14/in-memoriam-john-caksen/">In memoriam: community health advocate, <abbr>UHPA</abbr> board member John Caksen</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2025/01/14/in-memoriam-john-caksen/">In memoriam: community health advocate, <abbr>UHPA</abbr> board member John Casken</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <br> 
 

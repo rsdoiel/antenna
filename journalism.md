@@ -1,11 +1,249 @@
 ---
 title: journalism
-updated: 2025-01-15 07:05:25
+updated: 2025-01-16 07:04:57
 ---
 
 # journalism
 
-(date: 2025-01-15 07:05:25)
+(date: 2025-01-16 07:04:57)
+
+---
+
+## Does SNL know its audience?
+
+date: 2025-01-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>In its 50th season, the show’s host choices are inconsistent and random.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/16/does-snl-know-its-audience/">Does SNL know its audience?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/16/does-snl-know-its-audience/>
+
+---
+
+## USC sued for harassment, discrimination in athletics department
+
+date: 2025-01-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Former athletic director Mike Bohn was criticized for race and gender bigotry. </p>
+<p>The post <a href="https://dailytrojan.com/2025/01/16/usc-sued-for-harassment-discrimination-in-athletics-department/">USC sued for harassment, discrimination in athletics department</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/16/usc-sued-for-harassment-discrimination-in-athletics-department/>
+
+---
+
+## Kick off 2025 with these winter albums
+
+date: 2025-01-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>From highly anticipated rap projects to stadium-worthy pop albums, there’s plenty of new music coming in 2025.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/16/kick-off-2025-with-these-winter-albums/">Kick off 2025 with these winter albums</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/16/kick-off-2025-with-these-winter-albums/>
+
+---
+
+## Palisades fire perimeter and evacuation map
+
+date: 2025-01-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+﻿ 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/palisades-fire-perimeter-and-evacuation-map/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-16, from: The Daily Bruin (UCLA Student Newspaper))
+
+All National Weather Service red flag warnings covering the city of Los Angeles have ended, according to a press release from Unified L.A. Although a windblown dust and ash advisory also expired at 7 p.m., locals should remain cautious if they see ash – which may not be detected by Air Quality Index monitors, according to the release. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/478219/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-16, from: The Daily Bruin (UCLA Student Newspaper))
+
+The J. Paul Getty Trust has partnered with local and international art institutions and philanthropists to establish LA Arts Community Fire Relief Fund, according to a Getty press release. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/478216/>
+
+---
+
+## ‘Squid Game’ brand deals and commercials miss the show’s main point
+
+date: 2025-01-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Warning: Spoilers ahead
+As “Squid Game” rises to prominence once more, companies see a green light for brand deals and commercials – missing the point entirely. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/squid-game-brand-deals-and-commercials-miss-the-shows-main-point/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-16, from: The Daily Bruin (UCLA Student Newspaper))
+
+UCLA Students with Dependents said in a Wednesday Instagram post that there will be a fresh produce distribution at the University Village Apartments from 2 to 5 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/478201/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-16, from: The Daily Bruin (UCLA Student Newspaper))
+
+Three fires continue to burn across Los Angeles County.
+The closest fire to UCLA, which began in the Pacific Palisades, has spread 23,713 acres and is 21% contained, according to the Cal Fire website. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/478197/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-16, from: The Daily Bruin (UCLA Student Newspaper))
+
+While weather is expected to decrease fire risk for the rest of the week, next week will likely have more red flag warnings – which indicate critical fire weather, according to a post from the National Weather Service on X. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/478195/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-16, from: The Daily Bruin (UCLA Student Newspaper))
+
+During its Tuesday evening meeting, the Undergraduate Students Association Council unanimously voted to allocate $20,000 to the Bruin Relief Initiative, a program led by USAC and the Graduate Student Association that aims to involve students in providing relief for those impacted by the fires burning across Los Angeles County. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/478192/>
+
+---
+
+## USAC, GSA allocate $30,000 to Bruin Relief Initiative for aid during LA wildfires
+
+date: 2025-01-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA student government organizations have allocated $30,000 toward relief efforts as fires burn across Los Angeles County.
+The Bruin Relief Initiative is a program that aims to involve the UCLA campus in wildfire relief and is planned to begin when in-person instruction – which is paused through Friday – resumes, said Undergraduate Students Association Council President Adam Tfayli. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/usac-gsa-allocate-30000-to-bruin-relief-initiative-for-aid-during-la-wildfires/>
+
+---
+
+## Following USAC resolution, UC expands paid sick leave to ASUCLA student employees
+
+date: 2025-01-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+ASUCLA student workers have received paid sick leave eligibility following pressure from the Undergraduate Students Association Council.
+The council unanimously passed a resolution Nov. 19 calling for higher wages, paid sick leave and better working conditions for ASUCLA employees. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/following-usac-resolution-uc-expands-paid-sick-leave-to-asucla-student-employees/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-16, from: The Daily Bruin (UCLA Student Newspaper))
+
+UCPD has been assisting other local agencies in responding to the Palisades Fire, according to the department&#8217;s Wednesday post on social media platform X. Officers have attended the Zuma Beach command post – where firefighting efforts were coordinated – as part of mutual aid, according to the post. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/478183/>
+
+---
+
+## Book preview: Flurry of winter literary releases covers themes of identity, transformation
+
+date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+As winter settles in with its crisp air and sparkling snow, a quiet magic weaves through the pages of new literary releases.
+Book lovers and armchair adventurers will find comfort in the season&#8217;s offerings, from introspective tales of solitude to heartwarming stories of renewal. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/book-preview-flurry-of-winter-literary-releases-covers-themes-of-identity-transformation/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+Los Angeles Mayor Karen Bass urged LA residents affected by the fire to visit the LA Disaster Recovery Center or the Pasadena Disaster Recovery Center in a newsletter she shared through email. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/478171/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+Around 2:40 p.m., Chancellor Julio Frenk posted an Instagram video from the newly opened Disaster Recovery Center. He said UCLA will be donating this center to the City of Los Angeles and the Federal Emergency Management Agency, urging Bruins affected by the fires to use it as a resource. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/478169/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+About 60 patients have been treated by UCLA Health hospitals since Jan. 7, when the first of the Los Angeles County fires started in Pacific Palisades, a UCLA Health spokesperson said in an emailed statement. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/478165/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+Evacuation orders remain in place across Los Angeles County, with the National Weather Service expecting strong winds until 3 p.m. Wednesday, according to a press release from Unified LA Los Angeles Animal Services, and LAPD has now opened a helpline for people who need their pets retrieved from areas under evacuation order, according to the press release. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/478161/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+Relief efforts in response to the fires has taken work from across the University of California, UC President Michael Drake said in a UC Network email update. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/478150/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+<em>This post was updated Jan. 15 at 12:08 p.m.</em>
+The Palisades fire has burned over 27,000 acres as of 11 a.m. Wednesday and is 19% contained, according to the Cal Fire website. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/15/478148/>
 
 ---
 
@@ -81,7 +319,7 @@ date: 2025-01-15, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2025-01-15, from: The Daily Trojan (USC Student Newspaper)
 
-<p>The National Book Award-winning author spoke to students on Monday.</p>
+<p>The National Book Award-winning author addressed students Monday night.</p>
 <p>The post <a href="https://dailytrojan.com/2025/01/15/interior-chinatown-author-charles-yu-discusses-tv-adaptation/">‘Interior Chinatown’ author Charles Yu discusses TV adaptation</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
@@ -436,7 +674,7 @@ Cast of <em>Earth Data</em>, from left to right: Kathryn Bikle, Ellis Spickerman
 
 date: 2025-01-14, from: California Tech (Caltech Student Newspaper)
 
-It is now Monday January 13<sup>th</sup> 2025 and the Eaton Fire is 14,117 acres and 27% contained. 3,155 firefighting personnel are assigned to this fire. The Eaton Fire is one of the worst natural disasters in United States history, and California’s deadliest wildfire disaster. Ten miles of foothills from the Jet Propulsion Laboratory to Santa Anita Avenue is just destruction. Caltech students, postdocs, faculty, staff, and the surrounding community have been impacted by this traumatic and devastating fire. At least 200 Caltech community members have lost their homes to the fires. Thousands have been displaced. Ash contamination, poor air quality, and loss of power and water utilities remain to be additional issues we face. 
+It is now Monday January 13<sup>th</sup> 2025 and the Eaton Fire is 14,117 acres and 27% contained. 3,155 firefighting personnel are assigned to this fire. The Eaton Fire is one of the worst natural disasters in United States history, and Southern California’s deadliest wildfire disaster. Ten miles of foothills from the Jet Propulsion Laboratory to Santa Anita Avenue is just destruction. Caltech students, postdocs, faculty, staff, and the surrounding community have been impacted by this traumatic and devastating fire. At least 200 Caltech community members have lost their homes to the fires. Thousands have been displaced. Ash contamination, poor air quality, and loss of power and water utilities remain to be additional issues we face. 
 
 <br> 
 

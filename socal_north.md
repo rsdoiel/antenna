@@ -1,11 +1,303 @@
 ---
 title: socal north
-updated: 2025-01-15 07:05:24
+updated: 2025-01-16 07:04:55
 ---
 
 # socal north
 
-(date: 2025-01-15 07:05:24)
+(date: 2025-01-16 07:04:55)
+
+---
+
+## Domestic workers lost a community in Pacific Palisades too
+
+date: 2025-01-16, updated: 2025-01-16, from: The LAist
+
+Homes that needed cleaning, yards that needed tending, families who needed caregiving. In Pacific Palisades, so much is gone. What has also disappeared are domestic workers’ livelihoods. 
+
+<br> 
+
+<https://laist.com/news/palisades-fire-domestic-workers-resources-help>
+
+---
+
+## Newsom's order aims to help Angelenos, but is rebuilding in the same areas a good idea?
+
+date: 2025-01-16, updated: 2025-01-16, from: The LAist
+
+California Gov. Gavin Newsom's executive order waives environmental laws for people whose homes burned down so they can rebuild as quickly as possible in exactly the same place. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/gavin-newsom-wildfire-executive-order>
+
+---
+
+## Best things to do this weekend in LA and SoCal: January 17 - 19
+
+date: 2025-01-16, updated: 2025-01-16, from: The LAist
+
+Free days at LACMA to give your brain a break, putting the fun in fundraisers, new vendors at Smorgasburg, Pussy Riot at Honor Fraser and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-southern-california-wildfires-fundraisers-free-meals-family-fun>
+
+---
+
+## Los Residentes Lloran la Pérdida de la ‘Hermosa Altadena’ y se Dirigen a la Reconstrucción
+
+date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Altadena no es una comunidad cualquiera, era un centro multicultural, lleno de artistas y creativos, joyas arquitectónicas, belleza natural y deliciosas comidas. Muchas familias han vivido en la “hermosa Altadena”, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/15/los-residentes-lloran-la-perdida-de-la-hermosa-altadena-y-se-dirigen-a-la-reconstruccion/">Los Residentes Lloran la Pérdida de la ‘Hermosa Altadena’ y se Dirigen a la Reconstrucción</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/15/los-residentes-lloran-la-perdida-de-la-hermosa-altadena-y-se-dirigen-a-la-reconstruccion/>
+
+---
+
+## Una Enfermera a Domicilio Describe el Desafío de Evacuar a un Paciente Durante el Incendio de Palisades
+
+date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="461" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?fit=1024%2C461&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=300%2C135&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=1024%2C461&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=768%2C346&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=1536%2C692&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=2048%2C922&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=1200%2C540&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=1568%2C706&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=2000%2C901&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=400%2C180&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=706%2C318&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?fit=1024%2C461&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Para Kristin Thames, enfermera registrada (RN) de atención domiciliaria, la reciente oleada de incendios forestales destructivos la enfrentó cara a cara con uno de sus temores de toda la vida: [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/15/una-enfermera-a-domicilio-describe-el-desafio-de-evacuar-a-un-paciente-durante-el-incendio-de-palisades/">Una Enfermera a Domicilio Describe el Desafío de Evacuar a un Paciente Durante el Incendio de Palisades</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/15/una-enfermera-a-domicilio-describe-el-desafio-de-evacuar-a-un-paciente-durante-el-incendio-de-palisades/>
+
+---
+
+## Horóscopo
+
+date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) La parte primigenia de ti que te robará la oportunidad de ser perezoso es una criatura sabia. La [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/15/horoscopo-198/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/15/horoscopo-198/>
+
+---
+
+## EVENTOS Locales – Semana de 16 de enero, 2025
+
+date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Enero 17 Mercado de Agricultores de Olive View-UCLA Medical Center 14445 Olive View Dr. Sylmar 9 a.m. – 2 p.m. El mercado ofrece una rica variedad de productos frescos [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/15/eventos-locales-semana-de-16-de-enero-2025/">EVENTOS Locales &#8211; Semana de 16 de enero, 2025</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/15/eventos-locales-semana-de-16-de-enero-2025/>
+
+---
+
+## El Aeropuerto de Whiteman Desempeñó un Papel Vital en la Lucha Contra el Incendio de Hurst en Sylmar
+
+date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="960" height="739" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?fit=960%2C739&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?resize=300%2C231&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?resize=768%2C591&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?resize=400%2C308&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?resize=706%2C543&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?fit=960%2C739&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Cuando el incendio de Hurst todavía ardía la semana pasada en las colinas de Sylmar, el aeropuerto Whiteman en Pacoima sirvió como base para que el Departamento de Silvicultura y [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/15/el-aeropuerto-de-whiteman-desempeno-un-papel-vital-en-la-lucha-contra-el-incendio-de-hurst-en-sylmar/">El Aeropuerto de Whiteman Desempeñó un Papel Vital en la Lucha Contra el Incendio de Hurst en Sylmar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/15/el-aeropuerto-de-whiteman-desempeno-un-papel-vital-en-la-lucha-contra-el-incendio-de-hurst-en-sylmar/>
+
+---
+
+## Más de 70 Bomberos de México Colaboran en las Operaciones de Extinción de Incendios
+
+date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?w=1350&amp;ssl=1 1350w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los socorristas de México llegaron al Aeropuerto Internacional de Los Ángeles (LAX) el 11 de enero para apoyar los esfuerzos de extinción de incendios y respuesta a emergencias que han [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/15/mas-de-70-bomberos-de-mexico-colaboran-en-las-operaciones-de-extincion-de-incendios/">Más de 70 Bomberos de México Colaboran en las Operaciones de Extinción de Incendios</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/15/mas-de-70-bomberos-de-mexico-colaboran-en-las-operaciones-de-extincion-de-incendios/>
+
+---
+
+## Los Angelinos Desplazados y los Alquileres Abusivos en Los Ángeles Aumentan la Presión Sobre el Tenso Mercado de la Vivienda
+
+date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Aquellos cuyos hogares han sido destruidos ahora tienen la tarea de encontrar un lugar para vivir en el ya abarrotado mercado inmobiliario de Los Ángeles y enfrentar el aumento de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/15/los-angelinos-desplazados-y-los-alquileres-abusivos-en-los-angeles-aumentan-la-presion-sobre-el-tenso-mercado-de-la-vivienda/">Los Angelinos Desplazados y los Alquileres Abusivos en Los Ángeles Aumentan la Presión Sobre el Tenso Mercado de la Vivienda</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/15/los-angelinos-desplazados-y-los-alquileres-abusivos-en-los-angeles-aumentan-la-presion-sobre-el-tenso-mercado-de-la-vivienda/>
+
+---
+
+## La Concejal Padilla Proporciona Comidas Gratuitas y Mascarillas EPP en el SFV
+
+date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?w=2373&amp;ssl=1 2373w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=2048%2C1535&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=2000%2C1499&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=706%2C529&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Esta semana, la concejal de la ciudad de Los Ángeles, Imelda Padilla, está proporcionando comidas calientes gratuitas, agua embotellada y mascarillas para los residentes del Valle de San Fernando en [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/15/la-concejal-padilla-proporciona-comidas-gratuitas-y-mascarillas-epp-en-el-sfv/">La Concejal Padilla Proporciona Comidas Gratuitas y Mascarillas EPP en el SFV</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/15/la-concejal-padilla-proporciona-comidas-gratuitas-y-mascarillas-epp-en-el-sfv/>
+
+---
+
+## Personas Sin Hogar Desplazadas por los Incendios de Los Ángeles que Necesitan Refugio y Apoyo
+
+date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Así como los incendios de Los Ángeles han desarraigado a miles de propietarios de viviendas, muchas personas sin hogar que vivían en vehículos recreativos o debajo de pasos subterráneos en [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/15/personas-sin-hogar-desplazadas-por-los-incendios-de-los-angeles-que-necesitan-refugio-y-apoyo/">Personas Sin Hogar Desplazadas por los Incendios de Los Ángeles que Necesitan Refugio y Apoyo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/15/personas-sin-hogar-desplazadas-por-los-incendios-de-los-angeles-que-necesitan-refugio-y-apoyo/>
+
+---
+
+## La Comunidad del Valle de San Fernando Brinda Ayuda a las Víctimas del Incendio
+
+date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01142025_Midnight-Hour_SN_05.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01142025_Midnight-Hour_SN_05.jpeg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01142025_Midnight-Hour_SN_05.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01142025_Midnight-Hour_SN_05.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01142025_Midnight-Hour_SN_05.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01142025_Midnight-Hour_SN_05.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01142025_Midnight-Hour_SN_05.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01142025_Midnight-Hour_SN_05.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01142025_Midnight-Hour_SN_05.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01142025_Midnight-Hour_SN_05.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01142025_Midnight-Hour_SN_05.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01142025_Midnight-Hour_SN_05.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01142025_Midnight-Hour_SN_05.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01142025_Midnight-Hour_SN_05.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Mientras las laderas cercanas estaban en llamas, los propietarios de negocios locales y las organizaciones de base han dado un paso al frente para ayudar a sus compañeros angelinos. En [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/15/la-comunidad-del-valle-de-san-fernando-brinda-ayuda-a-las-victimas-del-incendio/">La Comunidad del Valle de San Fernando Brinda Ayuda a las Víctimas del Incendio</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/15/la-comunidad-del-valle-de-san-fernando-brinda-ayuda-a-las-victimas-del-incendio/>
+
+---
+
+## Why are evacuated residents not allowed back into their homes?
+
+date: 2025-01-16, updated: 2025-01-16, from: The LAist
+
+What to do if you’re waiting to return to your home or are in your home in an evacuated area. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/why-evacuated-residents-not-allowed-back-into-their-homes>
+
+---
+
+## Here's where to find the latest information on nursing home evacuees
+
+date: 2025-01-16, updated: 2025-01-16, from: The LAist
+
+Residents from at least 70 long-term care facilities have been moved into other facilities, hotels, Airbnbs and private residences due to the fires. And some are now returning to facilities that previously had to be evacuated. 
+
+<br> 
+
+<https://laist.com/news/nursing-home-evacuees-information>
+
+---
+
+## LA fires prompt financial aid deadline extension
+
+date: 2025-01-16, updated: 2025-01-16, from: The LAist
+
+Students in L.A. and Ventura counties will get more time to apply. 
+
+<br> 
+
+<https://laist.com/news/education/california-fires-prompt-financial-aid-deadline-extension-fafsa-cadaa>
+
+---
+
+## You might see injured wild animals in fire areas. Here's what to do
+
+date: 2025-01-16, updated: 2025-01-16, from: The LAist
+
+Basically, don’t feed wild animals. Water is OK. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-fires-injured-wild-animals-what-to-do>
+
+---
+
+## How the LA fires could exacerbate California’s homelessness crisis
+
+date: 2025-01-16, updated: 2025-01-16, from: The LAist
+
+As fires continue to displace tens of thousands of people in Los Angeles County, experts worry about the long-term effects on the already dire homelessness crisis. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/how-la-fires-could-exacerbate-california-homelessness-crisis>
+
+---
+
+## Wondering where the extreme winds are? Here's how wind predictions and warnings are made
+
+date: 2025-01-15, updated: 2025-01-16, from: The LAist
+
+Maybe it isn't windy where you are right now, but some areas of Southern California are experiencing strong gusts like those that drove the growth of L.A.'s recent deadly wildfires. This is how the National Weather Service makes its forecasts and decides when to issue warnings. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/extreme-winds-how-they-are-predicted>
+
+---
+
+## James Webb Space Telescope's 'little red dots' come into focus
+
+date: 2025-01-15, updated: 2025-01-15, from: The LAist
+
+A cosmic object spotted by the James Webb Space Telescope has flummoxed astronomers. Now a research team has studied hundreds of these "little red dots" and found clues about their identity. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/james-webb-space-telescopes-little-red-dots-come-into-focus>
+
+---
+
+## Israel and Hamas reach a Gaza ceasefire agreement
+
+date: 2025-01-15, updated: 2025-01-15, from: The LAist
+
+Israel and Hamas have reached an agreement on a multiphase ceasefire that commits them to end the war in Gaza, President Biden and Qatar's prime minister announced separately on Wednesday. 
+
+<br> 
+
+<https://laist.com/news/israel-and-hamas-reach-a-gaza-ceasefire-agreement>
+
+---
+
+## How climate change is reshaping home insurance in California — and the rest of the US
+
+date: 2025-01-15, updated: 2025-01-15, from: The LAist
+
+Worsening wildfires are hiking up home insurance rates in California, the biggest market in the U.S. And as climate disasters increase across the country, other states are feeling the pressure too. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/how-climate-change-is-reshaping-home-insurance-in-california>
 
 ---
 
@@ -35,7 +327,7 @@ Mayor Karen Bass’ order is intended to expedite debris removal, obtaining buil
 
 ## LA council delays vote on proposal to pause evictions and rent increases due to fires
 
-date: 2025-01-15, updated: 2025-01-15, from: The LAist
+date: 2025-01-15, updated: 2025-01-16, from: The LAist
 
 A proposal to freeze rents and protect Angelenos affected by wildfires from eviction was sent to committee while other emergency motions passed unanimously. 
 
@@ -49,7 +341,7 @@ A proposal to freeze rents and protect Angelenos affected by wildfires from evic
 
 date: 2025-01-15, updated: 2025-01-15, from: The LAist
 
-GoFundMe has become a quick source for help from the community, but during a disaster, it can impact federal assistance. 
+GoFundMe and other crowdfunding sites have become a quick source for help from the community, but during a disaster, they can impact federal assistance. 
 
 <br> 
 

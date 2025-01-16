@@ -1,15 +1,321 @@
 ---
 title: food
-updated: 2025-01-15 07:05:27
+updated: 2025-01-16 07:04:59
 ---
 
 # food
 
-(date: 2025-01-15 07:05:27)
+(date: 2025-01-16 07:04:59)
 
 ---
 
-## I Need Freezer Friendly Recipes
+## The Versatile HexClad Pizza Steel Replaced My Air Fryer
+
+date: 2025-01-16, from: Taste of Home
+
+<p>I was skeptical the HexClad pizza steel would be worth the price, but it's now the most used piece of bakeware in my kitchen. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/hexclad-pizza-steel/">The Versatile HexClad Pizza Steel Replaced My Air Fryer</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/hexclad-pizza-steel/>
+
+---
+
+## National Coffee Association Talks Directly to Consumers through aboutcoffee.org
+
+date: 2025-01-16, from: Daily Coffee News
+
+<div><img width="620" height="419" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-620x419.jpg" class="attachment-large size-large wp-post-image" alt="pourover coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-620x419.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-768x518.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>After 113 years operating largely under the public radar, the United States National Coffee Association just launched its first consumer-focused website, aboutcoffee.org. The website reflects the coffee industry&#8217;s never-ending quest... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/16/national-coffee-association-talks-directly-to-consumers-through-aboutcoffee-org/>
+
+---
+
+## There’s Not Enough Coffee At The Australian Open
+
+date: 2025-01-16, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Crikey. 
+
+<br> 
+
+<https://sprudge.com/theres-not-enough-coffee-at-the-australian-open-269729.html>
+
+---
+
+## Spiced Chickpea and Spinach Pockets
+
+date: 2025-01-16, from: Bon Appetet
+
+Using store-bought pizza dough and pre-made chana masala to make these flavorful stuffed pockets, dinner comes together in a snap. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/spiced-chickpea-and-spinach-pockets>
+
+---
+
+## Hot Honey Harissa Chicken Bowl
+
+date: 2025-01-16, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/01/Hot-Honey-Harissa-Chicken-Bowl-1200-4419.jpg"/></div>
+<p>A salad with tasty hot honey harissa chicken, roasted jalapeno feta, hummus and a tasty dressing! Recently I have been enjoying salad bowls and this hot honey harissa chicken bowl is my current favourite! This salad combines several of my recently shared recipes including the hot honey harissa chicken (link), roasted jalapeno feta (link), and...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/hot-honey-harissa-chicken-bowl/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/hot-honey-harissa-chicken-bowl/">Hot Honey Harissa Chicken Bowl</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/hot-honey-harissa-chicken-bowl/>
+
+---
+
+## Hot Honey Harissa Vinaigrette
+
+date: 2025-01-16, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/01/Hot-Honey-Harissa-Vinaigrette-1200-4283.jpg"/></div>
+<p>A tasty sweet honey, hot harissa, tangy lemon dressing with a creamy hit of tahini. A copycat CAVA harissa vinaigrette recipe! Hot Honey Harissa Vinaigrette Prep Time: 5 minutes Total Time: 5 minutes Servings: 16 A tasty sweet honey, hot harissa, tangy lemon dressing with a creamy hit of tahini. Print Recipe ingredients 1/3 cup...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/hot-honey-harissa-vinaigrette/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/hot-honey-harissa-vinaigrette/">Hot Honey Harissa Vinaigrette</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/hot-honey-harissa-vinaigrette/>
+
+---
+
+## I Tried a McDonald’s Hash Brown McFlurry Sandwich, and It Did Not Go According to Plan
+
+date: 2025-01-15, from: Taste of Home
+
+<p>This secret menu order makes a strong case for banning TikTok.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mcdonalds-hash-brown-mcflurry-sandwich/">I Tried a McDonald&#8217;s Hash Brown McFlurry Sandwich, and It Did Not Go According to Plan</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mcdonalds-hash-brown-mcflurry-sandwich/>
+
+---
+
+## The Best Matcha Powder (2025), According to A Daily Matcha Drinker
+
+date: 2025-01-15, from: Bon Appetet
+
+I tried a dozen matcha powders to find the very best one. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-matcha-powder>
+
+---
+
+## The FDA Just Banned Use of Red No. 3 in Food and Drinks
+
+date: 2025-01-15, from: Taste of Home
+
+<p>You'd be surprised at how many grocery store staples use Red No. 3.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/fda-red-dye-3-ban-food/">The FDA Just Banned Use of Red No. 3 in Food and Drinks</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/fda-red-dye-3-ban-food/>
+
+---
+
+## This Is Why People Suddenly Can’t Stop Drinking Electrolit
+
+date: 2025-01-15, from: Taste of Home
+
+<p>Bottles of pastel-hued Electrolit seem to have popped up everywhere overnight. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-is-electrolit/">This Is Why People Suddenly Can&#8217;t Stop Drinking Electrolit</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-is-electrolit/>
+
+---
+
+## Best Bolognese
+
+date: 2025-01-15, from: Bon Appetet
+
+It doesn’t take a lot of ingredients (or a lot of money) to make a classic Bolognese recipe. What it does take, though, is patience! 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/bas-best-bolognese>
+
+---
+
+## This Is Martha Stewart’s Secret Ingredient for the Best Pierogi
+
+date: 2025-01-15, from: Taste of Home
+
+<p>Martha's simple but genius pierogi tip is from her mother, Big Martha.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/martha-stewart-pierogi/">This Is Martha Stewart&#8217;s Secret Ingredient for the Best Pierogi</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/martha-stewart-pierogi/>
+
+---
+
+## The Best Drip Coffee Makers (2025), Reviewed by Our Experts
+
+date: 2025-01-15, from: Bon Appetet
+
+Coffee doesn’t need to be hard to be delicious. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-drip-coffee-makers>
+
+---
+
+## Here's What to Know About the FDA Ban on Red Dye 3
+
+date: 2025-01-15, from: Bon Appetet
+
+Consumer advocates have been pushing for a ban on the controversial additive for years. 
+
+<br> 
+
+<https://www.bonappetit.com/story/red-dye-3>
+
+---
+
+## Albondigas Soup
+
+date: 2025-01-15, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/albondigas-soup/"><img title="albondigas-soup-small-6" src="https://www.isabeleats.com/wp-content/uploads/2025/01/albondigas-soup-small-6-400x600.jpg" alt="Albondigas soup recipe made with juicy mexican meatballs made from beef, chorizo, and rice." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Albondigas soup is a classic Mexican meatball soup made with tender beef and chorizo meatballs simmered in a flavorful broth. It’s loaded with veggies like squash, potatoes, green beans, and carrots, and is perfect for when you’re craving something warm, satisfying, and comforting. Soup always makes me think of comfort. Growing up, if I was [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/albondigas-soup/>
+
+---
+
+## 27 Main-Dish Cheese Recipes for Dinner
+
+date: 2025-01-15, from: Bon Appetet
+
+Golden paneer stir-fried with green beans, creamy burrata and cabbage salad, and Halloumi meatballs with tomato sauce. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/cheese-recipes>
+
+---
+
+## Origami Pour-Over Review: The Best Option We Tried
+
+date: 2025-01-15, from: Taste of Home
+
+<p>The Origami Pour-Over won us over for its artful design and the flavorful cup of coffee it brewed.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/origami-pour-over-review/">Origami Pour-Over Review: The Best Option We Tried</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/origami-pour-over-review/>
+
+---
+
+## The Cheesecake Factory Just Released Its Recipe for Crab Wontons
+
+date: 2025-01-15, from: Taste of Home
+
+<p>This recipe for Cheesecake Factory crab wontons makes a delicious appetizer. Fill wonton wrappers with a creamy crab mix, fold into flowers and fry 'til golden.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/the-cheesecake-factory-crab-wontons/">The Cheesecake Factory Just Released Its Recipe for Crab Wontons</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/the-cheesecake-factory-crab-wontons/>
+
+---
+
+## Stanley Pour-Over Review: A Heavy-Duty Yet Lightweight Coffee Maker Built to Last
+
+date: 2025-01-15, from: Taste of Home
+
+<p>If you're a caffeine lover who dreams of the outdoors, this Stanley pour-over coffee maker is perfect for your next camping trip.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/stanley-pour-over-review/">Stanley Pour-Over Review: A Heavy-Duty Yet Lightweight Coffee Maker Built to Last</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/stanley-pour-over-review/>
+
+---
+
+## Matcha-Mango Chia Pudding
+
+date: 2025-01-15, from: Bon Appetet
+
+Featuring a bright layer of sweet mango, these colorful chia puddings are worth waking up early for. Make them ahead of time for a quick breakfast treat. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/matcha-mango-chia-pudding>
+
+---
+
+## This Coffee Maker Creates Water Out Of Thin Air
+
+date: 2025-01-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Never fill a water tank again. 
+
+<br> 
+
+<https://sprudge.com/this-coffee-maker-creates-water-out-of-thin-air-269546.html>
+
+---
+
+## 120 Cast-Iron Recipes for Winter
+
+date: 2025-01-15, from: Taste of Home
+
+<p>Winter is the time for your treasured vintage cast-iron skillet to shine. Our cozy recipe collection features cast-iron cooking at its best.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/winter-cast-iron-skillet-recipes/">120 Cast-Iron Recipes for Winter</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/winter-cast-iron-skillet-recipes/>
+
+---
+
+## Klatch Coffee Introduces Aphrodite No. 2 Coffee For Valentine’s Day
+
+date: 2025-01-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. It's the 2025 edition of Valentine’s Day favorite. 
+
+<br> 
+
+<https://sprudge.com/klatch-coffee-introduces-aphrodite-no-2-coffee-for-valentines-day-269615.html>
+
+---
+
+## I Need Freezer-Friendly Recipes
 
 date: 2025-01-15, from: Bon Appetet
 
@@ -18,6 +324,18 @@ On this episode of Dinner SOS, Chris and Hana help caller and first time mom Mar
 <br> 
 
 <https://www.bonappetit.com/story/i-need-freezer-friendly-recipes>
+
+---
+
+## Prima Coffee Equipment Opens Brick-and-Mortar Store in Louisville
+
+date: 2025-01-15, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Prima Coffee Equipment store 5" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Online coffee equipment seller Prima Coffee Equipment this month opened a brick-and-mortar store in its home city of Louisville, Kentucky, stocking it top to bottom with a wide selection of... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/15/prima-coffee-equipment-opens-brick-and-mortar-store-in-louisville/>
 
 ---
 
@@ -30,6 +348,30 @@ date: 2025-01-15, from: Taste of Home
 <br> 
 
 <https://www.tasteofhome.com/recipes/easy-spanish-coffee/>
+
+---
+
+## Coffee Holding Co. Sues Texas Broker Over Missing Coffee Shipment
+
+date: 2025-01-15, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights-620x414.jpg" class="attachment-large size-large wp-post-image" alt="truck lights" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>New York-based green coffee trading and roasting company Coffee Holding Co. filed a lawsuit accusing a Texas-based logistics broker of contract and negligence after a coffee shipment worth more than... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/15/coffee-holding-co-sues-texas-broker-over-missing-coffee-shipment/>
+
+---
+
+## Compass Coffee Co-Founder Sues Owners, Alleging Fraud
+
+date: 2025-01-15, from: Daily Coffee News
+
+<div><img width="620" height="409" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Compass_Coffee_Original_Location-1-620x409.jpg" class="attachment-large size-large wp-post-image" alt="Compass_Coffee_Original_Location" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Compass_Coffee_Original_Location-1-620x409.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Compass_Coffee_Original_Location-1-300x198.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Compass_Coffee_Original_Location-1-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Compass_Coffee_Original_Location-1-768x507.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Compass_Coffee_Original_Location-1.jpg 1080w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The co-founder of Washington D.C.-based specialty coffee chain Compass Coffee is accusing the company and two of its current owners of a multi-year fraud scheme, misuse of federal COVID-19 relief... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/15/compass-coffee-co-founder-sues-owners-alleging-fraud/>
 
 ---
 
@@ -169,7 +511,7 @@ Wood, rubber, or plastic—we’ve got a recommendation for every home cook. Plu
 
 date: 2025-01-14, from: Daily Coffee News
 
-<div><img width="620" height="423" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1-620x423.jpg" class="attachment-large size-large wp-post-image" alt="brazil coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1-620x423.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1-300x204.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1-768x523.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>[Note: This is Part 2 of a short series of stories by guest author Jonas Ferraresso exploring some of the intricacies of the Brazilian coffee market and Brazil’s outsize influence... 
+<div><img width="620" height="423" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1-620x423.jpg" class="attachment-large size-large wp-post-image" alt="brazil coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1-620x423.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1-300x204.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1-768x523.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/brazil-coffee-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>[Note: This is Part 2 of a short series of stories by guest author Jonas Ferraresso exploring some of the intricacies of the Brazilian coffee market and Brazil’s outsize influence... 
 
 <br> 
 
@@ -217,7 +559,7 @@ The rich and spicy stew, often regarded as Ethiopia’s national dish, is the pr
 
 date: 2025-01-14, from: Daily Coffee News
 
-<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod-620x415.jpg" class="attachment-large size-large wp-post-image" alt="Kara Pod" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Water, the stuff that typically accounts for more than 90% of any finished brew, is commanding increased attention in the coffee sphere. Yet one startup at the recent CES tech... 
+<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod-620x415.jpg" class="attachment-large size-large wp-post-image" alt="Kara Pod" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Kara-Pod.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Water, the stuff that typically accounts for more than 90% of any finished brew, is commanding increased attention in the coffee sphere. Yet one startup at the recent CES tech... 
 
 <br> 
 
@@ -243,7 +585,7 @@ date: 2025-01-14, from: Taste of Home
 
 date: 2025-01-14, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Citra Address Coffee 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new cafe and bar concept is making a permanent home in St. Augustine, Florida, with a multiroaster coffee program under the name Address Coffee leading the way by day.&#160;... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Citra Address Coffee 2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Citra-Address-Coffee-2.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A new cafe and bar concept is making a permanent home in St. Augustine, Florida, with a multiroaster coffee program under the name Address Coffee leading the way by day.&#160;... 
 
 <br> 
 

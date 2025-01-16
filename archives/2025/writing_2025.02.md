@@ -1,11 +1,94 @@
 ---
 title: writing
-updated: 2025-01-15 07:05:25
+updated: 2025-01-16 07:04:57
 ---
 
 # writing
 
-(date: 2025-01-15 07:05:25)
+(date: 2025-01-16 07:04:57)
+
+---
+
+## Scriptnotes, Episode 671: The Best/Worst it Will Ever Be, Transcript
+
+date: 2025-01-15, from: John August blog
+
+The original post for this episode can be found here. John August: Hello, and welcome. My name is John August. Craig Mazin: All right. Okay. My name is Craig Mazin. John: You’re listening to episode 671 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, it’s one [&#8230;]
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-671-the-best-worst-it-will-ever-be-transcript">Scriptnotes, Episode 671: The Best/Worst it Will Ever Be, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-671-the-best-worst-it-will-ever-be-transcript>
+
+---
+
+## Fantasy Magazine Relaunch
+
+date: 2025-01-15, from: Locus Magazine
+
+<p>Sean Markey has announced the relaunch of Fantasy Magazine, with the first issue scheduled to publish June 1, 2025. Fantasy will be joining sibling magazine The Deadlands under the Psychopomp publishing umbrella. Sean has named Arley Sorg and Shingai Njeri Kagunda as co-Editors-in-Chief.</p>
+<p>Fantasy Magazine will publish original short fiction, flash fiction, and poetry on a quarterly basis. Subscriptions will be available to support the magazine, which will also provide  <a href="https://locusmag.com/2025/01/fantasy-magazine-relaunch-2/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/fantasy-magazine-relaunch-2/>
+
+---
+
+## 🧱 Writer's Block
+
+date: 2025-01-15, from: Interesting, a blog on writing
+
+One name used for a few different problems. 
+
+<br> 
+
+<https://inneresting.substack.com/p/writers-block>
+
+---
+
+## 2025 Baen Fantasy Adventure Award Contest Opens Jan. 20
+
+date: 2025-01-15, from: Locus Magazine
+
+<p>The 2025 Baen Fantasy Adventure Award contest will open from January 20 through April 30, 2025. The contest is for short stories of no more than 8,000 words that depict adventure in any fantasy subgenre. Baen wants</p>
+<p style="padding-left: 40px;">Adventure fantasy with heroes you want to root for. Warriors either modern or medieval, who solve problems with their wits or with their weapons—and we have nothing against dragons, elves, dwarves, castles under  <a href="https://locusmag.com/2025/01/2025-baen-fantasy-adventure-award-contest-opens-jan-20/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/2025-baen-fantasy-adventure-award-contest-opens-jan-20/>
+
+---
+
+## Castle of the Cursed by Romina Garber: Review by Colleen Mondor
+
+date: 2025-01-15, from: Locus Magazine
+
+<p><strong>Castle of the Cursed</strong>, Romina Garber (Wednesday Books 978-1-250-86389-8, $21.00, 304pp, hc) July 2024.</p>
+<p>The cover of Romina Garber’s <strong>Castle of the Cursed </strong>includes the line “The House is Always Hungry,” and readers should consider that a fair comment on the story within. As soon as recently orphaned Estela arrives at what she has only recently learned is her family’s “ancestral Spanish castle,” the house plays a huge part  <a href="https://locusmag.com/2025/01/castle-of-the-cursed-by-romina-garber-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/castle-of-the-cursed-by-romina-garber-review-by-colleen-mondor/>
+
+---
+
+## People & Publishing Roundup, January 2025
+
+date: 2025-01-15, from: Locus Magazine
+
+<div></div>
+<div class="catheader"><strong>MILESTONES</strong></div>
+
+<p><strong>MARK W. TIEDEMANN </strong>is now represented by Vaughne Hansen of the Virginia Kidd Agency.</p>
+<div></div>
+<div class="catheader"><strong>AWARDS</strong></div>
+
+<p><strong>ESPAÑA SHERIFF </strong>is the win­ner of the 2024 Rotsler Award for “long-time wonder-working with graphic art in amateur publications of the science fiction community,’’ announced dur­ing Loscon 50, held November 29 – December 1, 2024 at the Marriott Los Angeles Airport Hotel in Los Angeles CA. The award was established in 1998 by the  <a href="https://locusmag.com/2025/01/people-publishing-roundup-january-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/people-publishing-roundup-january-2025/>
 
 ---
 

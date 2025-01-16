@@ -1,11 +1,345 @@
 ---
 title: home
-updated: 2025-01-15 07:05:26
+updated: 2025-01-16 07:04:58
 ---
 
 # home
 
-(date: 2025-01-15 07:05:26)
+(date: 2025-01-16 07:04:58)
+
+---
+
+## Everything I Bought to Make My Bed Feel Like a Cloud
+
+date: 2025-01-16, from: Dwell
+
+Upgrading from a queen to a king allowed me to create the softest, coziest sleeping space of my dreams. 
+
+<br> 
+
+<https://www.dwell.com/article/everything-i-bought-to-make-my-bed-feel-like-a-cloud-dee61ccb>
+
+---
+
+## Is Rawhide Bad for Dogs? What Every Pet Owner Needs to Know
+
+date: 2025-01-16, from: Yard Life blog
+
+<p>As a pet owner, it’s natural to want the best for your dog, and that includes their diet and treats. ... </p>
+<p class="read-more-container"><a title="Is Rawhide Bad for Dogs? What Every Pet Owner Needs to Know" class="read-more button" href="https://ownyardlife.com/is-rawhide-bad-for-dogs-what-every-pet-owner-needs-to-know/#more-22559" aria-label="Read more about Is Rawhide Bad for Dogs? What Every Pet Owner Needs to Know">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/is-rawhide-bad-for-dogs-what-every-pet-owner-needs-to-know/">Is Rawhide Bad for Dogs? What Every Pet Owner Needs to Know</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/is-rawhide-bad-for-dogs-what-every-pet-owner-needs-to-know/>
+
+---
+
+## Can Dogs Eat Sunflower Seeds? The Truth Behind This Treat
+
+date: 2025-01-16, from: Yard Life blog
+
+<p>As pet owners, we’re always looking for healthy treats to give our dogs, but we often wonder what’s safe and ... </p>
+<p class="read-more-container"><a title="Can Dogs Eat Sunflower Seeds? The Truth Behind This Treat" class="read-more button" href="https://ownyardlife.com/can-dogs-eat-sunflower-seeds-the-truth-behind-this-treat/#more-22554" aria-label="Read more about Can Dogs Eat Sunflower Seeds? The Truth Behind This Treat">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/can-dogs-eat-sunflower-seeds-the-truth-behind-this-treat/">Can Dogs Eat Sunflower Seeds? The Truth Behind This Treat</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/can-dogs-eat-sunflower-seeds-the-truth-behind-this-treat/>
+
+---
+
+## Can Dogs Eat Quinoa? A Complete Guide to Your Pet’s Health
+
+date: 2025-01-16, from: Yard Life blog
+
+<p>As pet owners, we always want to ensure that our furry friends receive the best nutrition possible. A growing trend ... </p>
+<p class="read-more-container"><a title="Can Dogs Eat Quinoa? A Complete Guide to Your Pet&#8217;s Health" class="read-more button" href="https://ownyardlife.com/can-dogs-eat-quinoa-a-complete-guide-to-your-pets-health/#more-22550" aria-label="Read more about Can Dogs Eat Quinoa? A Complete Guide to Your Pet&#8217;s Health">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/can-dogs-eat-quinoa-a-complete-guide-to-your-pets-health/">Can Dogs Eat Quinoa? A Complete Guide to Your Pet&#8217;s Health</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/can-dogs-eat-quinoa-a-complete-guide-to-your-pets-health/>
+
+---
+
+## Tibetan Mastiff: The King of Dogs
+
+date: 2025-01-16, from: Yard Life blog
+
+<p>The Tibetan Mastiff, often called the &#8220;King of Dogs,&#8221; is one of the most impressive and ancient dog breeds. Known ... </p>
+<p class="read-more-container"><a title="Tibetan Mastiff: The King of Dogs" class="read-more button" href="https://ownyardlife.com/tibetan-mastiff-the-king-of-dogs/#more-22547" aria-label="Read more about Tibetan Mastiff: The King of Dogs">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/tibetan-mastiff-the-king-of-dogs/">Tibetan Mastiff: The King of Dogs</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/tibetan-mastiff-the-king-of-dogs/>
+
+---
+
+## Discover the Best 15 Types of St. Augustine Grass for Your Lawn
+
+date: 2025-01-16, from: Yard Life blog
+
+<p>St. Augustine grass is a popular warm-season grass known for its lush green color and broad leaves. It thrives in ... </p>
+<p class="read-more-container"><a title="Discover the Best 15 Types of St. Augustine Grass for Your Lawn" class="read-more button" href="https://ownyardlife.com/discover-the-best-15-types-of-st-augustine-grass-for-your-lawn/#more-22539" aria-label="Read more about Discover the Best 15 Types of St. Augustine Grass for Your Lawn">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/discover-the-best-15-types-of-st-augustine-grass-for-your-lawn/">Discover the Best 15 Types of St. Augustine Grass for Your Lawn</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/discover-the-best-15-types-of-st-augustine-grass-for-your-lawn/>
+
+---
+
+## St. Augustine Grass Care and Growing Guide (Most Detailed)
+
+date: 2025-01-16, from: Yard Life blog
+
+<p>St. Augustine grass is a popular warm-season grass known for its lush, green appearance and its ability to thrive in ... </p>
+<p class="read-more-container"><a title="St. Augustine Grass Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/st-augustine-grass-care-and-growing-guide-most-detailed/#more-22534" aria-label="Read more about St. Augustine Grass Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/st-augustine-grass-care-and-growing-guide-most-detailed/">St. Augustine Grass Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/st-augustine-grass-care-and-growing-guide-most-detailed/>
+
+---
+
+## How to Plant and Grow Ghost Peppers
+
+date: 2025-01-16, from: The Gardener's Path
+
+<p>Do you like hot peppers? If you can stand the heat, why not try growing ghost peppers? Once thought to be the hottest pepper in the world, the bhut jolokia packs an almighty punch of flavor and adds sizzling heat to a variety of dishes. Learn how to plant and grow ghost peppers with these top tips. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-ghost-peppers/">How to Plant and Grow Ghost Peppers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-ghost-peppers/>
+
+---
+
+## 18 Types of Primrose Flowers with Pictures and Names
+
+date: 2025-01-16, from: Yard Life blog
+
+<p>Primrose flowers belong to the genus Primula, with over 400 species, making them a versatile and beloved group in gardens ... </p>
+<p class="read-more-container"><a title="18 Types of Primrose Flowers with Pictures and Names" class="read-more button" href="https://ownyardlife.com/18-types-of-primrose-flowers-with-pictures-and-names/#more-22511" aria-label="Read more about 18 Types of Primrose Flowers with Pictures and Names">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/18-types-of-primrose-flowers-with-pictures-and-names/">18 Types of Primrose Flowers with Pictures and Names</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/18-types-of-primrose-flowers-with-pictures-and-names/>
+
+---
+
+## Learn How to Grow Tomatoes From Seed
+
+date: 2025-01-16, from: The Gardener's Path
+
+<p>Want to grow tomatoes from seed? It’s easy to start these delicious summer vegetables from the comfort of home, and then transplant them to your garden. We explain when to start and what you’ll need, with step by step instructions. Learn how to start your own seeds and harvest a bumper crop of juicy ripe tomatoes now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-tomatoes-from-seeds/">Learn How to Grow Tomatoes From Seed</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-tomatoes-from-seeds/>
+
+---
+
+## Primrose (Primula vulgaris) Care and Growing Guide
+
+date: 2025-01-16, from: Yard Life blog
+
+<p>Primrose, scientifically known as Primula vulgaris, is one of the most beloved flowering plants, admired for its vibrant and cheerful ... </p>
+<p class="read-more-container"><a title="Primrose (Primula vulgaris) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/primrose-primula-vulgaris-care-and-growing-guide/#more-22506" aria-label="Read more about Primrose (Primula vulgaris) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/primrose-primula-vulgaris-care-and-growing-guide/">Primrose (Primula vulgaris) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/primrose-primula-vulgaris-care-and-growing-guide/>
+
+---
+
+## From Soil to Superfood: A Visit to a Mushroom Farm
+
+date: 2025-01-15, from: California Grown
+
+<p>Let’s visit Gourmet Mushrooms, a Sonoma County mushroom farm, to learn more about specialty mushrooms and how they’re grown! If you keep up with health and wellness trends, you’ve undoubtedly realized that mushrooms are having a moment. Think back to cauliflower, circa 2018. People were obsessed with cauliflower’s versatility, using it for literally everything from [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/mushroom-farm/" data-wpel-link="internal" target="_self">From Soil to Superfood: A Visit to a Mushroom Farm</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/mushroom-farm/>
+
+---
+
+## Discover the Culinary Farm at Long Meadow Ranch
+
+date: 2025-01-15, from: California Grown
+
+<p>Long Meadow Ranch isn’t just a winery &#8211; it’s also Napa’s largest producer of fruits + vegetables. Let’s explore the culinary farm at Long Meadow Ranch.&#160; A little over 20 years ago, young Chris and Timmy Hall planted a small organic vegetable garden on their parents’ property, Long Meadow Ranch. The brothers spent countless hours [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/long-meadow-ranch/" data-wpel-link="internal" target="_self">Discover the Culinary Farm at Long Meadow Ranch</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/long-meadow-ranch/>
+
+---
+
+## Eliminating Smoke Smell After a Fire: A Guide
+
+date: 2025-01-15, from: Family Handyman Blog
+
+<p>That smoke smell is not just annoying, it's dangerous to your health. Here's how to get rid of it, from HVAC systems to carpets and books.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/get-fire-smoke-smell-out-of-house/">Eliminating Smoke Smell After a Fire: A Guide</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/get-fire-smoke-smell-out-of-house/>
+
+---
+
+## Why Do Tires Have Those Little Hairs?
+
+date: 2025-01-15, from: Family Handyman Blog
+
+<p>Hairs on a tire are a byproduct of the manufacturing process. They are a good thing, because they mean the tire isn't worn out.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/what-are-the-hairs-on-tires/">Why Do Tires Have Those Little Hairs?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/what-are-the-hairs-on-tires/>
+
+---
+
+## The Right Way to Clean Your Dyson Vacuum Filter
+
+date: 2025-01-15, from: Family Handyman Blog
+
+<p>To prevent suction power problems, learn how to clean Dyson vacuum filters with this expert-approved guide.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-clean-dyson-vacuum-filter/">The Right Way to Clean Your Dyson Vacuum Filter</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-clean-dyson-vacuum-filter/>
+
+---
+
+## Farmstead Restaurant Redefines the Concept of Farm-to-Table
+
+date: 2025-01-15, from: California Grown
+
+<p>Napa’s Farmstead Restaurant isn’t your typical farm-to-table restaurant.&#160; Here in California, we’re fortunate to have a growing number of restaurants that highlight the Golden State’s bounty. Many of these establishments work closely with several farmers or source their produce from local farmers markets &#8211; but how many restaurants have their own culinary farm, where the [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/farmstead-restaurant/" data-wpel-link="internal" target="_self">Farmstead Restaurant Redefines the Concept of Farm-to-Table</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/farmstead-restaurant/>
+
+---
+
+## Before & After: A Falling-Down Farmhouse Gets a Second Chance, Against All Odds
+
+date: 2025-01-15, from: Dwell
+
+Anyone else would’ve torn it down. Not the Hardwidges. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-barlow-lane-farmhouse-renovation-fritz-architecture-sebastopol-2dd2a23e>
+
+---
+
+## Dramatic Angles Define This $5M Marcel Sedletzky Home Near Carmel
+
+date: 2025-01-15, from: Dwell
+
+Listed for the first time, the 1971 gem has a monolithic fireplace, stained glass windows, and a steeply pitched roofline. 
+
+<br> 
+
+<https://www.dwell.com/article/dramatic-angles-define-this-dollar5m-marcel-sedletzky-home-near-carmel-8382507b>
+
+---
+
+## Decoding Your Car’s AC, Button by Button
+
+date: 2025-01-15, from: Family Handyman Blog
+
+<p>Whether you need to physically push your car AC buttons, twist a knob, or touch a video screen, gone are the days of when cars came with just a heater...</p>
+<p>The post <a href="https://www.familyhandyman.com/list/car-ac-buttons/">Decoding Your Car’s AC, Button by Button</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/car-ac-buttons/>
+
+---
+
+## This App Could Save Your Life in An Emergency
+
+date: 2025-01-15, from: Sunset Magazine - Living in the West
+
+Watch Duty is a non-profit app that's become an essential tool during the LA wildfires. It is based in Sonoma, which also faced tragic fires. 
+
+<br> 
+
+<https://www.sunset.com/travel/watch-duty-app-john-mills-interview>
+
+---
+
+## The Final Piece in This Live/Work Loft in Italy? A 3D-Printed Lego Figurine in the Ceiling
+
+date: 2025-01-15, from: Dwell
+
+The subtle stucco detail added to the former palace hall reflects the clients’ sense of humor, say the architects, while keeping with the space’s past. 
+
+<br> 
+
+<https://www.dwell.com/article/tiny-grandeur-llabb-renovated-loft-75839de5>
+
+---
+
+## 11 Must-Have Supplies for Starting Seeds
+
+date: 2025-01-15, from: The Gardener's Path
+
+<p>Are you planning to grow seed starts for a vegetable garden or flower border? Seeds are an obvious requirement, but there are a number of other supplies you’ll need as well, like potting medium and containers. Have a look at our checklist of 11 supplies you need for starting seeds here. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/seed-starting-supplies/">11 Must-Have Supplies for Starting Seeds</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/seed-starting-supplies/>
+
+---
+
+## Watch Families Transform Their Homes on ‘Scott’s House Call’ – Only on At Home With Family Handyman
+
+date: 2025-01-15, from: Family Handyman Blog
+
+<p>If you're looking for a new favorite show to watch, or some inspiration for your next DIY project, Scott's House Call is here for you. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/scotts-house-call-at-home-with-family-handyman/">Watch Families Transform Their Homes on &#8216;Scott&#8217;s House Call&#8217; &#8211; Only on At Home With Family Handyman</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/scotts-house-call-at-home-with-family-handyman/>
 
 ---
 
@@ -18,6 +352,30 @@ date: 2025-01-15, from: Dwell
 <br> 
 
 <https://www.dwell.com/article/how-they-pulled-it-off-making-the-bedroom-in-this-berlin-loft-float-97c75686>
+
+---
+
+## Here’s Exactly What You Should Pack in Your Go-Bag (Plus Where to Buy It)
+
+date: 2025-01-15, from: Sunset Magazine - Living in the West
+
+With emergency preparedness being top of mind due ot the Palisades and Eaton Fires, here's how to pack a go-bag survival kit. 
+
+<br> 
+
+<https://www.sunset.com/travel/what-to-pack-in-a-go-bag-emergency>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-01-15, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -107,18 +465,6 @@ The Palm Springs house where newlyweds Elvis and Priscilla Presley honeymooned i
 
 ---
 
-## Here’s Exactly What You Should Pack in Your Go-Bag (Plus Where to Buy It)
-
-date: 2025-01-14, from: Sunset Magazine - Living in the West
-
-With emergency preparedness being top of mind due ot the Palisades and Eaton Fires, here's how to pack a go-bag survival kit. 
-
-<br> 
-
-<https://www.sunset.com/travel/what-to-pack-in-a-go-bag-emergency>
-
----
-
 ## These Historic Homes and Buildings Were Destroyed in the L.A. Wildfires
 
 date: 2025-01-14, from: Sunset Magazine - Living in the West
@@ -128,6 +474,18 @@ The devastating L.A. wildfires have destroyed thousands of homes, schools, busin
 <br> 
 
 <https://www.sunset.com/home-garden/historic-la-homes-wildfires>
+
+---
+
+## Inside a Cozy, Secluded Cabin in Washington That Blends Rustic and Modern So Well
+
+date: 2025-01-14, from: Sunset Magazine - Living in the West
+
+An outdoorsman and native plant enthusiast dreamed of a home that was reminiscent of valley cabins and farmsteads. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/methow-valley-washington-cabin>
 
 ---
 
@@ -385,18 +743,6 @@ Disney California Adventure is bringing back Soarin' Over California for a limit
 <br> 
 
 <https://www.sunset.com/travel/disney-soarin-over-california-ride-return>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-01-14, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

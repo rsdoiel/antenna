@@ -1,11 +1,203 @@
 ---
 title: columns
-updated: 2025-01-15 07:05:25
+updated: 2025-01-16 07:04:56
 ---
 
 # columns
 
-(date: 2025-01-15 07:05:25)
+(date: 2025-01-16 07:04:56)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-16, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/12/06/dorothy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">When I buy a domain speculatively, I usually put up some kind of <a href="https://imgs.scripting.com/2025/01/16/placeholderScreenshot.png">placeholder page</a> with a title, picture and tagline. Like <a href="https://feediverse.org/">feediverse.org</a>. I pushed a link to it yesterday, and got back this possibly snarky response, but still thought provoking. Why isn't there a feed for the feediverse.org page. Good point! So if you were to put a feed on the home page of the open feediverse, what it be? A feed of posts to the <a href="https://bsky.app/profile/feediverse.bsky.social">Little Feed Reader</a> account on Bluesky. I think that might be it. We can celebrate the day when that feed is mirrored on Bluesky (Inbound RSS ftw!) and we can shut down the stupid app that does the bridging. We had a <a href="https://cyber.harvard.edu/rss/rss.html">standard</a> long before Bluesky came along, isn't it wrong for them to try to force everyone to use their reinvention? It doesn't say anything good about the people who made that choice, among interop-minded developers. It kind of violates our ethos imho. 
+
+<br> 
+
+<http://scripting.com/2025/01/16.html#a142933>
+
+---
+
+## Debian 12.9 arrives, quickly followed by MX Linux 23.5
+
+date: 2025-01-16, updated: 2025-01-16, from: Liam Proven's articles at the Register
+
+<h4>The eighth point-release of Bookworm – yes, you read that right – and the latest MX with new Xfce</h4>
+      <p>Debian 12.9 - the latest point-release of Debian &#34;Bookworm&#34; - emerged at the weekend and coming hot on its heels is one of the more interesting downstreams, MX Linux 23.5.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/01/16/debian_12_9_mx_12_5/>
+
+---
+
+## FBI Deletes PlugX Malware from Thousands of Computers
+
+date: 2025-01-16, updated: 2025-01-16, from: Bruce Schneier blog
+
+<p>According to a DOJ <a href="https://www.justice.gov/opa/pr/justice-department-and-fbi-conduct-international-operation-delete-malware-used-china-backed">press release</a>, the FBI was able to delete the Chinese-used PlugX malware from &#8220;approximately 4,258 U.S.-based computers and networks.&#8221;</p>
+<p><a href="https://gizmodo.com/the-fbi-says-it-made-malware-delete-itself-from-americans-computers-2000550046">Details</a>:</p>
+<blockquote><p>To retrieve information from and send commands to the hacked machines, the malware connects to a command-and-control server that is operated by the hacking group. <a href="https://www.justice.gov/opa/media/1384136/dl">According to the FBI</a>, at least 45,000 IP addresses in the US had back-and-forths with the command-and-control server since September 2023.</p>
+<p>It was that very server that allowed the FBI to finally kill this pesky bit of malicious software. First, they tapped the know-how of French intelligence agencies, which had ...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/01/fbi-deletes-plugx-malware-from-thousands-of-computers.html>
+
+---
+
+## How we get rid of the American oligarchy
+
+date: 2025-01-16, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-oligarchy-will-decide-what-truth>
+
+---
+
+## January 15, 2025 
+
+date: 2025-01-16, from: Heather Cox Richardson blog
+
+It is somehow fitting that President Joe Biden&#8217;s farewell address to the nation, scheduled for 8:00 Eastern time tonight, was overshadowed today by the dramatic announcement that after months of negotiation backed by the United States and facilitated by Egyptian and Qatari mediators, negotiators from Israel and Hamas have agreed to a ceasefire and to exchange Israeli hostages taken on October 7, 2023, for hundreds of Palestinian prisoners. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-15-2025>
+
+---
+
+## Blog Questions Challenge
+
+date: 2025-01-16, from: Tracy Durnell Blog
+
+Reilly shared this blog tag game and Dom tagged me so I&#8217;ll join in! 1. Why did you make this blog in the first place? My domain had sat stagnant as a hand-coded HTML site for many years as I had it in my head that I needed to design websites from scratch, and I [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/15/blog-questions-challenge/>
+
+---
+
+## ‘Twenty Years of Kraft’
+
+date: 2025-01-15, updated: 2025-01-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://fieldnotesbrand.com/dispatches/twenty-years-of-kraft>
+
+---
+
+## Bloomberg: Tim Cook Plans to Attend Trump’s Inauguration
+
+date: 2025-01-15, updated: 2025-01-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.bloomberg.com/news/articles/2025-01-15/apple-s-tim-cook-plans-to-join-other-ceos-at-trump-inauguration>
+
+---
+
+## Apple Pulled a Fun In-Character Promo Stunt for ‘Severance’ Yesterday at Grand Central Terminal
+
+date: 2025-01-15, updated: 2025-01-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/01/14/apple-severance-season-2-promo/>
+
+---
+
+## ‘TikTok Is Just the Beginning’
+
+date: 2025-01-15, updated: 2025-01-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.noahpinion.blog/p/tiktok-is-just-the-beginning>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-15, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2017/07/21/trumpHead.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Sad to say I'm going to have to mention Trump from time to time. When I hear a reporter wondering what to make of his thing about all those friendly countries he wants to go to war with, here's what it means. He's <a href="http://this.how/trolls/">trolling</a> you. Haven't you figured that out by now. Just by mentioning the weird thing he's talking about as if it were some kind of puzzle, a brilliant chess move, etc blah blah zzzz. It's trolling. Stop falling for it. If it's Trump-initiated nonsense, don't report it. You. Are. Being. Trolled. Asshole. All he wants is attention. Always. No exceptions. 
+
+<br> 
+
+<http://scripting.com/2025/01/15.html#a185705>
+
+---
+
+## Top 10 ways to monitor Linux in the console
+
+date: 2025-01-15, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Top 10 ways to monitor Linux in the console</span>
+
+            <p></p>
+
+<p><code>top</code> (pictured <em>below</em>... above is <a href="#btop">btop</a>) is the first utility everyone recommends to monitor Linux (or any form of UNIX, including macOS) resource usage. It's efficient, available almost everywhere... but it's also a bit basic. It shows essential metrics, but looks like it's from the 80s. There are ways to brighten it up, like highlighting active processes or changing color schemes, but it's not the only game in town!</p>
+
+<p></p>
+
+<p>Nowadays, there are a <em>lot</em> of modern monitoring tools—and some not so modern, but immensely useful—to choose from. This blog post will run through some of the ones I rely on most often. Let me know in the comments if you use any others I didn't cover!</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">January 15, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/top-10-ways-monitor-linux-console>
+
+---
+
+## January 14, 2025
+
+date: 2025-01-15, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154899183/5bb0d56f5b2785093fa8825554c673c3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154899183/5bb0d56f5b2785093fa8825554c673c3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-14-2025-3e0>
+
+---
+
+## Learning HTML is the best investment I ever did
+
+date: 2025-01-15, from: Chris Heilmann's blog
+
+One of the running jokes and/or discussion I am sick and tired of is people belittling HTML. Yes, HTML is not a programming language. No, HTML should not just be a compilation target. Learning HTML is a solid investment and not hard to do. I am not alone in this, Wired had a piece on [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2025/01/15/learning-html-is-the-best-investment-i-ever-did/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-15, from: Dave Winer's Scripting News)
+
+Matt Mullenweg <a href="https://x.com/photomatt/status/1878809636750721323">said</a> something provocative on Twitter two days ago that I'm just tuning into now. "The lawsuits will go years and could potentially bankrupt me or force the closure of WordPress.org." I <a href="https://x.com/davewiner/status/1879556640455712964">commented</a> on it as a developer who views WordPress as a platform. 
+
+<br> 
+
+<http://scripting.com/2025/01/15.html#a155411>
 
 ---
 
@@ -13,10 +205,11 @@ updated: 2025-01-15 07:05:25
 
 date: 2025-01-15, from: Dave Winer's Scripting News
 
-<p>Daytona is the search engine for Scripting News.  </p>
+<p><a href="https://daytona.scripting.com/search?q=berkeley">Daytona</a> is the search engine for Scripting News.  </p>
 <p>I've wanted to do a rewrite for quite some time, there were a lot of decisions I wanted to redo, and I've learned a lot about databases in the <a href="http://scripting.com/2021/12/">three years</a> since the first release.</p>
 <p>You can <a href="https://daytona.scripting.com/">try it out</a>. There are <a href="https://this.how/daytona/">docs</a>, and a <a href="https://github.com/scripting/Scripting-News/issues/317">place</a> for questions and comments. The usual caveats apply, esp since it's newly deployed, quickly.</p>
 <p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/01/15/newDaytonaScreenshot.png"></center>Screen shot of the new Daytona.</div></p>
+<p>PS: A list of <a href="https://github.com/scripting/Scripting-News/issues/317#issuecomment-2593188990">problems</a> I will investigate.</p>
  
 
 <br> 
@@ -27,7 +220,7 @@ date: 2025-01-15, from: Dave Winer's Scripting News
 
 **@Dave Winer's Scripting News** (date: 2025-01-15, from: Dave Winer's Scripting News)
 
-The <a href="https://feediverse.org/">feediverse</a> is not a joke. It's deployed, scaled, widely supported, far beyond AT Proto or ActivityPub. It's the HTML of the social web. And where the others are complicated, feeds are, wait for it, really simple. 😀 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/07/02/validRss.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The <a href="https://feediverse.org/">feediverse</a> is not a joke. It's deployed, scaled, widely supported, far beyond AT Proto or ActivityPub. It's the HTML of the open social web. And where the others are complicated, feeds are really simple. 
 
 <br> 
 
@@ -60,7 +253,7 @@ date: 2025-01-15, updated: 2025-01-14, from: Bruce Schneier blog
 
 ---
 
-## Office Hours: The biggest long-term effect of LA's dystopian nightmare?
+## Office Hours: The biggest long-term effect of LA’s dystopian nightmare?
 
 date: 2025-01-15, from: Robert Reich's blog
 
@@ -155,7 +348,7 @@ date: 2025-01-15, from: Dave Rupert blog
 
 ## Breakfast With Pete Hegseth
 
-date: 2025-01-15, updated: 2025-01-15, from: Daring Fireball
+date: 2025-01-15, updated: 2025-01-16, from: Daring Fireball
 
  
 
@@ -319,7 +512,7 @@ how about y'all shut the fuck up https://heathercoxrichardson.substack.com/p/jan
 
 date: 2025-01-14, from: Doc Searls (at Harvard), New Old Blog
 
-Nineteenth in the News Commons series. Facts don’t matter, or they matter much less than people think—Daniel Kahnemann Facts don’t matter. What matters is how much we hate the person talking—Scott Adams But facts do matter when life and death are on the line. Or when one is recovering from a life-changing situation. To help [&#8230;] 
+Twenty-second in the News Commons series. Facts don’t matter, or they matter much less than people think—Daniel Kahnemann Facts don’t matter. What matters is how much we hate the person talking—Scott Adams But facts do matter when life and death are on the line. Or when one is recovering from a life-changing situation. To help [&#8230;] 
 
 <br> 
 

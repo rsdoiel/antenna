@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-01-15 07:05:26
+updated: 2025-01-16 07:04:58
 ---
 
 # retro computing
 
-(date: 2025-01-15 07:05:26)
+(date: 2025-01-16 07:04:58)
+
+---
+
+## b.log 2025/01/15 - God says Hi.
+
+date: 2025-01-15, from: Richard Murray's blog
+
+God says Hi. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250115>
 
 ---
 
@@ -61,7 +73,7 @@ date: 2025-01-14, from: Linux Magazine
 
 date: 2025-01-14, from: Hans Otten's Retro blog
 
-The longawaited successor of the PAL-1, the PAL-2 is on sale now. https://www.tindie.com/products/kim1/pal-2-a-mos-6502-powered-computer-kit/ See also:Focal-65 V3D for TIM and KIM-1Focal on the 6502, a page on this small language, originating for Digital Equipment. A small interpreter (about 5K) for...John Bell Engineering catalogsThanks to Dallas Shell I have added the 1984 and 1988 catalog to the [&#8230;] 
+The longawaited successor of the PAL-1, the PAL-2 is on sale now. https://www.tindie.com/products/kim1/pal-2-a-mos-6502-powered-computer-kit/ My first look at the PAL-2 is here. See also:Focal-65 V3D for TIM and KIM-1Focal on the 6502, a page on this small language, originating for Digital Equipment. A small interpreter (about 5K) for...John Bell Engineering catalogsThanks to Dallas Shell I have [&#8230;] 
 
 <br> 
 

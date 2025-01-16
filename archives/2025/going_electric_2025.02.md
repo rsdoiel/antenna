@@ -1,11 +1,473 @@
 ---
 title: going electric
-updated: 2025-01-15 07:05:27
+updated: 2025-01-16 07:04:58
 ---
 
 # going electric
 
-(date: 2025-01-15 07:05:27)
+(date: 2025-01-16 07:04:58)
+
+---
+
+## Don't Try To Vandalize ChargePoint's New Cables
+
+date: 2025-01-16, from: Inside EVs News
+
+The U.S.-based charging giant's new cables are designed to prevent charging cable theft and vandalism—and even have alarms. 
+
+<br> 
+
+<https://insideevs.com/news/747549/chargepoint-anti-vandalism-cable/>
+
+---
+
+## Oregon law seeks to ban many street-legal electric bicycles from bike lanes
+
+date: 2025-01-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/bike-lane-header-AI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A new bill submitted to the Oregon Legislative Assembly seeks to ban street-legal Class 3 electric bicycles from bike lanes in the state.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="398021" href="https://electrek.co/2025/01/16/oregon-law-seeks-to-ban-many-street-legal-electric-bicycles-from-bike-lanes/#more-398021" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/16/oregon-law-seeks-to-ban-many-street-legal-electric-bicycles-from-bike-lanes/>
+
+---
+
+## Polestar expects profits in 2025 with 5 GT launch, confirms Polestar 7 will be an entry level compact SUV
+
+date: 2025-01-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Polestar-7-5-2025.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Swedish and Chinese EV automaker <a href="https://electrek.co/guides/polestar/">Polestar</a> has shared an updated business strategy, looking to 2025 and beyond as its next chapter in growth. Per the release detailed below, Polestar is expecting increased sales volume, especially as its long-promised Polestar 5 GT is set to launch this year. Additionally, the automaker confirmed its Polestar 7 model will be a compact SUV and its most affordable BEV to date.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="polestar,polestar-5,polestar-7" data-layer-viewtype="unknown" data-post-id="398023" href="https://electrek.co/2025/01/16/polestar-expects-profits-2025-confirms-polestar-7-entry-level-compact-suv/#more-398023" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/16/polestar-expects-profits-2025-confirms-polestar-7-entry-level-compact-suv/>
+
+---
+
+## 24 EVs Were Driven In Freezing Weather Until They Died. One Car Stood Out
+
+date: 2025-01-16, from: Inside EVs News
+
+Norwegian journalists wanted to see the difference between the advertised range and the real-world range. Tesla was not at the top. 
+
+<br> 
+
+<https://insideevs.com/news/747548/ev-winter-range-test-norway-2025/>
+
+---
+
+## Elon Musk, Who Wants To End EV Subsidies, Is Mad Tesla Was Denied Subsidies
+
+date: 2025-01-16, from: Inside EVs News
+
+Plus, Trump's Department of Transportation pick wants EVs to pay their fair share, and America's dealer lobby targets direct sales. 
+
+<br> 
+
+<https://insideevs.com/news/747475/tesla-denied-charger-subsidies-musk/>
+
+---
+
+## ChargePoint introduces two measures to battle EV charger theft and vandalization [Video]
+
+date: 2025-01-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/EV-charger-theft-cutter-ChargePoint.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Multi-continental EV charging network <a href="https://electrek.co/guides/chargepoint/">ChargePoint</a> has introduced two new solutions to combat a looming threat for electric vehicle owners using public charging stations: vandalism and theft. Today, ChargePoint shared details of a new cut-resistant EV charging cable and a new alarm system to increase security and deter theft near the pile. You can see more in the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chargepoint,ev-chargers,ev-charging,ev-charging-stations" data-layer-viewtype="unknown" data-post-id="397680" href="https://electrek.co/2025/01/16/chargepoint-introduces-two-measure-battle-ev-charger-theft-vandalization-video/#more-397680" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/16/chargepoint-introduces-two-measure-battle-ev-charger-theft-vandalization-video/>
+
+---
+
+## LiveWire Alpinista unveiled as newest electric motorcycle from Harley offshoot
+
+date: 2025-01-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/livewire-s2-alpinista-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.livewire.com/">LiveWire</a>, the electric motorcycle brand spun out of Harley-Davidson, has just announced its latest electric motorcycle model. The new LiveWire S2 Alpanista is built on the same platform as the brand’s last two models, leveraging the Arrow platform as a versatile foundation for several diverse bikes.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle,livewire" data-layer-viewtype="unknown" data-post-id="398008" href="https://electrek.co/2025/01/16/livewire-alpanista-unveiled-as-newest-electric-motorcycle-from-harley-offshoot/#more-398008" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/16/livewire-alpanista-unveiled-as-newest-electric-motorcycle-from-harley-offshoot/>
+
+---
+
+## Rivian’s Van Outsold The Ford E-Transit And Mercedes-Benz eSprinter Combined
+
+date: 2025-01-16, from: Inside EVs News
+
+Rivian, which is still considered a startup, was the largest manufacturer of electric vans in the U.S. last year. 
+
+<br> 
+
+<https://insideevs.com/news/747497/rivian-van-outsold-ford-etransit-mercedes-esprinter-2024/>
+
+---
+
+## Biden’s $635M good-bye, Trump’s DOT pick will investigate Tesla, and a look ahead
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/EV-tax-credit-2025.jpg?quality=82&#038;strip=all&#038;w=1244" /></div><p>On today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em> we explore the uncertainty around the future of EV incentives, the roles different stakeholders will play in shaping that future, and our friend Stacy Noblet from energy consulting firm ICF stops by to share her take on what lies ahead.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-incentives,president-biden,president-trump,quick-charge" data-layer-viewtype="unknown" data-post-id="397995" href="https://electrek.co/2025/01/15/bidens-635m-good-bye-trumps-dot-pick-will-investigate-tesla-and-a-look-ahead/#more-397995" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/bidens-635m-good-bye-trumps-dot-pick-will-investigate-tesla-and-a-look-ahead/>
+
+---
+
+## In December, EV sales were still up and incentives were still sweet – Kelley Blue Book
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/35000-Chevy-Equinox-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>EV sales kept up their momentum in December 2024, with incentives playing a big role, according to the latest Cox Automotive’s Kelley Blue Book report.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,evs,inflation-reduction-act,kelley-blue-book,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="397964" href="https://electrek.co/2025/01/15/december-2024-ev-sales-kelley-blue-book/#more-397964" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/december-2024-ev-sales-kelley-blue-book/>
+
+---
+
+## Tesla claims Cybertruck is ‘best-selling electric pickup’ without even confiming sales
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Tesla-Cybertruck-Sain-gold-wrap.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is now claiming that Cybertruck was the ‘best-selling electric pickup in US’ last year despite not even reporting the number of deliveries.</p>
+
+
+
+<p>There’s a lot of context needed here.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="397957" href="https://electrek.co/2025/01/15/tesla-claims-cybertruck-is-best-selling-electric-pickup-without-even-confiming-sales/#more-397957" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/tesla-claims-cybertruck-is-best-selling-electric-pickup-without-even-confiming-sales/>
+
+---
+
+## Kia’s Tesla Supercharger access is late, but some owners found a way to charge
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Kia-NACS-Hyundai-Tesla.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Today was supposed to be the day that Kia owners gain access to Tesla’s Supercharger network, but on Monday the brand announced that <a href="https://electrek.co/2025/01/13/kia-access-to-tesla-superchargers-delayed-had-been-expected-this-week/">access would be delayed until spring</a>. However, some owners have figured out a way to charge on Superchargers already.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,north-american-charging-standard-nacs" data-layer-viewtype="unknown" data-post-id="397956" href="https://electrek.co/2025/01/15/kias-tesla-supercharger-access-is-late-but-some-owners-found-a-way-to-charge/#more-397956" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/kias-tesla-supercharger-access-is-late-but-some-owners-found-a-way-to-charge/>
+
+---
+
+## Tesla stalk deletion
+
+date: 2025-01-15, from: Electrek Feed
+
+ 
+
+<br> 
+
+<https://electrek.co/poll-post/tesla-stalk-deletion/>
+
+---
+
+## Check out Range Rover’s mid-size electric SUV spotted with a stylish new look [Images]
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Range-Rovers-mid-size-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With its official debut coming up, <a href="https://electrek.co/guides/range-rover/">Range Rover’s</a> upcoming mid-size electric SUV was caught rocking a sleek new design. The smaller Range Rover EV is shaping up to be a potential challenger to the Porsche Macan Electric. Check out the latest images below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="range-rover,range-rover-electric" data-layer-viewtype="unknown" data-post-id="397954" href="https://electrek.co/2025/01/15/range-rovers-new-mid-size-electric-suv-looks-stylish-images/#more-397954" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/range-rovers-new-mid-size-electric-suv-looks-stylish-images/>
+
+---
+
+## Tesla Supercharger access coming to Honda and Acura in spring, says Honda
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Hondas-Prologue-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Honda and Acura EVs will gain access to Tesla’s Supercharger network this coming spring, according to Honda – though the brands are still missing from Tesla’s “coming soon” page.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda,north-american-charging-standard-nacs" data-layer-viewtype="unknown" data-post-id="397952" href="https://electrek.co/2025/01/15/tesla-supercharger-access-coming-to-honda-and-acura-in-spring-says-honda/#more-397952" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/tesla-supercharger-access-coming-to-honda-and-acura-in-spring-says-honda/>
+
+---
+
+## Rivian (RIVN) EDV topped Ford to become America’s best-selling electric van in 2024
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Rivian-EDV-production-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rivian (RIVN) had the best-selling electric van in the US last year, topping Ford for the title. The electric delivery van (EDV) is rolling out across the US through its partnership with Amazon, but <a href="https://electrek.co/guides/rivian/">Rivian</a> is expanding with new customers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,rivian,rivian-electric-van" data-layer-viewtype="unknown" data-post-id="397937" href="https://electrek.co/2025/01/15/rivian-rivn-outpaced-ford-americas-best-selling-electric-van/#more-397937" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/rivian-rivn-outpaced-ford-americas-best-selling-electric-van/>
+
+---
+
+## Chrysler Has Paused Its Electric Crossover Development Program
+
+date: 2025-01-15, from: Inside EVs News
+
+According to a memo sent to suppliers, work on the new EV is “on hold until further notice.” 
+
+<br> 
+
+<https://insideevs.com/news/747451/chrysler-electric-crossover-development-paused/>
+
+---
+
+## Ultra-compact electric truck startup TELO partners with Aptera to integrate solar tech
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Aptera-solar-truck-TELO.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A young EV startup called TELO Trucks has announced a partnership with solar EV developer Aptera to utilize the latter’s sustainable technology on its flagship vehicle, the MT1 compact pickup. Customers who pre-order a TELO electric truck will be able to choose from three <a href="https://electrek.co/guides/aptera/">Aptera</a> solar panel configurations, helping boost the vehicle’s range while reducing grid dependency—as long as these BEVs get made.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aptera,electric-trucks,solar-electric-vehicles,telo-mt1,telo-trucks" data-layer-viewtype="unknown" data-post-id="397930" href="https://electrek.co/2025/01/15/compact-electric-truck-startup-telo-partners-aptera-integrate-solar-tech/#more-397930" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/compact-electric-truck-startup-telo-partners-aptera-integrate-solar-tech/>
+
+---
+
+## Solar farms generating 724 MW in Oklahoma will power Google AI
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Leeward-Renewable-Energy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A group of Oklahoma solar farms collectively generating a whopping 724 megawatts (MW) will power Google’s data center operations and artificial intelligence (AI) with long-term power purchase agreements.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,google,solar,oklahoma,solar-power" data-layer-viewtype="unknown" data-post-id="397896" href="https://electrek.co/2025/01/15/solar-farms-oklahoma-google/#more-397896" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/solar-farms-oklahoma-google/>
+
+---
+
+## Trump DOT nominee signals extra fees for EVs, continued NHTSA investigation into Tesla
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/03/img_1665-e1457955946161.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>President Trump’s nominee for head of the Department of Transport, Sean Duffy, has signaled imposing potential extra fees for electric vehicles and said that he plans to let NHTSA continue its investigation into Tesla’s advanced driver assist systems.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,tesla" data-layer-viewtype="unknown" data-post-id="397905" href="https://electrek.co/2025/01/15/trump-dot-nominee-signals-extra-fees-for-evs-continued-nhtsa-investigation-into-tesla/#more-397905" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/trump-dot-nominee-signals-extra-fees-for-evs-continued-nhtsa-investigation-into-tesla/>
+
+---
+
+## Hyundai Ioniq 5: The Used Car Buyer's Guide
+
+date: 2025-01-15, from: Inside EVs News
+
+Though still relatively new to the market, used Ioniq 5s are readily available. Here's what you need to know when shopping for one. 
+
+<br> 
+
+<https://insideevs.com/news/747292/used-hyundai-ioniq-5-buying-guide/>
+
+---
+
+## Toyota will use familiar names for its upcoming EVs, shifting away from the controversial ‘bZ’
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Toyota-Land-Cruiser-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>We had a feeling it was coming soon. Toyota is moving away from its “bZ” naming system for EVs with plans to use names you may already be familiar with. The bZ4X will likely be the only electric car <a href="https://electrek.co/guides/toyota/">Toyota</a> sells globally under the old system.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="397904" href="https://electrek.co/2025/01/15/toyota-use-familiar-names-upcoming-evs/#more-397904" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/toyota-use-familiar-names-upcoming-evs/>
+
+---
+
+## Save $1,500 on flagship Jackery 3,024Wh solar generator bundle, Segway F2 e-scooter $529, Aiper solar pool skimmer, snow tools, more
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Jackery-Explorer-3000-Pro-Portable-Power-Station-newer-FI-1.png?w=1200" /></div><p>For today’s Green Deals we have <a href="https://9to5toys.com/2025/01/15/jackery-3000-pro-solar-generator-kit-2499/">Jackery’s Explorer 3000 Pro Solar Generator bundle</a> that comes with two 200W panels and a manual transfer switch to backup your circuits at <a href="https://9to5toys.com/2025/01/15/jackery-3000-pro-solar-generator-kit-2499/">$2,499</a>, along with an alternate option. With Segway’s new <a href="https://9to5toys.com/2025/01/14/segway-gt3-superscooter-preorder-200-off/">GT3 Superscooter</a> available for preorder with a hefty enough price tag, we spotted the more budget-friendly <a href="https://9to5toys.com/2025/01/13/segway-ninebot-f2-scooter-529/">Ninebot F2</a> Electric Kickscooter with Apple Find My capabilities down at <a href="https://9to5toys.com/2025/01/13/segway-ninebot-f2-scooter-529/">$529</a>. Aiper’s robot pool cleaners are getting a bunch of savings attached, with the <a href="https://9to5toys.com/2025/01/14/aiper-surfer-s1-skimmer-300/">Surfer S1</a> Solar-Powered Robotic Pool Skimmer joining the lineup at <a href="https://9to5toys.com/2025/01/14/aiper-surfer-s1-skimmer-300/">$300</a>. We also have two low prices that will only last through the rest of the day – the first being Greenworks’ <a href="https://9to5toys.com/2025/01/15/greenworks-80v-snow-blower-shovel-kit-new-456-low/">80V 20-inch Snow Blower and 12-inch Snow Shovel Kit</a> at <a href="https://9to5toys.com/2025/01/15/greenworks-80v-snow-blower-shovel-kit-new-456-low/">$456</a> alongside GoTrax’s <a href="https://9to5toys.com/2025/01/15/gotrax-z4-pro-e-bike-799-low/">Z4 Pro Foldable e-bike</a> dropping to <a href="https://9to5toys.com/2025/01/15/gotrax-z4-pro-e-bike-799-low/">$799</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s deals from <a href="https://9to5toys.com/2025/01/13/lectric-xp-3-0-e-bikes-1199-low-flash-sale/">Lectric’s e-bike flash sale</a> (with free gear and price cuts), Anker’s <a href="https://9to5toys.com/2025/01/14/anker-solix-c1000-with-bag-499-low/">SOLIX power station sale</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="397890" href="https://electrek.co/2025/01/15/jackery-explorer-3000-pro-segway-aiper-more/#more-397890" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/jackery-explorer-3000-pro-segway-aiper-more/>
+
+---
+
+## The Hyundai Ioniq 5 Still Isn't Eligible For The $7,500 Tax Credit
+
+date: 2025-01-15, from: Inside EVs News
+
+The refreshed, made-in-America Ioniq 5 should be eligible in the second quarter of this year. 
+
+<br> 
+
+<https://insideevs.com/news/747449/2025-hyundai-ioniq-5-n-tax-credit/>
+
+---
+
+## Porsche’s EV sales took a hit last year, but the electric Macan sparks hope
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Porsche-Macan-EV-US-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Although sales of Porsche’s first EV, the Taycan, fell nearly 50% in 2024, things could be looking up for the sports car maker. After its “launch literally electrified us,” the <a href="https://electrek.co/guides/porsche-macan/">electric Porsche Macan</a> may spark a comeback this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="porsche,porsche-macan" data-layer-viewtype="unknown" data-post-id="397866" href="https://electrek.co/2025/01/15/porsches-ev-sales-took-a-hit-but-electric-macan-sparks-hope/#more-397866" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/porsches-ev-sales-took-a-hit-but-electric-macan-sparks-hope/>
+
+---
+
+## Elon Musk complains Tesla is not getting subsidies for electric truck chargers while calling for end of EV subsidies
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Elon-Musk-temper-tantrum.png?w=1600" /></div><p>Elon Musk complains that Tesla is not getting subsidies for its electric truck chargers while calling for the end of electric vehicle subsidies in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="397864" href="https://electrek.co/2025/01/15/elon-musk-complains-tesla-is-not-getting-subsidies-for-electric-truck-chargers-while-calling-for-end-of-ev-subsidies/#more-397864" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/elon-musk-complains-tesla-is-not-getting-subsidies-for-electric-truck-chargers-while-calling-for-end-of-ev-subsidies/>
+
+---
+
+## This Chinese Company Throws A Wrench Into The Nissan-Honda Merger
+
+date: 2025-01-15, from: Inside EVs News
+
+Honda and Nissan share a common partner in China. It’s not clear how that will work when the two brands merge.  
+
+<br> 
+
+<https://insideevs.com/news/747439/donfgeng-honda-nissan-merger-n7/>
+
+---
+
+## New York is now coming for your fast and heavy electric bikes
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/micah-ebike-100-weight-new-york.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The US electric bike industry has already seen a <a href="https://electrek.co/2025/01/01/starting-today-california-is-coming-for-your-e-bike-throttles/">regulation-heavy start to 2025</a>. Now, New York Governor Kathy Hochul’s potential new restrictions on fast and exceedingly heavy electric bikes could add to the proposed and enacted legislation we’ve seen lately.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="397831" href="https://electrek.co/2025/01/15/new-york-is-now-coming-for-your-fast-and-heavy-electric-bikes/#more-397831" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/new-york-is-now-coming-for-your-fast-and-heavy-electric-bikes/>
+
+---
+
+## Rivian’s Heated Headlights Could Be A Winter Driving Game-Changer
+
+date: 2025-01-15, from: Inside EVs News
+
+The electric vehicle manufacturer has applied for a heated headlight lens patent, which sounds like a great idea. 
+
+<br> 
+
+<https://insideevs.com/news/747318/rivian-heated-headlight-patent/>
+
+---
+
+## BYD’s cheapest EV is getting an upgrade: Here’s our first look
+
+date: 2025-01-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/BYD-cheapest-electric-car.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD’s best-selling EV is also its cheapest, starting at under $10,000 in China. Leaked images reveal that <a href="https://electrek.co/guides/byd/">BYD’s</a> Seagull EV is getting an upgrade. Check out the new look below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="397842" href="https://electrek.co/2025/01/15/byds-cheapest-ev-upgrade-first-look/#more-397842" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/15/byds-cheapest-ev-upgrade-first-look/>
+
+---
+
+## Keeping Our Pact with the American People: Science and Technology for Our Future
+
+date: 2025-01-15, from: Office of Science and Technology Policy blog
+
+<p>By Arati Prabhakar, Assistant to the President for Science and Technology and Director of the White House Office of Science and Technology Policy As President Biden has often said, America can be defined in a single word: possibilities. Throughout our history as a nation, we have put innovation to work to open vast new possibilities.&#8230;</p>
+<p>The post <a href="https://www.whitehouse.gov/ostp/news-updates/2025/01/15/keeping-our-pact-with-the-american-people-science-and-technology-for-our-future/">Keeping Our Pact with the American People: Science and Technology for Our Future</a> appeared first on <a href="https://www.whitehouse.gov">The White House</a>.</p>
+ 
+
+<br> 
+
+<https://www.whitehouse.gov/ostp/news-updates/2025/01/15/keeping-our-pact-with-the-american-people-science-and-technology-for-our-future/>
 
 ---
 
@@ -209,7 +671,7 @@ date: 2025-01-14, from: Electrek Feed
 
 ---
 
-## Toyota the largest auto industry funder of climate deniers in US – report
+## Toyota found to be largest auto industry funder of climate deniers in US
 
 date: 2025-01-14, from: Electrek Feed
 
@@ -369,7 +831,7 @@ Its twin–the Subaru Solterra–did quite well too, despite both EVs having lac
 
 ---
 
-## Contrary to popular belief, EV sales grew more in 2024 than 2023 – report
+## Contrary to popular belief, EV sales grew more in 2024 than 2023
 
 date: 2025-01-14, from: Electrek Feed
 

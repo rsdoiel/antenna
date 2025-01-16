@@ -1,11 +1,71 @@
 ---
 title: health
-updated: 2025-01-15 07:05:27
+updated: 2025-01-16 07:04:58
 ---
 
 # health
 
-(date: 2025-01-15 07:05:27)
+(date: 2025-01-16 07:04:58)
+
+---
+
+## Comparative efficacy of repurposed drugs lopinavir-ritonavir and darunavir-ritonavir in hospitalised COVID-19 patients: insights from a tertiary centre cohort
+
+date: 2025-01-16, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundDrug repurposing has become a widely adopted strategy to minimise research time, costs, and associated risks. Combinations of protease inhibitors such as lopinavir and darunavir with ritonavir have been repurposed as treatments for COVID-19. Although lopinavir-ritonavir (LPV/r) and darunavir-ritonavir (DRV/r) have shown in vitro efficacy against COVID-19, the results in human studies have been inconsistent. Therefore, our objective was to compare the efficacy of LPV/r and DRV/r in COVID-19 patients admitted to a tertiary centre in Romania.Research design and methodsA clinical dataset from 417 hospitalised patients was analysed. Patients were assigned to the LPV/r, DRV/r, or control (standard-of-care) group based on clinical decisions made by the attending infectious disease specialists, aligned with national treatment protocols. Kaplan-Meier and Cox proportional hazards regression analyses were conducted to compare in-hospital mortality and to identify factors associated with clinical improvement or fatal outcomes.ResultsBy day 10, more patients showed improvement with LPV/r and DRV/r (p=0.03 and 0.01, respectively), but only LPV/r was associated with improved survival compared to the control group (p=0.05). Factors associated with mortality included male gender (HR: 3.63, p=0.02), diabetes (HR: 2.49, p=0.03), oxygen saturation below 90% at admission (HR: 5.23, p<0.01), high blood glucose levels (HR: 3.68, p=0.01), age (HR: 1.04, p=0.02), and more than 25% lesion extension on chest CT scan (HR: 2.28, p=0.03).ConclusionsLPV/r, but not DRV/r, showed a survival benefit in patients hospitalised with COVID-19, but these findings deserve further investigation in a randomised clinical trial. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1496176>
+
+---
+
+## Preparation and evaluation of Brucella T4SS recombinant proteins in serodiagnosis of human brucellosis based on TMT-based proteomics technology
+
+date: 2025-01-16, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionBrucellosis, a significant zoonotic infectious disease, poses a global health threat. Accurate and efficient diagnosis is crucial for prevention, control, and treatment of brucellosis. VirB proteins, components of the Type IV secretion system (T4SS) in Brucella, play a pivotal role in bacterial virulence and pathogenesis but have been understudied for their diagnostic potential.MethodsTandem Mass Tag (TMT) proteomics technology was utilized to identify highly expressed VirB proteins from wild-type Brucella strains. Recombinant T4SS proteins were prepared, and an indirect ELISA method was established for serological diagnosis of human brucellosis.ResultsSeven T4SS proteins (rVirB3, rVirB4, rVirB9, rBMEII0036, rVirB8, rVirB11, and rVirB10) were expressed used to construct the indirect ELISA method which showed high diagnostic accuracy. Sensitivity and specificity of the proteins exceeded 0.9100 and 0.9167, respectively, demonstrating good performance comparable to traditional LPS and Rose Bengal Ag antigens. Cross-reactivity was observed in a limited number of serum samples from febrile patients without brucellosis.ConclusionsThe study highlights the potential of VirB proteins as novel diagnostic antigens for human brucellosis. Future research can further optimize the use of VirB proteins in diagnostic assays and explore their applications in vaccine development. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1514046>
+
+---
+
+## Clinical evaluation of a multiplex droplet digital PCR for diagnosing suspected bloodstream infections: a prospective study
+
+date: 2025-01-16, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThough droplet digital PCR (ddPCR) has emerged as a promising tool for early pathogen detection in bloodstream infections (BSIs), more studies are needed to support its clinical application widely due to different ddPCR platforms with discrepant diagnostic performance. Additionally, there is still a lack of clinical data to reveal the association between pathogen loads detected by ddPCR and corresponding BSIs.MethodsIn this prospective study, 173 patients with suspected BSIs were enrolled. A multiplex ddPCR assay was used to detect 18 pathogens. The results of ddPCR testing were evaluated in comparison with blood cultures (BCs) and clinical diagnosis. Taking BC as the gold standard, receiver operating characteristic curve and Cohen’s kappa agreement were used to investigate whether the pathogen load could predict a corresponding culture-proven BSI for the top five microorganisms detected by ddPCR.ResultsOf the 173 blood samples collected, BC and ddPCR were positive in 48 (27.7%) and 92 (53.2%) cases, respectively. Compared to BC, the aggregate sensitivity and specificity for ddPCR were 81.3% and 63.2%, respectively. After clinical adjudication, the sensitivity and specificity of ddPCR increased to 88.8% and 86.0%, respectively. There were 143 microorganisms detected by ddPCR. The DNA loads of these microorganisms ranged from 30.0 to 3.2×105 copies/mL (median level: 158.0 copies/mL), 72.7% (104/143) of which were below 1,000 copies/mL. Further, statistical analysis showed the DNA loads of Escherichia coli (AUC: 0.954, 95% CI: 0.898-1.000, κ=0.731, cut-off values: 93.0 copies/mL) and Klebsiella pneumoniae (AUC: 0.994, 95% CI: 0.986-1.000, κ=0.834, cut-off values: 196.5 copies/mL) were excellent predictors for the corresponding BSIs. The DNA loads of Pseudomonas aeruginosa (AUC: 0.816, 95% CI: 0.560-1.000, κ=0.167), Acinetobacter baumannii (AUC: 0.728, 95% CI: 0.195-1.000), and Enterococcus spp. (AUC: 0.282, 95% CI: 0.000-0.778) had little predictive value for the corresponding culture-proven BSIs.ConclusionOur results indicate that the multiplex ddPCR is a promising platform as a complementary add-on to conventional BC. The DNA loads of E. coli and K. pneumoniae present excellent predictive value for the corresponding BSIs. Further research is needed to explore the predictive potential of ddPCR for other microorganisms. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1489792>
+
+---
+
+## Identifying key blood markers for bacteremia in elderly patients: insights into bacterial pathogens
+
+date: 2025-01-16, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThis study aimed to assess the distribution of bacteremia pathogens in elderly patients, examine the impact of gender on pathogen distribution, and evaluate the predictive value of routine blood parameters for diagnosing bacteremia.MethodsA retrospective analysis was conducted on 151 elderly patients (≥60 years old) admitted to Fuding Hospital, Fujian University of Traditional Chinese Medicine between October 2022 and June 2023. Comprehensive routine blood tests and blood cultures were performed. The diagnostic efficacy of routine blood parameters, including white blood cell (WBC), neutrophil-to-lymphocyte ratio (NLR), platelet-lymphocyte ratio (PLR), and red blood cell distribution width (RDW), was evaluated using receive operating characteristic (ROC) curve analysis. Patients were categorized into either the culture-positive group (82 cases) or the culture-negative group (69 cases) according to blood culture results.ResultsNo significant differences in age and gender were found between the culture-positive and culture-negative groups. The primary bacterial pathogens of bacteremia in the elderly were Escherichia coli, Klebsiella pneumoniae and Streptococcus. Elderly female patients demonstrated a significantly higher culture positivity rate for E. coli compared to their male counterparts (P = 0.021). The areas under the ROC curve (AUC) for the four parameters were as follows: WBC, 0.851 (95% confidence interval (CI) 0.790 - 0.912); NLR, 0.919 (95% CI 0.875 - 0.963); PLR, 0.609 (95% CI 0.518 - 0.700); and RDW was 0.626 (95% CI 0.563 - 0.717).ConclusionsE. coli was identified as the predominant pathogenic microorganism causing bacteremia in the elderly, with a significantly higher culture positivity rate among female patients. Routine blood parameters (WBC, NLR, PLR, and RDW) demonstrated a predictive potential for diagnosing bacteremia in elderly patients. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1472765>
+
+---
+
+## Exploring the composition of placental microbiome and its potential origin in preterm birth
+
+date: 2025-01-16, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionFor years, the placenta was believed to be sterile, but recent studies reveal it hosts a unique microbiome. Despite these findings, significant questions remain about the origins of the placental microbiome and its effects on pregnancy and fetal health. Some studies suggest it may originate from the vaginal tract, while others indicate that oral bacteria can enter the maternal bloodstream and seed the placenta. However, research analyzing the vaginal, oral, and placental microbiomes within the same cohort is lacking. Additionally, it’s unclear whether the placental microbiome differs between healthy pregnancies and those with complications like preterm birth (PTB), which remains a leading cause of neonatal morbidity and mortality worldwide.MethodsIn this study, we performed 16S rRNA gene sequencing to investigate the composition of the oral and placental microbiome in samples collected from 18 women who experienced PTB and 36 matched controls who delivered at term (TB), all of whom were part of the Molecular Signature in Pregnancy (MSP) study. We leveraged on the multisite microbiome sampling from the MSP participants and on our previously published vaginal microbiome data to investigate the potential origins of the placental microbiome and assess whether its composition varies between healthy and complicated pregnancies.Results and DiscussionOur analysis revealed distinct profiles in the oral microbiome of PTB subjects compared to those who delivered at term. Specifically, we observed an increased abundance of Treponema maltophilum, Bacteroides sp, Mollicutes, Prevotella buccae, Leptotrichia, Prevotella_sp_Alloprevotella, in the PTB group. Importantly, Treponema maltophilum species showed higher abundance in the PTB group during the second trimester, suggesting its potential use as biomarkers. When we assessed the placenta microbiome composition, we found that Firmicutes, Bacteroidetes, Actinobacteria, and Proteobacteria were the most dominant phyla. Interestingly, microorganisms such as Ureaplasma urealyticum were more abundant in PTB placenta samples. Our findings suggest that the placenta microbiome could originate from the oral or vaginal cavities, with a notable increase in the crosstalk between the vaginal and placental sites in cases of PTB. Specifically, our data revealed that in PTB cases, the placental microbiome exhibited a closer resemblance to the vaginal microbiome, whereas in term pregnancies, the placental microbiome was similar to the oral microbiome. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1486409>
 
 ---
 

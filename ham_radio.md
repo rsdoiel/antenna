@@ -1,11 +1,39 @@
 ---
 title: ham radio
-updated: 2025-01-15 07:05:24
+updated: 2025-01-16 07:04:56
 ---
 
 # ham radio
 
-(date: 2025-01-15 07:05:24)
+(date: 2025-01-16 07:04:56)
+
+---
+
+## How TMDs can transform semiconductor manufacturing
+
+date: 2025-01-16, from: EDN Blog
+
+<img width="685" height="425" src="https://www.edn.com/wp-content/uploads/Hero-image-TDM.jpg?fit=685%2C425" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-TDM.jpg?w=685 685w, https://www.edn.com/wp-content/uploads/Hero-image-TDM.jpg?w=300 300w" sizes="(max-width: 685px) 100vw, 685px" /><p>Transition metal dichalcogenides (TMDs) possess numerous properties beneficial to semiconductor device manufacturing.</p>
+<p>The post <a href="https://www.edn.com/how-tmds-can-transform-semiconductor-manufacturing/" data-wpel-link="internal">How TMDs can transform semiconductor manufacturing</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/how-tmds-can-transform-semiconductor-manufacturing/>
+
+---
+
+## Tamron’s TAP-in Console: A nexus for camera lens update and control
+
+date: 2025-01-15, from: EDN Blog
+
+<img width="1400" height="793" src="https://www.edn.com/wp-content/uploads/contacts_springs2.jpg?fit=1400%2C793" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/contacts_springs2.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/contacts_springs2.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/contacts_springs2.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/contacts_springs2.jpg?w=1024 1024w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><p>Tamron's TAP-in Console teardown. Generic hardware with product variant-custom firmware? Mebbe. Let’s see.</p>
+<p>The post <a href="https://www.edn.com/tamrons-tap-in-console-a-nexus-for-camera-lens-update-and-control/" data-wpel-link="internal">Tamron’s TAP-in Console: A nexus for camera lens update and control</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/tamrons-tap-in-console-a-nexus-for-camera-lens-update-and-control/>
 
 ---
 
@@ -13,7 +41,7 @@ updated: 2025-01-15 07:05:24
 
 date: 2025-01-15, from: EDN Blog
 
-<img width="898" height="1280" src="https://www.edn.com/wp-content/uploads/Fig-4-NE-2-neon-lamp.png?fit=898%2C1280" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-4-NE-2-neon-lamp.png?w=898 898w, https://www.edn.com/wp-content/uploads/Fig-4-NE-2-neon-lamp.png?w=210 210w, https://www.edn.com/wp-content/uploads/Fig-4-NE-2-neon-lamp.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-4-NE-2-neon-lamp.png?w=718 718w" sizes="(max-width: 898px) 100vw, 898px" /><p>The inherent compatibility with DC sources makes the neon indicator a viable choice for higher-voltage DC rail designs.</p>
+<img width="898" height="1280" src="https://www.edn.com/wp-content/uploads/Fig-4-NE-2-neon-lamp.png?fit=898%2C1280" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-4-NE-2-neon-lamp.png?w=898 898w, https://www.edn.com/wp-content/uploads/Fig-4-NE-2-neon-lamp.png?w=210 210w, https://www.edn.com/wp-content/uploads/Fig-4-NE-2-neon-lamp.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-4-NE-2-neon-lamp.png?w=718 718w" sizes="auto, (max-width: 898px) 100vw, 898px" /><p>The inherent compatibility with DC sources makes the neon indicator a viable choice for higher-voltage DC rail designs.</p>
 <p>The post <a href="https://www.edn.com/how-neon-lamps-can-replace-leds-in-ac-powered-designs/" data-wpel-link="internal">How neon lamps can replace LEDs in AC-powered designs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
@@ -51,7 +79,7 @@ date: 2025-01-14, from: Amateur Radio Relay League News
 
 date: 2025-01-14, from: EDN Blog
 
-<img width="1395" height="797" src="https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?fit=1395%2C797" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?w=1395 1395w, https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?w=1024 1024w" sizes="(max-width: 1395px) 100vw, 1395px" /><p>Part 1 of this DI series explains the commonly used SDR IQ signal representation and negative frequencies with the complexity of math. </p>
+<img width="1395" height="797" src="https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?fit=1395%2C797" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?w=1395 1395w, https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/IQ-and-Neg-Freq_Figure1.png?w=1024 1024w" sizes="auto, (max-width: 1395px) 100vw, 1395px" /><p>Part 1 of this DI series explains the commonly used SDR IQ signal representation and negative frequencies with the complexity of math. </p>
 <p>The post <a href="https://www.edn.com/part-1-a-beginners-guide-to-the-power-of-iq-data-and-beauty-of-negative-frequencies/" data-wpel-link="internal">A beginner’s guide to power of IQ data and beauty of negative frequencies &#8211; Part 1</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

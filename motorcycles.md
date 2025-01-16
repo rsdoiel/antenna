@@ -1,11 +1,84 @@
 ---
 title: motorcycles
-updated: 2025-01-15 07:05:26
+updated: 2025-01-16 07:04:58
 ---
 
 # motorcycles
 
-(date: 2025-01-15 07:05:26)
+(date: 2025-01-16 07:04:58)
+
+---
+
+## Peep This Limited Edition Vespa 946 Snake, Just In Time For Lunar New Year
+
+date: 2025-01-16, from: Ride Apart, Electric Motorcycle News
+
+New year, new limited-edition scoot. 
+
+<br> 
+
+<https://www.rideapart.com/news/747200/vespa-946-snake-limited-edition/>
+
+---
+
+## Ducati Partnered With Troy Lee Designs for Supercross, This is Wild
+
+date: 2025-01-16, from: Ride Apart, Electric Motorcycle News
+
+Ready your wallets for some really epic (and expensive) Ducati-branded TLD gear. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/747342/ducati-troy-lee-designs-mx-partnership/>
+
+---
+
+## Some Lucky Rider Just Snagged a Never-Started Honda NSR500V Grand Prix Bike
+
+date: 2025-01-16, from: Ride Apart, Electric Motorcycle News
+
+As close as most will ever get to achieving their GP dreams. 
+
+<br> 
+
+<https://www.rideapart.com/news/747201/new-honda-nsr500v-grand-prix-auction/>
+
+---
+
+## Would You Choo-Choo-Choose This Strange Little Yamaha EV Quad?
+
+date: 2025-01-16, from: Ride Apart, Electric Motorcycle News
+
+Not quite a motorbike, not quite a lunar rover. 
+
+<br> 
+
+<https://www.rideapart.com/news/747322/yamaha-concept-rideon-ev-kennyroberts/>
+
+---
+
+## This Ultramodern EV Sidecar Leans, So Your Dog Gets The Best View
+
+date: 2025-01-16, from: Ride Apart, Electric Motorcycle News
+
+It's just a concept for now, but could we ever see it come to life? 
+
+<br> 
+
+<https://www.rideapart.com/news/747324/yamaha-ev-sidecar-pet-transport/>
+
+---
+
+## A Couple Maniacs Swapped a Go-Kart Engine Into a Mobility Scooter
+
+date: 2025-01-16, from: Ride Apart, Electric Motorcycle News
+
+Harbor Freight to the rescue! 
+
+<br> 
+
+<https://www.rideapart.com/news/747315/go-kart-predator-engine-mobility-scooter-disabled/>
 
 ---
 

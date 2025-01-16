@@ -1,11 +1,479 @@
 ---
 title: science and technology
-updated: 2025-01-15 07:05:24
+updated: 2025-01-16 07:04:56
 ---
 
 # science and technology
 
-(date: 2025-01-15 07:05:24)
+(date: 2025-01-16 07:04:56)
+
+---
+
+## Google reports halving code migration time with AI help
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>Chocolate Factory slurps own dogfood, sheds drudgery in specific areas</h4> <p>Google, which peddles AI software with as much giddy enthusiasm as Microsoft, reports dogfooding its own AI concoction and leaving the lab with a pleasant taste in its mouth.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/google_ai_code_migration/>
+
+---
+
+## AI datacenters putting zero emissions promises out of reach
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>Plus: Bit barns&#39; demand for water, land, and power could breed &#39;growing opposition&#39; from residents</h4> <p>The datacenter industry looks set for a turbulent 2025 as AI growth threatens to trump sustainability commitments and authorities are likely to see growing public hostility to new projects.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/ai_datacenters_putting_zero_emissions/>
+
+---
+
+## Brits must prove their age on adult sites by July, says watchdog
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>Regulator asks people to link their credit cards, mobile accounts or face scans to smut use, to protect kids</h4> <p>The UK&#39;s communications regulator has published guidance for website operators aimed at preventing under-18s from accessing pornographic content online via &#34;highly effective age assurance&#34; techniques.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/ofcom_age_verification/>
+
+---
+
+## Debian 12.9 arrives, quickly followed by MX Linux 23.5
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>The eighth point-release of Bookworm – yes, you read that right – and the latest MX with new Xfce</h4> <p>Debian 12.9 - the latest point-release of Debian &#34;Bookworm&#34; - emerged at the weekend and coming hot on its heels is one of the more interesting downstreams, MX Linux 23.5.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/debian_12_9_mx_12_5/>
+
+---
+
+## Blue Origin reaches orbit with New Glenn, fumbles first-stage recovery
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>Jeff Bezos&#39; space company achieves milestone with payload delivered</h4> <p>Jeff Bezos joined the orbital elite with the launch of Blue Origin&#39;s New Glenn rocket this morning.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/new_glenn_reaches_orbit/>
+
+---
+
+## Infoseccer: Private security biz let guard down, exposed 120K+ files
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>Assist Security’s client list includes fashion icons, critical infrastructure orgs</h4> <p>A London-based private security company allegedly left more than 120,000 files available online via an unsecured server, an infoseccer told <em>The Register</em>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/private_security_biz_lets_guard/>
+
+---
+
+## Ivan the Terrible, the Czar and Grand Prince of Russia, Wouldn’t Earn His Violent Nickname Until Years After His Reign
+
+date: 2025-01-16, from: Smithsonian Magazine
+
+We all know Ivan IV’s sobriquet, but the story is more complicated than it might seem 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/ivan-the-terrible-the-czar-and-grand-prince-of-russia-wouldnt-earn-his-violent-nickname-until-years-after-his-reign-180985846/>
+
+---
+
+## Apple's interoperability efforts aren't meeting spirit or letter of EU law, advocacy groups argue
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>Free Software Foundation Europe and others urge European Commission to double down on DMA</h4> <p>Digital rights advocacy organizations contend that Apple has failed to comply with its interoperability obligations under the EU&#39;s Digital Markets Act (DMA).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/apple_dma_compliance_criticized/>
+
+---
+
+## UK government tech procurement lacks understanding, says watchdog
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>NAO report highlights £3B cost overruns and 29 years of cumulative delays in IT projects</h4> <p>UK government plans its technology purchases with limited assessment of technical feasibility, according to a spending watchdog&#39;s analysis of the £14-billion-a-year procurement of digital services.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/nao_uk_government_tech/>
+
+---
+
+## India becomes just fourth country to dock satellites in orbit
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>As the ESA celebrates planned break-up of its solar blotter-spotter</h4> <p>India’s Space Research Organisation (ISRO) has successfully docked a pair of satellites, making the nation the fourth to achieve the feat.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/isro_spadex_satellite_docking_succeeds/>
+
+---
+
+## US adds Chinese RISC-V player that TSMC suspected of helping build Huawei GPUs to risky company register
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>Sophgo scores a place on Entity List, Indian nuclear boffins taken off</h4> <p>Chinese chip designer Sophgo, a suspected supplier of AI silicon to Huawei, has been added to the USA’s “Entity List” of orgs felt to represent a national security risk and therefore prohibited from working with American companies unless a license is issued to allow such dealings.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/entity_list_chinese_expansion/>
+
+---
+
+## Parallels brings back the magic that was waiting seven minutes for Windows to boot
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>In a preview of x86_64 VMs running on Apple silicon, so it’s excusable for now</h4> <p>Desktop hypervisor specialist Parallels has released an early technology preview of code that allows virtual machines running OSes coded for the x86_64 architecture, such as Microsoft Windows, to run on Apple’s Arm-powered silicon.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/parallels_x86_vms_on_apple_silicon/>
+
+---
+
+## Nvidia shovels $500M into Israeli boffinry supercomputer
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>System to feature hundreds of liquid-cooled Blackwell systems</h4> <p>Nvidia is constructing a 30-megawatt research-and-development supercomputer stuffed with its latest-generation Blackwell GPUs in northern Israel at an estimated cost of half a billion dollars.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/nvidia_israel_blackwell/>
+
+---
+
+## GoDaddy slapped with wet lettuce for years of lax security and 'several major breaches'
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>Watchdog alleged it had no SIEM or MFA, orders rapid adoption of basic infosec tools</h4> <p>GoDaddy has failed to protect its web-hosting platform with even basic infosec tools and practices since 2018, according to the FTC, but the internet giant won’t face any immediate consequences for its many alleged acts of omission.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/godaddy_ftc_order/>
+
+---
+
+## DJI loosens flight restrictions, decides to trust operators to follow FAA rules
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>Right after one of its drones crashed into an aircraft fighting California wildfires? Great timing</h4> <p>Drone maker DJI has decided to scale back its geofencing restrictions, meaning its software won&#39;t automatically stop operators from flying into areas flagged as no-fly zones. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/dji_ditch_geofencing/>
+
+---
+
+## The Moon Makes the List of the World's Most Endangered Cultural Heritage Sites in 2025
+
+date: 2025-01-15, from: Smithsonian Magazine
+
+Earth-bound landmarks ravaged by war, climate change, tourism and other threats also landed in the World Monuments Watch report 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-moon-makes-the-list-of-the-worlds-most-endangered-cultural-heritage-sites-in-2025-180985845/>
+
+---
+
+## George Orwell Gets His Own £2 Coin Featuring an All-Seeing Eye
+
+date: 2025-01-15, from: Smithsonian Magazine
+
+Inscribed with quotes from "Nineteen Eighty-Four," the Royal Mint's latest release honors the author on the 75th anniversary of his death 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/george-orwell-gets-his-own-2-coin-featuring-an-all-seeing-eye-180985839/>
+
+---
+
+## Oh, Deere! FTC sues tractor maker, alleging decades of monopolized repairs
+
+date: 2025-01-15, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>Incoming Trump-picked watchdog boss dissents, calls suit &#39;hasty&#39; and &#39;deeply imprudent,&#39; so will it stick?</h4> <p><strong>Updated</strong>  America&#39;s top consumer watchdog has sued tractor maker John Deere for monopolizing tech repair services for its machinery, though whether the lawsuit will survive the pending presidential transition remains to be seen. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/ftc_sues_john_deere/>
+
+---
+
+## China's Salt Typhoon spies spotted on US govt networks before telcos, CISA boss says
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>We are only seeing &#39;the tip of the iceberg,&#39; Easterly warns</h4> <p>Beijing&#39;s Salt Typhoon cyberspies had been seen in US government networks before telcos discovered the same foreign intruders in their own systems, according to CISA boss Jen Easterly.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/salt_typhoon_us_govt_networks/>
+
+---
+
+## NASA Solar Observatory Sees Coronal Loops Flicker Before Big Flares
+
+date: 2025-01-15, from: NASA breaking news
+
+For decades, scientists have tried in vain to accurately predict solar flares — intense bursts of light on the Sun that can send a flurry of charged particles into the solar system. Now, using NASA’s Solar Dynamics Observatory, one team has identified flickering loops in the solar atmosphere, or corona, that seem to signal when […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/nasa-solar-observatory-sees-coronal-loops-flicker-before-big-flares/>
+
+---
+
+## Langley’s Propeller Research Tunnel
+
+date: 2025-01-15, from: NASA breaking news
+
+Elton W. Miller, chief of aerodynamics at what is now NASA’s Langley Research Center in Hampton, Virginia, stands in the entrance cone of the Propeller Research Tunnel in this Sept. 9, 1926, photo. In front of the entrance is the Sperry M-1 Messenger, the first full-scale airplane tested in the tunnel. The Propeller Research Tunnel, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/langleys-propeller-research-tunnel/>
+
+---
+
+## IT job market is still shrinking but not as quickly as last year
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>Half the number of roles axed, and yes – you can keep blaming AI</h4> <p>The IT jobs market has shrunk for a second year in a row, says tech consultancy Janco Associates, but at least things weren&#39;t as bad in 2024 as they were in 2023.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/it_job_market/>
+
+---
+
+## Two Private Landers Launch on a SpaceX Rocket, Aiming to Touch Down on the Moon
+
+date: 2025-01-15, from: Smithsonian Magazine
+
+Built by Firefly Aerospace and Ispace, the pair of spacecraft will land separately in the moon's northern latitudes, conduct science experiments and test new technology 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/two-private-landers-launch-on-a-spacex-rocket-aiming-to-touch-down-on-the-moon-180985841/>
+
+---
+
+## Someone Sent a Fuzzy Photo of a Painting to Christie's. It Turned Out to Be a Rare Watercolor by J.M.W. Turner
+
+date: 2025-01-15, from: Smithsonian Magazine
+
+After its owner submitted the piece to an online appraisal service, auction house specialists realized it had been misattributed to another artist for decades 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/someone-sent-a-fuzzy-photo-of-a-painting-to-christies-it-turned-out-to-be-a-rare-watercolor-by-jmw-turner-180985838/>
+
+---
+
+## Offer: Volunteer labor for your open source project
+
+date: 2025-01-15, from: OS News
+
+OSNews Sponsor OS-SCi is educating the next generation FOSS engineers, and as part of their coursework, they&#8217;re looking for worthy open source projects to which they can contribute their time and effort. In addition to the work they provide during their studies, these volunteers will be encouraged to continue to be involved after they finish their courses and proceed into the workforce. If you are involved in an open source project and would like some help, please register here. Also, please leave a comment below to share some details about your project with the OSNews community. Perhaps we can use this forum to bring some OSNews readers together as long term collaborators. In other news, OS-SCi is organizing an international Open Source Hackathon on 21-22 February online and on multiple university campuses. Register for the hackathon here. Read more details here. 
+
+<br> 
+
+<https://www.osnews.com/story/141556/offer-volunteer-labor-for-your-open-source-project/>
+
+---
+
+## Even modest makeup can thwart facial recognition
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>You may not need to go full Juggalo for the sake of privacy</h4> <p>Researchers at cyber-defense contractor PeopleTec have found that facial-recognition algorithms&#39; focus on specific areas of the face opens the door to subtler surveillance avoidance strategies.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/make_up_thwart_facial_recognition/>
+
+---
+
+## NASA Seeks Proposals for Space Biology and Physical Sciences Research
+
+date: 2025-01-15, from: NASA breaking news
+
+On Dec. 19, 2024, NASA released two amendments to the NASA Research Announcement Research Opportunities in Space and Earth Sciences (ROSES) 2024 (NNH24ZDA001N) to announce the E.9 Space Biology: Research Studies and E.12 Physical Sciences Research Studies program elements.   Space Biology Proposals  The research emphases of E.9 Space Biology: Research Studies fall under two broad […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/nasa-seeks-proposals-for-space-biology-and-physical-sciences-research/>
+
+---
+
+## Nvidia plots Quantum Day at GTC 2025 – for tech it called a distant dream
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>Don&#39;t believe the hype? GPU maker jumps on the bandwagon anyway</h4> <p>A week after Nvidia chief Jensen Huang demolished the market valuations of listed quantum computing brands by saying the technology is 20 years away from being useful, the GPU maker has confirmed it is hosting a quantum computing day.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/nvidia_quantum_day_gtc/>
+
+---
+
+## A New Crayfish Species Was Hiding in Plain Sight Among Common Aquarium Pets, Researchers Find
+
+date: 2025-01-15, from: Smithsonian Magazine
+
+Native to Indonesian New Guinea, the crustacean comes in two color forms and is a popular pet choice in Europe, Japan, the United States and Indonesia 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-new-crayfish-species-was-hiding-in-plain-sight-among-common-aquarium-pets-researchers-find-180985828/>
+
+---
+
+## Windows Patch Tuesday hits snag with Citrix software, workarounds published
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>Microsoft starts 2025 as it hopefully doesn&#39;t mean to go on</h4> <p>Devices that have Citrix&#39;s Session Recording software installed are having problems completing this month&#39;s Microsoft Patch Tuesday update, which includes important fixes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/windows_patch_tuesday_citrix/>
+
+---
+
+## Scientists Are Using Lasers to Reveal Intricate Tattoos on Peruvian Mummies
+
+date: 2025-01-15, from: Smithsonian Magazine
+
+A new study sheds light on tattoo designs found on more than 100 mummies from Chancay culture, a group that lived on the Peruvian coast between roughly 900 and 1500 C.E. 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-are-using-lasers-to-reveal-intricate-tattoos-on-peruvian-mummies-180985830/>
+
+---
+
+## How It Started, How It’s Going: Johnson Space Center Edition
+
+date: 2025-01-15, from: NASA breaking news
+
+If you ask Johnson Space Center employees why they work for NASA, many will tell you it was always their dream. For others, landing a job at NASA was an unexpected stop on their career path. Here is a look at where five Johnson team members worked before NASA and how they are helping to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/how-it-started-how-its-going-johnson-space-center-edition/>
+
+---
+
+## 'Savvy' shortcuts produce near-instant speech-to-speech translation of 36 languages
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>Babel Fish like ML model emerges after training on 4.5 million hours of multilingual spoken audio</h4> <p>Meta has developed a machine learning model its researchers claim offers near-instant speech-to-speech translation between around 36 languages.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/babel_fish_translations/>
+
+---
+
+## 50 Years Ago: Preparing the Final Saturn Rocket for Flight
+
+date: 2025-01-15, from: NASA breaking news
+
+With the historic first international space docking mission only six months away, preparations on the ground for the Apollo-Soyuz Test Project (ASTP) intensified. At NASA’s Kennedy Space Center (KSC) in Florida, workers in the Vehicle Assembly Building (VAB) stacked the rocket for the mission, the final Saturn rocket assembled for flight. In the nearby Manned [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/history/50-years-ago-preparing-the-final-saturn-rocket-for-flight/>
+
+---
+
+## Mathematicians Discover New Way for Spheres to ‘Kiss’
+
+date: 2025-01-15, from: Quanta Magazine
+
+A new proof marks the first progress in decades on important cases of the so-called kissing problem. Getting there meant doing away with traditional approaches.            <p>The post <a href="https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/" target="_blank">Mathematicians Discover New Way for Spheres to ‘Kiss’</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/>
+
+---
+
+## Microsoft will also stop supporting Office applications on Windows 10 after October 14
+
+date: 2025-01-15, from: OS News
+
+It seems we&#8217;re getting a glimpse at the next stick Microsoft will be using to push people to buy new PCs (we&#8217;re all rich, according to Microsoft) or upgrade to Windows 11. In a blog post extolling the virtues of a free upgrade from Windows 10 to 11, the company announced that with the end of support for Windows 10, Microsoft will also stop supporting Office applications on Windows 10, otherwise known as Office 365. Lastly, Microsoft 365 Apps will no longer be supported after October 14, 2025, on Windows 10 devices. To use Microsoft 365 Applications on your device, you will need to upgrade to Windows 11. ↫ Microsoft&#8217;s Margaret Farmer Of course, the applications won&#8217;t stop working on Windows 10 right away after that date, but Microsoft won&#8217;t be fixing any security issues, bugs, or other issues that might (will) come up. It reads like a threat to Windows users &#8211; upgrade by buying a new PC you probably can&#8217;t afford, or not only use an insecure version of Windows, but also insecure Office applications. I doubt it&#8217;ll have much of an impact on the staggering number of people still using Windows 10 &#8211; more than 60% of Windows users &#8211; so I&#8217;m sure Microsoft has more draconian plans up its sleeve to push people to upgrade. 
+
+<br> 
+
+<https://www.osnews.com/story/141549/microsoft-will-also-stop-supporting-office-applications-on-windows-10-after-october-14/>
+
+---
+
+## AI frenzy continues as Macquarie commits up to $5B for Applied Digital datacenters
+
+date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+
+<h4>Bubble? What bubble?</h4> <p>Fears of an AI bubble have yet to scare off venture capitalists and private equity firms from pumping billions of dollars into the GPU-packed datacenters at the heart of the machine-learning craze.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/15/ai_macquarie_applied_digital/>
+
+---
+
+## NASA Celebrates Edwin Hubble’s Discovery of a New Universe
+
+date: 2025-01-15, from: NASA breaking news
+
+For humans, the most important star in the universe is our Sun. The second-most important star is nestled inside the Andromeda galaxy. Don’t go looking for it — the flickering star is 2.2 million light-years away, and is 1/100,000th the brightness of the faintest star visible to the human eye. Yet, a century ago, its […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/nasa-celebrates-edwin-hubbles-discovery-of-a-new-universe/>
+
+---
+
+## Nepenthes: a dangerous tarpit to trap LLM crawlers
+
+date: 2025-01-15, from: OS News
+
+If you don&#8217;t want OpenAI&#8217;s, Apple&#8217;s, Google&#8217;s, or other companies&#8217; crawlers sucking up the content on your website, there isn&#8217;t much you can do. They generally don&#8217;t care about the venerable robots.txt, and while people like Aaron Schwartz were legally bullied into suicide for downloading scientific articles using a guest account, corporations are free to take whatever they want, permission or no. If corporations don&#8217;t respect us, why should we respect them? There are ways to fight back against these scrapers, and the latest is especially nasty in all the right ways. This is a tarpit intended to catch web crawlers. Specifically, it&#8217;s targeting crawlers that scrape data for LLM&#8217;s &#8211; but really, like the plants it is named after, it&#8217;ll eat just about anything that finds its way inside. It works by generating an endless sequences of pages, each of which with dozens of links, that simply go back into the tarpit. Pages are randomly generated, but in a deterministic way, causing them to appear to be flat files that never change. Intentional delay is added to prevent crawlers from bogging down your server, in addition to wasting their time. Lastly, optional Markov-babble can be added to the pages, to give the crawlers something to scrape up and train their LLMs on, hopefully accelerating model collapse. ↫ ZADZMO.org You really have to know what you&#8217;re doing when you set up this tool. It is intentionally designed to cause harm to LLM web crawlers, but it makes no distinction between LLM crawlers and, say, search engine crawlers, so it will definitely get you removed from search results. On top of that, because Nepenthes is designed to feed LLM crawlers what they&#8217;re looking for, they&#8217;re going to love your servers and thus spike your CPU load constantly. I can&#8217;t reiterate enough that you should not be using this if you don&#8217;t know what you&#8217;re doing. Setting it all up is fairly straightforward, but of note is that if you want to use the Markov generation feature, you&#8217;ll need to provide your own corpus for it to feed from. None is included to make sure every installation of Nepenthes will be different and unique because users will choose their own corpus to set up. You can use whatever texts you want, like Wikipedia articles, royalty-free books, open research corpuses, and so on. Nepenthes will also provide you with statistics to see what cats you&#8217;ve dragged in. You can use Nepenthes defensively to prevent LLM crawlers from reaching your real content, while also collecting the IP ranges of the crawlers so you can start blocking them. If you&#8217;ve got enough bandwith and horsepower, you can also opt to use Nepenthes offensively, and you can have some real fun with this. Let&#8217;s say you&#8217;ve got horsepower and bandwidth to burn, and just want to see these AI models burn. Nepenthes has what you need: Don&#8217;t make any attempt to block crawlers with the IP stats. Put the delay times as low as you are comfortable with. Train a big Markov corpus and leave the Markov module enabled, set the maximum babble size to something big. In short, let them suck down as much bullshit as they have diskspace for and choke on it. ↫ ZADZMO.org In a world where we can&#8217;t fight back against LLM crawlers in a sensible and respectful way, tools like these are exactly what we need. After all, the imbalance of power between us normal people and corporations is growing so insanely out of any and all proportions, that we don&#8217;t have much choice but to attempt to burn it all down with more&#8230; Destructive methods. I doubt this will do much to stop LLM crawlers from taking whatever they want without consent &#8211; as I&#8217;ve repeatedly said, Silicon Valley does not understand consent &#8211; but at least it&#8217;s joyfully cathartic. 
+
+<br> 
+
+<https://www.osnews.com/story/141545/nepenthes-a-dangerous-tarpit-to-trap-llm-crawlers/>
 
 ---
 
@@ -33,11 +501,11 @@ Speaking of Microsoft shipping bad code, how about an absolutely humongous &#821
 
 ---
 
-## Megan, AI recruiting agent, is on the job so HR can 'do less of the repetitive stuff'
+## Megan, AI recruiting agent, is on the job, giving bosses fewer reasons to hire in HR
 
 date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
 
-<h4>She doesn&#39;t feel pity, remorse, or fear, but she&#39;ll craft a polite email message</h4> <p><strong>Interview</strong>  Mega HR, a Florida-based human resources startup, today launched an AI agent service called Megan that the biz claims can automate most recruiting and hiring tasks while improving communication with job applicants.…</p> 
+<h4>She doesn&#39;t feel pity, remorse, or fear, but she&#39;ll craft a polite email message as she turns you down</h4> <p><strong>Interview</strong>  Mega HR, a Florida-based human resources startup, today launched an AI agent service called Megan that the biz claims can automate most recruiting and hiring tasks while improving communication with job applicants.…</p> 
 
 <br> 
 
@@ -229,7 +697,7 @@ A change to the Linux 6.13 kernel contributed by a Microsoft engineer ended up c
 
 date: 2025-01-14, updated: 2025-01-15, from: The Register (UK I.T. News)
 
-<h4>SCOTUS unlikely to save it, no time to find a buyer. Hi, Xiaohongshu!</h4> <p><strong>Comment</strong>  TikTok is just about out of options to save itself from a looming ban in the United States, though that hasn&#39;t stopped one US senator from planning a bill to extend the divest-or-dumped deadline another 270 days past this Sunday. …</p> 
+<h4>SCOTUS unlikely to save it, no time to find a buyer. So, hi, Xiaohongshu!</h4> <p><strong>Comment</strong>  TikTok is just about out of options to save itself from a looming ban in the United States, though that hasn&#39;t stopped one US senator from planning a bill to extend the divest-or-dumped deadline another 270 days past this Sunday. …</p> 
 
 <br> 
 
@@ -237,7 +705,7 @@ date: 2025-01-14, updated: 2025-01-15, from: The Register (UK I.T. News)
 
 ---
 
-## Roman Space Telescope Coronagraph Instrument Poster
+## Roman Space Telescope’s Coronagraph Instrument
 
 date: 2025-01-14, from: NASA breaking news
 
@@ -249,7 +717,7 @@ NASA’s Roman Coronagraph Instrument will greatly advance our ability to direct
 
 ---
 
-## Roman Space Telescope Wide Field Instrument Poster
+## Roman Space Telescope’s Wide Field Instrument
 
 date: 2025-01-14, from: NASA breaking news
 

@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-01-15 07:05:25
+updated: 2025-01-16 07:04:57
 ---
 
 # games
 
-(date: 2025-01-15 07:05:25)
+(date: 2025-01-16 07:04:57)
+
+---
+
+## Looking for Angry Kirby
+
+date: 2025-01-16, updated: 2025-01-15, from: Polygon Website
+
+Angry Kirby was once an unlikely poster child for the difference between Japanese and American sensibilities. When home in Japan, Kirby’s joyful, round face was rarely seen without a welcoming smile. In the U.S., something was different: Kirby, the epitome of kawaii with a puffy pink marshmallow face, had a dangerous mean streak.  It began [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/507720/kirby-angry-box-artwork>
+
+---
+
+## Hybrid digital TCG Altered to open online marketplace soon
+
+date: 2025-01-16, updated: 2025-01-16, from: Polygon Website
+
+Altered, the hybrid analog and digital trading card game from the French company Equinox, launches its second set at the end of this month. Called Trial by Frost, the 90-card collection adds another layer of complexity to the globetrotting game that blends exploration with historical and folk heroes from around the world. Today, ahead of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/509512/auto-draft>
+
+---
+
+## All the Nintendo Switch 2 news and announcements
+
+date: 2025-01-16, updated: 2025-01-16, from: Polygon Website
+
+The Nintendo Switch 2, the successor to the Nintendo Switch, is Nintendo’s upcoming console. Announced on Jan. 16, the upgraded console promises backward compatibility with Switch cartridges; a sleeker design with a new Joy-Con connection feature; and, most importantly, a release date within 2025. With hands-on previews starting in April 2025, there’s a lot to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/509851/nintendo-switch-2>
+
+---
+
+## Everything we know about Switch 2, Nintendo’s next-gen console
+
+date: 2025-01-16, updated: 2025-01-16, from: Polygon Website
+
+After many months, if not years, of leaks and speculation, it’s finally official: Nintendo has announced its next console, and it’s called Nintendo Switch 2. As the name implies, it’s a very similar design to the Switch — a hybrid handheld console with detachable controllers that can be connected to a TV via a dock. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games>
+
+---
+
+## Twilight comes to the Lego world
+
+date: 2025-01-16, updated: 2025-01-16, from: Polygon Website
+
+There is now an official Twilight Lego set and I am absolutely obsessed with all the little details. The set is a replica of the Cullens’ chic, modern home. It includes seven minifigurines: Bella Swan, of course; Edward Cullen, with a special sparkle to him; Jacob Black, with long luscious hair; Charlie Swan and his [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/deals/509148/lego-twilight-set-cullen-house-edward-bella>
+
+---
+
+## Which Nintendo Switch 2 leaks were accurate?
+
+date: 2025-01-16, updated: 2025-01-16, from: Polygon Website
+
+Nintendo showcased its next console, the Nintendo Switch 2, on Thursday, but the event wasn’t the big surprise reveal the company likely intended. Nintendo had previously said very little about its next console, so Nintendo and console insiders took matters into their own hands. We’d be remiss to call what’s happened over the past several [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/509074/nintendo-switch-2-reveal-leaks-accurate>
+
+---
+
+## Nintendo Switch 2 will be backward-compatible with Switch games
+
+date: 2025-01-16, updated: 2025-01-16, from: Polygon Website
+
+The Switch 2 will be able backward compatible, Nintendo confirmed in its official reveal of the console. The company kept specifics close to the chest, but confirmed that the console will play Nintendo Switch 2 exclusive games (duh) “as well as both physical and digital Nintendo Switch games.” But it did note that some Nintendo [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/449313/switch-2-backward-compatible-games-accessories>
+
+---
+
+## Switch 2 Nintendo Direct coming in April
+
+date: 2025-01-16, updated: 2025-01-16, from: Polygon Website
+
+Nintendo officially revealed its next-gen console, Nintendo Switch 2, on Thursday — though the company didn’t say much beyond confirming the Switch 2’s existence, its surprisingly straightforward name, and a 2025 release window in a short teaser video. Thankfully, Nintendo promised to share more details about Switch 2 in a dedicated Nintendo Direct presentation that’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/452161/switch-2-nintendo-direct-april-2025-date>
+
+---
+
+## Behold the mysterious new button on the Nintendo Switch 2
+
+date: 2025-01-16, updated: 2025-01-16, from: Polygon Website
+
+Ahead of the announcement of the Nintendo Switch 2, rumors swirled that the new handheld would feature a C-button — a throwback to Nintendo days of yore when a C-button routinely appeared on controllers for consoles like the N64 and the GameCube. Today, Nintendo did reveal the Switch 2 with a new button on the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/509745/nintendo-switch-2-c-button-image>
+
+---
+
+## You can try out the Nintendo Switch 2 in April — here&#8217;s how
+
+date: 2025-01-16, updated: 2025-01-16, from: Polygon Website
+
+Nintendo is hosting a series of events in April to show off its newly debuted console, the Nintendo Switch 2. The company published a short, hardware-focused sizzle reel on Thursday, but intends to give the public a closer look at the console; so close that players will be able to go hands-on themselves at a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/509754/nintendo-switch-2-preview-events-dates-hands-on>
 
 ---
 

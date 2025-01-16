@@ -1,11 +1,63 @@
 ---
 title: libraries
-updated: 2025-01-15 07:05:26
+updated: 2025-01-16 07:04:57
 ---
 
 # libraries
 
-(date: 2025-01-15 07:05:26)
+(date: 2025-01-16 07:04:57)
+
+---
+
+## Mary Ann Liebert, Inc., and Sage Forge a New Relationship
+
+date: 2025-01-16, from: Scholarly Kitchen
+
+<p>Mary Ann Liebert, Inc., an independent publisher focused on cutting edge biotechnology research, has been acquired by Sage. In this interview, the company's namesake shares her future vision of the company under Sage ownership as well as her reflections on over 40 years of STM publishing. </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/01/16/mary-ann-liebert-inc-and-sage-forge-a-new-relationship/">Mary Ann Liebert, Inc., and Sage Forge a New Relationship</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/01/16/mary-ann-liebert-inc-and-sage-forge-a-new-relationship/>
+
+---
+
+## Mystery at Lynden Sands, by J. J. Connington
+
+date: 2025-01-16, from: Standard Ebooks, new releaases
+
+A Chief Constable’s holiday on the coast is interrupted when he is drawn into investigating a murder. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/j-j-connington/mystery-at-lynden-sands>
+
+---
+
+## Demons, by Fyodor Dostoevsky
+
+date: 2025-01-15, from: Standard Ebooks, new releaases
+
+A small town becomes the setting of an attempted revolution. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/fyodor-dostoevsky/demons/constance-garnett>
+
+---
+
+## Introducing Repertoires: A Series on Scholarly Ways of Working
+
+date: 2025-01-15, from: Association of Research Libraries News
+
+<p>Last Updated on January 15, 2025, 10:13 am ET One important tool scholars use to produce knowledge about our physical environment is the computational model. Yet researchers who work with...</p>
+<p>The post <a href="https://www.arl.org/blog/introducing-repertoires-a-series-on-scholarly-ways-of-working/">Introducing Repertoires: A Series on Scholarly Ways of Working</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/introducing-repertoires-a-series-on-scholarly-ways-of-working/>
 
 ---
 
@@ -86,6 +138,18 @@ date: 2025-01-14, from: Association of Research Libraries News
 
 ---
 
+## Vanishing Culture: Digital Library of Amateur Radio and Communications
+
+date: 2025-01-14, from: Internet Archive Blog
+
+The following guest post from curator and amateur radio enthusiast&#160;Kay Savetz&#160;is part of our&#160;Vanishing Culture&#160;series, highlighting the power and importance of preservation in our digital age.&#160;Read more essays online&#160;or&#160;download the [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/01/14/vanishing-culture-digital-library-of-amateur-radio-and-communications/>
+
+---
+
 ## Kitchen Essentials: An Interview with Stephanie Dawson, ScienceOpen
 
 date: 2025-01-14, from: Scholarly Kitchen
@@ -121,6 +185,18 @@ Jörimann, Andrin
 <br> 
 
 <http://hdl.handle.net/20.500.11850/713396>
+
+---
+
+## Public Domain Spotlight: The Skeleton Dance
+
+date: 2025-01-13, from: Internet Archive Blog
+
+Disney&#8217;s classic animated short, &#8220;The Skeleton Dance,&#8221; is now in the public domain (Duke Law). Why is that such a big deal? Watch as Internet Archive&#8217;s Sean Dudley, a researcher [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/01/13/public-domain-spotlight-the-skeleton-dance/>
 
 ---
 
