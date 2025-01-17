@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-01-16 07:04:57
+updated: 2025-01-17 07:05:00
 ---
 
 # games
 
-(date: 2025-01-16 07:04:57)
+(date: 2025-01-17 07:05:00)
+
+---
+
+## All the open-ended mysteries of Severance
+
+date: 2025-01-17, updated: 2025-01-17, from: Polygon Website
+
+[Ed. note: This post contains spoilers through episode 1 of Severance season 2. Read on only if you’re fine with one of your severed selves knowing that.] Headed into season 2, Severance is on a hot streak. Picking up right where the season 1 finale left off — give or take a few months of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/505116/severance-theories-meaning-mdr-lumon-answers>
+
+---
+
+## All Marvel Rivals Midnight Features event missions and rewards
+
+date: 2025-01-17, updated: 2025-01-17, from: Polygon Website
+
+The Midnight Features event arrives in Marvel Rivals with the launch of Season 1. The Midnight Features event consists of five investigations, with the first investigation being available at launch and the rest on their way as the event progresses. You can earn currency and sprays from completing missions, and get bigger prizes like gallery [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/506811/midnight-features-event-rewards>
+
+---
+
+## The apocryphal story of America’s ‘Pikachu with big breasts’
+
+date: 2025-01-17, updated: 2025-01-17, from: Polygon Website
+
+Three decades after its debut in Japan, the Pokémon franchise is firmly entrenched as a cultural juggernaut. Across trading cards, video games, anime, movies, toys, and other merchandise, Pokémon is now a multibillion-dollar business. But in the early ’90s, Pokémon was an unknown quantity. Its creators were unsure that the franchise about catching cute, pocket-sized [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/features/509574/pokemon-pikachu-tiger-big-breasts>
+
+---
+
+## The 49 best movies on Netflix right now
+
+date: 2025-01-17, updated: 2025-01-17, from: Polygon Website
+
+What’s the best movie I can watch on Netflix? We’ve all asked ourselves this question, only to spend the next 15 minutes scrolling through the streaming service’s oddly specific genre menus and getting overwhelmed by the constantly shifting trend menus. Netflix’s huge catalog of movies continues to expand day by day, week by week, month [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## Sony cancels 2 more live-service games, including a reported God of War spinoff
+
+date: 2025-01-17, updated: 2025-01-17, from: Polygon Website
+
+Sony has canceled two live-service PlayStation games from in-house developers Bend Studio and Bluepoint Games. The company confirmed the cancellations to Bloomberg, and said the two studios were safe from closure. Bloomberg’s Jason Schreier reported that the game in development at Bluepoint was a live-service God of War spinoff. Sony said the cancellations were made [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/510511/sony-cancels-live-service-games-god-of-war>
+
+---
+
+## Disney has landed in the middle of a fight over an Indigenous language
+
+date: 2025-01-17, updated: 2025-01-17, from: Polygon Website
+
+For decades, the New Zealand government in Aotearoa has tried to eliminate te reo Māori, the language of the Indigenous Polynesian people of Aotearoa. Thus far, it’s failed. While the current right-wing government coalition is working to suppress the language with the largest political backing in years, organizers, storytellers, and te reo speakers are arguing [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/features/508915/disney-te-reo-maori-controversy>
+
+---
+
+## When will trading release in Pokémon TCG Pocket, and how do trades work?
+
+date: 2025-01-17, updated: 2025-01-17, from: Polygon Website
+
+Trading in Pokémon TCG Pocket has been known since the app’s announcement back in Feb. 2024, but the trade button in the Social Hub has been greyed out and slapped with a “coming soon” sticker since launch. The much-awaited function comes with its own requirements and limitations, meaning you won’t be able to get your [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/484754/trading-release-date-unlock-restrictions>
+
+---
+
+## How to unlock all Tonics in Destiny 2
+
+date: 2025-01-16, updated: 2025-01-16, from: Polygon Website
+
+Tonics are the special episodic mechanic for Destiny 2’s episode Revenant, the second in Bungie’s post-Final Shape epilogue releases. These Tonics help you target certain gear pieces to farm (granting you bonus loot of your chosen type) and can also enhance your artifact perks for the season, making your build even more powerful. Unfortunately, it [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/508594/all-tonics-list-how-to-unlock>
+
+---
+
+## Nintendo Switch 2 reveal ditched showing players in silly scenarios
+
+date: 2025-01-16, updated: 2025-01-16, from: Polygon Website
+
+Nintendo finally released a first look at the highly-anticipated Nintendo Switch 2 on Thursday. The brief trailer zoomed in on the hardware design (literally) in a sleek animated video and gave us a look at new features of the console like a mysterious C-button and its new snap-in Joy-Con controllers. But unlike the trailer that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/510089/nintendo-switch-2-ns2-console-players-people>
+
+---
+
+## The Until Dawn movie’s trailer makes it look like a dozen horror movies in one
+
+date: 2025-01-16, updated: 2025-01-16, from: Polygon Website
+
+The first full trailer for the Until Dawn movie has arrived, and it probably doesn’t look quite how you expected. While Sony announced last week that the movie would honor the game’s legacy but feature a whole new story and cast of characters, it wasn’t clear what that meant until this trailer arrived. As it [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/510158/until-dawn-movie-trailer-release-date-genre>
 
 ---
 
@@ -510,18 +630,6 @@ Hatsune Miku will finally be making an appearance in Fortnite. The turquoise twi
 <br> 
 
 <https://www.polygon.com/fortnite-guide/505274/hatsune-miku-skin-release-date>
-
----
-
-## Marvel Rivals Midnight Features event missions and rewards so far
-
-date: 2025-01-13, updated: 2025-01-13, from: Polygon Website
-
-The Midnight Features event arrives in Marvel Rivals with the launch of Season 1. The Midnight Features event consists of five investigations, with the first investigation being available at launch and the rest on their way as the event progresses. You can earn currency and sprays from completing missions, and get bigger prizes like gallery [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/marvel-rivals-guide/506811/midnight-features-event-rewards>
 
 ---
 

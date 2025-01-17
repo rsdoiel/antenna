@@ -1,11 +1,63 @@
 ---
 title: libraries
-updated: 2025-01-16 07:04:57
+updated: 2025-01-17 07:05:01
 ---
 
 # libraries
 
-(date: 2025-01-16 07:04:57)
+(date: 2025-01-17 07:05:01)
+
+---
+
+## Does Altering A Dataset Merit Retraction?
+
+date: 2025-01-17, from: Scholarly Kitchen
+
+<p>Self-archiving on personal sites is perfectly permitted under many journal data policies. But what happens when an author alters the underlying data?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/01/17/does-altering-a-dataset-merit-retraction/">Does Altering A Dataset Merit Retraction?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/01/17/does-altering-a-dataset-merit-retraction/>
+
+---
+
+## Public Domain Spotlight: Popeye
+
+date: 2025-01-16, from: Internet Archive Blog
+
+Over the last few years we have seen many new characters enter the public domain including Winnie-the-Pooh in 2022, Mickey Mouse in 2024, and now, Popeye in 2025! The character [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/01/16/public-domain-spotlight-popeye/>
+
+---
+
+## Philosophical Works, by René Descartes
+
+date: 2025-01-16, from: Standard Ebooks, new releaases
+
+A collection of philosophical works. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/rene-descartes/philosophical-works/john-veitch>
+
+---
+
+## Parting Thoughts from Former UMD Dean of Libraries Adriene Lim
+
+date: 2025-01-16, from: Association of Research Libraries News
+
+<p>Last Updated on January 16, 2025, 6:11 pm ET I remain cautiously optimistic because I continue to believe deeply in the library’s mission… At the end of the 2024 spring...</p>
+<p>The post <a href="https://www.arl.org/blog/parting-thoughts-from-umd-dean-of-libraries-adriene-lim/">Parting Thoughts from Former UMD Dean of Libraries Adriene Lim</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/parting-thoughts-from-umd-dean-of-libraries-adriene-lim/>
 
 ---
 

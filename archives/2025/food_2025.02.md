@@ -1,11 +1,140 @@
 ---
 title: food
-updated: 2025-01-16 07:04:59
+updated: 2025-01-17 07:05:02
 ---
 
 # food
 
-(date: 2025-01-16 07:04:59)
+(date: 2025-01-17 07:05:02)
+
+---
+
+## The Coffee Human Resource: Quit Throwing Baristas to the Wolves with Poor Onboarding Practices
+
+date: 2025-01-17, from: The Fresh Cup
+
+<p>Creating a welcoming work environment with thriving employees starts with hiring and onboarding. Here’s how you can set new coffee employees up for success. </p>
+<p>The post <a href="https://freshcup.com/the-coffee-human-resource-quit-throwing-baristas-to-the-wolves-with-poor-onboarding-practices/">The Coffee Human Resource: Quit Throwing Baristas to the Wolves with Poor Onboarding Practices</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/the-coffee-human-resource-quit-throwing-baristas-to-the-wolves-with-poor-onboarding-practices/>
+
+---
+
+## Broccoli Spoon Salad and More Recipes We Made This Week
+
+date: 2025-01-17, from: Bon Appetet
+
+Like arroz caldo and make-ahead breakfast sandwiches. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-january-2025>
+
+---
+
+## Yaki Udon (Stir Fried Udon Noodles)
+
+date: 2025-01-17, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/yaki-udon/" title="Yaki Udon (Stir Fried Udon Noodles)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Yaki-Udon-Recipe-2BOWLS1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of Yaki Udon (Japanese Stir Fried Udon Noodles)" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Yaki-Udon-Recipe-2BOWLS1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Yaki-Udon-Recipe-2BOWLS1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Yaki-Udon-Recipe-2BOWLS1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Yaki-Udon-Recipe-2BOWLS1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Yaki-Udon-Recipe-2BOWLS1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Yaki-Udon-Recipe-2BOWLS1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Yaki-Udon-Recipe-2BOWLS1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Yaki udon is a Japanese recipe of stir-fried udon noodles in a simple but flavorful sauce, ready in minutes and very customizable with meats and vegetables.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/yaki-udon/">Yaki Udon (Stir Fried Udon Noodles)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/yaki-udon/>
+
+---
+
+## It’s Nearly Impossible to Overcook Mushrooms—Here’s Why
+
+date: 2025-01-16, from: Taste of Home
+
+<p>This is a fungi phenomenon.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/can-you-overcook-mushrooms/">It&#8217;s Nearly Impossible to Overcook Mushrooms—Here&#8217;s Why</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/can-you-overcook-mushrooms/>
+
+---
+
+## Weekly Coffee News: A Pre-Grind AI Blender + Legacy Brand Refreshed
+
+date: 2025-01-16, from: Daily Coffee News
+
+<div><img width="620" height="396" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1-620x396.jpg" class="attachment-large size-large wp-post-image" alt="Screenshot" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1-620x396.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1-300x192.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1-768x491.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Japanese Company Introduces Pre-Grind Blender with AI At the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/16/weekly-coffee-news-a-pre-grind-ai-blender-legacy-brand-refreshed/>
+
+---
+
+## The 5 Must-Visit Nonalcoholic Bottle Shops for Drinks Without the Buzz
+
+date: 2025-01-16, from: Bon Appetet
+
+From Boston to Seattle, these shops are highly curated and focused on building connections. 
+
+<br> 
+
+<https://www.bonappetit.com/story/must-visit-nonalcoholic-bottle-shops>
+
+---
+
+## The Best Canned Refried Beans You Can Buy at the Supermarket
+
+date: 2025-01-16, from: Bon Appetet
+
+We tried 11 brands, including Amy’s, Old El Paso, Ortega, and Taco Bell. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-canned-refried-beans-taste-test>
+
+---
+
+## Nosprodamus Speaks! An Exclusive Collection Of 2025 Coffee Predictions From Sprudge
+
+date: 2025-01-16, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Where is coffee headed in 2025? 
+
+<br> 
+
+<https://sprudge.com/nosprodamus-speaks-an-exclusive-collection-of-2025-coffee-predictions-from-sprudge-269551.html>
+
+---
+
+## Italian Stuffed Shells
+
+date: 2025-01-16, from: Taste of Home
+
+A dear friend first brought over this stuffed shells recipe. Now I take it to other friends' homes and to potlucks, because it's always a big hit! &mdash;Beverly Austin, Fulton, Missouri
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/italian-stuffed-shells/>
+
+---
+
+## This Is Ina Garten’s Unexpected Trick for Perfect Pork Tenderloin
+
+date: 2025-01-16, from: Taste of Home
+
+<p>Inside the pages of one of Ina Garten's cookbooks, there is a recipe with a genius tip that needs to be tasted to be believed. Wait until you see her incredibly easy technique for roasting pork tenderloin.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ina-garten-pork-tenderloin/">This Is Ina Garten&#8217;s Unexpected Trick for Perfect Pork Tenderloin</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ina-garten-pork-tenderloin/>
 
 ---
 
@@ -23,11 +152,23 @@ date: 2025-01-16, from: Taste of Home
 
 ---
 
+## Avercasso Launches Smaller Green Coffee Sorter, the CS Lite
+
+date: 2025-01-16, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Avercasso CS Lite coffee sorter 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Avercasso, the Taiwanese maker of the AI-driven green coffee analysis and sorting machine called the CS One, just launched a smaller version called the CS Lite. Designed for home roasters... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/16/avercasso-launches-smaller-green-coffee-sorter-the-cs-lite/>
+
+---
+
 ## National Coffee Association Talks Directly to Consumers through aboutcoffee.org
 
 date: 2025-01-16, from: Daily Coffee News
 
-<div><img width="620" height="419" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-620x419.jpg" class="attachment-large size-large wp-post-image" alt="pourover coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-620x419.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-768x518.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>After 113 years operating largely under the public radar, the United States National Coffee Association just launched its first consumer-focused website, aboutcoffee.org. The website reflects the coffee industry&#8217;s never-ending quest... 
+<div><img width="620" height="419" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-620x419.jpg" class="attachment-large size-large wp-post-image" alt="pourover coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-620x419.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-768x518.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>After 113 years operating largely under the public radar, the United States National Coffee Association just launched its first consumer-focused website, aboutcoffee.org. The website reflects the coffee industry&#8217;s never-ending quest... 
 
 <br> 
 
@@ -331,7 +472,7 @@ On this episode of Dinner SOS, Chris and Hana help caller and first time mom Mar
 
 date: 2025-01-15, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Prima Coffee Equipment store 5" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Online coffee equipment seller Prima Coffee Equipment this month opened a brick-and-mortar store in its home city of Louisville, Kentucky, stocking it top to bottom with a wide selection of... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Prima Coffee Equipment store 5" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Prima-Coffee-Equipment-store-2.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Online coffee equipment seller Prima Coffee Equipment this month opened a brick-and-mortar store in its home city of Louisville, Kentucky, stocking it top to bottom with a wide selection of... 
 
 <br> 
 
@@ -355,7 +496,7 @@ date: 2025-01-15, from: Taste of Home
 
 date: 2025-01-15, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights-620x414.jpg" class="attachment-large size-large wp-post-image" alt="truck lights" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>New York-based green coffee trading and roasting company Coffee Holding Co. filed a lawsuit accusing a Texas-based logistics broker of contract and negligence after a coffee shipment worth more than... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights-620x414.jpg" class="attachment-large size-large wp-post-image" alt="truck lights" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/truck-lights.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>New York-based green coffee trading and roasting company Coffee Holding Co. filed a lawsuit accusing a Texas-based logistics broker of contract and negligence after a coffee shipment worth more than... 
 
 <br> 
 
@@ -867,7 +1008,7 @@ date: 2025-01-13, from: Isebel Eats
 
 date: 2025-01-13, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/roasted-red-pepper-soup/" title="Roasted Red Pepper Soup Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Roasted-Red-Pepper-Soup-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Roasted Red Pepper Soup served in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Roasted-Red-Pepper-Soup-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Roasted-Red-Pepper-Soup-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Roasted-Red-Pepper-Soup-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Roasted-Red-Pepper-Soup-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Roasted-Red-Pepper-Soup-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Roasted-Red-Pepper-Soup-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Roasted-Red-Pepper-Soup-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This roasted red pepper soup is rich and creamy with a roux base, no cream and no tomato, pure roasted red pepper flavor, simple and delicious!</p>
+<a href="https://www.chilipeppermadness.com/recipes/roasted-red-pepper-soup/" title="Roasted Red Pepper Soup Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Roasted-Red-Pepper-Soup-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Roasted Red Pepper Soup served in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Roasted-Red-Pepper-Soup-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Roasted-Red-Pepper-Soup-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Roasted-Red-Pepper-Soup-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Roasted-Red-Pepper-Soup-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Roasted-Red-Pepper-Soup-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Roasted-Red-Pepper-Soup-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Roasted-Red-Pepper-Soup-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This roasted red pepper soup is rich and creamy with a roux base, no cream and no tomato, pure roasted red pepper flavor, simple and delicious!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/roasted-red-pepper-soup/">Roasted Red Pepper Soup Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

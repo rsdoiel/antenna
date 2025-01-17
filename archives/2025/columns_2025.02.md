@@ -1,11 +1,334 @@
 ---
 title: columns
-updated: 2025-01-16 07:04:56
+updated: 2025-01-17 07:04:59
 ---
 
 # columns
 
-(date: 2025-01-16 07:04:56)
+(date: 2025-01-17 07:04:59)
+
+---
+
+## Project Mini Rack - compact and portable homelabs
+
+date: 2025-01-17, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Project Mini Rack - compact and portable homelabs</span>
+
+            <p></p>
+
+<p>Today I'm announcing <a href="https://mini-rack.jeffgeerling.com">Project MINI RACK</a>, an open source project to help those building homelabs, RF/wireless rigs, and other electronics projects into mini 10" racks.</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">January 17, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/project-mini-rack-compact-and-portable-homelabs>
+
+---
+
+## Social Engineering to Disable iMessage Protections
+
+date: 2025-01-17, updated: 2025-01-16, from: Bruce Schneier blog
+
+<p>I am always interested in new phishing tricks, and watching them spread across the ecosystem.</p>
+<p>A few days ago I started getting phishing SMS messages with a new twist. They were standard messages about delayed packages or somesuch, with the goal of getting me to click on a link and entering some personal information into a website. But because they came from unknown phone numbers, the links did not work. So&#8212;this is the new bit&#8212;the messages said something like: &#8220;Please reply Y, then exit the text message, reopen the text message activation link, or copy the link to Safari browser to open it.&#8221;...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/01/social-engineering-to-disable-imessage-protections.html>
+
+---
+
+## The LA fire and the common good
+
+date: 2025-01-17, from: Robert Reich's blog
+
+Are we all in this together or are we on our own? 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-la-fire-and-the-common-good>
+
+---
+
+## January 16, 2025 
+
+date: 2025-01-17, from: Heather Cox Richardson blog
+
+In his final address to the nation last night, President Joe Biden issued a warning that &#8220;an oligarchy is taking shape in America of extreme wealth, power, and influence that literally threatens our entire democracy, our basic rights and freedoms, and a fair shot for everyone to get ahead.&#8221; 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-16-2025>
+
+---
+
+## Severance Balloon Generator
+
+date: 2025-01-17, updated: 2025-01-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://severanceballoon.com/>
+
+---
+
+## David Lynch Dies at 78
+
+date: 2025-01-17, updated: 2025-01-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.rogerebert.com/tributes/have-a-great-day-david-lynch-1946-2025>
+
+---
+
+## Bob Uecker, Mr. Baseball, Dies at 90
+
+date: 2025-01-17, updated: 2025-01-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://defector.com/bob-uecker-was-just-the-best?giftLink=4e90dd98613fd68a7ca54975700e1c5a>
+
+---
+
+## Friday 17 January, 2025
+
+date: 2025-01-17, from: John Naughton's online diary
+
+The big tent The Schlumberger Centre in West Cambridge at dusk yesterday. It’s an oil exploration research lab on my cycle-path to and from college. It was designed by Hopkins to “foster interactions between scientists within its laboratories, workshops and &#8230; <a href="https://memex.naughtons.org/friday-17-january-2025/40340/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-17-january-2025/40340/>
+
+---
+
+## Biden Bids Farewell with a Warning
+
+date: 2025-01-17, from: Dan Rather's Steady
+
+Trump and his billionaire buddies threaten our democracy 
+
+<br> 
+
+<https://steady.substack.com/p/biden-bids-farewell-with-a-warning>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-16, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/11/26/uncleSam.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Before declaring democracy over, as our major news orgs and tech companies seem to have, remember there are still 50 states, most of whom still seem to accept that votes must be counted, and the winner is who gets the most, not the one who sends in a mob to trash the state Capitol. 
+
+<br> 
+
+<http://scripting.com/2025/01/16.html#a202815>
+
+---
+
+## Presentation: curl from start to end
+
+date: 2025-01-16, from: Daniel Stenberg Blog
+
+On Tuesday January 21st 2025, at 16:00 CET (15:00 UTC) I will do a presentation titled as per above. I have not done this one before. The talk will be a detailed explainer and step-by-step going through exactly what happens when a curl command line is typed into a shell and the return key is &#8230; <a href="https://daniel.haxx.se/blog/2025/01/16/presentation-curl-from-start-to-end/" class="more-link">Continue reading <span class="screen-reader-text">Presentation: curl from start to end</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/01/16/presentation-curl-from-start-to-end/>
+
+---
+
+## Vision Pro & Lessons of the MacBook Air
+
+date: 2025-01-16, from: Om Malik blog
+
+It is just over a year since Apple launched its face computer, and seventeen years ago it launched its skinny computer. The trajectory of one tells a lot about the future of the other. But before we get to that, a little trip down memory lane embellished with some grainy photos snapped with old camera &#8230; 
+
+<br> 
+
+<https://om.co/2025/01/16/vision-pro-lessons-of-the-macbook-air/>
+
+---
+
+## January 15, 2024
+
+date: 2025-01-16, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154972907/c8cf12312e9582f636810a1921b9f68b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154972907/c8cf12312e9582f636810a1921b9f68b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-15-2024-f34>
+
+---
+
+##  Film director David Lynch has died at the age of 78. RIP,... 
+
+date: 2025-01-16, updated: 2025-01-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046002-film-director-david-lynch>
+
+---
+
+## Today's fortune cookie
+
+date: 2025-01-16, from: Dave Winer's Scripting News
+
+<p>My advice for today.</p>
+<p>Tell someone they’re right.</p>
+<p>With gusto!</p>
+<p>Like this.</p>
+<p>You’re not just right, you’re <i>fucking</i> right!</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/16/180405.html?title=todaysFortuneCookie>
+
+---
+
+## The Speech Joe Biden Is Likely to be Remembered For.
+
+date: 2025-01-16, from: James Fallows, Substack
+
+For eight minutes last night, Joe Biden sounded nothing like the president we've come to know. He sounded like another president who also boldly stepped out of character when delivering his farewell. 
+
+<br> 
+
+<https://fallows.substack.com/p/the-speech-joe-biden-is-likely-to>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-16, from: Dave Winer's Scripting News)
+
+Now that I have a search engine for my blog, I can reliably look for all instances of <a href="https://daytona.scripting.com/search?q=%22wordle%20kitty%22">Wordle Kitty</a> which was a character I was playing around with last year with ChatGPT. It even comes out in reverse chronologic order, and it's better than Google which ignores a lot of my blog these days. My own search engine doesn't do that of course. 
+
+<br> 
+
+<http://scripting.com/2025/01/16.html#a172237>
+
+---
+
+## Nintendo Drops Switch 2 Trailer
+
+date: 2025-01-16, updated: 2025-01-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=itpcsQQvgAQ>
+
+---
+
+## A Prophet Of The Web
+
+date: 2025-01-16, from: David Rosenthal's blog
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4uNBSGncpDuahU327woHMV6IbSTAfHghJt5sruliN1APCfR4xjwjHGVGWjrzFy2Mg4NTZvHJQRvZUT3mQGC9FENveT8O05Fodf9VE9fqycphBlywle0W8xAWQJYzkNQ39WKATmuX585CADQeCKqm7npsBpzitmNCVjI1aE5TpgiVO2qks6OWVg0iBypUo/s1600/Title.png" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="1508" data-original-width="1600" height="189" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4uNBSGncpDuahU327woHMV6IbSTAfHghJt5sruliN1APCfR4xjwjHGVGWjrzFy2Mg4NTZvHJQRvZUT3mQGC9FENveT8O05Fodf9VE9fqycphBlywle0W8xAWQJYzkNQ39WKATmuX585CADQeCKqm7npsBpzitmNCVjI1aE5TpgiVO2qks6OWVg0iBypUo/w200-h189/Title.png" width="200" /></a>
+While doing the research for a future talk, I came across an obscure but impressively prophetic report entitled <a href="https://eric.ed.gov/?id=ED368360"><i>Accessibility and Integrity of Networked Information Collections</i></a> that Cliff Lynch wrote for the federal Office of Technology Assessment in 1993, 32 years ago. I say "obscure" because it doesn't appear in Lynch's <a href="https://www.cni.org/about-cni/staff/clifford-a-lynch/publications/lynch-pubs-pre97">pre-1997 bibliography</a>.<br />
+<br />
+To give you some idea of the context in which it was written, unless you are over 70, it was more than half your life ago when in November 1989 Tim Berners-Lee's <a href="https://en.wikipedia.org/wiki/Tim_Berners-Lee">browser first accessed a page from his Web server</a>. It was only about the same time that the first commercial, as opposed to research, Internet Service Providers started with the <a href="https://en.wikipedia.org/wiki/History_of_the_Internet">ARPANET being decommissioned</a> the next year.  Two years later, in December of 1991, the Stanford Linear Accelerator Center put up the <a href="https://blog.dshr.org/2014/11/first-us-web-page.html">first US Web page</a>. In 1992 Tim Berners-Lee <a href="https://www.w3.org/Protocols/HTTP/HTRESP.html">codified and extended the HTTP protocol</a> he had earlier implemented.  It would be another two years before Netscape became the <a href="http://books.google.com/books?id=dR2G0oPufe0C&lpg=PA69&ots=UnIlNi_km1&dq=netscape%20SSL%201.0&pg=PA69#v=onepage&q=netscape%20SSL%201.0&f=false">first browser to support HTTPS</a>.  It would be two years after that before the ITEF approved HTTP/1.0 in <a href="https://datatracker.ietf.org/doc/html/rfc1945">RFC 1945</a>. As you can see, Lynch was writing among the birth-pangs of the Web.<br />
+<br />
+Although Lynch was insufficiently pessimistic, he got a lot of things exactly right. Below the fold I provide four out of many examples.<br />
+<span><a name='more'></a></span>
+<br />
+Page numbers refer to the PDF, not to the original. Block quotes without a link are from the report.<br />
+<h3>Disinformation</h3>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxG2aSnQh-l5fwOwwSBumMDpR0NX-iW8c__C3bQnan6lSQF7qF0pVVAD0KeQ0lOAtTDl_rVRg98owRUH97t9K6Wq2acUO5cwWftsksPgrr_wwXdLj8ZmIKiwI33nRpCNMLdo7huPFlO7Z_rumJjM02PWWRGJFQGuyOnvCnIrJ5ZGlJJcvzrARrnQ9Slv_1/s2706/Page66.png" style="clear: right; display: block; margin-left: auto; margin-right: auto; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="956" data-original-width="2706" height="71" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxG2aSnQh-l5fwOwwSBumMDpR0NX-iW8c__C3bQnan6lSQF7qF0pVVAD0KeQ0lOAtTDl_rVRg98owRUH97t9K6Wq2acUO5cwWftsksPgrr_wwXdLj8ZmIKiwI33nRpCNMLdo7huPFlO7Z_rumJjM02PWWRGJFQGuyOnvCnIrJ5ZGlJJcvzrARrnQ9Slv_1/w200-h71/Page66.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Page 66<br /></td></tr></tbody></table>
+When discussing the "strong bias in the Internet user community to prefer free information sources" he was, alas, prescient although it took more than "a few years":<br />
+<blockquote>
+The ultimate result a few years hence &mdash; <i>and it may not be a bad or inappropriate response, given the reality of the situation</i> &mdash; may be a perception of the Internet and much of the information accessible through it as the "net of a million lies", following science fiction author Vernor Vinge's vision of an interstellar information network characterized by the continual release of information (which may or may not be true, and where the reader often has no means of telling whether the information is accurate) by a variety of organizations for obscure and sometimes evil reasons.
+</blockquote>
+The Vernor Vinge reference is to <a href="https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep"><i>A Fire Upon the Deep</i></a>:<br />
+<blockquote>
+In the novel, the Net is depicted as working much like the <a href="https://en.wikipedia.org/wiki/Usenet">Usenet</a> network in the early 1990s, with transcripts of messages containing header and footer information as one would find in such forums.
+</blockquote>
+The downsides of a social medium to which anyone can post without moderation were familiar to anyone who was online in the days of the <a href="https://en.wikipedia.org/wiki/Usenet">Usenet</a>:<br />
+<blockquote>
+Usenet is culturally and historically significant in the networked world, having given rise to, or popularized, many widely recognized concepts and terms such as "FAQ", "flame", sockpuppet, and "spam".<br />
+...<br />
+Likewise, many conflicts which later spread to the rest of the Internet, such as the ongoing difficulties over spamming, began on Usenet.:<br />
+<blockquote>
+"Usenet is like a herd of performing elephants with diarrhea. Massive, difficult to redirect, awe-inspiring, entertaining, and a source of mind-boggling amounts of excrement when you least expect it."<br />
+<br />
+— Gene Spafford, 1992
+</blockquote>
+</blockquote>
+Earlier in the report Lynch had written (Page 23):<br />
+<blockquote>
+Access to electronic information is of questionable value if the integrity of that information is seriously compromised; indeed, access to inaccurate information, or even deliberate misinformation, may be worse than no access at all, particularly for the naive user who is not inclined to question the information that the new electronic infrastructure is offering.
+</blockquote>
+This resonates as the wildfires rage in Los Angeles.<br />
+<h3><a href="https://search.worldcat.org/title/918590403">Information Doesn't Want To Be Free</a></h3>
+Although Tim Berners-Lee's initial HTTP specification included the status code <a href="https://www.w3.org/Protocols/HTTP/HTRESP.html"><b>402 Payment Required</b></a>:<br />
+<blockquote>
+The parameter to this message gives a specification of charging schemes acceptable. The client may retry the request with a suitable ChargeTo header.
+</blockquote>
+the Web in 1993 lacked paywalls. But Lynch could see them coming (Page 22):<br />
+<blockquote>
+There is a tendency to incorrectly equate access to the network with access to information; part of this is a legacy from the early focus on communications infrastructure rather than network content. Another part is the fact that traditionally the vast bulk of information on the Internet has been publicly accessible if one could simply obtain access to the Internet itself, figure out how to use it, and figure out where to locate the information you wanted. As proprietary information becomes accessible on the Internet on a large scale, this will change drastically. In my view, access to the network will become commonplace over the next decade or so, much as access to the public switched telephone network is relatively ubiquitous today. But in the new "information age" information will not necessarily be readily accessible or affordable;
+</blockquote>
+The current <a href="https://datatracker.ietf.org/doc/html/rfc9110">RFC 9110</a> states:<br />
+<blockquote>
+The 402 (Payment Required) status code is reserved for future use.
+</blockquote>
+Instead today's Web is infested with paywalls, each with their own idiosyncratic user interface, infrastructure, and risks.<br />
+<h3>The Death Of "First Sale"</h3>
+Lynch understood the highly consequential nature of the change in the business model of paid information access from <i>purchasing</i> a copy to <i>renting</i> access to the publisher's copy; from a legal framework of copyright and the <a href="https://en.wikipedia.org/wiki/First-sale_doctrine">"first sale" doctrine</a>, to one of copyright and contract law (Page 30):<br />
+<blockquote>
+Now, consider a library acquiring information in an electronic format. Such information is almost never, today, sold to a library (under the doctrine of first sale); rather, it is licensed to the library that acquires it, with the terms under which the acquiring library can utilize the information defined by a contract typically far more restrictive than copyright law. The licensing contract typically includes statements that define the user community permitted to utilize the electronic information as well as terms that define the specific uses that this user community may make of the licensed electronic information.  These terms typically do not reflect any consideration of public policy decisions such as fair use, and in fact the licensing organization may well be liable for what its patrons do with the licensed information.
+</blockquote>
+The power imbalance between publishers and their customers is of long standing, and it especially affects the academic literature. In 1989 the Association of Research Libraries published <a href="https://books.google.com/books?id=xuXgAAAAMAAJ&amp;pg=PA39-IA19&amp;lpg=PA39-IA19&amp;dq=chuck+hammicker+serials+pricing+crisis&amp;source=bl&amp;ots=9ZMEXp73DG&amp;sig=n4WexMPTa5kqWbilLv-WJoX959g&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiw07nvot3aAhXqh1QKHdInDu8Q6AEIXTAH#v=onepage&amp;q=%22the%20sun%22&amp;f=false"><i>Report of the ARL Serials Prices Project</i></a>:<br />
+<blockquote class="tr_bq">
+The ARL Serials Initiative forms part of a special campaign mounted by librarians in the 1980s against the high cost of serials subscriptions. This is not the first time that libraries have suffered from high serial prices. For example, in 1927 the Association of American Universities reported that:<br />
+<blockquote class="tr_bq">
+"Librarians are suffering because of the increasing volume of publications and rapidly rising prices. Of special concern is the much larger number of periodicals that are available and that members of the faculty consider essential to the successful conduct of their work. Many instances were found in which science departments were obligated to use all of their allotment for library purposes to purchase their periodical literature which was regarded as necessary for the work of the department"
+</blockquote>
+</blockquote>
+The oligopoly rents extracted by academic publishers have been a problem for close on a century, if not longer! Lynch's analysis of the effects of the Web's amplification of this power imbalance is wide-ranging, including (Page 31):<br />
+<blockquote>
+Very few contracts with publishers today are perpetual licenses; rather, they are licenses for a fixed period of time, with terms subject to renegotiation when that time period expires. Libraries typically have no controls on price increase when the license is renewed; thus, rather than considering a traditional collection development decision about whether to renew a given subscription in light of recent price increases, they face the decision as to whether to lose all existing material that is part of the subscription as well as future material if they choose not to commit funds to cover the publisher's price increase at renewal time.
+</blockquote>
+Thus destroying libraries' traditional role as stewards of information for future readers. And (Page 30):<br />
+<blockquote>
+Of equal importance, the contracts typically do not recognize activities such as interlibrary loan, and prohibit the library licensing the information from making it available outside of that library's immediate user community.  This destroys the current cost-sharing structure that has been put in place among libraries through the existing interlibrary loan system, and makes each library (or, perhaps, the patrons of that library) responsible for the acquisitions cost of any material that is to be supplied to those patrons in electronic form.  The implications of this shift from copyright law and the doctrine of first sale to contract law (and very restrictive contract terms) is potentially devastating to the library community and to the ability of library patrons to obtain access to electronic information &mdash; in particular, it dissolves the historical linkage by which public libraries can provide access to information that is primarily held by research libraries to individuals desiring access to this information.  There is also a great irony in the move to licensing in the context of computer communications networks &mdash; while these networks promise to largely eliminate the accidents of geography as an organizing principle for inter-institutional cooperation and to usher in a new era of cooperation among geographically dispersed organizations, the shift to licensing essentially means that each library contracting with a publisher or other information provider becomes as isolated, insular organization that cannot share its resources with any other organization on the network.
+</blockquote>
+<h3>Surveillance Capitalism</h3>
+Lynch also foresaw the start of "surveillance capitalism" (Page 60):<br />
+<blockquote>
+we are now seeing considerable use of multi-source data fusion: the matching and aggregation of credit, consumer, employment, medical and other data about individuals. I expect that we will recapitulate the development of these secondary markets in customer behavior histories for information seeking in the 1990s; we will also see information-seeking consumer histories integrated with a wide range of other sources of data on individual behavior.<br />
+<br />
+The ability to accurately, cheaply and easily count the amount of use that an electronic information resource receives (file accesses, database queries, viewings of a document, etc.) coupled with the ability to frequently alter prices in a computer-based marketplace (particularly in acquire on demand systems that operate on small units of information such as journal articles or database records, but even, to a lesser extent, by renegotiating license agreements annually) may give rise to a number of radical changes. These potentials are threatening for all involved.
+</blockquote>
+He described search-based advertising (Page 61)<br />
+<blockquote>
+The ability to collect not only information on what is being sought out or used but also who is doing the seeking or using is potentially very valuable information that could readily be resold, since it can be used both for market analysis (who is buying what) and also for directed marketing (people who fit a certain interest profile, as defined by their information access decisions, would likely also be interested in new product X or special offer Y). While such usage (without the informed consent of the recipient of the advertising) may well offend strong advocates of privacy, in many cases the consumers are actually quite grateful to hear of new products that closely match their interests.  And libraries and similar institutions, strapped for revenue, may have to recognize that usage data can be a valuable potential revenue source, no matter how unattractive they find collecting, repackaging and reselling this information.
+</blockquote>
+Of course, it wasn't the libraries but Google, spawned from the <a href="https://en.wikipedia.org/wiki/Stanford_Digital_Library_Project">Stanford Digital Library Project</a>, which ended up collecting the information and monetizing it. And the power imbalance between publishers and readers meant that the reality of tracking was hidden (Page 63):<br />
+<blockquote>
+when one is accessing (anonymously or otherwise) a public-access information service, it is unclear what to expect, and in fact at present there is no way to even learn what the policy of the information service provider is.
+</blockquote> 
+
+<br> 
+
+<https://blog.dshr.org/2025/01/a-prophet-of-web.html>
 
 ---
 
@@ -109,7 +432,7 @@ date: 2025-01-15, updated: 2025-01-16, from: Daring Fireball
 
 ## Apple Pulled a Fun In-Character Promo Stunt for ‘Severance’ Yesterday at Grand Central Terminal
 
-date: 2025-01-15, updated: 2025-01-15, from: Daring Fireball
+date: 2025-01-15, updated: 2025-01-16, from: Daring Fireball
 
  
 
@@ -360,7 +683,7 @@ date: 2025-01-15, updated: 2025-01-16, from: Daring Fireball
 
 ## While CTO at Pandora, Tom Conrad Had Them Building Their iPhone App Before the iPhone SDK Was Released
 
-date: 2025-01-15, updated: 2025-01-15, from: Daring Fireball
+date: 2025-01-15, updated: 2025-01-17, from: Daring Fireball
 
  
 
@@ -646,6 +969,19 @@ The incoming Trump administration is working to put its agenda into place.
 
 ---
 
+## On Neil Gaiman and sexual abuse
+
+date: 2025-01-14, from: Jessica Smith's blog
+
+<p>I will not be seeking out or reading that article that came out today, because I&rsquo;m sure I&rsquo;d find it too triggering. Besides, some revelations already came out months ago, and I read those, and I&rsquo;m gonna assume the latest ones are more of the same (maybe worse).</p>
+<p>Look, I was also abused by a self-proclaimed &ldquo;male feminist&rdquo; when I was younger, and the audacity of these men makes me really angry. It&rsquo;s like they get off on the contradiction, on lying through their teeth and having the wider world lap it all up while the victim just quietly seethes. And maybe also because the lie makes it easier to attract more naïve victims, I don&rsquo;t know. I really try not to let my bitterness overcome me, and not <em>always</em> assume the worst of men who remind me of him, but then periodically there are these reveals and I&rsquo;m like, &ldquo;Oh, guess I should have listened to my instincts all along.&rdquo; I mean, I know we&rsquo;re talking about some random celebrity I&rsquo;m never gonna meet whose work I never really liked, but still. Gaiman can go to hell, and so can every other perpetrator of abuse, but <em>especially</em> the slimy ones with these charismatic, &ldquo;anti-sexist&rdquo; personas. There is a <em>special</em> level of hell for you.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/01/on-neil-gaiman.html>
+
+---
+
 ## Bananas Bloomberg Report: ‘China Weighs Sale of TikTok’s US Operations to Elon Musk’
 
 date: 2025-01-14, updated: 2025-01-14, from: Daring Fireball
@@ -732,7 +1068,7 @@ date: 2025-01-13, updated: 2025-01-13, from: Daring Fireball
 
 ## ★ One Bit of Anecdata That the Web Is Languishing Vis-à-Vis Native Mobile Apps
 
-date: 2025-01-13, updated: 2025-01-13, from: Daring Fireball
+date: 2025-01-13, updated: 2025-01-17, from: Daring Fireball
 
 The notion that mobile web apps are closing the gap with native apps is laughable. The gulf between them is widening, not narrowing. 
 

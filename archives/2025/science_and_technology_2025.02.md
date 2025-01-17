@@ -1,11 +1,443 @@
 ---
 title: science and technology
-updated: 2025-01-16 07:04:56
+updated: 2025-01-17 07:04:59
 ---
 
 # science and technology
 
-(date: 2025-01-16 07:04:56)
+(date: 2025-01-17 07:04:59)
+
+---
+
+## Germany unleashes AMD-powered Hunter supercomputer
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>€15 million system to serve as testbed for larger Herder supercomputer coming in 2027</h4> <p>Hundreds of AMD APUs fired up on Thursday as Germany&#39;s High-Performance Computing Center (HLRS) at the University of Stuttgart announced the completion of its latest supercomputer dubbed Hunter.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/hlrs_supercomputer_hunter/>
+
+---
+
+## NASA Kennedy Ground Systems Prepping Hardware for Artemis II, Beyond
+
+date: 2025-01-17, from: NASA breaking news
+
+Teams with NASA are gaining momentum as work progresses toward future lunar missions for the benefit of humanity as numerous flight hardware shipments from across the world arrived at the agency’s Kennedy Space Center in Florida for the first crewed Artemis flight test and follow-on lunar missions. The skyline at Kennedy will soon see added [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/nasa-kennedy-ground-systems-prepping-hardware-for-artemis-ii-beyond/>
+
+---
+
+## Copilot invades Microsoft 365 Personal and Family for an extra three bucks a month
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>Many users less than impressed by unexpected arrival of AI assistant in Word</h4> <p>Copilot is coming to Microsoft 365 Personal and Family, and Vulture Central has had some hands-on experience with the generative AI assistant&#39;s attempts to be helpful.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/copilot_microsoft_365/>
+
+---
+
+## Sustainable Business Model Challenge
+
+date: 2025-01-17, from: NASA breaking news
+
+Climate change presents one of the most urgent crises of our time, with increasing threats to life, infrastructure, economies, and ecosystems worldwide. Climate change is no longer a distant concern; its effects are being felt now and are projected to intensify if emissions continue unabated. The consequences are severe and irreversible for people today, with [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/sustainable-business-model-challenge/>
+
+---
+
+## 35 Years Ago: NASA Selects its 13th Group of Astronauts
+
+date: 2025-01-17, from: NASA breaking news
+
+On Jan. 17, 1990, NASA announced the selection of its 13th group of astronaut candidates. The diverse group comprised 23 candidates – seven pilots and 16 mission specialists. The group included one African American, one Asian American, and five women including the first female pilot and the first Hispanic woman. Following one year of astronaut [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/history/35-years-ago-nasa-selects-its-13th-group-of-astronauts/>
+
+---
+
+## Apple solves broken news alerts by turning off the AI
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>Summaries will return when Apple Intelligence has &#39;improved&#39;</h4> <p>Apple has released a new beta of iOS 18.3 and tacitly admitted that, yes, its AI-generated notification summaries need a bit more work.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/apple_intelligence_summaries_disabled/>
+
+---
+
+## IBM swoops in to rescue UK Emergency Services Network after Motorola shown the door
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>With a near half-billion-pound price hike bringing contract value to £1.4B</h4> <p>IBM has secured a deal with the UK Home Office to supply user services for the troubled Emergency Service Network (ESN) upgrade, providing voice and data communications after Motorola withdrew from the project.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/ibm_esn_contract/>
+
+---
+
+## Medusa ransomware group claims attack on UK's Gateshead Council
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>Pastes allegedly stolen documents on leak site with £600K demand</h4> <p>Another year and yet another UK local authority has been pwned by a ransomware crew. This time it&#39;s Gateshead Council in North East England at the hands of the Medusa group.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/gateshead_council_cybersecurity_incident/>
+
+---
+
+## On This Day in 1950, Thieves Stole Millions in a Famous Robbery That Took Years for the Police to Solve
+
+date: 2025-01-17, from: Smithsonian Magazine
+
+Investigators finally cracked the case thanks to infighting among the thieves—but never located all the money 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/on-this-day-in-1950-thieves-stole-millions-in-a-famous-robbery-that-took-years-for-the-police-to-solve-180985843/>
+
+---
+
+## Brit government contractor CloudKubed enters administration
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>Home Office, Department for Work and Pensions supplier in hands of FRP Advisory</h4> <p>A self-described specialist supplier of &#34;transformational data and AI solutions&#34; to the UK government has called in the administrative receivers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/cloudkubed_administration/>
+
+---
+
+## Tech support fill-in given no budget, no help, no training, and no empathy for his plight
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>Fixed the problem anyway – with no approval for a purchase and no permission to use a device</h4> <p><strong>On Call</strong>  When the weekend rolls around, nobody needs permission to do whatever they desire. Unless, of course, they&#39;re required to be available to support tech – a restriction we mark each week in On Call, the column that celebrates fine fixing feats achieved despite the footling of flummoxed fools.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/on_call/>
+
+---
+
+## Microsoft eggheads say AI can never be made secure – after testing Redmond's own products
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>If you want a picture of the future, imagine your infosec team stamping on software forever</h4> <p>Microsoft brainiacs who probed the security of more than 100 of the software giant&#39;s own generative AI products came away with a sobering message: The models amplify existing security risks and create new ones.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/microsoft_ai_redteam_infosec_warning/>
+
+---
+
+## AWS adds 32-vCPU option and an easier on-ramp to its cloudy desktops
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>Weirdly, this shows the weakness of hosted Windows with an admission about vidchats</h4> <p>Amazon Web Services has flicked the switch on a pair of workstation-grade cloud desktops that, ironically, highlight a problem with the tech.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/aws_workspaces_upgrades/>
+
+---
+
+## SpaceX resets ‘Days Since Starship Exploded’ counter to zero
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>Test flight seven did better on the ground with a successful booster catch</h4> <p>SpaceX has again lost a Starship, after the seventh test flight of the spacecraft ended with a “rapid unscheduled disassembly”, but is nonetheless celebrating the mission as it ended with the second successful catch of its Super Heavy booster.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/spacex_starship_explosion_booster_catch/>
+
+---
+
+## Just as your LLM once again goes off the rails, Cisco, Nvidia are at the door smiling
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>Some of you have apparently already botched chatbots or allowed ‘shadow AI’ to creep in</h4> <p>Cisco and Nvidia have both recognized that as useful as today&#39;s AI may be, the technology can be equally unsafe and/or unreliable – and have delivered tools in an attempt to help address those weaknesses.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/nvidia_cisco_ai_guardrails_security/>
+
+---
+
+## GM parks claims that driver location data was given to insurers, pushing up premiums
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>We&#39;ll defo ask for permission next time, automaker tells FTC</h4> <p>General Motors on Thursday said that it has reached a settlement with the FTC &#34;to address privacy concerns about our now-discontinued Smart Driver program.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/gm_settles_ftc_charges/>
+
+---
+
+## NASA Names David Korth as Deputy, Safety and Mission Assurance Directorate
+
+date: 2025-01-16, from: NASA breaking news
+
+NASA has selected David Korth as deputy for Johnson Space Center’s Safety and Mission Assurance directorate. Korth previously served as deputy manager of the International Space Station Avionics and Software Office at Johnson Space Center prior to serving as acting deputy for Safety and Mission Assurance.&#160;I’m excited to embark on my new role as deputy [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-names-david-korth-as-deputy-safety-and-mission-assurance-directorate/>
+
+---
+
+## NASA Names Mary Beth Schwartz as Director, Center Operations Directorate
+
+date: 2025-01-16, from: NASA breaking news
+
+NASA has selected Mary Beth Schwartz as director of NASA’s Johnson Space Center Center Operations directorate. Schwartz previously served as the directorate’s deputy director.&#160;“I’m excited to embark on my new role as director for Johnson’s Center Operations directorate,” Schwartz said. “It is an honor to lead an organization that is foundational to the center’s mission [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-names-mary-beth-schwartz-as-director-center-operations-directorate/>
+
+---
+
+## Scientists Discover Celtic Society Where Men Left Home to Join Their Bride's Community
+
+date: 2025-01-16, from: Smithsonian Magazine
+
+DNA extracted from 57 individuals buried in a 2,000-year-old cemetery provides evidence of a "matrilocal" community in Iron Age Britain, a new study suggests 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-discover-celtic-society-where-men-left-home-to-join-their-brides-community-180985857/>
+
+---
+
+## Hubble Reveals Jupiter in Ultraviolet Light
+
+date: 2025-01-16, from: NASA breaking news
+
+This NASA&#160;Hubble Space Telescope&#160;image shows the planet Jupiter in a color composite of ultraviolet wavelengths. Released on Nov. 3, 2023, in honor of Jupiter reaching opposition, which occurs when the planet and the Sun are in opposite sides of the sky, this view of the gas giant planet includes the iconic, massive storm called the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hubble-reveals-jupiter-in-ultraviolet-light/>
+
+---
+
+## Hubble Captures Young Stars Changing Their Environments
+
+date: 2025-01-16, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image peers into the dusty recesses of the nearest massive star-forming region to Earth, the Orion Nebula (Messier 42, M42). Just 1,500 light-years away, the Orion Nebula is visible to the unaided eye below the three stars that form the ‘belt’ in the constellation Orion. The nebula is home to […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-captures-young-stars-changing-their-environments/>
+
+---
+
+## In farewell speech, Biden rails against the tech industrial complex, disinfo dismantling democracy
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>Welcome to a decade where the oligarchs are no longer silent in the shadows</h4> <p>US President Joe Biden gave his final address to the nation on Wednesday, and said America was visibly sliding into an oligopoly aided by a flood of online disinformation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/>
+
+---
+
+## See the Greek Biblical Inscription Embedded in an Ancient Mosaic Floor Discovered in Israel
+
+date: 2025-01-16, from: Smithsonian Magazine
+
+Archaeologists think the tiles once lined a Byzantine-era monastery. The complex also included a large warehouse and winepress 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-the-greek-biblical-inscription-embedded-in-an-ancient-mosaic-floor-discovered-in-israel-180985849/>
+
+---
+
+## NASA’s Day of Remembrance Honors Fallen Heroes of Exploration
+
+date: 2025-01-16, from: NASA breaking news
+
+NASA will observe its annual Day of Remembrance on Thursday, Jan. 23, honoring the members of the NASA family who lost their lives in the pursuit of exploration and discovery for benefit of humanity. The event, traditionally held every year on the fourth Thursday of January, remembers the crews of Apollo 1 and the space [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasas-day-of-remembrance-honors-fallen-heroes-of-exploration/>
+
+---
+
+## Feds sue Southwest for chronic delays, unrealistic schedules
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>Department of Transportation wants in on last-minute Biden administration action too</h4> <p>The Department of Transportation has joined the flurry of last-minute actions by the Biden administration with a lawsuit accusing Southwest Airlines of operating chronically delayed flights. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/us_government_sues_southwest_airlines/>
+
+---
+
+## ARMD Solicitations (USRC Proposal Updates)
+
+date: 2025-01-16, from: NASA breaking news
+
+This ARMD solicitations page compiles the opportunities to collaborate with NASA’s aeronautical innovators and/or contribute to their research to enable new and improved air transportation systems. A summary of available opportunities with key dates requiring action are listed first. More information about each opportunity is detailed lower on this page. University Student Research ChallengeQ&#38;A: January [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/armd-solicitations/>
+
+---
+
+## Meteorite Crash in Canada Is Caught by Home Security Camera in Likely World-First Video Footage
+
+date: 2025-01-16, from: Smithsonian Magazine
+
+The space rock—recorded with visuals and sound—landed where the homeowner had been standing just minutes earlier 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/meteorite-crash-in-canada-is-caught-by-home-security-camera-in-likely-world-first-video-footage-180985847/>
+
+---
+
+## Russia's Star Blizzard phishing crew caught targeting WhatsApp accounts
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>FSB cyberspies venture into a new app for espionage, Microsoft says</h4> <p>Star Blizzard, a prolific phishing crew backed by the Russian Federal Security Service (FSB), conducted a new campaign aiming to compromise WhatsApp accounts and gain access to their messages and data, according to Microsoft.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/russia_star_blizzard_whatsapp/>
+
+---
+
+## NASA’s Hubble Traces Hidden History of Andromeda Galaxy
+
+date: 2025-01-16, from: NASA breaking news
+
+In the years following the launch of NASA’s Hubble Space Telescope, astronomers have tallied over 1 trillion galaxies in the universe. But only one galaxy stands out as the most important nearby stellar island to our Milky Way — the magnificent Andromeda galaxy (Messier 31). It can be seen with the naked eye on a […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/nasas-hubble-traces-hidden-history-of-andromeda-galaxy/>
+
+---
+
+## Rare Jaw Fossil Found in China Might Belong to the World's Smallest Cat
+
+date: 2025-01-16, from: Smithsonian Magazine
+
+Scientists placed the extinct species, which may date back more than 300,000 years, in the same genus as modern leopard cats in Asia 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/rare-jaw-fossil-found-in-china-might-belong-to-the-worlds-smallest-cat-180985837/>
+
+---
+
+## TSMC plans to have 1.6nm chips in 'volume production' by 2026
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>You&#39;ve got to spend money – like $36 billion+ – to make, er, AI chips</h4> <p>TSMC is bumping capital expenditure in 2025 to between $38 billion and $42 billion in anticipation of scooping up more chip manufacturing contracts in the field of AI processors.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/tsmc_says_16nm_chips_volume_2026/>
+
+---
+
+## Enzo Biochem settles lawsuit over 2023 ransomware attack for $7.5M
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>That&#39;s in addition to the $4.5M fine paid to three state AGs last year</h4> <p>Enzo Biochem has settled a consolidated class-action lawsuit relating to its 2023 ransomware incident for $7.5 million.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/enzo_biochem_ransomware_lawsuit/>
+
+---
+
+## Anduril picks Ohio for 5 million square foot autonomous weapon factory
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>The hyperscale plant is designed to produce tens of thousands of AVs a year</h4> <p>Anduril has found a new home in Middle America with confirmation today that the defense tech maker plans to build its first hyperscale manufacturing facility in Columbus, Ohio. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/anduril_auto_weapon_factory/>
+
+---
+
+## Archaeologists Unearth Intricately Decorated Blocks From Hatshepsut's Temple in Egypt
+
+date: 2025-01-16, from: Smithsonian Magazine
+
+Officials have announced a number of discoveries during excavations around the valley temple of the powerful Egyptian queen, who reigned during the 15th century B.C.E. 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-unearth-intricately-decorated-blocks-from-hatshepsuts-temple-in-egypt-180985820/>
+
+---
+
+## Raspberry Pi hands out prizes to all in the RP2350 Hacking Challenge
+
+date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+
+<h4>Power-induced glitches, lasers, and electromagnetic fields are all tools of the trade</h4> <p>Raspberry Pi has given out prizes for extracting a secret value from the one-time-programmable (OTP) memory of the Raspberry Pi RP2350 microcontroller – awarding a pile of cash to all four entrants.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/16/raspberry_pi_awards_prizes_for/>
+
+---
+
+## Heat Destroys All Order. Except for in This One Special Case.
+
+date: 2025-01-16, from: Quanta Magazine
+
+Heat is supposed to ruin anything it touches. But physicists have shown that an idealized form of magnetism is heatproof.              <p>The post <a href="https://www.quantamagazine.org/heat-destroys-all-order-except-for-in-this-one-special-case-20250116/" target="_blank">Heat Destroys All Order. Except for in This One Special Case.</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/heat-destroys-all-order-except-for-in-this-one-special-case-20250116/>
 
 ---
 
@@ -37,7 +469,7 @@ date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
 
 date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
 
-<h4>Regulator asks people to link their credit cards, mobile accounts or face scans to smut use, to protect kids</h4> <p>The UK&#39;s communications regulator has published guidance for website operators aimed at preventing under-18s from accessing pornographic content online via &#34;highly effective age assurance&#34; techniques.…</p> 
+<h4>Regulator asks people to link their credit cards, mobile accounts, or face scans for smut use to protect kids</h4> <p>The UK&#39;s communications regulator has published guidance for website operators aimed at preventing under-18s from accessing pornographic content online via &#34;highly effective age assurance&#34; techniques.…</p> 
 
 <br> 
 
@@ -167,7 +599,7 @@ date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
 
 ## GoDaddy slapped with wet lettuce for years of lax security and 'several major breaches'
 
-date: 2025-01-15, updated: 2025-01-15, from: The Register (UK I.T. News)
+date: 2025-01-15, updated: 2025-01-17, from: The Register (UK I.T. News)
 
 <h4>Watchdog alleged it had no SIEM or MFA, orders rapid adoption of basic infosec tools</h4> <p>GoDaddy has failed to protect its web-hosting platform with even basic infosec tools and practices since 2018, according to the FTC, but the internet giant won’t face any immediate consequences for its many alleged acts of omission.…</p> 
 

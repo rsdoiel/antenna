@@ -1,11 +1,829 @@
 ---
 title: pacific
-updated: 2025-01-16 07:04:55
+updated: 2025-01-17 07:04:58
 ---
 
 # pacific
 
-(date: 2025-01-16 07:04:55)
+(date: 2025-01-17 07:04:58)
+
+---
+
+## ‘Shakespeare in Paradise’
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>The Kamuela Philharmonic invites the public to experience an enchanting afternoon of orchestral beauty and Shakespeare-inspired classics at at 2 p.m. Sunday, Jan. 26, at the Kahilu Theatre in Waimea.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/entertainment/shakespeare-in-paradise/>
+
+---
+
+## Temporary employees sought for Summer Fun Program
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Department of Parks and Recreation is now accepting employment applications for temporary positions in the 2025 Summer Fun Program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/community/temporary-employees-sought-for-summer-fun-program/>
+
+---
+
+## Free Plant People Road Show in Kona next month
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; Featuring five Big Isle mom and pop nurseries, the Plant People Road Show heralds the coming of spring during its first show of 2025 on Feb. 1.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/community/free-plant-people-road-show-in-kona-next-month/>
+
+---
+
+## Written test for driver’s permit now available online
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green and the four county mayors have announced the availability of a new online option to take the written learner&#8217;s permit test.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/community/written-test-for-drivers-permit-now-available-online/>
+
+---
+
+## Trump’s treasury pick defends plans to cut taxes and raise tariffs
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Scott Bessent, President-elect Donald Trump&#8217;s Treasury secretary pick, defended tax cuts and tariff increases Thursday, rebutting accusations from Democrats at his confirmation hearing that Trump&#8217;s policies would enrich the wealthiest Americans and hurt working families.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/nation-world-news/trumps-treasury-pick-defends-plans-to-cut-taxes-and-raise-tariffs/>
+
+---
+
+## A first-day Trump order: a federal stockpile of Bitcoin?
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>A pair of 50-page policy proposals laying out the plan in detail. Discussions about the specifics with President-elect Donald Trump and his advisers. And talks with Cabinet nominees about how to pay for it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/nation-world-news/a-first-day-trump-order-a-federal-stockpile-of-bitcoin/>
+
+---
+
+## SpaceX Starship prototype fails in space after Texas launch
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A SpaceX Starship prototype failed in space on Thursday, minutes after launching from Texas, setting back the company&#8217;s speedy rocket development efforts in a mission that was expected to debut a key satellite deployment demonstration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/nation-world-news/spacex-starship-prototype-fails-in-space-after-texas-launch/>
+
+---
+
+## Nintendo to release Switch 2 this year, more details in April
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>TOKYO &#8212; Japan&#8217;s Nintendo will release the Switch 2 console, successor to its hit Switch device, this year, it said on Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/nation-world-news/nintendo-to-release-switch-2-this-year-more-details-in-april/>
+
+---
+
+## How can Bolsonaro avoid prison? Trump, Musk and Zuckerberg, he says.
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>BRASILIA, Brazil &#8212; Jair Bolsonaro has had a rough couple of years: election losses, criminal cases, questionable embassy sleepovers. So when he finally received a piece of good news last week &#8212; an invitation to President-elect Donald Trump&#8217;s inauguration &#8212; it lifted his spirits.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/nation-world-news/how-can-bolsonaro-avoid-prison-trump-musk-and-zuckerberg-he-says/>
+
+---
+
+## Ukrainian migrant exit could squeeze Eastern Europe’s economies
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>VIENNA &#8212; Eastern European nations confronting a plethora of economic threats fuelled by war on their doorstep may face fresh pressure if peace is reached in Ukraine - from tight labour markets that fuel inflation thanks to an exodus of Ukrainian workers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/nation-world-news/ukrainian-migrant-exit-could-squeeze-eastern-europes-economies/>
+
+---
+
+## Israeli vote on ceasefire is delayed as diplomats work on details
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Negotiators raced on Thursday to resolve last-minute disputes in a ceasefire agreement between Israel and Hamas that would free hostages and halt the violence that has devastated the Gaza Strip over the past 15 months.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/nation-world-news/israeli-vote-on-ceasefire-is-delayed-as-diplomats-work-on-details/>
+
+---
+
+## In farewell address, Biden warns of an ‘oligarchy’ taking shape in America
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden on Wednesday warned that an &#8220;oligarchy&#8221; of the ultrawealthy was emerging in America, sounding the alarm about unchecked power as he gave a farewell speech to the nation just days before he surrenders office to a man he disdains.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/nation-world-news/in-farewell-address-biden-warns-of-an-oligarchy-taking-shape-in-america/>
+
+---
+
+## Giuliani keeps his property in settlement of defamation case
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Rudy Giuliani has reached a settlement with two Georgia election workers who he repeatedly, and falsely, claimed had helped to steal the 2020 election.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/nation-world-news/giuliani-keeps-his-property-in-settlement-of-defamation-case/>
+
+---
+
+## Trump is said to consider executive order to circumvent TikTok ban
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>President-elect Donald Trump is considering an executive order to allow TikTok to continue operating despite a pending legal ban until new owners are found, according to a person with knowledge of the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/nation-world-news/trump-is-said-to-consider-executive-order-to-circumvent-tiktok-ban/>
+
+---
+
+## Officer’s cellphone, other items sought in ‘Sammy’ case
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>An attorney for the family of a teenage pedestrian struck and killed a year ago by an on-duty Hawaii Police Department officer driving a blue-and-white cruiser was in court Thursday, attempting to obtain the officer&#8217;s cellphone and GPS data relating to the fatal incident.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/hawaii-news/officers-cellphone-other-items-sought-in-sammy-case/>
+
+---
+
+## Economic toll of Los Angeles fires goes far beyond destroyed homes
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>After decades of mounting damage from climate-fueled natural disasters, researchers have compiled many misery-filled data sets that trace the economic fallout over weeks, months and years.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/nation-world-news/economic-toll-of-los-angeles-fires-goes-far-beyond-destroyed-homes/>
+
+---
+
+## Trump’s housing pick emphasizes need to build more affordable housing
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Scott Turner, a former pro football player whom President-elect Donald Trump has picked to lead the Housing and Urban Development Department, emphasized the need to boost the supply of affordable housing and reduce regulatory barriers during his confirmation hearing Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/nation-world-news/trumps-housing-pick-emphasizes-need-to-build-more-affordable-housing/>
+
+---
+
+## Subaru Telescope gets a significant upgrade
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>The Subaru Telescope on Maunakea will be able to observe more than 2,000 celestial objects at once with a new instrument that will go online in February.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/hawaii-news/subaru-telescope-gets-a-significant-upgrade/>
+
+---
+
+## Captain Cook man accused of invasion of privacy
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>A 39-year-old Captain Cook man is accused of using his iPhone to take secret video of his girlfriend&#8217;s adult daughter while she was nude.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/hawaii-news/captain-cook-man-accused-of-invasion-of-privacy/>
+
+---
+
+## METH OVERDOSES BY HAWAIʻI SENIORS
+
+date: 2025-01-17, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists are: tba &#160;</p>
+<p>The post <a href="https://www.pbshawaii.org/meth-overdoses-by-hawai%ca%bbi-seniors/">METH OVERDOSES BY HAWAIʻI SENIORS</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/meth-overdoses-by-hawai%ca%bbi-seniors/>
+
+---
+
+## Submillimeter Array on Maunakea illuminates birth of planetary system
+
+date: 2025-01-17, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> astronomer Jonathan Williams helped capture images of exocomet belts using the Submillimeter Array on Maunakea.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/17/sma-illuminates-birth-of-planetary-system/">Submillimeter Array on Maunakea illuminates birth of planetary system</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/17/sma-illuminates-birth-of-planetary-system/>
+
+---
+
+## President Whipps Outlines Vision for Palau’s Progress in Second Term
+
+date: 2025-01-17, from: Island Times
+
+<figure><img width="639" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/pres.jpg?fit=639%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/pres.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/pres.jpg?resize=187%2C300&amp;ssl=1 187w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/pres.jpg?resize=639%2C1024&amp;ssl=1 639w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/pres.jpg?resize=768%2C1231&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/pres.jpg?resize=400%2C641&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/pres.jpg?resize=706%2C1132&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/pres.jpg?fit=639%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75075" data-permalink="https://islandtimes.org/president-whipps-outlines-vision-for-palaus-progress-in-second-term/pres/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/pres.jpg?fit=900%2C1443&amp;ssl=1" data-orig-size="900,1443" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;7.1&quot;,&quot;credit&quot;:&quot;RICHARD BROOKS&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark III&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1737027803&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;44&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.008&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="pres" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/pres.jpg?fit=187%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/pres.jpg?fit=639%2C1024&amp;ssl=1" /></figure>
+<p>(NGERULMUD, Melekeok) President Surangel Whipps Jr., during his second inaugural address in Ngerulmud on Thursday, laid out an ambitious vision for Palau, emphasizing unity, self-reliance, and sustainability. Marking 30 years since the establishment of Palau’s constitutional government, Whipps called on citizens to preserve their cultural heritage while adapting to a rapidly evolving global landscape. “Together, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/president-whipps-outlines-vision-for-palaus-progress-in-second-term/">President Whipps Outlines Vision for Palau’s Progress in Second Term</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/president-whipps-outlines-vision-for-palaus-progress-in-second-term/>
+
+---
+
+## Historic Gains for Women as Palau’s 12th National Government Takes Office
+
+date: 2025-01-17, from: Island Times
+
+<figure><img width="1024" height="875" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/historic.jpg?fit=1024%2C875&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/historic.jpg?w=1246&amp;ssl=1 1246w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/historic.jpg?resize=300%2C256&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/historic.jpg?resize=1024%2C875&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/historic.jpg?resize=768%2C656&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/historic.jpg?resize=1200%2C1026&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/historic.jpg?resize=400%2C342&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/historic.jpg?resize=706%2C603&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/historic.jpg?fit=1024%2C875&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75072" data-permalink="https://islandtimes.org/historic-gains-for-women-as-palaus-12th-national-government-takes-office/jan17issue-indd/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/historic.jpg?fit=1246%2C1065&amp;ssl=1" data-orig-size="1246,1065" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;jan17issue.indd&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="jan17issue.indd" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/historic.jpg?fit=300%2C256&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/historic.jpg?fit=780%2C667&amp;ssl=1" /></figure>
+<p>KOROR, Palau—The 12th Palau National Government was officially installed yesterday, marking a peaceful transition of power with a mix of returning and new leaders signaling potential shifts from the past four years. In the Senate, Senator Hokkons Baules was reinstated as Senate President, with Senator Dr. Stevenson Kuartei elected Vice President and Senator Kerai Mariur [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/historic-gains-for-women-as-palaus-12th-national-government-takes-office/">Historic Gains for Women as Palau’s 12th National Government Takes Office</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/historic-gains-for-women-as-palaus-12th-national-government-takes-office/>
+
+---
+
+## Taiwan-Palau Smart Hospital Project Enhances Healthcare with AI-Driven Solutions
+
+date: 2025-01-17, from: Island Times
+
+<figure><img width="1024" height="579" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Launch-of-Smart-Hospital.jpg?fit=1024%2C579&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Launch-of-Smart-Hospital.jpg?w=1246&amp;ssl=1 1246w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Launch-of-Smart-Hospital.jpg?resize=300%2C170&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Launch-of-Smart-Hospital.jpg?resize=1024%2C579&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Launch-of-Smart-Hospital.jpg?resize=768%2C435&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Launch-of-Smart-Hospital.jpg?resize=1200%2C679&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Launch-of-Smart-Hospital.jpg?resize=400%2C226&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Launch-of-Smart-Hospital.jpg?resize=706%2C399&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Launch-of-Smart-Hospital.jpg?fit=1024%2C579&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75068" data-permalink="https://islandtimes.org/taiwan-palau-smart-hospital-project-enhances-healthcare-with-ai-driven-solutions/launch-of-smart-hospital/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Launch-of-Smart-Hospital.jpg?fit=1246%2C705&amp;ssl=1" data-orig-size="1246,705" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1737049355&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;160&quot;,&quot;shutter_speed&quot;:&quot;0.0083333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Launch of Smart Hospital" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Launch-of-Smart-Hospital.jpg?fit=300%2C170&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Launch-of-Smart-Hospital.jpg?fit=780%2C441&amp;ssl=1" /></figure>
+<p>KOROR, Palau – Belau National Hospital, in partnership with Shin Kong Hospital in Taiwan, has launched the Taiwan-Palau Smart Hospital Project, an initiative using cutting-edge technology and artificial intelligence to deliver cost-effective, real-time diagnostic services aimed at transforming healthcare in Palau. The project was officially launched on January 16, 2025, in a ceremony attended by [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwan-palau-smart-hospital-project-enhances-healthcare-with-ai-driven-solutions/">Taiwan-Palau Smart Hospital Project Enhances Healthcare with AI-Driven Solutions</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/taiwan-palau-smart-hospital-project-enhances-healthcare-with-ai-driven-solutions/>
+
+---
+
+## Belau Modekngei School marks 51st Anniversary with ribbon cutting for New Learning Center
+
+date: 2025-01-17, from: Island Times
+
+<figure><img width="1024" height="484" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_6368.jpg?fit=1024%2C484&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_6368.jpg?w=1246&amp;ssl=1 1246w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_6368.jpg?resize=300%2C142&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_6368.jpg?resize=1024%2C484&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_6368.jpg?resize=768%2C363&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_6368.jpg?resize=1200%2C567&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_6368.jpg?resize=400%2C189&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_6368.jpg?resize=706%2C334&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_6368.jpg?fit=1024%2C484&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75063" data-permalink="https://islandtimes.org/taiwan-contributes-4-2m-to-palau-infrastructure-projects/img_6368/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_6368.jpg?fit=1246%2C589&amp;ssl=1" data-orig-size="1246,589" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;22&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS Rebel T7&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1736641890&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;18&quot;,&quot;iso&quot;:&quot;500&quot;,&quot;shutter_speed&quot;:&quot;0.005&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_6368" data-image-description="" data-image-caption="&lt;p&gt;Belau Modekngei Marks 51st Anniversary&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_6368.jpg?fit=300%2C142&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_6368.jpg?fit=780%2C369&amp;ssl=1" /></figure>
+<p>IBOBANG, NGATPANG — The Belau Modekngei School celebrated its 51st anniversary with a vibrant event held in Ibobang, Ngatpang, on Sunday, January 12. The celebration, which began at 10 a.m. and concluded at 3 p.m., also featured a ribbon-cutting ceremony for the Oremuul Youth Multi-purpose Learning Center. The event was organized by the Belau Modekngei [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/belau-modekngei-school-marks-51st-anniversary-with-ribbon-cutting-for-new-learning-center/">Belau Modekngei School marks 51st Anniversary with ribbon cutting for New Learning Center</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/belau-modekngei-school-marks-51st-anniversary-with-ribbon-cutting-for-new-learning-center/>
+
+---
+
+## Taiwan contributes $4.2M to Palau Infrastructure projects
+
+date: 2025-01-17, from: Island Times
+
+<p>KOROR, Palau — Taiwan has reaffirmed its commitment to Palau’s development through its annual stimulus grant, delivering $4.2 million for infrastructure improvements across the island nation. Ambassador Jessica Lee of the Republic of China (Taiwan) presented the initial drawdown check to President Surangel S. Whipps Jr. on Jan. 2, 2025, marking another milestone in the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwan-contributes-4-2m-to-palau-infrastructure-projects/">Taiwan contributes $4.2M to Palau Infrastructure projects</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/taiwan-contributes-4-2m-to-palau-infrastructure-projects/>
+
+---
+
+## Palauan Embassy urges Palauan citizens residing in the U.S. to maintain valid documentation
+
+date: 2025-01-17, from: Island Times
+
+<p>Amid the new U.S. administrations Mass Deportation Plans By: Eustoria Marie Borja WASHINGTON, D.C. – The Embassy of the Republic of Palau in Washington, D.C., has issued a Notice Alert Bulletin urging all Palauan citizens residing in the United States to verify and maintain the validity of their immigration documents under the Compact of Free [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauan-embassy-urges-palauan-citizens-residing-in-the-u-s-to-maintain-valid-documentation/">Palauan Embassy urges Palauan citizens residing in the U.S. to maintain valid documentation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palauan-embassy-urges-palauan-citizens-residing-in-the-u-s-to-maintain-valid-documentation/>
+
+---
+
+## PNOC unveils ‘Palau Rising’ strategy to Foster Global Sports partnerships
+
+date: 2025-01-17, from: Island Times
+
+<figure><img width="1024" height="565" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PNOC-Unveils-Sport-Strategy.jpg?fit=1024%2C565&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PNOC-Unveils-Sport-Strategy.jpg?w=1246&amp;ssl=1 1246w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PNOC-Unveils-Sport-Strategy.jpg?resize=300%2C165&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PNOC-Unveils-Sport-Strategy.jpg?resize=1024%2C565&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PNOC-Unveils-Sport-Strategy.jpg?resize=768%2C423&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PNOC-Unveils-Sport-Strategy.jpg?resize=1200%2C662&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PNOC-Unveils-Sport-Strategy.jpg?resize=400%2C221&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PNOC-Unveils-Sport-Strategy.jpg?resize=706%2C389&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PNOC-Unveils-Sport-Strategy.jpg?fit=1024%2C565&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75058" data-permalink="https://islandtimes.org/pnoc-unveils-palau-rising-strategy-to-foster-global-sports-partnerships/pnoc-unveils-sport-strategy/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PNOC-Unveils-Sport-Strategy.jpg?fit=1246%2C687&amp;ssl=1" data-orig-size="1246,687" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1736964554&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0.0083333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PNOC Unveils Sport Strategy" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PNOC-Unveils-Sport-Strategy.jpg?fit=300%2C165&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PNOC-Unveils-Sport-Strategy.jpg?fit=780%2C430&amp;ssl=1" /></figure>
+<p>KOROR, Palau — The Palau National Olympic Committee (PNOC) introduced its first-ever National Sports Strategy, “Palau Rising,” in a gathering with international partners on January 15 at the Palau Pacific Resort. The event, attended by diplomats and representatives from resident missions of the United States, Japan, Taiwan, and Australia, highlighted Palau’s ambitions to elevate sports [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pnoc-unveils-palau-rising-strategy-to-foster-global-sports-partnerships/">PNOC unveils &#8216;Palau Rising&#8217; strategy to Foster Global Sports partnerships</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pnoc-unveils-palau-rising-strategy-to-foster-global-sports-partnerships/>
+
+---
+
+## Japan-Palau Foreign Ministers’ meeting
+
+date: 2025-01-17, from: Island Times
+
+<figure><img width="1024" height="569" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Japan1.jpg?fit=1024%2C569&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Japan1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Japan1.jpg?resize=300%2C167&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Japan1.jpg?resize=1024%2C569&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Japan1.jpg?resize=768%2C427&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Japan1.jpg?resize=1200%2C667&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Japan1.jpg?resize=400%2C222&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Japan1.jpg?resize=706%2C392&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Japan1.jpg?fit=1024%2C569&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75055" data-permalink="https://islandtimes.org/japan-palau-foreign-ministers-meeting/japan1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Japan1.jpg?fit=1249%2C694&amp;ssl=1" data-orig-size="1249,694" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Japan1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Japan1.jpg?fit=300%2C167&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Japan1.jpg?fit=780%2C433&amp;ssl=1" /></figure>
+<p>On January 15, commencing at 8:55 p.m. local time (same time in Japan) for approximately 30 minutes, Mr. IWAYA Takeshi, Minister for Foreign Affairs of Japan, during his visit to Koror, Republic of Palau, held a bilateral meeting with the Hon. Gustav AITARO, Minister of State of the Republic of Palau. The overview is as [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japan-palau-foreign-ministers-meeting/">Japan-Palau Foreign Ministers&#8217; meeting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/japan-palau-foreign-ministers-meeting/>
+
+---
+
+## Tickets now available for PICRC’s 24th Anniversary
+
+date: 2025-01-17, from: Island Times
+
+<figure><img width="900" height="832" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRC24MainVisuals20241001-1.jpg?fit=900%2C832&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRC24MainVisuals20241001-1.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRC24MainVisuals20241001-1.jpg?resize=300%2C277&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRC24MainVisuals20241001-1.jpg?resize=768%2C710&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRC24MainVisuals20241001-1.jpg?resize=400%2C370&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRC24MainVisuals20241001-1.jpg?resize=706%2C653&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRC24MainVisuals20241001-1.jpg?fit=900%2C832&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75051" data-permalink="https://islandtimes.org/tickets-now-available-for-picrcs-24th-anniversary/picrc24mainvisuals20241001-1-3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRC24MainVisuals20241001-1.jpg?fit=900%2C832&amp;ssl=1" data-orig-size="900,832" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PICRC24MainVisuals20241001 (1)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRC24MainVisuals20241001-1.jpg?fit=300%2C277&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRC24MainVisuals20241001-1.jpg?fit=780%2C721&amp;ssl=1" /></figure>
+<p>The Palau International Coral Reef Center (PICRC) is happy to announce that its 24th Anniversary Fundraising Gala Dinner will take place on the evening of January 23, 2025, at 6 pm, on the PICRC grounds. This year’s Anniversary theme, ‘Resilient Ocean, Resilient Community’, highlights the vital connection between healthy oceans and the well-being of Palauan [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tickets-now-available-for-picrcs-24th-anniversary/">Tickets now available for PICRC’s 24th Anniversary</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/tickets-now-available-for-picrcs-24th-anniversary/>
+
+---
+
+## Dmakeiukl community meeting in Aimeliik
+
+date: 2025-01-17, from: Island Times
+
+<figure><img width="1024" height="554" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Women-Fisheries-update.jpg?fit=1024%2C554&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Women-Fisheries-update.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Women-Fisheries-update.jpg?resize=300%2C162&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Women-Fisheries-update.jpg?resize=1024%2C554&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Women-Fisheries-update.jpg?resize=768%2C416&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Women-Fisheries-update.jpg?resize=1200%2C649&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Women-Fisheries-update.jpg?resize=400%2C216&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Women-Fisheries-update.jpg?resize=706%2C382&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Women-Fisheries-update.jpg?fit=1024%2C554&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75048" data-permalink="https://islandtimes.org/dmakeiukl-community-meeting-in-aimeliik/women-fisheries-update/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Women-Fisheries-update.jpg?fit=1249%2C676&amp;ssl=1" data-orig-size="1249,676" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Women Fisheries update" data-image-description="" data-image-caption="&lt;p&gt;Women Fisheries update&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Women-Fisheries-update.jpg?fit=300%2C162&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Women-Fisheries-update.jpg?fit=780%2C422&amp;ssl=1" /></figure>
+<p>(December 17, 2024, AIMELIIK) &#8211; The West Coast Communities of Palau concluded its fourth and final community meetings for 2024 in the State of Aimeliik on Tuesday, December 17, 2024.&#160; As with the other Keiukl States, Aimeliik Rangers undertook a Communications Training to learn how to design and implement a communications plan providing education and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/dmakeiukl-community-meeting-in-aimeliik/">Dmakeiukl community meeting in Aimeliik</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/dmakeiukl-community-meeting-in-aimeliik/>
+
+---
+
+## PAWS Mobile Spay/Neuter Clinic is going to Airai
+
+date: 2025-01-17, from: Island Times
+
+<figure><img width="225" height="225" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/paws.jpg?fit=225%2C225&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/paws.jpg?w=225&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/paws.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/paws.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/paws.jpg?fit=225%2C225&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/paws.jpg?fit=225%2C225&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="52156" data-permalink="https://islandtimes.org/paws-mobile-spay-neuter-clinic-is-going-to-melekeok/paws-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/paws.jpg?fit=225%2C225&amp;ssl=1" data-orig-size="225,225" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="paws" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/paws.jpg?fit=225%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/paws.jpg?fit=225%2C225&amp;ssl=1" /></figure>
+<p>Palau Animal Welfare Society (PAWS) alongside Governor Ngiratecheboet and Airai State Government will hold a Free Spay/Neuter Mobile Clinic at Ked Center, Airai January 19, 20 and 21 (Sunday, Monday, and Tuesday). There will be a $10 promotion with spay/neuter surgery performed free of charge and a $10 reward given to the owner for their [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/paws-mobile-spay-neuter-clinic-is-going-to-airai-2/">PAWS Mobile Spay/Neuter Clinic is going to Airai</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/paws-mobile-spay-neuter-clinic-is-going-to-airai-2/>
+
+---
+
+## The Tides of Life
+
+date: 2025-01-17, from: Island Times
+
+<figure><img width="600" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?resize=400%2C378&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="59961" data-permalink="https://islandtimes.org/raumatic-grief/womens-corner-1-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" data-orig-size="600,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" /></figure>
+<p>Tides of life is a metaphor comparing the highs and lows in life to the ocean tides. Entering into the year 2025 is chaotic at best from plane crashes, bombings, fires, deaths, adverse weather to political upheaval, all of which are affecting the entire globe. We strive to live our best life amidst the chaos [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-tides-of-life/">The Tides of Life</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/the-tides-of-life/>
+
+---
+
+## FAST ousts PM Fiame and original members
+
+date: 2025-01-17, from: Island Times
+
+<p>APIA, (SAMOA OBSERVER) &#8212; In another twist to the ongoing political turmoil that has gripped Samoa over the past week, Prime Minister Fiame Naomi Mata’afa has been removed from the Fa’atuatua i le Atua Samoa ua Tasi (FAST) party.  The decision comes amid tensions following Fiame’s removal of Minister of Agriculture and Fisheries, La’auli Leuatea [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/fast-ousts-pm-fiame-and-original-members/">FAST ousts PM Fiame and original members</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/fast-ousts-pm-fiame-and-original-members/>
+
+---
+
+## South Korean President Yoon arrested over failed martial law bid
+
+date: 2025-01-17, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250115__36TY6BF__v3__Preview__TopshotSkoreaPoliticsArrest.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250115__36TY6BF__v3__Preview__TopshotSkoreaPoliticsArrest.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250115__36TY6BF__v3__Preview__TopshotSkoreaPoliticsArrest.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250115__36TY6BF__v3__Preview__TopshotSkoreaPoliticsArrest.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250115__36TY6BF__v3__Preview__TopshotSkoreaPoliticsArrest.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250115__36TY6BF__v3__Preview__TopshotSkoreaPoliticsArrest.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250115__36TY6BF__v3__Preview__TopshotSkoreaPoliticsArrest.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250115__36TY6BF__v3__Preview__TopshotSkoreaPoliticsArrest.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250115__36TY6BF__v3__Preview__TopshotSkoreaPoliticsArrest.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75036" data-permalink="https://islandtimes.org/south-korean-president-yoon-arrested-over-failed-martial-law-bid/skorea-politics-arrest/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250115__36TY6BF__v3__Preview__TopshotSkoreaPoliticsArrest.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;AFP&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Police officers stand at the barricade with supporters of impeached South Korean President Yoon Suk Yeol as authorities try to detain him near his residence in Seoul on January 15, 2025. Yoon was arrested on January 15 over his failed martial law bid, after hundreds of anti-graft investigators and police raided his residence to end a weeks-long standoff. (Photo by YASUYOSHI CHIBA \/ AFP)&quot;,&quot;created_timestamp&quot;:&quot;1736895780&quot;,&quot;copyright&quot;:&quot;AFP or licensors&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;SKOREA-POLITICS-ARREST&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="SKOREA-POLITICS-ARREST" data-image-description="" data-image-caption="&lt;p&gt;Police officers stand at the barricade with supporters of impeached South Korean President Yoon Suk Yeol as authorities try to detain him near his residence in Seoul on January 15, 2025. Yoon was arrested on January 15 over his failed martial law bid, after hundreds of anti-graft investigators and police raided his residence to end a weeks-long standoff. (Photo by YASUYOSHI CHIBA / AFP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250115__36TY6BF__v3__Preview__TopshotSkoreaPoliticsArrest.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/AFP__20250115__36TY6BF__v3__Preview__TopshotSkoreaPoliticsArrest.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By Claire LEE Seoul, South Korea&#8211; Impeached South Korean leader Yoon Suk Yeol was arrested on Wednesday over his failed martial law bid, ending a weeks-long standoff with authorities and becoming the first sitting president to be detained in the nation&#8217;s history. Yoon, who faces charges of insurrection over his short-lived effort to impose martial law [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/south-korean-president-yoon-arrested-over-failed-martial-law-bid/">South Korean President Yoon arrested over failed martial law bid</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/south-korean-president-yoon-arrested-over-failed-martial-law-bid/>
+
+---
+
+## Israel and Hamas officials reach Gaza ceasefire deal
+
+date: 2025-01-17, from: Island Times
+
+<p>By Middle East correspondent Matthew Doran in Tel Aviv, Thomas Morgan in London and Brad Ryan in Washington DC In short: (ABC-Australia) Qatar and the US say a ceasefire deal between Israel and Hamas will take effect on Sunday, January 19. Under the deal, fighting would pause for six weeks while negotiations towards a lasting peace continue. The first phase of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/israel-and-hamas-officials-reach-gaza-ceasefire-deal/">Israel and Hamas officials reach Gaza ceasefire deal</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/israel-and-hamas-officials-reach-gaza-ceasefire-deal/>
+
+---
+
+## Trouble is brewing in paradise: Samoa prime minister's leadership hangs in the balance
+
+date: 2025-01-17, from: Pacific Island Times
+
+With just over a year left in her tenure as Samoa’s prime minister, Fiame Naomi Mata’afa faces a political upheaval threatening a peaceful e 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/trouble-is-brewing-in-paradise-samoa-prime-minister-s-leadership-hangs-in-the-balance>
+
+---
+
+## ‘Buy America’ policy waived for Guam, CNMI and freely associated states
+
+date: 2025-01-17, from: Pacific Island Times
+
+The U.S. Department of Transportation has waived the domestic procurement requirement for U.S. Pacific territories and the freely associated 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/buy-america-policy-waived-for-guam-cnmi-and-freely-associated-states>
+
+---
+
+## Jessie eager to begin studies at USP
+
+date: 2025-01-17, from: University of the South Pacific (Fiji)
+
+<p>Jessie Lewamoqe Kubu is eager to begin Semester 1 studies at The University of the...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/jessie-eager-to-begin-studies-at-usp/">Jessie eager to begin studies at USP</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/jessie-eager-to-begin-studies-at-usp/>
+
+---
+
+## UH President Hensel provides update on UH Mānoa AD search
+
+date: 2025-01-17, from: University of Hawaiʻi News
+
+<p>The search for a new athletic director is set to begin immediately, with the goal of having a new leader in place by the end of summer, or possibly earlier.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/16/update-uh-manoa-ad-search/"><abbr>UH</abbr> President Hensel provides update on <abbr>UH</abbr> Mānoa <abbr>AD</abbr> search</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/16/update-uh-manoa-ad-search/>
+
+---
+
+## ‘Making the most out of what we have’: Building Bishu Marianas
+
+date: 2025-01-17, from: The Husk
+
+The snack business is the brainchild of Chamorro owners Daisy Demapan and Cassy Matsutaro Deleon Guerrero 
+
+<br> 
+
+<https://thehusk.substack.com/p/making-the-most-out-of-what-we-have>
+
+---
+
+## Pre-screening policy officially in place for Saipan-bound Chinese tourists
+
+date: 2025-01-17, from: Pacific Island Times
+
+The discretionary parole policy for Chinese tourists seeking to enter the Northern Marianas visa-free will be terminated on Feb. 20, and off 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/pre-screening-policy-officially-in-place-for-saipan-bound-chinese-tourists>
+
+---
+
+## Waikīkī sea-level rise adaptation project earns national recognition
+
+date: 2025-01-16, from: University of Hawaiʻi News
+
+<p>The project earned a Design Award of Honor from the Society of American Registered Architects in New York City.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/16/waikiki-sea-level-rise/">Waikīkī sea-level rise adaptation project earns national recognition</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/16/waikiki-sea-level-rise/>
+
+---
+
+## New UH President Hensel provides first report to Board of Regents
+
+date: 2025-01-16, from: University of Hawaiʻi News
+
+<p>President Hensel reflected on her visit to the <abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> campus, which marked the beginning of her tour of <abbr>UH</abbr> campuses and education centers.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/16/presidents-january-2025-report/">New <abbr>UH</abbr> President Hensel provides first report to Board of Regents</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/16/presidents-january-2025-report/>
+
+---
+
+## UH teams host top cutting-edge conferences on Oʻahu
+
+date: 2025-01-16, from: University of Hawaiʻi News
+
+<p>They brought together some of the brightest minds in accounting and digital technology.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/16/harc-hicss-2025/"><abbr>UH</abbr> teams host top cutting-edge conferences on Oʻahu</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/16/harc-hicss-2025/>
+
+---
+
+## New UH Hilo series inspires connection through ʻōlelo Hawaiʻi
+
+date: 2025-01-16, from: University of Hawaiʻi News
+
+<p><span aria-label="Olelo">&#699;&#332;lelo</span> Resource of the Month will explore Native Hawaiian protocols related to language, traditions and more.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/16/olelo-resource-of-the-month/">New <abbr>UH</abbr> Hilo series inspires connection through <span aria-label="olelo">ʻōlelo</span> <span aria-label="Hawaii">Hawaiʻi</span></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/16/olelo-resource-of-the-month/>
+
+---
+
+## HIKI NŌ on PBS Hawaiʻi Hawaiian Traditions in Motion
+
+date: 2025-01-16, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>On this special episode of HIKI NŌ on PBS Hawaiʻi, find out which schools produced the winning entries...</p>
+<p>The post <a href="https://www.pbshawaii.org/hawaiian-traditions-in-motion/">HIKI NŌ on PBS Hawaiʻi &lt;br/&gt;Hawaiian Traditions in Motion</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/hawaiian-traditions-in-motion/>
+
+---
+
+## In memoriam: Jeffrey Fiala, UH alumnus, firefighter and hero
+
+date: 2025-01-16, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> alumnus and fallen firefighter Jeffrey Fiala is remembered by close colleagues and friends.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/16/in-memoriam-jeffrey-fiala/">In memoriam: Jeffrey Fiala, <abbr>UH</abbr> alumnus, firefighter and hero</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/16/in-memoriam-jeffrey-fiala/>
+
+---
+
+## Power plant a nightmare
+
+date: 2025-01-16, from: Marshal Islands Journal
+
+<p>Journal 1/12/1982 P6 Reiher calls power plant a nightmarePower continues to be rationed this week as one breakdown after another keeps workers jumping from problem to problem. “It’s a nightmare,” said Bernard Reiher, acting secretary of Public Works. Reiher said he installed hundreds of power plants in Vietnam and some of them were in bad [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/power-plant-a-nightmare/">Power plant a nightmare</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/power-plant-a-nightmare/>
+
+---
+
+## Health care workers’ burnout, mental distress may impact patient outcomes
+
+date: 2025-01-16, from: University of Hawaiʻi News
+
+<p>The report explores the associations between mental health care-seeking among U.S. health providers, COVID-19-related work stressors, and work-related barriers to care-seeking.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/16/health-care-workers-mental-health/">Health care workers’ burnout, mental distress may impact patient outcomes</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/16/health-care-workers-mental-health/>
+
+---
+
+## Interstice
+
+date: 2025-01-16, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Kiy Pozzi a gap; a slit; the fissure a cottonwood branch makes at dawn; the stretch of time between thoughts while idling at the window. My mornings are an interstice of leisure from the two obligations that afford me &#8230; <a href="https://hawaiipacificreview.org/2025/01/16/interstice/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/01/16/interstice/>
+
+---
+
+## Bank of Korea unexpectedly holds policy rate amid won slide
+
+date: 2025-01-16, updated: 2025-01-16, from: Marianas Variety
+
+SEOUL (Reuters) — South Korea's central bank unexpectedly left its policy interest rate unchanged on Thursday, weighing the impact of its back-to-back cuts last year while supporting the won which weakened to a 15-year low versus the U.S. dollar in recent weeks. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/bank-of-korea-unexpectedly-holds-policy-rate-amid-won-slide/article_b1c214c0-d3fb-11ef-a260-77d073c26d12.html>
+
+---
+
+## ‘Gandang Pinay’ candidates undergo pageant boot camp
+
+date: 2025-01-16, updated: 2025-01-16, from: Marianas Variety
+
+THE Bayani Association will host the “Gandang Pinay” beauty pageant for a cause on March 1, Saturday, at the Saipan World Resort. Tickets are being sold at $25 for VIP and $15 for general admission. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/gandang-pinay-candidates-undergo-pageant-boot-camp/article_f96c6958-d3f4-11ef-9467-c7ccdb1a3f22.html>
+
+---
+
+## Love well, live well!
+
+date: 2025-01-16, updated: 2025-01-16, from: Marianas Variety
+
+<div class="jso-cursor-trail-wrapper" style="position: fixed; left: 0px; top: 0px; width: 100vw; height: 100vh; overflow: hidden; pointer-events: none; z-index: 9999;"> <div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div></div> 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/love-well-live-well/article_e30d01da-d3c8-11ef-976c-fb506e857df3.html>
+
+---
+
+## Local beats, healthy moves
+
+date: 2025-01-16, updated: 2025-01-16, from: Marianas Variety
+
+<div class="jso-cursor-trail-wrapper" style="position: fixed; left: 0px; top: 0px; width: 100vw; height: 100vh; overflow: hidden; pointer-events: none; z-index: 9999;"> <div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div></div> 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/local-beats-healthy-moves/article_5eca41de-d077-11ef-9705-37eb9d7d2122.html>
+
+---
+
+## A warrior's journey to wellness: The inspiring story of Fabian Indalecio
+
+date: 2025-01-16, updated: 2025-01-16, from: Marianas Variety
+
+<div class="jso-cursor-trail-wrapper" style="position: fixed; left: 0px; top: 0px; width: 100vw; height: 100vh; overflow: hidden; pointer-events: none; z-index: 9999;"> <div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div><div class="jso-cursor-trail-shape" style="position: absolute; left: 0px; top: 0px; pointer-events: none; display: none;"> </div></div> 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/a-warriors-journey-to-wellness-the-inspiring-story-of-fabian-indalecio/article_137ad9f8-d3bc-11ef-9788-a7ef9a9f5b15.html>
+
+---
+
+## MVA managing director resigns
+
+date: 2025-01-16, updated: 2025-01-16, from: Marianas Variety
+
+CHRISTOPHER A. Concepcion, managing director of the Marianas Visitors Authority, has formally tendered his resignation to the MVA board of directors. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/mva-managing-director-resigns/article_5b8052ac-d3f1-11ef-a6ba-a7d7ea090463.html>
+
+---
+
+## Fuel prices up by 10 cents
+
+date: 2025-01-16, updated: 2025-01-16, from: Marianas Variety
+
+MOBIL Oil and Shell Marianas have increased their fuel prices by 10 cents. It’s the first fuel price hike this year. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/fuel-prices-up-by-10-cents/article_cc3dfd52-d3a9-11ef-9cf5-cb09ef088b56.html>
+
+---
+
+## OPD: All Garapan Core streets fully paved, Garapan Revitalization Project 92% complete
+
+date: 2025-01-16, updated: 2025-01-16, from: Marianas Variety
+
+(OPD) — The Office of Planning and Development, which is under the Office of the Governor, is pleased to announce to the public that all streets within the Garapan Core are fully paved and enhanced with revitalized curbs, sidewalks, and parking spaces as of Jan. 15, 2025. OPD thanks Garapan’s business owners and the community for their continued support and cooperation as work on this premier project for the CNMI nears completion. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/opd-all-garapan-core-streets-fully-paved-garapan-revitalization-project-92-complete/article_9fd06942-d3e2-11ef-b326-9beb58ee0103.html>
+
+---
+
+## Governor’s office launches newsletter
+
+date: 2025-01-16, updated: 2025-01-16, from: Marianas Variety
+
+THE Office of the Governor on Thursday  announced the launch its new biweekly newsletter, “From Capitol Hill: Across the Agencies,” which is designed to keep the public informed “about the incredible work being done throughout the CNMI government.” 
+
+<br> 
+
+<https://www.mvariety.com/news/local/governor-s-office-launches-newsletter/article_09dda324-d3e1-11ef-a054-0396849c8d8b.html>
 
 ---
 
@@ -270,6 +1088,20 @@ date: 2025-01-16, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/01/16/nation-world-news/trump-nominees-pressed-on-political-influence-in-senate-hearings/>
+
+---
+
+## VIDEO: Lava fountains reach heights of more than 300 feet in Episode 4 of the Kilauea eruption
+
+date: 2025-01-16, from: Hawaii Tribune Harold
+
+
+				<p>This is a USGS video compilation of Episode 4 of the ongoing Kilauea summit eruption that began Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/16/hawaii-news/video-lava-fountains-reach-heights-of-more-than-300-feet-in-episode-4-of-the-kilauea-eruption/>
 
 ---
 
@@ -1361,7 +2193,7 @@ date: 2025-01-14, from: Island Times
 
 date: 2025-01-14, from: Island Times
 
-<figure><img width="925" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?fit=925%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?resize=271%2C300&amp;ssl=1 271w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?resize=925%2C1024&amp;ssl=1 925w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?resize=768%2C850&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?resize=1200%2C1328&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?resize=400%2C443&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?resize=706%2C781&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?fit=925%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74999" data-permalink="https://islandtimes.org/visa-crackdown-nets-six-as-palau-enforces-presidential-directive/20250110_173917/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?fit=1249%2C1382&amp;ssl=1" data-orig-size="1249,1382" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1736530757&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;32&quot;,&quot;shutter_speed&quot;:&quot;0.0083&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20250110_173917" data-image-description="" data-image-caption="&lt;p&gt;People caught in the immigration dragnet, having overstayed their tourist visas&lt;/p&gt;
+<figure><img width="925" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?fit=925%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?resize=271%2C300&amp;ssl=1 271w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?resize=925%2C1024&amp;ssl=1 925w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?resize=768%2C850&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?resize=1200%2C1328&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?resize=400%2C443&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?resize=706%2C781&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?fit=925%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74999" data-permalink="https://islandtimes.org/visa-crackdown-nets-six-as-palau-enforces-presidential-directive/20250110_173917/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?fit=1249%2C1382&amp;ssl=1" data-orig-size="1249,1382" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1736530757&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;32&quot;,&quot;shutter_speed&quot;:&quot;0.0083&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20250110_173917" data-image-description="" data-image-caption="&lt;p&gt;People caught in the immigration dragnet, having overstayed their tourist visas&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?fit=271%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250110_173917.jpg?fit=780%2C863&amp;ssl=1" /></figure>
 <p>Six Chinese nationals have been arrested for immigration violations under Presidential Directive No. 24-65, which was signed on Dec. 18, 2024. The group, comprising five men and one woman, was apprehended Friday at the Blue Seaview Hotel in Meyuns, authorities said. The individuals are accused of violating immigration laws and remain in custody pending the [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/visa-crackdown-nets-six-as-palau-enforces-presidential-directive/">Visa Crackdown nets six as Palau Enforces Presidential Directive</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>

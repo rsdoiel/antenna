@@ -1,11 +1,1307 @@
 ---
 title: north america
-updated: 2025-01-16 07:04:55
+updated: 2025-01-17 07:04:57
 ---
 
 # north america
 
-(date: 2025-01-16 07:04:55)
+(date: 2025-01-17 07:04:57)
+
+---
+
+## Why economic growth among developing countries is slowing
+
+date: 2025-01-17, from: Market Place
+
+Over the first 10 years of the 21st century, developing economies were growing at historically fast rates. That has since changed. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/17/economic-growth-developing-countries/>
+
+---
+
+## Both Democrats and Republicans largely support funding Medicaid and Medicare, poll finds
+
+date: 2025-01-17, from: Market Place
+
+Both programs are major sources of government spending and could find themselves in the sights of those who want to slash federal budgets. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/17/democrats-republicans-medicaid-medicare-funding-bipartisanship/>
+
+---
+
+## Atmospheric Carbon Dioxide Levels Are Rising Faster Than Ever
+
+date: 2025-01-17, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTY2NjMxOS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2MDQ0NzE5NH0.24sPTO0a2HwDC6C1HiWlvtpRX0e0No8dBfrcZSa--Qo/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+<em><strong>Current conditions:</strong> Parts of North Dakota could feel wind chills of minus 50 degrees Fahrenheit in the coming days • A fire at the world’s largest battery storage plant prompted evacuations and health warnings in California’s Monterey County • It is warm and sunny in Doha, where negotiators signed a ceasfire deal between Israel and Hamas.</em>
+</p><h2>THE TOP FIVE</h2><h3>1. Atmospheric CO2 levels are rising faster than ever</h3><p>
+	Data from one of the longest-running and most reputable carbon dioxide observatories in the world suggests that atmospheric levels of the greenhouse gas increased at a record rate in 2024. The Mauna Loa observatory in Hawaii has been tracking atmospheric CO2 since 1958, and is “a good guide to rise in global average CO2 concentration,” <a href="https://www.metoffice.gov.uk/research/climate/seasonal-to-decadal/long-range/forecasts/co2-forecast-for-2025?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" rel="noopener noreferrer" target="_blank">according to</a> the UK’s Met Office. Mauna Loa’s <a href="https://www.metoffice.gov.uk/research/climate/seasonal-to-decadal/long-range/forecasts/co2-forecast-for-2025?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" rel="noopener noreferrer" target="_blank">measurements</a> show that between 2023 and 2024, CO2 concentrations rose by about 3.6 parts per million, the largest annual increase on record, meaning that not only are CO2 emissions still rising, but they’re rising faster than ever. This growth is not compatible with any pathways to limiting global temperature rise to 1.5 degrees Celsius set out by the Intergovernmental Panel on Climate Change.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="ec49b860b867b93a483ee32b0a57a591" data-rm-shortcode-name="rebelmouse-image" id="eab69" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTY2NjMyMy9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc0NDQwOTM1Nn0.ykZaC58k8yfn22g_Yp-4bOTo3Ui901yDA5a6C1N_1dw/image.png?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">Annual CO2 concentrations and forecasts in PPM. </small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">The Keeling Curve and Met Office</small>
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="eecddef1df4119b33f21792ee0f792c9" data-rm-shortcode-name="rebelmouse-image" id="83f44" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTY2NjMyNC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc3MzQ3OTU1NX0.VwjrNA8ZuifGybGjX0iQmqJY2K5vFicIzgNr2Ca2QR0/image.png?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">Long-term CO2 concentrations dating back 2,000 years.</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">The Keeling Curve and Met Office</small>
+</p><p>
+	“The actual CO2 rise of 3.58ppm was even faster than expected,” a group of climate researchers from the Met Office <a href="https://www.carbonbrief.org/met-office-atmospheric-co2-rise-now-exceeding-ipcc-1-5c-pathways/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" rel="noopener noreferrer" target="_blank">wrote</a> for <em><em>Carbon Brief</em></em>. They speculate that the loss of natural carbon sinks – especially through wildfires and their resulting emissions – may explain the leap. Last year was the warmest on record, and the first calendar year to see temperatures rise above the 1.5 degrees Celsius threshold. It was also a <a href="https://atmosphere.copernicus.eu/copernicus-americas-saw-exceptional-wildfire-activity-2024?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" rel="noopener noreferrer" target="_blank">record year for wildfires</a> in the Americas.
+</p><h3>2. DOE finalizes $6.57 billion Rivian loan</h3><p>
+	The Department of Energy’s Loan Programs Office yesterday <a href="https://www.energy.gov/lpo/articles/doe-announces-657-billion-loan-rivian-support-construction-ev-manufacturing-facility?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" rel="noopener noreferrer" target="_blank">closed</a> on a $6.57 billion loan to Rivian, less than two months after announcing the conditional loan. The money will help finance Project Horizon, a 9 million square foot EV manufacturing plant in Georgia, where Rivian plans to make some 400,000 mass market EVs per year, starting with its R2 and R3 models. It will support 2,000 full-time construction jobs and 7,500 operations jobs through 2030. “At full capacity, the EVs manufactured at the facility are expected to yield an annual fuel consumption savings of approximately 146 million gallons of petroleum,” the DOE said. The administration also closed a <a href="https://www.energy.gov/lpo/articles/doe-announces-166-billion-loan-guarantee-plug-power-produce-and-liquify-clean-hydrogen?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" rel="noopener noreferrer" target="_blank">$1.66 billion loan</a> for New York-based Plug Power to build six hydrogen plants. The LPO will likely come under scrutiny by the incoming Trump administration. In more Rivian news, Volkswagen is <a href="https://www.reuters.com/business/autos-transportation/volkswagen-looking-deepen-partnership-with-us-ev-maker-rivian-spiegel-reports-2025-01-17/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" rel="noopener noreferrer" target="_blank">reportedly</a> exploring ways to “deepen” its existing partnership with the carmaker.
+</p><h3>3. Biden administration offers $23 billion in loans to help clean up power utilities</h3><p>
+	The Department of Energy was busy yesterday. On top of the aforementioned financing deals, the LPO also <a href="https://www.energy.gov/lpo/articles/deal-digest-lpos-latest-conditional-commitments-help-keep-power-affordable-through-new?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" rel="noopener noreferrer" target="_blank">offered</a> $22.92 billion in conditional loans to eight electric utilities to help them make upgrades to boost clean power generation, storage, and transmission, as well as replacing leaky gas lines. The projects span 12 states and would serve nearly 15 million customers. <em><em>The New York Times </em></em><a href="https://www.nytimes.com/2025/01/16/climate/us-utilities-loan-energy.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" rel="noopener noreferrer" target="_blank">noted</a> that this is “one of the biggest commitments ever made” by the LPO. With just three days left before Trump takes office, the loans still need to be finalized. But DOE sources told the <em><em>Times</em></em> that the loans are legally binding and difficult to revoke.
+</p><div class="horizontal-rule"></div><p>
+<em>
+	Get Heatmap AM directly in your inbox every morning:<br/>
+</em>
+</p><p>
+<div id="mc_embed_signup"><form action="https://news.us13.list-manage.com/subscribe/post?u=eacecbac4b1d10158b5b6fbad&id=c5c20b220f&f_id=00a03fe3f0" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" target="_self"><div id="mc_embed_signup_scroll"><div class="indicates-required"><span class="asterisk">*</span> indicates required</div><div class="mc-field-group"><label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label><input class="required email" id="mce-EMAIL" name="EMAIL" placeholder="Your Email" required="" type="email" value=""/><span class="helper_text" id="mce-EMAIL-HELPERTEXT"></span><a class="policy__link" href="/privacy-statement">Our Privacy Policy & Terms Apply.</a></div>
+<li style="display:none!important;"><input checked="" id="mce-group[699211]-699211-2" name="group[699211][8]" type="checkbox" value="1"/></li>
+<input class="hidden hs-am" name="mcam" type="text" value="Yes"/>
+<input class="hidden hs-am" name="mcdaily" type="text" value="Yes"/>
+<div class="clear" id="mce-responses"><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div></div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div aria-hidden="true" style="position: absolute; left: -5000px;"><input name="b_eacecbac4b1d10158b5b6fbad_c5c20b220f" tabindex="-1" type="text" value=""/></div><div class="clear"><input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Sign Up"/></div></div></form></div>
+</p><div class="horizontal-rule"></div><h3>4. Takeaways from Zeldin and Burgum confirmation hearings</h3><p>
+	Confirmation hearings for Donald Trump’s energy and environment appointees continued yesterday, with Lee Zeldin and Doug Burgum appearing before the Senate for their nominations as Environmental Protection Agency administrator and secretary of the Interior. For many in the renewables space, <a href="https://heatmap.news/politics/doug-burgum-interior-confirmation-hearing?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" target="_self">Burgum’s hearing</a> offered little in the way of reassurances. He referenced concerns about the “baseload” of the grid more than 15 times during the hearing, primarily as a way to oppose the buildout of renewable energy. Burgum also touted “clean coal” (<a href="https://www.reuters.com/investigates/special-report/usa-coal-pollution/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" rel="noopener noreferrer" target="_blank">not so clean</a>) as a pathway to decarbonizing, defended Trump’s skepticism of wind power, and dodged questions seeking reassurance about his commitment to protecting federal lands. <a href="https://heatmap.news/politics/lee-zeldin-epa-confirmation-hearing?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" target="_self">EPA nominee Zeldin</a>, meanwhile, said he believes climate change is real and conceded that carbon dioxide traps heat, but defended Trump’s denialism on the issue. He said he wants to make the EPA more efficient and transparent, and indicated that industry perspectives on environmental rules and enforcement actions will likely receive a kinder ear from the agency under his leadership.
+</p><h3>5. Google goes big on biochar</h3><p>
+	In case you missed it: Google gave biochar a boost yesterday when it <a href="https://blog.google/feed/were-announcing-our-first-partnerships-to-scale-biochar-for-co2-removal/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" rel="noopener noreferrer" target="_blank">announced</a> it will buy 200,000 tons of carbon removal credits by 2030 from two firms, Indian company <a href="https://www.linkedin.com/pulse/varaha-partners-google-one-largest-purchases-biochar-carbon-jain-9c8kf/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" rel="noopener noreferrer" target="_blank">Varaha</a> and startup <a href="https://charmindustrial.com/blog/charm-duo?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" rel="noopener noreferrer" target="_blank">Charm Industrial</a>. As <a href="https://heatmap.news/technology/biochar-carbon-removal-microsoft?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" target="_self">Heatmap’s Katie Brigham has reported</a>, biochar is made by heating up biomass such as wood or plants in a low-oxygen environment via a process called pyrolysis, thereby sequestering up to 40% to 50% of the carbon contained within that organic matter for hundreds or even thousands of years. Varaha will generate biochar from an invasive plant; Charm will use <a href="https://www.axios.com/2025/01/16/google-carbon-removal-charm-industrial-biochar?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" rel="noopener noreferrer" target="_blank">biomass from forest management.</a> Biochar is a “cheap, nature-based method” of carbon removal, Brigham says, and it’s been getting attention from corporate buyers. The Google partnerships are “the largest biochar carbon removal deals to date,” and aim to help the nascent industry scale.
+</p><h2>THE KICKER</h2><p>
+<em>“This isn’t a fiscal blip.”</em>
+</p><p>
+	–Democratic Sen. Sheldon Whitehouse, former chair of the Senate Budget Committee, <a href="https://www.ft.com/content/c907d5f7-1a85-4527-8970-d0e157138f7e?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8F-uHaqeP9uk7dYKMJnh6T22DcmzzOa9HQD7mYMhoDWCOqghnLsG06cPHrcyt8HJIbxNVX" target="_blank">warns of</a> an “accelerated collapse” in insurance markets due to climate disasters.
+</p> 
+
+<br> 
+
+<https://heatmap.news/climate/co2-levels-2024-mauna-loa>
+
+---
+
+## Army expects to meet recruiting goals, in dramatic turnaround, and denies 'wokeness' is a factor
+
+date: 2025-01-17, from: VOA News USA
+
+The Army expects to meet its enlistment goals for 2025, marking a dramatic turnaround for a service that has struggled for several years to bring in enough young people and has undergone a major overhaul of its recruiting programs.
+
+
+In an interview with The Associated Press, Army Secretary Christine Wormuth said the Army is on pace to bring in 61,000 young people by the end of the fiscal year in September and will have more than 20,000 additional young people signed up in the delayed entry program for 2026. It's the second straight year of meeting the goals.
+
+
+“What’s really remarkable is the first quarter contracts that we have signed are the highest rate in the last 10 years,” Wormuth said. “We are going like gangbusters, which is terrific.”
+
+
+Wormuth, who took over the Army four years ago as restrictions caused by the COVID-19 pandemic were devastating recruitment across the military, also flatly rejected suggestions that the Army is “woke.”
+
+
+Critics have used the term to describe what they call an over-emphasis on diversity and equity programs. Some Republicans have blamed “wokeness” for the recruiting struggles, a claim repeated by President-elect Donald Trump’s nominee for defense secretary, Pete Hegseth, during his confirmation hearing this week.
+
+
+Wormuth dismissed the claims.
+
+
+“Concerns about the Army being, quote, woke, have not been a significant issue in our recruiting crisis,” she said. “They weren’t at the beginning of the crisis. They weren’t in the middle of the crisis. They aren’t now. The data does not show that young Americans don’t want to join the Army because they think the army is woke — however they define that.”
+
+
+
+
+Hegseth has vowed to remove “woke” programs and officers from the military. And during his hearing Tuesday, he told senators that troops will rejoice as the Trump administration takes office and makes those changes.
+
+
+“We’ve already seen it in recruiting numbers,” he said. “There’s already been a surge since President Trump won the election."
+
+
+In fact, according to Army data, recruiting numbers have been increasing steadily over the past year, with the highest total in August 2024 — before the November election. Army officials closely track recruiting numbers.
+
+
+Instead, a significant driver of the recruiting success was the Army's decision to launch the Future Soldier Prep Course, at Fort Jackson, South Carolina, in August 2022. That program gives lower-performing recruits up to 90 days of academic or fitness instruction to help them meet military standards and move on to basic training.
+
+
+In the fiscal year that ended Sept. 30, 2024, the Army met its recruiting goal of 55,000 and began to rebuild its delayed entry pool. About 24% of those recruits came out of the prep course. Wormuth said she expects it will contribute about 30% of this year's recruits.
+
+
+The Army and the military more broadly have struggled with recruiting for about a decade, as the unemployment rate shrank, and competition grew from private companies able and willing to pay more and offer similar or better benefits.
+
+
+Just 23% of young adults are physically, mentally and morally qualified to serve without receiving some type of waiver. Moral behavior issues include drug use, gang ties or a criminal record. And the coronavirus pandemic shut down enlistment stations and in-person recruiting in schools and at public events that the military has long relied upon.
+
+
+Wormuth said a private survey along with more recent data show that the key impediments to joining the military are concerns "about getting killed or getting hurt, leaving their friends and family, and having a perception that their careers will be on hold.”
+
+
+That survey, done in 2022, found that “wokeness” was mentioned by just 5% of respondents.
+
+
+Wormuth acknowledged that the latest data show one element mentioned by Hegseth — that the number of white men enlisting is a bit lower. She said the persistent criticism about wokeness could be one reason.
+
+
+“Any time an institution is being inaccurately criticized and demeaned, it’s going to make it harder to recruit. And I think that is what we have seen,” she said. “In terms of ‘is the Army woke’ — which I will take to mean focused on things that don’t make us more lethal or effective or better able to defend this nation — I would say the Army is absolutely not woke.”
+
+
+As an example, she said recruits get one hour of equal opportunity instruction in basic training and 95 hours of marksmanship.
+
+
+She also said there has been an increase in minority enlistment. The service brought in the highest number ever of Hispanic recruits in 2024 and saw a 6% increase in Black recruiting.
+
+
+In 2022, the Army fell 15,000 short of its enlistment goal of 60,000. The following year, the service brought in a bit more than 50,000 recruits, widely missing its publicly stated “stretch goal” of 65,000.
+
+
+The Navy and the Air Force all missed their recruitment targets in 2023, while the Marine Corps and the tiny Space Force have consistently hit their goals.
+
+
+Critics have also charged that the military has lowered standards under President Joe Biden's administration. Asked if that was true for the Army, Wormuth said the service actually resolved not to do that to meet its recruiting goals. Instead, she said, the prep course helps recruits meet the standards.
+
+
+Other changes that have helped the recruiting turnaround, she said, include an overhaul of the system used to select recruiters, which now chooses soldiers more suited to the task, as well as an increased use of data analytics to improve marketing and ads.
+
+
+The Army also increased the number of medical personnel being used to help process routine waivers to move them more quickly through the system. A consistent complaint across the military has been that it took too long to get a waiver approved and that recruits were moving on to other jobs as a result of the delays. 
+
+<br> 
+
+<https://www.voanews.com/a/army-expects-to-meet-recruiting-goals-in-dramatic-turnaround-and-denies-wokeness-is-a-factor-/7940367.html>
+
+---
+
+## Undaunted
+
+date: 2025-01-17, from: The Contrarian
+
+The Contrarian's weekly standout figure for democracy 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted>
+
+---
+
+## Biden sets record by commuting sentences of nearly 2,500 people convicted of nonviolent drug charges
+
+date: 2025-01-17, from: VOA News USA
+
+Washington — President Joe Biden announced Friday that he was commuting the sentences of almost 2,500 people convicted of nonviolent drug offenses, using his final days in office on a flurry of clemency actions meant to nullify prison terms he deemed too harsh. 
+
+
+The recent round of clemency gives Biden the presidential record for most individual pardons and commutations issued. The Democrat said he is seeking to undo "disproportionately long sentences compared to the sentences they would receive today under current law, policy, and practice." 
+
+
+"Today's clemency action provides relief for individuals who received lengthy sentences based on discredited distinctions between crack and powder cocaine, as well as outdated sentencing enhancements for drug crimes," Biden said in a statement. "This action is an important step toward righting historic wrongs, correcting sentencing disparities, and providing deserving individuals the opportunity to return to their families and communities after spending far too much time behind bars." 
+
+
+The White House did not immediately release the names of those receiving commutations. 
+
+
+Still, Biden said more could yet be coming, promising to use the time before President-elect Donald Trump is inaugurated Monday to "continue to review additional commutations and pardons." 
+
+
+Friday's action follows Biden's commutations last month of the sentences of roughly 1,500 people who were released from prison and placed on home confinement during the coronavirus pandemic, as well as the pardoning of 39 Americans convicted of nonviolent crimes. That was the largest single-day act of clemency in modern history. 
+
+
+All of this comes as Biden continues to weigh whether to issue sweeping pardons for officials and allies who the White House fears could be unjustly targeted by Trump's administration. Though presidential pardoning powers are absolute, such a preemptive move would be a novel and risky use of the president's extraordinary constitutional power. 
+
+
+Last month, Biden also commuted the sentences of 37 of the 40 people on federal death row, converting their punishments to life imprisonment just weeks before Trump, an outspoken proponent of expanding capital punishment, takes office. Trump has vowed to roll back that order after his term begins. 
+
+
+
+
+Biden also recently pardoned his son Hunter, not just for his convictions on federal gun and tax violations but for any potential federal offense committed over an 11-year period, as the president feared Trump allies would seek to prosecute his son for other offenses. 
+
+
+If history is any guide, meanwhile, Biden also is likely to issue more targeted pardons to help allies before leaving the White House, as presidents typically do in some of their final actions. 
+
+
+Just before midnight on the final night of his first term, Trump, a Republican, signed a flurry of pardons and commutations for more than 140 people, including his former chief strategist, Steve Bannon, rappers Lil Wayne and Kodak Black and ex-members of Congress. 
+
+
+Trump's final act as president in his first term was to announce a pardon for Al Pirro, ex-husband of Fox News Channel host Jeanine Pirro, one of his staunchest defenders. Al Pirro was convicted of conspiracy and tax evasion charges and sentenced to more than two years in prison in 2000. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-sets-record-by-commuting-sentences-of-nearly-2-500-people-convicted-of-nonviolent-drug-charges-/7940333.html>
+
+---
+
+## Russia upholds jail term for ex-US Consulate worker
+
+date: 2025-01-17, from: VOA News USA
+
+MOSCOW — A Russian court on Friday upheld the jail term of Robert Shonov, a former U.S. Consulate worker sentenced to almost five years for "secret collaboration with a foreign state."
+
+
+Shonov, a Russian citizen, worked for more than 25 years at the U.S. Consulate in the far eastern city of Vladivostok until 2021, when Moscow imposed restrictions on local staff working for foreign missions.
+
+
+He was arrested in 2023 on suspicion of passing secret information about Russia's military offensive against Ukraine to the United States in exchange for money and sentenced to four years and 10 months prison in November 2024.
+
+
+"The judicial act was upheld," a court in the Siberian city of Novosibirsk ruled, according to its website, rejecting an appeal Shonov had made against his sentencing.
+
+
+The United States strongly condemned the conviction last year, calling it an "egregious injustice" based on "meritless allegations."
+
+
+In September 2023, Russia expelled two U.S. diplomats it accused of acting as liaison agents for Shonov.
+
+
+In recent years, several U.S. citizens have been arrested and sentenced to long jail terms in Russia.
+
+
+Others are being held pending trial.
+
+
+Washington, which supports Ukraine militarily and financially against Russia's military offensive, accuses Moscow of arresting Americans on baseless charges to use as bargaining chips in prisoner exchanges.
+
+
+Even after a landmark prisoner swap in August, several U.S. nationals and dual nationals remain in detention in Russia. 
+
+<br> 
+
+<https://www.voanews.com/a/russia-upholds-jail-term-for-ex-us-consulate-worker/7940245.html>
+
+---
+
+##  How America Created Cities Built To Burn (Part 2) 
+
+date: 2025-01-17, from: The Lever News
+
+ Decades of real estate lobbying pushed Californians further into fire zones. Will the fires force the state to rethink how to house its population?  
+
+<br> 
+
+<https://www.levernews.com/how-america-created-cities-built-to-burn-part-2/>
+
+---
+
+## VOA Russian: Soviet-born designer builds his first hypercar in California
+
+date: 2025-01-17, from: VOA News USA
+
+Sasha Selipanov, a well-known car designer, was born in the Soviet Union but at 17 moved to the U.S. In California, he mastered the skill of designing high-end cars, creating vehicles for Lamborghini and Bugatti among others. He showed VOA Russian the concept of his first hypercar, which he is building in Los Angeles.
+
+
+Click here for the full story in Russian. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-russian-soviet-born-designer-builds-his-first-hypercar-in-california/7939601.html>
+
+---
+
+## VOA Russian: Moscow unhappy about Armenia's partnership with US
+
+date: 2025-01-17, from: VOA News USA
+
+As the U.S. and Armenia signed a strategic partnership agreement in Washington this week, experts say the Kremlin is slowly losing one of its few remaining allies. While Moscow says that Armenia’s distancing itself from Russia will bear consequences, the Armenian government is trying to steadily chart a pro-Western path. 
+
+
+Click here for the full story in Russian. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-russian-moscow-unhappy-about-armenia-s-partnership-with-us/7939594.html>
+
+---
+
+## Chinese vice president to attend Trump inauguration
+
+date: 2025-01-17, from: VOA News USA
+
+TAIPEI, TAIWAN  — China said Friday that Vice President Han Zheng will attend U.S. President-elect Donald Trump’s inauguration Monday.
+
+
+Beijing said the move follows "the principles of mutual respect, peaceful coexistence and win-win cooperation in viewing and growing its relationship with the United States."
+
+
+"We stand ready to work with the new U.S. government to enhance dialogue and communication, properly manage differences, expand mutually beneficial cooperation, jointly pursue a stable, healthy and sustainable China-U.S. relationship and find the right way for the two countries to get along with each other," a Foreign Affairs Ministry spokesperson said in a Friday morning statement.
+
+
+The announcement comes more than a month after Trump invited Chinese President Xi Jinping and other foreign leaders to attend his inauguration. It is an unprecedented move that marks a break from tradition, since foreign ambassadors have historically attended presidential inaugurations.
+
+
+
+
+Analysts say Beijing is showing "goodwill" toward the new Trump administration by sending Han.
+
+
+"China has no established tradition of letting the president attend other heads of state’s inauguration ceremonies," said Zhou Bo, a senior fellow at the Center for International Security and Strategy at Tsinghua University in Beijing.
+
+
+"Sending the vice president to attend Trump’s inauguration ceremony is the best option and it shows Beijing’s goodwill to President-elect Trump," he told VOA by phone.
+
+
+While Beijing tries to respond positively to Trump’s invitation, other experts say Han’s attendance will remain largely ceremonial.
+
+
+"I don’t expect anything concrete out of Han’s trip to Washington," said Zhiqun Zhu, an expert on Chinese foreign policy at Bucknell University in the U.S. state of Pennsylvania.
+
+
+Despite the ceremonial nature of Han’s attendance at the inauguration, Zhu said Beijing’s move could still "lay a good foundation" for U.S.-China relations under the second Trump administration.
+
+
+"Hopefully, a friendly atmosphere will be built and can be sustained in the weeks and months ahead, so when the two sides sit down to discuss substantive issues, maybe a deal could be struck," he told VOA by phone.
+
+
+Trump’s return to the White House has created uncertainties for China, which has faced a persistent economic downturn in recent years.
+
+
+During his presidential campaign, Trump vowed to impose tariffs up to 60% on Chinese products. Zhou said the possibility of high tariffs has made Beijing cautious about the prospect of U.S.-China relations under the second Trump administration.
+
+
+
+
+"We don’t know how Trump will play his cards, so I believe China will wait to see how his policies towards China play out," he told VOA.
+
+
+Despite threatening to impose tariffs on Chinese imports, Trump said the two could have a good relationship and that he has been in contact with the Chinese leaders through representatives.
+
+
+"And I think we will probably get along very well, I predict," he said during an interview with conservative talk show host Hugh Hewitt on Jan. 6, adding that the relationship has to be "a two-way street."
+
+
+Additionally, Trump wants to appoint several politicians known for hawkish stances on China, including Sen. Marco Rubio as secretary of state and Rep. Mike Waltz to be White House national security adviser.
+
+
+Rubio, during his Senate confirmation hearing Wednesday, described China as "the most potent and dangerous near-peer adversary this nation has ever confronted."
+
+
+
+
+"They have elements that the Soviet Union never possessed. They are a technological adversary and competitor, an industrial competitor, an economic competitor, a geopolitical competitor, a scientific competitor," he said.
+
+
+Despite Rubio’s seemingly tough rhetoric on China during the hearing, Zhu said it is too early to tell whether that language will translate into actual policies toward China in the new administration.
+
+
+"Some of the appointees by Trump seem hawkish on China but since they work for Trump, I don’t think they will override Trump’s policies," he told VOA.
+
+
+Zhu said since it remains unclear how Trump will shape his policies toward China, Washington and Beijing will "move ahead cautiously.
+
+
+"Both sides had a terrible experience during Trump’s first term so it looks like they want to start afresh this time," he said. 
+
+<br> 
+
+<https://www.voanews.com/a/chinese-vice-president-to-attend-trump-inauguration/7940175.html>
+
+---
+
+## Mexican firefighters join the battle against Los Angeles wildfires
+
+date: 2025-01-17, from: VOA News USA
+
+Firefighters from all over the United States are currently in Los Angeles fighting deadly wildfires. Backup from Canada and Mexico arrived this week as well. VOA’s Fernando Mejía spent some time with a team of Mexican firefighters. Veronica Villafañe narrates this report.
+Camera: Fernando Mejía 
+
+<br> 
+
+<https://www.voanews.com/a/mexican-firefighters-join-the-battle-against-los-angeles-wildfires/7940143.html>
+
+---
+
+## Melania Trump returns to the White House as first lady
+
+date: 2025-01-17, from: VOA News USA
+
+Slovenian model turned US first lady Melania Trump is headed back to the White House after a bittersweet experience in the limelight after her husband, President-elect Donald Trump, first took office in 2016. VOA’s Veronica Balderas Iglesias gives us a look at her life and voter expectations for her second term.
+Camera: Veronica Balderas Iglesias 
+
+<br> 
+
+<https://www.voanews.com/a/melania-trump-returns-to-the-white-house-as-first-lady/7940109.html>
+
+---
+
+## Inaugural balls, protests planned in Washington
+
+date: 2025-01-17, from: VOA News USA
+
+washington — Washington has been bracing for lots of things this week, including several more days of frigid temperatures and hordes of people and police for the presidential inauguration and related protests around the city next week.
+
+
+Officials said this week that they expected about 250,000 ticketed people to descend on the U.S. capital as Donald Trump takes the oath of office as president again. He last served from 2017 to 2021.
+
+
+Fewer visitors are expected for next Monday's ceremony than were present at Trump’s first inauguration, local and federal officials said at a press conference. In 2017, they prepared for more than 1 million people.
+
+
+Temperatures are expected to be particularly low in Washington on Monday. The temperature at noon, when Trump will be sworn in, is predicted to be in the low 20s F, which is about 20 degrees below normal.
+
+
+Enhanced security
+
+
+Even though a lower turnout is expected this time around, recent acts of violence — like the New Year’s Day attack in New Orleans — mean there will be an enhanced security presence, the officials said.
+
+
+On Inauguration Day, 25,000 law enforcement and military personnel will be in the District of Columbia to provide security, including the full activation of D.C. police, 7,800 National Guard troops and about 4,000 officers from around the country, according to William McCool, the special agent in charge of the Secret Service’s Washington Field Office.
+
+
+
+
+Leading up to the inauguration, Washington will be home to both celebratory events and protests.
+
+
+A Trump victory rally is planned for Sunday afternoon at Capital One Arena, where the Village People, an American band, will perform.
+
+
+The arena has 20,000 seats, Monumental Sports & Entertainment, the company that operates the arena, told a D.C. news station.
+
+
+The company said in a statement to News4 that the arena has been offered to every administration, “irrespective of party,” for decades.
+
+
+“We are happy that President Trump has accepted our offer, and we will welcome him and his guests to Capital One Arena on January 19,” the statement said.
+
+
+While there will be three official inaugural balls, more than a dozen unofficial inaugural balls are scheduled throughout the weekend in Washington.
+
+
+However, protests are scheduled, too.
+
+
+On Saturday, a demonstration called the People’s March is expected to draw tens of thousands of people to downtown Washington. The demonstration is organized by various civil rights, racial justice and reproductive health groups.
+
+
+“As Trump assumes the presidency in January, we are gathering to mobilize our collective power and stand against his efforts to roll back our rights and freedoms,” Analilia Mejia, co-executive director of the Center for Popular Democracy, said in a statement.
+
+
+On Monday, the Answer Coalition’s National Day of Action will feature a rally and march, according to media reports.
+
+
+ 
+
+
+
+
+Accustomed to crowds
+
+
+Washington officials said they’re used to managing crowds and protests.
+
+
+“Here in the city, we allow peaceful protests all the time,” D.C. Police Chief Pamela Smith said at a press conference this week. “But when it comes to violating the law, we’re just not going to tolerate it.”
+
+
+On Monday night, after the inauguration, Trump is expected to shuttle among the three official inaugural balls.
+
+
+But inauguration celebrations won’t be limited to Washington.
+
+
+For instance, in Florida, where Trump resides at his Mar-a-Lago resort, the pro-Trump Villages M.A.G.A. Club is hosting an inaugural party on Monday evening, about 60 miles northwest of Orlando. The celebration has already sold out, according to an Eventbrite listing advertising the party. 
+
+<br> 
+
+<https://www.voanews.com/a/inaugural-balls-protests-planned-in-washington/7940103.html>
+
+---
+
+## VOA Spanish: Concerns grow in Los Angeles about economic impact of the fires
+
+date: 2025-01-17, from: VOA News USA
+
+Shelters are meeting the immediate needs of those affected in Los Angeles, providing clothing, food and a place to sleep. But future needs are creating uncertainty for the population.
+
+
+Click here for the full story in Spanish. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-spanish-concerns-grow-in-los-angeles-about-economic-impact-of-the-fires/7940106.html>
+
+---
+
+## VOA Spanish: Details about Donald Trump's presidential inauguration
+
+date: 2025-01-17, from: VOA News USA
+
+A Committee of Congress is coordinating the inauguration of President-elect Donald Trump with strict security measures, attendance of international dignitaries and the presence of prominent political and business figures.
+
+
+Click here for the full story in Spanish. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-spanish-details-about-donald-trump-s-presidential-inauguration-/7940101.html>
+
+---
+
+## Siberian air to make Trump swearing-in coldest in 40 years
+
+date: 2025-01-17, from: VOA News USA
+
+The vast majority of Americans are about to get an extended taste of frigid Siberian weather. Another polar vortex disruption will stretch Arctic air across the top of the globe and make Donald Trump's second inauguration the coldest in 40 years, meteorologists said.
+
+
+After starting in the Rockies Thursday night, the cold will blast eastward and as far south as the upper Florida peninsula over several days. Up to 280 million Americans will have a day or two where it's colder than Anchorage, Alaska, said private meteorologist Ryan Maue.
+
+
+"This would be one of the coldest outbreaks certainly of the past 10 years, 15 years," said winter weather expert Judah Cohen of Atmospheric Environmental Research. "It's pulling air out of Siberia. And, you know, that's consistent with these stretches, because when the polar vortex stretches, the flow starts in Siberia and ends in the United States."
+
+
+It will arrive in Washington well before Trump's inauguration Monday outside the U.S. Capitol. The National Weather Service is predicting the temperature to be around minus 6 degrees Celsius at noon during the swearing-in, the coldest since Ronald Reagan's second inauguration saw temperatures plunge to minus 14 Celsius. The temperature for Barack Obama's 2009 swearing-in was minus 2 Celsius.
+
+
+But that's not all - the wind is forecast to be 48 to 56 kilometers per hour.
+
+
+"The wind chills would be in the single digits for sure," the NWS's Weather Prediction Center meteorologist Zack Taylor said. "That's going to be cold, blustery, basically right up the National Mall. And it can get pretty breezy on the mall there with the west-northwest wind right in the face."
+
+
+Washington could see single digits later; Wednesday morning might get near zero, Maue said. There could be a record low in Baltimore, Taylor said. He said most of the records that will be broken in this cold outbreak are not likely to be overnight lows, but still chilly daytime highs.
+
+
+About 80 million people are likely to have subzero temperatures at some point, Maue said.
+
+
+"The coldest will be Tuesday morning for the Lower 48 overall," Maue said. The average low that morning for the entire Lower 48 will be around minus 14 degrees Celsius, he said.
+
+
+Maue said a stretch from Chicago to Indianapolis to Columbus, Ohio, to Pittsburgh, Pennsylvania, will get the most brutal cold compared with their normal temperatures.
+
+
+"That's like a corridor of extreme cold, calm winds at night over snow cover. Temperatures could really drop like a rock there," Maue said.
+
+
+Freezes could go as far as the Gulf Coast and northern Florida, meteorologists said.
+
+
+Earlier this month, long-range forecasts hinted at worst-in-30-years type of cold for the year's first week, but those predictions eased as the cold outbreak got closer. It was cold, but not near record levels. This time, it's the opposite. Each day's computer models show it colder than the previous one, Maue said.
+
+
+There's some possibility of snow squalls here and there, but it's mostly just going to be cold, Taylor said — what Maue called a dry cold.
+
+
+As happened earlier this month, this cold snap comes from a disruption in the polar vortex, the ring of cold air usually trapped about the North Pole. That ring is being stretched south across North America like a rubber band, Cohen said.
+
+
+These stretching events are happening more often in the past decade or so, Cohen said. He and others have linked these polar vortex outbreaks to human-caused climate change and decreasing pressure and temperature differences between the Arctic and the rest of the globe.
+
+
+Those also trigger changes in the jet stream — the river of air that usually brings weather from west to east — that make cold air and weather systems plunge from north to south like a roller coaster.
+
+
+On the east side of that plunge is cold air and potentially record high pressure, Taylor and others said.
+
+
+On the west side, in Southern California, is not only warmer air but also the extreme pressure differences that could goose the already high winds that are fanning fires around Los Angeles, meteorologists said.
+
+
+Get used to it. There's some debate among meteorologists about how long this extreme cold outbreak will last but below-normal temperatures may stick around through the end of the month for much of the country, said University of Oklahoma meteorology professor Jason Furtado, who organized winter weather workshops at the American Meteorological Society's annual conference in New Orleans.
+
+
+And Cohen said long-range forecasts suggest the same polar vortex conditions could return in early February. 
+
+<br> 
+
+<https://www.voanews.com/a/siberian-air-to-make-trump-swearing-in-coldest-in-40-years-/7940067.html>
+
+---
+
+## Trump’s immigration agenda sets stage for battle over sanctuary cities
+
+date: 2025-01-17, from: VOA News USA
+
+One of President-elect Donald Trump’s campaign promises was to urge the US Congress to pass legislation banning sanctuary cities. These jurisdictions limit cooperation with federal immigration authorities. Some local officials vowed to fight the new Trump administration. VOA’s immigration reporter, Aline Barros, has more. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-s-immigration-agenda-sets-stage-for-battle-over-sanctuary-cities/7940084.html>
+
+---
+
+## Trump team might step in to save TikTok from pending US ban
+
+date: 2025-01-17, from: VOA News USA
+
+With a pending law declaring the social media application TikTok illegal in the United States, set to take effect on Sunday, the incoming administration of U.S. President-elect Donald Trump is signaling that it plans to try to find a way to prevent the service from going offline.
+
+
+Under current law, the service's parent company, China-based ByteDance, must either sell TikTok to a non-Chinese firm or see it banned in the U.S.
+
+
+Representative Mike Waltz, who has been tapped to serve as Trump's national security adviser, told Fox News on Thursday that the president-elect has options available to postpone enforcement of the law while a possible deal is worked out to sell the company. That includes a section of the law allowing the president to give ByteDance a 90-day extension to finalize a sale.
+
+
+"We will put measures in place to keep TikTok from going dark," Waltz said, "as long as a viable deal is on the table. Essentially that buys President Trump time to keep TikTok going."
+
+
+Executive action reportedly considered 
+
+
+Also on Wednesday, several media outlets reported that Trump is considering issuing an executive order that would protect TikTok.
+
+
+The legality of such a move is unclear and is thrown further into doubt by the fact that the Supreme Court is poised to rule on a request by the company to overturn the law.
+
+
+The high court heard arguments in the case last week and is expected to rule shortly. The outcome is not certain. However, in oral arguments, a majority of the justices appeared to favor upholding the law.
+
+
+Trump's attitude toward TikTok has evolved considerably over the years. During his first term in office, he attempted to shut the service down in the U.S. Since then, though, he has used the service, with considerable success, to connect with his supporters.
+
+
+In a press conference in Florida last month, Trump said, "I have a warm spot in my heart for TikTok," and credited the app with helping him get his message out to younger American voters.
+
+
+Trump has denied that his change of heart about TikTok was influenced by a brief meeting in March with Republican megadonor and ByteDance investor Jeff Yass. Lobbying disclosure reports from 2024 show that ByteDance paid a former Trump campaign aide to lobby lawmakers in Washington in favor of TikTok, and that former senior Trump aide Kellyanne Conway has been paid to advocate for TikTok in Congress via the Yass-funded conservative group Club for Growth.
+
+
+Trump also said TikTok was not mentioned during his meeting with Yass.
+
+
+Economic concerns 
+
+
+In the years since TikTok took off, thousands of U.S.-based content creators have developed large audiences on the app, and in many cases have been able to monetize their TikTok feeds.
+
+
+Many small businesses have found success advertising their products to TikTok users. Other TikTok personalities have parlayed fame on the app into broader celebrity that has led to lucrative product endorsements and other deals.
+
+
+Some members of Congress have expressed concern that abruptly shutting the app down could have economic consequences.
+
+
+On Monday, Democratic Senator Edward Markey introduced legislation that would delay the TikTok ban by 270 days.
+
+
+"Let me be clear: TikTok has its problems," Markey said in a statement released by his office. "Like every social media platform, TikTok poses a serious risk to the privacy and mental health of our young people. I will continue to hold TikTok accountable for such behavior. But a TikTok ban would impose serious consequences on millions of Americans who depend on the app for social connections and their economic livelihood. We cannot allow that to happen."
+
+
+Viability of sale unclear 
+
+
+As the Sunday deadline nears, there have been a number of rumors about a possible sale of the company. Bloomberg reported on Wednesday that Chinese officials were considering the possibility of selling the service to billionaire Elon Musk, a close Trump adviser who already owns the social media service X, formerly Twitter.
+
+
+Another U.S. billionaire, real estate developer Frank McCourt, told Reuters on Thursday that a consortium of investors he had formed has already made a formal offer to purchase TikTok, valuing the service at $20 billion.
+
+
+However, it is far from clear that a sale is something the Chinese government is prepared to allow. Any sale worth the buyer's investment would have to include the "recommendation engine," TikTok's name for the algorithm that makes the service so popular and, many would say, addictive.
+
+
+Last year in a court filing, TikTok characterized such a deal as unavailable.
+
+
+"Just as the United States restricts the export of U.S.-origin technologies (e.g., certain computer chips), the Chinese government regulates the transfer of technologies developed in China," the company argued in a court filing. "The Chinese government has made clear in public statements that it would not permit a forced divestment of the recommendation engine."
+
+
+Privacy, national security worries 
+
+
+A wildly popular service for sharing short videos, TikTok has an estimated 170 million U.S. users. Federal officials have been concerned about TikTok for years because it collects vast amounts of information about its user base. They have argued that Chinese laws compelling domestic companies to cooperate with intelligence agencies could be used to force the company to share that data with the Chinese Communist Party.
+
+
+U.S. officials have expressed concern that China could misuse the private information about U.S. users of the service. They have also warned that Beijing could use TikTok's powerful recommendation algorithm to shape public discourse in the U.S. to the benefit of China.
+
+
+In December, when a federal appeals court upheld the law mandating the company's sale or shutdown, Democratic Representative Raja Krishnamoorthi, one of the original sponsors of the law, released a statement expressing the thoughts of many of the law's supporters.
+
+
+"With today's opinion, all three branches of government have reached the same conclusion: ByteDance is controlled by the Chinese Communist Party, and TikTok's ownership by ByteDance is a national security threat that cannot be mitigated through any other means than divestiture," Krishnamoorthi said.
+
+
+"Every day that TikTok remains under the Chinese Communist Party's control is a day that our security is at risk," Krishnamoorthi added. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-team-might-step-in-to-save-tiktok-from-pending-us-ban-/7940010.html>
+
+---
+
+## Is hardening a home against fire affordable? It depends.
+
+date: 2025-01-17, from: Market Place
+
+The costs can vary widely and using the right building materials is essential, says wildfire policy analyst Kimiko Barrett. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/16/retrofit-hardening-homes-wildfire-construction-fire-cost-spending/>
+
+---
+
+## Trump’s choice for attorney general pledges independence
+
+date: 2025-01-17, from: VOA News USA
+
+Pamela Bondi, President-elect Donald Trump’s choice to become attorney general, faced more questions from U.S. senators Thursday. Witnesses testified to her character and integrity to serve in one of the nation’s most critical positions. VOA Congressional Correspondent Katherine Gypson reports. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-s-choice-for-attorney-general-pledges-independence/7940012.html>
+
+---
+
+## Meta’s Abandonment of Fact-Checking Empowers a President Who Traffics in Lies
+
+date: 2025-01-17, from: The Contrarian
+
+By Barbara McQuade 
+
+<br> 
+
+<https://contrarian.substack.com/p/metas-abandonment-of-fact-checking>
+
+---
+
+## US sanctions Sudan army leader, citing atrocities
+
+date: 2025-01-16, from: VOA News USA
+
+washington — Washington has slapped sanctions on Sudan's army leader, citing his responsibility for war crimes in a conflict that has bled the oil-rich country dry over the last year — sparking a famine, killing tens of thousands of people and driving millions from their homes — just a week after the U.S. sanctioned his opponent for acts it described as genocide.
+
+
+Thursday's sanctions on Sudanese Armed Forces leader Abdel Fattah al-Burhan and a Hong-Kong-based weapons supplier block them from entering or transiting the United States and restrict their access to any U.S. assets.
+
+
+This leaves both sides economically restrained in this brutal conflict that the State Department has described as the world's worst humanitarian crisis, but where Washington's options are limited because of its strained diplomatic ties to the large African nation. This conflict also has drawn in outside players, with Egypt and the United Arab Emirates arming the rivals.
+
+
+During his final press conference on Thursday, Secretary of State Antony Blinken accused the SAF of war crimes. In last week's sanctions, the State Department accused the opposing Rapid Support Forces of genocide.
+
+
+"The SAF has also committed war crimes, and it continues to target civilians," Blinken said. "It's obstructed the advancement of the peace process. It's refused to participate on numerous occasions in ceasefire talks that we've sought to convene, and together with the RSF, it's caused what is the world's worst humanitarian crisis that people are suffering through every day. And we believe strongly, as we said, there's no military solution to this conflict."
+
+
+'Flawed' action, Sudan says
+
+
+Sudan's government expressed its objection to the sanctions, calling them "flawed," "unethical" and "dubious."
+
+
+"This decision lacks the basic principles of justice and objectivity, relying on implausible pretexts," read its statement, which was posted on social media platform X. "It also reflects a blatant disregard for the Sudanese people, who stand firmly united behind General Abdel Fattah al-Burhan as a symbol of their sovereignty and armed forces, and as a courageous leader in the battle for dignity against the terrorist Janjaweed militias."
+
+
+
+
+Blinken did not address U.S. media reports citing anonymous U.S. officials that the SAF has used chemical weapons at least twice. VOA's query to the National Security Council went unanswered Thursday.
+
+
+When asked by reporters whether both sides were equally responsible, Blinken replied, "The actions we took on the RSF, as you know, found a determination of genocide. The actions that we're looking at for the SAF go to war crimes. So there are gradations in these things, and we follow the law."
+
+
+And Blinken expressed regrets that this conflict has escalated. It has followed many of the same contours as the Darfur conflict at the turn of the century.
+
+
+"It is, for me, yes, another real regret that when it comes to Sudan, we haven't been able on our watch to get to that day of success," he said.
+
+
+He added, "We'll keep working it for the next three days, and I hope the next administration will take that on as well."
+
+
+Hemedti sanctioned
+
+
+Last week's sanctions targeted RSF leader Mohammad Hamdan Daglo, whom the White House named as the leader of a wave of renewed ethnic cleansing, rape and systematic atrocities.
+
+
+Daglo, who is better known by his nickname, Hemedti, was a commander in the Janjaweed militia considered largely responsible for the brutal Darfur conflict, in which Sudanese Arab Janjaweed militias used scorched-earth tactics on the Fur, Masalit and Zaghawa people of Western Sudan, killing at least 200,000. The scale and savagery of the violence prompted the International Criminal Court to issue its first-ever warrant for genocide to Sudan's then-president, Omar al-Bashir.
+
+
+Hemedti led the RSF as a paramilitary unit until the April 2023 clash with government forces that sparked the current conflict.
+
+
+The violence has plunged nearly 640,000 people into the misery of famine, the State Department said. And the United Nations estimates that 30 million people — more than half of the nation's population — need humanitarian assistance.
+
+
+Daniel Volman, director of the African Security Research Project, told VOA it's "unlikely" that the incoming Trump administration will impose further sanctions. He said the U.S. and its allies bear some responsibility for "the conflict escalating to genocidal heights."
+
+
+"I think that the United States, under both Democratic and Republican administrations, bears a major responsibility for failing to take effective action against the Bashir regime [which created the RSF and carried out the first genocide in Darfur] and for failing to take effective action to support the civil society groups fighting for a democratic government, which led to the current civil war," he said by email. "The United States is not alone in bearing responsibility. Russia, Iran and other countries are also arming the rival forces and prolonging the conflict."
+
+
+Complicating factor
+
+
+And, Volman said, the Biden administration's decision to sanction some of Hemedti's foreign backers by targeting companies based in the United Arab Emirates is also a complicating factor.
+
+
+"The involvement of Egypt and the UAE in arming the rival forces and prolonging the civil war will complicate the Trump administration's relations with these two key allies and may lead them to expand and escalate their military intervention in Sudan," he said.
+
+
+Andrew Payne, a lecturer in foreign policy and security at City, University of London, told VOA that for now, sanctions are the main tool that Washington has to constrain Khartoum.
+
+
+"Sanctions are an easy tool that make it appear like an administration is doing something, regardless of whether that is an appropriate tool to use. It's relatively cost-free to the United States. If the alternative is something that requires political will, then that will has to be there. ... Sanctions are always the tool of cheapest resort, in a sense. So, it's a way of seeming like you're engaged, seeming like you're active, without considering more tougher measures," Payne said. 
+
+<br> 
+
+<https://www.voanews.com/a/us-sanctions-sudan-army-leader-citing-atrocities/7939740.html>
+
+---
+
+## The Little Revelations from Doug Burgum’s Confirmation Hearing
+
+date: 2025-01-16, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTYyMzgwOS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5NzcyNjE0Mn0.HYdE1DyLRScONtdoTxyDJ_qy2lTyl5_NDDcGuLalAec/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Doug Burgum is, by all accounts, a normie. Compared to <a href="https://www.usatoday.com/story/news/politics/elections/2025/01/16/donald-trump-cabinet-government-dysfunction-concerns/76741545007/" rel="noopener noreferrer" target="_blank"><u>some of the other picks</u></a> for incoming President Trump’s cabinet, the former North Dakota governor is well respected by his political colleagues; even many of the Democrats on the Energy and Natural Resources Committee seemed chummy with the former software executive during his hearing on Thursday, praising his support of the outdoor recreation economy and his conservation efforts in his state. As if to confirm the low stakes of the hearing, Burgum used his closing remarks not as a final pitch of his qualifications — but to invite his interrogators to a Fourth of July party at the Theodore Roosevelt Presidential Library.</p><p>That isn’t to say that the hearing doesn’t have consequences — or revelations about what can be expected from the all-but-certain-to-be-confirmed Interior secretary and future <a href="https://heatmap.news/climate/trump-national-energy-council?rebelltitem=1#rebelltitem1" target="_self"><u>head of Trump’s National Energy Council</u></a>. For many in the renewables space — particularly those in the wind industry — there was little in the way of reassurances that Burgum would temper <a href="https://heatmap.news/plus/the-fight/spotlight/offshore-wind-executive-order-trump" target="_self"><u>his boss’ opposition to “windmills.”</u></a> Additionally, the future Interior secretary dodged questions seeking reassurance about his commitment to protecting federal lands.</p><p><span></span>Below are some of the biggest takeaways from Thursday’s confirmation hearing.</p><h2>1. “Baseload” might be code for “no renewables”</h2><p><strong></strong>Burgum referenced concerns about the “baseload” of the grid more than 15 times during the hearing, primarily as a way to oppose the buildout of renewable energy. “We’re short of electricity in this country, and we have to make sure that we have a balance,” he told Senator Catherine Cortez Masto, a Nevada Democrat, citing <a href="https://heatmap.news/politics/trump-wind-solar-fact-check#:~:text=26%2C%202022%5D-,Fact%20check%3A,-%E2%80%9CI%20mean%2C" target="_self"><u>a standard Republican talking point</u></a> about how the grid needs safeguards because “the sun doesn’t always shine and the wind doesn’t always blow.” When pressured about how intermittent energy sources are used in combination with storage, he added that we’re still “a few years out” from such technologies and warned that in the meantime, there would be “more and more brownouts and blackouts because we aren’t going to have the balance in the grid.”</p><p>“I don’t want the word ‘baseload’ to be code for no renewables,” Angus King, the Independent Senator from Maine, later followed up. Burgum protested against that characterization — “It’s not for any political reasons that I distinguish [between intermittent and baseload], it’s just because of the physics of the grid” — but King wasn’t satisfied. “In your case, in North Dakota, 35% of your electricity comes from wind power,” King said. “I presume that your grid works well?”</p><p>Burgum stumbled in his answer: “It’s super stressed, as it is around the country,” he said. (In fact, <a href="https://northdakotamonitor.com/2024/03/30/in-the-central-u-s-an-electric-grid-bottleneck-persists/" target="_blank"><u>transmission bottlenecks</u></a> seem to be the bigger issue in the state.) He went on to say that renewables plus storage equals a baseload at a “much higher cost” than traditional energy sources like oil and gas.</p><p>“It sounds like no more renewables,” King rejoined. “I don’t think that’s a sustainable path for this country, and it’s certainly not a way of meeting the challenge of climate change.”</p><p>One carbon-free source of electricity emerged as a winner of the baseload fight, however: nuclear power. “I’m glad to hear you talk about baseload,” Republican Senator James Risch of Idaho told Burgum, “because when you’re talking about nuclear, you’re talking about baseload.” Burgum also called solar and geothermal “big opportunities” in Utah.</p><h2>2. Public land advocates are right to be worried</h2><p><strong></strong>Ahead of Thursday’s confirmation hearing, Danielle Murray, the founder of the Public Lands Center, issued a statement arguing that if Burgum did not “[reject] any and all attempts to sell-off or give away our nation’s public lands,” it would be “disqualifying.”</p><p>She and other public land advocates are not likely to be satisfied with the answers they heard, however. Burgum responded positively to an opening question from Republican Senator Mike Lee of Utah about restricting the size of National Monuments, noting that “a state like yours … already has over 60% of its land in public lands.” The Energy and Natural Resources Committee’s ranking member, Democratic Senator Martin Heinrich of New Mexico, followed up on that point, asking Burgum how he plans to “stay true to our conservation history” <a href="https://heatmap.news/climate/utah-seven-county-blm#:~:text=Great%20meeting%20with%20%40dougburgum%20and%20planning%20the%20return%20of%20American%20lands%20to%20the%20American%20people" target="_self"><u>given the mounting attempts</u></a> by Lee and his colleagues to “somehow, in a wholesale way, divest of our public lands.” </p><p>Burgum remained noncommittal: “I think there is certainly the opportunity for us to find that balance going forward,” he said again.</p><h3>3. Coal is back, baby</h3><p>Burgum promised senators from Montana and Wyoming that he opposed a “blanket approach of trying to block” <a href="https://heatmap.news/sparks/why-coals-slowdown-is-slowing-down" target="_self"><u>new coal development</u></a>. “We have an opportunity to decarbonize, to produce clean coal, and with that produce reliable baseload for this country,” he said. </p><p>Why is that so important? “Without baseload, we’re going to lose the AI arms race to China,” Burgum said.</p><h3>4. No reassurances about wind here</h3><p>Wind was another hot topic during Burgum’s confirmation hearing. King pointed out that North Dakota is a major wind-producing state, and asked if the Interior nominee would talk to President Trump about “the fact that wind has its virtues and can contribute significantly” to America’s energy supply. </p><p>Burgum was resistant. If wind projects “make sense, and they’re already in law, then they’ll continue,” he allowed. “I think President Trump has been very clear in his statements that he’s concerned about the significant amount of tax incentives that have gone towards some forms of energy that have helped exacerbate this imbalance that we’re seeing right now.”</p><p>Risch celebrated Burgum’s skepticism of wind, rooting for the end of the Lava Ridge wind farm, which Heatmap’s Jael Holzman has reported <a href="https://heatmap.news/plus/the-fight/hotspots/lava-ridge-wind-trump-executive-order#:~:text=1.%20Magic%20Valley%2C%20Idaho" target="_self"><u>Trump may kill on day one</u></a>. “My good friend Senator King and I have different views on windmills — and bless you for taking the windmills, you can have them all,” Risch offered during his allotted time. “We don’t want them in Idaho. We <em><em>hate</em></em> windmills in Idaho.” (In 2023, wind accounted for <a href="https://www.eia.gov/state/analysis.php?sid=ID#:~:text=The%20balance%20of%20Idaho's%20in,and%20wind%20accounted%20for%2015%25." target="_blank"><u>about 15%</u></a> of Idaho’s electricity generation.) </p><h3>5. Nobody likes bears</h3><p>But if there was something Republicans on the Energy and Natural Resources Committee hated even more than wind, it was <a href="https://heatmap.news/washington-state-wants-to-bring-back-grizzlies-and-i-was-needlessly-terrified" target="_self"><u>bears</u></a>. Senator Daines of Montana specifically requested Burgum’s commitment to <a href="https://idahocapitalsun.com/2025/01/09/feds-reject-state-petitions-to-delist-grizzly-bears-reaffirm-protected-status-in-montana-wyoming/#:~:text=A%20grizzly%20bear%20in%20the,Montana's%20and%20Idaho's%20elected%20officials." rel="noopener noreferrer" target="_blank"><u>delisting grizzlies from the Endangered Species List</u></a>, and he got what he was looking for. “I’m with you,” Burgum said. “We should be celebrating when species come off the endangered species list, as opposed to fighting every way we can to try to keep them on that list.” </p><p>Risch was also excited about this promise. “We don’t want grizzly bears [in Idaho],” he said. “They kill people. You know, the federal government already gave us wolves.”</p><p>Grizzlies weren’t the only bears on the chopping block. Republican Senator Lisa Murkowski of Alaska slammed the Biden administration’s Interior for <a href="https://www.federalregister.gov/documents/2025/01/13/2025-00450/marine-mammals-proposed-incidental-harassment-authorization-for-the-southern-beaufort-sea-stock-of" rel="noopener noreferrer" target="_blank"><u>not finishing its revised incidental take regulations</u></a> for North Slope oil and gas activities — that is, the gas industry’s exemption to the Marine Mammal Protection Act of 1972 which otherwise prohibits the harassing, hunting, capturing, or killing of protected animals, including polar bears. “I need your commitment that you’ll work with Alaskans, particularly the Inupiat people up there, in the North Slope Borough, on basically all things polar bear,” Murkowski said. </p><p>“We’ll be happy to do that,” Burgum confirmed.</p> 
+
+<br> 
+
+<https://heatmap.news/politics/doug-burgum-interior-confirmation-hearing>
+
+---
+
+##  As Ceasefire Nears, Jared Kushner’s New Investments Could Boost Israeli Settlements 
+
+date: 2025-01-16, from: The Lever News
+
+ Just before the Israel-Hamas war ceasefire deal, Donald Trump’s son-in-law doubled his stake in an Israeli firm that stands to gain from expanding Israeli settlements.  
+
+<br> 
+
+<https://www.levernews.com/as-ceasefire-nears-jared-kushners-new-investments-could-boost-israeli-settlements/>
+
+---
+
+## Lee Zeldin Keeps His Cards Close to the Vest
+
+date: 2025-01-16, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTYyMzgwNC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0NjgxMTIxNn0.Y20NLCg_kTby1r_YzMQe3CanWng6ev6ZSumwhaHJQX4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Confirmation hearings for Donald Trump’s energy and environment appointees continued Thursday, with Lee Zeldin and Doug Burgum appearing before the Senate for their nominations as Environmental Protection Agency administrator and secretary of the Interior. While Burgum was long tipped to get a major energy-related position in the Trump administration, Zeldin’s nomination was more of a surprise. While he worked on some local water and environmental issues during his time as a congressman from eastern Long Island, he was mostly known for his work on foreign and defense policy issues.</p><p>While Zeldin is likely to be confirmed thanks to the Republicans’ 53-47 Senate majority, he did not receive the same bipartisan lovefest as Chris Wright did in his hearing Wednesday for his nomination as secretary of Energy. Zeldin was formally introduced only by a Republican, Wyoming Senator John Barrasso, whereas Wright received introductions from a Democrat and Republican on the panel examining him.<br/><br/>Here are three takeaways from today’s proceedings:</p><h2>1. Literal climate denial is dead.</h2><p>When asked by Senator Bernie Sanders “Do you agree with President-elect Trump that climate change is a hoax?" Zeldin, a former member of the bipartisan Climate Solutions Caucus when in the House, said “I believe that climate change is real,” but then went on to say that Trump’s frequent claims, largely made during the 2016 presidential campaign, that climate change is a hoax was more a criticism of policy than a judgment of climate science.</p><p>When asked by Rhode Island Senator Sheldon Whitehouse about what effect carbon dioxide emissions had on the atmosphere, after some back and forth about listening to scientists and what obligations the EPA had to regulate carbon dioxide, Zeldin said “trapping heat.”</p><h2>2. But Zeldin does not take an expansive view of the EPA’s role.</h2><p><span></span>Throughout the hearing, Zeldin returned again and again to the idea that he wanted the EPA to focus on, as Trump often says, “clean air and clean water,” that he wanted to “increase productivity of the EPA,” and that he wanted it to be “accountable and transparent.” While this sounds like so much Washington boilerplate, it is likely a sign that Zeldin will not be advocating for any increase in the EPA’s roles or responsibilities and would try to operate the agency with budgetary and conceptual restraint.</p><p><span></span><a href="https://www.eenews.net/articles/relocating-epa-headquarters-blasted-as-decapitation/" target="_blank">Zeldin did not endorse a proposal to move EPA’s headquarters</a> outside of Washington, D.C., or comments by Department of Government Efficiency co-head Vivek Ramaswamy that the government headcount should be reduced by three-quarters, instead saying “I’m not aware of a single person fired at the EPA during the first Trump administration” (<a href="https://beyer.house.gov/news/documentsingle.aspx?DocumentID=877" target="_blank">many employees left under the leadership of Scott Pruitt</a>).</p><h2>3. Industry will likely have a friendlier ear at EPA.</h2><p><strong></strong>Several Republican senators had specific grievances with the current — or past — Democratic EPA leadership and policy, largely around how the agency deals with local industries. Senator Todd Sullivan of Alaska criticized the EPA (<a href="https://www.eenews.net/articles/images-offer-fresh-look-at-alaska-raid-that-left-miners-fuming/" target="_blank"><u>in 2013</u></a>) for sending armed agents to inspect a mine in Alaska; Senator Jerry Moran of Kansas was critical of “one size fits all solutions” that applied to the state’s low-productivity “stripper” oil wells; Senator John Boozman of Arkansas said the EPA agenda under Biden “was shaped by the input from narrow group of stakeholders,” and asked Zeldin “how will you work with industries more collectively to ensure that their concerns are addressed while maintaining a balanced approach to environmental protection?”</p><p><span></span>“The worst thing that I could possibly do, that the EPA could do is to turn a blind eye to great substantive feedback that will better inform our decisions,” Zeldin said, indicating that industry perspectives on environmental rules and enforcement actions will likely receive a kinder ear under Zeldin than his predecessor.</p><p><span></span>Exactly what those issues will be was not immediately clear in the hearing. Any discussion of greenhouse gas emissions had to be practically extracted from Zeldin by Democratic senators, while at the same time Zeldin would not commit to scrapping Biden-era rules on power plant and tailpipe emissions (which Trump frequently targeted on the campaign trail), instead saying that he wouldn’t “prejudge” any rule-making.</p> 
+
+<br> 
+
+<https://heatmap.news/politics/lee-zeldin-epa-confirmation-hearing>
+
+---
+
+## Retail sales data shows robust consumption despite cost concerns
+
+date: 2025-01-16, from: Market Place
+
+December saw a 0.4% monthly gain and November was revised up. Less well-off consumers kept up with the aid of credit cards or savings accounts. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/16/consumer-spending-retail-sales-inflation-uncertainty/>
+
+---
+
+## Tough Times for Renewable Energy Projects
+
+date: 2025-01-16, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTY1NzY4MS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2MTQyNDA1OX0.id9spTv0onW5aDP-u9iMNlxtkUR25sejG_-F0Pl6lX4/image.jpg?width=1200&height=886&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><strong>1. McIntosh County, Oklahoma </strong>– Say goodbye to the Canadian River wind project, we hardly knew thee.</p><ul><li>The TransAlta utility-scale wind facility was canceled mere days after we were first to report on the uprising in favor of a ban on new renewables in the state.</li><li>Local residents had banded together against the project due to its close proximity to Lake Eufaula, a large reservoir. Opposition included representatives of the <a href="https://www.fox23.com/news/muscogee-nation-voices-concerns-over-canadian-company-trying-to-build-wind-farm-in-mcintosh-county/article_6b2f3884-9b26-11ef-9360-2b9fe2f543da.html" target="_blank"><u>native Muscogee Tribe</u></a>.</li><li>TransAlta confirmed the project was dead in a statement to me last week after state politicians were first to declare its demise. On Monday, the company provided a statement in lieu of making someone available to speak with me: “The unfortunate decision to terminate the project was due to two primary reasons – challenges with land acquisition as well as ongoing uncertainty regarding grid interconnection.”</li></ul><p><strong>2. Allen County, Ohio </strong>– A utility-scale project caught in the crossfires over solar on farmland and local-vs-state conflicts now appears deceased, too.</p><ul><li>Attorneys representing Lightsource – the renewables division of bp plc – told the Ohio Supreme Court in a filing last Thursday that it was withdrawing from a protracted legal fight over the approval of Birch Solar, a 375 megawatt solar project proposed in northwest Ohio that would <a href="https://www.supremecourt.ohio.gov/pdf_viewer/pdf_viewer.aspx?pdf=977270.pdf&subdirectory=2023-1011%5CDocketItems&source=DL_Clerk" target="_blank"><u>fuel operations for Amazon</u></a>.<br/></li><li>“Appellant has elected to suspend further development of the solar facility,” attorneys for Lightsource stated <a href="https://www.supremecourt.ohio.gov/pdf_viewer/pdf_viewer.aspx?pdf=977270.pdf&subdirectory=2023-1011%5CDocketItems&source=DL_Clerk" target="_blank"><u>in their filing</u></a>.<br/></li><li>As we previously explained, the Birch Solar case could have decided the fate of all renewables in the state. The Ohio Power Siting Board rejected Birch Solar <a href="https://ohiocapitaljournal.com/2022/10/25/ohio-solar-project-killed-by-local-government-opposition/" target="_blank"><u>in 2022</u></a>, citing local opposition to claim it was not in the public’s interest.</li></ul><p><strong>3. Albany County, Wyoming </strong>– We have a new “wind kills eagles” lawsuit to watch and it could derail a 252-megawatt project slated to be fully online next year. </p><ul><li>Two days before Christmas, Wyoming residents sued the Western Area Power Administrator and Energy Department for approving Repsol’s Rail Tie wind project, stating it would present an outsized threat to endangered bald eagles.<br/></li><li>The lawsuit seeks to invalidate permits and an interconnection approval provided to the project under the Biden administration, citing the National Environmental Policy Act.</li><li>The individual Wyoming residents are joined <a href="https://wyofile.com/wp-content/uploads/2025/01/Rail-Tie-lawsuit.pdf" target="_blank"><u>in the lawsuit</u></a> by a local conservationist group and archeological society. In addition, per the complaint, one of the Wyoming residents in the lawsuit – Michael Lockhart – is a longtime biologist who previously worked for more than three decades at the Fish and Wildlife Service and has personally researched harm to bald eagles from wind energy.</li></ul><p><strong>4. Martin County, Kentucky </strong>– I’ve been getting complaints we’re too much of a downer in this newsletter and should praise success stories. So here’s one: a solar farm in Kentucky on a former coal site. </p><ul><li>This week, a solar farm developed by Savion (a.k.a. Shell) just <a href="https://www.kentucky.com/news/business/article298526263.html" target="_blank"><u>became operational</u></a>. It’s a rare example of a solar project being greenlit in Kentucky, a state where we usually have nothing but bad news to report.<br/></li><li>I do however want to note my relative skepticism of the climate benefits in building this project. A <em><em>lot</em></em> of the power will go to Toyota via a <a href="https://pressroom.toyota.com/toyota-supports-a-new-power-source-at-brownfield-site-in-kentucky/" target="_blank"><u>virtual power plant purchase agreement</u></a> in order to meet their climate pledges, at least on paper.<br/></li><li>We’ve also seen backlash when solar projects fuel companies, not homes, producing <a href="https://www.kentucky.com/news/business/article298526263.html#storylink=cpy" target="_blank"><u>headlines like</u></a>, “Kentucky’s newest solar farm is now active. Most of its power goes to Toyota.”</li></ul><p><em><em>Here’s what else we’re watching…</em></em></p><p><strong>In Delaware, </strong>U.S. Wind is <a href="https://www.capegazette.com/article/us-wind-appeals-county%E2%80%99s-denial-substation-permit/285792" target="_blank"><u>appealing a local regulator’s decision</u></a> to reject a substation for offshore wind. </p><p><strong>In Illinois, </strong>the Panther Grove 2 utility-scale wind project just cleared its <a href="https://www.25newsnow.com/2025/01/08/plan-giant-livingston-county-wind-farm-passes-first-government-hurdle/" rel="noopener noreferrer" target="_blank"><u>county planning commission</u></a>. The project is a joint venture between Enbridge and Copenhagen Infrastructure Partners. </p><p><strong>In North Dakota </strong>– the home state of Trump’s pick for Interior Secretary, Doug Burgum – Minnkota Power Cooperative and PRC Wind yesterday announced plans to develop a new 370-megawatt wind farm near the town of New Rockford. </p><p><strong>In Texas, </strong>a subsidiary of Eni New Energy <a href="https://www.eni.com/en-IT/media/press-release/2025/01/pr-plenitude-completes-construction-largest-battery-storage-facility-in-texas.html" rel="noopener noreferrer" target="_blank"><u>completed building</u></a> a 200-megawatt battery storage facility just outside the southwestern city of Laredo. </p><p><strong>In Nebraska, </strong>what would be one of the state’s largest utility-scale solar projects is <a href="https://www.1011now.com/2025/01/15/county-commissioners-hear-public-comments-proposed-solar-farm-near-hallam/" rel="noopener noreferrer" target="_blank"><u>facing an uphill climb</u></a> with county regulators. Good luck, NextEra!</p><p><strong>In New York and New Jersey, </strong>the cable landings for the Vineyard Mid-Atlantic offshore wind project are starting to <a href="https://www.bairdmaritime.com/offshore/renewables/offshore-wind/environmental-review-begins-for-proposed-vineyard-mid-atlantic-offshore-wind-energy-project" rel="noopener noreferrer" target="_blank"><u>receive federal review</u></a>. </p><p><strong>In Tennessee, </strong>a different NextEra solar project has a key county hearing <a href="https://www.wkhm.com/2025/01/15/public-hearing-expected-in-february-for-proposed-solar-farm/" rel="noopener noreferrer" target="_blank"><u>scheduled for early February</u></a>. </p><p><strong>In Washington state, </strong>regulators <a href="https://www.tricitiesbusinessnews.com/articles/wautoma-solar-farm" rel="noopener noreferrer" target="_blank"><u>have approved</u></a> a 470-megawatt solar project in Benton County, which we’ve previously told you is home to its own <a href="https://heatmap.news/plus/the-fight/hotspots/is-washington-states-huge-wind-farm-actually-out-of-danger" target="_self"><u>massive fight over wind energy</u></a>. </p><p><strong>In California, </strong>residents are <a href="https://www.8newsnow.com/news/local-news/nevadas-joshua-trees-bulldozed-in-mesquite-solar-company-defends-solar-farm/" rel="noopener noreferrer" target="_blank"><u>complaining to local media</u></a> about a solar project potentially destroying native Joshua Trees. </p><p><strong>In Massachusetts, </strong>the small city of Westfield is <a href="https://www.westernmassnews.com/2024/12/27/lithium-battery-storage-facility-proposed-westfield-officials-push-back/" rel="noopener noreferrer" target="_blank"><u>inching closer</u></a> to restricting battery storage facilities in its limits. </p> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/hotspots/transalta-oklahoma-wind-farm>
+
+---
+
+## How to Find Consensus to Build More Transmission
+
+date: 2025-01-16, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTY1Nzk1Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0NTQ4NTI0NH0.oxElevrxp9ddhxrm5UbcM6HMmFbJCm0dYebj-sjyMpI/image.jpg?width=900&height=410&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Today we’re speaking with Cici Vu and Morgan Putnam from DNV Energy Systems, who helped craft a must-read report out this week on community relations in transmission with Americans for Clean Energy Grid (ACEG). Their report compiles findings of a roundtable with environmentalists, Indigenous rights activists, developers, and individual land owners, and finds transmission can fare better than solar and wind in this current political climate – and that community benefit agreements can be helpful for getting projects across the finish line. But some issues divided the roundtable, including how to structure labor benefits to ensure lots of people get job opportunities from transmission. </p>
+<p>The following is a lightly edited and abridged version of our conversation: </p>
+<p><strong>Jael: </strong>Can you walk me through what you and ACEG found as a part of your research? </p>
+<p><strong>Morgan:</strong> ACEG identify – like you have – that there is a realness to the community opposition that can arise with these projects. While there are clearly cases of money being spent to augment that, it doesn’t mean the opposition isn’t present. ACEG’s interest was to help make meaningful progress on this issue and figure out how we can do better to accelerate the rate at which we develop transmission. As the report calls out early on, development really proceeds at the pace of trust within a community.</p>
+<p><strong>Cici: </strong>There are a lot of reports out there on best practices. There are 1,500-page reports on desktop research and lots of interviews and so forth. But I think ACEG hit the nail on the head by bringing in the voices at the same table. With my expertise in mediation, we were able to do that. The recruiting of all the voices helped make the report more inclusive, and more comprehensive and more holistic in viewpoints and perspectives. </p>
+<p>The other thing that was really important was bridging the technical aspects of these large infrastructure projects that are so complex that communities don’t understand [them.] Being able to bring the large complexities of these projects – transmission, in this case – and community needs and interest, and being able to translate and interpret and be able to talk to one another, is a core piece of this report. </p>
+<p>The tool that gets us there is these community benefits agreements, project work agreements. And they only work well and are effective if they are co-developed with the voices, the developers, the landowners, the host communities alike. </p>
+<p><strong>Jael: </strong>Did you feel there was a need for a consensus on best practices for community engagement? </p>
+<p><strong>Cici</strong>: It’s a differentiator. It’s one of the reasons we’re doing this. </p>
+<p>We all recognize the needs of load growth demand. But to most effectively advance some of these best practices and make them actionable, these trusted voices have to discuss and agree. Or not agree – because we have a non-consensus segment as well where there were issues that did not meet consensus. When that happened, we made a recommendation to continue the discussion toward consensus. </p>
+<p><strong>Jael: </strong>What issues were most difficult to find consensus on and why? </p>
+<p><strong>Cici</strong>: The big piece of tension was how would these projects treat workforce development [and] bring in a local workforce while balancing the needs of labor,because labor has the skills. For instance, one of the issues was that local workforces need to be up-skilled in a way that is much more structured and systematic because there are safety issues in climbing a pole and doing electrification and things like that. </p>
+<p><strong>Jael: </strong>At a high level, are we seeing a similar broad backlash to transmission like what we’re seeing in specific communities with solar and wind? </p>
+<p><strong>Morgan:</strong> No, we’re not. It could happen. But those types of things you’re referencing are not yet occurring in transmission. I think it is less likely but not impossible, because–</p>
+<p><strong>Jael: </strong>What about <a href="https://hpj.com/2024/09/13/as-grain-belt-express-moves-nearer-to-construction-fights-move-to-center-stage/" rel="noopener noreferrer" target="_blank"><u>Grain Belt Express</u></a> or what’s happened <a href="https://www.wfmd.com/2025/01/15/resolution-opposing-md-piedmont-reliability-project-under-consideration-by-the-frederick-county-council/" rel="noopener noreferrer" target="_blank"><u>around Piedmont</u></a>? Do those situations give you any pause? </p>
+<p><strong>Morgan:</strong> So Grain Belt I think a little bit but it’s in a different category in my mind. Grain Belt is a specific project and, well, just look at the MISO region where that project sits. MISO’s moving forward with a lot of transmission. That project is but one project and it is being developed by an independent transmission developer that has… I think they face additional hurdles at times by virtue of their independence. </p>
+<p>Having said that, I think the earlier statement still applies to all transmission. It’s about trust. It’s something where I think if you have the trust and support of the communities, you’re going to be able to move the projects forward. </p>
+<p><strong>Cici: </strong>We’ve seen a lot of momentum in favor of longer term regional planning of transmission. We haven’t seen as much attention on the triggering words we see with solar, or wind, and the incoming administration for transmission. And we also have a lot of the load demand, which is data centers. </p>
+<p>We’re all crossing our fingers with the incoming administration. It’s so unpredictable.</p> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/qa/cici-vu-morgan-putnam-dnv-energy-systems>
+
+---
+
+## Hearings Galore, Youngkin’s Slow Bore
+
+date: 2025-01-16, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTY1NzkyOC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0MDc1NzQ5OH0.u74vgApz__fjGOjkAkcO5F4_50ZdLtxdQU_Mp_F-hh4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><strong>1. Youngkin sides with locals </strong>– Virginia Gov. Glenn Youngkin <a href="https://www.governor.virginia.gov/newsroom/news-releases/2025/january/name-1038956-en.html" rel="noopener noreferrer" target="_blank">this week said</a> at his State of the State address that he would oppose efforts to “end local control of solar project siting” – indicating he will fiercely challenge efforts by some state policymakers to resolve challenges posed by town and county restrictions on renewables by overriding them.<br/></p><ul><li>“Local communities must be able to exercise their rights with regards to land use,” Youngkin said, adding a comparison that tied solar’s growth to the data center boom in the state. “Different communities will make different decisions on data centers but these must be their decisions.”</li><li>As we <a href="https://heatmap.news/plus/the-fight/policy-watch/advanced-manufacturing-tax-credit-foreign-entity-concern" style="" target="_self">previously explained</a>, solar developers are <a href="https://virginiamercury.com/2024/10/30/solar-developers-seeking-changes-to-local-siting-process-again/" style="" target="_blank">seeking changes</a> to state policy in order to overrule local restrictions and draft recommendations from a Virginia commission on electricity called for the creation of an independent body to <a href="https://pv-magazine-usa.com/2024/12/03/a-virginia-proposal-would-give-the-state-a-role-in-siting-solar-and-storage-over-20-mw/" style="" target="_blank">adjudicate these objections</a>.</li></ul><span></span><p><strong>2. More like Hearing Watch </strong>– We’re starting to learn how Trump’s most significant nominees may run federal energy and climate agencies. <em><em>Thank you, senatorial advise and consent process!</em></em></p><ul><li>Most crucially, we heard from Energy Secretary-in-waiting Chris Wright who yesterday offered largely predictable pro-business comments that leave open the possibility Trump 2.0 will not mean an end to all federal support for the energy transition.</li><li>But there was one moment that stood out to me personally: Wright said he would “immediately engage” on a report released by DOE’s inspector general that called for a halt to operations of the Loan Programs Office, a key vehicle for supporting decarbonization projects across the country. It’s unclear how a pause would impact any and all conditional loan commitments issued by the Biden administration.</li></ul><p><strong>3. Using land for data </strong>– One of Biden’s final days this week was spent opening up federal lands for constructing data centers in order to give the U.S. a leg up in developing artificial intelligence.</p><ul><li>The proposal tries to encourage data center companies to use renewable energy sources and instructs federal regulators to select ideal sites for constructing renewable projects close to or collocated with proposed or completed data centers.</li><li>It’s possible that this entire thing is ripped up on Day 1 of Trump 2.0 and I’m skeptical this will have much sway on the pace of developing either renewables or data centers. But kudos for trying. </li></ul> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/policy-watch/glenn-youngkin-solar>
+
+---
+
+## US CDC recommends faster testing for bird flu in hospitalized patients
+
+date: 2025-01-16, from: VOA News USA
+
+People hospitalized for flu should be tested for bird flu within 24 hours, the U.S. Centers for Disease Control and Prevention said on Thursday, in an expansion of the agency's efforts to tackle increasing infections in humans. 
+
+
+The advisory is intended to prevent delays in identifying human cases of avian influenza A (H5N1) viruses amid high levels of seasonal influenza. 
+
+
+The risk to the general public from bird flu is low, and there has been no further evidence of person to person spread, the agency said. 
+
+
+Still, influenza A-positive patients, particularly those in an intensive care unit, should be tested ideally within 24 hours of hospitalization to identify the viral subtype and determine whether they have bird flu, the agency said. 
+
+
+Prior to Thursday's guidance, hospitals generally sent batches of samples to labs for subtyping every few days. 
+
+
+Faster testing also aims to help doctors identify how people became infected and provide their close contacts with testing and medicine more quickly, if needed, said Nirav Shah, the agency's principal deputy director, on a call with reporters. 
+
+
+The CDC does not believe it has been missing bird flu infections in people, Shah said. No surveillance system detects 100% of cases, he added later. 
+
+
+"The system is working as it should," said Shah, adding that health officials want results sooner in case any public health action is needed. "What we need is to shift to a system that tells us what's happening in the moment." 
+
+
+Nearly 70 people in the United States, most of them farmworkers, have contracted bird flu since April, as the virus has circulated among poultry flocks and dairy herds. Three people have tested positive without a clear source of exposure to the virus, according to CDC. 
+
+
+Most infections in humans have been mild, but one fatality was reported in Louisiana last week. 
+
+
+The U.S. Department of Agriculture has more than 300 personnel working on its bird flu response and has spent $1.5 billion on its efforts to curb the spread among poultry and dairy cattle, said Eric Deeble, a deputy undersecretary at the agency. 
+
+
+The USDA last week said it would rebuild a bird flu vaccine stockpile for poultry. 
+
+
+USDA officials have met several times with the transition team of the incoming Donald Trump administration to try to ensure a smooth handoff on agency actions to curb the spread of the virus, including a tabletop exercise at the White House on Wednesday, Deeble said. 
+
+
+Officials at the Department of Health and Human Services, which encompasses CDC, also have repeatedly met with the transition team on Zoom calls and have shared their bird flu playbook, officials said on the press call.  
+
+
+HHS said on Thursday it plans to put $211 million toward mRNA-based vaccine technology to better respond to emerging infectious diseases such as bird flu. 
+
+<br> 
+
+<https://www.voanews.com/a/us-cdc-recommends-faster-testing-for-bird-flu-in-hospitalized-patients-/7939688.html>
+
+---
+
+## Wholesale electricity prices were lower and less volatile last year
+
+date: 2025-01-16, from: Market Place
+
+But how does that show up in your electricity bill? 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/16/wholesale-electricity-prices-were-lower-and-less-volatile-last-year/>
+
+---
+
+## School Voucher Opponents Have an Important Ally: Disability Advocates
+
+date: 2025-01-16, from: Capital and Main
+
+<p>Public school advocates say disability rights groups helped defeat voucher measures in three states in November.</p>
+<p>The post <a href="https://capitalandmain.com/school-voucher-opponents-have-an-important-ally-disability-advocates">School Voucher Opponents Have an Important Ally: Disability Advocates</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/school-voucher-opponents-have-an-important-ally-disability-advocates>
+
+---
+
+## As trade tensions escalate, here’s what’s inside China’s trade war playbook
+
+date: 2025-01-16, from: Market Place
+
+China has had years to figure out how to best respond to U.S. tariffs. That means it’s developed plenty of strategies to respond to any new tariffs during Trump’s second term. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/16/as-trade-tensions-escalate-heres-whats-inside-chinas-trade-war-playbook/>
+
+---
+
+## US Customs agents intercept contraband cars headed overseas
+
+date: 2025-01-16, from: VOA News USA
+
+SPARROWS POINT, MARYLAND — Most Americans and visitors to the United States encounter Customs and Border Protection agents when they enter or return to the country at land crossings or airports. But CBP also is responsible for inspecting goods leaving the country, which creates a nearly impossible assignment of trying to intercept all stolen automobiles being shipped out of the U.S.
+
+
+At the Port of Baltimore, CBP scrutinizes several hundred vehicles every day, and on average will find one illegal export — nearly all headed to a particular region of the world, says Adam Rottman, CBP’s director at the Port of Baltimore. He acknowledges that CBP has neither the time nor manpower to inspect every shipping container.
+
+
+“I’d say 90 to 95% of every one of our stolen automobiles is headed to West Africa,” he tells VOA.
+
+
+Alex Piquero, a professor of criminology at the University of Miami, said, “There are people who are stealing cars and car parts to sell them very quickly in the local markets. And then there are people literally stealing cars and putting them on containers and selling them, shipping them all over the world, not just to Africa, but also to the Middle East and to Asia.”
+
+
+On any given day at the Port of Baltimore, CBP’s manifest of seized vehicles resembles the inventory of a small used car lot: a Kia purchased fraudulently at auction in New Jersey is bound for Ghana; a Mercedes-Benz valued at $48,000, purchased with a stolen identity in Ohio, is slated for shipment to Togo; a $75,000 Ford Raptor inside a container with one or two additional stolen vehicles and boxes of new power tools is headed for West Africa.
+
+
+Rottman peeks inside one container for which no vehicles are listed.
+
+
+“It’s supposed to be only household goods in there,” he says. “In this example, there’s at least three, probably four cars in that container.”
+
+
+Rottman walks to another container opened for inspection.
+
+
+“This container, we just opened today. The vehicle on the top there, that Honda, we’ve already verified through the VIN (vehicle identification number) that the car is stolen. There’s two [vehicles], more in the back,” he says.
+
+
+CBP operates giant mobile X-ray trucks, the VACIS M6500s, which in minutes can scan shipping containers and determine if they should be opened for a closer inspection.
+
+
+A growing problem
+
+
+Auto theft is a problem accelerating across the United States. While the early part of the 2010s saw a decline in vehicle thefts, there has been a notable increase since 2020, influenced by factors that include the coronavirus pandemic and social media videos demonstrating how certain car models can easily be stolen.
+
+
+The criminals frequently rent cars for a 30-day period and immediately drive them into a nearby container and paste a fake VIN over the real one. The car will not be reported stolen by the rental agency for a month. By then, it may already be on a ship.
+
+
+Rottman stands in front of the container that has the expensive Ford Raptor inside.
+
+
+“They’ll take the VIN number on the dashboard on your windshield. They’ll make a fake VIN. They’ll put it over the top, glue it on, so it would come up [on computer databases] clean, or it’s not on file when we look it up,” he explains. “But right away, we noticed the checked digit on the VIN doesn’t match what’s supposed to be on a Ford truck.”
+
+
+For some buyers in Africa or on other continents, unwittingly acquiring a car stolen in the U.S. may seem like a good deal, but some of the vehicles are known to have been in accidents and could be unsafe, including airbags that no longer work.
+
+
+“You could be putting your family members in danger by driving some of these stolen cars,” says Rottman.
+
+
+There is also a moral hazard.
+
+
+“When they purchase a car like this that’s been stolen, they’re funding these transnational criminal organizations. And criminal organizations are willing to do anything to make money,” Rottman says, noting that such activities by car theft gangs include human trafficking, drug smuggling and even terrorism.
+
+
+Authorities in some African countries are working with Interpol and other transnational law enforcement agencies to seize some of the stolen vehicles that slip through American ports.
+
+
+Cooperation is not consistent because of government corruption in some countries.
+
+
+“Some governments will play nicer, and other governments won't, and you can't search every container. And that's why the security at the port is so critically important,” Piquero of the University of Miami told VOA.
+
+
+With so many buyers seeking a deal on a used car — often with no questions asked — there is unlikely to be a slowdown anytime soon in the global traffic of stolen vehicles. 
+
+<br> 
+
+<https://www.voanews.com/a/us-customs-agents-intercept-contraband-cars-headed-overseas/7939673.html>
+
+---
+
+## Employers are having trouble finding workers with the right skills
+
+date: 2025-01-16, from: Market Place
+
+Companies reported on their quest to fill jobs in the Fed's Beige Book. The arrival of AI may have changed hiring needs.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/16/skilled-workers-employers-jobs-hiring-beige-book/>
+
+---
+
+## TikTok’s eleventh hour
+
+date: 2025-01-16, from: Market Place, Make me Smart
+
+<p>Many TikTok users are joining apps such as RedNote and Lemon8 in anticipation of a TikTok ban in the United States. The problem? They&#8217;re also Chinese-owned. We&#8217;ll get into how this could turn into a headache for Congress. Then, we&#8217;ll unpack Defense Secretary nominee Pete Hegseth&#8217;s climate change comments at his confirmation hearing and how people experiencing homelessness in Los Angeles are being impacted by the current fires in a unique way. Plus, a farewell hallucinogenic mushroom story from outgoing Treasury Secretary Janet Yellen.</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.marketplace.org/2025/01/16/tiktok-alternatives-rednote-bans/" target="_blank" rel="noreferrer noopener">&#8220;Some of the possible alternatives to TikTok have their own problems&#8221;</a> from Marketplace</li>
+<li><a href="https://www.washingtonpost.com/technology/2025/01/15/trump-tiktok-ban-executive-order/" target="_blank" rel="noreferrer noopener">&#8220;Trump considers executive order hoping to ‘save TikTok’ from ban or sale in U.S. law&#8221;</a> from The Washington Post</li>
+<li><a href="https://www.marketplace.org/2025/01/09/tiktok-ban-supreme-court-bytedance-backup-plan/" target="_blank" rel="noreferrer noopener">&#8220;With TikTok ban looming, ByteDance has a backup plan&#8221;</a> from Marketplace</li>
+<li><a href="https://www.politico.com/newsletters/power-switch/2024/11/14/where-gaetz-and-hegseth-stand-on-climate-change-00189643" target="_blank" rel="noreferrer noopener">&#8220;Where Gaetz and Hegseth stand on climate change&#8221;</a> from Politico</li>
+<li><a href="https://www.marketplace.org/episode/the-changing-threat/" target="_blank" rel="noreferrer noopener">&#8220;The Changing Threat&#8221;</a> from Marketplace&#8217;s &#8220;How We Survive&#8221;</li>
+<li><a href="https://www.marketplace.org/2025/01/10/los-angeles-wildfires-homeless-residents/" target="_blank" rel="noreferrer noopener">&#8220;As thousands flee LA fires, disaster poses unique challenges for the unhoused&#8221;</a> from Marketplace</li>
+<li><a href="https://calmatters.org/housing/homelessness/2025/01/la-fires-homeless/" target="_blank" rel="noreferrer noopener">&#8220;How the LA fires could exacerbate California’s homelessness crisis&#8221;</a> from CalMatters</li>
+<li><a href="https://www.youtube.com/watch?v=abD2NS3Uh3g&amp;embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&amp;embeds_referring_origin=https%3A%2F%2Fwww.bing.com&amp;source_ve_path=Mjg2NjY" target="_blank" rel="noreferrer noopener">&#8220;&#8216;It Was Ok&#8221; &#8211; Sec. Janet Yellen On Trying Marijuana For The First Time&#8221;</a> from &#8220;The Late Show with Stephen Colbert&#8221;</li>
+</ul>
+<p>Join us tomorrow for “Economics on Tap.” The <a href="https://www.youtube.com/@marketplaceAPM/streams" target="_blank" rel="noreferrer noopener">YouTube livestream</a> starts at 3:30 p.m. Pacific time, 6:30 p.m. Eastern.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/01/16/mms_20250116_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Ftiktoks-eleventh-hour&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/01/16/mms_20250116_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Ftiktoks-eleventh-hour&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/tiktoks-eleventh-hour>
+
+---
+
+## Trump’s pick for hostage envoy pledges 'to take action'
+
+date: 2025-01-16, from: VOA News USA
+
+Dozens of U.S. citizens and residents are unjustly held around the world. If confirmed as President-elect Donald Trump’s pick for hostage envoy, Adam Boehler will be tasked with freeing them. Cristina Caicedo Smit reports. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-s-pick-for-hostage-envoy-pledges-to-take-action/7939502.html>
+
+---
+
+## New WaPo Slogan: The Runners-Up
+
+date: 2025-01-16, from: The Contrarian
+
+In his first post for The Contrarian, Andy Borowitz offers creative editorial assistance to Jeff Bezos 
+
+<br> 
+
+<https://contrarian.substack.com/p/new-wapo-slogan-the-runners-up>
+
+---
+
+## Putting aside past tensions, Turkey’s Erdogan sees new Trump presidency as opportunity
+
+date: 2025-01-16, from: VOA News USA
+
+With Donald Trump returning to the White House, analysts say Turkish President Recep Tayyip Erdogan sees an opportunity to rekindle what he calls his close working relationship with the president-elect. However, as Dorian Jones reports from Istanbul, the incoming Trump presidency poses risks as well as opportunities. 
+
+<br> 
+
+<https://www.voanews.com/a/putting-aside-past-tensions-turkey-s-erdogan-sees-new-trump-presidency-as-opportunity/7939461.html>
+
+---
+
+## The Other Side of TikTok
+
+date: 2025-01-16, from: The Contrarian
+
+View and hear from a minuscule, powerful sampling of those whose lives have been changed and enhanced immeasurably by Tiktok 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-other-side-of-tiktok>
+
+---
+
+## L.A. Residents: Protect Yourselves From Ash
+
+date: 2025-01-16, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTY0MzQ5Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4ODY4NjMxOH0.h-qKIwczV4NAPjY2g_2M7NxADjXbUL4V87_FAc14Q64/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">After a week and a half of <a href="https://heatmap.news/climate/palisades-eaton-fire-photos" target="_self"><u>unimaginable destruction</u></a>, Los Angeles is at last <a href="https://www.latimes.com/california/live/2025-01-16/fire-winds-los-angeles-california-eaton-altadena-palisades-updates" target="_blank"><u>beginning to look toward its recovery</u></a><em> </em>from the Palisades and Eaton fires. Traversing that stage will take years, not only because of the significant <a href="https://heatmap.news/economy/los-angeles-fires-cost" target="_self"><u>economic</u></a> and <a href="https://heatmap.news/climate/los-angeles-fires-zone-zero" target="_self"><u>political implications</u></a> of the fires, but also because of what they will mean for the health and well-being of the thousands of residents who live in or near the burn zones.</p>
+<p>Los Angeles isn’t navigating the crisis alone, though. In the wake of the deadly 2023 Maui wildfire, researchers at the University of Hawaii launched <a href="https://www.mauiwes.info/" rel="noopener noreferrer" target="_blank"><u>the Maui Wildfire Exposure Study</u></a>, a multi-year effort to track the disaster’s physical and mental health impacts on residents. Though the demographics of West Maui differ greatly from those of Pacific Palisades or Altadena — two of <a href="https://www.sfchronicle.com/california-wildfires/article/la-fire-home-cost-20023098.php" rel="noopener noreferrer" target="_blank"><u>the most affluent zip codes in the country</u></a> — California public officials, medical professionals, and wildfire survivors can still learn from the ongoing work of the MauiWES. </p>
+<p>To that end, I spoke yesterday with Ruben Juarez, one of the study’s lead researchers. Our conversation has been edited and condensed for clarity.</p>
+<p><strong>What is the Maui Wildfire Exposure Study?</strong></p>
+<p>The Maui Wildfire Exposure Study follows a comprehensive cohort of people affected by the 2023 fires. We collected data six months after the fire, and typically, we’re looking for the long-term effects. For 60% of the individuals who came to the study, it was their first health check since the fires. </p>
+<p>It is a pretty interesting population: They’re underserved and typically lack access to health care. We found three main trends: The first was mental and physical health issues. Access to care was a big issue in Hawaii, and I’m hoping that’s not going to be the case in California, but it definitely was here. Housing, job, and food insecurity were other big issues, as were the social impacts.</p>
+<p><strong>What have you learned about the mental and physical health of people exposed to the Maui wildfires?</strong></p>
+<p>Pre-wildfire we knew that the rate of depression symptoms in the Maui population was about 30%. Post-wildfire, we’re seeing more like 52%, so more than one in two participants in the study were showing depression symptoms. Low self-esteem was another issue. Something that was really worrisome was suicidal ideation: Pre-wildfire, it was less than 1%; post-wildfire, at least for the people in the cohort, it was about 4% of the population. That’s more than a four-time increase. </p>
+<p>The second issue is physical health: Nearly half of the participants reported worse health since the fires. We saw respiratory issues, such as coughing, wheezing, difficulty breathing, and also skin and eye irritation, fatigue, and weakness. We’re seeing that about 74% of the participants are facing a heightened risk of cardiovascular disease. We also performed a lung check using spirometry and oscillometry breathing. Based on the spirometry measure, 60% of participants may have poor lung health, and 40% may have mild to severe lung obstruction. We believe this is associated with the exposure to ash and the personal protective equipment individuals wore when they returned to the fire site.</p>
+<p><strong>We’ve written a lot about the dangers of wildfire smoke at Heatmap, but I think people are less aware of the risks of wildfire ash. Could you say more?</strong></p>
+<p>It’s really toxic. People need to take care of themselves. There are the harmful substances you’d expect in ash: lead, arsenic, asbestos — those are poisons. </p>
+<p>Why was our population in Lahaina affected by this? Because they went back to the burned homes and did not wear any PPE. To me, that was crazy. The county said that wearing PPE was a voluntary decision, and that was a mistake. And PPE is not just a mask: you really need eye protection, gloves, footwear, and long clothing, because the ash is really toxic.</p>
+<p>Even in small amounts, the poisons in ash can harm the lungs and the heart, and there are long-term effects, including cancer, which is one of the things we’re trying to prevent. In the case of Hawaii, for the initial batch of 767 individuals in the study, we did a heavy metal analysis — a comprehensive panel of 32 of the most expected heavy metals. We already knew that five of the most common heavy metals were found in ash present in Hawaii: arsenic, lead, antimony, copper, and cobalt. We learned that 20% of participants affected by the fires in our cohort were showing an elevated level of at least one of these heavy metals, which is <em><em>not </em></em>something that you would expect. We don’t want these things in our bodies at any level. People must know that these things are harmful and they need to take care of their health.</p>
+<p><strong>And that’s all just from people returning to their homes and sifting through the ash? Or can ash blow into an area that didn’t burn and affect people that way, as well?</strong></p>
+<p>Many participants were uneducated about the harmful effects ash has, especially when it has contact with your skin. But you should also avoid breathing or swallowing soot and ash at any cost. The effects were seen in individuals who had direct contact at a site or were indirectly exposed through smoke or blowing winds — but the majority was direct contact.</p>
+<p><strong>That’s so scary.</strong></p>
+<p>Not everything was bad news. We found some exciting ways to potentially address some of these issues. For instance, resiliency was at the top of the minds of many participants in the study: “How can I be resilient? How can I survive this catastrophe?” </p>
+<p>We also found that lower-income individuals trust and use community organizations more than government services, like federal, state, and county agencies. This information could potentially help us intervene, especially when considering underserved populations like immigrant populations. They just don’t trust the government. Addressing issues through community organizations on the ground was extremely helpful because it allowed people to access the services they needed. </p>
+<p>Another thing that we noticed that was super helpful was that people who maintain strong relationships with family and friends experience better health outcomes. Social isolation after a wildfire was really bad, especially for mental health problems. Individuals who are more connected with their friends, family, or are doing something in their community volunteering tend to have better health outcomes, particularly in terms of depression.</p>
+<p><strong>How close do you need to have been to a wildfire to experience these effects?</strong></p>
+<p>Individuals whose homes were on the perimeter of the burn area experienced more physical symptoms, worse quality of life, and worse mental health. But that doesn’t mean that if your house doesn’t burn, you will not experience any of the symptoms. Even if you didn’t go to a contaminated site, there was all the smoke over the city, and you’re exposed to that. Individuals who are not directly affected can be indirectly affected — at a lower rate, of course, as you’d expect.</p>
+<p><strong>Many of the mental health impacts you described were related to things like housing, job, or food insecurity, as well as the lack of access to healthcare resources following a fire. Would you expect mental health impacts to not be as bad in L.A., since it was a more affluent area that burned?</strong></p>
+<p>Yes. In fact, coincidentally, one of our scientific advisory board members is a resident of L.A., and he’s been saying that he doesn’t expect the health effects to be as bad in L.A. as they were in Maui because the shortage of doctors is not as big. Also, the type of demographic that is being affected is more affluent. </p>
+<p>Having said that, in Hawaii, we had the advantage of winds that blew smoke and soot away. I was reading reports that in L.A., there were no winds, and <a href="https://heatmap.news/sparks/los-angeles-fires-smoke" target="_self"><u>the smoke was just staying there</u></a>. In that case, the effects in terms of pulmonary health won’t just be the people directly affected, but the whole city.</p>
+<p><strong>What would you want emergency managers and medical professionals in Los Angeles to know about your study as they address the impacts of these fires?</strong></p>
+<p>First, we must emphasize to people that this is not a forest fire; houses are burning, full of toxic substances. People need to know that if they return to the burn zone, they need to take care of their health and ensure they are wearing PPE. We need to conduct many communication campaigns around this.</p>
+<p>The second thing is, don’t underestimate the power of community and community organizations, especially in L.A., where there are many immigrant populations. Community organizations should be used to provide information because people don’t trust the government or FEMA officials. </p>
+<p>The third thing I would emphasize is that after a disaster, when people struggle with housing, job, and food insecurity, their health becomes a lower priority. This is understandable, but unfortunately, neglecting your health at this time can worsen the long-term effects. It’s really important that we emphasize to individuals that even if you don’t have a house or a job right now, you need to take care of your health. </p>
+<p>An example of this is in the aftermath of 9/11; years later, more lives have been lost due to exposure to environmental hazards than the disaster itself. If we don’t intervene early on, things can get really bad. That’s what we are trying to do: prevent those long-term effects from happening.</p> 
+
+<br> 
+
+<https://heatmap.news/climate/los-angeles-fires-ash-danger>
+
+---
+
+## Fires Add Disaster to the Los Angeles Housing Crisis
+
+date: 2025-01-16, from: Capital and Main
+
+<p>Preventing price gouging on rents and predatory evictions are looming challenges for public officials.</p>
+<p>The post <a href="https://capitalandmain.com/fires-add-disaster-to-the-los-angeles-housing-crisis">Fires Add Disaster to the Los Angeles Housing Crisis</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/fires-add-disaster-to-the-los-angeles-housing-crisis>
+
+---
+
+## “It’s been a bad dream”: What one Altadena renter is facing after her home burned
+
+date: 2025-01-16, from: Market Place
+
+Claire Contreras, an elementary school teacher, reflects on the challenges of trying to find long-term places to stay after losing her home. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/16/la-fires-altadena-renter-housing-affordability/>
+
+---
+
+## Jen Rubin interviews Jonathan Greenblatt about the hostage deal 
+
+date: 2025-01-16, from: The Contrarian
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154951784/323aedebcc98dadf80602a651ea19ffa.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154951784/323aedebcc98dadf80602a651ea19ffa.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-interviews-jonathan-greenblatt>
+
+---
+
+## Texas looks likely to pass school voucher legislation
+
+date: 2025-01-16, from: Market Place
+
+Texas would join a growing number of states that have invested in private education in recent years. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/16/texas-looks-likely-to-pass-school-voucher-legislation/>
+
+---
+
+## Some of the possible alternatives to TikTok have their own problems
+
+date: 2025-01-16, from: Market Place
+
+The algorithm behind the app's success is proprietary and hard to replicate. And Chinese-owned alternatives like RedNote could also be vulnerable to a ban. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/16/tiktok-alternatives-rednote-bans/>
 
 ---
 
@@ -632,7 +1928,7 @@ date: 2025-01-15, from: Heatmap News
 	It’s hard to fathom the extent of damage even a work stoppage order would have on the American offshore wind industry. Roughly 5.8 gigawatts of electricity capacity are under construction offshore and more than 8 gigawatts of projects have been fully permitted but haven’t begun construction, according to data shared with Heatmap News that was compiled by Christian Roselund, a policy analyst seasoned in the renewables industry. At least 10 gigawatts of additional capacity is currently in the federal review process and would be stymied by a halt at the permitting level. Taken together, the proposals in the draft could take millions of homes’ worth of carbon-free electricity off the table indefinitely.
 </p><p>
 	A source within the offshore wind industry who requested anonymity to speak candidly said, if enacted, the proposals in the draft executive order would “lay off thousands of Americans” and potentially lead to work stoppages in other links in the industry’s supply chain, like shipyards in Louisiana and steel plants in the Midwest.
-</p><p>
+</p><p>Jason Ryan, a spokesperson from American Clean Power, provided Heatmap a statement after initial publication of this story: “Executive orders restricting offshore wind energy undermine U.S. national security and job growth. Energy dominance requires a true ‘all of the above energy’ approach that unleashes our nation’s diverse resources to meet surging demand.”</p><p>
 <strong>What’s in the draft order? </strong>
 </p><p>
 	In addition to pausing permits, the draft executive order calls on the incoming administration to:
@@ -845,6 +2141,20 @@ date: 2025-01-15, from: Heatmap News
 
 ---
 
+## How Militaries Fuel Climate Change
+
+date: 2025-01-15, from: Capital and Main
+
+<p>A ceasefire deal has been reached between Israel and Hamas. But the emissions the bombardment of Gaza generated have deep implications for the climate. </p>
+<p>The post <a href="https://capitalandmain.com/how-militaries-fuel-climate-change">How Militaries Fuel Climate Change</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/how-militaries-fuel-climate-change>
+
+---
+
 ## A Gaza Ceasefire and Hostage Deal
 
 date: 2025-01-15, from: The Contrarian
@@ -873,7 +2183,7 @@ date: 2025-01-15, from: Heatmap News
 </p><p>
 	If these rapid payouts remind you of <a href="https://heatmap.news/sparks/los-angeles-fires-kettle-insurance" target="_self"><u>parametric insurance</u></a>, you’re on the right track. Parametric insurance also exists to get cash quickly into the hands of those who have experienced disaster, without the need for damage audits. But as is implied by the word “insurance,” it is also an opt-in service that involves the payment of monthly premiums. GiveDirectly’s cash comes out of the blue, free and clear.
 </p><p>
-	To get the actual money out the door, GiveDirectly works with Propel, an app for low-income households to manage government benefits such as SNAP food stamps. GiveDirectly tells Propel what areas its mapping tool has honed in on, and Propel sends out an alert to users in these zones, notifying them that they’re eligible to receive money. Individuals then complete a brief survey confirming their contact information, preferred language, and signing some consent notices.
+	To get the actual money out the door, GiveDirectly works with <a href="https://www.propel.app/" target="_blank">Propel</a>, an app for low-income households to manage government benefits such as SNAP food stamps. GiveDirectly tells Propel what areas its mapping tool has honed in on, and Propel sends out an alert to users in these zones, notifying them that they’re eligible to receive money. Individuals then complete a brief survey confirming their contact information, preferred language, and signing some consent notices.
 </p><p>
 	“The last response that we did in western North Carolina and in Florida last fall, it took them, on average, 68 seconds to complete that enrollment form,” Keen told me. The last time she looked at the data, there were about 2,300 households using Propel in the impacted areas of L.A., a number that’s only growing as the largest fires remain uncontained. Once people enroll, they can expect to receive money directly to their debit accounts within three days.
 </p><p>
@@ -2025,7 +3335,7 @@ date: 2025-01-14, from: Heatmap News
 </p><p>
 	In theory, the policy was simple. It directed state officials to develop new rules for buildings in areas with high fire risk, which would govern what people were allowed to put within the five-foot perimeter immediately surrounding their homes. A large body of evidence shows that clearing this area, known in the fire mitigation world as “zone zero,” of combustible materials can be the difference between a building that alights during a wildfire and one that can weather the blaze.
 </p><p>
-	The new rules — essentially just a list of items allowed in that five-foot zone — were due two years ago, by January 1, 2023. But the State Board of Forestry and Fire Protection to consider has yet to begin a formal rulemaking process. Ask anyone who’s been following this thread what’s taking so long, and they’ll almost certainly point to one thing: politics.
+	The new rules — essentially just a list of items allowed in that five-foot zone — were due two years ago, by January 1, 2023. But the State Board of Forestry and Fire Protection has yet to begin a formal rulemaking process. Ask anyone who’s been following this thread what’s taking so long, and they’ll almost certainly point to one thing: politics.
 </p><p>
 	“There’s a ton of science about what to do, but the science has run into challenges with social acceptance, and therefore political acceptance,” Michael Wara, director of Stanford University’s Climate and Energy Policy Program, told me. People do not want to be told how they can or can’t landscape or furnish or otherwise adorn the outside of their homes. Inevitably, when the rules do come out, you’ll hear about Gavin Newsom coming to take away people’s decks and policing gardens.
 </p><p>
@@ -2439,6 +3749,20 @@ Cabinet nominees must receive a majority of votes to be confirmed. The U.S. Sena
 <br> 
 
 <https://www.voanews.com/a/hegseth-vows-a-warrior-culture-if-confirmed-as-trump-s-defense-secretary/7936614.html>
+
+---
+
+## California wildfires are largely fueled by climate change, experts say
+
+date: 2025-01-14, from: Capital and Main
+
+<p>Increasing greenhouse gas levels and a hotter atmosphere make for more extreme weather that leaves behind dried out vegetation as fuel for fires. </p>
+<p>The post <a href="https://capitalandmain.com/california-wildfires-are-largely-fueled-by-climate-change-experts-say">California wildfires are largely fueled by climate change, experts say</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/california-wildfires-are-largely-fueled-by-climate-change-experts-say>
 
 ---
 

@@ -1,11 +1,355 @@
 ---
 title: going electric
-updated: 2025-01-16 07:04:58
+updated: 2025-01-17 07:05:02
 ---
 
 # going electric
 
-(date: 2025-01-16 07:04:58)
+(date: 2025-01-17 07:05:02)
+
+---
+
+## Hyundai Motor Group Was America's No. 2 EV Maker In 2024 Behind Tesla
+
+date: 2025-01-17, from: Inside EVs News
+
+The Korean automaker's big electric push worked in 2024. It aims to keep that momentum with NACS-equipped EVs made in America. 
+
+<br> 
+
+<https://insideevs.com/news/747704/hyundai-motor-tesla-2024-sales/>
+
+---
+
+## Imported Tesla Cybertruck is seized by police in the UK, deemed dangerous and not legal
+
+date: 2025-01-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Cybertruck-seized-UK.png?w=1600" /></div><p>Police have seized an imported Tesla Cybertruck in the UK as it is not road-legal in the country and deemed dangerous for pedestrians.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="398175" href="https://electrek.co/2025/01/17/imported-tesla-cybertruck-is-seized-by-police-in-the-uk-deemed-dangerous-and-not-legal/#more-398175" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/17/imported-tesla-cybertruck-is-seized-by-police-in-the-uk-deemed-dangerous-and-not-legal/>
+
+---
+
+## Wheel-E Podcast: New e-bike regulations, sodium batteries, more
+
+date: 2025-01-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes proposed e-bike restrictions in New York and Oregon, Super73 lowering the performance of its e-bikes, a review of the Tenways CGO600 Pro-C electric bike, new sodium-ion batteries coming from Yadea, Heybike unveiling its first mid-drive e-bike, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="398168" href="https://electrek.co/2025/01/17/wheel-e-podcast-new-e-bike-regulations-sodium-batteries-more/#more-398168" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/17/wheel-e-podcast-new-e-bike-regulations-sodium-batteries-more/>
+
+---
+
+## Charge Cars finds new owners to resume development of its ’67 bespoke electric muscle car
+
+date: 2025-01-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Electric-muscle-car-Charge-front.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>UK EV startup Charge Cars has announced a fresh breath of life into its bespoke electric muscle car business. The company has announced new ownership, which intends to continue and expedite the development of its flagship model, the ’67, based on a classic <a href="https://electrek.co/guides/ford/">Ford</a> Mustang.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="charge-cars,electric-muscle-cars,ford" data-layer-viewtype="unknown" data-post-id="398074" href="https://electrek.co/2025/01/17/charge-cars-new-owners-resume-development-67-electric-muscle-car/#more-398074" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/17/charge-cars-new-owners-resume-development-67-electric-muscle-car/>
+
+---
+
+## Mercedes Boss Wants The EU To Drop Emissions Fines
+
+date: 2025-01-17, from: Inside EVs News
+
+Ola Kallenius, who also leads the largest carmaker association in Europe, says the fines will hurt car companies. Experts disagree. 
+
+<br> 
+
+<https://insideevs.com/news/747665/mercedes-benz-ceo-wants-eu-to-drop-co2-fines/>
+
+---
+
+## Texans can now join a VPP and get 2 sonnen batteries at no upfront cost
+
+date: 2025-01-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/sonnenCorre-home-with-solar-roof-2-units-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A groundbreaking new Virtual Power Plant Power Purchase Agreement (VPA) provides Texans with solar panels and two 20 kWh sonnen batteries at no upfront cost.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,egeb,energy-brief,solar,solar-power,sonnen,texas" data-layer-viewtype="unknown" data-post-id="398148" href="https://electrek.co/2025/01/16/texans-can-now-join-a-vpp-and-get-2-sonnen-batteries-at-no-upfront-cost/#more-398148" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/16/texans-can-now-join-a-vpp-and-get-2-sonnen-batteries-at-no-upfront-cost/>
+
+---
+
+## As Biden heads out, $43.7M goes to 25 EV charging accelerator projects
+
+date: 2025-01-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Voltpost.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Joint Office of Energy and Transportation’s Communities Taking Charge Accelerator has awarded $43.7 million to 25 innovative EV charging projects across the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-chargers" data-layer-viewtype="unknown" data-post-id="398102" href="https://electrek.co/2025/01/16/biden-heads-out-43-7m-goes-to-25-ev-charging-accelerator-projects/#more-398102" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/16/biden-heads-out-43-7m-goes-to-25-ev-charging-accelerator-projects/>
+
+---
+
+## Polestar 7: Here's A Theory About What It Could Look Like
+
+date: 2025-01-16, from: Inside EVs News
+
+The Polestar 7 crossover effectively replaces the Polestar 2 soon. Here's what we think it could be. 
+
+<br> 
+
+<https://insideevs.com/news/747610/polestar-7-volvo-zeekr-geely/>
+
+---
+
+## Tesla says a new way to clean cameras are coming
+
+date: 2025-01-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Roadster-laser.webp?w=1500" /></div><p>Tesla announced on X that it is working on a new way to keep the cameras clean on the Cybertruck.</p>
+
+
+
+<p>Hopefully, it will make its way to other Tesla vehicles because it is a common problem with the performance of its advanced driver assist systems (ADAS).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="398126" href="https://electrek.co/2025/01/16/tesla-says-a-new-way-to-clean-cameras-are-coming/#more-398126" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/16/tesla-says-a-new-way-to-clean-cameras-are-coming/>
+
+---
+
+## Hyundai is offering a free ChargePoint EV charger for 2025 IONIQ 5 customers
+
+date: 2025-01-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Hyundai-US-made-IONIQ-5.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Buy or lease the new 2025<a href="https://electrek.co/guides/hyundai-ioniq-5/"> IONIQ 5</a>, and Hyundai will give you a free ChargePoint Level 2 EV charger. Or, you can choose a $400 charging credit. That’s a pretty sweet deal, with leases starting as low as $199 per month. Here’s how you can snag the offer.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="398112" href="https://electrek.co/2025/01/16/hyundai-offering-free-ev-charger-2025-ioniq-5/#more-398112" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/16/hyundai-offering-free-ev-charger-2025-ioniq-5/>
+
+---
+
+## Hyundai Is Giving 2025 Ioniq 5 Buyers Free Level 2 Chargers
+
+date: 2025-01-16, from: Inside EVs News
+
+The move is designed to make EV ownership easier, according to Hyundai executives. 
+
+<br> 
+
+<https://insideevs.com/news/747612/hyundai-free-home-charging-level-2/>
+
+---
+
+## Volkswagen Is Closing Factories. China's EV Makers Want Them
+
+date: 2025-01-16, from: Inside EVs News
+
+Chinese automakers looking to bypass tariffs and make a powerful statement could go after Germany's idled car factories. 
+
+<br> 
+
+<https://insideevs.com/news/747593/germany-china-buy-vw-factories/>
+
+---
+
+## Hyundai Ioniq 5 charges faster on a Tesla Supercharger than a Model 3 does
+
+date: 2025-01-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Hyundai-US-made-IONIQ-5-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With the release of Hyundai’s <a href="https://electrek.co/2024/11/08/2025-hyundai-ioniq-5-starts-44k-more-range-nacs-port/">2025 Ioniq 5 with native NACS port</a>, owners are heading to Tesla Superchargers to see how the experience is. And it turns out, the away team is beating the home team at charging speed… at least in some metrics.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai-ioniq-5,north-american-charging-standard-nacs,tesla-model-3,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="398101" href="https://electrek.co/2025/01/16/hyundai-ioniq-5-charges-faster-on-a-tesla-supercharger-than-a-model-3/#more-398101" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/16/hyundai-ioniq-5-charges-faster-on-a-tesla-supercharger-than-a-model-3/>
+
+---
+
+## Nissan secures EV powertrain supply for next-gen LEAF, electric SUVs at its UK plant
+
+date: 2025-01-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/11/Nissan-electric-crossovers-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Nissan will begin building updated LEAF models at its Sunderland, UK plant later this year. Ahead of its arrival, <a href="https://electrek.co/guides/nissan/">Nissan</a> scored a new supply deal with JATCO for EV powertrains that will be built at a nearby facility. The parts will be used for the new LEAF and other upcoming Nissan EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,nissan-leaf" data-layer-viewtype="unknown" data-post-id="398100" href="https://electrek.co/2025/01/16/nissan-secures-ev-powertrain-supply-for-new-leaf-electric-suvs/#more-398100" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/16/nissan-secures-ev-powertrain-supply-for-new-leaf-electric-suvs/>
+
+---
+
+## Save $699 on Rad Power e-bikes with free gear from $1,099, 24-hour EcoFlow 50% off flash sale, Heybike Ranger S bundle $1,099, more
+
+date: 2025-01-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Rad-Power-RadRunner-2-Utility-e-bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Today’s Green deals are bringing you three flash sales with some big savings – two on e-bikes, one on power stations. Leading the group is <a href="https://9to5toys.com/2025/01/16/rad-power-radrunner-2-extra-battery-more/">Rad Power’s flash sale</a> with two end dates (January 20 and January 29), price cuts, free accessory offers, and free extra battery opportunities across many models, like the <a href="https://9to5toys.com/2025/01/16/rad-power-radrunner-2-extra-battery-more/">RadRunner 2 Utility e-bike at $1,299</a> and coming with an extra battery for double the travel distance, among others. We then have a <a href="https://9to5toys.com/2025/01/16/ecoflow-24-hour-flash-sale-50-off-from-499/">24-hour flash sale from EcoFlow</a> that is taking up to 50% off three of the brand’s most popular power stations, starting with the <a href="https://9to5toys.com/2025/01/16/ecoflow-24-hour-flash-sale-50-off-from-499/">DELTA 2</a> Portable Power Station with a free waterproof bag at <a href="https://9to5toys.com/2025/01/16/ecoflow-24-hour-flash-sale-50-off-from-499/">$499</a>. At the rear is <a href="https://9to5toys.com/2025/01/16/heybike-ranger-s-1099-flash-sale/">Heybike’s Ranger S</a> Folding e-bike with $208 in free gear at <a href="https://9to5toys.com/2025/01/16/heybike-ranger-s-1099-flash-sale/">$1,099</a> through the weekend. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s $1,500 in savings on Jackery’s flagship <a href="https://9to5toys.com/2025/01/15/jackery-3000-pro-solar-generator-kit-2499/">solar generator bundle</a>, the deals on <a href="https://9to5toys.com/2025/01/14/aiper-surfer-s1-skimmer-300/">Aiper’s robotic pool cleaners</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="398076" href="https://electrek.co/2025/01/16/rad-power-flash-sale-ecoflow-heybike/#more-398076" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/16/rad-power-flash-sale-ecoflow-heybike/>
+
+---
+
+## BYD launches its first EV in Korea starting at just $21,500: can it rival Hyundai and Kia?
+
+date: 2025-01-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/BYD-first-EV-Korea.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD officially launched its popular Atto 3 in South Korea this week, its first EV to hit the market. The electric SUV starts at just over $21,500 in Korea, but with subsidies, prices could fall to under $14,000. Can it compete with low-cost EVs from Hyundai and Kia? With several top-selling electric cars en route, <a href="https://electrek.co/guides/byd/">BYD</a> looks to win over buyers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,hyundai" data-layer-viewtype="unknown" data-post-id="398067" href="https://electrek.co/2025/01/16/byd-launches-first-ev-korea-starting-just-21500/#more-398067" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/16/byd-launches-first-ev-korea-starting-just-21500/>
+
+---
+
+## Polestar 7: A Compact SUV From Europe, And Polestar 2 Successor
+
+date: 2025-01-16, from: Inside EVs News
+
+With the coupe-like Polestar 4 already in production, the manufacturer will likely take a different approach with the Polestar 7. 
+
+<br> 
+
+<https://insideevs.com/news/747566/polestar-7-electric-suv-confirmed/>
+
+---
+
+## Tesla boycott is gaining momentum in Germany due to Elon Musk’s meddling in politics
+
+date: 2025-01-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2020/11/tesla-hero-tsla-3.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A boycott of Tesla vehicles is gaining momentum in Germany due to Elon Musk’s consistent meddling in the country’s politics and promotion of a fringe far-right party.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="398072" href="https://electrek.co/2025/01/16/tesla-boycott-is-gaining-momentum-in-germany-due-to-elon-musks-meddling-in-politics/#more-398072" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/16/tesla-boycott-is-gaining-momentum-in-germany-due-to-elon-musks-meddling-in-politics/>
+
+---
+
+## Tesla Is Already Offering Discounts On The Cybertruck
+
+date: 2025-01-16, from: Inside EVs News
+
+The discounts are significant, but there is a catch. 
+
+<br> 
+
+<https://insideevs.com/news/747588/tesla-cybertruck-discount-january-2025/>
+
+---
+
+## Tesla throttles down Cybertruck production, shift workers to Model Y
+
+date: 2025-01-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/07/Tesla-Cybertruck-production-testing.jpg?quality=82&#038;strip=all&#038;w=1442" /></div><p>Tesla is throttling down Cybertruck production as it shifts workers to Model Y production because inventory of the electric pickup truck is piling up.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="398032" href="https://electrek.co/2025/01/16/tesla-throttles-down-cybertruck-production-shift-workers-to-model-y/#more-398032" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/16/tesla-throttles-down-cybertruck-production-shift-workers-to-model-y/>
+
+---
+
+## Meet the new Genesis Electrified GV70: A refined SUV with more range and style
+
+date: 2025-01-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Genesis-new-Electrified-GV70.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Genesis officially launched the updated <a href="https://electrek.co/guides/genesis-electrified-gv70/">Electrified GV70</a> in Korea, starting at just over $50,000. The new electric SUV now has a bigger battery for more driving range, added luxury, and even more style. Check out the new Genesis GV70 EV below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis,genesis-electrified-gv70" data-layer-viewtype="unknown" data-post-id="398039" href="https://electrek.co/2025/01/16/genesis-launches-new-electrified-gv70-korea-for-52000/#more-398039" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/16/genesis-launches-new-electrified-gv70-korea-for-52000/>
+
+---
+
+## For Sale, Maybe: A Six-Wheel Van That Launches A Flying Car
+
+date: 2025-01-16, from: Inside EVs News
+
+CES has a long history with flying cars. But the CEO of Xpeng AeroHT says the company is serious. Can they pull it off? 
+
+<br> 
+
+<https://insideevs.com/news/747188/xpeng-aeroht-ces-2025-china/>
+
+---
+
+## Rivian (RIVN) secures billions in US funding for its new EV plant in Georgia [Updated]
+
+date: 2025-01-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Rivian-R2-pre-orders.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ahead of Trump’s return to the White House, <a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) secured up to $6.6 billion in funding for its second EV manufacturing plant. The new facility will be home to Rivian’s more affordable midsize R2 electric SUV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="398027" href="https://electrek.co/2025/01/16/rivian-rivn-secures-billions-us-funding-for-new-ev-plant/#more-398027" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/16/rivian-rivn-secures-billions-us-funding-for-new-ev-plant/>
 
 ---
 
@@ -97,7 +441,7 @@ date: 2025-01-16, from: Electrek Feed
 
 date: 2025-01-16, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/livewire-s2-alpinista-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.livewire.com/">LiveWire</a>, the electric motorcycle brand spun out of Harley-Davidson, has just announced its latest electric motorcycle model. The new LiveWire S2 Alpanista is built on the same platform as the brand’s last two models, leveraging the Arrow platform as a versatile foundation for several diverse bikes.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/livewire-s2-alpinista-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.livewire.com/">LiveWire</a>, the electric motorcycle brand spun out of Harley-Davidson, has just announced its latest electric motorcycle model. The new LiveWire S2 Alpinista is built on the same platform as the brand’s last two models, leveraging the Arrow platform as a versatile foundation for several diverse bikes.</p>
 
 
 

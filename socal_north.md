@@ -1,35 +1,220 @@
 ---
 title: socal north
-updated: 2025-01-16 07:04:55
+updated: 2025-01-17 07:04:57
 ---
 
 # socal north
 
-(date: 2025-01-16 07:04:55)
+(date: 2025-01-17 07:04:57)
+
+---
+
+## Las trabajadoras domésticas también perdieron una comunidad en Pacific Palisades
+
+date: 2025-01-17, updated: 2025-01-17, from: The LAist
+
+Los trabajadores domésticos -niñeras, jardineros, asistentes para personas mayores- son una parte enorme de la economía de la región. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/palisades-fire-incendio-trabajadoras-domesticas-resursos-ayuda>
+
+---
+
+## Did LA fires dump ash on your home? Here’s your guide to safely cleaning it up
+
+date: 2025-01-17, updated: 2025-01-17, from: The LAist
+
+With more wind on the way, ash cleanup likely won’t be a one-time thing. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-wildfire-ash-cleaning-guide-eaton-palisades-pasadena-altadena>
+
+---
+
+## Before and after: A remembrance of the iconic restaurants that burned down
+
+date: 2025-01-17, updated: 2025-01-17, from: The LAist
+
+From Malibu to Altadena, landmarks in the fabric of communities have been destroyed 
+
+<br> 
+
+<https://laist.com/news/food/los-angeles-before-and-after-a-remembrance-of-iconic-restaurants>
+
+---
+
+## Yuca’s double cheeseburger forever
+
+date: 2025-01-17, updated: 2025-01-17, from: The LAist
+
+With the recent passing of Socorro Herrera, the founder of Yuca’s in Los Feliz, we shine a light on one of our favorite menu items. 
+
+<br> 
+
+<https://laist.com/news/food/yucas-double-cheeseburger-forever>
+
+---
+
+## DA announces special prosecutor to handle police misconduct cases
+
+date: 2025-01-17, updated: 2025-01-17, from: The LAist
+
+Michael Gennaco, a former federal prosecutor and one-time Sheriff’s Department watchdog, was appointed by D.A. Nathan Hochman 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/da-special-prosecutor-police-misconduct>
+
+---
+
+## Padilla Pushes for Disaster Aid Without Conditions for Los Angeles Wildfire Recovery
+
+date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="565" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?fit=1024%2C565&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?w=1196&amp;ssl=1 1196w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?resize=300%2C166&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?resize=1024%2C565&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?resize=768%2C424&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?resize=400%2C221&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?resize=706%2C390&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?fit=1024%2C565&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>WASHINGTON, D.C. — As devastating wildfires rage across California, U.S. Senator Alex Padilla (D-Calif.) delivered remarks on the Senate floor urging his Republican colleagues and President-elect Trump to provide essential [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/16/padilla-pushes-for-disaster-aid-without-conditions-for-los-angeles-wildfire-recovery/">Padilla Pushes for Disaster Aid Without Conditions for Los Angeles Wildfire Recovery</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/16/padilla-pushes-for-disaster-aid-without-conditions-for-los-angeles-wildfire-recovery/>
+
+---
+
+## Russia tried to use the LA wildfires to spread anti-Ukraine propaganda
+
+date: 2025-01-16, updated: 2025-01-16, from: The LAist
+
+Pro-Kremlin social media accounts and outlets have been spreading a baseless narrative that mansions belonging to Ukrainian officials burned down in Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/russia-tried-to-use-the-la-wildfires-to-spread-anti-ukraine-propaganda>
+
+---
+
+## Altadena has avoided California’s fire insurance hell. That won’t last.
+
+date: 2025-01-16, updated: 2025-01-16, from: The LAist
+
+Most residents of middle-class Altadena could get fire insurance, but that is likely to change as residents rebuild and face price hikes. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/altadena-has-avoided-californias-fire-insurance-hell-that-wont-last>
+
+---
+
+## Concerned about LA air quality? Here are 7 expert tips
+
+date: 2025-01-16, updated: 2025-01-17, from: The LAist
+
+Air quality experts and advocates warn of the potential dangers of smoke, ash and soot. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-air-quality-health-tips>
+
+---
+
+## What LA did right before the fires — and why it wasn't enough
+
+date: 2025-01-16, updated: 2025-01-16, from: The LAist
+
+Los Angeles has wildfire policies that are far tougher than many of those in Western states. The destruction from the recent fires shows there are still major gaps to address. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/what-la-did-right-before-the-fires-and-why-it-wasnt-enough>
+
+---
+
+## From satellites to AI, tech has a role to play in battling blazes
+
+date: 2025-01-16, updated: 2025-01-16, from: The LAist
+
+Kate Dargan Marquis of the Moore Foundation discusses spurring research and development to keep up with the growing impact of wildfires. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/satellites-ai-tech-battling-blazes>
+
+---
+
+## Overwhelmed by loss, hopeful these special communities can rebuild from the wildfires
+
+date: 2025-01-16, updated: 2025-01-16, from: The LAist
+
+Larry Mantle has covered many disasters in his 40th year as host of LAist 89.3's AirTalk program. He says the scope of the Palisades and Eaton fires is still hard to process. 
+
+<br> 
+
+<https://laist.com/news/essays/palisades-eaton-fires-disaster-next-steps>
+
+---
+
+## California’s top prosecutor says he’s building cases against price-gouging landlords
+
+date: 2025-01-16, updated: 2025-01-16, from: The LAist
+
+Attorney General Rob Bonta confirmed his office is building cases against those suspected of raising rents by more than 10% after the L.A. fires. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-fires-price-gouging-rent-increases-bonta>
+
+---
+
+## ‘Literally off the charts’: LA’s critically dry conditions stun scientists
+
+date: 2025-01-16, updated: 2025-01-16, from: The LAist
+
+A recent swing from wet to dry is among the most extreme on record, priming much of Southern California for wind-whipped fires. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/critically-dry-conditions-in-la-stun-scientists>
+
+---
+
+## Parenting for Prevention In-Person Meeting
+
+date: 2025-01-16, from: City of Santa Clarita
+
+<p>By Councilmember Jason Gibbs &#8220;We cannot always build the future for our youth, but we can build our youth for the future.&#8221; – Franklin D. Roosevelt As a father of two young children, I understand how crucial it is to be an active and informed parent in today’s world. The challenges our kids face are [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/16/parenting-for-prevention-in-person-meeting/">Parenting for Prevention In-Person Meeting</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/16/parenting-for-prevention-in-person-meeting/>
+
+---
+
+## LA County bans cleanup and removal of fire debris until after official inspections
+
+date: 2025-01-16, updated: 2025-01-16, from: The LAist
+
+The debris could contain harmful substances, which can have short- and long-term health consequences. 
+
+<br> 
+
+<https://laist.com/news/health/la-county-bans-cleanup-and-removal-of-fire-debris-until-after-official-inspections>
 
 ---
 
 ## Domestic workers lost a community in Pacific Palisades too
 
-date: 2025-01-16, updated: 2025-01-16, from: The LAist
+date: 2025-01-16, updated: 2025-01-17, from: The LAist
 
 Homes that needed cleaning, yards that needed tending, families who needed caregiving. In Pacific Palisades, so much is gone. What has also disappeared are domestic workers’ livelihoods. 
 
 <br> 
 
 <https://laist.com/news/palisades-fire-domestic-workers-resources-help>
-
----
-
-## Newsom's order aims to help Angelenos, but is rebuilding in the same areas a good idea?
-
-date: 2025-01-16, updated: 2025-01-16, from: The LAist
-
-California Gov. Gavin Newsom's executive order waives environmental laws for people whose homes burned down so they can rebuild as quickly as possible in exactly the same place. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/gavin-newsom-wildfire-executive-order>
 
 ---
 
@@ -45,11 +230,23 @@ Free days at LACMA to give your brain a break, putting the fun in fundraisers, n
 
 ---
 
+## Newsom's order aims to help Angelenos, but is rebuilding in the same areas a good idea?
+
+date: 2025-01-16, updated: 2025-01-16, from: The LAist
+
+California Gov. Gavin Newsom's executive order waives environmental laws for people whose homes burned down so they can rebuild as quickly as possible in exactly the same place. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/gavin-newsom-wildfire-executive-order>
+
+---
+
 ## Los Residentes Lloran la Pérdida de la ‘Hermosa Altadena’ y se Dirigen a la Reconstrucción
 
 date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Kenneth-Snowden_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Altadena no es una comunidad cualquiera, era un centro multicultural, lleno de artistas y creativos, joyas arquitectónicas, belleza natural y deliciosas comidas. Muchas familias han vivido en la “hermosa Altadena”, [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/01/15/los-residentes-lloran-la-perdida-de-la-hermosa-altadena-y-se-dirigen-a-la-reconstruccion/">Los Residentes Lloran la Pérdida de la ‘Hermosa Altadena’ y se Dirigen a la Reconstrucción</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -64,7 +261,7 @@ date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="461" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?fit=1024%2C461&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=300%2C135&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=1024%2C461&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=768%2C346&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=1536%2C692&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=2048%2C922&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=1200%2C540&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=1568%2C706&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=2000%2C901&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=400%2C180&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=706%2C318&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?fit=1024%2C461&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="461" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?fit=1024%2C461&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=300%2C135&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=1024%2C461&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=768%2C346&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=1536%2C692&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=2048%2C922&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=1200%2C540&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=1568%2C706&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=2000%2C901&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=400%2C180&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?resize=706%2C318&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Malibu-House-02.jpg?fit=1024%2C461&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Para Kristin Thames, enfermera registrada (RN) de atención domiciliaria, la reciente oleada de incendios forestales destructivos la enfrentó cara a cara con uno de sus temores de toda la vida: [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/01/15/una-enfermera-a-domicilio-describe-el-desafio-de-evacuar-a-un-paciente-durante-el-incendio-de-palisades/">Una Enfermera a Domicilio Describe el Desafío de Evacuar a un Paciente Durante el Incendio de Palisades</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -107,7 +304,7 @@ date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="960" height="739" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?fit=960%2C739&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?resize=300%2C231&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?resize=768%2C591&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?resize=400%2C308&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?resize=706%2C543&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?fit=960%2C739&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="960" height="739" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?fit=960%2C739&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?resize=300%2C231&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?resize=768%2C591&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?resize=400%2C308&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?resize=706%2C543&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_8795_elsol.jpg?fit=960%2C739&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Cuando el incendio de Hurst todavía ardía la semana pasada en las colinas de Sylmar, el aeropuerto Whiteman en Pacoima sirvió como base para que el Departamento de Silvicultura y [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/01/15/el-aeropuerto-de-whiteman-desempeno-un-papel-vital-en-la-lucha-contra-el-incendio-de-hurst-en-sylmar/">El Aeropuerto de Whiteman Desempeñó un Papel Vital en la Lucha Contra el Incendio de Hurst en Sylmar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -122,7 +319,7 @@ date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?w=1350&amp;ssl=1 1350w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?w=1350&amp;ssl=1 1350w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Newsom-Fire-01-11-2025_1456.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Los socorristas de México llegaron al Aeropuerto Internacional de Los Ángeles (LAX) el 11 de enero para apoyar los esfuerzos de extinción de incendios y respuesta a emergencias que han [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/01/15/mas-de-70-bomberos-de-mexico-colaboran-en-las-operaciones-de-extincion-de-incendios/">Más de 70 Bomberos de México Colaboran en las Operaciones de Extinción de Incendios</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -137,7 +334,7 @@ date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image0000_elsol.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Aquellos cuyos hogares han sido destruidos ahora tienen la tarea de encontrar un lugar para vivir en el ya abarrotado mercado inmobiliario de Los Ángeles y enfrentar el aumento de [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/01/15/los-angelinos-desplazados-y-los-alquileres-abusivos-en-los-angeles-aumentan-la-presion-sobre-el-tenso-mercado-de-la-vivienda/">Los Angelinos Desplazados y los Alquileres Abusivos en Los Ángeles Aumentan la Presión Sobre el Tenso Mercado de la Vivienda</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -152,7 +349,7 @@ date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?w=2373&amp;ssl=1 2373w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=2048%2C1535&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=2000%2C1499&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=706%2C529&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?w=2373&amp;ssl=1 2373w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=2048%2C1535&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=2000%2C1499&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?resize=706%2C529&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Food-Giveaway-06.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Esta semana, la concejal de la ciudad de Los Ángeles, Imelda Padilla, está proporcionando comidas calientes gratuitas, agua embotellada y mascarillas para los residentes del Valle de San Fernando en [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/01/15/la-concejal-padilla-proporciona-comidas-gratuitas-y-mascarillas-epp-en-el-sfv/">La Concejal Padilla Proporciona Comidas Gratuitas y Mascarillas EPP en el SFV</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -167,7 +364,7 @@ date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/2E2A5672-1-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Así como los incendios de Los Ángeles han desarraigado a miles de propietarios de viviendas, muchas personas sin hogar que vivían en vehículos recreativos o debajo de pasos subterráneos en [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/01/15/personas-sin-hogar-desplazadas-por-los-incendios-de-los-angeles-que-necesitan-refugio-y-apoyo/">Personas Sin Hogar Desplazadas por los Incendios de Los Ángeles que Necesitan Refugio y Apoyo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -451,7 +648,7 @@ For years, Tiptoe has been a beloved sight in Pacific Palisades, quietly trompin
 
 ## What parents should know about wildfire air quality, ash, and protecting kids
 
-date: 2025-01-14, updated: 2025-01-15, from: The LAist
+date: 2025-01-14, updated: 2025-01-17, from: The LAist
 
 Wildfire smoke causes particularly dangerous air quality, especially for sensitive groups including children and pregnant people. 
 
@@ -463,7 +660,7 @@ Wildfire smoke causes particularly dangerous air quality, especially for sensiti
 
 ## LA restaurants offering free meals for evacuees and first responders
 
-date: 2025-01-14, updated: 2025-01-14, from: The LAist
+date: 2025-01-14, updated: 2025-01-15, from: The LAist
 
 The restaurant community has stepped up after the fires. A (growing) list of places across the city are providing support. 
 
@@ -685,7 +882,7 @@ Here’s what local animal organizations are doing and how to get in contact wit
 
 ## As fires ravage the LA region, so too are conspiracy theories and misinformation
 
-date: 2025-01-13, updated: 2025-01-15, from: The LAist
+date: 2025-01-13, updated: 2025-01-17, from: The LAist
 
 Let us help you separate fact from fiction. 
 
@@ -697,7 +894,7 @@ Let us help you separate fact from fiction.
 
 ## How to check if your home was damaged or lost in the Eaton and Palisades fires
 
-date: 2025-01-13, updated: 2025-01-14, from: The LAist
+date: 2025-01-13, updated: 2025-01-17, from: The LAist
 
 L.A. County has released a searchable, preliminary map for each area. 
 

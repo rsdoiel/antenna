@@ -1,11 +1,50 @@
 ---
 title: writing
-updated: 2025-01-16 07:04:57
+updated: 2025-01-17 07:05:00
 ---
 
 # writing
 
-(date: 2025-01-16 07:04:57)
+(date: 2025-01-17 07:05:00)
+
+---
+
+## Weekly YouTube Video Is Here!
+
+date: 2025-01-16, from: Locus Magazine
+
+<p>We&#8217;ve got a fantastic collection of new releases this week that we&#8217;re super excited to share with you! Come by the YouTube channel to check out the top new SF, Fantasy, Horror, and YA books every week, and don&#8217;t forget to subscribe to show your support for what we do!</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2025/01/weekly-youtube-video-is-here/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/01/weekly-youtube-video-is-here/>
+
+---
+
+## The Way by Cary Groner: Review by Ian Mond
+
+date: 2025-01-16, from: Locus Magazine
+
+<p><strong>The Way</strong>, Cary Groner (Spiegel &#38; Grau 978-1-95411-842-3, $29.00, 304pp, hc) December 2024.</p>
+<p>In Cary Groner’s second novel, <strong>The Way</strong>, a heavily mutated and infectious avian flu wipes out 80 per­cent of humanity. The event, dubbed ‘‘Mayhem’’ by the survivors, leads to the expected break­down of civilisation – ‘‘starvation; migration; a brief, limited nuclear exchange; then finally the return of endemic diseases like TB, diphtheria, typhoid, cholera, malaria,  <a href="https://locusmag.com/2025/01/the-way-by-cary-groner-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/the-way-by-cary-groner-review-by-ian-mond/>
+
+---
+
+## 2025 Mystery Writers of America (MWA) Grand Masters
+
+date: 2025-01-16, from: Locus Magazine
+
+<p>Laura Lippman and John Sandford have been named the 2025 Mystery Writers of America (MWA) Grand Masters. Lippman said,</p>
+<p>It was a little humbling how many cliches rushed into my brain when I found out I was to be named a Grand Master by Mystery Writers of America. Things like ‘This is a dream come true!’ and ‘I can’t believe this is happening!’ were, alas, my initial responses. [&#8230;] I  <a href="https://locusmag.com/2025/01/2025-mystery-writers-of-america-mwa-grand-masters/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/2025-mystery-writers-of-america-mwa-grand-masters/>
 
 ---
 

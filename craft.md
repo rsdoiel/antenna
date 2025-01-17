@@ -1,19 +1,31 @@
 ---
 title: craft
-updated: 2025-01-16 07:04:59
+updated: 2025-01-17 07:05:03
 ---
 
 # craft
 
-(date: 2025-01-16 07:04:59)
+(date: 2025-01-17 07:05:03)
 
 ---
 
-## Choose an Author – TEST
+## Natural Dyes - Natural Colour — Maiwa's Natural Dyes
+
+date: 2025-01-16, updated: 2025-01-16, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2025/01/natural-dyes-natural-colour-maiwas.html>
+
+---
+
+## Protected: Choose an Author – TEST
 
 date: 2025-01-16, from: Guild of American Luthiers
 
-Choose an AuthorAbbaszadeh¸ HadiAlexander¸ DanAlfieri¸ DonAndersen¸ SteveAnderson¸ JayAntes¸ ScottAnthony¸ DesAram¸ KevinArial¸ JamesArnold¸ EdBashkin¸ MichaelBattershell¸ FrederickBeall¸ J.R.Benedetto¸ BobBidne¸ LeoBlilie¸ JamesBlokzyl¸ Anthony D.Bolla¸ DavidBonte¸ RalphBoulding¸ PhilBrandt¸ ChrisBraun¸ TobiasBrent¸ RachaelBrune¸ R.E.Bryant¸ RaymondBuckland¸ JamesBurns¸ BrianBurrell¸ LeoBurton¸ CyndyButler¸ PaulCaldersmith¸ GrahamCalkin¸ JohnCambio¸ ToddCarlson¸ FredCarol¸ BonnieCarruth¸ AlanCarter¸ WalterCasey¸ C.F.Cash¸ AaronCharles¸ RalphCohen¸ BenColeman¸ ErickColeman¸ HarryCole¸ ReaganColombini¸ John M.Condino¸ JamesCone¸ MichaelConnelly¸ MarcCoyle¸ Daniel P.Cumpiano¸ [&#8230;] 
+There is no excerpt because this is a protected post. 
 
 <br> 
 

@@ -1,11 +1,95 @@
 ---
 title: ham radio
-updated: 2025-01-16 07:04:56
+updated: 2025-01-17 07:04:58
 ---
 
 # ham radio
 
-(date: 2025-01-16 07:04:56)
+(date: 2025-01-17 07:04:58)
+
+---
+
+## 100-V MOSFETs cut on-resistance
+
+date: 2025-01-16, from: EDN Blog
+
+<img width="800" height="381" src="https://www.edn.com/wp-content/uploads/Renesas-EANS_EHPF.jpg?fit=800%2C381" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Renesas-EANS_EHPF.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Renesas-EANS_EHPF.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Renesas-EANS_EHPF.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Renesas 100-V N-channel MOSFETs leverage an improved wafer manufacturing process, reducing on-resistance by 30%.</p>
+<p>The post <a href="https://www.edn.com/100-v-mosfets-cut-on-resistance/" data-wpel-link="internal">100-V MOSFETs cut on-resistance</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/100-v-mosfets-cut-on-resistance/>
+
+---
+
+## Reference design highlights GaN for motor drives
+
+date: 2025-01-16, from: EDN Blog
+
+<img width="800" height="469" src="https://www.edn.com/wp-content/uploads/EPC-EPC91200.jpg?fit=800%2C469" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/EPC-EPC91200.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/EPC-EPC91200.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/EPC-EPC91200.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>EPC offers a GaN-based motor drive inverter reference design for industrial and battery-powered applications.</p>
+<p>The post <a href="https://www.edn.com/reference-design-highlights-gan-for-motor-drives/" data-wpel-link="internal">Reference design highlights GaN for motor drives</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/reference-design-highlights-gan-for-motor-drives/>
+
+---
+
+## GaN RF switch delivers 20 W
+
+date: 2025-01-16, from: EDN Blog
+
+<img width="800" height="476" src="https://www.edn.com/wp-content/uploads/Teldyne-TDSW84230EP.jpg?fit=800%2C476" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Teldyne-TDSW84230EP.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Teldyne-TDSW84230EP.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Teldyne-TDSW84230EP.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Built on a GaN HEMT process, Teledyne’s TDSW84230EP reflective SPDT switch covers 30 MHz to 5 GHz, handling 20 W of continuous power.</p>
+<p>The post <a href="https://www.edn.com/gan-rf-switch-delivers-20-w/" data-wpel-link="internal">GaN RF switch delivers 20 W</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/gan-rf-switch-delivers-20-w/>
+
+---
+
+## Murata introduces ultra-small chip inductor
+
+date: 2025-01-16, from: EDN Blog
+
+<img width="800" height="465" src="https://www.edn.com/wp-content/uploads/Murata-006003-inductor.jpg?fit=800%2C465" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Murata-006003-inductor.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Murata-006003-inductor.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Murata-006003-inductor.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>At this month’s CES 2025 show, Murata unveiled what is claimed to be the world’s smallest 006003-inch (0.16×0.08 mm) chip inductor.</p>
+<p>The post <a href="https://www.edn.com/murata-introduces-ultra-small-chip-inductor/" data-wpel-link="internal">Murata introduces ultra-small chip inductor</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/murata-introduces-ultra-small-chip-inductor/>
+
+---
+
+## EDA tool tackles 3D IC design challenges
+
+date: 2025-01-16, from: EDN Blog
+
+<img width="800" height="461" src="https://www.edn.com/wp-content/uploads/MZ-Tech-Genio-Evo.jpg?fit=800%2C461" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/MZ-Tech-Genio-Evo.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/MZ-Tech-Genio-Evo.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/MZ-Tech-Genio-Evo.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>GENIO EVO, an integrated chiplet/package EDA tool, addresses thermal and mechanical stress in the pre-layout stage of 3D IC design.</p>
+<p>The post <a href="https://www.edn.com/eda-tool-tackles-3d-ic-design-challenges/" data-wpel-link="internal">EDA tool tackles 3D IC design challenges</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/eda-tool-tackles-3d-ic-design-challenges/>
+
+---
+
+## Add one resistor to allow DAC control of switching regulator output
+
+date: 2025-01-16, from: EDN Blog
+
+<img width="814" height="668" src="https://www.edn.com/wp-content/uploads/StupidSimple_Figure2.png?fit=814%2C668" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/StupidSimple_Figure2.png?w=814 814w, https://www.edn.com/wp-content/uploads/StupidSimple_Figure2.png?w=300 300w, https://www.edn.com/wp-content/uploads/StupidSimple_Figure2.png?w=768 768w" sizes="auto, (max-width: 814px) 100vw, 814px" /><p>Modifying the oddly consistent two-resistor control network topology for output voltage programming to allow for DAC control.</p>
+<p>The post <a href="https://www.edn.com/add-one-resistor-to-allow-dac-control-of-switching-regulator-output/" data-wpel-link="internal">Add one resistor to allow DAC control of switching regulator output</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/add-one-resistor-to-allow-dac-control-of-switching-regulator-output/>
 
 ---
 
@@ -13,7 +97,7 @@ updated: 2025-01-16 07:04:56
 
 date: 2025-01-16, from: EDN Blog
 
-<img width="685" height="425" src="https://www.edn.com/wp-content/uploads/Hero-image-TDM.jpg?fit=685%2C425" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-TDM.jpg?w=685 685w, https://www.edn.com/wp-content/uploads/Hero-image-TDM.jpg?w=300 300w" sizes="(max-width: 685px) 100vw, 685px" /><p>Transition metal dichalcogenides (TMDs) possess numerous properties beneficial to semiconductor device manufacturing.</p>
+<img width="685" height="425" src="https://www.edn.com/wp-content/uploads/Hero-image-TDM.jpg?fit=685%2C425" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-TDM.jpg?w=685 685w, https://www.edn.com/wp-content/uploads/Hero-image-TDM.jpg?w=300 300w" sizes="auto, (max-width: 685px) 100vw, 685px" /><p>Transition metal dichalcogenides (TMDs) possess numerous properties beneficial to semiconductor device manufacturing.</p>
 <p>The post <a href="https://www.edn.com/how-tmds-can-transform-semiconductor-manufacturing/" data-wpel-link="internal">How TMDs can transform semiconductor manufacturing</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

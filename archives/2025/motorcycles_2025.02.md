@@ -1,11 +1,87 @@
 ---
 title: motorcycles
-updated: 2025-01-16 07:04:58
+updated: 2025-01-17 07:05:01
 ---
 
 # motorcycles
 
-(date: 2025-01-16 07:04:58)
+(date: 2025-01-17 07:05:01)
+
+---
+
+## This Crazy “Flying Motorcycle” Can Apparently Swim, Too
+
+date: 2025-01-17, from: Ride Apart, Electric Motorcycle News
+
+Wait, they’re actually serious about this thing?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/747341/rictor-skyrider-x1-flying-amphibious-motorcycle/>
+
+---
+
+## Ultra Fancy Ducati x Piquadro Luggage Is Coming Your Way
+
+date: 2025-01-17, from: Ride Apart, Electric Motorcycle News
+
+Sorry, no designer top cases or panniers. At least not yet. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/747480/ducati-piquadro-collection-announced/>
+
+---
+
+## Polaris Drops Six New ATVs, Ready for Spring, Summer, and Fall Outdoor Activities
+
+date: 2025-01-17, from: Ride Apart, Electric Motorcycle News
+
+Who's ready to get after it? 
+
+<br> 
+
+<https://www.rideapart.com/news/747602/polaris-atv-mud-scrambler-sportsman-touring-debut/>
+
+---
+
+## So You Want a Sportbike-Powered Trike for the Snow? Sure, Why Not?
+
+date: 2025-01-17, from: Ride Apart, Electric Motorcycle News
+
+Who's ready to shred some powder and then immediately die? 
+
+<br> 
+
+<https://www.rideapart.com/news/747598/sportbike-motorcycle-trike-conversion-snow-bike/>
+
+---
+
+## Yamaha’s New Logo Is Super Different (Spoiler Alert: It’s Not)
+
+date: 2025-01-17, from: Ride Apart, Electric Motorcycle News
+
+Team Blue’s gone with the times and ditched the glossy logo for a minimalist 2D one. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/747478/yamaha-introduces-new-logo-70th-anniversary/>
+
+---
+
+## Aprilia's Motorcycles Dominate the Africa Eco Race Once Again
+
+date: 2025-01-16, from: Ride Apart, Electric Motorcycle News
+
+Jacopo Cerutti, as well as his teammates Franco Montanari and Marco Menichini, was nothing short of a force to be reckoned with.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/747344/aprilia-dominates-africa-eco-race-2025/>
 
 ---
 

@@ -1,11 +1,258 @@
 ---
 title: journalism
-updated: 2025-01-16 07:04:57
+updated: 2025-01-17 07:05:00
 ---
 
 # journalism
 
-(date: 2025-01-16 07:04:57)
+(date: 2025-01-17 07:05:00)
+
+---
+
+## Daily Bruin Print Issue – Jan. 17, 2025
+
+date: 2025-01-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>The Daily Bruin publishes print issues every Monday, Wednesday and Friday. With most campus operations curtailed this week, please view the day’s print issue here.</em> 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/daily-bruin-print-issue-jan-17-2025/>
+
+---
+
+## Classifieds – January 17, 2025
+
+date: 2025-01-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/17/classifieds-january-17-2025/">Classifieds &#8211; January 17, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/17/classifieds-january-17-2025/>
+
+---
+
+## All roads lead to Rome
+
+date: 2025-01-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The art and culture of Rome have me feeling emotional and grateful. </p>
+<p>The post <a href="https://dailytrojan.com/2025/01/17/all-roads-lead-to-rome/">All roads lead to Rome</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/17/all-roads-lead-to-rome/>
+
+---
+
+## The Weekly Frame III: Reflections
+
+date: 2025-01-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/01/17/the-weekly-frame-iii-reflections/">The Weekly Frame III: Reflections</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/17/the-weekly-frame-iii-reflections/>
+
+---
+
+## University challenges RTPC unionization
+
+date: 2025-01-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>National Labor Relations Board hearings resumed after delaying, citing fires.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/17/university-challenges-rtpc-unionization/">University challenges RTPC unionization</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/17/university-challenges-rtpc-unionization/>
+
+---
+
+## Nolan Jack is bringing folk to LA
+
+date: 2025-01-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The second-year musician sports a unique sound and impressive lyrical abilities.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/17/nolan-jack-is-bringing-folk-to-la/">Nolan Jack is bringing folk to LA</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/17/nolan-jack-is-bringing-folk-to-la/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-17, from: The Daily Bruin (UCLA Student Newspaper))
+
+As wildfires continue to rage across Los Angeles County, more than 1,000 incarcerated firefighters stand on the front lines.
+These inmates are part of the Conservation Camp Program – a collaboration between the California Department of Corrections and Rehabilitation, the California Department of Forestry and Fire Protection and the LA County Fire Department. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/16/478402/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-17, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Los Angeles Public Library will not hold those impacted by the fires responsible for the loss of items as a result of evacuation or fire damage, according to a 6:27 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/16/478400/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-17, from: The Daily Bruin (UCLA Student Newspaper))
+
+The UCLA softball team partnered with the UC Merced Police Department, the UCLA Police Department and UC firefighters to support evacuees and first responders affected by the ongoing wildfires, according to a Thursday evening post by UCPD on the social media platform X. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/16/478390/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-17, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 10 p.m., the Palisades fire – which is the fire closest to UCLA – is now 27% contained, according to Cal Fire. The second-largest fire, which began in Altadena, is now 55% contained, per Cal Fire. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/16/478384/>
+
+---
+
+## $1 an hour: Experts question low wages for California incarcerated firefighters
+
+date: 2025-01-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 16 at 10:41 p.m.</em>
+As wildfires continue to rage across Los Angeles County, more than 1,000 incarcerated firefighters stand on the front lines. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/16/1-an-hour-experts-question-low-wages-for-california-incarcerated-firefighters/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-17, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 7 p.m. Thursday, air quality on the UCLA campus is rated as &#8220;good,&#8221; according to the UCLA air quality site.
+While there is no evacuation warning or order in place for the UCLA campus, an evacuation warning continues to border campus, while an evacuation order is in place for areas less than 1 1/2 miles from the UCLA campus, according to Cal Fire. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/16/478363/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-17, from: The Daily Bruin (UCLA Student Newspaper))
+
+A disaster recovery center opened Tuesday at the UCLA Research Park to assist victims of the Los Angeles County wildfires in recovering lost records, applying for disaster relief loans and receiving referrals for counseling services. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/16/478357/>
+
+---
+
+## Disaster Recovery Center opens at UCLA Research Park to aid LA County fire victims
+
+date: 2025-01-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 16 at 10:37 p.m.</em>
+A Disaster Recovery Center opened Tuesday at the UCLA Research Park to assist victims of the Los Angeles County wildfires. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/16/disaster-recovery-center-opens-at-ucla-research-park-to-aid-la-county-fire-victims/>
+
+---
+
+## USAC recap – Jan. 7
+
+date: 2025-01-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council allocated over $20,000 in funding during its first meeting of the quarter Jan. 7.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/16/usac-recap-jan-7-3/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-16, from: The Daily Bruin (UCLA Student Newspaper))
+
+Students impacted by wildfires across Los Angeles County can reach out to Counseling and Psychological Services, with crisis counseling available 24 hours a day, according to the UCLA Newsroom website. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/16/478328/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-16, from: The Daily Bruin (UCLA Student Newspaper))
+
+As fires continue to spread across Los Angeles, Gov. Gavin Newsom announced he extended protections against price gouging on rental housing Thursday.
+California law mandates that, during a state of emergency, hotels, motels and rental housing cannot raise their prices by more than 10%. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/16/478326/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-16, from: The Daily Bruin (UCLA Student Newspaper))
+
+Campus employees should work with their supervisors to work out scheduling over the long weekend, according to an email several campus administrators sent to UCLA employees. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/16/478324/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-16, from: The Daily Bruin (UCLA Student Newspaper))
+
+Some areas impacted by the Palisades fire – including one adjacent to the Interstate 405 freeway – are now being repopulated, according to a press release from Cal Fire. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/16/478322/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-16, from: The Daily Bruin (UCLA Student Newspaper))
+
+In a Thursday email, UCLA Housing Services announced that it would allow unused meal swipes to &#8220;roll over&#8221; for students on regular meal plans. Ordinarily, students on regular meal plans cannot swipe twice in one meal period. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/16/478320/>
+
+---
+
+## The Santa Clarita Fire Brigade brings hope and courage to local fire victims
+
+date: 2025-01-16, from: The Canyon News (COC Student Newspaper)
+
+<p>Sometimes, hope and courage can be found in the most unlikely places.&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/santa-clarita-fire-brigade/">The Santa Clarita Fire Brigade brings hope and courage to local fire victims</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/santa-clarita-fire-brigade/>
 
 ---
 
@@ -247,6 +494,20 @@ The Palisades fire has burned over 27,000 acres as of 11 a.m. Wednesday and is 1
 
 ---
 
+## Student Health discusses air quality, and advises Trojans
+
+date: 2025-01-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University created a Wildfire and Air Quality hotline to lead to resources.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/15/student-health-discusses-air-quality-and-advises-trojans/">Student Health discusses air quality, and advises Trojans</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/15/student-health-discusses-air-quality-and-advises-trojans/>
+
+---
+
 ## USG presents fire response, shuttle services
 
 date: 2025-01-15, from: The Daily Trojan (USC Student Newspaper)
@@ -326,20 +587,6 @@ date: 2025-01-15, from: The Daily Trojan (USC Student Newspaper)
 <br> 
 
 <https://dailytrojan.com/2025/01/15/interior-chinatown-author-charles-yu-discusses-tv-adaptation/>
-
----
-
-## Student Health discusses air quality, and advises Trojans
-
-date: 2025-01-15, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The University created a Wildfire and Air Quality hotline to lead to resources.</p>
-<p>The post <a href="https://dailytrojan.com/2025/01/15/student-health-discusses-air-quality-and-advises-trojans/">Student Health discusses air quality, and advises Trojans</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2025/01/15/student-health-discusses-air-quality-and-advises-trojans/>
 
 ---
 

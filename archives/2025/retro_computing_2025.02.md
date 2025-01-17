@@ -1,11 +1,71 @@
 ---
 title: retro computing
-updated: 2025-01-16 07:04:58
+updated: 2025-01-17 07:05:01
 ---
 
 # retro computing
 
-(date: 2025-01-16 07:04:58)
+(date: 2025-01-17 07:05:01)
+
+---
+
+## ROUGOL meeting – 20th January – T-Wimp
+
+date: 2025-01-17, from: RiscOS Story
+
+Following the developers&#8217; fireside chat on Saturday evening, the RISC OS User Group of London (ROUGOL) meeting just two days later will also be of interest to people interested in software development. The guest speaker will be Graeme Shrimpton, and he will be demonstrating a development aid that he&#8217;s been working on for some time. The software is called T-Wimp and its purpose is to make it easy to write fully multi-tasking applications using textual descriptions for the windows, menus, and icons, allowing developers to concentrate on the core of&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/rougol-meeting-20th-january-t-wimp/>
+
+---
+
+## Rougol kicks off 2025 on monday with T-Wimp Games
+
+date: 2025-01-17, from: Icon Bar, RISC OS News
+
+The January 2025 Rougol meeting on Monday 20th January sees a new speaker talking about some new software. The action which kicks off at 6.30pm in the Duke of Sussex and online at 7.30pm on Zoom (usual link or contact Rougol for one). 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2157.html>
+
+---
+
+## Developers’ fireside chat – 18th January
+
+date: 2025-01-16, from: RiscOS Story
+
+As it&#8217;s January 2025 &#8211; the first month of the new year &#8211; you may have recently made some new year resolutions. Was one of them to start developing software on (or for) RISC OS? If so, why not gather around the virtual fireplace for a chat on the subject? The next &#8216;friendly fireside chat&#8217; for RISC OS developers will take place on Saturday, 18th January, kicking off at around 7:30pm. Open to anyone at any level &#8211; beginner, or expert &#8211; the meeting will be held online using the&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/developers-fireside-chat-18th-january/>
+
+---
+
+## b.log 2025/01/16 - Bronze linguine, Maths doesn't work like that!
+
+date: 2025-01-16, from: Richard Murray's blog
+
+Bronze linguine, Maths doesn't work like that! 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250116>
+
+---
+
+## Gnome 48 Debuts New Audio Player
+
+date: 2025-01-16, from: Linux Magazine
+
+<p>To date, the audio player found within the Gnome desktop has been meh at best, but with the upcoming release that all changes.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Gnome-48-Debuts-New-Audio-Player>
 
 ---
 

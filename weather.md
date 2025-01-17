@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2025-01-16 07:04:56
+updated: 2025-01-17 07:04:59
 ---
 
 # weather
 
-(date: 2025-01-16 07:04:56)
+(date: 2025-01-17 07:04:59)
 
 ---
 
-## The Central North Pacific hurricane season runs from June 1st through November 30th.
+## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-01-16, from: Central Pacific Basin Tropical Cyclones
+date: 2025-01-17, from: Eastern Pacific Basin GIS Data
 
-The Central North Pacific hurricane season runs from June 1st through November 30th. 
+The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
 <br> 
 
@@ -21,11 +21,11 @@ The Central North Pacific hurricane season runs from June 1st through November 3
 
 ---
 
-## SPC - No watches are valid as of Thu Jan 16 14:08:02 UTC 2025
+## SPC - No watches are valid as of Fri Jan 17 14:45:02 UTC 2025
 
-date: 2025-01-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Thu Jan 16 14:08:02 UTC 2025. 
+No watches are valid as of Fri Jan 17 14:45:02 UTC 2025. 
 
 <br> 
 
@@ -33,11 +33,11 @@ No watches are valid as of Thu Jan 16 14:08:02 UTC 2025.
 
 ---
 
-## SPC - No MDs are in effect as of Thu Jan 16 14:08:02 UTC 2025
+## SPC - No MDs are in effect as of Fri Jan 17 14:45:02 UTC 2025
 
-date: 2025-01-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Thu Jan 16 14:08:02 UTC 2025. 
+No Mesoscale Discussions are in effect as of Fri Jan 17 14:45:02 UTC 2025. 
 
 <br> 
 
@@ -45,33 +45,46 @@ No Mesoscale Discussions are in effect as of Thu Jan 16 14:08:02 UTC 2025.
 
 ---
 
-## SPC Jan 16, 2025 1300 UTC Day 1 Convective Outlook
+## SPC Jan 17, 2025 1300 UTC Day 1 Convective Outlook
 
-date: 2025-01-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0656 AM CST Thu Jan 16 2025
+0623 AM CST Fri Jan 17 2025
 
-Valid 161300Z - 171200Z
+Valid 171300Z - 181200Z
 
-...NO THUNDERSTORM AREAS FORECAST...
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Thunderstorms are not expected today or tonight.
+Isolated thunderstorms are possible from eastern Oklahoma into the
+Lower Mississippi/Tennessee Valleys and central Gulf Coast region
+Friday afternoon into early Saturday morning.
 
-...Discussion...
-An eastward-progressive upper trough will influence the Eastern
-Seaboard and western Atlantic, with high pressure and continental
-trajectories pervasive east of the Rockies. An upper low off the
-coast of southern California and northern Baja will begin to shift
-toward the Southwest Deserts late today and tonight. Isolated weak
-convection may occur tonight across parts of central/southeast
-Arizona, but cool/dry thermodynamic profiles are not expected to be
-overly conducive for lightning.
+...Eastern OK into AR...
+Overnight water vapor imagery shows the subtropical jet extending
+across northern Mexico into TX.  A 90-100 knot mid-level jet max
+will track across this region today, with enhanced forcing for
+large-scale ascent overspreading parts of eastern OK and much of AR
+by late afternoon.  Forecast soundings in this region show stable
+surface conditions.  However, weak elevated CAPE (generally below
+250 J/kg) and strong low-level warm advection might support a few
+thunderstorms by early evening.  Given the weak instability and
+elevated nature of any convection that can form, severe storms are
+not expected.
 
-..Guyer/Dean.. 01/16/2025
+...MS/AL and central Gulf Coast...
+As the jet max tracks eastward during the evening/night, increasing
+low-level moisture will lead to broad destabilization (MUCAPE AOB
+500 J/kg) across parts of MS/AL and the central Gulf Coast. 
+Scattered showers and thunderstorms are expected to form - mainly
+after midnight.  Forecast soundings suggest that dewpoints in the
+50s will not be sufficient for surface-based convection, limiting
+any severe threat.
+
+..Hart/Wendt.. 01/17/2025
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
