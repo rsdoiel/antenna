@@ -1,11 +1,11 @@
 ---
 title: columns
-updated: 2025-01-18 07:04:28
+updated: 2025-01-18 10:23:26
 ---
 
 # columns
 
-(date: 2025-01-18 07:04:28)
+(date: 2025-01-18 10:23:26)
 
 ---
 
@@ -600,7 +600,7 @@ date: 2025-01-15, updated: 2025-01-16, from: Daring Fireball
 
 ## Apple Pulled a Fun In-Character Promo Stunt for ‘Severance’ Yesterday at Grand Central Terminal
 
-date: 2025-01-15, updated: 2025-01-16, from: Daring Fireball
+date: 2025-01-15, updated: 2025-01-18, from: Daring Fireball
 
  
 

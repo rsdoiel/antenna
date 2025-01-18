@@ -1,11 +1,23 @@
 ---
 title: pacific
-updated: 2025-01-18 07:04:27
+updated: 2025-01-18 10:23:25
 ---
 
 # pacific
 
-(date: 2025-01-18 07:04:27)
+(date: 2025-01-18 10:23:25)
+
+---
+
+## Take care of your vision to invest in your overall health
+
+date: 2025-01-17, updated: 2025-01-18, from: Marianas Variety
+
+(BPT) - A new year is a great opportunity to develop better habits and improve your health and wellness. Perhaps that involves revamping your workout routine or investing in a skincare regimen. As you start to think about the new year, make sure to include a comprehensive eye exam at the top of your list. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/take-care-of-your-vision-to-invest-in-your-overall-health/article_40d2aa70-4ea7-5266-89ad-9a5c723ce965.html>
 
 ---
 
@@ -368,6 +380,18 @@ The post <a href="https://www.hawaii.edu/news/2025/01/17/sma-illuminates-birth-o
 
 ---
 
+## Cómo ayudar a tus hijos a crear hábitos financieros saludables en 2025
+
+date: 2025-01-17, updated: 2025-01-17, from: Marianas Variety
+
+(BPT) - En la medida que te preparas para recibir el nuevo año, puedes ir pensando en formas de ayudar a tus hijos a triunfar en la vida durante su formación académica y personal, ya sea en la enseñanza primaria, secundaria o universitaria, y finalmente en la adultez. Si bien el tema del dinero puede ser difícil de tratar, especialmente si fue una tema tabú en tu juventud, inicia la conversación para que tus hijos se beneficien con tus experiencias. Encontrar juntos herramientas para que aprendan a administrar mejor sus propias finanzas mientras crecen y maduran, los ayudará en su preparación para el éxito financiero en los años venideros. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/espanol/c-mo-ayudar-a-tus-hijos-a-crear-h-bitos-financieros-saludables-en-2025/article_afdf6717-ae1f-5d89-8e90-ecd167d81d0e.html>
+
+---
+
 ## President Whipps Outlines Vision for Palau’s Progress in Second Term
 
 date: 2025-01-17, from: Island Times
@@ -592,6 +616,18 @@ date: 2025-01-17, from: Island Times
 
 ---
 
+## Why Financial Planning Is a Career for Giving Back
+
+date: 2025-01-17, updated: 2025-01-17, from: Marianas Variety
+
+(StatePoint) Financial planning may be a lucrative profession in a growing sector, but it’s also well-suited for those who love helping others. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/business_and_careers/why-financial-planning-is-a-career-for-giving-back/article_f595c988-443e-5561-a7e3-ca16c36e9009.html>
+
+---
+
 ## Trouble is brewing in paradise: Samoa prime minister's leadership hangs in the balance
 
 date: 2025-01-17, from: Pacific Island Times
@@ -601,6 +637,30 @@ With just over a year left in her tenure as Samoa’s prime minister, Fiame Naom
 <br> 
 
 <https://www.pacificislandtimes.com/post/trouble-is-brewing-in-paradise-samoa-prime-minister-s-leadership-hangs-in-the-balance>
+
+---
+
+## Planning a trip to Northern Arizona?  Check out this unique experience guide by Sedona Monthly.
+
+date: 2025-01-17, updated: 2025-01-17, from: Marianas Variety
+
+(NewsUSA) - 1. Immerse Yourself in the Extraordinary Culture of Sedona 
+
+<br> 
+
+<https://www.mvariety.com/online_features/community_cares/planning-a-trip-to-northern-arizona-check-out-this-unique-experience-guide-by-sedona-monthly/article_7b6eaaa0-a8fb-5a7e-9d58-c885df656bb1.html>
+
+---
+
+## How Standards Will Help the United States Retain Global Tech Power
+
+date: 2025-01-17, updated: 2025-01-17, from: Marianas Variety
+
+(NewsUSA) - The development of technical standards is an often overlooked, but is an essential element in global technology leadership. The United States must be proactive to develop these standards, in addition to technology research and innovation, to stay ahead of our top competitor, China, according to Ananmay Agarwal, an expert at the Special Competitive Studies Project (SCSP), a nonprofit and nonpartisan initiative with a goal of making recommendations to strengthen America's long-term competitiveness in AI. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/how-standards-will-help-the-united-states-retain-global-tech-power/article_90266561-0636-5e25-b76c-06240a5b3947.html>
 
 ---
 
@@ -748,7 +808,7 @@ The post <a href="https://www.hawaii.edu/news/2025/01/16/in-memoriam-jeffrey-fia
 
 ## Don’t Skip Your OB/GYN Visit: Regular Screenings Can Prevent Cervical Cancer
 
-date: 2025-01-16, updated: 2025-01-16, from: Marianas Variety
+date: 2025-01-16, updated: 2025-01-18, from: Marianas Variety
 
 (BPT) - Cervical Health Awareness Month in January serves as an important reminder that cervical cancer is one of the few cancers that can actually be prevented with regular screening. Thanks to the Pap test, and then the addition of HPV testing and HPV vaccination, the number of people getting cervical cancer has significantly decreased for more than 70 years. 
 
