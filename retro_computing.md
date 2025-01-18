@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-01-17 07:05:01
+updated: 2025-01-18 07:04:30
 ---
 
 # retro computing
 
-(date: 2025-01-17 07:05:01)
+(date: 2025-01-18 07:04:30)
+
+---
+
+## 7-Zip 24.09+3 for DOS
+
+date: 2025-01-17, from: FreeDOS News
+
+<div class="markdown_content"><p>7-Zip is a file archiver, and Darik Horn's Retro7zip is a native backport of 7-Zip for DOS. Darik has released 7-Zip version 24.09+3 for DOS, with these changes: + 7zdec is now bundled and just 45 KB on disk + crash in the RAR codec is resolved + WAV files now get delta filtering by 7zm + more kinds of DOS are recognized for LFN. You can download the new 7-Zip at the <a class="" href="https://github.com/dajhorn/retro7zip/releases/" rel="nofollow">retro7zip GitHub</a>.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/01/7-zip-24093-for-dos/>
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2025-01-17, from: Digital Antiquarian
+
+The Voyage of Magellan, Interlude: The Mutineers&#8217; Return 
+
+<br> 
+
+<https://www.filfre.net/2025/01/this-week-on-the-analog-antiquarian/>
 
 ---
 
@@ -186,4 +210,16 @@ XSS vuln and bug bounties, Missing FreeSat listings.
 <br> 
 
 <https://heyrick.eu/blog/index.php?diary=20250112>
+
+---
+
+## b.log 2025/01/11 - My 'parcel', About import fees into the EU, FINALLY! A Brexit benefit!, Mower fix.
+
+date: 2025-01-11, from: Richard Murray's blog
+
+My 'parcel', About import fees into the EU, FINALLY! A Brexit benefit!, Mower fix. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250111>
 

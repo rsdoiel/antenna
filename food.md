@@ -1,11 +1,459 @@
 ---
 title: food
-updated: 2025-01-17 07:05:02
+updated: 2025-01-18 07:04:31
 ---
 
 # food
 
-(date: 2025-01-17 07:05:02)
+(date: 2025-01-18 07:04:31)
+
+---
+
+## I Ordered Taco Bell’s Steak Garlic Nacho Fries, and I Have Thoughts
+
+date: 2025-01-17, from: Taste of Home
+
+<p>I plan to order Taco Bell's new garlic sauce by the gallon.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/steak-garlic-nacho-fries-review/">I Ordered Taco Bell&#8217;s Steak Garlic Nacho Fries, and I Have Thoughts</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/steak-garlic-nacho-fries-review/>
+
+---
+
+## Sumo Citrus Just Appeared In Your Grocery Store—Here’s Why
+
+date: 2025-01-17, from: Taste of Home
+
+<p>People obsess over sumo citrus, a new-ish fruit at the supermarket.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-is-sumo-citrus/">Sumo Citrus Just Appeared In Your Grocery Store—Here&#8217;s Why</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-is-sumo-citrus/>
+
+---
+
+## The Best Countertop Ice Maker (2025) for Fancy Cocktails and Chilled Drinks
+
+date: 2025-01-17, from: Bon Appetet
+
+Whether you’re craving Sonic-style ice or you just need lots of extra ice quickly. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-countertop-ice-maker>
+
+---
+
+## 20-Minute Peanut Chicken Pad Thai
+
+date: 2025-01-17, from: Taste of Home
+
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/20-minute-peanut-chicken-pad-thai/>
+
+---
+
+## Tex-Mex Chicken Noodle Casserole
+
+date: 2025-01-17, from: Taste of Home
+
+I threw this creamy Tex-Mex chicken noodle casserole together with items I had in the pantry when I forgot I had company coming for dinner. They loved it! You can also use leftover pork or turkey in place of the chicken. —Marina Castle Kelley, Santa Clarita, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tex-mex-chicken-noodle-casserole/>
+
+---
+
+## Grilled Pork Chops with Spicy Fennel Relish
+
+date: 2025-01-17, from: Taste of Home
+
+Pork chops are great for grilling! If you have time, marinate them for several hours or overnight before grilling for even more flavor. You could also add lemon juice and zest to the marinade to add a bright citrus note to the pork. &amp;mdash;Gilda Lester, Millsboro, Delaware 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/grilled-pork-chops-with-spicy-fennel-relish/>
+
+---
+
+## Creamy Tomato Soup
+
+date: 2025-01-17, from: Taste of Home
+
+One spoonful of this classic will take you back to your childhood, sipping warm tomato soup on a cold day. Pair it with a grilled sandwich for a hearty lunch. We suggest grilled cheese! —Taste of Home Test Kitchen 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/creamy-tomato-soup/>
+
+---
+
+## Harvest Pork Roast
+
+date: 2025-01-17, from: Taste of Home
+
+I came up with this one evening when I had butternut squash, fresh picked apples and dried cranberries. I combined the ingredients into one succulent pork dish and everyone raved over it. This is also good with some added cinnamon or a garlic pepper rub. —Shirley Tuttle-Malone, Glenfield, New York 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/harvest-pork-roast/>
+
+---
+
+## Lip-Smacking Peach & Whiskey Wings
+
+date: 2025-01-17, from: Taste of Home
+
+These sweet, spicy, sticky chicken wings are lip-smacking good! You could use fresh peaches in place of canned. However, I would add a few tablespoons of brown sugar if so. —Sue Falk, Sterling Heights, Michigan 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lip-smacking-peach-whiskey-wings/>
+
+---
+
+## San Francisco Cioppino
+
+date: 2025-01-17, from: Taste of Home
+
+Traditionally, cioppino is made with whatever seafood was caught that day or whatever seafood is on hand. It began as a soup for the working class, but with how delicious it tastes, it's no wonder this dish made its way into high-end restaurants and hotels. Feel free to use whatever fish, shellfish and seafood you can find. —Barbara Pletzke, Herndon, Virginia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/san-francisco-cioppino/>
+
+---
+
+## Light & Creamy Chocolate Pudding
+
+date: 2025-01-17, from: Taste of Home
+
+This pudding is exactly what its name promises&mdash;light and creamy. Because it uses soy milk, it’s a smart choice if you’re lactose intolerant. &mdash;Deborah Williams, Peoria, Arizona 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/light-creamy-chocolate-pudding/>
+
+---
+
+## Southern Peach Cobbler
+
+date: 2025-01-17, from: Taste of Home
+
+When fresh peaches are in season, southern peach cobbler is the first thing I think about. This is perfect for any cookout or gathering. —Betty Clark, Mount Vernon, Missouri 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/southern-peach-cobbler/>
+
+---
+
+## Pina Colada Cookies
+
+date: 2025-01-17, from: Taste of Home
+
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/pina-colada-cookies/>
+
+---
+
+## Bourbon and Cornflakes Ice Cream
+
+date: 2025-01-17, from: Taste of Home
+
+Humphry Slocombe's Secret Breakfast is a rich vanilla ice cream infused with bourbon. Crunchy golden brown cornflake cookies are swirled within. I came up with this recipe for friends who can't find Humphry Slocombe ice cream. —Andrea Potischman, Menlo Park, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/bourbon-and-cornflakes-ice-cream/>
+
+---
+
+## Appalachian Stack Cake with Apple-Bourbon Sauce
+
+date: 2025-01-17, from: Taste of Home
+
+My version of a completely traditional Appalachian stack cake was inspired by the way my ancestors would have made it many moons ago. All the ingredients are there: dried apples, a stiff dough, molasses and apple butter. My only flair is adding a bourbon sauce to drip over the edges and right into your heart. —Lauren May, <a href="https://www.mustloveherbs.com/" target=" _blank" =""="">Must Love Herbs</a> 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/appalachian-stack-cake-with-apple-bourbon-sauce/>
+
+---
+
+## Healthy Spinach Artichoke Dip
+
+date: 2025-01-17, from: Taste of Home
+
+I love this recipe because you get all the deliciousness of spinach artichoke dip without the heaviness of too much cheese and cream! It's great with cut-up whole wheat pitas for dipping. —Kristyne Mcdougle, Lorain, OH 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/healthy-spinach-artichoke-dip/>
+
+---
+
+## Tuna Cheese-Waffle Sandwiches
+
+date: 2025-01-17, from: Taste of Home
+
+I love cheddar waffles (or chaffles) as well as tuna salad sandwiches. Combining the two makes for an incredible lunchtime stack. The dill pickles in both the waffles and salad add extra crunch and flavor. —Arlene Erlbach, Morton Grove, Illinois 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tuna-cheese-waffle-sandwiches/>
+
+---
+
+## Creamy Strawberry Icebox Cake
+
+date: 2025-01-17, from: Taste of Home
+
+My family loves this icebox cake for two reasons: First, it is a delicious way to use strawberries at their peak in summertime, and second, it requires no baking, which keeps the kitchen cool! This dessert feels extravagant but is so easy to make. —Nancy Mock, Colchester, Vermont 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/creamy-strawberry-icebox-cake/>
+
+---
+
+## Chipotle Chicken
+
+date: 2025-01-17, from: Taste of Home
+
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chipotle-chicken/>
+
+---
+
+## Italian Pan-Fried Chicken
+
+date: 2025-01-17, from: Taste of Home
+
+I love this recipe for many reasons, but mostly because it is both simple and delicious. It was passed down from my Italian grandmother, and I modified it only slightly. I have used it and enjoyed it for years. —Karen Mahlke, Estero, Florida 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/italian-pan-fried-chicken/>
+
+---
+
+## Air-Fryer Zucchini Fries
+
+date: 2025-01-17, from: Taste of Home
+
+Instead of french fries with my burgers and sandwiches, I love to serve these air-fryer zucchini fries. They're crispy, delicious and a wonderful way to use up the zucchini from my garden. —Matthew Hass, Ellison Bay, Wisconsin 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/air-fryer-zucchini-fries/>
+
+---
+
+## Copycat Fried Chicken Sandwich
+
+date: 2025-01-17, from: Taste of Home
+
+After trying all the major fast food chains' chicken sandwiches, I decided to come up with my own version. I know everyone says theirs is better than the original, but mine really is. —Ralph Jones, San Diego, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/copycat-fried-chicken-sandwich/>
+
+---
+
+## Air-Fryer Raspberry Crumble Coffee Cake
+
+date: 2025-01-17, from: Taste of Home
+
+With a ribbon of fresh homemade fruit filling, this homey coffee cake is perfect for breakfast with friends and family. But it is also equally delicious warm out of the air fryer for a weeknight dessert. —Shirley Boyken, Mesa, Arizona 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/air-fryer-raspberry-crumble-coffee-cake/>
+
+---
+
+## Air-Fryer Cowboy Casserole
+
+date: 2025-01-17, from: Taste of Home
+
+When it starts to get cold, I love to make this quick and creamy Tater Tot bake. It's a delightful homey dinner that's easy to put together. I make it ahead of time and keep it in the refrigerator. Then I just pop it into the air fryer when I get home. —Donna Donhauser, Remsen, New York 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/air-fryer-cowboy-casserole/>
+
+---
+
+## Air-Fried Butternut Squash Tacos
+
+date: 2025-01-17, from: Taste of Home
+
+Butternut squash tossed with southwestern spices makes a wonderful base for vegetarian tacos. I'm always looking for easy and healthy dinners for my family, and this dish is delicious! —Elisabeth Larsen, Pleasant Grove, Utah 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/air-fried-butternut-squash-tacos/>
+
+---
+
+## Cuts-Like-Butter BBQ Brisket
+
+date: 2025-01-17, from: Taste of Home
+
+With just a few ingredients and steps, this recipe is nearly impossible to mess up. The thin, fall-apart-tender slices are delicious on their own but also make other dishes, such as tacos and Frito pies, taste better. —Darla Andrews, Boerne, Texas 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cuts-like-butter-bbq-brisket/>
+
+---
+
+## Butterscotch No-Bake Cookies
+
+date: 2025-01-17, from: Taste of Home
+
+More like a candy than a cookie, these little butterscotch no-bake cookies are delightful. —Andrea Price, Grafton, Wisconsin 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/butterscotch-no-bake-cookies/>
+
+---
+
+## Butter Pecan Cookie Bars with Penuche Drizzle
+
+date: 2025-01-17, from: Taste of Home
+
+I have made these bars for many, many years. They are rich, chewy, nutty and buttery—all the good stuff. I like to use dark brown sugar for the extra flavor. A sprinkle of some pecans on the top makes for a nice nutty, toasted flavor. They freeze well, that is, if they last long enough! A little drizzle of old-fashioned penuche icing takes them over the top. You could eat these without the penuche, but why would you want to? —Kallee Krong-McCreery, Escondido, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/butter-pecan-cookie-bars-with-penuche-drizzle/>
+
+---
+
+## Puff Pastry Apple Strudel
+
+date: 2025-01-17, from: Taste of Home
+
+This puff pastry apple strudel is such a fun recipe. It can be served alone or with a side salad. Different types of cheese, like goat, feta or jack, can be used in this dish. —Donna-Marie Ryan, Topsfield, Massachusetts 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/puff-pastry-apple-strudel/>
+
+---
+
+## Creamy Pizza Soup
+
+date: 2025-01-17, from: Taste of Home
+
+This Creamy Pizza Soup is like eating supreme pizza with a spoon! You can add your own favorite pizza toppings as long as you include the ooey-gooey melty cheese on top. If you can't find the tomato and sweet basil bisque soup, try using canned tomato bisque soup and adding Italian seasoning. —Susan Bickta, Kutztown, Pennsylvania 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/creamy-pizza-soup/>
+
+---
+
+## Dark Chocolate Peppermint Bark
+
+date: 2025-01-17, from: Taste of Home
+
+Classic dark chocolate peppermint bark gets a new look by swirling dark and white chocolate together. You can also layer them if you wish. Be sure to use real peppermint oil (not extract) so your chocolate won't seize into a big clump. —<a href="https://www.tasteofhome.com/author/jschend/">James Schend</a>, <a href="https://www.dairyfreed.com/" target="_blank">Dairy Freed</a> 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/dark-chocolate-peppermint-bark/>
+
+---
+
+## Announcing The Second Annual Sprudge Design Award Winners
+
+date: 2025-01-17, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Congratulations to all the winners! 
+
+<br> 
+
+<https://sprudge.com/announcing-the-second-annual-sprudge-design-award-winners-269427.html>
+
+---
+
+## David Lynch Loved Coffee, And Coffee Loved David Lynch
+
+date: 2025-01-17, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. David Lynch passed away on January 16th at the age of 78. 
+
+<br> 
+
+<https://sprudge.com/and-coffee-loved-david-lynch-back-269848.html>
+
+---
+
+## How a Restaurant Family Celebrates Chinese New Year
+
+date: 2025-01-17, from: Bon Appetet
+
+The tight-knit crew behind LA’s beloved restaurant Chifa pulls inspiration from their Chino Latino roots for a festive feast. 
+
+<br> 
+
+<https://www.bonappetit.com/story/chifa-lunar-new-year>
+
+---
+
+## Loved Salt Fat Acid Heat? Try These Cookbooks Next
+
+date: 2025-01-17, from: Bon Appetet
+
+Samin Nosrat’s 2017 cookbook is a certified classic for new cooks—these are great too. 
+
+<br> 
+
+<https://www.bonappetit.com/story/7-cookbooks-to-read-if-you-love-salt-fat-acid-heat>
+
+---
+
+## Farmer Brothers Coffee Makes Two Key VP Appointments
+
+date: 2025-01-17, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Farmer-Brothers-Coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Farmer Brothers Coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Farmer-Brothers-Coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Farmer-Brothers-Coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Farmer-Brothers-Coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Farmer-Brothers-Coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Farmer-Brothers-Coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Texas-based wholesale coffee company Farmer Brothers Coffee is tweaking its executive leadership with two key vice president appointments. Brian Miller, who most recently served as the vice president of customized... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/17/farmer-brothers-coffee-makes-two-key-vp-appointments/>
+
+---
+
+## From Taiwan, the Latest Syncfo Pro Analyzes Coffee in Many Forms
+
+date: 2025-01-17, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Outside-Shot-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Outside Shot" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Outside-Shot-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Outside-Shot-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Outside-Shot-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Outside-Shot-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Outside-Shot.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Taiwanese brand Syncfo recently unveiled a new Pro model of its green and roasted coffee analyzer, adding dry coffee cherry and parchment coffee to the analysis mix.&#160; The Syncfo Universal... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/17/from-taiwan-the-latest-synfo-pro-analyzes-coffee-in-many-forms/>
 
 ---
 
@@ -67,7 +515,7 @@ date: 2025-01-16, from: Taste of Home
 
 date: 2025-01-16, from: Daily Coffee News
 
-<div><img width="620" height="396" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1-620x396.jpg" class="attachment-large size-large wp-post-image" alt="Screenshot" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1-620x396.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1-300x192.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1-768x491.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Japanese Company Introduces Pre-Grind Blender with AI At the... 
+<div><img width="620" height="396" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1-620x396.jpg" class="attachment-large size-large wp-post-image" alt="Screenshot" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1-620x396.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1-300x192.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1-768x491.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mihatama-AI-coffee-doser-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Japanese Company Introduces Pre-Grind Blender with AI At the... 
 
 <br> 
 
@@ -156,7 +604,7 @@ date: 2025-01-16, from: Taste of Home
 
 date: 2025-01-16, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Avercasso CS Lite coffee sorter 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Avercasso, the Taiwanese maker of the AI-driven green coffee analysis and sorting machine called the CS One, just launched a smaller version called the CS Lite. Designed for home roasters... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Avercasso CS Lite coffee sorter 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Avercasso-CS-Lite-coffee-sorter-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Avercasso, the Taiwanese maker of the AI-driven green coffee analysis and sorting machine called the CS One, just launched a smaller version called the CS Lite. Designed for home roasters... 
 
 <br> 
 
@@ -168,7 +616,7 @@ date: 2025-01-16, from: Daily Coffee News
 
 date: 2025-01-16, from: Daily Coffee News
 
-<div><img width="620" height="419" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-620x419.jpg" class="attachment-large size-large wp-post-image" alt="pourover coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-620x419.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-768x518.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>After 113 years operating largely under the public radar, the United States National Coffee Association just launched its first consumer-focused website, aboutcoffee.org. The website reflects the coffee industry&#8217;s never-ending quest... 
+<div><img width="620" height="419" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-620x419.jpg" class="attachment-large size-large wp-post-image" alt="pourover coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-620x419.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1-768x518.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/pourover-coffee-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>After 113 years operating largely under the public radar, the United States National Coffee Association just launched its first consumer-focused website, aboutcoffee.org. The website reflects the coffee industry&#8217;s never-ending quest... 
 
 <br> 
 

@@ -1,11 +1,275 @@
 ---
 title: science and technology
-updated: 2025-01-17 07:04:59
+updated: 2025-01-18 07:04:28
 ---
 
 # science and technology
 
-(date: 2025-01-17 07:04:59)
+(date: 2025-01-18 07:04:28)
+
+---
+
+## Google announces it’s going to intentionally violate EU law
+
+date: 2025-01-17, from: OS News
+
+Google has told the EU it will not add fact checks to search results and YouTube videos or use them in ranking or removing content, despite the requirements of a new EU law, according to a copy of a letter obtained by Axios.  In a letter written to Renate Nikolay, the deputy director general under the content and technology arm at the European Commission, Google&#8217;s global affairs president Kent Walker said the fact-checking integration required by the Commission&#8217;s new Disinformation Code of Practice &#8220;simply isn&#8217;t appropriate or effective for our services&#8221; and said Google won&#8217;t commit to it. ↫ Sara Fischer at Axios Imagine if any one of us, ordinary folk told the authorities we were just not going to follow the law. We&#8217;re not going to pay our taxes because tax law &#8220;simply isn&#8217;t appropriate or effective for our services&#8221;. We&#8217;re not going to follow traffic laws and regulations because doing so &#8220;simply isn&#8217;t appropriate or effective for our services&#8221;. We&#8217;re not going to respect property laws because doing so &#8220;simply isn&#8217;t appropriate or effective for our services&#8221;. We&#8217;d be in trouble within a heartbeat. We&#8217;d be buried in fines, court cases, and eventually, crippling debt, bankruptcy, and most likely end up in prison. The arrogance with which these American tech giants willfully declare themselves to be above EU laws and regulations is appalling, and really should have far more consequences than it does right now. Executives should be charged and arrested, products and services banned and taken off the shelves, and eventually, the companies themselves should be banned from operating within the EU altogether. Especially with the incoming regime in the US, which will most likely grant the tech giants even more freedom to do as they please, the EU needs to start standing up against this sort of gross disrespect. The consequences for a corporation knowingly breaking the law should be just as grave as for an individual citizen knowingly breaking the law. 
+
+<br> 
+
+<https://www.osnews.com/story/141558/google-announces-its-going-to-intentionally-violate-eu-law/>
+
+---
+
+## Capital One two-day outage leaves customers in free-fall
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>Third-party supplier blamed as folks left unable to access funds</h4> <p>Capital One is still battling to fix whatever brought down its systems on Wednesday, which has left people unable to access their money.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/capital_one_outage/>
+
+---
+
+## Homo Erectus Thrived in a Desert, Study Finds, Suggesting the Early Humans Could Adapt to Extreme Environments
+
+date: 2025-01-17, from: Smithsonian Magazine
+
+New research suggests modern humans aren't the only hominin species capable of "ecological flexibility" 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/homo-erectus-thrived-in-a-desert-study-finds-suggesting-the-early-humans-could-adapt-to-extreme-environments-180985864/>
+
+---
+
+## FCC to telcos: By law you must secure your networks from foreign spies. Get on it
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>Plus: Uncle Sam is cross with this one Chinese biz over Salt Typhoon mega-snooping</h4> <p>Decades-old legislation requiring American telcos to lock down their systems to prevent foreign snoops from intercepting communications isn&#39;t mere decoration on the pages of law books – it actually means carriers need to secure their networks, the FCC has huffed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/fcc_telcos_calea/>
+
+---
+
+## Archaeologists in Pompeii Discover Private Spa Where Dozens of Guests Bathed in Luxury 2,000 Years Ago
+
+date: 2025-01-17, from: Smithsonian Magazine
+
+The well-preserved thermal bath complex was unearthed at a lavish home likely owned by a member of the ancient city's elite 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-in-pompeii-discover-private-spa-where-dozens-of-guests-bathed-in-luxury-2000-years-ago-180985863/>
+
+---
+
+## Hydrogen Sulfide (H2S) Independent Assessment
+
+date: 2025-01-17, from: NASA breaking news
+
+NASA’s Office of the Chief Health and Medical Officer (OCHMO) assembled a small working group to review hydrogen sulfide (H2S) Spacecraft Maximum Allowable Concentration (SMAC) values. The group met virtually three times during February and March 2023, and panel members submitted individual opinion statements in April 2023. Toxicology subject matter experts were chosen to result in a balanced panel with respect to expertise in SMAC determinations and specific H2S considerations, from both clinical and epidemiological perspectives. Panel members were Dr. Terry Gordon, Dr. Tee Guidotti, and Dr. Joyce Tsuji; OCHMO team members who facilitated the discussions were Dr. Doug Ebert, Dave Francisco, Sarah Childress, Kristin Coffey, and Kim Lowe. 
+
+<br> 
+
+<https://www.nasa.gov/humans-in-space/hydrogen-sulfide-h2s-independent-assessment/>
+
+---
+
+## NASA Scientists, Engineers Receive Presidential Early Career Awards
+
+date: 2025-01-17, from: NASA breaking news
+
+President Biden has named 19 researchers who contribute to NASA’s mission as recipients of the Presidential Early Career Award for Scientists and Engineers (PECASE). These recipients are among nearly 400 federally funded researchers receiving the honor.&#160;&#160; Established in 1996 by the National Science and Technology Council, the PECASE Award is the highest honor given by [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/nasa-scientists-engineers-receive-presidential-early-career-awards/>
+
+---
+
+## SpaceX's Starship Explodes in Its Seventh Test Flight, With Falling Debris Putting on a Fiery Show
+
+date: 2025-01-17, from: Smithsonian Magazine
+
+The Super Heavy booster, meanwhile, was successfully caught in the launch tower's mechanical arms for only the second time 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/spacexs-starship-explodes-in-its-seventh-test-flight-with-falling-debris-putting-on-a-fiery-show-180985862/>
+
+---
+
+## Biden signs sweeping cybersecurity order, just in time for Trump to gut it
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>Ransomware, AI, secure software, digital IDs – there&#39;s something for everyone in the presidential directive</h4> <p><strong>Analysis</strong>  Joe Biden, in the final days of his US presidency, issued another cybersecurity order that is nearly as vast in scope as it is late in the game.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/biden_cybersecurity_eo/>
+
+---
+
+## China to probe US chip subsidies as export curbs rattle allies
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>Beijing investigating claims of unfair competition in mature semiconductors</h4> <p>The &#34;chip wars&#34; between the US and China show no sign of cooling off as Beijing prepares to examine whether America is unfairly subsidizing its own semiconductor companies. Meanwhile, Washington&#39;s latest export restrictions have angered even some of its allies.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/china_us_chip_subsidies/>
+
+---
+
+## NASA Opens New Challenge to Support Climate-Minded Business Models
+
+date: 2025-01-17, from: NASA breaking news
+
+NASA’s Sustainable Business Model Challenge is looking for entrepreneurs, startups, and researchers to leverage the agency’s publicly available Earth system science data to develop commercial solutions for climate challenges. This opportunity, with a submission deadline of June 13, bridges the gap between vast climate data and actionable solutions by inviting solvers to transform data into [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-opens-new-challenge-to-support-climate-minded-business-models/>
+
+---
+
+## L.A. Fire-Fueling Winds Slow Down, Offering a Short Reprieve. What Are the Santa Ana Winds, and Why Do They Fan the Flames?
+
+date: 2025-01-17, from: Smithsonian Magazine
+
+The seasonal gusts have exacerbated the deadly fires, and they’re expected to pick back up next week 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/la-fire-fueling-winds-slow-down-offering-a-short-reprieve-what-are-the-santa-ana-winds-and-why-do-they-fan-the-flames-180985859/>
+
+---
+
+## NASA’s Planetary Defenders Head to the Sundance Film Festival
+
+date: 2025-01-17, from: NASA breaking news
+
+NASA is bringing the high-stakes world of planetary defense to the Sundance Film Festival, highlighting its upcoming documentary, “Planetary Defenders,” during a panel ahead of its spring 2025 premiere on the agency’s streaming service. &#8220;We&#8217;re thrilled that NASA is attending Sundance Film Festival for the first time – a festival renowned for its innovative spirit,” [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasas-planetary-defenders-head-to-the-sundance-film-festival/>
+
+---
+
+## Fortinet: FortiGate config leaks are genuine but misleading
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>Competition hots up with Ivanti over who can have the worst start to a year</h4> <p>Fortinet has confirmed that previous analyses of records leaked by the Belsen Group are indeed genuine FortiGate configs stolen during a zero-day raid in 2022.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/fortinet_fortigate_config_leaks/>
+
+---
+
+## What Was Life Like in Pompeii Before Mount Vesuvius Erupted Nearly 2,000 Years Ago?
+
+date: 2025-01-17, from: Smithsonian Magazine
+
+An immersive new exhibition in Australia uses artifacts, sounds and projections to recreate the ancient Roman city 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/what-was-life-like-in-pompeii-before-mount-vesuvius-erupted-nearly-2000-years-ago-180985842/>
+
+---
+
+## Clock ticking for TikTok as US Supreme Court upholds ban
+
+date: 2025-01-17, updated: 2025-01-18, from: The Register (UK I.T. News)
+
+<h4>With Biden reportedly planning to skirt enforcement and kick the can to Trump, this saga might still not be over</h4> <p><strong>Updated</strong>  The US Supreme Court has upheld a law requiring TikTok to either divest from its Chinese parent ByteDance or face a ban in the United States. The decision eliminates the final legal obstacle to the federal government forcing a shutdown of the platform for US users on January 19.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/scotus_upholds_tiktok_ban/>
+
+---
+
+## Can You Read This Cursive Handwriting? The National Archives Wants Your Help
+
+date: 2025-01-17, from: Smithsonian Magazine
+
+Anyone with an internet connection can volunteer to transcribe historical documents and help make the archives' digital catalog more accessible 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/>
+
+---
+
+## Martin Luther King, Jr. Memorial
+
+date: 2025-01-17, from: NASA breaking news
+
+The Stone of Hope, a granite statue of civil rights movement leader Dr. Martin Luther King, Jr., is seen in this image from Jan. 5, 2025. The statue is part of the Martin Luther King, Jr. Memorial in Washington. Dr. King inspired millions to answer the righteous call for racial equality and to build a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/martin-luther-king-jr-memorial/>
+
+---
+
+## EU demands a peek under the hood of X's recommendation algorithms
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>Commission insists the timing has nothing to do with Musk meddling in German politics ahead of election</h4> <p>The European Commission is stepping up its ongoing investigation of Elon Musk&#39;s X with a request to examine recent changes made to the platform&#39;s recommendation algorithms.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/eu_x_algorithm_changes/>
+
+---
+
+## Six vulnerabilities in ubiquitous rsync tool announced and fixed in a day
+
+date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
+
+<h4>Turns out tool does both file transfers <em>and</em> security fixes fast</h4> <p>Don&#39;t panic. Yes, there were a bunch of CVEs, affecting potentially hundreds of thousands of users, found in rsync in early December – and made public on Tuesday – but a fixed version came out the same day, and was further tweaked for better compatibility the following day.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/17/rsync_vulnerabilities/>
+
+---
+
+## FDA Bans Red Dye No. 3 From Food, Beverages and Ingested Drugs, Citing Link to Cancer in Lab Rats
+
+date: 2025-01-17, from: Smithsonian Magazine
+
+The synthetic additive found in thousands of food products will now be phased out by 2027, but advocates say the agency's move is long overdue 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/fda-bans-red-dye-no-3-from-food-beverages-and-ingested-drugs-citing-link-to-cancer-in-lab-rats-180985848/>
+
+---
+
+## Peak Performance in Microgravity
+
+date: 2025-01-17, from: NASA breaking news
+
+Science in Space January 2025 At the start of a new year, many people think about making positive changes in their lives, such as improving physical fitness or learning a particular skill. Astronauts on the International Space Station work all year to maintain a high level of performance while adapting to changes in their physical [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/peak-performance-in-microgravity/>
 
 ---
 
@@ -169,7 +433,7 @@ date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
 
 date: 2025-01-17, updated: 2025-01-17, from: The Register (UK I.T. News)
 
-<h4>Test flight seven did better on the ground with a successful booster catch</h4> <p>SpaceX has again lost a Starship, after the seventh test flight of the spacecraft ended with a “rapid unscheduled disassembly”, but is nonetheless celebrating the mission as it ended with the second successful catch of its Super Heavy booster.…</p> 
+<h4>Test flight seven did better on the ground with a successful booster catch – as aircraft divert from falling debris</h4> <p><strong>Updated</strong>  SpaceX has again lost a Starship, after the seventh test flight of the spacecraft ended with a “rapid unscheduled disassembly”, but is nonetheless celebrating the mission as it ended with the second successful catch of its Super Heavy booster.…</p> 
 
 <br> 
 
@@ -335,9 +599,9 @@ The space rock—recorded with visuals and sound—landed where the homeowner ha
 
 ## Russia's Star Blizzard phishing crew caught targeting WhatsApp accounts
 
-date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+date: 2025-01-16, updated: 2025-01-17, from: The Register (UK I.T. News)
 
-<h4>FSB cyberspies venture into a new app for espionage, Microsoft says</h4> <p>Star Blizzard, a prolific phishing crew backed by the Russian Federal Security Service (FSB), conducted a new campaign aiming to compromise WhatsApp accounts and gain access to their messages and data, according to Microsoft.…</p> 
+<h4>FSB cyberspies venture into a new app for espionage, Microsoft says</h4> <p><strong>updated</strong>  Star Blizzard, a prolific phishing crew backed by the Russian Federal Security Service (FSB), conducted a new campaign aiming to compromise WhatsApp accounts and gain access to their messages and data, according to Microsoft.…</p> 
 
 <br> 
 
@@ -527,7 +791,7 @@ We all know Ivan IV’s sobriquet, but the story is more complicated than it mig
 
 ## Apple's interoperability efforts aren't meeting spirit or letter of EU law, advocacy groups argue
 
-date: 2025-01-16, updated: 2025-01-16, from: The Register (UK I.T. News)
+date: 2025-01-16, updated: 2025-01-17, from: The Register (UK I.T. News)
 
 <h4>Free Software Foundation Europe and others urge European Commission to double down on DMA</h4> <p>Digital rights advocacy organizations contend that Apple has failed to comply with its interoperability obligations under the EU&#39;s Digital Markets Act (DMA).…</p> 
 
@@ -2226,4 +2490,64 @@ Berry Gordy’s record label used the ‘sound of young America’ to bring peop
 <br> 
 
 <https://www.smithsonianmag.com/smart-news/motown-records-founded-on-this-day-in-1959-broke-racial-barriers-in-pop-music-with-its-beloved-hits-180985803/>
+
+---
+
+## Is it really the plan to take over Greenland and the Panama Canal? It's been a weird week
+
+date: 2025-01-11, updated: 2025-01-13, from: The Register (UK I.T. News)
+
+<h4>Meanwhile, tech titans are falling over themselves to help Trump</h4> <p><strong>Opinion</strong>  We all know the US&#39;s incoming president, Donald Trump, has gone off-script in a way that is almost comical. Gulf of America? Make Greenland great again? Taking over the Panama Canal?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/11/opinion_column_us_moves/>
+
+---
+
+## Bringing SerenityOS to real hardware, one driver at a time
+
+date: 2025-01-11, from: OS News
+
+Many moons ago, around the time when Andreas formally resigned from being Serenity&#8217;s BDFL, I decided that I want to get involved in the project more seriously. Looking at it from a perspective of &#8220;what do I not like about this (codebase)&#8221;, the first thing that came to mind was that it runs HERE points at QEMU and not THERE points at real hardware. Obvious oversight, let&#8217;s fix it. ↫ sdomi There&#8217;s no way for me to summarise this cursed saga, so just follow the lovely link and read it. It&#8217;s a meandering story of complexity, but eventually, a corrupted graphical session appeared. Now the real work starts. 
+
+<br> 
+
+<https://www.osnews.com/story/141518/bringing-serenityos-to-real-hardware-one-driver-at-a-time/>
+
+---
+
+## Google launches Chromium development fund to ward off antitrust concerns
+
+date: 2025-01-11, from: OS News
+
+Don&#8217;t you just love it when companies get together under the thin guise of open source to promote their own interests? Today Google is pleased to announce our partnership with The Linux Foundation and the launch of the Supporters of Chromium-based Browsers. The goal of this initiative is to foster a sustainable environment of open-source contributions towards the health of the Chromium ecosystem and financially support a community of developers who want to contribute to the project, encouraging widespread support and continued technological progress for Chromium embedders. The Supporters of Chromium-based Browsers fund will be managed by the Linux Foundation, following their long established practices for open governance, prioritizing transparency, inclusivity, and community-driven development. We’re thrilled to have Meta, Microsoft, and Opera on-board as the initial members to pledge their support. ↫ Shruthi Sreekanta on the Chromium blog First, there&#8217;s absolutely no way around the fact that this entire effort is designed to counter some of the antitrust actions against Google, including a possible forced divestment of Chrome. By setting up an additional fund atop the Chromium organisation, placed under the management of the Linux Foundation, Google creates the veneer of more independence for Chromium than their really is. In reality, however, Chromium is very much a Google-led project, with 94% of code contributions coming from Google, and with the Linux Foundation being very much a corporate affair, of which Google itself is a member, one has to wonder just how much it means that the Linux Foundation is managing this new fund. Second, the initial members of this fund don&#8217;t exactly instill confidence in the fund&#8217;s morals and values. We&#8217;ve got Google, the largest online advertising company in the world. Then there&#8217;s Facebook, another major online advertising company, followed by Microsoft, which, among other business ventures, is also a major online advertising company. Lastly we have Opera, an NFT and cryptoscammer making money through predatory loans in poor countries. It&#8217;s a veritable who&#8217;s who of some of the companies you least want near anything related to your browsing experience. I highly doubt a transparent effort like this is going to dissuade any judge or antritrust regulator from backing down. It&#8217;s clear this fund is entirely self-serving and designed almost exclusively for optics, with an obvious bias towards online advertising companies who want to make the internet worse than towards companies and people trying to make the internet better. 
+
+<br> 
+
+<https://www.osnews.com/story/141516/google-launches-chromium-development-fund-to-ward-off-antitrust-concerns/>
+
+---
+
+## When the U.S. Surgeon General Shocked Americans by Announcing That Smoking Kills
+
+date: 2025-01-11, from: Smithsonian Magazine
+
+The 1964 disclosure marked the first time many smokers had heard about the health dangers of tobacco 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/when-the-us-surgeon-general-shocked-americans-by-announcing-that-smoking-kills-180985726/>
+
+---
+
+## Celebrating when EVs went to the Moon with a Lego Lunar Roving Vehicle build
+
+date: 2025-01-11, updated: 2025-01-11, from: The Register (UK I.T. News)
+
+<h4>Even better use for the Technic range than the Mars Rover – with one big caveat</h4> <p>The original Apollo Lunar Roving Vehicle had the look of something that had been strung together from an oversized Meccano set. It should, therefore, not come as a surprise to find a LEGO variant built from the company&#39;s Technic pieces.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/11/lego_lunar_roving_vehicle/>
 

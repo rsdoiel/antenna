@@ -1,11 +1,208 @@
 ---
 title: socal north
-updated: 2025-01-17 07:04:57
+updated: 2025-01-18 07:04:27
 ---
 
 # socal north
 
-(date: 2025-01-17 07:04:57)
+(date: 2025-01-18 07:04:27)
+
+---
+
+## The wildfires damaged my home. What happens to my property taxes?
+
+date: 2025-01-17, updated: 2025-01-17, from: The LAist
+
+From installment deferral to home value transfer, we have some answers to property’s owners pressing tax questions. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-wildfire-home-damage-destroyed-property-tax-disaster-guide>
+
+---
+
+## The LA fires raise many questions for renters. LAist has answers
+
+date: 2025-01-17, updated: 2025-01-17, from: The LAist
+
+What happens to security deposits? Who pays for repairs? LAist answers these and other questions from tenants affected by the L.A. fires. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-fires-renters-rights-guide>
+
+---
+
+## As workers tackle dangerous job of cleaning up after LA fires, can authorities keep them safe?
+
+date: 2025-01-17, updated: 2025-01-17, from: The LAist
+
+The L.A. fires have left many domestic workers and day laborers jobless. They may soon be hired for wildfire cleanup work, which has its own risks. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/as-workers-tackle-dangerous-job-of-cleaning-up-after-la-fires-can-authorities-keep-them-safe>
+
+---
+
+## 73-Year-Old Man Reported Missing in Palisades Fire
+
+date: 2025-01-17, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="791" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/user53794-1737099628-media1.jpeg?fit=791%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/user53794-1737099628-media1.jpeg?w=1275&amp;ssl=1 1275w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/user53794-1737099628-media1.jpeg?resize=232%2C300&amp;ssl=1 232w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/user53794-1737099628-media1.jpeg?resize=791%2C1024&amp;ssl=1 791w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/user53794-1737099628-media1.jpeg?resize=768%2C994&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/user53794-1737099628-media1.jpeg?resize=1187%2C1536&amp;ssl=1 1187w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/user53794-1737099628-media1.jpeg?resize=1200%2C1553&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/user53794-1737099628-media1.jpeg?resize=400%2C518&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/user53794-1737099628-media1.jpeg?resize=706%2C914&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/user53794-1737099628-media1.jpeg?fit=791%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>MALIBU (CNS) &#8211; A 73-year-old man who the Los Angeles County Sheriff’s Department reports lives in a fire zone and is believed to have been displaced by the Palisades Fire [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/17/73-year-old-man-reported-missing-in-palisades-fire/">73-Year-Old Man Reported Missing in Palisades Fire</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/17/73-year-old-man-reported-missing-in-palisades-fire/>
+
+---
+
+## Much of SoCal experiencing driest start to winter on record
+
+date: 2025-01-17, updated: 2025-01-17, from: The LAist
+
+We haven't had rain since May. It’s a sign of how human-caused climate change is making Southern California weather more extreme. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-driest-start-to-winter-on-record>
+
+---
+
+## Why do some houses burn down and not others?
+
+date: 2025-01-17, updated: 2025-01-17, from: The LAist
+
+Embers, then radiant heat, then direct flames are responsible for most houses burning down in wildfires. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/why-do-some-houses-burn-down-palisades-eaton-fires>
+
+---
+
+## Rain Barrel Purchase Program Returns on February 22
+
+date: 2025-01-17, from: City of Santa Clarita
+
+<p>Residents Can Pre-Order a Rain Barrel Online for Pick Up at the Centre The City of Santa Clarita is hosting its next Rain Barrel Purchase Program. Residents can pre-order up to two rain barrels per household for $40.00 each, plus tax, at city.sc/RainBarrel for pickup on Saturday, February 22, from 9:00 to 11:00 a.m. at [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/17/rain-barrel-purchase-program-returns-on-february-22/">Rain Barrel Purchase Program Returns on February 22</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/17/rain-barrel-purchase-program-returns-on-february-22/>
+
+---
+
+## Spa treatments, therapy, art: Free services for LA fire victims and first responders
+
+date: 2025-01-17, updated: 2025-01-17, from: The LAist
+
+A list of services to offer reprieve from the devastation and heartbreak. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/free-services-for-la-fire-victims-and-first-responders>
+
+---
+
+## What LA wildfire victims need to know about applying for FEMA assistance
+
+date: 2025-01-17, updated: 2025-01-17, from: The LAist
+
+Here are some common mistakes or misconceptions you may run into. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/what-la-wildfire-victims-need-to-know-about-applying-for-fema-assistance>
+
+---
+
+## For childcare providers, wildfires are just one more crisis
+
+date: 2025-01-17, updated: 2025-01-17, from: The LAist
+
+Childcare providers say they know that their work is critical to allowing families to find new housing or return to work. But they're also trying to figure out how they themselves will recover, or stay afloat at all. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/childcare-providers-daycare-eaton-fire-altadena-palisades>
+
+---
+
+## Finishers of 2025’s 50/50 race
+
+date: 2025-01-17, from: Catalina Islander
+
+Pictured here are the finishers from the 2025 Avalon 50/50 race pose for a group photo. The Avalon Avalon Benefit 50 Mile/50K Run was held Saturday, Jan. 11. Download QR 
+
+<br> 
+
+<https://thecatalinaislander.com/12268-2/>
+
+---
+
+## Dermatologist joins list of visiting health specialists
+
+date: 2025-01-17, from: Catalina Islander
+
+Catalina Island Health has announced Dr. Jenny Wang, board-certified dermatologist, has been added to the visiting specialist rotation. Her first visit to see patients on the island will be Saturday, January 25, 2025. Dr. Wang is the founder of SoCal Skin and Surgery, and a highly regarded board-certified dermatologist, specializing in medical and cosmetic dermatology. [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/dermatologist-joins-list-of-visiting-health-specialists/>
+
+---
+
+## Bravo’s Landscaping and Straight Up Builders win
+
+date: 2025-01-17, from: Catalina Islander
+
+Catalina Co-Ed Softball returned to the field Thursday, Jan. 9, with Bravo’s Landscaping taking on Sunset Bar &#38; Grill. Bravo’s Landscaping was up first, and Juan Hernandez opened the game with an inside the park homerun. Marco Gallegos followed with an inside the park homerun also. The third run crossed the plate off the RBI [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/bravos-landscaping-and-straight-up-builders-win-3/>
+
+---
+
+## Catalina Island Health receives two 2024 awards
+
+date: 2025-01-17, from: Catalina Islander
+
+Catalina Island Health has been named a 2024 Human Experience Guardian of Excellence Award winner by Press Ganey, the global leader in healthcare experience solutions and services. This award is part of Press Ganey’s annual ranking of the top hospitals and health systems in the country, according to performance in patient experience. CIH has been [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/catalina-island-health-receives-two-2024-awards/>
+
+---
+
+## Pet of the Week: Squeaky (2011-2025)
+
+date: 2025-01-17, from: Catalina Islander
+
+Squeaky lived on the Island for her entire life. She loved belly scratches and strawberries. Her name was Squeaky because she made happy squeaking noises when she saw people. The King family lost her on Jan. 9, 2025. Download QR 
+
+<br> 
+
+<https://thecatalinaislander.com/pet-of-the-week-squeaky-2011-2025/>
+
+---
+
+## How will a second Trump presidency impact you? LAist wants to know
+
+date: 2025-01-17, updated: 2025-01-17, from: The LAist
+
+As Donald Trump prepares to return to the White House on Jan. 20, public radio partners in the California Newsroom want to hear from you about what this means for your community. 
+
+<br> 
+
+<https://laist.com/news/politics/how-will-a-second-trump-presidency-impact-you-laist-wants-to-know>
 
 ---
 
@@ -73,7 +270,7 @@ Michael Gennaco, a former federal prosecutor and one-time Sheriff’s Department
 
 date: 2025-01-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="565" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?fit=1024%2C565&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?w=1196&amp;ssl=1 1196w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?resize=300%2C166&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?resize=1024%2C565&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?resize=768%2C424&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?resize=400%2C221&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?resize=706%2C390&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?fit=1024%2C565&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="565" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?fit=1024%2C565&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?w=1196&amp;ssl=1 1196w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?resize=300%2C166&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?resize=1024%2C565&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?resize=768%2C424&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?resize=400%2C221&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?resize=706%2C390&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/senPadilla.jpg?fit=1024%2C565&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>WASHINGTON, D.C. — As devastating wildfires rage across California, U.S. Senator Alex Padilla (D-Calif.) delivered remarks on the Senate floor urging his Republican colleagues and President-elect Trump to provide essential [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/01/16/padilla-pushes-for-disaster-aid-without-conditions-for-los-angeles-wildfire-recovery/">Padilla Pushes for Disaster Aid Without Conditions for Los Angeles Wildfire Recovery</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -894,7 +1091,7 @@ Let us help you separate fact from fiction.
 
 ## How to check if your home was damaged or lost in the Eaton and Palisades fires
 
-date: 2025-01-13, updated: 2025-01-17, from: The LAist
+date: 2025-01-13, updated: 2025-01-18, from: The LAist
 
 L.A. County has released a searchable, preliminary map for each area. 
 
@@ -1083,4 +1280,162 @@ Prominent right-wing influencers are claiming that the response to the Los Angel
 <br> 
 
 <https://laist.com/news/climate-environment/why-right-wing-influencers-are-blaming-the-california-wildfires-on-diversity-efforts>
+
+---
+
+## Lara Announces Insurance Protection for Homeowners Impacted by Fires
+
+date: 2025-01-11, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?fit=1024%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?w=1466&amp;ssl=1 1466w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=1200%2C1200&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?fit=1024%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; California Insurance Commissioner Ricardo Lara has put the department on alert for potential fraud and illegal actions targeting survivors of the Los Angeles County wildfires, his [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/11/lara-announces-insurance-protection-for-homeowners-impacted-by-fires/">Lara Announces Insurance Protection for Homeowners Impacted by Fires</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/11/lara-announces-insurance-protection-for-homeowners-impacted-by-fires/>
+
+---
+
+## Dive Into a Summer of Fun as a City of Santa Clarita Lifeguard
+
+date: 2025-01-11, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Nothing says summer like the smell of sunscreen, the sound of splashing in the pool and cooling off in the water with friends and family. As a City with over 225,000 people, full of families who call Santa Clarita home, one of the best summer jobs for teens is becoming [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/11/dive-into-a-summer-of-fun-as-a-city-of-santa-clarita-lifeguard/">Dive Into a Summer of Fun as a City of Santa Clarita Lifeguard</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/11/dive-into-a-summer-of-fun-as-a-city-of-santa-clarita-lifeguard/>
+
+---
+
+## Altadena Residents Grieve Losses
+
+date: 2025-01-11, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Residents of Altadena are grieving as their neighborhoods have been reduced to rubble from the Eaton Fire. Many within the area have lived in the region for generations, like Kenneth [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/11/altadena-residents-grieve-losses/">Altadena Residents Grieve Losses</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/11/altadena-residents-grieve-losses/>
+
+---
+
+## As fires rage, an already-hurting Hollywood presses pause
+
+date: 2025-01-11, updated: 2025-01-12, from: The LAist
+
+The fires around Los Angeles arrived just as Hollywood's awards season kicked off. It's an ominous sign at a time when film and TV production is already down. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/fires-hollywood-reaction-awards-season>
+
+---
+
+## Photos: Southern California residents return to devastation as two major wildfires rage on
+
+date: 2025-01-11, updated: 2025-01-11, from: The LAist
+
+At least 153,000 Los Angelenos have had to evacuate their homes and about 166,000 people were under evacuation warnings as of Saturday, according to the LA County Sheriff's Department. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/photos-southern-california-residents-return-to-devastation-as-two-major-wildfires-rage-on>
+
+---
+
+## Fact check: Could brush clearance have prevented the Palisades Fire?
+
+date: 2025-01-11, updated: 2025-01-14, from: The LAist
+
+LAist dives into the science behind the claim that the brush clearance would have 'significantly mitigated' the destruction and losses. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/fact-check-could-brush-clearance-have-prevented-the-palisades-fire>
+
+---
+
+## Kevin Cooley takes photos of wildfires for a living. This week, Eaton Fire destroyed his Altadena home
+
+date: 2025-01-11, updated: 2025-01-12, from: The LAist
+
+A commercial and fine art photographer tackles wildfire as one of his major themes. This week, he lost his Altadena duplex to the Eaton Fire. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/kevin-cooley-takes-photos-of-wildfires-for-a-living-this-week-eaton-fire-destroyed-his-altadena-home>
+
+---
+
+## Go Fact Yourself quiz for January 11
+
+date: 2025-01-11, updated: 2025-01-11, from: The LAist
+
+Our celebrity panelists Larry Wilmore and Denise Crosby go head to head this week on their knowledge of music from across the pond and swimming down the pool. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-january-11>
+
+---
+
+## Wildfires delay annual Los Angeles homeless count
+
+date: 2025-01-11, updated: 2025-01-11, from: The LAist
+
+Going forward during the region's fire crisis would compromise data and safety, officials say. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-homeless-count-delayed-wildfires-lahsa>
+
+---
+
+## Are more fires popping up in LA than normal? What we know
+
+date: 2025-01-11, updated: 2025-01-14, from: The LAist
+
+“We have a lot of abnormal incidents that are layered over our normal everyday operations, which makes it seem even worse,” an LAFD spokesperson said. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-fire-eaton-palisades-wildfire-activity-history-explainer>
+
+---
+
+## Campbell Hall School Donating Free Supplies for a Limited Time to Those Impacted by Fires
+
+date: 2025-01-11, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=1568%2C2091&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=2000%2C2667&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>For those who have been impacted by the fires raging through Los Angeles and in need of supplies, Campbell Hall School in Studio City is providing free resources for anyone [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/10/campbell-hall-school-donating-free-supplies-for-a-limited-time-to-those-impacted-by-fires/">Campbell Hall School Donating Free Supplies for a Limited Time to Those Impacted by Fires</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/10/campbell-hall-school-donating-free-supplies-for-a-limited-time-to-those-impacted-by-fires/>
+
+---
+
+## Wildfire Smoke Safety Tool Kit
+
+date: 2025-01-11, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="595" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?fit=1024%2C595&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?w=1252&amp;ssl=1 1252w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?resize=300%2C174&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?resize=1024%2C595&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?resize=768%2C447&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?resize=1200%2C698&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?resize=400%2C233&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?resize=706%2C411&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?fit=1024%2C595&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>According to the South Coast Air Quality Management District, potential direct smoke impact from the Palisades, Eaton, and Hurst Wildfires burning has caused unhealthy air quality in Los Angeles County. Smoke [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/10/wildfire-smoke-safety-tool-kit/">Wildfire Smoke Safety Tool Kit</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/10/wildfire-smoke-safety-tool-kit/>
 

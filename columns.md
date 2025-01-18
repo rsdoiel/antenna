@@ -1,11 +1,179 @@
 ---
 title: columns
-updated: 2025-01-17 07:04:59
+updated: 2025-01-18 07:04:28
 ---
 
 # columns
 
-(date: 2025-01-17 07:04:59)
+(date: 2025-01-18 07:04:28)
+
+---
+
+## ‘Lumon Takes Grand Central’
+
+date: 2025-01-17, updated: 2025-01-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://parkerspov.substack.com/p/lumon-takes-grand-central>
+
+---
+
+## iOS 18.3 Beta 3 Has Several Changes to Apple Intelligence Notification Summaries
+
+date: 2025-01-17, updated: 2025-01-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/01/16/ios-18-3-temporarily-disables-apple-intelligence-notification-summaries-for-select-apps-more/>
+
+---
+
+## Friday Squid Blogging: Opioid Alternatives from Squid Research
+
+date: 2025-01-17, updated: 2025-01-06, from: Bruce Schneier blog
+
+<p>Is there nothing that <a href="https://www.capeandislands.org/2024-12-05/massachusetts-scientists-study-squid-to-develop-disease-treatments-and-opioid-alternatives">squid research</a> can&#8217;t solve?</p>
+<blockquote><p>&#8220;If you&#8217;re working with an organism like squid that can edit genetic information way better than any other organism, then it makes sense that that might be useful for a therapeutic application like deadening pain,&#8221; he said.</p>
+<p>[&#8230;]</p>
+<p>Researchers hope to mimic how squid and octopus use RNA editing in nerve channels that interpret pain and use that knowledge to manipulate human cells.</p></blockquote>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/01/friday-squid-blogging-opioid-alternatives-from-squid-research.html>
+
+---
+
+## Nintendo Switch 2 Joy-Con Might Double as a Mouse
+
+date: 2025-01-17, updated: 2025-01-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/509821/nintendo-switch-2-joy-con-mouse-rumor-confirmed>
+
+---
+
+## Does he want to be more feared than loved?
+
+date: 2025-01-17, from: Robert Reich's blog
+
+Trump&#8217;s official portrait resembles those of fascist strongmen. 
+
+<br> 
+
+<https://robertreich.substack.com/p/does-he-want-to-be-more-feared-than>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-17, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/07/28/marshmallowManFromGhostbusters.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've come to the conclusion that you can't really use <a href="https://daytona.scripting.com/search?q=chatgpt">ChatGPT</a> as a programming partner. It doesn't understand the big picture, and if you try to explain it, it probably isn't getting it, and if it does, it will forget it quickly. It's basically fairly stupid, but a way better search engine than Google. Also, it never says it doesn't have enough info to answer the question and then an hour later you figure out the answer it gave you just doesn't work. I still think it's an incredibly useful too, just not as great as I used to think. In a couple of years it has never asked for more information before it answers. That's a clue. 
+
+<br> 
+
+<http://scripting.com/2025/01/17.html#a194528>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-17, from: Dave Winer's Scripting News)
+
+Pretty sure there's no supportable reason to <a href="https://www.npr.org/2025/01/17/nx-s1-5258396/supreme-court-upholds-tiktok-ban">ban TikTok</a>, any more than banning Facebook or Twitter would make sense. 
+
+<br> 
+
+<http://scripting.com/2025/01/17.html#a192603>
+
+---
+
+## January 16, 2025
+
+date: 2025-01-17, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155033845/304f2c071459577b1ad0c9365d0ac8fa.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155033845/304f2c071459577b1ad0c9365d0ac8fa.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-16-2025-493>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-17, from: Dave Winer's Scripting News)
+
+My newest server was down for an hour due to hardware problems at Digital Ocean. It appears to be running again. Please don't judge the <a href="http://scripting.com/2025/01/15/143544.html">new search feature</a>, it was caught up in this outage. Oy. 
+
+<br> 
+
+<http://scripting.com/2025/01/17.html#a175426>
+
+---
+
+## ‘He Was Not Interested in Answers Because He Understood That Questions Are the Drive That Make Us Who We Are’
+
+date: 2025-01-17, updated: 2025-01-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.instagram.com/p/DE5pC5RyH29/?igsh=Mzc3ZTVlOWMwZA%3D%3D>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-17, from: Dave Winer's Scripting News)
+
+<a href="https://www.youtube.com/watch?v=KEJ0PUw-lRk">Video demo</a> of the new <a href="https://imgs.scripting.com/2025/01/17/searchboxScreenShot.png">searchbox</a> on Scripting News. 
+
+<br> 
+
+<http://scripting.com/2025/01/17.html#a160754>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-17, from: Dave Winer's Scripting News)
+
+I've changed my <a href="https://bsky.app/profile/scripting.com">Bluesky</a> avatar to <a href="http://scripting.com/mlk.png">MLK's image</a> to celebrate his birthday on Monday, January 20. I dream of everyone wearing this button proudly on Monday in support of American democracy and progress. We are a proud country, beneath all the weirdness. 
+
+<br> 
+
+<http://scripting.com/2025/01/17.html#a160141>
+
+---
+
+## Six vulnerabilities in ubiquitous rsync tool announced and fixed in a day
+
+date: 2025-01-17, updated: 2025-01-17, from: Liam Proven's articles at the Register
+
+<h4>Turns out tool does both file transfers <em>and</em> security fixes fast</h4>
+      <p>Don&#39;t panic. Yes, there were a bunch of CVEs, affecting potentially hundreds of thousands of users, found in rsync in early December – and made public on Tuesday – but a fixed version came out the same day, and was further tweaked for better compatibility the following day.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/01/17/rsync_vulnerabilities/>
+
+---
+
+## Miscellany № 104: new year, new miscellany
+
+date: 2025-01-17, from: Shady Characters blog
+
+<p>Hello, and welcome to 2025. Is it that time already?</p>
+<hr>
+<p>The possessive apostrophe (or rather, the abuse of the possessive apostrophe) is a <a href="https://shadycharacters.co.uk/2024/06/miscellany-101/">recurrent</a> <a href="https://shadycharacters.co.uk/2013/03/miscellany-27/">guest star</a> here at <cite>Shady Characters</cite>, but usually in the English language. Recently, though, <a href="https://www.theguardian.com/world/2024/oct/07/germany-influence-of-english-idiots-apostrophe">the <cite>Guardian</cite> reported</a> that unneeded apostrophes are infecting German, too. The so-called <i>Deppenapostroph</i>, or “idiot’s apostrophe”, appears when a German-language expression uses it to indicate a possessive — despite the fact that it is more correct to add an “s” on its own rather than “’s”.</p><a class="more-link" href="https://shadycharacters.co.uk/2025/01/miscellany-104-new-year-new-miscellany/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/01/miscellany-104-new-year-new-miscellany/>
 
 ---
 
@@ -1511,4 +1679,347 @@ With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and yours truly, Robert R
 <br> 
 
 <https://www.jayeless.net/2025/01/terrorism.html>
+
+---
+
+## What Are Stories?
+
+date: 2025-01-11, from: Doc Searls (at Harvard), New Old Blog
+
+Twenty-first in the New Commons series. Several generations ago, my pal Jerry and I were cutting a hole between the ceiling joists of a rented house in Durham, North Carolina. This was our first step toward installing a drop-down stairway to an attic space that had been closed since the house, a defunct parsonage for [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/01/11/what-are-stories/>
+
+---
+
+## Does Politics Turn on a Message? Or a Messenger?
+
+date: 2025-01-11, from: James Fallows, Substack
+
+And other ramifications of Jimmy Carter's 100-plus years. Which may give the Democrats a challenge different from the one most often discussed. 
+
+<br> 
+
+<https://fallows.substack.com/p/does-politics-turn-on-a-message-or>
+
+---
+
+## Google and Microsoft Each Donate $1 Million to Trump’s Inauguration Racket
+
+date: 2025-01-11, updated: 2025-01-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.cnbc.com/2025/01/09/google-donates-1-million-to-trumps-inauguration-fund.html>
+
+---
+
+## ‘Inside Mark Zuckerberg’s Sprint to Remake Meta for the Trump Era’
+
+date: 2025-01-11, updated: 2025-01-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2025/01/10/technology/meta-mark-zuckerberg-trump.html?unlocked_article_code=1.oU4.1YiC.LBBOij0yKLtb&smid=url-share>
+
+---
+
+## January 10, 2025
+
+date: 2025-01-11, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154642234/9f91bc659aa31105d0149f5d9fa7f5a5.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154642234/9f91bc659aa31105d0149f5d9fa7f5a5.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-10-2025-31d>
+
+---
+
+## ‘We’re All Trying to Find the Guy Who Did This’
+
+date: 2025-01-11, updated: 2025-01-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theatlantic.com/technology/archive/2025/01/mark-zuckerberg-free-expression/681238/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-01-11, from: Miguel de Icaza Mastondon feed)
+
+<p>Small UI update, not visible, but worth talking about is that I got the tracking timeline at the top to be &quot;anchored&quot;, and not scroll away:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113811554601004561>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-11, from: Dave Winer's Scripting News)
+
+<a href="https://daveverse.wordpress.com/2025/01/11/little-feed-reader-seems-to-work/">Notes</a> on Little Feed Reader, <a href="https://bsky.app/profile/feediverse.bsky.social">running</a> on Bluesky since Jan 2. 
+
+<br> 
+
+<http://scripting.com/2025/01/11.html#a200549>
+
+---
+
+## ★ Nvidia, the New King of Keynotes
+
+date: 2025-01-11, updated: 2025-01-11, from: Daring Fireball
+
+The answer to the question of which company held the keynotes which attracted the most enthusiastic large live audiences was always Apple. And they just walked away from that. 
+
+<br> 
+
+<https://daringfireball.net/2025/01/nvidia_the_new_king_of_keynotes>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-11, from: Dave Winer's Scripting News)
+
+This is what my YouTube channel <a href="https://imgs.scripting.com/2025/01/11/youtubeInBlogroll.png">looks like</a> in my blogroll. 
+
+<br> 
+
+<http://scripting.com/2025/01/11.html#a174922>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-11, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/07/07/ohYeah.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">YouTube channels have feeds. Here's <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIKA6QNSb56qnA5Enn2BOXw">the feed</a> for my YouTube channel. And a canonical <a href="https://feeder.scripting.com/?feedurl=https://www.youtube.com/feeds/videos.xml?channel_id=UCIKA6QNSb56qnA5Enn2BOXw">JSONification</a> of the feed (this is how FeedLand gets the data from any type of feed, RSS, Atom or RDF, the YouTube feed is Atom). I did not know they had feeds, in fact I thought I heard they specifically did <i>not</i> have feeds. I've subscribed to the feed <a href="https://feedland.social/?feedurl=https%3A%2F%2Fwww.youtube.com%2Ffeeds%2Fvideos.xml%3Fchannel_id%3DUCIKA6QNSb56qnA5Enn2BOXw">in FeedLand</a> and it seems to work, and also included it in my blogroll category, so it should show up in my blogroll, and possibly in the <a href="https://bsky.app/profile/feediverse.bsky.social">Little Feed Reader</a> on Bluesky. All of this, and more, was discovered by <a href="https://www.google.com/search?q=site%3Ascripting.com+%22Andrew+Shell%22">Andrew Shell</a>. Two suggestions. 1. Include descriptions with the items. 2. Use enclosures for the videos. Atom does enclosures differently from RSS, but it can be made to work, imho. No matter what, thank you YouTube, and it's a great start. 
+
+<br> 
+
+<http://scripting.com/2025/01/11.html#a170329>
+
+---
+
+## Aviation vs. Fire
+
+date: 2025-01-11, from: Doc Searls (at Harvard), New Old Blog
+
+3:22pm—Hats off to Miles Archer for the links below, one of which goes here— —showing all the aircraft and their paths at once. You can start here at https://globe.adsbexchange.com/, which is kind of your slate that&#8217;s blank except for live aircraft over the Palisades Fire: Meanwhile all the media are reporting one home loss, in [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/01/11/aviation-vs-fire/>
+
+---
+
+## What's involved in getting a "modern" terminal setup?
+
+date: 2025-01-11, updated: 2025-01-11, from: Julia Evans blog
+
+ 
+
+<br> 
+
+<https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/>
+
+---
+
+## 2025-01-11 Personal blogging platform
+
+date: 2025-01-11, from: Alex Schroeder's Blog
+
+<h1 id="2025-01-11-personal-blogging-platform">2025-01-11 Personal blogging platform</h1>
+
+<p><a class="account" href="https://mastodon.social/@deivudesu" title="@deivudesu@mastodon.social">@deivudesu</a> recently wondered aloud about blogging software.</p>
+
+<blockquote>
+<p>If you were to design a brand new blogging platform from scratch today, what would it look like?</p>
+</blockquote>
+
+<p>Since I recently wrote Oddmu, I have opinions, of course. It would look like this site! 😅</p>
+
+<blockquote>
+<p>Would it stick to the standard &ldquo;N columns&rdquo; template format?</p>
+</blockquote>
+
+<p>Over the years of using Oddmuse (the predecessor software I started maintaining in 2003), I tried sidebars for my site and never liked it for long. When I visit other sites, I almost never use the sidebars.</p>
+
+<p>Blogroll? No. Just discuss blog posts and link to other people – that’s the better option.</p>
+
+<p>Archives? No. The calendar widgets are small and cramped and soon enough I end up on a separate page where I can navigate in big chunks. I almost never want to know what somebody posted on a particular day. I want to know whether they post a lot; whether they posted more on a topic in the past. It all involves better overview and search. This need is not met by an archive in the sidebar.</p>
+
+<p>Many links to entry points? No. Just put them on the first page.</p>
+
+<p>Many admin links? No. Just put them on a separate page, if you must. Also try to redesign the application so that it needs fewer admin links.</p>
+
+<blockquote>
+<p>Would it have a dedicated Admin UI, or would it reuse existing tools?</p>
+</blockquote>
+
+<p>Oddmu has no dedicated administration user-interface. It uses Markdown text files and media files for storage. If you really need direct access, open a file browser, a shell, an editor.</p>
+
+<blockquote>
+<p>Would it define its own DB schema, or piggyback off existing standards?</p>
+</blockquote>
+
+<p>Since Oddmu is designed to work with files directly, the DB schema would be trivial: page name and page content. It steered me away from keeping a lot of metadata.</p>
+
+<p>If I wanted to keep drafts somewhere, I guess I would set up a second Oddmu accessible only to me. Or I’d just use a text editor to write the posts. (This post started in a text editor.)</p>
+
+<p>Post scheduling would have to interface with command line tools like <code>at</code> to move a file from one folder to another at some point in the future. I don’t need this and so I never thought about it.</p>
+
+<blockquote>
+<p>Would it make sense to design it as an ActivityPub client with a Web UI?</p>
+</blockquote>
+
+<p>I don’t think so. Many people commenting on fedi might be surprised to see their comments show up on the web and vice versa.</p>
+
+<p>Conversely, having a little script off of a cron job that reads the blog’s feed and posts on fedi worked well for me. Of course that would not work for a platform like Blogger or Wordpress, but on an individual level, it works.</p>
+
+<p><a class="tag" href="/search/?q=%23Blogs">#Blogs</a> <a class="tag" href="/search/?q=%23Wiki">#Wiki</a> <a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a> <a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-01-11-blog-platform>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-01-11, from: Jessica Smith's blog)
+
+<p>In the last few days, Indie&rsquo;s been exclaiming a lot of, &ldquo;Oh!&rdquo; and &ldquo;Ooh!&rdquo; So I was talking to her, going, &ldquo;We can add this &lsquo;oh&rsquo; and &lsquo;ooh&rsquo; to the &rsquo;eeeeeeeeh&rsquo; you liked saying when you were a younger baby, and you&rsquo;re well on the way to mastering all the vowel sounds!&rdquo; (She&rsquo;s not, because English has like 13 vowel sounds before you even consider diphthongs, but I want her to feel encouraged.) I went on, &ldquo;Next you&rsquo;re going to have to learn a whole new kind of sound, called consonants! Listen to this: mamamamama… bababababa… papapapapa…&rdquo; (Starting with the bilabials, because I believe babies learn those first?)</p>
+<p>Anyway, Indie had been happily &ldquo;oh!&ldquo;ing and &ldquo;ooh!&ldquo;ing away, but when I started with my &ldquo;mamamamama&rdquo; she fell silent and looked at me SO closely. I could see her moving her lips and trying to copy what I did 🥹 Didn&rsquo;t quite get there, but was clearly trying so hard to figure it out. And now she&rsquo;s back to chanting, &ldquo;Ooh! Ooh! Oh!&rdquo; on repeat, haha.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/01/indies-vocalisations.html>
+
+---
+
+## Trump's Oligarchy | The Coffee Klatch for January 11, 2025 
+
+date: 2025-01-11, from: Robert Reich's blog
+
+With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154569809/53681506a512f8baf494111e46ccc009.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/154569809/53681506a512f8baf494111e46ccc009.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/trumps-oligarchy-the-coffee-klatch>
+
+---
+
+## January 10, 2025 
+
+date: 2025-01-11, from: Heather Cox Richardson blog
+
+Today the Department of Labor released the final jobs report of Joe Biden&#8217;s presidency. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-10-2025>
+
+---
+
+## Palisades Fire on the Ridge
+
+date: 2025-01-11, from: Doc Searls (at Harvard), New Old Blog
+
+10:15pm—Here is a Google Earth Pro view of the Palisades fire crossing the wilderness north of Pacific Palisades and south of &#8220;Dry Mulholland&#8221;—the dirt road that serves as a firebreak along the ridge of the mountains south of the San Fernando Valley: The large squares are MODIS satellite fire detections. The smaller ones are VIIRS. [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/01/10/palisades-fire-on-the-ridge/>
+
+---
+
+## Progress vs. Growth
+
+date: 2025-01-11, from: Tracy Durnell Blog
+
+Ingrid Fetell Lee with the wisdom in her email newsletter: Progress is the tangible evidence that we&#8217;re moving closer to our goals. We&#8217;ve been conditioned to measure success in terms of progress&#8230; Growth is a subterranean shift, not what you made or did, but a change in who you are. It&#8217;s hard to measure, harder [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/10/progress-vs-growth/>
+
+---
+
+## Weeknotes: Jan 4 – 10, 2025
+
+date: 2025-01-11, from: Tracy Durnell Blog
+
+Win of the week: adapted a post that&#8217;s been sitting on draft since last June into my entry for this month&#8217;s IndieWeb carnival 🦾 Looking forward to: walking with a friend I haven&#8217;t seen since summer next week Stuff I did: 5.75 hours consulting 5 hours writing 🦾🦾🦾 wrote several alternate blurbs to help me decide between [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/10/weeknotes-jan-4-10-2025/>
+
+---
+
+## New Year
+
+date: 2025-01-11, from: Jirka's blog
+
+So it's 2025.  I'm not sure how much  time I will have for  my phlog or for any other tree-time computer stuff. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250111-0442_New_Year>
+
+---
+
+## Analog stuff in 2024
+
+date: 2025-01-11, from: Jirka's blog
+
+Actually, nothing special  happened. I have got a new  leather case for notebooks for work  and a new notebook with replaceable  inserts for my traveling (it's  a 1/3 of width  of A4 format  so it is also  ideal for folding of printed train tickets inside). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250111-0442_Analog_stuff_in_2024>
+
+---
+
+## The Great Fire
+
+date: 2025-01-11, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-great-fire>
+
+---
+
+## From the Rubble Rise 22 Powerful Voices
+
+date: 2025-01-11, from: Michael Moore's blog
+
+Last week, I, as an Executive Producer of FROM GROUND ZERO: STORIES FROM GAZA, was quoted across the country as stating the following: &#8220;No filmmaker, writer or artist should ever have to tell the story of their own extermination.&#8221; 
+
+<br> 
+
+<https://www.michaelmoore.com/p/from-the-rubble-rises-22-powerful>
+
+---
+
+## Zuckerberg Disses Apple With Joe Rogan: ‘They Haven’t Invented Anything Great in a While’
+
+date: 2025-01-11, updated: 2025-01-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/01/10/mark-zuckerberg-joe-rogan-apple-innovation/>
 

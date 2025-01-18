@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-01-17 07:05:01
+updated: 2025-01-18 07:04:30
 ---
 
 # libraries
 
-(date: 2025-01-17 07:05:01)
+(date: 2025-01-18 07:04:30)
 
 ---
 
@@ -91,7 +91,7 @@ A Chief Constable’s holiday on the coast is interrupted when he is drawn into 
 
 date: 2025-01-15, from: Standard Ebooks, new releaases
 
-A small town becomes the setting of an attempted revolution. 
+A small town becomes swept up in the fervor of attempted revolution. 
 
 <br> 
 

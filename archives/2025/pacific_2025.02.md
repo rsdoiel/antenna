@@ -1,11 +1,63 @@
 ---
 title: pacific
-updated: 2025-01-17 07:04:58
+updated: 2025-01-18 07:04:27
 ---
 
 # pacific
 
-(date: 2025-01-17 07:04:58)
+(date: 2025-01-18 07:04:27)
+
+---
+
+## AI traffic safety project wins $750K prize from U.S. transportation dept.
+
+date: 2025-01-17, from: University of Hawaiʻi News
+
+<p>The competition aims to leverage emerging technologies to protect vulnerable road users at intersections, supporting the department’s goal of eliminating roadway deaths and serious injuries.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/17/ai-traffic-safety-project/"><abbr>AI</abbr> traffic safety project wins $750<abbr>K</abbr> prize from U.S. transportation dept.</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/17/ai-traffic-safety-project/>
+
+---
+
+## Health, law advising center fosters bright futures for students
+
+date: 2025-01-17, from: University of Hawaiʻi News
+
+<p><abbr>PAC</abbr> provides essential support for students pursuing careers in health sciences and law, guiding them through every step of the admissions process.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/17/pre-health-pre-law-advising-center/">Health, law advising center fosters bright futures for students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/17/pre-health-pre-law-advising-center/>
+
+---
+
+## Home is Here Hawaii Lion Dance Association, Talk Story Bookstore, Hawaiian Pie Company
+
+date: 2025-01-17, from: Home is Here
+
+<p>On the next Home is Here we feature, The Hawaii Lion Dance Association, Talk Story Bookstore and Hawaiian Pie Company.</p>
+<p>The post <a href="https://www.pbshawaii.org/home-is-here-hawaii-lion-dance-association-talk-story-bookstore-hawaiian-pie-company/">Home is Here &lt;br/&gt;Hawaii Lion Dance Association, Talk Story Bookstore, Hawaiian Pie Company</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/home-is-here-hawaii-lion-dance-association-talk-story-bookstore-hawaiian-pie-company/>
+
+---
+
+## US Supreme Court upholds law banning TikTok
+
+date: 2025-01-17, updated: 2025-01-17, from: Marianas Variety
+
+WASHINGTON (Reuters) — The U.S. Supreme Court refused to rescue TikTok on Friday from a law that required the popular short-video app to be sold by its Chinese parent company ByteDance or banned on Sunday in the United States on national security grounds — a major blow to a platform used by nearly half of all Americans. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/us-supreme-court-upholds-law-banning-tiktok/article_a8bae9d6-d4e8-11ef-8931-bbd25e2731ed.html>
 
 ---
 
@@ -275,11 +327,25 @@ date: 2025-01-17, from: Hawaii Tribune Harold
 
 ---
 
+## VIDEO: Two lava fountains continue erupting in Kilauea volcano
+
+date: 2025-01-17, from: Hawaii Tribune Harold
+
+
+				<p>This is a USGS video compilation from Jan. 16, 2025, of Episode 4 of the ongoing Kilauea summit eruption in Hawaii Volcanoes National Park.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/17/hawaii-news/video-two-lava-fountains-continue-erupting-in-kilauea-volcano/>
+
+---
+
 ## METH OVERDOSES BY HAWAIʻI SENIORS
 
 date: 2025-01-17, from: INSIGHTS ON PBS HAWAIʻI
 
-<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists are: tba &#160;</p>
+<p>Methamphetamine poisoning is the leading cause of fatal overdoses among adults 50 to 79 in the islands, according to a University of Hawaiʻi study...</p>
 <p>The post <a href="https://www.pbshawaii.org/meth-overdoses-by-hawai%ca%bbi-seniors/">METH OVERDOSES BY HAWAIʻI SENIORS</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
  
 
@@ -680,6 +746,18 @@ The post <a href="https://www.hawaii.edu/news/2025/01/16/in-memoriam-jeffrey-fia
 
 ---
 
+## Don’t Skip Your OB/GYN Visit: Regular Screenings Can Prevent Cervical Cancer
+
+date: 2025-01-16, updated: 2025-01-16, from: Marianas Variety
+
+(BPT) - Cervical Health Awareness Month in January serves as an important reminder that cervical cancer is one of the few cancers that can actually be prevented with regular screening. Thanks to the Pap test, and then the addition of HPV testing and HPV vaccination, the number of people getting cervical cancer has significantly decreased for more than 70 years. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/don-t-skip-your-ob-gyn-visit-regular-screenings-can-prevent-cervical-cancer/article_6006a753-70d4-5d3f-9bbe-1c062ce6087b.html>
+
+---
+
 ## Power plant a nightmare
 
 date: 2025-01-16, from: Marshal Islands Journal
@@ -824,6 +902,18 @@ THE Office of the Governor on Thursday  announced the launch its new biweekly n
 <br> 
 
 <https://www.mvariety.com/news/local/governor-s-office-launches-newsletter/article_09dda324-d3e1-11ef-a054-0396849c8d8b.html>
+
+---
+
+## 40 new US citizens sworn in at American Memorial Park
+
+date: 2025-01-16, updated: 2025-01-16, from: Marianas Variety
+
+FORTY new U.S. citizens were sworn in at a special naturalization ceremony held at American Memorial Park’s Memorial Court of Honor and Flag Circle on Thursday morning. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/40-new-us-citizens-sworn-in-at-american-memorial-park/article_7d471c14-d3e6-11ef-9198-23188d648d9f.html>
 
 ---
 
@@ -3009,4 +3099,194 @@ Attorney General Douglas Moylan today defended his office’s move to employ his
 <br> 
 
 <https://www.pacificislandtimes.com/post/nepotism-at-ag-s-office-moylan-defends-fiance-s-and-brother-s-job-qualifications>
+
+---
+
+## Israel strikes ports and a power plant in Houthi-controlled parts of Yemen
+
+date: 2025-01-11, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Israeli warplanes bombed ports and a power plant in Yemeni territory controlled by the Houthis on Friday, the Israeli military said, in the latest attempt to force the Iranian-backed militant group to stop firing at Israel and commercial ships in the Red Sea.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/11/nation-world-news/israel-strikes-ports-and-a-power-plant-in-houthi-controlled-parts-of-yemen/>
+
+---
+
+## An inferno in Southern California, and one family’s escape
+
+date: 2025-01-11, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; There was, at first, not even a whisper of fire.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/11/features/an-inferno-in-southern-california-and-one-familys-escape/>
+
+---
+
+## Vatican allows Italian gay men to train to be priests, if they remain celibate
+
+date: 2025-01-11, from: Hawaii Tribune Harold
+
+
+				<p>The Vatican has approved new guidelines for Italy that say that an applicant for the seminary cannot be rejected simply because he is gay, as long as he remains celibate.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/11/nation-world-news/vatican-allows-italian-gay-men-to-train-to-be-priests-if-they-remain-celibate/>
+
+---
+
+## Power companies reach $16.4 billion deal as AI drives energy use up
+
+date: 2025-01-11, from: Hawaii Tribune Harold
+
+
+				<p>Constellation Energy, the nation&#8217;s largest nuclear power plant operator, has agreed to buy another electricity producer, Calpine, for $16.4 billion, a deal that shows how fast-rising demand for power, partly a result of the data centers being built for artificial intelligence, is having far-reaching effects on the economy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/11/nation-world-news/power-companies-reach-16-4-billion-deal-as-ai-drives-energy-use-up/>
+
+---
+
+## Biden raises bounty for Nicolás Maduro to $25 million
+
+date: 2025-01-11, from: Hawaii Tribune Harold
+
+
+				<p>BOGOTA, Colombia &#8212; The Biden administration said Friday that it was offering $25 million for information leading to the arrest of Nicol&#225;s Maduro, the president of Venezuela, after he assumed a third term in office despite evidence suggesting that he lost Venezuela&#8217;s recent election.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/11/nation-world-news/biden-raises-bounty-for-nicolas-maduro-to-25-million/>
+
+---
+
+## LA begins to contain largest blazes as false alarms rattle city
+
+date: 2025-01-11, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Firefighters made some small progress Friday in their fight to corral deadly wind-driven wildfires that have burned for days across the Los Angeles area, bringing a sliver of hope to a shaken region even as the threat of additional fires loomed with more dry, windy weather ahead.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/11/nation-world-news/la-begins-to-contain-largest-blazes-as-false-alarms-rattle-city/>
+
+---
+
+## A sentence with no penalty assures Trump will take office as a felon
+
+date: 2025-01-11, from: Hawaii Tribune Harold
+
+
+				<p>Arms crossed, scowl set, President-elect Donald Trump avoided jail, but became a felon.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/11/nation-world-news/a-sentence-with-no-penalty-assures-trump-will-take-office-as-a-felon/>
+
+---
+
+## Report urges help for Hawaii households struggling financially
+
+date: 2025-01-11, from: Hawaii Tribune Harold
+
+
+				<p>Aloha United Way, in partnership with the Bank of Hawaii Foundation, released the 2024 ALICE in Hawaii report Thursday, urging policy action to address rising living costs, housing instability and economic challenges especially faced by the state&#8217;s ALICE &#8212; asset-limited, income-constrained, employed &#8212; households.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/11/hawaii-news/report-urges-help-for-hawaii-households-struggling-financially/>
+
+---
+
+## ‘We’re in a new era’: How climate change is supercharging disasters
+
+date: 2025-01-11, from: Hawaii Tribune Harold
+
+
+				<p>As Los Angeles burned for days on end, horrifying the nation, scientists made an announcement Friday that could help explain the deadly conflagration: 2024 was the hottest year in recorded history.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/11/nation-world-news/were-in-a-new-era-how-climate-change-is-supercharging-disasters/>
+
+---
+
+## Job market finished 2024 on a strong note
+
+date: 2025-01-11, from: Hawaii Tribune Harold
+
+
+				<p>Employers stuck the landing in 2024, finishing the year with a bounce of hiring after a summer slowdown and an autumn marred by disruption.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/11/nation-world-news/job-market-finished-2024-on-a-strong-note/>
+
+---
+
+## New facilities, courses at Hawaiʻi CC education center in Honokaʻa
+
+date: 2025-01-11, from: University of Hawaiʻi News
+
+<p>The K&#333; Education Center renovations bring more educational offerings to North <span aria-label="Hawaii">Hawai&#699;i</span> residents.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/10/newly-renovated-ko-education-center/">New facilities, courses at Hawaiʻi <abbr>CC</abbr> education center in Honokaʻa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/10/newly-renovated-ko-education-center/>
+
+---
+
+## Supreme Court appears inclined to uphold TikTok ban in US
+
+date: 2025-01-11, updated: 2025-01-12, from: Marianas Variety
+
+WASHINGTON (Reuters) — The Supreme Court seemed inclined on Friday to uphold a law that would force a sale or ban the popular short-video app TikTok in the United States by Jan. 19, with the justices focusing on the national security concerns about China that prompted the crackdown. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/supreme-court-appears-inclined-to-uphold-tiktok-ban-in-us/article_e6392836-cfb6-11ef-9e66-e72bcbd99756.html>
+
+---
+
+## Trump avoids jail or punishment at hush money sentencing days before inauguration
+
+date: 2025-01-11, updated: 2025-01-12, from: Marianas Variety
+
+NEW YORK (Reuters) — President-elect Donald Trump will not go to jail or face any other punishment for his criminal conviction stemming from hush money paid to a porn star, a judge ruled on Friday but said Trump's Jan. 20 inauguration would not erase the jury verdict. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-avoids-jail-or-punishment-at-hush-money-sentencing-days-before-inauguration/article_5198d9b0-cfb6-11ef-928a-4b9c75a8ddff.html>
+
+---
+
+## Visaya earns Big West Player of the Week honors
+
+date: 2025-01-11, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> M&#257;noa men’s tennis player Azuma Visaya earned his first Big West Player of the Week award.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/10/visaya-big-west-player-week/">Visaya earns Big West Player of the Week honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/10/visaya-big-west-player-week/>
 

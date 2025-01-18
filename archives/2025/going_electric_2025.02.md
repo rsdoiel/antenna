@@ -1,15 +1,211 @@
 ---
 title: going electric
-updated: 2025-01-17 07:05:02
+updated: 2025-01-18 07:04:31
 ---
 
 # going electric
 
-(date: 2025-01-17 07:05:02)
+(date: 2025-01-18 07:04:31)
 
 ---
 
-## Hyundai Motor Group Was America's No. 2 EV Maker In 2024 Behind Tesla
+## Why Honda Dealers Actually Want EVs
+
+date: 2025-01-17, from: Inside EVs News
+
+The Honda Prologue's success proves that Americans are hungry for EVs from the Japanese brands they trust.  
+
+<br> 
+
+<https://insideevs.com/news/747741/honda-prologue-dealers-evs/>
+
+---
+
+## Puerto Rico just got $1.2B in DOE financing to boost its grid with solar + storage
+
+date: 2025-01-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Convergent-Energy-solar-storage.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The US Department of Energy (DOE) today announced $1.2 billion in financing to replace Puerto Rico’s fossil fuel plants with solar and battery storage through 2032. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,department-of-energy,egeb,energy-brief,solar,puerto-rico,solar-power" data-layer-viewtype="unknown" data-post-id="398197" href="https://electrek.co/2025/01/17/puerto-rico-just-got-1-2b-in-doe-financing-to-boost-its-grid-with-solar-storage/#more-398197" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/17/puerto-rico-just-got-1-2b-in-doe-financing-to-boost-its-grid-with-solar-storage/>
+
+---
+
+## Chevy launches sweet new Equinox and Blazer EV deals that can slash prices by $5,000
+
+date: 2025-01-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Chevy-EV-deals.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chevy just introduced new deals on the Equinox and Blazer EV models to make them even more affordable. With 0% interest and a new trade-in bonus, <a href="https://electrek.co/guides/chevrolet/">Chevy</a> is offering over $5,000 in savings.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet,chevy-blazer-ev,chevy-equinox-ev" data-layer-viewtype="unknown" data-post-id="398257" href="https://electrek.co/2025/01/17/chevys-new-equinox-blazer-ev-deals-can-cut-prices-by-5000/#more-398257" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/17/chevys-new-equinox-blazer-ev-deals-can-cut-prices-by-5000/>
+
+---
+
+## Podcast: non-Tesla EV Supercharger access, Cybertruck sales, Rivian $$$, and more
+
+date: 2025-01-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss non-Tesla EVs getting Supercharger access, Cybertruck sales in the spotlight, Rivian getting some money from Biden, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Electrek_369.mp3"></audio></figure>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="398224" href="https://electrek.co/2025/01/17/podcast-non-tesla-ev-supercharger-access-cybertruck-sales-rivian-and-more/#more-398224" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/17/podcast-non-tesla-ev-supercharger-access-cybertruck-sales-rivian-and-more/>
+
+---
+
+## Tesla Model 3 VS. Hyundai Ioniq 5: The Tesla Supercharger Test
+
+date: 2025-01-17, from: Inside EVs News
+
+The Hyundai Ioniq 5 is the first non-Tesla EV to get a NACS connector from the factory. Here's how it fares against a Model 3. 
+
+<br> 
+
+<https://insideevs.com/news/747623/2025-ioniq-5-tesla-supercharger/>
+
+---
+
+## Ram drops plans for a 500-mile long-range version of its electric pickup
+
+date: 2025-01-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Rams-first-electric-pickup-overseas.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The promised long-range Ram 1500 REV electric pickup has been canceled. <a href="https://electrek.co/guides/ram-trucks/">Ram</a> is no longer planning to launch the variant, which was expected to provide over 500 miles of range. Here’s what will take its place.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ram-electric-pickup,ram-trucks" data-layer-viewtype="unknown" data-post-id="398211" href="https://electrek.co/2025/01/17/ram-drops-plans-for-500-mile-long-range-electric-pickup/#more-398211" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/17/ram-drops-plans-for-500-mile-long-range-electric-pickup/>
+
+---
+
+## Lectric XP Lite 2.0 80-mile e-bike bundles $404 off, EcoFlow DELTA 3 Plus exclusive $541 low, Autel EV charger $455 low, more
+
+date: 2025-01-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Lectric.Apr24.Lite2_.160.webp?w=1600" /></div><p>Closing out this week’s Green Deals, we’re stopping back in on <a href="https://9to5toys.com/2025/01/17/lectric-xp-lite-2-0-999-flash-sale/">Lectric’s Plunge flash sale</a> that ends January 20 to give a spotlight on the brand’s <a href="https://9to5toys.com/2025/01/17/lectric-xp-lite-2-0-999-flash-sale/">XP Lite 2.0 Long-Range e-bikes</a> that start at <a href="https://9to5toys.com/2025/01/17/lectric-xp-lite-2-0-999-flash-sale/">$999</a> and come with the largest bundle packages yet at $404 in free gear. We’ve secured an exclusive new low price for our readers on <a href="https://9to5toys.com/2025/01/17/exclusive-ecoflow-delta-3-plus-541-low/">EcoFlow’s DELTA 3 Plus</a> Portable Power Station that takes costs down to <a href="https://9to5toys.com/2025/01/17/exclusive-ecoflow-delta-3-plus-541-low/">$541</a>, with an alternate backup power offer that is seeing <a href="https://9to5toys.com/2025/01/16/dji-1024wh-power-station-499/">DJI’s Power 1000</a> Portable Power Station at 50% off for <a href="https://9to5toys.com/2025/01/16/dji-1024wh-power-station-499/">$499</a>. For EV drivers, we also spotted <a href="https://9to5toys.com/2025/01/16/autel-maxicharger-ac-lite-charger-455-low/">Autel’s MaxiCharger AC Lite</a> Home Level 2 EV charger dropping to its <a href="https://9to5toys.com/2025/01/16/autel-maxicharger-ac-lite-charger-455-low/">$455</a> low. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s Rad Power flash sale that includes a free extra battery with the <a href="https://9to5toys.com/2025/01/16/rad-power-radrunner-2-extra-battery-more/">RadRunner 2 Utility e-bike</a>, among others – and much more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="398227" href="https://electrek.co/2025/01/17/lectric-xp-lite-2-0-ecoflow-autel-more/#more-398227" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/17/lectric-xp-lite-2-0-ecoflow-autel-more/>
+
+---
+
+## Is Electric Car Charging Any Better In 2025? Here's What Owners Say
+
+date: 2025-01-17, from: Inside EVs News
+
+Is public fast charging good in 2025? Bad? A bit of both? We hit the streets to ask real EV owners about their experiences. 
+
+<br> 
+
+<https://insideevs.com/news/746032/public-ev-fast-charging-report/>
+
+---
+
+## The top electric cars in this winter range test will surprise you
+
+date: 2025-01-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/DALL·E-2025-01-17-13.02.08-A-dramatic-scene-in-a-freezing-winter-setting-where-a-variety-of-electric-cars-including-SUVs-sedans-sports-cars-and-pickup-trucks-from-different-.webp?w=1600" /></div><p>The latest 2025 electric vehicle winter driving test results are out, and there are quite a few EV models that are surprising with their performance.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles" data-layer-viewtype="unknown" data-post-id="398194" href="https://electrek.co/2025/01/17/the-top-electric-cars-in-this-winter-range-test-will-surprise-you/#more-398194" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/17/the-top-electric-cars-in-this-winter-range-test-will-surprise-you/>
+
+---
+
+## The Porsche Macan May Not Stay All-Electric After All: Report
+
+date: 2025-01-17, from: Inside EVs News
+
+Porsche once hoped it would sell 80% electric vehicles by 2030. Now, it's backtracking on its EV goals.  
+
+<br> 
+
+<https://insideevs.com/news/747713/porsche-new-combustion-macan-possible/>
+
+---
+
+## BYD just launched the world’s largest car carrier to charge up its global EV ambitions
+
+date: 2025-01-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/BYD-Worlds-largest-car-carrier.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/byd/">BYD</a> Shenzen, its new ro-ro ship that can carry 9,200 vehicles, has officially undocked. BYD’s new car carrier is the world’s largest as the EV giant aggressively expands overseas. After sales surged last year, the Chinese EV leader looks for even more global market share in 2025.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="398190" href="https://electrek.co/2025/01/17/byd-launches-worlds-largest-car-carrier-fuel-global-ev-takeover/#more-398190" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/17/byd-launches-worlds-largest-car-carrier-fuel-global-ev-takeover/>
+
+---
+
+## Rivian Just Got A Major New Lifeline
+
+date: 2025-01-17, from: Inside EVs News
+
+Plus, we discuss Honda's outlook for 2025 and how Polestar is planning to turn things around. 
+
+<br> 
+
+<https://insideevs.com/news/747710/rivian-6-billion-loan-cm/>
+
+---
+
+## Rivian (RIVN) stock rises as Volkswagen plans to expand $5.8 billion EV partnership
+
+date: 2025-01-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/Rivian-R3-design-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rivian’s (RIVN) stock is trending on Friday after Volkswagen CEO Oliver Blume hinted at expanding upon their new EV partnership. Volkswagen’s boss said the company could offer “great opportunities” for <a href="https://electrek.co/guides/rivian/">Rivian</a>. Here’s what the new plans could include.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,volkswagen" data-layer-viewtype="unknown" data-post-id="398174" href="https://electrek.co/2025/01/17/rivian-rivn-stock-rises-volkswagen-ev-partnership-news/#more-398174" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/17/rivian-rivn-stock-rises-volkswagen-ev-partnership-news/>
+
+---
+
+## Hyundai Motor Group Just Hit A Major EV Sales Milestone
 
 date: 2025-01-17, from: Inside EVs News
 
@@ -42,6 +238,10 @@ date: 2025-01-17, from: Electrek Feed
 date: 2025-01-17, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes proposed e-bike restrictions in New York and Oregon, Super73 lowering the performance of its e-bikes, a review of the Tenways CGO600 Pro-C electric bike, new sodium-ion batteries coming from Yadea, Heybike unveiling its first mid-drive e-bike, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Electrek_80.mp3"></audio></figure>
 
 
 
@@ -78,6 +278,18 @@ Ola Kallenius, who also leads the largest carmaker association in Europe, says t
 <br> 
 
 <https://insideevs.com/news/747665/mercedes-benz-ceo-wants-eu-to-drop-co2-fines/>
+
+---
+
+## Mercedes Boss Wants The EU To Drop Emissions Fines
+
+date: 2025-01-17, from: Inside EVs News
+
+Ola Kallenius, who also leads the largest carmaker association in Europe, says the fines will hurt car companies. Experts disagree. 
+
+<br> 
+
+<https://insideevs.com/news/747665/mercedes-benz-ceo-co2/>
 
 ---
 
@@ -1612,4 +1824,64 @@ date: 2025-01-12, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/01/11/volvo-dd25-electric-compactor-gets-to-work-in-yolo-county-california/>
+
+---
+
+## CES2025 | Kubota brings electric equipment, robots, and hydrogen to CES
+
+date: 2025-01-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Kubota_CES_7.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kubota came to this year’s CES with a sprawling display filled with electric equipment, hydrogen gensets, and an onslaught of commercial robots ready to mow, farm, dig, and build. If you weren’t impressed by Kubota’s display this year, you weren’t paying attention.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ces,electric-construction-equipment,farming,kubota" data-layer-viewtype="unknown" data-post-id="397444" href="https://electrek.co/2025/01/11/ces2025-kubota-brings-electric-equipment-robots-and-hydrogen-to-ces/#more-397444" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/11/ces2025-kubota-brings-electric-equipment-robots-and-hydrogen-to-ces/>
+
+---
+
+## Tenways CGO600 Pro-C commuter e-bike is as light and smooth as it gets
+
+date: 2025-01-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/image_f18958.png?w=1487" /></div><p>The e-bike industry has stalled a little bit in terms of new features, and with harsh new legislation coming in from places like California, maybe it is time to start looking at e-bikes that are light, efficient, and smooth rather than how much wattage they can output. The <a href="https://redirect.viglink.com/?key=0ab71bd42c2ca312a536dac167978a13&amp;u=https%3A%2F%2Fwww.awin1.com%2Fcread.php%3Fawinmid%3D27143%26awinaffid%3D1642421%26ued%3Dhttps%253A%252F%252Fus.tenways.com%252Fproducts%252Fcgo600-pro&amp;type=ap&amp;loc=https%3A%2F%2F9to5toys.com%2F2025%2F01%2F10%2Ftenway-cgo600-pro-e-bike-1399-new-year%2F&amp;ref=w-year/">Tenways CGO600 Pro-C</a>, which comes in at just 37 pounds, with a smooth torque sensor is a model e-bike you should keep an eye on…</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="e-bikes" data-layer-viewtype="unknown" data-post-id="397329" href="https://electrek.co/2025/01/11/tenways-c-go-600pro-commuter-e-bike-is-as-smooth-as-it-gets/#more-397329" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/11/tenways-c-go-600pro-commuter-e-bike-is-as-smooth-as-it-gets/>
+
+---
+
+## The Car Dealership Model Is Starting To Crack Like Never Before
+
+date: 2025-01-11, from: Inside EVs News
+
+Car dealers threaten Sony-Honda Afeela's plans to sell directly to consumers. But they're also fighting Volkswagen, too. What's next? 
+
+<br> 
+
+<https://insideevs.com/news/747005/sony-honda-afeela-dealers-ces/>
+
+---
+
+## E-bike makers push speed-reduction updates after California’s stricter new laws
+
+date: 2025-01-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/08/specialized-globe-haul-lt-cargo-e-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Earlier this month, California <a href="https://electrek.co/2025/01/01/starting-today-california-is-coming-for-your-e-bike-throttles/">enacted new regulations</a> for electric bikes that resulted in stricter speed limits on e-bikes with throttles. At the time, it was unclear how electric bike makers would respond to the new regulations, but we’re now starting to see at least one manufacturer pushing to bring its existing e-bikes owned by California residents into compliance.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="397369" href="https://electrek.co/2025/01/11/e-bike-makers-push-speed-reduction-updates-after-californias-stricter-new-laws/#more-397369" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/11/e-bike-makers-push-speed-reduction-updates-after-californias-stricter-new-laws/>
 

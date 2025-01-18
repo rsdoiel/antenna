@@ -1,11 +1,79 @@
 ---
 title: writing
-updated: 2025-01-17 07:05:00
+updated: 2025-01-18 07:04:29
 ---
 
 # writing
 
-(date: 2025-01-17 07:05:00)
+(date: 2025-01-18 07:04:29)
+
+---
+
+## Final Draft Big Break Screenwriting Contest 2025 opens March 10
+
+date: 2025-01-17, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-big-break-and-final-are-different-from-other-screenwriting-contests" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Big-Break-20-years.png" alt="Final Draft Big Break Screenwriting Contest 2025 opens March 10" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>Is your screenplay or TV pilot ready for the Final Draft Big Break Screenwriting Competition?</span></p> 
+<p><span>With dozens of screenwriting contests out there, it’s important to consider which ones are worth your time and money. Over the past 20 years, the </span><a href="https://www.finaldraft.com/big-break-screenwriting-contest/">Big Break Screenwriting Contest</a><span> has become one of the most respected contests in the industry, launching several careers for aspiring writers.</span></p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-big-break-and-final-are-different-from-other-screenwriting-contests>
+
+---
+
+## Write On: 'The Boys' Creator and Showrunner Eric Kripke
+
+date: 2025-01-17, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-the-boys-creator-and-showrunner-eric-kripke" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Eric%20Kripke%20-%20The%20Boys%20%281%29.png" alt="Write On logo featuring the poster of 'The Boys'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“The most subversive thing this show could do is make you cry… If you really boil down television, really cook it in the pan, it’s the character business. I’m in the character business. Movies are in the plot and spectacle business, for television, there’s a thing about laying in bed and watching someone in your bedroom or living room that you really care about, you’re inviting these people into your house. The more you care about them, the more your show will succeed. There’s no simple formula, but you could boil down every single TV show to if the characters work, that show is likely going to work. If the characters don’t work, no matter what that show is, no matter how much money you throw at it, that show is not going to work,” says Eric Kripke, creator and showrunner for <em>The Boys</em> on Prime Video.&nbsp;<br><br>In this special episode hosted by screenwriting career coach Lee Jessup live from the Writers Guild Foundation in Los Angeles, Kripke talks about the functions of a showrunner, the excellent training he got doing 15 seasons of the show <em>Supernatural</em>, and what it’s like when the real world mirrors the darker aspects of <em>The Boys</em>.&nbsp;<br><br>Kripke also shares his sage advice for writing dialogue.&nbsp;<br><br>“I was interviewing people about their life experiences – it was a romantic comedy so I was asking people about their love lives. I wanted to transcribe it, so I had about 20 hours of material that I’m just transcribing and that’s how I learned to write dialogue, just from doing that because you learn how people really speak. No one speaks in straight, declarative sentences. It’s this weaving thing where they’ll start and they’ll back away and throw in a new idea. When you start to pay attention to what real language looks like on a page, it’s very different than what you think it looks like. So, to know what it looked like and how to recreate it, was huge. I recommend everyone try that,” says Kripke.&nbsp;<br><br>To hear more, listen to the podcast.&nbsp;<br><br>You can also watch this episode <a href="https://www.youtube.com/watch?v=5Lmj1uf0gQg">here</a>.&nbsp;</p> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-the-boys-creator-and-showrunner-eric-kripke>
+
+---
+
+## Spells to Forget Us by Aislinn Brophy: Review by Alex Brown
+
+date: 2025-01-17, from: Locus Magazine
+
+<p><strong>Spells to Forget Us</strong>, Aislinn Brophy (Putnam 978-15586-1331-7, $20.99, 432pp, hc) September 2024.</p>
+<p>In Aislinn Brophy’s new young adult romantic fan­tasy <strong>Spells to Forget Us</strong>, two Black teen girls have to balance falling in love with neglectful parents and harsh community expectations. Luna Gold and Aoife Walsh meet-cute at a high school football game. They flirt, they go out, they get together, they break up. Turns out, this  <a href="https://locusmag.com/2025/01/spells-to-forget-us-by-aislinn-brophy-review-by-alex-brown/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/spells-to-forget-us-by-aislinn-brophy-review-by-alex-brown/>
+
+---
+
+## Disavowed by John E. Stith: Review by Paul Di Filippo
+
+date: 2025-01-17, from: Locus Magazine
+
+<p><strong>Disavowed</strong>, John E. Stith (Experimenter Publishing Company 979-8888315439, trade paperback, 510pp, $16.99) December 2024</p>
+<p>I am extremely happy to see that John Stith’s career is experiencing something like a renaissance. His novel, <b>Reckoning Infinity</b>, the last in a continuous flow of fine books, appeared from Tor in 1997. We did not see another until <b>Pushback</b> in 2018—and that one was non-SF. Twenty-one years constituted a long gap for  <a href="https://locusmag.com/2025/01/disavowed-by-john-e-stith-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/disavowed-by-john-e-stith-review-by-paul-di-filippo/>
 
 ---
 
@@ -447,4 +515,17 @@ date: 2025-01-12, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/01/the-spellshop-by-sarah-beth-durst-review-by-colleen-mondor/>
+
+---
+
+## Interstellar MegaChef by Lavanya Lakshminarayan: Review by Ian Mond
+
+date: 2025-01-11, from: Locus Magazine
+
+<p><strong>Interstellar MegaChef</strong>, Lavanya Lakshminarayan (Solaris 978-1-83786-233-7, $16.99, 400pp, tp) November 2024.</p>
+<p>I’ve always loved a good cooking show. Back in the day, it was <strong>Top Chef </strong>(where a contestant always undercooked the chicken) and <strong>Great British Menu </strong>(where every pudding had to include rhubarb). Now, I’m obsessed with Uncle Roger’s YouTube channel. His takedown of Jamie Oliver’s Egg Fried Rice, with 28 million views and over one million likes,  <a href="https://locusmag.com/2025/01/interstellar-megachef-by-lavanya-lakshminarayan-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/interstellar-megachef-by-lavanya-lakshminarayan-review-by-ian-mond/>
 

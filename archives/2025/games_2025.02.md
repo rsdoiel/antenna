@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2025-01-17 07:05:00
+updated: 2025-01-18 07:04:29
 ---
 
 # games
 
-(date: 2025-01-17 07:05:00)
+(date: 2025-01-18 07:04:29)
+
+---
+
+## Queer, Red Rooms, Netflix’s Back in Action, and every movie new to streaming
+
+date: 2025-01-17, updated: 2025-01-16, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Queer, the new romance drama from director Luca Guadagnino (Call Me by Your Name, Challengers) and starring Daniel Craig, comes to VOD following its [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/506485/new-movies-watch-streaming-queer-red-rooms-netflix-back-in-action>
+
+---
+
+## Genshin Impact developer to pay $20M fine to US Federal Trade Commission over loot box violations
+
+date: 2025-01-17, updated: 2025-01-17, from: Polygon Website
+
+Genshin Impact publisher Cognosphere (which is also called Hoyoverse) is settling a United States Federal Trade Commission lawsuit over selling loot boxes to players under the age of 16. It’ll pay a $20 million fine for allegedly violating U.S. children’s privacy laws and “deciev[ing] children and other users about the real costs of in-game translations [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/511171/genshin-impact-ftc-settlement-gacha>
+
+---
+
+## The Owl House creator’s follow-up is a surreal sci-fi thriller
+
+date: 2025-01-17, updated: 2025-01-17, from: Polygon Website
+
+Dana Terrace, creator of witchy fantasy cartoon The Owl House, has a new show on the horizon and it looks sick as hell. Knights of Guinevere comes from Glitch Productions, and is headed by Terrace and fellow former Owl House writers John Bailey Owen and Zach Marcus. The first teaser for the sci-fi psychological thriller [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/511112/dana-terrace-knights-of-guinevere-owl-house-glitch-productions-teaser>
+
+---
+
+## Switch 2 vs. Steam Deck: How Nintendo’s next console measures up
+
+date: 2025-01-17, updated: 2025-01-17, from: Polygon Website
+
+The Nintendo Switch 2 was finally revealed, and it looks more like a Steam Deck than its predecessors ever did. Its new design paints over the iconic red and blue Joy-Cons with a black finish you could almost mistake for Valve’s handheld PC. Details are slim on what’s inside the Switch 2 as we wait [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/510197/switch-2-vs-steam-deck-comparison-specs-hardware>
+
+---
+
+## Discoveries
+
+date: 2025-01-17, updated: 2025-01-17, from: Polygon Website
+
+At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
+
+---
+
+## My kids’ first meeting with Nintendo
+
+date: 2025-01-17, updated: 2025-01-17, from: Polygon Website
+
+For decades, I’ve trekked to office buildings and hotel suites to meet with game developers and public relations people in order to play upcoming video games ahead of their release. Until last week, I’d never brought my kids. But, when Nintendo invited me to do so for a meeting last week, it seemed like a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/510919/donkey-kong-country-returns-hd-nintendo-event-gamefile>
 
 ---
 
@@ -489,18 +561,6 @@ Donkey Kong Country Returns just won’t stop returning. Players may recall the 
 
 ---
 
-## Discoveries
-
-date: 2025-01-14, updated: 2025-01-10, from: Polygon Website
-
-At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
-
----
-
 ## When is Godzilla coming to Fortnite this week?
 
 date: 2025-01-14, updated: 2025-01-14, from: Polygon Website
@@ -666,4 +726,76 @@ One poorly understood aspect of the modern games industry is the question of how
 <br> 
 
 <https://www.polygon.com/gaming/506967/first-1000-players-game-dev-interviews-push-talk>
+
+---
+
+## The Apothecary Diaries is back, and now’s the perfect time to catch up
+
+date: 2025-01-11, updated: 2025-01-10, from: Polygon Website
+
+The Apothecary Diaries wasn’t just my favorite anime of 2024, but my favorite show altogether. Based on the light novel series of the same name, The Apothecary Diaries is a perfect blend of medical procedural and period drama, sprinkled with a delicious slow-burn romance between one of my favorite tropes of grumpy girl and flirty [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/506598/the-apothecary-diaries-watch-season-1>
+
+---
+
+## The best Steam Deck accessories
+
+date: 2025-01-11, updated: 2025-01-11, from: Polygon Website
+
+The Steam Deck is a portable gaming powerhouse. After its 2022 launch, it didn&#8217;t take long for the Steam Deck accessory scene to blossom — and it shows no signs of slowing down. The accessories range from all but necessary add-ons (a microSD card and glass screen protectors) to some that are just nice to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories>
+
+---
+
+## It took ‘months’ to convince Donnie Yen to direct and star in The Prosecutor
+
+date: 2025-01-11, updated: 2025-01-10, from: Polygon Website
+
+A new Donnie Yen movie is always a must-see event for action fans. After wowing audiences in 2023 with his role as Caine in John Wick: Chapter 4 and his wuxia epic Sakra (which he directed and starred in), as well as his memorable semi-recent turns in Rogue One and the Ip Man series, the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/action/506278/donnie-yen-the-prosecutor-interview>
+
+---
+
+## Chaotic co-op platformer Pico Park 2 shows the Switch is still getting great new games
+
+date: 2025-01-11, updated: 2025-01-10, from: Polygon Website
+
+Given the excitement around the rumored Nintendo Switch 2, it’s easy to miss new games released to current Nintendo Switch consoles. Recent Nintendo Direct presentations seem to rattle off a bunch of random titles with little attention to each game, and the console hasn’t gotten any big new releases in a while, save for the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-play/506028/pico-park-2-nintendo-switch-new-game>
+
+---
+
+## The best thrillers to watch on Netflix this January
+
+date: 2025-01-11, updated: 2025-01-10, from: Polygon Website
+
+The new year has begun, and that means it’s time for a fresh batch of Netflix thrillers to fill your days. Every month, we handpick a few of the best thrillers on Netflix that fit the current season. Sometimes they pair well with an upcoming release. Other titles might be new additions to the platform. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/recommendations/506897/best-thriller-movies-netflix-watch-january-2025>
+
+---
+
+## How to sign up for the Elden Ring Nightreign network test
+
+date: 2025-01-11, updated: 2025-01-11, from: Polygon Website
+
+Elden Ring Nightreign, a cooperative roguelike Elden Ring spinoff, will be playable via a network test in February. You’ll experience a portion of what Nightreign has to offer, including a glimpse of its gameplay, classes, and progression — as long as you get selected to be a tester. Unfortunately, not everyone will be able to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/505147/network-test-beta-sign-up-dates-how-to>
 

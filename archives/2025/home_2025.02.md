@@ -1,11 +1,219 @@
 ---
 title: home
-updated: 2025-01-17 07:05:01
+updated: 2025-01-18 07:04:30
 ---
 
 # home
 
-(date: 2025-01-17 07:05:01)
+(date: 2025-01-18 07:04:30)
+
+---
+
+## Harbor House Inn Is An Agricultural Lovers Escape
+
+date: 2025-01-17, from: California Grown
+
+<p>Perched on the rugged Mendocino coastline, the Harbor House Inn in Elk, California, is a sanctuary where food, farming, and natural beauty converge. At the helm of its two-Michelin-starred restaurant is Chef Matthew Kammerer, whose deep respect for the land and ingredients drives an extraordinary dining experience rooted in California’s bounty.  Farmer Amy Smith oversees [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/harbor-house-inn/" data-wpel-link="internal" target="_self">Harbor House Inn Is An Agricultural Lovers Escape</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/harbor-house-inn/>
+
+---
+
+## Boonville Hotel and Restaurant Is A Delicious Slice of Anderson Valley
+
+date: 2025-01-17, from: California Grown
+
+<p>Tucked into the picturesque Anderson Valley, the Boonville Hotel and Restaurant celebrates Northern California’s agricultural bounty. Led by Executive Chef Partner Perry Hoffman, this culinary gem serves up a rotating menu of locally sourced dishes that make the most of the region&#8217;s seasonal produce.  The CA GROWN team recently visited the Boonville Hotel and Restaurant [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/boonville-hotel-and-restaurant/" data-wpel-link="internal" target="_self">Boonville Hotel and Restaurant Is A Delicious Slice of Anderson Valley</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/boonville-hotel-and-restaurant/>
+
+---
+
+## Domaine Anderson Winery Is Where Pedigree Meets Local Charm
+
+date: 2025-01-17, from: California Grown
+
+<p>Tucked into the heart of Mendocino County, Anderson Valley is one of California’s hidden wine gems, and Domaine Anderson captures the magic of this region beautifully. Its cool-climate vineyards and sustainable farming practices make it the perfect place for wine lovers to sip, savor, and soak in the valley’s rustic charm. Recently, the CA GROWN [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/domaine-anderson/" data-wpel-link="internal" target="_self">Domaine Anderson Winery Is Where Pedigree Meets Local Charm</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/domaine-anderson/>
+
+---
+
+## Spotting FEMA Scams: Protect Yourself and Your Family
+
+date: 2025-01-17, from: Family Handyman Blog
+
+<p>After a disaster, it's vital to get assistance as soon as possible. But there are several FEMA scams to watch out for. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/avoid-fema-scams/">Spotting FEMA Scams: Protect Yourself and Your Family</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/avoid-fema-scams/>
+
+---
+
+## Now Is the Time to Use Winter Citrus. Here Are Our Favorite Recipes
+
+date: 2025-01-17, from: Sunset Magazine - Living in the West
+
+It’s citrus season: Here's how to incorporate the fruits in your winter recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/winter-recipes-citrus>
+
+---
+
+## In South Africa, a Radically Reimagined A-Frame Asks $210K
+
+date: 2025-01-17, from: Dwell
+
+Designer Peter Steere took down the pitched roof and wrapped the home in metal cladding reminiscent of rural barns. 
+
+<br> 
+
+<https://www.dwell.com/article/a-frame-renovation-peter-steere-johannesburg-south-africa-real-estate-afb28d02>
+
+---
+
+## It’s Setting First, Structures Second at This Coastal Massachusetts Retreat
+
+date: 2025-01-17, from: Dwell
+
+A dharma teacher asked for his home and accompanying cottage to take back seat to a 72-acre parcel of pristine marshlands. 
+
+<br> 
+
+<https://www.dwell.com/article/makers-marsh-woodhull-spiritual-retreat-ab5a3521>
+
+---
+
+## How to Start Seeds Indoors: The Ultimate Guide + Seedling Care Tips
+
+date: 2025-01-17, from: Homestead and Chil
+
+<p>Come learn everything you need to know to feel confident starting seeds indoors, including the supplies, tips for timing, and step-by-step instructions - from how to sow seeds as well as care for growing seedlings.</p>
+<p>The post <a href="https://homesteadandchill.com/seed-starting-101/">How to Start Seeds Indoors: The Ultimate Guide + Seedling Care Tips</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/seed-starting-101/>
+
+---
+
+## Major Recall Issued for 300,000+ Faulty Smoke Alarms
+
+date: 2025-01-17, from: Family Handyman Blog
+
+<p>Thousands of smoke alarms are being recalled over a dangerous defect. Could your family be at risk? Learn more about the urgent recall...</p>
+<p>The post <a href="https://www.familyhandyman.com/article/samurai-mini-smoke-alarm-recall/">Major Recall Issued for 300,000+ Faulty Smoke Alarms</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/samurai-mini-smoke-alarm-recall/>
+
+---
+
+## How to Choose the Best Pots and Trays for Starting Seeds
+
+date: 2025-01-17, from: The Gardener's Path
+
+<p>Are you planning to start garden plants from seed? When it comes to choosing trays or pots, there are many different options: plastic, rubber, silicone, or biodegradable. And you can even make your own DIY pots. Learn more about the different types of pots and trays for starting seeds in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/pots-trays-start-seeds/">How to Choose the Best Pots and Trays for Starting Seeds</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/pots-trays-start-seeds/>
+
+---
+
+## You’re Probably Not Vacuuming Your Home Enough — An Expert Weighs In
+
+date: 2025-01-17, from: Family Handyman Blog
+
+<p>Not sure how often to vacuum? Find out the perfect schedule for a cleaner, healthier home without overdoing it!</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-often-should-you-vacuum/">You&#8217;re Probably Not Vacuuming Your Home Enough — An Expert Weighs In</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-often-should-you-vacuum/>
+
+---
+
+## Easy Ways to Incorporate Hardscape into Your Landscape
+
+date: 2025-01-17, from: Sunset Magazine - Living in the West
+
+Learn how to incorporate hardscape into your outdoor space with these five ideas. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/hardscape-ideas>
+
+---
+
+## Lessons in Fire-Safe Landscaping from a Garden Destroyed by Wildfires
+
+date: 2025-01-17, from: Sunset Magazine - Living in the West
+
+Landscape design stalwart SurfaceDesign resuscitated a modern garden almost destroyed by a wildfire. These are lessons in fire-resistant landscaping. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/fire-resistant-landscaping>
+
+---
+
+## This House Survived a Wildfire Because of Its Smart Design. Here’s How.
+
+date: 2025-01-17, from: Sunset Magazine - Living in the West
+
+A modern house in Sonoma Country narrowly escaped destruction by a record-breaking blaze, thanks to its eco-smart design and plenty of luck. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/fire-resistant-home-design>
+
+---
+
+## Support Wildfire Victims by Shopping Our Limited Edition ‘I Love You California’ Products
+
+date: 2025-01-17, from: Sunset Magazine - Living in the West
+
+Sunset is producing a limited line of apparel and accessories to raise funds for organizations having a meaningful impact on the L.A. fires recovery efforts. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/i-love-you-california-sunset-collection>
+
+---
+
+## 10 Incredible Grassroots Efforts Providing Fire Relief That You Need to Know About
+
+date: 2025-01-17, from: Sunset Magazine - Living in the West
+
+The Palisades and Eaton wildfires have ravaged SoCal. These community-led efforts offer services—and a ray of hope. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/la-wildfires-grassroots-organizations>
 
 ---
 
@@ -50,6 +258,18 @@ date: 2025-01-17, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/how-to-keep-squirrels-out-of-bird-feeder-15-effective-ways/>
+
+---
+
+## How to Safeguard Your Landscape After a Wildfire
+
+date: 2025-01-17, from: Sunset Magazine - Living in the West
+
+Expert tips to help you assess risks, clean up safely, and protect your harvest in the aftermath of a wildfire. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/how-to-clean-up-your-landscape-after-a-wildfire>
 
 ---
 
@@ -513,18 +733,6 @@ date: 2025-01-16, from: The Gardener's Path
 
 ---
 
-## How to Safeguard Your Landscape After a Wildfire
-
-date: 2025-01-16, from: Sunset Magazine - Living in the West
-
-Expert tips to help you assess risks, clean up safely, and protect your harvest in the aftermath of a wildfire. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/landscaping/how-to-clean-up-your-landscape-after-a-wildfire>
-
----
-
 ## See a Green Dot on Your Android Phone? Here’s What It Means
 
 date: 2025-01-16, from: Family Handyman Blog
@@ -536,18 +744,6 @@ date: 2025-01-16, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/green-dot-on-android-phone/>
-
----
-
-## Support Wildfire Victims by Shopping Our Limited Edition ‘I Love You California’ Products
-
-date: 2025-01-16, from: Sunset Magazine - Living in the West
-
-Sunset is producing a limited line of apparel and accessories to raise funds for organizations having a meaningful impact on the L.A. fires recovery efforts. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/i-love-you-california-sunset-collection>
 
 ---
 
@@ -1071,18 +1267,6 @@ Set at the foot of the Vosges mountains, the home is a certified historic monume
 
 ---
 
-## 10 Incredible Grassroots Efforts Providing Fire Relief That You Need to Know About
-
-date: 2025-01-14, from: Sunset Magazine - Living in the West
-
-The Palisades and Eaton wildfires have ravaged SoCal. These community-led efforts offer services—and a ray of hope. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/la-wildfires-grassroots-organizations>
-
----
-
 ## What We’re Watching Burn
 
 date: 2025-01-14, from: Dwell
@@ -1598,18 +1782,6 @@ A dark and outdated kitchen got a makeover that the designer describes as "Scand
 
 ---
 
-## This House Survived a Wildfire Because of Its Smart Design. Here’s How.
-
-date: 2025-01-13, from: Sunset Magazine - Living in the West
-
-A modern house in Sonoma Country narrowly escaped destruction by a record-breaking blaze, thanks to its eco-smart design and plenty of luck. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/fire-resistant-home-design>
-
----
-
 ## 20 Tips on How to Get Rid of Chipmunks Naturally Without Harm
 
 date: 2025-01-13, from: Yard Life blog
@@ -1689,4 +1861,28 @@ When a designer wanted a little space to relax with his family, he bought an old
 <br> 
 
 <https://www.dwell.com/article/the-sauna-float-boldt-studio-connecticut-scandivanian-sauna-culture-d4d5b314>
+
+---
+
+## 35 Quick and Easy Dinners You Can Make This Winter
+
+date: 2025-01-11, from: Sunset Magazine - Living in the West
+
+Quick dinner recipes for long winter nights. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/35-quick-and-easy-dinners-you-can-make-this-winter>
+
+---
+
+## Catastrophic Fires Are Ravaging Los Angeles. Here Is How to Stay Safe.
+
+date: 2025-01-11, from: Sunset Magazine - Living in the West
+
+The Palisades, Eaton, and other wildfires continue to grow throughout the city. Here's how to stay safe, and how to help out. 
+
+<br> 
+
+<https://www.sunset.com/travel/fires-los-angeles-palisades-eaton>
 
