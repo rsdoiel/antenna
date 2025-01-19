@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-01-19 07:04:58
+updated: 2025-01-19 11:51:57
 ---
 
 # games
 
-(date: 2025-01-19 07:04:58)
+(date: 2025-01-19 11:51:57)
+
+---
+
+## TikTok went dark in the U.S. — but it’s already coming back
+
+date: 2025-01-19, updated: 2025-01-19, from: Polygon Website
+
+TikTok is “in the process of restoring service” in the United States after shutting down for a large portion of Sunday. Late on Saturday night, the company voluntarily removed itself from Apple and Google’s app stores, leaving 170 million users without the ability to use or download TikTok to their devices. After going dark, anyone [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/511295/tiktok-shutdown-ban-why-cant-download-app>
+
+---
+
+## What time does Diablo 4 season 7 release?
+
+date: 2025-01-19, updated: 2025-01-17, from: Polygon Website
+
+Season 7 of Diablo 4, formally called the Season of Witchcraft, goes live this week — a welcome injection of hell’s heat to offset winter’s cold embrace. Season 7 is the first season to follow last year’s release of the Vessel of Hatred expansion, giving players something new to focus on now their DLC campaigns [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/diablo-4-guides/510409/season-7-release-time-date-est-pst-bst>
+
+---
+
+## Netflix revived and killed the interactive movie — but its platform is still a game
+
+date: 2025-01-19, updated: 2025-01-17, from: Polygon Website
+
+Game designer Sam Barlow deserves a lot of credit for driving the “redemption” of FMVs. The full-motion video game format was pioneered in the early ’90s as a cutting-edge visual technique in an age when computer graphics were more simplistic. But long before that, filmmakers were experimenting with ways to make films more interactive, in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/510794/sam-barlow-justin-mcelroy-netflix>
 
 ---
 
@@ -42,18 +78,6 @@ All focus was on TikTok in the last week, as the company prepared to — and eve
 <br> 
 
 <https://www.polygon.com/gaming/511299/marvel-snap-down-bytedance-tiktok-ban>
-
----
-
-## TikTok goes dark in the U.S.
-
-date: 2025-01-19, updated: 2025-01-19, from: Polygon Website
-
-TikTok is down for its 170 million users in the United States after the company voluntarily removed itself from Apple and Google’s app stores. Users can no longer download TikTok to their devices. Upon opening the app on Saturday night, those with the video-sharing app installed were met with a message saying “you can’t use [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/culture/511295/tiktok-shutdown-ban-why-cant-download-app>
 
 ---
 

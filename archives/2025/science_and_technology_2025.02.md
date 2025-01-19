@@ -1,11 +1,23 @@
 ---
 title: science and technology
-updated: 2025-01-19 07:04:57
+updated: 2025-01-19 11:51:56
 ---
 
 # science and technology
 
-(date: 2025-01-19 07:04:57)
+(date: 2025-01-19 11:51:56)
+
+---
+
+## OpenAI's ChatGPT crawler can be tricked into DDoSing sites, answering your queries
+
+date: 2025-01-19, updated: 2025-01-19, from: The Register (UK I.T. News)
+
+<h4>The S in LLM stands for Security</h4> <p>OpenAI&#39;s ChatGPT crawler appears to be willing to initiate distributed denial of service (DDoS) attacks on arbitrary websites, a reported vulnerability the tech giant has yet to acknowledge.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/19/openais_chatgpt_crawler_vulnerability/>
 
 ---
 

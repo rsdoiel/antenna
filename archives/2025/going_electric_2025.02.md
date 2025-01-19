@@ -1,11 +1,55 @@
 ---
 title: going electric
-updated: 2025-01-19 07:05:00
+updated: 2025-01-19 11:51:59
 ---
 
 # going electric
 
-(date: 2025-01-19 07:05:00)
+(date: 2025-01-19 11:51:59)
+
+---
+
+## Go West, young brand – GreenPower Motor Company sells 11 more BEAST buses
+
+date: 2025-01-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/GreenPower-Beast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>GreenPower Motor Company says it’s received three orders for 11 of its BEAST electric Type D school buses for western state school districts in Arizona, California, and Oregon.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-school-buses,greenpower-motor-company" data-layer-viewtype="unknown" data-post-id="398354" href="https://electrek.co/2025/01/19/go-west-young-brand-greenpower-motor-company-sells-11-more-beast-buses/#more-398354" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/19/go-west-young-brand-greenpower-motor-company-sells-11-more-beast-buses/>
+
+---
+
+## Harbinger electric truck brand gets real with $100M Series B funding raise
+
+date: 2025-01-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/harbinger-new-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>While some recent high-profile bankruptcies have cast doubt on the EV startup space recently, medium-duty electric truck maker Harbinger got a shot of credibility this week with a massive $100 million Series B funding round co-led by Capricorn’s Technology Impact Fund.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="business,commercial-evs,harbinger-motors" data-layer-viewtype="unknown" data-post-id="398343" href="https://electrek.co/2025/01/19/harbinger-electric-truck-brand-gets-real-with-100m-series-b-funding-raise/#more-398343" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/19/harbinger-electric-truck-brand-gets-real-with-100m-series-b-funding-raise/>
+
+---
+
+## A Volkswagen ID.7 Drove 585 Miles On One Charge. But There’s A Catch
+
+date: 2025-01-19, from: Inside EVs News
+
+During the efficiency test, the ID.7 Pro S had a remarkably low average electricity consumption of 6.75 miles/kWh.  
+
+<br> 
+
+<https://insideevs.com/news/747803/volkswagen-id7-nardo-range-record/>
 
 ---
 

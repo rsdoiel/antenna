@@ -1,11 +1,24 @@
 ---
 title: pacific
-updated: 2025-01-19 07:04:57
+updated: 2025-01-19 11:51:56
 ---
 
 # pacific
 
-(date: 2025-01-19 07:04:57)
+(date: 2025-01-19 11:51:56)
+
+---
+
+## UH next-gen AI work collaboration tool used by Red One
+
+date: 2025-01-19, from: University of Hawaiʻi News
+
+<p>The free open-source software enables teams to collaborate seamlessly across devices while integrating <abbr>AI</abbr> capabilities.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/19/sage3-work-collaboration-tool/"><abbr>UH</abbr> next-gen <abbr>AI</abbr> work collaboration tool used by <em>Red One</em></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/19/sage3-work-collaboration-tool/>
 
 ---
 

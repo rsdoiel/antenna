@@ -1,11 +1,24 @@
 ---
 title: journalism
-updated: 2025-01-19 07:04:59
+updated: 2025-01-19 11:51:58
 ---
 
 # journalism
 
-(date: 2025-01-19 07:04:59)
+(date: 2025-01-19 11:51:58)
+
+---
+
+## Winner Takes All: The boldest, most creative runway collections of winter, fall fashion
+
+date: 2025-01-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+As the fall/winter 2024-25 fashion season reaches its dramatic crescendo, the industry reflects on a season of bold visions and fierce creativity.
+With the runways now behind us and the year drawn to a close, a captivating array of collections have emerged, each staking its claim for dominance. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/19/winner-takes-all-the-boldest-most-creative-runway-collections-of-winter-fall-fashion/>
 
 ---
 

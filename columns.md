@@ -1,11 +1,34 @@
 ---
 title: columns
-updated: 2025-01-19 07:04:58
+updated: 2025-01-19 11:51:57
 ---
 
 # columns
 
-(date: 2025-01-19 07:04:58)
+(date: 2025-01-19 11:51:57)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-19, from: Dave Winer's Scripting News)
+
+<a href="https://www.goodreads.com/quotes/445621-when-you-re-a-carpenter-making-a-beautiful-chest-of-drawers">Steve Jobs</a>: “When you’re a carpenter making a beautiful chest of drawers, you’re not going to use a piece of plywood on the back, even though it faces the wall and nobody will ever see it. You’ll know it’s there, so you’re going to use a beautiful piece of wood on the back. For you to sleep well at night, the aesthetic, the quality, has to be carried all the way through.”
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/19.html#a180143>
+
+---
+
+## The Blame Game
+
+date: 2025-01-19, from: Doc Searls (at Harvard), New Old Blog
+
+Twenty-third in the News Commons series Disaster coverage tends to go through four stages: Live reporting. TV stations stop all advertising and go into round-the-clock coverage. Radio stations drop the feeds from elsewhere and go wall-to-wall with live reports. Newspapers drop their paywall. Coverage by the best of them ranges from good to heroic. As [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/01/19/the-blame-game/>
 
 ---
 
@@ -113,7 +136,7 @@ date: 2025-01-18, updated: 2025-01-18, from: Daring Fireball
 
 **@Dave Winer's Scripting News** (date: 2025-01-18, from: Dave Winer's Scripting News)
 
-<div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/01/18/useWordland.png"></center><img class="imgRightMargin" src="https://imgs.scripting.com/2025/01/18/useWordland.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Use WordLand to write a "program review" for Bingeworthy 3?</div> 
+<div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/01/18/useWordland.png"></center>Use WordLand to write a "program review" for Bingeworthy 3?</div> 
 
 <br> 
 
@@ -201,7 +224,7 @@ date: 2025-01-18, from: Heather Cox Richardson blog
 
 ## ★ Nokia’s Next-Day Internal Competitive Analysis of the Original iPhone Largely Got It Right
 
-date: 2025-01-18, updated: 2025-01-18, from: Daring Fireball
+date: 2025-01-18, updated: 2025-01-19, from: Daring Fireball
 
 To the credit of the team that put this presentation together, they mostly got it. 
 

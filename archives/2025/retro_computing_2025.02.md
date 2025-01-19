@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-01-19 07:05:00
+updated: 2025-01-19 11:51:59
 ---
 
 # retro computing
 
-(date: 2025-01-19 07:05:00)
+(date: 2025-01-19 11:51:59)
+
+---
+
+## b.log 2025/01/19 - Entitled employers, Bronze linguine, Lidl Grater, Billions of stars, Kitty mess, Vending machine key.
+
+date: 2025-01-19, from: Richard Murray's blog
+
+Entitled employers, Bronze linguine, Lidl Grater, Billions of stars, Kitty mess, Vending machine key. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250119>
+
+---
+
+## FDISK 1.4.3
+
+date: 2025-01-19, from: FreeDOS News
+
+<div class="markdown_content"><p>Bernd has been working hard to update FreeDOS FDISK before the FreeDOS 1.4. RC2 distribution in a few weeks. Bernd just released FDISK 1.4.3 that fixes a display bug when showing driver "letters" beyond Z. See the <a class="" href="https://github.com/FDOS/fdisk/blob/v1.4.0/doc/fdisk/CHANGES.md" rel="nofollow">change log</a> for a full list of what's included. <em>Please test with this version if you already downloaded an earlier FDISK.</em>  Get the new release from <a class="" href="https://github.com/FDOS/fdisk/releases/tag/v1.4.3" rel="nofollow">FDISK at GitHub</a>. </p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/01/fdisk-143/>
 
 ---
 
@@ -504,7 +528,7 @@ God says Hi.
 
 date: 2025-01-15, from: FreeDOS News
 
-<div class="markdown_content"><p>Bernd has released FreeDOS FDISK 1.4.2 with several important fixes. See the <a class="" href="https://github.com/FDOS/fdisk/blob/v1.4.0/doc/fdisk/CHANGES.md" rel="nofollow">change log</a> for a full list of what's changed. Highlights include: Prevent FDISK from accessing and modifying partitions with more than 23 logicals defined, fix bootloader trying to boot from an active partition not containing a valid volume boot record, and only complain about an unusable extended partition if there is any defined (not when there is no extended at all). <em>Please update to this version if you already downloaded FDISK 1.4.0.</em> Get the new release from <a class="" href="https://github.com/FDOS/fdisk/releases/tag/v1.4.2" rel="nofollow">FDISK at GitHub</a>. </p>
+<div class="markdown_content"><p>Bernd has released FreeDOS FDISK 1.4.2 with several important fixes. See the <a class="" href="https://github.com/FDOS/fdisk/blob/v1.4.0/doc/fdisk/CHANGES.md" rel="nofollow">change log</a> for a full list of what's changed. Highlights include: Prevent FDISK from accessing and modifying partitions with more than 23 logicals defined, fix bootloader trying to boot from an active partition not containing a valid volume boot record, and only complain about an unusable extended partition if there is any defined (not when there is no extended at all). Get the new release from <a class="" href="https://github.com/FDOS/fdisk/releases/tag/v1.4.2" rel="nofollow">FDISK at GitHub</a>. </p>
 <p><em>Here's the announcement about version 1.4.0, from a few days ago:</em> Bernd released FDISK version 1.4.0 with many important fixes. See the <a class="" href="https://github.com/FDOS/fdisk/blob/v1.4.0/doc/fdisk/CHANGES.md" rel="nofollow">change log</a> for a full list, including: fixes related to logical partitions, fixes that prevent the user from accidentally deleting the wrong partition, fixes related to many logical partitions or multiple disks, and some command line changes. Download the new version from <a class="" href="https://github.com/FDOS/fdisk/releases/tag/v1.4.0" rel="nofollow">FDISK on GitHub</a>.</p></div> 
 
 <br> 
