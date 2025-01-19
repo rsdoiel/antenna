@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-01-18 10:23:30
+updated: 2025-01-19 07:05:01
 ---
 
 # craft
 
-(date: 2025-01-18 10:23:30)
+(date: 2025-01-19 07:05:01)
+
+---
+
+## Storefront In-person Sales on Pause for a Few Weeks
+
+date: 2025-01-18, from: Lost Arg Press blog
+
+Our new storefront was supposed to be open by Jan. 1, but it’s still not done because we are waiting on the cabinetry that was supposed to arrive before Christmas. We are not gritching. Delays happen. But until we can get the new storefront at 407 Madison Ave. up and running, we have to suspend... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/01/17/storefront-in-person-sales-on-pause-for-a-few-weeks/>
 
 ---
 

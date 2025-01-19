@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2025-01-18 10:23:25
+updated: 2025-01-19 07:04:57
 ---
 
 # science and technology
 
-(date: 2025-01-18 10:23:25)
+(date: 2025-01-19 07:04:57)
+
+---
+
+## On This Day in 1993, Production Began on This Groundbreaking Movie That Transformed Hollywood Forever
+
+date: 2025-01-19, from: Smithsonian Magazine
+
+With “Toy Story,” computer animation began its rise to dominance 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/on-this-day-in-1993-production-began-on-this-groundbreaking-movie-that-transformed-hollywood-forever-180985852/>
+
+---
+
+## MorphOS 3.19 released
+
+date: 2025-01-18, from: OS News
+
+It&#8217;s been about 18 months, but we&#8217;ve got a new release for MorphOS, the Amiga-like operating system for PowerPC Macs and some other PowerPC-based machines. Going through the list of changes, it seems MorphOS 3.19 focuses heavily on fixing bugs and addressing issues, rather than major new features or earth-shattering changes. Of note are several small but important updates, like updated versions of OpenSSL and OpenSSH, as well as a ton of new filetype definitions &#8211; and so much more. Having a release focused on fixing bugs and addressing smaller issues isn&#8217;t exactly a bad thing though &#8211; I&#8217;ve used MorphOS on my 17&#8243; 1.25Ghz PowerBook G4 often enough to know MorphOS is quite complete, stable, and a ton of fun to use, and much more capable than it has any right to be considering what must be its relatively small developer team and user base. That being said, I do wish MorphOS was available on hardware newer than 20 year old PowerPC Macs, because as much as I like me some classic hardware, the world&#8217;s moving on and even basic web browsing requires much more performant hardware now. Maybe I should try and buy one of the supported Apple PowerPC G5 machines to see just how much better MorphOS runs on that than on my G4. 
+
+<br> 
+
+<https://www.osnews.com/story/141578/morphos-3-19-released/>
+
+---
+
+## Google begins requiring JavaScript for Google Search
+
+date: 2025-01-18, from: OS News
+
+Google says it has begun requiring users to turn on JavaScript, the widely used programming language to make web pages interactive, in order to use Google Search. In an email to TechCrunch, a company spokesperson claimed that the change is intended to “better protect” Google Search against malicious activity, such as bots and spam, and to improve the overall Google Search experience for users. The spokesperson noted that, without JavaScript, many Google Search features won’t work properly and that the quality of search results tends to be degraded. ↫ Kyle Wiggers at TechCrunch One of the strangely odd compliments you could give Google Search is that it would load even on the weirdest or oldest browsers, simply because it didn&#8217;t require JavaScript. Whether I loaded Google Search in the JS-less Dillo, Blazer on PalmOS, or the latest Firefox, I&#8217;d end up with a search box I could type something into and search. Sure, beyond that the web would be, shall we say, problematic, but at least Google Search worked. With this move, Google will end such compatibility, which was most likely a side effect more than policy. I know a lot of people lament the widespread reliance on and requirement to have JavaScript, and it surely can be and is abused, but it&#8217;s also the reality of people asking more and more of their tools on the web. I would love it websites gracefully degraded on browsers without JavaScript, but that&#8217;s simply not a realistic thing to expect, sadly. JavaScript is part of the web now &#8211; and has been for a long time &#8211; and every website using or requiring JavaScript makes the web no more or less &#8220;open&#8221; than the web requiring any of the other myriad of technologies, like more recent versions of TLS. Nobody is stopping anyone from implementing support for JS. I&#8217;m not a proponent of JavaScript or anything like that &#8211; in fact, I&#8217;m annoyed I can&#8217;t load our WordPress backend in browsers that don&#8217;t have it, but I&#8217;m just as annoyed that I can&#8217;t load websites on older machines just because they don&#8217;t have later versions of TLS. Technology &#8220;progresses&#8221;, and as long as the technologies being regarded as &#8220;progress&#8221; are not closed or encumbered by patents, I can be annoyed by it, but I can&#8217;t exactly be against it. The idea that it&#8217;s JavaScript making the web bad and not shit web developers and shit managers and shit corporations sure is one hell of a take. 
+
+<br> 
+
+<https://www.osnews.com/story/141570/google-begins-requiring-javascript-for-google-search/>
+
+---
+
+## Dillo 3.2.0 released
+
+date: 2025-01-18, from: OS News
+
+We&#8217;ve got a new Dillo release for you this weekend! We added SVG support for math formulas and other simple SVG images by patching the nanosvg library. This is specially relevant for Wikipedia math articles. We also added optional support for WebP images via libwebp. You can use the new option ignore_image_formats to ignore image formats that you may not trust (libwebp had some CVEs recently). ↫ Dillo website This release also comes with some UI tweaks, like the ability to move the scrollbar to the left, use the scrollbar to go back and forward exactly one page, the ability to define custom link actions in the context menu, and more &#8211; including the usual bug fixes, of course. Once the pkgsrc bug on HP-UX I discovered and reported is fixed, Dillo is one of the first slightly more complex packages I intend to try and build on HP-UX 11.11. 
+
+<br> 
+
+<https://www.osnews.com/story/141567/dillo-3-2-0-released/>
+
+---
+
+## Windows Insiders can now turn on Administrator Protection from settings
+
+date: 2025-01-18, updated: 2025-01-18, from: The Register (UK I.T. News)
+
+<h4>Security feature widens out to more Windows 11 users, including those at home</h4> <p>Microsoft is trying a new way of enabling Administrator Protection in Windows 11. The latest Windows Insider Canary build adds a setting that removes the requirement for IT admins to activate the feature.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/18/windows_insider_administrator_protection/>
+
+---
+
+## Got a telescope? Bid farewell to ESA's retiring Milky Way mapper
+
+date: 2025-01-18, updated: 2025-01-18, from: The Register (UK I.T. News)
+
+<h4>Gaia makes its final science observation</h4> <p>The European Space Agency&#39;s (ESA) Milky Way mapper Gaia has completed the sky-scanning phase of its mission, racking up more than three trillion observations over the past decade.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/18/esa_gaia_mapping/>
+
+---
+
+## The Ridiculous Reason Why the U.S. Enacted a Wartime Ban on Sliced Bread Sales—and Why It Didn't Last Long
+
+date: 2025-01-18, from: Smithsonian Magazine
+
+Designed to keep prices low and conserve wax paper, the ban, enacted on this day in 1943, only succeeded in making Americans furious 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-ridiculous-reason-why-the-us-enacted-a-wartime-ban-on-sliced-bread-salesand-why-it-didnt-last-long-180985834/>
+
+---
+
+## How Windows got to version 3 – an illustrated history
+
+date: 2025-01-18, updated: 2025-01-18, from: The Register (UK I.T. News)
+
+<h4>With added manga and snark. What&#39;s not to like?</h4> <p><strong>Opinion</strong>  Windows 1 and 2 flopped almost as badly as OS/2 did. How did Microsoft stage one of the greatest comebacks ever with Windows 3?…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/18/how_windows_got_to_v3/>
+
+---
+
+## CISA: Wow, that election had a lot of foreign trolling. Trump's Homeland Sec pick: And that's none of your concern
+
+date: 2025-01-18, updated: 2025-01-19, from: The Register (UK I.T. News)
+
+<h4>Cyber agency too &#39;far off mission,&#39; says incoming boss Kristi Noem</h4> <p>America&#39;s lead cybersecurity agency on Friday made one final scream into the impending truth void about election security and the role CISA plays in maintaining it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/18/cisa_election_security_isnt_political/>
+
+---
+
+## Hands-on graphics without X11 using NetBSD’s wscons
+
+date: 2025-01-18, from: OS News
+
+Now, if you have been following the development of EndBASIC, this is not surprising. The defining characteristic of the EndBASIC console is that it’s hybrid as the video shows. What’s newsworthy, however, is that the EndBASIC console can now run directly on a framebuffer exposed by the kernel. No X11 nor Wayland in the picture (pun intended). But how? The answer lies in NetBSD’s flexible wscons framework, and this article dives into what it takes to render graphics on a standard Unix system. I’ve found this exercise exciting because, in the old days, graphics were trivial (mode 13h, anyone?) and, for many years now, computers use framebuffer-backed textual consoles. The kernel is obviously rendering “graphics” by drawing individual letters; so why can’t you, a user of the system, do so too? ↫ Julio Merino This opens up a lot of interesting use cases and fun hacks for developers to implement in their CLI applications. All the code in the article is &#8211; as usual &#8211; way over my head, but will be trivial for quite a few of you. The mentioned EndBASIC project, created by the author, Julio Merino, is fascinating too: EndBASIC is an interpreter for a BASIC-like language and is inspired by Amstrad&#8217;s Locomotive BASIC 1.1 and Microsoft&#8217;s QuickBASIC 4.5. Like the former, EndBASIC intends to provide an interactive environment that seamlessly merges coding with immediate visual feedback. Like the latter, EndBASIC offers higher-level programming constructs and strong typing. EndBASIC&#8217;s primary goal is to offer a simplified and restricted DOS-like environment to learn the foundations of programming and computing, and focuses on features that quickly reward the learner. These include a built-in text editor, commands to manipulate the screen, commands to interact with shared files, and even commands to interact with the hardware of a Raspberry Pi. ↫ EndBASIC website Being able to run this on a machine without having to load either X or Wayland is a huge boon, and makes it accessible fast on quite a lot of hardware on which a full X or Wayland setup would be cumbersome or slow. 
+
+<br> 
+
+<https://www.osnews.com/story/141565/hands-on-graphics-without-x11-using-netbsds-wscons/>
+
+---
+
+## Microsoft adds “AI” to Microsoft 365 and raises prices to pay for it
+
+date: 2025-01-18, from: OS News
+
+Up until now, if you were subscribed to Office 365 &#8211; I think it&#8217;s called Microsoft 365 now &#8211; and you wanted the various &#8220;AI&#8221; Copilot features, you needed to pay $20 extra. Well, that&#8217;s changing, as Microsoft is now adding these features to Microsoft 365 by default, while raising the prices for every subscriber by $3 per month. It seems not enough people were interested in paying $20 per month extra for &#8220;AI&#8221; features in Office, so Microsoft has to force everyone to pay up. It&#8217;s important to note, though, that your usage of the features is limited by how many &#8220;AI credits&#8221; you have, to really nail that slot machine user experience, and you&#8217;re only getting a limited number of those per month. Luckily, existing Microsoft 365 subscribers can opt out of these new features and thus avoid the price increase, which is a genuinely welcome move by Microsoft. New subscribers, however, will not be able to opt out. Finally, we understand that our customers have a variety of needs and budgets, so we’re committed to providing options. Existing subscribers with recurring billing enabled with Microsoft can switch to plans without Copilot or AI credits like our Basic plan, or, for a limited time, to new Personal Classic or Family Classic plans. These plans will continue to be maintained as they exist today, but for certain new innovations and features you’ll need a Microsoft 365 Personal and Family subscription. ↫ Bryan Rognier at the Microsoft blog Microsoft wants to spread the immense cost of running datacentres for &#8220;AI&#8221; to everyone, whether you want to use these features or not. When not enough people want to opt into &#8220;AI&#8221; and pay extra, the only other option is to just make everyone pay, whether they want to or not. Still, the opt-out for existing subscribers is nice, and if you are one and don&#8217;t want to pay $35 per year extra, don&#8217;t forget to opt out. 
+
+<br> 
+
+<https://www.osnews.com/story/141563/microsoft-adds-ai-to-microsoft-364-and-raises-prices-to-pay-for-it/>
+
+---
+
+## Venture: cross-platform GUI tool for parsing and analyzing Windows event logs
+
+date: 2025-01-18, from: OS News
+
+Venture is a cross-platform viewer for Windows Event Logs (.evtx files). Built with the Tauri, it is intended as a fast, standalone tool for quickly parsing and slicing Windows Event Log files during incident response, digital forensics, and CTF competitions. ↫ Venture GitHub page Neat tool. It makes sense that it would be possible to build third-party viewers for Windows event logs, but I never stopped to think about it and just defaulted to the one built into Windows. 
+
+<br> 
+
+<https://www.osnews.com/story/141560/venture-cross-platform-gui-tool-for-parsing-and-analyzing-windows-event-logs/>
 
 ---
 
@@ -2490,64 +2634,4 @@ Berry Gordy’s record label used the ‘sound of young America’ to bring peop
 <br> 
 
 <https://www.smithsonianmag.com/smart-news/motown-records-founded-on-this-day-in-1959-broke-racial-barriers-in-pop-music-with-its-beloved-hits-180985803/>
-
----
-
-## Is it really the plan to take over Greenland and the Panama Canal? It's been a weird week
-
-date: 2025-01-11, updated: 2025-01-13, from: The Register (UK I.T. News)
-
-<h4>Meanwhile, tech titans are falling over themselves to help Trump</h4> <p><strong>Opinion</strong>  We all know the US&#39;s incoming president, Donald Trump, has gone off-script in a way that is almost comical. Gulf of America? Make Greenland great again? Taking over the Panama Canal?…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/01/11/opinion_column_us_moves/>
-
----
-
-## Bringing SerenityOS to real hardware, one driver at a time
-
-date: 2025-01-11, from: OS News
-
-Many moons ago, around the time when Andreas formally resigned from being Serenity&#8217;s BDFL, I decided that I want to get involved in the project more seriously. Looking at it from a perspective of &#8220;what do I not like about this (codebase)&#8221;, the first thing that came to mind was that it runs HERE points at QEMU and not THERE points at real hardware. Obvious oversight, let&#8217;s fix it. ↫ sdomi There&#8217;s no way for me to summarise this cursed saga, so just follow the lovely link and read it. It&#8217;s a meandering story of complexity, but eventually, a corrupted graphical session appeared. Now the real work starts. 
-
-<br> 
-
-<https://www.osnews.com/story/141518/bringing-serenityos-to-real-hardware-one-driver-at-a-time/>
-
----
-
-## Google launches Chromium development fund to ward off antitrust concerns
-
-date: 2025-01-11, from: OS News
-
-Don&#8217;t you just love it when companies get together under the thin guise of open source to promote their own interests? Today Google is pleased to announce our partnership with The Linux Foundation and the launch of the Supporters of Chromium-based Browsers. The goal of this initiative is to foster a sustainable environment of open-source contributions towards the health of the Chromium ecosystem and financially support a community of developers who want to contribute to the project, encouraging widespread support and continued technological progress for Chromium embedders. The Supporters of Chromium-based Browsers fund will be managed by the Linux Foundation, following their long established practices for open governance, prioritizing transparency, inclusivity, and community-driven development. We’re thrilled to have Meta, Microsoft, and Opera on-board as the initial members to pledge their support. ↫ Shruthi Sreekanta on the Chromium blog First, there&#8217;s absolutely no way around the fact that this entire effort is designed to counter some of the antitrust actions against Google, including a possible forced divestment of Chrome. By setting up an additional fund atop the Chromium organisation, placed under the management of the Linux Foundation, Google creates the veneer of more independence for Chromium than their really is. In reality, however, Chromium is very much a Google-led project, with 94% of code contributions coming from Google, and with the Linux Foundation being very much a corporate affair, of which Google itself is a member, one has to wonder just how much it means that the Linux Foundation is managing this new fund. Second, the initial members of this fund don&#8217;t exactly instill confidence in the fund&#8217;s morals and values. We&#8217;ve got Google, the largest online advertising company in the world. Then there&#8217;s Facebook, another major online advertising company, followed by Microsoft, which, among other business ventures, is also a major online advertising company. Lastly we have Opera, an NFT and cryptoscammer making money through predatory loans in poor countries. It&#8217;s a veritable who&#8217;s who of some of the companies you least want near anything related to your browsing experience. I highly doubt a transparent effort like this is going to dissuade any judge or antritrust regulator from backing down. It&#8217;s clear this fund is entirely self-serving and designed almost exclusively for optics, with an obvious bias towards online advertising companies who want to make the internet worse than towards companies and people trying to make the internet better. 
-
-<br> 
-
-<https://www.osnews.com/story/141516/google-launches-chromium-development-fund-to-ward-off-antitrust-concerns/>
-
----
-
-## When the U.S. Surgeon General Shocked Americans by Announcing That Smoking Kills
-
-date: 2025-01-11, from: Smithsonian Magazine
-
-The 1964 disclosure marked the first time many smokers had heard about the health dangers of tobacco 
-
-<br> 
-
-<https://www.smithsonianmag.com/smart-news/when-the-us-surgeon-general-shocked-americans-by-announcing-that-smoking-kills-180985726/>
-
----
-
-## Celebrating when EVs went to the Moon with a Lego Lunar Roving Vehicle build
-
-date: 2025-01-11, updated: 2025-01-11, from: The Register (UK I.T. News)
-
-<h4>Even better use for the Technic range than the Mars Rover – with one big caveat</h4> <p>The original Apollo Lunar Roving Vehicle had the look of something that had been strung together from an oversized Meccano set. It should, therefore, not come as a surprise to find a LEGO variant built from the company&#39;s Technic pieces.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/01/11/lego_lunar_roving_vehicle/>
 

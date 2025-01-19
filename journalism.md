@@ -1,11 +1,153 @@
 ---
 title: journalism
-updated: 2025-01-18 10:23:27
+updated: 2025-01-19 07:04:59
 ---
 
 # journalism
 
-(date: 2025-01-18 10:23:27)
+(date: 2025-01-19 07:04:59)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-19, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Palisades fire, which is closest to UCLA, has spread to 23,713 acres and is 49% contained, according to the Cal Fire website. Some areas previously under evacuation order because of the fire are now allowing people back in, according to an email from Unified LA. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/18/478552/>
+
+---
+
+## Theater preview: Winter productions bring laughs, magic to Los Angeles stages
+
+date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+From timeless chilling classics to fresh premieres, this winter’s theater season invites audiences to rediscover the magic of live performance.
+Ranging from reimagined fairytales and comedy tours to Pulitzer Prize-winning revivals, these seasonal shows offer something for every theatergoer to enjoy. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/18/theater-preview-winter-productions-bring-laughs-magic-to-los-angeles-stages/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Throughout the fires across Los Angeles County, residents have tried to stay up to date with evacuation warnings and orders using a variety of apps and services. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/18/478519/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Two fires continue to burn across Los Angeles County.
+The Palisades fire, the closest to UCLA, has spread to 23,717 acres and is 43% contained, according to the Cal Fire website. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/18/478511/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Hammer Museum will reopen Saturday after evacuation warnings bordering the UCLA campus were lifted, according to a post on the museum Instagram.
+UCLA students will return to in-person classes Tuesday, UCLA Chancellor Julio Frenk said in a Thursday campuswide email. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/478509/>
+
+---
+
+## LA residents seek emergency notifications, apps to remain alert during wildfires
+
+date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Whether through emergency notifications or online maps, Angelenos stayed alert as fires began to spread across Los Angeles County.&#160;
+The first fire began in Pacific Palisades on Jan. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/la-residents-seek-emergency-notifications-apps-to-remain-alert-during-wildfires/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 10:10 p.m., the Palisades fire – which is the fire closest to UCLA – is now 39% contained, according to Cal Fire. The second-largest fire, which began in Altadena/Pasadena, is now 65% contained, per Cal Fire. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/478504/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Los Angeles Mayor Karen Bass has appointed Steve Soboroff to superintend the city&#8217;s recovery from fires that have swept Los Angeles County, according to a press release from Unified L.A. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/478502/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Palisades fire is now 39% contained and has burned 23,713 acres, according to Cal Fire. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/478496/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 5:45 p.m., UCLA&#8217;s campus status has returned to &#8220;open,&#8221; according to the Bruins Safe Online website.
+(Daily Bruin file photo) 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/478470/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Katy Yaroslavsky, the District 5 Los Angeles City Council member, said in an email that all evacuation warnings in City Council District 5 have been lifted. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/478468/>
+
+---
+
+## Film review: ‘Wolf Man’ fails to capture audiences with predictability, monotonous characters
+
+date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the darkness of night, one should take care to avoid the “Wolf Man.”
+Director and co-writer Leigh Whannell’s horrifying creation leapt onto screens Friday, occupying a January dump month release slot with his second remake of a classic horror franchise. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/film-review-wolf-man-fails-to-capture-audiences-with-predictability-monotonous-characters/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 5 p.m., UCLA’s emergency status has expired. The campus will now pivot to &#8220;modified operations.&#8221; 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/478460/>
 
 ---
 
@@ -1611,206 +1753,4 @@ Laurence Lavelle announced in a Thursday classwide email that he lost his home, 
 <br> 
 
 <https://dailybruin.com/2025/01/11/students-show-support-for-ucla-professor-who-loses-home-to-los-angeles-fires/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper))
-
-Administrative Vice Chancellor Michael Beck and Vice Chancellor of Student Affairs Monroe Gorden Jr. sent an email to the UCLA students reminding Bruins to &#8220;remain vigilant and ready to evacuate.&#8221; The email highlighted evacuation plans for if an evacuation order for Bruins on the UCLA campus were to be issued, asking Bruins to get their essential belongings ready. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/477447/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper))
-
-A petition on change.org calling for UCLA to move to remote instruction until Jan. 19 has gained over 1,600 signatures as of 10:45 p.m. Friday. The petition also calls for the decision to be communicated promptly so students can arrange safe travel. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/477442/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper))
-
-UCLA staff are directing traffic on the Hill and near university apartments as people continue to leave campus. Traffic on the Hill appears mostly calm.
-As of 10:18 p.m., there is no evacuation warning or notice for the UCLA campus. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/477437/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper))
-
-Multiple fires remain active across Los Angeles County.
-The Palisades fire, which is closest to UCLA and began Tuesday morning, currently has a size of over 21,000 acres, according to the Cal Fire website. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/477435/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper))
-
-Every member of the 15-person Undergraduate Students Association Council has signed onto a letter asking the UCLA Academic Senate to mandate virtual instruction throughout week 2. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/477422/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper))
-
-Police officers are blocking the southbound exit on interstate-405 at Sunset Boulevard. Areas adjacent to Sunset Boulevard are currently under evacuation order, though there are no evacuation warnings or orders for UCLA as of 9:29 p.m. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/477420/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper))
-
-The Los Angeles County Department of Public Health has declared the significant wildfires in LA County a local health emergency. The declaration was signed by the county health officer, Dr. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/477418/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper))
-
-Evacuees from the Palisades fire can now attend emergency shelters at the Lanark Recreation Center, Stoner Recreation Center, Van Nuys/Sherman Oaks Recreation Center and Westwood Recreation Center, Los Angeles Mayor Karen Bass said in a 8:47 p.m. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/477414/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper))
-
-According to UCLA&#8217;s air quality website, campus&#8217; air quality index currently has a &#8220;moderate&#8221; score of 61, falling from its peak of 141 earlier today. However, Yifang Zhu, a professor of environmental health sciences, said that even a &#8220;healthy&#8221; air quality index does not necessarily mean outdoor conditions are safe. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/477411/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper))
-
-As the evacuation zones get increasingly close to campus, many of the students who remain on the Hill are leaving. Ash is falling from the sky, leaving a thick coating on car hoods and walkways. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/477409/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper))
-
-The air quality at UCLA is currently listed as &#8220;moderate&#8221; as of 7 p.m., according to the UCLA Air Quality website. Students earlier reported seeing large ash particles on campus.&#160;
-Although evacuation warnings have been issued adjacent to campus, there is currently no warning or order in place for the campus itself as of 8:32 p.m. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/477405/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper))
-
-A BruinAlert sent at 8:17 p.m. said students should stay &#8220;ready to evacuate&#8221; after an evacuation warning was issued adjacent to campus.
-<strong>[Related: New evacuation warning for Palisades fire borders UCLA campus]</strong> 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/477399/>
-
----
-
-## New evacuation warning for Palisades fire borders UCLA campus
-
-date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Jan. 10 at 8:24 p.m.</em>
-An evacuation warning for the Palisades fire is now bordering UCLA’s campus.
-Around 7:20 p.m., the city of Los Angeles issued a new evacuation warning to residents reaching the corner of Sunset Boulevard and Veteran Avenue – an intersection that directly borders the UCLA campus. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/new-evacuation-warning-for-palisades-fire-borders-ucla-campus/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper))
-
-Evacuation warnings are now in place adjacent to the UCLA campus, according to the Watch Duty App. Students living on campus should look for warnings issued to LOS-Q0849, the zone that covers the campus. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/477390/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper))
-
-The UCLA Air Quality website is currently unavailable, with the most recent measurement from around 6 p.m. indicating that air quality on campus is &#8220;good.&#8221; Ash has begun to accumulate on some surfaces on the Hill, and some students reported being able to see large particles of ash falling from the sky. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/477388/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper))
-
-In a 7:40 p.m. email, Los Angeles City Councilmember Katie Yaroslavsky said evacuation warnings have been given for parts of Bel-Air to the east of the 405 freeway. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/477379/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper))
-
-The entire area West of the 405 Freeway between Sunset Boulevard and Mulholland Drive has been given an order to evacuate, according to the Watch Duty app. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/477373/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-11, from: The Daily Bruin (UCLA Student Newspaper))
-
-An inaccurate social media post on Facebook has suggested that people can begin to work as part of clean-up crews in impacted areas, according to the Cal Fire website. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/10/477371/>
-
----
-
-## Pierce College farm serves as Palisades fire animal evacuation center
-
-date: 2025-01-11, from: The Round Up (Pierce College Student Newspaper)
-
-<p>About 200 animals that were evacuated due to the ongoing Palisades fire are being held at the Pierce College farm, as of Friday afternoon. Roughly</p>
-<p>The post <a href="https://theroundupnews.com/2025/01/10/pierce-college-farm-serves-as-palisades-fire-animal-evacuation-center/">Pierce College farm serves as Palisades fire animal evacuation center</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
- 
-
-<br> 
-
-<https://theroundupnews.com/2025/01/10/pierce-college-farm-serves-as-palisades-fire-animal-evacuation-center/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-college-farm-serves-as-palisades-fire-animal-evacuation-center>
 

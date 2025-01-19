@@ -1,11 +1,184 @@
 ---
 title: socal north
-updated: 2025-01-18 10:23:24
+updated: 2025-01-19 07:04:56
 ---
 
 # socal north
 
-(date: 2025-01-18 10:23:24)
+(date: 2025-01-19 07:04:56)
+
+---
+
+## The Pasadena Chorale is rebuilding the best way it knows how. By rehearsing for the next performance.
+
+date: 2025-01-19, updated: 2025-01-19, from: The LAist
+
+A choir sings on after losing its church in the Eaton Fire. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/the-pasadena-chorale-is-rebuilding-the-best-way-it-knows-how-by-rehearsing-for-the-next-performance>
+
+---
+
+## A planet parade of Venus, Saturn, Jupiter and Mars shines in the skies this month
+
+date: 2025-01-19, updated: 2025-01-19, from: The LAist
+
+All month, Venus, Saturn, Jupiter and Mars will appear to line up and be bright enough to see with the naked eye in the first few hours after dark. This weekend, Venus and Saturn get especially cozy. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/planet-parade-venus-saturn-jupiter-and-mars>
+
+---
+
+## Private firefighters are increasingly popular with insurers. But do they pose a risk?
+
+date: 2025-01-19, updated: 2025-01-19, from: The LAist
+
+As California faces a future of more frequent and severe firestorms, the current fires have made clear that private companies are one way insurers and homeowners will respond to that threat. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/private-firefighters-are-increasingly-popular-with-insurers-but-do-they-pose-a-risk>
+
+---
+
+## A different kind of Saturday for those emerging from the Eaton Fire
+
+date: 2025-01-18, updated: 2025-01-19, from: The LAist
+
+Eleven days after the Eaton Fire destroyed much of their community, residents converged in Altadena and Pasadena to find unity and offer support. 
+
+<br> 
+
+<https://laist.com/news/different-kind-of-saturday-for-those-emerging-from-the-eaton-fire>
+
+---
+
+## Celebrating Unity and Equality on Dr. Martin Luther King, Jr. Day
+
+date: 2025-01-18, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Each year, on the third Monday in January, the City of Santa Clarita, along with the rest of the United States, comes together to honor the life and legacy of Dr. Martin Luther King, Jr. Dr. King was a visionary leader whose tireless efforts to combat racial injustice and inequality [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/18/celebrating-unity-and-equality-on-dr-martin-luther-king-jr-day/">Celebrating Unity and Equality on Dr. Martin Luther King, Jr. Day</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/18/celebrating-unity-and-equality-on-dr-martin-luther-king-jr-day/>
+
+---
+
+## As schools start recovery from fires, parents wait on answers to many questions
+
+date: 2025-01-18, updated: 2025-01-18, from: The LAist
+
+Parents say there's lots to appreciate about how school districts in Los Angeles have responded to the fires. But their patience is not infinite. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-pasadena-altadena-palisades-school-district-recovery-fire>
+
+---
+
+## Billie Eilish, Lady Gaga, Lil Baby and more will play FireAid benefit concert in LA
+
+date: 2025-01-18, updated: 2025-01-18, from: The LAist
+
+The Jan. 30 event at two venues in Inglewood will stream live and raise money for those affected by the wildfires. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/billie-eilish-lady-gaga-lil-baby-fireaid-benefit-concert-in-la>
+
+---
+
+## What happens after a wildfire destroys your home? A survivor has tips
+
+date: 2025-01-18, updated: 2025-01-18, from: The LAist
+
+"What the hell just happened to my future?" — that's the immediate thought for many people when they learn a fire has destroyed their home, says consumer advocate Annie Barbour. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/after-a-wildfire-survivor-tips>
+
+---
+
+## Go Fact Yourself quiz for January 18
+
+date: 2025-01-18, updated: 2025-01-18, from: The LAist
+
+Our celebrity panelists Paula Poundstone and Open Mike Eagle go head to head this week on their knowledge of the TV show Breaking Bad and the Jonathan Hickman era of X-Men comics. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-january-18>
+
+---
+
+## He built a massive train set in his Altadena backyard — and returned to protect it from the Eaton Fire
+
+date: 2025-01-18, updated: 2025-01-18, from: The LAist
+
+One day after evacuation, Rob Caves and his partner went back to Christmas Tree Lane to protect their home — and ended up being custodians to the neighborhood. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/he-built-a-massive-train-set-in-his-altadena-backyard-and-returned-to-protect-it-from-the-eaton-fire>
+
+---
+
+## LA's Magic Castle offers a brief escape during the wildfires
+
+date: 2025-01-18, updated: 2025-01-18, from: The LAist
+
+A Los Angeles institution spared from the flames gives back to the community with donations and magic tricks to lift evacuees' spirits. 
+
+<br> 
+
+<https://laist.com/news/las-magic-castle-offers-a-brief-escape-during-the-wildfires>
+
+---
+
+## Smoke and ash filled your home. What do you clean? What do you throw out?
+
+date: 2025-01-18, updated: 2025-01-18, from: The LAist
+
+Experts describe smoke damage, but are divided over cleaning or throwing out mattresses, couches, clothes. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/smoke-and-ash-fire-home-clean-toss>
+
+---
+
+## Here are some LA shows supporting people impacted by the fires
+
+date: 2025-01-18, updated: 2025-01-18, from: The LAist
+
+Musicians, artists, and creatives are donating their time and talents across Southern California. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/la-shows-wildfire-fundraisers>
+
+---
+
+## Take Space to Pause Provides Mental Health Support for Teens
+
+date: 2025-01-18, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="768" height="778" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?fit=768%2C778&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?w=768&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?resize=296%2C300&amp;ssl=1 296w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?resize=400%2C405&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?resize=706%2C715&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?fit=768%2C778&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The CDC’s latest survey of high school students found that four in 10 (40%) had persistent feelings of sadness or hopelessness and two in 10 (20%) seriously considered suicide. Nearly [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/17/take-space-to-pause-provides-mental-health-support-for-teens/">Take Space to Pause Provides Mental Health Support for Teens</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/17/take-space-to-pause-provides-mental-health-support-for-teens/>
 
 ---
 
@@ -307,7 +480,7 @@ Most residents of middle-class Altadena could get fire insurance, but that is li
 
 ## Concerned about LA air quality? Here are 7 expert tips
 
-date: 2025-01-16, updated: 2025-01-17, from: The LAist
+date: 2025-01-16, updated: 2025-01-19, from: The LAist
 
 Air quality experts and advocates warn of the potential dangers of smoke, ash and soot. 
 
@@ -1280,162 +1453,4 @@ Prominent right-wing influencers are claiming that the response to the Los Angel
 <br> 
 
 <https://laist.com/news/climate-environment/why-right-wing-influencers-are-blaming-the-california-wildfires-on-diversity-efforts>
-
----
-
-## Lara Announces Insurance Protection for Homeowners Impacted by Fires
-
-date: 2025-01-11, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
-
-<figure><img width="1024" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?fit=1024%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?w=1466&amp;ssl=1 1466w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=1200%2C1200&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Insurance-commissioner.jpg?fit=1024%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>LOS ANGELES (CNS) &#8211; California Insurance Commissioner Ricardo Lara has put the department on alert for potential fraud and illegal actions targeting survivors of the Los Angeles County wildfires, his [&#8230;]</p>
-<p>The post <a href="https://sanfernandosun.com/2025/01/11/lara-announces-insurance-protection-for-homeowners-impacted-by-fires/">Lara Announces Insurance Protection for Homeowners Impacted by Fires</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
- 
-
-<br> 
-
-<https://sanfernandosun.com/2025/01/11/lara-announces-insurance-protection-for-homeowners-impacted-by-fires/>
-
----
-
-## Dive Into a Summer of Fun as a City of Santa Clarita Lifeguard
-
-date: 2025-01-11, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin Nothing says summer like the smell of sunscreen, the sound of splashing in the pool and cooling off in the water with friends and family. As a City with over 225,000 people, full of families who call Santa Clarita home, one of the best summer jobs for teens is becoming [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/01/11/dive-into-a-summer-of-fun-as-a-city-of-santa-clarita-lifeguard/">Dive Into a Summer of Fun as a City of Santa Clarita Lifeguard</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/01/11/dive-into-a-summer-of-fun-as-a-city-of-santa-clarita-lifeguard/>
-
----
-
-## Altadena Residents Grieve Losses
-
-date: 2025-01-11, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
-
-<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01102025_Eaton-Fire_SN_05.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Residents of Altadena are grieving as their neighborhoods have been reduced to rubble from the Eaton Fire. Many within the area have lived in the region for generations, like Kenneth [&#8230;]</p>
-<p>The post <a href="https://sanfernandosun.com/2025/01/11/altadena-residents-grieve-losses/">Altadena Residents Grieve Losses</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
- 
-
-<br> 
-
-<https://sanfernandosun.com/2025/01/11/altadena-residents-grieve-losses/>
-
----
-
-## As fires rage, an already-hurting Hollywood presses pause
-
-date: 2025-01-11, updated: 2025-01-12, from: The LAist
-
-The fires around Los Angeles arrived just as Hollywood's awards season kicked off. It's an ominous sign at a time when film and TV production is already down. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/fires-hollywood-reaction-awards-season>
-
----
-
-## Photos: Southern California residents return to devastation as two major wildfires rage on
-
-date: 2025-01-11, updated: 2025-01-11, from: The LAist
-
-At least 153,000 Los Angelenos have had to evacuate their homes and about 166,000 people were under evacuation warnings as of Saturday, according to the LA County Sheriff's Department. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/photos-southern-california-residents-return-to-devastation-as-two-major-wildfires-rage-on>
-
----
-
-## Fact check: Could brush clearance have prevented the Palisades Fire?
-
-date: 2025-01-11, updated: 2025-01-14, from: The LAist
-
-LAist dives into the science behind the claim that the brush clearance would have 'significantly mitigated' the destruction and losses. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/fact-check-could-brush-clearance-have-prevented-the-palisades-fire>
-
----
-
-## Kevin Cooley takes photos of wildfires for a living. This week, Eaton Fire destroyed his Altadena home
-
-date: 2025-01-11, updated: 2025-01-12, from: The LAist
-
-A commercial and fine art photographer tackles wildfire as one of his major themes. This week, he lost his Altadena duplex to the Eaton Fire. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/kevin-cooley-takes-photos-of-wildfires-for-a-living-this-week-eaton-fire-destroyed-his-altadena-home>
-
----
-
-## Go Fact Yourself quiz for January 11
-
-date: 2025-01-11, updated: 2025-01-11, from: The LAist
-
-Our celebrity panelists Larry Wilmore and Denise Crosby go head to head this week on their knowledge of music from across the pond and swimming down the pool. Think you might know more than they do? Go Fact Yourself! 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-january-11>
-
----
-
-## Wildfires delay annual Los Angeles homeless count
-
-date: 2025-01-11, updated: 2025-01-11, from: The LAist
-
-Going forward during the region's fire crisis would compromise data and safety, officials say. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/los-angeles-homeless-count-delayed-wildfires-lahsa>
-
----
-
-## Are more fires popping up in LA than normal? What we know
-
-date: 2025-01-11, updated: 2025-01-14, from: The LAist
-
-“We have a lot of abnormal incidents that are layered over our normal everyday operations, which makes it seem even worse,” an LAFD spokesperson said. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/los-angeles-fire-eaton-palisades-wildfire-activity-history-explainer>
-
----
-
-## Campbell Hall School Donating Free Supplies for a Limited Time to Those Impacted by Fires
-
-date: 2025-01-11, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
-
-<figure><img width="768" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=1568%2C2091&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=2000%2C2667&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/IMG_6186-scaled.jpeg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>For those who have been impacted by the fires raging through Los Angeles and in need of supplies, Campbell Hall School in Studio City is providing free resources for anyone [&#8230;]</p>
-<p>The post <a href="https://sanfernandosun.com/2025/01/10/campbell-hall-school-donating-free-supplies-for-a-limited-time-to-those-impacted-by-fires/">Campbell Hall School Donating Free Supplies for a Limited Time to Those Impacted by Fires</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
- 
-
-<br> 
-
-<https://sanfernandosun.com/2025/01/10/campbell-hall-school-donating-free-supplies-for-a-limited-time-to-those-impacted-by-fires/>
-
----
-
-## Wildfire Smoke Safety Tool Kit
-
-date: 2025-01-11, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
-
-<figure><img width="1024" height="595" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?fit=1024%2C595&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?w=1252&amp;ssl=1 1252w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?resize=300%2C174&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?resize=1024%2C595&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?resize=768%2C447&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?resize=1200%2C698&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?resize=400%2C233&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?resize=706%2C411&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Air-Now-e1736565607886.jpg?fit=1024%2C595&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>According to the South Coast Air Quality Management District, potential direct smoke impact from the Palisades, Eaton, and Hurst Wildfires burning has caused unhealthy air quality in Los Angeles County. Smoke [&#8230;]</p>
-<p>The post <a href="https://sanfernandosun.com/2025/01/10/wildfire-smoke-safety-tool-kit/">Wildfire Smoke Safety Tool Kit</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
- 
-
-<br> 
-
-<https://sanfernandosun.com/2025/01/10/wildfire-smoke-safety-tool-kit/>
 

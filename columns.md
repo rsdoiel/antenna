@@ -1,11 +1,298 @@
 ---
 title: columns
-updated: 2025-01-18 10:23:26
+updated: 2025-01-19 07:04:58
 ---
 
 # columns
 
-(date: 2025-01-18 10:23:26)
+(date: 2025-01-19 07:04:58)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-19, from: Dave Winer's Scripting News)
+
+When I put an image in the margin of a post I often pause and think about what I want to convey with the image as it relates to the writing that it's next to. In the previous piece the idea was interop. I tried to think of what images I've used in the past, then I thought why don't I just look. I switched into Daytona, entered <a href="https://daytona.scripting.com/search?q=interop">interop</a>, and found <a href="https://imgs.scripting.com/2023/03/12/hamstercage.png">one</a> I loved, but then kept scanning, and found <a href="https://imgs.scripting.com/2024/02/01/runner.png">another</a> that I liked even more. Tools are important. Web writers haven't gotten any new tools in a long time. All the tool development has been for other stuff. Let's make tools for users again, as we did in the olden times. Craftwork in software. Playin in the band! 
+
+<br> 
+
+<http://scripting.com/2025/01/19.html#a142805>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-19, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/11/27/duck.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">How easy would it be to create a twitter-like app using RSS, and in what ways would it differ from other twitter-like apps. Here's the deal. You need a place to write a posts and a way to read a timeline of posts. That's the basic functionality. To do that with RSS you would start with a blogging app like WordPress, and a feed reader like FeedLand or NetNewsWire. Manton has integrated the two into a single user interface at <a href="https://micro.blog/">micro.blog</a>. I'm going to approach it in a somewhat differently, not sure yet how it will work, but I'm getting there. And I will offer a way for people to hook in any feed reader they want, thus opening up innovation to tech-curious users. The take-away is that you need to handle inbound and outbound feeds. That's the basics of being twitter-like. 
+
+<br> 
+
+<http://scripting.com/2025/01/19.html#a141521>
+
+---
+
+## “Don’t Stop”
+
+date: 2025-01-19, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/dont-stop>
+
+---
+
+## Tomorrow will be a shameful day
+
+date: 2025-01-19, from: Robert Reich's blog
+
+But some reasons for reassurance 
+
+<br> 
+
+<https://robertreich.substack.com/p/tomorrow-will-be-a-terrible-day>
+
+---
+
+## A big western loop: day 3
+
+date: 2025-01-19, from: Matt Haughey blog
+
+<p>I started the morning in Barstow, California, at one of the last hotels I could find a room in the night before, aiming this day to shoot for a jeep trail north of Las Vegas by noon. After I completed the trail, I&apos;d decide where to go next.</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/a-big-western-loop-day-3/>
+
+---
+
+## January 18, 2025 
+
+date: 2025-01-19, from: Heather Cox Richardson blog
+
+Shortly before midnight last night, the Federal Trade Commission (FTC) published its initial findings from a study it undertook last July when it asked eight large companies to turn over information about the data they collect about consumers, product sales, and how the surveillance the companies used affected consumer prices. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-18-2025>
+
+---
+
+## The history and future of corn
+
+date: 2025-01-19, from: Tracy Durnell Blog
+
+Corn tastes better on the honor system by Robin Wall Kimmerer &#8212; with cool paper illustrations by Suus Hessling The writings of some early colonists reveal that they thought corn a primitive crop, because it did not require machines or draft animals to cultivate and process, as did their familiar wheat. They mistook the apparent [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/18/the-history-and-future-of-corn/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-01-19, from: Miguel de Icaza Mastondon feed)
+
+<p>The TikTok ban that is going to financially ruin a bunch of Americans was part of the “95 billions in weapons for Israel, Ukraine and Taiwan bill”</p><p>When the USA gives you the finger, it uses both hands.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113852513023525108>
+
+---
+
+## Microsoft Cleans Up Dirty Trick Where Bing Masqueraded as Google
+
+date: 2025-01-18, updated: 2025-01-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/2025/1/15/24344207/microsoft-bing-search-results-google-design-change-reversed>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-18, from: Dave Winer's Scripting News)
+
+<div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/01/18/useWordland.png"></center><img class="imgRightMargin" src="https://imgs.scripting.com/2025/01/18/useWordland.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Use WordLand to write a "program review" for Bingeworthy 3?</div> 
+
+<br> 
+
+<http://scripting.com/2025/01/18.html#a204719>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-18, from: Dave Winer's Scripting News)
+
+There's more to the story, but this is already a lot to ask you to digest. I'll get a demo together soon. <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2025/01/18.html#a204143>
+
+---
+
+## Another Never-Announced Product Might Fail to Meet Its Never-Announced Ship Date
+
+date: 2025-01-18, updated: 2025-01-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/01/13/apple-smart-home-hub-launch-possibly-delayed/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-18, from: Dave Winer's Scripting News)
+
+Anyway, today I hooked up <a href="https://tv.bingeworthy.org/">BingeWorthy</a> to <a href="https://this.how/wordland/">WordLand</a>. Bingeworthy doesn't have a text editor, and it doesn't need one, because when it wants to offer a user a chance to explain their rating, like "seasons 1 and 2 were great, but season 3 sucked, but I gave it a high rating anyway," they can use WordLand which loves writers and strives to serve them better and better. Why should I put a bullshit editor in a product (Bingeworthy) that isn't about writing. Its job is very different from WordLand's. Let them work together. That's the big idea, that's why you bother having <a href="https://daytona.scripting.com/search?q=interop">interop</a>, so you can use more than one tool on the same data. 
+
+<br> 
+
+<http://scripting.com/2025/01/18.html#a200139>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-18, from: Dave Winer's Scripting News)
+
+Then, I got a response from <a href="https://x.com/nickweaver/status/1880601723330506958">Nick Weaver</a> and the Madison story continues: "Here’s a roundabout Madison connection for you. I started working at UW 28 years ago today as the World Wide Web Editor in the Office of News and Public Affairs. My first project was to implement Userland Frontier for the university news page." Now Nick is in <a href="https://daytona.scripting.com/search?q=Madison">my Madison story</a> too. And he mentions <a href="https://daytona.scripting.com/search?q=UserLand%20Frontier">Frontier</a>. With Frontier, we not only had the internet over networks, we also had networks on our computers because Frontier could send tasks to scriptable apps, and get back results. So databases could be hooked up to page layout programs, and people could use their writing tool of choice, and didn't have to use some teeny little excuse for an editor provided by a company that doesn't cater to or care about writers. Imagine writing with software that was designed to hobble writers instead of glorify them! That's the horror of the world as proposed by Mastodon, Threads, Bluesky, all of them. It's like no one stopped to think about what they are doing, half their product is writing, and they suck at writing and have no plans to improve the situation. Geez Louise, it's as if we collectively lost our minds. 
+
+<br> 
+
+<http://scripting.com/2025/01/18.html#a195750>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-18, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2017/09/01/mrFrog.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I posted something to my <a href="https://bsky.app/profile/feediverse.bsky.social/post/3lfywyfwlci2x">linkblog</a> this morning that really should have been on my <a href="http://scripting.com/">blog</a>. Here's what it said. "Every blog should have a nice search engine like mine. I can search for ideas and it creates a story, like this <a href="https://daytona.scripting.com/search?q=Madison">search</a> for 'Madison' where I had love, fun, creativity, friends, youth, music, strength, health, sex, and could see the future clearly. Best time of my life, I had everything anyone could want. Pick another term get another synthetic story." Ironically, since my linkblog doesn't flow through the search engine, I would have lost this post. Which makes a bigger point. All the ideas we throw into the silo'd <a href="https://oursocialweb.org/">social web</a> are basically trash, not part of our collection, that we might use tools in the future to find value in (as my Madison posts surely did, for me at least). 
+
+<br> 
+
+<http://scripting.com/2025/01/18.html#a195403>
+
+---
+
+## Joanna Stern’s Imaginary Husband
+
+date: 2025-01-18, updated: 2025-01-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://techthings.cmail20.com/t/d-e-sjrttn-dykjyuhruh-r/>
+
+---
+
+## January 17, 2025
+
+date: 2025-01-18, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155114661/7c0a7c12f89dfa8fb47c755d43990955.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155114661/7c0a7c12f89dfa8fb47c755d43990955.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-17-2025-dfb>
+
+---
+
+## ★ Nokia’s Next-Day Internal Competitive Analysis of the Original iPhone Largely Got It Right
+
+date: 2025-01-18, updated: 2025-01-18, from: Daring Fireball
+
+To the credit of the team that put this presentation together, they mostly got it. 
+
+<br> 
+
+<https://daringfireball.net/2025/01/nokias_next-day_internal_competitive_analysis_of_the_original_iphone>
+
+---
+
+## Google Search, More Machine Now Than Man, Begins Requiring JavaScript
+
+date: 2025-01-18, updated: 2025-01-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/>
+
+---
+
+## Ural Notes Part 3: Stopping and Going
+
+date: 2025-01-18, updated: 2025-01-18, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2025/01/18/ural-notes-part-3-stopping-and-going/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-01-18, from: Miguel de Icaza Mastondon feed)
+
+<p>Interesting twist, incitement to genocide is a separate crime, and the gang is in trouble: <a href="https://www.statewatch.org/media/4664/icc-submission-israel-palestine-incitement-to-genocide-6-12-24.pdf" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">statewatch.org/media/4664/icc-</span><span class="invisible">submission-israel-palestine-incitement-to-genocide-6-12-24.pdf</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113849627680871162>
+
+---
+
+## How Windows got to version 3 – an illustrated history
+
+date: 2025-01-18, updated: 2025-01-18, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Opinion</span> With added manga and snark. What&#39;s not to like?</h4>
+      <p>Windows 1 and 2 flopped almost as badly as OS/2 did. How did Microsoft stage one of the greatest comebacks ever with Windows 3?</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/01/18/how_windows_got_to_v3/>
+
+---
+
+## The Trump takeover: Fascism or oligarchy? Coffee Klatch | January 18, 2025
+
+date: 2025-01-18, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155040304/0ac4d1c0a2a5f3c1c49258f6be1e509a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155040304/0ac4d1c0a2a5f3c1c49258f6be1e509a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/the-trump-takeover-fascism-or-oligarchy>
+
+---
+
+## January 17, 2025
+
+date: 2025-01-18, from: Heather Cox Richardson blog
+
+As President Joe Biden and Vice President Kamala Harris prepare to leave office at noon on Monday and President-elect Donald Trump and Vice President&#8211;elect J.D. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-17-2025>
+
+---
+
+## Weeknotes: Jan. 11-17, 2025
+
+date: 2025-01-18, from: Tracy Durnell Blog
+
+Highlight of the week: heard from several people in response to my post on friction in indie web connection 😄 Looking forward to: making this blood orange olive oil cake Stuff I did: 7.75 hours writing &#8212; I committed to my accountability buddy that I would make a decision this week and I regret that [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/17/weeknotes-jan-11-17-2025/>
 
 ---
 
@@ -248,7 +535,7 @@ date: 2025-01-17, updated: 2025-01-17, from: Daring Fireball
 
 ## David Lynch Dies at 78
 
-date: 2025-01-17, updated: 2025-01-17, from: Daring Fireball
+date: 2025-01-17, updated: 2025-01-18, from: Daring Fireball
 
  
 
@@ -1679,347 +1966,4 @@ With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and yours truly, Robert R
 <br> 
 
 <https://www.jayeless.net/2025/01/terrorism.html>
-
----
-
-## What Are Stories?
-
-date: 2025-01-11, from: Doc Searls (at Harvard), New Old Blog
-
-Twenty-first in the New Commons series. Several generations ago, my pal Jerry and I were cutting a hole between the ceiling joists of a rented house in Durham, North Carolina. This was our first step toward installing a drop-down stairway to an attic space that had been closed since the house, a defunct parsonage for [&#8230;] 
-
-<br> 
-
-<https://doc.searls.com/2025/01/11/what-are-stories/>
-
----
-
-## Does Politics Turn on a Message? Or a Messenger?
-
-date: 2025-01-11, from: James Fallows, Substack
-
-And other ramifications of Jimmy Carter's 100-plus years. Which may give the Democrats a challenge different from the one most often discussed. 
-
-<br> 
-
-<https://fallows.substack.com/p/does-politics-turn-on-a-message-or>
-
----
-
-## Google and Microsoft Each Donate $1 Million to Trump’s Inauguration Racket
-
-date: 2025-01-11, updated: 2025-01-11, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.cnbc.com/2025/01/09/google-donates-1-million-to-trumps-inauguration-fund.html>
-
----
-
-## ‘Inside Mark Zuckerberg’s Sprint to Remake Meta for the Trump Era’
-
-date: 2025-01-11, updated: 2025-01-12, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.nytimes.com/2025/01/10/technology/meta-mark-zuckerberg-trump.html?unlocked_article_code=1.oU4.1YiC.LBBOij0yKLtb&smid=url-share>
-
----
-
-## January 10, 2025
-
-date: 2025-01-11, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154642234/9f91bc659aa31105d0149f5d9fa7f5a5.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/154642234/9f91bc659aa31105d0149f5d9fa7f5a5.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/january-10-2025-31d>
-
----
-
-## ‘We’re All Trying to Find the Guy Who Did This’
-
-date: 2025-01-11, updated: 2025-01-11, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.theatlantic.com/technology/archive/2025/01/mark-zuckerberg-free-expression/681238/>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-01-11, from: Miguel de Icaza Mastondon feed)
-
-<p>Small UI update, not visible, but worth talking about is that I got the tracking timeline at the top to be &quot;anchored&quot;, and not scroll away:</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/113811554601004561>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-01-11, from: Dave Winer's Scripting News)
-
-<a href="https://daveverse.wordpress.com/2025/01/11/little-feed-reader-seems-to-work/">Notes</a> on Little Feed Reader, <a href="https://bsky.app/profile/feediverse.bsky.social">running</a> on Bluesky since Jan 2. 
-
-<br> 
-
-<http://scripting.com/2025/01/11.html#a200549>
-
----
-
-## ★ Nvidia, the New King of Keynotes
-
-date: 2025-01-11, updated: 2025-01-11, from: Daring Fireball
-
-The answer to the question of which company held the keynotes which attracted the most enthusiastic large live audiences was always Apple. And they just walked away from that. 
-
-<br> 
-
-<https://daringfireball.net/2025/01/nvidia_the_new_king_of_keynotes>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-01-11, from: Dave Winer's Scripting News)
-
-This is what my YouTube channel <a href="https://imgs.scripting.com/2025/01/11/youtubeInBlogroll.png">looks like</a> in my blogroll. 
-
-<br> 
-
-<http://scripting.com/2025/01/11.html#a174922>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-01-11, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2020/07/07/ohYeah.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">YouTube channels have feeds. Here's <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIKA6QNSb56qnA5Enn2BOXw">the feed</a> for my YouTube channel. And a canonical <a href="https://feeder.scripting.com/?feedurl=https://www.youtube.com/feeds/videos.xml?channel_id=UCIKA6QNSb56qnA5Enn2BOXw">JSONification</a> of the feed (this is how FeedLand gets the data from any type of feed, RSS, Atom or RDF, the YouTube feed is Atom). I did not know they had feeds, in fact I thought I heard they specifically did <i>not</i> have feeds. I've subscribed to the feed <a href="https://feedland.social/?feedurl=https%3A%2F%2Fwww.youtube.com%2Ffeeds%2Fvideos.xml%3Fchannel_id%3DUCIKA6QNSb56qnA5Enn2BOXw">in FeedLand</a> and it seems to work, and also included it in my blogroll category, so it should show up in my blogroll, and possibly in the <a href="https://bsky.app/profile/feediverse.bsky.social">Little Feed Reader</a> on Bluesky. All of this, and more, was discovered by <a href="https://www.google.com/search?q=site%3Ascripting.com+%22Andrew+Shell%22">Andrew Shell</a>. Two suggestions. 1. Include descriptions with the items. 2. Use enclosures for the videos. Atom does enclosures differently from RSS, but it can be made to work, imho. No matter what, thank you YouTube, and it's a great start. 
-
-<br> 
-
-<http://scripting.com/2025/01/11.html#a170329>
-
----
-
-## Aviation vs. Fire
-
-date: 2025-01-11, from: Doc Searls (at Harvard), New Old Blog
-
-3:22pm—Hats off to Miles Archer for the links below, one of which goes here— —showing all the aircraft and their paths at once. You can start here at https://globe.adsbexchange.com/, which is kind of your slate that&#8217;s blank except for live aircraft over the Palisades Fire: Meanwhile all the media are reporting one home loss, in [&#8230;] 
-
-<br> 
-
-<https://doc.searls.com/2025/01/11/aviation-vs-fire/>
-
----
-
-## What's involved in getting a "modern" terminal setup?
-
-date: 2025-01-11, updated: 2025-01-11, from: Julia Evans blog
-
- 
-
-<br> 
-
-<https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/>
-
----
-
-## 2025-01-11 Personal blogging platform
-
-date: 2025-01-11, from: Alex Schroeder's Blog
-
-<h1 id="2025-01-11-personal-blogging-platform">2025-01-11 Personal blogging platform</h1>
-
-<p><a class="account" href="https://mastodon.social/@deivudesu" title="@deivudesu@mastodon.social">@deivudesu</a> recently wondered aloud about blogging software.</p>
-
-<blockquote>
-<p>If you were to design a brand new blogging platform from scratch today, what would it look like?</p>
-</blockquote>
-
-<p>Since I recently wrote Oddmu, I have opinions, of course. It would look like this site! 😅</p>
-
-<blockquote>
-<p>Would it stick to the standard &ldquo;N columns&rdquo; template format?</p>
-</blockquote>
-
-<p>Over the years of using Oddmuse (the predecessor software I started maintaining in 2003), I tried sidebars for my site and never liked it for long. When I visit other sites, I almost never use the sidebars.</p>
-
-<p>Blogroll? No. Just discuss blog posts and link to other people – that’s the better option.</p>
-
-<p>Archives? No. The calendar widgets are small and cramped and soon enough I end up on a separate page where I can navigate in big chunks. I almost never want to know what somebody posted on a particular day. I want to know whether they post a lot; whether they posted more on a topic in the past. It all involves better overview and search. This need is not met by an archive in the sidebar.</p>
-
-<p>Many links to entry points? No. Just put them on the first page.</p>
-
-<p>Many admin links? No. Just put them on a separate page, if you must. Also try to redesign the application so that it needs fewer admin links.</p>
-
-<blockquote>
-<p>Would it have a dedicated Admin UI, or would it reuse existing tools?</p>
-</blockquote>
-
-<p>Oddmu has no dedicated administration user-interface. It uses Markdown text files and media files for storage. If you really need direct access, open a file browser, a shell, an editor.</p>
-
-<blockquote>
-<p>Would it define its own DB schema, or piggyback off existing standards?</p>
-</blockquote>
-
-<p>Since Oddmu is designed to work with files directly, the DB schema would be trivial: page name and page content. It steered me away from keeping a lot of metadata.</p>
-
-<p>If I wanted to keep drafts somewhere, I guess I would set up a second Oddmu accessible only to me. Or I’d just use a text editor to write the posts. (This post started in a text editor.)</p>
-
-<p>Post scheduling would have to interface with command line tools like <code>at</code> to move a file from one folder to another at some point in the future. I don’t need this and so I never thought about it.</p>
-
-<blockquote>
-<p>Would it make sense to design it as an ActivityPub client with a Web UI?</p>
-</blockquote>
-
-<p>I don’t think so. Many people commenting on fedi might be surprised to see their comments show up on the web and vice versa.</p>
-
-<p>Conversely, having a little script off of a cron job that reads the blog’s feed and posts on fedi worked well for me. Of course that would not work for a platform like Blogger or Wordpress, but on an individual level, it works.</p>
-
-<p><a class="tag" href="/search/?q=%23Blogs">#Blogs</a> <a class="tag" href="/search/?q=%23Wiki">#Wiki</a> <a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a> <a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-01-11-blog-platform>
-
----
-
-**@Jessica Smith's blog** (date: 2025-01-11, from: Jessica Smith's blog)
-
-<p>In the last few days, Indie&rsquo;s been exclaiming a lot of, &ldquo;Oh!&rdquo; and &ldquo;Ooh!&rdquo; So I was talking to her, going, &ldquo;We can add this &lsquo;oh&rsquo; and &lsquo;ooh&rsquo; to the &rsquo;eeeeeeeeh&rsquo; you liked saying when you were a younger baby, and you&rsquo;re well on the way to mastering all the vowel sounds!&rdquo; (She&rsquo;s not, because English has like 13 vowel sounds before you even consider diphthongs, but I want her to feel encouraged.) I went on, &ldquo;Next you&rsquo;re going to have to learn a whole new kind of sound, called consonants! Listen to this: mamamamama… bababababa… papapapapa…&rdquo; (Starting with the bilabials, because I believe babies learn those first?)</p>
-<p>Anyway, Indie had been happily &ldquo;oh!&ldquo;ing and &ldquo;ooh!&ldquo;ing away, but when I started with my &ldquo;mamamamama&rdquo; she fell silent and looked at me SO closely. I could see her moving her lips and trying to copy what I did 🥹 Didn&rsquo;t quite get there, but was clearly trying so hard to figure it out. And now she&rsquo;s back to chanting, &ldquo;Ooh! Ooh! Oh!&rdquo; on repeat, haha.</p> 
-
-<br> 
-
-<https://www.jayeless.net/2025/01/indies-vocalisations.html>
-
----
-
-## Trump's Oligarchy | The Coffee Klatch for January 11, 2025 
-
-date: 2025-01-11, from: Robert Reich's blog
-
-With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and yours truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/154569809/53681506a512f8baf494111e46ccc009.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/154569809/53681506a512f8baf494111e46ccc009.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/trumps-oligarchy-the-coffee-klatch>
-
----
-
-## January 10, 2025 
-
-date: 2025-01-11, from: Heather Cox Richardson blog
-
-Today the Department of Labor released the final jobs report of Joe Biden&#8217;s presidency. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/january-10-2025>
-
----
-
-## Palisades Fire on the Ridge
-
-date: 2025-01-11, from: Doc Searls (at Harvard), New Old Blog
-
-10:15pm—Here is a Google Earth Pro view of the Palisades fire crossing the wilderness north of Pacific Palisades and south of &#8220;Dry Mulholland&#8221;—the dirt road that serves as a firebreak along the ridge of the mountains south of the San Fernando Valley: The large squares are MODIS satellite fire detections. The smaller ones are VIIRS. [&#8230;] 
-
-<br> 
-
-<https://doc.searls.com/2025/01/10/palisades-fire-on-the-ridge/>
-
----
-
-## Progress vs. Growth
-
-date: 2025-01-11, from: Tracy Durnell Blog
-
-Ingrid Fetell Lee with the wisdom in her email newsletter: Progress is the tangible evidence that we&#8217;re moving closer to our goals. We&#8217;ve been conditioned to measure success in terms of progress&#8230; Growth is a subterranean shift, not what you made or did, but a change in who you are. It&#8217;s hard to measure, harder [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/01/10/progress-vs-growth/>
-
----
-
-## Weeknotes: Jan 4 – 10, 2025
-
-date: 2025-01-11, from: Tracy Durnell Blog
-
-Win of the week: adapted a post that&#8217;s been sitting on draft since last June into my entry for this month&#8217;s IndieWeb carnival 🦾 Looking forward to: walking with a friend I haven&#8217;t seen since summer next week Stuff I did: 5.75 hours consulting 5 hours writing 🦾🦾🦾 wrote several alternate blurbs to help me decide between [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/01/10/weeknotes-jan-4-10-2025/>
-
----
-
-## New Year
-
-date: 2025-01-11, from: Jirka's blog
-
-So it's 2025.  I'm not sure how much  time I will have for  my phlog or for any other tree-time computer stuff. 
-
-<br> 
-
-<http://jirka.1-2-8.net/20250111-0442_New_Year>
-
----
-
-## Analog stuff in 2024
-
-date: 2025-01-11, from: Jirka's blog
-
-Actually, nothing special  happened. I have got a new  leather case for notebooks for work  and a new notebook with replaceable  inserts for my traveling (it's  a 1/3 of width  of A4 format  so it is also  ideal for folding of printed train tickets inside). 
-
-<br> 
-
-<http://jirka.1-2-8.net/20250111-0442_Analog_stuff_in_2024>
-
----
-
-## The Great Fire
-
-date: 2025-01-11, from: Robert Reich's blog
-
-Friends, 
-
-<br> 
-
-<https://robertreich.substack.com/p/the-great-fire>
-
----
-
-## From the Rubble Rise 22 Powerful Voices
-
-date: 2025-01-11, from: Michael Moore's blog
-
-Last week, I, as an Executive Producer of FROM GROUND ZERO: STORIES FROM GAZA, was quoted across the country as stating the following: &#8220;No filmmaker, writer or artist should ever have to tell the story of their own extermination.&#8221; 
-
-<br> 
-
-<https://www.michaelmoore.com/p/from-the-rubble-rises-22-powerful>
-
----
-
-## Zuckerberg Disses Apple With Joe Rogan: ‘They Haven’t Invented Anything Great in a While’
-
-date: 2025-01-11, updated: 2025-01-11, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://9to5mac.com/2025/01/10/mark-zuckerberg-joe-rogan-apple-innovation/>
 

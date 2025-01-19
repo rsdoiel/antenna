@@ -1,11 +1,25 @@
 ---
 title: health
-updated: 2025-01-18 10:23:29
+updated: 2025-01-19 07:05:00
 ---
 
 # health
 
-(date: 2025-01-18 10:23:29)
+(date: 2025-01-19 07:05:00)
+
+---
+
+## Is Ginger Good For Kidneys?
+
+date: 2025-01-18, from: The Kidney Dietitian
+
+<p>Is this unassuming kitchen spice the key to kidney health? Is ginger good for our kidneys if consumed in moderation? Ginger provides a multitude of benefits, however, there are some risks associated with ginger that we must be aware of. That being said, is there a place for this commonly used flavoring in a kidney [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/is-ginger-good-for-kidneys/">Is Ginger Good For Kidneys?</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<br> 
+
+<https://www.thekidneydietitian.org/is-ginger-good-for-kidneys/>
 
 ---
 

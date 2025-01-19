@@ -1,11 +1,35 @@
 ---
 title: food
-updated: 2025-01-18 10:23:30
+updated: 2025-01-19 07:05:01
 ---
 
 # food
 
-(date: 2025-01-18 10:23:30)
+(date: 2025-01-19 07:05:01)
+
+---
+
+## Sunday Sunday Sunday! They’ll Be Thrills, Spills, And Bone-Curdling Chills With The Latest In Sprudge Coffee Recommendations
+
+date: 2025-01-19, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffee's from Sprudge's Roasters Village. 
+
+<br> 
+
+<https://sprudge.com/sunday-sunday-sunday-theyll-be-thrills-spills-and-bone-curdling-chills-with-the-latest-in-sprudge-coffee-recommendations-269873.html>
+
+---
+
+## 29 Salad Dressings Worth Making at Home
+
+date: 2025-01-18, from: Bon Appetet
+
+A coffee vinaigrette to wake you up, a preserved lemon dressing to make things bright, and more great ways to coat your greens. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/homemade-salad-dressing-recipes>
 
 ---
 

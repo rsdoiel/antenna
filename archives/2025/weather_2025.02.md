@@ -1,11 +1,301 @@
 ---
 title: weather
-updated: 2025-01-18 10:23:26
+updated: 2025-01-19 07:04:58
 ---
 
 # weather
 
-(date: 2025-01-18 10:23:26)
+(date: 2025-01-19 07:04:58)
+
+---
+
+## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
+
+date: 2025-01-19, from: Eastern Pacific Basin GIS Data
+
+The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
+
+<br> 
+
+<https://www.nhc.noaa.gov/>
+
+---
+
+## SPC - No watches are valid as of Sun Jan 19 14:31:02 UTC 2025
+
+date: 2025-01-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Sun Jan 19 14:31:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Sun Jan 19 14:31:02 UTC 2025
+
+date: 2025-01-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Sun Jan 19 14:31:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Jan 19, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-01-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0611 AM CST Sun Jan 19 2025
+
+Valid 191300Z - 201200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS THIS MORNING
+OVER THE CENTRAL FLORIDA PENINSULA....
+
+...SUMMARY...
+Strong thunderstorms may impact parts of central Florida this
+morning into this afternoon, and pose at least some risk for a
+tornado and locally damaging wind gusts.
+
+...FL...
+Fast southwesterly flow aloft is present today across FL, beneath
+the subtropical jet.  A surface cold front will slowly sag southward
+across the central peninsula, with an associated line of
+thunderstorms affecting the region.  The surface air mass has slowly
+destabilized overnight with dewpoints near 70F along and south of
+the front and MUCAPE values approaching 1000 J/kg.  Model guidance
+suggests rather strong low-level winds and favorable vertical shear
+this morning, providing support for a few rotating/bowing structures
+- capable of locally damaging winds or even a brief tornado.  This
+threat will likely diminish by late morning as wind fields slowly
+weaken and veer.
+
+..Hart/Wendt.. 01/19/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2025-01-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1203 PM CST Sat Jan 18 2025
+
+Valid 191200Z - 201200Z
+
+...NO CRITICAL AREAS...
+
+The forecast remains on track. For details, see the previous
+discussion below.
+
+..Weinman.. 01/18/2025
+
+.PREV DISCUSSION... /ISSUED 1234 AM CST Sat Jan 18 2025/
+
+...Synopsis...
+Tomorrow (Sunday), cold air will continue to dominate most of the
+CONUS. While some locally breezy conditions may develop over
+portions of northern Arizona, meteorological conditions and fuels
+are not supportive of fire-weather highlights.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
+
+---
+
+## SPC Jan 18, 2025 1730 UTC Day 2 Convective Outlook
+
+date: 2025-01-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1112 AM CST Sat Jan 18 2025
+
+Valid 191200Z - 201200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS IN CENTRAL FL...
+
+...SUMMARY...
+A tornado and isolated damaging winds will be possible across
+central Florida through Sunday afternoon.
+
+...Central FL...
+Within a longwave upper trough over much of the CONUS, an intense
+mid-level jet streak will move across parts of the Southeast and off
+the Mid-Atlantic coast by 12Z Monday. Primary surface cyclone will
+deepen as it advances off the Carolina Coastal Plain by Sunday
+afternoon. An attendant cold front will trail southwestward and move
+south across the FL Peninsula through the period. 
+
+Relatively rich low-level moisture ahead of the front will yield a
+plume of upper 60s surface dew points, coinciding with temperatures
+warming into the 70s during the day. Buoyancy will remain weak,
+MLCAPE below 1000 J/kg, as mid-level lapse rates remain subdued and
+poorer with southern extent across the peninsula. Nearly
+unidirectional southwesterly wind profiles with pronounced speed
+shear will yield moderate low-level hodograph curvature and
+elongated/straight mid/upper hodographs. This should result in
+potential for a couple supercells during the morning into the
+afternoon, despite the wind profile largely paralleling the surface
+front. With large-scale ascent weakening through the day, convective
+coverage should peak at isolated to scattered around midday before
+waning into late afternoon. Overall setup appears supportive of a
+low-probability threat for a tornado and locally strong gusts.
+
+..Grams.. 01/18/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2025-01-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1058 AM CST Sat Jan 18 2025
+
+Valid 181700Z - 191200Z
+
+...NO CRITICAL AREAS...
+
+The previous forecast (see below) remains on track. Additionally,
+dry/breezy post-frontal conditions may favor locally elevated
+fire-weather conditions along the Rio Grande in TX this afternoon.
+However, near/above-average fuel moisture should keep the threat
+localized.
+
+..Weinman.. 01/18/2025
+
+.PREV DISCUSSION... /ISSUED 1233 AM CST Sat Jan 18 2025/
+
+...Synopsis...
+A cold airmass, associated with a large-scale mid-level trough, will
+dominate much of the CONUS on Saturday. On the western periphery of
+the trough, where the geopotential height gradient is  strongest
+between an embedded shortwave trough and broad ridging off the U.S.
+West Coast, a strong jet streak is forecast to progress
+south-southeastward across the Intermountain West. This will result
+in dry and windy conditions across the Four Corners region, with
+sustained winds reaching 20-25 MPH. Despite the strong surface winds
+and low relative humidity, generally cooler temperatures and fuels
+that aren't overly receptive to wildfire spread will keep any fire
+threat localized.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## SPC Jan 18, 2025 1630 UTC Day 1 Convective Outlook
+
+date: 2025-01-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1027 AM CST Sat Jan 18 2025
+
+Valid 181630Z - 191200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS THE
+FLORIDA PANHANDLE AND ADJACENT PARTS OF SOUTHEAST ALABAMA AND
+SOUTHWEST GEORGIA...
+
+...SUMMARY...
+Strong thunderstorms may impact parts of the eastern Gulf Coast
+vicinity today through tonight, and pose some risk for locally
+damaging wind gusts and perhaps a tornado or two.
+
+...FL Panhandle into Southern GA...
+Current regional radar imagery shows showers ongoing from far
+southwest GA into the western FL Panhandle, along an axis of weak
+pre-frontal confluence within the warm sector. Lightning has not
+been observed within these showers thus far, but deepening
+convective cores suggests some sporadic strikes are possible soon.
+Much of this activity is along and north of a warm front that
+extends roughly from MGM (in central AL) southeastward to TLH before
+arcing back eastward then northeastward across northern FL. Given
+that the ongoing activity is progressing eastward/east-northeastward
+ahead of this warm front, downstream buoyancy will remain minimal,
+with no severe threat anticipated. 
+
+The airmass across the region is expected to continue modifying in
+the wake of these storms, with the low/mid 60s dewpoints that are
+currently offshore moving northward into the region during the
+afternoon and evening. The cold front will likely remain west of the
+region until late tonight/early tomorrow morning, but increasing
+ascent attendant an approaching shortwave trough coupled with modest
+destabilization and persistent warm-air advection should support
+another round of showers and embedded thunderstorms this
+afternoon/evening. Despite the increasing low-level moisture,
+overall buoyancy will remain modest, mitigated by a thermally
+neutral boundary layer and relatively warm mid-levels. Even so, the
+strong vertical shear that is already in place (i.e. 0-6 km bulk
+shear over 70 kt) is expected to persist, supporting the potential
+for some organization within any deeper, more sustained updrafts. As
+a result, an isolated strong storm or two is possible later today
+(mainly this afternoon and evening) with a risk of gusty/damaging
+winds or a tornado.
+
+The development of a more coherent line is likely as the front moves
+through. Buoyancy will remain a mitigating factor, with the highest
+values remaining close to the coast where the higher warmer
+temperatures and dewpoints will be in place. The vertical shear will
+remain very strong, compensating somewhat for the lower buoyancy and
+potentially supporting a continued risk for damaging gusts and maybe
+even a tornado or two through the FL Big Bend region early tomorrow
+morning.
+
+..Mosier/Barnes.. 01/18/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 

@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-01-18 10:23:27
+updated: 2025-01-19 07:04:58
 ---
 
 # games
 
-(date: 2025-01-18 10:23:27)
+(date: 2025-01-19 07:04:58)
+
+---
+
+## The best anime to watch on Netflix right now
+
+date: 2025-01-19, updated: 2025-01-19, from: Polygon Website
+
+Netflix’s continued investment in anime has yielded fruit over the past couple of years. The streaming service has amassed a selection of some of not only the most popular and iconic anime series in recent memory, but also a host of impressive original anime titles. It has secured the platform’s position as of the go-to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/22783137/best-anime-on-netflix>
+
+---
+
+## Grand Theft Hamlet’s creators put Shakespeare in GTA to put chaos back into Shakespeare
+
+date: 2025-01-19, updated: 2025-01-19, from: Polygon Website
+
+Grand Theft Hamlet is a documentary film, kind of. It’s also an experimental theater project. It’s also a rough-and-ready feature-length machinima, made entirely in-game in Grand Theft Auto Online. It’s also a slapstick comedy of errors about three friends trying to fill an empty period in their lives by staging a production of William Shakespeare’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/510687/grand-theft-hamlet-interview-how-they-did-it>
+
+---
+
+## Marvel Snap down, caught in the TikTok ban
+
+date: 2025-01-19, updated: 2025-01-19, from: Polygon Website
+
+All focus was on TikTok in the last week, as the company prepared to — and eventually did — shut down its video-sharing app to adhere to a national security law explicitly aimed at the ByteDance-owned company. But the the U.S. action has resulted in a broader ripple effect. Marvel Snap players discovered on Saturday [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/511299/marvel-snap-down-bytedance-tiktok-ban>
+
+---
+
+## TikTok goes dark in the U.S.
+
+date: 2025-01-19, updated: 2025-01-19, from: Polygon Website
+
+TikTok is down for its 170 million users in the United States after the company voluntarily removed itself from Apple and Google’s app stores. Users can no longer download TikTok to their devices. Upon opening the app on Saturday night, those with the video-sharing app installed were met with a message saying “you can’t use [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/511295/tiktok-shutdown-ban-why-cant-download-app>
+
+---
+
+## After a gloriously chaotic season 1, I can’t wait to see the drama XO, Kitty season 2 has in store
+
+date: 2025-01-18, updated: 2025-01-17, from: Polygon Website
+
+Kitty Song Covey — the titular lead of XO, Kitty and the most chaotic bisexual teenager on Netflix — is back, and I am so ready to see what the hell she gets up to this season, because the first season was so gloriously over the top.  The show is technically a spinoff series of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/510285/xo-kitty-netflix-best-teen-drama>
+
+---
+
+## Twitch streamer Shroud honors his late father in a month-long charity event
+
+date: 2025-01-18, updated: 2025-01-17, from: Polygon Website
+
+Two years after Michael “Shroud” Grzesiek’s father passed away from lung cancer, the popular Twitch streamer was ready to honor his dad by helping others going through the same thing. As one of the biggest streamers on the platform, it’s not a surprise that his first inclination was a charity stream. But one big stream [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/twitch/508879/shroud-fragathon-charity-stream>
+
+---
+
+## When and where Godzilla spawns in Fortnite, and how to become Godzilla explained
+
+date: 2025-01-18, updated: 2025-01-18, from: Polygon Website
+
+Godzilla has arrived in Fortnite as a playable boss that can stomp across the map. Transforming into Godzilla gives you access to powerful abilities that can level cities and annihilate other players — as long as you’re the first to enter a special portal. Becoming Godzilla is easier said than done as you must find [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/510529/godzilla-when-where-spawn-become>
+
+---
+
+## The best sci-fi movies to watch on Netflix this January
+
+date: 2025-01-18, updated: 2025-01-17, from: Polygon Website
+
+2025 is well underway, and there’s a whole lot of exciting new sci-fi releases on the horizon to look forward to. Star Trek: Section 31, The Gorge, and Mickey 17 are slated to hit streaming and theaters within the next couple of months, to say nothing of all the other films slated for release in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/510127/best-sci-fi-movies-watch-netflix-january-2025>
 
 ---
 
@@ -726,76 +822,4 @@ One poorly understood aspect of the modern games industry is the question of how
 <br> 
 
 <https://www.polygon.com/gaming/506967/first-1000-players-game-dev-interviews-push-talk>
-
----
-
-## The Apothecary Diaries is back, and now’s the perfect time to catch up
-
-date: 2025-01-11, updated: 2025-01-10, from: Polygon Website
-
-The Apothecary Diaries wasn’t just my favorite anime of 2024, but my favorite show altogether. Based on the light novel series of the same name, The Apothecary Diaries is a perfect blend of medical procedural and period drama, sprinkled with a delicious slow-burn romance between one of my favorite tropes of grumpy girl and flirty [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/anime/506598/the-apothecary-diaries-watch-season-1>
-
----
-
-## The best Steam Deck accessories
-
-date: 2025-01-11, updated: 2025-01-11, from: Polygon Website
-
-The Steam Deck is a portable gaming powerhouse. After its 2022 launch, it didn&#8217;t take long for the Steam Deck accessory scene to blossom — and it shows no signs of slowing down. The accessories range from all but necessary add-ons (a microSD card and glass screen protectors) to some that are just nice to [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories>
-
----
-
-## It took ‘months’ to convince Donnie Yen to direct and star in The Prosecutor
-
-date: 2025-01-11, updated: 2025-01-10, from: Polygon Website
-
-A new Donnie Yen movie is always a must-see event for action fans. After wowing audiences in 2023 with his role as Caine in John Wick: Chapter 4 and his wuxia epic Sakra (which he directed and starred in), as well as his memorable semi-recent turns in Rogue One and the Ip Man series, the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/action/506278/donnie-yen-the-prosecutor-interview>
-
----
-
-## Chaotic co-op platformer Pico Park 2 shows the Switch is still getting great new games
-
-date: 2025-01-11, updated: 2025-01-10, from: Polygon Website
-
-Given the excitement around the rumored Nintendo Switch 2, it’s easy to miss new games released to current Nintendo Switch consoles. Recent Nintendo Direct presentations seem to rattle off a bunch of random titles with little attention to each game, and the console hasn’t gotten any big new releases in a while, save for the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-play/506028/pico-park-2-nintendo-switch-new-game>
-
----
-
-## The best thrillers to watch on Netflix this January
-
-date: 2025-01-11, updated: 2025-01-10, from: Polygon Website
-
-The new year has begun, and that means it’s time for a fresh batch of Netflix thrillers to fill your days. Every month, we handpick a few of the best thrillers on Netflix that fit the current season. Sometimes they pair well with an upcoming release. Other titles might be new additions to the platform. [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/recommendations/506897/best-thriller-movies-netflix-watch-january-2025>
-
----
-
-## How to sign up for the Elden Ring Nightreign network test
-
-date: 2025-01-11, updated: 2025-01-11, from: Polygon Website
-
-Elden Ring Nightreign, a cooperative roguelike Elden Ring spinoff, will be playable via a network test in February. You’ll experience a portion of what Nightreign has to offer, including a glimpse of its gameplay, classes, and progression — as long as you get selected to be a tester. Unfortunately, not everyone will be able to [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/elden-ring-nightreign-guides/505147/network-test-beta-sign-up-dates-how-to>
 

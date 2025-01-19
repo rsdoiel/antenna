@@ -1,11 +1,24 @@
 ---
 title: motorcycles
-updated: 2025-01-18 10:23:28
+updated: 2025-01-19 07:05:00
 ---
 
 # motorcycles
 
-(date: 2025-01-18 10:23:28)
+(date: 2025-01-19 07:05:00)
+
+---
+
+## This Obnoxious Custom Ducati Sidecar Is Looking For Its Forever Home
+
+date: 2025-01-19, from: Ride Apart, Electric Motorcycle News
+
+The longer you look, the crazier it gets.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/747634/ducati-odisio-custom-revival-cycles/>
 
 ---
 

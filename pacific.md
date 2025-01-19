@@ -1,11 +1,425 @@
 ---
 title: pacific
-updated: 2025-01-18 10:23:25
+updated: 2025-01-19 07:04:57
 ---
 
 # pacific
 
-(date: 2025-01-18 10:23:25)
+(date: 2025-01-19 07:04:57)
+
+---
+
+## For those deemed Trump’s enemies, a time of anxiety and fear
+
+date: 2025-01-19, from: Hawaii Tribune Harold
+
+
+				<p>As Donald Trump returns to office, the critics, prosecutors and perceived enemies who sought to hold him accountable and banish him from American political life are now facing, with considerable trepidation, a president who is assuming power having vowed to exact vengeance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/19/nation-world-news/for-those-deemed-trumps-enemies-a-time-of-anxiety-and-fear/>
+
+---
+
+## Hawaii National Guard Job Challenge Academy unveiled
+
+date: 2025-01-19, from: Hawaii Tribune Harold
+
+
+				<p>Military pomp and circumstance, a maile lei untying, messages from Hawaii dignitaries and a Hawaiian blessing by Kahu Moses Crabbe marked the unveiling Friday of the Hawaii National Guard Job Challenge Academy at Keaukaha Military Reservation in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/19/hawaii-news/hawaii-national-guard-job-challenge-academy-unveiled/>
+
+---
+
+## Parasitic wasps to help combat CBB; officials look to release them this spring
+
+date: 2025-01-19, from: Hawaii Tribune Harold
+
+
+				<p>Swarms of parasitic wasps will descend upon Kona coffee farms this spring as a long-gestating plan to control an invasive pest finally goes forward.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/19/hawaii-news/parasitic-wasps-to-help-combat-cbb-officials-look-to-release-them-this-spring/>
+
+---
+
+## Plotting Banyan’s course: As razing of Uncle Billy’s finishes, officials mull future of area
+
+date: 2025-01-19, from: Hawaii Tribune Harold
+
+
+				<p>The end of the former Uncle Billy&#8217;s Hilo Bay Hotel marks the beginning of a new era for Banyan Drive, Hilo stakeholders hope.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/19/hawaii-news/plotting-banyans-course-as-razing-of-uncle-billys-finishes-officials-mull-future-of-area/>
+
+---
+
+## FAA temporarily halts launches of Musk’s Starship after explosion
+
+date: 2025-01-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The urgent radio calls by the air traffic controllers at the Federal Aviation Administration office in Puerto Rico started to go out Thursday evening as a SpaceX test flight exploded and debris began to rain toward the Caribbean.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/19/nation-world-news/faa-temporarily-halts-launches-of-musks-starship-after-explosion/>
+
+---
+
+## Restoration of Highway 137 begins; contract awarded for Pohoiki Road
+
+date: 2025-01-19, from: Hawaii Tribune Harold
+
+
+				<p>Work to rebuild part of Highway 137 in lower Puna began Jan. 9 with contractor Isemoto Contracting grading the area adjacent to &#8220;Four Corners,&#8221; where Highway 137 meets Highway 132.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/19/hawaii-news/restoration-of-highway-137-begins-contract-awarded-for-pohoiki-road/>
+
+---
+
+## Protesters storm South Korea court after it extends Yoon’s detention
+
+date: 2025-01-19, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL &#8212; A South Korean court on Sunday extended President Yoon Suk Yeol&#8217;s detention for up to 20 days, leading to violent protests by hundreds of angry supporters who stormed the court building, smashed windows and broke inside.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/19/nation-world-news/protesters-storm-south-korea-court-after-it-extends-yoons-detention/>
+
+---
+
+## Malaysia takes on ASEAN mantle but tempers expectations
+
+date: 2025-01-19, from: Hawaii Tribune Harold
+
+
+				<p>LANGKAWI, Malaysia &#8212; Southeast Asian foreign ministers hold a closed-doors retreat in Malaysia on Sunday, as the country hosts its first meeting as chair of the regional bloc ASEAN amid an intensifying civil war in Myanmar and confrontations in the South China Sea.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/19/nation-world-news/malaysia-takes-on-asean-mantle-but-tempers-expectations/>
+
+---
+
+## Trump begins selling new crypto token, raising ethical concerns
+
+date: 2025-01-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President-elect Donald Trump and his family on Friday started selling a cryptocurrency token featuring an image of Trump drawn from the July assassination attempt, a potentially lucrative new business that ethics experts assailed as a blatant effort to cash in on the office he is about to occupy again.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/19/nation-world-news/trump-begins-selling-new-crypto-token-raising-ethical-concerns/>
+
+---
+
+## ‘Angry and frustrated’: Thousands protest Trump days before his inauguration
+
+date: 2025-01-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Some climbed into buses in the wee hours of the morning. Others boarded planes from across the country or drove bleary-eyed through the night. No matter how they got to Washington on Saturday, they shared a common goal: to protest against President-elect Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/19/nation-world-news/angry-and-frustrated-thousands-protest-trump-days-before-his-inauguration/>
+
+---
+
+## Volcano Watch: What tiny crystals can tell us about their trip through the magma chamber
+
+date: 2025-01-19, from: Hawaii Tribune Harold
+
+
+				<p>Like fortune tellers who peer into a crystal ball for insight, volcanologists at the USGS Hawaiian Volcano Observatory peer into the tiny crystals contained in lava flows to learn about the magma&#8217;s journey before it was erupted onto the surface.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/19/features/volcano-watch-what-tiny-crystals-can-tell-us-about-their-trip-through-the-magma-chamber/>
+
+---
+
+## Steves: Sicilian surprises in Palermo
+
+date: 2025-01-19, from: Hawaii Tribune Harold
+
+
+				<p>One thing I enjoy about returning to a destination is the chance to update the outdated impressions I&#8217;ve held in my mind from previous visits. Europe is always changing &#8212; and on my last visit to Sicily&#8217;s capital of Palermo I discovered that it&#8217;s become a whole new city in recent years. It&#8217;s cleaner, safer, and more efficient than it was in years past. But it still retains its colorful edge &#8212; and that&#8217;s why I love it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/19/features/steves-sicilian-surprises-in-palermo/>
+
+---
+
+## Dodgers have duty to protect Sasaki from arm injuries
+
+date: 2025-01-19, from: Hawaii Tribune Harold
+
+
+				<p>Warning to the Los Angeles Dodgers: You assumed a special responsibility on Friday when you signed right-handed pitcher Roki Sasaki, a Japanese free agent. Don&#8217;t break him.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/19/nation-world-news/dodgers-have-duty-to-protect-sasaki-from-arm-injuries/>
+
+---
+
+## New Congress should pull the trigger on Magnitsky sanction requests for Pacific island countries
+
+date: 2025-01-19, from: Pacific Island Times
+
+Following the inauguration, the Trump Administration will be committed to countering revisionist authoritarian powers who are working hard t 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/new-congress-should-pull-the-trigger-on-magnitsky-sanction-requests-for-pacific-island-countries>
+
+---
+
+## United by disaster, LA mourns, and hopes, together
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; It took a wind-whipped inferno to shrink the famously sprawling geography of Los Angeles. Somehow, when everyone knows someone who has lost everything, the place feels smaller.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/united-by-disaster-la-mourns-and-hopes-together/>
+
+---
+
+## Supreme Court backs law requiring TikTok to be sold or banned
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A unanimous Supreme Court on Friday upheld a law that effectively bans the wildly popular app TikTok in the United States starting on Sunday. The ruling ended, at least for now, a legal battle involving national security, free speech and a cultural phenomenon that had millions of Americans deliriously swiping their phone screens at any given moment.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/supreme-court-backs-law-requiring-tiktok-to-be-sold-or-banned/>
+
+---
+
+## Trump targeted scientists in his first term. This time, they’re prepared.
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; During the first Trump administration, Virginia Burkett, a senior government scientist, felt like she had a target on her back.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/trump-targeted-scientists-in-his-first-term-this-time-theyre-prepared/>
+
+---
+
+## Israeli government approves ceasefire deal for Gaza
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; The Israeli government approved a ceasefire deal with Hamas early Saturday that calls for the release of dozens of hostages and hundreds of Palestinian prisoners after hours of deliberations, setting up a reprieve in the 15-month, devastating war in the Gaza Strip.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/israeli-government-approves-ceasefire-deal-for-gaza/>
+
+---
+
+## Hawaii public schools regress in farm-to-plate program
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Education failed to make progress in 2024 toward an ambitious goal prescribed by state law to use more locally produced food in public school meals.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/hawaii-news/hawaii-public-schools-regress-in-farm-to-plate-program/>
+
+---
+
+## Biden commutes sentences of nearly 2,500 drug offenders
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden on Friday commuted the sentences of nearly 2,500 inmates serving long prison terms for nonviolent drug offenses, the broadest commutation of individual sentences ever issued by a U.S. president.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/biden-commutes-sentences-of-nearly-2500-drug-offenders/>
+
+---
+
+## Russia and Iran sign cooperation treaty in the Kremlin
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>President Masoud Pezeshkian of Iran and his Russian counterpart, Vladimir Putin, signed a major cooperation treaty on Friday in the Kremlin, solidifying an alliance between two countries driven by mutual desire to challenge the West.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/russia-and-iran-sign-cooperation-treaty-in-the-kremlin/>
+
+---
+
+## LA fires revive calls for a ‘climate superfund’ law in California
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>Vermont and New York recently became the first states to create &#8220;Climate Superfund&#8221; laws, which will require energy companies to help pay for the costs of dealing with extreme weather and climate change.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/la-fires-revive-calls-for-a-climate-superfund-law-in-california/>
+
+---
+
+## EU expands investigation of X over spread of illicit content
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>As Elon Musk&#8217;s geopolitical influence grows because of his closeness to incoming President Donald Trump, regulators in Europe have faced questions about whether they would scale down an investigation of X, the social media network that Musk owns.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/eu-expands-investigation-of-x-over-spread-of-illicit-content/>
+
+---
+
+## Noem backs revival of Trump’s ‘remain in Mexico’ policy
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Kristi Noem of South Dakota, President-elect Donald Trump&#8217;s pick to run the Homeland Security Department, said that, if confirmed, she would end a program that allows migrants to schedule appointments at a port of entry and would pursue the return of a policy that forces asylum-seekers to stay in Mexico for the duration of their U.S. cases.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/noem-backs-revival-of-trumps-remain-in-mexico-policy/>
+
+---
+
+## Northeast braces for snow as frigid air settles across most of the US
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>The coldest air of the season so far will settle across the United States this weekend, producing a blanket of snow in the mid-Atlantic and Northeast on Sunday, and bringing below-freezing temperatures with dangerously blustery winds to most of the country.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/northeast-braces-for-snow-as-frigid-air-settles-across-most-of-the-us/>
+
+---
+
+## Biden says Equal Rights Amendment has passed, but does not force certification
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden declared on Friday that he believes that the Equal Rights Amendment has met the requirements of ratification and therefore is now part of the Constitution, but he declined to order the government to finalize the process by officially publishing it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/biden-says-equal-rights-amendment-has-passed-but-does-not-force-certification/>
+
+---
+
+## Halloween decorations in January? She’ll go to court for them.
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>Even before Alexis Luttrell adorned her Memphis, Tennessee-area front yard with a pair of skeletons for Halloween, she had decided that she would keep them up for a while. They would just need some seasonal wardrobe changes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/features/halloween-decorations-in-january-shell-go-to-court-for-them/>
+
+---
+
+## Early amaryllis blossoms remind us of spring around the corner
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>Folks living on the mainland are experiencing the chill of winter but Hawaii&#8217;s spring begins as the days get longer. Spring officially occurs when the sun reaches the Equator as it appears to move northward. Of course what is actually happening is that the earth is tilting toward the South Pole and will continue to do so until June 21. Since we are roughly at latitude 19 degrees north, the sun will appear to move northward. Many plants respond to longer day length including plants that form bulbs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/features/early-amaryllis-blossoms-remind-us-of-spring-around-the-corner/>
+
+---
+
+##  $2.2M healthcare funds awarded to Marshall Islands for nuke-affected atolls  
+
+date: 2025-01-18, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Office of Insular Affairs has announced $2.24 million in fiscal year 2025 Technical Assistance... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/2-2m-healthcare-funds-awarded-to-marshall-islands-for-nuke-affected-atolls>
+
+---
+
+## US provides seed fund to establish Micronesian Islands Forum Secretariat in Palau
+
+date: 2025-01-18, from: Pacific Island Times
+
+The Department of the Interior has announced a grant from the Technical Assistance Program to fund the establishment of the Micronesian Isla 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-provides-seed-fund-to-establish-micronesian-islands-forum-secretariat-in-palau>
 
 ---
 
@@ -3159,194 +3573,4 @@ Attorney General Douglas Moylan today defended his office’s move to employ his
 <br> 
 
 <https://www.pacificislandtimes.com/post/nepotism-at-ag-s-office-moylan-defends-fiance-s-and-brother-s-job-qualifications>
-
----
-
-## Israel strikes ports and a power plant in Houthi-controlled parts of Yemen
-
-date: 2025-01-11, from: Hawaii Tribune Harold
-
-
-				<p>JERUSALEM &#8212; Israeli warplanes bombed ports and a power plant in Yemeni territory controlled by the Houthis on Friday, the Israeli military said, in the latest attempt to force the Iranian-backed militant group to stop firing at Israel and commercial ships in the Red Sea.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/11/nation-world-news/israel-strikes-ports-and-a-power-plant-in-houthi-controlled-parts-of-yemen/>
-
----
-
-## An inferno in Southern California, and one family’s escape
-
-date: 2025-01-11, from: Hawaii Tribune Harold
-
-
-				<p>LOS ANGELES &#8212; There was, at first, not even a whisper of fire.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/11/features/an-inferno-in-southern-california-and-one-familys-escape/>
-
----
-
-## Vatican allows Italian gay men to train to be priests, if they remain celibate
-
-date: 2025-01-11, from: Hawaii Tribune Harold
-
-
-				<p>The Vatican has approved new guidelines for Italy that say that an applicant for the seminary cannot be rejected simply because he is gay, as long as he remains celibate.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/11/nation-world-news/vatican-allows-italian-gay-men-to-train-to-be-priests-if-they-remain-celibate/>
-
----
-
-## Power companies reach $16.4 billion deal as AI drives energy use up
-
-date: 2025-01-11, from: Hawaii Tribune Harold
-
-
-				<p>Constellation Energy, the nation&#8217;s largest nuclear power plant operator, has agreed to buy another electricity producer, Calpine, for $16.4 billion, a deal that shows how fast-rising demand for power, partly a result of the data centers being built for artificial intelligence, is having far-reaching effects on the economy.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/11/nation-world-news/power-companies-reach-16-4-billion-deal-as-ai-drives-energy-use-up/>
-
----
-
-## Biden raises bounty for Nicolás Maduro to $25 million
-
-date: 2025-01-11, from: Hawaii Tribune Harold
-
-
-				<p>BOGOTA, Colombia &#8212; The Biden administration said Friday that it was offering $25 million for information leading to the arrest of Nicol&#225;s Maduro, the president of Venezuela, after he assumed a third term in office despite evidence suggesting that he lost Venezuela&#8217;s recent election.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/11/nation-world-news/biden-raises-bounty-for-nicolas-maduro-to-25-million/>
-
----
-
-## LA begins to contain largest blazes as false alarms rattle city
-
-date: 2025-01-11, from: Hawaii Tribune Harold
-
-
-				<p>LOS ANGELES &#8212; Firefighters made some small progress Friday in their fight to corral deadly wind-driven wildfires that have burned for days across the Los Angeles area, bringing a sliver of hope to a shaken region even as the threat of additional fires loomed with more dry, windy weather ahead.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/11/nation-world-news/la-begins-to-contain-largest-blazes-as-false-alarms-rattle-city/>
-
----
-
-## A sentence with no penalty assures Trump will take office as a felon
-
-date: 2025-01-11, from: Hawaii Tribune Harold
-
-
-				<p>Arms crossed, scowl set, President-elect Donald Trump avoided jail, but became a felon.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/11/nation-world-news/a-sentence-with-no-penalty-assures-trump-will-take-office-as-a-felon/>
-
----
-
-## Report urges help for Hawaii households struggling financially
-
-date: 2025-01-11, from: Hawaii Tribune Harold
-
-
-				<p>Aloha United Way, in partnership with the Bank of Hawaii Foundation, released the 2024 ALICE in Hawaii report Thursday, urging policy action to address rising living costs, housing instability and economic challenges especially faced by the state&#8217;s ALICE &#8212; asset-limited, income-constrained, employed &#8212; households.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/11/hawaii-news/report-urges-help-for-hawaii-households-struggling-financially/>
-
----
-
-## ‘We’re in a new era’: How climate change is supercharging disasters
-
-date: 2025-01-11, from: Hawaii Tribune Harold
-
-
-				<p>As Los Angeles burned for days on end, horrifying the nation, scientists made an announcement Friday that could help explain the deadly conflagration: 2024 was the hottest year in recorded history.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/11/nation-world-news/were-in-a-new-era-how-climate-change-is-supercharging-disasters/>
-
----
-
-## Job market finished 2024 on a strong note
-
-date: 2025-01-11, from: Hawaii Tribune Harold
-
-
-				<p>Employers stuck the landing in 2024, finishing the year with a bounce of hiring after a summer slowdown and an autumn marred by disruption.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/11/nation-world-news/job-market-finished-2024-on-a-strong-note/>
-
----
-
-## New facilities, courses at Hawaiʻi CC education center in Honokaʻa
-
-date: 2025-01-11, from: University of Hawaiʻi News
-
-<p>The K&#333; Education Center renovations bring more educational offerings to North <span aria-label="Hawaii">Hawai&#699;i</span> residents.</p>
-The post <a href="https://www.hawaii.edu/news/2025/01/10/newly-renovated-ko-education-center/">New facilities, courses at Hawaiʻi <abbr>CC</abbr> education center in Honokaʻa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/01/10/newly-renovated-ko-education-center/>
-
----
-
-## Supreme Court appears inclined to uphold TikTok ban in US
-
-date: 2025-01-11, updated: 2025-01-12, from: Marianas Variety
-
-WASHINGTON (Reuters) — The Supreme Court seemed inclined on Friday to uphold a law that would force a sale or ban the popular short-video app TikTok in the United States by Jan. 19, with the justices focusing on the national security concerns about China that prompted the crackdown. 
-
-<br> 
-
-<https://www.mvariety.com/business/business_news/supreme-court-appears-inclined-to-uphold-tiktok-ban-in-us/article_e6392836-cfb6-11ef-9e66-e72bcbd99756.html>
-
----
-
-## Trump avoids jail or punishment at hush money sentencing days before inauguration
-
-date: 2025-01-11, updated: 2025-01-12, from: Marianas Variety
-
-NEW YORK (Reuters) — President-elect Donald Trump will not go to jail or face any other punishment for his criminal conviction stemming from hush money paid to a porn star, a judge ruled on Friday but said Trump's Jan. 20 inauguration would not erase the jury verdict. 
-
-<br> 
-
-<https://www.mvariety.com/news/national/trump-avoids-jail-or-punishment-at-hush-money-sentencing-days-before-inauguration/article_5198d9b0-cfb6-11ef-928a-4b9c75a8ddff.html>
-
----
-
-## Visaya earns Big West Player of the Week honors
-
-date: 2025-01-11, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr> M&#257;noa men’s tennis player Azuma Visaya earned his first Big West Player of the Week award.</p>
-The post <a href="https://www.hawaii.edu/news/2025/01/10/visaya-big-west-player-week/">Visaya earns Big West Player of the Week honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/01/10/visaya-big-west-player-week/>
 

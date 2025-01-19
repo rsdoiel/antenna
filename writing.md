@@ -1,11 +1,67 @@
 ---
 title: writing
-updated: 2025-01-18 10:23:27
+updated: 2025-01-19 07:04:58
 ---
 
 # writing
 
-(date: 2025-01-18 10:23:27)
+(date: 2025-01-19 07:04:58)
+
+---
+
+## Depth Charge, edited by Hank Davis & Jamie Ibson: Review by Paul Di Filippo
+
+date: 2025-01-18, from: Locus Magazine
+
+<p><strong>Depth Charge</strong>, edited by Hank Davis &#38; Jamie Ibson (Baen 978-1982193829, trade paperback, 288pp, $18.00) December 2024</p>
+<p>Not so very long ago, the fantastika publishing ecology held open a niche for a species known as the “reprint anthology.” These creatures flourished under the expert hands of such caretakers as Damon Knight, Groff Conklin, Isaac Asimov, Richard Lupoff, Judith Merril and scores of other expert compilers. Their reason for living  <a href="https://locusmag.com/2025/01/depth-charge-edited-by-hank-davis-jamie-ibson-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/depth-charge-edited-by-hank-davis-jamie-ibson-review-by-paul-di-filippo/>
+
+---
+
+## .🪐 #232 - I'm just a silly little guy
+
+date: 2025-01-18, from: Interesting, a blog on writing
+
+And in the grand scheme of things, so are you. 
+
+<br> 
+
+<https://inneresting.substack.com/p/232-im-just-a-silly-little-guy>
+
+---
+
+## Lightspeed, Baffling, GigaNotoSaurus, and Small Wonders: Short Fiction Reviews by Charles Payseur
+
+date: 2025-01-18, from: Locus Magazine
+
+<p>Lightspeed 10/24
+Baffling 10/24
+GigaNotoSaurus 10/24
+Small Wonders 10/24</p>
+<p><strong>Philip Gelatt </strong>and <strong>JT Petty </strong>anchor the October Lightspeed with “<strong>Sully the God</strong>”, which imagines Sully as the Elon Musk of magic, the man who stole the discovery from a dead colleague and turned it into the most successful business the world has ever known. He’s become so rich that money has sort of lost meaning, and yet for  <a href="https://locusmag.com/2025/01/lightspeed-baffling-giganotosaurus-and-small-wonders-short-fiction-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/lightspeed-baffling-giganotosaurus-and-small-wonders-short-fiction-reviews-by-charles-payseur/>
+
+---
+
+## You Catch Ideas: David Lynch as Screenwriter
+
+date: 2025-01-18, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/you-catch-ideas-david-lynch-as-screenwriter" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/You%20Catch%20Ideas%20David%20Lynch%20as%20Screenwriter.png" alt="Image of David Lynch" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>The word genius sometimes gets overused and it doesn’t always apply. Not in the case of David Lynch, who has passed away at the age of 78. Lynch was a bona fide genius who changed our cinematic language and discovered new forms of expression. From the revolutionary <em>Eraserhead</em> (1977) to his critically-acclaimed masterworks <em>Blue Velvet</em> (1986) and <em>Mulholland Drive</em>&nbsp;(2001) to co-creating and being the visionary force behind the beloved TV series <em>Twin Peaks</em>, Lynch’s legacy as an iconoclastic and groundbreaking filmmaker is secure.&nbsp;<br><br>However, Lynch was not just a director…<br><br>He was also a writer.<br><br>Lynch wrote all of his screenplays to his films (and, in most cases, was the sole writer). He also co-wrote the pilot for <em>Twin Peaks</em> and numerous key episodes of the series. A writer-director through-and-through, Lynch’s worldbuilding and characters always appeared on the page before the cameras rolled.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/you-catch-ideas-david-lynch-as-screenwriter>
 
 ---
 
@@ -515,17 +571,4 @@ date: 2025-01-12, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/01/the-spellshop-by-sarah-beth-durst-review-by-colleen-mondor/>
-
----
-
-## Interstellar MegaChef by Lavanya Lakshminarayan: Review by Ian Mond
-
-date: 2025-01-11, from: Locus Magazine
-
-<p><strong>Interstellar MegaChef</strong>, Lavanya Lakshminarayan (Solaris 978-1-83786-233-7, $16.99, 400pp, tp) November 2024.</p>
-<p>I’ve always loved a good cooking show. Back in the day, it was <strong>Top Chef </strong>(where a contestant always undercooked the chicken) and <strong>Great British Menu </strong>(where every pudding had to include rhubarb). Now, I’m obsessed with Uncle Roger’s YouTube channel. His takedown of Jamie Oliver’s Egg Fried Rice, with 28 million views and over one million likes,  <a href="https://locusmag.com/2025/01/interstellar-megachef-by-lavanya-lakshminarayan-review-by-ian-mond/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/01/interstellar-megachef-by-lavanya-lakshminarayan-review-by-ian-mond/>
 
