@@ -1,11 +1,134 @@
 ---
 title: home
-updated: 2025-01-20 07:06:35
+updated: 2025-01-21 07:06:56
 ---
 
 # home
 
-(date: 2025-01-20 07:06:35)
+(date: 2025-01-21 07:06:56)
+
+---
+
+## How to Propagate Grape Hyacinth Bulbs and Seeds
+
+date: 2025-01-21, from: The Gardener's Path
+
+<p>Grape hyacinth bulbs add bright splashes of color to the early spring garden, and a sweet fragrance. Easy and dependable, they’re striking in beds, containers, and naturalized settings and multiply readily so you can quickly expand your collection. Learn all about grape hyacinth propagation for bulbs and seeds now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/propagate-grape-hyacinth/">How to Propagate Grape Hyacinth Bulbs and Seeds</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/propagate-grape-hyacinth/>
+
+---
+
+## Love-in-a-Mist Care and Growing Guide (Most Detailed)
+
+date: 2025-01-21, from: Yard Life blog
+
+<p>Love-in-a-Mist (Nigella damascena) is a charming and easy-to-grow annual plant, celebrated for its feathery foliage, delicate flowers, and unique seed ... </p>
+<p class="read-more-container"><a title="Love-in-a-Mist Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/love-in-a-mist-care-and-growing-guide-most-detailed/#more-22744" aria-label="Read more about Love-in-a-Mist Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/love-in-a-mist-care-and-growing-guide-most-detailed/">Love-in-a-Mist Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/love-in-a-mist-care-and-growing-guide-most-detailed/>
+
+---
+
+## 9 Cauliflower Head Disorders and How to Avoid Them
+
+date: 2025-01-21, from: The Gardener's Path
+
+<p>Cauliflower is a cool weather crop that can be challenging to cultivate. Sometimes growing conditions are less than optimal and the heads don’t form as they should. Join us to learn about 9 common disorders that may cause irregular cauliflower head formation, and measures to avoid them. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/cauliflower-head-disorders/">9 Cauliflower Head Disorders and How to Avoid Them</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/cauliflower-head-disorders/>
+
+---
+
+## 32 Stunning Flowers That Bloom in Winter (with Pictures)
+
+date: 2025-01-21, from: Yard Life blog
+
+<p>Winter may bring colder temperatures and shorter days, but that doesn&#8217;t mean your garden has to go dormant. Many flowers ... </p>
+<p class="read-more-container"><a title="32 Stunning Flowers That Bloom in Winter (with Pictures)" class="read-more button" href="https://ownyardlife.com/32-stunning-flowers-that-bloom-in-winter-with-pictures/#more-22711" aria-label="Read more about 32 Stunning Flowers That Bloom in Winter (with Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/32-stunning-flowers-that-bloom-in-winter-with-pictures/">32 Stunning Flowers That Bloom in Winter (with Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/32-stunning-flowers-that-bloom-in-winter-with-pictures/>
+
+---
+
+## Colorado Blue Spruce (Picea pungens) Care and Growing Guide
+
+date: 2025-01-21, from: Yard Life blog
+
+<p>The Colorado blue spruce (Picea pungens), known for its stunning silvery-blue needles and pyramidal shape, is a popular ornamental tree ... </p>
+<p class="read-more-container"><a title="Colorado Blue Spruce (Picea pungens) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/colorado-blue-spruce-picea-pungens-care-and-growing-guide/#more-22708" aria-label="Read more about Colorado Blue Spruce (Picea pungens) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/colorado-blue-spruce-picea-pungens-care-and-growing-guide/">Colorado Blue Spruce (Picea pungens) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/colorado-blue-spruce-picea-pungens-care-and-growing-guide/>
+
+---
+
+## How to Grow Titanopsis Jewel Plant (Living Rock)
+
+date: 2025-01-20, from: The Gardener's Path
+
+<p>Jewel plant, aka living rock (Titanopsis hugo-schlechteri), is a mimicry plant with a gravelly look that helps it blend into its native habitat. Concrete leaf plants, as they are also known, are easy to grow and make a unique addition to your succulent collection. Learn how to grow jewel plants in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/grow-titanopsis-jewel-plant/">How to Grow Titanopsis Jewel Plant (Living Rock)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/grow-titanopsis-jewel-plant/>
+
+---
+
+## Outside of Paris, a Le Corbusier Villa Just Hit the Market for $5M
+
+date: 2025-01-20, from: Dwell
+
+Certified as a Historic Monument, the home and studio of famed sculptor Oscar Miestchaninoff is a work of art in its own right. 
+
+<br> 
+
+<https://www.dwell.com/article/le-corbusier-maison-atelier-miestchaninoff-boulogne-billancourt-france-real-estate-86984ef6>
+
+---
+
+## Budget Breakdown: This Edwardian Got An Overhaul—and a Salmon-Pink Addition—for $1M
+
+date: 2025-01-20, from: Dwell
+
+"Basically everything had asbestos in it," says architect Aleksandra Popovska—but that was the first of many pricey surprises as she revamped a 1912 home for her growing family. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-third-house-edwardian-renovation-hidden-studio-vancouver-f1051e72>
+
+---
+
+## A "No-Maintenance" Home in Coastal Argentina Rehashes the Area’s 1970s Retreats
+
+date: 2025-01-20, from: Dwell
+
+Mar Azul’s brick chalets inspired this airy residence, which has gridded window coverings, strips of glazing, and a concrete ramp entry. 
+
+<br> 
+
+<https://www.dwell.com/article/house-in-mar-azul-gonzalo-viramonte-brick-and-concrete-home-78304852>
 
 ---
 
@@ -51,6 +174,18 @@ date: 2025-01-20, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/norway-spruce-picea-abies-care-and-growing-guide/>
+
+---
+
+## This Bright and Open Kitchen Cleverly Conceals Its Appliances
+
+date: 2025-01-20, from: Sunset Magazine - Living in the West
+
+The kitchen in a Fremont, California, house was spacious, but had a bad layout. Here's how one designer made it more functional. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/fremont-kitchen-makeover>
 
 ---
 

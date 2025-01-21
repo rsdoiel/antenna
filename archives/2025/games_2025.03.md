@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-01-20 07:06:34
+updated: 2025-01-21 07:06:55
 ---
 
 # games
 
-(date: 2025-01-20 07:06:34)
+(date: 2025-01-21 07:06:55)
+
+---
+
+## Disney Lorcana release dates set for Archazia’s Island, Reign of Jafar sets
+
+date: 2025-01-21, updated: 2025-01-21, from: Polygon Website
+
+Disney Lorcana’s next set, Archazia’s Island, will launch March 21, Ravensburger announced at the London Toy Fair Tuesday. It also announced Reign of Jafar will launch on June 6, featuring a menacing Jafar who will occupy Archazia’s Island in what the press materials call “the greatest threat that Lorcana has faced.” Ravensburger teased visuals, too, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/511154/disney-lorcana-archazias-island-release-date-reign-jafar>
+
+---
+
+## How to get assists in Marvel Rivals
+
+date: 2025-01-21, updated: 2025-01-21, from: Polygon Website
+
+Assists in Marvel Rivals are when you help an ally get an elimination during the game. Duelist and Vanguard players might not be getting as many assists as their Strategist counterparts, but that&#8217;s due to how they help allies get eliminations — so rather than not getting the final hit on an enemy, you need [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/510849/assists-how-to-get>
+
+---
+
+## All Galar Pokémon in Pokémon Go so far
+
+date: 2025-01-21, updated: 2025-01-21, from: Polygon Website
+
+The Galar region is in Pokémon Go, meaning Pokémon from the Sword and Shield games (Gen 8) will start appearing over time. Most Pokémon will get added through events, with various Pokémon making their debuts around whatever theme each event has. While we did already have some Pokémon like Falinks and regional variations like Galarian [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/444111/galar-pokemon-list-gen-8>
+
+---
+
+## How to get Rookidee and evolutions Corvisquire and Corviknight in Pokémon Go
+
+date: 2025-01-21, updated: 2025-01-21, from: Polygon Website
+
+Rookidee makes its debut in Pokémon Go as part of Jan. 2025’s “Steeled Resolve” event. The Galar flying-type can evolve into Corvisquire and then Corviknight as part of its evolution line, provided you have enough candy. Similar to many recent new Pokémon in Pokémon Go, Rookidee cannot be found in the wild — but the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/511369/rookidee-corvisquire-corviknight>
+
+---
+
+## D&#038;D monsters and d20 included in new Horrified game by Ravensburger
+
+date: 2025-01-21, updated: 2025-01-21, from: Polygon Website
+
+Today, tabletop game publisher Ravensburger announced a Dungeons &#38; Dragons-based expansion to its acclaimed Horrified tabletop game series at the London Toy Fair. Slated for release this summer, the game will set players against four iconic enemies from the world’s most popular tabletop role-playing game — with some additional mechanics inspired by D&#38;D.&#160; The fifth [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/board-games/510834/dnd-horrified-ravensburger-board-game-london-toy-fair>
+
+---
+
+## Can Wooper and Paldean Wooper be shiny in Pokémon Go?
+
+date: 2025-01-21, updated: 2025-01-21, from: Polygon Website
+
+Wooper and Paldean Wooper, the water fish and poison fish Pokémon from Johto and Paldea, can be found in the wild in Pokémon Go. Yes, Wooper and Paldean Wooper can be shiny in Pokémon Go! Both the Johto version of Wooper and Paldean Wooper have great shinies. The former was introduced as part of Wooper [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/23859703/can-wooper-be-shiny-quagsire>
+
+---
+
+## Infinity Nikki codes for January 2025
+
+date: 2025-01-21, updated: 2025-01-21, from: Polygon Website
+
+Infinity Nikki has codes to redeem that give you goodies, just like many other modern mobile games on the market. You won’t want to miss out on using these codes, since they expire and they actually give some pretty good loot, like premium currency. Below we list all the active codes in Infinity Nikki for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals>
+
+---
+
+## Ravensburger announces new Disney Villainous games and international tournaments 
+
+date: 2025-01-20, updated: 2025-01-20, from: Polygon Website
+
+At the London Toy Fair, award-winning publisher Ravensburger announced three major updates to its Villainous franchise in 2025, a series of board games based on iconic Disney properties. The announcement includes a new all-ages board game, Disney Villainous Unstoppable!, an expanded international tournament circuit, and new Villainous games — including one set in the Star [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/board-games/510813/ravensburger-announces-new-disney-villanous-games-and-international-tournaments>
+
+---
+
+## Night Agent season 2 on Netflix, The Agency season finale, and more new TV this week
+
+date: 2025-01-20, updated: 2025-01-17, from: Polygon Website
+
+It’s all thriller, no filler this week in television — well, that plus a comedy-drama about girls trying to find fulfilling love and sex during their sophomore year of college. But the main events this week are pretty much all some type of espionage thriller. Pretty much all of these spies are stressed (predictable) and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/507251/new-netflix-tv-night-agent-season-2-agency-finale>
+
+---
+
+## Can’t wait for Red God? Play the Red Rising board game
+
+date: 2025-01-20, updated: 2025-01-20, from: Polygon Website
+
+It’s 2025, and no, we still haven’t heard word about a Red God release date. In the meantime, though, I’ve been holding myself over lately with the Red Rising board game. Turns out, a conveniently color-coded social hierarchy lends itself not just to timely social commentary, but also to the bones of a terrific board [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/510451/red-rising-board-game-impressions>
 
 ---
 

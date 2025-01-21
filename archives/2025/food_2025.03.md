@@ -1,11 +1,75 @@
 ---
 title: food
-updated: 2025-01-20 07:06:36
+updated: 2025-01-21 07:06:57
 ---
 
 # food
 
-(date: 2025-01-20 07:06:36)
+(date: 2025-01-21 07:06:57)
+
+---
+
+## This Is Why the ‘A’ in Chick-fil-A Is Capitalized
+
+date: 2025-01-21, from: Taste of Home
+
+<p>Nope, it's not a typo. There's a good reason why the A in Chick-fil-A is capitalized—and it's central to the fast food restaurant's mission.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-does-the-a-stand-for-in-chick-fil-a/">This Is Why the &#8216;A&#8217; in Chick-fil-A Is Capitalized</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-does-the-a-stand-for-in-chick-fil-a/>
+
+---
+
+## Coffee News Club: Week of January 21st
+
+date: 2025-01-21, from: The Fresh Cup
+
+<p>Click to see how much more the Starbucks CEO makes than the average barista. That and more: here's the news for the week of January 21st. </p>
+<p>The post <a href="https://freshcup.com/coffee-news-club-week-of-january-21st/">Coffee News Club: Week of January 21st</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/coffee-news-club-week-of-january-21st/>
+
+---
+
+## Horchata Overnight Oats
+
+date: 2025-01-21, from: Bon Appetet
+
+A big batch of overnight oats made with chopped almonds and mild rice milk that tastes just like horchata. An ideal and filling breakfast. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/horchata-overnight-oats>
+
+---
+
+## Air-Fryer Chicken Breasts
+
+date: 2025-01-20, from: Taste of Home
+
+These air-fryer chicken breasts are perfectly cooked with a simple seasoning blend of pantry herbs and spices. File this recipe away for quick dinners and easy meal prep. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/air-fryer-chicken-breasts/>
+
+---
+
+## Cheeseburger Casserole
+
+date: 2025-01-20, from: Taste of Home
+
+Cheeseburger casserole is a one-pot recipe that combines elbow macaroni with all the flavors of a classic cheeseburger, including beef, onion, tomatoes, pickle relish and lots of melty cheese. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cheeseburger-casserole-2/>
 
 ---
 
@@ -184,4 +248,28 @@ date: 2025-01-19, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/gluten-free-recipes/>
+
+---
+
+## Copycat Marshall Field’s Chocolate Cookies
+
+date: 2025-01-19, from: Taste of Home
+
+Department store cookies were a storied shopping tradition that is deeply missed. Relive the glory days with this copycat Marshall Field's chocolate cookies recipe. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/copycat-marshall-fields-chocolate-cookies/>
+
+---
+
+## Copycat Chick-fil-A Brownies
+
+date: 2025-01-19, from: Taste of Home
+
+It's official: Chick-fil-A is the best at everything—including dessert. We present this copycat Chick-fil-A brownies recipe as evidence. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/copycat-chick-fil-a-brownies/>
 

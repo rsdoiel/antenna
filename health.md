@@ -1,11 +1,131 @@
 ---
 title: health
-updated: 2025-01-20 07:06:36
+updated: 2025-01-21 07:06:56
 ---
 
 # health
 
-(date: 2025-01-20 07:06:36)
+(date: 2025-01-21 07:06:56)
+
+---
+
+## Whole-genome analysis of a ST45-SCCmec IVa (2B)-t116 methicillin-resistant Staphylococcus aureus strain isolated from the sputum of a 5-year-old child with pneumonia
+
+date: 2025-01-21, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionMethicillin-resistant Staphylococcus aureus (MRSA) sequence type (ST) 45 is a major global MRSA lineage with huge strain diversity and a high clinical impact. In Hainan and Guangzhou of China, the ST45-MRSA was mainly associated with t116.MethodsThe MRSA strain SA2107 was isolated from the sputum of a 5-year-old child with pneumonia. The whole genome of SA2107 was sequence using Illumina (Novaseq 6000) and PacBio (Sequel IIe) sequencers, and the sequences were assembled using hybrid assembly. The carriage of antibiotic resistance genes, virulence genes, and mobile genetic elements were identified using bioinformatics tools. The comparative genomic analyses of MRSA strain SA2107 with other MRSA strains worldwide were performed.FindingsThe genome size of ST45-SCCmec IVa (2B)-t116 MRSA strain SA2107 was ~2.9 Mb. Mobile genetic elements analysis of SA2107 revealed two plasmids (30,064-bp pSA2107-1 and 8,033-bp pSA2107-2), three prophages, two integrative and conjugative elements (ICEs), and two insertion sequences (ISs, IS431 and IS1272). The SCCmec IVa (2B) carried by SA2107 contained the class B mec gene complex (IS431-mecA-ΔmecR1-IS1272) and type 2 ccr gene complex (ccrA2 and ccrB2). Besides mecA, another beta-lactam resistance gene blaZ was found to located on six copies of bla complex (blaZ, blaR1, and blaI) on the chromosome of SA2107. Three kinds of virulence factors were detected on the chromosome of SA2107, including genes encoding toxins, exoenzyme, and immune-modulating protein. Notably, the three prophages harbored by the chromosome of SA2107 all carried virulence genes.ConclusionThus far, only three complete genomes available for ST45-SCCmec IVa (2B)-t116 strain from United States, Germany, and Australia, respectively. The strain SA2107 was the first complete genome data (CP104559) from China for ST45-SCCmec IVa (2B)-t116 MRSA. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1413024>
+
+---
+
+## Characteristics of lower respiratory microbiota in children’s refractory Mycoplasma pneumoniae pneumonia pre- and post-COVID-19 era
+
+date: 2025-01-21, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionLittle was known about the characteristics of low respiratory tract (LRT) microbiota of refractory M. pneumoniae pneumonia (RMPP) in children before and after the COVID-19 pandemic.MethodsForty-two children diagnosed with RMPP in 2019 (Y2019 group) and 33 children diagnosed with RMPP in 2023 (Y2023 group), entered into the study. The characteristics of the clinical findings were examined, and the LRT microbiota was analyzed by metagenomic next generation sequencing.ResultsThe ratio of consolidate, atelectasis, lung necrosis, and erythema multiforme in Y2023 group was significantly higher than that in Y2019 (P<0.05). Mycoplasmoides pneumoniae was the top species of the LRT microbiota in both groups. The rate of macrolide resistance MP in Y2023 was significantly higher than that in Y2019 (P<0.05), and the mutant site was all 23S rRNA A2063G. There were no significant differences in α-diversity and β-diversity of LRT microbiota between Y2019 and Y2023 group. Trichoderma citrinoviride, Canine mastadenovirus A, Ralstonia pickettii, Lactococcus lactis, Pseudomonas aeruginosa were the biomarkers of LRT microbiota in children with RMPP of Y2023. The abundance of Mycoplasmoides pneumoniae positively correlated with the levels of D-dimer and LDH, negatively correlated with the counts of CD3+ T cells, CD8+ T cells, CD19+ B cells and CD16+CD56+ NK cells.DiscussionOur study showed that high abundance of MP was correlated with the severity of RMPP and decrease of immune cells. Trichoderma citrinoviride, Canine mastadenovirus A, Ralstonia pickettii, Lactococcus lactis, Pseudomonas aeruginosa were the biomarkers in microbiota of LRT in children with RMPP post COVID-19 era. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1438777>
+
+---
+
+## CAM/TMA-DPH as a promising alternative to SYTO9/PI for cell viability assessment in bacterial biofilms
+
+date: 2025-01-21, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionAccurately assessing biofilm viability is essential for evaluating both biofilm formation and the efficacy of antibacterial treatments. Traditional SYTO9 and propidium iodide (PI) live/dead staining in biofilm viability assays often ace challenges due to  non-specific staining, limiting precise differentiation between live and dead cells. To address this limitation, we investigated an alternative staining method employing calcein acetoxymethyl (CAM) to detect viable cells based on esterase activity, and 1-(4-trimethylammoniumphenyl)-6-phenyl-1,3,5-hexatriene p-toluenesulfonate (TMA-DPH) to assess the remaining biofilm population.MethodsBiofilms of Pseudomonas aeruginosa, Klebsiella pneumoniae, Staphylococcus aureus, and Enterococcus faecium were matured and exposed to varying concentrations of antibiotics or sterile medium. Biofilm viability was assessed using CAM/TMA-DPH or SYTO9/PIstaining, followed by analysis with confocal laser scanning microscopy (CLSM) and ImageJ-based biofilm surface coverage quantification. Viability findings were compared with colony-forming units (CFU/mL), a standard microbial viability measure.ResultsCAM/TMA-DPH staining demonstrated strong positive correlations with CFU counts across all bacterial species (r = 0.59 - 0.91), accurately reflecting biofilm vitality. In contrast, SYTO9/PI staining consistently underestimated the viability of untreated biofilms, particularly in Klebsiella pneumoniae, where a negative correlation with CFU/mL was observed (r = –0.04). Positive correlations for SYTO9/PI staining were noted in other species (r = 0.65 - 0.79). These findings underscore the limitations of membrane integrity-based staining methods and highlight the advantages of metabolic-based probes like CAM/TMA-DPH.DiscussionOur findings suggest that CAM/TMA-DPH staining provides a promising alternative to SYTO9/PI for cell viability assessment in bacterial biofilms, highlighting the advantages of metabolic-based probes over traditional membrane integrity assays. The consistency of CAM/TMA-DPH staining across different bacterial species underscores its potential to advance studies on biofilm and contribute to the development of more effective anti-biofilm treatments, which is essential for clinical management of biofilm-associated infections. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1508016>
+
+---
+
+## Characterization of the Vibrio anguillarum VaRyhB regulon and role in pathogenesis
+
+date: 2025-01-21, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe marine Gram-negative bacterium Vibrio anguillarum is one of the major pathogens in aquaculture. Iron uptake is a prerequisite for virulence and is strictly controlled by a global iron uptake regulator, Fur, which acts as a repressor under iron-replete conditions. When iron is depleted, Fur also functions as an activator, playing an important role in pathogenesis. It is unclear whether this upregulation model is mediated by a small RNA, RyhB. MethodsThe small RNA, VaryhB, was deleted in V. anguillarum strain 775, and its regulon was investigated using transcriptomic analysis. The roles of VaRyhB in siderophore synthesis, chemotaxis and motility, and oxidative stress were evaluated using chrome azurol S (CAS) liquid assay, swimming motility assay, and intracellular reactive oxygen species (ROS) assay, respectively. The virulence of VaRyhB was evaluated by challenging turbot larvae intraperitoneally. ResultsThe small RNA called VaRyhB identified in V. anguillarum strain 775 is significantly longer than that in Escherichia coli. Transcriptomic analysis revealed that VaRyhB is critical for iron homeostasis under limited iron conditions, and deletion of VaRyhB resulted in lower expression levels of certain genes for siderophore biosynthesis and transport, thereby leading to impaired growth, reduced siderophore production, and decreased pathogenesis. The virulence factor motility is also upregulated by VaRyhB, and reduced motility capability was observed in the ΔVaryhB mutant, which may be another reason resulting in weak pathogenesis. The sensitivity toward H2O2 in the ΔVafur mutant could be restored by the loss of VaRyhB, suggesting that the role of Fur in oxidative stress is mediated by VaRyhB. VaRyhB also functions to inhibit the expression of genes involved in Fe-S assembly and the TCA cycle. In addition, two aspects of the type VI secretion system and molybdenum cofactor biosynthesis were first identified as being regulated by VaRyhB. ConclusionIn V. anguillarum, the sRNA VaRyhB plays a critical role in the inhibition of genes involved in the TCA cycle, Fe-S assembly, and the type VI secretion system. It is also essential for the activation of siderophore synthesis, chemotaxis and motility, and anaerobic denitrification. Our work provides the first evidence of the VaRyhB regulon and its role in the pathogenesis of V. anguillarum. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1531176>
+
+---
+
+## Decoding mitochondrial DNA  damage and repair associated with H. pylori infection
+
+date: 2025-01-21, from: Frontiers in Cellular and Infection Microbiology
+
+Mitochondrial genomic stability is critical to prevent various human inflammatory diseases. Bacterial infection significantly increases oxidative stress, driving mitochondrial genomic instability and initiating inflammatory human disease. Oxidative DNA base damage is predominantly repaired by base excision repair (BER) in the nucleus (nBER) as well as in the mitochondria (mtBER). In this review, we summarize the molecular mechanisms of spontaneous and H. pylori infection-associated oxidative mtDNA damage, mtDNA replication stress, and its impact on innate immune signaling. Additionally, we discuss how mutations located on mitochondria targeting sequence (MTS) of BER genes may contribute to mtDNA genome instability and innate immune signaling activation. Overall, the review summarizes evidence to understand the dynamics of mitochondria genome and the impact of mtBER in innate immune response during H. pylori-associated pathological outcomes. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1529441>
+
+---
+
+## Borrelia burgdorferi tolerates alteration to P66 porin function in a murine infectivity model
+
+date: 2025-01-21, from: Frontiers in Cellular and Infection Microbiology
+
+Borrelia burgdorferi exists in a complex enzootic life cycle requiring differential gene regulation. P66, a porin and adhesin, is upregulated and essential during mammalian infection, but is not produced or required within the tick vector. We sought to determine whether the porin function of P66 is essential for infection. Vancomycin treatment of B. burgdorferi cultures was used to screen for P66 porin function and found to generate spontaneous mutations in p66 (bb0603). Three novel, spontaneous, missense P66 mutants (G175V, T176M, and G584R) were re-created by site-directed mutagenesis in an infectious strain background and tested for infectivity in mice by ID50 experiments. Two of the three mutants retained infectivity comparable to the isogenic control, suggesting that B. burgdorferi can tolerate alteration to P66 porin function during infection. The third mutant exhibited highly attenuated infectivity and produced low levels of P66 protein. Interestingly, four isolates that were recovered for p66 sequencing from mouse tissues revealed novel secondary point mutations in genomic p66. However, these secondary mutations did not rescue P66 porin function. New structural modeling of P66 is presented and consistent with these experimental results. This is the first work to assess the contribution of P66 porin function to B. burgdorferi pathogenesis. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1528456>
+
+---
+
+## Rapid diagnostic testing combined with an immediate infectious disease consultation increases the rate of septic intensive care unit patients on targeted antibiotic therapy
+
+date: 2025-01-21, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectivesTo evaluate the impact of rapid diagnostic testing (RDT) combined with immediate infectious disease (ID) consultation on the treatment of septic patients with positive blood cultures in intensive care units in a setting without 24/7 service.MethodsAdult ICU patients in a tertiary care hospital with positive blood cultures were included from January 2019 to December 2020. The control group underwent routine laboratory testing, and for the intervention group, RDT was applied with immediate ID consultation.ResultsIn 77 out of the 91 patients in the intervention group, the pathogen was identified by RDT. Regarding antimicrobial susceptibility testing (AST), genotypic testing (ePlex®) was successful for Gram-positive cocci, but inadequate for Gram-negative rods. Phenotypic resistance testing with the Accelerate PhenoTest® took too long to be successfully integrated into the intervention. Adaptation of empirical antibiotic therapy was recommended for 72.7% of the patients. Adherence to the ID consultation post-RDT results was high at 82.3%. In the control group, adaptation of the initial antibiotic therapy would have been recommended for 81.8% of patients, if the species identification had been available. Overall adherence to the local antibiotic therapy guideline for sepsis was significantly lower in the control than in the intervention group (27.8% versus 89.3%, p<0.001).ConclusionIntegration of an RDT system in the microbiological workflow for septic patients in ICU combined with a standardized ID intervention led to a significantly higher percentage of adequate antimicrobial treatment and greater adherence to local antibiotic therapy recommendations, even in a setting where 24/7 service is not available. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1513408>
+
+---
+
+## Decoding MexB efflux pump genes: structural, molecular, and phylogenetic analysis of multidrug-resistant and extensively drug-resistant Pseudomonas aeruginosa
+
+date: 2025-01-21, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveEmerging drug resistance in Pseudomonas aeruginosa is of great concern in clinical settings. P. aeruginosa activates its efflux-pump system in order to evade the effect of antibiotics. The current investigation aims to detect MexB genes in P. aeruginosa, their structural and molecular analysis and their impact on antimicrobial susceptibility profiling.MethodsA total of 42 clinical specimens were aseptically collected from hospitalized patients who had underlying infections related to medical implants. Matrix-assisted laser desorption ionization-time of flight (MALDI-ToF) were used for the identification of isolates. The methods used in this study were antibiotic susceptibility profiling, minimum inhibitory concentration (MIC), polymerase chain reaction (PCR), sanger sequencing, phylogenetic analysis, MolProbity score, Ramachandran plot analysis and multiple sequence alignment.ResultsThe highest resistance was shown by P. aeruginosa against cefoperazone (67%), gentamycin and amikacin (66%) each, followed by cefotaxime (64%). The prevalence of multi-drug resistant (MDR) and extensively drug resistant (XDR) was 57% and 12%, respectively. The presence of an active efflux-pump system was indicated by the MexB genes found in most of the resistant isolates (p<0.05). Following addition of efflux pump inhibitor carbonyl cyanide m-chlorophenyl hydrazone (CCCP), a significant decrease (p<0.05) in MIC was observed in resistance, that revealed the presence of active efflux pump system. Phylogenetic analysis revealed evolutionary relationships with the P. aeruginosa strains isolated in Switzerland, Denmark and Germany. Protein domain architecture revealed that MexB gene proteins were involved in particular efflux pump function. Protein sequences aligned by multiple sequence alignment revealed conserved regions and sequence variants, which suggested antibiotic translocation and evolutionary divergence. These highly conserved regions could be used for diagnostic purposes of efflux pump MexB genes.ConclusionTo avoid their spread in hospital settings, responsible authorities ought to begin rigorous initiatives in order to reduce the prevalence of multi-drug resistant, extensively drug resistant, and efflux pump carrying isolates in clinical settings. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1519737>
+
+---
+
+## Whole-genome sequencing reveals transmission pattern and drug resistance of Mycobacterium tuberculosis intra- or inter-hosts
+
+date: 2025-01-21, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundTuberculosis (TB) remains a serious global public health problem. The Mycobacterium tuberculosis (MTB) is responsible for approximately 10 million new TB cases globally each year. This study aimed to investigate transmission pattern and drug resistance of MTB in Shenzhen, China.MethodsA retrospective study on 286 samples from 184 TB patients collected between 2015 and 2018 in Shenzhen Third People’s Hospital was conducted using whole-genome sequencing. Drug susceptibility testing (DST) was performed using both phenotypic DST (pDST) and molecular DST (mDST). Sample diversity was evaluated by SNPs and transmission clusters were identified based on SNP differences of 12 or fewer in genetic clusters.ResultsExcept four samples identified as non-tuberculous mycobacteria, 282 MTB samples (181 patients) underwent mDST, with 244 samples (162 patients) undergoing pDST. The overall multidrug-resistant rate in patients was 22.31% in pDST (12.00% for new patients and 40.82% for retreatment patients) and 34.48% in mDST (20.41% for new patients and 58.21% for retreatment patients). Totally 92 transmission clusters were identified, encompassing 70.21% samples (57.46% patients), with 5 clusters containing samples (15, 5.32%) from different patients (9, 4.97%), indicating recent transmission. The drug-resistant mutations in 36 of 45 transmission clusters (80.00%) were identical in all samples, suggesting the transmission of drug resistance. Patients with multiple samples were categorized into simultaneous sampling (SS) and continuous sampling (CS) groups, revealing significant differences in treatment types, treatment outcomes, residential addresses, and drug resistance types. mDST showed greater accuracy than pDST in SS and CS groups. A novel method based on heterozygous SNPs and two-sample Kolmogorov–Smirnov test were developed and identified 12 (4.26%) samples as mixed infection samples. Six of 12 patients had mixed and pure samples together, and major strains of mixed samples were closer to corresponding pure strains than minor strains.ConclusionsThis retrospective study, conducted at the only municipal hospital specializing in infectious diseases in Shenzhen, provides the opportunity to understand drug resistance of TB patients, which mainly are refractory patients. The study revealed transmission patterns of MTB, analyzed mixed infections, and tracked changes in MTB strains during short/long-term treatment. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1488547>
+
+---
+
+## Lateral flow assay as radiological prognosis factor of pulmonary cryptococcosis: a single center retrospective study in China
+
+date: 2025-01-21, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundLateral flow assay (LFA) has demonstrated high sensitivity and specificity for diagnosing cryptococcosis. However, its role in predicting therapeutic efficacy for pulmonary cryptococcosis (PC) remains underexplored.MethodsWe conducted a retrospective analysis of HIV-negative patients with PC to describe the clinical profile and identify potential predictors of radiological prognosis.ResultsAll the 168 participants received antifungal therapy with a triazole agent. Of these, 84.5% experienced partial or complete absorption of pulmonary lesions. The results of the gamma test, chi-square trend test, and ordinal logistic regression all indicated that both baseline LFA and changes in LFA after treatment were significant predictors of imaging prognosis. The degree of radiological improvement was inversely associated with the baseline LFA positive grade(P for linear-by-linear association: 0.011, Spearman correlation coefficient = -0.17; γ= -0.368, P = 0.045). Patients with a decrease in LFA after therapy had significantly better radiological outcomes compared to those with equal or increased LFA(linear-by-linear association, P = 0.014, Spearman correlation coefficient = 0.188; γ = 0.371, P = 0.012). Additionally, favorable outcomes were more likely in patients with lesions confined to the right lung.ConclusionsLFA shows potential of monitoring radiological outcomes in pulmonary cryptococcosis. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1497082>
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 title: weather
-updated: 2025-01-20 07:06:34
+updated: 2025-01-21 07:06:54
 ---
 
 # weather
 
-(date: 2025-01-20 07:06:34)
+(date: 2025-01-21 07:06:54)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-01-20, from: Eastern Pacific Basin Tropical Cyclones
+date: 2025-01-21, from: Eastern Pacific Basin GIS Data
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
@@ -21,15 +21,159 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Mon Jan 20 14:46:02 UTC 2025
+## SPC - No watches are valid as of Tue Jan 21 14:49:01 UTC 2025
 
-date: 2025-01-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Mon Jan 20 14:46:02 UTC 2025. 
+No watches are valid as of Tue Jan 21 14:49:01 UTC 2025. 
 
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC MD 48
+
+date: 2025-01-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0048.html"><img src="https://www.spc.noaa.gov/products/md/mcd0048.png" border="1" alt="MD 0048 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0048
+NWS Storm Prediction Center Norman OK
+0846 AM CST Tue Jan 21 2025
+
+Areas affected...Southeast Louisiana...southern Mississippi and far
+southern Alabama
+
+Concerning...Heavy snow 
+
+Valid 211446Z - 211845Z
+
+SUMMARY...Moderate to heavy snow to continue this morning and
+through the afternoon. Some blowing and drifting is also expected.
+
+DISCUSSION...An expansive region of light to occasionally moderate
+snow has spread across much of the central Gulf coast this morning.
+Expect precipitation rates to increase through the late morning and
+afternoon with widespread moderate to occasionally heavy snowfall
+rates expected. In addition, some stronger winds, particularly
+closer to the coast will lead to some blowing and drifting. Areas
+with northward exposure (ex. southern short of Lake Pontchartrain)
+may see some localized blizzard conditions through the day. 
+
+Some mixed precipitation is being observed from southern Terrebonne
+Parish to southern St. Bernard Parish where a warm nose (seen just
+below 700mb on the LIX 12Z RAOB) is slightly above freezing. 60
+knots of southwesterly flow in this warm nose will attempt to
+maintain its presence across the region while temperatures aloft
+continue to cool. Expect the cold air to eventually win out with
+snow likely across all of southern Louisiana by later this
+afternoon.
+
+..Bentley.. 01/21/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...MOB...JAN...LIX...LCH...
+
+LAT...LON   31019159 31519076 31608898 31238781 30798754 30218756
+            30198828 30138865 29938871 29528885 29078901 28908909
+            28948999 29049087 29309164 29419195 30419196 31019159 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0048.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md0048.html>
+
+---
+
+## SPC MD 47
+
+date: 2025-01-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0047.html"><img src="https://www.spc.noaa.gov/products/md/mcd0047.png" border="1" alt="MD 0047 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0047
+NWS Storm Prediction Center Norman OK
+0447 AM CST Tue Jan 21 2025
+
+Areas affected...Far southeast Texas into south-central Louisiana
+
+Concerning...Heavy snow 
+
+Valid 211047Z - 211515Z
+
+SUMMARY...Moderate snowfall with embedded heavier bands will become
+more likely over the next several hours in southern Louisiana.
+
+DISCUSSION...The broad upper-level trough across the central/eastern
+U.S. is in the process of intensifying this morning. As this occurs,
+the upper-level jet along eastern flank of the trough will also
+intensify. Increasing mid/upper-level ascent as well as at least
+weak lower-level frontogenesis (850-700 mb or so) will promote
+favorable conditions for dendritic growth. Moderate snowfall has
+already been observed at several stations in southwestern Louisiana
+over the last hour. With the most favorable synoptic conditions
+expected to occur around mid/late morning, moderate snowfall should
+become increasingly prevalent across southern Louisiana in
+particular. Some banded structures will be possible which could
+produce heavier snowfall rates (0.5-1 in/hr) at least locally.
+
+..Wendt.. 01/21/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...LIX...LCH...
+
+LAT...LON   29749396 29999432 30579416 30979267 31019185 30809148
+            30689122 29949132 29709181 29669242 29709266 29749396 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0047.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md0047.html>
+
+---
+
+## SPC Jan 21, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-01-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0649 AM CST Tue Jan 21 2025
+
+Valid 211300Z - 221200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+The risk for thunderstorms appears negligible across the U.S. today
+through tonight.
+
+A large surface high dominates the weather across the CONUS today,
+with cold, dry, and stable conditions preventing thunderstorms.  A
+strengthening surface low off the Gulf coast may provide isolated
+thunderstorms offshore later today and tonight, but lightning
+activity is expected to remain well south of the coast.
+
+..Hart/Wendt.. 01/21/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
@@ -42,37 +186,6 @@ No Mesoscale Discussions are in effect as of Mon Jan 20 14:46:02 UTC 2025.
 <br> 
 
 <https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Jan 20, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-01-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0642 AM CST Mon Jan 20 2025
-
-Valid 201300Z - 211200Z
-
-...NO THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-No thunderstorms are expected across the U.S. through tonight.
-
-Relatively dry and stable conditions will prevail across the CONUS
-today, with no thunderstorms expected.
-
-..Hart/Wendt.. 01/20/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 

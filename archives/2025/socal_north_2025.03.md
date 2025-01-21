@@ -1,11 +1,59 @@
 ---
 title: socal north
-updated: 2025-01-20 07:06:33
+updated: 2025-01-21 07:06:53
 ---
 
 # socal north
 
-(date: 2025-01-20 07:06:33)
+(date: 2025-01-21 07:06:53)
+
+---
+
+## Huntington Beach is tackling libraries — again
+
+date: 2025-01-21, updated: 2025-01-21, from: The LAist
+
+The libraries in Huntington Beach are beloved. And they've become a political battleground. 
+
+<br> 
+
+<https://laist.com/news/politics/huntington-beach-library-initiatives-vote>
+
+---
+
+## LA County leaders set to vote on post-fire eviction protections and vacation rental rules
+
+date: 2025-01-21, updated: 2025-01-21, from: The LAist
+
+If approved, the proposal would ease Airbnb regulations and give new protections to tenants who open their doors to people and pets displaced by the fires. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-county-board-of-supervisors-fire-eviction-pets-airbnb-vacation-rental-vote>
+
+---
+
+## With fires coming under control, LA preps for mudslides
+
+date: 2025-01-20, updated: 2025-01-20, from: The LAist
+
+With charred earth all over L.A. County, officials are preparing for possible mudslides in burn areas. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-fires-preparation-for-mudslides>
+
+---
+
+## What's next for Kamala Harris
+
+date: 2025-01-20, updated: 2025-01-20, from: The LAist
+
+Inauguration Day marks the first time in more than 20 years that Kamala Harris will not be in public office. 
+
+<br> 
+
+<https://laist.com/news/politics/whats-next-for-kamala-harris>
 
 ---
 
@@ -33,7 +81,7 @@ Trump is only the third president to be sworn in on Martin Luther King Jr. Day.
 
 ---
 
-## Trump promised dozens of actions on immigration on Day 1. Here's what we know
+## Trump signs sweeping actions on immigration and border security on Day 1
 
 date: 2025-01-20, updated: 2025-01-20, from: The LAist
 
@@ -42,6 +90,18 @@ Trump campaigned on border security promises, and he and his allies argue that h
 <br> 
 
 <https://laist.com/news/politics/trump-promised-dozens-of-actions-on-immigration-on-day-1-heres-what-we-know>
+
+---
+
+## After the Eaton Fire destroyed Altadena’s first mosque, its leaders focus on rebuilding
+
+date: 2025-01-20, updated: 2025-01-20, from: The LAist
+
+“It just has to make us stronger. We can't let it go someplace else.” 
+
+<br> 
+
+<https://laist.com/news/eaton-fire-altadena-mosque-destroyed>
 
 ---
 
@@ -66,18 +126,6 @@ Undocumented immigrants and mixed-status families are learning how to assert the
 <br> 
 
 <https://laist.com/news/politics/immigration-california-students-know-your-rights>
-
----
-
-## After the Eaton Fire destroyed Altadena’s first mosque, it’s leaders focus on rebuilding
-
-date: 2025-01-20, updated: 2025-01-20, from: The LAist
-
-“It just has to make us stronger. We can't let it go someplace else.” 
-
-<br> 
-
-<https://laist.com/news/eaton-fire-altadena-mosque-destroyed>
 
 ---
 

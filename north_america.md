@@ -1,11 +1,1593 @@
 ---
 title: north america
-updated: 2025-01-20 07:06:32
+updated: 2025-01-21 07:06:53
 ---
 
 # north america
 
-(date: 2025-01-20 07:06:32)
+(date: 2025-01-21 07:06:53)
+
+---
+
+## Unpacking some of Donald Trump’s first executive orders
+
+date: 2025-01-21, from: Market Place
+
+Trump promised tariffs on Day One. None have been announced so far.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/21/unpacking-some-of-donald-trumps-first-executive-orders/>
+
+---
+
+## China seeks more cooperation with US as Trump takes office
+
+date: 2025-01-21, from: VOA News USA
+
+Taipei, Taiwan — China has urged the United States to focus on managing bilateral relationships through cooperation instead of confrontation as U.S. President Donald Trump kicks off his second term in office. 
+
+
+“China is willing to work with the new U.S. government to maintain communication, strengthen cooperation, properly manage differences, and push China-U.S. relations to make greater progress from a new starting point,” Chinese foreign ministry spokesperson Guo Jiakun said during the regular press conference on Tuesday in Beijing. 
+
+
+Analysts say Beijing hopes to reduce misunderstandings between both sides through engagement and exchanges in the early stage of the second Trump presidency. 
+
+
+“The Chinese government hopes China and the U.S. could understand each other’s needs through communication,” said Shen Dingli, a Shanghai-based international relations scholar. 
+
+
+“Beijing believes China and the U.S. can still reach a consensus and avoid many misunderstandings that have arisen during the first Trump presidency” if both sides prioritize efforts to stabilize bilateral relations, he told VOA by phone. 
+
+
+Ahead of Trump’s inauguration on Monday, China and Trump’s team conducted several top-level exchanges, including a call between the new U.S. president and Chinese President Xi Jinping last Friday. 
+
+
+Trump said he and Xi would “solve many problems together” while the Chinese president said the key to handling bilateral relations was to “respect each other's core interests and major concerns and to find a proper solution to the problem.”
+
+
+On Sunday, China’s Vice President Han Zheng, who was in Washington, D.C., to attend Trump’s inauguration ceremony, met with his American counterpart JD Vance, and a group of American business leaders, including Tesla founder Elon Musk.
+
+
+He said China and the U.S. could “contribute to each other's progress, bring benefits to the two countries, and make important contributions to world peace and development” as long as they “uphold the principles of mutual respect, peaceful coexistence and win-win cooperation.”
+
+
+Additionally, Han urged U.S. businesses to “play an active role as a bridge and make greater contribution to the development of China-U.S. relations” by continuing to “invest and take root in China.” 
+
+
+
+
+Experts say Beijing wants to seize the opportunity to improve bilateral relations with Washington through these initial engagements with the Trump administration. 
+
+
+Beijing “would not only prefer to avoid increased sanctions but also the potential for greater limitations on tech exports to China,” said Timothy Rich, a political scientist at Western Kentucky University. 
+
+
+While the Chinese government has expressed willingness to cooperate with the Trump administration, the U.S. president has also held off the imposition of tariffs on imported goods from China, Mexico, and Canada. 
+
+
+Instead, he released a broad trade memo that urged the United States Trade Representative to assess China’s compliance with the “Phase 1” trade deal that his administration signed with Beijing in 2020, which required Beijing to increase purchases of U.S. exports by $200 billion over two years.
+
+
+Additionally, Trump signed an executive order that would delay the ban on the popular social media app TikTok for 75 days but threatened to impose tariffs on Chinese products if Beijing didn’t approve a potential deal with TikTok.
+
+
+“And if we said, well, ‘You’re not going to approve it’, then that’s a certain hostility, and we’ll put tariffs of 25, 30,40, 50%, even 100%,” Trump said on Monday, after signing the executive order for TikTok.
+
+
+Rich said Trump’s decision to delay imposing tariffs on Chinese products shows the U.S. president’s desire to “pressure China to make some concessions” that he can declare as a victory. 
+
+
+“I suspect the talk of sticking it to China will return in the absence of some face-saving concession or if other policies start to falter, as a perceived tough-on-China stance taps into the broader concern among many Americans,” he told VOA in a written response. 
+
+
+Some Chinese merchants said Trump’s decision to delay the imposition of tariffs on Chinese products allows them to be better prepared for similar scenarios in the future. 
+
+
+“I am finding other ways to export products to my American customers by shifting operations to Southeast Asia,” a Chinese apparel exporter surnamed Yuan in Shanghai, who asked to be identified only by his last name due to security concerns, told VOA in a written response. 
+
+
+While Trump’s incoming cabinet includes several politicians known for their hawkish stance on China, including Secretary of State Marco Rubio, analysts say it’s unclear how the Trump administration’s China policies will shape up. 
+
+
+“The ultimate decision-maker is Trump, and if China gives Trump what he thinks he needs, those hawkish people and their beliefs will quickly be sidelined and they may not have influence on U.S.-China policy,” Dexter Roberts, a nonresident senior fellow at the Atlantic Council's Global China Hub, told VOA by phone. 
+
+
+Despite the lack of clarity on the Trump administration’s China policies, Shen in Shanghai said official comments from Beijing and Washington suggest their initial exchanges have been “quite positive.” 
+
+
+“This might mean there would be less misunderstandings and I think both sides won’t waste this new opportunity to engage with each other,” he told VOA. 
+
+<br> 
+
+<https://www.voanews.com/a/china-seeks-more-cooperation-with-us-as-trump-takes-office/7944615.html>
+
+---
+
+## Jen Rubin interviews Michael Fanone, former DC police officer 
+
+date: 2025-01-21, from: The Contrarian
+
+Michael Fanone worked for the Metropolitan Police Department of the District of Columbia for twenty years. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155315254/3d408640106fe978bfc608efd4cf03cf.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155315254/3d408640106fe978bfc608efd4cf03cf.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-interviews-michael-fanone>
+
+---
+
+## Bird migrations shifting with warming planet in US Southwest
+
+date: 2025-01-21, from: VOA News USA
+
+In the Southwest United States, bird migrations are shifting as global temperatures warm. Gustavo Martіnez Contreras takes us to the Bosque del Apache National Wildlife Refuge in the state of New Mexico. 
+
+<br> 
+
+<https://www.voanews.com/a/bird-migrations-shifting-with-warming-planet-in-us-southwest/7944551.html>
+
+---
+
+## EU, China warn against trade friction at Davos after Trump return
+
+date: 2025-01-21, from: VOA News USA
+
+Davos, Switzerland  — EU chief Ursula von der Leyen declared Tuesday that Europe was ready to negotiate with the United States and seek to improve ties with China as Beijing warned against damaging trade wars in the face of Donald Trump's protectionism.
+
+
+Trump returned to the White House on Monday, and while he may not be physically present in the Swiss Alpine resort of Davos, he is the elephant in the room for the executives and leaders hobnobbing at the annual World Economic Forum.
+
+
+With Beijing and Brussels facing some of the biggest risks from the return of self-professed tariff-loving Trump, China's Vice Premier Ding Xuexiang and European Commission President Ursula von der Leyen took to the stage first at the forum.
+
+
+"Protectionism leads nowhere and there are no winners in a trade war," Ding said, without mentioning Trump directly.
+
+
+Trump threatened on Monday to impose tariffs if Beijing rejects his proposal to keep Chinese-owned app TikTok online on condition that half of it is sold off.
+
+
+
+
+China is taking a cautious approach to Trump and after the TikTok threat, Beijing said it hoped the United States would provide a fair business environment for Chinese firms.
+
+
+After Chinese President Xi Jinping spoke to Trump by phone on Friday, he said he hoped for a "good start" to relations with the new US administration.
+
+
+Meanwhile, von der Leyen took a conciliatory tone. She said the EU's "first priority will be to engage early, discuss common interests and be ready to negotiate" with Trump.
+
+
+"We will be pragmatic but we will always stand by our principles, to protect our interests and uphold our values," she said.
+
+
+The European Commission president also stressed that Europe "must engage constructively with China – to find solutions in our mutual interest" despite escalating trade tensions between the two.
+
+
+Brussels has provoked Beijing's ire with a raft of probes targeting state subsidies in the green tech sector, as well as slapping tariffs on Chinese electric cars.
+
+
+In an apparent reference to the European Union measures, Ding warned against "erecting green barriers that could disrupt normal economic and trade cooperation."
+
+
+More trade deals 
+
+
+On the campaign trail, Trump said he would impose extra customs duties on allies including the EU, as well as on China.
+
+
+After his inauguration, Trump raised the possibility of imposing 25-percent tariffs on Canada and Mexico.
+
+
+Von der Leyen reiterated her commitment to free trade during her speech, pointing to recent EU deals with Switzerland, the South American bloc Mercosur and Mexico.
+
+
+She also said she and Indian Prime Minister Narendra Modi wanted to "upgrade" their partnership.
+
+
+Trump announced the United States' withdrawal from the Paris climate accord, which von de Leyen defended as the "best hope for all humanity" and vowed: "Europe will stay the course."
+
+
+
+
+Ukraine is also keeping a very close eye on what Trump's second mandate will involve.
+
+
+Ukrainian President Volodymyr Zelensky is expected to call on world leaders and company executives to maintain – and ramp up – their support for his country's war against Russia.
+
+
+Zelensky said on Monday he was hopeful Trump would help achieve a "just peace."
+
+
+Embattled German Chancellor Olaf Scholz was also to address the Davos forum, likely his last as leader ahead of elections next month.
+
+
+Also speaking on Tuesday will be conservative leader Friedrich Merz, the favorite to succeed him as chancellor.
+
+
+'Better understand' Trump 
+
+
+Middle East conflicts will likewise be high on the agenda as Israeli President Isaac Herzog and Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim al-Thani speak in separate sessions during the first full day of the forum.
+
+
+As a fragile ceasefire holds in the Israel-Hamas war, the WEF will host a discussion on how to improve aid delivery to the Palestinian territory of Gaza and how to kickstart the reconstruction and recovery after heavy bombardment.
+
+
+Despite suggestions Trump's return would overshadow the forum that began on the same day as his inauguration in Washington, WEF President Borge Brende said the US leader had brought fresh attention to the gathering.
+
+
+"It has increased the interest in Davos because people feel they need to come together to better understand what's on its way," Brende told AFP in an interview. 
+
+<br> 
+
+<https://www.voanews.com/a/china-eu-ukraine-leaders-take-davos-stage-under-trump-shadow/7944381.html>
+
+---
+
+## Quad foreign ministers meet in Washington in signal of Trump's China focus
+
+date: 2025-01-21, from: VOA News USA
+
+Washington — U.S. Secretary of State Marco Rubio will hit the ground running on Tuesday, hosting a meeting in Washington of his counterparts from Australia, India and Japan one day after President Donald Trump started his second term in office.  
+
+
+The meeting of the so-called "Quad," four countries sharing concerns about China's growing power, will happen at the State Department and is designed to signal that countering Beijing is a top priority for the new president. 
+
+
+It could also set the stage for the leaders of the Quad countries to hold a summit relatively early in the Trump presidency, a person involved in the planning meetings said. 
+
+
+Trump officials were working on scheduling another gathering of the foreign ministers at the White House as well, a person involved in planning meetings said. 
+
+
+Australian Foreign Minister Penny Wong, who met her Indian and Japanese counterparts in Washington over the weekend, said the invitation for Quad foreign ministers to attend Trump's inauguration showed a dedication to close cooperation in the Indo-Pacific region. 
+
+
+"It's a demonstration of the collective commitment of all countries to the Quad, an iron-clad commitment in this time where close cooperation in the Indo-Pacific is so important," Wong said on Sunday of the foreign ministers' invitation to Washington. 
+
+
+Aside from the meeting itself, Republican Senator Marco Rubio, who was confirmed on Monday as Trump's top diplomat, is expected to meet separately with the three foreign ministers on Tuesday. 
+
+
+The Quad grouping met many times during the administration of former President Joe Biden, with a focus on Beijing's military and economic activities in the Indo-Pacific, particularly in the South China Sea where U.S. allies have pushed back against Beijing's territorial claims.  
+
+
+
+
+The grouping has also pledged to advance cooperation in cybersecurity to protect supply chains and critical infrastructure, including undersea cables. 
+
+
+For Australia, it will be important to secure an assurance from Washington about the massive AUKUS defense project, designed to allow Australia to acquire nuclear-powered attack submarines and other advanced weapons such as hypersonic missiles. 
+
+
+China has denounced the Quad as a Cold War construct and says the AUKUS alliance would intensify a regional arms race. 
+
+<br> 
+
+<https://www.voanews.com/a/quad-foreign-ministers-meet-in-washington-in-signal-of-trump-s-china-focus-/7944516.html>
+
+---
+
+## Distorting Trump's Language
+
+date: 2025-01-21, from: The Contrarian
+
+MAGA's terminology is an inaccurate means of describing our state of affairs--together, we must reframe and rename our political vocabulary 
+
+<br> 
+
+<https://contrarian.substack.com/p/distorting-trumps-language>
+
+---
+
+## Russia's Putin discusses 'multipolar global order' with China's Xi hours after Trump inauguration
+
+date: 2025-01-21, from: VOA News USA
+
+Moscow — Russian President Vladimir Putin had a call Tuesday with Chinese President Xi Jinping, emphasizing the two countries' close ties, a day after Donald Trump was sworn in as the 47th U.S. president.
+
+
+The two leaders have developed strong personal links that helped bring relations between Moscow and Beijing, growing even closer after Putin sent troops into Ukraine in 2022. China has become a major customer of Russian oil and gas and a source of key technologies amid sweeping Western sanctions on Moscow.
+
+
+
+
+In Tuesday's call with Xi, Putin emphasized that Russia-China relations are based on shared interests, equality and mutual benefits, noting that they "don't depend on internal political factors and the current international environment."
+
+
+"We jointly support the development of a more just multipolar global order and work to ensure indivisible security in Eurasia and the world as a whole," Putin told Xi in remarks carried by the Russian state TV. "Joint efforts by Russia and China play an important stabilizing role in global affairs."
+
+
+Xi similarly praised close cooperation between Moscow and Beijing, saying it helps "bring positive energy to reforming and developing the global system."
+
+
+While neither leader directly mentioned Trump in the televised fragment of their call, the timing of the conversation may signal that Putin and Xi want to coordinate their action in dialogue with the new U.S. administration.
+
+
+The Chinese president had a call with Trump on Friday and expressed hope for positive ties with the U.S.
+
+
+
+
+Trump had threatened to impose tariffs and other measures against China in his second term, while also hinting at ways in which the two rival powers could cooperate on issues such as regional conflicts and curbing the export of substances used in the production of fentanyl.
+
+
+Putin, who is yet to talk to Trump, congratulated him on taking office in televised remarks during a video call with officials and welcomed his intention to open a dialogue with Moscow.
+
+
+Trump told reporters Monday after taking office that Ukrainian President Volodymyr Zelenskyy had told him he wanted to make a peace deal and voiced hope that Putin would follow suit. He added that Putin would be destroying Russia by failing to make a deal, pointing out Russia's economic troubles, including high inflation.
+
+
+
+
+Putin hailed Trump's openness to dialogue as he spoke to Russia's Security Council members shortly before the U.S. president's inauguration.
+
+
+"We hear the statements from Trump and members of his team about their desire to restore direct contact with Russia, which were halted through no fault of ours by the outgoing administration," Putin said on Monday. "We also hear his statements about the need to do everything to prevent World War III. We certainly welcome such an approach and congratulate the U.S. president-elect on taking office."
+
+
+The Russian leader also stressed that dialogue between the two nations should be based on "equal basis and mutual respect, taking into account the important role our countries play on some key issues on the global agenda, including the strengthening of global stability and security."
+
+
+Putin also noted that Moscow is open to dialogue with the Trump administration on the conflict in Ukraine, emphasizing the need to respect Russia's interests and adding that "the most important thing is to remove the root causes of the crisis."
+
+
+"As for the settlement of the situation, I would like to underline that its goal should not be a short truce, not some kind of respite for regrouping forces and rearmament with the aim of subsequently continuing the conflict, but a long-term peace based on respect for the legitimate interests of all people, all nations living in this region," Putin said. 
+
+<br> 
+
+<https://www.voanews.com/a/russia-s-putin-discusses-multipolar-global-order-with-china-s-xi-hours-after-trump-inauguration-/7944498.html>
+
+---
+
+## Taliban free 2 Americans in prisoner swap with US
+
+date: 2025-01-21, from: VOA News USA
+
+Islamabad — Taliban authorities in Afghanistan announced Tuesday the release of two American nationals as part of a prisoner exchange for one of their members, who was held in the United States on narcotics-terrorism charges.
+
+
+
+The Ministry of Foreign Affairs in Kabul identified the freed Afghan as Khan Mohammad and described him as a “mujahid,” a term the Taliban use for their fighters.
+
+
+
+The statement said that the man was arrested nearly two decades ago in the eastern Afghan province of Nangarhar and subsequently extradited to the U.S., where a federal court convicted him, resulting in his imprisonment for life in California.
+
+
+
+The de facto Afghan government did not name the two freed American citizens or specify how many had been freed, but relatives and U.S. media reports identified them as Ryan Corbett, 42, and William Wallace McKenty, 69.
+
+
+
+
+“Today, our hearts are filled with overwhelming gratitude and praise to God for sustaining Ryan’s life and bringing him back home after what has been the most challenging and uncertain 894 days of our lives,” his family stated Tuesday.
+
+
+
+Limited public information is available about McKenty as his family reportedly requested U.S. authorities to maintain his anonymity.
+
+
+
+The prisoner exchange was in the making for many months and reportedly occurred during Democratic President Joe Biden’s final hours in office before Republican President Donald Trump was inaugurated on Monday.
+
+
+
+
+
+
+Corbett's family statement praised both the Trump and Biden administrations for their efforts to facilitate the prisoner exchange.
+
+
+
+The Taliban said Tuesday that Qatar played an “effective role” in facilitating their prisoner swap agreement with the United States.
+
+
+
+U.S. officials and relatives have reported that two other American captives, George Glezmann, a former airline mechanic, and Mahmood Habibi, a naturalized American, remain in Taliban custody in Afghanistan.
+
+
+
+Habibi and Glezmann were apprehended shortly after a U.S. drone strike in July 2022 killed fugitive al-Qaida leader Ayman al-Zawahri in his hideout in an affluent Afghan capital neighborhood.
+
+
+
+Glezmann, 65, was lawfully visiting Kabul as a tourist when he was seized by the Taliban’s intelligence services without charge, his relatives said.
+
+
+
+Habibi’s family says he was arrested by the Taliban, along with 30 other employees of the company he worked at, following the U.S. drone strike. While his co-workers were released, Habibi’s whereabouts remain unknown, and Taliban officials have refuted claims that he is in their custody.
+
+
+
+“It was our hope that Ryan, George, and Mahmoud would be returned to their families together, and we cannot imagine the pain that our good fortune will bring them,” Corbett’s family stated Tuesday.
+
+
+Habibi's relatives welcomed the reunion of Corbett and McKenty with their families, confident the Trump administration will intensify efforts to secure his freedom from his “wrongful” detention.
+
+
+
+“We have reason to be confident Mahmood is alive and in Taliban custody, despite their hollow denials of holding him,” his brother Ahmad Habibi stated,
+
+
+
+Global Reach, a nonprofit working with the family of Mahmood Habibi since his arrest, shared the family statement with VOA via email.
+
+
+
+“While we are happy for Ryan and William, we are disappointed that Mahmood was not included in the deal,” said the organization's CEO Mickey Bergman. 
+
+<br> 
+
+<https://www.voanews.com/a/taliban-free-2-americans-in-prisoner-swap-with-us-/7944480.html>
+
+---
+
+## Unpacking Trump’s Day 1 Energy Moves
+
+date: 2025-01-21, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTcyODIyMC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4NjEzMTI2Nn0.fxVkkRzWfGbQW7GAASMt8j6moGWwc-lMCa81VOSd3TU/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><em><strong>Current conditions:</strong> Heavy rainfall triggered flooding and disrupted travel in Spain • An oil spill in Nigeria’s Niger River delta has entered its fourth week • Dangerous fire conditions persist in Southern California, where the Palisades fire is 61% contained. </em></p><h2>THE TOP FIVE</h2><h3>1. Trump declares ‘national energy emergency’</h3><p>President Trump began his first day back in office with a series of executive orders aimed at undermining climate policy and unleashing American energy production. He declared a <a href="https://heatmap.news/politics/national-energy-emergency?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--smolkCoZsqqAC6STlg_1i3XqfbCnw0jjAbK7XaOGA5cL8DTtntrYOI13HD6fpxG6Au5Aj" target="_self">“national energy emergency,”</a> describing an “active threat to the American people from high energy prices.” The order directs agency leaders to “exercise any lawful emergency authorities available to them, as well as all other lawful authorities they may possess” to facilitate U.S. energy production, including — but not limited to — activities on federal lands. The stated goal of many of the policies put forward under this energy emergency is to bring down energy costs for American consumers. But few of them are designed to do so. Instead, they aim to do virtually the opposite: <a href="https://www.wsj.com/business/energy-oil/trump-oil-gas-policy-drilling-donors-3438e99e?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--smolkCoZsqqAC6STlg_1i3XqfbCnw0jjAbK7XaOGA5cL8DTtntrYOI13HD6fpxG6Au5Aj" rel="noopener noreferrer" target="_blank">shore up</a> oil and gas demand. “That makes sense,” <a href="https://heatmap.news/politics/trump-energy-executive-orders?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--smolkCoZsqqAC6STlg_1i3XqfbCnw0jjAbK7XaOGA5cL8DTtntrYOI13HD6fpxG6Au5Aj" rel="noopener" target="_self">says Heatmap’s Robinson Meyer</a>. “The United States is, at the moment, producing more oil and gas than any country in world history. The fossil fuel industry’s problem isn’t getting gas out of the ground, but finding people to sell it to. By suspending fuel economy and energy efficiency rules, Trump can force Americans to use more energy — and spend more on oil and gas — to do the same amount of useful work.”</p><h3>2. Trump orders end to all wind energy permits, takes aim at EVs</h3><p>President Trump yesterday <a href="https://heatmap.news/politics/wind-executive-order-trump?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--smolkCoZsqqAC6STlg_1i3XqfbCnw0jjAbK7XaOGA5cL8DTtntrYOI13HD6fpxG6Au5Aj" target="_self">ordered the federal government</a> to stop all permits for wind energy projects. The order says the government “shall not issue new or renewed approvals, rights of way, permits, leases, or loans for onshore or offshore wind projects” pending a “comprehensive assessment” of the industry’s myriad impacts on the economy, environment and other factors. The order also opens the door to offshore wind developers potentially losing their leases. This affects all offshore wind development in the U.S., as well as wind projects on federal lands. The order specifically bans wind energy development at the site sought after for the Lava Ridge wind project in Idaho. The project was fully permitted days before the end of Biden’s term. Shares in wind power companies dropped on the news. Separately, Orsted <a href="https://www.bloomberg.com/news/articles/2025-01-20/orsted-takes-1-7-billion-hit-on-mounting-costs-of-offshore-wind?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--smolkCoZsqqAC6STlg_1i3XqfbCnw0jjAbK7XaOGA5cL8DTtntrYOI13HD6fpxG6Au5Aj" rel="noopener noreferrer" target="_blank">fell by 18%</a> after it announced a $1.7 billion impairment charge due to challenges in the U.S. wind market, and especially at its Sunrise Wind project. </p><p>Trump also <a href="https://heatmap.news/electric-vehicles/trump-ev-executive-order?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--smolkCoZsqqAC6STlg_1i3XqfbCnw0jjAbK7XaOGA5cL8DTtntrYOI13HD6fpxG6Au5Aj" target="_self">functionally ended</a> former President Joe Biden’s <a href="https://www.theguardian.com/us-news/2024/mar/20/biden-car-transportation-emission-regulation-pollution?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--smolkCoZsqqAC6STlg_1i3XqfbCnw0jjAbK7XaOGA5cL8DTtntrYOI13HD6fpxG6Au5Aj#:~:text=The%20rule%2C%20which%20calls%20for,Biden%20said%20in%20a%20statement." target="_blank">tailpipe emissions standards</a>, which had <a href="https://www.epa.gov/newsreleases/biden-harris-administration-proposes-strongest-ever-pollution-standards-cars-and?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--smolkCoZsqqAC6STlg_1i3XqfbCnw0jjAbK7XaOGA5cL8DTtntrYOI13HD6fpxG6Au5Aj" target="_blank">aimed</a> to “accelerate the ongoing transition to a clean vehicles future and tackle the climate crisis.” The executive order also appeared to target the Biden administration’s fuel economy standards, and the EPA’s waiver for California to set its own emissions standards under the Clean Air Act.</p><h3><span></span>3. Trump withdraws from Paris Agreement again</h3><p>As expected, Trump has <a href="https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--smolkCoZsqqAC6STlg_1i3XqfbCnw0jjAbK7XaOGA5cL8DTtntrYOI13HD6fpxG6Au5Aj" target="_blank">officially notified the United Nations</a> of America’s intent to withdraw from the Paris Agreement, calling the accord a “one-sided rip-off.” “Leaving the Paris Agreement is more symbolic than anything,” <a href="https://heatmap.news/politics/trump-leaves-paris-agreement?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--smolkCoZsqqAC6STlg_1i3XqfbCnw0jjAbK7XaOGA5cL8DTtntrYOI13HD6fpxG6Au5Aj" target="_self">writes Heatmap’s Katie Brigham</a>. “Beyond the more nebulous — but very real — loss of international leadership on climate issues, there’s no tangible repercussions for exiting the agreement. Nor, as many party nations consistently demonstrate, any legal recourse for staying in while failing to meet targets or set sufficient goals.” It takes a full year for withdrawal to become official. But Trump will almost certainly henceforth act as if the U.S. is no longer bound by the treaty, which has been adopted by nearly every other nation on Earth, in an effort to keep global warming “well below” 2 degrees Celsius.</p><h3>4. Major winter storm threatens Deep South</h3><p>A “historic” winter storm is <a href="https://www.accuweather.com/en/winter-weather/historic-snow-ice-storm-threatens-gridlocks-major-power-outages-from-texas-to-florida/1736295?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--smolkCoZsqqAC6STlg_1i3XqfbCnw0jjAbK7XaOGA5cL8DTtntrYOI13HD6fpxG6Au5Aj" rel="noopener noreferrer" target="_blank">bringing snow and ice</a> to parts of the Deep South that rarely see such conditions, threatening the power grid and disrupting travel along the Gulf Coast. The system, called Winter Storm Enzo, has already triggered weather alerts across central and eastern Texas, Louisiana, Mississippi, Alabama, Georgia, and Florida (where a winter storm watch was issued for the first time in over a decade). “Power and other infrastructure disruptions are possible,” <a href="https://weather.com/storms/winter/news/2025-01-19-winter-storm-enzo-south-snow-ice-forecast-houston-new-orleans?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--smolkCoZsqqAC6STlg_1i3XqfbCnw0jjAbK7XaOGA5cL8DTtntrYOI13HD6fpxG6Au5Aj" rel="noopener noreferrer" target="_blank">warned</a> The Weather Channel, though Texas’ grid operator, ERCOT, <a href="https://www.expressnews.com/business/article/ercot-texas-power-grid-winter-storm-outages-20044399.php?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--smolkCoZsqqAC6STlg_1i3XqfbCnw0jjAbK7XaOGA5cL8DTtntrYOI13HD6fpxG6Au5Aj" rel="noopener noreferrer" target="_blank">said</a> the grid was ready. The arctic blast driving the storm has also triggered weather advisories for much of the rest of the U.S., with <a href="https://www.wpc.ncep.noaa.gov/discussions/hpcdiscussions.php?disc=pmdspd&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--smolkCoZsqqAC6STlg_1i3XqfbCnw0jjAbK7XaOGA5cL8DTtntrYOI13HD6fpxG6Au5Aj" rel="noopener noreferrer" target="_blank">temperatures</a> 20-30 degrees Fahrenheit below January averages in most places. </p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="5cd3818d2db94d08d9885510e2656467" data-rm-shortcode-name="rebelmouse-image" id="d2a3c" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTcyODIyNS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc1ODkyNzQwM30.3xa9yCECS_MEDufQXeBnwJ5TrwRmAEBvhb15Q0sJN-k/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit..."> <a href="https://weather.com/storms/winter/news/2025-01-19-winter-storm-enzo-south-snow-ice-forecast-houston-new-orleans?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--smolkCoZsqqAC6STlg_1i3XqfbCnw0jjAbK7XaOGA5cL8DTtntrYOI13HD6fpxG6Au5Aj" rel="noopener noreferrer" target="_blank">The Weather Channel</a></small></p><strong><h3>5. China breaks records with 2024 renewable installations</h3></strong><p style="">Renewable energy installations <a href="https://www.reuters.com/business/energy/chinas-solar-wind-power-installed-capacity-soars-2024-2025-01-21/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_LhkGD3pZ5D8PVqFEu6DqO0x-eTsLdYq5DFx61EsYqBpnVSSR_CmWaHMpSRSIX-hSLI0BM" rel="noopener noreferrer" target="_blank">continue to soar</a> in China. Official data from the Chinese National Energy Administration shows the country’s installed solar and wind power capacity increased by 45.2% and 18%, respectively, last year, breaking the previous year’s records. Solar power installations in China now top 886 GW, with wind power at 520 GW. “The record installation means China has hit its 2030 renewables target six years early,” noted <em><em>Bloomberg</em></em>. China expects to add another 273 GW of solar and 94 GW of wind in 2025. Current wind power <a href="https://www.reuters.com/business/energy/key-us-wind-power-trends-metrics-track-maguire-2024-10-31/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_LhkGD3pZ5D8PVqFEu6DqO0x-eTsLdYq5DFx61EsYqBpnVSSR_CmWaHMpSRSIX-hSLI0BM" rel="noopener noreferrer" target="_blank">capacity</a> in the U.S. is about 152 GW, and solar capacity is <a href="https://seia.org/research-resources/us-solar-market-insight/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_LhkGD3pZ5D8PVqFEu6DqO0x-eTsLdYq5DFx61EsYqBpnVSSR_CmWaHMpSRSIX-hSLI0BM" rel="noopener noreferrer" target="_blank">about 220 GW,</a> according to the most recent data.</p><h2>THE KICKER</h2>
+<p><em>“There is no energy emergency. There is a climate emergency.”</em></p><p>–<a href="https://www.nrdc.org/press-releases/president-trumps-energy-eo-there-no-energy-emergency-there-climate-emergency?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_LhkGD3pZ5D8PVqFEu6DqO0x-eTsLdYq5DFx61EsYqBpnVSSR_CmWaHMpSRSIX-hSLI0BM" rel="noopener noreferrer" target="_blank">Manish Bapna</a>, president and CEO of the Natural Resources Defense Council</p> 
+
+<br> 
+
+<https://heatmap.news/politics/trump-day-one-energy>
+
+---
+
+## Trump’s Energy Agenda Is Uninhibited — and Incoherent
+
+date: 2025-01-21, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTcwNTE3OC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5NTQwNDA1OX0.eRq2y_Rn9xB1DrZ9Zlzv6QzjUY7nDDgXecpFm0N6Eyk/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Here we go.</p><p>Here we go: On Monday, Donald Trump was sworn in as the 47th president of the United States.</p><p><span></span>Surrounded by some of the country’s richest men, including Elon Musk, Mark Zuckerberg, and the oil magnate Harold Hamm, Trump rejected what he called a “radical and corrupt establishment” that has “extracted power and wealth from our citizens” while promising a new golden age for the United States.</p><p><span></span>At the center of that golden age, he said, was an almost totally unregulated fossil fuel economy. “Today I will also declare a national energy emergency,” he said. “We will drill, baby, drill.”</p><p><span></span>Over the next 12 hours, he signed a series of executive orders that relaxed protections across the oil and gas sector while imposing costly new restrictions on wind turbines, electric vehicles, and other forms of renewable energy. He demonstrated that his extreme vision for the American government — a new order where the executive reigns supreme and Congress does not control the power of the purse — will run straight through his climate and energy policy.</p><p><span></span>You could see in his actions, too, what could become fragility in his governing coalition — times and situations where he might too eagerly slap a cost on a friend because he believes they are a foe.</p><p><span></span>But all that remains in the future. For now, Trump is in charge.</p><p><span></span>Trump’s first day was about undermining climate policy in virtually any form that he could find. Soon after taking the oath, Trump <a href="https://heatmap.news/politics/trump-leaves-paris-agreement" target="_self"><u>began the process</u></a> of pulling the United States out of the Paris Agreement on climate change. He <a href="https://heatmap.news/politics/wind-executive-order-trump" target="_self"><u>announced</u></a> a broad freeze on virtually all federal wind energy permits, throwing at least one large-scale onshore wind farm into chaos while smothering virtually all offshore wind energy projects, including several planned for the East Coast. He moved to weaken energy and water efficiency rules for lightbulbs, showerheads, washing machines, and dishwashers. He began the multi-year process of rewriting the Environmental Protection Agency’s rules on tailpipe pollution from cars and light trucks, which he has described as lifting the federal government’s “EV mandate.” And he promised to open up new tracts of federal land for oil and gas drilling, including in the Alaska National Wildlife Refuge.</p><p><span></span>But most important were a series of executive actions that Trump signed in the late evening, many under the bearing of a “national energy emergency.” In these orders, Trump told the Environmental Protection Agency to study whether carbon dioxide and other greenhouse gases are dangerous air pollutants. This question has been a matter of settled science for decades — and, more importantly, has not been under legal dispute since 2009. In the same set of orders, Trump lifted federal environmental and permitting rules, potentially setting up a move that could force blue states — particularly those in the Northeast and West Coast — to accept new oil and gas pipelines and refineries.</p><p><span></span>Finally, and most importantly, Trump asserted the right to freeze virtually all ongoing federal spending under the Inflation Reduction Act — <em><em>and the Bipartisan Infrastructure Law</em></em> — for 90 days. Even after this time elapses, funding programs will have to be approved by the White House Office of Management and Budget. This move places at least tens of millions of dollars of federal contracts at risk, and it raises questions about the federal government’s ability to operate as a reliable counterparty. It is also of dubious Constitutionality because it appears to violate Congress’s sole authority over federal spending.</p><p><span></span>The stated goal of many of these policies is to bring down energy costs for American consumers. The president’s national energy emergency, for example, takes as its premise that the country is growing its energy supply too slowly. The United States, it suggests, is at imminent risk of running out of energy for new technology. (You might ask yourself why — if this is the case — Trump has also frozen all federal wind projects. But then you misunderstand Trump’s particular genius.)</p><p><span></span>Yet bringing down costs will be difficult. Energy costs — and particularly <em><em>oil</em></em> costs — are already low. Today, as Trump’s second term begins, gasoline stands at $3.13 a gallon, <a href="https://gasprices.aaa.com/" target="_blank"><u>according to AAA</u></a>. That’s about five cents above where it stood a year ago, and it’s within <a href="https://www.eia.gov/todayinenergy/detail.php?id=42435" target="_blank"><u>the inflation-adjusted range</u></a> where gas prices hovered for much of Trump’s first term. (Oil prices crashed in 2020 because of the pandemic, but the industry — and the American public — would obviously prefer not to repeat that debacle.)</p><p><span></span>How much further could energy prices fall? Look at it this way: A barrel of oil in the U.S. costs $76 today, per the West Texas benchmark. (The international benchmark, called Brent, is a smidge higher at $79.) Last year, oil producers across much of the Permian Basin reported that they could break even only if oil <a href="https://www.tgs.com/weekly-spotlight/2024-09-16" target="_blank"><u>stayed at or above</u></a> about $66 a barrel. The <a href="https://www.eia.gov/todayinenergy/detail.php?id=18651" target="_blank"><u>rough rule of thumb</u></a> is that for a $1 change in the per-barrel oil price, drivers will eventually see a roughly 2.5 cent change in prices at the pump. You can see how hard it will be to push oil prices down to record lows, at least with current levels of economic activity, interest rates, and demand volumes.</p><p><span></span>Which isn’t to say that it’s impossible. Trump will have advantages when dealing with the oil and gas industry that his immediate predecessor did not enjoy. Chief among these is that the industry’s leaders like him, want to see him succeed, and will be more willing to do favors for him — even if it means suffering thinner margins. These may help keep a lid on electricity prices, which are far more sensitive to natural gas and which really are set to surge as a new wave of factories, EVs, and data centers comes online.</p><p><span></span>Maybe! We’ll see. When you look closer, what stands out about Trump’s policies is how few of them are designed to lower energy prices. Instead, they aim to do virtually the opposite: <a href="https://www.wsj.com/business/energy-oil/trump-oil-gas-policy-drilling-donors-3438e99e" target="_blank"><u>shore up</u></a> oil and gas demand. According to <em><em>The Wall Street Journal, </em></em>ensuring demand for oil and gas products — and not deregulating drilling further — is what the industry has asked Trump to do. That makes sense. The United States is, at the moment, producing more oil and gas than any country in world history. The fossil fuel industry’s problem isn’t <em><em>getting </em></em>gas out of the ground, but finding people to sell it to. By suspending fuel economy and energy efficiency rules, Trump can force Americans to use more energy — and spend more on oil and gas — to do the same amount of useful work.</p><p><span></span>In other places, what stands out about Trump’s policies is their incoherence — and how few of his constituencies they will satisfy. Late on Monday, Trump suggested that he might impose 25% tariffs on Canada and Mexico as soon as February 1. Such an action would quickly harm key segments of the American energy industry. Canada exports <a href="https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/market-snapshots/2024/market-snapshot-almost-all-canadian-crude-oil-exports-went-to-the-united-states-in-2023.html" target="_blank"><u>about $124 billion of crude oil</u></a> to the United States every year — much of it a heavy, sludgy petroleum from the Albertan oil sands. That sludge is piped across North America, then <a href="https://www.eia.gov/todayinenergy/detail.php?id=62664" target="_blank"><u>fed into U.S. refineries</u></a>, where it helps produce a large portion of America’s fuel supply. (Alberta’s heavy, sulfurous sludge is particularly well-suited to mixing with the light, sweet crude produced by American frackers.) Should Trump impose those tariffs, in other words, he would gambol into a self-imposed energy crisis.</p><p><span></span>Tariffs are not the only place where Trump could undermine his own policies. One of his executive orders on Monday aimed to establish America as “the leading producer and processor of non-fuel minerals, including rare earth minerals”; three clauses later, it announced an end to the federal government’s so-called “EV mandate.”</p><p><span></span>But by kneecapping demand for electric vehicles, Trump will hurt the critical minerals industry more than any anti-growth hippie could fathom. For the past few years, corporate America and Wall Street have invested billions of dollars in lithium and rare-earths mining and processing facilities across the country. These projects, which are largely in Republican districts, only make financial sense in a world where the United States produces a large and growing number of electric vehicles: EVs make up the lion’s share of future demand for lithium, rare earth elements, and other geostrategically sensitive rocks, and any mines or refining facilities will only pencil out in a world where EVs purchase their output. If Trump kills the non-Tesla part of the EV industry, then he will also mortally harm those projects’ economics.</p><p><span></span>Energy is a strange issue. Although it is one of the key inputs into the modern industrial economy, millions of Americans engage with it as an expressive, symbolic matter — as just another battleground in the culture war. Today, Donald Trump has become the most powerful American in that category. On his first day in office, he has demonstrated that he will use energy policy to advance his extreme ideas about how the Constitution and presidential authority works. How far he gets now will depend on what the American public, business leaders, congressional Republicans, and the Supreme Court’s arch-conservative majority will accept — and whether his fragile constituency is really ready to pay the costs of “American greatness.”</p> 
+
+<br> 
+
+<https://heatmap.news/politics/trump-energy-executive-orders>
+
+---
+
+## Biden leaves office and Washington after 50 years but says 'we're not leaving the fight'
+
+date: 2025-01-21, from: VOA News USA
+
+WASHINGTON — Joe Biden on Monday wrapped up a more than 50-year political career, but promised that “we're not leaving the fight,” as he bid farewell to the presidency and flew to California to unwind with his family and ease back into private life.
+
+
+Biden spoke not long after watching his successor, Republican President Donald Trump, pledge during his inaugural address to "completely and totally reverse” everything that his Democratic predecessor did.
+
+
+In the final hours before the noontime transfer of executive power, Biden extended courtesies to the man he had turned out of the Oval Office four years ago. Trump denied losing the 2020 election and refused to offer similar niceties to Biden upon his inauguration in 2021.
+
+
+The bitter cold day opened with Biden and his wife, Jill, receiving Trump, and his wife, Melania, for a traditional Inauguration Day meet-and-greet over tea at the White House.
+
+
+“Welcome home,” Biden told Trump.
+
+
+Afterward, the rivals, who share a history of political animosity, rode in a limousine to the Capitol where Trump was sworn in as the 47th president.
+
+
+“Our recent election is a mandate to completely and totally reverse a horrible betrayal," Trump said about the work of the Biden administration. Biden sat expressionless in the front row.
+
+
+As Trump gave his address, the residence staff at the White House got to work clearing out the remainder of Biden's belongings so they could move Trump and his family back in. The work of turning over the White House includes redecorating the Oval Office.
+
+
+Walls in the press offices that were bare in the morning after most of the staff had ended their government service were decorated by midafternoon with fresh photographs of Trump.
+
+
+After Trump's address, the new president and his wife walked the Bidens outside to a Marine helicopter that had been waiting on the Capitol grounds to fly them to Joint Base Andrews for a farewell event with his staff.
+
+
+“We couldn't have done anything we did without you," Biden told those who worked for his administration in the White House. “No president gets to choose the moment they enter history, but they get to choose the team they enter history with, and we chose the best damn team in the world."
+
+
+Even though they may feel “knocked down” by the turn of events, he said what was important was how quickly they get back up.
+
+
+“We're leaving office. We're not leaving the fight,” Biden said, urging them to stay engaged.
+
+
+And he appeared to joke about Trump's speech, chuckling as he said, “we heard the inaugural address today. We got a lot more to do.” Biden then made the sign of the cross and everyone laughed.
+
+
+He and the first lady then walked across the tarmac to the familiar blue-and-white Air Force plane he flew on as president for the flight to Santa Ynez, California. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-leaves-office-and-washington-after-50-years-but-says-we-re-not-leaving-the-fight-/7944438.html>
+
+---
+
+## Firefighters brace for ‘dangerous’ windy, dry conditions in southern California
+
+date: 2025-01-21, from: VOA News USA
+
+Fire authorities in southern California positioned crews and equipment ready to respond Tuesday to new wildfires as forecasters warned of dangerous fire conditions featuring dry air and strong winds.
+
+
+The National Weather Service said the particular window of concern was through late morning Tuesday, with the possibility of wind gusts reaching 160 kilometers per hour in areas to the north and northwest of downtown Los Angeles.
+
+
+“Everyone needs to be on high alert,” Los Angeles Mayor Karen Bass said Monday.
+
+
+California Department of Forestry and Fire Protection (Cal Fire) spokesperson Brice Bennett said in a statement Monday that his agency — with help from federal, local and tribal firefighting agencies — have more than 2,500 people and has prepositioned equipment for quick deployment to combat any new outbreaks.
+
+
+At least 27 people have died in a series of wildfires across the Los Angeles area during the past two weeks as Santa Ana winds mixed with dry conditions on the ground to quickly spread blazes.
+
+
+The two largest fires are still burning, including the Palisades Fire near the coast on the western side of Los Angeles and the Eaton Fire in the foothills to the north of the city.
+
+
+The Palisades Fire was 61% contained and has burned about 96 square kilometers, according to Cal Fire. The Eaton Fire was 87% contained after burning 57 square kilometers.
+
+
+Together, the fires have destroyed 14,000 structures since Jan. 7.
+
+
+California Governor Gavin Newsom issued an executive order Monday designed to protect Southern California residents from landslides and flooding. The order suspends some rules and regulations and speeds up the removal of debris that, if not removed promptly, could result in landslides, mudslides and flash floods.
+
+
+“This order helps keep our emergency response focused on protecting communities, not permits and paperwork,” Newsom said.
+
+
+Some information for this report was provided by The Associated Press 
+
+<br> 
+
+<https://www.voanews.com/a/firefighters-brace-for-dangerous-windy-dry-conditions-in-southern-california/7944414.html>
+
+---
+
+## Tens of thousands defy frigid weather for Trump’s inauguration
+
+date: 2025-01-21, from: VOA News USA
+
+It’s been a long day in Washington, filled with tradition and some out-of-the-ordinary events as the United States swears in its 47th president.  VOA’s Senior Washington Correspondent Carolyn Presutti brings us the sights and sounds from Inauguration Day 2025. 
+
+<br> 
+
+<https://www.voanews.com/a/tens-of-thousands-defy-frigid-weather-for-trump-s-inauguration-/7944389.html>
+
+---
+
+## Trump orders include withdrawing from WHO, halting US foreign aid
+
+date: 2025-01-21, from: VOA News USA
+
+U.S. President Donald Trump issued a series of executive actions after taking office Monday, including moving to withdraw from international health and climate bodies and directing a suspension of U.S. foreign aid.
+
+
+A set of orders focused on immigration, such as declaring an emergency on the U.S.-Mexico border, ending asylum and halting birthright citizenship for some children born in the United States.
+
+
+
+
+Trump also ordered vetting and screening “to the maximum degree possible” all those who want to enter the United States, and for the government to identify countries that may have screening procedures deficient enough to warrant blocking their nationals from entering the United States.
+
+
+In his first term in office, Trump pursued an “America First” form of foreign policy, and an order he signed Monday directs new Secretary of State Marco Rubio to focus State Department efforts on that mission.
+
+
+“From this day forward, the foreign policy of the United States shall champion core American interests and always put America and American citizens first,” the order said.
+
+
+Trump ordered the United States to withdraw from the 2015 Paris climate accord, a repeat of a move he also made in his first term. Trump said the U.S. has a successful record of “advancing both economic and environmental objectives” that should be a model to other countries.
+
+
+Nearly 200 countries signed the agreement aimed at limiting global warming with each country providing its own plan for limiting greenhouse gas emissions that contribute to climate change.
+
+
+In another repeat from his first time in office, Trump ordered the United States to withdraw from the World Health Organization due to complaints that the agency mismanaged the COVID-19 pandemic and gets too much funding from the U.S.
+
+
+WHO said in a statement Tuesday it “regrets” Trump’s announcement and that it looks forward to constructive talks to maintain a partnership with the United States “for the benefit of the health and well-being of millions of people around the globe.”
+
+
+“For over seven decades, WHO and the USA have saved countless lives and protected Americans and all people from health threats,” WHO said. “Together, we ended smallpox, and together we have brought polio to the brink of eradication. American institutions have contributed to and benefited from membership in WHO.”
+
+
+Calling U.S. foreign aid “not aligned with American interests,” Trump issued an order to pause foreign development assistance for 90 days and for the programs to undergo reviews.
+
+
+Funding for many programs has already been appropriated by Congress, so it was not clear how much aid would be initially affected by the order.
+
+
+
+
+Trump also reversed an order signed by former President Joe Biden last week that had removed Cuba from the list of state sponsors of terror.
+
+
+Cuban President Miguel Diaz-Canel responded to Trump’s move Monday by calling it “an act of arrogance and disregard for the truth.”
+
+
+On trade, Trump issued an order calling for a review of a number of trade agreements, including one with China and the U.S.-Mexico-Canada Agreement.
+
+
+He also specifically called for an assessment of “unlawful migration and fentanyl flows” from Canada, Mexico and China. Ahead of taking office, Trump said those countries would need to act on those areas in order to avoid tariffs on goods sent to the United States.
+
+
+In response to a law passed during Biden’s term that would have blocked TikTok in the United States in connection with national security concerns, Trump signed an order telling the Justice Department not to enforce that ban until his administration can “determine the appropriate course forward.”
+
+
+
+
+The law directed a TikTok ban unless its China-based parent company sold it to an approved buyer. U.S. officials promoting the ban expressed concerns that the Chinese government could obtain Americans’ digital data.
+
+
+Trump himself tried to carry out a similar ban during his first term, but in recent weeks has championed keeping TikTok available to U.S. users, including the potential for the U.S. government to acquire a stake in the company.
+
+
+Some information for this report was provided by The Associated Press and Reuters 
+
+<br> 
+
+<https://www.voanews.com/a/trump-orders-include-withdrawing-from-who-halting-us-foreign-aid/7944399.html>
+
+---
+
+## Trump supporters celebrate pardon of Jan. 6 rioters
+
+date: 2025-01-21, from: VOA News USA
+
+WASHINGTON — The atmosphere was celebratory outside the Central Detention Facility prison in Washington late Monday night. 
+
+
+Just hours after taking the oath of office, U.S. President Donald Trump pardoned about 1,500 people who participated in the Jan. 6, 2021, attack on the U.S. Capitol, during which Trump supporters tried to overturn the results of the 2020 election. 
+
+
+Many of them were held in the Central Detention Facility in southeast Washington. Despite the frigid cold, their supporters gathered outside the building, looking forward to what they told VOA they hoped would be their speedy release. As of publication, that release had not happened yet. 
+
+
+The police presence outside the prison was substantial throughout the night. So, too, was the media presence. And even though supporters at one point briefly rushed the prison entrance, only to be blocked by police, they still told VOA that the gathering was joyous and patriotic. 
+
+
+While brandishing an American flag, Ben Pollock told VOA that two of his children — Olivia and Jonathan — were jailed for taking part in the attack. He said he himself was present that day, too, but that he didn’t enter the Capitol Building. 
+
+
+ 
+
+
+
+
+Pollock, from Florida, said he was “ecstatic, praising God” that his children would be released soon. “It’s been such a spiritual journey.” 
+
+
+Former fugitives Olivia and Jonathan Pollock are charged with assaulting, resisting or impeding certain officers, as well as theft of government property, according to media reports. The latter is accused of grabbing an officer by the waist and pulling the officer down a set of stairs, and punching another officer in the face.
+
+
+Their father cried as he talked about Jan. 6 — not because he regretted that day, which he didn’t, but because he said he felt so deeply that those who were jailed for participating in the attack had been unfairly prosecuted. 
+
+
+“It’s broken my heart for four years. I’ve cried and cried and cried over these families,” Pollock said. “Today is their day of freedom.” 
+
+
+Pollock and others who spoke with VOA said they felt like Trump’s executive order meant that they were finally getting vindication for Jan. 6. 
+
+
+For them, Trump’s pardon confirmed their belief that the 2020 election was rigged, they told VOA. It also represented the fulfillment of a promise that Trump had made during his campaign to absolve those who took part in the attack, they said.
+
+
+Numerous reports and investigations have shown that the 2020 election was not stolen. Election officials have confirmed the election was secure, and Trump and his allies have failed to produce any evidence to substantiate the allegations of fraud. 
+
+
+Despite the evidence that the election was not stolen, several people outside the prison told VOA that Trump’s pardon reinforced their belief that it actually had been. 
+
+
+“The election was stolen. We all see it. The whole world saw it,” Stephanie Liu, from New York told VOA. 
+
+
+Liu, who was present at the Capitol on Jan. 6, said she has come to the prison every month for the past two-and-a-half years to visit the imprisoned Jan. 6 rioters. “Political prisoners should not exist in this country,” said Liu, who is originally from China. 
+
+
+Helena Gibson, from the U.S. capital, made a similar point: “This has been four long years of these Jan. 6 political hostages.” 
+
+
+That language echoes Trump, who calls those who stormed the Capitol “hostages” and “unbelievable patriots.” 
+
+
+One day after the attack, Trump said that “those who broke the law” during the riot would “pay.” But defending them ended up becoming a significant component of his 2024 presidential campaign. 
+
+
+Tom Jeffries, from Virginia, said he was “somewhat disappointed” that Trump didn’t mention the Jan. 6 defendants during his inaugural address. 
+
+
+“But knowing him, I knew that he hadn’t forgotten about it. He was waiting for the right time to do it,” Jeffries told VOA. “That was my hope, and God granted my wish.” 
+
+
+Trump’s decision to pardon those who took part in the attack was met with swift condemnation from Democrat lawmakers like Senator Chris Murphy. 
+
+
+By pardoning the rioters, “Trump has transformed American democracy,” Murphy said in a post on X. “Political violence is now mainstream.” 
+
+
+Senate Democratic Leader Chuck Schumer also said those who invaded the Capitol should not have been pardoned. 
+
+
+“Trump is ushering in a Golden Age for people that break the law and attempt to overthrow the government,” Schumer said in a statement. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-supporters-celebrate-pardon-of-jan-6-rioters-/7944388.html>
+
+---
+
+## Starry Sundance fest moves ahead in wake of LA fires
+
+date: 2025-01-21, from: VOA News USA
+
+Los Angeles — The U.S. film industry's first big gathering since fires devastated Los Angeles will begin Thursday at the Sundance festival, where highlights include a glitzy new Jennifer Lopez musical and a dark Benedict Cumberbatch drama.
+
+
+Hollywood's annual pilgrimage to the Rocky Mountains to premiere the coming year's most-anticipated indie films is taking place in somber circumstances, after the blazes that killed at least 27 people and brought the entertainment capital to a halt.
+
+
+Festival chiefs held lengthy talks with filmmakers, including those "who lost homes or were displaced" by the blazes, before deciding to press ahead, said Sundance director Eugene Hernandez.
+
+
+Organizers heard "harrowing stories of people running out of their homes, evacuating... with their hard drives under their arms" to ensure their films survived, he told AFP.
+
+
+"Everybody to a person just wants to look forward and wants to look ahead... it'll be a nice moment of reunion and community."
+
+
+Among the 88 features being screened in Utah's Park City is "Rebuilding," about a rancher who loses everything in a wildfire.
+
+
+"It takes on an added poignance, for those who will watch it next week," said Hernandez.
+
+
+Josh O'Connor, known for "The Crown" and "Challengers," plays the lead role. 
+
+
+"It's an incredible film, and one that we felt was important to show, based on that spirit of resilience," said Sundance programming director Kim Yutani.
+
+
+"I think it will be a particularly moving one for people to see."
+
+
+J-Lo, Cumberbatch
+
+
+A-lister Lopez brings her first film to Sundance, with "Kiss of the Spider Woman."
+
+
+From "Dreamgirls" director Bill Condon, the film is based on the Broadway adaptation of Argentine author Manuel Puig's famous novel.
+
+
+Lopez plays Aurora, a silver-screen diva whose life and roles are discussed by two mismatched prisoners as they form an unlikely bond in their grim cell. 
+
+
+While harking back to grand Golden Age Hollywood musicals with its fabulous costumes and Lopez's "knockout musical performance," the film is a more dramatic and independent take on the genre, said Hernandez.
+
+
+Cumberbatch stars in another literary adaptation, "The Thing With Feathers," based on Max Porter's experimental and poetic novel about a grieving husband and two young sons.
+
+
+"It's one of these juicy roles that big actors relish taking a bite out of," said Yutani.
+
+
+Family tragedy and fatherhood are also the themes of "Omaha," with John Magaro ("Past Lives") delivering "an emotional gut punch of a role" that could spell awards, according to Yutani.
+
+
+Elsewhere, Olivia Colman plays a mother taking her non-binary teen to visit their gay grandfather (John Lithgow) in "Jimpa."
+
+
+Rapper A$AP Rocky and late-night host Conan O'Brien make up the eclectic cast of mystery "If I Had Legs I'd Kick You."
+
+
+And "The Bear" star Ayo Edebiri teams up with John Malkovich for thriller "Opus," about a young writer investigating the mysterious disappearance of a legendary pop star.
+
+
+Music, politics
+
+
+Music is also a prominent theme of Sundance's documentary selection, which has launched several of the most recent Oscar-winning non-fiction films.
+
+
+A new "must-see" Jeff Buckley documentary features never-before-seen footage from "three very important women in his life, including his mother," said Yutani.
+
+
+Elegance Bratton explores the Chicago roots of house music with "Move Ya Body: The Birth of House," while Oscar-winning director Questlove examines funk pioneer Sly Stone in "Sly Lives! (aka The Burden of Black Genius)."
+
+
+Politics will again be prominent.
+
+
+Former New Zealand leader Jacinda Ardern is expected in town to promote behind-the-scenes documentary "Prime Minister."
+
+
+"The Jinx" director Andrew Jarecki explores violence and corruption in the U.S. prison system with "The Alabama Solution." 
+
+
+And, days after the Gaza ceasefire agreement took effect, Palestinian-American director Cherien Dabis will unveil her "groundbreaking" new film "All That's Left of You," which has been given a highly prominent Saturday evening premiere at Sundance's biggest venue.
+
+
+"That is not an accident. This is a really special one," said Yutani.
+
+
+"I have not seen a film about a Palestinian family told in quite this way."
+
+
+The 2025 Sundance Film Festival runs from Jan. 23 through Feb. 2. 
+
+<br> 
+
+<https://www.voanews.com/a/starry-sundance-fest-moves-ahead-in-wake-of-la-fires-/7944385.html>
+
+---
+
+## Trump issues sweeping pardon of 1,500 Jan. 6 defendants
+
+date: 2025-01-21, from: VOA News USA
+
+WASHINGTON — President Donald Trump on Monday pardoned more than 1,500 of his supporters charged with crimes in the Jan. 6, 2021, attack on the U.S. Capitol, including people who assaulted police, using his clemency powers on his first day in office to dismantle the largest investigation and prosecution in Justice Department history.
+
+
+Among those set to be released from prison are defendants captured on camera committing violent attacks on law enforcement as lawmakers met to certify President Joe Biden's 2020 election victory. Leaders of the Oath Keepers and Proud Boys extremist groups convicted of seditious conspiracy in the most serious cases brought by the Justice Department will also be freed from prison after having their sentences commuted.
+
+
+Trump is directing the attorney general to seek the dismissal of about 450 pending Jan. 6 cases.
+
+
+The pardons were expected after Trump's yearslong campaign to rewrite the history of the Jan. 6 attack that left more than 100 police officers injured and threatened the peaceful transfer of power. Yet the scope of the clemency still comes as a massive blow to the Justice Department's effort to hold participants accountable over what has been described as one of the darkest days in American history.
+
+
+Trump had suggested in the weeks leading up to his return to the White House that instead of blanket pardons he was going to look at the Jan. 6 defendants on a case-by-case basis. Vice President JD Vance had said just days ago that people responsible for the violence during the Capitol riot "obviously" should not be pardoned.
+
+
+Casting the rioters as "patriots" and "hostages," Trump has claimed they were unfairly treated by the Justice Department that also charged him with federal crimes in two cases he contends were politically motivated. Trump said the pardons end "a grave national injustice that has been perpetrated upon the American people over the last four years and begins a process of national reconciliation."
+
+
+An attorney for Enrique Tarrio, the former national chairman of the Proud Boys who was sentenced to 22 years in prison for seditious conspiracy, said he expects his client to be released from prison Monday night. Tarrio, who was convicted of orchestrating a failed plot to keep Donald Trump in power after the Republican lost the 2020 election, is serving the longest sentence of any of the Jan. 6 defendants.
+
+
+The pardons come weeks after Trump's own Jan. 6 case was dismissed because of the Justice Department's policy against prosecuting sitting presidents.
+
+
+Hundreds of Jan. 6 defendants who didn't engage in any of the violence and destruction were charged with misdemeanor trespassing offenses, and many of those served little to no time behind bars.
+
+
+But the violence that day has been documented extensively through videos, testimony and other evidence showing rioters — some armed with poles, bats and bear spray — swarming the Capitol, quickly overrunning overwhelmed police, shattering windows and sending lawmakers and aides running into hiding.
+
+
+Police were dragged into the crowd and beaten. One officer screamed in pain as he was crushed in a doorframe, and another suffered a heart attack after a rioter pressed a stun gun against his neck and repeatedly shocked him. Officers have described in testimony fearing for their lives as members of the mob hurled insults and obscenities at them.
+
+
+Of the more than 1,500 people charged, about 250 people have been convicted of crimes by a judge or a jury after a trial. At least 1,020 had pleaded guilty to crimes as of Jan. 1. Only two people were acquitted of all charges by judges after bench trials. No jury has fully acquitted a Capitol riot defendant.
+
+
+More than 1,000 rioters have already been sentenced, with over 700 receiving at least some time behind bars. The rest were given some combination of probation, community service, home detention or fines. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-issues-sweeping-pardon-of-1-500-jan-6-defendants/7944356.html>
+
+---
+
+## Trump lays out vision on first day of second term
+
+date: 2025-01-21, from: VOA News USA
+
+President Donald Trump got right to work upon his return to the White House on Monday, announcing numerous executive actions on top-line issues like immigration and energy development and, in his inaugural address, promising to expand U.S territory – all the way, he said, to Mars. VOA’s Anita Powell reports from the White House 
+
+<br> 
+
+<https://www.voanews.com/a/trump-lays-out-vision-on-first-day-of-second-term/7944343.html>
+
+---
+
+## In day steeped with tradition, Donald Trump is sworn in
+
+date: 2025-01-21, from: VOA News USA
+
+WASHINGTON — Amid frigid temperatures in the nation’s capital, the peaceful transfer of power from one presidential administration to the next took place Monday.
+
+
+The inauguration events, starting with a church service and culminating in an oath and inaugural speech at the Capitol building, were attended by former presidents and their families, foreign dignitaries, and tech billionaires.
+
+
+Members of the “press pool” — a group of reporters, photographers and video journalists — were on hand to capture the day’s events for the media outlets that make up the White House Correspondents' Association.
+
+
+Through the press pool, accredited journalists take turns covering the president’s daily activities to ensure 24-7 coverage of the American leader. VOA White House correspondent Misha Komadovsky was assigned to Monday morning’s inaugural events.
+
+
+“Today, I’ll be your eyes and ears during the first steps of Donald Trump’s inauguration,” Komadovsky emailed at around 8 a.m. local time as part of his assignments. 
+
+
+ 
+
+
+
+
+The pool report had noted that the inaugural events were to follow a traditional course: a morning church service and a meeting between the outgoing and incoming first families before traveling to the inauguration.
+
+
+The service at St. John’s Episcopal Church in Lafayette Park across from the White House has been a part of inauguration events since 1933, when Franklin D. Roosevelt attended a service before being sworn in as the 32nd president.
+
+
+Trump, as the 47th U.S. president, followed in his predecessors’ footsteps. He and first lady Melania Trump sat in the front row of the church, alongside his vice president, JD Vance, and second lady Usha Vance.
+
+
+Melania Trump wore a navy suit by New York-based designer Adam Lippes, paired with a wide-brimmed hat by American designer, Eric Javits.
+
+
+Dressing the first lady was an honor, Javits said, adding that his background in art has informed his ability to bring “harmony and balance to the face” with his designs.
+
+
+In Melania Trump’s case, he told the AP, the designing was not difficult because the first lady is “blessed with great bone structure, beauty and a wonderful sense of style.”
+
+
+Also attending Monday’s service — which took place the same day that the U.S. marks Martin Luther King Jr. Day — were members of the Trump family, including his children Donald Jr., Ivanka, Eric, Tiffany and Barron Trump. Individuals whom the president has nominated for key roles in his administration also filled the pews, including Robert F. Kennedy Jr., Pete Hegseth, Pam Bondi, Kash Patel and Marco Rubio.
+
+
+Foreign dignitaries were also present. Leaders seen by the press pool included President Javier Milei of Argentina, Prime Minister Giorgia Meloni of Italy, and Britain’s former Conservative Party prime minister Boris Johnson.
+
+
+Some of the world’s richest individuals were also there, including Elon Musk of Tesla, social media platform X, and SpaceX; Apple CEO Tim Cook; and media tycoon Rupert Murdoch.
+
+
+TikTok CEO Shou Zi Chew attended the service, as did media personality Tucker Carlson.
+
+
+TikTok had briefly gone offline Saturday evening following a U.S. Supreme Court ruling upholding a law ordering the Chinese social media platform to sell to an American owner. Trump indicated he planned a “joint venture” to allow TikTok to operate.
+
+
+Service was restored on Sunday, with a message to users that said that “as a result of President Trump’s efforts, TikTok is back in the U.S.”
+
+
+Trump’s former lawyer Rudy Giuliani, who earlier this month was held in contempt of court twice over a defamation case stemming from Trump’s failed 2020 election, was also spotted at the service.
+
+
+Giuliani last Thursday settled the $148 million defamation judgment granted to two election workers in the U.S. state of Georgia.
+
+
+During Monday’s 25-minute church service, the choir sang “America the Beautiful.” After the service concluded, Trump walked down the aisle, greeting guests along the way. He was seen patting Milei of Argentina on the shoulder.
+
+
+Next, keeping with tradition, outgoing President Joe Biden and first lady Dr. Jill Biden met with the incoming president and first lady at the White House.
+
+
+The First Families shared tea in the White House Blue Room before departing together for the U.S. Capitol.
+
+
+Because of extreme cold weather, the inauguration was held inside the Capitol rotunda, with music from the University of Nebraska-Lincoln Combined Choir and the U.S. Marine Band. Opera singer Christopher D. Macchio sang “Oh, America!” and singer Carrie Underwood performed “America the Beautiful” with the Armed Forces Chorus and U.S. Naval Academy Glee Club.
+
+
+Former Presidents George W. Bush, Bill Clinton and Barack Obama were on hand for the inauguration, along with many members of the church service congregation and the Trump family, as faith leaders offered prayers.
+
+
+Tech billionaires including Musk, Amazon's Jeff Bezos, Meta’s Mark Zuckerberg and Google CEO Sundar Pichai were spotted at the inauguration, alongside the president’s supporters and U.S. lawmakers.
+
+
+Chief Justice John Roberts swore in the 47th president, on a Bible held by Melania Trump. The president was flanked by his children.
+
+
+Following the oath of office, a luncheon took place, followed by a military troop review and parade.
+
+
+As the ceremonial swearing in took place, new staffers at the White House were seen moving into their new offices and unpacking images of the president and first lady. 
+
+<br> 
+
+<https://www.voanews.com/a/in-day-steeped-with-tradition-donald-trump-is-sworn-in/7944323.html>
+
+---
+
+## Trump Includes Critical Minerals in His Energy Bonanza
+
+date: 2025-01-21, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTcwOTUyMy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0OTMwODQwOX0.PHN-JKqo7uR4WiegRneXRrOFQVuvlultybZTwzvrYL4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">It’s not just drill, baby, drill (for oil) — it’s mine, baby, mine. Along with the shots at <a href="https://heatmap.news/sparks/wind-executive-order-trump" target="_self"><u>wind energy</u></a> and the previous administration’s climate policy, President Donald Trump’s blizzard of energy and environmental policy announcements and executive orders on Monday included a boost to the domestic mining and refining of critical minerals.</p><p>The directives outlined a strategy that would promote both the extraction and, crucially, the processing of critical minerals in America and would look skeptically at importing them — especially from China.</p><p>Secretary of State Marco Rubio focused on Chinese mineral dominance as a national security threat in his confirmation hearing earlier this month,<a href="https://x.com/ErnestScheyder/status/1879580327456526419" target="_blank"> <u>telling the Senate Foreign Relations Committee that China has</u></a> “come to dominate the critical mineral supplies throughout the world … Even those who want to see more electric cars, no matter where you make them, those batteries are almost entirely dependent on the ability of the Chinese and the willingness of the Chinese Communist Party to produce it and export it to you.”</p><p><span></span>The German Marshall Fund<a href="https://www.gmfus.org/news/chinas-role-critical-mineral-supply-chains" target="_blank"> <u>has estimated</u></a> that China makes up 60% of the supply of critical minerals and 85% of the processing capacity. The United States Geological Survey’s list of 50 critical minerals includes commonly used metals like aluminum, as well as a number of metals and minerals crucial for batteries and green energy technology like cobalt, lithium, graphite, and manganese.</p><p><span></span>While new reserves of lithium are constantly being discovered, China dominates refining of the metal, with 60% market share for refining battery-grade lithium,<a href="https://www.spglobal.com/commodity-insights/en/news-research/latest-news/metals/092324-factbox-chinas-lithium-industry-eyes-output-cuts-to-shore-up-market-sentiment#:~:text=Globally%2C%20China%20ranks%20ninth%20in,bearing%20on%20the%20global%20market." target="_blank"> <u>according to S&P.</u></a> And the Trump administration’s interest in critical minerals may not be limited to the (current) boundaries of the United States; it is also one reason why the president is so interested in Greenland, which likely has <a href="https://heatmap.news/sparks/trump-greenland-minerals-rare-earth" target="_self"><u>massive stores of rare earth metals</u></a>, including uranium.</p><p><span></span>In the executive order “Unleashing American Energy,” President Trump called for agency heads and relevant Cabinet officials to “identify all agency actions that impose undue burdens on the domestic mining and processing of non-fuel minerals and undertake steps to revise or rescind such actions,” along with specifically directing the secretary of Energy and the secretary of the Interior to make “efforts to accelerate the ongoing, detailed geologic mapping of the United States,” and “ensure that critical mineral projects, including the processing of critical minerals, receive consideration for Federal support,” respectively.</p><p><span></span>He also directed Cabinet officials not directly involved with energy and resources policy to lend their weight to the American critical mineral effort.The United States trade representative and secretary of Commerce were tasked with looking at overseas critical mineral projects to see if they’re “unlawful or unduly burden or restrict United States commerce” and to examine “the national security implications of the Nation’s mineral reliance and the potential for trade action,” indicating that Trump administration<a href="https://ustr.gov/sites/default/files/Section%20301%20Modifications%20Determination%20FRN%20(Sept%2012%202024)%20(FINAL).pdf" target="_blank"> <u>may likely continue a version of the Biden administration’s tariffs and restrictions on imports of Chinese critical minerals</u></a>.</p><p><span></span>Critical minerals also showed up in <a href="https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/" target="_blank"><u>executive orders</u></a> where President Trump <a href="https://heatmap.news/politics/national-energy-emergency" target="_self"><u>declared a “national energy emergency”</u></a> and an order specific to resource exploitation in Alaska. In the emergency declaration, minerals were included alongside energy as areas whose “identification, leasing, development, production, transportation, refining, and generation capacity of the United States are all far too inadequate to meet our Nation’s needs.” In the Alaska order, “Unleashing Alaska’s Extraordinary Resource Potential,” minerals were listed alongside “energy, timber, and seafood,” as the “abundant and largely untapped supply of natural resources” that the state possesses, even as the order was largely specific to oil and gas projects like liquefied natural gas and oil drilling.</p><p><span></span>The Trump administration’s interest in critical minerals is not unique. The Biden Administration also pursued a domestic critical minerals policy, including<a href="https://www.blm.gov/press-release/major-lithium-mine-approved-nevada-latest-effort-support-domestic-supply-critical" target="_blank"> <u>approving</u></a> and lending money to<a href="https://www.energy.gov/lpo/articles/doe-announces-996-million-loan-guarantee-ioneer-rhyolite-ridge-advance-domestic" target="_blank"> <u>lithium mining operations.</u></a></p> 
+
+<br> 
+
+<https://heatmap.news/politics/critical-minerals-trump-executive-order>
+
+---
+
+## Trump lays out vision on first day of second term
+
+date: 2025-01-21, from: VOA News USA
+
+White House — On the historic first day of his second term in office, President Donald Trump laid out his vision for a bolder — and larger — United States.
+
+
+"The United States will once again consider itself a growing nation, one that increases our wealth, expands our territory, builds our cities, raises our expectations, and carries our flag into new and beautiful horizons," he said in his inaugural address Monday. "And we will pursue our manifest destiny into the stars, launching American astronauts to plant the Stars and Stripes on the planet Mars."
+
+
+Then he got to work signing a stack of executive orders. He said they included a declaration of a national emergency at the southern border that would allow the deployment of troops, and a national energy emergency that would allow more domestic oil and gas extraction. He also declared that there are only two genders, male and female, and said he would order that the Gulf of Mexico be renamed the Gulf of America.
+
+
+
+
+Historians say that Trump made history on his second Day 1 by using what is historically a unifying speech to portray a future that many Americans may disagree with.
+
+
+"Donald Trump did not do that. This was one of the most partisan presidential inaugural speeches — it was less an inaugural speech and more a State of the Union. He just listed a series of bullet points of projects he wanted to undertake, from deporting immigrants to seizing back the Panama Canal," said Jeremi Suri, a history professor at the University of Texas at Austin.
+
+
+Shortly after his inaugural speech, Trump spoke to a smaller group of supporters at the Capitol and reiterated claims that the 2020 election was "totally rigged" — a claim without proof. He also pardoned some of those convicted over the violent events of Jan. 6, 2021, when a mob of Trump supporters attempted to disrupt the certification of the election Trump lost.
+
+
+"I think this was a better speech than the one I made upstairs, OK?" Trump said.
+
+
+Some of Trump's powerful supporters expressed their joy.
+
+
+Tesla and SpaceX CEO Elon Musk was among the billionaires who packed into the Capitol for the ceremony and hailed Trump's victory. After Trump was sworn in, Musk took to the stage of the rally at Capital One Arena to praise him.
+
+
+"This was no ordinary victory," he said. "This was a fork in the road of human civilization."
+
+
+Consumer advocacy groups are sounding alarms about some of the new president's quieter moves, ones they say seek to loosen regulations and benefit the extremely wealthy.
+
+
+"When we think about why the incoming Trump administration wants to freeze regulations and halt public protections wholesale, it is at the behest of the wealthiest among us, corporate special interests," said Lisa Gilbert, co-president of the nonprofit consumer advocacy organization Public Citizen. "They are who benefits when we don't have guardrails on the books."
+
+
+Trump did not, on Monday, directly address foreign policy concerns such as Ukraine and competition with China — but Suri said his expansionist rhetoric sent a message.
+
+
+"It's hard for the United States to tell [Russian President] Vladimir Putin or [Chinese President] Xi Jinping that they should not seek expansion when our president is talking about expansion, but insofar as we don't follow through on that rhetoric, we still are on very strong ground to say that invading your neighbor, as Putin has in Ukraine, or as China might potentially do in Taiwan, that is verboten, that crosses the line, so long as it's just words from us," he said. "If we were to go to war to try to seize the Panama Canal, that would certainly give a kind of carte blanche to Putin and Xi Jinping, because they make the same arguments for Ukraine and Taiwan." 
+
+<br> 
+
+<https://www.voanews.com/a/trump-lays-out-vision-on-first-day-of-second-term/7944313.html>
+
+---
+
+## Trump Waged a Multi-Front Blitz on EVs
+
+date: 2025-01-21, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTY5MTYwOS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3MjAwODk3OH0.lqYIYG67kK9YsmsIvBsNZX5EZzJJKsj7MAUszIz9wyY/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Ding dong, the <a href="https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/" target="_blank"><u>electric vehicle “mandate” is dead</u></a>.</p>
+<p>President Donald Trump <a href="https://heatmap.news/politics/trump-electric-vehicles-fact-check#:~:text=%E2%80%9CI%20will%20also%20rescue%20the%20ethanol%20industry%20by%20canceling%20crooked%20Joe%20Biden%E2%80%99s%20insane%20ethanol%2Dkilling%20electric%20vehicle%20mandate%20on%20day%20one.%E2%80%9D" target="_self"><u>fulfilled his longtime campaign promise</u></a> on Monday by functionally ending former President Joe Biden’s <a href="https://www.theguardian.com/us-news/2024/mar/20/biden-car-transportation-emission-regulation-pollution#:~:text=The%20rule%2C%20which%20calls%20for,Biden%20said%20in%20a%20statement." rel="noopener noreferrer" target="_blank"><u>tailpipe emissions standards</u></a>, which had <a href="https://www.epa.gov/newsreleases/biden-harris-administration-proposes-strongest-ever-pollution-standards-cars-and" rel="noopener noreferrer" target="_blank"><u>aimed</u></a> to “accelerate the ongoing transition to a clean vehicles future and tackle the climate crisis.”</p>
+<p>As part of his “Unleashing American Energy” executive order, signed Monday night in the Oval Office, Trump specifically demanded the elimination of “the electric vehicle mandate,” ordered a “level regulatory playing field for consumer choice in vehicles,” and directed the termination of “state emission waivers that function to limit sales of gasoline-powered automobiles,” as well as the elimination of “unfair subsidies … that favor EVs.” </p>
+<p>Though the finer details of how this will be implemented aren’t clear in the executive order, there has never been an actual electric vehicle mandate. The rules under Biden’s Environmental Protection Agency would have required a gradual reduction in fleetwide average carbon emissions by up to 56% by 2032. To meet that goal, electric vehicles would have needed to make up 35% to 56% of new car sales by 2032, <a href="https://insideevs.com/news/747199/ev-top-10-sales-2024/" rel="noopener noreferrer" target="_blank"><u>up from 8% in 2024</u></a>. According to the Biden administration, the rule <a href="https://www.epa.gov/newsreleases/biden-harris-administration-finalizes-strongest-ever-pollution-standards-cars-position" rel="noopener noreferrer" target="_blank"><u>would have cut</u></a> more than 7 billion tons of carbon dioxide emissions through 2055, or “roughly equal to four times the emissions of the entire transportation sector in 2021.”</p>
+<p>Trump’s executive order also appeared to target the Biden administration’s fuel economy standards. Back in June, the Department of Transportation’s National Highway Traffic Safety Administration issued a rule that raised the fleetwide average fuel economy of passenger cars for model years 2027 through 2031 by 2% each year — that is, to 47 miles per gallon in 2026 and to 50.4 miles per gallon in 2031. (The current average is around 39.1 miles per gallon.) </p>
+<p>Republicans overwhelmingly opposed the rules, known as the Corporate Average Fuel Economy, or CAFE Standards, <a href="https://walberg.house.gov/media/in-the-news/fox-news-120-republicans-join-effort-opposing-bidens-de-facto-ev-mandate#:~:text=%E2%80%94%20penned%20a%20letter%20late%20Tuesday,U.S.%20energy%20and%20national%20security." rel="noopener noreferrer" target="_blank"><u>arguing</u></a> they “effectively mandate EVs while at the same time forcing the internal combustion engine out of the market.” The GOP has insisted that the CAFE Standards should be “market-driven” rather than “limit availability of and access to vehicle and fuel options.” Project 2025, the Heritage Foundation’s playbook for the Trump administration, <a href="https://heatmap.news/politics/trump-climate-change-project-2025#:~:text=Project%202025%20proposes%20a%20fleet%2Dwide%20average%20of%2035%20miles%20per%20gallon" target="_self"><u>called for</u></a> a fuel efficiency standard of 35 mpg.</p>
+<p>CAFE Standards have <a href="https://www.marketplace.org/2025/01/13/cafe-standards-fuel-efficiency-donald-trump/" rel="noopener noreferrer" target="_blank"><u>long been a political football</u></a> between administrations; Trump previously <a href="https://www.reuters.com/article/business/environment/trump-finalizes-rollback-of-obama-era-vehicle-fuel-efficiency-standards-idUSKBN21I25R/" rel="noopener noreferrer" target="_blank"><u>rolled back</u></a> President Barack Obama’s standards, while Biden’s NHTSA brought even stricter rules.</p>
+<p>Monday’s executive order additionally appeared to target the EPA’s waiver for California to set its own emissions standards under the Clean Air Act in its language targeting “state emission waivers that function to limit sales of gasoline-powered automobiles.” Trump previously revoked California’s right to include greenhouse gases in its emissions considerations and barred other states from adopting its criteria. Biden reversed that decision in March 2022, on the grounds that the Trump administration’s withdrawal was based on <a href="https://www.bakerlaw.com/insights/regulating-automotive-emissions-part-i-what-to-expect-under-the-second-trump-administration/#:~:text=the%20decision%20to%20withdraw%20the%20waiver%20was%20based%20on%20a%20flawed%20interpretation%20of%20the%20Clean%20Air%20Act.%5B2%5D" rel="noopener noreferrer" target="_blank"><u>a flawed interpretation</u></a> of the Clean Air Act. Since then, California released its Advanced Clean Cars II standard, which <a href="https://www.atlasevhub.com/weekly-digest/12-states-have-formally-adopted-advanced-clean-cars-ii/" rel="noopener noreferrer" target="_blank"><u>11 other states</u></a> have adopted and requires <a href="https://www.latimes.com/environment/story/2024-12-11/why-newsoms-electric-vehicle-mandate-is-in-trouble" rel="noopener noreferrer" target="_blank"><u>all new cars sold by 2035</u></a> to be zero-emission.</p>
+<p>It had been no secret that the California waiver would be <a href="https://heatmap.news/politics/trump-climate-change-project-2025#:~:text=It%20will%20revoke%20the%20California%20Clean%20Air%20Act%20waiver%20(...again)" target="_self"><u>a target of the incoming Trump administration</u></a>, despite the program being <a href="https://heatmap.news/electric-vehicles/trump-tesla-california" target="_self"><u>a secret profit center for Tesla</u></a> and supported by Elon Musk. California has also quietly been working to Trump-proof its standards, reaching an agreement recently with Stellantis (the parent automaker of Chrysler, Jeep, Dodge, and Ram) to comply voluntarily with its electrification mandates through 2030. (As my colleague Matthew Zeitlin <a href="https://heatmap.news/electric-vehicles/california-stellantis-trump-epa" target="_self"><u>has noted</u></a>, the nationwide EPA rules for tailpipe emission reductions “follow a different model than the California standards,” and are not an electric vehicle mandate.)</p>
+<p>By directing the EPA to revoke the California waiver, Trump has started a process that could lead to the Supreme Court. Last month, the Justices <a href="https://www.eenews.net/articles/supreme-court-spares-california-auto-emissions-waiver-for-now/" rel="noopener noreferrer" target="_blank"><u>declined to consider</u></a> whether or not California has the right to set its own aggressive tailpipe standards, but if Trump indeed attempts to rescind the waiver, it will <a href="https://www.wsj.com/politics/elections/trump-plans-energy-dominance-executive-orders-after-inauguration-df86acd8" rel="noopener noreferrer" target="_blank"><u>likely face further legal challenges</u></a>.</p>
+<p>Taken together, the “Unleashing American Energy” executive order seems designed to deliver on Trump’s frequent campaign attacks on EVs on the 2024 campaign trail, where he argued that “under Biden’s electric vehicle mandate, 40% of all U.S. auto jobs will disappear.” Heatmap’s own investigation found <a href="https://heatmap.news/electric-vehicles/evs-trump-uaw-jobs-evidence" target="_self"><u>little evidence</u></a> to suggest that making electric vehicles will result in fewer jobs. Trump’s tune on EVs had changed in recent months, however, <a href="https://heatmap.news/sparks/trump-ev-pivot-elon-musk" target="_self"><u>as he grew closer to Tesla CEO Elon Musk</u></a>. </p>
+<p>It’s true, also, that executive orders are not the automatic rule of law; many of the policies will face time-consuming new rulemaking processes or legal challenges. More clarity about what the “Unleashing American Energy” order does precisely, and how it will be implemented, will become clear in the weeks and months ahead. </p> 
+
+<br> 
+
+<https://heatmap.news/electric-vehicles/trump-ev-executive-order>
+
+---
+
+## Trump Orders End to All Wind Energy Permits
+
+date: 2025-01-21, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTY5NjM5Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3MDM2OTI3Nn0.q06MCGpKPE5PQvbADzTSl6KQ7N7iKV4QkUhpwOcN6Pc/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>President Donald Trump has ordered the federal government to stop all permits for wind energy projects. </p><p>Trump on Monday evening issued a sweeping executive order that the government “shall not issue new or renewed approvals, rights of way, permits, leases, or loans for onshore or offshore wind projects” pending what the order describes as a “comprehensive assessment” of the industry’s myriad impacts on the economy, environment and other factors. </p><p>This affects all offshore wind development in the U.S., because all of that takes place in the Outer Continental Shelf, an ocean expanse under federal control that is leased for all kinds of energy production. </p><p>It also impacts wind projects on federal lands. Although the extent of the impact to onshore wind is unclear because some wind projects are on state lands, project developers often must get approvals under federal environmental and species protection laws, so an end to permits will be quite painful for the sector. </p><p>The new order also withdrew all waters in the Outer Continental Shelf from access to wind leasing and launched a new Interior Department review of existing wind energy leases that will identify “any legal basis” for termination or amendment based on “ecological, economic, and environmental necessity.” This opens the door to offshore wind developers potentially losing their leases. </p><p>Additionally, the order specifically bans wind energy development at the site sought after for the Lava Ridge wind project in Idaho. Lava Ridge <a href="https://heatmap.news/plus/the-fight/hotspots/lava-ridge-wind-trump-executive-order" target="_self"><u>has been contentious</u></a> because of its vicinity to a historic internment camp where Japanese Americans were forced to live during World War II. The project was fully permitted days before the end of Biden’s term. But in spite of those approvals, critics of the project close to the project insisted Trump would act on his own to kill it. </p><p>The order’s provisions are similar to a request we reported on last week that <a href="https://heatmap.news/plus/the-fight/spotlight/offshore-wind-executive-order-trump" target="_blank">anti-offshore wind advocates transmitted</a> to the Trump transition team, although it’s clear the draft didn’t wind up in the final version.</p><p>In addition, the order asks for a separate study to assess the “environmental impact and cost to surrounding communities of defunct and idle windmills” to determine whether any wind turbines — which the order calls “windmills” — should be removed. This study will be conducted by the Interior Department, the Energy Department, and the Environmental Protection Agency.</p><div class="horizontal-rule"></div><p><em>Get Heatmap’s best story delivered to your inbox every day:</em></p><p><div id="mc_embed_signup"><form action="https://news.us13.list-manage.com/subscribe/post?u=eacecbac4b1d10158b5b6fbad&id=c5c20b220f&f_id=00a03fe3f0" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" target="_self"><div id="mc_embed_signup_scroll"><div class="indicates-required"><span class="asterisk">*</span> indicates required</div><div class="mc-field-group"><label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label><input class="required email" id="mce-EMAIL" name="EMAIL" placeholder="Your Email" required="" type="email" value=""/><span class="helper_text" id="mce-EMAIL-HELPERTEXT"></span><a class="policy__link" href="/privacy-statement">Our Privacy Policy & Terms Apply.</a></div>
+<li style="display:none!important;"><input checked="" id="mce-group[699211]-699211-0" name="group[699211][1]" type="checkbox" value="1"/></li>
+<input class="hidden hs-am" name="mcam" type="text" value="Yes"/>
+<input class="hidden hs-am" name="mcdaily" type="text" value="Yes"/>
+<div class="clear" id="mce-responses"><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div></div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div aria-hidden="true" style="position: absolute; left: -5000px;"><input name="b_eacecbac4b1d10158b5b6fbad_c5c20b220f" tabindex="-1" type="text" value=""/></div><div class="clear"><input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Sign Up"/></div></div></form></div></p><div class="horizontal-rule"></div> 
+
+<br> 
+
+<https://heatmap.news/politics/wind-executive-order-trump>
+
+---
+
+## Trump’s executive orders on immigration focus on border security, asylum restrictions, deportations
+
+date: 2025-01-21, from: VOA News USA
+
+WASHINGTON — On the first day of his second term, President Donald Trump announced a series of executive actions addressing immigration and border security.
+
+
+Trump signed orders his officials called “common-sense immigration policies.” These include declaring a national emergency at the U.S. southern border, deploying armed forces, border wall construction, ending asylum and ending birthright citizenship to some children born in the U.S., among others.
+
+
+During his inaugural address, Trump said, “We have a government that has given unlimited funding to the defense of foreign borders, but refuses to defend American borders or more importantly, its own people.”
+
+
+In a call with reporters earlier in the day, Trump officials outlined the administration's plans to tackle what it describes as a "national security and public safety crisis" at the U.S.-Mexico border.
+
+
+“President Trump was elected by a resounding mandate to carry out the promises he made on the campaign trail, that includes his pledge to secure the southern border and carry out the largest deportation of migrant criminals in history,” an incoming White House official said, speaking on background, a method often used by U.S. officials to remain anonymous. Officials also emphasized the administration's commitment to implement what they call the largest deportation of migrant criminals in U.S. history.
+
+
+Here are some of the administration’s plans.
+
+
+
+
+National emergency at the border
+
+
+Trump said he will deploy the military to the U.S.-Mexico border, including the National Guard, to assist existing law enforcement officers. Officials emphasized that border security is national security, and the administration is committed to securing the border through use of the military.
+
+
+“What this action does is it deploys armed forces [and] erects physical barriers by directing [Department of Defense] and [Department of Homeland Security] secretaries to finish the wall along the border. … We're going to reinstate the Remain in Mexico [policy],” the official said.
+
+
+Aaron Reichlin-Melnick, senior fellow at the American Immigration Council, wrote on X that without Mexico’s permission, the promise to bring back Remain in Mexico is “just words on a paper.”
+
+
+
+
+The Remain in Mexico policy, created during the first Trump administration, requires some asylum-seekers at the southern border to wait in Mexico until their hearings in U.S. immigration court.
+
+
+Juan Ramon de la Fuente, Mexico's secretary of external relations, said in a news conference Monday morning that if "they reinstate [Remain in Mexico], this is something we don’t agree with. We have a different focus. We want to adjust it. ... The desire is to keep the same policies as now."
+
+
+When asked about the number of troops expected to be deployed to the border, Trump administration officials said that decision would ultimately be made by the secretary of defense.
+
+
+The administration is also rescinding the Biden administration border policies by giving U.S. Immigration and Customs Enforcement and U.S. Customs and Border Protection agents expanded enforcement authority and establishing federal task forces to work with state and local law enforcement in deportation efforts.
+
+
+Mass deportations
+
+
+Another announcement centers on undocumented immigrants across the country. The Republican president repeatedly promised during his campaign to carry out mass deportations, targeting at least 11 million undocumented individuals.
+
+
+In the press call with reporters, the Trump officials said the administration will provide immigration officers with the necessary "authorities" to enforce existing laws. In his campaign, Trump vowed to eliminate President Joe Biden's deportation priorities, which targeted individuals with criminal records and those considered national security threats, and instead to expand enforcement to include all undocumented immigrants.
+
+
+Stephen Yale-Loehr, a retired professor of immigration law at Cornell Law School, wrote in an email to VOA that mass deportation efforts and raids may get the most attention, but deportations will not increase rapidly right away.
+
+
+“If a person already has an outstanding order of deportation, they can be deported immediately. But that is a relatively small number. Most people picked up will be put into deportation proceedings in immigration courts. Those courts already have a backlog of over 3.8 million cases. Given that backlog, it will be years before many people will find out whether they will be deported or allowed to stay based on asylum or some other form of protection,” he wrote.
+
+
+
+
+Release of migrants
+
+
+The incoming administration also announced an end to the practice of releasing migrants into the U.S. while they await their immigration court hearings, commonly known as "catch-and-release."
+
+
+The Trump officials did not explain how they would handle an increase in immigrant detention.
+
+
+Refugee program
+
+
+Trump is also ending the refugee resettlement program. During his first administration, he progressively lowered the annual ceiling for refugee admissions to a historic low of 15,000 for fiscal 2021.
+
+
+Refugee advocates said at the time the reductions marked a departure from the United States’ long-standing role in global refugee resettlement.
+
+
+Erol Kekic, senior vice president of programs at Church World Service, wrote in an email to reporters that his group is urging President Trump to reconsider. Church World Service is one of the nine national refugee resettlement agencies authorized by the federal government to assist refugees in starting new lives.  
+
+
+“Even a brief pause in the program can have a devastating impact; on those displaced by violence and persecution, families separated by oceans and continents, and our communities who embrace the spirit of welcome inherent to our great nation,” he wrote.
+
+
+Ending asylum and CBP One app
+
+
+One of Trump’s orders calls for the immediate deportation of migrants who crossed the border illegally without a chance to plead their case to an asylum officer.
+
+
+Shortly after Trump's inauguration, U.S. Customs and Border Protection posted a notice on its website saying the agency was no longer using the CBP One app, which had facilitated the legal entry of nearly 1 million people into the United States with eligibility to work.
+
+
+The app allowed migrants to apply for an appointment to come to the border and apply for humanitarian parole or other forms of legal processing. The use of parole under the CBP One system was part of the Biden administration's broader efforts to manage migration flows and provide legal pathways to entry, rather than having individuals cross the border illegally.
+
+
+However, parole granted through CBP One did not guarantee permanent legal status; it typically allowed individuals to stay temporarily and, in some cases, apply for work authorization while their immigration status was being reviewed.
+
+
+The notice by the CBP One app also confirmed that all existing appointments had been canceled.
+
+
+Birthright citizenship
+
+
+Finally, Trump signed an order to eliminate birthright citizenship. Birthright citizenship grants automatic U.S. citizenship to anyone born on American soil, a right established by the 14th Amendment of the U.S. Constitution.
+
+
+The new administration's actions are expected to face significant legal and political challenges, with immigrant advocacy groups voicing concerns over the implications of these policies.
+
+
+The ACLU of Northern California, a nonprofit organization in the United States dedicated to defending individual rights and liberties guaranteed by the U.S. Constitution and laws, wrote in an email to the press they “stand ready.”
+
+
+“We are ready to do so again, from day one of the second Trump administration. … We will defend immigrants’ rights to due process in the face of mass deportations,” the email read. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-s-executive-orders-on-immigration-focus-on-border-security-asylum-restrictions-deportations/7944289.html>
+
+---
+
+## Senate confirms Rubio as secretary of state, Trump's first Cabinet member
+
+date: 2025-01-21, from: VOA News USA
+
+WASHINGTON  — The Senate quickly confirmed Marco Rubio as secretary of state on Monday, voting unanimously to give President Donald Trump the first member of his new Cabinet on Inauguration Day.
+
+
+Rubio, a Republican senator from Florida, is among the least controversial of Trump's nominees, and the vote was a decisive 99-0. Another pick, John Ratcliffe for CIA director, is also expected to have a swift vote. Action on others, including former combat veteran and Fox News host Pete Hegseth for defense secretary, is expected later in the week.
+
+
+"Marco Rubio is a very intelligent man with a remarkable understanding of American foreign policy," Senator Chuck Grassley, the senior-most Republican, said as the chamber opened.
+
+
+It's often tradition for the Senate to convene immediately after the ceremonial pomp of the inauguration to begin putting the new president's team in place, particularly the national security officials. During Trump's first term, the Senate swiftly confirmed his defense and homeland security secretaries on his first day in office. Former President Joe Biden's choice for director of national intelligence was confirmed on his own Inauguration Day.
+
+
+With Trump's return to the White House, and his Republican Party controlling majorities in Congress, his outsider Cabinet choices are more clearly falling into place, despite initial skepticism and opposition from both sides of the aisle.
+
+
+Senate Majority Leader John Thune moved quickly Monday, saying he expected voting to begin "imminently" on Trump's nominees.
+
+
+Democrats have calculated it's better for them to be seen as more willing to work with Trump rather than simply mounting a blockade to his nominees. They're holding their opposition for some of his other picks who have less support, including Tulsi Gabbard for director of national intelligence and vaccine skeptic Robert F. Kennedy Jr. for health secretary.
+
+
+Senate Democratic leader Chuck Schumer said his party would "neither rubber-stamp nominees we feel are grossly unqualified, nor oppose nominees that deserve serious consideration."
+
+
+Rubio, he said, is an example of "a qualified nominee we think should be confirmed quickly."
+
+
+Senate committees have been holding lengthy confirmation hearings on more than a dozen of the Cabinet nominees, with more to come this week. And several panels were expected to meet late Monday to begin voting to advance the nominees to the full Senate for confirmation.
+
+
+The Senate Foreign Relations Committee advanced Rubio's nomination late Monday. The Senate Armed Services Committee and Senate Intelligence Committee, respectively, advanced the nominations of Hegseth and Ratcliffe.
+
+
+Rubio, a well-liked senator and former Trump rival during the 2016 presidential race, has drawn closer to the president in recent years. He appeared last week to answer questions before the Foreign Relations Committee, where he has spent more than a decade as a member.
+
+
+As secretary of state, Rubio would be the nation's top diplomat and the first Latino to hold the position. Born in Miami to Cuban immigrants, he has long been involved in foreign affairs, particularly in South America, and has emerged as a hawk on China's rise.
+
+
+During his confirmation hearing last week, Rubio warned of the consequences of America's "unbalanced relationship" with China. While he echoes Trump's anti-globalist rhetoric, Rubio is also seen as an internationalist who understands the power of U.S. involvement on the global stage.
+
+
+Rubio will take over for outgoing Secretary of State Antony Blinken, who has said he hopes the Trump administration continues Biden's policies in the Middle East to end the war in Gaza and to help Ukraine counter Russian nomination.
+
+
+The Senate is split 53-47, but the resignation of Vice President JD Vance drops the GOP majority to 52 until his successor arrives. Republicans need almost every party member in line to overcome Democratic opposition to nominees.
+
+
+Objection from any one senator, as is expected with Hegseth and several other choices, would force the Senate into procedural steps that would drag voting later into the week. 
+
+<br> 
+
+<https://www.voanews.com/a/senate-confirms-rubio-as-secretary-of-state-trump-s-first-cabinet-member-/7944227.html>
+
+---
+
+## Biden issues preemptive pardons before exiting White House
+
+date: 2025-01-21, from: VOA News USA
+
+WASHINGTON  — U.S. President Joe Biden used his constitutional power Monday to preemptively pardon several individuals, including some of his relatives, just minutes before Donald Trump was sworn in as the 47th president of the United States.
+
+
+Without naming Trump or the incoming administration, Biden said in a statement that he believes in the rule of law but warned about the threat of partisan politics and pointed to possible retribution as the main concern behind his decision to grant the preemptive pardons.
+
+
+“I am optimistic that the strength of our legal institutions will ultimately prevail over politics,” Biden’s statement read. “But these are exceptional circumstances, and I cannot in good conscience do nothing.”
+
+
+Among those granted pardons is Trump’s former Joint Chiefs of Staff, retired General Mark Milley. Political differences between Trump and Milley that both men vented in public during Trump’s first term in office led to Trump’s supporters branding Milley as disloyal. Milley has reportedly referred to Trump as a “fascist.”
+
+
+Citing “ongoing threats and intimidation for faithfully discharging their duties,” Biden extended pardons to members and staff of the Select Committee to Investigate the January 6th Attack on the United States Capitol. That includes former Republican Representative Liz Cheney.
+
+
+Biden also preemptively pardoned the U.S. Capitol and Washington police officers who testified before the committee.
+
+
+“The Select Committee fulfilled this mission with integrity and a commitment to discovering the truth,” Biden said. The statement continued, “Rather than accept accountability, those who perpetrated the January 6th attack have taken every opportunity to undermine and intimidate those who participated in the Select Committee in an attempt to rewrite history, erase the stain of January 6th for partisan gain, and seek revenge, including by threatening criminal prosecutions.”
+
+
+Biden also preemptively pardoned his former chief medical adviser, Dr. Anthony Fauci, who retired in December 2023.
+
+
+Fauci and his family have received threats from those who opposed his approach to the COVID-19 pandemic, including the issuance of mask mandates.
+
+
+There’s a history of U.S. presidents pardoning family members for specific criminal convictions. Biden pardoned his son Hunter Biden in December for gun and tax offenses as well as for any offenses he may have committed “from January 1, 2014, through December 1, 2024.” But on Monday, Biden also pardoned other relatives who aren’t under investigation, including his brother, James Biden; James Biden’s wife, Sara Biden; his sister, Valerie Biden Owens; Valerie Owens’ husband, John Owens; and his brother, Francis Biden.
+
+
+“My family has been subjected to unrelenting attacks and threats, motivated solely by a desire to hurt me — the worst kind of partisan politics. Unfortunately, I have no reason to believe these attacks will end,” Biden’s statement said. “The issuance of these pardons should not be mistaken as an acknowledgment that they engaged in any wrongdoing, nor should acceptance be misconstrued as an admission of guilt for any offense."
+
+
+Biden’s preemptive pardons contradict the stance he publicly shared on the matter on December 3, 2020, shortly before he took office. CNN anchor Jake Tapper asked Biden’s opinion on Trump's reported consideration of a wave of preemptive pardons before exiting the White House.
+
+
+“Well, it concerns me in terms of what kind of precedent it sets and how the rest of the world looks at us as a nation of laws and justice,” Biden replied. He further underscored that his administration wouldn’t approach pardons in that way.
+
+
+Trump has himself promised to pardon many of his supporters who attacked the Capitol on January 6, 2021. He has characterized those arrested as “patriots” who were wrongly prosecuted.
+
+
+Some information for this report came from The Associated Press and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-issues-preemptive-pardons-before-exiting-white-house-/7944198.html>
+
+---
+
+## Trump Paves the Way to Firing Loads of Civil Servants
+
+date: 2025-01-21, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTY5NDMzMS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2NTM3ODI0NH0.I8BvGN0qnfnoUrh21azRAut7a0AlAClShX4u8N-2Nmo/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">President Trump signed nine binders of <a href="https://apnews.com/article/trump-day-one-border-executive-actions-30f78c3c983ae74555f281446fe22710" rel="noopener noreferrer" target="_blank"><u>executive orders</u></a> in front of an arena full of supporters on Monday night, with actions ranging from a regulatory freeze to requiring all federal workers to return to the office full-time. While the full implications of Trump’s Day One actions for energy and climate are still unfolding, one of the most consequential executive orders so far — <a href="https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/" rel="noopener noreferrer" target="_blank"><u>a sweeping rollback</u> of 80</a> of former President Joe Biden’s executive orders — quietly paved the way for the return of Schedule F, which converts at least <a href="https://www.wsj.com/politics/policy/how-trump-loyalists-could-make-the-president-even-more-powerful-607353cc" rel="noopener noreferrer" target="_blank"><u>50,000 </u></a>career civil servants to “at-will” political employees. He later <a href="https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/" target="_blank"><u>formally reinstated</u></a> Schedule F during a signing in the White House.</p><p>Trump first signed <a href="https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-creating-schedule-f-excepted-service/" rel="noopener noreferrer" target="_blank"><u>an executive order</u></a> creating the new employment category in October 2020, though Biden reversed it shortly after taking office via Executive Order 14003 — Protecting the Federal Workforce. While Trump didn’t have much time to implement the policy last time around, he revoked Executive Order 14003 in his omnibus executive order targeting Biden’s policies just hours into his second shot at the presidency. The move cued up his formal reinstatement of Schedule F Monday evening. “Most of those bureaucrats are being fired,” Trump boasted during a speech at the Capital One Arena in Washington, D.C., ahead of the signing on Monday night. “They’re gone. Should be all of them but some sneak through; we have to live with a couple, I guess.”</p><p>As I’ve written before, the reclassification is designed to “make it easier to replace ‘<a href="https://www.govexec.com/workforce/2023/03/trump-vows-shatter-deep-state-revive-schedule-f-and-move-more-agencies-out-dc/384266/" rel="noopener noreferrer" target="_blank"><u>rogue’ or ‘woke’ civil servants</u></a> and would-be whistleblowers, a.k.a. ‘the deep state,’ with party-line faithful.” The Trump administration has characterized it as giving him “full control of the government,” with the Schedule F-specific Executive Order issued under the title “Restoring Accountability to Policy-Influencing Positions Within the Federal Workforce.”  Russ Vought, Trump’s <a href="https://www.washingtonpost.com/opinions/interactive/2025/trump-nominees-confirmation-hearings-editorial-board/" rel="noopener noreferrer" target="_blank"><u>controversial</u></a> pick to <a href="https://heatmap.news/sparks/russ-vought-omb-trump" target="_self"><u>lead the Office of Management and Budget</u></a> and <a href="https://heatmap.news/politics/russ-vought-schedule-f" target="_self"><u>the mind behind Schedule F</u></a>, has further said that it is the aim of the policy to give a “whole-of-government unwinding” to the “climate fanaticism” of the Biden years.</p><div class="horizontal-rule"></div><p><em>Get the best of Heatmap in your inbox daily.</em></p><p><em></em><div id="mc_embed_signup"><form action="https://news.us13.list-manage.com/subscribe/post?u=eacecbac4b1d10158b5b6fbad&id=c5c20b220f&f_id=00a03fe3f0" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" target="_self"><div id="mc_embed_signup_scroll"><div class="indicates-required"><span class="asterisk">*</span> indicates required</div><div class="mc-field-group"><label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label><input class="required email" id="mce-EMAIL" name="EMAIL" placeholder="Your Email" required="" type="email" value=""/><span class="helper_text" id="mce-EMAIL-HELPERTEXT"></span><a class="policy__link" href="/privacy-statement">Our Privacy Policy & Terms Apply.</a></div>
+<li style="display:none!important;"><input checked="" id="mce-group[699211]-699211-0" name="group[699211][1]" type="checkbox" value="1"/></li>
+<input class="hidden hs-am" name="mcam" type="text" value="Yes"/>
+<input class="hidden hs-am" name="mcdaily" type="text" value="Yes"/>
+<div class="clear" id="mce-responses"><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div></div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div aria-hidden="true" style="position: absolute; left: -5000px;"><input name="b_eacecbac4b1d10158b5b6fbad_c5c20b220f" tabindex="-1" type="text" value=""/></div><div class="clear"><input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Sign Up"/></div></div></form></div></p><div class="horizontal-rule"></div><p>The most concerning part of the Schedule F policy is the anticipated loss of institutional knowledge. “What we’re going to end up with is an executive branch that’s just uninformed,” Daniel Farber, the director of the Center for Law, Energy, and the Environment at the University of California, Berkeley, previously told me. Climate-related experts, in particular, could face replacement by “<a href="https://www.citizensforethics.org/news/analysis/faq-the-conservative-attack-on-the-merit-based-civil-service/" target="_blank"><u>spoils system</u></a>” hires.</p><p>Democratic Senator Andy Kim of New Jersey drilled Vought on Schedule F during the OMB nominee’s confirmation hearing last week, during which Vought insisted the goal of the policy “was not to fire anyone” but rather to ensure federal employees “do a good job or they may not be in those positions for longer.” He additionally told Democratic Senator Richard Blumenthal that he <a href="https://www.rev.com/transcripts/russell-vought-confirmation-hearing#:~:text=me%20ask%20you%2C-,do%20you%20believe%20the%20Impoundment%20Control%20Act,-is%20constitutional%3F" rel="noopener noreferrer" target="_blank"><u>did not believe it would be unconstitutional</u></a> for Trump to impound funds appropriated by Congress — including, <a href="https://www.hklaw.com/en/insights/publications/2024/07/potential-implications-of-a-trump-presidency-for-unspent" rel="noopener noreferrer" target="_blank"><u>potentially</u></a>, unspent funds in the Inflation Reduction Act or the CHIPS for America Act.</p><p><em>Editor’s note: This story has been updated to reflect Trump’s signing of an executive order reinstating Schedule F.</em><br/></p> 
+
+<br> 
+
+<https://heatmap.news/politics/trump-executive-order-schedule-f>
+
+---
+
+## Recent economic data made murky by ups and downs of real world
+
+date: 2025-01-21, from: Market Place
+
+Tariffs, major weather events and even political bias have obscured trends and challenged experts to figure out the takeaways.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/20/recent-economic-data-made-murky-by-ups-and-downs-of-real-world/>
+
+---
+
+## ‘Dangerous fire weather conditions’ predicted in Southern California
+
+date: 2025-01-21, from: VOA News USA
+
+The National Weather Service (NWS) is predicting even more “dangerous fire weather conditions” in Southern California, citing the area’s “low humidity and the return of very strong winds” from Monday into Tuesday.
+
+
+“Take action now to prepare your home and loved ones for another round of EXTREME WIND and FIRE WEATHER, starting tomorrow afternoon: Worst winds Mon afternoon – Tue morning,” NWS Los Angeles posted on social media platform X.
+
+
+“Everyone needs to be on high alert,” Los Angeles Mayor Karen Bass said Monday.
+
+
+Brice Bennett, spokesperson for the California Department of Forestry and Fire Protection (Cal Fire), said in a statement Monday that his agency — with help from federal, local and tribal firefighting agencies — had more than 2,500 people and had prepositioned equipment for quick deployment for any new outbreaks, following the NWS warning.
+
+
+At least 27 people have died in the fires that have erupted across Los Angeles, as battle-weary firefighters have struggled to bring the blazes under control. The death toll is expected to rise.
+
+
+
+
+The Palisades and Eaton fires together have destroyed 14,000 structures since they exploded January 7, during the fierce Santa Ana winds. As of Monday, the Palisades fire was 59% contained and the Eaton fire was 87% contained.
+
+
+A critical-risk-of-fire-weather warning has been issued by the Storm Prediction Center for Southern California with gusts expected to reach up to 96 kph for lower elevations and 120 kph or more in higher locations. The weather service said there is an extremely critical risk in place for the ongoing fire locations in the San Gabriel and Santa Monica mountains.
+
+
+California Governor Gavin Newsom issued an executive order Monday designed to protect Southern California residents from landslides and flooding. The order suspends some rules and regulations and speeds up the removal of debris that, if not removed promptly, could result in landslides, mudslides and flash floods.
+
+
+“This order helps keep our emergency response focused on protecting communities, not permits and paperwork,” Newsom said.
+
+
+Residents whose homes have somehow survived the fires are finding they are not home free. According to The New York Times, people are finding their homes still standing but filled with a slurry of smoke, ash, chemicals and other contaminants.
+
+
+“It smelled worse inside our house than outside,” resident Marcos Barron, 53, told the Times. Another resident, Arlynn Page, said she wanted to stay to rebuild in Altadena because she loves the community. “But breathing this air? I don’t know,” she said. 
+
+<br> 
+
+<https://www.voanews.com/a/dangerous-fire-weather-conditions-predicted-in-southern-california/7943961.html>
+
+---
+
+## Ripples from wildfires’ property damage extend beyond Los Angeles market
+
+date: 2025-01-20, from: Market Place
+
+With inventory reduced and fire risk increased, both home prices and insurance rates could rise in Southern California.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/20/housing-market-california-los-angeles-wildfires-destruction-homes-property-real-estate/>
+
+---
+
+## Jen Rubin, Norm Eisen, and Renato Mariotti in conversation
+
+date: 2025-01-20, from: The Contrarian
+
+Renato Mariotti is a partner in the Investigations and White Collar Defense practice at Paul Hastings and is based in the firm&#8217;s Chicago office. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155281952/03617c04399e094540ca91ffee38156d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155281952/03617c04399e094540ca91ffee38156d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-norm-eisen-and-renato-mariotti>
+
+---
+
+## What’s behind the global rise in bond yields?
+
+date: 2025-01-20, from: Market Place
+
+In the U.S., it's partly due to expectations of a stronger, more inflationary future economy with bigger budget deficits. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/20/whats-behind-the-global-rise-in-bond-yields/>
+
+---
+
+## Trump Bids Adieu to the Paris Agreement. Again.
+
+date: 2025-01-20, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTY5Njk4MS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1ODI0NDQ2MX0.E4s9-yno37IC6FICaX2beznepYNUvKg4J0ZpT-24zGE/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">In a completely unsurprising redux of President Donald Trump’s first term, the new/old U.S. president has <a href="https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/" target="_blank">officially notified the United Nations</a> of America’s intent to withdraw from the Paris Agreement. According to the terms of the agreement, which went into effect in 2016, it takes a full year for withdrawal to become official. But Trump will almost certainly henceforth act as if the U.S. is no longer bound by the treaty, which has been adopted by nearly every other nation on Earth, in an effort to keep global warming “well below” 2 degrees Celsius. </p><p>“I’m immediately withdrawing from the unfair, one-sided Paris Climate Accord rip-off,” Trump told the crowd at the Capital One Arena in Washington, D.C., before signing a list of executive orders. “The United States will not sabotage our own industries while China pollutes with impunity,” he said. Trump has previously stated that he thinks it is unfair that less developed nations such as China are not required to peak their emissions for a number of years, while the U.S. is expected to continue decreasing its own.</p><p><a href="https://www.un.org/en/climatechange/all-about-ndcs?utm_source=chatgpt.com#:~:text=After%20the%20original%20NDCs%20in%202015%2C%20and%20the%20second%20round%20in%202020/2021%2C%20the%20next%20round%20of%20NDCs%20%E2%80%93%20%E2%80%9CNDCs%203.0%E2%80%9D%20%E2%80%93%20are%20due%20in%20early%202025%20and%20will%20detail%20countries%27%20intended%20climate%20actions%20through%202035." rel="noopener noreferrer" target="_blank"><u>This year</u></a>, parties to the agreement are required to submit national climate action plans — or “nationally determined contributions” in the parlance of the treaty — to the United Nations, detailing how they’ll further reduce emissions and adapt to global warming. These updated plans are mandated every five years, though Trump failed to submit one in 2020. The Biden administration <a href="https://archive.ph/MIaeL" rel="noopener noreferrer" target="_blank"><u>submitted a plan</u></a> last month, in advance of Trump’s inauguration, which includes a goal of cutting emissions by 61% to 66% below 2005 levels by 2035. It’s safe to assume Trump will not abide by this. Once it leaves the Paris Agreement, the U.S. will also no longer have to submit yearly emissions reports or provide as much money to developing countries for climate change mitigation and adaptation.</p><p>So what will the fallout be? After all, America is the world’s second largest emitter of greenhouse gases, behind China. But logistically and legally, leaving the Paris Agreement is more symbolic than anything. Beyond the more nebulous — but very real — loss of international leadership on climate issues, there’s no tangible repercussions for exiting the agreement. Nor, as many party nations consistently demonstrate, any legal recourse for staying in while failing to meet targets or set sufficient goals. </p><p>As <a href="https://heatmap.news/sparks/trump-paris-agreement" target="_self"><u>I reported in November</u></a>, so long as the U.S. retains its membership in the United Nations Framework Convention on Climate Change, the U.S. can still attend the annual UN climate conference, a.k.a. COP, where all negotiations and decisions related to the Paris Agreement happen. But for all Paris-related meetings (which comprise much of the conference), the U.S. would have to attend as an “observer” with no decision-making power, the same category as lobbyists. </p><p>That’s actually never happened before. During Trump’s first term, the U.S. technically could (and definitely did) continue to play a role in negotiations. The Paris Agreement stipulated that no nation could officially announce its exit for three years after implementation, and, because it still took a year for withdrawal to become official, for every COP during Trump 1.0, the U.S. remained a party to Paris. While Trump’s COP delegations were smaller and less politically prominent than either Obama’s or Biden’s, U.S. representatives continued to show up and advocate for domestic interests. Since COP30 will happen in mid-November of this year, COP31 in 2026 will be the first climate conference where the U.S. will truly learn what it’s like to sit on the sidelines. </p><p>Making a more drastic break with the United Nation’s overall climate efforts by leaving the UNFCCC, which convenes the annual climate conference, is theoretically also an option. But leaving the framework convention would likely be a much <a href="https://www.climatechangenews.com/2024/11/04/legal-experts-say-trump-could-quit-paris-pact-but-leaving-unfccc-much-harder/#:~:text=UNFCCC%20case%20uncertain" rel="noopener noreferrer" target="_blank"><u>more complex and arduous</u></a> process than leaving Paris. While Trump has yet to make a statement indicating his intentions in this regard, the Heritage Foundation’s Project 2025 recommends it. </p><p>“We’re going to save over a trillion dollars by withdrawing from that treaty,” Trump told the crowd regarding the Paris Agreement, before returning to the Oval Office to sign a number of additional executive orders. As my colleague <a href="https://heatmap.news/politics/trump-paris-agreement-fact-check?utm_source=chatgpt.com" target="_self"><u>Jeva Lange explained</u></a>, the math behind that figure comes from a study conducted by NERA Economic Consulting, which later released a statement saying that the administration “selectively used results” from its study, and that “NERA’s study was not a cost-benefit analysis of the Paris Agreement, nor does it purport to be one.” </p><p><em>Editor’s note: This story has been updated to reflect the signing of the executive order, “Putting America First in International Environmental Agreements."</em><br/></p> 
+
+<br> 
+
+<https://heatmap.news/politics/trump-leaves-paris-agreement>
+
+---
+
+## Trump’s National Energy Emergency Is Here
+
+date: 2025-01-20, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTY5NTE3NC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3MzcwMDg3MX0.IW2MBUC0VZvwbczQAnbrh9EOKGhvhb6mQYf-97KYZOs/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
+	Donald Trump looked to further unleash American energy production as one of the first actions of his new term, signing an executive order declaring a “<a href="https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/" target="_blank">national energy emergency</a>” among the <a href="https://heatmap.news/politics/wind-executive-order-trump" target="_blank">litany</a> of <a href="https://heatmap.news/electric-vehicles/trump-ev-executive-order" target="_blank">other</a> <a href="https://heatmap.news/politics/critical-minerals-trump-executive-order" target="_blank">actions</a> and <a href="https://heatmap.news/politics/trump-executive-order-schedule-f" target="_blank">declarations</a> he made on <a href="https://heatmap.news/politics/trump-leaves-paris-agreement" target="_blank">Monday</a>.
+</p><p>
+	Earlier, in his inaugural address, he boasted that the United States has “the largest amount of oil and gas of any country on Earth, and we are going to use it.”
+</p><p>
+	“We will bring prices down, fill our strategic reserves up again, right to the top, and export American energy all over the world,” Trump said.
+</p><p>
+	The order describes an “active threat to the American people from high energy prices,” as “hostile state and non-state foreign actors have targeted our domestic energy infrastructure, weaponized our reliance on foreign energy, and abused their ability to cause dramatic swings within international commodity markets.” The order directs agency leaders to “exercise any lawful emergency authorities available to them, as well as all other lawful authorities they may possess” to facilitate U.S. energy production, including — but not limited to — activities on federal lands.</p><p>The Trump administration <a href="https://www.politico.com/f/?id=00000194-849b-db01-a79f-94dbfaa00000" target="_blank"><u>had earlier outlined its plans</u></a> in a document <a href="https://www.whitehouse.gov/briefings-statements/2025/01/president-trumps-america-first-priorities/" target="_blank"><u>posted to the White House website</u></a> Monday morning, which promised regulatory reform not only for “energy production and use,” but also for “mining and processing of non-fuel minerals.”</p><p>
+	The document said the purpose of the national energy emergency would be to “use all necessary resources to build critical infrastructure.” In remarks in the days before the inauguration, Trump described the goal of declaring an energy emergency as enabling investors to more easily “build big plants, AI plants,” and that the U.S. needs to “double the energy that we already have — and it’s going to end up being more than that.”
+</p><p>
+	That could mean waiving environmental rules — including undoing the Environmental Protection Agency’s power plant emissions rules — in order to speed the building of power plants in order to power new data centers.
+</p><p>
+	While the exact parameters of these plans are still being drawn and will probably require either months-long rulemaking processes or legislation or both, by Monday morning, clean energy and environmental groups have already started to weigh in.
+</p><p>
+	“On his first day back in the White House, President Trump is trying to turn back the clock on America’s clean energy leadership at the expense of American people and their health,” Debbie Weyl, the acting United States director of the World Resources Institute, said in a statement following the president's address to the nation. “If realized, President Trump’s actions would sacrifice the United States’ competitiveness globally, raise energy prices for American families, and pollute our air. Pledging to roll back climate policies that have created more than 400,000 good-paying American jobs will only hurt workers and our economy.”
+</p><p>
+	On the other hand, at least portions of the clean energy industry are seeing the bright side of Trump’s emphasis on energy maximalism.
+</p><p>
+	“A promise to achieve greater energy abundance in America must include leveraging the incredible, proven power of advanced energy technologies. 96% of all the new electricity added to America’s power grid in 2024 was provided by advanced energy, the lowest-cost way to reliability meet growing electricity demand,” Heather O’Neill, the president and chief executive of the trade group Advanced Energy United, said in a similarly timed statement.
+</p><p>
+	“Our power grid faces real challenges, and at a moment when wildfires and extreme temperatures threaten lives across the country, it’s clearer than ever that we need to deepen our investments in advanced energy solutions that increase resilience and lower costs. We urge the Administration to embrace the market forces and tax cuts that are empowering states to meet their energy needs and goals.”
+</p><p>When the White House published the text of the emergency declaration, however, it became clear that Trump took a narrow view of what kinds of energy might serve to mitigate the situation: “crude oil, natural gas, lease condensates, natural gas liquids, refined petroleum products, uranium, coal, biofuels, geothermal heat, the kinetic movement of flowing water, and critical minerals.” No hydrogen, no solar, and no <a href="https://heatmap.news/politics/wind-executive-order-trump" target="_blank">wind</a>.</p><p>
+	While the newly inaugurated Trump administration has already taken a dramatic rhetorical turn in how it treats the oil and gas industry compared to Biden’s, it’s less clear that production can actually be meaningfully increased. While the Biden administration was stingy in opening up public lands for fossil fuel exploration — often doing so<a href="https://www.washingtonpost.com/climate-environment/2023/03/17/willow-project-alaska-oil-drilling-explained/" target="_blank"> </a>only <a href="https://www.washingtonpost.com/climate-environment/2023/03/17/willow-project-alaska-oil-drilling-explained/" rel="noopener noreferrer" target="_blank"><u>under political</u></a> or <a href="https://news.bloomberglaw.com/environment-and-energy/bidens-first-public-land-oil-and-gas-lease-sales-survive-suit" rel="noopener noreferrer" target="_blank"><u>legal pressure</u></a> — <a href="https://www.eia.gov/todayinenergy/detail.php?id=61545" rel="noopener noreferrer" target="_blank"><u>oil</u></a> and<a href="https://www.eia.gov/todayinenergy/detail.php?id=63964" rel="noopener noreferrer" target="_blank"> <u>gas production</u></a> hit record levels while Biden was in office.
+</p><p>
+	Any Biden administration efforts to curtail fossil fuel production faced legal and political pushback. In the first week of his presidency, Biden issued a moratorium on new oil and gas leasing on public lands, <a href="https://www.reuters.com/legal/litigation/judge-doubles-down-blocking-biden-oil-gas-pause-13-states-2022-08-19/" rel="noopener noreferrer" target="_blank"><u>which was quickly halted by a federal judge</u></a>. During the drafting of the Inflation Reduction Act, Biden’s signature climate law, West Virginia Senator Joe Manchin <a href="https://www.energy.senate.gov/2023/10/manchin-urges-epa-to-reconsider-proposed-methane-rules" rel="noopener noreferrer" target="_blank"><u>insisted on oil and gas lease sales</u></a> as a condition of his support, and then on opening up Willow, the oil project on Alaska’s North Slope, for drilling by ConocoPhillips. At the same time, gas prices soared to over $5 a gallon following the Russian invasion of Ukraine, leading the Biden administration to use the Strategic Petroleum Reserve as a tool to bring down oil prices, selling almost 200 million barrels.
+</p><p>
+	The Strategic Petroleum Reserve <a href="https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W" target="_blank"><u>now has just under 400 million barrels</u></a>, well short of its legal limit of 714 million. Trump has promised to refill it, which would be a boon to American domestic oil producers, although this would <a href="https://www.bloomberg.com/news/articles/2025-01-20/trump-says-he-ll-fill-us-strategic-petroleum-reserve-right-to-the-top" target="_blank"><u>likely require a Congressional appropriation</u></a>.
+</p><p><em>Editor’s note: This story has been updated to reflect the signing of the executive order declaring a national energy emergency.</em><br/></p> 
+
+<br> 
+
+<https://heatmap.news/politics/national-energy-emergency>
+
+---
+
+## Fewer, bigger players dominate retail landscape
+
+date: 2025-01-20, from: Market Place
+
+Some call shifts in the industry a retail apocalypse as more companies close locations or file for bankruptcy. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/20/fewer-bigger-players-dominate-retail-landscape/>
+
+---
+
+## Jen Rubin Interviews Ruth Ben-Ghiat
+
+date: 2025-01-20, from: The Contrarian
+
+Ruth Ben Ghiat a Professor of History and Italian Studies at New York University, Advisor to Protect Democracy, and the recipient of Guggenheim and other fellowships. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155260532/6dcb041f67cd9bcaebab66301b76edb1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155260532/6dcb041f67cd9bcaebab66301b76edb1.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-interviews-ruth-ben-ghiat>
+
+---
+
+## Why crowds are flocking to the National Hockey League
+
+date: 2025-01-20, from: Market Place
+
+Revenue and attendance have rebounded from the COVID downturn, boosted by diversity and inclusion efforts that drew a broader fan base.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/20/why-crowds-are-flocking-to-the-national-hockey-league/>
+
+---
+
+## On this Inauguration Day, how to navigate politics in the workplace
+
+date: 2025-01-20, from: Market Place
+
+The political change could stir discord among workers who need to collaborate. But employers can preserve productivity and possibly friendships. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/20/inauguration-day-trump-navigating-politics-in-the-workplace/>
+
+---
+
+## Uber and Lyft Drivers Ramp Up Push Against ‘Firing By App’
+
+date: 2025-01-20, from: Capital and Main
+
+<p>Workers optimistic about national coordination even as a second Trump administration threatens labor rights and immigration crackdowns.</p>
+<p>The post <a href="https://capitalandmain.com/uber-and-lyft-drivers-ramp-up-push-against-firing-by-app">Uber and Lyft Drivers Ramp Up Push Against ‘Firing By App’</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/uber-and-lyft-drivers-ramp-up-push-against-firing-by-app>
+
+---
+
+## Will Trump’s Return Be a Devil’s Bargain for Workers Seeking to Organize?
+
+date: 2025-01-20, from: Capital and Main
+
+<p>From Uber and Lyft drivers to home care workers, the fate of far-reaching labor organizing efforts hangs in the balance.</p>
+<p>The post <a href="https://capitalandmain.com/will-trumps-return-be-a-devils-bargain-for-workers-seeking-to-organize">Will Trump’s Return Be a Devil’s Bargain for Workers Seeking to Organize?</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/will-trumps-return-be-a-devils-bargain-for-workers-seeking-to-organize>
+
+---
+
+## Legacy
+
+date: 2025-01-20, from: The Contrarian
+
+Without Dr. King, his mission, and the community he fostered, I would certainly not be in the position I am today 
+
+<br> 
+
+<https://contrarian.substack.com/p/legacy>
 
 ---
 
@@ -149,6 +1731,19 @@ date: 2025-01-20, from: Heatmap News
 <br> 
 
 <https://heatmap.news/trump-inauguration-executive-orders-ira>
+
+---
+
+## Welcome to Inauguration Day
+
+date: 2025-01-20, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTY4MTMxMi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4NTU0ODEzM30.awx2Hy75HrK0jFUE0c61137L-eJegg1gpDp1yjoVmO0/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><em><strong>Current conditions:</strong> Dangerous Santa Ana winds return to fire-ravaged Southern California • It is cold and cloudy in Davos, Switzerland, for the start of the World Economic Forum • A blanket of cold air will <a href="https://www.accuweather.com/en/winter-weather/life-threatening-cold-weather-to-expand-southward-across-the-nation/1735828?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--fdua_px9sIpJw7HPjd0WzwlA1YwNZcR2_prRJv3g45w-xSYJxGH8_5Uios0fwmC-JVeHm" rel="noopener noreferrer" target="_blank">cover</a> most of the U.S. this week, bringing temperatures between 15 and 25 degrees Fahrenheit below historical averages. </em></p><h2>THE TOP FIVE</h2><h3>1. Trump preparing ‘close to 100’ Day 1 executive orders</h3><p>President-elect Donald Trump is expected to sign <a href="https://www.bloomberg.com/news/articles/2025-01-19/trump-tells-inauguration-eve-rally-american-decline-to-end?srnd=phx-green&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--fdua_px9sIpJw7HPjd0WzwlA1YwNZcR2_prRJv3g45w-xSYJxGH8_5Uios0fwmC-JVeHm" rel="noopener noreferrer" target="_blank">“close to 100”</a> executive orders in the hours after taking office today, including actions aimed at reshaping energy policy. Trump’s top domestic policy adviser, Stephen Miller, <a href="https://punchbowl.news/article/policy/miller-lays-out-trump-early-executive-orders-hill-gop/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--fdua_px9sIpJw7HPjd0WzwlA1YwNZcR2_prRJv3g45w-xSYJxGH8_5Uios0fwmC-JVeHm" rel="noopener noreferrer" target="_blank">briefed</a> Congress on the plans, which include stopping climate-related spending, rolling back limits on oil and gas drilling, slashing tailpipe emissions rules, and declaring a “national energy emergency” to expand energy production. Most of these initiatives will not take effect immediately and will likely face <a href="https://www.bloomberg.com/news/articles/2025-01-20/trump-to-declare-national-energy-emergency-unlocking-new-power?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--fdua_px9sIpJw7HPjd0WzwlA1YwNZcR2_prRJv3g45w-xSYJxGH8_5Uios0fwmC-JVeHm" rel="noopener noreferrer" target="_blank">lengthy legal challenges</a>. But one move – removing the U.S. from the Paris Agreement for a second time – would be <a href="https://www.politico.com/newsletters/power-switch/2025/01/17/reality-check-on-trumps-day-1-energy-pledges-00199036?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--fdua_px9sIpJw7HPjd0WzwlA1YwNZcR2_prRJv3g45w-xSYJxGH8_5Uios0fwmC-JVeHm" rel="noopener noreferrer" target="_blank">swift</a>. The swearing in ceremony will begin today at 12 pm EST. It had to be moved inside due to cold weather.</p><h3>2. Biden protects most IRA clean energy grants from incoming administration</h3><p>The Biden administration has <a href="https://www.reuters.com/sustainability/climate-energy/biden-protects-84-ira-clean-energy-grants-being-clawed-back-2025-01-17/?utm_term=2025-01-20&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--fdua_px9sIpJw7HPjd0WzwlA1YwNZcR2_prRJv3g45w-xSYJxGH8_5Uios0fwmC-JVeHm" rel="noopener noreferrer" target="_blank">finalized some $96.7 billion</a> in clean energy grants, meaning they are protected and cannot be revoked by the incoming Trump administration, according to the White House. That amount represents about 84% of the grants issued from the Inflation Reduction Act. The administration has distributed more than <a href="https://www.bloomberg.com/news/articles/2025-01-17/biden-gives-26-billion-for-clean-energy-projects-in-final-days?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--fdua_px9sIpJw7HPjd0WzwlA1YwNZcR2_prRJv3g45w-xSYJxGH8_5Uios0fwmC-JVeHm" rel="noopener noreferrer" target="_blank">$27 billion</a> in clean-energy financing in recent weeks, rushing to close big loans before Trump takes over. On Friday, the Department of Energy <a href="https://www.energy.gov/lpo/articles/doe-announces-15-billion-loan-guarantee-pacific-gas-electric-company-expand-hydropower?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--fdua_px9sIpJw7HPjd0WzwlA1YwNZcR2_prRJv3g45w-xSYJxGH8_5Uios0fwmC-JVeHm" rel="noopener noreferrer" target="_blank">announced</a> it had finalized a $15 billion loan to Pacific Gas & Electric Company (PG&E) to “support a portfolio of projects to expand hydropower generation and battery storage, upgrade transmission capacity through reconductoring and grid enhancing technologies, and enable virtual power plants throughout PG&E’s service area.” Earlier in the week it closed on a $6.57 billion loan to EV maker Rivian. “The pace of announcements is unprecedented,” Kennedy Nickerson, a former policy adviser in the Loan Programs Office, <a href="https://www.bloomberg.com/news/articles/2025-01-17/biden-gives-26-billion-for-clean-energy-projects-in-final-days?sref=Oz9Q3OZU&utm_term=2025-01-20&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--fdua_px9sIpJw7HPjd0WzwlA1YwNZcR2_prRJv3g45w-xSYJxGH8_5Uios0fwmC-JVeHm" rel="noopener noreferrer" target="_blank">told</a> <em><em>Bloomberg</em></em>.</p><h3>3. Heatmap survey reveals climate and decarbonization insiders’ views on the future</h3><p>An <a href="https://heatmap.news/climate/insiders-survey-biden?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--fdua_px9sIpJw7HPjd0WzwlA1YwNZcR2_prRJv3g45w-xSYJxGH8_5Uios0fwmC-JVeHm" rel="noopener" target="_self">exclusive <em>Heatmap</em> survey</a> reveals what most climate and decarbonization insiders think the future has in store – both in the near term and looking further ahead. Some key findings: </p><ul><li>They don’t think Trump will repeal most of the climate provisions in the IRA. 68% of respondents said no, 17% said yes, 15% weren’t sure.</li><li>They’re bullish about geothermal, hot rocks, and batteries. Fervo, Form Energy, Rondo, and Antora were all mentioned.</li><li>They view high-quality heat pumps as being pretty far from mass adoption. Heat pumps were tied with any way to make chemicals, liquid fuels, or plastics in a low-carbon way.</li><li>On average, they see global temperatures rising by 2.8 degrees Celsius by 2100. One venture capitalist predicted that “we will be able to control global temperatures before we achieve net zero, so by 2100 if civilization is still healthy we will have settled at some optimal temperature.”</li></ul><p><strong></strong>Read the <a href="https://heatmap.news/climate/insiders-survey-biden?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--fdua_px9sIpJw7HPjd0WzwlA1YwNZcR2_prRJv3g45w-xSYJxGH8_5Uios0fwmC-JVeHm" target="_self">full list of predictions here</a>.</p><h3>4. AccuWeather foresees large migration from California</h3><p>Weather forecasting service AccuWeather thinks this month’s devastating wildfires in Los Angeles will trigger a mass migration out of California. The fires capped off what AccuWeather said has been the most “costly and impactful” year in terms of extreme weather events since the Dust Bowl nearly a century ago. “The Dust Bowl led to a massive migration west to California,” said AccuWeather founder and executive chairman Dr. Joel N. Myers. “Ninety years later, we expect these wildfires, the rising costs of rebuilding and recovery, the challenge of securing and affording insurance, as well as drought and water supply concerns will likely lead to a significant migration out of California over the next few years.” Nine U.S. weather disasters over the last 12 months have caused between $693 billion and $800 billion in damage and economic losses, with the preliminary cost of the LA fires estimated at <a href="https://www.accuweather.com/en/press/extreme-fire-risk-in-southern-california-as-powerful-santa-ana-winds-return/1733516?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--fdua_px9sIpJw7HPjd0WzwlA1YwNZcR2_prRJv3g45w-xSYJxGH8_5Uios0fwmC-JVeHm" target="_blank">$275 billion</a>.</p><h3>5. EV startup Canoo files for bankruptcy</h3><p>In case you missed it: Electric van startup Canoo <a href="https://investors.canoo.com/news-presentations/press-releases/detail/159/canoo-inc-announces-chapter-7-bankruptcy-filing?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--fdua_px9sIpJw7HPjd0WzwlA1YwNZcR2_prRJv3g45w-xSYJxGH8_5Uios0fwmC-JVeHm" target="_blank">filed</a> for bankruptcy and ceased operations on Friday. The company had some high-profile partners for its EV commercial fleets concept, including NASA, the USPS, the Department of Defense, and Walmart, but ultimately ran out of money. “The writing was on the wall for the EV startup leading up to the announcement,” <a href="https://www.engadget.com/transportation/evs/ev-startup-canoo-has-filed-for-bankruptcy-and-stopped-all-operations-232719895.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJHUR4hFt7O8Fb4i4LOTLsnxAGe0hDSOleFTuTcZFIDpzkJyjcH7Nn0Qh7lhNlTbHIjfr-7OJpzrMwkuQTnQeSCENLYfU2G43qJVqJJJiUQMQKuwFkZqMnNh5fBmu1Y4XbW20gcgxjnVzmadmjmP0v5MDT-r2l6d-5Hkv09Wl3oU&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--fdua_px9sIpJw7HPjd0WzwlA1YwNZcR2_prRJv3g45w-xSYJxGH8_5Uios0fwmC-JVeHm" rel="noopener noreferrer" target="_blank">said</a> Cheyenne Macdonald at <em><em>Engadget</em></em>. Recently Canoo furloughed its workers, paused manufacturing, and saw many executives walk away.</p><h2>THE KICKER</h2><p>All national parks are <a href="https://www.nps.gov/subjects/npscelebrates/mlk-day.htm?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--fdua_px9sIpJw7HPjd0WzwlA1YwNZcR2_prRJv3g45w-xSYJxGH8_5Uios0fwmC-JVeHm" target="_blank">free to enter today</a> in honor of Martin Luther King, Jr. Day.</p> 
+
+<br> 
+
+<https://heatmap.news/politics/trump-inauguration-executive-orders-ira>
 
 ---
 
