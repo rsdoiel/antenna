@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-01-21 07:06:55
+updated: 2025-01-22 07:05:57
 ---
 
 # games
 
-(date: 2025-01-21 07:06:55)
+(date: 2025-01-22 07:05:57)
+
+---
+
+## Aabria Iyengar will be Twenty-Sided Tavern’s first guest DM
+
+date: 2025-01-22, updated: 2025-01-21, from: Polygon Website
+
+This February, acclaimed actual play performer Aabria Iyengar will return to the stage, taking up the Dungeon Master mantle in The Twenty-Sided Tavern. The off-Broadway show uses the base mechanics of Dungeons &#38; Dragons, infusing the performance with high-energy improv comedy and audience participation. A performer and comics author who’s become a titan of the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/actual-play/511777/aabria-iyengar-dm-twenty-sided-tavern>
+
+---
+
+## The Civ 6 Anthology is a great way to see what Civ is all about for under $10
+
+date: 2025-01-22, updated: 2025-01-22, from: Polygon Website
+
+Civilization 7 is one of early 2025’s biggest upcoming releases. It’s the first new main entry in the popular strategy franchise since 2016, though longtime fans have mostly been keeping busy during the wait, thanks to Civ 6’s huge amount of content and add-ons. If you’re curious about Civ — perhaps you haven’t tried it, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/511958/civ-6-anthology-pc-steam-sale>
+
+---
+
+## Astro Bot picks up another Game of the Year win at the New York Game Awards
+
+date: 2025-01-22, updated: 2025-01-22, from: Polygon Website
+
+The New York Videogame Critics Circle announced its winners on Monday night, naming Astro Bot the 2024 Game of the Year. Sony and Team Asobi&#8217;s hit PS5 platformer also picked up honors for Best Music in a Game and Best Kids Game.  In December, Astro Bot picked up the same honor at The Game Awards, in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/511954/astro-bot-2024-goty-critics-new-york-game-awards>
+
+---
+
+## Should you buy a Switch or wait for the Switch 2?
+
+date: 2025-01-22, updated: 2025-01-22, from: Polygon Website
+
+Nintendo finally debuted the Switch 2 in a brief teaser that showed its larger screen, upgraded Joy-Cons that seemingly attach magnetically to the console, an improved U-shaped kickstand, and what appears to be a new Mario Kart game running on the upcoming system. The video also added some much-needed clarity to the Switch 2’s backward [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/24072924/buy-switch-or-switch-2>
+
+---
+
+## All of our guesses about Nintendo Switch 2’s mysterious C button
+
+date: 2025-01-22, updated: 2025-01-21, from: Polygon Website
+
+Last Thursday, Nintendo finally revealed the long-awaited successor to the Nintendo Switch — the Nintendo Switch 2 — following months of leaks and fervent rumors. As you can imagine, there’s been a lot of speculation about Nintendo’s upcoming console, from hardware specs and pricing to suspected launch titles and comparisons to Valve’s Steam Deck. One [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/510289/nintendo-switch-2-c-button-guesses>
+
+---
+
+## Hollow Knight: Silksong dev forced to reassure us the game ‘will release’
+
+date: 2025-01-22, updated: 2025-01-22, from: Polygon Website
+
+It’s confirmed: Hollow Knight: Silksong is still a real video game that’s in active development, despite recent conspiracy theories. Matthew Griffin, who handles marketing and publishing for Team Cherry, wrote last Friday on X, “Yes the game is real, progressing and will release.” Griffin’s comment was a reply to an X user asking for an [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/xbox/511880/silksong-release-update-hollow-knight-developer>
+
+---
+
+## Peter Dinklage’s ultra-gory Toxic Avenger movie is finally headed to theaters
+
+date: 2025-01-21, updated: 2025-01-21, from: Polygon Website
+
+2025 is going to be a big year for movies. This is true not just by nature of the sheer tonnage of stuff coming to theaters (Avatar 3, even!), but also because the long-awaited, long-delayed Toxic Avenger reboot is finally coming to theaters. Cineverse announced on Tuesday that it will release The Toxic Avenger later [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/511904/toxic-avenger-2025-release-peter-dinklage-new-movie>
+
+---
+
+## Netflix raises prices again, making the standard plan $17.99
+
+date: 2025-01-21, updated: 2025-01-22, from: Polygon Website
+
+Netflix is getting more expensive —&#160;again. The streaming service raised prices for all of its plans as of Jan. 21, with the hike going into effect for current subscribers starting with their next billing cycle. Netflix is raising the price of its ad-supported tier from $6.99 to $7.99. Its ad-free tier is going from $15.49 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/511875/netflix-raising-prices-increase-cost-ad-tier-standard-january-2025>
+
+---
+
+## Best Necromancer builds in Diablo 4 season 7
+
+date: 2025-01-21, updated: 2025-01-21, from: Polygon Website
+
+Necromancers are the summoners of Diablo 4, but that’s not their entire identity. Like much of Diablo 4, Necromancers are far more complex than you’d initially imagine. So when you can summon minions to do your bidding or sacrifice them for major stat bonuses, how do you know what to do? That’s where we come [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/diablo-4-guides/23656235/necromancer-best-build-skills>
+
+---
+
+## Best Rogue builds in Diablo 4 season 7
+
+date: 2025-01-21, updated: 2025-01-21, from: Polygon Website
+
+Rogues are one of the most complex classes in Diablo 4. With three unique specializations and the ability to fight from any range, putting together a Rogue build is extremely complex. That’s where we come in, with our suggestions of the best Rogue builds for Diablo 4 season 7. Rogues have three weapons on them [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/diablo-4-guides/23650988/rogue-best-build-skills>
 
 ---
 

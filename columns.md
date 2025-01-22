@@ -1,11 +1,403 @@
 ---
 title: columns
-updated: 2025-01-21 07:06:54
+updated: 2025-01-22 07:05:57
 ---
 
 # columns
 
-(date: 2025-01-21 07:06:54)
+(date: 2025-01-22 07:05:57)
+
+---
+
+##  Archaeologists Are Finding Dugout Canoes in the American Midwest as Old as... 
+
+date: 2025-01-22, updated: 2025-01-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046021-archaeologists-are-findin>
+
+---
+
+## Okinawa, Japan
+
+date: 2025-01-22, from: mrusme blog
+
+"Okinawa Island, officially Okinawa Main Island, is the largest of the Okinawa
+Islands and the Ryukyu (Nansei) Islands of Japan in the Kyushu region. It is
+the smallest and least populated of the five main islands of Japan. The island
+is approximately 106 kilometres (66 mi) long, an average 11 kilometres (7 mi)
+wide, and has an area of 1,206.98 square kilometers (466.02 sq mi). It is
+roughly 640 kilometres (350 nmi; 400 mi) south of the main island of Kyushu
+and the rest of Japan. It is 500 km (270 nmi; 310 mi) northeast of Taiwan. The
+total population of Okinawa Island is 1,384,762. The greater Naha area has
+roughly 800,000 residents, while the city itself has about 320,000 people.
+Naha is the seat of Okinawa Prefecture on the southwestern part of Okinawa
+Island. Okinawa has a humid subtropical climate." 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/travel/japan/okinawa/>
+
+---
+
+## AI Will Write Complex Laws
+
+date: 2025-01-22, updated: 2025-01-20, from: Bruce Schneier blog
+
+<p>Artificial intelligence (AI) is writing law today. This has required no changes in legislative procedure or the rules of legislative bodies&#8212;all it takes is one legislator, or legislative assistant, to use generative AI in the process of drafting a bill.</p>
+<p>In fact, the use of AI by legislators is only likely to become more prevalent. There are currently projects in the US House, US Senate, and <a href="https://www.popvox.org/blog/assessing-us-congressional-ai-adoption">legislatures around the world</a> to trial the use of AI in various ways: searching databases, drafting text, summarizing meetings, performing policy research and analysis, and more. A Brazilian municipality ...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/01/ai-will-write-complex-laws.html>
+
+---
+
+## Office Hours: What will restrain him?
+
+date: 2025-01-22, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-what-will-restrain-him>
+
+---
+
+## Guiding principles for my website
+
+date: 2025-01-22, from: Tracy Durnell Blog
+
+I saw someone* share a list of guiding principles for their website they described as &#8220;Core Website Tenets,&#8221; and I love the idea of codifying my approach to my website. Some are operational, some are aspirational, some are decision points if I&#8217;m on the fence. Be friendly and kind Be open (but not too open) [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/21/guiding-principles-for-my-website/>
+
+---
+
+## January 21, 2025
+
+date: 2025-01-22, from: Heather Cox Richardson blog
+
+&#8220;I JUST GOT THE NEWS FROM MY LAWYER&#8230; I GOT A PARDON BABY! 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-21-2025>
+
+---
+
+## Wednesday 22 January, 2025
+
+date: 2025-01-22, from: John Naughton's online diary
+
+Riverbank By the Rhone, Arles. Quote of the Day ”When you’re a carpenter making a beautiful chest of drawers, you’re not going to use a piece of plywood on the back, even though it faces the wall and nobody will &#8230; <a href="https://memex.naughtons.org/wednesday-22-january-2025/40355/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-22-january-2025/40355/>
+
+---
+
+##  From the Paleontological Research Institution, The Teacher-Friendly Guide to Climate Change, &#8220;the... 
+
+date: 2025-01-22, updated: 2025-01-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046020-from-the-paleontological->
+
+---
+
+##  Nintendo Announces the Switch 2 
+
+date: 2025-01-21, updated: 2025-01-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/nintendo-announces-the-switch-2>
+
+---
+
+##  Decentralized Social Media Is the Only Alternative to the Tech Oligarchy. &#8220;There... 
+
+date: 2025-01-21, updated: 2025-01-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046019-decentralized-social-medi>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-21, from: Dave Winer's Scripting News)
+
+Another idea. One of Tesla's competitors could offer a trade-in, where they commit to recycling all the parts of your Tesla, so you are actually taking a Tesla off the road. And for a few extra dollars they can send you a scrapbook of your old Tesla being <i>lovingly</i> taken apart suitable for RT'ing. 
+
+<br> 
+
+<http://scripting.com/2025/01/21.html#a224031>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-21, from: Dave Winer's Scripting News)
+
+Wouldn't it be <a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lgbv3qcjjc27">smart</a> for Kia or Rivian or some other EV competitor of Tesla's to name their car Bluesky and have it only come in blue? 
+
+<br> 
+
+<http://scripting.com/2025/01/21.html#a222545>
+
+---
+
+##  Here&#8217;s the archived Biden White House website in the National Archives. &#8220;This... 
+
+date: 2025-01-21, updated: 2025-01-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046018-heres-the-archived-biden->
+
+---
+
+##  Mike Monteiro on how to survive being online. &#8220;The first four years... 
+
+date: 2025-01-21, updated: 2025-01-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046017-mike-monteiro-on-how-to>
+
+---
+
+##  What the&#8230;??! It seems that Back to the Future and The Goonies... 
+
+date: 2025-01-21, updated: 2025-01-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046016-what-the-it-seems-that>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-01-21, from: Jessica Smith's blog)
+
+<p>Guess whose street has a scheduled power outage again today. I&rsquo;m like, what is this, South Africa?! How is our power so regularly going out.</p>
+<p>Plus, a few weeks ago the utility provider sent their annual report boasting that the average customer only had five hours&rsquo; outage last year. Bitterly I went, &ldquo;Yeah, meanwhile [my street] Georg…&rdquo;</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/01/my-street-georg.html>
+
+---
+
+## January 20, 2025
+
+date: 2025-01-21, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155365879/35d1555cb9702a0c6e0fe4364ee6ba00.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155365879/35d1555cb9702a0c6e0fe4364ee6ba00.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-20-2025-db0>
+
+---
+
+##  Live Animated Broadcasts of the Australian Open 
+
+date: 2025-01-21, updated: 2025-01-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/live-animated-broadcasts-of-the-australian-open>
+
+---
+
+## Protecting your mental health during a clown president's second term
+
+date: 2025-01-21, from: Matt Haughey blog
+
+<p>We are on day two of President <a href="https://en.wikipedia.org/wiki/Kayfabe?ref=a.wholelottanothing.org" rel="noreferrer">Kayfabe</a> and the first day was pure stunts and stupidity to flood the news with garbage views that most people in the country don&apos;t support.</p><p>I&apos;ve learned a lot about mental health over the years and the one thing</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/protecting-your-mental-health-during-a-clown-presidents-second-term/>
+
+---
+
+##  Noah Kalina celebrates 25 years of taking a photo of himself every... 
+
+date: 2025-01-21, updated: 2025-01-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046013-noah-kalina-celebrates-25>
+
+---
+
+## ★ Let’s Not Mince Words Regarding Trump’s Executive Order to Pause Enforcement of the TikTok Law and Provide Supposed Immunity to Companies That Are in Clear Violation of It
+
+date: 2025-01-21, updated: 2025-01-22, from: Daring Fireball
+
+The order doesn’t change the law; it says to ignore the law. It’s going to be a very telling test of Republicans in both houses of Congress. 
+
+<br> 
+
+<https://daringfireball.net/2025/01/npr_trump_tiktok>
+
+---
+
+## Terminal Fever
+
+date: 2025-01-21, from: Om Malik blog
+
+In 2010, a college student wrote a piece of code that would help him start a company. Thirteen years later, he would walk away from a multi-billion-dollar public company he built, only to start tinkering with something new that could reshape how developers work. Mitchell Hashimoto&#8217;s journey is not just another Silicon Valley success story. &#8230; 
+
+<br> 
+
+<https://om.co/2025/01/21/terminal-fever/>
+
+---
+
+##  Finally! Soup you can suck on! &#8220;It&#8217;s Progresso Chicken Noodle Soup like... 
+
+date: 2025-01-21, updated: 2025-01-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046009-finally-soup-you-can-suck>
+
+---
+
+## We did nothing and now we pay
+
+date: 2025-01-21, from: Dave Winer's Scripting News
+
+<p>The most depressing moment of Trump 1.0, for me, was leaving the local supermarket, after seeing the kind of empty shelves you see in third world countries with broken or non-existent economic systems. This was when it sunk in how far the United States had fallen. </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2021/01/11/klaesAshford.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">But somehow those of us who survived Covid could relax on January 20, four years ago -- which was also coincidentally the day I got my first Covid vaccination -- the nightmare was over. We could relax for at least a few months before paying the price that was sure to come when we cleaned the mess that Trump had created with his January 6 insurrection. The question was will there be a war over this? Well, I reasoned, as I assumed the incoming president would, that it's better if you have to fight a civil war to do it when the military is responsible to you. But then a few months turned into a couple of years, and nothing happened. No indictments. He hadn't been arrested. I thought geez if we had done something like what he did, the scale of it, the audacity, the terror, my god how could he be left to walk around as if nothing had happened. I figured there must be a reason and our president had a plan. He didn't. Neither did journalism. When Trump ran for re-election he got the consideration any major party candidate would get from the press. As he is getting now as a newly sworn-in president. But we know his oath is meaningless. </p>
+<p>So that day when the shelves were empty is now only the second worst day, and yesterday I was still living with the respite of a four year trance of normality, as if all it took was belief that somehow we'd get through this. But now it's so depressing. I feel both like dying and living at the same time. I know many others feel this way. I don't imagine too many of the people who voted for Trump are full of joy right now. </p>
+<p>If we get another shot at cleaning this up, we must not let that opportunity slip by. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/21/173854.html?title=weDidNothingAndNowWePay>
+
+---
+
+##  USPS Announces Goodnight Moon Stamps 
+
+date: 2025-01-21, updated: 2025-01-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/usps-announces-goodnight-moon-stamps>
+
+---
+
+## Apple Support: ‘About Availability of TikTok and ByteDance Ltd. Apps in the United States’
+
+date: 2025-01-21, updated: 2025-01-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://support.apple.com/en-us/121596?cid=mc-ols-bytedance-article_121596-os_ui-12132024>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-01-21, from: Ryan Gantz Bluesky feed)
+
+all we wanted was to chat with friends online
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lgbcckk5qk23>
+
+---
+
+## “modern” is rubbish
+
+date: 2025-01-21, from: Chris Heilmann's blog
+
+Some terms irk me whenever I read them and one of them is &#8220;modern&#8221;. I try to avoid it like the plague, which is counter to all the marketing announcements you read out there: &#8220;Product X uses modern JavaScript features&#8221; &#8220;7 modern CSS tricks you can&#8217;t live without&#8221; &#8220;The modern productivity tool to get your [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2025/01/21/modern-is-rubbish/>
+
+---
+
+##  The Forgotten Woman Who Transformed Forensics (by inventing the rape kit). &#8220;In... 
+
+date: 2025-01-21, updated: 2025-01-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046011-the-forgotten-woman-who-t>
+
+---
+
+##  &#8220;Being a person with deadly, incurable cancer who is nonetheless still alive... 
+
+date: 2025-01-21, updated: 2025-01-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046010-being-a-person-with-deadl>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-01-21, from: Ryan Gantz Bluesky feed)
+
+we got bigger problems, but still 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lgb62wupi226>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-01-21, from: Ryan Gantz Bluesky feed)
+
+feed the trolls, get stronger trolls 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lgb56d6mic26>
 
 ---
 
@@ -70,12 +462,12 @@ date: 2025-01-21, from: Dave Winer's Scripting News
 <p>Here's the flow:</p>
 <ul>
 <li>In Bingeworthy, I rate a program. Then I realize I want to say more, I want to write a review that explains the rating.</li>
-<li>I click on the <i>Write in WordLand</i> button. The bingeworthy client asks for a token from the bingeworthy server. The token is is part of the database record for the user's rating of the program being displayed.  </li>
+<li>I click on the <i>Review in WordLand</i> button. The bingeworthy client asks for a token from the bingeworthy server. The token is is part of the database record for the user's rating of the program being displayed.  </li>
 <li>The button switches me over to WordLand using window.open, along with a <a href="https://gist.github.com/scripting/3b3c17e974882409ebf0f715a6f4f1b3">package of data</a> that gives the editor all the info it needs to update the post when published. It's worth clicking the <a href="https://gist.github.com/scripting/3b3c17e974882409ebf0f715a6f4f1b3">link</a> to see the data involved. </li>
 <li>In WordLand, I see a <a href="https://imgs.scripting.com/2025/01/18/useWordland.png">dialog</a> confirming that I want to write a review for Bingeworthy. If I approve, it creates a new WordLand draft. </li>
 <li>I write the first draft of the review and when I'm ready I publish it. The protocol supports revisions, btw.</li>
-<li>WordLand builds a URL with tv.bingeworthy.org as the destination. The post body has a JSON object with title and content properties, both of which can contain markdown. The URL params contain the id of the program, screenname of the user, the token that authorizes updating the comment for the rating of this program by this user. </li>
-<li>On tv.bingeworthy.org, if the token agrees with the one in the database, it updates the comment field of the rating, </li>
+<li>When the user publishes, in WordLand it builds a URL with tv.bingeworthy.org as the destination. The post body has a JSON object with title and content properties, both of which can contain markdown. The URL params contain the id of the program, screenname of the user, the token that authorizes updating the comment for the rating of this program by this user. </li>
+<li>On tv.bingeworthy.org, if the token agrees with the one in the database, it updates the <i>comment</i> field of the rating, </li>
 <li>Then tv.bingeworthy.org sends a websocket message to the author, in Bingeworthy, so they can update the display of the rating for the user, if they still have the program displayed on their screen.</li>
 </ul>
 <p>I've done these kinds of protocols before, for example, menu sharing on the Mac in the 90s and rssCloud on the web. These are increasingly complicated things, because they require secure coordination between a circle of programs, and allow choice in each of the nodes. </p>
@@ -164,11 +556,23 @@ The tone for the inauguration of Donald J.
 
 date: 2025-01-21, from: Matt Haughey blog
 
-<p>I woke up early in Moab, Utah, ready to hit a bunch of trails I&apos;ve had my eye on, but never did in the past. Mostly, they were picked for looking scenic, and not necessarily being too difficult. Wipeout Hill was a bit crazy, but otherwise I didn&</p> 
+<p>I woke up early in Moab, Utah, ready to hit a bunch of trails I&apos;ve had my eye on, but never did in the past, including Wipe-out Hill, Seven Mile Loop, Courthouse Rock, and Onion Creek. Mostly, they were picked for looking scenic, and not necessarily being too</p> 
 
 <br> 
 
 <https://a.wholelottanothing.org/a-big-western-loop-day-4-5/>
+
+---
+
+## Dave Chappelle’s SNL Monologue
+
+date: 2025-01-21, updated: 2025-01-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=57pGarTBJrU>
 
 ---
 
@@ -217,18 +621,6 @@ Let me get this out of the way.
 <br> 
 
 <https://fallows.substack.com/p/the-worst-part-of-a-terrible-speech>
-
----
-
-## Dave Chappelle’s SNL Monologue
-
-date: 2025-01-20, updated: 2025-01-20, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.youtube.com/watch?v=57pGarTBJrU>
 
 ---
 
@@ -398,7 +790,7 @@ date: 2025-01-20, updated: 2025-01-20, from: Daring Fireball
 
 ## Tim Cook Pep-Talks Himself
 
-date: 2025-01-20, updated: 2025-01-20, from: Daring Fireball
+date: 2025-01-20, updated: 2025-01-21, from: Daring Fireball
 
  
 

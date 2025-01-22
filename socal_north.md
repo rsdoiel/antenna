@@ -1,11 +1,119 @@
 ---
 title: socal north
-updated: 2025-01-21 07:06:53
+updated: 2025-01-22 07:05:56
 ---
 
 # socal north
 
-(date: 2025-01-21 07:06:53)
+(date: 2025-01-22 07:05:56)
+
+---
+
+## LA fire victims are entering a new stage of recovery. Here’s how to help
+
+date: 2025-01-22, updated: 2025-01-22, from: The LAist
+
+Some donation hubs have stopped accepting certain items, especially clothes. But aid is still badly needed. Here's how you can help. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-fire-victims-are-entering-a-new-stage-of-recovery-heres-how-to-help>
+
+---
+
+## Some San Fernando Valley residents can get up to $500 in wildfire relief
+
+date: 2025-01-22, updated: 2025-01-22, from: The LAist
+
+The L.A. City Council set aside $25,000 to help self-employed workers in District 6 who lost income due to the destructive wildfires. 
+
+<br> 
+
+<https://laist.com/news/politics/some-san-fernando-valley-residents-can-get-up-to-500-in-wildfire-relief>
+
+---
+
+## ‘Tapping into resiliency’: Resources for people in recovery during fire crisis
+
+date: 2025-01-22, updated: 2025-01-22, from: The LAist
+
+Mental health experts say the stress of the fires can cause underlying mental health issues to flare up for people recovering from addiction. 
+
+<br> 
+
+<https://laist.com/news/health/tapping-into-resiliency-resources-for-people-in-recovery-during-the-devastating-fires>
+
+---
+
+## LA-area homeless count rescheduled to February
+
+date: 2025-01-22, updated: 2025-01-22, from: The LAist
+
+The count had been scheduled for this week but is being delayed because of the wildfires. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-area-homeless-count-rescheduled-to-february>
+
+---
+
+## California seeks to block Trump's birthright citizenship order
+
+date: 2025-01-21, updated: 2025-01-22, from: The LAist
+
+The lawsuit seeks to block Trump's effort to revoke birthright citizenship, which is enshrined in the U.S. Constitution's 14th Amendment. 
+
+<br> 
+
+<https://laist.com/news/politics/bonta-sues-trump-over-birthright-citizenship>
+
+---
+
+## IRS extends LA County tax deadlines to October
+
+date: 2025-01-21, updated: 2025-01-21, from: The LAist
+
+The agency made the decision after the wildfires and extreme winds earlier this month. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-irs-tax-deadline-wildfires-wind-disaster-october-april>
+
+---
+
+## As President Trump declares a border emergency, California’s targeted immigrants lie low
+
+date: 2025-01-21, updated: 2025-01-21, from: The LAist
+
+Along the California-Mexico border, immigrants at risk of deportation are seeking to live undetected through an unprecedented crackdown. 
+
+<br> 
+
+<https://laist.com/news/trump-border-emergency-targeted-immigrants-lie-low>
+
+---
+
+## Fire weather to pick back up this week, rain and cooler temps on the horizon
+
+date: 2025-01-21, updated: 2025-01-21, from: The LAist
+
+Wet weather and cooler days to bring relief. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/fire-weather-to-pick-back-up-this-week-rain-and-cooler-temps-on-the-horizon>
+
+---
+
+## A Southern California fifth-grader interviews his firefighter father
+
+date: 2025-01-21, updated: 2025-01-21, from: The LAist
+
+Cian Lawlor's father was dispatched to the Palisades Fire just over a week ago and he's been working it ever since. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/fifth-grader-interviews-firefighter-father-palisades-fire>
 
 ---
 
@@ -35,7 +143,7 @@ If approved, the proposal would ease Airbnb regulations and give new protections
 
 ## With fires coming under control, LA preps for mudslides
 
-date: 2025-01-20, updated: 2025-01-20, from: The LAist
+date: 2025-01-20, updated: 2025-01-21, from: The LAist
 
 With charred earth all over L.A. County, officials are preparing for possible mudslides in burn areas. 
 

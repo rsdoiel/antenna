@@ -1,15 +1,435 @@
 ---
 title: science and technology
-updated: 2025-01-21 07:06:54
+updated: 2025-01-22 07:05:57
 ---
 
 # science and technology
 
-(date: 2025-01-21 07:06:54)
+(date: 2025-01-22 07:05:57)
 
 ---
 
-## Meta and X sign up to Euro Commish code of conduct on hate speech
+## Better power management, security, and scheduling in Linux kernel 6.13
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>But no changes to bcachefs</h4> <p>Linux kernel 6.13 is here, but don&#39;t get too excited. It&#39;s not a biggie and, given the timing, probably won&#39;t appear in many familiar distros.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/kernel_613/>
+
+---
+
+## Advanced Modeling Enhances Gateway’s Lunar Dust Defense
+
+date: 2025-01-22, from: NASA breaking news
+
+Ahead of more frequent and intense contact with dust during Artemis missions, NASA is developing new strategies to protect equipment as astronauts travel between the Moon and spacecraft like Gateway, humanity’s first lunar space station. 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/advanced-modeling-enhances-gateway-lunar-dust-defense/>
+
+---
+
+## Analysts say real datacenter emissions are a dirty secret
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>Amazon doesn&#39;t break out figures, but then again neither do Microsoft nor Google</h4> <p>As more businesses shift an ever greater number of workloads to the cloud, hyperscalers aren&#39;t doing enough to help CIOs or tech buyers, who are already under legislative pressure, to be more transparent about their own corporation&#39;s carbon footprint regarding compute services.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/datacenter_emissions_not_accurate/>
+
+---
+
+## Infosec was literally the last item in Trump's policy plan, yet major changes are likely on his watch
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>Everyone agrees defense matters. How to do it is up for debate</h4> <p><strong>Feature</strong>  The Trump administration came to office this week without a detailed information security policy, but analysis of cabinet nominees’ public remarks and expert comments suggest it will make significant changes in the field.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_cyber_policy/>
+
+---
+
+## NASA Faces of Technology: Meet Lauren Best Ameen
+
+date: 2025-01-22, from: NASA breaking news
+
+If you tell Lauren Best Ameen something is hard and cannot be done, she will likely reply, “Watch me.”&#160;&#160; As deputy manager for the Cryogenic Fluid Management Portfolio Project Office at NASA’s Glenn Research Center in Cleveland, Ameen and her team look for innovative ways to keep rocket fuel cold for long-duration missions. Work in [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-faces-of-technology-meet-lauren-best-ameen/>
+
+---
+
+## NASA Glenn Trains Instructors for After-School STEM Program
+
+date: 2025-01-22, from: NASA breaking news
+
+NASA and the U.S. Department of Education are teaming up to engage students in science, technology, engineering, and math (STEM) education during after-school hours. The interagency program strives to reach approximately 1,000 middle school students in more than 60 sites across 10 states to join the program, 21st Century Community Learning Centers (CCLC).&#160; Members of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-glenn-trains-instructors-for-after-school-stem-program/>
+
+---
+
+## NASA Glenn Helps Bring Joy to Children in Need
+
+date: 2025-01-22, from: NASA breaking news
+
+NASA’s Glenn Research Center continued a decades-long tradition of participating in the Marine Corps Reserve Toys for Tots program during the 2024 holiday season. On Dec. 9, members of the Marine Corps Reserve (3rd Battalion, 25th Marines) picked up 11 boxes of toys donated by employees from NASA Glenn’s facilities in Cleveland and Sandusky, Ohio.&#160; The [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-glenn-helps-bring-joy-to-children-in-need/>
+
+---
+
+## UK tax collector's phone service 'deliberately' bad to push users online, say MPs
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>Cut off nearly 44k peeps who had been waiting 70 minutes for advice on unavoidable chore</h4> <p>The UK tax collector must &#34;take responsibility for its own failings to offer sufficiently effective digital services to customers,&#34; according to a committee of MPs which accused HMRC of &#34;deliberately&#34; poor phone service to push callers online.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/pms_say_hmrc_phone_services/>
+
+---
+
+## Former Amazon exec appointed as chair of UK's competition watchdog
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>Interim appointment after former head booted out for not being &#39;sufficiently focused on growth&#39;</h4> <p>The UK&#39;s Competition and Markets Authority (CMA) has a new chair after the sudden departure of the previous incumbent.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/ex_amazon_exec_on_uk_competition_watchdog_body/>
+
+---
+
+## Business value from GenAI remains elusive despite IT spending boom
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>The nascent tech enters Hype Cycle’s downward slope, says Gartner</h4> <p>Tech analysts have forecast 9.8 percent year-over-year growth in worldwide IT spending in 2025, reaching $5.61 trillion and driven by continuing AI investments, despite “moonshot” projects seeing a high failure rate.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/business_value_genai_elusive/>
+
+---
+
+## More Than 100 Died When the S.S. Valencia Wrecked in the ‘Graveyard of the Pacific’—Learn Why This Stretch of Coastline Has Claimed Thousands of Ships
+
+date: 2025-01-22, from: Smithsonian Magazine
+
+The ship’s demise on this day in 1906 demonstrated the terrifying dangers of the treacherous waters in the Pacific Northwest 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/than-100-died-when-the-ss-valencia-wrecked-in-the-graveyard-of-the-pacificlearn-why-this-stretch-of-coastline-has-claimed-thousands-of-ships-180985854/>
+
+---
+
+## Ransomware scum make it personal for <i>Reg</i> readers by impersonating tech support
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>That invitation to a Teams call on which IT promises to mop up a spamstorm may not be what it seems</h4> <p>Two ransomware campaigns are abusing Microsoft Teams to infect organizations and steal data, and the crooks may have ties to Black Basta and FIN7, according to Sophos.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/ransomware_crews_abuse_microsoft_teams/>
+
+---
+
+## China claims major fusion advance and record after 17-minute Tokamak run
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>1,066 seconds of steady-state high-confinement plasma operation and all that</h4> <p>China’s Hefei Institutes of Physical Science has claimed a new world record for maintaining a steady-state high-confinement plasma operation, a feat needed to create a fusion reactor that in theory will produce vast amounts of energy at little cost.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/china_tokamak_plasma_record_claim/>
+
+---
+
+## Google DeepMind CEO says 2025's the year we start popping pills AI helped invent
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>Nobel Prize winner Demis Hassabis thinks human trials will happen soon</h4> <p>Clinical trials of the first drugs designed with the help of artificial intelligence could commence this year, Google DeepMind CEO Demis Hassabis suggested Tuesday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/google_deepmind_ai_drugs/>
+
+---
+
+## Apple Intelligence turned on by default in upcoming macOS Sequoia 15.3, iOS 18.3
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>Plus: Google stuffs Gemini into Workspace, with a hidden off switch?</h4> <p>Ready or not, generative AI assistants and productivity aids are getting harder to avoid with a growing number of software vendors enabling them by default.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_intelligence_enabled/>
+
+---
+
+## OpenAI to blow through $500B on AI infrastructure for itself with help from pals
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>SoftBank, Oracle, MGX form Stargate Project with ChatGPT maker, intend to outspend Microsoft this year</h4> <p>OpenAI, Oracle, SoftBank, and investment firm MGX on Tuesday announced plans to spend $500 billion on AI infrastructure in America over the next four years, to be used by the ChatGPT super-lab.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/openai_stargate_ai_datacenter_company/>
+
+---
+
+## PowerSchool theft latest: Decades of Canadian student records, data from 40-plus US states feared stolen
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>Lawsuits pile up after database accessed by miscreants</h4> <p>Canada&#39;s largest school board has revealed that student records dating back to 1985 may have been accessed by miscreants who compromised software provider PowerSchool.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/powerschool_canada_lawsuits/>
+
+---
+
+## App stores unconvinced by Trump's TikTok ban pause, which may itself be on shaky legal ground
+
+date: 2025-01-21, updated: 2025-01-21, from: The Register (UK I.T. News)
+
+<h4><i>El Reg</i> asked a lawyer to explain WTH is going on</h4> <p><strong>Analysis</strong>  President Trump&#39;s executive order stalling the enforcement of the TikTok ban in the United States has created legal uncertainty for companies hosting or distributing the app. To further confuse the matter, it&#39;s not even clear that Trump&#39;s decree is within his power to issue or enforce. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/21/trump_tiktok_ban_pause/>
+
+---
+
+## Researchers Have Found an Inca Tunnel Beneath the Peruvian City of Cusco
+
+date: 2025-01-21, from: Smithsonian Magazine
+
+The dug-out passages may follow the exact path of the Inca capital’s aboveground roads 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/researchers-have-found-an-inca-tunnel-beneath-the-Peruvian-city-of-cusco-180985872/>
+
+---
+
+## President Trump Orders the U.S. to Exit the World Health Organization and Paris Climate Agreement on His First Day in Office
+
+date: 2025-01-21, from: Smithsonian Magazine
+
+The actions will take effect in a year, reinstating withdrawals he had set in motion during his first term 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/president-trump-orders-the-us-to-exit-the-world-health-organization-and-paris-climate-agreement-on-his-first-day-in-office-180985876/>
+
+---
+
+## For Chimpanzees, Peeing May Be Contagious—Just Like Yawning Is for Humans, Study Finds
+
+date: 2025-01-21, from: Smithsonian Magazine
+
+Scientists suggest captive chimpanzees engage in 'socially contagious urination'—that is, when one primate starts peeing, others quickly follow suit 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/for-chimpanzees-peeing-may-be-contagious-just-like-yawning-is-for-humans-study-finds-180985875/>
+
+---
+
+## Bob Dylan’s Drafts of 'Mr. Tambourine Man' Lyrics Sell for $508,000 at Auction
+
+date: 2025-01-21, from: Smithsonian Magazine
+
+The rare papers were part of a larger collection from rock journalist Al Aronowitz, a close friend of Dylan’s in the 1960s 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/bob-dylans-drafts-of-mr-tambourine-man-lyrics-sell-for-508000-at-auction-180985869/>
+
+---
+
+## Hawaiian Observatory Clocks Highest Annual Jump in Atmospheric Carbon Dioxide Since Its Records Began 67 Years Ago
+
+date: 2025-01-21, from: Smithsonian Magazine
+
+The change measured by the Mauna Loa Observatory was likely driven by wildfires and continued burning of fossil fuels, scientists say 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/hawaiian-observatory-clocks-highest-annual-jump-in-atmospheric-carbon-dioxide-since-its-records-began-67-years-ago-180985868/>
+
+---
+
+## NASA Marshall Invites Media to Local Day of Remembrance Event
+
+date: 2025-01-21, from: NASA breaking news
+
+NASA’s Marshall Space Flight Center in Huntsville, Alabama, invites media to attend its observance of the agency’s Day of Remembrance at 9:30 a.m. CST Thursday, Jan. 23, in the lobby of Building 4221. Day of Remembrance honors the members of the NASA family who lost their lives while furthering the cause of exploration and discovery.&#160; [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-marshall-invites-media-to-local-day-of-remembrance-event/>
+
+---
+
+## Atlassian's Bitbucket Cloud went down 'hard' today
+
+date: 2025-01-21, updated: 2025-01-21, from: The Register (UK I.T. News)
+
+<h4>Same, Big A, same</h4> <p>If you were unable to access Atlassian&#39;s Bitbucket Cloud today, it&#39;s because in the words of the IT giant, the service was &#34;hard down.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/21/atlassian_bitbucket_cloud_outage/>
+
+---
+
+## 60 Years Ago: Uncrewed Gemini 2 Paves the Way for the First Crewed Mission
+
+date: 2025-01-21, from: NASA breaking news
+
+On Jan. 19, 1965, Gemini 2 successfully completed the second of two uncrewed test flights of the spacecraft and its Titan II booster, clearing the way for the first crewed mission. The 18-minute suborbital mission achieved the primary goals of flight qualifying the Gemini spacecraft, especially its heat shield during a stressful reentry. Recovery forces [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/history/60-years-ago-uncrewed-gemini-2-paves-the-way-for-the-first-crewed-mission/>
+
+---
+
+## Patch procrastination leaves 50,000 Fortinet firewalls vulnerable to zero-day
+
+date: 2025-01-21, updated: 2025-01-21, from: The Register (UK I.T. News)
+
+<h4>Seven days after disclosure and little action taken, data shows</h4> <p>Fortinet customers need to get with the program and apply the latest updates as nearly 50,000 management interfaces are still vulnerable to the latest zero-day exploit.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/21/fortinet_firewalls_still_vulnerable/>
+
+---
+
+## Astronauts Set to Swab the Exterior of Station for Microbial Life
+
+date: 2025-01-21, from: NASA breaking news
+
+Astronauts are scheduled to venture outside the International Space Station to collect microbiological samples during crew spacewalks for the ISS External Microorganisms experiment. This investigation focuses on sampling at sites near life support system vents to examine whether the spacecraft releases microorganisms, how many, and how far they may travel. This experiment could help researchers [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/astronauts-set-to-swab-the-exterior-of-station-for-microbial-life/>
+
+---
+
+## Trump hits undo on Biden AI safety order, EV mandate, emissions standards, and more
+
+date: 2025-01-21, updated: 2025-01-21, from: The Register (UK I.T. News)
+
+<h4>Also, prepare for paused wind projects and the Gulf of America from Trump 2.0 – and that&#39;s just day 1</h4> <p>US President Donald Trump has wasted no time in culling Biden-era programs, including the elimination of the prior administration&#39;s executive orders on AI safety and electric vehicles, and freezing funds for EV infrastructure.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/21/trump_eliminates_biden_ai_order/>
+
+---
+
+## How New NASA, India Earth Satellite NISAR Will See Earth
+
+date: 2025-01-21, from: NASA breaking news
+
+Set to launch within a few months, NISAR will use a technique called synthetic aperture radar to produce incredibly detailed maps of surface change on our planet. When NASA and the Indian Space Research Organization’s (ISRO) new Earth satellite NISAR (NASA-ISRO Synthetic Aperture Radar) launches in coming months, it will capture images of Earth’s surface [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/nisar/how-new-nasa-india-earth-satellite-nisar-will-see-earth/>
+
+---
+
+## Neural interface lets paralyzed person steer virtual quadcopter, opening new doors for gaming
+
+date: 2025-01-21, updated: 2025-01-21, from: The Register (UK I.T. News)
+
+<h4>Researchers aim to tackle unmet needs for social connection and recreation</h4> <p>Scientists in the US have developed a neural interface that enables an individual with paralysis to control a virtual quadcopter by decoding brain activity into distinct finger movements.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/21/brain_interface_virtual_quadcopter/>
+
+---
+
+## NASA Welcomes Finland as Newest Artemis Accords Signatory
+
+date: 2025-01-21, from: NASA breaking news
+
+With Finland’s signing of the Artemis Accords on Tuesday, NASA celebrates the 53rd nation committing to the safe and responsible exploration of space that benefits humanity. The signing ceremony took place on the margins of the Aalto University’s Winter Satellite Workshop 2025 in Espoo, Finland. “Today, Finland is joining a community of nations that want [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-welcomes-finland-as-newest-artemis-accords-signatory/>
+
+---
+
+## Suni Williams Conducts Spacewalk
+
+date: 2025-01-21, from: NASA breaking news
+
+NASA astronaut Suni Williams is seen outside the International Space Station during the Jan. 16, 2025, spacewalk where she and fellow NASA astronaut Nick Hague replaced a rate gyro assembly that helps maintain the orientation of the orbital outpost. It was the fourth spacewalk for Hague and the eighth for Williams. Williams and Hague also [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/suni-williams-conducts-spacewalk/>
+
+---
+
+## Words alone won't get the stars and stripes to Mars
+
+date: 2025-01-21, updated: 2025-01-21, from: The Register (UK I.T. News)
+
+<h4>So you want to go to the Red Planet. How deep are your pockets and how much time do you have?</h4> <p><strong>Comment</strong>  &#34;America is going to Mars,&#34; said Elon Musk at yesterday&#39;s inauguration of US President Donald Trump. America is already there, thanks to decades of robotic exploration.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/21/usa_going_to_mars/>
+
+---
+
+## Concept Cells Help Your Brain Abstract Information and Build Memories
+
+date: 2025-01-21, from: Quanta Magazine
+
+Individual cells in the brain light up for specific ideas. These concept neurons, once known as “Jennifer Aniston cells,” help us think, imagine and remember episodes from our lives.             <p>The post <a href="https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/" target="_blank">Concept Cells Help Your Brain Abstract Information and Build Memories</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/>
+
+---
+
+## Meta, X sign up to Euro Commish code of conduct on hate speech
 
 date: 2025-01-21, updated: 2025-01-21, from: The Register (UK I.T. News)
 
@@ -23,9 +443,9 @@ date: 2025-01-21, updated: 2025-01-21, from: The Register (UK I.T. News)
 
 ## Tariff uncertainty looms large over budget conscious CIOs
 
-date: 2025-01-21, updated: 2025-01-21, from: The Register (UK I.T. News)
+date: 2025-01-21, updated: 2025-01-22, from: The Register (UK I.T. News)
 
-<h4>It’s a feature not a bug, and what the US electorate voted for, says analyst</h4> <p>As US president Donald Trump&#39;s inauguration passes into history, tech leaders face uncertainty as they wait to see if repeated promises of global US import tariffs are put into action.…</p> 
+<h4>It’s a feature not a bug, and what the US electorate voted for, says analyst</h4> <p><strong>Updated</strong>  As US president Donald Trump&#39;s inauguration passes into history, tech leaders face uncertainty as they wait to see if repeated promises of global US import tariffs are put into action.…</p> 
 
 <br> 
 
@@ -117,7 +537,7 @@ date: 2025-01-21, updated: 2025-01-21, from: The Register (UK I.T. News)
 
 ---
 
-## VMware migrations will be long, expensive, and risky, warns Gartner
+## VMware migrations will be long, expensive, risky, Gartner warns
 
 date: 2025-01-21, updated: 2025-01-21, from: The Register (UK I.T. News)
 
@@ -129,11 +549,11 @@ date: 2025-01-21, updated: 2025-01-21, from: The Register (UK I.T. News)
 
 ---
 
-## TSMC reportedly pauses production after strong earthquake hits Taiwan
+## TSMC pauses production after strong earthquake hits Taiwan
 
 date: 2025-01-21, updated: 2025-01-21, from: The Register (UK I.T. News)
 
-<h4>Geopolitical rumblings one day, geological rumblings the next</h4> <p>Taiwan has experienced an earthquake so significant that chipmaking champ TSMC has shuttered plants.…</p> 
+<h4>Geopolitical rumblings one day, geological rumblings the next</h4> <p>Taiwan has experienced an earthquake significant enough that chipmaking champ TSMC has halted work at its plants.…</p> 
 
 <br> 
 
@@ -141,11 +561,11 @@ date: 2025-01-21, updated: 2025-01-21, from: The Register (UK I.T. News)
 
 ---
 
-## Trump’s Department of Government Efficiency emerges with tech modernization mission
+## This is how Elon's Department of Government Efficiency will work – overwriting the US Digital Service
 
 date: 2025-01-21, updated: 2025-01-21, from: The Register (UK I.T. News)
 
-<h4>US Digital Service re-named and told to audit government tech and work on data-sharing</h4> <p>US President Donald Trump has re-named the US Digital Service the Department of Government Efficiency and given it a mission to modernize government technology.…</p> 
+<h4>Tycoon&#39;s auditors to probe Uncle Sam&#39;s IT with full access to unclassified data</h4> <p>US President Donald Trump has renamed the US Digital Service the Department of Government Efficiency and given it a mission to modernize government technology.…</p> 
 
 <br> 
 
@@ -251,7 +671,7 @@ Linux 6.13 comes with the introduction of the AMD 3D V-Cache Optimizer driver fo
 
 ## AWS declares it's Iceberg all the way until customers say otherwise
 
-date: 2025-01-20, updated: 2025-01-20, from: The Register (UK I.T. News)
+date: 2025-01-20, updated: 2025-01-21, from: The Register (UK I.T. News)
 
 <h4>Cloud giant explains its thinking behind support for Apache open table format</h4> <p>AWS bet on the Apache Iceberg open table format (OTF) across its analytics, machine learning, and storage stack as a concerted response to demand from customers already using its popular S3 object storage.…</p> 
 
@@ -287,7 +707,7 @@ date: 2025-01-20, updated: 2025-01-20, from: The Register (UK I.T. News)
 
 ## SpaceX and Blue Origin both face FAA mishap probes
 
-date: 2025-01-20, updated: 2025-01-20, from: The Register (UK I.T. News)
+date: 2025-01-20, updated: 2025-01-21, from: The Register (UK I.T. News)
 
 <h4>Only one called exploding a rocket over the Caribbean &#39;entertainment&#39;</h4> <p>SpaceX is not the only company involved in a Federal Aviation Administration (FAA) mishap inquiry. Jeff Bezos&#39;s Blue Origin has also come under scrutiny after losing its New Glenn rocket&#39;s first stage.…</p> 
 
@@ -405,11 +825,11 @@ date: 2025-01-20, updated: 2025-01-20, from: The Register (UK I.T. News)
 
 ---
 
-## Donald Trump proposes US government acquire half of TikTok, which thanks him and restores service
+## Donald Trump proposes US govt acquire half of TikTok, which thanks him and restores service
 
-date: 2025-01-20, updated: 2025-01-20, from: The Register (UK I.T. News)
+date: 2025-01-20, updated: 2025-01-21, from: The Register (UK I.T. News)
 
-<h4>Incoming president promises to allow ongoing operations for 90 days just as made-in-China app started to go dark</h4> <p>US president-elect Donald Trump appears to have proposed the government he will soon lead should acquire half of made-in-China social media service TikTok’s stateside operations.…</p> 
+<h4>The same Florida Man who wanted to ban the app in the first place</h4> <p>US president-elect Donald Trump appears to have proposed the government he will soon lead should acquire half of made-in-China social media service TikTok’s stateside operations.…</p> 
 
 <br> 
 

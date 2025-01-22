@@ -1,11 +1,86 @@
 ---
 title: motorcycles
-updated: 2025-01-21 07:06:56
+updated: 2025-01-22 07:05:59
 ---
 
 # motorcycles
 
-(date: 2025-01-21 07:06:56)
+(date: 2025-01-22 07:05:59)
+
+---
+
+## Is This Integrated Motorcycle Fork and Brake Design Actually Good?
+
+date: 2025-01-22, from: Ride Apart, Electric Motorcycle News
+
+A 30-minute brake pad job will now take you an entire afternoon.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/747946/showa-nissin-integrated-fork-brakes/>
+
+---
+
+## KTM Finally Debuts the New 390 Enduro R After Bungling the Original Debut
+
+date: 2025-01-22, from: Ride Apart, Electric Motorcycle News
+
+It was at EICMA, but wasn't... 
+
+<br> 
+
+<https://www.rideapart.com/news/748082/ktm-2025-390-enduro-r-motorcycle-off-road/>
+
+---
+
+## President Trump's Canadian and Mexican Tariffs Are Coming, and Coming Soon
+
+date: 2025-01-22, from: Ride Apart, Electric Motorcycle News
+
+Get ready to pay more for your powersports.  
+
+<br> 
+
+<https://www.rideapart.com/news/748079/president-trump-canada-mexico-25-percent-tariffs-february-1/>
+
+---
+
+## Can Motorcycles Benefit From Goodyear’s Rain And Ice-Sensing Tires?
+
+date: 2025-01-22, from: Ride Apart, Electric Motorcycle News
+
+More importantly, how much tech is too much tech when it comes to safety?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/747948/goodyear-sightline-tires-for-motorcycles-too/>
+
+---
+
+## This Motorcycle Has Balls for Wheels
+
+date: 2025-01-22, from: Ride Apart, Electric Motorcycle News
+
+Also, how easy do you think it'd be to Akira slide this thing? 
+
+<br> 
+
+<https://www.rideapart.com/news/748077/ball-bike-3d-printed-ev/>
+
+---
+
+## New Zealand-Based EV Bike Maker UBCO Is Close to Bankruptcy
+
+date: 2025-01-21, from: Ride Apart, Electric Motorcycle News
+
+The once-promising e-bike startup known for its 2x2 all-wheel-drive bikes is fighting for its life.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/747945/ubco-enters-receivership-400k-debt-crown-agency/>
 
 ---
 

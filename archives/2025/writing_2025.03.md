@@ -1,11 +1,79 @@
 ---
 title: writing
-updated: 2025-01-21 07:06:55
+updated: 2025-01-22 07:05:57
 ---
 
 # writing
 
-(date: 2025-01-21 07:06:55)
+(date: 2025-01-22 07:05:57)
+
+---
+
+## Revision vs. Editing: Understanding the Difference
+
+date: 2025-01-22, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/revision-vs-editing-understanding-the-difference>
+
+---
+
+## Breath of Oblivion by Maurice Broaddus: Review by Nedine Moonsamy
+
+date: 2025-01-21, from: Locus Magazine
+
+<p><strong>Breath of Oblivion</strong>, Maurice Broaddus (Tor 978-1-25026-512-8, $30.99, 400pp, hc) Novem­ber 2024.</p>
+<p><strong>Breath of Oblivion </strong>is the second instal­ment in Maurice Broaddus’s highly anticipated Astra Black trilogy. The first book in the series, <strong>Sweep of Stars</strong>, was a Locus Award finalist in 2023 and garnered favourable reviews for his Afrofuturist space adventure. <strong>Sweep of Stars </strong>clearly displays Broaddus’s ad­mirable worldbuilding, as he imagines the year 2121, long after  <a href="https://locusmag.com/2025/01/breath-of-oblivion-by-maurice-broaddus-review-by-nedine-moonsamy/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/breath-of-oblivion-by-maurice-broaddus-review-by-nedine-moonsamy/>
+
+---
+
+## How Actor Julia Stiles Wrote Her First Feature Screenplay
+
+date: 2025-01-21, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-actor-julia-stiles-wrote-her-first-feature-screenplay" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/%5BL-R%5D%20Isabelle%20Fuhrman%20as%20%E2%80%9CCharlotte%E2%80%9D%20and%20Mena%20Massoud%20as%20%E2%80%9CAdam%E2%80%9D%20in%20the%20romance%20film%20WISH%20YOU%20WERE%20HERE%2c%20a%20Lionsgate%20release.%20Photo%20courtesy%20of%20Lionsgate..png" alt="[L-R] Isabelle Fuhrman as “Charlotte” and Mena Massoud as “Adam” in the romance film WISH YOU WERE HERE, a Lionsgate release. Photo courtesy of Lionsgate." class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>For <a href="https://www.imdb.com/name/nm0005466/">Julia Stiles</a>, years of performing as an actor have provided a unique advantage in her latest creative venture—screenwriting and directing.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-actor-julia-stiles-wrote-her-first-feature-screenplay>
+
+---
+
+## Navigating Loss with Jesse Eisenberg
+
+date: 2025-01-21, from: John August blog
+
+After a difficult few weeks in Los Angeles, John welcomes writer, director and actor Jesse Eisenberg to peel apart the complicated human reactions to grief and loss. They look at how both collective and personal grief inform the characters of Jesse’s latest film, A Real Pain, and reflect on the ongoing LA fires and the [&#8230;]
+The post <a href="https://johnaugust.com/2025/navigating-loss-with-jesse-eisenberg">Navigating Loss with Jesse Eisenberg</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/672standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/672standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2025/navigating-loss-with-jesse-eisenberg>
+
+---
+
+## Model Home by Rivers Solomon: Review by Gabino Iglesias
+
+date: 2025-01-21, from: Locus Magazine
+
+<p><strong>Model Home, </strong>Rivers Solomon (MCD 978-0-37460-713-5, $28.00, 304pp, hc) October 2024. Cover by Abby Kagan.</p>
+<p>Rivers Solomon’s <strong>Model Home </strong>is a novel about a haunted house in which said house sits in the background while haunted people take center stage. Stunningly written and full of the kind of trauma that can only come from family, this novel takes the haunted house trope and turns it into something that feels entirely  <a href="https://locusmag.com/2025/01/model-home-by-rivers-solomon-review-by-gabino-iglesias/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/model-home-by-rivers-solomon-review-by-gabino-iglesias/>
 
 ---
 

@@ -1,11 +1,42 @@
 ---
 title: craft
-updated: 2025-01-21 07:06:57
+updated: 2025-01-22 07:06:00
 ---
 
 # craft
 
-(date: 2025-01-21 07:06:57)
+(date: 2025-01-22 07:06:00)
+
+---
+
+## New Maiwa Clothing — Winter Handweaves — The Heart of Artisan Cloth
+
+date: 2025-01-21, updated: 2025-01-21, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2025/01/new-maiwa-clothing-winter-handweaves.html>
+
+---
+
+## Project Phoenix: VI........Completed!
+
+date: 2025-01-21, from: A Luthier's blog
+
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/jXZxUvSbf2w" width="320" youtube-src-id="jXZxUvSbf2w"></iframe></div><div class="separator" style="clear: both; text-align: justify;"><span style="background-color: black; text-align: left;"><span style="color: white;">Project Phoenix, the remaking of an archtop acoustic guitar
+that I made in 1977 into a semi-acoustic bass, is now complete. It’s been quite
+a journey but I’m extremely happy with the outcome. Have a look for yourself
+and many thanks for your support.</span></span></div><p></p>
+
+<p class="MsoNormal"><o:p><span style="background-color: black; color: white;">&nbsp;</span></o:p></p>
+
+<p class="MsoNormal"><br /></p> 
+
+<br> 
+
+<https://guitar-maker.blogspot.com/2025/01/project-phoenix-vicompleted.html>
 
 ---
 

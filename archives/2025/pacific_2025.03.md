@@ -1,11 +1,565 @@
 ---
 title: pacific
-updated: 2025-01-21 07:06:53
+updated: 2025-01-22 07:05:56
 ---
 
 # pacific
 
-(date: 2025-01-21 07:06:53)
+(date: 2025-01-22 07:05:56)
+
+---
+
+## Hustace the featured speaker at League of Women Voters event
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>The public is invited to the next general meeting of the League of Women Voters of Hawaii County for a conversation with James Hustace, Hawaii County Council member for District 9 (North and South Kohala).</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/community/hustace-the-featured-speaker-at-league-of-women-voters-event/>
+
+---
+
+## Renaissance instruments, music on tap for Hilo
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Concert Society&#8217;s next presentation features music written three to five centuries ago, performed by a trio whose unusual name evokes the elements that bring to life the ancient instruments that they play.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/entertainment/renaissance-instruments-music-on-tap-for-hilo/>
+
+---
+
+## Botanical Garden at UH-Hilo achieves accreditation
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>The University of Hawaii at Hilo has announced that its Botanical Garden has received official accreditation from Botanic Gardens Conservation International, the largest plant conservation network worldwide, which is dedicated to preventing plant extinctions and promoting sustainability through collaboration with botanical gardens.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/community/botanical-garden-at-uh-hilo-achieves-accreditation/>
+
+---
+
+## ‘Cirque de Chocolate’ in Waikoloa
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>KOHALA COAST &#8212; Step right up, ladies and gentlemen, to the &#8220;Cirque de Chocolate &#8212; A Whimsical World of Chocolate Wonders&#8221; at the 12th Big Island Chocolate Festival, April 10-12 at the Waikoloa Beach Marriott Resort &#38;Spa.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/entertainment/cirque-de-chocolate-in-waikoloa/>
+
+---
+
+## Judge stops justice dept. from releasing report on Trump documents case
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A federal judge in Florida stopped the Justice Department on Tuesday from releasing to Congress a potentially damning section of a report by former special counsel Jack Smith detailing his lengthy investigation of President Donald Trump&#8217;s mishandling of classified documents.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/nation-world-news/judge-stops-justice-dept-from-releasing-report-on-trump-documents-case/>
+
+---
+
+## Xi and Putin discuss relations with Trump, Ukraine and Taiwan
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>MOSCOW/BEIJING &#8212; Russian President Vladimir Putin and Chinese President Xi Jinping discussed on Tuesday how to build ties with Donald Trump, prospects for a peace deal to end the war in Ukraine and Moscow&#8217;s firm support for Beijing&#8217;s position on Taiwan.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/nation-world-news/xi-and-putin-discuss-relations-with-trump-ukraine-and-taiwan/>
+
+---
+
+## Panama alerts United Nations to Trump’s inaugural remarks
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>Panama submitted a formal letter to U.N. Secretary-General Ant&#0243;nio Guterres and the U.N. Security Council on Monday, rejecting comments that President Donald Trump made about reclaiming the Panama Canal during his inauguration speech.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/nation-world-news/panama-alerts-united-nations-to-trumps-inaugural-remarks/>
+
+---
+
+## 2 Americans held in Afghanistan are freed in prisoner swap
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; In one of its final acts, the Biden administration secured the release of two Americans held in Afghanistan in a prisoner swap for a Taliban member imprisoned in the United States on narcotics charges.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/nation-world-news/2-americans-held-in-afghanistan-are-freed-in-prisoner-swap/>
+
+---
+
+## Rare snowstorm blankets Houston and New Orleans in white
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>HOUSTON &#8212; A rare winter storm churned across the U.S. Gulf Coast on Tuesday, bringing heavy snow, ice and wind gusts to a region where flurries are unusual, while much of the United States remained in a dangerous deep freeze.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/nation-world-news/rare-snowstorm-blankets-houston-and-new-orleans-in-white/>
+
+---
+
+## Hawaii chicken farmers asked to guard against bird flu
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>Federal, state and county agencies are urging chicken farmers to take precautionary measures against the potential spread of highly pathogenic avian influenza, or bird flu.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/hawaii-news/hawaii-chicken-farmers-asked-to-guard-against-bird-flu/>
+
+---
+
+## Green wants combination of ways to address fireworks, climate change
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>Following his third State of the State address on Tuesday, Gov. John Green offered new details on his ideas for tackling two of the state&#8217;s biggest challenges outside of affordable housing: clamping down on illegal fireworks with citations similar to speeding tickets and felony charges for injuries or death, and finding the money to continue fighting climate change.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/hawaii-news/green-wants-combination-of-ways-to-address-fireworks-climate-change/>
+
+---
+
+## W. Hawaii residents urge crackdown on ‘predatory paid parking providers’
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>West Hawaii residents are pleading for Hawaii County to intervene against extreme parking prices in Kailua-Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/hawaii-news/w-hawaii-residents-urge-crackdown-on-predatory-paid-parking-providers/>
+
+---
+
+## School preps new plan for a campus in Kaumana
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>Connections Public Charter School officials, twice rebuffed for their plans to build a campus on 70-plus acres of leased state land in Kaumana, are set to submit a scaled-down proposal for a 15-acre campus.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/hawaii-news/school-preps-new-plan-for-a-campus-in-kaumana/>
+
+---
+
+## 22 states sue to stop Trump’s birthright citizenship order
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>Attorneys general from 22 states sued President Donald Trump in two federal district courts on Tuesday to block an executive order that refuses to recognize as citizens the U.S.-born children of immigrants in the country illegally, the opening salvo in what promises to be a long legal battle over the Trump administration&#8217;s immigration policies.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/nation-world-news/22-states-sue-to-stop-trumps-birthright-citizenship-order/>
+
+---
+
+## Trump announces $100 billion AI initiative
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump on Tuesday announced a joint venture among OpenAI, SoftBank and Oracle to create at least $100 billion in computing infrastructure to power artificial intelligence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/nation-world-news/trump-announces-100-billion-ai-initiative/>
+
+---
+
+## Rubio oversees halt to foreign aid and meets with Asian diplomats on Day 1
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Secretary of State Marco Rubio walked into the State Department on Tuesday for the first time in his new job, taking the reins of the main agency carrying out U.S. foreign policy at a time of violent global crises and as other nations begin engaging with President Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/nation-world-news/rubio-oversees-halt-to-foreign-aid-and-meets-with-asian-diplomats-on-day-1/>
+
+---
+
+## Judges begin freeing Jan. 6 defendants and dismissing their cases
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; One day after President Donald Trump issued a legal reprieve to all of the nearly 1,600 people charged in connection with the attack on the Capitol on Jan. 6, 2021, some of the defendants started having their cases dismissed or even began to be released from custody.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/nation-world-news/judges-begin-freeing-jan-6-defendants-and-dismissing-their-cases/>
+
+---
+
+## Admiral Fagan is fired as Coast Guard commandant
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration fired the commandant of the U.S. Coast Guard, Adm. Linda L. Fagan, within 24 hours of President Donald Trump&#8217;s inauguration. The admiral, who was sworn in as the service chief on June 1, 2022, was the first female officer to lead a branch of the American armed forces.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/nation-world-news/admiral-fagan-is-fired-as-coast-guard-commandant/>
+
+---
+
+## 25 UH Mānoa student-athletes awarded academic honors
+
+date: 2025-01-22, from: University of Hawaiʻi News
+
+<p>13 athletes from women’s soccer, seven from women’s volleyball and five from cross country were recognized for their academic excellence.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/21/fall-2024-academic-all-big-west-honors/">25 <abbr>UH</abbr> Mānoa student-athletes awarded academic honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/21/fall-2024-academic-all-big-west-honors/>
+
+---
+
+## Venomous aquatic species pose growing risk to coastal communities
+
+date: 2025-01-22, from: University of Hawaiʻi News
+
+<p>A <abbr>UH</abbr> study highlights the growing threat of venomous aquatic species to tropical coastal communities.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/21/venomous-aquatic-species-pose-growing-risk/">Venomous aquatic species pose growing risk to coastal communities</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/21/venomous-aquatic-species-pose-growing-risk/>
+
+---
+
+## Top cancer experts to convene for Weinman Symposium
+
+date: 2025-01-22, from: University of Hawaiʻi News
+
+<p>Global experts convene at <abbr>UH</abbr> Cancer Center’s Weinman Symposium to share groundbreaking cancer research, January 22-24.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/21/16th-annual-weinman-symposium/">Top cancer experts to convene for Weinman Symposium</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/21/16th-annual-weinman-symposium/>
+
+---
+
+## Visaya earns 2nd Big West tennis Player of the Week
+
+date: 2025-01-22, from: University of Hawaiʻi News
+
+<p>Azuma Visaya earned his second-straight honor after winning a pair of No.1 singles matches against Arkansas.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/21/visaya-2nd-bw-player-week/">Visaya earns 2nd Big West tennis Player of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/21/visaya-2nd-bw-player-week/>
+
+---
+
+## AG recommends Governors' Office front yard as staging site for Guam's homeless 
+
+date: 2025-01-22, from: Pacific Island Times
+
+This is central to Moylan's “Dignity Project,” an initiative that aims to give a helping hand to Guam’s homeless. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/ag-recommends-governors-office-front-yard-as-staging-site-for-guam-s-homeless>
+
+---
+
+## Hawaiian Word of the Week: Puke
+
+date: 2025-01-22, from: University of Hawaiʻi News
+
+<p>Puke&#8212;Books, volume.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/21/hawaiian-word-of-the-week-puke/">Hawaiian Word of the Week: Puke</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/21/hawaiian-word-of-the-week-puke/>
+
+---
+
+## UH Community Colleges lower summer school tuition
+
+date: 2025-01-21, from: University of Hawaiʻi News
+
+<p>UH Community Colleges offer summer tuition at $131 per credit, helping students save and graduate faster.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/21/uh-community-colleges-lower-summer-school-tuition/"><abbr>UH</abbr> Community Colleges lower summer school tuition</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/21/uh-community-colleges-lower-summer-school-tuition/>
+
+---
+
+## UH Mānoa physics research makes waves in Quanta
+
+date: 2025-01-21, from: University of Hawaiʻi News
+
+<p>This work could lead to smarter, more energy-efficient technologies and a better understanding of how to handle uncertainty in decision-making.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/21/physics-research-featured-in-quanta/"><abbr>UH</abbr> Mānoa physics research makes waves in Quanta</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/21/physics-research-featured-in-quanta/>
+
+---
+
+## Free mental health counseling, crisis support for UH Mānoa students
+
+date: 2025-01-21, from: University of Hawaiʻi News
+
+<p>The Counseling and Student Development Center offers an array of programs dedicated to serving the needs of <abbr>UH</abbr> Mānoa students.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/21/free-mental-health-counseling-2025/">Free mental health counseling, crisis support for <abbr>UH</abbr> Mānoa students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/21/free-mental-health-counseling-2025/>
+
+---
+
+## Women, children’s hospital eyed at Ypao Point
+
+date: 2025-01-21, from: Pacific Island Times
+
+A $200 million, 50-bed hospital for women and children may soon rise at Ypao Point in Guam.
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/women-children-s-hospital-eyed-at-ypao-point>
+
+---
+
+## Letter to the editor: The state of Guam's EMS response
+
+date: 2025-01-21, from: Pacific Island Times
+
+By Daren Burrier   When I assumed the acting fire chief position, there were four available ambulances. Today, there are six, with more... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/letter-to-the-editor-the-state-of-guam-s-ems-response>
+
+---
+
+## Biden honors UH professor for research excellence
+
+date: 2025-01-21, from: University of Hawaiʻi News
+
+<p>Noa Lincoln was awarded the Presidential Early Career Award for Scientists and Engineers by former President Joe Biden.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/21/noa-lincoln-pecase-award/">Biden honors <abbr>UH</abbr> professor for research excellence</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/21/noa-lincoln-pecase-award/>
+
+---
+
+## New mural at UH Hilo honors endangered native bird
+
+date: 2025-01-21, from: University of Hawaiʻi News
+
+<p>The artwork features the Hawaiian honeycreeper <span aria-label="akiapolaau">&#699;akiap&#333;l&#257;&#699;au</span>, a species with a population of fewer than 2,000 remaining in the wild.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/21/endangered-native-bird-mural/">New mural at <abbr>UH</abbr> Hilo honors endangered native bird</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/21/endangered-native-bird-mural/>
+
+---
+
+## KĀKOU: Hawai‘i’s Town Hall The Challenges of Alzheimers
+
+date: 2025-01-21, from: KĀKOU: Hawaiʻi’s Town Hall
+
+<p>PBS Hawai‘i is assembling a panel of experts and community members to discuss this important topic, The Challenges of Alzheimer’s.</p>
+<p>The post <a href="https://www.pbshawaii.org/the-challenges-of-alzheimers/">KĀKOU: Hawai‘i’s Town Hall &lt;br/&gt;The Challenges of Alzheimers</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/the-challenges-of-alzheimers/>
+
+---
+
+## Cruz says EAGI will work diligently on governor’s nominees
+
+date: 2025-01-21, updated: 2025-01-22, from: Marianas Variety
+
+SENATOR Frank Q. Cruz, the new chair of the Senate Committee on Executive Appointments and Government Investigations, on Tuesday said the EAGI will work diligently on the nominees of Gov. Arnold I. Palacios. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cruz-says-eagi-will-work-diligently-on-governor-s-nominees/article_b8d30992-d7b4-11ef-bf2a-338508d86d1d.html>
+
+---
+
+## Court awards former tenant over $8K in damages
+
+date: 2025-01-21, updated: 2025-01-22, from: Marianas Variety
+
+SUPERIOR Court Associate Judge Teresa Kim-Tenorio found USRN LLC, doing business as Golden Park Apartments, liable to pay its former tenant, Amy Faith Castro Reyes, a total of $8,205.20 in damages. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/court-awards-former-tenant-over-8k-in-damages/article_66e71e80-d7e0-11ef-8fc4-93346ebc92a5.html>
+
+---
+
+## Korea Junior Big Band holds free concert
+
+date: 2025-01-21, updated: 2025-01-22, from: Marianas Variety
+
+THE Korea Junior Big Band held a free concert for Kagman Elementary School students on Friday. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/korea-junior-big-band-holds-free-concert/article_0b3618c0-d7e0-11ef-87c7-9bb2ed8a5d57.html>
+
+---
+
+## Secure Article 12, secure my roots for the generations to come after me
+
+date: 2025-01-21, updated: 2025-01-22, from: Marianas Variety
+
+RECENTLY, our family buried my father. I noticed that the government has not invested in local infrastructure. What will you do to reinvest with we the people of the CNMI now that you have shunned your first investors who have been serving the CNMI for ages? 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/secure-article-12-secure-my-roots-for-the-generations-to-come-after-me/article_ff5fad30-d7a4-11ef-8fe6-ff61c327d9bd.html>
+
+---
+
+## OIA launches series of on-island biosecurity trainings for territories
+
+date: 2025-01-21, updated: 2025-01-22, from: Marianas Variety
+
+HAGÅTÑA (Interior Department) — The Assistant Secretary for Insular and International Affairs Carmen G. Cantor on Guam applauded the first of a series of on-island biosecurity trainings in the U.S. territories this year in 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/oia-launches-series-of-on-island-biosecurity-trainings-for-territories/article_388b9d28-d7a3-11ef-a05f-a7168266a8cd.html>
+
+---
+
+## Amata joins Interior’s Haaland for signing ceremony
+
+date: 2025-01-21, updated: 2025-01-22, from: Marianas Variety
+
+WASHINGTON, D.C. (Office of the American Samoa Congressional Delegate) — U.S. Congresswoman Aumua Amata joined outgoing Secretary of the Interior Deb Haaland at the Department of the Interior headquarters in Washington, D.C., on Thursday for the signing of a decision memorandum so that American Samoa can implement constitutional amendments. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/amata-joins-interior-s-haaland-for-signing-ceremony/article_c269b260-d7a2-11ef-b258-1fa771d065f3.html>
+
+---
+
+## MVA general membership meeting on Jan. 23
+
+date: 2025-01-21, updated: 2025-01-22, from: Marianas Variety
+
+THE Marianas Visitors Authority will hold its biannual general membership meeting on Jan. 23, 2025, at Kensington Hotel Saipan in San Roque at 10 a.m. Registration will open at 9:30 a.m. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/mva-general-membership-meeting-on-jan-23/article_644555e0-d7a2-11ef-a478-ffe0540369ca.html>
+
+---
+
+## ‘Open Socrates’ shows why philosophy isn’t a spectator sport
+
+date: 2025-01-21, updated: 2025-01-22, from: Marianas Variety
+
+(AP) — During a time when many are complaining about divisiveness in politics and in society, it seems counterintuitive for a book to make the case that we need to argue more. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/open-socrates-shows-why-philosophy-isn-t-a-spectator-sport/article_062a7f00-d7eb-11ef-a9e7-d7976de5a7bd.html>
+
+---
+
+## After inauguration, Trump signs orders in front of a cheering crowd
+
+date: 2025-01-21, updated: 2025-01-22, from: Marianas Variety
+
+WASHINGTON (Reuters) — Donald Trump moved swiftly to impose his will on the U.S. government as he reclaimed the presidency on Monday, taking steps to curb immigration, slash environmental regulations and withdraw from an international climate treaty. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/after-inauguration-trump-signs-orders-in-front-of-a-cheering-crowd/article_415908cc-d7a4-11ef-b28e-23f219c20b73.html>
+
+---
+
+## MHS hosts Hustle N’ Tussle 6th Annual Extreme Raider Competition
+
+date: 2025-01-21, updated: 2025-01-22, from: Marianas Variety
+
+THE JROTC cadets from the Dolphin Battalion participated in the 6th Annual Extreme Raider Competition or ERC, Hustle N’ Tussle, at Marianas High School on Jan. 11, 2025. Raiders provide cadets with the experience of intense training for a challenging and exciting competition. It places a strong emphasis on cadet growth in leadership, teamwork, and camaraderie. ERC is a highly physical, all-day, multi-event competition designed to challenge cadets through a series of physically demanding events to test strength, endurance, and mental toughness. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/mhs-hosts-hustle-n-tussle-6th-annual-extreme-raider-competition/article_6e02856e-d7a0-11ef-9276-ef6c40456b73.html>
 
 ---
 

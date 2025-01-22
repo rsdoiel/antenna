@@ -1,11 +1,187 @@
 ---
 title: food
-updated: 2025-01-21 07:06:57
+updated: 2025-01-22 07:05:59
 ---
 
 # food
 
-(date: 2025-01-21 07:06:57)
+(date: 2025-01-22 07:05:59)
+
+---
+
+## I Need Cozy Winter Recipes
+
+date: 2025-01-22, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris Jesse and Shilpa inspire listeners to lean into cozy winter cooking. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-cozy-winter-recipes>
+
+---
+
+## Study: Coffee Extends Its Lead as Top US Caffeine Source
+
+date: 2025-01-22, from: Daily Coffee News
+
+<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-620x415.jpg" class="attachment-large size-large wp-post-image" alt="caffeinated beverages" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>People in the United States are consuming more caffeine than they were a decade ago, with coffee extending its grasp as the dominant dietary source of stimulant, according to a... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/22/study-coffee-extends-its-lead-as-top-us-caffeine-source/>
+
+---
+
+## Stray Cat Coffee Finds a Home in Baker City, Oregon
+
+date: 2025-01-22, from: Daily Coffee News
+
+<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1-620x420.jpg" class="attachment-large size-large wp-post-image" alt="Screenshot" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1-620x420.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1-768x520.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1.jpg 959w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new roasting company in Eastern Oregon&#8217;s Baker City called Stray Cat Coffee is scratching its way into homes and local businesses. Inside a purpose-built 300-square-foot home addition, Stray Cat... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/22/stray-cat-coffee-finds-a-home-in-baker-city-oregon/>
+
+---
+
+## Meet The Anticline, A New $650 Coffee Maker That Fuses Modern Art With The Moka Pot
+
+date: 2025-01-22, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The award-winning Anticline stove top espresso maker by Cultivation Objects. 
+
+<br> 
+
+<https://sprudge.com/meet-the-anticline-a-new-650-coffee-maker-that-fuses-modern-art-with-the-moka-pot-270213.html>
+
+---
+
+## Spanish Shrimp and Rice with Saffron Mayo
+
+date: 2025-01-22, from: Bon Appetet
+
+Use the dregs of that jar of marinara in your fridge to cook rice and shrimp in this one-skillet weeknight dinner. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/spanish-shrimp-and-rice-with-saffron-mayo>
+
+---
+
+## The Mocktail Movement Comes to Coffee Shops
+
+date: 2025-01-22, from: The Fresh Cup
+
+<p>More people are opting for low and no alcohol drinks, and with the right tools, coffee shops can welcome a whole new crowd of mocktail enthusiasts. </p>
+<p>The post <a href="https://freshcup.com/the-mocktail-movement-comes-to-coffee-shops/">The Mocktail Movement Comes to Coffee Shops</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/the-mocktail-movement-comes-to-coffee-shops/>
+
+---
+
+## Breakfast Tostadas
+
+date: 2025-01-22, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/breakfast-tostadas/"><img title="breakfast-tostadas-small-6" src="https://www.isabeleats.com/wp-content/uploads/2025/01/breakfast-tostadas-small-6-400x600.jpg" alt="Breakfast tostadas" width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Breakfast tostadas made with creamy refried beans and fluffy Mexican scrambled eggs on a crispy tostada shell piled high with fresh toppings like queso fresco and avocado. This easy breakfast recipe comes together in minutes and is perfect for weekends and brunch! Breakfast tostadas are one of my favorite ways to switch up my morning [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/breakfast-tostadas/>
+
+---
+
+## Dairy Queen Is About to Drop a Gorgeous Red Velvet Blizzard
+
+date: 2025-01-21, from: Taste of Home
+
+<p>This beauty will arrive at Dairy Queen right on time for Valentine's Day.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/dairy-queen-red-velvet-blizzard/">Dairy Queen Is About to Drop a Gorgeous Red Velvet Blizzard</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/dairy-queen-red-velvet-blizzard/>
+
+---
+
+## How Trump's Tariff Threats Will Affect the Wine and Spirits Industry and Consumers
+
+date: 2025-01-21, from: Bon Appetet
+
+A breakdown of what you need to know. 
+
+<br> 
+
+<https://www.bonappetit.com/story/trump-tariffs-wine-and-spirits-2025>
+
+---
+
+## Air-Popped Popcorn
+
+date: 2025-01-21, from: Taste of Home
+
+If you want to enjoy popcorn as a wholesome snack, you should probably learn how to make air-popped popcorn. We'll show you how—with and without an air popper. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/air-popped-popcorn/>
+
+---
+
+## The Sprudge Guide To Coffee In Lower Manhattan
+
+date: 2025-01-21, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. A coffee guide to Lower Manhattan in New York City, New York. 
+
+<br> 
+
+<https://sprudge.com/the-sprudge-guide-to-coffee-in-lower-manhattan-262138.html>
+
+---
+
+## Indiana’s Copper Moon Coffee Sues Cleveland Coffee Shop Following TikTok Moment
+
+date: 2025-01-21, from: Daily Coffee News
+
+<div><img width="620" height="390" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans-620x390.jpg" class="attachment-large size-large wp-post-image" alt="coffee beans" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans-620x390.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans-300x189.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans-150x94.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans-768x483.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Lafayette, Indiana-based coffee roasting company Copper Moon Coffee is suing a Cleveland cafe by the name of The Copper Moon, saying a viral TikTok video caused confusion between the two businesses.  
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/21/indianas-copper-moon-coffee-sues-cleveland-coffee-shop-following-tiktok-moment/>
+
+---
+
+## Coffee Price Volatility Harms the Mental Health of Farmers
+
+date: 2025-01-21, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Vietnam-coffee-1-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Vietnam coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Vietnam-coffee-1-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Vietnam-coffee-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Vietnam-coffee-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Vietnam-coffee-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Vietnam-coffee-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Coffee is a drink that punctuates many of our lives.&#160;Millions of us&#160;depend on this dark liquid to start the morning, or to break up the day. It has also become... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/21/coffee-price-volatility-harms-the-mental-health-of-farmers/>
+
+---
+
+## Matthew Algie and Solidaridad Launch Two-Year Decarbonization Pilot in Honduras
+
+date: 2025-01-21, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Matthew-Algie-Honduras-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Matthew Algie Honduras" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Matthew-Algie-Honduras-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Matthew-Algie-Honduras-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Matthew-Algie-Honduras-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Matthew-Algie-Honduras-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Matthew-Algie-Honduras.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Through a partnership with the farmer-focused civil society organization Solidaridad Network, Scottish coffee roasting company Matthew Algie is launching a decarbonization pilot project focused on Honduras. The Glasgow-based coffee company... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/21/matthew-algie-and-solidaridad-launch-two-year-decarbonization-pilot-in-honduras/>
 
 ---
 
@@ -20,6 +196,18 @@ date: 2025-01-21, from: Taste of Home
 <br> 
 
 <https://www.tasteofhome.com/article/what-does-the-a-stand-for-in-chick-fil-a/>
+
+---
+
+## Clean Your Jewelry With Your Espresso Machine
+
+date: 2025-01-21, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The steam wand for a steam clean. 
+
+<br> 
+
+<https://sprudge.com/clean-your-jewelry-with-your-espresso-machine-269939.html>
 
 ---
 
@@ -77,7 +265,7 @@ Cheeseburger casserole is a one-pot recipe that combines elbow macaroni with all
 
 date: 2025-01-20, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-farm-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee farm" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-farm-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-farm-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-farm-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-farm-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-farm.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Green Climate Fund recently signed off on an approximately $2 million grant to support the design of an ambitious multi-year coffee sustainability program led by the nonprofit Conservation International... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-farm-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee farm" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-farm-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-farm-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-farm-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-farm-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-farm.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The Green Climate Fund recently signed off on an approximately $2 million grant to support the design of an ambitious multi-year coffee sustainability program led by the nonprofit Conservation International... 
 
 <br> 
 
@@ -151,7 +339,7 @@ Freezer-friendly—and always a big hit with family and friends.
 
 ---
 
-## Nothing Can Prepare You for Birth—But Try Making Wontons
+## Nothing Can Prepare You for Birth—but Try Making Wontons
 
 date: 2025-01-20, from: Bon Appetet
 
@@ -211,7 +399,19 @@ date: 2025-01-20, from: Isebel Eats
 
 ---
 
-## 61 Super Bowl Snacks That’ll Win the Appetizer Game
+## Copycat Dunkin’ Cookie Butter Cold Brew
+
+date: 2025-01-20, from: Taste of Home
+
+This copycat Dunkin' cookie butter cold brew recipe tastes just like the original! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/copycat-dunkin-cookie-butter-cold-brew/>
+
+---
+
+## 61 Super Bowl Snacks That'll Win the Appetizer Game
 
 date: 2025-01-19, from: Bon Appetet
 

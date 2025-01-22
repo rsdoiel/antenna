@@ -1,11 +1,354 @@
 ---
 title: home
-updated: 2025-01-21 07:06:56
+updated: 2025-01-22 07:05:58
 ---
 
 # home
 
-(date: 2025-01-21 07:06:56)
+(date: 2025-01-22 07:05:58)
+
+---
+
+## How They Pulled It Off: Bringing Daylight Into a Dark San Francisco Victorian
+
+date: 2025-01-22, from: Dwell
+
+Butler Armsden Architects devised some clever interventions that brightened up the historic townhome's interior. 
+
+<br> 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-bringing-daylight-into-a-dark-san-francisco-victorian-5405026f>
+
+---
+
+## How to Grow and Use Chinese Broccoli
+
+date: 2025-01-22, from: The Gardener's Path
+
+<p>Looking for a new leafy green vegetable to grow this season? Chinese broccoli is a quick-growing crop similar to broccoli, but with tender shoots and a more distinct bittersweet flavor. All parts of this plant are edible, including the stalks, leaves, and florets. Read on to learn more about growing Chinese broccoli.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-chinese-broccoli/">How to Grow and Use Chinese Broccoli</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-chinese-broccoli/>
+
+---
+
+## What Do Deer Eat? Discover the Secrets of Their Diet
+
+date: 2025-01-22, from: Yard Life blog
+
+<p>Deer are one of the most widely recognized mammals in the wild, known for their graceful movements, large eyes, and ... </p>
+<p class="read-more-container"><a title="What Do Deer Eat? Discover the Secrets of Their Diet" class="read-more button" href="https://ownyardlife.com/what-do-deer-eat-discover-the-secrets-of-their-diet/#more-22786" aria-label="Read more about What Do Deer Eat? Discover the Secrets of Their Diet">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-do-deer-eat-discover-the-secrets-of-their-diet/">What Do Deer Eat? Discover the Secrets of Their Diet</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-do-deer-eat-discover-the-secrets-of-their-diet/>
+
+---
+
+## What Do Ladybugs Eat? Discover Their Surprising Diet
+
+date: 2025-01-22, from: Yard Life blog
+
+<p>Ladybugs, also known as ladybirds or lady beetles, are among the most beloved and beneficial insects in gardens worldwide. Their ... </p>
+<p class="read-more-container"><a title="What Do Ladybugs Eat? Discover Their Surprising Diet" class="read-more button" href="https://ownyardlife.com/what-do-ladybugs-eat-discover-their-surprising-diet/#more-22783" aria-label="Read more about What Do Ladybugs Eat? Discover Their Surprising Diet">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-do-ladybugs-eat-discover-their-surprising-diet/">What Do Ladybugs Eat? Discover Their Surprising Diet</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-do-ladybugs-eat-discover-their-surprising-diet/>
+
+---
+
+## All About the Teacup Chihuahua: The Adorable and Tiny Dog Breed
+
+date: 2025-01-22, from: Yard Life blog
+
+<p>The Teacup Chihuahua is one of the most recognizable and adored dog breeds worldwide due to its miniature size and ... </p>
+<p class="read-more-container"><a title="All About the Teacup Chihuahua: The Adorable and Tiny Dog Breed" class="read-more button" href="https://ownyardlife.com/all-about-the-teacup-chihuahua-the-adorable-and-tiny-dog-breed/#more-22780" aria-label="Read more about All About the Teacup Chihuahua: The Adorable and Tiny Dog Breed">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/all-about-the-teacup-chihuahua-the-adorable-and-tiny-dog-breed/">All About the Teacup Chihuahua: The Adorable and Tiny Dog Breed</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/all-about-the-teacup-chihuahua-the-adorable-and-tiny-dog-breed/>
+
+---
+
+## 21 Types of Eggplants with Pictures and Care Guide
+
+date: 2025-01-22, from: Yard Life blog
+
+<p>Eggplants, also known as aubergines, are a staple in many cuisines worldwide. With their vibrant colors, unique shapes, and versatile ... </p>
+<p class="read-more-container"><a title="21 Types of Eggplants with Pictures and Care Guide" class="read-more button" href="https://ownyardlife.com/21-types-of-eggplants-with-pictures-and-care-guide/#more-22758" aria-label="Read more about 21 Types of Eggplants with Pictures and Care Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/21-types-of-eggplants-with-pictures-and-care-guide/">21 Types of Eggplants with Pictures and Care Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/21-types-of-eggplants-with-pictures-and-care-guide/>
+
+---
+
+## Lupine Flowers Care and Growing Guide (Most Detailed)
+
+date: 2025-01-22, from: Yard Life blog
+
+<p>Lupine flowers, also known as Lupinus, are beloved for their tall spires of vibrant blooms and their ability to add ... </p>
+<p class="read-more-container"><a title="Lupine Flowers Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/lupine-flowers-care-and-growing-guide-most-detailed/#more-22754" aria-label="Read more about Lupine Flowers Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/lupine-flowers-care-and-growing-guide-most-detailed/">Lupine Flowers Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/lupine-flowers-care-and-growing-guide-most-detailed/>
+
+---
+
+## Queen Victoria Agave (Agave victoriae-reginae) Care and Growing Guide
+
+date: 2025-01-22, from: Yard Life blog
+
+<p>Queen Victoria Agave (Agave victoriae-reginae) is a stunning succulent prized for its compact form and striking appearance. Native to the ... </p>
+<p class="read-more-container"><a title="Queen Victoria Agave (Agave victoriae-reginae) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/queen-victoria-agave-agave-victoriae-reginae-care-and-growing-guide/#more-22751" aria-label="Read more about Queen Victoria Agave (Agave victoriae-reginae) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/queen-victoria-agave-agave-victoriae-reginae-care-and-growing-guide/">Queen Victoria Agave (Agave victoriae-reginae) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/queen-victoria-agave-agave-victoriae-reginae-care-and-growing-guide/>
+
+---
+
+## Caribbean agave (Agave angustifolia) Care and Growing Guide
+
+date: 2025-01-22, from: Yard Life blog
+
+<p>The Caribbean agave (Agave angustifolia), often celebrated for its striking architectural form and low-maintenance nature, is a favorite among gardeners ... </p>
+<p class="read-more-container"><a title="Caribbean agave (Agave angustifolia) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/caribbean-agave-agave-angustifolia-care-and-growing-guide/#more-22747" aria-label="Read more about Caribbean agave (Agave angustifolia) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/caribbean-agave-agave-angustifolia-care-and-growing-guide/">Caribbean agave (Agave angustifolia) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/caribbean-agave-agave-angustifolia-care-and-growing-guide/>
+
+---
+
+## Can You Eat Kale That Has Turned Yellow?
+
+date: 2025-01-22, from: The Gardener's Path
+
+<p>Kale comes in several varieties, ranging in color from light green to deep purple. But when the leaves start turning yellow, you may be wondering if they’re safe to eat. To learn more about why your leaves may have changed color and whether you can still eat kale that has turned yellow, read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/eat-yellow-kale/">Can You Eat Kale That Has Turned Yellow?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/eat-yellow-kale/>
+
+---
+
+## 8 Japandi Decor Ideas to Transform Your Home
+
+date: 2025-01-21, from: Family Handyman Blog
+
+<p>These Japandi rooms will have you craving neutral uncluttered spaces that calm the mind and exude a feeling of comfort.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/japandi-decor-ideas/">8 Japandi Decor Ideas to Transform Your Home</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/japandi-decor-ideas/>
+
+---
+
+## The Pink Kitchen Island in This Belgian Home Is a Cooktop—and a Garden Bench
+
+date: 2025-01-21, from: Dwell
+
+The meal prep-cum-seating unit plays off monsteras and fiddle leaf figs that enliven the open-plan living space. 
+
+<br> 
+
+<https://www.dwell.com/article/patio-house-studio-okami-indoor-garden-pink-brick-34f5bf2d>
+
+---
+
+## What Ever Happened to Laundry Chutes?
+
+date: 2025-01-21, from: Dwell
+
+The fall of the former household staple can be traced to a surprising source: the perceived danger of stairs. 
+
+<br> 
+
+<https://www.dwell.com/article/what-ever-happened-to-laundry-chutes-168a4f34>
+
+---
+
+## Best Ever Cheesecake Recipes Featuring Real California Dairy
+
+date: 2025-01-21, from: California Grown
+
+<p>From classic flavors to creative twists, these cheesecake recipes by California Grown creators showcase the rich, creamy goodness of Real California Dairy. Whether you’re craving fruity, spiced, or decadent chocolate options, this collection has the perfect cheesecake for every occasion. The Best Cherry Cheesecake You Will Ever Make This classic cherry cheesecake is rich, creamy, [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/best-cheesecake-recipes/" data-wpel-link="internal" target="_self">Best Ever Cheesecake Recipes Featuring Real California Dairy</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/best-cheesecake-recipes/>
+
+---
+
+## This $2.5M Midcentury by a Frank Lloyd Wright Apprentice Just Listed for the First Time
+
+date: 2025-01-21, from: Dwell
+
+Designed by Fredrick Liebhardt, the Clark Residence is a perfectly preserved time capsule in San Diego. 
+
+<br> 
+
+<https://www.dwell.com/article/clark-residence-fredrick-liebhardt-homer-delawie-midcentury-san-diego-real-estate-3877912b>
+
+---
+
+## This Is Idaho’s Best-Kept Secret for Outdoor Adventure
+
+date: 2025-01-21, from: Sunset Magazine - Living in the West
+
+Hells Canyon is known for its steep mountain ranges, abundant wildlife, and outdoor adventures. Locals share what to explore in the area. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/things-to-do-salmon-river-hells-canyon-idaho>
+
+---
+
+## Why I Still Believe Prefab Homes Are a Good Idea
+
+date: 2025-01-21, from: Dwell
+
+More than 20 years after I first promoted the building method at Dwell, it has yet to live up to its promise—but it can. 
+
+<br> 
+
+<https://www.dwell.com/article/why-i-still-believe-prefab-homes-are-a-good-idea-a69747b9>
+
+---
+
+## Insider Guides: Places We Love
+
+date: 2025-01-21, from: Sunset Magazine - Living in the West
+
+Use our Insider Guides to browse the hidden gems we love, as featured in Sunset magazine, plus exclusive recommendations from our editors. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides>
+
+---
+
+## 9 Reasons (and Fixes!) for Hellebore Leaves Turning Brown
+
+date: 2025-01-21, from: The Gardener's Path
+
+<p>Hellebores are some of the earliest flowers to appear at the end of winter, a sure sign that spring is on the way. If the leaves of your plants are turning brown, it can be as a result of something simple like too much water or a deadly disease. Learn about nine causes of browning foliage in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/hellebores-brown-leaves/">9 Reasons (and Fixes!) for Hellebore Leaves Turning Brown</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/hellebores-brown-leaves/>
+
+---
+
+## How to Safely Restore Your Edible Garden After a Wildfire
+
+date: 2025-01-21, from: Sunset Magazine - Living in the West
+
+For those returning to their properties, questions about safety linger, especially when it comes to edible gardens. Follow these expert tips. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/edible-gardening/restore-edible-garden-after-wildfire>
+
+---
+
+## 25 Fresh and Comforting Recipes to Cook This January
+
+date: 2025-01-21, from: Sunset Magazine - Living in the West
+
+Everything seems to get a revamp in the new year, even your recipe repertoire. Try these January recipe ideas this month. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/january-recipe-ideas>
+
+---
+
+## A Hilltop Mid-Century Modern Bungalow in Los Angeles Is a Zen Sanctuary
+
+date: 2025-01-21, from: Sunset Magazine - Living in the West
+
+Set atop a hill in Los Angeles, this two bedroom, one-bathroom home had the most spectacular views, but needed some attention and upgrades. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/echo-park-hilltop-bungalow>
+
+---
+
+## This Is What Makes a Home Functional, According to Interior Designers
+
+date: 2025-01-21, from: Sunset Magazine - Living in the West
+
+Everyone wants a functional home, but what exactly does that mean? We asked designers how to achieve functional home design. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/functional-home-design>
+
+---
+
+## Disney California Adventure Is Bringing Back This Nostalgic Ride for a Limited Time
+
+date: 2025-01-21, from: Sunset Magazine - Living in the West
+
+Disney California Adventure is bringing back Soarin' Over California for a limited time this February through April. 
+
+<br> 
+
+<https://www.sunset.com/travel/disney-soarin-over-california-ride-return>
+
+---
+
+## The 4 Drinks to Avoid for Better Sleep
+
+date: 2025-01-21, from: Sunset Magazine - Living in the West
+
+There are specific alcoholic beverages that could affect you more than others. A dietitian and sleep expert shares what to do. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness/how-alcohol-affects-sleep>
+
+---
+
+## Elvis and Priscilla Presley’s Honeymoon House Is for Sale—Take a Peek Inside
+
+date: 2025-01-21, from: Sunset Magazine - Living in the West
+
+The Palm Springs house where newlyweds Elvis and Priscilla Presley honeymooned is on the market for $9.275 million. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/elvis-honeymoon-house-for-sale>
 
 ---
 
@@ -35,6 +378,18 @@ date: 2025-01-21, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/love-in-a-mist-care-and-growing-guide-most-detailed/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-01-21, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -340,7 +695,7 @@ date: 2025-01-20, from: California Grown
 
 date: 2025-01-19, from: California Grown
 
-<p>Nestled in the heart of the Petaluma Gap AVA, Keller Estate is a hidden gem in Sonoma County&#8217;s diverse wine landscape. This family-owned winery, founded by Arturo and Deborah Keller, has evolved from a car enthusiast&#8217;s dream into a thriving business embodying sustainable and regenerative farming.&#160; As the first winery you&#8217;ll encounter on your journey [&#8230;]</p>
+<p>Nestled in the heart of the Petaluma Gap AVA, Keller Estate is a hidden gem in Sonoma County&#8217;s diverse wine landscape. This family-owned winery, founded by Arturo and Deborah Keller, has evolved from a car enthusiast&#8217;s dream into a thriving business that embraces sustainable and regenerative farming.  It is the first winery you&#8217;ll encounter on [&#8230;]</p>
 <p>The post <a href="https://californiagrown.org/blog/keller-estate/" data-wpel-link="internal" target="_self">Keller Estate Is A Hidden Gem in the Petaluma Gap</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
  
 

@@ -1,17 +1,17 @@
 ---
 title: weather
-updated: 2025-01-21 07:06:54
+updated: 2025-01-22 07:05:57
 ---
 
 # weather
 
-(date: 2025-01-21 07:06:54)
+(date: 2025-01-22 07:05:57)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-01-21, from: Eastern Pacific Basin GIS Data
+date: 2025-01-22, from: Eastern Pacific Basin GIS Data
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
@@ -21,15 +21,60 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Tue Jan 21 14:49:01 UTC 2025
+## SPC - No watches are valid as of Wed Jan 22 13:01:01 UTC 2025
 
-date: 2025-01-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Jan 21 14:49:01 UTC 2025. 
+No watches are valid as of Wed Jan 22 13:01:01 UTC 2025. 
 
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Wed Jan 22 13:01:01 UTC 2025
+
+date: 2025-01-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Wed Jan 22 13:01:01 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Jan 22, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-01-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0622 AM CST Wed Jan 22 2025
+
+Valid 221300Z - 231200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+The risk for thunderstorms appears negligible across the U.S. today
+through tonight.
+
+An expansive and cold upper trough remains in place across the
+contiguous United States today, with dry and stable conditions
+precluding thunderstorms.
+
+..Hart/Wendt.. 01/22/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
@@ -139,53 +184,6 @@ LAT...LON   29749396 29999432 30579416 30979267 31019185 30809148
 <br> 
 
 <https://www.spc.noaa.gov/products/md/md0047.html>
-
----
-
-## SPC Jan 21, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-01-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0649 AM CST Tue Jan 21 2025
-
-Valid 211300Z - 221200Z
-
-...NO THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-The risk for thunderstorms appears negligible across the U.S. today
-through tonight.
-
-A large surface high dominates the weather across the CONUS today,
-with cold, dry, and stable conditions preventing thunderstorms.  A
-strengthening surface low off the Gulf coast may provide isolated
-thunderstorms offshore later today and tonight, but lightning
-activity is expected to remain well south of the coast.
-
-..Hart/Wendt.. 01/21/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC - No MDs are in effect as of Mon Jan 20 14:46:02 UTC 2025
-
-date: 2025-01-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Mon Jan 20 14:46:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 

@@ -1,11 +1,301 @@
 ---
 title: going electric
-updated: 2025-01-21 07:06:56
+updated: 2025-01-22 07:05:59
 ---
 
 # going electric
 
-(date: 2025-01-21 07:06:56)
+(date: 2025-01-22 07:05:59)
+
+---
+
+## GM is recalling the Chevy Equinox EV again, but it should be an easy fix this time
+
+date: 2025-01-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/35000-Chevy-Equinox-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chevy’s electric SUV is getting recalled again due to a defect with the adaptive cruise control. GM issued the recall on Wednesday, impacting nearly 3,000 <a href="https://electrek.co/guides/chevy-equinox-ev/">Chevy Equinox EV</a> AWD models. Here’s how they plan to fix it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet-equinox-ev,chevy-equinox-ev,gm" data-layer-viewtype="unknown" data-post-id="398572" href="https://electrek.co/2025/01/22/gm-issues-chevy-equinox-ev-recall-for-nearly-3000-awd-models/#more-398572" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/22/gm-issues-chevy-equinox-ev-recall-for-nearly-3000-awd-models/>
+
+---
+
+## A Tesla Model 3 Was Deep Frozen At -16 Degrees, Then Charged. Here’s How It Went
+
+date: 2025-01-22, from: Inside EVs News
+
+The facelifted Model 3 was left outside in the freezing Canadian winter for roughly six hours before heading off to a Supercharger. 
+
+<br> 
+
+<https://insideevs.com/news/748155/tesla-model-3-freezing-charging/>
+
+---
+
+## How Wildfires Destroyed California’s Insurance Market
+
+date: 2025-01-22, from: Shift Key
+
+<p>The Los Angeles wildfires have killed at least 27 people, destroyed more than 17,000 structures, and displaced tens of thousands. In the next few months, the billions of costs in damage to homes and property will ripple through the state’s insurance market — and likely cause its insurer of last resort to run out of money.</p><br><p><a href="https://real-estate.wharton.upenn.edu/profile/benkeys/" rel="noopener noreferrer" target="_blank">Benjamin Keys</a> has studied how natural disasters, rising sea levels, and increasing exposure to risk have driven up insurance costs nationwide. He is a professor of real estate and finance at the University of Pennsylvania’s Wharton School, and one of the country’s top experts on climate change, home values, and insurance markets.</p><br><p>On this week’s episode of Shift Key, Rob and Jesse talk with Keys about how California broke its insurance market, why insurance costs are rising nationwide, and how homeowners, home buyers, and communities can protect themselves. They dive into President Donald Trump’s dizzying first day of executive actions and how they’ll affect the future of energy development. Shift Key is hosted by Robinson Meyer, the founding executive editor of Heatmap, and Jesse Jenkins, a professor of energy systems engineering at Princeton University.</p><br><p><strong>Mentioned:&nbsp;</strong></p><br><p>Keys’ <a href="https://www.budget.senate.gov/imo/media/doc/Dr.%20Benjamin%20J.%20Keys%20-%20Testimony%20-%20Senate%20Budget%20Committee.pdf" rel="noopener noreferrer" target="_blank">testimony to Senate budget committee</a> about climate risks in the housing system</p><br><p>Keys’ <a href="https://www.nber.org/papers/w32579" rel="noopener noreferrer" target="_blank">research on climate risk in mortgage escrow data</a></p><br><p>This <a href="https://prospect.org/economy/2024-10-15-hurricanes-profit-center-insurers/" rel="noopener noreferrer" target="_blank">pre-wildfire reporting</a> on California’s insurance system and the site of the Eaton Fire</p><br><p><a href="https://heatmap.news/politics/trump-energy-executive-orders" rel="noopener noreferrer" target="_blank">Rob’s downshift</a>; <a href="https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/" rel="noopener noreferrer" target="_blank">Jesse’s downshift</a>.</p><br><p>--</p><p>This episode of Shift Key is sponsored by …</p><br><p><strong>Intersolar &amp; Energy Storage North America</strong>&nbsp;is the premier U.S.-based conference and trade show focused on solar, energy storage, and EV charging infrastructure. To learn more, visit intersolar.us.</p><br><p>Music for Shift Key is by Adam Kromelow.</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p> 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://sphinx.acast.com/p/open/s/65bac3af03341c00164bf93b/e/6790267bd186489b149f2146/media.mp3"></source>
+</audio> <a href="https://sphinx.acast.com/p/open/s/65bac3af03341c00164bf93b/e/6790267bd186489b149f2146/media.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://shows.acast.com/shift-key/episodes/how-wildfires-destroyed-californias-insurance-market>
+
+---
+
+## The Volvo XC40 Recharge Gets A New Name In The U.S. And A Bigger Battery
+
+date: 2025-01-22, from: Inside EVs News
+
+Meanwhile, the coupe-like C40 Recharge goes on a break and will return next year with a new name. 
+
+<br> 
+
+<https://insideevs.com/news/748105/2025-volvo-ex40-rename-xc40-recharge/>
+
+---
+
+## Trump’s first day, Hyundai lease deals, and Volvo’s EVs arrive in the US
+
+date: 2025-01-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/trump_MAIN.jpg?quality=82&#038;strip=all&#038;w=1024" /></div><p>On today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, President Trump has a wild first day in office, but it’s not ALL bad, either. Plus: Tesla gets diner integration, Hyundai keeps the deal train rolling, and it’s dad’s 80th birthday.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,hyundai,quick-charge,volvo" data-layer-viewtype="unknown" data-post-id="398568" href="https://electrek.co/2025/01/21/trumps-first-day-hyundai-lease-deals-and-volvos-evs-arrive-in-the-us/#more-398568" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/21/trumps-first-day-hyundai-lease-deals-and-volvos-evs-arrive-in-the-us/>
+
+---
+
+## Rivian is offering up to $6,000 to upgrade your R1S or R1T
+
+date: 2025-01-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Rivians-legal-battle-Tesla.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Thinking about upgrading your EV? <a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) launched a new promo on Tuesday, offering up to $6,000 to upgrade your R1S or R1T. Here’s how you can snag some savings.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r1s,rivian-r1t" data-layer-viewtype="unknown" data-post-id="398541" href="https://electrek.co/2025/01/21/rivian-offering-6000-upgrade-r1s-r1t/#more-398541" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/21/rivian-offering-6000-upgrade-r1s-r1t/>
+
+---
+
+## Tesla's 'Brand Value' Plummeted By $15 Billion In 2024: Report
+
+date: 2025-01-21, from: Inside EVs News
+
+Tesla's trillion-dollar stock market valuation may sound like a win. But here's another metric that paints a far less rosy picture.  
+
+<br> 
+
+<https://insideevs.com/news/748065/tesla-brand-value-falls-by-15-billion/>
+
+---
+
+## Honda Hasn’t Given Up On Making A Fun Electric Type R
+
+date: 2025-01-21, from: Inside EVs News
+
+Even though Honda has made some of the best hot hatches ever, it’s struggling to infuse “the joys of driving” into an EV. 
+
+<br> 
+
+<https://insideevs.com/news/747905/honda-electric-type-r-project/>
+
+---
+
+## Hyundai IONIQ 5 and IONIQ 9 lose the $7,500 EV tax credit: Here’s how you can still get it
+
+date: 2025-01-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Hyundai-US-made-IONIQ-5-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>In a sudden reversal, Hyundai’s new <a href="https://electrek.co/guides/hyundai-ioniq-5/">IONIQ 5</a> and IONIQ 9 EVs no longer qualify for the $7,500 US tax credit. Although this is a major blow to one of the top-selling EV brands in the US, there is still a way you can get the credit. Here’s how.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5,hyundai-ioniq-9" data-layer-viewtype="unknown" data-post-id="398500" href="https://electrek.co/2025/01/21/hyundai-evs-lose-7500-tax-credit-how-you-can-still-get-it/#more-398500" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/21/hyundai-evs-lose-7500-tax-credit-how-you-can-still-get-it/>
+
+---
+
+## The Polestar 2 Isn't Dead Yet
+
+date: 2025-01-21, from: Inside EVs News
+
+It turns out the Polestar 7 won't completely replace the Polestar 2 after all—and the sedan's successor will be made in Europe. 
+
+<br> 
+
+<https://insideevs.com/news/748069/polestar-2-successor-europe-7/>
+
+---
+
+## Tesla points to diner integration in app, insurance discount with Full Self-Driving, and more
+
+date: 2025-01-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-App-version-4.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla update points to the automaker’s upcoming diner in Los Angeles being integrated into its app, insurance discount for using (Supervised) Full Self-Driving, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="398519" href="https://electrek.co/2025/01/21/tesla-points-to-diner-integration-in-app-insurance-discount-with-full-self-driving-and-more/#more-398519" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/21/tesla-points-to-diner-integration-in-app-insurance-discount-with-full-self-driving-and-more/>
+
+---
+
+## Hiboy winter sale takes 50% off EVs from $200, Rad Power RadWagon 4 cargo e-bike $1,499, EcoFlow DELTA 2 $449, Greenworks, more
+
+date: 2025-01-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Hiboy-S2-Pro-electric-scooter-3.jpg?quality=82&#038;strip=all&#038;w=1201" /></div><p>Today’s Green Deals are headlined by <a href="https://9to5toys.com/2025/01/21/hiboy-winter-sale-s2-pro-450/">Hiboy’s latest winter sale</a> with up to 50% being taken off its EV lineup, like the popular <a href="https://9to5toys.com/2025/01/21/hiboy-winter-sale-s2-pro-450/">S2 Pro Electric Scooter</a> that is down at <a href="https://9to5toys.com/2025/01/21/hiboy-winter-sale-s2-pro-450/">$450</a>, among others. Close behind is <a href="https://9to5toys.com/2025/01/21/rad-power-radwagon-4-e-bike-1499/">Rad Power’s switched-up sale</a> that is still offering extra battery discounts, accessory packages on its newest models, and continued discounts like on the <a href="https://9to5toys.com/2025/01/21/rad-power-radwagon-4-e-bike-1499/">RadWagon 4 Cargo e-bike</a> that is down at <a href="https://9to5toys.com/2025/01/21/rad-power-radwagon-4-e-bike-1499/">$1,499</a>. We also spotted <a href="https://9to5toys.com/2025/01/21/ecoflow-delta-2-449/">EcoFlow’s DELTA 2</a> Portable Power Station skidding lower than the brand’s ongoing New Year sale’s pricing, with it down at <a href="https://9to5toys.com/2025/01/21/ecoflow-delta-2-449/">$449</a> for an unknown time. At the end of things we have a 1-day discount on <a href="https://9to5toys.com/2025/01/21/greenworks-80v-22-inch-snow-blower-400/">Greenworks’ 80V 22-inch Cordless Electric Snow Blower</a> with a 4.0Ah battery at 50% off for <a href="https://9to5toys.com/2025/01/21/greenworks-80v-22-inch-snow-blower-400/">$400</a> – and even an additional discount on a secondary 4.0Ah battery that can fit right into the snow blower’s additional slot. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/01/20/jackery-mlk-sale-from-329/">5-day Jackery sale</a> with select low power station pricing, <a href="https://9to5toys.com/2025/01/20/velotric-go-1-999-low/">Velotric’s Go 1 Utility e-bike</a> hitting $999, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="398509" href="https://electrek.co/2025/01/21/hiboy-winter-sale-rad-power-ecoflow-more/#more-398509" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/21/hiboy-winter-sale-rad-power-ecoflow-more/>
+
+---
+
+## The entire Dallas Cowboys team all just got the same electric motorcycles
+
+date: 2025-01-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/cake-head-endzone.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>There’s riding in style, and then there’s over 80 Dallas Cowboys all cruising around on the same electric motorcycles. Thanks to a generous gift from team quarterback Dak Prescott, that’s exactly what the football team will be doing on over 80 new CAKE Makka electric mopeds.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle" data-layer-viewtype="unknown" data-post-id="398518" href="https://electrek.co/2025/01/21/the-entire-dallas-cowboys-team-all-just-got-the-same-electric-motorcycles/#more-398518" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/21/the-entire-dallas-cowboys-team-all-just-got-the-same-electric-motorcycles/>
+
+---
+
+## China installed a record capacity of solar and wind in 2024 – in numbers
+
+date: 2025-01-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/China-solar-CGTN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>China saw monumental solar and wind growth in 2024, according to data released today by its National Energy Administration (NEA). </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,donald-trump,egeb,energy-brief,solar,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="398492" href="https://electrek.co/2025/01/21/china-solar-wind-2024/#more-398492" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/21/china-solar-wind-2024/>
+
+---
+
+## 2024 Kia EV6 Long-Term Test: Let's Talk Winter Range And Performance
+
+date: 2025-01-21, from: Inside EVs News
+
+There are things my EV6 does exceptionally well when the temperatures get low, even in chilly upstate New York. But the range hit is real. 
+
+<br> 
+
+<https://insideevs.com/news/748019/2024-kia-ev6-winter-update/>
+
+---
+
+## Volvo’s new 2025 EX30 and EX90 electric SUVs arrive in the US: Here’s how much they cost
+
+date: 2025-01-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Volvo-EX30-EX90-prices.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volvo’s cheapest and first three-row electric SUVs are finally here. After much anticipation, Volvo revealed US prices for the new <a href="https://electrek.co/guides/volvo-ex30/">2025 EX30</a> and EX90 EV models on Tuesday. Here’s how much you can snag one for.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo,volvo-ex30,volvo-ex90" data-layer-viewtype="unknown" data-post-id="398477" href="https://electrek.co/2025/01/21/volvo-announces-2025-ex30-ex90-electric-suv-prices/#more-398477" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/21/volvo-announces-2025-ex30-ex90-electric-suv-prices/>
+
+---
+
+## The Chevrolet Silverado EV 4WT Is A Fast-Charging Monster: ‘It’s Insane’
+
+date: 2025-01-21, from: Inside EVs News
+
+In this test, the recharge time is capped at just 15 minutes. But Chevy's work-ready electric truck put on one heck of a show. 
+
+<br> 
+
+<https://insideevs.com/news/748039/chevrolet-silverado-ev-charging-performance/>
+
+---
+
+## Trump attacks EVs with executive orders, but mostly signals further damages
+
+date: 2025-01-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/49955371473_88d5a640e0_b.jpg?quality=82&#038;strip=all&#038;w=1024" /></div><p>President Trump has already attacked electric vehicles with executive orders on his first day, but he is mostly signaling upcoming attacks on EVs that would further damage the environment.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles" data-layer-viewtype="unknown" data-post-id="398465" href="https://electrek.co/2025/01/21/trump-attacks-evs-with-executive-orders-but-mostly-signals-further-damages/#more-398465" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/21/trump-attacks-evs-with-executive-orders-but-mostly-signals-further-damages/>
+
+---
+
+## The world’s largest EV battery maker predicts another big move in Europe in 2025
+
+date: 2025-01-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/CATL-EV-experience.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/catl/">CATL</a> held a commanding lead in the EV battery market last year, accounting for over a third of global usage. The world’s largest EV battery maker expects to announce another big partnership for a new EV plant in Europe by the end of 2025. The new facility will be separate from the one announced last month with Stellantis. Here’s what we know so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="catl" data-layer-viewtype="unknown" data-post-id="398464" href="https://electrek.co/2025/01/21/worlds-largest-ev-battery-maker-predicts-another-big-move-2025/#more-398464" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/21/worlds-largest-ev-battery-maker-predicts-another-big-move-2025/>
+
+---
+
+## General Motors Sounds The Alarm On Trump's Tariffs
+
+date: 2025-01-21, from: Inside EVs News
+
+Plus, Scout issues a stern warning to VW dealers about direct sales, and the VW-Rivian bromance is heating up. 
+
+<br> 
+
+<https://insideevs.com/news/747941/gm-canada-trump-tariffs-uncertainty/>
 
 ---
 

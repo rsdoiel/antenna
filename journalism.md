@@ -1,11 +1,277 @@
 ---
 title: journalism
-updated: 2025-01-21 07:06:55
+updated: 2025-01-22 07:05:58
 ---
 
 # journalism
 
-(date: 2025-01-21 07:06:55)
+(date: 2025-01-22 07:05:58)
+
+---
+
+## Senate hears presentations on sustainability requirement, Buddhist shrine
+
+date: 2025-01-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Over 750 students utilized the Undergraduate Student Government return shuttle.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/22/senate-hears-presentations-on-sustainability-requirement-buddhist-shrine/">Senate hears presentations on sustainability requirement, Buddhist shrine</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/22/senate-hears-presentations-on-sustainability-requirement-buddhist-shrine/>
+
+---
+
+## Classifieds – January 22, 2025
+
+date: 2025-01-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/22/classifieds-january-22-2025/">Classifieds &#8211; January 22, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/22/classifieds-january-22-2025/>
+
+---
+
+## Students vie for Super Bowl ad fame
+
+date: 2025-01-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Keke Palmer and SZA star as broke roommates, racing against the clock to pay their rent.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/22/students-vie-for-super-bowl-ad-fame/">Students vie for Super Bowl ad fame</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/22/students-vie-for-super-bowl-ad-fame/>
+
+---
+
+## Trojans feel impact of LA fires
+
+date: 2025-01-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC students and faculty have lost their homes, cars and more due to the fires.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/22/trojans-feel-impact-of-los-angeles-fires/">Trojans feel impact of LA fires</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/22/trojans-feel-impact-of-los-angeles-fires/>
+
+---
+
+## Illy replaces Starbucks at Trojan Grounds cafe
+
+date: 2025-01-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The revamped interior was completed just in time for the start of the semester. </p>
+<p>The post <a href="https://dailytrojan.com/2025/01/22/illy-replaces-starbucks-at-trojan-grounds-cafe/">Illy replaces Starbucks at Trojan Grounds cafe</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/22/illy-replaces-starbucks-at-trojan-grounds-cafe/>
+
+---
+
+## ‘One of Them Days’ is a hilarious buddy comedy full of heart
+
+date: 2025-01-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Keke Palmer and SZA star as broke roommates, racing against the clock to pay their rent.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/22/one-of-them-days-is-a-hilarious-buddy-comedy-full-of-heart/">‘One of Them Days’ is a hilarious buddy comedy full of heart</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/22/one-of-them-days-is-a-hilarious-buddy-comedy-full-of-heart/>
+
+---
+
+## An unwilling ASMR-tist
+
+date: 2025-01-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>I’ve taken a vow to dress better, but why does my uncertainty feel so betraying?</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/22/an-unwilling-asmr-tist/">An unwilling ASMR-tist</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/22/an-unwilling-asmr-tist/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-22, from: The Daily Bruin (UCLA Student Newspaper))
+
+UCLA students returned to in-person classes Tuesday morning, after fires across Los Angeles County have become increasingly contained. The Palisades fire, which is closest to the UCLA campus, is 65% contained as of 11:20 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/21/478827/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-22, from: The Daily Bruin (UCLA Student Newspaper))
+
+After UCLA moved week two classes to remote instruction, parents were forced to make decisions about the impact ongoing fires across Los Angeles County were going to have on their families. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/21/478825/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-22, from: The Daily Bruin (UCLA Student Newspaper))
+
+As fires have swept Los Angeles County, some UCLA students have been volunteering as part of relief efforts. Students have donated essential items, money and time to help those impacted by the fires. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/21/478822/>
+
+---
+
+## Parents evaluate UCLA’s communication during Los Angeles wildfires
+
+date: 2025-01-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+Fires across Los Angeles County have disrupted UCLA operations, eliciting feelings of worry and confusion for some parents and gratitude for effective communication from the university for others. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/21/parents-evaluate-uclas-communication-during-los-angeles-wildfires/>
+
+---
+
+## Bruins volunteer, support Los Angeles community amid wildfires
+
+date: 2025-01-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+As wildfires swept across Los Angeles County, UCLA students volunteered to support recovery efforts. 
+The fires &#8211; which have burned over 40,000 acres and displaced residents across the region &#8211; prompted urban and regional planning graduate student Alex Sun to step up as both a volunteer for distribution centers and a student of disaster management. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/21/bruins-volunteer-support-los-angeles-community-amid-wildfires/>
+
+---
+
+## UCLA Grounds team puts down roots for safer, cleaner campus
+
+date: 2025-01-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+Martin Castillo set his hands on the rubber handles of a ground drill. He was hunched over, his blue uniform slick with sweat. The roar of the drill throbbed against his eardrums as it dug into the dirt slowly. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/21/ucla-grounds-team-puts-down-roots-for-safer-cleaner-campus/>
+
+---
+
+## USAC Facilities Commissioner Alexandra Paul resigns
+
+date: 2025-01-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 21 at 11:37 p.m.</em>
+For a second-straight January, the Undergraduate Students Association Council Facilities commissioner has resigned.
+Facilities Commissioner Alexandra Paul resigned from her position Tuesday. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/21/usac-facilities-commissioner-alexandra-paul-resigns/>
+
+---
+
+## USAC recap – Jan. 14
+
+date: 2025-01-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+During its second winter quarter meeting – which was held virtually Jan. 14 – the Undergraduate Students Association Council allocated over $35,000 in funding with $20,000 going toward wildfire relief. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/21/usac-recap-jan-14-3/>
+
+---
+
+## Steve Lurie named new associate vice chancellor for campus and community safety
+
+date: 2025-01-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 21 at 11:30 p.m.</em>
+The Office of Campus and Community Safety will soon have a new leader – and a new name. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/21/steve-lurie-named-new-associate-vice-chancellor-for-campus-and-community-safety/>
+
+---
+
+## Bruin Plate Bread Guide
+
+date: 2025-01-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/01/21/bruin-plate-bread-guide/>
+
+---
+
+## UCLA Housing to transition most on-campus dorms to triple occupancy
+
+date: 2025-01-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 21 at 3:49 p.m.</em>
+Most on-campus dorm rooms will transition to triple occupancy to meet increasing demand.
+UCLA Housing announced the change in a 1:08 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/21/ucla-housing-to-transition-most-on-campus-dorms-to-triple-occupancy/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-21, from: The Daily Bruin (UCLA Student Newspaper))
+
+Students returned to in-person&#160;classes Tuesday morning after fires in Los Angeles County had been partly contained.
+The Palisades fire, which is closest to UCLA, has spread across 23,713 acres and is 63% contained, according to the Cal Fire website. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/21/478756/>
+
+---
+
+## Brazil introduces regulations to combat sports betting fraud amid broader gambling oversight with the US
+
+date: 2025-01-21, from: The Sundail (CSUN Student Newspaper)
+
+Key Points  United States and Brazil are taking regulatory measures to manage risks and opportunities associated with gambling Lawmakers introduce the Safe-Bet Act to address gambling addiction, mislead advertisement, and... 
+
+<br> 
+
+<https://sundial.csun.edu/188770/sundialbrandstudio/sundial-marketplace/brazil-introduces-regulations-to-combat-sports-betting-fraud-amid-broader-gambling-oversight-with-the-us/>
+
+---
+
+## UCLA-based band creates rock-influenced sound listeners will not ‘Learn to Forget’
+
+date: 2025-01-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the bustling Los Angeles music scene, Learn To Forget seeks to redefine the modern band experience.
+Learn To Forget is a UCLA-based indie punk band that strives to revive the rock and roll perception while pushing genre barriers in putting on a show. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/21/ucla-based-band-creates-rock-influenced-sound-listeners-will-not-learn-to-forget/>
 
 ---
 

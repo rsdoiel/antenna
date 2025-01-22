@@ -1,11 +1,75 @@
 ---
 title: libraries
-updated: 2025-01-21 07:06:55
+updated: 2025-01-22 07:05:58
 ---
 
 # libraries
 
-(date: 2025-01-21 07:06:55)
+(date: 2025-01-22 07:05:58)
+
+---
+
+## Guest Post: Reflections from The Munin Conference Part Two – Open Science
+
+date: 2025-01-22, from: Scholarly Kitchen
+
+<p>This is the second article of three in a guest series reflecting on the main themes and ideas gathered and discussed at The Munin Conference at the end of 2024. Today's focus is Open Science.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/01/22/guest-post-reflections-from-the-munin-conference-part-two-open-science/">Guest Post: Reflections from The Munin Conference Part Two – Open Science</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/01/22/guest-post-reflections-from-the-munin-conference-part-two-open-science/>
+
+---
+
+## Day in Review (January 21–23)
+
+date: 2025-01-22, from: Association of Research Libraries News
+
+<p>Last Updated on January 21, 2025, 11:13 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, January 22 &#124; Thursday, January 23 Tuesday, January...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-21-23/">Day in Review (January 21–23)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-january-21-23/>
+
+---
+
+## Short Fiction, by Jonas Lie
+
+date: 2025-01-21, from: Standard Ebooks, new releaases
+
+A collection of short fiction by Norwegian author Jonas Lie, ordered by date of publication. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/jonas-lie/short-fiction/robert-nisbet-bain_littells-living-age>
+
+---
+
+## Electra, by Sophocles
+
+date: 2025-01-21, from: Standard Ebooks, new releaases
+
+A woman seeks revenge against her mother for the murder of her father. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/sophocles/electra/francis-storr>
+
+---
+
+## WEDNESDAY: Celebrate Public Domain Day 2025 at the Internet Archive
+
+date: 2025-01-21, from: Internet Archive Blog
+
+Lights, camera, action! It’s time to roll out the&#160;red carpet&#160;and celebrate&#160;Public Domain Day, Oscar-style! On Wednesday, we&#8217;re honoring all the legendary works that have entered the public domain in 2025. And what better [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/01/21/wednesday-celebrate-public-domain-day-2025-at-the-internet-archive/>
 
 ---
 
