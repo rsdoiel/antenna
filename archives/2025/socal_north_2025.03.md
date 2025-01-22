@@ -1,11 +1,23 @@
 ---
 title: socal north
-updated: 2025-01-22 07:05:56
+updated: 2025-01-22 09:50:44
 ---
 
 # socal north
 
-(date: 2025-01-22 07:05:56)
+(date: 2025-01-22 09:50:44)
+
+---
+
+## Fire risk and strong winds continue in Southern California with rain on the horizon
+
+date: 2025-01-22, updated: 2025-01-22, from: The LAist
+
+Southern California was forecast to face more dangerous winds on Wednesday, but could get some badly needed rain this weekend, which could create new challenges like toxic ash runoff. 
+
+<br> 
+
+<https://laist.com/news/fire-risk-strong-winds-southern-california-rain>
 
 ---
 
@@ -153,6 +165,18 @@ With charred earth all over L.A. County, officials are preparing for possible mu
 
 ---
 
+## California Service Corps Activates for MLK Day of Service and Giving
+
+date: 2025-01-20, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/california-service-corps-activates-for-mlk-day-of-service-and-giving/>
+
+---
+
 ## What's next for Kamala Harris
 
 date: 2025-01-20, updated: 2025-01-20, from: The LAist
@@ -198,6 +222,18 @@ Trump campaigned on border security promises, and he and his allies argue that h
 <br> 
 
 <https://laist.com/news/politics/trump-promised-dozens-of-actions-on-immigration-on-day-1-heres-what-we-know>
+
+---
+
+## California Service Corps se activa para el Día de Servicio y Solidaridad en honor a MLK
+
+date: 2025-01-20, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/california-service-corps-se-activa-para-el-dia-de-servicio-y-solidaridad-en-honor-a-mlk/>
 
 ---
 
