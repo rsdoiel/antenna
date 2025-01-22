@@ -1,11 +1,83 @@
 ---
 title: science and technology
-updated: 2025-01-22 07:05:57
+updated: 2025-01-22 09:31:32
 ---
 
 # science and technology
 
-(date: 2025-01-22 07:05:57)
+(date: 2025-01-22 09:31:32)
+
+---
+
+## NASA spacewalkers to swab the ISS for microbial life
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>Learning how to deal with the microorganisms hitching a ride with humans</h4> <p>Two NASA astronauts are set to venture outside the International Space Station (ISS) in search of signs of life.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/nasa_spacewalkers_microbes/>
+
+---
+
+## Study Finds Earth’s Small Asteroid Visitor Likely Chunk of Moon Rock
+
+date: 2025-01-22, from: NASA breaking news
+
+The near-Earth object was likely ejected into space after an impact thousands of years ago. Now it could contribute new insights to asteroid and lunar science. The small near-Earth object 2024 PT5 captured the world’s attention last year after a NASA-funded telescope discovered it lingering close to, but never orbiting, our planet for several months. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/science-research/planetary-science/study-finds-earths-small-asteroid-visitor-likely-chunk-of-moon-rock/>
+
+---
+
+## Experts Are Unraveling the Mysteries of This Breathtaking 2,000-Year-Old Mosaic Depicting Alexander the Great in Battle
+
+date: 2025-01-22, from: Smithsonian Magazine
+
+The ancient artwork was uncovered during excavations at Pompeii in the 19th century. Now, researchers are conducting a long, intensive analysis 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/experts-are-unraveling-the-mysteries-of-this-breathtaking-2000-year-old-mosaic-depicting-alexander-the-great-in-battle-180985861/>
+
+---
+
+## Microsoft issues out-of-band fix for Windows Server 2022 NUMA glitch
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>Update addresses boot failures on multi-node systems</h4> <p>Microsoft is releasing an out-of-band patch to deal with a problem that prevented some Windows Server 2022 machines from booting.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/windows_server_numa_glitch/>
+
+---
+
+## NASA 3D-Printed Antenna Takes Additive Manufacturing to New Heights
+
+date: 2025-01-22, from: NASA breaking news
+
+In fall 2024, NASA developed and tested a 3D-printed antenna to demonstrate a low-cost capability to communicate science data to Earth. The antenna, tested in flight using an atmospheric weather balloon, could open the door for using 3D printing as a cost-effective development solution for the ever-increasing number of science and exploration missions. Printing For [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/technology/nasa-3d-printed-antenna-takes-additive-manufacturing-to-new-heights/>
+
+---
+
+## Silk Road's Dread Pirate Roberts walks free as Trump pardons dark web kingpin
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>Ross Ulbricht&#39;s family are now appealing for donations to support his reintegration into society</h4> <p>Silk Road founder Ross Ulbricht is now a free man after US President Donald Trump made good on his promise to issue a federal pardon upon taking office.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/>
 
 ---
 
@@ -306,6 +378,33 @@ date: 2025-01-21, updated: 2025-01-21, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/01/21/atlassian_bitbucket_cloud_outage/>
+
+---
+
+## RFI: Techniques and Tools for Vulnerability Assessment of AI-enabled Systems
+
+date: 2025-01-21, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">RFI: Techniques and Tools for Vulnerability Assessment of AI-enabled Systems</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Seeks information from industry developers and academic institutions regarding current and emerging techniques and tools for the operational assessment of potential vulnerabilities in DoD relevant artificial intelligence (AI)-enabled systems.</p></div>
+      
+
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-21T14:31:05-05:00" title="Tuesday, January 21, 2025 - 14:31" class="datetime">Tue, 01/21/2025 - 14:31</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/opportunities/darpa-sn-25-28>
 
 ---
 
