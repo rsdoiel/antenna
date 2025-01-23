@@ -1,11 +1,253 @@
 ---
 title: home
-updated: 2025-01-22 07:05:58
+updated: 2025-01-23 07:05:27
 ---
 
 # home
 
-(date: 2025-01-22 07:05:58)
+(date: 2025-01-23 07:05:27)
+
+---
+
+## Satin Pothos (Scindapsus pictus) Care and Growing Guide
+
+date: 2025-01-23, from: Yard Life blog
+
+<p>Satin Pothos, also known as Scindapsus pictus, is a stunning houseplant adored for its shimmering, silvery-green foliage. This plant is ... </p>
+<p class="read-more-container"><a title="Satin Pothos (Scindapsus pictus) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/satin-pothos-scindapsus-pictus-care-and-growing-guide/#more-22815" aria-label="Read more about Satin Pothos (Scindapsus pictus) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/satin-pothos-scindapsus-pictus-care-and-growing-guide/">Satin Pothos (Scindapsus pictus) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/satin-pothos-scindapsus-pictus-care-and-growing-guide/>
+
+---
+
+## Bird’s Nest Fern (Asplenium nidus) Care and Growing Guide
+
+date: 2025-01-23, from: Yard Life blog
+
+<p>The Bird’s Nest Fern (Asplenium nidus) is a stunning tropical plant beloved for its wavy, bright green fronds and unique ... </p>
+<p class="read-more-container"><a title="Bird’s Nest Fern (Asplenium nidus) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/birds-nest-fern-asplenium-nidus-care-and-growing-guide/#more-22812" aria-label="Read more about Bird’s Nest Fern (Asplenium nidus) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/birds-nest-fern-asplenium-nidus-care-and-growing-guide/">Bird’s Nest Fern (Asplenium nidus) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/birds-nest-fern-asplenium-nidus-care-and-growing-guide/>
+
+---
+
+## Discover the Mysteries of African Painted Dogs
+
+date: 2025-01-23, from: Yard Life blog
+
+<p>The African Painted Dog, also known as the African Wild Dog (Lycaon pictus), is a captivating species that has intrigued ... </p>
+<p class="read-more-container"><a title="Discover the Mysteries of African Painted Dogs" class="read-more button" href="https://ownyardlife.com/discover-the-mysteries-of-african-painted-dogs/#more-22809" aria-label="Read more about Discover the Mysteries of African Painted Dogs">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/discover-the-mysteries-of-african-painted-dogs/">Discover the Mysteries of African Painted Dogs</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/discover-the-mysteries-of-african-painted-dogs/>
+
+---
+
+## Brazilian Wood Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-01-23, from: Yard Life blog
+
+<p>The Brazilian Lucky Wood Plant, also known by its scientific name Dracaena fragrans (massangeana), is a popular and widely loved ... </p>
+<p class="read-more-container"><a title="Brazilian Wood Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/brazilian-wood-plant-care-and-growing-guide-most-detailed/#more-22796" aria-label="Read more about Brazilian Wood Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/brazilian-wood-plant-care-and-growing-guide-most-detailed/">Brazilian Wood Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/brazilian-wood-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## Shamrock Plant (Oxalis triangularis) Care and Growing Guide
+
+date: 2025-01-23, from: Yard Life blog
+
+<p>The Shamrock Plant, scientifically known as Oxalis triangularis, is a captivating and low-maintenance houseplant that adds a touch of elegance ... </p>
+<p class="read-more-container"><a title="Shamrock Plant (Oxalis triangularis) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/shamrock-plant-oxalis-triangularis-care-and-growing-guide/#more-22792" aria-label="Read more about Shamrock Plant (Oxalis triangularis) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/shamrock-plant-oxalis-triangularis-care-and-growing-guide/">Shamrock Plant (Oxalis triangularis) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/shamrock-plant-oxalis-triangularis-care-and-growing-guide/>
+
+---
+
+## Norfolk Island Pine (Araucaria heterophylla) Care Guide
+
+date: 2025-01-23, from: Yard Life blog
+
+<p>Norfolk Island Pine (Araucaria heterophylla) is a striking evergreen tree that adds elegance to any indoor or outdoor space. Although ... </p>
+<p class="read-more-container"><a title="Norfolk Island Pine (Araucaria heterophylla) Care Guide" class="read-more button" href="https://ownyardlife.com/norfolk-island-pine-araucaria-heterophylla-care-guide/#more-22789" aria-label="Read more about Norfolk Island Pine (Araucaria heterophylla) Care Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/norfolk-island-pine-araucaria-heterophylla-care-guide/">Norfolk Island Pine (Araucaria heterophylla) Care Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/norfolk-island-pine-araucaria-heterophylla-care-guide/>
+
+---
+
+## 16 Exciting Lunar New Year Products to Ring in the Year of the Snake
+
+date: 2025-01-23, from: Sunset Magazine - Living in the West
+
+Celebrating the Lunar New Year? These products and gifts will help you ring in the Year of the Snake with flair. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/lunar-new-year-gifts>
+
+---
+
+## Are Peace Lilies Toxic to Cats?
+
+date: 2025-01-23, from: The Gardener's Path
+
+<p>Cats that have eaten peace lilies may show symptoms ranging from sudden yowling to an upset stomach. If your cat is pawing at its face after eating your houseplant, it’s important to know what to do! While less harmful than true lilies, the toxicity of this plant is not to be taken lightly. Read on to learn more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/peace-lilies-toxic/">Are Peace Lilies Toxic to Cats?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/peace-lilies-toxic/>
+
+---
+
+## A Step-by-Step Guide to Steam Cleaning Your Oven
+
+date: 2025-01-22, from: Family Handyman Blog
+
+<p>Follow these expert-approved tips to steam clean your oven. It's a simple, safe way to spot clean before or in between those important deep cleans.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-steam-clean-oven/">A Step-by-Step Guide to Steam Cleaning Your Oven</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-steam-clean-oven/>
+
+---
+
+## This Is What Makes a Home Functional, According to Interior Designers
+
+date: 2025-01-22, from: Sunset Magazine - Living in the West
+
+Everyone wants a functional home, but what exactly does that mean? We asked designers how to achieve functional home design. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/functional-home-design>
+
+---
+
+## These Are the Absolute Best Things to Eat Après-Ski (and Where to Find Them)
+
+date: 2025-01-22, from: Sunset Magazine - Living in the West
+
+These are the most iconic apres-ski dishes that you need to try, plus where to find them in the West after hitting the slopes. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-places-for-apres-ski-food>
+
+---
+
+## Foodies Obsess Over These Beans—3 Healthy and Delicious Ways to Cook with Them
+
+date: 2025-01-22, from: Sunset Magazine - Living in the West
+
+Recipes from pioneering Rancho Gordo's new cookbook prove that heirloom beans are one of the West's healthiest and most delicious culinary treasures. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/rancho-gordo-the-bean-book-legume-recipes>
+
+---
+
+## Kia Recalls 75,000 SUVs Over Dangerous Light Defect
+
+date: 2025-01-22, from: Family Handyman Blog
+
+<p>Kia Motors, Inc. recently announced a recall of nearly 75,000 of its SUVs due to a dangerous light-failure risk.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/kia-sorento-light-failure-recall/">Kia Recalls 75,000 SUVs Over Dangerous Light Defect</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/kia-sorento-light-failure-recall/>
+
+---
+
+## Rental Revamp: A Bavarian Baker Completely Overhauls Her Kitchen in a 300-Year-Old Farmhouse
+
+date: 2025-01-22, from: Dwell
+
+Alicia Freska paid to redo the space with fresh cabinetry, appliances, and flooring, while her landlord shored up the structure. 
+
+<br> 
+
+<https://www.dwell.com/article/rental-revamp-kitchen-renovation-300-year-old-bavarian-farmhouse-jan-cray-roggenwolf-5212a963>
+
+---
+
+## You Can Own a Former Dwell Cover Star for $1.5M
+
+date: 2025-01-22, from: Dwell
+
+Showcased in our September 2012 issue, the condo has a huge roof terrace and a 2,000-square-foot interior designed for entertaining and displaying art. 
+
+<br> 
+
+<https://www.dwell.com/article/dr-kenneth-montague-apartment-david-peterson-toronto-real-estate-09b049a5>
+
+---
+
+## This Mud Home in India Looks Like Something Out of "Star Wars"
+
+date: 2025-01-22, from: Dwell
+
+Snaking tunnels crouch in the landscape, mitigating the area’s hot climate and high winds. 
+
+<br> 
+
+<https://www.dwell.com/article/into-the-wild-house-earthscape-studio-mud-built-home-bfc74d66>
+
+---
+
+## How to Plant and Grow ‘Wando’ Peas
+
+date: 2025-01-22, from: The Gardener's Path
+
+<p>Love English peas but have a hard time narrowing down which variety to grow? 'Wando' is an adaptable bush-type English pea that is prolific, tough, and cold-hardy. If you love shelling types, this is going to be a new favorite thanks to the sweet, flavorful pods. Learn how to plant and grow 'Wando' peas in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-wando-peas/">How to Plant and Grow ‘Wando’ Peas</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-wando-peas/>
+
+---
+
+## Southern California Fairgrounds Join Effort To Shelter People And Animals Displaced By Wildfires
+
+date: 2025-01-22, from: Calfifornia Dept. Aggriculture blog
+
+The wildfires this month in Southern California have resulted in an activation of emergency shelter resources to house displaced people and animals, and the state’s network of fairgrounds has stepped forward to assist.&#160; The Antelope Valley Fairgrounds opened its RV &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28530">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28530>
 
 ---
 
@@ -13,7 +255,7 @@ updated: 2025-01-22 07:05:58
 
 date: 2025-01-22, from: Dwell
 
-Butler Armsden Architects devised some clever interventions that brightened up the historic townhome's interior. 
+Butler Armsden Architects devised some clever interventions that brightened up the historic townhome’s interior. 
 
 <br> 
 
@@ -32,6 +274,42 @@ date: 2025-01-22, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/grow-chinese-broccoli/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-01-22, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## This Hotel Has the Wildest Plant Design—Here’s How to Get the Look at Home
+
+date: 2025-01-22, from: Sunset Magazine - Living in the West
+
+The plant experts behind 1 Hotel's dizzying array of greenery share inspo on how to mimic their biophillic San Francisco space. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/houseplant-care-tips-1hotel-san-francisco>
+
+---
+
+## This Is How Hotels Make Their Lobbies Smell So Good (and How to Do It at Home)
+
+date: 2025-01-22, from: Sunset Magazine - Living in the West
+
+Luxury hotels that have a signature scent just hit different. Here's how to do it at home according to Waldorf Astoria and The Ritz-Carlton. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-make-your-house-smell-good>
 
 ---
 
@@ -304,18 +582,6 @@ Set atop a hill in Los Angeles, this two bedroom, one-bathroom home had the most
 
 ---
 
-## This Is What Makes a Home Functional, According to Interior Designers
-
-date: 2025-01-21, from: Sunset Magazine - Living in the West
-
-Everyone wants a functional home, but what exactly does that mean? We asked designers how to achieve functional home design. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/functional-home-design>
-
----
-
 ## Disney California Adventure Is Bringing Back This Nostalgic Ride for a Limited Time
 
 date: 2025-01-21, from: Sunset Magazine - Living in the West
@@ -378,18 +644,6 @@ date: 2025-01-21, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/love-in-a-mist-care-and-growing-guide-most-detailed/>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-01-21, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

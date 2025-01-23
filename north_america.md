@@ -1,11 +1,1369 @@
 ---
 title: north america
-updated: 2025-01-22 07:05:55
+updated: 2025-01-23 07:05:23
 ---
 
 # north america
 
-(date: 2025-01-22 07:05:55)
+(date: 2025-01-23 07:05:23)
+
+---
+
+## Home prices rose in every major metro area last month
+
+date: 2025-01-23, from: Market Place
+
+Cleveland, Milwaukee and Philadelphia saw the biggest rises. The Midwest remains a relative haven of affordability. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/23/home-prices-rose-in-every-major-metro-area-last-month/>
+
+---
+
+## As egg shortage continues, some businesses are starting to crack
+
+date: 2025-01-23, from: Market Place
+
+A particularly contagious strain of bird flu continues to spread, killing flocks and causing the price of eggs to nearly double from a year ago. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/23/as-egg-shortage-continues-some-businesses-are-starting-to-crack/>
+
+---
+
+## What to Watch for at The Department of Veterans Affairs
+
+date: 2025-01-23, from: The Contrarian
+
+During Donald Trump&#8217;s first term, it took a while for me to get fired. 
+
+<br> 
+
+<https://contrarian.substack.com/p/what-to-watch-for-at-the-department>
+
+---
+
+## Debate heats up in New York over demands to ban face masks
+
+date: 2025-01-23, from: VOA News USA
+
+Calls to ban face masks in public are sparking debate in New York City. Supporters say it could curb subway crime, while critics argue it risks civil liberties. Aron Ranen has more. 
+
+<br> 
+
+<https://www.voanews.com/a/debate-heats-up-in-new-york-over-demands-to-ban-face-masks/7947461.html>
+
+---
+
+## Russ Vought Makes a Power Play for Trump’s Energy Policy
+
+date: 2025-01-23, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTgxNzUwMS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3MzQ3NTYxMn0.n4iH3l_nt3Y91Jv5tBuwCEMbjb6XgySgG1ZjZvp-yUM/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C1"/><br/><br/><p class="drop-caps">When Donald Trump has talked about his new administration’s energy policy leaders, he has focused, so far, on a specific type of person.</p><p>You might call them energy insiders. At the highest level, they include Doug Burgum, the former North Dakota governor and incoming interior secretary, and Chris Wright, the fracking executive and incoming energy secretary. Both soon-to-be officials know a lot about how the energy industry works, and they hold <a href="https://heatmap.news/climate/chris-wright-mind" target="_self"><u>beliefs</u></a> about energy development that — while far from aligned with the climate policy mainstream — are directionally in agreement with many in the fossil fuel industry itself. </p><p>But based on a close reading of Trump’s initial executive orders, they are not the only officials who will wield power in the Trump administration. Instead, crucial energy policy will be decided in part by a small number of individuals who have no special insight into the energy industry, but who do have various dogmatic ideas about how the government and the economy should work. The most powerful of this second group is Russ Vought, a lead author of Project 2025 and the director-designate of the White House Office of Management and Budget. </p><p>Trump’s initial orders establish the White House Office of Management and Budget, known as OMB, as an unmistakable de facto power center for energy and climate policy in the administration. In clause after clause of Trump’s orders, energy officials across the federal government are told to consult with the OMB director before they can make a decision, rewrite a regulation, or disburse funding.</p><p>Even in more constrained presidencies, OMB has been a <a href="https://crsreports.congress.gov/product/pdf/R/R47089" rel="noopener noreferrer" target="_blank"><u>particularly powerful</u></a> agency. As the largest office in the White House, OMB is in charge of writing the president’s annual budget proposal and working with Congress on legislation; one of its suboffices, the Office of Information and Regulation, approves new federal rules before they are finalized.</p><p>Vought’s vision for the agency <a href="https://www.nytimes.com/2025/01/15/business/russell-vought-budget-office-confirmation-hearing.html" rel="noopener noreferrer" target="_blank"><u>goes far beyond those traditional lines</u></a>, though. He believes that OMB can play a role in curtailing the size of the federal government and firing reams of civil servants. He argues that the White House can claw back funding that has been appropriated by Congress, even though the Constitution gives control over “the power of the purse” to Congress alone.</p><p>Trump’s executive orders suggest that Vought’s OMB will seek to uproot existing energy policy — and that some of his earliest attempts at freezing congressional spending may affect the climate.</p><p>A provision in Trump’s <a href="https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/" rel="noopener noreferrer" target="_blank"><u>“Unleashing American Energy”</u></a> executive order, signed hours after his inauguration, pauses all funding tied to the Inflation Reduction Act or Bipartisan Infrastructure Law until Vought personally approves of it.</p><p>This provision appeared to freeze all funding tied to either law for 90 days, a drastic move that could already violate Congress’s spending authority under the Constitution. The Impoundment Control Act of 1974, a federal law that governs this authority, allows the president to pause funding <a href="https://www.cbpp.org/research/federal-budget/faqs-on-impoundment-presidential-actions-are-constrained-by-long-standing" rel="noopener noreferrer" target="_blank"><u>for 45 days</u></a>, not 90. (Vought <a href="https://www.nytimes.com/2025/01/15/business/russell-vought-budget-office-confirmation-hearing.html" rel="noopener noreferrer" target="_blank"><u>believes</u></a> that this law is “unconstitutional.”)</p><p>Then it allows Vought and Kevin Hassett, who will lead Trump’s National Economic Council, discretion over whether that money gets spent. “No funds identified in this subsection … shall be disbursed by a given agency until the Director of OMB and Assistant to the President for Economic Policy have determined that such disbursements are consistent with any review recommendations they have chosen to adopt,” the order says.</p><p>After this order <a href="https://www.politico.com/news/2025/01/21/trump-fight-biden-infrastructure-money-00199796" rel="noopener noreferrer" target="_blank"><u>threw virtually all</u></a> billions of dollars of federal highway and transportation funding into question, the White House seemed to <a href="https://www.whitehouse.gov/briefings-statements/2025/01/omb-memo-m-25-11/" rel="noopener noreferrer" target="_blank"><u>walk back</u></a> some of the policyorder Tuesday, clarifying that it only sought to blockfreeze funding related to what it called President Joe Biden’s “Green New Deal.” (Even this change still leaves open exactly what funding has been frozen.) </p><p>This is not the only place where OMB appears in Trump’s energy orders. The “Unleashing American Energy” directiveinitiativeorder requires the head of the Environmental Protection Administration to reopen a study into whether carbon dioxide and greenhouse gases are dangerous air pollutants. </p><p>The EPA first <a href="https://www.epa.gov/climate-change/endangerment-and-cause-or-contribute-findings-greenhouse-gases-under-section-202a" rel="noopener noreferrer" target="_blank"><u>found</u></a> that greenhouse gases cause climate change — and are therefore dangerous — in 2009. The first Trump administration didn’t try to overturn this finding because it is <a href="https://science.nasa.gov/climate-change/evidence/" rel="noopener noreferrer" target="_blank"><u>scientifically unimpeachable</u></a>.</p><p>The same order also says that OMB will soon issue new rules governing agency actions “when procuring goods and services, making decisions about leases, and making other arrangements that result in disbursements of Federal funds.”</p><p>Missing from the new executive orders is virtually any mention of <a href="https://heatmap.news/climate/trump-national-energy-council" target="_self"><u>the National Energy Council</u></a>, the new Burgum-led entity that Trump has said he will create in the White House. It’s still unclear what role this body will play in the Trump administration, but it has been described as a nerve center for decision-making about all energy policy. The new array of orders suggest OMB may already be claiming part of that role.</p><p>That said, the Interior and Energy secretaries make their own appearance in the orders. The orders direct the Secretary of the Interior to investigate what can be done to speed up and grant permits for domestic mining. And the orders convene the Endangered Species Act’s <a href="https://www.thefai.org/posts/so-you-want-to-ignore-an-environmental-law" rel="noopener noreferrer" target="_blank"><u>so-called “God squad,”</u></a> a council of agency heads that can override provisions in the conservation law. The Interior Secretary sits on this powerful committee.</p><p>The most significant sign of Wright’s influence, meanwhile, is that Trump’s declaration of an energy “emergency” calls out energy technologies that he favors or that his company has invested in, including geothermal technology and nuclear fission.</p><p>One possible reason for Wright and Burgum’s absence: Neither has yet joined the administration officially. Both are likely to be confirmed by the Senate on Thursday. They might want to talk to their colleague Russ Vought when they get in the door.</p> 
+
+<br> 
+
+<https://heatmap.news/politics/trump-energy-policy-omb>
+
+---
+
+## Hughes Fire Sends 10,000 Acres Up in Smoke
+
+date: 2025-01-23, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTY0MDA5Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5OTg2MzQzNn0.EzLlkER3hTx-J-M_5Vtn9Q37yArQnIEtqOsjdnO3uy8/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><em><strong>Current conditions:</strong> <em>Ireland and the UK are preparing for heavy rain and 90 mile per hour winds from the coming Storm Eowyn, which will hit early Friday morning • A magnitude 5.7 earthquake struck the Philippines on Thursday • The Los Angeles fire department quickly stopped a new brush fire that erupted near Bel Air on Wednesday night from progressing.</em></em></p><h2>THE TOP FIVE</h2><h3>1. Thousands flee massive Hughes Fire</h3><p>The Hughes Fire, which broke out Wednesday morning near a state recreation area in northwest Los Angeles County, grew rapidly to more than 10,000 acres — nearly the size of the Eaton Fire in Alatadena — within just a few hours. CalFire, the state fire agency, ordered more than 30,000 people to evacuate, and 20,000 more were warned to prepare for mandatory evacuation. <a href="https://x.com/UFWupdates/status/1882240130624135225?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_R9gfLNNMk_jsF8Jy9xwp_4WGCO6DdoUx0yDcHGKBQN7w963HJXl0_TcprWASDCFUh_nQ0" target="_blank">Harrowing footage</a> posted online by United Farm Workers shows strawberry pickers in nearby Ventura County harvesting through a thick orange haze. But by Wednesday night, <a href="https://www.latimes.com/california/story/2025-01-22/los-angeles-weather-rain-fire-season?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_R9gfLNNMk_jsF8Jy9xwp_4WGCO6DdoUx0yDcHGKBQN7w963HJXl0_TcprWASDCFUh_nQ0" rel="noopener noreferrer" target="_blank">the fire was 14% contained</a> and had only burned through brush — no structures have been reported as damaged. L.A. County is still under a red flag warning until Friday morning. A light rain is expected over the weekend.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="Resting after evacuating near Castaic, California." class="rm-shortcode" data-rm-shortcode-id="1fa74e78ea2b8ffce30d4bff186a5731" data-rm-shortcode-name="rebelmouse-image" id="2a5e0" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTgxNzExOC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3MzU4NTkzOX0.ybl9Ordp_N42WjzoaU1I4LzQeI1DcUnxulnxXORy1oI/image.jpg?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">Resting after evacuating near Castaic, California.</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Mario Tama/Getty Images</small></p><h3>2. Europe sees the sun</h3><p>The European Union got more of its electricity in 2024 from solar panels than from coal-fired power plants — the first time solar has overtaken coal for an entire year in the bloc, <a href="https://ember-energy.org/latest-updates/solar-overtakes-coal-in-eu-power-sector-as-gas-declines-for-the-fifth-year-in-a-row/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_R9gfLNNMk_jsF8Jy9xwp_4WGCO6DdoUx0yDcHGKBQN7w963HJXl0_TcprWASDCFUh_nQ0" target="_blank">according to a new analysis by the think tank Ember</a>. The group found that natural gas power also declined, cutting total 2024 EU power sector emissions to below half of their 2007 peak. Renewable energy now makes up nearly half of EU energy generation, up from about a third in 2019, when the European Green Deal became law. Another 24% of its power comes from nuclear, meaning that nearly three-quarters of the EU’s power is now carbon-free. “Fossil fuels are losing their grip on EU energy,” Chris Rosslowe, a senior analyst at Ember and lead author of the report said in a press release.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="Chart showing wind and solar growth" class="rm-shortcode" data-rm-shortcode-id="fe9c346976739b44cbbc22c35017bd32" data-rm-shortcode-name="rebelmouse-image" id="73cbc" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTgxNzEzOS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc1OTYzNDI1NH0.n0110AIL-MH-2j5rhKPedAYHGzfbtREYLraIugXap9s/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Chart courtesy of Ember</small></p><h3>3. Chemical industry execs rotate back to the EPA</h3><p>Three former Environmental Protection Agency staffers who played key roles undoing chemical, climate, and water regulations during Trump’s first term are heading back to the agency. Nancy Beck, a toxicologist and former director of regulatory policy for the chemical industry’s main trade group, the American Chemistry Council, has been named a senior adviser to the EPA’s Office of Chemical Safety, <a href="https://www.nytimes.com/2025/01/22/climate/epa-chemical-industry-beck-dekleva.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_R9gfLNNMk_jsF8Jy9xwp_4WGCO6DdoUx0yDcHGKBQN7w963HJXl0_TcprWASDCFUh_nQ0" target="_blank">according to <em>The New York Times</em></a>. She famously <a href="https://www.nytimes.com/2017/10/21/us/trump-epa-chemicals-regulations.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_R9gfLNNMk_jsF8Jy9xwp_4WGCO6DdoUx0yDcHGKBQN7w963HJXl0_TcprWASDCFUh_nQ0" rel="noopener noreferrer" target="_blank">re-wrote a rule</a> that made it harder to track the health effects of “<a href="https://heatmap.news/lifestyle/raincoats-pfas-gore-tex-patagonia-rei?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_R9gfLNNMk_jsF8Jy9xwp_4WGCO6DdoUx0yDcHGKBQN7w963HJXl0_TcprWASDCFUh_nQ0" target="_self">forever chemicals</a>.” Lynn Ann Dekleva, who had a 30-year run at DuPont (which invented forever chemicals) before joining the first Trump administration, has been appointed a deputy assistant administrator overseeing new chemicals. Lastly, David Fotouhi, a lawyer who <a href="https://www.propublica.org/article/david-fotouhi-donald-trump-epa-pollution?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_R9gfLNNMk_jsF8Jy9xwp_4WGCO6DdoUx0yDcHGKBQN7w963HJXl0_TcprWASDCFUh_nQ0" rel="noopener noreferrer" target="_blank">most recently fought the EPA’s ban on asbestos</a> and previously helped Trump roll back federal protections for wetlands, has been nominated to return to the agency as one of its top brass — deputy administrator.</p><h3>4. Half-finished nuclear plant 4 sale — 2,200 megawatts avail</h3><p>Two partially-built nuclear reactors at the V.C. Summer Nuclear Station in South Carolina, abandoned in 2017 after their construction <a href="https://www.nytimes.com/2017/07/31/climate/nuclear-power-project-canceled-in-south-carolina.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_R9gfLNNMk_jsF8Jy9xwp_4WGCO6DdoUx0yDcHGKBQN7w963HJXl0_TcprWASDCFUh_nQ0" target="_blank">became a boondoggle</a>, could be the latest prize for a data center developer looking for clean, 24/7 power. South Carolina state-owned utility Santee Cooper, which owns the reactors, is <a href="https://www.prnewswire.com/news-releases/santee-cooper-seeking-proposals-to-acquire-and-finish-vc-summer-nuclear-station-expansion-302357571.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_R9gfLNNMk_jsF8Jy9xwp_4WGCO6DdoUx0yDcHGKBQN7w963HJXl0_TcprWASDCFUh_nQ0" rel="noopener noreferrer" target="_blank">seeking proposals</a> from buyers interested in finishing construction or doing something else with the assets. The company claims it is “the only site in the U.S. that could deliver 2,200 megawatts of nuclear capacity on an accelerated timeline.” The plant was about 40% complete when the project was halted.</p><h3>5. Trump signals shakeup at FEMA</h3><p>Trump <a href="https://www.bloomberg.com/news/articles/2025-01-23/trump-floats-states-not-fema-handle-emergency-response?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_R9gfLNNMk_jsF8Jy9xwp_4WGCO6DdoUx0yDcHGKBQN7w963HJXl0_TcprWASDCFUh_nQ0" target="_blank">floated the idea</a> of putting states in charge of disaster response in an interview on Fox News Wednesday night. Trump told Sean Hannity that he’d “rather see the states take care of their own problems” and that “the federal government can help them out with the money.” The statements come ahead of Trump’s <a href="https://thehill.com/homenews/administration/5099105-trump-north-carolina-nevada-california-wildfires-los-angeles/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_R9gfLNNMk_jsF8Jy9xwp_4WGCO6DdoUx0yDcHGKBQN7w963HJXl0_TcprWASDCFUh_nQ0" rel="noopener noreferrer" target="_blank">plans</a> to survey recovery efforts from Hurricane Helene in North Carolina and the aftermath of the wildfires in California later this week — his first trip since beginning his second term. The interview followed <a href="https://www.nytimes.com/2025/01/22/climate/fema-announcement-cameron-hamilton.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_R9gfLNNMk_jsF8Jy9xwp_4WGCO6DdoUx0yDcHGKBQN7w963HJXl0_TcprWASDCFUh_nQ0" rel="noopener noreferrer" target="_blank">reporting from <em>The New York Times</em></a> that Trump has installed Cameron Hamilton, a former Navy SEAL “who does not appear to have experience coordinating responses to large scale disasters,” as temporary administrator at the Federal Emergency Management Agency.</p><h2>THE KICKER</h2><p>California State Assemblymember Cottie Petrie-Norris <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB270&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_R9gfLNNMk_jsF8Jy9xwp_4WGCO6DdoUx0yDcHGKBQN7w963HJXl0_TcprWASDCFUh_nQ0" rel="noopener noreferrer" target="_blank">wants to set up a pilot program</a> to test the potential for self-driving helicopters to put out wildfires under conditions that are too dangerous for human pilots. The idea might not be so far off — <a href="https://news.lockheedmartin.com/2024-11-11-Sikorsky-and-Rain-Successfully-Demonstrate-Autonomous-Flight-with-Wildfire-Mission-Autonomy-to-Rapidly-Find-and-Suppress-Test-Fires?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_R9gfLNNMk_jsF8Jy9xwp_4WGCO6DdoUx0yDcHGKBQN7w963HJXl0_TcprWASDCFUh_nQ0" rel="noopener noreferrer" target="_blank">Lockheed Martin demonstrated</a> that its autonomous Black Hawk helicopter could locate a fire and dump water on it in Connecticut last fall.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="An autonomous Black Hawk demonstrates its potential." class="rm-shortcode" data-rm-shortcode-id="ac4c5ba228883dc4de042ac468362efe" data-rm-shortcode-name="rebelmouse-image" id="16317" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTgxNzIwNy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5MjkyOTU5Nn0.l7eOQ-iHrigsoIZ_xfOIJB27ETJ85EeTxk74oE9p7W4/image.jpg?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">An autonomous Black Hawk demonstrates its potential.</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Courtesy of Lockheed Martin</small></p>
+ 
+
+<br> 
+
+<https://heatmap.news/climate/hughes-fire-trump-epa>
+
+---
+
+## Trump’s Actions Are Not Just Lawless; They Defy Our Deepest Values
+
+date: 2025-01-23, from: The Contrarian
+
+Leaders of all faiths publicly implore a man who hawks Bibles to show some human decency in the name of God 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-actions-are-not-just-lawless>
+
+---
+
+## Rubio says US committed to Philippines in call about China's 'dangerous' actions
+
+date: 2025-01-23, from: VOA News USA
+
+New U.S. Secretary of State Marco Rubio discussed China's "dangerous and destabilizing actions in the South China Sea" with his Philippine counterpart on Wednesday and underscored the "ironclad" U.S. defense commitment to Manila. 
+
+
+"Secretary Rubio conveyed that (China's) behavior undermines regional peace and stability and is inconsistent with international law," the U.S. State Department said in a statement on the call with Foreign Minister Enrique Manalo. 
+
+
+The Philippines has been embroiled in wrangles at sea with China in the past two years and the two countries have faced off regularly around disputed features in the South China Sea that fall inside Manila's exclusive economic zone. 
+
+
+Rubio's call came after he hosted counterparts from Australia, India and Japan in the China-focused "Quad" forum on Tuesday, the day after President Donald Trump returned to the White House. The four recommitted to working together. 
+
+
+Quad members and the Philippines share concerns about China's growing power and analysts said Tuesday's meeting was designed to signal continuity in the Indo-Pacific and that countering Beijing would be a top priority for Trump. 
+
+
+In the call with Manalo, Rubio "underscored the United States' ironclad commitments to the Philippines" under their Mutual Defense Treaty and discussed ways to advance security cooperation, expand economic ties and deepen regional cooperation, the statement said. 
+
+
+China's foreign ministry said its activities in the waters were "reasonable, lawful and beyond reproach." 
+
+
+Speaking at a regular press conference, ministry spokesperson Mao Ning said the United States was "not a party" to the South China Sea dispute and had "no right to intervene" in maritime issues between China and the Philippines. 
+
+
+"Military cooperation between the U.S. and the Philippines should not undermine China's sovereignty and maritime rights and interests in the South China Sea, nor should it be used to endorse the illegal claims of the Philippines," Mao said. 
+
+
+The Philippines, a U.S. defense treaty ally, is among the first countries to engage with the new U.S. administration to discuss critical security matters, Manila's defense department said in a statement. 
+
+
+Its defense secretary Gilberto Teodoro and U.S. National Security Adviser Mike Waltz met at the White House on Thursday to reaffirm the enduring alliance between their two countries. 
+
+
+Just ahead of Trump's inauguration, the Philippines and the United States carried out their fifth set of joint maritime exercises in the South China Sea since launching the joint activities in 2023. 
+
+
+Security engagements between the allies have soared under Philippine President Ferdinand Marcos Jr., who has moved closer to Washington and allowed the expansion of military bases that American forces can access, including facilities facing the democratically governed island of Taiwan, which China claims as its own. 
+
+
+Visiting the Philippines last week, Japanese Foreign Minister Takeshi Iwaya said a trilateral initiative to boost cooperation launched by Japan, the U.S. and the Philippines at a summit last year would be strengthened when the new U.S. administration took over in Washington. 
+
+<br> 
+
+<https://www.voanews.com/a/rubio-says-us-committed-to-philippines-in-call-about-china-s-dangerous-actions-/7947364.html>
+
+---
+
+## Trump designates Yemen's Houthis as a 'foreign terrorist organization'
+
+date: 2025-01-23, from: VOA News USA
+
+WASHINGTON — U.S. President Donald Trump on Wednesday re-designated Yemen's Houthi movement, known formally as Ansar Allah, as a "foreign terrorist organization," the White House said.
+
+
+The move will impose harsher economic penalties than the Biden administration had applied to the Iran-aligned group in response to its attacks on commercial shipping in the Red Sea and against U.S. warships defending the critical maritime chokepoint.
+
+
+Proponents of the move say it is overdue, though some experts say it could have implications for anyone seen as aiding the Houthis, including some aid organizations.
+
+
+"The Houthis' activities threaten the security of American civilians and personnel in the Middle East, the safety of our closest regional partners, and the stability of global maritime trade," the White House said in a statement.
+
+
+The Houthis, who control most of Yemen, have carried out more than 100 attacks on ships plying the Red Sea since November 2023, saying they were acting in solidarity with Palestinians over Israel's war against Hamas in Gaza. They have sunk two vessels, seized another and killed at least four seafarers.
+
+
+The attacks have disrupted global shipping, forcing firms to re-route to longer and more expensive journeys around southern Africa for more than a year.
+
+
+The group has targeted the southern Red Sea and the Gulf of Aden, which are joined by the narrow Bab al-Mandab strait, a chokepoint between the Horn of Africa and the Middle East.
+
+
+Under the Biden administration, the U.S. military sought to intercept Houthi attacks to safeguard commercial traffic and waged periodic strikes to degrade Houthi military capabilities. But it did not target the group's leadership.
+
+
+At the start of his presidential term in 2021, Joe Biden had dropped Trump's terrorist designations to address humanitarian concerns inside Yemen. Confronted with the Red Sea attacks, Biden last year designated the group as a "Specially Designated Global Terrorist" organization. But his administration held off on applying the harsher FTO designation.
+
+
+British charity Oxfam said the move would worsen the suffering of Yemeni civilians, disrupting vital imports of food, medicine, and fuel.
+
+
+
+
+"The Trump administration is aware of these consequences but chose to move forward anyway, and will bear responsibility for the hunger and disease that will follow," Oxfam America's director of peace and security, Scott Paul, said in a statement.
+
+
+David Schenker, who was assistant secretary of state for Near Eastern affairs in the first Trump administration, said Trump's move on Wednesday was an obvious, early step to respond to what he described as one of Iran's leading proxy forces in the Middle East.
+
+
+"While the redesignation likely won't have a positive impact on the group's behavior, the measure suggests the new administration is not looking to induce (or cajole) the Iranians to negotiations through blandishment," Schenker told Reuters.
+
+
+The Trump administration said the U.S. will work with regional partners to eliminate Houthi capabilities, deprive it of resources "and thereby end its attacks on U.S. personnel and civilians, U.S. partners, and maritime shipping in the Red Sea."
+
+
+The designation will also trigger a broad review of U.N. partners, non-governmental organizations and contractors operating in Yemen, the White House said.
+
+
+"The President will direct USAID to end its relationship with entities that have made payments to the Houthis, or which have opposed international efforts to counter the Houthis while turning a blind eye towards the Houthis’ terrorism and abuses," the White House said.
+
+
+The Houthis in recent days have signaled they were scaling back attacks in the Red Sea following a multiphase cease fire deal between Israel and Hamas. Earlier on Wednesday, the group released the crew of the Galaxy Leader commercial ship more than a year after they seized their Bahamas-flagged vessel off the Yemeni coast. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-designates-yemen-s-houthis-as-a-foreign-terrorist-organization-/7947289.html>
+
+---
+
+## Trump scheduled to tour Los Angeles fire damage Friday
+
+date: 2025-01-23, from: VOA News USA
+
+President Donald Trump is expected to visit hurricane- and fire-damaged areas of the US on Friday. The president will stop in North Carolina, which was hit by Hurricane Helene in September, and Los Angeles, where fires continue to burn and over 100,000 people are under evacuation orders. From Los Angeles, Genia Dulot has our story. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-scheduled-to-tour-los-angeles-fire-damage-friday/7947275.html>
+
+---
+
+## Firefighters battle new southern California wildfire
+
+date: 2025-01-23, from: VOA News USA
+
+Firefighters battled multiple wildfires Thursday in southern California, including a new blaze that erupted a day earlier and prompted authorities to order more than 30,000 people to evacuate.
+
+
+The Hughes Fire northwest of the city of Los Angeles became the latest focus for fire crews Wednesday as it swelled to burn an area of more than 41 square kilometers near the Lake Castaic recreation area.
+
+
+The fire was about 14% contained early Thursday as forecasters warned of another day of dry and windy conditions that could make it difficult to keep fires from spreading. 
+
+
+
+
+There is a chance for some relief in the coming days with the National Weather Service saying some rain is expected in the area beginning Saturday.
+
+
+Forecasters said they expect up to a centimeter of rain across much of the Los Angeles area, while localized thunderstorms could bring even more rain in limited locations. The potential for those storms has prompted concerns about the possibility of mudslides with debris flowing down hilly areas that have been scorched by several weeks of wildfires.
+
+
+In addition to the Hughes Fire, crews are still battling the Palisades Fire on the western side of Los Angeles and the Eaton Fire in the foothills to the north of the city. 
+
+
+
+
+The fires that broke out in Southern California on Jan. 7 have killed at least 28 people and destroyed thousands of buildings. The death toll is expected to climb as emergency workers comb through the ashes.
+
+
+U.S. President Donald Trump, who has been critical of the response to the fire, is expected to travel to Los Angeles this week.
+
+
+Some information for this report came from The Associated Press. 
+
+<br> 
+
+<https://www.voanews.com/a/new-wildfire-erupts-in-southern-california-/7947166.html>
+
+---
+
+## Trump nominates USAGM head
+
+date: 2025-01-23, from: VOA News USA
+
+President Donald Trump nominated conservative activist and writer L. Brent Bozell III as head of the United States Agency for Global Media, which supervises five U.S. government-funded international media entities, including the Voice of America.
+
+
+"As Founder and President of the Media Research Center for 38 years, few understand the Global Media landscape in print, television, and online better than Brent," Trump posted on his Truth Social media platform Wednesday night.
+
+
+In addition to Voice of America, USAGM oversees the Middle East Broadcasting Networks, Radio Free Europe/Radio Liberty, Radio Free Asia, and the Office of Cuba Broadcasting. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-nominates-usagm-head/7947135.html>
+
+---
+
+## Europe posts record year for clean energy
+
+date: 2025-01-23, from: VOA News USA
+
+A record 47% of the European Union's electricity now comes from solar and other renewables, a report Thursday said, in yet another sign of the growing gap between the bloc's push for clean energy and the new U.S. administration's pursuit of more fossil fuels.
+
+
+Nearly three-quarters of the EU's electricity doesn't emit planet-warming gases into the air — with another 24% of electricity in the bloc coming from nuclear power, a report released by the climate energy think tank Ember found. This is far higher than in countries like the United States and China, where nearly two-thirds of their energy is still produced from carbon-polluting fossil fuels like coal, oil and gas.
+
+
+Experts say they're encouraged by Europe's fossil fuel reductions, particularly as the U.S. looks set to increase its emissions as its new president pledges cheaper gas prices, has halted leases for wind projects and pledged to revoke Biden-era incentives for electric vehicles.
+
+
+"Fossil fuels are losing their grip on EU energy," said Chris Rosslowe, an energy expert at Ember. In 2024, solar power generated 11% of EU electricity, overtaking coal which fell below 10% for the first time. Clean wind power generated more electricity than gas for the second year in a row.
+
+
+2024 data wasn't available for all countries. Ember's data for the world's largest generators of electricity for 2023 show Brazil with the largest share of its electricity from renewables, almost 89%, with much of that coming from hydroelectric power. Canada had about 66.5%, China 30.6%, France 26.5%, the U.S. 22.7% and India 19.5%.
+
+
+
+
+One reason for Europe's clean power transition moving at pace is the European Green Deal, an ambitious policy passed in 2019 that paved the way for climate laws to be updated. As a result of the deal, the EU made their targets more ambitious, aiming to cut 55% of the region's emissions by the end of the decade. The policy also aims to make Europe climate neutral — reducing the amount of additional emissions in the air to practically zero — by 2050.
+
+
+Hundreds of regulations and directives in European countries to incentivize investment in clean energy and reduce carbon pollution have been passed or are in the process of being ratified across Europe.
+
+
+"At the start of the Deal, renewables were a third and fossil fuels accounted for 39% of Europe's electricity," Rosslowe said. "Now fossils generate only 29% and wind and solar have been driving the clean energy transition." The amount of electricity generated by nuclear energy has remained relatively stable in the bloc.
+
+
+Russia's invasion of Ukraine has also spurred the move to clean energy in Europe. Gas prices skyrocketed — with much of Europe's gas coming from Russia becoming unviable — forcing countries to look for cheaper, cleaner alternatives. Portugal, Netherlands and Estonia witnessed the highest increase in clean power in the last five years.
+
+
+The transition to clean power helped Europe avoid more than $61 billion worth of fossil fuel imports for generating electricity since 2019.
+
+
+"This is sending a clear message that their energy needs are going to be met through clean power, not gas imports," said Pieter de Pous, a Brussels-based energy analyst at European think tank E3G. De Pous said the EU's origins were "as a community of coal and steel because those industries were so important," but it is now rapidly becoming a "community of solar and wind power, batteries and smart technologies."
+
+
+Nuclear growth in the bloc, meanwhile, has slowed. Across the European Union, retirements of nuclear plants have outpaced new construction since around the mid-2000s, according to Global Energy Monitor.
+
+
+As President Trump has pulled the United States out of the Paris Agreement aimed at curbing warming and is pursuing a "drill, baby, drill" energy policy, Rosslowe said the EU's leadership in clean power becomes all the more important. "It's about increasing European energy independence, and it's about showing this climate leadership," he said.
+
+
+On Tuesday, EU chief Ursula von der Leyen said: "Europe will stay the course, and keep working with all nations that want to protect nature and stop global warming." 
+
+<br> 
+
+<https://www.voanews.com/a/europe-posts-record-year-for-clean-energy/7947111.html>
+
+---
+
+## Few alternatives for UN funding as US withdraws support
+
+date: 2025-01-23, from: VOA News USA
+
+Following President Donald Trump’s announcement that the U.S. will withdraw from the World Health Organization, the United States is expected to reduce funding to other U.N. agencies. As White House Bureau Chief Patsy Widakuswara reports, other wealthy nations are unlikely to fill the gap. 
+
+<br> 
+
+<https://www.voanews.com/a/few-alternatives-for-un-funding-as-us-withdraws-support/7947097.html>
+
+---
+
+## US House passes bill to detain unauthorized migrants accused of certain crimes
+
+date: 2025-01-23, from: VOA News USA
+
+WASHINGTON — The U.S. House of Representatives on Wednesday gave final approval to a bill that requires the detainment of unauthorized migrants accused of theft and violent crimes, marking the first legislation that President Donald Trump can sign as Congress, with some bipartisan support, swiftly moved in line with his plans to crackdown on illegal immigration. 
+
+
+Passage of the Laken Riley Act, which was named after a Georgia nursing student who was murdered last year by a Venezuelan man, shows just how sharply the political debate over immigration has shifted to the right following Trump's election victory.  
+
+
+
+
+Immigration policy has often been one of the most entrenched issues in Congress, but a crucial faction of 46 politically vulnerable Democrats joined Republicans to lift the strict proposal to passage on a 263-156 vote tally. 
+
+
+"For decades, it has been almost impossible for our government to agree on solutions for the problems at our border and within our country," said Senator Katie Britt, an Alabama Republican. She called the legislation "perhaps the most significant immigration enforcement bill" to be passed by Congress in nearly three decades. 
+
+
+Still, the bill would require a massive ramp up in U.S. Immigration and Customs Enforcement's capabilities, but it does not include any new funding. 
+
+
+Meanwhile, Trump has launched a slew of executive orders intended to seal off the U.S. border with Mexico to immigration and ultimately deport millions of migrants without permanent legal status in the U.S. On Wednesday, Trump also canceled refugee resettlement, and his administration has signaled that it intends to prosecute local law enforcement officials who do not enforce his new immigration policies. 
+
+
+Republican congressional leaders have made it clear they intend to follow suit. Their toughest challenge, however, will be finding a way to approve the funding to implement Trump's hardline plans. 
+
+
+"What he's doing is kickstarting what will ultimately be our legislative agenda," said House Speaker Mike Johnson. 
+
+
+House Republicans initially passed the legislation last year with support from 37 Democrats. It then languished in the Democratic-controlled Senate. 
+
+
+This year, Republicans, now with control of both congressional chambers, have made it their top priority. When it came before the Senate, 12 Democrats voted in favor of passage, and when the House voted on a version of the bill earlier this month, 48 Democrats supported it. 
+
+
+"While the bill is not perfect, it sends a clear message that we think that criminals should be deported," said Representative Tom Suozzi, a New York Democrat who has called on his party to support tougher immigration enforcement. 
+
+
+Under the legislation, federal authorities would be required to detain any migrant arrested or charged with crimes such as shoplifting. The scope of the proposal was widened in the Senate to also include those accused of assaulting a police officer or crimes that injure or kill someone. 
+
+
+The bill also gives legal standing to state attorneys general to sue the federal government for harm caused by federal immigration decisions. That gives states new power in setting immigration policy at a time when they have been trying to push back against presidential decisions under both the Trump and Biden administrations. 
+
+
+Ultimately, even the Trump administration is likely to struggle to implement the new requirements unless Congress follows up later this year with funding. Republicans are strategizing how to push their priorities through Congress using a party-line process known as budget reconciliation. They have put the cost of funding Trump's border and deportation priorities at roughly $100 billion. 
+
+
+The Department of Homeland Security has estimated the Laken Riley Act would cost $26.9 billion in the first year to implement, including an increase of 110,000 ICE detention beds. 
+
+
+Most Democrats criticized the lack of funding in the bill as proof that it is a piecemeal approach that would do little to fix problems in the immigration system and saddle federal authorities with new requirements. 
+
+
+"The bill's authors claimed it's going to result in the arrest and detention of serious criminals, but it will not do that because it's a totally unfunded mandate," said Democratic Senator Chris Murphy. 
+
+
+Others raised concerns that the bill would strip due process rights for migrants, including minors or recipients of the Deferred Action for Unaccompanied Minors program. Senator Alex Padilla, a Democrat, said that federal authorities would now be forced to prioritize detention of migrants arrested for low-level crimes like shoplifting, rather than those who commit violent felonies. 
+
+
+On the whole, there is no evidence that immigrants are more prone to violent crime. 
+
+
+Several studies have found immigrants commit crimes at lower rates than those born in the U.S. Groups that advocate for restrictive immigration policies dispute or dismiss those findings. 
+
+<br> 
+
+<https://www.voanews.com/a/us-house-passes-immigrant-detention-bill/7947071.html>
+
+---
+
+## Beijing's lack of clarity about Rubio sanctions sparks speculation in China
+
+date: 2025-01-23, from: VOA News USA
+
+washington — Beijing’s lack of clarity about whether it will lift sanctions previously placed on Marco Rubio — the new U.S. secretary of state and a China hawk — has sparked speculation on Chinese social media about whether Rubio will become the first American diplomat in his position who can’t visit China.
+
+
+On Baidu, China’s most popular search engine, sitting atop the trending chart Tuesday night was the question, “Will China remove sanctions on the new U.S. Secretary of State?” 
+
+ 
+
+On Weibo, China’s microblogging site similar to X, netizens wonder if Rubio will become the first U.S. secretary of state who won’t be able to come to China. 
+
+ 
+
+“This guy has been barred from entering China, let alone visiting China,” one Weibo user commented. “It’s now a question how he will be able to deal with China.” 
+
+
+Tough on China
+
+ 
+
+Rubio, the first Cabinet member of the second Trump administration to be confirmed by the Senate, was sworn in Tuesday. He was one of the toughest congressional lawmakers on China during his 14-year tenure as a senator. 
+
+ 
+
+Rubio introduced bills, made statements and worked with rights groups that were highly critical of China’s human rights record and growing influence around the world. A Chinese state media article once called him “one of America's most radical anti-China politicians.”
+
+
+In 2020, within a month, the Chinese government sanctioned Rubio twice.
+
+
+The first was announced in July of that year as part of the retaliation against the U.S. government’s sanctions against a Chinese government department and four officials in Xinjiang for human rights violations alleged to have taken place in the region. The second one was announced in August after Washington sanctioned 11 Chinese and Hong Kong officials. 
+
+ 
+
+“I don’t want to be paranoid, but I am starting to think they don’t like me,” Rubio tweeted sarcastically back then after learning about the sanctions. 
+
+ 
+
+
+
+
+During his confirmation hearing last week, Rubio reaffirmed his position on China, asserting that China remains the “biggest threat” to the United States in the 21st century. 
+
+ 
+
+“If we don’t change course, we are going to live in the world where much of what matters to us on a daily basis from our security to our health will be dependent on whether the Chinese allow us to have it or not,” he said during the hearing. 
+
+ 
+
+On China’s heavily censored internet, most of the comments on his swearing-in have been negative. 
+
+ 
+
+In a proposed Cabinet lineup that includes candidates who are controversial, Rubio stands out as one with bipartisan support. He received a unanimous 99 confirmation votes.
+
+
+Experts say that how Rubio approaches China will depend largely on President Donald Trump. 
+
+ 
+
+“Rubio has a long history of working on China. But everyone in the Cabinet is loyal to Trump. I do think Trump will be the ultimate decision maker on China,” Yun Sun, a senior fellow and co-director of the East Asia Program and director of the China Program at the Stimson Center, told VOA Mandarin.
+
+
+“Any China policy will be a balance of issues to reach what Trump defines as American national interests. Hawkish views and friendly views will both be a part of the deal,” she said. 
+
+ 
+
+Necessary to 'maintain contact'
+
+
+In his new role, Rubio has put Beijing in a peculiar position. The Chinese government has not publicly sent a clear signal regarding questions about whether it will lift sanctions on him to allow him to visit. 
+
+
+When asked if China would drop the sanctions, Guo Jiakun, a spokesperson for China’s foreign ministry, said Tuesday at the daily press conference, "China will firmly defend national interests. In the meantime, it's necessary for high-level Chinese and American officials to maintain contact in an appropriate way."
+
+
+Recent online speculation about Rubio has evolved since social media users noticed the Chinese government ostensibly changed its translation of Rubio’s name. 
+
+ 
+
+Claims circulated that Beijing changed the translation so that it could lift sanctions on Rubio without looking embarrassed, because now China can say the sanctions were aimed at a different person than Rubio. 
+
+ 
+
+But the so-called new translation isn’t new at all. The first translation has been the most widely used for Rubio in Chinese government documents and media. However, as early as 2019, People’s Daily, Beijing’s flagship state media outlet and a mouthpiece of the Chinese Communist Party, used the second translation to refer to Rubio in an attack article. 
+
+ 
+
+Transcripts from China’s foreign ministry also show that when the two sanctions on him were unveiled in 2020, Rubio was referred to by a third variation of his name. 
+
+
+The speculation garnered so much attention that Mao Ning, a spokesperson for China’s foreign ministry, was asked about it on Wednesday at a press conference. 
+
+ 
+
+“I am not yet aware of what you mentioned,” she said. 
+
+
+Lin Yang contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/beijing-s-lack-of-clarity-about-rubio-sanctions-sparks-speculation-in-china-/7947086.html>
+
+---
+
+## The mainstreaming of meme coins
+
+date: 2025-01-23, from: Market Place, Make me Smart
+
+<p>President Donald Trump drew scrutiny after he and First Lady Melania Trump launched namesake meme coins ahead of his inauguration, triggering a speculative boom and bust. But one exchange-traded fund firm wants to take the meme coins mainstream. We&#8217;ll get into the potential risks of incorporating volatile crypto tokens like these into traditional financial markets. And, a public service announcement: It&#8217;s OK to take a break from the news. Plus, guest host Matt Levin tells us about a new potential water source for the thirsty American West.</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2025-01-21/trump-memecoin-frenzy-spawns-etf-bid-in-test-of-sec-boundaries">&#8220;Trump Memecoin Frenzy Spawns ETF Bid in Test of SEC Boundaries&#8221;</a> from Bloomberg</li>
+<li><a href="https://www.vox.com/pages/logoff-newsletter-trump-administration-updates">&#8220;Sign up for The Logoff newsletter&#8221;</a> from Vox</li>
+<li><a href="https://www.sfgate.com/california/article/scientists-find-water-cascade-range-california-20047677.php">&#8220;Scientists just found 21 trillion gallons of water north of the Calif. border&#8221;</a> from SF Gate</li>
+<li><a href="https://www.cnbc.com/2025/01/22/musk-trump-ai-stargate-openai-softbank.html">&#8220;Musk undercuts Trump on Stargate AI investment announcement&#8221;</a> from CNBC</li>
+</ul>
+<p>We love to hear from you. Email us at makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/01/22/mms_20250122_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fthe-mainstreaming-of-meme-coins&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/01/22/mms_20250122_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fthe-mainstreaming-of-meme-coins&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/the-mainstreaming-of-meme-coins>
+
+---
+
+## Trump signals aggressive stance as US races China in AI development
+
+date: 2025-01-23, from: VOA News USA
+
+Before he had been in office for 48 hours, President Donald Trump sent a clear signal that to outpace China, his administration will be pursuing an aggressive agenda when it comes to pushing the United States forward on the development of artificial intelligence and the infrastructure that powers it.
+
+
+On his first day in office, Trump rescinded an executive order signed in 2023 by former President Joe Biden that sought to place some guardrails around the development of more and more powerful generative AI tools and to create other protections for privacy, civil rights and national security.
+
+
+The following day, Trump met with the leaders of several leading technology firms, including Sam Altman, CEO of Open AI; Larry Ellison, chairman of Oracle; and Masayoshi Son, CEO of SoftBank, to announce a $500 billion private sector investment in AI infrastructure known as Stargate.
+
+
+“Beginning immediately, Stargate will be building the physical and virtual infrastructure to power the next generation of advancements in AI, and this will include the construction of colossal data centers,” Trump said in a media event at the White House on Tuesday.
+
+
+Specifically, Stargate will invest in the creation of as many as 10 huge data centers in the United States that will provide the computing for artificial intelligence systems. The first data center is already under construction in Texas. The massive private sector investment will create up to 100,000 U.S. jobs, the executives said.
+
+
+Keeping AI in the US
+
+
+“What we want to do is, we want to keep it in this country,” Trump said. “China is a competitor, and others are competitors. We want it to be in this country, and we're making it available. I'm going to help a lot through emergency declarations, because we have an emergency. We have to get this stuff built.”
+
+
+The assembled tech leaders took the opportunity to praise the new president.
+
+
+“I think this will be the most important project of this era,” Altman said. “We wouldn’t be able to do this without you, Mr. President.”
+
+
+Janet Egan, a senior fellow in the technology and national security program at the Center for a New American Security, said that all the signals Trump is sending indicate he is serious about maintaining the United States’ current advantages in the development of advanced AI.
+
+
+“I think this shows that he's going to have a really clear mind as to how to partner closely with the private sector to enable them to speed up and run fast,” Egan said. “We've also seen him take direct action on some of the bottlenecks that are impeding the development of AI infrastructure in the U.S., and a particular focus is energy.”
+
+
+OpenAI, the creator of ChatGPT, has relied on Microsoft data centers for its computing. The firm reportedly discussed with the Biden administration the regulatory hurdles of planning and permitting when building data centers.
+
+
+In a policy paper released earlier this month, OpenAI cited the competition with China, laying out its policy proposals to “extending America’s global leadership in AI innovation.”
+
+
+“Chips, data, energy and talent are the keys to winning on AI — and this is a race America can and must win,” the paper said. “There’s an estimated $175 billion sitting in global funds awaiting investment in AI projects, and if the U.S. doesn’t attract those funds, they will flow to China-backed projects — strengthening the Chinese Communist Party’s global influence.”
+
+
+Patrick Hedger, director of policy at NetChoice, a technology trade association, told VOA that the Stargate announcement “immediately signaled to me that private capital is more than willing to come off the sidelines these days with the new Trump administration.”
+
+
+As part of his flurry of executive actions on Monday, Trump eliminated several preexisting executive orders placing limits on fossil fuel extraction and power generation. In the White House event on Monday, Trump also noted that AI data centers consume vast amounts of electricity and said he would be clearing the way for Stargate and other private companies to invest in new energy generation projects.
+
+
+China competition
+
+
+While Trump eliminated many of Biden’s executive orders immediately on Monday, he does not appear to have taken action against some of the former president’s other AI-related initiatives. Last year, Biden took several steps to restrict China’s access to cutting-edge technology related to AI, specifically, restricting the ability of companies that sell advanced semiconductors and the machinery used to produce them to Chinese firms.
+
+
+
+On that issue, Egan said, Trump and Biden appear to be on the same page.
+
+
+
+“I think it's important to also note the continuity in how Trump's approaching AI,” she said. “He, too, sees it as a national security risk and national security imperative. ... So, I think we should expect to see this run-fast approach to AI complemented by continued efforts to understand and manage emerging risks. Particularly cyber, nuclear, biological risks, as well as a more muscular approach to export controls and enforcement.”
+
+
+
+Speed and safety
+
+
+
+Louis Rosenberg, CEO and chief scientist at Unanimous AI and a prominent figure in the field for decades, told VOA he thinks there is a bipartisan consensus that AI needs to be developed speedily but also responsibly.
+
+
+“At the highest level, the accelerating risks around frontier AI is not a partisan issue,” he wrote in an email exchange. “Both parties realize that significant safeguards will be needed as AI gets increasingly intelligent and flexible, especially as autonomous AI agents get released at large scale.”
+
+
+Rosenberg said the most significant question is how the U.S. can remain the global leader in AI development while making sure the systems that are deployed are safe and reliable.
+
+
+“I suspect the Trump administration will address AI risks by deploying its own targeted policies that are not as broad as the Biden executive order was but can address real threats much faster,” he wrote. “The Biden executive order was very useful in raising the alarm about AI, but from a practical perspective it did not provide meaningful protections from the important emerging risks.
+
+
+“Ultimately we need to find a way to move fast on AI development and move fast on AI protection. We need speed on both fronts,” Rosenberg said.
+
+
+VOA Silicon Valley bureau chief Michelle Quinn contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-signals-aggressive-stance-as-us-races-china-in-ai-development/7947068.html>
+
+---
+
+## Trump escalates campaign against diversity, threatens private sector probes
+
+date: 2025-01-22, from: VOA News USA
+
+U.S. President Donald Trump escalated his campaign against diversity programs on Tuesday by pressuring the private sector to join the initiative and telling government employees in offices administering such programs they would be placed on paid leave.
+
+
+On his first day in office, Trump issued a series of executive orders to end diversity, equity and inclusion programs, which attempt to promote opportunities for women, ethnic minorities, LGBTQ+ people and other traditionally underrepresented groups.
+
+
+Civil rights advocates have argued that such programs are necessary to address long-standing inequities and structural racism. Trump and his supporters say DEI programs end up unfairly discriminating against other Americans and weaken the importance of candidates' merit in job hiring or promotion.
+
+
+In an executive order issued on Tuesday, Trump revoked executive orders dating as far back as 1965 on environmental actions, equal employment opportunities and encouragement to federal contractors to achieve workforce balancing on race, gender and religion.
+
+
+The 1965 order that was revoked was signed by then-President Lyndon Johnson to protect the rights of workers employed by federal contractors and ensure they remained free from discrimination on the basis of race, color, religion, sex, sexual orientation, gender identity or national origin, according to the Labor Department.
+
+
+The Trump executive order seeks to dissuade private companies that receive government contracts from using DEI programs and hiring on the basis of race and sex — what the order called "illegal DEI discrimination and preferences" — and asks government agencies to identify private companies that might be subject to civil investigation.
+
+
+"As a part of this plan, each agency shall identify up to nine potential civil compliance investigations of publicly traded corporations, large non-profit corporations or associations, foundations with assets of 500 million dollars or more, State and local bar and medical associations, and institutions of higher education with endowments over 1 billion dollars," the order said.
+
+
+Full details on how the Trump administration would enforce "civil compliance investigations" were not immediately available.
+
+
+The order issued on Tuesday stipulates that federal and private-sector employment preferences for military veterans could continue.
+
+
+The executive order was celebrated by conservative activists and Republican leaders. It was also met with condemnation from civil rights leaders who are strategizing how to respond to Trump's actions.
+
+
+Reverend Al Sharpton, founder and president of the National Action Network, formally announced Wednesday the organization and its partners plan to identify two companies in the next 90 days that will be boycotted for abandoning DEI pledges. Reuters first reported the coordinated action ahead of Martin Luther King Jr. Day.
+
+
+Basil Smikle Jr., a political strategist and policy adviser, said he was troubled by the Trump administration's assertion that diversity programs were "diminishing the importance of individual merit, aptitude, hard work and determination" because it suggested women and people of color lacked merit or qualifications.
+
+
+"There's this clear effort to hinder, if not erode, the political and economic power of people of color and women," Smikle said.
+
+
+"What it does is opens up the door for more cronyism," he said.
+
+The White House did not immediately respond to a request from Reuters to address criticism from civil rights advocates.
+
+
+Separately, the Trump administration instructed U.S. federal government departments and agencies to dismantle all DEI programs, advising employees of such programs that they would be immediately placed on paid leave.
+
+
+The government should by the end of business on Wednesday inform employees of any government offices or units focused exclusively on DEI that their programs will be shut down and employees placed on leave, the Office of Personnel Management said in a memorandum.
+
+
+The Tuesday memo also included a template for agency heads to use, encouraging federal employees to report alleged attempts by "some in government to disguise" continued use of DEI programs and initiatives "by using coded or imprecise language." A directive, using nearly identical wording, was distributed Wednesday to staff at various federal agencies and departments, including the State Department, according to a memo viewed by Reuters.
+
+
+Trump also signed a memorandum on Tuesday that ends a Biden administration initiative to promote diversity in the Federal Aviation Administration (FAA), ordering the FAA administrator to immediately stop DEI hiring programs, the White House said.
+
+
+Trump ordered the FAA to conduct a safety review that would replace any employees who fail to demonstrate their competence.
+
+
+"President Trump is immediately terminating this illegal and dangerous program and requiring that all FAA hiring be based solely on ensuring the safety of airline passengers and overall job excellence," the White House said in a fact sheet. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-escalates-campaign-against-diversity-threatens-private-sector-probes-/7946801.html>
+
+---
+
+## On the very first case vs. Trump 47
+
+date: 2025-01-22, from: The Contrarian
+
+Jen Rubin, Norm Eisen, and Robert Weissman in discussion 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155484978/976aa3fd8442ab36f0a6828f89f8247f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155484978/976aa3fd8442ab36f0a6828f89f8247f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-norm-eisen-and-robert-weissman>
+
+---
+
+## Austin Tice's mother travels to Syria to search for missing son
+
+date: 2025-01-22, from: VOA News USA
+
+WASHINGTON/DAMASCUS, SYRIA — At a recent press conference in the Four Seasons Hotel in Syria's capital, Damascus, Debra Tice made clear that she would never give up searching for her son, Austin.
+
+
+A former U.S. Marine-turned-journalist, Austin Tice was detained at a checkpoint in Syria in 2012. Little has been heard or seen of him since, but he is believed to have been held in Damascus.
+
+
+After the Bashar al-Assad government fell in December, U.S. officials made a few short visits to Syria, but Tice's family said they had expected more.
+
+
+Debra said she had hoped the U.S. government would send an official search team, but she wasn't shocked that they didn't.
+
+
+"You can't even believe it. It's heartbreaking," she said.
+
+
+Watch related report by Cristina Caicedo Smit and Liam Scott:
+
+
+
+
+In the weeks after the Islamist militant group Hayat Tahrir al-Sham — known as HTS — overthrew the Assad government, hundreds of people were released from prisons run by the former government.
+
+
+Scenes of families reuniting had raised hope among the Tice family. Just days before Assad fell, the family had convened in Washington to say they had received recent evidence confirming Tice was alive.
+
+
+At the press conference on Monday, Debra said that she feels solidarity with the many Syrians who have had a family member disappear.
+
+
+These families "understand the pain that we carry every day, that our families carry, that the nieces and nephews that have never met their uncles carry," she said.
+
+
+"For all the mothers whose sons were disappeared in these dungeons, our hearts are joined," she said.
+
+
+When Roger Carstens, the U.S. hostage envoy for the Biden and first Trump administration, visited Damascus in late December, he told reporters that U.S. officials weren't able to be on the ground for extended periods of time to search for Tice.
+
+
+Trump's new nominee for the hostage envoy position is Adam Boehler, whose confirmation hearing has yet to be scheduled.
+
+
+Watch related report by Cristina Caicedo Smit:
+
+
+
+
+On the ground in Syria, the Washington-based nonprofit Hostage Aid Worldwide has been leading efforts to locate Tice.
+
+
+Soon after Assad fell, the team began searching former prisons and buildings, including one that the group's president, Nizar Zakka, described as a secret detention center.
+
+
+The facility was dark and grimy. Like in previous prisons they inspected, they found documents, but no people.
+
+
+"We are learning more and more about how the prison systems operate in Syria, how it was operating, how it was moving, who managed what," Zakka told VOA after a search. "It's going to take time to find Austin."
+
+
+In December, the U.S. State Department announced it was increasing its award to $10 million for information about Tice's whereabouts.
+
+
+"I understand the State Department, that they're outside of Syria and they want to feel like they're doing something," Zakka said. But the increased reward has led to an increase in tips with unhelpful information, he said.
+
+
+A State Department spokesperson told VOA that efforts to find Tice remain under way.
+
+
+"We are working to get U.S. officials into Damascus for additional trips to help direct the search and will do so as soon as we confirm the conditions are safe and local authorities can accommodate the visit," the spokesperson said in a Thursday statement.
+
+
+Advocates say it feels as if the search for Tice has fallen on civil society groups, rather than the U.S. government.
+
+
+"It definitely feels like that — that they're standing back at this time," according to Bill McCarren, the executive director at the National Press Club's Press Freedom Center in Washington.
+
+
+"There does need to be a more sustained effort," said McCarren, who has worked on Tice's case for years.
+
+
+
+
+In Damascus, Tice's mother said she was hopeful that the new Trump administration would help secure her son's release.
+
+
+"I have great hope that the Trump administration will sincerely engage in diligent work to bring Austin home," she said. "His people have already reached out to me."
+
+
+While visiting the Syrian capital, she also met with Syria's new de facto leader Ahmed al-Sharaa.
+
+
+"It was so wonderful to learn that they are dedicated and determined to bring home my son," she said.
+
+
+But for Zakka of Hostage Aid Worldwide, the Syrian transitional government is also making it harder for his organization to search for Tice. Soon after Assad fell, Zakka said his group had a lot of freedom.
+
+
+But now, "there's more restrictions every day," Zakka said. "It's getting difficult." 
+
+<br> 
+
+<https://www.voanews.com/a/austin-tice-s-mother-travels-to-syria-to-search-for-missing-son/7946775.html>
+
+---
+
+## Immigration is tied to food security, farmer says, and food security is tied to national security
+
+date: 2025-01-22, from: Market Place
+
+Patrick Smith of Loftus Ranches relies on temporary workers to tend his crops. Immigration policy has broad impact, he says. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/22/immigration-is-tied-to-food-security-farmer-says-and-food-security-is-tied-to-national-security/>
+
+---
+
+## Procter & Gamble says higher volume, not prices,  lifted sales
+
+date: 2025-01-22, from: Market Place
+
+The company says its 3% sales increase came in part through customers buying bigger packs of things at Costco and other club stores. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/22/procter-gamble-says-higher-volume-not-prices-lifted-sales/>
+
+---
+
+## What’s the best way to help LA fire victims? Think before you donate.
+
+date: 2025-01-22, from: Market Place
+
+Used clothing is an especially unwieldy gift for aid groups and disaster victims.
+
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/22/help-la-fire-victims-donations-los-angeles-wildfires/>
+
+---
+
+## Russia's Arctic militarization behind Trump's focus on Greenland
+
+date: 2025-01-22, from: VOA News USA
+
+Nuuk, Greenland  — A blizzard whips the Danish, Greenlandic and Faroe Islands flags above the Joint Arctic Command headquarters overlooking the harbor of Nuuk, the capital of Greenland.
+
+
+The small military outpost staffed by around 80 personnel oversees Danish security for the vast Arctic island of some 2.1 million square kilometers.
+
+
+Greenland’s government is largely autonomous, but the island is part of the Danish Kingdom, and Denmark retains responsibility for its security.
+
+
+U.S. President Donald Trump has made clear his determination to take ownership of the island for the United States and hasn’t ruled out using economic or military force.
+
+
+Speaking hours after his inauguration, Trump reiterated his view that U.S. control was necessary for “international security” because, he explained, “You have Russian boats all over the place. You have China boats all over the place, warships. And [Denmark] can't maintain it.”
+
+
+Russian missiles
+
+
+The United States has long viewed Greenland as vitally important for its defense, explained Marc Jacobsen, an analyst at the Royal Danish Defense College in Copenhagen.
+
+
+“There's no doubt that it's geostrategically important in defending the U.S. national security against Russian missiles,” Jacobsen told VOA. “The shortest route for Russian missiles towards the U.S. is via the North Pole, via Greenland.”
+
+
+Russia has invested heavily in its Arctic military footprint in recent years. Its northernmost Nagurskoye air base on Siberia’s northern coast hosts nuclear-capable strategic bombers, missile and surveillance systems.
+
+
+Russian nuclear submarines patrol the Arctic seas, while a growing fleet of nuclear-powered ice breakers projects Kremlin power across the region.
+
+
+
+
+China and Russia have conducted joint military drills in the Arctic. Beijing is also seeking access to valuable minerals beneath the ice.
+
+
+“There is definitely a threat, especially from Russian military capacities in that region. And NATO countries are right now moving to increase their capacity,” Jon Rahbek-Clemmensen, also of the Royal Danish Defense College, told VOA.
+
+
+Denmark’s defense
+
+
+
+Denmark’s military capabilities on Greenland consist of four aging naval patrol vessels, a surveillance plane and dog sled patrols.
+
+
+Copenhagen announced plans last month to invest in new surveillance drones, two new ships and additional personnel, along with upgrading an existing air base to accommodate F-35 fighter jets. The exact cost has yet to be decided, but the government said it would spend a “double-digit billion amount” in Danish kroner, or at least $1.5 billion.
+
+
+Defense Minister Troels Lund Poulsen admitted, however, that the government has failed to invest in Greenland’s security.
+
+
+“We have neglected for many years to make the necessary investments in our ships, in the aircraft that will help to monitor our kingdom, and that is what we are now trying to do something about,” he told reporters on Jan. 9.
+
+
+“We will hopefully create an investment package where we will strengthen our ability to monitor what is happening in the Arctic, and also for some new capacities to be put into place.”
+
+
+Denmark hopes the upgrades will go toward “meeting American demands for increasing the surveillance of Greenland,” Jacobsen said.
+
+
+US Space base
+
+
+
+The U.S. military has been present in Greenland since World War II, when American forces were deployed to the island following Denmark’s fall to Nazi Germany. At the height of the U.S. deployment, Greenland hosted more than 10,000 U.S. service personnel.
+
+
+
+
+The Pituffik Space Base on Greenland’s northwest coast, formerly known as the Thule Air Base, is the United States’ northernmost military facility. It now hosts around 200 military personnel, alongside missile warning, defense and space surveillance systems.
+
+
+“The military protection of Greenland de facto relies on the U.S.,” Rahbek-Clemmensen said. “And the big question is then whether the U.S. wants to enhance that presence, perhaps to be able to do other types of military operations in that area.”
+
+
+That may be why, he added, Danish officials appear to be approaching the issue in a manner that maintains good U.S. relations.
+
+
+“The Danish government has been trying to touch on that word 'control' that Trump uses, which is a very ambiguous term,” he added. “What does control mean? Does it mean owning a piece of territory? Or does it mean having a certain amount of military equipment on that territory?”
+
+
+US-Danish relations
+
+
+At Denmark’s Arctic command center in Nuuk, the U.S. flag flies alongside the Danish, Greenlandic and Faroe Islands colors. The building also hosts the U.S. Consulate — a sign that, for the time being, U.S.-Danish relations remain cordial.
+
+
+Before Trump’s inauguration, the U.S. Embassy in Copenhagen said there were no plans to expand U.S. military presence in Greenland.
+
+
+That could change under the new president.
+
+
+For now, Denmark and its European allies are hoping that Trump’s comments are part of a strategy to force NATO allies to spend more on defense.
+
+
+“There's an important element which is about his personality, which he brings into the way that U.S. diplomacy, or his diplomacy, is carried out,” Jacobsen said.
+
+
+“In a positive light, if the USA increases its presence in the Arctic, it will increase the NATO presence, because the seven Arctic states — besides Russia — we are all members of NATO now.” 
+
+<br> 
+
+<https://www.voanews.com/a/russia-s-arctic-militarization-behind-trump-s-focus-on-greenland/7946621.html>
+
+---
+
+## After a flurry of panic, White House narrows IRA funding restrictions in prior executive order
+
+date: 2025-01-22, from: Market Place
+
+The Office of Management and Budget clarified that the EO limits disbursements for climate-related projects, like EV charger infrastructure. Other funding can keep flowing, if agencies check in first.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/22/ira-funding-restrictions-executive-order-trump-transportation-federal-dollars-confusion/>
+
+---
+
+## There Is a Big New Fire in Los Angeles County
+
+date: 2025-01-22, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTgwNTMxMy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4MTA0NjcwNH0.HMLJCjC_sXWhvWobCwo1HRNdNGLC8QmV4wy3F8LLiIQ/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C1"/><br/><br/><p>
+	In a textbook illustration of how quickly a fire can start, spread, and threaten lives 
+	<a href="https://heatmap.news/climate/what-started-los-angeles-fires?rebelltitem=4#rebelltitem4:~:text=Why%20are%20these%20fires%20so%20bad%3F%20Is%20it%20climate%20change%3F" target="_self"><u>during historically dry and windy conditions</u></a>, a new blaze has broken out in beleaguered Los Angeles County.
+</p><p>
+	The Hughes Fire ignited Wednesday around 11 a.m. PT to the north of Santa Clarita and has 
+	<a href="https://www.fire.ca.gov/incidents/2025/1/22/hughes-fire" rel="noopener noreferrer" target="_blank"><u>already billowed to nearly 9,500 acres</u></a>, buffeted by winds of 20 to 25 miles per hour with sustained gusts up to 40 miles per hour, Lisa Phillips, a meteorologist at the National Weather Service, told me. The area had been under a red-flag warning that started Sunday evening and now extends through Thursday night. “There are super dry conditions, critically dry fuel — that’s the basic formula for red flag conditions,” Phillips said. “So it’s definitely meeting criteria.”
+</p><p>
+	This early in a new fire, the situation is dangerously fluid. The Hughes Fire is 0% contained and spreading swiftly as firefighters attempt to contain it through an aerial flame-suppression barrage that has diminishing returns once the winds grow stronger and begin to blow the retardant away. Once that happens, it will be up to crews on the ground to establish lines to prevent 
+	<a href="https://heatmap.news/climate/los-angeles-fires-water" target="_self"><u>another difficult-to-fight urban fire</u></a>.
+</p><center><div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;"><iframe allowfullscreen="true" allowtransparency="true" class="" data-tweet-id="1882185983225188828" frameborder="0" id="twitter-widget-0" scrolling="no" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1882185983225188828&lang=en&origin=https%3A%2F%2Fheatmap.news%2Fr%2Fentryeditor%2F2670966440%23publish&sessionId=ec4f679f24141c5aa0b962fe61e0ec9986a27e01&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px" style="position: static; visibility: visible; width: 550px; height: 681px; display: block; flex-grow: 1;" title="X Post"></iframe></div><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></center><p>
+	As of Wednesday evening, some 31,000 people were under evacuation orders, and another 23,000 were under evacuation warnings, 
+	<a href="https://www.nytimes.com/live/2025/01/22/us/los-angeles-wildfires-california/f2fb1159-2d43-52a8-a15d-252b1510ad11?smid=url-share" rel="noopener noreferrer" target="_blank">according to The New York Times</a>. Authorities have had to evacuate <a href="https://www.nytimes.com/live/2025/01/22/us/los-angeles-wildfires-california/685f9a8e-c042-5140-a7c5-84a7dd3f8a27?smid=url-share" rel="noopener noreferrer" target="_blank"><u>at least three schools</u></a> — yet another testament to the surprising growth and spread of the new fire.
+</p><center><div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;"><iframe allowfullscreen="true" allowtransparency="true" class="" data-tweet-id="1882145599639949404" frameborder="0" id="twitter-widget-1" scrolling="no" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1882145599639949404&lang=en&origin=https%3A%2F%2Fheatmap.news%2Fr%2Fentryeditor%2F2670966440%23publish&sessionId=ec4f679f24141c5aa0b962fe61e0ec9986a27e01&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px" style="position: static; visibility: visible; width: 550px; height: 601px; display: block; flex-grow: 1;" title="X Post"></iframe></div> <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></center><p>
+	“It’s important for people to remain aware of their surroundings, and if there is a fire nearby, you need to consider putting together a bag of some important items,” Phillips said. She stressed that, especially in 
+	<a href="https://heatmap.news/guides/wildfire-evacuation-guide" target="_self"><u>rapidly evolving situations</u></a> like this one, “sometimes you don’t get a whole lot of warning when they say you need to go now.”
+</p><p>At a news conference Wednesday evening, Los Angeles County Fire Chief Anthony Marrone said that <a href="https://kslnewsradio.com/national-news/evacuations-ordered-as-new-wildfire-threatens-homes-north-of-los-angeles/2174214/" target="_blank">conditions remained difficult</a>, but that less extreme wind conditions than those they faced two weeks ago had allowed firefighters to get “the upper hand.”</p><p>
+	The NWS expects 
+	<a href="https://heatmap.news/guides/santa-ana-winds-climate-change" target="_self"><u>winds</u></a> to pick up overnight, which could complicate firefighting efforts in the fire-weary county. To date, <a href="https://www.forbes.com/sites/antoniopequenoiv/2025/01/21/california-fires-heres-the-data-behind-the-historic-blazes-that-have-burned-through-40000-acres/" rel="noopener noreferrer" target="_blank"><u>some 40,000 acres</u></a> of southern California have burned since the start of the year.
+</p><p><em>Editor’s note: This story was last updated January 22, at 9 p.m. ET.</em><br/></p> 
+
+<br> 
+
+<https://heatmap.news/sparks/hughes-fire-los-angeles>
+
+---
+
+## Russia’s Arctic militarization behind Trump’s focus on Greenland
+
+date: 2025-01-22, from: VOA News USA
+
+U.S. President Donald Trump this week repeated his assertion that American control of Greenland is vital for “international security.” As Henry Ridgwell reports, Denmark, which owns the island, has admitted failing to invest in its security, amid growing threats from Russia and China. 
+
+<br> 
+
+<https://www.voanews.com/a/russia-s-arctic-militarization-behind-trump-s-focus-on-greenland/7946748.html>
+
+---
+
+## Consumers are still strong, despite rising debt delinquencies
+
+date: 2025-01-22, from: Market Place
+
+Though many households are faltering on credit card and auto loan payments, wealthier Americans are keeping the spending metrics robust. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/22/consumer-spending-credit-card-auto-loan-delinquencies/>
+
+---
+
+## VOA Spanish: Thousands of migrants stranded in Mexico with end of CBP One
+
+date: 2025-01-22, from: VOA News USA
+
+Thousands of migrants have been stranded on Mexico's northern border after U.S. President Donald Trump ordered the CBP One application to request asylum in the United States to be deactivated. Vicente Calderon reports that they are now at risk of being deported.
+
+
+Click here for the full video in Spanish. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-spanish-thousands-of-migrants-stranded-in-mexico-with-end-of-cbp-one/7946752.html>
+
+---
+
+## Trump administration freezes many health agency reports, online posts
+
+date: 2025-01-22, from: VOA News USA
+
+The Trump administration has put a freeze on many federal health agency communications with the public through at least the end of the month. 
+
+
+In a memo obtained by The Associated Press, acting Secretary of the U.S. Department of Health and Human Services Dorothy Fink told agency staff leaders Tuesday that an "immediate pause" had been ordered on — among other things — regulations, guidance, announcements, press releases, social media posts and website posts until such communications had been approved by a political appointee. 
+
+
+The pause also applies to anything intended to be published in the Federal Register, where the executive branch communicates rules and regulations, and the Morbidity and Mortality Weekly Report, a Centers for Disease Control and Prevention scientific publication. 
+
+
+The pause is in effect through February 1, the memo said. Agencies subject to the HHS directive include the CDC, the National Institutes of Health and the Food and Drug Administration — entities that fight epidemics, protect the nation's food supply, and search for cures to diseases. 
+
+
+HHS officials did not respond to requests for comment on the pause, which was first reported by The Washington Post. Four federal health officials speaking on condition of anonymity because they weren't authorized to discuss the issue confirmed the communication pause to the AP. 
+
+
+A former HHS official said Wednesday that it's not unusual for incoming administrations to pause agency communications for review. But typically, officials working on the president's transition team have the process for issuing documents running smoothly by inauguration day. 
+
+
+"The executive branch is a hierarchy," said Steven Grossman, who now consults for food and drug companies, in an email. "Whether stated publicly or not, every new administration wants important commitments and positions to wait until new teams are in place and some semblance of hierarchy restored." 
+
+
+A pause is reasonable as a changing executive branch takes steps to become coordinated, said Dr. Ali Khan, a former CDC outbreak investigator who is now dean of the University of Nebraska's public health college. 
+
+
+"The only concern would be is if this is a prelude to going back to a prior approach of silencing the agencies around a political narrative," he added. 
+
+
+During his first term, President Donald Trump's political appointees tried to gain control over the CDC's MMWR journal, which had published information about the COVID-19 pandemic that conflicted with messaging from the White House. 
+
+
+Fink wrote in her memo that some exceptions would be made for communications affecting "critical health, safety, environmental, financial or nation security functions," but that those would be subject to review. The FDA on Tuesday and Wednesday posted notices about warning letters sent to companies and a drug safety notice. 
+
+
+A consumer advocacy group said the communications pause could still threaten public safety. 
+
+
+Americans depend on timely information from the CDC, the FDA and other agencies to avoid foodborne illnesses and stay aware of other health issues, said Dr. Peter Lurie, president of the Center for Science in the Public Interest. 
+
+
+"When it comes to stopping outbreaks, every second counts," Lurie said in a statement. "Confusion around the vaguely worded gag order is likely to lead to unnecessary delay in publishing urgent public alerts during active outbreaks." 
+
+
+He was echoed by Dr. Jeffrey Klausner, a University of Southern California public health expert. 
+
+
+"Local health officials and doctors depend on the CDC to get disease updates, timely prevention, testing and treatment guidelines and information about outbreaks," Klausner wrote in an email. "Shutting down public health communication stops a basic function of public health. Imagine if the government turned off fire sirens or other warning systems." 
+
+<br> 
+
+<https://www.voanews.com/a/trump-administration-freezes-many-health-agency-reports-online-posts/7946719.html>
+
+---
+
+##  Wall Street Is Jacking Up The Cost Of Your Doctor Visits 
+
+date: 2025-01-22, from: The Lever News
+
+ A groundbreaking study finds doctors affiliated with hospitals and private equity firms are charging billions more annually than independent general practitioners.  
+
+<br> 
+
+<https://www.levernews.com/wall-street-is-jacking-the-cost-of-your-doctor-visits/>
+
+---
+
+## VOA Russian: Trump's 'drill, baby, drill' may spell trouble for Russian budget
+
+date: 2025-01-22, from: VOA News USA
+
+As U.S. President Donald Trump declared an energy emergency in the United States and signed a sweeping executive order to expand oil and gas drilling, VOA’s Russian Service spoke to experts who predict that if oil prices fall, the Russian budget may feel pressure that could make any further U.S. sanctions against Russia, touted by Trump if Putin does not make a deal on the war in Ukraine, more painful for Moscow.
+
+
+Click here for the full story in Russian. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-russian-trump-s-drill-baby-drill-may-spell-trouble-for-russian-budget/7946709.html>
+
+---
+
+## Trump's agriculture secretary pick led group opposed to ethanol, farm subsidies
+
+date: 2025-01-22, from: VOA News USA
+
+President Donald Trump's pick to run the Agriculture Department, Brooke Rollins, led an organization that opposed ethanol mandates and farm subsidies, major programs she could influence if confirmed, according to a Reuters review of the group's policy statements.
+
+
+That background may put Rollins at odds with farm state lawmakers at her nomination hearing on Thursday and revive concerns in the powerful corn and biofuel lobbies about Trump's mixed record on ethanol during his first term in office.
+
+
+"The hearing is a perfect occasion to renounce the misleading and demonstrably false statements made about ethanol by some of her colleagues more than a decade ago," said Geoff Cooper, president and CEO of the Renewable Fuels Association, an ethanol trade group.
+
+
+Rollins was president and CEO of the Texas Public Policy Foundation from 2003 to 2018, during which time the oil industry-backed nonprofit argued that government support for ethanol contributed to higher emissions and rising food and fuel prices.
+
+
+The oil industry has seen ethanol as a threat to its share in the gasoline market. It says a federal mandate requiring the biofuel to be blended into the nation's fuel supply costs it a fortune in compliance costs.
+
+
+"As a way to save the planet, not many policies are worse than government-backed ethanol. It’s bad for the economy, bad for the environment, doesn’t reduce greenhouse gases and has led to rapidly rising food prices," said one article published by the Texas group in 2012.
+
+
+In 2017, Rollins endorsed Kathleen Hartnett White, the longtime director of the group's energy program, to serve as Trump's chair of the White House's Council on Environmental Quality. The White House later withdrew her nomination after a contentious hearing that included criticism of her ethanol positions from farm state senators.
+
+
+White had supported a 2008 effort by then-Texas Governor Rick Perry to partly waive the ethanol blending program, known as the Renewable Fuel Standard, in the state. The Environmental Protection Agency, which administers the program, denied Perry's request.
+
+
+During Rollins' tenure, the group also called for the elimination of farm subsidies in a 2016 report titled The Policymaker's Guide to Corporate Welfare.
+
+
+The report said offering loan guarantees to farmers to start or expand their operations "introduces distortions into the marketplace."
+
+
+The USDA issues billions of dollars in direct and guaranteed loans each year to support the domestic farm economy.
+
+
+Rollins, who served as acting director of the White House Domestic Policy Council during Trump's first term, is set to appear before the Senate Agriculture Committee for her nomination hearing on Thursday.
+
+
+"Brooke Rollins will work to enact the president’s agenda, and you can look to President Trump’s past statements of support for biofuels to understand the administration’s position on this issue," said Anna Kelly, a spokesperson for the Trump administration transition team.
+
+
+During his 2017-21 term, Trump boosted corn-based ethanol by enabling year-round sales of higher ethanol blends of gasoline, but he also angered the ethanol industry by expanding the use of waivers exempting small refiners from the federal blending requirement.
+
+
+Ethanol trade group Growth Energy said it supported Rollins' nomination and believed the Trump administration would support the ethanol industry's priorities.
+
+
+During the Biden administration, Rollins led the America First Policy Institute, a policy organization closely tied to Trump that has expressed skepticism about climate change.
+
+
+More than 400 state and national agriculture groups wrote to Senate Agriculture Committee leaders John Boozman and Amy Klobuchar on January 15 to endorse Rollins.
+
+
+"Her close working relationship with incoming President Trump will ensure that agriculture and rural America have a prominent and influential voice at the table when critical decisions are made in the White House," the letter said. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-s-agriculture-secretary-pick-led-group-opposed-to-ethanol-farm-subsidies-/7946665.html>
+
+---
+
+## Undermining DOJ
+
+date: 2025-01-22, from: The Contrarian
+
+By Mimi Rocah 
+
+<br> 
+
+<https://contrarian.substack.com/p/undermining-doj>
+
+---
+
+## Trump revokes humanitarian parole for migrants from 4 countries
+
+date: 2025-01-22, from: VOA News USA
+
+Washington — U.S. President Donald Trump ended on Monday a humanitarian parole program that benefited Cubans, Nicaraguans, Venezuelans, and Haitians. 
+
+
+Under the executive order called “Securing Our Borders,” which outlines various immigration-related actions, President Trump aimed to take “all appropriate action” to build the border wall, deploying defense personnel to the southern border, and detain irregular migrants. It also asks for elimination of certain parole programs. 
+
+
+One such program, the CHNV program (Cuba, Haiti, Nicaragua, Venezuela) allowed up to 30,000 individuals per month from those countries to enter the United States legally and stay for a period of up to two years, provided they had a U.S.-based supporter. 
+
+
+As of December 2024, about 531,690 people had entered the country under that program, according to data from U.S. Customs and Border Protection. Beneficiaries were required to have a valid passport, arrange their own travel, and pass national security and public safety vetting, among other criteria. 
+
+
+The Biden White House announced the CHNV parole program on January 5, 2023. Officials at the time said the initiative was part of the administration's efforts to discourage unlawful entries along the U.S. southern border.  
+
+
+The program was modeled on the Ukraine program and an earlier Venezuelan program. 
+
+
+Immediate effects 
+
+
+The executive order took effect immediately. That means that no new applications will be accepted from individuals seeking to sponsor those migrants. 
+
+
+Elizabeth Jacobs of the Center for Immigration Studies, a Washington-based group that advocates restricting immigration to the U.S., told VOA that those who have received parole already through this program will likely be allowed to remain in the United States as parolees until their parole period expires.” 
+
+
+At that time, Jacobs said, those individuals would be “without status” and at risk of deportation. 
+
+
+Programs like CNHV were a way “Americans have been able to legally and safely sponsor newcomers in need of refuge to come to the United States, including Afghan allies,” Nazanin Ash, CEO of Welcome.US, wrote on their website. 
+
+
+"Those who had parole protection before January 20 will have to seek immigration status through other means or risk deportation from the United States," Cori Alonso-Yoder, told VOA. She is an immigration law professor at George Washington University. 
+
+
+The executive orders do not indicate that humanitarian parole will be revoked for current beneficiaries of the program, said Doris Meissner of the Migration Policy Institute in Washington during a press call on Tuesday. However, “they certainly will not renew it.” 
+
+
+“So what happens to those people? If they stay in the U.S. once the two-year period ends, they will, of course, fall into unauthorized status. They will lose their work authorization and will certainly be subject to deportation,” she noted. 
+
+
+
+
+Other legal options 
+
+
+The program was not a path to U.S. citizenship or permanent residence. However, according to immigration lawyers, beneficiaries may be able to adjust their immigration status from temporary parole to a more permanent one, such as a visa or sponsorship through a U.S. relative, which can lead to a green card. 
+
+
+Cubans, after a year in the U.S., can apply for permanent residence under the Cuban Adjustment Act. Venezuelans and Haitians may qualify for Temporary Protected Status, which provides relief from deportation and work authorization.
+
+
+They could also apply for asylum along with Nicaraguans. However, they must demonstrate a credible fear of persecution in their home countries based on race, religion, nationality, social group, or political opinion. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-revokes-humanitarian-parole-for-migrants-from-four-countries/7946518.html>
+
+---
+
+## Trump Actions to Undermine Drug Prices Will Cost Medicare Recipients Money 
+
+date: 2025-01-22, from: The Contrarian
+
+By Jeff Nesbit, Former Assistant Secretary for Public Affairs at the U.S. Department of Health and Human Services 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-actions-to-undermine-drug-prices>
+
+---
+
+## Call Center Workers Continue Union Push After Biden Administration Drops Fight
+
+date: 2025-01-22, from: Capital and Main
+
+<p>Officials withdrew a rebid of a $6.6 billion contract requiring “labor harmony” 25 days after the $5 billion corporation holding it filed suit.</p>
+<p>The post <a href="https://capitalandmain.com/call-center-workers-continue-union-push-after-biden-administration-drops-fight">Call Center Workers Continue Union Push After Biden Administration Drops Fight</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/call-center-workers-continue-union-push-after-biden-administration-drops-fight>
+
+---
+
+## How Big Insurance’s Investment in Fossil Fuels Came Back to Bite It
+
+date: 2025-01-22, from: Capital and Main
+
+<p>In a vicious cycle, the sector’s financing of oil and gas is having an impact on its bottom line.</p>
+<p>The post <a href="https://capitalandmain.com/how-big-insurances-investment-in-fossil-fuels-came-back-to-bite-it">How Big Insurance&#8217;s Investment in Fossil Fuels Came Back to Bite It</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/how-big-insurances-investment-in-fossil-fuels-came-back-to-bite-it>
+
+---
+
+## Los Angeles Skies Are Deceptively Clear
+
+date: 2025-01-22, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTczODg5NC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4Mzg3NzAxMn0.LoIR5L-aWA8BUZ6GKlGn36GLT5ycjYTq1Z2NGiGiq0E/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Early last week, the view out my windows had become alluringly clear. The peaks of the San Gabriel Mountains that had been obscured by a cloud of smoke from the Eaton Fire that devastated the city of Altadena reappeared. The campfire smell had blown away — from this part of Los Angeles, at least. The landscape seemed to say, <em><em>it’s safe to come outside</em></em>.</p>
+<p>Looks can be deceiving. One of the first days I ventured outside again, just to walk the dog down and back up our steep hill, I felt my throat burn by the time we arrived back at the house. That sensation, plus having a baby barely more than a year old, led my family to stay locked in for a few more days.</p>
+<p>It’s tricky to know when it’s okay to return to the outdoors during an ongoing wildfire crisis. The area map on <a href="https://www.watchduty.org/" rel="noopener noreferrer" target="_blank"><u>Watch Duty</u></a> looks good: The 800-acre Hurst Fire up near Santa Clarita has been entirely controlled, and no new major blazes took hold in the L.A. area despite windy conditions on Monday. As I write this, the devastating Eaton Fire has now been 89% contained, and the Palisades has reached 63%. As early as the weekend after the fires started, when I was helping a family member clear broken tree branches in the San Gabriel Valley, the fire and its smoke were no longer visible over the horizon. By now, some residents have been <a href="https://www.latimes.com/california/story/2025-01-17/some-residents-allowed-to-return-to-devastated-pacific-palisades-altadena-neighborhoods" rel="noopener noreferrer" target="_blank"><u>allowed</u></a> to return to areas now deemed safe. </p>
+<p>Still, it may be a while before the traumatizing wildfires burn out entirely. Until they do, and even after, an undeniable level of uncertainty comes with every breath we take.</p>
+<p>In my neighborhood, the Air Quality Index has been remarkably low over the past week. When consulting my phone’s Weather app and resources such as IQAir, measurements have been moderate or even good — in fact, better than the numbers posted on many perfectly normal L.A. days with no wildfires burning, when haze and smog still cloud the sky. As many people have discovered during these horrible fires, however, AQI is <a href="https://laist.com/news/health/air-quality-index-smoke" rel="noopener noreferrer" target="_blank"><u>far from a perfect indicator</u></a> of whether the air outside is okay. It might suffice on an ordinary morning for telling you whether it’s a good or bad day to go for a run, but it is not, on its own, able to account for the toxic soup that burned around L.A.</p>
+<p>One of the major concerns about these fires that engulfed whole neighborhoods in Pacific Palisades and Altadena is that our homes, more than ever before, are <a href="https://www.theatlantic.com/science/archive/2025/01/los-angeles-fire-smoke-plastic-toxic/681318/" rel="noopener noreferrer" target="_blank"><u>full of plastic</u></a> and other chemicals that become extra dangerous when burned. While AQI measures everyday problems like small particulate matter and smog, it doesn’t include pollutants like copper, plastic compounds, asbestos, and other things that might have gotten into Los Angeles’ air.</p>
+<p>To find out exactly what chemicals came out of the Eaton Fire, Caltech professor Mike Brown (aka <a href="https://bsky.app/profile/did:plc:edsg22mzbiqbw4i43gecd5ol" rel="noopener noreferrer" target="_blank"><u>@plutokiller</u></a>, after his role in the demotion of the former ninth planet) <a href="https://bsky.app/profile/plutokiller.com/post/3lfxkvhkypc2u" rel="noopener noreferrer" target="_blank"><u>took ash from his house</u></a> to campus to measure its chemical composition. (Note: My day job is at Caltech.) The result: titanium from new house paint, lead from old house paint, and lots of other heavy metals. “Treat that ash like it’s toxic folks,” he wrote on BlueSky, “(because it is).” </p>
+<p>In and around devastated communities such as Altadena, it’s obvious one must proceed with extreme caution regarding the ash and the air itself. In other parts of the city, it’s hard to be sure. Neighbors of ours have resumed their communal daily dog walk, but with some hesitation about whether it’s okay to go outside maskless for even 30 minutes. When a sore throat or a headache comes on, we wonder whether the air is to blame. Before the fires, my family used to take a nightly dog walk of at least an hour, which now includes carrying the baby. Since she is too young to wear a mask, I don’t know when we'll feel that free again.</p>
+<p>A small comfort is that, indoors at least, we were ready. Three air purifiers run round-the-clock in various parts of my house because of our proximity to a freeway and the general mediocrity of the Los Angeles air.</p><p>But, honestly, it sucks to sit inside in a place so beautiful. Winter in L.A. is gorgeous, full of cool but sunny days perfect for afternoon walks and hikes in places that would be too sun-drenched and blazing hot to visit in the summer. This winter, even with some rain finally in the forecast, <a href="https://www.theatlantic.com/science/archive/2025/01/los-angeles-wildfires-nature-trails/681324/'" rel="noopener noreferrer" target="_blank"><u>our hikes are burned</u></a> and our air is uncertain.</p> 
+
+<br> 
+
+<https://heatmap.news/climate/la-fires-air-quality>
+
+---
+
+## Trump plans to declare a national energy emergency. Here’s what happens next.
+
+date: 2025-01-22, from: Market Place
+
+An energy emergency declaration might be unprecedented, but the end goals are not.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/22/trump-national-energy-emergency/>
 
 ---
 
@@ -123,19 +1481,11 @@ The U.S. provides around 18% of the WHO's funding — more than any other nation
 date: 2025-01-22, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTczODgyNS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1NDUzMTY3Mn0.SjK9ty6KCsy6uMIfms8jy_OFWWmXvJ3kZSflJoowZd8/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">President Trump’s first executive actions put the wind industry on ice, undermined the transition to electric vehicles, and paused funding for EV chargers. But so far Trump has done little — if anything — to stymie the country’s fastest growing clean energy technology: solar.</p>
-<p>This isn’t a huge surprise. On the campaign trail, Trump blasted former President Biden’s climate and clean energy policies from every angle, consistently criticising wind energy and promising to “end the EV mandate.” But any time solar came up, Trump admitted that he kind of, sort of liked it.</p>
-<p>“By the way, I'm a big fan of solar,” Trump said at the presidential debate in September, before complaining about how much land <a href="https://heatmap.news/sparks/trump-solar-400-500-acres-of-desert-soil" target="_self"><u>solar farms</u></a> take up. The following month at a roundtable in Miami, he said “I like, you know, some applications where you have it on a roof or you have it on something,” before launching into familiar complaints about land use. </p>
-<p>This begs the question of whether the president might include solar farms in his plan to “unleash American energy.” More solar capacity was added to the grid last year than any other energy source, after all. As of September, it made up 78% of all new capacity additions. Rooftop solar is also one of the quickest and most direct ways for consumers to lower their energy bills, so the technology fits well within Trump’s agenda to lower energy costs.</p>
-<p>The Solar Energy Industries Association did not respond to my email requesting an interview, but the trade group is evidently trying to make this case to the new administration. “It’s clear that we will not reach President Trump’s vision for American energy dominance or technological innovation without continued solar and energy storage growth,” Abigail Ross Hopper, the group’s president, said in a statement published after the inauguration.</p>
-<p>Solar’s exclusion from Trump’s day one orders might be viewed optimistically as an implicit endorsement of that position, Harry Godfrey, a managing director at Advanced Energy United, told me. Other clues, however, are not so encouraging, he said.</p>
-<p>For example, in Trump’s <a href="https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/" rel="noopener noreferrer" target="_blank"><u>executive order declaring an energy emergency</u></a>, he excluded solar from his definition of “energy” or “energy resources” that will get expedited approvals. Solar was not mentioned in any of his energy-related actions on Monday.</p>
-<p>“If we're facing a real energy emergency, and we need to address this, shouldn't it be an all hands on deck activity?” Godfrey said. “That’s obviously bigger than just solar,” he added.</p>
-<p>Godfrey also observed that solar may not have gotten off completely unscathed. Trump froze all federal funds allocated by the Inflation Reduction Act and the Bipartisan Infrastructure Law for 90 days, which could affect any money remaining in solar-related programs. </p>
-<p>Naveed Hasan, the vice president of North American strategy for the solar company Sungrow, told me he’s less worried about the IRA freeze, as it's only temporary. “From what I understand, the funds still have to be spent.They cannot be just completely cut through an executive order — that's going to require the reconciliation process, going through Congress.”</p>
-<p>It’s likely too early to draw any big conclusions about how solar development will fare under Trump. It’s unclear whether his administration or the new Congress want to make changes to the tax credits available for clean energy, including for solar panels, for example. </p>
-<p>The president has also not yet revealed the full extent of his plans to increase tariffs on goods from China, which could hurt solar’s cost competitiveness. On Tuesday night, Trump said he was <a href="https://www.cnn.com/2025/01/21/economy/tariffs-china-trump-february-first/index.html" rel="noopener noreferrer" target="_blank"><u>considering imposing a 10% tariff on Chinese goods</u></a> beginning in February, which is far below the 60% he promised on the campaign trail, but doesn’t mean he won’t increase it later. The announcement followed <a href="https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/" rel="noopener noreferrer" target="_blank"><u>a memo</u></a> he sent to various agency heads on Monday which included a directive for the U.S. Trade Representative to “consider potential additional tariff modifications … particularly with respect to industrial supply chains and circumvention through third countries.”</p>
-<p>Then there’s also Trump’s plans to ramp up oil and gas production and clear hurdles for new fossil fuel plants and exports, which could indirectly hurt the market for solar. “That’s the major concern we have,” Hasan told me. “I think that could definitely impact the demand for renewable energy if those fossil fuel projects are considered more economical or more attractive for financiers.”</p> 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTczODgyNS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1NDUzMTY3Mn0.SjK9ty6KCsy6uMIfms8jy_OFWWmXvJ3kZSflJoowZd8/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">President Trump’s first executive actions put the wind industry on ice, undermined the transition to electric vehicles, and paused funding for EV chargers. But so far Trump has done little — if anything — to stymie the country’s fastest growing clean energy technology: solar.</p><p>This isn’t a huge surprise. On the campaign trail, Trump blasted former President Biden’s climate and clean energy policies from every angle, consistently criticising wind energy and promising to “end the EV mandate.” But any time solar came up, Trump admitted that he kind of, sort of liked it.</p><p>“By the way, I’m a big fan of solar,” Trump said at the presidential debate in September, before complaining about how much land <a href="https://heatmap.news/sparks/trump-solar-400-500-acres-of-desert-soil" target="_self"><u>solar farms</u></a> take up. The following month at a roundtable in Miami, he said “I like, you know, some applications where you have it on a roof or you have it on something,” before launching into familiar complaints about land use. </p><p>This raises the question of whether the president might include solar farms in his plan to “unleash American energy.” More solar capacity was added to the grid last year than any other energy source, after all. As of September, it made up 78% of all new capacity additions. Rooftop solar is also one of the quickest and most direct ways for consumers to lower their energy bills, so the technology fits well within Trump’s agenda to lower energy costs.</p><div class="horizontal-rule"><em></em></div><p><em>Get the best of Heatmap in your inbox daily.</em></p><p><div id="mc_embed_signup"><form action="https://news.us13.list-manage.com/subscribe/post?u=eacecbac4b1d10158b5b6fbad&id=c5c20b220f&f_id=00a03fe3f0" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" target="_self"><div id="mc_embed_signup_scroll"><div class="indicates-required"><span class="asterisk">*</span> indicates required</div><div class="mc-field-group"><label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label><input class="required email" id="mce-EMAIL" name="EMAIL" placeholder="Your Email" required="" type="email" value=""/><span class="helper_text" id="mce-EMAIL-HELPERTEXT"></span><a class="policy__link" href="/privacy-statement">Our Privacy Policy & Terms Apply.</a></div>
+<li style="display:none!important;"><input checked="" id="mce-group[699211]-699211-0" name="group[699211][1]" type="checkbox" value="1"/></li>
+<input class="hidden hs-am" name="mcam" type="text" value="Yes"/>
+<input class="hidden hs-am" name="mcdaily" type="text" value="Yes"/>
+<div class="clear" id="mce-responses"><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div></div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div aria-hidden="true" style="position: absolute; left: -5000px;"><input name="b_eacecbac4b1d10158b5b6fbad_c5c20b220f" tabindex="-1" type="text" value=""/></div><div class="clear"><input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Sign Up"/></div></div></form></div></p><div class="horizontal-rule"></div><p>The Solar Energy Industries Association did not respond to my email requesting an interview, but the trade group is evidently trying to make this case to the new administration. “It’s clear that we will not reach President Trump’s vision for American energy dominance or technological innovation without continued solar and energy storage growth,” Abigail Ross Hopper, the group’s president, said in a statement published after the inauguration.</p><p>Solar’s exclusion from Trump’s day one orders might be viewed optimistically as an implicit endorsement of that position, Harry Godfrey, a managing director at Advanced Energy United, told me. Other clues, however, are not so encouraging, he said.</p><p>For example, in Trump’s <a href="https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/" rel="noopener noreferrer" target="_blank"><u>executive order declaring an energy emergency</u></a>, he excluded solar from his definition of “energy” or “energy resources” that will get expedited approvals. Solar was not mentioned in any of his energy-related actions on Monday.</p><p>“If we’re facing a real energy emergency, and we need to address this, shouldn’t it be an all hands on deck activity?” Godfrey said. “That’s obviously bigger than just solar,” he added.</p><p>Godfrey also observed that solar may not have gotten off completely unscathed. Trump froze all federal funds allocated by the Inflation Reduction Act and the Bipartisan Infrastructure Law for 90 days, which could affect any money remaining in solar-related programs. </p><p>Naveed Hasan, the vice president of North American strategy for the solar company Sungrow, told me he’s less worried about the IRA freeze, as it’s only temporary. “From what I understand, the funds still have to be spent. They cannot be just completely cut through an executive order — that’s going to require the reconciliation process, going through Congress.”</p><p>It’s likely too early to draw any big conclusions about how solar development will fare under Trump. It’s unclear whether his administration or the new Congress want to make changes to the tax credits available for clean energy, including for solar panels, for example. </p><p>The president has also not yet revealed the full extent of his plans to increase tariffs on goods from China, which could hurt solar’s cost competitiveness. On Tuesday night, Trump said he was <a href="https://www.cnn.com/2025/01/21/economy/tariffs-china-trump-february-first/index.html" rel="noopener noreferrer" target="_blank"><u>considering imposing a 10% tariff on Chinese goods</u></a> beginning in February, which is far below the 60% he promised on the campaign trail, but doesn’t mean he won’t increase it later. The announcement followed <a href="https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/" rel="noopener noreferrer" target="_blank"><u>a memo</u></a> he sent to various agency heads on Monday which included a directive for the U.S. Trade Representative to “consider potential additional tariff modifications … particularly with respect to industrial supply chains and circumvention through third countries.”</p><p>Then there’s Trump’s plans to ramp up oil and gas production and clear hurdles for new fossil fuel plants and exports, which could indirectly hurt the market for solar. “That’s the major concern we have,” Hasan told me. “I think that could definitely impact the demand for renewable energy if those fossil fuel projects are considered more economical or more attractive for financiers.”</p> 
 
 <br> 
 
@@ -908,6 +2258,19 @@ date: 2025-01-21, from: Heatmap News
 <br> 
 
 <https://heatmap.news/climate/wind-industry-trump-order>
+
+---
+
+## The Wind Industry Is Putting on a Brave Face
+
+date: 2025-01-21, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTczODE2Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3MjEyMzI2Mn0.MZqUPHMB-txE-uXwtrs_2-z6YR_p4wClrnaV20R32oc/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">The newly inaugurated president does not like the wind industry. Especially <a href="https://heatmap.news/politics/wind-executive-order-trump" target="_blank">the offshore wind industry</a>.</p><p>Donald Trump Monday night issued an <a href="https://www.whitehouse.gov/presidential-actions/2025/01/temporary-withdrawal-of-all-areas-on-the-outer-continental-shelf-from-offshore-wind-leasing-and-review-of-the-federal-governments-leasing-and-permitting-practices-for-wind-projects/" target="_blank">expansive executive order</a> targeting the sector that the industry is only just starting to digest. And while the executive order was mostly being seen as a pause or moratorium on new offshore leasing, it could have much more wide-ranging effects. It calls for the Secretary of the Interior and the Attorney General to “conduct a comprehensive review of the ecological, economic, and environmental necessity of terminating or amending any existing wind energy leases, identifying any legal bases for such removal,” thus calling gigawatts of existing, permitted projects into doubt.</p><p>“The executive order pausing new offshore wind leasing and permitting is a blow to the American offshore wind industry and hurts the hundreds of U.S. supply chain companies and thousands of workers already building more American energy,” Liz Burdock, the chief executive officer of the Oceantic Network, an offshore wind industry group, said in a statement. “Today’s actions threaten to strand $25 billion already flowing into new ports, vessels, and manufacturing centers, and curtail future investments across our country.” Companies that have active offshore projects have been largely mum on the order. A spokesperson for Orsted, the Danish company behind the under-construction Revolution Wind project off the coast of Rhode Island and the Sunrise Wind project off the coast of Long Island, told me only that it was “in the process of reviewing it to assess the impact on our portfolio.” </p><p>A spokesperson for Equinor, which is working on the Empire Wind project, projected to <a href="https://www.equinor.com/news/20240604-solidifies-new-york-offtake-contract-empire-wind-1" rel="noopener noreferrer" target="_blank"><u>start serving</u></a> New York City in 2026, told me, “Equinor is committed to advancing a broad energy portfolio that supports a domestic supply chain, generates skilled jobs, and makes a lasting contribution to American energy security. We will continue to assess all policy developments and work with the Trump administration as we deliver long-term energy solutions for the growing American economy.”</p><p>Several other major offshore and onshore wind developers, including Pattern Energy, Avangrid, and NextEra either did not respond to requests for comment or would not comment on their ongoing projects in light of the order.</p><p>Trade group officials and outside experts were skeptical that the order would stop projects currently under construction like Revolution Wind, Vineyard Wind in Massachusetts, or the Coastal Virginia Offshore Wind Project, backed by the utility Dominion. Projects like Empire and Sunrise Wind, which have started some onshore construction, may survive as well. But the Biden Administration also permitted a flurry of projects in its final year, including SouthCoast Wind, New England Wind, Atlantic Shores South, and the Maryland Offshore Wind Project, and those may now be in doubt.</p><p>“Projects with steel in the water are probably safe,” Cy McGeady, a fellow in the Energy Security and Climate Change Program at the Center for Strategic and International Studies, told me. “I’d be shocked if a project with steel in the water has its permit revoked.” But of those that haven’t yet gotten started, he cautioned, “It’s those projects that are most at risk.”</p><p>Shares of Orsted fell over 9% in the United States Tuesday after the company announced $1.7 billion in impairments due to delays on its Sunrise Wind project — not related to the executive orders. The company also said it was <a href="https://orsted.com/en/company-announcement-list/2025/01/orsted-announces-impairments-relating-to-us-intere-142283101" rel="noopener noreferrer" target="_blank"><u>marking down the value</u></a> of its leases off the coasts of New Jersey, Maryland, and Delaware, and cited “considerably increased project costs,” as well as delays linked to transmission equipment for the wind turbines.</p><p>“Delivering the project within the updated schedule and cost is an absolute top priority for Orsted,” the company’s chief executive Mads Nipper said in a statement on the accounting changes.</p><p>The executive order comes after a dreadful few years for the offshore wind industry, which has been hammered by high costs, delays, and interest rate hikes, which led to several project cancellations even before Trump’s victory. The wind industry as a whole has seen slowing growth, thanks to difficulties building adequate transmission, exposure to high interest rates, and rising local opposition. New wind energy additions in the United States peaked in 2020 and 2021 <a href="https://www.eia.gov/todayinenergy/detail.php?id=62784#:~:text=Following%20the%20record%20wind%20capacity,our%20July%20Monthly%20Energy%20Review." rel="noopener noreferrer" target="_blank"><u>with 14 gigawatts of added capacity</u></a>, falling to just over 6 <a href="https://cleanpower.org/news/market-report-2023/" rel="noopener noreferrer" target="_blank"><u>gigawatts in 2023</u></a>.</p><p>The executive order also, at best, means no more new leasing for the duration of Trump’s time in office, calling into question the growth prospects of the whole offshore wind industry in the United States. Onshore wind may be on firmer ground, as many projects, especially in Texas, are not built on federal lands and do not require the full federal permitting process to be built.</p><p>“If the growth prospects are curtailed or drastically limited or at least diminished for the next four-plus years,” McGeady told me, referring to the offshore wind industry, “then it’s much harder to justify costs in the near term investment and expenditure of capital for an industry that might never launch.”<br/></p> 
+
+<br> 
+
+<https://heatmap.news/economy/wind-industry-trump-order>
 
 ---
 

@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-01-22 07:05:57
+updated: 2025-01-23 07:05:26
 ---
 
 # games
 
-(date: 2025-01-22 07:05:57)
+(date: 2025-01-23 07:05:26)
+
+---
+
+## Sleep, now on Hulu, is a terrifying movie rooted firmly in the real world
+
+date: 2025-01-23, updated: 2025-01-22, from: Polygon Website
+
+The notion that all the best horror is deeply rooted in reality is certainly debatable. After all, sometimes it’s the alienness of a horror movie that gives it power, forcing us to fit its strangeness into our everyday lives in order to better explain the mysteries of both. But if there’s any truth to the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/512041/sleep-movie-hulu-horror-thriller-streaming>
+
+---
+
+## When is the trading release date in Pokémon TCG Pocket, and how do trades work?
+
+date: 2025-01-23, updated: 2025-01-23, from: Polygon Website
+
+Trading in Pokémon TCG Pocket has been known since the app’s announcement back in Feb. 2024, but the trade button in the Social Hub has been greyed out and slapped with a “coming soon” sticker since launch. The much-awaited function comes with its own requirements and limitations, meaning you won’t be able to get your [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/484754/trading-release-date-unlock-restrictions>
+
+---
+
+## New Pokémon TCG Pocket expansion — with trading! — debuts next week
+
+date: 2025-01-23, updated: 2025-01-23, from: Polygon Website
+
+Pokémon TCG Pocket is getting a new expansion on Jan. 30, preceded by the long-anticipated trading feature, which will launch one day prior, on Jan. 29. The Pokémon Company debuted the new expansion, Space-Time Showdown, in a short YouTube video that shows off the two new booster packs featuring Legendary Pokémon Dialga and Palkia. The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/512538/new-pokemon-tcg-pocket-space-time-expansion-announced>
+
+---
+
+## Oscars 2025: All the nominees, from Dune: Part Two to Wicked
+
+date: 2025-01-23, updated: 2025-01-23, from: Polygon Website
+
+The 2025 Academy Awards ceremony will air Sunday, March 2, at 7 p.m. EST. Conan O’Brien will host the ceremony for the first time. The 10 movies up for Best Picture represent the range of cinema last year, from genre flicks like Wicked, Dune: Part Two, and The Substance to more typical Oscar fare like [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/512500/oscars-2025-nominations-full-list-academy-awards>
+
+---
+
+## Rocket Rats is the perfect New Year’s snack
+
+date: 2025-01-23, updated: 2025-01-22, from: Polygon Website
+
+I had big plans to finish Metaphor: ReFantazio over the holiday break. A little unstructured time between Christmas and New Year’s? Perfect for pushing a long game over the finish line. Unless, of course, you make the rookie mistake of going on Steam and seeing some random game you’ve never heard of before with a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/511883/rocket-rats-review-vampire-survivors-with-rats>
+
+---
+
+## The Star Trek: Section 31 movie desperately needed more space
+
+date: 2025-01-23, updated: 2025-01-23, from: Polygon Website
+
+Star Trek: Section 31 might be the weirdest Star Trek movie ever made.&#160; The film, which arrives to Paramount Plus on Jan. 24, was originally pitched as a television series showcasing Star Trek: Discovery’s Philippa Georgiou (Michelle Yeoh), former emperor of the (evil) Terran mirror universe, who became a space secret agent in the core [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-trek/512458/section-31-review-michelle-yeoh>
+
+---
+
+## Dimension 20&#8217;s sold-out show at MSG shines a light on decades of TTRPG performance
+
+date: 2025-01-23, updated: 2025-01-23, from: Polygon Website
+
+If you’re drawn to the vibe of sitting among hundreds, thousands, or even tens of thousands of people screaming their heads off at a roll of the dice, 2025 is your year. The calendar is currently full of live, in-person role-playing game performances with a scope and scale that’s bigger than anything that’s come before. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/actual-play/512133/dnd-actual-play-history-critical-role-dimension-20-acquisitions-inc-hickman-gen-con>
+
+---
+
+## It’s easy to get into Dimension 20 — just pick a genre and find the season that fits
+
+date: 2025-01-23, updated: 2025-01-23, from: Polygon Website
+
+Let’s be candid: It can feel daunting to get into most of the long-running, popular actual play shows, like Critical Role, or Dimension 20’s Fantasy High setting. A lot of that is about time.&#160; Compared to the other narrative things you can put on your TV, individual actual play sessions are long. Just like most [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/actual-play/511823/dimension-20-dropout-where-to-start>
+
+---
+
+## Celeste follow-up canceled as devs ‘refocus’ to smaller projects
+
+date: 2025-01-23, updated: 2025-01-23, from: Polygon Website
+
+Earthblade, the follow-up to 2018 2D platformer Celeste, has been canceled, developer Extremely OK Games announced in a blog post on Wednesday. “We made this decision in December and felt it best to wait until now to announce it,” the developer wrote. “For us on the inside we’ve had some time to process, grieve, and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/512505/earthblade-devs-celsete-followup-canceled>
+
+---
+
+## How to complete ‘Poison in the Roots’ in Diablo 4
+
+date: 2025-01-22, updated: 2025-01-22, from: Polygon Website
+
+“Poison in the Roots” is part of the main questline in Diablo 4 season 7, Season of Witchcraft. In order to complete it, you’ll need to help the witches of the Tree of Whispers by completing a special ritual. This quest includes some light puzzle elements, which can make it a little tricky. In this [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/diablo-4-guides/511998/poison-in-the-roots-ritual-puzzle-solution>
 
 ---
 

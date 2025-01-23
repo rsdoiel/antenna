@@ -1,11 +1,436 @@
 ---
 title: columns
-updated: 2025-01-22 07:05:57
+updated: 2025-01-23 07:05:25
 ---
 
 # columns
 
-(date: 2025-01-22 07:05:57)
+(date: 2025-01-23 07:05:25)
+
+---
+
+## Third Interdisciplinary Workshop on Reimagining Democracy (IWORD 2024)
+
+date: 2025-01-23, updated: 2025-01-23, from: Bruce Schneier blog
+
+<p>Last month, Henry Farrell and I convened the Third Interdisciplinary Workshop on Reimagining Democracy (<a href="https://www.schneier.com/iword/2024/">IWORD 2024</a>) at Johns Hopkins University&#8217;s Bloomberg Center in Washington DC. This is a small, invitational workshop on the future of democracy. As with the <a href="https://www.schneier.com/iword/2022/">previous</a> <a href="https://www.schneier.com/iword/2023/">two</a> workshops, the goal was to bring together a diverse set of political scientists, law professors, philosophers, AI researchers and other industry practitioners, political activists, and creative types (including science fiction writers) to discuss how democracy might be reimagined in the current century...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/01/third-interdisciplinary-workshop-on-reimagining-democracy-iword-2024.html>
+
+---
+
+##  How Hitler Dismantled a Democracy in 53 Days. &#8220;In one of the... 
+
+date: 2025-01-23, updated: 2025-01-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046046-how-hitler-dismantled-a-d>
+
+---
+
+##  A sick sunfish stopped eating after its aquarium closed for renovations so... 
+
+date: 2025-01-23, updated: 2025-01-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046052-a-sick-sunfish-stopped-ea>
+
+---
+
+## WAD Live 22/01/2025 – Accessibility, JavaScript Bundlers and Git Basics
+
+date: 2025-01-23, from: Chris Heilmann's blog
+
+OK, yesterday at WeAreDevelopers Live we talked with Stefan Judis about AI and Webdesign, Screenreaders and what JavaScript bundler to use. All the links we talked about are here: DeepSeek Crushes OpenAI o1 with an MIT-Licensed Model&#8212;Developers Are Losing It Google begins requiring JavaScript for Google Search Back to Text: How AI Might Reverse Web [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2025/01/23/wad-live-22-01-2025-accessibility-javascript-bundlers-and-git-basics/>
+
+---
+
+## Robots among us
+
+date: 2025-01-23, from: Enlightenment Economics blog
+
+I ended up with mixed reactions to Waiting for Robots: The Hired Hands of Automation by Antonio Caselli. The powerful point it makes is the complete dependence of AI and digital technologies generally on ongoing human input. Many years ago, &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/01/robots-among-us/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2025/01/robots-among-us/>
+
+---
+
+## OpenZFS 2.3 is here, with RAID expansion and faster dedup
+
+date: 2025-01-23, updated: 2025-01-23, from: Liam Proven's articles at the Register
+
+<h4>Coming soon to April&#39;s TrueNAS SCALE release, dubbed &#39;Fangtooth&#39;</h4>
+      <p>The latest version of OpenZFS offers RAID expansion, plus faster data deduplication donated by iXsystems. The code will be available very soon in the beta of TrueNAS SCALE 25.04.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/01/23/openzfs_23_raid_expansion/>
+
+---
+
+## CVSS is dead to us
+
+date: 2025-01-23, from: Daniel Stenberg Blog
+
+CVSS is short for Common Vulnerability Scoring System and is according to Wikipedia a technical standard for assessing the severity of vulnerabilities in computing systems. Typically you use an online CVSS calculator, click a few checkboxes and radio buttons and then you magically get a number from 0 to 10. There are also different versions &#8230; <a href="https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/" class="more-link">Continue reading <span class="screen-reader-text">CVSS is dead to us</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/>
+
+---
+
+## What you can do
+
+date: 2025-01-23, from: Robert Reich's blog
+
+Ten ways to resist Trump II 
+
+<br> 
+
+<https://robertreich.substack.com/p/what-you-can-do>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-01-23, from: Jessica Smith's blog)
+
+<p>Yesterday I finished the third Murderbot book, &ldquo;Rogue Protocol&rdquo;. It was definitely an easy breezy read – exactly what I needed after &ldquo;Parable of the Sower&rdquo;, haha – but I can&rsquo;t help but think I&rsquo;m not going to remember a thing that happened in it two months from now, much like my memory of the second book is pretty much a blank now. It&rsquo;s still a fun series and the character of Murderbot itself is excellent and memorable but… yeah…</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/01/rogue-protocol.html>
+
+---
+
+## January 22, 2025
+
+date: 2025-01-23, from: Heather Cox Richardson blog
+
+Marc Caputo of Axios reported today that Trump&#8217;s decision to pardon or commute the sentences of all the January 6 rioters convicted of crimes for that day&#8217;s events, including those who attacked police officers, was a spur of the moment decision by Trump apparently designed to get the issue behind him quickly. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-22-2025>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-01-23, from: Jessica Smith's blog)
+
+<p>I&rsquo;m starting to get really annoyed with iCloud Drive. I&rsquo;ve been storing my Obsidian vault there because it&rsquo;s easy, but it keeps overwriting the up-to-date versions of notes on my phone with the outdated ones on my computer, and it seems impossible to revert to the most recent version so I just lose work? Then there are all these &ldquo;(conflicted)&rdquo; versions of notes that get generated, but not when there actually is a conflict?!?!? Those are just &ldquo;iCloud felt like creating a new copy of this note, sans the last X characters&rdquo;. They never get created when I&rsquo;m about to lose work. I&rsquo;m so sick of this 😠</p>
+<p>EDIT: OK, well, good news: I went digging through my Obsidian settings and found I&rsquo;d installed some kind of &ldquo;File recovery&rdquo; plugin so I could recover from this issue after all. No thanks to iCloud, which can kick rocks 👎</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/01/obsidian-icloud-woes.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-23, from: Dave Winer's Scripting News)
+
+It's a no-blogging Wednesday, will return tomorrow. 
+
+<br> 
+
+<http://scripting.com/2025/01/22.html#a014551>
+
+---
+
+## And Now the #HughesFire
+
+date: 2025-01-23, from: Doc Searls (at Harvard), New Old Blog
+
+Twenty-fourth in the News Commons series. 8:10pm—The LA Times reports that the I-5 is open again. (That link goes to their ongoing coverage.) Here is what CAL FIRE says about current fires and their containment: Note that the Palisades and Eaton Fires are still not fully contained, though we haven&#8217;t been worried about them in [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/01/22/and-now-the-hughesfire/>
+
+---
+
+## [Sponsor] Fucking Amazon
+
+date: 2025-01-23, updated: 2025-01-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://meh.com/?utm_source=daringfireball&utm_medium=rss&utm_campaign=fuckingamazon>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-01-22, from: Jessica Smith's blog)
+
+<p>So apparently Indie <em>really</em> likes Depeche Mode. I was teasing her for her obsession with pulling my hair, and started singing &ldquo;Just Can&rsquo;t Get Enough&rdquo;, which she LOVED, so I started playing the actual song (because I don&rsquo;t know any of the words apart from the titular line), and she also loved that. Then the app went on to autoplay &ldquo;Personal Jesus&rdquo;, and she went bananas with excitement, just in rapture 😆 Good taste, Indie.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/01/indie-depeche-mode.html>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-01-22, from: Jessica Smith's blog)
+
+<p>My God, that review of &ldquo;Dune&rdquo; I posted on Goodreads in 2012 is up to 136 likes. Last time I checked I swear it was at 26 or something like that. Half the review is just me bitching about the names of the main characters, which I disliked for personal reasons I didn&rsquo;t even explain in the damn review! Couldn&rsquo;t my fellow &ldquo;Dune&rdquo; haters out there find a better-written review to shower with likes? lol</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/01/dune-review.html>
+
+---
+
+## The Firehose Effect
+
+date: 2025-01-22, from: Dan Rather's Steady
+
+Don&#8217;t let Trump&#8217;s deluge daunt you 
+
+<br> 
+
+<https://steady.substack.com/p/the-firehose-effect>
+
+---
+
+##  Critical Ignoring as a Core Competence for Digital Citizens, i.e. &#8220;choosing what... 
+
+date: 2025-01-22, updated: 2025-01-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046036-critical-ignoring-as-a-co>
+
+---
+
+## Southern California Wildfire Relief: Consider Donating to the Red Cross Through Apple
+
+date: 2025-01-22, updated: 2025-01-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://apple.co/southerncaliforniawildfires>
+
+---
+
+## The Ship That Leaks From the Top Is Back
+
+date: 2025-01-22, updated: 2025-01-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2025/01/16/us/politics/stephen-miller-trump.html?unlocked_article_code=1.rE4.mJTz.1TTdhPOAPRw-&smid=url-share>
+
+---
+
+##  Kind of Obsessed With Shōgun 
+
+date: 2025-01-22, updated: 2025-01-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/kind-of-obsessed-with-shogun>
+
+---
+
+##  We Only Have Ourselves: The How-Tos and DOs and DON&#8217;Ts of Mutual... 
+
+date: 2025-01-22, updated: 2025-01-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046029-we-only-have-ourselves-th>
+
+---
+
+## The Muskrat Strikes Back
+
+date: 2025-01-22, from: Robert Reich's blog
+
+It could be his last strike 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-muskrat-strikes-back>
+
+---
+
+## Legal Nerdery on Trump’s TikTok Executive Order
+
+date: 2025-01-22, updated: 2025-01-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.lawfaremedia.org/article/trump's-tiktok-executive-order-and-the-limits-of-executive-non-enforcement>
+
+---
+
+##  A caffeine calculator that tells you how much of your favorite beverage... 
+
+date: 2025-01-22, updated: 2025-01-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046028-a-caffeine-calculator-tha>
+
+---
+
+##  Mister Rogers&#8217; Neighborhood: A Visual History. A coffee table book about one... 
+
+date: 2025-01-22, updated: 2025-01-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046026-mister-rogers-neighborhoo>
+
+---
+
+## Next Week’s iOS 18.3 and MacOS 15.3 Updates Will Enable Apple Intelligence During Onboarding
+
+date: 2025-01-22, updated: 2025-01-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-18_3-release-notes>
+
+---
+
+## January 21, 2025
+
+date: 2025-01-22, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155464772/2b9be7e7083030d22cf4fc9a8947f1e8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155464772/2b9be7e7083030d22cf4fc9a8947f1e8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-21-2025-ee4>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-01-22, from: Ryan Gantz Bluesky feed)
+
+fuck this shit 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lgdzmp255s2g>
+
+---
+
+## Comedy in Portland
+
+date: 2025-01-22, from: Matt Haughey blog
+
+<p>A couple nights ago, I got to see Kyle Kinane do an hour at <a href="https://portland.heliumcomedy.com/?ref=a.wholelottanothing.org" rel="noreferrer">Helium Comedy Club in Portland</a> and it reminded me of how much I love that venue. It&apos;s a classic comedy club that feels intimate, with room for maybe 150-200 people. It&apos;s a</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/comedy-in-portland/>
+
+---
+
+##  Where Do You Put the Camera? 
+
+date: 2025-01-22, updated: 2025-01-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/where-do-you-put-the-camera>
+
+---
+
+##  Every Star Trek Movie, Ranked. I think the top 5 here are... 
+
+date: 2025-01-22, updated: 2025-01-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046025-every-star-trek-movie-ran>
+
+---
+
+##  I knew one day I&#8217;d have to watch powerful men burn the... 
+
+date: 2025-01-22, updated: 2025-01-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046024-i-knew-one-day-id>
+
+---
+
+##  Explore an Incredibly Detailed Topographical Map of the Moon 
+
+date: 2025-01-22, updated: 2025-01-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/explore-an-incredibly-detailed-topographical-map-of-the-moon>
+
+---
+
+##  I&#8217;d love to know where people are directing their giving these days.... 
+
+date: 2025-01-22, updated: 2025-01-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046022-id-love-to-know-where>
+
+---
+
+## Better power management, security, and scheduling in Linux kernel 6.13
+
+date: 2025-01-22, updated: 2025-01-22, from: Liam Proven's articles at the Register
+
+<h4>But no changes to bcachefs</h4>
+      <p>Linux kernel 6.13 is here, but don&#39;t get too excited. It&#39;s not a biggie and, given the timing, probably won&#39;t appear in many familiar distros.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/01/22/kernel_613/>
 
 ---
 
@@ -172,6 +597,17 @@ date: 2025-01-21, updated: 2025-01-21, from: Jason Kittke's blog
 
 ---
 
+**@Jessica Smith's blog** (date: 2025-01-21, from: Jessica Smith's blog)
+
+<p>Me on TheStoryGraph submitting my list of content warnings for &ldquo;Parable of the Sower&rdquo; 😮‍💨</p>
+<img src="https://www.jayeless.net/media/2025/01/spongebob-list.png" alt="Meme of a cheerful Spongebob presenting a gobsmacked Squidward with a VERY long list"> 
+
+<br> 
+
+<https://www.jayeless.net/2025/01/spongebob-content-warnings.html>
+
+---
+
 ##  Mike Monteiro on how to survive being online. &#8220;The first four years... 
 
 date: 2025-01-21, updated: 2025-01-21, from: Jason Kittke's blog
@@ -198,7 +634,7 @@ date: 2025-01-21, updated: 2025-01-21, from: Jason Kittke's blog
 
 **@Jessica Smith's blog** (date: 2025-01-21, from: Jessica Smith's blog)
 
-<p>Guess whose street has a scheduled power outage again today. I&rsquo;m like, what is this, South Africa?! How is our power so regularly going out.</p>
+<p>Guess whose street has a scheduled power outage <em>again</em> today. I&rsquo;m like, what is this, South Africa?! How is our power so regularly going out.</p>
 <p>Plus, a few weeks ago the utility provider sent their annual report boasting that the average customer only had five hours&rsquo; outage last year. Bitterly I went, &ldquo;Yeah, meanwhile [my street] Georg…&rdquo;</p> 
 
 <br> 

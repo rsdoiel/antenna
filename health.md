@@ -1,11 +1,35 @@
 ---
 title: health
-updated: 2025-01-22 09:09:56
+updated: 2025-01-23 07:05:28
 ---
 
 # health
 
-(date: 2025-01-22 09:09:56)
+(date: 2025-01-23 07:05:28)
+
+---
+
+## Advancements in the development of antivirals against SARS-Coronavirus
+
+date: 2025-01-23, from: Frontiers in Cellular and Infection Microbiology
+
+Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) caused an outbreak in 2002-2003, spreading to 29 countries with a mortality rate of about 10%. Strict quarantine and infection control methods quickly stopped the spread of the disease. Later research showed that SARS-CoV came from animals (zoonosis) and stressed the possibility of a similar spread from host to human, which was clearly shown by the COVID-19 outbreak. The COVID-19 pandemic, instigated by SARS-CoV-2, has affected 776 million confirmed cases and more than seven million deaths globally as of Sept 15, 2024. The existence of animal reservoirs of coronaviruses continues to pose a risk of re-emergence with improved fitness and virulence. Given the high death rate (up to 70 percent) and the high rate of severe sickness (up to 68.7 percent in long-COVID patients), it is even more critical to identify new therapies as soon as possible. This study combines research on antivirals that target SARS coronaviruses that have been conducted over the course of more than twenty years. It is a beneficial resource that might be useful in directing future studies. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1520811>
+
+---
+
+## Metagenomic next-generation sequencing for lung cancer low respiratory tract infections diagnosis and characterizing microbiome features
+
+date: 2025-01-23, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe capability of mNGS in diagnosing suspected LRTIs and characterizing the respiratory microbiome in lung cancer patients requires further evaluation.MethodsThis study evaluated mNGS diagnostic performance and utilized background microbial sequences to characterize LRT microbiome in these patients. GSVA was used to analyze the potential functions of identified genera.ResultsBacteria were the most common pathogens (n=74) in LRTIs of lung cancer patients, and polymicrobial infections predominated compared to monomicrobial infections (p<0.001). In diagnosing LRTIs in lung cancer patients, the pathogen detection rate of mNGS (83.3%, 70/84) was significantly higher than that of sputum culture (34.5%, 29/84) (p<0.001). This result was consistent with that of non-lung cancer patients (p<0.001). Furthermore, in the specific detection of bacteria (95.7% vs. 22.6%) and fungi (96.0% vs. 22.2%), the detection rate of mNGS was also significantly higher than that of CMTs mainly based on culture (p<0.001, p<0.001). However, in the detection of CMV/EBV viruses, there was no significant difference between the detection rate of mNGS and that of viral DNA quantification (p = 1.000 and 0.152). mNGS analysis revealed Prevotella, Streptococcus, Veillonella, Rothia, and Capnocytophaga as the most prevalent genera in the LRT of lung cancer patients. GSVA revealed significant correlations between these genera and tumor metabolic pathways as well as various signaling pathways including PI3K, Hippo, and p53.ConclusionmNGS showed a higher pathogen detection rate than culture-based CMTs in lung cancer patients with LRTIs, and also characterizing LRT microbiome composition and revealing potential microbial functions linked to lung carcinogenesis. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1518199>
 
 ---
 

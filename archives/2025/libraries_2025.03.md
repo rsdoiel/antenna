@@ -1,11 +1,61 @@
 ---
 title: libraries
-updated: 2025-01-22 07:05:58
+updated: 2025-01-23 07:05:27
 ---
 
 # libraries
 
-(date: 2025-01-22 07:05:58)
+(date: 2025-01-23 07:05:27)
+
+---
+
+## Guest Post: Reflections from The Munin Conference Part Three – Measuring Impact
+
+date: 2025-01-23, from: Scholarly Kitchen
+
+<p>This is the third and final article in a guest series reflecting on the main themes and ideas gathered and discussed at The Munin Conference at the end of 2024. Today's focus is measuring impact.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/01/23/guest-post-reflections-from-the-munin-conference-part-three-measuring-impact/">Guest Post: Reflections from The Munin Conference Part Three – Measuring Impact</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/01/23/guest-post-reflections-from-the-munin-conference-part-three-measuring-impact/>
+
+---
+
+## Looking Backward, by Edward Bellamy
+
+date: 2025-01-22, from: Standard Ebooks, new releaases
+
+A man falls asleep in 1887 and wakes up over a century later in a socialist utopia. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/edward-bellamy/looking-backward>
+
+---
+
+## Geronimo’s Story of His Life, by Geronimo
+
+date: 2025-01-22, from: Standard Ebooks, new releaases
+
+The Apache war chief Geronimo recounts the story of his life. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/geronimo/geronimos-story-of-his-life>
+
+---
+
+## Public Domain Spotlight: Singin’ in the Rain
+
+date: 2025-01-22, from: Internet Archive Blog
+
+One of the most enduring pieces of music from the 1920s has just now entered the public domain (Duke Law). Watch as Internet Archive&#8217;s Sean Dudley, a researcher specializing in [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/01/22/public-domain-spotlight-singin-in-the-rain/>
 
 ---
 
@@ -27,7 +77,7 @@ date: 2025-01-22, from: Scholarly Kitchen
 
 date: 2025-01-22, from: Association of Research Libraries News
 
-<p>Last Updated on January 21, 2025, 11:13 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, January 22 &#124; Thursday, January 23 Tuesday, January...</p>
+<p>Last Updated on January 22, 2025, 3:24 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, January 22 &#124; Thursday, January 23 Tuesday, January...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-21-23/">Day in Review (January 21–23)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

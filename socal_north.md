@@ -1,11 +1,324 @@
 ---
 title: socal north
-updated: 2025-01-22 09:50:44
+updated: 2025-01-23 07:05:24
 ---
 
 # socal north
 
-(date: 2025-01-22 09:50:44)
+(date: 2025-01-23 07:05:24)
+
+---
+
+## Here are the 2025 nominees for the Oscar
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+The Academy Awards will be broadcast March 2 on ABC and Hulu. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/here-are-the-2025-nominees-for-the-oscar>
+
+---
+
+## Best things to do this weekend in Los Angeles and Southern California: January 24 - 26
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+Enjoy music events from pop to jazz to roots, a cruise-in, French toast to benefit the LAFD, a 30-minute storytelling festival and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-los-angeles-southern-california-january-24-26>
+
+---
+
+## It looks like a superstore. But this college’s wildfire relief distribution center is anything but
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+The college is hosting a distribution event this week to provide free essentials to those who’ve been affected by local fires. 
+
+<br> 
+
+<https://laist.com/news/education/wildfire-relief-distribution-center-santa-monica-college>
+
+---
+
+## Replay: 2025 Oscar nominations came out this morning
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+Comedians Bowen Yang and Rachel Sennott announced the nominations for the 2025 Academy Awards on Thursday morning. Nominations were delayed twice due to the fires in Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/watch-2025-oscar-nominations-come-out-this-morning>
+
+---
+
+## Why fires happen in Southern California — and how we can prevent them
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+New Imperfect Paradise episode looks into the region's fire management practices. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/fires-southern-california-prevention>
+
+---
+
+## Una Coalición de Angelinos Protesta Contra Trumpel Día de la Toma de Posesión
+
+date: 2025-01-23, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Trump-Star-Protest_SN_04-scaled-e1737611455582.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Trump-Star-Protest_SN_04-scaled-e1737611455582.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Trump-Star-Protest_SN_04-scaled-e1737611455582.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Trump-Star-Protest_SN_04-scaled-e1737611455582.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Trump-Star-Protest_SN_04-scaled-e1737611455582.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Una coalición diversa de manifestantes marchó del brazo por el centro de Los Ángeles, pidiendo a los angelinos que resistan al presidente Donald Trump y sus políticas. El mitin “¡We [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/22/una-coalicion-de-angelinos-protesta-contra-trumpel-dia-de-la-toma-de-posesion/">Una Coalición de Angelinos Protesta Contra Trumpel Día de la Toma de Posesión</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/22/una-coalicion-de-angelinos-protesta-contra-trumpel-dia-de-la-toma-de-posesion/>
+
+---
+
+## Los Padres Comparten los Temores de Inmigración Bajo la Presidencia de Trump
+
+date: 2025-01-23, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Todos los días, cuando Efigenia se despide de su esposo cuando se va a trabajar, se preocupa y se pregunta: “¿Le pasará algo hoy?” Al solicitar que no se use [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/22/los-padres-comparten-los-temores-de-inmigracion-bajo-la-presidencia-de-trump/">Los Padres Comparten los Temores de Inmigración Bajo la Presidencia de Trump</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/22/los-padres-comparten-los-temores-de-inmigracion-bajo-la-presidencia-de-trump/>
+
+---
+
+## Horóscopo
+
+date: 2025-01-23, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Construirás algo que esperas que sea hermoso y aceptarás todos los desafíos que acompañan a una búsqueda tan [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/22/horoscopo-199/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/22/horoscopo-199/>
+
+---
+
+## EVENTOS Locales – Semana de 23 de enero, 2025
+
+date: 2025-01-23, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Enero 21 – Marzo 13 Bajitas y Suavecitas a Groundbreaking Exhibition SUN Art Galleries 18111 Nordhoff St. Northridge 10 a.m. – 4 p.m. Mon &#8211; Tues 12 Pm – 7 [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/22/eventos-locales-semana-de-23-de-enero-2025/">EVENTOS Locales &#8211; Semana de 23 de enero, 2025 </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/22/eventos-locales-semana-de-23-de-enero-2025/>
+
+---
+
+## Manifestación Pro-Inmigrante en Boyle Heights
+
+date: 2025-01-23, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="960" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Boyle-Heights-Rally-02-scaled-e1737610974431.jpg?fit=960%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Boyle-Heights-Rally-02-scaled-e1737610974431.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Boyle-Heights-Rally-02-scaled-e1737610974431.jpg?resize=281%2C300&amp;ssl=1 281w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Boyle-Heights-Rally-02-scaled-e1737610974431.jpg?resize=960%2C1024&amp;ssl=1 960w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Boyle-Heights-Rally-02-scaled-e1737610974431.jpg?resize=768%2C819&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Boyle-Heights-Rally-02-scaled-e1737610974431.jpg?resize=1440%2C1536&amp;ssl=1 1440w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Boyle-Heights-Rally-02-scaled-e1737610974431.jpg?resize=1200%2C1280&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Boyle-Heights-Rally-02-scaled-e1737610974431.jpg?resize=1568%2C1673&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Boyle-Heights-Rally-02-scaled-e1737610974431.jpg?resize=400%2C427&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Boyle-Heights-Rally-02-scaled-e1737610974431.jpg?resize=706%2C753&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Boyle-Heights-Rally-02-scaled-e1737610974431.jpg?fit=960%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Entre las contramanifestaciones llevadas a cabo el día de la toma de posesión del presidente Trump, la Organización de Servicio Comunitario del Centro (Centro CSO) organizó una manifestación de protesta [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/22/manifestacion-pro-inmigrante-en-boyle-heights/">Manifestación Pro-Inmigrante en Boyle Heights</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/22/manifestacion-pro-inmigrante-en-boyle-heights/>
+
+---
+
+## CARECEN-LA Denuncia los Ataques de Trump a los Derechos Constitucionales, a los Solicitantes de Asilo y a las Comunidades Inmigrantes
+
+date: 2025-01-23, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Esta semana, el presidente Donald Trump prestó juramento para un segundo mandato como el 47º presidente de los Estados Unidos. En su primer día, el presidente firmó casi 100 órdenes [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/22/carecen-la-denuncia-los-ataques-de-trump-a-los-derechos-constitucionales-a-los-solicitantes-de-asilo-y-a-las-comunidades-inmigrantes/">CARECEN-LA Denuncia los Ataques de Trump a los Derechos Constitucionales, a los Solicitantes de Asilo y a las Comunidades Inmigrantes</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/22/carecen-la-denuncia-los-ataques-de-trump-a-los-derechos-constitucionales-a-los-solicitantes-de-asilo-y-a-las-comunidades-inmigrantes/>
+
+---
+
+## El Sospechoso del Ataque a un Estudiante de 13 Años Será Procesado en Febrero
+
+date: 2025-01-23, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/12232024_Hate-Crime_SN_01-scaled-e1735779480115.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/12232024_Hate-Crime_SN_01-scaled-e1735779480115.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/12232024_Hate-Crime_SN_01-scaled-e1735779480115.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/12232024_Hate-Crime_SN_01-scaled-e1735779480115.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/12232024_Hate-Crime_SN_01-scaled-e1735779480115.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El sospechoso de la agresión a un estudiante negro de 13 años en la escuela secundaria Ernest Lawrence en Chatsworth fue arrestado a principios de este mes y está programado [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/22/el-sospechoso-del-ataque-a-un-estudiante-de-13-anos-sera-procesado-en-febrero/">El Sospechoso del Ataque a un Estudiante de 13 Años Será Procesado en Febrero</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/22/el-sospechoso-del-ataque-a-un-estudiante-de-13-anos-sera-procesado-en-febrero/>
+
+---
+
+## El Fuego Forestal se Extiende a Través de 8,000+ Acres en el Área del Lago Castaic
+
+date: 2025-01-23, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="677" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/attachment1737577354411-1-e1737610650485.jpeg?fit=1024%2C677&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/attachment1737577354411-1-e1737610650485.jpeg?w=1220&amp;ssl=1 1220w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/attachment1737577354411-1-e1737610650485.jpeg?resize=300%2C198&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/attachment1737577354411-1-e1737610650485.jpeg?resize=1024%2C677&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/attachment1737577354411-1-e1737610650485.jpeg?resize=768%2C507&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/attachment1737577354411-1-e1737610650485.jpeg?resize=1200%2C793&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/attachment1737577354411-1-e1737610650485.jpeg?resize=400%2C264&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/attachment1737577354411-1-e1737610650485.jpeg?resize=706%2C466&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/attachment1737577354411-1-e1737610650485.jpeg?fit=1024%2C677&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ÁNGELES (CNS) &#8211; Un incendio forestal de rápido avance arrasó miles de acres de espesa vegetación cerca del lago Castaic el 22 de enero, lo que obligó a evacuaciones [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/22/el-fuego-forestal-se-extiende-a-traves-de-8000-acres-en-el-area-del-lago-castaic/">El Fuego Forestal se Extiende a Través de 8,000+ Acres en el Área del Lago Castaic</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/22/el-fuego-forestal-se-extiende-a-traves-de-8000-acres-en-el-area-del-lago-castaic/>
+
+---
+
+## Las Víctimas de los Incendios Forestales Exigen Ayuda Gubernamental Completa
+
+date: 2025-01-23, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="755" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Protest_SN_03-e1737610518972.jpeg?fit=1024%2C755&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Protest_SN_03-e1737610518972.jpeg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Protest_SN_03-e1737610518972.jpeg?resize=300%2C221&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Protest_SN_03-e1737610518972.jpeg?resize=1024%2C755&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Protest_SN_03-e1737610518972.jpeg?resize=768%2C566&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Protest_SN_03-e1737610518972.jpeg?resize=1536%2C1132&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Protest_SN_03-e1737610518972.jpeg?resize=2048%2C1510&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Protest_SN_03-e1737610518972.jpeg?resize=1200%2C885&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Protest_SN_03-e1737610518972.jpeg?resize=1568%2C1156&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Protest_SN_03-e1737610518972.jpeg?resize=2000%2C1474&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Protest_SN_03-e1737610518972.jpeg?resize=400%2C295&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Protest_SN_03-e1737610518972.jpeg?resize=706%2C520&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Protest_SN_03-e1737610518972.jpeg?fit=1024%2C755&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Las víctimas del incendio de Eaton se unieron a una coalición de manifestantes en el centro de Los Ángeles el día de la toma de posesión, para exigir un alivio [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/22/las-victimas-de-los-incendios-forestales-exigen-ayuda-gubernamental-completa/">Las Víctimas de los Incendios Forestales Exigen Ayuda Gubernamental Completa</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/22/las-victimas-de-los-incendios-forestales-exigen-ayuda-gubernamental-completa/>
+
+---
+
+## CHIRLA recuerda a los inmigrantes: “Ustedes tienen derechos bajo la Constitución”
+
+date: 2025-01-23, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>La Coalición por los Derechos Humanos de los Inmigrantes (CHIRLA, por sus siglas en inglés), que apoya los derechos humanos y civiles de los inmigrantes y refugiados, tiene recursos disponibles [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/22/chirla-recuerda-a-los-inmigrantes-ustedes-tienen-derechos-bajo-la-constitucion/">CHIRLA recuerda a los inmigrantes: &#8220;Ustedes tienen derechos bajo la Constitución&#8221;</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/22/chirla-recuerda-a-los-inmigrantes-ustedes-tienen-derechos-bajo-la-constitucion/>
+
+---
+
+## California AG files first charges over alleged post-fire rent gouging
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+Attorney General Rob Bonta said he would go after alleged rent gougers, and this week his office filed its first case. The agent strongly denies breaking the law. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/attorney-general-charges-rent-gouging>
+
+---
+
+## It’s here! Jackie and Shadow lay first egg of the season
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+Big Bear’s internet famous bald eagle couple is getting another shot at parenthood. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/its-here-jackie-and-shadow-lay-first-egg-of-the-season>
+
+---
+
+## Wildfires expose safety, logistical risks for LA County's unhoused
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+The fire disasters add another layer of difficulty for unhoused Angelenos as resources are stretched thin. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-county-wildfires-safety-logistical-risks-unhoused-residents>
+
+---
+
+## LAPD veteran will lead UCLA safety office
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+LAPD Commander Steve Lurie had helped in LAPD's response to crackdowns on student encampments during protests over the Israel-Gaza war. 
+
+<br> 
+
+<https://laist.com/news/education/lapd-veteran-lurie-to-lead-ucla-safety-office>
+
+---
+
+## Clock is ticking on Huntington Beach library initiatives
+
+date: 2025-01-22, updated: 2025-01-22, from: The LAist
+
+The City Council will wait another month before deciding whether and when to put two controversial library initiatives on the ballot. 
+
+<br> 
+
+<https://laist.com/news/politics/huntington-beach-library-ballot-initiatives-study>
+
+---
+
+## We asked all 58 California sheriffs about immigration enforcement under Trump. Here’s what they said
+
+date: 2025-01-22, updated: 2025-01-22, from: The LAist
+
+Look up how your sheriff responded to questions about their plans to cooperate with federal immigration enforcement. 
+
+<br> 
+
+<https://laist.com/news/politics/california-sheriffs-immigration-enforcement-trump>
+
+---
+
+## A costly construction market is just one challenge ahead as LA rebuilds after wildfires
+
+date: 2025-01-22, updated: 2025-01-22, from: The LAist
+
+Shortages of skilled labor, building materials and expensive construction loans are just some of the factors affecting the cost of rebuilding. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/rebuilding-effort-begins-los-angeles-wildifres-costs>
+
+---
+
+## Hughes Fire burns through more than 10K acres in Castaic. Evacuations, school closures in place
+
+date: 2025-01-22, updated: 2025-01-23, from: The LAist
+
+Around 31,000 people are under evacuation orders after the fire quickly grew to more than 10,000 acres. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/fire-breaks-out-in-castaic>
+
+---
+
+## Are you a homeowner affected by the LA fires? Here are some of your options
+
+date: 2025-01-22, updated: 2025-01-22, from: The LAist
+
+Should you sell? Do you pay the mortgage if everything was lost? LAist has answers. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/homeowner-affected-by-the-la-fires-options>
 
 ---
 

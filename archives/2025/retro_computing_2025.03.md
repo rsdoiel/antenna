@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-01-22 07:05:59
+updated: 2025-01-23 07:05:28
 ---
 
 # retro computing
 
-(date: 2025-01-22 07:05:59)
+(date: 2025-01-23 07:05:28)
+
+---
+
+## b.log 2025/01/22 - He's ba-ack!, Tariffs, The state of the NHS, This is getting ridiculous, Britain reclaims America!
+
+date: 2025-01-22, from: Richard Murray's blog
+
+He's ba-ack!, Tariffs, The state of the NHS, This is getting ridiculous, Britain reclaims America! 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250122>
+
+---
+
+## Comics from 1984/04 Creative Computing Mag
+
+date: 2025-01-22, from: Computer ads from the Past
+
+Sorry for the delay. - JP 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-198404-creative-computing>
 
 ---
 
@@ -75,11 +99,11 @@ An important warning before we continue: from the telephone company side the lin
 <p>
 The software part has to do with how data from the Commodore 64 is modulated to send to the other system's modem. For that, we turn to John's program, as he posted it (in separate versions for NTSC and PAL Commodores for reasons I'll explain as we analyse the disassembly). It was presented as a type-in program in BASIC, short enough to type in by hand, with an embedded machine language section loaded from DATA statements. Here's a couple videos showing what it looked like in practice. The modulated audio is played through the speaker, so don't have it up too high.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxa9rEuSLUXYhAo92XksELqPIiVJKUSCash9XJeogsSz92XXQXjB2E-fSGnjIpu6t56TTGfuUfVJOBskYnKwQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dw2CLzk4EyQqroCISbNPvbQB60914HVPRSby_YN56bK6pJJ6aNKh-QeVx2CyRFvWF-Uk9NGvqxAFTe2X1_OKg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 After the machine code is transferred to memory, a continuous tone starts playing and the program enters a basic terminal mode. As we type on the keyboard, we hear the tone "warble" as each bit of the character's ASCII value is modulated and played to the other end.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzRRHjiK6aeV5tlSAWdxlgXO_tPfBSNe9yTRKE3TfOry9CHIIrjA3CzcdhO5jgfdE5KiEBPgO8XssuJHs8UZQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz109tOtVEOArCl7k4u5SptN7oFxgwNrYAwMqLUbrsba1S3bVCKgbYXHg7vUaKkvmGMy26JLk6YJ3dWXmLLhg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 If you press F1, it will then give you the opportunity to send a file. This file is sent using Xmodem-CRC so the remote side can reliably detect errors, but since the transmission is one-direction the 64 side simply pretends everything succeeds, pauses briefly to let the other end send its acknowledge byte, and then goes onto the next block. You can hear the file itself being modulated in the audio also; around 1'10" the last block is sent, which is padded with ^Z and thus has a characteristic repeated sound (plus a single "blip" after it for the end-of-text character ^D). When the transmission is complete, the program ends.
 <p>
@@ -414,7 +438,7 @@ lc119   lda #$1a
 <p>
 Note that the branch at $c11b will always be taken since we just loaded a non-zero immediate into the accumulator. Again, another nice way of increasing code density and reducing type-in size. Should the file have ended in the first two bytes used to prime the CRC-16, John's code just stuffs ^Zs into it manually.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzMh-xKK_AgiW0reuoaaTqehzZRY7OP2D8UbnMvEWZjQ_Yujq92P-AxHk9e-S1W0QB3qIeAtYdibTIzq5d8Gg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyo-CEnF_XG-PRyeBQWzn8X3sD1tzJIspajRyXTd4T6t-DC8yfAntq0_pxclGIPFjEif2K_ymB2OUEVjiNKXg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 This video shows the unified, enhanced version in action. When it starts up, it detects the correct video standard (or you can force it), and allows you to send a dialtone or go directly to an answer tone. Once the "softmodem" has answered, you can then enter the terminal or upload files. You can enter and exit the terminal or file transfer as desired, or simply "hang up" when you're done, which turns off the SID's output and causes any connected modem to perceive loss of carrier and terminate the link.
 <p>

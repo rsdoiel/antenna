@@ -1,11 +1,233 @@
 ---
 title: food
-updated: 2025-01-22 07:05:59
+updated: 2025-01-23 07:05:29
 ---
 
 # food
 
-(date: 2025-01-22 07:05:59)
+(date: 2025-01-23 07:05:29)
+
+---
+
+## Panama’s Hachi Coffee Project Set Out To Change Coffee—Then Controversy Erupted
+
+date: 2025-01-23, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. An interview with Diego Bermudez and Allan Hartmann of Hachi Coffee Project. 
+
+<br> 
+
+<https://sprudge.com/panamas-hachi-coffee-project-set-out-to-change-coffee-then-controversy-erupted-262530.html>
+
+---
+
+## Around The World Of Lever Espresso Machine Collections
+
+date: 2025-01-23, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Tour the lever espresso machine collections on six different continents. 
+
+<br> 
+
+<https://sprudge.com/around-the-world-of-lever-espresso-machine-collections-270391.html>
+
+---
+
+## Chipotle Sweet Potato and Black Bean Quinoa Salad
+
+date: 2025-01-23, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/01/Chipotle-Sweet-Potato-and-Black-Bean-Quinoa-Salad-1200-1125.jpg"/></div>
+<p>Tender chipotle roasted sweet potatoes in a quinoa salad with black beans. I&#8217;m a big fan of hearty whole grain salads and this chipotle sweet potato and black bean quinoa salad is one of my favourites. The sweet potatoes are seasoned and roasted until tender and the quinoa is cooked with a few seasonings before...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/chipotle-sweet-potato-and-black-bean-quinoa-salad/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/chipotle-sweet-potato-and-black-bean-quinoa-salad/">Chipotle Sweet Potato and Black Bean Quinoa Salad</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/chipotle-sweet-potato-and-black-bean-quinoa-salad/>
+
+---
+
+## Vintage Heart Cake
+
+date: 2025-01-23, from: Taste of Home
+
+Despite plenty of piped and frosted details, this vintage heart cake is easier to assemble than it looks. You don't even need a heart-shaped pan! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/vintage-heart-cake/>
+
+---
+
+## Mexican Coffee
+
+date: 2025-01-23, from: Taste of Home
+
+Creamy, lightly sweet Mexican coffee will warm you right up with its flavors of cocoa, cinnamon and orange. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/mexican-coffee/>
+
+---
+
+## Stir-Fried Bok Choy With Garlic
+
+date: 2025-01-22, from: Bon Appetet
+
+This simple bok choy recipe, flavored with shallot, garlic, and soy sauce, is ideal for when you’re short on time and ingredients. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/garlicky-bok-choy>
+
+---
+
+## 41 Make-Ahead Breakfast Ideas for Busy Mornings
+
+date: 2025-01-22, from: Bon Appetet
+
+Matcha chia pudding, use-it-up frittata, horchata overnight oats, and more great reasons to get out of bed. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/make-ahead-breakfast-ideas>
+
+---
+
+## This Is the Best Dupe for Costco’s Food Court Churros
+
+date: 2025-01-22, from: Taste of Home
+
+<p>Like most shoppers, I desperately miss the discontinued Costco churros.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/copycat-costco-churros/">This Is the Best Dupe for Costco&#8217;s Food Court Churros</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/copycat-costco-churros/>
+
+---
+
+## 5 Foods You Should Never Microwave
+
+date: 2025-01-22, from: Taste of Home
+
+<p>Prevent sparks from flying and poor texture by using a different appliance to heat certain foods.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/foods-you-shouldnt-microwave/">5 Foods You Should Never Microwave</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/foods-you-shouldnt-microwave/>
+
+---
+
+## This $4.99 Aldi Kitchen Tool Will Save Your Sanity
+
+date: 2025-01-22, from: Taste of Home
+
+<p>Aldi is making life easier yet again with an inexpensive new kitchen tool.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/4-99-aldi-kitchen-tool-will-save-your-sanity/">This $4.99 Aldi Kitchen Tool Will Save Your Sanity</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/4-99-aldi-kitchen-tool-will-save-your-sanity/>
+
+---
+
+## This Is Why Onions Make You Cry
+
+date: 2025-01-22, from: Taste of Home
+
+<p>Here's the science behind the waterworks—and some easy ways to reduce tears.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/why-do-onions-make-you-cry/">This Is Why Onions Make You Cry</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/why-do-onions-make-you-cry/>
+
+---
+
+## People Are Melting Chocolate Using Candle Warmers—Is It a Good Idea?
+
+date: 2025-01-22, from: Taste of Home
+
+<p>The latest TikTok trend uses candle warmer lamps to melt chocolate, but this "hack" is more aesthetic than truly useful.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/melting-chocolate-with-candle-warmers/">People Are Melting Chocolate Using Candle Warmers—Is It a Good Idea?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/melting-chocolate-with-candle-warmers/>
+
+---
+
+## Design Details: Mountainous Landscape Patterns at Salto in Colorado
+
+date: 2025-01-22, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Salto Coffee bags all" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/22/design-details-mountainous-landscape-patterns-at-salto-in-colorado/>
+
+---
+
+## The Sprudge Design Award Winners On The Coffee Sprudgecast
+
+date: 2025-01-22, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The Coffee Sprudgecast: The One With The Sprudge Design Award Winners. 
+
+<br> 
+
+<https://sprudge.com/the-sprudge-design-award-winners-on-the-coffee-sprudgecast-270247.html>
+
+---
+
+## Hexclad Griddle Review: Effortless Breakfasts Coming Right Up!
+
+date: 2025-01-22, from: Taste of Home
+
+<p>Yes, the HexClad griddle is different than a skillet. Here's why this pan is a must-add to your cookware collection. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/hexclad-griddle-review/">Hexclad Griddle Review: Effortless Breakfasts Coming Right Up!</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/hexclad-griddle-review/>
+
+---
+
+## Our Place Wonder Oven: The Prettiest Air Fryer Toaster Oven We’ve Tested Just Got a Major Upgrade
+
+date: 2025-01-22, from: Taste of Home
+
+<p>The Large Wonder Oven is a bigger version of the original editor-loved 6-in-1 air fryer toaster oven. Learn the release date, specs and more.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/our-place-large-wonder-oven/">Our Place Wonder Oven: The Prettiest Air Fryer Toaster Oven We&#8217;ve Tested Just Got a Major Upgrade</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/our-place-large-wonder-oven/>
+
+---
+
+## How the Humble Vin de France Became a Beacon of Cool
+
+date: 2025-01-22, from: Bon Appetet
+
+Wine culture’s current It girl isn’t new, but it marches to its own beat, charming a new generation of wine drinker in the process. 
+
+<br> 
+
+<https://www.bonappetit.com/story/vin-de-france-wine-news-trends>
 
 ---
 
@@ -13,7 +235,7 @@ updated: 2025-01-22 07:05:59
 
 date: 2025-01-22, from: Bon Appetet
 
-On this episode of Dinner SOS, Chris Jesse and Shilpa inspire listeners to lean into cozy winter cooking. 
+On this episode of Dinner SOS, Chris, Jesse, and Shilpa inspire listeners to lean into cozy winter cooking. 
 
 <br> 
 
@@ -25,7 +247,7 @@ On this episode of Dinner SOS, Chris Jesse and Shilpa inspire listeners to lean 
 
 date: 2025-01-22, from: Daily Coffee News
 
-<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-620x415.jpg" class="attachment-large size-large wp-post-image" alt="caffeinated beverages" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>People in the United States are consuming more caffeine than they were a decade ago, with coffee extending its grasp as the dominant dietary source of stimulant, according to a... 
+<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-620x415.jpg" class="attachment-large size-large wp-post-image" alt="caffeinated beverages" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>People in the United States are consuming more caffeine than they were a decade ago, with coffee extending its grasp as the dominant dietary source of stimulant, according to a... 
 
 <br> 
 
@@ -153,7 +375,7 @@ date: 2025-01-21, from: The Sprudge
 
 date: 2025-01-21, from: Daily Coffee News
 
-<div><img width="620" height="390" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans-620x390.jpg" class="attachment-large size-large wp-post-image" alt="coffee beans" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans-620x390.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans-300x189.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans-150x94.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans-768x483.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Lafayette, Indiana-based coffee roasting company Copper Moon Coffee is suing a Cleveland cafe by the name of The Copper Moon, saying a viral TikTok video caused confusion between the two businesses.  
+<div><img width="620" height="390" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans-620x390.jpg" class="attachment-large size-large wp-post-image" alt="coffee beans" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans-620x390.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans-300x189.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans-150x94.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans-768x483.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/coffee-beans.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Lafayette, Indiana-based coffee roasting company Copper Moon Coffee is suing a Cleveland cafe by the name of The Copper Moon, saying a viral TikTok video caused confusion between the two businesses.  
 
 <br> 
 

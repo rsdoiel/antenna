@@ -1,11 +1,77 @@
 ---
 title: writing
-updated: 2025-01-22 07:05:57
+updated: 2025-01-23 07:05:26
 ---
 
 # writing
 
-(date: 2025-01-22 07:05:57)
+(date: 2025-01-23 07:05:26)
+
+---
+
+## 2025 Edgar Awards Nominations
+
+date: 2025-01-23, from: Locus Magazine
+
+<p>Several authors and works of genre interest are among the Mystery Writers of America (MWA) 2025 Edgar Awards nominees.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Novel</strong></p>
+<ul>
+<li><strong>The Tainted Cup</strong>, Robert Jackson Bennett (Del Rey)</li>
+</ul>
+<p><strong>Best First Novel</strong></p>
+<ul>
+<li><strong>The Mechanics of Memory</strong>, Lee Audrey (CamCat)</li>
+</ul>
+<p><strong>Best Critical/Biographical</strong></p>
+<ul>
+<li><strong>On Edge: Gender and Genre in the Work of Shirley Jackson, Patricia Highsmith, and Leigh Brackett</strong>, Ashley Lawson (Ohio State University Press)</li>
+</ul>
+<p><strong>Best Short Story</strong></p>
+<ul>
+<li>&#8220;Cut </li></ul></div> <a href="https://locusmag.com/2025/01/2025-edgar-awards-nominations/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/01/2025-edgar-awards-nominations/>
+
+---
+
+## 2025 Science + Literature Books
+
+date: 2025-01-23, from: Locus Magazine
+
+<p>The National Book Foundation, together with the Alfred P. Sloan Foundation, announced the selected books for the 2025 Science + Literature program. The 2025 fiction selection is science fiction novel <strong>The Last Animal </strong>by Ramona Ausubel (Riverhead), along with two other selections in non-fiction and poetry.</p>
+<p>The Science + Literature program, supported by a grant from the Sloan Foundation, identifies three books across fiction, non-fiction, and poetry, that &#8220;deepen readers’  <a href="https://locusmag.com/2025/01/2025-science-literature-books/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/2025-science-literature-books/>
+
+---
+
+## 📃 When you only have one sample
+
+date: 2025-01-22, from: Interesting, a blog on writing
+
+Writing while waiting 
+
+<br> 
+
+<https://inneresting.substack.com/p/when-you-only-have-one-sample>
+
+---
+
+## The Lies We Conjure by Sarah Henning: Review by Colleen Mondor
+
+date: 2025-01-22, from: Locus Magazine
+
+<p><strong>The Lies We Conjure</strong>, Sarah Henning (Tor Teen 978-1-259-84106-3, $19.99, 400pp, hc) September 2024.</p>
+<p>As <strong>The Lies We Conjure </strong>opens, sisters Ruby and Wren are finishing up a summer stint working at a local Renaissance Fair when they get an offer that impetuous Wren cannot pass up. A customer offers them each $2,000 to attend a family dinner at the local landmark mansion and pretend to be her grandchildren.  <a href="https://locusmag.com/2025/01/the-lies-we-conjure-by-sarah-henning-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/the-lies-we-conjure-by-sarah-henning-review-by-colleen-mondor/>
 
 ---
 

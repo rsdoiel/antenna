@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-01-22 07:06:00
+updated: 2025-01-23 07:05:29
 ---
 
 # craft
 
-(date: 2025-01-22 07:06:00)
+(date: 2025-01-23 07:05:29)
+
+---
+
+## Spread Your Wings – Asymmetry in Eastern Designs
+
+date: 2025-01-22, from: Lost Arg Press blog
+
+This is an excerpt from our newest book &#8220;Good Eye&#8221; by Jim Tolpin and George Walker. Like their counterparts in the West, traditional artisans in China, Korea and Japan understood symmetry and used it extensively in their designs. By symmetry, we mean creating designs that display a mirror image both left and right. Symmetry is... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/01/22/spread-your-wings-asymmetry-in-eastern-designs/>
 
 ---
 

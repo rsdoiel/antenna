@@ -1,11 +1,383 @@
 ---
 title: science and technology
-updated: 2025-01-22 09:31:32
+updated: 2025-01-23 07:05:25
 ---
 
 # science and technology
 
-(date: 2025-01-22 09:31:32)
+(date: 2025-01-23 07:05:25)
+
+---
+
+## FortiGate config leaks: Victims' email addresses published online
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>Experts warn not to take leaks lightly as years-long compromises could remain undetected</h4> <p>Thousands of email addresses included in the Belsen Group&#39;s dump of FortiGate configs last week are now available online, revealing which organizations may have been impacted by the 2022 zero-day exploits.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/>
+
+---
+
+## VMware users gripe over 3-year commitment to renew licenses
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>Chips and software giant Broadcom says it&#39;s &#39;flexible and open&#39; on licensing terms, but customers disagree</h4> <p>VMware users continue to be unhappy with licensing changes since the virtualization giant was acquired by Broadcom, and are now complaining that they are being forced into three-year commitments when renewing vSphere licenses.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/customers_gripe_at_threeyear_commitment/>
+
+---
+
+## SK hynix wobbles on market uncertainty, despite record 2024 earnings
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>Shares slide at &#39;most profitable&#39; company in Korea as world worries over geopolitics</h4> <p>Market uncertainty and fears around trade protectionism are overshadowing SK hynix&#39;s latest earnings, with its shares sliding despite revenue doubling for the financial year just completed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/sk_hynix_wobbles_on_market/>
+
+---
+
+## Why is Big Tech hellbent on making AI opt-out?
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>As Microsoft, Apple, and Google switch the tech on by default, what happened to asking for permission first?</h4> <p><strong>Opinion</strong>  Copilot in Microsoft 365 and Apple Intelligence on iDevices are the latest examples of the tech industry&#39;s obsession with making services opt-out rather than opt-in.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/why_is_ai_optout/>
+
+---
+
+## Brit competition watchdog takes aim at Google, Apple's mobile ecosystems
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>CMA flexes its new Strategic Market Status muscles</h4> <p>The UK&#39;s Competition and Markets Authority (CMA) is launching Strategic Market Status (SMS) investigations into both Apple and Google, probing the duo&#39;s control of their respective mobile ecosystems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/>
+
+---
+
+## OpenZFS 2.3 is here, with RAID expansion and faster dedup
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>Coming soon to April&#39;s TrueNAS SCALE release, dubbed &#39;Fangtooth&#39;</h4> <p>The latest version of OpenZFS offers RAID expansion, plus faster data deduplication donated by iXsystems. The code will be available very soon in the beta of TrueNAS SCALE 25.04.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/openzfs_23_raid_expansion/>
+
+---
+
+## Who is DDoSing you? Rivals, probably, or cheesed-off users
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>Plus: &#39;Largest-ever&#39; duff traffic tsunami clocks in at 5.6 Tbps</h4> <p>In addition to Chinese spies invading organizations&#39; networks and ransomware crews locking up sensitive files, botnets blasting distributed denial of service (DDoS) attacks can still cause a world of hurt — and website downtime — and it&#39;s quite likely your competitors are to blame.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/>
+
+---
+
+## An American Toy Company Produced the World’s First Frisbees, Beloved by Humans and Dogs, on This Day in 1957
+
+date: 2025-01-23, from: Smithsonian Magazine
+
+The flying disc had humble beginnings but has since become an international phenomenon 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/an-american-toy-company-produced-the-worlds-first-frisbees-beloved-by-humans-and-dogs-on-this-day-in-1957-180985855/>
+
+---
+
+## Biz tax rises, inflation and high interest. Why fewer UK tech firms started in 2024
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>And the government thinks that AI and taking shackles off big tech will help? God help Britain</h4> <p>For the first time since the start of the pandemic, the number of tech firms incorporated in the UK has declined, with a shrinking economy, as well as high inflation and interest rates causing a slump in business confidence.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/uk_startup_incorporation_drop/>
+
+---
+
+## Tool touted as 'first AI software engineer' is bad at its job, testers claim
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>Nailed just 15% of assigned tasks</h4> <p>A service described as &#34;the first AI software engineer&#34; appears to be rather bad at its job, based on a recent evaluation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/>
+
+---
+
+## Asus lets processor security fix slip out early, AMD confirms patch in progress
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>Answers on a postcard to what &#39;Microcode Signature Verification Vulnerability&#39; might mean</h4> <p>AMD has confirmed at least some of its microprocessors suffer a microcode-related security vulnerability, the existence of which accidentally emerged this month after a fix for the flaw appeared in a beta BIOS update from PC maker Asus.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/asus_amd_processor_fix/>
+
+---
+
+## Beijing picking up some of the bill for iPhones sold in China
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>What? Why? Xi wants people spending, so has extended a subsidy scheme to phones, tabs, and smartwatches</h4> <p>If you want a cheap iPhone, China’s the place to be right now thanks to a government subsidy scheme that means resellers are discounting the devices to make sure Beijing helps to pick up the bill.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/china_consumer_technology_subsidy/>
+
+---
+
+## Oracle emits 603 patches, names one it wants you to worry about soon
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>Old flaws that keep causing trouble haunt Big Red</h4> <p>Oracle has delivered its regular quarterly collection of patches: 603 in total, 318 for its own products, and another 285 for Linux code it ships.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/oracle_patch_linux/>
+
+---
+
+## Snowdrop OS: a homebrew operating system from scratch, in x86 assembly language
+
+date: 2025-01-23, from: OS News
+
+Snowdrop OS was born of my childhood curiosity around what happens when a PC is turned on, the mysteries of bootable disks, and the hidden aspects of operating systems. It is a 16-bit real mode operating system for the IBM PC architecture. I designed and developed this homebrew OS from scratch, using only x86 assembly language. I have created and included a number of utilities, including a file manager, text editor, graphical applications, BASIC interpreter, x86 assembler and debugger. I also ported one of my DOS games to it. After all, what kind of an operating system doesn&#8217;t have games? ↫ Snowdrop OS&#8217; website It seems like every talented programmer will, at some point, think to themselves: I should write my own operating system. Most of these efforts strand pretty quickly &#8211; and that&#8217;s fine! &#8211; but Sebastian Mihai&#8217;s effort did not, and it has grown into a very capable operating system, especially given the constraints stemming from the chosen architecture &#8211; 16bit realmode x86 &#8211; and programming language &#8211; x86 assembly. Snowdrop OS is an incredibly impressive labour of love, and comes with a unique extra I haven&#8217;t seen before: a daily development log covering over 600 days of development. No, this won&#8217;t take over the world, but I love that is exists. More of this, please. 
+
+<br> 
+
+<https://www.osnews.com/story/141600/snowdrop-os-a-homebrew-operating-system-from-scratch-in-x86-assembly-language/>
+
+---
+
+## NixBSD: an unofficial NixOS fork with a FreeBSD kernel
+
+date: 2025-01-23, from: OS News
+
+NixBSD is an attempt to make a reproducible and declarable BSD, based on NixOS. Although theoretically much of this work could be copied to build other BSDs, all work thus far has been focused on building a FreeBSD distribution. ↫ NixBSD GitHub page Look, it&#8217;s my job to make sure I use and am familiar with as many operating systems and related tools as possible. As much as you guys support OSNews on Patreon or Ko-Fi, it&#8217;s going to take a lot of you to push me to dive into Nix and NixOS, because every time I hear anything about it, people seem entirely in over their heads and spending way, way too much time trying to properly use it. I have a wife and two little children, and as much as Nix intrigues and fascinates, I&#8217;m not going to lose my sanity to it. Anyway, combining NixOS with FreeBSD seems like a fun project and a great idea, and also kind of an inevitability &#8211; any cool technology eventually makes its way to BSD in one way or another, after all. The project is in flux, and they&#8217;re not at the stage where you can just download an ISO and get going, but if you&#8217;re already knee-deep in Nix and want a new challenge, this might be right up your alley. Me, I&#8217;m not learning a programing language just to manage my packages. Or should I? For the memes? 
+
+<br> 
+
+<https://www.osnews.com/story/141598/nixbsd-an-unofficial-nixos-fork-with-a-freebsd-kernel/>
+
+---
+
+## SDL 3.2.0 released
+
+date: 2025-01-23, from: OS News
+
+SDL, the Simple DirectMedia Layer, has released version 3.2.0 of its development library. In case you don&#8217;t know what SDL is: Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve&#8216;s award winning catalog and many Humble Bundle games. ↫ SDL website This new release has a lot of improvements and changes, and going through the changelog, you&#8217;ll notice that they&#8217;ve massively improved the documentation, made the API naming conventions more consistent, added a ton of features for better platform integration, added camera and pen APIs, improved HiDPI support, and a ton more. 
+
+<br> 
+
+<https://www.osnews.com/story/141596/sdl-3-2-0-released/>
+
+---
+
+## LinkedIn accused of training AI on private messages
+
+date: 2025-01-22, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>Microsoft&#39;s IG-for-suits insists lawsuit&#39;s claims are without merit</h4> <p>LinkedIn was this week accused of giving third parties access to Premium customers&#39; private InMail messages for AI model training.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/linkedin_sued_for_allegedly_training/>
+
+---
+
+## Apple sued for using dangerous 'forever chemicals' in Watch bands
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>Markets smartwatches as health helpers even as they expose some owners to PFAS</h4> <p>Apple has been sued for allegedly selling wristbands for its smartwatches that contain high levels of &#34;forever chemicals&#34; known as PFAS that may be linked to harmful health effects in humans.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_watch_pfas_bands/>
+
+---
+
+## Artist’s Concept of Gemini Spacecraft
+
+date: 2025-01-22, from: NASA breaking news
+
+Two astronauts are seated inside the Gemini spacecraft in this artist’s concept made in January 1965. The Gemini program was an early NASA human spaceflight program designed to bridge the Mercury and Apollo programs. Its main goal was to test equipment and mission procedures in Earth orbit and to train astronauts and ground crew for [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/artists-concept-of-gemini-spacecraft/>
+
+---
+
+## Ape-Like Human Ancestors Were Largely Vegetarian 3.3 Million Years Ago in South Africa, Fossil Teeth Reveal
+
+date: 2025-01-22, from: Smithsonian Magazine
+
+Scientists suggest meat consumption was pivotal to humans' development of larger brains, but the transition probably didn't start with Australopithecus, according to a new study 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/ape-like-human-ancestors-were-largely-vegetarian-33-million-years-ago-in-south-africa-fossil-teeth-reveal-180985873/>
+
+---
+
+## Trump 'waved a white flag to Chinese hackers' as Homeland Security axed cyber advisory boards
+
+date: 2025-01-22, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>And: America &#39;has never been less secure,&#39; retired rear admiral tells Congress</h4> <p>The Trump administration gutted key cybersecurity advisory boards in its first days, as expert witnesses warned Congress of potentially destructive cyberattacks by China.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/dhs_axes_cyber_advisory_boards/>
+
+---
+
+## NASA Awards Logistics, Metrology Support Services Contract
+
+date: 2025-01-22, from: NASA breaking news
+
+NASA has awarded a small business set-aside contract to Apache Innovations JV of Albuquerque, New Mexico, to provide logistics, and related support services to NASA’s Glenn Research Center in Cleveland. The Glenn Logistics and Metrology (GLAM) contract is a cost-plus-fixed-fee contract with a maximum potential value of approximately $72.3 million. The contract phase-in begins Monday, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-logistics-metrology-support-services-contract/>
+
+---
+
+## You Can Buy a 2,500-Year-Old Corinthian Helmet Worn by a Warrior in Ancient Greece
+
+date: 2025-01-22, from: Smithsonian Magazine
+
+Experts think the well-preserved bronze artifact was made between 500 and 450 B.C.E. It will be sold at auction on January 25 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/you-can-buy-a-2500-year-old-corinthian-helmet-worn-by-a-warrior-in-ancient-greece-180985881/>
+
+---
+
+## Trump nukes 60 years of anti-discrimination rules for federal contractors
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>The (good old) boys are back in town</h4> <p>US federal government contractors are no longer subject to anti-discrimination rules over hiring, training, and employment – after President Trump reached back 60 years to scrap an equal opportunity order signed by former President Lyndon B. Johnson.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_federal_contractor_eo/>
+
+---
+
+## I am Artemis: Jon Carabello
+
+date: 2025-01-22, from: NASA breaking news
+
+Jon Carabello did not begin his career journey with an eye on space, but when NASA’s Artemis lunar exploration campaign came calling, he was all in. Born, raised, and college-educated in New Hampshire, Carabello has spent his entire professional career at TURBOCAM – a turbomachinery development and manufacturing company – in the southeast corner of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/i-am-artemis-jon-carabello/>
+
+---
+
+## Check Out the Hubble Space Telescope's Stunning New View of the Andromeda Galaxy
+
+date: 2025-01-22, from: Smithsonian Magazine
+
+The full image includes some 2.5 billion pixels compiled from observations spanning more than 1,000 orbits around Earth 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/check-out-the-hubble-space-telescopes-stunning-new-view-of-the-andromeda-galaxy-180985882/>
+
+---
+
+## This Rare Printing of the Declaration of Independence Could Sell for $4 Million
+
+date: 2025-01-22, from: Smithsonian Magazine
+
+Made by a printer in New Hampshire, this 1776 broadside edition was created to disseminate America's founding document to the public 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-rare-printing-of-the-declaration-of-independence-could-sell-for-4-million-180985851/>
+
+---
+
+## Supply chain attack hits Chrome extensions, could expose millions
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>Threat actor exploited phishing and OAuth abuse to inject malicious code</h4> <p>Cybersecurity outfit Sekoia is warning Chrome users of a supply chain attack targeting browser extension developers that has potentially impacted hundreds of thousands of individuals already.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/>
+
+---
+
+## Microsoft throws more cash at its carbon guilt by replanting Brazilian rainforest
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>Meanwhile, datacenter emissions continue to soar</h4> <p>Microsoft is forking out for even more carbon credits to offset spiralling AI-fuelled carbon dioxide emissions from its datacenters.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/microsoft_carbon_credits/>
+
+---
+
+## Fossilized Poop Reveals How Extinct, Flightless Birds Helped Spread New Zealand's Colorful Fungi
+
+date: 2025-01-22, from: Smithsonian Magazine
+
+The upland moa was likely drawn to the fungi because of their resemblance to berries, scientists say, allowing the creature to fill a role typically played by mammals 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/fossilized-poop-reveals-how-extinct-flightless-birds-helped-spread-new-zealands-colorful-fungi-180985853/>
+
+---
+
+## Samsung Galaxy S25 is so smart it wears Crocs, allegedly resists quantum decryption
+
+date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+
+<h4>This year&#39;s model adds lots of AI, improved management, and support for biz buyers</h4> <p><strong>First fondle</strong>  Samsung has announced the Galaxy S25, the latest version of its flagship smartphone range, and, as you&#39;d expect, made new AI features the hero.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/22/samsung_galaxy_s25/>
 
 ---
 
@@ -25,7 +397,7 @@ date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
 
 date: 2025-01-22, from: NASA breaking news
 
-The near-Earth object was likely ejected into space after an impact thousands of years ago. Now it could contribute new insights to asteroid and lunar science. The small near-Earth object 2024 PT5 captured the world’s attention last year after a NASA-funded telescope discovered it lingering close to, but never orbiting, our planet for several months. [&#8230;] 
+Lee esta historia en español aquí. The near-Earth object was likely ejected into space after an impact thousands of years ago. Now it could contribute new insights to asteroid and lunar science. The small near-Earth object 2024 PT5 captured the world’s attention last year after a NASA-funded telescope discovered it lingering close to, but never orbiting, [&#8230;] 
 
 <br> 
 
@@ -105,9 +477,9 @@ Ahead of more frequent and intense contact with dust during Artemis missions, NA
 
 ---
 
-## Analysts say real datacenter emissions are a dirty secret
+## Real datacenter emissions are a dirty secret
 
-date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+date: 2025-01-22, updated: 2025-01-23, from: The Register (UK I.T. News)
 
 <h4>Amazon doesn&#39;t break out figures, but then again neither do Microsoft nor Google</h4> <p>As more businesses shift an ever greater number of workloads to the cloud, hyperscalers aren&#39;t doing enough to help CIOs or tech buyers, who are already under legislative pressure, to be more transparent about their own corporation&#39;s carbon footprint regarding compute services.…</p> 
 
@@ -261,11 +633,11 @@ date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
 
 ---
 
-## OpenAI to blow through $500B on AI infrastructure for itself with help from pals
+## OpenAI wants to blow through $500B on AI infrastructure for itself, with help from pals
 
 date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
 
-<h4>SoftBank, Oracle, MGX form Stargate Project with ChatGPT maker, intend to outspend Microsoft this year</h4> <p>OpenAI, Oracle, SoftBank, and investment firm MGX on Tuesday announced plans to spend $500 billion on AI infrastructure in America over the next four years, to be used by the ChatGPT super-lab.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>SoftBank, Oracle, MGX form Stargate Project with ChatGPT maker, intend to outspend Microsoft this year</h4> <p><strong>Updated</strong>  OpenAI, Oracle, SoftBank, and investment firm MGX on Tuesday announced plans to spend as much as $500 billion on AI infrastructure in America over the next four years, to be used by the ChatGPT super-lab.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -277,7 +649,7 @@ date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
 
 date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
 
-<h4>Lawsuits pile up after database accessed by miscreants</h4> <p>Canada&#39;s largest school board has revealed that student records dating back to 1985 may have been accessed by miscreants who compromised software provider PowerSchool.…</p> 
+<h4>Lawsuits pile up after database accessed by miscreants</h4> <p><strong>Updated</strong>  Canada&#39;s largest school board has revealed that student records dating back to 1985 may have been accessed by miscreants who compromised software provider PowerSchool.…</p> 
 
 <br> 
 

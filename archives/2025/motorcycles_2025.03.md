@@ -1,11 +1,98 @@
 ---
 title: motorcycles
-updated: 2025-01-22 07:05:59
+updated: 2025-01-23 07:05:27
 ---
 
 # motorcycles
 
-(date: 2025-01-22 07:05:59)
+(date: 2025-01-23 07:05:27)
+
+---
+
+## Polaris is Offering Free Snowmobile Rides to Literally Everyone Right Now
+
+date: 2025-01-23, from: Ride Apart, Electric Motorcycle News
+
+All you have to do is sign up.  
+
+<br> 
+
+<https://www.rideapart.com/news/748203/free-snowmobile-ride-polaris-adventures/>
+
+---
+
+## KTM's  Win at Dakar Is Proof It Needs to Focus More on Dirt
+
+date: 2025-01-23, from: Ride Apart, Electric Motorcycle News
+
+Provided it makes it out the other side of its insolvency mess. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/748220/ktm-success-win-2025-dakar-back-to-dirt/>
+
+---
+
+## Kawasaki’s Revised KLX Motorcycles Bring All the Fun for a Fraction of the Price
+
+date: 2025-01-23, from: Ride Apart, Electric Motorcycle News
+
+I think some of us forget just how much value is in the hidden gem, which is the KLX range. 
+
+<br> 
+
+<https://www.rideapart.com/news/748083/kawasaki-2025-klx230s-klx230sm-specs-debut/>
+
+---
+
+## Kawasaki’s Jet Ski STX 160 Series Is Back and Better Than Ever
+
+date: 2025-01-23, from: Ride Apart, Electric Motorcycle News
+
+It remains the most affordable way to get a full-on Jet Ski. 
+
+<br> 
+
+<https://www.rideapart.com/news/748209/2025-kawasaki-jet-ski-stx-160/>
+
+---
+
+## Kawasaki's Ridge Crew Is a Whitetail Hunters Dream UTV
+
+date: 2025-01-23, from: Ride Apart, Electric Motorcycle News
+
+It's like taking a Rolls-Royce hunting or out onto the farm.  
+
+<br> 
+
+<https://www.rideapart.com/news/748200/kawasaki-ridge-utv-sxs-four-door-hvac/>
+
+---
+
+## The Updated BMW R 18 Cruiser Gets Flashier Styling and a Bunch Of Tech
+
+date: 2025-01-23, from: Ride Apart, Electric Motorcycle News
+
+They just might have what it takes to steal away more riders from Harley and Indian.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/748086/2025-bmw-r18-specs-features-price/>
+
+---
+
+## Minnesota Tried Giving Everyone Rebates On E-Bikes, Now It Has a Big Problem
+
+date: 2025-01-22, from: Ride Apart, Electric Motorcycle News
+
+The rebate program is inherently good, it just needs some major tweaks to really get its wheels turning.  
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/747949/minnesota-ebike-rebate-program-refinements/>
 
 ---
 

@@ -1,11 +1,392 @@
 ---
 title: pacific
-updated: 2025-01-22 07:05:56
+updated: 2025-01-23 07:05:24
 ---
 
 # pacific
 
-(date: 2025-01-22 07:05:56)
+(date: 2025-01-23 07:05:24)
+
+---
+
+## FSM, India strengthen bilateral ties 
+
+date: 2025-01-23, from: Pacific Island Times
+
+FSM President Wesley Simina welcomes Pabitra Margherita, India’s minister of State for External Affairs, to Palikir for a historic visit... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/fsm-strengthens-bilateral-ties-with-india>
+
+---
+
+## Yokwe TV grabs viewers
+
+date: 2025-01-23, from: Marshal Islands Journal
+
+<p>Yokwe TV has been garnering a large following judging by the latest viewership data despite only recently returning to streaming original content that is being watched online by people in RMI and across the Marshallese diaspora in the US. Managing a TV news outlet is no walk in the park but that does not mean [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/yokwe-tv-grabs-viewers/">Yokwe TV grabs viewers</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/yokwe-tv-grabs-viewers/>
+
+---
+
+## Palau’s hi-tech mission to preserve Pacific’s oldest monuments
+
+date: 2025-01-23, from: Pacific Island Times
+
+2,400-year-old earthworks revealed as predating stone moai statues of Rapa Nui and megalithic Nan Madol in Micronesia. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/palau-s-hi-tech-mission-to-preserve-pacific-s-oldest-monuments>
+
+---
+
+## A. Samoa delegate vows to bring Pacific insights to Foreign Affairs committee
+
+date: 2025-01-23, from: Pacific Island Times
+
+Washington has increased its engagement in the Indo-Pacific region amid China’s influence-peddling. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/a-samoa-delegate-vows-to-bring-pacific-insights-to-foreign-affairs-committee>
+
+---
+
+## Trump starts countdown toward tariffs on America’s largest trading partners
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; When President Donald Trump did not follow through with his promise to immediately impose new tariffs on his first day in office, business executives and others who support international trade breathed a sigh of relief.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/nation-world-news/trump-starts-countdown-toward-tariffs-on-americas-largest-trading-partners/>
+
+---
+
+## From Day 1, Trump shows he’ll test limits of what he can get away with
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; His vice president, JD Vance, said he &#8220;obviously&#8221; wouldn&#8217;t do it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/nation-world-news/from-day-1-trump-shows-hell-test-limits-of-what-he-can-get-away-with/>
+
+---
+
+## Tens of thousands flee as Hughes fire scorches over 9,000 acres
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; A new fire exploded Wednesday north of Castaic, Calif., quickly charring more than 9,400 acres and forcing thousands to flee their homes amid a month of extreme fire conditions that have plagued the state.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/nation-world-news/tens-of-thousands-flee-as-hughes-fire-scorches-over-9000-acres/>
+
+---
+
+## Two chefs with Hilo ties are James Beard semifinalists
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>The James Beard Foundation on Wednesday announced its 2025 Restaurant and Chef Award Semifinalists, and several from Hawaii are included on the list.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/hawaii-news/two-chefs-with-hilo-ties-are-james-beard-semifinalists/>
+
+---
+
+## Schweitzers seek monetary damages in federal civil rights lawsuit
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>Two brothers wrongly convicted for the Dec. 24, 1991, abduction, rape and murder of Dana Ireland have filed a federal lawsuit claiming their civil rights were violated by Hawaii County and its police department.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/hawaii-news/schweitzers-seek-monetary-damages-in-federal-civil-rights-lawsuit/>
+
+---
+
+## Learn to deescalate, resolve conflict in mediation training
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>Ku&#8216;ikahi Mediation Center&#8217;s 2025 &#8220;Basic Mediation Training&#8221; begins Friday, Feb. 28, in-person in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/community/learn-to-deescalate-resolve-conflict-in-mediation-training/>
+
+---
+
+## Invitational wood show now open
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>WAIMEA &#8212; The Isaacs Art Center at Hawaii Preparatory Academy and the Hawaii Wood Guild have announced the 39th Invitational Masters Show is running through Friday, Feb. 28, with extended viewing possible through March.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/entertainment/invitational-wood-show-now-open/>
+
+---
+
+## HEART presents ‘A View from the Bridge’
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>The Hilo Education Arts Repertory Theatre, or HEART, has announced its upcoming production of Arthur Miller&#8217;s &#8220;A View from the Bridge,&#8221; a gripping drama that examines justice, loyalty and betrayal within a working-class Italian-American community.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/entertainment/heart-presents-a-view-from-the-bridge/>
+
+---
+
+## Hospice providers form collaborative
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>In an effort to ensure sustainable, high-quality care for patients and families across Hawaii, six leading nonprofit hospice providers &#8212; including two on Hawaii Island &#8212; have joined forces to form the Hawaii Palliative and Hospice Care Collaborative.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/community/hospice-providers-form-collaborative/>
+
+---
+
+## US military to send additional 1,500 troops to border
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. military will send 1,500 additional active-duty troops to the border with Mexico, the White House said on Wednesday, just two days after President Donald Trump signed an executive order on immigration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/nation-world-news/us-military-to-send-additional-1500-troops-to-border/>
+
+---
+
+## Saudi Arabia plans $600 billion in new US investment, trade over four years
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>Saudi Arabian Crown Prince Mohammed bin Salman told President Donald Trump that the kingdom wants to put $600 billion into expanded investment and trade with the United States over the next four years, the Saudi State news agency said early on Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/nation-world-news/saudi-arabia-plans-600-billion-in-new-us-investment-trade-over-four-years/>
+
+---
+
+## Murdoch deal is victory for Prince Harry, but doesn’t get him everything he wanted
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; Six years ago, as he and his American wife Meghan were seemingly enjoying a hugely successful royal tour to Africa, Prince Harry issued a surprise, stinging rebuke to the British press, accusing papers of waging a ruthless campaign against them.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/nation-world-news/murdoch-deal-is-victory-for-prince-harry-but-doesnt-get-him-everything-he-wanted/>
+
+---
+
+## Global health funds push for more private money, fearing government retreat
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; One of the world&#8217;s biggest global health funders will ask the private sector for a steep increase in donations as concern of a shortfall in government contributions grows following a U.S. decision to exit the World Health Organization. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/nation-world-news/global-health-funds-push-for-more-private-money-fearing-government-retreat/>
+
+---
+
+## Mexico builds temporary shelters to prepare for mass deportations from US
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>CIUDAD JUAREZ, Mexico &#8212; Mexican authorities have begun constructing giant tent shelters in the city of Ciudad Juarez to prepare for a possible influx of Mexicans deported under U.S. President Donald Trump&#8217;s promised mass deportations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/nation-world-news/mexico-builds-temporary-shelters-to-prepare-for-mass-deportations-from-us/>
+
+---
+
+## Bishop urges mercy for immigrants, Trump calls her “nasty”
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump began his first full day in office attending a prayer service at the Washington National Cathedral on Tuesday and got a sermon he may not have been expecting: an appeal to protect immigrants and respect gay rights.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/nation-world-news/bishop-urges-mercy-for-immigrants-trump-calls-her-nasty/>
+
+---
+
+## Sun Belt iced over after record snowfall
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>Parts of the South were at a standstill Wednesday after a rare winter storm dumped record amounts of snow on much of the Gulf Coast and the Carolinas. In its aftermath, major cities and beachfront communities from eastern Texas to the Outer Banks of North Carolina were forced to quickly learn how to dig out, with some borrowing snow plows from northern neighbors more accustomed to winter weather.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/nation-world-news/sun-belt-iced-over-after-record-snowfall/>
+
+---
+
+## Musk casts doubt on Trump’s $100 billion AI announcement
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Elon Musk is casting doubt on the first major tech investment announcement made by President Donald Trump, openly questioning the administration he now serves.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/nation-world-news/musk-casts-doubt-on-trumps-100-billion-ai-announcement/>
+
+---
+
+## 2 dead, including gunman, in Nashville high school shooting, police say
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>A 17-year-old male student armed with a pistol opened fire in a high school cafeteria in Nashville, Tennessee, on Wednesday, fatally shooting a 16-year-old female student and injuring a male student before killing himself, police said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/nation-world-news/2-dead-including-gunman-in-nashville-high-school-shooting-police-say/>
+
+---
+
+## Boat safety effort ramps up
+
+date: 2025-01-23, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Majuro Atoll Local Government is launching a mandatory maritime safety course for all small boats operating within Majuro lagoon and in and out of Majuro Atoll. Satisfactory completion of the safety course will result in the issuance of the boat’s license. Boats operating without a license will subjected to penalty by MALGov. The [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/boat-safety-effort-ramps-up/">Boat safety effort ramps up</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/boat-safety-effort-ramps-up/>
+
+---
+
+## Samoa political update: Fiame prevails
+
+date: 2025-01-23, from: Pacific Island Times
+
+Fiame Naomi Mata'afa, Samoa’s first female prime minister, emerged from Parliament on Jan. 21 with her leadership intact 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/samoa-political-update-fiame-prevails>
+
+---
+
+## Guam governor bucks renewed call for for business privilege tax rollback  
+
+date: 2025-01-23, from: Pacific Island Times
+
+ Cutting the business privilege tax from 5 percent to 4 percent will not make a dent in consumer prices, Gov. Lou Leon Guerrero said. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-governor-bucks-renewed-call-for-for-business-privilege-tax-rollback>
+
+---
+
+## Miss Pacific wraps happy RMI visit
+
+date: 2025-01-23, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Miss Pacific Islands Moemoana Schwenke and her small entourage were serenaded with a night of entertainment filled with hugs and plates full of food on her last day in the Marshall Islands with a farewell in her honor at the Marshall Islands Resort last Friday. Miss Pacific said she was filled with immense [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/miss-pacific-wraps-happy-rmi-visit/">Miss Pacific wraps happy RMI visit</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/miss-pacific-wraps-happy-rmi-visit/>
+
+---
+
+## Decades old problem to get fix
+
+date: 2025-01-22, from: Marshal Islands Journal
+
+<p>HILARY HOSIA A decades long problem for the Majuro Water and Sewer Company — and the 20,000 residents of Majuro Atoll — is about to be eliminated following the injection of $14.9 million in US funding to replace the sewer outfall located oceanside of the MWSC headquarters in Delap. News of the long-awaited dream was [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/decades-old-problem-to-get-fix/">Decades old problem to get fix</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/decades-old-problem-to-get-fix/>
+
+---
+
+## Image of the Week: Aeʻo (Hawaiian stilt)
+
+date: 2025-01-22, from: University of Hawaiʻi News
+
+<p>This week's image is from <abbr>UH</abbr> Mānoa's Melissa Price.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/22/image-of-the-week-aeo/">Image of the Week: Aeʻo (Hawaiian stilt)</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/22/image-of-the-week-aeo/>
 
 ---
 
@@ -258,6 +639,34 @@ date: 2025-01-22, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/01/22/nation-world-news/admiral-fagan-is-fired-as-coast-guard-commandant/>
+
+---
+
+## Kilauea eruption resumes in HVNP
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>The eruption of Kilauea within the summit caldera resumed today just before 3 p.m.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/hawaii-news/kilauea-eruption-resumes-in-hvnp/>
+
+---
+
+## Schweitzer brothers file federal civil rights lawsuit seeking monetary damages
+
+date: 2025-01-22, from: Hawaii Tribune Harold
+
+
+				<p>Two brothers wrongly convicted for the Dec. 24, 1991, abduction, rape and murder of Dana Ireland have filed a federal lawsuit claiming their civil rights were violated by Hawaii County and its police department.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/22/hawaii-news/schweitzer-brothers-file-federal-civil-rights-lawsuit-seeking-monetary-damages/>
 
 ---
 

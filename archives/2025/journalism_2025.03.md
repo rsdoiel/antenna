@@ -1,11 +1,243 @@
 ---
 title: journalism
-updated: 2025-01-22 07:05:58
+updated: 2025-01-23 07:05:26
 ---
 
 # journalism
 
-(date: 2025-01-22 07:05:58)
+(date: 2025-01-23 07:05:26)
+
+---
+
+## UCLA graduate student splashes into Sundance scene with feature-length film debut
+
+date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+After diving headfirst into her feature-length debut, Sundance Film Festival audiences will dip their toes in Sierra Falconer&#8217;s childhood memories of Green Lake.
+&#8220;Sunfish (&#38; Other Stories on Green Lake),&#8221; the UCLA thesis film capping Sierra Falconer&#8217;s 2024 film production and directing master&#8217;s degree, will premiere Sunday at Sundance as part of the U.S. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/ucla-graduate-student-splashes-into-sundance-scene-with-feature-length-film-debut/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Los Angeles Fire Department has stopped all forward progress from the Sepulveda Fire, according to a 1:55 a.m. statement from LAFD spokesperson Margaret Stewart. The fire was held at 40 acres, and evacuation warnings are no longer in effect, she said. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/478949/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+Northwest winds near the Sepulveda Fire are between eight and 15 miles per hour, with gusts up to 25 miles per hour, according to the National Weather Service. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/478943/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+<strong>A 12:59 a.m. status report on the Cal Fire website listed LOS-Q0849 – the zone covering the UCLA campus – as under evacuation warning. </strong>
+<strong>However, UCPD Lieutenant James Echols confirmed that as of 1:28 a.m., there is no evacuation warning in place covering the UCLA campus.</strong> 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/478941/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Sepulveda fire is now 25 acres, according to Watch Duty, and forward progress of the fire has been stopped. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/478939/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+250 firefighters are currently combatting the Sepulveda fire, which began Wednesday evening around 1.8 miles from the UCLA campus, according to a 12:51 a.m. statement from LAFD spokesperson Margaret Stewart. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/478937/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Sepulveda fire, which began around 1.8 miles from the UCLA campus, has spread to 20 acres in size, according to the Cal Fire website. The fire is being managed by the LA City Fire Department and the fire&#8217;s cause has not yet been determined, according to Cal Fire. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/478935/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Sepulveda Fire, which began Wednesday evening around 1.8 miles from the UCLA campus, is 20 acres in size, according to the Watch Duty app. There are no evacuation warnings or orders in place covering the UCLA campus as of 12:40 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/478933/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Sepulveda fire, which started around 1.8 miles from the UCLA campus, is now 20 acres in size, according to the Watch Duty app. Although an evacuation warning borders the UCLA campus, there are no warnings or orders in place covering the campus as of 12:25 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/478930/>
+
+---
+
+## Sepulveda fire breaks out east of Interstate 405 near Getty Center
+
+date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+A fire has broken out east of Interstate 405 near the Getty Center.
+The Sepulveda fire has burned 10 acres as of 11:40 p.m. Wednesday, according to the Watch Duty app. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/sepulveda-fire-breaks-out-east-of-interstate-405-near-getty-center/>
+
+---
+
+## LIVE: January 2025 fires
+
+date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/category/breaking/pacific-palisades-fire>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Sepulveda fire continues to have a size of 10 acres, according to the Watch Duty app. The fire is not listed on the Cal Fire website as of 12:10 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/478925/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+There are still red flag warnings – indicating potentially dangerous fire weather – in effect, according to a 6:44 p.m. Wednesday post on X from Los Angeles Fire Department Public Information Officer Erik Scott. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/478922/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+Multiple aircraft are responding to the Sepulveda fire, which is around 1.8 miles from the UCLA campus. As of 12:13 a.m. Thursday morning, there are no evacuation warnings or notices for the UCLA campus. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/478919/>
+
+---
+
+## ‘The Brutalist’ is an engrossing tale of American dissonance
+
+date: 2025-01-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A24’s ambitious awards season frontrunner is big, beautiful and thematically uneven.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/23/the-brutalist-is-an-engrossing-tale-of-american-dissonance/">‘The Brutalist’ is an engrossing tale of American dissonance</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/23/the-brutalist-is-an-engrossing-tale-of-american-dissonance/>
+
+---
+
+## Students, faculty and staff gather to recognize MLK Day
+
+date: 2025-01-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Attendees heard music and speeches and shared dreams for the United States.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/23/students-faculty-and-staff-gather-to-recognize-mlk-day/">Students, faculty and staff gather to recognize MLK Day</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/23/students-faculty-and-staff-gather-to-recognize-mlk-day/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+A new evacuation warning has been issued for those south of the 1500 block of Casiano Road, north of Moraga Drive, east of Sepulveda Boulevard and west of Chalon Road, according to the Los Angeles Fire Department. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/22/478916/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Sepulveda Fire is now 10 acres, according to the Watch Duty app. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/22/478913/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+A 1-acre fire broke out on the east side of the 405 Freeway near Getty View Park on Wednesday evening, according to the Watch Duty app. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/22/478911/>
+
+---
+
+## Los Angeles cracks down on crime following lenient district attorney policies
+
+date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+Los Angeles residents are calling for a tougher stance on crime after four years of progressive policies.
+Nathan Hochman and incumbent George Gasc&#243;n ran a tight race for the position of LA County&#8217;s district attorney in the 2024 general election, with the two candidates campaigning opposing visions for LA&#8217;s crime and public safety policies. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/22/los-angeles-cracks-down-on-crime-following-lenient-district-attorney-policies/>
+
+---
+
+## Students take to the streets on Inauguration Day
+
+date: 2025-01-23, from: The Sundail (CSUN Student Newspaper)
+
+Two hours after Donald Trump was officially sworn in as the 47th President of the United States on Monday, a crowd gathered outside of Los Angeles City Hall to advocate... 
+
+<br> 
+
+<https://sundial.csun.edu/188796/news/students-take-to-the-streets-on-inauguration-day/>
 
 ---
 
@@ -41,7 +273,7 @@ date: 2025-01-22, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2025-01-22, from: The Daily Trojan (USC Student Newspaper)
 
-<p>Keke Palmer and SZA star as broke roommates, racing against the clock to pay their rent.</p>
+<p>“The Barbershop” creators could win $1 million for their Doritos commercial.</p>
 <p>The post <a href="https://dailytrojan.com/2025/01/22/students-vie-for-super-bowl-ad-fame/">Students vie for Super Bowl ad fame</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
