@@ -1,11 +1,218 @@
 ---
 title: socal north
-updated: 2025-01-23 07:05:24
+updated: 2025-01-24 07:04:45
 ---
 
 # socal north
 
-(date: 2025-01-23 07:05:24)
+(date: 2025-01-24 07:04:45)
+
+---
+
+## The TV chef who lost his house to the Palisades fire — but not his food trucks
+
+date: 2025-01-24, updated: 2025-01-24, from: The LAist
+
+The Lime Truck is serving up Cali-Mex fare nightly across Los Angeles, one of countless restaurants and food trucks helping out after the devastating fires. But for owner and TV chef Daniel Shemtob, it's personal. 
+
+<br> 
+
+<https://laist.com/news/food/the-lime-truck-chef-who-lost-his-house-to-the-fires>
+
+---
+
+## Finding your cup of tea among LA's matcha offerings
+
+date: 2025-01-24, updated: 2025-01-24, from: The LAist
+
+Matcha culture is complex and rich, like the drink. We offer seven spots to approach matcha nirvana. 
+
+<br> 
+
+<https://laist.com/news/food/finding-your-cup-of-tea-among-las-matcha-offerings>
+
+---
+
+## Metro extends free rides to wildfire victims. Here's how to sign up
+
+date: 2025-01-24, updated: 2025-01-24, from: The LAist
+
+The Metro Board voted Thursday to expand a program that offers unlimited rides to people who have been displaced by the ongoing fires. 
+
+<br> 
+
+<https://laist.com/news/transportation/wildfire-victims-free-metro-fares>
+
+---
+
+## Trump’s early health moves signal intent to erase Biden’s legacy. What’s next is unclear
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+President Donald Trump's early actions on health care signal his likely intention to wipe away some Biden-era programs. 
+
+<br> 
+
+<https://laist.com/news/health/trumps-early-health-moves-biden-legacy>
+
+---
+
+## OC DA charges Westminster councilmember with trying to bribe parking officer
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+Amy Phan West allegedly tried to stop her husband’s Jeep from getting towed. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/oc-da-charges-westminster-councilmember-with-trying-to-bribe-parking-officer>
+
+---
+
+## How the Altadena Seed Library is helping regrow the community after the deadly Eaton Fire
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+The library is looking for donations of native plant seeds that can help restore the ecosystem. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/how-the-altadena-seed-library-is-helping-regrow-the-community-after-the-deadly-eaton-fire>
+
+---
+
+## National Institutes of Health cancel scientific meetings after Trump directives
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+An email obtained by NPR says NIH employees are subject to a travel freeze, and offers of employment are being rescinded. Scientists worry about disruptions to critical research. 
+
+<br> 
+
+<https://laist.com/news/health/national-institutes-of-health-cancel-scientific-meetings-after-trump-directives>
+
+---
+
+## US judge temporarily blocks Trump's birthright citizenship order
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+The ruling bars U.S. agencies from implementing the order to end birthright citizenship for children born to migrants in the U.S. temporarily or without legal status while the case is under review. 
+
+<br> 
+
+<https://laist.com/news/politics/judge-temporarily-blocks-trumps-birthright-citizenship-order>
+
+---
+
+## Trump’s binary gender mandate leaves trans Californians facing mounting risks
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+President Trump's executive order leaves many nonbinary and transgender Californians grappling with uncertainty about their ability to travel freely. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-binary-gender-mandate-trans-california-risks>
+
+---
+
+## Rancho Palos Verdes landslide is costing almost as much as all city operations
+
+date: 2025-01-23, updated: 2025-01-24, from: The LAist
+
+The City Council this week approved taking money from other infrastructure projects to help pay for dewatering wells. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/rancho-palos-verdes-spending-landslide-movement>
+
+---
+
+## Transiting the Pasadena Blue Line
+
+date: 2025-01-23, from: Transiting Los Angeles
+
+The section of the A Line between Downtown L.A. and Pasadena is the most scenic in the whole system, passing hillside scenery and through historic neighborhoods. 
+
+<br> 
+
+<https://transitinglosangeles.com/2025/01/23/pasadena-blue-line/>
+
+---
+
+## Assessing Trump's claim that U.S. pays 'unfair' share of dues to WHO
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+While signing the order to end U.S. membership in the World Health Organization, the president spoke of the disparity between contributions from the U.S. and China. Here's how WHO funding works. 
+
+<br> 
+
+<https://laist.com/news/health/assessing-trumps-claim-that-u-s-pays-unfair-share-of-dues-to-who>
+
+---
+
+## Hughes Fire Burns Over 10,000 Acres
+
+date: 2025-01-23, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="922" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?fit=922%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?w=1290&amp;ssl=1 1290w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=270%2C300&amp;ssl=1 270w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=922%2C1024&amp;ssl=1 922w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=768%2C853&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=1200%2C1332&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=400%2C444&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=706%2C784&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?fit=922%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; A fast-moving brush fire rapidly exploded across thousands of acres of thick vegetation near Castaic Lake, prompting mandatory evacuations in the lake area and into the [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/23/hughes-fire-burns-over-10000-acres/">Hughes Fire Burns Over 10,000 Acres</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/23/hughes-fire-burns-over-10000-acres/>
+
+---
+
+## 5 takeaways from the 2025 Oscar nominations
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+From Emilia Pérez and its 13(!) nominations to the profoundly gross The Substance getting a Best Picture nod, the 2025 Oscar nominees addressed big social and political issues, all to varying degrees. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/5-takeaways-2025-oscar-nominations>
+
+---
+
+## Trump wants to end birthright citizenship. That's easier said than done
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+One of Trump's executive orders moves to end birthright citizenship, a right enshrined in the Constitution. Here's what you need to know about the legal principle and its possible future. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-wants-to-end-birthright-citizenship-thats-easier-said-than-done>
+
+---
+
+## Firefighters across SoCal battle new fires as red flag warning conditions subside
+
+date: 2025-01-23, updated: 2025-01-24, from: The LAist
+
+Firefighters on Thursday were battling new fires near Sepulveda Pass and in Ventura County. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/sepulveda-fire-along-the-405-freeway>
+
+---
+
+## Here are the 2025 nominees for the Oscars
+
+date: 2025-01-23, updated: 2025-01-23, from: The LAist
+
+The Academy Awards will be broadcast March 2 on ABC and Hulu. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/here-are-the-2025-nominees-for-the-oscars>
 
 ---
 
@@ -21,6 +228,18 @@ The Academy Awards will be broadcast March 2 on ABC and Hulu.
 
 ---
 
+## This college turned its wildfire relief center into a department store of free things
+
+date: 2025-01-23, updated: 2025-01-24, from: The LAist
+
+Santa Monica College is hosting a distribution event this week to provide free essentials to those who’ve been affected by local fires. 
+
+<br> 
+
+<https://laist.com/news/education/wildfire-relief-distribution-center-santa-monica-college>
+
+---
+
 ## Best things to do this weekend in Los Angeles and Southern California: January 24 - 26
 
 date: 2025-01-23, updated: 2025-01-23, from: The LAist
@@ -30,18 +249,6 @@ Enjoy music events from pop to jazz to roots, a cruise-in, French toast to benef
 <br> 
 
 <https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-los-angeles-southern-california-january-24-26>
-
----
-
-## It looks like a superstore. But this college’s wildfire relief distribution center is anything but
-
-date: 2025-01-23, updated: 2025-01-23, from: The LAist
-
-The college is hosting a distribution event this week to provide free essentials to those who’ve been affected by local fires. 
-
-<br> 
-
-<https://laist.com/news/education/wildfire-relief-distribution-center-santa-monica-college>
 
 ---
 
@@ -73,7 +280,7 @@ New Imperfect Paradise episode looks into the region's fire management practices
 
 date: 2025-01-23, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Trump-Star-Protest_SN_04-scaled-e1737611455582.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Trump-Star-Protest_SN_04-scaled-e1737611455582.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Trump-Star-Protest_SN_04-scaled-e1737611455582.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Trump-Star-Protest_SN_04-scaled-e1737611455582.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Trump-Star-Protest_SN_04-scaled-e1737611455582.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Trump-Star-Protest_SN_04-scaled-e1737611455582.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Trump-Star-Protest_SN_04-scaled-e1737611455582.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Trump-Star-Protest_SN_04-scaled-e1737611455582.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Trump-Star-Protest_SN_04-scaled-e1737611455582.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01202025_Trump-Star-Protest_SN_04-scaled-e1737611455582.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Una coalición diversa de manifestantes marchó del brazo por el centro de Los Ángeles, pidiendo a los angelinos que resistan al presidente Donald Trump y sus políticas. El mitin “¡We [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/01/22/una-coalicion-de-angelinos-protesta-contra-trumpel-dia-de-la-toma-de-posesion/">Una Coalición de Angelinos Protesta Contra Trumpel Día de la Toma de Posesión</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -298,11 +505,11 @@ Shortages of skilled labor, building materials and expensive construction loans 
 
 ---
 
-## Hughes Fire burns through more than 10K acres in Castaic. Evacuations, school closures in place
+## Hughes Fire in Castaic now 56% contained with rain in the forecast
 
-date: 2025-01-22, updated: 2025-01-23, from: The LAist
+date: 2025-01-22, updated: 2025-01-24, from: The LAist
 
-Around 31,000 people are under evacuation orders after the fire quickly grew to more than 10,000 acres. 
+Around 38,000 people are under evacuation warnings after the fire quickly grew to more than 10,300 acres. 
 
 <br> 
 
@@ -319,6 +526,18 @@ Should you sell? Do you pay the mortgage if everything was lost? LAist has answe
 <br> 
 
 <https://laist.com/news/climate-environment/homeowner-affected-by-the-la-fires-options>
+
+---
+
+## LA and OC restaurants announced as semifinalists in the James Beard Awards
+
+date: 2025-01-22, updated: 2025-01-24, from: The LAist
+
+The eateries are included in the best of California and national categories. 
+
+<br> 
+
+<https://laist.com/news/food/la-and-oc-restaurants-semi-finalists-james-beard-awards>
 
 ---
 

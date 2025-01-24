@@ -1,11 +1,84 @@
 ---
 title: motorcycles
-updated: 2025-01-23 07:05:27
+updated: 2025-01-24 07:04:48
 ---
 
 # motorcycles
 
-(date: 2025-01-23 07:05:27)
+(date: 2025-01-24 07:04:48)
+
+---
+
+## Royal Enfield Scram 440 Touches Down, So Here's What You Need To Know
+
+date: 2025-01-24, from: Ride Apart, Electric Motorcycle News
+
+Is it exactly what you think, or is it something else? 
+
+<br> 
+
+<https://www.rideapart.com/news/748365/royal-enfield-scram-440-specs-india/>
+
+---
+
+## Motorcyclist Rammed and Killed by Road-Raging Driver in Bangkok
+
+date: 2025-01-24, from: Ride Apart, Electric Motorcycle News
+
+Is there ever enough justice to right a wrong like this? 
+
+<br> 
+
+<https://www.rideapart.com/news/748362/road-rage-driver-kills-motorcyclist-bangkok/>
+
+---
+
+## Washington’s E-Bike Rebate Program to Help Low-Income Households Get Around
+
+date: 2025-01-24, from: Ride Apart, Electric Motorcycle News
+
+The state has budgeted $5 million to make e-bikes more accessible to low-income households. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/748246/washington-ebike-rebate-program-april-2025/>
+
+---
+
+## The Marketing for Honda's Old CT Trail 55 Was Awesome
+
+date: 2025-01-24, from: Ride Apart, Electric Motorcycle News
+
+We used to be a country! 
+
+<br> 
+
+<https://www.rideapart.com/news/748361/honda-ct-trail-55-old-marketing-video-hunting/>
+
+---
+
+## What Happens When a Paddle-Tire Ducati Superbike Hits Deep Snow?
+
+date: 2025-01-24, from: Ride Apart, Electric Motorcycle News
+
+Ducati probably never saw it coming. 
+
+<br> 
+
+<https://www.rideapart.com/news/748224/ducati-snow-panigale-paddletire-custom-superbike/>
+
+---
+
+## KTM CEO Stefan Pierer Is Out, Sort Of
+
+date: 2025-01-23, from: Ride Apart, Electric Motorcycle News
+
+Confused yet? So are we, but let's untangle this together. 
+
+<br> 
+
+<https://www.rideapart.com/news/748357/ktm-ceo-stefan-pierer-out/>
 
 ---
 

@@ -1,11 +1,1477 @@
 ---
 title: north america
-updated: 2025-01-23 07:05:23
+updated: 2025-01-24 07:04:44
 ---
 
 # north america
 
-(date: 2025-01-23 07:05:23)
+(date: 2025-01-24 07:04:44)
+
+---
+
+## California Rain Could Start as a Blessing and Turn into a Curse
+
+date: 2025-01-24, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTg0NzkwMi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0ODE1MTI1NX0.-cxf8uBuM7gOf_7GFADQo6BJRsIPYihh8OM4pQmVc2o/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><em><strong>Current conditions:</strong> The Hughes Fire in LA, which has burned more than 10,000 acres, is 36% contained • Parts of Florida have been colder than Alaska this week • Dhaka in Bangladesh is the most polluted city in the world today.</em></p><h2>THE TOP FIVE</h2><h3>1. Rain finally forecast for parched Southern California</h3><p>Rain is expected in Southern California this weekend, which will bring relief to a region terrorized by wildfires. But there is some concern that the moisture could trigger flooding and mudslides in the areas most affected by the blazes. More than 50,000 acres have been charred in recent weeks, and burnt land struggles to absorb water, increasing the risk of flooding. <a href="https://www.nytimes.com/2025/01/23/us/southern-california-rain-forecast-mudslides.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--iBK_1lE9FTsIaCUJVIkRrThKOMtJEuOL41NXWMjKFdgju3RozlaMKhUskd60SvRNPh_e1" rel="noopener noreferrer" target="_blank">According to</a> <em><em>The New York Times</em></em>, areas surrounding the Eaton Fire in Pasadena could be most at-risk in the case of a downpour. The good news is that heavy rain isn’t currently in the forecast. The bad news is that dry weather is likely to return next week. “The Santa Ana wind season can persist through February and March, and one weekend of modest rainfall would be no match for more weeks of dry winds and weather, should that materialize,” the <em><em>LA Times</em></em> <a href="https://www.latimes.com/california/live/la-fire-rain-wind-laguna-eaton-palisades-updates-red-flag-warning?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--iBK_1lE9FTsIaCUJVIkRrThKOMtJEuOL41NXWMjKFdgju3RozlaMKhUskd60SvRNPh_e1" rel="noopener noreferrer" target="_blank">reported</a>. </p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="ba7fcf8f8666e27820ba0de22025e570" data-rm-shortcode-name="rebelmouse-image" id="e34f6" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTg0NzkxOS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc5Njc3NzUwOX0.bDL92gr5XUVKpV-ITOcNU7KRd6QTvAwk87l-EeAhIfs/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit..."><a href="https://www.weather.gov/cys/burnscarflashflood?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--iBK_1lE9FTsIaCUJVIkRrThKOMtJEuOL41NXWMjKFdgju3RozlaMKhUskd60SvRNPh_e1" rel="noopener noreferrer" target="_blank">National Weather Service</a></small></p><p>President Trump will visit the scene of the LA fires today. This week he threatened to withhold federal funding for the disasters unless the state of California diverts more water from the north to the south – a suggestion experts have said is <a href="https://www.nytimes.com/2025/01/23/us/trump-newsom-water-fires.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--iBK_1lE9FTsIaCUJVIkRrThKOMtJEuOL41NXWMjKFdgju3RozlaMKhUskd60SvRNPh_e1" rel="noopener noreferrer" target="_blank">overly simplistic and misleading</a>. Catastrophe risk modeling firm KCC <a href="https://www.reuters.com/world/us/la-fire-insured-losses-estimated-28-billion-kcc-says-2025-01-23/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--iBK_1lE9FTsIaCUJVIkRrThKOMtJEuOL41NXWMjKFdgju3RozlaMKhUskd60SvRNPh_e1" rel="noopener noreferrer" target="_blank">estimates</a> the fires have caused $28 billion in insured losses. This would make them the costliest wildfires ever in the U.S. </p><h3>2. Storm Éowyn knocks out power in Ireland</h3><p>More than <a href="https://www.theguardian.com/world/2025/jan/24/storm-eowyn-homes-without-power-ireland-record-gusts?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--iBK_1lE9FTsIaCUJVIkRrThKOMtJEuOL41NXWMjKFdgju3RozlaMKhUskd60SvRNPh_e1" rel="noopener noreferrer" target="_blank">715,000 customers</a> are without power in Ireland after Storm Éowyn brought record-setting wind gusts of up to 114 mph to western parts of the country. The storm is now lurching northeast across the U.K., where weather warnings are in place and power outages are expected. Éowyn intensified rapidly over the North Atlantic before hitting land, “with the central pressure dropping to below 940 millibars as the storm approaches the west coast of Scotland,” <a href="https://www.reading.ac.uk/news/2025/Expert-Comment/Storm-Eowyn-Expert-comments-University-of-Reading?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--iBK_1lE9FTsIaCUJVIkRrThKOMtJEuOL41NXWMjKFdgju3RozlaMKhUskd60SvRNPh_e1" rel="noopener noreferrer" target="_blank">explained</a> University of Reading meteorology professor Suzanne Gray. “Pressures below 940 mb are rare for the British Isles, with only five reliably recorded occasions of pressures below 940 mb on the mainland British Isles in 200 years of reliable measurements up to 2007.” The storm is so powerful that hurricane researchers from NOAA were <a href="https://www.galwaybeo.ie/news/ireland-news/storm-eowyn-scary-video-shows-9886233?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--iBK_1lE9FTsIaCUJVIkRrThKOMtJEuOL41NXWMjKFdgju3RozlaMKhUskd60SvRNPh_e1" rel="noopener noreferrer" target="_blank">reportedly</a> flying over to investigate.</p><h3>3. U.S. cold snap boosts coal-fired power production</h3><p>Meanwhile, below-average temperatures will <a href="https://www.wpc.ncep.noaa.gov/discussions/hpcdiscussions.php?disc=pmdspd&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--iBK_1lE9FTsIaCUJVIkRrThKOMtJEuOL41NXWMjKFdgju3RozlaMKhUskd60SvRNPh_e1" rel="noopener noreferrer" target="_blank">continue</a> along the Gulf Coast through the weekend. The frigid start to the year has sent U.S. coal-fired power production soaring to its highest levels since 2019 as homeowners try to stay warm, according to data <a href="https://www.reuters.com/business/energy/us-power-firms-crank-up-dirty-fuel-use-fight-cold-snap-maguire-2025-01-23/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--iBK_1lE9FTsIaCUJVIkRrThKOMtJEuOL41NXWMjKFdgju3RozlaMKhUskd60SvRNPh_e1" rel="noopener noreferrer" target="_blank">seen by</a> <em><em>Reuters</em></em>. Oil-fired power generation is also up 170% this January compared to the same time last year. </p><h3>4. Fossil fuel insiders wary of Trump’s ‘drill, baby, drill’</h3><p>President Trump has big plans to boost (already record-high) oil production in the U.S., but it seems oil and gas industry insiders aren’t sure. Fossil fuel bosses are saying that Wall Street is unlikely to go all in on another drilling binge, and that oil and gas companies probably won’t rush to drill in Alaska’s Arctic because it’s too risky. Here are some quotes:</p><ul> <li>“The incentive, if you will, to just drill, baby, drill ... I just don’t believe that companies are going to do that.” –<a href="https://www.ft.com/content/3f4c07ee-7a75-467d-9cc7-53e81c579874?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--iBK_1lE9FTsIaCUJVIkRrThKOMtJEuOL41NXWMjKFdgju3RozlaMKhUskd60SvRNPh_e1" target="_blank">Wil VanLoh</a>, chief executive of private equity group Quantum Energy Partners.</li><li>“Prices will be a bigger signal than politics.” –<a href="https://www.ft.com/content/3f4c07ee-7a75-467d-9cc7-53e81c579874?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--iBK_1lE9FTsIaCUJVIkRrThKOMtJEuOL41NXWMjKFdgju3RozlaMKhUskd60SvRNPh_e1" rel="noopener noreferrer" target="_blank">Ben Dell</a>, managing partner at energy investment firm Kimmeridge.</li><li>“As much as the incoming administration is very favorable around energy and power ... we don’t see a significant change in activity levels going forward.” –<a href="https://www.ft.com/content/3f4c07ee-7a75-467d-9cc7-53e81c579874?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--iBK_1lE9FTsIaCUJVIkRrThKOMtJEuOL41NXWMjKFdgju3RozlaMKhUskd60SvRNPh_e1" rel="noopener noreferrer" target="_blank">David Schorlemer</a>, chief financial officer of oilfield services company ProPetro.</li><li>“Many of these areas have been closed for a good long while. There is always the risk that these areas could be reclosed after the next election cycle.” –<a href="https://www.reuters.com/business/energy/oil-industry-unlikely-rush-alaska-despite-trumps-call-drill-2025-01-23/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--iBK_1lE9FTsIaCUJVIkRrThKOMtJEuOL41NXWMjKFdgju3RozlaMKhUskd60SvRNPh_e1" rel="noopener noreferrer" target="_blank">Dustin Meyers</a>, senior vice president of policy at the American Petroleum Institute.</li></ul><h3>5. Billionaire Bloomberg steps in to help fund UNFCCC</h3><p>With President Trump withdrawing the U.S. from the Paris climate agreement and stopping all funding of the UN Framework Convention on Climate Change, the UN climate body finds itself facing a funding gap. But billionaire Michael Bloomberg has <a href="https://www.politico.eu/article/bloomberg-offers-climate-cash-to-un-amid-trump-cutbacks/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--iBK_1lE9FTsIaCUJVIkRrThKOMtJEuOL41NXWMjKFdgju3RozlaMKhUskd60SvRNPh_e1" target="_blank">said</a> his philanthropy and a group of other funders will help cover the shortfall. For context, last year the U.S. contributed more than $13 million to the UNFCCC, making it one of the top funders. The climate body helps organize global climate conferences and monitors emissions.</p><h2>THE KICKER</h2><p>Tesla has unveiled its new, redesigned Model Y SUV, coming to the U.S. in March. It <a href="https://techcrunch.com/2025/01/23/teslas-redesigned-model-y-is-coming-to-north-america-in-march-for-60000/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--iBK_1lE9FTsIaCUJVIkRrThKOMtJEuOL41NXWMjKFdgju3RozlaMKhUskd60SvRNPh_e1" target="_blank">starts at</a> around $60,000, or $12,000 more expensive than the previous version.</p> 
+
+<br> 
+
+<https://heatmap.news/climate/california-rain-fires-landslides>
+
+---
+
+## Undaunted
+
+date: 2025-01-24, from: The Contrarian
+
+A champion for truth, science, and responsible stewardship 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-4aa>
+
+---
+
+##  The Supreme Court Case That Got Us Here 
+
+date: 2025-01-24, from: The Lever News
+
+ Fifteen years ago, the Supreme Court’sCitizens United decision ushered in a new era of corporate dominance over American politics.  
+
+<br> 
+
+<https://www.levernews.com/the-supreme-court-case-that-got-us-here/>
+
+---
+
+## US agents raid New Jersey worksite as Trump escalates undocumented immigration crackdown
+
+date: 2025-01-24, from: VOA News USA
+
+WASHINGTON — U.S. immigration agents rounded up undocumented migrants as well as American citizens in a raid of a Newark, New Jersey, worksite on Thursday that the city's mayor said involved detaining a military veteran and violations of the people's rights.
+
+
+The raid in New Jersey's most populous city, hailed in the past by Mayor Ras Baraka for its "sanctuary" policies protecting migrants, follows President Donald Trump's pledge to deport millions of immigrants who are in the U.S. illegally.
+
+
+Trump issued a raft of executive orders after taking office on Monday that aim to clamp down on illegal immigration. He has taken steps to punish officials who resist enforcement of his sweeping crackdown.
+
+
+In a raid of a business establishment in Newark, outside New York City, Immigration and Customs Enforcement (ICE) agents failed to produce a warrant as they detained "undocumented residents as well as citizens," Baraka said in a statement.
+
+
+"One of the detainees is a U.S. military veteran who suffered the indignity of having the legitimacy of his military documentation questioned," Baraka said.
+
+
+In a statement, an ICE spokesperson said that agents "may encounter U.S. citizens while conducting field work and may request identification to establish an individual’s identity as was the case during a targeted enforcement operation at a worksite today in Newark."
+
+
+The spokesperson said that ICE was investigating the incident.
+
+
+Baraka said the raid had violated the citizens' rights under the U.S. Constitution.
+
+
+"Newark will not stand by idly while people are being unlawfully terrorized," he said.
+
+
+Neither Baraka nor ICE identified the business raided by name.
+
+
+White House spokesperson Karoline Leavitt said on X that the Trump administration arrested 538 people Thursday, describing all of them as "illegal immigrant criminals." She said they included members of a Venezuelan prison gang and people convicted of sex crimes.
+
+
+Leavitt did not provide more details.
+
+
+A range of studies by academics and think tanks have shown that immigrants do not commit crime at a higher rate than native-born Americans. Other studies find that immigrants in the U.S. illegally also do not commit crimes at a higher rate.
+
+
+Sanctuary cities
+
+
+Baraka, the Newark mayor, is one of the first local officials in the U.S. to issue a statement on a specific raid following the start of Trump's immigration crackdown.
+
+
+In 2017, he signed an executive order cementing Newark's sanctuary status and was a vocal opponent of Trump's immigration policies during the president's first term.
+
+
+Of the estimated 11 million immigrants in the U.S. illegally or with temporary status in 2022, about 44% lived in states with "sanctuary" laws that limit cooperation with federal immigration authorities.
+
+
+That figure does not include those in sanctuary cities and counties in places without a statewide law, such as New Mexico.
+
+
+U.S. media outlets reported that federal law enforcement and ICE agents had arrested nearly 500 undocumented migrants wanted for outstanding crimes in sanctuary cities, including some from New York and New Jersey. The reports cited ICE officials who said the arrests took place Tuesday and Wednesday. 
+
+<br> 
+
+<https://www.voanews.com/a/us-agents-raid-new-jersey-worksite-as-trump-escalates-immigration-crackdown/7948613.html>
+
+---
+
+## US Air Force looks to upgrade Cyprus airbase as humanitarian staging post for the Middle East
+
+date: 2025-01-24, from: VOA News USA
+
+NICOSIA, CYPRUS  — Experts from the U.S. Air Force are looking at ways to upgrade Cyprus' premier air base for use as a humanitarian staging post in future operations in the Middle East, a Cypriot official told The Associated Press on Thursday.
+
+
+Cyprus, which is only 184 kilometers from the Lebanese capital, Beirut, has acted as a transit point for the repatriation of foreign nationals fleeing conflict in the Middle East and beyond on numerous occasions in the past. It has also served as a transit point for humanitarian aid to Gaza.
+
+
+Experts from the 435th Contingency Response Group based out of Ramstein, Germany, will spend the next few days at Andreas Papandreou Air Force Base to assess the upgrade needed to accommodate a wide array of U.S. air assets and other forces.
+
+
+A key priority is to ensure air traffic safety in and around the base, which abuts the island's second-largest civilian airport, the official said. The base's location makes it easy to transfer evacuees onto civilian aircraft at the adjacent airport for their trip home.
+
+
+The official spoke to the Associated Press on condition of anonymity because he's not authorized to speak publicly about the details of the experts' visit.
+
+
+Air traffic safety would need to be enhanced through new high-tech installations, including state-of-the-art radar, to ensure the independent operation of civilian and military aircraft at safe distances.
+
+
+"The Americans are very specific on safety issues and want to make some upgrades to further improve the base's safety," the official said.
+
+
+Other essential upgrades include expanding both the base itself and the runway to accommodate more transport and fighter aircraft. Hardened shelters to protect those air assets are also envisioned.
+
+
+The Cyprus government agreed to the air base upgrade assessment following the recent deployment of a U.S. Marine contingent at the base. The Marines, who were equipped with V-22 Osprey tiltrotor military transport and cargo aircraft, were on stand-by in the event of a swift evacuation of US citizens from nearby Lebanon during Israel's strikes against Hezbollah targets late last year.
+
+
+Deputy government spokesman Yannis Antoniou told the state broadcaster Thursday that any use of the base by the forces of the U.S. or other nations would require prior Cyprus government approval. He insisted the air base would not act as a forward base for military strike operations against targets in the region.
+
+
+"We've shown interest in working with (US. Forces) because we consider this to serve the vital interests of the Cyprus Republic," Antoniou said, adding that in their report, the USAF experts will offer an estimate of the upgrade costs and which percentage of those the US government would be willing to cover.
+
+
+Bilateral relations between European Union member Cyprus and the U.S., especially in terms of military cooperation, have grown significantly over the last few years following a pledge by Cypriot President Nikos Christodoulides to affirm the ethnically divided country's "clear Western orientation."
+
+
+A manifestation of those ties was last week's directive by former President Joe Biden that allows Cyprus to buy arms from the U.S. government and get surplus American military equipment.
+
+
+The Cypriot government noted the development as a tangible acknowledgment of Cyprus' reliability as a U.S. partner in the region. 
+
+<br> 
+
+<https://www.voanews.com/a/us-air-force-looks-to-upgrade-cyprus-airbase-as-humanitarian-staging-post-for-the-middle-east/7948601.html>
+
+---
+
+## How Trump’s executive orders are impacting migrant workers
+
+date: 2025-01-24, from: Market Place, Make me Smart
+
+<p>During his first week back in office, President Donald Trump signed several executive orders targeting immigrant communities. We’ll hear how migrant workers are responding. Then, Kimberly explains the fiasco over Trump’s plan to “drill, baby, drill.” Plus, an economics professor shares a 1940s movie pick that&#8217;s on point for today&#8217;s debate on tariffs.</p>
+<p><span style="font-weight: 400">Here’s everything we talked about today: </span></p>
+<ul>
+<li style="font-weight: 400"><a href="https://www.nbcbayarea.com/news/california/central-valley-farm-workers-deportation-fear/3763233/"><span style="font-weight: 400">“Central Valley farmworkers scared to show up to work over deportation fear</span></a><span style="font-weight: 400">” from NBC</span></li>
+<li style="font-weight: 400"><a href="https://www.marketplace.org/2025/01/22/immigration-is-tied-to-food-security-farmer-says-and-food-security-is-tied-to-national-security/"><span style="font-weight: 400">“Farmer ties immigration to food security, strong exports</span></a><span style="font-weight: 400">” from Marketplace</span></li>
+<li style="font-weight: 400"><a href="https://timesofindia.indiatimes.com/world/us/rush-for-preterm-babies-to-beat-birthright-citizenship-deadline/articleshow/117470382.cms"><span style="font-weight: 400">“Rush for preterm babies to beat birthright citizenship deadline”</span></a><span style="font-weight: 400"> from the Times of India</span></li>
+<li style="font-weight: 400"><a href="https://www.teenvogue.com/story/ice-watch-programs-immigrants-how-to-start"><span style="font-weight: 400">“ICE Watch Programs Can Protect Immigrants in Your Neighborhood — Here’s What to Know”</span></a><span style="font-weight: 400"> from Teen Vogue</span></li>
+<li style="font-weight: 400"><a href="https://www.marketplace.org/2025/01/22/ira-funding-restrictions-executive-order-trump-transportation-federal-dollars-confusion/"><span style="font-weight: 400">“Trump clarifies executive order restricting IRA-related funding”</span></a><span style="font-weight: 400"> from Marketplace</span></li>
+<li style="font-weight: 400"><a href="https://www.reuters.com/sustainability/sustainable-finance-reporting/white-house-says-order-pausing-ira-disbursements-only-applies-some-programs-2025-01-22/"><span style="font-weight: 400">“White House says order pausing IRA disbursements only applies to some programs” </span></a><span style="font-weight: 400">from Reuters</span></li>
+<li style="font-weight: 400"><a href="https://www.marketplace.org/shows/marketplace-tech/as-la-blazes-rage-even-firefighters-turn-to-watch-duty/"><span style="font-weight: 400">“As LA blazes rage, even firefighters turn to Watch Duty” </span></a><span style="font-weight: 400">from Marketplace from YouTube</span></li>
+<li style="font-weight: 400"><span style="font-weight: 400">WATCH: </span><span style="font-weight: 400"><a href="https://www.youtube.com/watch?v=PG1e0t4KmUY">&#8220;Life With Father&#8221; | Elizabeth Taylor, William Powell, Irene Dunne | Classic Drama Comedy</a> from YouTube</span></li>
+</ul>
+<p><span style="font-weight: 400">Join Amy and Nova tomorrow for “Economics on Tap.” The </span><a href="https://www.youtube.com/@marketplaceAPM/streams"><span style="font-weight: 400">YouTube livestream</span></a><span style="font-weight: 400"> starts at 3:30 p.m. Pacific time, 6:30 p.m. Eastern.</span></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/01/23/mms_20250123_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fhow-trumps-executive-orders-are-impacting-migrant-workers&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/01/23/mms_20250123_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fhow-trumps-executive-orders-are-impacting-migrant-workers&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/how-trumps-executive-orders-are-impacting-migrant-workers>
+
+---
+
+## Federal judge rejects “blatantly unconstitutional” executive edict 
+
+date: 2025-01-24, from: The Contrarian
+
+LULAC CEO Juan Proa&#241;o reflects on today's ruling on birthright citizenship 
+
+<br> 
+
+<https://contrarian.substack.com/p/federal-judge-rejects-blatantly-unconstitutional>
+
+---
+
+## VOA Spanish: Migrants bemoan deactivation of CBP One mobile application
+
+date: 2025-01-24, from: VOA News USA
+
+After U.S. President-elect Donald Trump's inauguration, appointments scheduled for the asylum process through the CBP One application were canceled.  
+
+
+Click here for the full story in Spanish. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-spanish-migrants-bemoan-deactivation-of-cbp-one-mobile-application-/7944203.html>
+
+---
+
+## Trump to global businesses: Make products in US or pay tariffs
+
+date: 2025-01-24, from: VOA News USA
+
+President Donald Trump laid out his approach to foreign investment to the world’s largest gathering of global business leaders, offering investors a take-it-or-leave-it deal to build in the U.S. or face stiff tariffs. VOA White House Correspondent Anita Powell reports. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-to-global-businesses-make-products-in-us-or-pay-tariffs/7948556.html>
+
+---
+
+## Continuing unemployment claims climb, but it’s not nervous time
+
+date: 2025-01-24, from: Market Place
+
+The data is in line with pre-COVID claims volume, and the job market often sags in January. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/23/continuing-claims-unemployment-benefits-labor-hiring-job-market/>
+
+---
+
+## Italy's highest court upholds slander conviction of Amanda Knox
+
+date: 2025-01-24, from: VOA News USA
+
+Italy's highest court on Thursday upheld the slander conviction of American defendant Amanda Knox in a case related to the sensationalized 2007 murder of her British roommate.  
+
+
+Knox was convicted of slandering her former boss, Congolese bar owner Patrick Lumumba, by falsely accusing him of murdering Meredith Kercher.  
+
+
+A 21-year-old exchange student, Kercher was found stabbed to death in 2007 in the Perugia apartment she shared with Knox.  
+
+
+While being interrogated, Knox, who was 20 at the time, signed two statements prepared by police regarding her accusation against Lumumba. Knox later wrote a handwritten note questioning her false accusation. 
+
+
+Last year, an appeals court in Florence handed Knox a three-year sentence for wrongly accusing Lumumba.  
+
+
+
+
+Knox, now 37 years old, had already served nearly four years during the investigation, initial murder trial and first appeal. She was convicted twice before Italy's highest court finally exonerated her of the crime in 2015. She is not at risk of any more jail time.  
+
+
+Knox had appealed the slander conviction based on a European Court of Human Rights ruling that said her rights had been violated by police failure to provide a lawyer and adequate translator during a lengthy night of questioning just days after Kercher was killed.  
+
+
+With the appeal, Knox was aiming to clear her name in Rome's Court of Cassation in the last remaining legal case against her following a nearly two-decades-long legal saga.  
+
+
+
+
+But on Thursday, Judge Monica Boni confirmed the slander conviction.  
+
+
+Knox, who did not attend the court, maintained her innocence in a post on X.  
+
+
+"It's a surreal day," Knox said. "I've just been found guilty yet again of a crime I didn't commit." 
+
+
+Knox's lawyer, Carlo Dalla Vedova, said he was surprised by the conviction. 
+
+
+"We cannot believe it. A totally unjust decision for Amanda and unexpected in our eyes," he said. "We are incredulous." 
+
+
+But Lumumba said he was satisfied with the verdict.  
+
+
+"Amanda was wrong. This verdict has to accompany her for the rest of her life," he told The Associated Press.  
+
+
+Rudy Guede, originally from the Ivory Coast, was eventually found guilty and sentenced to 16 years in prison for killing Kercher. He was released in 2021 after serving most of his sentence. He denied killing Kercher.  
+
+
+Knox's lengthy legal saga was fodder for tabloids around the world and spawned books, movies and documentaries.  
+
+
+Knox herself is currently producing a Hulu mini-series about her wrongful conviction and fight to clear her name. Social activist Monica Lewinsky is also producing the series.  
+
+
+Some information in this report came from Reuters and The Associated Press. 
+
+<br> 
+
+<https://www.voanews.com/a/italy-s-highest-court-upholds-slander-conviction-of-amanda-knox/7948531.html>
+
+---
+
+## This 24-hour diner helps New Yorkers make it through the night
+
+date: 2025-01-24, from: Market Place
+
+24-hour diners have been disappearing in New York. Reporter Priya Krishna worked the graveyard shift at one that reopened and found it very lively.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/23/24-hour-diner-restaurant-new-york-city-kelloggs-food-third-place/>
+
+---
+
+## Multiple blazes continue in southern California
+
+date: 2025-01-24, from: VOA News USA
+
+Firefighters in southern California continued to confront multiple blazes on Thursday amid high winds and dry conditions.
+
+
+The Hughes Fire in the mountains northwest of Los Angeles near Castaic Lake broke out Wednesday, prompting authorities to issue evacuation orders for more than 50,000 people. Health advisories for smoke and windblown dust and ash have been issued for areas near the Hughes Fire.
+
+
+"Smoke and ash can harm everyone, even those who are healthy," Dr. Muntu Davis, L.A. County’s health officer, said in a statement.
+
+
+The Laguna Fire in Ventura County resulted in evacuation orders for California State University Channel Islands and University Glen, but the orders were downgraded to warnings Thursday afternoon.
+
+
+The evacuation warning for the Sepulveda Fire near Interstate 405 late Wednesday was lifted after firefighters stopped the fire’s progress after it had burned through less than 1 square kilometer.
+
+
+The U.S. Storm Prediction Center said Thursday the "very gusty" offshore Santa Ana winds will continue in southern California with gusts that could reach as high at 105 kph in some mountain ranges. The winds, combined with Southern California’s "very low humidity and dry antecedent conditions," prompted the center to continue a Critical Risk of Fire Weather alert for Thursday and an Elevated Fire Weather Outlook for Friday.
+
+
+
+
+Firefighters received help fighting the Hughes Fire with overnight aerial water drops from helicopters. The fire, northwest of Los Angeles, swelled to burn an area of more than 41 square kilometers near the Lake Castaic recreation area.
+
+
+Containment of the fire grew to 24%, from about 14% contained early Thursday.
+
+
+There is a chance for some relief in the coming days. The National Weather Service said some rain is expected in the area beginning Saturday.
+
+
+Forecasters expect up to a centimeter of rain across much of the Los Angeles area, while localized thunderstorms could bring even more rain in limited locations. The potential for those storms has prompted concerns about the possibility of mudslides, with debris flowing down hilly areas that have been scorched by several weeks of wildfires.
+
+
+In addition to the Hughes Fire, crews are still battling the Palisades Fire on the western side of Los Angeles and the Eaton Fire in the foothills to the north of the city. The Palisades fire, at 95 square kilometers, is about 70% contained, while the Eaton, at 56 square kilometers, is about 95% contained, according to file officials.
+
+
+The fires that broke out in Southern California on Jan. 7 have killed at least 28 people and destroyed an estimated 16,000 buildings. The death toll is expected to climb as emergency workers comb through the ashes.
+
+
+California Governor Gavin Newsom announced Thursday that mortgage relief will be available to the owners of property damaged or destroyed in the fires.
+
+
+Nearly 300 state-chartered banks, credit unions and mortgage lenders and servicers have committed to the 90-day forbearance of mortgage payments.
+
+
+"We’re working closely with Governor Newsom’s office ... to ensure Southern Californians can focus on rebuilding their lives without the added burden of financial worries," Scott Simpson, president and CEO of California & Nevada Credit Union Leagues.
+
+
+The forbearance, Newsom said, "helps provide survivors with the time and relief to address their immediate needs, rather than worrying about paying mortgage bills."
+
+
+Other relief will be available, the governor’s office said in a statement, but did not delineate further.
+
+
+U.S. President Donald Trump, who has been critical of the response to the fire, is expected to travel to Los Angeles on Friday.
+
+
+Some information for this report came from The Associated Press. 
+
+<br> 
+
+<https://www.voanews.com/a/multiple-blazes-continue-in-southern-california/7948529.html>
+
+---
+
+## Trump orders release of last JFK, RFK, King assassination files
+
+date: 2025-01-24, from: VOA News USA
+
+WASHINGTON — U.S. President Donald Trump ordered the declassification Thursday of the last secret files on the assassination of the late U.S. President John F. Kennedy, a case that still fuels conspiracy theories more than 60 years after his death.
+
+
+Trump signed an executive order that will also release documents on the 1960s assassinations of JFK's younger brother, Robert F. Kennedy, and civil rights leader Martin Luther King Jr.
+
+
+"That's a big one, huh? A lot of people have been waiting for this for years, for decades," Trump told reporters as he signed the order in the Oval Office of the White House.
+
+
+After signing the order, Trump passed the pen he used to an aide, saying, "Give that to RFK Jr.," JFK's nephew and the current president's nominee to become secretary of the Department of Health and Human Services.
+
+
+The order Trump signed requires the "full and complete release" of the JFK files, without redactions that he accepted back in 2017 when releasing most of the documents.
+
+
+"It is in the national interest to finally release all records related to these assassinations without delay," the order said.
+
+
+Trump had previously promised to release the last of the files, most recently at his inauguration on Monday.
+
+
+
+
+The U.S. National Archives has released tens of thousands of records in recent years related to the November 22, 1963, assassination of President Kennedy but held thousands back, citing national security concerns.
+
+
+It said at the time of the latest large-scale release, in December 2022, that 97% of the Kennedy records — which total 5 million pages — had now been made public.
+
+
+The Warren Commission that investigated the shooting of the charismatic 46-year-old president determined that it was carried out by a former Marine sharpshooter, Lee Harvey Oswald, acting alone.
+
+
+But that formal conclusion has done little to quell speculation that a more sinister plot was behind Kennedy's murder in Dallas, Texas, and the slow release of the government files has added fuel to various conspiracy theories.
+
+
+A gesture to RFK Jr.
+
+
+Trump's move is partly a gesture to one of the most prominent backers of those conspiracies — Robert F. Kennedy Jr. himself.
+
+
+RFK Jr. said in 2023 there was "overwhelming evidence the CIA was involved" in his uncle JFK's murder and "very convincing" evidence the agency was also behind the 1968 assassination of his own father, Robert F. Kennedy.
+
+
+The former attorney general was killed while campaigning for the Democratic nomination for president. Sirhan Sirhan, a Palestinian-born Jordanian, was convicted of his murder.
+
+
+Thousands of John Kennedy assassination-related documents from the National Archives were released during Trump's first term in office, but he also held some back on national security grounds.
+
+
+Then-President Joe Biden said at the time of the December 2022 documents release that a "limited" number of files would continue to be held back at the request of unspecified "agencies."
+
+
+Previous requests to withhold documents have come from the CIA and FBI.
+
+
+Kennedy scholars have said the documents still held by the archives are unlikely to contain any bombshell revelations or put to rest the rampant conspiracy theories about the assassination of the 35th U.S. president.
+
+
+Oswald, who had at one point defected to the Soviet Union, was shot to death two days after killing Kennedy by a nightclub owner, Jack Ruby, as he was being transferred from the city jail.
+
+
+Hundreds of books and movies such as the 1991 Oliver Stone film "JFK" have fueled the conspiracy industry, pointing the finger at Cold War rivals Russia or Cuba, the Mafia and even Kennedy's vice president, Lyndon Johnson.
+
+
+King was assassinated in April 1968 in Memphis, Tennessee.
+
+
+James Earl Ray was convicted of the murder and died in prison in 1998, but King's children have expressed doubts in the past that Ray was the assassin. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-orders-release-of-last-jfk-rfk-king-assassination-files/7948500.html>
+
+---
+
+## Will Trump spark a mineral 'gold rush' in Greenland?
+
+date: 2025-01-24, from: VOA News USA
+
+NUUK, GREENLAND  — The mineral wealth on the Arctic island of Greenland is in the global spotlight after U.S. President Donald Trump said he wants to take control of the territory from Denmark, prompting alarm from European allies.
+
+
+Trump's words were echoed in a January 12 interview on "Fox News Sunday" by Vice President JD Vance, who said, "There is a deal to be made in Greenland," and that the island has "a lot of great natural resources."
+
+
+Until now, Greenland's mining industry has struggled to turn a profit, but could that be about to change?
+
+
+'Full of minerals' 
+
+
+Greenland currently has only one active commercial mine — White Mountain —located north of the capital, Nuuk, and gets its stark, monochrome color from anorthosite rock, which is rich in calcium deposits and other minerals.
+
+
+The mine's operator, Lumina Sustainable Materials, ships the rock from Greenland's western coastline to Asia, Europe and North America, where it is used to make a variety of products such as fiberglass, paint, fillers, cement and polymers. Efforts are under way to exploit aluminum deposits within the anorthosite.
+
+
+"Greenland is a country full of minerals. We have, literally, minerals available all over the place," Bent Olsvig Jensen, Lumina's managing director in Greenland, told VOA in an interview.
+
+
+Dozens of other mining companies from around the world are conducting exploration and feasibility studies across Greenland, although White Mountain remains the only commercial operation currently trading.
+
+
+
+
+China competition 
+
+
+The minerals include plentiful rare earth elements such as lithium and scandium, which are critical for devices such as batteries. Global supply chains for those elements are currently dominated by China.
+
+
+Trump has repeatedly said that U.S. control of Greenland is necessary for "international security." His comments caused a political storm in Greenland and Denmark, but mining companies see an opportunity.
+
+
+"His interest in Greenland can actually help the industry get access to further investment, which is needed for the industry to develop in Greenland," Jensen said. "So, yes, I definitely welcome it. And I think it's important that both from the industry side but also from the political side in Greenland that we position ourselves towards Trump and the U.S."
+
+
+'Not for sale' 
+
+
+Greenland's government is largely autonomous, although Denmark is responsible for the island's security.
+
+
+Naaja Nathanielsen, Greenland's minister for resources, emphasized the government's long-held response to Trump's interest: Open for business, but not for sale.
+
+
+"We do want American investments. We do want collaboration with the U.S. State Department, and we've been trying to advocate for that for some time," she told VOA.
+
+
+Greenland signed a deal with Trump during his first administration in 2019 to boost the mining industry.
+
+
+"The U.S. funded our direct marketing towards investors all over the world, and this agreement has just come to its end. So we've been trying to … get engagement from the U.S. for some time now in order to renew this deal," Nathanielsen said.
+
+
+Challenges 
+
+
+Despite widespread recognition of Greenland's mineral wealth, attracting investment in mining has been a long-term problem.
+
+
+"For many years now, we have seen that there has been some hesitance in the investor environment to engage in high-risk, long-term projects. We only have one American-owned license at the moment. In comparison, we have 23 from Canada, 23 from the U.K. and about 10 from Denmark. So, it's not an area where you see a lot of U.S. engagement as of now. Of course we welcome it, and there's plenty of opportunity," Nathanielsen said.
+
+
+Greenland's government is pushing for full independence from Denmark. Supporters hope the island's mineral wealth could one day provide the economic foundation for full statehood. But there's a long way to go, said Ulrik Pram Gad, an analyst at the Danish Institute for International Studies in Copenhagen.
+
+
+"If you want minerals out of the ground and financing Greenlandic self-sufficiency economically, then you will need to have the uptake in the international processing going," Gad told VOA.
+
+
+"And then, probably you'll have to think very closely about how to make sure that these mining projects benefit people who live close to them, rather than being a new version of imperialist extraction. Because then, the Greenlanders might not want it in the end," he explained.
+
+
+The risk doesn't always end in reward. Rubies and pink sapphires were extracted at the Aappaluttoq mine until 2023, when its operator, Greenland Ruby, went bankrupt, $71 million in debt. The company is restructuring and seeking new investors, with a goal of restarting operations.
+
+
+Greenland's 2.1 million square kilometers of land is icebound for much of the year.
+
+
+"Obviously, we are in the middle of the Arctic, so there are some logistical challenges," Jensen of Lumina said. "Not all of Greenland is open all year round. However, that is something that we can plan our way out of."
+
+
+Jensen added that investors must have patience to make a profit.
+
+
+"It takes time to develop a project from the early-stage exploration until you actually have a mine where you can extract and start selling. And as we all say in mining, 'Time is money.'" 
+
+<br> 
+
+<https://www.voanews.com/a/will-trump-spark-a-mineral-gold-rush-in-greenland-/7948233.html>
+
+---
+
+## Will Trump spark a rush on minerals in Greenland?
+
+date: 2025-01-24, from: VOA News USA
+
+Greenland’s mineral wealth is in the global spotlight after U.S. President Donald Trump said he wants to take control of the island from Denmark. But until now, Greenland’s mining industry has struggled to turn a profit. Could that be about to change? Henry Ridgwell reports from Greenland’s capital, Nuuk. 
+
+<br> 
+
+<https://www.voanews.com/a/will-trump-spark-a-rush-on-minerals-in-greenland-/7948175.html>
+
+---
+
+## Five years after the pandemic began, the job market is off the roller coaster
+
+date: 2025-01-23, from: Market Place
+
+Stability reigns. The economy has about 7 million more jobs than before COVID hit, and both quits and layoffs are low.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/23/labor-market-five-years-since-pandemic-2025-jobs-hiring/>
+
+---
+
+## Building, instead of buying, a home
+
+date: 2025-01-23, from: Market Place
+
+This couple in Fairbanks, Alaska saved money by DIY-ing their own home build.
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/23/fairbanks-alaska-building-a-home/>
+
+---
+
+## Trump signs executive orders on AI, cryptocurrency and issues more pardons
+
+date: 2025-01-23, from: VOA News USA
+
+WASHINGTON  — U.S. President Donald Trump on Thursday signed an executive order related to AI to "make America the world capital in artificial intelligence," his aide told reporters in the White House's Oval Office.
+
+
+The order sets a 180-day deadline for an Artificial Intelligence Action Plan to create a policy "to sustain and enhance America’s global AI dominance in order to promote human flourishing, economic competitiveness, and national security."
+
+
+Trump also told his AI adviser and national security assistant to work to remove policies and regulations put in place by former President Joe Biden.
+
+
+Trump on Monday revoked a 2023 executive order signed by Biden that sought to reduce the risks that artificial intelligence poses to consumers, workers and national security.
+
+
+Biden's order required developers of AI systems that pose risks to U.S. national security, the economy, public health or safety to share the results of safety tests with the U.S. government, in line with the Defense Production Act, before they were released to the public.
+
+
+Trump also signed an executive order creating a cryptocurrency working group tasked with proposing a new regulatory framework for digital assets and exploring the creation of a cryptocurrency stockpile.
+
+
+The much-anticipated action also ordered that banking services for crypto companies be protected, and banned the creation of central bank digital currencies that could compete with existing cryptocurrencies.
+
+
+The order sees Trump fulfill a campaign trail pledge to be a "crypto president and promote the adoption of digital assets.”
+
+
+That is in stark contrast to Biden's regulators that, in a bid to protect Americans from fraud and money laundering, cracked down on crypto companies, suing exchanges Coinbase, Binance, Kraken and dozens more in federal court, alleging they were flouting U.S. laws.
+
+
+The working group will be made up of the Treasury secretary, attorney general and chairs of the Securities and Exchange Commission and Commodity Futures Trading Commission, along with other agency heads. The group is tasked with developing a regulatory framework for digital assets, including stablecoins, a type of cryptocurrency typically pegged to the U.S. dollar.
+
+
+The group is also set to "evaluate the potential creation and maintenance of a national digital asset stockpile ... potentially derived from cryptocurrencies lawfully seized by the Federal Government through its law enforcement efforts."
+
+
+In December, Trump named venture capitalist and former PayPal executive David Sacks as the crypto and artificial intelligence czar. He will chair the group, the order said.
+
+
+Finally, Trump signed pardons for 23 anti-abortion protesters on Thursday in the Oval Office of the White House.
+
+
+The pardons came a day before anti-abortion protesters were due to descend on Washington for the annual March for Life. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-signs-executive-orders-on-ai-cryptocurrency-issues-more-pardons-/7948209.html>
+
+---
+
+## VOA Spanish: US citizenship for children of immigrants: Who is affected and when?
+
+date: 2025-01-23, from: VOA News USA
+
+President Donald Trump signed an executive order ending "birthright citizenship" based on what he called "a correct interpretation of the law," prompting a flurry of lawsuits from pro-immigrant and civil rights organizations. 
+
+
+Click here for the full story in Spanish. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-spanish-us-citizenship-for-children-of-immigrants-who-is-affected-and-when-/7948189.html>
+
+---
+
+## Trump pressures Russia to end Ukraine war as Kremlin shrugs off sanction threats
+
+date: 2025-01-23, from: VOA News USA
+
+Just days into his presidency, Donald Trump is intensifying pressure on Russia to begin peace talks with Ukraine. On Thursday, Russia dismissed Trump's threats of new sanctions and tariffs on the Kremlin if it refused to end the war. VOA's Veronica Balderas Iglesias reports. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-pressures-russia-to-end-ukraine-war-as-kremlin-shrugs-off-sanction-threats/7948185.html>
+
+---
+
+## Kidnapped Israeli Russian researcher alive; Baghdad working on release
+
+date: 2025-01-23, from: VOA News USA
+
+WASHINGTON — Iraqi officials said that an Israeli Russian researcher, who was kidnapped by an Iraqi militia nearly two years ago, is alive, and that they are working to secure her release.
+
+
+Iraqi Foreign Minister Fuad Hussein on Thursday told an Axios reporter in Davos, Switzerland, that Elizabeth Tsurkov, a Princeton doctoral candidate, is alive and that Iraqi Prime Minister Mohammed al-Sudani was working on her release, according to Reuters.
+
+
+Tsurkov, 39, was abducted in Baghdad in March 2023 shortly after her arrival in the Iraqi capital. The dual Israeli Russian citizen had traveled to Iraq to conduct fieldwork for her dissertation.
+
+
+Israeli citizens are forbidden from traveling to Iraq, but Tsurkov used her Russian passport to enter the country, according to the Israeli government.
+
+
+The Israeli government said in July 2023 that Tsurkov was being held by Kataib Hezbollah, a powerful Shia militia that has ties to the Iraqi government and Iran.
+
+
+In November 2023, Kataib Hezbollah, a U.S.-designated terrorist organization, released a proof-of-life video of Tsurkov, the only confirmed evidence of her fate to date.
+
+
+Her sister, Emma Tsurkov, said the family was “pleased to see the Iraqi government acknowledge what we already know: Elizabeth is alive and being held hostage in Iraq by militias aligned with the Iraqi prime minister.
+
+
+“At the same time, we are fed up with empty promises from the Iraqi government to get her released with no real follow-through,” she told VOA.
+
+
+Last year, Emma Tsurkov and two other siblings launched an extensive campaign in Washington during an official visit by Sudani. During a panel discussion hosted by the Atlantic Council, Emma Tsurkov interrupted the Iraqi leader, protesting Baghdad’s inaction in securing her sister’s release. In response, Sudani stated that his government had formed a task force to follow up with Tsurkov’s case.
+
+
+The U.S. State Department had confirmed that Tsurkov’s case was raised by former President Joe Biden during his White House meeting with Sudani.
+
+
+Emma Tsurkov said the family “knows that Elizabeth’s case is already on the radar of the new SPEHA,” referring to Adam Boehler, President Donald Trump’s nominee for special presidential envoy for hostage affairs.
+
+
+Boehler must be confirmed by the U.S. Senate before he can formally begin his role.
+
+
+“We are confident the Trump team will hold the Iraqi government accountable and make Elizabeth’s safe return a real priority and not just a talking point like the last administration,” Emma Tsurkov said.
+
+
+VOA contacted the State Department for comment but did not receive a response in time for publication.
+
+
+This story originated in VOA’s Kurdish Service. 
+
+<br> 
+
+<https://www.voanews.com/a/kidnapped-israeli-russian-researcher-alive-baghdad-working-on-release/7948151.html>
+
+---
+
+## GM makes a bet on high-end EVs
+
+date: 2025-01-23, from: Market Place
+
+The company unveils a more upscale model of its Cadillac Lyriq, an EV with a starting price of $80,000.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/23/luxury-evs-electric-vehicles-high-end-auto-car-industry-g/>
+
+---
+
+## 4 Under-the-Radar Implications of Trump’s Executive Orders
+
+date: 2025-01-23, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTgwMDQyMS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2MDEzMDQ3NH0.PmlU4C9s0HToU7I_fWxARoIDWGWuA-FIydHr_fU-YSo/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
+	President Donald Trump signed 46 presidential actions during his first 12 hours in office, including overturning 78 of former President Joe Biden’s executive orders. Between Trump’s moves with major ramifications (like 
+	<a href="https://heatmap.news/politics/wind-executive-order-trump" target="_self"><u>ending all wind permits</u></a>) and those that seem to represent more personal grievances (like <a href="https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/#:~:text=to%20safeguard%20the,and%20appliance%20industries%3B" target="_blank"><u>free-flowing showerheads</u></a>), there has been much confusion over what they all mean.
+</p><p>
+	Some would argue that is the entire point: “The more bizarreness Trump generates,” the journalist Edward Luce wrote last year 
+	<a href="https://www.ft.com/content/35106042-2e96-4dde-8cf6-734c6e89fd9e" rel="noopener noreferrer" target="_blank"><u>for </u><u><em><em>The Financial Times</em></em></u></a>, “the less people notice.” Steve Bannon, Trump’s chief strategist during his rise to power in 2015 and 2016, memorably described this as a deliberate technique of “<a href="https://www.vox.com/policy-and-politics/2020/1/16/20991816/impeachment-trial-trump-bannon-misinformation" rel="noopener noreferrer" target="_blank"><u>flood[ing] the zone with shit</u></a>.”
+</p><p>
+	Whatever way you frame it, though, where there’s Trump, there’s noises, which means news can fall through the cracks. Here’s our list of what you might have missed during Trump’s first hours as president and what might happen next.
+</p><h3>Environmental Justice</h3><p>
+	In one of his first actions in office, Trump repealed almost seven-dozen Biden-era executive orders, including Executive Order 13985, “Advancing Racial Equity and Support for Underserved Communities Through the Federal Government.”
+</p><p>
+	Signed on Biden’s Inauguration Day, the policy called for the government to take a “comprehensive approach to advancing equity for all, including people of color and others who have been historically underserved, marginalized, and adversely affected by persistent poverty and inequality.” That meant that the Environmental Protection Agency 
+	<a href="https://natlawreview.com/article/environmental-justice-update-epa-issues-draft-cumulative-impacts-framework" rel="noopener noreferrer" target="_blank"><u>considered things like race and socioeconomic status</u></a> — given the historic burdens put on frontline communities — during its permitting processes. Trump also signed a new executive order, “<a href="https://www.whitehouse.gov/presidential-actions/2025/01/ending-illegal-discrimination-and-restoring-merit-based-opportunity/" rel="noopener noreferrer" target="_blank"><u>Ending Illegal Discrimination and Restoring Merit-Based Opportunity</u></a>,” which limits government agencies from considering the impacts on disadvantaged communities. The <a href="https://www.nbcnews.com/politics/white-house/federal-workers-told-name-dei-colleagues-risk-adverse-consequences-rcna188871" rel="noopener noreferrer" target="_blank"><u>administration has reportedly gone as far</u></a> as to warn government employees that they could face consequences for failing to report on colleagues whose diversity and inclusion efforts might slip past its notice.
+</p><p>
+	As Dan Farber 
+	<a href="https://legal-planet.org/2025/01/23/trump-goes-to-war-against-environmental-justice/" rel="noopener noreferrer" target="_blank"><u>writes for </u><u><em><em>Legal Planet</em></em></u></a>, however, to carry out this anti-diversity, equity, and inclusion executive order, “agencies will have to eliminate their own environmental justice regulations. At that point, the door will be open to judicial review. I think agencies will have a hard time justifying the repeals.”
+</p><p>
+	Trump further 
+	<a href="https://heatmap.news/politics/trump-climate-national-security" target="_self"><u>overturned Executive Order 14008</u></a>, “Tackling the Climate Crisis at Home and Abroad,” another first-week Biden policy. In addition to declaring climate change a national security risk, the order also created the Justice40 initiative, directing 40% of federal climate spending to disadvantaged communities.
+</p><p>
+	Jillian Blanchard, the Climate Change and Environmental Justice Program director at Lawyers for Good Government, told me this was also legally dubious. “There’s already existing infrastructure and policies in place that can’t be undone by an executive order,” she said — for example, grants for 
+	<a href="https://bsky.app/profile/adamsmith.house.gov/post/3lfnpyslcfk26" rel="noopener noreferrer" target="_blank"><u>ongoing efforts to install EV chargers</u></a> in disadvantaged communities, or <a href="https://appvoices.org/2022/01/10/biden-mercury-air-pollution/" rel="noopener noreferrer" target="_blank"><u>clean-up projects in coal mining communities</u></a> in Appalachia. “I think it’s important to take a minute and say, okay, what does this mean in practice?”
+</p><p>
+	Blanchard added that, in particular, Trump’s moves on environmental justice “make me question what this administration plans to do with Title VI of the Civil Rights Act,” which prohibits race-based discrimination in programs that receive federal funding. “There’s really important questions here that are being raised that everyone should be paying attention to.”
+</p><h3>ESG</h3><p>
+	Trump also repealed Executive Order 14030, “Climate-Related Financial Risk,” signed by Biden in May 2021. 
+	<a href="https://www.paulweiss.com/insights/esg-thought-leadership/publications/president-biden-calls-on-federal-government-to-mitigate-climate-related-financial-risk?id=40177" rel="noopener noreferrer" target="_blank"><u>The executive order</u></a> called for government-wide assessment and disclosure of climate-related financial risks to U.S. programs, and ordered the Secretary of Labor to submit a report on actions to protect U.S. workers’ savings and pensions from those same threats. Executive Order 14030 also established <a href="https://www.nrdc.org/bio/joel-scata/trump-revokes-federal-flood-protections-again" rel="noopener noreferrer" target="_blank"><u>the Federal Flood Risk Management Standard</u></a>, which called for government agencies to be more conservative when siting projects that could face sea-level rise or flood threats.
+</p><p>
+	In addition to government agencies no longer being required to consider how extreme weather and climate risks 
+	<a href="https://www.nytimes.com/2025/01/22/climate/trump-climate-policies.html#:~:text=The%20Smithsonian%20Institution%2C%20for%20example%2C%20revealed%20in%202021%20that%20flooding%20threatened%20several%20of%20its%20museums%20on%20the%20National%20Mall%2C%20including%20the%20National%20Museum%20of%20American%20History." rel="noopener noreferrer" target="_blank"><u>might threaten their operations</u></a>, Trump’s executive order “Ending Illegal Discrimination and Restoring Merit-Based Opportunity” also takes aim at <a href="https://www.ropesgray.com/en/insights/viewpoints/102jvg8/trump-administration-issues-executive-order-targeting-dei-in-the-private-sector" rel="noopener noreferrer" target="_blank"><u>diversity, equity, and inclusion hiring practices</u></a>, or the “social” aspect of ESG.
+</p><h3>Renaming Denali</h3><p>
+	Though you’ve probably already heard about Trump’s attempt to spangle the Gulf of Mexico with a new name, the “
+	<a href="https://www.whitehouse.gov/presidential-actions/2025/01/restoring-names-that-honor-american-greatness/" rel="noopener noreferrer" target="_blank"><u>Restoring Names That Honor American Greatness</u></a>” executive order also calls for reverting the name of North America’s highest peak, Denali, back to Mt. McKinley.
+</p><p>
+	The political effort to change the mountain’s name to Denali, backed by the state’s Republican politicians, dates back to the 1970s. (It took until 2015 for the name to be changed to the Alaskan Athabaskan word meaning “the high one” because of the Ohio delegation’s insistence on honoring its native president.) Trump’s decision to restore the mountain’s colonial name is a pointed brush-off of Alaskan Natives and represents a troubling precedent by his administration of undermining promises made to Indigenous partners by the federal government.
+</p><p>
+	Tribal partners have historically 
+	<a href="https://apnews.com/article/white-house-tribal-summit-partnership-public-lands-33039cb25459be5f64c9665e2fa47d93" rel="noopener noreferrer" target="_blank"><u>assisted the U.S. government</u></a> on issues of land use, resource management, and climate resiliency, and can prove <a href="https://heatmap.news/climate/sunzia-lawsuit-blm" target="_self"><u>formidable opponents</u></a> to projects that <a href="https://heatmap.news/economy/resolution-copper-mine" target="_self"><u>lack their support</u></a>. By <a href="https://www.ncronline.org/earthbeat/politics/alaska-native-leaders-call-preserve-denali-name-mount-mckinley" rel="noopener noreferrer" target="_blank"><u>disregarding Alaskan Natives’ support of the name Denali</u></a>, Trump risks alienating the greater Indigenous community and starting off on a contentious footing with one of the government’s most valuable allies.
+</p><h3>California water</h3><p>
+	When the Los Angeles County fires began earlier this month, Trump launched a renewed crusade against 
+	<a href="https://www.vox.com/down-to-earth/394283/los-angeles-wildfires-trump-newsom-delta-smelt" rel="noopener noreferrer" target="_blank"><u>the “essentially worthless” Delta smelt</u></a>, a nearly extinct two-inch-long fish. Per the then-president-elect, California’s Democratic Governor Gavin Newsom had supposedly refused to sign a “water restoration declaration” that would have “allowed millions of gallons of water … from the North to flow daily into many parts of California,” where it allegedly could have helped to fight the devastating fires.
+</p><p>
+	Only, there 
+	<em><em>was</em></em> no “water restoration declaration.” The vast majority of Los Angeles’ water doesn’t come from northern California, and the smelt have nothing to do with <a href="https://apnews.com/article/california-los-angeles-wildfires-water-misinformation-27b0059719e8b475d452030c221fe544" rel="noopener noreferrer" target="_blank"><u>the water shortages</u></a> some fire crews faced. That didn’t prevent Trump from <a href="https://www.whitehouse.gov/presidential-actions/2025/01/putting-people-over-fish-stopping-radical-environmentalism-to-provide-water-to-southern-california/" rel="noopener noreferrer" target="_blank"><u>issuing a memorandum</u></a> to “stop radical environmentalism” and put “people over fish.” Still, <a href="https://www.usatoday.com/story/news/nation/2025/01/21/trump-water-california-fish-newsom/77848777007/#:~:text=is%20%22so%20vague%22%20that%20it%20is%20meant%20to%20appear%20he%20is%20keeping%20his%20word%20to%20farmers%20who%20overwhelmingly%20voted%20for%20him%20last%20year%2C" rel="noopener noreferrer" target="_blank"><u>it is so vague</u></a> that it appears to be more of a nod to the Trump-supporting farmers in California’s Central Valley, who occasionally face water restrictions during droughts <a href="https://www.cbsnews.com/sacramento/news/farmers-decry-supreme-courts-decision-not-to-hear-appeals-in-delta-smelt-case/" rel="noopener noreferrer" target="_blank"><u>to protect the smelt</u></a>.
+</p><p>
+	“It’s all political posturing — it’s all an attempt to shock and awe,” Blanchard told me of the executive orders taken in sum. She added that “it’s going to be really important for people to take a deep breath and recognize that many of these things are not legal and challenges will be put in place.”
+</p><p>
+	“Don’t become too distracted by fear and uncertainty,” she went on, “because that is one of their main goals.”
+</p><h3>Read more of Heatmap’s coverage of Trump’s first week executive orders</h3><ul>
+<li>On <a href="https://heatmap.news/politics/trump-leaves-paris-agreement" target="_self"><u>exiting the Paris Agreement</u></a></li>
+<li>On <a href="https://heatmap.news/politics/trump-executive-order-schedule-f" target="_self"><u>Schedule F and firing civil servants</u></a></li>
+<li>On <a href="https://heatmap.news/politics/wind-executive-order-trump" target="_self"><u>ending wind permits</u></a></li>
+<li>On <a href="https://heatmap.news/electric-vehicles/trump-ev-executive-order" target="_self"><u>the multi-pronged attack on EVs</u></a></li>
+<li>On <a href="https://heatmap.news/politics/critical-minerals-trump-executive-order" target="_self"><u>boosting the domestic mining and refining of critical minerals</u></a></li>
+<li>On <a href="https://heatmap.news/politics/trump-energy-executive-orders" target="_self"><u>the “National Energy Emergency”</u></a></li>
+<li>On<a href="https://heatmap.news/politics/trump-climate-national-security" target="_self"><u> removing considerations of climate from national security planning</u></a> </li>
+<li>On <a href="https://heatmap.news/politics/solar-trump-executive-orders" target="_self"><u>solar getting not-unlucky</u></a></li>
+</ul><p>
+With plenty more to come.
+</p> 
+
+<br> 
+
+<https://heatmap.news/politics/trump-executive-orders>
+
+---
+
+## Rents keep rising — but not in every city
+
+date: 2025-01-23, from: Market Place
+
+Zillow reported that Denver, San Antonio and Austin were the only metro areas where rents fell.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/23/rents-keep-rising-but-not-in-every-city/>
+
+---
+
+## Elon Musk and the legacy of moguls in American politics
+
+date: 2025-01-23, from: VOA News USA
+
+Business has been intertwined with American politics since before the nation’s founding. And although unelected business leaders play a major role in financing campaigns and policy initiatives, few in recent memory have taken as personal and public a role in politics as Elon Musk.
+
+
+Even before the 2024 election, the South African-born entrepreneur often interacted with the U.S. government via his companies. His electric car manufacturer, Tesla, has received green energy subsidies, while his company Space X holds multiple contracts with NASA and the U.S. military to provide space-launch services, develop vehicles and operate flights.
+
+
+Through SpaceX, Musk also played a key role in U.S. support for Ukraine’s defense against Russia’s invasion by providing Starlink satellite internet terminals to Ukrainian forces. Musk’s involvement in the war became a source of concern after reports emerged that he was directly making decisions regarding the terminals’ use in the field and was in personal contact with Russian President Vladimir Putin and other top Russian officials.
+
+
+Musk attained an even more notable role in the media through his 2022 purchase of social media platform Twitter, which had become a de facto public square where journalists, companies and government officials made public announcements and engaged in discussion alongside regular users.
+
+
+Renaming the site X, Musk overhauled verification and content moderation policies to combat what he described as left-wing bias, reinstating President Donald Trump’s account as well as multiple accounts that had been banned for hate speech. As the presidential election drew near, Musk used the platform to boost Trump’s policy positions, eventually making campaign appearances alongside him and sitting in on his calls with foreign leaders.
+
+
+Musk’s involvement culminated in the businessman being announced as head of a new advisory commission on government efficiency, named after an internet meme and cryptocurrency that Musk himself had popularized.
+
+
+But while Musk’s involvement in U.S. politics may be unusual compared to his contemporaries, it recalls earlier eras when larger-than-life business leaders exercised great influence over the country’s affairs.
+
+
+
+
+J.P. Morgan (1837-1913)
+
+
+Having made his early career on Wall Street, John Pierpont Morgan gained fame by reorganizing the country’s booming railroad industry in the wake of the Civil War. By organizing conferences among railroad companies and consolidating the ones he held shares in, he helped create an integrated rail system, as he would later do with the nation’s steel production.
+
+
+When the economic panic of 1893 saw the U.S. running out of gold reserves, Morgan’s company stepped in to bail out the government, supplying gold in exchange for Treasury bonds.
+
+
+Then in 1907, when a financial panic threatened to collapse the nation’s banks, Morgan was again credited with saving the country by bringing together bank executives and forcing them to agree on a mutual stabilization plan.
+
+
+Morgan is remembered as a serious businessman who prioritized stability over speculation and supported hospitals, museums and universities through his philanthropic efforts. But Morgan’s integration of railroad and steel industries created monopolies that inspired the nation’s earliest antitrust laws.
+
+
+Moreover, the fact that the U.S. government twice had to rely on a private businessman to bail out its finances became a major cause for concern, leading to the creation of the Federal Reserve.
+
+
+
+
+Henry Ford (1863-1947)
+
+
+Henry Ford is best known for developing the first mass-produced automobile, making what was previously a luxury product affordable for the average consumer. Beyond the road, Ford popularized the assembly line and the 40-hour workweek as well as setting higher wage standards under the reasoning that better-paid and happier workers would be more productive and able to buy the cars they made.
+
+
+Ford believed that industry and consumerism would not only benefit the economy but promote world peace, actively campaigning against war as a waste of productivity. Having failed to prevent U.S. entry into World War I, Ford dutifully supplied the war effort and quieted his activism, but he still ran for U.S. Senate in 1918 — a race he narrowly lost.
+
+
+Yet not all aspects of Ford’s reputation have aged well. The tycoon’s paternalistic and generous approach to his employees went hand-in-hand with his adamant opposition to unionization efforts and worker strikes, which were suppressed by force.
+
+
+His pacifism had a darker side as well. Ford was notably antisemitic and believed that Jewish people had been responsible for World War I as well as multiple ills in American society. After buying the Dearborn Independent newspaper in 1918, Ford used it to publish multiple antisemitic conspiracy theories, stopping only after threats of a boycott against his companies.
+
+
+As part of the America First Committee, Ford campaigned against U.S. entry into World War II and continued to do business with Nazi Germany up until the U.S. declared war in 1941.
+
+
+
+
+William Randolph Hearst (1863-1951)
+
+
+As owner of the San Francisco Examiner and the New York Morning Journal, Hearst built a media empire while pioneering a form of sensationalistic reporting that came to be known as “yellow journalism.” The Journal’s exaggerated reports of Spain’s colonial violence in Cuba inflamed American opinion and increased calls to intervene. When Congress eventually declared war on Spain in 1898, Hearst personally traveled to Cuba to cover the conflict.
+
+
+Hearst’s media operations would later expand to more than two dozen newspapers in multiple cities, as well as magazines and book publishers.
+
+
+After setting his sights on politics, Hearst briefly served in the U.S. House of Representatives for New York’s 11th district but narrowly lost subsequent mayoral and gubernatorial bids. Hearst’s papers had published editorials violently denouncing President William McKinley, and he was blamed for incitement upon McKinley’s assassination in 1901.
+
+
+Initially a progressive populist, Hearst shifted toward right-wing isolationism in the wake of World War I and the 1917 Russian Revolution. While denouncing President Franklin Delano Roosevelt’s New Deal policies as anti-American, Hearst expressed admiration for Hitler and published articles by the German leader. Nevertheless, Hearst supported U.S. entry into World War II following the attack on Pearl Harbor, shifting his focus to promoting anti-Asian sentiment and the internment of Japanese Americans.
+
+
+Today, Hearst is remembered as the real-life inspiration for the film “Citizen Kane,” which was made during his lifetime and which he sought to block from being released.
+
+
+Conclusion
+
+
+Tycoons who shaped American politics in past eras inspired admiration and controversy, their impact becoming clear only in hindsight. It remains to be seen whether Musk’s influence will outlast the Trump administration, and whether other modern-day moguls will follow his example. 
+
+<br> 
+
+<https://www.voanews.com/a/elon-musk-and-the-legacy-of-moguls-in-american-politics/7948108.html>
+
+---
+
+## Senate confirms Trump’s choice for CIA director
+
+date: 2025-01-23, from: VOA News USA
+
+washington — U.S. lawmakers confirmed a second key member of President Donald Trump’s national security team Thursday, voting 74-25 to make John Ratcliffe the 25th director of the country’s premier spy agency.
+
+
+Ratcliffe, who served as director of national intelligence at the end of Trump’s first term, took the oath of office about two hours later, as administered by Vice President JD Vance. 
+
+
+Vance called Ratcliffe a “great patriot” and said he is someone who has the trust of the president.
+
+
+Ratcliffe now will head an intelligence operation that Trump and Republicans have criticized for a failure to cultivate information on critical developments in places like Ukraine, Afghanistan and the Middle East, and for using the information it did get to defend the previous administration’s policies.
+
+
+Ratcliffe indicated during his confirmation hearing last week that substantial changes would be in store, saying the spy agency would be more aggressive both in collecting human intelligence and in countering U.S. adversaries.
+
+
+
+
+“We will collect intelligence, especially human intelligence, in every corner of the globe no matter how dark or difficult,” he told lawmakers at the time. "We will conduct covert actions at the direction of the president, going places no one else can go and doing things no one else can do.
+
+
+"To the brave CIA officers listening around the world, if all of this sounds like what you signed up for, then buckle up and get ready to make a difference," Ratcliffe added. “If it doesn't, then it's time to find a new line of work.”
+
+
+The confirmation vote came three days after Trump took the oath of office and after a plea from the top Republican and Democrat on the Senate Intelligence Committee for a speedy vote on Ratcliffe’s nomination to lead the CIA.
+
+
+"Our world is far too dangerous for any delay in having a Senate-confirmed leader in charge of the CIA," Senators Tom Cotton and Mark Warner said in a statement Monday, after their committee advanced Ratcliffe by a 14-3 margin.
+
+
+Push from Thune
+
+
+Senate Majority Leader John Thune, a Republican, on Tuesday also pushed for his colleagues to move quickly on Ratcliffe’s nomination.
+
+
+“Under the Biden administration, the intelligence community made some notable misses,” Thune said. “Mr. Ratcliffe brings the right experience and the right approach to the CIA,” he said.
+
+
+Cotton, the Senate Intelligence Committee chairman, also praised Ratcliffe as someone capable of getting the CIA back on track. 
+
+
+"The nation needs a strong, capable and aggressive CIA,” he told Ratcliffe at his confirmation hearing last week. “I believe the men and women you will lead want to serve in just that kind of agency. They joined the CIA, after all, not a church choir or a therapy session.”
+
+
+But the confirmation vote was delayed after criticism from some leading Democrats.
+
+
+“I want the record to show that I strongly oppose the nomination,” Democrat Ron Wyden said Tuesday.
+
+
+“In 2020, I opposed his confirmation to be director of national intelligence because I believe his partisanship and willingness essentially went to the proposition of doing what would please Donald Trump,” he said. “Unfortunately, his actions as head of national intelligence only confirmed my concerns.”
+
+
+Senate Democratic leader Chuck Schumer echoed that opposition before Thursday’s vote.
+
+
+“I will respectfully vote no, not because of our political difference, which of course exists, but because I am deeply worried that Mr. Ratcliffe will be unable to stand up to people like Donald Trump and Tulsi Gabbard, who are known to falsify intelligence,” he said.
+
+
+“There may be no agency more important than the CIA that has to be fact-based. Sometimes, these facts will lead to inconvenient conclusions for his superiors and the president,” he said. “It’s in those cases where truth, not fiction, not ideology, must prevail, and I have my doubts that Mr. Ratcliffe will be able to hold firm.”
+
+
+Gabbard hearing scheduled
+
+
+Gabbard, a veteran of the U.S. Army National Guard and a former Democratic lawmaker, is Trump’s choice to be the next director of national intelligence.
+
+
+Her confirmation hearing has been scheduled for next week, when she will be asked about accusations from both Democrats and some Republicans that she has repeated Russian disinformation and about her 2017 meeting with former Syrian President Bashar al-Assad, who stands accused of war crimes.
+
+
+
+
+Ratcliffe’s opponents have accused him of defying Congress and withholding information in the 2018 murder of Washington Post journalist Jamal Khashoggi – a killing that U.S. intelligence concluded was ordered by Saudi Crown Prince Mohammed bin Salman.
+
+
+They also have criticized Ratcliffe, in his role as director of national intelligence, for the September 2020 release of a Russian intelligence assessment that seemed to back Trump’s allegations of nefarious activity by his opponent in the 2016 U.S. presidential election, Democrat Hillary Clinton.
+
+
+But that decision, and others by Ratcliffe to push back against previous U.S. intelligence assessments that Russia had endeavored to help Trump win the 2016 election, is part of what endeared him to the president.
+
+
+And Ratcliffe’s insistence on a more aggressive CIA, according to some analysts, resonated with both Republicans and Democrats.
+
+
+“There was criticism throughout the hearing that the CIA has gone soft on collecting human intelligence, on stealing foreign adversary secrets,” Tyler McBrien, the managing editor of Lawfare, told VOA. “A lot of criticisms about how the CIA has failed to predict in the past four years major geopolitical events, including the fall of the Assad regime and even the New Orleans terrorist attack.”
+
+
+“Ratcliffe really is focused on that human intelligence aspect and also a reorientation toward what he sees as the biggest national security threat, which is China,” McBrien said.
+
+
+No-bias pledge
+
+
+Ratcliffe has promised lawmakers that under his leadership the CIA will deliver insights free of political bias and that he will not lead a purge of employees based on their perceived political views or perceived loyalty to Trump.
+
+
+He also promised to reinvigorate CIA investigations into the cause of Havana Syndrome — the name given to a series of brain injuries and other serious health ailments that have struck hundreds of U.S. diplomats and intelligence officials.
+
+
+And he voiced support for maintaining controversial U.S. surveillance authorities under Section 702 of the Foreign Intelligence Surveillance Act, calling it an indispensable tool.  
+
+
+Katherine Gypson and Kim Lewis contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/senate-confirms-trump-s-choice-for-cia-director/7948085.html>
+
+---
+
+## Birthright litigants explain "first body blow against Trump's autocracy"
+
+date: 2025-01-23, from: The Contrarian
+
+LULAC's CEO Juan Proa&#241;o and The Contrarian&#8217;s Norm Eisen and Jen Rubin discuss the litigation around the country against Trump&#8217;s unconstitutional birthright decree and why today's first court win is a significant one for democracy. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155565366/80537f3b710a758f48c74573d1da9d4c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155565366/80537f3b710a758f48c74573d1da9d4c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/birthright-litigants-explain-first>
+
+---
+
+## Making Censorship Real Again
+
+date: 2025-01-23, from: The Contrarian
+
+The Trump administration is capitalizing on a false conspiracy of censorship to usher in the real kind 
+
+<br> 
+
+<https://contrarian.substack.com/p/making-censorship-real-again>
+
+---
+
+## Trump to global businesses: Make products in US or pay tariffs
+
+date: 2025-01-23, from: VOA News USA
+
+U.S. President Donald Trump on Thursday invited global businesses to manufacture their products in the U.S. and promised them lower taxes but warned if they chose to produce their goods elsewhere, they would have to pay tariffs to export them to the United States.
+
+
+
+"America is back and open for business," Trump, in a video linkup from Washington, told corporate leaders meeting at the World Economic Forum in Davos, Switzerland.
+
+
+
+"My message to every business in the world is very simple: Come make your product in America, and we will give you among the lowest taxes of any nation on Earth," Trump said. "But if you don't make your product in America, which is your prerogative, then, very simply, you will have to pay a tariff."
+
+
+
+Trump, three days into his second term in the White House, said he wants to cut the U.S. corporate tax rate from 21 to 15%, although that needs approval from his political allies in the Republican-controlled Congress. Lawmakers have begun debating how to extend and reshape personal and corporate tax cuts enacted in 2017 during Trump's first term in office.
+
+
+
+
+Trump promised the U.S. would supply Europe with the liquified natural gas it needs but contended that the European Union treats the United States "very, very unfairly" with the extent of regulations it imposes on American businesses operating in the 27-nation bloc.
+
+
+
+The president complained specifically about tariffs and environmental impact statements for new construction projects, calling them "things you shouldn't have to do."
+
+
+
+Trump promised that his administration would make the U.S., already the world's biggest economy, "a manufacturing superpower" and said the government during his four-year term would eliminate 10 business regulations for every new one that is imposed.
+
+
+
+He said he plans to ask Saudi Arabia and the Organization of the Petroleum Exporting Countries to cut the price of oil they produce to boost the global economy.
+
+
+
+He contended that if the current global oil price — about $77 a barrel — is cut, "the war in Ukraine will end immediately." Russia uses revenue from its own oil production to help fund its three-year war on neighboring Ukraine.
+
+
+
+Trump said that in the global economy, the U.S. "just wants to be treated fairly by other countries."
+
+
+
+He said the U.S. wants to have a "fair relationship" with China, the world's second-biggest economy.
+
+
+
+"We don't want to take advantage," he said of Washington-Beijing relations. "We just want to have a level playing field." 
+
+<br> 
+
+<https://www.voanews.com/a/trump-promises-global-businesses-lower-taxes-for-products-made-in-us-tariffs-if-not/7947988.html>
+
+---
+
+## What a Tax Expert Thinks of Trump’s IRA Order
+
+date: 2025-01-23, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTgzMjA2NC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2OTQ3NDEzMn0.y5yjWZyJk_GkjdEbCkREAV0hcTv354LyoVoz83m2z5A/image.jpg?width=900&height=410&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>Given the Trump administration’s new pause on grants under the Inflation Reduction Act, this week’s conversation is with Bob Moczulewski, tax director for law firm Baker Tilly’s federal credits and incentives practice. We asked him to explain this 90-day pause via executive order, because if anyone’s going to cut the nonsense and tell you what actually matters here, it’ll be a tax expert.</p><p>The following chat was lightly edited for clarity. </p><p><strong>Does Trump’s executive order actually impact the IRA’s tax credits? </strong></p><p>The IRA had several components to it, most of which – the biggest things – are tax credits. Those are written into tax law. They are a legally binding ability for developers and users, creators of renewable energy that are allowed within the law – wind, solar, geothermal, battery storage, biogas – those are laws. </p><p>[The order] has a stop on those items that were more discretionary that had the control of the administration to delegate out: its grants, loans, and contracts. That has no impact on the tax credits, where the bulk of the IRA sits right now. A lot of that stuff was in anticipation of being heavily pushed through and sent out before January 20. There’s actual impact there. But tax credits are not appropriated funds. </p><p>This is not holding back the tax credits that are there. </p><p><a href="https://www.bakertilly.com/insights/new-executive-order-pauses-funding-under-ira-iija" rel="noopener noreferrer" target="_blank"><u><strong>You’ve said</strong></u></a><strong> it is unclear if this covers all prospective funding, like direct pay? </strong></p><p>If you’re a municipality and you put up a solar project that is eligible for tax credits and direct pay, that is the part with this potential slow play that could be done here. We really don’t know what the executive branch can do to hold back the payment of those direct payments. If you’re a business, you put up a solar, it’s a $10,000 tax credit, you can use it to reduce your taxable income. None of these orders impact that. </p><p>Now if you’re a municipality and you’re requesting a direct payment for those tax credits that are legally binding in tax law, I could see the possibility that an executive branch could have pressure on the Treasury Department, which has pressure on the IRS, to slow play those payments. But that’s only speculation. The law is stated, this is supposed to be paid out. This is in a realm of, y’know, almost a conspiracy theory-type of thing that could be done. </p><p><strong>With respect to how a pause like this can impact the bankability of IRA, are you seeing it affect executives’ views on the durability of the law? </strong></p><p>I would say there’s just a lot of caution as to [the] next steps around it. These are laws. Until the laws are repealed, if they are repealed, that would be the only way you’d know for certain. </p><p>As I’ve explained many times over, the history of tax credit laws is once they’re repealed or altered, those changes are prospective as to the time the law is changed. If I have a half a billion dollar solar project underway, I’ve met or begun a construction criteria. There has been no prior passing of tax laws that would revoke the ability to claim credits on that. </p><p><strong>What are you watching for next for clarity? </strong></p><p>There’s two things I’m looking for in the future. Where pundits around this really feel this is truly going. And the other part is to see if there’s any actual traction to repeal the tax credits that exist right now. </p><p>There’s a whole new realm of credits that begin in 2025 and continue through 2032. Will there be incentive to repeal those credits? </p><p>I have clients that are engaging in multi billions of dollars of projects that are in the heart of the southern tier of the United States of America, that would impact thousands of jobs. Those groups have strong ties to a lot of senators and congresspeople along the way. Just enough of a push and turn on this and all it takes is a few senators to not go along with it. </p><p><em>Editor’s note: A previous version of this article misidentified Moczulewski’s profession. He is a CPA, not an attorney. The article has been corrected. We regret the error.</em></p> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/qa/bob-baker-moczulewski-tilly-ira>
+
+---
+
+## A Fine Week For Solar, Bad For Everyone Else
+
+date: 2025-01-23, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTgzMjAyNy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1ODkyMTAxMH0.6k8dEFj1Y-2lvsrJA-5KpUa_V5XLqDwC-5Ef70-z9NA/image.jpg?width=1200&height=886&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><strong>1. Magic Valley, Idaho</strong> – It’s never a dull day for the <a href="https://heatmap.news/risk-index" target="_self">Lava Ridge wind project</a>. </p><ul><li>Trump’s <a href="https://heatmap.news/politics/wind-executive-order-trump" target="_self"><u>executive order</u></a> also put a moratorium on the wind project site and essentially invalidated its environmental review under Biden. As we’ve explained, the project got permits in the final days of the previous administration.<br/></li><li>But opponents to the project – most notably Senator Jim Risch – got the president to turn this into a <a href="https://heatmap.news/plus/the-fight/hotspots/lava-ridge-wind-trump-executive-order" target="_self"><u>Keystone XL-style situation</u></a>. Idaho Governor Brad Little yesterday issued an executive order instructing state regulators to comply with anything Trump’s folks do to stop the project, an executive order of his own he jokingly dubbed the “Gone With The Lava Ridge Wind Act.”<br/></li><li>Lava Ridge has been crickets since Trump’s order and its developer Magic Valley Energy has not issued a public statement. The most recent statement available on their website is still about its permits being approved under Biden.</li><li>I’ve tried to get in touch with them via the most recently-listed media contact for the project all week over phone and email – most recently this afternoon – but have had no luck. (Amy, please call me back.)</li></ul><p><strong>2. Multiple counties, Ohio </strong>– Regulators in Ohio issued final decisions for two contested solar projects, clearing the way for one while all but stopping another. </p><ul><li>Savion’s Clear Mountain Energy Center solar-plus-battery project in Clermont County, Ohio, was <a href="https://highlandcountypress.com/news/opsb-approves-construction-solar-energy-facility-clermont-county-denies-project-union-county#gsc.tab=0" target="_blank"><u>approved by</u></a> the Ohio Power Siting Board last week.<br/></li><li>But Samsung’s Richmond Solar project in Union County was rejected by the OPSB, citing local opposition to say it did not serve “public interest, convenience, and necessity.” The project would also include battery storage if constructed.</li><li>OPSB also denied a petition for a rehearing for NextEra’s Circleville Solar project in Pickaway County, which had previously had its approval denied by the regulator.</li></ul><p><strong>3. Pender County, North Carolina </strong>– A solar project that was rejected late last year by the North Carolina Court of Appeals will be <a href="https://www.carolinajournal.com/appeals-court-to-reconsider-ruling-in-pender-county-solar-farm-dispute/" target="_blank">reconsidered</a> by the same court, after the Democrat vote that decided the case was replaced by a Republican. </p><ul><li>At the end of last year, the appeals court ruled Coastal Pine Solar had failed to demonstrate a solar project it proposed in Pender County sufficiently complied with a local restrictive ordinance. The ruling was <a href="https://www.carolinajournal.com/appeals-court-upholds-pender-countys-rejection-of-2300-acre-solar-farm/" target="_blank"><u>not split</u></a>, but it seems the new composition of the court means there’ll be a second go at the case.</li></ul><p><strong>4. Lancaster County, Nebraska</strong> – in We have good news for solar in Nebraska, where county commissioners have approved a massive NextEra solar project. </p><ul><li>Commissioners cleared the Panama Energy Center solar project despite considerable <a href="https://omaha.com/news/state-regional/controversial-solar-farm-in-lancaster-county-wins-approval-opponents-vow-appeal/article_da822b87-c550-5232-a44d-8c0451d3549e.html" target="_blank"><u>local activism opposing</u></a> its development. They <a href="https://www.1011now.com/2025/01/21/lancaster-county-board-approves-solar-farm-near-hallam/" target="_blank"><u>said the decision</u></a> to approve it was only possible after at least some concessions to the concerns in the community, including a vegetation management plan.</li></ul><p><strong>5. Montgomery County, Alabama </strong>– Another solar project – Silicon Ranch – also got approval this past week from the local Board of Adjustments, meaning a Meta data center is now poised to receive renewable energy. </p><ul><li>Activism against the project is quite pronounced, as we’ve been covering closely in The Fight. I’m anticipating a little more noise in the coming weeks about how to stop this project in spite of the local approval.</li></ul>
+<p><em><em>Here’s what else we’re watching ...</em></em></p><p><em><em></em></em><strong>In Kansas, </strong>landowners are suing to stop a NextEra solar project <a href="https://www.cjonline.com/story/news/courts/2025/01/23/jackson-county-kansas-residents-sue-to-stop-5000-acre-solar-farm/77863994007/" target="_blank"><u>in Jackson County</u></a>.</p><p><strong>In Oklahoma, </strong>a Woodside-backed hydrogen project <a href="https://fuelcellsworks.com/2025/01/22/energy-policy/woodside-energy-group-delays-investment-in-oklahoma-hydrogen-project" target="_blank"><u>has been paused</u></a> citing the Trump administration’s changes in policy.</p><p><span></span><strong>In Nevada, </strong>the Bureau of Land Management cleared the way for the Rough Hat solar project days before Joe Biden left office. </p> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/hotspots/lava-ridge-trump-executive-order>
+
+---
+
+## US lawmakers seek to end China's special trade status, import exemption
+
+date: 2025-01-23, from: VOA News USA
+
+WASHINGTON — U.S. lawmakers introduced a bipartisan bill on Thursday that would revoke China's preferential trade status with the United States, phase in steep tariffs and end the "de minimis" exemption for low-value Chinese imports.
+
+
+The bill, introduced by John Moolenaar, the Republican chair of the House of Representatives select committee on China, comes after President Donald Trump issued a memo on Monday asking his cabinet to assess legislation on the Permanent Normal Trade Relations designation for Beijing.
+
+
+Congress approved PNTR for China in 2000, paving the way for its entry into the World Trade Organization. But the U.S. has routinely found the large role of the state in China's economy, including hefty government subsidies for strategic industries, to violate the global trade body's rules.
+
+
+Trump, who has railed against China's vast trade surplus with the U.S., has vowed more duties on Chinese goods.
+
+
+Moolenaar's Restoring Trade Fairness Act was co-sponsored by Democratic Representative Tom Suozzi and introduced with a companion bill in the Senate. Moolenaar said granting China PNTR had ushered in waves of Chinese imports, depleted U.S. manufacturing and made the U.S. susceptible to economic coercion from its "foremost adversary."
+
+
+"This gamble failed," Moolenaar said in a statement. "This legislation will safeguard U.S. national security, enhance supply chain resilience, and bring manufacturing jobs back to America and our allies."
+
+
+China's embassy in Washington did not immediately respond to a request for comment.
+
+
+The path for the bill to become law was not immediately clear, but Republicans hold majorities in both the House and Senate. Lawmakers from both parties say they want to increase U.S. companies' ability to compete with China.
+
+
+Waves of U.S. tariffs by Trump in his first term and by the Biden administration had effectively ended PNTR treatment for China.
+
+
+Nonetheless, the proposed legislation would end annual recertification of the designation and codify minimum 35% tariffs for non-strategic goods and minimum 100% tariffs for strategic goods. The duties would be phased in over five years — 10% in the first year, 25% in the second year, 50% in year four and 100% by year five.
+
+
+The bill would also end de minimis treatment for certain "covered nations," including China.
+
+
+Trump has called for changes to the $800 de minimis duty-free exemption for low-value shipments often blamed for illicit imports of fentanyl precursor chemicals from China.
+
+
+Critics of de minimis say it contributes to the United States' trade deficit with China — $279 billion in 2023, according to the U.S. Census Bureau. 
+
+<br> 
+
+<https://www.voanews.com/a/us-lawmakers-seek-to-end-china-s-special-trade-status-import-exemption/7947991.html>
+
+---
+
+## Federal judge temporarily blocks Trump's order redefining birthright citizenship
+
+date: 2025-01-23, from: VOA News USA
+
+SEATTLE, WASHINGTON — A federal judge on Thursday temporarily blocked President Donald Trump's executive order denying U.S. citizenship to the children of parents living in the country illegally, calling it "blatantly unconstitutional" during the first hearing in a multistate effort challenging the order. 
+
+
+The 14th Amendment to the Constitution promises citizenship to those born on U.S. soil, a measure ratified in 1868 to ensure citizenship for former slaves after the Civil War. But in an effort to curb unlawful immigration, Trump issued the executive order just after being sworn in for his second term on Monday. 
+
+
+The order would deny citizenship to those born after February 19 whose parents are in the country illegally. It also would forbid U.S. agencies from issuing any document or accepting any state document recognizing citizenship for such children. 
+
+
+Trump's order drew immediate legal challenges across the country, with at least five lawsuits being brought by 22 states and a number of immigrants’ rights groups. A lawsuit brought by Washington, Arizona, Oregon and Illinois was the first to get a hearing. 
+
+
+
+
+"I've been on the bench for over four decades. I can't remember another case where the question presented was as clear as this one is," U.S. District Judge John Coughenour told a Justice Department attorney. "This is a blatantly unconstitutional order." 
+
+
+Thursday's decision prevents the Trump administration from taking steps to implement the executive order for 14 days. In the meantime, the parties will submit further arguments about the merits of Trump's order. Coughenour scheduled a hearing on February 6 to decide whether to block it long term as the case proceeds. 
+
+
+Coughenour, 84, a Ronald Reagan appointee who was nominated to the federal bench in 1981, grilled the DOJ attorney, Brett Shumate, asking whether Shumate personally believed the order was constitutional. 
+
+
+Shumate assured the judge he did — "absolutely." He said the arguments the Trump administration is making now have never previously been litigated, and that there was no reason to issue a 14-day temporary restraining order when it would expire before the executive order takes effect. 
+
+
+The Department of Justice later said in a statement that it would "vigorously defend" the president's executive order, which it said "correctly interprets the 14th Amendment of the U.S. Constitution." 
+
+
+"We look forward to presenting a full merits argument to the court and to the American people, who are desperate to see our nation's laws enforced," the department said. 
+
+
+The U.S. is among about 30 countries where birthright citizenship — the principle of jus soli or "right of the soil" — is applied. Most are in the Americas, and Canada and Mexico are among them. 
+
+
+The 14th Amendment was ratified in 1868, in the aftermath of the Civil War, to ensure citizenship for former slaves and free African Americans. It states: "All persons born or naturalized in the United States and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside." 
+
+
+Trump's order asserts that the children of noncitizens are not "subject to the jurisdiction" of the United States, and therefore not entitled to citizenship. 
+
+
+
+
+Arguing for the states on Thursday, Washington Assistant Attorney General Lane Polozola called that absurd, noting that neither those who have immigrated illegally nor their children are immune from U.S. law. 
+
+
+"Are they not subject to the decisions of the immigration courts?" Polozola asked. "Must they not follow the law while they are here?" 
+
+
+Polozola also said the restraining order was warranted because, among other reasons, the executive order would immediately start requiring the states to spend millions to revamp health care and benefits systems to reconsider an applicant's citizenship status. 
+
+
+"The executive order will impact hundreds of thousands of citizens nationwide who will lose their citizenship under this new rule," Polozola said. "Births cannot be paused while the court considers this case." 
+
+
+Washington Attorney General Nick Brown told reporters afterward he was not surprised that Coughenour had little patience with the Justice Department's position, considering that the Citizenship Clause arose from one of the darkest chapters of American law, the Supreme Court's 1857 Dred Scott decision, which held that African Americans, whether enslaved or free, were not entitled to citizenship. 
+
+
+"Babies are being born today, tomorrow, every day, all across this country, and so we had to act now," Brown said. He added that it has been "the law of the land for generations that you are an American citizen if you are born on American soil, period." 
+
+
+A key case involving birthright citizenship unfolded in 1898. The Supreme Court held that Wong Kim Ark, who was born in San Francisco to Chinese immigrants, was a U.S. citizen because he was born in the country. 
+
+
+But some advocates of immigration restrictions have argued that case clearly applied to children born to parents who were both legal immigrants. They say it's less clear whether it applies to children born to parents living in the country illegally. 
+
+
+Trump's order prompted attorneys general to share their personal connections to birthright citizenship. Connecticut Attorney General William Tong, for instance, a U.S. citizen by birthright and the nation's first Chinese American elected attorney general, said the lawsuit was personal for him. Later Thursday, he said Coughenour made the right decision. 
+
+
+"There is no legitimate legal debate on this question. But the fact that Trump is dead wrong will not prevent him from inflicting serious harm right now on American families like my own," Tong said this week. 
+
+<br> 
+
+<https://www.voanews.com/a/us-judge-temporarily-blocks-trump-s-order-ending-birthright-citizenship/7947939.html>
+
+---
+
+## Immigrant Advocates Have a Message for Trump: Not In California
+
+date: 2025-01-23, from: Capital and Main
+
+<p>Head of the California Immigrant Policy Center said the state’s leaders and people are ready to stand against deportations and nativism.</p>
+<p>The post <a href="https://capitalandmain.com/immigrant-advocates-have-a-message-for-trump-not-in-california">Immigrant Advocates Have a Message for Trump: Not In California</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/immigrant-advocates-have-a-message-for-trump-not-in-california>
+
+---
+
+## Trump’s Wind Order Could Hit ‘More Than Half’ of New Projects
+
+date: 2025-01-23, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTgyNDIzMy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2OTMyNzExMH0.HAFRKBkwrZnyuqeBR-EfYacPZehlbml_idwEij_q0jw/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
+	President Trump’s <a href="https://heatmap.news/politics/wind-executive-order-trump" target="_self"><u>executive order halting permits and leases</u></a> for wind projects is starting to look like a potential existential threat to the industry’s future. Just don’t expect <em>everyone</em> to <a href="https://heatmap.news/economy/wind-industry-trump-order" target="_self"><u>say it out loud</u></a>.
+</p><p>
+	On Monday, Trump <a href="https://www.whitehouse.gov/presidential-actions/2025/01/temporary-withdrawal-of-all-areas-on-the-outer-continental-shelf-from-offshore-wind-leasing-and-review-of-the-federal-governments-leasing-and-permitting-practices-for-wind-projects/" rel="noopener noreferrer" target="_blank"><u>issued an order</u></a> pausing new federal approvals for wind projects, pending a “comprehensive assessment” of permitting practices, while opening the door to a review of existing leases and previously-issued permits subject to litigation. In the days following the order, lawyers, industry trade representatives, and professionals who work for renewable energy developers explained to me how this could impact essentially <em>any</em> wind project, even ones not sited on federal lands. Wind projects are just so large and impactful<em> </em>that it’s hard to avoid a federal permit.
+</p><p>
+	Jason Grumet, CEO of the American Clean Power Association, told me Wednesday afternoon that a pause on federal permits would impact “probably more than half” of all wind projects under development in the U.S.
+</p><p>
+	“If in fact the federal government stops issuing approvals, a significant amount of the pipeline would be interrupted,” Grumet said.
+</p><p>
+	Given the high costs associated with building a wind project, and the likelihood of tariffs making that situation worse, the uncertainty produced by a potential halt to permits may also be enough to cause developers to pull the plug on projects – because even if the order itself winds up tossed out in court, that could take years.
+</p><p>
+	As one renewable energy professional told me anonymously, for fear of reprisal, “If we say, well we probably have the right to do this but we have to sue the government to enforce that right, it’s probably only going to get the [project] deal done 40% of the time now.” He concluded: “It’s definitely going to chill investment.”
+</p><p>
+	It’s early days, and Grumet of ACP says he’s holding out hope that the new president can be walked back from the brink. He’s focusing on the possibility that people in the administration including Trump’s picks to run the Interior and Energy Departments – Doug Burgum and Chris Wright – are willing to listen and potentially help walk back a complete and total permitting shutdown.
+</p><p>
+	When asked however if suing the administration may be required, Grumet said it’s a hypothetical that could come true in the worst case scenarios.
+</p><p>
+	“We’re taking it seriously. But the idea that you would have a pro-business administration trying to stop private companies from taking economically appropriate action on private land is just so out of step with the role of government that we’re expecting they’re going to clarify their intent.”
+</p><h3>Fear of a federal nexus</h3><p>
+	Trump’s executive order is so far-reaching because wind projects regularly need federal permits and other authorizations, even if they’re sited on private or state lands.
+</p><p>
+	A commonly cited federal nexus is endangered species. Opponents of wind energy have long criticized turbines for being a potential threat to birds, but it is the case that many wind projects are collocated within or near areas for rare bird migration. Cultural heritage impacts can often also be a difficulty.
+</p><p>
+	One major threat I’ve been hearing about from many in the industry flew out of left field: the Federal Aviation Administration <a href="https://www.cjonline.com/story/business/energy-resource/2023/04/13/new-wind-farm-law-in-kansas-requires-light-mitigation-technology-laura-kelly-bill-signing/70100104007/" rel="noopener noreferrer" target="_blank"><u>often</u></a> <a href="https://www.thealpenanews.com/news/local-news/2020/08/faa-wind-farm-could-hurt-rogers-city-airport/" rel="noopener noreferrer" target="_blank"><u>must</u></a> <a href="https://www.kmvt.com/2024/06/07/labrador-announces-faa-appeal-lava-ridge-project/" rel="noopener noreferrer" target="_blank"><u>clear</u></a> <a href="https://law.stanford.edu/publications/avoiding-the-brewing-battle-between-military-and-windfarms/" rel="noopener noreferrer" target="_blank"><u>wind projects</u></a> <a href="https://www.abilene-rc.com/news/wind-farm-company-edges-closer-to-submitting-application-to-county/article_2feac21c-2348-11ef-a86d-37af3bdcb8c0.html" rel="noopener noreferrer" target="_blank"><u>for construction</u></a>. Matt Eisenson, an expert in renewables permitting at the Columbia University Sabin Center for Climate Change Law, told me FAA approvals are required “very frequently” for wind projects because any land structure <a href="https://oeaaa.faa.gov/oeaaa/external/gisTools/gisAction.jsp" rel="noopener noreferrer" target="_blank"><u>more than 200</u></a> feet tall <a href="https://www.lermansenter.com/faa-adopt-new-rules-require-certain-50-200-foot-towers-clearly-marked/" rel="noopener noreferrer" target="_blank"><u>must be approved</u></a> to not be a hazard for commercial planes. And while the order didn’t cite the FAA specifically, it instructed all “relevant agencies” to wind permitting stop giving approvals related to projects, opening the door to aviation-related clearances idling on a procedural tarmac.
+</p><p>
+	“It’s hard to avoid it if you’ve got anything sizable,” an attorney who works in the renewable energy industry told me, adding the total scope of impact is still unknown: “There’s nobody you could talk to who could have nearly all the answers [about Trump’s order]. And that includes developers and companies, because they don’t know either.” (It’s worth noting no industry attorney would be willing to go on the record with me because of ongoing impacts to clients.)
+</p><p>
+	Then there’s the existing leases and permits. It’s easy to assume that a permit issued is a permit safe, and the Biden administration quickly rushed approvals for many wind projects, onshore and offshore, in the final days before Trump’s inauguration.
+</p><p>
+	But the order left open a process to challenge existing approvals through litigation. In the offshore wind space, we’re already seeing public requests for Trump to review the leases for the <a href="https://www.capegazette.com/article/delaware-senate-gop-asks-trump-revoke-offshore-wind-permits/286175" rel="noopener noreferrer" target="_blank"><u>MarWin project</u></a> off the coast of Maryland and Delaware, and <a href="https://www.savelbi.org/" rel="noopener noreferrer" target="_blank"><u>Atlantic Shores</u></a> off the coast of New Jersey.
+</p><p>
+	Paul Kamenar, a lawyer involved in a suit challenging Dominion Energy’s <a href="https://virginiabusiness.com/dominion-says-offshore-wind-farm-moving-forward-despite-executive-order/" rel="noopener noreferrer" target="_blank"><u>Coastal Virginia offshore wind project</u></a>, says we can expect the same in his case. Kamenar is with the National Legal and Policy Center, which joined with the Heartland Institute and anti-wind group CFACT to sue the government for approving Coastal Virginia, claiming it did not consider the cumulative impacts of building the project on endangered whales.
+</p><p>
+	Kamenar told me he believes the order shows Trump’s team is sympathetic to the arguments raised in the case, and he’s planning to file a request for the federal government to reconsider its permits and leasing for the project as soon as next week. Kamenar said the order provides avenues for similar challenges to many other projects.
+</p><p>
+	“I think this affects all the onshore and offshore wind projects,” Kamenar said. “Some more than others. But if I were the energy company, I would be loath to continue going forward until I got clarification.”
+</p><p>
+	Eisenson at Columbia told me the executive order “opened the door” to a massive range of new potential hurdles for wind development. He sees legal vulnerabilities in the executive order because there’s a history in recent case law surrounding Biden’s pauses on federal oil and gas leasing. But that’s cold comfort for an industry with such high capital costs that it describes low interest rates as its<a href="https://heatmap.news/economy/federal-reserve-interest-rates-energy" target="_self"><u> “fuel</u></a>.”
+</p><p>
+	“This could have a major chilling impact,” Eisenson said. “Even if the EO is unlawful, it could take years in court to invalidate an unlawful decision.”
+</p> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/spotlight/trump-executive-order-wind>
+
+---
+
+## 35,000 Michigan Home Care Workers Double Down on Union Effort
+
+date: 2025-01-23, from: Capital and Main
+
+<p>They won status as state employees to get union rights. Now they’re fighting for an election and better jobs.</p>
+<p>The post <a href="https://capitalandmain.com/35000-michigan-home-care-workers-double-down-on-union-effort">35,000 Michigan Home Care Workers Double Down on Union Effort</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/35000-michigan-home-care-workers-double-down-on-union-effort>
+
+---
+
+## Rubio heads to Central America as Washington intensifies efforts to curb illegal migration
+
+date: 2025-01-23, from: VOA News USA
+
+STATE DEPARTMENT — U.S. Secretary of State Marco Rubio is scheduled to visit Panama and other countries in Central America amid President Donald Trump’s push to reclaim the Panama Canal and Washington’s efforts to curb illegal migration.  
+
+
+State Department spokeswoman Tammy Bruce confirmed that Rubio will travel to Panama, Guatemala, El Salvador, Costa Rica and the Dominican Republic starting late next week.The trip is expected to mark Rubio’s first foreign visit as secretary of state.  
+
+
+The State Department said that Rubio is prioritizing engagement within the Western Hemisphere. 
+
+
+A spokesperson told VOA, “Engaging with our neighbors is a vital element in addressing migration, supply chains and economic growth, which are key to Secretary Rubio’s pursuit of foreign policy focused on making America strong, prosperous, and safe.”  
+
+
+Trump has said he has not ruled out the possibility of either military or economic measures to achieve his stated goal of bringing the Panama Canal back under U.S. control.  
+
+
+Earlier this week, Rubio outlined his foreign policy priorities, including halting the mass entry of undocumented migrants into the United States.  
+
+
+“The State Department will no longer undertake any activities that facilitate or encourage mass migration,” Rubio said in a statement. “Our diplomatic relations with other countries, particularly in the Western Hemisphere, will prioritize securing America’s borders, stopping illegal and destabilizing migration, and negotiating the repatriation of illegal immigrants” to their home countries. 
+
+<br> 
+
+<https://www.voanews.com/a/rubio-heads-to-central-america-amid-trump-s-push-to-reclaim-panama-canal/7947641.html>
+
+---
+
+## What it was like to work at a grocery store during peak COVID
+
+date: 2025-01-23, from: Market Place
+
+For our Economic Pulse series, we're taking a closer look at essential workers' experiences during the height of the pandemic. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/23/what-it-was-like-to-work-at-a-grocery-store-during-peak-covid/>
+
+---
+
+## 'Emilia Perez' tops Oscar nominations in fire-hit Hollywood
+
+date: 2025-01-23, from: VOA News USA
+
+LOS ANGELES — Transgender cartel musical "Emilia Perez" topped this year's Oscar nominations, earning 13 nods in an announcement on Thursday postponed by the devastating Los Angeles wildfires.
+
+
+French director Jacques Audiard's Mexico-set musical, released by Netflix, shattered the record for the most Academy Award nominations for a non-English-language movie.
+
+
+It was followed by epic immigrant saga "The Brutalist" and show-stopping musical adaptation "Wicked," which each picked up 10 nominations.
+
+
+Bob Dylan biopic "A Complete Unknown" and Vatican thriller "Conclave" bagged eight nods apiece.
+
+
+Voting deadlines had to be extended this month, as Los Angeles — the home city of the Academy Awards — was devastated by multiple blazes that have killed more than two dozen people and forced tens of thousands to flee.
+
+
+Nominees were unveiled in subdued circumstances, as a town that typically fixates on the Oscars race was instead fixated on new fires burning north of the city.
+
+
+
+
+Even so, the glitzy Oscars ceremony itself is still set for March 2, and the stars and studios who have spent months and millions of dollars campaigning learned if they have made the coveted final shortlists.
+
+
+"Emilia Perez," in which a narco boss transitions to life as a woman and turns her back on crime, picked up nods for best picture, best director and best international film, as well as multiple song, score and sound nods.
+
+
+Its star, Karla Sofia Gascon, became the first openly trans acting nominee in best actress, and Zoe Saldana was nominated for best supporting actress.
+
+
+Their more famous co-star, Selena Gomez, who has been criticized for her Spanish-language dialogue, missed out.
+
+
+Even so, the Netflix film easily surpassed the most nominated non-English-language movie ever — a record previously held by "Crouching Tiger, Hidden Dragon" and "Roma," each with 10.
+
+
+In best actor, firm favorite Adrien Brody was nominated for "The Brutalist" along with Timothee Chalamet ("A Complete Unknown"), Ralph Fiennes ("Conclave") and Colman Domingo ("Sing Sing").
+
+
+But in an unexpected pick sure to ruffle a few feathers in the new White House, the fifth and final spot went to Sebastian Stan, for his unsettling transformation into a young Donald Trump in "The Apprentice." The movie drew threats of lawsuits from Trump's attorneys, particularly for a scene in which the new U.S. president is shown raping his wife.
+
+
+In arguably the morning's biggest surprise, Jeremy Strong, who plays the youthful Trump's sinister mentor Roy Cohn, was also nominated in his supporting role.
+
+
+He edged out the likes of Denzel Washington ("Gladiator II").
+
+
+Meanwhile, in an intense race for best actress, A-listers Angelina Jolie and Nicole Kidman — who went all-out with their performances in "Maria" and "Babygirl," respectively — missed out entirely.
+
+
+Instead, comeback queen Demi Moore, who charmed the industry with her Golden Globes acceptance speech for body horror-satire "The Substance," was nominated and is seen as the favorite.
+
+
+Her rivals include Gascon, "Anora" star Mikey Madison, "Wicked" lead Cynthia Erivo and Brazil's Fernanda Torres for "I'm Still Here." 
+
+<br> 
+
+<https://www.voanews.com/a/emilia-perez-tops-oscar-nominations-in-fire-hit-hollywood/7947487.html>
 
 ---
 
@@ -62,7 +1528,24 @@ Calls to ban face masks in public are sparking debate in New York City. Supporte
 date: 2025-01-23, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTgxNzUwMS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3MzQ3NTYxMn0.n4iH3l_nt3Y91Jv5tBuwCEMbjb6XgySgG1ZjZvp-yUM/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C1"/><br/><br/><p class="drop-caps">When Donald Trump has talked about his new administration’s energy policy leaders, he has focused, so far, on a specific type of person.</p><p>You might call them energy insiders. At the highest level, they include Doug Burgum, the former North Dakota governor and incoming interior secretary, and Chris Wright, the fracking executive and incoming energy secretary. Both soon-to-be officials know a lot about how the energy industry works, and they hold <a href="https://heatmap.news/climate/chris-wright-mind" target="_self"><u>beliefs</u></a> about energy development that — while far from aligned with the climate policy mainstream — are directionally in agreement with many in the fossil fuel industry itself. </p><p>But based on a close reading of Trump’s initial executive orders, they are not the only officials who will wield power in the Trump administration. Instead, crucial energy policy will be decided in part by a small number of individuals who have no special insight into the energy industry, but who do have various dogmatic ideas about how the government and the economy should work. The most powerful of this second group is Russ Vought, a lead author of Project 2025 and the director-designate of the White House Office of Management and Budget. </p><p>Trump’s initial orders establish the White House Office of Management and Budget, known as OMB, as an unmistakable de facto power center for energy and climate policy in the administration. In clause after clause of Trump’s orders, energy officials across the federal government are told to consult with the OMB director before they can make a decision, rewrite a regulation, or disburse funding.</p><p>Even in more constrained presidencies, OMB has been a <a href="https://crsreports.congress.gov/product/pdf/R/R47089" rel="noopener noreferrer" target="_blank"><u>particularly powerful</u></a> agency. As the largest office in the White House, OMB is in charge of writing the president’s annual budget proposal and working with Congress on legislation; one of its suboffices, the Office of Information and Regulation, approves new federal rules before they are finalized.</p><p>Vought’s vision for the agency <a href="https://www.nytimes.com/2025/01/15/business/russell-vought-budget-office-confirmation-hearing.html" rel="noopener noreferrer" target="_blank"><u>goes far beyond those traditional lines</u></a>, though. He believes that OMB can play a role in curtailing the size of the federal government and firing reams of civil servants. He argues that the White House can claw back funding that has been appropriated by Congress, even though the Constitution gives control over “the power of the purse” to Congress alone.</p><p>Trump’s executive orders suggest that Vought’s OMB will seek to uproot existing energy policy — and that some of his earliest attempts at freezing congressional spending may affect the climate.</p><p>A provision in Trump’s <a href="https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/" rel="noopener noreferrer" target="_blank"><u>“Unleashing American Energy”</u></a> executive order, signed hours after his inauguration, pauses all funding tied to the Inflation Reduction Act or Bipartisan Infrastructure Law until Vought personally approves of it.</p><p>This provision appeared to freeze all funding tied to either law for 90 days, a drastic move that could already violate Congress’s spending authority under the Constitution. The Impoundment Control Act of 1974, a federal law that governs this authority, allows the president to pause funding <a href="https://www.cbpp.org/research/federal-budget/faqs-on-impoundment-presidential-actions-are-constrained-by-long-standing" rel="noopener noreferrer" target="_blank"><u>for 45 days</u></a>, not 90. (Vought <a href="https://www.nytimes.com/2025/01/15/business/russell-vought-budget-office-confirmation-hearing.html" rel="noopener noreferrer" target="_blank"><u>believes</u></a> that this law is “unconstitutional.”)</p><p>Then it allows Vought and Kevin Hassett, who will lead Trump’s National Economic Council, discretion over whether that money gets spent. “No funds identified in this subsection … shall be disbursed by a given agency until the Director of OMB and Assistant to the President for Economic Policy have determined that such disbursements are consistent with any review recommendations they have chosen to adopt,” the order says.</p><p>After this order <a href="https://www.politico.com/news/2025/01/21/trump-fight-biden-infrastructure-money-00199796" rel="noopener noreferrer" target="_blank"><u>threw virtually all</u></a> billions of dollars of federal highway and transportation funding into question, the White House seemed to <a href="https://www.whitehouse.gov/briefings-statements/2025/01/omb-memo-m-25-11/" rel="noopener noreferrer" target="_blank"><u>walk back</u></a> some of the policyorder Tuesday, clarifying that it only sought to blockfreeze funding related to what it called President Joe Biden’s “Green New Deal.” (Even this change still leaves open exactly what funding has been frozen.) </p><p>This is not the only place where OMB appears in Trump’s energy orders. The “Unleashing American Energy” directiveinitiativeorder requires the head of the Environmental Protection Administration to reopen a study into whether carbon dioxide and greenhouse gases are dangerous air pollutants. </p><p>The EPA first <a href="https://www.epa.gov/climate-change/endangerment-and-cause-or-contribute-findings-greenhouse-gases-under-section-202a" rel="noopener noreferrer" target="_blank"><u>found</u></a> that greenhouse gases cause climate change — and are therefore dangerous — in 2009. The first Trump administration didn’t try to overturn this finding because it is <a href="https://science.nasa.gov/climate-change/evidence/" rel="noopener noreferrer" target="_blank"><u>scientifically unimpeachable</u></a>.</p><p>The same order also says that OMB will soon issue new rules governing agency actions “when procuring goods and services, making decisions about leases, and making other arrangements that result in disbursements of Federal funds.”</p><p>Missing from the new executive orders is virtually any mention of <a href="https://heatmap.news/climate/trump-national-energy-council" target="_self"><u>the National Energy Council</u></a>, the new Burgum-led entity that Trump has said he will create in the White House. It’s still unclear what role this body will play in the Trump administration, but it has been described as a nerve center for decision-making about all energy policy. The new array of orders suggest OMB may already be claiming part of that role.</p><p>That said, the Interior and Energy secretaries make their own appearance in the orders. The orders direct the Secretary of the Interior to investigate what can be done to speed up and grant permits for domestic mining. And the orders convene the Endangered Species Act’s <a href="https://www.thefai.org/posts/so-you-want-to-ignore-an-environmental-law" rel="noopener noreferrer" target="_blank"><u>so-called “God squad,”</u></a> a council of agency heads that can override provisions in the conservation law. The Interior Secretary sits on this powerful committee.</p><p>The most significant sign of Wright’s influence, meanwhile, is that Trump’s declaration of an energy “emergency” calls out energy technologies that he favors or that his company has invested in, including geothermal technology and nuclear fission.</p><p>One possible reason for Wright and Burgum’s absence: Neither has yet joined the administration officially. Both are likely to be confirmed by the Senate on Thursday. They might want to talk to their colleague Russ Vought when they get in the door.</p> 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTgxNzUwMS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3MzQ3NTYxMn0.n4iH3l_nt3Y91Jv5tBuwCEMbjb6XgySgG1ZjZvp-yUM/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C1"/><br/><br/><p class="drop-caps">When Donald Trump has talked about his new administration’s energy policy leaders, he has focused, so far, on a specific type of person.</p>
+<p>You might call them energy insiders. At the highest level, they include Doug Burgum, the former North Dakota governor and incoming interior secretary, and Chris Wright, the fracking executive and incoming energy secretary. Both soon-to-be officials know a lot about how the energy industry works, and they hold <a href="https://heatmap.news/climate/chris-wright-mind" target="_self"><u>beliefs</u></a> about energy development that — while far from aligned with the climate policy mainstream — are directionally in agreement with many in the fossil fuel industry itself. </p>
+<p>But based on a close reading of Trump’s initial executive orders, they are not the only officials who will wield power in the Trump administration. Instead, crucial energy policy will be decided in part by a small number of individuals who have no special insight into the energy industry, but who do have various dogmatic ideas about how the government and the economy should work. The most powerful of this second group is Russ Vought, a lead author of Project 2025 and the director-designate of the White House Office of Management and Budget. </p>
+<p>Trump’s initial orders establish the White House Office of Management and Budget, known as OMB, as an unmistakable de facto power center for energy and climate policy in the administration. In clause after clause of Trump’s orders, energy officials across the federal government are told to consult with the OMB director before they can make a decision, rewrite a regulation, or disburse funding.</p>
+<p>Even in more constrained presidencies, OMB has been a <a href="https://crsreports.congress.gov/product/pdf/R/R47089" rel="noopener noreferrer" target="_blank"><u>particularly powerful</u></a> agency. As the largest office in the White House, OMB is in charge of writing the president’s annual budget proposal and working with Congress on legislation; one of its suboffices, the Office of Information and Regulation, approves new federal rules before they are finalized.</p>
+<p>Vought’s vision for the agency <a href="https://www.nytimes.com/2025/01/15/business/russell-vought-budget-office-confirmation-hearing.html" rel="noopener noreferrer" target="_blank"><u>goes far beyond those traditional lines</u></a>, though. He believes that OMB can play a role in curtailing the size of the federal government and firing reams of civil servants. He argues that the White House can claw back funding that has been appropriated by Congress, even though the Constitution gives control over “the power of the purse” to Congress alone.</p>
+<p>Trump’s executive orders suggest that Vought’s OMB will seek to uproot existing energy policy — and that some of his earliest attempts at freezing congressional spending may affect the climate.</p>
+<p>A provision in Trump’s <a href="https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/" rel="noopener noreferrer" target="_blank"><u>“Unleashing American Energy”</u></a> executive order, signed hours after his inauguration, pauses all funding tied to the Inflation Reduction Act or Bipartisan Infrastructure Law until Vought personally approves of it.</p>
+<p>This provision appeared to freeze all funding tied to either law for 90 days, a drastic move that could already violate Congress’s spending authority under the Constitution. The Impoundment Control Act of 1974, a federal law that governs this authority, allows the president to pause funding <a href="https://www.cbpp.org/research/federal-budget/faqs-on-impoundment-presidential-actions-are-constrained-by-long-standing" rel="noopener noreferrer" target="_blank"><u>for 45 days</u></a>, not 90. (Vought <a href="https://www.nytimes.com/2025/01/15/business/russell-vought-budget-office-confirmation-hearing.html" rel="noopener noreferrer" target="_blank"><u>believes</u></a> that this law is “unconstitutional.”)</p>
+<p>Then it allows Vought and Kevin Hassett, who will lead Trump’s National Economic Council, discretion over whether that money gets spent. “No funds identified in this subsection … shall be disbursed by a given agency until the Director of OMB and Assistant to the President for Economic Policy have determined that such disbursements are consistent with any review recommendations they have chosen to adopt,” the order says.</p>
+<p>After this order <a href="https://www.politico.com/news/2025/01/21/trump-fight-biden-infrastructure-money-00199796" rel="noopener noreferrer" target="_blank"><u>threw</u></a> billions of dollars of federal highway and transportation funding into question, the White House seemed to <a href="https://www.whitehouse.gov/briefings-statements/2025/01/omb-memo-m-25-11/" rel="noopener noreferrer" target="_blank"><u>walk back</u></a> some of the policy Tuesday, clarifying that it only sought to block funding related to what it called President Joe Biden’s “Green New Deal.” (Even this change still leaves open exactly what funding has been frozen.) </p>
+<p>This is not the only place where OMB appears in Trump’s energy orders. The “Unleashing American Energy” directive requires the head of the Environmental Protection Administration to reopen a study into whether carbon dioxide and greenhouse gases are dangerous air pollutants. </p>
+<p>The EPA first <a href="https://www.epa.gov/climate-change/endangerment-and-cause-or-contribute-findings-greenhouse-gases-under-section-202a" rel="noopener noreferrer" target="_blank"><u>found</u></a> that greenhouse gases cause climate change — and are therefore dangerous — in 2009. The first Trump administration didn’t try to overturn this finding because it is <a href="https://science.nasa.gov/climate-change/evidence/" rel="noopener noreferrer" target="_blank"><u>scientifically unimpeachable</u></a>.</p>
+<p>The same order also says that OMB will soon issue new rules governing agency actions “when procuring goods and services, making decisions about leases, and making other arrangements that result in disbursements of Federal funds.”</p>
+<p>Missing from the new executive orders is virtually any mention of <a href="https://heatmap.news/climate/trump-national-energy-council" target="_self"><u>the National Energy Council</u></a>, the new Burgum-led entity that Trump has said he will create in the White House. It’s still unclear what role this body will play in the Trump administration, but it has been described as a nerve center for decision-making about all energy policy. The new array of orders suggest OMB may already be claiming part of that role.</p>
+<p>That said, the Interior and Energy secretaries make their own appearance in the orders. The orders direct the Secretary of the Interior to investigate what can be done to speed up and grant permits for domestic mining. And the orders convene the Endangered Species Act’s <a href="https://www.thefai.org/posts/so-you-want-to-ignore-an-environmental-law" rel="noopener noreferrer" target="_blank"><u>so-called “God squad,”</u></a> a council of agency heads that can override provisions in the conservation law. The Interior Secretary sits on this powerful committee.</p>
+<p>The most significant sign of Wright’s influence, meanwhile, is that Trump’s declaration of an energy “emergency” calls out energy technologies that he favors or that his company has invested in, including geothermal technology and nuclear fission.</p>
+<p>One possible reason for Wright and Burgum’s absence: Neither has yet joined the administration officially. Both are likely to be confirmed by the Senate on Thursday. They might want to talk to their colleague Russ Vought when they get in the door.</p> 
 
 <br> 
 
@@ -2266,7 +3749,7 @@ date: 2025-01-21, from: Heatmap News
 date: 2025-01-21, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTczODE2Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3MjEyMzI2Mn0.MZqUPHMB-txE-uXwtrs_2-z6YR_p4wClrnaV20R32oc/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">The newly inaugurated president does not like the wind industry. Especially <a href="https://heatmap.news/politics/wind-executive-order-trump" target="_blank">the offshore wind industry</a>.</p><p>Donald Trump Monday night issued an <a href="https://www.whitehouse.gov/presidential-actions/2025/01/temporary-withdrawal-of-all-areas-on-the-outer-continental-shelf-from-offshore-wind-leasing-and-review-of-the-federal-governments-leasing-and-permitting-practices-for-wind-projects/" target="_blank">expansive executive order</a> targeting the sector that the industry is only just starting to digest. And while the executive order was mostly being seen as a pause or moratorium on new offshore leasing, it could have much more wide-ranging effects. It calls for the Secretary of the Interior and the Attorney General to “conduct a comprehensive review of the ecological, economic, and environmental necessity of terminating or amending any existing wind energy leases, identifying any legal bases for such removal,” thus calling gigawatts of existing, permitted projects into doubt.</p><p>“The executive order pausing new offshore wind leasing and permitting is a blow to the American offshore wind industry and hurts the hundreds of U.S. supply chain companies and thousands of workers already building more American energy,” Liz Burdock, the chief executive officer of the Oceantic Network, an offshore wind industry group, said in a statement. “Today’s actions threaten to strand $25 billion already flowing into new ports, vessels, and manufacturing centers, and curtail future investments across our country.” Companies that have active offshore projects have been largely mum on the order. A spokesperson for Orsted, the Danish company behind the under-construction Revolution Wind project off the coast of Rhode Island and the Sunrise Wind project off the coast of Long Island, told me only that it was “in the process of reviewing it to assess the impact on our portfolio.” </p><p>A spokesperson for Equinor, which is working on the Empire Wind project, projected to <a href="https://www.equinor.com/news/20240604-solidifies-new-york-offtake-contract-empire-wind-1" rel="noopener noreferrer" target="_blank"><u>start serving</u></a> New York City in 2026, told me, “Equinor is committed to advancing a broad energy portfolio that supports a domestic supply chain, generates skilled jobs, and makes a lasting contribution to American energy security. We will continue to assess all policy developments and work with the Trump administration as we deliver long-term energy solutions for the growing American economy.”</p><p>Several other major offshore and onshore wind developers, including Pattern Energy, Avangrid, and NextEra either did not respond to requests for comment or would not comment on their ongoing projects in light of the order.</p><p>Trade group officials and outside experts were skeptical that the order would stop projects currently under construction like Revolution Wind, Vineyard Wind in Massachusetts, or the Coastal Virginia Offshore Wind Project, backed by the utility Dominion. Projects like Empire and Sunrise Wind, which have started some onshore construction, may survive as well. But the Biden Administration also permitted a flurry of projects in its final year, including SouthCoast Wind, New England Wind, Atlantic Shores South, and the Maryland Offshore Wind Project, and those may now be in doubt.</p><p>“Projects with steel in the water are probably safe,” Cy McGeady, a fellow in the Energy Security and Climate Change Program at the Center for Strategic and International Studies, told me. “I’d be shocked if a project with steel in the water has its permit revoked.” But of those that haven’t yet gotten started, he cautioned, “It’s those projects that are most at risk.”</p><p>Shares of Orsted fell over 9% in the United States Tuesday after the company announced $1.7 billion in impairments due to delays on its Sunrise Wind project — not related to the executive orders. The company also said it was <a href="https://orsted.com/en/company-announcement-list/2025/01/orsted-announces-impairments-relating-to-us-intere-142283101" rel="noopener noreferrer" target="_blank"><u>marking down the value</u></a> of its leases off the coasts of New Jersey, Maryland, and Delaware, and cited “considerably increased project costs,” as well as delays linked to transmission equipment for the wind turbines.</p><p>“Delivering the project within the updated schedule and cost is an absolute top priority for Orsted,” the company’s chief executive Mads Nipper said in a statement on the accounting changes.</p><p>The executive order comes after a dreadful few years for the offshore wind industry, which has been hammered by high costs, delays, and interest rate hikes, which led to several project cancellations even before Trump’s victory. The wind industry as a whole has seen slowing growth, thanks to difficulties building adequate transmission, exposure to high interest rates, and rising local opposition. New wind energy additions in the United States peaked in 2020 and 2021 <a href="https://www.eia.gov/todayinenergy/detail.php?id=62784#:~:text=Following%20the%20record%20wind%20capacity,our%20July%20Monthly%20Energy%20Review." rel="noopener noreferrer" target="_blank"><u>with 14 gigawatts of added capacity</u></a>, falling to just over 6 <a href="https://cleanpower.org/news/market-report-2023/" rel="noopener noreferrer" target="_blank"><u>gigawatts in 2023</u></a>.</p><p>The executive order also, at best, means no more new leasing for the duration of Trump’s time in office, calling into question the growth prospects of the whole offshore wind industry in the United States. Onshore wind may be on firmer ground, as many projects, especially in Texas, are not built on federal lands and do not require the full federal permitting process to be built.</p><p>“If the growth prospects are curtailed or drastically limited or at least diminished for the next four-plus years,” McGeady told me, referring to the offshore wind industry, “then it’s much harder to justify costs in the near term investment and expenditure of capital for an industry that might never launch.”<br/></p> 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTczODE2Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3MjEyMzI2Mn0.MZqUPHMB-txE-uXwtrs_2-z6YR_p4wClrnaV20R32oc/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">The newly inaugurated president does not like the wind industry. Especially <a href="https://heatmap.news/politics/wind-executive-order-trump" target="_blank">the offshore wind industry</a>.</p><p>Donald Trump on Monday night issued an <a href="https://www.whitehouse.gov/presidential-actions/2025/01/temporary-withdrawal-of-all-areas-on-the-outer-continental-shelf-from-offshore-wind-leasing-and-review-of-the-federal-governments-leasing-and-permitting-practices-for-wind-projects/" target="_blank">expansive executive order</a> targeting the sector that the industry is only just starting to digest. And while the executive order was mostly being seen as a pause or moratorium on new offshore leasing, it could have much more wide-ranging effects. It calls for the Secretary of the Interior and the Attorney General to “conduct a comprehensive review of the ecological, economic, and environmental necessity of terminating or amending any existing wind energy leases, identifying any legal bases for such removal,” thus calling gigawatts of existing, permitted projects into doubt.</p><p>“The executive order pausing new offshore wind leasing and permitting is a blow to the American offshore wind industry and hurts the hundreds of U.S. supply chain companies and thousands of workers already building more American energy,” Liz Burdock, the chief executive officer of the Oceantic Network, an offshore wind industry group, said in a statement. “Today’s actions threaten to strand $25 billion already flowing into new ports, vessels, and manufacturing centers, and curtail future investments across our country.” Companies that have active offshore projects have been largely mum on the order. A spokesperson for Orsted, the Danish company behind the under-construction Revolution Wind project off the coast of Rhode Island and the Sunrise Wind project off the coast of Long Island, told me only that it was “in the process of reviewing it to assess the impact on our portfolio.” </p><p>A spokesperson for Equinor, which is working on the Empire Wind project, projected to <a href="https://www.equinor.com/news/20240604-solidifies-new-york-offtake-contract-empire-wind-1" rel="noopener noreferrer" target="_blank"><u>start serving</u></a> New York City in 2026, told me, “Equinor is committed to advancing a broad energy portfolio that supports a domestic supply chain, generates skilled jobs, and makes a lasting contribution to American energy security. We will continue to assess all policy developments and work with the Trump administration as we deliver long-term energy solutions for the growing American economy.”</p><p>Several other major offshore and onshore wind developers, including Pattern Energy, Avangrid, and NextEra either did not respond to requests for comment or would not comment on their ongoing projects in light of the order.</p><p>Trade group officials and outside experts were skeptical that the order would stop projects currently under construction like Revolution Wind, Vineyard Wind in Massachusetts, or the Coastal Virginia Offshore Wind Project, backed by the utility Dominion. Projects like Empire and Sunrise Wind, which have started some onshore construction, may survive as well. But the Biden Administration also permitted a flurry of projects in its final year, including SouthCoast Wind, New England Wind, Atlantic Shores South, and the Maryland Offshore Wind Project, and those may now be in doubt.</p><p>“Projects with steel in the water are probably safe,” Cy McGeady, a fellow in the Energy Security and Climate Change Program at the Center for Strategic and International Studies, told me. “I’d be shocked if a project with steel in the water has its permit revoked.” But of those that haven’t yet gotten started, he cautioned, “It’s those projects that are most at risk.”</p><p>Shares of Orsted fell over 9% in the United States Tuesday after the company announced $1.7 billion in impairments due to delays on its Sunrise Wind project — not related to the executive orders. The company also said it was <a href="https://orsted.com/en/company-announcement-list/2025/01/orsted-announces-impairments-relating-to-us-intere-142283101" rel="noopener noreferrer" target="_blank"><u>marking down the value</u></a> of its leases off the coasts of New Jersey, Maryland, and Delaware, and cited “considerably increased project costs,” as well as delays linked to transmission equipment for the wind turbines.</p><p>“Delivering the project within the updated schedule and cost is an absolute top priority for Orsted,” the company’s chief executive Mads Nipper said in a statement on the accounting changes.</p><p>The executive order comes after a dreadful few years for the offshore wind industry, which has been hammered by high costs, delays, and interest rate hikes, which led to several project cancellations even before Trump’s victory. The wind industry as a whole has seen slowing growth, thanks to difficulties building adequate transmission, exposure to high interest rates, and rising local opposition. New wind energy additions in the United States peaked in 2020 and 2021 <a href="https://www.eia.gov/todayinenergy/detail.php?id=62784#:~:text=Following%20the%20record%20wind%20capacity,our%20July%20Monthly%20Energy%20Review." rel="noopener noreferrer" target="_blank"><u>with 14 gigawatts of added capacity</u></a>, falling to just over 6 <a href="https://cleanpower.org/news/market-report-2023/" rel="noopener noreferrer" target="_blank"><u>gigawatts in 2023</u></a>.</p><p>The executive order also, at best, means no more new leasing for the duration of Trump’s time in office, calling into question the growth prospects of the whole offshore wind industry in the United States. Onshore wind may be on firmer ground, as many projects, especially in Texas, are not built on federal lands and do not require the full federal permitting process to be built.</p><p>“If the growth prospects are curtailed or drastically limited or at least diminished for the next four-plus years,” McGeady told me, referring to the offshore wind industry, “then it’s much harder to justify costs in the near term investment and expenditure of capital for an industry that might never launch.”<br/></p> 
 
 <br> 
 

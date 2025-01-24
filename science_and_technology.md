@@ -1,11 +1,657 @@
 ---
 title: science and technology
-updated: 2025-01-23 07:05:25
+updated: 2025-01-24 07:04:46
 ---
 
 # science and technology
 
-(date: 2025-01-23 07:05:25)
+(date: 2025-01-24 07:04:46)
+
+---
+
+## New Book-Sorting Algorithm Almost Reaches Perfection
+
+date: 2025-01-24, from: Quanta Magazine
+
+The library sorting problem is used across computer science for organizing far more than just books. A new solution is less than a page-width away from the theoretical ideal.            <p>The post <a href="https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/" target="_blank">New Book-Sorting Algorithm Almost Reaches Perfection</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/>
+
+---
+
+## Boeing warns of more financial charges due to strikes, costlier parts, and Starliner
+
+date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>Calamity Capsule continues to be calamitous for the bottom line</h4> <p>Boeing is warning of another hit to its bottom line, at least partly at the hands of the company&#39;s Calamity Capsule, the CST-100 Starliner.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/boeing_results_q4/>
+
+---
+
+## North Korean dev who renamed himself 'Bane' accused of IT worker fraud scheme
+
+date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>5 indicted as FBI warns North Korea dials up aggression, plus Russian devs allegedly get in on the act</h4> <p>The US is indicting yet another five suspects it believes were involved in North Korea&#39;s long-running, fraudulent remote IT worker scheme – including one who changed their last name to &#34;Bane&#34; and scored a gig at a tech biz in San Francisco.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/north_korean_devs_and_their/>
+
+---
+
+## Mega UK datacenter greenlit, but we still don't know who's moving in
+
+date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>Hyperscaler mystery deepens as Hertfordshire braces for bit barn blitz</h4> <p>Approval was last night granted for a mega datacenter in Hertfordshire, close to London&#39;s M25 orbital motorway, clearing the way for construction to begin. The identity of the eventual occupier, said to be a hyperscale operator, has yet to be disclosed.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/uk_mega_datacenter_approved/>
+
+---
+
+## WINE 10 is still not an emulator, but Windows apps won't know the difference
+
+date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>New double-digit vintage goes well with all sorts of things</h4> <p>After 32 years of maturation, even now, WINE is Not an Emulator, but it can work alongside them to run Windows apps on Arm Linux.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/wine_turns_10/>
+
+---
+
+## First all-Indian chips to debut this year, 25 more local designs in the works
+
+date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>28nm and fatter processes first, says minister, as semiconductor supply chain players move to cash in</h4> <p>India&#39;s ambition to become a semiconductor manufacturing player will bear fruit later this year with the debut of the first silicon designed and built in the nation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/india_semiconductor_industry_designs_debut/>
+
+---
+
+## The Discovery of Gold on This Date in 1848 at Sutter’s Creek Kicked Off the California Gold Rush and Transformed America
+
+date: 2025-01-24, from: Smithsonian Magazine
+
+The unquenchable demand for gold spurred a mass migration and fueled the genocide of Native communities 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-discovery-of-gold-on-this-date-in-1848-at-sutters-creek-kicked-off-the-california-gold-rush-and-transformed-america-180985858/>
+
+---
+
+## User said he did nothing that explained his dead PC – does a new motherboard count?
+
+date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>Then suggested a bloke down the pub might be able to help fix it</h4> <p><strong>On Call</strong>  Friday brings the prospect of spending time with loved ones. But before we get there, <em>The Register</em> offers another instalment of On Call, the column that chronicles experiences from the global family of readers who have traumatic tech support tales to tell.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/on_call/>
+
+---
+
+## China and friends claim success in push to stamp out tech support cyber-scam slave camps
+
+date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>Paint a target on Myanmar, pledge more info-sharing to get the job done</h4> <p>A group established by six Asian nations to fight criminal cyber-scam slave camps that infest the region claims it’s made good progress dismantling the operations.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/lancang_mekong_anti_cyberscam_cooperation/>
+
+---
+
+## Court rules FISA Section 702 surveillance of US resident was unconstitutional
+
+date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>&#39;Public interest alone does not justify warrantless querying&#39; says judge</h4> <p>It was revealed this week a court in New York made a landmark ruling that sided against the warrantless state surveillance of people&#39;s private communications in America.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/section_702_court/>
+
+---
+
+## Mental toll: Scale AI, Outlier sued by humans paid to steer AI away from our darkest depths
+
+date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>Who guards the guardrail makers? Not the bosses who hire them, it&#39;s alleged</h4> <p>Scale AI, which labels training data for machine-learning models, was sued this month, alongside labor platform Outlier, for allegedly failing to protect the mental health of contractors hired to protect people from harmful interactions with AI models.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/scale_ai_outlier_sued_over/>
+
+---
+
+## One of Salt Typhoon's favorite flaws still wide open on 91% of at-risk Exchange Servers
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>But we mean, you&#39;ve had nearly four years to patch</h4> <p>One of the critical security flaws exploited by China&#39;s Salt Typhoon to breach US telecom and government networks has had a patch available for nearly four years - yet despite repeated warnings from law enforcement and private-sector security firms, nearly all public-facing Microsoft Exchange Server instances with this vulnerability remain unpatched.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/proxylogon_flaw_salt_typhoons_open/>
+
+---
+
+## A3ML Proposers Day
+
+date: 2025-01-23, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">A3ML Proposers Day</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>DARPA's Information Innovation Office (I2O) is sponsoring a Proposers Day in support of the anticipated Anticipatory and Adaptive Anti-Money Laundering (A3ML) Program Solicitation. | <a href="https://drupal.darpa.mil/events/a3ml-proposers-day">See event</a></p></div>
+      
+
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-23T18:29:16-05:00" title="Thursday, January 23, 2025 - 18:29" class="datetime">Thu, 01/23/2025 - 18:29</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/opportunities/darpa-sn-25-25>
+
+---
+
+## A3ML Proposers Day
+
+date: 2025-01-23, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">A3ML Proposers Day</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-23T18:10:05-05:00" title="Thursday, January 23, 2025 - 18:10" class="datetime">Thu, 01/23/2025 - 18:10</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+            <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/medium_office_card_426x160/public/gallery/2025-01/a3ml-news-logo.jpg?itok=5kxSEPHr" width="426" height="160" alt loading="lazy" class="image-style-medium-office-card-426x160">
+
+
+
+      <figcaption class="padding-bottom-3"></figcaption>
+
+    
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>DARPA's Information Innovation Office (I2O) is sponsoring a Proposers Day in support of the anticipated Anticipatory and Adaptive Anti-Money Laundering (A3ML) Program Solicitation. The purpose of this event is to provide information on the A3ML technical goals and challenges, address questions from potential proposers, and provide an opportunity for potential proposers to consider how their research may align with the A3ML program objectives.</p><p>Attendance is voluntary and is not required to propose to the A3ML Program Solicitation.</p><p>The A3ML Proposers Day will be held on Feb. 20, 2025, from 9 a.m.- 5 p.m. ET in-person at the DARPA Conference Center, 675 North Randolph St., Suite 200, Arlington, VA 22203. The event will consist of an unclassified session from 9 a.m.-noon and a classified session from 2-5 p.m. ET.</p><p><strong>Registration deadline: Feb. 10, 2025 at 5 p.m. ET.</strong></p><p>Persons who do not hold an active security clearance are eligible to attend the unclassified session. Only U.S. citizens who hold an active TS/SCI (SI, TK, G, and HCS-Accesses) security clearance are eligible to attend the classified session.</p><p>&nbsp;</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+        
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p><a class="primary-button-light primary-button-padding" href="https://creative.spa.com/darpa/i2o/a3ml/pd/" target="_blank"><span>Register now</span>&nbsp;<svg id="right" viewBox="0 -7 30 35"><path d="M0.5 9.35772H20.9956L14.2001 2.29941L16.4134 0L27 11L16.4134 22L14.2001 19.7006L20.9956 12.6423H0.5V9.35772Z" fill="currentColor" /></svg></a></p><p><strong>Feb. 20, 2025</strong><br>9 a.m.- 5 p.m. ET<br>&nbsp;</p><p><strong>DARPA</strong><br>Conference Center<br>675 North Randolph St.<br>Suite 200<br>Arlington, VA 22203&nbsp;</p><h4>Opportunity</h4><p>DARPA-SN-25-25</p><h4>Resources</h4><ul style="list-style-type:disc;margin-left:0;"><li><a href="https://drupal.darpa.mil/news/2025/tackle-illicit-finance "><strong>News: </strong>Technology research and development effort aims to tackle illicit finance</a></li><li><a href="https://drupal.darpa.mil/events/a3ml-proposers-day"><strong>Event: </strong>A3ML: Proposers Day&nbsp;</a></li><li><a href="https://drupal.darpa.mil/research/programs/a3ml-anticipatory-adaptive"><strong>Program: </strong>A3ML&nbsp;</a></li></ul></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/events/a3ml-proposers-day>
+
+---
+
+## Whitney Mason
+
+date: 2025-01-23, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">Whitney Mason</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-23T17:34:08-05:00" title="Thursday, January 23, 2025 - 17:34" class="datetime">Thu, 01/23/2025 - 17:34</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Dr. Whitney Mason is the acting deputy director of the Defense Advanced Research Projects Agency (DARPA) and director of the Microsystems Technology Office (MTO).&nbsp;</p><p>Previously, she held the deputy director role in the agency’s Strategic Technology Office (STO) from June 2022 to October 2023. Prior to joining STO, Mason served as a program manager in MTO from November 2017 to May 2022.&nbsp;</p><p>Her research interests include imaging sensors that provide multifunction capability. In particular, she is interested in novel device structures, optics, and electronics that enable new capabilities compared to current state-of-the-art imaging systems.</p><p>Mason joined DARPA from the Army C5ISR Center, formerly the Army Communications-Electronics Research, Development and Engineering Center, where she was the director of the Science and Technology Division within the Night Vision and Electronic Sensors Directorate at Fort Belvoir, Virginia. In that role, she led a team of scientists and engineers in the pursuit of new and improved focal plane array materials and devices; advanced read-out circuits; and enhanced optical materials and designs, lasers, and image processing.&nbsp;</p><p>Mason holds a Doctor of Philosophy degree in physics from the University of Oklahoma and a Bachelor of Science degree in physics from Georgetown University.</p><p>&nbsp;</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+          <div class="content-width-x-large margin-x-auto paragraph paragraph--type--from-library paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+      
+            <div class="field field--name-paragraphs field--type-entity-reference-revisions field--label-hidden field__item">
+  <div class="content-width-x-large margin-x-auto desktop:padding-top-0 mobile-lg:padding-top-5 paragraph paragraph--type--right-rail paragraph--view-mode--default">
+    
+      
+      <div class="field field--name-field-right-rail-paragraph field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p>&nbsp;</p><p><a class="primary-button-light primary-button-padding" href="#contact"><span>Contact me</span><svg id="right" viewBox="0 -7 30 35"><path d="M0.5 9.35772H20.9956L14.2001 2.29941L16.4134 0L27 11L16.4134 22L14.2001 19.7006L20.9956 12.6423H0.5V9.35772Z" fill="currentColor" /></svg></a></p></div>
+      
+
+      </div>
+</div>
+          </div>
+  
+
+      </div>
+</div>
+      
+
+              </div>
+      
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/about/people/whitney-mason1>
+
+---
+
+## Scientists Who Found Mysterious 'Dark Oxygen' on the Ocean Floor Plan a New Expedition, Hoping to Settle Disputes
+
+date: 2025-01-23, from: Smithsonian Magazine
+
+Last year, the team made headlines when it published a paper describing how metal lumps at the bottom of the Pacific Ocean seemed to produce oxygen without sunlight 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-who-found-mysterious-dark-oxygen-on-the-ocean-floor-plan-a-new-expedition-hoping-to-settle-disputes-180985889/>
+
+---
+
+## OpenAI's Operator agent wants to tackle your online chores – just don’t expect it to nail every task
+
+date: 2025-01-23, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>Hello Operator? Can you give me number nine? Can I see you later? Will you give me back my dime?</h4> <p>OpenAI on Thursday launched a human-directed AI agent called Operator that can use a web browser by itself to accomplish various online tasks, or at least try to do so.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/openai_unveils_operator_agent/>
+
+---
+
+## Patch now: Cisco fixes critical 9.9-rated, make-me-admin bug in Meeting Management
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>No in-the-wild exploits … yet</h4> <p>Cisco has pushed a patch for a critical, 9.9-rated vulnerability in its Meeting Management tool that could allow a remote, authenticated attacker with low privileges to escalate to administrator on affected devices.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/cisco_fixes_critical_bug/>
+
+---
+
+## Astronomers Discover Supersonic Winds on a 'Puffy' Exoplanet, Forming a Record-Breaking Jet Stream
+
+date: 2025-01-23, from: Smithsonian Magazine
+
+Moving at roughly 20,505 miles per hour along the distant world's equator, it’s the fastest known jet stream that wraps around a planet 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/astronomers-discover-supersonic-winds-on-a-puffy-exoplanet-forming-a-record-breaking-jet-stream-180985891/>
+
+---
+
+## Intel pitches modular PC designs to make repairs less painful
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>x86 behemoth calls the approach &#39;innovative&#39; - DIY builders may disagree</h4> <p>Intel claims a more modular approach to PC design could make systems easier to repair and reduce electronic waste – and it has some proposals for you.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/intel_modular_pc_designs/>
+
+---
+
+## Technology research and development effort aims to tackle illicit finance
+
+date: 2025-01-23, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">Technology research and development effort aims to tackle illicit finance</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-23T14:47:24-05:00" title="Thursday, January 23, 2025 - 14:47" class="datetime">Thu, 01/23/2025 - 14:47</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+            <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/medium_office_card_426x160/public/gallery/2025-01/a3ml-news-logo.jpg?itok=5kxSEPHr" width="426" height="160" alt loading="lazy" class="image-style-medium-office-card-426x160">
+
+
+
+      <figcaption class="padding-bottom-3"></figcaption>
+
+    
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p><strong>Proposers Day registration open for researchers interested in proposing to DARPA effort to transform anti-money laundering analytics</strong></p></div>
+      
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>DARPA wants to eliminate global money laundering by replacing the current manual, reactive, and expensive analytic practices with agile, algorithmic methods.</p><p>Money laundering directly harms American citizens and global interests. Today, U.S. adversaries launder billions of U.S. dollars yearly. Half of North Korea’s nuclear program is backed by laundered funds, according to statements by the White House<a href="#1"><sup>1</sup></a>, while a federal indictment alleges that money launderers tied to Chinese underground banking are a primary source of financial services for Mexico’s Sinaloa cartel<a href="#2"><sup>2</sup></a>.&nbsp;</p><p>Despite recent anti-money laundering efforts, the United States still faces challenges in countering money laundering effectively for several reasons. According to congressional research, money laundering schemes often evade detection and disruption, as anti-money laundering (AML) efforts today rely on manual analysis of large amounts of data and are limited by finite resources and human cognitive processing speed<a href="#3"><sup>3</sup></a>.</p><p>To address these challenges, DARPA is seeking research proposals for its <a href="https://drupal.darpa.mil/research/programs/a3ml-anticipatory-adaptive"><strong>Anticipatory and Adaptive Anti-Money Laundering (A3ML) </strong>program</a>.</p><p>“Money laundering finances our adversaries’ weapons programs, global terrorism, and the illicit drug trade, all of which threaten U.S. national security,” said <a href="https://drupal.darpa.mil/about/people/david-rushing-dewhurst">Dr. David Rushing Dewhurst, A3ML program manager</a>, “The way we address these threats today is largely through manual data collection and analysis methods that threaten privacy. We are looking for new technological ideas that preserve privacy while setting a course to end to our adversaries’ financial warfare.” A3ML aims to develop rapid graph-search algorithms to sift through financial transactions graphs for suspicious patterns and learn new patterns to anticipate future activities. Dewhurst says the program’s success hinges on algorithms’ ability to learn a precise representation of how bad actors move money around the world without sharing sensitive data.</p><p>“The demand for enhanced information sharing between law enforcement and financial institutions’ anti-money laundering organizations is significant,” explained Dewhurst. “However, developing technology that enables this exchange while safeguarding Americans’ privacy remains a challenge. DARPA’s unique convening power will harness the nation’s best minds to shift anti-money laundering analysis from a largely manual process to one that rapidly provides human analysts with the data and analysis they need at their fingertips, all while increasing financial privacy.”</p><p>To accomplish A3ML goals, performers will develop techniques to represent patterns of illicit financial behavior in a concise, machine-readable format that’s also easily understood by human analysts. Resulting algorithms would be able to search financial databases for matches to those patterns of behavior, alerting to the likely presence of money laundering without directly sharing sensitive financial data.</p><p>DARPA will sponsor Proposers Day on Feb. 20, 2025 in Arlington, VA. Participants must register by Feb. 10. Details and registration instructions are available at <a href="https://sam.gov/opp/22562059531b4979814b8b9fcd03e3ec/view" target="_blank">https://sam.gov/opp/22562059531b4979814b8b9fcd03e3ec/view</a>.</p><p class="text-align-center">###</p><p>Media with inquiries should contact DARPA Public Affairs at <a href="mailto:outreach@darpa.mil" target="_blank">outreach@darpa.mil</a></p><p>&nbsp;</p><p id="1">[1] <a href="https://www.cnn.com/2023/05/10/politics/north-korean-missile-program-cyberattacks/index.html" target="_blank">https://www.cnn.com/2023/05/10/politics/north-korean-missile-program-cyberattacks/index.html</a>. Stolen cryptocurrency must be laundered into fiat currency to purchase goods required for a defense weapons program, such as North Korea’s nuclear program.</p><p id="2">[2] <a href="https://www.justice.gov/opa/pr/federal-indictment-alleges-alliance-between-sinaloa-cartel-and-money-launderers-linked" target="_blank">https://www.justice.gov/opa/pr/federal-indictment-alleges-alliance-between-sinaloa-cartel-and-money-launderers-linked</a></p><p id="3">[3] <a href="https://crsreports.congress.gov/product/pdf/IF/IF11064" target="_blank">https://crsreports.congress.gov/product/pdf/IF/IF11064</a></p><p>&nbsp;</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+        
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Resources</h4><ul style="list-style-type:disc;margin-left:0;"><li><a href="https://drupal.darpa.mil/events/a3ml-proposers-day"><strong>Event: </strong>A3ML: Proposers Day</a></li><li><a href="https://drupal.darpa.mil/research/programs/a3ml-anticipatory-adaptive"><strong>Program: </strong>A3ML</a></li></ul></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/news/2025/tackle-illicit-finance>
+
+---
+
+## See the Stunning Ancient Roman Statue of Athena That's Going on View for the First Time in Nearly 260 Years
+
+date: 2025-01-23, from: Smithsonian Magazine
+
+After spending centuries on a British aristocrat's estate in North Yorkshire, the marble masterpiece will be unveiled in Chicago's Wrightwood 659 gallery later this week 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-the-stunning-ancient-roman-statue-of-athena-thats-going-on-view-for-the-first-time-in-nearly-260-years-180985883/>
+
+---
+
+## How to See Six Planets Lined Up in the Night Sky This Month—and Glimpse a Rare Seven-Planet 'Parade' in February
+
+date: 2025-01-23, from: Smithsonian Magazine
+
+While the planets are technically always "aligned" along the same plane in our sky, seeing so many at once is a special opportunity 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/how-to-see-six-planets-lined-up-in-the-night-sky-this-month-and-glimpse-a-rare-seven-planet-parade-in-february-180985893/>
+
+---
+
+## NASA JPL Prepping for Full Year of Launches, Mission Milestones
+
+date: 2025-01-23, from: NASA breaking news
+
+Missions will study everything from water on the Moon to the transformation of our universe after the big bang and ongoing changes to Earth’s surface. With 2024 receding into the distance, NASA’s Jet Propulsion Laboratory is already deep into a busy 2025. Early in the new year, the Eaton Fire came close to JPL, destroying [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-prepping-for-full-year-of-launches-mission-milestones/>
+
+---
+
+## Musk torches $500B Stargate AI plan, Altman strikes back
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>OpenAI boss tell world&#39;s richest man money is there to fund infrastructure project</h4> <p><strong>Updated</strong>  The world has been treated to tech bros squabbling over Stargate, the alleged $500 billion artificial intelligence infrastructure project led by OpenAI, while the grown-ups look on.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/musk_altman_stargate_ai/>
+
+---
+
+## Neolithic Farmers May Have Buried These Mysterious Stones to Bring Back the Sun After a Volcanic Eruption
+
+date: 2025-01-23, from: Smithsonian Magazine
+
+Using ice core samples, researchers linked a natural disaster with a trove of nearly 5,000-year-old artifacts discovered at an archaeological site in Denmark 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/neolithic-farmers-may-have-buried-these-mysterious-stones-to-bring-back-the-sun-after-a-volcanic-eruption-180985865/>
+
+---
+
+## Why Do Mammals Have Outer Ears? Scientists Are Getting Closer to Solving the Mystery
+
+date: 2025-01-23, from: Smithsonian Magazine
+
+Two new studies offer insights into the evolution and development of external ears, which appear in humans and other mammals but aren't found in reptiles, birds or amphibians 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/why-do-mammals-have-outer-ears-scientists-are-getting-closer-to-solving-the-mystery-180985884/>
+
+---
+
+## NASA Worm as Art
+
+date: 2025-01-23, from: NASA breaking news
+
+Museum of Modern Art Opens Exhibition Featuring NASA Worm The iconic NASA logotype, commonly known as the worm and designed by Bruce Blackburn and Richard Danne in 1976, made its premiere Tuesday, Jan. 23, 2025 at the Museum of Modern Art (MoMA) in New York as part of the museum&#8217;s new exhibition &#8220;Pirouette: Turning Points [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/museum-of-modern-art-exhibits-nasa-worm/>
+
+---
+
+## SonicWall flags critical bug likely exploited as zero-day, rolls out hotfix
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>Big organizations and governments are main users of these gateways</h4> <p>SonicWall is warning customers of a critical vulnerability that was potentially already exploited as a zero-day.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/sonicwall_critical_bug/>
+
+---
+
+## This Rare Gold Medal From the 1904 Olympics Sold for More Than $500,000
+
+date: 2025-01-23, from: Smithsonian Magazine
+
+The artifact, from the first Games held in the United States, reaped the third-highest price ever fetched for an Olympic medal at auction 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/rare-gold-medal-1904-olympics-sold-more-than-500000-180985877/>
+
+---
+
+## NASA Tests Air Traffic Surveillance Technology Using Its Pilatus PC-12 Aircraft
+
+date: 2025-01-23, from: NASA breaking news
+
+As air taxis, drones, and other innovative aircraft enter U.S. airspace, systems that communicate an aircraft’s location will be critical to ensure air traffic safety. The Federal Aviation Administration (FAA) requires aircraft to communicate their locations to other aircraft and air traffic control in real time using an Automatic Dependent Surveillance-Broadcast (ADS-B) system. NASA is [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/nasa-tests-air-traffic-surveillance-technology-using-its-pilatus-pc-12-aircraft/>
+
+---
+
+## The Jagged, Monstrous Function That Broke Calculus
+
+date: 2025-01-23, from: Quanta Magazine
+
+In the late 19th century, Karl Weierstrass invented a fractal-like function that was decried as nothing less than a “deplorable evil.” In time, it would transform the foundations of mathematics.            <p>The post <a href="https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/" target="_blank">The Jagged, Monstrous Function That Broke Calculus</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/>
+
+---
+
+## Meta's pay-or-consent model under fire from EU consumer group
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>Company &#39;strongly disagrees&#39; with law infringement allegations</h4> <p>Meta has again come under fire for its pay-or-consent model in the EU.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/metas_payorconsent_model_under_fire/>
+
+---
+
+## NASA Invests in Artemis Studies to Support Long-Term Lunar Exploration
+
+date: 2025-01-23, from: NASA breaking news
+
+NASA awarded new study contracts Thursday to help support life and work on the lunar surface. As part of the agency’s blueprint for deep space exploration to support the Artemis campaign, nine American companies in seven states are&#160;receiving awards. The Next Space Technologies for Exploration Partnerships&#160;Appendix R contracts will advance learning in managing everyday challenges [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invests-in-artemis-studies-to-support-long-term-lunar-exploration/>
+
+---
+
+## ChatGPT has a Thursday lie down
+
+date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+
+<h4>Generative AI needs a break, just like the rest of us, m&#39;kay?</h4> <p><strong>OUTAGE</strong>  Reactivate your brain. ChatGPT has gone down.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/23/chatgpt_has_a_thursday_lie/>
 
 ---
 
@@ -549,9 +1195,9 @@ date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
 
 ---
 
-## Former Amazon exec appointed as chair of UK's competition watchdog
+## Former Amazon exec appointed as boss of UK's competition watchdog
 
-date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+date: 2025-01-22, updated: 2025-01-23, from: The Register (UK I.T. News)
 
 <h4>Interim appointment after former head booted out for not being &#39;sufficiently focused on growth&#39;</h4> <p>The UK&#39;s Competition and Markets Authority (CMA) has a new chair after the sudden departure of the previous incumbent.…</p> 
 

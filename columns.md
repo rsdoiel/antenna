@@ -1,11 +1,454 @@
 ---
 title: columns
-updated: 2025-01-23 07:05:25
+updated: 2025-01-24 07:04:46
 ---
 
 # columns
 
-(date: 2025-01-23 07:05:25)
+(date: 2025-01-24 07:04:46)
+
+---
+
+## CaribouLite SDR HAT for SDR on a Raspberry Pi
+
+date: 2025-01-24, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">CaribouLite SDR HAT for SDR on a Raspberry Pi</span>
+
+            <p></p>
+
+<p>A couple years ago, after I heard about the <a href="https://www.crowdsupply.com/cariboulabs/cariboulite-rpi-hat">CaribouLite on CrowdSupply</a>, I pre-ordered one.</p>
+
+<p>I've dabbled in SDR with an <a href="https://amzn.to/3Ckxh5d">RTL-SDR v3</a> for a few years, even <a href="https://www.jeffgeerling.com/blog/2019/hospital-stay-and-mlb-blackouts-led-me-rtl-sdr-radio">using one with nrsc5 to listen to baseball games OTA</a> because of silly MLB blackout restrictions.</p>
+
+<p>But low-cost SDRs like the RTL-SDR v3 are receive-only, and have a limited frequency range, and lower quality RF filtering, so it can be frustrating if you're trying to work with lower-power RF... or trying to transmit at all!</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">January 24, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/cariboulite-sdr-hat-sdr-on-raspberry-pi>
+
+---
+
+##  Wikenigma is an encyclopedia of known unknowns. That is, a listing of... 
+
+date: 2025-01-24, updated: 2025-01-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046032-wikenigma-is-an-encyclope>
+
+---
+
+## Trump incites mob
+
+date: 2025-01-24, from: Dave Winer's Scripting News
+
+<p>I kept this screenshot assuming someday we might be asked to forget. Back when the NYT tried sometimes to report the news as it actually happened. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/01/24/trumpIncitesMobNYT.png"></center>Trump incites mob. Capitol evacuated. A day which will live in infamy.</div></p>
+<p>Objectively, January 6, 2021 was even more of a "day which will live in infamy" than the Japanese attack on <a href="https://www.nationalww2museum.org/war/topics/pearl-harbor-december-7-1941">Pearl Harbor</a> on December 7, 1941.
+It was more insidious because while Hawaii was an American territory, January 6 was an attack on the actual center of our government. Had the mob prevailed, the US would have been defeated, there and then. </p>
+<p>The Capitol police were our last line of defense, they received no help from military.
+</p>
+<p>The Supreme Court should count their blessings too, because their building is <a href="https://www.google.com/maps/dir/United+States+Capitol,+Washington,+DC+20004/Supreme+Court+of+the+United+States,+1+First+St+NE,+Washington,+DC+20543/@38.8904572,-77.0093201,992m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x89b7b82921a2cf17:0x482a3f7c10cf8c4!2m2!1d-77.0090505!2d38.8899389!1m5!1m1!1s0x89b7b828d32c69bb:0xffb704728ee19592!2m2!1d-77.0044398!2d38.8906424!3e2?entry=ttu&g_ep=EgoyMDI1MDEyMS4wIKXMDSoASAFQAw%3D%3D">just behind</a> the Capitol. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/24/140444.html?title=trumpIncitesMob>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-24, from: Dave Winer's Scripting News)
+
+BTW, Bluesky, for me, is already a greater flow generator than Twitter ever was. My <a href="https://bsky.app/profile/scripting.com/post/3lgibxvpz3k2x">post</a> about never forgetting Trump's coup attempt has already been RT'd 2.8K times, about three hours after it was posted. In all my years of using the <a href="https://daytona.scripting.com/search?q=%22social%20web%22">social web</a> I've never gotten that much attention. I have 11.7K followers, far fewer than I have on Twitter. 
+
+<br> 
+
+<http://scripting.com/2025/01/24.html#a140208>
+
+---
+
+##  Quietly marveling at the diverse array of ceramic work on view this... 
+
+date: 2025-01-24, updated: 2025-01-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046047-quietly-marveling-at-the->
+
+---
+
+## WINE 10 is still not an emulator, but Windows apps won't know the difference
+
+date: 2025-01-24, updated: 2025-01-24, from: Liam Proven's articles at the Register
+
+<h4>New double-digit vintage goes well with all sorts of things</h4>
+      <p>After 32 years of maturation, even now, WINE is Not an Emulator, but it can work alongside them to run Windows apps on Arm Linux.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/01/24/wine_turns_10/>
+
+---
+
+## 2025-01-23 The bots are at it again
+
+date: 2025-01-24, from: Alex Schroeder's Blog
+
+<h1 id="2025-01-23-the-bots-are-at-it-again">2025-01-23 The bots are at it again</h1>
+
+<p>For a while I just appended new graphs and data to <a href="2024-11-25-emacs-china">the last post on this topic</a>.
+This time around I feel it&rsquo;s worse. There are so many bots that I can&rsquo;t even do the WHOIS lookup any more.
+Or perhaps I just managed to block so few that I never realized how many more there were.
+In any case, now that I&rsquo;m speeding things up, there are more bots to block.</p>
+
+<p><strong>If you want to partake in unsupervised banning with no feedback, no due process, just automatic ban-hammers, take a look at this script full of firewall commands.</strong></p>
+
+<p>It needs ipset and iptables access: <a href="/admin/ban-cidr">ban-cidr</a>.</p>
+
+<p>I blocked another 4669 networks.</p>
+
+<p>What I did was get the most recent 10000 lines from the Apache access log, filter out all the requests for my GoToSocial instance (hoping that it has good defences!?), grepping for the magic word, <a href="/admin/network-lookup-lean">doing reverse lookups</a> using <code>asn.routeviews.org</code> and banning them all. Looking at a summary, there were two networks with 6 requests, 6 networks with 5 requests, etc. Of the 4669 networks banned, there were 3985 networks with a single request only.</p>
+
+<p>That is to say, the network lookup is not really all that efficient because the requests are so incredibly diverse. There are essentially no individual IP numbers to ban because there are no repeat offenders, and even with that great ban-hammer of mine, this wouldn&rsquo;t help against the next 85% of requests because they are all unique.</p>
+
+<p>Now, I was already banning about 10,000 networks yesterday, and their success rate is still 85%! So that tells you that even this little jousting I&rsquo;m doing is tilting at windmills because these bots are turning the web to shit.</p>
+
+<p>Summing the numbers I see that I looked at 10,000 requests, discarded all the hits for my GoToSocial instance and still had 5560 bot hits.</p>
+
+<p>Every website everywhere is paying the distributed price for these leeches to keep their projects running. Of course, I could rent a bigger machine, run a bigger cache, spending more money and more time for their scam.</p>
+
+<p>I keep shouting &ldquo;CO₂ for the CO₂ god!&rdquo; and that&rsquo;s part of it, yes… Sadly!</p>
+
+<p>Oh, and I could not post this on fedi because my GoToSocial instance is unable to cope and takes a very long time to recover from the onslaught. While I waited, I banned another 2184 networks. And I kept doing it.</p>
+
+<p>Fuck this shit.</p>
+
+<p>Fuck this whole generation.</p>
+
+<p>Time passes.</p>
+
+<p>Let me count how many entries I added today.</p>
+
+<pre><code>awk 'BEGIN {c=0; n=0} /^# 2025-01-23/ {c=1} c&amp;&amp;/^ipset/ {n++} END {print n}' \
+  bin/admin/ban-cidr
+14497
+</code></pre>
+
+<p>I think it&rsquo;s about time to add some fail2ban code.
+If only I knew how.
+More cost they are putting on every single site operator and service provider out there.</p>
+
+<p>Right now load is below 4, so that&rsquo;s not too bad for 2 cores.
+The sites are still sluggish. I some sort of congestion issue.</p>
+
+<p><img loading="lazy" src="2025-01-23-bots-devouring-the-web-1.jpg" alt="Netstats showing connections established spiking." /></p>
+
+<p><a class="tag" href="/search/?q=%23ButlerianJihad">#ButlerianJihad</a></p>
+
+<p><strong>2025-01-24</strong>. What I did all day, yesterday:</p>
+
+<pre><code># prefix with a timestamp
+date; tail -n 2000 /var/log/apache2/access.log \
+ | grep -v ^social \
+ | grep &quot;rcidonly&quot; \
+ | bin/admin/network-lookup-lean &gt; result.log
+# count
+grep ipset result.log|wc -l
+# add
+grep ipset result.log|sh
+# document
+grep ipset result.log&gt;&gt;bin/admin/ban-cidr
+</code></pre>
+
+<p>But today:</p>
+
+<p><img loading="lazy" src="2025-01-23-bots-devouring-the-web-2.jpg" alt="After midnight, load climbed up to 40 and stayed up there" /></p>
+
+<p>I think made a mistake, yesterday around midnight. I rebooted the server and didn&rsquo;t check whether all the firewall rules were reinstalled. I thought the packages iptables-persistent and/or netfilter-persistent took care of that but I was missing something important:</p>
+
+<pre><code># persist across reboots
+iptables-save &gt; /etc/iptables/rules.v4
+ip6tables-save &gt; /etc/iptables/rules.v6
+</code></pre>
+
+<p>I bet I had not run this in a very long time and therefore the firewall rules were only partially reinstated. I think the graphs above illustrates what happens to my server without the firewall rules.</p>
+
+<p>Grrr.</p>
+
+<p>They said we&rsquo;re running out of IPv4 numbers but now that I&rsquo;m trying to block bots descending like flesh flies on baby bison, it turns out that there are still thousands of networks that need blocking. Holy cow may Baal eat the eyes of all the engineers partaking in this scouring of the web; may all the project managers rot and lose their teeth, their nails, their hair and their sense of smell; let them all suffer these curses until they repent, until they mend their ways and help undo the damage they are wreaking.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-01-23-bots-devouring-the-web>
+
+---
+
+## A view from north of the border
+
+date: 2025-01-24, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/a-view-from-north-of-the-border>
+
+---
+
+## January 23, 2025 
+
+date: 2025-01-24, from: Heather Cox Richardson blog
+
+Last night, in an interview with host Sean Hannity on the Fox News Channel, President Donald Trump tried to explain away his blanket pardons for the January 6 rioters, calling the instances of violence against police officers &#8220;very minor incidents.&#8221; 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-23-2025>
+
+---
+
+##  How Daft Punk Made The Drums For &#8220;Starboy&#8221; By The Weeknd. They... 
+
+date: 2025-01-24, updated: 2025-01-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046037-how-daft-punk-made-the>
+
+---
+
+## Friday 24 January, 2025
+
+date: 2025-01-24, from: John Naughton's online diary
+
+Why I buy Private Eye Quote of the Day “We look at the present through a rear view mirror. We march backwards into the future.” Marshall McLuhan Musical alternative to the morning’s radio news Randy Newman &#124; You’ve Got a &#8230; <a href="https://memex.naughtons.org/friday-24-january-2025/40361/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-24-january-2025/40361/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-01-24, from: Miguel de Icaza Mastondon feed)
+
+<p>Poor man’s chicken tajine.  Paired with a glsss of dollar store wine-in-a-box.</p><p>Recipe in case someone wants it: <a href="https://www.onceuponachef.com/recipes/moroccan-chicken-tagine.html" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">onceuponachef.com/recipes/moro</span><span class="invisible">ccan-chicken-tagine.html</span></a> (I skipped the carrots and the greens):</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113880501502895190>
+
+---
+
+##  Rick Steves, Always on the Go 
+
+date: 2025-01-24, updated: 2025-01-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/rick-steves-always-on-the-go>
+
+---
+
+## Don’t Miss Footnote 4
+
+date: 2025-01-23, updated: 2025-01-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/2025/01/siri_is_super_dumb_and_getting_dumber#fnr4-2025-01-23>
+
+---
+
+##  Tomorrow, Jan 24th: a special 24-hour livestream of the &#8220;groundbreaking&#8221; generative documentary... 
+
+date: 2025-01-23, updated: 2025-01-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046055-tomorrow-jan-24th-a-speci>
+
+---
+
+##  The Evolution of Bugs Bunny Over 80 Years 
+
+date: 2025-01-23, updated: 2025-01-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/the-evolution-of-bugs-bunny-over-80-years>
+
+---
+
+## ★ Siri Is Super Dumb and Getting Dumber
+
+date: 2025-01-23, updated: 2025-01-23, from: Daring Fireball
+
+Siri with Apple Intelligence gives confident but embarrasingly wrong answers to sports trivia questions, both famous (Super Bowls) and obscure (North Dakota high school hoops). 
+
+<br> 
+
+<https://daringfireball.net/2025/01/siri_is_super_dumb_and_getting_dumber>
+
+---
+
+##  A calque is a word that has been loaned *and translated* from... 
+
+date: 2025-01-23, updated: 2025-01-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046033-a-calque-is-a-word>
+
+---
+
+##  The Moon is on this year&#8217;s list of at-risk sites compiled by... 
+
+date: 2025-01-23, updated: 2025-01-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046041-the-moon-is-on-this>
+
+---
+
+##  Two &#8220;Secret&#8221; Mini-Seasons of The X-Files 
+
+date: 2025-01-23, updated: 2025-01-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/two-secret-mini-seasons-of-the-x-files>
+
+---
+
+## Launching Version 14.2 of Wolfram Language & Mathematica: Big Data Meets Computation & AI
+
+date: 2025-01-23, from: Stephen Wolfram blog
+
+<span class="thumbnail"><img width="128" height="108" src="https://content.wolfram.com/sites/43/2025/01/icon-14.2.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></span>The Drumbeat of Releases Continues&#8230; Notebook Assistant Chat inside Any Notebook Bring Us Your Gigabytes! Introducing Tabular Manipulating Data in Tabular Getting Data into Tabular Cleaning Data for Tabular The Structure of Tabular Tabular Everywhere Algebra with Symbolic Arrays Language Tune-Ups Brightening Our Colors; Spiffing Up for 2025 LLM Streamlining &#038; Streaming Streamlining Parallel Computation: [&#8230;] 
+
+<br><video crossorigin="anonymous" controls="controls" width="250">
+<source type="video/mp4" src="https://content.wolfram.com/sites/43/2025/01/sw012225followthatimg1a.mp4"></source>
+	<source type="video/mp4" src="https://content.wolfram.com/sites/43/2025/01/sw012225followthatimg3a.mp4"></source>
+	<source type="video/mp4" src="https://content.wolfram.com/sites/43/2025/01/sw012225followthatimg6a.mp4"></source>
+</video> <a href="https://content.wolfram.com/sites/43/2025/01/sw012225followthatimg1a.mp4" target="_blank">download video/mp4</a> 
+
+<https://writings.stephenwolfram.com/2025/01/launching-version-14-2-of-wolfram-language-mathematica-big-data-meets-computation-ai/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-01-23, from: Miguel de Icaza Mastondon feed)
+
+<p>I for one, welcome our new Chinese open source AI overlords:</p><p><a href="https://www.deepseek.com" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="">deepseek.com</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113879189530891228>
+
+---
+
+##  A peek inside Robert Caro&#8217;s home library, hidden shelves and all. His... 
+
+date: 2025-01-23, updated: 2025-01-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046049-a-peek-inside-robert-caro>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-23, from: Dave Winer's Scripting News)
+
+Basically we have to <a href="https://bsky.app/profile/scripting.com/post/3lggfu2z3fs2g">bring politics to the people</a>. 
+
+<br> 
+
+<http://scripting.com/2025/01/23.html#a173049>
+
+---
+
+## January 22, 2025
+
+date: 2025-01-23, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155551243/84a79a37444c0eff93327b5a8fc62882.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155551243/84a79a37444c0eff93327b5a8fc62882.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-22-2025-485>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-23, from: Dave Winer's Scripting News)
+
+The <a href="https://mastodon.social/@stefan@stefanbohacek.online/113877779487496063">W3C should've</a> gotten behind <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> long before they endorsed ActivityPub. They're controlled by big companies who are truly scared of interop, explains why most of their proposed standards go nowhere. BTW, I figure if <a href="https://daytona.scripting.com/search?q=matt%20mullenweg">Matt</a> can openly discuss what's undermining WordPress as an open standard (which it is) no reason I can't tell the truth why the <a href="https://daytona.scripting.com/search?q=%22social%20web%22">social web</a> is not even a web. It's all a big corporate con. Everywhere you look, ripping us off and selling us out. 
+
+<br> 
+
+<http://scripting.com/2025/01/23.html#a171741>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-23, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/01/23/aoc.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">To answer <a href="https://bsky.app/profile/mcuban.bsky.social/post/3lgbutbllnk2b">Mark Cuban's question</a> of what could we do now to make things better. I forgot that I have two ready-made answers. First, let's get the Democrats or whatever its successor is called, on the air 365 days a year, every year, not just in election years, and have it do many things other than raise money to buy ads. We need to always be communicating with each other not just in season. You could see we had a problem when Obama's campaign website, which should have become whitehouse.gov was turned into a stupid feature of the site where people could petition their government. It said to voters, thanks we'll take it from here. We all saw that as putting us in our place. We must be invoved in governing, not just electing. Second, for podcasts and what's left of journalism, it should all move out out of the northeast and into the country. The hosts should be in St Louis, Dallas, Detroit, Atlanta, Seattle, Phoenix even Memphis, Miami and Charleston. That would change the focus not only symbolically, but they could insist that guests go there to be interviewed. Change the meaning of flyover country. People would feel different about the country and that would come through. Democrats tend to cater their ideas to people in the Northeast. This part of what Repubs say is very true. They do the same thing, only worse, but they are smart about pretending they don't. Third, amplify AOC. She's the leader we need. The Dems are too scared of Republican criticism. Stop worrying so much. If they're complaining that means it's working. Her interview on Jon Stewart's <a href="https://www.iheart.com/podcast/867-the-weekly-show-with-jon-s-86469341/episode/jon-aoc-260531325/">podcast</a> this week is wonderful. 
+
+<br> 
+
+<http://scripting.com/2025/01/23.html#a164629>
+
+---
+
+##  Building a Medieval Castle From Scratch 
+
+date: 2025-01-23, updated: 2025-01-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/building-a-castle-from-scratch>
+
+---
+
+##  Instances of haptic nostalgia (&#8220;the poignant memory of the physicality of an... 
+
+date: 2025-01-23, updated: 2025-01-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046044-instances-of-haptic-nosta>
 
 ---
 
@@ -153,7 +596,7 @@ It's a no-blogging Wednesday, will return tomorrow.
 
 date: 2025-01-23, from: Doc Searls (at Harvard), New Old Blog
 
-Twenty-fourth in the News Commons series. 8:10pm—The LA Times reports that the I-5 is open again. (That link goes to their ongoing coverage.) Here is what CAL FIRE says about current fires and their containment: Note that the Palisades and Eaton Fires are still not fully contained, though we haven&#8217;t been worried about them in [&#8230;] 
+Twenty-fourth in the News Commons series. 7:35 am January 23, 2024—It&#8217;s morning now. The Hughes Fire is 17% contained but no longer interesting. The Sepulveda Fire broke out last night along the 405 freeway. It stopped at forty acres, and doesn&#8217;t matter much now. Here&#8217;s the path of one fire helicopter shuttling between the two [&#8230;] 
 
 <br> 
 
@@ -315,7 +758,7 @@ date: 2025-01-22, updated: 2025-01-22, from: Jason Kittke's blog
 
 ## Next Week’s iOS 18.3 and MacOS 15.3 Updates Will Enable Apple Intelligence During Onboarding
 
-date: 2025-01-22, updated: 2025-01-22, from: Daring Fireball
+date: 2025-01-22, updated: 2025-01-23, from: Daring Fireball
 
  
 
@@ -1168,7 +1611,7 @@ date: 2025-01-20, from: Heather Cox Richardson blog
 
 **@Dave Winer's Scripting News** (date: 2025-01-20, from: Dave Winer's Scripting News)
 
-BTW, actually the term <a href="https://oursocialweb.org/">social web</a> is probably too big a compromise. The "web" part is the only part that's imho useful. The sad part is that "social" means "we removed most of the features of the web." Why? Some vague sense that people would write too much if given the space. Or link too much. Or edit too much. Or be too emphatic. It's worse than Disneyfied -- at least at Disneyland you get actors, and color and rides, and bland food with tons of sugar and fat. But there is some fun and nutrition. In the social web, it's just memes and slogans. Not even much room for a metaphor. There's so much more to say about being human. 
+BTW, actually the term <a href="https://daytona.scripting.com/search?q=%22social%20web%22">social web</a> is probably too big a compromise. The "web" part is the only part that's imho useful. The sad part is that "social" means "we removed most of the features of the web." Why? Some vague sense that people would write too much if given the space. Or link too much. Or edit too much. Or be too emphatic. It's worse than Disneyfied -- at least at Disneyland you get actors, and color and rides, and bland food with tons of sugar and fat. But there is some fun and nutrition. In the social web, it's just memes and slogans. Not even much room for a metaphor. There's so much more to say about being human. 
 
 <br> 
 

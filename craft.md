@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-01-23 07:05:29
+updated: 2025-01-24 07:04:49
 ---
 
 # craft
 
-(date: 2025-01-23 07:05:29)
+(date: 2025-01-24 07:04:49)
+
+---
+
+## The Beauty That is Ajrakh — In a Shawl — Natural Dyes on Organic Cotton — The Best of Artisan Cloth
+
+date: 2025-01-23, updated: 2025-01-23, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2025/01/the-beauty-that-is-ajrakh-in-shawl.html>
 
 ---
 

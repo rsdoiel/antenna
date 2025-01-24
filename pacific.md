@@ -1,11 +1,604 @@
 ---
 title: pacific
-updated: 2025-01-23 07:05:24
+updated: 2025-01-24 07:04:45
 ---
 
 # pacific
 
-(date: 2025-01-23 07:05:24)
+(date: 2025-01-24 07:04:45)
+
+---
+
+## Judge temporarily blocks Trump’s plan to end birthright citizenship
+
+date: 2025-01-24, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge Thursday temporarily blocked President Donald Trump&#8217;s executive order to end automatic citizenship for babies born on U.S. soil, dealing the president his first setback as he attempts to upend the nation&#8217;s immigration laws and reverse decades of precedent.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/24/nation-world-news/judge-temporarily-blocks-trumps-plan-to-end-birthright-citizenship/>
+
+---
+
+## House GOP floats Medicaid cuts and more to finance Trump’s huge agenda
+
+date: 2025-01-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Top Republicans are passing around an extensive menu of ideas to cover the cost of a massive tax cut and immigration crackdown bill. They could create a 10% tariff on all imports, bringing in an estimated $1.9 trillion. They could establish new work requirements for Medicaid recipients, bringing in $100 billion in savings. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/24/nation-world-news/house-gop-floats-medicaid-cuts-and-more-to-finance-trumps-huge-agenda/>
+
+---
+
+## Bills seek to legalize betting on pro sports
+
+date: 2025-01-24, from: Hawaii Tribune Harold
+
+
+				<p>At least two bills have been introduced in the state Senate with the intent of cashing in by legalizing limited forms of sports wagering &#8212; which is still illegal in Hawaii, despite numerous attempts that have gone bust in recent years.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/24/hawaii-news/bills-seek-to-legalize-betting-on-pro-sports/>
+
+---
+
+## Green’s bills go after sellers of fireworks that maim, kill
+
+date: 2025-01-24, from: Hawaii Tribune Harold
+
+
+				<p>Anyone that sells an illegal firework that injures or kills someone &#8212; even if the seller wasn&#8217;t around or lit it &#8212; could be charged with a Class B felony and face 10 years in prison and a $10,000 fine, under bills introduced by Gov. Josh Green on Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/24/hawaii-news/greens-bills-go-after-sellers-of-fireworks-that-maim-kill/>
+
+---
+
+## Trump pulls the military back into political and culture wars
+
+date: 2025-01-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; In his early-days blitz, President Donald Trump fired the first woman to ever lead a military service branch, signed an order to send active-duty U.S. troops to the border and said he was reinstating, with back pay, former service members who had refused to take COVID-19 vaccinations, a breach of military health rules.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/24/nation-world-news/trump-pulls-the-military-back-into-political-and-culture-wars/>
+
+---
+
+## Trump Issues Executive Order to Support the Growth of Cryptocurrencies
+
+date: 2025-01-24, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump on Thursday issued an executive order to support the growth of the cryptocurrency industry, calling for a new plan to regulate a business in which he has substantial personal investments.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/24/nation-world-news/trump-issues-executive-order-to-support-the-growth-of-cryptocurrencies/>
+
+---
+
+## Rebels Backed by Rwanda Close In on Major City in Congo
+
+date: 2025-01-24, from: Hawaii Tribune Harold
+
+
+				<p>DAKAR, Senegal &#8212; Rebels in Congo have surrounded the eastern city of Goma, in one of the sharpest escalations in years of a conflict that has pitted the Central African country against its neighbor Rwanda.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/24/nation-world-news/rebels-backed-by-rwanda-close-in-on-major-city-in-congo/>
+
+---
+
+## Netflix musical ‘Emilia Perez’ piles up 13 Oscar nominations
+
+date: 2025-01-24, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; The Netflix movie musical &#8220;Emilia Perez&#8221; led the Academy Award nominations on Thursday, giving the streaming service another shot at its first best-picture trophy, followed by historical drama &#8220;The Brutalist&#8221; and box-office smash &#8220;Wicked.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/24/nation-world-news/netflix-musical-emilia-perez-piles-up-13-oscar-nominations/>
+
+---
+
+## Massive new Los Angeles-area fire balloons as winds pick up
+
+date: 2025-01-24, from: Hawaii Tribune Harold
+
+
+				<p>CASTAIC, California &#8212; Powerful winds and bone-dry conditions could pose a challenge to firefighters battling new wildfires in southern California on Thursday, including a blaze that swelled over the past day and forced tens of thousands of evacuations north of Los Angeles.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/24/nation-world-news/massive-new-los-angeles-area-fire-balloons-as-winds-pick-up/>
+
+---
+
+## Alaska Air’s profit rises despite costly acquisition
+
+date: 2025-01-24, from: Hawaii Tribune Harold
+
+
+				<p>Alaska Air Group posted stronger-than-expected earnings Wednesday in its first full quarter report filed since its merger with Hawaiian Airlines, which it anticipates will help generate $1 billion in additional pretax profit over the next three years.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/24/hawaii-news/alaska-airs-profit-rises-despite-costly-acquisition/>
+
+---
+
+## Purdue, Sackler family reach new $7.4 billion opioid accord
+
+date: 2025-01-24, from: Hawaii Tribune Harold
+
+
+				<p>Bankrupt Purdue Pharma LP and its owners have agreed to pay $7.4 billion to a group of U.S. states and other parties to settle long-running litigation over OxyContin&#8217;s role in the deadly opioid epidemic.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/24/nation-world-news/purdue-sackler-family-reach-new-7-4-billion-opioid-accord/>
+
+---
+
+## Two arrested for smuggling Meth into Koror jail;
+
+date: 2025-01-24, from: Island Times
+
+<p>Escapee Recaptured KOROR, Palau — Two individuals were arrested Sunday for attempting to smuggle methamphetamine into Koror Jail, with one suspect briefly escaping custody before being recaptured the same day. Jennifer Rubeang and Olbiil Ngirailild were caught on Jan. 19, 2025, trying to deliver meth to an inmate, according to police. Authorities allege that Ngirailild [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/two-arrested-for-smuggling-meth-into-koror-jail/">Two arrested for smuggling Meth into Koror jail;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/two-arrested-for-smuggling-meth-into-koror-jail/>
+
+---
+
+## Boosting Healthcare worker morale tops agenda for new MHHS Head
+
+date: 2025-01-24, from: Island Times
+
+<figure><img width="1010" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Vice-President-Oilouch-edited.jpg?fit=1010%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Vice-President-Oilouch-edited.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Vice-President-Oilouch-edited.jpg?resize=296%2C300&amp;ssl=1 296w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Vice-President-Oilouch-edited.jpg?resize=1010%2C1024&amp;ssl=1 1010w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Vice-President-Oilouch-edited.jpg?resize=768%2C778&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Vice-President-Oilouch-edited.jpg?resize=1200%2C1216&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Vice-President-Oilouch-edited.jpg?resize=400%2C405&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Vice-President-Oilouch-edited.jpg?resize=706%2C716&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Vice-President-Oilouch-edited.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Vice-President-Oilouch-edited.jpg?fit=1010%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75213" data-permalink="https://islandtimes.org/boosting-healthcare-worker-morale-tops-agenda-for-new-mhhs-head/vice-president-oilouch-edited/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Vice-President-Oilouch-edited.jpg?fit=1249%2C1266&amp;ssl=1" data-orig-size="1249,1266" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;8&quot;,&quot;credit&quot;:&quot;RICHARD BROOKS&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark III&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1737027671&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;38&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.008&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Vice President Oilouch edited" data-image-description="" data-image-caption="&lt;p&gt;Vice President Raynold “Arnold” Oilouch at the 12th Government&lt;br /&gt;
+Inauguration (Photo credit: TMC Palau)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Vice-President-Oilouch-edited.jpg?fit=296%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Vice-President-Oilouch-edited.jpg?fit=780%2C791&amp;ssl=1" /></figure>
+<p>Improving the morale of healthcare workers is a top priority for Vice President Raynold “Arnold” Oilouch after officially taking over leadership of the Ministry of Health &#38; Human Services (MHHS) on January 22. “There are ongoing priorities of the Ministry of Health, such as ensuring the delivery of medical services to the public. However, based [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/boosting-healthcare-worker-morale-tops-agenda-for-new-mhhs-head/">Boosting Healthcare worker morale tops agenda for new MHHS Head</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/boosting-healthcare-worker-morale-tops-agenda-for-new-mhhs-head/>
+
+---
+
+## Corporate Registry launches Online Platform
+
+date: 2025-01-24, from: Island Times
+
+<figure><img width="1024" height="641" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_1709.jpg?fit=1024%2C641&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_1709.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_1709.jpg?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_1709.jpg?resize=1024%2C641&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_1709.jpg?resize=768%2C481&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_1709.jpg?resize=1200%2C751&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_1709.jpg?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_1709.jpg?resize=706%2C442&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_1709.jpg?fit=1024%2C641&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75210" data-permalink="https://islandtimes.org/corporate-registry-launches-online-platform/img_1709/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_1709.jpg?fit=1249%2C782&amp;ssl=1" data-orig-size="1249,782" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_1709" data-image-description="" data-image-caption="&lt;p&gt;Members of the Financial Institutions Commission and staff during&lt;br /&gt;
+soft launch of the online Corporate Registry on January 20, 2025.&lt;br /&gt;
+(Photo supplied)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_1709.jpg?fit=300%2C188&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG_1709.jpg?fit=780%2C488&amp;ssl=1" /></figure>
+<p>KOROR, Palau (Jan. 13, 2025) — The responsibilities of the Registrar of Corporations is now with the Financial Institutions Commission (FIB) after the launch of its online platform on Jan. 20, 2025. The move from the Office of the Attorney General to FIC is mandated under Executive Order No. 477. The transfer includes oversight of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/corporate-registry-launches-online-platform/">Corporate Registry launches Online Platform</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/corporate-registry-launches-online-platform/>
+
+---
+
+## House Committee assignments reflect disparities among Delegates
+
+date: 2025-01-24, from: Island Times
+
+<p>By: Eustoria Marie Borja NGERULMUD (Jan. 16, 2025) — The Twelfth Olbiil Era Kelulau (OEK) has finalized the committee assignments for the House of Delegates (HOD), unveiling a framework that will steer Palau’s legislative priorities. The assignments reveal stark contrasts in participation, with one delegate excluded from all committees and four others holding no leadership [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/house-committee-assignments-reflect-disparities-among-delegates/">House Committee assignments reflect disparities among Delegates</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/house-committee-assignments-reflect-disparities-among-delegates/>
+
+---
+
+## Palau’s hi-tech mission to preserve Pacific’s oldest monuments
+
+date: 2025-01-24, from: Island Times
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Dense-jungle-surrounds-.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Dense-jungle-surrounds-.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Dense-jungle-surrounds-.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Dense-jungle-surrounds-.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Dense-jungle-surrounds-.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Dense-jungle-surrounds-.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Dense-jungle-surrounds-.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Dense-jungle-surrounds-.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Dense-jungle-surrounds-.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75203" data-permalink="https://islandtimes.org/palaus-hi-tech-mission-to-preserve-pacifics-oldest-monuments/dense-jungle-surrounds/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Dense-jungle-surrounds-.jpg?fit=1249%2C703&amp;ssl=1" data-orig-size="1249,703" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Dense jungle surrounds" data-image-description="" data-image-caption="&lt;p&gt;Dense jungle surrounds the terraced landscape in Aimeliik state on Nov. 29, 2024. [Rivers Reklai/BenarNews]&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Dense-jungle-surrounds-.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Dense-jungle-surrounds-.jpg?fit=780%2C439&amp;ssl=1" /></figure>
+<p>2,400-year-old earthworks revealed as predating stone moai statues of Rapa Nui and megalithic Nan Madol in Micronesia. Harry Pearl/Benar NewsAimeliik, Palau- Palauan tourism official Lelly Obakerbau shakes her head and motions at the encroaching jungle that threatens to reclaim an ancient and largely unknown Pacific archaeological site. “If we don’t keep this clean, the layers [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-hi-tech-mission-to-preserve-pacifics-oldest-monuments/">Palau’s hi-tech mission to preserve Pacific’s oldest monuments</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palaus-hi-tech-mission-to-preserve-pacifics-oldest-monuments/>
+
+---
+
+## 2025 Taiwan MOFA & ICDF Scholarship is now open
+
+date: 2025-01-24, from: Island Times
+
+<p>The Palau National Scholarship Board (PNSB) is pleased to announce that the 2025 Taiwan Ministry of Foreign Affairs (MOFA) and International Cooperation and Development Fund (ICDF) scholarships are now open for applications. The MOFA scholarship offers opportunities for undergraduate, graduate, and doctoral degree programs, while the ICDF scholarship is available exclusively for graduate and doctoral [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/2025-taiwan-mofa-icdf-scholarship-is-now-open/">2025 Taiwan MOFA &amp; ICDF Scholarship is now open</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/2025-taiwan-mofa-icdf-scholarship-is-now-open/>
+
+---
+
+## KSG partners with Island Time crew to enhance organizational capacity and  resilience
+
+date: 2025-01-24, from: Island Times
+
+<figure><img width="1024" height="707" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Island-Time-Crew-Contract-Signing-Photo-01.jpg?fit=1024%2C707&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Island-Time-Crew-Contract-Signing-Photo-01.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Island-Time-Crew-Contract-Signing-Photo-01.jpg?resize=300%2C207&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Island-Time-Crew-Contract-Signing-Photo-01.jpg?resize=1024%2C707&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Island-Time-Crew-Contract-Signing-Photo-01.jpg?resize=768%2C530&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Island-Time-Crew-Contract-Signing-Photo-01.jpg?resize=1200%2C828&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Island-Time-Crew-Contract-Signing-Photo-01.jpg?resize=400%2C276&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Island-Time-Crew-Contract-Signing-Photo-01.jpg?resize=706%2C487&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Island-Time-Crew-Contract-Signing-Photo-01.jpg?fit=1024%2C707&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75194" data-permalink="https://islandtimes.org/ksg-partners-with-island-time-crew-to-enhance-organizational-capacity-and-resilience/island-time-crew-contract-signing-photo-01/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Island-Time-Crew-Contract-Signing-Photo-01.jpg?fit=1249%2C862&amp;ssl=1" data-orig-size="1249,862" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Island Time Crew Contract Signing Photo 01" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Island-Time-Crew-Contract-Signing-Photo-01.jpg?fit=300%2C207&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Island-Time-Crew-Contract-Signing-Photo-01.jpg?fit=780%2C539&amp;ssl=1" /></figure>
+<p>Koror, Palau – January 15, 2024 – The Koror State Government continues its Resilient Reef Initiative efforts by signing a collaborative contract with the Island Time Crew to enhance and strengthen its organizational capacity as part of its Adaptive Management project. Under the directive of Governor Rudimch and the RISL-RRI Steering Committee that consists of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ksg-partners-with-island-time-crew-to-enhance-organizational-capacity-and-resilience/">KSG partners with Island Time crew to enhance organizational capacity and  resilience</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ksg-partners-with-island-time-crew-to-enhance-organizational-capacity-and-resilience/>
+
+---
+
+## Winner joins PICRC as Research Assistant
+
+date: 2025-01-24, from: Island Times
+
+<figure><img width="600" height="684" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/WatsonWinner.jpg?fit=600%2C684&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/WatsonWinner.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/WatsonWinner.jpg?resize=263%2C300&amp;ssl=1 263w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/WatsonWinner.jpg?resize=400%2C456&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/WatsonWinner.jpg?fit=600%2C684&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75191" data-permalink="https://islandtimes.org/winner-joins-picrc-as-research-assistant/watsonwinner/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/WatsonWinner.jpg?fit=600%2C684&amp;ssl=1" data-orig-size="600,684" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WatsonWinner" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/WatsonWinner.jpg?fit=263%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/WatsonWinner.jpg?fit=600%2C684&amp;ssl=1" /></figure>
+<p>The Palau International Coral Reef Center (PICRC) is proud to introduce Watson N. Winner, from Peleliu, as the newest member of its research team. After graduating from Okkodo High School in Guam, Watson gained diverse work experience as a driver assistant, baggage handler, and vehicle mechanic in various locations across the United States. His journey [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/winner-joins-picrc-as-research-assistant/">Winner joins PICRC as Research Assistant</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/winner-joins-picrc-as-research-assistant/>
+
+---
+
+## Chairperson of Japan-Palau Parliamentary Friendship League visited Palau for the Inauguration ceremony
+
+date: 2025-01-24, from: Island Times
+
+<figure><img width="1024" height="704" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/japan-palau.jpg?fit=1024%2C704&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/japan-palau.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/japan-palau.jpg?resize=300%2C206&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/japan-palau.jpg?resize=1024%2C704&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/japan-palau.jpg?resize=768%2C528&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/japan-palau.jpg?resize=1200%2C825&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/japan-palau.jpg?resize=400%2C275&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/japan-palau.jpg?resize=706%2C486&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/japan-palau.jpg?fit=1024%2C704&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75188" data-permalink="https://islandtimes.org/chairperson-of-japan-palau-parliamentary-friendship-league-visited-palau-for-the-inauguration-ceremony/japan-palau-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/japan-palau.jpg?fit=1249%2C859&amp;ssl=1" data-orig-size="1249,859" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="japan palau" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/japan-palau.jpg?fit=300%2C206&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/japan-palau.jpg?fit=780%2C536&amp;ssl=1" /></figure>
+<p>The Embassy of Japan in Palau is pleased to share the highlights of the visit by Hon. TSUCHIYA Shinako, member of the House of Representatives, to Palau on the occasion of the 12th Constitutional Government Inauguration Ceremony held on January 16, 2025. As Hon. Tsuchiya assumed a position of the Chairperson of the Japan-Palau Parliamentary [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/chairperson-of-japan-palau-parliamentary-friendship-league-visited-palau-for-the-inauguration-ceremony/">Chairperson of Japan-Palau Parliamentary Friendship League visited Palau for the Inauguration ceremony</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/chairperson-of-japan-palau-parliamentary-friendship-league-visited-palau-for-the-inauguration-ceremony/>
+
+---
+
+## Mending the Line
+
+date: 2025-01-24, from: Island Times
+
+<figure><img width="600" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?resize=400%2C378&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="59961" data-permalink="https://islandtimes.org/raumatic-grief/womens-corner-1-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" data-orig-size="600,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" /></figure>
+<p>One of my favorite movies is Mending the Line. The storyline is good but what caught my attention was the opening scene.&#160; Oh! And the music is exquisite. It is extremely beautiful and of exceptional quality. An old man fly fishing in the familiar scene from A River Runs Through It.&#160; Incredbly beautiful mountains and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/mending-the-line/">Mending the Line</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/mending-the-line/>
+
+---
+
+## PNG reaffirms ties with Palau
+
+date: 2025-01-24, from: Island Times
+
+<p>PORT MORESBY/KOROR (POST COURIER) &#8212; Papua New Guinea and Palau Governments will see a boost in fisheries cooperation, tourism connectivity, cultural connections and development partnerships. Prime Minister James Marape returned last Friday from Palau highlighting a very successful meeting with Palau leaders and Papua New Guineans working in that country. Marape returned after attending the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/png-reaffirms-ties-with-palau/">PNG reaffirms ties with Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/png-reaffirms-ties-with-palau/>
+
+---
+
+## Bill seeking equal shipping treatment for Hawaii and U.S territories reintroduced in Congress
+
+date: 2025-01-24, from: Island Times
+
+<p>HAGATNA (PACIFIC ISLAND TIMES) &#8212; U.S Rep. Ed Case this week announced the reintroduction of a bill seeking to end what he called “the discriminatory and exclusionary shipping practices” faced by residents living outside of the U.S mainland. Case said HR 380, the Affordable Shipping for All Act, would “ensure that no shipping company, including [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/bill-seeking-equal-shipping-treatment-for-hawaii-and-u-s-territories-reintroduced-in-congress/">Bill seeking equal shipping treatment for Hawaii and U.S territories reintroduced in Congress</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/bill-seeking-equal-shipping-treatment-for-hawaii-and-u-s-territories-reintroduced-in-congress/>
+
+---
+
+## Tourism in parts of Micronesia continue to struggle post Covid
+
+date: 2025-01-24, from: Island Times
+
+<p>PALIKIR (RNZ PACIFIC) &#8212; The tourism industry in parts of Micronesia has yet to recover from the Covid-19 pandemic. The Northern Mariana Islands (CNMI), Guam and Palau are either close to half of what the 2019 visitor numbers were, or significantly fewer. It appears people are leaving for the U.S for better prospects. RNZ Pacific&#8217;s [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tourism-in-parts-of-micronesia-continue-to-struggle-post-covid/">Tourism in parts of Micronesia continue to struggle post Covid</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/tourism-in-parts-of-micronesia-continue-to-struggle-post-covid/>
+
+---
+
+## US Capitol rioters celebrate prison release after Trump pardons
+
+date: 2025-01-24, from: Island Times
+
+<p>By Ulysse BELLIER Washington, United States&#8211; When Kevin Loftus became one of the Capitol rioters granted a sweeping pardon by new US President Donald Trump, he walked out of the Philadelphia prison where he was being held and drove overnight to Washington without even stopping to change his clothes. Loftus was making a beeline for the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/us-capitol-rioters-celebrate-prison-release-after-trump-pardons/">US Capitol rioters celebrate prison release after Trump pardons</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/us-capitol-rioters-celebrate-prison-release-after-trump-pardons/>
+
+---
+
+## Climate change and China will define US relations with Pacific Islands under Donald Trump, security experts say
+
+date: 2025-01-24, from: Island Times
+
+<p>By&#160;Doug Dingwall (ABC-Australia) Soon after Donald Trump&#8217;s election victory in November, a leader from one of the world&#8217;s smallest nations voiced a hope to take him snorkelling. Palau&#8217;s president Surangel Whipps Jr, leading a Pacific Island nation of 18,000 people, told New Zealand&#8217;s public broadcaster RNZ he&#8217;d like Mr Trump to see the coral bleaching [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/climate-change-and-china-will-define-us-relations-with-pacific-islands-under-donald-trump-security-experts-say/">Climate change and China will define US relations with Pacific Islands under Donald Trump, security experts say</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/climate-change-and-china-will-define-us-relations-with-pacific-islands-under-donald-trump-security-experts-say/>
+
+---
+
+## AI and Education: Preserving Human Agency in a World of Automation
+
+date: 2025-01-24, from: University of the South Pacific (Fiji)
+
+<p>2025 International Day of Education Artificial intelligence (AI) is rapidly weaving itself into the very...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/ai-and-education-preserving-human-agency-in-a-world-of-automation/">AI and Education: Preserving Human Agency in a World of Automation</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/ai-and-education-preserving-human-agency-in-a-world-of-automation/>
+
+---
+
+## Government dismantles homeless encampment in Harmon; AG launches crackdown on panhandlers
+
+date: 2025-01-24, from: Pacific Island Times
+
+A homeless couple watches a bulldozer demolish their shanties on Route 16 in Harmon. Photo courtesy of OHAPP By Pacific Island Times News... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/government-dismantles-homeless-encampment-in-harmon>
+
+---
+
+## Guam education agency used pandemic funds to cover salaries and mandates of adequate education law 
+
+date: 2025-01-24, from: Pacific Island Times
+
+The Guam Department of Education used pandemic funds to cover regular salaries. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/opa-education-agency-used-pandemic-funds-to-cover-salaries-and-mandates-of-adequate-education-law>
+
+---
+
+## US judge temporarily blocks Trump’s order restricting birthright citizenship
+
+date: 2025-01-24, updated: 2025-01-24, from: Marianas Variety
+
+SEATTLE (Reuters) — A federal judge blocked Donald Trump's administration on Thursday from implementing the Republican president's executive order curtailing the right to automatic birthright citizenship in the United States, calling it "blatantly unconstitutional." 
+
+<br> 
+
+<https://www.mvariety.com/news/national/us-judge-temporarily-blocks-trump-s-order-restricting-birthright-citizenship/article_6c7a5f94-d9f5-11ef-8c25-f377daf123b1.html>
+
+---
+
+## New UH President Hensel engages with students, employees at UH Mānoa visit
+
+date: 2025-01-24, from: University of Hawaiʻi News
+
+<p>Throughout her visit, Hensel highlighted her commitment to fostering connections and understanding the unique characteristics of each campus.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/23/president-hensel-uh-manoa-visit/">New <abbr>UH</abbr> President Hensel engages with students, employees at <abbr>UH</abbr> Mānoa visit</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/23/president-hensel-uh-manoa-visit/>
+
+---
+
+## Hottest year ever
+
+date: 2025-01-24, from: The Husk
+
+Weekender #52 
+
+<br> 
+
+<https://thehusk.substack.com/p/hottest-year-ever>
+
+---
+
+## Food as Heritage: The Transformative Power of Local Traditional Cuisines
+
+date: 2025-01-24, from: University of the South Pacific (Fiji)
+
+<p>Over 50 participants convened at The University of the South Pacific’s (USP) in Suva, Fiji...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/food-as-heritage-the-transformative-power-of-local-traditional-cuisines/">Food as Heritage: The Transformative Power of Local Traditional Cuisines</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/food-as-heritage-the-transformative-power-of-local-traditional-cuisines/>
+
+---
+
+## Grant boosts UH’s effort to protect Hawaiʻi’s coral reefs
+
+date: 2025-01-23, from: University of Hawaiʻi News
+
+<p>The &#8220;Fish Pono: Save Our Reefs&#8221; program aims to stem the tide of coral degradation caused by coastal pollution and ocean warming by saving fishes that save corals.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/23/cooke-foundation-fish-pono/">Grant boosts <abbr>UH</abbr>’s effort to protect Hawaiʻi’s coral reefs</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/23/cooke-foundation-fish-pono/>
+
+---
+
+## In memoriam: Don Robbs, the ‘Voice of Rainbow Baseball’
+
+date: 2025-01-23, from: University of Hawaiʻi News
+
+<p>Recognized as a pioneer in college baseball broadcasting, Robbs called more than 2,000 games during his legendary career.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/23/in-memoriam-don-robbs/">In memoriam: Don Robbs, the ‘Voice of Rainbow Baseball’</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/23/in-memoriam-don-robbs/>
+
+---
+
+## Population explosion
+
+date: 2025-01-23, from: Marshal Islands Journal
+
+<p>Journal 1/19/1982 P7 Kendall: Marshall Islands fully capable of self-governmentActing President Wilfred Kendall told visiting US Congressmen of the Marshalls’ “hope for true self-government in the best ideals of your own people, and that means an early end to the United Nations Trusteeship over our islands.” Later, Kendall added: “We hope you will carry back [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/population-explosion/">Population explosion</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/population-explosion/>
+
+---
+
+## Education, physical sciences, more earn top rankings for UH Mānoa
+
+date: 2025-01-23, from: University of Hawaiʻi News
+
+<p>These rankings are among the most recognized global assessments of academic and research excellence.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/23/times-higher-education-subject/">Education, physical sciences, more earn top rankings for <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/23/times-higher-education-subject/>
+
+---
+
+## HIKI NŌ on PBS Hawaiʻi Magical Moments and Paniolo Pride
+
+date: 2025-01-23, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>On this special episode of HIKI NŌ on PBS Hawaiʻi, find out which schools produced the winning entries...</p>
+<p>The post <a href="https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbi-magical-moments-and-paniolo-pride/">HIKI NŌ on PBS Hawaiʻi &lt;br/&gt;Magical Moments and Paniolo Pride</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbi-magical-moments-and-paniolo-pride/>
+
+---
+
+## AK opens doors to its state-of-the-art facilities
+
+date: 2025-01-23, updated: 2025-01-23, from: Marianas Variety
+
+Excitement is in the air as the Atkins Kroll team celebrates the grand opening of their brand-new Toyota and Lexus Sales and Service Center in Puerto Rico, Saipan. The CNMI community is invited to join the celebration on Saturday, Jan. 25, 2025, from 10 a.m. to 3:30 p.m. There will be fun activities for guests of all ages, exquisite dishes from local vendors, and a spectacular Show ‘n Shine event. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/ak-opens-doors-to-its-state-of-the-art-facilities/article_070adad4-d965-11ef-918c-7f7f6c7b528d.html>
+
+---
+
+## Saipan's favorite SUV—the 4Runner—is ready for you
+
+date: 2025-01-23, updated: 2025-01-23, from: Marianas Variety
+
+WHILE Atkins Kroll Saipan’s grand opening in Puerto Rico is newsworthy in and of itself, the relocation also comes with an opportunity for fans of the Toyota 4Runner. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/saipans-favorite-suv-the-4runner-is-ready-for-you/article_85039a04-d945-11ef-b3a8-0b06401cba3f.html>
+
+---
+
+## So much for fiscal responsibility
+
+date: 2025-01-23, updated: 2025-01-23, from: Marianas Variety
+
+Good politics, bad economics 
+
+<br> 
+
+<https://www.mvariety.com/views/editorials/so-much-for-fiscal-responsibility/article_b08fa61e-d980-11ef-b911-bfa49708dc6c.html>
+
+---
+
+## Meagan Good says goodbye to ‘Harlem,’ hello to her future with Jonathan Majors
+
+date: 2025-01-23, updated: 2025-01-23, from: Marianas Variety
+
+NEW YORK (AP) — Meagan Good is in a season of harvest, reaping rewards from the hard work she’s sowed throughout her three-decade career. For the “Harlem” star, gratitude is her mantra. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/meagan-good-says-goodbye-to-harlem-hello-to-her-future-with-jonathan-majors/article_a6d85344-d982-11ef-a69f-3fe72d8f65f5.html>
+
+---
+
+## DPW announces bid process for $12.5M Tapochao Road improvement project
+
+date: 2025-01-23, updated: 2025-01-23, from: Marianas Variety
+
+THE Department of Public Works on Thursday announced that it will soon accept bids for the Tapochao Road improvement project. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/dpw-announces-bid-process-for-12-5m-tapochao-road-improvement-project/article_09a3d63e-d93c-11ef-88da-0b993c7bb7d1.html>
 
 ---
 
@@ -311,6 +904,34 @@ date: 2025-01-23, from: Hawaii Tribune Harold
 
 ---
 
+## Kilauea eruption pauses for the fifth time since Dec. 23
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>The summit eruption at Kilauea volcano that began in Halema&#699;uma&#699;u crater on Dec. 23 ended its fifth episode at 4:30 a.m. this morning after 26 hours of eruptive activity from the north vent.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/hawaii-news/kilauea-eruption-pauses-for-the-fifth-time-since-dec-23/>
+
+---
+
+## Pedestrian critically hurt in Kurtistown crash
+
+date: 2025-01-23, from: Hawaii Tribune Harold
+
+
+				<p>A 21-year-old Puna woman is in critical condition following a motor vehicle/pedestrian collision Wednesday evening on Volcano Highway (Route 11) in the area of the 10-mile marker in Kurtistown.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/23/hawaii-news/pedestrian-critically-hurt-in-kurtistown-crash/>
+
+---
+
 ## Boat safety effort ramps up
 
 date: 2025-01-23, from: Marshal Islands Journal
@@ -337,7 +958,7 @@ Fiame Naomi Mata'afa, Samoa’s first female prime minister, emerged from Parlia
 
 ---
 
-## Guam governor bucks renewed call for for business privilege tax rollback  
+## Guam governor bucks renewed call for business privilege tax rollback  
 
 date: 2025-01-23, from: Pacific Island Times
 
@@ -1228,7 +1849,7 @@ date: 2025-01-21, from: Island Times
 
 date: 2025-01-21, from: Island Times
 
-<figure><img width="598" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250120_113405.jpg?fit=598%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250120_113405.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250120_113405.jpg?resize=175%2C300&amp;ssl=1 175w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250120_113405.jpg?resize=598%2C1024&amp;ssl=1 598w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250120_113405.jpg?resize=400%2C685&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250120_113405.jpg?fit=598%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75158" data-permalink="https://islandtimes.org/new-zealands-manaaki-scholarship-program-extended-to-palauan-students/20250120_113405/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250120_113405.jpg?fit=600%2C1028&amp;ssl=1" data-orig-size="600,1028" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1737372845&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;500&quot;,&quot;shutter_speed&quot;:&quot;0.0083333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20250120_113405" data-image-description="" data-image-caption="&lt;p&gt; Manaaki Scholarship alumni&lt;br /&gt;
+<figure><img width="598" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250120_113405.jpg?fit=598%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250120_113405.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250120_113405.jpg?resize=175%2C300&amp;ssl=1 175w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250120_113405.jpg?resize=598%2C1024&amp;ssl=1 598w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250120_113405.jpg?resize=400%2C685&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250120_113405.jpg?fit=598%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75158" data-permalink="https://islandtimes.org/new-zealands-manaaki-scholarship-program-extended-to-palauan-students/20250120_113405/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250120_113405.jpg?fit=600%2C1028&amp;ssl=1" data-orig-size="600,1028" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1737372845&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;500&quot;,&quot;shutter_speed&quot;:&quot;0.0083333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20250120_113405" data-image-description="" data-image-caption="&lt;p&gt; Manaaki Scholarship alumni&lt;br /&gt;
 Gaafar Uherbelau and Richard Kim of&lt;br /&gt;
 New Zealand Consulate in Hawaii.&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250120_113405.jpg?fit=175%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/20250120_113405.jpg?fit=598%2C1024&amp;ssl=1" /></figure>

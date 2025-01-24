@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-01-23 07:05:26
+updated: 2025-01-24 07:04:47
 ---
 
 # games
 
-(date: 2025-01-23 07:05:26)
+(date: 2025-01-24 07:04:47)
+
+---
+
+## What is Severance season 2’s title sequence trying to tell us?
+
+date: 2025-01-24, updated: 2025-01-24, from: Polygon Website
+
+The second episode of Severance season 2 brings back an element missing from its predecessor: the show’s surreal, animated opening sequence. Severance’s showrunners have updated the intro for season 2, tying it into visual themes present in the first episode, like the clutch of balloons given to Mark S. by Mr. Milchick.&#160; So it stands [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/513068/severance-season-2-title-sequence-animation-meaning>
+
+---
+
+## Genshin Impact version 5.4 livestream codes
+
+date: 2025-01-24, updated: 2025-01-24, from: Polygon Website
+
+Hoyoverse just wrapped up the Genshin Impact version 5.4 preview livestream, showing off all sorts of details about the upcoming patch. Most importantly, there were several codes that award Primogems and other rewards shown during the stream. Our Genshin Impact 5.4 livestream code list provides you with the three stream codes for rewards and explains [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/genshin-impact-guides/512185/5-4-codes-livestream-redeem-primogems>
+
+---
+
+## Nosferatu director Robert Eggers is making a Labyrinth sequel — but who could replace David Bowie?
+
+date: 2025-01-23, updated: 2025-01-23, from: Polygon Website
+
+Hot on the heels of yesterday’s news that Nosferatu director Robert Eggers will follow his vampire movie with a 13-century werewolf thriller called Werwulf, and today’s news that Nosferatu is in the running for four Academy Awards, the Eggers news drops keeps landing: Deadline reports that Eggers has signed a deal to direct a sequel [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/513239/robert-eggers-labyrinth-sequel-david-bowie-jareth>
+
+---
+
+## Revisit Vox Machina from new perspectives with this upcoming short story collection 
+
+date: 2025-01-23, updated: 2025-01-23, from: Polygon Website
+
+Critical Role has announced Vox Machina: Stories Untold, an upcoming anthology of short stories narrated by characters from the actual play’s flagship first campaign. Over the last decade, the Dungeons &#38; Dragons livestream has evolved from a single weekly game into a media empire that encompasses a proprietary streaming service, animated television shows on Amazon [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/critical-role/513262/critical-role-vox-machina-stories-untold-short-story-anthology>
+
+---
+
+## How to unlock the Chatterwhite shader in Destiny 2
+
+date: 2025-01-23, updated: 2025-01-24, from: Polygon Website
+
+The beloved Chatterwhite shader — an all-white shader — has finally come to Destiny 2 after years of fan requests. The shader comes from the original Destiny, and was a reward for killing Atheon, the series’ first raid boss. In this Destiny 2 guide, we’ll walk you through how to unlock the Chatterwhite shader during [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/511996/chatterwhite-shader-unlock-how-to-get>
+
+---
+
+## Best items to buy with Bento Tokens in Destiny 2
+
+date: 2025-01-23, updated: 2025-01-23, from: Polygon Website
+
+Bento Tokens are a limited currency in Destiny 2, and are part of the game’s Past is Prologue event. They expire on Feb. 4, but before they do, you can use these tokens to buy some extremely desirable weapons, currencies, and cosmetics. But you can only ever earn eight Bento Tokens, and there are tons [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/512676/bento-box-token-rewards-best-items>
+
+---
+
+## Ennie Awards allow submissions with AI-generated content, prompting backlash
+
+date: 2025-01-23, updated: 2025-01-23, from: Polygon Website
+
+Earlier this week, individuals within the tabletop ecosystem began noticing that the Ennies — one of the most prestigious awards in the industry, which have been held at Gen Con for over two decades — allowed potential nominees to indicate whether their submissions include content generated with artificial intelligence. With continued controversy surrounding the use [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/513161/ennies-ennie-awards-ai-generated-submissions>
+
+---
+
+## Epic Games Store will add monthly free games, 20 third-party titles to mobile app
+
+date: 2025-01-23, updated: 2025-01-23, from: Polygon Website
+
+Epic Games Store will soon charge through Apple’s efforts to mitigate the downloading of apps from third-party marketplaces to iOS and iPadOS — namely, Apple’s Core Technology Fee. Epic will add 20 third-party titles to its mobile store in the European Union, the region impacted by the fee policy, and it’ll pay the fees in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/513088/epic-games-store-20-third-party-games-apple-app-store-core-technology-fee>
+
+---
+
+## GTA Online update for the week of January 23
+
+date: 2025-01-23, updated: 2025-01-23, from: Polygon Website
+
+The weekly GTA Online update for Jan. 23, 2025, is live with reward events, discounts, prizes, and the Lunar New Year. Our GTA Online weekly update guide will tell you everything happening in Los Santos this week. GTA Online special events This week is the Lunar New Year and begins the Year of the Snake. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gta-online-guides/513043/january-23-weekly-update-events-lunar-new-year>
 
 ---
 

@@ -1,11 +1,145 @@
 ---
 title: food
-updated: 2025-01-23 07:05:29
+updated: 2025-01-24 07:04:49
 ---
 
 # food
 
-(date: 2025-01-23 07:05:29)
+(date: 2025-01-24 07:04:49)
+
+---
+
+## Ready To Drink: Klatch Coffee’s Ready-To-Go Espresso
+
+date: 2025-01-24, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Ready-To-Go Espresso by Inland Empire's Klatch Coffee. 
+
+<br> 
+
+<https://sprudge.com/ready-to-drink-klatch-coffees-ready-to-go-espresso-270219.html>
+
+---
+
+## Espresso Comes To Business Class On Some American Airlines Flights
+
+date: 2025-01-24, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Espresso a mile high. 
+
+<br> 
+
+<https://sprudge.com/espresso-comes-to-business-class-on-some-american-airlines-flights-270481.html>
+
+---
+
+## Weekly Coffee News: Roasting 201 at Mill City + 2025 Coffee Science and Education Summit
+
+date: 2025-01-24, from: Daily Coffee News
+
+<div><img width="620" height="431" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Mill-City-Roasters-coffee-campus-620x431.jpg" class="attachment-large size-large wp-post-image" alt="Mill City Roasters coffee campus" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Mill-City-Roasters-coffee-campus-620x431.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mill-City-Roasters-coffee-campus-300x209.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mill-City-Roasters-coffee-campus-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mill-City-Roasters-coffee-campus-768x534.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mill-City-Roasters-coffee-campus.jpg 1000w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Mill City Roasters Offering Roasting 201 in Minneapolis Commercial... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/24/weekly-coffee-news-roasting-201-at-mill-city-2025-coffee-science-and-education-summit/>
+
+---
+
+## Beyond the Headlines: Has Starbucks Killed the Cortado?
+
+date: 2025-01-24, from: The Fresh Cup
+
+<p>Starbucks recently announced it will add a cortado to its menu, but in a size that varies from established industry norms. We asked coffee shop owners to weigh in on the news—and whether it will pose a challenge for customers. </p>
+<p>The post <a href="https://freshcup.com/beyond-the-headlines-has-starbucks-killed-the-cortado/">Beyond the Headlines: Has Starbucks Killed the Cortado?</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/beyond-the-headlines-has-starbucks-killed-the-cortado/>
+
+---
+
+## Spicy Salmon Bowl and More Recipes We Made This Week
+
+date: 2025-01-24, from: Bon Appetet
+
+Like baked sweet potato chaat and celery soup. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-january-2025>
+
+---
+
+## Best Queso Dip
+
+date: 2025-01-23, from: Bon Appetet
+
+Only slightly more involved than cracking open a jar from the grocery store. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/basically-queso>
+
+---
+
+## From China, the Roma Pro Home Roaster Automates Up to 300 Grams
+
+date: 2025-01-23, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Mago-Maga-Roma-Pro-home-coffee-roaster-3-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Mago Maga Roma Pro home coffee roaster 3" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Mago-Maga-Roma-Pro-home-coffee-roaster-3-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mago-Maga-Roma-Pro-home-coffee-roaster-3-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mago-Maga-Roma-Pro-home-coffee-roaster-3-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mago-Maga-Roma-Pro-home-coffee-roaster-3-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Mago-Maga-Roma-Pro-home-coffee-roaster-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A 300-gram-capacity fluid-bed coffee roaster called the Roma Pro Smart Home Coffee Bean Roaster is entering the United States market. Created by a Chinese brand called Mago Maga, led by... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/23/from-china-the-roma-pro-home-roaster-automates-up-to-300-grams/>
+
+---
+
+## Streusel
+
+date: 2025-01-23, from: Taste of Home
+
+Buttery, crumbly streusel adds a lovely texture to desserts, and it’s so easy to whip up. Here’s how to make a general streusel topping recipe that can be used on pies, muffins, bars, coffee cakes and quick breads. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/streusel/>
+
+---
+
+## NKG Decentralizes Top Leadership, Names New CEO for the Americas
+
+date: 2025-01-23, from: Daily Coffee News
+
+<div><img width="620" height="421" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/NKG-Board-620x421.jpg" class="attachment-large size-large wp-post-image" alt="NKG Board" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/NKG-Board-620x421.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/NKG-Board-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/NKG-Board-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/NKG-Board-768x521.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/NKG-Board.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Hamburg, Germany-based green coffee conglomerate Neumann Kaffee Gruppe (NKG) is decentralizing its executive leadership structure, introducing three regional CEOs leading offices in the Americas, Asia Pacific and Europe, and Middle... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/23/nkg-decentralizes-top-leadership-names-new-ceo-for-the-americas/>
+
+---
+
+## The Best Mandoline Slicer (2025), Does Things No Knife Can Do
+
+date: 2025-01-23, from: Bon Appetet
+
+If you’re afraid of mandolines, don’t be. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-mandoline-slicer>
+
+---
+
+## The Best Greens Powder, Tasted and Reviewed (2025)
+
+date: 2025-01-23, from: Bon Appetet
+
+It doesn’t matter whether it’s good for you if you’re not going to drink it. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-greens-powder>
 
 ---
 
@@ -70,6 +204,32 @@ Creamy, lightly sweet Mexican coffee will warm you right up with its flavors of 
 <br> 
 
 <https://www.tasteofhome.com/recipes/mexican-coffee/>
+
+---
+
+## Cinnamon Roll French Toast Casserole
+
+date: 2025-01-23, from: Taste of Home
+
+This impressive-looking cinnamon roll French toast casserole has a sneaky little secret: It's made using canned cinnamon roll dough. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cinnamon-roll-french-toast-casserole/>
+
+---
+
+## Mongolian Beef Recipe
+
+date: 2025-01-23, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/mongolian-beef/" title="Mongolian Beef Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Mongolian-Beef-Recipe1-2024-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mongolian Beef in a serving bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Mongolian-Beef-Recipe1-2024-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Mongolian-Beef-Recipe1-2024-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Mongolian-Beef-Recipe1-2024-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Mongolian-Beef-Recipe1-2024-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Mongolian-Beef-Recipe1-2024-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Mongolian-Beef-Recipe1-2024-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Mongolian-Beef-Recipe1-2024.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Mongolian beef recipe is so easy to make with beef stir fried until crispy, then tossed in a sticky, spicy brown sauce, served with rice or noodles.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/mongolian-beef/">Mongolian Beef Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/mongolian-beef/>
 
 ---
 
@@ -171,7 +331,7 @@ date: 2025-01-22, from: Taste of Home
 
 date: 2025-01-22, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Salto Coffee bags all" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Salto Coffee bags all" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Salto-Coffee-bags-all.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
 
 <br> 
 
@@ -243,11 +403,25 @@ On this episode of Dinner SOS, Chris, Jesse, and Shilpa inspire listeners to lea
 
 ---
 
+## 7 Best Coffee Concentrates for Easier Mornings, Tested and Reviewed
+
+date: 2025-01-22, from: Taste of Home
+
+<p>When you're short on time or don't have access to a coffee pot, the best coffee concentrates caffeinate without costing as much as a cafe.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-coffee-concentrate/">7 Best Coffee Concentrates for Easier Mornings, Tested and Reviewed</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-coffee-concentrate/>
+
+---
+
 ## Study: Coffee Extends Its Lead as Top US Caffeine Source
 
 date: 2025-01-22, from: Daily Coffee News
 
-<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-620x415.jpg" class="attachment-large size-large wp-post-image" alt="caffeinated beverages" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>People in the United States are consuming more caffeine than they were a decade ago, with coffee extending its grasp as the dominant dietary source of stimulant, according to a... 
+<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-620x415.jpg" class="attachment-large size-large wp-post-image" alt="caffeinated beverages" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/caffeinated-beverages.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>People in the United States are consuming more caffeine than they were a decade ago, with coffee extending its grasp as the dominant dietary source of stimulant, according to a... 
 
 <br> 
 
@@ -259,7 +433,7 @@ date: 2025-01-22, from: Daily Coffee News
 
 date: 2025-01-22, from: Daily Coffee News
 
-<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1-620x420.jpg" class="attachment-large size-large wp-post-image" alt="Screenshot" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1-620x420.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1-768x520.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1.jpg 959w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new roasting company in Eastern Oregon&#8217;s Baker City called Stray Cat Coffee is scratching its way into homes and local businesses. Inside a purpose-built 300-square-foot home addition, Stray Cat... 
+<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1-620x420.jpg" class="attachment-large size-large wp-post-image" alt="Screenshot" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1-620x420.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1-768x520.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Stray-Cat-Coffee-Baker-City-bags-1.jpg 959w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A new roasting company in Eastern Oregon&#8217;s Baker City called Stray Cat Coffee is scratching its way into homes and local businesses. Inside a purpose-built 300-square-foot home addition, Stray Cat... 
 
 <br> 
 
@@ -511,7 +685,7 @@ There’s no one perfect knife, but we’ll help you find the best one for you.
 
 date: 2025-01-20, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/roasted-red-pepper-sauce-recipe/" title="Roasted Red Pepper Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Roasted-Red-Pepper-Sauce-Recipe1b-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Roasted Red Pepper Sauce in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Roasted-Red-Pepper-Sauce-Recipe1b-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Roasted-Red-Pepper-Sauce-Recipe1b-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Roasted-Red-Pepper-Sauce-Recipe1b-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Roasted-Red-Pepper-Sauce-Recipe1b-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Roasted-Red-Pepper-Sauce-Recipe1b-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Roasted-Red-Pepper-Sauce-Recipe1b-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Roasted-Red-Pepper-Sauce-Recipe1b.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This roasted red pepper sauce is huge on flavor and easy to make, perfect for pasta, pizza, grilled meats or as a dip, with optional extra creamy version.</p>
+<a href="https://www.chilipeppermadness.com/recipes/roasted-red-pepper-sauce-recipe/" title="Roasted Red Pepper Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Roasted-Red-Pepper-Sauce-Recipe1b-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Roasted Red Pepper Sauce in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Roasted-Red-Pepper-Sauce-Recipe1b-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Roasted-Red-Pepper-Sauce-Recipe1b-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Roasted-Red-Pepper-Sauce-Recipe1b-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Roasted-Red-Pepper-Sauce-Recipe1b-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Roasted-Red-Pepper-Sauce-Recipe1b-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Roasted-Red-Pepper-Sauce-Recipe1b-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Roasted-Red-Pepper-Sauce-Recipe1b.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This roasted red pepper sauce is huge on flavor and easy to make, perfect for pasta, pizza, grilled meats or as a dip, with optional extra creamy version.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/roasted-red-pepper-sauce-recipe/">Roasted Red Pepper Sauce Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

@@ -1,11 +1,63 @@
 ---
 title: libraries
-updated: 2025-01-23 07:05:27
+updated: 2025-01-24 07:04:47
 ---
 
 # libraries
 
-(date: 2025-01-23 07:05:27)
+(date: 2025-01-24 07:04:47)
+
+---
+
+## ARL Honors Dr. Martin Luther King Jr. and the National Day of Racial Healing
+
+date: 2025-01-24, from: Association of Research Libraries News
+
+<p>Last Updated on January 24, 2025, 6:37 am ET Earlier this week, the Association of Research of Libraries (ARL) paused to honor the legacy of Dr. Martin Luther King Jr.,...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-honors-dr-martin-luther-king-jr-and-the-national-day-of-racial-healing/">ARL Honors Dr. Martin Luther King Jr. and the National Day of Racial Healing</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/arl-honors-dr-martin-luther-king-jr-and-the-national-day-of-racial-healing/>
+
+---
+
+## Grammarian vs. Errorist
+
+date: 2025-01-24, from: Scholarly Kitchen
+
+<p>A battle to the death, the Grammarian versus the Errorist. Who will triumph?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/01/24/grammarian-vs-errorist/">Grammarian vs. Errorist</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/01/24/grammarian-vs-errorist/>
+
+---
+
+## Announcing the 2025 Public Domain Day Film Remix Contest Winners & Honorable Mentions
+
+date: 2025-01-23, from: Internet Archive Blog
+
+We’re thrilled to unveil the creativity of our top three winners and three honorable mentions in this year’s Public Domain Day Film Remix Contest. These remarkable films not only reimagined [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/01/23/2025-public-domain-day-film-remix-contest-winners-announced/>
+
+---
+
+## Virtual Public Domain Day Celebrates 1929 Creative Works & 1924 Sound Recordings
+
+date: 2025-01-23, from: Internet Archive Blog
+
+On January 22, hundreds of people from all over the world gathered together for Singin&#8217; in the Public Domain, a virtual celebration of the works that moved into the public [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/01/23/virtual-public-domain-day-celebrates-1929-creative-works-1924-sound-recordings/>
 
 ---
 
@@ -77,7 +129,7 @@ date: 2025-01-22, from: Scholarly Kitchen
 
 date: 2025-01-22, from: Association of Research Libraries News
 
-<p>Last Updated on January 22, 2025, 3:24 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, January 22 &#124; Thursday, January 23 Tuesday, January...</p>
+<p>Last Updated on January 23, 2025, 3:50 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, January 22 &#124; Thursday, January 23 Tuesday, January...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-21-23/">Day in Review (January 21–23)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

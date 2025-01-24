@@ -1,11 +1,117 @@
 ---
 title: writing
-updated: 2025-01-23 07:05:26
+updated: 2025-01-24 07:04:46
 ---
 
 # writing
 
-(date: 2025-01-23 07:05:26)
+(date: 2025-01-24 07:04:46)
+
+---
+
+## Scriptnotes, Episode 672: Navigating Loss with Jesse Eisenberg, Transcript
+
+date: 2025-01-23, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August and you’re listening to episode 672 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, how do we handle loss? Loss of a parent, loss of a [&#8230;]
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-672-navigating-loss-with-jesse-eisenberg-transcript">Scriptnotes, Episode 672: Navigating Loss with Jesse Eisenberg, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-672-navigating-loss-with-jesse-eisenberg-transcript>
+
+---
+
+## 2025 Audie Awards Finalists
+
+date: 2025-01-23, from: Locus Magazine
+
+<p>The Audio Publishers Association (APA) has announced the finalists for the 2025 Audie Awards, “recognizing distinction in audiobooks and spoken-word entertainment.” Finalists of genre interest are listed below; narrators are listed in alphabetical order.</p>
+<div class="mynomorebulletlist">
+<p><strong>Science Fiction</strong></p>
+<ul>
+<li><strong>Mal Goes to War</strong>, Edward Ashton, narrated by Katharine Chin &#38; John Pirhalla (Macmillan Audio)</li>
+<li><strong>The Book of Doors</strong>, Gareth Brown, narrated by Miranda Raison (HarperAudio)</li>
+<li><strong>Frontier</strong>, Grace Curtis, narrated by </li></ul></div> <a href="https://locusmag.com/2025/01/2025-audie-awards-finalists/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/01/2025-audie-awards-finalists/>
+
+---
+
+## 2024 Stoker Awards Preliminary Ballot
+
+date: 2025-01-23, from: Locus Magazine
+
+<p>The Horror Writers Association (HWA) has announced the preliminary ballot for the 2024 Bram Stoker Awards.</p>
+<p><strong>Superior Achievement in a Novel</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>House of Bone and Rain</strong>, Gabino Iglesias (Mulholland )</li>
+<li><strong>I Was a Teenage Slasher</strong>, Stephen Graham Jones (Saga)</li>
+<li><strong>The Haunting of Velkwood</strong>, Gwendolyn Kiste (Saga)</li>
+<li><strong>American Rapture</strong>, CJ Leede (Tor)</li>
+<li><strong>Incidents Around the House</strong>, Josh Malerman (Del Rey)</li>
+<li><strong>Eynhallow</strong>, Tim McGregor (Raw Dog </li></ul></div> <a href="https://locusmag.com/2025/01/2024-stoker-awards-preliminary-ballot/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/01/2024-stoker-awards-preliminary-ballot/>
+
+---
+
+## Weekly Video Is Available to Watch!
+
+date: 2025-01-23, from: Locus Magazine
+
+<p>We&#8217;re getting closer to the end of the first month of 2025 and Locus is back with another weekly video on the top new SF, Fantasy, Horror, and YA book releases of the week of 1/21/2025! Come by our channel to keep up-to-date and subscribe to the channel to show your support for what we do! </p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2025/01/weekly-video-is-available-to-watch/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/01/weekly-video-is-available-to-watch/>
+
+---
+
+## More on AI environmental costs
+
+date: 2025-01-23, from: John August blog
+
+In my earlier explainer about recent AI developments, I linked out to a Wikipedia entry that ran through some of the environmental impacts of AI models, mostly in terms of energy and water usage. Since that post, Andy Masley came out with a much more useful comparison of AI costs. It&#8217;s worth reading the whole [&#8230;]
+The post <a href="https://johnaugust.com/2025/more-on-ai-environmental-costs">More on AI environmental costs</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/more-on-ai-environmental-costs>
+
+---
+
+## 5 More Screenwriters You Might Not Have Heard Of
+
+date: 2025-01-23, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/5-more-screenwriters-you-might-not-have-heard-of" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/5%20More%20Screenwriters%20You%20Might%20Not%20Have%20Heard%20Of.png" alt="Image of a vintage typewriter on top of a desk" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>In the article “<a href="https://blog.finaldraft.com/5-screenwriters-you-might-not-have-heard-of">5 Screenwriters You Might Not Have Heard Of</a>,” we spotlighted a handful of important screenwriters who had written popular or critically-acclaimed films, yet are not widely known today.<br><br>Screenplay writers don’t always get the recognition they deserve. It’s important to know the names and stories of these artists who contributed to movie history and the craft of screenwriting, and explore how their writing might influence your own script writing journey.<br><br>In that spirit, here are <span style="font-weight: bold;">5 More Screenwriters You Might Not Have Heard Of.</span></p> 
+
+<br> 
+
+<https://blog.finaldraft.com/5-more-screenwriters-you-might-not-have-heard-of>
+
+---
+
+## Rest in Peaches by Alex Brown: Review by Alex Brown
+
+date: 2025-01-23, from: Locus Magazine
+
+<p><strong>Rest in Peaches</strong>, Alex Brown (Page Street YA 979-8-89003-070-2, $18.99, 336pp, hc) October 2024.</p>
+<p>Get ready for another great young adult horror comedy with <strong>Rest in Peaches </strong>by Alex Brown (not me!). Quinn is about to do the biggest, most important thing she’s ever done in her whole 17 years of life. At this year’s Homecoming game, she will don a brand new Peaches the Parrot mascot costume and  <a href="https://locusmag.com/2025/01/rest-in-peaches-by-alex-brown-review-by-alex-brown/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/rest-in-peaches-by-alex-brown-review-by-alex-brown/>
 
 ---
 

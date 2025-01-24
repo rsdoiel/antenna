@@ -1,17 +1,17 @@
 ---
 title: weather
-updated: 2025-01-23 07:05:26
+updated: 2025-01-24 07:04:46
 ---
 
 # weather
 
-(date: 2025-01-23 07:05:26)
+(date: 2025-01-24 07:04:46)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-01-23, from: Eastern Pacific Basin GIS Data
+date: 2025-01-24, from: Eastern Pacific Basin Tropical Cyclones
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
@@ -21,11 +21,11 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Thu Jan 23 13:20:01 UTC 2025
+## SPC - No watches are valid as of Fri Jan 24 13:27:02 UTC 2025
 
-date: 2025-01-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Thu Jan 23 13:20:01 UTC 2025. 
+No watches are valid as of Fri Jan 24 13:27:02 UTC 2025. 
 
 <br> 
 
@@ -33,11 +33,11 @@ No watches are valid as of Thu Jan 23 13:20:01 UTC 2025.
 
 ---
 
-## SPC - No MDs are in effect as of Thu Jan 23 13:20:01 UTC 2025
+## SPC - No MDs are in effect as of Fri Jan 24 13:27:02 UTC 2025
 
-date: 2025-01-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Thu Jan 23 13:20:01 UTC 2025. 
+No Mesoscale Discussions are in effect as of Fri Jan 24 13:27:02 UTC 2025. 
 
 <br> 
 
@@ -45,25 +45,32 @@ No Mesoscale Discussions are in effect as of Thu Jan 23 13:20:01 UTC 2025.
 
 ---
 
-## SPC Jan 23, 2025 1300 UTC Day 1 Convective Outlook
+## SPC Jan 24, 2025 1300 UTC Day 1 Convective Outlook
 
-date: 2025-01-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
+Day 1 Convective Outlook RESENT 1
 NWS Storm Prediction Center Norman OK
-0552 AM CST Thu Jan 23 2025
+0646 AM CST Fri Jan 24 2025
 
-Valid 231300Z - 241200Z
+Valid 241300Z - 251200Z
 
 ...NO THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Thunderstorms are not forecast across the continental U.S. today or
+Thunderstorms are not forecast across the contiguous United States.
+
+...Synopsis...
+Water-vapor imagery this morning shows an upper trough extending
+from the lower OH Valley southwestward into the northwest Gulf
+Coast.  This upper feature will quickly move east ahead of an
+amplifying trough over the West.  Cool/stable conditions as the
+result of surface high pressure influencing a large part of the
+Lower 48 will prove hostile to thunderstorm development through
 tonight.
 
-
-..Hart.. 01/23/2025
+..Smith/Kerr.. 01/24/2025
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
@@ -72,6 +79,101 @@ tonight.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC Jan 24, 2025 Day 4-8 Severe Weather Outlook
+
+date: 2025-01-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 4-8 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0359 AM CST Fri Jan 24 2025
+
+Valid 271200Z - 011200Z
+
+...DISCUSSION...
+On Monday/Day 4, a shortwave ridge is forecast over the
+south-central U.S. The overall pattern is forecast to gradually
+amplify on Tuesday/Day 5 and Wednesday/Day 6, as a mid-level low
+moves slowly eastward across the Desert Southwest. Ahead of the
+system, moisture return is expected across the southern Plains in
+the early to mid week, as mid-level flow becomes southwesterly. A
+moist airmass is forecast to become established across the southern
+Plains by Wednesday, with scattered thunderstorms likely to develop
+in the afternoon and evening across parts of Texas and Oklahoma. The
+potential for convective development is expected to continue into
+Thursday/Day 7 and Thursday night as the mid-level system approaches
+and moves into the southern Plains. At this time, model forecasts
+suggest that instability, lift and deep-layer shear could support an
+isolated severe threat in parts of Texas and possibly southern
+Oklahoma, from Wednesday evening into Thursday. However, there is
+still substantial variance among solutions concerning this system,
+and confidence is low concerning magnitude and spacing. At this
+time, it appears the overall severe threat will remain marginal. On
+Friday/Day 8, the potential for convection is forecast to move
+eastward into parts of the Southeast, where little instability is
+forecast.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/day4-8/>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2025-01-24, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0134 AM CST Fri Jan 24 2025
+
+Valid 251200Z - 261200Z
+
+...Synopsis...
+Fire weather concerns are expected to emerge across portions of
+Arizona by Saturday afternoon as low-level winds increase in
+response to a deepening upper wave along the West Coast. The
+breakdown of an upper ridge over the West Coast is underway ahead of
+an approaching trough based on recent water-vapor imagery and
+upper-air analyses. Broad surface pressure falls are anticipated
+across the greater inter-mountain West/High Plains over the next 24
+hours, but will intensify over the Southwest through Saturday as the
+upper wave deepens along the southern CA coast. Recent forecast
+guidance suggests south/southeasterly winds between 15-25 mph will
+be likely - especially in the lee/northern slopes of the Mogollon
+Rim and across south-central AZ by late afternoon. 
+
+Extensive mid/high-level cloud cover is anticipated through much of
+the day as mid-level isentropic ascent increases ahead of the
+deepening upper trough. However, 07 UTC surface observations sampled
+a very dry air mass across southern to central AZ characterized by
+dewpoints between -5 to -15 F. Consequently, even muted diurnal
+heating should promote RH reductions into the single digits to low
+teens, which will support elevated to locally critical fire weather
+conditions. Recent fuel analyses show ERC values generally
+near/above the 80th percentile - likely the result of 30-day
+rainfall totals between 2 to 5% of normal, which should support the
+fire weather concern.
+
+..Moore.. 01/24/2025
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -181,83 +283,6 @@ LAT...LON   29749396 29999432 30579416 30979267 31019185 30809148
 <br> 
 
 <https://www.spc.noaa.gov/products/md/md0047.html>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-01-19, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0105 PM CST Sun Jan 19 2025
-
-Valid 201200Z - 211200Z
-
-...EXTREMELY CRITICAL FIRE WEATHER AREA FOR THE SAN GABRIEL
-MOUNTAINS WESTWARD TOWARD THE SANTA SUSANA MOUNTAINS AND SANTA
-MONICA MOUNTAINS...INCLUDING THE MALIBU COAST...
-...CRITICAL FIRE WEATHER AREA FOR MUCH OF SOUTHERN CALIFORNIA...
-
-The primary change with this update was an expansion of the
-Extremely Critical highlights to the Malibu Coast. Here, the latest
-high-resolution guidance is in relatively good agreement, depicting
-30-40 mph northeasterly surface winds (with gusts upwards of 60-70
-mph) amid single-digit to lower teens RH. These dangerous
-fire-weather conditions will continue into Day 3/Tuesday morning. 
-
-Farther south, the Critical area was also extended to the coast in
-Orange County and northern San Diego County, where confidence in the
-development of 20-30 mph northeasterly surface winds (with higher
-gusts) has increased. For portions of inland Orange and San Diego
-Counties, localized extremely critical conditions are expected --
-especially over the wind-prone mountains, foothills, and valleys.
-
-For additional details, see the previous discussion below.
-
-..Weinman.. 01/19/2025
-
-.PREV DISCUSSION... /ISSUED 0142 AM CST Sun Jan 19 2025/
-
-...Synopsis...
-A positively tilted shortwave trough is forecast to move southward
-out of the Pacific Northwest and into Southern California late
-Sunday night into early Tuesday Morning. By Monday afternoon, strong
-mid-level northerly flow will reach Southern California, with an
-amplified mid-level ridge following behind the trough and moving
-east out of the Eastern Pacific. These upper-level features, in
-combination with strengthening surface high pressure over the
-Intermountain West, will result in a tight surface pressure gradient
-directed offshore. The pressure gradient magnitudes suggest strong
-Santa Ana winds developing as a result, lasting from Monday night
-through Tuesday morning. 
-
-Recent high-resolution forecast guidance has increased the
-confidence in strong surface pressure gradients and strong surface
-winds enough to introduce an Extremely Critical area, extending from
-the San Gabriel Mountains westward to the Santa Monica Mountains and
-Santa Susana Mountains. Forecasts continue to show strong surface
-pressure gradients from LAX->DAG anywhere from -8 mb to -11 mb,
-resulting in sustained surface winds of 35-40 MPH (gusting 60-80
-MPH). These dry and windy conditions, coupled with dry and receptive
-fuels, will result Extremely Critical conditions supportive of rapid
-wildfire onset and spread. 
-
-Critical fire-weather highlights extend into San Diego county, where
-recent model guidance continues to increase confidence in strong
-offshore flow and dry conditions overnight Monday into Tuesday
-morning.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 

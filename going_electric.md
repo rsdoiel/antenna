@@ -1,11 +1,271 @@
 ---
 title: going electric
-updated: 2025-01-23 07:05:28
+updated: 2025-01-24 07:04:48
 ---
 
 # going electric
 
-(date: 2025-01-23 07:05:28)
+(date: 2025-01-24 07:04:48)
+
+---
+
+## Joe Rogan’s new custom Tesla Model S Plaid looks sick
+
+date: 2025-01-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Joe-Rogan-Tesla-Model-S-Plaid-UP-hero.png?w=1600" /></div><p>Joe Rogan got himself a new Tesla Model S Plaid customized by Unplugged Performance, and I think it looks sick.</p>
+
+
+
+<p>Dope or nope?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-s,unplugged-performance" data-layer-viewtype="unknown" data-post-id="398931" href="https://electrek.co/2025/01/24/joe-rogans-new-custom-tesla-model-s-plaid-looks-sick/#more-398931" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/24/joe-rogans-new-custom-tesla-model-s-plaid-looks-sick/>
+
+---
+
+## 2025 Tesla Model Y Juniper Arrives In U.S. In March For $59,990
+
+date: 2025-01-24, from: Inside EVs News
+
+The U.S. specs have landed for the new Model Y, and it gets more range—but a bigger price tag as well. Here's what we know. 
+
+<br> 
+
+<https://insideevs.com/news/748369/tesla-model-y-launch-series-us/>
+
+---
+
+## Tesla launches new Model Y in North America and Europe
+
+date: 2025-01-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Model-Y-hero-new-design.png?w=1600" /></div><p>Tesla has officially launched the new Model Y in North America and Europe after launching it in China earlier this month.</p>
+
+
+
+<p>The difference is that Tesla is now taking orders for both the older and newer versions of its best-selling electric SUV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="398932" href="https://electrek.co/2025/01/23/tesla-launches-new-model-y-in-north-america-and-europe/#more-398932" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/23/tesla-launches-new-model-y-in-north-america-and-europe/>
+
+---
+
+## Rivian CEO Says 'Eyes-Off' Autonomous Features Are Coming In 2026
+
+date: 2025-01-23, from: Inside EVs News
+
+And "hands-off" driver assistance is coming this year, according to the CEO. 
+
+<br> 
+
+<https://insideevs.com/news/748366/rivian-av-level-2-level-3/>
+
+---
+
+## Rivian (RIVN) plans to roll out hands-free driving this year, eyes-free system in 2026
+
+date: 2025-01-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/08/Rivian-Q2-earnings-preview-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) plans to launch a new Advanced Driver Assistance System (ADAS) this year to enable hands-free driving. The new feature is expected to be similar to <a href="https://electrek.co/guides/tesla-full-self-driving/">Tesla’s Full-Self Driving</a> (FSD). In 2026, Rivian will up the ante with an “eyes-free” system.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="adas,rivian" data-layer-viewtype="unknown" data-post-id="398905" href="https://electrek.co/2025/01/23/rivian-rivn-plans-hands-free-driving-this-year-eyes-free-2026/#more-398905" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/23/rivian-rivn-plans-hands-free-driving-this-year-eyes-free-2026/>
+
+---
+
+## This Tesla Supercharger Extension Cord Could Be A Game-Changer
+
+date: 2025-01-23, from: Inside EVs News
+
+Feeling sick of double parking your non-Tesla EV at Superchargers? A2Z’s new extension cord could eliminate that problem altogether. 
+
+<br> 
+
+<https://insideevs.com/news/748356/tesla-supercharger-extension-cord-game-changer/>
+
+---
+
+## The world’s largest solar + storage project will deliver power 24/7
+
+date: 2025-01-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Masdar_BESS-Abu-Dhabi.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The United Arab Emirates is building the world’s largest solar and battery storage project that will dispatch clean energy 24/7.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,egeb,energy-brief,solar,solar-power,united-arab-emirates" data-layer-viewtype="unknown" data-post-id="398900" href="https://electrek.co/2025/01/23/uae-worlds-largest-solar-storage/#more-398900" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/23/uae-worlds-largest-solar-storage/>
+
+---
+
+## Tesla closes loophole that let Kia owners charge on Superchargers
+
+date: 2025-01-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Kia-NACS-Hyundai-Tesla.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia owners were supposed to get access to Tesla Superchargers on January 15, but <a href="https://electrek.co/2025/01/13/kia-access-to-tesla-superchargers-delayed-had-been-expected-this-week/">that timeline was recently delayed</a>. Some owners had <a href="https://electrek.co/2025/01/15/kias-tesla-supercharger-access-is-late-but-some-owners-found-a-way-to-charge/">figured out a loophole</a> to charge, but it turns out, that loophole is now closed.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,north-american-charging-standard-nacs,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="398866" href="https://electrek.co/2025/01/23/tesla-closes-loophole-that-let-kia-owners-charge-on-superchargers/#more-398866" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/23/tesla-closes-loophole-that-let-kia-owners-charge-on-superchargers/>
+
+---
+
+## Jaguar Land Rover invests $2M in rare earth magnets recycling
+
+date: 2025-01-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Jaguar-Land-Rover-Cyclic-Materials.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Jaguar Land Rover’s investment arm <a href="https://www.inmotionventures.com/" target="_blank" rel="noreferrer noopener">InMotion Ventures</a> has invested $2 million in rare earth magnets recycling company <a href="https://www.cyclicmaterials.earth/" target="_blank" rel="noreferrer noopener">Cyclic Materials</a>, bringing its Series B funding round to $55 million.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,electric-vehicles,evs,solar,jaguar-land-rover" data-layer-viewtype="unknown" data-post-id="398875" href="https://electrek.co/2025/01/23/jaguar-land-rover-invests-2m-in-rare-earth-magnets-recycling/#more-398875" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/23/jaguar-land-rover-invests-2m-in-rare-earth-magnets-recycling/>
+
+---
+
+## Nissan secures batteries for about 300,000 EVs in the US, but when will we see them?
+
+date: 2025-01-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Nissan-2025-Ariya-prices-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/nissan/">Nissan</a> plans to buy 20 GWh of batteries from SK On, enough to power around 300,000 EVs to be sold in the US. However, after delaying EV production in the US again, when will the new EVs finally arrive?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan" data-layer-viewtype="unknown" data-post-id="398861" href="https://electrek.co/2025/01/23/nissan-secures-batteries-for-300000-evs-us/#more-398861" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/23/nissan-secures-batteries-for-300000-evs-us/>
+
+---
+
+## EcoFlow takes 50% off units with new solar bundle lows, Rad Power RadRover 6 Plus hits new $1,199 low, Greenworks Venture e-bikes, more
+
+date: 2025-01-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/EcoFlow-Game-Day-Power-sale-FI.png?w=1600" /></div><p>Our penultimate Green Deals of this week is headlined by <a href="https://9to5toys.com/2025/01/23/ecoflow-game-day-power-sale/">EcoFlow’s Game Day Power sale</a> that is taking up to 50% off its units, with a bonus 5% sitewide discount, 15% off accessory discounts, and 3x EcoCredit rewards with purchases – with many of its New Year deals continuing. We did spot some new low prices though, like on the <a href="https://9to5toys.com/2025/01/23/ecoflow-game-day-power-sale/">DELTA Pro solar generator bundle</a> that comes with two 220W solar panels and a free protective bag for <a href="https://9to5toys.com/2025/01/23/ecoflow-game-day-power-sale/">$2,374</a>, among others. Rad Power has also launched a new flash sale running parallel to its ongoing deals, dropping two models to their lowest rates, one of which is the <a href="https://9to5toys.com/2025/01/23/rad-flash-radrover-radexpand-from-1099/">RadRover 6 Plus Step-Thru e-bike</a> hitting a new <a href="https://9to5toys.com/2025/01/23/rad-flash-radrover-radexpand-from-1099/">$1,199</a> low. That’s not the only EV lows here, as Greenworks’ 80V Venture e-bikes are all 25% off, with the <a href="https://9to5toys.com/2025/01/22/greenworks-commuter-e-bike-new-1425-low/">27.5-inch commuter e-bike</a> dropping to a new <a href="https://9to5toys.com/2025/01/22/greenworks-commuter-e-bike-new-1425-low/">$1,425</a> low. Lastly, we have <a href="https://9to5toys.com/2025/01/22/camplux-nano-3-max-360-low-2/">Camplux’s new Nano 3 Max</a> Portable Water Heater and Shower returning to its <a href="https://9to5toys.com/2025/01/22/camplux-nano-3-max-360-low-2/">$360</a> low in its third-ever discount. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/01/22/anker-solix-winter-sale-f2000/">Anker winter sale</a> roundup, the rare <a href="https://9to5toys.com/2025/01/22/orbit-velo-tracker-35-amz-low/">Orbit Velo bike tracker</a> deal, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="398863" href="https://electrek.co/2025/01/23/ecoflow-power-sale-rad-power-greenworks-more/#more-398863" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/23/ecoflow-power-sale-rad-power-greenworks-more/>
+
+---
+
+## Meet Cadillac’s new $80,000 Lyriq-V, the quickest Caddie (EV or gas-powered) so far
+
+date: 2025-01-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Cadillac-Lyriq-V-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With 615 horsepower, the Cadillac Lyriq-V is the quickest Caddie to date. <a href="https://electrek.co/guides/cadillac/">Cadillac’s</a> first V-Series EV will outsprint a CT5-V Blackwing, and it can be yours for under $80,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="cadillac,cadillac-lyriq" data-layer-viewtype="unknown" data-post-id="398833" href="https://electrek.co/2025/01/23/80000-cadillac-lyriq-v-quickest-car-ev-gas-ever/#more-398833" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/23/80000-cadillac-lyriq-v-quickest-car-ev-gas-ever/>
+
+---
+
+## The Average EV Costs $55,000
+
+date: 2025-01-23, from: Inside EVs News
+
+That's 12% more than your average gas-powered car. But these numbers don't tell the full story. 
+
+<br> 
+
+<https://insideevs.com/news/748214/ev-average-transaction-55544-2024/>
+
+---
+
+## Tesla announces giant price hikes to all electric cars in Canada
+
+date: 2025-01-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/tesla-logo-cars-lineup.png?w=1600" /></div><p>Tesla has announced some important price hikes across its entire lineup in Canada amid incentives going away and a struggling Canadian dollar.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="398832" href="https://electrek.co/2025/01/23/tesla-announces-giant-price-hikes-to-all-electric-cars-in-canada/#more-398832" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/23/tesla-announces-giant-price-hikes-to-all-electric-cars-in-canada/>
+
+---
+
+## Hyundai wants to re-badge EVs and sell them to GM: Here’s how it will work
+
+date: 2025-01-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Hyundai-US-made-IONIQ-5.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Two of the top-selling EV brands in the US are teaming up to overcome an uncertain market in 2025. <a href="https://electrek.co/guides/hyundai/">Hyundai</a> confirmed on Thursday that it’s nearing a deal with GM that would include re-badging EV models. Here’s what to expect.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="general-motors,gm,hyundai" data-layer-viewtype="unknown" data-post-id="398810" href="https://electrek.co/2025/01/23/hyundai-gm-close-in-on-major-ev-deal-how-it-will-work/#more-398810" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/23/hyundai-gm-close-in-on-major-ev-deal-how-it-will-work/>
+
+---
+
+## 2026 Cadillac Lyriq-V: The Quickest Cadillac Ever Is Electric
+
+date: 2025-01-23, from: Inside EVs News
+
+The V-Series take on the popular Lyriq gets boosted to 615 horsepower, while keeping a very respectable GM-estimated range of 285 miles.  
+
+<br> 
+
+<https://insideevs.com/news/748322/2026-cadillac-lyriq-v-quickest-cadillac-ever/>
+
+---
+
+## Subaru Thinks It Found A Golden Ticket
+
+date: 2025-01-23, from: Inside EVs News
+
+Plus, Nissan kills off its upcoming subcompact EV in the U.S. and Ford gives in to its EV dealers. 
+
+<br> 
+
+<https://insideevs.com/news/748225/subaru-golden-ticket-new-hybrids/>
 
 ---
 
@@ -161,7 +421,7 @@ Its charging performance is off the charts.
 
 date: 2025-01-22, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Nissan-electric-SUV-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/nissan/">Nissan</a> confirmed it is again delaying EV production at its Canton, Ohio plant. According to sources, it is also dropping plans to build an electric SUV similar in size to the Rogue Sport in the US.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Nissan-electric-SUV-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/nissan/">Nissan</a> confirmed it is again delaying EV production at its Canton, Mississippi plant. According to sources, it is also dropping plans to build an electric SUV similar in size to the Rogue Sport in the US.</p>
 
 
 

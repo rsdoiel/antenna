@@ -1,11 +1,311 @@
 ---
 title: journalism
-updated: 2025-01-23 07:05:26
+updated: 2025-01-24 07:04:47
 ---
 
 # journalism
 
-(date: 2025-01-23 07:05:26)
+(date: 2025-01-24 07:04:47)
+
+---
+
+## Classifieds – January 24, 2025
+
+date: 2025-01-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/24/classifieds-january-24-2025/">Classifieds &#8211; January 24, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/24/classifieds-january-24-2025/>
+
+---
+
+## USC grad helps create ‘brainrot’ study tool
+
+date: 2025-01-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The tool, Memenome, has received over 5.5 million views on its TikTok account.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/24/usc-grad-helps-create-brainrot-study-tool/">USC grad helps create ‘brainrot’ study tool</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/24/usc-grad-helps-create-brainrot-study-tool/>
+
+---
+
+## Alums go for Oscars gold, including Best Picture
+
+date: 2025-01-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Three former USC students have been nominated for the 97th Academy Awards.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/24/alums-go-for-oscars-gold-including-best-picture/">Alums go for Oscars gold, including Best Picture</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/24/alums-go-for-oscars-gold-including-best-picture/>
+
+---
+
+## Luna Day illuminates the music world
+
+date: 2025-01-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The innovative musician has become a rising star online and on the stage.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/24/luna-day-illuminates-the-music-world/">Luna Day illuminates the music world</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/24/luna-day-illuminates-the-music-world/>
+
+---
+
+## Predicting the state of the studios 2025
+
+date: 2025-01-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>It’s going to be a fascinating year for Hollywood’s major studios — let’s forecast it.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/24/state-of-the-studios-2025/">Predicting the state of the studios 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/24/state-of-the-studios-2025/>
+
+---
+
+## Los Angeles County fires bring increased anxiety, stress to UCLA students
+
+date: 2025-01-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+Vickie Mays is no stranger to disaster, having provided support to the New Orleans community following Hurricane Katrina.
+The health services and psychology professor said she was struck by the utter devastation of the ongoing wildfires – which is why she worried for students’ mental health as they returned to campus this week. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/los-angeles-county-fires-bring-increased-anxiety-stress-to-ucla-students/>
+
+---
+
+## Student receives graduate study award for research on LA gangs, school policing
+
+date: 2025-01-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+Growing up with his father as a member of a gang led to Frank Godinez&#8217;s first research project.
+The fourth-year political science and sociology student received the Beinecke Scholarship, a $35,000 award to fund graduate study for 20 students in the arts and social sciences, this year. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/student-receives-graduate-study-award-for-research-on-la-gangs-school-policing/>
+
+---
+
+## Los Angeles city leaders prepare for policy changes from Trump administration
+
+date: 2025-01-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+Los Angeles city leaders made plans to insulate marginalized communities from new White House policies, following the election of Donald Trump.
+Trump&#8217;s election has created concerns about the rights and safety of immigrants, with the president signing an executive order to declare a border emergency Monday. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/los-angeles-city-leaders-prepare-for-policy-changes-from-trump-administration/>
+
+---
+
+## Antonio Ríos-Bustamante, pioneer of Los Angeles Chicano studies, dies at 75
+
+date: 2025-01-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+Antonio R&#237;os-Bustamante held several titles throughout his life &#8211; dad, historian, activist and husband. At UCLA, he was known as a &#8220;walking dictionary.&#8221; 
+R&#237;os-Bustamante, a pioneer of the field of Chicana/o studies, died April 19 at 75 years old. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/antonio-ros-bustamante-pioneer-of-los-angeles-chicano-studies-dies-at-75/>
+
+---
+
+## Editorial Cartoon: “Delayed Decisions”
+
+date: 2025-01-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/editorial-cartoon-delayed-decisions/>
+
+---
+
+## Staff Highlight
+
+date: 2025-01-24, from: The Sundail (CSUN Student Newspaper)
+
+&#160; Ashley Sanchez With the 2024 graduating class causing almost every copy editor to leave the Sundial, a new wave of students had to step in; Ashley Sanchez was one... 
+
+<br> 
+
+<https://sundial.csun.edu/188832/print-editions/staff-highlight/>
+
+---
+
+## CSUN and Los Angeles React to the Election and Critical Race Theory
+
+date: 2025-01-24, from: The Sundail (CSUN Student Newspaper)
+
+As two months have passed since the 2024 General Election, which saw Donald Trump re-elected as the 47th POTUS, people at CSUN and Los Angeles County have many opinions due... 
+
+<br> 
+
+<https://sundial.csun.edu/188860/news/csun-and-los-angeles-react-to-the-election-and-critical-race-theory/>
+
+---
+
+## CSUN 2024 Achievements: Retrospective and Future
+
+date: 2025-01-24, from: The Sundail (CSUN Student Newspaper)
+
+As another year passes into the history books, CSUN has made great strides to become one of the top colleges in California. Here are some examples of amazing strides from... 
+
+<br> 
+
+<https://sundial.csun.edu/188877/print-editions/csun-2024-achievements-retrospective-and-future/>
+
+---
+
+## Matador Marquee
+
+date: 2025-01-24, from: The Sundail (CSUN Student Newspaper)
+
+In welcoming the new year comes big changes, whether it is with jobs, the upcoming semester or personal changes you hope to aspire to. With this in mind, there are... 
+
+<br> 
+
+<https://sundial.csun.edu/188848/arts-entertainment/matador-marquee-3/>
+
+---
+
+## Cantando
+
+date: 2025-01-24, from: The Sundail (CSUN Student Newspaper)
+
+© Pure Noise Records Golden Years &#8211; State Champs This bumping pop-punk track from State Champs brings new meaning to enjoying your life’s “Golden Years” and staying true to yourself.... 
+
+<br> 
+
+<https://sundial.csun.edu/188841/arts-entertainment/cantando-3/>
+
+---
+
+## Letter from Editor
+
+date: 2025-01-24, from: The Sundail (CSUN Student Newspaper)
+
+The Sundial has been seeing considerable changes in recent semesters. In the fall, the publication said farewell to our advisor and the 2024 graduating class, which made up almost our... 
+
+<br> 
+
+<https://sundial.csun.edu/188828/print-editions/letter-from-editor-3/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+The South Coast Air Quality Management District has issued a windblown ash and dust advisory for Los Angeles County, according to a press release from the county department of public health. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/478971/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Sepulveda Fire, which began 1.8 miles away from UCLA on Wednesday evening, has been 60% contained.
+<strong>[Related: Sepulveda fire east of Interstate 405 reaches 60% containment]</strong> 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/478969/>
+
+---
+
+## JOSEON Band and Artistic Collective: Growing in Los Angeles’s Underground Scene
+
+date: 2025-01-23, from: The Sundail (CSUN Student Newspaper)
+
+What started in a “dingy rehearsal room” in South Korea, blossomed into JOSEON, a band and art collective whose roots in Los Angeles have flourished since their first show in... 
+
+<br> 
+
+<https://sundial.csun.edu/188905/arts-entertainment/joseon-band-and-artistic-collective-growing-in-los-angeless-underground-scene/>
+
+---
+
+## Where to See Snow in California
+
+date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/where-to-see-snow-in-california/>
+
+---
+
+## Sepulveda fire east of Interstate 405 reaches 60% containment
+
+date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+A fire that started 1.8 miles away from the UCLA campus on Wednesday evening has been 60% contained.
+The Sepulveda fire started around 11 p.m. Wednesday near the Getty Center, prompting evacuation warnings bordering the campus. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/23/sepulveda-fire-east-of-interstate-405-reaches-60-containment/>
+
+---
+
+## What Incoming Freshmen Should Know About Available Health Resources
+
+date: 2025-01-23, from: The Sundail (CSUN Student Newspaper)
+
+Image source: https://shorturl.at/ZL8Q0 Starting college is exciting, but it also brings new challenges. Staying healthy is key to thriving during this time. Most campuses offer resources designed to support students’ well-being,... 
+
+<br> 
+
+<https://sundial.csun.edu/188825/sundialbrandstudio/sundial-marketplace/what-incoming-freshmen-should-know-about-available-health-resources/>
+
+---
+
+## What Are the Key Concerns for Student Developers Today?
+
+date: 2025-01-23, from: The Sundail (CSUN Student Newspaper)
+
+Image Source: Pexels Student developers today face challenges that shape their learning and future careers. Even so, these obstacles offer valuable lessons in resilience and problem-solving. So what are the most... 
+
+<br> 
+
+<https://sundial.csun.edu/188822/sundialbrandstudio/sundial-marketplace/what-are-the-key-concerns-for-student-developers-today/>
+
+---
+
+## How Vocational Skills Complement Academic Programs
+
+date: 2025-01-23, from: The Sundail (CSUN Student Newspaper)
+
+Image source: Pixabay Understanding the relationship between vocational skills and academic programs offers valuable insights for today&#8217;s students. Vocational training adds practical experience to traditional education, enhancing learning by providing... 
+
+<br> 
+
+<https://sundial.csun.edu/188819/sundialbrandstudio/sundial-marketplace/how-vocational-skills-complement-academic-programs/>
 
 ---
 
@@ -13,8 +313,8 @@ updated: 2025-01-23 07:05:26
 
 date: 2025-01-23, from: The Daily Bruin (UCLA Student Newspaper)
 
-After diving headfirst into her feature-length debut, Sundance Film Festival audiences will dip their toes in Sierra Falconer&#8217;s childhood memories of Green Lake.
-&#8220;Sunfish (&#38; Other Stories on Green Lake),&#8221; the UCLA thesis film capping Sierra Falconer&#8217;s 2024 film production and directing master&#8217;s degree, will premiere Sunday at Sundance as part of the U.S. 
+After diving headfirst into her feature-length debut, Sundance Film Festival audiences will dip their toes in Sierra Falconer’s childhood memories of Green Lake.
+“Sunfish (&#38; Other Stories on Green Lake),” the UCLA thesis film capping Sierra Falconer’s 2024 film production and directing master’s degree, will premiere Sunday at Sundance as part of the U.S. 
 
 <br> 
 

@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-01-23 07:05:28
+updated: 2025-01-24 07:04:48
 ---
 
 # retro computing
 
-(date: 2025-01-23 07:05:28)
+(date: 2025-01-24 07:04:48)
+
+---
+
+## Wine 10 Includes Plenty to Excite Users
+
+date: 2025-01-23, from: Linux Magazine
+
+<p>With its latest release, Wine has the usual crop of bug fixes and improvements, along with some exciting new features.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Wine-10-Includes-Plenty-to-Excite-Users>
 
 ---
 
@@ -99,11 +111,11 @@ An important warning before we continue: from the telephone company side the lin
 <p>
 The software part has to do with how data from the Commodore 64 is modulated to send to the other system's modem. For that, we turn to John's program, as he posted it (in separate versions for NTSC and PAL Commodores for reasons I'll explain as we analyse the disassembly). It was presented as a type-in program in BASIC, short enough to type in by hand, with an embedded machine language section loaded from DATA statements. Here's a couple videos showing what it looked like in practice. The modulated audio is played through the speaker, so don't have it up too high.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dw2CLzk4EyQqroCISbNPvbQB60914HVPRSby_YN56bK6pJJ6aNKh-QeVx2CyRFvWF-Uk9NGvqxAFTe2X1_OKg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxy0fWbvafj1BMlfIY9xtQ79G_K8B3oSyLIt_lZsbD1nvlrFjBf3A7QtZ3oGEmpovc62ofrzN5BSsDPnKPUzA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 After the machine code is transferred to memory, a continuous tone starts playing and the program enters a basic terminal mode. As we type on the keyboard, we hear the tone "warble" as each bit of the character's ASCII value is modulated and played to the other end.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz109tOtVEOArCl7k4u5SptN7oFxgwNrYAwMqLUbrsba1S3bVCKgbYXHg7vUaKkvmGMy26JLk6YJ3dWXmLLhg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyZUxR3Pw7yNUW9BSZRpPP2e7WJu2dJAWBeIF_pzYi6JHkrVyzkJidfpoTInUdAlM4VGQH45NR8l4kDFtObhw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 If you press F1, it will then give you the opportunity to send a file. This file is sent using Xmodem-CRC so the remote side can reliably detect errors, but since the transmission is one-direction the 64 side simply pretends everything succeeds, pauses briefly to let the other end send its acknowledge byte, and then goes onto the next block. You can hear the file itself being modulated in the audio also; around 1'10" the last block is sent, which is padded with ^Z and thus has a characteristic repeated sound (plus a single "blip" after it for the end-of-text character ^D). When the transmission is complete, the program ends.
 <p>
@@ -438,7 +450,7 @@ lc119   lda #$1a
 <p>
 Note that the branch at $c11b will always be taken since we just loaded a non-zero immediate into the accumulator. Again, another nice way of increasing code density and reducing type-in size. Should the file have ended in the first two bytes used to prime the CRC-16, John's code just stuffs ^Zs into it manually.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyo-CEnF_XG-PRyeBQWzn8X3sD1tzJIspajRyXTd4T6t-DC8yfAntq0_pxclGIPFjEif2K_ymB2OUEVjiNKXg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dygwwMJc8wc9ZZ3WnxPsE4iLKNPZYH8d2tWxA_rvFTQILtPwTf3We_eYlHr_kxwjwpnnaf_oI1GlB_ndUzJVA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 This video shows the unified, enhanced version in action. When it starts up, it detects the correct video standard (or you can force it), and allows you to send a dialtone or go directly to an answer tone. Once the "softmodem" has answered, you can then enter the terminal or upload files. You can enter and exit the terminal or file transfer as desired, or simply "hang up" when you're done, which turns off the SID's output and causes any connected modem to perceive loss of carrier and terminate the link.
 <p>

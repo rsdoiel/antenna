@@ -1,11 +1,95 @@
 ---
 title: ham radio
-updated: 2025-01-23 07:05:25
+updated: 2025-01-24 07:04:45
 ---
 
 # ham radio
 
-(date: 2025-01-23 07:05:25)
+(date: 2025-01-24 07:04:45)
+
+---
+
+## The SoC design: What’s next for NoCs?
+
+date: 2025-01-24, from: EDN Blog
+
+<img width="1430" height="955" src="https://www.edn.com/wp-content/uploads/EDN-Whats-Next-for-NoCs.jpg?fit=1430%2C955" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/EDN-Whats-Next-for-NoCs.jpg?w=1430 1430w, https://www.edn.com/wp-content/uploads/EDN-Whats-Next-for-NoCs.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/EDN-Whats-Next-for-NoCs.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/EDN-Whats-Next-for-NoCs.jpg?w=1024 1024w" sizes="(max-width: 1430px) 100vw, 1430px" /><p>With advanced NoC tools, SoC designers will be able to address escalating design requirements with greater efficiency.</p>
+<p>The post <a href="https://www.edn.com/the-soc-design-whats-next-for-nocs/" data-wpel-link="internal">The SoC design: What’s next for NoCs?</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/the-soc-design-whats-next-for-nocs/>
+
+---
+
+## MCUs target motor control and power conversion
+
+date: 2025-01-23, from: EDN Blog
+
+<img width="800" height="462" src="https://www.edn.com/wp-content/uploads/Infineon-PSOC-Control.jpg?fit=800%2C462" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Infineon-PSOC-Control.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Infineon-PSOC-Control.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Infineon-PSOC-Control.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Infineon’s first PSOC Control MCUs, based on an Arm Cortex-M33 processor, enable secured motor control and power conversion.</p>
+<p>The post <a href="https://www.edn.com/mcus-target-motor-control-and-power-conversion/" data-wpel-link="internal">MCUs target motor control and power conversion</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/mcus-target-motor-control-and-power-conversion/>
+
+---
+
+## Keysight elevates chiplet design environment
+
+date: 2025-01-23, from: EDN Blog
+
+<img width="800" height="451" src="https://www.edn.com/wp-content/uploads/Keysight-Chiplet-PHY-Designer.jpg?fit=800%2C451" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Keysight-Chiplet-PHY-Designer.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Keysight-Chiplet-PHY-Designer.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Keysight-Chiplet-PHY-Designer.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Chiplet PHY Designer 2025 offers simulation capabilities for UCIe 2.0 and support for the Open Compute Project Bunch of Wires (BoW) standard.</p>
+<p>The post <a href="https://www.edn.com/keysight-elevates-chiplet-design-environment/" data-wpel-link="internal">Keysight elevates chiplet design environment</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/keysight-elevates-chiplet-design-environment/>
+
+---
+
+## GaN die power custom MMICs
+
+date: 2025-01-23, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Guerrilla-RF-020D_030D.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Guerrilla-RF-020D_030D.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Guerrilla-RF-020D_030D.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Guerrilla-RF-020D_030D.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Guerrilla RF’s GRF0020D and GRF0030D GaN-on-SiC HEMT power amplifiers deliver up to 50 W of saturated power.</p>
+<p>The post <a href="https://www.edn.com/gan-die-power-custom-mmics/" data-wpel-link="internal">GaN die power custom MMICs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/gan-die-power-custom-mmics/>
+
+---
+
+## Scope option enables wideband modulated load pull
+
+date: 2025-01-23, from: EDN Blog
+
+<img width="800" height="403" src="https://www.edn.com/wp-content/uploads/Rohde-RTP-K98.jpg?fit=800%2C403" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Rohde-RTP-K98.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Rohde-RTP-K98.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Rohde-RTP-K98.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>R&#038;S offers a load pull test setup with wideband modulated signals using the RTP oscilloscope for non-linear device characterization.</p>
+<p>The post <a href="https://www.edn.com/scope-option-enables-wideband-modulated-load-pull/" data-wpel-link="internal">Scope option enables wideband modulated load pull</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/scope-option-enables-wideband-modulated-load-pull/>
+
+---
+
+## TCXO enhances synchronization for 800G networks
+
+date: 2025-01-23, from: EDN Blog
+
+<img width="800" height="444" src="https://www.edn.com/wp-content/uploads/SiTime-SiT5977.jpg?fit=800%2C444" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/SiTime-SiT5977.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/SiTime-SiT5977.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/SiTime-SiT5977.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>The SiT5977 Super-TCXO from SiTime is a single-chip timing device that achieves 3X better synchronization than its predecessor.</p>
+<p>The post <a href="https://www.edn.com/tcxo-enhances-synchronization-for-800g-networks/" data-wpel-link="internal">TCXO enhances synchronization for 800G networks</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/tcxo-enhances-synchronization-for-800g-networks/>
 
 ---
 
@@ -13,7 +97,7 @@ updated: 2025-01-23 07:05:25
 
 date: 2025-01-23, from: EDN Blog
 
-<img width="434" height="262" src="https://www.edn.com/wp-content/uploads/Calories-3.png?fit=434%2C262" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Calories-3.png?w=434 434w, https://www.edn.com/wp-content/uploads/Calories-3.png?w=300 300w" sizes="(max-width: 434px) 100vw, 434px" /><p>John Dunn’s observation on the relationship between calories, body's heat dissipation, and how this can impact an environmental test chamber.</p>
+<img width="434" height="262" src="https://www.edn.com/wp-content/uploads/Calories-3.png?fit=434%2C262" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Calories-3.png?w=434 434w, https://www.edn.com/wp-content/uploads/Calories-3.png?w=300 300w" sizes="auto, (max-width: 434px) 100vw, 434px" /><p>John Dunn’s observation on the relationship between calories, body's heat dissipation, and how this can impact an environmental test chamber.</p>
 <p>The post <a href="https://www.edn.com/calories-power-dissipation-and-environmental-chambers/" data-wpel-link="internal">Calories, power dissipation, and environmental chambers</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
