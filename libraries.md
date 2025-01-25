@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-01-24 07:04:47
+updated: 2025-01-25 07:05:22
 ---
 
 # libraries
 
-(date: 2025-01-24 07:04:47)
+(date: 2025-01-25 07:05:22)
 
 ---
 
@@ -13,7 +13,7 @@ updated: 2025-01-24 07:04:47
 
 date: 2025-01-24, from: Association of Research Libraries News
 
-<p>Last Updated on January 24, 2025, 6:37 am ET Earlier this week, the Association of Research of Libraries (ARL) paused to honor the legacy of Dr. Martin Luther King Jr.,...</p>
+<p>Last Updated on January 24, 2025, 4:57 pm ET Earlier this week, the Association of Research of Libraries (ARL) paused to honor the legacy of Dr. Martin Luther King Jr.,...</p>
 <p>The post <a href="https://www.arl.org/blog/arl-honors-dr-martin-luther-king-jr-and-the-national-day-of-racial-healing/">ARL Honors Dr. Martin Luther King Jr. and the National Day of Racial Healing</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

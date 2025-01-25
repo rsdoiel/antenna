@@ -1,11 +1,25 @@
 ---
 title: health
-updated: 2025-01-24 07:04:48
+updated: 2025-01-25 07:05:23
 ---
 
 # health
 
-(date: 2025-01-24 07:04:48)
+(date: 2025-01-25 07:05:23)
+
+---
+
+## Leigh Anne Rewires Her Brain to Change Stressful Thought Patterns
+
+date: 2025-01-24, from: Center for Healthy Living, So Cal. Kaiser blog
+
+<p>At the age of 47, Leigh Anne was determined and hopeful about changing old thinking patterns and behaviors to focus on what truly mattered to her. Leigh Anne is a program facilitator for a school district and a teacher by trade. Leigh Anne, a lifelong Kaiser Permanente member, began her journey with Kaiser Permanente’s Center&#8230;</p>
+<p>The post <a href="https://centerforhealthyliving-southern-california.kaiserpermanente.org/leigh-anne-rewires-her-brain-to-change-stressful-thought-patterns/">Leigh Anne Rewires Her Brain to Change Stressful Thought Patterns</a> appeared first on <a href="https://centerforhealthyliving-southern-california.kaiserpermanente.org">Kaiser Permanente Southern California Center for Healthy Living</a>.</p>
+ 
+
+<br> 
+
+<https://centerforhealthyliving-southern-california.kaiserpermanente.org/leigh-anne-rewires-her-brain-to-change-stressful-thought-patterns/>
 
 ---
 
@@ -366,4 +380,18 @@ Conserved histone methyltransferases of the DOT1 family are involved in replicat
 <br> 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2024.1502339>
+
+---
+
+## Is Ginger Good For Kidneys?
+
+date: 2025-01-18, from: The Kidney Dietitian
+
+<p>Is this unassuming kitchen spice the key to kidney health? Is ginger good for our kidneys if consumed in moderation? Ginger provides a multitude of benefits, however, there are some risks associated with ginger that we must be aware of. That being said, is there a place for this commonly used flavoring in a kidney [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/is-ginger-good-for-kidneys/">Is Ginger Good For Kidneys?</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<br> 
+
+<https://www.thekidneydietitian.org/is-ginger-good-for-kidneys/>
 

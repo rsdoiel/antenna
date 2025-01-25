@@ -1,20 +1,80 @@
 ---
 title: ham radio
-updated: 2025-01-24 07:04:45
+updated: 2025-01-25 07:05:20
 ---
 
 # ham radio
 
-(date: 2025-01-24 07:04:45)
+(date: 2025-01-25 07:05:20)
 
 ---
 
-## The SoC design: What’s next for NoCs?
+## ARRL Club Grants Fund Hardware for Florida students to make contact with the International Space Station
+
+date: 2025-01-24, from: Amateur Radio Relay League News
+
+<p>Pine View School for the Gifted (PVS) in Osprey, Florida, has an opportunity to achieve a historic milestone on Tuesday, January 28, at 12:21 PM (EST), when students and faculty make live contact with astronauts aboard the International Space Station (ISS). The event marks the first time any school in Sarasota County has been selected to take part in the Amateur Radio on the International Space...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-club-grants-fund-hardware-for-florida-students-to-make-contact-with-the-international-space-sta>
+
+---
+
+## ARRL Club Grant Program Awards a Half Million Dollars to Grow Ham Radio
+
+date: 2025-01-24, from: Amateur Radio Relay League News
+
+<p>Thirty-seven amateur radio clubs benefitted from $500,502 in grants through the ARRL Club Grant Program to implement projects that educate, recruit, train, and promote amateur radio in their communities. Funding for the grants comes from Amateur Radio Digital Communications (ARDC).   </p><p>There were 110 applicants to the 2024 ARRL Club Grant Program, with applicants from all ARRL Divisions and 40 st...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-club-grant-program-awards-a-half-million-dollars-to-grow-ham-radio>
+
+---
+
+## Former QST Columnist, Dr. Emil Pocock, W3EP, Silent Key
+
+date: 2025-01-24, from: Amateur Radio Relay League News
+
+<p>Dr. Emil Pocock, W3EP, has become a Silent Key. He passed away on January 10, 2025, at the age of 78. From 1992 to 2002, Pocock edited “The World Above 50 MHz” for ARRL’s membership journal, <em>QST</em>. He served as a volunteer in the ARRL Laboratory for many years. </p><p>Pocock was first licensed at the age of 12 and found a career as an academic. He was well-regarded by colleagues at ARRL as always being ...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/former-qst-columnist-dr-emil-pocock-w3ep-silent-key>
+
+---
+
+## Get Ready for "Ham Radio Open House" on World Amateur Radio Day 2025
+
+date: 2025-01-24, from: Amateur Radio Relay League News
+
+<p>To help promote amateur radio science and technology, and to honor the 100th anniversary of the International Amateur Radio Union (IARU), ARRL is inviting radio clubs and schools to organize a Ham Radio Open House in April, built around World Amateur Radio Day (WARD) on April 18.</p><p>The event is intended to highlight the Amateur Radio Service for its development and practice of the latest radio com...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/get-ready-for-ham-radio-open-house-on-world-amateur-radio-day-2025>
+
+---
+
+## Ham Radio Demonstration Helps Survivors of Violence at Camp
+
+date: 2025-01-24, from: Amateur Radio Relay League News
+
+<p>Camp Family Justice serves pediatric survivors of violence in Contra Costa County, California, providing them with an opportunity to enjoy the outdoors in a safe environment surrounded by support services, including a medical clinic. The camp provides the opportunity for children to decompress, learn resiliency skills and build a path forward. Children who applied this year, and attended last y...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/ham-radio-demonstration-helps-survivors-of-violence-at-camp>
+
+---
+
+## SoC design: What’s next for NoCs?
 
 date: 2025-01-24, from: EDN Blog
 
 <img width="1430" height="955" src="https://www.edn.com/wp-content/uploads/EDN-Whats-Next-for-NoCs.jpg?fit=1430%2C955" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/EDN-Whats-Next-for-NoCs.jpg?w=1430 1430w, https://www.edn.com/wp-content/uploads/EDN-Whats-Next-for-NoCs.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/EDN-Whats-Next-for-NoCs.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/EDN-Whats-Next-for-NoCs.jpg?w=1024 1024w" sizes="(max-width: 1430px) 100vw, 1430px" /><p>With advanced NoC tools, SoC designers will be able to address escalating design requirements with greater efficiency.</p>
-<p>The post <a href="https://www.edn.com/the-soc-design-whats-next-for-nocs/" data-wpel-link="internal">The SoC design: What’s next for NoCs?</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+<p>The post <a href="https://www.edn.com/the-soc-design-whats-next-for-nocs/" data-wpel-link="internal">SoC design: What’s next for NoCs?</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
 <br> 

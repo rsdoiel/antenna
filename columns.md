@@ -1,11 +1,183 @@
 ---
 title: columns
-updated: 2025-01-24 07:04:46
+updated: 2025-01-25 07:05:21
 ---
 
 # columns
 
-(date: 2025-01-24 07:04:46)
+(date: 2025-01-25 07:05:21)
+
+---
+
+## Friday Squid Blogging: Beaked Whales Feed on Squid
+
+date: 2025-01-24, updated: 2025-01-06, from: Bruce Schneier blog
+
+<p>A Travers&#8217; beaked whale (<i>Mesoplodon traversii</i>) washed ashore in New Zealand, and scientists <a href="https://thinkstewartville.com/2024/12/24/scientists-make-shocking-find-inside-worlds-rarest-whale-unexpected-discovery-surprises-experts/">conlcuded</a> that &#8220;the prevalence of squid remains [in its stomachs] suggests that these deep-sea cephalopods form a significant part of the whale&#8217;s diet, similar to other beaked whale species.&#8221;</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/01/friday-squid-blogging-beaked-whales-feed-on-squid.html>
+
+---
+
+##  How to Weather the Storm 
+
+date: 2025-01-24, updated: 2025-01-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/how-to-weather-the-storm>
+
+---
+
+##  This post by Matt Webb on &#8220;a bunch of stuff that happened&#8221;... 
+
+date: 2025-01-24, updated: 2025-01-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046062-this-post-by-matt-webb>
+
+---
+
+## January 23, 2025
+
+date: 2025-01-24, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155647523/b2932ee83459acf803ae398303be7687.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155647523/b2932ee83459acf803ae398303be7687.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-23-2025-855>
+
+---
+
+##  “Live, laugh, tape fish on ATMs.&#8221; Last year, a Utah teen was... 
+
+date: 2025-01-24, updated: 2025-01-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046059-live-laugh-tape-fish-on>
+
+---
+
+##  From Antiques Roadshow in 1990, a look at a rare first edition... 
+
+date: 2025-01-24, updated: 2025-01-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046035-from-antiques-roadshow-in>
+
+---
+
+## ★ ICE Raids Are an Escalation of Our Long-Simmering De Facto Cold Civil War
+
+date: 2025-01-24, updated: 2025-01-24, from: Daring Fireball
+
+Trump says they’re targeting all undocumented immigrants, but so far they’re only targeting those who live in places that are popularly opposed to it. And that’s where the costs — both emotional and economic — will be felt. 
+
+<br> 
+
+<https://daringfireball.net/2025/01/ice_raids_are_an_escalation_of_a_de_facto_cold_civil_war>
+
+---
+
+##  Global economy could face 50% loss in GDP between 2070 and 2090... 
+
+date: 2025-01-24, updated: 2025-01-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046039-global-economy-could-face>
+
+---
+
+## Here’s how Trump’s vengeance machine works 
+
+date: 2025-01-24, from: Robert Reich's blog
+
+He&#8217;s the mob boss who keeps his hands clean while others do his dirty work. 
+
+<br> 
+
+<https://robertreich.substack.com/p/heres-how-trumps-vengeance-machine>
+
+---
+
+##  A real-time map of passenger trains in the US and Canada. Good... 
+
+date: 2025-01-24, updated: 2025-01-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046060-a-real-time-map-of-passen>
+
+---
+
+##  Comets Are Cool 
+
+date: 2025-01-24, updated: 2025-01-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/comets-are-cool>
+
+---
+
+## Quick tip: Rotating images and videos 90 degrees in MacOS Finder using CMD+R or CMD+L
+
+date: 2025-01-24, from: Chris Heilmann's blog
+
+Whilst trying to reload a document in my browser, I found an interesting shortcut. As I had a Finder window in focus with a video file highlighted, I found out that: You can rotate images and videos in Finder 90 degrees clockwise by pressing CMD+R and You can rotate images and videos in Finder 90 [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2025/01/24/quick-tip-rotating-images-and-videos-90-degrees-in-macos-finder-using-cmdr-or-cmdl/>
+
+---
+
+##  An interview with Questlove on his upcoming documentary on the history of... 
+
+date: 2025-01-24, updated: 2025-01-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046057-an-interview-with-questlo>
+
+---
+
+##  Supercut of Movie Scenes That Break the Fourth Wall 
+
+date: 2025-01-24, updated: 2025-01-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/supercut-of-movie-scenes-that-break-the-fourth-wall-1>
 
 ---
 
@@ -51,10 +223,8 @@ date: 2025-01-24, from: Dave Winer's Scripting News
 
 <p>I kept this screenshot assuming someday we might be asked to forget. Back when the NYT tried sometimes to report the news as it actually happened. </p>
 <p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/01/24/trumpIncitesMobNYT.png"></center>Trump incites mob. Capitol evacuated. A day which will live in infamy.</div></p>
-<p>Objectively, January 6, 2021 was even more of a "day which will live in infamy" than the Japanese attack on <a href="https://www.nationalww2museum.org/war/topics/pearl-harbor-december-7-1941">Pearl Harbor</a> on December 7, 1941.
-It was more insidious because while Hawaii was an American territory, January 6 was an attack on the actual center of our government. Had the mob prevailed, the US would have been defeated, there and then. </p>
-<p>The Capitol police were our last line of defense, they received no help from military.
-</p>
+<p>Objectively, January 6, 2021 was even more of a "day which will live in infamy" than the Japanese attack on <a href="https://www.nationalww2museum.org/war/topics/pearl-harbor-december-7-1941">Pearl Harbor</a> on December 7, 1941.   It was more insidious because while Hawaii was an American territory, January 6 was an attack on the actual center of our government. Had the mob prevailed, the US would have been defeated, there and then. </p>
+<p>The Capitol police were our last line of defense, they received no help from military. </p>
 <p>The Supreme Court should count their blessings too, because their building is <a href="https://www.google.com/maps/dir/United+States+Capitol,+Washington,+DC+20004/Supreme+Court+of+the+United+States,+1+First+St+NE,+Washington,+DC+20543/@38.8904572,-77.0093201,992m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x89b7b82921a2cf17:0x482a3f7c10cf8c4!2m2!1d-77.0090505!2d38.8899389!1m5!1m1!1s0x89b7b828d32c69bb:0xffb704728ee19592!2m2!1d-77.0044398!2d38.8906424!3e2?entry=ttu&g_ep=EgoyMDI1MDEyMS4wIKXMDSoASAFQAw%3D%3D">just behind</a> the Capitol. </p>
  
 
@@ -66,7 +236,7 @@ It was more insidious because while Hawaii was an American territory, January 6 
 
 **@Dave Winer's Scripting News** (date: 2025-01-24, from: Dave Winer's Scripting News)
 
-BTW, Bluesky, for me, is already a greater flow generator than Twitter ever was. My <a href="https://bsky.app/profile/scripting.com/post/3lgibxvpz3k2x">post</a> about never forgetting Trump's coup attempt has already been RT'd 2.8K times, about three hours after it was posted. In all my years of using the <a href="https://daytona.scripting.com/search?q=%22social%20web%22">social web</a> I've never gotten that much attention. I have 11.7K followers, far fewer than I have on Twitter. 
+BTW, Bluesky, for me, is already a greater flow generator than Twitter ever was. My <a href="https://bsky.app/profile/scripting.com/post/3lgibxvpz3k2x">post</a> about never forgetting Trump's coup attempt has already been RT'd 2.8K times, about three hours after it was posted. In all my years of using the <a href="https://daytona.scripting.com/search?q=%22social%20web%22">social web</a> I've never gotten that much attention. I have 11.7K followers, far fewer than I have on Twitter. By 5PM it had been RT'd 10K times. 
 
 <br> 
 
@@ -96,99 +266,6 @@ date: 2025-01-24, updated: 2025-01-24, from: Liam Proven's articles at the Regis
 <br> 
 
 <https://go.theregister.com/i/cfa/https://www.theregister.com/2025/01/24/wine_turns_10/>
-
----
-
-## 2025-01-23 The bots are at it again
-
-date: 2025-01-24, from: Alex Schroeder's Blog
-
-<h1 id="2025-01-23-the-bots-are-at-it-again">2025-01-23 The bots are at it again</h1>
-
-<p>For a while I just appended new graphs and data to <a href="2024-11-25-emacs-china">the last post on this topic</a>.
-This time around I feel it&rsquo;s worse. There are so many bots that I can&rsquo;t even do the WHOIS lookup any more.
-Or perhaps I just managed to block so few that I never realized how many more there were.
-In any case, now that I&rsquo;m speeding things up, there are more bots to block.</p>
-
-<p><strong>If you want to partake in unsupervised banning with no feedback, no due process, just automatic ban-hammers, take a look at this script full of firewall commands.</strong></p>
-
-<p>It needs ipset and iptables access: <a href="/admin/ban-cidr">ban-cidr</a>.</p>
-
-<p>I blocked another 4669 networks.</p>
-
-<p>What I did was get the most recent 10000 lines from the Apache access log, filter out all the requests for my GoToSocial instance (hoping that it has good defences!?), grepping for the magic word, <a href="/admin/network-lookup-lean">doing reverse lookups</a> using <code>asn.routeviews.org</code> and banning them all. Looking at a summary, there were two networks with 6 requests, 6 networks with 5 requests, etc. Of the 4669 networks banned, there were 3985 networks with a single request only.</p>
-
-<p>That is to say, the network lookup is not really all that efficient because the requests are so incredibly diverse. There are essentially no individual IP numbers to ban because there are no repeat offenders, and even with that great ban-hammer of mine, this wouldn&rsquo;t help against the next 85% of requests because they are all unique.</p>
-
-<p>Now, I was already banning about 10,000 networks yesterday, and their success rate is still 85%! So that tells you that even this little jousting I&rsquo;m doing is tilting at windmills because these bots are turning the web to shit.</p>
-
-<p>Summing the numbers I see that I looked at 10,000 requests, discarded all the hits for my GoToSocial instance and still had 5560 bot hits.</p>
-
-<p>Every website everywhere is paying the distributed price for these leeches to keep their projects running. Of course, I could rent a bigger machine, run a bigger cache, spending more money and more time for their scam.</p>
-
-<p>I keep shouting &ldquo;CO₂ for the CO₂ god!&rdquo; and that&rsquo;s part of it, yes… Sadly!</p>
-
-<p>Oh, and I could not post this on fedi because my GoToSocial instance is unable to cope and takes a very long time to recover from the onslaught. While I waited, I banned another 2184 networks. And I kept doing it.</p>
-
-<p>Fuck this shit.</p>
-
-<p>Fuck this whole generation.</p>
-
-<p>Time passes.</p>
-
-<p>Let me count how many entries I added today.</p>
-
-<pre><code>awk 'BEGIN {c=0; n=0} /^# 2025-01-23/ {c=1} c&amp;&amp;/^ipset/ {n++} END {print n}' \
-  bin/admin/ban-cidr
-14497
-</code></pre>
-
-<p>I think it&rsquo;s about time to add some fail2ban code.
-If only I knew how.
-More cost they are putting on every single site operator and service provider out there.</p>
-
-<p>Right now load is below 4, so that&rsquo;s not too bad for 2 cores.
-The sites are still sluggish. I some sort of congestion issue.</p>
-
-<p><img loading="lazy" src="2025-01-23-bots-devouring-the-web-1.jpg" alt="Netstats showing connections established spiking." /></p>
-
-<p><a class="tag" href="/search/?q=%23ButlerianJihad">#ButlerianJihad</a></p>
-
-<p><strong>2025-01-24</strong>. What I did all day, yesterday:</p>
-
-<pre><code># prefix with a timestamp
-date; tail -n 2000 /var/log/apache2/access.log \
- | grep -v ^social \
- | grep &quot;rcidonly&quot; \
- | bin/admin/network-lookup-lean &gt; result.log
-# count
-grep ipset result.log|wc -l
-# add
-grep ipset result.log|sh
-# document
-grep ipset result.log&gt;&gt;bin/admin/ban-cidr
-</code></pre>
-
-<p>But today:</p>
-
-<p><img loading="lazy" src="2025-01-23-bots-devouring-the-web-2.jpg" alt="After midnight, load climbed up to 40 and stayed up there" /></p>
-
-<p>I think made a mistake, yesterday around midnight. I rebooted the server and didn&rsquo;t check whether all the firewall rules were reinstalled. I thought the packages iptables-persistent and/or netfilter-persistent took care of that but I was missing something important:</p>
-
-<pre><code># persist across reboots
-iptables-save &gt; /etc/iptables/rules.v4
-ip6tables-save &gt; /etc/iptables/rules.v6
-</code></pre>
-
-<p>I bet I had not run this in a very long time and therefore the firewall rules were only partially reinstated. I think the graphs above illustrates what happens to my server without the firewall rules.</p>
-
-<p>Grrr.</p>
-
-<p>They said we&rsquo;re running out of IPv4 numbers but now that I&rsquo;m trying to block bots descending like flesh flies on baby bison, it turns out that there are still thousands of networks that need blocking. Holy cow may Baal eat the eyes of all the engineers partaking in this scouring of the web; may all the project managers rot and lose their teeth, their nails, their hair and their sense of smell; let them all suffer these curses until they repent, until they mend their ways and help undo the damage they are wreaking.</p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-01-23-bots-devouring-the-web>
 
 ---
 
@@ -300,7 +377,7 @@ date: 2025-01-23, updated: 2025-01-23, from: Jason Kittke's blog
 
 ## ★ Siri Is Super Dumb and Getting Dumber
 
-date: 2025-01-23, updated: 2025-01-23, from: Daring Fireball
+date: 2025-01-23, updated: 2025-01-24, from: Daring Fireball
 
 Siri with Apple Intelligence gives confident but embarrasingly wrong answers to sports trivia questions, both famous (Super Bowls) and obscure (North Dakota high school hoops). 
 
@@ -356,6 +433,7 @@ date: 2025-01-23, from: Stephen Wolfram blog
 <source type="video/mp4" src="https://content.wolfram.com/sites/43/2025/01/sw012225followthatimg1a.mp4"></source>
 	<source type="video/mp4" src="https://content.wolfram.com/sites/43/2025/01/sw012225followthatimg3a.mp4"></source>
 	<source type="video/mp4" src="https://content.wolfram.com/sites/43/2025/01/sw012225followthatimg6a.mp4"></source>
+	<source type="video/mp4" src="https://content.wolfram.com/sites/43/2025/01/sw012325llmimg3.mp4"></source>
 </video> <a href="https://content.wolfram.com/sites/43/2025/01/sw012225followthatimg1a.mp4" target="_blank">download video/mp4</a> 
 
 <https://writings.stephenwolfram.com/2025/01/launching-version-14-2-of-wolfram-language-mathematica-big-data-meets-computation-ai/>
@@ -1396,7 +1474,7 @@ date: 2025-01-21, updated: 2025-01-21, from: Jason Kittke's blog
 
 ## AI Mistakes Are Very Different from Human Mistakes
 
-date: 2025-01-21, updated: 2025-01-20, from: Bruce Schneier blog
+date: 2025-01-21, updated: 2025-01-24, from: Bruce Schneier blog
 
 <p>Humans make mistakes all the time. All of us do, every day, in tasks both new and routine. Some of our mistakes are minor and some are catastrophic. Mistakes can break trust with our friends, lose the confidence of our bosses, and sometimes be the difference between life and death.</p>
 <p>Over the millennia, we have created security systems to deal with the sorts of mistakes humans commonly make. These days, casinos rotate their dealers regularly, because they make mistakes if they do the same task for too long. Hospital personnel write on limbs before surgery so that doctors operate on the correct body part, and they count surgical instruments to make sure none were left inside the body. From copyediting to double-entry bookkeeping to appellate courts, we humans have gotten really good at correcting human mistakes...</p> 
@@ -1746,11 +1824,11 @@ date: 2025-01-20, from: Dave Rupert blog
   <span class="py">--hue</span><span class="p">:</span> <span class="m">196</span><span class="p">;</span>
   <span class="py">--rotated-hue</span><span class="p">:</span> <span class="n">calc</span><span class="p">(</span><span class="n">var</span><span class="p">(</span><span class="n">--starting-hue</span><span class="p">)</span> <span class="err">+</span> <span class="n">var</span><span class="p">(</span><span class="n">--hue-rotate</span><span class="p">,</span> <span class="m">0</span><span class="p">));</span>
   <span class="py">--hue-rotate-deg</span><span class="p">:</span> <span class="n">calc</span><span class="p">(</span><span class="n">var</span><span class="p">(</span><span class="n">--hue-rotate</span> <span class="err">*</span> <span class="m">1deg</span><span class="p">));</span> <span class="c">/* Convert to degrees */</span>
-  <span class="py">--hue-rotate-cos</span><span class="p">:</span> <span class="n">cos</span><span class="p">(</span><span class="n">var</span><span class="p">(</span><span class="n">--hue-rotate-deg</span><span class="p">))</span> <span class="c">/* Magic */</span>
+  <span class="py">--hue-rotate-wave</span><span class="p">:</span> <span class="n">cos</span><span class="p">(</span><span class="n">var</span><span class="p">(</span><span class="n">--hue-rotate-deg</span><span class="p">))</span> <span class="c">/* Magic */</span>
   
   <span class="n">--bg</span><span class="p">:</span> <span class="n">hsl</span><span class="p">(</span> 
       <span class="n">var</span><span class="p">(</span><span class="n">--rotated-hue</span><span class="p">)</span>
-      <span class="n">calc</span><span class="p">(</span><span class="m">45%</span> <span class="err">*</span> <span class="n">var</span><span class="p">(</span><span class="n">--hue-rotate-cos</span><span class="p">)</span> <span class="err">+</span> <span class="m">45%</span><span class="p">)</span> 
+      <span class="n">calc</span><span class="p">(</span><span class="m">45%</span> <span class="err">*</span> <span class="n">var</span><span class="p">(</span><span class="n">--hue-rotate-wave</span><span class="p">)</span> <span class="err">+</span> <span class="m">45%</span><span class="p">)</span> 
       <span class="m">96.5%</span>
   <span class="p">);</span>
 <span class="p">}</span>
@@ -1765,7 +1843,7 @@ date: 2025-01-20, from: Dave Rupert blog
   <span class="nd">:root</span> <span class="p">{</span>
     <span class="py">--bg</span><span class="p">:</span> <span class="n">hsl</span><span class="p">(</span> 
       <span class="n">var</span><span class="p">(</span><span class="n">--rotated-hue</span><span class="p">)</span>
-      <span class="n">calc</span><span class="p">(</span><span class="m">25%</span> <span class="err">*</span> <span class="n">var</span><span class="p">(</span><span class="n">--hue-rotate-cos</span><span class="p">)</span> <span class="err">+</span> <span class="m">12.5%</span><span class="p">)</span> 
+      <span class="n">calc</span><span class="p">(</span><span class="m">25%</span> <span class="err">*</span> <span class="n">var</span><span class="p">(</span><span class="n">--hue-rotate-wave</span><span class="p">)</span> <span class="err">+</span> <span class="m">12.5%</span><span class="p">)</span> 
       <span class="m">18.5%</span>
     <span class="p">);</span>
   <span class="p">}</span>
@@ -2156,4 +2234,201 @@ Corn tastes better on the honor system by Robin Wall Kimmerer &#8212; with cool 
 <br> 
 
 <https://mastodon.social/@Migueldeicaza/113852513023525108>
+
+---
+
+## Microsoft Cleans Up Dirty Trick Where Bing Masqueraded as Google — Sort Of
+
+date: 2025-01-18, updated: 2025-01-20, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/2025/1/15/24344207/microsoft-bing-search-results-google-design-change-reversed>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-18, from: Dave Winer's Scripting News)
+
+<div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/01/18/useWordland.png"></center>Use WordLand to write a "program review" for Bingeworthy 3?</div> 
+
+<br> 
+
+<http://scripting.com/2025/01/18.html#a204719>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-18, from: Dave Winer's Scripting News)
+
+There's more to the story, but this is already a lot to ask you to digest. I'll get a demo together soon. <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2025/01/18.html#a204143>
+
+---
+
+## Another Never-Announced Product Might Fail to Meet Its Never-Announced Ship Date
+
+date: 2025-01-18, updated: 2025-01-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/01/13/apple-smart-home-hub-launch-possibly-delayed/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-18, from: Dave Winer's Scripting News)
+
+Anyway, today I hooked up <a href="https://tv.bingeworthy.org/">BingeWorthy</a> to <a href="https://this.how/wordland/">WordLand</a>. Bingeworthy doesn't have a text editor, and it doesn't need one, because when it wants to offer a user a chance to explain their rating, like "seasons 1 and 2 were great, but season 3 sucked, but I gave it a high rating anyway," they can use WordLand which loves writers and strives to serve them better and better. Why should I put a bullshit editor in a product (Bingeworthy) that isn't about writing. Its job is very different from WordLand's. Let them work together. That's the big idea, that's why you bother having <a href="https://daytona.scripting.com/search?q=interop">interop</a>, so you can use more than one tool on the same data. 
+
+<br> 
+
+<http://scripting.com/2025/01/18.html#a200139>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-18, from: Dave Winer's Scripting News)
+
+Then, I got a response from <a href="https://x.com/nickweaver/status/1880601723330506958">Nick Weaver</a> and the Madison story continues: "Here’s a roundabout Madison connection for you. I started working at UW 28 years ago today as the World Wide Web Editor in the Office of News and Public Affairs. My first project was to implement Userland Frontier for the university news page." Now Nick is in <a href="https://daytona.scripting.com/search?q=Madison">my Madison story</a> too. And he mentions <a href="https://daytona.scripting.com/search?q=UserLand%20Frontier">Frontier</a>. With Frontier, we not only had the internet over networks, we also had networks on our computers because Frontier could send tasks to scriptable apps, and get back results. So databases could be hooked up to page layout programs, and people could use their writing tool of choice, and didn't have to use some teeny little excuse for an editor provided by a company that doesn't cater to or care about writers. Imagine writing with software that was designed to hobble writers instead of glorify them! That's the horror of the world as proposed by Mastodon, Threads, Bluesky, all of them. It's like no one stopped to think about what they are doing, half their product is writing, and they suck at writing and have no plans to improve the situation. Geez Louise, it's as if we collectively lost our minds. 
+
+<br> 
+
+<http://scripting.com/2025/01/18.html#a195750>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-18, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2017/09/01/mrFrog.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I posted something to my <a href="https://bsky.app/profile/feediverse.bsky.social/post/3lfywyfwlci2x">linkblog</a> this morning that really should have been on my <a href="http://scripting.com/">blog</a>. Here's what it said. "Every blog should have a nice search engine like mine. I can search for ideas and it creates a story, like this <a href="https://daytona.scripting.com/search?q=Madison">search</a> for 'Madison' where I had love, fun, creativity, friends, youth, music, strength, health, sex, and could see the future clearly. Best time of my life, I had everything anyone could want. Pick another term get another synthetic story." Ironically, since my linkblog doesn't flow through the search engine, I would have lost this post. Which makes a bigger point. All the ideas we throw into the silo'd <a href="https://daytona.scripting.com/search?q=%22social%20web%22">social web</a> are basically trash, not part of our collection, that we might use tools in the future to find value in (as my Madison posts surely did, for me at least). 
+
+<br> 
+
+<http://scripting.com/2025/01/18.html#a195403>
+
+---
+
+## Joanna Stern’s Imaginary Husband
+
+date: 2025-01-18, updated: 2025-01-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://techthings.cmail20.com/t/d-e-sjrttn-dykjyuhruh-r/>
+
+---
+
+## January 17, 2025
+
+date: 2025-01-18, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155114661/7c0a7c12f89dfa8fb47c755d43990955.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155114661/7c0a7c12f89dfa8fb47c755d43990955.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-17-2025-dfb>
+
+---
+
+## ★ Nokia’s Next-Day Internal Competitive Analysis of the Original iPhone Largely Got It Right
+
+date: 2025-01-18, updated: 2025-01-19, from: Daring Fireball
+
+To the credit of the team that put this presentation together, they mostly got it. 
+
+<br> 
+
+<https://daringfireball.net/2025/01/nokias_next-day_internal_competitive_analysis_of_the_original_iphone>
+
+---
+
+## Google Search, More Machine Now Than Man, Begins Requiring JavaScript
+
+date: 2025-01-18, updated: 2025-01-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/>
+
+---
+
+## Ural Notes Part 3: Stopping and Going
+
+date: 2025-01-18, updated: 2025-01-18, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2025/01/18/ural-notes-part-3-stopping-and-going/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-01-18, from: Miguel de Icaza Mastondon feed)
+
+<p>Interesting twist, incitement to genocide is a separate crime, and the gang is in trouble: <a href="https://www.statewatch.org/media/4664/icc-submission-israel-palestine-incitement-to-genocide-6-12-24.pdf" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">statewatch.org/media/4664/icc-</span><span class="invisible">submission-israel-palestine-incitement-to-genocide-6-12-24.pdf</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113849627680871162>
+
+---
+
+## How Windows got to version 3 – an illustrated history
+
+date: 2025-01-18, updated: 2025-01-18, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Opinion</span> With added manga and snark. What&#39;s not to like?</h4>
+      <p>Windows 1 and 2 flopped almost as badly as OS/2 did. How did Microsoft stage one of the greatest comebacks ever with Windows 3?</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/01/18/how_windows_got_to_v3/>
+
+---
+
+## The Trump takeover: Fascism or oligarchy? Coffee Klatch | January 18, 2025
+
+date: 2025-01-18, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155040304/0ac4d1c0a2a5f3c1c49258f6be1e509a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155040304/0ac4d1c0a2a5f3c1c49258f6be1e509a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/the-trump-takeover-fascism-or-oligarchy>
+
+---
+
+## January 17, 2025
+
+date: 2025-01-18, from: Heather Cox Richardson blog
+
+As President Joe Biden and Vice President Kamala Harris prepare to leave office at noon on Monday and President-elect Donald Trump and Vice President&#8211;elect J.D. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-17-2025>
+
+---
+
+## Weeknotes: Jan. 11-17, 2025
+
+date: 2025-01-18, from: Tracy Durnell Blog
+
+Highlight of the week: heard from several people in response to my post on friction in indie web connection 😄 Looking forward to: making this blood orange olive oil cake Stuff I did: 7.75 hours writing &#8212; I committed to my accountability buddy that I would make a decision this week and I regret that [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/17/weeknotes-jan-11-17-2025/>
 

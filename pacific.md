@@ -1,11 +1,24 @@
 ---
 title: pacific
-updated: 2025-01-24 07:04:45
+updated: 2025-01-25 07:05:20
 ---
 
 # pacific
 
-(date: 2025-01-24 07:04:45)
+(date: 2025-01-25 07:05:20)
+
+---
+
+## Presidential award in math, science teaching honors UH alumni Aragaki, Kent
+
+date: 2025-01-24, from: University of Hawaiʻi News
+
+<p>Aragaki and Kent received a certificate signed by then President Joe Biden, a trip to Washington, D.C. and a $10,000 award from the National Science Foundation.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/24/presidential-award-aragaki-kent/">Presidential award in math, science teaching honors <abbr>UH</abbr> alumni Aragaki, Kent</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/24/presidential-award-aragaki-kent/>
 
 ---
 
@@ -26,7 +39,6 @@ date: 2025-01-24, from: Hawaii Tribune Harold
 ## House GOP floats Medicaid cuts and more to finance Trump’s huge agenda
 
 date: 2025-01-24, from: Hawaii Tribune Harold
-
 
 				<p>WASHINGTON &#8212; Top Republicans are passing around an extensive menu of ideas to cover the cost of a massive tax cut and immigration crackdown bill. They could create a 10% tariff on all imports, bringing in an estimated $1.9 trillion. They could establish new work requirements for Medicaid recipients, bringing in $100 billion in savings. </p>
 			 
@@ -2640,4 +2652,224 @@ Following the inauguration, the Trump Administration will be committed to counte
 <br> 
 
 <https://www.pacificislandtimes.com/post/new-congress-should-pull-the-trigger-on-magnitsky-sanction-requests-for-pacific-island-countries>
+
+---
+
+## United by disaster, LA mourns, and hopes, together
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; It took a wind-whipped inferno to shrink the famously sprawling geography of Los Angeles. Somehow, when everyone knows someone who has lost everything, the place feels smaller.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/united-by-disaster-la-mourns-and-hopes-together/>
+
+---
+
+## Supreme Court backs law requiring TikTok to be sold or banned
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A unanimous Supreme Court on Friday upheld a law that effectively bans the wildly popular app TikTok in the United States starting on Sunday. The ruling ended, at least for now, a legal battle involving national security, free speech and a cultural phenomenon that had millions of Americans deliriously swiping their phone screens at any given moment.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/supreme-court-backs-law-requiring-tiktok-to-be-sold-or-banned/>
+
+---
+
+## Trump targeted scientists in his first term. This time, they’re prepared.
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; During the first Trump administration, Virginia Burkett, a senior government scientist, felt like she had a target on her back.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/trump-targeted-scientists-in-his-first-term-this-time-theyre-prepared/>
+
+---
+
+## Israeli government approves ceasefire deal for Gaza
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; The Israeli government approved a ceasefire deal with Hamas early Saturday that calls for the release of dozens of hostages and hundreds of Palestinian prisoners after hours of deliberations, setting up a reprieve in the 15-month, devastating war in the Gaza Strip.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/israeli-government-approves-ceasefire-deal-for-gaza/>
+
+---
+
+## Hawaii public schools regress in farm-to-plate program
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Education failed to make progress in 2024 toward an ambitious goal prescribed by state law to use more locally produced food in public school meals.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/hawaii-news/hawaii-public-schools-regress-in-farm-to-plate-program/>
+
+---
+
+## Biden commutes sentences of nearly 2,500 drug offenders
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden on Friday commuted the sentences of nearly 2,500 inmates serving long prison terms for nonviolent drug offenses, the broadest commutation of individual sentences ever issued by a U.S. president.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/biden-commutes-sentences-of-nearly-2500-drug-offenders/>
+
+---
+
+## Russia and Iran sign cooperation treaty in the Kremlin
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>President Masoud Pezeshkian of Iran and his Russian counterpart, Vladimir Putin, signed a major cooperation treaty on Friday in the Kremlin, solidifying an alliance between two countries driven by mutual desire to challenge the West.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/russia-and-iran-sign-cooperation-treaty-in-the-kremlin/>
+
+---
+
+## LA fires revive calls for a ‘climate superfund’ law in California
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>Vermont and New York recently became the first states to create &#8220;Climate Superfund&#8221; laws, which will require energy companies to help pay for the costs of dealing with extreme weather and climate change.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/la-fires-revive-calls-for-a-climate-superfund-law-in-california/>
+
+---
+
+## EU expands investigation of X over spread of illicit content
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>As Elon Musk&#8217;s geopolitical influence grows because of his closeness to incoming President Donald Trump, regulators in Europe have faced questions about whether they would scale down an investigation of X, the social media network that Musk owns.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/eu-expands-investigation-of-x-over-spread-of-illicit-content/>
+
+---
+
+## Noem backs revival of Trump’s ‘remain in Mexico’ policy
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Kristi Noem of South Dakota, President-elect Donald Trump&#8217;s pick to run the Homeland Security Department, said that, if confirmed, she would end a program that allows migrants to schedule appointments at a port of entry and would pursue the return of a policy that forces asylum-seekers to stay in Mexico for the duration of their U.S. cases.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/noem-backs-revival-of-trumps-remain-in-mexico-policy/>
+
+---
+
+## Northeast braces for snow as frigid air settles across most of the US
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>The coldest air of the season so far will settle across the United States this weekend, producing a blanket of snow in the mid-Atlantic and Northeast on Sunday, and bringing below-freezing temperatures with dangerously blustery winds to most of the country.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/northeast-braces-for-snow-as-frigid-air-settles-across-most-of-the-us/>
+
+---
+
+## Biden says Equal Rights Amendment has passed, but does not force certification
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden declared on Friday that he believes that the Equal Rights Amendment has met the requirements of ratification and therefore is now part of the Constitution, but he declined to order the government to finalize the process by officially publishing it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/nation-world-news/biden-says-equal-rights-amendment-has-passed-but-does-not-force-certification/>
+
+---
+
+## Halloween decorations in January? She’ll go to court for them.
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>Even before Alexis Luttrell adorned her Memphis, Tennessee-area front yard with a pair of skeletons for Halloween, she had decided that she would keep them up for a while. They would just need some seasonal wardrobe changes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/features/halloween-decorations-in-january-shell-go-to-court-for-them/>
+
+---
+
+## Early amaryllis blossoms remind us of spring around the corner
+
+date: 2025-01-18, from: Hawaii Tribune Harold
+
+
+				<p>Folks living on the mainland are experiencing the chill of winter but Hawaii&#8217;s spring begins as the days get longer. Spring officially occurs when the sun reaches the Equator as it appears to move northward. Of course what is actually happening is that the earth is tilting toward the South Pole and will continue to do so until June 21. Since we are roughly at latitude 19 degrees north, the sun will appear to move northward. Many plants respond to longer day length including plants that form bulbs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/18/features/early-amaryllis-blossoms-remind-us-of-spring-around-the-corner/>
+
+---
+
+##  $2.2M healthcare funds awarded to Marshall Islands for nuke-affected atolls  
+
+date: 2025-01-18, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Office of Insular Affairs has announced $2.24 million in fiscal year 2025 Technical Assistance... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/2-2m-healthcare-funds-awarded-to-marshall-islands-for-nuke-affected-atolls>
+
+---
+
+## US provides seed fund to establish Micronesian Islands Forum Secretariat in Palau
+
+date: 2025-01-18, from: Pacific Island Times
+
+The Department of the Interior has announced a grant from the Technical Assistance Program to fund the establishment of the Micronesian Isla 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-provides-seed-fund-to-establish-micronesian-islands-forum-secretariat-in-palau>
 

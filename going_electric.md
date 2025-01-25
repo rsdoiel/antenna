@@ -1,11 +1,247 @@
 ---
 title: going electric
-updated: 2025-01-24 07:04:48
+updated: 2025-01-25 07:05:23
 ---
 
 # going electric
 
-(date: 2025-01-24 07:04:48)
+(date: 2025-01-25 07:05:23)
+
+---
+
+## GE Vernova lands repower orders for 1 GW of US wind turbines
+
+date: 2025-01-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/gevernova_pensacola.jpg__gl1_1vrnra0__up_MQ.gclidCj0KCQiA7se8BhCAARIsAKnF3rw5B-SVDD24D6XQ_tF5D8mTIHic_SJq0mZG9C1AQhhrLlBNMcgdxf0aAuh6EALw_wcBgclsrcaw.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>GE Vernova’s onshore wind business announced that it received orders in 2024 to repower over 1 gigawatt (GW) of wind turbines in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,wind-power" data-layer-viewtype="unknown" data-post-id="399062" href="https://electrek.co/2025/01/24/ge-vernova-repower-orders-1-gw-us-wind-turbines/#more-399062" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/24/ge-vernova-repower-orders-1-gw-us-wind-turbines/>
+
+---
+
+## 'You're Going To Be In Rough Shape': Rivian CEO To Rivals Backing Off EVs
+
+date: 2025-01-24, from: Inside EVs News
+
+CEO R.J. Scaringe told InsideEVs that he's not worried about EV tax credits going away—but he is worried the U.S. could fall behind in the race. 
+
+<br> 
+
+<https://insideevs.com/news/748518/rivian-ceo-rj-scaringe-ira/>
+
+---
+
+## Kia’s NACS adapters available now; Supercharger access still pending
+
+date: 2025-01-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Kia-NACS-Hyundai-Tesla.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s official first-party NACS adapters are now ready to ship out, but owners will have to wait to use them on Tesla Superchargers until later this quarter.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,north-american-charging-standard-nacs,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="399055" href="https://electrek.co/2025/01/24/kias-nacs-adapters-available-now-supercharger-access-still-pending/#more-399055" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/24/kias-nacs-adapters-available-now-supercharger-access-still-pending/>
+
+---
+
+## A New Tesla Model Y Is Here. Social Media Is Ripping It A New One
+
+date: 2025-01-24, from: Inside EVs News
+
+It seems that CEO Elon Musk's actions are beginning to have consequences, somehow. 
+
+<br> 
+
+<https://insideevs.com/news/748520/model-y-social-media-juniper/>
+
+---
+
+## Kempower and Ziegler partner on EV fast charging for fleets
+
+date: 2025-01-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Kempower-ZES-Install.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>EV charger manufacturer Kempower and Ziegler Energy Solutions have paired up to deliver EV fast charging infrastructure for commercial fleets.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,electric-car-fleet,ev-chargers,kempower" data-layer-viewtype="unknown" data-post-id="399039" href="https://electrek.co/2025/01/24/kempower-ziegler-ev-fast-charging-fleets/#more-399039" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/24/kempower-ziegler-ev-fast-charging-fleets/>
+
+---
+
+## BYD’s electric SUV racks up +1,000 preorders in Korea and it just launched last week
+
+date: 2025-01-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/BYD-EV-preorders-Korea.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD is now taking Hyundai and Kia’s home market by storm. After launching the electric SUV just last week, <a href="https://electrek.co/guides/byd/">BYD</a> said its EV has already secured over 1,000 preorders in South Korea. Can it compete with Hyundai and Kia’s new low-cost EVs?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,byd-atto-3" data-layer-viewtype="unknown" data-post-id="399031" href="https://electrek.co/2025/01/24/byd-atto-3-ev-racks-up-1000-preorders-korea-just-one-week/#more-399031" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/24/byd-atto-3-ev-racks-up-1000-preorders-korea-just-one-week/>
+
+---
+
+## Mitsubishi Doesn't Want To Be Honda and Nissan's Third Wheel
+
+date: 2025-01-24, from: Inside EVs News
+
+Mitsubishi is considering whether or not to pass on the possible Honda-Nissan merger. 
+
+<br> 
+
+<https://insideevs.com/news/748497/mitsubishi-honda-nissan-merger-unsure/>
+
+---
+
+## Podcast: new Tesla Model Y launches in NA/EU, Rivian is popular, Trump’s effect on EVs, and more
+
+date: 2025-01-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the new Tesla Model Y launching in NA/EU, Rivian getting popular with OEMs, Trump’s effect on EVs, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="399027" href="https://electrek.co/2025/01/24/podcast-new-tesla-model-y-launches-in-na-eu-rivian-is-popular-trumps-effect-on-evs-and-more/#more-399027" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/24/podcast-new-tesla-model-y-launches-in-na-eu-rivian-is-popular-trumps-effect-on-evs-and-more/>
+
+---
+
+## Kia's Tesla Supercharger Adapter Is Rolling Out Now
+
+date: 2025-01-24, from: Inside EVs News
+
+Rejoice, Kia EV owners. Your next road trip is about to get a little bit easier as Tesla Supercharger adapters arrive at dealers soon. 
+
+<br> 
+
+<https://insideevs.com/news/748511/kia-ev6-ev9-nacs-tesla/>
+
+---
+
+## Tenways Valentine’s sale takes up to $700 off e-bikes, Autel 40A level 2 EV charger $391, Hoverfly, Jackery, Lectric, more
+
+date: 2025-01-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/TENWAYS-CGO600-Pro-e-bike-2.webp?w=1600" /></div><p>Closing out this week’s Green Deals is <a href="https://9to5toys.com/2025/01/24/tenways-valentines-sale-from-1499/">Tenways’ Valentine’s Day sale</a>, which is taking up to $500 off its e-bikes with an additional $200 in savings taken off the order for two models together – and their getting up to $307 in free gear on top of it all. The standout for the sale is the brand’s <a href="https://9to5toys.com/2025/01/24/tenways-valentines-sale-from-1499/">CGO600 Pro e-bikes</a>, with both the 8-speed chain drive and its belt drive counterpart at <a href="https://9to5toys.com/2025/01/24/tenways-valentines-sale-from-1499/">$1,499</a>. Next, we have <a href="https://9to5toys.com/2025/01/23/autel-maxicharger-home-ac-elite-391/">Autel’s MaxiCharger Home AC Elite</a> 40A Level 2 EV Charger that’s been given an in-body holster down at <a href="https://9to5toys.com/2025/01/23/autel-maxicharger-home-ac-elite-391/">$391</a>, as well as a new low price on <a href="https://9to5toys.com/2025/01/23/hoverfly-h3-e-bike-new-400-low/">Hoverfly’s H3 16-inch Folding e-bike for $400</a>. Running alongside <a href="https://9to5toys.com/2025/01/20/jackery-mlk-sale-from-329/">Jackery’s direct sale</a> that ends tonight, we spotted the <a href="https://9to5toys.com/2025/01/23/jackery-explorer-3000-pro-bundle-2199/">Explorer 3000 Pro</a> Solar Generator Combo with two 220W solar panels at <a href="https://9to5toys.com/2025/01/23/jackery-explorer-3000-pro-bundle-2199/">$2,199</a> over at Amazon, among some smaller units too. Lastly, we wanted to shine a little spotlight on <a href="https://9to5toys.com/2025/01/24/lectric-xp-trike-1499/">Lectric’s XP Trike</a> that comes with $419 in free gear at <a href="https://9to5toys.com/2025/01/24/lectric-xp-trike-1499/">$1,499</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/01/23/ecoflow-game-day-power-sale/">EcoFlow Game Day Power sale</a> launch, Rad Power’s two <a href="https://9to5toys.com/2025/01/23/rad-flash-radrover-radexpand-from-1099/">e-bike weekend flash sale</a> lows, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="399002" href="https://electrek.co/2025/01/24/tenways-cgo600-pro-e-bike-valentines-sale-more/#more-399002" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/24/tenways-cgo600-pro-e-bike-valentines-sale-more/>
+
+---
+
+## Kia sold over 200,000 EVs last year, but 2025 could be even bigger: Here’s why
+
+date: 2025-01-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Kias-EV4-electric-car.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As new models like the three-row EV9 and low-cost EV3 roll out, Kia’s EV sales are surging. Although it sold over 200,000 EVs last year, <a href="https://electrek.co/guides/kia/">Kia</a> expects to sell even more electric cars in 2025 as it builds a “full lineup of popular EVs.” Here’s what to expect this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia" data-layer-viewtype="unknown" data-post-id="398998" href="https://electrek.co/2025/01/24/kia-sold-200000-evs-last-year-2025-even-bigger/#more-398998" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/24/kia-sold-200000-evs-last-year-2025-even-bigger/>
+
+---
+
+## Tesla has a new self-driving computer retrofit, but it’s not even for HW3 cars
+
+date: 2025-01-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Model-Y-reloaded-self-driving-computer.jpg?quality=82&#038;strip=all&#038;w=1442" /></div><p>According to a well-known Tesla hacker, Tesla has designed a new self-driving computer retrofit, but it’s not even for HW3 cars.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="399000" href="https://electrek.co/2025/01/24/tesla-has-a-new-self-driving-computer-retrofit-but-its-not-even-for-hw3-cars/#more-399000" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/24/tesla-has-a-new-self-driving-computer-retrofit-but-its-not-even-for-hw3-cars/>
+
+---
+
+## EV Battery Degradation Just Isn't Much Of An Issue
+
+date: 2025-01-24, from: Inside EVs News
+
+A British EV dealer analyzed 300 used EVs, and the results are more proof that you don't have to worry about your car's battery. 
+
+<br> 
+
+<https://insideevs.com/news/748501/ev-degradation-study-rsev/>
+
+---
+
+## The Genesis GV60 MIV is one hardcore EV that climbs mountains [Video]
+
+date: 2025-01-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Genesis-GV60-MIV-EV-6.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The luxury carmaker channeled its inner superhero with this one. <a href="https://electrek.co/guides/genesis/">Genesis</a> unveiled the new GV60 Mountain Intervention Vehicle (MIV) this week in Switzerland, an off-road EV that can climb mountains. The concept is designed for extreme rescue missions. Check it out below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis,genesis-gv60" data-layer-viewtype="unknown" data-post-id="398978" href="https://electrek.co/2025/01/24/genesis-gv60-miv-hardcore-mountain-climbing-ev-video/#more-398978" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/24/genesis-gv60-miv-hardcore-mountain-climbing-ev-video/>
+
+---
+
+## What Trump’s Tariffs Mean For EVs, Jobs And Your Wallet
+
+date: 2025-01-24, from: Inside EVs News
+
+President Trump’s 25% tariffs on imports from Canada and Mexico might disrupt the car industry and cause suppliers to go bankrupt, experts warn. 
+
+<br> 
+
+<https://insideevs.com/news/748477/trump-tariffs-ev-jobs-wallet-disruption/>
+
+---
+
+## Rivian (RIVN) has several automakers ‘knocking on our door’ for EV tech
+
+date: 2025-01-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Rivian-EV-tech-deal-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) already has several automakers reaching out about potential supply deals for software and other EV tech. According to Rivian’s Chief Software Officer, Wassym Bensaid, its new partnership with Volkswagen has other OEMs “knocking on our door.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="398951" href="https://electrek.co/2025/01/24/rivian-rivn-says-several-rivals-knocking-on-our-door-for-ev-tech/#more-398951" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/24/rivian-rivn-says-several-rivals-knocking-on-our-door-for-ev-tech/>
 
 ---
 
@@ -1220,4 +1456,104 @@ date: 2025-01-19, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/01/19/michigan-state-police-deploy-their-first-electric-patrol-vehicle/>
+
+---
+
+## 3,500 unit order gives British telecom UK’s largest commercial EV fleet
+
+date: 2025-01-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/1920_da-bt-birmingham-020.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>British telecom provider BT Group has committed to adding 3,500 new EVs to its commercial truck and van fleet over the next two years, bringing its total EV count to 8,000 units and giving it the largest electric vehicle fleet in the UK.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-van,uk" data-layer-viewtype="unknown" data-post-id="398316" href="https://electrek.co/2025/01/18/3500-unit-order-gives-british-telecom-uks-largest-commercial-ev-fleet/#more-398316" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/18/3500-unit-order-gives-british-telecom-uks-largest-commercial-ev-fleet/>
+
+---
+
+## Illinois awards $100M for electric truck charging corridor, Tesla to get $40M
+
+date: 2025-01-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/electric-semi-truck-charging.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>In a move that’s expected to play a crucial role in supporting the transition to medium- and heavy-duty electric vehicles, $100 million of the Biden Administration’s <a href="https://electrek.co/2025/01/13/biden-pushes-through-635m-in-ev-charger-grants-before-trumps-return/">last-minute $635M payout</a> is headed to Illinois to help build out an electric truck charging corridor.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-semi-truck,ev-charging,illinois" data-layer-viewtype="unknown" data-post-id="398298" href="https://electrek.co/2025/01/18/illinois-awards-100m-for-electric-truck-charging-corridor-tesla-to-get-40m/#more-398298" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/18/illinois-awards-100m-for-electric-truck-charging-corridor-tesla-to-get-40m/>
+
+---
+
+## The 2025 Kia EV6 GT's 'Virtual Shift' And 'Engine' Sounds Are Wild
+
+date: 2025-01-18, from: Inside EVs News
+
+Move over, Hyundai Ioniq 5 N. Your cousin from Kia sounds pretty rowdy too and also brings "gear shifts" to the EV performance world. 
+
+<br> 
+
+<https://insideevs.com/news/747772/kia-ev6-virtual-shift-sounds/>
+
+---
+
+## Tesla Model 3 Left On Overnight In Freezing Canada: Here's The Energy It Lost
+
+date: 2025-01-18, from: Inside EVs News
+
+If you’re wondering how much time you could survive in an EV while stranded during winter, this video might provide you with an answer. 
+
+<br> 
+
+<https://insideevs.com/news/747694/tesla-model-3-freezing-night/>
+
+---
+
+## Diesel wins this round as CARB backs away from Advanced Clean Fleets rule
+
+date: 2025-01-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/peterbilt.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The California Air Resource Board (<a href="https://ww2.arb.ca.gov/our-work/programs/advanced-clean-fleets">CARB</a>) has withdrawn its request to enact the proposed Advanced Clean Fleets rule, which required fleets that are “well-suited for electrification” to reduce emissions through the phase-in of Zero-Emission Vehicles (ZEVs) and the banning of commercial diesel sales after 2035.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california-air-resources-board,commercial-evs,donald-trump,electric-semi-truck" data-layer-viewtype="unknown" data-post-id="398283" href="https://electrek.co/2025/01/18/diesel-wins-this-round-as-carb-backs-away-from-advanced-clean-fleets-rule/#more-398283" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/18/diesel-wins-this-round-as-carb-backs-away-from-advanced-clean-fleets-rule/>
+
+---
+
+## Another one bites the dust as Canoo files for chapter 7 bankruptcy
+
+date: 2025-01-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/canoo-lifestyle-vehicle.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In an official announcement released at 8:15PM last night, Walmart-backed electric van company Canoo filed a voluntary petition for relief under Chapter 7 of the US Bankruptcy Code and will cease operations immediately.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="business,canoo" data-layer-viewtype="unknown" data-post-id="398275" href="https://electrek.co/2025/01/18/another-one-bites-the-dust-as-canoo-files-for-chapter-7-bankruptcy/#more-398275" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/18/another-one-bites-the-dust-as-canoo-files-for-chapter-7-bankruptcy/>
+
+---
+
+## It’s The End Of The Road For Canoo
+
+date: 2025-01-18, from: Inside EVs News
+
+The electric vehicle startup has filed for bankruptcy and will “cease operations immediately” after failing to secure capital. 
+
+<br> 
+
+<https://insideevs.com/news/747755/canoo-files-for-bankruptcy/>
 

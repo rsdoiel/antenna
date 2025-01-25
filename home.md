@@ -1,11 +1,217 @@
 ---
 title: home
-updated: 2025-01-24 07:04:47
+updated: 2025-01-25 07:05:22
 ---
 
 # home
 
-(date: 2025-01-24 07:04:47)
+(date: 2025-01-25 07:05:22)
+
+---
+
+## Mistakes staking and tying avocado trees
+
+date: 2025-01-24, from: Greg Alder's blog, Yard Post
+
+<p>Strong Santa Ana winds blew through my yard yesterday, which revealed whether my young avocado trees had proper support. I shot video for you: A few related posts: &#8220;How to plant and stake avocado trees&#8221; &#8220;Training young avocado trees&#8221; Thanks for your&#160;support&#160;of my Yard Posts. It allows me to keep them coming and keep them [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/mistakes-staking-and-tying-avocado-trees/">Mistakes staking and tying avocado trees</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/mistakes-staking-and-tying-avocado-trees/>
+
+---
+
+## Actually Good Word Art—and More Genre-Defying Decor at This Year’s FOG Design + Art Fair
+
+date: 2025-01-24, from: Dwell
+
+There was nothing cheugy about Henna Vainio’s wall hangings, or the chromatic textiles, raw wood furnishings, and seashell serving spoons we found at Fort Mason in San Francisco. 
+
+<br> 
+
+<https://www.dwell.com/article/highlights-from-fog-design-fair-2025-e3af17f3>
+
+---
+
+## This Is Idaho’s Best-Kept Secret for Outdoor Adventure
+
+date: 2025-01-24, from: Sunset Magazine - Living in the West
+
+Hells Canyon is known for its steep mountain ranges, abundant wildlife, and outdoor adventures. Locals share what to explore in the area. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/things-to-do-salmon-river-hells-canyon-idaho>
+
+---
+
+## 63,000 Jeep Cherokees Recalled Over Dangerous Defect
+
+date: 2025-01-24, from: Family Handyman Blog
+
+<p>Is your Jeep on the recall list? Find out now and take action to stay safe.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/jeep-cherokee-recall/">63,000 Jeep Cherokees Recalled Over Dangerous Defect</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/jeep-cherokee-recall/>
+
+---
+
+## 9 Reasons You Should Finally Go to Jackson Hole (No Skiing Required)
+
+date: 2025-01-24, from: Sunset Magazine - Living in the West
+
+A local shares his favorite things to eat, drink, and do in Jackson Hole, Wyoming. And you don't even have to ski. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/jackson-hole-itinerary>
+
+---
+
+## These Are the Absolute Best Things to Eat Après-Ski (and Where to Find Them)
+
+date: 2025-01-24, from: Sunset Magazine - Living in the West
+
+These are the most iconic apres-ski dishes that you need to try, plus where to find them in the West after hitting the slopes. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-places-for-apres-ski-food>
+
+---
+
+## Boise Is Big. Here’s Where to Eat, Drink, and Stay According to a Local Brewer.
+
+date: 2025-01-24, from: Sunset Magazine - Living in the West
+
+A local brewer shares the high-low hits that the charming, rapidly growing city of Boise has to offer. Save this for your next trip. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/boise-things-to-do>
+
+---
+
+## 8 Best Non-Toxic Mattresses, According to Our Experts
+
+date: 2025-01-24, from: Family Handyman Blog
+
+<p>Prioritize your sleep and your overall health by investing in the best non-toxic mattress, tested by our shopping editors and sleep experts.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/best-non-toxic-mattresses/">8 Best Non-Toxic Mattresses, According to Our Experts</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/best-non-toxic-mattresses/>
+
+---
+
+## From Rocks to Flowers, What You Can (and Can’t) Take From Public Lands
+
+date: 2025-01-24, from: Family Handyman Blog
+
+<p>Discover the rules on collecting from state and federal lands, including what's allowed, what's prohibited and why it matters.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/what-you-can-take-from-public-land/">From Rocks to Flowers, What You Can (and Can&#8217;t) Take From Public Lands</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/what-you-can-take-from-public-land/>
+
+---
+
+## For $530K, You Can Live in a Prefab Cabin Atop an Icelandic Fjord
+
+date: 2025-01-24, from: Dwell
+
+Set about an hour from Reykjavík, the compact getaway has views for days and a hot tub for watching the northern lights. 
+
+<br> 
+
+<https://www.dwell.com/article/prefab-cabin-hvalfjord-iceland-real-estat-caad3d5a>
+
+---
+
+## Ford Recalls 270,000 Cars Over Defective Batteries
+
+date: 2025-01-24, from: Family Handyman Blog
+
+<p>Ford has announced a recall of several hundred thousand vehicles due to an issue stemming from faulty batteries. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/ford-bronco-sport-battery-recall/">Ford Recalls 270,000 Cars Over Defective Batteries</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/ford-bronco-sport-battery-recall/>
+
+---
+
+## Will a Dryer Sheet in a Mailbox Deter Bees?
+
+date: 2025-01-24, from: Family Handyman Blog
+
+<p>Dryer sheets have many uses around the house besides fluffing up your clothes, but can they keep bees away from your mailbox? Our experts weigh in.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/will-a-dryer-sheet-in-a-mailbox-deter-bees/">Will a Dryer Sheet in a Mailbox Deter Bees?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/will-a-dryer-sheet-in-a-mailbox-deter-bees/>
+
+---
+
+## Before & After: A Chintzy Manhattan Flat Is Given the Gallery Treatment for an Art Lover
+
+date: 2025-01-24, from: Dwell
+
+Gaudy ’80s finishes were replaced with crisp ones that let the owner’s evolving collection set the tone for the Upper East Side home. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-valley-apartment-bond-home-art-gallery-renovation-080f779c>
+
+---
+
+## 19 of the Best White Potato Varieties to Grow at Home
+
+date: 2025-01-24, from: The Gardener's Path
+
+<p>White potatoes come in lots of sizes and shapes, with many disease-resistant, high-yielding cultivars. Whether you want a good chipper or to make some of the smoothest mashed potatoes you've ever seen, there's a variety to suit your needs. This guide explores 19 of the best white potato varieties to grow at home.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/best-white-potato-varieties/">19 of the Best White Potato Varieties to Grow at Home</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/best-white-potato-varieties/>
+
+---
+
+## 8 Renter-Friendly Updates You Need to Try, According to a Designer
+
+date: 2025-01-24, from: Sunset Magazine - Living in the West
+
+Leases come with limits when it comes to renovations. A designer shares renter-friendly upgrades you can make. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/renter-friendly-upgrades>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-01-24, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -367,18 +573,6 @@ To combat the industry's waste problem, some studios are trading throwaway mater
 
 ---
 
-## Sunset.com Home Page
-
-date: 2025-01-23, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## 16 Exciting Lunar New Year Products to Ring in the Year of the Snake
 
 date: 2025-01-23, from: Sunset Magazine - Living in the West
@@ -518,30 +712,6 @@ Everyone wants a functional home, but what exactly does that mean? We asked desi
 <br> 
 
 <https://www.sunset.com/home-garden/design/functional-home-design>
-
----
-
-## 8 Renter-Friendly Updates You Need to Try, According to a Designer
-
-date: 2025-01-22, from: Sunset Magazine - Living in the West
-
-Leases come with limits when it comes to renovations. A designer shares renter-friendly upgrades you can make. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/renter-friendly-upgrades>
-
----
-
-## These Are the Absolute Best Things to Eat Après-Ski (and Where to Find Them)
-
-date: 2025-01-22, from: Sunset Magazine - Living in the West
-
-These are the most iconic apres-ski dishes that you need to try, plus where to find them in the West after hitting the slopes. 
-
-<br> 
-
-<https://www.sunset.com/travel/best-places-for-apres-ski-food>
 
 ---
 
@@ -851,18 +1021,6 @@ Designed by Fredrick Liebhardt, the Clark Residence is a perfectly preserved tim
 <br> 
 
 <https://www.dwell.com/article/clark-residence-fredrick-liebhardt-homer-delawie-midcentury-san-diego-real-estate-3877912b>
-
----
-
-## This Is Idaho’s Best-Kept Secret for Outdoor Adventure
-
-date: 2025-01-21, from: Sunset Magazine - Living in the West
-
-Hells Canyon is known for its steep mountain ranges, abundant wildlife, and outdoor adventures. Locals share what to explore in the area. 
-
-<br> 
-
-<https://www.sunset.com/travel/insider-guides/things-to-do-salmon-river-hells-canyon-idaho>
 
 ---
 
@@ -1359,4 +1517,60 @@ date: 2025-01-19, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/best-cabbage-varieties/>
+
+---
+
+## Easy Golden Milk Recipe (Turmeric Latte) with Vegan Options
+
+date: 2025-01-18, from: Homestead and Chil
+
+<p>Golden milk is a nourishing warm beverage made of turmeric, milk, and other spices. It is earthy, creamy, and slightly sweet. In addition to being delicious, drinking golden milk has numerous health benefits. It is anti-inflammatory, full of antioxidants, and promotes general wellness along with restful sleep. Come try our favorite golden milk recipe!</p>
+<p>The post <a href="https://homesteadandchill.com/turmeric-golden-milk-recipe/">Easy Golden Milk Recipe (Turmeric Latte) with Vegan Options</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/turmeric-golden-milk-recipe/>
+
+---
+
+## How to Grow Piggyback Plants (Youth-on-Age)
+
+date: 2025-01-18, from: The Gardener's Path
+
+<p>Piggyback plants are easy to identify thanks to the funky little plantlets that develop in the center of the leaves. It's these offsets that give them their common name. Native to the Pacific Northwest, these easygoing plants can be cultivated indoors or out. Learn more about piggyback plants in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/foliage/grow-piggyback-plant/">How to Grow Piggyback Plants (Youth-on-Age)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/foliage/grow-piggyback-plant/>
+
+---
+
+## Emeritus Vineyards: A Journey into Sonoma’s Pinot Noir Paradise
+
+date: 2025-01-18, from: California Grown
+
+<p>Tucked away in Sebastopol, California, Emeritus Vineyards is a winery that embodies the essence of Sonoma County’s agricultural and winemaking heritage. Specializing exclusively in Pinot Noir, Emeritus is a pioneer in sustainable viticulture, crafting wines that are as expressive as the land they come from.&#160; The CA GROWN team recently visited Emeritus Vineyards to learn [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/emeritus-vineyards/" data-wpel-link="internal" target="_self">Emeritus Vineyards: A Journey into Sonoma’s Pinot Noir Paradise</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/emeritus-vineyards/>
+
+---
+
+## Young avocado trees cannot handle competition
+
+date: 2025-01-18, from: Greg Alder's blog, Yard Post
+
+<p>In June of 2023, I planted a GEM avocado tree. It was a good-looking tree, on top and bottom. The leaves showed healthy new growth and the roots were abundant and with new white tips. I planted in the best way I knew, a way in which I’d planted many trees before that grew into [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/young-avocado-trees-cannot-handle-competition/">Young avocado trees cannot handle competition</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/young-avocado-trees-cannot-handle-competition/>
 

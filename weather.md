@@ -1,84 +1,11 @@
 ---
 title: weather
-updated: 2025-01-24 07:04:46
+updated: 2025-01-25 07:05:21
 ---
 
 # weather
 
-(date: 2025-01-24 07:04:46)
-
----
-
-## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
-
-date: 2025-01-24, from: Eastern Pacific Basin Tropical Cyclones
-
-The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
-
-<br> 
-
-<https://www.nhc.noaa.gov/>
-
----
-
-## SPC - No watches are valid as of Fri Jan 24 13:27:02 UTC 2025
-
-date: 2025-01-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Fri Jan 24 13:27:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Fri Jan 24 13:27:02 UTC 2025
-
-date: 2025-01-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Fri Jan 24 13:27:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Jan 24, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-01-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook RESENT 1
-NWS Storm Prediction Center Norman OK
-0646 AM CST Fri Jan 24 2025
-
-Valid 241300Z - 251200Z
-
-...NO THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Thunderstorms are not forecast across the contiguous United States.
-
-...Synopsis...
-Water-vapor imagery this morning shows an upper trough extending
-from the lower OH Valley southwestward into the northwest Gulf
-Coast.  This upper feature will quickly move east ahead of an
-amplifying trough over the West.  Cool/stable conditions as the
-result of surface high pressure influencing a large part of the
-Lower 48 will prove hostile to thunderstorm development through
-tonight.
-
-..Smith/Kerr.. 01/24/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+(date: 2025-01-25 07:05:21)
 
 ---
 

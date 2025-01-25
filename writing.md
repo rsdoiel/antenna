@@ -1,11 +1,117 @@
 ---
 title: writing
-updated: 2025-01-24 07:04:46
+updated: 2025-01-25 07:05:21
 ---
 
 # writing
 
-(date: 2025-01-24 07:04:46)
+(date: 2025-01-25 07:05:21)
+
+---
+
+## ↖️↗️ #233 - Two roads diverged
+
+date: 2025-01-24, from: Interesting, a blog on writing
+
+Fighting the future, sometimes with help from the future. 
+
+<br> 
+
+<https://inneresting.substack.com/p/233-two-roads-diverged>
+
+---
+
+## Big Break Contest Judge Jeff Portnoy On Why You Should Enter
+
+date: 2025-01-24, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/big-break-judge-jeff-portnoy-on-why-screenwriters-should-enter-contests" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/JeffPortnoy_1b.png" alt="Black and white headshot of manager Jeff Portnoy" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p style="font-size: 16px;"><span style="color: #222222;">According to Jeff Portnoy, literary manager at Bellevue Productions and a judge for the <a href="https://www.finaldraft.com/big-break-screenwriting-contest/">2025 Final Draft Big Break Screenwriting Contest</a>, what makes Final Draft’s screenwriting competition stand out from other screenwriting contests is its emphasis on outreach and advocacy</span><span style="color: #222222;"> for those who place and/or win. </span><span style="color: #222222;">&nbsp;</span></p> 
+
+<br> 
+
+<https://blog.finaldraft.com/big-break-judge-jeff-portnoy-on-why-screenwriters-should-enter-contests>
+
+---
+
+## Write On: 'Inside Out 2' Co-Writers Meg LeFauve and Dave Holstein
+
+date: 2025-01-24, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-inside-out-2-co-writers" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Inside%20Out%202%20Co-Writers%20Meg%20LeFauve%20and%20Dave%20Holstein.png" alt="Write On Podcast logo featuring a cell phone with headphones around the top of it. Screen of phone features the movie poster of 'Inside Out 2' with Anxiety, Disgust, Fear, Anger, Sadness, Envy, Ennui, &amp; Embarrassment closing in on Joy at the center" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“People think sequels are easier, and I’m like, ‘No, no, it’s much harder. It is much harder to write.’ They have never written sequels, those people, because you need to do everything as well as the first and yet better, and go to new places, follow all the world rules, but create new ones. I mean, it’s just so many balls in the air,” says Meg LeFauve, co-writer for <em>Inside Out 2</em>, along with Dave Holstein.&nbsp;<br><br>In this special episode live from the Writer's Guild Foundation Library, Meg LeFauve and Dave Holstein talk about tackling a whole new set of challenges as they wrote the sequel to the beloved movie <em>Inside Out</em>. They also discuss the 5-year Pixar development process that includes the concept of failing fast.<br><br>“They really want you pushing to things that are new and innovative, so they expect you to fail. They actually want you to fail but they want you to do that quickly, right? Because we only have five years, so it’s always like, hurry up, hurry up. You know, fail. Go again. Go again,” she says.<br><br>Holstein shared some very personal advice for writing coming of age stories, like the <em>Inside Out</em> movies: get micro-focused.<br><br>“Sometimes it’s better to zoom in than to zoom out. For me, it helps to zoom in on a detail and let the detail be a microcosm for the rest of it. I know that when we were writing this film, I was thinking about my anxiety at that age and where that came from. I had a speech impediment, I had a stutter, so I hated Spanish class because I had to read out loud, and my stutter always came out in front of people, which made me very, very anxious. And I feel like, for Riley, there’s a three-day hockey camp that could determine the rest of her life. That’s where I sort of sunk into and if I was writing a different story about me, I would have gone into those details. But for me, it was about finding something very specific and very small,” says Holstein.<br><br>To hear more about the writing process, listen to the podcast.&nbsp;</p> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-inside-out-2-co-writers>
+
+---
+
+## Ludluda by Jeff Noon and Steve Beard: Review by Paul Di Filippo
+
+date: 2025-01-24, from: Locus Magazine
+
+<p><strong>Ludluda</strong>, Jeff Noon and Steve Beard (Angry Robot 978-1915998316, trade paperback, 400pp, $18.99) December 2024</p>
+<p>I am happy to bring readers this exciting news: the genre known as New Weird is currently alive and kicking, despite any rumors of its moribund state, or lack of recent exemplars. The evidence? The fascinating and thrilling duology set before us, <b>Gogmagog</b> and <b>Ludluda</b>.</p>
+<p>New Weird—with undeniably deeper roots, not to be  <a href="https://locusmag.com/2025/01/ludluda-by-jeff-noon-and-steve-beard-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/ludluda-by-jeff-noon-and-steve-beard-review-by-paul-di-filippo/>
+
+---
+
+## Crows and Silences by Lucius Shepard: Review by Ian Mond
+
+date: 2025-01-24, from: Locus Magazine
+
+<p><strong>Crows and Silences</strong>, Lucius Shepard (Subterranean 978-1-64524-217-8, $60.00, 520pp, hc) December 2024.</p>
+<p>When discussing Lucius Shepard, it’s inevitable to bemoan that despite his abundant talent, his work received little mainstream recognition. I observed this when I reviewed <strong>The Best of Lucius Shepard:</strong> <strong>Volume 2</strong>, quoting an obituary of Shepard penned by Christopher Priest for The Guardian. Priest felt that Shepard’s preference for the novella and his association with  <a href="https://locusmag.com/2025/01/crows-and-silences-by-lucius-shepard-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/crows-and-silences-by-lucius-shepard-review-by-ian-mond/>
+
+---
+
+## Featured Friday: And the Nominees Are…
+
+date: 2025-01-24, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we feature every script nominated for Best Original Screenplay and Best Adapted Screenplay at the 97th Academy Awards. Our collection includes: A Complete Unknown by James Mangold and Jay Cocks A Real Pain by [&#8230;]
+The post <a href="https://johnaugust.com/2025/featured-friday-and-the-nominees-are">Featured Friday: And the Nominees Are…</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/featured-friday-and-the-nominees-are>
+
+---
+
+## And the Mighty Will Fall by K.B. Wagers: Review by Liz Bourke
+
+date: 2025-01-24, from: Locus Magazine
+
+<p><strong>And the Mighty Will Fall</strong>, K.B. Wagers (Harper Voyager 978-0-06-311524-8, $19.99, 464pp, tp) November 2024.</p>
+<p><strong>And the Mighty Will Fall </strong>is K.B. Wagers’s tenth and latest space opera novel, the fourth book in the NeoG continuity after 2023’s <strong>The Ghosts of Trappist</strong>. <strong>And the Mighty Will Fall </strong>brings the action back to our solar system and the long-running conflict between advocates for an independent Mars and the central  <a href="https://locusmag.com/2025/01/and-the-mighty-will-fall-by-k-b-wagers-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/and-the-mighty-will-fall-by-k-b-wagers-review-by-liz-bourke/>
 
 ---
 
@@ -348,4 +454,60 @@ date: 2025-01-19, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/01/clarkesworld-short-fiction-reviews-by-a-c-wise-4/>
+
+---
+
+## Depth Charge, edited by Hank Davis & Jamie Ibson: Review by Paul Di Filippo
+
+date: 2025-01-18, from: Locus Magazine
+
+<p><strong>Depth Charge</strong>, edited by Hank Davis &#38; Jamie Ibson (Baen 978-1982193829, trade paperback, 288pp, $18.00) December 2024</p>
+<p>Not so very long ago, the fantastika publishing ecology held open a niche for a species known as the “reprint anthology.” These creatures flourished under the expert hands of such caretakers as Damon Knight, Groff Conklin, Isaac Asimov, Richard Lupoff, Judith Merril and scores of other expert compilers. Their reason for living  <a href="https://locusmag.com/2025/01/depth-charge-edited-by-hank-davis-jamie-ibson-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/depth-charge-edited-by-hank-davis-jamie-ibson-review-by-paul-di-filippo/>
+
+---
+
+## .🪐 #232 - I'm just a silly little guy
+
+date: 2025-01-18, from: Interesting, a blog on writing
+
+And in the grand scheme of things, so are you. 
+
+<br> 
+
+<https://inneresting.substack.com/p/232-im-just-a-silly-little-guy>
+
+---
+
+## Lightspeed, Baffling, GigaNotoSaurus, and Small Wonders: Short Fiction Reviews by Charles Payseur
+
+date: 2025-01-18, from: Locus Magazine
+
+<p>Lightspeed 10/24
+Baffling 10/24
+GigaNotoSaurus 10/24
+Small Wonders 10/24</p>
+<p><strong>Philip Gelatt </strong>and <strong>JT Petty </strong>anchor the October Lightspeed with “<strong>Sully the God</strong>”, which imagines Sully as the Elon Musk of magic, the man who stole the discovery from a dead colleague and turned it into the most successful business the world has ever known. He’s become so rich that money has sort of lost meaning, and yet for  <a href="https://locusmag.com/2025/01/lightspeed-baffling-giganotosaurus-and-small-wonders-short-fiction-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/lightspeed-baffling-giganotosaurus-and-small-wonders-short-fiction-reviews-by-charles-payseur/>
+
+---
+
+## You Catch Ideas: David Lynch as Screenwriter
+
+date: 2025-01-18, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/you-catch-ideas-david-lynch-as-screenwriter" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/You%20Catch%20Ideas%20David%20Lynch%20as%20Screenwriter.png" alt="Image of David Lynch" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>The word genius sometimes gets overused and it doesn’t always apply. Not in the case of David Lynch, who has passed away at the age of 78. Lynch was a bona fide genius who changed our cinematic language and discovered new forms of expression. From the revolutionary <em>Eraserhead</em> (1977) to his critically-acclaimed masterworks <em>Blue Velvet</em> (1986) and <em>Mulholland Drive</em>&nbsp;(2001) to co-creating and being the visionary force behind the beloved TV series <em>Twin Peaks</em>, Lynch’s legacy as an iconoclastic and groundbreaking filmmaker is secure.&nbsp;<br><br>However, Lynch was not just a director…<br><br>He was also a writer.<br><br>Lynch wrote all of his screenplays to his films (and, in most cases, was the sole writer). He also co-wrote the pilot for <em>Twin Peaks</em> and numerous key episodes of the series. A writer-director through-and-through, Lynch’s worldbuilding and characters always appeared on the page before the cameras rolled.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/you-catch-ideas-david-lynch-as-screenwriter>
 

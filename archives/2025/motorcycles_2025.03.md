@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-01-24 07:04:48
+updated: 2025-01-25 07:05:23
 ---
 
 # motorcycles
 
-(date: 2025-01-24 07:04:48)
+(date: 2025-01-25 07:05:23)
+
+---
+
+## ARCA Menards West Series: 2025 Bakersfield Race Preview
+
+date: 2025-01-24, from: Kickin the Tires blog
+
+By Vincent Delforge, Staff Writer 2025 will be the 72nd season of the ARCA Menards West Series. A series created in 1954 under the name of NASCAR Pacific Coast Late Model&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/arca-menards-west-series-2025-bakersfield-race-preview/>
+
+---
+
+## Could This New Supermoto Motorcycle Concept Come With a BMW Badge Real Soon?
+
+date: 2025-01-24, from: Ride Apart, Electric Motorcycle News
+
+If you don't know TVS, you sure will soon. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/748087/tvs-supermoto-concept-rts-x-coming-soon/>
 
 ---
 

@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2025-01-24 07:04:48
+updated: 2025-01-25 07:05:23
 ---
 
 # retro computing
 
-(date: 2025-01-24 07:04:48)
+(date: 2025-01-25 07:05:23)
+
+---
+
+## b.log 2025/01/24 - Destroying a childhood hero, AI is anything but intelligent.
+
+date: 2025-01-24, from: Richard Murray's blog
+
+Destroying a childhood hero, AI is anything but intelligent. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250124>
+
+---
+
+## The CRPG Renaissance, Part 1: Fallout
+
+date: 2025-01-24, from: Digital Antiquarian
+
+Those of you who are regular readers of these histories will surely have noticed the relative dearth of coverage of the CRPG genre over the last few years. This isn&#8217;t reflective of any big shift in editorial policy; it&#8217;s rather reflective of the fortunes of the genre itself, which were not particularly good in the [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2025/01/the-crpg-renaissance-part-1-fallout/>
+
+---
+
+## Oberon Pi
+
+date: 2025-01-24, from: Hans Otten's Pascal for small machines
+
+Oberon, the jewel by Niklaus Wirth and Jürg Gutknecht: Operating System, Compiler and Computer. Oberon Pi is a port of Peter de Wachter’s Project Oberon emulator to the Raspberry Pi OS by Richard Gleaves. Richard Gleaves is a former UCSD Pascal Project member, and author of the 1984 Springer book “Modula-2 for Pascal Programmers”. The [&#8230;] 
+
+<br> 
+
+<http://pascal.hansotten.com/2025/01/24/oberon-pi/>
 
 ---
 
@@ -111,11 +147,11 @@ An important warning before we continue: from the telephone company side the lin
 <p>
 The software part has to do with how data from the Commodore 64 is modulated to send to the other system's modem. For that, we turn to John's program, as he posted it (in separate versions for NTSC and PAL Commodores for reasons I'll explain as we analyse the disassembly). It was presented as a type-in program in BASIC, short enough to type in by hand, with an embedded machine language section loaded from DATA statements. Here's a couple videos showing what it looked like in practice. The modulated audio is played through the speaker, so don't have it up too high.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxy0fWbvafj1BMlfIY9xtQ79G_K8B3oSyLIt_lZsbD1nvlrFjBf3A7QtZ3oGEmpovc62ofrzN5BSsDPnKPUzA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyT32m9In5_nkdWZgKtAsjMKrGuQXDuxc9H9ImRRFO9DZKlhteCjmbg8bXD9bpqyL86ot9ZZwllXlqCFvvTJA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 After the machine code is transferred to memory, a continuous tone starts playing and the program enters a basic terminal mode. As we type on the keyboard, we hear the tone "warble" as each bit of the character's ASCII value is modulated and played to the other end.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyZUxR3Pw7yNUW9BSZRpPP2e7WJu2dJAWBeIF_pzYi6JHkrVyzkJidfpoTInUdAlM4VGQH45NR8l4kDFtObhw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dydLtwu37gMTWEk3l5yzPo_Y3Y9lhsbtVTPCbU9QnKgBTSGDEHY2g3XjOS12yE4wKH_IVelSqZrfAXGfAn22Q' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 If you press F1, it will then give you the opportunity to send a file. This file is sent using Xmodem-CRC so the remote side can reliably detect errors, but since the transmission is one-direction the 64 side simply pretends everything succeeds, pauses briefly to let the other end send its acknowledge byte, and then goes onto the next block. You can hear the file itself being modulated in the audio also; around 1'10" the last block is sent, which is padded with ^Z and thus has a characteristic repeated sound (plus a single "blip" after it for the end-of-text character ^D). When the transmission is complete, the program ends.
 <p>
@@ -450,7 +486,7 @@ lc119   lda #$1a
 <p>
 Note that the branch at $c11b will always be taken since we just loaded a non-zero immediate into the accumulator. Again, another nice way of increasing code density and reducing type-in size. Should the file have ended in the first two bytes used to prime the CRC-16, John's code just stuffs ^Zs into it manually.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dygwwMJc8wc9ZZ3WnxPsE4iLKNPZYH8d2tWxA_rvFTQILtPwTf3We_eYlHr_kxwjwpnnaf_oI1GlB_ndUzJVA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwPYNM_l7ykQpQTrwtfcPhe_XeOvZQuxOS3RkhTImR31s2opFT65i-VObJX_9IBMOQHNh5Pjq4TMR7L9QOYLA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 This video shows the unified, enhanced version in action. When it starts up, it detects the correct video standard (or you can force it), and allows you to send a dialtone or go directly to an answer tone. Once the "softmodem" has answered, you can then enter the terminal or upload files. You can enter and exit the terminal or file transfer as desired, or simply "hang up" when you're done, which turns off the SID's output and causes any connected modem to perceive loss of carrier and terminate the link.
 <p>
@@ -461,4 +497,16 @@ John was a good guy with a clever programming style and it was nice to see his c
 <br> 
 
 <https://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html>
+
+---
+
+## The PC is Dead: It’s Time to Make Computing Personal Again
+
+date: 2025-01-18, from: Vintage Computing
+
+How surveillance capitalism and DRM turned home tech from friend to foe. For a while—in the &#8217;80s, &#8217;90s, and early 2000s—it felt like nerds were making the world a better place. Now, it feels like the most successful tech companies are making it worse. Internet surveillance, the algorithmic polarization of social media, 
+
+<br> 
+
+<https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again>
 

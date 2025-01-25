@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-01-24 07:04:49
+updated: 2025-01-25 07:05:24
 ---
 
 # craft
 
-(date: 2025-01-24 07:04:49)
+(date: 2025-01-25 07:05:24)
+
+---
+
+## Protected: Choose a Author – TEST
+
+date: 2025-01-24, from: Guild of American Luthiers
+
+There is no excerpt because this is a protected post. 
+
+<br> 
+
+<https://luth.org/choose-an-author-test/>
 
 ---
 
@@ -73,4 +85,16 @@ We are hosting a free Lie-Nielsen Hand Tool Event at our Willard Street workshop
 <br> 
 
 <https://blog.lostartpress.com/2025/01/20/lie-nielsen-hand-tool-event-in-covington-plus-our-grand-opening-of-anthe/>
+
+---
+
+## Storefront In-person Sales on Pause for a Few Weeks
+
+date: 2025-01-18, from: Lost Arg Press blog
+
+Our new storefront was supposed to be open by Jan. 1, but it’s still not done because we are waiting on the cabinetry that was supposed to arrive before Christmas. We are not gritching. Delays happen. But until we can get the new storefront at 407 Madison Ave. up and running, we have to suspend... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/01/17/storefront-in-person-sales-on-pause-for-a-few-weeks/>
 

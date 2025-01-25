@@ -1,11 +1,71 @@
 ---
 title: journalism
-updated: 2025-01-24 07:04:47
+updated: 2025-01-25 07:05:22
 ---
 
 # journalism
 
-(date: 2025-01-24 07:04:47)
+(date: 2025-01-25 07:05:22)
+
+---
+
+## January 2025 – Volume 65 Issue 4
+
+date: 2025-01-24, from: The Sundail (CSUN Student Newspaper)
+
+Letter from the Editor: Issue 4 Volume 65 Retrospective and Future Plant Yourself in Campus Life Winter Sports Media Querencia Cantando Matador Marquee Creating Space for Queer Students Gerardo’s Journey... 
+
+<br> 
+
+<https://sundial.csun.edu/188934/print-editions/january-2025-volume-65-issue-4/>
+
+---
+
+## Rolling Loud Donates to Wildfire Relief Fund upon New Lineup Announcement
+
+date: 2025-01-24, from: The Sundail (CSUN Student Newspaper)
+
+In light of the recent L.A. wildfires, Rolling Loud postponed the release of ticket sales and initiated a relief fund for the wildfire efforts. As a part of this effort,... 
+
+<br> 
+
+<https://sundial.csun.edu/189032/arts-entertainment/rolling-loud-donates-to-wildfire-relief-fund-upon-new-lineup-announcement/>
+
+---
+
+## Creating Space for Queer Students of Color: One Black Student’s Fight for Inclusion
+
+date: 2025-01-24, from: The Sundail (CSUN Student Newspaper)
+
+Being Black, Indigenous or a person of color while also being queer on a college campus means navigating two worlds of systemic discrimination. For one Black and nonbinary student, the... 
+
+<br> 
+
+<https://sundial.csun.edu/188889/news/creating-space-for-queer-students-of-color-one-black-students-fight-for-inclusion/>
+
+---
+
+## Plant Yourself in Campus Life: Join the Community Garden
+
+date: 2025-01-24, from: The Sundail (CSUN Student Newspaper)
+
+&#160; Among the many resources around campus that students use to escape from classes, there is one tucked away in the Sequoia Hall Courtyard that stands out. Populated with growing... 
+
+<br> 
+
+<https://sundial.csun.edu/188894/print-editions/plant-yourself-in-campus-life-join-the-community-garden/>
+
+---
+
+## Gerardo’s Journey: ‘Don’t judge a book by its cover’
+
+date: 2025-01-24, from: The Sundail (CSUN Student Newspaper)
+
+As a full-time student at California State University, Northridge (CSUN), Gerardo Lemus Ramos, a hard-of-hearing student who uses a wheelchair, navigates campus life just like any other student. He participates... 
+
+<br> 
+
+<https://sundial.csun.edu/188867/print-editions/gerardos-journey-dont-judge-a-book-by-its-cover/>
 
 ---
 
@@ -1014,4 +1074,136 @@ The Palisades fire, which is closest to UCLA, has spread to 23,713 acres and is 
 <br> 
 
 <https://dailybruin.com/2025/01/18/478552/>
+
+---
+
+## Theater preview: Winter productions bring laughs, magic to Los Angeles stages
+
+date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+From timeless chilling classics to fresh premieres, this winter’s theater season invites audiences to rediscover the magic of live performance.
+Ranging from reimagined fairytales and comedy tours to Pulitzer Prize-winning revivals, these seasonal shows offer something for every theatergoer to enjoy. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/18/theater-preview-winter-productions-bring-laughs-magic-to-los-angeles-stages/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Throughout the fires across Los Angeles County, residents have tried to stay up to date with evacuation warnings and orders using a variety of apps and services. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/18/478519/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Two fires continue to burn across Los Angeles County.
+The Palisades fire, the closest to UCLA, has spread to 23,717 acres and is 43% contained, according to the Cal Fire website. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/18/478511/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Hammer Museum will reopen Saturday after evacuation warnings bordering the UCLA campus were lifted, according to a post on the museum Instagram.
+UCLA students will return to in-person classes Tuesday, UCLA Chancellor Julio Frenk said in a Thursday campuswide email. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/478509/>
+
+---
+
+## LA residents seek emergency notifications, apps to remain alert during wildfires
+
+date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Whether through emergency notifications or online maps, Angelenos stayed alert as fires began to spread across Los Angeles County.&#160;
+The first fire began in Pacific Palisades on Jan. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/la-residents-seek-emergency-notifications-apps-to-remain-alert-during-wildfires/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 10:10 p.m., the Palisades fire – which is the fire closest to UCLA – is now 39% contained, according to Cal Fire. The second-largest fire, which began in Altadena/Pasadena, is now 65% contained, per Cal Fire. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/478504/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Los Angeles Mayor Karen Bass has appointed Steve Soboroff to superintend the city&#8217;s recovery from fires that have swept Los Angeles County, according to a press release from Unified L.A. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/478502/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Palisades fire is now 39% contained and has burned 23,713 acres, according to Cal Fire. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/478496/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 5:45 p.m., UCLA&#8217;s campus status has returned to &#8220;open,&#8221; according to the Bruins Safe Online website.
+(Daily Bruin file photo) 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/478470/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Katy Yaroslavsky, the District 5 Los Angeles City Council member, said in an email that all evacuation warnings in City Council District 5 have been lifted. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/478468/>
+
+---
+
+## Film review: ‘Wolf Man’ fails to capture audiences with predictability, monotonous characters
+
+date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the darkness of night, one should take care to avoid the “Wolf Man.”
+Director and co-writer Leigh Whannell’s horrifying creation leapt onto screens Friday, occupying a January dump month release slot with his second remake of a classic horror franchise. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/film-review-wolf-man-fails-to-capture-audiences-with-predictability-monotonous-characters/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 5 p.m., UCLA’s emergency status has expired. The campus will now pivot to &#8220;modified operations.&#8221; 
+
+<br> 
+
+<https://dailybruin.com/2025/01/17/478460/>
 

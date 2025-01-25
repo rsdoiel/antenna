@@ -1,11 +1,129 @@
 ---
 title: food
-updated: 2025-01-24 07:04:49
+updated: 2025-01-25 07:05:24
 ---
 
 # food
 
-(date: 2025-01-24 07:04:49)
+(date: 2025-01-25 07:05:24)
+
+---
+
+## This Iconic ’80s Soda Brand Is Back
+
+date: 2025-01-24, from: Taste of Home
+
+<p>1980s kids, rejoice: The popular, full-flavored soda of our youth has returned, and, like us, it's healthier now.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/slice-soda-is-back/">This Iconic &#8217;80s Soda Brand Is Back</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/slice-soda-is-back/>
+
+---
+
+## Milk Recall: The FDA Recalls 19,688 Cases of Milk
+
+date: 2025-01-24, from: Taste of Home
+
+<p>Check your pantry for shelf-stable Horizon Organic milk—the carton could have a dangerous packaging defect. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/milk-recall-january-2025/">Milk Recall: The FDA Recalls 19,688 Cases of Milk</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/milk-recall-january-2025/>
+
+---
+
+## The Best Sparkling Water Maker (2025), According to Years of Testing
+
+date: 2025-01-24, from: Bon Appetet
+
+This is how you transform a bad rosé into something bubbly and palatable. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-soda-makers>
+
+---
+
+## This Is What the Internet-Famous Progresso ‘Soup Drops’ Really Taste Like
+
+date: 2025-01-24, from: Taste of Home
+
+<p>It's cold and flu season. Instead of cough drops, grab...Progresso Soup Drops?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/progresso-soup-drops/">This Is What the Internet-Famous Progresso ‘Soup Drops’ Really Taste Like</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/progresso-soup-drops/>
+
+---
+
+## This Is the Dangerous Mistake People Make When Doing Dishes
+
+date: 2025-01-24, from: Taste of Home
+
+<p>Don't mix up your kitchen towels!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/dangerous-mistake-people-make-when-doing-dishes/">This Is the Dangerous Mistake People Make When Doing Dishes</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/dangerous-mistake-people-make-when-doing-dishes/>
+
+---
+
+## Lemon Ricotta Cake
+
+date: 2025-01-24, from: Taste of Home
+
+Thanks to full-fat ricotta, fresh lemon juice and other simple, straightforward ingredients, this is the best lemon ricotta cake ever. It's excellent with a strong cup of coffee or a smidge of limoncello. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lemon-ricotta-cake-2/>
+
+---
+
+## Remembering Nathalie Dupree, a Southern Food Icon
+
+date: 2025-01-24, from: Bon Appetet
+
+Her home kitchen was the training ground for dozens of eager interns. She took great pride in the accomplishments of her flock. Among the many are Virginia Willis, Rebecca Lang, Toni Tipton-Martin, and Anne Quatrano. 
+
+<br> 
+
+<https://www.bonappetit.com/story/nathalie-dupree-retrospective-tribute>
+
+---
+
+## What Is Uranium Glass (and Is It Dangerous)?
+
+date: 2025-01-24, from: Taste of Home
+
+<p>The novelty glass has enchanted collectors for centuries even though—or maybe because?—it's radioactive.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-is-uranium-glass/">What Is Uranium Glass (and Is It Dangerous)?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-is-uranium-glass/>
+
+---
+
+## 11 Best Whey Protein Powder of 2025 for People Who Adore Food
+
+date: 2025-01-24, from: Bon Appetet
+
+Fruity cereal protein powder is surprisingly good. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-whey-protein-powder>
 
 ---
 
@@ -18,6 +136,20 @@ date: 2025-01-24, from: The Sprudge
 <br> 
 
 <https://sprudge.com/ready-to-drink-klatch-coffees-ready-to-go-espresso-270219.html>
+
+---
+
+## This Is What Professional Organizers Store in Hard-to-Reach Cabinets
+
+date: 2025-01-24, from: Taste of Home
+
+<p>Not sure what to store in high kitchen cabinets? Here's what professional organizers recommend storing in the cabinet over your refrigerator.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-to-store-in-high-kitchen-cabinets/">This Is What Professional Organizers Store in Hard-to-Reach Cabinets</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-to-store-in-high-kitchen-cabinets/>
 
 ---
 
@@ -68,6 +200,18 @@ Like baked sweet potato chaat and celery soup.
 <br> 
 
 <https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-january-2025>
+
+---
+
+## Loco Moco
+
+date: 2025-01-24, from: Taste of Home
+
+With gravy, burger, rice and a fried egg, loco moco from the Hawaiian islands deserves a place in the comfort food hall of fame. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/loco-moco/>
 
 ---
 
@@ -868,4 +1012,16 @@ It's official: Chick-fil-A is the best at everything—including dessert. We pre
 <br> 
 
 <https://www.tasteofhome.com/recipes/copycat-chick-fil-a-brownies/>
+
+---
+
+## 29 Salad Dressings Worth Making at Home
+
+date: 2025-01-18, from: Bon Appetet
+
+A coffee vinaigrette to wake you up, a preserved lemon dressing to make things bright, and more great ways to coat your greens. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/homemade-salad-dressing-recipes>
 

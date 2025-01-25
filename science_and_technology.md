@@ -1,11 +1,551 @@
 ---
 title: science and technology
-updated: 2025-01-24 07:04:46
+updated: 2025-01-25 07:05:21
 ---
 
 # science and technology
 
-(date: 2025-01-24 07:04:46)
+(date: 2025-01-25 07:05:21)
+
+---
+
+## AI chatbot startup founder, lawyer wife accused of ripping off investors in $60M fraud
+
+date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>GameOn? It&#39;s looking more like game over for that biz</h4> <p>The co-founder and former CEO of AI startup GameOn is in a pickle. After exiting the top job last year under a cloud, he&#39;s now in court – along with his wife – for allegedly bilking his company and its investors out of more than $60 million.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/ai_startup_founder_wife_indicted/>
+
+---
+
+## Stargate, smargate. We're spending $60B+ on AI this year, Meta's Zuckerberg boasts
+
+date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>Can&#39;t keep the drama Llama out of this race</h4> <p>Meta CEO Mark Zuckerberg revealed plans on Friday to blow through as much as $60 to 65 billion in 2025 on plenty more AI resources for his social media mega-corp – and signaled his intention to continue the spending spree for years to come.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/meta_ai_spending/>
+
+---
+
+## Fitbit pays Uncle Sam $12M to sprint away from claims of burning-hot smartwatches
+
+date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>Your workout warm-up instructions didn&#39;t say anything about setting wrists on fire – allegedly!</h4> <p>Years after recalling one of its smartwatches over overheating batteries that burned people, Fitbit has agreed to pay a $12.25 million civil penalty to the US government to settle allegations it knew about the risk but failed to immediately report it as required by law.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/fitbit_unreported_battery_issue/>
+
+---
+
+## Elephants Aren't People and Can't Sue to Leave a Zoo, Colorado's Top Court Rules
+
+date: 2025-01-24, from: Smithsonian Magazine
+
+The court rejected a case to send five African elephants to a sanctuary, saying they have no legal right to demand release under habeas corpus 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/elephants-arent-people-and-cant-sue-to-leave-a-zoo-colorados-top-court-rules-180985904/>
+
+---
+
+## Exchange update refusenik? Consider yourself warned by Microsoft
+
+date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>If you have a &#39;significantly out of date&#39; Exchange Server, emergency mitigation might stop working</h4> <p>Exchange Server administrators lagging on their cumulative and security updates be warned: Microsoft has stated that the Exchange Emergency Mitigation Service (EEMS) might stop working on &#34;significantly out of date&#34; versions of the software.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/microsoft_has_a_warning_for/>
+
+---
+
+## A Man Found a Mysterious Statue in a Trash Bag on the Street. It Turned Out to Be a 2,000-Year Old Greek Artifact
+
+date: 2025-01-24, from: Smithsonian Magazine
+
+After discovering the ancient artwork in a suburb of Thessaloniki, Greece, the man surrendered it to the police. Authorities are analyzing the statue and investigating why it was abandoned 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-man-found-a-mysterious-statue-in-a-trash-bag-on-the-street-it-turned-out-to-be-a-2000-year-old-greek-artifact-180985901/>
+
+---
+
+## NASA Invites Media to Expedition 71 Crew Visit at Marshall
+
+date: 2025-01-24, from: NASA breaking news
+
+NASA will host four astronauts at 9 a.m. CDT Wednesday, Jan. 29, for a media opportunity at the agency’s Marshall Space Flight Center in Huntsville, Alabama. NASA astronauts Matt Dominick, Mike Barratt, Jeanette Epps, and Tracy C. Dyson served as part of Expedition 71 and will discuss their recent missions to the International Space Station. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-expedition-71-crew-visit-at-marshall-2/>
+
+---
+
+## The state of Right to Repair: Progress made, but key barriers remain
+
+date: 2025-01-24, updated: 2025-01-25, from: The Register (UK I.T. News)
+
+<h4>Schematics, repair manuals, part numbers still out of reach for many industries</h4> <p>The US Public Interest Research Group (PIRG) has released a report on the state of Right to Repair. The good news is that things seem to be going in the right direction for some gadgets. The bad news is that progress is not equal, and there has been no improvement for some gizmos.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/pirg_reports_progress/>
+
+---
+
+## MICA
+
+date: 2025-01-24, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">MICA</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>DARPA is soliciting innovative proposals for the research and development of advanced concepts for modeling/simulation and fabrication of microsystem-based control of catalytic molecules. | <a href="https://drupal.darpa.mil/research/programs/microsystem-induced">See Program</a></p></div>
+      
+
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-24T15:18:08-05:00" title="Friday, January 24, 2025 - 15:18" class="datetime">Fri, 01/24/2025 - 15:18</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/node/3861>
+
+---
+
+## NASA Invites Media to Second Intuitive Machines Launch to Moon
+
+date: 2025-01-24, from: NASA breaking news
+
+For the second time, Intuitive Machines will launch a lunar lander to deliver NASA technology demonstrations and science investigations to the Moon for the benefit of all. Media accreditation is open for the IM-2 launch, part of NASA’s CLPS (Commercial Lunar Payload Services) initiative and Artemis campaign to establish a long-term presence on the Moon.&#160; [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-second-intuitive-machines-launch-to-moon/>
+
+---
+
+## Linux rolls out the welcome mat for Microsoft's Copilot key
+
+date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>But what the heck should it do?</h4> <p>Great news, Linux fans! Support for the Copilot key is coming in the 6.14 kernel. What do you think it should do?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/copilot_key_linux/>
+
+---
+
+## A Sunfish Got 'Lonely' When Its Aquarium Closed for Renovations. Then, Staff Found a Creative Way to Cheer It Up
+
+date: 2025-01-24, from: Smithsonian Magazine
+
+The solitary fish named Mambo stopped eating and seemed to be missing its human visitors—so aquarists attached photos of human faces and uniforms to the side of its enclosure 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-sunfish-got-lonely-when-its-aquarium-closed-for-renovations-then-staff-found-a-creative-way-to-cheer-it-up-180985902/>
+
+---
+
+## NASA to Brief Media on Asteroid Sample Mission Findings
+
+date: 2025-01-24, from: NASA breaking news
+
+NASA will brief media at 11 a.m. EST Wednesday, Jan. 29, to provide an update on science results from NASA’s OSIRIS-REx (Origins, Spectral Interpretation, Resource Identification, and Security – Regolith Explorer) mission, which delivered a sample of asteroid Bennu to Earth in September 2023. Audio of the media call will stream live on the agency’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-brief-media-on-asteroid-sample-mission-findings/>
+
+---
+
+## PS: RoQS
+
+date: 2025-01-24, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">PS: RoQS</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p data-pm-slice="1 1 []">DARPA is soliciting innovative proposals in the area of robust quantum sensing. The RoQS:Robust Quantum Sensors program seeks to bring quantum sensors to DoD platforms. | <a href="https://drupal.darpa.mil/research/programs/roqs-robust-quantum-sensors">See Program&nbsp;</a></p></div>
+      
+
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-24T13:33:33-05:00" title="Friday, January 24, 2025 - 13:33" class="datetime">Fri, 01/24/2025 - 13:33</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/opportunities/darpa-ps-25-11>
+
+---
+
+## What happens when we can’t just build bigger AI datacenters anymore?
+
+date: 2025-01-24, updated: 2025-01-25, from: The Register (UK I.T. News)
+
+<h4>We stitch together enormous supercomputers from other smaller supercomputers of course</h4> <p><strong>Feature</strong>  Generative AI models have not only exploded in popularity over the past two years, but they&#39;ve also grown at a precipitous rate, necessitating ever larger quantities of accelerators to keep up.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/build_bigger_ai_datacenters/>
+
+---
+
+## Check Out These Spellbinding Snow Sculptures—Before They Melt
+
+date: 2025-01-24, from: Smithsonian Magazine
+
+In places like Colorado and Minnesota, international teams of talented snow artists are creating larger-than-life masterpieces from fluffy white powder 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/check-out-these-spellbinding-snow-sculptures-before-they-melt-180985895/>
+
+---
+
+## Hubble Studies the Tarantula Nebula’s Outskirts
+
+date: 2025-01-24, from: NASA breaking news
+
+This NASA/ESA&#160;Hubble Space Telescope&#160;image features a dusty yet sparkling scene from one of the Milky Way’s satellite galaxies, the Large Magellanic Cloud. The Large Magellanic Cloud is a dwarf galaxy situated about 160,000 light-years away in the constellations Dorado and Mensa. Despite being only 10–20% as massive as the Milky Way galaxy, the Large Magellanic [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hubble-studies-the-tarantula-nebulas-outskirts/>
+
+---
+
+## Earth's Magnetic North Pole Is Shifting Toward Siberia and Raising Questions About Unusual Movement
+
+date: 2025-01-24, from: Smithsonian Magazine
+
+Scientists released an update to a model that maps the ever-moving pole and has significant implications for navigation systems 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/earths-magnetic-north-pole-is-shifting-toward-siberia-and-raising-questions-about-unusual-movement-180985892/>
+
+---
+
+## Qualcomm big cheese Cristiano Amon's pay award jumps 10%
+
+date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>At $25.91M, CEO is worth 261 employees</h4> <p>Qualcomm&#39;s top dog Cristian Amon enjoyed a ten percent year-on-year bump in total financial compensation for fiscal 2024 that amounted to $25.91 million.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/qualcomm_cristiano_amon_pay_increase/>
+
+---
+
+## NASA Space Tech’s Favorite Place to Travel in 2025: The Moon!
+
+date: 2025-01-24, from: NASA breaking news
+
+NASA Space Technology has big travel plans for 2025, starting with a trip to the near side of the Moon! Among ten groundbreaking NASA science and technology demonstrations, two technologies are on a ride to survey lunar regolith – also known as “Moon dust” – to better understand surface interactions with incoming lander spacecraft and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/nasa-space-techs-favorite-place-to-travel-in-2025-the-moon/>
+
+---
+
+## Secret Passageways Recorded in Leonardo da Vinci's Sketches Discovered Beneath a Medieval Castle in Milan
+
+date: 2025-01-24, from: Smithsonian Magazine
+
+Using ground-penetrating radar and laser scanners, researchers identified subterranean structures just a few feet below the ground. The pathways may connect Sforza Castle to a nearby basilica 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/secret-passageways-recorded-in-leonardo-da-vincis-sketches-discovered-beneath-a-medieval-castle-in-milan-180985890/>
+
+---
+
+## Europe, UK weigh up how to respond to Trump's proposed tariffs. One WTF or two?
+
+date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>Could a post-Brexit romance be on the cards?</h4> <p>The UK and EU must decide whether to coordinate a response to Donald Trump&#39;s proposed tariffs on stuff imported into the United States, or cut separate deals with the new president, the House of Lords heard this week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/eu_uk_trump_tariffs/>
+
+---
+
+## Artemis II Stacking Operations Update
+
+date: 2025-01-24, from: NASA breaking news
+
+Teams with NASA’s Exploration Ground Systems Program continue stacking the SLS (Space Launch System) rocket’s twin solid rocket booster motor segments for the agency’s Artemis II mission, inside the Vehicle Assembly Building (VAB) at NASA’s Kennedy Space Center in Florida. Currently, six of the 10 segments are secured atop mobile launcher 1 with the right [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/artemis-ii-stacking-operations-update/>
+
+---
+
+## Webcast: SUNSPOT
+
+date: 2025-01-24, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">Webcast: SUNSPOT</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-24T10:37:17-05:00" title="Friday, January 24, 2025 - 10:37" class="datetime">Fri, 01/24/2025 - 10:37</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>DARPA's Defense Sciences Office (DSO) is sponsoring a Proposers Day webcast to provide information to potential proposers on the objectives of an anticipated Broad Agency Announcement (BAA) for the SUNSPOT: Sources for Ultraviolet Nuclear Spectroscopy of Thorium program.&nbsp;</p><p>The Proposers Day will be held via webcast on Feb. 7, 2025, from 11:30 a.m. - 4:30 p.m. ET.&nbsp;</p><p><strong>Advance registration is required for viewing the webcast.&nbsp;</strong></p></div>
+      
+
+      </div>
+  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/wide_816/public/gallery/2025-01/program-logo-sunspot.jpg?itok=f9vyvR2L" alt class="image-style-wide-816">
+
+
+
+      <figcaption class="padding-bottom-3">The SUNSPOT program will develop vacuum ultraviolet lasers to validate and develop nuclear clocks. | Source: NASA</figcaption>
+
+    
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+        
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p><a class="primary-button-light primary-button-padding" href="https://events.sa-meetings.com/SUNSPOTProposersDay/" target="_blank"><span>Register now</span>&nbsp;</a><br><strong>Webcast</strong><br>Feb. 7, 2025<br>11:30 a.m. ET<br>Registration deadline: Jan. 31 at noon ET</p><h4>Resources</h4><p><a href="https://drupal.darpa.mil/research/programs/sunspot"><strong>Program: </strong>Sunspot</a></p><h4>Opportunity</h4><p>DARPA-SN-25-38</p><p>&nbsp;</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/events/sunspot-webcast>
+
+---
+
+## SUNSPOT: Sources for Ultraviolet Nuclear Spectroscopy of Thorium
+
+date: 2025-01-24, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">SUNSPOT: Sources for Ultraviolet Nuclear Spectroscopy of Thorium</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Summary</h4></div>
+      
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>As evidenced by the pervasive benefits of GPS-supported technologies, precision clock networks underpin critical Department of Defense (DoD) and commercial applications such as navigation and communications.&nbsp;</p><p>In contrast to the currently employed microwave-domain clock technologies, the superior performance of optical-domain clocks can provide resilience and operability in GPS-denied conditions. In addition, optical-domain clocks can also enable a wide range of next-generation commercial applications that require increased connectivity, high bandwidth, low latency and beyond-GPS timing precision.</p><p>The recent discovery of a nuclear clock transition in an isotope of thorium (<sup>229</sup>Th) could portend a paradigm shift in high precision optical-domain clocks.&nbsp;</p><p>Owing to the natural isolation of the nucleus from external disturbances, clocks based on nuclear transitions can enable extraordinary levels of timing precision within a compact, portable package.&nbsp;</p><p>The SUNSPOT program aims to develop a key enabling technology for the realization of a thorium-based nuclear clock — a coherent laser source in the vacuum ultraviolet (VUV) region of the electromagnetic spectrum.&nbsp;</p><p>It is anticipated that this laser source will enable accurate spectroscopic studies of the thorium clock transition and the technological development of high-performance nuclear clocks.</p></div>
+      
+
+      </div>
+  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/wide_816/public/gallery/2025-01/program-logo-sunspot.jpg?itok=f9vyvR2L" alt class="image-style-wide-816">
+
+
+
+      <figcaption class="padding-bottom-3">The SUNSPOT program will develop vacuum ultraviolet lasers to validate and develop nuclear clocks. | Source: NASA</figcaption>
+
+    
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+          <div class="content-width-x-large margin-x-auto paragraph paragraph--type--from-library paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+      
+            <div class="field field--name-paragraphs field--type-entity-reference-revisions field--label-hidden field__item">
+  <div class="content-width-x-large margin-x-auto desktop:padding-top-0 mobile-lg:padding-top-5 paragraph paragraph--type--right-rail paragraph--view-mode--default">
+    
+      
+      <div class="field field--name-field-right-rail-paragraph field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+
+
+
+      <div class="padding-bottom-3 border-bottom-1px margin-bottom-3 paragraph paragraph--type--program-program-manager-link paragraph--view-mode--default">
+      
+        <p class="text-bold">Program Manager</p>
+        <h6>
+          
+          
+          
+        </h6>
+
+        <p>
+          ,
+          
+        </p>
+
+        <p><a class="display-flex" href><span class="padding-right-1">Read bio</span>
+            <svg data-name="Component 32 – 4" width="30" height="30" viewBox="0 0 30 30">
+              <circle id="Ellipse_48" data-name="Ellipse 48" cx="15" cy="15" r="15" fill="#15cde7" />
+              <g id="Group_28494" data-name="Group 28494" transform="translate(-601 -6480.795)">
+                <path id="Path_34153" data-name="Path 34153" d="M3.582,0V9.489L0,5.906V8.718l3.17,3.17,1.406,1.406,1.406-1.406,3.17-3.17V5.906L5.57,9.489V0Z" transform="translate(609.353 6499.947) rotate(-90)" fill="#18191c" />
+              </g>
+            </svg>
+
+          </a></p>
+
+          </div>
+  
+
+</div>
+          </div>
+  
+
+      </div>
+</div>
+      
+
+              </div>
+      
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Resources</h4><ul style="list-style-type:disc;margin-left:0;"><li><a href="https://drupal.darpa.mil/events/sunspot-webcast"><strong>Event: </strong>Proposers Day</a></li></ul></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-24T10:29:54-05:00" title="Friday, January 24, 2025 - 10:29" class="datetime">Fri, 01/24/2025 - 10:29</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/programs/sunspot>
+
+---
+
+## Don't want your Kubernetes Windows nodes hijacked? Patch this hole now
+
+date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
+
+<h4>SYSTEM-level command injection via API parameter *chef&#39;s kiss*</h4> <p>A now-fixed command-injection bug in Kubernetes can be exploited by a remote attacker to gain code execution with SYSTEM privileges on all Windows endpoints in a cluster, and thus fully take over those systems, according to Akamai researcher Tomer Peled.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/24/kubernetes_windows_nodes_bug/>
+
+---
+
+## NICER Status Update
+
+date: 2025-01-24, from: NASA breaking news
+
+Jan. 24, 2025 NASA’s NICER Continues Science Operations Post Repair NASA crew aboard the International Space Station installed patches to the agency’s NICER (Neutron star Interior Composition Explorer) mission during a spacewalk on Jan. 16. NICER, an X-ray telescope perched near the station’s starboard solar array, resumed science operations later the same day. The patches [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/universe/nicer-status-update/>
 
 ---
 
@@ -21,7 +561,7 @@ The library sorting problem is used across computer science for organizing far m
 
 ---
 
-## Boeing warns of more financial charges due to strikes, costlier parts, and Starliner
+## Boeing warns of more financial hits from strikes, costlier parts – and Starliner, of course
 
 date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
 
@@ -33,7 +573,19 @@ date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
 
 ---
 
-## North Korean dev who renamed himself 'Bane' accused of IT worker fraud scheme
+## 40 Years Ago: STS-51C, the First Dedicated Department of Defense Shuttle Mission
+
+date: 2025-01-24, from: NASA breaking news
+
+On Jan. 24, 1985, space shuttle Discovery took off from NASA’s Kennedy Space Center (KSC) in Florida on STS-51C, the first space shuttle mission entirely dedicated to the Department of Defense (DOD). As such, many of the details of the flight remain classified. Discovery’s crew of Commander Thomas “T.K.” Mattingly, Pilot Loren Shriver, Mission Specialists [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/history/40-years-ago-sts-51c-the-first-dedicated-department-of-defense-shuttle-mission/>
+
+---
+
+## North Korean dev who renamed himself 'Bane' accused of IT worker fraud caper
 
 date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
 
@@ -657,9 +1209,9 @@ date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
 
 ## FortiGate config leaks: Victims' email addresses published online
 
-date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+date: 2025-01-23, updated: 2025-01-25, from: The Register (UK I.T. News)
 
-<h4>Experts warn not to take leaks lightly as years-long compromises could remain undetected</h4> <p>Thousands of email addresses included in the Belsen Group&#39;s dump of FortiGate configs last week are now available online, revealing which organizations may have been impacted by the 2022 zero-day exploits.…</p> 
+<h4>Experts warn not to take SNAFU lightly as years-long compromises could remain undetected</h4> <p>Thousands of email addresses included in the Belsen Group&#39;s dump of FortiGate configs last week are now available online, revealing which organizations may have been impacted by the 2022 zero-day exploits.…</p> 
 
 <br> 
 
@@ -717,7 +1269,7 @@ date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
 
 ## OpenZFS 2.3 is here, with RAID expansion and faster dedup
 
-date: 2025-01-23, updated: 2025-01-23, from: The Register (UK I.T. News)
+date: 2025-01-23, updated: 2025-01-25, from: The Register (UK I.T. News)
 
 <h4>Coming soon to April&#39;s TrueNAS SCALE release, dubbed &#39;Fangtooth&#39;</h4> <p>The latest version of OpenZFS offers RAID expansion, plus faster data deduplication donated by iXsystems. The code will be available very soon in the beta of TrueNAS SCALE 25.04.…</p> 
 
@@ -993,9 +1545,9 @@ date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
 
 ## Microsoft throws more cash at its carbon guilt by replanting Brazilian rainforest
 
-date: 2025-01-22, updated: 2025-01-22, from: The Register (UK I.T. News)
+date: 2025-01-22, updated: 2025-01-24, from: The Register (UK I.T. News)
 
-<h4>Meanwhile, datacenter emissions continue to soar</h4> <p>Microsoft is forking out for even more carbon credits to offset spiralling AI-fuelled carbon dioxide emissions from its datacenters.…</p> 
+<h4>Meanwhile, datacenter emissions continue to soar</h4> <p><strong>Updated</strong>  Microsoft is forking out for even more carbon credits to offset spiralling AI-fuelled carbon dioxide emissions from its datacenters.…</p> 
 
 <br> 
 
@@ -1975,4 +2527,136 @@ With “Toy Story,” computer animation began its rise to dominance
 <br> 
 
 <https://www.smithsonianmag.com/smart-news/on-this-day-in-1993-production-began-on-this-groundbreaking-movie-that-transformed-hollywood-forever-180985852/>
+
+---
+
+## MorphOS 3.19 released
+
+date: 2025-01-18, from: OS News
+
+It&#8217;s been about 18 months, but we&#8217;ve got a new release for MorphOS, the Amiga-like operating system for PowerPC Macs and some other PowerPC-based machines. Going through the list of changes, it seems MorphOS 3.19 focuses heavily on fixing bugs and addressing issues, rather than major new features or earth-shattering changes. Of note are several small but important updates, like updated versions of OpenSSL and OpenSSH, as well as a ton of new filetype definitions &#8211; and so much more. Having a release focused on fixing bugs and addressing smaller issues isn&#8217;t exactly a bad thing though &#8211; I&#8217;ve used MorphOS on my 17&#8243; 1.25Ghz PowerBook G4 often enough to know MorphOS is quite complete, stable, and a ton of fun to use, and much more capable than it has any right to be considering what must be its relatively small developer team and user base. That being said, I do wish MorphOS was available on hardware newer than 20 year old PowerPC Macs, because as much as I like me some classic hardware, the world&#8217;s moving on and even basic web browsing requires much more performant hardware now. Maybe I should try and buy one of the supported Apple PowerPC G5 machines to see just how much better MorphOS runs on that than on my G4. 
+
+<br> 
+
+<https://www.osnews.com/story/141578/morphos-3-19-released/>
+
+---
+
+## Google begins requiring JavaScript for Google Search
+
+date: 2025-01-18, from: OS News
+
+Google says it has begun requiring users to turn on JavaScript, the widely used programming language to make web pages interactive, in order to use Google Search. In an email to TechCrunch, a company spokesperson claimed that the change is intended to “better protect” Google Search against malicious activity, such as bots and spam, and to improve the overall Google Search experience for users. The spokesperson noted that, without JavaScript, many Google Search features won’t work properly and that the quality of search results tends to be degraded. ↫ Kyle Wiggers at TechCrunch One of the strangely odd compliments you could give Google Search is that it would load even on the weirdest or oldest browsers, simply because it didn&#8217;t require JavaScript. Whether I loaded Google Search in the JS-less Dillo, Blazer on PalmOS, or the latest Firefox, I&#8217;d end up with a search box I could type something into and search. Sure, beyond that the web would be, shall we say, problematic, but at least Google Search worked. With this move, Google will end such compatibility, which was most likely a side effect more than policy. I know a lot of people lament the widespread reliance on and requirement to have JavaScript, and it surely can be and is abused, but it&#8217;s also the reality of people asking more and more of their tools on the web. I would love it websites gracefully degraded on browsers without JavaScript, but that&#8217;s simply not a realistic thing to expect, sadly. JavaScript is part of the web now &#8211; and has been for a long time &#8211; and every website using or requiring JavaScript makes the web no more or less &#8220;open&#8221; than the web requiring any of the other myriad of technologies, like more recent versions of TLS. Nobody is stopping anyone from implementing support for JS. I&#8217;m not a proponent of JavaScript or anything like that &#8211; in fact, I&#8217;m annoyed I can&#8217;t load our WordPress backend in browsers that don&#8217;t have it, but I&#8217;m just as annoyed that I can&#8217;t load websites on older machines just because they don&#8217;t have later versions of TLS. Technology &#8220;progresses&#8221;, and as long as the technologies being regarded as &#8220;progress&#8221; are not closed or encumbered by patents, I can be annoyed by it, but I can&#8217;t exactly be against it. The idea that it&#8217;s JavaScript making the web bad and not shit web developers and shit managers and shit corporations sure is one hell of a take. 
+
+<br> 
+
+<https://www.osnews.com/story/141570/google-begins-requiring-javascript-for-google-search/>
+
+---
+
+## Dillo 3.2.0 released
+
+date: 2025-01-18, from: OS News
+
+We&#8217;ve got a new Dillo release for you this weekend! We added SVG support for math formulas and other simple SVG images by patching the nanosvg library. This is specially relevant for Wikipedia math articles. We also added optional support for WebP images via libwebp. You can use the new option ignore_image_formats to ignore image formats that you may not trust (libwebp had some CVEs recently). ↫ Dillo website This release also comes with some UI tweaks, like the ability to move the scrollbar to the left, use the scrollbar to go back and forward exactly one page, the ability to define custom link actions in the context menu, and more &#8211; including the usual bug fixes, of course. Once the pkgsrc bug on HP-UX I discovered and reported is fixed, Dillo is one of the first slightly more complex packages I intend to try and build on HP-UX 11.11. 
+
+<br> 
+
+<https://www.osnews.com/story/141567/dillo-3-2-0-released/>
+
+---
+
+## Windows Insiders can now turn on Administrator Protection from settings
+
+date: 2025-01-18, updated: 2025-01-18, from: The Register (UK I.T. News)
+
+<h4>Security feature widens out to more Windows 11 users, including those at home</h4> <p>Microsoft is trying a new way of enabling Administrator Protection in Windows 11. The latest Windows Insider Canary build adds a setting that removes the requirement for IT admins to activate the feature.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/18/windows_insider_administrator_protection/>
+
+---
+
+## Got a telescope? Bid farewell to ESA's retiring Milky Way mapper
+
+date: 2025-01-18, updated: 2025-01-18, from: The Register (UK I.T. News)
+
+<h4>Gaia makes its final science observation</h4> <p>The European Space Agency&#39;s (ESA) Milky Way mapper Gaia has completed the sky-scanning phase of its mission, racking up more than three trillion observations over the past decade.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/18/esa_gaia_mapping/>
+
+---
+
+## The Ridiculous Reason Why the U.S. Enacted a Wartime Ban on Sliced Bread Sales—and Why It Didn't Last Long
+
+date: 2025-01-18, from: Smithsonian Magazine
+
+Designed to keep prices low and conserve wax paper, the ban, enacted on this day in 1943, only succeeded in making Americans furious 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-ridiculous-reason-why-the-us-enacted-a-wartime-ban-on-sliced-bread-salesand-why-it-didnt-last-long-180985834/>
+
+---
+
+## How Windows got to version 3 – an illustrated history
+
+date: 2025-01-18, updated: 2025-01-21, from: The Register (UK I.T. News)
+
+<h4>With added manga and snark. What&#39;s not to like?</h4> <p><strong>Opinion</strong>  Windows 1 and 2 flopped almost as badly as OS/2 did. How did Microsoft stage one of the greatest comebacks ever with Windows 3?…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/18/how_windows_got_to_v3/>
+
+---
+
+## CISA: Wow, that election had a lot of foreign trolling. Trump's Homeland Sec pick: And that's none of your concern
+
+date: 2025-01-18, updated: 2025-01-19, from: The Register (UK I.T. News)
+
+<h4>Cyber agency too &#39;far off mission,&#39; says incoming boss Kristi Noem</h4> <p>America&#39;s lead cybersecurity agency on Friday made one final scream into the impending truth void about election security and the role CISA plays in maintaining it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/18/cisa_election_security_isnt_political/>
+
+---
+
+## Hands-on graphics without X11 using NetBSD’s wscons
+
+date: 2025-01-18, from: OS News
+
+Now, if you have been following the development of EndBASIC, this is not surprising. The defining characteristic of the EndBASIC console is that it’s hybrid as the video shows. What’s newsworthy, however, is that the EndBASIC console can now run directly on a framebuffer exposed by the kernel. No X11 nor Wayland in the picture (pun intended). But how? The answer lies in NetBSD’s flexible wscons framework, and this article dives into what it takes to render graphics on a standard Unix system. I’ve found this exercise exciting because, in the old days, graphics were trivial (mode 13h, anyone?) and, for many years now, computers use framebuffer-backed textual consoles. The kernel is obviously rendering “graphics” by drawing individual letters; so why can’t you, a user of the system, do so too? ↫ Julio Merino This opens up a lot of interesting use cases and fun hacks for developers to implement in their CLI applications. All the code in the article is &#8211; as usual &#8211; way over my head, but will be trivial for quite a few of you. The mentioned EndBASIC project, created by the author, Julio Merino, is fascinating too: EndBASIC is an interpreter for a BASIC-like language and is inspired by Amstrad&#8217;s Locomotive BASIC 1.1 and Microsoft&#8217;s QuickBASIC 4.5. Like the former, EndBASIC intends to provide an interactive environment that seamlessly merges coding with immediate visual feedback. Like the latter, EndBASIC offers higher-level programming constructs and strong typing. EndBASIC&#8217;s primary goal is to offer a simplified and restricted DOS-like environment to learn the foundations of programming and computing, and focuses on features that quickly reward the learner. These include a built-in text editor, commands to manipulate the screen, commands to interact with shared files, and even commands to interact with the hardware of a Raspberry Pi. ↫ EndBASIC website Being able to run this on a machine without having to load either X or Wayland is a huge boon, and makes it accessible fast on quite a lot of hardware on which a full X or Wayland setup would be cumbersome or slow. 
+
+<br> 
+
+<https://www.osnews.com/story/141565/hands-on-graphics-without-x11-using-netbsds-wscons/>
+
+---
+
+## Microsoft adds “AI” to Microsoft 365 and raises prices to pay for it
+
+date: 2025-01-18, from: OS News
+
+Up until now, if you were subscribed to Office 365 &#8211; I think it&#8217;s called Microsoft 365 now &#8211; and you wanted the various &#8220;AI&#8221; Copilot features, you needed to pay $20 extra. Well, that&#8217;s changing, as Microsoft is now adding these features to Microsoft 365 by default, while raising the prices for every subscriber by $3 per month. It seems not enough people were interested in paying $20 per month extra for &#8220;AI&#8221; features in Office, so Microsoft has to force everyone to pay up. It&#8217;s important to note, though, that your usage of the features is limited by how many &#8220;AI credits&#8221; you have, to really nail that slot machine user experience, and you&#8217;re only getting a limited number of those per month. Luckily, existing Microsoft 365 subscribers can opt out of these new features and thus avoid the price increase, which is a genuinely welcome move by Microsoft. New subscribers, however, will not be able to opt out. Finally, we understand that our customers have a variety of needs and budgets, so we’re committed to providing options. Existing subscribers with recurring billing enabled with Microsoft can switch to plans without Copilot or AI credits like our Basic plan, or, for a limited time, to new Personal Classic or Family Classic plans. These plans will continue to be maintained as they exist today, but for certain new innovations and features you’ll need a Microsoft 365 Personal and Family subscription. ↫ Bryan Rognier at the Microsoft blog Microsoft wants to spread the immense cost of running datacentres for &#8220;AI&#8221; to everyone, whether you want to use these features or not. When not enough people want to opt into &#8220;AI&#8221; and pay extra, the only other option is to just make everyone pay, whether they want to or not. Still, the opt-out for existing subscribers is nice, and if you are one and don&#8217;t want to pay $35 per year extra, don&#8217;t forget to opt out. 
+
+<br> 
+
+<https://www.osnews.com/story/141563/microsoft-adds-ai-to-microsoft-364-and-raises-prices-to-pay-for-it/>
+
+---
+
+## Venture: cross-platform GUI tool for parsing and analyzing Windows event logs
+
+date: 2025-01-18, from: OS News
+
+Venture is a cross-platform viewer for Windows Event Logs (.evtx files). Built with the Tauri, it is intended as a fast, standalone tool for quickly parsing and slicing Windows Event Log files during incident response, digital forensics, and CTF competitions. ↫ Venture GitHub page Neat tool. It makes sense that it would be possible to build third-party viewers for Windows event logs, but I never stopped to think about it and just defaulted to the one built into Windows. 
+
+<br> 
+
+<https://www.osnews.com/story/141560/venture-cross-platform-gui-tool-for-parsing-and-analyzing-windows-event-logs/>
 

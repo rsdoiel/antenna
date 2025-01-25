@@ -1,11 +1,201 @@
 ---
 title: socal north
-updated: 2025-01-24 07:04:45
+updated: 2025-01-25 07:05:20
 ---
 
 # socal north
 
-(date: 2025-01-24 07:04:45)
+(date: 2025-01-25 07:05:20)
+
+---
+
+## Immigrant Rights Groups Launches Rapid Response Network, Hotline in LA
+
+date: 2025-01-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="666" height="283" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/immigranthelpline.jpg?fit=666%2C283&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/immigranthelpline.jpg?w=666&amp;ssl=1 666w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/immigranthelpline.jpg?resize=300%2C127&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/immigranthelpline.jpg?resize=400%2C170&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/immigranthelpline.jpg?fit=666%2C283&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; Immigrant rights groups today launched a rapid response network and hotline to report and document U.S. Immigration and Customs Enforcement activity in the Greater Los Angeles [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/24/immigrant-rights-groups-launches-rapid-response-network-hotline-in-la/">Immigrant Rights Groups Launches Rapid Response Network, Hotline in LA</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/24/immigrant-rights-groups-launches-rapid-response-network-hotline-in-la/>
+
+---
+
+## Couple Charged with Impersonating Firefighters Near Palisades Fire
+
+date: 2025-01-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="360" height="274" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Couple-With-Fake-Fire-Truck-Arrested-1.jpg?fit=360%2C274&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Couple-With-Fake-Fire-Truck-Arrested-1.jpg?w=360&amp;ssl=1 360w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Couple-With-Fake-Fire-Truck-Arrested-1.jpg?resize=300%2C228&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Couple-With-Fake-Fire-Truck-Arrested-1.jpg?fit=360%2C274&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Couple-With-Fake-Fire-Truck-Arrested-1.jpg?fit=360%2C274&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>VAN NUYS (CNS) &#8211; A husband and wife who allegedly tried to access the Pacific Palisades fire zone while wearing firefighting gear and driving a fire truck are due back [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/24/couple-charged-with-impersonating-firefighters-near-palisades-fire/">Couple Charged with Impersonating Firefighters Near Palisades Fire</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/24/couple-charged-with-impersonating-firefighters-near-palisades-fire/>
+
+---
+
+## California leaders reject Trump administration order to allow immigration enforcement in schools
+
+date: 2025-01-24, updated: 2025-01-25, from: The LAist
+
+State officials and leaders of county offices of education and school districts speak out against quickly Trump administration’s new guidance allowing immigration enforcement near or in schools. 
+
+<br> 
+
+<https://laist.com/news/education/california-leaders-reject-trump-administration-order-to-allow-immigration-enforcement-in-schools>
+
+---
+
+## Couple accused of impersonating firefighters in Palisades Fire — complete with their own fire engine
+
+date: 2025-01-24, updated: 2025-01-24, from: The LAist
+
+The couple, prosecutors say, bought the fire engine at an auction and now face 180 days in jail. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/couple-accused-of-impersonating-firefighters-in-palisades-fire>
+
+---
+
+## The babies of 2024
+
+date: 2025-01-24, from: Catalina Islander
+
+Top row left to right: Julia and Matt Baker with Baby Olympia Baker, Melissa Soto with baby Adriel Casillas, Makenna and Cameron Hubert with baby William Hubert, Marisa Morones with Baby Jalen Pedroza, Taryn Minuto and Jaime Alaniz with baby Jordyn Alaniz, Marcela Medina with baby Victoria Sterling, Matilde Martinez and Juan Huaracha with baby [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/the-babies-of-2024/>
+
+---
+
+## Avalon Harbor Underwater Cleanup returns Feb. 22
+
+date: 2025-01-24, from: Catalina Islander
+
+The much-anticipated Avalon Harbor Underwater Cleanup will take place on Saturday, Feb. 22. Scuba divers from across the region will don their gear for a day of environmental stewardship and discovery. This unique event marks the only time each year that scuba diving is permitted in Avalon Harbor, making it a coveted opportunity for divers [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-harbor-underwater-cleanup-returns-feb-22/>
+
+---
+
+## Council OKs reopening of cannabis business applications
+
+date: 2025-01-24, from: Catalina Islander
+
+The City Council on Jan. 21, 2025 unanimously authorized staff to reopen the cannabis delivery business application process. This was originally a Consent Calendar item, but was pulled for separate consideration at the request of resident Carl Johnson, the previous cannabis license holder in Avalon. The city did not receive complete applications by the Dec. [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/council-oks-reopening-of-cannabis-business-applications/>
+
+---
+
+## Catalina Flyer service changes rates
+
+date: 2025-01-24, from: Catalina Islander
+
+Catalina Flyer commuter rates and regular passenger rates are going down. Tourist pricing is going up. The general manager of the Catalina Flyer gave the City Council an update on the company’s cross channel rates on Jan. 22. With General Manager Sterling Miles was Captain and Assistant Manager Alex Shaw. Miles said Catalina Passenger Service [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/catalina-flyer-service-changes-rates/>
+
+---
+
+## LA County’s courts pause past-due debt collections in response to wildfires
+
+date: 2025-01-24, updated: 2025-01-25, from: The LAist
+
+Court officials said it's one small way they can provide relief for affected communities. 
+
+<br> 
+
+<https://laist.com/news/politics/la-countys-courts-pause-past-due-debt-collections-in-response-to-wildfires>
+
+---
+
+## At a Pasadena post office, people displaced by Eaton Fire share grief, hope, community
+
+date: 2025-01-24, updated: 2025-01-24, from: The LAist
+
+Displaced Altadena residents grieve and support their neighbors as they wait in line for mail. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/pasadena-post-office-eaton-fire>
+
+---
+
+## California approves $2.5 billion fire relief plan ahead of Trump’s Pacific Palisades visit
+
+date: 2025-01-24, updated: 2025-01-24, from: The LAist
+
+Gov. Gavin Newsom signed a plan to provide $2.5 billion in relief to communities damaged by the Los Angeles fires ahead of President Donald Trump’s Friday tour of the Pacific Palisades. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/california-approves-2-5-billion-fire-relief>
+
+---
+
+## Experience Your Dream Wedding at The Big I Do
+
+date: 2025-01-24, from: City of Santa Clarita
+
+<p>&#160;Participating Couples Will Have a Chance to Win a Custom Wedding Dress, a Suit and Wedding Bands Did you get engaged over the holidays? Say “I Do” on Valentine’s Day! Get married at The Big I Do, where multiple couples exchange vows in a beautiful ceremony and celebrate their love with a lavish reception. Say [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/24/experience-your-dream-wedding-at-the-big-i-do/">Experience Your Dream Wedding at The Big I Do</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/24/experience-your-dream-wedding-at-the-big-i-do/>
+
+---
+
+## Empower Your Kids to Say “No” to Drugs
+
+date: 2025-01-24, from: City of Santa Clarita
+
+<p>Join the in-person Parenting for Prevention Meeting&#160; Are you equipped to have the tough conversations about drugs and alcohol with your kids? With the alarming rise in local drug-related incidents, it’s more important than ever for parents to have open, honest conversations with their children about the dangers of substance abuse. According to the Santa [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/24/empower-your-kids-to-say-no-to-drugs/">Empower Your Kids to Say &#8220;No&#8221; to Drugs</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/24/empower-your-kids-to-say-no-to-drugs/>
+
+---
+
+## Trump and Newsom embrace in LA, but the president just added new conditions for fire aid
+
+date: 2025-01-24, updated: 2025-01-25, from: The LAist
+
+The president excluded Gov. Newsom from plans for his visit to fire-ravaged Los Angeles today, but the governor showed up on the tarmac anyway, and the two said they would cooperate. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/trump-la-visit-threatening-to-withhold-fire-aid-newsom-out-of-the-loop>
+
+---
+
+## Trump to visit disaster zone in Southern California after North Carolina
+
+date: 2025-01-24, updated: 2025-01-24, from: The LAist
+
+President Trump took first trip of his term on Friday to North Carolina and California, visiting communities grappling with recovery from natural disasters. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/trump-visits-disaster-zone-in-southern-california>
 
 ---
 
@@ -157,7 +347,7 @@ While signing the order to end U.S. membership in the World Health Organization,
 
 date: 2025-01-23, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="922" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?fit=922%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?w=1290&amp;ssl=1 1290w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=270%2C300&amp;ssl=1 270w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=922%2C1024&amp;ssl=1 922w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=768%2C853&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=1200%2C1332&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=400%2C444&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=706%2C784&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?fit=922%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="922" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?fit=922%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?w=1290&amp;ssl=1 1290w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=270%2C300&amp;ssl=1 270w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=922%2C1024&amp;ssl=1 922w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=768%2C853&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=1200%2C1332&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=400%2C444&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?resize=706%2C784&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/image000001.jpg?fit=922%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>LOS ANGELES (CNS) &#8211; A fast-moving brush fire rapidly exploded across thousands of acres of thick vegetation near Castaic Lake, prompting mandatory evacuations in the lake area and into the [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/01/23/hughes-fire-burns-over-10000-acres/">Hughes Fire Burns Over 10,000 Acres</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -886,4 +1076,141 @@ As California faces a future of more frequent and severe firestorms, the current
 <br> 
 
 <https://laist.com/news/climate-environment/private-firefighters-are-increasingly-popular-with-insurers-but-do-they-pose-a-risk>
+
+---
+
+## A different kind of Saturday for those emerging from the Eaton Fire
+
+date: 2025-01-18, updated: 2025-01-19, from: The LAist
+
+Eleven days after the Eaton Fire destroyed much of their community, residents converged in Altadena and Pasadena to find unity and offer support. 
+
+<br> 
+
+<https://laist.com/news/different-kind-of-saturday-for-those-emerging-from-the-eaton-fire>
+
+---
+
+## Celebrating Unity and Equality on Dr. Martin Luther King, Jr. Day
+
+date: 2025-01-18, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Each year, on the third Monday in January, the City of Santa Clarita, along with the rest of the United States, comes together to honor the life and legacy of Dr. Martin Luther King, Jr. Dr. King was a visionary leader whose tireless efforts to combat racial injustice and inequality [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/18/celebrating-unity-and-equality-on-dr-martin-luther-king-jr-day/">Celebrating Unity and Equality on Dr. Martin Luther King, Jr. Day</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/18/celebrating-unity-and-equality-on-dr-martin-luther-king-jr-day/>
+
+---
+
+## As schools start recovery from fires, parents wait on answers to many questions
+
+date: 2025-01-18, updated: 2025-01-20, from: The LAist
+
+Parents say there's lots to appreciate about how school districts in Los Angeles have responded to the fires. But their patience is not infinite. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-pasadena-altadena-palisades-school-district-recovery-fire>
+
+---
+
+## Billie Eilish, Lady Gaga, Lil Baby and more will play FireAid benefit concert in LA
+
+date: 2025-01-18, updated: 2025-01-18, from: The LAist
+
+The Jan. 30 event at two venues in Inglewood will stream live and raise money for those affected by the wildfires. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/billie-eilish-lady-gaga-lil-baby-fireaid-benefit-concert-in-la>
+
+---
+
+## What happens after a wildfire destroys your home? A survivor has tips
+
+date: 2025-01-18, updated: 2025-01-18, from: The LAist
+
+"What the hell just happened to my future?" — that's the immediate thought for many people when they learn a fire has destroyed their home, says consumer advocate Annie Barbour. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/after-a-wildfire-survivor-tips>
+
+---
+
+## Go Fact Yourself quiz for January 18
+
+date: 2025-01-18, updated: 2025-01-18, from: The LAist
+
+Our celebrity panelists Paula Poundstone and Open Mike Eagle go head to head this week on their knowledge of the TV show Breaking Bad and the Jonathan Hickman era of X-Men comics. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-january-18>
+
+---
+
+## He built a massive train set in his Altadena backyard — and returned to protect it from the Eaton Fire
+
+date: 2025-01-18, updated: 2025-01-18, from: The LAist
+
+One day after evacuation, Rob Caves and his partner went back to Christmas Tree Lane to protect their home — and ended up being custodians to the neighborhood. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/he-built-a-massive-train-set-in-his-altadena-backyard-and-returned-to-protect-it-from-the-eaton-fire>
+
+---
+
+## LA's Magic Castle offers a brief escape during the wildfires
+
+date: 2025-01-18, updated: 2025-01-18, from: The LAist
+
+A Los Angeles institution spared from the flames gives back to the community with donations and magic tricks to lift evacuees' spirits. 
+
+<br> 
+
+<https://laist.com/news/las-magic-castle-offers-a-brief-escape-during-the-wildfires>
+
+---
+
+## Smoke and ash filled your home. What do you clean? What do you throw out?
+
+date: 2025-01-18, updated: 2025-01-18, from: The LAist
+
+Experts describe smoke damage, but are divided over cleaning or throwing out mattresses, couches, clothes. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/smoke-and-ash-fire-home-clean-toss>
+
+---
+
+## Here are some LA shows supporting people impacted by the fires
+
+date: 2025-01-18, updated: 2025-01-18, from: The LAist
+
+Musicians, artists, and creatives are donating their time and talents across Southern California. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/la-shows-wildfire-fundraisers>
+
+---
+
+## Take Space to Pause Provides Mental Health Support for Teens
+
+date: 2025-01-18, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="768" height="778" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?fit=768%2C778&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?w=768&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?resize=296%2C300&amp;ssl=1 296w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?resize=400%2C405&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?resize=706%2C715&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?fit=768%2C778&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The CDC’s latest survey of high school students found that four in 10 (40%) had persistent feelings of sadness or hopelessness and two in 10 (20%) seriously considered suicide. Nearly [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/17/take-space-to-pause-provides-mental-health-support-for-teens/">Take Space to Pause Provides Mental Health Support for Teens</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/17/take-space-to-pause-provides-mental-health-support-for-teens/>
 

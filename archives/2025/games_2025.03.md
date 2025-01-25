@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-01-24 07:04:47
+updated: 2025-01-25 07:05:22
 ---
 
 # games
 
-(date: 2025-01-24 07:04:47)
+(date: 2025-01-25 07:05:22)
+
+---
+
+## Found-footage horror reaches its final form in Steven Soderbergh’s Presence
+
+date: 2025-01-24, updated: 2025-01-24, from: Polygon Website
+
+The blowout success of 1999’s The Blair Witch Project really did a number on the horror genre. It wasn’t the first faux-found-footage movie, or even the first found-footage horror movie. But it landed during a period where handheld cameras were increasingly small and cheap, horror was becoming more popular and mainstream, and internet-based marketing let [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/513947/presence-movie-review-soderbergh>
+
+---
+
+## Nosferatu, Sonic the Hedgehog 3, Saturday Night on Netflix, and every movie new to streaming this week
+
+date: 2025-01-24, updated: 2025-01-25, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Nosferatu, the gothic horror film from director Robert Eggers starring Bill Skarsgård and Lily-Rose Depp, emerges from the shadows and onto VOD. That’s not [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/509773/new-movies-watch-streaming-nosferatu-sonic-the-hedgehog-3-netflix-saturday-night>
+
+---
+
+## These two games demand you type if you want to survive
+
+date: 2025-01-24, updated: 2025-01-24, from: Polygon Website
+
+The keyboard is a popular peripheral, but few games move beyond the common WASD controls and pursue typing and transcription as a major game mechanic. Some classic games did require typing to go north, and everyone knows the classic educational games of the typing genre (shout out to Mavis Bacon), but most games use different [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/513941/typing-games-dead-letters-dept-cryptmaster>
+
+---
+
+## This $10 game bundle is a great deal to support the trans community
+
+date: 2025-01-24, updated: 2025-01-24, from: Polygon Website
+
+In the wake of Executive Orders meant to roll back protections against vulnerable marginalized communities, 40 game designers have donated their games to the Best of 2024 TTRPG bundle in order to raise funds for The Trans Empowerment Project. The organization is a 501(c)3 non-profit that directly aids hundreds of trans folks each year. It [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/514009/10-game-trans-empowerment-project-bundle>
+
+---
+
+## All Card Carnival solutions in FF7 Rebirth
+
+date: 2025-01-24, updated: 2025-01-24, from: Polygon Website
+
+Card Carnival is a spin on Final Fantasy 7 Rebirth’s Queen’s Blood card game. You’ll play it in Costa del Dol during chapter 6, while trying to earn companion cards to exchange for a swimsuit for Cloud, but can revisit for extra puzzles in chapter 12. Card Carnival isn’t your standard version of Queen’s Blood. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24072403/card-carnival-solutions-costa-del-sol-queens-blood>
 
 ---
 
@@ -582,4 +642,52 @@ Grand Theft Hamlet is a documentary film, kind of. It’s also an experimental t
 <br> 
 
 <https://www.polygon.com/movies/510687/grand-theft-hamlet-interview-how-they-did-it>
+
+---
+
+## After a gloriously chaotic season 1, I can’t wait to see the drama XO, Kitty season 2 has in store
+
+date: 2025-01-18, updated: 2025-01-17, from: Polygon Website
+
+Kitty Song Covey — the titular lead of XO, Kitty and the most chaotic bisexual teenager on Netflix — is back, and I am so ready to see what the hell she gets up to this season, because the first season was so gloriously over the top.  The show is technically a spinoff series of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/510285/xo-kitty-netflix-best-teen-drama>
+
+---
+
+## Twitch streamer Shroud honors his late father in a month-long charity event
+
+date: 2025-01-18, updated: 2025-01-17, from: Polygon Website
+
+Two years after Michael “Shroud” Grzesiek’s father passed away from lung cancer, the popular Twitch streamer was ready to honor his dad by helping others going through the same thing. As one of the biggest streamers on the platform, it’s not a surprise that his first inclination was a charity stream. But one big stream [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/twitch/508879/shroud-fragathon-charity-stream>
+
+---
+
+## When and where Godzilla spawns in Fortnite, and how to become Godzilla explained
+
+date: 2025-01-18, updated: 2025-01-18, from: Polygon Website
+
+Godzilla has arrived in Fortnite as a playable boss that can stomp across the map. Transforming into Godzilla gives you access to powerful abilities that can level cities and annihilate other players — as long as you’re the first to enter a special portal. Becoming Godzilla is easier said than done as you must find [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/510529/godzilla-when-where-spawn-become>
+
+---
+
+## The best sci-fi movies to watch on Netflix this January
+
+date: 2025-01-18, updated: 2025-01-17, from: Polygon Website
+
+2025 is well underway, and there’s a whole lot of exciting new sci-fi releases on the horizon to look forward to. Star Trek: Section 31, The Gorge, and Mickey 17 are slated to hit streaming and theaters within the next couple of months, to say nothing of all the other films slated for release in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/510127/best-sci-fi-movies-watch-netflix-january-2025>
 
