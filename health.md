@@ -1,11 +1,25 @@
 ---
 title: health
-updated: 2025-01-25 07:05:23
+updated: 2025-01-26 07:05:46
 ---
 
 # health
 
-(date: 2025-01-25 07:05:23)
+(date: 2025-01-26 07:05:46)
+
+---
+
+## Does Gatorade Cause Kidney Stones?
+
+date: 2025-01-25, from: The Kidney Dietitian
+
+<p>It is common knowledge that hydration is important for kidney stones. But what fluids are the best? Can Gatorade contribute to and cause kidney stone formation? While Gatorade can have advantages for people who sweat a lot during intense exercise, gatorade could cause kidney stones in susceptible people. Read on to learn why hydration is [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/is-gatorade-good-for-kidney-stones/">Does Gatorade Cause Kidney Stones?</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<br> 
+
+<https://www.thekidneydietitian.org/is-gatorade-good-for-kidney-stones/>
 
 ---
 
@@ -380,18 +394,4 @@ Conserved histone methyltransferases of the DOT1 family are involved in replicat
 <br> 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2024.1502339>
-
----
-
-## Is Ginger Good For Kidneys?
-
-date: 2025-01-18, from: The Kidney Dietitian
-
-<p>Is this unassuming kitchen spice the key to kidney health? Is ginger good for our kidneys if consumed in moderation? Ginger provides a multitude of benefits, however, there are some risks associated with ginger that we must be aware of. That being said, is there a place for this commonly used flavoring in a kidney [&#8230;]</p>
-<p>The post <a href="https://www.thekidneydietitian.org/is-ginger-good-for-kidneys/">Is Ginger Good For Kidneys?</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
- 
-
-<br> 
-
-<https://www.thekidneydietitian.org/is-ginger-good-for-kidneys/>
 

@@ -1,11 +1,147 @@
 ---
 title: going electric
-updated: 2025-01-25 07:05:23
+updated: 2025-01-26 07:05:46
 ---
 
 # going electric
 
-(date: 2025-01-25 07:05:23)
+(date: 2025-01-26 07:05:46)
+
+---
+
+## The Price Gap Between EVs And ICE Is Shrinking Fast
+
+date: 2025-01-26, from: Inside EVs News
+
+This is not only because EVs are getting cheaper but also because ICE vehicles are becoming more expensive. 
+
+<br> 
+
+<https://insideevs.com/news/748568/price-gap-evs-ice-shrinking/>
+
+---
+
+## Uber's CEO Still Sees An All-EV Future. But Trump's EV Pullback Is 'Not Good'
+
+date: 2025-01-26, from: Inside EVs News
+
+Uber is committed to an all-EV future. But driving for Uber will be "a good gig" for another 10 years, the CEO says, then cars go automated. 
+
+<br> 
+
+<https://insideevs.com/news/748544/uber-ceo-davos-evs-avs/>
+
+---
+
+## Tesla refuses to do the right thing about ‘Full Self-Driving’ transfers
+
+date: 2025-01-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Hardware-4-self-driving-computer.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is refusing to do the right thing about ‘Full Self-Driving’ package transfers and instead holds its own incapacity to deliver the package over the head of its owners.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="399038" href="https://electrek.co/2025/01/25/tesla-refuses-to-do-the-right-thing-about-full-self-driving-transfers/#more-399038" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/25/tesla-refuses-to-do-the-right-thing-about-full-self-driving-transfers/>
+
+---
+
+## Volvo FM Electric semi trucks helping to fight wildfires in NSW, Australia
+
+date: 2025-01-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/electric-volvo-fire_NSW.png?w=1500" /></div><p>The New South Wales Rural Fire Service is putting the new,<a href="https://electrek.co/2024/09/03/volvo-just-launched-an-electric-semi-truck-with-600-km-range/"> 600 km Volvo FM Electric semi truck</a> through its paces as they work to decarbonize their emergency vehicle fleet and keep Australia safe from the devastating effects of <a href="https://electrek.co/2024/07/18/ai-powered-platform-utilities-reduce-wildfires-1m-injection/">wildfires</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="australia,electric-semi-truck,volvo-trucks" data-layer-viewtype="unknown" data-post-id="399112" href="https://electrek.co/2025/01/25/volvo-fm-electric-semi-trucks-helping-to-fight-wildfires-in-nsw-australia/#more-399112" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/25/volvo-fm-electric-semi-trucks-helping-to-fight-wildfires-in-nsw-australia/>
+
+---
+
+## UAW scores supermajority at BlueOval SK in 2025’s first big labor win
+
+date: 2025-01-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/uaw_blueoval-sk.png?w=1500" /></div><p>Last week’s inauguration of President Trump stole the headlines, but it wasn’t the only big election news — a supermajority of workers at BlueOval SK voted to file a petition last week with the National Labor Relations Board to unite with the UAW.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,sk-on,uaw" data-layer-viewtype="unknown" data-post-id="399104" href="https://electrek.co/2025/01/25/uaw-scores-supermajority-at-blueoval-sk-in-2025s-first-big-labor-win/#more-399104" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/25/uaw-scores-supermajority-at-blueoval-sk-in-2025s-first-big-labor-win/>
+
+---
+
+## RIZON | First medium duty electric dump truck gets to work in Canada
+
+date: 2025-01-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/rizon_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Political policies come and go, but total cost of ownership will always trump politics when it comes to managing a commercial fleet. As if to illustrate that point, Canada’s first-ever class 4 medium duty battery electric dump truck was deployed this week!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,daimler,electric-trucks" data-layer-viewtype="unknown" data-post-id="399088" href="https://electrek.co/2025/01/25/rizon-first-medium-duty-electric-dump-truck-gets-to-work-in-canada/#more-399088" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/25/rizon-first-medium-duty-electric-dump-truck-gets-to-work-in-canada/>
+
+---
+
+## The GMC Sierra Denali Is The New EV Range King
+
+date: 2025-01-25, from: Inside EVs News
+
+The 8,800-pound electric truck just beat one of the longest-driving sedans in a range test. But that range comes at a price. 
+
+<br> 
+
+<https://insideevs.com/news/748512/gmc-sierra-ev-denali-range-king/>
+
+---
+
+## Here are the EVs you can still lease for under $300 a month in January [Updated]
+
+date: 2025-01-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Hondas-Prologue-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With more models hitting the market and massive incentives, <a href="https://electrek.co/guides/electric-vehicles/">electric vehicles</a> are just as affordable, if not more, than gas-powered cars. However, with Trump’s transition team reportedly planning to end the EV tax credit, the savings may soon disappear. Check out the EVs you can still lease for under $300 a month in January below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-lease" data-layer-viewtype="unknown" data-post-id="396598" href="https://electrek.co/2025/01/25/evs-lease-under-300-mo-jan-update/#more-396598" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/25/evs-lease-under-300-mo-jan-update/>
+
+---
+
+## Awesomely Weird Alibaba EV of the Week: Adult-sized off-road go-kart!
+
+date: 2025-01-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/alibaba-off-road-buggy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>So many of the fun electric go-karts I’ve found while window-shopping on Alibaba have been of the <a href="https://electrek.co/2024/04/06/this-dual-steering-wheel-electric-go-kart-looks-like-a-fun-little-divorce-on-wheels/">child-sized variety</a>. To be fair, I’m not opposed to folding my body in ways it shouldn’t in service of a good time, but it’d be nice to get the same experience while maintaining full blood flow to the extremities.</p>
+
+
+
+<p>That’s where today’s find comes in, as a full-size electric go-kart that adults can enjoy, too! It’s both awesome and weird, but perhaps for once, this week’s honoree of the <a href="http://electrek.co/guides/alibaba">Awesomely Weird Alibaba Electric Vehicle of the Week</a> is more of the former and less of the latter!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="alibaba,go-kart" data-layer-viewtype="unknown" data-post-id="399078" href="https://electrek.co/2025/01/25/awesomely-weird-alibaba-ev-of-the-week-adult-sized-off-road-go-kart/#more-399078" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/25/awesomely-weird-alibaba-ev-of-the-week-adult-sized-off-road-go-kart/>
 
 ---
 
@@ -114,6 +250,10 @@ Mitsubishi is considering whether or not to pass on the possible Honda-Nissan me
 date: 2025-01-24, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the new Tesla Model Y launching in NA/EU, Rivian getting popular with OEMs, Trump’s effect on EVs, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Electrek_370.mp3"></audio></figure>
 
 
 
@@ -1456,104 +1596,4 @@ date: 2025-01-19, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/01/19/michigan-state-police-deploy-their-first-electric-patrol-vehicle/>
-
----
-
-## 3,500 unit order gives British telecom UK’s largest commercial EV fleet
-
-date: 2025-01-18, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/1920_da-bt-birmingham-020.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>British telecom provider BT Group has committed to adding 3,500 new EVs to its commercial truck and van fleet over the next two years, bringing its total EV count to 8,000 units and giving it the largest electric vehicle fleet in the UK.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-van,uk" data-layer-viewtype="unknown" data-post-id="398316" href="https://electrek.co/2025/01/18/3500-unit-order-gives-british-telecom-uks-largest-commercial-ev-fleet/#more-398316" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/01/18/3500-unit-order-gives-british-telecom-uks-largest-commercial-ev-fleet/>
-
----
-
-## Illinois awards $100M for electric truck charging corridor, Tesla to get $40M
-
-date: 2025-01-18, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/electric-semi-truck-charging.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>In a move that’s expected to play a crucial role in supporting the transition to medium- and heavy-duty electric vehicles, $100 million of the Biden Administration’s <a href="https://electrek.co/2025/01/13/biden-pushes-through-635m-in-ev-charger-grants-before-trumps-return/">last-minute $635M payout</a> is headed to Illinois to help build out an electric truck charging corridor.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-semi-truck,ev-charging,illinois" data-layer-viewtype="unknown" data-post-id="398298" href="https://electrek.co/2025/01/18/illinois-awards-100m-for-electric-truck-charging-corridor-tesla-to-get-40m/#more-398298" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/01/18/illinois-awards-100m-for-electric-truck-charging-corridor-tesla-to-get-40m/>
-
----
-
-## The 2025 Kia EV6 GT's 'Virtual Shift' And 'Engine' Sounds Are Wild
-
-date: 2025-01-18, from: Inside EVs News
-
-Move over, Hyundai Ioniq 5 N. Your cousin from Kia sounds pretty rowdy too and also brings "gear shifts" to the EV performance world. 
-
-<br> 
-
-<https://insideevs.com/news/747772/kia-ev6-virtual-shift-sounds/>
-
----
-
-## Tesla Model 3 Left On Overnight In Freezing Canada: Here's The Energy It Lost
-
-date: 2025-01-18, from: Inside EVs News
-
-If you’re wondering how much time you could survive in an EV while stranded during winter, this video might provide you with an answer. 
-
-<br> 
-
-<https://insideevs.com/news/747694/tesla-model-3-freezing-night/>
-
----
-
-## Diesel wins this round as CARB backs away from Advanced Clean Fleets rule
-
-date: 2025-01-18, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/peterbilt.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The California Air Resource Board (<a href="https://ww2.arb.ca.gov/our-work/programs/advanced-clean-fleets">CARB</a>) has withdrawn its request to enact the proposed Advanced Clean Fleets rule, which required fleets that are “well-suited for electrification” to reduce emissions through the phase-in of Zero-Emission Vehicles (ZEVs) and the banning of commercial diesel sales after 2035.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="california-air-resources-board,commercial-evs,donald-trump,electric-semi-truck" data-layer-viewtype="unknown" data-post-id="398283" href="https://electrek.co/2025/01/18/diesel-wins-this-round-as-carb-backs-away-from-advanced-clean-fleets-rule/#more-398283" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/01/18/diesel-wins-this-round-as-carb-backs-away-from-advanced-clean-fleets-rule/>
-
----
-
-## Another one bites the dust as Canoo files for chapter 7 bankruptcy
-
-date: 2025-01-18, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/canoo-lifestyle-vehicle.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In an official announcement released at 8:15PM last night, Walmart-backed electric van company Canoo filed a voluntary petition for relief under Chapter 7 of the US Bankruptcy Code and will cease operations immediately.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="business,canoo" data-layer-viewtype="unknown" data-post-id="398275" href="https://electrek.co/2025/01/18/another-one-bites-the-dust-as-canoo-files-for-chapter-7-bankruptcy/#more-398275" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/01/18/another-one-bites-the-dust-as-canoo-files-for-chapter-7-bankruptcy/>
-
----
-
-## It’s The End Of The Road For Canoo
-
-date: 2025-01-18, from: Inside EVs News
-
-The electric vehicle startup has filed for bankruptcy and will “cease operations immediately” after failing to secure capital. 
-
-<br> 
-
-<https://insideevs.com/news/747755/canoo-files-for-bankruptcy/>
 

@@ -1,11 +1,37 @@
 ---
 title: journalism
-updated: 2025-01-25 07:05:22
+updated: 2025-01-26 07:05:44
 ---
 
 # journalism
 
-(date: 2025-01-25 07:05:22)
+(date: 2025-01-26 07:05:44)
+
+---
+
+## Sinatra sisters donate Frank Sinatra’s celebrated piano to UCLA
+
+date: 2025-01-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+A priceless piece of Frank Sinatra&#8217;s personal instrument collection has found a new home at UCLA.
+A 92-key historic B&#246;sendorfer piano was unloaded at the UCLA Herb Alpert School of Music last month following a donation of the instrument by Frank Sinatra&#8217;s daughters, Nancy Sinatra and Tina Sinatra. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/25/sinatra-sisters-donate-frank-sinatras-celebrated-piano-to-ucla/>
+
+---
+
+## Chon Noriega appointed interim dean of UCLA School of Theater, Film and Television
+
+date: 2025-01-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+Chon Noriega is set to become the interim dean of the UCLA School of Theater, Film and Television.
+Noriega, the former director of UCLA&#8217;s Chicano Studies Research Center, will hold the position from Feb. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/24/chon-noriega-appointed-interim-dean-of-ucla-school-of-theater-film-and-television/>
 
 ---
 
@@ -54,6 +80,18 @@ date: 2025-01-24, from: The Sundail (CSUN Student Newspaper)
 <br> 
 
 <https://sundial.csun.edu/188894/print-editions/plant-yourself-in-campus-life-join-the-community-garden/>
+
+---
+
+## Plant Yourself in Campus Life: Join the Community Garden
+
+date: 2025-01-24, from: The Sundail (CSUN Student Newspaper)
+
+&#160; Among the many resources around campus that students use to escape from classes, there is one tucked away in the Sequoia Hall Courtyard that stands out. Populated with growing... 
+
+<br> 
+
+<https://sundial.csun.edu/188894/news/plant-yourself-in-campus-life-join-the-community-garden/>
 
 ---
 
@@ -1074,136 +1112,4 @@ The Palisades fire, which is closest to UCLA, has spread to 23,713 acres and is 
 <br> 
 
 <https://dailybruin.com/2025/01/18/478552/>
-
----
-
-## Theater preview: Winter productions bring laughs, magic to Los Angeles stages
-
-date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper)
-
-From timeless chilling classics to fresh premieres, this winter’s theater season invites audiences to rediscover the magic of live performance.
-Ranging from reimagined fairytales and comedy tours to Pulitzer Prize-winning revivals, these seasonal shows offer something for every theatergoer to enjoy. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/18/theater-preview-winter-productions-bring-laughs-magic-to-los-angeles-stages/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
-
-Throughout the fires across Los Angeles County, residents have tried to stay up to date with evacuation warnings and orders using a variety of apps and services. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/18/478519/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
-
-Two fires continue to burn across Los Angeles County.
-The Palisades fire, the closest to UCLA, has spread to 23,717 acres and is 43% contained, according to the Cal Fire website. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/18/478511/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
-
-The Hammer Museum will reopen Saturday after evacuation warnings bordering the UCLA campus were lifted, according to a post on the museum Instagram.
-UCLA students will return to in-person classes Tuesday, UCLA Chancellor Julio Frenk said in a Thursday campuswide email. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/17/478509/>
-
----
-
-## LA residents seek emergency notifications, apps to remain alert during wildfires
-
-date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper)
-
-Whether through emergency notifications or online maps, Angelenos stayed alert as fires began to spread across Los Angeles County.&#160;
-The first fire began in Pacific Palisades on Jan. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/17/la-residents-seek-emergency-notifications-apps-to-remain-alert-during-wildfires/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
-
-As of 10:10 p.m., the Palisades fire – which is the fire closest to UCLA – is now 39% contained, according to Cal Fire. The second-largest fire, which began in Altadena/Pasadena, is now 65% contained, per Cal Fire. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/17/478504/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
-
-Los Angeles Mayor Karen Bass has appointed Steve Soboroff to superintend the city&#8217;s recovery from fires that have swept Los Angeles County, according to a press release from Unified L.A. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/17/478502/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
-
-The Palisades fire is now 39% contained and has burned 23,713 acres, according to Cal Fire. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/17/478496/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
-
-As of 5:45 p.m., UCLA&#8217;s campus status has returned to &#8220;open,&#8221; according to the Bruins Safe Online website.
-(Daily Bruin file photo) 
-
-<br> 
-
-<https://dailybruin.com/2025/01/17/478470/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
-
-Katy Yaroslavsky, the District 5 Los Angeles City Council member, said in an email that all evacuation warnings in City Council District 5 have been lifted. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/17/478468/>
-
----
-
-## Film review: ‘Wolf Man’ fails to capture audiences with predictability, monotonous characters
-
-date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper)
-
-In the darkness of night, one should take care to avoid the “Wolf Man.”
-Director and co-writer Leigh Whannell’s horrifying creation leapt onto screens Friday, occupying a January dump month release slot with his second remake of a classic horror franchise. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/17/film-review-wolf-man-fails-to-capture-audiences-with-predictability-monotonous-characters/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-01-18, from: The Daily Bruin (UCLA Student Newspaper))
-
-As of 5 p.m., UCLA’s emergency status has expired. The campus will now pivot to &#8220;modified operations.&#8221; 
-
-<br> 
-
-<https://dailybruin.com/2025/01/17/478460/>
 

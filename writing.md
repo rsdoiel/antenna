@@ -1,11 +1,37 @@
 ---
 title: writing
-updated: 2025-01-25 07:05:21
+updated: 2025-01-26 07:05:43
 ---
 
 # writing
 
-(date: 2025-01-25 07:05:21)
+(date: 2025-01-26 07:05:43)
+
+---
+
+## Days of Shattered Faith by Adrian Tchaikovsky: Review by Russell Letson
+
+date: 2025-01-25, from: Locus Magazine
+
+<p><strong>Days of Shattered Faith</strong>, Adrian Tchaikovsky (Head of Zeus 978-1-03590-152-4, £22.00, 544pp, hc) December 2024. Cover by Joe Wilson.</p>
+<p><strong>Days of Shattered Faith</strong>, the third book in Adrian Tchaikovsky’s Tyrant Philoso­phers sequence, continues to examine the effects of the long-running, world-conquering program of the nation of Pallesand, a resolutely rationalist, religion-detesting nation determined to bring its notion of secular perfection to a world that is filled with supernatural  <a href="https://locusmag.com/2025/01/days-of-shattered-faith-by-adrian-tchaikovsky-review-by-russell-letson/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/days-of-shattered-faith-by-adrian-tchaikovsky-review-by-russell-letson/>
+
+---
+
+## New & Notable
+
+date: 2025-01-25, from: Locus Magazine
+
+<p></p>
+<p>Jesse Ball, <strong>The Repeat Room </strong>(Catapult 9/24) This absurd dystopian (and possibly truly Kaf­kaesque) SF novel details a jury system where a single juror is chosen to relive the defendant’s experience; in this case, a menial worker experi­ences an illicit psychosexual relationship with a tragic end. “It’s in the novel’s absurdity that we are asked to view justice and the worth of a single human life in a new light.”  <a href="https://locusmag.com/2025/01/new-notable-6/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/new-notable-6/>
 
 ---
 
@@ -454,60 +480,4 @@ date: 2025-01-19, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/01/clarkesworld-short-fiction-reviews-by-a-c-wise-4/>
-
----
-
-## Depth Charge, edited by Hank Davis & Jamie Ibson: Review by Paul Di Filippo
-
-date: 2025-01-18, from: Locus Magazine
-
-<p><strong>Depth Charge</strong>, edited by Hank Davis &#38; Jamie Ibson (Baen 978-1982193829, trade paperback, 288pp, $18.00) December 2024</p>
-<p>Not so very long ago, the fantastika publishing ecology held open a niche for a species known as the “reprint anthology.” These creatures flourished under the expert hands of such caretakers as Damon Knight, Groff Conklin, Isaac Asimov, Richard Lupoff, Judith Merril and scores of other expert compilers. Their reason for living  <a href="https://locusmag.com/2025/01/depth-charge-edited-by-hank-davis-jamie-ibson-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/01/depth-charge-edited-by-hank-davis-jamie-ibson-review-by-paul-di-filippo/>
-
----
-
-## .🪐 #232 - I'm just a silly little guy
-
-date: 2025-01-18, from: Interesting, a blog on writing
-
-And in the grand scheme of things, so are you. 
-
-<br> 
-
-<https://inneresting.substack.com/p/232-im-just-a-silly-little-guy>
-
----
-
-## Lightspeed, Baffling, GigaNotoSaurus, and Small Wonders: Short Fiction Reviews by Charles Payseur
-
-date: 2025-01-18, from: Locus Magazine
-
-<p>Lightspeed 10/24
-Baffling 10/24
-GigaNotoSaurus 10/24
-Small Wonders 10/24</p>
-<p><strong>Philip Gelatt </strong>and <strong>JT Petty </strong>anchor the October Lightspeed with “<strong>Sully the God</strong>”, which imagines Sully as the Elon Musk of magic, the man who stole the discovery from a dead colleague and turned it into the most successful business the world has ever known. He’s become so rich that money has sort of lost meaning, and yet for  <a href="https://locusmag.com/2025/01/lightspeed-baffling-giganotosaurus-and-small-wonders-short-fiction-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/01/lightspeed-baffling-giganotosaurus-and-small-wonders-short-fiction-reviews-by-charles-payseur/>
-
----
-
-## You Catch Ideas: David Lynch as Screenwriter
-
-date: 2025-01-18, from: Final Draft blog
-
-<div class="hs-featured-image-wrapper"> 
- <a href="https://blog.finaldraft.com/you-catch-ideas-david-lynch-as-screenwriter" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/You%20Catch%20Ideas%20David%20Lynch%20as%20Screenwriter.png" alt="Image of David Lynch" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
-</div> 
-<p>The word genius sometimes gets overused and it doesn’t always apply. Not in the case of David Lynch, who has passed away at the age of 78. Lynch was a bona fide genius who changed our cinematic language and discovered new forms of expression. From the revolutionary <em>Eraserhead</em> (1977) to his critically-acclaimed masterworks <em>Blue Velvet</em> (1986) and <em>Mulholland Drive</em>&nbsp;(2001) to co-creating and being the visionary force behind the beloved TV series <em>Twin Peaks</em>, Lynch’s legacy as an iconoclastic and groundbreaking filmmaker is secure.&nbsp;<br><br>However, Lynch was not just a director…<br><br>He was also a writer.<br><br>Lynch wrote all of his screenplays to his films (and, in most cases, was the sole writer). He also co-wrote the pilot for <em>Twin Peaks</em> and numerous key episodes of the series. A writer-director through-and-through, Lynch’s worldbuilding and characters always appeared on the page before the cameras rolled.</p> 
-
-<br> 
-
-<https://blog.finaldraft.com/you-catch-ideas-david-lynch-as-screenwriter>
 

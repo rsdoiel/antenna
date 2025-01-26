@@ -1,11 +1,35 @@
 ---
 title: libraries
-updated: 2025-01-25 07:05:22
+updated: 2025-01-26 07:05:44
 ---
 
 # libraries
 
-(date: 2025-01-25 07:05:22)
+(date: 2025-01-26 07:05:44)
+
+---
+
+## Targeted localization of the mother centrosome in CD8+ T cells undergoing asymmetric cell division promotes memory formation
+
+date: 2025-01-28, from: ETH Zurich, recently added
+
+Barandun, Niculò; Meier, Benjamin; Stehli, Gautier; Gräbnitz, Fabienne; Zangger, Nathan; Oxenius, Annette 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/716067>
+
+---
+
+## Martin Chuzzlewit, by Charles Dickens
+
+date: 2025-01-25, from: Standard Ebooks, new releaases
+
+A young man is spurned by his wealthy grandfather and attempts to make it on his own. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/charles-dickens/martin-chuzzlewit>
 
 ---
 

@@ -1,47 +1,142 @@
 ---
 title: weather
-updated: 2025-01-25 07:05:21
+updated: 2025-01-26 07:05:43
 ---
 
 # weather
 
-(date: 2025-01-25 07:05:21)
+(date: 2025-01-26 07:05:43)
 
 ---
 
-## SPC Jan 24, 2025 Day 4-8 Severe Weather Outlook
+## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-01-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-26, from: Eastern Pacific Basin GIS Data
+
+The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
+
+<br> 
+
+<https://www.nhc.noaa.gov/>
+
+---
+
+## SPC - No watches are valid as of Sun Jan 26 13:06:02 UTC 2025
+
+date: 2025-01-26, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Sun Jan 26 13:06:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Sun Jan 26 13:06:02 UTC 2025
+
+date: 2025-01-26, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Sun Jan 26 13:06:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Jan 26, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-01-26, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0645 AM CST Sun Jan 26 2025
+
+Valid 261300Z - 271200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not forecast across the contiguous United
+States through tonight.
+
+...Synopsis...
+Water-vapor imagery this morning shows a mid/upper-level low over
+CA.  A split-flow pattern is located downstream over the central
+U.S. with southwesterly flow over the Desert Southwest, and
+northwesterly flow over the Upper Midwest in association with
+large-scale troughing centered over Hudson Bay.  Cold mid-level
+temperatures associated with the CA upper low will yield
+intermittent pockets of weak buoyancy from the central valley into
+southern coastal CA.  As a result, weak convection may yield a few
+sporadic lightning flashes mainly today into this evening.  Farther
+east, persistent low-level warm/moist advection, via the warm
+conveyor atop a slowly modifying CP airmass along the northwest Gulf
+Coast, will favor showers and eventually scattered thunderstorm
+development over east TX into the lower MS Valley.  Despite strong
+mid to high-level westerly flow, limited storm organization is
+forecast due primarily to weak instability.  A vigorous updraft or
+two cannot be ruled out over east TX on the eastern periphery of
+steeper 700-500 mb lapse rates (reference 12 UTC Fort Worth, TX
+raob; 8.7 deg C/km).  Yet, gradual moistening of the mid troposphere
+via convection will act to hinder a localized Marginal hail risk.
+
+..Smith/Kerr.. 01/26/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC Jan 26, 2025 Day 4-8 Severe Weather Outlook
+
+date: 2025-01-26, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 4-8 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0359 AM CST Fri Jan 24 2025
+0359 AM CST Sun Jan 26 2025
 
-Valid 271200Z - 011200Z
+Valid 291200Z - 031200Z
 
 ...DISCUSSION...
-On Monday/Day 4, a shortwave ridge is forecast over the
-south-central U.S. The overall pattern is forecast to gradually
-amplify on Tuesday/Day 5 and Wednesday/Day 6, as a mid-level low
-moves slowly eastward across the Desert Southwest. Ahead of the
-system, moisture return is expected across the southern Plains in
-the early to mid week, as mid-level flow becomes southwesterly. A
-moist airmass is forecast to become established across the southern
-Plains by Wednesday, with scattered thunderstorms likely to develop
-in the afternoon and evening across parts of Texas and Oklahoma. The
-potential for convective development is expected to continue into
-Thursday/Day 7 and Thursday night as the mid-level system approaches
-and moves into the southern Plains. At this time, model forecasts
-suggest that instability, lift and deep-layer shear could support an
-isolated severe threat in parts of Texas and possibly southern
-Oklahoma, from Wednesday evening into Thursday. However, there is
-still substantial variance among solutions concerning this system,
-and confidence is low concerning magnitude and spacing. At this
-time, it appears the overall severe threat will remain marginal. On
-Friday/Day 8, the potential for convection is forecast to move
-eastward into parts of the Southeast, where little instability is
-forecast.
+...Wednesday/Day 4 to Thursday/Day 5...
+A mid-level low is forecast to move eastward across the Desert
+Southwest from Wednesday/Day 4 into Thursday/Day 5. Low-level
+moisture advection will take place ahead of the system across the
+southern Plains on Wednesday into Wednesday night, with surface
+dewpoints increasing into the 60s F across parts of the southern
+Plains. Scattered to numerous thunderstorms appear likely to develop
+across the western part of the moist sector Wednesday night across
+much of central and northern Texas, as large-scale ascent increases
+ahead of the approaching system. This, combined with increasing
+instability, and strong deep-layer shear along the western edge of
+the moist sector should result in a severe threat late Wednesday
+night. A cluster of strong and potentially severe storms may develop
+in west-central Texas, with the severe threat persisting into
+Thursday, as an MCS moves eastward across the southern Plains.
+Supercells with isolated large hail and wind damage will be
+possible. There is some concern that moisture return could be slower
+than forecast. However, the strength of the system could help to
+overcome instability concerns, and it appears a severe threat will
+be possible as the mid-level jet ejects northeastward into the
+southern Plains from Wednesday night into Thursday.
+
+...Friday/Day 6 and Sunday/Day 8...
+The mid-level trough is forecast to move across the southern Plains
+on Friday/Day 6, as a cold front advances eastward into the lower
+Mississippi Valley. On Saturday/Day 7 and Sunday/Day 8, this front
+is forecast to move across the eastern U.S. Although thunderstorms
+will be possible along and ahead of the front, instability is
+forecast to be very weak suggesting a severe threat will be
+unlikely.
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
@@ -55,42 +150,39 @@ forecast.
 
 ## SPC Day 2 Fire Weather Outlook
 
-date: 2025-01-24, from: NOAA Weather Forecasts
+date: 2025-01-26, from: NOAA Weather Forecasts
 
 <br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 2 Fire Weather Outlook  
 NWS Storm Prediction Center Norman OK
-0134 AM CST Fri Jan 24 2025
+0120 AM CST Sun Jan 26 2025
 
-Valid 251200Z - 261200Z
+Valid 271200Z - 281200Z
 
 ...Synopsis...
-Fire weather concerns are expected to emerge across portions of
-Arizona by Saturday afternoon as low-level winds increase in
-response to a deepening upper wave along the West Coast. The
-breakdown of an upper ridge over the West Coast is underway ahead of
-an approaching trough based on recent water-vapor imagery and
-upper-air analyses. Broad surface pressure falls are anticipated
-across the greater inter-mountain West/High Plains over the next 24
-hours, but will intensify over the Southwest through Saturday as the
-upper wave deepens along the southern CA coast. Recent forecast
-guidance suggests south/southeasterly winds between 15-25 mph will
-be likely - especially in the lee/northern slopes of the Mogollon
-Rim and across south-central AZ by late afternoon. 
+Portions of eastern Arizona and far west/southwestern New Mexico
+will continue to see elevated fire weather concerns through Monday
+afternoon. The upper low currently deepening off the central CA
+coast is forecast to reach peak intensity over the next 24 hours
+over southern CA before gradually shifting east into the lower CO
+River Valley by late Monday. This eastward shift will be influenced
+by the ejection of a mid-level jet max on the southeastern fringe of
+the upper low into northwest Mexico, which will promote surface
+pressure falls across AZ/NM under the left-exit region. In response,
+southerly low-level winds are forecast to increase to around 15 mph,
+which when coupled with an antecedent dry air mass (forecast RH
+minimums between 10-20%), should promote elevated fire weather
+conditions. Surface winds are expected to be strongest in proximity
+to the surface trough, which most solutions agree will likely reside
+along, if not just east of, the AZ/NM border. Localized critical
+conditions appear possible within the higher terrain of the Gila
+region in southwest NM, but the potential for widespread/sustained
+critical conditions appears limited. Fuels across this area continue
+to cure after several days of anomalously low dewpoints with ERCs
+approaching the 90th percentile in some areas, and should support
+the fire weather concern.
 
-Extensive mid/high-level cloud cover is anticipated through much of
-the day as mid-level isentropic ascent increases ahead of the
-deepening upper trough. However, 07 UTC surface observations sampled
-a very dry air mass across southern to central AZ characterized by
-dewpoints between -5 to -15 F. Consequently, even muted diurnal
-heating should promote RH reductions into the single digits to low
-teens, which will support elevated to locally critical fire weather
-conditions. Recent fuel analyses show ERC values generally
-near/above the 80th percentile - likely the result of 30-day
-rainfall totals between 2 to 5% of normal, which should support the
-fire weather concern.
-
-..Moore.. 01/24/2025
+..Moore.. 01/26/2025
 
 ...Please see www.spc.noaa.gov/fire for graphic product...
 

@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-01-25 07:05:22
+updated: 2025-01-26 07:05:44
 ---
 
 # games
 
-(date: 2025-01-25 07:05:22)
+(date: 2025-01-26 07:05:44)
+
+---
+
+## 5 excellent horror movies that reimagined the ghost story
+
+date: 2025-01-26, updated: 2025-01-24, from: Polygon Website
+
+Modern Hollywood’s foremost experimenter, Steven Soderbergh, has a new movie out this week, and it’s all about ghosts. Presence, his excellent new film and his first real foray into the horror genre, is shot entirely from the perspective of a ghost who inhabits a house where a new family has moved in. In the hands [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/512672/best-ghost-movies-streaming-presence-weird-unique>
+
+---
+
+## ‘A thankless job’: Marvel Rivals healers are tired of being overlooked
+
+date: 2025-01-26, updated: 2025-01-24, from: Polygon Website
+
+Healers often get a raw deal in hero shooter games. Classes capable of keeping players alive are critical, and can make the difference between a team that wins and a team that loses. Despite risking life and limb for teammates who may not deserve it, healers say they are rarely appreciated. This axiom was true [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/512436/marvel-rivals-strategists-healers-voting>
+
+---
+
+## Blade Chimera mixes up the Metroidvania formula with an extremely cool sword
+
+date: 2025-01-26, updated: 2025-01-24, from: Polygon Website
+
+Indie developer Team Ladybug has carved out a niche by making the types of side-scrolling action games that Konami used to create. Best known for Metroidvanias Touhou Luna Nights and Record of Lodoss War: Deedlit in Wonder Labyrinth (and the Gradius homage Drainus), Team Ladybug is attempting a new spin on the beloved action-exploration formula [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/513883/blade-chimera-review-metroidvania-pc-nintendo-switch>
+
+---
+
+## Grand Theft Hamlet is at its best in the moments of pure mayhem
+
+date: 2025-01-25, updated: 2025-01-24, from: Polygon Website
+
+It’s only January, but the eccentric, ambitious documentary Grand Theft Hamlet will surely end up as one of 2025’s most interesting movies. During England’s second lockdown in response to the COVID-19 pandemic, two unemployed actors who had been spending their time in Grand Theft Auto Online decided to stage a production of Hamlet within the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/512619/grand-theft-hamlet-movie-video-game-shakespeare-chaos-mayhem>
+
+---
+
+## Michelle Yeoh was ‘a little apprehensive’ about arranging Star Trek: Section 31’s cameo
+
+date: 2025-01-25, updated: 2025-01-25, from: Polygon Website
+
+In a time when lots of franchise movies have final scenes and stingers that allude to larger concerns in their universes, show off a dizzying network of inter-movie connective tissue, or tease the next project coming down the release pipeline, Star Trek: Section 31 goes against the grain. Its surprising late-game cameo isn’t about franchise [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-trek/513057/section-31-jamie-lee-curtis-cameo-michelle-yeoh>
+
+---
+
+## The 2025 Oscar movies (and snubs) that are actually worth watching
+
+date: 2025-01-25, updated: 2025-01-25, from: Polygon Website
+
+The Oscar nominations are out, and most of the nominees are already watchable online. But where to begin? Good news, friends. I’ve got you.&#160; As Polygon’s curation editor, I am paid to have correct opinions have spent much of the year keeping up with the year’s best new movies, which prepared me for this task: [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/513457/which-2025-oscar-movies-good-to-watch-snubs>
+
+---
+
+## Discoveries
+
+date: 2025-01-25, updated: 2025-01-24, from: Polygon Website
+
+At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
+
+---
+
+## Sicko game developers keep returning to reinvent Tetris
+
+date: 2025-01-25, updated: 2025-01-24, from: Polygon Website
+
+Some people might call Tetris the perfect game, and it’s hard to argue with that. Created in 1985, Tetris has endured across generations and platforms, making its way onto essentially every platform possible. The game is simple and timeless, with one block falling at a time. There are a few basic shapes, like L-blocks, squares, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/513931/tetris-inspired-games-design-reaktor>
+
+---
+
+## The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of January 2025
+
+date: 2025-01-25, updated: 2025-01-25, from: Polygon Website
+
+A new year has arrived, and while awards season is still at the front of everyone’s brains, one thing that might get lost is how many great movies are leaving streaming services at the end of January. Of course, there will be plenty of movies added to platforms like Netflix, Prime Video, and Criterion Channel [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/513199/best-movies-netflix-amazon-criterion-leaving-january-2025>
+
+---
+
+## Pokémon Go Ralts Community Day guide
+
+date: 2025-01-25, updated: 2025-01-25, from: Polygon Website
+
+Pokémon Go is having a Ralts Community Day Classic event on Saturday, Jan. 25, from 2-5 p.m. in your local time. As expected with a Community Day event, Ralts will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve listed out [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/512288/ralts-community-day-classic-gardevoir-gallade-mega-movesets-shiny>
 
 ---
 
@@ -642,52 +762,4 @@ Grand Theft Hamlet is a documentary film, kind of. It’s also an experimental t
 <br> 
 
 <https://www.polygon.com/movies/510687/grand-theft-hamlet-interview-how-they-did-it>
-
----
-
-## After a gloriously chaotic season 1, I can’t wait to see the drama XO, Kitty season 2 has in store
-
-date: 2025-01-18, updated: 2025-01-17, from: Polygon Website
-
-Kitty Song Covey — the titular lead of XO, Kitty and the most chaotic bisexual teenager on Netflix — is back, and I am so ready to see what the hell she gets up to this season, because the first season was so gloriously over the top.  The show is technically a spinoff series of [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/tv/510285/xo-kitty-netflix-best-teen-drama>
-
----
-
-## Twitch streamer Shroud honors his late father in a month-long charity event
-
-date: 2025-01-18, updated: 2025-01-17, from: Polygon Website
-
-Two years after Michael “Shroud” Grzesiek’s father passed away from lung cancer, the popular Twitch streamer was ready to honor his dad by helping others going through the same thing. As one of the biggest streamers on the platform, it’s not a surprise that his first inclination was a charity stream. But one big stream [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/twitch/508879/shroud-fragathon-charity-stream>
-
----
-
-## When and where Godzilla spawns in Fortnite, and how to become Godzilla explained
-
-date: 2025-01-18, updated: 2025-01-18, from: Polygon Website
-
-Godzilla has arrived in Fortnite as a playable boss that can stomp across the map. Transforming into Godzilla gives you access to powerful abilities that can level cities and annihilate other players — as long as you’re the first to enter a special portal. Becoming Godzilla is easier said than done as you must find [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/fortnite-guide/510529/godzilla-when-where-spawn-become>
-
----
-
-## The best sci-fi movies to watch on Netflix this January
-
-date: 2025-01-18, updated: 2025-01-17, from: Polygon Website
-
-2025 is well underway, and there’s a whole lot of exciting new sci-fi releases on the horizon to look forward to. Star Trek: Section 31, The Gorge, and Mickey 17 are slated to hit streaming and theaters within the next couple of months, to say nothing of all the other films slated for release in [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/510127/best-sci-fi-movies-watch-netflix-january-2025>
 

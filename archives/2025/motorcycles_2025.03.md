@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-01-25 07:05:23
+updated: 2025-01-26 07:05:45
 ---
 
 # motorcycles
 
-(date: 2025-01-25 07:05:23)
+(date: 2025-01-26 07:05:45)
+
+---
+
+## KTM's Creditors Want $2.5 Billion, and That's Just the Tip of the Iceberg
+
+date: 2025-01-26, from: Ride Apart, Electric Motorcycle News
+
+That's a whole lot of money owed. 
+
+<br> 
+
+<https://www.rideapart.com/news/748489/ktm-insolvency-creditors-2-billion-employees-12-million-dollars/>
+
+---
+
+## KTM's Sales Were Down And/Or Even Last Year, Depending on How You Look At It
+
+date: 2025-01-25, from: Ride Apart, Electric Motorcycle News
+
+Are we talking about sales to dealers, or sales to customers? 
+
+<br> 
+
+<https://www.rideapart.com/news/748368/ktm-motorcycle-sales-2024-numbers/>
 
 ---
 

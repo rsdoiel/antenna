@@ -1,11 +1,84 @@
 ---
 title: home
-updated: 2025-01-25 07:05:22
+updated: 2025-01-26 07:05:45
 ---
 
 # home
 
-(date: 2025-01-25 07:05:22)
+(date: 2025-01-26 07:05:45)
+
+---
+
+## How to Grow and Care for Xanadu Philodendron
+
+date: 2025-01-25, from: The Gardener's Path
+
+<p>Xanadu philodendron (Thaumatophyllum xanadu) is a grand, elegant type of tree philodendron that's very easy to care for. It has huge, lobed leaves on a plant that can grow up to five feet tall without support. Learn how to grow the dramatic xanadu philodendron as a houseplant in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/grow-xanadu-philodendron/">How to Grow and Care for Xanadu Philodendron</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/grow-xanadu-philodendron/>
+
+---
+
+## 28 Species of Phlox Flowers with Pictures and Names
+
+date: 2025-01-25, from: Yard Life blog
+
+<p>Phlox flowers are renowned for their vibrant colors, delightful fragrances, and diverse varieties. These perennial plants thrive in gardens and ... </p>
+<p class="read-more-container"><a title="28 Species of Phlox Flowers with Pictures and Names" class="read-more button" href="https://ownyardlife.com/28-species-of-phlox-flowers-with-pictures-and-names/#more-22888" aria-label="Read more about 28 Species of Phlox Flowers with Pictures and Names">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/28-species-of-phlox-flowers-with-pictures-and-names/">28 Species of Phlox Flowers with Pictures and Names</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/28-species-of-phlox-flowers-with-pictures-and-names/>
+
+---
+
+## Phlox Flowers Care and Growing Guide (Most Detailed)
+
+date: 2025-01-25, from: Yard Life blog
+
+<p>Phlox flowers are a beloved addition to gardens worldwide, admired for their bright, colorful blooms and sweet fragrance. Known for ... </p>
+<p class="read-more-container"><a title="Phlox Flowers Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/phlox-flowers-care-and-growing-guide-most-detailed/#more-22884" aria-label="Read more about Phlox Flowers Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/phlox-flowers-care-and-growing-guide-most-detailed/">Phlox Flowers Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/phlox-flowers-care-and-growing-guide-most-detailed/>
+
+---
+
+## Fittonia Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-01-25, from: Yard Life blog
+
+<p>Fittonia, commonly known as the nerve plant, is a captivating houseplant with vibrant, vein-like patterns on its leaves that come ... </p>
+<p class="read-more-container"><a title="Fittonia Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/fittonia-plant-care-and-growing-guide-most-detailed/#more-22880" aria-label="Read more about Fittonia Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/fittonia-plant-care-and-growing-guide-most-detailed/">Fittonia Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/fittonia-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## How I prepare my vegetable beds for planting
+
+date: 2025-01-25, from: Greg Alder's blog, Yard Post
+
+<p>A handful of years ago, I wrote a post about my routine of not tilling, fluffing, loosening the dirt in my vegetable beds (&#8220;Don&#8217;t dig your garden&#8221;). I still don&#8217;t turn over the dirt or incorporate compost or manure into my vegetable beds after 11 years of growing in the same beds. My practice is [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/how-i-prepare-my-vegetable-beds-for-planting/">How I prepare my vegetable beds for planting</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/how-i-prepare-my-vegetable-beds-for-planting/>
 
 ---
 
@@ -1517,60 +1590,4 @@ date: 2025-01-19, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/best-cabbage-varieties/>
-
----
-
-## Easy Golden Milk Recipe (Turmeric Latte) with Vegan Options
-
-date: 2025-01-18, from: Homestead and Chil
-
-<p>Golden milk is a nourishing warm beverage made of turmeric, milk, and other spices. It is earthy, creamy, and slightly sweet. In addition to being delicious, drinking golden milk has numerous health benefits. It is anti-inflammatory, full of antioxidants, and promotes general wellness along with restful sleep. Come try our favorite golden milk recipe!</p>
-<p>The post <a href="https://homesteadandchill.com/turmeric-golden-milk-recipe/">Easy Golden Milk Recipe (Turmeric Latte) with Vegan Options</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
- 
-
-<br> 
-
-<https://homesteadandchill.com/turmeric-golden-milk-recipe/>
-
----
-
-## How to Grow Piggyback Plants (Youth-on-Age)
-
-date: 2025-01-18, from: The Gardener's Path
-
-<p>Piggyback plants are easy to identify thanks to the funky little plantlets that develop in the center of the leaves. It's these offsets that give them their common name. Native to the Pacific Northwest, these easygoing plants can be cultivated indoors or out. Learn more about piggyback plants in this guide. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/plants/foliage/grow-piggyback-plant/">How to Grow Piggyback Plants (Youth-on-Age)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/foliage/grow-piggyback-plant/>
-
----
-
-## Emeritus Vineyards: A Journey into Sonoma’s Pinot Noir Paradise
-
-date: 2025-01-18, from: California Grown
-
-<p>Tucked away in Sebastopol, California, Emeritus Vineyards is a winery that embodies the essence of Sonoma County’s agricultural and winemaking heritage. Specializing exclusively in Pinot Noir, Emeritus is a pioneer in sustainable viticulture, crafting wines that are as expressive as the land they come from.&#160; The CA GROWN team recently visited Emeritus Vineyards to learn [&#8230;]</p>
-<p>The post <a href="https://californiagrown.org/blog/emeritus-vineyards/" data-wpel-link="internal" target="_self">Emeritus Vineyards: A Journey into Sonoma’s Pinot Noir Paradise</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
- 
-
-<br> 
-
-<https://californiagrown.org/blog/emeritus-vineyards/>
-
----
-
-## Young avocado trees cannot handle competition
-
-date: 2025-01-18, from: Greg Alder's blog, Yard Post
-
-<p>In June of 2023, I planted a GEM avocado tree. It was a good-looking tree, on top and bottom. The leaves showed healthy new growth and the roots were abundant and with new white tips. I planted in the best way I knew, a way in which I’d planted many trees before that grew into [&#8230;]</p>
-<p>The post <a href="https://gregalder.com/yardposts/young-avocado-trees-cannot-handle-competition/">Young avocado trees cannot handle competition</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
- 
-
-<br> 
-
-<https://gregalder.com/yardposts/young-avocado-trees-cannot-handle-competition/>
 

@@ -1,11 +1,95 @@
 ---
 title: socal north
-updated: 2025-01-25 07:05:20
+updated: 2025-01-26 07:05:41
 ---
 
 # socal north
 
-(date: 2025-01-25 07:05:20)
+(date: 2025-01-26 07:05:41)
+
+---
+
+## The good, bad and ugly truths about LA tumbleweeds and their role in fires
+
+date: 2025-01-26, updated: 2025-01-26, from: The LAist
+
+Like many invasive plants in California, tumbleweeds heighten fire danger. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-tumbleweeds-and-their-role-in-fires>
+
+---
+
+## The FDA pulls key DEI initiative for cancer studies from its website
+
+date: 2025-01-26, updated: 2025-01-26, from: The LAist
+
+A Food and Drug Administration project to promote diversity in clinical studies of cancer treatments was removed from the agency's website, as the Trump administration halts DEI initiatives. 
+
+<br> 
+
+<https://laist.com/news/health/the-fda-pulls-key-dei-initiative-for-cancer-studies-from-its-website>
+
+---
+
+## Reporting on the fire that destroyed my neighborhood
+
+date: 2025-01-25, updated: 2025-01-25, from: The LAist
+
+A reporter navigates losing her Altadena home in the Eaton Fire. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/covering-eaton-fire-destroyed-my-neighborhood>
+
+---
+
+## The Eaton Fire forced them from their homes. Here's what residents took with them
+
+date: 2025-01-25, updated: 2025-01-25, from: The LAist
+
+Many residents in Altadena evacuated not knowing it would be the last time they would see their homes standing. Their decisions about what possessions to take were rushed — or not made at all. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/the-eaton-fire-forced-them-from-their-homes-heres-what-residents-took-with-them>
+
+---
+
+## Will new bond funds be enough to rebuild LA schools — and all of California’s other crumbling schools?
+
+date: 2025-01-25, updated: 2025-01-25, from: The LAist
+
+Some schools destroyed years ago in the Sonoma and Butte fires are just now reopening. The long, expensive process of rebuilding in LA may eat up much of the money voters approved in November for school repairs statewide. 
+
+<br> 
+
+<https://laist.com/news/education/will-new-bond-funds-be-enough-to-rebuild-la-schools-and-all-of-californias-other-crumbling-schools>
+
+---
+
+## Parents want to know: After wildfires, is my child's school safe and clean?
+
+date: 2025-01-25, updated: 2025-01-25, from: The LAist
+
+While some schools in or near wildfire evacuation zones have reopened, some campuses may need ongoing cleaning to keep students and staff safe from smoke and ash. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-pasadena-eaton-fire-palisades-school-burned-down-recovery>
+
+---
+
+## Forecast for heaviest period of rain to start Sunday afternoon. What we know about risks for mudslides
+
+date: 2025-01-25, updated: 2025-01-26, from: The LAist
+
+The area of biggest concern is around the Eaton Fire. Parts of Malibu and the Pacific Palisades should also be prepared. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/fires-mudslide-risk-palisades-eaton-woodley-tyler-auto-kenneth-sunset-hurst-hughes>
 
 ---
 
@@ -1076,141 +1160,4 @@ As California faces a future of more frequent and severe firestorms, the current
 <br> 
 
 <https://laist.com/news/climate-environment/private-firefighters-are-increasingly-popular-with-insurers-but-do-they-pose-a-risk>
-
----
-
-## A different kind of Saturday for those emerging from the Eaton Fire
-
-date: 2025-01-18, updated: 2025-01-19, from: The LAist
-
-Eleven days after the Eaton Fire destroyed much of their community, residents converged in Altadena and Pasadena to find unity and offer support. 
-
-<br> 
-
-<https://laist.com/news/different-kind-of-saturday-for-those-emerging-from-the-eaton-fire>
-
----
-
-## Celebrating Unity and Equality on Dr. Martin Luther King, Jr. Day
-
-date: 2025-01-18, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin Each year, on the third Monday in January, the City of Santa Clarita, along with the rest of the United States, comes together to honor the life and legacy of Dr. Martin Luther King, Jr. Dr. King was a visionary leader whose tireless efforts to combat racial injustice and inequality [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/01/18/celebrating-unity-and-equality-on-dr-martin-luther-king-jr-day/">Celebrating Unity and Equality on Dr. Martin Luther King, Jr. Day</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/01/18/celebrating-unity-and-equality-on-dr-martin-luther-king-jr-day/>
-
----
-
-## As schools start recovery from fires, parents wait on answers to many questions
-
-date: 2025-01-18, updated: 2025-01-20, from: The LAist
-
-Parents say there's lots to appreciate about how school districts in Los Angeles have responded to the fires. But their patience is not infinite. 
-
-<br> 
-
-<https://laist.com/news/education/lausd-pasadena-altadena-palisades-school-district-recovery-fire>
-
----
-
-## Billie Eilish, Lady Gaga, Lil Baby and more will play FireAid benefit concert in LA
-
-date: 2025-01-18, updated: 2025-01-18, from: The LAist
-
-The Jan. 30 event at two venues in Inglewood will stream live and raise money for those affected by the wildfires. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/billie-eilish-lady-gaga-lil-baby-fireaid-benefit-concert-in-la>
-
----
-
-## What happens after a wildfire destroys your home? A survivor has tips
-
-date: 2025-01-18, updated: 2025-01-18, from: The LAist
-
-"What the hell just happened to my future?" — that's the immediate thought for many people when they learn a fire has destroyed their home, says consumer advocate Annie Barbour. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/after-a-wildfire-survivor-tips>
-
----
-
-## Go Fact Yourself quiz for January 18
-
-date: 2025-01-18, updated: 2025-01-18, from: The LAist
-
-Our celebrity panelists Paula Poundstone and Open Mike Eagle go head to head this week on their knowledge of the TV show Breaking Bad and the Jonathan Hickman era of X-Men comics. Think you might know more than they do? Go Fact Yourself! 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-january-18>
-
----
-
-## He built a massive train set in his Altadena backyard — and returned to protect it from the Eaton Fire
-
-date: 2025-01-18, updated: 2025-01-18, from: The LAist
-
-One day after evacuation, Rob Caves and his partner went back to Christmas Tree Lane to protect their home — and ended up being custodians to the neighborhood. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/he-built-a-massive-train-set-in-his-altadena-backyard-and-returned-to-protect-it-from-the-eaton-fire>
-
----
-
-## LA's Magic Castle offers a brief escape during the wildfires
-
-date: 2025-01-18, updated: 2025-01-18, from: The LAist
-
-A Los Angeles institution spared from the flames gives back to the community with donations and magic tricks to lift evacuees' spirits. 
-
-<br> 
-
-<https://laist.com/news/las-magic-castle-offers-a-brief-escape-during-the-wildfires>
-
----
-
-## Smoke and ash filled your home. What do you clean? What do you throw out?
-
-date: 2025-01-18, updated: 2025-01-18, from: The LAist
-
-Experts describe smoke damage, but are divided over cleaning or throwing out mattresses, couches, clothes. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/smoke-and-ash-fire-home-clean-toss>
-
----
-
-## Here are some LA shows supporting people impacted by the fires
-
-date: 2025-01-18, updated: 2025-01-18, from: The LAist
-
-Musicians, artists, and creatives are donating their time and talents across Southern California. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/la-shows-wildfire-fundraisers>
-
----
-
-## Take Space to Pause Provides Mental Health Support for Teens
-
-date: 2025-01-18, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
-
-<figure><img width="768" height="778" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?fit=768%2C778&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?w=768&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?resize=296%2C300&amp;ssl=1 296w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?resize=400%2C405&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?resize=706%2C715&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/photo-youth-colab-e1737158783290.jpeg?fit=768%2C778&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The CDC’s latest survey of high school students found that four in 10 (40%) had persistent feelings of sadness or hopelessness and two in 10 (20%) seriously considered suicide. Nearly [&#8230;]</p>
-<p>The post <a href="https://sanfernandosun.com/2025/01/17/take-space-to-pause-provides-mental-health-support-for-teens/">Take Space to Pause Provides Mental Health Support for Teens</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
- 
-
-<br> 
-
-<https://sanfernandosun.com/2025/01/17/take-space-to-pause-provides-mental-health-support-for-teens/>
 

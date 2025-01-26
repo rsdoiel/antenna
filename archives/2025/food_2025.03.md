@@ -1,11 +1,75 @@
 ---
 title: food
-updated: 2025-01-25 07:05:24
+updated: 2025-01-26 07:05:46
 ---
 
 # food
 
-(date: 2025-01-25 07:05:24)
+(date: 2025-01-26 07:05:46)
+
+---
+
+## How to Bake a Homemade Wedding Cake
+
+date: 2025-01-26, from: Bon Appetet
+
+You don't have to be a pro baker to pull off this big-occasion dessert. 
+
+<br> 
+
+<https://www.bonappetit.com/story/wedding-cake-recipes>
+
+---
+
+## Sunday Is The Lord’s Day And Also The Day For Curated Coffee Recommendations From Sprudge
+
+date: 2025-01-26, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roasters Village. 
+
+<br> 
+
+<https://sprudge.com/sunday-is-the-lords-day-and-also-the-day-for-curated-coffee-recommendations-from-sprudge-270568.html>
+
+---
+
+## Chinese Recipes for the Lunar New Year
+
+date: 2025-01-26, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/02/Chinese-New-Year-Recipes.jpg"/></div>
+<p>The best Chinese recipes to celebrate the Lunar New Year! The Lunar New Year, aka the Chinese New Year, is January 29 in 2025, and it&#8217;s the year of the Dragon, and it&#8217;s the perfect excuse to to pull out some of my favourite Chinese recipes in addition to trying some new ones! I am...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/15-recipes-for-chinese-new-year/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/15-recipes-for-chinese-new-year/">Chinese Recipes for the Lunar New Year</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/15-recipes-for-chinese-new-year/>
+
+---
+
+## 29 Best Leek Recipes Beyond Potato Soup
+
+date: 2025-01-25, from: Bon Appetet
+
+Like baked pasta in anchovy cream, a savory pistachio-crusted galette, and roast chicken with caramelized leeks. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/best-leek-recipes>
+
+---
+
+## This Microwaveable Chana Masala Regularly Saves Dinner
+
+date: 2025-01-25, from: Bon Appetet
+
+Tasty Bite is the flavorful convenience food our test kitchen editors can't get enough of. 
+
+<br> 
+
+<https://www.bonappetit.com/story/tasty-bite-ode>
 
 ---
 
@@ -1012,16 +1076,4 @@ It's official: Chick-fil-A is the best at everything—including dessert. We pre
 <br> 
 
 <https://www.tasteofhome.com/recipes/copycat-chick-fil-a-brownies/>
-
----
-
-## 29 Salad Dressings Worth Making at Home
-
-date: 2025-01-18, from: Bon Appetet
-
-A coffee vinaigrette to wake you up, a preserved lemon dressing to make things bright, and more great ways to coat your greens. 
-
-<br> 
-
-<https://www.bonappetit.com/gallery/homemade-salad-dressing-recipes>
 

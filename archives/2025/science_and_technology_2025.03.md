@@ -1,11 +1,110 @@
 ---
 title: science and technology
-updated: 2025-01-25 07:05:21
+updated: 2025-01-26 07:05:43
 ---
 
 # science and technology
 
-(date: 2025-01-25 07:05:21)
+(date: 2025-01-26 07:05:43)
+
+---
+
+## The Longest-Running Show in Broadway History Opened on This Date in 1988. Read Why Its Legacy Is So Controversial
+
+date: 2025-01-26, from: Smithsonian Magazine
+
+“The Phantom of the Opera” entertained decades of fans—and lives on even after closing 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-longest-running-show-in-broadway-history-opened-on-this-date-in-1988-read-why-its-legacy-is-so-controversial-180985860/>
+
+---
+
+## SUNSPOT Proposers Day
+
+date: 2025-01-26, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">SUNSPOT Proposers Day</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>DSO is sponsoring a Proposers Day webcast on Feb. 7 to provide information to potential proposers on the objectives of an anticipated BAA for the the program SUNSPOT: Sources for Ultraviolet Nuclear Spectroscopy of Thorium. | <a href="https://drupal.darpa.mil/events/sunspot-webcast">See Event</a></p></div>
+      
+
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-25T20:17:46-05:00" title="Saturday, January 25, 2025 - 20:17" class="datetime">Sat, 01/25/2025 - 20:17</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/opportunities/darpan-sn-25-38>
+
+---
+
+## When a sole maintainer steps down, Linux drivers become orphans
+
+date: 2025-01-25, from: OS News
+
+The Linux kernel has become such an integral, core part of pretty much all aspects of the technology world, and corporate contributions to the kernel make up such a huge chunk of the kernel&#8217;s ongoing development, it&#8217;s easy to forget that some parts of the kernel are still maintained by some lone person in Jacksonville, Nebraska, or whatever. Sadly, we were reminded of this today when the sole maintainer of a few DRM (no, not the bad kind) announced he can no longer maintain the gud, mi0283qt, panel-mipi-dbi, and repaper drivers. Remove myself as maintainer for gud, mi0283qt, panel-mipi-dbi and repaper. My fatigue illness has finally closed the door on doing development of even moderate complexity so it&#8217;s sad to let this go. ↫ Noralf Trønnes There must be quite a few obscure parts of the Linux kernel that are of no interest to the corporate world, and thus remain maintained by individuals in their free time, out of some personal need or perhaps a sense of duty. If one such person gives up their role as maintainer, for whatever reason, you better hope it&#8217;s not something your workflow relies, because if no new maintainer is found, you will eventually run into trouble. I hope Trønnes gets better soon, and if not, that someone else can take over from him to maintain these drivers. The gud driver seems like a really neat tool for homebrew projects, and it&#8217;d be sad to see it languish as the years go by. 
+
+<br> 
+
+<https://www.osnews.com/story/141613/when-a-sole-maintainer-steps-down-linux-drivers-become-orphans/>
+
+---
+
+## Someone is slipping a hidden backdoor into Juniper routers across the globe, activated by a magic packet
+
+date: 2025-01-25, updated: 2025-01-25, from: The Register (UK I.T. News)
+
+<h4>Who could be so interested in chips, manufacturing, and more, in the US, UK, Europe, Russia...</h4> <p>Someone has been quietly backdooring selected Juniper routers around the world in key sectors including semiconductor, energy, and manufacturing, since at least mid-2023.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/25/mysterious_backdoor_juniper_routers/>
+
+---
+
+## Android 16 Beta 1 has started rolling out for Pixel devices
+
+date: 2025-01-25, from: OS News
+
+Basically, this seems to mean applications will no longer be allowed to limit themselves to phone size when running on devices with larger screens, like tablets. Other tidbits in this first beta include predictive back support for 3-button navigation, support for the Advanced Professional Video codec from Samsung, among other things. It&#8217;s still quite early in the release process, so more is sure to come, and some things might not make it to the final release at all. 
+
+<br> 
+
+<https://www.osnews.com/story/141611/android-16-beta-1-has-started-rolling-out-for-pixel-devices/>
+
+---
+
+## When Russian Radar Mistook a Norwegian Scientific Rocket for a U.S. Missile, the World Narrowly Avoided Nuclear War
+
+date: 2025-01-25, from: Smithsonian Magazine
+
+The Norwegian rocket incident, which took place on this day in 1995, marked the only known activation of a nuclear briefcase in response to a possible attack 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/when-russian-radar-mistook-a-norwegian-scientific-rocket-for-a-us-missile-the-world-narrowly-avoided-nuclear-war-180985836/>
+
+---
+
+## UK telco TalkTalk confirms probe into alleged data grab underway
+
+date: 2025-01-25, updated: 2025-01-25, from: The Register (UK I.T. News)
+
+<h4>Spinner says crim&#39;s claims &#39;very significantly overstated&#39;</h4> <p>UK broadband and TV provider TalkTalk says it&#39;s currently investigating claims made on cybercrime forums alleging data from the company was up for grabs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/25/uk_telco_talktalk_confirms_investigation/>
 
 ---
 
@@ -69,7 +168,7 @@ date: 2025-01-24, updated: 2025-01-24, from: The Register (UK I.T. News)
 
 ---
 
-## A Man Found a Mysterious Statue in a Trash Bag on the Street. It Turned Out to Be a 2,000-Year Old Greek Artifact
+## A Man Found a Mysterious Statue in a Trash Bag on the Street. It Turned Out to Be a 2,000-Year-Old Greek Artifact
 
 date: 2025-01-24, from: Smithsonian Magazine
 
@@ -315,11 +414,11 @@ Teams with NASA’s Exploration Ground Systems Program continue stacking the SLS
 
 ---
 
-## Webcast: SUNSPOT
+## SUNSPOT Proposers Day
 
 date: 2025-01-24, from: Darpa News
 
-<span class="field field--name-title field--type-string field--label-hidden">Webcast: SUNSPOT</span>
+<span class="field field--name-title field--type-string field--label-hidden">SUNSPOT Proposers Day</span>
 <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
 <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-24T10:37:17-05:00" title="Friday, January 24, 2025 - 10:37" class="datetime">Fri, 01/24/2025 - 10:37</time>
 </span>
@@ -365,7 +464,7 @@ date: 2025-01-24, from: Darpa News
   <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
     
       
-            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p><a class="primary-button-light primary-button-padding" href="https://events.sa-meetings.com/SUNSPOTProposersDay/" target="_blank"><span>Register now</span>&nbsp;</a><br><strong>Webcast</strong><br>Feb. 7, 2025<br>11:30 a.m. ET<br>Registration deadline: Jan. 31 at noon ET</p><h4>Resources</h4><p><a href="https://drupal.darpa.mil/research/programs/sunspot"><strong>Program: </strong>Sunspot</a></p><h4>Opportunity</h4><p>DARPA-SN-25-38</p><p>&nbsp;</p><p>&nbsp;</p></div>
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p><a class="primary-button-light primary-button-padding" href="https://events.sa-meetings.com/SUNSPOTProposersDay/" target="_blank"><span>Register now</span>&nbsp;</a><br><strong>Webcast</strong><br>Feb. 7, 2025<br>11:30 a.m. ET<br>Registration deadline: Jan. 31 at noon ET</p><h4>Resources</h4><p><a href="https://drupal.darpa.mil/research/programs/sunspot"><strong>Program: </strong>Sunspot</a></p><h4>Opportunity</h4><p>DARPA-SN-25-38</p><ul style="list-style-type:disc;margin-left:0;"><li><strong>Published: </strong>Jan. 25, 2025</li><li><strong>Deadline: </strong>Feb. 7, 2025</li></ul><p>&nbsp;</p></div>
       
 
       </div>
@@ -2527,136 +2626,4 @@ With “Toy Story,” computer animation began its rise to dominance
 <br> 
 
 <https://www.smithsonianmag.com/smart-news/on-this-day-in-1993-production-began-on-this-groundbreaking-movie-that-transformed-hollywood-forever-180985852/>
-
----
-
-## MorphOS 3.19 released
-
-date: 2025-01-18, from: OS News
-
-It&#8217;s been about 18 months, but we&#8217;ve got a new release for MorphOS, the Amiga-like operating system for PowerPC Macs and some other PowerPC-based machines. Going through the list of changes, it seems MorphOS 3.19 focuses heavily on fixing bugs and addressing issues, rather than major new features or earth-shattering changes. Of note are several small but important updates, like updated versions of OpenSSL and OpenSSH, as well as a ton of new filetype definitions &#8211; and so much more. Having a release focused on fixing bugs and addressing smaller issues isn&#8217;t exactly a bad thing though &#8211; I&#8217;ve used MorphOS on my 17&#8243; 1.25Ghz PowerBook G4 often enough to know MorphOS is quite complete, stable, and a ton of fun to use, and much more capable than it has any right to be considering what must be its relatively small developer team and user base. That being said, I do wish MorphOS was available on hardware newer than 20 year old PowerPC Macs, because as much as I like me some classic hardware, the world&#8217;s moving on and even basic web browsing requires much more performant hardware now. Maybe I should try and buy one of the supported Apple PowerPC G5 machines to see just how much better MorphOS runs on that than on my G4. 
-
-<br> 
-
-<https://www.osnews.com/story/141578/morphos-3-19-released/>
-
----
-
-## Google begins requiring JavaScript for Google Search
-
-date: 2025-01-18, from: OS News
-
-Google says it has begun requiring users to turn on JavaScript, the widely used programming language to make web pages interactive, in order to use Google Search. In an email to TechCrunch, a company spokesperson claimed that the change is intended to “better protect” Google Search against malicious activity, such as bots and spam, and to improve the overall Google Search experience for users. The spokesperson noted that, without JavaScript, many Google Search features won’t work properly and that the quality of search results tends to be degraded. ↫ Kyle Wiggers at TechCrunch One of the strangely odd compliments you could give Google Search is that it would load even on the weirdest or oldest browsers, simply because it didn&#8217;t require JavaScript. Whether I loaded Google Search in the JS-less Dillo, Blazer on PalmOS, or the latest Firefox, I&#8217;d end up with a search box I could type something into and search. Sure, beyond that the web would be, shall we say, problematic, but at least Google Search worked. With this move, Google will end such compatibility, which was most likely a side effect more than policy. I know a lot of people lament the widespread reliance on and requirement to have JavaScript, and it surely can be and is abused, but it&#8217;s also the reality of people asking more and more of their tools on the web. I would love it websites gracefully degraded on browsers without JavaScript, but that&#8217;s simply not a realistic thing to expect, sadly. JavaScript is part of the web now &#8211; and has been for a long time &#8211; and every website using or requiring JavaScript makes the web no more or less &#8220;open&#8221; than the web requiring any of the other myriad of technologies, like more recent versions of TLS. Nobody is stopping anyone from implementing support for JS. I&#8217;m not a proponent of JavaScript or anything like that &#8211; in fact, I&#8217;m annoyed I can&#8217;t load our WordPress backend in browsers that don&#8217;t have it, but I&#8217;m just as annoyed that I can&#8217;t load websites on older machines just because they don&#8217;t have later versions of TLS. Technology &#8220;progresses&#8221;, and as long as the technologies being regarded as &#8220;progress&#8221; are not closed or encumbered by patents, I can be annoyed by it, but I can&#8217;t exactly be against it. The idea that it&#8217;s JavaScript making the web bad and not shit web developers and shit managers and shit corporations sure is one hell of a take. 
-
-<br> 
-
-<https://www.osnews.com/story/141570/google-begins-requiring-javascript-for-google-search/>
-
----
-
-## Dillo 3.2.0 released
-
-date: 2025-01-18, from: OS News
-
-We&#8217;ve got a new Dillo release for you this weekend! We added SVG support for math formulas and other simple SVG images by patching the nanosvg library. This is specially relevant for Wikipedia math articles. We also added optional support for WebP images via libwebp. You can use the new option ignore_image_formats to ignore image formats that you may not trust (libwebp had some CVEs recently). ↫ Dillo website This release also comes with some UI tweaks, like the ability to move the scrollbar to the left, use the scrollbar to go back and forward exactly one page, the ability to define custom link actions in the context menu, and more &#8211; including the usual bug fixes, of course. Once the pkgsrc bug on HP-UX I discovered and reported is fixed, Dillo is one of the first slightly more complex packages I intend to try and build on HP-UX 11.11. 
-
-<br> 
-
-<https://www.osnews.com/story/141567/dillo-3-2-0-released/>
-
----
-
-## Windows Insiders can now turn on Administrator Protection from settings
-
-date: 2025-01-18, updated: 2025-01-18, from: The Register (UK I.T. News)
-
-<h4>Security feature widens out to more Windows 11 users, including those at home</h4> <p>Microsoft is trying a new way of enabling Administrator Protection in Windows 11. The latest Windows Insider Canary build adds a setting that removes the requirement for IT admins to activate the feature.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/01/18/windows_insider_administrator_protection/>
-
----
-
-## Got a telescope? Bid farewell to ESA's retiring Milky Way mapper
-
-date: 2025-01-18, updated: 2025-01-18, from: The Register (UK I.T. News)
-
-<h4>Gaia makes its final science observation</h4> <p>The European Space Agency&#39;s (ESA) Milky Way mapper Gaia has completed the sky-scanning phase of its mission, racking up more than three trillion observations over the past decade.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/01/18/esa_gaia_mapping/>
-
----
-
-## The Ridiculous Reason Why the U.S. Enacted a Wartime Ban on Sliced Bread Sales—and Why It Didn't Last Long
-
-date: 2025-01-18, from: Smithsonian Magazine
-
-Designed to keep prices low and conserve wax paper, the ban, enacted on this day in 1943, only succeeded in making Americans furious 
-
-<br> 
-
-<https://www.smithsonianmag.com/smart-news/the-ridiculous-reason-why-the-us-enacted-a-wartime-ban-on-sliced-bread-salesand-why-it-didnt-last-long-180985834/>
-
----
-
-## How Windows got to version 3 – an illustrated history
-
-date: 2025-01-18, updated: 2025-01-21, from: The Register (UK I.T. News)
-
-<h4>With added manga and snark. What&#39;s not to like?</h4> <p><strong>Opinion</strong>  Windows 1 and 2 flopped almost as badly as OS/2 did. How did Microsoft stage one of the greatest comebacks ever with Windows 3?…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/01/18/how_windows_got_to_v3/>
-
----
-
-## CISA: Wow, that election had a lot of foreign trolling. Trump's Homeland Sec pick: And that's none of your concern
-
-date: 2025-01-18, updated: 2025-01-19, from: The Register (UK I.T. News)
-
-<h4>Cyber agency too &#39;far off mission,&#39; says incoming boss Kristi Noem</h4> <p>America&#39;s lead cybersecurity agency on Friday made one final scream into the impending truth void about election security and the role CISA plays in maintaining it.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/01/18/cisa_election_security_isnt_political/>
-
----
-
-## Hands-on graphics without X11 using NetBSD’s wscons
-
-date: 2025-01-18, from: OS News
-
-Now, if you have been following the development of EndBASIC, this is not surprising. The defining characteristic of the EndBASIC console is that it’s hybrid as the video shows. What’s newsworthy, however, is that the EndBASIC console can now run directly on a framebuffer exposed by the kernel. No X11 nor Wayland in the picture (pun intended). But how? The answer lies in NetBSD’s flexible wscons framework, and this article dives into what it takes to render graphics on a standard Unix system. I’ve found this exercise exciting because, in the old days, graphics were trivial (mode 13h, anyone?) and, for many years now, computers use framebuffer-backed textual consoles. The kernel is obviously rendering “graphics” by drawing individual letters; so why can’t you, a user of the system, do so too? ↫ Julio Merino This opens up a lot of interesting use cases and fun hacks for developers to implement in their CLI applications. All the code in the article is &#8211; as usual &#8211; way over my head, but will be trivial for quite a few of you. The mentioned EndBASIC project, created by the author, Julio Merino, is fascinating too: EndBASIC is an interpreter for a BASIC-like language and is inspired by Amstrad&#8217;s Locomotive BASIC 1.1 and Microsoft&#8217;s QuickBASIC 4.5. Like the former, EndBASIC intends to provide an interactive environment that seamlessly merges coding with immediate visual feedback. Like the latter, EndBASIC offers higher-level programming constructs and strong typing. EndBASIC&#8217;s primary goal is to offer a simplified and restricted DOS-like environment to learn the foundations of programming and computing, and focuses on features that quickly reward the learner. These include a built-in text editor, commands to manipulate the screen, commands to interact with shared files, and even commands to interact with the hardware of a Raspberry Pi. ↫ EndBASIC website Being able to run this on a machine without having to load either X or Wayland is a huge boon, and makes it accessible fast on quite a lot of hardware on which a full X or Wayland setup would be cumbersome or slow. 
-
-<br> 
-
-<https://www.osnews.com/story/141565/hands-on-graphics-without-x11-using-netbsds-wscons/>
-
----
-
-## Microsoft adds “AI” to Microsoft 365 and raises prices to pay for it
-
-date: 2025-01-18, from: OS News
-
-Up until now, if you were subscribed to Office 365 &#8211; I think it&#8217;s called Microsoft 365 now &#8211; and you wanted the various &#8220;AI&#8221; Copilot features, you needed to pay $20 extra. Well, that&#8217;s changing, as Microsoft is now adding these features to Microsoft 365 by default, while raising the prices for every subscriber by $3 per month. It seems not enough people were interested in paying $20 per month extra for &#8220;AI&#8221; features in Office, so Microsoft has to force everyone to pay up. It&#8217;s important to note, though, that your usage of the features is limited by how many &#8220;AI credits&#8221; you have, to really nail that slot machine user experience, and you&#8217;re only getting a limited number of those per month. Luckily, existing Microsoft 365 subscribers can opt out of these new features and thus avoid the price increase, which is a genuinely welcome move by Microsoft. New subscribers, however, will not be able to opt out. Finally, we understand that our customers have a variety of needs and budgets, so we’re committed to providing options. Existing subscribers with recurring billing enabled with Microsoft can switch to plans without Copilot or AI credits like our Basic plan, or, for a limited time, to new Personal Classic or Family Classic plans. These plans will continue to be maintained as they exist today, but for certain new innovations and features you’ll need a Microsoft 365 Personal and Family subscription. ↫ Bryan Rognier at the Microsoft blog Microsoft wants to spread the immense cost of running datacentres for &#8220;AI&#8221; to everyone, whether you want to use these features or not. When not enough people want to opt into &#8220;AI&#8221; and pay extra, the only other option is to just make everyone pay, whether they want to or not. Still, the opt-out for existing subscribers is nice, and if you are one and don&#8217;t want to pay $35 per year extra, don&#8217;t forget to opt out. 
-
-<br> 
-
-<https://www.osnews.com/story/141563/microsoft-adds-ai-to-microsoft-364-and-raises-prices-to-pay-for-it/>
-
----
-
-## Venture: cross-platform GUI tool for parsing and analyzing Windows event logs
-
-date: 2025-01-18, from: OS News
-
-Venture is a cross-platform viewer for Windows Event Logs (.evtx files). Built with the Tauri, it is intended as a fast, standalone tool for quickly parsing and slicing Windows Event Log files during incident response, digital forensics, and CTF competitions. ↫ Venture GitHub page Neat tool. It makes sense that it would be possible to build third-party viewers for Windows event logs, but I never stopped to think about it and just defaulted to the one built into Windows. 
-
-<br> 
-
-<https://www.osnews.com/story/141560/venture-cross-platform-gui-tool-for-parsing-and-analyzing-windows-event-logs/>
 
