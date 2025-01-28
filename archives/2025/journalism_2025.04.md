@@ -1,11 +1,173 @@
 ---
 title: journalism
-updated: 2025-01-27 07:05:44
+updated: 2025-01-28 07:05:12
 ---
 
 # journalism
 
-(date: 2025-01-27 07:05:44)
+(date: 2025-01-28 07:05:12)
+
+---
+
+## Professor next door: Faculty-in-residence Irene Chen pioneers viruses, community
+
+date: 2025-01-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+When Dr. Irene Chen wraps up her day teaching courses and leading research, her work isn’t finished – she then heads back to the Hill, where she is an Olympic Hall faculty in residence. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/27/professor-next-door-faculty-in-residence-irene-chen-pioneers-viruses-community/>
+
+---
+
+## Sundance 2025 Q&A: ‘Jimpa’ portrays elements of LGBTQ+ experience with themes of community, family
+
+date: 2025-01-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+In “Jimpa,” generations come together in a meditation on the LGBTQ+ experience.
+Directed by Sophie Hyde, the family drama follows Hannah (Olivia Colman) and her nonbinary teenager Frances (Aud Mason-Hyde) on a trip to Amsterdam to visit the titular character (John Lithgow), who is also Hannah’s father and Frances’ grandfather. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/27/sundance-2025-qa-jimpa-portrays-elements-of-lgbtq-experience-with-themes-of-community-family/>
+
+---
+
+## Society of Women Engineers at UCLA holds donation effort for LA wildfire victims
+
+date: 2025-01-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Society of Women Engineers at UCLA hosted a donation drive for victims of the Los Angeles wildfires Thursday.
+Members of the club created donation kits at the event for children affected by fires across LA County, which have burned over 47,000 acres since Jan. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/27/society-of-women-engineers-at-ucla-holds-donation-effort-for-la-wildfire-victims/>
+
+---
+
+## CSUN’s Music Department is in perfect harmony with success
+
+date: 2025-01-28, from: The Sundail (CSUN Student Newspaper)
+
+Billboard’s Top Music Business Schools list recognized California State University, Northridge for the third consecutive year, for its successful music program. The program, established 30 years ago, reflects CSUN’s ongoing... 
+
+<br> 
+
+<https://sundial.csun.edu/189073/arts-entertainment/csuns-music-department-is-in-perfect-harmony-with-success/>
+
+---
+
+## Heart Shaped Gum Wrapper
+
+date: 2025-01-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/01/27/heart-shaped-gum-wrapper/>
+
+---
+
+## Sundance 2025 Q&A: ‘Ricky’ cast talks presentation of criminal justice system
+
+date: 2025-01-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+“Ricky” is forging a path toward reintegration and redemption.
+The drama film presents the story of 30-year-old Ricky (Stephan James) as he tries to live an independent life for the first time after 15 years of incarceration. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/27/sundance-2025-qa-ricky-cast-talks-presentation-of-criminal-justice-system/>
+
+---
+
+## Transact Mobile temporarily unavailable for online dining hall orders
+
+date: 2025-01-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 27 at 10:30 p.m.</em>
+UCLA Housing’s Transact Mobile app – which students on the Hill use to order meals – was unavailable Monday morning and came back online around 2:38 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/27/transact-mobile-temporarily-unavailable-for-online-dining-hall-orders/>
+
+---
+
+## The Impact of Climate Change: Why Energy-Efficient Windows Matter on College Campuses
+
+date: 2025-01-27, from: The Sundail (CSUN Student Newspaper)
+
+Photo by Kampus Production from Pexels The necessity of sustainability solutions becomes more obvious every day with the increasing impact of climate change on global weather patterns, especially on colleges.... 
+
+<br> 
+
+<https://sundial.csun.edu/189070/sundialbrandstudio/sundial-marketplace/the-impact-of-climate-change-why-energy-efficient-windows-matter-on-college-campuses/>
+
+---
+
+## Book review: Aria Aber’s culturally charged novel discovers what it means to be a ‘Good Girl’
+
+date: 2025-01-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+What does being a good girl truly mean? To the protagonist of Aria Aber’s “Good Girl,” it seems to be the most elusive title of them all. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/27/book-review-aria-abers-culturally-charged-novel-discovers-what-it-means-to-be-a-good-girl/>
+
+---
+
+## Grammys 2025: Grammy-nominated songwriter, alumnus KOLE discusses genre-spanning works
+
+date: 2025-01-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+Intertwining artistry and storytelling, KOLE is crafting a harmony of genres and cultures.
+Boasting an extensive catalog of songwriting collaborations ranging from Meghan Trainor to Ingrid Michaelson, the ethnomusicology alumnus is recognized in this year&#8217;s Grammys for her work on Lalah Hathaway&#8217;s latest release &#8220;VANTABLACK.&#8221; Hathaway&#8217;s album is nominated in the prestigious Best R&#38;B Album category, marking KOLE&#8217;s second Grammy recognition as a songwriter. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/27/grammys-2025-grammy-nominated-songwriter-alumnus-kole-discusses-genre-spanning-works/>
+
+---
+
+## Dorm Scapes unlocks from-scratch escape room experiences for students
+
+date: 2025-01-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+Within the walls of Courtside, students tried to escape something out of this world.
+In Code Green, quartets of students navigated an immersive alien research laboratory, solving puzzles to uncover the truth behind Dr. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/27/dorm-scapes-unlocks-from-scratch-escape-room-experiences-for-students/>
+
+---
+
+## Bruin to Bruin: Transforming Cities Through Design – A Conversation with Dana Cuff
+
+date: 2025-01-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+In this episode of &#8220;Bruin to Bruin,&#8221; Professor Dana Cuff from the UCLA School of Architecture and Urban Design discusses her transformative work with cityLAB, a research center addressing social justice and urban challenges through design. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/27/bruin-to-bruin-transforming-cities-through-design-a-conversation-with-dana-cuff/>
+
+---
+
+## What to Expect at Spring Fest 2025
+
+date: 2025-01-27, from: The Sundail (CSUN Student Newspaper)
+
+The University Student Union (USU) is preparing to host its annual Spring Fest for 2025 on Wednesday, Jan. 29, from 11 a.m. to 3 p.m. at The Plaza Del Sol,... 
+
+<br> 
+
+<https://sundial.csun.edu/189055/news/what-to-expect-at-spring-fest-2025/>
 
 ---
 
@@ -82,8 +244,8 @@ Fires across LA &#8211; which began Jan. 7 &#8211; have burned nearly 57,000 acr
 
 date: 2025-01-27, from: The Daily Bruin (UCLA Student Newspaper)
 
-For UCLA&#8217;s fourth-year students, transitions to Zoom classes are nothing new.
-The university switched to remote instruction less than a week into winter quarter after fires broke out in Los Angeles County, one of which &#8211; the Palisades fire &#8211; prompted an evacuation warning bordering the campus. 
+For UCLA’s fourth-year students, transitions to Zoom classes are nothing new.
+The university switched to remote instruction less than a week into winter quarter after fires broke out in Los Angeles County, one of which – the Palisades fire – prompted an evacuation warning bordering the campus. 
 
 <br> 
 

@@ -1,17 +1,17 @@
 ---
 title: weather
-updated: 2025-01-27 07:05:43
+updated: 2025-01-28 07:05:12
 ---
 
 # weather
 
-(date: 2025-01-27 07:05:43)
+(date: 2025-01-28 07:05:12)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-01-27, from: Eastern Pacific Basin GIS Data
+date: 2025-01-28, from: Eastern Pacific Basin Tropical Cyclones
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
@@ -21,11 +21,11 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Mon Jan 27 14:56:02 UTC 2025
+## SPC - No watches are valid as of Tue Jan 28 14:34:02 UTC 2025
 
-date: 2025-01-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Mon Jan 27 14:56:02 UTC 2025. 
+No watches are valid as of Tue Jan 28 14:34:02 UTC 2025. 
 
 <br> 
 
@@ -33,28 +33,80 @@ No watches are valid as of Mon Jan 27 14:56:02 UTC 2025.
 
 ---
 
-## SPC - No MDs are in effect as of Mon Jan 27 14:56:02 UTC 2025
+## SPC MD 56
 
-date: 2025-01-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Mon Jan 27 14:56:02 UTC 2025. 
+<br /><a href="https://www.spc.noaa.gov/products/md/md0056.html"><img src="https://www.spc.noaa.gov/products/md/mcd0056.png" border="1" alt="MD 0056 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0056
+NWS Storm Prediction Center Norman OK
+0633 AM CST Tue Jan 28 2025
+
+Areas affected...the Upper Michigan vicinity
+
+Concerning...Heavy snow 
+
+Valid 281233Z - 281700Z
+
+SUMMARY...A period of heavy snow, at rates on the order of 1-2+
+inches per hour, appears possible in a corridor overspreading the
+central Upper Peninsula of Michigan vicinity by midday.
+
+DISCUSSION...Downstream of a low-amplitude short wave perturbation,
+accompanying an intense (110+ kt at 500 mb) jet streak digging
+east-southeast of the Canadian Prairies, lower/mid-tropospheric warm
+advection is overspreading the Upper Midwest into Great Lakes
+region.  Associated forcing for ascent is becoming focused across
+the southwestern flank of an arctic air mass now entrenched across
+much of the Great Lakes region, particularly near a zone of strong
+lower/mid-tropospheric frontogenesis, which is forecast to shift
+from northwestern Ontario across the western Lake Superior and
+central Upper Peninsula of Michigan vicinity through 17-18z.
+
+Forecast soundings across this region indicate that the sub-freezing
+thermodynamic profiles are in the process of saturating, ahead of an
+ongoing band of moderate to heavy snow, which appears likely to be
+maintained through at least early afternoon.  Temperatures appear
+within a few degrees of -15C through an initially deep layer from
+lower-levels into the 700-600 mb layer, where conditions will be
+most conducive to large dendritic ice crystal growth.  Coinciding
+with maximizing lift associated with the frontogenetic forcing, it
+appears that this may support a 2-3 hour period of heavy snow rates
+on the order of 1-2 inches per hour.  Forecast soundings also
+indicate that a layer a steepening mid-level lapse rates may be
+accompanied by the development of weak CAPE and embedded convective
+development with heavier snow rates possible.
+
+..Kerr.. 01/28/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...APX...MQT...GRB...DLH...
+
+LAT...LON   48538911 47918791 46888619 46278519 45418590 44838674
+            45668731 46428796 46938875 47878969 48538911 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0056.html">Read more</a>
+ 
 
 <br> 
 
-<https://www.spc.noaa.gov/products/md/>
+<https://www.spc.noaa.gov/products/md/md0056.html>
 
 ---
 
-## SPC Jan 27, 2025 1300 UTC Day 1 Convective Outlook
+## SPC Jan 28, 2025 1300 UTC Day 1 Convective Outlook
 
-date: 2025-01-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0630 AM CST Mon Jan 27 2025
+0637 AM CST Tue Jan 28 2025
 
-Valid 271300Z - 281200Z
+Valid 281300Z - 291200Z
 
 ...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
@@ -63,19 +115,17 @@ Severe thunderstorms are not forecast across the contiguous United
 States through tonight.
 
 ...Synopsis...
-A mid-level low will meander slowly east across southern CA into
-northwest AZ during the period.  A belt of strong upper flow will
-extend from Baja California east across the southern U.S. while a
-split flow regime is maintained with troughing over the Great Lakes.
-In the low levels, a frontal zone will slide southward into the
-northern Gulf from the central Gulf Coast.  Showers and isolated
-thunderstorms are possible mainly this morning over the central Gulf
-Coast, before the focus for isolated thunderstorms focuses farther
-west over the Mojave Desert into western AZ today.  Elsewhere,
-quiescent conditions will prevail across much of the remainder of
-the CONUS.
+Water-vapor imagery loop indicates a split flow upper-air pattern
+over North America with a closed mid- to upper-level low meandering
+over the Desert Southwest.  A few showers associated with the upper
+low may become convectively augmented and yield a couple of
+lightning flashes.  Otherwise, docile conditions will prevail across
+the remainder of the Lower 48 from a thunderstorm perspective. 
+Deep, cyclonic flow will encompass the Upper Midwest southeastward
+into the Appalachians/Eastern Seaboard and maintain seasonably
+cool/stable air via continental trajectories.
 
-..Smith/Kerr.. 01/27/2025
+..Smith/Kerr.. 01/28/2025
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
@@ -89,38 +139,31 @@ the CONUS.
 
 ## SPC Day 2 Fire Weather Outlook
 
-date: 2025-01-27, from: NOAA Weather Forecasts
+date: 2025-01-28, from: NOAA Weather Forecasts
 
 <br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 2 Fire Weather Outlook  
 NWS Storm Prediction Center Norman OK
-0123 AM CST Mon Jan 27 2025
+0146 AM CST Tue Jan 28 2025
 
-Valid 281200Z - 291200Z
+Valid 291200Z - 301200Z
 
 ...NO CRITICAL AREAS...
 
 ...Synopsis...
-Fire weather concerns appear limited for Tuesday across the country.
-The upper low currently over southern California is forecast to
-gradually shift east across the southwest states over the next 48
-hours. As this occurs, moderately strong mid-level winds will
-overspread much of NM, which will support breezy winds around 15 mph
-by late afternoon in the vicinity of a weak surface trough that is
-forecast to reside across the central portion of the state. Dry
-low-level air emanating out of northern Mexico combined with modest
-wind speeds may allow some areas to reach elevated wind/RH
-thresholds, but the coverage and duration of such conditions appears
-limited compared to prior days. Additionally, the axis of the
-strongest winds/lowest RH will become increasingly displaced from
-the driest fuels located across AZ and far western NM. Across the
-Plains, a strong surface pressure gradient will support another day
-of 15-20 mph winds with afternoon RH values falling into the 20-35%
-range. Localized elevated fire weather conditions are possible, but
-confidence in widespread or persistent elevated conditions is too
-limited for highlights at this time.
+Fire weather concerns are expected to be limited for Wednesday
+across the country. The upper low currently over western Arizona
+will shift into the southern Plains through Wednesday evening.
+Widespread rain chances will overspread the southern Plains and
+Southwest regions through the day limiting fire weather potential
+for most areas. One exception is West Texas and south-central NM
+where rainfall should be limited. While breezy southwest winds are
+likely, recent guidance suggests the probability of reaching
+elevated RH thresholds is low. Elsewhere across the country, cool
+temperatures, weak winds, and/or recent rain/snowfall preclude fire
+weather concerns.
 
-..Moore.. 01/27/2025
+..Moore.. 01/28/2025
 
 ...Please see www.spc.noaa.gov/fire for graphic product...
 
@@ -131,6 +174,18 @@ limited for highlights at this time.
 <br> 
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
+
+---
+
+## SPC - No MDs are in effect as of Mon Jan 27 14:56:02 UTC 2025
+
+date: 2025-01-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Mon Jan 27 14:56:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
 
 ---
 

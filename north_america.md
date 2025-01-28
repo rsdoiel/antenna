@@ -1,11 +1,1122 @@
 ---
 title: north america
-updated: 2025-01-27 07:05:40
+updated: 2025-01-28 07:05:10
 ---
 
 # north america
 
-(date: 2025-01-27 07:05:40)
+(date: 2025-01-28 07:05:10)
+
+---
+
+## As Europe uses more renewable energy, U.S. lags behind
+
+date: 2025-01-28, from: Market Place
+
+Meanwhile, China is outpacing everyone when it comes to building new solar and wind energy projects. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/28/europe-renewable-energy-us-trump/>
+
+---
+
+## With travel demand above pre-pandemic levels, airlines can expect smooth flying ahead
+
+date: 2025-01-28, from: Market Place
+
+More profitable flying, too. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/28/airlines-results-travel-demand-smooth-flying-ahead/>
+
+---
+
+## How a rarely used Congressional rule could help Republicans roll back Biden-era regulations
+
+date: 2025-01-28, from: Market Place
+
+Roughly 100 rules — including some from the Environmental Protection Agency and Consumer Financial Protection Bureau — could be repealed under the Congressional Review Act. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/28/congressional-review-act-republicans-trump-biden/>
+
+---
+
+## Trump takes aim at DEI, COVID expulsions and transgender troops
+
+date: 2025-01-28, from: VOA News USA
+
+Washington — U.S. President Donald Trump signed a series of executive orders on Monday to remove diversity, equity and inclusion, DEI, from the military, reinstate thousands of troops who were kicked out for refusing COVID-19 vaccines during the pandemic, and take aim at transgender troops.
+
+
+Earlier on Monday, Pete Hegseth, who narrowly secured enough votes to become defense secretary, referred to the names of Confederate generals that were once used for two key bases during his remarks to reporters as he entered the Pentagon on his first full day on the job.  
+
+
+Trump signed the executive orders while flying back from Miami to Washington, D.C.
+
+
+One of the executive orders signed by Trump said that expressing a "gender identity" different from an individual's sex at birth did not meet military standards.
+
+
+While the order banned the use of "invented" pronouns in the military, it did not answer basic questions including whether transgender soldiers currently serving in the military would be allowed to stay and, if not, how they would be removed.
+
+
+Trump's plans have been heavily criticized by advocacy groups, which say his actions would be illegal.  
+
+
+"President Trump has made clear that a key priority for his administration is driving transgender people back into the closet and out of public life altogether," Joshua Block, with the ACLU, said earlier on Monday.  
+
+
+During his first term, Trump announced that he would ban transgender troops from serving in the military. He did not fully follow through with that ban  his administration froze their recruitment while allowing serving personnel to remain.  
+
+
+Biden overturned the decision when he took office in 2021.  
+
+
+The military has about 1.3 million active-duty personnel, Department of Defense data shows. While transgender rights advocates say there are as many as 15,000 transgender service members, officials say the number is in the low thousands.  
+
+
+When Trump announced his first ban in 2017, he said the military needed to focus on "decisive and overwhelming victory" without being burdened by the "tremendous medical costs and disruption" of having transgender personnel.
+
+
+Internal focus  
+
+
+Hegseth has promised to bring major changes to the Pentagon, and he has made eliminating DEI from the military a top priority.  
+
+
+Trump's executive order on ending DEI in the military said service academies would be required to teach "that America and its founding documents remain the most powerful force for good in human history."
+
+
+The Air Force said on Sunday that it will resume instruction of trainees using a video about the first Black airmen in the U.S. military, known as the Tuskegee Airmen, which has passed review to ensure compliance with Trump's ban on DEI initiatives.
+
+
+Hegseth was warmly greeted on the steps of the Pentagon by the top U.S. military officer, Air Force General Charles Brown, whom Hegseth criticized in his latest book. Asked if he might fire Brown, Hegseth joked that he was standing right next to him.
+
+
+"I’m standing with him right now. I look forward to working with him," as he patted Brown on the back.  
+
+ 
+
+Reuters has previously reported about the possibility of mass firing among top brass, something Hegseth repeatedly refused to rule out during his confirmation process.
+
+
+Hegseth referred to Fort Moore and Fort Liberty by their previous names, Fort Benning and Fort Bragg, while speaking with reporters.
+
+
+The names honoring Confederate officers were changed under former President Joe Biden as part of an effort to reexamine U.S. history and the Confederate legacy.
+
+
+"I'm thinking about the guys and gals in Guam, Germany, Fort Benning and Fort Bragg," Hegseth said.
+
+
+Much of Hegseth's focus at the Pentagon could be internal to the military, including making good on Trump's executive order on bringing back troops discharged for refusing COVID vaccines.
+
+
+Thousands of service members were removed from the military after the Pentagon made the vaccine mandatory in 2021.
+
+
+US missile defense
+
+
+Trump also signed an executive order that "mandated a process to develop an ‘American Iron Dome’."
+
+
+The short-range Iron Dome air defense system was built by Israel's Rafael Advanced Defense Systems with U.S. backing, and it was built to intercept rockets fired by the Palestinian Islamist movement Hamas in Gaza toward Israel.
+
+
+Each truck-towed unit fires radar-guided missiles to blow up short-range threats such as rockets, mortars and drones in midair.
+
+
+The system determines whether a rocket is on course to hit a populated area. If not, the rocket is ignored and allowed to land harmlessly.
+
+
+Any such effort would take years to implement in the United States. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-takes-aim-at-dei-covid-expulsions-and-transgender-troops/7952985.html>
+
+---
+
+## Trump Justice Department says it has fired employees involved in prosecutions of the president
+
+date: 2025-01-28, from: VOA News USA
+
+WASHINGTON — The Justice Department said Monday that it had fired more than a dozen employees who worked on criminal prosecutions of President Donald Trump, moving rapidly to pursue retribution against lawyers involved in the investigations and signaling an early willingness to take action favorable to the president's personal interests. 
+
+
+The abrupt termination targeting career prosecutors who worked on special counsel Jack Smith's team is the latest sign of upheaval inside the Justice Department and is consistent with the administration's determination to purge the government of workers it perceives as disloyal to the president. 
+
+
+The norm-shattering move, which follows the reassignment of multiple senior career officials across divisions, was made even though rank-and-file prosecutors by tradition remain with the department across presidential administrations and are not punished by virtue of their involvement in sensitive investigations. The firings are effective immediately. 
+
+
+“Today, Acting Attorney General James McHenry terminated the employment of a number of DOJ officials who played a significant role in prosecuting President Trump,” said a statement from a Justice Department official. "In light of their actions, the Acting Attorney General does not trust these officials to assist in faithfully implementing the President’s agenda. This action is consistent with the mission of ending the weaponization of government.” 
+
+
+It was not immediately clear which prosecutors were affected by the order, or how many who worked on the investigations into Trump remained with the department as Trump took office last week. It was also not immediately known how many of the fired prosecutors intended to challenge the terminations by arguing that the department had cast aside civil service protections afforded to federal employees. 
+
+
+The action was the latest effort to turn the table on criminal investigations that for years shadowed Trump, resulting in separate indictments that never went to trial and were ultimately abandoned. 
+
+
+On his first day in office, he issued sweeping pardons and sentence commutations to the more than 1,500 supporters charged in the Jan. 6 riot at the U.S. Capitol, a massive clemency grant that benefited even those found guilty of violent attacks on police, as well as leaders of far-right extremist groups convicted of failed plots to keep the Republican in power. 
+
+
+Trump has long sought to exert control over a Justice Department that investigated him both during his first term as well as during the last four years under former Attorney General Merrick Garland. He has repeatedly said he expects loyalty from a law enforcement community trained to put facts, evidence and the law ahead of politics. 
+
+
+He's moved to put close allies in high-level positions, including replacing his first FBI director, Christopher Wray, with loyalist Kash Patel. 
+
+ 
+
+Trump’s pick for attorney general, Pam Bondi, said at her confirmation hearing this month that she would not play politics but did not rule out the potential for investigations into Trump adversaries like Smith. 
+
+
+
+
+Smith resigned from the department earlier this month after submitting a two-volume report on the twin investigations into Trump's efforts to undo the 2020 presidential election and his hoarding of classified documents at his Mar-a-Lago estate in Florida. At least one other key member of the team, Jay Bratt, also retired from the department this month after serving as a lead prosecutor in the classified documents case. 
+
+
+Both the election interference case and the classified documents prosecution were withdrawn by Smith's team following Trump's presidential win in November, in keeping with longstanding Justice Department policy. 
+
+
+The firings were first reported by Fox News. 
+
+<br> 
+
+<https://www.voanews.com/a/doj-official-trump-administration-fires-team-of-lawyers-who-prosecuted-him/7952723.html>
+
+---
+
+## Words and Phrases we could do without
+
+date: 2025-01-28, from: The Contrarian
+
+&#8220;Meritocracy&#8221;&#8212;with Pete Hegseth? 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-could-do-without>
+
+---
+
+## The White House’s Shocking Federal Funding Freeze
+
+date: 2025-01-28, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjA0MDk0MS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5MDQ3MTc2N30.pUPoT2sfXStK07jc5uUiR_0MXQxuiPioJFwtSREAaGI/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><em><strong>Current conditions:</strong> A major incident was declared in parts of England after Storm Herminia brought severe flooding • A 3.8-magnituted earthquake was recorded off the coast of Maine • It’s warmer than average across central and eastern states, but colder than average in the Southwest.</em></p><h2>THE TOP FIVE</h2><h3>1. White House orders pause to federal grants and loans</h3><p>The Trump administration’s Office of Management and Budget <a href="https://bsky.app/profile/marisakabas.bsky.social/post/3lgr2gf5uzk27?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84rR9fUxJnyLeMf7fPSa52hW2_NqpU-paZMLxQ-tDGOOZztWgRX9bqLQYtJe30s4E6d_84" rel="noopener noreferrer" target="_blank">issued a two-page memo</a> temporarily suspending all federal grants and loans. “The use of Federal resources to advance Marxist equity, transgenderism, and green new deal social engineering policies is a waste of taxpayer dollars that does not improve the day-to-day lives of those we serve,” wrote the OMB’s acting director Matthew J. Vaeth. The pause will allow agencies to review grant and loan programs and make sure they align with President Trump’s many executive orders, which have sought to sharply curtail climate initiatives and clean energy spending, among other programs. Some experts say the order is too vague to be legal. Still, it triggered panic and confusion across many state and local governments and programs. “It will mean missed payrolls and rent payments and everything in between,” <a href="https://www.wsj.com/politics/policy/white-house-orders-pause-of-federal-financial-assistance-programs-8362a8e0?mod=hp_lead_pos2&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84rR9fUxJnyLeMf7fPSa52hW2_NqpU-paZMLxQ-tDGOOZztWgRX9bqLQYtJe30s4E6d_84" rel="noopener noreferrer" target="_blank">said</a> Senate Minority Leader Chuck Schumer. “Chaos for everything from universities to non-profit charities, state disaster assistance, local law enforcement, aid to the elderly, and food for those in need.” The pause goes into effect at 5 p.m. today.</p><h3>2. Scott Bessent confirmed as Treasury secretary</h3><p>The Senate yesterday <a href="https://edition.cnn.com/2025/01/27/politics/senate-confirms-scott-bessent-treasury-secretary/index.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84rR9fUxJnyLeMf7fPSa52hW2_NqpU-paZMLxQ-tDGOOZztWgRX9bqLQYtJe30s4E6d_84" rel="noopener noreferrer" target="_blank">confirmed</a> hedge fund manager Scott Bessent as Treasury secretary. As <a href="https://heatmap.news/sparks/scott-bessent-trump-treasury-ira?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84rR9fUxJnyLeMf7fPSa52hW2_NqpU-paZMLxQ-tDGOOZztWgRX9bqLQYtJe30s4E6d_84" target="_self">Heatmap’s Matthew Zeitlin has explained</a>, Bessent has long advised Trump on the economy and has a <a href="https://www.wsj.com/politics/elections/the-ex-soros-executive-who-is-trumps-new-obsession-4be2d493?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84rR9fUxJnyLeMf7fPSa52hW2_NqpU-paZMLxQ-tDGOOZztWgRX9bqLQYtJe30s4E6d_84" rel="noopener noreferrer" target="_blank"> “3-3-3” plan</a> for the economy that involves cutting deficits in half to 3% of gross domestic product, ratcheting up GDP to 3%, and boosting oil production by three million barrels a day, a goal that <a href="https://finance.yahoo.com/news/harold-hamm-drill-baby-drill-050000581.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84rR9fUxJnyLeMf7fPSa52hW2_NqpU-paZMLxQ-tDGOOZztWgRX9bqLQYtJe30s4E6d_84" rel="noopener noreferrer" target="_blank">Continental Resources chief executive and informal Trump advisor Harold Hamm has cast doubt on</a> due to geologic constraints. Bessent has also <a href="https://www.ft.com/content/fa08cc45-e6d1-4e19-b49b-047c5a23ca39?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84rR9fUxJnyLeMf7fPSa52hW2_NqpU-paZMLxQ-tDGOOZztWgRX9bqLQYtJe30s4E6d_84" rel="noopener noreferrer" target="_blank">suggested</a> to the <em><em>Financial Times</em></em> that the Inflation Reduction Act could be one area where cuts to the federal budget could be found, telling the paper that it was “the Doomsday machine for the deficit.” He is <a href="https://www.ft.com/content/7fb420b9-1bd1-4c68-8575-94e99315051c?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84rR9fUxJnyLeMf7fPSa52hW2_NqpU-paZMLxQ-tDGOOZztWgRX9bqLQYtJe30s4E6d_84" rel="noopener noreferrer" target="_blank">reportedly</a> aiming to introduce new universal tariffs on imports, starting at 2.5% and gradually rising to as high as 20%.</p><h3>3. Citigroup: Energy transition is irreversible</h3><p>President Trump’s policy agenda cannot stop the global energy transition, analysts from Citigroup wrote in a note, <a href="https://www.bloomberg.com/news/articles/2025-01-27/citi-analysts-say-trump-policies-can-t-reverse-energy-transition?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84rR9fUxJnyLeMf7fPSa52hW2_NqpU-paZMLxQ-tDGOOZztWgRX9bqLQYtJe30s4E6d_84" rel="noopener noreferrer" target="_blank">according to</a> <em>Bloomberg</em>. “Clean energy is cheaper, more widely available, and more efficient,” the note said. “For advocates of clean energy transition, the power of economics will prevail.” The analysts weren’t particularly concerned about the U.S. exodus from the Net-Zero Banking Alliance (which Citigroup itself has left), saying this “neither impedes progress nor dilutes efforts” to decarbonize investing.</p><h3>4. Study warns of 2.3 million excess heat-related deaths in European cities by end of century</h3><p>Climate change-related deaths in European cities could rise by 50% by 2099 if little is done in the way of mitigation and adaptation, according to a new <a href="https://www.nature.com/articles/s41591-024-03452-2?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84rR9fUxJnyLeMf7fPSa52hW2_NqpU-paZMLxQ-tDGOOZztWgRX9bqLQYtJe30s4E6d_84" rel="noopener noreferrer" target="_blank">study</a> published in the journal <em><em>Nature Medicine</em></em>. In this scenario, some 2.3 million people in urban areas across the continent are projected to die climate-related deaths by the end of the century. “With no adaptation to heat, the increase in heat-related deaths consistently exceeds any decrease in cold-related deaths,” the authors wrote. The number of deaths could be reduced by at least two-thirds if warming peaks at 1.5 degrees Celsius above pre-industrial levels, or at least remains below 3 degrees Celsius. The world has already warmed by 1.3 degrees Celsius. According to the <a href="https://climateactiontracker.org/global/cat-thermometer/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84rR9fUxJnyLeMf7fPSa52hW2_NqpU-paZMLxQ-tDGOOZztWgRX9bqLQYtJe30s4E6d_84" rel="noopener noreferrer" target="_blank">Climate Action Tracker</a>, current policies have us on a path toward roughly 2.7 degrees of warming by 2100. A separate <a href="http://iopscience.iop.org/article/10.1088/1748-9326/adaa8a?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84rR9fUxJnyLeMf7fPSa52hW2_NqpU-paZMLxQ-tDGOOZztWgRX9bqLQYtJe30s4E6d_84" rel="noopener noreferrer" target="_blank">study</a> out today <a href="https://phys.org/news/2025-01-ocean-surface-quadrupled-late-1980s.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84rR9fUxJnyLeMf7fPSa52hW2_NqpU-paZMLxQ-tDGOOZztWgRX9bqLQYtJe30s4E6d_84" rel="noopener noreferrer" target="_blank">found</a> that ocean-surface temperatures are warming more than four times faster now than they did in the late 1980s. </p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="0e89c78a8736e6f3d0543077a4689c67" data-rm-shortcode-name="rebelmouse-image" id="7b8c5" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjA0MDk0My9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc1NTQ1MzM2MX0.xL25K3YE90FjFUws5swEKrQPgtiVuQrByjns7Li1QOI/image.png?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">Projected increases (purple) and decreases (green) in excess deaths due to temperature in a warming Europe.</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit..."> <a href="https://www.nature.com/articles/s41591-024-03452-2?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84rR9fUxJnyLeMf7fPSa52hW2_NqpU-paZMLxQ-tDGOOZztWgRX9bqLQYtJe30s4E6d_84" rel="noopener noreferrer" target="_blank">Nature</a></small></p><h3>5. Los Angeles grapples with toxic wildfire debris</h3><p>As Los Angeles starts down the long path to recovery after its devastating wildfires, a debate is growing over what to do with all the debris leftover from the blazes. Some people are considering hiring private firms to clean up their properties, but that could cost some $170,000, the <em><em>Los Angeles Times</em></em> <a href="https://www.latimes.com/california/story/2025-01-27/palisdes-fire-town-hall-debris-removal-emotions-run-high?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84rR9fUxJnyLeMf7fPSa52hW2_NqpU-paZMLxQ-tDGOOZztWgRX9bqLQYtJe30s4E6d_84" rel="noopener noreferrer" target="_blank">reported</a>. The U.S. Army Corps of Engineers is offering to clear away the debris for free, and the Environmental Protection Agency is also working on the cleanup, but officials warned locals at a town hall meeting Sunday that the process could take up to 18 months. That timeline was met with outrage. The EPA plans to send the debris to some L.A. County’s foothill communities to be processed for disposal, but residents there aren’t happy about the idea of being dumped with toxic wildfire waste. “The potential risks associated with hazardous materials, particularly lithium electric vehicle batteries, which are highly flammable and pose environmental contamination risks, are a matter of significant concern,” <a href="https://www.latimes.com/california/story/2025-01-27/eaton-fire-debris-dump-site-near-foothill-cities-cities-protest?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84rR9fUxJnyLeMf7fPSa52hW2_NqpU-paZMLxQ-tDGOOZztWgRX9bqLQYtJe30s4E6d_84" rel="noopener noreferrer" target="_blank">said L.A. County Supervisor Hilda Solis in a statement</a>. “The removal of these materials should not come at the cost of creating a toxic environment for communities already disproportionately impacted by pollution.”</p><h2>THE KICKER</h2><p><em>“Blithely insisting that incredibly complex problems will be solved easily and quickly is a specialty of tech barons. And if AI itself finds the solution to our energy problems? Even better.”</em></p><p><strong>–Paul Waldman</strong> writing for <a href="https://heatmap.news/politics/ai-climate-politics?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84rR9fUxJnyLeMf7fPSa52hW2_NqpU-paZMLxQ-tDGOOZztWgRX9bqLQYtJe30s4E6d_84" rel="noopener" target="_self">Heatmap on solving climate change (or not) with AI</a></p> 
+
+<br> 
+
+<https://heatmap.news/politics/trump-federal-funding-pause-grants>
+
+---
+
+## App provides immediate fire information to Los Angeles residents
+
+date: 2025-01-28, from: VOA News USA
+
+When fires burned in the Los Angeles, California, area, residents turned to an app for immediate fire information about the dangers. Michelle Quinn reports. 
+
+<br> 
+
+<https://www.voanews.com/a/app-provides-immediate-fire-information-to-los-angeles-residents-/7952754.html>
+
+---
+
+## White House pauses federal grant, loan other assistance programs
+
+date: 2025-01-28, from: VOA News USA
+
+WASHINGTON — The Trump administration has temporarily paused grant, loan and other financial assistance programs at the Office of Management and Budget, according to a memo seen by Reuters, prompting criticism from congressional Democrats.
+
+
+The memo referenced the executive orders, including those seeking to dismantle programs related to diversity, equity and inclusion (DEI), President Donald Trump has signed since taking office last week.
+
+
+"In the interim, to the extent permissible under applicable law, federal agencies must temporarily pause all activities related to obligation or disbursement of all federal financial assistance, and other relevant agency activities that may be impacted by the executive orders, including, but not limited to, financial assistance for foreign aid, nongovernmental organizations, DEI, woke gender ideology, and the green new deal," Matthew J. Vaeth, the acting director of the Office of Management and Budget, wrote in the memo.
+
+
+The suspension goes into effect on Jan. 28 at 5 p.m. eastern time, according to the memo.
+
+
+Top Democratic congressional budget appropriation lawmakers responded to reports of the memo by sending a letter demanding the OMB reverse its decision.
+
+
+"The scope of what you are ordering is breathtaking, unprecedented, and will have devastating consequences across the country. We write today to urge you in the strongest possible terms to uphold the law and the Constitution and ensure all federal resources are delivered in accordance with the law,” Democratic Senator Patty Murray and Democratic Representative Rosa DeLauro wrote.
+
+
+Agencies have until Feb. 10 to submit detailed information on any programs, projects or activities subject to the pause, the memo states.
+
+
+The suspension will provide the administration with time to review agency programs and determine the best uses of funding for those programs consistent with the law and Trump's priorities, it added.
+
+
+Agencies must identify legally mandated actions or deadlines for assistance programs before completing the analysis, it added.
+
+
+Vaeth directed federal agencies to halt all activities associated with open notices of funding opportunities.
+
+
+"This memorandum requires federal agencies to identify and review all federal financial assistance programs and supporting activities consistent with the president's policies and requirement," Vaeth wrote. 
+
+<br> 
+
+<https://www.voanews.com/a/white-house-pauses-federal-grant-loan-other-assistance-programs/7952752.html>
+
+---
+
+## Colombia sends air force planes to bring home migrants deported from the US
+
+date: 2025-01-28, from: VOA News USA
+
+A Colombian Air Force jet was expected to land back in the country early Tuesday carrying 110 Colombians deported from the United States.
+
+
+The flight from San Diego, along with another traveling from Houston back to Colombia, follows a dispute sparked Sunday when Colombian President Gustavo Petro refused to allow U.S. military planes to send deported Colombians back home.
+
+
+Petro said such treatment was disrespectful. His refusal prompted U.S. President Donald Trump to threaten to impose tariffs, which Petro said he would reciprocate before the two countries announced they had reached an agreement to defuse the situation.
+
+
+
+
+Petro said the Colombian Air Force flights would allow the migrants to travel home “without being handcuffed.”
+
+
+"This provision: dignity for deportees, will be applied to all countries that send deportations to us,” Petro said.
+
+
+Trump has quickly moved to carry out deportations, one of his campaign pledges, since taking office last week. He said Monday that if countries do not accept their migrants fast, “they’ll pay a very high economic price, and we’re going to immediately install massive tariffs.”
+
+
+While Colombia balked at the U.S. military flights, Guatemala has accepted several U.S. Air Force flights carrying Guatemalan migrants deported from the United States in recent days.
+
+
+The latest flight took place Monday, with 64 Guatemalans returning home.
+
+
+Guatemala’s Vice President Karin Herrera said Monday she was monitoring the care and condition of migrants arriving from the United States.
+
+
+"Guatemalan migrants are people with rights and dignity. Our commitment is to guarantee that their arrival in the country, to their land, is in the best conditions,” Herrera said.
+
+
+U.S. deportation flights are not new, with U.S. Immigration and Customs Enforcement carrying out hundreds of the flights each year. But the use of military flights is new, with the agency previously using commercial and chartered flights to deport people who are illegally in the United States.
+
+
+Some material for this article came from The Associated Press, Agence France-Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/colombia-sends-air-force-planes-to-bring-home-migrants-deported-from-the-us/7952750.html>
+
+---
+
+## Colombia’s president tangles with Trump over accepting deportees
+
+date: 2025-01-28, from: VOA News USA
+
+A storm in a coffee cup this past weekend, as Colombia’s president tussled by tweet with President Donald Trump, pulling back from the cusp of a trade war after the White House insisted the South American nation accept deportees as part of Trump’s hardline immigration push. VOA White House correspondent Anita Powell reports from Washington. 
+
+<br> 
+
+<https://www.voanews.com/a/colombia-s-president-tangles-with-trump-over-accepting-deportees/7952714.html>
+
+---
+
+## Cruelty and Loyalty
+
+date: 2025-01-28, from: The Contrarian
+
+On zone-flooding fatigue and the tenets of autocracy 
+
+<br> 
+
+<https://contrarian.substack.com/p/cruelty-and-loyalty>
+
+---
+
+## Rubio and Lammy reaffirm US-UK partnership on Indo-Pacific security, China challenges
+
+date: 2025-01-28, from: VOA News USA
+
+State Department — U.S. Secretary of State Marco Rubio spoke with his British counterpart, Foreign Secretary David Lammy, on Monday to discuss a range of pressing global issues and joint initiatives aimed at promoting a free and open Indo-Pacific that is secure and stable.
+
+
+“They affirmed the depth of the U.S.-UK Special Relationship and the crucial nature of our partnership in addressing issues like the conflict in the Middle East, Russia’s war against Ukraine, and China’s malign influence,” State Department Spokesperson Tammy Bruce said in a statement.
+
+
+The U.K. government said that Lammy and Rubio look forward to meeting in person soon.
+
+
+“They both welcomed the opportunity for the UK and the US to work together in alignment to address shared challenges including the situation in the Middle East, Russia’s illegal war in Ukraine, the challenges posed by China and the need for Indo-Pacific security,” the British statement read.
+
+
+The call between Rubio and Lammy came amid a report by The Guardian that China’s Foreign Minister, Wang Yi, is expected to visit Britain next month for the first U.K.-China strategic dialogue since 2018.
+
+
+In Beijing, Chinese officials did not confirm Wang’s plans to visit the U.K. but noted what they described as "sound and steady growth" in relations between the two countries.
+
+
+“China and the U.K. are both permanent members of the U.N. Security Council and major economies in the world,” Mao Ning, spokesperson for the Chinese Foreign Ministry, stated during a briefing on Monday. She added it is in the common interest of the two countries to enhance strategic communication and deepen political mutual trust.
+
+
+Wang is expected to attend the Munich Security Conference between Feb. 14 and 16, making it likely that his visit to the U.K. will take place either before or after the event.
+
+
+In the past, U.S. Secretaries of State have typically attended the high-profile annual gathering at the Munich Security Conference.
+
+
+The State Department has not responded to VOA’s inquiry about whether Rubio plans to hold talks with Wang during the conference.
+
+
+Last week, the State Department outlined U.S. policy toward China under President Donald Trump’s administration. 
+
+
+“Strategic competition is the frame through which the United States views its relationship with the People’s Republic of China (PRC). The United States will address its relationship with the PRC from a position of strength in which we work closely with our allies and partners to defend our interests and values,” the State Department said on Jan. 20. 
+
+<br> 
+
+<https://www.voanews.com/a/rubio-and-lammy-reaffirm-us-uk-partnership-on-indo-pacific-security-china-challenges/7952715.html>
+
+---
+
+## The Cuban dispatch
+
+date: 2025-01-28, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>On today&#8217;s episode, Kimberly takes us along her trip to Cuba, a country that remains under strict U.S. economic sanctions. She&#8217;ll explains some unique aspects of the Cuban economy, from how the currency works to the island&#8217;s complicated complicated past as a colonial outpost for sugar plantations. Plus, what makes the Cuban mojito special.</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.reuters.com/world/americas/cuba-predicts-1-growth-2025-after-dismal-year-economy-minister-says-2024-12-16/">“Cuba predicts 1% growth in 2025 after dismal year, economy minister says”</a> from Reuters</li>
+</ul>
+<p><!-- /wp:paragraph --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.npr.org/2024/11/07/1211597969/the-story-behind-cubas-economic-dysfunction">“How U.S. sanctions and a Communist government caused Cuba&#8217;s power crisis”</a> from NPR</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://theconversation.com/bidens-move-to-remove-cuba-from-terror-list-continues-yo-yo-policy-likely-to-be-reversed-by-trump-247440">“Biden’s move to remove Cuba from terror list continues ‘yo-yo’ policy likely to be reversed by Trump”</a> from The Conversation</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.aljazeera.com/news/2023/5/12/how-cubas-sugar-industry-has-been-ground-into-dust">“How Cuba’s sugar industry has been ground into dust”</a> from Al Jazeera</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Got a question or comment for us? Leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/01/27/mms_20250127_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fthe-cuban-dispatch&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/01/27/mms_20250127_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fthe-cuban-dispatch&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/the-cuban-dispatch>
+
+---
+
+## China's DeepSeek AI rattles Wall Street, but questions remain
+
+date: 2025-01-28, from: VOA News USA
+
+Chinese researchers backed by a Hangzhou-based hedge fund recently released a new version of a large language model (LLM) called DeepSeek-R1 that rivals the capabilities of the most advanced U.S.-built products but reportedly does so with fewer computing resources and at much lower cost.
+
+
+High Flyer, the hedge fund that backs DeepSeek, said that the model nearly matches the performance of LLMs built by U.S. firms like OpenAI, Google and Meta, but does so using only about 2,000 older generation computer chips manufactured by U.S.-based industry leader Nvidia while costing only about $6 million worth of computing power to train.
+
+
+By comparison, Meta’s AI system, Llama, uses about 16,000 chips, and reportedly costs Meta vastly more money to train.
+
+
+Open-source model
+
+
+The apparent advance in Chinese AI capabilities comes after years of efforts by the U.S. government to restrict China’s access to advanced semiconductors and the equipment used to manufacture them. Over the past two years, under President Joe Biden, the U.S. put multiple export control measures in place with the specific aim of throttling China’s progress on AI development.
+
+
+DeepSeek appears to have innovated its way to some of its success, developing new and more efficient algorithms that allow the chips in the system to communicate with each other more effectively, thereby improving performance.
+
+
+At least some of what DeepSeek R1’s developers did to improve its performance is visible to observers outside the company, because the model is open source, meaning that the algorithms it uses to answer queries are public.
+
+
+Market reaction
+
+
+The news about DeepSeek’s capabilities sparked a broad sell-off of technology stocks on U.S. markets on Monday, as investors began to question whether U.S. companies’ well-publicized plans to invest hundreds of billions of dollars in AI data centers and other infrastructure would preserve their dominance in the field. When the markets closed on Monday, the tech-heavy Nasdaq index was down by 3.1%, and Nvidia’s share price had plummeted by nearly 17%.
+
+
+However, not all AI experts believe the markets’ reaction to the release of DeepSeek R1 is justified, or that the claims about the model’s development should be taken at face value.
+
+
+Mel Morris, CEO of U.K.-based Corpora.ai, an AI research engine, told VOA that while DeepSeek is an impressive piece of technology, he believes the market reaction has been excessive and that more information is needed to accurately judge the impact DeepSeek will have on the AI market.
+
+
+“There's always an overreaction to things, and there is today, so let's just step back and analyze what we're seeing here,” Morris said. “Firstly, we have no real understanding of exactly what the cost was or the time scale involved in building this product. We just don't know. … They claim that it's significantly cheaper and more efficient, but we have no proof of that.”
+
+
+Morris said that while DeepSeek’s performance may be comparable to that of OpenAI products, “I've not seen anything yet that convinces me that they've actually cracked the quantum step in the cost of operating these sorts of models.”
+
+
+Doubts about origins
+
+
+Lennart Heim, a data scientist with the RAND Corporation, told VOA that while it is plain that DeepSeek R1 benefits from innovative algorithms that boost its performance, he agreed that the general public actually knows relatively little about how the underlying technology was developed.
+
+
+Heim said that it is unclear whether the $6 million training cost cited by High Flyer actually covers the whole of the company’s expenditures — including personnel, training data costs and other factors — or is just an estimate of what a final training “run” would have cost in terms of raw computing power. If the latter, Heim said, the figure is comparable to the costs incurred by better U.S. models.
+
+
+He also questioned the assertion that DeepSeek was developed with only 2,000 chips. In a blog post written over the weekend, he noted that the company is believed to have existing operations with tens of thousands of Nvidia chips that could have been used to do the work necessary to develop a model that is capable of running on just 2,000.
+
+
+“This extensive compute access was likely crucial for developing their efficiency techniques through trial and error and for serving their models to customers,” he wrote.
+
+
+He also pointed out that the company’s decision to release version R1 of its LLM last week — on the heels of the inauguration of a new U.S. president — appeared political in nature. He said that it was “clearly intended to rattle the public’s confidence in the United States’ AI leadership during a pivotal moment in U.S. policy.”
+
+
+Dean W. Ball, a research fellow at George Mason University’s Mercatus Center, was also cautious about declaring that DeepSeek R1 has somehow upended the AI landscape.
+
+
+“I think Silicon Valley and Wall Street are overreacting to some extent,” he told VOA. “But at the end of the day, R1 means that the competition between the U.S. and China is likely to remain fierce, and that we need to take it seriously.”
+
+
+Export control debate
+
+
+The apparent success of DeepSeek has been used as evidence by some experts to suggest that the export controls put in place under the Biden administration may not have had the intended effects.
+
+
+“At a minimum, this suggests that U.S. approaches to AI and export controls may not be as effective as proponents claim,” Paul Triolo, a partner with DGA-Albright Stonebridge Group, told VOA.
+
+
+“The availability of very good but not cutting-edge GPUs — for example, that a company like DeepSeek can optimize for specific training and inference workloads — suggests that the focus of export controls on the most advanced hardware and models may be misplaced,” Triolo said. “That said, it remains unclear how DeepSeek will be able to keep pace with global leaders such as OpenAI, Google, Anthropic, Mistral, Meta and others that will continue to have access to the best hardware systems.”
+
+
+Other experts, however, argued that export controls have simply not been in place long enough to show results.
+
+
+Sam Bresnick, a research fellow at Georgetown’s University’s Center for Security and Emerging Technology told VOA that it would be “very premature” to call the measures a failure.
+
+
+“The CEO of DeepSeek has gone on record saying the biggest constraint they face is access to high-level compute resources,” Bresnick said. “If [DeepSeek] had as much compute at their fingertips as Google, Microsoft, OpenAI, etc, there would be a significant boost in their performance. So … I don't think that DeepSeek is the smoking gun that some people are claiming it is [to show that export controls] do not work.”
+
+
+Bresnick noted that the toughest export controls were imposed in only 2023, meaning that their effects may just be starting to be felt. He said that the real test of their effectiveness will be whether U.S. firms are able to continue to outpace China in coming years.
+
+
+VOA Mandarin Service reporter Adam Xu contributed to this story. 
+
+<br> 
+
+<https://www.voanews.com/a/china-s-deepseek-ai-rattles-wall-street-but-questions-remain-/7952661.html>
+
+---
+
+## January 27 
+
+date: 2025-01-28, from: The Contrarian
+
+Evening Round-up and an exciting new partnership 
+
+<br> 
+
+<https://contrarian.substack.com/p/january-27>
+
+---
+
+## CDC ordered to stop working with WHO immediately
+
+date: 2025-01-28, from: VOA News USA
+
+NEW YORK — U.S. public health officials have been told to stop working with the World Health Organization, effective immediately.
+
+
+A U.S. Centers for Disease Control and Prevention official, John Nkengasong, sent a memo to senior leaders at the agency on Sunday night telling them that all staff who work with the WHO must immediately stop their collaborations and "await further guidance."
+
+
+Experts said the sudden stoppage was a surprise and would set back work on investigating and trying to stop outbreaks of Marburg virus and mpox in Africa, as well as brewing global threats. It also comes as health authorities around the world are monitoring bird flu outbreaks among U.S. livestock.
+
+
+The Associated Press viewed a copy of Nkengasong's memo, which said the stop-work policy applied to "all CDC staff engaging with WHO through technical working groups, coordinating centers, advisory boards, cooperative agreements or other means — in person or virtual." It also says CDC staff are not allowed to visit WHO offices.
+
+
+President Donald Trump last week issued an executive order to begin the process of withdrawing the U.S. from WHO, but that did not take immediate effect. Leaving WHO requires the approval of Congress and that the U.S. meets its financial obligations for the current fiscal year. The U.S. also must provide a one-year notice.
+
+
+His administration also told federal health agencies to stop most communications with the public through at least the end of the month.
+
+
+"Stopping communications and meetings with WHO is a big problem," said Dr. Jeffrey Klausner, a University of Southern California public health expert who collaborates with WHO on work against sexually transmitted infections.
+
+
+"People thought there would be a slow withdrawal. This has really caught everyone with their pants down," said Klausner, who said he learned of it from someone at CDC.
+
+
+"Talking to WHO is a two-way street," he added, noting that the two agencies benefit from each other's expertise. The collaboration allows the U.S. to learn about new tests, new treatments and emerging outbreaks — information "which can help us protect Americans abroad and at home," Klausner said.
+
+
+The CDC details nearly 30 people to WHO and sends many millions of dollars to it through cooperative agreements. The U.S. agency also has some of the world's leading experts in infectious diseases and public health threats, and the two agencies' staffers are in daily contact about health dangers and how to stop them.
+
+
+The collaboration halt isn't the only global health effect of Trump's executive orders. Last week, the president froze spending on another critical program, PEPFAR or the President's Emergency Plan for AIDS Relief.
+
+
+The anti-HIV program is credited with saving 25 million lives, including those of 5.5 million children, since it was started by Republican President George W. Bush. It was included in a Trump administration freeze on foreign aid spending slated to last at least three months.
+
+
+PEPFAR provides HIV medication to more than 20 million people "and stopping its funding essentially stops their HIV treatment," International AIDS Society President Beatriz Grinsztejn said in a statement. "If that happens, people are going to die and HIV will resurge."
+
+
+A U.S. health official confirmed that the CDC was stopping its work with WHO. The person was not authorized to talk about the memo and spoke on condition of anonymity.
+
+
+A WHO spokesperson referred questions about the withdrawal to U.S. officials.
+
+
+Officials at the U.S. Department of Health and Human Services didn't immediately respond to an emailed request for comment. And CDC officials didn't respond to the AP's request to speak with Nkengasong about the memo. 
+
+<br> 
+
+<https://www.voanews.com/a/cdc-ordered-to-stop-working-with-who-immediately/7952673.html>
+
+---
+
+## "Talking Feds" has joined forces with The Contrarian! 
+
+date: 2025-01-28, from: The Contrarian
+
+Enjoy last week's episode, "A Cold Day in Hell," from January 20th, featuring Contrarians Jen Rubin, Norm Eisen, Jonathan Alter, and host Harry Litman 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155887180/e7521c27591fd5f86de1b3c8e14ee0c1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155887180/e7521c27591fd5f86de1b3c8e14ee0c1.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/talking-feds-has-joined-forces-with>
+
+---
+
+## Google Maps to rename 'Gulf of Mexico' to 'Gulf of America' for US users
+
+date: 2025-01-28, from: VOA News USA
+
+WASHINGTON — Google Maps will change the name of "Gulf of Mexico" to "Gulf of America" once it is officially updated in the U.S. Geographic Names System, it said in an X post on Monday.
+
+
+The change will be visible in the U.S., but it will remain "Gulf of Mexico" in Mexico. Outside of the two countries, users will see both names.
+
+
+The Trump administration's Interior Department said on Friday it had officially changed the name of the Gulf of Mexico to the Gulf of America, and the Alaskan peak Denali to Mount McKinley.
+
+
+Google Maps, which is owned by Alphabet's Google, will make a similar change with Mount McKinley.
+
+
+President Donald Trump ordered the name changes as part of a flurry of executive actions hours after taking office last Monday, making good on a campaign promise.
+
+
+"As directed by the President, the Gulf of Mexico will now officially be known as the Gulf of America and North America's highest peak will once again bear the name Mount McKinley," the Interior Department said in a statement last week. 
+
+<br> 
+
+<https://www.voanews.com/a/google-maps-to-rename-gulf-of-mexico-to-gulf-of-america-for-us-users/7952630.html>
+
+---
+
+## Full-scale replica of Anne Frank's hidden annex opens in New York City
+
+date: 2025-01-28, from: VOA News USA
+
+NEW YORK — A full-scale replica of the secret annex where Anne Frank penned her famous diary opened in New York City on Monday as the world marked International Holocaust Remembrance Day.
+
+
+The exhibit at the Center for Jewish History in Manhattan represents the first time the annex has been completely recreated outside of Amsterdam, where the space is a central part of the Anne Frank House museum.
+
+
+But while the original annex has been intentionally left empty, the New York reconstruction shows the five rooms as they would have looked while the Frank family and others lived in hiding.
+
+
+The spaces are filled with furniture and possessions, including a reconstruction of the writing desk where Frank wrote her diary.
+
+
+
+
+Ronald Leopold, director of the Anne Frank House, said furnishing the recreated space was important to tell Anne's story in a new and immersive way, especially for those who may not get to visit the Amsterdam museum, which also houses Frank’s original diary.
+
+
+“We very much hope that we will be able to touch people’s hearts here, because education is the focus of this exhibition,” Leopold said at Monday's opening. “And education starts with empathy — empathy with what happened here, what happened in Amsterdam during those years, what was done to Anne Frank.”
+
+
+The Frank family hid with other Jews for two years in the attic of patriarch Otto Frank’s office in Amsterdam as the Nazi German army occupied the Netherlands during World War II.
+
+
+They were eventually discovered in 1944 and sent to concentration camps, including Auschwitz-Birkenau, which was liberated by Soviet troops 80 years ago Monday. Anne and her older sister Margot died of typhus at the Bergen-Belsen concentration camp in 1945.
+
+
+
+
+Their father, Otto, was the only person from the annex to survive the Holocaust. After the war, he published his 15-year-old daughter’s diary, which is considered one of the most important works of the 20th century. Frank died in 1980 at the age of 91.
+
+
+Hannah-Milena Elias, the granddaughter of Anne Frank’s cousin, Buddy Elias, said she found it emotional walking through the exhibit rooms.
+
+
+“It is quite overwhelming and quite touching to see what a tiny space the families had to stay in and live for more than two years,” said the 29-year-old, who lives in Switzerland.
+
+
+
+
+Her sister, Leyv-Anouk Elias, hoped the exhibit would encourage visitors to reflect on what it means to face discrimination or be a minority today.
+
+
+“History, unfortunately, is repeating itself in different ways,” the 27-year-old Berlin resident said. “We have to be very, very careful how to act and to do stuff against it, to not ever make this happen again.”
+
+
+The New York exhibit, which runs through April 30, spans more than 696 square meters (7,500 square feet) and includes more than 100 photos and other artifacts — many never before displayed publicly, according to officials.
+
+
+
+
+Among the items are Anne Frank’s first photo album and her handwritten poetry, as well as a replica of her famous diary. There are also nearly 80 translated editions of her diary and even the Oscar won by Shelley Winters for the 1959 film The Diary of Anne Frank.
+
+
+The installation is presented chronologically, tracing the Frank family's life in Germany through the rise of the Nazi regime, the family’s flight to Amsterdam and their life in hiding and eventual capture.
+
+
+Henry Byrne, a junior at Xavier, a Catholic high school in Manhattan, said learning about the family's saga helped him grasp the enormity of the Holocaust.
+
+
+“It taught me a lot about how just because you see one story, walk into these rooms and all the beds and the tables, that’s just one person’s life," the 16-year-old said. "And there were millions that were lost.” 
+
+<br> 
+
+<https://www.voanews.com/a/full-scale-replica-of-anne-frank-s-hidden-annex-opens-in-new-york-city/7952619.html>
+
+---
+
+## VOA Mandarin: Americans and Chinese are comparing living costs at Xiaohongshu
+
+date: 2025-01-28, from: VOA News USA
+
+In mid-January, a wave of U.S. users migrated to China’s platform Xiaohongshu due to the TikTok ban, engaging in an unexpected “cost-of-living comparison” with Chinese users. Despite higher wages, many Americans found their living expenses made life harder than in China. However, analysts caution that such comparisons, while straightforward, may not align with more rigorous economic data.
+
+
+Click here for the full report in Mandarin. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-mandarin-americans-and-chinese-are-comparing-living-costs-at-xiaohongshu-/7952374.html>
+
+---
+
+## VOA Mandarin: What is Stargate? Is China catching up in AI?
+
+date: 2025-01-28, from: VOA News USA
+
+The multibillion-dollar Stargate Project announced by U.S. President Donald Trump will focus on building data centers with the goal of turning the U.S. into a computing power empire, according to experts.
+
+
+Some believe the significant boost in U.S. computational capabilities will widen the gap with China in artificial intelligence.
+
+
+“And this is an industrial buildout that, at least right now, China really is not in a position to do because of the [semiconductor] export controls that the United States is placing,” said Dean W. Ball, a research fellow at George Mason University’s Mercatus Center. However, there are signs that China is catching up with U.S. companies in key AI metrics by relying on open-source software.
+
+
+Click here for the full report in Mandarin. 
+
+<br> 
+
+<https://www.voanews.com/a/7952611.html>
+
+---
+
+## Scott Bessent wins Senate confirmation as US Treasury secretary
+
+date: 2025-01-28, from: VOA News USA
+
+The U.S. Senate on Monday confirmed Scott Bessent to be President Donald Trump's Treasury secretary, giving the billionaire hedge fund manager a central role in shaping the new administration's policy ambitions around tax cuts and spending and managing economic relationships with allies and adversaries alike.
+
+
+As the 79th Treasury secretary, Bessent will have sway over the nation's tax collections and its $28 trillion Treasury debt market, with vast influence over fiscal policy, financial regulations, international sanctions and investments from overseas.
+
+
+The vote was 68-29, with 16 Democrats supporting the nomination.
+
+
+Bessent, 62, is already shaping up to be a forceful advocate for Trump's economic agenda, which centers on reducing taxes and imposing steep tariffs that Democrats, and some economists, argue could undo some of the progress the Federal Reserve has made in getting inflation under control.
+
+
+In his confirmation hearing, Bessent warned that failure to renew $4 trillion in tax cuts expiring at the end of this year would be a "calamity" for middle-class Americans, and made the case that tariffs would help combat unfair trade practices, increase revenues, and bolster U.S. leverage in international negotiations.
+
+
+He also pushed back against the idea that Trump's policies would be inflationary, and said that the administration's efforts to increase oil production would actually help bring down prices.
+
+
+As Trump's top economic official, Bessent will face a range of challenges, the most immediate of which will be managing federal cash flows after the government hit its statutory debt limit on Trump's second day in office. Even before he was sworn in, the Treasury Department was using "extraordinary measures" to avoid breaching the cap and triggering a catastrophic default. Bessent told senators in his confirmation hearing that there would be no default on his watch.
+
+
+Bessent will also need to deal with the prospect of rising budget deficits and added government debt estimated to run into the trillions of dollars, if tax cut extensions and other promised tax breaks cannot be offset by revenue increases or spending cuts. If precedent holds, he will be a central actor working with Congress on the size and shape of any tax reforms.
+
+
+More than 60% of the federal debt is scheduled to roll over on his watch — and that's before taking into account issuance growth that has been running at more than $2 trillion a year since the COVID-19 pandemic.
+
+
+'Out of control'
+
+
+Worries about rising budget deficits and stickier inflation have in recent weeks sent long-term bond yields up as investors demand more compensation for risk. That in turn has driven up the average rate on 30-year fixed-rate mortgages to more than 7%, a pain point with saliency for Americans looking to buy a home.
+
+
+Bessent used his confirmation hearing to talk tough on deficits, declaring that government spending is "out of control," though it is not clear how much he could do to rein it in. He backed Trump's pledge not to touch the Social Security retirement program and Medicare insurance plan for seniors, among the biggest line items in the federal budget, along with interest expense, determined by market rates that the Treasury does not control.
+
+
+Born and raised in South Carolina, Bessent says he still listens to farm radio. He earned a bachelor's degree in political science from Yale University and has spent his career in finance, working for investors George Soros and Jim Chanos, and running his own firm Key Square. Bessent — as fifth in line to the presidency — is also the highest ranking openly gay federal official in history. He is married with two children. 
+
+<br> 
+
+<https://www.voanews.com/a/scott-bessent-wins-senate-confirmation-as-us-treasury-secretary/7952378.html>
+
+---
+
+## Earthquake rattles houses in Maine, felt as far away as Pennsylvania
+
+date: 2025-01-27, from: VOA News USA
+
+SCARBOROUGH, Maine — A 3.8-magnitude earthquake centered near the Maine coast rattled houses in northern New England on Monday and was felt by surprised residents of states hundreds of miles away. 
+
+
+The earthquake took place at about 10:22 a.m. Monday and was centered about six miles (10 kilometers) southeast of York Harbor in southern Maine, the United States Geological Survey reported. It was reported at a depth of about eight miles (13 kilometers) the survey said. 
+
+
+Officials said the quake could be felt in every state in New England and as far away as Pennsylvania. In southern Maine, many residents reported feeling houses and buildings shake as the surprising earthquake interrupted a sunny winter morning. 
+
+
+The quake sent residents and officials in Maine and New Hampshire looking to assess any possible damage. In most cases, residents and businesses reported confusion over what had happened. Many shared stories on social media indicating they initially thought there may have been a nearby car accident or possibly an explosion. 
+
+
+The Maine Emergency Management Agency asked residents to only call 911 in the event of an emergency. The earthquake did not appear to cause any major damage, said Vanessa Corson, a spokesperson for the agency. Corson also said local emergency management agencies did not report any damage. 
+
+
+New Hampshire’s Department of Safety said the state's 911 number did not receive any calls about damage or injuries. 
+
+
+“We have not received word of any issues. We’ve spoken with the directors at York and Cumberland County EMA, and everything seems to be in order,” Corson said. 
+
+
+Justine Wenger, a freelance copywriter working from her Scarborough home, said she was texting with a friend when she felt the earthquake. The vibrations lasted about 30 seconds and shook her house. At first, she thought it was a passing truck, then feared her furnace might blow up so she went out onto her deck. 
+
+
+“I wasn’t terrified, but this felt different than a normal rumbling,” she said. “It felt substantial. There was an instinct to get out of the house.” 
+
+
+Authorities said residents who felt the earthquake could report it to the USGS website. Earthquakes in the center and eastern parts of the U.S. are less frequent than in western states, but they are typically felt over a much broader region, the survey said on its website. 
+
+
+It’s common for there to be two small earthquakes a year in New England, the survey said. A slightly stronger earthquake based in New Jersey shook the Northeast in April. 
+
+
+“People in New England, and in its geological extension southward through Long Island, have felt small earthquakes and suffered damage from infrequent larger ones since colonial times,” according to the survey’s website. 
+
+
+An earthquake of close to 4.0 or slightly higher in magnitude in the Northeast states “is not particularly common, but it’s not all that rare, either,” said Maureen Long, the chair of the Department of Earth and Planetary Sciences at Yale University. Long cited the April earthquake in New Jersey as an example. 
+
+
+A 2002 earthquake in upstate New York was measured at a magnitude of 5.1. There was also a magnitude 4.7 event near Hollis Center, Maine, in 2012, Long said. 
+
+
+Residents of cities including Boston and Providence, Rhode Island, also reported feeling the quake. 
+
+
+In Kennebunk, Maine, school superintendent Terri Cooper assured parents via e-mail that staff was looking through schools for any damage and everything seemed fine. 
+
+
+“Our operations department has checked all district buildings and systems to ensure they are in working order and no damage has been discovered,” Cooper’s e-mail said. 
+
+<br> 
+
+<https://www.voanews.com/a/earthquake-rattles-houses-in-maine-felt-as-far-away-as-pennsylvania/7952380.html>
+
+---
+
+## VOA Spanish: US Embassy in Bogota is not processing visa applicants
+
+date: 2025-01-27, from: VOA News USA
+
+Due to the dispute between the governments of Colombia and the United States, appointments for thousands of visa applicants at the US embassy in Bogota have been suspended. What is the situation and what response have visa applicants received? We report on it here.
+
+
+Click her for the full story in Spanish. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-spanish-us-embassy-in-bogota-is-not-processing-visa-applicants-/7952357.html>
+
+---
+
+## VOA Spanish: What does Rubio's visit mean for Panama amid Canal controversy?
+
+date: 2025-01-27, from: VOA News USA
+
+The trip by U.S. Secretary of State Marco Rubio to countries in the region, including Panama, coincides with President Donald Trump's repeated intention to regain control of the interoceanic canal. Panama is opposed.
+
+
+Click here for the full story in Spanish. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-spanish-what-does-rubio-s-visit-mean-for-panama-amid-the-canal-controversy-/7952349.html>
+
+---
+
+## Woman gets more than 3-year prison term in ‘US birthright tourism’ case
+
+date: 2025-01-27, from: VOA News USA
+
+Los Angeles — A California woman was sentenced Monday to more than 3 years in prison in a long-running case over a business that helped pregnant Chinese women travel to the United States to deliver babies who automatically became American citizens. 
+
+
+
+U.S. District Judge R. Gary Klausner gave Phoebe Dong a 41-month sentence and ordered her immediately taken into custody from his federal court in Los Angeles. Dong and her husband were convicted in September of conspiracy and money laundering through their company, USA Happy Baby. 
+
+
+The sentencing came as birthright citizenship has been thrust into the spotlight in the United States with the return of President Donald Trump to the White House. Since taking office, Trump issued an executive order to narrow the definition of birthright citizenship, a move quickly blocked by a federal judge who called it “blatantly unconstitutional.” 
+
+
+Dong and her husband, Michael Liu, were among more than a dozen people charged in an Obama-era crackdown on so-called “birth tourism” schemes that helped Chinese women hide their pregnancies while traveling to the United States to give birth. Such businesses have long operated in various states catering to people from China, Russia, Nigeria and elsewhere. 
+
+
+Under the 14th Amendment, any child born in the United States is an American citizen. Many have seen these trips as a way to help their children secure a U.S. college education and a better future — especially since the tourists themselves can apply for permanent residency once the children turn 21. 
+
+
+During her sentencing hearing, Dong wiped away tears as she recalled growing up without siblings due to China’s strict “one-child” policy and told the court that the Chinese government forced her mother to have an abortion. Moving to the United States was challenging, she said, but Dong grew hopeful after having children of her own and saw she could help Chinese women who want to have additional children in California. 
+
+
+“I don’t want to lose my kids,” she told the court. “I hope you can give me fair judgment. I will take all my responsibility.” 
+
+
+Federal prosecutors sought a more than five-year sentence for Dong and argued that she and Liu helped more than 100 pregnant Chinese women travel to the United States. They said the pair worked with others to coach women on how to trick customs officials by flying into airports believed to be more lax while wearing loose-fitting clothing to hide their pregnancies. 
+
+
+“For tens of thousands of dollars each, defendant helped her numerous customers deceive U.S. authorities and buy U.S. citizenship for their children,” prosecutors said in court filings. They declined to comment after the sentencing. 
+
+
+In December, Liu was also sentenced to 41 months in prison. Dong's lawyer, John McNicholas, asked that she be allowed to serve her term after Liu completes his sentence because of their three children. The youngest is 13. 
+
+
+Federal prosecutor Kevin Fu agreed to the delay, but Klausner refused and had her taken into custody immediately. Dong removed a necklace and gave it to a family member before she was led away. 
+
+
+The USA Happy Baby case was part of a broader probe into businesses that helped Chinese women travel to give birth in California. The operator of another business is believed to have fled to China, McNicholas wrote in court filings, while another was sentenced in 2019 to 10 months in prison after pleading guilty to conspiracy and visa fraud for running the company known as “You Win USA.” 
+
+
+McNicholas said he feels Dong was given a much longer sentence because the government and Klausner blame her for the babies that were born U.S. citizens. That, he said, is unrelated to the allegations that she and Liu helped women travel to the United States to give birth. 
+
+
+“Our position was these children are born in America. They’re citizens,” McNicholas said, adding that Dong will appeal. “Implicitly, he’s saying being born here is not enough.” 
+
+<br> 
+
+<https://www.voanews.com/a/woman-gets-more-than-3-year-prison-term-in-us-birthright-tourism-case/7952350.html>
+
+---
+
+## Live w/Jennifer Rubin!
+
+date: 2025-01-27, from: The Contrarian
+
+A recording from Jennifer Rubin and Alisyn's live video 
+
+<br> 
+
+<https://contrarian.substack.com/p/live-wjennifer-rubin>
+
+---
+
+## Tell Me, How Many Bitcoins Are in the Room With You Right Now?
+
+date: 2025-01-27, from: The Contrarian
+
+On the mysterious world of cryptocurrency, trader Sam Bankman-Fried, and a related, alarming executive edict from Trump about a world he doesn't understand 
+
+<br> 
+
+<https://contrarian.substack.com/p/tell-me-how-many-bitcoins-are-in>
+
+---
+
+## Welcome to Cumberland County, Tennessee, the “future” of the U.S. economy
+
+date: 2025-01-27, from: Market Place
+
+If demographics are destiny, then what’s happening here is eventually going to play out all over the country.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/27/cumberland-county-tennessee-aging-population-future-economy/>
+
+---
+
+## Israel has high expectations for Trump’s second term
+
+date: 2025-01-27, from: VOA News USA
+
+Israel’s leaders have high expectations for President Donald Trump’s second term, and analysts say Israeli officials hope his unconventional approach to foreign policy will get them the results they want on their top security priorities. But as Linda Gradstein reports from Jerusalem, Trump’s push for a peace deal with Saudi Arabia could cause tensions with the Jewish state. VOA footage by Ricki Rosen. 
+
+<br> 
+
+<https://www.voanews.com/a/israel-has-high-expectations-for-trump-s-second-term/7952205.html>
+
+---
+
+## Jen Rubin interviews Adam Kinzinger
+
+date: 2025-01-27, from: The Contrarian
+
+"Don't carry the burden of the world on your shoulders, because look, it's all of us together...let's not divide ourselves among this pro-democracy coalition because we have differences of opinion." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155870175/da127e0fb00d0bfc0e38010bb8120bd1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155870175/da127e0fb00d0bfc0e38010bb8120bd1.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-interviews-adam-kinzinger>
+
+---
+
+## What If AI Can’t Solve Climate Change?
+
+date: 2025-01-27, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjAwMjE4Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5NDU1Mjk0MH0.ZCLIKe7CleAgJMPP6U9nuFU9CHmqFkjpFeprvYUruZ4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Today’s internet is inundated with “<a href="https://www.cnet.com/tech/services-and-software/the-new-ai-buzzword-is-slop-and-its-messing-with-you-what-to-watch-out-for/" rel="noopener noreferrer" target="_blank"><u>AI slop</u></a>,” and mocking the often bizarre outputs produced of language models (recall the Google AI that <a href="https://www.theverge.com/2024/5/30/24168344/google-defends-ai-overviews-search-results" rel="noopener noreferrer" target="_blank"><u>recommended</u></a> making pizza with glue) has become an online pastime. Yet artificial intelligence advocates have not been deterred from their claims of a utopian future made possible by AI. Whatever problems we face — including climate change — one day, we are told, they will be solved by the magical power of computing. The breathless headlines have been around for years: “<a href="https://www.nationalgeographic.com/environment/article/artificial-intelligence-climate-change" rel="noopener noreferrer" target="_blank"><u>How artificial intelligence can tackle climate change</u></a>”; “<a href="https://www.cnn.com/2023/11/26/tech/ai-climate-solutions/index.html" rel="noopener noreferrer" target="_blank"><u>How AI could power the climate breakthrough the world needs</u></a>”; “<a href="https://www.technologyreview.com/2019/06/20/134864/ai-climate-change-machine-learning/" rel="noopener noreferrer" target="_blank"><u>Here are 10 ways AI could help fight climate change</u></a>”; “<a href="https://www.weforum.org/stories/2024/02/ai-combat-climate-change/" rel="noopener noreferrer" target="_blank"><u>9 ways AI is helping tackle climate change</u></a>.”</p><p>Like much of the hype around AI, the specifics aren’t necessarily wrong. AI <em><em>could</em></em> help us <a href="https://collections.unu.edu/eserv/UNU:9738/Harnessing_the_Power_of_AI__Obringer__2024_.pdf" rel="noopener noreferrer" target="_blank"><u>understand</u></a> the impacts of climate change more comprehensively, and <em><em>can</em></em> be used to locate solutions to particular challenges in technology and manufacturing. But as the extraordinary energy demands AI will impose on our system are coming into focus, and as some of the most important corporate AI leaders<a href="https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41" rel="noopener noreferrer" target="_blank"><u> join hands</u></a> with what could be the most anti-environment administration in history, the big picture problem becomes even clearer. Artificial intelligence can’t solve climate change because doing so will always require passing through the bottleneck of politics. </p><p>For those hoping to bring us to a glorious future guided by superintelligent computers, claiming that AI will solve climate change has become more urgent as the energy demands of the technology increase. Google <a href="https://edition.cnn.com/2024/07/03/tech/google-ai-greenhouse-gas-emissions-environmental-impact/index.html" rel="noopener noreferrer" target="_blank"><u>reported</u></a> last summer that since 2019, its emissions have increased by 48% because of its use of AI. The International Energy Agency <a href="https://www.iea.org/reports/electricity-2024/executive-summary" rel="noopener noreferrer" target="_blank"><u>projects</u></a> that by 2026, AI will consume 1,000 terawatt-hours of electricity, as much as the entire nation of Japan, the world’s fourth-largest economy. Countries around the world are rushing to develop their own AI systems (the surprising capabilities of a new Chinese system called DeepSeek just sent the stock market <a href="https://www.cnn.com/2025/01/27/tech/deepseek-stocks-ai-china/index.html" rel="noopener noreferrer" target="_blank"><u>tumbling</u></a>), any of which could entail the same scale of energy demand as the ones created by American tech giants.</p><p>But imagine if we could snap our fingers and make that problem disappear? That’s what OpenAI CEO Sam Altman suggested in a recent <a href="https://www.bloomberg.com/features/2025-sam-altman-interview" rel="noopener noreferrer" target="_blank"><u>interview</u></a> with <em><em>Bloomberg</em></em>. “Fusion’s going to work,” he said when asked about AI’s energy demands, going on to say that “quickly permitting fusion reactors” is the answer — particularly those made by Helion Energy, a company whose executive chairman is, you guessed it, Sam Altman. </p><p>Of course, Helion has no fusion reactors to permit yet because no one does. Fusion’s promise of essentially limitless clean energy at low cost is tantalizing, which is why billions of public and private dollars have been <a href="https://heatmap.news/technology/fusion" target="_self"><u>invested</u></a> in fusion research. But while technological gains are being made, there is still a great deal of uncertainty about how long it will take until fusion can reach commercial scale. It might be 10 years, or 20, or 50 or 100 — no one knows for sure. </p><p>But blithely insisting that incredibly complex problems will be solved easily and quickly is a specialty of tech barons. And if AI itself finds the solution to our energy problems? Even better. </p><p>There’s no question that AI is improving at a rapid pace, even if there are some things it’s still terrible at. And when it comes to climate, over time it will probably help produce incremental gains across a wide number of areas, from manufacturing efficiency to <a href="https://www.archdaily.com/1012951/artificial-intelligence-and-urban-planning-technology-as-a-tool-for-city-design" rel="noopener noreferrer" target="_blank"><u>urban planning</u></a>. But the more dramatic and consequential any idea is — whether it comes from AI or not — the more likely it is that it will have to move through the political process in order to be implemented.</p><p>And that’s where AI can’t help. A machine learning system can’t tell you the precise formula to please a recalcitrant senator or navigate a hundred city councils with different ideas about what kinds of clean energy projects they’ll allow in their towns. Politics is about people — their goals, their incentives, their fears, their prejudices — and it’s far too messy to be solved with numeric calculation, even by the most powerful AI system imaginable.</p><p>Let’s say that a year from now, an AI came up with both an entirely new way to design a fusion reactor and a revolutionary battery design that offered longer and denser storage, together solving so many of the problems scientists and engineers struggle with today. How would the fossil fuel industry react to this development? Would it say, “Oh well, oil and gas had a pretty good run, but now the world can move on”?</p><p>Of course not. It would use its extraordinary resources to battle against their competition, just as they always have. That’s what it did in the last election cycle, when it spent <a href="https://climatepower.us/research-polling/big-oil-spent-450-million-to-influence-trump-the-119th-congress/" rel="noopener noreferrer" target="_blank"><u>$450 million</u></a> on campaigns and lobbying to preserve the industry and the riches it generates. </p><p>And while many hoped that the Republican Party would moderate its views on climate, at the moment it looks more like it is going backward — not just looking to undo every bit of progress made under the Biden administration, but also undermining renewable energy wherever it can. President Trump seems determined to <a href="https://heatmap.news/plus/the-fight/spotlight/trump-executive-order-wind" target="_self"><u>destroy wind energy</u></a> in America, which has been growing rapidly in recent years. Whether he succeeds will be up to the political system, not the inherent usefulness of a millennium-old technology. </p><p>In politics, good ideas don’t always win out. Who has power and what they are after will always matter a great deal, as Trump and the people he is bringing into the federal government are showing us right now.</p><p>AI can be a tool that helps us reduce emissions and mitigate the effects of climate change; the fact that its boosters regularly offer absurdly optimistic timelines for societal transformation doesn’t mean the underlying technology isn’t remarkable. But “solving” climate change isn’t merely a technological problem. It will always be a political one as well, and even the smartest piece of software won’t solve it for us.</p> 
+
+<br> 
+
+<https://heatmap.news/politics/ai-climate-politics>
+
+---
+
+## Trump's sanctions could force Russia's Putin to negotiating table, some experts say
+
+date: 2025-01-27, from: VOA News USA
+
+WASHINGTON — On Jan. 22, Donald Trump — just two days after being inaugurated for his second term as U.S. president — again called on Russian President Vladimir Putin to negotiate an end to the "ridiculous" war with Ukraine, but this time he added a threat.
+
+
+"If we don't make a 'deal,' and soon, I have no other choice but to put high levels of Taxes, Tariffs, and Sanctions on anything being sold by Russia to the United States, and various other participating countries," Trump wrote on his social media platform, Truth Social.
+
+
+The following day, Trump told reporters that Ukrainian President Volodymyr Zelenskyy had told him he’s ready to negotiate an end to the war. In an interview with Fox News aired that same day, Trump said Zelenskyy is "no angel" and “shouldn't have allowed this war to happen.”
+
+
+Does the new U.S. administration have sufficient economic leverage over Russia to force it to make peace, or at least talk about peace?
+
+
+According to Konstantin Sonin, John Dewey distinguished service professor at the University of Chicago Harris School of Public Policy and former vice rector of Moscow’s Higher School of Economics, the U.S. has economic leverage, but some of its levers are clearly weaker than others.
+
+
+"Russia's trade with the U.S. is very small — less than $3 billion a year," he told Danila Galperovich of VOA’s Russian Service. "Accordingly, even if any opportunity for U.S. companies to trade with Russia is completely closed, the damage to Russia will be small. There is an opportunity to strengthen secondary sanctions — that is, additional pressure, first of all, on China, on India, on other countries, so that they more strictly comply with the primary sanctions.
+
+
+"There is also an opportunity to continue what [former U.S. President Joe] Biden did with sanctions against the Russian shadow tanker fleet," Sonin added, referring to vessels that Russia uses to sell oil and evade Western sanctions.
+
+
+"This requires great international cooperation, but, in principle, it can be done," said Sonin.
+
+
+Economist Vladislav Inozemtsev, a special adviser to the Russian Media Studies Project at MEMRI, a Washington, D.C.-based think tank, and director of the Moscow-based Center for Post-Industrial Studies, also stressed the significance of secondary sanctions on countries that do business with Russia.
+
+
+"Trump can somehow influence other countries so that they do not buy Russian products,” Inozemtsev told VOA. “For example, let's say he can say that if India buys Russian oil, then the United States will impose 15% duties on all goods from India. This would have the most radical consequences. [I]f… countries trading with Russia are getting serious problems in the United States for all their products, then I think that this will be a very sobering moment. If it is possible to impose a virtually complete trade blockade through U.S. sanctions, then these will be devastating sanctions, of course."
+
+
+Sonin said that, over the longer term, deregulating oil production internationally would reduce world oil prices and thereby hinder Moscow’s ability to finance its military operations against Ukraine.
+
+
+"Trump is famous for his good relations with Saudi Arabia, although they are unlikely to be so good that they will reduce oil prices at his request," he said. "But nevertheless, it is possible to work towards lowering oil prices, which even without sanctions will reduce Russian income."
+
+
+Trump spoke with Saudi Crown Prince Mohammed bin Salman in a Jan. 22 telephone call.
+
+
+Still, Sonin said that economic levers, in and of themselves, cannot force Putin to do anything. "I would say that the most direct impact is still the supply of more powerful weapons to Ukraine. I do not know to what extent Trump wants to do this, but he mentioned it, and, in principle, it is possible to supply Ukraine with more powerful weapons in larger quantities."
+
+
+Inozemtsev, however, said that Putin, who has not previously changed his behavior in response to ultimatums, could do so this time.
+
+
+"Trump is a person whose degree of radicalism and unpredictability corresponds to Putin's," he said. "Here, perhaps, it would be better for Putin to change his mind a bit. If Trump offers him: 'Vladimir, let's go, we'll meet there, sit down at the negotiating table, bring your team, I'll bring mine, and we'll agree on something, we'll discuss it for a day or two, but the issue needs to be resolved,' I think Putin will go." 
+
+<br> 
+
+<https://www.voanews.com/a/trump-sanctions-could-force-russia-putin-to-negotiating-table-some-experts-say/7952066.html>
+
+---
+
+## China’s DeepSeek Ends the Party for U.S. Energy Stocks
+
+date: 2025-01-27, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTk5ODAyOS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0NTI0MjcwOX0.wy9pZ8gIj8YbRCBEtspKggrzhHxhmUL--WhF_RJdciY/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>It’s not just tech stocks that are reeling after the release of Chinese artificial intelligence company DeepSeek’s open-source R1 model, which performs similarly to state-of-the-art models from American companies while using less expensive hardware far more efficiently. Energy and infrastructure companies — whose share prices had soared in the past year on the promise of powering a massive artificial intelligence buildout — have also seen their stock prices fall early Monday.</p><p>Shares in GE Vernova, which manufactures turbines for gas-fired power plants, were down 19% in early trading Monday. Since the company’s spinoff from GE last April, the share price had risen almost 200% through last Friday, largely based on optimism about its <a href="https://heatmap.news/economy/ge-vernova-natural-gas-ai" target="_self"><u>ability to supply higher electricity demand</u></a>. Oklo, the advanced nuclear company backed by OpenAI chief executive Sam Altman, is down 25%, after rising almost 300% in the past year. Constellation Energy, the independent power producer that’s <a href="https://heatmap.news/economy/microsoft-three-mile-island-nuclear-constellation" target="_self"><u>re-powering Three Mile Island</u></a> in partnership with Microsoft, saw its shares fall almost 20% in early trading. It had risen almost 190% in the year prior to Monday.</p><p>“DeepSeek’s power implications for AI training punctures some of the capex euphoria which followed major commitments from Stargate and Meta last week,” Jefferies infrastructure analyst Graham Hunt and his colleagues wrote in a note to clients Monday. “With DeepSeek delivering performance comparable to GPT-4 for a fraction of the computing power, there are potential negative implications for the builders, as pressure on AI players to justify ever increasing capex plans could ultimately lead to a lower trajectory for data center revenue and profit growth.”</p>
+<p>Investors fear that the proliferation of cheaper, more efficient models may hurt the prospects of technology companies — and their suppliers — that are spending tens if not hundreds of billions of dollars on artificial intelligence investments.</p><p>Just last week, both Altman and Mark Zuckerberg, the founder and chief executive of Meta, announced huge new investments in artificial intelligence infrastructure.</p><p>Altman’s OpenAI is part of Stargate, the joint venture with Microsoft and SoftBank that got a splashy White House-based announcement and <a href="https://openai.com/index/announcing-the-stargate-project/" rel="noopener noreferrer" target="_blank"><u>promises to invest $500 billion in artificial intelligence infrastructure</u></a>. There was already some skepticism of these numbers, with Altman-nemesis Elon Musk charging that certain members would be <a href="https://www.bloomberg.com/news/articles/2025-01-22/musk-says-firms-backing-trump-ai-initiative-don-t-have-the-money" rel="noopener noreferrer" target="_blank"><u>unable to fulfill their ends of the deal</u></a>, Microsoft Chief Executive Satya Nadella <a href="https://www.theverge.com/2025/1/22/24349798/satya-nadella-on-elons-stargate-accusations-all-i-know-is-im-good-for-my-80-billion" rel="noopener noreferrer" target="_blank"><u>told CNBC from Davos</u></a>, “I’m good for my $80 billion.”</p><p>Zuckerberg, meanwhile, <a href="https://www.facebook.com/zuck/posts/pfbid034qCLXYjAC7vjhWHoin1iyzdx4GkUtH6xPkrkvLUmTreDAmspWsUbrmrGb17DfFyvl" rel="noopener noreferrer" target="_blank"><u>said late last week</u></a> that his company was building a data center “so large it would cover a significant part of Manhattan,” which would require 2 gigawatts of electricity to power. (For scale, reactors 3 and 4 of the Vogtle nuclear plant in Georgia are a little over 1 gigawatt each.) He also said that Meta had planned up to $65 billion of capital expenditure this year.</p><p>These escalating announcements have been manna to investors in any company that provides the building blocks for large artificial intelligence systems — namely chips and energy, with companies like Nvidia, the chip designer, and power companies and energy infrastructure companies posting some of the <a href="https://heatmap.news/economy/ge-vernova-natural-gas-ai" target="_self"><u>best stock market performances</u></a> last year.</p>
+<p>But exactly how cheaper artificial intelligence plays out in terms of real investment remains to be seen. Late Sunday night Redmond, Washington-time, Nadella posted a <a href="https://x.com/satyanadella/status/1883753899255046301" rel="noopener noreferrer" target="_blank"><u>link on X</u></a> to the Wikipedia page for Jevons Paradox. The idea <a href="https://www.newyorker.com/magazine/2010/12/20/the-efficiency-dilemma" target="_blank"><u>dates from 19th century Britain</u></a>, and posits that increased efficiency in using a resource (in Jevons’ case, coal) could actually accelerate its depletion, as the resource becomes cheaper for the same economic output, encouraging more use of it (in Jevons’ case, iron).</p><p>“Jevons paradox strikes again!,” Nadella wrote. “As AI gets more efficient and accessible, we will see its use skyrocket, turning it into a commodity we just can't get enough of.”</p><p>Investors in chips and energy companies are hoping that’s the case; at least so far, the market doesn’t appear to agree. </p> 
+
+<br> 
+
+<https://heatmap.news/sparks/deepseek-ge-vernova-oklo-constellation>
+
+---
+
+## Under a New Law, California Schools Hope Insurance Changes Lead to More Student Therapy
+
+date: 2025-01-27, from: Capital and Main
+
+<p>In areas like California’s rural Shasta County, school campuses may be the most effective places to care for children’s mental health needs, and such care will now be covered by insurance.</p>
+<p>The post <a href="https://capitalandmain.com/under-a-new-law-california-schools-hope-insurance-changes-lead-to-more-student-therapy">Under a New Law, California Schools Hope Insurance Changes Lead to More Student Therapy</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/under-a-new-law-california-schools-hope-insurance-changes-lead-to-more-student-therapy>
+
+---
+
+## This Startup Finds Critical Minerals in the Unlikeliest of Places
+
+date: 2025-01-27, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTk5OTI5Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3MTE5OTQyNn0.8idd3qGIhC8cZv0M2Cxb2yq9Qvd1LAGt-zXlqCT-WIw/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">A century ago, prospectors tromped through remote areas, hoping to spot valuable, mineralized rocks simply poking out of the ground. Eventually, after they found all of the obvious stuff, they progressed to doing airborne geophysical surveys that used tools such as electromagnetic sensing to identify minerals that were just below the surface or highly concentrated. But there’s always been a lot more out there than we had the mechanisms to find. So now, companies are training artificial intelligence models on heaps of historical data to help locate untouched reserves of minerals that are key to clean energy technologies such as electric vehicle batteries and wind turbines.</p><p>One of the biggest players in this space is Earth AI, a Sydney-based startup that today announced a $20 million Series B round, bringing the company’s total investment to over $38 million since its founding in 2017. While the company had initially sought to raise $15 million in this round, investor interest was so strong that it exceeded its target by $5 million. Lead investors were Tamarack Global and Cantos Ventures. </p><p>Earth AI has a two-stage business model. First, it uses its proprietary software to locate likely deposits and purchases the mineral rights to the land. Then, it sends in its drilling rig and in-house team of geologists to produce mineral samples. The team then shows these samples to mining companies to prove that the area warrants further development and — assuming the miners are interested — sells them the mineral rights. “Because of the scarcity of this, because of the deficit of where we are and where we’re going, these price tags are $500 million to $2.5 billion,” Monte Hackett, Earth AI’s chief financial officer, told me. Huge as that may sound, it’s much less than what a mining company would typically spend doing traditional exploration themselves. This latest funding will allow the startup to purchase additional drill rigs and increase its project pipeline to over 50 sites.</p><p>“The problem is obvious,” Hackett told me. “We need <a href="https://about.bnef.com/blog/transition-metals-become-10-trillion-opportunity-as-demand-rises-and-supply-continues-to-lag/" rel="noopener noreferrer" target="_blank"><u>$10 trillion of critical metal production</u></a> by 2050. We’re producing <a href="https://www.iea.org/reports/global-critical-minerals-outlook-2024/executive-summary#:~:text=Strong%20growth%20in%20demand%20produces,its%20own%20attains%20that%20scale." rel="noopener noreferrer" target="_blank"><u>$320 billion</u></a>, a $9.7 trillion shortfall.” To better locate the trillions of dollars worth of minerals necessary for the energy transition, the startup’s CEO, geoscientist Roman Teslyuk, digitized decades of old Australian geophysical survey data, then overlaid that with remote sensing data such as satellite imagery to train a model to recognize the Earth systems and geological processes that created minerals deposits millennia ago. “Another way I like to think about it is that our algorithm looks for the geological shadow that is cast by a dense mineral body,” Hackett explained in a follow-up email.</p><p>Hackett told me that Earth AI focuses specifically on “greenfield” applications — that is, areas where no mining activity or substantial minerals exploration has previously occurred. So far, the company’s discoveries include a <a href="https://www.prnewswire.com/news-releases/earth-ai-and-legacy-minerals-announce-first-ever-greenfield-palladium-discovery-using-artificial-intelligence-in-new-south-wales-302312289.html#:~:text=This%20significant%20discovery%20of%20palladium,to%20contain%20no%20magmatic%20nickel." rel="noopener noreferrer" target="_blank"><u>significant deposit of palladium</u></a>, which also contains platinum and nickel, <a href="https://www.prnewswire.com/news-releases/earth-ai-discovers-new-gold-system-close-to-existing-molybdenum-project-at-willow-glen-302336813.html" rel="noopener noreferrer" target="_blank"><u>as well as a gold deposit</u></a> and a <a href="https://www.mining.com/machine-learning-helps-earth-ai-find-high-grade-molybdenum-in-unexpected-place/" rel="noopener noreferrer" target="_blank"><u>molybdenum deposit</u></a>. “We’re finding things that go against what has been the common sense of the industry so far,” Hackett told me, referencing the company’s palladium discovery. “There was geological consensus that there was no platinum palladium on the East Coast of Australia, and our algorithm learned what it looked like on the West Coast and then identified it on the East Coast.”</p><p>While Hackett said Earth AI is open for business anywhere, right now all of its projects are in Australia, where the company has “600 ‘x’s on our treasure map” — that is, likely areas for deposits, Hackett wrote in a follow-up email. Outlining the advantages of doing business there, he explained, “We don’t have to go somewhere where there’s unsavory working conditions or there are issues where we have to put our principles into balance. Here, everything is very regulated and above board.” Plus, mining has long been an important component of the Australian economy. “They’re incredibly efficient at doing this well. So the timeline for development is the shortest compared to other places,” Hackett told me.</p><p>This tech could have important domestic implications too, though. As the newly-inaugurated President Trump <a href="https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/" rel="noopener noreferrer" target="_blank"><u>prioritizes ramping up</u></a> U.S. production of critical minerals, Earth AI could one day help locate deposits here, as well. And since Australia is a close American ally, the nation could play a key role in helping wean the U.S. off of Chinese imports, providing the U.S. with critical minerals that it can’t now, or perhaps ever, produce in sufficient quantities itself.</p> 
+
+<br> 
+
+<https://heatmap.news/technology/earth-ai-series-b>
+
+---
+
+## Olivia Julianna interviews Senator Adam Schiff
+
+date: 2025-01-27, from: The Contrarian
+
+One of our strongest defenders of democracy discusses the threats of Trump's second term 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155844385/ddd065b8d84865c33469bc35dc9e8752.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155844385/ddd065b8d84865c33469bc35dc9e8752.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/olivia-julianna-interviews-senator>
 
 ---
 

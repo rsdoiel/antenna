@@ -1,11 +1,110 @@
 ---
 title: motorcycles
-updated: 2025-01-27 07:05:45
+updated: 2025-01-28 07:05:13
 ---
 
 # motorcycles
 
-(date: 2025-01-27 07:05:45)
+(date: 2025-01-28 07:05:13)
+
+---
+
+## This Motorcycle Transforms to a Snowmobile and a Dirt Bike With Just a Few Tools
+
+date: 2025-01-28, from: Ride Apart, Electric Motorcycle News
+
+Buy One Get Two Free? 
+
+<br> 
+
+<https://www.rideapart.com/news/748704/avvenire-3-in-1-combat-motorcycle-dirt-bike-snowmobile/>
+
+---
+
+## Is There A Place For a Scooter Like the Hero Xoom 160 On US Roads?
+
+date: 2025-01-28, from: Ride Apart, Electric Motorcycle News
+
+The Xoom 160 is Hero’s answer to the Honda ADV160 “adventure scooter.”
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/748593/hero-motocorp-xoom160-launch-specs-features/>
+
+---
+
+## Praise Be, Kawasaki Will Revive the 2-Stroke Dirt Bike!
+
+date: 2025-01-28, from: Ride Apart, Electric Motorcycle News
+
+Braap, braaaaaaap.  
+
+<br> 
+
+<https://www.rideapart.com/news/748732/kawasaki-2-stroke-teaser-dirt-bike/>
+
+---
+
+## Harley-Davidson Made a More Street-Focused Pan America and It Looks Like Fun
+
+date: 2025-01-28, from: Ride Apart, Electric Motorcycle News
+
+But it has the largest exhaust I've ever seen fitted to a motorcycle. 
+
+<br> 
+
+<https://www.rideapart.com/news/748710/harley-davidson-pan-america-1250-st-debut/>
+
+---
+
+## Ducati Recalls a Bunch of 2025 Panigale V4s Over Potential Rear Brake Failure
+
+date: 2025-01-28, from: Ride Apart, Electric Motorcycle News
+
+The solution, as with many things in life, involves a strategically placed zip tie. 
+
+<br> 
+
+<https://www.rideapart.com/news/748733/ducati-panigale-v4-brake-recall/>
+
+---
+
+## Wait, Moto Luggage Maker Shad Is Making Disc Locks Now?
+
+date: 2025-01-28, from: Ride Apart, Electric Motorcycle News
+
+Yes, and guess what? NO APP NEEDED, PRAISE BE. 
+
+<br> 
+
+<https://www.rideapart.com/news/748717/shad-sc62a-motorcycle-disc-lock/>
+
+---
+
+## This AI-Powered Helmet Wants To Do So Many Things Other Than Being A Helmet
+
+date: 2025-01-28, from: Ride Apart, Electric Motorcycle News
+
+It has 360-degree awareness, voice commands, an action camera, oh, and a heads-up display, too. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/748590/ai-powered-helmet-360-cam-voice-command-tech/>
+
+---
+
+## Aprilia CEO is Worried About MotoGP’s Future, and He's Right to Worry
+
+date: 2025-01-27, from: Ride Apart, Electric Motorcycle News
+
+You know things are serious when supposed rivals are worried about each other.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/748455/aprilia-ceo-motogp-future-too-expensive/>
 
 ---
 
