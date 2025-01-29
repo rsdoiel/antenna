@@ -1,11 +1,273 @@
 ---
 title: home
-updated: 2025-01-28 07:05:13
+updated: 2025-01-29 07:04:57
 ---
 
 # home
 
-(date: 2025-01-28 07:05:13)
+(date: 2025-01-29 07:04:57)
+
+---
+
+## How They Pulled It Off: An 18th Century Inspired Farm Fence That Keeps Sheep and Their People Happy
+
+date: 2025-01-29, from: Dwell
+
+"It’s about living with the seasons and the land while creating a space that works for everyone." 
+
+<br> 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-an-18th-century-inspired-farm-fence-that-keeps-sheep-and-their-people-happy-04dd5924>
+
+---
+
+## Lumber Prices Could Go Way Up With Tariffs On Canada and Mexico
+
+date: 2025-01-28, from: Family Handyman Blog
+
+<p>Looming tariffs could cause the cost of construction materials like lumber and mortar to skyrocket— if they actually happen.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/canada-mexico-tariffs-impact/">Lumber Prices Could Go Way Up With Tariffs On Canada and Mexico</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/canada-mexico-tariffs-impact/>
+
+---
+
+## Is It Mold or Mildew? Learn To Spot the Difference
+
+date: 2025-01-28, from: Family Handyman Blog
+
+<p>Think of mildew as "mold lite." They are both fungi, but mildew has shallower roots and is generally less problematic than mold.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/mildew-vs-mold/">Is It Mold or Mildew? Learn To Spot the Difference</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/mildew-vs-mold/>
+
+---
+
+## What Happens If You Put Diesel In a Gas Car?
+
+date: 2025-01-28, from: Family Handyman Blog
+
+<p>The two fuels perform differently, which can make for a costly mistake. Here's how minimize the damage.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/what-happens-if-you-put-diesel-in-a-gas-car/">What Happens If You Put Diesel In a Gas Car?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/what-happens-if-you-put-diesel-in-a-gas-car/>
+
+---
+
+## Why Lug Nuts Swell and What You Can Do About It
+
+date: 2025-01-28, from: Family Handyman Blog
+
+<p>Until you're stuck because your lugs nuts are swollen and can't be removed to change a flat tire, wheel studs and lug nuts are often ignored.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/lug-nut-swelling-what-to-know/">Why Lug Nuts Swell and What You Can Do About It</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/lug-nut-swelling-what-to-know/>
+
+---
+
+## You’ve Been Using the Voice Button On Your Steering Wheel Wrong
+
+date: 2025-01-28, from: Family Handyman Blog
+
+<p>If you've been having trouble activating Google Assistant or Siri from your car's steering wheel, here's the fix you need.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/activate-siri-google-assistant-on-steering-wheel/">You&#8217;ve Been Using the Voice Button On Your Steering Wheel Wrong</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/activate-siri-google-assistant-on-steering-wheel/>
+
+---
+
+## Clearing Mold Off Your Bathroom Ceiling: A Step-by-Step Guide
+
+date: 2025-01-28, from: Family Handyman Blog
+
+<p>Wondering how to remove mold from a bathroom ceiling? Follow these simple steps to eliminate mold for good.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/remove-mold-from-bathroom-ceiling/">Clearing Mold Off Your Bathroom Ceiling: A Step-by-Step Guide</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/remove-mold-from-bathroom-ceiling/>
+
+---
+
+## CDFA Launches Agricultural Workforce Survey for the Specialty Crop Industry
+
+date: 2025-01-28, from: Calfifornia Dept. Aggriculture blog
+
+In working to&#160;“Drive the Next Generation of Talent and Tools”,&#160;CDFA is&#160;&#160;launching an agricultural workforce survey to help determine employer needs within the specialty crop sector. Jobs and careers within agriculture are changing &#8211; adopting greater use of technology, evolving its &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28537">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28537>
+
+---
+
+## An Icelandic Cabin’s Pitched Roof Mirrors the Mountain Behind It
+
+date: 2025-01-28, from: Dwell
+
+Black steel wraps the 570-square-foot retreat—complete with an art space and bedroom loft—on a rugged site north of Reykjavík. 
+
+<br> 
+
+<https://www.dwell.com/article/atelier-nyp-studio-bua-cross-laminated-timber-cabin-artists-retreat-a89c154f>
+
+---
+
+## 7 Ways to Grow Community Through Gardening
+
+date: 2025-01-28, from: Sunset Magazine - Living in the West
+
+This year we’re looking to tend to more than just plants, but also to those around us. Here's how to grow community through gardening. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/how-to-grow-community-through-gardening>
+
+---
+
+## Every Room Gets Its Own Garden In This Classic California Indoor-Outdoor House
+
+date: 2025-01-28, from: Sunset Magazine - Living in the West
+
+This indoor-outdoor house has the functional liveable minimalism of the Case Study program, and has plenty of garden and patio spaces. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/california-indoor-outdoor-house-design>
+
+---
+
+## This Quirky Toronto Rental is Full of Geometric Cutouts and Natural Light
+
+date: 2025-01-28, from: Dwell
+
+Asking $10K a month, the ’90s home might look like a monolithic fortress—but the interior plays with pastel tones and a cloud motif. 
+
+<br> 
+
+<https://www.dwell.com/article/postmodern-1990s-home-francesco-and-aldo-piccaluga-toronto-canada-real-estate-4e2aba9d>
+
+---
+
+## Are Our Homes Starting to Look More...Holy?
+
+date: 2025-01-28, from: Dwell
+
+As organized religion continues to lose its influence, why are living spaces that look like modern chapels having a moment? 
+
+<br> 
+
+<https://www.dwell.com/article/are-our-homes-starting-to-look-more-holy-sacred-minimalism-religious-zeitgeist-67dd54e0-7592a77b-a491a177>
+
+---
+
+## The Most Popular Book from the Last 5 Years Is a Shocking Psychological Thriller
+
+date: 2025-01-28, from: Sunset Magazine - Living in the West
+
+Goodreads just compiled a list of the most popular books from the last five years. Number one was a shocking psychological thriller. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/most-popular-books-from-the-last-5-years>
+
+---
+
+## How to Grow Silver Leaf Philodendron (Brandi)
+
+date: 2025-01-28, from: The Gardener's Path
+
+<p>Silver leaf or brandi philodendron (Philodendron brandtianum) is a vining type with heart-shaped leaves that feature striking silvery-gray splotches, giving the foliage a mottled appearance. Easy to care for indoors, it's a dramatic addition to your collection. Learn more about this lesser-known species in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/grow-silver-leaf-philodendon/">How to Grow Silver Leaf Philodendron (Brandi)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/grow-silver-leaf-philodendon/>
+
+---
+
+## 16 Exciting Lunar New Year Products to Ring in the Year of the Snake
+
+date: 2025-01-28, from: Sunset Magazine - Living in the West
+
+Celebrating the Lunar New Year? These products and gifts will help you ring in the Year of the Snake with flair. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/lunar-new-year-gifts>
+
+---
+
+## Kia Recalls 80,000 SUVs Over Airbag and Seatbelt Wiring Issues
+
+date: 2025-01-28, from: Family Handyman Blog
+
+<p>Kia America, Inc. has announced a recall of tens of thousands of their vehicles due to airbag and seatbelt issues. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/kia-niro-air-bag-seatbelt-recall/">Kia Recalls 80,000 SUVs Over Airbag and Seatbelt Wiring Issues</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/kia-niro-air-bag-seatbelt-recall/>
+
+---
+
+## Black Walnut (Juglans nigra) Care and Growing Guide
+
+date: 2025-01-28, from: Yard Life blog
+
+<p>The Black Walnut (Juglans nigra) is a majestic and valuable hardwood tree native to North America. Known for its striking ... </p>
+<p class="read-more-container"><a title="Black Walnut (Juglans nigra) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/black-walnut-juglans-nigra-care-and-growing-guide/#more-22939" aria-label="Read more about Black Walnut (Juglans nigra) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/black-walnut-juglans-nigra-care-and-growing-guide/">Black Walnut (Juglans nigra) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/black-walnut-juglans-nigra-care-and-growing-guide/>
+
+---
+
+## Even Wim Hof Would Approve of This Nordic Spa Deep in Alaska’s Wilderness
+
+date: 2025-01-28, from: Sunset Magazine - Living in the West
+
+In the Alaskan wilderness sits Alyeska Nordic Spa. It's a new wellness destination with hydrotherapy pools, a rose quartz sauna, and massage rooms. 
+
+<br> 
+
+<https://www.sunset.com/travel/alyeska-nordic-spa>
+
+---
+
+## Black Diamond Crape Myrtle Care and Growing Guide
+
+date: 2025-01-28, from: Yard Life blog
+
+<p>Black Diamond Crape Myrtles are a stunning addition to any garden, known for their striking black foliage and vibrant, colorful ... </p>
+<p class="read-more-container"><a title="Black Diamond Crape Myrtle Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/black-diamond-crape-myrtle-care-and-growing-guide/#more-22935" aria-label="Read more about Black Diamond Crape Myrtle Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/black-diamond-crape-myrtle-care-and-growing-guide/">Black Diamond Crape Myrtle Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/black-diamond-crape-myrtle-care-and-growing-guide/>
 
 ---
 
@@ -21,6 +283,18 @@ date: 2025-01-28, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/american-beech-fagus-grandifolia-care-and-growing-guide/>
+
+---
+
+## These Are the Absolute Best Things to Eat Après-Ski (and Where to Find Them)
+
+date: 2025-01-28, from: Sunset Magazine - Living in the West
+
+These are the most iconic après-ski dishes that you need to try, plus where to find them in the West after hitting the slopes. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-places-for-apres-ski-food>
 
 ---
 
@@ -51,6 +325,66 @@ date: 2025-01-28, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/tuscarora-crape-myrtle-care-and-growing-guide-most-detailed/>
+
+---
+
+## A Neglected Garage Was Transformed into a Colorful Hangout (with a Hidden Wine Cellar)
+
+date: 2025-01-28, from: Sunset Magazine - Living in the West
+
+A garage was unused and under-utilized until a designer turned it into a colorful living and office space with a hidden cellar. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/colorful-garage-adu-transformation>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-01-28, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## This Bright and Open Kitchen Cleverly Conceals Its Appliances
+
+date: 2025-01-28, from: Sunset Magazine - Living in the West
+
+The kitchen in a Fremont, California, house was spacious, but had a bad layout. Here's how one designer made it more functional. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/fremont-kitchen-makeover>
+
+---
+
+## This App Could Save Your Life in an Emergency
+
+date: 2025-01-28, from: Sunset Magazine - Living in the West
+
+Watch Duty is a non-profit app that's become an essential tool during the L.A. wildfires. It is based in Sonoma, which also faced tragic fires. 
+
+<br> 
+
+<https://www.sunset.com/travel/watch-duty-app-john-mills-interview>
+
+---
+
+## Inside a Cozy, Secluded Cabin in Washington That Blends Rustic and Modern So Well
+
+date: 2025-01-28, from: Sunset Magazine - Living in the West
+
+An outdoorsman and native plant enthusiast dreamed of a home that was reminiscent of valley cabins and farmsteads. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/methow-valley-washington-cabin>
 
 ---
 
@@ -209,18 +543,6 @@ date: 2025-01-27, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/rainbow-eucalyptus-eucalyptus-deglupta-care-and-growing-guide/>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-01-27, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

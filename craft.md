@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-01-28 07:05:14
+updated: 2025-01-29 07:04:58
 ---
 
 # craft
 
-(date: 2025-01-28 07:05:14)
+(date: 2025-01-29 07:04:58)
+
+---
+
+## NEW! Maiwa Pashmina Blankets — From Kashmir Loom
+
+date: 2025-01-28, updated: 2025-01-28, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2025/01/new-maiwa-pashmina-blankets-from.html>
 
 ---
 

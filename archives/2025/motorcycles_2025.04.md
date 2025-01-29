@@ -1,11 +1,97 @@
 ---
 title: motorcycles
-updated: 2025-01-28 07:05:13
+updated: 2025-01-29 07:04:57
 ---
 
 # motorcycles
 
-(date: 2025-01-28 07:05:13)
+(date: 2025-01-29 07:04:57)
+
+---
+
+## Honda’s Updated Range Of ATVs and UTVs Is Ready To Attack the Trails
+
+date: 2025-01-29, from: Ride Apart, Electric Motorcycle News
+
+There’s something for everyone here—even your kids. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/748760/2025-honda-offroad-powersports-machines-unveiled/>
+
+---
+
+## Pennsylvania Is Considering Extending Lemon Law Protections to Motorcycles
+
+date: 2025-01-29, from: Ride Apart, Electric Motorcycle News
+
+At present, the law doesn't apply to those who partake in two-wheeled activities. 
+
+<br> 
+
+<https://www.rideapart.com/news/748864/pennsylvania-lemon-law-motorcycles-senate-bill-155/>
+
+---
+
+## Does Honda’s Motorcycle Patent Describe an Anti-Fall Device?
+
+date: 2025-01-29, from: Ride Apart, Electric Motorcycle News
+
+Tell us what you see. 
+
+<br> 
+
+<https://www.rideapart.com/news/748871/honda-motorcycle-patent-steering/>
+
+---
+
+## GoPro Hopes To Get Back On Your Radar With a MotoGP, MXGP Partnership
+
+date: 2025-01-29, from: Ride Apart, Electric Motorcycle News
+
+Could this be the break GoPro needs, or are its glory days well and truly behind it?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/748758/gopro-partnership-motogp-mxgp-2025/>
+
+---
+
+## UTV-Maker Can-Am Patented a Truck Bed Insert and It Has a Lot of Accessories
+
+date: 2025-01-29, from: Ride Apart, Electric Motorcycle News
+
+Is the company looking to spread its wings? 
+
+<br> 
+
+<https://www.rideapart.com/news/748854/can-am-brp-truck-bed-accessory-patent/>
+
+---
+
+## Here's What KTM Told Its Dealer Network About the Company's Future
+
+date: 2025-01-29, from: Ride Apart, Electric Motorcycle News
+
+Rose-tinted glasses remain on. 
+
+<br> 
+
+<https://www.rideapart.com/news/748861/ktm-letter-dealer-network-pierer/>
+
+---
+
+## Triumph’s New Speed Triple RS Finally Gets the Features It Needed
+
+date: 2025-01-29, from: Ride Apart, Electric Motorcycle News
+
+It was already a great bike, but everything needs to hit the mark when you're mixing it up with the best. 
+
+<br> 
+
+<https://www.rideapart.com/news/748727/2025-triumph-speed-triple-specs/>
 
 ---
 

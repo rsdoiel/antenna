@@ -1,11 +1,375 @@
 ---
 title: going electric
-updated: 2025-01-28 07:05:14
+updated: 2025-01-29 07:04:57
 ---
 
 # going electric
 
-(date: 2025-01-28 07:05:14)
+(date: 2025-01-29 07:04:57)
+
+---
+
+## Elon Musk says that Tesla ‘unsupervised self-driving begins’, but don’t get too excited
+
+date: 2025-01-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Self-driving-Fremont-factory.png?w=1600" /></div><p>Elon Musk says that Tesla’s “unsupervised self-driving begins,” but as usual with the CEO’s statements about self-driving, it’s just “corporate puffery.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="399487" href="https://electrek.co/2025/01/29/elon-musk-says-that-tesla-unsupervised-self-driving-begins-but-dont-get-too-excited/#more-399487" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/29/elon-musk-says-that-tesla-unsupervised-self-driving-begins-but-dont-get-too-excited/>
+
+---
+
+## China urges citizens to trade in ‘old lithium e-bikes’ for newer lead acid electric bikes
+
+date: 2025-01-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/china-header-scooter.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In what might seem like a headscratcher, China is now urging its citizens to trade in their lithium-ion battery-based electric bikes for newer models with sealed lead-acid batteries (SLAs).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="399484" href="https://electrek.co/2025/01/29/china-urges-citizens-to-trade-in-old-lithium-e-bikes-for-newer-lead-acid-electric-bikes/#more-399484" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/29/china-urges-citizens-to-trade-in-old-lithium-e-bikes-for-newer-lead-acid-electric-bikes/>
+
+---
+
+## GM Is Making A Big Bet On Super Cruise. It Seems To Be Paying Off
+
+date: 2025-01-29, from: Inside EVs News
+
+GM says that more and more owners end up subscribing to its hands-free automated driving assistance system. And it has big plans ahead. 
+
+<br> 
+
+<https://insideevs.com/news/748950/gm-super-cruise-earnings-2025/>
+
+---
+
+## Tesla’s V4 Superchargers Boosted To 325 kW In North America
+
+date: 2025-01-29, from: Inside EVs News
+
+The latest Tesla DC chargers now provide up to 30% more power to EVs. That means shorter stops—and it's good news for other EVs. 
+
+<br> 
+
+<https://insideevs.com/news/748952/tesla-v4-supercharger-speed-boost-325kw/>
+
+---
+
+## Vessev’s VS–9 electric hydrofoiling boat begins passenger operations [Video]
+
+date: 2025-01-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Hydrofoiling-boat-Vessev-VS-9-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Nascent electric hydrofoil boat builder <a href="https://electrek.co/guides/vessev/">Vessev</a> shared another key milestone this week, putting its first electric hydrofoiling boat into commercial operations. Ferry transport company Fullers360 is now operating the ultra-efficient VS–9 vessel to transport tourists and other passengers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-boats,electric-hydrofoil,vessev" data-layer-viewtype="unknown" data-post-id="399458" href="https://electrek.co/2025/01/29/vessevs-vs-9-electric-hydrofoiling-boat-begins-passenger-operations-video/#more-399458" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/29/vessevs-vs-9-electric-hydrofoiling-boat-begins-passenger-operations-video/>
+
+---
+
+## Porsche Taycan GTS Drifts On Ice For 46 Minutes Straight–A New Record
+
+date: 2025-01-29, from: Inside EVs News
+
+What a day that must have been: silently drifting on ice in Finland. 
+
+<br> 
+
+<https://insideevs.com/news/748917/porsche-taycan-gts-ice-drift-record/>
+
+---
+
+## Tesla Says Its EVs Now Drive Themselves From The Factory To The Loading Areas
+
+date: 2025-01-29, from: Inside EVs News
+
+The company posted a video showing how a brand-new car drove a 1.2-mile route without anyone in the driver’s seat. 
+
+<br> 
+
+<https://insideevs.com/news/748903/tesla-self-driving-factory-ev/>
+
+---
+
+## Elon can’t get it up (past 325 kW), BP can, and GM hopes to keep it up in 2025
+
+date: 2025-01-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/childs-toy.jpg?quality=82&#038;strip=all&#038;w=1397" /></div><p>Despite mocking 350 kW as “a child’s toy” in 2016, the company is just rolling out 325 kW V4 chargers in 2025. Meanwhile companies like BP are celebrating 400 kW installations along major highways – and they’re making money doing it. All this and more on today’s thrilling January 47th episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bp,quick-charge,tesla,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="399448" href="https://electrek.co/2025/01/28/elon-cant-get-it-up-past-325-kw-bp-can-and-gm-hopes-to-keep-it-up-in-2025/#more-399448" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/28/elon-cant-get-it-up-past-325-kw-bp-can-and-gm-hopes-to-keep-it-up-in-2025/>
+
+---
+
+## After delays, the VW ID.7 now won’t be coming to the US at all
+
+date: 2025-01-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Volkswagen-ID.7-US-launch-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volkswagen has officially cancelled the long-delayed ID.7 electric sedan in America, instead focusing on selling it in Europe and China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen-id-7" data-layer-viewtype="unknown" data-post-id="399442" href="https://electrek.co/2025/01/28/after-delays-the-vw-id-7-now-wont-be-coming-to-the-us-at-all/#more-399442" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/28/after-delays-the-vw-id-7-now-wont-be-coming-to-the-us-at-all/>
+
+---
+
+## The 2026 BMW iX Delivers More Range And More Power
+
+date: 2025-01-28, from: Inside EVs News
+
+BMW has upgraded the iX with a bigger battery and new trims that better represent the substantial power bump. 
+
+<br> 
+
+<https://insideevs.com/news/748734/2026-bmw-ix-more-range-more-power/>
+
+---
+
+## Volkswagen ID.7 Canceled For North America After All
+
+date: 2025-01-28, from: Inside EVs News
+
+VW has officially scrapped its plans for the ID.7 in the U.S. and Canada. 
+
+<br> 
+
+<https://insideevs.com/news/748876/vw-id7-canceled-north-america/>
+
+---
+
+## The Porsche Taycan EV just secured its fourth Guinness World Record [Video]
+
+date: 2025-01-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Porsche-Taycan-world-record.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>How far can an EV drift? Porsche proved it can be pretty far. Porsche’s <a href="https://electrek.co/guides/porsche-taycan/">all-electric Taycan</a> set a new Guinness World Record for the longest drift by an EV. The electric sports car now has four World Records. Check out the video below to see the Taycan in action.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="porsche-taycan" data-layer-viewtype="unknown" data-post-id="399422" href="https://electrek.co/2025/01/28/porsche-taycan-ev-secures-fourth-guinness-world-record-video/#more-399422" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/28/porsche-taycan-ev-secures-fourth-guinness-world-record-video/>
+
+---
+
+## China's DeepSeek AI Left America Stunned. The EV Race Is No Different
+
+date: 2025-01-28, from: Inside EVs News
+
+The tech world is waking up to China's tech dominance—something the automotive world knows well. Now it's time for hard questions. 
+
+<br> 
+
+<https://insideevs.com/news/748875/deepseek-china-evs-ai-analysis/>
+
+---
+
+## New York’s largest solar farm is a go with $950 million in funding
+
+date: 2025-01-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/solar-panels-unsplash.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Clean energy investment manager Greenbacker Renewable Energy has secured $950 million to build what will be New York State’s largest solar farm.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,new-york,solar-power" data-layer-viewtype="unknown" data-post-id="399410" href="https://electrek.co/2025/01/28/new-yorks-largest-solar-farm-is-a-go-with-950-million-in-funding/#more-399410" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/28/new-yorks-largest-solar-farm-is-a-go-with-950-million-in-funding/>
+
+---
+
+## Genesis kills off gas-powered cars in the UK for EVs and hybrids
+
+date: 2025-01-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/New-Genesis-GV60-EV-front.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/genesis/">Genesis</a> is officially killing off its gas and diesel-powered vehicles in the UK to become “a fully electrified brand” in 2025. Once current gas models are sold, Genesis will only sell EVs in the UK — at least until new hybrids join the lineup.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis" data-layer-viewtype="unknown" data-post-id="399411" href="https://electrek.co/2025/01/28/genesis-kills-off-gas-powered-cars-uk-for-evs-hybrids/#more-399411" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/28/genesis-kills-off-gas-powered-cars-uk-for-evs-hybrids/>
+
+---
+
+## BYD's Stella Li Is The 2025 World Car Person of the Year
+
+date: 2025-01-28, from: Inside EVs News
+
+Stella Li, Executive Vice-President of BYD, is the World Car Person of the Year for 2025. Here's why she won. 
+
+<br> 
+
+<https://insideevs.com/news/748855/byd-executive-stella-li-2025-world-car-person-year/>
+
+---
+
+## Honda Mulling Sub-$30,000 EV For America: Report
+
+date: 2025-01-28, from: Inside EVs News
+
+Honda knows affordable products are key to its success in the EV world, so this might actually happen. 
+
+<br> 
+
+<https://insideevs.com/news/748851/honda-affordable-ev-for-america/>
+
+---
+
+## Honda wants to launch an EV for under $30,000 in the US as early as next year
+
+date: 2025-01-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Honda-Prologue-record-sales-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new <a href="https://electrek.co/guides/honda/">Honda</a> EV for under $30,000? That’s the plan. And it could come as soon as next year. Honda plans to build the new electric car in the US as part of its new Honda 0 Series EV lineup. Here’s what we know so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda" data-layer-viewtype="unknown" data-post-id="399387" href="https://electrek.co/2025/01/28/honda-wants-an-ev-under-30000-in-us-as-early-as-2026/#more-399387" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/28/honda-wants-an-ev-under-30000-in-us-as-early-as-2026/>
+
+---
+
+## Save exclusive $2,299 on Anker SOLIX F3800 power station offers from $2,099, Heybike Valentine’s sale from $999, more
+
+date: 2025-01-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/anker-solix-f3800-7.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Today’s Green Deals are headlined by the return of two exclusive all-time low prices on <a href="https://9to5toys.com/2025/01/27/exclusive-anker-solix-f3800-and-bundle-2099/">Anker’s SOLIX F3800</a> 3,840Wh+ LiFePO4 Portable Power Station and an alternate bundle that can save you up to $2,299, with prices starting at <a href="https://9to5toys.com/2025/01/27/exclusive-anker-solix-f3800-and-bundle-2099/">$2,099</a>. We also have <a href="https://9to5toys.com/2025/01/28/heybike-valentines-sale/">Heybike’s Valentine’s sale</a> that is continuing its New Year e-bike discounts of up to $600 off, with some free add-on gear – though its also returning the <a href="https://9to5toys.com/2025/01/28/heybike-valentines-sale/">Cityrun Urban Commuter e-bike</a> to its <a href="https://9to5toys.com/2025/01/28/heybike-valentines-sale/">$999</a> low, among other offers. We also spotted Anker’s popular <a href="https://9to5toys.com/2025/01/28/anker-powercore-reserve-from-103/">PowerCore Reserve</a> 60,000mAh Power Bank Station starting from <a href="https://9to5toys.com/2025/01/28/anker-powercore-reserve-from-103/">$103</a>, as well as a Lightning deal on <a href="https://9to5toys.com/2025/01/27/worx-power-share-pro-leafjet-167/">Worx’s Nitro 40V Power Share PRO LEAFJET</a> Cordless Leaf Blower with two 4.0Ah batteries dropping to <a href="https://9to5toys.com/2025/01/27/worx-power-share-pro-leafjet-167/">$167</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/01/27/segway-navimow-mowers-from-1299/">Segway Navimow</a> robot mower lows, the first discounts hitting <a href="https://9to5toys.com/2025/01/27/vevor-nema-splitter-117-first-discount/">VEVOR’s NEMA Splitter</a> for dryers and EVs, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="399391" href="https://electrek.co/2025/01/28/exclusive-anker-solix-f3800-offers-heybike-more/#more-399391" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/28/exclusive-anker-solix-f3800-offers-heybike-more/>
+
+---
+
+## No, Trump Can't Just Stop EV Charger Funding
+
+date: 2025-01-28, from: Inside EVs News
+
+That's just not how any of this works.  
+
+<br> 
+
+<https://insideevs.com/news/748850/trump-ev-charger-funding-nevi/>
+
+---
+
+## Genesis Drops ICE Models In The UK, Becomes An EV-Only Brand
+
+date: 2025-01-28, from: Inside EVs News
+
+The Korean automaker still has some gas- and diesel-powered in stock, but once those are sold, there’s no going back. 
+
+<br> 
+
+<https://insideevs.com/news/748817/genesis-ev-only-sales-uk-2025/>
+
+---
+
+## Tesla (TSLA) Q4 2024 earnings preview: here’s what to expect
+
+date: 2025-01-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/03/img_1665-e1457955946161.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) will release its Q4 2024 and full-year 2024 financial results on Wednesday, Jan. 29, after the markets close. As usual, a conference call and Q&amp;A with Tesla’s management are scheduled after the results.</p>
+
+
+
+<p>Here, we’ll look at what the street and retail investors expect for the quarterly results.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="399371" href="https://electrek.co/2025/01/28/tesla-tsla-q4-2024-earnings-preview/#more-399371" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/28/tesla-tsla-q4-2024-earnings-preview/>
+
+---
+
+## Lucid’s (LCID) Gravity can charge at Tesla Superchargers, but here’s why it will be faster
+
+date: 2025-01-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Lucid-Gravity-Tesla-Supercharger.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lucid’s (LCID) first electric SUV, <a href="https://electrek.co/guides/lucid-gravity/">the Gravity</a>, will officially be able to charge up at Tesla Superchargers starting on January 31. With access coming soon, Lucid shared details about its new tech that unlocks even faster charging.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-gravity,lucid-motors" data-layer-viewtype="unknown" data-post-id="399360" href="https://electrek.co/2025/01/28/lucid-gravity-charge-extremely-fast-tesla-superchargers/#more-399360" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/28/lucid-gravity-charge-extremely-fast-tesla-superchargers/>
+
+---
+
+## Tesla announces all V4 Superchargers can now charge up to 325kW in North America
+
+date: 2025-01-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Tesla-60000th-global-Supercharger.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has announced all V4 Superchargers can now charge up to 325kW in North America, but for now, only the Cybertruck can take advantage of the upgraded power output.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="399344" href="https://electrek.co/2025/01/28/tesla-announces-all-v4-superchargers-can-now-charge-up-to-325kw-in-north-america/#more-399344" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/28/tesla-announces-all-v4-superchargers-can-now-charge-up-to-325kw-in-north-america/>
+
+---
+
+## GM’s EV sales surged as the Chevy Equinox becomes a top-seller: Can it keep it up in 2025?
+
+date: 2025-01-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Chevy-EV-deals.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>GM’s share of the US electric vehicle market doubled in the fourth quarter as the new Chevy Equinox EV became a top seller. With new electric Cadillac SUVs arriving this year, <a href="https://electrek.co/guides/gm/">GM</a> sees more growth opportunities in 2025. Meanwhile, it will likely face a few headwinds. Here’s what to expect.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevy-equinox-ev,general-motors,gm" data-layer-viewtype="unknown" data-post-id="399339" href="https://electrek.co/2025/01/28/gms-ev-sales-surged-chevy-equinox-becomes-top-seller/#more-399339" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/28/gms-ev-sales-surged-chevy-equinox-becomes-top-seller/>
 
 ---
 

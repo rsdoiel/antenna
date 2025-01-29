@@ -1,11 +1,97 @@
 ---
 title: writing
-updated: 2025-01-28 07:05:12
+updated: 2025-01-29 07:04:55
 ---
 
 # writing
 
-(date: 2025-01-28 07:05:12)
+(date: 2025-01-29 07:04:55)
+
+---
+
+## How Chapter and Paragraph Length Affect the Pacing of Novels
+
+date: 2025-01-29, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-chapter-and-paragraph-length-affects-the-pacing-of-novels>
+
+---
+
+## Locus Presents… The Storytellers: Tobi Ogundiran Reads from “Midnight in Moscow”
+
+date: 2025-01-28, from: Locus Magazine
+
+<p>We are so happy to release our second episode of The Storytellers, our series of Zoom-recorded author readings! We kicked off with Ai Jiang reading <strong>I AM AI </strong>(which you can find here), and today we have Tobi Ogundiran reading &#8220;Midnight in Moscow&#8221; from <strong>Jackal, Jackal</strong>.</p>
+<p>Tobi Ogundrian is the award-winning author of the Guardian of the Gods duology and the critically acclaimed collection <strong>Jackal, Jackal</strong>. He has  <a href="https://locusmag.com/2025/01/locus-presents-the-storytellers-tobi-ogundiran-reads-from-midnight-in-moscow/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/locus-presents-the-storytellers-tobi-ogundiran-reads-from-midnight-in-moscow/>
+
+---
+
+## 5 Tips for a Winning Screenwriting Strategy
+
+date: 2025-01-28, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/5-tips-for-a-winning-screenwriting-strategy" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/5%20Tips%20for%20a%20Winning%20Screenwriting%20Strategy.png" alt="5 Tips for a Winning Screenwriting Strategy" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>The better prepared you are as a screenwriter, the greater the chances of you <a href="https://blog.finaldraft.com/youve-finished-your-screenplay.-now-what">completing a screenplay</a> and <a href="https://blog.finaldraft.com/5-things-i-did-to-become-a-professional-screenwriter">selling it</a>. This is why it’s important to have a <span style="font-weight: bold;">screenwriting strategy</span>.&nbsp;<br><br>What ideas are script worthy? How are you going to manage your time? When and where are you going to write? What are your daily and monthly screenwriting goals? It’s also important to read other screenplays and pay attention to the script marketplace and incorporate what you’ve learned into your own screenwriting strategy.<br><br>Here are some tips to help you create a winning screenwriting strategy.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/5-tips-for-a-winning-screenwriting-strategy>
+
+---
+
+## New Books: 28 January 2025
+
+date: 2025-01-28, from: Locus Magazine
+
+<p></p>
+<p>&#160;</p>
+<p style="text-align: center;"><strong>Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+
+<p>&#160;</p>
+<p>Addison, Katherine: <b>The Orb of Cairado</b> (Subterranean Press 978-1645242130, $45.00, 120pp, formats: hardcover, ebook, 01/31/2025)</p>
+<p>Original fantasy novella, set in the award-winning world of The Goblin Emperor. Ulcetha is a disgraced scholar, framed and kicked out the University, and he makes a living crafting elven forgeries. But when his friend dies  <a href="https://locusmag.com/2025/01/new-books-28-january-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/new-books-28-january-2025/>
+
+---
+
+## Structure, and How to Enjoy a Movie
+
+date: 2025-01-28, from: John August blog
+
+Structure is the fundamental skeleton of every story ever told, so why does it flummox so many writers? John and Craig outline what structure really is, ways to find it in your story, and how to keep it from tying your brain in knots. We also look at ways to find nuance in our appreciation [&#8230;]
+The post <a href="https://johnaugust.com/2025/structure-and-how-to-enjoy-a-movie">Structure, and How to Enjoy a Movie</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/673standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/673standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2025/structure-and-how-to-enjoy-a-movie>
+
+---
+
+## At the Fount of Creation by Tobi Ogundiran: Review by Gary K. Wolfe
+
+date: 2025-01-28, from: Locus Magazine
+
+<p><strong>At the Fount of Creation</strong>, Tobi Ogundiran (Tordotcom 978-1-250-90803-2, $21.99, 224pp, hc) January 2025.</p>
+<p>Writers of duologies aren’t doing any favors for book reviewers. With a trilogy, we can blather on about middle-book syndrome and three-act structures; with an ongoing series, we can spec­ulate about metanarratives or simply rate each new volume as though it were the latest album from a familiar band, but a duology somehow seems to  <a href="https://locusmag.com/2025/01/at-the-fount-of-creation-by-tobi-ogundiran-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/at-the-fount-of-creation-by-tobi-ogundiran-review-by-gary-k-wolfe/>
 
 ---
 

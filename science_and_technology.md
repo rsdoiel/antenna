@@ -1,11 +1,528 @@
 ---
 title: science and technology
-updated: 2025-01-28 07:05:11
+updated: 2025-01-29 07:04:55
 ---
 
 # science and technology
 
-(date: 2025-01-28 07:05:11)
+(date: 2025-01-29 07:04:55)
+
+---
+
+## Trump tells Musk to 'go get' Starliner astronauts
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>SpaceX was already planning to return &#39;virtually abandoned&#39; astros. Did Elon forget?</h4> <p>An early morning post by US President Donald Trump caused some furrowed brows in the space community after he instructed Elon Musk to &#34;go get&#34; the crew of Boeing&#39;s Starliner, who are currently enjoying an unexpected stay aboard the International Space Station (ISS).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/trump_musk_starliner/>
+
+---
+
+## Only 1 in 10 Oracle Java users want to stay with Big Red
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>Fallout continues from per-employee licensing shift in 2023, survey finds</h4> <p>Only around one in ten Oracle Java customers are likely to stick around following costly licensing changes Big Red made to its development and runtime environments in January 2023, according to research.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/only_one_in_ten_oracle/>
+
+---
+
+## ASML makes hay while suns shines, but Trump could rain on its parade
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>Netherlands biz riding AI boom, though China crackdown looms</h4> <p>Dutch tech giant ASML is buoyed up by a wave of new orders during Q4 2024, and expects its business in China to return to a more normal level after a period of high revenue. However, there is uncertainty over whether the Trump administration may try to further restrict its sales there.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/asml_q4_2024/>
+
+---
+
+## 'Bro delete the chat': Feel the panic shortly before cops bust major online fraud ring
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>Mastermind begs colluders to bury evidence later used to imprison him</h4> <p>In announcing the sentencing of three Brits who ran OTP Agency, an account-takeover business, the National Crime Agency (NCA) revealed how a 2021 report sent the fraudsters into a panicked frenzy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/otp_agency_convicted/>
+
+---
+
+## Hyperoptic customers left in dark as power outage takes down systems
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>What falls down and doesn&#39;t get back up? Full fiber broadband in Glasgow</h4> <p>UK broadband provider Hyperoptic has taken a long weekend, leaving some customers disconnected after the company&#39;s systems went down following a storm.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/hyperoptic_outage_scotland/>
+
+---
+
+## Oracle finance system at Europe's largest city council still falls short 2.5 years later
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>Auditors find solution design &#39;was not fully resolved&#39; when it went live in 2022</h4> <p>An Oracle-based ERP system used by Europe&#39;s largest local authority is still not &#34;safe and compliant&#34; two-and-a-half years after it went live and has &#34;effectively crippled the council&#39;s ability to manage and report on finances,&#34; according to external auditors.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/birmingham_oracle/>
+
+---
+
+## Ubuntu upgrade had our old Nvidia GPU begging for a downgrade
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>If you need legacy drivers, you might want to keep your older OS version – possibly indefinitely</h4> <p><em>The Reg</em> FOSS desk spent some quality time downgrading Ubuntu to restore graphics acceleration. How and why would we do this?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/nvidia_gpu_ubuntu_downgrade/>
+
+---
+
+## Discover Why 'The Raven,' Edgar Allan Poe's Narrative Poem About a Distraught Lover and a Talking Bird, Remains an American Classic
+
+date: 2025-01-29, from: Smithsonian Magazine
+
+Published on this day in 1845, the work used alliteration, internal rhyme and repetition to draw in readers, lending it a dark and melancholic tone 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/discover-why-the-raven-edgar-allan-poes-narrative-poem-about-a-distraught-lover-and-a-talking-bird-remains-an-american-classic-180985874/>
+
+---
+
+## Microsoft signs eviction notice on Dev Home
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>Development dashboard destined for ditching</h4> <p>Microsoft is killing off its unloved Dev Home control center after the app spent less than two years in preview.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/microsoft_dev_home_discontinued/>
+
+---
+
+## Memories fade. Archives burn. All signal eventually becomes noise
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>But where are the comprehensive archives to protect digital works, or allow us to memorialize friends?</h4> <p><strong>Column</strong>  When moving house a few months back I found several heavy plastic tubs that, upon inspection, I saw contained my life&#39;s work in print. They were full of articles, magazines, books and book chapters.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/opinion_column_better_digital_archives_needed/>
+
+---
+
+## Spending watchdog blasts UK govt over sloth-like cyber resilience progress
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>Think government cybersecurity is bad? Guess again. It’s alarmingly so</h4> <p>The UK government is significantly behind on its 2022 target to harden systems against cyberattacks by 2025, with a new report from the spending watchdog suggesting it may not achieve this goal even by 2030.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/nao_blasts_uk_gov_cyber/>
+
+---
+
+## AI revoir, Lucie: France's answer to ChatGPT paused after faux pas overdrive
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>Slew of embarrassing answers sends open source chatterbox back for more schooling</h4> <p>As China demonstrates how competitive open source AI models can be via the latest DeepSeek release, France has shown the opposite.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/french_ai_chatbot_lucie_suspended/>
+
+---
+
+## The curious story of Uncle Sam's HR dept, a hastily set up email server, and fears of another cyber disaster
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>Lawsuit challenges effort to create federal-wide centralized inbox expected to be used for mass firings</h4> <p>Two anonymous US government employees have sued Uncle Sam&#39;s HR department – the Office of Personnel Management – claiming the Trump administration&#39;s rapid roll out of a new federal email system broke the law.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/opm_email_lawsuit/>
+
+---
+
+## SLAP, Apple, and FLOP: Safari, Chrome at risk of data theft on iPhone, Mac, iPad Silicon
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>It&#39;s another cousin of Spectre, here to read your email, browsing history, and more</h4> <p>Many recent Apple laptops, desktops, tablets, and phones powered by Cupertino&#39;s homegrown Silicon processors can be exploited to reveal email content, browsing behavior, and other sensitive data through two newly identified side-channel attacks on Chrome and Safari.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/flop_and_slap_attacks_apple_silicon/>
+
+---
+
+## Baguette bandits strike again with ransomware and a side of mockery
+
+date: 2025-01-28, updated: 2025-01-28, from: The Register (UK I.T. News)
+
+<h4>Big-game hunting to the extreme</h4> <p>Hellcat, the ransomware crew that infected Schneider Electric and demanded $125,000 in baguettes, has aggressively targeted government, education, energy, and other critical industries since it emerged around mid-2024.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/28/baguettes_bandits_strike_again/>
+
+---
+
+## You probably have more CIO experience than the incoming White House CIO
+
+date: 2025-01-28, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>From AI startup CISO to running federal IT - sure, why not?</h4> <p>The US has a new federal chief information officer who, based on his resume, has no prior experience as a CIO but is now tasked with overseeing IT operations and strategy for the entire federal government.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/28/the_us_governments_new_cio/>
+
+---
+
+## See 15 Winning Images From the Close-Up Photographer of the Year Competition
+
+date: 2025-01-28, from: Smithsonian Magazine
+
+The annual contest offers a glimpse into the hidden world of tiny scenes, from insects to fish to fungi 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-15-winning-images-from-the-close-up-photographer-of-the-year-competition-180985920/>
+
+---
+
+## Google Maps is run by cowards
+
+date: 2025-01-28, from: OS News
+
+Google, on its Google Maps naming policy, back in 2008: By saying &#8220;common&#8221;, we mean to include names which are in widespread daily use, rather than giving immediate recognition to any arbitrary governmental re-naming. In other words, if a ruler announced that henceforth the Pacific Ocean would be named after her mother, we would not add that placemark unless and until the name came into common usage. Google, today, in 2025: Google has confirmed that Google Maps will soon rename the Gulf of Mexico and Denali mountain in Alaska as the “Gulf of America” and “Mount McKinley” in line with changes implemented by the Trump Administration, but users in the rest of the world may see two names for these locations. Nothing is worth less than the word of a corporation. 
+
+<br> 
+
+<https://www.osnews.com/story/141627/google-maps-is-run-by-cowards/>
+
+---
+
+## OpenAI cozies up to Uncle Sam with ChatGPT government edition
+
+date: 2025-01-28, updated: 2025-01-28, from: The Register (UK I.T. News)
+
+<h4>Pay no attention to the DeepSeek behind the headlines</h4> <p>OpenAI has announced ChatGPT Gov, a variant of the Enterprise version of the product specifically tailored for use by the US government.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/28/openai_us_government/>
+
+---
+
+## Archaeologists Discover Ancient Tokens That Roman Soldiers Used to Play Strategy Games
+
+date: 2025-01-28, from: Smithsonian Magazine
+
+The lentil-shaped objects were unearthed in Hadrianopolis, an ancient city in modern-day Turkey, that once hosted a Roman fortress 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-discover-ancient-tokens-that-roman-soldiers-used-to-play-strategy-games-180985903/>
+
+---
+
+## How to Fly NASA’s Orion Spacecraft
+
+date: 2025-01-28, from: NASA breaking news
+
+On NASA’s Artemis II test flight, the first crewed mission under the agency’s Artemis campaign, astronauts will take the controls of the Orion spacecraft and periodically fly it manually during the flight around the Moon and back. The mission provides the first opportunity to ensure the spacecraft operates as designed with humans aboard, ahead of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/how-to-fly-nasas-orion-spacecraft/>
+
+---
+
+## Wolf Moon in Washington
+
+date: 2025-01-28, from: NASA breaking news
+
+A NASA photographer captured the full “wolf” moon rising over the Lincoln Memorial and Memorial Bridge on Jan. 13, 2025. The Maine Farmers’ Almanac began publishing Native American names for full moons in the 1930s. Over time, these names have become widely known and used. According to this almanac, the full moon in January is [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/wolf-moon-in-washington/>
+
+---
+
+## Trump eyes up to 100% tariffs on foreign semiconductors, TSMC in crosshairs
+
+date: 2025-01-28, updated: 2025-01-28, from: The Register (UK I.T. News)
+
+<h4>No wonder OpenAI needs $500B for Stargate</h4> <p>Americans could soon see the price of electronics skyrocket in response to a 25-100 percent import tariff on computer chips promised by US President Donald Trump on Monday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/28/trump_tariffs_semiconductors/>
+
+---
+
+## SXSW 2025
+
+date: 2025-01-28, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">SXSW 2025</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Sean.Timko.ctr…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-28T13:51:35-05:00" title="Tuesday, January 28, 2025 - 13:51" class="datetime">Tue, 01/28/2025 - 13:51</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+      
+
+              </div>
+      
+      </div>
+</div>
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/upcoming_events_slide/public/gallery/2025-01/SXSW-2025-2.png?h=9fb2ff0c&amp;itok=mQRL1-1e" width="576" height="324" alt loading="lazy" class="image-style-upcoming-events-slide">
+
+
+
+      <figcaption class="padding-bottom-3">
+        
+
+              </figcaption>
+
+    
+
+      </div>
+</div>
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>SXSW 2025</h4></div>
+      
+
+      </div>
+</div>
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>The Small Business Programs Office (SBPO ) will be attending SXSW 2025 on Mar. 7-15, 2025, in Austin, TX.</p><p>&nbsp;</p><p><a class="primary-button-light primary-button-padding" href="https://www.sxsw.com/attend/" target="_blank"><span>Register</span>&nbsp;<svg id="right" viewBox="0 -7 30 35"><path d="M0.5 9.35772H20.9956L14.2001 2.29941L16.4134 0L27 11L16.4134 22L14.2001 19.7006L20.9956 12.6423H0.5V9.35772Z" fill="currentColor" /></svg></a></p></div>
+      
+
+      </div>
+</div>
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--from-library paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+      
+            <div class="field field--name-paragraphs field--type-entity-reference-revisions field--label-hidden field__item">
+  <div class="content-width-x-large margin-x-auto desktop:padding-top-0 mobile-lg:padding-top-5 paragraph paragraph--type--right-rail paragraph--view-mode--default">
+    
+      
+
+      </div>
+</div>
+      
+
+              </div>
+      
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/events/2025/sxsw-2025>
+
+---
+
+## See the Haunting Stone Face of a Ptolemaic Statue Unearthed Near the Ancient Egyptian City of Alexandria
+
+date: 2025-01-28, from: Smithsonian Magazine
+
+The statue was found at Taposiris Magna, an archaeological site where some researchers suspect Cleopatra and Mark Antony are entombed 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-the-haunting-stone-face-of-a-ptolemaic-statue-unearthed-near-the-ancient-egyptian-city-of-alexandria-180985894/>
+
+---
+
+## DARPA asking for ideas on automating money laundering detection
+
+date: 2025-01-28, updated: 2025-01-28, from: The Register (UK I.T. News)
+
+<h4>With all the AI hype swirling around, you&#39;d think someone would&#39;ve cracked this one already</h4> <p>Tracking down and preventing money laundering is a slow, time-consuming, manual procedure. DARPA is hoping it can provide some relief for exhausted analysts by automating the process. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/28/darpa_auto_money_laundering_detection/>
+
+---
+
+## US AI shares battered, bruised, and holding after yesterday's DeepSeek beating
+
+date: 2025-01-28, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>Nvidia says its chips are still needed, OpenAI says it&#39;ll keep buying them en masse, but shares are still down</h4> <p>US tech shares, rattled yesterday by the release of a supposedly more efficient AI model by Chinese outfit DeepSeek, appear to have staunched the bleeding, but not recovered. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/28/us_ai_shares_battered_bruised/>
+
+---
+
+## Google Maps to roll out Trump-approved Denali and Gulf of Mexico rebrands
+
+date: 2025-01-28, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>Official is official</h4> <p>Among the flurry of executive orders expelled from Donald J Trump following his inauguration as US President last week, one of the more impotent was &#34;Restoring Names That Honor American Greatness.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/28/google_maps_trump_order/>
+
+---
+
+## Curiosity Rover Spots Ancient Water Ripples on Mars, Hinting at a Past With Shallow, Ice-Free Lakes
+
+date: 2025-01-28, from: Smithsonian Magazine
+
+The 3.7-billion-year-old formations in the planet's Gale Crater suggest the presence of long-gone bodies of liquid water, with no ice covering the surface 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/curiosity-rover-spots-ancient-water-ripples-on-mars-hinting-at-a-past-with-shallow-ice-free-lakes-180985913/>
+
+---
+
+## SUNSPOT
+
+date: 2025-01-28, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">SUNSPOT</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>DARPA is soliciting innovative proposals in the development of highly coherent sources of vacuum ultraviolet (VUV) radiation for clock-grade spectroscopy of the recently discovered thorium (229m-Th) nuclear isomeric transition. | <a href="https://drupal.darpa.mil/research/programs/sunspot">See Program</a></p></div>
+      
+
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-28T11:27:20-05:00" title="Tuesday, January 28, 2025 - 11:27" class="datetime">Tue, 01/28/2025 - 11:27</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/opportunities/hr001125s0008>
+
+---
+
+## NASA Juno Mission Spots Most Powerful Volcanic Activity on Io to Date
+
+date: 2025-01-28, from: NASA breaking news
+
+Even by the standards of Io, the most volcanic celestial body in the solar system, recent events observed on the Jovian moon are extreme. Scientists with NASA’s Juno mission have discovered a volcanic hot spot in the southern hemisphere of Jupiter’s moon Io. The hot spot is not only larger than Earth’s Lake Superior, but [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/solar-system/nasa-juno-mission-spots-most-powerful-volcanic-activity-on-io-to-date/>
+
+---
+
+## SAP extends support deadline for getting off legacy software – in very special circumstances
+
+date: 2025-01-28, updated: 2025-01-28, from: The Register (UK I.T. News)
+
+<h4>Qualifying orgs may get 2033 extension, just don’t call it a U-turn</h4> <p>SAP has confirmed that it will extend support for legacy systems beyond its previously stated deadlines for customers who have already signed up for a specific ERP cloud transition deal.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/28/sap_extends_support_deadline/>
+
+---
+
+## NASA’s PUNCH Mission Tests Solar Arrays Before Launch
+
+date: 2025-01-28, from: NASA breaking news
+
+Technicians supporting NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission deployed and tested the spacecraft’s solar arrays at the Astrotech Space Operations processing facility at Vandenberg Space Force Base in California ahead of its launch next month. The arrays, essential for powering instruments and systems, mark another milestone in preparing PUNCH for its [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-punch-mission-tests-solar-arrays-before-launch/>
+
+---
+
+## Cloud market working well ... if you're AWS and Microsoft
+
+date: 2025-01-28, updated: 2025-01-28, from: The Register (UK I.T. News)
+
+<h4>Brit monopoly plod files report on health of local sector, says technical barriers and Redmond&#39;s licensing practices hurting smaller rivals + customers</h4> <p>The UK&#39;s market regulator says &#34;competition is not working as well as it could&#34; in the local cloud services sector, and it plans to look harder at what AWS and Microsoft are doing – while giving Google a pass – in its Cloud Services Investigation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/28/microsoft_and_aws_cma_provisional_findings/>
+
+---
+
+## Man Finds Rare Trove of Winnie-the-Pooh Drawings and Manuscripts in His Father's Attic
+
+date: 2025-01-28, from: Smithsonian Magazine
+
+The papers connected to author A.A. Milne—including original drafts, illustrations, letters, poems and corrected proofs—sold at auction for more than $118,000 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/man-finds-rare-trove-of-winnie-the-pooh-drawings-and-manuscripts-in-his-fathers-attic-180985907/>
+
+---
+
+## Langley’s Wonder Changes The World, 2023 Annual Report Spotlights Contributions
+
+date: 2025-01-28, from: NASA breaking news
+
+In 2023, NASA Langley’s workforce brought imagination to reality with innovative technological development and a continued commitment to tackling some of the tough challenges that both NASA and the nation face. At NASA, we aspire to know more, dig deeper, climb higher and along the way we are asking, &#8216;What if?&#8217;,&#8221; said NASA Langley Center [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/langleys-wonder-changes-the-world-2023-annual-report-spotlights-contributions/>
 
 ---
 
@@ -66,6 +583,133 @@ At NASA’s Langley Research Center, we are proud of our world-renowned role in 
 <br> 
 
 <https://www.nasa.gov/general/2024-annual-report-highlights-langleys-wonder-at-work/>
+
+---
+
+## Albatross
+
+date: 2025-01-28, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">Albatross</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Summary</h4></div>
+      
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>The Albatross program seeks to develop effective autonomous aircraft soaring capabilities as evaluated via real-world flight testing.&nbsp;</p><p>Traditionally, making an aircraft fly farther and longer requires careful attention to the design of the aircraft to ensure its propulsion system is efficient, its profile has low drag, and it weighs just enough to achieve its mission reliably. Those are all valuable areas of effort that can contribute to achieving extended flight, but Albatross approaches the problem from a new angle and seeks to develop weather forecast-informed mission planning and real-time onboard sensing of dynamic wind conditions across multiple environments to harness energy from winds to offset the total power of the system required for flight.&nbsp;</p><p>This additional energy harvested from the wind reduces average power and allows the system to fly farther and longer. Aircraft soaring capabilities can be summarized as the active harnessing of energy from the natural environment’s atmospheric flow field to reduce the onboard power demand to enable increased range and endurance.&nbsp;</p><p>Albatross is <strong>not </strong>a dedicated airframe or aircraft design effort.&nbsp;</p><p>The program is not focused on lowering the drag of the airframe or providing the highest energy density source. Rather, the focus is on developing and integrating planning tools, additional aircraft sensors, and unique control solutions applied to existing or otherwise quickly assembled small uncrewed aircraft to autonomously plan for, identify and respond to soaring conditions.&nbsp;</p><p>Success is defined as capitalizing on soaring conditions to extend range and endurance in an operationally relevant manner.</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+          <div class="content-width-x-large margin-x-auto paragraph paragraph--type--from-library paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+      
+            <div class="field field--name-paragraphs field--type-entity-reference-revisions field--label-hidden field__item">
+  <div class="content-width-x-large margin-x-auto desktop:padding-top-0 mobile-lg:padding-top-5 paragraph paragraph--type--right-rail paragraph--view-mode--default">
+    
+      
+      <div class="field field--name-field-right-rail-paragraph field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+
+
+
+      <div class="padding-bottom-3 border-bottom-1px margin-bottom-3 paragraph paragraph--type--program-program-manager-link paragraph--view-mode--default">
+      
+        <p class="text-bold">Program Manager</p>
+        <h6>
+          
+          
+          
+        </h6>
+
+        <p>
+          ,
+          
+        </p>
+
+        <p><a class="display-flex" href><span class="padding-right-1">Read bio</span>
+            <svg data-name="Component 32 – 4" width="30" height="30" viewBox="0 0 30 30">
+              <circle id="Ellipse_48" data-name="Ellipse 48" cx="15" cy="15" r="15" fill="#15cde7" />
+              <g id="Group_28494" data-name="Group 28494" transform="translate(-601 -6480.795)">
+                <path id="Path_34153" data-name="Path 34153" d="M3.582,0V9.489L0,5.906V8.718l3.17,3.17,1.406,1.406,1.406-1.406,3.17-3.17V5.906L5.57,9.489V0Z" transform="translate(609.353 6499.947) rotate(-90)" fill="#18191c" />
+              </g>
+            </svg>
+
+          </a></p>
+
+          </div>
+  
+
+</div>
+          </div>
+  
+
+      </div>
+</div>
+      
+
+              </div>
+      
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+
+      </div>
+</div>
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+                    
+    
+
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-28T08:50:26-05:00" title="Tuesday, January 28, 2025 - 08:50" class="datetime">Tue, 01/28/2025 - 08:50</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/programs/albatross>
 
 ---
 
@@ -165,11 +809,11 @@ date: 2025-01-28, updated: 2025-01-28, from: The Register (UK I.T. News)
 
 ---
 
-## AI facial recognition could sink this murder investigation
+## AI facial recognition could sink this murder probe
 
 date: 2025-01-28, updated: 2025-01-28, from: The Register (UK I.T. News)
 
-<h4>Police relied on unreliable tech for search warrant, omitted details ... so judge has disallowed evidence</h4> <p>A murder case in Cleveland, Ohio, could collapse because the city&#39;s police relied on AI-based facial recognition software to obtain a search warrant.…</p> 
+<h4>Cops relied on unreliable tech for search warrant, omitted details ... so judge bins off evidence</h4> <p>A murder case in Cleveland, Ohio, could collapse because the city&#39;s police relied on AI-based facial recognition software to obtain a search warrant.…</p> 
 
 <br> 
 
@@ -323,9 +967,9 @@ Reducing reliance on resupply missions Resupply of life support elements such as
 
 ## Nvidia deprecates CUDA support for aging architectures
 
-date: 2025-01-27, updated: 2025-01-27, from: The Register (UK I.T. News)
+date: 2025-01-27, updated: 2025-01-29, from: The Register (UK I.T. News)
 
-<h4>Maxwell, Pascal and Volta, oh my! But fear not, driver support is still safe</h4> <p>The end of the road is nearing for a range of aging Nvidia graphics cards, as support for several architectures was marked as feature-complete in the latest release of its CUDA runtime this month.…</p> 
+<h4>Maxwell, Pascal and Volta, oh my! But fear not, driver support is still safe</h4> <p><strong>Updated</strong>  The end of the road is nearing for a range of aging Nvidia graphics cards, as support for several architectures was marked as feature-complete in the latest release of its CUDA runtime this month.…</p> 
 
 <br> 
 

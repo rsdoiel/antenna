@@ -1,11 +1,538 @@
 ---
 title: columns
-updated: 2025-01-28 07:05:12
+updated: 2025-01-29 07:04:55
 ---
 
 # columns
 
-(date: 2025-01-28 07:05:12)
+(date: 2025-01-29 07:04:55)
+
+---
+
+##  Severance Has a New Opening Title Sequence for Season Two 
+
+date: 2025-01-29, updated: 2025-01-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/severance-has-a-new-opening-title-sequence-for-season-two>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-29, from: Dave Winer's Scripting News)
+
+We're programmed to believe big companies make things the right way and individual people can't be trusted. We're going to have to break out of that rut, to stop trusting them so much. It's like the 2008 banking crisis, but this time they've taken over the government, not just the economy. The tech industry, believe it or not, started with assumption that it was the other way around. That people were the brilliance, and companies started wars to make money (we were the generation that stopped the Vietnam war, btw). I got into computers because I thought I could earn a living that way, but quickly discovered how inherently subversive they are. They weren't just for the nerds with the plastic pocket protectors, they were also for hippies. Some of us are still here and we want to create with you. 
+
+<br> 
+
+<http://scripting.com/2025/01/29.html#a143926>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-29, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/02/04/espresso.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://www.mollywhite.net/">Molly White</a> has an excellent <a href="https://www.mollywhite.net/blogs.opml.xml">OPML subscription list</a>. I want to make something with this, maybe a <a href="http://scripting.com/2025/01/27/161656.html">Bluesky feed reader</a>? I want to show people they can combine skills to make new media. We don't have to wait for big companies to do it for us. We can work together. That's how we rise to the challenges we share. We can flip this bad situation around, turning problems into opportunity. Big changes happen now. We can steer in the direction we want to go. 
+
+<br> 
+
+<http://scripting.com/2025/01/29.html#a142921>
+
+---
+
+##  Interesting: Ooni is coming out with a mixer that they say creates... 
+
+date: 2025-01-29, updated: 2025-01-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046091-interesting-ooni-is-comin>
+
+---
+
+## ExxonMobil Lobbyist Caught Hacking Climate Activists
+
+date: 2025-01-29, updated: 2025-01-28, from: Bruce Schneier blog
+
+<p>The Department of Justice is investigating a lobbying firm representing ExxonMobil for <a href="https://www.npr.org/2025/01/24/nx-s1-5271530/hacking-investigation-climate-change">hacking</a> the phones of climate activists:</p>
+<blockquote><p>The hacking was allegedly commissioned by a Washington, D.C., lobbying firm, <a href="https://legacy.www.documentcloud.org/documents/25501845-250113-usa-v-forlit/">according to a lawyer representing the U.S. government</a>. The firm, in turn, was allegedly working on behalf of one of the world&#8217;s largest oil and gas companies, based in Texas, that wanted to discredit groups and individuals involved in climate litigation, according to the lawyer for the U.S. government. In court documents, the Justice Department does not name either company...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/01/exxonmobil-lobbyist-caught-hacking-climate-activists.html>
+
+---
+
+## 2025-01-29 Tangara
+
+date: 2025-01-29, from: Alex Schroeder's Blog
+
+<h1 id="2025-01-29-tangara">2025-01-29 Tangara</h1>
+
+<p>I joined the kickstarter a long time ago and got the device yesterday. The package was nice. It works. The menu looks good – always tricky with a wheel user interface. My 16GiB SD card works, all I had to so was reformat it using a VFAT file-system (whatever the Gnome Disks app suggested). The device came semi-charged so it worked immediately. Something rattles when I shake it. Maybe it’s the button? There is some sort of haptic feedback with the UI which surprised me. The UI doesn’t dim or go dark with inactivity, there’s a switch to do it. I guess I like it. The music sounds great with my old Sennheiser Monument cable-only headphones.</p>
+
+<p><a class="tag" href="/search/?q=%23Tangara">#Tangara</a> <a class="tag" href="/search/?q=%23Music">#Music</a> <a class="tag" href="/search/?q=%23Gadgets">#Gadgets</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-01-29-tangara>
+
+---
+
+## Ubuntu upgrade had our old Nvidia GPU begging for a downgrade
+
+date: 2025-01-29, updated: 2025-01-29, from: Liam Proven's articles at the Register
+
+<h4>If you need legacy drivers, you might want to keep your older OS version – possibly indefinitely</h4>
+      <p>The Reg FOSS desk spent some quality time downgrading Ubuntu to restore graphics acceleration. How and why would we do this?</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/01/29/nvidia_gpu_ubuntu_downgrade/>
+
+---
+
+## Office hours: The best way to respond to Trump’s neo-fascist takeover of America?
+
+date: 2025-01-29, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-the-best-way-to-respond>
+
+---
+
+## Wednesday 29 January, 2025
+
+date: 2025-01-29, from: John Naughton's online diary
+
+Multimodal transport King’s Cross Station, London. Quote of the Day ”Always tell the truth and no one will believe you.” Ronald Knox Musical alternative to the morning’s radio news Bach &#124; Italian Concerto BWV 971 (orchestral version, Alessandrini) Link If &#8230; <a href="https://memex.naughtons.org/wednesday-29-january-2025/40380/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-29-january-2025/40380/>
+
+---
+
+## A 1337 curl author
+
+date: 2025-01-29, from: Daniel Stenberg Blog
+
+For quite some time now, I celebrate and welcome every new commit author in the curl project in the public. Recently, that means I send out a toot on Mastodon saying Welcome so and so as curl commit author number XYZ and a link to their initial curl work. (example 1, example 2). This messaging &#8230; <a href="https://daniel.haxx.se/blog/2025/01/29/a-1337-curl-author/" class="more-link">Continue reading <span class="screen-reader-text">A 1337 curl author</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/01/29/a-1337-curl-author/>
+
+---
+
+## Monday 27 January, 2025
+
+date: 2025-01-29, from: John Naughton's online diary
+
+Hello or Goodbye? St Pancras Station, London Quote of the Day ”To see Stephen Spender fumbling with our rich and delicate language is to experience all the horror of seeing a Sevres vase in the hands of a chimpanzee&#8221;. Evelyn &#8230; <a href="https://memex.naughtons.org/monday-27-january-2025/40373/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/monday-27-january-2025/40373/>
+
+---
+
+## January 28, 2025
+
+date: 2025-01-29, from: Heather Cox Richardson blog
+
+During the 2024 presidential campaign, Trump distanced himself from Project 2025, a plan for a second Trump term prepared by a number of right-wing institutions led by the Heritage Foundation. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-28-2025>
+
+---
+
+## ★ My Spitball Theory on TikTok’s Current Semi-Reprieve in the U.S.
+
+date: 2025-01-29, updated: 2025-01-29, from: Daring Fireball
+
+Even if the build of TikTok already installed on an American user’s phone continues to function, that user can’t reinstall TikTok (or any of ByteDance’s other apps) on a new or restored phone until those apps are back in the app stores. 
+
+<br> 
+
+<https://daringfireball.net/2025/01/my_spitball_theory_on_tiktoks_current_semi-reprieve_in_the_us>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-29, from: Dave Winer's Scripting News)
+
+Another ad. Donald Trump on Mt Rushmore. Donald Trump on the $20 bill. The Washington Monument and Lincoln Memorial renamed Trump. Kennedy airport in NYC renamed Trump International. In the future the US will have one founding father: Donald J. Trump. 
+
+<br> 
+
+<http://scripting.com/2025/01/28.html#a015325>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-29, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/05/21/thinkUsa.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If our political system worked we’d have wonderful heart-grabbing ads on TV about all the people who have meaningful jobs thanks to DEI. It wouldn’t be hard to make the Repubs look like Scrooges. Get people riled up. Another ad, about the people Trump pardoned and what they’re doing now. Wait till one of them commits a major crime and run <a href="https://www.c-span.org/clip/vignette/willy-horton-attack-ad/4495693">Willie Horton</a> style ads. Make it understood who these people actually are. Trump has to own each and every one of them. This really isn’t hard. But the Dems think campaigns end. They don’t end. 
+
+<br> 
+
+<http://scripting.com/2025/01/28.html#a014105>
+
+---
+
+## Google Maps Will Rename Gulf of Mexico to ‘Gulf of America’, for American Users Only
+
+date: 2025-01-29, updated: 2025-01-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://x.com/NewsFromGoogle/status/1884012692048166951>
+
+---
+
+##  America Wouldn&#8217;t Know the Worst of a Vaccine Decline Until It&#8217;s Too... 
+
+date: 2025-01-28, updated: 2025-01-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046090-america-wouldnt-know-the->
+
+---
+
+## The man no rational person would put in charge of the public’s health
+
+date: 2025-01-28, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-man-no-rational-person-would>
+
+---
+
+##  Paul Krugman on &#8220;recovering my freedom&#8221; and why he left the NY... 
+
+date: 2025-01-28, updated: 2025-01-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046089-paul-krugman-on-recoverin>
+
+---
+
+## How is Deepseek R1 on a Raspberry Pi?
+
+date: 2025-01-28, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">How is Deepseek R1 on a Raspberry Pi?</span>
+
+            <p></p>
+
+<p>OpenAI, which is only really open about <a href="https://fortune.com/2023/07/11/sam-altman-oklo-ipo-spac-openai-nuclear-microreactors-green-energy/">consuming all the world's energy</a> and <a href="https://www.cnn.com/2025/01/21/tech/openai-oracle-softbank-trump-ai-investment/index.html">half a trillion of our taxpayer dollars</a>, just got rattled to its core.</p>
+
+<p>Deepseek, a new AI startup run by a Chinese hedge fund, <em>allegedly</em> created a new open weights model called R1 that beats OpenAI's best model in every metric.</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">January 28, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/how-deepseek-r1-on-raspberry-pi>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-28, from: Dave Winer's Scripting News)
+
+I thought this excerpt from <a href="https://contrarian.substack.com/p/departing-the-new-york-times">Krugman's piece</a> about his move back to blogging was right on. "For a while I tried to make up for the loss of the blog with threads on Twitter. But even before Elon Musk Nazified the site, tweet threads were an awkward, inferior substitute for blog posts." There's a need for a system that combines the full-featured writing of blogging and the timelines of twitter-like systems. 
+
+<br> 
+
+<http://scripting.com/2025/01/28.html#a222819>
+
+---
+
+##  Ebooks are now available from Bookshop[dot]org. You can read the ebooks you... 
+
+date: 2025-01-28, updated: 2025-01-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046086-ebooks-are-now-available->
+
+---
+
+## ★ Openvibe, a Multi-Social-Network App for Bluesky, Mastodon, Threads (Supposedly), and Nostr
+
+date: 2025-01-28, updated: 2025-01-28, from: Daring Fireball
+
+Openvibe, which mashes together multiple accounts from mulitple networks into a single timeline, is interesting, but not for me — and I’m not really sure who it *is* for. 
+
+<br> 
+
+<https://daringfireball.net/2025/01/openvibe>
+
+---
+
+##  The Louvre&#8217;s upcoming renovation & expansion includes a dedicated room for the... 
+
+date: 2025-01-28, updated: 2025-01-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046087-the-louvres-upcoming-reno>
+
+---
+
+##  DC superhero Dreamer, Fortnite&#8217;s first out trans character (introduced in 2022), is... 
+
+date: 2025-01-28, updated: 2025-01-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046088-dc-superhero-dreamer-fort>
+
+---
+
+##  Winners of the 2024 Close-Up Photographer of the Year. &#8220;Tadpoles devour the... 
+
+date: 2025-01-28, updated: 2025-01-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046085-winners-of-the-2024-close>
+
+---
+
+##  Who Were the Nazis? 
+
+date: 2025-01-28, updated: 2025-01-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/who-were-the-nazis>
+
+---
+
+## iOS 18.3 and MacOS 15.3 Are Both Out
+
+date: 2025-01-28, updated: 2025-01-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/01/27/ios-18-3-now-available-new-features/>
+
+---
+
+## 2025-01-27 Using rsync with Sqlite databases
+
+date: 2025-01-28, from: Alex Schroeder's Blog
+
+<h1 id="2025-01-27-using-rsync-with-sqlite-databases">2025-01-27 Using rsync with Sqlite databases</h1>
+
+<p>I use Debian stable so my copy of Sqlite is not the latest and greatest.
+At the same time, I don&rsquo;t use Borg Backup for my server. I use rsync.</p>
+
+<p>I copy the content of the important server files to my local laptop
+and then I make a backup of my laptop to external disks using Borg Backup.</p>
+
+<p>When making copies using rsync, the database must not be in use.
+Otherwise, a busy database is probably going to be corrupt when restoring
+it from backup.</p>
+
+<p>The key is to stop the program using the database before beginning the
+backup and starting it after the backup. It&rsquo;s also important to stop
+the program using the monitoring software. I use Monit to monitor the
+server. If I don&rsquo;t stop GoToSocial using Monit, Monit will discover
+that GoToSocial isn&rsquo;t running and start it while rsync is still copying
+the database file. The database file is 10G so copying it takes a long
+time. Long enough for Monit to discover that GoToSocial isn&rsquo;t running.</p>
+
+<p>I should stop and start other programs, too: The Lounge, Norn, etc.</p>
+
+<p>This is my script:</p>
+
+<pre><code>#!/bin/bash
+
+# sibirocobombus.root is defined in ~/.ssh/config
+
+# Using sudo rsync --archive to preserve ownership.
+# Using --fake-super to avoid changes to groups and owners
+
+echo Backing up Sibirocobombus
+echo Stopping GoToSocial
+ssh sibirocobombus.root monit stop gotosocial
+rsync --archive --fake-super --verbose --compress --delete --delete-excluded \
+      --itemize-changes \
+      sibirocobombus.root:/home \
+      --exclude '/home/alex/alexschroeder/' \
+      --exclude '/home/alex/helmut/' \
+      --exclude '/home/alex/alexschroeder.ch/share' \
+      --exclude '/home/alex/planet/alex/' \
+      --exclude '/home/alex/planet/indie/' \
+      --exclude '/home/alex/planet/jdr/' \
+      --exclude '/home/alex/planet/osr/' \
+      --exclude '/home/alex/planet/other/' \
+      --exclude '/home/alex/planet/podcast/' \
+      --exclude '/home/alex/planet/podcast-de/' \
+      --exclude '/home/alex/planet/podcast-fr/' \
+      --exclude '/home/alex/.cpan/build' \
+      --exclude '/home/alex/.cpan/sources' \
+      --exclude '/home/alex/.cpanm' \
+      --exclude '/home/alex/.cache' \
+      --exclude '/home/alex/.Trash' \
+      --exclude '/home/alex/.local/share/Trash' \
+      sibirocobombus.root:/etc \
+      sibirocobombus.root:/var/lib/news \
+      sibirocobombus.root:/var/lib/dpkg \
+      sibirocobombus.root:/var/lib/apt/extended_states \
+      sibirocobombus.root:/var/lib/radicale \
+      sibirocobombus.root:/usr/lib/cgit/filters \
+      /home/alex/Documents/Sibirocobombus
+echo Starting GoToSocial
+ssh sibirocobombus.root monit start gotosocial
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23Backup">#Backup</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-01-27-rsync-sqlite>
+
+---
+
+##  A 10-hour ambient cover of Hans Zimmer&#8217;s Interstellar soundtrack, perfect for relaxing,... 
+
+date: 2025-01-28, updated: 2025-01-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046038-a-10-hour-ambient-cover-o>
+
+---
+
+## Clearly illegal 
+
+date: 2025-01-28, from: Robert Reich's blog
+
+This isn&#8217;t about cutting the size of government. It&#8217;s about further concentrating power in Trump&#8217;s hands. 
+
+<br> 
+
+<https://robertreich.substack.com/p/clearly-illegal>
+
+---
+
+## Jim Acosta, Reporter and Anchor Despised by Trump, Was Pushed Out of CNN
+
+date: 2025-01-28, updated: 2025-01-28, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.threads.net/@oliverdarcy/post/DFYAusVCnzL>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-28, from: Dave Winer's Scripting News)
+
+<a href="https://shownotes.scripting.com/scripting/2025/01/28/theRepubsAreTryingToKillYou.html">Podcast</a>: The Repubs are trying to kill you. 
+
+<br> 
+
+<http://scripting.com/2025/01/28.html#a185131>
+
+---
+
+## January 27, 2025
+
+date: 2025-01-28, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155945062/eddb8c800b8187fc7d048a537cda4091.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155945062/eddb8c800b8187fc7d048a537cda4091.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-27-2025-36d>
+
+---
+
+##  Benedict Cumberbatch Reads a Letter to a Man Blow-Drying His Balls at the Gym 
+
+date: 2025-01-28, updated: 2025-01-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/benedict-cumberbatch-reads-a-letter-to-a-man-blow-drying-his-balls-at-the-gym>
+
+---
+
+## iPad at 15: Hit or a Miss?
+
+date: 2025-01-28, from: Om Malik blog
+
+Yesterday slipped away, and I never got a chance to mark the 15th birthday of the iPad, perhaps one of the most misunderstood products in Apple’s lineup. The confusion over the device is not limited to reviewers or buyers but extends to Apple itself, which hasn’t really been able to give it the direction it &#8230; 
+
+<br> 
+
+<https://om.co/2025/01/28/ipad-at-15-hit-or-a-miss/>
+
+---
+
+##  Now Streaming: Seven Samurai&#8217;s 4K Restoration 
+
+date: 2025-01-28, updated: 2025-01-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/now-streaming-seven-samurais-4k-restoration>
+
+---
+
+##  Reupping this Jamelle Bouie piece from Dec: Now Is Not the Time... 
+
+date: 2025-01-28, updated: 2025-01-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046082-reupping-this-jamelle-bou>
 
 ---
 
@@ -87,6 +614,7 @@ date: 2025-01-28, from: Dave Winer's Scripting News
 <p>This started as a <a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lgsgmmhyf22q">thread</a> on Bluesky of course. :-)</p>
 <p>PS: Spoiler -- Bluesky is, as it is currently configured, not billionaire-proof. It's going to get acquired, it probably already has, based on what they're doing. Remember, pay attention to what they do, not what they say. It's just as true in tech as it is in politics, and these days, what's the difference anyway? </p>
 <p>PPS: If you're thinking ahh but there's <a href="https://en.wikipedia.org/wiki/AT_Protocol">AT Protocol</a>, our ace in the hole. Please. Twitter had an <a href="https://en.wikipedia.org/wiki/Twitter#Technology">API</a> too. It didn't make a difference. And AT Proto won't either unless there are proven systems that people are actually using that peer with Bluesky's servers, so those users can't be sold to the billionaire. We're nowhere near that. No one can say with any certainty that it's even possible. At this point the continued support of the API is entirely up to the owners of Bluesky. They could change it, break developers or completely drop it and the users and developers would have no recourse. </p>
+<p>PPPS: Can you imagine the founders of Bluesky wouldn't take $20 million each for their share? </p>
  
 
 <br> 
@@ -266,87 +794,9 @@ date: 2025-01-27, updated: 2025-01-27, from: Jason Kittke's blog
 
 ---
 
-## 2025-01-27 Using rsync with Sqlite databases
-
-date: 2025-01-27, from: Alex Schroeder's Blog
-
-<h1 id="2025-01-27-using-rsync-with-sqlite-databases">2025-01-27 Using rsync with Sqlite databases</h1>
-
-<p>I use Debian stable so my copy of Sqlite is not the latest and greatest.
-At the same time, I don&rsquo;t use Borg Backup for my server. I use rsync.</p>
-
-<p>I copy the content of the important server files to my local laptop
-and then I make a backup of my laptop to external disks using Borg Backup.</p>
-
-<p>When making copies using rsync, the database must not be in use.
-Otherwise, a busy database is probably going to be corrupt when restoring
-it from backup.</p>
-
-<p>The key is to stop the program using the database before beginning the
-backup and starting it after the backup. It&rsquo;s also important to stop
-the program using the monitoring software. I use Monit to monitor the
-server. If I don&rsquo;t stop GoToSocial using Monit, Monit will discover
-that GoToSocial isn&rsquo;t running and start it while rsync is still copying
-the database file. The database file is 10G so copying it takes a long
-time. Long enough for Monit to discover that GoToSocial isn&rsquo;t running.</p>
-
-<p>I should stop and start other programs, too: The Lounge, Norn, etc.</p>
-
-<p>This is my script:</p>
-
-<pre><code>#!/bin/bash
-
-# sibirocobombus.root is defined in ~/.ssh/config
-
-# Using sudo rsync --archive to preserve ownership.
-# Using --fake-super to avoid changes to groups and owners
-
-echo Backing up Sibirocobombus
-echo Stopping GoToSocial
-ssh sibirocobombus.root monit stop gotosocial
-# https://www.debian.org/releases/buster/amd64/release-notes/ch-upgrading.en.html#data-backup
-rsync --archive --fake-super --verbose --compress --delete --delete-excluded \
-      --itemize-changes \
-      sibirocobombus.root:/home \
-      --exclude '/home/alex/alexschroeder/' \
-      --exclude '/home/alex/helmut/' \
-      --exclude '/home/alex/alexschroeder.ch/share' \
-      --exclude '/home/alex/planet/alex/' \
-      --exclude '/home/alex/planet/indie/' \
-      --exclude '/home/alex/planet/jdr/' \
-      --exclude '/home/alex/planet/osr/' \
-      --exclude '/home/alex/planet/other/' \
-      --exclude '/home/alex/planet/podcast/' \
-      --exclude '/home/alex/planet/podcast-de/' \
-      --exclude '/home/alex/planet/podcast-fr/' \
-      --exclude '/home/alex/.cpan/build' \
-      --exclude '/home/alex/.cpan/sources' \
-      --exclude '/home/alex/.cpanm' \
-      --exclude '/home/alex/.cache' \
-      --exclude '/home/alex/.Trash' \
-      --exclude '/home/alex/.local/share/Trash' \
-      sibirocobombus.root:/etc \
-      sibirocobombus.root:/var/lib/news \
-      sibirocobombus.root:/var/lib/dpkg \
-      sibirocobombus.root:/var/lib/apt/extended_states \
-      sibirocobombus.root:/var/lib/radicale \
-      sibirocobombus.root:/usr/lib/cgit/filters \
-      /home/alex/Documents/Sibirocobombus
-echo Starting GoToSocial
-ssh sibirocobombus.root monit start gotosocial
-</code></pre>
-
-<p><a class="tag" href="/search/?q=%23Backup">#Backup</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-01-27-rsync-sqlite>
-
----
-
 ## CNBC: ‘Nvidia Drops 17 Percent as China’s Cheaper AI Model DeepSeek Sparks Global Tech Sell-Off’
 
-date: 2025-01-27, updated: 2025-01-27, from: Daring Fireball
+date: 2025-01-27, updated: 2025-01-28, from: Daring Fireball
 
  
 

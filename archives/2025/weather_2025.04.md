@@ -1,17 +1,17 @@
 ---
 title: weather
-updated: 2025-01-28 07:05:12
+updated: 2025-01-29 07:04:55
 ---
 
 # weather
 
-(date: 2025-01-28 07:05:12)
+(date: 2025-01-29 07:04:55)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-01-28, from: Eastern Pacific Basin Tropical Cyclones
+date: 2025-01-29, from: Eastern Pacific Basin GIS Data
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
@@ -21,15 +21,134 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Tue Jan 28 14:34:02 UTC 2025
+## SPC - No watches are valid as of Wed Jan 29 15:00:02 UTC 2025
 
-date: 2025-01-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Jan 28 14:34:02 UTC 2025. 
+No watches are valid as of Wed Jan 29 15:00:02 UTC 2025. 
 
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Wed Jan 29 15:00:02 UTC 2025
+
+date: 2025-01-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Wed Jan 29 15:00:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Jan 29, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-01-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0648 AM CST Wed Jan 29 2025
+
+Valid 291300Z - 301200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR CENTRAL AND
+NORTH TEXAS...
+
+...SUMMARY...
+A few strong to severe thunderstorms will be possible across parts
+of the southern Great Plains tonight.
+
+..Southern Great Plains...
+Water-vapor imagery this morning shows a closed upper low over the
+Desert Southwest.  This upper feature will gradually move eastward
+through daybreak Thursday reaching the Sangre de Cristos. 
+Widespread cloud cover over central/eastern TX into OK will tend to
+limit diurnal heating today.  Southerly low-level flow over
+south/coastal TX will slowly intensify as a still modifying airmass
+over the western Gulf of America moves inland into the TX Hill
+Country.  Isolated thunderstorms may develop later this afternoon
+over northeast TX into AR but weak elevated instability will limit
+storm intensity.  
+
+By mid to late evening, prior moistening during the day into the
+early evening will yield weak instability (250-1000 J/kg MUCAPE)
+from west-central TX north-northeastward into southern OK.  The
+arrival of stronger large-scale ascent associated with the
+approaching upper low and Pacific cold front will facilitate the
+development of showers/thunderstorms from central TX into southern
+OK.  Relatively cool 500-mb temperatures around -16 deg C will
+support a potential risk for large hail with a few of the stronger
+updrafts.  Convective coverage is forecast to quickly increase
+during the late evening/overnight timeframe as storms become
+oriented in a large band.  An accompanying risk for isolated strong
+to locally severe will likely continue through the overnight.  A
+surface-based warm sector may eventually be encountered by storms on
+the southern portion of the band near the I-35 corridor overnight. 
+A marginal risk for severe gusts and perhaps a tornado could develop
+with this activity.
+
+..Smith/Kerr.. 01/29/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2025-01-29, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0145 AM CST Wed Jan 29 2025
+
+Valid 301200Z - 311200Z
+
+...NO CRITICAL AREAS...
+
+...Synopsis...
+Fire weather potential appears limited across the country on
+Thursday, though some concerns may emerge across the Big Bend region
+of southern Texas depending on fuel trends over the next 48 hours.
+The upper low currently over the Southwest is expected to eject into
+the southern Plains through late Thursday. Surface cyclogenesis is
+expected to become more pronounced Thursday afternoon across the
+central Plains, resulting in strengthening pressure gradient winds
+across much of TX. Westerly winds between 15-25 mph will be common,
+and dry air advection, coupled with deep boundary-layer mixing, will
+promote RH reductions down to 15-20% across the greater Big Bend
+region. Recent ensemble guidance shows reasonably high probabilities
+for sustained elevated fire weather conditions across this region
+with low to moderate probabilities (30-50%) for critical conditions.
+While confidence in reasonably high for at least elevated fire
+weather conditions, fuels across this region are not overly
+receptive with ERCs generally below the 80th percentile and 10-hour
+fuel moisture values above the 50th percentile. Fire weather
+highlights may be needed in future forecast updated if fine fuels
+can sufficiently dry by Thursday afternoon.
+
+..Moore.. 01/29/2025
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -94,98 +213,6 @@ LAT...LON   48538911 47918791 46888619 46278519 45418590 44838674
 <br> 
 
 <https://www.spc.noaa.gov/products/md/md0056.html>
-
----
-
-## SPC Jan 28, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-01-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0637 AM CST Tue Jan 28 2025
-
-Valid 281300Z - 291200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not forecast across the contiguous United
-States through tonight.
-
-...Synopsis...
-Water-vapor imagery loop indicates a split flow upper-air pattern
-over North America with a closed mid- to upper-level low meandering
-over the Desert Southwest.  A few showers associated with the upper
-low may become convectively augmented and yield a couple of
-lightning flashes.  Otherwise, docile conditions will prevail across
-the remainder of the Lower 48 from a thunderstorm perspective. 
-Deep, cyclonic flow will encompass the Upper Midwest southeastward
-into the Appalachians/Eastern Seaboard and maintain seasonably
-cool/stable air via continental trajectories.
-
-..Smith/Kerr.. 01/28/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-01-28, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0146 AM CST Tue Jan 28 2025
-
-Valid 291200Z - 301200Z
-
-...NO CRITICAL AREAS...
-
-...Synopsis...
-Fire weather concerns are expected to be limited for Wednesday
-across the country. The upper low currently over western Arizona
-will shift into the southern Plains through Wednesday evening.
-Widespread rain chances will overspread the southern Plains and
-Southwest regions through the day limiting fire weather potential
-for most areas. One exception is West Texas and south-central NM
-where rainfall should be limited. While breezy southwest winds are
-likely, recent guidance suggests the probability of reaching
-elevated RH thresholds is low. Elsewhere across the country, cool
-temperatures, weak winds, and/or recent rain/snowfall preclude fire
-weather concerns.
-
-..Moore.. 01/28/2025
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## SPC - No MDs are in effect as of Mon Jan 27 14:56:02 UTC 2025
-
-date: 2025-01-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Mon Jan 27 14:56:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 

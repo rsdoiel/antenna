@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-01-28 07:05:12
+updated: 2025-01-29 07:04:56
 ---
 
 # games
 
-(date: 2025-01-28 07:05:12)
+(date: 2025-01-29 07:04:56)
+
+---
+
+## Congrats, movie trivia nerds. CineNerdle Battle feels like a real game now, and it rules
+
+date: 2025-01-29, updated: 2025-01-28, from: Polygon Website
+
+Last year, I became very taken with movie puzzle site Cine2Nerdle’s battle mode, which pits two opponents against each other in a movie trivia showdown. The bones of the original game were simple: After being given a starting movie, both players go back and forth finding connections to other movies through cast and crew members [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/515512/cine2nerdle-battle-mode-2-movie-trivia-game-online>
+
+---
+
+## No Man’s Sky’s newest Worlds update includes trillions of new planets
+
+date: 2025-01-29, updated: 2025-01-29, from: Polygon Website
+
+No Man’s Sky has become famous for its long list of free updates, many of them changing major facets of the space exploration game. In July 2024, developer Hello Games released Worlds Part 1, which overhauled things like wind patterns, flora and fauna spawns, and clouds. This update transformed familiar worlds, turning my placid and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/515575/no-mans-sky-worlds-part-2-update>
+
+---
+
+## What time does Fortnite OG Season 2 release?
+
+date: 2025-01-29, updated: 2025-01-28, from: Polygon Website
+
+Fortnite OG Season 2 is coming to Fortnite on Friday, Jan. 31 — along with all of its OG updates. Anyone who has missed out on the chaos of landing at Tilted Towers can now experience it in all its glory. Those who’ve been playing OG Season 1 have realized that there wasn’t many options [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/514223/og-season-2-release-time-date-est-pst-bst>
+
+---
+
+## When is the trading release date in Pokémon TCG Pocket, and how do trades work?
+
+date: 2025-01-29, updated: 2025-01-29, from: Polygon Website
+
+Trading in Pokémon TCG Pocket has been a known feature since the app’s announcement back in Feb. 2024, but the trade button in the Social Hub has been grayed-out and slapped with a “coming soon” sticker since launch. The much-awaited function comes with its own requirements and limitations, meaning you won’t be able to get [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/484754/trading-release-date-unlock-restrictions>
+
+---
+
+## A skiing game that’s as relaxing (or stressful) as you need it to be
+
+date: 2025-01-29, updated: 2025-01-28, from: Polygon Website
+
+You take a deep inhale of the crisp air atop a mountain blanketed in untouched snow. Pines, ponds, and the occasional boulder the size of a pickup truck decorate the powder. Your only obligation is to reach the valley below. Depending on your sensibilities (and skiing experience), you’re either on vacation or on the cusp [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/514918/lonely-mountains-snow-riders-impressions>
+
+---
+
+## GOG wants your vote on classic games to bring back with its new Dreamlist tool
+
+date: 2025-01-29, updated: 2025-01-28, from: Polygon Website
+
+GOG, a digital storefront for classic and DRM-free PC games, is debuting a new tool for users to vouch and vote on what they’d like to see released next. It’s called GOG Dreamlist and it’s essentially an evolution of the community voting its done in the past but organized into a full-on tool for recommending [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/515375/gog-dreamlist-vote-classic-games>
+
+---
+
+## Where to find all nymphs in Honkai: Star Rail
+
+date: 2025-01-28, updated: 2025-01-28, from: Polygon Website
+
+Honkai: Star Rail’s 3.0 update added a new type of scavenger hunt to the game: nymphs in Amphoreus. These critters are scattered around the maps, with each map featuring a “Garmentmaker” looking to find them. Help the “Garmentmaker” out and you’ll be able to get Stellar Jade and other goodies for yoru time. These little [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/honkai-star-rail-guides/507070/nymph-locations-butterfly-beetles-map>
+
+---
+
+## How to solve the ‘Crrk?’ prophecy tablet in Honkai: Star Rail
+
+date: 2025-01-28, updated: 2025-01-28, from: Polygon Website
+
+As you hunt down prophecy tablets and other puzzles around Amphoreus in Honkai: Star Rail, you’ll find one with no prompt shown on the left side though, saying “Crrk?” This tablet is in Janusopolis, in the room where the Trailblazer and Dan Heng first crash landed on Amphoreus. Your character will note that it likely [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/honkai-star-rail-guides/510005/crrk-prophecy-tablet-solution-puzzle-reward-how-to-solve>
+
+---
+
+## How to headshot players from above easily in Fortnite
+
+date: 2025-01-28, updated: 2025-01-28, from: Polygon Website
+
+Completing the “Headshot players from above” weekly quest in Fortnite will automatically make you think of locations with a lot of verticality. Locations like Seaport City, Warrior’s Watch, and Canyon Crossing have a lot of buildings you can perch on top of and rain fire onto those below you. However, there is a much simpler [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/514946/headshot-players-from-above-weekly-quest-locations-best>
+
+---
+
+## Game Developers Choice Awards nominees announced, led by Astro Bot, Black Myth: Wukong
+
+date: 2025-01-28, updated: 2025-01-28, from: Polygon Website
+
+Nominations for the 2025 iteration of the Game Developers Choice Awards, an event that takes place annually at the Game Developers Conference in San Francisco, have been revealed today, and although there are some familiar titles popping up, the resulting list is far from a one-to-one with The Game Awards 2024. One reason for that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/awards/515505/game-developers-choice-2025-gdc-nominees>
 
 ---
 
@@ -18,18 +138,6 @@ One of our favorite anime of 2024, The Apothecary Diaries, is now available on B
 <br> 
 
 <https://www.polygon.com/deals/514582/apothecary-diaries-season-one-blu-ray-where-to-buy>
-
----
-
-## When is the trading release date in Pokémon TCG Pocket, and how do trades work?
-
-date: 2025-01-28, updated: 2025-01-28, from: Polygon Website
-
-Trading in Pokémon TCG Pocket has been known since the app’s announcement back in Feb. 2024, but the trade button in the Social Hub has been grayed-out and slapped with a “coming soon” sticker since launch. The much-awaited function comes with its own requirements and limitations, meaning you won’t be able to get your hands [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-tcg-pocket-guides/484754/trading-release-date-unlock-restrictions>
 
 ---
 

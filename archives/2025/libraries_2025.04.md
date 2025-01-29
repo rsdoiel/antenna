@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-01-28 07:05:13
+updated: 2025-01-29 07:04:56
 ---
 
 # libraries
 
-(date: 2025-01-28 07:05:13)
+(date: 2025-01-29 07:04:56)
+
+---
+
+## Molecular Connections Buys Morressier
+
+date: 2025-01-29, from: Scholarly Kitchen
+
+<p>Molecular Connections has purchased Morressier. Analysis from Roger C. Schonfeld.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/01/29/molecular-connections-buys-morressier/">Molecular Connections Buys Morressier</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/01/29/molecular-connections-buys-morressier/>
 
 ---
 
@@ -47,11 +61,49 @@ Barandun, Niculò; Meier, Benjamin; Stehli, Gautier; Gräbnitz, Fabienne; Zangge
 
 ---
 
+## POSI 2.0 feedback
+
+date: 2025-01-28, from: Crossref Blog
+
+<p>As a provider of foundational open scholarly infrastructure, Crossref is an adopter of the <a href="https://openscholarlyinfrastructure.org" target="_blank">Principles of Open Scholarly Infrastructure (POSI)</a>. In December 2024 we posted our <a href="https://www.crossref.org/blog/2024-posi-audit/">updated POSI self-assessment</a>. POSI provides an invaluable framework for transparency, accountability, susatinability and community alignment. There are 21 other <a href="https://openscholarlyinfrastructure.org/posse/" target="_blank">POSI adopters</a>.</p>
+<p>Together, we are now undertaking a public consultation on proposed revisions for a version 2.0 release of the principles, which would update the current <a href="https://doi.org/10.24343/C34W2H" target="_blank">version 1.1 of the principles, released in November 2023</a>.</p>
+<p>This is a crucial step in ensuring that POSI evolves to meet the needs of the community. Whether you are part of an organization that has adopted POSI, is considering adoption, interacts with POSI-aligned groups, or you have a personal interest in open scholarly infrastructure, your perspective is invaluable.</p>
+<h2 id="some-additional-context-about-posi">Some additional context about POSI</h2>
+<ul>
+<li>
+<p>POSI is not an organization; POSI adopters are an informal group of those that have conducted self-assessments.</p>
+</li>
+<li>
+<p>The POSI principles are not rules or a checklist; organizations or groups can adopt or interpret them to fit many different circumstances.</p>
+</li>
+<li>
+<p>Our goal is for POSI self-assessments to be made publicly available and for interested communities to assess and monitor updates and progress.</p>
+</li>
+</ul>
+<h2 id="how-to-participate">How to Participate</h2>
+<p>If your organization has adopted POSI, is considering adoption, interacts with POSI-aligned groups, or you have a personal interest in open scholarly infrastructure, your perspective is invaluable.</p>
+<ul>
+<li>
+<p>Review the <a href="https://openscholarlyinfrastructure.org/public-comment-v2/" target="_blank">Proposed POSI 2.0 Revisions</a>.</p>
+</li>
+<li>
+<p>Share your thoughts via our <a href="https://forms.gle/4KkaRJoar6KjrsbW7" target="_blank">short survey</a>.</p>
+</li>
+</ul>
+<p>Deadline: March 5, 2025</p>
+<p>Together, we can shape the future of open scholarly infrastructure. Join the conversation and make your voice heard!</p> 
+
+<br> 
+
+<https://www.crossref.org/blog/posi-2.0-feedback/>
+
+---
+
 ## Day in Review (January 27–30)
 
 date: 2025-01-27, from: Association of Research Libraries News
 
-<p>Last Updated on January 27, 2025, 4:07 pm ET Jump to: Tuesday, January 28 &#124; Wednesday, January 29 &#124; Thursday, January 30 Monday, January 27 Top o’ the Review CNI...</p>
+<p>Last Updated on January 28, 2025, 5:18 pm ET Jump to: Tuesday, January 28 &#124; Wednesday, January 29 &#124; Thursday, January 30 Monday, January 27 Top o’ the Review CNI...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-27-30/">Day in Review (January 27–30)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

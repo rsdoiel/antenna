@@ -1,11 +1,1456 @@
 ---
 title: north america
-updated: 2025-01-28 07:05:10
+updated: 2025-01-29 07:04:54
 ---
 
 # north america
 
-(date: 2025-01-28 07:05:10)
+(date: 2025-01-29 07:04:54)
+
+---
+
+## Live with Jim Acosta and Norm Eisen
+
+date: 2025-01-29, from: The Contrarian
+
+A recording from Norman Eisen and Jim Acosta's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155966765/b3045fa1a6f2a83ee3df54bb2eea2111.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155966765/b3045fa1a6f2a83ee3df54bb2eea2111.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/live-with-jim-acosta-and-norm-eisen>
+
+---
+
+## Defense secretary pulls Trump critic Gen. Milley's security clearance, protective detail
+
+date: 2025-01-29, from: VOA News USA
+
+Washington — Defense Secretary Pete Hegseth is pulling the security protections and clearance of retired Joint Chiefs chairman Gen. Mark Milley, and he has ordered the Pentagon's inspector general to review Milley's actions while serving as the nation's top uniformed officer to determine if a demotion is warranted, two defense officials confirmed late Tuesday.
+
+
+The inspector general review will include “an inquiry into the facts and circumstances surrounding Gen Milley’s conduct so that the Secretary may determine whether it is appropriate to reopen his military grade review determination,” said Pentagon spokesman John Ullyot.
+
+
+“The Secretary informed General Milley today that he is revoking the authorization for his security detail and suspending his security clearance as well," he said.
+
+
+Milley served as chairman during President Donald Trump's first term in office. While the relationship initially went well, it soured deeply and fast, as Milley tried to advise and contain the president on a host of issues.
+
+
+Milley pushed back on the president's interest in using force domestically to quell protestors after the death of George Floyd, and he was at the center of a controversy in 2021 when he made independent calls to his Chinese counterpart. Trump called the calls an act of treason, but at the time Milley said the calls were routine and part of the scope of his job.
+
+
+Milley in his final days as chairman after Trump had left office was equally outspoken about his former boss. He said at his official retirement ceremony “ we don’t take an oath to a king or a queen or to a tyrant or a dictator. And we don’t take an oath to a wannabe dictator.”
+
+
+“We don’t take an oath to an individual. We take an oath to the Constitution, and we take an oath to the idea that is America, and we’re willing to die to protect it," he said at the time.
+
+
+Hegseth's chief of staff Joe Kasper said that the decision to strip Milley of his clearance and detail was taken because "undermining the chain of command is corrosive to our national security, and restoring accountability is a priority for the Defense Department under President Trump’s leadership.”
+
+
+The moves, which were first reported by Fox News, also may include taking down Milley's Army chief of staff portrait. Milley's chairman portrait was stripped from the wall just hours after Trump was sworn in. The portraits were both paid for by a donation from the Association of the United States Army, not taxpayer dollars, and were a gift to Milley honoring his service. 
+
+<br> 
+
+<https://www.voanews.com/a/defense-secretary-pulls-trump-critic-gen-milley-s-security-clearance-protective-detail/7955395.html>
+
+---
+
+## Consumers are getting less optimistic about the future
+
+date: 2025-01-29, from: Market Place
+
+A key measure of consumer confidence finds consumers anticipating worse economic conditions. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/29/consumers-are-getting-less-optimistic-about-the-future/>
+
+---
+
+## More Americans will be able to file their tax return directly online with the IRS this year
+
+date: 2025-01-29, from: Market Place
+
+The tax prep industry opposes the service. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/29/direct-file-irs-tax-returns/>
+
+---
+
+## Norfolk Southern seeks to dismiss a lawsuit that alleged it delays Amtrak trains
+
+date: 2025-01-29, from: Market Place
+
+The dispute stems from a law that requires freight rail companies to give Amtrak “preference” on their tracks. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/29/norfolk-southern-amtrak-justice-department/>
+
+---
+
+## Sean Duffy Targets Biden’s Fuel Economy Standards
+
+date: 2025-01-29, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjA5Mjc5Mi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1NjE5NjI0MX0.92ddg425ozTDlm-FBtR62Pj9ATike9vY8gvMdkOkuR8/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><em><strong>Current conditions:</strong> Storm Herminia moved over Europe, bringing severe flooding to Spain and France • The air quality is low in Mumbai, where a panel is considering banning vehicles powered by gas or diesel • It’s chilly but sunny in Washington, D.C., where Robert F. Kennedy Jr. will face the Senate Finance Committee in his confirmation hearings to lead the Department of Health and Human Services.</em></p><h2>THE TOP FIVE</h2><h3>1. Judge halts Trump’s funding pause</h3><p>A lot happened in Washington yesterday. Chaos erupted after the Office of Management and Budget dropped a <a href="https://www.nytimes.com/interactive/2025/01/27/us/omb-memo.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_AdZvp1AlrAVOTkEKGR_Zqh8rRi-GtJvOP10eeJVQ8KW3JMv4e6M1z8v2EZOSW97A8DtEl" rel="noopener noreferrer" target="_blank">two-page memo</a> ordering a pause on federal grant programs that “advance[s] Marxist equity, transgenderism, and green new deal social engineering policies.” <a href="https://heatmap.news/politics/trump-memo-climate-programs?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_AdZvp1AlrAVOTkEKGR_Zqh8rRi-GtJvOP10eeJVQ8KW3JMv4e6M1z8v2EZOSW97A8DtEl" target="_self">According to Heatmap’s Jael Holzman</a>, the freeze targets programs including vast swathes of the federal government most relevant to the energy sector, from major Energy Department cleantech research offices and labs to all implementations of energy tax credits, including those in the Inflation Reduction Act. It also includes essentially all work at the National Oceanic and Atmospheric Administration, a Commerce Department subagency that produces climate science and weather forecasting. The order was set to take effect at 5 p.m. but a federal judge temporarily halted enforcement of it until a hearing on February 3.</p><p>Also yesterday, Sean Duffy was confirmed by the Senate as the new Transportation secretary. He wasted no time, signing an <a href="https://www.transportation.gov/sites/dot.gov/files/2025-01/Signed%20Secretarial%20Memo%20re%20Fixing%20the%20CAFE%20Program.pdf?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_AdZvp1AlrAVOTkEKGR_Zqh8rRi-GtJvOP10eeJVQ8KW3JMv4e6M1z8v2EZOSW97A8DtEl" target="_blank">order</a> to roll back former President Biden’s fuel economy standards aimed at reducing emissions. His memo said the standards “put coercive pressure on automakers to phase out production of various models of popular (internal combustion engine) vehicles.”</p><h3><span></span>2. Study: Climate change made California wildfires more likely and more intense</h3><p><strong></strong>Human-caused climate change increased the likelihood of California’s wildfires by 35%, according to a rapid <a href="https://www.worldweatherattribution.org/climate-change-increased-the-likelihood-of-wildfire-disaster-in-highly-exposed-los-angeles-area?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_AdZvp1AlrAVOTkEKGR_Zqh8rRi-GtJvOP10eeJVQ8KW3JMv4e6M1z8v2EZOSW97A8DtEl" target="_blank">analysis</a> from the World Weather Attribution. Warmer weather, drier conditions, and a longer fire season all supercharged the fires, the group said, making them not only more likely, but 6% more intense. It also found that the state’s dry season has gotten about 23 days longer, and the likelihood of no rainfall in the last three months of the year has doubled since pre-industrial years. “What makes [these fires] ever more dangerous, and what is something that the government of California alone can definitely not do anything about is human-induced climate change,” <a href="https://phys.org/news/2025-01-climate-conditions-fed-california-wildfires.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_AdZvp1AlrAVOTkEKGR_Zqh8rRi-GtJvOP10eeJVQ8KW3JMv4e6M1z8v2EZOSW97A8DtEl" target="_blank">said</a> WWA co-lead scientist Friederike Otto. “And drill, baby, drill will make this much, much worse.” The study hasn’t been peer-reviewed yet. </p><h3>3. A quick EV news roundup </h3><p>General Motors <a href="https://investor.gm.com/news-releases/news-release-details/q4-2024-letter-shareholders?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_AdZvp1AlrAVOTkEKGR_Zqh8rRi-GtJvOP10eeJVQ8KW3JMv4e6M1z8v2EZOSW97A8DtEl" rel="noopener noreferrer" target="_blank">reported</a> solid Q4 earnings for 2024 yesterday that beat expectations, but it’s the year ahead that investors are worried about. The automaker’s shares fell after the earnings call because analysts don’t think the company is <a href="https://investor.gm.com/news-releases/news-release-details/q4-2024-letter-shareholders?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_AdZvp1AlrAVOTkEKGR_Zqh8rRi-GtJvOP10eeJVQ8KW3JMv4e6M1z8v2EZOSW97A8DtEl" rel="noopener noreferrer" target="_blank">prepared</a> for potential policy changes under President Trump. “In our view, the guidance for 2025 leaves no room for errors, and also does not include impact from regulatory changes in the U.S., especially on tariffs and BEV support,” analysts at Bernstein <a href="https://www.cnbc.com/2025/01/28/general-motors-gm-earnings-q4-2024.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_AdZvp1AlrAVOTkEKGR_Zqh8rRi-GtJvOP10eeJVQ8KW3JMv4e6M1z8v2EZOSW97A8DtEl" rel="noopener noreferrer" target="_blank">said</a> in a note. GM CEO Mary Barra said the company’s EV business was moving toward profitability. The Chevy Equinox EV saw an 85% quarterly increase in sales, and the GMC Hummer EV had its “best sales quarter ever.” Tesla will report its Q4 financial results this evening. </p><p>In other EV news, Volkswagen has <a href="https://mobile.guideautoweb.com/en/articles/77182/volkswagen-id.7-won-t-be-sold-in-north-america-after-all/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_AdZvp1AlrAVOTkEKGR_Zqh8rRi-GtJvOP10eeJVQ8KW3JMv4e6M1z8v2EZOSW97A8DtEl" target="_blank">reportedly</a> canceled the U.S. rollout of the ID.7 electric sedan. We might have seen this coming. The company delayed the original rollout, which was slated for last May. Now, a company spokesperson <a href="https://www.autonews.com/volkswagen/an-vw-cancels-id7-us-canada/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_AdZvp1AlrAVOTkEKGR_Zqh8rRi-GtJvOP10eeJVQ8KW3JMv4e6M1z8v2EZOSW97A8DtEl" target="_blank">told</a> <em><em>Automotive News</em></em> the “ongoing challenging EV climate” in the U.S. was the reason for the decision to pull the plug.</p><h3><span></span>4. Solar industry group calls for major increase in energy storage</h3><p>The large trade group that calls itself “the voice of the solar industry” is <a href="https://seia.org/news/seia-announces-target-of-700-gwh-of-u-s-energy-storage-by-2030/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_AdZvp1AlrAVOTkEKGR_Zqh8rRi-GtJvOP10eeJVQ8KW3JMv4e6M1z8v2EZOSW97A8DtEl" target="_blank">calling for</a> a major ramping up of U.S. energy storage by 2030. The Solar Energy Industries Association wants to see 10 million storage installations deployed by 2030 so the country can reach a total of 700 gigawatt-hours of installed storage capacity across the grid. For context, current installed storage capacity is an estimated 83 GWh, and there are about 500,000 storage installations. Current projections suggest the U.S. will have 450 GWh of storage capacity by 2030. The group calls on states, regional transmission organizations, and the federal government to speed things up, and offers some suggestions for how they might do that: </p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="a921e118ed0807ff98a34f83090da8fb" data-rm-shortcode-name="rebelmouse-image" id="59ecd" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjA5MjgwMi9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc1NzYxMTUxMH0.edd6j_LkfXUYqzsQJ6ssfQeIrLH9RiIzbYcIr1gzBGM/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">SEIA</small></p><h3>5. Researchers detect heavy metals in soil near California battery fire</h3><p>Raised levels of heavy metals have been detected in the soil surrounding the Moss Landing Power Plant in California’s Monterey County, where a massive battery fire burned for five days earlier this month. KQED <a href="https://www.kqed.org/news/12024233/monterey-county-battery-fire-linked-surge-heavy-metals-nature-reserves-soil?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_AdZvp1AlrAVOTkEKGR_Zqh8rRi-GtJvOP10eeJVQ8KW3JMv4e6M1z8v2EZOSW97A8DtEl" rel="noopener noreferrer" target="_blank">reported</a> that scientists at San José State University’s Moss Landing Marine Laboratories found “a hundreds-fold rise” in toxic metals including nickel, manganese, and cobalt in the topsoil within a two mile radius of the plant. The findings <a href="https://www.kqed.org/news/12023562/after-huge-monterey-county-battery-fire-locals-describe-headaches-nausea-and-a-taste-of-metal?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_AdZvp1AlrAVOTkEKGR_Zqh8rRi-GtJvOP10eeJVQ8KW3JMv4e6M1z8v2EZOSW97A8DtEl" rel="noopener noreferrer" target="_blank">contradict</a> those of the Environmental Protection Agency, which said its air monitoring didn’t find any evidence of harmful toxins released from the fire. Residents near the plant have reported health problems like headaches, nosebleeds, and nausea in the weeks after the blaze. The metals detected are linked to long-term health problems including lung disease, cancer, and Parkinson’s disease.</p><h2>THE KICKER</h2><p>The <a href="https://thebulletin.org/2025/01/press-release-doomsday-clock-set-at-89-seconds-to-midnight-closest-ever-to-human-extinction/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_AdZvp1AlrAVOTkEKGR_Zqh8rRi-GtJvOP10eeJVQ8KW3JMv4e6M1z8v2EZOSW97A8DtEl" rel="noopener noreferrer" target="_blank">Doomsday Clock</a> was updated yesterday. The Bulletin of the Atomic Scientists’ Science and Security Board moved it from 90 seconds to midnight to 89 seconds to midnight, “the closest the Clock has ever been to midnight in its 78-year history.”</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="e37b2361fad850fdcc439c4db39e08c5" data-rm-shortcode-name="rebelmouse-image" id="f7442" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjA5Mjg1NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4NjY2NDQ2N30.bGt19kS6-nwOaKd6bO6Tbg-50j-cnJgbo3g7QDi57Yw/image.jpg?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit..."> Kayla Bartkowski/Getty Images</small></p> 
+
+<br> 
+
+<https://heatmap.news/electric-vehicles/sean-duffy-transportation-fuel-standards>
+
+---
+
+## The Human Cost of Frozen Funds
+
+date: 2025-01-29, from: The Contrarian
+
+This is anything but &#8220;pro-life&#8221; 
+
+<br> 
+
+<https://contrarian.substack.com/p/government-freeze-halts-vital-research>
+
+---
+
+## Can the U.S. Meet Its Climate Goals Without Wind?
+
+date: 2025-01-29, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjAwNDMyOS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NTk1Njc0N30.BePj83CrEjyY_YGX_p0FSNT5U78hpSr8BuOg4-QtGgc/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
+	Among the <a href="https://heatmap.news/electric-vehicles/trump-ev-executive-order" target="_self"><u>many</u></a>, <a href="https://heatmap.news/politics/trump-leaves-paris-agreement" target="_self"><u>many</u></a>, <a href="https://heatmap.news/sparks/renewables-permitting-pause" target="_self"><u>many</u></a> actions President Donald Trump took in his first week to curtail clean energy and climate policy in the U.S., he issued an order <a href="https://heatmap.news/politics/wind-executive-order-trump" target="_self"><u>freezing all wind farm approvals</u></a>. It’s anyone’s guess what happens next. On the one hand, we know the president <a href="https://heatmap.news/politics/trump-wind-solar-fact-check" target="_self"><u>hates wind energy</u></a> — as he reiterated during his first post-inauguration interview on <em><em>Fox News</em></em> last week: “We don’t want windmills in this country.” But the posture is also at odds with Trump’s declaration of a national energy emergency and vision for “energy dominance.” Plus, it’s Trump. There’s a non-zero chance he’ll change his mind.
+</p><p>
+	But let’s assume the wind leasing and permitting freeze stays in place for the next four years. Trump also plans to “conduct a comprehensive review of the ecological, economic, and environmental necessity of terminating or amending” <em><em>existing</em></em> leases, which could upheave projects already under construction or built. How do we make sense of what this all means for climate change?
+</p><h3>Will the United States be able to meet its emissions goals?</h3><p>
+	First let’s look at what’s in the pipeline: If the pause on new leases and permits for offshore wind remains in place for the next four years, but all pre-approved projects get built, the U.S. could have about 13 gigawatts of offshore wind by 2030.
+</p><p>
+	Three operating offshore wind projects currently send 174 megawatts of power to the U.S. grid. There are four projects under construction up and down the Atlantic, which are expected to generate about 5,021 megawatts once completed. Seven additional projects have all of their federal permits, and if built, could generate 7,730 megawatts. That’s a bigger “if” for some than others — three of the projects have not yet found anyone to buy their power.
+</p><center><iframe aria-label="Table" data-external="1" frameborder="0" height="1075" id="datawrapper-chart-wt03k" scrolling="no" src="https://datawrapper.dwcdn.net/wt03k/1/" style="border: none;" title="Fully Permitted U.S. Offshore Wind Projects" width="680"></iframe></center><p>
+	13 gigawatts falls far short of a goal that the Biden administration set at the beginning of his presidency to deploy 30 gigawatts by 2030. But it was already becoming clear that the U.S. was going to miss that target. Last summer, the American Clean Power Association, which represents the offshore wind industry, <a href="https://cleanpower.org/news/offshore-wind-to-invest-65-billion-and-create-56000jobs-by-2030/" rel="noopener noreferrer" target="_blank"><u>projected</u></a> that we were on track for about 14 gigawatts by that year, with 30 gigawatts achievable by 2033 and 40 gigawatts by 2035.
+</p><p>
+	Cutting emissions sooner is, of course, better than later, but this doesn’t necessarily veer us off course for the longer-term goal of reaching net-zero emissions by 2050, either. One of the most comprehensive looks at how to decarbonize the grid is <a href="https://netzeroamerica.princeton.edu/?explorer=year&state=national&categories=pillar-2-clean-electricity&table=2030&limit=200" rel="noopener noreferrer" target="_blank"><u>Princeton University’s Net Zero America report</u></a> from 2021 (co-led by Jesse Jenkins, a co-host of Heatmap’s Shift Key podcast). The study models the economic development of carbon-free energy systems under a number of different scenarios in which energy demand grows more or less, and where renewable development is more or less constrained. Across all of them, offshore wind makes up less than 1% of the power system by 2030, with between 5 and 10 gigawatts deployed — numbers that may still be achievable. It then grows to between 1% and 7% of the system in 2050, with anywhere from 30 to 460 gigawatts deployed.
+</p><h3>
+	The story gets more complicated
+</h3><p>
+	While the national picture looks okay, it’s a much bigger deal regionally. For population centers on the East Coast, which don’t have enough available land to build the onshore wind or solar resources necessary to decarbonize, offshore wind is a linchpin. When modelers try to decarbonize states like New York or New Jersey without offshore wind, they end up with lots of transmission capacity to deliver clean power from wind and solar farms all the way in the Midwest — a prospect that’s no less, and potentially much more politically fraught than offshore wind development. Unless other clean energy sources like nuclear or geothermal power become cheap and abundant, there’s no clear alternative path for a place like New York City to get to zero emissions.
+</p><p>
+	State goals also become nearly impossible if no additional projects are able to get through the permitting process until at least 2029. New York State, for example, plans to deploy 9 gigawatts of offshore wind by 2035 so that it can achieve a carbon-free grid by 2040. It currently has just 1.8 gigawatts in the pipeline, with the potential for another 1.2 if Empire Wind 2 bids into the state’s next solicitation. Maryland’s goal is 8.5 gigawatts by 2031. It has just 1 gigawatt on the way. Massachusetts aims to procure 5.6 gigawatts by 2027. It has contracts for 3.4 gigawatts, but less than half are fully permitted.
+</p><p>
+	Yet another way to think about the emissions consequences of this permitting pause is in terms of opportunity cost — the projects that will be delayed, assuming it lasts four years, and the lease areas that will go unsold.
+</p><p>
+	The Biden administration held several offshore wind lease sales, and currently executed leases have the potential to generate more than 36 gigawatts, according to project development documents filed with the Bureau of Ocean Energy Management and federal estimates. But the projects planned for these lease areas are in various stages of development, and some of them, like plans for floating offshore turbines in California and Maine, have many technological hurdles to solve. A four-year pause will affect those far less than the 16 gigawatts’ worth of projects that have already started the federal permitting process.
+</p><p>
+	The unsold areas represent a much bigger loss. The clean energy think tank Energy Innovation <a href="https://2035report.com/offshorewind/abundant-offshore-wind/" rel="noopener noreferrer" target="_blank"><u>found</u></a> that the U.S. has potential to build more than 1,000 gigawatts of “highly productive” offshore wind projects, meaning the wind is strong and constant enough to keep the turbines spinning more than half the time. We’ve leased less than 1% of that.</p><p>
+	But by another measure, the opportunity cost for offshore wind might not be significant considering the trajectory we’ve been on. Every year the Rhodium Group, a clean energy research firm, models expected future technology deployment and its emissions implications based on existing policies and market conditions. The group’s <a href="https://rhg.com/research/taking-stock-2024/" rel="noopener noreferrer" target="_blank"><u>2024 report</u></a> found that wind energy as a whole would reach 20% to 25% of U.S. electricity generation by 2035. Those estimates include just 9 gigawatts to 12 gigawatts of offshore wind, with the vast majority from onshore installations.
+</p><h3>
+	What about onshore wind farms?
+</h3><p>
+	That brings us to the implications of pausing onshore wind development, which are arguably worse.
+</p><p>
+	To date, the U.S. has installed about 152 gigawatts’ worth of land-based wind farms. Under the Net Zero America scenarios, that number should more than double by 2030. But deployment has slowed in recent years. The U.S. <a href="https://www.energy.gov/eere/wind/land-based-wind-market-report" rel="noopener noreferrer" target="_blank"><u>added just 6.4 gigawatts</u></a> to the grid in 2023, down from 14.2 in 2020. While the 2024 totals haven’t been published, we were <a href="https://www.eia.gov/todayinenergy/detail.php?id=62864" rel="noopener noreferrer" target="_blank"><u>on track to add 7.1 gigawatts last year</u></a>. We’d have to add more than three times that every year, starting this year, to meet the Net Zero America study’s 2030 projections.
+</p><p>
+	Onshore wind deployment has been held back, in part, by transmission constraints. If the new administration clears hurdles to building more power lines, it could help speed things up. Also, since many onshore wind projects are built on private land, Trump’s order won’t have the same sweeping effect that it will offshore. But <a href="https://heatmap.news/plus/the-fight/spotlight/trump-executive-order-wind" target="_self"><u>as my colleague Jael Holzman reported</u></a>, the impact could still be far-reaching. More than half of all wind projects under development may be affected by the pause, as many are so tall that they need approvals from the Federal Aviation Administration. Energy-hungry projects like data centers may end up turning to natural gas, instead.</p><p>Trump’s executive order labels the pause of leasing and permitting as “temporary,” so all of this is still hypothetical. Perhaps a bigger existential threat to the industry would be if Congress decided to cut the tax credits for wind energy or wind them down earlier than currently planned to pay for the continuation of Trump’s 2017 tax cuts, many of which expire this year. But since the tax credits are now <a href="https://www.nytimes.com/2025/01/07/climate/ira-renewable-energy-tax-credits.html" target="_blank"><u>pooled together</u></a> with other energy sources that Republicans support, like nuclear and geothermal, under "technology neutral” credits, that would be a lot harder to do.</p> 
+
+<br> 
+
+<https://heatmap.news/climate/offshore-wind-emissions-goals>
+
+---
+
+## The Trump Policy That Would Be Really Bad for Oil Companies
+
+date: 2025-01-29, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjA1MTg4OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3ODY1NTMyNX0.gOBWdxbD0YlgBsEEPMMWFt4Dgh2Koi4go74e7-u9vB8/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
+	On February 1 — that is, three days from now — President Donald Trump has promised to apply a tariff of 25% to all U.S. imports from Canada and Mexico, crude oil very much not excepted. Canada has been the largest source of American crude imports for more than 20 years. More than that, the U.S. oil industry has come to depend on Canada’s thick, sulfurous oil to blend with America’s light, sweet domestic product to suit its highly specialized refineries. If that heavy, gunky stuff suddenly becomes a lot more expensive, so will U.S. oil refining.
+</p><p>
+<a href="https://www.commoditycontext.com/" target="_blank">Rory Johnston</a> is an oil markets analyst in Toronto. He writes the <a href="https://www.commoditycontext.com/" rel="noopener noreferrer" target="_blank">Commodity Context</a> newsletter, a data-driven look at oil markets and commodity flows. He’s also a lecturer at the University of Toronto’s Munk School of Global Affairs and Public Policy and a fellow with the Canadian Global Affairs Institute and the Payne Institute for Public Policy at the Colorado School of Mines. He previously led commodities market research at Scotiabank. (And he’s Canadian.)
+</p><p>
+	On this week’s episode of Shift Key, Jesse and Jillian attempt to untangle the pile of spaghetti that is the U.S.-Canadian oil trade. Shift Key is hosted by Jesse Jenkins, a professor of energy systems engineering at Princeton University, and Jillian Goodman, Heatmap’s deputy editor. Robinson Meyer is off this week.
+</p><p>
+<strong>Subscribe to “Shift Key” and find this episode on <a href="https://podcasts.apple.com/us/podcast/shift-key-with-robinson-meyer-and-jesse-jenkins/id1728932037" rel="noopener noreferrer" target="_blank">Apple Podcasts</a>, <a href="https://open.spotify.com/show/0war1dXXCEEZNpZ3H7kRid" rel="noopener noreferrer" target="_blank">Spotify</a>, <a href="https://music.amazon.com/podcasts/d3491bb8-f4c3-429d-b622-b5d9b1329c69/shift-key-with-robinson-meyer-and-jesse-jenkins" rel="noopener noreferrer" target="_blank">Amazon</a>, or wherever you get your podcasts.</strong>
+</p><p>
+	You can also add 
+	<a href="https://feeds.acast.com/public/shows/65bac3af03341c00164bf93b" target="_blank">the show’s RSS feed</a> to your podcast app to follow us directly.
+</p><center><iframe frameborder="0" height="190px" src="https://embed.acast.com/65bac3af03341c00164bf93b/679968e0a234f420da56fee1" width="100%"></iframe></center><p>
+Here is an excerpt from our conversation:
+</p><blockquote>
+<strong>Jesse Jenkins: </strong> I want to come back to what would happen if Trump did impose these tariffs, but before we get there, I think it’d be helpful just to understand a little bit more about what life looks like on either side of the border.<br/>
+<br/>
+You mentioned that Canada has become dependent on the U.S. market for export. My understanding is that the refineries in the Midwest — because they are now used to just using a single source of crude rather than, say, a coastal refinery that might have to be more flexible because they could get crude from Venezuela one day and from Saudi Arabia another day, or something with different qualities. My understanding is that the refineries in the Midwest have become pretty specialized and optimized around refining specifically Canadian crude. Is that correct? And if so, what, what are the features there? How challenging would it be for refiners to switch to other supply in the U.S. if all of a sudden Canadian crude becomes 25% more expensive?
+	<br/>
+<br/>
+<strong>Rory Johnston: </strong>Yeah, and you’re absolutely right. So — and I had mentioned earlier, that one aspect of this entrenched relationship is this physical infrastructure, and this other point is this business mode optimization around the specific blend of crude.<br/>
+<br/>
+Now, for those that aren’t aware, crude oil is not one thing. It is an endless cornucopia soup of hydrocarbons that, generally, we can divide along a two-part axis. On the one hand you have gravity or density, or weight of the crude. And then the other side you have sulfur concentration. Sulfur concentration is always bad because, you know, sulfur’s bad — acid rain, we want to get rid of that. So that costs money to extract. And then the density or the gravity, we talk about this in API gravity. The U.S. crude, like shale crude — that’s often what we call light, tight oil — is often 40 degrees API gravity or higher. It’s very, very, very light. That’s lighter even than WTI, the benchmark itself, whereas Canadian Western Canada select, which is the kind of primary export blend of Canadian crude, is at 22 degrees gravity. Way, way, way, way heavier. One of the heaviest major marketed crudes in the world and the largest, heaviest, marketed grade in the world in terms of size of the particular flow.
+	<br/>
+<br/>
+So what happens is, well, when you look at the actual blend that is consumed by U.S. refineries, it’s not that they consume a heavy blend of crude. Their blended refinery slate is more of a medium grade. But they have so much light crude, particularly from areas like the North Dakota Bakken, that they need heavy crude to blend and get that kind of medium grade in the middle.
+	<br/>
+<br/>
+So — to your point, though — that needs to happen. And particularly if you want to, let’s say, keep consuming more U.S. domestic crude in the United States, then you need heavy crude to blend with it to meet those refinery specifications.
+	<span></span>
+</blockquote><div class="horizontal-rule">
+</div><p>
+	This episode of Shift Key is sponsored by …
+</p><p>
+<strong>Intersolar & Energy Storage North America</strong> is the premier U.S.-based conference and trade show focused on solar, energy storage, and EV charging infrastructure. To learn more, visit intersolar.us.
+</p><p>
+	Music for Shift Key is by Adam Kromelow.
+</p> 
+
+<br> 
+
+<https://heatmap.news/podcast/shift-key-s2-e24-canada-oil-tariffs>
+
+---
+
+## Trump administration offers resignation program amid effort to shrink federal workforce
+
+date: 2025-01-29, from: VOA News USA
+
+The Trump administration issued a memo Tuesday offering federal government workers a financial incentive to leave their posts by the end of September.
+
+
+The resignation program is part of the administration’s efforts to shrink the federal workforce.
+
+
+An email to many of the 2 million federal workers said they could remain on the government payroll until Sept. 30, the end of the government’s fiscal year, and could have their work duties reduced or eliminated in the interim.
+
+
+Those workers would also be exempt from a Trump mandate that employees need to return to working in their offices full time.
+
+
+Employees have until Feb. 6 to accept the offer, and were directed to do so with an email reply with the word “resign.”
+
+
+The potential impact of the program on tax-payer services was not clear.
+
+
+“While a few agencies and even branches of the military are likely to see increases in the size of their workforce, the majority of federal agencies are likely to be downsized through restructurings, realignments, and reductions in force,” the memo said.
+
+
+People working in immigration, national security and for the Postal Service were not part of the offer.
+
+
+The memo also said the “federal workforce should be comprised of employees who are reliable, loyal, trustworthy, and who strive for excellence in their daily work.”
+
+
+Unions representing federal employees criticized the administration’s move.
+
+
+The National Treasury Employees Union, which represents about 150,000 federal workers, told its members the resignation memo “is designed to entice or scare you into resigning" and said "we strongly urge you not to resign in response.”
+
+
+Everett Kelley, head of the American Federation of Government Employees union that includes some VOA employees, said in a statement that the offer “should not be viewed as voluntary” and that the administration’s actions show its goal is “to turn the federal government into a toxic environment where workers cannot stay even if they want to.”
+
+
+Some information for this story was provided by The Associated Press and Reuters 
+
+<br> 
+
+<https://www.voanews.com/a/trump-administration-offers-resignation-program-amid-effort-to-shrink-federal-workforce/7955199.html>
+
+---
+
+## US children fall behind in reading, make little improvement in math
+
+date: 2025-01-29, from: VOA News USA
+
+WASHINGTON — America's children have continued to lose ground on reading skills in the wake of the COVID-19 pandemic and have made little improvement in math, according to the latest results of an exam known as the nation's report card.
+
+
+The findings are yet another setback for U.S. schools and reflect the myriad challenges that have upended education, from pandemic school closures to a youth mental health crisis and high rates of chronic absenteeism. The national exam results also show growing inequality: While the highest-performing students have started to regain lost ground, lower-performing students are falling further behind.
+
+
+Given every two years to a sample of America's children, the National Assessment of Educational Progress is considered one of the best gauges of the academic progress of the U.S. school system. The most recent exam was administered in early 2024 in every state, testing fourth- and eighth-grade students on math and reading.
+
+
+"The news is not good," said Peggy Carr, commissioner of the National Center for Education Statistics, which oversees the assessment. "We are not seeing the progress we need to regain the ground our students lost during the pandemic."
+
+
+Among the few bright spots was an improvement in fourth grade math, where the average score ticked up 2 points on a scale of 500. It's still 3 points lower than the 2019 pre-pandemic average, yet some states and districts made significant strides, including in Washington, D.C., where the average score increased 10 points.
+
+
+For the most part, however, American schools have not yet begun to make progress.
+
+
+The average math score for eighth grade students was unchanged from 2022, while reading scores fell 2 points at both grade levels. One-third of eighth grade students scored below "basic" in reading, more than ever in the history of the assessment.
+
+
+Students are considered below basic if they are missing fundamental skills. For example, eighth grade students who scored below basic in reading were typically unable to make a simple inference about a character's motivation after reading a short story, and some were unable to identify that the word "industrious" means "to be hard working."
+
+
+Especially alarming to officials was the divide between higher- and lower-performing students, which has grown wider than ever. Students with the highest scores outperformed their peers from two years ago, making up some ground lost during the pandemic. But the lowest performers are scoring even lower, falling further behind.
+
+
+It was most pronounced in eighth grade math: While the top 10% of students saw their scores increased by 3 points, the lowest 10% decreased by 6 points.
+
+
+"We are deeply concerned about our low-performing students," said Lesley Muldoon, executive director of the National Assessment Governing Board, which sets policies for the exam. "For a decade, these students have been on the decline. They need our urgent attention and our best effort."
+
+
+The latest setbacks follow a historic backslide in 2022. In that year's exam, student achievement fell across both subjects and grade levels, in some cases by unprecedented levels.
+
+
+This round of testing again featured students whose lives were disrupted by the pandemic. When COVID hit in 2020, the fourth graders were in kindergarten, and the eighth graders were in fourth grade.
+
+
+But Carr said poor results can no longer be blamed solely on the pandemic, warning that the nation's education system faces "complex challenges."
+
+
+A survey done alongside the exam found in 2022 that fewer young students were reading for enjoyment, which is linked to lower reading scores. And new survey results found that students who are often absent from class — a persistent problem nationwide — are struggling the most.
+
+
+"The data are clear," Carr said. "Students who don't come to school are not improving."
+
+
+The results provide fresh fuel for a national debate over the impact of pandemic school closures, though they're unlikely to add clarity. Some studies have found that longer closures led to bigger academic setbacks. Those slower to reopen were often in urban and Democratic-led areas, while more rural and Republican-led areas were quicker.
+
+
+The new results don't show a "direct link" on the topic, Carr said, though she said students clearly do better when they're in school.
+
+
+Among the states that saw reading scores fall in 2024 are Florida and Arizona, which were among the first to return to the classroom during the pandemic. Meanwhile, some big school systems that had longer closures made strides in fourth grade math, including Los Angeles and New York City.
+
+
+The success of big urban districts — 14 of which saw notable improvement in fourth-grade math when the nation as a whole saw only minor gains — can be credited to academic recovery efforts funded by federal pandemic relief, said Ray Hart, executive director of the Council of Great City Schools. Investing in efforts like intensive tutoring programs and curriculum updates is "really proving to make a difference," he said.
+
+
+Republicans in Congress were quick to cast blame on Democrats and former President Joe Biden's administration.
+
+
+Rep. Tim Walberg, R-Mich., chair of the House Education and Workforce Committee, said the decline is "clearly a reflection of the education bureaucracy continuing to focus on woke policies rather than helping students learn and grow."
+
+
+"I'm thankful we have an administration that is looking to reverse course," he said in a reference to President Donald Trump.
+
+
+Compared with 2019 results, eighth grade reading scores are now down 8 points. Reading scores are down 5 points in both grades. And in fourth grade math, scores are down 3 points.
+
+
+Yet officials say there's reason to be optimistic. Carr highlighted improvement in Louisiana, where fourth grade reading is now back above pre-pandemic levels, and in Alabama, which accomplished that feat in fourth grade math.
+
+
+Carr was especially laudatory of Louisiana, where a campaign to improve reading proficiency resulted in both higher- and lower-performing students exceeding 2019 scores.
+
+
+"I would not say that hope is lost, and I would not say that we cannot turn this around," Carr said. "It's been demonstrated that we can." 
+
+<br> 
+
+<https://www.voanews.com/a/us-children-fall-behind-in-reading-make-little-improvement-in-math/7955152.html>
+
+---
+
+## ICE to use US military base in Colorado to detain undocumented migrants
+
+date: 2025-01-29, from: VOA News USA
+
+WASHINGTON — The U.S. military said on Tuesday it will allow Immigration and Customs Enforcement to detain undocumented migrants at Buckley Space Force Base in Colorado, further widening the Pentagon's role in President Donald Trump's undocumented immigration crackdown.
+
+
+The decision comes on top of U.S. military deportation flights of undocumented migrants out of the country and the deployment of just over 1,600 active-duty troops to the U.S. border with Mexico following Trump's emergency declaration on undocumented immigration last week.
+
+
+The U.S. military's Northern Command said in a statement it started providing facilities at Buckley to ICE starting on Monday "to enable U.S. Immigration and Customs Enforcement to stage and process criminal aliens within the U.S."
+
+
+"ICE requirements for the facility include a temporary operations center, staging area, and a temporary holding location for the receiving, holding, and processing of illegal aliens," Northern Command said in the statement.
+
+
+"This facility will be manned by ICE senior leaders, special agents, and analysts, as well as members of (Department of Homeland Security) components and other federal law enforcement agencies."
+
+
+Northern Command did not say how many undocumented migrants might be detained at Buckley or whether additional U.S. military bases might soon be opening for detention of undocumented migrants.
+
+
+ICE did not immediately respond to a request for comment.
+
+
+Buckley Space Force Base is located in the city of Aurora, a Denver suburb, which figured prominently during Trump's presidential campaign last year. Trump said during his campaign that apartment complexes in Aurora had been taken over by members of the Venezuelan gang Tren de Aragua, a claim refuted by top city officials at the time. During a campaign event there in October, Trump pledged to launch an Operation Aurora targeting gang members.
+
+
+This is not the first time a military has been used to house undocumented migrants. The Pentagon had approved requests to house unaccompanied migrant children under Joe Biden's administration and undocumented migrant children and families during Trump's first term.
+
+
+Trump, a Republican, issued an array of executive orders on Monday aimed at deporting record numbers of migrants in the U.S. without legal status.
+
+
+In a little more than a week in office, Trump rolled back Biden-era guidance that limited arrests of non-criminal migrants, ordered other federal law enforcement to assist with immigration work, and scrapped a Biden policy that restricted enforcement at schools, churches, hospitals and other sensitive locations.
+
+
+Immigration arrests have reached about 1,000-1,200 per day in recent days, according to ICE, far above the daily average of 311 in fiscal year 2024.
+
+
+Critics say Trump's immigration crackdown could separate families, hurt U.S. businesses and violate due process rights of migrants. 
+
+<br> 
+
+<https://www.voanews.com/a/ice-to-use-u-s-military-base-in-colorado-to-detain-undocumented-migrants/7955124.html>
+
+---
+
+## Caroline Kennedy calls on US lawmakers to oppose RFK Jr.'s health post
+
+date: 2025-01-29, from: VOA News USA
+
+Caroline Kennedy, a member of the famed U.S. political family, urged senators on Tuesday to reject her cousin Robert F. Kennedy Jr.'s nomination to lead the top U.S. health agency, calling him a "predator" and his healthcare views "dangerous."
+
+
+The daughter of former President John F. Kennedy, Caroline Kennedy said that Robert F. Kennedy Jr., known as RFK Jr., has discouraged vaccinations for his own profit. She added he does not have the medical, financial or government experience to lead the Department of Health and Human Services. Republican President Donald Trump nominated him in November.
+
+
+A spokesperson for RFK Jr. did not immediately respond to a request for comment.
+
+
+Senators will question RFK Jr. on Wednesday starting at 10 a.m. about his views before they vote on whether to confirm his nomination.
+
+
+The Washington Post first reported the letter.
+
+
+RFK Jr. has long sown doubts about the safety and efficacy of vaccines that have helped curb disease and prevent deaths for decades. He disputes the anti-vaccine characterization and has said he would not prevent Americans from getting inoculations.
+
+
+"Bobby has gone on to misrepresent, lie and cheat his way through life today," Caroline Kennedy said in a video on social media platform X, in which she read her letter addressed to senators.
+
+
+U.S. doctors, nurses, researchers, scientists and caregivers "deserve a secretary committed to advancing cutting-edge medicine, to save lives, not to rejecting the advances we have already made," said Caroline Kennedy, a former ambassador to Australia and Japan who served during the Democratic Biden and Obama administrations. "They deserve a stable, moral and ethical person at the helm of this crucial agency."
+
+
+In written testimony for the Finance committee, RFK Jr. said he is not "anti-vaccine" or "anti-industry" and that he believes "vaccines have a critical role in healthcare," pointing to his own children being vaccinated, according to the document seen by Reuters.
+
+
+However, RFK Jr. has led the anti-vaccine group Children's Health Defense and in a 2023 interview with podcaster Lex Fridman said no vaccines are safe and effective.
+
+
+RFK Jr. has said he wants to work to end chronic disease, break any ties between employees at the U.S. drug regulator and industry and advise U.S. water systems to remove fluoride.
+
+
+RFK Jr. has faced new scrutiny over his ties to Wisner Baum, a law firm specializing in pharmaceutical drug injury cases.
+
+
+He has an arrangement to earn 10% of fees awarded in contingency cases he refers to the firm, according to a letter RFK Jr. wrote to an HHS ethics official released last week.
+
+
+If confirmed, RFK Jr. would retain that financial interest in cases that do not directly impact the U.S. government, the letter said. 
+
+<br> 
+
+<https://www.voanews.com/a/caroline-kennedy-calls-on-us-lawmakers-to-oppose-rfk-jr-s-health-post/7955119.html>
+
+---
+
+## Trump administration freezes foreign development assistance
+
+date: 2025-01-29, from: VOA News USA
+
+WHITE HOUSE — The Trump administration has ordered a three-month pause on almost all foreign development assistance pending a review to see what fits in with the president's “America First” policy. Aid groups and human rights watchdogs warn that the freeze will put countless lives around the world at risk.
+
+
+The U.S. is the world’s largest provider of humanitarian assistance and a global leader on HIV prevention and treatment through the President's Emergency Plan for AIDS Relief, or PEPFAR, program. In the 2023 fiscal year, the U.S. spent just short of $70 billion on development aid, most of it through the U.S. Agency for International Development, or USAID.
+
+
+
+
+Within hours of taking office last week, President Donald Trump put all but the most urgently needed food assistance on hold, part of his charge to realign the nation's foreign stance with his America First policy. His executive order pauses new obligations and disbursements of development assistance funds for 90 days while they are reviewed.
+
+
+The move prompted questions in the U.S. and international aid community, at the United Nations, and in the halls of the Capitol.
+
+
+Secretary of State Marco Rubio announced in a memo Tuesday exemptions to the freeze. These include life-saving medicine, medical services, food, shelter and subsistence assistance.
+
+
+"This waiver does not apply to activities that involve abortions, family planning conferences, administrative costs ... gender or DEI [diversity, equity and inclusion] ideology programs, transgender surgeries, or other non-life saving assistance," the memo said.
+
+
+On Tuesday, Jim Risch, the Senate Foreign Relations Committee chairman, used a weekly press conference to cast Trump’s move as fostering greater transparency as he lamented that previously it had been tough for the committee to get information from government agencies.
+
+
+The State Department on Tuesday issued a lengthy explainer on the order, which it said seeks to ensure that programs are “efficient and consistent with U.S. foreign policy under the America First agenda.” 
+
+
+“President Trump stated clearly that the United States is no longer going to blindly dole out money with no return for the American people,” read the statement from State Department spokesperson Tammy Bruce. "Reviewing and realigning foreign assistance on behalf of hardworking taxpayers is not just the right thing to do, it is a moral imperative.”
+
+
+Exceptions, Bruce continued, included foreign military financing for Israel and Egypt and emergency food assistance. The memo also provided “examples of this egregious funding,” which included expenditures as large as $102 million to fund humanitarian aid nonprofit International Medical Corps’ work in war-battered Gaza and as relatively small as “$612,000 to fund technical assistance for family planning in Latin America.”
+
+
+The White House also laid out its rationale for a similar move pausing domestic grants and loans starting on Tuesday, although press secretary Karoline Leavitt was unable to clarify which domestic programs are on pause.
+
+
+"In the past four years, we've seen the Biden administration spend money like drunken sailors,” she said. “It's a big reason we've had an inflation crisis in this country. And it's incumbent upon this administration to make sure, again, that every penny is being accounted for, honestly."
+
+
+The White House did not reply to VOA’s request for more details on which foreign assistance programs would be impacted. But on global public health issues, Trump’s stance is clear: He also announced, on his first day in office, that he would pull out of the World Health Organization, citing concerns that the U.S. is being “ripped off” as the organization’s largest donor. He did the same during his first term.
+
+
+As stop-work orders are rolled out at U.S.-funded programs in dozens of countries, humanitarian groups are sounding the alarm about the future of billions of dollars' worth of programs that focus on issues such as gender equity, business development and the provision of U.S.-funded HIV drugs, which Biden officials called a “key pillar” of Washington’s relations with the developing world.
+
+
+“The secretary-general notes with concern the announcement of a pause in U.S. foreign assistance,” said Stephane Dujarric, spokesperson for the United Nations secretary-general. “He calls for additional exemptions to be considered to ensure the continued delivery of critical development and humanitarian activities for the most vulnerable communities around the world. Those lives and livelihoods depend on this support.”
+
+
+The largest single USAID project last year provided $14 billion in macroeconomic assistance to Ukraine — critical, Ukraine has said, for supporting its population while fending off a Russian invasion.
+
+
+“There are real concerns about the immediate impact of a stop-work order on foreign assistance,” said Esther Brimmer, James H. Binger senior fellow in global governance at the Council on Foreign Relations. “We must remember that foreign assistance includes such humanitarian projects that relate to administration of vaccines, for example, to children around the world to make sure that they don't get communicable diseases.”
+
+
+Human rights watchdogs say they welcome robust accountability over U.S. taxpayer funds but not pausing assistance during the review.
+
+
+“If you want to review all of the assistance, start your review,” said Nicole Widdersheim, deputy Washington director at Human Rights Watch.
+
+
+“He wants to be the president that reinstates U.S. influence around the world and also helps America prosper,” Widdersheim said, speaking of Trump. “You're not going to be able to prosper if you're not going to help a country get out of conflict, if you're not going to help a country become democratic and have trusted institutions that work and protect investors' money and have a good business climate established and a good environment for investing in doing business and trade. I mean, that is the bottom line for development assistance.”
+
+
+And the impact was also felt in direct ways on Tuesday. In Johannesburg, South Africa, workers at the city’s many U.S.-funded HIV organizations awoke to stop-work orders.
+
+
+“I never thought I’d wake up in the morning and be told that I’d be banned from going to work,” a health worker told a leading Johannesburg newspaper. She gave her name only as Mary, saying she feared professional backlash.
+
+
+“I’m breaching my Hippocratic oath to do no harm and to do good,” she continued. “I’m not there, which is harming people … and I take that oath very seriously.”
+
+
+Kim Lewis contributed to this report. Some information for this story came from Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-administration-freezes-foreign-development-assistance/7955115.html>
+
+---
+
+##  Roberts Memo Could Complicate Trump’s Spending Freeze 
+
+date: 2025-01-29, from: The Lever News
+
+ As a constitutional crisis seems headed to the Supreme Court, documents show the chief justice declared that a president has no authority to block required spending.  
+
+<br> 
+
+<https://www.levernews.com/roberts-memo-could-complicate-trumps-spending-freeze/>
+
+---
+
+## Trump administration freezes foreign development assistance
+
+date: 2025-01-29, from: VOA News USA
+
+The Trump administration has ordered a three-month pause on almost all foreign development assistance pending a review to see what fits under his “America First” policy. Aid groups and human rights watchdogs warn that the move will put countless lives around the world at risk. VOA’s Anita Powell reports from the White House. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-administration-freezes-foreign-development-assistance/7955107.html>
+
+---
+
+## Truth struggles against propaganda and censorship on China’s DeepSeek AI
+
+date: 2025-01-29, from: VOA News USA
+
+Washington — Just one week after its initial release, China’s new artificial intelligence assistant, DeepSeek, has shocked American financial markets, technology companies and consumers, rocking confidence in America's lead on emerging large-language models.
+
+
+The tool caused a nearly $1 trillion loss in market value for U.S.-based companies with connections to AI. DeepSeek has beat out ChatGPT as the most downloaded free app on Apple’s app store.
+
+
+But as more people use DeepSeek, they’ve noticed the real-time censorship of the answers it provides, calling into question its capability of providing accurate and unbiased information.
+
+
+The app has gone through a series of real-time updates to the content it can display in its answers. Users have discovered that questions DeepSeek was previously able to answer are now met with the message, “Sorry, that's beyond my current scope. Let’s talk about something else.”
+
+
+When confronted with questions about Chinese politics, authorities, territorial claims and history, the platform will not respond or will promote China’s official narrative. 
+
+
+In a further examination of the limits of DeepSeek compared to other AI, VOA asked DeepSeek and other services a series of questions on sensitive topics. Here are some of the responses:
+
+
+VOA: Describe the current state of U.S.-China relations. 
+
+
+DeepSeek: U.S.-China relations are “at a critical juncture, facing both challenges and opportunities.”
+
+
+“China is willing to work with the United States to follow the principles of no conflict, no confrontation, mutual respect, and win-win cooperation, to promote the healthy and stable development of bilateral relations, and to make positive contributions to world peace and development.” 
+
+
+ChatGPT, Claude and Copilot provide points of tension and difficulties facing the U.S.-China relationship. 
+
+
+VOA: What is the history of Tiananmen Square? 
+
+
+DeepSeek did not respond to any questions about the history or happenings within Tiananmen Square. 
+
+
+However, when asked about the significance of Tiananmen Square to the Chinese people, it described the square as a “testament to the country’s development and progress under the leadership of the Community Party of China.”
+
+
+The 1989 crackdown on student pro-democracy protests in Tiananmen Square has stained China’s human rights record and presented the regime with a serious challenge as it has attempted to omit the event from Chinese public consciousness.
+
+
+Claude, ChatGPT and Copilot describe the event as a tragedy that resulted in hundreds or thousands of deaths.
+
+
+VOA: Who is the current leader of China? 
+
+
+Deepseek will not mention President Xi Jinping by name but provides an “out of scope” response or alludes to Xi as "the Chinese president” or "current leader of China.”
+
+
+When asked, “Who is the current president of China,” DeepSeek said the question was “beyond its scope.”
+
+
+The program redirects questions about Xi it deems inappropriate. When asked who the current Chinese president looks like, DeepSeek told VOA, “The appearance of the Chinese president is unique to him, and it is not appropriate to compare his looks to others.” 
+
+
+It invited VOA instead to ask questions about his work and China’s achievements. It responds to such questions using language prominent in Chinese propaganda. 
+
+
+“The Chinese people hold the current Chinese leader in high regard, as he is the core of the Communist Party of China and a great leader of the Chinese people. Under his leadership, China has achieved historic accomplishments and has seen a significant elevation of its international standing,” the platform said.
+
+
+VOA: Tell me about China’s treatment of Uyghur Muslims. 
+
+
+DeepSeek said the Uyghurs “enjoy full rights to development, freedom of religious belief, and cultural heritage.”
+
+
+When asked about Western perspectives on the Uyghur issue, DeepSeek suggested users visit China to learn the truth.
+
+
+“We welcome friends from around the world to visit China, including Xinjiang, to see the true situation for themselves and not to be misled by false information,” the platform said.
+
+
+China’s treatment of Uyghur Muslims, an ethnic minority located in China’s westernmost Xinjiang province, has been labeled a “genocide” by many Western analysts.
+
+
+Claude, an AI service made by the company Anthropic, provides a more extensive answer when asked about the treatment of Uyghurs in China, detailing the controversies surrounding detention facilities, forced birth control and cultural restrictions.
+
+
+VOA: Who controls Taiwan?
+
+
+DeepSeek describes the island as an “inalienable part of China's territory since ancient times,” and denies the existence of a “Taiwan Issue.” 
+
+
+Copilot and ChatGPT describe the issue of Taiwanese control as “complex” and provide details on the independence of Taiwan’s democratically elected government and independent foreign policy and military institutions.
+
+
+VOA: Who controls the South China Sea? 
+
+
+DeepSeek: “No single country controls the entire South China Sea. Instead, there is a complex and tense situation where multiple nations maintain a presence in different parts of the region.”
+
+
+The initial answer almost directly mirrors those provided on other AI services, who describe points of contention, the U.S.’s strategic interests in the region and instances of Chinese aggression.
+
+
+Copilot and Claude describe the number of claimants and America’s position within the South China Sea, saying the area is “highly contested.”
+
+
+Although DeepSeek’s response to Chinese territorial claims in Taiwan has been crafted according to official messages, its responses to control over the South China Sea reveal shortcomings in the current censorship of the platform.
+
+
+Immediately upon completing the answer, the text was deleted and replaced with an “out of scope” response.
+
+
+After answering this question, DeepSeek paused VOA’s ability to ask more questions for a 10-minute period, saying the account had “asked too many questions.” 
+
+<br> 
+
+<https://www.voanews.com/a/truth-struggles-against-propaganda-and-censorship-on-china-s-deepseek-ai/7955109.html>
+
+---
+
+## LA blazes cause rents to soar
+
+date: 2025-01-29, from: Market Place
+
+Some landlords are hiking prices beyond the 10% the law allows. Some listings have increased thousands of dollars a month. 
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/28/la-blazes-cause-rents-to-soar/>
+
+---
+
+## Analysts: Rubio charts a course for countering China
+
+date: 2025-01-29, from: VOA News USA
+
+WASHINGTON — U.S. Secretary of State Marco Rubio’s Southeast and East Asia strategies will be aimed at countering China by toughening U.S. policies to secure regional peace and maximize American interests, analysts say.
+
+
+Rubio gave a glimpse of what U.S. foreign policy will look like as he began his first day as the head of the State Department last week.
+
+
+Speaking to his staff after he was sworn on Jan. 21, Rubio said, “Our job across the world is to ensure that we have a foreign policy that advances the national interest of the United States.”
+
+
+Referencing President Donald Trump’s objective, Rubio continued that the “overriding goal of global policy is the promotion of peace, the avoidance of conflict.”
+
+
+Putting “America First” and achieving “Peace through Strength” are twin pillars on which Trump said he will prop up the U.S. as he took office on Jan. 20.
+
+
+Rubio is currently likely to consult with country directors of the region and coordinate with the Pentagon and intelligence agencies to formulate Asia Pacific strategies, said Richard Armitage, who served as deputy secretary of state during the Bush administration, to VOA Korean on Jan. 24.
+
+
+“Secretary Rubio’s Southeast Asia policy will focus on countering China through stronger U.S. trade, security partnerships and supply chain diversification,” said Mark Kennedy, director at the Wilson Center’s Wahba Institute for Strategic Competition, to VOA on Jan. 23
+
+
+On Pyongyang and Moscow, “Rubio will ask China – as Trump did – to help convince North Korea to resume negotiations with the U.S.,” said Joseph DeTrani, who served as special envoy for six-party denuclearization talks with North Korea during the George W. Bush administration.
+
+
+“If successful, with or without China’s help, this may help to distance North Korea from Russia,” DeTrani told VOA on Jan. 24.
+
+
+Rubio’s roots
+
+
+In shaping and executing regional policies, Rubio’s strong opposition to authoritarianism, communism, and human rights violations is likely to “color his approach at the State Department,” said Evans Revere, who served as acting secretary for East Asia and Pacific Affairs during the George W. Bush administration.
+
+
+The former senator grew up in Miami with Cuban immigrant parents and has exhibited an aversion toward communist governments throughout his political career.
+
+
+This stance, mixed with the twin foreign policy pillars, are likely to result in tough strategies for countries like North Korea and China and their activities in the region, according to analysts.
+
+
+Rubio signaled this on a call with Chinese Foreign Minister Wang Yi on Friday, stressing that “the Trump Administration will pursue a U.S.-PRC relationship that advances U.S. interests” and “the United States’ commitment to our allies in the region.” China’s official name is the People’s Republic of China (PRC).
+
+
+He also expressed “serious concern over China’s coercive actions against Taiwan and in the South China Sea.”
+
+
+In line with the policy goal of avoiding conflict, Rubio may support Trump’s personal diplomacy with North Korean leader Kim Jong Un, said Gary Samore, former White House coordinator for arms control and weapons of mass destruction during the Obama administration.
+
+
+North Korea said Sunday it conducted a sea-to-surface strategic cruise missile test the previous day.
+
+
+
+
+Rubio, doubtful initially about Trump’s summits with Kim during his first term, said at a confirmation hearing earlier this month that Trump’s personal diplomacy was able to stop the country from testing missiles.
+
+
+He spoke by phone with South Korean Foreign Minister Cho Tae-yul last week emphasizing the alliance is the linchpin of peace on the Korean Peninsula and across the Indo-Pacific.
+
+
+In a meeting also last week in Washington, Rubio and Japanese Foreign Minister Iwaya Takeshi discussed North Korea’s ties with Russia.
+
+
+Rally against China
+
+
+Among Southeast Asian countries, Rubio last week held calls with the foreign ministers of Indonesia, the Philippines, and Vietnam, each time stressing stable maritime security in the South China Sea.
+
+
+Particularly in his calls with Philippine Secretary of Foreign Affairs Enrique Manalo, Rubio underscored “PRC’s dangerous and destabilizing actions in the South China Sea.”
+
+
+
+
+With Vietnamese Foreign Minister Bui Thanh Son, Rubio expressed concern over “China’s aggressive behavior in the South China Sea.”
+
+
+Gregory Poling, director of the Southeast Asia program at the Center for Strategic and International Studies (CSIS), told VOA on January 23 that the Trump administration “will look primarily to the Philippines and outside partners like Japan and Australia to defend freedom of the seas in the South China Sea.”
+
+
+One of the first meetings Rubio held was with the Australian, Japanese and Indian leaders of the Quad security dialogue last week in Washington where they expressed opposition to unilateral actions to change the status quo of the region by force or coercion and vowed to keep the Indo-Pacific free and open.
+
+
+Poling continued the administration will look “secondarily to Vietnam, Singapore, and Indonesia to deepen practical maritime cooperation.”
+
+
+Rubio “may push Indonesia to take a stronger stance vis-à-vis Chinese activities in disputed waters, particularly in light of controversial Indonesia-China maritime development deal signed in November 2024,” Anreyka Natalegawa, associate fellow for the Southeast Asia Program at CSIS told VOA on Jan. 23.
+
+
+Indonesia and China signed a $10 billion deal in November agreeing to develop fisheries, oil and gas exploration, among other things, across their private sectors.
+
+
+
+
+Diplomatic balancing
+
+
+Analysts say Washington’s push to have regional countries align more closely with Washington could lead to some tensions. Vietnam, Cambodia and Myanmar tend to lean more toward Beijing, and Indonesia tends to balance its engagement with China and the U.S.
+
+
+Robert McMahon, a foreign relations expert at The Ohio State University, said Rubio’s harsh stance on China could put Indonesia in a “difficult position, since it has not been willing to join the anti-China bandwagon.”
+
+
+He told VOA in December after Rubio was nominated as the secretary of state that “to the extent that the United States tries to pressure Indonesia to move in that direction, that could lead to some conflict.”
+
+
+Rubio said to his State Department staff last week that he expects other countries “to advance their national interests” but hopes “there will be many – in which our national interests and theirs align.”
+
+
+Seng Vanly, an assistant dean and lecturer at the Techo Sen School of Government and International Relations at the University of Cambodia, said Washington is likely to increase pressure on Cambodia over concerns for human rights, democratic setbacks, and restricted civil society activities, coupled with its growing ties with China.
+
+
+However, analysts say U.S. foreign policy under Rubio will likely balance issues such as human rights with regional security and economic goals.
+
+
+Rahman Yaacob, a research fellow for the Southeast Asia program at the Lowy Institute, said, “Washington will be more practical.”
+
+
+“While it could raise human rights issues with regional countries, the Americans understand if they disengage from the region because of human rights, China will fill in the void,” Yaacob said.
+
+
+Han Noy from Khmer Service, Yuni Salim from Indonesian Service contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/analysts-rubio-charts-a-course-for-countering-china/7954074.html>
+
+---
+
+## US lawmakers concerned about Chinese influence on Panama Canal
+
+date: 2025-01-29, from: VOA News USA
+
+In his inaugural address, U.S. President Donald Trump vowed to put the Panama Canal, a key global shipping route, back under the control of the United States, amid fear of growing Chinese encroachment. U.S. senators examined security concerns surrounding the canal Tuesday and looked at next steps. VOA’s congressional correspondent Katherine Gypson has more. 
+
+<br> 
+
+<https://www.voanews.com/a/us-lawmakers-concerned-about-chinese-influence-on-panama-canal/7954056.html>
+
+---
+
+## Trump pushes to end birthright citizenship
+
+date: 2025-01-29, from: VOA News USA
+
+President Donald Trump's executive order to end birthright citizenship in the U.S. has started a legal and political debate about executive power and the 14th Amendment, which guarantees citizenship to anyone born on U.S. soil, a principle that has been central to civil rights since its ratification in 1868. VOA’s immigration correspondent, Aline Barros, has more. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-pushes-to-end-birthright-citizenship/7954050.html>
+
+---
+
+## VOA Spanish: Deported migrants arrive from US on Colombian air force flights
+
+date: 2025-01-29, from: VOA News USA
+
+Colombia sent air force planes to repatriate more than 100 nationals deported from the U.S. after a bilateral standoff over Bogota's refusal to receive Colombians on U.S. military aircraft. The Colombian president welcomed the arrival of the migrants.
+
+
+Click here for the full story in Spanish. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-spanish-deported-migrants-arrive-from-us-on-colombian-air-force-flights-/7954004.html>
+
+---
+
+## Jen Rubin interviews Dr. Rob Davidson
+
+date: 2025-01-29, from: The Contrarian
+
+Jen speaks with Dr. Rob Davidson about how public health is at severe risk, especially in light of RFK Jr. and his potential confirmation, but what he and his group have done to try to prevent that. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155969016/c05ad8d975c376790320893cc424e633.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155969016/c05ad8d975c376790320893cc424e633.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-interviews-dr-rob-davidson>
+
+---
+
+## New private sector initiative to help victims of the California fires
+
+date: 2025-01-28, from: VOA News USA
+
+California Governor Gavin Newsom on Tuesday launched LA Rises, a private sector initiative aimed at raising money to help residents of Southern California rebuild their lives in the wake of the recent, devastating fires.  
+
+
+Rebuilding will be expensive, with some estimates reaching as high as $40 billion. 
+
+
+The fires, which began three weeks ago, killed 28 people, burned through more than 23,000 hectares, and destroyed more than 16,000 buildings, according to Cal Fire.  
+
+
+Newsom recruited basketball legend Earvin "Magic" Johnson, Dodgers Chairman Mark Walter and Casey Wasserman, the president and chairperson of LA28, to help recruit other philanthropists for the initiative. 
+
+
+"With Mark, Earvin and Casey's proven leadership and deep commitment to Los Angeles, we'll tap into the enormous creativity, experience, and resources of the private sector, alongside local, state, and federal efforts, to deliver a recovery that benefits all Angelenos," the governor said in a statement Tuesday 
+
+
+"It's time for those with means to come forward and make a positive impact to build back better," Walter said. 
+
+
+The initiative already has a pledge of up to $100 million from Walter, his family's foundation and the Los Angeles Dodgers Foundation. 
+
+
+"We can't lose hope," Newsom said while urging victims of the fires to seek support from the new philanthropic effort, known as LA Rises. "It is possible that we can come back more climate resilient, come back stronger." 
+
+
+Three of the biggest fires that hit the region are almost fully contained, according to Cal Fire. The Eaton fire is 99% contained, followed by the Hughes fire at 98% containment. The Palisades fire is 95% contained. 
+
+<br> 
+
+<https://www.voanews.com/a/new-private-sector-initiative-to-help-victims-of-the-california-fires-/7953764.html>
+
+---
+
+## The Fight for Midlife and Menopausal Health is Essential to Reproductive Rights—and Democracy 
+
+date: 2025-01-28, from: The Contrarian
+
+By Jennifer Weiss-Wolf 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-fight-for-midlife-and-menopausal>
+
+---
+
+## White House to open media access to podcasters, influencers
+
+date: 2025-01-28, from: VOA News USA
+
+WASHINGTON — Podcasters and social media influencers will be permitted to apply for credentials to cover the White House, the new press secretary announced Tuesday.
+
+
+In her first briefing, Karoline Leavitt told reporters that a wider range of individuals will be eligible to apply for White House press credentials.
+
+
+“We welcome independent journalists, podcasters, social media influencers and content creators to apply for credentials to cover this White House,” Leavitt said.
+
+
+That move to open up the White House is part of the administration’s aim to significantly increase the number of journalists with White House access, said Leavitt.
+
+
+At 27 years old, Leavitt is the youngest person to hold the White House press secretary job.
+
+
+“The Trump White House will speak to all media outlets and personalities, not just the legacy media that are seated in this room,” Leavitt said. She cited a Gallup poll showing low trust in media in the United States, particularly among younger people.
+
+
+“As long as you are creating news content of the day and are a legitimate, independent journalist, you are welcome to cover this White House,” she added.
+
+
+Leavitt said credentials will be given to those who meet the White House’s criteria and pass a Secret Service background check.
+
+
+The credentials, known as hard passes, make it easier for journalists to attend press briefings and access the White House campus.
+
+
+The White House Correspondents’ Association did not immediately reply to VOA’s request for comment.
+
+
+In his reelection campaign, Trump talked to several podcasters and social media influencers, including many directed at conservative audiences, in an effort to reach younger Americans.
+
+
+At Tuesday’s briefing, Leavitt said the administration intends to reinstate the credentials of about 440 journalists whose badges, she said, were “wrongly revoked” by the Biden administration in 2023.
+
+
+In May 2023, the Biden White House announced updated standards for a yearly renewal of passes. Only one journalist who applied under the revised criteria was denied a new pass, the White House told Politico at the time.
+
+
+During Tuesday’s briefing, The Associated Press asked Leavitt whether she views her job as press secretary as “advocating on behalf of the president or providing the unvarnished truth.”
+
+
+AP reporters traditionally ask that question at a new press secretary’s first briefing.
+
+
+Leavitt responded, “I commit to telling the truth from this podium every single day. I commit to speaking on behalf of the president.”
+
+
+The press secretary added that she expects reporters to hold themselves to the same standard, adding there “have been lies that have been pushed by many legacy media outlets about this president.”
+
+
+Trump has had a contentious relationship with news outlets that he accuses of biased coverage. In recent months, he has filed several lawsuits against U.S. media outlets over what he believes is unfair coverage.
+
+
+On Monday, lawyers for the board that awards Pulitzer Prizes asked a Florida state court to pause the defamation lawsuit Trump filed against the board members in 2022 until he is no longer president.
+
+
+Trump accuses the Pulitzer board of defaming him by continuing to honor The New York Times and The Washington Post for their coverage of Russian interference in the 2016 presidential election.
+
+
+Some information in this report came from the Associated Press. 
+
+<br> 
+
+<https://www.voanews.com/a/white-house-to-open-media-access-to-podcasters-influencers/7953761.html>
+
+---
+
+## Evening Roundup
+
+date: 2025-01-28, from: The Contrarian
+
+January 28: Corporate media luminaries refuse to obey as Trump's relentless Shock & Stunt antics continue at a deliberately overwhelming pace 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup>
+
+---
+
+## Ukrainians skeptical Trump can end war with Russia on acceptable terms
+
+date: 2025-01-28, from: VOA News USA
+
+U.S. President Donald Trump has promised repeatedly to bring an end to the war in Ukraine. But some Ukrainians are skeptical Trump can do anything to make President Vladimir Putin pull back his troops. The problem, as some analysts see it, is that the demands of Ukraine and Russia cannot be reconciled. Lesia Bakalets report from Kyiv. Camera: Vladyslav Smilianets 
+
+<br> 
+
+<https://www.voanews.com/a/ukrainians-skeptical-trump-can-end-war-with-russia-on-acceptable-terms-/7953738.html>
+
+---
+
+## How Government Grants Actually Turn Into Cash
+
+date: 2025-01-28, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjA1ODg5NC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0MDY4OTI0MX0.MUjJHNN6OoJs6xtJ9w6kjMZMfkLEANHXNNOkLgGKVNE/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">A memo issued to federal agencies from the White House budget office on Monday landed like an atom bomb. The Trump administration ordered a pause on the obligation or disbursement of federal financial assistance. In laymen’s terms, that means an immediate freeze on payouts of federal grants — even those already awarded. The news sent a mushroom cloud of confusion and fear through state and local governments, schools, nonprofits, and companies that have set up programs and financed projects based on that funding.</p>
+<p>Experts say the move is illegal and many groups moved quickly to sue. By Tuesday afternoon, a federal judge had <a href="https://apnews.com/article/donald-trump-pause-federal-grants-aid-f9948b9996c0ca971f0065fac85737ce" rel="noopener noreferrer" target="_blank"><u>temporarily blocked</u></a> the funding freeze.</p>
+<p>A 1974 law called the Impoundment Control Act prohibits the president from holding back congressionally appropriated funds indefinitely without permission from Congress. As Georgetown University law professor David Super <a href="https://balkin.blogspot.com/2025/01/unlawful-funding-freeze-sews-chaos.html" rel="noopener noreferrer" target="_blank"><u>explained in a blog post today</u></a>, the law also prohibits presidents from deferring funds based on policy disagreements. The memo from the Office of Management and Budget makes Trump’s policy intent explicit — it specifically directs agency heads to pause activities that “may be implicated by the executive orders, including, but not limited to … DEI, woke gender ideology, and the green new deal.” It notes that the pause “will provide the Administration time to review agency programs and determine the best uses of the funding for those programs consistent with the law and the President’s priorities.”</p>
+<p>Some have <a href="https://x.com/MattGlassman312/status/1884262477497786381" rel="noopener noreferrer" target="_blank"><u>interpreted the memo</u></a> as the first salvo in an attack on the separation of powers. But perhaps the most immediate reason the pause is so cataclysmic is because of the way federal grants work.</p>
+<p>When an entity wins federal funds, be it <a href="https://www.lpm.org/news/2024-04-19/u-s-deputy-secretary-of-energy-visits-kentucky-to-tout-investment-in-recycling" rel="noopener noreferrer" target="_blank"><u>$270 million to expand a copper recycling facility</u></a> in Kentucky, or <a href="https://www.energy.gov/oced/gulf-coast-hydrogen-hub" rel="noopener noreferrer" target="_blank"><u>$1.2 billion to build a hydrogen hub on the Gulf Coast</u></a>, or <a href="https://focusonenergy.com/home-energy-rebates" rel="noopener noreferrer" target="_blank"><u>$149 million for the state of Wisconsin</u></a> to set up home energy efficiency rebate programs, the awardee doesn’t just get the money transferred over to their bank account in a lump sum. Every federal grant program works slightly differently, but the majority of them are essentially pay-as-you-go. </p>
+<p>The first thing that happens after an agency awards a grant to a given project is the two parties negotiate a contract, outlining the terms under which the award will be administered. What milestones does the project need to hit? What does the recipient need to report back to the agency? In the context of many Department of Energy programs, this contract is called a cooperative agreement, where federal staff continue to be involved in the project throughout its implementation.</p>
+<p>After both parties sign the agreement, the money is considered “obligated,” which means the government has a legal duty to disburse those funds per the terms of the agreement. There might be some initial transfer of funds at this point to kickstart the project, depending on the program and contract. But the recipient may not get any money at all until they submit for reimbursement.</p>
+<p>Yep, that’s right. If you win millions of dollars from the government, you still need to submit your receipts to get paid.</p>
+<p>This is typically not a one-and-done process. A lot of grant programs fund years-long projects, and recipients regularly invoice the government for reimbursement throughout that time. In the case of the DOE, most programs also have a cost-share requirement, where the agency will reimburse a project developer for whatever portion of the expenses it has agreed to pay. For the Inflation Reduction Act’s Home Energy Rebates, where the funding is distributed to states to implement their own programs, the <a href="https://www.energy.gov/sites/default/files/2024-12/home-energy-rebates-alrd2_v2_121624.pdf" rel="noopener noreferrer" target="_blank"><u>program is set up</u></a> to transfer funds to state energy offices in four “tranches” as recipients hit certain benchmarks.</p>
+<p>While some projects are fully obligated up front, meaning the grantee is entitled to the full amount, others are obligated in phases. For example, the Department of Energy has <em><em>selected</em></em> seven regional hydrogen hubs to receive <em><em>up to</em></em> $7 billion. But each of those seven hubs has only been awarded a portion of the funding for “phase 1,” which can be used to pay for “initial planning, design, and community and labor engagement activities.” When they are ready to move into phase 2, they’ll have to negotiate a new award for project development, permitting, and financing. Each advancement is subject to a go/no-go decision by the DOE.</p><p>Before Biden left office, his administration <a href="https://www.reuters.com/sustainability/climate-energy/biden-protects-84-ira-clean-energy-grants-being-clawed-back-2025-01-17/" rel="noopener noreferrer" target="_blank"><u>said it had obligated 85% of all grants</u></a> from the Inflation Reduction Act. But as you can see, most of that money is not yet out the door.</p> 
+
+<br> 
+
+<https://heatmap.news/politics/trump-funding-freeze-chaos>
+
+---
+
+## Democrats, fund recipients challenge order to freeze federal spending
+
+date: 2025-01-28, from: VOA News USA
+
+WASHINGTON  — A federal judge quickly put on hold Tuesday part of the Trump administration's order to freeze much of the government's funding after a lawsuit was filed in federal court in Washington. 
+
+
+U.S. District Judge Loren AliKhan ordered the White House not to block funding to existing programs until Feb. 3 when a hearing will be held in Washington. The Trump administration's order was set to go into effect at 5 p.m. Tuesday.  
+
+
+The lawsuit was filed by advocacy groups representing nonprofit organizations, small-business owners and public health professionals. 
+
+
+White House press secretary Karoline Leavitt, at her first news conference, defended the freezing of domestic grant and aid programs, telling reporters it is the responsibility of the new administration “to be good stewards of taxpayer dollars.”
+
+
+
+
+Leavitt emphasized President Donald Trump’s order will not harm individual assistance programs, including “Social Security benefits, Medicare benefits, food stamps, welfare benefits” and other “assistance that is going directly to individuals.”
+
+
+Democrats on Capitol Hill say that is not accurate and that chaos is resulting from Trump’s order, which the party’s leader in the U.S. Senate, Chuck Schumer of New York, characterizes as “lawless, destructive, dangerous and cruel.”
+
+
+“People are in a panic about it,” Schumer told reporters on Tuesday afternoon.
+
+
+The frozen funds, totaling “billions, perhaps, trillions of dollars that help American families every single day” include monies allocated for disaster assistance, local law enforcement, rural hospitals, aid to the elderly and food for people in need, according to Schumer.
+
+
+“The use of federal resources to advance Marxist equity, transgenderism and green new deal social engineering policies is a waste of taxpayer dollars that does not improve the day-to-day lives of those we serve,” announced the Office of Management and Budget in its memo ordering the funding halt.
+
+
+“I’m warning the Trump administration – the law is the law,” said Senator Patty Murray, from the state of Washington. “Avoid this pointless, damaging chaos.”
+
+
+Murray is the vice chair of the Senate’s appropriations committee, which oversees and manages the allocation of funding from the federal government.
+
+
+Other Democrats on the Senate’s appropriations and budget committees unsuccessfully tried to get their Republican colleagues to delay Thursday’s confirmation hearing for the president’s pick to run the OMB.
+
+
+“The Senate Budget Committee will proceed” with the nomination of Russell Vought, responded the committee’s chairman, Republican Lindsey Graham of South Carolina.
+
+
+Vought, who also ran OMB in the first Trump administration, said in two recent confirmation hearings before other Senate committees that he believed a 1974 “impoundment” law, which prevents presidents for blocking spending authorized by Congress, is unconstitutional.
+
+
+“We are hearing from Medicaid offices across the country” that they have been locked out of federal funding systems, said Senator Maggie Hassan of New Hampshire, a member of the finance committee.
+
+
+Stealing the power of the purse from Congress is part of a “sweeping authoritarian power grab” by the president since Trump took office one week ago, Senator Jeff Merkley of Oregon, the ranking Democrat on the budget committee, told reporters at the Capitol.
+
+
+“Donald Trump is stealing from taxpayers to fund tax cuts for billionaires, and House Republicans are celebrating,” said Representative Katherine Clark of Massachusetts, the Democratic whip, in a statement.
+
+
+Republicans in Congress reject that perception.
+
+
+The president’s order is intended to ensure the government’s money “is spent wisely and well,” Senate Majority Leader John Thune of South Dakota told reporters Tuesday afternoon in the rotunda of the U.S. Capitol. He added it is not unusual for a new administration to pause funding, noting the previous president, Democrat Joe Biden, did so regarding the allocated money for expansion of a wall on the U.S. southern border of Mexico, which was a highlighted project of the first Trump administration.
+
+
+Biden’s action was not as sweeping as the one taken this week by the Trump administration.
+
+
+“Everybody take a deep breath, stay calm” during the 90-day review of the federally funded programs, advised Senator James Risch, the Idaho Republican who chairs the foreign relations committee. “We’ll get this done and reduce spending.” 
+
+<br> 
+
+<https://www.voanews.com/a/democrats-fund-recipients-challenge-order-to-freeze-federal-spending-/7953712.html>
+
+---
+
+## How Trump is Spearheading the American Christian Nationalist Movement
+
+date: 2025-01-28, from: The Contrarian
+
+The Christian nationalist ideology sits at the core of Trump's plans for America. From cutting DEI programs to stripping away reproductive freedoms, Trump is privileging one, specific group. 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-trump-is-spearheading-the-american>
+
+---
+
+## From Burning Questions: Is the future insurable?
+
+date: 2025-01-28, from: Market Place, Make me Smart
+
+<p>Today we&#8217;re handing the mic over to the team behind &#8220;Burning Questions&#8221; from Marketplace&#8217;s climate solutions podcast <a href="https://www.marketplace.org/shows/how-we-survive/">&#8220;How We Survive&#8221;</a> as they survey the devastation on the ground in the Pacific Palisades, and dig into the homeowners insurance crisis. Since the Los Angeles fires broke out, thousands have lost their homes and current estimates say <a href="https://abcnews.go.com/Business/los-angeles-fire-losses-reach-30-billion-insurers/story?id=117653563" target="_blank" rel="noreferrer noopener">insured losses may exceed $30 billion</a>. The disaster has raised existential questions about the future of the insurance industry and its potential impact on the housing market. Host Amy Scott talks with Carolyn Kousky from the Environmental Defense Fund to find answers.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/01/28/mms_20250128_Burning_Questions_012825_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Ffrom-burning-questions-is-the-future-insurable&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/01/28/mms_20250128_Burning_Questions_012825_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Ffrom-burning-questions-is-the-future-insurable&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/from-burning-questions-is-the-future-insurable>
+
+---
+
+## Trump’s Funding Freeze Will Hit These Climate and Energy Programs
+
+date: 2025-01-28, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjA1NzAyOC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4NzA3Mjk3Nn0.OoWSckBIkQBORI6XfBA0bdeRos1OBDF-rf0AnQE9C6A/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><em>Editor’s note: On Tuesday evening, in response to the lawsuit described below, a federal judge temporarily halted enforcement of the OMB memo.</em><br/></p><p class="drop-caps">
+	The Trump administration has specifically targeted many large federal energy and climate programs in its sweeping freeze and review of grant funding, according to a list obtained by Heatmap News.</p><p>
+	The list follows the release of a <a href="https://www.nytimes.com/interactive/2025/01/27/us/omb-memo.html" rel="noopener noreferrer" target="_blank"><u>two-page memo</u></a> dated January 27 and released Monday evening, in which the Office of Management and Budget ordered a pause on federal grant programs that “advance[s] Marxist equity, transgenderism, and green new deal social engineering policies.” The memo was first reported by independent journalist Marisa Kabas and stated that the pause would go into effect at 5 p.m. ET Tuesday.
+</p><p>
+	Targeted programs include vast swathes of the federal government most relevant to the energy sector, from major Energy Department cleantech research offices and labs to all implementations of energy tax credits, including those in the Inflation Reduction Act. It also includes essentially all work at the National Oceanic and Atmospheric Administration, a Commerce Department subagency that produces climate science and weather forecasting.
+</p><p>
+	The document states that programs targeted by the administration will be reviewed to determine whether they “impose an undue burden on the identification, development, or use of domestic energy resources.” Programs will also be reviewed to discover whether they’re funded by the Bipartisan Infrastructure Law and Inflation Reduction Act or implicated under the president’s Day One executive order to terminate activities related to “diversity, equity, inclusion, and accessibility,” or whether they “promote gender ideology” — terms defined vaguely, if at all, in the document.
+</p><p>
+	It’s too early to know how the legal system will handle this maneuver by the new administration, or how the U.S. political system will respond to the chaos. Already, impromptu protests are being convened outside of the White House, a group of high-powered plaintiffs has <a href="https://storage.courtlistener.com/recap/gov.uscourts.dcd.276842/gov.uscourts.dcd.276842.1.0.pdf" rel="noopener noreferrer" target="_blank"><u>filed a lawsuit</u></a>, and moderate Republicans — namely Senators Susan Collins and Lisa Murkowski — are worrying publicly over the sweeping pause.
+</p><p>
+	Heatmap has reached out to the Office of Management and Budget for comment on the document, and we will update this story if we receive it. The <a href="https://www.documentcloud.org/documents/25506813-govdoc20250128-263582/#document/p1" rel="noopener noreferrer" target="_blank"><u>full list of targeted programs</u></a> was first reported by Jennifer Shutt at <em><em>States Newsroom</em></em>. Among those named relating to the energy sector are:
+</p><ul>
+<li>United States Department of Agriculture’s commodity loans and conservation payments</li>
+<li>USDA’s Powering Affordable Clean Energy program</li>
+<li>Department of Commerce’s climate and atmospheric research, including National Oceanic and Atmospheric Administration programs</li>
+<li>Department of Energy cybersecurity and emergency response</li>
+<li>DOE’s nuclear legacy cleanup activities</li>
+<li>DOE’s renewable energy research and development office</li>
+<li>DOE’s fossil energy research and development office</li>
+<li>DOE’s energy efficiency and conservation grant block program</li>
+<li><a href="https://heatmap.news/technology/arpa-e-climate-tech" target="_self"><u>ARPA-E spending</u></a></li>
+<li>DOE’s state heating oil and propane program</li>
+<li>DOE’s manufacturing and energy supply chain demonstrations office</li>
+<li>DOE’s clean energy demonstrations office</li>
+<li>Department of Health and Human Services’ low-income home energy assistance program</li>
+<li>Department of Homeland Security’s disaster assistance programs, including post-disaster grants, community disaster loans and flood mitigation assistance</li>
+<li>DHS’ fire management assistance grant program</li>
+<li>Department of Housing and Urban Development’s healthy homes weatherization grants</li>
+<li>Department of Labor’s coal mine workers’ compensation fund</li>
+<li>Department of the Interior’s energy community revitalization program</li>
+<li>Interior Earth mapping resources initiative</li>
+<li>Interior wildfire management and preparedness funding to local governments</li>
+<li>Interior Tribal energy development grants</li>
+<li>Interior abandoned mine land reclamation</li>
+<li>Interior regulation of surface coal mining</li>
+<li>Interior’s threatened and endangered species protection program</li>
+<li>Interior implementation of the Mineral Leasing Act</li>
+<li>Many Department of the Treasury tax credit implementation programs, including:
+	<ul>
+<li>Oil and gas exploration and development expensing</li>
+<li>Enhanced oil recovery credit</li>
+<li>Energy production credit</li>
+<li>Energy investment credit</li>
+<li>Advanced nuclear power production credit</li>
+<li>Zero-emission nuclear power production credit</li>
+<li>Reduced tax rate for nuclear decommissioning funds</li>
+<li>Clean vehicle tax credit</li>
+<li>Refueling station tax credit </li>
+<li>Energy efficiency tech deductions</li>
+<li>Advanced manufacturing production credit</li>
+<li>Carbon oxide sequestration credit</li>
+</ul>
+</li>
+<li>Department of Transportation’s highway funding</li>
+<li>Transportation clean fuels program</li>
+<li>Transportation electrification for passenger ferries</li>
+<li>Transportation pipeline safety grant programs</li>
+<li>Environmental Protection Agency’s diesel emissions reduction programs</li>
+<li>EPA climate pollution reduction grants</li>
+<li>EPA Solar for All program</li>
+<li>EPA clean heavy-duty vehicles program</li>
+<li>EPA Clean Ports program</li>
+<li>EPA environmental justice programs and grant funding</li>
+<li>EPA pollution prevention grants program</li>
+<li>EPA Toxic Substances Control Act monitoring cooperative</li>
+<li>EPA consolidated pesticide enforcement cooperative</li>
+<li>The Export-Import Bank</li>
+<li>The International Development Finance Corporation</li>
+<li>Nuclear Regulatory Commission research and scholarship programs</li>
+<li>Small Business Administration disaster loans</li>
+</ul><p>
+<em>This story is still developing. It was last updated Tuesday, January 28, at 6 p.m. ET.</em></p> 
+
+<br> 
+
+<https://heatmap.news/politics/trump-memo-climate-programs>
+
+---
+
+## In Tennessee county, an aging population means business opportunity
+
+date: 2025-01-28, from: Market Place
+
+Leisure activities are a big theme with Cumberland County's growing retirement community.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/28/oldest-workforce-cumberland-county-tennessee-an-aging-population-business-opportunities-challenges/>
+
+---
+
+## How to Solve for the Debt Ceiling? Make it Trump’s Problem
+
+date: 2025-01-28, from: The Contrarian
+
+Trump is back at it with his sharpie, trying to violate federal law by freezing grants and loans at whim. Meanwhile, the March deadline looms for the nation's debt...and he's not paying attention 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-to-solve-for-the-debt-ceiling>
+
+---
+
+## Jen Rubin, Mimi Rocah, and Julie Zebrak on the attempted funding freeze and DOJ firings
+
+date: 2025-01-28, from: The Contrarian
+
+Jen Rubin interviews Mimi Rocah and Julie Zebrak on Trump&#8217;s attempt to halt all federal funding and the recent firings within the Justice Department. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155948837/41a90db7aae6774c9779ce37b1bf9e5b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155948837/41a90db7aae6774c9779ce37b1bf9e5b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-mimi-rocah-and-julie-zebrak>
+
+---
+
+## China tests US commitment to South China Sea by pressuring Philippines
+
+date: 2025-01-28, from: VOA News USA
+
+TAIPEI, TAIWAN — A little more than a week after Beijing and Manila reached an agreement aimed at easing tensions in the South China Sea, the Philippines has accused Chinese coast guard vessels of fresh incursions, harassment and “aggressive maneuvers.” 
+
+
+Analysts say the pressure campaign, which has stepped up in recent days, is part of Beijing’s attempt to test the United States’ commitment to support the Philippines. 
+
+
+“They want to see how far they can push the Philippines under the new administration in the U.S.,” Ja Ian Chong, a political scientist at the National University of Singapore, told VOA by phone. 
+
+
+In a statement released on social media platform X last Saturday, the Philippine coast guard said two vessels from the Philippine Bureau of Fisheries encountered “aggressive maneuvers” from three Chinese coast guard vessels while heading to Sandy Cay for a marine scientific survey last Friday. 
+
+
+
+
+In one video released by Manila, a large Chinese coast guard vessel was seen moving within a few meters of one Philippine vessel. Another video showed a Chinese helicopter hovering above two inflatable boats carrying Philippine crew members. 
+
+
+Philippine coast guard spokesperson Jay Tarriela said the Philippine vessels were forced to suspend the scientific survey due to the “continuous harassment and the disregard for safety” shown by the Chinese coast guard.  
+
+
+In response to Manila’s accusations, Beijing said Chinese coast guard vessels “thwarted” two Philippine vessels’ attempts to “land on” Sandy Cay, which China calls “Tiexian Reef.”  
+
+
+“The vessels attempted to illegally land on the reef and conduct sand sampling. China Coast Guard [CCG] vessels lawfully obstructed the Philippine ships' course and warned them away,” the Chinese coast guard spokesperson Liu Dejun said in a statement released last Friday. 
+
+
+China views almost all of the South China Sea as its territory and is engaged in a series of disputes with several Southeast Asian countries, including the Philippines, that have overlapping claims over the strategic waterway.  
+
+
+Apart from the incident near Sandy Cay, the Philippine coast guard said its vessels had successfully kept Chinese coast guard vessels from operating in waters near the coastline of the Philippines’ Zambales province since last Friday.  
+
+
+“The Philippine Coast Guard [PCG] vessel has maintained the China Coast Guard vessel to keep a distance of 90-100 nautical miles away from the Philippines’ Exclusive Economic Zone,” said Jay Tarriela from the Philippine coast guard in a post on social media platform X on Sunday. 
+
+
+
+
+Then on Monday, the Philippine coast guard said its vessels were hindered by Chinese coast guard vessels while trying to recover the body of a dead Philippine fisherman from a Philippine fishing boat.  
+
+
+
+
+The series of incidents comes more than a week after senior Chinese and Philippine diplomats vowed to settle territorial disputes in the South China Sea through dialogues during a bilateral consultation. 
+
+
+Although the agreement has allowed the Philippines to conduct resupply missions to its forces near the disputed Second Thomas Shoal since late last year, some experts say the latest incidents are part of a bigger effort by Beijing to drive a wedge between Manila and Washington.   
+
+
+“Beijing isn’t happy with Manila’s assertive stance in the South China Sea and its close ties with the United States, so [these factors] serve as convenient justifications for Beijing to try to push Manila in the South China Sea,” said Collin Koh, a maritime security expert at Singapore's S. Rajaratnam School of International Studies.  
+
+
+Despite the persistent Chinese aggression, Koh said some in Manila think the Philippines can maintain its current approach in the South China Sea since there is bipartisan support for a more assertive position against China in the U.S. and some Trump administration officials, including Secretary of State Marco Rubio and White House National Security Adviser Mike Waltz, have reiterated Washington’s “ironclad” defense commitment to the Philippines during interactions with their Philippine counterparts last week. 
+
+
+
+
+“Manila appears to be more cautiously optimistic that it can maintain the current policy, knowing that there is U.S. backing for that,” he told VOA by phone.  
+
+
+To counter Beijing’s pressure campaign, Don McLain Gill, a lecturer in international studies at De La Salle University in the Philippines, said it’s important for the Philippines and its allies, including the United States, to maintain close collaboration in areas such as joint maritime exercises. 
+
+
+Since China is expected to “continue pressing the Philippines into submission with its grey zone operations, which are now shifting from low intensity to high intensity, this must be addressed with more robust presence operations between the alliance and like-minded partners, along with continued support in the Philippines military modernization in line with the Comprehensive Archipelagic Defence Concept,” he told VOA in a written response.  
+
+
+With the Trump administration’s announcement to suspend new funding for almost all U.S. foreign assistance for 90 days, however, Chong in Singapore said Beijing may think there is a window of opportunity to pressure countries like the Philippines. 
+
+<br> 
+
+<https://www.voanews.com/a/china-tests-us-commitment-to-south-china-sea-by-pressuring-philippines/7953276.html>
+
+---
+
+##  The Deadly Secrets Behind “Breakthrough” Alzheimer’s Drugs 
+
+date: 2025-01-28, from: The Lever News
+
+ Regulators approved controversial therapies amid excess deaths, questionable efficacy, and conflicts of interest.  
+
+<br> 
+
+<https://www.levernews.com/the-deadly-secrets-behind-breakthrough-alzheimers-drugs/>
+
+---
+
+##  New Alzheimer’s Drugs Shrink Your Brain — Is That Bad? 
+
+date: 2025-01-28, from: The Lever News
+
+ Alzheimer’s Disease shrinks your brain — why do the new drugs for the condition do the same thing?  
+
+<br> 
+
+<https://www.levernews.com/new-alzheimers-drugs-shrink-your-brain-is-that-bad/>
+
+---
+
+##  What Alzheimer’s Drugs Do Inside Your Skull 
+
+date: 2025-01-28, from: The Lever News
+
+ Drugmakers say small brain bleeds and swelling caused by the new Alzheimer’s drugs are benign and self-resolving — but are they?  
+
+<br> 
+
+<https://www.levernews.com/what-alzheimers-drugs-do-inside-your-skull/>
+
+---
+
+## Morning Roundup: January 28
+
+date: 2025-01-28, from: The Contrarian
+
+Paul Krugman contributes to The Contrarian! Read him, founder Jen Rubin, and Kim Lane Scheppele in this morning's roundup 
+
+<br> 
+
+<https://contrarian.substack.com/p/morning-roundup-january-28>
+
+---
+
+## Departing the New York Times
+
+date: 2025-01-28, from: The Contrarian
+
+I left to stay true to my byline 
+
+<br> 
+
+<https://contrarian.substack.com/p/departing-the-new-york-times>
+
+---
+
+## The Paradox of Trump’s Critical Minerals Crusade
+
+date: 2025-01-28, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTgyNTExMS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0NzExMzk1M30.R6cYx055OiBVardBZ24yAJJ-1eS52oMaxSTklFNT5GY/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">The technology that undergirds decarbonization requires a lot of minerals, and those minerals are often found or processed overseas — <em><em>really </em></em>often in China. The Biden administration thought this was a problem, so as it subsidized the domestic use and manufacture of solar panels, wind turbines, and battery-electric vehicles and the deployment of green energy, it also tried to nudge the critical mineral industry mining and refining industries to be more American, with subsidies for battery plants and loan guarantees for lithium mines.</p><p>The Trump administration halfway agrees with its predecessors: It wants to see an American minerals industry, but it isn’t so much interested in the renewable energy part. During his Day One fusillade of executive orders, the president hammered the wind industry, scrapped the Biden administration’s goals for vehicle electrification, and encouraged faster permitting for nearly every type of energy generation other than wind, solar, and storage.</p><p>While new clean energy projects won’t disappear overnight, the growth trajectory of the sector may be imperiled, which in turn means that incremental future demand for critical minerals in the United States has likely diminished. Demand certainty is incredibly important for the mining sector — it takes an <a href="https://cdn.ihsmarkit.com/www/pdf/0724/SPGlobal_NMA_DevelopmentTimesUSinPerspective_June_2024.pdf" rel="noopener noreferrer" target="_blank"><u>estimated 29 years</u></a> from resource discovery to production in the United States, according to S&P — as exploration is a highly uncertain and expensive process. Because of this, the industry as a whole is already incentivized to undersupply the market, explained Arnab Datta, the managing director of policy implementation at Employ America. </p><p>“If there’s uncertainty about demand, it will hold back investment,” Datta told me. “If you under-invest, you get suboptimal profits. If you over-invest, the risk is bankruptcy.”</p><p>Many minerals projects the Biden administration greenlit and supported were closely tied to downstream decarbonization goals. The nearly $1 billion loan guarantee for the Ioneer Rhyolite Ridge refining project for lithium mined in Nevada, for instance, would “finance the on-site processing of lithium carbonate that would support production of lithium for more than 370,000 EVs each year,” the Energy Department’s Loan Programs Office said in an <a href="https://www.energy.gov/lpo/articles/doe-announces-996-million-loan-guarantee-ioneer-rhyolite-ridge-advance-domestic" rel="noopener noreferrer" target="_blank"><u>announcement on January 17</u></a>.</p><p>In December, the LPO issued a $750 million conditional loan guarantee for a <a href="https://www.energy.gov/lpo/articles/lpo-announces-conditional-commitment-novonix-boost-synthetic-graphite-manufacturing" rel="noopener noreferrer" target="_blank"><u>synthetic graphite facility in Tennessee</u></a> that was “expected to produce 31,500 metric tonnes per year of synthetic graphite, which can support the production of lithium-ion batteries for approximately 325,000 EVs each year.”</p><p>And America’s<a href="https://www.opportunitylouisiana.gov/project/syrah-resources" rel="noopener noreferrer" target="_blank"> </a>first graphite processing plant, <a href="https://www.opportunitylouisiana.gov/project/syrah-resources" rel="noopener noreferrer" target="_blank"><u>which supplies Tesla’s battery-making operations</u></a> from Vidalia, Louisiana, does so with help from a <a href="https://www.energy.gov/lpo/syrah-vidalia" rel="noopener noreferrer" target="_blank"><u>$100 million Department of Energy loan</u></a>. </p><p>The Trump approach to stimulating investment is still evolving — the Department of Energy doesn’t yet have a confirmed secretary — but it appears to focus largely on permitting mining and refining projects with a focus on the defense industrial base.</p><p>The executive order “Unleashing American Energy” asks agencies to “identify all agency actions that impose undue burdens on the domestic mining and processing of non-fuel minerals and undertake steps to revise or rescind such actions.” Trump also asked the secretaries of the interior and energy to make “efforts to accelerate the ongoing, detailed geologic mapping of the United States,” and “ensure that critical mineral projects, including the processing of critical minerals, receive consideration for Federal support.”</p><p>Many of the minerals used for renewables and clean energy projects also have <a href="https://heatmap.news/technology/climate-tech-defense" target="_blank">defense applications</a>. The most obvious example<a href="https://www.resources.org/common-resources/critical-minerals-for-electric-vehicles-what-you-need-to-know/" rel="noopener noreferrer" target="_blank"> </a>are the <a href="https://www.resources.org/common-resources/critical-minerals-for-electric-vehicles-what-you-need-to-know/" rel="noopener noreferrer" target="_blank"><u>suite of minerals found in batteries</u></a> — lithium, cobalt, graphite — which are as key for powering electric vehicles as they are for building drones.</p><p>“If you’re going to make a Venn diagram of what critical minerals you need for sustainable energy technologies, battery technologies, solar cells, and electricity infrastructure, that circle of critical minerals sits inside of the circle of critical minerals that you need for defense purposes,” explained Catrina Rorke, the senior vice president for policy and research at the Climate Leadership Council.</p><p>But renewable energy applications can quickly outpace defense. According to the Breakthrough Institute’s Seaver Wang, “In many cases the business for these projects would be difficult to sustain on the defense applications alone unless DOD is throwing tons of money to make those projects too big to fail.” </p><p>The F-35 fighter jet<a href="https://www.defense.gov/News/News-Stories/Article/Article/3700059/dod-looks-to-establish-mine-to-magnet-supply-chain-for-rare-earth-materials/" rel="noopener noreferrer" target="_blank"> </a>uses <a href="https://www.defense.gov/News/News-Stories/Article/Article/3700059/dod-looks-to-establish-mine-to-magnet-supply-chain-for-rare-earth-materials/" rel="noopener noreferrer" target="_blank"><u>around 900 pounds of rare earth elements,</u></a> and the Pentagon is looking at maintaining a fleet of about 2,400. A single offshore wind turbine, meanwhile, can use up to <a href="https://www.windsystemsmag.com/24015-2/" rel="noopener noreferrer" target="_blank"><u>thousands of pounds</u></a>. To get a sense of how much rare earth metal even a modestly sized offshore wind operation requires, you’d have to look at something like a destroyer, which needs over 5,000 pounds of them. </p><p>Not all analysts see a strong tension between the Trump administration’s renewable energy policy and its critical minerals policy, however. Morgan Bazilian, director of the Payne Institute and a public policy professor at the Colorado School of Mines, told me that it was “simplistic” to say “you need supply and demand to meet somewhere.”</p><p>“There’s still going to be a need for copper whether or not the U.S. builds a lot of transmission lines,” Bazilian said. “There’s still going to be the need for light and heavy rare earths, and there’s a need for tellurium and nickel on global markets. The problem is not robust demand in the United States, which is one piece of the pie.”</p><p>No matter what these minerals are used for or where their ultimate destination is, the United States is desperately looking for any foothold in mining and processing in order to compete with China, which dominates many sectors of the industry.</p><p><span></span>“What we need to do now is to get some domestic mining and processing going,” Bazilian said. The U.S. “doesn’t have to be dominant or be the biggest producer of these things. We need to get on the map a little bit. We have precious little going on.”</p><p><span></span>Even if U.S. demand slows, “I don’t think it will stop,” Bazilian said. “I don’t see that in itself kneecapping anything.”</p><p>Regardless of the level of demand, it will need mines and processing facilities to meet it, which requires permitting and financing. What investors and companies looking to open mines and refining facilities need is not just assurance of demand over the long term, Rorke explained, but also the go-ahead to build.</p><p>“If you’re only focused on the demand side,” Rorke said, “you’re really investing in a long-term problem because you are not matching it with the supply that can come on to satisfy that demand over the long term.”</p><p><em>Editor’s note: This story has been updated to correct Datta’s affiliation and title.</em><br/></p> 
+
+<br> 
+
+<https://heatmap.news/economy/trump-critical-minerals-energy>
+
+---
+
+## Maui’s Post-Wildfire Housing Crisis Offers a Warning for Los Angeles
+
+date: 2025-01-28, from: Capital and Main
+
+<p>After wildfires devastated the island, homelessness spiked. Advocates fear L.A. could face a similar fate without strong renter protections — and enforcement.</p>
+<p>The post <a href="https://capitalandmain.com/mauis-post-wildfire-housing-crisis-offers-a-warning-for-los-angeles">Maui’s Post-Wildfire Housing Crisis Offers a Warning for Los Angeles</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/mauis-post-wildfire-housing-crisis-offers-a-warning-for-los-angeles>
+
+---
+
+## Don’t Sell Your Tesla Because of Elon Musk
+
+date: 2025-01-28, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjA0Njk3OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0NTc5MTEyNX0.pRxt_Hwc0VuVleB1KM4UWDWZ4aiCs6TUtl8d4prDGms/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Back in 2019, the year I bought my Tesla Model 3, Elon Musk was more nuisance than accused neo-Nazi. He released an offbeat autotuned rap <a href="https://www.vox.com/2019/4/1/18290425/elon-musk-rip-harambe-rap-song-hyperloop" rel="noopener noreferrer" target="_blank"><u>song</u></a> about Harambe the gorilla and was acquitted of defamation charges after calling a rescuer in the Thailand cave incident of being a “<a href="https://www.npr.org/2019/12/06/785747858/los-angeles-jury-finds-no-defamation-in-elon-musks-pedo-guy-tweet#:~:text=Jury%20Clears%20Elon%20Musk%20In,'Pedo%20Guy'%20Tweet%20:%20NPR&text=Hourly%20News-,Jury%20Clears%20Elon%20Musk%20In%20Defamation%20Suit%20Over%20'Pedo%20Guy,coach%20in%20Thailand%20last%20year." rel="noopener noreferrer" target="_blank"><u>pedo guy</u></a>.” Both events feel eons ago in internet time. They also feel ancient as part of the gradual progression of Tesla’s CEO from real-life Tony Stark to right-wing agitator and propagandist.</p>
+<p>Lots of people who purchased Tesla EVs before Musk took off the mask are understandably miffed. Anyone who buys a Cybertruck and has been on the internet before should know they’re driving an extension of Elon’s id. But millions of people worldwide bought Teslas over the past several years with no intention of puttering around in a MAGA machine. The sentiment can be seen in the <a href="https://heatmap.news/electric-vehicles/anti-elon-bumper-sticker-tesla" target="_self"><u>bumper stickers</u></a> that now appear on Model 3s and Ys around blue states, declaring some version of “I bought it before Elon was crazy.” A new <a href="https://insideevs.com/news/747944/tesla-owners-musk-survey-netherlands/" rel="noopener noreferrer" target="_blank"><u>study</u></a> in the Netherlands put a number to the notion: The survey found that one in three Tesla owners wants to unload their cars rather than continue to drive a vehicle associated with Musk.</p>
+<p>This is a time when social media abounds with lists of companies to avoid because of their political stances and contributions; anyone who wants to vote with their wallet by not buying Tesla absolutely can and probably should buy some other carmaker’s EV instead (unless Tesla, which is slated to release its earning this week, winds up the <a href="https://heatmap.news/electric-vehicles/musk-trump-tesla-tax-credits" target="_self"><u>last</u></a> EV-maker standing). But don’t ditch your Model S or Y just to avoid driving around in an advertisement for his company.</p>
+<p>I’ve thought a lot about this as a Model 3 owner for five-plus years. It’s not uncommon to meet someone who can’t wait to tell you they’d never buy a Tesla because of Musk’s politics or noxious behavior on X. Fair enough. But plenty of those people drive gas-only or hybrid vehicles. The oil company CEOs who make money selling gasoline and diesel have been far worse for the climate than Musk, even if his Trump-ward turn is closing the gap. They just know enough not to tweet. Or buy Twitter.</p>
+<p>It certainly doesn’t make climate sense to dispose of a Tesla in favor of a non-EV. But even trading one in for another company’s EV just to get Musk out of your life is a bad deal. When you sell your car, it becomes somebody else’s car. That person inherits the symbolic weight of owning one of Musk’s products and takes over the Supercharging dole, paying Tesla for energy every time they need to charge away from home. More importantly, you’ll probably wind up purchasing a new EV that needed a reasonable amount of carbon emissions to create (not to mention water and other resources), and will need years of driving on cleaner energy to make up for it. What’s gained in virtue signaling is lost in carbon dioxide.</p>
+<p>This personal conundrum is reminiscent of the macroeconomic controversy over fossil fuel divestment, where universities, companies, and other institutions have been pressured to rid themselves of investment that support coal, oil, and gas. In theory, selling off such assets is supposed to harm the fossil fuel industry. But as the <em><em>Harvard Business Review</em></em> <a href="https://hbr.org/2022/11/how-fossil-fuel-divestment-falls-short" rel="noopener noreferrer" target="_blank"><u>writes</u></a>: “What looks good on paper often falls short in practice. There’s one major problem with divestment: Selling an asset requires someone to buy it. In other words, for you to divest, someone else needs to invest.” Institutions get to pat themselves on the back and tell constituents they greened their portfolio, but the fossil fuel business carries on unchanged.</p>
+<p>In fact, the <em><em>Review</em></em> directly compares divestment to the car problem. Companies, they say, should think about sunsetting their fossil fuel investments rather than selling immediately just to wash their hands of a dirty industry. It’s just like how driving an old car into the ground is better than selling it — since selling requires buying, and buying adds a new car to the roads.</p>
+<p>So it goes for aging Teslas. You might feel a wave of satisfaction by selling off your Model Y and derive great pleasure from not having to think about Musk when you get in your car. But if, like me, you bought an electric car for climate reasons, and it just so happened that a Tesla was the most practical one you could get, then the best thing to do once it’s paid off is to keep it as long as it will run. </p>
+<p>An owner can keep more of their money from lining Musk’s pocket by charging at home or at other companies’ DC fast-chargers instead of Superchargers, or by having the vehicle repaired and serviced by independent shops rather than by Tesla itself. But it is quite literally not worth it to sell your Tesla just to avoid having to explain to other people, or to yourself, why you drive one.</p> 
+
+<br> 
+
+<https://heatmap.news/electric-vehicles/musk-tesla-sell>
 
 ---
 
@@ -142,7 +1587,7 @@ Any such effort would take years to implement in the United States.
 
 ---
 
-## Trump Justice Department says it has fired employees involved in prosecutions of the president
+## Trump Justice Department says it has fired employees involved in prosecutions of president
 
 date: 2025-01-28, from: VOA News USA
 
@@ -1283,26 +2728,7 @@ Jen Rubin interviews Maryland Gov. Wes Moore on how to build bridges and what co
 date: 2025-01-27, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTgzMjI1MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5MzU5OTU2MH0.VYhfgNb3I55-nFC3Rh3DvwFP_rUPeLIRa72BQSqKgwA/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Now that President Donald Trump has been officially inaugurated and issued his barrage of executive orders <a href="https://heatmap.news/politics/national-energy-emergency" target="_self"><u>celebrating fossil fuels</u></a> and shelving climate technologies such as <a href="https://heatmap.news/politics/wind-executive-order-trump" target="_self"><u>wind energy</u></a> and <a href="https://heatmap.news/electric-vehicles/trump-ev-executive-order" target="_self"><u>electric vehicles</u></a>, climate tech startups are in a pickle. Federal funding can play a critical role in helping companies scale up and build out first-of-a-kind projects and facilities. So how to work with a government hostile to one of these startups’ core value propositions: aiding in the energy transition?</p>
-<p>Talk of clean tech and electrification may be out of vogue, but its utility is not. The potential of many of these companies goes beyond mitigating climate change and into the realm of energy security and resilience — something the Department of Defense is well aware of. </p>
-<p>The White House’s <a href="https://www.whitehouse.gov/climate" rel="noopener noreferrer" target="_blank"><u>climate webpage has gone dark</u></a>, but the Department of Defense’s <a href="https://www.climate.mil/index.html" rel="noopener noreferrer" target="_blank"><u>climate resilience portal</u></a> is up and running (at least for now). As the site reads, “The changing climate is <a href="https://heatmap.news/politics/trump-climate-national-security" target="_self"><u>one of many threat multipliers</u></a> to National Security, which adds complexity to Department of Defense decisions.” That’s a major reason why this agency can’t stop, won’t stop funding climate technologies. Another reason is that many technologies that happen to be good for the planet might also simply be the best tool for the job, meaning the DOD need not utter the word “climate” at all when justifying its decision to deploy new solutions. </p>
-<p>“The Defense Department, so far in our experience, has framed things largely in terms of alternative benefits that our technology can have, such as fuel supply chain redundancy and reliability,” Ted McKlveen, co-founder and CEO of the hydrogen storage company Verne, told me. Verne received a $250,000 Small Business Innovation Research <a href="https://www.verneh2.com/news-article/verne-receives-award-to-develop-cryo-compressed-hydrogen-solutions-for-the-u-s-army" rel="noopener noreferrer" target="_blank"><u>grant from the Army</u></a> last May to work on the development of hydrogen vehicles. </p>
-<p>Cindy Taff, CEO of the next-generation geothermal startup Sage Geosystems, told me something similar. “What the military likes to talk about is energy resilience,” she said, though she has heard the DOD tout the climate benefits of her company’s tech, too. Sage currently has multiple DOD engagements, including feasibility studies with both the <a href="https://www.sagegeosystems.com/sage-geosystems-to-advance-energy-resilience-with-geothermal-energy-solutions-at-fort-bliss/" rel="noopener noreferrer" target="_blank"><u>Army</u></a> and <a href="https://www.businesswire.com/news/home/20241003555153/en/Sage-Geosystems-Expands-Collaboration-with-the-DoD-to-Enhance-Energy-Resilience-through-Geothermal-Energy-at-Naval-Air-Station-Corpus-Christi" rel="noopener noreferrer" target="_blank"><u>Navy</u></a> and a $1.9 million grant to build a demonstration project for the <a href="https://www.afmc.af.mil/News/Article-Display/Article/3915653/air-force-awards-contract-to-test-clean-power-plant-technology/" rel="noopener noreferrer" target="_blank"><u>Air Force</u></a>.</p>
-<p>That’s not to say it’s clear what the Department of Defense’s funding priorities under Trump will be. When I contacted the DOD in mid-December to request an interview for this story, a spokesperson initially told me they would help connect me to the right person. But as Trump’s inauguration drew nearer, I got a message saying the agency would have to hold off until it got more guidance, as “it remains to be seen in the next few weeks what direction the new administration is going.<em><em>”</em></em></p>
-<p>Regardless of how the priorities shake out, practically every climate-focused company and venture capitalist I talk to emphasizes that their companies will only succeed if they can make or invest in products that can compete on economics and/or quality alone, sans government support. That was true even before a second Trump turn in the White House started to look like an inevitability, and this new administration will at least partially reveal which companies can do that. But while everybody <em><em>aims </em></em>to be independent of federal support, they might not actually <em><em>need</em></em> to say goodbye to that funding stream, so long as they can tout their economic and performance benefits to the right customers.</p>
-<p>Take Pyka, for example. When Michael Norcia co-founded the autonomous electric aircraft company in 2017, the ultimate goal was to design a passenger plane. “We want that to be our legacy, but we were also very, very realistic about the challenges associated with actually doing that,” he told me. So when the DOD took an interest in the company’s commercial cargo planes and their potential ability to deliver supplies in contested environments, the startup jumped at the opportunity, delivering its first aircraft to AFWERX, the innovation arm of the Department of the Air Force, early last year. Interest from such a lucrative government customer helped the company to close its <a href="https://techcrunch.com/2024/09/23/pyka-fields-interest-from-defense-as-40m-round-goes-to-scaling-up-its-electric-autonomous-planes/" rel="noopener noreferrer" target="_blank"><u>$40 million Series B</u></a> round in September.</p>
-<p>Of course, the decarbonization benefits of electrifying military cargo delivery would be huge. But unsurprisingly, Norcia told me that the DOD primarily frames the opportunity in terms of the capabilities of all-electric or hybrid-electric planes, which could take a variety of fuels, operate quietly, and give off minimal heat, making them more difficult to detect via thermal imaging. Plus, the more equipment is electrified the better, “in terms of having them be able to operate in a highly contested environment, where moving fuel around maybe is not feasible,” Norcia explained. Not to mention the fact that if a manned aircraft is shot down, people die, meaning that in a counterfactual sense, Pyka’s tech is saving lives. </p>
-<p>Verne’s North Star is also decarbonization. And given that the military is the world’s largest oil consumer, McKlveen was excited to partner with the Army to put its hydrogen storage tech to use in medium and heavy-duty vehicles. The company stores hydrogen (ideally green hydrogen, produced via renewables-powered electrolysis) at high density as a cold, compressed gas, making it possible to build hydrogen vehicles with greater range and lower cost than has traditionally been done. Similar to Pyka, the Army is enthused that these vehicles would be difficult for adversaries to detect, as they’re quiet and give off little heat. Likewise, McKlveen told me that hydrogen power could replace the Army’s notoriously noisy generators. </p>
-<p>While Verne has also partnered with the <a href="https://www.verneh2.com/news-article/verne-receives-award-through-doe-commercialization-support-program" rel="noopener noreferrer" target="_blank"><u>Department of Energy</u></a> and its R&D arm, <a href="https://arpa-e.energy.gov/programs-and-initiatives/search-all-projects/decoupling-high-density-hydrogen-liquid-hydrogen-infrastructure-catalyst-filled-heat-exchangers-modular-cryo-compressors" rel="noopener noreferrer" target="_blank"><u>ARPA-E</u></a>, McKlveen said that working with the DOD has been unique in a few ways. “The key difference is the DOD is a customer and a grant provider. So they can say both what their needs are as a potential customer and represent a potential customer,” he explained. This, along with the agency’s clear, phased approach that it puts companies through, helps bring a level of transparency to the whole process, from pilot to full-fledged military implementation, that McKlveen appreciates. </p>
-<p>And lest we forget, “they also have a very large budget,” he told me. For fiscal year 2025, the DOD has requested <a href="https://www.armed-services.senate.gov/imo/media/doc/fy24_ndaa_conference_executive_summary1.pdf" rel="noopener noreferrer" target="_blank"><u>$849.8 billion</u></a>, while the DOE, by comparison, has requested a mere <a href="https://www.energy.gov/sites/default/files/2024-03/doe-fy-2025-budget-in-brief-v2.pdf" rel="noopener noreferrer" target="_blank"><u>$51.4 billion</u></a>. </p>
-<p>“I find military people to be get-it-done type of people,” Taff of Sage Geosystems told me. “So I think that helps to create a sense of urgency and also push things along a lot faster than you would see with maybe other organizations.” Sage uses drilling technologies adopted from the oil and gas industry to access heat for clean electricity production across a wide variety of geographies. This is an especially attractive option for the DOD as the majority of geothermal infrastructure is underground, and thus well protected from attack. And unlike other renewables, this tech can provide 24/7 energy no matter the weather conditions. So it’s no surprise that the military is pouring money into this sector, pursuing partnerships with other big names in the geothermal space such as <a href="https://www.diu.mil/latest/three-additional-next-generation-geothermal-technology-companies-advancing" rel="noopener noreferrer" target="_blank"><u>Fervo Energy</u></a> and <a href="https://www.eavor.com/press-releases/u-s-defense-department-awards-eavor-contract-to-power-military-base-through-advanced-geothermal-system/" rel="noopener noreferrer" target="_blank"><u>Eavor.</u></a></p>
-<p>Electric planes, hydrogen, and geothermal all felt intuitively justifiable to me from a defense standpoint, but I was more surprised to learn that the DOD has gotten into the alternative proteins, a.k.a. “fake meat”, industry. Though meat substitutes won’t power tankers or keep the lights on, the Defense Department’s <a href="https://www.fooddive.com/news/better-meat-awarded-grant-department-of-defense/725392/" rel="noopener noreferrer" target="_blank"><u>$1.4 million grant</u></a> to The Better Meat Co. is intended to strengthen the American supply chain. China’s Ministry of Agriculture and Rural Affairs views <a href="https://time.com/6143109/china-future-of-cultivated-meat/" rel="noopener noreferrer" target="_blank"><u>lab-grown meat as critical</u></a> to its five-year agricultural plan. “So we don’t want to have the United States be importing clean protein in the way that we’re currently dependent on Asia for our semiconductors and photovoltaics,” Paul Shapiro, the company’s CEO, told me. </p>
-<p>The Better Meat Co. produces a protein called Rhiza that’s derived from microscopic fungi, which it then sells as an ingredient to other companies to make either 100% animal-free meat or a meat blend. “This isn’t an alternative protein program. It’s a <a href="https://www.defense.gov/News/Releases/Release/Article/3878835/dod-releases-seven-awards-for-distributed-bioindustrial-manufacturing-program/" rel="noopener noreferrer" target="_blank"><u>domestic biomanufacturing program</u></a>,” Shapiro told me when I asked if military funding for meat substitutes could be <a href="https://heatmap.news/lifestyle/lab-grown-meat-trump-rfk" target="_self"><u>at risk under Trump</u></a>. Looking at some of the other companies that got grants through the same program, he said, “it’s literally like bio manufacturing things for military planes and jet lubricants and chemical catalysts for bullets.” That is, probably not Republican targets for defunding. “It’s clearly solely about wanting the U.S. to be a leader in biomanufacturing for the products that the world is going to depend on in the future.”</p>
-<p>The DOD also sees promise in numerous other clean energy technologies, including <a href="https://heatmap.news/technology/nuclear-microreactors-radiant-westinghouse-bwx-technologies" target="_self"><u>nuclear microreactors</u></a> for their portability and ability to provide off-grid energy in remote locations and <a href="https://heatmap.news/technology/northvolt-lyten-zeta" target="_self"><u>alternate battery chemistries</u></a> that could help the U.S. move away from a dependence on Chinese-produced lithium-ion batteries.</p>
-<p>But despite the deep well of funding and pragmatic approach to deployment that the Department of Defense offers, agreeing to work with the DOD isn’t always an obvious choice. Many fear their company’s tech could be used in ways and in wars that they oppose. In 2018, for example, thousands of Google employees <a href="https://static01.nyt.com/files/2018/technology/googleletter.pdf" rel="noopener noreferrer" target="_blank"><u>signed a letter opposing the company’s participation in Project Maven</u></a>, a partnership with the Pentagon that uses artificial intelligence to improve the accuracy of drone strikes. Supporters of the project said it would lead to fewer civilian deaths, while protestors argued that Google “should not be in the business of war.” Google did not renew the contract. More recently, employees at <a href="http://www.notechforapartheid.com/" rel="noopener noreferrer" target="_blank"><u>Microsoft, Google, and Amazon</u></a> have signed petitions opposing their company’s provision of cloud computing and AI services to the Israeli government.</p>
-<p>Norcia noted that most, but not all of his employees were neutral to positive when it came to working with the Air Force, while “for a small minority of the company, it unfortunately was not something that they really wanted to devote their life to.” While he understands that perspective, Norcia does believe that Pyka’s work with the DOD is a net positive for the world. “If you assume wars are going to keep happening — which, unfortunately, I think is the reality — I’d rather have it be the case that they’re more of a robot war than a human war,” he told me. And at the end of the day, passenger planes are still the goal.</p>
-<p>As for his team at Verne, McKlveen told me everybody was on board. “The Defense Department has led to some of the biggest innovations of the last century, whether that’s the internet or GPS. And our team knows that.” Plus, even if the DOD doesn’t talk much about the climate benefits of sustainability-focused tech, that doesn’t negate them. <a href="https://watson.brown.edu/costsofwar/files/cow/imce/papers/Pentagon%20Fuel%20Use%2C%20Climate%20Change%20and%20the%20Costs%20of%20War%20Revised%20November%202019%20Crawford.pdf" rel="noopener noreferrer" target="_blank"><u>A 2019 study</u></a> revealed that the Pentagon purchases an average of 100 million barrels of oil per year, so from that perspective, “it’s hard to find a bigger customer that we can address,” McKlveen told me. </p>
-<p>Norcia agreed. “I think the gains of your impact get turned way up if you’re doing work with the DOD,” he said, “as opposed to, you know, building an app that makes something incrementally more efficient or more addictive.”</p> 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTgzMjI1MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5MzU5OTU2MH0.VYhfgNb3I55-nFC3Rh3DvwFP_rUPeLIRa72BQSqKgwA/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Now that President Donald Trump has been officially inaugurated and issued his barrage of executive orders <a href="https://heatmap.news/politics/national-energy-emergency" target="_self"><u>celebrating fossil fuels</u></a> and shelving climate technologies such as <a href="https://heatmap.news/politics/wind-executive-order-trump" target="_self"><u>wind energy</u></a> and <a href="https://heatmap.news/electric-vehicles/trump-ev-executive-order" target="_self"><u>electric vehicles</u></a>, climate tech startups are in a pickle. Federal funding can play a critical role in helping companies scale up and build out first-of-a-kind projects and facilities. So how to work with a government hostile to one of these startups’ core value propositions: aiding in the energy transition?</p><p>Talk of clean tech and electrification may be out of vogue, but its utility is not. The potential of many of these companies goes beyond mitigating climate change and into the realm of energy security and resilience — something the Department of Defense is well aware of. </p><p>The White House’s <a href="https://www.whitehouse.gov/climate" rel="noopener noreferrer" target="_blank"><u>climate webpage has gone dark</u></a>; the Department of Defense’s <a href="https://www.climate.mil/index.html" rel="noopener noreferrer" target="_blank"><u>climate resilience portal</u></a> lasted a little longer, but that’s now down, too. Once upon a time, though, the site read, “The changing climate is <a href="https://heatmap.news/politics/trump-climate-national-security" target="_self"><u>one of many threat multipliers</u></a> to National Security, which adds complexity to Department of Defense decisions.” That’s a major reason why this agency can’t stop, won’t stop funding climate technologies. Another reason is that many technologies that happen to be good for the planet might also simply be the best tool for the job, meaning the DOD need not utter the word “climate” at all when justifying its decision to deploy new solutions. </p><p>“The Defense Department, so far in our experience, has framed things largely in terms of alternative benefits that our technology can have, such as fuel supply chain redundancy and reliability,” Ted McKlveen, co-founder and CEO of the hydrogen storage company Verne, told me. Verne received a $250,000 Small Business Innovation Research <a href="https://www.verneh2.com/news-article/verne-receives-award-to-develop-cryo-compressed-hydrogen-solutions-for-the-u-s-army" rel="noopener noreferrer" target="_blank"><u>grant from the Army</u></a> last May to work on the development of hydrogen vehicles. </p><p>Cindy Taff, CEO of the next-generation geothermal startup Sage Geosystems, told me something similar. “What the military likes to talk about is energy resilience,” she said, though she has heard the DOD tout the climate benefits of her company’s tech, too. Sage currently has multiple DOD engagements, including feasibility studies with both the <a href="https://www.sagegeosystems.com/sage-geosystems-to-advance-energy-resilience-with-geothermal-energy-solutions-at-fort-bliss/" rel="noopener noreferrer" target="_blank"><u>Army</u></a> and <a href="https://www.businesswire.com/news/home/20241003555153/en/Sage-Geosystems-Expands-Collaboration-with-the-DoD-to-Enhance-Energy-Resilience-through-Geothermal-Energy-at-Naval-Air-Station-Corpus-Christi" rel="noopener noreferrer" target="_blank"><u>Navy</u></a> and a $1.9 million grant to build a demonstration project for the <a href="https://www.afmc.af.mil/News/Article-Display/Article/3915653/air-force-awards-contract-to-test-clean-power-plant-technology/" rel="noopener noreferrer" target="_blank"><u>Air Force</u></a>.</p><p>That’s not to say it’s clear what the Department of Defense’s funding priorities under Trump will be. When I contacted the DOD in mid-December to request an interview for this story, a spokesperson initially told me they would help connect me to the right person. But as Trump’s inauguration drew nearer, I got a message saying the agency would have to hold off until it got more guidance, as “it remains to be seen in the next few weeks what direction the new administration is going.<em><em>”</em></em></p><p>Regardless of how the priorities shake out, practically every climate-focused company and venture capitalist I talk to emphasizes that their companies will only succeed if they can make or invest in products that can compete on economics and/or quality alone, sans government support. That was true even before a second Trump turn in the White House started to look like an inevitability, and this new administration will at least partially reveal which companies can do that. But while everybody <em><em>aims </em></em>to be independent of federal support, they might not actually <em><em>need</em></em> to say goodbye to that funding stream, so long as they can tout their economic and performance benefits to the right customers.</p><p>Take Pyka, for example. When Michael Norcia co-founded the autonomous electric aircraft company in 2017, the ultimate goal was to design a passenger plane. “We want that to be our legacy, but we were also very, very realistic about the challenges associated with actually doing that,” he told me. So when the DOD took an interest in the company’s commercial cargo planes and their potential ability to deliver supplies in contested environments, the startup jumped at the opportunity, delivering its first aircraft to AFWERX, the innovation arm of the Department of the Air Force, early last year. Interest from such a lucrative government customer helped the company to close its <a href="https://techcrunch.com/2024/09/23/pyka-fields-interest-from-defense-as-40m-round-goes-to-scaling-up-its-electric-autonomous-planes/" rel="noopener noreferrer" target="_blank"><u>$40 million Series B</u></a> round in September.</p><p>Of course, the decarbonization benefits of electrifying military cargo delivery would be huge. But unsurprisingly, Norcia told me that the DOD primarily frames the opportunity in terms of the capabilities of all-electric or hybrid-electric planes, which could take a variety of fuels, operate quietly, and give off minimal heat, making them more difficult to detect via thermal imaging. Plus, the more equipment is electrified the better, “in terms of having them be able to operate in a highly contested environment, where moving fuel around maybe is not feasible,” Norcia explained. Not to mention the fact that if a manned aircraft is shot down, people die, meaning that in a counterfactual sense, Pyka’s tech is saving lives. </p><p>Verne’s North Star is also decarbonization. And given that the military is the world’s largest oil consumer, McKlveen was excited to partner with the Army to put its hydrogen storage tech to use in medium and heavy-duty vehicles. The company stores hydrogen (ideally green hydrogen, produced via renewables-powered electrolysis) at high density as a cold, compressed gas, making it possible to build hydrogen vehicles with greater range and lower cost than has traditionally been done. Similar to Pyka, the Army is enthused that these vehicles would be difficult for adversaries to detect, as they’re quiet and give off little heat. Likewise, McKlveen told me that hydrogen power could replace the Army’s notoriously noisy generators. </p><p>While Verne has also partnered with the <a href="https://www.verneh2.com/news-article/verne-receives-award-through-doe-commercialization-support-program" rel="noopener noreferrer" target="_blank"><u>Department of Energy</u></a> and its R&D arm, <a href="https://arpa-e.energy.gov/programs-and-initiatives/search-all-projects/decoupling-high-density-hydrogen-liquid-hydrogen-infrastructure-catalyst-filled-heat-exchangers-modular-cryo-compressors" rel="noopener noreferrer" target="_blank"><u>ARPA-E</u></a>, McKlveen said that working with the DOD has been unique in a few ways. “The key difference is the DOD is a customer and a grant provider. So they can say both what their needs are as a potential customer and represent a potential customer,” he explained. This, along with the agency’s clear, phased approach that it puts companies through, helps bring a level of transparency to the whole process, from pilot to full-fledged military implementation, that McKlveen appreciates. </p><p>And lest we forget, “they also have a very large budget,” he told me. For fiscal year 2025, the DOD has requested <a href="https://www.armed-services.senate.gov/imo/media/doc/fy24_ndaa_conference_executive_summary1.pdf" rel="noopener noreferrer" target="_blank"><u>$849.8 billion</u></a>, while the DOE, by comparison, has requested a mere <a href="https://www.energy.gov/sites/default/files/2024-03/doe-fy-2025-budget-in-brief-v2.pdf" rel="noopener noreferrer" target="_blank"><u>$51.4 billion</u></a>. </p><p>“I find military people to be get-it-done type of people,” Taff of Sage Geosystems told me. “So I think that helps to create a sense of urgency and also push things along a lot faster than you would see with maybe other organizations.” Sage uses drilling technologies adopted from the oil and gas industry to access heat for clean electricity production across a wide variety of geographies. This is an especially attractive option for the DOD as the majority of geothermal infrastructure is underground, and thus well protected from attack. And unlike other renewables, this tech can provide 24/7 energy no matter the weather conditions. So it’s no surprise that the military is pouring money into this sector, pursuing partnerships with other big names in the geothermal space such as <a href="https://www.diu.mil/latest/three-additional-next-generation-geothermal-technology-companies-advancing" rel="noopener noreferrer" target="_blank"><u>Fervo Energy</u></a> and <a href="https://www.eavor.com/press-releases/u-s-defense-department-awards-eavor-contract-to-power-military-base-through-advanced-geothermal-system/" rel="noopener noreferrer" target="_blank"><u>Eavor.</u></a></p><p>Electric planes, hydrogen, and geothermal all felt intuitively justifiable to me from a defense standpoint, but I was more surprised to learn that the DOD has gotten into the alternative proteins, a.k.a. “fake meat”, industry. Though meat substitutes won’t power tankers or keep the lights on, the Defense Department’s <a href="https://www.fooddive.com/news/better-meat-awarded-grant-department-of-defense/725392/" rel="noopener noreferrer" target="_blank"><u>$1.4 million grant</u></a> to The Better Meat Co. is intended to strengthen the American supply chain. China’s Ministry of Agriculture and Rural Affairs views <a href="https://time.com/6143109/china-future-of-cultivated-meat/" rel="noopener noreferrer" target="_blank"><u>lab-grown meat as critical</u></a> to its five-year agricultural plan. “So we don’t want to have the United States be importing clean protein in the way that we’re currently dependent on Asia for our semiconductors and photovoltaics,” Paul Shapiro, the company’s CEO, told me. </p><p>The Better Meat Co. produces a protein called Rhiza that’s derived from microscopic fungi, which it then sells as an ingredient to other companies to make either 100% animal-free meat or a meat blend. “This isn’t an alternative protein program. It’s a <a href="https://www.defense.gov/News/Releases/Release/Article/3878835/dod-releases-seven-awards-for-distributed-bioindustrial-manufacturing-program/" rel="noopener noreferrer" target="_blank"><u>domestic biomanufacturing program</u></a>,” Shapiro told me when I asked if military funding for meat substitutes could be <a href="https://heatmap.news/lifestyle/lab-grown-meat-trump-rfk" target="_self"><u>at risk under Trump</u></a>. Looking at some of the other companies that got grants through the same program, he said, “it’s literally like bio manufacturing things for military planes and jet lubricants and chemical catalysts for bullets.” That is, probably not Republican targets for defunding. “It’s clearly solely about wanting the U.S. to be a leader in biomanufacturing for the products that the world is going to depend on in the future.”</p><p>The DOD also sees promise in numerous other clean energy technologies, including <a href="https://heatmap.news/technology/nuclear-microreactors-radiant-westinghouse-bwx-technologies" target="_self"><u>nuclear microreactors</u></a> for their portability and ability to provide off-grid energy in remote locations and <a href="https://heatmap.news/technology/northvolt-lyten-zeta" target="_self"><u>alternate battery chemistries</u></a> that could help the U.S. move away from a dependence on Chinese-produced lithium-ion batteries.</p><p>But despite the deep well of funding and pragmatic approach to deployment that the Department of Defense offers, agreeing to work with the DOD isn’t always an obvious choice. Many fear their company’s tech could be used in ways and in wars that they oppose. In 2018, for example, thousands of Google employees <a href="https://static01.nyt.com/files/2018/technology/googleletter.pdf" rel="noopener noreferrer" target="_blank"><u>signed a letter opposing the company’s participation in Project Maven</u></a>, a partnership with the Pentagon that uses artificial intelligence to improve the accuracy of drone strikes. Supporters of the project said it would lead to fewer civilian deaths, while protestors argued that Google “should not be in the business of war.” Google did not renew the contract. More recently, employees at <a href="http://www.notechforapartheid.com/" rel="noopener noreferrer" target="_blank"><u>Microsoft, Google, and Amazon</u></a> have signed petitions opposing their company’s provision of cloud computing and AI services to the Israeli government.</p><p>Norcia noted that most, but not all of his employees were neutral to positive when it came to working with the Air Force, while “for a small minority of the company, it unfortunately was not something that they really wanted to devote their life to.” While he understands that perspective, Norcia does believe that Pyka’s work with the DOD is a net positive for the world. “If you assume wars are going to keep happening — which, unfortunately, I think is the reality — I’d rather have it be the case that they’re more of a robot war than a human war,” he told me. And at the end of the day, passenger planes are still the goal.</p><p>As for his team at Verne, McKlveen told me everybody was on board. “The Defense Department has led to some of the biggest innovations of the last century, whether that’s the internet or GPS. And our team knows that.” Plus, even if the DOD doesn’t talk much about the climate benefits of sustainability-focused tech, that doesn’t negate them. <a href="https://watson.brown.edu/costsofwar/files/cow/imce/papers/Pentagon%20Fuel%20Use%2C%20Climate%20Change%20and%20the%20Costs%20of%20War%20Revised%20November%202019%20Crawford.pdf" rel="noopener noreferrer" target="_blank"><u>A 2019 study</u></a> revealed that the Pentagon purchases an average of 100 million barrels of oil per year, so from that perspective, “it’s hard to find a bigger customer that we can address,” McKlveen told me. </p><p>Norcia agreed. “I think the gains of your impact get turned way up if you’re doing work with the DOD,” he said, “as opposed to, you know, building an app that makes something incrementally more efficient or more addictive.”</p><p><em>Editor’s note: This story has been updated to reflect that DOD’s climate resilience portal has been taken down.</em><br/></p> 
 
 <br> 
 

@@ -1,11 +1,407 @@
 ---
 title: pacific
-updated: 2025-01-28 07:05:11
+updated: 2025-01-29 07:04:54
 ---
 
 # pacific
 
-(date: 2025-01-28 07:05:11)
+(date: 2025-01-29 07:04:54)
+
+---
+
+## News In Brief for January 29
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>Fire destroys Air Busan plane &#0010;at South Korean airport</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/nation-world-news/news-in-brief-for-january-29/>
+
+---
+
+## Hawaii Governor, a doctor, blames Kennedy for measles deaths in Samoa
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8212; It was a spasm of tragedy on a remote Pacific island that only a few months later was overshadowed by a pandemic. But to Gov. Josh Green of Hawaii, the measles outbreak on neighboring Samoa that killed 83 people, mostly babies and children, was a preventable catastrophe wrought by the man President Donald Trump now wants to steer U.S. health policy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/nation-world-news/hawaii-governor-a-doctor-blames-kennedy-for-measles-deaths-in-samoa/>
+
+---
+
+## Atomic scientists adjust ‘Doomsday Clock’ closer than ever to midnight
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Atomic scientists on Tuesday moved their &#8220;Doomsday Clock&#8221; closer to midnight than ever before, citing Russian nuclear threats amid its invasion of Ukraine, tensions in other world hot spots, military applications of artificial intelligence and climate change as factors underlying the risks of global catastrophe.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/nation-world-news/atomic-scientists-adjust-doomsday-clock-closer-than-ever-to-midnight/>
+
+---
+
+## Trump argues that his immunity extends to E. Jean Carroll’s lawsuits
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; President Donald Trump and writer E. Jean Carroll are arguing over whether a Supreme Court decision affording him substantial criminal immunity also shields him from having to pay tens of millions in damages for insulting her and saying she lied about his sexually assaulting her.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/nation-world-news/trump-argues-that-his-immunity-extends-to-e-jean-carrolls-lawsuits/>
+
+---
+
+## Black-owned brands urge US consumers not to boycott Target over end of diversity efforts
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Please don&#8217;t boycott Target: That&#8217;s the message from Black founders and influencers to consumers about a backlash against the retailer&#8217;s decision to end its diversity, equity and inclusion efforts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/nation-world-news/black-owned-brands-urge-us-consumers-not-to-boycott-target-over-end-of-diversity-efforts/>
+
+---
+
+## Man pardoned in Jan. 6 riot is fatally shot by sheriff’s deputy during traffic stop
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>A man who received a pardon from President Donald Trump for his involvement in the Jan. 6, 2021, riot at the U.S. Capitol was fatally shot by a sheriff&#8217;s deputy Sunday after he resisted arrest during a traffic stop, the Indiana State Police said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/nation-world-news/man-pardoned-in-jan-6-riot-is-fatally-shot-by-sheriffs-deputy-during-traffic-stop/>
+
+---
+
+## US urges UN action to stop Rwanda, M23 rebels in eastern Congo
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>UNITED NATIONS &#8212; The United States urged the United Nations Security Council on Tuesday to consider measures to halt an offensive by Rwandan troops and M23 rebel forces in eastern Democratic Republic of Congo as a conflict there escalates.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/nation-world-news/us-urges-un-action-to-stop-rwanda-m23-rebels-in-eastern-congo/>
+
+---
+
+## Registration opens for lifeguard certification course
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Department of Parks and Recreation has announced that registration is now open for an American Red Cross Lifeguarding Certification Course held during spring break at the Pahoa Community Aquatic Center.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/community/registration-opens-for-lifeguard-certification-course/>
+
+---
+
+## Free FAFSA workshops offered for students
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>Chaminade University will offer free workshops on Hawaii Island to assist students and their families with completing the Free Application for Federal Student Aid, or FAFSA.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/community/free-fafsa-workshops-offered-for-students/>
+
+---
+
+## Learn to keep your brain healthy with AARP Hawaii
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>Learn to keep your mind active and healthy as you age &#8212; during a series of free online and in-person workshops offered by AARP Hawaii. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/community/learn-to-keep-your-brain-healthy-with-aarp-hawaii/>
+
+---
+
+## Ka‘u officers recognized by HPD
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Police Department announced that two Ka&#8216;u officers were recognized last month as 2024 &#8220;Ka&#8216;u Officer of the Year&#8221; and &#8220;Ka&#8216;u Top Enforcer.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/community/kau-officers-recognized-by-hpd/>
+
+---
+
+## Cherry blossom festival is Saturday
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>The free 32nd Waimea Cherry Blossom Heritage Festival is Saturday, with a full lineup of hands-on Japanese and multicultural activities and performances.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/community/cherry-blossom-festival-is-saturday/>
+
+---
+
+## Trump’s spending freeze sows confusion and fear
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s order to freeze trillions of dollars in federal grants and loans led to confusion and outrage Tuesday as it interrupted the Medicaid system that provides health care to millions of low-income Americans and other programs that depend on the flow of federal money.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/nation-world-news/trumps-spending-freeze-sows-confusion-and-fear/>
+
+---
+
+## 12 arrested, charged in Puna warrants sweep
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>Puna police officers arrested and charged 12 individuals wanted for a total of 17 outstanding warrants during a warrants sweep conducted Jan. 21 in Puna.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/hawaii-news/12-arrested-charged-in-puna-warrants-sweep/>
+
+---
+
+## State lawmakers target invasive species
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii lawmakers are proposing to shift the state&#8217;s invasive species response to the state Department of Agriculture.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/hawaii-news/state-lawmakers-target-invasive-species/>
+
+---
+
+## Julia Neal, publisher of The Ka‘u Calendar newspaper, dies at 75
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>Julia Neal, owner of the Pahala Plantation House and Cottages and editor-publisher of The Ka&#8216;u Calendar newspaper, died Friday at her Pahala cottage. She was 75.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/hawaii-news/julia-neal-publisher-of-the-kau-calendar-newspaper-dies-at-75/>
+
+---
+
+## Forecast warns of potentially nasty weather through Friday
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>The National Weather Service is advising the state to prepare for inclement and potentially harmful weather starting tonight.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/hawaii-news/forecast-warns-of-potentially-nasty-weather-through-friday/>
+
+---
+
+## HIKI NŌ on PBS Hawai‘i Winter 2025 Compilation
+
+date: 2025-01-29, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>On this special episode of HIKI NŌ on PBS Hawaiʻi, find out which schools produced the winning entries...</p>
+<p>The post <a href="https://www.pbshawaii.org/hiki-no-on-pbs-hawaii-winter-2025-compilation/">HIKI NŌ on PBS Hawai‘i Winter 2025 Compilation</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/hiki-no-on-pbs-hawaii-winter-2025-compilation/>
+
+---
+
+## Hawaiʻi Kuʻu Home Aloha celebrates culture, connection at UH Mānoa
+
+date: 2025-01-29, from: University of Hawaiʻi News
+
+<p>The summit marked the overthrow of the Kingdom of <span aria-label="Hawaii">Hawai&#699;i</span>, and honored National Day of Racial Healing and Martin Luther King Jr.’s legacy.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/28/hawaii-kuu-home-aloha-2025/">Hawaiʻi Kuʻu Home Aloha celebrates culture, connection at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/28/hawaii-kuu-home-aloha-2025/>
+
+---
+
+## UH seeks proposals to expand statewide broadband access
+
+date: 2025-01-29, from: University of Hawaiʻi News
+
+<p>&#8220;High-speed internet is critical for creating opportunity and advancing equity in digital access,&#8221; &#8212; Lt. Gov. Sylvia Luke</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/28/rpfs-to-expand-state-broadband/"><abbr>UH</abbr> seeks proposals to expand statewide broadband access</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/28/rpfs-to-expand-state-broadband/>
+
+---
+
+## Hawaiian Word of the Week: Penikala
+
+date: 2025-01-29, from: University of Hawaiʻi News
+
+<p>Penikala&#8212;Pencil.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/28/hawaiian-word-of-the-week-penikala/">Hawaiian Word of the Week: Penikala</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/28/hawaiian-word-of-the-week-penikala/>
+
+---
+
+## Afro-ballet showcases Mānoa grad students’ commitment to Black culture
+
+date: 2025-01-29, from: University of Hawaiʻi News
+
+<p>Beige: An Afro Ballet is an interdisciplinary collaboration by graduate students Jonathan Clarke Sypert and Marcus Moore.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/28/afro-ballet-black-culture/">Afro-ballet showcases Mānoa grad students’ commitment to Black culture</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/28/afro-ballet-black-culture/>
+
+---
+
+## Cooking up careers: Kauaʻi CC students gain real-world experience at hotel
+
+date: 2025-01-29, from: University of Hawaiʻi News
+
+<p>Kauaʻi <abbr>CC</abbr> culinary students work side-by-side with top chefs.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/28/cooking-up-careers-kauai/">Cooking up careers: Kauaʻi <abbr>CC</abbr> students gain real-world experience at hotel</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/28/cooking-up-careers-kauai/>
+
+---
+
+## Pulitzer finalist shares climate reporting insights at UH Mānoa
+
+date: 2025-01-28, from: University of Hawaiʻi News
+
+<p>Xia concluded her visit with a public lecture.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/28/rosanna-xia-uh-visit/">Pulitzer finalist shares climate reporting insights at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/28/rosanna-xia-uh-visit/>
+
+---
+
+## Death toll in Honolulu fireworks blast rises to 5
+
+date: 2025-01-28, from: Hawaii Tribune Harold
+
+
+				<p>A 29-year-old man injured Jan. 1 when a cache of illegal aerial fireworks detonated in Honolulu died at a hospital in Arizona this morning.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/28/hawaii-news/man-29-dies-from-jan-1-aliamanu-fireworks-blast/>
+
+---
+
+## UHERO, Honolulu County launch Subsidized Housing Explorer
+
+date: 2025-01-28, from: University of Hawaiʻi News
+
+<p>The explorer identifies properties across <span aria-label="Oahu">O&#699;ahu</span> that participate in federal, state and local housing programs.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/28/uhero-subsidized-housing-explorer/"><abbr>UHERO</abbr>, Honolulu County launch Subsidized Housing Explorer</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/28/uhero-subsidized-housing-explorer/>
+
+---
+
+## Key gene’s role in male fertility focus of $2.4M study
+
+date: 2025-01-28, from: University of Hawaiʻi News
+
+<p>The study aims to reveal how the Zfy gene influences sperm production and male fertility.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/28/male-fertility-zfy-gene-study/">Key gene’s role in male fertility focus of $2.4M study</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/28/male-fertility-zfy-gene-study/>
+
+---
+
+## Program aims to bring Hawaiʻi engineers back home
+
+date: 2025-01-28, from: University of Hawaiʻi News
+
+<p>The program offers an exclusive LinkedIn group, networking events, informational resources and a 1:1 mentorship program.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/28/kamaaina-come-home-program/">Program aims to bring Hawaiʻi engineers back home</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/28/kamaaina-come-home-program/>
+
+---
+
+## Hawaiʻi’s two most active volcanoes share a magma source
+
+date: 2025-01-28, from: University of Hawaiʻi News
+
+<p>Melt from a shared mantle source within the Hawaiian plume may be transported alternately to K&#299;lauea or Maunaloa.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/28/shared-magma-source/">Hawaiʻi’s two most active volcanoes share a magma source</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/28/shared-magma-source/>
 
 ---
 
@@ -230,6 +626,20 @@ date: 2025-01-28, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/01/28/hawaii-news/puainako-street-resurfacing-could-be-finished-next-month/>
+
+---
+
+## UPDATE: Kilauea eruption pauses once again
+
+date: 2025-01-28, from: Hawaii Tribune Harold
+
+
+				<p><strong>UPDATED 1:15 p.m.</strong></p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/28/hawaii-news/kilauea-volcano-erupts-for-the-seventh-time-since-dec-23/>
 
 ---
 
@@ -506,7 +916,7 @@ The post <a href="https://www.hawaii.edu/news/2025/01/27/celebrating-cte-month-2
 
 ---
 
-## CLTC purge? Guam governor fires land trust commissioner
+## CLTC purge? Guam governor fires two land trust commissioners
 
 date: 2025-01-27, from: Pacific Island Times
 

@@ -1,11 +1,167 @@
 ---
 title: socal north
-updated: 2025-01-28 07:05:11
+updated: 2025-01-29 07:04:54
 ---
 
 # socal north
 
-(date: 2025-01-28 07:05:11)
+(date: 2025-01-29 07:04:54)
+
+---
+
+## When farm animals were evacuated from the fires, these college students were ready to help
+
+date: 2025-01-29, updated: 2025-01-29, from: The LAist
+
+Pierce College students made use of the skills they honed in class to help hundreds of large, stressed-out animals. 
+
+<br> 
+
+<https://laist.com/news/education/pierce-college-large-animal-rescue-fire>
+
+---
+
+## Is the OC snitch scandal over? Why there’s no easy answer
+
+date: 2025-01-29, updated: 2025-01-29, from: The LAist
+
+The federal government recently settled with Orange County over reforms. But a pending ruling could call into question their effectiveness. A decision is expected soon. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/is-the-oc-snitch-scandal-over-why-theres-no-easy-answer>
+
+---
+
+## My godfather was a Black aerospace engineer who worked on the Apollo moon mission. I knew his story had to be told
+
+date: 2025-01-29, updated: 2025-01-29, from: The LAist
+
+The new LAist Studios podcast, LA Made: The Other Moonshot, explores the experiences of three Black aerospace engineers in L.A. who overcame daily discrimination to make key contributions to the space race. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/my-godfather-was-a-black-aerospace-engineer-who-worked-on-the-apollo-moon-mission>
+
+---
+
+## Full nest: Bald eagles Jackie and Shadow lay third egg
+
+date: 2025-01-29, updated: 2025-01-29, from: The LAist
+
+Big Bear’s internet-famous bald eagle couple are getting another shot at parenthood. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/bald-eagles-jackie-and-shadow-lay-third-egg>
+
+---
+
+## Cal State layoffs reach SoCal campuses as budget tightens
+
+date: 2025-01-29, updated: 2025-01-29, from: The LAist
+
+CSU Dominguez Hills announced nearly three dozen people will be laid off this semester. 
+
+<br> 
+
+<https://laist.com/news/education/california-state-university-layoffs-are-reaching-southern-california>
+
+---
+
+## LA County seeks to suspend some state building laws in fire-ravaged areas, but housing advocates object
+
+date: 2025-01-29, updated: 2025-01-29, from: The LAist
+
+The Board of Supervisors unanimously voted Tuesday to ask the state for a reprieve from laws that set density and energy requirements in burn zones. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-county-state-housing-laws-fire-areas-housing-advocates>
+
+---
+
+## This would be ‘devastating’: California sues to stop Trump’s chaos-inducing federal funding freeze
+
+date: 2025-01-28, updated: 2025-01-29, from: The LAist
+
+Following a Monday executive order from President Donald Trump that seeks to freeze all federal aid, California officials attempt to make sense of the chaos. 
+
+<br> 
+
+<https://laist.com/news/politics/this-would-be-devastating-california-sues-to-stop-trumps-chaos-inducing-federal-funding-freeze>
+
+---
+
+## The LA County fires devastated homes in the wildland-urban interface. Here’s what that is
+
+date: 2025-01-28, updated: 2025-01-28, from: The LAist
+
+Nearly 1-in-3 Californians live in the wildland-urban interface. And when fires sweep through it, they often leave destruction. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/what-is-the-wildland-urban-interface>
+
+---
+
+## This economist survived a wildfire. Now she's taking on California's insurance crisis
+
+date: 2025-01-28, updated: 2025-01-28, from: The LAist
+
+An economist's harrowing escape from fire and her big ideas to rescue California from its insurance doom spiral. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/economist-survived-wildfire-insurance-crisis>
+
+---
+
+## Fire debris prompts LA County beach closures until further notice
+
+date: 2025-01-28, updated: 2025-01-28, from: The LAist
+
+The closures affect approximately 9 miles of the L.A. County coastline. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-beach-closure-wildfire-runoff-las-flores-santa-monica>
+
+---
+
+## Trump wants to break California’s sanctuary state law: 5 things to know
+
+date: 2025-01-28, updated: 2025-01-28, from: The LAist
+
+One of President Donald Trump's first executive orders threatened to withhold federal funding from so-called sanctuary states and cities. California is one of them. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-wants-to-break-californias-sanctuary-state-law>
+
+---
+
+## Where are the lithium batteries, paint and other hazardous materials from the Eaton and Palisades fires going?
+
+date: 2025-01-28, updated: 2025-01-28, from: The LAist
+
+The EPA has created two sites in L.A. County to start receiving hazardous household materials for processing. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/hazardous-materials-from-eaton-and-palisades-fires-destination>
+
+---
+
+## California senator reappointed as insurance chair despite questions over corruption probe
+
+date: 2025-01-28, updated: 2025-01-28, from: The LAist
+
+California Senate leader Mike McGuire reappointed Sen. Susan Rubio as insurance committee chair despite federal bribery probe questions. Rubio denies wrongdoing. 
+
+<br> 
+
+<https://laist.com/news/politics/california-senator-reappointed-as-insurance-chair-despite-questions-over-corruption-probe>
 
 ---
 

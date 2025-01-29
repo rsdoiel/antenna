@@ -1,11 +1,61 @@
 ---
 title: retro computing
-updated: 2025-01-28 07:05:13
+updated: 2025-01-29 07:04:57
 ---
 
 # retro computing
 
-(date: 2025-01-28 07:05:13)
+(date: 2025-01-29 07:04:57)
+
+---
+
+## Palantir Word Processing
+
+date: 2025-01-29, from: Computer ads from the Past
+
+We Don't Have to Beef Up Our Guarantee With A Lot Of Bull 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/palantir-word-processing>
+
+---
+
+## Gnome 48 Alpha Ready for Testing
+
+date: 2025-01-29, from: Linux Magazine
+
+<p>The latest Gnome desktop alpha is now available with plenty of new features and improvements.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Gnome-48-Alpha-Ready-for-Testing>
+
+---
+
+## New Beatstreet game
+
+date: 2025-01-28, from: Icon Bar, RISC OS News
+
+Regular readers will already be familiar with Jeroen Vermeulen and his efforts to port retro games to RISC OS. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2164.html>
+
+---
+
+## Chatbots Decoded
+
+date: 2025-01-28, from: Computer History: Stores
+
+<p>Explore an online version of our Chatbots Decoded: Exploring AI exhibit now showing at CHM. Check out chatbot artifacts and learn about the long history of chatbots. Discover what they are, how they work, and why they matter. Get insights from experts and gain an understanding of the artificial intelligence and the large language models that help chatbots mimic human interaction.</p>
+<p>The post <a href="https://computerhistory.org/stories/chatbots-decoded/">Chatbots Decoded</a> appeared first on <a href="https://computerhistory.org">CHM</a>.</p>
+ 
+
+<br> 
+
+<https://computerhistory.org/stories/chatbots-decoded/>
 
 ---
 
