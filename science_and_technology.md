@@ -1,11 +1,631 @@
 ---
 title: science and technology
-updated: 2025-01-29 07:04:55
+updated: 2025-01-30 07:04:47
 ---
 
 # science and technology
 
-(date: 2025-01-29 07:04:55)
+(date: 2025-01-30 07:04:47)
+
+---
+
+## IBM seeks $3.5B in cost savings for 2025, discretionary spend to be clipped
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Workforce rebalancing? Yes, but on the plus side, the next 12 months are all about AI, AI, and more AI</h4> <p>IBM is again forecasting cost savings in the coming calendar year, which likely means one thing for its legions of workers – pedal fast and keep your heads down because headcount reductions may be on the way once more.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/ibm_q4_2024/>
+
+---
+
+## Ransomware attack at New York blood services provider – donors turned away during shortage crisis
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>400 hospitals and med centers across 15 states rely on its products</h4> <p>New York Blood Center Enterprises (NYBCe) is currently in its fifth day of handling a ransomware attack that has led to system disruption.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/ransomware_attack_at_new_york/>
+
+---
+
+## Microsoft talks up 'significant capital investments' in AI as sector reacts to DeepSeek
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Windows vendor posts more bumper financials, but markets shrug</h4> <p>Microsoft&#39;s latest earnings results exceeded expectations, yet comments from CEO Satya Nadella and CFO Amy Hood signaled turbulence in AI and execution, alongside signs of waning cloud demand.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_q2_2025/>
+
+---
+
+## Officials Are Offering $1 Million to Anyone Who Can Decode This Ancient Script
+
+date: 2025-01-30, from: Smithsonian Magazine
+
+The enigmatic Indus Valley civilization left behind a script that today's historians haven't yet deciphered. While amateur theories abound, scholars are increasingly relying on computer science to crack the code 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/officials-are-offering-1-million-to-anyone-who-can-decode-this-ancient-script-180985922/>
+
+---
+
+## Vodafone aims to offer satellite-to-phone connectivity starting later this year
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Space 5G should reach regular smartphones in rural area notspots</h4> <p>Vodafone claims it has made the first mobile video call using a satellite connection and standard 4G/5G smartphones, and said it aims to offer a commercial direct-to-cell satellite service in Europe starting later this year.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/vodafone_aims_to_offer_satellitetophone/>
+
+---
+
+## Canvassing apps used by UK political parties riddled with privacy, security issues
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Neither Labour, Conservatives, nor the Lib Dems offered a retort to rights org&#39;s report</h4> <p>The Open Rights Group (ORG) has raised concerns about a number of security issues it found in all three of the canvassing apps developed on behalf of the UK&#39;s three major political parties.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/uk_canvassing_app_issues/>
+
+---
+
+## A good kind of disorder: Boffins boost capacitor tech by disturbing dipoles
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Breakthrough could – eventually – impact smartphone and mobile computing</h4> <p>A new approach to materials engineering promises to overcome the limitation of capacitors commonly used in smartphones, displays and electric vehicles, according to a study published in Nature.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/engineered_materials_to_boost_capacitor/>
+
+---
+
+## WFH with privacy? 85% of Brit bosses snoop on staff
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Employers remain blissfully unaware/wilfully ignorant of the impact of surveillance on staff</h4> <p>More than three-quarters of UK employers admit to using some form of surveillance tech to spy on their remote workers&#39; productivity.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/forget_the_idea_of_wfh/>
+
+---
+
+## When a House Painter Failed to Assassinate President Andrew Jackson, It Was the First Such Attempt in U.S. Presidential History
+
+date: 2025-01-30, from: Smithsonian Magazine
+
+Duel pistols were no match for the White House incumbent, who fended off the assailant with his cane on this date in 1835 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/when-a-house-painter-failed-to-assassinate-president-andrew-jackson-it-was-the-first-such-attempt-in-us-presidential-history-180985906/>
+
+---
+
+## Startup plugs AI datacenters into biogas-powered energy
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Sidestepping the grid led to 44% cheaper electricity and 70% fewer emissions, CEO says</h4> <p>A UK datacenter startup realized it could have to wait until the late 2030s for power grid connection dates, and has instead turned to modular facilities located at the site of renewable energy sources.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/startup_datacenter_biogas/>
+
+---
+
+## Amazon sued for allegedly slurping sensitive data via advertising SDK
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Harvesting of location data and other personal info without user consent, lawsuit claims</h4> <p>Amazon and its advertising subsidiary have been sued for allegedly collecting personal and location data from third-party mobile apps without obtaining users&#39; informed consent.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/amazon_sued_for_snarfing_sensitive/>
+
+---
+
+## And now something fun for a change: Building blocks of life in Bennu asteroid samples
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>It&#39;s a 65-million-year-old space rock stuffed with amino acids, DNA bases, and more, boffins report</h4> <p>Scientists analyzing samples from asteroid Bennu have found something remarkable: Despite being a cold, lifeless rubble pile that formed around 65 million years ago, it holds a rich inventory of organic molecules - key ingredients for life.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/asteroid_bennu_life/>
+
+---
+
+## DeepSeek's not the only Chinese LLM maker OpenAI and pals have to worry about. Right, Alibaba?
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Qwen 2.5 Max tops both DS V3 and GPT-4o, cloud giant claims</h4> <p><strong>Analysis</strong>  The speed and efficiency at which DeepSeek claims to be training large language models (LLMs) competitive with America&#39;s best has been a reality check for Silicon Valley. However, the startup isn&#39;t the only Chinese model builder the US has to worry about.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/alibaba_qwen_ai/>
+
+---
+
+## Wacom says crooks probably swiped customer credit cards from its online checkout
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Digital canvas slinger indicates dot-com was skimmed for over a month</h4> <p>Graphics tablet maker Wacom has warned customers their credit card details may well have been stolen by miscreants while they were buying stuff from its website.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/wacom_data_loss/>
+
+---
+
+## Guess who left a database wide open, exposing chat logs, API keys, and more? Yup, DeepSeek
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Oh someone&#39;s in DeepShi...</h4> <p>China-based AI biz DeepSeek may have developed competitive, cost-efficient generative models, but its cybersecurity chops are another story.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/deepseek_database_left_open/>
+
+---
+
+## North Koreans clone open source projects to plant backdoors, steal credentials
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>Stealing crypto is so 2024. Supply-chain attacks leading to data exfil pays off better?</h4> <p>North Korea&#39;s Lazarus Group compromised hundreds of victims across the globe in a massive secret-stealing supply chain attack that was ongoing as of earlier this month, according to security researchers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/lazarus_groups_supply_chain_attack/>
+
+---
+
+## FP: SABER
+
+date: 2025-01-29, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">FP: SABER</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>This solicitation seeks performers who can assist in the program <strong>SABER: Securing Artificial Intelligence for Battlefield Effective Robustness</strong>. | <a href="https://drupal.darpa.mil/research/programs/saber-securing-artificial-intelligence">See Program&nbsp;</a></p></div>
+      
+
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-29T17:56:48-05:00" title="Wednesday, January 29, 2025 - 17:56" class="datetime">Wed, 01/29/2025 - 17:56</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/opportunities/darpa-sn-25-39>
+
+---
+
+## Helion bags $425M in fresh funding despite fusion power still being a distant dream
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>Microsoft-backed startup now valued at $5.4B</h4> <p>Fusion energy startup Helion has yet to prove it can generate electricity, but that hasn&#39;t stopped investors from dumping another $425 million into the venture.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/helion_funding/>
+
+---
+
+## SABER: Securing Artificial Intelligence for Battlefield Effective Robustness
+
+date: 2025-01-29, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">SABER: Securing Artificial Intelligence for Battlefield Effective Robustness</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Summary</h4></div>
+      
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Given the latest advances in artificial intelligence (AI), the technology has reached a level of maturity, prompting a growing desire for these technologies to be integrated into Department of Defense (DoD) systems.&nbsp;</p><p>AI may used to give battlefield advantage by helping improve the speed, quality, and accuracy of decision-making while enabling autonomy and assistive automation.&nbsp;</p><p>Due to the statistical nature of machine learning, prior work has focused primarily on ensuring the robustness of AI-enabled systems at inference time due to natural degradations in performance caused by data distribution shifts, for example, from a highly dynamic deployment environment.&nbsp;</p><p>However, as early as 2014, AI has been demonstrated as manipulable given adversary control of the input <a href="#1"><sup>[1]</sup></a>.1 Initial work has further confirmed the theoretical risks of data poisoning<a href="#2"><sup> [2]</sup></a>, physically constrained adversarial patches for evasion <a href="#3"><sup>[3]</sup></a>, and model stealing attacks <a href="#4"><sup>[4]</sup></a>.&nbsp;</p><p>These attacks are typically tested in simulated or physical environments with relatively pristine control compared to what might be expected on a battlefield.&nbsp;</p><p>Today, there is no known reported ecosystem that operationally assesses deployed military AI-enabled systems for adversarial vulnerabilities, so the “theoretical” adversarial AI attacks have not been practically demonstrated in operational settings.&nbsp;</p><p>Given this, the operational security risks of AI-enabled battlefield systems remain unknown.&nbsp;</p><p>As such, SABER will build an exemplar AI red team equipped with the necessary counter-AI techniques, tools and technical competency to operationally assess AI-enabled battlefield systems, while establishing a sustainable model for an evergreen operational AI red teaming process.&nbsp;</p><p>Our AI red team will be operationally assessing AIenabled autonomous ground and aerial systems that could be deployed within the next 1-3 years.&nbsp;</p><p>To assist the AI red team, the future solicitation will seek performers who can assist in surveying, evaluating, selecting, developing, and employing state-of-the-art physical (including manufacturing/materials), adversarial AI (including digital), cyber and electronic warfare techniques and tools, or other relevant vectors for enabling the operational assessment of AI-enabled system development and deployment pipelines <a href="#5"><sup>[5]</sup></a>.&nbsp;</p><p>Additionally, the forthcoming solicitation will seek a performer to serve as an integration lead, assisting in integrating the technologies into an interoperable operational AI red teaming toolkit to equip the AI red team and enable future AI red teams for the DoD and broader U.S. Government.&nbsp;</p><h4>Citations</h4><p id="1">1. <a href="https://arxiv.org/abs/1412.6572" target="_blank">https://arxiv.org/abs/1412.6572</a>&nbsp;</p><p id="2">2. <a href="https://arxiv.org/abs/1804.00792" target="_blank">https://arxiv.org/abs/1804.00792&nbsp;</a></p><p id="3">3. <a href="https://arxiv.org/pdf/2104.06728" target="_blank">https://arxiv.org/pdf/2104.06728</a>&nbsp;</p><p id="4">4. <a href="https://arxiv.org/abs/2411.10023" target="_blank">https://arxiv.org/abs/2411.10023&nbsp;</a></p><p id="5">5. <a href="https://sam.gov/opp/041e8bd594c1450dbec14a6ca580fbed/view" target="_blank">https://sam.gov/opp/041e8bd594c1450dbec14a6ca580fbed/view</a></p><p>&nbsp;</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+          <div class="content-width-x-large margin-x-auto paragraph paragraph--type--from-library paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+      
+            <div class="field field--name-paragraphs field--type-entity-reference-revisions field--label-hidden field__item">
+  <div class="content-width-x-large margin-x-auto desktop:padding-top-0 mobile-lg:padding-top-5 paragraph paragraph--type--right-rail paragraph--view-mode--default">
+    
+      
+      <div class="field field--name-field-right-rail-paragraph field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+
+
+
+      <div class="padding-bottom-3 border-bottom-1px margin-bottom-3 paragraph paragraph--type--program-program-manager-link paragraph--view-mode--default">
+      
+        <p class="text-bold">Program Manager</p>
+        <h6>
+          
+          
+          
+        </h6>
+
+        <p>
+          ,
+          
+        </p>
+
+        <p><a class="display-flex" href><span class="padding-right-1">Read bio</span>
+            <svg data-name="Component 32 – 4" width="30" height="30" viewBox="0 0 30 30">
+              <circle id="Ellipse_48" data-name="Ellipse 48" cx="15" cy="15" r="15" fill="#15cde7" />
+              <g id="Group_28494" data-name="Group 28494" transform="translate(-601 -6480.795)">
+                <path id="Path_34153" data-name="Path 34153" d="M3.582,0V9.489L0,5.906V8.718l3.17,3.17,1.406,1.406,1.406-1.406,3.17-3.17V5.906L5.57,9.489V0Z" transform="translate(609.353 6499.947) rotate(-90)" fill="#18191c" />
+              </g>
+            </svg>
+
+          </a></p>
+
+          </div>
+  
+
+</div>
+          </div>
+  
+
+      </div>
+</div>
+      
+
+              </div>
+      
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-29T17:41:03-05:00" title="Wednesday, January 29, 2025 - 17:41" class="datetime">Wed, 01/29/2025 - 17:41</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/programs/saber-securing-artificial-intelligence>
+
+---
+
+## Apple’s macOS UNIX certification is a lie
+
+date: 2025-01-29, from: OS News
+
+As an online discussion grows longer, the probability of a someone mentioning macOS is a UNIX approaches 1. In fact, it was only late last year that The Open Group announced that macOS 15.0 was, once again, certified as UNIX, continuing Apple&#8217;s long-standing tradition of certifying macOS releases as &#8220;real&#8221; UNIX®. What does any of this actually, mean, though? Well, it turns out that if you actually dive into Apple&#8217;s conformance statements for macOS&#8217; UNIX certification, it doesn&#8217;t really mean anything at all. First and foremost, we have to understand what UNIX certification really means. In order to be allowed to use the UNIX trademark, your operating system needs to comply with the Single UNIX Specification (SUS), which specifies programming interfaces for C, a command-line shell, and user commands, more or less identical to POSIX, as well as the X/Open Curses specification. The latest version is SUS version 4, originally published in 2008, with amendments published in 2013 and 2016, which were rolled up into version 4 in 2018. The various versions of the SUS that exist, in turn, correspond to a specific UNIX trademark. In table form: Trademark SUS version SUS published in: SUS last amended in: UNIX® 93 n.a. n.a. n.a. UNIX® 95 Version 1 1994 n.a. UNIX® 98 Version 2 1997 n.a. UNIX® 03 Version 3 2002 2004 UNIX® V7 Version 4 2008 2016 (2018 for roll-up) When you read that macOS is a certified UNIX, which of these versions and trademarks do you assume macOS complies with? You&#8217;d assume they would just target the latest trademark and SUS version, right? This would allow macOS to carry the UNIX® V7 trademark, because they would conform to version 4 of the SUS, which dates to 2016. The real answer is that macOS 15.0 only conforms to version 3 of the SUS, which dates all the way back to the ancient times of 2004, and as such, macOS is only UNIX® 03 (on both Intel and ARM). However, you can argue this is just semantics, since it&#8217;s not like UNIX and POSIX are very inclined to change. So now, like the UNIX nerd that you are, you want to see all this for yourself. You use macOS, safe in the knowledge that unlike those peasants using Linux or one of the BSDs, you&#8217;re using a real UNIX®. So you can just download all the tests suites (if you can afford them, but that&#8217;s a whole different can of worms) and run them, replicating Apple&#8217;s compliance testing, seeing for yourself, on your own macOS 15 installation, that macOS 15 is a real UNIX®, right? Well, no, you can&#8217;t, because the version of macOS 15 Apple certifies is not the version that&#8217;s running on everyone&#8217;s supported Macs. To gain its much-vaunted UNIX certification for macOS, Apple cheats. A lot. The various documents Apple needs to submit to The Open Group as part of the UNIX certification process are freely available, and mostly it&#8217;s a lot of very technical questions about various very specific aspects of macOS&#8217; UNIX and POSIX compliance few of us would be able to corroborate without extensive research and in-depth knowledge of macOS, UNIX, and POSIX. However, at the end of every one of these Conformance Statements, there&#8217;s a text field where the applicant can write down &#8220;additional, explanatory material that was provided by the vendor&#8221;, and it&#8217;s in these appendices where we can see just how much Apple has to cheat to ensure macOS passes the various UNIX® 03 certification tests. In the first of these four documents, Internationalised System Calls and Libraries Extended V3, Apple&#8217;s &#8220;additional, explanatory material&#8221; reads as follows: Question 27: By default, core file generation is not enabled. To enable core file generation, you can issue this command: sudo launchctl limit core unlimited Testing Environment Addendum: macOS version 15.0 Sequoia, like previous versions, includes an additional security mechanism known as System Integrity Protection (SIP). This security policy applies to every running process, including privileged code and code that runs out of the sandbox. The policy extends additional protections to components on disk and at run-time, only allowing system binaries to be modified by the system installer and software updates. Code injection and runtime attachments to system binaries are no longer permitted. To run the VSX conformance test suite we first disable SIP as follows: &#8211; Shut down the system.&#8211; Press and hold the power button. Keep holding it while you see the Apple logo and the message &#8220;Continue holding for startup options&#8221;&#8211; Release the power button when you see &#8220;Loading startup options&#8221;&#8211; Choose &#8220;Options&#8221; and click &#8220;Continue&#8221;&#8211; Select an administrator account and enter its password.&#8211; From the Utilities menu in the Menu Bar, select Terminal.&#8211; At the prompt, issue the following command: &#8220;csrutil disable&#8221;&#8211; You should see a message that SIP is disabled. From the Apple menu, select &#8220;Restart&#8221;. By default, macOS coalesces timeouts that are scheduled to occur within 5 seconds of each other. This can randomly cause some sleep calls to sleep for different times than requested (which affects tests of file access times) so we disable this coalescing when testing. To disable timeout coalescing issue this command: sudo sysctl -w kern.timer.coalescing_enabled=0 By default there is no root user. We enable the root user for testing using the following series of steps:&#8211; Launch the Directory Utility by pressing Command and Space, and then typing &#8220;Directory Utility&#8221;&#8211; Click the Lock icon in Directory Utility and authenticate by entering an Administrator username and password.&#8211; From the Menu Bar in Directory Utility:&#8211; Choose Edit -&#62; Enable Root User. Then enter a password for the root user, and confirm it.&#8211; Note: If you choose, you can later Disable Root User via the same menu. ↫ Apple&#8217;s appendix to Internationalised System Calls and Libraries Extended V3 The second conformance statement, Commands and Utilities V4, has another appendix, and it&#8217;s a real doozy (the  indicate repeat remarks from the previous appendix; I&#8217;ve removed them for brevity): Testing Environment Addendum: The third and fourth conformance statements have  
+
+<br> 
+
+<https://www.osnews.com/story/141633/apples-macos-unix-certification-is-a-lie/>
+
+---
+
+## Linux 6.14 with Rust: “We are almost at the ‘write a real driver in Rust’ stage now”
+
+date: 2025-01-29, from: OS News
+
+With the Linux 6.13 kernel, Greg Kroah-Hartman described the level of Rust support as a &#8220;tipping point&#8221; for Rust drivers with more of the Rust infrastructure having been merged. Now for the Linux 6.14 kernel, Greg describes the state of the Rust driver possibilities as &#8220;almost at the &#8220;write a real driver in rust&#8221; stage now, depending on what you want to do.&#8220; ↫ Michael Larabel Excellent news, as there&#8217;s a lot of interest in Rust, and it seems that allowing developers to write drivers for Linux in Rust will make at least some new and upcoming drivers comes with less memory safety issues than non-Rust drivers. I&#8217;m also quite sure this will anger absolutely nobody. 
+
+<br> 
+
+<https://www.osnews.com/story/141643/linux-6-14-with-rust-we-are-almost-at-the-write-a-real-driver-in-rust-stage-now/>
+
+---
+
+## OpenAI doesn’t like it when you use “their” generated slop without permission
+
+date: 2025-01-29, from: OS News
+
+OpenAI says it has found evidence that Chinese artificial intelligence start-up DeepSeek used the US company’s proprietary models to train its own open-source competitor, as concerns grow over a potential breach of intellectual property. ↫ Cristina Criddle and Eleanor Olcott for the FT This is more ironic than writing a song called Ironic that lists situations that aren&#8217;t actually ironic. OpenAI claims it&#8217;s free to suck up whatever content and data it can find on the web without any form of permission or consent, but throws a tamper tantrum when someone takes whatever they regurgitate for their own use without permission or consent? Cry me a river. 
+
+<br> 
+
+<https://www.osnews.com/story/141641/openai-doesnt-like-it-when-you-use-their-generated-slop-without-permission/>
+
+---
+
+## White House asks millions of govt workers if they would be so kind as to fork right off
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>Unions fear federal staff purge and RTO will spark chaos for Americans</h4> <p>More than two million US federal civilian employees have been invited to resign as of September 30, 2025, with incentives promised for those who agree to quit by February 6, 2025.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/us_government_workers_resign_deal/>
+
+---
+
+## A New Marine Protected Area in the Marshall Islands Is Brimming With Life, Like a 'Time Machine' to Oceans Long Ago
+
+date: 2025-01-29, from: Smithsonian Magazine
+
+The waters around two remote atolls in the central Pacific Ocean—spanning 18,500 square miles—are now protected from fishing 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-new-marine-protected-area-in-the-marshall-islands-is-brimming-with-life-like-a-time-machine-to-oceans-long-ago-180985936/>
+
+---
+
+## NASA Invites Media to Discuss PUNCH Mission to Study Solar Wind
+
+date: 2025-01-29, from: NASA breaking news
+
+NASA will hold a media teleconference at 2 p.m. EST on Tuesday, Feb. 4, to share information about the agency’s upcoming PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, which is targeted to launch no earlier than Thursday, Feb. 27. The agency’s PUNCH mission is a constellation of four small satellites. When they arrive [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-punch-mission-to-study-solar-wind/>
+
+---
+
+## An Amateur Astronomer Seemingly Spotted a New Asteroid. It Turned Out to Be a Tesla in Space
+
+date: 2025-01-29, from: Smithsonian Magazine
+
+The car, launched in 2018 on a SpaceX rocket’s upper stage, is one of many human-made objects in deep space that could potentially be mistaken for natural celestial bodies 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/an-amateur-astronomer-seemingly-spotted-a-new-asteroid-it-turned-out-to-be-a-tesla-in-space-180985921/>
+
+---
+
+## The 'Mona Lisa' Is Moving to a Room of Her Own at the Louvre
+
+date: 2025-01-29, from: Smithsonian Magazine
+
+As part of a massive renovation, the Leonardo da Vinci portrait will get its own gallery space accessible from a separate entrance 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-mona-lisa-is-moving-to-a-room-of-her-own-at-the-louvre-180985930/>
+
+---
+
+## NASA, Partners to Welcome Fourth Axiom Space Mission to Space Station
+
+date: 2025-01-29, from: NASA breaking news
+
+NASA and its international partners have approved the crew for Axiom Space’s fourth private astronaut mission to the International Space Station, launching from the agency’s Kennedy Space Center in Florida no earlier than spring 2025. Peggy Whitson, former NASA astronaut and director of human spaceflight at Axiom Space, will command the commercial mission, while ISRO [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-partners-to-welcome-fourth-axiom-space-mission-to-space-station/>
+
+---
+
+## Remember those pesky drones? Turns out the FAA was behind it all along
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>&#39;Research and various other reasons&#39; behind hullabaloo - but why didn&#39;t someone say that a month ago?</h4> <p>Time to pack it up and go home, drone conspiracy theorists: The White House has finally offered an explanation for those mysterious New Jersey drone sightings from late last year - though its rather vague statement raises more questions than it answers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/white_house_explains_drone_sighting/>
+
+---
+
+## 6 NASA Experiments on Materials, Benefitting Space and Earth
+
+date: 2025-01-29, from: NASA breaking news
+
+Did you know that NASA conducts ground-breaking research in space on materials like metals, foams, and crystals? This research could lead to next-generation technology that both enables deep-space exploration and benefits humanity.   Here are six studies scientists have conducted on the International Space Station that could have profound implications for future space travel and also […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/biological-physical-sciences/6-nasa-experiments-on-materials-benefitting-space-and-earth/>
+
+---
+
+## Archaeologists Discover 141 Ancient Gold Coins Depicting Nine Roman Emperors in Luxembourg
+
+date: 2025-01-29, from: Smithsonian Magazine
+
+Three of the coins are particularly rare: They portray Eugenius, an illegitimate emperor who reigned for just two years in the late fourth century C.E. 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-discover-141-ancient-gold-coins-depicting-nine-roman-emperors-in-luxembourg-180985914/>
+
+---
+
+## Tiny Linux kernel tweak could cut datacenter power use by 30%, boffins say
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>Not bad for 30 lines of code</h4> <p>Hardware keeps getting faster, but it&#39;s still worth taking a step back periodically and revisiting your code. You might just uncover a little tweak that wrings out more efficiency or extra throughput than you&#39;d expect.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/linux_kernel_tweak/>
+
+---
+
+## Geyser Season on Mars
+
+date: 2025-01-29, from: NASA breaking news
+
+This Oct. 29, 2018, image from the HiRISE camera on NASA’s Mars Reconnaissance Orbiter captures geysers of gas and dust that occur in springtime in the South Polar region of Mars. As the Sun rises higher in the sky, the thick coating of carbon dioxide ice that accumulated over the winter begins to warm and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/geyser-season-on-mars/>
+
+---
+
+## The Alaska Railroad's Golden Spike Hammered in by President Harding Will Return to Its Home State
+
+date: 2025-01-29, from: Smithsonian Magazine
+
+The spike's installation marked the completion of the Alaska Railroad in 1923. It's spent most of the time since then in the hands of private owners 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-alaska-railroads-golden-spike-hammered-in-by-president-harding-will-return-to-its-home-state-180985919/>
+
+---
+
+## Datacenters are hotter than ever, and we're not talking about rack temperatures
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>Exploding market led to $73B in M&amp;A activity in 2024</h4> <p>Updated figures from Synergy Research Group show the datacenter market was even hotter last year than thought, with mergers and acquisitions (M&amp;A) topping $73 billion in value and showing no sign of slowing down.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/exploding_datacenter_market/>
+
+---
+
+## Scientists Discover Traces of Salt Water and Building Blocks of Life in NASA's Samples From the Asteroid Bennu
+
+date: 2025-01-29, from: Smithsonian Magazine
+
+Two new papers describe hints to a brine-filled environment on the 4.5-billion-year-old space rock and the presence of amino acids, offering clues to how early Earth got its ingredients for life 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-discover-traces-of-salt-water-and-building-blocks-of-life-in-nasas-samples-from-the-asteroid-bennu-180985924/>
+
+---
+
+## Boom's XB-1 jet nails supersonic flight for first time
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>US civil sector boldly goes where Concorde has gone before</h4> <p>The US civilian aviation sector has achieved what Concorde managed half a century ago – piloted supersonic flight in a domestically built jet.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/boom_xb1_supersonic/>
+
+---
+
+## Muestra de la NASA del asteroide Bennu revela un ‘caldo’ con los ingredientes de la vida
+
+date: 2025-01-29, from: NASA breaking news
+
+Read this release in English&#160;here. Los estudios de las rocas y el polvo del asteroide Bennu que fueron traídos a la Tierra por la nave espacial de la misión Orígenes, Interpretación Espectral, Identificación de Recursos y Seguridad &#8211; Explorador de Regolito (OSIRIS-REx, por sus siglas en inglés) de la NASA han revelado moléculas que, en [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/muestra-de-la-nasa-del-asteroide-bennu-revela-un-caldo-con-los-ingredientes-de-la-vida/>
+
+---
+
+## Garmin pulls a CrowdStrike, turns smartwatches into fancy bracelets
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>Blue Screen of Death becomes the Blue Triangle of Doom for your wrist</h4> <p>Garmin has experienced its very own CrowdStrike incident after owners of the company&#39;s smartwatches complained the faces were showing a blue triangle of death following a seemingly faulty update.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/garmin_smartwatch_faulty_update/>
+
+---
+
+## NASA’s Asteroid Bennu Sample Reveals Mix of Life’s Ingredients
+
+date: 2025-01-29, from: NASA breaking news
+
+Lee esta nota de prensa en español aquí. Studies of rock and dust from asteroid Bennu delivered to Earth by NASA’s OSIRIS-REx (Origins, Spectral Interpretation, Resource Identification and Security–Regolith Explorer) spacecraft have revealed molecules that, on our planet, are key to life, as well as a history of saltwater that could have served as the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/>
+
+---
+
+## Why is my Mitel phone DDoSing strangers? Oh, it was roped into a new Mirai botnet
+
+date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+
+<h4>And now you won&#39;t stop calling me, I&#39;m kinda busy</h4> <p>A new variant of the Mirai-based malware Aquabot is actively exploiting a vulnerability in Mitel phones to build a remote-controlled botnet, according to Akamai&#39;s Security Intelligence and Response Team.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/29/ddos_attacks_aquabot_mitel/>
+
+---
+
+## How Does Life Happen When There’s Barely Any Light?
+
+date: 2025-01-29, from: Quanta Magazine
+
+Under the sea ice during the Arctic’s pitch-black polar night, cells power photosynthesis on the lowest light levels ever observed in nature.            <p>The post <a href="https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/" target="_blank">How Does Life Happen When There’s Barely Any Light?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/>
 
 ---
 
@@ -105,6 +725,18 @@ Published on this day in 1845, the work used alliteration, internal rhyme and re
 
 ---
 
+## Sols 4437-4438: Coordinating our Dance Moves
+
+date: 2025-01-29, from: NASA breaking news
+
+Earth planning date: Monday, Jan. 27, 2025 I was Geology and Mineralogy (Geo) Science Team lead today, and my day started with a bang and a drum roll — delivered by a rare winter thunderstorm (rare here in England, at least). I did lose power for a few minutes, but thanks to laptop batteries and […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4437-4438-coordinating-our-dance-moves/>
+
+---
+
 ## Microsoft signs eviction notice on Dev Home
 
 date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
@@ -129,7 +761,7 @@ date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
 
 ---
 
-## Spending watchdog blasts UK govt over sloth-like cyber resilience progress
+## Spending watchdog blasts UK govt over sloth-like progress to shore up IT defenses
 
 date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
 
@@ -275,7 +907,7 @@ A NASA photographer captured the full “wolf” moon rising over the Lincoln Me
 
 ## Trump eyes up to 100% tariffs on foreign semiconductors, TSMC in crosshairs
 
-date: 2025-01-28, updated: 2025-01-28, from: The Register (UK I.T. News)
+date: 2025-01-28, updated: 2025-01-30, from: The Register (UK I.T. News)
 
 <h4>No wonder OpenAI needs $500B for Stargate</h4> <p>Americans could soon see the price of electronics skyrocket in response to a 25-100 percent import tariff on computer chips promised by US President Donald Trump on Monday.…</p> 
 
@@ -299,7 +931,24 @@ date: 2025-01-28, from: Darpa News
     
               <div class="grid-col-fill">
       
-      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+      </div>
+    
+          <div class="layout__region layout__region--second">
+        
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
 
               </div>
       
@@ -336,7 +985,7 @@ date: 2025-01-28, from: Darpa News
   <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
     
       
-            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>The Small Business Programs Office (SBPO ) will be attending SXSW 2025 on Mar. 7-15, 2025, in Austin, TX.</p><p>&nbsp;</p><p><a class="primary-button-light primary-button-padding" href="https://www.sxsw.com/attend/" target="_blank"><span>Register</span>&nbsp;<svg id="right" viewBox="0 -7 30 35"><path d="M0.5 9.35772H20.9956L14.2001 2.29941L16.4134 0L27 11L16.4134 22L14.2001 19.7006L20.9956 12.6423H0.5V9.35772Z" fill="currentColor" /></svg></a></p></div>
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>The Small Business Programs Office (SBPO) will be attending SXSW 2025 on March 7-15, 2025, in Austin, TX.</p><p>&nbsp;</p><p><a class="primary-button-light primary-button-padding" href="https://www.sxsw.com/attend/" target="_blank"><span>Register</span>&nbsp;<svg id="right" viewBox="0 -7 30 35"><path d="M0.5 9.35772H20.9956L14.2001 2.29941L16.4134 0L27 11L16.4134 22L14.2001 19.7006L20.9956 12.6423H0.5V9.35772Z" fill="currentColor" /></svg></a></p></div>
       
 
       </div>
@@ -615,7 +1264,7 @@ date: 2025-01-28, from: Darpa News
   <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
     
       
-            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>The Albatross program seeks to develop effective autonomous aircraft soaring capabilities as evaluated via real-world flight testing.&nbsp;</p><p>Traditionally, making an aircraft fly farther and longer requires careful attention to the design of the aircraft to ensure its propulsion system is efficient, its profile has low drag, and it weighs just enough to achieve its mission reliably. Those are all valuable areas of effort that can contribute to achieving extended flight, but Albatross approaches the problem from a new angle and seeks to develop weather forecast-informed mission planning and real-time onboard sensing of dynamic wind conditions across multiple environments to harness energy from winds to offset the total power of the system required for flight.&nbsp;</p><p>This additional energy harvested from the wind reduces average power and allows the system to fly farther and longer. Aircraft soaring capabilities can be summarized as the active harnessing of energy from the natural environment’s atmospheric flow field to reduce the onboard power demand to enable increased range and endurance.&nbsp;</p><p>Albatross is <strong>not </strong>a dedicated airframe or aircraft design effort.&nbsp;</p><p>The program is not focused on lowering the drag of the airframe or providing the highest energy density source. Rather, the focus is on developing and integrating planning tools, additional aircraft sensors, and unique control solutions applied to existing or otherwise quickly assembled small uncrewed aircraft to autonomously plan for, identify and respond to soaring conditions.&nbsp;</p><p>Success is defined as capitalizing on soaring conditions to extend range and endurance in an operationally relevant manner.</p></div>
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>The Albatross program seeks to develop effective autonomous aircraft soaring capabilities as evaluated via real-world flight testing.&nbsp;</p><p>Traditionally, making an aircraft fly farther and longer requires careful attention to the design of the aircraft to ensure its propulsion system is efficient, its profile has low drag, and it weighs just enough to achieve its mission reliably. Those are all valuable areas of effort that can contribute to achieving extended flight, but Albatross approaches the problem from a new angle and seeks to develop weather forecast-informed mission planning and real-time onboard sensing of dynamic wind conditions across multiple environments to harness energy from winds to offset the total power of the system required for flight.&nbsp;</p><p>This additional energy harvested from the wind reduces average power and allows the system to fly farther and longer. Aircraft soaring capabilities can be summarized as the active harnessing of energy from the natural environment’s atmospheric flow field to reduce the onboard power demand to enable increased range and endurance.&nbsp;</p><p>Albatross is <strong>not </strong>a dedicated airframe or aircraft design effort.&nbsp;</p><p>The program is not focused on lowering the drag of the airframe or providing the highest energy density source. Rather, the focus is on developing and integrating planning tools, additional aircraft sensors, and unique control solutions applied to existing or otherwise quickly assembled small uncrewed aircraft to autonomously plan for, identify and respond to soaring conditions.&nbsp;</p><p>Success is defined as capitalizing on soaring conditions to extend range and endurance in an operationally relevant manner.</p><p>&nbsp;</p></div>
       
 
       </div>
@@ -727,7 +1376,7 @@ date: 2025-01-28, updated: 2025-01-28, from: The Register (UK I.T. News)
 
 ## Meta blocked Distrowatch links on Facebook while running Linux servers
 
-date: 2025-01-28, updated: 2025-01-28, from: The Register (UK I.T. News)
+date: 2025-01-28, updated: 2025-01-29, from: The Register (UK I.T. News)
 
 <h4>Popular community site became unmentionable – the irony is thick enough to compile</h4> <p>Facebook has lifted a temporary ban preventing users from posting links to popular OS comparison site Distrowatch – after going so far as to lock the account of the site&#39;s editor.…</p> 
 
@@ -751,7 +1400,7 @@ date: 2025-01-28, updated: 2025-01-28, from: The Register (UK I.T. News)
 
 ## Windows 10's demise nears, but Linux is forever
 
-date: 2025-01-28, updated: 2025-01-28, from: The Register (UK I.T. News)
+date: 2025-01-28, updated: 2025-01-29, from: The Register (UK I.T. News)
 
 <h4>If you want a desktop that&#39;s secure and reliable, forget about Microsoft</h4> <p><strong>Opinion</strong>  Come October 14, 2025, Windows 10 support dies. Despite that, more users than ever are using Windows 10 rather than moving to Windows 11.…</p> 
 
@@ -1036,7 +1685,7 @@ date: 2025-01-27, from: Darpa News
   <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
     
       
-            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>I2O seeks community feedback on the draft DARPA Guide to <strong>Formal Methods to Deliver Resilient Systems for Proposals</strong> (“the FMDRS Guide”), provided as Attachment A to this Request for Information (RFI). DARPA is interested in feedback from all capable sources, particularly those sources with formal methods implementation experience, on the scope and breadth of the FMDRS Guide.</p></div>
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>I2O seeks community feedback on the draft DARPA Guide to <strong>Formal Methods to Deliver Resilient Systems for Proposals</strong> (“the FMDRS Guide”), provided as Attachment A to this Request for Information (RFI).&nbsp;</p></div>
       
 
       </div>
@@ -1069,7 +1718,24 @@ date: 2025-01-27, from: Darpa News
       </div>
     
           <div class="layout__region layout__region--first">
-          
+            <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/large/public/gallery/2025-01/program-coop-darpa.png.webp?itok=BD7agkN1" alt class="image-style-large">
+
+
+
+      <figcaption class="padding-bottom-3">
+        
+
+              </figcaption>
+
+    
+
+      </div>
+
   <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
     
       
@@ -1081,7 +1747,7 @@ date: 2025-01-27, from: Darpa News
   <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
     
       
-            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Today, software and hardware systems use a reactive, threat-specific approach to keep up with external changes.&nbsp;</p><p>The Continuous-correctness On Opaque Processors (COOP) program seeks to revolutionize computing reliability and resilience by&nbsp;developing technologies, algorithms, and proofs that work together to&nbsp;constantly detect and correct software errors with mathematical guarantees.&nbsp;</p><p>In future COOP-based systems, unique physical manifestations known as side channels will flag errors from bugs and cyber attacks alike. These systems will then leverage correction strategies to guarantee continuous correctness, providing superior reliability and security.</p></div>
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Today, software and hardware systems use a reactive, threat-specific approach to keep up with external challenges such as intended cyber attacks or unintended silent data corruption.</p><p>The Continuous-correctness On Opaque Processors (COOP) program seeks to revolutionize computing reliability and resilience by developing technologies, algorithms, and proofs that work together to constantly detect and correct software errors with mathematical guarantees.</p><p>In future COOP-based systems, unique physical manifestations known as side channels will flag errors from bugs and cyber attacks alike. These systems will then leverage correction strategies to guarantee continuous correctness, providing superior reliability and security.</p></div>
       
 
       </div>
@@ -1152,13 +1818,6 @@ date: 2025-01-27, from: Darpa News
 
               </div>
       
-      </div>
-</div>
-              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
-    
-                    
-    
-
       </div>
 </div>
           </div>

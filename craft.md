@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-01-29 07:04:58
+updated: 2025-01-30 07:04:50
 ---
 
 # craft
 
-(date: 2025-01-29 07:04:58)
+(date: 2025-01-30 07:04:50)
+
+---
+
+## The Green Chair: Backstool No. 2
+
+date: 2025-01-29, from: Lost Arg Press blog
+
+The following is excerpted from John Porritt’s “The Belligerent Finisher.”&#160;This shows the first two steps (surface preparation and adding color) before he goes on to burnish, stain, paint, shellac, oil, dent, wax, and add the finishing touches. It sounds overwhelming but the process is such an incredible transformation that you can&#8217;t help but to want... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/01/29/the-green-chair-backstool-no-2/>
 
 ---
 

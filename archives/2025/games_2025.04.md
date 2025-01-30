@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-01-29 07:04:56
+updated: 2025-01-30 07:04:48
 ---
 
 # games
 
-(date: 2025-01-29 07:04:56)
+(date: 2025-01-30 07:04:48)
+
+---
+
+## Star Trek: Section 31’s resident ‘baby Trekkie’ had the cutest first contact with a Trek legend
+
+date: 2025-01-30, updated: 2025-01-30, from: Polygon Website
+
+When Polygon had a chance to sit down with most of the cast of Star Trek: Section 31 last week, we asked all of them whether their appreciation for Star Trek had changed since they became part of the storied sci-fi franchise — whether they’d been fans for ages or were less familiar with the setting.  [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-trek/516059/section-31-fuzz-actor-sven-ruygrok-jonathan-frakes>
+
+---
+
+## Whim Tangram puzzle solutions in Infinity Nikki
+
+date: 2025-01-30, updated: 2025-01-30, from: Polygon Website
+
+Whim Tangram puzzles are a type of mini-game available in Infinity Nikki’s limited-time “New Bloom Festival” event. Qiao He will issue these puzzles to you and you can find her aboard the large boat docked at Florawish. The puzzles involve rotating and placing different shaped blocks in a specific way to fit within a border [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/infinity-nikki-guides/514420/whim-tangram-puzzle-solutions-all-how-to-solve>
+
+---
+
+## There’s weird streaming rights issues, and then there’s whatever’s happening with The Expanse
+
+date: 2025-01-30, updated: 2025-01-29, from: Polygon Website
+
+On Feb. 6 at 4 p.m. PST, The Expanse is reportedly scheduled to leave Prime Video — not all of it, mind you. Just the first three seasons; those are the ones that aired on Syfy, before the show was rescued from cancellation by Prime. So while seasons 4-6 will stay on Prime Video, the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/516278/expanse-amazon-prime-video-streaming-leaving>
+
+---
+
+## Where to buy Nvidia’s RTX 5080 and 5090 GPUs
+
+date: 2025-01-30, updated: 2025-01-30, from: Polygon Website
+
+Nvidia’s GeForce RTX 50-series graphics cards are now available at select brick-and-mortar and online retailers. If you’re lucky enough to snatch one of Nvidia’s powerful, yet surprisingly compact GPUs before other eager PC gamers, you’ll get to try out the new Multi Frame Generation feature in DLSS 4 that’s exclusive to 50-series GPUs. To put [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/deals/512320/nvidia-rtx-5070-5080-5090-gpu-pc-where-to-buy>
+
+---
+
+## What time does Fortnite OG Season 2 release?
+
+date: 2025-01-30, updated: 2025-01-30, from: Polygon Website
+
+Fortnite OG Season 2 is coming to Fortnite on Friday, Jan. 31 — along with all of its OG updates. Anyone who has missed out on the chaos of landing at Tilted Towers can now experience it in all its glory. Those who’ve been playing OG Season 1 have realized that there wasn’t many options [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/514223/og-season-2-release-time-date-est-pst-bst>
+
+---
+
+## Lego’s competition just launched Jujutsu Kaisen and Chainsaw Man kits
+
+date: 2025-01-29, updated: 2025-01-29, from: Polygon Website
+
+Lego has a strong history with adapting popular IP into build kits, with sets ranging from Star Wars, Lord of the Rings, and Dungeons &#38; Dragons to The Legend of Zelda, Mario Kart, and… well, you get the idea. But it doesn’t have all of the good franchises. Some of the biggest anime series, including [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/deals/516112/jujutsu-kaisen-chainsaw-man-squishmallows-hello-kitty-bldr-lego-builder-brick-sets-buy>
+
+---
+
+## Time is running out to save on Civ 7 pre-orders
+
+date: 2025-01-29, updated: 2025-01-30, from: Polygon Website
+
+If you’re as excited as we are for the impending launch of Sid Meier’s Civilization 7, you won’t want to miss this deal on the PC version of the latest installment of the historic 4X title. Right up to launch day on Feb. 11, you can save 12% on Civilization 7 if you pre-order at [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/516140/civilization-civ-7-sid-meier-sale-where-to-buy>
+
+---
+
+## Elliot Page working on a Beyond: Two Souls TV show despite past controversy
+
+date: 2025-01-29, updated: 2025-01-29, from: Polygon Website
+
+Elliot Page’s PageBoy Productions has acquired the rights to adapt 2013 adventure game Beyond: Two Souls into a television series, Deadline reports. Beyond: Two Souls featured Page in the role of protagonist Jodie Holmes as Holmes learned to harness mysterious, supernatural powers. Willem Dafoe also starred as researcher Nathan Dawkins. The game, developed by French [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/516118/beyond-two-souls-elliot-page-quantic-dream-david-cage>
+
+---
+
+## Spider-Man 2 gets PC specs less than a day before launch
+
+date: 2025-01-29, updated: 2025-01-29, from: Polygon Website
+
+The Spider-Man 2 PC specs are coming in hot, with publisher PlayStation Studios dropping details about the PC port’s system requirements just a day before launch. Originally released on PlayStation 5 in October 2023, Marvel’s Spider-Man 2 is the third game in the series, pairing together the protagonists from both previous entries (Peter Parker and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/spider-man-2-guides/516091/specs-system-requirements-minimum-ray-tracing>
+
+---
+
+## One of the best 4K Blu-ray players is almost $100 off
+
+date: 2025-01-29, updated: 2025-01-29, from: Polygon Website
+
+The Panasonic UB820 4K Blu-ray player is an ideal place to start if you’re considering becoming a champion of physical media. This player is our preferred method for enjoying all of our favorite movies and is currently on sale at Amazon for $414.99 (was $499.99). In addition to supporting an array of 4K formats, including [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/515973/4k-blu-ray-player-panasonic-sale>
 
 ---
 
@@ -30,18 +150,6 @@ No Man’s Sky has become famous for its long list of free updates, many of them
 <br> 
 
 <https://www.polygon.com/gaming/515575/no-mans-sky-worlds-part-2-update>
-
----
-
-## What time does Fortnite OG Season 2 release?
-
-date: 2025-01-29, updated: 2025-01-28, from: Polygon Website
-
-Fortnite OG Season 2 is coming to Fortnite on Friday, Jan. 31 — along with all of its OG updates. Anyone who has missed out on the chaos of landing at Tilted Towers can now experience it in all its glory. Those who’ve been playing OG Season 1 have realized that there wasn’t many options [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/fortnite-guide/514223/og-season-2-release-time-date-est-pst-bst>
 
 ---
 

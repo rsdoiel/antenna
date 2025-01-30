@@ -1,11 +1,141 @@
 ---
 title: writing
-updated: 2025-01-29 07:04:55
+updated: 2025-01-30 07:04:47
 ---
 
 # writing
 
-(date: 2025-01-29 07:04:55)
+(date: 2025-01-30 07:04:47)
+
+---
+
+## 2025 ALA Awards
+
+date: 2025-01-29, from: Locus Magazine
+
+<p>The American Library Association (ALA) announced the winners of the Youth Media Awards during their LibLearnX conference, at a ceremony held Monday, January 27 in Phoenix AZ. Winners included several works and authors of genre interest.</p>
+<p>The Alex Awards honor books for adults that &#8220;have special appeal to young adults, ages 12 through 18.&#8221; This year, at least four adult books of genre interest appeared on the complete list of  <a href="https://locusmag.com/2025/01/2025-ala-awards/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/2025-ala-awards/>
+
+---
+
+## Clarion West Announces Scholarship for Trans Writers
+
+date: 2025-01-29, from: Locus Magazine
+
+<p>The Clarion West writers&#8217; workshop has announced a new scholarship for &#8220;trans, two-spirit, nonbinary, and other gender-expansive authors.&#8221; The Sea Star scholarship, funded by an anonymous donor, will cover full annual tuition (currently $3200) for one qualifying student per year. Clarion states:</p>
+<p style="padding-left: 40px;">Trans, two-spirit, nonbinary, and other gender expansive authors who continue to change and inform the landscape of speculative fiction for the better. We know that trans writers are  <a href="https://locusmag.com/2025/01/clarion-west-announces-scholarship-for-trans-writers/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/clarion-west-announces-scholarship-for-trans-writers/>
+
+---
+
+## Write On: 'The Performance' Co-Writer Josh Salzberg
+
+date: 2025-01-29, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-the-performance-co-writer-josh-salzberg" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20The%20Performance%20Writer%20Josh%20Salzberg%20%283%29.png" alt="Write On logo featuring a cell phone with headphones around the top of it. Screen of phone features the poster of 'The Performance' with Jeremy Piven tap dancing" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“Fugler [Robert Carlyle] was a character that I really connected with from the beginning. I know it sounds a little strange that the Nazi was my way into this, but it really was that idea of, ‘How can we get inside his head and make sure that he’s a fully fleshed out person that way?’” says Josh Salzberg about trying to make his villain, a Nazi named Damien Fugler, a three-dimensional character.<br><br>Josh Salzberg wrote the screenplay for <em>The Performance</em> with co-writer/director Shira Piven. In this episode, Salzberg talks about the challenges of adapting a short story by playwright Arthur Miller that’s about a Jewish-American tap dancer [Jeremy Piven], who’s willing to compromise his own core values to find fame and fortune in Nazi Germany.&nbsp;<br><br>“The idea of all [the characters] is that they're all performing on some level. They all have another life. And that’s true to show business, that we all have sides of ourselves that we’re not sure we want everybody to see or that it’s okay for everybody to see. And then in Berlin in the ‘30s, there’s all these different communities that were impacted – not just the Jews in Germany,” he says.&nbsp;<br><br>Salzberg also talks about his background as a film editor, how it helped him transition to screenwriting, and the challenges of writing morally compromised characters like his protagonist, Harold [Jeremy Piven].&nbsp;<br><br>“I think embracing the mistakes that they make, embracing those flaws and leaning into that is important. Sometimes we can care about our characters to the point where we want them to be likable, which is a note we always get, but we’ve got to be okay with the mistakes – and the consequences for those mistakes. And that was a lesson that Shira and I kept learning as we were developing the script,” he says.&nbsp;<br><br>To hear more about Salzberg’s writing process, listen to the podcast.&nbsp;<br><br><em>Please note: this episode contains discussions regarding racism and anti-semitism.&nbsp;</em><br><br></p> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-the-performance-co-writer-josh-salzberg>
+
+---
+
+## Weekly New Releases Video Is Out!
+
+date: 2025-01-29, from: Locus Magazine
+
+<p>It&#8217;s the end of January and we&#8217;ve got a great collection of the top new SF, Fantasy, Horror, and YA releases to share with you! Come by our YouTube channel to keep up-to-date on all the releases slated to hit shelves every week! While you&#8217;re there, don&#8217;t forget to subscribe to show your support for what we do! We&#8217;ll be back next week with another fantastic new video for you! <a href="https://locusmag.com/2025/01/weekly-new-releases-video-is-out/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/weekly-new-releases-video-is-out/>
+
+---
+
+## 2024 National Book Critics Circle Longlist
+
+date: 2025-01-29, from: Locus Magazine
+
+<p>The National Book Critics Circle (NBCC) has announced the longlist for the 2024 NBCC awards for books &#8220;published in English (including translations) in the United States.&#8221; Authors and titles of genre interest include:</p>
+<div class="mynomorebulletlist">
+<p><strong>Criticism</strong></p>
+<ul>
+<li><strong>Opacities: On Writing and the Writing Life</strong>, Sofia Samatar (Soft Skull)</li>
+<li><strong>Magical/Realism: Essays on Music, Memory, Fantasy, and Borders</strong>, Vanessa Angélica Villarreal (Tiny Reparations)</li>
+</ul>
+<p><strong>Fiction</strong></p>
+<ul>
+<li><strong>Beautyland</strong>, Marie-Helene Bertino (FSG)</li>
+<li><strong>James</strong>, Percival Everett </li></ul></div> <a href="https://locusmag.com/2025/01/2024-national-book-critics-circle-longlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/01/2024-national-book-critics-circle-longlist/>
+
+---
+
+## ⏲️ Finding time to write
+
+date: 2025-01-29, from: Interesting, a blog on writing
+
+Don't try the couch cushions. I've already looked there. 
+
+<br> 
+
+<https://inneresting.substack.com/p/finding-time-to-write>
+
+---
+
+## Magazines Received – January
+
+date: 2025-01-29, from: Locus Magazine
+
+<div class="blockquote">This list covers new SF/F/H print, online, and electronic periodicals (including regularly updated websites) seen by Locus magazine, focusing on those that publish fiction or reviews and criticism. To submit titles for listing on these pages, please send to Locus Publications, 655 13th St. #100, Oakland CA 94612 or email locus@locusmag.com.</div>
+<div>
+<div class="mynomorebulletlist">
+
+<p>Analog Science Fiction and Fact</p>
+<ul>
+<li>Trevor Quachri, ed.</li>
+<li>Vol. 144 Nos. 3 &#38; 4, March/April 2024, $8.99, bimonthly, 208pp, </li></ul></div></div> <a href="https://locusmag.com/2025/01/magazines-received-january-4/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/01/magazines-received-january-4/>
+
+---
+
+## A Vile Season by David Ferraro: Review by Alex Brown
+
+date: 2025-01-29, from: Locus Magazine
+
+<p><strong>A Vile Season</strong>, David Ferraro (Page Street YA 979-8-89003-072-6, $18.99, 400pp, hc) October 2024.</p>
+<p>David Ferraro’s new young adult fantasy romance <strong>A Vile Season </strong>is comped as <strong>Bridgerton </strong>meets <strong>The Bachelor </strong>but with vampires. That’s exactly the vibe. Everything from the pacing, the intentionally and flamboyantly anachronistic diversity in the upper classes, the garish wardrobe, the playful disregard for historical accuracy, the overly dramatic rela­tionship conflicts, the marriage competition,  <a href="https://locusmag.com/2025/01/a-vile-season-by-david-ferraro-review-by-alex-brown/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/a-vile-season-by-david-ferraro-review-by-alex-brown/>
 
 ---
 

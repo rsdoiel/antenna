@@ -1,11 +1,338 @@
 ---
 title: columns
-updated: 2025-01-29 07:04:55
+updated: 2025-01-30 07:04:47
 ---
 
 # columns
 
-(date: 2025-01-29 07:04:55)
+(date: 2025-01-30 07:04:47)
+
+---
+
+##  Reuters made a cozy game about cozy games. &#8220;Wolfe would put on... 
+
+date: 2025-01-30, updated: 2025-01-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046092-reuters-made-a-cozy-game>
+
+---
+
+## I bet on myself at 22
+
+date: 2025-01-30, from: Dave Winer's Scripting News
+
+<p><a href="https://bsky.app/profile/andrewhickey.500songs.com/post/3lgxo764qbk2y">Andrew Hickey wrote</a> something I wholeheartedly agree with. "If you think the day job might literally kill you, and you have no kids, quit and try that mad idea. That might also kill you, but better to die trying something wonderful than be killed by a crappy job."</p>
+<p><a href="https://bsky.app/profile/scripting.com/post/3lgxod4czuc2o">My response</a>: "My life story since i was 22, and I'm 69 now. It's worked out okay, not perfect, I have regrets, but I would have far more if I hadn't bet on myself. My 22-year-old self was very right about a lot of things."</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/30/141732.html?title=iBetOnMyselfAt22>
+
+---
+
+##  &#8220;The MacArthur Foundation today announced more than $6 million in grants to... 
+
+date: 2025-01-30, updated: 2025-01-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046101-the-macarthur-foundation->
+
+---
+
+## Fake Reddit and WeTransfer Sites are Pushing Malware
+
+date: 2025-01-30, updated: 2025-01-30, from: Bruce Schneier blog
+
+<p>There are thousands of <a href="https://www.bleepingcomputer.com/news/security/hundreds-of-fake-reddit-sites-push-lumma-stealer-malware/">fake</a> Reddit and WeTransfer webpages that are pushing malware. They exploit people who are using search engines to search sites like Reddit.</p>
+<blockquote><p>Unsuspecting victims clicking on the link are taken to a fake WeTransfer site that mimicks the interface of the popular file-sharing service. The &#8216;Download&#8217; button leads to the <a href="https://app.any.run/tasks/a629e4b1-433b-427e-8040-79d4aa13c245">Lumma Stealer payload</a> hosted on &#8220;weighcobbweo[.]top.&#8221;</p></blockquote>
+<p>Boingboing <a href="https://boingboing.net/2025/01/28/fake-reddit-pages-are-serving-up-malware.html">post</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/01/fake-reddit-and-wetransfer-sites-are-pushing-malware.html>
+
+---
+
+## I Was a Teenage Exocolonist
+
+date: 2025-01-30, from: Jessica Smith's blog
+
+<p>Over the past few days I&rsquo;ve been <em>obsessed</em> with this game called <a href="https://store.steampowered.com/app/1148760/I_Was_a_Teenage_Exocolonist/" title="Steam store page for I Was a Teenage Exocolonist">I Was a Teenage Exocolonist<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a>. It&rsquo;s set in, like, a socialist colony on an alien planet, with lots of gender &amp; sexual diversity and even polyamorous representation (hell yes!). But also, it&rsquo;s a time loop game – you&rsquo;re supposed to play through it more than once, using the knowledge your character gains each run to make better choices the next time around. I finished my first run today (which took me 11.4 hours over four days&hellip; hooked, I have been) and I&rsquo;m really excited to play the next one. It also has a beautiful art style and great soundtrack!</p>
+<p>The only thing is, while I was trying to avoid spoilers (which I usually never do! Usually I&rsquo;m like &ldquo;gimme that walkthrough&rdquo; but with this one I wanted to experience it first) I did read a lot of reviews that were like, &ldquo;You&rsquo;re basically doomed to a bad ending on your first run,&rdquo; but I became&hellip; a teacher. And because I had a rebellion score of 100/100, I became the best kind of teacher who teaches the kids to &ldquo;question everything&rdquo;. I mean, there had been a lot of tragic deaths in the first half of my run, but the ending itself didn&rsquo;t really seem bad. Maybe what people meant is that the ending didn&rsquo;t magically undo the tragic deaths, idk. I did see one review which was like, &ldquo;this game is the worst, it didn&rsquo;t warn me I needed at least one skill at 100/100 by the end of the game&rdquo; but I had like&hellip; five skills at 100/100; this was not a high bar to clear. I have <em>now</em> looked up the list of possible endings and honestly, I don&rsquo;t even know what you get if you didn&rsquo;t have any skills at 100&hellip;</p>
+<p>Oh yeah, and then the <em>other</em> thing was that the character I&rsquo;d been trying to romance fuckin&rsquo; <span class="spoiler">planted a bomb and peaced out for the last year or something of the game. Disappeared, never to be seen again</span>. So I guess I have an idea for what I want to focus on next time.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/01/i-was-a-teenage-exocolonist.html>
+
+---
+
+## Some advice to federal workers
+
+date: 2025-01-30, from: Robert Reich's blog
+
+From a former secretary of labor 
+
+<br> 
+
+<https://robertreich.substack.com/p/some-free-advice-to-federal-workers>
+
+---
+
+## It Had Been 16 Years Since a Fatal US Airlines Crash.
+
+date: 2025-01-30, from: James Fallows, Substack
+
+But there appears to have been another one this evening. 
+
+<br> 
+
+<https://fallows.substack.com/p/it-had-been-16-years-since-a-fatal>
+
+---
+
+## January 29, 2025
+
+date: 2025-01-30, from: Heather Cox Richardson blog
+
+In a conversation with Greg Sargent of the New Republic published today, writer Amanda Marcotte called out an important moment in White House press secretary Karoline Leavitt&#8217;s first press conference yesterday. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-29-2025>
+
+---
+
+## January 28, 2025
+
+date: 2025-01-30, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156067279/c9bae81c0343aedbae6721dbd4553b8b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156067279/c9bae81c0343aedbae6721dbd4553b8b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-28-2025-88a>
+
+---
+
+##  Lorne Michaels may not like it when the actors on SNL break... 
+
+date: 2025-01-29, updated: 2025-01-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046098-lorne-michaels-may-not-li>
+
+---
+
+## We Need More People Like Him
+
+date: 2025-01-29, from: Dan Rather's Steady
+
+Why CNN pushed out Jim Acosta 
+
+<br> 
+
+<https://steady.substack.com/p/we-need-more-people-like-him>
+
+---
+
+## OpenStreetMap Community Discussion on How to Handle the U.S. Federal Government’s Imminent Designation of the Gulf of Mexico as the ‘Gulf of America’
+
+date: 2025-01-29, updated: 2025-01-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://community.openstreetmap.org/t/gulf-of-america-gulf-of-mexico/124571>
+
+---
+
+##  Jaune Quick-To-See Smith Has Died, Age 85 
+
+date: 2025-01-29, updated: 2025-01-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/jaune-quick-to-see-smith-has-died-age-85>
+
+---
+
+## The basic equation
+
+date: 2025-01-29, from: Robert Reich's blog
+
+What&#8217;s behind the apparent chaos today in Washington 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-equation>
+
+---
+
+## ★ Pebble Founder Eric Migicovsky Is Bringing It Back
+
+date: 2025-01-29, updated: 2025-01-29, from: Daring Fireball
+
+The whole tech world needs more projects that aren’t trying to become billion- (let alone trillion-) dollar ideas, but are happily shooting for success as million-dollar ideas (or less!). 
+
+<br> 
+
+<https://daringfireball.net/2025/01/repebble>
+
+---
+
+##  An audio recording of the audience&#8217;s reaction to Star Wars in 1977,... 
+
+date: 2025-01-29, updated: 2025-01-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046048-an-audio-recording-of-the>
+
+---
+
+##  Approvingly citing Musk/X and Zuck/Meta, Substack reiterates its commitment to support Nazis,... 
+
+date: 2025-01-29, updated: 2025-01-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046099-approvingly-citing-muskx->
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-01-29, from: Miguel de Icaza Mastondon feed)
+
+<p>We go to live footage of our broligarchs:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113913442005624256>
+
+---
+
+## Does anyone need more proof that Trump is fronting for the oligarchs and doesn’t give a shite about workers?
+
+date: 2025-01-29, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/if-anyone-needed-more-proof-that>
+
+---
+
+##  Pee-wee as Himself, a New Documentary Series About Pee-wee Herman 
+
+date: 2025-01-29, updated: 2025-01-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/pee-wee-as-himself-a-new-documentary-series-about-pee-wee-herman>
+
+---
+
+##  I missed this back in October: Venkatesh Rao retired his long-running Ribbonfarm... 
+
+date: 2025-01-29, updated: 2025-01-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046096-i-missed-this-back-in-2>
+
+---
+
+## Answering the blog questions challenge
+
+date: 2025-01-29, from: Matt Haughey blog
+
+<p><a href="https://nazhamid.com/journal/blog-questions/?ref=a.wholelottanothing.org" rel="noreferrer">Naz tagged me in a blog meme</a>, and honestly? I haven&apos;t done a blog-related meme in over 20 years and this one is navel-gazing and feels so retro I&apos;m on board.</p><p>Hilariously, I only found out I was tagged via my Mastodon mentions, because our blogging</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/answering-the-blog-questions-challenge/>
+
+---
+
+##  The ACLU: Know Your Rights (or, what to do if you are... 
+
+date: 2025-01-29, updated: 2025-01-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046097-the-aclu-know-your-rights>
+
+---
+
+##  Nirvana Before They Were Nirvana: Watch Their 1988 Performance Recorded in a... 
+
+date: 2025-01-29, updated: 2025-01-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046031-nirvana-before-they-were->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-29, from: Dave Winer's Scripting News)
+
+There <a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lgvezuxbxc2q">should</a> be ads on tv tonight saying they're coming for the abortion pill. Spell it out clearly so the voters can hear it as it happened. Otherwise they will rightly blame the Dems for not telling them what was going on. It's not too late Dems. 
+
+<br> 
+
+<http://scripting.com/2025/01/29.html#a162548>
+
+---
+
+##  &#8220;Was Anyone Going to Say Anything?&#8221; 
+
+date: 2025-01-29, updated: 2025-01-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/was-anyone-going-to-say-anything>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-29, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/01/29/shanker.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">One more thing then I have to get back to work. There's a great moment in Woody Allen's <a href="https://en.wikipedia.org/wiki/Sleeper_(1973_film)">Sleeper</a> where a time traveler was told that the world was destroyed when <a href="https://www.youtube.com/watch?v=D2fYguIX17Q&t=130s">Albert Shanker</a> got hold of a nuclear warhead. If you lived in NYC in the 70s and 80s you knew <a href="https://en.wikipedia.org/wiki/Albert_Shanker">Albert Shanker</a> as a NY character like <a href="https://en.wikipedia.org/wiki/Al_Sharpton">Al Sharpton</a> or <a href="https://en.wikipedia.org/wiki/Curtis_Sliwa">Curtis Sliwa</a>.  New York <a href="https://en.wikipedia.org/wiki/Keith_Hernandez">had</a> its own semi-celebrities, <a href="https://en.wikipedia.org/wiki/Rudy_Giuliani">people</a> who <a href="https://en.wikipedia.org/wiki/Bruce_Morrow">were</a> famous <a href="https://en.wikipedia.org/wiki/Jimmy_Breslin">mostly</a> in New York, <a href="https://en.wikipedia.org/wiki/Bella_Abzug">but</a> not <a href="https://en.wikipedia.org/wiki/Ed_Koch">as</a> much <a href="https://en.wikipedia.org/wiki/John_Lindsay">outside</a>. So Albert Shanker with a nuclear weapon kind of fit his character as a bomb throwing type in city politics in an extreme way. A fitting and comic way for us to end it all. Proof that god has a sense of humor. It was an inside reference only NYers would get. Well in case you didn't know it, back in that time or a little later, Trump was one of those Albert Shanker types. And yes, now again he has all the nuclear weapons. And it still feels like he's only famous in a mediocre Queens real estate way. Isn't that weird? 
+
+<br> 
+
+<http://scripting.com/2025/01/29.html#a153309>
 
 ---
 
@@ -157,7 +484,7 @@ During the 2024 presidential campaign, Trump distanced himself from Project 2025
 
 ## ★ My Spitball Theory on TikTok’s Current Semi-Reprieve in the U.S.
 
-date: 2025-01-29, updated: 2025-01-29, from: Daring Fireball
+date: 2025-01-29, updated: 2025-01-30, from: Daring Fireball
 
 Even if the build of TikTok already installed on an American user’s phone continues to function, that user can’t reinstall TikTok (or any of ByteDance’s other apps) on a new or restored phone until those apps are back in the app stores. 
 
@@ -281,7 +608,7 @@ date: 2025-01-28, updated: 2025-01-28, from: Jason Kittke's blog
 
 ## ★ Openvibe, a Multi-Social-Network App for Bluesky, Mastodon, Threads (Supposedly), and Nostr
 
-date: 2025-01-28, updated: 2025-01-28, from: Daring Fireball
+date: 2025-01-28, updated: 2025-01-29, from: Daring Fireball
 
 Openvibe, which mashes together multiple accounts from mulitple networks into a single timeline, is interesting, but not for me — and I’m not really sure who it *is* for. 
 

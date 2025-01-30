@@ -1,17 +1,17 @@
 ---
 title: weather
-updated: 2025-01-29 07:04:55
+updated: 2025-01-30 07:04:47
 ---
 
 # weather
 
-(date: 2025-01-29 07:04:55)
+(date: 2025-01-30 07:04:47)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-01-29, from: Eastern Pacific Basin GIS Data
+date: 2025-01-30, from: Eastern Pacific Basin GIS Data
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
@@ -21,11 +21,11 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Wed Jan 29 15:00:02 UTC 2025
+## SPC - No watches are valid as of Thu Jan 30 14:10:02 UTC 2025
 
-date: 2025-01-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Wed Jan 29 15:00:02 UTC 2025. 
+No watches are valid as of Thu Jan 30 14:10:02 UTC 2025. 
 
 <br> 
 
@@ -33,11 +33,11 @@ No watches are valid as of Wed Jan 29 15:00:02 UTC 2025.
 
 ---
 
-## SPC - No MDs are in effect as of Wed Jan 29 15:00:02 UTC 2025
+## SPC - No MDs are in effect as of Thu Jan 30 14:10:02 UTC 2025
 
-date: 2025-01-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Wed Jan 29 15:00:02 UTC 2025. 
+No Mesoscale Discussions are in effect as of Thu Jan 30 14:10:02 UTC 2025. 
 
 <br> 
 
@@ -45,54 +45,61 @@ No Mesoscale Discussions are in effect as of Wed Jan 29 15:00:02 UTC 2025.
 
 ---
 
-## SPC Jan 29, 2025 1300 UTC Day 1 Convective Outlook
+## SPC Jan 30, 2025 1300 UTC Day 1 Convective Outlook
 
-date: 2025-01-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-01-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0648 AM CST Wed Jan 29 2025
+0642 AM CST Thu Jan 30 2025
 
-Valid 291300Z - 301200Z
+Valid 301300Z - 311200Z
 
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR CENTRAL AND
-NORTH TEXAS...
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR SOUTHEAST
+TEXAS INTO CENTRAL AND NORTHERN LOUISIANA AND FAR WESTERN
+MISSISSIPPI...
 
 ...SUMMARY...
-A few strong to severe thunderstorms will be possible across parts
-of the southern Great Plains tonight.
+Strong/isolated severe storms will be possible today into tonight
+from eastern portions of Texas eastward across the Lower Mississippi
+Valley.
 
-..Southern Great Plains...
-Water-vapor imagery this morning shows a closed upper low over the
-Desert Southwest.  This upper feature will gradually move eastward
-through daybreak Thursday reaching the Sangre de Cristos. 
-Widespread cloud cover over central/eastern TX into OK will tend to
-limit diurnal heating today.  Southerly low-level flow over
-south/coastal TX will slowly intensify as a still modifying airmass
-over the western Gulf of America moves inland into the TX Hill
-Country.  Isolated thunderstorms may develop later this afternoon
-over northeast TX into AR but weak elevated instability will limit
-storm intensity.  
+...East-central TX into the lower MS Valley...
+A large mid to upper-level low centered near the CO/KS/OK/TX border
+region will migrate eastward through tonight before reaching the
+lower MO Valley early Friday morning.  A belt of 100+ kt 500-mb flow
+will move from southwest TX northeastward into eastern OK/north TX
+by early evening before overspreading the Ark-La-Miss and lower OH
+Valley.  The strongest upper forcing for ascent will shift
+northeastward from the southern Great Plains into the Ozarks and
+lower OH Valley.  Coincidentally, a weak surface low will move from
+northeast TX towards the IL vicinity late tonight.  Surface analysis
+this morning indicates a warm frontal zone draped over northeastern
+TX and central LA.  Model guidance indicates this feature will
+advance into parts of the lower MS Valley/Mid South later this
+afternoon/evening.  
 
-By mid to late evening, prior moistening during the day into the
-early evening will yield weak instability (250-1000 J/kg MUCAPE)
-from west-central TX north-northeastward into southern OK.  The
-arrival of stronger large-scale ascent associated with the
-approaching upper low and Pacific cold front will facilitate the
-development of showers/thunderstorms from central TX into southern
-OK.  Relatively cool 500-mb temperatures around -16 deg C will
-support a potential risk for large hail with a few of the stronger
-updrafts.  Convective coverage is forecast to quickly increase
-during the late evening/overnight timeframe as storms become
-oriented in a large band.  An accompanying risk for isolated strong
-to locally severe will likely continue through the overnight.  A
-surface-based warm sector may eventually be encountered by storms on
-the southern portion of the band near the I-35 corridor overnight. 
-A marginal risk for severe gusts and perhaps a tornado could develop
-with this activity.
+Considerable cloudiness today will limit overall destabilization in
+combination with relatively marginal mid-level lapse rates
+(reference 12 UTC Fort Worth/Del Rio, TX and Shreveport, LA raobs). 
+However, a plume of modified Gulf moisture featuring dewpoints
+ranging from near 70 to the mid 60s, extends from Deep South TX
+northward into eastern TX ahead of the cold front and south of the
+northward advancing warm frontal zone.  Uncertainty for severe today
+into tonight is related to overall weak instability and storm
+development immediately ahead of the front.  It seems plausible
+storms will gradually intensify through the morning into the
+afternoon.  Forecast soundings show enlarged hodographs which would
+support a potential risk for organized line segments/supercells. 
+Damaging gusts and an isolated risk for a couple of tornadoes appear
+to be the primary threats with the stronger storms as this potential
+severe activity shifts east in tandem with a strong LLJ.  Weaker
+instability with east extent into the lower MS Valley this
+evening/tonight will likely lead to a lessening severe threat with
+time.
 
-..Smith/Kerr.. 01/29/2025
+..Smith/Kerr.. 01/30/2025
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
@@ -106,39 +113,28 @@ with this activity.
 
 ## SPC Day 2 Fire Weather Outlook
 
-date: 2025-01-29, from: NOAA Weather Forecasts
+date: 2025-01-30, from: NOAA Weather Forecasts
 
 <br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 2 Fire Weather Outlook  
 NWS Storm Prediction Center Norman OK
-0145 AM CST Wed Jan 29 2025
+1246 AM CST Thu Jan 30 2025
 
-Valid 301200Z - 311200Z
+Valid 311200Z - 011200Z
 
 ...NO CRITICAL AREAS...
 
 ...Synopsis...
-Fire weather potential appears limited across the country on
-Thursday, though some concerns may emerge across the Big Bend region
-of southern Texas depending on fuel trends over the next 48 hours.
-The upper low currently over the Southwest is expected to eject into
-the southern Plains through late Thursday. Surface cyclogenesis is
-expected to become more pronounced Thursday afternoon across the
-central Plains, resulting in strengthening pressure gradient winds
-across much of TX. Westerly winds between 15-25 mph will be common,
-and dry air advection, coupled with deep boundary-layer mixing, will
-promote RH reductions down to 15-20% across the greater Big Bend
-region. Recent ensemble guidance shows reasonably high probabilities
-for sustained elevated fire weather conditions across this region
-with low to moderate probabilities (30-50%) for critical conditions.
-While confidence in reasonably high for at least elevated fire
-weather conditions, fuels across this region are not overly
-receptive with ERCs generally below the 80th percentile and 10-hour
-fuel moisture values above the 50th percentile. Fire weather
-highlights may be needed in future forecast updated if fine fuels
-can sufficiently dry by Thursday afternoon.
+Fire weather concerns will be limited across the country on Friday.
+Widespread rain chances are expected to overspread the mid-MS and OH
+River Valleys on Friday as the upper trough currently moving into
+the southern Plains migrates east/northeast. A broad, but weak,
+surface ridge building across the Four Corners and southern High
+Plains will limit wind speeds within the driest air mass over the
+country. Consequently, the potential for fire weather concerns
+appears limited.
 
-..Moore.. 01/29/2025
+..Moore.. 01/30/2025
 
 ...Please see www.spc.noaa.gov/fire for graphic product...
 

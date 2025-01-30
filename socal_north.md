@@ -1,15 +1,334 @@
 ---
 title: socal north
-updated: 2025-01-29 07:04:54
+updated: 2025-01-30 07:04:46
 ---
 
 # socal north
 
-(date: 2025-01-29 07:04:54)
+(date: 2025-01-30 07:04:46)
 
 ---
 
-## When farm animals were evacuated from the fires, these college students were ready to help
+## The cost of private colleges is high, yet many low-income students still choose them
+
+date: 2025-01-30, updated: 2025-01-30, from: The LAist
+
+Some students work multiple jobs and give up extracurricular activities to supplement their financial aid. Many say it’s worth it. 
+
+<br> 
+
+<https://laist.com/news/education/private-colleges-low-income-students>
+
+---
+
+## Best things to do this weekend in LA and SoCal: January 31 - February 2
+
+date: 2025-01-30, updated: 2025-01-30, from: The LAist
+
+Enjoy Lunar New Year eats, see 'Gwyneth Goes Skiing,' head outdoors for the Griffith Park Run and more of the best things to do. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-los-angeles-southern-california-january-31-february-2>
+
+---
+
+## Los Inmigrantes han Demostrado ser Vitales para la Pronta Recuperación del Incendio Forestal de Eaton
+
+date: 2025-01-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01292025_Pasadena-Community-Job-Center_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01292025_Pasadena-Community-Job-Center_SN_05-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01292025_Pasadena-Community-Job-Center_SN_05-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01292025_Pasadena-Community-Job-Center_SN_05-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01292025_Pasadena-Community-Job-Center_SN_05-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01292025_Pasadena-Community-Job-Center_SN_05-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01292025_Pasadena-Community-Job-Center_SN_05-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01292025_Pasadena-Community-Job-Center_SN_05-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01292025_Pasadena-Community-Job-Center_SN_05-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01292025_Pasadena-Community-Job-Center_SN_05-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01292025_Pasadena-Community-Job-Center_SN_05-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01292025_Pasadena-Community-Job-Center_SN_05-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01292025_Pasadena-Community-Job-Center_SN_05-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01292025_Pasadena-Community-Job-Center_SN_05-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01292025_Pasadena-Community-Job-Center_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Esta es la primera parte de una serie sobre la recuperación de los incendios forestales en Los Ángeles A pesar de la retórica llena de odio y las noticias diarias [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/29/los-inmigrantes-han-demostrado-ser-vitales-para-la-pronta-recuperacion-del-incendio-forestal-de-eaton/">Los Inmigrantes han Demostrado ser Vitales para la Pronta Recuperación del Incendio Forestal de Eaton</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/29/los-inmigrantes-han-demostrado-ser-vitales-para-la-pronta-recuperacion-del-incendio-forestal-de-eaton/>
+
+---
+
+## Padres Latinos se Reúnen con el Superintendente del LAUSD por Preocupaciones Sobre ICE
+
+date: 2025-01-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="785" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/DSF8217-e1738213852509.jpg?fit=1024%2C785&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/DSF8217-e1738213852509.jpg?w=1625&amp;ssl=1 1625w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/DSF8217-e1738213852509.jpg?resize=300%2C230&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/DSF8217-e1738213852509.jpg?resize=1024%2C785&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/DSF8217-e1738213852509.jpg?resize=768%2C589&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/DSF8217-e1738213852509.jpg?resize=1536%2C1178&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/DSF8217-e1738213852509.jpg?resize=1200%2C920&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/DSF8217-e1738213852509.jpg?resize=1568%2C1202&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/DSF8217-e1738213852509.jpg?resize=400%2C307&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/DSF8217-e1738213852509.jpg?resize=706%2C541&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/DSF8217-e1738213852509.jpg?fit=1024%2C785&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A medida que el presidente Donald Trump intensifica las operaciones de aplicación de la ley de inmigración, con redadas, arrestos y deportaciones de ICE en todo el país, los padres [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/29/padres-latinos-se-reunen-con-el-superintendente-del-lausd-por-preocupaciones-sobre-ice/">Padres Latinos se Reúnen con el Superintendente del LAUSD por Preocupaciones Sobre ICE</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/29/padres-latinos-se-reunen-con-el-superintendente-del-lausd-por-preocupaciones-sobre-ice/>
+
+---
+
+## Horóscopo
+
+date: 2025-01-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) No existes para explicarte a ti mismo. Si siempre estás justificando tus decisiones ante alguien, considera por qué. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/29/horoscopo-200/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/29/horoscopo-200/>
+
+---
+
+## EVENTOS Locales – Semana de 30 de enero, 2025
+
+date: 2025-01-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Enero 31 Evento de Revisión de Asientos de Seguridad Community Resource Center 7868 Van Nuys Blvd. Panorama City (619) 786-8623 10 a.m. – 1 p.m. ¿Está instalada correctamente la [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/29/eventos-locales-semana-de-30-de-enero-2025/">EVENTOS Locales &#8211; Semana de 30 de enero, 2025</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/29/eventos-locales-semana-de-30-de-enero-2025/>
+
+---
+
+## Target Enfrenta Boicot en Los Ángeles por Revertir Programas de Diversidad
+
+date: 2025-01-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="408" height="435" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/TARGET-BOYCOTT-EARL-OFARI-HUTCHINSON-PHOTO-AT-TARGET-STORE-PHOTO-FROM-FB-PAGE_elsol.jpg?fit=408%2C435&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/TARGET-BOYCOTT-EARL-OFARI-HUTCHINSON-PHOTO-AT-TARGET-STORE-PHOTO-FROM-FB-PAGE_elsol.jpg?w=408&amp;ssl=1 408w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/TARGET-BOYCOTT-EARL-OFARI-HUTCHINSON-PHOTO-AT-TARGET-STORE-PHOTO-FROM-FB-PAGE_elsol.jpg?resize=281%2C300&amp;ssl=1 281w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/TARGET-BOYCOTT-EARL-OFARI-HUTCHINSON-PHOTO-AT-TARGET-STORE-PHOTO-FROM-FB-PAGE_elsol.jpg?resize=400%2C426&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/TARGET-BOYCOTT-EARL-OFARI-HUTCHINSON-PHOTO-AT-TARGET-STORE-PHOTO-FROM-FB-PAGE_elsol.jpg?fit=408%2C435&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Un destacado activista del sur de California se ha unido a la reacción nacional que golpea a Target pocos días después de que la cadena de tiendas revirtiera sus programas [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/29/target-enfrenta-boicot-en-los-angeles-por-revertir-programas-de-diversidad/">Target Enfrenta Boicot en Los Ángeles por Revertir Programas de Diversidad</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/29/target-enfrenta-boicot-en-los-angeles-por-revertir-programas-de-diversidad/>
+
+---
+
+## Las Autoridades Discuten un Posible Cronograma para la Limpieza en Los Ángeles Afectados por los Incendios Forestales
+
+date: 2025-01-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Los incendios forestales que devastaron Los Ángeles han sido sofocados, pero las preguntas sobre el proceso de limpieza aún se ciernen en el aire a medida que se disipa el [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/29/las-autoridades-discuten-un-posible-cronograma-para-la-limpieza-en-los-angeles-afectados-por-los-incendios-forestales/">Las Autoridades Discuten un Posible Cronograma para la Limpieza en Los Ángeles Afectados por los Incendios Forestales</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/29/las-autoridades-discuten-un-posible-cronograma-para-la-limpieza-en-los-angeles-afectados-por-los-incendios-forestales/>
+
+---
+
+## Una Familia Latina Pierde Su Casa, Pero no Su Hogar en la Querida Altadena
+
+date: 2025-01-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Carola-02-scaled.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Carola-02-scaled.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Carola-02-scaled.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Carola-02-scaled.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Carola-02-scaled.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Carola-02-scaled.jpg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Carola-02-scaled.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Carola-02-scaled.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Carola-02-scaled.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Carola-02-scaled.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Carola-02-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Carola-02-scaled.jpg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Carola-02-scaled.jpg?resize=1568%2C2091&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Carola-02-scaled.jpg?resize=2000%2C2667&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Carola-02-scaled.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Carola-02-scaled.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/Carola-02-scaled.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Lo que comenzó como un martes típico en la casa de Altadena de la familia Secada-Borrego, una pareja latina queer con dos hijos, cambió inesperadamente esa tarde cuando fuertes ráfagas [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/29/una-familia-latina-pierde-su-casa-pero-no-su-hogar-en-la-querida-altadena/">Una Familia Latina Pierde Su Casa, Pero no Su Hogar en la Querida Altadena</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/29/una-familia-latina-pierde-su-casa-pero-no-su-hogar-en-la-querida-altadena/>
+
+---
+
+## Con las Llamas a la Puerta, la Iglesia de Todos los Santos Fomenta la Unidad
+
+date: 2025-01-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_All-Saints_SN_06-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_All-Saints_SN_06-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_All-Saints_SN_06-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_All-Saints_SN_06-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_All-Saints_SN_06-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_All-Saints_SN_06-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_All-Saints_SN_06-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_All-Saints_SN_06-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_All-Saints_SN_06-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_All-Saints_SN_06-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_All-Saints_SN_06-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_All-Saints_SN_06-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_All-Saints_SN_06-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_All-Saints_SN_06-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_All-Saints_SN_06-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Mientras la Rda. Canóniga Susan Russell fue evacuada de su casa, se unió a su parroquia en la iglesia episcopal de Todos los Santos en Pasadena, para abrir sus puertas [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/29/con-las-llamas-a-la-puerta-la-iglesia-de-todos-los-santos-fomenta-la-unidad/">Con las Llamas a la Puerta, la Iglesia de Todos los Santos Fomenta la Unidad </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/29/con-las-llamas-a-la-puerta-la-iglesia-de-todos-los-santos-fomenta-la-unidad/>
+
+---
+
+## Expertos en Arquitectura Discuten la Pérdida de Monumentos Históricos en los Incendios Forestales de Los Ángeles
+
+date: 2025-01-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250125_203248239.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250125_203248239.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250125_203248239.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250125_203248239.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250125_203248239.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250125_203248239.jpg?resize=1536%2C1156&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250125_203248239.jpg?resize=2048%2C1542&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250125_203248239.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250125_203248239.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250125_203248239.jpg?resize=1200%2C903&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250125_203248239.jpg?resize=1568%2C1180&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250125_203248239.jpg?resize=2000%2C1506&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250125_203248239.jpg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/PXL_20250125_203248239.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los incendios de Palisades y Eaton están casi sofocados después de arder durante más de tres semanas, destruyendo 16,000 estructuras en Los Ángeles: casas, negocios y monumentos preciados. Muchos eran [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/29/expertos-en-arquitectura-discuten-la-perdida-de-monumentos-historicos-en-los-incendios-forestales-de-los-angeles/">Expertos en Arquitectura Discuten la Pérdida de Monumentos Históricos en los Incendios Forestales de Los Ángeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/29/expertos-en-arquitectura-discuten-la-perdida-de-monumentos-historicos-en-los-incendios-forestales-de-los-angeles/>
+
+---
+
+## El Video se Suma a las Acusaciones de que la Torre de Transmisión de Edison fue el Origen del Incendio de Eaton
+
+date: 2025-01-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_LA-Fire-Justice_SN_05.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_LA-Fire-Justice_SN_05.jpeg?w=2472&amp;ssl=1 2472w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_LA-Fire-Justice_SN_05.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_LA-Fire-Justice_SN_05.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_LA-Fire-Justice_SN_05.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_LA-Fire-Justice_SN_05.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_LA-Fire-Justice_SN_05.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_LA-Fire-Justice_SN_05.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_LA-Fire-Justice_SN_05.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_LA-Fire-Justice_SN_05.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_LA-Fire-Justice_SN_05.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_LA-Fire-Justice_SN_05.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_LA-Fire-Justice_SN_05.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_LA-Fire-Justice_SN_05.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/01/01272025_LA-Fire-Justice_SN_05.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Esta semana se publicó evidencia en video que afirma que un mal funcionamiento en el equipo de Southern California Edison (SCE) fue la fuente del incendio de Eaton. Los abogados [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/01/29/el-video-se-suma-a-las-acusaciones-de-que-la-torre-de-transmision-de-edison-fue-el-origen-del-incendio-de-eaton/">El Video se Suma a las Acusaciones de que la Torre de Transmisión de Edison fue el Origen del Incendio de Eaton</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/01/29/el-video-se-suma-a-las-acusaciones-de-que-la-torre-de-transmision-de-edison-fue-el-origen-del-incendio-de-eaton/>
+
+---
+
+## New fire eviction protections sent back to committee as LA City Council again delays vote
+
+date: 2025-01-30, updated: 2025-01-30, from: The LAist
+
+Los Angeles councilmembers spar over a proposal to give new safeguards to tenants who lost income because of the fires. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-city-council-fire-eviction-moratorium-rent-increase-vote>
+
+---
+
+## Researchers share detailed air quality data as questions linger over toxic chemicals
+
+date: 2025-01-30, updated: 2025-01-30, from: The LAist
+
+Researchers contributing to the ASCENT network of air quality sensors observed spikes in lead and chlorine downwind from the Eaton Fire — and their measurements are now publicly available. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/researchers-share-detailed-air-quality-data-as-questions-linger-over-toxic-chemicals>
+
+---
+
+## Everything you need to know about LA County's free fire debris removal program
+
+date: 2025-01-29, updated: 2025-01-30, from: The LAist
+
+Phase 1 has started, but not without controversy. Phase 2 is optional, and residents can choose the contractor they want to work with. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-county-free-fire-debris-removal-program-what-to-know-guide>
+
+---
+
+## City Receives Prestigious “Achievement of Excellence in Procurement Award” for Purchasing
+
+date: 2025-01-29, from: City of Santa Clarita
+
+<p>The City of Santa Clarita has been awarded the prestigious 2024 Annual Achievement of Excellence in Procurement (AEP) from the National Procurement Institute, Inc. (NPI). This is the fourteenth time the City has received this award in recognition of Santa Clarita’s purchasing policies and practices.  The AEP Award is earned by public and nonprofit organizations [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/29/city-receives-prestigious-achievement-of-excellence-in-procurement-award-for-purchasing/">City Receives Prestigious &#8220;Achievement of Excellence in Procurement Award&#8221; for Purchasing</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/29/city-receives-prestigious-achievement-of-excellence-in-procurement-award-for-purchasing/>
+
+---
+
+## ICE raids in California: How to sort fact from rumor online
+
+date: 2025-01-29, updated: 2025-01-29, from: The LAist
+
+We spoke to immigration experts and advocates about what to know about current ICE operations in California and how to avoid sharing misinformation about raids yourself — even with the best of intentions. 
+
+<br> 
+
+<https://laist.com/news/ice-raids-california-fact-from-rumor-online>
+
+---
+
+## Here's how climate change fueled the Los Angeles fires
+
+date: 2025-01-29, updated: 2025-01-29, from: The LAist
+
+Extreme conditions helped drive the fast-moving fires that destroyed thousands of homes in the Pacific Palisades and Altadena. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/climate-change-los-angeles-fires>
+
+---
+
+## State Bar orders suspension of former OC Supervisor Andrew Do's law license
+
+date: 2025-01-29, updated: 2025-01-29, from: The LAist
+
+Step 1 is suspending Andrew Do's law license, which goes into effect Feb. 10 and is a precursor to potential disbarment. 
+
+<br> 
+
+<https://laist.com/news/politics/state-bar-takes-first-steps-toward-revoking-former-oc-supervisor-andrew-dos-law-license>
+
+---
+
+## 2025 Greater Los Angeles Homeless Count Rescheduled
+
+date: 2025-01-29, from: City of Santa Clarita
+
+<p>The 2025 Greater Los Angeles Homeless Count has officially been rescheduled to Tuesday, February 18. This annual event between the City of Santa Clarita, the Los Angeles Homeless Services Authority (LAHSA) and our local non-profit Bridge to Home, counts Santa Clarita neighbors currently experiencing unsheltered homelessness. The data received from the point-in-time count will assist [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/29/2025-greater-los-angeles-homeless-count-rescheduled/">2025 Greater Los Angeles Homeless Count Rescheduled</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/29/2025-greater-los-angeles-homeless-count-rescheduled/>
+
+---
+
+## What California can learn from Texas on rebuilding after a natural disaster
+
+date: 2025-01-29, updated: 2025-01-29, from: The LAist
+
+An Assembly bill by John Harabedian aims to speed up housing recovery after the L.A. fires through a state-led task force. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/what-california-can-learn-from-texas-on-rebuilding-after-a-natural-disaster>
+
+---
+
+## Trump signs an order restricting gender-affirming care for minors
+
+date: 2025-01-29, updated: 2025-01-29, from: The LAist
+
+President Trump signed an executive order seeking to end gender-affirming medical treatments for children and teenagers under the age of 19. 
+
+<br> 
+
+<https://laist.com/news/health/trump-signs-order-restricting-gender-affirming-care-minors>
+
+---
+
+## Food holds special meaning on the Lunar New Year. Readers share their favorite dishes
+
+date: 2025-01-29, updated: 2025-01-29, from: The LAist
+
+Many dishes eaten during the Lunar New Year are special to the holiday. NPR readers shared their most cherished dishes. 
+
+<br> 
+
+<https://laist.com/news/food/food-lunar-new-year-favorite-dishes>
+
+---
+
+## My godfather was a Black aerospace engineer who worked on the Apollo moon mission. I knew his story had to be told
+
+date: 2025-01-29, updated: 2025-01-29, from: The LAist
+
+The new LAist Studios podcast, LA Made: The Other Moonshot, explores the experiences of three Black aerospace engineers in L.A. who overcame daily discrimination to make key contributions to the space race. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/my-godfather-was-a-black-aerospace-engineer-who-worked-on-the-apollo-moon-mission>
+
+---
+
+## What happens to large animals evacuated in a fire? Here's how they're taken care of
 
 date: 2025-01-29, updated: 2025-01-29, from: The LAist
 
@@ -30,18 +349,6 @@ The federal government recently settled with Orange County over reforms. But a p
 <br> 
 
 <https://laist.com/news/criminal-justice/is-the-oc-snitch-scandal-over-why-theres-no-easy-answer>
-
----
-
-## My godfather was a Black aerospace engineer who worked on the Apollo moon mission. I knew his story had to be told
-
-date: 2025-01-29, updated: 2025-01-29, from: The LAist
-
-The new LAist Studios podcast, LA Made: The Other Moonshot, explores the experiences of three Black aerospace engineers in L.A. who overcame daily discrimination to make key contributions to the space race. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/my-godfather-was-a-black-aerospace-engineer-who-worked-on-the-apollo-moon-mission>
 
 ---
 

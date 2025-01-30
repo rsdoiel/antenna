@@ -1,11 +1,525 @@
 ---
 title: pacific
-updated: 2025-01-29 07:04:54
+updated: 2025-01-30 07:04:46
 ---
 
 # pacific
 
-(date: 2025-01-29 07:04:54)
+(date: 2025-01-30 07:04:46)
+
+---
+
+## 23-year-old solid waste case not yet over; feds seek $3.9M payment from, Guam for Ordot cleanup
+
+date: 2025-01-30, from: Pacific Island Times
+
+By Mar-Vic Cagurangan   The U.S. Department of Justice is seeking to require Guam to pay $3.9 million to recover the costs incurred by... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/23-year-old-solid-waste-case-not-yet-over-feds-seek-3-9m-payment-from-guam-for-ordot-cleanup>
+
+---
+
+## Guam ratepayers to get 6-month relief with lower fuel recovery charge 
+
+date: 2025-01-30, from: Pacific Island Times
+
+ Customers will see the lower Fuel Recovery Charge rate reflected in their power bills starting Feb. 1.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-ratepayers-to-get-6-month-relief-with-lower-fuel-recovery-charge>
+
+---
+
+## Guam governor nominates new members for land trust commission; Ibanez appeals his dismissal
+
+date: 2025-01-30, from: Pacific Island Times
+
+Gov. Lou Leon Guerrero has nominated a real estate broker and an insurance executive to serve on the CHamoru Land Trust Commission’s board 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-governor-nominates-new-members-for-land-trust-board-ibanez-appeals-his-dismissal>
+
+---
+
+## Pressed by lawmakers, RFK Jr. fumbles details of key health programs
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Robert F. Kennedy Jr., whose antipathy toward vaccines and messages about healthy living helped him build a large national following, faced bruising questions from Democratic senators in his first confirmation hearing Wednesday. He displayed limited knowledge of critical programs at times and struggled to convince skeptical lawmakers that he was not &#8220;anti-vaccine.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/nation-world-news/pressed-by-lawmakers-rfk-jr-fumbles-details-of-key-health-programs/>
+
+---
+
+## American Airlines jet, Army helicopter collide, crash into Washington’s Potomac River
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; An American Airlines regional passenger jet and a U.S. Army Black Hawk helicopter crashed into the frigid Potomac River after a midair collision near Reagan Washington National Airport on Wednesday night, officials said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/nation-world-news/american-airlines-jet-army-helicopter-collide-crash-into-washingtons-potomac-river/>
+
+---
+
+## Immigration enforcement measures draw support
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>Four state bills relating to immigration enforcement cleared their first legislative hurdle Wednesday, with all being passed 7-0 by the House Committee on Economic Development and Technology.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/hawaii-news/immigration-enforcement-measures-draw-support/>
+
+---
+
+## Trump officials lift aid freeze after uproar, but review will proceed
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The White House on Wednesday rescinded a directive that froze trillions of dollars in federal grants and loans after the order led to mass confusion and legal challenges that accused the Trump administration of violating the law.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/nation-world-news/trump-officials-lift-aid-freeze-after-uproar-but-review-will-proceed/>
+
+---
+
+## Citizen scientists reclaim Japan’s nuclear disaster zone
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>ODAKA, Japan &#8212; Every year when winter finally loosens its grip on northern Japan, Tomoko Kobayashi begins what has become an annual rite for her and a small band of collaborators. They head out with measuring devices to keep tabs on an invisible threat that still pollutes the mountains and forests around their homes: radioactivity.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/nation-world-news/citizen-scientists-reclaim-japans-nuclear-disaster-zone/>
+
+---
+
+## News in brief for January 30
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>Rebel leader who overthrew&#0010;Assad declared Syria&#8217;s president</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/nation-world-news/news-in-brief-for-january-30/>
+
+---
+
+## Transportation secretary seeks rollback of Biden’s fuel economy standards
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>The newly confirmed transportation secretary, Sean Duffy, signed an order Tuesday seeking to roll back key fuel economy standards set by President Joe Biden.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/nation-world-news/transportation-secretary-seeks-rollback-of-bidens-fuel-economy-standards/>
+
+---
+
+## Trump signs bill easing deportation of immigrants accused of crimes
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump signed a bill on Wednesday to require the detention of migrants who enter the country without authorization and are arrested or charged with certain crimes, the first legislation of his new presidency and an early victory in his effort to deliver a sweeping crackdown on immigration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/nation-world-news/trump-signs-bill-easing-deportation-of-immigrants-accused-of-crimes/>
+
+---
+
+## Fed leaves rates unchanged, sees no hurry to cut again
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. central bank held interest rates steady on Wednesday and Federal Reserve Chair Jerome Powell said there would be no rush to cut them again until inflation and jobs data made it appropriate.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/nation-world-news/fed-leaves-rates-unchanged-sees-no-hurry-to-cut-again/>
+
+---
+
+## ‘Love The Arts’ fundraiser set for February in Volcano
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>This year marks the 20th year of the annual &#8220;Love The Arts&#8221; gala fundraiser in Volcano.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/community/love-the-arts-fundraiser-set-for-february-in-volcano/>
+
+---
+
+## Public invited to 14th annual Wiliwili Festival
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>The 14th annual Wiliwili Festival will take place from 9 a.m. to 3 p.m. on Saturday, Feb. 8, at the Waikoloa Dry Forest Preserve.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/community/public-invited-to-14th-annual-wiliwili-festival/>
+
+---
+
+## Keaau High hosts ClimbHI Exposure Fair
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>Over 300 students from Keaau High School and 30 businesses and organizations participated Tuesday in the school&#8217;s first-ever ClimbHI Exposure Fair.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/community/keaau-high-hosts-climbhi-exposure-fair/>
+
+---
+
+## JCAH banquet is set for Feb. 6
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>The Hilo-based Japanese Community Association of Hawaii is pleased to announce that this year&#8217;s Shinnen Enkai (New Year&#8217;s celebration) Banquet will include celebrating JCAH&#8217;s milestone 50th anniversary &#8212; along with the installation of officers and directors &#8212; on Thursday, Feb. 6, at the Hilo Hawaiian Hotel, Moku&#8217;ola Room, starting at 4:30 pm.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/community/jcah-banquet-is-set-for-feb-6/>
+
+---
+
+## American Children’s Reading Skills Reach New Lows
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>In the latest release of federal test scores, educators had hoped to see widespread recovery from the learning loss incurred during the COVID-19 pandemic.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/nation-world-news/american-childrens-reading-skills-reach-new-lows/>
+
+---
+
+## What to know about Trump’s plan to slash the federal workforce
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration has offered roughly 2 million government employees the option to resign and continue being paid for several months, a move that could significantly reduce the size of the federal workforce. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/nation-world-news/what-to-know-about-trumps-plan-to-slash-the-federal-workforce/>
+
+---
+
+## Former Sen. Bob Menendez is sentenced to 11 years in prison
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Bob Menendez, New Jersey&#8217;s disgraced former senator who was once one of the most powerful Democrats in Washington, was sentenced Wednesday to 11 years in prison after being convicted of being at the center of an audacious international bribery scheme.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/nation-world-news/former-sen-bob-menendez-is-sentenced-to-11-years-in-prison/>
+
+---
+
+## Home is Here Lanai Cat Sanctuary, Kenyatta Kelechi, Keiki Zoo
+
+date: 2025-01-30, from: Home is Here
+
+<p>The post <a href="https://www.pbshawaii.org/home-is-here-lanai-cat-sanctuary-kenyatta-kelechi-keiki-zoo/">Home is Here &lt;br/&gt;Lanai Cat Sanctuary, Kenyatta Kelechi, Keiki Zoo</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/home-is-here-lanai-cat-sanctuary-kenyatta-kelechi-keiki-zoo/>
+
+---
+
+## Marshall Islands establishes marine sanctuary 
+
+date: 2025-01-30, from: Pacific Island Times
+
+The Marshall Islands has announced the protection of two of its northernmost and remote isles, Bikar and Bokak.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/marshall-islands-establishes-marine-sanctuary>
+
+---
+
+## Water storage for remote islands
+
+date: 2025-01-30, from: Marshal Islands Journal
+
+<p>The first training session for local carpenters and plumbers was successfully completed on Mejatto Island as part of the Addressing Climate Change Vulnerability in the Water Sector (ACWA) project. This project, led by the United Nations Development Program, aims to help the people of the Marshall Islands better cope with the effects of climate change, [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/water-storage-for-remote-islands/">Water storage for remote islands</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/water-storage-for-remote-islands/>
+
+---
+
+## EPA warns polluters
+
+date: 2025-01-30, from: Marshal Islands Journal
+
+<p>RMI EPA General Manager Moriana Phillip warned would-be polluters of Majuro lagoon that EPA is focused on monitoring and enforcement of fines for polluters. In a social media post that included photos of EPA staff checking fishing-related vessels anchored in the lagoon and the lagoon generally, Phillip underlined the point that “EPA maintains presence in [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/epa-warns-polluters/">EPA warns polluters</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/epa-warns-polluters/>
+
+---
+
+## King Kamehameha III’s ‘queer love and resistance’ at Palikū Theatre
+
+date: 2025-01-30, from: University of Hawaiʻi News
+
+<p>Historical drama details the &#8220;joint king&#8221; of Kamehameha <abbr title="Roman numeral three">III</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/29/paliku-theatre-aloha-kaua/">King Kamehameha <abbr>III</abbr>’s ‘queer love and resistance’ at Palikū Theatre</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/29/paliku-theatre-aloha-kaua/>
+
+---
+
+## Trump directive halts Guam’s ocean wind farm initiative
+
+date: 2025-01-30, from: Pacific Island Times
+
+Trump’s executive order will suspend Guam’s off-shore wind farm development
+
+announced by the Biden administration on Jan. 6. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/trump-directive-halts-guam-s-ocean-wind-farm-initiative>
+
+---
+
+## President Hensel: UH monitoring federal policy changes
+
+date: 2025-01-30, from: University of Hawaiʻi News
+
+<p>&#8220;I am writing to assure our community that we are paying close attention to these developments and working to address issues as they are identified.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/29/uh-monitoring-federal-policy-changes/">President Hensel: <abbr>UH</abbr> monitoring federal policy changes</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/29/uh-monitoring-federal-policy-changes/>
+
+---
+
+## Former Senator Menendez sentenced to 11 years in prison in gold bar bribery case
+
+date: 2025-01-30, updated: 2025-01-30, from: Marianas Variety
+
+NEW YORK (Reuters) — Former U.S. Senator Bob Menendez was sentenced on Wednesday to 11 years in prison for taking bribes including gold bars in exchange for favors for Egypt and New Jersey businessmen. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/former-senator-menendez-sentenced-to-11-years-in-prison-in-gold-bar-bribery-case/article_5f8a64c2-dea1-11ef-92c2-978e23491715.html>
+
+---
+
+## While House rescinds freeze on federal programs 
+
+date: 2025-01-29, from: Pacific Island Times
+
+By Pacific Island Times News Staff Gov. Lou Leon Guerrero welcomed the Trump administration's recall of a  memo imposing a freeze on... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/federal-program-stay-status-quo-pending-court-ruling>
+
+---
+
+## Groundbreaking UH study advances national food system collaboration
+
+date: 2025-01-29, from: University of Hawaiʻi News
+
+<p>A new study highlights the necessity of a coordinated national network to improve sustainable agriculture, food security and public health.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/29/advances-to-national-food-system-collaboration/">Groundbreaking <abbr>UH</abbr> study advances national food system collaboration</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/29/advances-to-national-food-system-collaboration/>
+
+---
+
+## Huge marine sanctuary established
+
+date: 2025-01-29, from: Marshal Islands Journal
+
+<p>The RMI’s first national marine sanctuary was officially established Tuesday evening at a signing ceremony at the International Conference Center. President Hilda C. Heine joined with Iroojlaplap Boklon Zackious, Minister of Natural Resources and Commerce Tony Muller, Utrok Nitijela Member Hiroshi Yamamura, and Utrok Mayor Tobin Kaiko in signing documents to establish the RMI’s first [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/huge-marine-sanctuary-established/">Huge marine sanctuary established</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/huge-marine-sanctuary-established/>
+
+---
+
+## Image of the Week: Boudreaux Smiley
+
+date: 2025-01-29, from: University of Hawaiʻi News
+
+<p>This week's image is from <abbr>UH</abbr> Mānoa's Rylie Waldron.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/29/image-of-the-week-boudreaux-smiley/">Image of the Week: Boudreaux Smiley</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/29/image-of-the-week-boudreaux-smiley/>
+
+---
+
+## Hawaiʻi schools facing chronic underfunding, report reveals
+
+date: 2025-01-29, from: University of Hawaiʻi News
+
+<p>The report aims to counter widespread misconceptions about the state’s educational challenges.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/29/underfunding-hawaii-public-schools/">Hawaiʻi schools facing chronic underfunding, report reveals</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/29/underfunding-hawaii-public-schools/>
+
+---
+
+## 'It's hard to get people volunteer for board, commission jobs'
+
+date: 2025-01-29, updated: 2025-01-30, from: Marianas Variety
+
+“SOMETIMES, the people themselves, it’s hard to get them to volunteer,” Gov. Arnold I. Palacios said on Wednesday, when asked about the vacancies on government boards and commissions. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/its-hard-to-get-people-volunteer-for-board-commission-jobs/article_f37dc206-ddf6-11ef-974c-436cb844ae82.html>
+
+---
+
+## Mendiola names Magofna Senate representative to Workforce Development Board
+
+date: 2025-01-29, updated: 2025-01-30, from: Marianas Variety
+
+SENATE President Dennis James C. Mendiola appointed Sen. Corina L. Magofna on Friday to represent the 24th Senate on the CNMI State Workforce Development Board. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/mendiola-names-magofna-senate-representative-to-workforce-development-board/article_dc5fb31a-dde0-11ef-9ae9-67a2bbc48ea9.html>
+
+---
+
+## Secure your seat today for the Saipan Chamber of Commerce’s 1st general membership meeting of 2025
+
+date: 2025-01-29, updated: 2025-01-30, from: Marianas Variety
+
+(SCC) — The Saipan Chamber of Commerce invites community members to attend its first general membership meeting of 2025 on Wednesday, Feb. 5, 2025, from 11:30 a.m. to 1 p.m. at the Queens Hall, Kensington Hotel Saipan. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/secure-your-seat-today-for-the-saipan-chamber-of-commerce-s-1st-general-membership-meeting/article_a1f3493a-de35-11ef-871e-479ab343bc58.html>
+
+---
+
+## Launching Teen Dating Violence Awareness Month with a proclamation signing ceremony on Feb. 3
+
+date: 2025-01-29, updated: 2025-01-30, from: Marianas Variety
+
+(NMCADSV) — The Northern Marianas Coalition Against Domestic &amp; Sexual Violence and its community partners invite the public to the Teen Dating Violence Awareness Month proclamation signing ceremony. The event will be held on Monday, Feb. 3, 2025, at 10 a.m. at Francisco M. Sablan Middle School in San Antonio, Saipan. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/launching-teen-dating-violence-awareness-month-with-a-proclamation-signing-ceremony-on-feb-3/article_11a821b0-de36-11ef-8dde-ebb581291cec.html>
+
+---
+
+## Philippine Consulate General advisory
+
+date: 2025-01-29, updated: 2025-01-30, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/philippine-consulate-general-advisory/article_d7ac7bb8-de36-11ef-bc2a-fb58313b0fc1.html>
+
+---
+
+## ‘I’m Still Here’ spotlights Brazil's authoritarian past
+
+date: 2025-01-29, updated: 2025-01-30, from: Marianas Variety
+
+RIO DE JANEIRO (Reuters) — A white house in a quiet corner of the city of Rio de Janeiro, Brazil, has been attracting a stream of visitors in recent weeks. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/i-m-still-here-spotlights-brazils-authoritarian-past/article_17a55900-de38-11ef-bc29-f729f016844b.html>
+
+---
+
+## Youth Congress welcomes new member
+
+date: 2025-01-29, updated: 2025-01-30, from: Marianas Variety
+
+THE 19th CNMI Youth Congress, during its first special session on Jan. 18, 2025, welcomed its newest member, Saipan Southern High School’s Mathew Salas. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/youth-congress-welcomes-new-member/article_f184125a-dde4-11ef-9958-cbf2f519fac1.html>
 
 ---
 
@@ -244,6 +758,20 @@ date: 2025-01-29, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/01/29/hawaii-news/forecast-warns-of-potentially-nasty-weather-through-friday/>
+
+---
+
+## Woman, 21, critically injured in Puna traffic collision dies
+
+date: 2025-01-29, from: Hawaii Tribune Harold
+
+
+				<p>The 21-year-old female pedestrian involved in a traffic collision on Wednesday, Jan. 22, on Highway 11 in the area of the 10-mile marker in Kurtistown has died, according to police.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/29/hawaii-news/woman-21-critically-injured-in-puna-traffic-collision-dies/>
 
 ---
 
@@ -659,14 +1187,14 @@ date: 2025-01-28, from: Island Times
 
 ---
 
-## Aimeliik students Explore Creativity through Music and Dance with German support
+## Aimeliik Students Embrace Music and Dance with German-Funded Program
 
 date: 2025-01-28, from: Island Times
 
 <figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG-20250127-WA0007.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG-20250127-WA0007.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG-20250127-WA0007.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG-20250127-WA0007.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG-20250127-WA0007.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG-20250127-WA0007.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG-20250127-WA0007.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG-20250127-WA0007.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG-20250127-WA0007.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75282" data-permalink="https://islandtimes.org/aimeliik-students-explore-creativity-through-music-and-dance-with-german-support/img-20250127-wa0007/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG-20250127-WA0007.jpg?fit=1280%2C720&amp;ssl=1" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="IMG-20250127-WA0007" data-image-description="" data-image-caption="&lt;p&gt;Photo credIt: mS. BenIna BerJer.&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG-20250127-WA0007.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/IMG-20250127-WA0007.jpg?fit=780%2C439&amp;ssl=1" /></figure>
-<p>Students at Aimeliik Elementary School are discovering the joy of music and dance, thanks to a grant from Germany that has provided musical instruments and training opportunities. The initiative, which began in 2022 with the delivery of initial instruments, recently expanded to include additional instruments and workshops for both students and teachers. Teachers received hands-on [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/aimeliik-students-explore-creativity-through-music-and-dance-with-german-support/">Aimeliik students Explore Creativity through Music and Dance with German support</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+<p>Students at Aimeliik Elementary School are enhancing their creativity through a German-funded music and dance program that provides instruments and hands-on training. Led by music instructor Benina Berger, the initiative fosters confidence, teamwork, and artistic expression among young learners. Since its launch in 2019, the program has expanded with new instruments and workshops, benefiting both [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/aimeliik-students-explore-creativity-through-music-and-dance-with-german-support/">Aimeliik Students Embrace Music and Dance with German-Funded Program&lt;gwmw style=&quot;display:none;&quot;&gt;&lt;/gwmw&gt;&lt;gwmw style=&quot;display:none;&quot;&gt;&lt;/gwmw&gt;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
 
 <br> 
@@ -679,7 +1207,7 @@ date: 2025-01-28, from: Island Times
 
 date: 2025-01-28, from: Island Times
 
-<figure><img width="1024" height="655" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?fit=1024%2C655&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?resize=300%2C192&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?resize=1024%2C655&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?resize=768%2C491&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?resize=1200%2C768&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?resize=400%2C256&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?resize=706%2C452&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?fit=1024%2C655&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75279" data-permalink="https://islandtimes.org/celebrating-42-years/sonsorol-42nd-constitutional-anniversary/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?fit=1249%2C799&amp;ssl=1" data-orig-size="1249,799" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Sonsorol 42nd Constitutional Anniversary" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?fit=300%2C192&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?fit=780%2C499&amp;ssl=1" /></figure>
+<figure><img width="1024" height="655" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?fit=1024%2C655&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?resize=300%2C192&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?resize=1024%2C655&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?resize=768%2C491&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?resize=1200%2C768&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?resize=400%2C256&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?resize=706%2C452&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?fit=1024%2C655&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75279" data-permalink="https://islandtimes.org/celebrating-42-years/sonsorol-42nd-constitutional-anniversary/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?fit=1249%2C799&amp;ssl=1" data-orig-size="1249,799" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Sonsorol 42nd Constitutional Anniversary" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?fit=300%2C192&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-42nd-Constitutional-Anniversary.jpg?fit=780%2C499&amp;ssl=1" /></figure>
 <p>Sonsorol State honors its Constitution KOROR, Palau – Sonsorol State celebrated its 42nd Constitutional Day on January 22, 2025, with a vibrant gathering at the Belau National Museum. Approximately 40 to 50 attendees, including community members, traditional leaders, government officials, and framers of the Sonsorol Constitution, came together to mark the occasion. Delegate Yutaka Gibbons [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/celebrating-42-years/">Celebrating 42 Years</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -708,7 +1236,7 @@ date: 2025-01-28, from: Island Times
 
 date: 2025-01-28, from: Island Times
 
-<figure><img width="1024" height="881" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?fit=1024%2C881&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?resize=300%2C258&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?resize=1024%2C881&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?resize=768%2C660&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?resize=1200%2C1032&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?resize=400%2C344&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?resize=706%2C607&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?fit=1024%2C881&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75273" data-permalink="https://islandtimes.org/cultural-day-highlights-sonsorols-traditions-through-cuisine-and-performances/sonsorol-culture-day/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?fit=1249%2C1074&amp;ssl=1" data-orig-size="1249,1074" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Sonsorol Culture Day" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?fit=300%2C258&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?fit=780%2C671&amp;ssl=1" /></figure>
+<figure><img width="1024" height="881" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?fit=1024%2C881&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?resize=300%2C258&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?resize=1024%2C881&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?resize=768%2C660&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?resize=1200%2C1032&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?resize=400%2C344&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?resize=706%2C607&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?fit=1024%2C881&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75273" data-permalink="https://islandtimes.org/cultural-day-highlights-sonsorols-traditions-through-cuisine-and-performances/sonsorol-culture-day/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?fit=1249%2C1074&amp;ssl=1" data-orig-size="1249,1074" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Sonsorol Culture Day" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?fit=300%2C258&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Sonsorol-Culture-Day.jpg?fit=780%2C671&amp;ssl=1" /></figure>
 <p>AIRAI, Palau – Over 80 people gathered at Klubed in Airai on Saturday, January 25, to celebrate Sonsorol State’s second annual Cultural Day. While the official holiday is observed on January 23, the weekend scheduling allowed for greater community participation. This year’s event, themed “Rru, Sirihetir Haduri Faruyas” (Our Culture, Our Heritage, Our Future), showcased [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/cultural-day-highlights-sonsorols-traditions-through-cuisine-and-performances/">Cultural Day highlights Sonsorol’s traditions through cuisine and performances</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -737,7 +1265,7 @@ date: 2025-01-28, from: Island Times
 
 date: 2025-01-28, from: Island Times
 
-<figure><img width="900" height="579" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?fit=900%2C579&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?resize=300%2C193&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?resize=768%2C494&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?resize=400%2C257&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?resize=706%2C454&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?fit=900%2C579&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75265" data-permalink="https://islandtimes.org/ngatpang-leaders-highlight-progress-on-43rd-constitution-day/ngatpang-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?fit=900%2C579&amp;ssl=1" data-orig-size="900,579" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="ngatpang" data-image-description="" data-image-caption="&lt;p&gt;(Photo credits: TMC)&lt;/p&gt;
+<figure><img width="900" height="579" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?fit=900%2C579&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?resize=300%2C193&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?resize=768%2C494&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?resize=400%2C257&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?resize=706%2C454&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?fit=900%2C579&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75265" data-permalink="https://islandtimes.org/ngatpang-leaders-highlight-progress-on-43rd-constitution-day/ngatpang-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?fit=900%2C579&amp;ssl=1" data-orig-size="900,579" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="ngatpang" data-image-description="" data-image-caption="&lt;p&gt;(Photo credits: TMC)&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?fit=300%2C193&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/ngatpang.jpg?fit=780%2C502&amp;ssl=1" /></figure>
 <p>By: Samantha Iyar KOROR, Palau (Jan. 24, 2025) – Ngatpang State marked the 43rd anniversary of its Constitution with a commemorative event held at Ming’s Restaurant in the Palasia Hotel. From 11 a.m. to 2 p.m., state leaders, constitutional framers, and community members gathered to honor the milestone and reflect on the state’s governance journey. [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/ngatpang-leaders-highlight-progress-on-43rd-constitution-day/">Ngatpang leaders highlight progress on 43rd Constitution Day</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
@@ -753,7 +1281,7 @@ date: 2025-01-28, from: Island Times
 
 date: 2025-01-28, from: Island Times
 
-<figure><img width="900" height="636" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?fit=900%2C636&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?resize=300%2C212&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?resize=768%2C543&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?resize=400%2C283&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?resize=706%2C499&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?fit=900%2C636&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75259" data-permalink="https://islandtimes.org/picrcs-supporters-donate-over-114000-at-the-24th-anniversary-fundraising-gala-dinner/picrcgala2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?fit=900%2C636&amp;ssl=1" data-orig-size="900,636" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PICRCGala2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?fit=300%2C212&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?fit=780%2C551&amp;ssl=1" /></figure>
+<figure><img width="900" height="636" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?fit=900%2C636&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?resize=300%2C212&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?resize=768%2C543&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?resize=400%2C283&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?resize=706%2C499&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?fit=900%2C636&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75259" data-permalink="https://islandtimes.org/picrcs-supporters-donate-over-114000-at-the-24th-anniversary-fundraising-gala-dinner/picrcgala2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?fit=900%2C636&amp;ssl=1" data-orig-size="900,636" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PICRCGala2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?fit=300%2C212&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/PICRCGala2.jpg?fit=780%2C551&amp;ssl=1" /></figure>
 <p>The Palau International Coral Reef Center (PICRC) celebrated its 24th anniversary on Thursday, January 23, with a fundraising gala dinner held on its grounds. Centered on the theme “Resilient Ocean, Resilient Community”, the event acknowledged the Center&#8217;s continued commitment to conserving Palau&#8217;s marine ecosystems for the people and strengthening local communities in the face of [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/picrcs-supporters-donate-over-114000-at-the-24th-anniversary-fundraising-gala-dinner/">PICRC’s supporters donate over $114,000 at the 24th Anniversary Fundraising Gala Dinner</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -768,7 +1296,7 @@ date: 2025-01-28, from: Island Times
 
 date: 2025-01-28, from: Island Times
 
-<figure><img width="582" height="661" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Klei-Headshot-e1738023442257.jpg?fit=582%2C661&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Klei-Headshot-e1738023442257.jpg?w=582&amp;ssl=1 582w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Klei-Headshot-e1738023442257.jpg?resize=264%2C300&amp;ssl=1 264w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Klei-Headshot-e1738023442257.jpg?resize=400%2C454&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Klei-Headshot-e1738023442257.jpg?fit=582%2C661&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75255" data-permalink="https://islandtimes.org/pcc-student-to-participate-in-jenesys-program/klei-headshot/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Klei-Headshot-e1738023442257.jpg?fit=582%2C661&amp;ssl=1" data-orig-size="582,661" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Klei Headshot" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Klei-Headshot-e1738023442257.jpg?fit=264%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Klei-Headshot-e1738023442257.jpg?fit=582%2C661&amp;ssl=1" /></figure>
+<figure><img width="582" height="661" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Klei-Headshot-e1738023442257.jpg?fit=582%2C661&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Klei-Headshot-e1738023442257.jpg?w=582&amp;ssl=1 582w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Klei-Headshot-e1738023442257.jpg?resize=264%2C300&amp;ssl=1 264w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Klei-Headshot-e1738023442257.jpg?resize=400%2C454&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Klei-Headshot-e1738023442257.jpg?fit=582%2C661&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75255" data-permalink="https://islandtimes.org/pcc-student-to-participate-in-jenesys-program/klei-headshot/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Klei-Headshot-e1738023442257.jpg?fit=582%2C661&amp;ssl=1" data-orig-size="582,661" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Klei Headshot" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Klei-Headshot-e1738023442257.jpg?fit=264%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Klei-Headshot-e1738023442257.jpg?fit=582%2C661&amp;ssl=1" /></figure>
 <p>Palau Community College student, Ms. Klei N. Andreas, has been selected to participate in the JENESYS Program in Japan from January 28th to February 6th, 2025. The JENESYS Program, funded by the Japanese Government, aims to foster friendship and cultural exchange between Japan and the Asia-Pacific region. During her 9-day visit to Japan, Ms. Andreas [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/pcc-student-to-participate-in-jenesys-program/">PCC student to participate in JENESYS program</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -783,7 +1311,7 @@ date: 2025-01-28, from: Island Times
 
 date: 2025-01-28, from: Island Times
 
-<figure><img width="600" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?resize=400%2C378&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="59961" data-permalink="https://islandtimes.org/raumatic-grief/womens-corner-1-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" data-orig-size="600,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" /></figure>
+<figure><img width="600" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?resize=400%2C378&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="59961" data-permalink="https://islandtimes.org/raumatic-grief/womens-corner-1-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" data-orig-size="600,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" /></figure>
 <p>Imagine with me a sunrise filling the sky with breathtaking colors: pinks, oranges, and yellows. This sight is so magnificent, it’s as if heaven has touched earth. Have you ever wished to become the sun? Did you feel a pang of sadness knowing you could never paint the sky with those exact hues? Of course [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/in-his-glory/">In His Glory</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -840,7 +1368,7 @@ date: 2025-01-28, from: Island Times
 
 date: 2025-01-28, from: Island Times
 
-<figure><img width="1024" height="686" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?fit=1024%2C686&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?resize=300%2C201&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?resize=1024%2C686&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?resize=768%2C515&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?resize=1200%2C804&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?resize=400%2C268&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?resize=706%2C473&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?fit=1024%2C686&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75236" data-permalink="https://islandtimes.org/soldiers-from-occupied-ukraine-torn-by-trumps-peace-vows/ukraine-us-russia-conflict-war/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?fit=1249%2C837&amp;ssl=1" data-orig-size="1249,837" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;AFP&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Ukrainian military members of the Aidar Battalion cook meals for soldiers at a field canteen at the battalion&#039;s base in an undisclosed location in Ukraine, on January 12, 2025, amid the Russian invasion of Ukraine. Speculation is building that Ukraine could be forced into giving up territory by incoming US President Donald Trump, who has boasted he could end the war quickly. And some Ukrainians are showing readiness for territorial concessions in exchange for peace -- 38 percent in December compared to 32 percent in October, according polling by the Kyiv Institute of Sociology (KIIS). KIIS found in October that 46 percent of Ukrainians were ready to give up the eastern Donetsk and Lugansk regions, as well as Crimea, the Black Sea peninsula annexed by Moscow in 2014. (Photo by Roman PILIPEY \/ AFP)&quot;,&quot;created_timestamp&quot;:&quot;1736694976&quot;,&quot;copyright&quot;:&quot;AFP or licensors&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;UKRAINE-US-RUSSIA-CONFLICT-WAR&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="UKRAINE-US-RUSSIA-CONFLICT-WAR" data-image-description="" data-image-caption="&lt;p&gt;Ukrainian military members of the Aidar Battalion cook meals for soldiers at a field canteen at the battalion&#8217;s base in an undisclosed location in Ukraine, on January 12, 2025, amid the Russian invasion of Ukraine. Speculation is building that Ukraine could be forced into giving up territory by incoming US President Donald Trump, who has boasted he could end the war quickly. And some Ukrainians are showing readiness for territorial concessions in exchange for peace &#8212; 38 percent in December compared to 32 percent in October, according polling by the Kyiv Institute of Sociology (KIIS). KIIS found in October that 46 percent of Ukrainians were ready to give up the eastern Donetsk and Lugansk regions, as well as Crimea, the Black Sea peninsula annexed by Moscow in 2014. (Photo by Roman PILIPEY / AFP)&lt;/p&gt;
+<figure><img width="1024" height="686" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?fit=1024%2C686&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?resize=300%2C201&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?resize=1024%2C686&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?resize=768%2C515&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?resize=1200%2C804&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?resize=400%2C268&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?resize=706%2C473&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?fit=1024%2C686&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75236" data-permalink="https://islandtimes.org/soldiers-from-occupied-ukraine-torn-by-trumps-peace-vows/ukraine-us-russia-conflict-war/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?fit=1249%2C837&amp;ssl=1" data-orig-size="1249,837" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;AFP&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Ukrainian military members of the Aidar Battalion cook meals for soldiers at a field canteen at the battalion&#039;s base in an undisclosed location in Ukraine, on January 12, 2025, amid the Russian invasion of Ukraine. Speculation is building that Ukraine could be forced into giving up territory by incoming US President Donald Trump, who has boasted he could end the war quickly. And some Ukrainians are showing readiness for territorial concessions in exchange for peace -- 38 percent in December compared to 32 percent in October, according polling by the Kyiv Institute of Sociology (KIIS). KIIS found in October that 46 percent of Ukrainians were ready to give up the eastern Donetsk and Lugansk regions, as well as Crimea, the Black Sea peninsula annexed by Moscow in 2014. (Photo by Roman PILIPEY \/ AFP)&quot;,&quot;created_timestamp&quot;:&quot;1736694976&quot;,&quot;copyright&quot;:&quot;AFP or licensors&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;UKRAINE-US-RUSSIA-CONFLICT-WAR&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="UKRAINE-US-RUSSIA-CONFLICT-WAR" data-image-description="" data-image-caption="&lt;p&gt;Ukrainian military members of the Aidar Battalion cook meals for soldiers at a field canteen at the battalion&#8217;s base in an undisclosed location in Ukraine, on January 12, 2025, amid the Russian invasion of Ukraine. Speculation is building that Ukraine could be forced into giving up territory by incoming US President Donald Trump, who has boasted he could end the war quickly. And some Ukrainians are showing readiness for territorial concessions in exchange for peace &#8212; 38 percent in December compared to 32 percent in October, according polling by the Kyiv Institute of Sociology (KIIS). KIIS found in October that 46 percent of Ukrainians were ready to give up the eastern Donetsk and Lugansk regions, as well as Crimea, the Black Sea peninsula annexed by Moscow in 2014. (Photo by Roman PILIPEY / AFP)&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?fit=300%2C201&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/UkraineUsRussiaConflictWar.jpg?fit=780%2C523&amp;ssl=1" /></figure>
 <p>By Barbara WOJAZER Kramatorsk, Ukraine&#8211; Ukrainian serviceman Volodya was conflicted about the prospect of a truce between Ukraine and Russia, which would leave his hometown and his mother, under Russian occupation. The military driver understood that any talks remained a distant prospect but still, discussions of a ceasefire &#8212; reignited by incoming US President Donald Trump [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/soldiers-from-occupied-ukraine-torn-by-trumps-peace-vows/">Soldiers from occupied Ukraine &#8216;torn&#8217; by Trump&#8217;s peace vows</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>

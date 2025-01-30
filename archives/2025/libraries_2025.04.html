@@ -29,7 +29,61 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="libraries">libraries</h1>
-<p>(date: 2025-01-29 07:04:56)</p>
+<p>(date: 2025-01-30 07:04:48)</p>
+<hr />
+<h2 id="wheels-are-in-motion-opencitations-progress-in-2024">Wheels Are
+in Motion: OpenCitations’ progress in 2024</h2>
+<p>date: 2025-01-30, from: Open Citation blog at Hypotheses.org</p>
+<p>January is a strange month. After the festive whirl of December’s
+gatherings, it quickly shifts into the hustle and bustle of the new
+year’s commitments and the work that follows the holidays. For us at
+OpenCitations, however, it has become a tradition to take a moment at
+the end of this month to pause after the first hectic weeks of the year.
+This time allows us to reflect on the achievements of the past year and
+plan for the future with a clearer mind. …
+<a href="https://opencitations.hypotheses.org/3774" class="more-link">Continue
+reading <span class="screen-reader-text">Wheels Are in Motion:
+OpenCitations’ progress in 2024</span></a></p>
+<p><br></p>
+<p><a href="https://opencitations.hypotheses.org/3774"
+class="uri">https://opencitations.hypotheses.org/3774</a></p>
+<hr />
+<h2 id="ask-the-chefs-making-sense-of-changing-us-policies">Ask the
+Chefs: Making Sense of Changing US Policies</h2>
+<p>date: 2025-01-30, from: Scholarly Kitchen</p>
+<p>
+We asked the Chefs to weigh in on the policy chaos emerging from
+Washington over the last ten days.
+</p>
+<p>
+The post
+<a href="https://scholarlykitchen.sspnet.org/2025/01/30/ask-the-chefs-making-sense-of-changing-us-policies/">Ask
+the Chefs: Making Sense of Changing US Policies</a> appeared first on
+<a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://scholarlykitchen.sspnet.org/2025/01/30/ask-the-chefs-making-sense-of-changing-us-policies/"
+class="uri">https://scholarlykitchen.sspnet.org/2025/01/30/ask-the-chefs-making-sense-of-changing-us-policies/</a></p>
+<hr />
+<h2 id="the-tunnel-by-dorothy-m.-richardson">The Tunnel, by Dorothy M.
+Richardson</h2>
+<p>date: 2025-01-30, from: Standard Ebooks, new releaases</p>
+<p>A young woman begins a new and independent life in London.</p>
+<p><br></p>
+<p><a
+href="https://standardebooks.org/ebooks/dorothy-m-richardson/the-tunnel"
+class="uri">https://standardebooks.org/ebooks/dorothy-m-richardson/the-tunnel</a></p>
+<hr />
+<h2 id="tracks-in-the-snow-by-godfrey-r.-benson">Tracks in the Snow, by
+Godfrey R. Benson</h2>
+<p>date: 2025-01-30, from: Standard Ebooks, new releaases</p>
+<p>A rector investigates the mystery behind a strange letter that may be
+connected to his friend’s murder.</p>
+<p><br></p>
+<p><a
+href="https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow"
+class="uri">https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow</a></p>
 <hr />
 <h2 id="molecular-connections-buys-morressier">Molecular Connections
 Buys Morressier</h2>
@@ -48,6 +102,159 @@ Connections Buys Morressier</a> appeared first on
 <p><a
 href="https://scholarlykitchen.sspnet.org/2025/01/29/molecular-connections-buys-morressier/"
 class="uri">https://scholarlykitchen.sspnet.org/2025/01/29/molecular-connections-buys-morressier/</a></p>
+<hr />
+<h2 id="retraction-watch-retractions-now-in-the-crossref-api">Retraction
+Watch retractions now in the Crossref API</h2>
+<p>date: 2025-01-29, from: Crossref Blog</p>
+<p>
+Retractions and corrections from Retraction Watch are now available in
+Crossref’s REST API. Back in September 2023, we announced the
+acquisition of the Retraction Watch database with an ongoing shared
+service. Since then, they have sent us regular updates, which are
+publicly available as a
+<a href="https://gitlab.com/crossref/retraction-watch-data" target="_blank">csv
+file</a>. Our aim has always been to better integrate these retractions
+with our existing metadata, and today we’ve met that goal.
+</p>
+<p>
+This is the first time we have supplemented our metadata with a
+third-party data source. Until now, our APIs have included metadata
+provided by Crossref members along with outputs from our internal
+enrichment workflows, such as matches found for bibliographic reference
+matching and funders. Third party metadata has been gathered in Event
+Data, but this has been stored and delivered separately.
+</p>
+<p>
+Knowing when work has been retracted is critical for assessing the
+integrity of research, and this enhancement of the data will be a great
+benefit to the community.
+</p>
+<h2 id="where-does-the-data-come-from">
+Where does the data come from?
+</h2>
+<p>
+Retraction Watch carefully curates retractions, pulling them from
+several non-Crossref sources, including PubMed and publisher websites.
+Each entry is manually checked and annotated before being added to the
+database. The high level of curation and broad coverage is what made a
+partnership between Crossref and Retraction Watch attractive, and our
+shared goal of making changes to metadata more visible.
+</p>
+<blockquote>
+<p>
+“Our goal with the Retraction Watch Database has always been for it to
+be as useful to as many people as possible, and available from as many
+sources as possible,” says Ivan Oransky, co-founder of Retraction Watch
+and executive director of The Center For Scientific Integrity, its
+parent nonprofit organization. “Integration with Crossref’s REST API is
+a huge step in that direction.”
+</p>
+</blockquote>
+<h2 id="where-can-i-see-the-retractions">
+Where can I see the retractions?
+</h2>
+<p>
+If you use a service that collects Crossref metadata, you will start to
+see the Retraction Watch retractions as they are picked up. To access
+the data directly, you can find retractions from both Crossref members
+and Retraction Watch in our REST API, for example with the following
+request for all retractions:
+</p>
+<p>
+<a href="https://api.crossref.org/v1/works?filter=update-type:retraction" target="_blank">https://api.crossref.org/v1/works?filter=update-type:retraction</a>
+</p>
+<p>
+Or for an individual record:
+</p>
+<p>
+<a href="https://api.crossref.org/v1/works/10.1177/1758835920922055" target="_blank">https://api.crossref.org/v1/works/10.1177/1758835920922055</a>
+</p>
+<p>
+In the results here you will see an <code>update-to</code> field:
+</p>
+<pre tabindex="0"><code>&#34;update-to&#34;: [
+{
+&#34;updated&#34;: {
+&#34;date-parts&#34;: [
+[2023,4,22]
+],
+&#34;date-time&#34;: &#34;2023-04-22T00:00:00Z&#34;,
+&#34;timestamp&#34;: 1682121600000
+},
+&#34;DOI&#34;: &#34;10.1177/1758835920922055&#34;,
+&#34;type&#34;: &#34;retraction&#34;,
+&#34;source&#34;: &#34;publisher&#34;,
+&#34;label&#34;: &#34;Retraction&#34;
+},
+{
+&#34;updated&#34;: {
+&#34;date-parts&#34;: [
+[2023,4,22]
+],
+&#34;date-time&#34;: &#34;2023-04-22T00:00:00Z&#34;,
+&#34;timestamp&#34;: 1682121600000
+},
+&#34;DOI&#34;: 10.1177/17588359231172420&#34;,
+&#34;type&#34;: &#34;retraction&#34;,
+&#34;source&#34;: &#34;retraction-watch&#34;,
+&#34;label&#34;: &#34;Retraction&#34;,
+&#34;record-id&#34;: 44124
+}
+]
+</code></pre>
+<p>
+The <code>source</code> field states where the retraction came from.
+Currently, it can have two values: <code>publisher</code> or
+<code>retraction-watch</code>. Note that the same retraction may be
+included multiple times from different sources.
+</p>
+<p>
+Retraction Watch retractions will remain available
+<a href="https://gitlab.com/crossref/retraction-watch-data" target="_blank">on
+Gitlab in csv format</a> and be updated on working days. The
+<code>record-id</code> refers to the entry in the csv file with further
+details, such as the reason for retraction.
+</p>
+<p>
+There is
+<a href="https://api.crossref.org/swagger-ui/index.html" target="_blank">full
+documentation available for the Crossref REST API</a> and if you are new
+to REST APIs, see our
+<a href="https://www.crossref.org/learning/" target="_blank">learning
+hub</a> to get started.
+</p>
+<h2 id="what-can-i-do-with-the-retractions">
+What can I do with the retractions?
+</h2>
+<p>
+Like the rest of our metaata, the retractions are freely available. If
+you use or operate a tool that ingests retractions, the new entries will
+start to be picked up immediately. The Retraction Watch database
+includes a larger number of retractions than the Crossref database, so
+you should see an increase in the total.
+</p>
+<p>
+We have heard from organisations that would like to build new research
+integrity tools based on this data. We look forward to seeing the
+benefits brought by wider availability of the Retraction Watch
+retractions, and how they can provide better context to research
+outputs.
+</p>
+<p>
+While Crossref metadata is freely available to reuse without a license,
+if you make use of the Retraction Watch retraction metadata in a
+published work, we kindly request that you provide a citation to the
+source.
+</p>
+<p>
+If you have questions or comments, please head over to the
+<a href="https://community.crossref.org/c/strategy/research-integrity/46" target="_blank">section
+of our forum</a> dedicated to integrity of the scholarly record.
+</p>
+<p><br></p>
+<p><a
+href="https://www.crossref.org/blog/retraction-watch-retractions-now-in-the-crossref-api/"
+class="uri">https://www.crossref.org/blog/retraction-watch-retractions-now-in-the-crossref-api/</a></p>
 <hr />
 <h2
 id="guest-post-finding-your-voice-in-a-ventriloquists-world-ai-and-writing">Guest
@@ -185,7 +392,7 @@ class="uri">https://www.crossref.org/blog/posi-2.0-feedback/</a></p>
 <h2 id="day-in-review-january-2730">Day in Review (January 27–30)</h2>
 <p>date: 2025-01-27, from: Association of Research Libraries News</p>
 <p>
-Last Updated on January 28, 2025, 5:18 pm ET Jump to: Tuesday, January
+Last Updated on January 29, 2025, 4:19 pm ET Jump to: Tuesday, January
 28 | Wednesday, January 29 | Thursday, January 30 Monday, January 27 Top
 o’ the Review CNI…
 </p>

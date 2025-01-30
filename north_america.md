@@ -1,11 +1,1266 @@
 ---
 title: north america
-updated: 2025-01-29 07:04:54
+updated: 2025-01-30 07:04:46
 ---
 
 # north america
 
-(date: 2025-01-29 07:04:54)
+(date: 2025-01-30 07:04:46)
+
+---
+
+## In photos: Passenger jet and military helicopter collide in Washington
+
+date: 2025-01-30, from: VOA News USA
+
+Dozens of people were feared dead after American Airlines and a U.S. military helicopter collided as the jet approached to land at Ronald Reagan National Airport near Washington around 9 p.m. Wednesday. Officials said three U.S. Army soldiers were on the helicopter, which was conducting a training flight. American Airlines, which operated the flight traveling from Wichita, Kansas, to Washington, said in a statement there were 60 passengers and four crew members on the plane. 
+
+<br> 
+
+<https://www.voanews.com/a/in-photos-passenger-jet-and-military-helicopter-collide-in-washington/7956876.html>
+
+---
+
+## Many global NGO programs in limbo during Trump’s foreign aid freeze
+
+date: 2025-01-30, from: Market Place
+
+Despite life-saving exceptions to the freeze on foreign aid, many vital health programs are still on hold.  
+
+<br> 
+
+<https://www.marketplace.org/2025/01/30/many-global-ngo-programs-in-limbo-during-trumps-foreign-aid-freeze/>
+
+---
+
+## Morning Roundup: Wake up with a Guide for the Perplexed 
+
+date: 2025-01-30, from: The Contrarian
+
+January 30: Jen Rubin, Joyce Vance, Jennifer Weiss-Wolf, and more 
+
+<br> 
+
+<https://contrarian.substack.com/p/morning-roundup-start-your-morning>
+
+---
+
+## Elon Musk Is Making Big Promises After Tesla’s Lackluster Q4 Results
+
+date: 2025-01-30, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjExODgwMi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5MzEzODMyNX0.FQnTKGXwX1VE6Ob3DpxjVitkVjNxOc0Mo_2fQMrmlvQ/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><em><strong>Current conditions:</strong> Several wildfires are burning near parts of North Carolina that were devastated by Hurricane Helene • Public transportation in Bangkok is free this week as authorities try to reduce toxic smog • There is ice on the surface of the Potomac River near Reagan National Airport, where recovery operations are underway following a tragic plane crash last night.</em></p><h2>THE TOP FIVE</h2><h3>1. Musk tries to reassure investors after disappointing Tesla earnings</h3><p>Tesla <a href="https://ir.tesla.com/press-release/tesla-fourth-quarter-2024-production-deliveries-and-deployments?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-" rel="noopener noreferrer" target="_blank">reported</a> disappointing Q4 results for 2024 yesterday, with revenue and earnings per share both missing analysts expectations. Revenue came in at $25.71 billion, down 8% compared to the same period in 2023. Earnings per share were $0.73, compared to projections of $0.77. Gross profit margin fell to 13.6% year-over-year, less than the 16.2% forecast. Tesla’s stock dipped on the news, but rebounded after CEO Elon Musk tried to make some reassurances during the earnings call. He said Tesla planned to launch a driverless ride-hailing service in Austin, Texas, in June, and expects to begin producing the Cybercab robotaxi fleet in 2026. He talked up the Optimus humanoid robot and the company’s AI and robotics investments. And he said the company plans to start producing “more affordable models” of its EVs in the first half of 2025. (Worth noting that the Cybertruck was <a href="https://www.bloomberg.com/news/live-blog/2025-01-29/tesla-fourth-quarter-earnings?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-" rel="noopener noreferrer" target="_blank">not mentioned</a> once on the call.)</p><p>If Musk was at all concerned about the fact that his company <a href="https://heatmap.news/sparks/tesla-sales-2024?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-" target="_self">saw annual sales drop</a> last year for the first time in more than a decade, he didn’t show it, predicting that the next few years will be “epic” for the company. “I see a path for Tesla being the most valuable company in the world, by far, not even close,” he said. “There is a path where Tesla is worth more than the next top five companies combined.” </p><p>The pep talk helped boost shares in pre-market trading. Some analysts were <a href="https://www.reuters.com/business/autos-transportation/tesla-shares-rise-frankfurt-despite-earnings-miss-2025-01-30/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-" target="_blank">raving</a>. “Tesla investors are fuelled by optimism around Full Self-Driving and the upcoming affordable model, two key catalysts that could drive Tesla’s next leg of growth,” said Hargreaves Lansdown’s Matt Britzman. Others were less optimistic. “While the long-term narrative remains, the fourth-quarter was a ‘back to earth’ moment for Tesla stock, which has increasingly been disconnected from fundamentals,” cautioned <a href="https://www.ft.com/content/bd9bf576-73bd-470b-acf2-87100e48ece9?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-" target="_blank">Barclays analyst Dan Levy.</a></p><h3><a href="https://www.ft.com/content/bd9bf576-73bd-470b-acf2-87100e48ece9?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-" rel="noopener noreferrer" target="_blank"></a>2. Lee Zeldin takes the helm of the EPA</h3><p>Lee Zeldin was confirmed yesterday as the new administrator of the Environmental Protection Agency. He has <a href="https://heatmap.news/sparks/trump-epa-lee-zeldin?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-" target="_self">promised</a> to “restore U.S. energy dominance” <a href="https://heatmap.news/politics/lee-zeldin-epa-confirmation-hearing?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-" target="_self">and</a> “increase productivity of the EPA.” One of his first jobs, though, will be reviewing the <a href="https://www.epa.gov/sites/default/files/2016-08/documents/endangermentfinding_faqs.pdf?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-" rel="noopener noreferrer" target="_blank">2009 endangerment finding</a>, a landmark ruling that confirmed greenhouse gases are a danger to public health and gave the EPA authority to regulate those gases. President Trump <a href="https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-" rel="noopener noreferrer" target="_blank">signed an executive order</a> on January 20 giving the EPA 30 days to examine the “legality and continuing applicability” of this finding. Zeldin has also been told to review the social cost of carbon, <a href="https://news.stanford.edu/stories/2021/06/professors-explain-social-cost-carbon?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-" rel="noopener noreferrer" target="_blank">which is</a> “the cost of the damages created by one extra ton of carbon dioxide emissions.” Trump’s executive order recommended the metric be eliminated altogether. </p><h3>3. Commerce nominee opposes getting rid of NOAA</h3><p>Meanwhile, Trump’s Commerce secretary nominee Howard Lutnick had his confirmation hearings yesterday. The questioning from senators touched on the future of the National Oceanic and Atmospheric Administration, the agency that provides national weather forecasting and <a href="https://www.noaa.gov/education/resource-collections/climate/climate-change-impacts?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-#:~:text=Our%20changing%20climate,Updated%20April%202022.&text=Climate%20reference%20glaciers%20tracked%20by,Updated%20August%202022." rel="noopener noreferrer" target="_blank">climate monitoring</a>. Lutnick said he was not in favor of dismantling NOAA, nor would he want to see it moved from the Commerce Department into the Interior Department. The Project 2025 roadmap from the Heritage Foundation proposed <a href="https://thehill.com/policy/energy-environment/4769252-project-2025-climate-change-energy-environment/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-" rel="noopener noreferrer" target="_blank">dismantling</a> NOAA. </p><h3>4. Scottish court strikes down approvals for two major fossil fuel projects </h3><p>The futures of two large proposed fossil fuel projects in the North Sea have been cast into doubt after a Scottish court <a href="https://www.reuters.com/business/energy/uk-must-reconsider-shell-equinors-north-sea-gas-oil-projects-court-rules-2025-01-30/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-" rel="noopener noreferrer" target="_blank">ruled</a> that they should never have been approved in the first place. <a href="https://www.equinor.com/energy/rosebank?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-" rel="noopener noreferrer" target="_blank">Equinor’s Rosebank project</a> would harness oil from the UK’s largest untapped oilfield. <a href="https://www.shell.co.uk/about-us/what-we-do/oil-and-gas/shell-jackdaw-project.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-" rel="noopener noreferrer" target="_blank">Shell’s Jackdaw project</a> would extract natural gas, which Shell claims would heat 1.4 million homes. Activists from Greenpeace and other groups challenged the projects’ approvals after an earlier ruling from the Supreme Court said that such projects must assess and disclose the downstream (Scope 3) emissions impact of burning the fossil fuels they produce, which neither Rosebank’s nor Jackdaw’s developers did. If they want to go ahead with the projects, Shell and Equinor will have to try to get them approved by the government again, this time with all the environmental impacts taken into consideration. </p><h3>5. Study links climate change to bird deaths in ‘pristine rainforest’</h3><p>Researchers think they’ve solved a mystery about what’s causing bird populations in untouched areas of the rainforest to decline. Any guesses? Surprise! It’s climate change. In a new <a href="https://www.science.org/doi/10.1126/sciadv.adq8086?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-" rel="noopener noreferrer" target="_blank">study</a> published in the journal <em><em>Science Advances</em></em>, the team analyzed bird populations over nearly 30 years and found that more intense dry seasons in the Amazon “significantly” reduced the survival rates for almost all bird species they studied. In fact, they think just 1 degree Celsius of warming reduces the average survival of the tropical birds by 63%. “These findings are especially alarming because they reflect demographic patterns of tropical birds within pristine rainforest, a biome thought to be resilient to the adverse effects of climate change,” the researchers wrote. </p><h2>THE KICKER</h2><p>Nearly <a href="https://advocacy.consumerreports.org/press_release/consumer-reports-survey-finds-majority-of-americans-want-better-fuel-economy-and-support-standards-that-deliver-thousands-in-fuel-savings/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--t42-chOFUzHSQjTEFAbKomUOEfA60QZrOBSnZXKRCpJl0alQV6k0tBZbTSl_CZS5vNwI-" rel="noopener noreferrer" target="_blank">two-thirds of Americans</a> (64%) want to see the government increase fuel-economy standards so that vehicles continue to get more fuel-efficient. </p> 
+
+<br> 
+
+<https://heatmap.news/electric-vehicles/tesla-q4-earnings-elon-musk>
+
+---
+
+## Economists mixed on possible impacts of Trump’s tariff proposals
+
+date: 2025-01-30, from: VOA News USA
+
+President Donald Trump is widely expected to impose tariffs on goods from Mexico and Canada as early as February 1 as part of a plan he says will boost the U.S. economy. But with much about the specifics still unknown, economists, business owners and everyday consumers are still trying to understand how it could impact them. Johny Fernandez reports from New York City. (Produced by: Bakhtiyar Zamanov) 
+
+<br> 
+
+<https://www.voanews.com/a/economists-mixed-on-possible-impacts-of-trump-s-tariff-proposals/7956741.html>
+
+---
+
+## A Guide for the Perplexed: Democrats in Distress
+
+date: 2025-01-30, from: The Contrarian
+
+Discipline and amplification are key 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-guide-for-the-perplexed-democrats>
+
+---
+
+## ‘I Have No Patience for Bureaucracy’: an Exit Interview With DOE’s Vanessa Chan
+
+date: 2025-01-30, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjEwNjIxNC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTgwMDkzNDAzMX0.7dI20iuaWrDTgKABmlPgJgS917SjKacYPjcP2QF3iTk/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Vanessa Chan didn’t think she had the right temperament to work in government. After a 13-year stint as a partner at McKinsey, six years as a partner at the angel investment firm Robin Hood Ventures, and four years at the University of Pennsylvania, most recently as professor of practice in innovation and entrepreneurship, Chan considered herself to be an impatient, get-it-done type — anathema to the traditionally slow, procedurally complex work of governing.</p><p>But the <a href="https://www.energy.senate.gov/services/files/32B4E9F4-F13A-44F6-A0CA-E10B3392D47A" rel="noopener noreferrer" target="_blank"><u>Energy Act of 2020</u></a> had just formalized a new role within the Department of Energy ideally suited to her skills: Chief Commercialization Officer, which would also serve as the director of the Office of Technology Transitions. Who would fill these dual roles was to be the decision of then-incoming Secretary of Energy Jennifer Granholm, who found a kindred spirit in Chan. Under her leadership, Chan told me, “I found someone who’s less patient than me.”</p><p>In her four years at the DOE, the OTT’s annual budget — which she referred to as “literally a rounding error to most people” — grew from $12.6 million to $56.6 million. She leveraged it to its fullest extent, establishing a precedent for the potential of this small but mighty office. Chan spearheaded the “<a href="https://liftoff.energy.gov/" rel="noopener noreferrer" target="_blank"><u>Pathways to Commercial Liftoff</u></a>” reports that provide investors with a path to market for the most important decarbonization technologies, and announced over <a href="https://www.energy.gov/technologytransitions/articles/doe-announces-over-41m-funding-deliver-clean-energy-solutions-market" rel="noopener noreferrer" target="_blank"><u>$41 million in funding</u></a> for 50 clean energy projects across all of the nations 17 national labs through the <a href="https://www.energy.gov/technologytransitions/technology-commercialization-fund" rel="noopener noreferrer" target="_blank"><u>Technology Commercialization Fund</u></a>. </p><p>She also changed the way the DOE, national labs, venture capitalists, and startups alike talk about getting ready for primetime with the <a href="https://www.energy.gov/technologytransitions/adoption-readiness-levels-arl-framework" rel="noopener noreferrer" target="_blank"><u>Adoption Readiness Level framework</u></a>, which put a much-needed focus on factors such as economic viability, regulatory hurdles, and supply chain constraints in the same way that the established <a href="https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/" rel="noopener noreferrer" target="_blank"><u>Technology Readiness Levels</u></a>, pioneered by NASA, focus on the question of whether a technology actually works. </p><p>Now Chan is back at the University of Pennsylvania in a new, extremely apt role: the Inaugural Vice-Dean of Innovation and Entrepreneurship. She’s weaving lessons learned from her time in the public and private sectors into academia, where her goal is to help incorporate real-world skills into the education of engineers and PhD scholars to prime them for maximum impact upon graduation.</p><p>“It’s such a disservice if you invent something and it never sees the light of day,” she told me. “So we need to make sure that isn’t happening and we increase our odds of things making it to the market.” </p><p>Over two separate interviews, one before President Trump’s inauguration and one after, I asked Chan how her work with the DOE has helped climate technologies move from the lab to the market, the challenges that remain, and what to keep an eye on in the new administration. Our conversation has been edited for length and clarity.</p><p><strong>How did you get recruited for this job? Was government work even on your radar before?</strong></p><p>No, this was never on my vision board. But the way in which this came about was in 2016, there was a workshop that was being led by DOE on a potential new foundation that was going to be focused on commercialization. And one of my former clients told the person running the workshop, <em><em>if you’re talking about technology commercialization, you have to talk to Vanessa Chan</em></em>. And when I was there, I just yapped off about all the issues that I see with commercialization and what the federal government should be doing about it. And I didn’t think anything of it. </p><p>And then fast forward to 2020, I get this cryptic email saying, “Hey, the Biden-Harris administration is interested in you.” I spent all the time during the interview [with the Biden-Harris team] going, “Here’s my thing about commercialization, but I don’t think you guys want me, because I’m someone who works really fast. I have no patience for bureaucracy. I like to disrupt. I don’t like the status quo.” And they’re like, that’s exactly what we want.</p><p><strong>How did the DOE, and the OTT in particular, really undergo a shift in the Biden administration?</strong></p><p>Historically, DOE has been very focused on research and development. And then when the [Bipartisan Infrastructure Law] and [Inflation Reduction Act] got passed, now there was half-a-trillion dollars going towards demonstration and deployment, and it became a lot more fun being the chief commercialization officer.</p><p>The mantra that we’ve had is that the clean energy transition — and quite frankly, commercialization — has to be private sector-led but government-enabled. Because in the end, it’s the private sector that’s actually commercializing. It’s not the government. DOD can buy stuff to bring things to market, but DOE, we’re an enabler. And unless the private sector has sustainable, viable economic models, nothing will ever be commercialized. </p><p><strong>How does your work intersect with other DOE agencies that are focused on commercialization, like the Office of Clean Energy Demonstrations and the Loan Programs Office?</strong></p><p>I worked very closely with all of them. In particular, one of the things that was really important to do was to get us on the same page of what it actually means to deploy technologies. So I quarterbacked an effort called <a href="https://liftoff.energy.gov/" rel="noopener noreferrer" target="_blank"><u>the Pathways to Commercial Liftoff</u></a>, which OCED, LPO, and any program office that was touching research, development, demonstration, and deployment was a part of. </p><p>If we use hydrogen hubs as an example, OCED was given $8 billion towards hydrogen. When we did the <a href="https://liftoff.energy.gov/clean-hydrogen/" rel="noopener noreferrer" target="_blank"><u>hydrogen liftoff report</u></a>, what we found was a few things. One is that electrolyzer costs are super high, and so we have to be able to drive those downward to make the unit economics work. We have an issue where there is no midstream infrastructure. We also had a chicken-and-the egg, which is pretty classic: No one wants to buy hydrogen until the supply chain is stood up, [but] the supply chain doesn’t want to stand up until they know they actually have offtake agreements. </p><p>What we did with OCED was, we took $7 billion to invest in <a href="https://www.energy.gov/oced/regional-clean-hydrogen-hubs-0" rel="noopener noreferrer" target="_blank"><u>seven hydrogen hubs</u></a> across the nation, and then we reserved $1 billion to create an <a href="https://h2di.org/" rel="noopener noreferrer" target="_blank"><u>offtake demand mechanism</u></a>. And that’s the first time ever that the federal government has actually focused on a demand activation program.</p><p><strong>Have these liftoff reports been well received on both sides of the aisle? Do you think they’ll continue to be referenced in the new administration? </strong></p><p>We were very, very, very fact-driven. There’s no policy by design, because in the end it’s all about, what does it take for a technology to make sense, for it to be in the market? So it’s not Republican or Democratic, it’s just — what does the private sector have to do? I’m really hoping they’re not seen as partisan and really more a synthesis of what’s required for the private sector to actually scale technology.</p><p><strong>What are some additional successes from your time at the DOE?</strong></p><p>An example program is <a href="https://www.energy.gov/technologytransitions/articles/doe-awards-over-11-million-through-make-it-prize-boost-domestic" rel="noopener noreferrer" target="_blank"><u>MAKE IT</u></a>, which is Manufacturing of Advanced Key Energy Infrastructure Technologies, which was a program that we created with OCED in order to figure out ways in which we could try to help bolster manufacturing across the nation. We also have this program called <a href="https://www.energy.gov/technologytransitions/energy-program-innovation-clusters" rel="noopener noreferrer" target="_blank"><u>EPIC</u></a>, the Energy Program for Innovation Clusters, and we have funded over 80 incubators and accelerators across the nation, which are supporting startups.</p><p><a href="https://www.energy.gov/technologytransitions/voucher-program" rel="noopener noreferrer" target="_blank"><u>We’ve created a voucher program</u></a> for startups and smaller organizations — sometimes there’s very tactical things that they need help on, and they need a small dollar amount, like a couple-hundred-thousand-dollars to tackle that. We’re like, <em><em>Oh, you need to do techno-economic analysis? We’re going to pair you with this organization here that can do it</em></em>, and you don’t have to negotiate anything with them. We’re just going to send them the money, you’re given a voucher, and you just call them. </p><p><strong>When I talk with venture capitalists, something that often comes up is the difficulty of getting startups through the </strong><a href="https://heatmap.news/technology/missing-middle" target="_self"><u><strong>so-called Valley of Death</strong></u></a><strong>, the funding gap between a company’s initial rounds and its commercial scale-up. How do you think about the public sector’s role in helping companies through this stage?</strong></p><p>First of all, this private sector-led, government-enabled idea around commercialization is really important. And the work we’ve done with Liftoff and how we’ve gotten money out the door has really worked, because for every dollar going out the door from DOE, we’ve seen $6 matching from the private sector. That in itself is showing that there’s a way for the public sector to nudge the private sector to act.</p><p>What I’ll tell you, though, is that I think there needs to be a wholesale reframe around how the private sector thinks about investments and the returns that they want on them. Right now, we are in the Squid Games, where everyone is first in line to be sixth or seventh, no one is first in line to be first, second, or third, because they know the person who is first, second, or third is going to lose money. So what we need to do is figure out, how do we have the ecosystem crowdsource the first 10 of a kind, so that we get to the tipping point where the unit economics are working? How do we get the private sector to promise to buy technologies when they’re not quite there? How do we in the public sector help on the back end?</p><p><strong>What are other primary barriers to commercialization that you see?</strong></p><p>Another big barrier is that the time clock for moving up the learning curve and moving down the cost curve is quite long in some of these hard-tech technologies. And so the challenge is, how do we convince CEOs to make investments in something which is not going to benefit <em><em>them</em></em>, but benefit a CEO two or three down the line? Humans just don’t work that way, right? They’re all about earnings per share and quarterly earning reports and so forth.</p><p>Now the challenge is, if we don’t do it, then countries like China are going to do it. This is what happened in solar: We invented the technology, but China was willing to take a loss in order to get up the learning curve and drive down the cost curve, and we need to figure out how to do the same. </p><p><strong>Have you been in touch with anyone from the Trump administration? Do you know who your successor will be? </strong></p><p>No idea. My team didn’t even know who I was until day one. But what I’ll tell you is that OTT has really strong bipartisan support because we’re commercializing technologies, which is creating jobs, and I think everyone understands the importance of this. Also for the [Foundation for Energy Security and Innovation] I was very deliberate with the other <em><em>ex officio</em></em> board members to make sure we had a bipartisan board. We have 13 board members that we appointed here at DOE, and I have representation from every single administration since George H.W. Bush, including two Trump appointees.</p><p>I really do hope that whoever sits in my seat will reach out, and I left a letter offering that, too. Hopefully they do give me a call because I really want to wish them every success in the work that they’re doing. </p><p><strong>What’s it like to be back at the University of Pennsylvania, watching this new administration from a civilian perspective?</strong></p><p>This was the best job ever, so I’m just sad in general to not be at the Department of Energy because I really enjoyed the work that we were doing there. A lot of the money from the BIL and IRA were used to catalyze many, many red states. I am hopeful that people in power recognize this and are going to do right by those counties. Because I think, in the end, what we’re trying to do is really help with American jobs and competitiveness.</p><p><strong>Any thoughts on </strong><a href="https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/" rel="noopener noreferrer" target="_blank"><u><strong>the executive order</strong></u></a><strong> that’s frozen disbursement of funds from BIL and IRA? </strong></p><p>I don’t know, because I always think it’s not right to be on the outside in, trying to figure out what different executive orders are trying to say or not say. We all have to wait to see how these get executed upon. </p><p><strong>What do you think people should be keeping an eye on to gauge the impacts that these sweeping executive orders are having? </strong></p><p>In my mind it’s really, is the private sector spooked? Are they going to continue to invest the money that’s needed for these manufacturing plants to continue and so forth? Because in the end, it’s the private sector that actually is driving American competitiveness — the federal government is a catalyst. And so I think what I’d be looking to is the private sector. Are they stopping the momentum that we helped to kickstart?</p> 
+
+<br> 
+
+<https://heatmap.news/politics/vanessa-chan-exit-interview>
+
+---
+
+## UN rights chief seeks $500 million in 2025, warning that lives are at risk
+
+date: 2025-01-30, from: VOA News USA
+
+GENEVA — The U.N. human rights chief appealed on Thursday for $500 million in funding for 2025 to support its work, such as investigating human rights abuses around the world from Syria to Sudan, warning that lives hang in the balance.
+
+
+The U.N. human rights office has been grappling with chronic funding shortages that some worry could be exacerbated by cuts to U.S. foreign aid by President Donald Trump. The annual appeal is for funds beyond the allocated U.N. funds from member states' fees, which make up just a fraction of the office's needs.
+
+
+"In 2025, we expect no let-up in major challenges to human rights," High Commissioner for Human Rights Volker Turk told member states in a speech at the U.N. in Geneva.
+
+
+"I am very concerned that if we do not reach our funding targets in 2025, we will leave people ... to struggle and possibly fail, without adequate support," he said.
+
+
+He said any shortfall would mean more people remain in illegal detention; that governments are allowed to continue with discriminatory policies; violations may go undocumented; and human rights defenders could lose protection.
+
+
+"In short, lives are at stake," Turk said.
+
+
+The human rights office gets about 5% of the regular U.N. budget, but the majority of its funding comes voluntarily in response to its annual appeal announced on Thursday.
+
+
+Western states give the most, with the United States donating $35 million last year or about 15% of the total received in 2024, followed by the European Commission, U.N. data showed. Still, the office received only about half of the $500 million it sought last year. 
+
+<br> 
+
+<https://www.voanews.com/a/un-rights-chief-seeks-500-million-in-2025-warning-that-lives-are-at-risk/7956627.html>
+
+---
+
+## Periods Fuel Protests
+
+date: 2025-01-30, from: The Contrarian
+
+Joyce W. Vance and Jennifer Weiss-Wolf on Meta's Sanitary Product Rebellion 
+
+<br> 
+
+<https://contrarian.substack.com/p/periods-fuel-protests>
+
+---
+
+## Senate panel to question director of national intelligence nominee Gabbard
+
+date: 2025-01-30, from: VOA News USA
+
+The U.S. Senate Intelligence Committee is set to question former Congresswoman Tulsi Gabbard as she seeks confirmation to become the nation’s director of national intelligence.
+
+
+Gabbard is expected to face questions about her 2017 visit to Syria, when during her time in Congress she met with then-President Bashar al-Assad.
+
+
+At the time she faced criticism for what opponents of the trip said was legitimizing Assad amid the Syrian civil war.
+
+
+The military veteran, who ran for the Democratic Party nomination in the 2020 presidential election, was a critic of the Biden administration’s support for Ukraine, including questioning sending aid for Ukrainian troops instead of using resources for domestic issues.
+
+
+"This war and suffering could have easily been avoided if Biden Admin/NATO had simply acknowledged Russia’s legitimate security concerns," Gabbard said as Russia began its invasion of Ukraine in 2022.
+
+
+In announcing her nomination, U.S. President Donald Trump said Gabbard would "bring the fearless spirit that has defined her illustrious career to our Intelligence Community, championing our Constitutional Rights, and security Peace through Strength."
+
+
+If approved by a simple majority in the Senate, Gabbard would oversee 18 U.S. intelligence agencies.
+
+
+Trump’s Republican Party holds a 53-47 Senate majority.
+
+
+Some information for this report came from The Associated Press and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/7956608.html>
+
+---
+
+## Microsoft, Meta CEOs defend hefty AI spending after DeepSeek stuns tech world
+
+date: 2025-01-30, from: VOA News USA
+
+Days after Chinese upstart DeepSeek revealed a breakthrough in cheap AI computing that shook the U.S. technology industry, the chief executives of Microsoft and Meta defended massive spending that they said was key to staying competitive in the new field.
+
+
+DeepSeek's quick progress has stirred doubts about the lead America has in AI with models that it claims can match or even outperform Western rivals at a fraction of the cost, but the U.S. executives said on Wednesday that building huge computer networks was necessary to serve growing corporate needs.
+
+
+"Investing 'very heavily' in capital expenditure and infrastructure is going to be a strategic advantage over time," Meta CEO Mark Zuckerberg said on a post-earnings call.
+
+
+Satya Nadella, CEO of Microsoft, said the spending was needed to overcome the capacity constraints that have hampered the technology giant's ability to capitalize on AI.
+
+
+"As AI becomes more efficient and accessible, we will see exponentially more demand," he said on a call with analysts.
+
+
+Microsoft has earmarked $80 billion for AI in its current fiscal year, while Meta has pledged as much as $65 billion towards the technology.
+
+
+That is a far cry from the roughly $6 million DeepSeek said it has spent to develop its AI model. U.S. tech executives and Wall Street analysts say that reflects the amount spent on computing power, rather than all development costs.
+
+
+Still, some investors seem to be losing patience with the hefty spending and lack of big payoffs.
+
+
+Shares of Microsoft — widely seen as a front runner in the AI race because of its tie to industry leader OpenAI - were down 5% in extended trading after the company said that growth in its Azure cloud business in the current quarter would fall short of estimates.
+
+
+"We really want to start to see a clear road map to what that monetization model looks like for all of the capital that's been invested," said Brian Mulberry, portfolio manager at Zacks Investment Management, which holds shares in Microsoft.
+
+
+Meta, meanwhile, sent mixed signals about how its bets on AI-powered tools were paying off, with a strong fourth quarter but a lackluster sales forecast for the current period.
+
+
+"With these huge expenses, they need to turn the spigot on in terms of revenue generated, but I think this week was a wake-up call for the U.S." said Futurum Group analyst Daniel Newman.
+
+
+"For AI right now, there's too much capital expenditure, not enough consumption."
+
+
+There are some signs though that executives are moving to change that.
+
+
+Microsoft CFO Amy Hood said the company's capital spending in the current quarter and the next would remain around the $22.6 billion level seen in the second quarter.
+
+
+"In fiscal 2026, we expect to continue to invest against strong demand signals. However, the growth rate will be lower than fiscal 2025 (which ends in June)," she said. 
+
+<br> 
+
+<https://www.voanews.com/a/microsoft-meta-ceos-defend-hefty-ai-spending-after-deepseek-stuns-tech-world/7956542.html>
+
+---
+
+## Chinese app shakes up AI race
+
+date: 2025-01-30, from: VOA News USA
+
+A small Chinese company sent shockwaves around the tech world this week with news that it has created a high-performing artificial intelligence system with less computing power and at a lower cost than ones made by U.S. tech giants. Michelle Quinn reports. 
+
+<br> 
+
+<https://www.voanews.com/a/chinese-app-shakes-up-ai-race/7956522.html>
+
+---
+
+## State Department says Trump froze foreign aid to 'root out waste'
+
+date: 2025-01-30, from: VOA News USA
+
+WASHINGTON — The State Department on Wednesday sought to clarify President Donald Trump's order to freeze and review foreign development aid after the top U.S. diplomat blunted some of the chaos that ensued with an emergency order that could shield the world's largest HIV program from the 90-day funding freeze.   
+
+
+At the White House, Trump said his pauses to foreign and domestic funding are part of his administration's effort to root out "tremendous waste and fraud and abuse." 
+
+
+Secretary of State Marco Rubio's late-Tuesday waiver exempts humanitarian aid, which he classifies as "life-saving medicine, medical services, food, shelter, and subsistence assistance, as well as supplies and reasonable administrative costs as necessary to deliver such assistance."  
+
+ 
+
+The United Nations' AIDS program welcomed the news, emphasizing the value of the U.S. President's Emergency Plan for AIDS Relief, or PEPFAR, which serves 20 million people in 55 countries.  
+
+
+"UNAIDS welcomes this waiver from the U.S. government, which ensures that millions of people living with HIV can continue to receive life-saving HIV medication during the assessment of U.S. foreign development assistance," said Executive Director Winnie Byanyima. "This urgent decision recognizes PEPFAR's critical role in the AIDS response and restores hope to people living with HIV." 
+
+
+'Blocking woke programs'
+
+
+In a Wednesday memo sent to journalists, the State Department explained its rationale for the freeze during the review and lauded early cost cuts, saying that "even at this early stage, over $1,000,000,000 in spending not aligned with an America First agenda has been prevented."  
+
+
+The U.S. spent about $70 billion in foreign aid in fiscal year 2023, the most recent data available. 
+
+
+"We are rooting out waste," the memo said. "We are blocking woke programs. And we are exposing activities that run contrary to our national interests. None of this would be possible if these programs remained on autopilot."  
+
+
+The president, who said Wednesday at the White House that he "could stand here all day" and give examples of wasted fraud and abuse in the U.S. government, highlighted a few. 
+
+
+"We identified and stopped $50 million being sent to Gaza to buy condoms for Hamas," he said. "Fifty million. And you know what's happened to them? They've used them as a method of making bombs. How about that?"   
+
+
+The State Department echoed this, saying in a statement, "Without the pause, U.S. taxpayers would have provided condoms [and other contraceptive services] in Gaza, climate justice marketing services in Gabon, clean energy programs for women in Fiji, gender development programs in D.C., family planning throughout Latin America, sex education and pro-abortion programs for young girls globally, and much more. These types of programs do not make America stronger, safer or more prosperous." 
+
+ 
+
+A day earlier, the State Department sent a memo citing examples of unworthy projects, including $102 million to fund humanitarian aid nonprofit International Medical Corps' work in war-battered Gaza.  
+
+
+A USAID report says the agency delivered about $7 million worth of male condoms and about $1 million in female condoms in the 2023 fiscal year. In total, the agency said it disbursed nearly 138 million male condoms and 1.7 million female condoms worldwide. 
+
+
+Under USAID, the main administrator for U.S. foreign development funds, the bulk of contraceptive items were delivered to African countries, according to the report. Jordan was the only country in the Middle East to receive a shipment, which consisted of injectable and oral contraceptives valued at $45,680.  
+
+
+'Dramatic overreach'
+
+
+At the U.S. Capitol, lawmakers not only affirmed the need for accountability but also emphasized that Congress, not the White House, decides how U.S. taxpayer money is spent.  
+
+ 
+
+"I think it's appropriate to have a review," said Senator Kevin Cramer, a North Dakota Republican.  
+
+ 
+
+"It would be my hope, however, that the aid can be reinstated and flow to Ukraine," Cramer said. "And then we'll see in the next appropriation cycle whether or not Congress still has the will to continue that aid." 
+
+ 
+
+"This is dramatic overreach by the White House, by the president," said Senator Mark Kelly of Arizona, a Democrat. "It's unprecedented, uncalled for. This is money that we have appropriated in our role as members of the Senate and the House." 
+
+<br> 
+
+<https://www.voanews.com/a/state-department-says-trump-froze-foreign-aid-to-root-out-waste-/7956412.html>
+
+---
+
+##  Before D.C. Airport Collision, Lawmakers Brushed Off Warnings And Boosted Flights 
+
+date: 2025-01-30, from: The Lever News
+
+ Despite midflight near-misses and dire pleas, airline-bankrolled lawmakers recently expanded flight traffic at Washington’s busy airport.  
+
+<br> 
+
+<https://www.levernews.com/before-d-c-airport-collision-lawmakers-brushed-off-warnings-and-boosted-flights/>
+
+---
+
+## Trump’s ‘make peace or die’ message to Putin is deepfake. Yet it fooled Russians
+
+date: 2025-01-30, from: VOA News USA
+
+The Russian lawmaker attributed to Trump a quote from a deepfake video created by Ukrainian bloggers and shared on the Telegram messaging platform. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-s-make-peace-or-die-message-to-putin-is-deepfake-yet-it-fooled-russians-/7956477.html>
+
+---
+
+## No survivors after regional jet, US military helicopter collide at Washington airport
+
+date: 2025-01-30, from: VOA News USA
+
+Dozens of people were feared dead Thursday after a passenger jet and a U.S. military helicopter collided as the jet approached to land at Ronald Reagan National Airport near Washington.
+
+
+Emergency crews including boats and divers worked through the night in the murky, frigid water of the Potomac River adjacent to the airport where the wreckage fell after the collision around 9 p.m. Wednesday.
+
+
+Officials said three U.S. Army soldiers were on the helicopter, which was conducting a training flight. American Airlines, which operated the flight traveling from Wichita, Kansas, to Washington, said in a statement there were 60 passengers and four crew members on the plane.
+
+
+Authorities at an early Thursday briefing with reporters did not confirm any deaths from the crash, saying the focus at that time was on a rescue operation.
+
+
+When asked if there were any survivors, Washington Fire Chief John Donnelly said, “We don’t know yet, but we’re working.”
+
+
+
+
+Donnelly said crews involving about 300 responders were working in dark, difficult conditions, with frigid waters about 2.5 meters deep in the areas where the wreckage was located.
+
+
+U.S. Senator Roger Marshall of Kansas told the briefing, “We mourn with the families that lost loved ones.”
+
+
+“All those lives are so valuable, and it is such a tragedy that we lost them,” Marshall said.
+
+
+U.S. Figure Skating said several members of its community, including athletes, coaches and family members, were among the passengers on the plane.
+
+
+"We are devastated by this unspeakable tragedy and hold the victims' families closely in our hearts," the organization said.
+
+
+
+
+The Kremlin and Russian media said Russian figure skaters, including world champion couple Evgenia Shishkova and Vadim Naumov, were on the plane.
+
+
+“It's bad news today from Washington. We are sorry and send our condolences to families and friends," Kremlin spokesman Dmitry Peskov told reporters.
+
+
+Video of the crash captured from a camera at the nearby Kennedy Center shows two sets of lights converging before a fireball erupts. Data from the plane showed it was at an altitude of about 120 meters at the time of the collision.
+
+
+U.S. President Donald Trump said on his Truth Social platform, “What a terrible night this has been.”
+
+
+“It is a CLEAR NIGHT, the lights on the plane were blazing, why didn’t the helicopter go up or down, or turn. Why didn’t the control tower tell the helicopter what to do instead of asking if they saw the plane,” Trump said. “This is a bad situation that looks like it should have been prevented. NOT GOOD!!!”
+
+
+U.S. Defense Secretary Pete Hegseth called the situation “absolutely tragic.”
+
+
+“Search and rescue efforts still ongoing. Prayers for all impacted souls, and their families,” Hegseth said on X.
+
+
+
+
+American Airlines CEO Robert Isom said he and a team from the company were traveling to Washington to provide assistance.
+
+
+"This is a difficult day for all of us at American airlines and our efforts now are focused entirely now on the needs of our passengers, crew members, partners, first responders, along with their families and loved ones,” Isom said in a video statement.
+
+
+The last fatal U.S. passenger plane crash happened in 2009 in Buffalo, New York.
+
+
+Some information for this report came from The Associated Press, Agence France-Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/regional-jet-collides-with-helicopter-near-washington-s-reagan-airport/7956456.html>
+
+---
+
+## US Federal Reserve holds rates steady, sees inflation as 'elevated'
+
+date: 2025-01-30, from: VOA News USA
+
+WASHINGTON — The Federal Reserve left its benchmark interest rate unchanged Wednesday after cutting it three times in a row last year, a sign of a more cautious approach as the Fed seeks to gauge where inflation is headed and what policies President Donald Trump may pursue.
+
+
+In a statement, the Fed said the job market is "solid," and noted that the unemployment rate "has stabilized at a low level in recent months." The Fed also appeared to toughen its assessment of inflation, saying that it "remains somewhat elevated." Both a healthier job market and more stubborn inflation typically would imply fewer Fed rate cuts in the coming months.
+
+
+In a news conference Wednesday, Federal Reserve Chair Jerome Powell largely deflected questions about recent comments from Trump, including one from last week, when the president said he would lower oil prices and then "demand" lower rates. He also said he would speak with Powell about it.
+
+
+"I'm not going to have any response or comment on whatever the president said," Powell said. Asked if Trump had communicated his desire for lower rates directly to Powell, the Fed chair said he had "no contact."
+
+
+Regarding the Fed's key rate, Powell conveyed a more deliberate approach, noting that the economy is mostly healthy — the unemployment rate is a low 4.1% and growth topped 3% at an annual rate in the fall.
+
+
+"With ... the economy remaining strong, we do not need to be in a hurry to adjust our policy stance," Powell said.
+
+
+Asked about the potential impact of the sharp policy changes Trump has proposed regarding tariffs, immigration, tax cuts and deregulation, Powell said Fed policymakers are "waiting to see which policies are enacted."
+
+
+"We don't know what will happen," he added. "We need to let those policies be articulated before we can even begin to make a plausible assessment of what their implications for the economy will be."
+
+
+Kathy Bostjancic, chief economist at Nationwide Financial, said Powell's comments suggest the Fed won't cut rates again until the middle of this year.
+
+
+"We are all in wait-and-see mode, including the Fed," she said.
+
+
+The Fed reduced its rate last year to 4.3% from 5.3%, in part out of concern that the job market was weakening. Hiring had slowed in the summer and the unemployment rate ticked up, leading Fed officials to approve an outsized half-point cut in September. Yet hiring rebounded last month and the unemployment rate declined slightly, to a low 4.1%.
+
+
+Powell has said it is harder to gauge where inflation is headed, in part because of increased uncertainty around what policies Trump will adopt and how quickly they will affect the economy. Higher tariffs and tax cuts could push inflation higher, while deregulation could possibly reduce it.
+
+
+The Fed typically keeps interest rates high to slow borrowing and spending and cool inflation.
+
+
+In December, Fed officials signaled they may reduce their rate just twice more this year. Goldman Sachs economists believe those cuts won't happen until June and December.
+
+
+In November, inflation was just 2.4%, according to the Fed's preferred measure, not far from its 2% target. But excluding the volatile food and energy categories, core prices rose a more painful 2.8% from a year earlier. The Fed pays close attention to core prices because they are often a better guide to inflation's future path.
+
+
+Powell said the Fed wants to see "real progress on inflation or ... some weakness in the labor market before we consider" making further cuts.
+
+
+In a post to his Truth Social account late Wednesday, Trump criticized the Fed for failing to curtail inflation, saying he would do so by "unleashing American Energy production, slashing Regulation, rebalancing international Trade, and reigniting American Manufacturing."
+
+
+During the news conference, Powell was also asked about Trump's executive orders intended to limit diversity, equity and inclusion programs, which Powell has previously backed.
+
+
+"As has been our practice over many administrations, we are working to align our policies with the executive orders as appropriate and consistent with applicable law," he said. 
+
+<br> 
+
+<https://www.voanews.com/a/us-federal-reserve-holds-rates-steady-sees-inflation-as-elevated-/7956433.html>
+
+---
+
+## Trump says he will detain undocumented migrants at Guantanamo Bay
+
+date: 2025-01-30, from: VOA News USA
+
+white house — U.S. President Donald Trump said Wednesday that he would sign an executive action directing his administration to prepare to detain undocumented migrants at Guantanamo Bay, Cuba.
+
+
+The U.S. detention facility is known mostly for housing military prisoners and terror suspects, including those involved in the 9/11 attacks and members of the Taliban.
+
+
+His order will instruct the Defense and Homeland Security departments to prepare the U.S. naval base to hold 30,000 migrants, Trump said.
+
+
+“Some of them are so bad we don’t even trust the countries to hold them because we don’t want them coming back. So we’re going to send them out to Guantanamo,” Trump added. “This will double our capacity immediately. And tough, it’s a tough place to get out of.”
+
+
+Trump made the announcement during a White House event during which he signed the Laken Riley Act into law. It was the first legislation he'd signed in his second term. The bill, named after a 22-year-old nursing student who was murdered last year by an undocumented Venezuelan immigrant, aims to expand the federal government's mandate to detain immigrants who are in the country illegally.
+
+
+It's unclear how the administration proposes to do this. Asked by reporters, Homeland Security Secretary Kristi Noem said this was something the White House was “working on, to use resources that we currently have there at Guantanamo Bay.”
+
+
+“We'll go through the process,” she said, adding that the administration was working with lawmakers to fund it. She offered no estimate of the cost.
+
+
+A White House official, speaking on background, a method often used by U.S. officials to remain anonymous, told VOA that Trump had signed a presidential memorandum regarding housing migrants at Guantanamo.
+
+
+Presidential memoranda are less formal than executive orders. For example, they do not have to be submitted to the Federal Register for publication.
+
+
+Late Wednesday, the White House published the executive memorandum.
+
+
+Trump’s border czar, Tom Homan, said Wednesday that U.S. Coast Guard personnel already tasked to intercept illegal migrants at sea “can take them straight to Guantanamo Bay.”
+
+
+
+
+Homan told reporters that migrants had been housed there before.
+
+
+“So we're just going to expand upon the existing migrant center logistics to work for that,” he said.
+
+
+According to a September 2024 report from the International Refugee Assistance Project, the U.S. has for decades detained migrants intercepted at sea in the Migrant Operations Center at Guantanamo Bay under prisonlike conditions.
+
+
+IRAP and other immigration rights advocates have called for the immediate closure of the migrant center. The organization also called on Congress to investigate alleged human rights abuses at the facility and called for the end of migrant detention operations everywhere.
+
+
+Later Wednesday, U.S. Defense Secretary Pete Hegseth called Guantanamo Bay the "perfect place" for criminal migrants. Hegseth told Fox News that Guantanamo Bay could also temporarily hold other undocumented immigrants while they’re waiting to be sent back to their home countries.
+
+
+"It's folks who maybe are in transit to their home country or a safe harbor country, and it's taking a little time to move with that processing of the paperwork,” he said, adding, "Better they be held at a safe location, like Guantanamo Bay, which is meant and built for migrants, meant and built to sustain that away from the American people.”
+
+
+According to media reports, Immigration and Customs Enforcement averaged 710 arrests per day from Thursday through Monday, more than double the daily average of 311 recorded in the 12-month period through September under President Joe Biden.
+
+
+If ICE officers continue with these detentions, it would exceed the agency’s previous record set during President Barack Obama's administration in 2013, when daily arrests averaged 636.
+
+
+The Trump administration has intensified deportations, with ICE regularly updating arrest figures. The swift removals have sometimes created challenges in determining where to send deportees, especially when certain countries refuse to accept them.
+
+
+Closing Guantanamo
+
+
+Democratic administrations under Obama and Biden had sought to close the notorious detention camp. It was built by the George W. Bush administration in the Guantanamo Bay U.S. naval base facility in 2002 following the U.S. invasion of Afghanistan that began shortly after the 9/11 attacks of 2001.
+
+
+Rights groups say that Guantanamo is a symbol of U.S. disregard for the rule of law, as many detainees were held there without charge or trial.
+
+
+Sue Hendrickson, president and CEO of Human Rights First, said in a statement that sending migrants to Guantanamo would create a human rights catastrophe.
+
+
+“Housing accused terrorists at Guantanamo has been a debacle. For the past 20 years, the U.S. government has locked up people it never even accused of taking action against the United States while continually failing to try those credibly charged with serious crimes,” she wrote.
+
+
+“The Trump administration may find the symbolism of sending migrants to Guantanamo darkly appealing; its practical result would be more injustice, waste and self-inflicted loss of credibility,” Hendrickson added.
+
+
+At its height during the Global War on Terror, the detention facility held about 680 prisoners. According to the Pentagon, as of January 6, there were just 15 detainees at the facility.
+
+
+Before being used to detain terror suspects, the U.S. naval facility was also used to house migrants from Cuba and Haiti in the early 1990s, per the nonpartisan Congressional Research Service.
+
+
+"At one point in late 1994, the migrant population of the naval station approached 45,000," a CRS report dated August 2022 said. The report noted the last of the migrants had left by the end of January 1996.
+
+
+VOA's Jeff Seldin contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-says-he-will-detain-undocumented-migrants-at-guantanamo-bay/7956419.html>
+
+---
+
+## Trump Health and Human Services nominee defends past statements about vaccines, COVID, health care
+
+date: 2025-01-30, from: VOA News USA
+
+Robert F. Kennedy Jr., President Donald Trump’s nominee to serve as the nation’s top health official, faced tough questions from senators Wednesday about his views on vaccinations, COVID-19 and the nation’s health care system. A member of one of America’s most famous political families, Kennedy could face a tough road to confirmation. VOA’s Congressional Correspondent Katherine Gypson has more. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-health-and-human-services-nominee-defends-past-statements-about-vaccines-covid-and-health-care/7956416.html>
+
+---
+
+## What you need to know about DeepSeek and the AI race
+
+date: 2025-01-30, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>Today, we’re diving into a listener’s question about the new artificial intelligence chatbot on the scene. Chinese start-up DeepSeek&#8217;s AI model is said to be more cost-effective, less complex, and in some ways, just plain better than OpenAI’s ChatGPT. We&#8217;ll explain why the stock market&#8217;s freaking out and what it means for the U.S.-China AI race. Plus, we&#8217;ll share a story about a historic test flight that&#8217;ll have aviation nerds smiling. And the iconic &#8220;When Harry Met Sally&#8221; diner scene is recreated 35 years later. IYKYK.</p>
+<p>Here’s everything we talked about today:</p>
+<ul>
+<li>“<a href="https://www.nytimes.com/2025/01/28/business/deepseek-owner-china-ai.html">How DeepSeek Went From Stock Trader to A.I. Star”</a> from The New York Times</li>
+</ul>
+<p><!-- /wp:paragraph --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.nytimes.com/2025/01/28/business/energy-environment/chevron-power-plant-ai.html">“Chevron Wants to Tap Into A.I. Boom by Selling Electricity to Data Centers”</a> from The New York Times</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2025-01-28/deepseek-s-ai-model-just-upended-the-white-hot-us-power-market?cmpid=BBD012825_GREENDAILY&amp;utm_medium=email&amp;utm_source=newsletter&amp;utm_term=250128&amp;utm_campaign=greendaily">“DeepSeek’s AI Model Just Upended the White-Hot US Power Market”</a> from  Bloomberg</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.energy.gov/articles/doe-releases-new-report-evaluating-increase-electricity-demand-data-centers">“DOE Releases New Report Evaluating Increase in Electricity Demand from Data Centers”</a> from the Department of Energy</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://heatmap.news/sparks/deepseek-ge-vernova-oklo-constellation#">“China’s DeepSeek Ends the Party for U.S. Energy Stocks”</a> from Heatmap News</li>
+<li>&#8220;<a href="https://www.hollywoodreporter.com/business/business-news/when-harry-met-sally-super-bowl-ad-billy-crystal-meg-ryan-hellmanns-1236121148/">Billy Crystal and Meg Ryan Return as Harry and Sally in Hellmann’s Super Bowl Spot</a>&#8221; from The Hollywood Reporter</li>
+<li>Video: <a href="https://www.space.com/space-exploration/tech/boom-supersonic-xb-1-jet-breaks-sound-barrier-on-historic-test-flight">&#8220;Boom Supersonic XB-1 jet breaks sound barrier on historic test flight&#8221;</a> from Space</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Got a question or comment for us? Leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/01/29/mms_20250129_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fwhat-you-need-to-know-about-deepseek-and-the-ai-race&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/01/29/mms_20250129_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fwhat-you-need-to-know-about-deepseek-and-the-ai-race&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/what-you-need-to-know-about-deepseek-and-the-ai-race>
+
+---
+
+## Evening Roundup, January 29
+
+date: 2025-01-29, from: The Contrarian
+
+Jared Bernstein, Garry Kasparov, and Dr. Julie Sweetland break down and parse the threats of economic negligence, rising new oligarchs, and the bloated disinformation we're facing today 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-january-29>
+
+---
+
+## VOA Mandarin: How US Cabinet nominees are vetted, approved
+
+date: 2025-01-29, from: VOA News USA
+
+WASHINGTON — The U.S. Senate kicked off Robert F. Kennedy Jr.'s confirmation hearing Wednesday. Candidates for the President's Cabinet must be confirmed by the Senate. But individuals considered for politically appointed positions are thoroughly vetted during presidential transitions by a president-elect's legal team. What to know about this process. 
+
+
+Click here for the full story in Mandarin. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-mandarin-how-us-cabinet-nominees-are-vetted-approved/7956075.html>
+
+---
+
+## Former US Senator Menendez gets 11 years in prison for bribes, acting as agent of Egypt
+
+date: 2025-01-29, from: VOA News USA
+
+NEW YORK — Former U.S. Senator Bob Menendez was sentenced Wednesday to 11 years in prison for accepting bribes of gold and cash and acting as an agent of Egypt — crimes his own lawyer said earned him the nickname “Gold Bar Bob.” 
+
+
+U.S. District Judge Sidney H. Stein announced the sentence after the Democrat tearfully addressed the judge, saying he’d lost everything he cared about, except for his family. 
+
+
+“You were successful, powerful, you stood at the apex of our political system,” the judge said. ”Somewhere along the way, and I don’t know when it was, you lost your way and working for the public good became working for your good.” 
+
+
+Menendez’s actions, the judge said, feeds the cynicism of voters. 
+
+
+“What’s been the result?" he said, noting a lengthy investigation of a five-year crime. "You lost your senate seat. You lost your chairmanship and you lost your good name.” 
+
+
+Menendez, 71, who tearfully told the judge in court that he was chastened, was defiant when he stepped before cameras at a bank of microphones outside the Manhattan courthouse, saying: “I am innocent.” 
+
+
+
+
+He then railed against the judicial system and aligned himself with President Donald Trump's recent criticisms of the judicial system, particularly in New York City. 
+
+
+“President Trump is right. This process is political and it’s corrupted to the core. I hope President Trump cleans up the cesspool and restores the integrity to the system,” he said, reading from a sheet of paper and calling himself the victim of “the Wild West of political prosecutions.” 
+
+
+Prosecutors had requested a 15-year prison term for Menendez, who was convicted of multiple charges including acting as an agent for Egypt for selling his once-considerable clout in Washington for bribes worth hundreds of thousands of dollars. 
+
+
+Menendez: I’ve done more good than bad
+
+
+Given a chance to speak in court, Menendez broke down several times as he described his accomplishments. 
+
+
+“You really don’t know the man you are about to sentence,” Menendez told Stein as he stood before him with his hands in his pockets, except when he wiped his face several times with a tissue. 
+
+
+“Your honor, I am far from a perfect man. I have made more than my share of mistakes and bad decisions,” he added. “I’ve done far more good than bad. I ask you, your honor, to judge me in that context.” 
+
+
+Attorney Adam Fee told Stein to give Menendez credit for a “lifetime of extraordinary public service and personal sacrifices.” 
+
+
+“Despite his decades of service, he is now known more widely as Gold Bar Bob,” Fee said. 
+
+
+Menendez's lawyers had said prior to the sentencing that their client deserves less than two years in prison, describing how the son of Cuban immigrants rose from poverty to become “the epitome of the American Dream” before his conviction had “rendered him a national punchline.” 
+
+
+
+
+He'd beaten a prosecution once before. 
+
+
+In 2015, he was charged with selling his influence to a wealthy Florida eye doctor and entrepreneur who prosecutors said lavished him with luxury vacations and campaign contributions. But the jury in that case couldn’t reach a unanimous verdict. Federal prosecutors dropped the case rather than put him on trial again. 
+
+
+Businessmen sentenced
+
+
+Before sentencing Menendez, Stein sentenced two men convicted of bribing Menendez, giving Fred Daibes, a real estate developer, a seven-year prison term and Wael Hana, an entrepreneur, eight years behind bars. 
+
+
+Prior to the announcement of his sentence, Daibes, 67, tearfully told Stein the jury verdict had left him “borderline suicidal,” and requested leniency so that he could care for his 30-year-old autistic son. 
+
+
+Hana told the judge, “I am an innocent man." 
+
+
+A third businessman pleaded guilty and testified against Menendez at a trial last year. 
+
+
+Menendez resigned from the Senate after his conviction last year, though he lost much of his power in fall 2023 when the charges against him were revealed and he was forced to surrender his powerful post as chairman of the Senate Foreign Relations Committee. 
+
+
+Wife faces trial
+
+
+The trial traced Menendez’s dealings with Egyptian officials and his quest to aid three men who showered him with lucrative gifts found during a 2022 raid on the Englewood Cliffs, New Jersey, home he shared with his wife, Nadine. His wife faces a March trial on many of the same charges as her husband. 
+
+
+FBI agents who searched the house found $480,000, some of it stuffed inside boots and the pockets of clothing hung in the couple's closets. They also seized gold bars worth an estimated $150,000. 
+
+
+
+
+Prosecutors said Menendez had “put his high office up for sale in exchange for this hoard of bribes,” including by serving Egypt’s interests as he worked to protect a meat certification monopoly Hana had established with the Egyptian government. 
+
+
+Among other things, Menendez provided Egyptian officials with information about the staff at the U.S. Embassy in Cairo and ghostwrote a letter to fellow senators encouraging them to lift a hold on $300 million in military aid to Egypt. 
+
+
+Prosecutors said that for other bribes, Menendez attempted to persuade a federal prosecutor in New Jersey to go easy on Daibes, a politically influential real estate developer accused of bank fraud. 
+
+
+And at the trial, another businessman, Jose Uribe, testified that he helped Nadine Menendez get a Mercedes-Benz convertible after the senator sought to pressure state prosecutors to drop criminal probes of his associates. 
+
+
+Menendez has insisted that he is innocent of any crime, saying repeatedly that his interactions with Egyptian officials were normal for the head of the Foreign Relations Committee, and that he always put American interests first. He denied taking any bribes and said the gold bars belonged to his wife. 
+
+
+In court papers, Menendez's lawyers described how Menendez devoted much of his life to his country and his community after he was scarred by the early loss of his father, who killed himself when Menendez was 23 after he was unable to pay off gambling debts. 
+
+
+They described a 50-year history of public service in heroic terms, tracing a career in which Menendez was mayor of Union City, New Jersey, a state lawmaker, a member of the U.S. House and then a senator from 2006 to 2024. 
+
+<br> 
+
+<https://www.voanews.com/a/former-us-senator-menendez-gets-11-years-in-prison-for-bribes-acting-as-agent-of-egypt/7956117.html>
+
+---
+
+## VOA Mandarin: Taiwan mulls reaction to Trump's tariff plans
+
+date: 2025-01-29, from: VOA News USA
+
+U.S. President Donald Trump has threatened to impose sweeping tariffs on semiconductors. How do analysts and people from Taiwan's chip industry view the potential tariffs?  
+
+
+Click here for the full story in Mandarin. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-mandarin-taiwan-considers-reaction-to-trump-s-tariff-plans-/7956073.html>
+
+---
+
+## What is the Laken Riley Act? A look at the first bill Trump signed
+
+date: 2025-01-29, from: VOA News USA
+
+WASHINGTON — U.S. President Donald Trump on Wednesday signed the first bill of his new term, and it is named after a slain Georgia nursing student whose name became a rallying cry during his White House campaign.
+
+
+Trump said that he appreciated the bipartisan support for the first piece of legislation since he took office on Jan. 20.
+
+
+The Laken Riley Act will require the detention of unauthorized immigrants accused of theft and violent crimes. The bill won bipartisan support in the House and Senate. Senator John Fetterman, a Democrat, attended Wednesday's bill signing at the White House.
+
+
+
+
+Here are some things to know about the Laken Riley Act:
+
+
+Who was Laken Riley?
+
+
+Riley, 22, was a student at Augusta University College of Nursing when she went out for a run on Feb. 22, 2024. Prosecutors said she encountered Jose Antonio Ibarra, who killed her during a struggle. Ibarra waived his right to a jury trial and was found guilty in November of murder and other crimes by a judge, who alone heard and decided the case. Ibarra was sentenced to life without parole.
+
+
+Trump and other Republicans blamed former President Joe Biden for her death because Ibarra had been arrested for illegal entry in September 2022 near El Paso, Texas, amid an unprecedented surge in migration and released to pursue his case in immigration court.
+
+
+“If this act had been the law of the land, he never would have had the opportunity to kill her,” said Representative Mike Collins, a Republican.
+
+
+Biden mentioned Riley during his State of the Union address last year as he spoke about border security and after Representative Marjorie Taylor Greene, a Republican, shouted at him, “Say her name!”
+
+
+ 
+
+
+
+
+What does the bill do?
+
+
+Under the new law, federal officials will be required to detain any migrant arrested or charged with crimes such as shoplifting or assaulting a police officer or crimes that injure or kill someone.
+
+
+“If you come into this country illegally and you commit a crime, you should not be free to roam the streets of this nation,” said Senator Katie Britt of Alabama, who helped push the bill through the Senate.
+
+
+The bill also empowers state attorneys general to sue the federal government for harm caused by failures or decisions in immigration enforcement that harm states or people. That includes releasing migrants from custody or failing to detain migrants who have received deportation orders.
+
+
+The provision gives states some power in setting immigration policy when they have been trying to push back against presidential decisions under the Trump and Biden administrations.
+
+
+While Republicans control both chambers of Congress, 46 Democrats in the House and 12 Democrats in the Senate supported the measure.
+
+
+Why did most Democrats oppose it?
+
+
+Some have raised concerns that the bill will strip due process rights for migrants, including minors or recipients of the Deferred Action for Childhood Arrivals program.
+
+
+“In the wake of tragedy, we are seeing a fundamental erosion of our civil rights,” said Representative Alexandria Ocasio Cortez. “In this bill, if a person is so much as accused of a crime, if someone wants to point a finger and accuse someone of shoplifting, they would be rounded up and put into a private detention camp and sent out for deportation without a day in court.”
+
+
+Most Democrats criticized the lack of funding in the bill, arguing the new law will not solve immigration problems but will impose new requirements on federal authorities. Democrats on the Appropriations Committee estimate the bill will cost $83 billion over the next three years, according to a memo obtained by The Associated Press.
+
+
+Senator Chris Murphy said the bill is “a totally unfunded mandate.”
+
+
+Why did some Democrats back it?
+
+
+Democrats who supported it were mostly from five battleground states and said their constituents demanded more border security and supported deportations of migrants accused of crimes.
+
+
+“Anyone who commits a crime should be held accountable. That’s why I voted to pass the Laken Riley Act,” Senator Catherine Cortez Masto, a Democrat from Nevada, said on social media after its passage.
+
+
+New Hampshire Senators Jeanne Shaheen and Maggie Hassan and Virginia Senator Mark Warner also supported the bill. Shaheen and Warner are each up for a fourth term next year.
+
+
+Fetterman, who also backed the bill because he wants a “secure border,” was the first Senate Democrat to meet with Trump after the election. He has met with many of Trump’s Cabinet picks and broken with his own party on some policy.
+
+
+Senator Ruben Gallego, whose parents are immigrants from Mexico and Colombia, was elected in November and became Arizona's first Latino senator. He said he supported the bill.
+
+
+“We must give law enforcement the means to take action when illegal immigrants break the law, to prevent situations like what occurred to Laken Riley,” he said in a statement. 
+
+<br> 
+
+<https://www.voanews.com/a/what-is-the-laken-riley-act-a-look-at-the-first-bill-trump-signed/7956078.html>
+
+---
+
+## Kennedy struggles to answer questions at confirmation hearing for top health post
+
+date: 2025-01-29, from: VOA News USA
+
+WASHINGTON — In a contentious confirmation hearing on his nomination to become the nation's top health official, Robert F. Kennedy Jr. struggled to answer questions about how he would reform Medicaid or Medicare, the government health care programs used by millions of disabled, poor and older Americans.
+
+
+Republican Senator Bill Cassidy of Louisiana, a physician and key vote Kennedy needs to win, repeatedly pressed the nominee on Wednesday to share ways he plans to reform Medicaid, a multibillion-dollar taxpayer-funded program that covers health care for about 80 million people, including children. Republicans have said they might need to make deep cuts to Medicaid to fund President Donald Trump's proposals.
+
+
+“I don't have a broad proposal for dismantling the program,” Kennedy said.
+
+
+Kennedy also inaccurately claimed that Medicaid is fully paid for by the federal government. It's not; states and federal taxpayers fund it. He also said most Americans have purchased a Medicare Advantage plan, when only about 1 in 10 Americans have.
+
+
+His misstatements about the program were peppered in between suggestions that he would seek to push privatization of the programs, repeatedly saying that most Americans like private insurance and that they dislike the government-run versions of the programs.
+
+
+
+
+Kennedy is seeking to lead the Department of Health and Human Services, an agency with a $1.7 trillion budget that oversees, among other things, vaccine recommendations, food inspections, hospital oversight, and funding for hundreds of community health clinics.
+
+
+In sometimes heated exchanges Wednesday, Kennedy denied that he is anti-vaccine. But Kennedy, who pointed out that his children are vaccinated, acknowledged he has asked “uncomfortable questions” about vaccinations.
+
+
+"I believe that vaccines play a critical role in health care,” Kennedy told the Senate Finance Committee.
+
+
+Republicans did not ask Kennedy about his vaccine views during the first hour of the hearing.
+
+
+But Democrats did, with Senator Ron Wyden of Oregon pointing out that Kennedy has previously claimed there's “no safe” vaccine, initiating a back-and-forth between him and Kennedy. Wyden also quoted from Kennedy's books, which say that parents have been “misled” on the measles vaccine.
+
+
+“You have spent years pushing conflicting stories about vaccines,” Wyden said.
+
+
+Over many years, Kennedy has expressed his beliefs about vaccines in dozens of interviews, podcasts and social media posts.
+
+
+He's led a nonprofit that has sued the government over its authorizations of vaccines. He has said there is “no vaccine that is safe and effective” and repeatedly has called for further study of routine childhood vaccinations, despite decades of research and real-world use that prove they've safely prevented disease.
+
+
+Republicans focused on questions about agriculture, food and the abortion pill, which many women access via telemedicine systems.
+
+
+Kennedy tried to assure senators that he would not seek widespread bans on vaccines or food, saying he wants to provide more information to people.
+
+
+“I don’t want to take food away from anybody," he said. "If you like a cheeseburger – a McDonald’s cheeseburger and a Diet Coke, like my boss — you should be able to get them.”
+
+
+Kennedy hails from one of the nation’s most storied political families and is the son of the late Attorney General Robert F. Kennedy and the nephew of President John F. Kennedy.
+
+
+
+He first challenged President Joe Biden for the 2024 Democratic presidential nomination. He then ran as an independent but abandoned his bid over the summer after striking a deal to endorse Trump, a Republican, in exchange for a promise to serve in a health policy role during a second Trump administration.
+
+
+Trump selected Kennedy in November, shortly after he won the presidential election, saying Kennedy would “end the Chronic Disease epidemic” and “Make America Great and Healthy Again!” With Kennedy being one of the most prominent anti-vaccine activists in the world, his nomination immediately alarmed some public health officials. 
+
+<br> 
+
+<https://www.voanews.com/a/kennedy-struggles-to-answer-questions-at-senate-confirmation-hearing-for-top-health-post-/7956093.html>
+
+---
+
+## The New Oligarchs
+
+date: 2025-01-29, from: The Contrarian
+
+On the dangerous breed of ideologically-motivated billionaires who believe that democratic institutions have no purpose--and who are ready to use their wealth to advance their alternative visions 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-new-oligarchs>
+
+---
+
+## How the economy responds to Fed decisions is … complicated
+
+date: 2025-01-29, from: Market Place
+
+When the Fed cuts interest rates, people expect mortgage rates to also go down. But in 2024, the opposite happened. 
+
+<br> 
+
+<https://www.marketplace.org/2025/01/29/how-the-economy-responds-to-fed-decisions-is-complicated/>
+
+---
+
+##  How Crypto Mined Sinema 
+
+date: 2025-01-29, from: The Lever News
+
+ Kyrsten Sinema took cash and did favors for cryptocurrency companies while in Congress. Now, she’s going to work for one of them.  
+
+<br> 
+
+<https://www.levernews.com/how-crypto-mined-sinema/>
+
+---
+
+## White House rescinds memo freezing federal grants after widespread confusion
+
+date: 2025-01-29, from: VOA News USA
+
+WASHINGTON — U.S. President Donald Trump's budget office on Wednesday rescinded a memo freezing spending on federal grants, less than two days after it sparked widespread confusion and legal challenges across the country.
+
+
+The Monday evening memo from the White House Office of Management and Budget sparked uncertainty over a crucial financial lifeline for states, schools and organizations that rely on trillions of dollars from Washington and left the White House scrambling to explain what would and wouldn't be subject to a pause in funding.
+
+
+The reversal was the latest sign that even with unified control of Washington, Trump's plans to dramatically and rapidly reshape the government has some limits.
+
+
+The White House confirmed that OMB pulled the memo Wednesday in a two-sentence notice sent to agencies and departments but said that Trump's underlying executive orders targeting federal spending in areas such as diversity, equity and inclusion and climate change remained in place.
+
+
+Administration officials said the notice to halt loans and grants was necessary to conduct a review to ensure that spending complies with Trump’s recent blitz of executive orders. Agencies had been directed to answer a series of yes or no questions on each federal program by Feb. 7. The questions included “does this program promote gender ideology?” and “does this program promote or support in any way abortion?”
+
+
+Still, the vaguely worded memo, combined with incomplete answers from the White House throughout the day, left lawmakers, public officials and average Americans struggling to figure out what programs would be affected by the pause. Even temporary interruptions in funding could cause layoffs or delays in public services.
+
+
+The freeze was scheduled to go into effect at 5 p.m. Tuesday but was stayed by a federal judge until at least Monday after an emergency hearing requested by nonprofit groups that receive federal grants. An additional lawsuit by Democratic state attorneys general was also pending.
+
+
+
+
+“The Executive Orders issued by the President on funding reviews remain in full force and effect and will be rigorously implemented by all agencies and departments,” White House press secretary Karoline Leavitt said, blaming the confusion on the courts and news outlets, not the administration. “This action should effectively end the court case and allow the government to focus on enforcing the President’s orders on controlling federal spending."
+
+
+Administration officials insisted that despite the confusion, the order still had its intended effect by underscoring to federal agencies their obligations to abide by Trump's executive orders.
+
+
+Although Trump had promised to turn Washington upside down if elected to a second term, the effects of his effort to pause funding were being felt far from the nation’s capital. Organizations such as Meals on Wheels, which receives federal money to deliver food to the elderly, and Head Start, which provides early childcare in lower-income communities, were worried about getting cut off.
+
+
+On Tuesday, Trump administration officials said programs that provide direct assistance to Americans, including Medicare, Social Security, student loans and food stamps, would not be affected. But they sometimes struggled to provide a clear picture.
+
+
+Leavitt initially would not say whether Medicaid was exempted from the freeze, but the administration later clarified that it was.
+
+
+Democratic critics of the order moved swiftly to celebrate the action.
+
+
+“This is an important victory for the American people whose voices were heard after massive pressure from every corner of this country — real people made a difference by speaking out," said Senator Patty Murray. "Still, the Trump administration — through a combination of sheer incompetence, cruel intentions and a willful disregard of the law — caused real harm and chaos for millions over the span of the last 48 hours which is still ongoing."
+
+
+Senate Democratic leader Chuck Schumer said, “Americans fought back, and Donald Trump backed off." 
+
+<br> 
+
+<https://www.voanews.com/a/white-house-rescinds-memo-freezing-federal-grants/7956004.html>
+
+---
+
+## Jen Rubin interviews Dr. Julie Sweetland on disinformation in the scientific community
+
+date: 2025-01-29, from: The Contrarian
+
+With today marking the first day of Robert F. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156043133/41e6ff8ee62ba79dac90622898cf145b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156043133/41e6ff8ee62ba79dac90622898cf145b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-interviews-dr-julie-sweetland>
+
+---
+
+## In Crossville, Tennessee, higher living costs are a “hard pill” to swallow
+
+date: 2025-01-29, from: Market Place
+
+Two community outposts in the town of Crossville aim to ease the stresses of seniors on fixed incomes.   
+
+<br> 
+
+<https://www.marketplace.org/2025/01/29/aging-population-community-outposts-crossville-seniors-fixed-incomes-cost-of-living/>
+
+---
+
+## Rare Declaration of Independence sold at Christie’s for $2.47 million
+
+date: 2025-01-29, from: VOA News USA
+
+According to Harvard University, about 200 copies of the original Declaration of Independence were produced in 1776. Only about two dozen remain. In New York, a new copy from the times of the Founding Fathers was discovered. On Jan. 24, it was put on auction. Elena Wolf has the story, narrated by Anna Rice. Videographer: Michael Eckels 
+
+<br> 
+
+<https://www.voanews.com/a/rare-declaration-of-independence-sold-at-christie-s-for-2-47-million/7955824.html>
+
+---
+
+##  Trump’s Tech Donors Have Big Plans For Greenland 
+
+date: 2025-01-29, from: The Lever News
+
+ A Trump takeover of Greenland could open the door to tech moguls’ mineral interests and their utopian aspirations.  
+
+<br> 
+
+<https://www.levernews.com/trumps-tech-donors-have-big-plans-for_greenland/>
+
+---
+
+## Debate rages over Trump's push to end birthright citizenship
+
+date: 2025-01-29, from: VOA News USA
+
+Washignton — President Donald Trump’s executive order to end birthright citizenship in the U.S. has ignited a legal and political debate, raising questions about the 14th Amendment to the U.S. Constitution and the extent of presidential power.
+
+
+The amendment guarantees citizenship to anyone born on U.S. soil.
+
+
+“We're the only country in the world that does this with birthright, as you know. And it's just absolutely ridiculous. But, you know, we'll see. We think we have very good grounds and certain people have wanted to do this for decades,” Trump said while signing the executive order on his first day in office.
+
+
+The United States is one of about 30 countries that grant automatic citizenship to individuals born on their soil, including Brazil, Mexico, and Canada, among others. The practice is known as jus soli (Latin for "right of the soil"). But the U.S. remains notable for its broad application of unconditional jus soli, as enshrined in the 14th Amendment.
+
+
+Are there limits to 14th Amendment?
+
+
+The amendment, ratified in 1868, was designed to address citizenship questions following the U.S. Civil War and to overrule the Supreme Court's 1857 Dred Scott decision, which denied African Americans citizenship.
+
+
+The text reads: “All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.”
+
+
+“This language ratifies the traditional understanding that anyone born in the United States is automatically a citizen,” John Yoo, a professor at University of California Berkeley Law School and visiting fellow at the Hoover Institute, told VOA in a phone intervie
+
+
+However, critics argue that the phrase "subject to the jurisdiction thereof" implies that at least one parent must be a U.S. citizen for a child to be granted citizenship.
+
+
+According to Yoo, this interpretation aligns more closely with the European jus sanguinis, or “law of blood” approach, which ties citizenship to parentage rather than birthplace.
+
+
+“To me, that just doesn’t make sense of the language of the 14th Amendment and historical practice,” Yoo said. “The Supreme Court, in cases like United States v. Wong Kim Ark, has consistently interpreted the amendment to mean birthright citizenship.”
+
+
+Critics of Trump’s executive order say the 14th Amendment is a cornerstone of civil rights in the United States.
+
+
+
+
+However, supporters of the executive order argue a more limited interpretation of the amendment is warranted.
+
+
+"President Trump has made it clear that restoring fairness to our immigration system and defending the true intent of the 14th Amendment are central to his vision of making America great again,” Republican Congressman Brian Babin of Texas, told reporters during a press conference last Thursday.
+
+
+Amy Swearer, a senior legal fellow at The Heritage Foundation, a conservative think tank, wrote in a report in 2019 that there is good reason for the United States to reconsider its long-standing policy of automatically granting citizenship to everyone born on U.S. soil.
+
+
+Swearer argued that the 14th Amendment was intended to give birthright citizenship only to those U.S.-born children whose parents were “like the freed slaves, subject to the complete jurisdiction of the United States. In a modern immigration context, this would mean that the Constitution only mandates birthright citizenship for the U.S.-born children of citizens, nationals, and lawful permanent residents.”
+
+
+Legal challenges
+
+
+Trump’s executive order is facing significant legal challenges, with multiple lawsuits in progress. Twenty-two Democratic-led states have filed a lawsuit arguing the order violates the 14th Amendment.
+
+
+A federal judge in Seattle has temporarily stopped the birthright citizenship order from taking effect. Last Thursday, U.S. District Judge John C. Coughenour of Seattle temporarily blocked it, describing it as "blatantly unconstitutional."
+
+
+But if the case reaches the Supreme Court, the outcome could reshape the nation’s understanding of citizenship.
+
+
+If the court were to side with Trump, the most immediate impact will be on newborns and those yet to receive birth certificates and Social Security numbers. And questions about retroactive application would arise.
+
+
+“Figuring out how this rule would operate retroactively is extremely complex. Would it deny citizenship to people born here historically without citizen parents? How far back would it go? These are precisely the issues the 14th Amendment was designed to avoid,” Yoo told VOA.
+
+
+While much of the focus is on judicial challenges, Yoo pointed out that Congress could settle the issue legislatively.
+
+
+“Congress could extend birthright citizenship by statute, reaffirming the traditional understanding. But it’s unclear what Congress might do in this politically charged environment,” Yoo said.
+
+
+Still, he believes the Supreme Court would uphold birthright citizenship.
+
+
+“The text of the 14th Amendment, its history, and consistent Supreme Court rulings all point to birthright citizenship,” he said. 
+
+<br> 
+
+<https://www.voanews.com/a/debate-rages-over-trump-s-push-to-end-birthright-citizenship/7955708.html>
+
+---
+
+## Trump throws a monkey wrench into economy, vulnerable people hardest hit
+
+date: 2025-01-29, from: The Contrarian
+
+Jen Rubin interviews Jared Bernstein about the Trump administration&#8217;s pause of federal grants and funding and its on impact on the economy. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156025840/7f4a306595cba805bf1b4c03d655d12e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156025840/7f4a306595cba805bf1b4c03d655d12e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/trump-throws-a-monkey-wrench-into>
+
+---
+
+## Morning Roundup: Trump’s Spending Freeze Already Has Consequences
+
+date: 2025-01-29, from: The Contrarian
+
+January 29: Ilan Goldenberg, Jim Acosta, Dr. Cynthia Idriss-Miller, Jennifer Weiss-Wolf and more 
+
+<br> 
+
+<https://contrarian.substack.com/p/morning-roundup-trumps-spending-freeze>
+
+---
+
+## Border Crossings Have Declined. Yet ICE Keeps Moving Migrants Out of San Diego.
+
+date: 2025-01-29, from: Capital and Main
+
+<p>For those moved to detention facilities elsewhere in the country the odds of winning asylum decrease greatly.</p>
+<p>The post <a href="https://capitalandmain.com/border-crossings-have-declined-yet-ice-keeps-moving-migrants-out-of-san-diego">Border Crossings Have Declined. Yet ICE Keeps Moving Migrants Out of San Diego.</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/border-crossings-have-declined-yet-ice-keeps-moving-migrants-out-of-san-diego>
+
+---
+
+## Jen Rubin and Dr. Cynthia Miller-Idriss discuss J6 pardons and impact on domestic terrorism
+
+date: 2025-01-29, from: The Contrarian
+
+Jen Rubin interviews Dr. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155960126/02bf09c6542a80611e4b5932c4c56722.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155960126/02bf09c6542a80611e4b5932c4c56722.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-dr-cynthia-miller-idriss>
+
+---
+
+## Trump’s Foreign Aid Spending Freeze – a Combination of Chaos and Cruelty
+
+date: 2025-01-29, from: The Contrarian
+
+The global consequences of the administration&#8217;s 90-day funding pause have already begun 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-foreign-aid-spending-freeze>
 
 ---
 
@@ -1152,7 +2407,7 @@ date: 2025-01-28, from: Market Place, Make me Smart
 date: 2025-01-28, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjA1NzAyOC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4NzA3Mjk3Nn0.OoWSckBIkQBORI6XfBA0bdeRos1OBDF-rf0AnQE9C6A/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><em>Editor’s note: On Tuesday evening, in response to the lawsuit described below, a federal judge temporarily halted enforcement of the OMB memo.</em><br/></p><p class="drop-caps">
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjA1NzAyOC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4NzA3Mjk3Nn0.OoWSckBIkQBORI6XfBA0bdeRos1OBDF-rf0AnQE9C6A/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><em>UPDATE: On Wednesday, the Office of Management and Budget rescinded the memo cited in this story, according to multiple reports.</em></p><p class="drop-caps">
 	The Trump administration has specifically targeted many large federal energy and climate programs in its sweeping freeze and review of grant funding, according to a list obtained by Heatmap News.</p><p>
 	The list follows the release of a <a href="https://www.nytimes.com/interactive/2025/01/27/us/omb-memo.html" rel="noopener noreferrer" target="_blank"><u>two-page memo</u></a> dated January 27 and released Monday evening, in which the Office of Management and Budget ordered a pause on federal grant programs that “advance[s] Marxist equity, transgenderism, and green new deal social engineering policies.” The memo was first reported by independent journalist Marisa Kabas and stated that the pause would go into effect at 5 p.m. ET Tuesday.
 </p><p>

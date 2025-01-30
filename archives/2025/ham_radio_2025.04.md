@@ -1,11 +1,39 @@
 ---
 title: ham radio
-updated: 2025-01-29 07:04:54
+updated: 2025-01-30 07:04:46
 ---
 
 # ham radio
 
-(date: 2025-01-29 07:04:54)
+(date: 2025-01-30 07:04:46)
+
+---
+
+## Ground-fault interruption protection—without a ground?
+
+date: 2025-01-30, from: EDN Blog
+
+<p>Three-wire GFCI units can provide protection even for older, two-wire AC receptacles.</p>
+<p>The post <a href="https://www.edn.com/ground-fault-interruption-protection-without-a-ground/" data-wpel-link="internal">Ground-fault interruption protection—without a ground?</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/ground-fault-interruption-protection-without-a-ground/>
+
+---
+
+## DeepSeek’s AI stunner and the future of Nvidia
+
+date: 2025-01-30, from: EDN Blog
+
+<img width="1100" height="619" src="https://www.edn.com/wp-content/uploads/Hero-image-H800.jpg?fit=1100%2C619" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-H800.jpg?w=1100 1100w, https://www.edn.com/wp-content/uploads/Hero-image-H800.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-H800.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-H800.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-H800.jpg?w=800 800w" sizes="auto, (max-width: 1100px) 100vw, 1100px" /><p>While DeepSeek’s AI affair seems more political than technological, here is a closer look at the design engineering aspects.</p>
+<p>The post <a href="https://www.edn.com/deepseeks-ai-stunner-and-the-future-of-nvidia/" data-wpel-link="internal">DeepSeek’s AI stunner and the future of Nvidia</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/deepseeks-ai-stunner-and-the-future-of-nvidia/>
 
 ---
 
@@ -13,7 +41,7 @@ updated: 2025-01-29 07:04:54
 
 date: 2025-01-29, from: EDN Blog
 
-<img width="591" height="711" src="https://www.edn.com/wp-content/uploads/PWMSource_Figure1.png?fit=591%2C711" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PWMSource_Figure1.png?w=591 591w, https://www.edn.com/wp-content/uploads/PWMSource_Figure1.png?w=249 249w" sizes="(max-width: 591px) 100vw, 591px" /><p>An unusual path to a power-handling DAC by merging an upside-down LM337 regulator with a PWM circuit to make a 20-V, 1-A current source.</p>
+<img width="591" height="711" src="https://www.edn.com/wp-content/uploads/PWMSource_Figure1.png?fit=591%2C711" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/PWMSource_Figure1.png?w=591 591w, https://www.edn.com/wp-content/uploads/PWMSource_Figure1.png?w=249 249w" sizes="auto, (max-width: 591px) 100vw, 591px" /><p>An unusual path to a power-handling DAC by merging an upside-down LM337 regulator with a PWM circuit to make a 20-V, 1-A current source.</p>
 <p>The post <a href="https://www.edn.com/1-a-20-v-pwm-controlled-current-source/" data-wpel-link="internal">1-A, 20-V, PWM-controlled current source</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

@@ -1,11 +1,183 @@
 ---
 title: food
-updated: 2025-01-29 07:04:58
+updated: 2025-01-30 07:04:50
 ---
 
 # food
 
-(date: 2025-01-29 07:04:58)
+(date: 2025-01-30 07:04:50)
+
+---
+
+## Nominations Are Now Open For The 16th Annual Sprudgie Awards—”The Oscars of Coffee”
+
+date: 2025-01-30, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Open nominations close Tuesday, February 18th at 11:59 PM PST. 
+
+<br> 
+
+<https://sprudge.com/nominations-are-now-open-for-the-16th-annual-sprudgie-awards-the-oscars-of-coffee-270493.html>
+
+---
+
+## Subscription Service Podium Coffee Club Champions Award-Winning Roasters
+
+date: 2025-01-30, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Podium Coffee Club 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new online specialty coffee subscription service called Podium Coffee Club is sending customers roasts exclusively from companies that have won national roasting awards from one of three different sources.&#160;... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/30/subscription-service-podium-coffee-club-champions-award-winning-roasters/>
+
+---
+
+## Collard Greens with Smoked Turkey
+
+date: 2025-01-30, from: Taste of Home
+
+This collard greens with smoked turkey recipe delivers tender meat and perfectly seasoned greens infused with smoky flavor. Save the cooking liquid for soups and other recipes. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/collard-greens-with-smoked-turkey/>
+
+---
+
+## Study: With Reusable Cup Schemes, Gambling Trumps Morality
+
+date: 2025-01-30, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="plastic single use coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Believe it or not, humans may not be drawn to reusable cup schemes due to a sense of moral duty or good old-fashioned guilt. What&#8217;s really going to draw them... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/30/study-with-reusable-cup-schemes-gambling-trumps-morality/>
+
+---
+
+## Five-Spice Beef Noodle Soup
+
+date: 2025-01-30, from: Bon Appetet
+
+Inspired by the flavors of Vietnamese pho, this ground beef and rice noodle soup comes together in just 20 minutes. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/five-spice-beef-noodle-soup>
+
+---
+
+## Hawaiian Pizza Dip
+
+date: 2025-01-30, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/01/Hawaiian-Pizza-Dip-1200-2124.jpg"/></div>
+<p>All of the flavours of Hawaiian pizza in a hot melted cheese dip! I&#8217;m a fan of Hawaiian pizza, pizza with pineapple and ham, and it works great in a hot melted cheese dip! This dip is similar to my pizza dip recipe with the addition of pineapple and ham. The base of the dip...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/hawaiian-pizza-dip/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/hawaiian-pizza-dip/">Hawaiian Pizza Dip</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/hawaiian-pizza-dip/>
+
+---
+
+## Taste of Home 2025 Monthly Bakeable Sweepstakes Series (#325 – #335) Official Rules
+
+date: 2025-01-30, from: Taste of Home
+
+<p>NO PURCHASE OR PAYMENT OF ANY KIND IS NECESSARY TO ENTER OR WIN. PURCHASE WILL NOT IMPROVE AN ENTRY’S CHANCE</p>
+<p>The post <a href="https://www.tasteofhome.com/taste-of-home-2025-monthly-bakeable-sweepstakes-series-325-335-official-rules/">Taste of Home 2025 Monthly Bakeable Sweepstakes Series (#325 &#8211; #335) Official Rules</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/taste-of-home-2025-monthly-bakeable-sweepstakes-series-325-335-official-rules/>
+
+---
+
+## I Tried the Viral Olive Garden Salad Martini, and I Was Pleasantly Surprised
+
+date: 2025-01-29, from: Taste of Home
+
+<p>The Olive Garden salad martini has been circulating around TikTok, so I had to mix this one up at home.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/olive-garden-salad-martini/">I Tried the Viral Olive Garden Salad Martini, and I Was Pleasantly Surprised</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/olive-garden-salad-martini/>
+
+---
+
+## Starbucks Is Bringing Back Its Free Refills and Other Popular Perks
+
+date: 2025-01-29, from: Taste of Home
+
+<p>Free refills and other pre-pandemic perks have made a welcome comeback.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/starbucks-free-refills/">Starbucks Is Bringing Back Its Free Refills and Other Popular Perks</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/starbucks-free-refills/>
+
+---
+
+## CosMc’s Review—Here’s What It’s Like and What I Ordered
+
+date: 2025-01-29, from: Taste of Home
+
+<p>Time to buckle up, because we're taking a ride to the coffee cosmos.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/cosmcs-review/">CosMc&#8217;s Review—Here&#8217;s What It&#8217;s Like and What I Ordered</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/cosmcs-review/>
+
+---
+
+## Air-Fryer Potato Skins
+
+date: 2025-01-29, from: Taste of Home
+
+Air-fryer potato skins are the ultimate tailgate snack, party appetizer and weeknight side rolled into one! Loaded with two kinds of shredded cheese and crumbled bacon, these potato skins are a crowd-pleaser that can be customized with your favorite toppings. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/air-fryer-potato-skins/>
+
+---
+
+## This Is the Only Thing Kate Middleton Eats Every Day for Breakfast
+
+date: 2025-01-29, from: Taste of Home
+
+<p>Remember this the next time you want to eat like royalty.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-does-kate-middleton-eat-for-breakfast/">This Is the Only Thing Kate Middleton Eats Every Day for Breakfast</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-does-kate-middleton-eat-for-breakfast/>
+
+---
+
+## 9 Best Fast-Food Soups, Ranked
+
+date: 2025-01-29, from: Taste of Home
+
+<p>Fast-food isn't just about burgers, fries and nuggets. In fact, fast-food soups are a cozy and surprising way to change up your drive-thru order.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/fast-food-soup/">9 Best Fast-Food Soups, Ranked</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/fast-food-soup/>
 
 ---
 
@@ -49,7 +221,7 @@ An easy technique that results in juicy, tender roast chicken. Cooking two chick
 
 date: 2025-01-29, from: Bon Appetet
 
-This simple, company-worthy menu sets you up for a week of easy dinners. 
+This simple company-worthy menu sets you up for a week of easy dinners. 
 
 <br> 
 
@@ -69,11 +241,23 @@ A mix of leafy greens turns extremely tender with the simplest treatment. Topped
 
 ---
 
+## Chickpeas With 40 Garlic Cloves
+
+date: 2025-01-29, from: Bon Appetet
+
+Braising canned chickpeas in chicken stock and olive oil makes them unbelievably tender and buttery. This is worth the effort of peeling 40 cloves of garlic. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/chickpeas-with-40-garlic-cloves>
+
+---
+
 ## Canvas Coffee + Art House Stretches Out in Greenville, SC
 
 date: 2025-01-29, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Canvas Coffee Art Greenville SC bar" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Offering quality and creativity in equal strokes, Canvas Coffee + Art House recently opened its doors just north of downtown Greenville, South Carolina. Coffees prepared with pointillist precision are served... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Canvas Coffee Art Greenville SC bar" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Offering quality and creativity in equal strokes, Canvas Coffee + Art House recently opened its doors just north of downtown Greenville, South Carolina. Coffees prepared with pointillist precision are served... 
 
 <br> 
 
@@ -99,7 +283,7 @@ date: 2025-01-29, from: Taste of Home
 
 date: 2025-01-29, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/CCs-Coffee-House-620x414.jpg" class="attachment-large size-large wp-post-image" alt="CC&#8217;s Coffee House" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/CCs-Coffee-House-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/CCs-Coffee-House-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/CCs-Coffee-House-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/CCs-Coffee-House-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/CCs-Coffee-House.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Approaching three decades in operation, Louisiana-born coffee shop chain CC&#8217;s Coffee House is expanding into franchising. In an announcement this week, the Baton Rouge-based company said it is seeking franchise... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/CCs-Coffee-House-620x414.jpg" class="attachment-large size-large wp-post-image" alt="CC&#8217;s Coffee House" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/CCs-Coffee-House-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/CCs-Coffee-House-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/CCs-Coffee-House-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/CCs-Coffee-House-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/CCs-Coffee-House.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Approaching three decades in operation, Louisiana-born coffee shop chain CC&#8217;s Coffee House is expanding into franchising. In an announcement this week, the Baton Rouge-based company said it is seeking franchise... 
 
 <br> 
 
@@ -411,6 +595,18 @@ date: 2025-01-27, from: Daily Coffee News
 
 ---
 
+## Dill Pickle Bread
+
+date: 2025-01-27, from: Taste of Home
+
+This dill pickle bread recipe is a cheesy, tender and moist quick bread that's bursting with tangy pickle flavor. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/dill-pickle-bread-recipe/>
+
+---
+
 ## Should Customers Be Allowed To Bring Their Own Milk To A Cafe?
 
 date: 2025-01-27, from: The Sprudge
@@ -520,4 +716,16 @@ date: 2025-01-26, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/15-recipes-for-chinese-new-year/>
+
+---
+
+## Frikadellen
+
+date: 2025-01-26, from: Taste of Home
+
+Frikadellen, the savory German meat patties, are packed with flavor and will change the way you think about hamburgers. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/frikadellen/>
 

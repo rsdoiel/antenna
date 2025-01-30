@@ -1,11 +1,170 @@
 ---
 title: journalism
-updated: 2025-01-29 07:04:56
+updated: 2025-01-30 07:04:48
 ---
 
 # journalism
 
-(date: 2025-01-29 07:04:56)
+(date: 2025-01-30 07:04:48)
+
+---
+
+## Grammys 2025 Q&A: UCLA lecturer Amy Kuney outlines Chappell Roan collaboration, songwriting identity
+
+date: 2025-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Amy Kuney is a supernova of her own.
+The artist and lecturer at the UCLA Herb Alpert School of Music is a co-writer on Chappell Roan&#8217;s &#8220;Red Wine Supernova,&#8221; a track off her 2023 debut &#8220;The Rise and Fall of a Midwest Princess.&#8221; Roan&#8217;s album is up for two Grammy Awards this Sunday &#8211; Album of the Year and Best Pop Vocal Album &#8211; with Roan also clinching a Best New Artist nomination. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/30/grammys-2025-qa-ucla-lecturer-amy-kuney-outlines-chappell-roan-collaboration-songwriting-identity/>
+
+---
+
+## Best restaurants to ring in the Lunar New Year
+
+date: 2025-01-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Enjoy dishes from a variety of cultures to sample what Los Angeles has to offer.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/30/best-restaurants-to-ring-in-the-lunar-new-year/">Best restaurants to ring in the Lunar New Year</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/30/best-restaurants-to-ring-in-the-lunar-new-year/>
+
+---
+
+## I break down (about) Oscar nominations
+
+date: 2025-01-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>This year’s bunch of nominees feel haphazard at best, sinister at worst.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/30/i-break-down-about-oscar-nominations/">I break down (about) Oscar nominations</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/30/i-break-down-about-oscar-nominations/>
+
+---
+
+## Faculty survey shows negative reaction to security checkpoints
+
+date: 2025-01-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Some respondents described campus security as “elitist,” “unfriendly” and “unwelcoming.”</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/30/faculty-survey-shows-negative-reaction-to-security-checkpoints/">Faculty survey shows negative reaction to security checkpoints</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/30/faculty-survey-shows-negative-reaction-to-security-checkpoints/>
+
+---
+
+## Sundance 2025 Q&A: Hailey Gates’ satire film ‘Atropia’ critiques US war involvement through humor
+
+date: 2025-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Weaving absurdism and romance, &#8220;Atropia&#8221; interrogates the Western perspective of the Middle East.
+Directed by Hailey Gates, the war satire film premiered at the 2025 Sundance Film Festival. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/29/sundance-2025-qa-hailey-gates-satire-film-atropia-critiques-us-war-involvement-through-humor/>
+
+---
+
+## Art exhibit preview: Winter displays showcase variety of mediums, cultural tales
+
+date: 2025-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+With much-needed rain storms coming to Los Angeles, there is no better place to take shelter from the precipitation than in an art gallery.
+And in a global city like LA, there is dazzling art to entertain and inspire anyone. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/29/art-exhibit-preview-winter-displays-showcase-variety-of-mediums-cultural-tales/>
+
+---
+
+## Sundance 2025 Q&A: ‘Rabbit Trap’ captures the eerie sound of Welsh folktales
+
+date: 2025-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+There is nothing fluffy about Bryn Chainey&#8217;s feature film debut.
+Distributed by horror production company SpectreVision, &#8220;Rabbit Trap&#8221; premiered at the 2025 Sundance Film Festival as part of the Midnight category. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/29/sundance-2025-qa-rabbit-trap-captures-the-eerie-sound-of-welsh-folktales/>
+
+---
+
+## Spider-Man-themed coding event webs together inclusivity, problem-solving
+
+date: 2025-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Problem solving was in full swing during the Association for Computing Machinery at UCLA&#8217;s inclusivity-focused coding event Jan. 25.
+Around 100 students attended &#8220;Break the Binary: Across the Spider-Verse&#8221; &#8211; a Spider-Man-themed coding event &#8211; in the De Neve Plaza Room on Saturday. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/29/spider-man-themed-coding-event-webs-together-inclusivity-problem-solving/>
+
+---
+
+## Editorial Cartoon: “Year of the Snake”
+
+date: 2025-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/01/29/editorial-cartoon-year-of-the-snake/>
+
+---
+
+## Nueva Decana de Estudiantes, Vivian Garay Santiago, apoya a los estudiantes durante su experiencia universitaria
+
+date: 2025-01-29, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>La exvicepresidenta adjunta de Asuntos Estudiantiles de Occidental, Vivian Garay Santiago, asumió el cargo de Decana Interina de Estudiantes para el año académico 2024-2025, tras la partida del Decano de Estudiantes Rob Flot. Según el Vicepresidente y Director de Operaciones Amos Himmelstein, cuando el Presidente Emérito Harry Elam dejó su puesto en junio de 2024, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/espanol/2025/01/29/nueva-decana-de-estudiantes-vivian-garay-santiago-apoya-a-los-estudiantes-durante-su-experiencia-universitaria/2913922">Nueva Decana de Estudiantes, Vivian Garay Santiago, apoya a los estudiantes durante su experiencia universitaria</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/espanol/2025/01/29/nueva-decana-de-estudiantes-vivian-garay-santiago-apoya-a-los-estudiantes-durante-su-experiencia-universitaria/2913922>
+
+---
+
+## Grammys 2025: UCLA faculty, members of Decoda celebrate working on Grammy-nominated pieces
+
+date: 2025-01-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two UCLA faculty members are reveling in the recognition of a colleague&#8217;s Grammy-nominated work.
+Catherine Gregory, a flutist and lecturer at the UCLA Herb Alpert School of Music, and David Kaplan, a pianist and professor at the School of Music, are both members of the chamber music collective Decoda, which includes more than 30 musicians from around the country who work together on various concerts and songwriting projects. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/29/grammys-2025-ucla-faculty-members-of-decoda-celebrate-working-on-grammy-nominated-pieces/>
+
+---
+
+## UCLA student Ariv Gupta finds meaning in the every day through poetry
+
+date: 2025-01-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Through poetry, Ariv Gupta shows how being your true self is the key to connection.
+The third-year computer science student independently published his first book &#8220;what&#8217;s real: poetry for everyone&#8221; on Oct. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/29/ucla-student-ariv-gupta-finds-meaning-in-the-every-day-through-poetry/>
 
 ---
 
@@ -83,7 +242,8 @@ date: 2025-01-29, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2025-01-29, from: The Daily Bruin (UCLA Student Newspaper)
 
-When Dean Bruton told his aunt he was organizing an art auction for the Palestine Children&#8217;s Relief Fund, she offered to give him every Palestine-related heirloom in her closet. 
+<em>This post was updated Jan. 29 at 2:34 p.m.</em>
+When Dean Bruton told his aunt he was organizing an art auction for the Palestine Children’s Relief Fund, she offered to give him every Palestine-related heirloom in her closet. 
 
 <br> 
 
@@ -218,6 +378,114 @@ date: 2025-01-28, from: The Occidental News (Occidental College Student Newspape
 <br> 
 
 <https://theoccidentalnews.com/espanol/2025/01/28/oxy-sjp-y-oxy-jvp-bloqueados-frente-a-swan-hall-profesor-se-involucra-en-un-enfrentamiento-fisico-con-seguridad-privada/2913897>
+
+---
+
+## CGPU Misleads in Compensation Gains of Proposed Tentative Agreement
+
+date: 2025-01-28, from: California Tech (Caltech Student Newspaper)
+
+I have gathered union petition signatures, organized vote parties for union authorization, sent mass emails in support of the union, and spoken in person to most grad students and postdocs in Schlinger, Church, and Crellin for Caltech Grad Researchers and Postdocs United (CGPU). I’m about as pro-union as they come. But right now,  CGPU is at best misleading and at worst outright lying about compensation gains in the recent tentative agreement (TA). 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/28/cgpu-misleads-compensation/>
+
+---
+
+## CGPU Bargaining Team Statement in Support of our Groundbreaking Tentative Agreement
+
+date: 2025-01-28, from: California Tech (Caltech Student Newspaper)
+
+The CGPU-UAW Bargaining Team is a group of eleven Graduate Student Workers and five Postdocs democratically elected to represent their peers in collective bargaining with the Caltech administration. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/28/cgpu-bargaining-statement/>
+
+---
+
+## Aristotle: The Philosopher of Reason, Reality, and the Tangible World
+
+date: 2025-01-28, from: California Tech (Caltech Student Newspaper)
+
+If Plato was the dreamer with his head above the clouds, Aristotle is the realist with his hands in the soil. He&rsquo;s the philosopher of practicality; the one who took the abstract musings of his teacher, Plato, and said, “Alright, but how does it really work?” 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/28/aristotle/>
+
+---
+
+## Betsy Mitchell to Step Down as Director of Athletics
+
+date: 2025-01-28, from: California Tech (Caltech Student Newspaper)
+
+After 14 years as Caltech’s Director of Athletics, Physical Education and Recreation, Betsy Mitchell announced earlier this month that she will be stepping down in the spring. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/28/athletics-director-stepping-down/>
+
+---
+
+## From Wicked to Wickedly Fun: Caltech’s Off-Campus Adventures
+
+date: 2025-01-28, from: California Tech (Caltech Student Newspaper)
+
+If you&rsquo;ve recently heard students humming show tunes, hyping up hockey games, or debating the best rides at Knott&rsquo;s Berry Farm, you&rsquo;ve probably stumbled upon the buzz surrounding Caltech&rsquo;s Off-Campus Programming Series&hellip; I recently had the chance to chat with Steven Metzmaker, Assistant Director of Residential &amp; Student Experience, who has been orchestrating these off-campus escapades. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/28/wicked-caltech-off-campus/>
+
+---
+
+## Rare 17th-Century Portrait Comes to Pasadena
+
+date: 2025-01-28, from: California Tech (Caltech Student Newspaper)
+
+Last month, the Norton Simon Museum in Old Pas received this portrait: Diego Velázquez’s &ldquo;Queen Mariana of Austria&rdquo; (1652–53). On special loan from the Museo del Prado, the famed Spanish national art museum in Madrid, this painting is being displayed on the West Coast for the first time. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/28/huntington-exhibit/>
+
+---
+
+## The Bubble
+
+date: 2025-01-28, from: California Tech (Caltech Student Newspaper)
+
+During my time at Caltech, I&rsquo;ve noticed that I often use the term &ldquo;BUBBLE,&rdquo; as in phrases like “I’m in my bubble of things to do,” “Caltech Bubble,” or “problem sets bubble.” Essentially, it’s a closed, limiting space, even though deep down, I know it’s not. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/28/the-bubble/>
+
+---
+
+## The Case for More Card Readers: How Bechtel’s Single Entrance Costs Students 1,454 Hours Yearly
+
+date: 2025-01-28, from: California Tech (Caltech Student Newspaper)
+
+Most visitors to Caltech’s newest residence were probably surprised when they first found out that the 212-room building has just one entrance, an issue which, as a resident of Bechtel myself, has been more inconvenient than I originally anticipated&hellip;<br/><br/>$130,000. That is my estimate of waste at Bechtel. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/28/wasted-time-at-bechtel/>
+
+---
+
+## What Games Will Be on the Switch 2?
+
+date: 2025-01-28, from: California Tech (Caltech Student Newspaper)
+
+In the midst of procrastinating yet another set, I am seized by my obsession with the godforsaken company Nintendo. Ever since the official announcement of the Nintendo Switch 2 (yes that is actually its name), I have not known a day of peace. I seem to be physically incapable of lasting 24 hours without thinking about this new console. With a supposed price of around $400-449, it is important to see if it will match up to the high price point. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/01/28/switch-2/>
 
 ---
 

@@ -1,11 +1,85 @@
 ---
 title: motorcycles
-updated: 2025-01-29 07:04:57
+updated: 2025-01-30 07:04:49
 ---
 
 # motorcycles
 
-(date: 2025-01-29 07:04:57)
+(date: 2025-01-30 07:04:49)
+
+---
+
+## Mark Your Calendars For the 2025 'Aprilia All Stars' Extravaganza
+
+date: 2025-01-30, from: Ride Apart, Electric Motorcycle News
+
+Thousands from all over the world will flock to the Misano World Circuit to celebrate all things Aprilia
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/748883/aprilia-all-stars-2025-announcement/>
+
+---
+
+## Liberty Media's MotoGP Takeover Deal is Delayed Again
+
+date: 2025-01-30, from: Ride Apart, Electric Motorcycle News
+
+Will those crazy kids manage to make it work? Unclear. 
+
+<br> 
+
+<https://www.rideapart.com/news/749014/liberty-media-motogp-dorna-delay/>
+
+---
+
+## The Humble Rickshaw is Going Electric Thanks to Hyundai
+
+date: 2025-01-30, from: Ride Apart, Electric Motorcycle News
+
+Will South East Asia's streets ever be the same? 
+
+<br> 
+
+<https://www.rideapart.com/news/748993/rickshaw-electric-ev-hyundai-tvs/>
+
+---
+
+## There's a Ridable Prototype Of Honda's Wild V3 Motorcycle Concept, You Guys
+
+date: 2025-01-30, from: Ride Apart, Electric Motorcycle News
+
+And one of the Honda Motorcycle division's bigwigs has ridden it. 
+
+<br> 
+
+<https://www.rideapart.com/news/749008/honda-v3-turbo-concept-update/>
+
+---
+
+## Indian Motorcycles Just Debuted a New 126 Horsepower V-Twin and Give It To Me
+
+date: 2025-01-30, from: Ride Apart, Electric Motorcycle News
+
+Ultimate cosmic power! 
+
+<br> 
+
+<https://www.rideapart.com/news/748997/indian-motorcycles-powerplus-family-vtwin-engine-chieftain-roadmaster/>
+
+---
+
+## Royal Enfield Managed To Sell Half a Million Hunter 350 Motorcycles In Just Two Years
+
+date: 2025-01-30, from: Ride Apart, Electric Motorcycle News
+
+Again, people want small displacement motorcycles. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/748882/royal-enfield-hunter350-sales-success-500k-sold/>
 
 ---
 
