@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-01-30 07:04:48
+updated: 2025-01-31 07:05:23
 ---
 
 # games
 
-(date: 2025-01-30 07:04:48)
+(date: 2025-01-31 07:05:23)
+
+---
+
+## DreamWorks is in its glow-up era, and Dog Man is just the latest example
+
+date: 2025-01-31, updated: 2025-01-31, from: Polygon Website
+
+When director Peter Hastings took on Dav Pilkey’s internationally bestselling Dog Man graphic novel series for DreamWorks animation, he knew he couldn’t mess with the books’ loose, rough visual charm.  “One of the things to recognize is how important the look of the books is to the enjoyment of the books,” Hastings told Polygon. “There&#8217;s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/animation-cartoons/516751/dog-man-dreamworks-director-interview-dav-pilkey>
+
+---
+
+## What are the new map and weapon loot pool changes in Fortnite OG Season 2?
+
+date: 2025-01-31, updated: 2025-01-31, from: Polygon Website
+
+Fortnite OG Chapter 1 Season 2 allows you to go “full tilt” as Tilted Towers makes its return to Fortnite. Tilted Towers isn’t the only returning point of interest as Junk Junction, Shifty Shafts, and more are coming back. Additionally, you’ll find familiar items back in the loot pool like the small shield potion and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/517387/og-chapter-1-season-2-map-weapon-loot-pool>
+
+---
+
+## Rockstar Games co-founder teases his new game in absurd, Rockstar style
+
+date: 2025-01-31, updated: 2025-01-30, from: Polygon Website
+
+Rockstar Games co-founder and co-creator of the Grand Theft Auto franchise Dan Houser has been toiling away at his new studio, Absurd Ventures, for a few years now. What little Houser and company have shown has lived up to its name: So far, they’ve delivered an absurd, context-free reveal video back in 2023, 12 episodes [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/517281/absurd-ventures-absurdaverse-ex-rockstar-dan-houser>
+
+---
+
+## The 43 best movies on Netflix right now
+
+date: 2025-01-31, updated: 2025-01-31, from: Polygon Website
+
+What’s the best movie I can watch on Netflix? We’ve all asked ourselves this question, only to spend the next 15 minutes scrolling through the streaming service’s oddly specific genre menus and getting overwhelmed by the constantly shifting trend menus. Netflix’s huge catalog of movies continues to expand day by day, week by week, month [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## What’s up with Severance’s goat room?
+
+date: 2025-01-31, updated: 2025-01-31, from: Polygon Website
+
+Severance season 2 takes viewers to a previously unseen area of the Lumon severed floor: Mammalians Nurturable, where a herd of goats is grazing and is tended to by a sizable workforce. The goat room also introduces us to an all-new character played by guest star Gwendoline Christie, the apparent senior member of the Mammalians [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/516503/severance-goat-room-season-2-episode-3-gwendoline-christie>
+
+---
+
+## What is the Pokémon TCG Pocket meta in January 2025?
+
+date: 2025-01-31, updated: 2025-01-31, from: Polygon Website
+
+The Pokémon TCG Pocket meta must’ve messed with the space-time continuum because it’s moving too fast to track. Released in late October 2024, Pokémon TCG Pocket is primarily a card-collecting game, though there is a competitive element — a streamlined iteration on the classic Pokémon trading card game. There’s incentive to play battles, too, as [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/480843/meta-best-decks-cards>
+
+---
+
+## The best Black Ops 6 guns to use in Season 2
+
+date: 2025-01-30, updated: 2025-01-30, from: Polygon Website
+
+The best guns in Black Ops 6 Season 2 are absolute workhorses, topping our lists because they&#8217;re powerful, consistent, reliable, and feature heavily in the meta right now. Season 2 has added the Cypher 091, the PPSh-41, and the Feng 82, but do any of them do enough to feature in our list of the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-ops-6-guides/470851/best-guns-weapons-meta-bo6>
+
+---
+
+## All the Squid Game season 3 news we’ve heard so far
+
+date: 2025-01-30, updated: 2025-01-30, from: Polygon Website
+
+[Ed. note: This post contains spoilers for the end of Squid Game season 2.] Squid Game season 2 went out with a bang and a whimper. Gi-hun (Lee Jung-jae) has effectively lost his attempt at gaining control of the game, and the aggressive cut on the ending leaves a lot to be desired. (For me; [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/501009/squid-game-season-3-release-date-cast-news>
+
+---
+
+## WALL-E grows up in  the wildly ambitious sci-fi romance Love Me
+
+date: 2025-01-30, updated: 2025-01-30, from: Polygon Website
+
+A version of this Love Me review was initially posted after its premiere at the 2024 Sundance Film Festival. It has been updated for the movie’s theatrical release. Logline Centuries after an extinction event wipes out humanity, two surviving AIs — an internet-enabled robotic buoy and an orbiting satellite (played by Kristen Stewart and Steven [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/reviews/24052090/love-me-review-wall-e-for-grown-ups>
 
 ---
 

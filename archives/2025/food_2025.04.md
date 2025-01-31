@@ -1,11 +1,217 @@
 ---
 title: food
-updated: 2025-01-30 07:04:50
+updated: 2025-01-31 07:05:25
 ---
 
 # food
 
-(date: 2025-01-30 07:04:50)
+(date: 2025-01-31 07:05:25)
+
+---
+
+## The Best Blenders (2025) for Smoothies, Soups, and Slushy Cocktails
+
+date: 2025-01-31, from: Bon Appetet
+
+We've tested nearly 30 and here's what we recommend. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-blender>
+
+---
+
+## Making Coffee Pods Recyclable is One Thing; Getting Them Recycled is Another
+
+date: 2025-01-31, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Cycle_sorters-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Cycle_sorters" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Cycle_sorters-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cycle_sorters-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cycle_sorters-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cycle_sorters-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Cycle_sorters.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>[Note: This story was originally published by Grist. Sign up for Grist&#8217;s weekly newsletter here.] There’s a Keurig machine in some 40 million households in the U.S. Single-serve coffee brewing... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/31/making-coffee-pods-recyclable-is-one-thing-getting-them-recycled-is-another/>
+
+---
+
+## Steak Fried Rice
+
+date: 2025-01-31, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/steak-fried-rice/" title="Steak Fried Rice" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Steak-Fried-Rice-Recipe3-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of Steak Fried Rice with lots of sizzling beef" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Steak-Fried-Rice-Recipe3-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Steak-Fried-Rice-Recipe3-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Steak-Fried-Rice-Recipe3-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Steak-Fried-Rice-Recipe3-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Steak-Fried-Rice-Recipe3-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Steak-Fried-Rice-Recipe3-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Steak-Fried-Rice-Recipe3.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This steak fried rice recipe is always a hit with a mix of tender, sizzling bites of beef, veggies, seasoned rice, and egg all in one pan. Forget takeout!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/steak-fried-rice/">Steak Fried Rice</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/steak-fried-rice/>
+
+---
+
+## Weekly Coffee News: Black is Beautiful Box + Record-High Prices
+
+date: 2025-01-31, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Black-is-Beautiful-box-set-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Black is Beautiful box set" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Black-is-Beautiful-box-set-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Black-is-Beautiful-box-set-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Black-is-Beautiful-box-set-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Black-is-Beautiful-box-set-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Black-is-Beautiful-box-set.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. The Black is Beautiful Box Set Georgia-based Portrait Coffee... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/01/31/weekly-coffee-news-black-is-beautiful-box-record-high-prices/>
+
+---
+
+## This Is Why Ina Garten Only Uses Extra-Large Eggs
+
+date: 2025-01-31, from: Taste of Home
+
+<p> Ina Garten's egg size preference isn't a quirk—it's a sensible choice.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/why-ina-garten-only-uses-extra-large-eggs/">This Is Why Ina Garten Only Uses Extra-Large Eggs</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/why-ina-garten-only-uses-extra-large-eggs/>
+
+---
+
+## Roastery Breakdown: Café con Jiribilla in Mexico City, Mexico
+
+date: 2025-01-31, from: The Fresh Cup
+
+<p>Café con Jiribilla in Mexico City makes use of small spaces and practical tools, all while focusing on sourcing single-origin coffees from Mexico. </p>
+<p>The post <a href="https://freshcup.com/roastery-breakdown-cafe-con-jiribilla-in-mexico-city-mexico/">Roastery Breakdown: Café con Jiribilla in Mexico City, Mexico</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/roastery-breakdown-cafe-con-jiribilla-in-mexico-city-mexico/>
+
+---
+
+## Gochujang Sloppy Joes and More Recipes We Made This Week
+
+date: 2025-01-31, from: Bon Appetet
+
+Like roasted chicken with winter squash and chocolate olive oil cake. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-january-2025>
+
+---
+
+## Pickled Jalapeños
+
+date: 2025-01-31, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/mexican-pickled-jalapenos/"><img title="pickled-jalapenos-small-6" src="https://www.isabeleats.com/wp-content/uploads/2018/08/pickled-jalapenos-small-6-400x600.jpg" alt="Pickled jalapenos in a jar ready to eat." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	These homemade pickled jalapeños are tangy, slightly sweet, and perfectly spicy! They’re ready in just 35 minutes and are the&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/mexican-pickled-jalapenos/>
+
+---
+
+## Caramelized Onions
+
+date: 2025-01-31, from: Taste of Home
+
+<span class="tracked-search-text">Caramelized onions </span>add a rich sweetness to almost any dish. We'll show you how to caramelize onions—you just need a heavy pan and some patience. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/caramelized-onions-2/>
+
+---
+
+## Announcing the Taste of Home Creators Program!
+
+date: 2025-01-30, from: Taste of Home
+
+<p>Taste of Home is launching our first-ever talent program for aspiring culinary creators, and we want to work with you. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/taste-of-home-creators/">Announcing the Taste of Home Creators Program!</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/taste-of-home-creators/>
+
+---
+
+## Dunkin’ Just Revealed Its 2025 Valentine’s Day Menu
+
+date: 2025-01-30, from: Taste of Home
+
+<p>Express your love the best way: with a Brownie Batter Doughnut.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/dunkin-valentines-menu-2025/">Dunkin&#8217; Just Revealed Its 2025 Valentine&#8217;s Day Menu</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/dunkin-valentines-menu-2025/>
+
+---
+
+## Margarita Without Triple Sec
+
+date: 2025-01-30, from: Bon Appetet
+
+Strong, shaken, and sooooo easy to drink. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/margarita-without-triple-sec>
+
+---
+
+## The 8 Cookbooks to Get Next If You Love Yotam Ottolenghi Recipes
+
+date: 2025-01-30, from: Bon Appetet
+
+If you’re into Ottolenghi, you’ll be into these. 
+
+<br> 
+
+<https://www.bonappetit.com/story/8-cookbooks-to-get-next-if-you-love-yotam-ottolenghi>
+
+---
+
+## Creamy Chicken and Broccoli Soup
+
+date: 2025-01-30, from: Bon Appetet
+
+Transform a box of white cheddar mac and cheese into something new with this cozy, creamy, veg-studded soup recipe. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/creamy-chicken-and-broccoli-soup>
+
+---
+
+## I Tried Sakara Life’s $400 Plant-Based Meal Delivery Service
+
+date: 2025-01-30, from: Bon Appetet
+
+This influencer-and-celebrity-endorsed meal delivery service is expensive, but it’s also kind of worth it. 
+
+<br> 
+
+<https://www.bonappetit.com/story/sakara-life-meal-delivery-review>
+
+---
+
+## The Best Rice Cooker (2024), Reviewed by Our Experts
+
+date: 2025-01-30, from: Bon Appetet
+
+Whether you’re on a budget or want a model that’s practically sentient, there’s a rice cooker for you. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-rice-cookers>
 
 ---
 
@@ -25,7 +231,7 @@ date: 2025-01-30, from: The Sprudge
 
 date: 2025-01-30, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Podium Coffee Club 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new online specialty coffee subscription service called Podium Coffee Club is sending customers roasts exclusively from companies that have won national roasting awards from one of three different sources.&#160;... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Podium Coffee Club 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Podium-Coffee-Club-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new online specialty coffee subscription service called Podium Coffee Club is sending customers roasts exclusively from companies that have won national roasting awards from one of three different sources.&#160;... 
 
 <br> 
 
@@ -49,7 +255,7 @@ This collard greens with smoked turkey recipe delivers tender meat and perfectly
 
 date: 2025-01-30, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="plastic single use coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Believe it or not, humans may not be drawn to reusable cup schemes due to a sense of moral duty or good old-fashioned guilt. What&#8217;s really going to draw them... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="plastic single use coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/plastic-single-use-coffee.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Believe it or not, humans may not be drawn to reusable cup schemes due to a sense of moral duty or good old-fashioned guilt. What&#8217;s really going to draw them... 
 
 <br> 
 
@@ -99,6 +305,18 @@ date: 2025-01-30, from: Taste of Home
 
 ---
 
+## Oreo Hot Chocolate
+
+date: 2025-01-30, from: Taste of Home
+
+While Dunkin' may no longer serve its Oreo hot chocolate, we've got the perfect copycat recipe that tastes just like the original! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/copycat-dunkin-oreo-hot-chocolate/>
+
+---
+
 ## I Tried the Viral Olive Garden Salad Martini, and I Was Pleasantly Surprised
 
 date: 2025-01-29, from: Taste of Home
@@ -113,12 +331,12 @@ date: 2025-01-29, from: Taste of Home
 
 ---
 
-## Starbucks Is Bringing Back Its Free Refills and Other Popular Perks
+## Starbucks Just Brought Back Its Free Refills and Other Popular Perks
 
 date: 2025-01-29, from: Taste of Home
 
-<p>Free refills and other pre-pandemic perks have made a welcome comeback.</p>
-<p>The post <a href="https://www.tasteofhome.com/article/starbucks-free-refills/">Starbucks Is Bringing Back Its Free Refills and Other Popular Perks</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+<p>Starbucks will offer a free refill of hot or iced coffee or tea to all customers.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/starbucks-free-refills/">Starbucks Just Brought Back Its Free Refills and Other Popular Perks</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
  
 
 <br> 
@@ -257,7 +475,7 @@ Braising canned chickpeas in chicken stock and olive oil makes them unbelievably
 
 date: 2025-01-29, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Canvas Coffee Art Greenville SC bar" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Offering quality and creativity in equal strokes, Canvas Coffee + Art House recently opened its doors just north of downtown Greenville, South Carolina. Coffees prepared with pointillist precision are served... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Canvas Coffee Art Greenville SC bar" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Canvas-Coffee-Art-Greenville-SC-bar.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Offering quality and creativity in equal strokes, Canvas Coffee + Art House recently opened its doors just north of downtown Greenville, South Carolina. Coffees prepared with pointillist precision are served... 
 
 <br> 
 
@@ -657,7 +875,7 @@ date: 2025-01-27, from: Isebel Eats
 	<div>
 	<a href="https://www.isabeleats.com/pickled-onions/"><img title="mexican-pickled-onions-small-5" src="https://www.isabeleats.com/wp-content/uploads/2025/01/mexican-pickled-onions-small-5-400x600.jpg" alt="Mexican pickled onions in a glass jar on a fork ready to be eaten." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
 	</div>
-	Learn how to make quick Mexican pickled onions with this easy recipe! Made with just four simple ingredients, these crunchy, bright, and vibrant red onions are ready to enjoy in 35 minutes and are the perfect topping and condiment for tacos, tostadas, gorditas, and all your favorite Mexican dishes. Mexican pickled onions are a staple [&#8230;] 
+	Learn how to make quick Mexican pickled onions with this easy recipe! Made with just four simple ingredients, these crunchy,&#8230; 
 
 <br> 
 
@@ -669,7 +887,7 @@ date: 2025-01-27, from: Isebel Eats
 
 date: 2025-01-27, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/chickpea-curry/" title="Easy Chickpea Curry Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Chickpea-Curry-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Chickpea Curry with Coconut in a bowl, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Chickpea-Curry-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Chickpea-Curry-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Chickpea-Curry-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Chickpea-Curry-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Chickpea-Curry-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Chickpea-Curry-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Chickpea-Curry-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This quick and easy chickpea curry is a simple one pot meal with spices and coconut milk, the perfect weeknight dinner, done in about 20 minutes.</p>
+<a href="https://www.chilipeppermadness.com/recipes/chickpea-curry/" title="Easy Chickpea Curry Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Chickpea-Curry-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Chickpea Curry with Coconut in a bowl, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Chickpea-Curry-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Chickpea-Curry-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Chickpea-Curry-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Chickpea-Curry-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Chickpea-Curry-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Chickpea-Curry-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/12/Chickpea-Curry-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This quick and easy chickpea curry is a simple one pot meal with spices and coconut milk, the perfect weeknight dinner, done in about 20 minutes.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/chickpea-curry/">Easy Chickpea Curry Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

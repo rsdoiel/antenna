@@ -1,11 +1,202 @@
 ---
 title: journalism
-updated: 2025-01-30 07:04:48
+updated: 2025-01-31 07:05:23
 ---
 
 # journalism
 
-(date: 2025-01-30 07:04:48)
+(date: 2025-01-31 07:05:23)
+
+---
+
+## Classifieds – January 31, 2025
+
+date: 2025-01-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/31/classifieds-january-31-2025/">Classifieds &#8211; January 31, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/31/classifieds-january-31-2025/>
+
+---
+
+## Spacey Jane thrills a sold-out crowd at the Troubadour
+
+date: 2025-01-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Australian indie-rock band is back with hits after a yearlong hiatus.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/31/spacey-jane-thrills-a-sold-out-crowd-at-the-troubadour/">Spacey Jane thrills a sold-out crowd at the Troubadour</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/31/spacey-jane-thrills-a-sold-out-crowd-at-the-troubadour/>
+
+---
+
+## Money on my mind
+
+date: 2025-01-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Cash can’t buy happiness, but it can buy me a plane ticket to Barcelona.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/31/money-on-my-mind/">Money on my mind</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/31/money-on-my-mind/>
+
+---
+
+## Legally blind magician dazzles USC community
+
+date: 2025-01-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Tyler Gibgot, the president of USC Magic Association, said his vision is a “strength” as a magician and beyond.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/31/legally-blind-magician-dazzles-usc-community/">Legally blind magician dazzles USC community</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/31/legally-blind-magician-dazzles-usc-community/>
+
+---
+
+## The Weekly Frame III: Time Travel
+
+date: 2025-01-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Whenever you’re not in line at Dulce, go on a little stroll around University Park and see what you can check off to say you’ve done a little time travel.</p>
+<p>The post <a href="https://dailytrojan.com/2025/01/31/the-weekly-frame-iii-time-travel/">The Weekly Frame III: Time Travel</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/01/31/the-weekly-frame-iii-time-travel/>
+
+---
+
+## Q&A: Interim endocrinology clinical chief debunks thyroid myths, shares care options
+
+date: 2025-01-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 31 at 12:28 a.m.</em>
+Dr. Stephanie Smooke Praw, the interim clinical chief of UCLA Health&#8217;s Division of Endocrinology, sat down with the Daily Bruin to dispel thyroid disease misconceptions, discuss risk factors and talk through treatment options during Thyroid Awareness Month in January. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/30/qa-interim-endocrinology-clinical-chief-debunks-thyroid-myths-shares-care-options/>
+
+---
+
+## ‘It brings everyone together’: Matsuri celebrates Japanese culture with music, art
+
+date: 2025-01-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 31 at 12:15 a.m.</em>
+Crisscrossed with red-and-white lanterns, Kerckhoff Patio bustled with students taking in the atmosphere of the Matsuri festival Jan. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/30/it-brings-everyone-together-matsuri-celebrates-japanese-culture-with-music-art/>
+
+---
+
+## Grammys 2025: UCLA alumnus nominated for ‘Rose Without The Thorns’ arrangement
+
+date: 2025-01-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+From gospel roots to Grammy nominations, Alexander Lloyd Blake is transforming the music industry with arrangements that touch both the heart and the conscience.
+Blake, a musician and UCLA alumnus, has been nominated for a Grammy Award in the category of Best Arrangement, Instrumental or A Capella for his arrangement of &#8220;Rose Without The Thorns.&#8221; The composition, performed by his music ensemble Tonality alongside the group s&#228;je, showcases Blake&#8217;s attention to harmony and social justice alike. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/30/grammys-2025-ucla-alumnus-nominated-for-rose-without-the-thorns-arrangement/>
+
+---
+
+## Undocumented students share fears of deportation under second Trump administration
+
+date: 2025-01-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 31 at 12:32 a.m.</em>
+“The majority of my family has nothing left back in Mexico,” said a UCLA biology student. “If they just started deporting us, we&#8217;ll just start from zero again.”
+Undocumented students like them have faced growing fears of deportation following President Donald Trump’s inauguration Jan. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/30/undocumented-students-share-fears-of-deportation-under-second-trump-administration/>
+
+---
+
+## Amid Waymo’s rise in LA, experts consider positive and negative repercussions
+
+date: 2025-01-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 31 at 12:32 p.m.</em>
+Driverless taxis are no longer futuristic dreams for Angelenos.
+Autonomous ride-hailing platform Waymo launched to the Los Angeles public last November, deploying around 100 vehicles in a 79-square-mile area from Santa Monica to downtown. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/30/amid-waymos-rise-in-la-experts-consider-positive-and-negative-repercussions/>
+
+---
+
+## Grammys 2025: Daily Bruin predicts 67th ceremony wins from first-time nominees to past awardees
+
+date: 2025-01-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 30 at 9:57 p.m.</em>
+In a few short days, the wait for music’s biggest night will be over.
+The 67th Annual Grammy Awards ceremony is set for this Sunday at Crypto.com Arena, with trophies to be given in 94 categories for the best music released between Sept. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/30/grammys-2025-daily-bruin-predicts-67th-ceremony-wins-from-first-time-nominees-to-past-awardees/>
+
+---
+
+## Q&A: Cast of ‘Companion’ discusses optimistic AI approach, character relationships
+
+date: 2025-01-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+It&#8217;s only human nature to have a &#8220;Companion.&#8221; 
+Drew Hancock&#8217;s psychological thriller and first feature film &#8220;Companion&#8221; will slash into theaters Jan. 31. When Iris (Sophie Thatcher) and her boyfriend Josh (Jack Quaid) set off on a weekend getaway at a lakeside estate, they encounter a series of unfortunate events alongside Iris&#8217; unnerving friends Kat (Megan Suri), Patrick (Lukas Gage) and Eli (Harvey Guill&#233;n). 
+
+<br> 
+
+<https://dailybruin.com/2025/01/30/qa-cast-of-companion-discusses-optimistic-ai-approach-character-relationships/>
+
+---
+
+## Sundance 2025: In Creator Day fireside chat, viral YouTubers discuss origins, industry changes
+
+date: 2025-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+YouTube&#8217;s top creators are expanding the small screen &#8211; let&#8217;s talk about that.
+Saturday, industry organization BrandStorytelling hosted its inaugural Creator Day, a sanctioned event of the 2025 Sundance Film Festival as part of its 11-day run in Park City, Utah. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/30/sundance-2025-in-creator-day-fireside-chat-viral-youtubers-discuss-origins-industry-changes/>
+
+---
+
+## El Semestre de Campaña 2024 ofrece a los estudiantes experiencia práctica en política y conexiones profesionales
+
+date: 2025-01-30, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Cada dos años, durante las elecciones intermedias y presidenciales, Occidental ofrece el programa Campaign Semester para todos los estudiantes. Desde su creación en 2008, Campaign Semester ha brindado a los estudiantes la oportunidad de trabajar en una campaña política en cualquier contienda reñida en el país. Después de pasar 10 semanas trabajando en una campaña, los estudiantes regresan al [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/espanol/2025/01/30/el-semestre-de-campana-2024-ofrece-a-los-estudiantes-experiencia-practica-en-politica-y-conexiones-profesionales/2913935">El Semestre de Campaña 2024 ofrece a los estudiantes experiencia práctica en política y conexiones profesionales</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/espanol/2025/01/30/el-semestre-de-campana-2024-ofrece-a-los-estudiantes-experiencia-practica-en-politica-y-conexiones-profesionales/2913935>
 
 ---
 
@@ -13,8 +204,9 @@ updated: 2025-01-30 07:04:48
 
 date: 2025-01-30, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jan. 30 at 10:15 p.m.</em>
 Amy Kuney is a supernova of her own.
-The artist and lecturer at the UCLA Herb Alpert School of Music is a co-writer on Chappell Roan&#8217;s &#8220;Red Wine Supernova,&#8221; a track off her 2023 debut &#8220;The Rise and Fall of a Midwest Princess.&#8221; Roan&#8217;s album is up for two Grammy Awards this Sunday &#8211; Album of the Year and Best Pop Vocal Album &#8211; with Roan also clinching a Best New Artist nomination. 
+The artist and lecturer at the UCLA Herb Alpert School of Music is a co-writer on Chappell Roan’s “Red Wine Supernova,” a track off her 2023 debut “The Rise and Fall of a Midwest Princess.” Roan&#8217;s album is up for two Grammy Awards this Sunday – Album of the Year and Best Pop Vocal Album – with Roan also clinching a Best New Artist nomination. 
 
 <br> 
 
@@ -107,8 +299,8 @@ Distributed by horror production company SpectreVision, &#8220;Rabbit Trap&#8221
 
 date: 2025-01-30, from: The Daily Bruin (UCLA Student Newspaper)
 
-Problem solving was in full swing during the Association for Computing Machinery at UCLA&#8217;s inclusivity-focused coding event Jan. 25.
-Around 100 students attended &#8220;Break the Binary: Across the Spider-Verse&#8221; &#8211; a Spider-Man-themed coding event &#8211; in the De Neve Plaza Room on Saturday. 
+<em>This post was updated Jan. 30 at 9:46 p.m.</em>
+Problem solving was in full swing during the Association for Computing Machinery at UCLA’s inclusivity-focused coding event Jan. 
 
 <br> 
 

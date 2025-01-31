@@ -1,11 +1,119 @@
 ---
 title: health
-updated: 2025-01-30 07:04:49
+updated: 2025-01-31 07:05:25
 ---
 
 # health
 
-(date: 2025-01-30 07:04:49)
+(date: 2025-01-31 07:05:25)
+
+---
+
+## BTS1-knockout Saccharomyces cerevisiae with broad-spectrum antimicrobial activity through lactic acid accumulation
+
+date: 2025-01-31, from: Frontiers in Cellular and Infection Microbiology
+
+Bacterial infections pose significant threats to human health, and prudent antibiotic use remains a key strategy for disease treatment and control. However, a global escalation of drug resistance among pathogenic bacteria presents a formidable challenge. Probiotics have emerged as a promising approach to combating pathogenic bacterial infections. In this study, we investigated the antibacterial activity of BTS1-knockout (BTS1-KO) Saccharomyces cerevisiae. Our findings demonstrate its effective inhibition of pathogen growth as evidenced by Minimum inhibitory concentration (MIC) assays, growth curves, bacteriostatic spectrum analyses and co-culture experiments. Additionally, it significantly impedes Escherichia coli and Staphylococcus aureus biofilm formation. Moreover, BTS1-KO S. cerevisiae exhibits low haemolytic activity, acid resistance, resistance to high bile salt concentrations, high auto-aggregation capacity and high co-aggregation capacities with pathogenic bacteria. Moreover, infected larvae treated with BTS1-KO S. cerevisiae in Galleria mellonella-E. coli (in vivo) and G. mellonella-S. aureus (in vivo) infection models showed significantly prolonged survival times. Mechanistic investigations revealed that BTS1-KO S. cerevisiae primarily produced lactic acid via metabolism, thereby lowering the environmental pH and inhibiting pathogenic bacterial growth. In summary, our study underscores the probiotic potential of BTS1-KO S. cerevisiae, offering broad-spectrum antibacterial activity in vitro and in vivo with low toxicity. This highlights BTS1-KO S. cerevisiae as a promising probiotic candidate for clinical prevention and control of bacterial infection. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1494149>
+
+---
+
+## Evaluating passive immunity in piglets from sows vaccinated with a PEDV S protein subunit vaccine
+
+date: 2025-01-31, from: Frontiers in Cellular and Infection Microbiology
+
+Porcine epidemic diarrhea virus (PEDV) is a highly contagious virus that causes severe diarrhea and high mortality in neonatal piglets. Current control measures, such as inactivated and live-attenuated vaccines, have limitations in providing complete protection. In this study, we evaluate the immunogenicity and protective efficacy of a PEDV S protein subunit vaccine compared to a traditional inactivated vaccine. Piglets and Sows were immunized with either the subunit vaccine or an inactivated vaccine, and serum samples were collected to assess IgG and neutralizing antibody levels. Results demonstrated that the S protein subunit vaccine induced significantly higher IgG and neutralizing antibody levels in both piglets and sows compared to the inactivated vaccine. Piglets born to immunized sows were challenged with a virulent PEDV strain. Piglets from the subunit vaccine group exhibited lower viral shedding, reduced clinical symptoms, and minimal intestinal lesions. These findings suggest that the PEDV S protein subunit vaccine provides enhanced immunity and protection against PEDV, making it a promising candidate for preventing PEDV infections in swine. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1498610>
+
+---
+
+## Temporal and spatial characterization of keratinocytes supporting orf virus replication
+
+date: 2025-01-31, from: Frontiers in Cellular and Infection Microbiology
+
+Reflecting their tropism for keratinocytes, most poxviruses that infect vertebrates replicate to high titers and cause pathology in the skin. Keratinocytes, the main cells of the epidermis, are found in different stages of a differentiation program that produces the critical barrier against environmental damage. While systemic poxviruses (e.g. smallpox virus, sheeppox virus) also infect other cell types, the parapoxvirus orf virus (ORFV), which causes localized infections in sheep and goats, has not been shown to replicate in cells other than keratinocytes. Notably, ORFV infection only occurs after or concomitant with epidermal damage and the subsequent healing response and shows unexplained delayed virus replication in an uncharacterized keratinocyte subpopulation. Using in situ hybridization, immunohistochemistry, confocal microscopy, qPCR, and a full-thickness wound/infection model in sheep, the natural host, we show that during an initial 2-day eclipse phase viral transcription and viral DNA replication are not detected. Between days 2 and 3 pi, viral transcription is first detected in keratinocytes of the stratum granulosum and upper stratum spinosum in the proliferative zone at the wound margin. These cells are positive for cytokeratin 10, a suprabasal marker; cytokeratin 6, a protein induced during early repair responses; stratum granulosum markers filaggrin and loricrin; and negative for the nuclear proliferation marker Ki-67 and cytokeratin 14, a basal cell marker. This marker profile suggests that keratinocytes supportive of viral replication are engaged in advanced keratinocyte differentiation rather than proliferation. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1486778>
+
+---
+
+## Targeted next-generation sequencing for antimicrobial resistance detection in ventilator-associated pneumonia
+
+date: 2025-01-31, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundVentilator-associated pneumonia (VAP) carries a high mortality rate in the intensive care units (ICUs) due to its widespread drug resistance. Traditional microbial cultures limited by speed and sensitivity, are often unable to help clinicians make effective diagnosis and treatment. Therefore, there is an urgent need for a rapid and accurate test that can identify both pathogens and their antimicrobial resistance (AMR) to improve the prognosis of patients with VAP.Study designWe analyzed samples from ICU patients with suspected VAP using both microbial tests and targeted next-generation sequencing (tNGS), comparing the results of tNGS pathogen and AMR detection against microbial culture and antimicrobial susceptibility testing (AST).ResultsInvolving 199 patients with suspected VAP, tNGS showed a sensitivity rate of 98.98% for pathogen identification. While the sensitivity rate of microbial culture was just 66.84%. Additionally, tNGS performed almost half the turnaround time of microbial culture (1.66 days vs 3.00 days). For AMR, the overall consistency between AST and tNGS was 79.31%. The great performance particularly exhibited for Acinetobacter baumannii carbapenem-penicillin-cephamycin resistance.ConclusiontNGS excels in identifying pathogens and AMR. Its rapid workflow makes it ideal for managing critically ill patients, enhancing treatment precision, and reducing antibiotic misuse. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1526087>
+
+---
+
+## Genomic epidemiology and antimicrobial resistance of Morganella clinical isolates between 2016 and 2023
+
+date: 2025-01-31, from: Frontiers in Cellular and Infection Microbiology
+
+Morganella morganii is a Gram-negative, opportunistic pathogen that is often associated with nosocomial infections. Here, the genomic characteristics and antimicrobial resistance (AMR) of Morganella clinical isolates between 2016 and 2023 were determined. A total of 218 clinical isolates were mainly identified from urinary tract (48.2%) and respiratory tract (16.5%), with 105 isolates randomly selected for whole genome sequencing. The highest rates of antibiotic resistance were observed with SAM (68.3%), followed by CIP (39.9%), and SXT (37.2%). Distance analysis suggested that the 105 newly sequenced isolates could be divided into two groups: M. morganii subsp. morganii and M. morganii subsp. sibonii. While, the average nucleotide identity between these groups showed only 91.5-92.2% similarity, raising the possibility that they may be distinct species. Phylogenomic analysis revealed that the 102 M. morganii isolates fell into six clades, with clades 4-6 making up the majority. Core genome multi-locus sequence type analysis indicted high genomic diversity among different hosts and relatively stability (< 10 SNPs accumulated over three years) within the same host. Together with epidemiological data, isolates of four genetic clusters could be possible nosocomial transmissions. The identified 80 AMR genes belonged to 15 drug-related classes, with tet(B) gene being the most prevalent, followed by sul1, catA2, and sul2 genes. This study provided comprehensive genomic insights and AMR patterns of Morganella isolates in China, highlighting the necessity for continuous monitoring through whole genome sequencing. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1464736>
+
+---
+
+## Evaluation of a new human immunodeficiency virus antigen and antibody test using light-initiated chemiluminescent assay
+
+date: 2025-01-31, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectivesThe goal of this study is to evaluate the analytical and clinical performance of a new human immunodeficiency virus antigen and antibody (HIV Ag/Ab) test using light-initiated chemiluminescent assay (LiCA®) and compare it with the well-established Architect® HIV Ag/Ab combo assay in a clinical setting.MethodsWe used banked samples and national reference controls to identify the ability to detect HIV Ag/Ab and different viral subtypes. Thirteen seroconversion panels were tested to evaluate early detection of HIV. A total of 21,042 patient samples were collected to compare the diagnostic performance of LiCA® with Architect®. Screening-reactive results were confirmed by Western blotting and nucleic acid testing.ResultsTotal imprecision was within 2.49%–6.56%. The C5–C95 interval was within −10.20%–7.67% away from C50. The limit of detection for p24 antigen was <1.00 IU/mL. Using national reference panels and banked sample pools, LiCA® successfully detected all negative and positive controls in line with the criteria, and all HIV-positive specimens containing different viral subtypes. In 13 seroconversion panels, LiCA® detected reactive results on average 5.73 days (95% CI: 3.42–8.04) after the initial RNA test results were confirmed positive, which was 1.27 days earlier (−3.75 to 1.21) compared to Architect®. Paired comparisons in 21,042 clinical patient samples demonstrated that LiCA® detected HIV Ag/Ab with a slightly better performance in sensitivity (100.00% vs. 99.65%), specificity (99.85% vs. 99.81%), negative predictive value (NPV, 100.00% vs. 99.99%), and positive predictive value (PPV, 89.84% vs. 87.85%) than Architect®. Total agreement between two assays was 99.67% with a kappa value of 0.89.ConclusionLiCA® HIV Ag/Ab is a precise and highly sensitive assay for measuring HIV-1 p24 antigen and HIV-1/2 antibodies with differentiated S/Co values of Ag/Ab. The assay is appropriate for use in the clinical routine test for the early detection of HIV. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1474127>
+
+---
+
+## Transcriptome analysis reveals the molecular mechanism of γ-linolenic acid eradicating the biofilm of vancomycin-resistant Enterococcus faecium
+
+date: 2025-01-31, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionVancomycin-resistant Enterococcus faecium (VRE-fm) biofilms pose a significant clinical challenge due to the limited effectiveness of traditional antibiotics. This study investigates the potential of γ-linolenic acid (GLA) as a novel antibiofilm agent.MethodsTranscriptome analysis was performed on the V27 isolate, comparing cells in mature biofilms treated with and without GLA. The findings were further validated using qRT-PCR on six VRE-fm isolates and two E. faecalis isolates.ResultsTranscriptome analysis revealed a significant downregulation in the expression levels of genes associated with biofilm formation, including fruA, fruB, sgrA, lpxtg-cwa, tfpp, lafA, lafB, malP, fsrA, and fsrC’, while a significant upregulation was observed in the expression of fsrBD. Validation by qRT-PCR in six VRE-fm isolates confirmed the significant changes in the expression levels of all genes except for lpxtg-cwa, with statistical significance. The expression of bgsB and bgsA genes, which are the homologs of lafA and lafB genes, along with the Fsr-regulated genes gelE and sprE in E. faecalis, were also found to be downregulated by GLA. In addition, KEGG analysis identified specific metabolic pathways that were significantly downregulated by GLA.ConclusionGLA effectively targets multiple aspects of biofilm formation in VRE-fm, including the downregulation of key biofilm-related genes, the inhibition of quorum sensing systems, and the modulation of metabolic pathways. GLA emerges as a promising candidate for eradicating Enterococcus biofilms. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1525581>
+
+---
+
+## A novel strategy for eradication of staphylococcal biofilms using blood clots
+
+date: 2025-01-31, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionInfections with coagulase negative staphylococcal species (CoNS) are a major cause of mortality and morbidity in joint and heart valve replacement procedures, largely due to biofilm formation. Cells within biofilms have higher rates of antibiotic resistance than their planktonic counterparts; consequently, novel mechanisms are needed to combat these infections.MethodsTo enhance antibiotic delivery and penetration, this innovative study involved treating CoNS biofilms with murine blood clots impregnated with antibiotics. We then investigated the impact of this treatment on biofilm density, metabolism, and architecture.ResultsOur pilot study demonstrates that this method of antibiotic delivery results in improved biofilm clearance, relative to conventional exposure methods.DiscussionOur results demonstrate that blood clot exposure has an intrinsic impact on biofilm density and potentially reduces colonization, warrenting further investigation into the mechanism. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1507486>
+
+---
+
+## An updated overview on the bacterial PhoP/PhoQ two-component signal transduction system
+
+date: 2025-01-31, from: Frontiers in Cellular and Infection Microbiology
+
+The PhoP response regulator and the cognate sensor kinase PhoQ form one of the two-component signal transduction systems that is highly conserved in bacteria. The PhoP/PhoQ system is a crucial mediator of signal transduction. It regulates the expression of bacterial environmental tolerance genes, virulence factors, adhesion, and invasion-related genes by sensing various environmental signals in the host, including Mg2+, low pH, antimicrobial peptides, and osmotic pressure. In this review, we describe the PhoP/PhoQ system-induced signal composition and its feedback mechanism, and the abundance of PhoP phosphorylation in the activated state directly or indirectly controls the transcription and expression of related genes, regulating bacterial stability. Then, we discuss the relationship between the PhoP/PhoQ system and other components of the TCS system. Under the same induction conditions, their interaction relationship determines whether bacteria can quickly restore their homeostasis and exert virulence effects. Finally, we investigate the coordinated role of the PhoP/PhoQ system in acquiring pathogenic virulence. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1509037>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-01-30 07:04:50
+updated: 2025-01-31 07:05:25
 ---
 
 # craft
 
-(date: 2025-01-30 07:04:50)
+(date: 2025-01-31 07:05:25)
+
+---
+
+## NEW! - Sequin Yarn — Add a Little Sparkle
+
+date: 2025-01-30, updated: 2025-01-30, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2025/01/new-sequin-yarn-add-little-sparkle.html>
 
 ---
 

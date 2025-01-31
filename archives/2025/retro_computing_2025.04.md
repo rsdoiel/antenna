@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-01-30 07:04:49
+updated: 2025-01-31 07:05:24
 ---
 
 # retro computing
 
-(date: 2025-01-30 07:04:49)
+(date: 2025-01-31 07:05:24)
+
+---
+
+## January 2025 News Summary
+
+date: 2025-01-31, from: Icon Bar, RISC OS News
+
+Some things we noticed this month. What did you see? 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2156.html>
 
 ---
 

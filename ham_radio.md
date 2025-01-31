@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-01-30 07:04:46
+updated: 2025-01-31 07:05:21
 ---
 
 # ham radio
 
-(date: 2025-01-30 07:04:46)
+(date: 2025-01-31 07:05:21)
+
+---
+
+## Runtime security code embedded into IoT chip
+
+date: 2025-01-31, from: EDN Blog
+
+<img width="1140" height="641" src="https://www.edn.com/wp-content/uploads/Hero-image-Exein.jpg?fit=1140%2C641" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Exein.jpg?w=1140 1140w, https://www.edn.com/wp-content/uploads/Hero-image-Exein.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Exein.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Exein.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-Exein.jpg?w=800 800w" sizes="(max-width: 1140px) 100vw, 1140px" /><p>The collaboration between MediaTek and embedded software firm Exein aims to make security an integral part of the development process.</p>
+<p>The post <a href="https://www.edn.com/runtime-security-code-embedded-into-iot-chip/" data-wpel-link="internal">Runtime security code embedded into IoT chip</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/runtime-security-code-embedded-into-iot-chip/>
 
 ---
 

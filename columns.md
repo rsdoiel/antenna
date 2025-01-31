@@ -1,11 +1,623 @@
 ---
 title: columns
-updated: 2025-01-30 07:04:47
+updated: 2025-01-31 07:05:22
 ---
 
 # columns
 
-(date: 2025-01-30 07:04:47)
+(date: 2025-01-31 07:05:22)
+
+---
+
+## 2025-01-21 Sabotage
+
+date: 2025-01-31, from: Alex Schroeder's Blog
+
+<h1 id="2025-01-21-sabotage">2025-01-21 Sabotage</h1>
+
+<p>The <a href="/pdfs/OSS%20Simple%20Sabotage%20Field%20Manual.pdf">OSS Simple Sabotage Field Manual</a> a short 20 page read.
+There&rsquo;s a cleaned up version <a href="https://en.wikisource.org/wiki/Simple_Sabotage_Field_Manual">on Wikisource</a>.
+It was written by the <a href="https://en.wikipedia.org/wiki/Office_of_Strategic_Services">Office of Strategic Services</a> (OSS), a precursor to the Central Intelligence Agency (CIA) during the second world war for propaganda and subversion.</p>
+
+<p>It might help you make the right decision if you&rsquo;re put in a tight spot. 😬</p>
+
+<p>It might help you see your co-workers in a new light. 😄</p>
+
+<p>Good luck.</p>
+
+<p><a class="tag" href="/search/?q=%23Politics">#Politics</a> <a class="tag" href="/search/?q=%23Sabotage">#Sabotage</a></p>
+
+<p>I&rsquo;ve been posting extracts every now on then on fedi.</p>
+
+<blockquote>
+<p>Sabotage varies from highly technical <em>coup de main</em> acts that require detailed planning and the use of specially trained operatives, to innumerable simple acts which the ordinary individual citizen-saboteur can perform. This paper is primarily concerned with the latter type. Simple sabotage does not require specially prepared tools or equipment; it is executed by an ordinary citizen who may or may not act individually and without the necessity for active connection with an organized group; and it is carried out in such a way as to involve a minimum danger of injury, detection, and reprisal. &ndash; <a href="https://en.wikisource.org/wiki/Simple_Sabotage_Field_Manual/Introduction">OSS Simple Sabotage Manual, Introduction</a></p>
+</blockquote>
+
+<p>It think it is important to place a premium on minimizing the dangers.
+There&rsquo;s no point in becoming a casualty in the fight against fascism.
+There&rsquo;s no point in losing your job or your life to a fascist.</p>
+
+<blockquote>
+<p>A second type of simple sabotage requires no destructive tools whatsoever and produces physical damage, if any, by highly indirect means. It is based on universal opportunities to make faulty decisions, to adopt a non-cooperative attitude, and to induce others to follow suit. Making a faulty decision may be simply a matter of placing tools in one spot instead of another. A non-cooperative attitude may involve nothing more than creating an unpleasant situation among one’s fellow workers, engaging in bickerings, or displaying surliness and stupidity. &ndash; <a href="https://en.wikisource.org/wiki/Simple_Sabotage_Field_Manual/Introduction">OSS Simple Sabotage Manual, Introduction</a></p>
+</blockquote>
+
+<p>Sometimes you read this manual and start wondering about the people you meet, co-workers, customers, human resources departments, the whole chain of command.</p>
+
+<p>Here&rsquo;s to hoping that you and your team are exempt. 😁</p>
+
+<blockquote>
+<p>Acts of simple sabotage are occurring throughout Europe. An effort should be made to add to their efficiency, lessen their detectability, and increase their number. Acts of simple sabotage, multiplied by thousands of citizen-saboteurs, can be an effective weapon against the enemy. Slashing tires, draining fuel tanks, starting fires, starting arguments, acting stupidly, short-circuiting electric systems, abrading machine parts will waste materials, man-power, and time. Occurring on a wide scale, simple sabotage will be a constant and tangible drag on the war effort of the enemy. &ndash; <a href="https://en.wikisource.org/wiki/Simple_Sabotage_Field_Manual/Possible_Effects">OSS Simple Sabotage Manual, Possible Effects</a></p>
+</blockquote>
+
+<p>To be part of the constant and tangible drag is the point.</p>
+
+<blockquote>
+<p>Widespread practice of simple sabotage will harass and demoralize enemy administrators and police. Further, success may embolden the citizen-saboteur eventually to find colleagues who can assist him in sabotage of greater dimensions. Finally, the very practice of simple sabotage by natives in enemy or occupied territory may make these individuals identify themselves actively with the United Nations war effort, and encourage them to assist openly in periods of Allied invasion and occupation. &ndash; <a href="https://en.wikisource.org/wiki/Simple_Sabotage_Field_Manual/Possible_Effects">OSS Simple Sabotage Manual, Possible Effects</a></p>
+</blockquote>
+
+<p>I&rsquo;m not sure who our allies are but one thing&rsquo;s for sure: in times of trouble we should be looking for allies at all levels of organisation. And that means doing the work of maintaining relationships.</p>
+
+<blockquote>
+<p>The ordinary citizen very probably has no immediate personal motive for committing simple sabotage. Instead, he must be made to anticipate indirect personal gain, such as might come with enemy evacuation or destruction of the ruling government group. Gains should be stated as specifically as possible for the area addressed: simple sabotage will hasten the day when … and … deputies … will be thrown out, when particularly obnoxious decrees and restrictions will be abolished, … and so on. Abstract verbalizations about personal liberty, freedom of the press, and so on, will not be convincing in most parts of the world. In many areas they will not even be comprehensible. &ndash; <a href="https://en.wikisource.org/wiki/Simple_Sabotage_Field_Manual/Motivating_the_Saboteur">OSS Simple Sabotage Manual, Motivating the Saboteur</a></p>
+</blockquote>
+
+<p>It’s a stark reminder to read that “personal liberty, freedom of the press, and so on, will not be convincing” but I think I see it at work, now.</p>
+
+<p>Perhaps this is because the people around me don’t depend on “personal liberty” for anything. They are free to do as they want because they want what the new regime is doing. If you want what you are told there is no need for liberty.</p>
+
+<p>Similarly, if your means are so constrained and everything around you requires money and power, then personal liberty is so constrained that you don’t fear it’s loss.</p>
+
+<p>And for people to want the free press, it’d be nice if the press didn’t already tow the party line of money and power.</p>
+
+<p>I guess in a roundabout way I am trying to say that all dictatorship requires a large part of the population to acquiesce to it. The movies might make one think that most people are in the resistance but in fact they are not. Many are just interested in Ruhe und Ordnung, silence and order.</p>
+
+<p>Sadly, when I first heard about the US sliding into fascism thirty years ago, I thought it impossible. Unthinkable. And yet here we are.</p>
+
+<p>Perhaps it helps to think about a sliding scale from zero to Hitler. The US is not yet invading Poland. But they seem to be ready to divvy up Ukraine; or take Greenland. So where are we: 60%? 70%?</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-01-21-sabotage>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-31, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/21/teslaModelY.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've decided that trading in my <a href="https://daytona.scripting.com/search?q=Model%20Y">Model Y</a> for <a href="https://www.edmunds.com/suv/electric/#electric-suvs">another EV</a> is an acceptable solution. Let someone else ride around in this car that I love, but hate because it is a symbol of American terrorism and apartheid.  This is compatible with my understanding that hate is love that was betrayed. I'm sure I won't love its replacement as much as I loved the Model Y, but I will feel better about driving it. And Tesla shareholders will, I hope, learn the lesson that products must be politically agnostic in order to work commercially. Or if you must take a stand, make it <i>against</i> fascism. So many of our oligarchs have made the wrong bet here. We will never forget what Zuckerberg, Bezos, the CEOs of Apple, Microsoft, Open AI -- all these companies went the wrong way. 
+
+<br> 
+
+<http://scripting.com/2025/01/31.html#a144622>
+
+---
+
+## A pastoral scene
+
+date: 2025-01-31, from: Dave Winer's Scripting News
+
+<p>Here we are on an artichoke farm in coastal California, a place where migrant workers would normally be doing low-pay back-breaking work to pick the artichokes we could eat in our salads and antipasto. </p>
+<p>Instead all we have are Trump's beautiful dancers! It <i>is</i> a beautiful scene, but hold your nose because the unharvested 'chokes are rotting and they don't smell very sweet!</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/01/31/chokingOnArtichokes.png"></center>Trump's California artichoke farms, beautiful, but not very productive. </div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/31/141237.html?title=aPastoralScene>
+
+---
+
+##  Andrea Pitzer lost her mother to Amway. &#8220;In many ways, Amway adherents... 
+
+date: 2025-01-31, updated: 2025-01-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046108-andrea-pitzer-lost-her-mo>
+
+---
+
+## Partisan Politics and the Road to Plutocracy
+
+date: 2025-01-31, from: Economics from the Top-Down
+
+<p><img width="150" height="150" src="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/01/partisan_cover.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/01/partisan_cover.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/01/partisan_cover.png?resize=450%2C450&amp;ssl=1 450w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/01/partisan_cover.png?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/01/partisan_cover.png?resize=550%2C550&amp;ssl=1 550w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/01/partisan_cover.png?zoom=2&amp;resize=150%2C150&amp;ssl=1 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="10285" data-permalink="https://economicsfromthetopdown.com/2025/01/31/partisan-politics-and-the-road-to-plutocracy/partisan_cover/" data-orig-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/01/partisan_cover.png?fit=3000%2C2700&amp;ssl=1" data-orig-size="3000,2700" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="partisan_cover" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/01/partisan_cover.png?fit=300%2C270&amp;ssl=1" data-large-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/01/partisan_cover.png?fit=723%2C651&amp;ssl=1" />In this essay, I take a deep dive into the history of American plutocracy and its conspicuously Republican roots.</p>
+<p>The post <a href="https://economicsfromthetopdown.com/2025/01/31/partisan-politics-and-the-road-to-plutocracy/">Partisan Politics and the Road to Plutocracy</a> appeared first on <a href="https://economicsfromthetopdown.com">Economics from the Top Down</a>.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://economicsfromthetopdown.com/wp-content/uploads/2025/01/fix_partisan_plutocracy_20250131.mp3"></source>
+</audio> <a href="https://economicsfromthetopdown.com/wp-content/uploads/2025/01/fix_partisan_plutocracy_20250131.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://economicsfromthetopdown.com/2025/01/31/partisan-politics-and-the-road-to-plutocracy/>
+
+---
+
+## Miscellany № 105: blog questions challenge
+
+date: 2025-01-31, from: Shady Characters blog
+
+<p>There is something interesting happening with blogging. For a long time, blogs like this one were <em>the</em> way to opine, to share, to bloviate. Then social media came along and stole blogging’s thunder, with the average blogger gravitating towards long threads on Twitter (<abbr class="initialism">RIP</abbr>; † ⚰; 💀; etc., etc.) or photo-heavy Instagram posts. Next came newsletters — blogs delivered by email, essentially — which finally broke the social media hegemony.</p><a class="more-link" href="https://shadycharacters.co.uk/2025/01/miscellany-105-blogging-questions-challenge/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/01/miscellany-105-blogging-questions-challenge/>
+
+---
+
+## Keep your eye on the big picture
+
+date: 2025-01-31, from: Robert Reich's blog
+
+5 ways Trump is concentrating power in his own hands, thereby replacing democracy with oligarchy 
+
+<br> 
+
+<https://robertreich.substack.com/p/keep-your-eye-on-the-big-picture>
+
+---
+
+## January 30, 2025
+
+date: 2025-01-31, from: Heather Cox Richardson blog
+
+Last night, just before 9:00 Eastern time, an American Airlines jet originating in Wichita, Kansas, carrying 64 people and a U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-30-2025>
+
+---
+
+## Apple Reports Q1 FY2025 Results
+
+date: 2025-01-31, updated: 2025-01-31, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.apple.com/newsroom/2025/01/apple-reports-first-quarter-results/>
+
+---
+
+##  Joy Machine is a new art gallery in Chicago from the team... 
+
+date: 2025-01-31, updated: 2025-01-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046110-joy-machine-is-a-new>
+
+---
+
+## Friday 31 January, 2025
+
+date: 2025-01-31, from: John Naughton's online diary
+
+Nighttime Pembroke College, Cambridge on a chilly January night. I arrived early, and instead of waiting in the cold for my host decided to sit in the chapel where an orphan scholar was practising. I’d forgotten how beautifully spare the &#8230; <a href="https://memex.naughtons.org/friday-31-january-2025/40386/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-31-january-2025/40386/>
+
+---
+
+##  If I&#8217;m being real honest, which I try to be, I can&#8217;t... 
+
+date: 2025-01-31, updated: 2025-01-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046106-if-im-being-real-honest>
+
+---
+
+##  The Best Table Tennis Points Of 2024 
+
+date: 2025-01-30, updated: 2025-01-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/the-best-table-tennis-points-of-2024>
+
+---
+
+## What Do We Know Now, About the Airline Crash in DC?
+
+date: 2025-01-30, from: James Fallows, Substack
+
+We're in a veil of ignorance. But that's nothing compared with the blindness and bigotry of the commander-in-chief. 
+
+<br> 
+
+<https://fallows.substack.com/p/what-do-we-know-now-about-the-airline>
+
+---
+
+##  From an interview with Na Kim, her answer here could not be... 
+
+date: 2025-01-30, updated: 2025-01-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046103-from-an-interview-with-na>
+
+---
+
+## 2025-01-23 The bots are at it again
+
+date: 2025-01-30, from: Alex Schroeder's Blog
+
+<h1 id="2025-01-23-the-bots-are-at-it-again">2025-01-23 The bots are at it again</h1>
+
+<p>For a while I just appended new graphs and data to <a href="2024-11-25-emacs-china">the last post on this topic</a>.
+This time around I feel it&rsquo;s worse. There are so many bots that I can&rsquo;t even do the WHOIS lookup any more.
+Or perhaps I just managed to block so few that I never realized how many more there were.
+In any case, now that I&rsquo;m speeding things up, there are more bots to block.</p>
+
+<p><strong>If you want to partake in unsupervised banning with no feedback, no due process, just automatic ban-hammers, take a look at this script full of firewall commands.</strong></p>
+
+<p>It needs ipset and iptables access: <a href="/admin/ban-cidr">ban-cidr</a>.</p>
+
+<p>I blocked another 4669 networks.</p>
+
+<p>What I did was get the most recent 10000 lines from the Apache access log, filter out all the requests for my GoToSocial instance (hoping that it has good defences!?), grepping for the magic word, <a href="/admin/network-lookup-lean">doing reverse lookups</a> using <code>asn.routeviews.org</code> and banning them all. Looking at a summary, there were two networks with 6 requests, 6 networks with 5 requests, etc. Of the 4669 networks banned, there were 3985 networks with a single request only.</p>
+
+<p>That is to say, the network lookup is not really all that efficient because the requests are so incredibly diverse. There are essentially no individual IP numbers to ban because there are no repeat offenders, and even with that great ban-hammer of mine, this wouldn&rsquo;t help against the next 85% of requests because they are all unique.</p>
+
+<p>Now, I was already banning about 10,000 networks yesterday, and their success rate is still 85%! So that tells you that even this little jousting I&rsquo;m doing is tilting at windmills because these bots are turning the web to shit.</p>
+
+<p>Summing the numbers I see that I looked at 10,000 requests, discarded all the hits for my GoToSocial instance and still had 5560 bot hits.</p>
+
+<p>Every website everywhere is paying the distributed price for these leeches to keep their projects running. Of course, I could rent a bigger machine, run a bigger cache, spending more money and more time for their scam.</p>
+
+<p>I keep shouting &ldquo;CO₂ for the CO₂ god!&rdquo; and that&rsquo;s part of it, yes… Sadly!</p>
+
+<p>Oh, and I could not post this on fedi because my GoToSocial instance is unable to cope and takes a very long time to recover from the onslaught. While I waited, I banned another 2184 networks. And I kept doing it.</p>
+
+<p>Fuck this shit.</p>
+
+<p>Fuck this whole generation.</p>
+
+<p>Time passes.</p>
+
+<p>Let me count how many entries I added today.</p>
+
+<pre><code>awk 'BEGIN {c=0; n=0} /^# 2025-01-23/ {c=1} c&amp;&amp;/^ipset/ {n++} END {print n}' \
+  bin/admin/ban-cidr
+14497
+</code></pre>
+
+<p>I think it&rsquo;s about time to add some fail2ban code.
+If only I knew how.
+More cost they are putting on every single site operator and service provider out there.</p>
+
+<p>Right now load is below 4, so that&rsquo;s not too bad for 2 cores.
+The sites are still sluggish. I some sort of congestion issue.</p>
+
+<p><img loading="lazy" src="2025-01-23-bots-devouring-the-web-1.jpg" alt="Netstats showing connections established spiking." /></p>
+
+<p><a class="tag" href="/search/?q=%23ButlerianJihad">#ButlerianJihad</a></p>
+
+<p><strong>2025-01-24</strong>. What I did all day, yesterday:</p>
+
+<pre><code># prefix with a timestamp
+date; tail -n 2000 /var/log/apache2/access.log \
+ | grep -v ^social \
+ | grep &quot;rcidonly&quot; \
+ | bin/admin/network-lookup-lean &gt; result.log
+# count
+grep ipset result.log|wc -l
+# add
+grep ipset result.log|sh
+# document
+grep ipset result.log&gt;&gt;bin/admin/ban-cidr
+</code></pre>
+
+<p>But today:</p>
+
+<p><img loading="lazy" src="2025-01-23-bots-devouring-the-web-2.jpg" alt="After midnight, load climbed up to 40 and stayed up there" /></p>
+
+<p>I think made a mistake, yesterday around midnight. I rebooted the server and didn&rsquo;t run the script! 😱</p>
+
+<p>I thought the packages <code>netfilter-persistent</code>, <code>iptables-persistent</code> and <code>ipset-persistent</code> took care of that but that is not the case. See below for more.</p>
+
+<p>In any case, I think the graphs above illustrates what happens to my server without the firewall rules.</p>
+
+<p>Grrr.</p>
+
+<p>They said we&rsquo;re running out of IPv4 numbers but now that I&rsquo;m trying to block bots descending like flesh flies on baby bison, it turns out that there are still thousands of networks that need blocking. Holy cow may Baal eat the eyes of all the engineers partaking in this scouring of the web; may all the project managers rot and lose their teeth, their nails, their hair and their sense of smell; let them all suffer these curses until they repent, until they mend their ways and help undo the damage they are wreaking.</p>
+
+<p><strong>Later that day</strong>. I got an email asking about the bots and so I looked at the last run.
+Let&rsquo;s take the last run:</p>
+
+<pre><code>$ head result.log
+Made 763 DNS requests.
+21 cache hits.
+Range                          |       Hits |
+------------------------------:|-----------:|
+                       unknown |          4 |
+                38.188.60.0/24 |          3 |
+                201.46.36.0/22 |          3 |
+                45.225.53.0/24 |          2 |
+              170.246.119.0/24 |          2 |
+               45.178.110.0/23 |          2 |
+</code></pre>
+
+<p>The top hitting network I blocked in the last run had made just <em>three</em> suspicious requests!</p>
+
+<p>There is more info below:</p>
+
+<pre><code>38.188.60.0/24
+38.188.60.92 38.188.60.70 38.188.60.70
+38.188.60.0/24 | 38.188.60.92 | 24/Jan/2025:11:57:58 +0100 | GET /emacs?action=rc&amp;all=1&amp;days=3&amp;rcidonly=Comments_on_VimMode&amp;showedit=0 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+38.188.60.0/24 | 38.188.60.70 | 24/Jan/2025:11:58:47 +0100 | GET /emacs?action=rc&amp;all=1&amp;from=1730419325&amp;rcidonly=profh&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+38.188.60.0/24 | 38.188.60.70 | 24/Jan/2025:12:01:02 +0100 | GET /emacs?action=rc&amp;all=1&amp;days=3&amp;rcidonly=2013-11-08&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.3478.83 Safari/537.36
+ipset add banlist 38.188.60.0/24
+</code></pre>
+
+<p>So the three requests from this network came from just two different IP numbers:</p>
+
+<ul>
+<li>38.188.60.92</li>
+<li>38.188.60.70</li>
+</ul>
+
+<p>The first suspicious request is for a list of recent changes made in the last 3 days for the page &ldquo;Comments on VimMode&rdquo;.</p>
+
+<p>Let&rsquo;s check whether this is a false positive. Perhaps the request belongs into a sequence that makes sense to a human?</p>
+
+<pre><code>$ grep 38.188.60.92 /var/log/apache2/access.log /var/log/apache2/access.log.1 
+/var/log/apache2/access.log:www.emacswiki.org:443 38.188.60.92 - - [24/Jan/2025:11:57:58 +0100] &quot;GET /emacs?action=rc&amp;all=1&amp;days=3&amp;rcidonly=Comments_on_VimMode&amp;showedit=0 HTTP/1.1&quot; 503 3868 &quot;-&quot; &quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36&quot;
+</code></pre>
+
+<p>This strange request is the only request this IP number made in over 24h.</p>
+
+<p>The only explanation I have is that the URL belongs to a dataset used to train AI, using bots running from machines rented all around the world.
+Or it&rsquo;s a denial of service attack.</p>
+
+<p><strong>2025-01-25</strong>. I think I finally understand the packages about making it all persistent:</p>
+
+<p><code>netfilter-persistent</code> calls all the modules.</p>
+
+<p><code>iptables-persistent</code> is the module that saves <code>/etc/iptables/rules.v4</code> and <code>/etc/iptables/rules.v6</code> with just the rules.</p>
+
+<p><code>ipset-persistent</code> is the module that saves <code>/etc/iptables/ipsets</code>.
+This file is about 1MB and pretty much contains what <code>ban-cidr</code> contains.</p>
+
+<p>And as it turns out, saving is never automatic.</p>
+
+<p>You need to run <code>netfilter-persistent save</code> manually after running <code>ban-cidr</code> for all the rules and sets to be loaded on a reboot.</p>
+
+<p>Similar stories in the news:</p>
+
+<blockquote>
+<p>The AI scraper bots cause a DDoS, a distributed denial-of-service attack. At times, the AI bots would clog the lines with hundreds of IP addresses simultaneously as soon as they decided to access the site&rsquo;s content. &ndash; <a href="https://www.heise.de/en/news/AI-bots-paralyze-Linux-news-site-and-others-10252162.html">AI bots paralyze Linux news site and others</a></p>
+</blockquote>
+
+<p><strong>2025-01-30</strong>. Look at this: <a href="https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/">AI haters…</a> &ndash; I didn&rsquo;t even read the whole headline of this article and I like it already.</p>
+
+<p>The article by  Ashley Belanger for Ars Technica mentions <a class="account" href="https://tldr.nettime.org/@tante" title="@tante@tldr.nettime.org">@tante</a> and <a class="account" href="https://come-from.mad-scientist.club/@algernon" title="@algernon@come-from.mad-scientist.club">@algernon</a>, gibberish-serving (and AI-poisoning?) <a href="https://zadzmo.org/code/nepenthes/">Nepenthes</a>, calling it malware. (Oh yeah? Oh no!)</p>
+
+<blockquote>
+<p>OK, so if I do nothing, AI models, they boil the planet. If I switch this on, they boil the planet. How is that my fault? &ndash; Aaron, quoted in that Ars Technica article.</p>
+</blockquote>
+
+<p>I like this guy.</p>
+
+<p>If you want to read the original answers by @tante, see his blog post, <a href="https://tante.cc/2025/01/28/quoted-in-ars-technicas-article-on-tarpits-for-ai-crawlers/">Quoted in Ars Technica’s article on tarpits for AI crawlers</a>.</p>
+
+<p>All I&rsquo;ll say is that I fear something like Nepenthes will just tie up too many resources of mine (RAM, file handles, bandwidth). &ldquo;CO₂ for the CO₂ god!&rdquo; But perhaps I&rsquo;m wrong? I should investigate.</p>
+
+<p>Although <a class="account" href="https://octodon.social/@wim_v12e" title="@wim_v12e@octodon.social">@wim_v12e</a> commented, saying:</p>
+
+<blockquote>
+<p>There is no way that something like Nephentes would ever be deployed at a scale so large that it would create considerable additional emissions.</p>
+</blockquote>
+
+<p>For now, I keep returning a 410 &ldquo;Gone&rdquo; response to self-identified bots and I just drop packets from networks that have hosted bots at the firewall. There are probably problems with this system as packets from fediverse instances hosted by the same providers get cut off, too. And I&rsquo;m not expiring the bans, unfortunately.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-01-23-bots-devouring-the-web>
+
+---
+
+## 2025-01-30 Gender and language
+
+date: 2025-01-30, from: Alex Schroeder's Blog
+
+<h1 id="2025-01-30-gender-and-language">2025-01-30 Gender and language</h1>
+
+<p>I&rsquo;m always positively surprised when I see the <a href="https://www.bk.admin.ch/bk/de/home/dokumentation/sprachen/hilfsmittel-textredaktion/leitfaden-zum-geschlechtergerechten-formulieren.html">guidelines on gender-neutral writing</a> by the Federal Chancellery in Switzerland, with German, French, Italian and Rumantsch being full of those pesky gender thingies.</p>
+
+<p><a class="account" href="https://mutual.tls.zone/@robbo" title="@robbo@mutual.tls.zone">@robbo</a> then linked me to a book in French about inclusive language. I liked the blurb very much. Like Portuguese, the language has a rule that if a group of people is all women, use female forms, but if there just one man, no matter how many women there are, use male forms. The blurb says how this pushes women out of the public sphere because they are no longer perceived as doing anything. And the blurb says that the speakers of a language have a choice! We can change, and our language can change. It belongs to the speakers who are alive now, not to the dead of the past.</p>
+
+<blockquote>
+<p>En 1647, Claude Favre de Vaugelas, l’un des premiers membres de l’Académie française, écrit que « le genre masculin, étant le plus noble, doit prédominer toutes les fois que le masculin et le féminin se trouvent ensemble ». Une opinion partagée par d’innombrables penseurs des XVIIe et XVIIIe siècle qui envoie balancer la croyance populaire selon laquelle le masculin l’emporte sur le féminin parce qu’il est générique, neutre ou universel. Le féminin grammatical, ainsi que les formes féminines des noms de métiers, ont été sciemment éclipsées pour pousser les femmes hors de la sphère publique, pour les empêcher de se nommer, peut-être même de se penser. … Mais les francophones n’ont pas dit leur dernier mot! Les multiples stratégies d’écriture inclusive déjà répandues témoignent de la révolution langagière que nous connaissons et qui défonce les barrières artificielles érigées par les académiciens. … Cet ouvrage sert d’introduction à l’écriture inclusive, de traité d’histoire sur l’influence du sexisme sur la langue, mais surtout de formidable outil pour quiconque cherche à écrire en ne laissant personne dans l’ombre. &ndash; <a href="https://editionssommetoute.com/livre/grammaire-pour-un-francais-inclusif/">Grammaire pour un français inclusif</a></p>
+</blockquote>
+
+<p>This is a bit related to discussions around the other languages I speak: Is German German more German than Swiss or Austrian German? Is Continental Portuguese more Portuguese than Brazilian Portuguese? Is English English more English than Indian English or Irish English? No! The language belongs to those who speak it.</p>
+
+<p><a class="tag" href="/search/?q=%23Languages">#Languages</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-01-30-gender-language>
+
+---
+
+## January 29, 2025
+
+date: 2025-01-30, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156129712/dcb7a8c732dc3cdb939c084c591ba1db.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156129712/dcb7a8c732dc3cdb939c084c591ba1db.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-29-2025-f9d>
+
+---
+
+##  Netflix is making a Little House on the Prairie reboot. &#8220;The series... 
+
+date: 2025-01-30, updated: 2025-01-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046107-netflix-is-making-a-littl>
+
+---
+
+## How to Write (and Read) Headlines in the Trump 2.0 Era, Microsoft-TikTok Edition
+
+date: 2025-01-30, updated: 2025-01-30, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theguardian.com/technology/2025/jan/28/donald-trump-microsoft-tiktok-purchase-claims>
+
+---
+
+##  The Magic of Code: How Digital Language Created and Connects Our World... 
+
+date: 2025-01-30, updated: 2025-01-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046105-the-magic-of-code-how>
+
+---
+
+## Deadly bigotry
+
+date: 2025-01-30, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/deadly-bigotry>
+
+---
+
+##  The Public Domain Image Archive 
+
+date: 2025-01-30, updated: 2025-01-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/the-public-domain-image-archive>
+
+---
+
+##  &#8220;A Dyson tree is a hypothetical genetically engineered plant (perhaps resembling a... 
+
+date: 2025-01-30, updated: 2025-01-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046075-a-dyson-tree-is-a>
+
+---
+
+##  What If Letterboxd Ratings Decided the Best Picture Oscar? 
+
+date: 2025-01-30, updated: 2025-01-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/letterboxd-ratings-best-picture-oscar>
+
+---
+
+## Time for a new story
+
+date: 2025-01-30, from: Dave Winer's Scripting News
+
+<p>After cleaning out the White House of scummy career woke liberals and replacing them with beautiful dancers and then offering buyouts to the 2 million federal leeches, </p>
+<p>President for Life Donald J Trump set his sights on journalism, beautifying the NY Times!</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/01/30/briefingRoom.png"></center>Newly beautified briefing room.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/01/30/trafficControl2.png"></center>Air traffic control is just lovely.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/01/30/nyt.png"></center>Oh my they are beauts, and loyal too!</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/30/162413.html?title=timeForANewStory>
+
+---
+
+## Is Kash Patel worse than J. Edgar Hoover?
+
+date: 2025-01-30, from: Robert Reich's blog
+
+Trump&#8217;s pick to head the FBI should not be confirmed. Consider what he has written and said. 
+
+<br> 
+
+<https://robertreich.substack.com/p/kash-patel-in-his-own-words>
+
+---
+
+##  Muji has opened its first food market in the US at its... 
+
+date: 2025-01-30, updated: 2025-01-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046080-muji-has-opened-its-first>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-30, from: Dave Winer's Scripting News)
+
+Good oligarchs and bad oligarchs. We need to help the good ones have the guts to get on the air, with really good creative advertising, telling the people exactly what's being done to them now, without pulling any punches. They have to be warned and they aren't. You have to be paying a lot of attention to understand. And it's hard to know what to believe. We have to have a voice in this, now. 
+
+<br> 
+
+<http://scripting.com/2025/01/30.html#a154514>
+
+---
+
+## Sonshi-style a.k.a. Keyboard on Laptop
+
+date: 2025-01-30, from: mrusme blog
+
+**Tl;dr:** Whenever you're working on your laptop with an external keyboard,
+preferably an [HHKB](https://en.wikipedia.org/wiki/Happy_Hacking_Keyboard),
+on top of your laptop's keyboard, you're working *Sonshi-style*
+([尊師](https://en.wiktionary.org/wiki/%E5%B0%8A%E5%B8%AB)[スタイル](https://en.wiktionary.org/wiki/%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB)). 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/sonshi-style-aka-keyboard-on-laptop/>
 
 ---
 
@@ -26,7 +638,7 @@ date: 2025-01-30, updated: 2025-01-30, from: Jason Kittke's blog
 date: 2025-01-30, from: Dave Winer's Scripting News
 
 <p><a href="https://bsky.app/profile/andrewhickey.500songs.com/post/3lgxo764qbk2y">Andrew Hickey wrote</a> something I wholeheartedly agree with. "If you think the day job might literally kill you, and you have no kids, quit and try that mad idea. That might also kill you, but better to die trying something wonderful than be killed by a crappy job."</p>
-<p><a href="https://bsky.app/profile/scripting.com/post/3lgxod4czuc2o">My response</a>: "My life story since i was 22, and I'm 69 now. It's worked out okay, not perfect, I have regrets, but I would have far more if I hadn't bet on myself. My 22-year-old self was very right about a lot of things."</p>
+<p><a href="https://bsky.app/profile/scripting.com/post/3lgxod4czuc2o">My response</a>: "My life story since I was 22, and I'm 69 now. It's worked out okay, not perfect, I have regrets, but I would have far more if I hadn't bet on myself. My 22-year-old self was very right about a lot of things."</p>
  
 
 <br> 
@@ -152,7 +764,7 @@ Why CNN pushed out Jim Acosta
 
 ## OpenStreetMap Community Discussion on How to Handle the U.S. Federal Government’s Imminent Designation of the Gulf of Mexico as the ‘Gulf of America’
 
-date: 2025-01-29, updated: 2025-01-29, from: Daring Fireball
+date: 2025-01-29, updated: 2025-01-30, from: Daring Fireball
 
  
 
@@ -188,7 +800,7 @@ What&#8217;s behind the apparent chaos today in Washington
 
 ## ★ Pebble Founder Eric Migicovsky Is Bringing It Back
 
-date: 2025-01-29, updated: 2025-01-29, from: Daring Fireball
+date: 2025-01-29, updated: 2025-01-30, from: Daring Fireball
 
 The whole tech world needs more projects that aren’t trying to become billion- (let alone trillion-) dollar ideas, but are happily shooting for success as million-dollar ideas (or less!). 
 
@@ -484,7 +1096,7 @@ During the 2024 presidential campaign, Trump distanced himself from Project 2025
 
 ## ★ My Spitball Theory on TikTok’s Current Semi-Reprieve in the U.S.
 
-date: 2025-01-29, updated: 2025-01-30, from: Daring Fireball
+date: 2025-01-29, updated: 2025-01-31, from: Daring Fireball
 
 Even if the build of TikTok already installed on an American user’s phone continues to function, that user can’t reinstall TikTok (or any of ByteDance’s other apps) on a new or restored phone until those apps are back in the app stores. 
 
@@ -608,7 +1220,7 @@ date: 2025-01-28, updated: 2025-01-28, from: Jason Kittke's blog
 
 ## ★ Openvibe, a Multi-Social-Network App for Bluesky, Mastodon, Threads (Supposedly), and Nostr
 
-date: 2025-01-28, updated: 2025-01-29, from: Daring Fireball
+date: 2025-01-28, updated: 2025-01-30, from: Daring Fireball
 
 Openvibe, which mashes together multiple accounts from mulitple networks into a single timeline, is interesting, but not for me — and I’m not really sure who it *is* for. 
 

@@ -1,11 +1,191 @@
 ---
 title: socal north
-updated: 2025-01-30 07:04:46
+updated: 2025-01-31 07:05:21
 ---
 
 # socal north
 
-(date: 2025-01-30 07:04:46)
+(date: 2025-01-31 07:05:21)
+
+---
+
+## Cheap Fast Eats visits Pico-Union for globetrotting bites around $10
+
+date: 2025-01-31, updated: 2025-01-31, from: The LAist
+
+Cheap Fast Eats visits the historic neighborhood to find good food that doesn't break the bank. 
+
+<br> 
+
+<https://laist.com/news/food/cheap-fast-eats-visits-pico-union-for-globetrotting-bites-around-10>
+
+---
+
+## ‘We use our words, they use their play’: How playtime is helping kids process the LA fires
+
+date: 2025-01-31, updated: 2025-01-31, from: The LAist
+
+Drawing, playing and make-believe are tools children can use to comprehend the disruption of the past month. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/children-play-trauma-processing-los-angeles-fire>
+
+---
+
+## What the sudden closure of the Ruby Fruit means for LA's lesbian community
+
+date: 2025-01-31, updated: 2025-01-31, from: The LAist
+
+The Silver Lake bar was one of the last lesbian establishments in the city, after the slow decline of a once thriving bar scene. 
+
+<br> 
+
+<https://laist.com/news/food/what-the-sudden-closure-of-the-ruby-fruit-means-for-las-lesbian-community>
+
+---
+
+## Warmer weather on tap for the weekend
+
+date: 2025-01-31, updated: 2025-01-31, from: The LAist
+
+Look for slightly warmer temperatures and mostly sunny skies. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/warmer-weather-on-tap-for-the-weekend>
+
+---
+
+## Last chance for northeast SFV residents to apply for free rooftop solar. Here’s how
+
+date: 2025-01-31, updated: 2025-01-31, from: The LAist
+
+Income-qualified Pacoima and Sun Valley residents are eligible. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/last-chance-northeast-sfv-residents-apply-free-rooftop-solar>
+
+---
+
+## As most of Angeles National Forest reopens, officials warn against ‘crushing the life out of’ plants in closed areas
+
+date: 2025-01-30, updated: 2025-01-30, from: The LAist
+
+Two portions of the forest will remain closed for safety concerns and so the landscape can recover after the recent wildfires. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/angeles-national-forest-reopening>
+
+---
+
+## Lawmakers push to take Fred Korematsu Day national
+
+date: 2025-01-30, updated: 2025-01-30, from: The LAist
+
+Born to Japanese immigrants in Oakland, he was arrested for refusing to be incarcerated based on his ethnicity. 
+
+<br> 
+
+<https://laist.com/news/politics/fred-korematsu-day-go-national>
+
+---
+
+## Norovirus is still spreading in LA County. Here’s what you should know
+
+date: 2025-01-30, updated: 2025-01-30, from: The LAist
+
+California’s peak stomach flu season is expected to continue to April. Hand sanitizers don't kill the illness, which spreads easily from person-to-person. 
+
+<br> 
+
+<https://laist.com/news/health/los-angeles-southern-california-norovirus-stomach-flu-season>
+
+---
+
+## SoCal Edison allowed to raise rates to help pay for 2017 Thomas Fire
+
+date: 2025-01-30, updated: 2025-01-30, from: The LAist
+
+Customers are picking up the $1.7 billion tab after the utility’s equipment was linked to the wildfire and resulting flooding seven years ago. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-edison-raises-rates-thomas-fire>
+
+---
+
+## California Deploys Nation’s Largest Service Force to Connect and Unite Californians
+
+date: 2025-01-30, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/california-deploys-nations-largest-service-force-to-connect-and-unite-californians-2/>
+
+---
+
+## Massive Salton Sea lithium project gets judge’s go-ahead, ending advocates’ lawsuit
+
+date: 2025-01-30, updated: 2025-01-30, from: The LAist
+
+Social and environmental groups claimed the project could cause water and air problems not disclosed in an environmental impact report. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/salton-sea-lithium-project-gets-judges-go-ahead>
+
+---
+
+## Trump's pulling a U-turn on EVs, but not much has changed — yet
+
+date: 2025-01-30, updated: 2025-01-30, from: The LAist
+
+President Trump has charted a new course for electric vehicle policy in the U.S. While the direction is clear, the details aren't. 
+
+<br> 
+
+<https://laist.com/news/trumps-pulling-a-u-turn-on-evs-but-not-much-has-changed-yet>
+
+---
+
+## Marianne Faithfull, '60s icon and evolving pop star, has died at 78
+
+date: 2025-01-30, updated: 2025-01-30, from: The LAist
+
+The 1964 hit "As Tears Go By," penned by Mick Jagger and Keith Richards, made her a star, but Marianne Faithfull demonstrated a remarkable ability to change with the times. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/marianne-faithfull-60s-icon-and-evolving-pop-star-has-died-at-78>
+
+---
+
+## Another casualty of a bone-dry winter: LA won’t take less water from Mono Lake
+
+date: 2025-01-30, updated: 2025-01-30, from: The LAist
+
+L.A. had planned to take substantially less from the iconic Eastern Sierra lake this winter. The decision is a blow to conservationists who have been trying to restore the lake for decades. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/dry-winter-la-water-mono-lake>
+
+---
+
+## Nearly a half dozen SoCal universities advise staff to resist immigration enforcement on campus
+
+date: 2025-01-30, updated: 2025-01-30, from: The LAist
+
+Some California State Universities advised staff not to answer immigration agents’ questions on school grounds and to contact campus police. 
+
+<br> 
+
+<https://laist.com/news/education/socal-universities-give-staff-directions-to-resist-immigration-enforcement>
 
 ---
 
@@ -546,9 +726,9 @@ Internal reports on deaths, disease, abuse and overdoses will give the public a 
 
 ## Travis lead singer Fran Healy on the f-word, community in LA and the band’s 'live friendship' on stage
 
-date: 2025-01-27, updated: 2025-01-27, from: The LAist
+date: 2025-01-27, updated: 2025-01-30, from: The LAist
 
-Like many, Fran Healy has a complicated relationship with Los Angeles. He vents about it on the band's latest album, L.A. Times. But the response to the recent wildfire emergency challenged those assumptions. 
+He vents about his complicated relationship with L.A. on the band's latest album. But the response to the recent wildfire emergency challenged those assumptions. 
 
 <br> 
 

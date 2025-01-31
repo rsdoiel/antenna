@@ -1,11 +1,504 @@
 ---
 title: science and technology
-updated: 2025-01-30 07:04:47
+updated: 2025-01-31 07:05:22
 ---
 
 # science and technology
 
-(date: 2025-01-30 07:04:47)
+(date: 2025-01-31 07:05:22)
+
+---
+
+## One of the Oldest Surviving Operas by a Black American Composer Will Be Performed for the First Time—138 Years After It Was Written
+
+date: 2025-01-31, from: Smithsonian Magazine
+
+Edmond Dédé's 1887 magnum opus "Morgiane"—billed as "the most important opera never heard"—will finally get its premiere after languishing in obscurity for more than a century 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/one-of-the-oldest-surviving-operas-by-a-black-american-composer-will-be-performed-for-the-first-time-138-years-after-it-was-written-180985943/>
+
+---
+
+## 'Abandoned' astro takes recordbreaking ninth spacewalk
+
+date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
+
+<h4>Sunita Williams lays claims to lead for female EVAs</h4> <p>NASA &#39;naut Sunita Williams has broken Peggy Whitson&#39;s record for total spacewalking time for a female astronaut with a trip outside the International Space Station (ISS) to collect samples from the outpost&#39;s exterior.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/31/abandoned_astro_takes_recordbreaking_ninth/>
+
+---
+
+## IBM banks on friendlier US regulatory climate for dealmaking
+
+date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
+
+<h4>Reckons completion of Hashicorp buy is around the corner, plans to use some of $7B free cash for more M&amp;A</h4> <p>IBM is hopeful of completing the $6.4 billion purchase of Hashicorp relatively smoothly given what Big Blue perceives to be a &#34;more rational&#34; and &#34;pro-competition&#34; regulatory environment.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/31/ibm_banks_on_friendlier_us/>
+
+---
+
+## Hubble Spots a Supernova
+
+date: 2025-01-31, from: NASA breaking news
+
+The subject of this NASA/ESA Hubble Space Telescope image is a supernova-hosting galaxy located about 600 million light-years away in the constellation Gemini. Hubble captured this image roughly two months after a supernova named SN 2022aajn was discovered. The supernova is visible as a blue dot at the center of the image, brightening the hazy […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-spots-a-supernova/>
+
+---
+
+## Welsh woman fined for flatulence-fueled cyber harassment
+
+date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
+
+<h4>Court said her approach to child access dispute with partner&#39;s ex really stinks</h4> <p>Wales has given the world many things – Tom Jones, laverbread, and the equals sign. But one woman from Caernarfon has added weaponized flatulence to the list. Her unorthodox approach to WhatsApp landed her with a community order and fines.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/31/wales_flatulence_harassment/>
+
+---
+
+## The Heirloom Project
+
+date: 2025-01-31, from: OS News
+
+The Heirloom Project provides traditional implementations of standard Unix utilities. In many cases, they have been derived from original Unix material released as Open Source by Caldera and Sun. Interfaces follow traditional practice; they remain generally compatible with System&#160;V, although extensions that have become common use over the course of time are sometimes provided. Most utilities are also included in a variant that aims at POSIX conformance. On the interior, technologies for the twenty-first century such as the UTF-8 character encoding or OpenType fonts are supported. ↫ The Heirloom Project website I had never heard of this before, but I like the approach they&#8217;re taking. This isn&#8217;t just taking System V tools and making them work on a modern UNIX-like system as-is; they&#8217;re also improving by them adding support for modern technologies, without actually changing their classic nature and the way old-fashioned users expect them to work. Sadly, the project seems to be dead, as the code hasn&#8217;t been altered since 2008. Perhaps someone new is willing to take up this project? As it currently stands, the tools are available for Linux, Solaris, Open UNIX, HP-UX, AIX, FreeBSD, NetBSD, and OpenBSD, but considering how long the code hasn&#8217;t been touched, I wonder if they still run and work on any of those systems today. They also come in various different versions which comply with different variants of the POSIX standard. 
+
+<br> 
+
+<https://www.osnews.com/story/141653/the-heirloom-project/>
+
+---
+
+## BT fiber rollout passes 17 million homes, altnet challenge grows
+
+date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
+
+<h4>Only 35% of those premises actually hooked up though, plus company reports &#39;higher competitor losses&#39;</h4> <p>BT Group claims to have pulled off a record build rate of more than a million premises in the final three months of 2024 amid efforts to install fiber connectivity across the UK and fierce competition from altnets.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/31/bt_fiber_rollout_passes_17/>
+
+---
+
+## Android 16’s Linux Terminal will soon let you run graphical apps, so of course we ran Doom
+
+date: 2025-01-31, from: OS News
+
+Regardless, the fact that Android’s Linux Terminal can run graphical apps like Doom now is good news. Hopefully we’ll be able to run more complex desktop-class Linux programs in the future. I tried running GIMP, for example, but it didn’t work. Eventually, Android should be able to run Linux apps as well as Chromebooks can, as I believe one of the goals of this project is to help the transition of Chrome OS to an Android base. ↫ Mishaal Rahman at Android Authority It was of course inevitable that someone would run Doom on Android&#8217;s new Debian container, and it&#8217;s pretty cool to see it work without much issue already, even if the new terminal and container setup are still in such heavy development. Like many other people, I love the idea of my smartphone being both my, well, smartphone, as well as a full desktop PC once you connect it to a display and some input devices. As wireless technology keeps advancing, we soon might not even need to plug anything into the phone at all, and just having it in our pocket is good enough, which would be amazing. That being said, I would want such functionality to come from a traditional Linux setup, not Android&#8217;s idea of a Linux setup. Running a Debian virtual machine on top of Android is probably preferable for a lot of people for a variety of reasons, but I&#8217;m a Linux user and want plain, regular Linux running directly on my smartphone, not some virtual machine on Android, which, while being a Linux distribution, is not the most pleasant variant of Linux to run and use. 
+
+<br> 
+
+<https://www.osnews.com/story/141651/android-16s-linux-terminal-will-soon-let-you-run-graphical-apps-so-of-course-we-ran-doom/>
+
+---
+
+## European Space Agency picks Thales Alenia Space to build lunar lander
+
+date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
+
+<h4>ESA and the Argonauts</h4> <p>The European Space Agency (ESA) has inked a deal worth €862 million with Thales Alenia Space to develop a lunar lander.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/31/european_space_agency_taps_thales/>
+
+---
+
+## How Guy Fawkes, Figurehead of the Gunpowder Plot, Avoided the Full Horrors of Execution by Hanging, Drawing and Quartering
+
+date: 2025-01-31, from: Smithsonian Magazine
+
+The Catholic conspirator jumped or fell from the gallows on this day in 1606, breaking his neck before the executioner could cut him down from the noose and disembowel him 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/how-guy-fawkes-figurehead-of-the-gunpowder-plot-avoided-the-full-horrors-of-execution-by-hanging-drawing-and-quartering-180985899/>
+
+---
+
+## Another banner year for ransomware gangs despite takedowns by the cops
+
+date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
+
+<h4>And it doesn&#39;t take a crystal ball to predict the future</h4> <p>If the nonstop flood of ransomware attacks doesn&#39;t already make every day feel like Groundhog Day, then a look back at 2024 – and predictions for 2025 – definitely will.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/31/banner_year_for_ransomware_gangs/>
+
+---
+
+## Sols 4439-4440: A Lunar New Year on Mars
+
+date: 2025-01-31, from: NASA breaking news
+
+Earth planning date: Wednesday, Jan. 29, 2025 We’re planning sols 4439 and 4440 on the first day of the Lunar New Year here on Earth, and I’m the Geology/Mineralogy Science Theme Lead for today. The new year is a time for all kinds of abundance and good luck, and we are certainly lucky to be […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4439-4440-a-lunar-new-year-on-mars/>
+
+---
+
+## Arrr! Can a sailor's marlinspike fix a busted backplane?
+
+date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
+
+<h4>&#39;Ancient mariner&#39; who came to make the fix in historical costume was such a shock nobody made a pirate joke</h4> <p><strong>On Call</strong>  Tech support people play many roles, and <i>The Register</i> celebrates them all in On Call, our reader-contributed Friday column in which we share your tales of adventure.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/31/on_call/>
+
+---
+
+## Googlers asked if they'd like to bury themselves next to Stadia, Chromecast, DropCam
+
+date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
+
+<h4>That&#39;s one way to focus the Platforms &amp; Devices team</h4> <p>Google&#39;s latest round of layoffs is looking a bit different than usual, with the Chocolate Factory offering a buyout to employees in the recently created Platforms &amp; Devices division.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/31/googles_latest_layoffs_buyout/>
+
+---
+
+## Asteroid as wide as 886 cans of spam may hit Earth in 2032
+
+date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
+
+<h4>Is this NEO the one? Yup, as in, a 1% chance of hitting us ... sadly</h4> <p><strong>Video</strong>  Astronomers reckon a 220-million-kilogram asteroid is going to swing by Earth in 2032 with a 1-in-100 chance of hitting us.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/31/asteroid_earth_impact/>
+
+---
+
+## Intel sinks $19B into the red, kills Falcon Shores GPUs, delays Clearwater Forest Xeons
+
+date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
+
+<h4>Imagine burning through $72B in one year. Did it make Sam Altman the CEO already?</h4> <p>Intel capped off a tumultuous year with a reality check for its product roadmaps.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/31/intel_q4_2024/>
+
+---
+
+## Google to Iran: Yes, we see you using Gemini for phishing and scripting. We're onto you
+
+date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
+
+<h4>And you, China, Russia, North Korea ... Guardrails block malware generation</h4> <p>Google says it&#39;s spotted Chinese, Russian, Iranian, and North Korean government agents using its Gemini AI for nefarious purposes, with Tehran by far the most frequent naughty user out of the four.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/31/state_spies_google_gemini/>
+
+---
+
+## Want Intel in your Surface? That’ll be $400 extra, says Microsoft
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Makes you wonder, how bad could Windows-on-Arm really be?</h4> <p>Businesses looking to pick up a Surface Pro tablet or laptop powered by Intel&#39;s latest generation of Core Ultra processors can expect to pay at least $400 more compared to Microsoft&#39;s existing Arm-based offerings.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_surface_intel/>
+
+---
+
+## This Man Says He's the Mysterious 'Googly-Eye Bandit' in Bend, Oregon
+
+date: 2025-01-30, from: Smithsonian Magazine
+
+Jeff Keith, a longtime resident and nonprofit founder, says he used duct tape to affix googly eyes to two public sculptures last month 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-man-claims-to-be-the-mysterious-googly-eye-bandit-in-bend-oregon-180985939/>
+
+---
+
+## See the First-Ever Photographs of the Elusive Mount Lyell Shrew, Finally Caught on Camera in California
+
+date: 2025-01-30, from: Smithsonian Magazine
+
+A group of young researchers captured and photographed the animal on a three-day expedition to the Eastern Sierra Nevada 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-the-first-ever-photographs-of-the-elusive-mount-lyell-shrew-finally-caught-on-camera-in-california-180985946/>
+
+---
+
+## VMware plugs steal-my-credentials holes in Cloud Foundation
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Consider patching soon because cybercrooks love to hit vulnerable tools from Broadcom&#39;s virtualization giant</h4> <p>Broadcom has fixed five flaws, collectively deemed &#34;high severity,&#34; in VMware&#39;s IT operations and log management tools within Cloud Foundation, including two information disclosure bugs that could lead to credential leakage under certain conditions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/vmware_infomration_disclosure_flaws/>
+
+---
+
+## What better place to inject OpenAI's o1 than Los Alamos national lab, right?
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Tackling disease, tick. High-energy physics, tick. Nuke security, also tick</h4> <p>OpenAI has announced another deal with Uncle Sam, this time to get its very latest models in the hands of US government scientists working on nuclear security and more.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/openai_los_alamos_national_lab/>
+
+---
+
+## SOF Week 2025
+
+date: 2025-01-30, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">SOF Week 2025</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Sean.Timko.ctr…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-30T15:42:01-05:00" title="Thursday, January 30, 2025 - 15:42" class="datetime">Thu, 01/30/2025 - 15:42</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+      
+
+              </div>
+      
+      </div>
+</div>
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/upcoming_events_slide/public/gallery/2025-01/sof-week-2025-3.png?h=9fb2ff0c&amp;itok=MVhx3mAE" width="576" height="324" alt loading="lazy" class="image-style-upcoming-events-slide">
+
+
+
+      <figcaption class="padding-bottom-3">
+        
+
+              </figcaption>
+
+    
+
+      </div>
+</div>
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>SOF Week 2025</h4></div>
+      
+
+      </div>
+</div>
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>The Small Business Programs Office (SBPO) will be attending SOF Week 2025 on MAY 5-8, 2025, in Tampa, FL.</p><p>&nbsp;</p><p><a class="primary-button-light primary-button-padding" href="https://sofweek.org/registration/" target="_blank"><span>Register</span>&nbsp;<svg id="right" viewBox="0 -7 30 35"><path d="M0.5 9.35772H20.9956L14.2001 2.29941L16.4134 0L27 11L16.4134 22L14.2001 19.7006L20.9956 12.6423H0.5V9.35772Z" fill="currentColor" /></svg></a></p></div>
+      
+
+      </div>
+</div>
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--from-library paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+      
+            <div class="field field--name-paragraphs field--type-entity-reference-revisions field--label-hidden field__item">
+  <div class="content-width-x-large margin-x-auto desktop:padding-top-0 mobile-lg:padding-top-5 paragraph paragraph--type--right-rail paragraph--view-mode--default">
+    
+      
+
+      </div>
+</div>
+      
+
+              </div>
+      
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/events/2025/sof-week-2025>
+
+---
+
+## SPHEREx’s Concentric Cones
+
+date: 2025-01-30, from: NASA breaking news
+
+NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer) observatory rests horizontally in this April 2024 image taken at BAE Systems in Boulder, Colorado. This orientation shows the observatory’s three layers of photon shields – the metallic concentric cones. Over a two-year planned mission, the SPHEREx Observatory will collect [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/spherexs-concentric-cones/>
+
+---
+
+## Someone Bought This Painting at a Garage Sale for $50. Experts Say It’s a Lost van Gogh Worth $15 Million
+
+date: 2025-01-30, from: Smithsonian Magazine
+
+The portrait of a fisherman was found in Minnesota by an anonymous collector. A new analysis has concluded that it could be the real deal 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/someone-bought-this-painting-at-a-garage-sale-for-50-experts-say-its-a-lost-van-gogh-worth-15-million-180985942/>
+
+---
+
+## Tesla's numbers disappoint again ... and the crowd goes wild ... again
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Boy who&#39;s cried wolf on autonomous driving for years swears &#39;there&#39;s a damn wolf this time&#39;</h4> <p>Tesla had a pretty dismal fourth-quarter of 2024 and a rough year overall, financially. But you wouldn&#39;t know it from the after-hours boost to its share price as CEO Elon Musk predicted a record 2025 buoyed by yet more promises of fully autonomous robotaxis.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/tesla_q4_2024/>
+
+---
+
+## Fossil Hunter Discovers 66-Million-Year-Old Vomit in Denmark, Offering a Clue to the Cretaceous Food Chain
+
+date: 2025-01-30, from: Smithsonian Magazine
+
+A marine animal snacked on some sea lilies that did not agree with its stomach—and we now know what happened next 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/fossil-hunter-discovers-66-million-year-old-vomit-in-denmark-offering-a-clue-to-the-cretaceous-food-chain-180985931/>
+
+---
+
+## HPE's $14B Juniper takeover slams into Dept of Justice roadblock
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Merger would kill competition, jack up wireless LAN prices, officials argue</h4> <p>The US Department of Justice (DoJ) has sued to block Hewlett Packard Enterprise&#39;s $14 billion acquisition of Juniper Networks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/hpes_acquisition_juniper/>
+
+---
+
+## Trump admin's purge of US cyber advisory boards was 'foolish,' says ex-Navy admiral
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>‘No one was kicked off the NTSB in the middle of investigating a crash’</h4> <p><strong>interview</strong>  Gutting the Cyber Safety Review Board as it was investigating how China&#39;s Salt Typhoon breached American government and telecommunications networks was &#34;foolish&#34; and &#34;bad for national security,&#34; according to retired US Navy Rear Admiral Mark Montgomery.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/gutting_us_cyber_advisory_boards/>
+
+---
+
+## Microsoft catapults DeepSeek R1 into Azure AI Foundry, GitHub
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Distilled version for Copilot+ PCs on the way, too – 太棒了!!</h4> <p>Microsoft has added the open source DeepSeek R1 LLM to Azure AI Foundry and GitHub, showing that even a lumbering tech giant can be nimble when it needs to be.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_deepseek_azure_github/>
+
+---
+
+## The Price to Climb Mount Everest Will Rise to $15,000 This Year
+
+date: 2025-01-30, from: Smithsonian Magazine
+
+Foreign climbers who want to try reaching the top of the 29,032-foot-tall peak will face higher permit fees in Nepal starting in September 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-price-to-climb-mount-everest-will-rise-to-15000-this-year-180985926/>
+
+---
+
+## DeepSeek stirs intrigue and doubt across the tech world
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>China&#39;s AI disruptor rattles industry watchers with unproven claims</h4> <p>In a busy week for GenAI, the tech industry is weighing the impact of the latest interloper on the LLM scene. China&#39;s DeepSeek shocked stock markets on Monday, slashing $600 billion off the value of erstwhile AI golden child Nvidia.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/deepseek_reaction/>
+
+---
+
+## Red-C
+
+date: 2025-01-30, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">Red-C</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p><strong>Reclaiming Bus-based Systems During Compromise (Red-C)</strong> seeks to explore algorithms to construct self-healing systems, by retrofitting firmware for individual components on a bus... &nbsp;| <a href="https://drupal.darpa.mil/research/programs/red-c-reclaiming">See Program&nbsp;</a></p></div>
+      
+
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-30T10:39:30-05:00" title="Thursday, January 30, 2025 - 10:39" class="datetime">Thu, 01/30/2025 - 10:39</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/opportunities/hr001125s0005>
+
+---
+
+## Even Windows 10 cannot escape the new Outlook
+
+date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+
+<h4>Microsoft fixes DAC woes and makes good on its New Outlook threat for Windows 10</h4> <p>There is mixed news for Windows users. Microsoft has released a patch it claims fixes the DAC problem. The bad news – for some users – is that the new Outlook for Windows app has reached Windows 10.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/30/outlook_arrives_on_windows_10/>
 
 ---
 
@@ -269,7 +762,27 @@ date: 2025-01-29, from: Darpa News
   <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
     
       
-            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Given the latest advances in artificial intelligence (AI), the technology has reached a level of maturity, prompting a growing desire for these technologies to be integrated into Department of Defense (DoD) systems.&nbsp;</p><p>AI may used to give battlefield advantage by helping improve the speed, quality, and accuracy of decision-making while enabling autonomy and assistive automation.&nbsp;</p><p>Due to the statistical nature of machine learning, prior work has focused primarily on ensuring the robustness of AI-enabled systems at inference time due to natural degradations in performance caused by data distribution shifts, for example, from a highly dynamic deployment environment.&nbsp;</p><p>However, as early as 2014, AI has been demonstrated as manipulable given adversary control of the input <a href="#1"><sup>[1]</sup></a>.1 Initial work has further confirmed the theoretical risks of data poisoning<a href="#2"><sup> [2]</sup></a>, physically constrained adversarial patches for evasion <a href="#3"><sup>[3]</sup></a>, and model stealing attacks <a href="#4"><sup>[4]</sup></a>.&nbsp;</p><p>These attacks are typically tested in simulated or physical environments with relatively pristine control compared to what might be expected on a battlefield.&nbsp;</p><p>Today, there is no known reported ecosystem that operationally assesses deployed military AI-enabled systems for adversarial vulnerabilities, so the “theoretical” adversarial AI attacks have not been practically demonstrated in operational settings.&nbsp;</p><p>Given this, the operational security risks of AI-enabled battlefield systems remain unknown.&nbsp;</p><p>As such, SABER will build an exemplar AI red team equipped with the necessary counter-AI techniques, tools and technical competency to operationally assess AI-enabled battlefield systems, while establishing a sustainable model for an evergreen operational AI red teaming process.&nbsp;</p><p>Our AI red team will be operationally assessing AIenabled autonomous ground and aerial systems that could be deployed within the next 1-3 years.&nbsp;</p><p>To assist the AI red team, the future solicitation will seek performers who can assist in surveying, evaluating, selecting, developing, and employing state-of-the-art physical (including manufacturing/materials), adversarial AI (including digital), cyber and electronic warfare techniques and tools, or other relevant vectors for enabling the operational assessment of AI-enabled system development and deployment pipelines <a href="#5"><sup>[5]</sup></a>.&nbsp;</p><p>Additionally, the forthcoming solicitation will seek a performer to serve as an integration lead, assisting in integrating the technologies into an interoperable operational AI red teaming toolkit to equip the AI red team and enable future AI red teams for the DoD and broader U.S. Government.&nbsp;</p><h4>Citations</h4><p id="1">1. <a href="https://arxiv.org/abs/1412.6572" target="_blank">https://arxiv.org/abs/1412.6572</a>&nbsp;</p><p id="2">2. <a href="https://arxiv.org/abs/1804.00792" target="_blank">https://arxiv.org/abs/1804.00792&nbsp;</a></p><p id="3">3. <a href="https://arxiv.org/pdf/2104.06728" target="_blank">https://arxiv.org/pdf/2104.06728</a>&nbsp;</p><p id="4">4. <a href="https://arxiv.org/abs/2411.10023" target="_blank">https://arxiv.org/abs/2411.10023&nbsp;</a></p><p id="5">5. <a href="https://sam.gov/opp/041e8bd594c1450dbec14a6ca580fbed/view" target="_blank">https://sam.gov/opp/041e8bd594c1450dbec14a6ca580fbed/view</a></p><p>&nbsp;</p><p>&nbsp;</p></div>
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Given the latest advances in artificial intelligence (AI), the technology has reached a level of maturity, prompting a growing desire for these technologies to be integrated into Department of Defense (DoD) systems.</p><p>AI may be used to give battlefield advantage by helping improve the speed, quality, and accuracy of decision-making while enabling autonomy and assistive automation. Due to the statistical nature of machine learning, prior work has focused primarily on ensuring the robustness of AI-enabled systems at inference time due to natural degradations in performance caused by data distribution shifts, for example, from a highly dynamic deployment environment.</p><p>However, as early as 2014, AI was demonstrated as manipulable. Initial work has further confirmed the theoretical risks of data poisoning, physically constrained adversarial patches for evasion, and model stealing attacks. These attacks are typically tested in simulated or physical environments with relatively pristine control compared to what might be expected on a battlefield.</p><!-- 
+<p>
+            However, as early as 2014, AI has been demonstrated as manipulable given adversary control of the input <a href="#1"><sup>[1]</sup></a>.1 Initial work has further confirmed the theoretical risks of data poisoning<a href="#2"><sup> [2]</sup></a>, physically constrained adversarial patches for evasion <a href="#3"><sup>[3]</sup></a>, and model stealing attacks <a href="#4"><sup>[4]</sup></a>.&nbsp;
+</p>
+--><p>These attacks are typically tested in simulated or physical environments with relatively pristine control compared to what might be expected on a battlefield.&nbsp;</p><p>Today, no known reported ecosystem operationally assesses deployed military AI-enabled systems for adversarial vulnerabilities, so the “theoretical” adversarial AI attacks have not been practically demonstrated in operational settings. As a result, the operational security risks of AI-enabled battlefield systems remain unknown.</p><p>Our AI red team will be operationally assessing AIenabled autonomous ground and aerial systems that could be deployed within the next 1-3 years.&nbsp;</p><p>Securing Artificial Intelligence for Battlefield Effective Robustness (SABER) seeks to build an exemplary AI red team equipped with the necessary counter-AI techniques, tools, and technical competency to operationally assess AI-enabled battlefield systems while establishing a sustainable model for an evergreen operational AI red teaming process.</p><p>&nbsp;</p><p><!-- --<h4>Citations
+</p>
+<p id="1">
+    1. <a href="https://arxiv.org/abs/1412.6572" target="_blank">https://arxiv.org/abs/1412.6572</a>&nbsp;
+</p>
+<p id="2">
+    2. <a href="https://arxiv.org/abs/1804.00792" target="_blank">https://arxiv.org/abs/1804.00792&nbsp;</a>
+</p>
+<p id="3">
+    3. <a href="https://arxiv.org/pdf/2104.06728" target="_blank">https://arxiv.org/pdf/2104.06728</a>&nbsp;
+</p>
+<p id="4">
+    4. <a href="https://arxiv.org/abs/2411.10023" target="_blank">https://arxiv.org/abs/2411.10023&nbsp;</a>
+</p>
+<p id="5">
+    5. <a href="https://sam.gov/opp/041e8bd594c1450dbec14a6ca580fbed/view" target="_blank">https://sam.gov/opp/041e8bd594c1450dbec14a6ca580fbed/view</a>
+</p> -->&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></div>
       
 
       </div>
@@ -391,7 +904,7 @@ OpenAI says it has found evidence that Chinese artificial intelligence start-up 
 
 ## White House asks millions of govt workers if they would be so kind as to fork right off
 
-date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+date: 2025-01-29, updated: 2025-01-30, from: The Register (UK I.T. News)
 
 <h4>Unions fear federal staff purge and RTO will spark chaos for Americans</h4> <p>More than two million US federal civilian employees have been invited to resign as of September 30, 2025, with incentives promised for those who agree to quit by February 6, 2025.…</p> 
 
@@ -499,7 +1012,7 @@ Three of the coins are particularly rare: They portray Eugenius, an illegitimate
 
 ## Tiny Linux kernel tweak could cut datacenter power use by 30%, boffins say
 
-date: 2025-01-29, updated: 2025-01-29, from: The Register (UK I.T. News)
+date: 2025-01-29, updated: 2025-01-30, from: The Register (UK I.T. News)
 
 <h4>Not bad for 30 lines of code</h4> <p>Hardware keeps getting faster, but it&#39;s still worth taking a step back periodically and revisiting your code. You might just uncover a little tweak that wrings out more efficiency or extra throughput than you&#39;d expect.…</p> 
 

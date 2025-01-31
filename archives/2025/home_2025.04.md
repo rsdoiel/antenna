@@ -1,11 +1,179 @@
 ---
 title: home
-updated: 2025-01-30 07:04:49
+updated: 2025-01-31 07:05:24
 ---
 
 # home
 
-(date: 2025-01-30 07:04:49)
+(date: 2025-01-31 07:05:24)
+
+---
+
+## 25 Wow-Worthy Valentine’s Day Gifts from the West
+
+date: 2025-01-31, from: Sunset Magazine - Living in the West
+
+From heart-shaped cooking pots to vegan massage candles, your valentine is sure to love these gift ideas from brands based in the West. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/valentines-day-gift-idea>
+
+---
+
+## California Citrus Is the Star at Orange Works Café
+
+date: 2025-01-30, from: California Grown
+
+<p>Orange Works Café is definitely off the beaten path, but people from all over the state flock to the small town of Strathmore to taste their famous orange ice cream.&#160; The tiny town of Strathmore, population 3000, is located at the edge of citrus country, where the Central Valley blends into the Sierra Nevada foothills. [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/orange-works-cafe/" data-wpel-link="internal" target="_self">California Citrus Is the Star at Orange Works Café</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/orange-works-cafe/>
+
+---
+
+## These Twinning Cabins in Poland Have Their Own Personalities
+
+date: 2025-01-30, from: Dwell
+
+Both have knickknacky furnishings and a deck with a hot tub, but flooring in terra-cotta and marble set them apart. 
+
+<br> 
+
+<https://www.dwell.com/article/plener-istebna-mistovia-twin-cabins-country-retreat-d8981724>
+
+---
+
+## When Disaster Called, L.A.’s Realtor-Influencers Were Ready
+
+date: 2025-01-30, from: Dwell
+
+Armed with industry knowledge and online followings, brokers are helping those displaced by the wildfires. For some, it’s meant confronting "the market knows best." 
+
+<br> 
+
+<https://www.dwell.com/article/los-angeles-celebrity-real-estate-agents-influencers-wildfire-relief-780f250a-7b061280>
+
+---
+
+## Honda Issues Massive Recall Over Dangerous Software Glitch
+
+date: 2025-01-30, from: Family Handyman Blog
+
+<p>Hundreds of thousands of Hondas have been recalled due to faulty FI-EUC software that renders the vehicles dangerous. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/honda-ecu-recall/">Honda Issues Massive Recall Over Dangerous Software Glitch</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/honda-ecu-recall/>
+
+---
+
+## This 1,000-Square-Foot Maui Cottage Is the Hawaiian Ranch Getaway of Our Dreams
+
+date: 2025-01-30, from: Sunset Magazine - Living in the West
+
+In this tour, a family spreads their wings from their base on Maui, a 1,000-square-foot slice of paradise designed for their unique needs. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/handicap-accessible-maui-cottage>
+
+---
+
+## When Exactly Do You Need To Use Your Parking Brake?
+
+date: 2025-01-30, from: Family Handyman Blog
+
+<p>With over 50 years experience as an ASE and General Motors master technician, automotive technology instructor and driving since before I legally had a...</p>
+<p>The post <a href="https://www.familyhandyman.com/article/when-to-use-parking-brake/">When Exactly Do You Need To Use Your Parking Brake?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/when-to-use-parking-brake/>
+
+---
+
+## Make Your Own Windshield Wiper Fluid in Minutes
+
+date: 2025-01-30, from: Family Handyman Blog
+
+<p>Driving for over 50 years, plus being involved in the auto repair industry as an ASE and General Motors Master Technician and vocational automotive...</p>
+<p>The post <a href="https://www.familyhandyman.com/article/windshield-wiper-fluid-diy/">Make Your Own Windshield Wiper Fluid in Minutes</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/windshield-wiper-fluid-diy/>
+
+---
+
+## This $649K Denver Apartment Is Set Inside a Local Landmark
+
+date: 2025-01-30, from: Dwell
+
+The refreshed flat is located at the Perrenoud, a 1901 building with an original stained-glass atrium, onyx fireplace, and the city’s only operating birdcage elevator. 
+
+<br> 
+
+<https://www.dwell.com/article/the-perrenoud-renovated-apartment-denver-colorado-real-estate-c99098e9>
+
+---
+
+## 25 of the Best Chinese Cabbage Cultivars to Grow at Home
+
+date: 2025-01-30, from: The Gardener's Path
+
+<p>If you love sweet, mildly flavored leaves that can be cooked or eaten raw, then you probably love Chinese cabbage. There are many different types that you can pick from. Napa cabbage, pak choi, and tatsoi make up the Chinese cabbage group. Discover 25 of the best cultivars to grow at home in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/best-chinese-cabbage-varieties/">25 of the Best Chinese Cabbage Cultivars to Grow at Home</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/best-chinese-cabbage-varieties/>
+
+---
+
+## What to Do When Your Home Insurance Company Cancels Your Policy
+
+date: 2025-01-30, from: Family Handyman Blog
+
+<p>Discover reasons why your home insurance can be cancelled, and what to do about it.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/dropped-by-home-insurance/">What to Do When Your Home Insurance Company Cancels Your Policy</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/dropped-by-home-insurance/>
+
+---
+
+## The 2025 Flower of the Year Is Set to Overtake the Peony in Popularity
+
+date: 2025-01-30, from: Sunset Magazine - Living in the West
+
+Step aside, peonies—2025 belongs to ranunculus, crowned as the Flower of the Year by 1-800-Flowers. Here's how to grow them. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/2025-flower-of-the-year>
+
+---
+
+## The 2025 Plant of the Year Is a Low Maintenance Houseplant Everyone Needs to Own
+
+date: 2025-01-30, from: Sunset Magazine - Living in the West
+
+Every year 1-800-Flowers announces both a flower and plant of the year, and this year's plant is an easy-to-care-for houseplant. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/2025-plant-of-the-year-snake-plant>
 
 ---
 
@@ -140,6 +308,18 @@ The Sunset Wine Club features the best bottles in the West, perfectly paired wit
 <br> 
 
 <https://www.sunset.com/food-wine/kitchen-assistant/wine-club-pairings-wellness-issue-2025>
+
+---
+
+## The Most Popular House Style of the Moment Is Not What You’d Think
+
+date: 2025-01-29, from: Sunset Magazine - Living in the West
+
+Zillow revealed the most popular (and unusual) home searches back in December, which included the most-searched-for home attributes. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/most-popular-style-of-house>
 
 ---
 
@@ -282,6 +462,18 @@ date: 2025-01-29, from: Dwell
 <br> 
 
 <https://www.dwell.com/article/how-they-pulled-it-off-an-18th-century-inspired-farm-fence-that-keeps-sheep-and-their-people-happy-04dd5924>
+
+---
+
+## How They Pulled It Off: An 18th-Century-Inspired Farm Fence That Keeps Sheep and Their People Happy
+
+date: 2025-01-29, from: Dwell
+
+"It’s about living with the seasons and the land while creating a space that works for everyone." 
+
+<br> 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-an-18th-century-inspired-farm-fence-that-keeps-sheep-and-their-people-happy-631da719>
 
 ---
 

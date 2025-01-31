@@ -1,11 +1,106 @@
 ---
 title: writing
-updated: 2025-01-30 07:04:47
+updated: 2025-01-31 07:05:23
 ---
 
 # writing
 
-(date: 2025-01-30 07:04:47)
+(date: 2025-01-31 07:05:23)
+
+---
+
+## 2025 Inside Literary Prize Shortlist
+
+date: 2025-01-30, from: Locus Magazine
+
+<p>The shortlist has been announced for the second annual Inside Literary Prize. Among the four titles selected is dystopian novel <strong>Chain Gang All Stars</strong> by Nana Kwame Adjei-Brenyah (Vintage).</p>
+<p>The <strong>Inside Literary Prize</strong> is &#8220;the first-ever US-based literary prize awarded exclusively by currently incarcerated people,&#8221; and the four shortlisted titles were selected by a committee of incarcerated readers, writers, and librarians from Departments of Corrections. Selections were made from books  <a href="https://locusmag.com/2025/01/2025-inside-literary-prize-shortlist/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/2025-inside-literary-prize-shortlist/>
+
+---
+
+## Writing Motivation: Tips From Pro Screenwriters
+
+date: 2025-01-30, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/writing-motivation-tips-from-pro-screenwriters" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Image%20of%20a%20black%20keyboard%2c%20with%20a%20note%20sticking%20up%20that%20says%20Helpful%20Tips.png" alt="Image of a black keyboard, with a note sticking up that says 'Helpful Tips'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>The entertainment industry can be a challenging environment. The ever-changing nature of the business and market trends can make it tough to stay motivated when writing your screenplay. How can you keep that scriptwriting energy going when it feels like the odds are piling against you and your pursuits as a writer?&nbsp;<br><br>Here are nine tips on how several professional film and television writers keep themselves motivated and energized through the ups and downs in the film and television business.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/writing-motivation-tips-from-pro-screenwriters>
+
+---
+
+## The Book of Gold by Ruth Frances Long: Review by Liz Bourke
+
+date: 2025-01-30, from: Locus Magazine
+
+<p><strong>The Book of Gold</strong>, Ruth Frances Long (Hod­derscape 978-1-399-73157-7, £15.99, 340pp, tp) November 2024.</p>
+<p>Irish writer Ruth Frances Long has been publishing quite prolifically in recent years, though primarily YA and romantic fantasy under her <strong>BOURKE</strong></p>
+<p>pen-name Jessica Thorne. <strong>The Book of Gold </strong>is a historically inspired fantasy caper set in a version of Renaissance Europe that is strikingly different from our own. Magic and hidden gods lurk in  <a href="https://locusmag.com/2025/01/the-book-of-gold-by-ruth-frances-long-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/the-book-of-gold-by-ruth-frances-long-review-by-liz-bourke/>
+
+---
+
+## Department of Education Dismisses Idea of “Book Bans,” Community Responds
+
+date: 2025-01-30, from: Locus Magazine
+
+<p>Signaling a change in policy under the Trump administration, the Department of Education announced sweeping changes to its policies regarding school libraries and local book removals, likely to impact genre books and young readership.</p>
+<p>The DOE&#8217;s Office for Civil Rights has dismissed 11 complaints &#8220;related to so-called &#8216;book bans'&#8221; and has rescinded guidance for navigating book removal in the context of civil rights laws. Additionally, the Office for Civil Rights  <a href="https://locusmag.com/2025/01/department-of-education-dismisses-idea-of-book-bans-community-responds/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/department-of-education-dismisses-idea-of-book-bans-community-responds/>
+
+---
+
+## Science Fiction Book Club To Close for Orders February 1, 2025
+
+date: 2025-01-30, from: Locus Magazine
+
+<p>The seventy-year-old Science Fiction Book Club, originally launched by Doubleday in 1953, has announced on its website that it will close for orders as of February, 1, 2025. The Club thanked customers for their longstanding loyalty and gave a hard date for the end of its services.</p>
+<p style="padding-left: 40px;">We very much appreciate your many years of loyalty, patronage, and support. After 2/1/2025, orders will no longer be processed at SFBC.com.</p>
+<p>After  <a href="https://locusmag.com/2025/01/science-fiction-book-club-to-close-for-orders-february-1-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/science-fiction-book-club-to-close-for-orders-february-1-2025/>
+
+---
+
+## New Science Fiction Writing Contest from Emirates Literature Foundation
+
+date: 2025-01-30, from: Locus Magazine
+
+<p>A new writing contest has been announced today by the Emirates Literature Foundation, in collaboration with the Mohammed Bin Rashid Space Centre in Dubai.</p>
+<p><strong>The MBRSC Short Story Award: New Voices in Sci-Fi</strong> will award science fiction short stories by writers from the United Arab Emirates. The contest is open to writers ages 16–30; submissions may be in English or Arabic and between 1,500–5,000 words. The deadline is <strong>16 November </strong> <a href="https://locusmag.com/2025/01/new-science-fiction-writing-contest-from-emirates-literature-foundation/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/new-science-fiction-writing-contest-from-emirates-literature-foundation/>
+
+---
+
+## khōréo: Short Fiction Reviews by A.C. Wise
+
+date: 2025-01-30, from: Locus Magazine
+
+<p>khōréo 4.2</p>
+<p><strong>Madeleine Vigneron</strong>’s “<strong>Human Trials</strong>” in khōréo 4.2 is a painful story full of lovely imagery about holding on to hope in a hopeless situation. The last ships have left Earth, and a plague ravages the abandoned population left behind. Rowan is part of a team of three scientists trying to remove mass from living things so they can travel at the speed of light and  <a href="https://locusmag.com/2025/01/khoreo-short-fiction-reviews-by-a-c-wise-2/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/01/khoreo-short-fiction-reviews-by-a-c-wise-2/>
 
 ---
 

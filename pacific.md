@@ -1,15 +1,563 @@
 ---
 title: pacific
-updated: 2025-01-30 07:04:46
+updated: 2025-01-31 07:05:21
 ---
 
 # pacific
 
-(date: 2025-01-30 07:04:46)
+(date: 2025-01-31 07:05:21)
 
 ---
 
-## 23-year-old solid waste case not yet over; feds seek $3.9M payment from, Guam for Ordot cleanup
+## Midair collision leaves 67 dead; worst US crash in two decades
+
+date: 2025-01-31, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; On a clear night at Reagan National Airport, an air traffic controller radioed a warning to an Army Black Hawk helicopter traveling south along the Potomac River.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/31/nation-world-news/midair-collision-leaves-67-dead-worst-us-crash-in-two-decades/>
+
+---
+
+## Bills would ban use of cellphones in schools
+
+date: 2025-01-31, from: Hawaii Tribune Harold
+
+
+				<p>Keiki may be prohibited by law to use their cellphones at school under a series of bills being discussed in the state Legislature.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/31/hawaii-news/bills-would-ban-use-of-cellphones-in-schools/>
+
+---
+
+## Gabbard’s hearing turns tense over Snowden questions
+
+date: 2025-01-31, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Senators of both parties sharply questioned Tulsi Gabbard, President Donald Trump&#8217;s pick to be director of national intelligence, during a tense and at times combative hearing Thursday that could signal a challenging confirmation fight.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/31/nation-world-news/gabbards-hearing-turns-tense-over-snowden-questions/>
+
+---
+
+## Hilo judge: Second-degree murder case can proceed
+
+date: 2025-01-31, from: Hawaii Tribune Harold
+
+
+				<p>Hilo Circuit Judge Peter Kubota on Thursday denied a motion by a murder defendant to dismiss the indictment that charged the 31-year-old Hilo man with fatally strangling his 24-year-old girlfriend in 2019.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/31/hawaii-news/hilo-judge-second-degree-murder-case-can-proceed/>
+
+---
+
+## Trump kicks Congress to the curb, with little protest from Republicans
+
+date: 2025-01-31, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Congress passed a law shutting down TikTok, and President Donald Trump flouted it. Congress required advance notification for removing inspectors general, and the Trump administration fired them on the spot. Congress approved trillions of dollars in spending, and Trump ordered it frozen unless the federal programs receiving it passed his ideological litmus tests.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/31/nation-world-news/trump-kicks-congress-to-the-curb-with-little-protest-from-republicans/>
+
+---
+
+## Millions of Hindus take ‘holy dip’ a day after fatal stampede
+
+date: 2025-01-31, from: Hawaii Tribune Harold
+
+
+				<p>PRAYAGRAJ, India &#8212; Millions of devout Hindus thronged the northern Indian city of Prayagraj on Thursday for the Maha Kumbh festival, a day after dozens died in a stampede at the largest gathering of humanity in the world.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/31/nation-world-news/millions-of-hindus-take-holy-dip-a-day-after-fatal-stampede/>
+
+---
+
+## After fires, Los Angeles gets moonshot moment to rebuild
+
+date: 2025-01-31, from: Hawaii Tribune Harold
+
+
+				<p>As Los Angeles recovers from its devastating wildfires, environmental engineers, urban planners and natural disaster experts are casting forward with visions of what could come next for neighborhoods that have been reduced to ash and rubble. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/31/nation-world-news/after-fires-los-angeles-gets-moonshot-moment-to-rebuild/>
+
+---
+
+## Trump order pushes universities to ‘monitor’ protesters on student visas
+
+date: 2025-01-31, from: Hawaii Tribune Harold
+
+
+				<p>Universities have set up task forces, tightened discipline policies and used surveillance cameras to track protesters&#8217; movements. They have hired private investigators to examine cases of anti-Israel speech and activism.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/31/nation-world-news/trump-order-pushes-universities-to-monitor-protesters-on-student-visas/>
+
+---
+
+## Trump’s FBI pick distances himself from his own words
+
+date: 2025-01-31, from: Hawaii Tribune Harold
+
+
+				<p>Kash Patel tried to allay concerns about his fitness to serve as FBI director at his Senate confirmation hearing Thursday by suggesting that he disagreed with President Donald Trump&#8217;s grants of clemency for violent Jan. 6 rioters and seeking to distance himself from his own heated attacks on the bureau.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/31/nation-world-news/trumps-fbi-pick-distances-himself-from-his-own-words/>
+
+---
+
+## UN chief demands evacuation of 2,500 Gaza children at ‘imminent risk’ of death
+
+date: 2025-01-31, from: Hawaii Tribune Harold
+
+
+				<p>UNITED NATIONS &#8212; United Nations Secretary-General Antonio Guterres on Thursday demanded that 2,500 children be immediately evacuated from Gaza for medical treatment after meeting with U.S. doctors who said the children were at imminent risk of death in the coming weeks. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/31/nation-world-news/un-chief-demands-evacuation-of-2500-gaza-children-at-imminent-risk-of-death/>
+
+---
+
+## News in brief for January 31
+
+date: 2025-01-31, from: Hawaii Tribune Harold
+
+
+				<p>US judge blocks transgender inmate&#8217;s prison transfer &#0010;under Trump order</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/31/nation-world-news/news-in-brief-for-january-31/>
+
+---
+
+## Companies race to ship goods to the US ahead of potential tariffs
+
+date: 2025-01-31, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK/LONDON &#8212; In recent months, plenty of business executives have said they were taking a wait-and-see approach to U.S. President Donald Trump&#8217;s broad threats of tariffs. Early holiday-quarter earnings reports show many of them were not. Automakers like General Motors and Mercedes, French cognac makers, and Italian producers of parmesan cheese and sparkling wine have all expedited deliveries to the United States. Commodities buyers meanwhile stepped up purchases of steel, aluminium, and soybeans.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/31/nation-world-news/companies-race-to-ship-goods-to-the-us-ahead-of-potential-tariffs/>
+
+---
+
+## Comatose and washed up, 1,000 endangered sea turtles are rescued in Florida
+
+date: 2025-01-31, from: Hawaii Tribune Harold
+
+
+				<p>Their flippers were paralyzed, they couldn&#8217;t come up for air, and their heartbeats were barely perceptible. But most of these 1,200 sea turtles were lucky. The wind and currents had carried their motionless bodies ashore, where, at least, they could be found.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/31/features/comatose-and-washed-up-1000-endangered-sea-turtles-are-rescued-in-florida/>
+
+---
+
+## Temperatures run high as senators hammer Kennedy on vaccines
+
+date: 2025-01-31, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Robert F. Kennedy Jr. battled his way through his second Senate confirmation hearing, defending his views on vaccination during a raucous three-hour session Thursday that featured shouting matches, angry accusations and a senator in tears, and also exposed the deep misgivings of a key Republican who could hold Kennedy&#8217;s future in his hands.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/31/nation-world-news/temperatures-run-high-as-senators-hammer-kennedy-on-vaccines/>
+
+---
+
+## CNMI governor says federal memo on funding freeze a 'wake-up call' for states and territories
+
+date: 2025-01-31, from: Pacific Island Times
+
+Palacios said he was concerned about critical programs such as Medicaid and food stamp. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cnmi-governor-says-federal-memo-on-funding-freeze-a-wake-up-call-for-states-and-territories>
+
+---
+
+## Whipps urges Swift confirmation of Ambassadors as U.S. policies shift
+
+date: 2025-01-31, from: Island Times
+
+<figure><img width="1024" height="984" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Former-MPII-Minister-Charles-Obichang.jpg?fit=1024%2C984&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Former-MPII-Minister-Charles-Obichang.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Former-MPII-Minister-Charles-Obichang.jpg?resize=300%2C288&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Former-MPII-Minister-Charles-Obichang.jpg?resize=1024%2C984&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Former-MPII-Minister-Charles-Obichang.jpg?resize=768%2C738&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Former-MPII-Minister-Charles-Obichang.jpg?resize=1200%2C1153&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Former-MPII-Minister-Charles-Obichang.jpg?resize=400%2C384&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Former-MPII-Minister-Charles-Obichang.jpg?resize=706%2C678&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Former-MPII-Minister-Charles-Obichang.jpg?fit=1024%2C984&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75348" data-permalink="https://islandtimes.org/whipps-urges-swift-confirmation-of-ambassadors-as-u-s-policies-shift/former-mpii-minister-charles-obichang/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Former-MPII-Minister-Charles-Obichang.jpg?fit=1249%2C1200&amp;ssl=1" data-orig-size="1249,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Former MPII Minister Charles Obichang" data-image-description="" data-image-caption="&lt;p&gt;SENATE CONDUCTS CONFIRMATION HEARINGS OF MINISTERS AND AMBASSADORS THIS WEEK.  Former minister of MPII Charles Obichang faced the Senate yesterday at his conﬁ rmation hearing.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Former-MPII-Minister-Charles-Obichang.jpg?fit=300%2C288&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Former-MPII-Minister-Charles-Obichang.jpg?fit=780%2C750&amp;ssl=1" /></figure>
+<p>KOROR, Palau — President Surangel Whipps Jr. is calling for the urgent confirmation of his appointed ambassadors and ministers, particularly Ambassador Hersey Kyota, as the new U.S. administration’s policies begin affecting critical programs in Palau. Since taking office this month, U.S. President Donald Trump has issued directives that have halted U.S. aid for 90 days, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-urges-swift-confirmation-of-ambassadors-as-u-s-policies-shift/">Whipps urges Swift confirmation of Ambassadors as U.S. policies shift</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/whipps-urges-swift-confirmation-of-ambassadors-as-u-s-policies-shift/>
+
+---
+
+## OEK blocks Water and Wastewater Rate hikes set for Feb. 1
+
+date: 2025-01-31, from: Island Times
+
+<figure><img width="1024" height="561" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Busted-waterline-at-KB-Bridge.jpg?fit=1024%2C561&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Busted-waterline-at-KB-Bridge.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Busted-waterline-at-KB-Bridge.jpg?resize=300%2C164&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Busted-waterline-at-KB-Bridge.jpg?resize=1024%2C561&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Busted-waterline-at-KB-Bridge.jpg?resize=768%2C421&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Busted-waterline-at-KB-Bridge.jpg?resize=1200%2C657&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Busted-waterline-at-KB-Bridge.jpg?resize=400%2C219&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Busted-waterline-at-KB-Bridge.jpg?resize=706%2C387&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Busted-waterline-at-KB-Bridge.jpg?fit=1024%2C561&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75344" data-permalink="https://islandtimes.org/oek-blocks-water-and-wastewater-rate-hikes-set-for-feb-1/busted-waterline-at-kb-bridge/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Busted-waterline-at-KB-Bridge.jpg?fit=1249%2C684&amp;ssl=1" data-orig-size="1249,684" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Busted waterline at KB Bridge" data-image-description="" data-image-caption="&lt;p&gt;Busted waterline at KB Bridge &lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Busted-waterline-at-KB-Bridge.jpg?fit=300%2C164&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Busted-waterline-at-KB-Bridge.jpg?fit=780%2C427&amp;ssl=1" /></figure>
+<p>KOROR, Palau — The Olbiil Era Kelulau (OEK) has vetoed a sharp increase in water and wastewater rates set to take effect on Feb. 1, 2025, citing concerns over affordability and economic impact. The new rates, approved by the Palau Energy and Water Administration (PEWA) and implemented by the Palau Public Utilities Corporation (PPUC), would [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/oek-blocks-water-and-wastewater-rate-hikes-set-for-feb-1/">OEK blocks Water and Wastewater Rate hikes set for Feb. 1</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/oek-blocks-water-and-wastewater-rate-hikes-set-for-feb-1/>
+
+---
+
+## Palauans in U.S. must exit, reenter to update I—94 after passport renewal
+
+date: 2025-01-31, from: Island Times
+
+<p>WASHINGTON, D.C. – Palauan citizens in the United States who renew their passports by mail must exit and reenter the country to update their travel records, according to a public advisory issued by Palau Ambassador Hersey Kyota. The advisory states that individuals receiving a new passport by mail must leave the U.S. and return to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauans-in-u-s-must-exit-reenter-to-update-i-94-after-passport-renewal/">Palauans in U.S. must exit, reenter to update I—94 after passport renewal</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palauans-in-u-s-must-exit-reenter-to-update-i-94-after-passport-renewal/>
+
+---
+
+## Palau’s Battle Against Cancer:
+
+date: 2025-01-31, from: Island Times
+
+<figure><img width="1024" height="671" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Signing-of-Cancer-Awareness-Month-proclamation-e1738284475421.jpg?fit=1024%2C671&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Signing-of-Cancer-Awareness-Month-proclamation-e1738284475421.jpg?w=1865&amp;ssl=1 1865w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Signing-of-Cancer-Awareness-Month-proclamation-e1738284475421.jpg?resize=300%2C197&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Signing-of-Cancer-Awareness-Month-proclamation-e1738284475421.jpg?resize=1024%2C671&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Signing-of-Cancer-Awareness-Month-proclamation-e1738284475421.jpg?resize=768%2C503&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Signing-of-Cancer-Awareness-Month-proclamation-e1738284475421.jpg?resize=1536%2C1006&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Signing-of-Cancer-Awareness-Month-proclamation-e1738284475421.jpg?resize=1200%2C786&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Signing-of-Cancer-Awareness-Month-proclamation-e1738284475421.jpg?resize=1568%2C1027&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Signing-of-Cancer-Awareness-Month-proclamation-e1738284475421.jpg?resize=400%2C262&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Signing-of-Cancer-Awareness-Month-proclamation-e1738284475421.jpg?resize=706%2C463&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Signing-of-Cancer-Awareness-Month-proclamation-e1738284475421.jpg?fit=1024%2C671&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75339" data-permalink="https://islandtimes.org/palaus-battle-against-cancer/signing-of-cancer-awareness-month-proclamation/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Signing-of-Cancer-Awareness-Month-proclamation-e1738284475421.jpg?fit=1865%2C1222&amp;ssl=1" data-orig-size="1865,1222" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1738147009&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;500&quot;,&quot;shutter_speed&quot;:&quot;0.0083&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Signing of Cancer Awareness Month proclamation" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Signing-of-Cancer-Awareness-Month-proclamation-e1738284475421.jpg?fit=300%2C197&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/Signing-of-Cancer-Awareness-Month-proclamation-e1738284475421.jpg?fit=780%2C511&amp;ssl=1" /></figure>
+<p>Awareness, Prevention and Action Cancer is more than a medical diagnosis—it is a deeply personal battle affecting individuals, families, and the nation as a whole. Behind every cancer diagnosis lies a unique story of pain, healing, grief, resilience, and love. In the Republic of Palau, cancer remains one of the top three leading causes of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-battle-against-cancer/">Palau’s Battle Against Cancer:</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palaus-battle-against-cancer/>
+
+---
+
+## Palau government responds to December lost divers incident
+
+date: 2025-01-31, from: Island Times
+
+<p>KOROR, Palau — The Bureau of Tourism, under the Ministry of Human Resources, Culture, Tourism &#38; Industry, has issued a report on the December 26, 2024, incident in which nine divers—eight tourists and one dive guide—were lost at sea for more than 24 hours after diving at Peleliu Corner. Released on Jan. 27, the report [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-government-responds-to-december-lost-divers-incident/">Palau government responds to December lost divers incident</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-government-responds-to-december-lost-divers-incident/>
+
+---
+
+## Palau proposes $1.4M social assistance for retirees, disabled
+
+date: 2025-01-31, from: Island Times
+
+<p>KOROR, Palau — President Surangel Whipps Jr. has submitted a bill to the Olbiil Era Kelulau (OEK) to appropriate $1.4 million in social assistance funds for retirees and disabled citizens. The funding was authorized under the Fiscal Year 2025 budget law, RPPL 11-37, but was not allocated. If enacted, the bill would provide a one-time [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-proposes-1-4m-social-assistance-for-retirees-disabled/">Palau proposes $1.4M social assistance for retirees, disabled</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-proposes-1-4m-social-assistance-for-retirees-disabled/>
+
+---
+
+## 9th Ministry Proposed:
+
+date: 2025-01-31, from: Island Times
+
+<p>The Ministry of Interior KOROR, Palau — The Olbiil Era Kelulau is entertaining a bill establishing the Ministry of Interior, increasing the number of ministries from eight to nine. The proposed entity will oversee land surveys, public records, emergency management, meteorological services, and cultural preservation, among other responsibilities. The reorganization, outlined in amendments to Title [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/9th-ministry-proposed/">9th Ministry Proposed:</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/9th-ministry-proposed/>
+
+---
+
+## Controlling personality
+
+date: 2025-01-31, from: Island Times
+
+<figure><img width="600" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/07/WOMEN.jpg?fit=600%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/07/WOMEN.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/07/WOMEN.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/07/WOMEN.jpg?resize=400%2C378&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/07/WOMEN.jpg?fit=600%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="56366" data-permalink="https://islandtimes.org/its-not-about-you/women-3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/07/WOMEN.jpg?fit=600%2C567&amp;ssl=1" data-orig-size="600,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WOMEN" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/07/WOMEN.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/07/WOMEN.jpg?fit=600%2C567&amp;ssl=1" /></figure>
+<p>My 16 year old called me on the phone and complained about my ŕules and that I was being unfair. She told me she&#8217;ll take her life. &#8220;Akmo kobsak.&#8221;&#160; I told to go ahead. We&#8217;ll roast a pig and have a funeral for her and I&#8217;ll bury her under the house. When I got home [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/controlling-personality/">Controlling personality</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/controlling-personality/>
+
+---
+
+## O’Dear C. Yobech secures Legislature seat in the Airai State Special wlection
+
+date: 2025-01-31, from: Island Times
+
+<figure><img width="1024" height="1016" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?fit=1024%2C1016&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?w=2286&amp;ssl=1 2286w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?resize=300%2C298&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?resize=1024%2C1016&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?resize=768%2C762&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?resize=1536%2C1524&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?resize=2048%2C2032&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?resize=1200%2C1191&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?resize=1568%2C1556&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?resize=2000%2C1984&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?resize=400%2C397&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?resize=706%2C700&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?fit=1024%2C1016&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75320" data-permalink="https://islandtimes.org/odear-c-yobech-secures-legislature-seat-in-the-airai-state-special-wlection/fb_img_1738241723390/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?fit=2286%2C2268&amp;ssl=1" data-orig-size="2286,2268" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="FB_IMG_1738241723390" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?fit=300%2C298&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/FB_IMG_1738241723390.jpg?fit=780%2C774&amp;ssl=1" /></figure>
+<p>KOROR, Palau – O’Dear C. Yobech has secured a decisive victory in the Airai State Special Election for the Legislature At-Large seat, according to unofficial results released on January 28, 2025 Yobech received 209 votes, significantly outpacing write-in candidates, whose combined total amounted to just 15 votes. The leading write-in candidate, Solomon Marino, received four [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/odear-c-yobech-secures-legislature-seat-in-the-airai-state-special-wlection/">O’Dear C. Yobech secures Legislature seat in the Airai State Special wlection</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/odear-c-yobech-secures-legislature-seat-in-the-airai-state-special-wlection/>
+
+---
+
+## Swearing-in ceremony of new Legislator at-Large,   Hesus, of the 18th Kayangel State Legislature
+
+date: 2025-01-31, from: Island Times
+
+<figure><img width="1024" height="695" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/BDAPR25-003-a.jpg?fit=1024%2C695&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/BDAPR25-003-a.jpg?w=1890&amp;ssl=1 1890w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/BDAPR25-003-a.jpg?resize=300%2C203&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/BDAPR25-003-a.jpg?resize=1024%2C695&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/BDAPR25-003-a.jpg?resize=768%2C521&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/BDAPR25-003-a.jpg?resize=1536%2C1042&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/BDAPR25-003-a.jpg?resize=1200%2C814&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/BDAPR25-003-a.jpg?resize=1568%2C1064&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/BDAPR25-003-a.jpg?resize=400%2C271&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/BDAPR25-003-a.jpg?resize=706%2C479&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/BDAPR25-003-a.jpg?fit=1024%2C695&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75316" data-permalink="https://islandtimes.org/swearing-in-ceremony-of-new-legislator-at-large-hesus-of-the-18th-kayangel-state-legislature/bdapr25-003-a/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/BDAPR25-003-a.jpg?fit=1890%2C1282&amp;ssl=1" data-orig-size="1890,1282" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;User&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="BDAPR25-003-a" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/BDAPR25-003-a.jpg?fit=300%2C203&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/01/BDAPR25-003-a.jpg?fit=780%2C529&amp;ssl=1" /></figure>
+<p>The Bureau of Domestic Affairs, Ministry of State is mandated by 6 PNC and by Executive Order No. 452 to post and publish laws and regulations for public viewing, and to raise public awareness through dissemination of all government activities and issues through various media outlets. Ngerulmud, Melekeok – On January 24, 2025, Mr. Hadley [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/swearing-in-ceremony-of-new-legislator-at-large-hesus-of-the-18th-kayangel-state-legislature/">Swearing-in ceremony of new Legislator at-Large,   Hesus, of the 18th Kayangel State Legislature</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/swearing-in-ceremony-of-new-legislator-at-large-hesus-of-the-18th-kayangel-state-legislature/>
+
+---
+
+## Rescue of elderly man trapped inside Japanese sinkhole enters third night
+
+date: 2025-01-31, from: Island Times
+
+<p>In short:&#160; (ABC-Australia) Authorities are racing to rescue a 75-year-old man stuck in truck in a sinkhole in Japan. Initially 10-meters wide and five-meters deep, the sinkhole has doubled in size. The incident has sparked a renewed debate about Japan&#8217;s aging infrastructure. The operation to rescue an elderly man believed to be stuck in the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/rescue-of-elderly-man-trapped-inside-japanese-sinkhole-enters-third-night/">Rescue of elderly man trapped inside Japanese sinkhole enters third night</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/rescue-of-elderly-man-trapped-inside-japanese-sinkhole-enters-third-night/>
+
+---
+
+## 2024 the warmest year on record in the Western Pacific
+
+date: 2025-01-31, from: Island Times
+
+<p>SUVA (SPC) &#8212; The World Meteorological Organisation declared 2024 the warmest year on record, with global temperature exceeding 1.5°C above the pre-industrial average. Regionally, the Australian Bureau of Meteorology, as part of the Australian and New Zealand-funded Climate and Ocean Support Programme in the Pacific (COSPPac,) analysed the Fifth Generation of European Centre for Medium-Range [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/2024-the-warmest-year-on-record-in-the-western-pacific/">2024 the warmest year on record in the Western Pacific</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/2024-the-warmest-year-on-record-in-the-western-pacific/>
+
+---
+
+## White House rescinds freeze on federal programmes
+
+date: 2025-01-31, from: Island Times
+
+<p>HAGATNA (PACIFIC ISLAND TIMES) &#8212; Gov. Lou Leon Guerrero welcomed the Trump administration&#8217;s recall of a memo imposing a freeze on federal grants and loans.  &#8220;This decision provides much-needed clarity and stability for Guam and other U.S territories that rely on federal funding for critical programmes and services,&#8221; the governor&#8217;s office said. Karoline Leavitt, the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/white-house-rescinds-freeze-on-federal-programmes/">White House rescinds freeze on federal programmes</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/white-house-rescinds-freeze-on-federal-programmes/>
+
+---
+
+## Trump’s strict foreign funding freeze sparks panic among international aid groups
+
+date: 2025-01-31, from: Island Times
+
+<p>WASHINGTON (ABC) &#8212; Internal communications reviewed by ABC News show that the Trump administration plans to strictly implement an executive order from the president mandating a 90-day freeze on almost all U.S foreign aid amid a review, a measure that already has sparked widespread concern among humanitarian organisations. &#8220;We get tired of giving massive amounts [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/trumps-strict-foreign-funding-freeze-sparks-panic-among-international-aid-groups/">Trump&#8217;s strict foreign funding freeze sparks panic among international aid groups</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/trumps-strict-foreign-funding-freeze-sparks-panic-among-international-aid-groups/>
+
+---
+
+## Majority of Greenlanders don’t want to be American: poll
+
+date: 2025-01-31, from: Island Times
+
+<p>Copenhagen, Denmark&#8211; The vast majority of Greenland residents do not want their island to become part of the United States as envisaged by President Donald Trump, according to a poll published Wednesday. Trump has signalled that he wants the Arctic island &#8212; which is believed to hold large untapped mineral and oil reserves &#8212; to become [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/majority-of-greenlanders-dont-want-to-be-american-poll/">Majority of Greenlanders don&#8217;t want to be American: poll</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/majority-of-greenlanders-dont-want-to-be-american-poll/>
+
+---
+
+## Who is Liang Wenfeng, the founder of AI company DeepSeek?
+
+date: 2025-01-31, from: Island Times
+
+<p>By Ahmed Yussuf (ABC-Australia) Liang Wenfeng, who has up-ended the artificial intelligence industry (AI), is a man of few words. The 40-year-old grew up in China&#8217;s southern province of Guangdong in an era when the province led the rest of China in adopting market capitalism in the 80s and 90s. Mr Liang is now one [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/who-is-liang-wenfeng-the-founder-of-ai-company-deepseek/">Who is Liang Wenfeng, the founder of AI company DeepSeek?</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/who-is-liang-wenfeng-the-founder-of-ai-company-deepseek/>
+
+---
+
+## POCCA Project Commences Site Re-Visits
+
+date: 2025-01-31, from: University of the South Pacific (Fiji)
+
+<p>The Pacific Ocean &#38; Climate Crisis Assessment (POCCA) project team from The University of the...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/pocca-project-commences-site-re-visits/">POCCA Project Commences Site Re-Visits</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/pocca-project-commences-site-re-visits/>
+
+---
+
+## Pacific media under the spotlight: USP Journalism leaders featured in global intercultural handbook
+
+date: 2025-01-31, from: University of the South Pacific (Fiji)
+
+<p>Papers by the current and former coordinators of The University of the South Pacific’s (USP)...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/pacific-media-under-the-spotlight-usp-journalism-leaders-featured-in-global-intercultural-handbook/">Pacific media under the spotlight: USP Journalism leaders featured in global intercultural handbook</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/pacific-media-under-the-spotlight-usp-journalism-leaders-featured-in-global-intercultural-handbook/>
+
+---
+
+## Student’s passion for science, ʻōlelo fuels path
+
+date: 2025-01-31, from: University of Hawaiʻi News
+
+<p>Cheyanne Kapulelehua Greene has found ways to connect her interests throughout her educational journey.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/30/cheyanne-kapulelehua-greene/">Student’s passion for science, ʻōlelo fuels path</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/30/cheyanne-kapulelehua-greene/>
+
+---
+
+## Volleyball coach Robyn Ah Mow receives contract extension
+
+date: 2025-01-31, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> M&#257;noa women’s volleyball head coach Robyn Ah Mow received a contract extension through the 2027 season.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/30/ah-mow-contract-extension/">Volleyball coach Robyn Ah Mow receives contract extension</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/30/ah-mow-contract-extension/>
+
+---
+
+## Generators are on island
+
+date: 2025-01-30, from: Marshal Islands Journal
+
+<p>Journal 1/22/1982 P1 Chutaro wins MiliChuji Chutaro won a narrow and still unofficial victory over Alee Alik in last week’s court-ordered election for Mili’s Nitijela seat and said that when he is certified the winner he will try to bring Mili people together to work for the good of the atoll. Chutaro, who lost by [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/generators-are-on-island/">Generators are on island</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/generators-are-on-island/>
+
+---
+
+## Invasive Species: New Rules Explained INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-01-30, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>The battle against invasive species in Hawaiʻi like coconut rhinoceros beetles and little fire ants may be heating up with new rules in place...</p>
+<p>The post <a href="https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-invasive-species-new-rules-explained/">Invasive Species: New Rules Explained &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-invasive-species-new-rules-explained/>
+
+---
+
+## Commuter Train
+
+date: 2025-01-30, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Robert Haynes Sometimes I can’t help wanting other commuters to think I’m shining into the foliar flush where robins nest in the knuckle of a tree. I wear the tweed jacket with elbow patches ready to debate an essay. &#8230; <a href="https://hawaiipacificreview.org/2025/01/30/commuter-train/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/01/30/commuter-train/>
+
+---
+
+## Red Cross gets new home
+
+date: 2025-01-30, from: Marshal Islands Journal
+
+<p>HILARY HOSIA The Marshall Islands Red Cross Society celebrated the opening of its official headquarters in Majuro last Friday. The new headquarters sits between the United Church of Christ and the Courthouse in Uliga. The MIRCS was initially housed at the Marshall Islands Resort since the government enacted the MIRCS Act in November of 2013. [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/red-cross-gets-new-home/">Red Cross gets new home</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/red-cross-gets-new-home/>
+
+---
+
+## 23-year-old solid waste case not yet over; feds seek $3.9M payment from Guam for Ordot cleanup
 
 date: 2025-01-30, from: Pacific Island Times
 
@@ -266,6 +814,34 @@ date: 2025-01-30, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/01/30/nation-world-news/former-sen-bob-menendez-is-sentenced-to-11-years-in-prison/>
+
+---
+
+## Pahoa man accused of neo-Nazi child sexploitation
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>Two men, including one from Puna, were arrested today for alleging participating in a neo-Nazi child exploitation enterprise that groomed and then coerced minors to produce sexual abuse material and images of self-harm.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/hawaii-news/pahoa-man-accused-of-neo-nazi-child-sexploitation/>
+
+---
+
+## Meteorologist: Anticipate a ‘significant rainstorm’ tonight
+
+date: 2025-01-30, from: Hawaii Tribune Harold
+
+
+				<p>The National Weather Service has issued a flood advisory for South Hilo, Puna and Ka&#8216;u.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/30/hawaii-news/meteorologist-anticipate-a-significant-rainstorm-tonight/>
 
 ---
 

@@ -1,11 +1,86 @@
 ---
 title: motorcycles
-updated: 2025-01-30 07:04:49
+updated: 2025-01-31 07:05:24
 ---
 
 # motorcycles
 
-(date: 2025-01-30 07:04:49)
+(date: 2025-01-31 07:05:24)
+
+---
+
+## Can Motorcycles Benefit From Bosch’s Brake-By-Wire Technology?
+
+date: 2025-01-31, from: Ride Apart, Electric Motorcycle News
+
+What happens if your electronic brakes fail?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/749024/bosch-brake-by-wire-good-or-bad-for-motorcycles/>
+
+---
+
+## KTM's 390 Adventure R Will Actually Arrive Soon Because It's Not a KTM
+
+date: 2025-01-31, from: Ride Apart, Electric Motorcycle News
+
+The badge is really the only KTM part on it.  
+
+<br> 
+
+<https://www.rideapart.com/news/749148/ktm-390-adventure-r-7000-dollars-bajaj-production-price/>
+
+---
+
+## Honda Gears Up For EV Motorcycle Domination, Sets Up Factory In India
+
+date: 2025-01-31, from: Ride Apart, Electric Motorcycle News
+
+The manufacturing facility dedicated solely to electric motorcycles is set to open its doors in 2028. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/749026/honda-ev-motorcycle-factory-india-2028/>
+
+---
+
+## I Can't Stop Staring At This Sweet New Yamaha Paint Option
+
+date: 2025-01-31, from: Ride Apart, Electric Motorcycle News
+
+Brown can go very wrong, or very right. This looks like the latter. 
+
+<br> 
+
+<https://www.rideapart.com/news/749140/yamaha-xsr155-metallic-brown-gorgeous/>
+
+---
+
+## The New Polaris Slingshot: This Is It
+
+date: 2025-01-30, from: Ride Apart, Electric Motorcycle News
+
+Hopefully not literally.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/748884/new-2025-polaris-slingshot-price-specs-details-features/>
+
+---
+
+## Yamaha's 'Whitetail Diaries' is a Slept On Hunting Show
+
+date: 2025-01-30, from: Ride Apart, Electric Motorcycle News
+
+There's no bad time to get excited about deer season.  
+
+<br> 
+
+<https://www.rideapart.com/news/749011/yamaha-whitetail-diaries-deer-hunting-rmax-utv/>
 
 ---
 
@@ -46,7 +121,7 @@ Will South East Asia's streets ever be the same?
 
 ---
 
-## There's a Ridable Prototype Of Honda's Wild V3 Motorcycle Concept, You Guys
+## There's a Ridable Prototype Of Honda's Electric Turbocharged V3 Motorcycle Concept
 
 date: 2025-01-30, from: Ride Apart, Electric Motorcycle News
 
