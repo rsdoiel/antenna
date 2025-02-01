@@ -1,11 +1,301 @@
 ---
 title: columns
-updated: 2025-01-31 07:05:22
+updated: 2025-02-01 07:06:24
 ---
 
 # columns
 
-(date: 2025-01-31 07:05:22)
+(date: 2025-02-01 07:06:24)
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-01-31, from: Miguel de Icaza Mastondon feed)
+
+<p>My last souvenir from First Republic finally broke.  It was a magnificent bottle opener.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113925553640463350>
+
+---
+
+## Friday Squid Blogging: On Squid Brains
+
+date: 2025-01-31, updated: 2025-01-10, from: Bruce Schneier blog
+
+<p><a href="https://www.youtube.com/shorts/pEW4CFgGhd8">Interesting</a>.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/01/friday-squid-blogging-on-squid-brains-2.html>
+
+---
+
+##  New Tron movie coming, music by Nine Inch Nails. &#8220;Tron: Ares follows... 
+
+date: 2025-01-31, updated: 2025-01-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046042-new-tron-movie-coming-mus>
+
+---
+
+##  The Japanese Salaryman Eraser Goes Bald Through Use 
+
+date: 2025-01-31, updated: 2025-01-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/japanese-salaryman-eraser-goes-bald>
+
+---
+
+## The WSJ on Zuckerberg’s $25 Million Payoff to Trump
+
+date: 2025-01-31, updated: 2025-01-31, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/us-news/law/trump-signs-agreement-calling-for-meta-to-pay-25-million-to-settle-suit-6f734c8c?st=mqxsa5&reflink=desktopwebshare_permalink>
+
+---
+
+##  New Square Feature Allows Customers To Tip With Bible Quote. &#8220;We have... 
+
+date: 2025-01-31, updated: 2025-01-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046120-new-square-feature-allows>
+
+---
+
+## An important idea for dealing with Trump, from north of the border
+
+date: 2025-01-31, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/an-important-idea-for-dealing-with>
+
+---
+
+##  The Bawdy Graffiti of Pompeii and Herculaneum. This was was written on... 
+
+date: 2025-01-31, updated: 2025-01-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046112-the-bawdy-graffiti-of-pom>
+
+---
+
+##  The New Comfort Movie Canon: The 10 Best Feel-Good Films of the... 
+
+date: 2025-01-31, updated: 2025-01-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046115-the-new-comfort-movie-can>
+
+---
+
+##  Asteroids vs Space Invaders! Scans of Early 80s Gaming Magazines. 
+
+date: 2025-01-31, updated: 2025-01-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/scans-of-early-80s-gaming-magazines>
+
+---
+
+## Paul Evan Peters Award
+
+date: 2025-01-31, from: David Rosenthal's blog
+
+<table align="right" border="2" cellpadding="5" cellspacing="0" cols="2" style="font-size: 8pt;">
+<thead>
+<tr><th>Year</th><th>Awardee</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://www.cni.org/about-cni/awards/pep-award/2024-tony-hey">2024</a></td><td>Tony Hey</td></tr>
+<tr><td><a href="https://www.cni.org/about-cni/awards/pep-award/2022-paul-courant">2022</a></td><td>Paul Courant</td></tr>
+<tr><td><a href="https://www.cni.org/about-cni/awards/pep-award/2020-francine-berman">2020</a></td><td>Francine Berman</td></tr>
+<tr><td><a href="https://www.cni.org/about-cni/awards/pep-award/2017-van-de-sompel">2017</a></td><td>Herbert Van de Sompel</td></tr>
+<tr><td><a href="https://www.cni.org/about-cni/awards/pep-award/2014-donald-lindberg">2014</a></td><td>Donald A.B. Lindberg</td></tr>
+<tr><td><a href="https://www.cni.org/about-cni/awards/pep-award/2011-christine-l-borgman">2011</a></td><td>Christine L. Borgman</td></tr>
+<tr><td><a href="https://www.cni.org/about-cni/awards/pep-award/2008-daniel-e-atkins">2008</a></td><td>Daniel E. Atkins</td></tr>
+<tr><td><a href="https://www.cni.org/about-cni/awards/pep-award/2006-paul-ginsparg">2006</a></td><td>Paul Ginsparg</td></tr>
+<tr><td><a href="https://www.cni.org/about-cni/awards/pep-award/2004-brewster-kahle">2004</a></td><td>Brewster Kahle</td></tr>
+<tr><td><a href="https://www.cni.org/about-cni/awards/pep-award/2002-vinton-gray-cerf">2002</a></td><td>Vinton Gray Cerf</td></tr>
+<tr><td><a href="https://www.cni.org/about-cni/awards/pep-award/2000-tim-berners-lee">2000</a></td><td>Tim Berners-Lee</td></tr>
+</tbody>
+</table>
+It has just been announced that at the Spring 2025 Membership Meeting of the <a href="https://cni.org/">Coalition for Networked Information</a> in Milwaukee, WI April 7<sup>th</sup> and 8<sup>th</sup>, Vicky and I are to receive the <a href="https://www.cni.org/about-cni/awards/pep-award">Paul Evan Peters Award</a>. The press release announcing the award is <a href="https://www.cni.org/news/lockss-co-founders-honored-with-2025-paul-evan-peters-award">here</a>.<br />
+<br />
+Vicky and I are honored and astonished by this award. Honored because it is the premiere award in the field, and astonished because we left the field more than seven years ago to take up our new full-time career as grandparents.  We are all the more astonished because we are not even eligible for the award; the <a href="https://www.cni.org/about-cni/awards/pep-award">rules clearly state that</a> the "award will be granted to <b>an individual</b>".<br />
+<br />
+You can tell this is an extraordinary honor from the list of previous awardees, and the fact that it is the first time it has been awarded in successive years. Vicky and I are extremely grateful to the <a href="https://arl.org">Association of Research Libraries</a>, <a href="https://cni.org">CNI</a> and <a href="https://www.educause.edu/">EDUCAUSE</a>, who sponsor the award.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsW7x_4i-TUwFG6xNVH2q_nk5jXabNhRGxUbnEeDV6vKapZoAmu9eDP1JY4Oavw508eDSbFy734Gxb2crvCI-eAQVjL-3LjYp0olWhqIR4OM6AhehgFJTKFxrKEdrLJHUOdsrPCeODqpu4dVDUT2sggb73rBj_EomjFI1YirWH2THzPUgP4_KwTIDX1Q/s151/LOCKSS.logo.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="151" data-original-width="151" height="151" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsW7x_4i-TUwFG6xNVH2q_nk5jXabNhRGxUbnEeDV6vKapZoAmu9eDP1JY4Oavw508eDSbFy734Gxb2crvCI-eAQVjL-3LjYp0olWhqIR4OM6AhehgFJTKFxrKEdrLJHUOdsrPCeODqpu4dVDUT2sggb73rBj_EomjFI1YirWH2THzPUgP4_KwTIDX1Q/s1600/LOCKSS.logo.png" width="151" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Original Logo<br /></td></tr></tbody></table>
+Part of the award is the opportunity to make an extended presentation to open the meeting.  The text of our talk, entitled <i>Lessons From LOCKSS</i>, with links to the sources and information that appeared on slides but was not spoken, should appear here on April 7<sup>th</sup>.<br />
+<br />
+The work that the award recognizes was not ours alone, but the result of a decades-long effort by the entire <a href="https://www.lockss.org">LOCKSS team</a>. It was made possible by support from the LOCKSS community and many others, including Michael Lesk then at NSF, Donald Waters then at the Mellon Foundation, the late Karen Hunter at Elsevier, Stanford's Michael Keller and CNI's Cliff Lynch.<br /> 
+
+<br> 
+
+<https://blog.dshr.org/2025/01/paul-evan-peters-award.html>
+
+---
+
+## One of These Lickspittle Tech Titans Is Not Like the Others
+
+date: 2025-01-31, updated: 2025-01-31, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nbcnews.com/tech/tech-news/meta-agrees-pay-25-million-settle-trump-lawsuit-rcna189918>
+
+---
+
+## January 30, 2025
+
+date: 2025-01-31, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156185643/50ba85046da1c893e565500e57226805.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156185643/50ba85046da1c893e565500e57226805.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-30-2025-7a7>
+
+---
+
+## LocalSend: Open Source Cross-Platform Alternative to AirDrop
+
+date: 2025-01-31, updated: 2025-01-31, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://localsend.org/>
+
+---
+
+## When everything becomes a profit center…
+
+date: 2025-01-31, from: Matt Haughey blog
+
+<p>A few days ago, the smoke alarms in my house went off at 3am, so we got up and took it seriously when we smelled smoke <em>everywhere</em>. But after 20 minutes of searching high and low, we couldn&apos;t find a source, so as a precaution, we called 911</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/when-everything-becomes-a-profit-center/>
+
+---
+
+##  A web version of Pitfall. I used to play this a lot... 
+
+date: 2025-01-31, updated: 2025-01-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046113-a-web-version-of-pitfall>
+
+---
+
+##  Author Mary Childs shares some of her &#8220;stress-designed&#8221; drafts: On Trying (and... 
+
+date: 2025-01-31, updated: 2025-01-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046114-author-mary-childs-shares>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-31, from: Dave Winer's Scripting News)
+
+I've been using <a href="https://claude.ai/">claude.ai</a> for programming work lately, and it does one thing better than ChatGPT. It reads your code and tries to mimic your coding style. ChatGPT won't do that. It's really frustrating to have to edit their code before I can even try it out. I like it and am paying the $20 per month in addition to the money I'm paying ChatGPT. 
+
+<br> 
+
+<http://scripting.com/2025/01/31.html#a154956>
+
+---
+
+##  Brian Eno Believes in Singing 
+
+date: 2025-01-31, updated: 2025-01-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/brian-eno-believes-in-singing>
+
+---
+
+## Advice to would-be platform vendors
+
+date: 2025-01-31, from: Dave Winer's Scripting News
+
+<p>TL;DR: The key to success is convincing developers to ignore the fact that you will eventually kill them.</p>
+<p>Would-be platform vendors, open or not, in order to entice a developer to learn how it works:</p>
+<ul>
+<li>Quick success. Hello World works in less than 30 minutes. Hopefully much less.</li>
+<li>Easy to believe that the platform vendor won't want to kill me. This is a trick, because based on my experience, they always try to kill you, eventually. </li>
+<li>Fun. If I can fill a need that I think users will want, without being resented too much by the platform vendor then I might take a jump knowing full well that the better the idea the quicker the vendor will kill me. For that reason it's better to do something they don't understand, or will see as irrelevant, ie a "third party opportunity." As soon as it appears to be "system software," that's when they started the project to eat your lunch. ;-)</li>
+<li>The API works the way you think. This has been the highest hurdle for me to get over in most platforms I think about working with. I can't tell you how many times I've stared at the docs for a platform and have no idea how it relates to the product, which I know how to use. The concepts should mirror the functionality of the system it's the API for. Too much theory and I have to be very very motivated for other reasons to get through the fog. </li>
+<li>It must be relatively easy for you to hang out in a corner where it's too hard for them to be worth the trouble.</li>
+</ul>
+<p>Thing is if there is a platform vendor, they <i>can</i> kill you, no matter what they say. I once had a big platform vendor say they weren't trying to crush me. I could see on his face he realized he had just given up their plan, or how else would that term be in his head as applied to me. Never mind, I was already commited so what difference did it make. </p>
+<p>The reason for all this is that as they grow, platform vendors hire employees to work on this stuff, and they resent independent developers. This surprised me when I first encountered it. I thought we were siblings, brothers and sisters. But they idealize our situation and only see the pain in theirs. So they will enjoy killing you. It will eventually happen. That's why it's generally much better if there is <a href="https://www.google.com/search?q=%22platform+without+a+platform+vendor%22+site%3Ascripting.com">no platform vendor</a>. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/31/152641.html?title=adviceToWouldbePlatformVendors>
+
+---
+
+##  20 years ago, Seoul tore down an elevated highway and built a... 
+
+date: 2025-01-31, updated: 2025-01-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/01/0046111-20-years-ago-seoul-tore>
 
 ---
 
@@ -73,7 +363,20 @@ There&rsquo;s no point in losing your job or your life to a fascist.</p>
 
 <p>Sadly, when I first heard about the US sliding into fascism thirty years ago, I thought it impossible. Unthinkable. And yet here we are.</p>
 
-<p>Perhaps it helps to think about a sliding scale from zero to Hitler. The US is not yet invading Poland. But they seem to be ready to divvy up Ukraine; or take Greenland. So where are we: 60%? 70%?</p> 
+<p>Perhaps it helps to think about a sliding scale from zero to Hitler. The US is not yet invading Poland. But they seem to be ready to divvy up Ukraine; or take Greenland. So where are we: 60%? 70%?</p>
+
+<blockquote>
+<p>I&rsquo;m not saying don&rsquo;t do it. I&rsquo;m not saying to be insubordinate and get fired so that you could be replaced by a fascist.</p>
+
+<p>I&rsquo;m saying do it slower and with more hand holding.</p>
+
+<p>Do it in a way that requires more approvals, and reviews, and &ldquo;oops we need to roll that build back because we made a mistake&rdquo;.</p>
+
+<p>Don&rsquo;t be good at your job when your job is supporting fascism.<br>
+– zzzzBov, <a href="https://github.com/uswds/uswds-site/pull/3078#issuecomment-2626183794">in a comment</a></p>
+</blockquote>
+
+<p>I’m just hoping that when the orders come, I too will be able to stall and drag.</p> 
 
 <br> 
 
@@ -150,7 +453,7 @@ date: 2025-01-31, from: Shady Characters blog
 
 date: 2025-01-31, from: Robert Reich's blog
 
-5 ways Trump is concentrating power in his own hands, thereby replacing democracy with oligarchy 
+Five ways Trump is concentrating power in his own hands, thereby replacing democracy with oligarchy 
 
 <br> 
 
@@ -1290,83 +1593,6 @@ date: 2025-01-28, updated: 2025-01-29, from: Daring Fireball
 
 ---
 
-## 2025-01-27 Using rsync with Sqlite databases
-
-date: 2025-01-28, from: Alex Schroeder's Blog
-
-<h1 id="2025-01-27-using-rsync-with-sqlite-databases">2025-01-27 Using rsync with Sqlite databases</h1>
-
-<p>I use Debian stable so my copy of Sqlite is not the latest and greatest.
-At the same time, I don&rsquo;t use Borg Backup for my server. I use rsync.</p>
-
-<p>I copy the content of the important server files to my local laptop
-and then I make a backup of my laptop to external disks using Borg Backup.</p>
-
-<p>When making copies using rsync, the database must not be in use.
-Otherwise, a busy database is probably going to be corrupt when restoring
-it from backup.</p>
-
-<p>The key is to stop the program using the database before beginning the
-backup and starting it after the backup. It&rsquo;s also important to stop
-the program using the monitoring software. I use Monit to monitor the
-server. If I don&rsquo;t stop GoToSocial using Monit, Monit will discover
-that GoToSocial isn&rsquo;t running and start it while rsync is still copying
-the database file. The database file is 10G so copying it takes a long
-time. Long enough for Monit to discover that GoToSocial isn&rsquo;t running.</p>
-
-<p>I should stop and start other programs, too: The Lounge, Norn, etc.</p>
-
-<p>This is my script:</p>
-
-<pre><code>#!/bin/bash
-
-# sibirocobombus.root is defined in ~/.ssh/config
-
-# Using sudo rsync --archive to preserve ownership.
-# Using --fake-super to avoid changes to groups and owners
-
-echo Backing up Sibirocobombus
-echo Stopping GoToSocial
-ssh sibirocobombus.root monit stop gotosocial
-rsync --archive --fake-super --verbose --compress --delete --delete-excluded \
-      --itemize-changes \
-      sibirocobombus.root:/home \
-      --exclude '/home/alex/alexschroeder/' \
-      --exclude '/home/alex/helmut/' \
-      --exclude '/home/alex/alexschroeder.ch/share' \
-      --exclude '/home/alex/planet/alex/' \
-      --exclude '/home/alex/planet/indie/' \
-      --exclude '/home/alex/planet/jdr/' \
-      --exclude '/home/alex/planet/osr/' \
-      --exclude '/home/alex/planet/other/' \
-      --exclude '/home/alex/planet/podcast/' \
-      --exclude '/home/alex/planet/podcast-de/' \
-      --exclude '/home/alex/planet/podcast-fr/' \
-      --exclude '/home/alex/.cpan/build' \
-      --exclude '/home/alex/.cpan/sources' \
-      --exclude '/home/alex/.cpanm' \
-      --exclude '/home/alex/.cache' \
-      --exclude '/home/alex/.Trash' \
-      --exclude '/home/alex/.local/share/Trash' \
-      sibirocobombus.root:/etc \
-      sibirocobombus.root:/var/lib/news \
-      sibirocobombus.root:/var/lib/dpkg \
-      sibirocobombus.root:/var/lib/apt/extended_states \
-      sibirocobombus.root:/var/lib/radicale \
-      sibirocobombus.root:/usr/lib/cgit/filters \
-      /home/alex/Documents/Sibirocobombus
-echo Starting GoToSocial
-ssh sibirocobombus.root monit start gotosocial
-</code></pre>
-
-<p><a class="tag" href="/search/?q=%23Backup">#Backup</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-01-27-rsync-sqlite>
-
----
-
 ##  A 10-hour ambient cover of Hans Zimmer&#8217;s Interstellar soundtrack, perfect for relaxing,... 
 
 date: 2025-01-28, updated: 2025-01-28, from: Jason Kittke's blog
@@ -2223,4 +2449,337 @@ We have all earned a break for this week, but as some of you have heard me say, 
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/january-25-2025>
+
+---
+
+## 2025-01-25 Why Blog?
+
+date: 2025-01-25, from: Alex Schroeder's Blog
+
+<h1 id="2025-01-25-why-blog">2025-01-25 Why Blog?</h1>
+
+<p>I&rsquo;ve been asking myself this every now and then.
+I&rsquo;m not a party person and while I&rsquo;ve learned to do small talk, I don&rsquo;t talk as much as I write, I think.
+Recently, <a class="account" href="https://social.lol/@adam" title="@adam@social.lol">@adam</a> blogged about the <a href="https://notes.neatnik.net/2025/01/blog-question-challenge-2025">Blog Question Challenge</a>.
+It reminded me of similar posts of mine.
+<a href="2024-03-07-why-blog">2024-03-07 Why do we even blog?</a>.
+<a href="2010-08-05_Why_Blog">2010-08-05 Why Blog</a>.
+I keep wondering.</p>
+
+<p>The Blog Question Challenge asks the following questions:</p>
+
+<ul>
+<li>Why did you start blogging in the first place?</li>
+<li>What platform are you using to manage your blog, and why do you use it?</li>
+<li>Have you blogged on other platforms before?</li>
+<li>What’s your favourite post on your blog?</li>
+<li>Any future plans for the blog?</li>
+</ul>
+
+<p>I think my blogging started with a wiki page on Meatball Wiki.
+As far as I remember, wikis preceded blogs.
+Sure, people had web logs where they logged the pages they visited.
+But that wasn&rsquo;t the kind of longer journaling that came to be associated with blogs.
+And frankly, that kind of journaling also didn&rsquo;t happen on that wiki name page.
+But from there, it grew. Edits grew longer.
+The topics started drifting. And that&rsquo;s when I knew I needed my own wiki.</p>
+
+<p>The wiki was centred around Recent Changes, of course.
+That&rsquo;s where new pages were to be found.
+It still wasn&rsquo;t a blog and I remember disliking blogs, thinking them to be mediocre solutions for writing.
+The wiki link pattern of using camel-case was supposed to encourage accidental linking, to invite contributions by indicating that particular pages did not yet exist.
+But writing on my own, these supposed benefits didn&rsquo;t really materialize.
+On the contrary, the camel-case links didn&rsquo;t look good.
+The camel-case titles didn&rsquo;t look good.
+I switched to &ldquo;free&rdquo; links.</p>
+
+<p>Another problem was the amount of pages. My opinions changed.
+Was I supposed to delete the old opinions? That hurt.
+Move them elsewhere? Not great, either.
+Use different names and indicate somehow whether the page was old or not?
+I couldn&rsquo;t figure it out and eventually I settled on the current format where the date is part of the page title.
+It solved all my problems.</p>
+
+<p>At the same time, other people started blogging and feeds took off.
+I wanted a feed for my wiki. But a feed wasn&rsquo;t like Recent Changes.
+Recent Changes meant that pages kept reappearing when they were edited.
+For many years I used the distinction between &ldquo;minor&rdquo; and &ldquo;major&rdquo; edits for my blog.
+Only &ldquo;major&rdquo; edits showed up on the feed and I made sure that only the first edit was marked &ldquo;major&rdquo;.
+But it was a hack and I knew it.</p>
+
+<p>All of this led me to switch from Oddmuse to Oddµ.
+<a href="Oddmuse">Oddmuse</a> was a traditional wiki, based on UseModWiki, based on even older wikis.
+<a href="Odd%C2%B5">Oddµ</a> is the software I currently use.
+It does away with version history and usernames and implicitly expects that only very small teams use it.
+Or a team of one, in my case.</p>
+
+<p>As for my favourite post on the site? It&rsquo;s hard to say.
+Right now, I&rsquo;d say it is <a href="2018-01-30_To_The_Young_Ones">To The Young Ones</a> from 2018.
+I also like my <a href="priorities">Priorities</a> post.</p>
+
+<p>As for the future, I don&rsquo;t know either.
+I&rsquo;d like to keep blogging.
+I&rsquo;d like to blog less about system administration.
+I know it&rsquo;s weird but I actually don&rsquo;t like writing about it all that much.
+I do it because it is useful.
+I use the blog as an external brain, as a memory extender or memex.
+Unfortunately, system administration requires a lot of memory extension where as the good blog posts require inspiration, vulnerability, flow.
+It&rsquo;s hard to get right.</p>
+
+<p><a class="tag" href="/search/?q=%23Blogs">#Blogs</a> <a class="tag" href="/search/?q=%23Wikis">#Wikis</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-01-25-why-blog>
+
+---
+
+## The Weekend (Is Here) Reader
+
+date: 2025-01-25, from: Om Malik blog
+
+It has been one of those weeks where so much is going on that the noise is drowning out the signals. When the head of a trillion-dollar software giant starts throwing out lines like a late-night talk show host, you know we’ve finally put the “silly” in Silicon Valley. Not surprisingly, the week has been &#8230; 
+
+<br> 
+
+<https://om.co/2025/01/25/the-weekend-is-here-reader/>
+
+---
+
+## My mole in the Department of Labor sent me this
+
+date: 2025-01-25, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/my-mole-in-the-department-of-labor>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-01-25, from: Ryan Gantz Bluesky feed)
+
+begun, the attention wars have. 
+
+yes, we need to bring down the platforms with every tool we have: dollars and votes, critique though traditional media, open protocols and policy change
+
+but NB: subverting algorithms in this way is modern grassroots activism that can be massively consequential
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lglqgnxlqs2h>
+
+---
+
+## January 24, 2025
+
+date: 2025-01-25, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155707259/ee206bbb6fd6764f56017c59f723f3ba.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155707259/ee206bbb6fd6764f56017c59f723f3ba.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-24-2025-016>
+
+---
+
+## ★ Thin Is In
+
+date: 2025-01-25, updated: 2025-01-27, from: Daring Fireball
+
+I see four possible futures regarding phones that are too thin for USB-C ports. 
+
+<br> 
+
+<https://daringfireball.net/2025/01/thin_is_in>
+
+---
+
+## 2025-01-12 Disk space
+
+date: 2025-01-25, from: Alex Schroeder's Blog
+
+<h1 id="2025-01-12-disk-space">2025-01-12 Disk space</h1>
+
+<p>It&rsquo;s that time of the year again. How to get back disk space?</p>
+
+<p>Open the Files application and empty the trash. (How to do this from the command line?)</p>
+
+<p>Delete the cache for Debian packages:</p>
+
+<pre><code>sudo apt-get clean
+</code></pre>
+
+<p>Check out local caches:</p>
+
+<pre><code>ncdu .cache/
+</code></pre>
+
+<p>Python stuff:</p>
+
+<pre><code>pip cache purge
+</code></pre>
+
+<p>Also, feel free to delete other stuff in there. I just deleted a &ldquo;whisper&rdquo; directory containing a language model I didn&rsquo;t need and a &ldquo;tracker3&rdquo; directory containing data for the Gnome miner, I think. Also &ldquo;chromium&rdquo; because it&rsquo;s not my main browser. I don&rsquo;t care about its cache.</p>
+
+<p>Perlbrew stuff. Find out what Perls you have installed.</p>
+
+<pre><code>perlbrew list
+</code></pre>
+
+<p>You aren&rsquo;t going to need them:</p>
+
+<pre><code>perlbrew uninstall perl-5.30.0
+perlbrew uninstall perl-5.32.0
+</code></pre>
+
+<p>Also delete old build directories.
+You can probably delete all the build directories and the build logs.</p>
+
+<pre><code>ls $HOME/perl5/perlbrew/ $HOME/perl5/perlbrew/build
+</code></pre>
+
+<p>Go build cache:</p>
+
+<pre><code>go clean -cache
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-01-12-space>
+
+---
+
+## Hegseth
+
+date: 2025-01-25, from: Dave Winer's Scripting News
+
+<p>Hegseth's job is to stay out of the way while the Heritage Foundation separates the military into those who take loyalty seriously and those who are retiring.</p>
+<p>For that job being an alcoholic is a plus. 😀</p>
+<p>They're interviewing for who wants to be his replacement. </p>
+<p>His job is to keep the seat warm.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/01/25/164430.html?title=hegseth>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-25, from: Dave Winer's Scripting News)
+
+Our best hope is that the factions within MAGA fight each other. We're assuming they have a way to keep everyone in line, but the more power they capture, the harder that's going to be. 
+
+<br> 
+
+<http://scripting.com/2025/01/25.html#a163105>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-01-25, from: Dave Winer's Scripting News)
+
+<a class="anchorRightMargin" href="https://bsky.app/profile/davefeediverse.bsky.social"><img class="imgRightMargin" src="https://imgs.scripting.com/2025/01/25/zelig.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"></a>It's been over 24 hours, and my <a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lgibxvpz3k2x">viral post</a> from yesterday is still getting <a href="https://imgs.scripting.com/2025/01/25/viralPostScreenshot.png">lots of RTs and likes</a>. An observation -- it's made my <a href="https://bsky.app/profile/scripting.com">Bluesky account</a> virtually unusable. Anything else I publish there is swamped by the viral post. I'm also working on a new version of the software that turns Bluesky into a <a href="https://bsky.app/profile/did:plc:fkwl6tbnev3vdx63bippmscy">feed reader</a>. It will be able to manage multiple rivers, where the first version could only do one. The next reader will be all the posts from me on all the various services I post to that have outbound RSS feeds. After that, I have ideas for special feeds for specific publications. I want to help our friends in the blogging and news world, using the best communication tools available. I find now that people are much more open to ideas. This is good. But we should never be complacent. Learn from the competition. They were getting ready for this moment, we weren't. 
+
+<br> 
+
+<http://scripting.com/2025/01/25.html#a151749>
+
+---
+
+## What Works After a Disaster Happens?
+
+date: 2025-01-25, from: Doc Searls (at Harvard), New Old Blog
+
+When Hurricane Helene hit Western North Carolina, the Swannanoa River rose three storys above its shores, all but erasing the town named after the river, and leaving hundreds homeless. But the challenge for Swannanoa was not just recovery. It was regeneration. For that, Swannanoa&#8217;s residents formed new kinds of partnerships and problem solutions that could [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/01/25/what-works-after-a-disaster-happens/>
+
+---
+
+## Trump’s Real Agenda | The Coffee Klatch for January 25, 2025
+
+date: 2025-01-25, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/155649209/01c012171060cf2f2fa05a5f039c89e1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/155649209/01c012171060cf2f2fa05a5f039c89e1.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/trumps-real-agenda-the-coffee-klatch>
+
+---
+
+## Weeknotes: January 18-24, 2025
+
+date: 2025-01-25, from: Tracy Durnell Blog
+
+Highlight of the week: got asked to contribute to a newsletter I read 😀 Looking forward to: getting some rest this weekend &#8212; this week was emotionally exhausting even though I didn&#8217;t do much Stuff I did: 3 hours consulting 8 hours proposal prep &#8212; almost done &#8212; just need to write the intro letter and [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/24/weeknotes-january-18-24-2025/>
+
+---
+
+## January 24, 2025 
+
+date: 2025-01-25, from: Heather Cox Richardson blog
+
+&#8220;NUTS!&#8221; 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-24-2025>
+
+---
+
+## Raycast Focus works really well
+
+date: 2025-01-25, from: Dave Rupert blog
+
+<img src="https://cdn.daverupert.com/posts/2025/raycastfocus.png" alt="My focus session called actually get some work done with gaming and social media blocked" width="1000" height="632"/>
+<p>This week Raycast released a new feature called <a href="https://www.raycast.com/core-features/focus">Raycast Focus</a>. This hyped up the Raycast superfans in my social sphere, so I tried it out and I must say that I’m impressed.</p>
+<p>The timing couldn’t have been more perfect. Earlier this week I tried out a handful of browser extensions that would add some friction to social media sites. I have a bit of a bad habit where I open a new tab and instinctively type my favorite social sites: <code>elk.zone</code>, <code>bsky.app</code>, and of course <code>youtube.com</code>. These are mega time-wasters for me. As someone with ADHD these sites are basically dopamine tar pits for my attention.</p>
+<p>Videos are an obvious stumbling block, but my biggest pain point is clicking on articles and filling up a couple browsers worth of tabs such that it occupies my brain RAM and I can’t focus on my next task until I clear out my tabs. Even with medication, when the attention ship turns, it can be difficult to steer it back on track. Self-control is great, but the easiest way to avoid distraction is to cut the dopamine off at the source; turn the faucet off at the wall and put child locks on the cabinet. You can still turn it back on, but adding friction to the process makes it a more intentional act of defiance.</p>
+<p>Raycast Focus adds the right amount of friction. When you enter a session you can choose what types of apps and websites you want to restrict. If you try to open a tab you’ll get a friendly roadblock. You can still enter the site if necessary but you have to click and hold a button for 3 seconds which is enough time for your brain to reassess if this visit is necessary.</p>
+<p>Another positive of Raycast Focus is that it’s an OS level tool. I don’t need different tools to limit apps and websites, it’s all under one roof. I already have muscle memory using Raycast to launch apps so it’s easy to add Raycast Focus to my workflow. And there’s something nice about my distraction launcher also being my distraction governor.</p>
+<p>Your mileage may vary, but Raycast Focus is working well for me (almost too well). I feel more productive and sometimes you need to feel productive for your own sake, <em>not your employer’s</em>. Whether it’s your process, your tooling, your calendar, or your own brain working against you, it’s worth finding new strategies to improve your workdays. I’m even using it right now to focus on finishing this blog post and… uh… it worked!</p> 
+
+<br> 
+
+<https://daverupert.com/2025/01/raycast-focus/>
+
+---
+
+## Jessica Lessin’s 2014 Profile of Kim Vorrath
+
+date: 2025-01-25, updated: 2025-01-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theinformation.com/articles/apple-s-software-taskmaster-faces-tough-test?rc=jfy0lk>
+
+---
+
+## Apple Moves Kim Vorrath to Siri / Apple Intelligence Team
+
+date: 2025-01-25, updated: 2025-01-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.bloomberg.com/news/articles/2025-01-24/apple-enlists-company-veteran-kim-vorrath-to-help-fix-ai-and-siri>
 

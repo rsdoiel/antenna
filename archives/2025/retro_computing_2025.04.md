@@ -1,11 +1,59 @@
 ---
 title: retro computing
-updated: 2025-01-31 07:05:24
+updated: 2025-02-01 07:06:27
 ---
 
 # retro computing
 
-(date: 2025-01-31 07:05:24)
+(date: 2025-02-01 07:06:27)
+
+---
+
+## Things are about to get violent with Beatstreets
+
+date: 2025-01-31, from: RiscOS Story
+
+With the release of a second edition of Code the Classics from the Raspberry Pi stable (Side note; there&#8217;s apparently now a Code the Classics Volume II from Raspberry Pi Press, with their interpretations of another five classic games!) Jeroen Vermeulen has set his sights once again on creating RISC OS versions of the games included within its covers &#8211; and the first of these is now available. Bringing violence to a RISC OS computer near you, the objective in Beatstreets is to work your way through the streets, where&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/beatstreets-released/>
+
+---
+
+## CardInfo 1.01 and Currency 2.06 from KevSoft
+
+date: 2025-01-31, from: RiscOS Story
+
+Kevin Wells has updated two of his handy applications that use Wget to relay information back and forth to remote APIs (application programmer interfaces), allowing RISC OS users to access, lookup, and retrieve information from the desktop. The first of the updates was to CardInfo, the initial release of which came back in October 2024. The purpose of the software is to look up information about everyone&#8217;s flexible friend1 &#8211; the plastic in your wallet. Given the first six digits of a bank card number, CardInfo will communicate with BIN&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/cardinfo-1-01-currency-2-06/>
+
+---
+
+## ToggleBD 2.00 now available
+
+date: 2025-01-31, from: RiscOS Story
+
+Fred Graute has released version 2.00 of his Pinboard support module, ToggleBD, which can be used to raise the background of your desktop to the top of the window stack &#8211; effectively bringing it to the front of the display, with any open windows behind it &#8211; so that you can access anything pinned to it, such as iconised windows, shortcuts to files, and so on. Once you&#8217;ve got at what you need, the backdrop can be lowered again so that all your open windows can be accessed as normal.&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/togglebd-2-00/>
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2025-01-31, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 22: The Sultan&#8217;s Realm 
+
+<br> 
+
+<https://www.filfre.net/2025/01/this-week-on-the-analog-antiquarian/>
 
 ---
 
@@ -140,4 +188,16 @@ Where's my bill EDF?, Yet another flood, Glad to be rid of my HP 3630, Playing w
 <br> 
 
 <https://heyrick.eu/blog/index.php?diary=20250126>
+
+---
+
+## b.log 2025/01/25 - Fixing my satellite dish, A future project, Sod off Google.
+
+date: 2025-01-25, from: Richard Murray's blog
+
+Fixing my satellite dish, A future project, Sod off Google. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250125>
 

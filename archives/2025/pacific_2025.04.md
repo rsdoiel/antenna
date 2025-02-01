@@ -1,11 +1,23 @@
 ---
 title: pacific
-updated: 2025-01-31 07:05:21
+updated: 2025-02-01 07:06:23
 ---
 
 # pacific
 
-(date: 2025-01-31 07:05:21)
+(date: 2025-02-01 07:06:23)
+
+---
+
+## Pacific aid groups ‘devastated’ by Trump’s USAID freeze
+
+date: 2025-01-31, from: Pacific Island Times
+
+Aid agencies operating in the Pacific are still scrambling to assess the impact of U.S. President Donald Trump’s sweeping executive order. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/pacific-aid-groups-devastated-by-trump-s-usaid-freeze>
 
 ---
 
@@ -202,6 +214,34 @@ date: 2025-01-31, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/01/31/nation-world-news/temperatures-run-high-as-senators-hammer-kennedy-on-vaccines/>
+
+---
+
+## DOH issues brown water advisory for Hawaii Island
+
+date: 2025-01-31, from: Hawaii Tribune Harold
+
+
+				<p>A brown water advisory has been issued for the entire Big Island.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/31/hawaii-news/doh-issues-brown-water-advisory-for-hawaii-island/>
+
+---
+
+## Kurtistown man accused of intentionally striking pedestrian with Jeep
+
+date: 2025-01-31, from: Hawaii Tribune Harold
+
+
+				<p>Police detectives arrested and charged a 40-year-old Kurtistown man for allegedly intentionally striking a pedestrian with his Jeep in a Pahoa shopping center parking lot.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/31/hawaii-news/kurtistown-man-accused-of-intentionally-striking-pedestrian-with-jeep/>
 
 ---
 
@@ -477,6 +517,18 @@ date: 2025-01-31, from: University of the South Pacific (Fiji)
 
 ---
 
+## A Senate Joint Resolution (S.J.R. No. 23-09)
+
+date: 2025-01-31, updated: 2025-01-31, from: Marianas Variety
+
+*** 
+
+<br> 
+
+<https://www.mvariety.com/specials/a-senate-joint-resolution-s-j-r-no-23-09/article_d0f21158-df75-11ef-a2e2-b7decde86beb.html>
+
+---
+
 ## Student’s passion for science, ʻōlelo fuels path
 
 date: 2025-01-31, from: University of Hawaiʻi News
@@ -490,6 +542,30 @@ The post <a href="https://www.hawaii.edu/news/2025/01/30/cheyanne-kapulelehua-gr
 
 ---
 
+## Legislation with Kilili language benefiting the Marianas
+
+date: 2025-01-31, updated: 2025-01-31, from: Marianas Variety
+
+• PL 111-13 - Edward M. Kennedy Serve America Act. Marianas included in Domestic Volunteers Service Act and National Volunteer Antipoverty programs. 
+
+<br> 
+
+<https://www.mvariety.com/specials/legislation-with-kilili-language-benefiting-the-marianas/article_97f79586-df74-11ef-b329-c7004454db1c.html>
+
+---
+
+## Kilili: A Legacy of Leadership and Service
+
+date: 2025-01-31, updated: 2025-01-31, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/specials/kilili-a-legacy-of-leadership-and-service/article_4fdd5d22-df73-11ef-a23b-9fdb2fad5136.html>
+
+---
+
 ## Volleyball coach Robyn Ah Mow receives contract extension
 
 date: 2025-01-31, from: University of Hawaiʻi News
@@ -500,6 +576,30 @@ The post <a href="https://www.hawaii.edu/news/2025/01/30/ah-mow-contract-extensi
 <br> 
 
 <https://www.hawaii.edu/news/2025/01/30/ah-mow-contract-extension/>
+
+---
+
+## Gregorio Kilili Camacho Sablan: The eight-term delegate who redefined CNMI politics
+
+date: 2025-01-31, updated: 2025-01-31, from: Marianas Variety
+
+GREGORIO Kilili Camacho Sablan, who turned 70 this year, is the most successful politician in CNMI history. No other local politician has run and won eight consecutive Commonwealth-wide elections. Kilili broke the record of Gov. Pedro “Teno” Pangelinan Tenorio, who won six CNMI-wide elections: three gubernatorial primaries and three gubernatorial elections. It was Teno, incidentally, who appointed Kilili as election commissioner in 1998, and it was his sterling performance in that job that made him a viable candidate for the CNMI’s first delegate election in 2008, a race he narrowly won. 
+
+<br> 
+
+<https://www.mvariety.com/specials/gregorio-kilili-camacho-sablan-the-eight-term-delegate-who-redefined-cnmi-politics/article_dec8ff8a-df6b-11ef-92ef-2bb4f50d74f8.html>
+
+---
+
+## No clear reason yet for Washington air disaster that killed 67, officials say
+
+date: 2025-01-31, updated: 2025-01-31, from: Marianas Variety
+
+WASHINGTON (Reuters) — U.S. authorities said on Thursday it was not yet clear why a regional jet crashed into a U.S. Army helicopter at a Washington airport, killing 67 people in the deadliest U.S. air disaster in more than 20 years. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/no-clear-reason-yet-for-washington-air-disaster-that-killed-67-officials-say/article_88193052-df6a-11ef-982b-23cb6ccb019d.html>
 
 ---
 
@@ -517,6 +617,30 @@ date: 2025-01-30, from: Marshal Islands Journal
 
 ---
 
+## When searching for a surgeon, look for the letters F-A-C-S
+
+date: 2025-01-30, updated: 2025-01-30, from: Marianas Variety
+
+(BPT) - By Patricia L. Turner, MD, MBA, FACS 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/when-searching-for-a-surgeon-look-for-the-letters-f-a-c-s/article_787c5b26-49cf-5b38-96f6-87ae23eac1c3.html>
+
+---
+
+## Unlocking business growth: Lessons from inspiring leaders
+
+date: 2025-01-30, updated: 2025-01-30, from: Marianas Variety
+
+(BPT) - By Sarah Acton, Chief Customer Officer, BILL 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/unlocking-business-growth-lessons-from-inspiring-leaders/article_c858838b-6da2-5e58-903f-53506f923679.html>
+
+---
+
 ## Invasive Species: New Rules Explained INSIGHTS ON PBS HAWAIʻI
 
 date: 2025-01-30, from: INSIGHTS ON PBS HAWAIʻI
@@ -531,6 +655,18 @@ date: 2025-01-30, from: INSIGHTS ON PBS HAWAIʻI
 
 ---
 
+## 4 realistic resolutions for working parents to consider in 2025
+
+date: 2025-01-30, updated: 2025-01-30, from: Marianas Variety
+
+(BPT) - The 2024 U.S. Surgeon General's Advisory shed light on the immense amount of stress parents are under. Part of this is due to the pressure that comes with raising children, working and wanting to be a high performer in every aspect of life. With the new year in full swing, now is a great time to make small, attainable resolutions that have the power to lower stress levels, enhance well-being and improve family dynamics. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/4-realistic-resolutions-for-working-parents-to-consider-in-2025/article_7746714f-a6e2-55b9-98c6-e8d5b9a9b0cc.html>
+
+---
+
 ## Commuter Train
 
 date: 2025-01-30, from: Hawai'i Pacific Review (HPU Literary Magazine)
@@ -540,6 +676,18 @@ by Robert Haynes Sometimes I can’t help wanting other commuters to think I’m
 <br> 
 
 <https://hawaiipacificreview.org/2025/01/30/commuter-train/>
+
+---
+
+## Governor not aware of any ICE raids
+
+date: 2025-01-30, updated: 2025-01-30, from: Marianas Variety
+
+FOLLOWING President Donald Trump’s executive orders on ending birthright citizenship and other immigration issues, rumors have circulated about raids and arrests of undocumented and overstaying foreigners in the CNMI. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/governor-not-aware-of-any-ice-raids/article_93a8ff8c-dee9-11ef-bbef-fb343bab3e99.html>
 
 ---
 
@@ -2503,4 +2651,223 @@ Consulting the Chamorro-English dictionary, we found "taotao" means "human being
 <br> 
 
 <https://www.pacificislandtimes.com/post/taotaomo-na-the-spirits-that-shape-us>
+
+---
+
+## Touring storm damage, Trump suggests FEMA should be shut down
+
+date: 2025-01-25, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump mused Friday about shutting down the Federal Emergency Management Agency, saying that states could do a better job at responding to disasters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/touring-storm-damage-trump-suggests-fema-should-be-shut-down/>
+
+---
+
+## Musk plan for retooling government takes shape, but big questions loom
+
+date: 2025-01-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The initial plan for retooling the federal government under President Donald Trump started with three loyal billionaires: banker Howard Lutnick, tech leader Elon Musk and entrepreneur Vivek Ramaswamy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/musk-plan-for-retooling-government-takes-shape-but-big-questions-loom/>
+
+---
+
+## Vance casts tiebreaking vote for Hegseth
+
+date: 2025-01-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Senate narrowly confirmed Pete Hegseth as defense secretary Friday after he survived a bruising struggle with Democrats who decried the Trump nominee as unqualified and unfit to oversee the country&#8217;s 1.3 million active duty troops and the Pentagon&#8217;s nearly $850 billion budget.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/vance-casts-tiebreaking-vote-for-hegseth/>
+
+---
+
+## Trump’s DEI order creates ‘fear and confusion’ among corporate leaders
+
+date: 2025-01-25, from: Hawaii Tribune Harold
+
+
+				<p>More than 200 diversity officers, some from Fortune 500 companies and some from nonprofits, gathered last summer at the New York University School of Law and on video to talk about the future of their diversity, equity and inclusion, or DEI, programs, which had become a legal and social target. Anxiously, they wondered how to protect themselves. Did they need to rethink internship programs for underrepresented workers, or drop certain diversity language from their websites?</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/trumps-dei-order-creates-fear-and-confusion-among-corporate-leaders/>
+
+---
+
+## Hawaii chief justice delivers final State of Judiciary speech
+
+date: 2025-01-25, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii State Judiciary needs money to design a new courthouse in Wai&#0173;mea, add a District Court judge in Kona and address a &#8220;critical shortage&#8221; of court-appointed counsel in criminal and termination of parental rights cases, Hawaii Supreme Court Chief Justice Mark E. Recktenwald told state lawmakers Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/25/hawaii-news/hawaii-chief-justice-delivers-final-state-of-judiciary-speech/>
+
+---
+
+## Trump terminates Fauci’s government security protection
+
+date: 2025-01-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump said Friday that he had terminated taxpayer-financed security protection for Dr. Anthony Fauci, the infectious disease specialist who led the nation through the coronavirus pandemic and received death threats after becoming a target of conservatives.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/trump-terminates-faucis-government-security-protection/>
+
+---
+
+## Sensing political support, abortion opponents raise ambitions
+
+date: 2025-01-25, from: Hawaii Tribune Harold
+
+
+				<p>Anti-abortion activists are charging ahead with their ultimate mission to end all abortions nationwide, freshly emboldened by powerful allies in Washington, a continued Supreme Court majority and legislative opportunities in conservative states.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/sensing-political-support-abortion-opponents-raise-ambitions/>
+
+---
+
+## Ukraine sends volley of drones at Russia, hitting oil refinery
+
+date: 2025-01-25, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Ukraine fired a large volley of exploding drones at Russia on Friday, according to Ukrainian officials and the Russian military, in a barrage that set an oil refinery and pumping station on fire and briefly closed multiple airports, including several serving Moscow.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/ukraine-sends-volley-of-drones-at-russia-hitting-oil-refinery/>
+
+---
+
+## As Washington unveils pandas, China cracks down on their biggest fans
+
+date: 2025-01-25, from: Hawaii Tribune Harold
+
+
+				<p>Visitors descended on Washington&#8217;s National Zoo on Friday to witness the cheery unveiling of two pandas on loan from China. Fans posted photos and videos to social media, as did the zoo under the hashtag #DCPandas.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/as-washington-unveils-pandas-china-cracks-down-on-their-biggest-fans/>
+
+---
+
+## Hamas names four Israeli female soldier hostages to be freed in second swap
+
+date: 2025-01-25, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/JERUSALEM &#8212; Palestinian militant group Hamas announced the names on Friday of four Israeli female soldier hostages to be released in exchange for Palestinian prisoners in the second swap under the ceasefire deal in Gaza.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/hamas-names-four-israeli-female-soldier-hostages-to-be-freed-in-second-swap/>
+
+---
+
+## Trump’s pick for commerce secretary reveals positions at more than 800 companies
+
+date: 2025-01-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Howard Lutnick, the wealthy Wall Street executive whom President Donald Trump has tapped to lead the Department of Commerce, detailed a complex network of financial holdings Friday as he prepared to face scrutiny from lawmakers during a confirmation hearing next week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/trumps-pick-for-commerce-secretary-reveals-positions-at-more-than-800-companies/>
+
+---
+
+## This rare plant smells horrible, but people can’t wait to get a whiff
+
+date: 2025-01-25, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; There is no shortage of unpleasant odors in New York City: overflowing garbage on the sidewalk, unmentionable substances in the subway, traffic fumes and more. This week, yet another foul scent has entered the smellscape, but in this case, New Yorkers are flocking to experience it: the blooming of an Amorphophallus gigas, aka a corpse flower, at the Brooklyn Botanic Garden.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/25/features/this-rare-plant-smells-horrible-but-people-cant-wait-to-get-a-whiff/>
+
+---
+
+## Tropical Gardening: Go native in your garden
+
+date: 2025-01-25, from: Hawaii Tribune Harold
+
+
+				<p>It is fun to go native, but you don&#8217;t need to strip down when it comes to incorporating native plants into your Hawaiian garden! Next weekend, Feb. 1 will be a great opportunity to get expert advice from nursery folks hailing from around the island according to Jennifer Snyder of Orchid People.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/01/25/features/tropical-gardening-go-native-in-your-garden/>
+
+---
+
+## Hegseth narrowly wins confirmation to become US defense secretary
+
+date: 2025-01-25, updated: 2025-01-26, from: Marianas Variety
+
+WASHINGTON (Reuters) — Pete Hegseth narrowly secured enough votes on Friday to become the next U.S. defense secretary, a major victory for President Donald Trump after fierce opposition from Democrats and even some Republicans to his controversial nominee. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/hegseth-narrowly-wins-confirmation-to-become-us-defense-secretary/article_744de464-daec-11ef-b773-53fb6226ebbb.html>
+
+---
+
+## Mexico refuses US military flight deporting migrants
+
+date: 2025-01-25, updated: 2025-01-26, from: Marianas Variety
+
+WASHINGTON/MEXICO CITY (Reuters) — Mexico has refused a request from President Donald Trump's administration to allow a U.S. military aircraft deporting migrants to land in the country, a U.S. official and a Mexican official told Reuters. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/mexico-refuses-us-military-flight-deporting-migrants/article_017cf420-daec-11ef-a36d-07e636f1c261.html>
+
+---
+
+## UH Alumni: Nordstrom manager credits job to relationship skills built at UH
+
+date: 2025-01-25, from: University of Hawaiʻi News
+
+<p>A <abbr>UH</abbr> business club helped alumna Jarenn Murakami get her first internship.</p>
+The post <a href="https://www.hawaii.edu/news/2025/01/24/uh-alumni-jarenn-murakami/">UH Alumni: Nordstrom manager credits job to relationship skills built at <abbr>UH</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/01/24/uh-alumni-jarenn-murakami/>
 

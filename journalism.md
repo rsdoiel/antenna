@@ -1,11 +1,48 @@
 ---
 title: journalism
-updated: 2025-01-31 07:05:23
+updated: 2025-02-01 07:06:26
 ---
 
 # journalism
 
-(date: 2025-01-31 07:05:23)
+(date: 2025-02-01 07:06:26)
+
+---
+
+## Westwood Food Scavenger Hunt!
+
+date: 2025-01-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/01/31/westwood-food-scavenger-hunt/>
+
+---
+
+## Grammys 2025
+
+date: 2025-01-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/tag/grammys-2025>
+
+---
+
+## UCLA Law hosts climate change, public policy panel with former Canadian minister
+
+date: 2025-01-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+A former Canadian cabinet minister told climate activists to keep fighting despite a currently unfavorable political background at a Jan. 22 law school event. 
+The Emmett Institute, a UCLA Law program focusing on environmental law, hosted Catherine McKenna &#8211; who was minister of environment and climate change in Canada &#8211; at the event. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/31/ucla-law-hosts-climate-change-public-policy-panel-with-former-canadian-minister/>
 
 ---
 
@@ -1083,4 +1120,17 @@ A 92-key historic Bösendorfer piano was unloaded at the UCLA Herb Alpert School
 <br> 
 
 <https://dailybruin.com/2025/01/25/sinatra-sisters-donate-frank-sinatras-celebrated-piano-to-ucla/>
+
+---
+
+## Chon Noriega appointed interim dean of UCLA School of Theater, Film and Television
+
+date: 2025-01-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+Chon Noriega is set to become the interim dean of the UCLA School of Theater, Film and Television.
+Noriega, the former director of UCLA&#8217;s Chicano Studies Research Center, will hold the position from Feb. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/24/chon-noriega-appointed-interim-dean-of-ucla-school-of-theater-film-and-television/>
 

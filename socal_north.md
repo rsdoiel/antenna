@@ -1,11 +1,171 @@
 ---
 title: socal north
-updated: 2025-01-31 07:05:21
+updated: 2025-02-01 07:06:23
 ---
 
 # socal north
 
-(date: 2025-01-31 07:05:21)
+(date: 2025-02-01 07:06:23)
+
+---
+
+## Large black bear lured out from under Altadena home with rotisserie chicken, peanut butter, other treats
+
+date: 2025-01-31, updated: 2025-02-01, from: The LAist
+
+The 525-pound male was relocated to the Angeles National Forest after being found in the crawl space of the evacuated home. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/large-black-bear-lured-out-from-under-altadena-home-with-rotisserie-chicken-peanut-butter-other-treats>
+
+---
+
+## Black families were disproportionately affected by the Eaton Fire, UCLA report finds
+
+date: 2025-01-31, updated: 2025-02-01, from: The LAist
+
+An aging population of homeowners also complicates recovery of a historic Black community. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/ucla-report-disproportionate-impact-eaton-fire-black-families>
+
+---
+
+## Councilwoman Chosen for Regional Leadership Roles
+
+date: 2025-01-31, from: City of Santa Clarita
+
+<p>Selections Increase Local Representation in State and County Organizations Santa Clarita City Councilwoman Marsha McLean has been tapped to serve as the Chair of the North Los Angeles County Transportation Coalition JPA (NCTC), complementing her regional transportation leadership, as she currently serves as Chair of the Transportation Committee of the San Fernando Valley Council of [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/31/councilwoman-chosen-for-regional-leadership-roles/">Councilwoman Chosen for Regional Leadership Roles</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/31/councilwoman-chosen-for-regional-leadership-roles/>
+
+---
+
+## Hospital project updates from Catalina Island Health
+
+date: 2025-01-31, from: Catalina Islander
+
+The staff and board of Catalina Island Health are focused on the health and wellbeing of this island community in the face of numerous challenges. It is the only critical access hospital in Los Angeles County. Of all the critical access hospitals in the entire state, CIH is one of 15 that does not qualify [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/hospital-project-updates-from-catalina-island-health/>
+
+---
+
+## Oct. 2024: 16.8% fewer visitors
+
+date: 2025-01-31, from: Catalina Islander
+
+By Charles M. Kelly October 2024 saw a 16.8% decrease in visitor traffic compared with October 2023, according to data released by Love Catalina Tourism Authority. November data was released this week and is scheduled to be covered in next week’s edition of the Islander. (Visitors should know that the Tourism Authority is not a [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/oct-2024-16-8-fewer-visitors/>
+
+---
+
+## Insights from your local thalassophile … Pacific Torpedo Rays are amazing, but don’t touch
+
+date: 2025-01-31, from: Catalina Islander
+
+The Pacific Torpedo Ray is one of the most beautiful you can encounter in our waters. The common visitor has been seen by swimmers and divers at the underwater park this past month. One swimmer, Claudia, thought she saw a new memorial slab one day, until it began to move. The beautiful ray was seen [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/insights-from-your-local-thalassophile-pacific-torpedo-rays-are-amazing-but-dont-touch/>
+
+---
+
+## Immigration advocates establish hotline for those arrested under threat of deportation
+
+date: 2025-01-31, updated: 2025-01-31, from: The LAist
+
+The phone number can be used to report apprehensions and connect families to lawyers. 
+
+<br> 
+
+<https://laist.com/news/politics/hotline-for-those-arrested-under-threat-of-deportation>
+
+---
+
+## How Pasadena students, and grown-ups, are making sense of school reopenings
+
+date: 2025-01-31, updated: 2025-02-01, from: The LAist
+
+There are still unanswered questions about rebuilding, how to make up for three weeks of lost in-person schooling, and how the fallout from the fires could exacerbate existing financial challenges. 
+
+<br> 
+
+<https://laist.com/news/education/pasadena-unified-school-district-eaton-fire-los-angeles-recovery>
+
+---
+
+## Trump wants to cut the federal workforce. Who they are and what that means
+
+date: 2025-01-31, updated: 2025-01-31, from: The LAist
+
+President Trump's efforts to cut the federal workforce by 10% might not save as much money as hoped and could have unintended consequences. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-federal-workforce-cuts>
+
+---
+
+## SoCal water use falls to new low partly due to more efficient appliances
+
+date: 2025-01-31, updated: 2025-01-31, from: The LAist
+
+There's been a 45% decrease since the 1980s, according to the latest report. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-water-use-new-low>
+
+---
+
+## Drone operator to plead guilty in crash that damaged water-dropping plane during Palisades Fire
+
+date: 2025-01-31, updated: 2025-02-01, from: The LAist
+
+Prosecutors said a Culver City man agreed to plead guilty to a misdemeanor charge stemming from the incident that briefly grounded the plane. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/drone-operator-guilty-plea-super-scooper-palisades>
+
+---
+
+## City of Santa Clarita Receives Nationally Acclaimed Finance Award
+
+date: 2025-01-31, from: City of Santa Clarita
+
+<p>The City of Santa Clarita has received the Certificate of Achievement for Excellence in Financial Reporting from the Government Finance Officers Association of the United States and Canada (GFOA) for its Annual Comprehensive Financial Report for Fiscal Year 2022-23. This year marks the 35th consecutive year that the City has received this prestigious award. The [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/01/31/city-of-santa-clarita-receives-nationally-acclaimed-finance-award-2/">City of Santa Clarita Receives Nationally Acclaimed Finance Award</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/01/31/city-of-santa-clarita-receives-nationally-acclaimed-finance-award-2/>
+
+---
+
+## More houses are being built in wildfire-prone areas. Los Angeles has a plan to stop
+
+date: 2025-01-31, updated: 2025-01-31, from: The LAist
+
+Before the wildfire that destroyed thousands of homes, Altadena was already debating a tense question: should new housing be built in places that could burn? 
+
+<br> 
+
+<https://laist.com/news/climate-environment/houses-built-in-wildfire-prone-areas-los-angeles-plan-to-stop>
 
 ---
 
@@ -177,11 +337,11 @@ L.A. had planned to take substantially less from the iconic Eastern Sierra lake 
 
 ---
 
-## Nearly a half dozen SoCal universities advise staff to resist immigration enforcement on campus
+## Nearly a half dozen SoCal universities advise staff on how to handle immigration enforcement on campus
 
-date: 2025-01-30, updated: 2025-01-30, from: The LAist
+date: 2025-01-30, updated: 2025-02-01, from: The LAist
 
-Some California State Universities advised staff not to answer immigration agents’ questions on school grounds and to contact campus police. 
+Some California State Universities are reminding staff of policies in place to refer any questions from immigration agents to campus police. 
 
 <br> 
 
@@ -386,7 +546,7 @@ Researchers contributing to the ASCENT network of air quality sensors observed s
 
 ## Everything you need to know about LA County's free fire debris removal program
 
-date: 2025-01-29, updated: 2025-01-30, from: The LAist
+date: 2025-01-29, updated: 2025-01-31, from: The LAist
 
 Phase 1 has started, but not without controversy. Phase 2 is optional, and residents can choose the contractor they want to work with. 
 
@@ -853,4 +1013,64 @@ A Food and Drug Administration project to promote diversity in clinical studies 
 <br> 
 
 <https://laist.com/news/health/the-fda-pulls-key-dei-initiative-for-cancer-studies-from-its-website>
+
+---
+
+## Reporting on the fire that destroyed my neighborhood
+
+date: 2025-01-25, updated: 2025-01-25, from: The LAist
+
+A reporter navigates losing her Altadena home in the Eaton Fire. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/covering-eaton-fire-destroyed-my-neighborhood>
+
+---
+
+## The Eaton Fire forced them from their homes. Here's what residents took with them
+
+date: 2025-01-25, updated: 2025-01-25, from: The LAist
+
+Many residents in Altadena evacuated not knowing it would be the last time they would see their homes standing. Their decisions about what possessions to take were rushed — or not made at all. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/the-eaton-fire-forced-them-from-their-homes-heres-what-residents-took-with-them>
+
+---
+
+## Will new bond funds be enough to rebuild LA schools — and all of California’s other crumbling schools?
+
+date: 2025-01-25, updated: 2025-01-25, from: The LAist
+
+Some schools destroyed years ago in the Sonoma and Butte fires are just now reopening. The long, expensive process of rebuilding in LA may eat up much of the money voters approved in November for school repairs statewide. 
+
+<br> 
+
+<https://laist.com/news/education/will-new-bond-funds-be-enough-to-rebuild-la-schools-and-all-of-californias-other-crumbling-schools>
+
+---
+
+## Parents want to know: After wildfires, is my child's school safe and clean?
+
+date: 2025-01-25, updated: 2025-01-27, from: The LAist
+
+While some schools in or near wildfire evacuation zones have reopened, some campuses may need ongoing cleaning to keep students and staff safe from smoke and ash. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-pasadena-eaton-fire-palisades-school-burned-down-recovery>
+
+---
+
+## Forecast for heaviest period of rain lasts until Monday afternoon. What we know about risks for mudslides
+
+date: 2025-01-25, updated: 2025-01-26, from: The LAist
+
+The area of biggest concern is around the Eaton Fire. Parts of Malibu and the Pacific Palisades should also be prepared. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/fires-mudslide-risk-palisades-eaton-woodley-tyler-auto-kenneth-sunset-hurst-hughes>
 

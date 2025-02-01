@@ -1,11 +1,91 @@
 ---
 title: home
-updated: 2025-01-31 07:05:24
+updated: 2025-02-01 07:06:27
 ---
 
 # home
 
-(date: 2025-01-31 07:05:24)
+(date: 2025-02-01 07:06:27)
+
+---
+
+## Check Out Our New Segment on California Bountiful
+
+date: 2025-01-31, from: California Grown
+
+<p>We’re so excited about our latest partnership! Don’t miss the CA GROWN Spotlight on California Bountiful. Here at California Grown, we love to share stories about California agriculture, the farmers and the foods that make our state so unique. Our friends at California Bountiful have a similar mission but a different medium &#8211; television! So [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/california-bountiful/" data-wpel-link="internal" target="_self">Check Out Our New Segment on California Bountiful</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/california-bountiful/>
+
+---
+
+## Are You Washing Your Sheets & Bedding Often Enough?
+
+date: 2025-01-31, from: Family Handyman Blog
+
+<p>We know this chore may feel like a pain to do, but it's important to wash your sheets and other bedding regularly. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/when-to-wash-sheets-and-bedding/">Are You Washing Your Sheets &#038; Bedding Often Enough?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/when-to-wash-sheets-and-bedding/>
+
+---
+
+## 15 Things You Never Knew Your Dryer Could Do
+
+date: 2025-01-31, from: Family Handyman Blog
+
+<p>From stubborn pet hair to stinky gym bags and DIY heat packs, your dryer can be your ally in ways you might not have imagined.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/dryer-hacks/">15 Things You Never Knew Your Dryer Could Do</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/dryer-hacks/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-01-31, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Build Custom Closet Shelves With This Step-By-Step Guide
+
+date: 2025-01-31, from: Family Handyman Blog
+
+<p>Transform your cluttered closet with this DIY-friendly project on how to build closet shelves from scratch.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-build-closet-shelves/">Build Custom Closet Shelves With This Step-By-Step Guide</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-build-closet-shelves/>
+
+---
+
+## A Neglected Garage Was Transformed into a Colorful Hangout (with a Hidden Wine Cellar)
+
+date: 2025-01-31, from: Sunset Magazine - Living in the West
+
+A garage was unused and under-utilized until a designer turned it into a colorful living and office space with a hidden cellar. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/colorful-garage-adu-transformation>
 
 ---
 
@@ -18,6 +98,166 @@ From heart-shaped cooking pots to vegan massage candles, your valentine is sure 
 <br> 
 
 <https://www.sunset.com/lifestyle/shopping/valentines-day-gift-idea>
+
+---
+
+## How to Plant and Grow Onions From Seed, Sets, or Seedlings
+
+date: 2025-01-31, from: Homestead and Chil
+
+<p>Onions are fun and easy to grow, once you know how! Come learn everything you need to know to grow onions, with tips from seed to harvest, choosing the best varieties for your garden, curing or preserving onions and more.</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-grow-onions/">How to Plant and Grow Onions From Seed, Sets, or Seedlings</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/how-to-grow-onions/>
+
+---
+
+## This Crunchy, Zesty Snack Is the Most Popular Item at Trader Joe’s
+
+date: 2025-01-31, from: Sunset Magazine - Living in the West
+
+It turns out the most popular products at Trader Joe's right now are chips. See the winners of the 16th Annual Customer Choice Awards. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/trader-joes-16th-annual-customer-choice-awards>
+
+---
+
+## If You See White Flakes In Your Water, Here’s What It Means
+
+date: 2025-01-31, from: Family Handyman Blog
+
+<p>If you notice white flakes in your water, then it could be a sign of a plumbing issue.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/if-you-see-white-flakes-in-your-water-heres-what-it-means/">If You See White Flakes In Your Water, Here&#8217;s What It Means</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/if-you-see-white-flakes-in-your-water-heres-what-it-means/>
+
+---
+
+## Surrealist Jewelry, Inventive Ceramics, and a Giant Wooden Cigarette Bring Whimsy to the Winter Show
+
+date: 2025-01-31, from: Dwell
+
+New York’s annual extravaganza of all things collectible and (mostly) antique delivered everything from Americana to Delftware, in one afternoon. 
+
+<br> 
+
+<https://www.dwell.com/article/winter-show-2025-review-e5b48407>
+
+---
+
+## 16 Things That Will Make Houses Look Dated
+
+date: 2025-01-31, from: Family Handyman Blog
+
+<p>Trends come and go and, before you know it, what you thought was stylish once is now behind the times. If your home has any of these, it’s time for an update!</p>
+<p>The post <a href="https://www.familyhandyman.com/list/outdated-home-decor-design/">16 Things That Will Make Houses Look Dated</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/outdated-home-decor-design/>
+
+---
+
+## 14 Handy Hints That Will Make Measuring Easier and More Accurate
+
+date: 2025-01-31, from: Family Handyman Blog
+
+<p>If you're looking to speed up your projects, you can use these clever tricks to make carpentry measuring faster and better.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/14-handy-hints-that-will-make-measuring-easier-and-more-accurate/">14 Handy Hints That Will Make Measuring Easier and More Accurate</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/14-handy-hints-that-will-make-measuring-easier-and-more-accurate/>
+
+---
+
+## Cleaning
+
+date: 2025-01-31, from: Family Handyman Blog
+
+<p>Clean smarter, not harder! Get tips to banish mold, odors, and more for a spotless home year-round.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/cleaning/">Cleaning</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/cleaning/>
+
+---
+
+## Does Bundling Insurance Actually Lower Costs?
+
+date: 2025-01-31, from: Family Handyman Blog
+
+<p>Bundling your insurance can save you money, and might offer a few other important perks as well. Our team of experts explains how it works.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/does-bundling-insurance-actually-lower-costs/">Does Bundling Insurance Actually Lower Costs?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/does-bundling-insurance-actually-lower-costs/>
+
+---
+
+## For £750K, You Can Set Up Shop in a Converted London Warehouse With a Roof Deck
+
+date: 2025-01-31, from: Dwell
+
+Originally constructed in the 1870s, the revamped building has a charming brick facade and a completely overhauled interior. 
+
+<br> 
+
+<https://www.dwell.com/article/converted-warehouse-home-george-kemp-south-london-real-estate-0db88c85>
+
+---
+
+## Budget Breakdown: This $999K Texas Barn Is Home to a Horse Sanctuary—and the Woman Who Runs It
+
+date: 2025-01-31, from: Dwell
+
+She and her son live in a loft upstairs from stables that accommodate a herd of six aging and disabled horses. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-haven-x-campise-farms-ford-design-horse-sanctuary-e7d7b25e>
+
+---
+
+## 21 of the Best Native Vines for Your Landscape
+
+date: 2025-01-31, from: The Gardener's Path
+
+<p>Transform your garden with native vines that support local wildlife. From the butterfly-attracting crossvine to the fragrant American wisteria, these 21 indigenous climbers add vertical interest and natural charm to any landscape. Find the perfect vine for your region, with options for every growing zone and garden style.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/native-vines-landscape/">21 of the Best Native Vines for Your Landscape</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/native-vines-landscape/>
+
+---
+
+## Ford Recalls 150,00 Bronco SUVs Over Dangerous Rear Shock Issue
+
+date: 2025-01-31, from: Family Handyman Blog
+
+<p>Nearly 150,000 Ford SUVs may have faulty rear shocks. Learn if your car is affected!</p>
+<p>The post <a href="https://www.familyhandyman.com/article/ford-bronco-rear-shocks-recall/">Ford Recalls 150,00 Bronco SUVs Over Dangerous Rear Shock Issue</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/ford-bronco-rear-shocks-recall/>
 
 ---
 
@@ -320,18 +560,6 @@ Zillow revealed the most popular (and unusual) home searches back in December, w
 <br> 
 
 <https://www.sunset.com/home-garden/design/most-popular-style-of-house>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-01-29, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -760,18 +988,6 @@ date: 2025-01-28, from: Yard Life blog
 
 ---
 
-## A Neglected Garage Was Transformed into a Colorful Hangout (with a Hidden Wine Cellar)
-
-date: 2025-01-28, from: Sunset Magazine - Living in the West
-
-A garage was unused and under-utilized until a designer turned it into a colorful living and office space with a hidden cellar. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/colorful-garage-adu-transformation>
-
----
-
 ## This Bright and Open Kitchen Cleverly Conceals Its Appliances
 
 date: 2025-01-28, from: Sunset Magazine - Living in the West
@@ -859,18 +1075,6 @@ date: 2025-01-27, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/press-car-start-stop-button-while-driving/>
-
----
-
-## This Crunchy, Zesty Snack Is the Most Popular Item at Trader Joe’s
-
-date: 2025-01-27, from: Sunset Magazine - Living in the West
-
-It turns out the most popular product at Trader Joe's right now are chips. See the winners of the 16th Annual Customer Choice Awards. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/trader-joes-16th-annual-customer-choice-awards>
 
 ---
 
@@ -1003,4 +1207,77 @@ date: 2025-01-26, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/grow-boneset/>
+
+---
+
+## How to Grow and Care for Xanadu Philodendron
+
+date: 2025-01-25, from: The Gardener's Path
+
+<p>Xanadu philodendron (Thaumatophyllum xanadu) is a grand, elegant type of tree philodendron that's very easy to care for. It has huge, lobed leaves on a plant that can grow up to five feet tall without support. Learn how to grow the dramatic xanadu philodendron as a houseplant in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/grow-xanadu-philodendron/">How to Grow and Care for Xanadu Philodendron</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/grow-xanadu-philodendron/>
+
+---
+
+## 28 Species of Phlox Flowers with Pictures and Names
+
+date: 2025-01-25, from: Yard Life blog
+
+<p>Phlox flowers are renowned for their vibrant colors, delightful fragrances, and diverse varieties. These perennial plants thrive in gardens and ... </p>
+<p class="read-more-container"><a title="28 Species of Phlox Flowers with Pictures and Names" class="read-more button" href="https://ownyardlife.com/28-species-of-phlox-flowers-with-pictures-and-names/#more-22888" aria-label="Read more about 28 Species of Phlox Flowers with Pictures and Names">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/28-species-of-phlox-flowers-with-pictures-and-names/">28 Species of Phlox Flowers with Pictures and Names</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/28-species-of-phlox-flowers-with-pictures-and-names/>
+
+---
+
+## Phlox Flowers Care and Growing Guide (Most Detailed)
+
+date: 2025-01-25, from: Yard Life blog
+
+<p>Phlox flowers are a beloved addition to gardens worldwide, admired for their bright, colorful blooms and sweet fragrance. Known for ... </p>
+<p class="read-more-container"><a title="Phlox Flowers Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/phlox-flowers-care-and-growing-guide-most-detailed/#more-22884" aria-label="Read more about Phlox Flowers Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/phlox-flowers-care-and-growing-guide-most-detailed/">Phlox Flowers Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/phlox-flowers-care-and-growing-guide-most-detailed/>
+
+---
+
+## Fittonia Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-01-25, from: Yard Life blog
+
+<p>Fittonia, commonly known as the nerve plant, is a captivating houseplant with vibrant, vein-like patterns on its leaves that come ... </p>
+<p class="read-more-container"><a title="Fittonia Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/fittonia-plant-care-and-growing-guide-most-detailed/#more-22880" aria-label="Read more about Fittonia Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/fittonia-plant-care-and-growing-guide-most-detailed/">Fittonia Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/fittonia-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## How I prepare my vegetable beds for planting
+
+date: 2025-01-25, from: Greg Alder's blog, Yard Post
+
+<p>A handful of years ago, I wrote a post about my routine of not tilling, fluffing, loosening the dirt in my vegetable beds (&#8220;Don&#8217;t dig your garden&#8221;). I still don&#8217;t turn over the dirt or incorporate compost or manure into my vegetable beds after 11 years of growing in the same beds. My practice is [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/how-i-prepare-my-vegetable-beds-for-planting/">How I prepare my vegetable beds for planting</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/how-i-prepare-my-vegetable-beds-for-planting/>
 

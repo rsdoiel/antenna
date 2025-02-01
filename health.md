@@ -1,11 +1,11 @@
 ---
 title: health
-updated: 2025-01-31 07:05:25
+updated: 2025-02-01 07:06:27
 ---
 
 # health
 
-(date: 2025-01-31 07:05:25)
+(date: 2025-02-01 07:06:27)
 
 ---
 
@@ -342,4 +342,18 @@ BackgroundCarbapenem-resistant Klebsiella pneumoniae (CRKP) is a critical pathog
 <br> 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2024.1528017>
+
+---
+
+## Does Gatorade Cause Kidney Stones?
+
+date: 2025-01-25, from: The Kidney Dietitian
+
+<p>It is common knowledge that hydration is important for kidney stones. But what fluids are the best? Can Gatorade contribute to and cause kidney stone formation? While Gatorade can have advantages for people who sweat a lot during intense exercise, gatorade could cause kidney stones in susceptible people. Read on to learn why hydration is [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/is-gatorade-good-for-kidney-stones/">Does Gatorade Cause Kidney Stones?</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<br> 
+
+<https://www.thekidneydietitian.org/is-gatorade-good-for-kidney-stones/>
 

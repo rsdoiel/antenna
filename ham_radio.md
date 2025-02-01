@@ -1,11 +1,83 @@
 ---
 title: ham radio
-updated: 2025-01-31 07:05:21
+updated: 2025-02-01 07:06:23
 ---
 
 # ham radio
 
-(date: 2025-01-31 07:05:21)
+(date: 2025-02-01 07:06:23)
+
+---
+
+## Long Time Ham Radio Outlet Employee Honored for 60 Years in Amateur Radio
+
+date: 2025-01-31, from: Amateur Radio Relay League News
+
+<p>Paul Szczerbinski, W9KHO, an employee of Ham Radio Outlet in Milwaukee, Wisconsin, received a Certificate of Honor from HRO President Robert Ferrero, W6KR, for 60 years as an amateur radio operator. This is just the second time the award has been presented.</p><p>Szczerbinski’s history in radio dates to 1964, when, after being honorably discharged from the United States Air Force, he began working for...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/long-time-ham-radio-outlet-employee-honored-for-60-years-in-amateur-radio>
+
+---
+
+## NCJ North American CW Sprint is This Weekend
+
+date: 2025-01-31, from: Amateur Radio Relay League News
+
+<p><em>By Ward Silver, NØAX</em></p><p>Imagine a weekend without a single full-bore pro football game. (American football, my DX and soccer-aficionado friends.) Not one. No hours of pre-game jabber. No amazing on-screen graphics and gadgets. No breathless half-time reports or injury updates. What is a right-thinking person to do? How about the CW Sprint?</p><p>The <i>NCJ</i> North American CW Sprint runs on Saturday evening, F...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/ncj-north-american-cw-sprint-is-this-weekend>
+
+---
+
+## ARRL Teachers Institute a Success on Staten Island
+
+date: 2025-01-31, from: Amateur Radio Relay League News
+
+<p>ARRL The National Association for Amateur Radio® celebrates that the first field session of the ARRL Teachers Institute on Wireless Technology reached nine New York City area educators, but the ripple effects will reach thousands of students. The session was held at the Staten Island Technical High School, home of a thriving and active amateur radio club. It was led in part by Everton Henriques...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-teachers-institute-a-success-on-staten-island>
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-01-31, from: Amateur Radio Relay League News
+
+<p>Solar Update Report January 30, 2025</p><p>The sun has been moderately active this past week. The greater than 2 MeV (solar particle event) electron flux at geostationary orbit is expected to remain mostly at normal to moderate levels January 30 - 31. A coronal hole high-speed stream is expected to arrive February 1. Particle injection during this time will likely elevate the 2 MeV electron flux to hi...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report>
+
+---
+
+## Changes in the ARRL Utah Section
+
+date: 2025-01-31, from: Amateur Radio Relay League News
+
+<p>Brett Pruitt, K7BDP, has been named the new Section Manager of the ARRL Utah Section. He has previously served as the Section Emergency Coordinator and has been active in leadership of his local Amateur Radio Emergency Service® (ARES®) group. Pruitt has been instrumental in expanding use of AREDN networks within Utah.</p><p>Pruitt was appointed to the role effective February 1, 2025. The change comes ...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/changes-in-the-arrl-utah-section>
+
+---
+
+## Warm Up at 2025 Orlando HamCation®, February 7 – 9
+
+date: 2025-01-31, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/warm-up-at-2025-orlando-hamcation-february-7-9>
 
 ---
 

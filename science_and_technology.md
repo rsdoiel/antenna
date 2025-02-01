@@ -1,11 +1,361 @@
 ---
 title: science and technology
-updated: 2025-01-31 07:05:22
+updated: 2025-02-01 07:06:24
 ---
 
 # science and technology
 
-(date: 2025-01-31 07:05:22)
+(date: 2025-02-01 07:06:24)
+
+---
+
+## This Sculpt OS video walkthrough explains how to use Sculpt OS
+
+date: 2025-01-31, from: OS News
+
+We talk about the Genode project and Sculpt OS quite regularly on OSNews, but every time I&#8217;ve tried using Sculpt OS, I&#8217;ve always found it so different and so unique compared to everything else that I just couldn&#8217;t wrap my head around it. I assume this stems from nothing but my own shortcomings, because the Genode project often hammers on the fact that Sculpt OS is in daily-driver use by a lot of people within and without the project, so there must be something here just not clicking for me. Well, it seems I&#8217;m actually not the only one with difficulties getting started with Sculpt OS&#8217; unique structure and interface, because Norman Feske, co-founder of Genode Labs, has published a lengthy, detailed, but very interesting and easy to follow screencast explaining exactly how to use Sculpt OS and its unique features and characteristics. Even though Sculpt OS has been in routine daily use for years now, many outside observers still tend to perceive it as fairly obscure because it does not follow the usual preconceptions of a consumer-oriented operating system. Extensive documentation exists, but it leaves a fairly technical impression at a cursory glance, which may scare some people away. The screencast below aims at making the system a little bit more approachable. It walks you through the steps of downloading, installing, booting the system image, navigating the administrative user interface, and interactively extending and customizing the system. The tour is wrapped up with the steps for creating your personal sculpted OS on a bootable USB stick. ↫ Norman Feske After watching this, I genuinely feel I have much better grasp of how to use Sculpt OS and just how powerful it really is, and that it&#8217;s really not as difficult to use as it may look at first glance. The next time I set some time aside for Sculpt OS, I feel I&#8217;ll have a much better grasp of what to do and how to use it properly. 
+
+<br> 
+
+<https://www.osnews.com/story/141663/this-sculpt-os-video-walkthrough-explains-how-to-use-sculpt-os/>
+
+---
+
+## Dell ends hybrid work policy, demands return-to-office despite remote work pledge
+
+date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
+
+<h4>That email chain could have been a 30-second chit-chat, says IT giant</h4> <p>Dell Technologies intends to end its hybrid work arrangement in March, requiring those previously allowed to toil from home part-time to spend their entire five-day work week within corporate walls.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/>
+
+---
+
+## Building a (T1D) smartwatch from scratch
+
+date: 2025-01-31, from: OS News
+
+If you have type 1 diabetes, you need to keep track of and manage your blood glucose levels closely, as if these levels dip too low, it can quickly spiral into a medical emergency. Andrew Childs&#8217; 9 year old son has type 1 diabetes, and Childs was unhappy with any of the current offerings on the market for children to keep track of their blood glucose levels. Most people suggested an Apple Watch, but he found the Apple Watch &#8220;too much device&#8221; for a kid, something I personally agree with. It ships with so many shiny features and apps and notifications. It’s beautifully crafted. It’s also way too distracting for a kid while they’re at school. Secondly, it doesn’t provide a good, reliable view of his CGM data. The Dexcom integration is often backgrounded, doesn’t show the chart, only the number and an arrow. People use hacks like creating calendar events just to see up-to-date data. And the iOS settings, Screen Time, and notification systems have ballooned into a giant ball of complexity. What we need is something simple. ↫ Andrew Childs And so Childs set out to design and prototype a smartwatch just for his son to wear, trying to address the shortcomings of other offerings on the market along the way, and possibly even bring it to market for other people in similar situations. After six months, he managed to create several prototypes, with both the software and hardware designed from the ground up, that he and his son still wear to this day, to great satisfaction. Since Childs didn&#8217;t really know where to go from there and how to turn what he had into an actual product people could be, he decided to document his effort online. In the process, he had to overcome a ton of hurdles, from iOS&#8217; strict BLE limitations, difficult-to-reach soldering points that can&#8217;t be moved due to the small size of the PCB, optimising the battery life, dealing with glass manufacturing, and many other issues, big and small. Oh and also, he was a software engineer, not a hardware one, so he had to learn a lot of new skills, from working with 3D modeling to PCB design. In the end, though, he&#8217;s now got a few devices that look quite professionally made, that are incredibly easy to repair, and that are focused solely on those things he and his son need. This project has increased the quality of life for his son, and that&#8217;s genuinely all that really matters here. 
+
+<br> 
+
+<https://www.osnews.com/story/141661/building-a-t1d-smartwatch-from-scratch/>
+
+---
+
+## NASA's Starliner Astronauts Take Their First Spacewalk Together After Roughly Eight Months on the ISS
+
+date: 2025-01-31, from: Smithsonian Magazine
+
+The nearly 5.5-hour feat set a record for astronaut Sunita Williams, who became the woman with the most time spent on spacewalks in history 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/nasas-starliner-astronauts-take-their-first-spacewalk-together-after-roughly-eight-months-on-the-ISS-180985953/>
+
+---
+
+## NASA to Talk Science, Tech Aboard Next Intuitive Machines Moon Flight
+
+date: 2025-01-31, from: NASA breaking news
+
+NASA will host a media teleconference at 1 p.m. EST Friday, Feb. 7, to discuss the agency’s science and technology flying aboard Intuitive Machines’ second flight to the Moon. The mission is part of NASA’s CLPS (Commercial Lunar Payload Services) initiative and Artemis campaign to establish a long-term lunar presence.&#160; Audio of the call will [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-talk-science-tech-aboard-next-intuitive-machines-moon-flight/>
+
+---
+
+## You begged Microsoft to be reasonable. Instead it made Copilot reason-able with OpenAI GPT-o1
+
+date: 2025-01-31, updated: 2025-02-01, from: The Register (UK I.T. News)
+
+<h4>&#39;Magical free&#39; upgrade coincidentally follows M365 price hike</h4> <p>Microsoft has made Think Deeper, OpenAI&#39;s GPT-o1 reasoning model, &#34;free and available for all users of Copilot.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/31/microsoft_open_ai_reasoning_copilot/>
+
+---
+
+## Astronomers Discover an Asteroid With a 1.6 Percent Chance of Hitting Earth in 2032—Here's Why You Shouldn't Panic
+
+date: 2025-01-31, from: Smithsonian Magazine
+
+Further research might bring those odds down to zero, but we will likely have to wait a couple of years to know for sure 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/astronomers-discover-an-asteroid-with-a-16-percent-chance-of-hitting-earth-in-2032-heres-why-you-shouldnt-panic-180985949/>
+
+---
+
+## Researchers Have Deciphered a Nearly 2,000-Year-Old True Crime Papyrus
+
+date: 2025-01-31, from: Smithsonian Magazine
+
+The Greek document details a court case in ancient Palestine involving tax fraud and provides insight into trial preparations in the Roman Empire 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/researchers-have-deciphered-a-nearly-2000-year-old-true-crime-papyrus-180985948/>
+
+---
+
+## How Do Polar Bears Keep Ice Off Their Fur? New Study Reveals the Secret—and It Could Improve Technology
+
+date: 2025-01-31, from: Smithsonian Magazine
+
+The de-icing properties of polar bear sebum could fuel new innovations, scientists say, potentially unlocking alternatives to harmful “forever chemicals” used in ice-resistant coatings today 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/how-do-polar-bears-keep-ice-off-their-fur-new-study-reveals-the-secret-and-it-could-improve-technology-180985941/>
+
+---
+
+## Closing the integration gap for molecules and microsystems
+
+date: 2025-01-31, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">Closing the integration gap for molecules and microsystems</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-01-31T14:35:51-05:00" title="Friday, January 31, 2025 - 14:35" class="datetime">Fri, 01/31/2025 - 14:35</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+            <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/max_325x325/public/gallery/2024-11/mto-hero.jpg.webp?itok=Hxww83ya" alt class="image-style-max-325x325">
+
+
+
+      <figcaption class="padding-bottom-3">
+        
+
+              </figcaption>
+
+    
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p><strong>Microsystem Induced CAtalysis Program seeks innovative proposals by March 20, 2025</strong></p></div>
+      
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Advances in microsystems, biochemistry, and molecular biology have independently driven transformative innovations across fields. Together they could enable even more significant advances; however, combining these disciplines to enable precise and scalable interactions between molecules and microsystems has remained a significant challenge.</p><p>To address this challenge, DARPA announced the <a href="https://drupal.darpa.mil/research/programs/microsystem-induced"><strong>Microsystem Induced CAtalysis (MICA) program</strong></a>. MICA seeks to develop new approaches for integrating molecular catalysts with microsystems, using physical forces generated by the microsystem to influence catalytic activity. A key technical focus of MICA is enabling reaction cascades: sequences of molecular reactions that rely on multiple catalysts working together, much like a relay race where each runner (catalyst) hands off the baton (reactants) smoothly to the next. To succeed, each runner must be precisely positioned, securely anchored in their lane, and adaptable to changing track conditions—just as MICA requires precise placement and robust attachment of catalysts to microsystems, along with adaptive interfaces that can maintain performance under varying conditions.</p><p>MICA researchers will also create advanced modeling and simulation tools to predict how these integrated systems perform under dynamic conditions, enabling unprecedented design accuracy. Proposals from interested organizations are due March 20, 2025, at 1 p.m. ET. A target start date of Aug. 1, 2025, may be assumed for planning purposes.</p><p>“The potential to harness microsystems to enhance the precision and efficiency of molecular catalysts represents a paradigm shift in how we approach biological function and chemical synthesis,” said Dr. Todd Bauer, MICA program manager in DARPA’s Microsystems Technology Office. “MICA is designed to bring together molecular and microsystem engineering in ways that were previously unfeasible, paving the way for new advances in material synthesis, medical therapies, biothreat detection, and beyond.”</p><p>MICA is planned as a two-phase, 39-month program, and will include an ethical, legal, and societal implications plan that includes ongoing discussions regarding potential impacts of the technology following its development.</p><p>For more information, visit the <a href="https://drupal.darpa.mil/research/programs/microsystem-induced">MICA program page</a> or the <a href="https://sam.gov/opp/42da1182aca24582863d91afacd9d8f9/view" target="_blank">Broad Agency Announcement</a> on SAM.gov.</p><p class="text-align-center">###</p><p class="text-align-center">Media with inquiries should contact DARPA Public Affairs at <a href="mailto:outreach@darpa.mil">outreach@darpa.mil</a>.</p><p class="text-align-center">&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+        
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Resources</h4><ul style="list-style-type:disc;margin-left:0;"><li><a href="https://drupal.darpa.mil/research/programs/microsystem-induced"><strong>Program:</strong> MICA: Microsystem Induced CAtalysis</a></li></ul></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/news/2025/closing-integration-gap>
+
+---
+
+## Let’s Encrypt ends support for expiration notification emails
+
+date: 2025-01-31, from: OS News
+
+Since its inception, Let’s Encrypt has been sending expiration notification emails to subscribers that have provided an email address to us. We will be ending this service on June 4, 2025. ↫ Josh Aas on the Let&#8217;s Encrypt website They&#8217;re ending the expiration notification service because it&#8217;s costly, adds a ton of complexity to their systems, and constitutes a privacy risk because of all the email addresses they have to keep on file just for this feature. Considering there are other services that offer this functionality, and the fact many people automate this already anyway, it makes sense to stop sending out emails. Anyway, just a head&#8217;s up. 
+
+<br> 
+
+<https://www.osnews.com/story/141659/lets-encrypt-ends-support-for-expiration-notification-emails/>
+
+---
+
+## Trump’s tariffs, cuts may well put tech in a chokehold, say analysts
+
+date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
+
+<h4>Forrester&#39;s take on President&#39;s economic agenda offers little optimism for the industry</h4> <p>It&#39;s been less than two weeks since Donald Trump returned to the White House, and the effect the administration may have on the global tech industry is still far from clear. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/31/trump_policies_painting_global_tech/>
+
+---
+
+## Two Metal Detectorists in the Netherlands Stumbled Onto Hundreds of Looted Coins From the Roman Conquest of Britain
+
+date: 2025-01-31, from: Smithsonian Magazine
+
+The 404 coins, including 44 from Britain, are believed to be a mix of military pay and the spoils of war, stashed by a Roman soldier after he returned to the European continent 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/two-metal-detectorists-in-the-netherlands-stumbled-onto-hundreds-of-looted-coins-from-the-roman-conquest-of-britain-180985951/>
+
+---
+
+## What’s Up: February 2025 Skywatching Tips from NASA
+
+date: 2025-01-31, from: NASA breaking news
+
+A Month of Bright Planets Venus blazes at its brightest for the year after sunset, then Mars and Jupiter to rule the night amid the menagerie of bright winter stars. Skywatching Highlights All Month – Planet Visibility: Daily Highlights: February 1 – Venus &#038; Moon: The crescent Moon cozies up to brilliant Venus tonight in […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/whats-up-february-2025-skywatching-tips-from-nasa/>
+
+---
+
+## NASA Radar Imagery Reveals Details About Los Angeles-Area Landslides
+
+date: 2025-01-31, from: NASA breaking news
+
+Analysis of data from NASA radar aboard an airplane shows that the decades-old active landslide area on the Palos Verdes Peninsula has expanded. Researchers at NASA’s Jet Propulsion Laboratory in Southern California used data from an airborne radar to measure the movement of the slow-moving landslides on the Palos Verdes Peninsula in Los Angeles County. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/science-research/earth-science/nasa-radar-imagery-reveals-details-about-los-angeles-area-landslides/>
+
+---
+
+## NASA Flight Tests Wildland Fire Tech Ahead of Demo
+
+date: 2025-01-31, from: NASA breaking news
+
+NASA is collaborating with the wildfire community to provide tools for some of the most challenging aspects of firefighting – particularly aerial nighttime operations.&#160;&#160; In the future, agencies could more efficiently use drones, both remotely piloted and fully autonomous, to help fight wildfires. NASA recently tested technologies with teams across the country that will enable [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/nasa-flight-tests-wildland-fire-tech-ahead-of-demonstration/>
+
+---
+
+## Building an Antenna
+
+date: 2025-01-31, from: NASA breaking news
+
+A crane lowers the 112-foot-wide (34-meter-wide) steel framework for the Deep Space Station 23 (DSS-23) reflector dish into position on Dec. 18, 2024, at the Deep Space Network&#8217;s (DSN) Goldstone Space Communications Complex near Barstow, California. Once online in 2026, DSS-23 will be the fifth of six new beam waveguide antennas to be added to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/building-an-antenna/>
+
+---
+
+## Shark Pup Mysteriously Hatches in Aquarium Tank With Only Females. How Could This Birth Happen?
+
+date: 2025-01-31, from: Smithsonian Magazine
+
+Experts say the case is either a rare form of asexual reproduction or an instance of (very) delayed fertilization 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/shark-pup-mysteriously-hatches-in-aquarium-tank-with-only-females-how-could-this-birth-happen-180985944/>
+
+---
+
+## 6 Things to Know About SPHEREx, NASA’s Newest Space Telescope
+
+date: 2025-01-31, from: NASA breaking news
+
+Shaped like a megaphone, the upcoming mission will map the entire sky in infrared light to answer big questions about the universe. Expected to launch no earlier than Thursday, Feb. 27, from Vandenberg Space Force Base in California, NASA’s SPHEREx space observatory will provide astronomers with a big-picture view of the cosmos like none before. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/universe/6-things-to-know-about-spherex-nasas-newest-space-telescope/>
+
+---
+
+## You're going to do <em>what</em> to the feature? Microsoft defines what it means by 'deprecation'
+
+date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
+
+<h4>Self-deprecation much less fun if you&#39;re not joking... or if nobody knows what the heck you mean</h4> <p>Microsoft has explained what it means by &#34;deprecation&#34; – it doesn&#39;t mean &#34;the end&#34;, it means &#34;save the date.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/31/microsoft_defines_what_it_means/>
+
+---
+
+## Chatbot Software Begins to Face Fundamental Limitations
+
+date: 2025-01-31, from: Quanta Magazine
+
+Recent results show that large language models struggle with compositional tasks, suggesting a hard limit to their abilities.            <p>The post <a href="https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/" target="_blank">Chatbot Software Begins to Face Fundamental Limitations</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/>
+
+---
+
+## DeepSeek means companies need to consider AI investment more carefully
+
+date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
+
+<h4>But Chinese startup shakeup doesn&#39;t herald &#39;drastic drop&#39; in need for infrastructure buildout, say analysts</h4> <p><strong>Analysis</strong>  The shockwave following the release of competitive AI models from Chinese startup DeepSeek has led many to question the assumption that throwing ever more money at costly large-scale GPU-based infrastructure delivers the best results.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/31/deepseek_implications/>
+
+---
+
+## Meet the Space Ops Team: Lindsai Bland
+
+date: 2025-01-31, from: NASA breaking news
+
+With more than 17 years of experience at NASA, Lindsai Bland has been an integral part of the agency, contributing to multiple Earth observing system missions at NASA&#8217;s Goddard Space Flight Center in Greenbelt, Maryland. Now, Bland ensures the agency’s communications and navigation resources meet overall needs and requirements as the Mission Operations Interface Lead [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-lindsai-bland/>
 
 ---
 
@@ -25,7 +375,7 @@ Edmond Dédé's 1887 magnum opus "Morgiane"—billed as "the most important oper
 
 date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
 
-<h4>Sunita Williams lays claims to lead for female EVAs</h4> <p>NASA &#39;naut Sunita Williams has broken Peggy Whitson&#39;s record for total spacewalking time for a female astronaut with a trip outside the International Space Station (ISS) to collect samples from the outpost&#39;s exterior.…</p> 
+<h4>Sunita Williams lays claim to lead for female EVAs</h4> <p>NASA &#39;naut Sunita Williams has broken Peggy Whitson&#39;s record for total spacewalking time for a female astronaut with a trip outside the International Space Station (ISS) to collect samples from the outpost&#39;s exterior.…</p> 
 
 <br> 
 
@@ -73,7 +423,7 @@ date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
 
 date: 2025-01-31, from: OS News
 
-The Heirloom Project provides traditional implementations of standard Unix utilities. In many cases, they have been derived from original Unix material released as Open Source by Caldera and Sun. Interfaces follow traditional practice; they remain generally compatible with System&#160;V, although extensions that have become common use over the course of time are sometimes provided. Most utilities are also included in a variant that aims at POSIX conformance. On the interior, technologies for the twenty-first century such as the UTF-8 character encoding or OpenType fonts are supported. ↫ The Heirloom Project website I had never heard of this before, but I like the approach they&#8217;re taking. This isn&#8217;t just taking System V tools and making them work on a modern UNIX-like system as-is; they&#8217;re also improving by them adding support for modern technologies, without actually changing their classic nature and the way old-fashioned users expect them to work. Sadly, the project seems to be dead, as the code hasn&#8217;t been altered since 2008. Perhaps someone new is willing to take up this project? As it currently stands, the tools are available for Linux, Solaris, Open UNIX, HP-UX, AIX, FreeBSD, NetBSD, and OpenBSD, but considering how long the code hasn&#8217;t been touched, I wonder if they still run and work on any of those systems today. They also come in various different versions which comply with different variants of the POSIX standard. 
+Update: there&#8217;s a fork called heirloom-ng that is actually still somewhat maintained and contains some more changes and modernisations compared to the old version. The Heirloom Project provides traditional implementations of standard Unix utilities. In many cases, they have been derived from original Unix material released as Open Source by Caldera and Sun. Interfaces follow traditional practice; they remain generally compatible with System&#160;V, although extensions that have become common use over the course of time are sometimes provided. Most utilities are also included in a variant that aims at POSIX conformance. On the interior, technologies for the twenty-first century such as the UTF-8 character encoding or OpenType fonts are supported. ↫ The Heirloom Project website I had never heard of this before, but I like the approach they&#8217;re taking. This isn&#8217;t just taking System V tools and making them work on a modern UNIX-like system as-is; they&#8217;re also improving by them adding support for modern technologies, without actually changing their classic nature and the way old-fashioned users expect them to work. Sadly, the project seems to be dead, as the code hasn&#8217;t been altered since 2008. Perhaps someone new is willing to take up this project? As it currently stands, the tools are available for Linux, Solaris, Open UNIX, HP-UX, AIX, FreeBSD, NetBSD, and OpenBSD, but considering how long the code hasn&#8217;t been touched, I wonder if they still run and work on any of those systems today. They also come in various different versions which comply with different variants of the POSIX standard. 
 
 <br> 
 
@@ -191,7 +541,7 @@ date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
 
 ## Intel sinks $19B into the red, kills Falcon Shores GPUs, delays Clearwater Forest Xeons
 
-date: 2025-01-31, updated: 2025-01-31, from: The Register (UK I.T. News)
+date: 2025-01-31, updated: 2025-02-01, from: The Register (UK I.T. News)
 
 <h4>Imagine burning through $72B in one year. Did it make Sam Altman the CEO already?</h4> <p>Intel capped off a tumultuous year with a reality check for its product roadmaps.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -287,18 +637,18 @@ date: 2025-01-30, from: Darpa News
     
               <div class="grid-col-fill">
       
-      
-
-              </div>
-      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
       </div>
-</div>
-              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+          <div class="layout__region layout__region--first">
+            <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
     
         
       
       
-      <img src="https://drupal.darpa.mil/sites/default/files/styles/upcoming_events_slide/public/gallery/2025-01/sof-week-2025-3.png?h=9fb2ff0c&amp;itok=MVhx3mAE" width="576" height="324" alt loading="lazy" class="image-style-upcoming-events-slide">
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/max_325x325/public/gallery/2025-01/sof-week-2025-3.png.webp?itok=wsS3J67Z" alt class="image-style-max-325x325">
 
 
 
@@ -310,41 +660,38 @@ date: 2025-01-30, from: Darpa News
     
 
       </div>
-</div>
-              <div class="field__item">
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+        
   <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
     
       
-            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>SOF Week 2025</h4></div>
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p><a class="primary-button-light primary-button-padding" href="https://sofweek.org/registration/" target="_blank"><span>Register</span>&nbsp;<svg id="right" viewBox="0 -7 30 35"><path d="M0.5 9.35772H20.9956L14.2001 2.29941L16.4134 0L27 11L16.4134 22L14.2001 19.7006L20.9956 12.6423H0.5V9.35772Z" fill="currentColor" /></svg></a></p><p>MAY 5-8, 2025&nbsp;<br>Tampa, FL</p><h4>Resources</h4><ul style="list-style-type:disc;margin-left:0;"><li><a href="https://sofweek.org/">SOF Week 2025</a></li></ul></div>
       
 
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
       </div>
 </div>
               <div class="field__item">
   <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
     
       
-            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>The Small Business Programs Office (SBPO) will be attending SOF Week 2025 on MAY 5-8, 2025, in Tampa, FL.</p><p>&nbsp;</p><p><a class="primary-button-light primary-button-padding" href="https://sofweek.org/registration/" target="_blank"><span>Register</span>&nbsp;<svg id="right" viewBox="0 -7 30 35"><path d="M0.5 9.35772H20.9956L14.2001 2.29941L16.4134 0L27 11L16.4134 22L14.2001 19.7006L20.9956 12.6423H0.5V9.35772Z" fill="currentColor" /></svg></a></p></div>
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>The Small Business Programs Office (SBPO) will be attending SOF Week 2025 on MAY 5-8, 2025, in Tampa, FL.</p></div>
       
 
-      </div>
-</div>
-              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--from-library paragraph--view-mode--default">
-    
-              <div class="grid-col-fill">
-      
-      
-            <div class="field field--name-paragraphs field--type-entity-reference-revisions field--label-hidden field__item">
-  <div class="content-width-x-large margin-x-auto desktop:padding-top-0 mobile-lg:padding-top-5 paragraph paragraph--type--right-rail paragraph--view-mode--default">
-    
-      
-
-      </div>
-</div>
-      
-
-              </div>
-      
       </div>
 </div>
           </div> 
@@ -417,9 +764,9 @@ date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
 
 ## Trump admin's purge of US cyber advisory boards was 'foolish,' says ex-Navy admiral
 
-date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+date: 2025-01-30, updated: 2025-01-31, from: The Register (UK I.T. News)
 
-<h4>‘No one was kicked off the NTSB in the middle of investigating a crash’</h4> <p><strong>interview</strong>  Gutting the Cyber Safety Review Board as it was investigating how China&#39;s Salt Typhoon breached American government and telecommunications networks was &#34;foolish&#34; and &#34;bad for national security,&#34; according to retired US Navy Rear Admiral Mark Montgomery.…</p> 
+<h4>‘No one was kicked off the NTSB in the middle of investigating a crash’</h4> <p><strong>interview</strong>  Gutting the Cyber Safety Review Board as it was probing how China&#39;s Salt Typhoon breached American government and telecommunications networks was &#34;foolish&#34; and &#34;bad for national security,&#34; says retired US Navy Rear Admiral Mark Montgomery.…</p> 
 
 <br> 
 
@@ -429,7 +776,7 @@ date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
 
 ## Microsoft catapults DeepSeek R1 into Azure AI Foundry, GitHub
 
-date: 2025-01-30, updated: 2025-01-30, from: The Register (UK I.T. News)
+date: 2025-01-30, updated: 2025-01-31, from: The Register (UK I.T. News)
 
 <h4>Distilled version for Copilot+ PCs on the way, too – 太棒了!!</h4> <p>Microsoft has added the open source DeepSeek R1 LLM to Azure AI Foundry and GitHub, showing that even a lumbering tech giant can be nimble when it needs to be.…</p> 
 
@@ -762,27 +1109,7 @@ date: 2025-01-29, from: Darpa News
   <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
     
       
-            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Given the latest advances in artificial intelligence (AI), the technology has reached a level of maturity, prompting a growing desire for these technologies to be integrated into Department of Defense (DoD) systems.</p><p>AI may be used to give battlefield advantage by helping improve the speed, quality, and accuracy of decision-making while enabling autonomy and assistive automation. Due to the statistical nature of machine learning, prior work has focused primarily on ensuring the robustness of AI-enabled systems at inference time due to natural degradations in performance caused by data distribution shifts, for example, from a highly dynamic deployment environment.</p><p>However, as early as 2014, AI was demonstrated as manipulable. Initial work has further confirmed the theoretical risks of data poisoning, physically constrained adversarial patches for evasion, and model stealing attacks. These attacks are typically tested in simulated or physical environments with relatively pristine control compared to what might be expected on a battlefield.</p><!-- 
-<p>
-            However, as early as 2014, AI has been demonstrated as manipulable given adversary control of the input <a href="#1"><sup>[1]</sup></a>.1 Initial work has further confirmed the theoretical risks of data poisoning<a href="#2"><sup> [2]</sup></a>, physically constrained adversarial patches for evasion <a href="#3"><sup>[3]</sup></a>, and model stealing attacks <a href="#4"><sup>[4]</sup></a>.&nbsp;
-</p>
---><p>These attacks are typically tested in simulated or physical environments with relatively pristine control compared to what might be expected on a battlefield.&nbsp;</p><p>Today, no known reported ecosystem operationally assesses deployed military AI-enabled systems for adversarial vulnerabilities, so the “theoretical” adversarial AI attacks have not been practically demonstrated in operational settings. As a result, the operational security risks of AI-enabled battlefield systems remain unknown.</p><p>Our AI red team will be operationally assessing AIenabled autonomous ground and aerial systems that could be deployed within the next 1-3 years.&nbsp;</p><p>Securing Artificial Intelligence for Battlefield Effective Robustness (SABER) seeks to build an exemplary AI red team equipped with the necessary counter-AI techniques, tools, and technical competency to operationally assess AI-enabled battlefield systems while establishing a sustainable model for an evergreen operational AI red teaming process.</p><p>&nbsp;</p><p><!-- --<h4>Citations
-</p>
-<p id="1">
-    1. <a href="https://arxiv.org/abs/1412.6572" target="_blank">https://arxiv.org/abs/1412.6572</a>&nbsp;
-</p>
-<p id="2">
-    2. <a href="https://arxiv.org/abs/1804.00792" target="_blank">https://arxiv.org/abs/1804.00792&nbsp;</a>
-</p>
-<p id="3">
-    3. <a href="https://arxiv.org/pdf/2104.06728" target="_blank">https://arxiv.org/pdf/2104.06728</a>&nbsp;
-</p>
-<p id="4">
-    4. <a href="https://arxiv.org/abs/2411.10023" target="_blank">https://arxiv.org/abs/2411.10023&nbsp;</a>
-</p>
-<p id="5">
-    5. <a href="https://sam.gov/opp/041e8bd594c1450dbec14a6ca580fbed/view" target="_blank">https://sam.gov/opp/041e8bd594c1450dbec14a6ca580fbed/view</a>
-</p> -->&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></div>
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Given the latest advances in artificial intelligence (AI), the technology has reached a level of maturity, prompting a growing desire for these technologies to be integrated into Department of Defense (DoD) systems.</p><p>AI may be used to give battlefield advantage by helping improve the speed, quality, and accuracy of decision-making while enabling autonomy and assistive automation. Due to the statistical nature of machine learning, prior work has focused primarily on ensuring the robustness of AI-enabled systems at inference time due to natural degradations in performance caused by data distribution shifts, for example, from a highly dynamic deployment environment.</p><p>However, as early as 2014, AI was demonstrated as being manipulable by adversary control of the input. Initial work has further confirmed the theoretical risks of data poisoning, physically constrained adversarial patches for evasion, and model stealing attacks. These attacks are typically tested in simulated or physical environments with relatively pristine control compared to what might be expected on a battlefield.</p><p>Today, there is no known reported capability that operationally assesses deployed military AI-enabled systems for adversarial vulnerabilities, so the “theoretical” adversarial AI attacks have not been practically demonstrated in operational settings. As a result, the operational security risks of AI-enabled battlefield systems, such as autonomous ground and aerial systems, remain unknown.</p><p>Securing Artificial Intelligence for Battlefield Effective Robustness (SABER) aims to build an exemplar AI red team equipped with the necessary counter-AI techniques, tools, and technical competency to operationally assess AI-enabled battlefield systems while establishing a sustainable model for an operational AI red teaming process for the DoD.</p><p>&nbsp;</p></div>
       
 
       </div>
@@ -790,7 +1117,24 @@ date: 2025-01-29, from: Darpa News
       </div>
     
           <div class="layout__region layout__region--second">
-          <div class="content-width-x-large margin-x-auto paragraph paragraph--type--from-library paragraph--view-mode--default">
+          <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/large/public/gallery/2025-01/darpa-program-saber.jpg.webp?itok=rYZBp5jp" alt class="image-style-large">
+
+
+
+      <figcaption class="padding-bottom-3">
+        
+
+              </figcaption>
+
+    
+
+      </div>
+  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--from-library paragraph--view-mode--default">
     
               <div class="grid-col-fill">
       
@@ -841,6 +1185,14 @@ date: 2025-01-29, from: Darpa News
 
               </div>
       
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Opportunity&nbsp;</h4><p>DARPA-SN-25-39</p><p><strong>Publication: </strong>Jan. 29, 2025<br><strong>Deadline:</strong> March 14, 2025</p><p><a class="primary-button-light" href="https://sam.gov/opp/63ba32b6553844fdbda208c6aae825ba/view" target="_blank">Future program</a></p><p>&nbsp;</p></div>
+      
+
       </div>
 
       </div>
@@ -1450,11 +1802,36 @@ date: 2025-01-28, from: Darpa News
       </div>
     
           <div class="layout__region layout__region--first">
-          
+            <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/max_325x325/public/gallery/2025-01/SXSW-2025-2.png.webp?itok=m6WJNTvO" alt class="image-style-max-325x325">
+
+
+
+      <figcaption class="padding-bottom-3">
+        
+
+              </figcaption>
+
+    
+
+      </div>
+
       </div>
     
           <div class="layout__region layout__region--second">
         
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p><a class="primary-button-light primary-button-padding" href="https://www.sxsw.com/attend/" target="_blank"><span>Register</span>&nbsp;<svg id="right" viewBox="0 -7 30 35"><path d="M0.5 9.35772H20.9956L14.2001 2.29941L16.4134 0L27 11L16.4134 22L14.2001 19.7006L20.9956 12.6423H0.5V9.35772Z" fill="currentColor" /></svg></a></p><p>March 7, 2025<br>Austin, TX</p><h4>Resources</h4><ul style="list-style-type:disc;margin-left:0;"><li><a href="https://www.sxsw.com/">SXSW 2025</a></li></ul></div>
+      
+
+      </div>
+
       </div>
     
           <div class="layout__region layout__region--bottom">
@@ -1467,58 +1844,13 @@ date: 2025-01-28, from: Darpa News
       
       </div>
 </div>
-              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
-    
-        
-      
-      
-      <img src="https://drupal.darpa.mil/sites/default/files/styles/upcoming_events_slide/public/gallery/2025-01/SXSW-2025-2.png?h=9fb2ff0c&amp;itok=mQRL1-1e" width="576" height="324" alt loading="lazy" class="image-style-upcoming-events-slide">
-
-
-
-      <figcaption class="padding-bottom-3">
-        
-
-              </figcaption>
-
-    
-
-      </div>
-</div>
-              <div class="field__item">
-  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
-    
-      
-            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>SXSW 2025</h4></div>
-      
-
-      </div>
-</div>
               <div class="field__item">
   <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
     
       
-            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>The Small Business Programs Office (SBPO) will be attending SXSW 2025 on March 7-15, 2025, in Austin, TX.</p><p>&nbsp;</p><p><a class="primary-button-light primary-button-padding" href="https://www.sxsw.com/attend/" target="_blank"><span>Register</span>&nbsp;<svg id="right" viewBox="0 -7 30 35"><path d="M0.5 9.35772H20.9956L14.2001 2.29941L16.4134 0L27 11L16.4134 22L14.2001 19.7006L20.9956 12.6423H0.5V9.35772Z" fill="currentColor" /></svg></a></p></div>
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>The Small Business Programs Office (SBPO) will be attending SXSW 2025 on March 7-15, 2025, in Austin, TX.</p><p>&nbsp;</p></div>
       
 
-      </div>
-</div>
-              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--from-library paragraph--view-mode--default">
-    
-              <div class="grid-col-fill">
-      
-      
-            <div class="field field--name-paragraphs field--type-entity-reference-revisions field--label-hidden field__item">
-  <div class="content-width-x-large margin-x-auto desktop:padding-top-0 mobile-lg:padding-top-5 paragraph paragraph--type--right-rail paragraph--view-mode--default">
-    
-      
-
-      </div>
-</div>
-      
-
-              </div>
-      
       </div>
 </div>
           </div> 
@@ -2632,4 +2964,64 @@ date: 2025-01-26, from: Darpa News
 <br> 
 
 <https://drupal.darpa.mil/research/opportunities/darpan-sn-25-38>
+
+---
+
+## When a sole maintainer steps down, Linux drivers become orphans
+
+date: 2025-01-25, from: OS News
+
+The Linux kernel has become such an integral, core part of pretty much all aspects of the technology world, and corporate contributions to the kernel make up such a huge chunk of the kernel&#8217;s ongoing development, it&#8217;s easy to forget that some parts of the kernel are still maintained by some lone person in Jacksonville, Nebraska, or whatever. Sadly, we were reminded of this today when the sole maintainer of a few DRM (no, not the bad kind) announced he can no longer maintain the gud, mi0283qt, panel-mipi-dbi, and repaper drivers. Remove myself as maintainer for gud, mi0283qt, panel-mipi-dbi and repaper. My fatigue illness has finally closed the door on doing development of even moderate complexity so it&#8217;s sad to let this go. ↫ Noralf Trønnes There must be quite a few obscure parts of the Linux kernel that are of no interest to the corporate world, and thus remain maintained by individuals in their free time, out of some personal need or perhaps a sense of duty. If one such person gives up their role as maintainer, for whatever reason, you better hope it&#8217;s not something your workflow relies, because if no new maintainer is found, you will eventually run into trouble. I hope Trønnes gets better soon, and if not, that someone else can take over from him to maintain these drivers. The gud driver seems like a really neat tool for homebrew projects, and it&#8217;d be sad to see it languish as the years go by. 
+
+<br> 
+
+<https://www.osnews.com/story/141613/when-a-sole-maintainer-steps-down-linux-drivers-become-orphans/>
+
+---
+
+## Someone is slipping a hidden backdoor into Juniper routers across the globe, activated by a magic packet
+
+date: 2025-01-25, updated: 2025-01-25, from: The Register (UK I.T. News)
+
+<h4>Who could be so interested in chips, manufacturing, and more, in the US, UK, Europe, Russia...</h4> <p>Someone has been quietly backdooring selected Juniper routers around the world in key sectors including semiconductor, energy, and manufacturing, since at least mid-2023.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/25/mysterious_backdoor_juniper_routers/>
+
+---
+
+## Android 16 Beta 1 has started rolling out for Pixel devices
+
+date: 2025-01-25, from: OS News
+
+Basically, this seems to mean applications will no longer be allowed to limit themselves to phone size when running on devices with larger screens, like tablets. Other tidbits in this first beta include predictive back support for 3-button navigation, support for the Advanced Professional Video codec from Samsung, among other things. It&#8217;s still quite early in the release process, so more is sure to come, and some things might not make it to the final release at all. 
+
+<br> 
+
+<https://www.osnews.com/story/141611/android-16-beta-1-has-started-rolling-out-for-pixel-devices/>
+
+---
+
+## When Russian Radar Mistook a Norwegian Scientific Rocket for a U.S. Missile, the World Narrowly Avoided Nuclear War
+
+date: 2025-01-25, from: Smithsonian Magazine
+
+The Norwegian rocket incident, which took place on this day in 1995, marked the only known activation of a nuclear briefcase in response to a possible attack 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/when-russian-radar-mistook-a-norwegian-scientific-rocket-for-a-us-missile-the-world-narrowly-avoided-nuclear-war-180985836/>
+
+---
+
+## UK telco TalkTalk confirms probe into alleged data grab underway
+
+date: 2025-01-25, updated: 2025-01-25, from: The Register (UK I.T. News)
+
+<h4>Spinner says crim&#39;s claims &#39;very significantly overstated&#39;</h4> <p>UK broadband and TV provider TalkTalk says it&#39;s currently investigating claims made on cybercrime forums alleging data from the company was up for grabs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/01/25/uk_telco_talktalk_confirms_investigation/>
 

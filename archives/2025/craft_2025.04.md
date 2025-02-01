@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-01-31 07:05:25
+updated: 2025-02-01 07:06:28
 ---
 
 # craft
 
-(date: 2025-01-31 07:05:25)
+(date: 2025-02-01 07:06:28)
+
+---
+
+## New ‘Temple Chair’ Video from Peter Galbert
+
+date: 2025-01-31, from: Lost Arg Press blog
+
+Peter Galbert just released a new 8-hour video on making his Temple Chair (from either green or kiln-dried wood). Along with his expert instruction – and Peter is one of the best teachers I&#8217;ve ever encountered – you&#8217;ll get a handbook, as well as full-sized pdf plans drawn by Jeff Lefkowitz. Click through to Peter&#8217;s... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/01/31/new-temple-chair-video-from-peter-galbert/>
 
 ---
 

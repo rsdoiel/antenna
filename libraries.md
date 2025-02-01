@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2025-01-31 07:05:24
+updated: 2025-02-01 07:06:26
 ---
 
 # libraries
 
-(date: 2025-01-31 07:05:24)
+(date: 2025-02-01 07:06:26)
+
+---
+
+## A Red-Carpet Affair: Celebrating Public Domain Day 2025 in 1929 Hollywood Style
+
+date: 2025-01-31, from: Internet Archive Blog
+
+Lights, camera, preservation! On a star-studded evening at the Internet Archive, we rolled out the red carpet to honor the creative works from 1929 and the sound recordings from 1924 [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/01/31/a-red-carpet-affair-celebrating-public-domain-day-2025-in-1929-hollywood-style/>
 
 ---
 
@@ -436,4 +448,16 @@ After their father’s death, a young man and his two older sisters follow very 
 <br> 
 
 <https://standardebooks.org/ebooks/margaret-oliphant/a-country-gentleman-and-his-family>
+
+---
+
+## Martin Chuzzlewit, by Charles Dickens
+
+date: 2025-01-25, from: Standard Ebooks, new releaases
+
+A young man is spurned by his wealthy grandfather and attempts to make it on his own. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/charles-dickens/martin-chuzzlewit>
 
