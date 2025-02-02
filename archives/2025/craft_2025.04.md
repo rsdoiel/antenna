@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-02-01 07:06:28
+updated: 2025-02-02 07:05:24
 ---
 
 # craft
 
-(date: 2025-02-01 07:06:28)
+(date: 2025-02-02 07:05:24)
+
+---
+
+## Tooley Park Scribers on Sale Until Feb. 8
+
+date: 2025-02-02, from: Lost Arg Press blog
+
+If you haven&#8217;t bought a Tooley Park scriber, this is the week to do it. This little tool is handy for marking chair and table legs for final trimming, plus scribing cabinets and countertops to irregular walls. And it&#8217;s on sale for 20 percent off until Feb. 8. The sale applies only to the scribers... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/02/02/tooley-park-scribers-on-sale-until-feb-8/>
 
 ---
 

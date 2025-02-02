@@ -1,11 +1,35 @@
 ---
 title: libraries
-updated: 2025-02-01 07:06:26
+updated: 2025-02-02 07:05:23
 ---
 
 # libraries
 
-(date: 2025-02-01 07:06:26)
+(date: 2025-02-02 07:05:23)
+
+---
+
+## The utility of electroencephalographic measures in obsession compulsion disorder
+
+date: 2025-02-01, from: ETH Zurich, recently added
+
+Talesh Jafadideh, Alireza; Ejtehadi, Mehdi; Zarei, Asghar; Ansari Esfeh, Maryam; Yazdi-Ravandi, Saeid; Matinnia, Nasrin; Shamsaei, Farshid; Ahmadpanah, Mohammad; Ghaleiha, Ali; Rezaei Niyasar, Asiyeh; Rostami, Reza; Khosrowabadi, Reza 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/704442>
+
+---
+
+## Food recommendation towards personalized wellbeing
+
+date: 2025-02-01, from: ETH Zurich, recently added
+
+Qiao G.; Zhang D.; Zhang N.; Shen X.; Jiao X.; Lu W.; Fan D.; Zhao J.; Zhang H.; Chen W.; Zhu J. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/718150>
 
 ---
 
@@ -448,16 +472,4 @@ After their father’s death, a young man and his two older sisters follow very 
 <br> 
 
 <https://standardebooks.org/ebooks/margaret-oliphant/a-country-gentleman-and-his-family>
-
----
-
-## Martin Chuzzlewit, by Charles Dickens
-
-date: 2025-01-25, from: Standard Ebooks, new releaases
-
-A young man is spurned by his wealthy grandfather and attempts to make it on his own. 
-
-<br> 
-
-<https://standardebooks.org/ebooks/charles-dickens/martin-chuzzlewit>
 

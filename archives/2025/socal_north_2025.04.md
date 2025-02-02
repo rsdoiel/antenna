@@ -1,11 +1,119 @@
 ---
 title: socal north
-updated: 2025-02-01 07:06:23
+updated: 2025-02-02 07:05:20
 ---
 
 # socal north
 
-(date: 2025-02-01 07:06:23)
+(date: 2025-02-02 07:05:20)
+
+---
+
+## Reviving movie watching as a communal experience, one IRL film club at a time
+
+date: 2025-02-02, updated: 2025-02-02, from: The LAist
+
+IRL Movie Club has grown across the country and is rebuilding the film watching experience. Its latest screening is in Long Beach at the Art Theater on Sunday. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/reviving-movie-watching-as-a-communal-experience-one-irl-film-club-at-a-time>
+
+---
+
+## Artificial intelligence is bringing nuclear power back from the dead — maybe even in California
+
+date: 2025-02-02, updated: 2025-02-02, from: The LAist
+
+Big tech energy needs, including for artificial intelligence, has elected officials giving nuclear power a serious reexamination. 
+
+<br> 
+
+<https://laist.com/news/artificial-intelligence-is-bringing-nuclear-power-back-from-the-dead-maybe-even-in-california>
+
+---
+
+## Hours before planned Palisades' public reopening, Bass reverses course
+
+date: 2025-02-01, updated: 2025-02-02, from: The LAist
+
+Reopening of the Palisades was scheduled for 8 a.m. Sunday. But on Saturday night, L.A. Mayor Karen Bass said checkpoints will remain in place, after she secured additional law enforcement resources from Gov. Gavin Newsom. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/palisades-to-reopen-sunday>
+
+---
+
+## Malibu’s ocean life isn’t safe from fire, and the worst effects are yet to come
+
+date: 2025-02-01, updated: 2025-02-01, from: The LAist
+
+Marine biologists prepare to study damage from debris flows, nutrient imbalance and toxic contaminants. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/malibu-fire-impacts-ocean-life>
+
+---
+
+## 17 employees helped save the Getty Villa from the fires. They're telling other museums how it was done
+
+date: 2025-02-01, updated: 2025-02-01, from: The LAist
+
+Museums in New York and Chicago want to hear what worked and what didn’t at the Getty Villa. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/employees-helped-save-the-getty-villa-from-the-fires>
+
+---
+
+## Waymo is taking on LA freeways. Keep calm and carry on
+
+date: 2025-02-01, updated: 2025-02-01, from: The LAist
+
+It's actually easier for Waymo to tackle Los Angeles' freeways than our surface streets. Go figure. 
+
+<br> 
+
+<https://laist.com/news/transportation/waymo-freeways-los-angeles>
+
+---
+
+## Go Fact Yourself quiz for February 1
+
+date: 2025-02-01, updated: 2025-02-01, from: The LAist
+
+Our celebrity panelists Drew Carey and Yesika Salgado go head to head this week on their knowledge of garage rock and the film 'Dirty Dancing.' Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-february-1>
+
+---
+
+## 17 employees helped save the Getty Villa from the fires. They're telling other museums how it was done
+
+date: 2025-02-01, updated: 2025-02-01, from: The LAist
+
+Museums in New York and Chicago want to hear what worked and what didn’t at the Getty Villa. 
+
+<br> 
+
+<https://laist.com/news/employees-helped-save-the-getty-villa-from-the-fires>
+
+---
+
+## Here’s how LA County plans to spend your tax dollars on homelessness
+
+date: 2025-02-01, updated: 2025-02-01, from: The LAist
+
+County officials recommend some cuts to homeless services, part of a changing approach ahead of the Measure A sales tax kicking in in April. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/homeless-funding-prevention-cuts-measure-a-services>
 
 ---
 
@@ -95,11 +203,11 @@ The phone number can be used to report apprehensions and connect families to law
 
 ---
 
-## How Pasadena students, and grown-ups, are making sense of school reopenings
+## 'Halfway normal': Pasadena Unified schools return, with mental health a big focus
 
 date: 2025-01-31, updated: 2025-02-01, from: The LAist
 
-There are still unanswered questions about rebuilding, how to make up for three weeks of lost in-person schooling, and how the fallout from the fires could exacerbate existing financial challenges. 
+There are still unanswered questions about rebuilding, how to make up for three weeks of lost in-person schooling, and how the fallout from the fires could worsen existing financial challenges. 
 
 <br> 
 
@@ -1013,64 +1121,4 @@ A Food and Drug Administration project to promote diversity in clinical studies 
 <br> 
 
 <https://laist.com/news/health/the-fda-pulls-key-dei-initiative-for-cancer-studies-from-its-website>
-
----
-
-## Reporting on the fire that destroyed my neighborhood
-
-date: 2025-01-25, updated: 2025-01-25, from: The LAist
-
-A reporter navigates losing her Altadena home in the Eaton Fire. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/covering-eaton-fire-destroyed-my-neighborhood>
-
----
-
-## The Eaton Fire forced them from their homes. Here's what residents took with them
-
-date: 2025-01-25, updated: 2025-01-25, from: The LAist
-
-Many residents in Altadena evacuated not knowing it would be the last time they would see their homes standing. Their decisions about what possessions to take were rushed — or not made at all. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/the-eaton-fire-forced-them-from-their-homes-heres-what-residents-took-with-them>
-
----
-
-## Will new bond funds be enough to rebuild LA schools — and all of California’s other crumbling schools?
-
-date: 2025-01-25, updated: 2025-01-25, from: The LAist
-
-Some schools destroyed years ago in the Sonoma and Butte fires are just now reopening. The long, expensive process of rebuilding in LA may eat up much of the money voters approved in November for school repairs statewide. 
-
-<br> 
-
-<https://laist.com/news/education/will-new-bond-funds-be-enough-to-rebuild-la-schools-and-all-of-californias-other-crumbling-schools>
-
----
-
-## Parents want to know: After wildfires, is my child's school safe and clean?
-
-date: 2025-01-25, updated: 2025-01-27, from: The LAist
-
-While some schools in or near wildfire evacuation zones have reopened, some campuses may need ongoing cleaning to keep students and staff safe from smoke and ash. 
-
-<br> 
-
-<https://laist.com/news/education/lausd-pasadena-eaton-fire-palisades-school-burned-down-recovery>
-
----
-
-## Forecast for heaviest period of rain lasts until Monday afternoon. What we know about risks for mudslides
-
-date: 2025-01-25, updated: 2025-01-26, from: The LAist
-
-The area of biggest concern is around the Eaton Fire. Parts of Malibu and the Pacific Palisades should also be prepared. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/fires-mudslide-risk-palisades-eaton-woodley-tyler-auto-kenneth-sunset-hurst-hughes>
 

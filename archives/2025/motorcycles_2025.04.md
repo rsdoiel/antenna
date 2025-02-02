@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-02-01 07:06:27
+updated: 2025-02-02 07:05:23
 ---
 
 # motorcycles
 
-(date: 2025-02-01 07:06:27)
+(date: 2025-02-02 07:05:23)
+
+---
+
+## Would You Rock LIVALL’s MC1 Pro Carbon Smart Helmet?
+
+date: 2025-02-02, from: Ride Apart, Electric Motorcycle News
+
+It’s one of the simpler “smart helmets” we’ve seen, and it might actually have some potential. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/749158/livall-mc1-pro-carbon-smart-helmet/>
+
+---
+
+## Honda Monkey and Dax Get Sweet New Colors for 2025, In Some Places
+
+date: 2025-02-01, from: Ride Apart, Electric Motorcycle News
+
+If you want a Monkey in the US, you get one color choice. In Europe, you get three. 
+
+<br> 
+
+<https://www.rideapart.com/news/749154/honda-monkey-dax-colors-europe/>
 
 ---
 
@@ -450,16 +475,4 @@ That's a whole lot of money owed.
 <br> 
 
 <https://www.rideapart.com/news/748489/ktm-insolvency-creditors-2-billion-employees-12-million-dollars/>
-
----
-
-## KTM's Sales Were Down And/Or Even Last Year, Depending on How You Look At It
-
-date: 2025-01-25, from: Ride Apart, Electric Motorcycle News
-
-Are we talking about sales to dealers, or sales to customers? 
-
-<br> 
-
-<https://www.rideapart.com/news/748368/ktm-motorcycle-sales-2024-numbers/>
 

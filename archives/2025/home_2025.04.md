@@ -1,11 +1,101 @@
 ---
 title: home
-updated: 2025-02-01 07:06:27
+updated: 2025-02-02 07:05:23
 ---
 
 # home
 
-(date: 2025-02-01 07:06:27)
+(date: 2025-02-02 07:05:23)
+
+---
+
+## Easy Sourdough Pancakes Recipe (Discard or Active Starter) + Topping Ideas
+
+date: 2025-02-01, from: Homestead and Chil
+
+<p>You're going to love these fluffy, golden sourdough pancakes. You can use discarded sourdough starter or active starter in this recipe. Homemade sourdough pancakes are absolutely delicious, and more nutritious than boxed pancake mix!</p>
+<p>The post <a href="https://homesteadandchill.com/sourdough-pancakes/">Easy Sourdough Pancakes Recipe (Discard or Active Starter) + Topping Ideas</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/sourdough-pancakes/>
+
+---
+
+## How to Grow and Care for Urn Plants (Silver Vase Bromeliad)
+
+date: 2025-02-01, from: The Gardener's Path
+
+<p>Urn plant, aka silver vase, is an epiphytic bromeliad native to the Brazilian rainforests. It features variegated foliage streaked with silver and dramatic pinkish-purple, lily-like blooms. Learn how to grow and care for Aechmea fasciata outdoors in Zones 10 to 11 or as a houseplant in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/grow-urn-plant/">How to Grow and Care for Urn Plants (Silver Vase Bromeliad)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/grow-urn-plant/>
+
+---
+
+## These Braises and Brines Will Instantly Elevate Dinner
+
+date: 2025-02-01, from: Sunset Magazine - Living in the West
+
+Extract all the flavor you can from meat with these braises and brines. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/braises-brines-recipes>
+
+---
+
+## How One Oakland Couple Turned Their Garage into the Guest Suite of Their Dreams
+
+date: 2025-02-01, from: Sunset Magazine - Living in the West
+
+The six-month renovation of the Rockridge Casita in Oakland reveals an adorable space for guests and homeowners alike. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/garage-makeover-guest-suite>
+
+---
+
+## You Can Turn Your Neglected Garage into a Party Pavilion. Here’s How to Do It
+
+date: 2025-02-01, from: Sunset Magazine - Living in the West
+
+When a Pasadena couple wanted to transform a garage into stylish place to host friends—and watch baseball games—designer Liza Reyes stepped up to the plate to create this ultimate party pavilion. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/garage-party-pavilion>
+
+---
+
+## This 3-Car Garage and Boathouse Has a Stunning Surprise Upstairs
+
+date: 2025-02-01, from: Sunset Magazine - Living in the West
+
+The owners of a Montana property originally wanted a three-car garage, but the project evolved into boathouse guest dwelling. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/montana-boathouse-garage-guesthouse>
+
+---
+
+## January in Jacques’ Food Garden
+
+date: 2025-02-01, from: Greg Alder's blog, Yard Post
+
+<p>&#8220;Be Your Own Farmer,&#8221; reads the sticker on the back of Jacques&#8217; truck. And he lives it. And his family reaps the rewards. As do I. I&#8217;ve never visited Jacques&#8217; place without him taking me on a tour and sharing samples of whatever is ripe. What&#8217;s more, even as some of the food plants that [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/january-in-jacques-food-garden/">January in Jacques&#8217; Food Garden</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/january-in-jacques-food-garden/>
 
 ---
 
@@ -1207,77 +1297,4 @@ date: 2025-01-26, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/grow-boneset/>
-
----
-
-## How to Grow and Care for Xanadu Philodendron
-
-date: 2025-01-25, from: The Gardener's Path
-
-<p>Xanadu philodendron (Thaumatophyllum xanadu) is a grand, elegant type of tree philodendron that's very easy to care for. It has huge, lobed leaves on a plant that can grow up to five feet tall without support. Learn how to grow the dramatic xanadu philodendron as a houseplant in this guide. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/plants/houseplants/grow-xanadu-philodendron/">How to Grow and Care for Xanadu Philodendron</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/houseplants/grow-xanadu-philodendron/>
-
----
-
-## 28 Species of Phlox Flowers with Pictures and Names
-
-date: 2025-01-25, from: Yard Life blog
-
-<p>Phlox flowers are renowned for their vibrant colors, delightful fragrances, and diverse varieties. These perennial plants thrive in gardens and ... </p>
-<p class="read-more-container"><a title="28 Species of Phlox Flowers with Pictures and Names" class="read-more button" href="https://ownyardlife.com/28-species-of-phlox-flowers-with-pictures-and-names/#more-22888" aria-label="Read more about 28 Species of Phlox Flowers with Pictures and Names">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/28-species-of-phlox-flowers-with-pictures-and-names/">28 Species of Phlox Flowers with Pictures and Names</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/28-species-of-phlox-flowers-with-pictures-and-names/>
-
----
-
-## Phlox Flowers Care and Growing Guide (Most Detailed)
-
-date: 2025-01-25, from: Yard Life blog
-
-<p>Phlox flowers are a beloved addition to gardens worldwide, admired for their bright, colorful blooms and sweet fragrance. Known for ... </p>
-<p class="read-more-container"><a title="Phlox Flowers Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/phlox-flowers-care-and-growing-guide-most-detailed/#more-22884" aria-label="Read more about Phlox Flowers Care and Growing Guide (Most Detailed)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/phlox-flowers-care-and-growing-guide-most-detailed/">Phlox Flowers Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/phlox-flowers-care-and-growing-guide-most-detailed/>
-
----
-
-## Fittonia Plant Care and Growing Guide (Most Detailed)
-
-date: 2025-01-25, from: Yard Life blog
-
-<p>Fittonia, commonly known as the nerve plant, is a captivating houseplant with vibrant, vein-like patterns on its leaves that come ... </p>
-<p class="read-more-container"><a title="Fittonia Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/fittonia-plant-care-and-growing-guide-most-detailed/#more-22880" aria-label="Read more about Fittonia Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/fittonia-plant-care-and-growing-guide-most-detailed/">Fittonia Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/fittonia-plant-care-and-growing-guide-most-detailed/>
-
----
-
-## How I prepare my vegetable beds for planting
-
-date: 2025-01-25, from: Greg Alder's blog, Yard Post
-
-<p>A handful of years ago, I wrote a post about my routine of not tilling, fluffing, loosening the dirt in my vegetable beds (&#8220;Don&#8217;t dig your garden&#8221;). I still don&#8217;t turn over the dirt or incorporate compost or manure into my vegetable beds after 11 years of growing in the same beds. My practice is [&#8230;]</p>
-<p>The post <a href="https://gregalder.com/yardposts/how-i-prepare-my-vegetable-beds-for-planting/">How I prepare my vegetable beds for planting</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
- 
-
-<br> 
-
-<https://gregalder.com/yardposts/how-i-prepare-my-vegetable-beds-for-planting/>
 

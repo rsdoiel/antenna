@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-02-01 07:06:27
+updated: 2025-02-02 07:05:24
 ---
 
 # retro computing
 
-(date: 2025-02-01 07:06:27)
+(date: 2025-02-02 07:05:24)
+
+---
+
+## Discwasher SpikeMaster
+
+date: 2025-02-01, from: Computer ads from the Past
+
+Meet the Mighty SpikeMaster, Protector of Computers. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/discwasher-spikemaster>
+
+---
+
+## b.log 2025/02/01 - Electricity bill, Enedis, DeepSeek, Defining Sex, Cluck!
+
+date: 2025-02-01, from: Richard Murray's blog
+
+Electricity bill, Enedis, DeepSeek, Defining Sex, Cluck! 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250201>
 
 ---
 
@@ -188,16 +212,4 @@ Where's my bill EDF?, Yet another flood, Glad to be rid of my HP 3630, Playing w
 <br> 
 
 <https://heyrick.eu/blog/index.php?diary=20250126>
-
----
-
-## b.log 2025/01/25 - Fixing my satellite dish, A future project, Sod off Google.
-
-date: 2025-01-25, from: Richard Murray's blog
-
-Fixing my satellite dish, A future project, Sod off Google. 
-
-<br> 
-
-<https://heyrick.eu/blog/index.php?diary=20250125>
 

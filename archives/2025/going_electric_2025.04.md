@@ -1,11 +1,95 @@
 ---
 title: going electric
-updated: 2025-02-01 07:06:28
+updated: 2025-02-02 07:05:24
 ---
 
 # going electric
 
-(date: 2025-02-01 07:06:28)
+(date: 2025-02-02 07:05:24)
+
+---
+
+## We toured the Honda EV Hub in Ohio where the Acura RSX and 0 Series EVs will soon be built [Video]
+
+date: 2025-02-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Honda-EV-Hub-prototypes.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As we enter the second month of 2025, <a href="https://electrek.co/guides/honda/">Honda</a> is inching closer to commencing BEV production at its long-standing US plant in Marysville, Ohio, later this year. That $1 billion transition will begin with the assembly of the recently confirmed Acura RSX EV, followed by the first two models in Honda’s 0 Series lineup. Before that happened, however, Honda gave an exclusive tour of its new EV Hub in Ohio, which included an innovative new approach to modular vehicle assembly, massive mega press machines, and an insightful look into the positive impact Honda has established amongst the residents of The Buckeye State. You can view my whole tour expeirience in the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="acura-rsx,honda,honda-0,honda-0-saloon" data-layer-viewtype="unknown" data-post-id="399577" href="https://electrek.co/2025/02/02/we-toured-honda-ev-hub-ohio-acura-rsx-0-series-evs-built-video/#more-399577" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/02/we-toured-honda-ev-hub-ohio-acura-rsx-0-series-evs-built-video/>
+
+---
+
+## How much will the new Trump tariffs on China increase electric bike prices?
+
+date: 2025-02-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/electric-bikes-collage-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>With the flick of a Sharpie marker,<a href="https://apnews.com/article/trump-tariffs-trade-china-mexico-canada-inflation-753a09d56cd318f2eb1d2efe3c43b7d4"> new tariffs</a> on goods imported from Canada, Mexico, and China were imposed this morning and will take effect next week on February 4, 2025. According to President Trump, the tariffs are intended “to protect Americans”, though nearly all economists agree that they will result in higher prices for consumer goods and increased inflation, devaluing the US dollar.</p>
+
+
+
+<p>The Trump Administration’s new 25% tariffs on goods from Canada and Mexico are larger than the 10% additional tariffs on Chinese goods, but the latter will have the biggest impact on the electric bicycle industry in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,tariffs" data-layer-viewtype="unknown" data-post-id="400049" href="https://electrek.co/2025/02/01/will-the-new-trump-tariffs-on-china-increase-electric-bike-prices/#more-400049" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/01/will-the-new-trump-tariffs-on-china-increase-electric-bike-prices/>
+
+---
+
+## Dannar Power Station concept continues to evolve beyond “just” power
+
+date: 2025-02-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/City-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Dannar keeps adapting its Mobile Power Station to meet the needs of the electrified off road market, bringing power to forests, construction sites, and rural farms when it’s needed. But now, the MPS doing more than just provide the power to do the work – its moving dirt!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-construction-equipment,mobile-charging" data-layer-viewtype="unknown" data-post-id="400016" href="https://electrek.co/2025/02/01/dannar-power-station-concept-continues-to-evolve-beyond-just-power/#more-400016" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/01/dannar-power-station-concept-continues-to-evolve-beyond-just-power/>
+
+---
+
+## Oshkosh airport of the future features autonomous ground support EVs
+
+date: 2025-02-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/osh-kosh.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Leveraging its advanced autonomy stack, <a href="https://electrek.co/2024/09/12/us-postal-service-electric-trucks-are-finally-here-and-drivers-love-them/">Oshkosh</a> corporation’s AeroTech group has debuted a series of electric support vehicles for the “Airport of the Future” that includes this driverless, electric baggage and cargo handler.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aviation,commercial-evs,oshkosh" data-layer-viewtype="unknown" data-post-id="399992" href="https://electrek.co/2025/02/01/oshkosh-airport-of-the-future-features-autonomous-ground-support-evs/#more-399992" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/01/oshkosh-airport-of-the-future-features-autonomous-ground-support-evs/>
+
+---
+
+## Renewables to continue driving US power generation growth – EIA
+
+date: 2025-02-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/pexels-photo-433308.jpeg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Renewable capacity additions, especially solar, will continue to drive the growth of US power generation over the next two years, according to the US Energy Information Administration (EIA). </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="coal,egeb,energy-brief,solar,oil-and-gas,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="399962" href="https://electrek.co/2025/01/31/renewables-us-power-generation-growth-eia/#more-399962" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/31/renewables-us-power-generation-growth-eia/>
 
 ---
 
@@ -1742,116 +1826,4 @@ Uber is committed to an all-EV future. But driving for Uber will be "a good gig"
 <br> 
 
 <https://insideevs.com/news/748544/uber-ceo-davos-evs-avs/>
-
----
-
-## Tesla refuses to do the right thing about ‘Full Self-Driving’ transfers
-
-date: 2025-01-25, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Hardware-4-self-driving-computer.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is refusing to do the right thing about ‘Full Self-Driving’ package transfers and instead holds its own incapacity to deliver the package over the head of its owners.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="399038" href="https://electrek.co/2025/01/25/tesla-refuses-to-do-the-right-thing-about-full-self-driving-transfers/#more-399038" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/01/25/tesla-refuses-to-do-the-right-thing-about-full-self-driving-transfers/>
-
----
-
-## Volvo FM Electric semi trucks helping to fight wildfires in NSW, Australia
-
-date: 2025-01-25, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/electric-volvo-fire_NSW.png?w=1500" /></div><p>The New South Wales Rural Fire Service is putting the new,<a href="https://electrek.co/2024/09/03/volvo-just-launched-an-electric-semi-truck-with-600-km-range/"> 300 km Volvo FM Electric semi truck</a> through its paces as they work to decarbonize their emergency vehicle fleet and keep Australia safe from the devastating effects of <a href="https://electrek.co/2024/07/18/ai-powered-platform-utilities-reduce-wildfires-1m-injection/">wildfires</a>.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="australia,electric-semi-truck,volvo-trucks" data-layer-viewtype="unknown" data-post-id="399112" href="https://electrek.co/2025/01/25/volvo-fm-electric-semi-trucks-helping-to-fight-wildfires-in-nsw-australia/#more-399112" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/01/25/volvo-fm-electric-semi-trucks-helping-to-fight-wildfires-in-nsw-australia/>
-
----
-
-## UAW scores supermajority at BlueOval SK in 2025’s first big labor win
-
-date: 2025-01-25, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/uaw_blueoval-sk.png?w=1500" /></div><p>Last week’s inauguration of President Trump stole the headlines, but it wasn’t the only big election news — a supermajority of workers at BlueOval SK voted to file a petition last week with the National Labor Relations Board to unite with the UAW.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="ford,sk-on,uaw" data-layer-viewtype="unknown" data-post-id="399104" href="https://electrek.co/2025/01/25/uaw-scores-supermajority-at-blueoval-sk-in-2025s-first-big-labor-win/#more-399104" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/01/25/uaw-scores-supermajority-at-blueoval-sk-in-2025s-first-big-labor-win/>
-
----
-
-## RIZON | First medium duty electric dump truck gets to work in Canada
-
-date: 2025-01-25, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/rizon_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Political policies come and go, but total cost of ownership will always trump politics when it comes to managing a commercial fleet. As if to illustrate that point, Canada’s first-ever class 4 medium duty battery electric dump truck was deployed this week!</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,daimler,electric-trucks" data-layer-viewtype="unknown" data-post-id="399088" href="https://electrek.co/2025/01/25/rizon-first-medium-duty-electric-dump-truck-gets-to-work-in-canada/#more-399088" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/01/25/rizon-first-medium-duty-electric-dump-truck-gets-to-work-in-canada/>
-
----
-
-## The GMC Sierra Denali Is The New EV Range King
-
-date: 2025-01-25, from: Inside EVs News
-
-The 8,800-pound electric truck just beat one of the longest-driving sedans in a range test. But that range comes at a price. 
-
-<br> 
-
-<https://insideevs.com/news/748512/gmc-sierra-ev-denali-range-king/>
-
----
-
-## Here are the EVs you can still lease for under $300 a month in January [Updated]
-
-date: 2025-01-25, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Hondas-Prologue-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With more models hitting the market and massive incentives, <a href="https://electrek.co/guides/electric-vehicles/">electric vehicles</a> are just as affordable, if not more, than gas-powered cars. However, with Trump’s transition team reportedly planning to end the EV tax credit, the savings may soon disappear. Check out the EVs you can still lease for under $300 a month in January below.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-lease" data-layer-viewtype="unknown" data-post-id="396598" href="https://electrek.co/2025/01/25/evs-lease-under-300-mo-jan-update/#more-396598" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/01/25/evs-lease-under-300-mo-jan-update/>
-
----
-
-## Awesomely Weird Alibaba EV of the Week: Adult-sized off-road go-kart!
-
-date: 2025-01-25, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/alibaba-off-road-buggy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>So many of the fun electric go-karts I’ve found while window-shopping on Alibaba have been of the <a href="https://electrek.co/2024/04/06/this-dual-steering-wheel-electric-go-kart-looks-like-a-fun-little-divorce-on-wheels/">child-sized variety</a>. To be fair, I’m not opposed to folding my body in ways it shouldn’t in service of a good time, but it’d be nice to get the same experience while maintaining full blood flow to the extremities.</p>
-
-
-
-<p>That’s where today’s find comes in, as a full-size electric go-kart that adults can enjoy, too! It’s both awesome and weird, but perhaps for once, this week’s honoree of the <a href="http://electrek.co/guides/alibaba">Awesomely Weird Alibaba Electric Vehicle of the Week</a> is more of the former and less of the latter!</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="alibaba,go-kart" data-layer-viewtype="unknown" data-post-id="399078" href="https://electrek.co/2025/01/25/awesomely-weird-alibaba-ev-of-the-week-adult-sized-off-road-go-kart/#more-399078" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/01/25/awesomely-weird-alibaba-ev-of-the-week-adult-sized-off-road-go-kart/>
 

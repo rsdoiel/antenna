@@ -1,11 +1,126 @@
 ---
 title: journalism
-updated: 2025-02-01 07:06:26
+updated: 2025-02-02 07:05:22
 ---
 
 # journalism
 
-(date: 2025-02-01 07:06:26)
+(date: 2025-02-02 07:05:22)
+
+---
+
+## Experts discuss fentanyl’s role in overdose deaths, share prevention plans
+
+date: 2025-02-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+California had over 7,000 opioid-related overdose deaths in 2022. Nearly 87% of them were linked to fentanyl. 
+Overdose deaths among young people have been rising for years, said Joseph Friedman, a resident physician and substance abuse researcher at UC San Diego. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/01/experts-discuss-fentanyls-role-in-overdose-deaths-share-prevention-plans/>
+
+---
+
+## Bruin Baking: Winter Holiday Cookies
+
+date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the spirit of winter, join Daily Bruin reporter Nora Gallagher as she revisits the holidays by trying out new Christmas cookie recipes. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/01/bruin-baking-winter-holiday-cookies/>
+
+---
+
+## PRIME: Not just athletes
+
+date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dakotah Tyler started watching astronomy documentaries while rehabilitating a knee injury. He developed a fascination with the cosmos after realizing that his life – just like many planets and stars – was a mere speck in the infinite expanse of the universe. 
+
+<br> 
+
+<https://prime.dailybruin.com/primeblackathletes>
+
+---
+
+## On The Steps Episode 1: Community comes together in aftermath of LA fires
+
+date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+This week, Daily Bruin Video looks at the community response to recent wildfires. We talk to students who evacuated the hill during week one, and we bring you stories of donation events from Altadena to New York. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/31/on-the-steps-episode-1-community-comes-together-in-aftermath-of-la-fires/>
+
+---
+
+## USAC Cultural Affairs commissioner to face USA Judicial Board in Friday hearing
+
+date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+A member of the Undergraduate Students Association Council is set to face an antisemitism allegation before the USA Judicial Board on Friday.
+USAC Cultural Affairs Commissioner Alicia Verdugo has been accused by Bella Brannon, a fourth-year public affairs and religion student, of deliberately not hiring Jewish students &#8211; including Brannon &#8211; who applied to the commission during its fall 2024 hiring cycle. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/31/usac-cultural-affairs-commissioner-to-face-usa-judicial-board-in-friday-hearing/>
+
+---
+
+## The Quad: Students transition their study habits as they start college
+
+date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+The abrupt transition from high school to college may leave Bruins reevaluating their study habits.
+Bradley Bohall, a third-year biology student, said his habit of last-minute cramming was not sustainable for the rigorous quarter system in college. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/31/the-quad-students-transition-their-study-habits-as-they-start-college/>
+
+---
+
+## UCPD arrests 2 people for suspected mail theft from off-campus buildings
+
+date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD arrested two people in connection with the theft of mail from off-campus buildings Friday.
+The crime was reported around 4:30 a.m. Friday. Officers made contact with the suspects at the intersection of Midvale and Levering Avenue, according to an emailed statement from Jeffrey Chobanian, UCPD’s Acting Captain of the Administrative Bureau.&#160;
+Officers recovered pepper spray and what they suspected to be methamphetamine from the suspects, along with multiple objects suspected to be burglary tools – including a hammer, crowbars, pliers, screwdrivers and keys – Chobanian said in the statement.&#160; Mail had been stolen from University Apartments North among other buildings, he added
+The suspects were brought to Los Angeles County jail and face charges of burglary, mail theft, identity theft, misappropriation of lost property, possession of narcotics, possession of drug paraphernalia, possession of burglary tools and possession of tear gas. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/31/ucpd-arrests-2-people-for-suspected-mail-theft-from-off-campus-buildings/>
+
+---
+
+## Regents discuss FAFSA changes for mixed-status families, policing reform for UC
+
+date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+SAN FRANCISCO &#8211; The UC Board of Regents heard a statement from UCLA Chancellor Julio Frenk and discussed new university initiatives, safety plans and updates on academic programs at its Jan. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/31/regents-discuss-fafsa-changes-for-mixed-status-families-policing-reform-for-uc/>
+
+---
+
+## Album review: The Weeknd awaits the next day in his 6th studio album, “Hurry Up Tomorrow”
+
+date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+For The Weeknd, tomorrow has finally arrived.
+Abel Tesfaye – the Canadian superstar who performs under the moniker The Weeknd – released his sixth studio album “Hurry Up Tomorrow” on Friday, which arrives three years after his last full-length LP “Dawn FM.” The new project covers 22 songs over 84 minutes of music and marks the end of a trilogy of The Weeknd’s albums that began with “After Hours” in 2020. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/31/the-weeknd-awaits-the-next-day-in-his-6th-studio-album-hurry-up-tomorrow/>
 
 ---
 
@@ -1120,17 +1235,4 @@ A 92-key historic Bösendorfer piano was unloaded at the UCLA Herb Alpert School
 <br> 
 
 <https://dailybruin.com/2025/01/25/sinatra-sisters-donate-frank-sinatras-celebrated-piano-to-ucla/>
-
----
-
-## Chon Noriega appointed interim dean of UCLA School of Theater, Film and Television
-
-date: 2025-01-25, from: The Daily Bruin (UCLA Student Newspaper)
-
-Chon Noriega is set to become the interim dean of the UCLA School of Theater, Film and Television.
-Noriega, the former director of UCLA&#8217;s Chicano Studies Research Center, will hold the position from Feb. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/24/chon-noriega-appointed-interim-dean-of-ucla-school-of-theater-film-and-television/>
 

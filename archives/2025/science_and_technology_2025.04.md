@@ -1,11 +1,95 @@
 ---
 title: science and technology
-updated: 2025-02-01 07:06:24
+updated: 2025-02-02 07:05:21
 ---
 
 # science and technology
 
-(date: 2025-02-01 07:06:24)
+(date: 2025-02-02 07:05:21)
+
+---
+
+## Gilmore Girls fans nabbed as Eurocops dismantle two major cybercrime forums
+
+date: 2025-02-02, updated: 2025-02-02, from: The Register (UK I.T. News)
+
+<h4>Nulled and Cracked had a Lorelai-cal rise - until Operation Talent stepped in</h4> <p>Law enforcement officers across Europe assembled again to collectively disrupt major facilitators of cybercrime, with at least one of those cuffed apparently a fan of the dramedy series <em>The Gilmore Girls</em>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/02/eurocops_takedown_cybercrime/>
+
+---
+
+## Meet the Black Inventor Who Developed the Ice Cream Scoop, Revolutionizing a Beloved Frozen Treat
+
+date: 2025-02-02, from: Smithsonian Magazine
+
+While working as a porter, Alfred L. Cralle witnessed how hard it was to serve ice cream cones one-handed. He saved the day with his mold and disher tool, patented on this day in 1897 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/meet-the-black-inventor-who-developed-the-ice-cream-scoop-revolutionizing-a-beloved-frozen-treat-180985886/>
+
+---
+
+## Microsoft vet laments a world where even toothbrushes need reboots
+
+date: 2025-02-02, updated: 2025-02-02, from: The Register (UK I.T. News)
+
+<h4>Raymond Chen reflects on the never-ending cycle of updates and restarts</h4> <p><strong>Comment</strong>  Remember when things didn&#39;t need constant updating and reboots to work? Veteran Microsoft engineer Raymond Chen notes that the affliction has even spread as far as the humble electric toothbrush.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/02/raymond_chen_restarts_updates/>
+
+---
+
+## Intel has officially missed the boat for AI in the datacenter
+
+date: 2025-02-01, updated: 2025-02-01, from: The Register (UK I.T. News)
+
+<h4>But it still has a chance at the edge and the PC</h4> <p><strong>Comment</strong>  Any hope Intel may have had of challenging rivals Nvidia and AMD for a slice of the AI accelerator market dissolved on Thursday as yet another GPU architecture was scrapped.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/01/intel_ai_datacenter/>
+
+---
+
+## DeepSeek or DeepFake? Our vultures circle China's hottest AI
+
+date: 2025-02-01, updated: 2025-02-01, from: The Register (UK I.T. News)
+
+<h4>If this keeps Silicon Valley on its toes and honest, who are we to complain?</h4> <p><strong>Kettle</strong>  There&#39;s really only one topic for the Kettle this week. DeepSeek.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/01/deepseek_kettle_ai/>
+
+---
+
+## Discover How Four Black College Students Sparked a Nationwide Civil Rights Movement, on This Date in 1960
+
+date: 2025-02-01, from: Smithsonian Magazine
+
+By sitting down to lunch at a North Carolina department store, the brave men inspired many others to take part in nonviolent acts of civil disobedience 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/discover-how-four-black-college-students-sparked-a-nationwide-civil-rights-movement-on-this-date-in-1960-180985908/>
+
+---
+
+## Windows 11 stages a comeback – still miles behind older sibling
+
+date: 2025-02-01, updated: 2025-02-01, from: The Register (UK I.T. News)
+
+<h4>Microsoft&#39;s latest OS claws back market share from Windows 10, but the finish line is a long way off</h4> <p>Microsoft appears to be starting the year with a rebound in Windows 11 adoption as the latest figures show the operating system reversing its recent months&#39; long declines.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/01/windows_11_statcounter/>
 
 ---
 
@@ -2964,64 +3048,4 @@ date: 2025-01-26, from: Darpa News
 <br> 
 
 <https://drupal.darpa.mil/research/opportunities/darpan-sn-25-38>
-
----
-
-## When a sole maintainer steps down, Linux drivers become orphans
-
-date: 2025-01-25, from: OS News
-
-The Linux kernel has become such an integral, core part of pretty much all aspects of the technology world, and corporate contributions to the kernel make up such a huge chunk of the kernel&#8217;s ongoing development, it&#8217;s easy to forget that some parts of the kernel are still maintained by some lone person in Jacksonville, Nebraska, or whatever. Sadly, we were reminded of this today when the sole maintainer of a few DRM (no, not the bad kind) announced he can no longer maintain the gud, mi0283qt, panel-mipi-dbi, and repaper drivers. Remove myself as maintainer for gud, mi0283qt, panel-mipi-dbi and repaper. My fatigue illness has finally closed the door on doing development of even moderate complexity so it&#8217;s sad to let this go. ↫ Noralf Trønnes There must be quite a few obscure parts of the Linux kernel that are of no interest to the corporate world, and thus remain maintained by individuals in their free time, out of some personal need or perhaps a sense of duty. If one such person gives up their role as maintainer, for whatever reason, you better hope it&#8217;s not something your workflow relies, because if no new maintainer is found, you will eventually run into trouble. I hope Trønnes gets better soon, and if not, that someone else can take over from him to maintain these drivers. The gud driver seems like a really neat tool for homebrew projects, and it&#8217;d be sad to see it languish as the years go by. 
-
-<br> 
-
-<https://www.osnews.com/story/141613/when-a-sole-maintainer-steps-down-linux-drivers-become-orphans/>
-
----
-
-## Someone is slipping a hidden backdoor into Juniper routers across the globe, activated by a magic packet
-
-date: 2025-01-25, updated: 2025-01-25, from: The Register (UK I.T. News)
-
-<h4>Who could be so interested in chips, manufacturing, and more, in the US, UK, Europe, Russia...</h4> <p>Someone has been quietly backdooring selected Juniper routers around the world in key sectors including semiconductor, energy, and manufacturing, since at least mid-2023.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/01/25/mysterious_backdoor_juniper_routers/>
-
----
-
-## Android 16 Beta 1 has started rolling out for Pixel devices
-
-date: 2025-01-25, from: OS News
-
-Basically, this seems to mean applications will no longer be allowed to limit themselves to phone size when running on devices with larger screens, like tablets. Other tidbits in this first beta include predictive back support for 3-button navigation, support for the Advanced Professional Video codec from Samsung, among other things. It&#8217;s still quite early in the release process, so more is sure to come, and some things might not make it to the final release at all. 
-
-<br> 
-
-<https://www.osnews.com/story/141611/android-16-beta-1-has-started-rolling-out-for-pixel-devices/>
-
----
-
-## When Russian Radar Mistook a Norwegian Scientific Rocket for a U.S. Missile, the World Narrowly Avoided Nuclear War
-
-date: 2025-01-25, from: Smithsonian Magazine
-
-The Norwegian rocket incident, which took place on this day in 1995, marked the only known activation of a nuclear briefcase in response to a possible attack 
-
-<br> 
-
-<https://www.smithsonianmag.com/smart-news/when-russian-radar-mistook-a-norwegian-scientific-rocket-for-a-us-missile-the-world-narrowly-avoided-nuclear-war-180985836/>
-
----
-
-## UK telco TalkTalk confirms probe into alleged data grab underway
-
-date: 2025-01-25, updated: 2025-01-25, from: The Register (UK I.T. News)
-
-<h4>Spinner says crim&#39;s claims &#39;very significantly overstated&#39;</h4> <p>UK broadband and TV provider TalkTalk says it&#39;s currently investigating claims made on cybercrime forums alleging data from the company was up for grabs.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/01/25/uk_telco_talktalk_confirms_investigation/>
 

@@ -1,11 +1,215 @@
 ---
 title: games
-updated: 2025-02-01 07:06:25
+updated: 2025-02-02 07:05:22
 ---
 
 # games
 
-(date: 2025-02-01 07:06:25)
+(date: 2025-02-02 07:05:22)
+
+---
+
+## Doom: The Dark Ages pre-order guide
+
+date: 2025-02-02, updated: 2025-02-01, from: Polygon Website
+
+Doom: The Dark Ages is coming to Xbox, PlayStation, and PC on May 13. The latest chapter in the Doom Slayer’s saga promises to be more grounded than previous installments, with a decreased emphasis on mid-air platforming and traversal, while placing a greater focus on melee combat, thanks to a new parry system and a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/517748/doom-the-dark-ages-premium-collectors-edition-where-to-pre-order-buy>
+
+---
+
+## Riot explains why Arcane erased a League of Legends champion
+
+date: 2025-02-02, updated: 2025-01-31, from: Polygon Website
+
+League of Legends is over 15 years old. The game is nearly old enough to drive or vote, and its developers at Riot Games haven’t been shy about applying retcons or reworks to champions or other aspects of the game as needed. Even longtime players can find themselves surprised by these overhauls. For instance, one [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/517436/riot-arcane-viktor-league-lol-rework-interview>
+
+---
+
+## The classic horror remakes actually worth watching
+
+date: 2025-02-02, updated: 2025-01-31, from: Polygon Website
+
+At this point, horror franchises are nearly as old as cinema itself. By the release of 1931’s adaptation of Bram Stoker’s Dracula — the first with sound — there was already a history of terrifying films in the silent era, especially among the geniuses working within the German Expressionism movement. The roots of horror films [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/514996/best-classic-horror-movie-remakes-watch-streaming>
+
+---
+
+## Companion star Sophie Thatcher accidentally teased its first twist in its first scene
+
+date: 2025-02-02, updated: 2025-02-01, from: Polygon Website
+
+For Companion hero Iris (Heretic’s Sophie Thatcher), the movie begins as a fairy-tale romance by way of rolling fruit: She and Josh (Jack Quaid) lock eyes in a grocery store produce aisle. He tries to be smooth, but fumbles and knocks over an entire display of oranges. They laugh together, and the rest is history; [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/516912/sophie-thatcher-interview-companion-movie-twist-reveal>
+
+---
+
+## Sinatra complicates Paradise’s murder mystery with modern politics
+
+date: 2025-02-01, updated: 2025-01-31, from: Polygon Website
+
+A twist, however seismic, can only take a story so far. Thankfully for Paradise, Hulu’s new sci-fi thriller in which a presidential assassination is only the tip of a Lost-esque iceberg, great performances and more interesting questions lie on the other side of revelations.&#160; While episode 1 offers a big surprise — the cast is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sci-fi/517976/paradise-sinatra-writer-interview-tv-bts-musk>
+
+---
+
+## Hyper Light Breaker&#8217;s Michael Clark: ‘We want our true believers to feel their faith in us is rewarded’
+
+date: 2025-02-01, updated: 2025-01-31, from: Polygon Website
+
+Like a lot of people, I adored Hyper Light Drifter, the debut title from the Culver City, California-based game devs Heart Machine. Drifter was one of those rare indie games where all the component parts just clicked: it had a gorgeous art style, an unbelievable soundtrack, and sparse but very effective storytelling that hinted at [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/features/517831/hyper-light-breaker-interview-push-to-talk-newsletter>
+
+---
+
+## Discoveries
+
+date: 2025-02-01, updated: 2025-02-01, from: Polygon Website
+
+At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
+
+---
+
+## Rewatching Parasite on Netflix is a good reminder that the Oscars get it right sometimes
+
+date: 2025-02-01, updated: 2025-01-31, from: Polygon Website
+
+The Academy Awards have had a spotty track record when it comes to awarding the Best Picture prize over the last couple of decades. Sure, sometimes the Academy gives the trophy to Oppenheimer, a verifiable classic and towering achievement in storytelling, but more often than that it goes to middling or outright bad films, like [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/514960/parasite-netflix-thriller-best-picture-great-movie>
+
+---
+
+## The best movies new to streaming this February
+
+date: 2025-02-01, updated: 2025-01-31, from: Polygon Website
+
+It’s only been one month since the year started (can you believe it?), and there are a ton of exciting new releases in February to look forward to. Captain America: Brave New World and Osgood Perkins’ The Monkey are the movies to see in theaters this month, while Scott Derrickson’s sci-fi horror film The Gorge [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/514217/best-new-movies-netflix-amazon-prime-max-hulu-february-2025>
+
+---
+
+## Dimension 20’s guide to the real Unsleeping City, actual New York
+
+date: 2025-02-01, updated: 2025-02-01, from: Polygon Website
+
+Dimension 20’s sold-out appearance at Madison Square Garden saw the return of their Unsleeping City campaign, set in a magical sixth borough of New York City. Ahead of the live show, we sat down with Ally Beardsley and Brennan Lee Mulligan to get their take on the real New York City. Read on for advice [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dnd-dungeons-dragons/517870/brennan-lee-mulligan-ally-beardsley-new-york-city>
+
+---
+
+## Severance could be using Danger Mouse to tell us something
+
+date: 2025-02-01, updated: 2025-01-31, from: Polygon Website
+
+The third episode of Severance season 2 offers new insight into the outie life of Dylan G., showing that, unlike his driven, perk-obsessed innie, the “real” version of Zach Cherry’s character isn’t exactly a go-getter. Outie Dylan seems content to sit on the couch, read the latest issue of Midlife Driver magazine, and nominally care [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/517190/severance-s2-episode-3-danger-mouse>
+
+---
+
+## Every movie and show coming to Netflix in February
+
+date: 2025-02-01, updated: 2025-01-31, from: Polygon Website
+
+Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s coming difficult to parse. We’re here to help. Nothing says Valentine’s Day like the new Witcher animated movie! Oh, and also the next installment of Cobra [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/517440/new-on-netflix-february-2025-movies-tv-to-watch>
+
+---
+
+## What is the Fortnite Crew Pack skin for February 2025?
+
+date: 2025-02-01, updated: 2025-02-01, from: Polygon Website
+
+Fortnite Crew is a monthly subscription service for Fortnite. Members who subscribe to Fortnite Crew receive access to the current Battle Pass, a top up of V-Bucks to their account, and perhaps most importantly, exclusive cosmetics through the Fortnite Crew Pack. As an additional incentive to keep subscribing, you also receive bonus Legacy Styles for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin>
+
+---
+
+## Honkai: Star Rail codes for February 2025
+
+date: 2025-02-01, updated: 2025-02-01, from: Polygon Website
+
+Honkai: Star Rail is Hoyoverse’s latest title added to their mobile (and PC) game lineup, which means that yes, the game has codes that you can redeem for premium currency. In this case, Honkai: Star Rail codes reward Stellar Jade and the usual other goodies — money, EXP, and the like. Below we list out [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade>
+
+---
+
+## FFXIV housing lottery schedule for February 2025
+
+date: 2025-02-01, updated: 2025-02-01, from: Polygon Website
+
+If you’re trying to get a house in Final Fantasy 14, you’ll need to play the lottery system. The FFXIV lottery system consists of five “entry period” days, followed by four “results period” days. You’ll need to place your bid during the entry period days and if you win, finalize your purchase during the results [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period>
+
+---
+
+## Pokémon Go raid schedule for February 2025’s Legendary and Mega Pokémon
+
+date: 2025-02-01, updated: 2025-02-01, from: Polygon Website
+
+Using a raid schedule helps you work out which creatures to save your raid passes (remote or otherwise) for in Pokémon Go. The raid targets swap out every 10 days approximately, so you’ll definitely want to keep track on who is coming next. If you’re unfamiliar with raids, they spawn in gyms from 10 a.m. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star>
+
+---
+
+## Pokémon Go Spotlight Hour schedule for February 2025
+
+date: 2025-02-01, updated: 2025-02-01, from: Polygon Website
+
+Pokémon Go hosts a Spotlight Hour every Tuesday. This special event sees spawn rates for one Pokémon boosted greatly. There’s also usually some kind of doubled up bonus, like doubled candy or XP, during this time, giving you an additional reason to check in. During February 2025, with the way the dates line up, we [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule>
 
 ---
 
@@ -558,88 +762,4 @@ Indie developer Team Ladybug has carved out a niche by making the types of side-
 <br> 
 
 <https://www.polygon.com/review/513883/blade-chimera-review-metroidvania-pc-nintendo-switch>
-
----
-
-## Grand Theft Hamlet is at its best in the moments of pure mayhem
-
-date: 2025-01-25, updated: 2025-01-24, from: Polygon Website
-
-It’s only January, but the eccentric, ambitious documentary Grand Theft Hamlet will surely end up as one of 2025’s most interesting movies. During England’s second lockdown in response to the COVID-19 pandemic, two unemployed actors who had been spending their time in Grand Theft Auto Online decided to stage a production of Hamlet within the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/entertainment/512619/grand-theft-hamlet-movie-video-game-shakespeare-chaos-mayhem>
-
----
-
-## Michelle Yeoh was ‘a little apprehensive’ about arranging Star Trek: Section 31’s cameo
-
-date: 2025-01-25, updated: 2025-01-25, from: Polygon Website
-
-In a time when lots of franchise movies have final scenes and stingers that allude to larger concerns in their universes, show off a dizzying network of inter-movie connective tissue, or tease the next project coming down the release pipeline, Star Trek: Section 31 goes against the grain. Its surprising late-game cameo isn’t about franchise [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/star-trek/513057/section-31-jamie-lee-curtis-cameo-michelle-yeoh>
-
----
-
-## The 2025 Oscar movies (and snubs) that are actually worth watching
-
-date: 2025-01-25, updated: 2025-01-25, from: Polygon Website
-
-The Oscar nominations are out, and most of the nominees are already watchable online. But where to begin? Good news, friends. I’ve got you.&#160; As Polygon’s curation editor, I am paid to have correct opinions have spent much of the year keeping up with the year’s best new movies, which prepared me for this task: [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/513457/which-2025-oscar-movies-good-to-watch-snubs>
-
----
-
-## Discoveries
-
-date: 2025-01-25, updated: 2025-01-24, from: Polygon Website
-
-At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
-
----
-
-## Sicko game developers keep returning to reinvent Tetris
-
-date: 2025-01-25, updated: 2025-01-24, from: Polygon Website
-
-Some people might call Tetris the perfect game, and it’s hard to argue with that. Created in 1985, Tetris has endured across generations and platforms, making its way onto essentially every platform possible. The game is simple and timeless, with one block falling at a time. There are a few basic shapes, like L-blocks, squares, [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/513931/tetris-inspired-games-design-reaktor>
-
----
-
-## The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of January 2025
-
-date: 2025-01-25, updated: 2025-01-25, from: Polygon Website
-
-A new year has arrived, and while awards season is still at the front of everyone’s brains, one thing that might get lost is how many great movies are leaving streaming services at the end of January. Of course, there will be plenty of movies added to platforms like Netflix, Prime Video, and Criterion Channel [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/513199/best-movies-netflix-amazon-criterion-leaving-january-2025>
-
----
-
-## Pokémon Go Ralts Community Day guide
-
-date: 2025-01-25, updated: 2025-01-25, from: Polygon Website
-
-Pokémon Go is having a Ralts Community Day Classic event on Saturday, Jan. 25, from 2-5 p.m. in your local time. As expected with a Community Day event, Ralts will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve listed out [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/512288/ralts-community-day-classic-gardevoir-gallade-mega-movesets-shiny>
 

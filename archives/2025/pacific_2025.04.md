@@ -1,11 +1,423 @@
 ---
 title: pacific
-updated: 2025-02-01 07:06:23
+updated: 2025-02-02 07:05:20
 ---
 
 # pacific
 
-(date: 2025-02-01 07:06:23)
+(date: 2025-02-02 07:05:20)
+
+---
+
+## Police still seek teens missing for months
+
+date: 2025-02-02, from: Hawaii Tribune Harold
+
+
+				<p>Police are renewing their request for the public&#8217;s assistance in locating two 17-year-old runaways who have been missing for months.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/02/hawaii-news/police-still-seek-teens-missing-for-months/>
+
+---
+
+## Elon Musk’s team now has access to Treasury’s payments system
+
+date: 2025-02-02, from: Hawaii Tribune Harold
+
+
+				<p>Treasury Secretary Scott Bessent gave representatives of the so-called Department of Government Efficiency access to the federal payment system late Friday, according to five people familiar with the change, handing Elon Musk and the team he is leading a powerful tool to monitor and potentially limit government spending.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/02/nation-world-news/elon-musks-team-now-has-access-to-treasurys-payments-system/>
+
+---
+
+## Questions raised about DEM pick, but ultimately Segawa is approved by council
+
+date: 2025-02-02, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County has a new Department of Environmental Management director, although not without some controversy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/02/hawaii-news/questions-raised-about-dem-pick-but-ultimately-segawa-is-approved-by-council/>
+
+---
+
+## Trump signs orders imposing steep tariffs on Mexico, Canada and China
+
+date: 2025-02-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump on Saturday followed through with his threat to impose stiff tariffs on Mexico, Canada and China, setting the stage for a destabilizing trade war with the United States&#8217; largest trading partners.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/02/nation-world-news/trump-signs-orders-imposing-steep-tariffs-on-mexico-canada-and-china/>
+
+---
+
+## What’s next for Banyan Drive? Mayor, state legislators mull future of Waiakea Peninsula
+
+date: 2025-02-02, from: Hawaii Tribune Harold
+
+
+				<p>While the state grapples with a pair of troublesome Banyan Drive properties, Hawaii County and state officials have big plans for the future of the Waiakea Peninsula.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/02/hawaii-news/whats-next-for-banyan-drive-mayor-state-legislators-mull-future-of-waiakea-peninsula/>
+
+---
+
+## Israel and Hamas exchange 3 hostages and more than 180 prisoners
+
+date: 2025-02-02, from: Hawaii Tribune Harold
+
+
+				<p>Hamas gunmen released three more hostages and Israel freed more than 180 Palestinian prisoners Saturday, quickly conducting the latest exchange in a tense ceasefire deal and avoiding the chaos that marked a drawn-out transfer earlier this week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/02/nation-world-news/israel-and-hamas-exchange-3-hostages-and-more-than-180-prisoners/>
+
+---
+
+## Pitch of passenger jet turned upward just before deadly collision
+
+date: 2025-02-02, from: Hawaii Tribune Harold
+
+
+				<p>American Airlines Flight 5342, a regional jet en route from Wichita, Kansas, was zooming down and about to land at Ronald Reagan National Airport in Washington on Wednesday night, when its pitch made a last-minute turn upward.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/02/nation-world-news/pitch-of-passenger-jet-turned-upward-just-before-deadly-collision/>
+
+---
+
+## 7 are killed in medical plane crash in Philadelphia
+
+date: 2025-02-02, from: Hawaii Tribune Harold
+
+
+				<p>A small medical plane carrying six people crashed near a shopping center in northeast Philadelphia on Friday night, killing all on board and one person on the ground and sending a large fireball into the air that engulfed homes and vehicles in flames, authorities said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/02/nation-world-news/7-are-killed-in-medical-plane-crash-in-philadelphia/>
+
+---
+
+## Trump orders airstrikes against Islamic State in Somalia
+
+date: 2025-02-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump ordered airstrikes Saturday against the Islamic State group in northern Somalia, the first major U.S. military operation overseas since he took office.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/02/nation-world-news/trump-orders-airstrikes-against-islamic-state-in-somalia/>
+
+---
+
+## Global health programs close after Trump pauses aid
+
+date: 2025-02-02, from: Hawaii Tribune Harold
+
+
+				<p>Lifesaving health initiatives and medical research projects have shut down around the world in response to the Trump administration&#8217;s 90-day pause on foreign aid and stop-work orders.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/02/nation-world-news/global-health-programs-close-after-trump-pauses-aid/>
+
+---
+
+## Steves: First trip to Europe? Here’s what to expect
+
+date: 2025-02-02, from: Hawaii Tribune Harold
+
+
+				<p>If you&#8217;re planning your first trip to Europe, congratulations! Learning about the world through travel is the best thing that ever happened to me.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/02/features/steves-first-trip-to-europe-heres-what-to-expect/>
+
+---
+
+## Trump administration to remove 4 major news outlets from Pentagon office space
+
+date: 2025-02-02, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration notified four major news organizations late Friday that they would have to give up their dedicated office space at the Pentagon to make way for other outlets, including the right-wing sites Breitbart News and One America News.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/02/nation-world-news/trump-administration-to-remove-4-major-news-outlets-from-pentagon-office-space/>
+
+---
+
+## Volcano Watch: Announcing 2025 Volcano Awareness Month art and poetry contest winners
+
+date: 2025-02-02, from: Hawaii Tribune Harold
+
+
+				<p>The USGS Hawaiian Volcano Observatory spearheads Volcano Awareness Month each January on the Island of Hawaii. This year, in addition to in-person talks and walks around the island, we hosted an art and poetry contest, and we are pleased to announce the winners in today&#8217;s Volcano Watch article!</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/02/features/volcano-watch-announcing-2025-volcano-awareness-month-art-and-poetry-contest-winners/>
+
+---
+
+## Trump imposes tariffs on Mexico, Canada and China, risking trade war
+
+date: 2025-02-02, updated: 2025-02-02, from: Marianas Variety
+
+(Reuters) — President Donald Trump on Saturday ordered 25% tariffs on Canadian and Mexican imports and 10% on goods from China starting on Tuesday, risking a new trade war that economists say could slow global growth and reignite inflation. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-imposes-tariffs-on-mexico-canada-and-china-risking-trade-war/article_371b4280-e104-11ef-ba94-07fc188520e7.html>
+
+---
+
+## 'A wonderful cup of coffee'
+
+date: 2025-02-01, from: Pacific Island Times
+
+My own guitar-playing phase began in 1982, after spending a year on Namu, an outer atoll in the Marshall Islands. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/a-wonderful-cup-of-coffee>
+
+---
+
+## A medical plane carrying a child patient and 5 others crashes in Philadelphia, setting homes ablaze
+
+date: 2025-02-01, updated: 2025-02-02, from: Marianas Variety
+
+PHILADELPHIA (AP) — A medical transport jet transporting a child who had just completed treatment for a life-threatening condition, her mother and four others crashed into a Philadelphia neighborhood shortly after takeoff Friday evening, exploding in a fireball that engulfed several homes. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/a-medical-plane-carrying-a-child-patient-and-5-others-crashes-in-philadelphia-setting-homes/article_947b8798-e0a8-11ef-8ba1-37bb08a1cd08.html>
+
+---
+
+## Trump administration plans to scrutinize FBI agents for possible purge
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration plans to scrutinize thousands of FBI agents involved in Jan. 6 investigations, setting the stage for a possible purge that goes far beyond the bureau&#8217;s leaders to target rank-and-file agents, according to internal documents and people familiar with the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/trump-administration-plans-to-scrutinize-fbi-agents-for-possible-purge/>
+
+---
+
+## Trump will hit Mexico, Canada and China with tariffs
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump plans to impose stiff tariffs on Mexico, Canada and China today, a move aimed at pressuring America&#8217;s largest trading partners into accepting more migrants and halting the flow of migrants and drugs into the United States.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/trump-will-hit-mexico-canada-and-china-with-tariffs/>
+
+---
+
+## Immigrant communities in hiding: ‘People think ICE is everywhere’
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>At a barbershop in Los Angeles, only one of the 10 chairs was occupied on what would ordinarily be a busy evening. In San Francisco, a middle school student&#8217;s erroneous information about seeing an immigration officer on a city bus prompted the school district to send parents a warning<strong>.</strong></p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/immigrant-communities-in-hiding-people-think-ice-is-everywhere/>
+
+---
+
+## Washington crash renews concerns about air safety lapses
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>Clues emerging from the moments before the deadly collision Wednesday night between an Army helicopter and an American Airlines passenger jet suggest that multiple layers of the country&#8217;s aviation safety apparatus failed, according to flight recordings, a preliminary internal report from the Federal Aviation Administration, interviews with current and former air traffic controllers and others briefed on the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/washington-crash-renews-concerns-about-air-safety-lapses/>
+
+---
+
+## Syria’s new president pledges unity in first address
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>DAMASCUS, Syria &#8212; The newly appointed president of Syria, Ahmed al-Sharaa, pledged in a speech Thursday to create an inclusive transitional government that reflects Syria&#8217;s diversity and that will lead the country until it can hold &#8220;free and fair elections.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/syrias-new-president-pledges-unity-in-first-address/>
+
+---
+
+## Kennedy says he will give HPV vaccine lawsuit proceeds to his son
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>Robert F. Kennedy Jr. told lawmakers in responses to questions released Friday that he would divest his interest in litigation against a major HPV vaccine maker and would sign over the financial stake to an adult son.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/kennedy-says-he-will-give-hpv-vaccine-lawsuit-proceeds-to-his-son/>
+
+---
+
+## 6 feared dead after medical plane crashes near Philadelphia mall
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>A small medical plane carrying six people crashed near a shopping center in northeast Philadelphia on Friday night, leaving no apparent survivors, sending a large fireball into the air and engulfing vehicles and homes in flames, authorities said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/6-feared-dead-after-medical-plane-crashes-near-philadelphia-mall/>
+
+---
+
+## New York doctor indicted in Louisiana for sending abortion pills there
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>A state grand jury in Louisiana has indicted a New York doctor for providing abortion pills to a Louisiana resident. The case appears to be the first time criminal charges have been filed against an abortion provider for sending pills into a state with an abortion ban.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/new-york-doctor-indicted-in-louisiana-for-sending-abortion-pills-there/>
+
+---
+
+## Health officials struggle to comply with DEI and gender orders
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>Federal and state health officials and staff members scrambled Friday to comply with a 5 p.m. deadline by the Trump administration to terminate any programs that promote &#8220;gender ideology,&#8221; and to withdraw documents and any other media that may do so.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/health-officials-struggle-to-comply-with-dei-and-gender-orders/>
+
+---
+
+## U.S. economy finished the year on strong note, but faces hurdles
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>Growth slowed but remained resilient at the end of 2024, leaving the U.S. economy on solid footing heading into a new year &#8212; and a new presidential administration &#8212; that is full of uncertainty.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/u-s-economy-finished-the-year-on-strong-note-but-faces-hurdles/>
+
+---
+
+## Norway seizes Russian-crewed ship suspected of cutting an undersea cable
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>OSLO, Norway &#8212; The authorities in Norway have seized a Russian-crewed ship that is suspected of damaging an undersea cable in an act of sabotage in the Baltic Sea, the Norwegian police said on Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/norway-seizes-russian-crewed-ship-suspected-of-cutting-an-undersea-cable/>
+
+---
+
+## A fish farm offered 40,000 pounds of salmon for free. There was a catch.
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>The offer was too good for the Food Bank of Central New York to pass up. A local fish farm was going out of business, and it wanted to donate more than 40,000 pounds of sushi-grade salmon.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/features/a-fish-farm-offered-40000-pounds-of-salmon-for-free-there-was-a-catch/>
+
+---
+
+## Tropical Gardening: Coffee flowering now means abundant harvests coming this fall
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>The dry weather from Thanksgiving to January created conditions for heavy flowering when a rainy spell in mid January stimulated a big flush of flowering shortly thereafter. When Kona has a wet winter and flowering is intermitant, it results in a longer harvest season. This year harvest shoud be concentrated thus making the harvest short and heavy if all else goes well.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/features/tropical-gardening-coffee-flowering-now-means-abundant-harvests-coming-this-fall/>
+
+---
+
+## Guam governor turns the tables on critics, fires off FOIA letters to Terlaje and Moylan
+
+date: 2025-02-01, from: Pacific Island Times
+
+Gov. Lou Leon Guerrero has called into question the motive behind Sen. Therese Terlaje’s bill proposing a public-private partnership for GMH 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/governor-turns-the-tables-on-critics-fires-off-foia-letters-to-terlaje-moylan>
 
 ---
 
@@ -18,6 +430,30 @@ Aid agencies operating in the Pacific are still scrambling to assess the impact 
 <br> 
 
 <https://www.pacificislandtimes.com/post/pacific-aid-groups-devastated-by-trump-s-usaid-freeze>
+
+---
+
+## Take Health Screening Into Your Own Hands: What You Need to Know About HPV & Cervical Cancer
+
+date: 2025-01-31, updated: 2025-01-31, from: Marianas Variety
+
+Sorry, but your browser does not support the video tag. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/take-health-screening-into-your-own-hands-what-you-need-to-know-about-hpv-cervical/article_138ac89a-0f08-5239-9389-aa6a6f6c2886.html>
+
+---
+
+## 5 ways to implement Omega-3s in your diet this American Heart Month
+
+date: 2025-01-31, updated: 2025-01-31, from: Marianas Variety
+
+(BPT) - February is American Heart Month, making it the perfect time to reflect on heart-healthy habits and incorporate positive changes into your daily routine. One of the easiest ways to support your heart health is by adding more Omega-3 fatty acids to your diet. Omega-3 fatty acids are essential nutrients that support brain health, heart function and overall well-being. They help reduce inflammation in the body, lower the risk of chronic diseases — and even play a role in maintaining healthy skin. Omega-3s are also known to help improve mood and reduce stress, making them a powerful addition to a balanced diet. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/5-ways-to-implement-omega-3s-in-your-diet-this-american-heart-month/article_c13e6711-f6f3-5e32-bea5-13a358015992.html>
 
 ---
 
@@ -489,6 +925,18 @@ date: 2025-01-31, from: Island Times
 
 ---
 
+## 4 Sneaky and Creative Ways to Boost Your Kids' Immunity with Healthy Ingredients
+
+date: 2025-01-31, updated: 2025-01-31, from: Marianas Variety
+
+(NewsUSA) - As parents, we all want to ensure that our toddlers are getting the nutrients they need to grow strong and stay healthy, especially during cold and flu season. While the importance of a robust immune system is well understood, getting little ones to actually eat immune-boosting foods can sometimes feel like a battle. The good news? There are plenty of delicious and toddler-friendly options that support a healthy immune system without the tantrums at mealtime! 
+
+<br> 
+
+<https://www.mvariety.com/online_features/family_living/4-sneaky-and-creative-ways-to-boost-your-kids-immunity-with-healthy-ingredients/article_b3a9ebd2-ba75-5da5-a560-e5f6540f4d49.html>
+
+---
+
 ## POCCA Project Commences Site Re-Visits
 
 date: 2025-01-31, from: University of the South Pacific (Fiji)
@@ -581,7 +1029,7 @@ The post <a href="https://www.hawaii.edu/news/2025/01/30/ah-mow-contract-extensi
 
 ## Gregorio Kilili Camacho Sablan: The eight-term delegate who redefined CNMI politics
 
-date: 2025-01-31, updated: 2025-01-31, from: Marianas Variety
+date: 2025-01-31, updated: 2025-02-02, from: Marianas Variety
 
 GREGORIO Kilili Camacho Sablan, who turned 70 this year, is the most successful politician in CNMI history. No other local politician has run and won eight consecutive Commonwealth-wide elections. Kilili broke the record of Gov. Pedro “Teno” Pangelinan Tenorio, who won six CNMI-wide elections: three gubernatorial primaries and three gubernatorial elections. It was Teno, incidentally, who appointed Kilili as election commissioner in 1998, and it was his sterling performance in that job that made him a viable candidate for the CNMI’s first delegate election in 2008, a race he narrowly won. 
 
@@ -2651,223 +3099,4 @@ Consulting the Chamorro-English dictionary, we found "taotao" means "human being
 <br> 
 
 <https://www.pacificislandtimes.com/post/taotaomo-na-the-spirits-that-shape-us>
-
----
-
-## Touring storm damage, Trump suggests FEMA should be shut down
-
-date: 2025-01-25, from: Hawaii Tribune Harold
-
-
-				<p>President Donald Trump mused Friday about shutting down the Federal Emergency Management Agency, saying that states could do a better job at responding to disasters.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/touring-storm-damage-trump-suggests-fema-should-be-shut-down/>
-
----
-
-## Musk plan for retooling government takes shape, but big questions loom
-
-date: 2025-01-25, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The initial plan for retooling the federal government under President Donald Trump started with three loyal billionaires: banker Howard Lutnick, tech leader Elon Musk and entrepreneur Vivek Ramaswamy.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/musk-plan-for-retooling-government-takes-shape-but-big-questions-loom/>
-
----
-
-## Vance casts tiebreaking vote for Hegseth
-
-date: 2025-01-25, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The Senate narrowly confirmed Pete Hegseth as defense secretary Friday after he survived a bruising struggle with Democrats who decried the Trump nominee as unqualified and unfit to oversee the country&#8217;s 1.3 million active duty troops and the Pentagon&#8217;s nearly $850 billion budget.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/vance-casts-tiebreaking-vote-for-hegseth/>
-
----
-
-## Trump’s DEI order creates ‘fear and confusion’ among corporate leaders
-
-date: 2025-01-25, from: Hawaii Tribune Harold
-
-
-				<p>More than 200 diversity officers, some from Fortune 500 companies and some from nonprofits, gathered last summer at the New York University School of Law and on video to talk about the future of their diversity, equity and inclusion, or DEI, programs, which had become a legal and social target. Anxiously, they wondered how to protect themselves. Did they need to rethink internship programs for underrepresented workers, or drop certain diversity language from their websites?</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/trumps-dei-order-creates-fear-and-confusion-among-corporate-leaders/>
-
----
-
-## Hawaii chief justice delivers final State of Judiciary speech
-
-date: 2025-01-25, from: Hawaii Tribune Harold
-
-
-				<p>The Hawaii State Judiciary needs money to design a new courthouse in Wai&#0173;mea, add a District Court judge in Kona and address a &#8220;critical shortage&#8221; of court-appointed counsel in criminal and termination of parental rights cases, Hawaii Supreme Court Chief Justice Mark E. Recktenwald told state lawmakers Thursday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/25/hawaii-news/hawaii-chief-justice-delivers-final-state-of-judiciary-speech/>
-
----
-
-## Trump terminates Fauci’s government security protection
-
-date: 2025-01-25, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; President Donald Trump said Friday that he had terminated taxpayer-financed security protection for Dr. Anthony Fauci, the infectious disease specialist who led the nation through the coronavirus pandemic and received death threats after becoming a target of conservatives.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/trump-terminates-faucis-government-security-protection/>
-
----
-
-## Sensing political support, abortion opponents raise ambitions
-
-date: 2025-01-25, from: Hawaii Tribune Harold
-
-
-				<p>Anti-abortion activists are charging ahead with their ultimate mission to end all abortions nationwide, freshly emboldened by powerful allies in Washington, a continued Supreme Court majority and legislative opportunities in conservative states.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/sensing-political-support-abortion-opponents-raise-ambitions/>
-
----
-
-## Ukraine sends volley of drones at Russia, hitting oil refinery
-
-date: 2025-01-25, from: Hawaii Tribune Harold
-
-
-				<p>KYIV, Ukraine &#8212; Ukraine fired a large volley of exploding drones at Russia on Friday, according to Ukrainian officials and the Russian military, in a barrage that set an oil refinery and pumping station on fire and briefly closed multiple airports, including several serving Moscow.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/ukraine-sends-volley-of-drones-at-russia-hitting-oil-refinery/>
-
----
-
-## As Washington unveils pandas, China cracks down on their biggest fans
-
-date: 2025-01-25, from: Hawaii Tribune Harold
-
-
-				<p>Visitors descended on Washington&#8217;s National Zoo on Friday to witness the cheery unveiling of two pandas on loan from China. Fans posted photos and videos to social media, as did the zoo under the hashtag #DCPandas.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/as-washington-unveils-pandas-china-cracks-down-on-their-biggest-fans/>
-
----
-
-## Hamas names four Israeli female soldier hostages to be freed in second swap
-
-date: 2025-01-25, from: Hawaii Tribune Harold
-
-
-				<p>CAIRO/JERUSALEM &#8212; Palestinian militant group Hamas announced the names on Friday of four Israeli female soldier hostages to be released in exchange for Palestinian prisoners in the second swap under the ceasefire deal in Gaza.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/hamas-names-four-israeli-female-soldier-hostages-to-be-freed-in-second-swap/>
-
----
-
-## Trump’s pick for commerce secretary reveals positions at more than 800 companies
-
-date: 2025-01-25, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Howard Lutnick, the wealthy Wall Street executive whom President Donald Trump has tapped to lead the Department of Commerce, detailed a complex network of financial holdings Friday as he prepared to face scrutiny from lawmakers during a confirmation hearing next week.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/25/nation-world-news/trumps-pick-for-commerce-secretary-reveals-positions-at-more-than-800-companies/>
-
----
-
-## This rare plant smells horrible, but people can’t wait to get a whiff
-
-date: 2025-01-25, from: Hawaii Tribune Harold
-
-
-				<p>NEW YORK &#8212; There is no shortage of unpleasant odors in New York City: overflowing garbage on the sidewalk, unmentionable substances in the subway, traffic fumes and more. This week, yet another foul scent has entered the smellscape, but in this case, New Yorkers are flocking to experience it: the blooming of an Amorphophallus gigas, aka a corpse flower, at the Brooklyn Botanic Garden.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/25/features/this-rare-plant-smells-horrible-but-people-cant-wait-to-get-a-whiff/>
-
----
-
-## Tropical Gardening: Go native in your garden
-
-date: 2025-01-25, from: Hawaii Tribune Harold
-
-
-				<p>It is fun to go native, but you don&#8217;t need to strip down when it comes to incorporating native plants into your Hawaiian garden! Next weekend, Feb. 1 will be a great opportunity to get expert advice from nursery folks hailing from around the island according to Jennifer Snyder of Orchid People.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/01/25/features/tropical-gardening-go-native-in-your-garden/>
-
----
-
-## Hegseth narrowly wins confirmation to become US defense secretary
-
-date: 2025-01-25, updated: 2025-01-26, from: Marianas Variety
-
-WASHINGTON (Reuters) — Pete Hegseth narrowly secured enough votes on Friday to become the next U.S. defense secretary, a major victory for President Donald Trump after fierce opposition from Democrats and even some Republicans to his controversial nominee. 
-
-<br> 
-
-<https://www.mvariety.com/news/national/hegseth-narrowly-wins-confirmation-to-become-us-defense-secretary/article_744de464-daec-11ef-b773-53fb6226ebbb.html>
-
----
-
-## Mexico refuses US military flight deporting migrants
-
-date: 2025-01-25, updated: 2025-01-26, from: Marianas Variety
-
-WASHINGTON/MEXICO CITY (Reuters) — Mexico has refused a request from President Donald Trump's administration to allow a U.S. military aircraft deporting migrants to land in the country, a U.S. official and a Mexican official told Reuters. 
-
-<br> 
-
-<https://www.mvariety.com/news/regional_world/mexico-refuses-us-military-flight-deporting-migrants/article_017cf420-daec-11ef-a36d-07e636f1c261.html>
-
----
-
-## UH Alumni: Nordstrom manager credits job to relationship skills built at UH
-
-date: 2025-01-25, from: University of Hawaiʻi News
-
-<p>A <abbr>UH</abbr> business club helped alumna Jarenn Murakami get her first internship.</p>
-The post <a href="https://www.hawaii.edu/news/2025/01/24/uh-alumni-jarenn-murakami/">UH Alumni: Nordstrom manager credits job to relationship skills built at <abbr>UH</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/01/24/uh-alumni-jarenn-murakami/>
 
