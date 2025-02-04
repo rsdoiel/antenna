@@ -1,11 +1,53 @@
 ---
 title: ham radio
-updated: 2025-02-03 07:05:43
+updated: 2025-02-04 07:05:13
 ---
 
 # ham radio
 
-(date: 2025-02-03 07:05:43)
+(date: 2025-02-04 07:05:13)
+
+---
+
+## Investigating injection locking with DSO Bode function
+
+date: 2025-02-04, from: EDN Blog
+
+<img width="1375" height="823" src="https://www.edn.com/wp-content/uploads/Wyatt_InjectionLockingOscillator_Figure4.png?fit=1375%2C823" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Wyatt_InjectionLockingOscillator_Figure4.png?w=1375 1375w, https://www.edn.com/wp-content/uploads/Wyatt_InjectionLockingOscillator_Figure4.png?w=300 300w, https://www.edn.com/wp-content/uploads/Wyatt_InjectionLockingOscillator_Figure4.png?w=768 768w, https://www.edn.com/wp-content/uploads/Wyatt_InjectionLockingOscillator_Figure4.png?w=1024 1024w" sizes="(max-width: 1375px) 100vw, 1375px" /><p>Mike Wyatt uses the built-in Bode function of modern DSOs to investigate a Peltz oscillator with injection locking.</p>
+<p>The post <a href="https://www.edn.com/investigating-injection-locking-with-dso-bode-function/" data-wpel-link="internal">Investigating injection locking with DSO Bode function</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/investigating-injection-locking-with-dso-bode-function/>
+
+---
+
+## Intel comes down to earth after CPUs and foundry business review
+
+date: 2025-02-04, from: EDN Blog
+
+<img width="2880" height="1620" src="https://www.edn.com/wp-content/uploads/Hero-image-Intel.png?fit=2880%2C1620" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Intel.png?w=2880 2880w, https://www.edn.com/wp-content/uploads/Hero-image-Intel.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Intel.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Intel.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-Intel.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-Intel.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/Hero-image-Intel.png?w=1260 1260w, https://www.edn.com/wp-content/uploads/Hero-image-Intel.png?w=800 800w, https://www.edn.com/wp-content/uploads/Hero-image-Intel.png?w=1900 1900w" sizes="auto, (max-width: 2880px) 100vw, 2880px" /><p>The company’s co-CEOs acknowledge that there are no quick fixes in efforts to reboot the CPU and foundry businesses.</p>
+<p>The post <a href="https://www.edn.com/intel-comes-down-to-earth-after-cpus-and-foundry-business-review/" data-wpel-link="internal">Intel comes down to earth after CPUs and foundry business review</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/intel-comes-down-to-earth-after-cpus-and-foundry-business-review/>
+
+---
+
+## Functional safety in non-automotive BMS designs
+
+date: 2025-02-04, from: EDN Blog
+
+<img width="1996" height="1208" src="https://www.edn.com/wp-content/uploads/Fig-1-BMS-Architecture-2.jpg?fit=1996%2C1208" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-1-BMS-Architecture-2.jpg?w=1996 1996w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Architecture-2.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Architecture-2.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Architecture-2.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Architecture-2.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig-1-BMS-Architecture-2.jpg?w=1900 1900w" sizes="auto, (max-width: 1996px) 100vw, 1996px" /><p>Here is how functional safety works in non-automotive battery management systems (BMS) and how to achieve the required safety level.</p>
+<p>The post <a href="https://www.edn.com/functional-safety-in-non-automotive-bms-designs/" data-wpel-link="internal">Functional safety in non-automotive BMS designs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/functional-safety-in-non-automotive-bms-designs/>
 
 ---
 
@@ -13,7 +55,7 @@ updated: 2025-02-03 07:05:43
 
 date: 2025-02-03, from: EDN Blog
 
-<img width="1400" height="769" src="https://www.edn.com/wp-content/uploads/overview_inside-6.jpg?fit=1400%2C769" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/overview_inside-6.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/overview_inside-6.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/overview_inside-6.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/overview_inside-6.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Voice-driven assistants are helpful, but Alexa is awaits its AI upgrade, and Echo Auto is redundant with vehicles’ Apple/Google capabilities.</p>
+<img width="1400" height="769" src="https://www.edn.com/wp-content/uploads/overview_inside-6.jpg?fit=1400%2C769" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/overview_inside-6.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/overview_inside-6.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/overview_inside-6.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/overview_inside-6.jpg?w=1024 1024w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><p>Voice-driven assistants are helpful, but Alexa is awaits its AI upgrade, and Echo Auto is redundant with vehicles’ Apple/Google capabilities.</p>
 <p>The post <a href="https://www.edn.com/amazons-echo-auto-assistant-legacy-vehicle-retrofit-relevant/" data-wpel-link="internal">Amazon’s Echo Auto Assistant: Legacy vehicle retrofit-relevant</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

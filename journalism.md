@@ -1,11 +1,165 @@
 ---
 title: journalism
-updated: 2025-02-03 07:05:45
+updated: 2025-02-04 07:05:14
 ---
 
 # journalism
 
-(date: 2025-02-03 07:05:45)
+(date: 2025-02-04 07:05:14)
+
+---
+
+## Greenleaf closes after seven years at USC Village
+
+date: 2025-02-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University has not revealed its selection to replace the long-standing restaurant.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/04/greenleaf-closes-after-seven-years-at-usc-village/">Greenleaf closes after seven years at USC Village</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/04/greenleaf-closes-after-seven-years-at-usc-village/>
+
+---
+
+## ‘Companion’ is a startlingly philosophical, comical take on AI
+
+date: 2025-02-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Remember to be kind to ChatGPT as you discover just how human artificial intelligence can be. </p>
+<p>The post <a href="https://dailytrojan.com/2025/02/04/companion-is-a-startlingly-philosophical-comical-take-on-ai/">‘Companion’ is a startlingly philosophical, comical take on AI</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/04/companion-is-a-startlingly-philosophical-comical-take-on-ai/>
+
+---
+
+## Embracing my unserious side through music
+
+date: 2025-02-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Meat Loaf made me cry. No, mom, the singer.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/04/embracing-my-unserious-side-through-music/">Embracing my unserious side through music</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/04/embracing-my-unserious-side-through-music/>
+
+---
+
+## The 2025 Grammy Awards Celebrate LA Shining Through Adversity
+
+date: 2025-02-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Sunday night’s ceremony was a triumphant event that celebrated the resilience of L.A. </p>
+<p>The post <a href="https://dailytrojan.com/2025/02/04/the-2025-grammy-awards-celebrate-la-shining-through-adversity/">The 2025 Grammy Awards Celebrate LA Shining Through Adversity</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/04/the-2025-grammy-awards-celebrate-la-shining-through-adversity/>
+
+---
+
+## CSUN clubs gain more visibility at the Meet the Clubs event
+
+date: 2025-02-04, from: The Sundail (CSUN Student Newspaper)
+
+The Meet the Clubs gathering gave clubs and departments across CSUN the opportunity to connect with students and build community while enjoying a nice day with good music. The event... 
+
+<br> 
+
+<https://sundial.csun.edu/189341/news/csun-clubs-gain-more-visibility-at-the-meet-the-clubs-event/>
+
+---
+
+## Grammys 2025 Q&A: First-time winners share inspirations, emotions behind awarded compositions
+
+date: 2025-02-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Not every award may be presented on television, but winning a Grammy remains a once-in-a-lifetime experience.
+While this year’s 67th Annual Grammy Awards took on a powerful message of philanthropy and fire relief, the recognition of the best in music remained one of the event’s primary focuses. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/03/grammys-2025-qa-first-time-winners-share-inspirations-emotions-behind-awarded-compositions/>
+
+---
+
+## 101 Freeway Shuts Down as Thousands Protest or Anti-ICE Protests Lead to Freeway Closure
+
+date: 2025-02-04, from: The Sundail (CSUN Student Newspaper)
+
+Thousands of people gathered to protest President Donald Trump’s new immigration and deportation policies on Sunday, Feb. 2. The massive protest, promoted on social media, closed the 101 Freeway and... 
+
+<br> 
+
+<https://sundial.csun.edu/189302/news/101-freeway-shuts-down-as-thousands-protest-or-anti-ice-protests-lead-to-freeway-closure/>
+
+---
+
+## Valentines Gift Ideas
+
+date: 2025-02-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/02/03/valentines-gift-ideas/>
+
+---
+
+## CSUN Students Shine In Fire Relief Jazz Show
+
+date: 2025-02-04, from: The Sundail (CSUN Student Newspaper)
+
+The sounds of jazz music in a warm building brought community members together for a night of gathering for a good cause. Nomad LA, a relatively new brand, hosted its... 
+
+<br> 
+
+<https://sundial.csun.edu/189281/arts-entertainment/csun-students-shine-in-fire-relief-jazz-show/>
+
+---
+
+## Empowering Mental Health Communities with Custom T-Shirt Campaigns
+
+date: 2025-02-03, from: The Sundail (CSUN Student Newspaper)
+
+Image Source: Microsoft Copilot Whether you’re raising funds or just raising awareness, a well-managed mental health campaign that involves the wider community needs a multifaceted approach to pay off. With... 
+
+<br> 
+
+<https://sundial.csun.edu/189278/sundialbrandstudio/sundial-marketplace/empowering-mental-health-communities-with-custom-t-shirt-campaigns/>
+
+---
+
+## UCPD arrests 2 individuals for firearm-related offenses in Westwood
+
+date: 2025-02-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD have arrested two people since Friday near campus for firearm offenses.
+Police arrested one person across the street from Gayley Heights on Le Conte Avenue on Saturday. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/03/ucpd-arrests-2-individuals-for-firearm-related-offenses-in-westwood/>
+
+---
+
+## Accessible Tax Resources: CSUN VITA Clinic
+
+date: 2025-02-03, from: The Sundail (CSUN Student Newspaper)
+
+Located on CSUN’s campus, the Volunteer Income Tax Assistance (VITA) Clinic is one of 14 different locations throughout the Los Angeles area. The program offers a range of services, including... 
+
+<br> 
+
+<https://sundial.csun.edu/189270/news/accessible-tax-resources-csun-vita-clinic/>
 
 ---
 
@@ -51,12 +205,12 @@ date: 2025-02-03, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## Lunar New Year festival brings much needed joy to Pasadena
+## Lunar New Year festival brings joy to Pasadena
 
 date: 2025-02-03, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The Pacific Asia Museum asked attendees to donate art supplies for students affected by the Eaton fire.</p>
-<p>The post <a href="https://dailytrojan.com/2025/02/03/lunar-new-year-festival-brings-much-needed-joy-to-pasadena/">Lunar New Year festival brings much needed joy to Pasadena</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/03/lunar-new-year-festival-brings-much-needed-joy-to-pasadena/">Lunar New Year festival brings joy to Pasadena</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <br> 

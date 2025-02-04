@@ -1,11 +1,392 @@
 ---
 title: columns
-updated: 2025-02-03 07:05:44
+updated: 2025-02-04 07:05:13
 ---
 
 # columns
 
-(date: 2025-02-03 07:05:44)
+(date: 2025-02-04 07:05:13)
+
+---
+
+## 2025-02-04 Degrowth
+
+date: 2025-02-04, from: Alex Schroeder's Blog
+
+<h1 id="2025-02-04-degrowth">2025-02-04 Degrowth</h1>
+
+<p>I posted a picture from our living room on fedi and noticed that the book <a href="https://www.celinekeller.com/who-is-afraid-of-degrowth">Who is Afraid of Degrowth</a> by Céline Keller was visible on the coffee table.
+And a bit later, <a class="account" href="https://mastodon.nz/@aimee" title="@aimee@mastodon.nz">@aimee</a> shared a link to the <a href="https://degrowth.net/">International Degrowth Network</a>, specifically to their values and principles:</p>
+
+<blockquote>
+<p>Welcome to the heart of our movement: the values and principles of degrowth. This space explores the core ideas that drive us towards a sustainable and equitable future, from wellbeing and community to justice and care. As with any pluriversal movement, there are a wide variety of values and principles, not all of which must be fulfilled at once for something to qualify as &ldquo;degrowth&rdquo;. &ndash; <a href="https://explore.degrowth.net/degrowth/values-principles/">Values &amp; Principles: Explore degrowth</a></p>
+</blockquote>
+
+<p>I really like the two lists. Might be useful as a checklist before doing things. There&rsquo;s more on the site, of course.</p>
+
+<p>Values of Degrowth:</p>
+
+<ul>
+<li>Autonomy &amp; Democracy</li>
+<li>Care</li>
+<li>Justice</li>
+<li>Sustainability &amp; Sufficiency</li>
+<li>Well-being</li>
+<li>Sovereignty</li>
+<li>Community</li>
+</ul>
+
+<p>Principles of degrowth:</p>
+
+<ul>
+<li>Resource sovereignty: Be a steward of nature</li>
+<li>Embracing the Pluriverse: Celebrate a world of many worlds</li>
+<li>Circularity: Waste not, want not</li>
+<li>Socially useful production: What is not needed should not be made</li>
+<li>Decolonising Futures: Unlearn, relearn, and heal</li>
+<li>Small, not-for-profit cooperatives: People and planet, not profit</li>
+<li>Proximity &amp; Cosmolocalism: Produce local, design global</li>
+<li>Creative Visions: Art as a catalyst for change</li>
+<li>Convivial tools: Technology as a tool, not a master</li>
+<li>Healing Histories: Making amends for past wrongs</li>
+<li>Postwork: Work less, play more</li>
+<li>Active Change: Stand up, speak out</li>
+<li>Value sovereignty: What matters most</li>
+<li>Health: Well-being for All</li>
+<li>Commons: Decide together</li>
+<li>Reconnecting with Spirit: Rediscovering our bonds with the sacred</li>
+<li>Sharing: Sufficiency for all, overabundance for none</li>
+<li>Feminist Futures: Centering equality</li>
+<li>Relational goods: Less stuff, more relationships</li>
+<li>Transformative Learning: Empowering collective action</li>
+<li>Joie de vivre: If I can&rsquo;t dance, I don&rsquo;t want to be part of your economy</li>
+</ul>
+
+<p><a class="tag" href="/search/?q=%23Climate">#Climate</a> <a class="tag" href="/search/?q=%23Politics">#Politics</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-02-04-degrowth>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-04, from: Miguel de Icaza Mastondon feed)
+
+<p>The bitcoin grift didn’t work out, so maybe running gulags will.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113945678135220790>
+
+---
+
+## Deepfakes and the 2024 US Election
+
+date: 2025-02-04, updated: 2025-02-02, from: Bruce Schneier blog
+
+<p>Interesting <a href="https://knightcolumbia.org/blog/we-looked-at-78-election-deepfakes-political-misinformation-is-not-an-ai-problem">analysis</a>:</p>
+<blockquote><p>We analyzed every instance of AI use in elections collected by the WIRED AI Elections Project (<a href="https://www.cs.princeton.edu/~sayashk/political-misinformation/WIRED-data.html">source</a> for our analysis), which tracked known uses of AI for creating political content during elections taking place in 2024 worldwide. In each case, we identified what AI was used for and estimated the cost of creating similar content without AI.</p>
+<p>We find that (1) half of AI use isn&#8217;t deceptive, (2) deceptive content produced using AI is nevertheless cheap to replicate <em>without</em> AI, and (3) focusing on the demand for misinformation rather than the supply is a much more effective way to diagnose problems and identify interventions...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/deepfakes-and-the-2024-us-election.html>
+
+---
+
+## Go's map does not shrink
+
+date: 2025-02-04, from: Anton Zhiyanov blog
+
+Sad, but true. 
+
+<br> 
+
+<https://antonz.org/go-map-shrink/>
+
+---
+
+## How not to describe the Trump presidency
+
+date: 2025-02-04, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/how-not-to-describe-the-trump-presidency>
+
+---
+
+## February 3, 2025 
+
+date: 2025-02-04, from: Heather Cox Richardson blog
+
+I&#8217;m going to start tonight by stating the obvious: the Republicans control both chambers of Congress: the House of Representatives and the Senate. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-3-2025>
+
+---
+
+##  Donald Trump&#8217;s Executive Orders Aim to Create Jim Crow for Trans People.... 
+
+date: 2025-02-04, updated: 2025-02-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046125-donald-trumps-executive-o>
+
+---
+
+## Doing Trump’s Dirty Work
+
+date: 2025-02-04, from: Dan Rather's Steady
+
+Is the world&#8217;s richest man staging a &#8220;coup&#8221;? 
+
+<br> 
+
+<https://steady.substack.com/p/doing-trumps-dirty-work>
+
+---
+
+## LBJ on the Difference between Republicans and Democrats
+
+date: 2025-02-03, updated: 2025-02-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.lbjlibrary.org/life-and-legacy/the-lbj-the-nation-seldom-saw>
+
+---
+
+## A Hat Tip to United
+
+date: 2025-02-03, from: Doc Searls (at Harvard), New Old Blog
+
+United Airlines details 6 big inflight entertainment updates, including all-new Control Tower map, by Zach Griff in The Points Guy, is thick with welcome news for frequent United fliers, of which my wife and I are two. (So far I have clocked 1,533,214 miles with United, and she has about double that. We are also [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/02/03/a-hat-tip-to-united/>
+
+---
+
+## Towards a Computational Formalization for Foundations of Medicine
+
+date: 2025-02-03, from: Stephen Wolfram blog
+
+<span class="thumbnail"><img width="128" height="108" src="https://content.wolfram.com/sites/43/2025/02/icon-medicine-v1.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></span>A Theory of Medicine? As it’s practiced today, medicine is almost always about particulars: “this has gone wrong; this is how to fix it”. But might it also be possible to talk about medicine in a more general, more abstract way—and perhaps to create a framework in which one can study its essential features without [&#8230;] 
+
+<br> 
+
+<https://writings.stephenwolfram.com/2025/02/towards-a-computational-formalization-for-foundations-of-medicine/>
+
+---
+
+## ‘Apple in China’ — New Book by Patrick McGee, Coming in May
+
+date: 2025-02-03, updated: 2025-02-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://appleinchina.com/>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-02-03, from: Ryan Gantz Bluesky feed)
+
+THIS 
+
+THIS RIGHT HERE
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lhclfje7zc2q>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-03, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/12/25/leftfacingsanta.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Anyone who says <a href="https://x.com/DarrenJBeattie/status/1842239185203151053">competent white men</a> should be in charge probably has never actually run anything. Women are better in general at seeing the big picture and managing accordingly. A man is more likely to hone in on one aspect of the problem and if they're good, do something brilliant, but misses out on pretty much everything else. I, as a man, have had to severely discipline myself to get anything done, because that's how I'm built. Given a chance I will always put my head down and focus on one thing until its done, then the next and the next and so on. 
+
+<br> 
+
+<http://scripting.com/2025/02/03.html#a220843>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-02-03, from: Ryan Gantz Bluesky feed)
+
+if what’s happening at USAID feels vaguely familiar 
+
+it’s because some smug tech bro once posted “it’s so easy, i could code that in a weekend,” dismissing a nuanced project you and an org worked on for years
+
+that douchebag mindset has stormed the castle 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lhch24xbw22q>
+
+---
+
+## February 2, 2025
+
+date: 2025-02-03, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156408668/5a573177e36b5052c60cd1111109cc9f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156408668/5a573177e36b5052c60cd1111109cc9f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-2-2025-7ca>
+
+---
+
+## Rick Reilly’s ‘Commander in Cheat’
+
+date: 2025-02-03, updated: 2025-02-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://amzn.to/3Q8UJWd>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-03, from: Dave Winer's Scripting News)
+
+We need to change who reps us as much as we need to get the ones who current do rep us off their butts and actually do some representing. 
+
+<br> 
+
+<http://scripting.com/2025/02/03.html#a184756>
+
+---
+
+## Orion O6 ITX Arm V9 board - temper your expectations
+
+date: 2025-02-03, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Orion O6 ITX Arm V9 board - temper your expectations</span>
+
+            <p></p>
+
+<p>When I first heard about <a href="https://radxa.com/products/orion/o6/">Radxa's Orion O6</a>, it was being compared to Apple's M1 silicon, and the product page has extraordinary claims:</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">February 3, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/orion-o6-itx-arm-v9-board-temper-your-expectations>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-03, from: Dave Winer's Scripting News)
+
+Imho it would be smart for Musk to stop shutting things down and just do his work, whatever it is. By creating constant shitstorms he's making it impossible for anyone to defend him, and you can be sure some would be if what he was doing wasn't so blatantly outrageous. We never voted for that mofo. And every American alive, whatever their preference, thinks their own vote should count. That's going to be a massive hurdle for them to get over. 
+
+<br> 
+
+<http://scripting.com/2025/02/03.html#a184538>
+
+---
+
+## Elon Musk Cheats at Video Games
+
+date: 2025-02-03, updated: 2025-02-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.washingtonpost.com/technology/2025/01/29/elon-musk-video-games-diablo-path-exile/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzM4MTI2ODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzM5NTA5MTk5LCJpYXQiOjE3MzgxMjY4MDAsImp0aSI6ImE5NzNiNzFmLWZhY2ItNDM1OC04MzVjLTgxMDllYzRlOTRmZiIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjUvMDEvMjkvZWxvbi1tdXNrLXZpZGVvLWdhbWVzLWRpYWJsby1wYXRoLWV4aWxlLyJ9.6bhaQaNRUCuNxmd60eJAcRSeK6MxHzLlHhzT1E7HbZ4>
+
+---
+
+##  Heather Cox Richardson is perhaps too dispassionate in her piece about Trump&#8217;s/Musk&#8217;s... 
+
+date: 2025-02-03, updated: 2025-02-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046124-heather-cox-richardson-is>
+
+---
+
+## How the Muskrat is messing with your social security, your religion, and everything else
+
+date: 2025-02-03, from: Robert Reich's blog
+
+He and his goons must be stopped 
+
+<br> 
+
+<https://robertreich.substack.com/p/how-the-muskrat-is-messing-with-your>
+
+---
+
+##  Scholar of authoritarianism Timothy Snyder on the 2025 coup: &#8220;The people who... 
+
+date: 2025-02-03, updated: 2025-02-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046123-scholar-of-authoritariani>
+
+---
+
+##  A complete archive of all CDC datasets uploaded before January 28th, 2025.... 
+
+date: 2025-02-03, updated: 2025-02-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046122-a-complete-archive-of-all>
+
+---
+
+## ‘Don’t Believe Him’
+
+date: 2025-02-03, updated: 2025-02-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2025/02/02/opinion/ezra-klein-podcast-trump-column-read.html>
+
+---
+
+##  A simple guide to using Signal for government workers (written by a... 
+
+date: 2025-02-03, updated: 2025-02-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046121-a-simple-guide-to-using>
 
 ---
 

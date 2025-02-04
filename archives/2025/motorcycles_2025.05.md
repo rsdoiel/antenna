@@ -1,11 +1,110 @@
 ---
 title: motorcycles
-updated: 2025-02-03 07:05:46
+updated: 2025-02-04 07:05:15
 ---
 
 # motorcycles
 
-(date: 2025-02-03 07:05:46)
+(date: 2025-02-04 07:05:15)
+
+---
+
+## Guy Who Crashed Drone Into Firefighting Plane, and Founded Treyarch, Pleads Guilty
+
+date: 2025-02-04, from: Ride Apart, Electric Motorcycle News
+
+Tech bros gonna tech bro? 
+
+<br> 
+
+<https://www.rideapart.com/news/749491/drone-operator-super-scooper-crash/>
+
+---
+
+## EV Snowmobile Maker Taiga is Back After Nearly Dying
+
+date: 2025-02-04, from: Ride Apart, Electric Motorcycle News
+
+It's alive. Alive! 
+
+<br> 
+
+<https://www.rideapart.com/news/749478/taiga-electric-snowmobiles-vita-power-return/>
+
+---
+
+## Could Yamaha’s FZ-S Hybrid Point To More Mainstream Hybrid Motorcycles?
+
+date: 2025-02-04, from: Ride Apart, Electric Motorcycle News
+
+An integrated electric motor cranks out extra juice when accelerating.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/749372/yamaha-fzs-hybrid-more-hybrids-coming-soon/>
+
+---
+
+## Get Ready for the 2025 Bonneville Motorcycle Speed Trials, as Dates Announced
+
+date: 2025-02-04, from: Ride Apart, Electric Motorcycle News
+
+Clear your calendar and celebrate more than 20 years of Bonneville Motorcycle Speed Trials. 
+
+<br> 
+
+<https://www.rideapart.com/news/749294/2025-bonneville-motorcycle-speed-trials/>
+
+---
+
+## Honda Represents 40 Percent Of the Entire World's Motorcycle Market
+
+date: 2025-02-04, from: Ride Apart, Electric Motorcycle News
+
+And it’s eyeing 50 percent before 2030. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/749373/honda-40-percent-world-motorcycle-market-share/>
+
+---
+
+## Polaris Will Now Sell You a $140,000 Race-Ready UTV, One That Could Get You a Podium
+
+date: 2025-02-04, from: Ride Apart, Electric Motorcycle News
+
+Mama, I wanna go fast! 
+
+<br> 
+
+<https://www.rideapart.com/news/749463/polaris-rzr-pro-r-factory-off-road-race-spec-utv/>
+
+---
+
+## NASCAR’s Bowman Gray Stadium Experiment Made The Clash Exciting Again
+
+date: 2025-02-04, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor WINSTON-SALEM, N.C. &#8211; The latest installment of The Clash by NASCAR was a bigger success than the previous iterations involving racing stock cars around a football&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascars-bowman-gray-stadium-experiment-made-the-clash-exciting-again/>
+
+---
+
+## KTM's Parent Company Just Sold MV Agusta After Less Than a Year
+
+date: 2025-02-03, from: Ride Apart, Electric Motorcycle News
+
+The company is in a fight for its life, so it makes sense that it’s trimming the fat. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/749360/ktm-sells-mv-agusta-back-sardarov-pierer/>
 
 ---
 

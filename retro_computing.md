@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-02-03 07:05:46
+updated: 2025-02-04 07:05:15
 ---
 
 # retro computing
 
-(date: 2025-02-03 07:05:46)
+(date: 2025-02-04 07:05:15)
+
+---
+
+## WROCC club renewal may be due...
+
+date: 2025-02-04, from: Icon Bar, RISC OS News
+
+ 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2168.html>
 
 ---
 

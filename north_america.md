@@ -1,11 +1,1719 @@
 ---
 title: north america
-updated: 2025-02-03 07:05:43
+updated: 2025-02-04 07:05:12
 ---
 
 # north america
 
-(date: 2025-02-03 07:05:43)
+(date: 2025-02-04 07:05:12)
+
+---
+
+## Morning Roundup: Words and Billionaires we Could Do Without
+
+date: 2025-02-04, from: The Contrarian
+
+February 4: Featuring Former Representative Tom Malinowski, Jen Rubin's Word of the Week, a Congressional Standoff, and a nationwide eruption over Musk gaining access to our Treasury 
+
+<br> 
+
+<https://contrarian.substack.com/p/morning-roundup-words-and-billionaires>
+
+---
+
+## How Congress — and not the president — controls how taxpayer money is spent
+
+date: 2025-02-04, from: Market Place
+
+According to both the Constitution and the Impoundment Control Act of 1974, the president does not have the authority to spend or hold back funding Congress has appropriated.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/04/congress-president-trump-spending/>
+
+---
+
+## Housing could lose nearly $1.5 trillion in value due to climate change
+
+date: 2025-02-04, from: Market Place
+
+A new report by the First Street Foundation finds rising insurance costs and homeowners factoring in climate risk into purchase decisions could lower property values. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/04/housing-could-lose-nearly-1-5-trillion-in-value-due-to-climate-change/>
+
+---
+
+## Jen Rubin in Conversation with Former Representative Tom Malinowski 
+
+date: 2025-02-04, from: The Contrarian
+
+"What's the point of being in Congress if you don't have the power of the purse?" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156440806/0c22eba0a0b79cef140be58abbd70f54.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156440806/0c22eba0a0b79cef140be58abbd70f54.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-in-conversation-with-former>
+
+---
+
+## Words and Phrases We Could do Without:
+
+date: 2025-02-04, from: The Contrarian
+
+Media behemoths&#8217; &#8220;settlements&#8221; with Trump for nonsense litigation 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-could-do-without-3de>
+
+---
+
+## California’s Insurance Crisis Is Heating Up
+
+date: 2025-02-04, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjE2NzA2Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2NzM3ODE1M30.l2AsX7poN8F1JZDpTC0S1IVo02uJU_wtdGhTdRYFgJI/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><em><strong>Current conditions:</strong> A record-breaking 4 feet of snow fell on the Japanese island of Hokkaido • Nearly 6.5 feet of rain has inundated northern Queensland in Australia since Saturday • Cold Arctic air will <a href="https://www.accuweather.com/en/winter-weather/midweek-storm-to-bring-a-risk-of-severe-weather-significant-icing-to-central-eastern-us/1740514?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_CSE0x4mJWVvpWCz-lBZFmjyoUyWrsZVzGNd32GjzI_ZeOMdmCh9q8U9JfzHg5ODiZnPHd" rel="noopener noreferrer" target="_blank">collide</a> with warm air over central states today, creating dangerous thunderstorm conditions. </em></p><h2>THE TOP FIVE</h2><h3>1. China hits back at Trump tariffs </h3><p>President Trump yesterday agreed to a month-long <a href="https://heatmap.news/sparks/mexico-tariff-pause?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_CSE0x4mJWVvpWCz-lBZFmjyoUyWrsZVzGNd32GjzI_ZeOMdmCh9q8U9JfzHg5ODiZnPHd" target="_self">pause</a> on across-the-board 25% tariffs on Canada and Mexico, but went ahead with an additional 10% tariff on Chinese imports. China <a href="https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202502/t20250204_3955222.htm?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_CSE0x4mJWVvpWCz-lBZFmjyoUyWrsZVzGNd32GjzI_ZeOMdmCh9q8U9JfzHg5ODiZnPHd" rel="noopener noreferrer" target="_blank">retaliated</a> with new levies on U.S. products including fuel – 15% for coal and liquefied natural gas, and 10% for crude oil – starting February 10. “Chinese firms are unlikely to sign new long-term contracts with proposed U.S. projects as long as trade tensions remain high,” <a href="https://www.bloomberg.com/news/articles/2025-02-04/chinese-tariffs-on-us-lng-set-to-reroute-global-trade-flows?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_CSE0x4mJWVvpWCz-lBZFmjyoUyWrsZVzGNd32GjzI_ZeOMdmCh9q8U9JfzHg5ODiZnPHd" rel="noopener noreferrer" target="_blank">noted</a> <em><em>Bloomberg</em></em>. “This is bad news for those American exporters that need to lock in buyers before securing necessary financing to begin construction.” Trump recently ended the Biden administration’s pause on LNG export permits. A December <a href="https://heatmap.news/climate/lng-study?_hsmi=343609229&utm_content=343609229&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_CSE0x4mJWVvpWCz-lBZFmjyoUyWrsZVzGNd32GjzI_ZeOMdmCh9q8U9JfzHg5ODiZnPHd" target="_self">report</a> from the Department of Energy found that China was likely to be the largest importer of U.S. LNG through 2050, and many entities in China had already signed contracts with U.S. export projects. Trump is expected to speak with Chinese President Xi Jinping this week.</p><h3>2. State Farm seeks insurance rate hike after Los Angeles fires</h3><p>Insurance firm State Farm is looking to hike <a href="https://heatmap.news/podcast/shift-key-s2-e23-ca-fire-insurance-trump" target="_blank">insurance rates</a> for homeowners in California by 22% after the devastating wildfires that tore through Los Angeles last month. The company, which is the largest insurer in California, sent a <a href="https://newsroom.statefarm.com/download/90ab44d3-54d6-42b7-8d69-0d883fa5de78/february32025lettersenttocadepartmentofinsurance.pdf?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_CSE0x4mJWVvpWCz-lBZFmjyoUyWrsZVzGNd32GjzI_ZeOMdmCh9q8U9JfzHg5ODiZnPHd" rel="noopener noreferrer" target="_blank">letter</a> to the state’s insurance commissioner, asking for its immediate approval to increase home insurance by 22% for homeowners, 15% for tenants and renters, and 38% for “rental dwelling” in order to “help protect California’s fragile insurance market.” So far, the firm has received more than 8,700 claims and paid out more than $1 billion, but it expects to pay more. “Insurance will cost more for customers in California going forward because the risk is greater in California,” the company <a href="https://newsroom.statefarm.com/state-farm-general-insurance-company-update-on-california-2-2025/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_CSE0x4mJWVvpWCz-lBZFmjyoUyWrsZVzGNd32GjzI_ZeOMdmCh9q8U9JfzHg5ODiZnPHd" rel="noopener noreferrer" target="_blank">said</a> yesterday. “Higher risks should pay more for insurance than lower risks.” A <a href="https://firststreet.org/press/climate-driven-population-shifts-and-insurance-increases-are-set-to-erase-14-trillion-in-american-real-estate-value?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_CSE0x4mJWVvpWCz-lBZFmjyoUyWrsZVzGNd32GjzI_ZeOMdmCh9q8U9JfzHg5ODiZnPHd" rel="noopener noreferrer" target="_blank">report</a> out this week found that climate change is expected to shave $1.5 trillion off of U.S. home values by 2055 as insurance rates rise to account for the growing risk of extreme weather disasters. </p><h3>3. The urgent quest to decarbonize our buildings</h3><p>A new <a href="https://www.energy-transitions.org/wp-content/uploads/2025/01/ETC_Buildings-Decarbonisation-Report_DIGITALFINAL.pdf?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_CSE0x4mJWVvpWCz-lBZFmjyoUyWrsZVzGNd32GjzI_ZeOMdmCh9q8U9JfzHg5ODiZnPHd" rel="noopener noreferrer" target="_blank">report</a> outlines pathways to decarbonizing the buildings sector, which produces about one-third of global emissions. The analysis, from the Energy Transitions Commission, proposes three main priorities that need to be tackled: </p><ul><li><strong>Electrifying heating and cooking </strong>by swapping out fossil fuel-based appliances. Doing this comprehensively by 2050 could “bring annual emissions from building use close to zero” if we manage to decarbonize the grid.</li><li><strong>Boosting energy efficiency of appliances.</strong> Demand for heat pumps and air conditioners will rise as the planet heats up, so we need to find ways of squeezing more from these technologies while using less energy. That includes making our buildings more energy efficient in general.</li><li><strong>Decarbonizing construction </strong>by finding low-carbon ways to make building materials like steel and concrete, and using fewer building materials overall. We should also be better utilizing the buildings we already have. </li></ul><p>“This will require collaboration right across sector, between governments, industry bodies, and private companies,” said Stephen Hill, a sustainability and building performance expert at building design firm Arup. “We need to be ambitious, but if we get it right we can cut carbon, generate value for our economy, and improve people’s quality of life through action like improving living conditions and reducing fuel poverty.”</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="6610d237aae53f6fd8c4ce689ea7c72b" data-rm-shortcode-name="rebelmouse-image" id="3d114" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjE2NzA3My9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2ODE3MjAzN30.rxJqU9dPsbRsPq_Fpv7gMEJV4fynOj8Vm_ZQFsacDhU/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit..."> Energy Transitions Commission</small></p><h3>4. Chris Wright confirmed as new Energy Secretary</h3><p>Fracking executive <a href="https://heatmap.news/politics/chris-wright-energy?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_CSE0x4mJWVvpWCz-lBZFmjyoUyWrsZVzGNd32GjzI_ZeOMdmCh9q8U9JfzHg5ODiZnPHd" target="_self">Chris Wright</a> was <a href="https://www.reuters.com/world/us/wright-draws-enough-senate-votes-become-us-energy-secretary-2025-02-03/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_CSE0x4mJWVvpWCz-lBZFmjyoUyWrsZVzGNd32GjzI_ZeOMdmCh9q8U9JfzHg5ODiZnPHd" rel="noopener noreferrer" target="_blank">confirmed</a> yesterday as the new Energy Secretary. Wright is the CEO of the oilfield services firm Liberty Energy (though he has said he plans to step down) and a major Republican donor. He has a history of climate denialism. “There is no climate crisis, and we’re not in the midst of an energy transition,” <a href="https://www.linkedin.com/posts/chris-wright-b8370a17b_energysobriety-activity-7021514919787319298-xpzQ/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_CSE0x4mJWVvpWCz-lBZFmjyoUyWrsZVzGNd32GjzI_ZeOMdmCh9q8U9JfzHg5ODiZnPHd" rel="noopener noreferrer" target="_blank">Wright said in a video posted to LinkedIn last year</a>. Although during his confirmation hearings, he struck a different tone, avowing that climate change is happening and is caused by the combustion of hydrocarbons. He expressed enthusiasm for certain clean energy technologies, including next-generation geothermal and nuclear. Wright will be tasked with executing President Trump’s planned overhaul of U.S. energy policy, and expansion of domestic energy production. The Department of Energy has a $50 billion budget and is also in charge of maintaining the nation’s nuclear weapons stockpile.</p><h3>5. Tesla registrations drop as buyers recoil from Musk’s political meddling</h3><p>A few new reports find Tesla is seeing sales drops in some key markets, possibly due to CEO Elon Musk’s push into politics. In California, Tesla registrations fell by about 12% last year, <a href="https://www.cncda.org/wp-content/uploads/Cal-Covering-4Q-24-FINAL.pdf?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_CSE0x4mJWVvpWCz-lBZFmjyoUyWrsZVzGNd32GjzI_ZeOMdmCh9q8U9JfzHg5ODiZnPHd" rel="noopener noreferrer" target="_blank">according to</a> the California New Car Dealers Association, and the company’s EV market share in the state fell by 7.6%, while Kia, Hyundai, and Honda all made decent gains. “While high interest rates, tough competition, and the introduction of a restyled Model 3 sedan hurt the EV maker’s sales in California, the loss of business was likely exacerbated by Elon Musk’s involvement in the U.S. election,” <em><em>Reuters</em></em> <a href="https://www.reuters.com/business/autos-transportation/teslas-california-car-registrations-down-12-2024-report-shows-2025-02-03/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_CSE0x4mJWVvpWCz-lBZFmjyoUyWrsZVzGNd32GjzI_ZeOMdmCh9q8U9JfzHg5ODiZnPHd" rel="noopener noreferrer" target="_blank">reported</a>. Tesla is also running into trouble across the pond, where Musk has been meddling in European politics, throwing his weight behind far-right parties. In the European Union, Tesla registrations fell 13% last year, but dropped 41% in Germany, the bloc’s biggest BEV market. Last month, Tesla registrations dropped by <a href="https://www.bloomberg.com/news/articles/2025-02-03/tesla-sales-plunge-63-in-france-the-eu-s-second-biggest-ev-market?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_CSE0x4mJWVvpWCz-lBZFmjyoUyWrsZVzGNd32GjzI_ZeOMdmCh9q8U9JfzHg5ODiZnPHd" rel="noopener noreferrer" target="_blank">about 63%</a> in France, <a href="https://www.reuters.com/business/autos-transportation/tesla-loses-market-share-sweden-norway-musk-looms-large-2025-02-03/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_CSE0x4mJWVvpWCz-lBZFmjyoUyWrsZVzGNd32GjzI_ZeOMdmCh9q8U9JfzHg5ODiZnPHd" rel="noopener noreferrer" target="_blank">44% in Sweden, and 38% in Norway</a>. </p><h2>THE KICKER</h2><p>Researchers have <a href="https://www.sciencedirect.com/science/article/pii/S0048969724011197?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_CSE0x4mJWVvpWCz-lBZFmjyoUyWrsZVzGNd32GjzI_ZeOMdmCh9q8U9JfzHg5ODiZnPHd" rel="noopener noreferrer" target="_blank">developed</a> a new variety of rice that has a higher crop yield than other varieties, but emits 70% less methane.</p> 
+
+<br> 
+
+<https://heatmap.news/climate/california-fire-insurance-rates-hike>
+
+---
+
+## Taliban threaten to use US arms to thwart attempts to retake them
+
+date: 2025-02-04, from: VOA News USA
+
+ISLAMABAD  — The Taliban have warned that the military weapons left behind by the United States in Afghanistan now belong to them as "spoils of war" and will be utilized to defend against any attempts to reclaim them. 
+
+ 
+
+The statement marks the first official response from the internationally unrecognized government in Kabul to President Donald Trump’s pledge on the eve of his Jan. 20 inauguration to retrieve U.S. arms from the de facto Islamist Afghan leaders.  
+
+ 
+
+
+
+
+“The weapons that America abandoned in Afghanistan, as well as those provided to the former Afghan regime, are now in the possession of the Mujahideen [or Taliban forces] as spoils of war,” claimed Zabihullah Mujahid, the chief Taliban spokesperson, while participating in an X space session late on Monday.  
+
+ 
+
+“The Afghan people now own these weapons and are utilizing them to defend their independence, sovereignty, and Islamic system. No external force can compel us to surrender these weapons, nor will we accept any demands for their surrender,” Mujahid stated. “We will use these weapons to repel invaders who dare to seize them.” 
+
+ 
+
+U.S.-led Western troops were stationed in Afghanistan for nearly two decades to counter terrorist groups and protect the internationally backed government in Kabul at the time. They hastily and chaotically withdrew in August 2021, just days after the then-insurgent Taliban stormed back to power. 
+
+ 
+
+A U.S. Department of Defense report in 2022 found that about $7 billion worth of military hardware was left behind in Afghanistan after the military withdrawal was completed. The equipment, including aircraft, air-to-ground munitions, military vehicles, weapons, communications equipment, and other materials, was subsequently seized by the Taliban. 
+
+
+
+
+Trump stated in his pre-inauguration remarks at a rally in Washington last month that his predecessor, Joe Biden, “gave our military equipment, a big chunk of it, to the enemy.” He went on to warn that future financial assistance to Taliban-ruled Afghanistan would be contingent upon the return of U.S. military arms.  
+
+ 
+
+“If we’re going to pay billions of dollars a year, tell them we’re not going to give them the money unless they give back our military equipment,” Trump said then, without elaborating.  
+
+ 
+
+Mujahid, while speaking on Monday, rejected Trump’s assertions, saying the Taliban have not received “a single penny” from the U.S. in financial aid since regaining control of the country. He stated that Kabul has neither anticipated nor sought any assistance from Washington.  
+
+ 
+
+The Taliban have displayed U.S. military gear in their so-called victory day celebrations since returning to power in Afghanistan. 
+
+ 
+
+The U.S. troop exit from Afghanistan stemmed from the February 2020 Doha Agreement that the first Trump administration negotiated with the then-insurgent Taliban. Biden completed and defended the military withdrawal, saying the choice he had was either to follow through on that agreement or be prepared to go back to fighting the Taliban. 
+
+<br> 
+
+<https://www.voanews.com/a/taliban-threaten-to-use-us-arms-to-thwart-attempts-to-retake-them-/7962251.html>
+
+---
+
+## Trump’s Little Coal Reprieve
+
+date: 2025-02-04, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjE1NDY2OC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2ODk2MTk5NH0.iaEfEBUvuBXyqscrYznrKu3v3yTT_w1LIVUw72cfVnw/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps"><a href="https://www.whitehouse.gov/remarks/2025/01/remarks-by-president-trump-at-the-world-economic-forum/" rel="noopener noreferrer" target="_blank"><u>Appearing</u></a> by video connection to the global plutocrats assembled recently at Davos, Donald Trump interrupted a rambling answer to a question about liquefied natural gas to proclaim that he had come up with a solution to the energy demand of artificial intelligence (“I think it was largely my idea, because nobody thought this was possible”), which is to build power plants near data centers to power them. And a key part of the equation should be coal. “Nothing can destroy coal — not the weather, not a bomb — nothing,” he said. “But coal is very strong as a backup. It’s a great backup to have that facility, and it wouldn’t cost much more — more money. And we have more coal than anybody.” </p><p>There is some truth there — the United States <a href="https://ourworldindata.org/grapher/coal-proved-reserves" rel="noopener noreferrer" target="_blank"><u>does in fact</u></a> have the largest coal reserves in the world — and AI may be offering something of a lifeline to the declining industry. But with Trump now talking about coal as a “backup,” it’s a reminder that he brings up the subject much less often than he used to. Even if coal will not be phased out as an electricity source quite as quickly as many had hoped or anticipated, Trump’s first-term promise to coal country will remain a broken one. </p><p>Yet in an unusual turn of events, the anticipated explosion of demand for electricity on its way over the next few years has led some utilities to <a href="https://www.spglobal.com/commodity-insights/en/news-research/latest-news/electric-power/110524-us-power-generators-pump-the-brakes-on-coal-plant-retirements#:~:text=Duke%20Energy%20Indiana%2C%20in%20an,and%20natural%20gas%20through%202038." rel="noopener noreferrer" target="_blank"><u>scale back</u></a> their existing plans to shutter coal-fired power plants, foreseeing that they’ll need every electron they can generate. Ironically, <a href="https://heatmap.news/economy/georgia-power-coal" target="_self"><u>especially in Georgia</u></a>, that need is driven by a boom in green manufacturing. </p><p>Nevertheless, coal’s decline is still remarkable. At the start of the 21st century, coal was the primary source of electricity generation in 32 states; now <a href="https://www.nytimes.com/interactive/2024/08/02/climate/electricity-generation-us-states.html" rel="noopener noreferrer" target="_blank"><u>that number</u></a> is down to 10 and dropping. As recently as 2007, coal <a href="https://www.eia.gov/energyexplained/electricity/electricity-in-the-us.php" rel="noopener noreferrer" target="_blank"><u>accounted</u></a> for half the country’s electricity; the figure is now 16%. Worldwide coal demand keeps <a href="https://www.mining.com/web/coal-demand-to-keep-hitting-records-through-2027-iea-says/" rel="noopener noreferrer" target="_blank"><u>increasing</u></a>, mostly because of China and India. But here in the United States, the trajectory is only going in one direction. </p><p>Confronted with those facts, a politician could take one of two basic paths. The first is to make impossible promises to voters in coal country, telling them that the jobs that have disappeared will be brought back, their communities will be revitalized, and the dignity they feel they have lost will be returned.</p><p>That was the path Donald Trump took. He talked a lot about coal in 2016, making grand promises about the coal revival he would bring if elected. At a rally in West Virginia, he donned a hardhat, pretended to shovel some coal, <a href="https://www.washingtonpost.com/video/politics/trump-receives-warm-welcome-in-coal-country/2016/05/06/9259c5ea-1327-11e6-a9b5-bf703a5a7191_video.html" rel="noopener noreferrer" target="_blank"><u>and said</u></a>, “For those miners, get ready, because you’re going to be working your asses off.” And in Trumpian style, if he couldn’t keep the promise, he’d just say he did. “The coal industry is back,” <a href="https://www.nytimes.com/2020/10/05/us/politics/trump-coal-industry.html" rel="noopener noreferrer" target="_blank"><u>he said</u></a> in 2018, a year which saw the <a href="https://www.eia.gov/todayinenergy/detail.php?id=40212#:~:text=In%202018%2C%20plant%20owners%20retired,15%20GW%2C%20occurred%20in%202015." rel="noopener noreferrer" target="_blank"><u>second-most coal capacity retired</u></a> in the country’s history to that point. “We’re putting our great coal miners back to work,” <a href="https://www.politifact.com/factchecks/2020/oct/14/donald-trump/fact-checking-trumps-claim-pa-hes-putting-our-grea/" rel="noopener noreferrer" target="_blank"><u>he said</u></a> on the campaign trail in 2020, when the number of coal-producing mines in the U.S. <a href="https://www.eia.gov/todayinenergy/detail.php?id=48936" rel="noopener noreferrer" target="_blank"><u>declined by 18%</u></a>. </p><p>When Trump took office in January 2017, there were just over 50,000 coal jobs left in the country after <a href="https://fred.stlouisfed.org/series/CES1021210001" rel="noopener noreferrer" target="_blank"><u>decades of decline</u></a>. When he left office in 2021, the number was down to 38,000. The number is slightly higher today at around 43,000, but it’s still infinitesimal as a portion of the economy. </p><p>Trump’s failure to bring back coal jobs wasn’t because his affection for the fuel source was insincere. He certainly had as coal-friendly an administration as one could imagine; his second pick to run the Environmental Protection Agency was a <a href="https://www.reuters.com/article/world/trump-nominates-acting-epa-head-an-ex-coal-lobbyist-to-run-agency-idUSKCN1P326H/" rel="noopener noreferrer" target="_blank"><u>coal lobbyist</u></a>. But the triumvirate of forces that drove those job reductions — automation, emissions-limiting regulations, and competition from fracked natural gas — were irresistible.</p><p>The second path for a politician confronting the structural decline of coal is to take concrete steps to create new opportunities in coal country that offer people a better economic future. That was what the Biden administration tried to do. As part of its clean energy push, Biden put a particular focus on siting new projects in underserved communities, including in areas where coal still defines the culture even though the jobs are long gone. The administration also <a href="https://web.archive.org/web/20241107062156/https://www.energy.gov/articles/biden-harris-administration-announces-425-million-decarbonize-and-manufacture-clean-energy" rel="noopener noreferrer" target="_blank"><u>directed</u></a> hundreds of millions of dollars in funding “to ensure former coal communities can take full advantage of the clean energy transition and continue their leading role in powering our nation,” in the words of then-Energy Secretary Jennifer Granholm. Or as the Treasury Department <a href="https://home.treasury.gov/news/featured-stories/anchoring-clean-energy-manufacturing-investments-in-coal-country-and-beyond" rel="noopener noreferrer" target="_blank"><u>put it</u></a>, the administration was working “to strengthen the economies of coal communities and other areas that have experienced underinvestment in past decades.” These were real commitments, backed up by real dollars.</p><p>Today, the new Trump administration is committed to freezing, reversing, and clawing back as much of Biden’s clean energy agenda as it can. Whether that includes these investments in coal country remains to be seen. </p><p>There’s good reason to believe it will, however, both because of the antipathy Trump and his team hold for anything that has Biden’s fingerprints on it, and because Trump understands the fundamental truth of his political relationship to coal country: Its support for him is unshakeable, no matter the policy outcome.</p><p>Take just one example: Harlan County, Kentucky, site of the extraordinary 1976 documentary <a href="https://en.wikipedia.org/wiki/Harlan_County,_USA" rel="noopener noreferrer" target="_blank"><u><em><em>Harlan County, USA</em></em></u></a>, which chronicled a strike by miners demanding fair wages and working conditions. Coal is still being mined in Harlan County, but <a href="https://eec.ky.gov/Energy/News-Publications/Quarterly%20Coal%20Reports/2023-Q2.pdf" rel="noopener noreferrer" target="_blank"><u>as of 2023</u></a>, only 577 people there were employed in the industry, or about one in every 19 working-age people in the county. It <a href="https://www.census.gov/quickfacts/fact/table/harlancountykentucky/PST045224" rel="noopener noreferrer" target="_blank"><u>remains</u></a> overwhelmingly white and overwhelmingly poor — and the voters there love Trump. He got 84.9% of the vote in 2016, 85.4% in 2020, and 87.7% in 2024. </p><p>It might be fair to ask what people in Harlan County and across coal country have to show for their support for the president. The absolute best he can offer them is that while coal will continue to decline under his presidency, it might decline a bit slower than it otherwise would have. Even if escalating electricity demand offers an opportunity for the coal industry, there’s little reason to believe it will <em><em>reverse</em></em> coal’s decline in America. At most it could flatten the curve, allowing some coal plants to remain in operation a few years longer than planned. </p><p>A future where coal is at most a miniscule part of America’s energy mix with a tiny labor force producing it seems inevitable. Most people in coal country understand that, as much as they might like it to be otherwise. If only their favorite politician would admit it to them — and commit to offering them more than fables — they could start building something better. </p> 
+
+<br> 
+
+<https://heatmap.news/politics/trump-ai-coal>
+
+---
+
+## Trump hosting Netanyahu for White House talks amid Gaza ceasefire
+
+date: 2025-02-04, from: VOA News USA
+
+U.S. President Donald Trump is set to host Israeli Prime Minister Benjamin Netanyahu for talks Tuesday at the White House with Israel’s ceasefire with Hamas militants in the Gaza Strip at the top of the agenda.
+
+
+The talks come at a key phase in the ceasefire. Israel and Hamas have less than four weeks to agree on the terms of the second phase, which would include the release of all remaining hostages held in Gaza, a permanent halt in fighting and Israel’s withdrawal from the territory.
+
+
+“I have no guarantees that the peace is going to hold,” Trump told reporters Monday.
+
+
+Ahead of the White House visit, Netanyahu met Monday with U.S. Middle East envoy Steve Witkoff, who was part of the push to secure the ceasefire deal.
+
+
+Netanyahu’s office said in a statement that the meeting was “positive and friendly,” and that he would meet with his Security Cabinet upon returning from the U.S. in order to “discus Israel’s overall positions regarding the second stage of the deal.”
+
+
+Witkoff is expected to hold talks with Qatari and Egyptian officials as the three countries continue in their role of mediating the halt in fighting.
+
+
+In addition to the ceasefire, Netanyahu said he and Trump would discuss countering Iranian aggression and expanding diplomatic relations with Arab countries.
+
+
+Trump brokered normalization agreements between Israel and four Arab countries in his first term. He now is seeking a wider agreement in which Israel would forge ties with Saudi Arabia.  
+
+
+But Saudi Arabia has said it would only agree to such a deal if the war in Gaza ends and there is a credible pathway to a Palestinian state in Gaza, the West Bank and east Jerusalem, territories Israel captured in the 1967 Middle East war.  
+
+
+The U.S. supports Palestinian statehood, but Netanyahu's government is opposed.
+
+
+Hamas, a U.S.-designated terror group, has released 18 hostages so far, while Israel has freed hundreds of Palestinian prisoners.
+
+
+The war in Gaza began with the Oct. 7, 2023, attack in which Hamas militants killed 1,200 people and took about 250 people hostage.
+
+
+Israel’s counteroffensive during 15 months of warfare has killed more than 47,500 Palestinians, more than half of them women and children. Israel’s military says the death toll includes 17,000 militants it has killed.   
+
+
+Some material in this report came from The Associated Press, Agence France-Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-hosting-netanyahu-for-white-house-talks-amid-gaza-ceasefire/7962063.html>
+
+---
+
+## US tariffs on Chinese goods go into effect
+
+date: 2025-02-04, from: VOA News USA
+
+New U.S. tariffs on Chinese goods went into effect Tuesday, with China quickly announcing tariffs on U.S. imports in response.
+
+
+China said it would impose 15% tariffs on U.S. coal and liquified natural gas, as well as 10% tariffs on crude oil, agricultural machinery and some automobiles.
+
+
+The U.S. measures involve a 10% tariff on all Chinese goods, which Trump announced in an effort to pressure China to take action to prevent fentanyl smuggling into the United States.   
+
+
+The U.S. government has identified China as a major source of the precursor chemicals used by Mexican drug cartels to manufacture fentanyl.
+
+
+
+
+China has said it has taken steps to crack down on the industry and illicit drug trade.
+
+
+"China hopefully is going to stop sending us fentanyl, and if they're not, the tariffs are going to go substantially higher," Trump said.
+
+
+White House press secretary Karoline Leavitt said Monday that Trump would speak with Chinese President Xi Jinping in the coming days.
+
+
+Trump on Monday announced a one-month pause for the 25% tariffs on Mexican and Canadian goods after he spoke with Mexican President Claudia Sheinbaum and Canadian Prime Minister Justin Trudeau.
+
+
+Sheinbaum said she would dispatch 10,000 National Guard troops to try to curb the flow of fentanyl into the United States.
+
+
+
+
+"Mexico will reinforce the northern border … to stop drug trafficking from Mexico to the United States, in particular fentanyl," Sheinbaum posted on X after talking with Trump. "The United States commits to work to stop the trafficking of high-powered weapons to Mexico."
+
+
+The Mexican leader added that the two countries would continue talks on security and trade and that "the tariffs are put on pause for a month from now."
+
+
+Trudeau said Canada would deploy new technology and personnel along its border with the United States to stop the flow of fentanyl.
+
+
+
+
+"I just had a good call with President Trump," Trudeau said on X. "Proposed tariffs will be paused for at least 30 days while we work together."
+
+
+Both Sheinbaum and Trudeau, representing two of the three biggest U.S. trading partners along with China, protested Trump’s tariff plans and vowed to retaliate.
+
+
+Kevin Hassett, director of the White House National Economic Council, said Monday that it was misleading to characterize the showdown over tariffs as a trade war, despite the planned retaliations from Mexico, Canada and China and the risk of escalation.
+
+
+"Read the executive order where President Trump was absolutely, 100% clear that this is not a trade war," Hassett said. "This is a drug war."
+
+
+Trump acknowledged Sunday that the new tariffs on the three biggest U.S. trading partners could hit inflation-weary Americans with higher prices for groceries, gasoline, cars and other consumer goods, but said the higher tariffs would be “worth the price” to bolster U.S. interests.
+
+
+U.S. consumers could face higher prices because companies that pay the tariffs to the federal government to import goods from other countries then often pass on at least part, if not all, of their higher costs to consumers, rather than absorb their extra expenses themselves.
+
+
+Tensions ramped up Monday with the leader of Canada's most populous province of Ontario announcing that he is ending a contract with Elon Musk's Starlink internet services in response to Trump's new tariff on Canada. Musk, possibly the world’s richest man, is a key Trump adviser seeking to sharply cut U.S. government spending and trim the ranks of 2.3 million federal civilian workforce through buyouts.
+
+
+Ontario Premier Doug Ford, who said he is also banning American companies from provincial contracts, signed a $68 million deal with Musk's company in November to deliver high-speed internet to remote residents in rural and northern Ontario.
+
+
+"We'll be ripping up the province's contract with Starlink. Ontario won't do business with people hellbent on destroying our economy," Ford said in a post on X.
+
+
+Some material in this report came from The Associated Press, Agence France-Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/us-tariffs-on-chinese-goods-go-into-effect/7962056.html>
+
+---
+
+## Rubio visiting Costa Rica, Guatemala on trip focused on migration and security ties
+
+date: 2025-02-04, from: VOA News USA
+
+STATE DEPARTMENT — U.S. Secretary of State Marco Rubio is set to hold meetings Tuesday with officials in Costa Rica and later in Guatemala as part of a tour of Latin America focused on migration, security cooperation and countering Chinese influence in the region.
+
+
+Rubio was in El Salvador for talks Monday with President Nayib Bukele, and he announced that Bukele had offered to accept any deportees from the United States, regardless of their nationality.
+
+
+“He’s also offered to do the same for dangerous criminals currently in custody and serving their sentences in the United States even though they’re U.S. citizens or legal residents,” Rubio said.
+
+
+The U.S. government cannot legally deport U.S. citizens.
+
+
+Rubio said El Salvador would fully cooperate on the repatriation of Salvadorans who are in the United States illegally, calling the deal “the most unprecedented, extraordinary, extraordinary migratory agreement anywhere in the world.”
+
+
+Bukele said on X that his government offered the U.S. “the opportunity to outsource part of its prison system,” with El Salvador accepting a fee to hold convicted criminals in its Terrorism Confinement Center mega prison.
+
+
+“The fee would be relatively low for the U.S. but significant for us, making our entire prison system sustainable,” Bukele said.
+
+
+The State Department said Rubio also raised strategies to counter the influence of the Chinese Communist Party in the Western Hemisphere to safeguard the sovereignty and interests of both nations and the region.
+
+
+His visit comes amid the restructuring of a U.S. agency overseeing foreign aid, which has sparked a showdown between congressional Democrats and President Donald Trump’s administration.
+
+
+Rubio announced that he is now the acting administrator of the U.S. Agency for International Development but has delegated his authority to another official. He stressed that the agency must align U.S. foreign aid with national interests and comply with State Department policy directives.
+
+
+Late Monday, the United States and El Salvador also signed a memorandum of understanding, or MOU, on civil nuclear cooperation, expanding strategic relations between the two nations.
+
+
+The State Department said the MOU marks an initial step toward building a robust civil nuclear partnership, aiming to enhance energy security and foster economic cooperation.
+
+
+Curtailing illegal immigration
+
+
+Bukele is regarded as a key ally of the United States in its regional efforts to address the migration crisis.
+
+
+On Oct. 7, 2024, the United States and El Salvador signed a Customs Mutual Assistance Agreement, further strengthening border security and facilitating trade between the two countries.
+
+
+El Salvador was once the third-largest source of nationals captured at the U.S. southwest border. Today, it no longer ranks among the top 10.
+
+
+Chinese influence
+
+
+U.S. President Trump has maintained warm relations with Salvadoran President Bukele, who also strengthened ties with Chinese President Xi Jinping following his state visit to Beijing in December 2019.
+
+
+During Bukele’s visit, China promised millions in development projects for the Central American country through a series of agreements. Among them were a soccer stadium, a national library, a tourist pier, and funding for water treatment improvements.
+
+
+In April 2024, China and El Salvador began negotiations on a free trade agreement, though the United States remains El Salvador’s primary trading partner.
+
+
+El Salvador formally recognized the People's Republic of China on Aug. 21, 2018, severing diplomatic ties with Taiwan.
+
+
+Panama
+
+
+Earlier Monday, Rubio observed a U.S.-funded deportation flight departing from Albrook International Airport in Panama, returning dozens of undocumented Colombians to their home country. A total of 32 men and 11 women were repatriated, including seven individuals with criminal records.
+
+
+The top U.S. diplomat said it sent “a clear message” that people who sought to enter the U.S. border irregularly would be stopped and sent back to their countries of origin.
+
+
+On July 1, 2024, the first day of Panamanian President José Raúl Mulino’s term, the U.S. and Panama signed a memorandum of understanding aimed at jointly reducing the number of migrants illegally crossing through Panama’s Darién region en route to the United States.
+
+
+The program is funded by the U.S. State Department and implemented by the Department of Homeland Security. Monday’s deportation was carried out under the MOU and following a State Department waiver that lifted a previous pause on U.S. foreign aid.
+
+
+“This is an effective way to stem the flow of illegal migration, of mass migration, which is destructive and destabilizing,” Rubio told reporters at the Albrook International Airport.
+
+
+“This flight today was possible due to a waiver that we've issued,” he added. “We’re going to issue a broader one to continue this cooperation.”
+
+
+Under the 2024 MOU, the United States has provided nearly $2.7 million to fund flights and tickets to repatriate migrants to their countries of origin.
+
+
+Since the first repatriation flight on August 20, 2024, over 40 charter flights have been conducted from Panama to more than 14 countries, returning more than 1,700 undocumented migrants. Destinations have included Colombia, Ecuador, India, and Vietnam.
+
+
+Panama recently reported a 90% decrease in migrants crossing the Darién region compared to the same period last year.
+
+
+Canal controversy
+
+
+On Sunday, Rubio warned Panama that Washington will "take necessary measures" if Panama does not take immediate steps to end what U.S. President Donald Trump described as China's “influence and control” over the Panama Canal.
+
+
+“Secretary Rubio made clear that this status quo is unacceptable,” State Department spokesperson Tammy Bruce said in a statement after Rubio’s talks with Mulino.
+
+
+Mulino also announced that Panama has decided not to renew a 2017 memorandum with China on Beijing’s Belt and Road Initiative and will seek to void agreements with the Chinese government before their official expiration dates.
+
+
+"We'll study the possibility of terminating it early,” Mulino added on Sunday.
+
+
+The Belt and Road Initiative, or BRI, is a massive infrastructure project launched by China in 2013 under President Xi Jinping, aiming to connect multiple continents through land and maritime routes. The United States has cautioned that the BRI “is fueled by China's mission to manipulate and undermine the global rules-based trading system for its own benefit.”
+
+
+At the United Nations, Chinese Ambassador Fu Cong dismissed the accusations against China as “totally false” and “pointless.” He said that China has never participated in the management or operation of the Panama Canal nor interfered in its affairs. He also reaffirmed respect for Panama’s sovereignty and the canal’s status as a neutral international gateway.
+
+
+The Chinese ambassador further called Panama’s decision not to renew the BRI agreement “regrettable.”
+
+
+After visiting Panama, El Salvador, Costa Rica and Guatemala, Rubio’s trip closes with a stop in the Dominican Republic.
+
+
+Margaret Besheer contributed to this report. Some information for this story was provided by The Associated Press and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/us-el-salvador-reach-unprecedented-deal-to-curb-illegal-immigration/7962030.html>
+
+---
+
+## Trump suggests Ukraine’s rare minerals as condition for continued support
+
+date: 2025-02-04, from: VOA News USA
+
+U.S. President Donald Trump said he would possibly be interested in continuing U.S. aid to Ukraine in exchange for access to Ukraine’s rare earth minerals.
+
+
+“We’re looking to do a deal with Ukraine where they’re going to secure what we’re giving them with their rare earth and other things,” Trump said Monday in the Oval Office.
+
+
+Trump has indicated Ukraine is open to the possibility of an agreement of delivering rare earth minerals to the U.S. in exchange for the continuation of U.S. aid to Ukraine for its war against Russia, according to an Associated Press report.
+
+
+“We’re putting in hundreds of billions of dollars. They have great rare earth. And I want security of the rare earth, and they’re willing to do it,” the U.S. president said.
+
+
+Rare earth minerals like those in Ukraine, include lithium and titanium. They are essential for an array of modern high-tech products.
+
+
+In his daily address Monday, before Trump’s announcement, Ukraine’s president reiterated the country’s need to defend itself against Russia’s ongoing attacks.  He said Russia is “focusing primarily” on Ukraine’s energy sector.
+
+
+“They continue their attacks, constantly adjusting their strikes to the capabilities of our defense, making them more difficult to repel,” Volodymyr Zelenskyy said.
+
+
+“There is a constant rapid evolution of electronic warfare,” the president said and urged Ukraine to “be much faster” in adjusting to the continuous changes. 
+
+
+The supply of air defense systems for Ukraine is another issue for the Eastern European country. Zelenskyy said that the supplies are “critical and must not stop.”   
+
+
+“We must constantly search worldwide for ways to strengthen defense, increase production of necessary equipment in Ukraine, expand localization of production and obtain licenses from our partners,” the president said. “This is a huge undertaking, and much of Ukraine’s future depends on it.” 
+
+
+Zelenskyy also said in his daily address that he talked Monday with Ukraine’s military Commander in Chief Oleksandr Syrskyi about modernizing the country’s armed forces.  
+
+
+As part of that discussion, the two men also talked about appointing corps commanders who “must be the most prepared, most promising officers, with combat experience and [a] modern mindset.”  
+
+
+While the president said, “The army must be modern,” he also said, “most importantly, it must value its people.” 
+
+
+ 
+
+
+
+
+Earlier Monday, Russian officials said that Ukrainian drone attacks targeted energy facilities in two regions in southwestern Russia.
+
+
+Volgograd Governor Andrei Bocharov said falling debris from drones destroyed by Russian air defenses sparked fires at an oil refinery.
+
+
+Astrakhan Governor Igor Babushkin said the Ukrainian attacks focused on fuel and energy facilities, starting a fire in his region but causing no casualties.
+
+
+The officials did not give details about the sites involved in the attacks.
+
+
+Russia’s Defense Ministry said Monday it shot down 70 Ukrainian drones overnight, including over the Rostov, Volgograd, Astrakhan, Voronezh, Belgorod and Kursk regions.
+
+
+Belgorod Governor Vyacheslav Gladkov said on Telegram the attacks damaged three houses and an agricultural business.
+
+
+Ukraine’s military said Monday it destroyed 38 of the 71 drones that Russian forces launched in overnight attacks.
+
+
+The intercepts took place over the Cherkasy, Chernihiv, Dnipropetrovsk, Kharkiv, Khmelnytskyi, Kyiv, Poltava, Sumy, Vinnytsia and Zaporizhzhia regions.
+
+
+Cherkasy Governor Ihor Taburets said on Telegram that falling drone debris damaged four residential buildings.
+
+
+Kharkiv Governor Oleh Syniehubov reported the Russian attack damaged a school.
+
+
+Some information for this story was provided by The Associated Press and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-suggests-ukraine-s-rare-minerals-as-condition-for-continued-support/7962023.html>
+
+---
+
+## Trump pauses new tariffs on Mexican, Canadian exports amid threats of trade war
+
+date: 2025-02-04, from: VOA News USA
+
+President Donald Trump’s weekend announcement of tariffs on Canada, China and Mexico sent global markets in a downward spiral Monday. They recovered some lost ground when Trump announced he would postpone a 25% tariff on Mexican goods for a month in exchange for concessions. He later announced a similar pause with Canada. VOA’s Anita Powell reports from the White House. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-pauses-new-tariffs-on-mexican-canadian-exports-amid-threats-of-trade-war/7962001.html>
+
+---
+
+## Rubio in El Salvador to push US migration crackdown, counter China's growing influence
+
+date: 2025-02-04, from: VOA News USA
+
+STATE DEPARTMENT — U.S. Secretary of State Marco Rubio visited El Salvador on Monday to press the country to stem the flow of illegal migration and address other strategic issues. 
+
+
+His visit comes amid the restructuring of a U.S. agency overseeing foreign aid, which has sparked a showdown between congressional Democrats and President Donald Trump’s administration.
+
+
+Rubio announced that he is now the acting administrator of the U.S. Agency for International Development but has delegated his authority to another official. He stressed that the agency must align U.S. foreign aid with national interests and comply with State Department policy directives. 
+
+
+The same day, Rubio also held one-on-one talks with Salvadoran President Nayib Bukele at Lake Coatepeque, San Salvador, as part of his five-nation Central American tour focused on curbing illegal immigration, countering China’s influence in the Western Hemisphere, and strengthening security ties.
+
+
+Late Monday, the United States and El Salvador signed a memorandum of understanding, or MOU, on civil nuclear cooperation, expanding strategic relations between the two nations. 
+
+
+The State Department said the MOU marks an initial step toward building a robust civil nuclear partnership, aiming to enhance energy security and foster economic cooperation.
+
+
+Curtailing illegal immigration
+
+
+Bukele is regarded as a key ally of the United States in its regional efforts to address the migration crisis.
+
+
+On Oct. 7, 2024, the United States and El Salvador signed a Customs Mutual Assistance Agreement, further strengthening border security and facilitating trade between the two countries.
+
+
+El Salvador was once the third-largest source of nationals captured at the U.S. southwest border. Today, it no longer ranks among the top 10.
+
+
+Chinese influence 
+
+
+U.S. President Trump has maintained warm relations with Salvadoran President Bukele, who also strengthened ties with Chinese President Xi Jinping following his state visit to Beijing in December 2019.
+
+
+During Bukele’s visit, China promised millions in development projects for the Central American country through a series of agreements. Among them were a soccer stadium, a national library, a tourist pier, and funding for water treatment improvements. 
+
+
+In April 2024, China and El Salvador began negotiations on a free trade agreement, though the United States remains El Salvador’s primary trading partner.
+
+
+El Salvador formally recognized the People's Republic of China (PRC) on August 21, 2018, severing diplomatic ties with Taiwan. 
+
+
+Panama
+
+
+Earlier Monday, Rubio observed a U.S.-funded deportation flight departing from Albrook International Airport in Panama, returning dozens of undocumented Colombians to their home country. A total of 32 men and 11 women were repatriated, including seven individuals with criminal records.
+
+
+The top U.S. diplomat said it sent “a clear message” that people who sought to enter the U.S. border irregularly would be stopped and sent back to their countries of origin.
+
+
+On July 1, 2024 -- the first day of Panamanian President José Raúl Mulino’s term -- the U.S. and Panama signed a memorandum of understanding aimed at jointly reducing the number of migrants illegally crossing through Panama’s Darién region en route to the United States. 
+
+ 
+
+The program is funded by the U.S. State Department and implemented by the Department of Homeland Security. Monday’s deportation was carried out under the MOU and following a State Department waiver that lifted a previous pause on U.S. foreign aid. 
+
+ 
+
+“This is an effective way to stem the flow of illegal migration, of mass migration, which is destructive and destabilizing,” Rubio told reporters at the Albrook International Airport. 
+
+ 
+
+“This flight today was possible due to a waiver that we've issued,” he added. “We’re going to issue a broader one to continue this cooperation.” 
+
+ 
+
+Under the 2024 MOU, the United States has provided nearly $2.7 million to fund flights and tickets to repatriate migrants to their countries of origin. 
+
+ 
+
+Since the first repatriation flight on August 20, 2024, over 40 charter flights have been conducted from Panama to more than 14 countries, returning more than 1,700 undocumented migrants. Destinations have included Colombia, Ecuador, India, and Vietnam. 
+
+
+Panama recently reported a 90% decrease in migrants crossing the Darién region compared to the same period last year.
+
+
+Canal controversy
+
+
+On Sunday, Rubio warned Panama that Washington will "take necessary measures" if Panama does not take immediate steps to end what U.S. President Donald Trump described as China's “influence and control” over the Panama Canal. 
+
+ 
+
+“Secretary Rubio made clear that this status quo is unacceptable,” State Department spokesperson Tammy Bruce said in a statement after Rubio’s talks with Mulino. 
+
+ 
+
+Mulino also announced that Panama has decided not to renew a 2017 memorandum with China on Beijing’s Belt and Road Initiative and will seek to void agreements with the Chinese government before their official expiration dates. 
+
+ 
+
+"We'll study the possibility of terminating it early,” Mulino added on Sunday. 
+
+ 
+
+The Belt and Road Initiative, or BRI, is a massive infrastructure project launched by China in 2013 under President Xi Jinping, aiming to connect multiple continents through land and maritime routes. The United States has cautioned that the BRI “is fueled by China's mission to manipulate and undermine the global rules-based trading system for its own benefit.” 
+
+ 
+
+At the United Nations, Chinese Ambassador Fu Cong dismissed the accusations against China as “totally false” and “pointless.” He said that China has never participated in the management or operation of the Panama Canal nor interfered in its affairs. He also reaffirmed respect for Panama’s sovereignty and the canal’s status as a neutral international gateway.
+
+
+The Chinese ambassador further called Panama’s decision not to renew the BRI agreement “regrettable.”
+
+
+After visiting Panama and El Salvador, Rubio will travel to Costa Rica on Tuesday, followed by stops in Guatemala and the Dominican Republic.
+
+
+Margaret Besheer contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/rubio-in-el-salvador-to-push-us-migration-crackdown-counter-china-s-growing-influence/7961997.html>
+
+---
+
+## American bald eagles are having a moment, ecologically, culturally
+
+date: 2025-02-04, from: VOA News USA
+
+WEST ORANGE, New Jersey — Along the long road from American icon to endangered species and back again, the bald eagle — the national bird of the United States, often seen against a clear blue sky — is having a moment.
+
+
+The eagles find themselves in an environmental updraft of sorts since the early 2000s, when the federal government took the thriving birds off its endangered species list with more states following suit. Culturally, too, the animals are soaring.
+
+
+In December, Joe Biden signed legislation making the raptor the country's national bird (thought that was already the case? More in a bit). New Jersey became the latest state to delist the bald eagle as endangered in January, citing a remarkable comeback for the creatures associated with strength and independence — and that occupied just a single nest in the state decades ago. And to the chagrin or elation of football fans, the Philadelphia Eagles will be vying for a championship in the Super Bowl this weekend.
+
+
+How did the storied birds find their way back? As with so many tales, it's complex.
+
+
+Their well-being was intertwined with an insecticide
+
+
+The story — there was a single nesting pair in New Jersey in the 1980s and roughly 300 now, for instance — centers on the banning of DDT, a chemical insecticide with environmental side effects that included thin-shelled eagle eggs. That touched off a cratering in the number of eagles across the country, and officials prohibited the pesticide in 1972.
+
+
+To rebuild the birds' numbers in their historic range across the country, conservationists imported birds from places where their populations were stable, including from Canada. Early on, they also removed eggs from nesting birds' nests, replacing them with artificial ones for the eagles to “incubate” while the real eggs were safely hatched outside the nest before being returned, as eaglets for their parents to raise according to Kathy Clark, the head of New Jersey's Endangered and Nongame Species Program.
+
+
+“They’re one of the few conservation success stories of animals that almost went extinct on our continent. And so, I think now it’s really important to make sure people know that story and learn from it,” said Maia Edwards, the science director at the American Bald Eagle Foundation in Alaska.
+
+
+Clark, whose work with the birds spans decades and includes the period when their numbers were so small they lived only in a remote part of the state, said the eagles have taught officials a number of lessons. One is that they're “fairly adaptable" and now live across densely populated (with people) New Jersey — from suburban Bergen County near New York to the wetlands along the shore in the south.
+
+
+She recalled the story of one fledgling eagle in a suburban town — New York Giants territory, as it were, sorry, Eagles fans — that found itself on a backyard woodpile and walking around the street. Volunteer observers worried over the bird's well-being, given the realities of suburban living. But a year later, observers spotted the eagle, identified by a band. It had apparently made it.
+
+
+“Those birds that, you know, have that tolerance to live like in such a densely human structured environment is something I have a hard time understanding,” she said. “They're Jersey birds. You got to have attitude, right?”
+
+
+The birds do face dangers as they expand into suburbia, though. Jilian Fazio, director of the Essex County Turtle Back Zoo in suburban northern New Jersey, said the zoo rescues a number of birds hit by cars. 
+
+
+There are threats, as well. Habitat preservation and clean, open water, since the eagles feed heavily on fish, is a worry, but there's also the current outbreak of avian influenza or bird flu. Clark says officials are going to maintain surveillance amid the outbreak.
+
+
+A resurgence in popularity, too
+
+
+Beyond the birds coming off endangered lists, they made headlines recently for finally getting their due as the county's national bird, an oversight left undone in law because the bald eagle was already on the national seal and many thought it already had that status, said Sen. Amy Klobuchar of Minnesota, who sponsored legislation that Biden signed last month.
+
+
+She and colleagues worked with Native American and veterans' groups to get buy-in for the legislation, she said, and it passed the typically divisive House and Senate last year with no dissent. The birds are revered in several Native American cultures as symbols of strength, particularly in the Pacific Northwest, according to Paul Apodaca, a retired academic who specializes in folklore and mythology.
+
+
+The eagles' perch as symbols of the country contributes to their conservation, with experts considering them an “umbrella species,” whose need for large open spaces and waterways helps preserve lesser-known wildlife.
+
+
+“Americans are always going to have that sort of personal relationship with bald eagles," Clark said.
+
+
+New Jersey Sen. Andy Kim, a native of Philadelphia Eagles territory, took his two young sons to the NFC championship game last week, a memory he said they won't forget. “Let's never forget that Bald Eagle was officially named America's national bird at the same time the Eagles are headed back to the Super Bowl,” he said in a text message.
+
+
+Experiencing seeing a bird in the wild or even as you're driving along a business-lined highway can leave an impression. Dan Day, a birder who's spotted bald eagles some 50 times in recent years both on nature walks and just driving around suburban New Jersey, remembered never having seen the birds as a kid growing up in Cleveland. Now a New Jersey resident and Philadelphia Eagles fan, he regularly goes out in his green “Birds” cap and binoculars.
+
+
+“Just the mere thrill of seeing one — a lot of people just have never, ever looked at one,” he said. “It really elevates your day to see a bald eagle.”
+
+
+Enjoy watching them, experts say, but give them space, too. Because rescuing animals threatened with extinction is expensive, uncertain work. Said Clark, the New Jersey Department of Environmental Protection official: “I don’t think I ever will lose that perspective of, of being on the brink there, not knowing if... if you’re going to be able to save the species." 
+
+<br> 
+
+<https://www.voanews.com/a/american-bald-eagles-are-having-a-moment-ecologically-culturally/7961976.html>
+
+---
+
+## 1714 Stradivarius violin could become most expensive instrument ever auctioned
+
+date: 2025-02-04, from: VOA News USA
+
+NEW YORK — A violin made by the famed Antonio Stradivari in 1714 has the potential to become the most expensive musical instrument ever sold when it goes up for auction Friday at Sotheby's in New York.
+
+
+The auction house is estimating the value of the “Joachim-Ma Stradivarius” at $12 million to $18 million. If it sells at the top end of that range, it could best the $15.9 million paid in 2011 for another Stradivarius, the “Lady Blunt,” made in 1721 and named by Guinness World Records as the most expensive instrument ever sold at auction.
+
+
+Mari-Claudia Jimenez, Sotheby’s Americas president and head of global business, said Stradivari made the violin during his “Golden Period," which began around 1700 and was marked by an improvement in his craftmanship.
+
+
+"So, this is the peak of his output," Jimenez said. "This is the best violin of this era.”
+
+
+Sotheby's says the violin's preservation is remarkable, and its ownership history extraordinary.
+
+
+It's named for two of its famed owners — violin virtuosos Joseph Joachim of Hungary, who lived from 1831 to 1907, and Si-Hon Ma, who was born in China in 1926, moved to the U.S. in 1948 and died 2009.
+
+
+It is believed that legendary composer Johannes Brahms was influenced by the Joachim-Ma when he wrote his “Violin Concerto in D Major” because of its rich, resonant tone, and that Joachim played that violin during the concerto's 1879 premiere, according to Sotheby's.
+
+
+Ma acquired the violin in 1969, and his estate gifted it to the New England Conservatory in Boston after his death. Ma attended the conservatory, where he earned a master's degree in 1950. The conservatory is now putting the violin up for auction, with all the proceeds going to student scholarships. 
+
+<br> 
+
+<https://www.voanews.com/a/stradivarius-violin-could-become-most-expensive-instrument-ever-auctioned/7961965.html>
+
+---
+
+## Trump administration opens antisemitism inquiries at 5 colleges, including Columbia and Berkeley
+
+date: 2025-02-04, from: VOA News USA
+
+The Trump administration is opening new investigations into allegations of antisemitism at five U.S. universities including Columbia and the University of California, Berkeley, the Education Department announced Monday.
+
+
+It's part of President Donald Trump's promise to take a tougher stance against campus antisemitism and deal out harsher penalties than the Biden administration, which settled a flurry of cases with universities in its final weeks. It comes the same day the Justice Department announced a new task force to root out antisemitism on college campuses.
+
+
+In an order signed last week, Trump called for aggressive action to fight anti-Jewish bias on campuses, including the deportation of foreign students who have participated in pro-Palestinian protests.
+
+
+Along with Columbia and Berkeley, the department is now investigating the University of Minnesota, Northwestern University and Portland State University. The cases were opened using the department's power to launch its own civil rights reviews, unlike the majority of investigations, which stem from complaints.
+
+
+Messages seeking comment were left with all five universities.
+
+A statement from the Education Department criticized colleges for tolerating antisemitism after Hamas' Oct. 7, 2023, attack on Israel and a wave of pro-Palestinian protests that followed. It also criticized the Biden administration for negotiating "toothless" resolutions that failed to hold schools accountable.
+
+
+"Today, the Department is putting universities, colleges, and K-12 schools on notice: this administration will not tolerate continued institutional indifference to the wellbeing of Jewish students on American campuses," said Craig Trainor, the agency's acting assistant secretary for civil rights.
+
+
+The department didn't provide details about the inquiries or how it decided which schools are being targeted. Presidents of Columbia and Northwestern were among those called to testify on Capitol Hill last year as Republicans sought accountability for allegations of antisemitism. The hearings contributed to the resignation of multiple university presidents, including Columbia's Minouche Shafik.
+
+
+An October report from House Republicans accused Columbia of failing to punish pro-Palestinian students who took over a campus building, and it called Northwestern's negotiations with student protesters a "stunning capitulation."
+
+
+House Republicans applauded the new investigations. Representative Tim Walberg, chair of the Education and Workforce Committee, said he was "glad that we finally have an administration who is taking action to protect Jewish students."
+
+
+Trump's order also calls for a full review of antisemitism complaints filed with the Education Department since Oct. 7, 2023, including pending and resolved cases from the Biden administration. It encourages the Justice Department to take action to enforce civil rights laws.
+
+
+Last week's order drew backlash from civil rights groups who said it violated First Amendment rights that protect political speech.
+
+
+The new task force announced Monday includes the Justice and Education departments along with Health and Human Services.
+
+
+"The Department takes seriously our responsibility to eradicate this hatred wherever it is found," said Leo Terrell, assistant attorney general for civil rights. "The Task Force to Combat Anti-Semitism is the first step in giving life to President Trump's renewed commitment to ending anti-Semitism in our schools." 
+
+<br> 
+
+<https://www.voanews.com/a/trump-administration-opens-antisemitism-inquiries-at-5-colleges-including-columbia-and-berkeley-/7961961.html>
+
+---
+
+## Education Department workers put on leave over DEI order
+
+date: 2025-02-04, from: VOA News USA
+
+WASHINGTON — Dozens of employees at the U.S. Education Department were put on paid administrative leave in response to President Donald Trump’s order banning diversity, equity and inclusion programs in the federal government, according to a labor union that represents hundreds of workers in the agency.
+
+
+It's unclear how many workers were put on leave or for what reasons, said Sheria Smith, president of American Federation of Government Employees Local 252. The majority of employees placed on leave do not work in DEI initiatives and span all branches of the agency, she said, from an office that sends billions of dollars to K-12 schools to an office that enforces civil rights laws.
+
+
+The shakeup comes as Elon Musk's Department of Government Efficiency, or DOGE, pushes to cut programs and federal workers at departments across the government, including the U.S. Agency for International Development.
+
+
+A DOGE team was working at the Education Department on Monday to implement Trump's executive orders and agenda, said Madison Biedermann, an Education Department spokesperson.
+
+
+The department did not immediately comment on the personnel changes and would not say how many employees were placed on leave.
+
+
+At least 55 Education Department workers received an email Friday saying they were being put on paid leave effective immediately pursuant to Trump's executive order. It wasn’t being done for “any disciplinary purpose,” according to a copy of the email obtained by The Associated Press.
+
+
+Those placed on leave lost access to their government email accounts and were told not to report to the office. They include a range of staff members and managers across the department, which employs more than 4,000 workers in Washington and regional offices across the country.
+
+
+Most of those on leave appear to have taken a voluntary diversity training seminar offered by the department, Smith said. The Diversity Change Agent program has been promoted by the agency for years, including during Trump’s first term in office.
+
+
+Graduates of the two-day program were expected to serve as role models and help improve the department's “capacity to attract and retain a diverse workforce,” according to an internal email from 2019 obtained by the AP.
+
+
+Smith said hundreds of employees have taken the training, but it was unclear if all of them were placed on leave. She said many people were under the impression the training was strongly encouraged or required.
+
+
+“It seems unfair to encourage or require people to take a training and then four or five years later place them on administrative leave,” Smith said.
+
+
+Some current employees who are on leave said the action could disrupt the agency's core work, including the management of federal student loans and the FAFSA form for student financial aid. The workers spoke on the condition of anonymity for fear of reprisals.
+
+
+Senator Patty Murray, D-Wash., a former teacher and member of the Senate Health, Education, Labor and Pensions Committee, said Trump is “purging” employees for taking a training course that his administration encouraged them to take.
+
+
+“This won’t help our kids learn or even save us money,” Murray said on the social media site X. “He’s just breaking services people rely on.”
+
+
+Trump’s order called for all DEI staff in the federal government to be put on paid leave and eventually laid off. It’s part of a broader crackdown on diversity programs that the Republican president says are racist.
+
+
+Trump campaigned on a promise to shut down the Education Department, which he says has been infiltrated by “radicals, zealots and Marxists.” He said the agency's power should be turned over to states and schools. 
+
+<br> 
+
+<https://www.voanews.com/a/education-department-workers-put-on-leave-over-dei-order-/7961960.html>
+
+---
+
+## US foreign aid programs face major restructuring under Trump
+
+date: 2025-02-04, from: VOA News USA
+
+The U.S. Agency for International Development (USAID), which manages tens of billions of dollars' worth of U.S. foreign aid programs, was essentially closed down on Monday, with employees locked out of their offices and computer systems. Several senior figures in the agency were placed on leave as the Trump administration took steps to fold its functions into the Department of State. 
+
+
+Speaking to reporters in El Salvador, where he was traveling, Secretary of State Marco Rubio said he is now USAID’s acting director and would be taking steps to bring the agency’s activities in line with the policies of the administration.
+
+
+Rubio described the agency as historically “unresponsive” to Congress and the White House, even though the agency, he claimed, is supposed to take its direction from the State Department.
+
+
+“USAID has a history of sort of ignoring that and deciding that there's somehow a global charity separate from the national interest,” Rubio said. “These are taxpayer dollars, and we owe the American people assurances that every dollar we are spending abroad is being spent on something that furthers our national interest.”
+
+
+
+
+Rubio’s comments were less harsh than those of billionaire Elon Musk, who President Donald Trump has given significant power to overhaul the federal government, and whose newly formed Department of Government Efficiency (DOGE) sent representatives into USAID offices over the weekend.
+
+
+“USAID is a criminal organization,” Musk wrote on the social media platform X on Sunday. “Time for it to die.”
+
+
+Democrats protest
+
+
+Democrats in Washington described the effort to dismantle USAID as blatantly illegal and vowed to challenge it.
+
+
+
+
+On Sunday, all 10 Democratic members of the Senate Foreign Relations Committee sent a letter to Rubio outlining their objections.
+
+
+“Congress established the U.S. Agency for International Development (USAID) as an independent agency, separate from the Department of State, to ensure that we can deploy development expertise and U.S. foreign assistance quickly, particularly in times of crisis, to meet our national security goals,” they wrote.
+
+
+“For this reason, any effort to merge or fold USAID into the Department of State should be, and by law must be, previewed, discussed, and approved by Congress,” the letter said.
+
+
+In a news conference in front of USAID headquarters in Washington, Democratic Senator Chris Van Hollen, a member of the Foreign Relations Committee, said that he and his colleagues would prevent Trump from filling vacancies at the State Department in response to the administration’s actions. 
+
+
+“We will do everything we can to block State Department nominees from going forward until this illegal action is reversed,” he said.
+
+
+
+
+USAID history
+
+
+USAID was created in the early 1960s, at a time when there was a widespread understanding in post-World War II Washington that U.S. aid efforts, administered by a patchwork of agencies, were inefficient, often duplicative, and sometimes contradictory.
+
+
+In many cases, aid was also explicitly tied to the United States’ political priorities, rather than the objective level of need present in nations receiving assistance.
+
+
+In 1961, President John F. Kennedy’s administration undertook a broad review of U.S. aid programs, and he subsequently asked Congress for the authority to develop a new agency to coordinate foreign aid efforts.
+
+
+In a message to Congress, Kennedy proposed an agency that would create country-specific teams that would operate on the ground in recipient nations to develop long-term plans. He described these as “a carefully thought-through program tailored to meet the needs and the resource potential of each individual country, instead of a series of individual, unrelated projects.”
+
+
+“Frequently, in the past, our development goals and projects have not been undertaken as integral steps in a long-range economic development program,” Kennedy said. “Long-term planning and financing — the only way to make meaningful and economical commitments.”
+
+
+Created by executive order
+
+
+Later that year, Congress passed the Foreign Assistance Act of 1961, requiring the abolition of several existing aid programs and directing the president to designate a new entity to take responsibility for their operations. The act also explicitly separated foreign military aid from humanitarian aid programs.
+
+
+Shortly thereafter, Kennedy signed the bill into law and issued Executive Order 10973, creating the U.S. Agency for International Development.
+
+
+The agency was structured such that its administrator reported directly to the Secretary of State, rather than up through the chain of command within the State Department. It was an arrangement that allowed USAID some freedom of operation, but one that would be challenged repeatedly over the years, as successive secretaries of state sought to force USAID’s priorities into closer alignment with State Department policies.
+
+
+Many successes
+
+
+Over the ensuing 60-plus years, USAID tallied a considerable number of successes, and also weathered numerous controversies and scandals, many of which were catalogued by journalist John Norris in a history of the agency published in 2021, the year of its 60th anniversary.
+
+
+USAID-provided food aid has saved countless lives around the world, and its early focus on developing competent local governance structures was central to helping countries like South Korea and Taiwan develop flourishing industrial bases.
+
+
+
+
+In the late 1960s, the agency took on a leading role in the global effort to eradicate smallpox, which had killed an estimated 300 million people since the dawn of the 20th century alone. The agency helped spearhead inoculation programs across the developing world that contributed to the first known global eradication of disease in the human population through a public health program. 
+
+
+USAID also helped pioneer the use of oral rehydration therapy (ORT) for children afflicted with diarrhea. By distributing packets of water-soluble salts and sugars, the agency has helped prevent the deaths of millions of children in developing countries.
+
+
+The agency has also been at the forefront of efforts to reduce the incidence in developing countries of mothers’ deaths during childbirth and reducing the spread of sexually transmitted diseases, in particular HIV.
+
+
+Controversies
+
+
+Despite Kennedy’s hope that the distribution of U.S. aid could be disentangled from geopolitics, USAID has, many times in its history, found itself supporting abusive or autocratic governments, frequently in Latin America, because the federal government believed doing so was in the national interest.
+
+
+Public discontent with USAID grew in tandem with frustration at the war in Vietnam, where the agency had played a major role in unsuccessful “pacification” programs meant to win the “hearts and minds” of the Vietnamese people. President Richard Nixon attempted to capitalize on that discontent to abolish the agency and decentralize foreign aid programs.
+
+
+Instead, Congress took steps to refocus the agency’s efforts, directing it to back away from high-level engagement with foreign governments in favor of work on rural development and aid to the neediest.
+
+
+In the ensuing years, however, controversies continued to emerge, none more prominent than those arising from the agency’s activities during the wars in Afghanistan and Iraq. Widespread questions were raised, including by members of Congress, about how the agency spent funds earmarked for reconstruction of those two countries.
+
+
+VOA State Department Bureau Chief Nike Ching contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/us-foreign-aid-programs-face-major-restructuring-under-trump/7961955.html>
+
+---
+
+## CONSTITUTIONAL STANDOFF
+
+date: 2025-02-04, from: The Contrarian
+
+*Special Alert from The Contrarian* 
+
+<br> 
+
+<https://contrarian.substack.com/p/constitutional-standoff>
+
+---
+
+## Trump’s Other Funding Freeze Attacks Environmental Justice
+
+date: 2025-02-04, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjE1OTMzNy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NzU4MTUxM30.GPLvOIcDMuXPfRuEf8m3HeY5H3qHzpD7T1M1NN0NFp4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Amidst the chaos surrounding President Trump’s <a href="https://heatmap.news/politics/trump-ira-funding-pause" target="_self"><u>pause on infrastructure and climate spending</u></a>, another federal funding freeze is going very much under the radar, undermining energy and resilience projects across the U.S. and its territories.</p><p>Days after Trump took office, acting Energy Secretary Ingrid Kolb <a href="https://www.eenews.net/articles/doe-halts-diversity-equity-work-and-funding/" rel="noopener noreferrer" target="_blank"><u>reportedly told</u></a> DOE in a memo to suspend any work “requiring, using, or enforcing Community Benefit Plans, and requiring, using, or enforcing Justice40 requirements, conditions, or principles” in any loan or loan guarantee, any grant, any cost-sharing agreement or any “contracts, contract awards, or any other source of financial assistance.” The memo stipulated this would apply to “existing” awards, grants, contracts and other financial assistance, according to <a href="https://bsky.app/profile/hmnorthey.bsky.social" rel="noopener noreferrer" target="_blank"><u><em><em>E&E News</em></em></u><u>’ Hannah Northey</u></a>, who first reported the document’s existence. </p><p>Justice40 was Biden’s signature <a href="https://eelp.law.harvard.edu/tracker/rollback-trump-rescinded-bidens-executive-order-14008-that-established-justice40-initiative/" rel="noopener noreferrer" target="_blank"><u>environmental justice initiative</u></a>. Community benefit plans were <a href="https://web.archive.org/web/20250109182715/https://www.energy.gov/infrastructure/local-investments-map-demonstration-and-deployment-projects" rel="noopener noreferrer" target="_blank"><u>often used by Biden’s DOE</u></a> to strengthen the potential benefits that projects could have on surrounding local economies and were seen as a vehicle for environmental justice. When we say <em><em>often</em></em>, we mean it: some high profile examples of these plans include those used for the <a href="https://www.powermag.com/doe-loan-programs-office-publishes-community-benefits-plans-for-energy-projects/" rel="noopener noreferrer" target="_blank"><u>Holtec Palisades nuclear plant restart in Michigan</u></a> and the agency’s <a href="https://www.energy.gov/sites/default/files/2024-02/Community-Benefits-Plans-Training-for-DPA-Heat-Pumps-and-Advanced-Manufacturing-Grants-Applicants.pdf" rel="noopener noreferrer" target="_blank"><u>battery materials processing and recycling awards</u></a>. </p><p>After Kolb’s edict went out, companies, states, cities, and other entities with DOE contracts that had community benefit plans embedded in them were ordered to stop all work, according to multiple letters to contract recipients reviewed by Heatmap News. “Recipients and subrecipients must cease any activities, including contracted activities, and stop incurring costs associated with DEI and CBP activities effective as of the date of this letter,” one letter reads, adding: “Costs incurred after the date of this letter will not be reimbursed.” </p><p>One <a href="https://www.cogr.edu/sites/default/files/CBP%20and%20DEI%20Notification%20to%20existing%20recipients%20-%201.27.2025.pdf" rel="noopener noreferrer" target="_blank"><u>such letter</u></a> was posted by the University of Michigan research department in an advisory notice. The department’s <a href="https://www.cogr.edu/sites/default/files/CBP%20and%20DEI%20Notification%20to%20existing%20recipients%20-%201.27.2025.pdf" rel="noopener noreferrer" target="_blank"><u>website</u></a> summarizes the letter as “directing the suspension” of all work tied to “any source of DOE funding” if it in any way involved “diversity, equity, and inclusion (DEI) programs,” as well as Justice40 requirements and community benefits plans. </p><p>These letters state companies and other entities with community benefit plans in their contracts or otherwise involved in their funding awards would be contacted by DOE to make “modifications” to their contracts. They only cite President Trump’s executive orders that purportedly address Diversity, Equity and Inclusion practices; they do not cite a much-debated Office of Management and Budget <a href="https://heatmap.news/politics/trump-funding-freeze-chaos" target="_self"><u>memo freezing</u></a> all infrastructure law and Inflation Reduction Act spending, which has been challenged in federal court. It is altogether unclear if any outcome of the OMB memo litigation is even relevant to this other freeze. </p><p>We reached out to the Energy Department about these letters for comment on how many entities may be impacted and why they targeted community benefit plans. We will update this story if we hear back.</p><p>A lot is still murky about this situation. It is unclear how many entities have been impacted and the totality of the impacts may be unknown for a while, because a lot of these entities supposed to get money may want to keep fighting privately to, well, still get their money. It’s also hazy if all entities that received these letters are continuing to do any construction or preparatory work or other labor connected to their funding not tied to the community benefit planning, or just halting the funded labor altogether. </p><p>The blast radius from this freeze is hard to parse, said Matthew Tejada, a former EPA staffer who most recently served as the agency’s deputy assistant administrator for environmental justice under the Biden administration. Tejada, who now works for the advocacy group NRDC and remains connected to advocates in the environmental justice space, said he was very much aware of this separate freeze when he was first reached by Heatmap. But “unless you’re able to really have a network of information bottom up from the recipients, it’s a bit of a black box we’re operating around because we’re not going to get transparency and information from the administration.“</p><p>“Part of their obvious strategy here is to create enough confusion as possible to make defending as difficult as possible. But I’m fairly certain the community and various others here -- local governments, tribes -- will have plenty to say about cutting through that chaos to make sure the will of Congress and the outcomes of these programs and projects are delivered upon.” He believes that any attempts to modify these contract awards “on the pretext of canceling the contract[s] will in all likelihood meet a legal challenge.”</p><p>But the ripple effects of this other freeze are starting to surface in local news accounts. </p><p>According to <a href="https://www.goerie.com/story/news/local/2025/01/28/trump-federal-funding-freeze-affecting-city-of-erie-schember-witherspoon/77993701007/" rel="noopener noreferrer" target="_blank"><u>the </u><u><em><em>Erie Times-News</em></em></u></a>, the city of Erie, Pennsylvania currently cannot access funding for a city-wide audit for home energy efficiency. And a big road improvement project in the Mariana Islands – a U.S. territory – was nearly derailed by the freeze, according to the news outlet <a href="https://www.mvariety.com/news/local/beach-road-project-barely-escapes-funding-halt-order/article_92296652-debb-11ef-a74f-27fec0895987.html" rel="noopener noreferrer" target="_blank"><u><em><em>Mariana’s Variety</em></em></u></a>, which reported project developers are just going to try and move forward without the remaining money provided under contract. </p><p>We’ll have to wait and see the breadth of the impacts here and whether this freeze will produce its own legal or regulatory rollercoaster. Hang on tight. </p> 
+
+<br> 
+
+<https://heatmap.news/politics/trump-doe-justice40-community-benefit>
+
+---
+
+## Trump’s Tariffs Could Hurt Gas Cars More Than EVs
+
+date: 2025-02-04, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjE1MzU5NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NjA4MzY2NH0.FxjaiVOyJ7SLMhU2BzS0d39Z9HJSKfuT-vwZoiQXHPM/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">If President Trump’s proposed 25% tariffs on Mexico and Canada — which were set to begin tomorrow morning before the two countries’ leaders <a href="https://heatmap.news/sparks/mexico-tariff-pause" target="_self"><u>negotiated 30-day delays</u></a> — were to go into effect, they would hit automotive supply chains like a lightning bolt. A single spring inside a fuel pump can zig-zag across the northern and southern U.S. borders half a dozen times before making it into a vehicle. The jolt of tariffs would follow it, gathering force at each crossing before shocking car buyers with higher prices. </p><p>Electric vehicles, however, famously do not have as many parts as conventional cars. There’s no engine, transmission, exhaust system, or fuel pump. EV drivers will also not have to contend with <a href="https://heatmap.news/politics/trump-canada-oil-tariffs" target="_self"><u>the effect of tariffs on the price of gasoline</u></a>. So does it follow that, despite Trump’s wish to undo Biden’s EV subsidies, he would actually be making battery-powered cars more competitive?</p><p>Experts I spoke with agreed that EV manufacturers might be somewhat less exposed. But the tariffs will still affect them, and the small edge could be outweighed by other Trump administration policies.</p><p>An internal combustion engine vehicle can have 20,000 to 30,000 parts, Amy Broglin-Peterson, an expert in automotive supply chains at Michigan State University, told me; an electric vehicle might have anywhere from several hundred to a few thousand. Many of these components are manufactured by independent specialists throughout North America. “They’ll be assembled utilizing cheaper Mexican labor, and then they’ll cross back into the U.S. and be put into a bigger assembly, which is then sent back down again for either more assembly work or finished vehicle production,” she said.</p><p>Electric vehicles also contain many of the same complex components as conventional cars, like seats and lights and dashboards and radios and mirrors. “That’s kind of the great equalizer amongst these different vehicles,” Mike Wall, an auto analyst at S&P Global Mobility told me. “They’re all going to be in the same soup in terms of vulnerability to cross-border trade.”</p><p>But EVs lack the most complex component of all — the engine. Instead, EVs have a battery, and many automakers are either already producing their batteries in the U.S. or are building new factories to do so. As of December, there were more than 80 facilities making battery components, assembling battery packs and cells, manufacturing drive units, producing EV chargers, and doing final EV assembly in the U.S., <a href="https://www.charged-the-book.com/na-ev-supply-chain-map" rel="noopener noreferrer" target="_blank"><u>according to a database</u></a> maintained by Wellesley University historian Jay Turner. But that’s set to increase over the next few years due to tax incentives and grants that were part of Biden’s Bipartisan Infrastructure Law and Inflation Reduction Act, which reward domestic manufacturing of clean technology components. More than 200 additional facilities, including critical mineral extraction and processing facilities, are in various stages of development. </p><p>Broglin-Peterson told me her quick answer to my question is that EVs likely wouldn’t be hit quite as hard by tariffs as conventional cars. But she emphasized that they will still see an impact, and she wasn’t sure of the extent to which other Trump administration policies would undermine any tariff-related advantages. “The EV picture right now has become a lot more murky, obviously, since President Trump was elected,” she told me. “I do think the traditional automakers are more heavily leveraged, though, on their internal combustion engine supply chains.”</p><p>Wall agreed that EVs were somewhat less exposed, but he said it really depends on which internal combustion engine vehicle you’re comparing them to. Some engines are assembled in the U.S. and have more U.S.-manufactured components than others. Battery makers are still vulnerable, as the processing of the critical minerals that go into EV batteries is currently <a href="https://www.resources.org/common-resources/critical-minerals-for-electric-vehicles-what-you-need-to-know/" rel="noopener noreferrer" target="_blank"><u>heavily concentrated in China</u></a>, which will also be hit by 10% tariffs on top of <a href="https://www.whitecase.com/insight-alert/united-states-finalizes-section-301-tariff-increases-imports-china" rel="noopener noreferrer" target="_blank"><u>existing tariffs</u></a> on Chinese goods. When you take into account the president’s plans to end the electric vehicle tax credit and leasing option, which can shave up to $7,500 off a car’s sticker price, EVs could still end up less competitive than before Trump took office, Wall said.</p><p>Some electric vehicle producers will be hit harder than others. Tesla, for instance, has one of the lowest exposures to non-U.S. content, according to <a href="https://www.nhtsa.gov/part-583-american-automobile-labeling-act-reports" rel="noopener noreferrer" target="_blank"><u>data</u></a> collected by the Department of Transportation. But some 20% to 25% of Tesla components come from Mexico. </p><p>“There’s a lot of uncertainty around tariffs,” Vaibhav Taneja, Tesla's chief financial officer, said during an earnings call last week. “Over the years, we’ve tried to localize our supply chain in every market, but we are still reliant on parts from across the world for all our businesses.” The company’s stock price dropped 5% on Monday, though that may be partly because the company also <a href="https://www.reuters.com/business/autos-transportation/tesla-loses-market-share-sweden-norway-musk-looms-large-2025-02-03/" rel="noopener noreferrer" target="_blank"><u>lost market share in Europe</u></a>.</p><p>Rivian builds its EVs in Illinois and is opening a second factory in Georgia. But the company’s CEO RJ Scaringe <a href="https://insideevs.com/news/749147/rivian-ceo-trump-tariffs-mexico/" rel="noopener noreferrer" target="_blank"><u>told </u><u><em><em>Inside EVs</em></em></u></a> that tariffs will still hurt. “Many, many, many hundreds of billions of dollars have been invested in Mexico in production capacity for supply chains that supply to all of us,” he said. “That will need to get remapped or will just carry higher costs.” </p><p>Other manufacturers are more spread out. Ford assembles its Mustang Mach-E in Mexico and its F-150 Lightning in Michigan. GM makes its Chevy Silverado, GM Sierra, and Cadillac Escalade EVs in Michigan, but its Equinox and Blazer EVs in Mexico. Stellantis makes its electric Jeep Wagoneer in Mexico, but recently <a href="https://www.stellantis.com/en/news/press-releases/2024/september/stellantis-invests-more-than-406-million-dollars-in-three-michigan-facilities-to-execute-multi-energy-strategy" rel="noopener noreferrer" target="_blank"><u>invested more than $400 million</u></a> to prep three of its Michigan factories for EV assembly.</p><p>Analysts told me not to expect any sudden moves from car companies. “Revamping the automotive supply chain to be 100% U.S. based is probably not realistic,” David Whiston, an equity strategist who covers the auto sector for Morningstar, told me in an email. “Companies right now are not willing to pivot capacity on a dime — they won’t allocate capital without more certainty.”</p><p>Trump doesn’t have much interest in certainty. After threatening to put the tariffs into immediate effect last weekend, the president quickly struck agreements with Mexican president Claudia Sheinbaum and Canadian Prime Minister Justin Trudeau on Monday to pause the tariffs for 30 days while the countries negotiate. He has yet to discuss next steps with China.</p> 
+
+<br> 
+
+<https://heatmap.news/electric-vehicles/trump-trade-war-evs>
+
+---
+
+## Judge extends block on Trump administration federal funding freeze
+
+date: 2025-02-04, from: VOA News USA
+
+WASHINGTON  — A judge in the nation's capital kept a temporary block on a Trump administration plan for a freeze on federal funding Monday after some nonprofit groups said they're still struggling to get promised grants and loans.
+
+
+U.S. District Judge Loren L. AliKhan extended an order she issued last week that paused a sweeping plan to freeze potentially trillions in federal spending. While the memo outlining it has since been rescinded, the Republican administration has said some kind of funding freeze is still planned as part of his blitz of executive orders.
+
+
+A second judge in Rhode Island has also blocked any federal spending pause in a separate lawsuit filed by nearly two dozen Democratic states.
+
+
+In the Washington lawsuit, several groups reported being unable to access promised federal funding even after the memo was rescinded. They ranged from childcare in Wisconsin to disability services in West Virginia to a small business research project on neutron generation and detection.
+
+
+“For many, the harms caused by the freeze are non-speculative, impending, and potentially catastrophic,” AliKhan wrote.
+
+
+The Trump administration argues a brief pause in funding to align federal spending with the president's agenda is within the law, and the court lacks constitutional authority to block it.
+
+
+President Donald Trump’s executive orders have sought to increase fossil fuel production, remove protections for transgender people and end diversity, equity and inclusion efforts.
+
+
+AliKhan though, found that “furthering the President’s wishes cannot be a blank check for OMB to do as it pleases,” she wrote, referring to the Office of Management and Budget, the White House office that doles out federal money.
+
+
+Lawyers with the advocacy group Democracy Forward are representing the nonprofits. They say the sweeping funding pause breaks federal law, puts nonprofits at risk of being shuttered and violates their First Amendment rights. 
+
+<br> 
+
+<https://www.voanews.com/a/judge-extends-block-on-trump-administration-federal-funding-freeze-/7961927.html>
+
+---
+
+## Tariff threats take aim at fentanyl trafficking; here's how drug reaches US
+
+date: 2025-02-03, from: VOA News USA
+
+President Donald Trump's plan to impose tariffs on goods from Mexico, Canada and China is partly aimed at combating the illicit flow of fentanyl into the U.S., where the opioid is blamed for some 70,000 overdose deaths annually. 
+
+
+Mexico agreed Monday to send 10,000 troops to the U.S.-Mexico border as part of a deal with Trump to pause the tariffs for a month — and hold off levying its own. 
+
+
+Neither Canada nor China has signaled major changes to tackle the flow of fentanyl into the U.S., and each has said it would retaliate for any U.S. tariffs. 
+
+
+What role do Mexico, Canada and China play in fentanyl reaching the U.S.? And how much can their governments do? 
+
+
+Where does fentanyl come from? 
+
+
+The ingredients in fentanyl are largely produced by companies in China and used by pharmaceutical companies to make legal painkillers. But a portion of those chemicals is purchased by the Sinaloa and Jalisco cartels in Mexico. 
+
+
+Cartels make the synthetic opioid in labs and then smuggle it into the U.S., largely at official land crossings in California and Arizona. The small amounts of fentanyl in any shipment — the drug is 50 times more potent than heroin — and its lack of odor make detection and seizures extremely challenging. 
+
+
+Fentanyl is also made in Canada and smuggled into the U.S., but to a much lesser extent. U.S. customs agents seized 19.5 kilograms (43 pounds) of fentanyl at the Canadian border during the last fiscal year, compared with 9,570 kilograms (21,100 pounds) at the Mexican border. 
+
+
+Seizures of fentanyl jumped by as much as tenfold under President Joe Biden, an increase that may reflect improved detection. 
+
+
+
+
+What changed after Trump threatened tariffs? 
+
+
+Mexico announced in December the seizure of more than a ton of fentanyl pills in what it described as the largest bust of synthetic opioids in the country's history. The haul was striking because fentanyl seizures in Mexico had fallen dramatically in the first half of 2024. 
+
+
+Under President Claudia Sheinbaum, who took office in October, Mexico's security forces appear to be far more aggressive than they were under her predecessor. Former President Andres Manuel Lopez Obrador denied that fentanyl was even produced in Mexico, contradicting officials in his own administration. 
+
+
+To pause the tit-for-tat tariffs, Mexico agreed to immediately deploy 10,000 National Guard troops to the border to battle drug-trafficking, while the U.S. committed to do more to stop the trafficking of guns into Mexico, said Trump and Sheinbaum on social media. 
+
+
+Facing tariff threats, Canadian Prime Minister Justin Trudeau has highlighted his country's recent $1.3 billion investment in border enforcement, including chemical detection tools at entry ports and a new unit focused on the oversight of precursor chemicals. 
+
+
+Once Trump ordered the tariffs, Trudeau rebuked the move. 
+
+
+“We, too, are devastated by the scourge that is fentanyl,” Trudeau said at a press conference Sunday. “As neighbors, we must work collaboratively to fix this. Unfortunately, the actions taken today by the White House split us apart instead of bringing us together.” 
+
+
+China defended its efforts to combat fentanyl in what has been years of touch-and-go cooperation with the U.S. China doesn't have the same fentanyl crisis among its own population, and doesn't view it as a priority, said Zongyuan Zoe Liu, a senior fellow for China studies at the Council on Foreign Relations. 
+
+
+
+
+How much can Mexico, Canada and China do? 
+
+
+Combating the production and movement of illicit fentanyl is particularly challenging. 
+
+
+Unlike heroin and cocaine, which are produced from plants, fentanyl is made with ingredients used for legal pharmaceutical drugs, and can be made in cheap labs that can be erected relatively quickly. And despite the dangers, demand in the U.S. for the highly addictive drug remains strong. 
+
+
+Mike Vigil, the former chief of international operations at the U.S. Drug Enforcement Agency, said he was skeptical that Mexico’s extra troops at the border on their own would make much of a dent in trafficking. 
+
+
+Once fentanyl leaves the labs, it’s usually well concealed in hidden compartments of vehicles or in huge cargo trucks; better detection technology is crucial, in addition to more troops, he said. The other challenge, Vigil said, is that combating the fentanyl trade will likely require more than just collaboration between the U.S. and its neighbors. 
+
+
+“Even if Mexico, Canada and these other countries snap their fingers and did away with the drug trade, as long as we have that demand, there will be another country that will satisfy that demand.” 
+
+<br> 
+
+<https://www.voanews.com/a/tariff-threats-take-aim-at-fentanyl-trafficking-here-s-how-the-drug-reaches-the-us/7961689.html>
+
+---
+
+## Evening Roundup: Oh Canada, Consumer Tax Chaos, the Corruption of the Eric Adams case
+
+date: 2025-02-03, from: The Contrarian
+
+February 3: Featuring Jared Bernstein, Mimi Rocah & Jennifer Rodgers, and George Conway in an earnest quasi-musical on the side of the road 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-oh-canada-consumer>
+
+---
+
+## Baker’s treats have identity, family in the mix
+
+date: 2025-02-03, from: Market Place
+
+Inspired by her Korean heritage and young daughters, Marissa Ferola plans to open a brick-and-mortar bakery in Massachusetts. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/03/small-business-bakery-family-identity-korean-massachusetts-ferola/>
+
+---
+
+## Stars, athletes bring buzz to New Orleans before Super Bowl
+
+date: 2025-02-03, from: VOA News USA
+
+LOS ANGELES — The Super Bowl isn't just a game on Sunday, it'll involve a nearly weeklong spectacle taking over New Orleans with non-stop entertainment leading up to the big showdown between the Kansas City Chiefs and Philadelphia Eagles. 
+
+
+While the Chiefs and Eagles gear up for their championship rematch, the Big Easy will be the epicenter for star-studded concerts, exclusive parties, a comedy show, and guest lists filled with A-listers. From Post Malone, Cardi B to Shaquille O'Neal, the city will be buzzing long before Patrick Mahomes and the Chiefs attempt a monumental three-peat. 
+
+
+“It's going to be fun. It's going to be different than other Super Bowls,” said O'Neal, who will host his popular carnival-themed Shaq's Fun House on Friday night. It's a hot ticket — starting at $199 — for the NBA legend's over-the-top festival event featuring headline performances from Ludacris, John Summit and O'Neal under his stage name DJ Diesel. 
+
+
+O'Neal's event will feature several attractions including a Ferris wheel, circus performers and premium bar. This will be somewhat of a homecoming week for O'Neal, who played college hoops at Louisiana State University and visits Louisiana about four times a year. 
+
+
+For Flavor Flav, he wants to help lift morale in New Orleans following the aftermath of the terror attack that killed 14 people on New Year's Day. 
+
+
+“This is going to be special. I'm here to uplift spirits,” said Flav, who will perform at Guy Fieri's Flavortown Tailgate along with Diplo and Cowboy Mouth on Sunday afternoon. It's free for general admission with paid upgraded experiences for $49.99 and $349 for a VIP ticket. 
+
+
+“I'm getting on the turntables to make people party and have a good time," he said. 
+
+
+Along with those events, here's a look at some of the invite-only and public events during a busy Super Bowl week: 
+
+
+
+
+Fanatics party 
+
+
+Michael Rubin's Fanatics Super Bowl party is impossible to get into without an invite. The star-studded affair on Saturday afternoon is strictly for the who's who of sports and entertainment. 
+
+
+Rubin, the founder and CEO of Fanatics, will likely be front and center, taking in performances from Post Malone, Travis Scott, Don Tolliver and many more. 
+
+
+The expected attendees include big names such as Kim Kardashian, Justin Bieber, Lil Baby, Tiffany Haddish and Tom Brady. 
+
+
+Madden Bowl 
+
+
+Just like EA Sports' iconic phrase, “It's in the game,” Jelly Roll, Chris Stapleton and Shaboozey will literally be in the game at the Madden Bowl. 
+
+
+The trio is set to separately take the stage Friday night, bringing the hype before the competition kicks off. 
+
+
+“I can't wait to keep this party going,” Shaboozey said. 
+
+
+Along with performances, the event will include the Madden NFL 25 Championship Series in front of a live audience — where two of the world's best players will travel to New Orleans for their share of the $1 million prize pool. 
+
+
+Double up for some, triple duties for others 
+
+
+The Madden Bowl won't be the only stage where Stapleton will showcase his powerhouse vocals. The country star is set to headline the SiriusXM and Pandora concert Thursday night. 
+
+
+Stapleton's performance will air on SiriusXM's Chris Stapleton Radio, an exclusive channel curated and presented by him and his band. Pandora listeners can access the Chris Stapleton Radio station. 
+
+
+After Ludacris takes the stage at Shaq's Fun House on Friday, the rapper will perform Sunday at On Location's Super Bowl pregame party. He'll be joined by rock band The Revivalists at the Club 67 and Touchdown Club just outside the Caesars Superdome for One Location — a premium hospitality provider of the NFL. 
+
+
+Post Malone will be making moves too. He's scheduled to perform at three different events. Along with Fanatics, the superstar artist will hit the stage at the Bud Light Backyard Tour on Friday, then he's set to headline the YouTube Tailgate Concert on Sunday near the Superdome. 
+
+
+Diplo will perform at parties for Sports Illustrated and Maxim along with Guy Fieri's tailgate event. 
+
+
+
+
+Gospel celebration 
+
+
+Bill Bellamy and Rocsi Diaz will bring some gospel flavor to the Big Easy. 
+
+
+The tandem will host the Super Bowl Soulful Celebration on Wednesday night. The lineup includes some of music's best from The Isley Brothers, Muni Long, Yolanda Adams, Tori Kelly and Jonathan McReynolds. 
+
+
+Other performances include New Orleans natives Master P, Big Freedia, Lucky Daye and Trombone Shorty. The NFL Players Choir will also participate. 
+
+
+“Hosting the Super Bowl Soulful Celebration is like hitting the trifecta: music, faith, and football all in one show,” Bellamy said. "I’m excited to bring some laughs, some energy and to be part of this incredible night with an amazing lineup.” 
+
+
+Michael Strahan, an NFL Hall of Famer and Good Morning America co-anchor, will receive the Lifetime of Inspiration award. He called the honor “truly special.” 
+
+
+New Orleans Saints player Cameron Jordan will be given the community award while Los Angeles Rams star rookie Jared Verse will be honored with the rising star award. 
+
+
+Timbaland and Maxim 
+
+
+Super producer Timbaland will bring his massive hits into New Orleans with the help of Maxim. 
+
+
+Timbaland will perform at a special concert at the Maxim Saints & Sinners Big Game Party on Saturday. The show will include performances from DJ Loud Luxury, Plastik Funk, DJ unKommon and former NFL player Le'Veon Bell. 
+
+
+DJ unKommon and Diplo will be featured performers at a pregame party Friday. 
+
+
+Other concerts  
+
+
+Captain Morgan will transform Bourbon Street into Rum Street with the help of T-Pain, who will headline a concert Saturday night. 
+
+
+On the same night, Cardi B is expected to perform at the “Cardi Gras,” 50 Cent will hold the Super Bold Comedy Block Party with standups from Bill Bellamy, Chico Bean and DC Young Fly. 
+
+
+Dom Dolla and Diplo will perform at the Sports Illustrated Party. 
+
+
+On Friday, Nelly and the Chainsmokers are set to perform at h.wood Homecoming and the Draft Kings event. Shannon Sharpe and Chad “Ochosinco" Johnson will do an in-person podcast called the Nightcap NSFW Tour. 
+
+<br> 
+
+<https://www.voanews.com/a/stars-athletes-bring-buzz-to-new-orleans-before-super-bowl-/7961674.html>
+
+---
+
+## The strategy behind Trump’s executive orders
+
+date: 2025-02-03, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>Kimberly’s back from Cuba just in time to discuss the onslaught of President Donald Trump&#8217;s executive actions, from tariffs to his federal funding freeze. Lawsuits are being filed left and right against the administration&#8217;s moves, but will the Supreme Court still serve as a check on the executive branch? Plus, Kimberly unpacks lasting reflections on Cuba’s contradictions as a country with strong social services like universal education yet acute wage disparities.</p>
+<p>Here’s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.rollingstone.com/politics/politics-features/trump-strategy-federal-freeze-buyout-inspector-general-1235250857/" target="_blank" rel="noopener">“Trump&#8217;s Driving Legal Principle This Time: &#8216;What Are You Gonna Do About It?’”</a> by Rolling Stone</li>
+</ul>
+<p><!-- /wp:paragraph --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.politico.com/news/2025/02/03/trump-tariffs-legal-00202063" target="_blank" rel="noopener">“Trump is using a nearly 50-year-old law to justify new tariffs. It may not be legal.”</a> from Politico</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.vox.com/scotus/397104/supreme-court-donald-trump-lawlessness" target="_blank" rel="noopener">“Will the Supreme Court rule that any laws still apply to Donald Trump?”</a> from Vox</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://egyptianstreets.com/2025/01/29/egypt-to-cover-tuition-costs-for-1077-students-after-suspension-of-usaid-scholarship-programs/" target="_blank" rel="noopener">“Egypt to Cover Tuition Costs for 1,077 Students After Suspension of USAID Scholarship Programs”</a> by Egyptian Streets</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Got a question or comment for us? Leave us a voicemail at 508-U-B-SMART or email makemesmart@marketplace.org.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/03/mms_20250203_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fthe-strategy-behind-trumps-executive-orders&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/03/mms_20250203_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fthe-strategy-behind-trumps-executive-orders&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/the-strategy-behind-trumps-executive-orders>
+
+---
+
+## George Conway Apologizes to Canada 
+
+date: 2025-02-03, from: The Contrarian
+
+On behalf of the United States, George ventures over to his neighbor's home to extend a musical, heartfelt apology to our country's neighbor 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156417644/aa3bb09923beb10a6486ee9591de9386.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156417644/aa3bb09923beb10a6486ee9591de9386.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/george-conway-apologizes-to-canada>
+
+---
+
+## The manufacturing sector bounced back a bit in January. Its future’s full of uncertainty.
+
+date: 2025-02-03, from: Market Place
+
+Nobody knows how tariffs will hit. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/03/the-manufacturing-sector-bounced-back-a-bit-in-january-its-futures-full-of-uncertainty/>
+
+---
+
+## Dramatic drop in monarch butterfly count nears record 30-year low
+
+date: 2025-02-03, from: VOA News USA
+
+MADISON, WISCONSIN — The number of monarch butterflies spending the winter in the western United States has dropped to its second-lowest mark in nearly three decades as pesticides, diminishing habitat and climate change take their toll on the beloved pollinator.
+
+
+Here's what to know:
+
+
+The survey began in 1997
+
+
+Monarch butterflies, known for their distinctive orange-and-black wings, are found across North America. Monarchs in the eastern United States spend their winters in Mexico and are counted by the World Wildlife Fund, which has yet to release data for this year. Monarchs west of the Rocky Mountains typically overwinter along the California coast.
+
+
+The Xerces Society for Invertebrate Conservation has been counting western overwinter populations along the California coast, northern Baja California and inland sites in California and Arizona for the last 28 years. The highest number recorded was 1.2 million in 1997. The organization announced Friday that it counted just 9,119 monarchs in 2024, a decrease of 96% from 233,394 in 2023. The total was the second lowest since the survey began in 1997. The record-low was 1,901 monarchs in 2020.
+
+
+The survey noted that a site owned by The Nature Conservancy in Santa Barbara that saw 33,200 monarchs last winter hosted only 198 butterflies this year.
+
+
+
+
+Heat may have doomed western monarchs
+
+
+Monarchs across the continent face mounting threats, chief among them vanishing milkweed, the host plant for the insect's caterpillars. The plant has been disappearing before a combination of drought, wildfires, agriculture and urban development, according to Monarch Joint Venture, a group that works to protect monarchs. Pesticides have contaminated much of the remaining plants, according to the Xerces Society.
+
+
+It's unclear what caused such a sharp drop-off in the western population in just one year, said Emma Pelton, an endangered species biologist with the Xerces Society. The monarch population is already small, she said, and triple-digit heat in the western states last year may have slowed breeding.
+
+
+Monarchs suffer when the mercury gets up to 37.7 degrees Celsius (100 degrees Fahrenheit) and any temperatures above 42.2 C (108 F) are lethal to the insects, Pelton said. The western states saw a heat wave in July that drove temperatures in some areas well past 37.7 C (100 F). Palm Springs, for example, hit a record 51.1 C (124 F) on July 5. Another heat wave cooked northern California in early October, with multiple cities breaking heat records.
+
+
+Western monarchs' future looks murky
+
+
+Pelton said that it's too early to tell what long-term impact the dramatic losses might have on the overall western monarch population. Insects do have the potential for exponential growth, Pelton said. After bottoming out at 1,901 butterflies in 2020, the population rebounded to 247,246 insects the following year, an increase of nearly 13,000%. The year after that the survey recorded 335,479 monarchs.
+
+
+"This is bad news," Pelton said of the 2024 population drop. “But we have seen incredible recovery. This doesn’t mean we’re not going to have western monarchs. It's hopefully a wake-up call that a bad year can set them back pretty significantly.”
+
+
+
+
+Federal officials working on protections
+
+
+The U.S. Fish and Wildlife Service announced in December 2024 that it was working to list monarchs as threatened, a move that would prohibit anyone from killing them, transporting them or making changes that would render their property permanently unusable for the species, such as eradicating all milkweed from the land. The listing also would protect 1,779 hectares (4,395 acres) in seven coastal California counties that serve as overwinter sites for western monarchs.
+
+
+A public comment period on the proposal is set to end in March. The agency has until December to officially list the monarch as threatened if officials decide to move forward.
+
+
+Earthjustice, an environmental law firm, petitioned the Environmental Protection Agency in December 2024 to mandate testing pesticide effects on insects such as bees, moths and butterflies. 
+
+<br> 
+
+<https://www.voanews.com/a/dramatic-drop-in-monarch-butterfly-count-nears-record-30-year-low-/7961657.html>
+
+---
+
+## Musk-led DOGE has access to the U.S. Treasury’s payment system. What will they do with it?
+
+date: 2025-02-03, from: Market Place
+
+Wendy Edelberg of Brookings says "political malpractice" might be a bigger risk to economic stability than the government's massive borrowing. 
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/03/treasury-payment-system-doge-elon-musk-spending-financial/>
+
+---
+
+## There are lots of moving parts on tariffs right now, but one constant is uncertainty
+
+date: 2025-02-03, from: Market Place
+
+Over the weekend, President Trump announced he’d be moving forward with tariffs starting tomorrow. Then, Mexico and the U.S. struck a deal to delay those tariffs for one month as the two negotiate border security. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/03/tariff-uncertainty-taxes-imports-trump-tariffs-china-mexico-canada/>
+
+---
+
+## “We’ve got to be more careful and prudent of how fast rates could come down,” says Chicago Fed chief
+
+date: 2025-02-03, from: Market Place
+
+Austan Goolsbee says the central bank is keenly monitoring how changing economic policy is influencing inflation and employment. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/03/fed-inflation-austan-goolsbee-rate-cuts-uncertainty-central-bank-economic-policy/>
+
+---
+
+## Trump administration moves to end deportation protections for 348,000 Venezuelans
+
+date: 2025-02-03, from: VOA News USA
+
+WASHINGTON/MARACAIBO, Venezuela — U.S. Homeland Security Secretary Kristi Noem on Monday moved to remove protection against deportation from hundreds of thousands of Venezuelans in the U.S., part of President Donald Trump's expanding immigration crackdown.
+
+
+The decision means about 348,000 Venezuelans with Temporary Protected Status, more than half of all Venezuelans in the program, could be deported and lose work permits in April, according to a government notice.
+
+
+The notice said the protections were contrary to U.S. interests and no longer justified by conditions in Venezuela.
+
+
+Trump, a Republican, took office on Jan. 20 vowing to crack down on illegal immigration and humanitarian programs he says go beyond the intent of U.S. law. Trump tried to end most enrollment in the temporary protection program during his first term but was stymied by federal courts.
+
+
+The status is available to people whose home country has experienced a natural disaster, armed conflict or other extraordinary event.
+
+
+"I don't know what will happen," said Venezuelan migrant Ana Maria Pirela, 26, who lives in California and has temporary protected status.
+
+
+"Yesterday they fired my husband from his job — he had been managing a food store for two months — and I'm two months pregnant. I don't want to go back to Venezuela," she said by phone.
+
+
+Former President Joe Biden, a Democrat, greatly expanded the temporary protection program. It now covers more than 1 million people from 17 nations, some in the U.S. for decades, and they could face immediate deportation if they lose the status.
+
+
+Hundreds of thousands of Venezuelans arrived in the U.S. during Biden's presidency, many via legal humanitarian pathways, and deporting them has been challenging due to frosty U.S.-Venezuela relations. On Saturday, Trump said Venezuela had agreed to accept all deported people but provided few details.
+
+
+Last week, Noem canceled an 18-month extension of temporary protections for Venezuelans by her Biden-era predecessor, saying the Trump administration did not want to be bound by that determination. On Monday, she stopped their status from automatically renewing for six months. 
+
+
+About 300,000 additional Venezuelans have Temporary Protected Status that expires in September and were not affected by Monday's decision.
+
+
+The Department of Homeland Security said in the termination notice that while some challenging conditions remain in Venezuela, "there are notable improvements in several areas such as the economy, public health, and crime that allow for these nationals to be safely returned to their home country."
+
+
+The termination will be effective 60 days after publication in the Federal Register, the notice said, or about the first week in April.
+
+
+Venezuelan President Nicolas Maduro's government has taken some steps to control inflation, which previously was in the triple digits, but economic conditions in Venezuela remain dire for most people. The monthly minimum wage equals about $3.
+
+
+Maduro was inaugurated for his third term in January, despite a six-month-long election dispute, international calls for him to stand aside and an increase in the U.S. reward offered for his capture.
+
+
+The U.S. charged Maduro and several allies with drug trafficking in 2020, charges he denies. 
+
+
+The Venezuelan opposition, which has faced arrests and other crackdown measures since the July election, asked the U.S. to keep the temporary protection program in place.
+
+
+Opposition leader Edmundo Gonzalez, who moved abroad after Venezuela issued an arrest warrant for him, recently said on X that the opposition was still discussing with the U.S. how to protect Venezuelans there.
+
+
+Venezuelan migrant Tatiana Vazques, who lives in Atlanta, said by phone that her family submitted a U.S. asylum application but was anxious after seeing other Venezuelans arrested by U.S. Immigration and Customs Enforcement (ICE).
+
+
+"Yesterday ICE took a friend and her husband. There's anguish," she said. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-administration-moves-to-end-deportation-protections-for-348-000-venezuelans-/7961630.html>
+
+---
+
+## The Corrupt Pressure Campaign to Get SDNY to Drop Its Case Against Mayor Eric Adams
+
+date: 2025-02-03, from: The Contrarian
+
+By Mimi Rocah and Jennifer Rodgers 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-corrupt-pressure-campaign-to>
+
+---
+
+## Pentagon chief travels to Mexico border as Trump cracks down on migration
+
+date: 2025-02-03, from: VOA News USA
+
+WASHINGTON — U.S. Defense Secretary Pete Hegseth arrived in Texas on Monday to visit the southern border as President Donald Trump works to implement a hard-right agenda that includes boosting the U.S. military presence to keep out illegal immigrants.
+
+
+In his first trip as Pentagon chief, Hegseth will survey operations and meet with U.S. troops who have been rushed to the region under Trump.
+
+
+"Looking forward to meeting our great warriors and seeing the hard work they are doing securing our southern border. We will continue to deliver on this vital mission," Hegseth wrote on X in a post announcing his arrival.
+
+
+Trump ordered 1,500 additional military personnel to the border just days after taking office, and his administration carried out highly publicized immigration raids and arrests. Some migrants have been deported using military aircraft.
+
+
+Border security is a key priority for the president, who declared a national emergency at the U.S. border with Mexico on his first day in office.
+
+
+The additional personnel have increased the total number of active-duty troops deployed there to around 4,000.
+
+
+Ahead of his border visit, Hegseth posted on X that Trump "wants 100% operational control of the border — and we will deliver." 
+
+<br> 
+
+<https://www.voanews.com/a/pentagon-chief-travels-to-mexico-border-as-trump-cracks-down-on-migration/7961571.html>
+
+---
+
+## US markets pare losses after Trump pauses tariff on Mexican imports
+
+date: 2025-02-03, from: VOA News USA
+
+U.S. stock markets fell sharply in early trading Monday but pared their losses after President Donald Trump paused a planned 25% tariff on Mexican imports.
+
+
+The three major U.S. stock indices — the Dow Jones Industrial Average of 30 blue chip stocks, the broader S&P 500 and the tech-heavy NASDAQ — all dropped nearly 2% or more on fears that Trump’s new tariffs targeting Canada, China and Mexico would threaten the global economy.
+
+
+
+
+But the losses were cut in half after Trump paused the levy on Mexican goods for a month, even though his planned 25% tariff on Canadian goods and a 10% levy on Chinese imports were still set to take hold at midnight.
+
+
+Trump was planning further discussions mid-afternoon Monday with Canadian Prime Minister Justin Trudeau.
+
+
+Stock markets in Asia fell Monday amid investor concerns about the tariffs.
+
+
+Japan’s Nikkei index closed down 2.66%, while South Korea’s KOSPI index finished off 2.5%. 
+
+
+Hong Kong’s Hang Seng index was down more than 2% in early trading before rallying to close down just .07%.
+
+
+Britain’s FTSE index, Germany’s DAX and France’s CAC40 all dropped more than 1%.
+
+
+Canada and Mexico both announced tariffs on U.S. goods in response to Trump’s move before Mexican President Claudia Sheinbaum told Trump she would send 10,000 National Guard troops to the U.S.-Mexico border to try to curb the flow of the deadly opioid fentanyl into the U.S. and Trump paused his tariff on Mexican imports.
+
+
+China has pledged to file a protest with the World Trade Organization over the Trump tariff increase on its exports to the U.S. 
+
+
+Canada, China and Mexico are the top three U.S. trade partners. 
+
+
+Some information for this story came from The Associated Press and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/us-markets-pare-losses-after-trump-pauses-tariff-on-mexican-imports/7961533.html>
+
+---
+
+## Trump orders creation of US sovereign wealth fund, says it could buy TikTok
+
+date: 2025-02-03, from: VOA News USA
+
+Washington — U.S. President Donald Trump signed an executive order on Monday ordering the U.S. Treasury and Commerce Departments to create a sovereign wealth fund and said it may purchase TikTok. 
+
+
+"We're going to stand this thing up within the next 12 months. We're going to monetize the asset side of the U.S. balance sheet for the American people," he told reporters. "There'll be a combination of liquid assets, assets that we have in this country as we work to bring them out for the American people." 
+
+
+Trump had previously floated such a government investment vehicle as a presidential candidate, saying it could fund "great national endeavors" like infrastructure projects such as highways and airports, manufacturing, and medical research.  
+
+
+Details on how exactly the fund would operate and be financed were not immediately available, but Trump previously said it could be funded by "tariffs and other intelligent things." Typically such funds rely on a country's budget surplus to make investments, but the U.S. operates at a deficit. 
+
+
+There are over 90 such funds across the world managing over $8 trillion in assets, according to the International Forum of Sovereign Wealth Funds. 
+
+
+TikTok, which has about 170 million American users, was briefly taken offline just before a law requiring its Chinese owner ByteDance to either sell it on national security grounds or face a ban took effect on Jan. 19.  
+
+
+Trump, after taking office on Jan. 20, signed an executive order seeking to delay by 75 days the enforcement of the law. 
+
+
+Trump has said that he was in talks with multiple people over TikTok's purchase and would likely have a decision on the popular app's future in February. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-orders-creation-of-us-sovereign-wealth-fund-says-it-could-buy-tiktok/7961449.html>
+
+---
+
+## This year marks the start of a new generation, and marketers are already taking notice
+
+date: 2025-02-03, from: Market Place
+
+2025 marks the start of Generation Beta. But how much do we actually know about them? 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/03/this-year-marks-the-start-of-a-new-generation-and-marketers-are-already-taking-notice/>
+
+---
+
+## Share with Marketplace: What kind of consumer are you?
+
+date: 2025-02-03, from: Market Place
+
+We're looking to talk to all kinds of people with different income levels and life experiences for a series on financial choices and habits. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/03/share-with-marketplace-what-kind-of-consumer-are-you/>
+
+---
+
+## Trump’s Trade War Is Worse than You Think 
+
+date: 2025-02-03, from: The Contrarian
+
+Taxing our largest trading partners will pass costs to consumers en route to deeper economic damage 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-trade-war-is-worse-than-you>
+
+---
+
+## Trump’s Weapons of Choice: Exclusion, Incarceration and Mass Deportation
+
+date: 2025-02-03, from: Capital and Main
+
+<p>A time of fear dawns as the administration calls in the military and promises immigration sweeps.</p>
+<p>The post <a href="https://capitalandmain.com/trumps-weapons-of-choice-exclusion-incarceration-and-mass-deportation">Trump’s Weapons of Choice: Exclusion, Incarceration and Mass Deportation</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trumps-weapons-of-choice-exclusion-incarceration-and-mass-deportation>
+
+---
+
+## What Donald Trump’s tariffs will mean for the economy
+
+date: 2025-02-03, from: Market Place
+
+Prices could rise for certain goods, and the economy could tip into recession.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/03/what-donald-trumps-tariffs-will-mean-for-the-economy/>
+
+---
+
+## Tariffs on Canada and Mexico Are Officially Off
+
+date: 2025-02-03, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NjE1NjU1OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5NDE5NzUzN30.BxJIYaK_2UE2j9anQrcLfeD7u5CrgNMbd7GevI8LhdE/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>U.S. President Donald Trump and Mexican President Claudia Sheinbaum announced a month-long pause on across-the-board 25% tariff on Mexican goods imported into the United States that were to take effect on Tuesday.</p><p>In a post on Truth Social, Trump said that Sheinbaum had agreed to deploy 10,000 Mexican troops to the U.S.-Mexico border, “specifically designated to stop the flow of fentanyl, and illegal migrants into our Country.” Secretary of State Marco Rubio, Secretary of the Treasury Scott Bessent, and Secretary of Commerce Howard Lutnick will lead talks in the coming month over what comes next.</p><p>“I look forward to participating in those negotiations, with President Sheinbaum, as we attempt to achieve a ‘deal’ between our two Countries,” Trump wrote.</p><p>In her own statement, Sheinbaum said the U.S. had committed to work on preventing the trafficking of firearms into Mexico.</p><p>There has still been no pause on planned tariffs on Canadian imports, which would likely affect the flow of <a href="https://heatmap.news/politics/trump-canada-tariffs" target="_self"><u>oil, minerals, and lumber</u></a>, as well as possibly break automobile supply chains in the United States. Canadian leaders announced several measures to counter the tariffs at both the federal and provincial level. </p><p>Trump and Canadian Prime Minister Justin Trudeau have spoken today, and <a href="https://www.cbc.ca/news/politics/trudeau-trump-speak-trade-war-1.7448805" rel="noopener noreferrer" target="_blank"><u>are scheduled to do so again this afternoon</u></a>. Canadian officials are not optimistic, however, that they’ll <a href="https://www.nytimes.com/live/2025/02/03/us/trump-tariffs" rel="noopener noreferrer" target="_blank"><u>be able to get a similar deal</u></a>, a Canadian official told <em><em>The New York Times</em></em>.</p><p><em>UPDATE</em> <em>4:55 p.m. ET:</em> Trudeau <a href="https://x.com/JustinTrudeau/status/1886529228193022429" target="_blank">announced</a> that he had reached a similar deal that would stave off the imposition of tariffs for a month. Following a “good call” with Trump, Trudeau said in a post on X that he would deploy personnel and resources to his country’s southern border. “Nearly 10,000 frontline personnel are and will be working on protecting the border,” Trudeau wrote. He also said that Canada would have a “Fentanyl Czar” and would “launch a Canada- U.S. Joint Strike Force to combat organized crime, fentanyl and money laundering.”<br/></p> 
+
+<br> 
+
+<https://heatmap.news/sparks/mexico-tariff-pause>
 
 ---
 

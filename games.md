@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-02-03 07:05:45
+updated: 2025-02-04 07:05:14
 ---
 
 # games
 
-(date: 2025-02-03 07:05:45)
+(date: 2025-02-04 07:05:14)
+
+---
+
+## Thanks, Atari, a new Breakout sounds perfect right now
+
+date: 2025-02-04, updated: 2025-02-04, from: Polygon Website
+
+I’ve always had a soft spot for the Breakout and Arkanoid games. Smashing bricks with a paddle-shaped spaceship is very satisfying, and watching decimating combos unfold with multiball attacks on said bricks can be invigorating. So Atari announcing —&#160;or rather re-announcing —&#160;a new Breakout game that will let me take out my aggressions on various [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/518461/breakout-beyond-atari-release-date>
+
+---
+
+## Eternal Strands is the Forspoken of 2025 (complimentary)
+
+date: 2025-02-04, updated: 2025-02-03, from: Polygon Website
+
+Eternal Strands is a new action RPG that whiffs on the “action” and offers very little on the “RPG.” I say that, and yet I can’t stop playing it. This game rules. The major selling point of Eternal Strands, the debut game from Yellow Brick Games, is the pedigree of its developers. Directed by Mike [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/518493/eternal-strands-impressions-yellow-brick-games>
+
+---
+
+## The Fantastic Four: First Steps wants to sell you on a new MCU
+
+date: 2025-02-04, updated: 2025-02-04, from: Polygon Website
+
+Marvel Studios dropped its first real look at Matt Shakman’s The Fantastic Four: First Steps today, featuring Pedro Pascal, Vanessa Kirby, Joseph Quinn, and Ebon Moss-Bachrach as Marvel’s “First Family,” the Fantastic Four. Featuring the team already suited up and with their powers, living as down-home celebrities in a Tomorrowland ’60s aesthetic, the teaser shows [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/518273/fantastic-four-2025-first-trailer>
+
+---
+
+## Switch sales stall ahead of Switch 2, but a major milestone is within reach
+
+date: 2025-02-04, updated: 2025-02-04, from: Polygon Website
+
+Nintendo’s latest set of financial results would make bleak reading if it hadn’t just announced that it will release its next console, the Switch 2, this year. Nintendo Switch has been an extraordinary success, but it couldn’t last forever. As the hybrid handheld approaches its eighth birthday, Nintendo said that Switch hardware sales had fallen [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/518783/sswitch-sales-fall-ahead-of-switch-2>
+
+---
+
+## What time does Civilization 7 release in early access?
+
+date: 2025-02-04, updated: 2025-02-03, from: Polygon Website
+
+Civilization 7 is releasing for the first time in series history on PC and consoles on the same day. The PC and console release is split between multiple days, with an early access period starting as early as Wednesday, Feb. 5, prior to its full release on Tuesday, Feb. 11. Your platform also dictates when [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/civilization-7-guides/518178/release-time-early-access-date-civ-7-est-pst>
+
+---
+
+## Can Carvanha be shiny in Pokémon Go?
+
+date: 2025-02-04, updated: 2025-02-03, from: Polygon Website
+
+Carvanha, the savage Pokémon from Hoenn, can be found in the wild in Pokémon Go. Yes, Carvanha can be shiny in Pokémon Go! As of writing this, Carvanha and Sharpedo have pretty low value, but when its Mega Evolution does get added to Pokémon Go, it will probably serve as both a pretty good water- [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/518265/can-carvanha-be-shiny-sharpedo-mega>
+
+---
+
+## The Cousin Game is one of the oldest and most underappreciated genres
+
+date: 2025-02-03, updated: 2025-02-03, from: Polygon Website
+
+I have a name for the forgotten, forgettable, off-brand, off-axis games of our youth. I call them: Cousin Games. The best way to get in the Cousin Game mindset is to imagine being dropped off in a house that smells different from how you think a house is supposed to smell and you go into [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/videos/518337/cousin-games>
+
+---
+
+## Terry Pratchett’s most underrated Discworld miniseries is on sale for less than $1 per book
+
+date: 2025-02-03, updated: 2025-02-03, from: Polygon Website
+
+If you’re staring at the more than three dozen books in Terry Pratchett’s internationally bestselling Discworld fantasy series and wondering where to start, it probably wouldn’t occur to you to dive in with the standalone series Pratchett wrote for YA readers. But if it did, you wouldn’t be wrong. And if you wanted to do [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/518532/terry-pratchett-discworld-where-to-start-book-sale>
+
+---
+
+## Buffy the Vampire Slayer is coming back to TV with a reboot
+
+date: 2025-02-03, updated: 2025-02-03, from: Polygon Website
+
+Cue the Nerf Herder. Buffy the Vampire Slayer is reportedly returning to TV with a reboot-sequel series that will see Sarah Michelle Gellar reprising her role as the SoCal slayer of the supernatural. According to reports from Hollywood trades Deadline and Variety, a new Buffy series is “nearing a pilot order” at Hulu, and that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/518576/buffy-the-vampire-slayer-reboot-sequel-sarah-michelle-gellar>
+
+---
+
+## Peacock annual subscriptions are 62% off through February
+
+date: 2025-02-03, updated: 2025-02-03, from: Polygon Website
+
+Peacock is offering a big discount on yearly subscriptions ahead of Valentine’s Day. Through Feb. 18, new and lapsed subscribers both can get one year of Peacock’s ad-supported Premium plan for $29.99, which is over half off its usual $79.99 cost. You’ll pay for your year all at once, as opposed to paying monthly, but [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/518501/peacock-year-annual-discount-sale>
 
 ---
 
