@@ -1,11 +1,25 @@
 ---
 title: food
-updated: 2025-02-04 07:05:16
+updated: 2025-02-04 09:32:33
 ---
 
 # food
 
-(date: 2025-02-04 07:05:16)
+(date: 2025-02-04 09:32:33)
+
+---
+
+## McDonald’s Just Revealed the Release Date for Its Shamrock Shake
+
+date: 2025-02-04, from: Taste of Home
+
+<p>Expect long lines at the drive-thru, because the Shamrock Shake is in high demand.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/shamrock-shake-2025/">McDonald&#8217;s Just Revealed the Release Date for Its Shamrock Shake</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/shamrock-shake-2025/>
 
 ---
 

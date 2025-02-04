@@ -1,11 +1,37 @@
 ---
 title: home
-updated: 2025-02-04 07:05:15
+updated: 2025-02-04 09:32:31
 ---
 
 # home
 
-(date: 2025-02-04 07:05:15)
+(date: 2025-02-04 09:32:31)
+
+---
+
+## Why Your Snake Plant Is Drooping and How to Fix It
+
+date: 2025-02-04, from: The Gardener's Path
+
+<p>Snake plants are popular, low-maintenance, tropical species with swordlike, upright foliage. They grow outdoors in Zones 10 to 12 and make delightful houseplants. If the leaves of your mother in law's tongue are drooping and wilted, it's a sign of stress. Learn why this happens and what you can do about it in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/snake-plant-drooping/">Why Your Snake Plant Is Drooping and How to Fix It</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/snake-plant-drooping/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-02-04, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -192,18 +218,6 @@ Delicious recipes, food and wine pairings, and more ways to savor the West.
 <br> 
 
 <https://www.sunset.com/food-wine>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-02-03, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

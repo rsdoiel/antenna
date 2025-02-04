@@ -1,11 +1,47 @@
 ---
 title: socal north
-updated: 2025-02-04 07:05:12
+updated: 2025-02-04 09:32:29
 ---
 
 # socal north
 
-(date: 2025-02-04 07:05:12)
+(date: 2025-02-04 09:32:29)
+
+---
+
+## Trump administration adds fine print to 'Fork' resignation offer, deepening confusion
+
+date: 2025-02-04, updated: 2025-02-04, from: The LAist
+
+Federal agencies are sending out sample contract agreements to their employees in what appears to be an effort to alleviate doubts. But some of the language differs from the original offer. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-administration-adds-fine-print-to-fork-resignation-offer-deepening-confusion>
+
+---
+
+## Winter storm heading to SoCal
+
+date: 2025-02-04, updated: 2025-02-04, from: The LAist
+
+Rainfall is expected to arrive in L.A. until the afternoon. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/winter-storm-heading-to-socal>
+
+---
+
+## Instead of banning AI, this UCLA literature class embraces it
+
+date: 2025-02-04, updated: 2025-02-04, from: The LAist
+
+A closed-loop system aims to empower, not replace, professors in subjects including literature and physics. And it appears to be improving student outcomes too. 
+
+<br> 
+
+<https://laist.com/news/education/ucla-humanities-courses-artificial-intelligence-chatgpt-kudu>
 
 ---
 
@@ -18,18 +54,6 @@ A celebration of public transit is held on Feb. 4, to honor the birthday of pion
 <br> 
 
 <https://laist.com/news/transportation/free-rides-transit-equity-day-trump-administration>
-
----
-
-## Instead of banning AI, UCLA humanities classes embrace it
-
-date: 2025-02-04, updated: 2025-02-04, from: The LAist
-
-A closed-loop system aims to empower, not replace, professors in subjects including literature and physics. And it appears to be improving student outcomes too. 
-
-<br> 
-
-<https://laist.com/news/education/ucla-humanities-courses-artificial-intelligence-chatgpt-kudu>
 
 ---
 
@@ -203,18 +227,6 @@ Catch more live music benefitting wildfire relief at the Give a F*ck benefit con
 
 ---
 
-## An unexpected sore spot for preschools after the fires: sandboxes
-
-date: 2025-02-03, updated: 2025-02-03, from: The LAist
-
-Daycares have many questions — and fewer answers — about cleaning up a playground staple. 
-
-<br> 
-
-<https://laist.com/news/education/sandboxes-post-la-fire-preschool-cleanup>
-
----
-
 ## Will Trump's enthusiasm for the LA Olympics help with fire recovery?
 
 date: 2025-02-03, updated: 2025-02-03, from: The LAist
@@ -224,6 +236,18 @@ California officials hope the president's Olympic aspirations will help secure s
 <br> 
 
 <https://laist.com/news/politics/trump-gold-help-la-olympics>
+
+---
+
+## An unexpected sore spot for preschools after the fires: sandboxes
+
+date: 2025-02-03, updated: 2025-02-03, from: The LAist
+
+Daycares have many questions — and fewer answers — about cleaning up a playground staple. 
+
+<br> 
+
+<https://laist.com/news/education/sandboxes-post-la-fire-preschool-cleanup>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-02-04 07:05:15
+updated: 2025-02-04 09:32:32
 ---
 
 # retro computing
 
-(date: 2025-02-04 07:05:15)
+(date: 2025-02-04 09:32:32)
+
+---
+
+## 6530 hardware emulator in FPGA in 40 pin DIP
+
+date: 2025-02-04, from: Hans Otten's Retro blog
+
+Imagine a true 6530-002 and 6530-003 replacement , the RRIOTs of the KIM-1 Now with modern FPGAs you van do that: a 40 pin PDIP replacement: the reDIP RIOT is made for that purpose. Here is the code for the reDIP to make it a 6530-002 or 6530-003: Github with gateware for Commodore MOS 6530 [&#8230;] 
+
+<br> 
+
+<http://retro.hansotten.nl/6530-hardware-emulator-in-fpga-in-40-pin-dip/>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: journalism
-updated: 2025-02-04 07:05:14
+updated: 2025-02-04 09:32:31
 ---
 
 # journalism
 
-(date: 2025-02-04 07:05:14)
+(date: 2025-02-04 09:32:31)
+
+---
+
+## Students plant seeds for MLK Day of Service
+
+date: 2025-02-04, from: The Sundail (CSUN Student Newspaper)
+
+“Dr. King once said life’s most urgent question is ‘What are you doing for others?’ His legacy is not just one powerful of words, but the transformation of deeds,” said... 
+
+<br> 
+
+<https://sundial.csun.edu/189331/news/students-plant-seeds-for-mlk-day-of-service/>
+
+---
+
+## CSUN Volleyball establishes winning framework
+
+date: 2025-02-04, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN men’s volleyball team has been off to its best start since 2018 and is currently the No. 16 team in the nation. Despite dropping their matches to No.... 
+
+<br> 
+
+<https://sundial.csun.edu/189351/sports/csun-athletic-dept/csun-volleyball-establishes-winning-framework/>
 
 ---
 
@@ -90,7 +114,7 @@ While this year’s 67th Annual Grammy Awards took on a powerful message of phil
 
 ---
 
-## 101 Freeway Shuts Down as Thousands Protest or Anti-ICE Protests Lead to Freeway Closure
+## 101 Freeway shuts down as thousands protest
 
 date: 2025-02-04, from: The Sundail (CSUN Student Newspaper)
 
@@ -114,7 +138,7 @@ date: 2025-02-04, from: The Daily Bruin (UCLA Student Newspaper)
 
 ---
 
-## CSUN Students Shine In Fire Relief Jazz Show
+## CSUN students shine in fire relief jazz show
 
 date: 2025-02-04, from: The Sundail (CSUN Student Newspaper)
 
@@ -151,7 +175,7 @@ Police arrested one person across the street from Gayley Heights on Le Conte Ave
 
 ---
 
-## Accessible Tax Resources: CSUN VITA Clinic
+## Accessible tax resources: CSUN VITA Clinic
 
 date: 2025-02-03, from: The Sundail (CSUN Student Newspaper)
 

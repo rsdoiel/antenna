@@ -1,11 +1,83 @@
 ---
 title: science and technology
-updated: 2025-02-04 07:05:13
+updated: 2025-02-04 09:32:29
 ---
 
 # science and technology
 
-(date: 2025-02-04 07:05:13)
+(date: 2025-02-04 09:32:29)
+
+---
+
+## This 120-Year-Old Police Docket Documented Crimes Like Reckless Horse Riding
+
+date: 2025-02-04, from: Smithsonian Magazine
+
+Discovered in a thrift store, the historic docket lists incidents that occurred in the town of Casper, Wyoming, in 1904—including “reckless riding [of a horse]” and “keeping a house of prostitution” 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-120-year-old-police-docket-documented-crimes-like-reckless-horse-riding-180985985/>
+
+---
+
+## NASA’s Cloud-based Confluence Software Helps Hydrologists Study Rivers on a Global Scale
+
+date: 2025-02-04, from: NASA breaking news
+
+Rivers shape ecosystems and economies, yet hydrologists have limited tools to study them. Enter Confluence—a groundbreaking, open-source framework leveraging NASA’s SWOT mission and HLS data to estimate river discharge and sediment levels worldwide. Hosted by PO.DAAC, Confluence delivers rapid, global insights, revolutionizing hydrology with cloud-based efficiency. A game changer for river monitoring. 
+
+<br> 
+
+<https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloud-based-confluence-software-helps-hydrologists-study-rivers-on-a-global-scale/>
+
+---
+
+## The 'Ghost' Haunting This South Carolina Town Might Have an Earthly Explanation, Scientist Says
+
+date: 2025-02-04, from: Smithsonian Magazine
+
+In a new research article, a seismologist argues that earthquakes are the reason for the mysterious lights associated with a local urban legend in Summerville 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-ghost-haunting-this-south-carolina-town-might-have-an-earthly-explanation-scientist-says-180985975/>
+
+---
+
+## Palantir designed to 'power the West to its obvious innate superiority,' says CEO
+
+date: 2025-02-04, updated: 2025-02-04, from: The Register (UK I.T. News)
+
+<h4>Um, does anyone wanna switch seats?</h4> <p>Palantir CEO Alex Karp says one of his aims when building the controversial spy‑tech company was to &#34;power the West to its obvious innate superiority.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/04/palantir_karp_comments/>
+
+---
+
+## Grubhub serves up security incident with a side of needing to change your password
+
+date: 2025-02-04, updated: 2025-02-04, from: The Register (UK I.T. News)
+
+<h4>Contact info and partial payment details may be compromised</h4> <p>US food and grocery delivery platform Grubhub says a security incident at a third-party service provider is to blame after user data was compromised.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/04/grubhub_data_incident/>
+
+---
+
+## Straight Shot: Hubble Investigates Galaxy with Nine Rings
+
+date: 2025-02-04, from: NASA breaking news
+
+NASA’s Hubble Space Telescope has captured a cosmic bullseye! The gargantuan galaxy LEDA 1313424 is rippling with nine star-filled rings after an “arrow” — a far smaller blue dwarf galaxy — shot through its heart. Astronomers using Hubble identified eight visible rings, more than previously detected by any telescope in any galaxy, and confirmed a […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-investigates-galaxy-with-nine-rings/>
 
 ---
 
@@ -277,7 +349,7 @@ date: 2025-02-03, updated: 2025-02-04, from: The Register (UK I.T. News)
 
 date: 2025-02-03, from: NASA breaking news
 
-To advance plans of securing a public/private partnership and land and operate NASA’s VIPER (Volatiles Investigating Polar Exploration Rover) mission on the Moon in collaboration with industry the agency announced Monday it is seeking U.S. proposals. As part of the agency’s Artemis campaign, instruments on VIPER will demonstrate U.S. industry’s ability to search for ice [&#8230;] 
+Editor&#8217;s note: This release was updated on Feb. 4, 2025, to reflect a change in the deadline for when responses to the proposal are due. To advance plans of securing a public/private partnership and land and operate NASA’s VIPER (Volatiles Investigating Polar Exploration Rover) mission on the Moon in collaboration with industry the agency announced [&#8230;] 
 
 <br> 
 
@@ -631,7 +703,7 @@ date: 2025-02-03, updated: 2025-02-03, from: The Register (UK I.T. News)
 
 ## Lightsail space tech gets tailwind from Caltech breakthrough
 
-date: 2025-02-03, updated: 2025-02-03, from: The Register (UK I.T. News)
+date: 2025-02-03, updated: 2025-02-04, from: The Register (UK I.T. News)
 
 <h4>Sci-fi interstellar travel gets another tiny push</h4> <p>Centuries after Western explorers used sail power to discover a world hitherto unknown to them — although well known to people who already lived there — science fiction writers and engineers have wondered if space exploration might be similarly powered by lightsails.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 

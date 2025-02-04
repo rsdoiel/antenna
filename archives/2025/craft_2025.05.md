@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-02-04 07:05:16
+updated: 2025-02-04 09:32:33
 ---
 
 # craft
 
-(date: 2025-02-04 07:05:16)
+(date: 2025-02-04 09:32:33)
+
+---
+
+## Precious Cargo – Shawls, Silver, Craft — Timeless Pieces
+
+date: 2025-02-04, updated: 2025-02-04, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2025/02/precious-cargo-shawls-silver-craft.html>
 
 ---
 

@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2025-02-04 07:05:13
+updated: 2025-02-04 09:32:30
 ---
 
 # weather
 
-(date: 2025-02-04 07:05:13)
+(date: 2025-02-04 09:32:30)
 
 ---
 
-## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
+## The Central North Pacific hurricane season runs from June 1st through November 30th.
 
-date: 2025-02-04, from: Eastern Pacific Basin GIS Data
+date: 2025-02-04, from: Central Pacific Basin Tropical Cyclones
 
-The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
+The Central North Pacific hurricane season runs from June 1st through November 30th. 
 
 <br> 
 
@@ -21,11 +21,11 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Tue Feb  4 13:35:02 UTC 2025
+## SPC - No watches are valid as of Tue Feb  4 16:27:01 UTC 2025
 
 date: 2025-02-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Feb  4 13:35:02 UTC 2025. 
+No watches are valid as of Tue Feb  4 16:27:01 UTC 2025. 
 
 <br> 
 
@@ -33,15 +33,109 @@ No watches are valid as of Tue Feb  4 13:35:02 UTC 2025.
 
 ---
 
-## SPC - No MDs are in effect as of Tue Feb  4 13:35:02 UTC 2025
+## SPC - No MDs are in effect as of Tue Feb  4 16:27:01 UTC 2025
 
 date: 2025-02-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Tue Feb  4 13:35:02 UTC 2025. 
+No Mesoscale Discussions are in effect as of Tue Feb  4 16:27:01 UTC 2025. 
 
 <br> 
 
 <https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Feb 4, 2025 1630 UTC Day 1 Convective Outlook
+
+date: 2025-02-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1021 AM CST Tue Feb 04 2025
+
+Valid 041630Z - 051200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Isolated thunderstorms will be possible across northern/central
+California this afternoon and evening.
+
+...Northern/Central CA...
+Morning water vapor imagery shows a shortwave trough approaching the
+coast of northern CA.  An associated surface cold front is also
+moving southeastward into northern CA, with an increasingly large
+shield of showers along/ahead of the front.  Forecast soundings show
+the development of very weak CAPE later today, which could result in
+a few lightning flashes within the embedded precip shield.  No
+severe storms are expected.
+
+..Hart/Leitman.. 02/04/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2025-02-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0957 AM CST Tue Feb 04 2025
+
+Valid 041700Z - 051200Z
+
+...NO CRITICAL AREAS...
+
+The previous forecast remains on track with no changes needed.
+Latest guidance and morning observations continue to suggest that
+fire weather concerns will remain confined to portions of the Desert
+Southwest, but the coverage/duration of elevated conditions should
+remain patchy with limited overlap with receptive fuels. See the
+previous discussion for additional details.
+
+..Moore.. 02/04/2025
+
+.PREV DISCUSSION... /ISSUED 0159 AM CST Tue Feb 04 2025/
+
+...Synopsis...
+Ridging aloft is forecast to intensify over the central US, while a
+deepening trough moves over much of the West. Several embedded
+perturbations will cross the southern Rockies deepening a lee low
+over the southern High Plains and a second low over the Great Basin.
+This could support gusty winds and periods of locally elevated
+fire-weather potential over parts of central NM and eastern AZ.
+
+...Southwest...
+A backdoor cold front will move south over the Plains and into
+eastern NM early this morning associated with a weak lee low. The
+influx of cooler air and more moisture should moderate RH over the
+High Plains. To the west over the High country of central NM,
+periodic gusty winds and low humidity are still expected to overlap
+for several hours. Some localized fire-weather risk is possible over
+central NM and eastern AZ. However, more widespread fire-weather
+concerns are not currently expected given the relatively minor
+overlap of sustained winds, low humidity and sporadic receptive
+fuels.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
 
 ---
 

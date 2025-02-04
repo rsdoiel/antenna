@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-02-04 07:05:14
+updated: 2025-02-04 09:32:30
 ---
 
 # games
 
-(date: 2025-02-04 07:05:14)
+(date: 2025-02-04 09:32:30)
+
+---
+
+## Avowed headlines February’s Xbox Game Pass offerings
+
+date: 2025-02-04, updated: 2025-02-04, from: Polygon Website
+
+A new month means a new Xbox Game Pass lineup, and the first half of February is looking pretty good for folks with active subscriptions. Obsidian Entertainment’s Avowed leads the first-party charge with an all-new trip through the Pillars of Eternity universe when it drops on Game Pass day one later this month, but a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/xbox/518879/xbox-game-pass-february-2025-avowed-madden-starfield>
+
+---
+
+## Helldivers 2&#8217;s latest update drops the pinnacle of human technology: shovels
+
+date: 2025-02-04, updated: 2025-02-04, from: Polygon Website
+
+In the current narrative of Helldivers 2, the valiant Helldivers are engaged in a long-term operation in Automaton space. Players just wiped out the mobile jet brigade, and are now striving to hold Chort Bay from flanking attacks. While the three-front galactic war rages on, developer Arrowhead Game Studios is throwing some more complications into [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/518848/helldivers-2-servants-of-freedom-meridia-shovel>
+
+---
+
+## Where is Tophat Gudetama this week in Hello Kitty Island Adventure?
+
+date: 2025-02-04, updated: 2025-02-04, from: Polygon Website
+
+Tophat Gudetama hides in a different spot in Hello Kitty Island Adventure every week, with new weeks beginning on Monday. Pochacco will task you with finding this dapper Gudetama specifically as part of a quest per week for the first two weeks (“The Laziest Egg” and “The Laziest Eggs”), though after you finish these, there [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find>
+
+---
+
+## All Yuanbao locations in GTA Online
+
+date: 2025-02-04, updated: 2025-02-04, from: Polygon Website
+
+Yuanbao are a seasonal collectible for GTA Online’s Lunar New Year celebration. Once you find a Yuanbao, you’ll receive GTA$ 888 and 888 RP — totaling up to GTA$ 31,968 and 31,968 RP. After you find them all, you’ll also receive the Gold Snake Santo Capra outfit. However, finding them is easier said than done [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gta-online-guides/515870/yuanbao-locations-map>
+
+---
+
+## HeroQuest: First Light reinvents the classic dungeon crawler
+
+date: 2025-02-04, updated: 2025-02-04, from: Polygon Website
+
+When the HeroQuest reboot was announced in 2020, fans were hyped to revisit the original hit dungeon crawling board game first released in 1989. The product that came to market a year later was a hit, filled with lavish plastic scenery, unique miniatures, and a nearly word-for-word re-creation of the then-32-year-old 10-quest campaign. Now the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/preview/518533/heroquest-first-light-preview-stephen-baker-interview>
+
+---
+
+## It’s Plankton’s time to shine in the new SpongeBob movie
+
+date: 2025-02-04, updated: 2025-02-04, from: Polygon Website
+
+In Netflix’s newest SpongeBob SquarePants movie, Plankton’s supercomputer wife Karen decides she’s had enough of his bullshit. After all, the nefarious Cyclops copepod has tried (and failed) to steal the famous Krabby Patty formula and take over the world for 25 years now. Karen has realized that not only has he failed at these plans, he [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/518835/plankton-the-movie-spongebob-trailer-netflix>
+
+---
+
+## Who is John Malkovich in Fantastic Four: First Steps? A few theories…
+
+date: 2025-02-04, updated: 2025-02-04, from: Polygon Website
+
+Let’s get one thing straight right away: Nobody outside Kevin Feige’s Marvel Studios circle knows who John Malkovich (Being John Malkovich) is playing in The Fantastic Four: First Steps. A first trailer for the new film featured Malkovich in a bedraggled look, but little to go on for his identity — not even a good [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/518804/fantastic-four-john-malkovich-red-ghost-nathaniel-richards>
+
+---
+
+## Describing Dimension 20 in one word is harder than you think
+
+date: 2025-02-04, updated: 2025-02-04, from: Polygon Website
+
+Dimension 20 thrilled Madison Square Garden with its biggest live show ever in late January. We sat down with castmates Zac Oyama and Ally Beardsley and asked each of them how they would describe their fellow players, and DM Brennan Lee Mulligan, in only one word. That word, as it turns out, is “bird.” Lou [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/518018/dimension-20-ally-beardsley-zac-oyama-in-one-word>
 
 ---
 

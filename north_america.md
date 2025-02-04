@@ -1,11 +1,83 @@
 ---
 title: north america
-updated: 2025-02-04 07:05:12
+updated: 2025-02-04 09:32:28
 ---
 
 # north america
 
-(date: 2025-02-04 07:05:12)
+(date: 2025-02-04 09:32:28)
+
+---
+
+## Job-seekers start 2025 in a pretty good place
+
+date: 2025-02-04, from: Market Place
+
+Measures of worker compensation and satisfaction were positive, and fewer workers say they are planning to jump ship this year. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/04/job-seekers-start-2025-in-a-pretty-good-place/>
+
+---
+
+## Senate committee advances Robert F. Kennedy Jr. nomination to be health secretary
+
+date: 2025-02-04, from: VOA News USA
+
+Washington — Robert F. Kennedy Jr., the controversial environmental lawyer turned public health critic, cleared his first hurdle on Tuesday to become the nation's top health official when the senate finance committee voted to advance his nomination for a floor vote. 
+
+
+Republicans voted together to advance his nomination, while Democrats all opposed. 
+
+
+His nomination now will face a full senate vote, despite concerns about the work he's done to sow doubts around vaccine safety and his potential to profit off lawsuits over drugmakers. 
+
+
+To gain control of the $1.7 trillion Health and Human Services agency, Kennedy will need support from all but three Republicans if Democrats uniformly oppose him. 
+
+
+Republican Sen. Bill Cassidy of Louisiana, who is also a physician and sits on the finance committee, voted to advance Kennedy's confirmation. Last week, during Kennedy's hearings, Cassidy repeatedly implored Kennedy to reject a disproven theory that vaccines cause autism, to no avail. He ended the hearing by saying he was "struggling" with the vote. 
+
+
+"Your past, undermining confidence in vaccines with unfounded or misleading arguments, concerns me," Cassidy told Kennedy. 
+
+
+Republican Sens. Susan Collins of Maine, Lisa Murkowski of Alaska and Mitch McConnell of Kentucky are all seen as potential no votes, too, because they voted against President Donald Trump's defense secretary nominee and have expressed concerns about Kennedy's anti-vaccine work. 
+
+
+In a CBS "60 Minutes" interview that aired Sunday, McConnell declined to say how he would vote on Kennedy's nomination but reiterated "vaccines are critically important." 
+
+
+Democrats, meanwhile, continue to raise alarms about Kennedy's potential to financially benefit from changing vaccine guidelines or weakening federal lawsuit protections against vaccine makers if confirmed as health secretary. 
+
+
+"It seems possible that many different types of vaccine-related decisions and communications — which you would be empowered to make and influence as Secretary — could result in significant financial compensation for your family," Democratic Sens. Elizabeth Warren of Massachusetts and Ron Wyden of Oregon wrote in a letter sent over the weekend to Kennedy. 
+
+
+Kennedy said he'll give his son all of the referral fees in legal cases against vaccine makers, including the fees he gets from referring clients in a case against Merck. Kennedy told the committee he's referred hundreds of clients to a law firm that's suing Merck's Gardasil, the human papillomavirus vaccine that prevents cervical cancer. He's earned $2.5 million from the deal over the past three years. 
+
+
+As secretary, Kennedy will oversee vaccine recommendations and public health campaigns for the $1.7 trillion agency, which is also responsible for food and hospital inspections, providing health insurance for millions of Americans and researching deadly diseases. 
+
+
+Kennedy, a longtime Democrat, ran for president but withdrew last year to throw his support to Trump in exchange for an influential job in his Republican administration. Together, they have forged a new and unusual coalition made up of conservatives who oppose vaccines and liberals who want to see the government promote healthier foods. Trump and Kennedy have branded the movement as "Make America Healthy Again." 
+
+<br> 
+
+<https://www.voanews.com/a/senate-committee-advances-robert-f-kennedy-jr-nomination-to-be-health-secretary-/7962491.html>
+
+---
+
+## Fighting the Putsch
+
+date: 2025-02-04, from: The Contrarian
+
+Democrats need to throw every possible wrench into the plans of Trump, Musk, and their GOP cultists in Congress 
+
+<br> 
+
+<https://contrarian.substack.com/p/fighting-the-putsch>
 
 ---
 
