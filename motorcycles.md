@@ -1,11 +1,85 @@
 ---
 title: motorcycles
-updated: 2025-02-04 09:32:32
+updated: 2025-02-05 07:07:20
 ---
 
 # motorcycles
 
-(date: 2025-02-04 09:32:32)
+(date: 2025-02-05 07:07:20)
+
+---
+
+## Can You Put a Motorcycle Exhaust On Your Porsche? Sure, Why Not
+
+date: 2025-02-05, from: Ride Apart, Electric Motorcycle News
+
+And more importantly, should you? 
+
+<br> 
+
+<https://www.rideapart.com/news/749621/motorcycle-exhaust-porsche-924s-modified/>
+
+---
+
+## What Is This Bike Build Off Update Video Even For?
+
+date: 2025-02-05, from: Ride Apart, Electric Motorcycle News
+
+It's 90% commentary track, 10% update, roughly. 
+
+<br> 
+
+<https://www.rideapart.com/news/749616/occ-bikes-beards-buildoff-update/>
+
+---
+
+## One-Of-One Yamaha TMAX XX Will Change the Way You Think About Scooters
+
+date: 2025-02-05, from: Ride Apart, Electric Motorcycle News
+
+Long-distance comfort meets go-fast styling. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/749497/yamaha-tmax-xx-custom-ortolani-customs/>
+
+---
+
+## Rigid Industries Has Some Dope-Looking New Light Bars For UTVs
+
+date: 2025-02-05, from: Ride Apart, Electric Motorcycle News
+
+Let there be light. 
+
+<br> 
+
+<https://www.rideapart.com/news/749597/rigid-industries-360-connect-led-light-bars-utv-debut/>
+
+---
+
+## This Motorcycle Maker Wants You to Know About CNG Motorcycles: Here’s Why It Matters
+
+date: 2025-02-05, from: Ride Apart, Electric Motorcycle News
+
+Bikes like the Freedom 125 could be a game-changer in Asia.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/749496/bajaj-cng-freedom-125-awareness-campaign/>
+
+---
+
+## It’s a Terrible Decision for Kove To Pull Out of This Motorcycle Racing Series
+
+date: 2025-02-05, from: Ride Apart, Electric Motorcycle News
+
+Please tell me if this makes sense to you, especially considering how the team finished the season. 
+
+<br> 
+
+<https://www.rideapart.com/news/749486/kove-pull-out-supersport-300-championship-racing/>
 
 ---
 

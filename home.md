@@ -1,11 +1,156 @@
 ---
 title: home
-updated: 2025-02-04 09:32:31
+updated: 2025-02-05 07:07:20
 ---
 
 # home
 
-(date: 2025-02-04 09:32:31)
+(date: 2025-02-05 07:07:20)
+
+---
+
+## 18 Black Snakes with White Stripes (With Pictures)
+
+date: 2025-02-05, from: Yard Life blog
+
+<p>When it comes to snakes, people often associate them with mystery, danger, and beauty. Among the wide variety of snakes, ... </p>
+<p class="read-more-container"><a title="18 Black Snakes with White Stripes (With Pictures)" class="read-more button" href="https://ownyardlife.com/18-black-snakes-with-white-stripes-with-pictures/#more-23075" aria-label="Read more about 18 Black Snakes with White Stripes (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/18-black-snakes-with-white-stripes-with-pictures/">18 Black Snakes with White Stripes (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/18-black-snakes-with-white-stripes-with-pictures/>
+
+---
+
+## How They Pulled It Off: A Sprawling Garden Inspired by a Neighboring National Park
+
+date: 2025-02-05, from: Dwell
+
+A Sydney home’s landscaping takes cues from the park’s all-native botanicals and materials like Cor-Ten steel and sandstone. 
+
+<br> 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-a-sprawling-garden-inspired-by-a-neighboring-national-park-0e889bf2>
+
+---
+
+## Leopard Gecko Habitat Guide: Ideal Living Conditions
+
+date: 2025-02-05, from: Yard Life blog
+
+<p>Leopard geckos are fascinating reptiles, loved by many pet owners for their docile temperament and beautiful patterns. These nocturnal creatures ... </p>
+<p class="read-more-container"><a title="Leopard Gecko Habitat Guide: Ideal Living Conditions" class="read-more button" href="https://ownyardlife.com/leopard-gecko-habitat-guide-ideal-living-conditions/#more-23072" aria-label="Read more about Leopard Gecko Habitat Guide: Ideal Living Conditions">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/leopard-gecko-habitat-guide-ideal-living-conditions/">Leopard Gecko Habitat Guide: Ideal Living Conditions</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/leopard-gecko-habitat-guide-ideal-living-conditions/>
+
+---
+
+## 15 Species of Pink and Yellow Moths (With Pictures)
+
+date: 2025-02-05, from: Yard Life blog
+
+<p>Moths are fascinating creatures, often admired for their striking beauty and variety. Among the many colors they can display, pink ... </p>
+<p class="read-more-container"><a title="15 Species of Pink and Yellow Moths (With Pictures)" class="read-more button" href="https://ownyardlife.com/15-species-of-pink-and-yellow-moths-with-pictures/#more-23055" aria-label="Read more about 15 Species of Pink and Yellow Moths (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/15-species-of-pink-and-yellow-moths-with-pictures/">15 Species of Pink and Yellow Moths (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/15-species-of-pink-and-yellow-moths-with-pictures/>
+
+---
+
+## Tips to Identify and Prevent Peace Lily Diseases
+
+date: 2025-02-05, from: The Gardener's Path
+
+<p>Peace lilies are typically easygoing houseplants, but occasionally they may come down with a disease. Most common peace lily diseases occur in nurseries, but certain root rots can strike houseplants in loving homes. Learn more about how to protect your peace lilies from disease now in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/disease-and-pests/peace-lily-disease/">Tips to Identify and Prevent Peace Lily Diseases</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/disease-and-pests/peace-lily-disease/>
+
+---
+
+## 32 Super Bowl Food Ideas to Make, Even If You’re Not Watching the Game
+
+date: 2025-02-05, from: Sunset Magazine - Living in the West
+
+Check out all of our favorite Super Bowl food ideas to make for your viewing party or tailgate. These recipes are perfect for game day. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/super-bowl-food-ideas>
+
+---
+
+## A Guide to Achieving Sparkling Dual Pane Windows
+
+date: 2025-02-04, from: Family Handyman Blog
+
+<p>Congratulations, you have great windows. Now here's how to avoid damaging them.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/clean-dual-pane-glass/">A Guide to Achieving Sparkling Dual Pane Windows</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/clean-dual-pane-glass/>
+
+---
+
+## An Electric-Blue Stair Energizes a Tired London Coach House
+
+date: 2025-02-04, from: Dwell
+
+The CNC-machined plywood structure has a marbled look that pops against all-white interiors. 
+
+<br> 
+
+<https://www.dwell.com/article/cobalt-coach-house-foil-cnc-plywood-staircase-home-renovation-2f304c48>
+
+---
+
+## America’s "First Car-Free Neighborhood" Is Going Pretty Good, Actually?
+
+date: 2025-02-04, from: Dwell
+
+Since breaking ground in 2021, Culdesac Tempe has had its share of detractors and skeptics. But none of them live there. 
+
+<br> 
+
+<https://www.dwell.com/article/culdesac-tempe-car-free-neighborhood-resident-experience-8a14ebc7>
+
+---
+
+## In London, a Heavenly Loft in a 19th-Century Chapel Seeks $1.2M
+
+date: 2025-02-04, from: Dwell
+
+The top floor of the 1883 structure was converted into an airy home with custom millwork and a suspended sleeping area. 
+
+<br> 
+
+<https://www.dwell.com/article/19th-century-chapel-home-west-architecture-casa-botelho-london-real-estate-e1271d27>
+
+---
+
+## Here’s Where to Order Your Valentine’s Day Flowers This Year
+
+date: 2025-02-04, from: Sunset Magazine - Living in the West
+
+The best Valentine’s Day gift to give that special someone in your life is a beautiful bouquet of flowers. Here are the best flower delivery services. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/valentines-day-flowers-delivery>
 
 ---
 
@@ -20,6 +165,42 @@ date: 2025-02-04, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/houseplants/snake-plant-drooping/>
+
+---
+
+## From Valentine’s Day Sweets to a Collectible Shopping Bag, Here’s Everything New at Trader Joe’s This February
+
+date: 2025-02-04, from: Sunset Magazine - Living in the West
+
+Trader Joe's new February offerings include Valentine's Day sweets, savory snacks, cheeses, and even a shopping tote. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/trader-joes-new-products-february-2025>
+
+---
+
+## The Most Popular House Style of the Moment Is Not What You’d Think
+
+date: 2025-02-04, from: Sunset Magazine - Living in the West
+
+Zillow revealed the most popular (and unusual) home searches back in December, which included the most-searched-for home attributes. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/most-popular-style-of-house>
+
+---
+
+## A Santa Fe Home Leans into Classic Southwestern Style (but with a Twist)
+
+date: 2025-02-04, from: Sunset Magazine - Living in the West
+
+The owners of this Santa Fe house wanted to blend traditional Southwestern style and vibrant colors and design details. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/southwestern-style-house-santa-fe>
 
 ---
 

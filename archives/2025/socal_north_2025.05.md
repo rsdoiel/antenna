@@ -1,11 +1,220 @@
 ---
 title: socal north
-updated: 2025-02-04 09:32:29
+updated: 2025-02-05 07:07:16
 ---
 
 # socal north
 
-(date: 2025-02-04 09:32:29)
+(date: 2025-02-05 07:07:16)
+
+---
+
+## A guide to what the US Education Department does (and doesn't) do
+
+date: 2025-02-05, updated: 2025-02-05, from: The LAist
+
+The department tracks student achievement, manages college financial aid and sends K-12 schools money to support students with disabilities and lower-income communities, among other things. 
+
+<br> 
+
+<https://laist.com/news/education/what-the-us-department-of-education-does-and-does-not-do>
+
+---
+
+## Cleanup, debris, water and soil: Health officials answer lingering questions on fire recovery
+
+date: 2025-02-05, updated: 2025-02-05, from: The LAist
+
+L.A. County Department of Public Health convened experts for a webinar that aimed to answer questions that residents have struggled to find answers for. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-wildfires-smoke-remediation-water-quality-soil-testing-ppe-eaton-palisades>
+
+---
+
+## Showers continue for SoCal. Next storm arrives Thursday
+
+date: 2025-02-05, updated: 2025-02-05, from: The LAist
+
+Rain will continue through the afternoon before an evening break. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/showers-continue-for-socal-next-storm-arrives-thursday>
+
+---
+
+## DOGE is making major changes to the federal government. Is it legal?
+
+date: 2025-02-05, updated: 2025-02-05, from: The LAist
+
+President Trump said the entity would focus on cutting government waste and slashing federal regulations, and he put tech billionaire and adviser Elon Musk in charge. 
+
+<br> 
+
+<https://laist.com/news/politics/doge-is-making-major-changes-to-the-federal-government-is-it-legal>
+
+---
+
+## How you can help LA fire victims by fostering their pets
+
+date: 2025-02-05, updated: 2025-02-05, from: The LAist
+
+Pasadena Humane and LA Animal Services are seeking families who can care for pets, even if short-term, that can't yet be reunited with their humans. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/foster-pets-la-fire-victims-pasadena-humane-la-animal-services>
+
+---
+
+## Trump says he wants US to take ownership of the Gaza Strip
+
+date: 2025-02-05, updated: 2025-02-05, from: The LAist
+
+Trump said he and Israeli leader Benjamin Netanyahu talked Tuesday about relocating Palestinians and leveling Gaza, which he suggested could be the 'Riviera of the Middle East' under U.S. ownership. 
+
+<br> 
+
+<https://laist.com/news/trump-says-he-wants-us-to-take-ownership-of-the-gaza-strip>
+
+---
+
+## LA City Council moves to protect unauthorized immigrants from deportation
+
+date: 2025-02-05, updated: 2025-02-05, from: The LAist
+
+The proposals come as the federal government under President Trump launches raids to deport unauthorized immigrants. 
+
+<br> 
+
+<https://laist.com/news/politics/la-city-council-protection-unauthorized-immigrants-deportation>
+
+---
+
+## Immigration activism and fear deflate attendance at LA schools
+
+date: 2025-02-05, updated: 2025-02-05, from: The LAist
+
+Top schools official pleaded with parents to send their children to class: "Schools are safe." 
+
+<br> 
+
+<https://laist.com/news/education/immigration-lausd-attendance-trump-administration>
+
+---
+
+## Even where weed is legal, product safety isn't guaranteed
+
+date: 2025-02-04, updated: 2025-02-04, from: The LAist
+
+Most states allow some sale of cannabis, but testing for pesticides and mold in the weed supply varies from one state to another. 
+
+<br> 
+
+<https://laist.com/news/health/even-where-weed-is-legal-product-safety-isnt-guaranteed>
+
+---
+
+## California legislature approves $50 million to fight Trump administration in court
+
+date: 2025-02-04, updated: 2025-02-04, from: The LAist
+
+Two bills head to Gov. Gavin Newsom's desk after a debate sparked rhetorical fireworks on the floor of the state Assembly. 
+
+<br> 
+
+<https://laist.com/news/politics/california-legislature-approves-50-million-to-fight-trump-administration-in-court>
+
+---
+
+## PCH closes one day after reopening
+
+date: 2025-02-04, updated: 2025-02-04, from: The LAist
+
+Storms rolling through the area this week could present safety issues in the aftermath of the Palisades Fire, Caltrans said. 
+
+<br> 
+
+<https://laist.com/news/transportation/pch-closure-reopening-palisades-fire>
+
+---
+
+## The moon's grand canyons were carved in the blink of an eye
+
+date: 2025-02-04, updated: 2025-02-04, from: The LAist
+
+The Earth's Grand Canyon took millions of years to carve, but the moon's grand canyons took about 10 minutes. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/moon-grand-canyons-were-carved-in-the-blink-of-an-eye>
+
+---
+
+## FestAbility Welcomes the Community to West Creek Park
+
+date: 2025-02-04, from: City of Santa Clarita
+
+<p>Celebrating Our Special Needs Community The City of Santa Clarita is excited to host FestAbility, presented by UCLA Health, formerly known as Free To Be Me Festival, for its fourth year in a row. On Sunday, May 4, from 12:00 to 3:00 p.m., celebrate Santa Clarita’s special needs community and their families at West Creek [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/04/festability-welcomes-the-community-to-west-creek-park/">FestAbility Welcomes the Community to West Creek Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/04/festability-welcomes-the-community-to-west-creek-park/>
+
+---
+
+## Before they lost their homes in the LA fires, many lost their insurance
+
+date: 2025-02-04, updated: 2025-02-04, from: The LAist
+
+Big insurance companies have pulled back from California, forcing thousands to turn to insurers of last resort. Fire victims say the limited policies will make recovery and rebuilding more difficult. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/before-they-lost-their-homes-in-the-la-fires-many-lost-their-insurance>
+
+---
+
+## At Least 200 Anti-Trump Protesters Detained
+
+date: 2025-02-04, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="457" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/ticktokprotestphoto.jpeg?fit=457%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/ticktokprotestphoto.jpeg?w=720&amp;ssl=1 720w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/ticktokprotestphoto.jpeg?resize=134%2C300&amp;ssl=1 134w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/ticktokprotestphoto.jpeg?resize=457%2C1024&amp;ssl=1 457w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/ticktokprotestphoto.jpeg?resize=686%2C1536&amp;ssl=1 686w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/ticktokprotestphoto.jpeg?resize=400%2C896&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/ticktokprotestphoto.jpeg?resize=706%2C1581&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/ticktokprotestphoto.jpeg?fit=457%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; At least 200 protesters against President Donald Trump&#8217;s immigration policies were detained in a tunnel on Cesar Chavez Avenue, near Union Station, last tonight. Los Angeles [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/04/at-least-200-anti-trump-protesters-detained/">At Least 200 Anti-Trump Protesters Detained</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/04/at-least-200-anti-trump-protesters-detained/>
+
+---
+
+## How younger generations keep the folk art of lion dancing alive in LA
+
+date: 2025-02-04, updated: 2025-02-04, from: The LAist
+
+At the East Wind Foundation, in the heart of Los Angeles' Chinatown, young people dedicate their after-school hours and weekends to practice the traditional folk art of lion dancing. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/how-younger-generations-keep-the-folk-art-of-lion-dancing-alive-in-la>
+
+---
+
+## Lawsuit alleges University of California illegally considers race in admissions
+
+date: 2025-02-04, updated: 2025-02-04, from: The LAist
+
+The lawsuit was filed by Students Against Racial Discrimination. 
+
+<br> 
+
+<https://laist.com/news/education/lawsuit-university-of-california-race-in-admissions>
 
 ---
 
@@ -35,7 +244,7 @@ Rainfall is expected to arrive in L.A. until the afternoon.
 
 ## Instead of banning AI, this UCLA literature class embraces it
 
-date: 2025-02-04, updated: 2025-02-04, from: The LAist
+date: 2025-02-04, updated: 2025-02-05, from: The LAist
 
 A closed-loop system aims to empower, not replace, professors in subjects including literature and physics. And it appears to be improving student outcomes too. 
 

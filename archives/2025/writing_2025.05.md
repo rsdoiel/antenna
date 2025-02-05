@@ -1,11 +1,53 @@
 ---
 title: writing
-updated: 2025-02-04 09:32:30
+updated: 2025-02-05 07:07:18
 ---
 
 # writing
 
-(date: 2025-02-04 09:32:30)
+(date: 2025-02-05 07:07:18)
+
+---
+
+## Write Now with Scrivener, Episode no. 47: April Davila, Novelist and Mindfulness Instructor
+
+date: 2025-02-05, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-47-april-davila-novelist-and-mindfulness-instructor>
+
+---
+
+## Scriptnotes, Episode 673: Structure, and How to Enjoy a Movie, Transcript
+
+date: 2025-02-04, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: My name is Craig Mazin. John: You’re listening to episode 673 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, let’s get back to basics. [&#8230;]
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-673-structure-and-how-to-enjoy-a-movie-transcript">Scriptnotes, Episode 673: Structure, and How to Enjoy a Movie, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-673-structure-and-how-to-enjoy-a-movie-transcript>
+
+---
+
+## New Books: 4 February 2025
+
+date: 2025-02-04, from: Locus Magazine
+
+<p></p>
+<p>&#160;</p>
+<p style="text-align: center;"><strong>Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+
+<p>Cambias, James L.: <b>The Miranda Conspiracy</b> (Baen 978-1668072400, $18.00, 320pp, formats: paperback, ebook, 02/04/2025)</p>
+<p>SF novel set in the far-future Solar System, third in The Billion Worlds series. Our hero Zee goes to the moon of Miranda to meet his girlfriend Adya&#8217;s upper-class parents. But while they visit, her parents are targeted  <a href="https://locusmag.com/2025/02/new-books-4-february-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/new-books-4-february-2025/>
 
 ---
 

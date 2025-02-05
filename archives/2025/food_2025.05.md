@@ -1,11 +1,131 @@
 ---
 title: food
-updated: 2025-02-04 09:32:33
+updated: 2025-02-05 07:07:21
 ---
 
 # food
 
-(date: 2025-02-04 09:32:33)
+(date: 2025-02-05 07:07:21)
+
+---
+
+## Whispers From The Past: Ghost Signs, Walldogs, And Working Class Art In America
+
+date: 2025-02-05, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Looking at wall paintings in the coffee industry. 
+
+<br> 
+
+<https://sprudge.com/whispers-from-the-past-ghost-signs-walldogs-and-working-class-art-in-america-272146.html>
+
+---
+
+## Design Details: Inside ‘The Box’ at Klim Coffee in Victoria, Australia
+
+date: 2025-02-05, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/SuiL_Klim_Cafe_0102LR-620x414.jpg" class="attachment-large size-large wp-post-image" alt="SuiL_Klim_Cafe_0102LR" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/SuiL_Klim_Cafe_0102LR-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/SuiL_Klim_Cafe_0102LR-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/SuiL_Klim_Cafe_0102LR-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/SuiL_Klim_Cafe_0102LR-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/SuiL_Klim_Cafe_0102LR.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/05/design-details-inside-the-box-at-klim-coffee-in-victoria-australia/>
+
+---
+
+## NoFi Slow Bar Takes Its Time in San Antonio
+
+date: 2025-02-05, from: Daily Coffee News
+
+<div><img width="620" height="519" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/NoFi-slow-bar-San-Antonio-3-1-620x519.jpg" class="attachment-large size-large wp-post-image" alt="NoFi slow bar San Antonio 3" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/NoFi-slow-bar-San-Antonio-3-1-620x519.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/NoFi-slow-bar-San-Antonio-3-1-300x250.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/NoFi-slow-bar-San-Antonio-3-1-150x125.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/NoFi-slow-bar-San-Antonio-3-1-768x642.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/NoFi-slow-bar-San-Antonio-3-1.jpg 960w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new place for people to gather over coffee in San Antonio, Texas, called NoFi Slow Bar promises an unwavering fidelity to coffee in its simplest forms. There are no... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/05/nofi-slow-bar-takes-its-time-in-san-antonio/>
+
+---
+
+## Some People May Be Genetically Predisposed To Perceiving Bitterness In Coffee
+
+date: 2025-02-05, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. And it has nothing to do with caffeine. 
+
+<br> 
+
+<https://sprudge.com/some-people-may-be-genetically-predisposed-to-perceiving-bitterness-in-coffee-272140.html>
+
+---
+
+## Behind the Headlines: Science Says Morning Is the Best Time To Drink Coffee. What Do the Pros Think?
+
+date: 2025-02-05, from: The Fresh Cup
+
+<p>Results from a new study show that drinking coffee in the morning can benefit cardiovascular health. But what do the pros have to say about their favorite time to drink coffee?</p>
+<p>The post <a href="https://freshcup.com/behind-the-headlines-science-says-morning-is-the-best-time-to-drink-coffee-what-do-the-pros-think/">Behind the Headlines: Science Says Morning Is the Best Time To Drink Coffee. What Do the Pros Think?</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/behind-the-headlines-science-says-morning-is-the-best-time-to-drink-coffee-what-do-the-pros-think/>
+
+---
+
+## 75 Healthy Game Day Snacks
+
+date: 2025-02-05, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/01/75-Healthy-Game-Day-Snack-Recipes.jpg"/></div>
+<p>The Big Game, aka the football playoffs, are coming! If you are looking for some snacking ideas I&#8217;ve got you covered! I&#8217;ve shared a lot of tasty recipes for game day munching, and some of them are probably not ideal for maintaining any possible New Years resolutions, so I thought that I would share some...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/25-healthy-game-day-party-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/25-healthy-game-day-party-recipes/">75 Healthy Game Day Snacks</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/25-healthy-game-day-party-recipes/>
+
+---
+
+## 11 Ideas for a Super Bowl Party (Taylor’s Version)
+
+date: 2025-02-04, from: Taste of Home
+
+<p>Travel through Taylor Swift's eras, one dish at a time. Are you ready for it?</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/taylor-swift-super-bowl-party/">11 Ideas for a Super Bowl Party (Taylor&#8217;s Version)</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/taylor-swift-super-bowl-party/>
+
+---
+
+## Chamberlain Coffee Opens A Cafe In Los Angeles
+
+date: 2025-02-04, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Chamberlain Coffee is now open inside the Westfield Century City Mall in Los Angeles. 
+
+<br> 
+
+<https://sprudge.com/chamberlain-coffee-opens-a-cafe-in-los-angeles-272195.html>
+
+---
+
+## Air Fryer Salmon Bites
+
+date: 2025-02-04, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/air-fryer-salmon-bites/"><img title="air-fryer-salmon-bites-featured-25-1" src="https://www.isabeleats.com/wp-content/uploads/2025/02/air-fryer-salmon-bites-featured-25-1-400x600.jpg" alt="Air fryer salmon bites in an air fryer basket tossed in a chipotle honey sauce." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Ready in only 10 minutes, these air fryer salmon bites with a chipotle honey sauce are perfect for salads or&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/air-fryer-salmon-bites/>
 
 ---
 
@@ -27,7 +147,7 @@ date: 2025-02-04, from: Taste of Home
 
 date: 2025-02-04, from: Daily Coffee News
 
-<div><img width="620" height="496" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Prismatic-Coffee-Salem-inside.jpeg" class="attachment-large size-large wp-post-image" alt="Prismatic Coffee Salem inside" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Prismatic-Coffee-Salem-inside.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Prismatic-Coffee-Salem-inside-300x240.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Prismatic-Coffee-Salem-inside-150x120.jpeg 150w" sizes="(max-width: 620px) 100vw, 620px" /></div>In Salem, Oregon, Prismatic Coffee Roasters is shining new light on the rainbow of flavors in specialty coffee through the opening of its first cafe.&#160; Inside a 90-year-old former carpentry... 
+<div><img width="620" height="496" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Prismatic-Coffee-Salem-inside.jpeg" class="attachment-large size-large wp-post-image" alt="Prismatic Coffee Salem inside" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Prismatic-Coffee-Salem-inside.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Prismatic-Coffee-Salem-inside-300x240.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Prismatic-Coffee-Salem-inside-150x120.jpeg 150w" sizes="(max-width: 620px) 100vw, 620px" /></div>In Salem, Oregon, Prismatic Coffee Roasters is shining new light on the rainbow of flavors in specialty coffee through the opening of its first cafe.&#160; Inside a 90-year-old former carpentry... 
 
 <br> 
 
@@ -39,7 +159,7 @@ date: 2025-02-04, from: Daily Coffee News
 
 date: 2025-02-04, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Brazil-coffee-landsape-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Brazil coffee landsape" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Brazil-coffee-landsape-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Brazil-coffee-landsape-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Brazil-coffee-landsape-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Brazil-coffee-landsape-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Brazil-coffee-landsape.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>More than one in 10 of the people rescued from what the Brazilian government described as &#8220;slave-like&#8221; and &#8220;degrading&#8221; working conditions last year were coffee workers. In total, Brazil&#8217;s Ministry... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Brazil-coffee-landsape-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Brazil coffee landsape" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Brazil-coffee-landsape-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Brazil-coffee-landsape-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Brazil-coffee-landsape-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Brazil-coffee-landsape-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Brazil-coffee-landsape.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>More than one in 10 of the people rescued from what the Brazilian government described as &#8220;slave-like&#8221; and &#8220;degrading&#8221; working conditions last year were coffee workers. In total, Brazil&#8217;s Ministry... 
 
 <br> 
 
@@ -191,7 +311,7 @@ The elevated childhood nostalgia trend takes center stage with these homemade pe
 
 date: 2025-02-03, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Coffee-Beans-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Coffee-Beans" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Coffee-Beans-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Coffee-Beans-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Coffee-Beans-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Coffee-Beans-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Coffee-Beans.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Two long-running Canadian coffee companies are joining forces in metro Vancouver, B.C., as Artigiano is acquiring Richmond-based Salt Spring Coffee. Artigiano, founded in 1999 as Caffè Artigiano, said the acquisition... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Coffee-Beans-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Coffee-Beans" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Coffee-Beans-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Coffee-Beans-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Coffee-Beans-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Coffee-Beans-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Coffee-Beans.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Two long-running Canadian coffee companies are joining forces in metro Vancouver, B.C., as Artigiano is acquiring Richmond-based Salt Spring Coffee. Artigiano, founded in 1999 as Caffè Artigiano, said the acquisition... 
 
 <br> 
 

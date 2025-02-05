@@ -16,7 +16,7 @@ https://contrarian.substack.com/feed "~The Contrarian"
 # Non-profit Journalism
 #
 https://capitalandmain.com/feed "~Capital and Main"
-https://heatmap.news/feeds/feed.rss "~Heatmap News"
+#https://heatmap.news/feeds/feed.rss "~Heatmap News"
 https://www.levernews.com/rss/ "~The Lever News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 #

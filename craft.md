@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2025-02-04 09:32:33
+updated: 2025-02-05 07:07:22
 ---
 
 # craft
 
-(date: 2025-02-04 09:32:33)
+(date: 2025-02-05 07:07:22)
+
+---
+
+## New Deluxe Edition of ‘Roubo on Furniture’
+
+date: 2025-02-05, from: Lost Arg Press blog
+
+Ever since we sold out of the original 12&#8243; x 17&#8243; deluxe editions of &#8220;With All Precision Possible: Roubo on Furniture,&#8221; Chris has been itching to do another luxurious book…if perhaps not _quite_ so extravagant (the almost-full-folio size of that edition was crazy expensive). Instead, we&#8217;re working on a new quarto-size edition (9&#8243; x 12&#8243;),... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/02/05/new-deluxe-edition-of-roubo-on-furniture/>
+
+---
+
+## Wood Structure & Classification of Trees
+
+date: 2025-02-04, from: Lost Arg Press blog
+
+The following is excerpted from the third edition of Christian Becksvoort’s “With the Grain: A Craftsman’s Guide to Understanding Wood.”&#160; It is, above all, succinct, easy to understand and perfectly suited for the furniture-maker. As important as what is in its 160 pages is what is not. It’s not a detailed analysis of cell growth.... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/02/04/wood-structure-classification-of-trees/>
 
 ---
 

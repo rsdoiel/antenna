@@ -1,11 +1,184 @@
 ---
 title: journalism
-updated: 2025-02-04 09:32:31
+updated: 2025-02-05 07:07:19
 ---
 
 # journalism
 
-(date: 2025-02-04 09:32:31)
+(date: 2025-02-05 07:07:19)
+
+---
+
+## USAC Cultural Affairs commissioner resigns amid antisemitism allegations
+
+date: 2025-02-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 5 at 1:56 a.m.</em>
+Undergraduate Students Association Council Cultural Affairs Commissioner Alicia Verdugo announced Tuesday that they will resign amid allegations of antisemitic discrimination. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/05/usac-cultural-affairs-commissioner-resigns-amid-antisemitism-allegations/>
+
+---
+
+## USG senate prepares for upcoming elections
+
+date: 2025-02-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Candidates for president, vice president and senate will speak Tuesday at 7 p.m.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/05/usg-senate-prepares-for-upcoming-elections/">USG senate prepares for upcoming elections</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/05/usg-senate-prepares-for-upcoming-elections/>
+
+---
+
+## Classifieds – February 5, 2025
+
+date: 2025-02-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/05/classifieds-february-5-2025/">Classifieds &#8211; February 5, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/05/classifieds-february-5-2025/>
+
+---
+
+## I love me, I love me not
+
+date: 2025-02-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>If beauty exists at all, what is the point of being obsessed and beautiful?</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/05/i-love-me-i-love-me-not/">I love me, I love me not</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/05/i-love-me-i-love-me-not/>
+
+---
+
+## ‘Baraye’ student dance film protests Iranian regime
+
+date: 2025-02-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The anticipated student-produced short film is set to premiere next month.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/05/baraye-student-dance-film-protests-iranian-regime/">&#8216;Baraye&#8217; student dance film protests Iranian regime</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/05/baraye-student-dance-film-protests-iranian-regime/>
+
+---
+
+## Coyote sightings on campus raise concern
+
+date: 2025-02-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Department of Public Safety advised students not to run away from coyotes.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/05/coyote-sightings-on-campus-raise-concern/">Coyote sightings on campus raise concern</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/05/coyote-sightings-on-campus-raise-concern/>
+
+---
+
+## UCLA students create website to keep community informed during LA wildfires
+
+date: 2025-02-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+As multiple wildfires burned in Los Angeles County, Kyle Jeong came back to his dorm to find his roommate switching between computer tabs.
+As he left UCLA to return home, Jeong had an idea &#8211; a single website for the Bruin community to stay updated. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/04/ucla-students-create-website-to-keep-community-informed-during-la-wildfires/>
+
+---
+
+## Lawsuit filed against the UC alleging illegal use of affirmative action
+
+date: 2025-02-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 4 at 10:30 p.m.</em>
+A group opposing affirmative action filed a lawsuit Monday against the UC alleging that the University gave preference in admissions to Hispanic and Black applicants. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/04/lawsuit-filed-against-the-uc-alleging-illegal-use-of-affirmative-action/>
+
+---
+
+## Crimewatch: January 2025
+
+date: 2025-02-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sources: UCPD. Graphic reporting by Gabrielle Gillette, Assistant News editor. Interactive by Liam McGlynn, Data editor.
+UCPD recorded 623 entries in its Jan. 1 to Jan. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/04/crimewatch-january-2025/>
+
+---
+
+## Former Attorney General Jeff Sessions speaks at UCLA School of Law panel
+
+date: 2025-02-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 4 at 10:38 p.m.</em>
+Former Attorney General Jeff Sessions praised the second-term agenda of President Donald Trump – his former boss – at a Jan. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/04/former-attorney-general-jeff-sessions-speaks-at-ucla-school-of-law-panel/>
+
+---
+
+## Navigating CalFresh: how this underutilized resource can combat food insecurity
+
+date: 2025-02-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+One-third of University of California undergraduates are eligible to receive financial assistance for their groceries.
+CalFresh, a federally mandated, state-issued food assistance program, can award up to $292 per month for approved individuals facing food insecurity. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/04/navigating-calfresh-how-this-underutilized-resource-can-combat-food-insecurity/>
+
+---
+
+## Grammys 2025 Q&A: Nominees across genres sound off on musical evolution, inspirations, social change
+
+date: 2025-02-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Amid the celebration of Grammys night comes reflection about the art that propelled musicians to the event.
+At the 67th Annual Grammy Awards, music from classical to metal to roots gospel was recognized with nominations. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/04/grammys-2025-qa-nominees-across-genres-sound-off-on-musical-evolution-inspirations-social-change/>
+
+---
+
+## LA Protests and ‘A Day Without Immigrants’
+
+date: 2025-02-04, from: The Sundail (CSUN Student Newspaper)
+
+Thousands of people gathered together to protest President Trump’s immigration policies at Placita Olvera in Los Angeles on Feb. 2. President Trump has administered a surge of recent Immigration and... 
+
+<br> 
+
+<https://sundial.csun.edu/189292/news/la-protests-and-a-day-without-immigrants/>
 
 ---
 
@@ -75,12 +248,12 @@ date: 2025-02-04, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## The 2025 Grammy Awards Celebrate LA Shining Through Adversity
+## The 2025 Grammy Awards celebrate LA shining through adversity
 
 date: 2025-02-04, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Sunday night’s ceremony was a triumphant event that celebrated the resilience of L.A. </p>
-<p>The post <a href="https://dailytrojan.com/2025/02/04/the-2025-grammy-awards-celebrate-la-shining-through-adversity/">The 2025 Grammy Awards Celebrate LA Shining Through Adversity</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/04/the-2025-grammy-awards-celebrate-la-shining-through-adversity/">The 2025 Grammy Awards celebrate LA shining through adversity</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <br> 
@@ -105,8 +278,9 @@ The Meet the Clubs gathering gave clubs and departments across CSUN the opportun
 
 date: 2025-02-04, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Feb. 4 at 9:17 p.m.</em>
 Not every award may be presented on television, but winning a Grammy remains a once-in-a-lifetime experience.
-While this year’s 67th Annual Grammy Awards took on a powerful message of philanthropy and fire relief, the recognition of the best in music remained one of the event’s primary focuses. 
+While this year’s 67th Annual Grammy Awards took on a message of philanthropy and fire relief, the recognition of the best in music remained one of the event’s primary focuses. 
 
 <br> 
 
@@ -288,6 +462,7 @@ The board held its bimonthly meeting Jan. 22 to Jan.
 
 date: 2025-02-03, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Feb. 4 at 1:54 p.m.</em>
 Felicia Marie Knaul, a health economist and the wife of Chancellor Julio Frenk, shed light on stark global disparities in pain treatment to researchers and medical students Thursday. 
 
 <br> 
@@ -300,6 +475,7 @@ Felicia Marie Knaul, a health economist and the wife of Chancellor Julio Frenk, 
 
 date: 2025-02-03, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Feb. 4 at 8:55 p.m.</em>
 In the heart of Los Angeles, this year’s Grammy Awards celebrated much more than music.
 The 67th Annual Grammy Awards were held at Crypto.com Arena on Sunday, honoring the best music released between Sept. 
 

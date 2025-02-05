@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-02-04 09:32:32
+updated: 2025-02-05 07:07:20
 ---
 
 # retro computing
 
-(date: 2025-02-04 09:32:32)
+(date: 2025-02-05 07:07:20)
+
+---
+
+## First Release Candidate for Linux Kernel 6.14 Now Available
+
+date: 2025-02-04, from: Linux Magazine
+
+<p>Linus Torvalds has officially released the first release candidate for kernel 6.14 and it includes over 500,000 lines of modified code, making for a small release.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/First-Release-Candidate-for-Linux-Kernel-6.14-Now-Available>
 
 ---
 

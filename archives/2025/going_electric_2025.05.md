@@ -1,11 +1,291 @@
 ---
 title: going electric
-updated: 2025-02-04 09:32:32
+updated: 2025-02-05 07:07:21
 ---
 
 # going electric
 
-(date: 2025-02-04 09:32:32)
+(date: 2025-02-05 07:07:21)
+
+---
+
+## Rivian Owners, Rejoice: No More Service Visits To Update Your Wheel Size
+
+date: 2025-02-05, from: Inside EVs News
+
+A software update will “soon” allow owners to make the change themselves. 
+
+<br> 
+
+<https://insideevs.com/news/749697/rivian-software-update-wheel-size/>
+
+---
+
+## Why The Honda-Nissan Merger May Be Dead Before It Started
+
+date: 2025-02-05, from: Inside EVs News
+
+The planned $60 billion merger between two Japanese carmaking giants may be DOA. Plus, what tariffs mean for China's growth. 
+
+<br> 
+
+<https://insideevs.com/news/749681/cm-honda-nissan-merger-canceled/>
+
+---
+
+## Rising star Vammo rides past 1 million battery swaps for electric motorcycles
+
+date: 2025-02-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/vammo-motorcycle-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Vammo, a battery-swapping service for electric motorcycles in Latin America, has just announced that the company has surpassed an impressive 1 million battery swaps in a little over a year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="400593" href="https://electrek.co/2025/02/05/vammo-rides-past-1-million-battery-swaps-for-electric-motorcycles/#more-400593" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/05/vammo-rides-past-1-million-battery-swaps-for-electric-motorcycles/>
+
+---
+
+## Mercedes-Benz EVs Get Access To The Tesla Supercharger Network Today
+
+date: 2025-02-05, from: Inside EVs News
+
+Owners can get a discounted NACS to CCS1 adapter from Mercedes-Benz dealers. 
+
+<br> 
+
+<https://insideevs.com/news/749654/mercedes-benz-ev-tesla-supercharger-access/>
+
+---
+
+## Toyota’s First EV Battery Factory In America Is Ready
+
+date: 2025-02-05, from: Inside EVs News
+
+The $14 billion North Carolina facility will manufacture batteries for electric vehicles, hybrids and plug-in hybrids. 
+
+<br> 
+
+<https://insideevs.com/news/749645/toyota-ev-battery-factory-north-carolina-ready/>
+
+---
+
+## Reddit TSLA group moves to fire Elon, Tesla insurance discounts, and big solar
+
+date: 2025-02-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Elon-Musk-temper-tantrum.png?w=1326" /></div><p>On today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we look at a group of $TSLA shareholders on Reddit who want Elon Musk fired as CEO of Tesla – and they’re using his own public words against him. Plus the new Model Y arrives in US showrooms and FSD users can get a break on insurance.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="elon-musk,quick-charge,reddit,tesla" data-layer-viewtype="unknown" data-post-id="400585" href="https://electrek.co/2025/02/04/reddit-tsla-group-moves-to-fire-elon-tesla-insurance-discounts-and-big-solar/#more-400585" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/04/reddit-tsla-group-moves-to-fire-elon-tesla-insurance-discounts-and-big-solar/>
+
+---
+
+## Honda, Hyundai, Ford, Subaru, and Kia EV sales climb in January
+
+date: 2025-02-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Honda-Prologue-lease-Civic.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Several automakers, including Honda, Hyundai, <a href="https://electrek.co/guides/ford/">Ford</a>, and Kia, reported higher EV sales in the US in January. Here’s a look at some of the top-selling EV models (outside of Tesla) last month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,honda,hyundai,kia" data-layer-viewtype="unknown" data-post-id="400181" href="https://electrek.co/2025/02/04/honda-hyundai-ford-kia-ev-sales-climb-higher-january/#more-400181" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/04/honda-hyundai-ford-kia-ev-sales-climb-higher-january/>
+
+---
+
+## Stellantis Patents An 'EV Exhaust', But It's Not For What You Think
+
+date: 2025-02-04, from: Inside EVs News
+
+The patent is meant to protect an EV from battery fires by using an exhaust-like system in case of thermal runaway. 
+
+<br> 
+
+<https://insideevs.com/news/749611/stellantis-ev-exhaust-battery-fires/>
+
+---
+
+## Genesis GV90 spotted looking like the ultimate ultra-luxury EV [Video]
+
+date: 2025-02-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Genesis-GV90-ultra-luxury-SUV-side.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Genesis is preparing to launch its largest, most luxurious electric SUV yet. The <a href="https://electrek.co/guides/genesis/">Genesis</a> GV90 EV was spotted for the first time in South Korea, revealing its ultra-luxury design.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis" data-layer-viewtype="unknown" data-post-id="400559" href="https://electrek.co/2025/02/04/genesis-gv90-spotted-as-ultimate-ultra-luxury-ev-video/#more-400559" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/04/genesis-gv90-spotted-as-ultimate-ultra-luxury-ev-video/>
+
+---
+
+## KORE Power kills $1 billion Arizona EV battery factory plans
+
+date: 2025-02-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/ssoe_kore-power.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p><a href="https://korepower.com/?" target="_blank" rel="noreferrer noopener">KORE Power</a> has scrapped plans for its $1 billion lithium-ion battery factory in Buckeye, Arizona, and its CEO and founder has resigned.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="arizona,battery-manufacturing,egeb,energy-brief,ev-batteries,solar" data-layer-viewtype="unknown" data-post-id="400547" href="https://electrek.co/2025/02/04/kore-power-kills-1-billion-arizona-ev-battery-factory-plans/#more-400547" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/04/kore-power-kills-1-billion-arizona-ev-battery-factory-plans/>
+
+---
+
+## These solar streetlights can withstand Category 5 hurricanes
+
+date: 2025-02-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/TECO-01-Night.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Streetleaf’s solar-powered streetlights can withstand Category 5 hurricanes, and the company aims to deploy them across Florida to boost storm resilience.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,florida,solar,solar-power" data-layer-viewtype="unknown" data-post-id="400517" href="https://electrek.co/2025/02/04/solar-streetlights-can-withstand-category-5-hurricanes/#more-400517" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/04/solar-streetlights-can-withstand-category-5-hurricanes/>
+
+---
+
+## The Ionna Charging Network Will Get Amazon’s AI Grocery Store Tech
+
+date: 2025-02-04, from: Inside EVs News
+
+You'll be able to grab your snacks and Just Walk Out, with no cashier necessary. 
+
+<br> 
+
+<https://insideevs.com/news/749598/ionna-rechargery-just-walk-out/>
+
+---
+
+## Ferrari is launching its first EV later this year: Here’s a sneak peek of the electric supercar
+
+date: 2025-02-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Ferraris-first-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ferrari looks to shake up the market with its first all-electric vehicle, which will launch later this year. Ferrari confirmed plans to launch its first EV in October as one of six new vehicles debuting in 2025. Ahead of its official debut, the new electric car was spotted testing out in public. Check out a sneak peek of it below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ferrari" data-layer-viewtype="unknown" data-post-id="400502" href="https://electrek.co/2025/02/04/ferrari-launching-first-ev-2025-sneak-peek/#more-400502" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/04/ferrari-launching-first-ev-2025-sneak-peek/>
+
+---
+
+## Blix Packa Genie cargo e-bike with free gear at $1,599, Worx Landroid robot mower hits new limited $469 low, Jackery, more
+
+date: 2025-02-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Blix-Packa-Genie-Cargo-e-bike-newer-FI.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Starting off today’s Green Deals is <a href="https://9to5toys.com/2025/02/03/blix-packa-genie-free-gear-1599/">Blix’s Valentine’s Day sale</a> with up to $600 in savings across three e-bikes, two of which are the newest models released months ago, but the biggest deal is on the <a href="https://9to5toys.com/2025/02/03/blix-packa-genie-free-gear-1599/">Packa Genie Cargo e-bike</a> with $100 in free gear at <a href="https://9to5toys.com/2025/02/03/blix-packa-genie-free-gear-1599/">$1,599</a>. We also have a limited Lightning deal on <a href="https://9to5toys.com/2025/02/04/worx-landroid-s-20v-new-469-low/">Worx’s Landroid S 20V Robot Lawn Mower</a> dropping things to a new <a href="https://9to5toys.com/2025/02/04/worx-landroid-s-20v-new-469-low/">$469</a> low, among its other model – but don’t sit on decisions cause it’ll likely go fast. There’s also <a href="https://9to5toys.com/2025/02/04/jackery-explorer-100-plus-89-low-3/">Jackery’s Explorer 100 Plus</a> Portable Power Station that fits right in your hand at its <a href="https://9to5toys.com/2025/02/04/jackery-explorer-100-plus-89-low-3/">$89</a> low, among other power station and solar generator deals. Lastly, we spotted the return of the one-day-only <a href="https://9to5toys.com/2025/02/04/greenworks-3-tool-combo-570-low/">$570</a> low on Greenworks’ 80V three-tool <a href="https://9to5toys.com/2025/02/04/greenworks-3-tool-combo-570-low/">mower, trimmer, and blower combo</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s free extra battery offer on <a href="https://9to5toys.com/2025/02/03/aventon-pace-500-3-extra-battery-1599/">Aventon’s Pace 500.3 e-bikes</a>, Anker’s <a href="https://9to5toys.com/2025/02/03/anker-powercore-reserve-from-103/">PowerCore Reserve</a> returning to <a href="https://9to5toys.com/2025/02/03/anker-powercore-reserve-from-103/">$90</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="400504" href="https://electrek.co/2025/02/04/blix-packa-genie-e-bike-1599-worx-jackery-more/#more-400504" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/04/blix-packa-genie-e-bike-1599-worx-jackery-more/>
+
+---
+
+## Do You Work At Tesla? We Want To Hear From You.
+
+date: 2025-02-04, from: Inside EVs News
+
+As its CEO sets his eyes to remaking the U.S. government, what's going on at Tesla? Here's how you can tell us. 
+
+<br> 
+
+<https://insideevs.com/news/749603/tesla-contact-musk-white-house/>
+
+---
+
+## Mercedes EVs can charge on Tesla Superchargers, starting today
+
+date: 2025-02-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Mercedes-Benz-BEV-Drivers-Gain-Access-to-Tesla-Supercharger-Network_G-580.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Mercedes EVs can now charge on Tesla’s Supercharger network with the use of a NACS adapter.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz,north-american-charging-standard-nacs,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="400499" href="https://electrek.co/2025/02/04/mercedes-evs-can-charge-on-tesla-superchargers-starting-today/#more-400499" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/04/mercedes-evs-can-charge-on-tesla-superchargers-starting-today/>
+
+---
+
+## Korea’s First Electric Pickup Won’t Be Made By Hyundai Or Kia
+
+date: 2025-02-04, from: Inside EVs News
+
+While both Hyundai and Kia are expected to produce electric pickups, a smaller Korean player will beat them to market. 
+
+<br> 
+
+<https://insideevs.com/news/749587/korea-first-electric-pickup-coming/>
+
+---
+
+## Ford’s electric F-150 Lightning is losing ground as its aging EV lineup faces new threats
+
+date: 2025-02-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Ford-UAW-Discount-2025.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford’s <a href="https://electrek.co/guides/ford-f-150-lightning/">F-150 Lightning</a> is losing ground in the US with new electric pickups like the Tesla Cybertruck and Chevy Silverado EV now available. Although Ford plans to launch smaller, more affordable EVs, including an SUV and pickup, they won’t arrive for (at least) another two years. With new threats, including a wave of lower-cost EVs and Trump threatening to impose tariffs on imports from Mexico, will Ford’s aging lineup set it further behind?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-f-150-lightning,ford-f150-lightning" data-layer-viewtype="unknown" data-post-id="400418" href="https://electrek.co/2025/02/04/ford-lightning-loses-ground-aging-ev-lineup-faces-new-threats/#more-400418" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/04/ford-lightning-loses-ground-aging-ev-lineup-faces-new-threats/>
+
+---
+
+## There’s finally some Tesla (TSLA) shareholder momentum to fire Elon Musk
+
+date: 2025-02-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Elon-Musk-temper-tantrum.png?w=1600" /></div><p>There finally appears to be some Tesla shareholder momentum to fire Elon Musk from the company after years of concerns being ignored by the board and most shareholders.</p>
+
+
+
+<p>However, probably nothing will happen as long as the stock (TSLA) is up.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="400481" href="https://electrek.co/2025/02/04/theres-finally-some-tesla-tsla-shareholder-momentum-to-fire-elon-musk/#more-400481" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/04/theres-finally-some-tesla-tsla-shareholder-momentum-to-fire-elon-musk/>
 
 ---
 
@@ -13,7 +293,7 @@ updated: 2025-02-04 09:32:32
 
 date: 2025-02-04, from: Inside EVs News
 
-The automaker’s EV sales are growing, but EREVs could help scale and profits by adding in gas engines to boost range. 
+The automaker’s EV sales are growing, but EREVs could help scale profits by adding in gas engines to boost range. 
 
 <br> 
 

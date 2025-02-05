@@ -1,11 +1,383 @@
 ---
 title: science and technology
-updated: 2025-02-04 09:32:29
+updated: 2025-02-05 07:07:17
 ---
 
 # science and technology
 
-(date: 2025-02-04 09:32:29)
+(date: 2025-02-05 07:07:17)
+
+---
+
+## MaXX Interactive Desktop 2.2.0 released
+
+date: 2025-02-05, from: OS News
+
+Late last year, the MaXX Interactive Desktop, the Linux (and BSD) version of the IRIX desktop, sprung back to life with a new release and a detailed roadmap. Thanks to a unique licensing agreement with SGI, MaXX&#8217; developer, Eric Masson, has been able to bring a lot of the SGI user experience over to Linux and BSD, and as promised, we have a new release: the final version of MaXX Interactive Desktop 2.2.0. It&#8217;s codenamed Octane, and anyone who knows their SGI history will chuckle at this and other codenames MaXX uses. Like last year&#8217;s alpha release, 2.2.0 brings an Exposé-like overview features, initial freedesktop.org integration, tons of performance improvements and bug fixes, desktop notifications, and much more. For the next release, 2.3.0 they&#8217;re planning a new file manager, support for .desktop files, a ton of new preference panes, a quick search feature, and a whole bunch of lower-level stuff. With how serious the renewed development effort seems, I hope that some day, the project will consider building MaXX out to a full Linux distribution, to gain more control over the experience and ensure normal users don&#8217;t have to perform a manual installation. 
+
+<br> 
+
+<https://www.osnews.com/story/141687/maxx-interactive-desktop-2-2-0-released/>
+
+---
+
+## Los Alamos lab to research next-gen chip technologies
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>Radiation-hardening for space environments and energy efficiency tweaks for above and below</h4> <p>Los Alamos National Laboratory (LANL) is leading a project to transform how chips are designed and manufactured, to make them more energy efficient and able to better tolerate environmental conditions such as radiation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/los_alamos_lab_to_research/>
+
+---
+
+## US cranks up espionage charges against ex-Googler accused of trade secrets heist
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>Mountain View clocked onto the scheme with days to spare</h4> <p>A Chinese national faces a substantial stint in prison and heavy fines if found guilty of several additional charges related to economic espionage and theft of trade secrets at Google.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_espionage_charges/>
+
+---
+
+## Workday erases 8.5% of workforce because of...AI
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>That&#39;s 1,750 positions about to join the employment queue and it&#39;s only February</h4> <p>Workday is erasing 8.5 percent of its personnel under a restructuring scheme because… AI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/workday_restructure_job_cuts/>
+
+---
+
+## Microsoft's final Exchange Server 2019 update still missing as support deadline ticks down
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>CU15 MIA as Redmond scrambles to fix issues</h4> <p>Microsoft has yet to deliver its promised Cumulative Update 15 for Exchange Server 2019 due to some issues, as the countdown to the end of support for the email platform continues.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/final_exchange_server_update/>
+
+---
+
+## Early mornings, late evenings, weekends. Useless users always demand support
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>Techie complains as biz ignores contractual working hours</h4> <p><strong>OnCall... even when I&#39;m not</strong>  Do you ever feel like you’re on-call even when you’re technically not on call?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/on_call_out_of_contract/>
+
+---
+
+## Boeing, Boeing, burned: Over half a billion dollars by Starliner in 2024
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>More Catastrophic Capsule than Calamity Capsule for Boeing&#39;s beancounters</h4> <p>Boeing&#39;s CST-100 Starliner project has added a reach-forward loss of $523 million for the aviation giant, taking total losses for the program beyond the $2 billion mark.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/starliner_boeing_losses/>
+
+---
+
+## The Breathtaking Hermitage Museum, Filled With Treasures Like the Kolyvan Vase and the Peacock Clock, First Opened to the Public on This Day in 1852
+
+date: 2025-02-05, from: Smithsonian Magazine
+
+Russia’s palatial institution is now the second largest in the world, with an impressive collection of three million objects and 50 beloved house cats 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-breathtaking-hermitage-museum-filled-with-treasures-like-the-kolyvan-vase-and-the-peacock-clock-first-opened-to-the-public-on-this-day-in-1852-180985925/>
+
+---
+
+## Remember it'll cost ya to keep the lights on for Windows 10
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>At $61 per device, doubling each year, security updates from November are going to add up quickly</h4> <p>Microsoft has quietly updated a support document on how the Extended Security Updates (ESU) program for Windows 10 will work and how much it will cost - and for some it might cause their stomach to churn.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/windows_10_esu_program/>
+
+---
+
+## Microsoft quietly erases Windows 11 TPM 2.0 bypass workaround from help page
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>You&#39;ll upgrade that aging piece of kit and you&#39;ll like it</h4> <p>For the past three years, Microsoft documented a way to run Windows 11 on PCs that lack Trusted Platform Module 2.0 hardware - but that workaround has now disappeared from its help page.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/windows_11_hardware_requirement_workaround/>
+
+---
+
+## Oracle starts laying mines in JavaScript trademark battle
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>Big Red accused of stalling or derailing legal fight by challenging fraud claim</h4> <p>Oracle this week asked the US Patent and Trademark Office (USPTO) to partially dismiss a challenge to its JavaScript trademark.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/oracle_dismissal_javascript_trademark_fraud/>
+
+---
+
+## Rackspace moving some of its own workloads off VMware to address bigger Broadcom bills
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>New home, Platform9, says it’s also helping a Fortune 500 company to migrate 40,000 VMs</h4> <p><strong>Exclusive</strong>  Rackspace is moving some of its back-office workloads off VMware and onto a platform called Private Cloud Director offered by cloud infrastructure outfit Platform9.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/rackspace_vmware_planet9_migration/>
+
+---
+
+## DeepSeek rated too dodgy down under: Banned from Australian government devices
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>As American big tech companies lashed for their slow efforts to prevent harms</h4> <p>Australia’s Department of Home Affairs has banned the use of DeepSeek on federal government devices.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/australia_deepseek_ban/>
+
+---
+
+## Who's afraid of DeepSeek's impact on AI hardware sales? Not AMD CEO Lisa Su
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>Predicts more efficient ML architectures will drive adoption, see Instinct sales accelerate, shares dive</h4> <p>AMD&#39;s chief exec Lisa Su has predicted the chip designer&#39;s Instinct accelerators will drive tens of billions of dollars in annual revenue in coming years, despite DeepSeek-inspired speculation that next-gen AI models may not need the same level of compute infrastructure used to produce such tools today.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/amd_q4_fy2024/>
+
+---
+
+## Alphabet achieves first $100B annual profit ... and sees its shares sink
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>Whaddya gotta do to impress investors these days? Maybe convince them you&#39;re not overspending on AI?</h4> <p>Google’s parent Alphabet has achieved $100 billion in annual net income for the first time.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/alphabet_q4_fy2024/>
+
+---
+
+## Planetary Alignments and Planet Parades
+
+date: 2025-02-05, from: NASA breaking news
+
+On most nights, weather permitting, you can spot at least one bright planet in the night sky. While two or three planets are commonly visible in the hours around sunset, occasionally four or five bright planets can be seen simultaneously with the naked eye. These events, often called “planet parades” or “planetary alignments,” can generate […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/>
+
+---
+
+## Google torpedoes 'no AI for weapons' rules
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>Will now happily unleash the bots when &#39;likely overall benefits substantially outweigh the foreseeable risks&#39;</h4> <p>Google has published a new set of AI principles that don’t mention its previous pledge not to use the tech to develop weapons or surveillance tools that violate international norms.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_ai_principles_update/>
+
+---
+
+## Google: How to make any AMD Zen CPU always generate 4 as a random number
+
+date: 2025-02-04, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>Malicious microcode vulnerability discovered, fixes rolling out for Epycs at least</h4> <p>Googlers have not only figured out how to break AMD&#39;s security – allowing them to load unofficial microcode into its processors to modify the silicon&#39;s behavior as they wish – but also demonstrated this by producing a microcode patch that makes the chips always output 4 when asked for a random number.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_amd_microcode/>
+
+---
+
+## China sticks antitrust probe into Google amid retaliation for Trump import tariffs
+
+date: 2025-02-04, updated: 2025-02-04, from: The Register (UK I.T. News)
+
+<h4>Plus, Middle Kingdom announces levies and export controls of its own</h4> <p>Google is the latest target in the brewing US-China trade war, with Beijing hitting the search giant with an antitrust probe while rolling out fresh tariffs and export controls in response to new US levies on Chinese goods.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/04/china_trump_google/>
+
+---
+
+## A Five-Pound Hunk of the World's Oldest Known Synthesized Pigment Was Found in Nero's Palace
+
+date: 2025-02-04, from: Smithsonian Magazine
+
+The discovery might illuminate the link between the blue pigment's ancient Egyptian roots and its rediscovery by Renaissance artists centuries later 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-five-pound-hunk-of-the-worlds-oldest-known-synthesized-pigment-was-found-in-neros-palace-180985974/>
+
+---
+
+## NASA Tests in Simulated Lunar Gravity to Prep Payloads for Moon
+
+date: 2025-02-04, from: NASA breaking news
+
+The old saying — “Practice makes perfect!” — applies to the Moon too. On Tuesday, NASA gave 17 technologies, instruments, and experiments the chance to practice being on the Moon… without actually going there. Instead, it was a flight test aboard a vehicle adapted to simulate lunar gravity for approximately two minutes. The test began [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-tests-in-simulated-lunar-gravity-to-prep-payloads-for-moon/>
+
+---
+
+## The Human Brain May Contain as Much as a Spoon's Worth of Microplastics, New Research Suggests
+
+date: 2025-02-04, from: Smithsonian Magazine
+
+The amount of microplastics in the human brain appears to be increasing over time: Concentrations rose by roughly 50 percent between 2016 and 2024, according to a new study 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/>
+
+---
+
+## FBI's secret UFO hunters fear Trump's January 6 purge will send them into orbit
+
+date: 2025-02-04, updated: 2025-02-04, from: The Register (UK I.T. News)
+
+<h4>Maybe Musk just wants the alien space tech that definitely doesn&#39;t exist?</h4> <p>A previously undisclosed group of FBI agents who investigate UFOs, or &#34;unidentified anomalous phenomena (UAPs),&#34; as the government calls them, are worried they may not survive an impending Trump-led political purge.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/04/fbis_secret_ufo_hunters_fear/>
+
+---
+
+## Bullseye!
+
+date: 2025-02-04, from: NASA breaking news
+
+This image from NASA’s Hubble Space Telescope, released on Feb. 4, 2025, shows the gargantuan galaxy LEDA 1313424, aptly nicknamed the Bullseye. A far smaller blue dwarf galaxy went through the Bullseye’s center, leaving nine star-filled rings. Astronomers using Hubble identified eight visible rings, more than previously detected by any telescope in any galaxy, and confirmed [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/bullseye/>
+
+---
+
+## NASA Demonstrates Software ‘Brains’ Shared Across Satellite Swarms
+
+date: 2025-02-04, from: NASA breaking news
+
+Talk amongst yourselves, get on the same page, and work together to get the job done! This “pep talk” roughly describes how new NASA technology works within satellite swarms. This technology, called Distributed Spacecraft Autonomy (DSA), allows individual spacecraft to make independent decisions while collaborating with each other to achieve common goals – all without [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-software-brains-shared-across-satellite-swarms/>
+
+---
+
+## See the First Stunning Images Taken by the Blue Ghost Lunar Lander on Its 'Scenic Route' to the Moon
+
+date: 2025-02-04, from: Smithsonian Magazine
+
+The lander built by Firefly Aerospace has captured incredible views as it orbits Earth. Its next phase is an engine burn that will propel it toward lunar orbit 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-the-first-stunning-images-taken-by-the-blue-ghost-lunar-lander-on-its-scenic-route-to-the-moon-180985988/>
+
+---
+
+## Archaeologists Say They've Located Harold II's Lost Manor House
+
+date: 2025-02-04, from: Smithsonian Magazine
+
+A latrine found in Bosham, England, has helped identify the location of the king's long-lost residence, offering new insights into medieval life before the Norman Conquest 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-say-theyve-located-harold-iis-lost-manor-house-180985940/>
+
+---
+
+## OpenAI, Microsoft urge judge to toss out Musk's 'fact-free' lawsuit
+
+date: 2025-02-04, updated: 2025-02-04, from: The Register (UK I.T. News)
+
+<h4>Lawyers argue billionaire&#39;s 105-page complaint &#39;lurches from theory to theory&#39;</h4> <p><strong>Updated</strong>  Elon Musk&#39;s legal grudge against Sam Altman, OpenAI, and Microsoft could soon be over – again – if a California judge responds favorably to the latest filings in the case.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/04/openai_microsoft_musk_lawsuit/>
+
+---
+
+## En Route to Jupiter, NASA’s Europa Clipper Captures Images of Stars
+
+date: 2025-02-04, from: NASA breaking news
+
+The spacecraft’s star trackers help engineers orient the orbiter throughout its long journey to Jupiter’s icy moon Europa. Three months after its launch from NASA’s Kennedy Space Center in Florida, the agency’s Europa Clipper has another 1.6 billion miles (2.6 billion kilometers) to go before it reaches Jupiter’s orbit in 2030 to take close-up images [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/europa-clipper/en-route-to-jupiter-nasas-europa-clipper-captures-images-of-stars/>
+
+---
+
+## In the Starlight: Anika Isaac’s Mission to Counsel NASA’s Workforce
+
+date: 2025-02-04, from: NASA breaking news
+
+An interesting fact about Johnson Space Center’s Anika Isaac, MS, LPC, LMFT, LCDC, CEAP, NCC, is that there are more letters following her name than there are in it. A licensed professional counselor, marriage and family therapist, and chemical dependency counselor with several other certifications, Isaac has been a fixture of Johnson’s Employee Assistance Program [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/in-the-starlight-anika-isaacs-mission-to-counsel-nasas-workforce/>
+
+---
+
+## Poisoned Go programming language package lay undetected for 3 years
+
+date: 2025-02-04, updated: 2025-02-04, from: The Register (UK I.T. News)
+
+<h4>Researcher says ecosystem&#39;s auto-caching is a net positive but presents exploitable quirks</h4> <p>A security researcher says a backdoor masquerading as a legitimate Go programming language package used by thousands of organizations was left undetected for years.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/04/golang_supply_chain_attack/>
 
 ---
 
@@ -25,11 +397,89 @@ Discovered in a thrift store, the historic docket lists incidents that occurred 
 
 date: 2025-02-04, from: NASA breaking news
 
-Rivers shape ecosystems and economies, yet hydrologists have limited tools to study them. Enter Confluence—a groundbreaking, open-source framework leveraging NASA’s SWOT mission and HLS data to estimate river discharge and sediment levels worldwide. Hosted by PO.DAAC, Confluence delivers rapid, global insights, revolutionizing hydrology with cloud-based efficiency. A game changer for river monitoring. 
+Rivers and streams wrap around Earth in complex networks millions of miles long, driving trade, nurturing ecosystems, and stocking critical reserves of freshwater. But the hydrologists who dedicate their professional lives to studying this immense web of waterways do so with a relatively limited set of tools. Around the world, a patchwork of just 3,000 […] 
 
 <br> 
 
 <https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloud-based-confluence-software-helps-hydrologists-study-rivers-on-a-global-scale/>
+
+---
+
+## EEI Proposers Day
+
+date: 2025-02-04, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">EEI Proposers Day </span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-04T11:49:19-05:00" title="Tuesday, February 4, 2025 - 11:49" class="datetime">Tue, 02/04/2025 - 11:49</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+            <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/featured_content_card_456_x_256/public/gallery/2025-02/eei-proposers-day.png?itok=GhfVj3VB" width="456" height="256" alt loading="lazy" class="image-style-featured-content-card-456-x-256">
+
+
+
+      <figcaption class="padding-bottom-3">
+        
+
+              </figcaption>
+
+    
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>DARPA’s Commercial Strategy Office is hosting a Proposers Day on Feb. 25, 2025, in support of a Commercial Solutions Opening under the Embedded Entrepreneur Initiative (EEI). EEI pairs top technical talent from DARPA programs with experienced business leaders to accelerate the transition of breakthrough technologies to market. The program provides hands-on go-to-market support, equipping teams with the tools, expertise, and strategies needed to succeed in both government and commercial sectors. By fostering strong commercialization roadmaps, EEI helps DARPA awardees attract U.S. investment and scale their innovations.</p><p>The purpose of the Proposers Day is to provide an overview of the EEI program strategy, address questions from potential proposers, illustrate success stories, and provide a forum for engagement. Additionally, attendees can engage in one-on-one meetings with the Commercial Strategy Team and Contracting.</p><p>This event is open to companies who have supported R&amp;D under a DARPA-funded Program (e.g., SBIR, Prime contract, Subcontract to a Prime DARPA contract) and are interested in commercialization.&nbsp;</p><p>For additional information, please review the <a href="https://sam.gov/opp/a05ba1aa2f874d7b9aa1a6f78b02b65a/view" target="_blank">EEI Proposers Day Special Notice</a> posted on SAM.gov. If you are new to working with DARPA, we recommend you check out the <a href="https://drupal.darpa.mil/events/2025/darpaconnect-minneapolis">DARPAConnect event</a>.&nbsp;</p><p>If there is enough interest in another Proposers Day, the Commercial Strategy Team may consider a virtual option in the future. If you are unable to attend this Proposers Day due to in-person travel costs, please send an email to <a href="mailto:EEIProposersDay@darpa.mil">EEIProposersDay@darpa.mil</a> to express your interest in a future virtual option. &nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+        
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Resources</h4><p><strong>EEI Proposers Day</strong><br>Feb. 25, 2025<br>8 a.m. - 5 p.m. ET&nbsp;<br><br>Strategic Analysis, Inc.&nbsp;<br>Executive Conference Center<br>4075 Wilson Blvd.&nbsp;<br>Suite 300<br>Arlington, VA 22203</p><p><strong>Registration deadline: </strong>Feb. 18, 2025</p><p><a class="primary-button-light primary-button-padding" href="https://creative.spa.com/darpa/diro/eei/pd/" target="_blank"><span>Register now!</span></a></p><h4>Opportunity</h4><p>DARPA_02042025<br><br><a class="primary-button-light primary-button-padding" href="https://sam.gov/opp/a05ba1aa2f874d7b9aa1a6f78b02b65a/view" target="_blank"><span>Special Notice</span>&nbsp;</a></p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/events/2025/eei-proposers-day>
 
 ---
 
@@ -109,7 +559,7 @@ date: 2025-02-04, updated: 2025-02-04, from: The Register (UK I.T. News)
 
 date: 2025-02-04, from: OS News
 
-Upstart was an event-based replacement for the traditional System V init (sysvinit) system on Ubuntu, introduced to bring a modern and more flexible way of handling system startup and service management. It emerged in the mid-2000s, during a period when sysvinit’s age and limitations were becoming more apparent, especially with regard to concurrency and dependency handling. Upstart was developed by Canonical, the company behind Ubuntu, with the aim of reducing boot times, improving reliability, and making the system initialization process more dynamic. Though at first it seemed likely to become a standard across many distributions, Upstart eventually lost mindshare to systemd and ceased to be Ubuntu’s default init system. ↫ André Machado I think it&#8217;s safe to say systemd won the competition to become the definitive successor so sysvinit on Linux, but Canonical&#8217;s Upstart made a valiant effort, too. However, with a troublesome license, it was doomed from the start, and it didn&#8217;t help that virtually every other major distribution eventually adopted systemd. These days, systemd is the Linux init system, and I personally quite like it (and the crowd turns violent). I find it easy to use and it&#8217;s never given me any issues, but I&#8217;m not a system administrator dealing with complex setups, so my experience with systemd is probably rather limited. It just does its thing in the background on my machines. None of this means there aren&#8217;t any other init systems still being actively developed. There&#8217;s GNU Shepard we talked about recently, runit, OpenRC, and many more. If you don&#8217;t like systemd, there&#8217;s enough alternatives out there. 
+Upstart was an event-based replacement for the traditional System V init (sysvinit) system on Ubuntu, introduced to bring a modern and more flexible way of handling system startup and service management. It emerged in the mid-2000s, during a period when sysvinit’s age and limitations were becoming more apparent, especially with regard to concurrency and dependency handling. Upstart was developed by Canonical, the company behind Ubuntu, with the aim of reducing boot times, improving reliability, and making the system initialization process more dynamic. Though at first it seemed likely to become a standard across many distributions, Upstart eventually lost mindshare to systemd and ceased to be Ubuntu’s default init system. ↫ André Machado I think it&#8217;s safe to say systemd won the competition to become the definitive successor to sysvinit on Linux, but Canonical&#8217;s Upstart made a valiant effort, too. However, with a troublesome license, it was doomed from the start, and it didn&#8217;t help that virtually every other major distribution eventually adopted systemd. These days, systemd is the Linux init system, and I personally quite like it (and the crowd turns violent). I find it easy to use and it&#8217;s never given me any issues, but I&#8217;m not a system administrator dealing with complex setups, so my experience with systemd is probably rather limited. It just does its thing in the background on my machines. None of this means there aren&#8217;t any other init systems still being actively developed. There&#8217;s GNU Shepard we talked about recently, runit, OpenRC, and many more. If you don&#8217;t like systemd, there&#8217;s enough alternatives out there. 
 
 <br> 
 
@@ -143,7 +593,7 @@ After doing more digging than I feel like I should have needed to, I found my an
 
 ## Why users still couldn't care less about Windows 11
 
-date: 2025-02-04, updated: 2025-02-04, from: The Register (UK I.T. News)
+date: 2025-02-04, updated: 2025-02-05, from: The Register (UK I.T. News)
 
 <h4>No reason to upgrade other than the looming end of Windows 10</h4> <p><strong>Comment</strong>  Users are still steering clear of Windows 11, with some customers describing the sales pitch as &#34;like trying to sell sand at a beach.&#34;…</p> 
 
@@ -275,7 +725,7 @@ date: 2025-02-04, updated: 2025-02-04, from: The Register (UK I.T. News)
 
 ## Musk’s DOGE ship gets ‘full’ access to Treasury payment system, sinks USAID
 
-date: 2025-02-03, updated: 2025-02-04, from: The Register (UK I.T. News)
+date: 2025-02-03, updated: 2025-02-05, from: The Register (UK I.T. News)
 
 <h4>Who better to trust trillions of dollars, SSNs and other sensitive info with than Elon</h4> <p>The chaos in Washington DC continued over the weekend and into Monday with government workers locked out of their offices and Elon Musk&#39;s Department of Government Efficiency (DOGE) getting unfettered access to classified materials and a top government payment system.…</p> 
 
@@ -287,7 +737,7 @@ date: 2025-02-03, updated: 2025-02-04, from: The Register (UK I.T. News)
 
 ## US senator wants to slap prison term, $1M fine on anyone aiding Chinese AI with ... downloads?
 
-date: 2025-02-03, updated: 2025-02-03, from: The Register (UK I.T. News)
+date: 2025-02-03, updated: 2025-02-04, from: The Register (UK I.T. News)
 
 <h4>As UK proposes laws against neural-nets-for-pedophiles</h4> <p>Americans may have to think twice about downloading a Chinese AI model or investing in a company behind such a neural network in future. A law proposed last month by Senator Josh Hawley (R-MO), if successfully passed by Congress, would impose penalties of up to 20 years in prison or $1 million in fines for violating its restrictions on AI-related trade and collaboration.…</p> 
 
@@ -478,7 +928,7 @@ date: 2025-02-03, from: Darpa News
         
       
       
-      <img src="https://drupal.darpa.mil/sites/default/files/styles/featured_content_card_456_x_256/public/gallery/2025-02/darpa-program-inspired.png?itok=pXFpukfY" width="456" height="256" alt loading="lazy" class="image-style-featured-content-card-456-x-256">
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/featured_content_card_456_x_256/public/gallery/2025-02/program-darpa-inspired-best.png?itok=hdVTNKx7" width="456" height="256" alt loading="lazy" class="image-style-featured-content-card-456-x-256">
 
 
 
@@ -502,7 +952,7 @@ date: 2025-02-03, from: Darpa News
   <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
     
       
-            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Optical detectors are essential for converting light into measurable signals, enabling a wide range of critical technologies, such as fiber-optic communication, biological imaging, and motion sensors for navigation. However, their sensitivity is fundamentally limited by quantum noise, which prevents the detection of extremely faint signals in the most precision-demanding fields.</p><p>As the world marks the 100-year anniversary of the initial development of quantum mechanics with the <a href="https://quantum2025.org/">International Year of Quantum Science and Technology</a>, DARPA’s Intensity-Squeezed Photonic Integration for Revolutionary Detectors (INSPIRED) program is working to break through the quantum noise limit. By harnessing “squeezed light,” INSPIRED seeks to develop compact, cost-effective optical detectors that can operate at unprecedented sensitivities – allowing signals previously buried in quantum noise to be clearly detected.</p><h4>The promise of squeezed light</h4><p>A fundamental concept of quantum mechanics is the Heisenberg principle, which states that due to the inherent nature of quantum systems, it is impossible to simultaneously know both the exact position and momentum of a particle with perfect accuracy – the more precisely one property is known, the greater the uncertainty in the other. With light, the principle also applies to other pairs of properties, such as the amplitude and phase of an electromagnetic wave.</p><p>Squeezed light is a unique quantum state in which the uncertainty of one of these two properties is reduced below the standard quantum noise limit, while the uncertainty in the other is increased to preserve the Heisenberg principle. This “squeezing” minimizes random noise in measurements, enabling the detection of extremely faint signals that would otherwise be imperceptible. Squeezed light systems were first applied to some of the most precise measurements ever performed to boost the sensitivity of the Laser Interferometer Gravitational-Wave Observatory (LIGO) – resulting in the first observation of gravitational waves and the 2017 Nobel Prize in Physics. These detection systems continue to allow LIGO to capture faint signals from distant cosmic events, such as black holes and neutron star collisions.</p><p>Building on this success, INSPIRED aims to translate laboratory-based squeezed light techniques into deployable technology. The program is leveraging advancements in chip-scale photonics to develop compact, integrated squeezed-light sources 40 times quieter than the quantum noise limit. These breakthroughs will then enable the creation of highly sensitive detectors that overcome traditional noise barriers, unlocking new possibilities in fields such as sensing, communication, and quantum computing.</p><h4>INSPIRED’s roadmap</h4><p>INSPIRED is organized into two phases over three years. Phase 1 is focused on developing core squeezed-light components, with participation from eight research teams led by Hewlett Packard Enterprise, RTX BBN Technologies, Inc., Stanford University, University of Massachusetts at Amherst, University of California, Santa Barbara, University of Southern California, University of Virginia, and Yale University. To kick off the program, DARPA gathered the INSPIRED teams at the LIGO Hanford Observatory in the southeast of Washington state.</p><p>“By taking squeezed light capabilities out of the lab, we aim to drive breakthroughs across defense, scientific, and commercial applications,” said Dr. Justin Cohen, program manager in DARPA’s Microsystems Sciences Office. “Commencing the INSPIRED program at the LIGO Observatory reflects our commitment to uncovering what’s possible when we push the limits of technology through collaboration and vision.”</p><p>The anticipated culmination of INSPIRED’s efforts in Phase 2 is a complete squeezed-light detector, housed within a module the size of a deck of cards.</p><p>Visit the <a href="https://drupal.darpa.mil/research/programs/intensity-squeezed-photonic">INSPIRED program page</a> for further information.</p><p class="text-align-center">###</p><p class="text-align-center">Media with inquiries should contact DARPA Public Affairs at <a href="mailto:outreach@darpa.mil">outreach@darpa.mil</a><br>&nbsp;</p></div>
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Optical detectors are essential for converting light into measurable signals, enabling a wide range of critical technologies, such as fiber-optic communication, biological imaging, and motion sensors for navigation. However, their sensitivity is fundamentally limited by quantum noise, which prevents the detection of extremely faint signals in the most precision-demanding fields.</p><p>As the world marks the 100-year anniversary of the initial development of quantum mechanics with the <a href="https://quantum2025.org/">International Year of Quantum Science and Technology</a>, DARPA’s Intensity-Squeezed Photonic Integration for Revolutionary Detectors (INSPIRED) program is working to break through the quantum noise limit. By harnessing “squeezed light,” INSPIRED seeks to develop compact, cost-effective optical detectors that can operate at unprecedented sensitivities – allowing signals previously buried in quantum noise to be clearly detected.</p><h4>The promise of squeezed light</h4><p>A fundamental concept of quantum mechanics is the Heisenberg principle, which states that due to the inherent nature of quantum systems, it is impossible to simultaneously know both the exact position and momentum of a particle with perfect accuracy – the more precisely one property is known, the greater the uncertainty in the other. With light, the principle also applies to other pairs of properties, such as the amplitude and phase of an electromagnetic wave.</p><p>Squeezed light is a unique quantum state in which the uncertainty of one of these two properties is reduced below the standard quantum noise limit, while the uncertainty in the other is increased to preserve the Heisenberg principle. This “squeezing” minimizes random noise in measurements, enabling the detection of extremely faint signals that would otherwise be imperceptible. Squeezed light systems were first applied to some of the most precise measurements ever performed to boost the sensitivity of the Laser Interferometer Gravitational-Wave Observatory (LIGO) – resulting in the first observation of gravitational waves and the 2017 Nobel Prize in Physics. These detection systems continue to allow LIGO to capture faint signals from distant cosmic events, such as black holes and neutron star collisions.</p><p>Building on this success, INSPIRED aims to translate laboratory-based squeezed light techniques into deployable technology. The program is leveraging advancements in chip-scale photonics to develop compact, integrated squeezed-light sources 40 times quieter than the quantum noise limit. These breakthroughs will then enable the creation of highly sensitive detectors that overcome traditional noise barriers, unlocking new possibilities in fields such as sensing, communication, and quantum computing.</p><h4>INSPIRED’s roadmap</h4><p>INSPIRED is organized into two phases over three years. Phase 1 is focused on developing core squeezed-light components, with participation from eight research teams led by Hewlett Packard Enterprise, RTX BBN Technologies, Inc., Stanford University, University of Massachusetts at Amherst, University of California, Santa Barbara, University of Southern California, University of Virginia, and Yale University. To kick off the program, DARPA gathered the INSPIRED teams at the LIGO Hanford Observatory in the southeast of Washington state.</p><p>“By taking squeezed light capabilities out of the lab, we aim to drive breakthroughs across defense, scientific, and commercial applications,” said Dr. Justin Cohen, program manager in DARPA’s Microsystems Technologies Office. “Commencing the INSPIRED program at the LIGO Observatory reflects our commitment to uncovering what’s possible when we push the limits of technology through collaboration and vision.”</p><p>The anticipated culmination of INSPIRED’s efforts in Phase 2 is a complete squeezed-light detector, housed within a module the size of a deck of cards.</p><p>Visit the <a href="https://drupal.darpa.mil/research/programs/intensity-squeezed-photonic">INSPIRED program page</a> for further information.</p><p class="text-align-center">###</p><p class="text-align-center">Media with inquiries should contact DARPA Public Affairs at <a href="mailto:outreach@darpa.mil">outreach@darpa.mil</a><br>&nbsp;</p></div>
       
 
       </div>
@@ -677,6 +1127,84 @@ date: 2025-02-03, from: Darpa News
 
 ---
 
+## Tech Connect SBIR/STTR Spring Innovation Conference
+
+date: 2025-02-03, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">Tech Connect SBIR/STTR Spring Innovation Conference</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Sean.Timko.ctr…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-03T11:19:48-05:00" title="Monday, February 3, 2025 - 11:19" class="datetime">Mon, 02/03/2025 - 11:19</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+            <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/max_325x325/public/gallery/2025-02/tech-connect-sbir-sttr.png.webp?itok=WaNo30Li" alt class="image-style-max-325x325">
+
+
+
+      <figcaption class="padding-bottom-3">
+        
+
+              </figcaption>
+
+    
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>The Small Business Programs Office (SBPO) will be attending Tech Connect SBIR/STTR Spring Innovation Conference on June 9-10, 2025, in Austin, TX.</p><p>Focused on the Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) programs, the event highlights pathways for securing non-dilutive funding to fuel the development and commercialization of groundbreaking technologies. Attendees gain invaluable insights into federal funding processes, agency priorities, and the resources available to drive innovation from concept to market.</p><p>This conference provides an unparalleled opportunity to network with federal decision-makers, investors, and industry experts while participating in engaging sessions that cover best practices, proposal strategies, and technology showcases. Whether you are a first-time applicant or an experienced program participant, the event offers actionable advice and direct connections to advance your business goals. By attending, participants not only learn how to effectively navigate the SBIR/STTR ecosystem but also become part of a dynamic community dedicated to driving innovation and economic growth.</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+        
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p><a class="primary-button-light primary-button-padding" href="https://www.techconnectworld.com/World2025/register.html" target="_blank"><span>Register</span>&nbsp;<svg id="right" viewBox="0 -7 30 35"><path d="M0.5 9.35772H20.9956L14.2001 2.29941L16.4134 0L27 11L16.4134 22L14.2001 19.7006L20.9956 12.6423H0.5V9.35772Z" fill="currentColor" /></svg></a></p><p>June 9-10, 2025&nbsp;<br>Austin, TX</p><h4>Resources</h4><ul style="list-style-type:disc;margin-left:0;"><li><a href="https://www.techconnectworld.com/World2025/">Tech Connect SBIR/STTR Spring Innovation Conference</a></li></ul></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/events/2025/tech-connect-sbir-sttr>
+
+---
+
 ## New Proofs Probe the Limits of Mathematical Truth
 
 date: 2025-02-03, from: Quanta Magazine
@@ -715,7 +1243,7 @@ date: 2025-02-03, updated: 2025-02-04, from: The Register (UK I.T. News)
 
 ## US datacenters in for shock as Canada mulls cutting the juice over Trump tariffs
 
-date: 2025-02-03, updated: 2025-02-03, from: The Register (UK I.T. News)
+date: 2025-02-03, updated: 2025-02-05, from: The Register (UK I.T. News)
 
 <h4>Short-term result likely to be increased energy prices across the board</h4> <p><strong>Updated</strong>  Trump&#39;s tariffs are raising a new question mark over US datacenters and their expanding energy consumption, with price hikes possible as Canada threatens to withhold energy supplies in response.…</p> 
 
@@ -835,7 +1363,7 @@ date: 2025-02-03, updated: 2025-02-03, from: The Register (UK I.T. News)
 
 ## UK biz dept overspent by £208M prepping to pay workers hurt in Post Office IT scandal
 
-date: 2025-02-03, updated: 2025-02-03, from: The Register (UK I.T. News)
+date: 2025-02-03, updated: 2025-02-05, from: The Register (UK I.T. News)
 
 <h4>Auditor offers qualified opinion as financial fallout from historic miscarriage of justice remains unclear</h4> <p><strong>Updated</strong>  The UK&#39;s spending watchdog has offered a &#34;qualified opinion&#34; on the Department for Business and Trade&#39;s accounts, largely down to uncertainties around a scheme designed to mitigate the historic injustice surrounding the Post Office Horizon IT scandal.…</p> 
 

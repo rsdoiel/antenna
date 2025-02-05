@@ -1,11 +1,1309 @@
 ---
 title: north america
-updated: 2025-02-04 09:32:28
+updated: 2025-02-05 07:07:15
 ---
 
 # north america
 
-(date: 2025-02-04 09:32:28)
+(date: 2025-02-05 07:07:15)
+
+---
+
+## Rally against Musk Urges Senate to Act
+
+date: 2025-02-05, from: The Contrarian
+
+Yesterday, thousands of individuals rallied outside the Treasury Department to voice their outrage against Elon Musk being handed the keys to the Executive Branch. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156530763/ee3dfbfa91c96a69c9de5530d64719aa.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156530763/ee3dfbfa91c96a69c9de5530d64719aa.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/rally-against-musk-urges-senate-to>
+
+---
+
+## The Black artists who preceded — and inspired — the king of rock ‘n’ roll
+
+date: 2025-02-05, from: Market Place
+
+Preston Lauterbach's new book, "Before Elvis: The African American Musicians Who Made the King," looks at the Black artists who inspired Elvis, but who often were unable to profit as much off of their work.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/05/the-black-artists-who-preceded-and-inspired-the-king-of-rock-n-roll/>
+
+---
+
+## Why China’s tariff reaction included an investigation into Google
+
+date: 2025-02-05, from: Market Place
+
+The tech giant’s flagship search engine, along with YouTube, have been largely unavailable in China for years. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/05/why-chinas-tariff-reaction-included-an-investigation-into-google/>
+
+---
+
+## US deportation flight carrying illegal Indian migrants lands in Punjab
+
+date: 2025-02-05, from: VOA News USA
+
+New Delhi — A U.S. deportation flight carrying Indian nationals accused of entering the U.S. illegally landed in the northern state of Punjab Wednesday – the first such flight to India since the Trump administration launched a crackdown on illegal immigrants.
+
+
+The military aircraft, which landed amid tight security, brought 104 deportees, according to media reports. Authorities did not confirm the number, but said the deportees will be received in a friendly manner.
+
+
+New Delhi, which does not want to make illegal immigration a contentious issue with Washington, has said that it is open to the return of undocumented Indians in the United States if their nationality is verified.
+
+
+President Donald Trump said last week that Indian Prime Minister Narendra Modi had assured him that the country would "do what's right" in taking back illegal immigrants. His comment came following a phone conversation with Modi.
+
+
+In New Delhi, foreign ministry spokesperson Randhir Jaiswal told a media briefing on Friday that India and the United States are engaged in a process to deter illegal migration and “cooperation between India and the U.S. is strong and effective in this domain. This will be evident in times to come.”
+
+
+
+
+Trade and migration are expected to be key issues during a meeting that could take place next week between Trump and Modi.
+
+
+“India does not want to focus on the issue of illegal migrants being deported. We know it is big business in India, sending migrants illegally. Instead, the government’s interest is in ensuring that legal migration channels to the U.S. for Indian nationals are not restricted by the Trump administration,” according to Manoj Joshi, Distinguished Fellow at the Observer Research Foundation in New Delhi.
+
+
+Those legal routes are H-1B visas for skilled workers and visas for students.
+
+
+“Both sides are engaged in a process to deter illegal migration, while also creating more avenues for legal migration from India to the U.S.,” Jaiswal has said.
+
+
+The number of Indian migrants attempting to enter the U.S. unlawfully has grown in recent years, with India now accounting for the largest number of illegal immigrants to the United States from Asian countries, according to U.S. Customs and Border Protection data.
+
+
+Their overall numbers, however, are still small; Indians account for only about 3 percent of illegal crossings.
+
+
+The United States has identified some 18,000 undocumented Indian migrants to be sent back home, according to a Bloomberg report last week.
+
+
+Deportation flights to India are not new — between October 2023 and September 2024, more than 1,000 Indian nationals were repatriated, but Wednesday's flight was the first time that they were sent back via military aircraft.
+
+
+The deportation flight was routed to Amritsar city in Punjab, which is among the three states where much of the illegal migration from India to the U.S. originates. The others are Haryana in the north and the western state of Gujarat.
+
+
+Hours before the flight landed, Punjab’s minister for NRI (Non-Resident Indians) Affairs, Kuldeep Singh Dhaliwal, urged people in the state to avoid illegal migration and instead focus on acquiring skills and education to access global opportunities through legal channels. 
+
+<br> 
+
+<https://www.voanews.com/a/us-deportation-flight-carrying-illegal-indian-migrants-lands-in-punjab-/7963746.html>
+
+---
+
+## Morning Roundup: Do We Believe in the Declaration of Independence? 
+
+date: 2025-02-05, from: The Contrarian
+
+February 5: Jen Rubin on White Christian Nationalism; Barbara McQuade on Amateur Hour at the U.S. Attorney's Office; Jen interviewing Norm Eisen on his landmark cases, and much more... 
+
+<br> 
+
+<https://contrarian.substack.com/p/morning-roundup-do-we-believe-in>
+
+---
+
+## Mexican authorities launch operation to hunt and seal border tunnels
+
+date: 2025-02-05, from: VOA News USA
+
+After the recent discovery of a clandestine tunnel connecting the US and Mexican cities of El Paso and Juarez, Mexican authorities have launched an operation to uncover other illegal underground passages. Veronica Villafañe narrates this report by Cesar Contreras. 
+
+<br> 
+
+<https://www.voanews.com/a/mexican-authorities-launch-operation-to-hunt-and-seal-border-tunnels-/7963721.html>
+
+---
+
+## US Postal Service to accept inbound parcels from China, Hong Kong after suspension
+
+date: 2025-02-05, from: VOA News USA
+
+HONG KONG/SEOUL/SHANGHAI — The U.S. Postal Service said on Wednesday it would accept parcels from China and Hong Kong, in a U-turn after a suspension following President Donald Trump ending a trade provision used by retailers including Temu, Shein, and Amazon AMZN.O to ship low-value packages duty-free to the U.S. 
+
+
+"The USPS and Customs and Border Protection are working closely together to implement an efficient collection mechanism for the new China tariffs to ensure the least disruption to package delivery," it said in a statement. 
+
+
+The Trump administration imposed an additional 10% tariff on Chinese goods and closed the "de minimis" exemption that allows U.S. shoppers to avoid paying tariffs for shipments below $800 from China. 
+
+
+USPS did not immediately comment on whether its temporary suspension had been tied to Trump's order ending de minimis shipments from China, which was announced on Saturday and came into force from one minute past midnight on Tuesday. 
+
+
+"There has really been absolutely zero time for anyone to prepare for this," said Maureen Cori, co-founder at New York-based consultancy Supply Chain Compliance. "What we really need is direction from the government on how to handle this without warning or notice." 
+
+
+Currently, de minimis parcels are consolidated so that customs can clear hundreds or thousands of shipments at once, but they will now require individual clearances, significantly increasing the burden for postal services, brokers and customs agents, said Cori. 
+
+<br> 
+
+<https://www.voanews.com/a/us-postal-service-suspends-inbound-parcels-from-china-hong-kong-/7963688.html>
+
+---
+
+## Bird flu pushes egg prices up; US retailers, consumers worry
+
+date: 2025-02-05, from: VOA News USA
+
+The latest outbreak of bird flu is wiping out chicken flocks and driving higher prices for eggs in the United States. While retailers and consumers are feeling the pinch, but at least one small farmer sees an opportunity – if he can get his hands on some healthy chickens. VOA’s Veronica Balderas Iglesias reports. 
+
+<br> 
+
+<https://www.voanews.com/a/bird-flu-pushes-egg-prices-up-us-retailers-consumers-worry/7963671.html>
+
+---
+
+## Decorated pilot Harry Stewart, Jr., one of the last surviving Tuskegee Airmen, dies at 100
+
+date: 2025-02-05, from: VOA News USA
+
+Retired Lt. Col. Harry Stewart Jr, a decorated World War II pilot who broke racial barriers as a Tuskegee Airmen and earned honors for his combat heroism, has died. He was 100.
+
+
+Stewart was one of the last surviving combat pilots of the famed 332nd Fighter Group also known as the Tuskegee Airmen. They were the nation’s first Black military pilots.
+
+
+The Tuskegee Airmen National Historical Museum confirmed his death. The organization said he died peacefully at his home in Bloomfield Hills, Michigan, on Sunday.
+
+
+Stewart earned the Distinguished Flying Cross for downing three German aircraft during a dogfight on April 1, 1945. He was also part of a team of four Tuskegee Airmen who won the U.S. Air Force Top Gun flying competition in 1949, although their accomplishment would not be recognized until decades later.
+
+
+“Harry Stewart was a kind man of profound character and accomplishment with a distinguished career of service he continued long after fighting for our country in World War II,” Brian Smith, president and CEO of the Tuskegee Airmen National Historical Museum, said.
+
+
+Born on July 4, 1924, in Virginia, his family moved to New York when he was young. Stewart had dreamed of flying since he was a child when he would watch planes at LaGuardia airport, according to a book about his life titled “Soaring to Glory: A Tuskegee Airmen’s Firsthand Account of World War II.” In the wake of Pearl Harbor, an 18-year-old Stewart joined what was then considered an experiment to train Black military pilots. The unit sometimes was also known as the Tuskegee Airmen for where they trained in Alabama or the Red Tails because of the red tips of their P-51 Mustangs.
+
+
+“I did not recognize at the time the gravity of what we are facing. I just felt as though it was a duty of mine at the time. I just stood up to my duty,” Stewart said of World War II in a 2024 interview with CNN about the war.
+
+
+Having grown up in a multicultural neighborhood, the segregation and prejudice of the Jim Crow-era South came as a shock to Stewart, but he was determined to finish and earn his wings according to the book about his life. After finishing training, the pilots were assigned to escort U.S. bombers in Europe. The Tuskegee Airmen are credited with losing significantly fewer escorted bombers than other fighter groups.
+
+
+“I got to really enjoy the idea of the panorama, I would say, of the scene I would see before me with the hundreds of bombers and the hundreds of fighter planes up there and all of them pulling the condensation trails, and it was just the ballet in the sky and a feeling of belonging to something that was really big,” Stewart said in a 2020 interview with WAMC.
+
+
+Stewart would sometimes say in a self-effacing way that he was too busy enjoying flying to realize he was making history, according to his book.
+
+
+Stewart had hoped to become a commercial airline pilot after he left the military, but was rejected because of his race. He went on to earn a mechanical engineering degree at New York University. He relocated to Detroit and retired as vice president of a natural gas pipeline company.
+
+
+Stewart told Michigan Public Radio in 2019 that he was moved to tears on a recent commercial flight when he saw who was piloting the aircraft.
+
+
+“When I entered the plane, I looked into the cockpit there and there were two African American pilots. One was the co-pilot, and one was the pilot. But not only that, the thing that started bringing the tears to my eyes is that they were both female,” Stewart said.
+
+
+The Air Force last month briefly removed training courses with videos of its storied Tuskegee Airmen and the Women Airforce Service Pilots, or WASPs in an effort to comply with the Trump administration’s crackdown on diversity, equity and inclusion initiatives. The materials were quickly restored following a bipartisan backlash. 
+
+<br> 
+
+<https://www.voanews.com/a/decorated-pilot-harry-stewart-jr-one-of-the-last-surviving-tuskegee-airmen-dies-at-100-/7963520.html>
+
+---
+
+## Amateur hour at the U.S. Attorney’s Office
+
+date: 2025-02-05, from: The Contrarian
+
+By Barbara McQuade 
+
+<br> 
+
+<https://contrarian.substack.com/p/amateur-hour-at-the-us-attorneys>
+
+---
+
+## White Christian Nationalism Threatens Pluralistic Democracy
+
+date: 2025-02-05, from: The Contrarian
+
+Do we believe in the Declaration of Independence? 
+
+<br> 
+
+<https://contrarian.substack.com/p/white-christian-nationalism-threatens>
+
+---
+
+## Trump says US will take ownership of war-torn Gaza
+
+date: 2025-02-05, from: VOA News USA
+
+U.S. President Donald Trump said he wants the U.S. to take ownership of Gaza, moving beyond his earlier statements of forcing Gazans to relocate to neighboring Jordan and Egypt. Trump made the stunning announcement Tuesday evening, as he hosted Israeli Prime Minister Benjamin Netanyahu at the White House. White House Bureau Chief Patsy Widakuswara has this report. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-says-us-will-take-ownership-of-war-torn-gaza-/7963497.html>
+
+---
+
+## Trump says US will take ownership of Gaza
+
+date: 2025-02-05, from: VOA News USA
+
+WASHINGTON — U.S. President Donald Trump said he wants the United States to take ownership of Gaza, moving beyond his earlier statements of forcing Palestinians in the war-torn enclave to relocate to neighboring Jordan and Egypt.
+
+
+“The U.S. will take over the Gaza Strip, and we will do a job with it, too,” he said during a joint press conference with Israeli Prime Minister Benjamin Netanyahu at the White House Tuesday evening.
+
+
+In recent days hundreds of thousands of Palestinians in the southern parts of Gaza have marched north toward their homes after Israel allowed people to return as part of the ceasefire for a hostage release deal with Hamas.
+
+
+Trump said he wants to develop the area into what he calls “the Riviera of the Middle East.”
+
+
+
+
+“Everybody I've spoken to loves the idea of the United States owning that piece of land, developing and creating thousands of jobs with something that will be magnificent, in a really magnificent area,” he said.
+
+
+Netanyahu said one of his war goals is to ensure that Hamas never poses a threat to Israel again. But Trump, Netanyahu said, is “taking it to a much higher level.”
+
+
+“I think it’s something that could change history, and it’s worthwhile really pursuing this avenue,” he added.
+
+
+Trump did not share details on how he plans to exert control over the area ravaged by 15 months of war, but he did not rule out sending U.S. troops.
+
+
+“If it’s necessary, we’ll do that. We’re going to take over that piece, and we’re going to develop it,” he said.
+
+
+
+
+Trump’s comments mark a remarkable shift from his criticism of America’s involvement in Middle East conflicts. He sees a “long-term ownership position,” for the U.S. that would bring “great stability to that part of the Middle East, and maybe the entire Middle East.”
+
+
+“This was not a decision made lightly,” he said.
+
+
+However, any discussion of relocation will certainly be met with resistance from Palestinians. Hundreds of thousands were driven from their homes in what is now called Israel: in the 1948 war surrounding Israel’s creation and during Israel’s 1967 seizure of the West Bank and Gaza Strip.
+
+
+There are currently 2.1 million people in Gaza, according to the United Nations.
+
+
+
+
+The Palestinian Authority said Wednesday that Trump’s proposal would be “a serious violation of international law.”
+
+
+Egypt’s Foreign Ministry also expressed opposition, highlighting the need to carry out post-war reconstruction “without moving the Palestinians out of the Gaza Strip.”
+
+
+China, Australia, Turkey and France all backed the need to pursue a two-state solution for peace in the region.
+
+
+It’s unclear how occupying Gaza would fit into Trump’s own stated goal of expanding the Abraham Accords to include Riyadh. He brokered the deal that normalized ties between Israel and Arab countries in 2020.
+
+
+Saudi Arabia quickly reacted to Trump’s Gaza comments by saying it will not establish diplomatic relations with Israel without the creation of a Palestinian state, and that its position is nonnegotiable.
+
+
+“The kingdom of Saudi Arabia also stresses what it had previously announced regarding its absolute rejection of infringement on the legitimate rights of the Palestinian people, whether through Israeli settlement policies, annexation of Palestinian lands or efforts to displace the Palestinian people from their land,” the Saudi Foreign Ministry said in a statement.
+
+
+Trump’s statement on Gaza is his latest signaling of expansionist ambitions, following his statements to acquire Greenland from Denmark, taking over the Panama Canal, and absorbing Canada.
+
+
+Ceasefire renegotiation
+
+
+Speaking to reporters at the White House earlier Tuesday, U.S. Middle East envoy Steve Witkoff said the administration has begun negotiations toward Phase 2 of the three-phase ceasefire-for-hostage-release deal, which includes the release of all remaining hostages held in Gaza, a permanent halt in fighting and Israel’s withdrawal from the territory.
+
+
+
+
+Hamas, a U.S.-designated terror group, has released 18 hostages so far, while Israel has freed hundreds of Palestinian prisoners.
+
+
+Witkoff suggested that the administration is considering renegotiating parts of the agreement that took effect on Jan. 19, the day before Trump was inaugurated.
+
+
+“Part of the problem is that it wasn’t such a wonderful agreement that was first signed. That was not dictated by the Trump administration. We had nothing to do with it,” he said. “Now we’re working within that rubric, and we’re figuring things out.”
+
+
+He doubled down on Trump’s suggestion to remove Gazans, saying that the five-year reconstruction plan for Gaza as outlined in phase three is “physically impossible.”
+
+
+Trump’s insistence on relocating Gazans could signal a desire to renegotiate the ceasefire deal, particularly the second phase, said Ahmed Fouad Alkhatib, a senior fellow at the Atlantic Council.
+
+
+“The goal might be to force Hamas into choosing between relinquishing control of Gaza or leaving the Strip if it wants an Israeli withdrawal or reconstruction, or risk the entirety of the population facing forcible removal, though how that would be carried out is unknown,” he told VOA.
+
+
+Also Tuesday, Trump ended support for the UN agency that helps Palestinian refugees and withdrew the U.S. from what he calls the antisemitic UN Human Rights Council.
+
+
+Iran nuclear
+
+
+Shortly before his meeting with Netanyahu, Trump directed his aides to restore his "maximum pressure" campaign on Iran to prevent it from getting a nuclear weapon and to drive down its oil exports to zero.
+
+
+“I'm unhappy to do it, but I really have not so much choice, because we have to be strong and firm, and I hope that it's not going to have to be used in any great measure at all,” he said. “It's very simple. Iran cannot have a nuclear weapon.”
+
+
+
+
+As of September 2024, U.S. intelligence concluded in a report that Iran is not building a nuclear weapon. However, Iran has “undertaken activities that better position it to produce one, if it so chooses,” the report said.
+
+
+In November, the Justice Department under the Biden administration announced that an Iranian plot to kill Trump before the presidential election had been thwarted. Trump said he has directed his aides to “obliterate” Tehran if the Iranian regime moves to assassinate him.
+
+
+“If they did that they would be obliterated,” Trump said. “I’ve left instructions if they do it, they get obliterated, there won’t be anything left.”
+
+
+Pressure on Netanyahu
+
+
+Trump’s meeting with Netanyahu comes as the Israeli leader faces pressure from his right-wing coalition to end the ceasefire.
+
+
+Both Trump and Netanyahu share the goal of ending Hamas’ rule in Gaza and return the remaining Israeli hostages, said Jonathan Rynhold, head of the Department of Political Studies at Bar Ilan University. However, the two men place different priorities on different aspects of the goal.
+
+
+For Netanyahu, the priority is to ensure Hamas has no political future, Rynhold told VOA, while for Trump it’s to maintain the ceasefire “so that he can move to an Israeli-Saudi Arabian normalization agreement.”
+
+
+U.S. administrations under Presidents George W. Bush to Joe Biden have stated their support for Palestinian statehood under the two-state solution. In 2020 during his first term, Trump announced his Middle East peace plan that would deny Palestinians having their own state.
+
+
+Trump was non-committal when asked Tuesday whether he supports the two-state solution. His plan on Gaza “doesn't mean anything about a two-state or one-state or any other state,” he said.
+
+
+The war in Gaza began with the Oct. 7, 2023, Hamas attack that killed 1,200 people in Israel and took about 250 people hostage. Israel’s counteroffensive has killed more than 47,500 Palestinians, more than half of them women and children. Israel’s military says the death toll includes 17,000 Hamas militants. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-says-u-s-will-take-ownership-of-gaza/7963488.html>
+
+---
+
+## Senate confirms Pam Bondi as US attorney general
+
+date: 2025-02-05, from: VOA News USA
+
+WASHINGTON — The Senate confirmed Pam Bondi as U.S. attorney general on Tuesday evening.
+
+
+The vote fell almost entirely along party lines, with only Sen. John Fetterman, a Pennsylvania Democrat, joining with all Republicans to pass her confirmation 54-46.
+
+
+Bondi, a former Florida attorney general and corporate lobbyist, is expected to oversee a radical reshaping of the department that has been the target of Trump's ire over the criminal cases it brought against him. She enters with the FBI, which she will oversee, in turmoil over the scrutiny of agents involved in investigations related to the president, who has made clear his desire to seek revenge on his perceived adversaries.
+
+
+Republicans have praised Bondi as a highly qualified leader they contend will bring much-needed change to a department they believe unfairly pursued Trump through investigations resulting in two indictments.
+
+
+"Pam Bondi has promised to get the department back to its core mission: prosecuting crime and protecting Americans from threats to their safety and their freedoms," said Senate Majority Leader John Thune, R-S.D.
+
+
+But Bondi has faced intense scrutiny over her close relationship with the president, who during his term fired an FBI director who refused to pledge loyalty to him and forced out an attorney general who recused himself from the Justice Department's investigation into potential ties between Russia and his 2016 presidential campaign.
+
+
+While Bondi has sought to reassure Democrats that politics would play no part in her decision-making, she also refused at her confirmation hearing last month to rule out potential investigations into Trump's adversaries. And she has repeated Trump's claims that the prosecutions against him amounted to political persecution, saying the Justice Department "had been weaponized for years and years and years, and it's got to stop."
+
+
+Bondi's confirmation vote came just hours after FBI agents sued the Justice Department over efforts to develop a list of employees involved in the January 6 prosecutions, which agents fear could be a precursor to mass firings.
+
+
+Acting Deputy Attorney General Emil Bove last week ordered the acting FBI director to provide the names, titles and offices of all FBI employees who worked on the January 6 cases — which Trump has described as a "grave national injustice." Bove, who defended Trump in his criminal cases before joining the administration, said Justice Department officials would carry out a "review process to determine whether any additional personnel actions are necessary."
+
+
+Justice Department officials have also recently forced out senior FBI executives, fired prosecutors on special counsel Jack Smith's team who investigated Trump and terminated a group of prosecutors in the District of Columbia’s U.S. attorney's office who were hired to help with the massive Jan. 6 investigation.
+
+
+Bondi repeatedly stressed at her confirmation hearing that she would not pursue anyone for political reasons, and vowed that the public, not the president, would be her client. But her answers at times echoed Trump's campaign rhetoric about a politicized justice system. 
+
+<br> 
+
+<https://www.voanews.com/a/senate-confirms-pam-bondi-as-us-attorney-general/7963471.html>
+
+---
+
+## 'High threat' undocumented migrants sent to Guantanamo
+
+date: 2025-02-05, from: VOA News USA
+
+PENTAGON — A small number of migrants were transferred from Texas to a detention facility in Guantanamo Bay, Cuba, on Tuesday via U.S. military aircraft, U.S. defense officials told VOA.
+
+
+Fewer than 20 migrants, which the administration has deemed to be "high threat," are being transported on the first C-17 flight from Fort Bliss, one defense official said, speaking to VOA on background, a method often used by U.S. officials to remain anonymous, before the flight landed in Cuba.
+
+
+U.S. Homeland Security Secretary Kristi Noem on Tuesday posted photos on X of some of the migrants as they prepared to board the military cargo plane, calling them “the worst of the worst,” and warning the effort to deport them is just getting started.
+
+
+The Department of Homeland Security later said all of the migrants on the military flight from Texas to Guantanamo Bay were members of Tren de Aragua, a Venezuelan street gang with transnational reach. Officials did not say when or how they were first taken into custody.
+
+
+The White House has announced plans to designate Tren de Aragua as a Foreign Terrorist Organization.
+
+
+
+
+Since President Donald Trump's executive order last month, the Pentagon has deployed 300 Marines to Guantanamo to expand the facilities to support holding operations for undocumented immigrants. According to media reports, they have set up tents to house the migrants inside a fenced area at a separate part of the naval base. Those facilities are not yet ready for migrants, according to Fox News.
+
+
+"The number of service members will continue to fluctuate as additional forces are tasked to deploy and will be scaled, based on the requirements of the Department of Homeland Security, which is the lead federal agency," U.S. Southern Command, which overseas operations in South America, Central America and the Caribbean, announced in a statement on Monday.
+
+
+The migrants who arrived Tuesday will be held at the U.S. detention facility, according to a U.S. official who spoke on background. The facility is known mostly for housing military prisoners and terror suspects, including those involved in the September 11, 2001, attacks and members of the Taliban.
+
+
+"If you're a violent gang banger, and you've been taken out of our country, and we're waiting to bring you to your country, we're going to put you in a cell box built for al-Qaida," Secretary of Defense Pete Hegseth told Fox News this week.
+
+
+In his executive order last month, Trump instructed the departments of Defense and Homeland Security to prepare the U.S. naval base to hold up to 30,000 migrants.
+
+
+"Some of them are so bad we don't even trust the countries to hold them because we don't want them coming back. So, we're going to send them out to Guantanamo," Trump said.
+
+
+Closing Guantanamo
+
+
+Democratic administrations under Barack Obama and Joe Biden had sought to close the detention camp, which was built by the George W. Bush administration in 2002 following the U.S. invasion of Afghanistan that began shortly after the 9/11 attacks of 2001.
+
+
+Sue Hendrickson, president and CEO of Human Rights First, said in a statement that sending migrants to Guantanamo would create a human rights catastrophe.
+
+
+"The Trump administration may find the symbolism of sending migrants to Guantanamo darkly appealing; its practical result would be more injustice, waste and self-inflicted loss of credibility," Hendrickson said.
+
+
+At its height during the Global War on Terror, the detention facility held about 680 prisoners. As of January 6, there were just 15 detainees at the facility, according to the Pentagon.
+
+
+Before being used to detain terror suspects, the U.S. naval facility was also used to house migrants from Cuba and Haiti in the early 1990s. 
+
+<br> 
+
+<https://www.voanews.com/a/high-threat-undocumented-migrants-sent-to-guantanamo/7963451.html>
+
+---
+
+## Analysts: American Iron Dome reduces nuclear coercion but drives arms race
+
+date: 2025-02-05, from: VOA News USA
+
+WASHINGTON — U.S. President Donald Trump’s order to build an American version of the Iron Dome to shield the U.S. from aerial attacks will deter China and Russia from coercing the U.S. using nuclear weapons but could drive a three-way arms race, said analysts.  
+
+ 
+
+The U.S. government’s Missile Defense Agency on Friday asked the defense industry to identify technologies and capabilities available to construct the Iron Dome for America. The deadline is the end of February.
+
+ 
+
+It made the request in response to Trump’s executive order signed on Jan. 27, setting forth a motion to build an American Iron Dome.
+
+ 
+
+“The United States will provide for the common defense of its citizens and the Nation by deploying and maintaining a next-generation missile defense shield,” the executive order stated.
+
+
+The American Iron Dome will defend the U.S. “against ballistic, hypersonic, advanced cruise missiles, and other next-generation aerial attacks from peer, near-peer, and rogue adversaries,” according to the statement.
+
+
+It will ensure the U.S. has “its second-strike capability,” meaning it would be able to launch nuclear retaliation.
+
+
+The Iron Dome would also include a review of missile defense posture to identify ways for U.S. allies and partners to increase cooperation on missile defense development and operations.
+
+
+Trump ordered Defense Secretary Pete Hegseth to draw up a plan in the next three months to build the missile shield.
+
+
+Strengthening deterrence
+
+
+Robert Peters, research fellow for Nuclear Deterrence and Missile Defense at the Heritage Foundation, said on Thursday via phone, the Iron Dome for America “will take away the option for nuclear coercion that an actor could try to hold over the U.S.” in addition to defending the U.S. from an actual strike.
+
+
+“It is feasible for us to build an Iron Dome,” he said, “and there is no reason why we should not do so, particularly given that we are seeing the autocrats in North Korea, China, and Russia engaging in nuclear coercion.”
+
+
+Russian President Vladimir Putin has threatened to use nuclear weapons multiple times during an ongoing war in Ukraine that began with its invasion in 2022.
+
+
+In November, Putin revised the Russian threshold for using nuclear weapons in a doctrine issued after former U.S. President Joe Biden allowed Ukraine to strike targets inside Russia with U.S.-made longer-range missiles.
+
+
+The doctrine announced that Russia has the right to use nuclear weapons to respond to a conventional weapons attack. Previously, Russia reserved the right to use nuclear weapons only when an attack threatened its existence.
+
+
+Patrycja Bazylczyk, a research associate for the Missile Defense Project at the Center for Strategic and International Studies, said, “If implemented well, an ‘iron dome for America’ could bolster American defense and affect the strategic calculus of our adversaries.”
+
+
+She told VOA on Monday, “Improving homeland air and missile defenses reduces the confidence of a potential attacker, thereby raising the threshold for attack and contributing to deterrence.”
+
+
+The Iron Dome plan resembles former President Ronald Reagon's proposed dual objective of Strategic Defense Initiative (SDI) and nuclear disarmament, said Hans Kristensen, the director of the Nuclear Information Project at the Federation of American Scientists (FAS).
+
+
+The SDI, also came to be called Star Wars, was announced in 1983 to develop a space-based defense system to protect the U.S. from nuclear missiles.
+
+
+Risk of arms race
+
+
+Trump's "Iron Dome initiative, to some extent, echoes his concern about nuclear weapons," but "a stronger U.S. missile defense system would almost certainly make it more difficult to reach a nuclear agreement with Russia and China because of their concern that more effective missile defenses would increase the threat to their nuclear retaliatory capability," continued Kristensen.  
+
+
+Trump said in a video message to the World Economic Forum in Davos, Switzerland, on Jan. 23 that he wants to discuss "denuclearization" with Russia, and that China would need to come along.
+
+
+Kristensen told VOA on Thursday that "FAS applauds Trump's remarks about the need for nuclear limits and eventually denuclearization and urge the administration to pursue these goals."
+
+
+He added, "Nuclear deterrence can be maintained with far fewer nuclear weapons" and having nuclear reduction talks is "urgent because the New START treaty expires in about one year."
+
+
+The New Strategic Arms Reduction Treaty (New START), a nuclear arms reduction treaty between the U.S. and Russia, is set to expire in February 2026.
+
+
+Daryl Kimball, executive director of Arms Control Association, told VOA on Friday Trump envisions "more ambitious system to thwart strategic missile attacks by Russia or China" than his efforts in 2019.
+
+
+"It is not realistic to believe that an effective system would be feasible anytime soon, if ever, mainly because adversaries will respond by seeking to overwhelm missile defense systems in order to maintain their own capacity to deter U.S. conventional or nuclear attack," he said.
+
+
+Kimball added, however, "We welcome Trump's interest in negotiating agreements with Russia and China to reduce the 'tremendous' costs of nuclear weapons by reducing or 'denuclearizing' with Russia and China. Without such a deal, we could see a costly three-way offensive nuclear arms races that no one can win."
+
+
+The U.S. has about 5,044 nuclear warheads while Russia has over, 5,500 and China has approximately 500 nuclear warheads, according to the FAS.  
+
+
+The Pentagon in its annual report released in December on China's military estimates that China will have more than 1,000 operational nuclear warheads by 2030.
+
+
+North Korea, through its state-run KCNA, on Monday expressed opposition to the U.S. plan to build the Iron Dome, describing it as a “hegemonic attempt to maintain its military supremacy.”
+
+
+The Chinese Embassy in Washington told VOA on Monday that it does not have any comments on the issue at this time.
+
+
+A top Russia diplomat quoted by the state news agency Tass on Thursday said America’s Iron Dome “puts an end to the prospects of strategic offensive arms reduction on nuclear and missile arsenals in favor of their quantitative and qualitative increase.”
+
+
+Richard Weitz, director for the Center for Political-Military Analysis at Hudson Institute, said, “The Russians and Chinese have always said that if the U.S. builds better defenses, they’re going to build better offenses so they can overcome these defenses.”
+
+
+He told VOA on Thursday, the Iron Dome effort, along with Trump’s interest in having nuclear reduction talks with China and Russia, aims to reduce overall threats to the U.S., but it would be difficult to get China on board denuclearization talks. 
+
+<br> 
+
+<https://www.voanews.com/a/analysts-american-iron-dome-reduces-nuclear-coercion-but-drives-arms-race/7963461.html>
+
+---
+
+## US judge blocks Trump from sending transgender women to men's prisons
+
+date: 2025-02-05, from: VOA News USA
+
+WASHINGTON — A U.S. judge on Tuesday blocked President Donald Trump's administration from moving transgender women to men's prisons and ending their gender-affirming care.
+
+
+In a broad ruling temporarily halting an executive order that Trump, a Republican, signed on his first day back in office on Jan. 20, U.S. District Judge Royce Lamberth in Washington found that three transgender inmates who sued would likely succeed in arguing the policy was unconstitutional.
+
+
+The decision marked the second time that a federal judge had sided with LGBTQ+ legal rights groups who sued to prevent the U.S. Bureau of Prisons from implementing the order.
+
+
+Lamberth's order applies to all 16 transgender women currently housed in federal women's prisons. It goes further than a Jan. 26 decision by a federal judge in Boston blocking prison officials from transferring an individual transgender woman to a men's facility.
+
+
+A spokesperson for the Justice Department, which defended the Trump administration in court, declined to comment. The Bureau of Prisons did not immediately respond to a request for comment.
+
+
+The three transgender women who brought the Washington case argued transgender women would face violence and sexual assault in men's prisons, which would violate their right to not be subjected to cruel and unusual punishment as guaranteed by the Eighth Amendment to the U.S. Constitution.
+
+
+U.S. Justice Department attorney John Robinson had argued that the Bureau of Prisons has broad authority to make inmate placement decisions. He urged Lamberth, an appointee of Republican President Ronald Reagan, to wait for the agency to revise its policies before issuing any order compelling the continuation of medical treatment.
+
+
+In his decision, Lamberth wrote that the government did not dispute the plaintiffs' assertion that transgender persons were at a higher risk of physical and sexual violence than other inmates when housed in a facility corresponding to their biological sex.
+
+
+Trump's executive order directed the federal government to only recognize two, biologically distinct sexes, male and female; house transgender women in men's prisons; and cease funding for any gender-affirming medical care for inmates.
+
+
+Prior to Trump's order, the Bureau of Prisons had been operating under guidelines adopted in 2022 during Democratic former President Joe Biden's tenure requiring prisons to consider inmates' "current gender expression" when deciding where to house them.
+
+
+Biden's policy was a reversal from earlier guidance during Trump's first term.
+
+
+The lawsuit filed on Jan. 30 also argued that Trump's executive order discriminates against transgender people on the basis of sex in violation of the U.S. Constitution's Fifth Amendment.
+
+
+About 2,230 transgender inmates are housed in federal custodial facilities and halfway houses, according to the U.S. Department of Justice. About two thirds of them, 1,506, are transgender women, most of whom are housed in men's prisons. 
+
+<br> 
+
+<https://www.voanews.com/a/us-judge-blocks-trump-from-sending-transgender-women-to-men-s-prisons/7963446.html>
+
+---
+
+## Trump takes aim at new South African land expropriation law
+
+date: 2025-02-05, from: VOA News USA
+
+WHITE HOUSE — President Donald Trump has taken aim at a new South African law meant to address the nation’s apartheid legacy of racially unequal land distribution, threatening to withdraw funding, including to the world’s largest HIV treatment program.
+
+
+Africa observers told VOA on Tuesday that some members of the U.S. Congress have jumped on this grievance to “upend the status quo in U.S.-South Africa relations as a response."
+
+
+Trump fired the first volley Sunday night, in a post on his social media site.
+
+
+“South Africa is confiscating land, and treating certain classes of people VERY BADLY,” Trump wrote. He continued to describe the situation as “a massive Human Rights VIOLATION, at a minimum.”
+
+
+South African politicians — both the supporters and the opponents of the newly inked Expropriation Act that Trump was referring to — quickly fired back at his description of the new law, which repeals apartheid-era legislation to align land distribution with the nation’s progressive constitution.
+
+
+Under the apartheid system, laws such as the 1913 Natives Land Act severely restricted Black land ownership. Other now-defunct laws determined where members of the nation’s Black majority could travel or live, what public facilities they could use, and whom they could marry.
+
+
+Apartheid also denied full citizenship rights to Black people until its fall in the early 1990s. Black people first gained the right to vote in the 1994 elections that ushered in democratic rule.
+
+
+“South Africa, like the United States of America and other countries, has always had expropriation laws that balance the need for public usage of land and the protection of rights of property owners,” South African President Cyril Ramaphosa said in a statement this week. “We look forward to engaging with the Trump administration over our land reform policy and issues of bilateral interest. We are certain that out of those engagements, we will share a better and common understanding over these matters.”
+
+
+The new law allows for limited cases of land expropriation without compensation, and that clause alone provoked years of public consultations and debate in South African parliament and civil society before it was adopted recently by the nation’s newly sworn-in coalition government.
+
+
+In her article on the website The Conversation, law professor Zsa-Zsa Temmers Boggenpoel of Stellenbosch University explained the move as “a potential tool to reduce land inequality.”
+
+
+“This has become a matter of increasing urgency,” she wrote. “South Africans have expressed impatience with the slow pace of land reform.”
+
+
+A government land audit in 2017 found that 72% of the country's farms and agricultural holdings were white-owned.
+
+
+“I am not convinced that the act, in its current form, is the silver bullet to effect large-scale land reform — at least not the type of radical land reform that South Africa urgently needs," Boggenpoel wrote. "Understandably, the act will have a severe impact on property rights. But it still substantially protects landowners affected by expropriation. Only in very limited cases would they not be compensated.”
+
+
+South Africa's opposition parties stood against the new law.
+
+
+After the bill was signed last month, opposition party ActionSA , which vowed to pursue legal action, said in a statement, “While other parties assert that this bill does not compromise the ‘willing buyer, willing seller doctrine,’ it ultimately allows the government to unilaterally set the price if an agreement cannot be reached.”
+
+
+The center-right Democratic Alliance party not only strenuously opposed the new law — along with ActionSA and the pro-Afrikaner Freedom Front Plus party — it also objected to Trump’s characterization, calling it “unfortunate.”
+
+
+“It would be a tragedy if this funding were terminated because of a misunderstanding of the facts,” the party said in a statement. It continued: “It is not true that the Act allows land to be seized by the state arbitrarily, and it does require fair compensation for legitimate expropriations in terms of Section 25 of the Constitution.”
+
+
+But these nuances may not be seized upon by the U.S. Congress, which has bristled at some of Pretoria’s moves — not least, the nation’s decision to pursue a genocide case against Israel at the U.N.’s highest court, said Michael Walsh, an Africa analyst at the Foreign Policy Research Institute,
+
+
+The U.S. strenuously opposed South Africa’s petition to the court in late 2023, with the White House telling VOA the case was “without merit.”
+
+
+“My key takeaway was [Trump's] reference to massive human rights violations,” Walsh told VOA. “That terminology will play into the hands of those interest groups who have been pushing for Magnitsky sanctions to be imposed on ANC and EFF officials prior to the G20 Johannesburg Summit," he added, referring to the African National Congress, Ramaphosa's party, and the far-left Economic Freedom Fighters.
+
+
+The 2012 Magnitsky Act allows the U.S. to impose sanctions on human rights violators.
+
+
+"Many South African experts have assumed that any Magnitsky sanctions would be based on acts of corruption," Walsh said. "However, members of Congress are considering Magnitsky sanctions on the grounds of human rights violations as well.”
+
+
+This all sets up the scene, he said, for a diplomatic showdown when world leaders converge in Johannesburg in November for the summit of G20 nations.
+
+
+Host nation South Africa has set the agenda for that meeting of the world’s top 20 economies to include two issues that don’t jibe with Trump’s isolationist, pro-energy exploration, America-first approach: mobilizing climate financing and increasing debt relief for developing countries. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-takes-aim-at-new-south-african-land-expropriation-law/7963443.html>
+
+---
+
+## US Treasury says Musk team has 'read-only access' to payment data
+
+date: 2025-02-05, from: VOA News USA
+
+WASHINGTON — The U.S. Treasury said on Tuesday that Elon Musk's government-efficiency team has been granted "read-only access" to its payment system codes and denied that this cut off any government payments including for Social Security or Medicare.  
+
+
+The confirmation of a Musk associate's access to the system codes came in a letter from a Treasury official to Democratic Senator Ron Wyden. The letters said the review was being undertaken to "maximize payment integrity for agencies and the public." 
+
+
+Treasury Secretary Scott Bessent has not commented on reports in recent days that Musk's informal Department of Government Efficiency had gained access to the system responsible for disbursing more than $6 trillion of annual government spending.  
+
+
+Several thousand people gathered outside the Treasury on Tuesday to protest DOGE's Treasury access amid his sweeping incursion into government operations, which this week led to the shutdown of the U.S. Agency for International Development, merging its aid mission into the State Department. 
+
+
+
+
+The payment system review "is not resulting in the suspension or rejection of any payment instructions submitted to Treasury by other federal agencies across the government," Jonathan Blum, principal deputy assistant secretary in the Office of Legislative Affairs wrote to Senator Ron Wyden of Oregon.  
+
+
+The DOGE team at Treasury conducting the review is led by technology firm chief executive Tom Krause, whom the letter described as a "Treasury employee." Krause is CEO of Cloud Software Group, which owns former independent software firms Citrix and Tibco. 
+
+
+Wyden raised alarms over the weekend when reports first surfaced that a team under the direction of Musk, appointed by President Donald Trump to conduct a broad review of government operations, was at the Treasury.  
+
+
+"I'm sure the Treasury Secretary and the president want to save face and downplay the risks as Elon Musk seizes power, but nothing they're saying is believable or trustworthy," Wyden said in response to Blum's letter. 
+
+
+Outside the Treasury, protesters waved placards with slogans including: "Nobody Elected Musk" and "Bessent, you have 1 job!! Protect our money. You already failed." 
+
+
+About three dozen Democratic members of the Senate and House of Representatives tried to enter the Treasury to confront Bessent on the issue but they said they were denied access. 
+
+
+Rebecca Weiss, who lives in suburban Maryland, told Reuters that she attended the protest because she is worried about what Musk will do with the payments data. 
+
+
+"He's obviously a data guy, and now he has access, potentially, to everybody's personal identifiable information, which he might take advantage of for his business purposes," she said. "The bottom line is, we didn't elect him." 
+
+<br> 
+
+<https://www.voanews.com/a/us-treasury-says-musk-team-has-read-only-access-to-payment-data-/7963412.html>
+
+---
+
+## Trump reimposes 'maximum pressure' on Iran, aims to drive oil exports to zero
+
+date: 2025-02-05, from: VOA News USA
+
+WASHINGTON — U.S. President Donald Trump on Tuesday restored his "maximum pressure" campaign on Iran that includes efforts to drive its oil exports down to zero in order to stop Tehran from obtaining a nuclear weapon.
+
+
+Ahead of his meeting with Israeli Prime Minister Benjamin Netanyahu, Trump signed the presidential memorandum reimposing Washington's tough policy on Iran that was practiced throughout his first term.
+
+
+As he signed the memo, Trump described it as very tough and said he was torn on whether to make the move. He said he was open to a deal with Iran and expressed a willingness to talk to the Iranian leader.
+
+
+"With me, it's very simple: Iran cannot have a nuclear weapon," Trump said. Asked how close Tehran is to a weapon, Trump said: "They're too close."
+
+
+Iran's mission to the United Nations in New York did not immediately respond to a request for comment.
+
+
+Iran is accelerating enrichment of uranium to up to 60% purity, close to the roughly 90% weapons-grade level, the U.N. nuclear watchdog chief told Reuters in December. Iran has denied wanting to develop a nuclear weapon.
+
+
+Trump's memo, among other things, orders the U.S. Treasury secretary to impose "maximum economic pressure" on Iran, including sanctions and enforcement mechanisms on those violating existing sanctions.
+
+
+It also directs the Treasury and State Department to implement a campaign aimed at "driving Iran's oil exports to zero." U.S. oil prices pared losses on Tuesday on the news that Trump planned to sign the memo.
+
+
+Tehran's oil exports brought in $53 billion in 2023 and $54 billion a year earlier, according to U.S. Energy Information Administration estimates. Output during 2024 was running at its highest level since 2018, based on OPEC data.
+
+
+Trump had driven Iran's oil exports to near-zero during part of his first term after re-imposing sanctions. They rose under Biden's tenure as Iran succeeded in evading sanctions.
+
+
+The Paris-based International Energy Agency believes Saudi Arabia, the United Arab Emirates and other OPEC members have spare capacity to make up for any lost exports from Iran, also an OPEC member.
+
+
+China does not recognize U.S. sanctions and Chinese firms buy the most Iranian oil. China and Iran have also built a trading system that uses mostly Chinese yuan and a network of middlemen, avoiding the dollar and exposure to U.S. regulators.
+
+
+Kevin Book, an analyst at ClearView Energy, said the Trump administration could enforce the 2024 Stop Harboring Iranian Petroleum (SHIP) law to curtail some Iranian barrels.
+
+
+SHIP, which the Biden administration did not enforce strictly, allows measures on foreign ports and refineries that process petroleum exported from Iran in violation of sanctions. Book said a move last month by the Shandong Port Group to ban U.S.-sanctioned tankers from calling into its ports in the eastern Chinese province signals the impact SHIP could have.
+
+
+Trump also directed his U.N. ambassador to work with allies to "complete the snapback of international sanctions and restrictions on Iran," under a 2015 deal between Iran and key world powers that lifted sanctions on Tehran in return for restrictions on its nuclear program.
+
+
+Britain, France and Germany told the United Nations Security Council in December that they are ready — if necessary — to trigger a snapback of all international sanctions on Iran to prevent the country from acquiring a nuclear weapon.
+
+
+They will lose the ability to take such action on October 18 when a 2015 U.N. resolution expires. The resolution enshrines Iran's deal with Britain, Germany, France, the United States, Russia and China that lifted sanctions on Tehran in exchange for restrictions on its nuclear program.
+
+
+Iran's U.N. ambassador, Amir Saeid Iravani, has said that invoking the "snap-back" of sanctions on Tehran would be "unlawful and counterproductive."
+
+
+European and Iranian diplomats met in November and January to discuss if they could work to defuse regional tensions, including over Tehran's nuclear program, before Trump returned. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-reimposes-maximum-pressure-on-iran-aims-to-drive-oil-exports-to-zero/7963388.html>
+
+---
+
+## Former Google engineer faces new US charges he stole AI secrets for Chinese companies
+
+date: 2025-02-05, from: VOA News USA
+
+U.S. prosecutors on Tuesday unveiled an expanded 14-count indictment accusing former Google software engineer Linwei Ding of stealing artificial intelligence trade secrets to benefit two Chinese companies he was secretly working for. 
+
+
+Ding, 38, a Chinese national, was charged by a federal grand jury in San Francisco with seven counts each of economic espionage and theft of trade secrets. 
+
+
+Each economic espionage charge carries a maximum 15-year prison term and $5 million fine, while each trade secrets charge carries a maximum 10-year term and $250,000 fine. 
+
+
+The defendant, also known as Leon Ding, was indicted last March on four counts of theft of trade secrets. He is free on bond. His lawyers did not immediately respond to requests for comment. 
+
+
+Ding's case was coordinated through an interagency Disruptive Technology Strike Force created in 2023 by the Biden administration. 
+
+
+The initiative was designed to help stop advanced technology from being acquired by countries such as China and Russia or potentially threatening national security. 
+
+
+Prosecutors said Ding stole information about the hardware infrastructure and software platform that lets Google's supercomputing data centers train large AI models. 
+
+
+Some of the allegedly stolen chip blueprints were meant to give Google an edge over cloud computing rivals Amazon and Microsoft, which design their own, and reduce Google's reliance on chips from Nvidia. 
+
+
+Prosecutors said Ding joined Google in May 2019 and began his thefts three years later when he was being courted to join an early-stage Chinese technology company. 
+
+
+Ding allegedly uploaded more than 1,000 confidential files by May 2023 and later circulated a PowerPoint presentation to employees of a China startup he founded, saying that country's policies encouraged development of a domestic AI industry. 
+
+
+Google was not charged and has said it cooperated with law enforcement. 
+
+
+According to court records describing a December 18 hearing, prosecutors and defense lawyers discussed a "potential resolution" to Ding's case, "but anticipate the matter proceeding to trial." 
+
+
+The case is U.S. v. Ding, U.S. District Court, Northern District of California, No. 24-cr-00141. 
+
+<br> 
+
+<https://www.voanews.com/a/former-google-engineer-faces-new-us-charges-he-stole-ai-secrets-for-chinese-companies-/7963387.html>
+
+---
+
+## Trump orders target several UN bodies
+
+date: 2025-02-05, from: VOA News USA
+
+WASHINGTON — U.S. President Donald Trump on Tuesday stopped U.S. engagement with the U.N. Human Rights Council, extended a halt to funding for the Palestinian relief agency UNRWA and ordered a review of the U.N. cultural agency UNESCO.
+
+
+"It's got great potential and based on the potential we'll continue to go along with it, but they got to get their act together," Trump told reporters. "It's not being well run, to be honest and they're not doing the job.
+
+
+"A lot of these conflicts that we're working on should be settled, or at least we should have some help in settling them. We never seem to get help. That should be the primary purpose of the United Nations," the U.S. president said.
+
+
+U.N. spokesperson Stephane Dujarric said, "From day one, U.S. support for the United Nations has saved countless lives and advanced global security."
+
+
+"The secretary-general looks forward to continuing his productive relationship with President Trump and the U.S. government to strengthen that relationship in today's turbulent world."
+
+
+Trump said that he was not looking to take away money from the 193-member world body, though he complained that Washington had to pay a disproportionate amount.
+
+
+Washington is the U.N.'s largest contributor - followed by China - accounting for 22% of the core U.N. budget and 27% of the peacekeeping budget. The U.N. has said the U.S. currently owes a total of $2.8 billion, of which $1.5 billion is for the regular budget. These payments are not voluntary.
+
+
+UNRWA
+
+
+Trump's order on Tuesday was largely symbolic and mirrored moves he made during his first term in office, from 2017-2021.
+
+
+Since taking office for a second term on Jan. 20, Trump has ordered the U.S. to withdraw from the World Health Organization and from the Paris climate agreement - also steps he took during his first term in office.
+
+
+The U.S. was UNRWA's biggest donor - providing $300 million-$400 million a year - but former President Joe Biden paused funding in January 2024 after Israel accused about a dozen UNRWA staff of taking part in the deadly Oct. 7, 2023, attack by Palestinian militants Hamas that triggered the war in Gaza.
+
+
+The U.S. Congress then formally suspended contributions to UNRWA until at least March 2025. UNRWA provides aid, health and education services to millions of Palestinians in Gaza, the West Bank, including East Jerusalem, Syria, Lebanon and Jordan.
+
+
+The United Nations has said that nine UNRWA staff may have been involved in the Oct. 7, 2023, attack and were fired. A Hamas commander in Lebanon - killed in September by Israel - was also found to have had a UNRWA job. The U.N. has vowed to investigate all accusations made and repeatedly asked Israel for evidence, which it says has not been provided.
+
+
+Human Rights Council
+
+
+The first Trump administration also quit the 47-member Human Rights Council halfway through a three-year term over what it called chronic bias against Israel and a lack of reform. The U.S. is not currently a member of the Geneva-based body. Under Biden, the U.S. was re-elected and served a 2022-2024 term.
+
+
+A council working group is due to review the U.S. human rights record later this year, a process all countries undergo every few years. While the council has no legally binding power, its debates carry political weight and criticism can raise global pressure on governments to change course.
+
+
+Trump's executive order on Tuesday also asks Secretary of State Marco Rubio to review and report back to him on international organizations, conventions, or treaties that "promote radical or anti-American sentiment."
+
+
+He specified that the U.N. Education, Scientific and Cultural Organization (UNESCO) should be reviewed first because Washington had previously accused it of anti-Israel bias. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-orders-target-several-un-bodies/7963365.html>
+
+---
+
+## The migrant workforce under Trump
+
+date: 2025-02-05, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>It&#8217;s hard to overstate the role immigrant workers play in the U.S. economy. Key industries rely on them — <a href="https://www.politico.com/news/magazine/2025/01/23/trump-deportation-plans-food-system-00200013">nearly half</a> of meat-processing jobs, for instance, are held by immigrants. And many work in low-wage jobs that are vulnerable to exploitation.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Ted Genoways, a reporter with the Food and Environment Reporting Network, said Trump&#8217;s promises of mass deportations is creating fear and uncertainty for immigrant workers, both authorized and unauthorized, as well as for the massive food companies that employ them.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>&#8220;If history is any guide, this will probably mean increased food prices, if only for companies trying to hedge against the possibility of something disastrous happening,&#8221; said Genoways.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>On today&#8217;s show, Genoways gives us a snapshot of the low-wage immigrant workforce&#8217;s role in our economy and unpacks how Trump&#8217;s deportation plans could disrupt America&#8217;s food supply. Plus, why aren&#8217;t food companies held accountable for exploiting their employees?</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>And, we&#8217;ll get into what restrictions on the U.S. Agency for International Development could mean for Cuba. Plus, would you trust Kai with the aux?</p>
+<p><!-- /wp:paragraph --></p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.motherjones.com/politics/2025/02/immigration-deportation-meatpacking-trump/" target="_blank" rel="noreferrer noopener">&#8220;This Week’s Episode of Reveal: Immigrants on the Line&#8221;</a> from Mother Jones</li>
+<li><a href="https://www.politico.com/news/magazine/2025/01/23/trump-deportation-plans-food-system-00200013" target="_blank" rel="noreferrer noopener">Opinion | &#8220;How Trump’s Deportation Plans Could Blow Up the Food System and Increase Migrant Labor&#8221;</a> from Politico</li>
+<li><a href="https://www.nytimes.com/2025/01/23/us/politics/brooke-rollins-agriculture-trump.html" target="_blank" rel="noreferrer noopener">&#8220;Brooke Rollins, Trump’s Agriculture Pick, Addresses Tariff and Immigration Impact on Farmers&#8221;</a> from The New York Times</li>
+<li><a href="https://www.cbsnews.com/news/trump-deportation-plan-effects-undocumented-farmers/" target="_blank" rel="noreferrer noopener">&#8220;How Trump&#8217;s plan to deport undocumented immigrants threatens the workforce for U.S. farm workforce&#8221;</a> from CBS News</li>
+<li><a href="https://www.wola.org/analysis/trumps-pause-of-u-s-foreign-assistance-to-latin-america-an-america-last-policy/" target="_blank" rel="noreferrer noopener">&#8220;Trump’s Pause of U.S. Foreign Assistance to Latin America: An &#8216;America Last&#8217; Policy&#8221;</a> from WOLA</li>
+<li><a href="https://www.theguardian.com/world/2014/apr/03/us-cuban-twitter-zunzuneo-stir-unrest" target="_blank" rel="noreferrer noopener">&#8220;US secretly created &#8216;Cuban Twitter&#8217; to stir unrest and undermine government&#8221;</a> from The Guardian</li>
+<li><a href="https://apnews.com/article/grammy-best-new-artist-2025-d68754cb398ebef06b47a3c6b2dc3a92" target="_blank" rel="noreferrer noopener">&#8220;Chappell Roan wins best new artist at the 2025 Grammy Awards&#8221;</a> from AP News</li>
+</ul>
+<p>Got a question or comment for us? Leave us a voicemail at 508-U-B-SMART.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/04/mms_20250204_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fthe-migrant-workforce-under-trump&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/04/mms_20250204_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fthe-migrant-workforce-under-trump&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/the-migrant-workforce-under-trump>
+
+---
+
+## Congressional Democrats to Trump: Changes can't be done in secrecy
+
+date: 2025-02-05, from: VOA News USA
+
+Congressional Democratic leadership warned President Donald Trump on Tuesday that they would use upcoming government funding talks as leverage to fight the administration's changes in U.S. government agencies.
+
+
+Democrats' warnings come as the Department of Government Efficiency (DOGE), led by Elon Musk, moved the U.S. Agency for International Development (USAID) under the control of the U.S. State Department earlier this week. The administration has said they are reviewing USAID’s foreign assistance activities to "ensure it is in alignment with an America First agenda.”
+
+
+"Whatever DOGE is doing, it's not democracy," Senate Minority Leader Chuck Schumer told reporters Tuesday. "We know what democracy looks like. It's out in the open. It's not secret."
+
+
+Democrats could push back on some of the most recent changes in the U.S. government by withholding votes on a new spending bill. A short-term continuing resolution keeping the government running is set to expire on March 14.
+
+
+On Monday, congressional Democrats protested outside closed USAID offices, saying the Trump administration had overreached its authority.
+
+
+"If you want to change an agency, introduce a bill and pass a law," Democratic Senator Brian Schatz said. "You cannot wave away an agency that you don't like or that you disagree with by executive order, or by literally storming into the building and taking over the servers. That is not how the American system of government works."
+
+
+USAID manages tens of billions of dollars in U.S. foreign assistance programs.
+
+
+"The Constitution requires that the funding be spent by the president and the administration," House Democratic Leader Hakeem Jeffries said Tuesday. "The Constitution requires the president has a responsibility to take care that the laws are faithfully executed. Spending agreements passed through the appropriations process are law, and when those laws are violated, the Constitution is being violated, which is why there has been a flurry of righteous litigation that has been unleashed."
+
+
+Congressional Republicans have expressed support for attempts to weed out fraud and abuse in the U.S. aid system.
+
+
+"I don't think they're closing an agency, but I do think they have the right to review funding and how those decisions are made and what priorities are being funded," Senate Majority Leader John Thune told reporters Tuesday. "I think that's probably true of any administration. When they come in, there are lots of programs authorized and funded through that agency, some which I think are operating the way in which they were intended, some which aren't."
+
+
+The White House criticized USAID-funded projects supporting diversity, equity and inclusion (DEI) initiatives and other efforts it argues are a waste of taxpayer funds.
+
+
+"If there's massive fraud, if the funds aren't being directed to where the Congress has appropriated and the president has signed, then we need to know about that," Roger Wicker, the Senate Armed Services chairman, told American news networks CNN and CBS Monday.
+
+
+"I have felt for a long time that USAID is our way to combat the Belt and Road Initiative, which is China's effort to really gain influence around the world, including Africa and South America and the Western Hemisphere," Wicker continued. "So we need an aid program to match the Chinese effort, but it needs to be done in a way that the policymakers of the United States have decided ought to be done."
+
+
+Schumer said Tuesday he's supportive of efforts to eliminate fraud and abuse but criticized the speed and secrecy of the process. 
+
+<br> 
+
+<https://www.voanews.com/a/congressional-democrats-to-trump-changes-can-t-be-done-in-secrecy-/7963362.html>
+
+---
+
+## Evening Roundup: Helping guide you through the chaos
+
+date: 2025-02-04, from: The Contrarian
+
+February 4: The zone is being flooded by design! To help you parse through what matters, we have pieces by and with Norm Ornstein, Rep. Dan Goldman, Ilan Goldenberg, Senator Andy Kim, Jason Furman 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-helping-guide-you>
+
+---
+
+## VOA Mandarin: Trump wants 'Iron Dome' for US; can it work?
+
+date: 2025-02-04, from: VOA News USA
+
+WASHINGTON — U.S. President Donald Trump's executive order to establish a nationwide "Iron Dome" missile defense system has sparked debate over its feasibility, funding, and strategic implications. Unlike Israel's Iron Dome, which intercepts short-range rockets, Trump's plan aims to defend against intercontinental ballistic missiles, cruise missiles, and hypersonic weapons.  
+
+
+Click here for the full story in Mandarin. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-mandarin-trump-wants-iron-dome-for-us-can-it-work-/7963068.html>
+
+---
+
+## The 'Shock and Awe' of Democracy 
+
+date: 2025-02-04, from: The Contrarian
+
+Jen Rubin and Norm Eisen discuss the recent emergency order from State Democracy Defenders Fund seeking to prevent public disclosure of any terminated FBI agents and personnel. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156490634/cc8f0ec5719d966d9060cba9cbd6f841.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156490634/cc8f0ec5719d966d9060cba9cbd6f841.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-shock-and-awe-of-democracy>
+
+---
+
+## Tariffs are looming. But a lot of things are shaping oil prices this year.
+
+date: 2025-02-04, from: Market Place
+
+Thanks to abundant supply and fairly flat demand, oil prices are forecast to fall — unless tariffs and geopolitics get in the way. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/04/tariffs-are-looming-but-a-lot-of-things-are-shaping-oil-prices-this-year/>
+
+---
+
+## Rubio pledges US support for Costa Rica's fight against cyberattacks, drug trafficking
+
+date: 2025-02-04, from: VOA News USA
+
+STATE DEPARTMENT — Secretary of State Marco Rubio on Tuesday pledged U.S. support to bolster Costa Rica's cybersecurity defenses, 5G telecommunications infrastructure, and its battle against narcotics.
+
+
+Rubio made the statement at a joint press conference with Costa Rican President Rodrigo Chaves, whose Central American nation faces more than 100 million cyberattacks annually.
+
+
+"It's very serious — 110 million cyberattacks a year for a country of this size — it's extraordinary, and they have faced it very bravely," Rubio told reporters in San Jose, Costa Rica's capital.
+
+
+In late 2024, local media reported that Costa Rican officials, in collaboration with the U.S. Embassy, identified cyber intrusions by criminal groups in China targeting the country's telecommunications and technology system, an allegation the Chinese Embassy in Costa Rica denied.
+
+
+In August 2023, Chaves issued a decree regulating 5G mobile network development, limiting involvement to companies based in signatory-states to the Budapest Convention on Cybercrime — an international treaty addressing cybercrime.
+
+
+San Jose should be lauded for being "very firm," Rubio said, against companies "backed by governments like the government of China that likes to threaten, that likes to sabotage, that likes to use economic coercion to punish you."
+
+
+VOA has reached out to the Chinese Embassy in Washington for comment but has not yet received a response.
+
+
+US aid waiver 
+
+
+Rubio also vowed that Washington wouldn't "eliminate foreign aid" but prioritize assistance for trusted partners and allies. He pledged continued cooperation with Costa Rica, offering FBI and Drug Enforcement Administration support to investigate drug trafficking to the U.S.
+
+
+"We issued a waiver today because Costa Rica" has used U.S. aid effectively to fix problems that also benefit the United States, Rubio said. "They're stopping drugs, they're stopping criminals, they're identifying terrorists."
+
+
+The State Department's Office of Foreign Assistance has not responded to VOA's inquiry for further details on the waiver.
+
+
+Rubio's five-nation tour across Central America and the Caribbean marks his first major diplomatic mission as secretary of state, with key priorities including curbing illegal immigration into the U.S. and combating drug trafficking.
+
+
+On Tuesday afternoon, the secretary arrived in Guatemala following discussions with leaders from Panama, El Salvador and Costa Rica. He is scheduled to travel to the Dominican Republic on Wednesday. 
+
+<br> 
+
+<https://www.voanews.com/a/rubio-pledges-us-support-for-costa-rica-s-fight-against-cyberattacks-drug-trafficking-/7963015.html>
+
+---
+
+## Super Bowl to feature AI product ads from Big Tech
+
+date: 2025-02-04, from: Market Place
+
+Expect to see spots about things like AI agents and eyewear.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/04/super-bowl-to-feature-ai-product-ads-from-big-tech/>
+
+---
+
+## Cleaning up Los Angeles neighborhoods destroyed by wildfires will take at least a year. Here’s why.
+
+date: 2025-02-04, from: Market Place
+
+Homeowners can speed up the process by paying for private debris removal, but that can cost tens of thousands of dollars.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/04/la-neighborhoods-wildfires-cleanup/>
+
+---
+
+## Why the labor market is “standing over a cliff”
+
+date: 2025-02-04, from: Market Place
+
+The low hiring rate reveals weakness despite low unemployment, says Kathryn Anne Edwards. Per the JOLTS report, openings declined in December. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/04/why-the-labor-market-is-standing-over-a-cliff/>
+
+---
+
+## Why the U.S. government owes itself money
+
+date: 2025-02-04, from: Market Place
+
+The US government is $36 trillion in debt. But who is owed all that money? 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/04/why-the-us-government-owes-itself-money/>
+
+---
+
+## Lenders see brisk demand for business loans
+
+date: 2025-02-04, from: Market Place
+
+A Federal Reserve survey of bankers shows clients are finding opportunities to borrow and invest, though demand for mortgages is muted. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/04/lenders-see-brisk-demand-for-business-loans/>
+
+---
+
+## Jen Rubin and Senator Andy Kim on Musk's Interference in the Executive Branch
+
+date: 2025-02-04, from: The Contrarian
+
+Jen Rubin and Senator Andy Kim talk about what it means now that Elon Musk has been given access to the inner workings of the Executive Branch, including USAID. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156484159/5ddae4def51ec70315b6a65c36274358.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156484159/5ddae4def51ec70315b6a65c36274358.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-senator-andy-kim-on>
+
+---
+
+## Edison power company sued over California fires
+
+date: 2025-02-04, from: VOA News USA
+
+In Los Angeles, residents of fire-devastated areas are filing lawsuits against the city’s electricity supplier. Some residents have videos they say show that sparking power lines caused one of the most destructive fires. Angelina Bagdasaryan visited the area and spoke with residents. Anna Rice narrates her story. Videographer: Vazgen Varzhabetian 
+
+<br> 
+
+<https://www.voanews.com/a/edison-power-company-sued-over-california-fires/7962962.html>
+
+---
+
+## Jen Rubin and Congressman Dan Goldman on Elon Musk's Power Grab
+
+date: 2025-02-04, from: The Contrarian
+
+Jen Rubin and Congressman Dan Goldman discuss the impact of Elon Musk&#8217;s meddling in federal funds and grants. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156482857/81d049c449aafc3acbd5df30c0387bc8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156482857/81d049c449aafc3acbd5df30c0387bc8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-congressman-dan-goldman>
+
+---
+
+## The Real Pain of Tariffs
+
+date: 2025-02-04, from: The Contrarian
+
+Trump&#8217;s trade war promises to tax more than consumers 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-real-pain-of-tariffs>
+
+---
+
+## Prime Minister Daylight Comes to Washington
+
+date: 2025-02-04, from: The Contrarian
+
+Netanyahu has fundamentally reshaped the U.S-Israel relationship for the worse 
+
+<br> 
+
+<https://contrarian.substack.com/p/prime-minister-daylight-comes-to>
+
+---
+
+##  From Watergate to Elon-gate 
+
+date: 2025-02-04, from: The Lever News
+
+ Musk is trying to shut down the agency probing his company’s equipment — and now workers are pushing back with a longstanding privacy law.  
+
+<br> 
+
+<https://www.levernews.com/from-watergate-to-elon-gate/>
+
+---
+
+## As Activists Mobilize Against Drilling, Oil and Gas Operators Sour on Colorado
+
+date: 2025-02-04, from: Capital and Main
+
+<p>Emboldened residents organize to halt Big Oil’s march toward the Rocky Mountain suburbs.</p>
+<p>The post <a href="https://capitalandmain.com/as-activists-mobilize-against-drilling-oil-and-gas-operators-sour-on-colorado">As Activists Mobilize Against Drilling, Oil and Gas Operators Sour on Colorado </a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/as-activists-mobilize-against-drilling-oil-and-gas-operators-sour-on-colorado>
 
 ---
 

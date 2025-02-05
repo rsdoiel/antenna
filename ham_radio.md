@@ -1,11 +1,53 @@
 ---
 title: ham radio
-updated: 2025-02-04 09:32:29
+updated: 2025-02-05 07:07:16
 ---
 
 # ham radio
 
-(date: 2025-02-04 09:32:29)
+(date: 2025-02-05 07:07:16)
+
+---
+
+## Converting from average to RMS values
+
+date: 2025-02-05, from: EDN Blog
+
+<img width="514" height="677" src="https://www.edn.com/wp-content/uploads/Average-to-RMS.png?fit=514%2C677" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Average-to-RMS.png?w=514 514w, https://www.edn.com/wp-content/uploads/Average-to-RMS.png?w=228 228w" sizes="(max-width: 514px) 100vw, 514px" /><p>John Dunn walks through how he converted the average value of a waveform to the RMS value in a resistive load test setup.</p>
+<p>The post <a href="https://www.edn.com/converting-from-average-to-rms-values/" data-wpel-link="internal">Converting from average to RMS values</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/converting-from-average-to-rms-values/>
+
+---
+
+## Flip ON flop OFF
+
+date: 2025-02-05, from: EDN Blog
+
+<img width="952" height="534" src="https://www.edn.com/wp-content/uploads/FlippityFloppity_Figure1.png?fit=952%2C534" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/FlippityFloppity_Figure1.png?w=952 952w, https://www.edn.com/wp-content/uploads/FlippityFloppity_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/FlippityFloppity_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/FlippityFloppity_Figure1.png?w=800 800w" sizes="auto, (max-width: 952px) 100vw, 952px" /><p>Turn power on and off with a minimal switch or even no switch at all by adding a flip-flop to a SPST for a classic push-on, push-off switch.</p>
+<p>The post <a href="https://www.edn.com/flip-on-flop-off/" data-wpel-link="internal">Flip ON flop OFF</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/flip-on-flop-off/>
+
+---
+
+## Build ESD protection using JFETs in op amps
+
+date: 2025-02-05, from: EDN Blog
+
+<img width="1319" height="881" src="https://www.edn.com/wp-content/uploads/fig-3-JFET-protection-TI.jpg?fit=1319%2C881" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/fig-3-JFET-protection-TI.jpg?w=1319 1319w, https://www.edn.com/wp-content/uploads/fig-3-JFET-protection-TI.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/fig-3-JFET-protection-TI.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/fig-3-JFET-protection-TI.jpg?w=1024 1024w" sizes="auto, (max-width: 1319px) 100vw, 1319px" /><p>Here is why an ap amp with integrated JFET input protection is the best design solution for confronting ESD.</p>
+<p>The post <a href="https://www.edn.com/build-esd-protection-using-jfets-in-op-amps/" data-wpel-link="internal">Build ESD protection using JFETs in op amps</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/build-esd-protection-using-jfets-in-op-amps/>
 
 ---
 
@@ -13,7 +55,7 @@ updated: 2025-02-04 09:32:29
 
 date: 2025-02-04, from: EDN Blog
 
-<img width="1375" height="823" src="https://www.edn.com/wp-content/uploads/Wyatt_InjectionLockingOscillator_Figure4.png?fit=1375%2C823" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Wyatt_InjectionLockingOscillator_Figure4.png?w=1375 1375w, https://www.edn.com/wp-content/uploads/Wyatt_InjectionLockingOscillator_Figure4.png?w=300 300w, https://www.edn.com/wp-content/uploads/Wyatt_InjectionLockingOscillator_Figure4.png?w=768 768w, https://www.edn.com/wp-content/uploads/Wyatt_InjectionLockingOscillator_Figure4.png?w=1024 1024w" sizes="(max-width: 1375px) 100vw, 1375px" /><p>Mike Wyatt uses the built-in Bode function of modern DSOs to investigate a Peltz oscillator with injection locking.</p>
+<img width="1215" height="918" src="https://www.edn.com/wp-content/uploads/Wyatt_InjectionLockingOscillator_Figure1.png?fit=1215%2C918" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Wyatt_InjectionLockingOscillator_Figure1.png?w=1215 1215w, https://www.edn.com/wp-content/uploads/Wyatt_InjectionLockingOscillator_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/Wyatt_InjectionLockingOscillator_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/Wyatt_InjectionLockingOscillator_Figure1.png?w=1024 1024w" sizes="auto, (max-width: 1215px) 100vw, 1215px" /><p>Mike Wyatt uses the built-in Bode function of modern DSOs to investigate a Peltz oscillator with injection locking.</p>
 <p>The post <a href="https://www.edn.com/investigating-injection-locking-with-dso-bode-function/" data-wpel-link="internal">Investigating injection locking with DSO Bode function</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

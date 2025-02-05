@@ -1,11 +1,523 @@
 ---
 title: pacific
-updated: 2025-02-04 09:32:29
+updated: 2025-02-05 07:07:16
 ---
 
 # pacific
 
-(date: 2025-02-04 09:32:29)
+(date: 2025-02-05 07:07:16)
+
+---
+
+## China swiftly counters Trump’s tariffs with a flurry of trade curbs
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Beijing responded swiftly Tuesday to the tariffs President Donald Trump had promised, announcing a fusillade of countermeasures targeting American companies and imports of critical products.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/nation-world-news/china-swiftly-counters-trumps-tariffs-with-a-flurry-of-trade-curbs/>
+
+---
+
+## Trump promised a cap on credit card interest rates. here’s his chance.
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>Two senators plan to introduce a bill Tuesday to impose a tight cap on credit card interest rates, reviving a proposal that is sure to draw howls from banks and other lenders.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/nation-world-news/trump-promised-a-cap-on-credit-card-interest-rates-heres-his-chance/>
+
+---
+
+## What is El Salvador’s mega-prison that could take US criminals?
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>SAN SALVADOR &#8212; On Monday, U.S. Secretary of State Marco Rubio announced during a visit to El Salvador that Salvadoran President Nayib Bukele has offered to incarcerate criminals deported from the U.S. in the Central American country&#8217;s CECOT mega-prison.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/nation-world-news/what-is-el-salvadors-mega-prison-that-could-take-us-criminals/>
+
+---
+
+## FBI Agents ask court to bar Trump team from disclosing their names
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>Two anonymous sets of FBI agents and employees filed lawsuits Tuesday seeking to prevent the Trump administration from releasing the identities of agents and staff members who participated in the investigations into the Capitol riot Jan. 6, 2021.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/nation-world-news/fbi-agents-ask-court-to-bar-trump-team-from-disclosing-their-names/>
+
+---
+
+## Trump rehires Neil Jacobs, former NOAA chief involved in ‘Sharpiegate’
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump has nominated Neil Jacobs to once again lead the National Oceanic and Atmospheric Administration, one of the country&#8217;s premier centers for climate science and the target of proposals for deep cuts by Republican groups.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/nation-world-news/trump-rehires-neil-jacobs-former-noaa-chief-involved-in-sharpiegate/>
+
+---
+
+## State Farm seeks rate hikes in California to offset wildfire payouts
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>California&#8217;s largest private insurer, State Farm, on Monday urged the state&#8217;s insurance regulator to approve an emergency hike in rates to help offset the hefty payouts the company is making after devastating wildfires in Los Angeles last month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/nation-world-news/state-farm-seeks-rate-hikes-in-california-to-offset-wildfire-payouts/>
+
+---
+
+## Sweden’s deadliest attack leaves 10 dead at Orebro adult school
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>OREBRO, Sweden &#8212; Around 10 people were killed in a shooting at an adult education centre on Tuesday, Swedish police said, marking the country&#8217;s deadliest gun attack in what the prime minister called a &#8220;painful day.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/nation-world-news/swedens-deadliest-attack-leaves-10-dead-at-orebro-adult-school/>
+
+---
+
+## News in Brief February 5
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>With 54-46 vote, US Senate &#0010;confirms Trump&#8217;s nominee &#0010;Pam Bondi as attorney general</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/nation-world-news/news-in-brief-february-5/>
+
+---
+
+## Trump proposes permanent displacement of Gazans with Netanyahu at White House
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump proposed the permanent resettlement of Palestinians from war-shattered Gaza to neighboring countries, calling the enclave a &#8220;demolition site&#8221; on Tuesday as he held pivotal talks with Israeli Prime Minister Benjamin Netanyahu.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/nation-world-news/trump-proposes-permanent-displacement-of-gazans-with-netanyahu-at-white-house/>
+
+---
+
+## ‘Mokuhanga Dialogues’ exhibit opens Friday in Hilo
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>Wailoa Center and Hawaii Island Mokuhanga artists have announced the opening of &#8220;Mokuhanga Dialogues: An Interdisciplinary Exchange&#8221; from 5 p.m. t0 7 p.m. Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/community/mokuhanga-dialogues-exhibit-opens-friday-in-hilo/>
+
+---
+
+## HPD celebrates 100th Police Recruit Class
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>Thirteen police recruits became solo officers following the Hawaii Police Department&#8217;s 100th Police Recruit Class ceremony on Friday, Jan. 31, in Hilo at the Hilo Hawaiian Hotel Moku Ola Ballroom.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/community/hpd-celebrates-100th-police-recruit-class/>
+
+---
+
+## Zonta Club seeks applicants for five awards, scholarships
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>Applications are now open for Zonta Club of Hilo&#8217;s 2025 awards and scholarships for women.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/community/zonta-club-seeks-applicants-for-five-awards-scholarships/>
+
+---
+
+## Four free household hazardous waste collection events announced
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County has announced free household hazardous waste collection events at the following dates and locations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/community/four-free-household-hazardous-waste-collection-events-announced/>
+
+---
+
+## Gabbard passes Senate panel vote as wavering Republicans back her
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Senate Intelligence Committee on Tuesday approved Tulsi Gabbard&#8217;s nomination to become the next director of national intelligence, setting the stage for a floor vote for one of President Donald Trump&#8217;s most contentious Cabinet choices.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/nation-world-news/gabbard-passes-senate-panel-vote-as-wavering-republicans-back-her/>
+
+---
+
+## Council blamed for funding loss: Money for Puna alternate route study lapsed last year
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>A study to investigate possible alternate traffic routes into Puna apparently died more than six months ago, despite assurances by Hawaii County officials the project was still on track.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/hawaii-news/council-blamed-for-funding-loss-money-for-puna-alternate-route-study-lapsed-last-year/>
+
+---
+
+## Bill would create statewide policy for police car chases
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>A bill that would establish a statewide policy for police motor vehicle pursuits will be heard at 10 a.m. Thursday by the House Transportation Committee.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/hawaii-news/bill-would-create-statewide-policy-for-police-car-chases/>
+
+---
+
+## Senate panel pushes through Kennedy’s nomination along party lines
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Robert F. Kennedy Jr., the high-profile critic of vaccines who turned away from the Democratic Party to align himself with President Donald Trump, moved one step closer to becoming the nation&#8217;s health secretary on Tuesday, after a dramatic party-line vote in the Senate Finance Committee in which a key Republican tilted the balance in Kennedy&#8217;s favor.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/nation-world-news/senate-panel-pushes-through-kennedys-nomination-along-party-lines/>
+
+---
+
+## A new life for Compacts of Free Association?
+
+date: 2025-02-05, from: Pacific Island Times
+
+I compared Greenland to Chuuk in these pages not too long ago. Two islands itching for full independence, Chuuk from the Federated States of 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/a-new-life-for-compacts-of-free-association>
+
+---
+
+## Will the Trump administration renege on US pledge to Pacific island nations?
+
+date: 2025-02-05, from: Pacific Island Times
+
+Washington’s multimillion-dollar pledge to the Pacific island nations is at risk of being canceled. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/will-the-trump-administration-renege-on-us-pledge-to-pacific-island-nations>
+
+---
+
+## UH Hilo study confirms sewage leaks into Keaukaha waters
+
+date: 2025-02-05, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo marine scientists and students confirmed sewage is reaching nearshore waters, harming coral reefs and posing health risks.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/04/keaukaha-waters-sewage-study/"><abbr>UH</abbr> Hilo study confirms sewage leaks into Keaukaha waters</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/04/keaukaha-waters-sewage-study/>
+
+---
+
+## Connecting students to careers in tech and cybersecurity
+
+date: 2025-02-05, from: University of Hawaiʻi News
+
+<p><span aria-label="Hawaii">Hawai&#699;i</span> Tech Days of Spring 2025 aims to address the growing demand for skilled tech professionals.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/04/hawaii-tech-days-of-spring-2025/">Connecting students to careers in tech and cybersecurity</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/04/hawaii-tech-days-of-spring-2025/>
+
+---
+
+## Hawaiian Word of the Week: Pepeluali
+
+date: 2025-02-05, from: University of Hawaiʻi News
+
+<p>Pepeluali&#8212;February.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/04/hawaiian-word-of-the-week-pepeluali/">Hawaiian Word of the Week: Pepeluali</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/04/hawaiian-word-of-the-week-pepeluali/>
+
+---
+
+## President Hensel visits Leeward Community College
+
+date: 2025-02-05, from: University of Hawaiʻi News
+
+<p>Leeward <abbr>CC</abbr> students, faculty and staff shared the significance of the <span aria-label="Puuloa">Pu&#699;uloa</span> area with President Wendy Hensel.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/04/president-hensel-visits-leeward-cc/">President Hensel visits Leeward Community College</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/04/president-hensel-visits-leeward-cc/>
+
+---
+
+## Free ʻōlelo Hawaiʻi fairs set across Hawaiʻi
+
+date: 2025-02-05, from: University of Hawaiʻi News
+
+<p>Ola Ka <span aria-label="I">&#699;&#298;</span> events honor the growing movement to revitalize <span aria-label="olelo">&#699;&#333;lelo</span> <span aria-label="Hawaii">Hawai&#699;i</span> and encourage the use of the language in everyday life.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/04/free-olelo-hawaii-fairs/">Free ʻōlelo Hawaiʻi fairs set across Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/04/free-olelo-hawaii-fairs/>
+
+---
+
+## Speak up on student hunger and housing: take the basic needs survey
+
+date: 2025-02-05, from: University of Hawaiʻi News
+
+<p>Data from the survey will be used to improve student support programs.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/04/survey-on-student-hunger-and-housing/">Speak up on student hunger and housing: take the basic needs survey</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/04/survey-on-student-hunger-and-housing/>
+
+---
+
+## UH Maui College recruits those looking to help with recovery
+
+date: 2025-02-05, from: University of Hawaiʻi News
+
+<p>The University of Hawaiʻi Maui College began recruiting for the 2025 cohort of the Maui Strong Fellowship Program.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/04/maui-college-to-help-with-recovery/"><abbr>UH</abbr> Maui College recruits those looking to help with recovery</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/04/maui-college-to-help-with-recovery/>
+
+---
+
+## UH President Hensel to address Executive Orders’ impact—Livestream available
+
+date: 2025-02-05, from: University of Hawaiʻi News
+
+<p>Her address will be livestreamed on Thursday, February 6, at 10:30 a.m.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/04/president-hensel-to-address-executive-orders-impact/"><abbr>UH</abbr> President Hensel to address Executive Orders’ impact—Livestream available</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/04/president-hensel-to-address-executive-orders-impact/>
+
+---
+
+## Research with impact: UH Mānoa experts engage lawmakers, public on key issues
+
+date: 2025-02-05, from: University of Hawaiʻi News
+
+<p>Attendees engaged with research projects spanning environmental conservation, sustainability, <abbr>AI</abbr> technology and more.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/04/uh-manoa-research-day-2025/">Research with impact: <abbr>UH</abbr> Mānoa experts engage lawmakers, public on key issues</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/04/uh-manoa-research-day-2025/>
+
+---
+
+## Dinosaurs roar to life at ʻImiloa
+
+date: 2025-02-04, from: University of Hawaiʻi News
+
+<p><em>Expedition Dinosaur: Into the Deep</em> runs from February 7 through May at <span aria-label="Imiloa">&#699;Imiloa</span> Astronomy Center.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/04/dinosaurs-at-imiloa/">Dinosaurs roar to life at ʻImiloa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/04/dinosaurs-at-imiloa/>
+
+---
+
+## Navigating the 21st-century digital landscape: In the CNMI, the public library matters more than ever
+
+date: 2025-02-04, from: Pacific Island Times
+
+To date, the Joeten-Kiyu Public Library in Susupe has issued 46,410 library cards in a territory with a population of 49,796. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/navigating-the-21st-century-digital-landscape-in-the-cnmi-the-public-library-matters-more-than-eve>
+
+---
+
+## Reimagining Guam tourism
+
+date: 2025-02-04, from: Pacific Island Times
+
+Today, there is a flurry of planning to regain the pre-pandemic number—between 1.3 million and 1.6 million. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/reimagining-guam-tourism>
+
+---
+
+## February is Career and Technical Education Month
+
+date: 2025-02-04, updated: 2025-02-05, from: Marianas Variety
+
+(PSS) — On Friday, Jan. 31, the Board of Education declared February as Career and Technical Education Month, joining the rest of the nation in celebrating the achievements and contributions of CTE programs. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/february-is-career-and-technical-education-month/article_d66a60a0-e2f3-11ef-baa7-8702727b9a21.html>
+
+---
+
+## FMS installs new Student Council Advisory Panel
+
+date: 2025-02-04, updated: 2025-02-05, from: Marianas Variety
+
+(PSS) — Francisco M. Sablan Middle School installed its Student Council Advisory Panel on Jan. 27, emphasizing the critical role that student leaders play in creating a supportive learning environment. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/fms-installs-new-student-council-advisory-panel/article_65d3ed52-e2f3-11ef-b10d-7768e9552be5.html>
+
+---
+
+## Despite Australia’s strict social media ban for minors, a YouTube exemption poses risks
+
+date: 2025-02-04, updated: 2025-02-05, from: Marianas Variety
+
+SYDNEY (Reuters) — Australia's government carved out an exemption for YouTube when it passed laws banning social media access for children under 16, but some mental health and extremism experts say the video-sharing website exposes them to addictive and harmful content. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/despite-australia-s-strict-social-media-ban-for-minors-a-youtube-exemption-poses-risks/article_9e25fcde-e2ff-11ef-87dc-330418296db0.html>
+
+---
+
+## US judge extends pause on Trump’s plan to freeze federal grants, loans
+
+date: 2025-02-04, updated: 2025-02-05, from: Marianas Variety
+
+WASHINGTON (Reuters) — A U.S. judge on Monday extended a pause on the Trump administration's plan to freeze federal loans, grants and other financial assistance, saying it may have "run roughshod" over Congress's constitutional authority over government spending. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/us-judge-extends-pause-on-trump-s-plan-to-freeze-federal-grants-loans/article_2b0d242a-e2ff-11ef-9cbf-c3a524acce8c.html>
+
+---
+
+## Trial court to hold public jury draw on Feb. 7
+
+date: 2025-02-04, updated: 2025-02-05, from: Marianas Variety
+
+(CNMI Superior Court) — Pursuant to 7 CMC § 3106, notice is hereby given that the clerk of the Superior Court will be publicly drawing prospective jurors for Panels 25AS, 25BS, 25CS, 25DS, 25ES, 25FS, 25GS, 25HS, 25IS, 25JS, 25KS, 25LS, 25MS, 25NS, 25OS, 25PS, 25QS, 25RS, 25SS, 25TS, 25US, 25VS, 25WS, 25XS, 25YS, and 25ZS on Feb. 7, 2025 at 10 a.m. before Associate Judge Joseph N. Camacho in Courtroom 220A of the Commonwealth of the Northern Marianas Superior Court. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/trial-court-to-hold-public-jury-draw-on-feb-7/article_ff3b4b0a-e2ff-11ef-b78d-9765707a5019.html>
+
+---
+
+## Red flags at 3 Saipan sites
+
+date: 2025-02-04, updated: 2025-02-05, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan’s west coast recreational beaches and storm drainages every week. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/red-flags-at-3-saipan-sites/article_44694fa6-e300-11ef-8867-1f0e204600b8.html>
+
+---
+
+## China launches limited tariffs after Trump imposes sweeping new levies
+
+date: 2025-02-04, updated: 2025-02-05, from: Marianas Variety
+
+WASHINGTON/BEIJING (Reuters) — China imposed targeted tariffs on American imports on Tuesday and put several U.S. companies, including Google, on notice for possible sanctions, in a measured response to the sweeping duties on Chinese imports imposed by President Donald Trump. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/china-launches-limited-tariffs-after-trump-imposes-sweeping-new-levies/article_91db7db2-e2f2-11ef-9d89-573cebf0350f.html>
+
+---
+
+## Saipan Community School STEM Fair Open House on Feb. 7
+
+date: 2025-02-04, updated: 2025-02-05, from: Marianas Variety
+
+(SCS) — Join us in celebrating the wonders of science and engineering at the Saipan Community School STEM Fair! This exciting event invites you to explore the innovative projects our students have created using the Scientific method and engineering design process. Mark your calendars for Feb. 7, 2025, and don't miss the Open House from 5 p.m. to 6 p.m. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/saipan-community-school-stem-fair-open-house-on-feb-7/article_ef1ca6c2-e2f2-11ef-838f-038d4013bc84.html>
 
 ---
 
@@ -258,6 +770,34 @@ date: 2025-02-04, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/02/04/nation-world-news/news-in-brief-february-4/>
+
+---
+
+## Kilauea eruption resumes for 8th time
+
+date: 2025-02-04, from: Hawaii Tribune Harold
+
+
+				<p>Kilauea&#8217;s ongoing eruption resumed again Monday night at about 10 p.m. and was fountaining this morning from the north vent in Halema&#699;uma&#699;u crater.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/04/hawaii-news/kilauea-eruption-resumes-for-8th-time/>
+
+---
+
+## Motorcyclist dies after crashing into dump truck in Pahoa
+
+date: 2025-02-04, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating a fatal traffic collision Monday afternoon involving a motorcycle and a dump truck that occurred just south of the Pahoa Police Station.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/04/hawaii-news/motorcyclist-dies-after-crashing-into-dump-truck-in-pahoa/>
 
 ---
 

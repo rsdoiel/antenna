@@ -1,17 +1,611 @@
 ---
 title: columns
-updated: 2025-02-04 09:32:30
+updated: 2025-02-05 07:07:17
 ---
 
 # columns
 
-(date: 2025-02-04 09:32:30)
+(date: 2025-02-05 07:07:17)
+
+---
+
+##  This Changes Everything 
+
+date: 2025-02-05, updated: 2025-02-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/this-changes-everything>
+
+---
+
+##  &#8220;A self-coup, also called an autocoup&#8230;is a form of coup d&#8217;état in... 
+
+date: 2025-02-05, updated: 2025-02-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046140-a-self-coup-also-called-a>
+
+---
+
+## On Generative AI Security
+
+date: 2025-02-05, updated: 2025-02-02, from: Bruce Schneier blog
+
+<p>Microsoft&#8217;s AI Red Team just published &#8220;<a href="https://airedteamwhitepapers.blob.core.windows.net/lessonswhitepaper/MS_AIRT_Lessons_eBook.pdf">Lessons from<br />
+Red Teaming 100 Generative AI Products</a>.&#8221; Their <a href="https://www.microsoft.com/en-us/security/blog/2025/01/13/3-takeaways-from-red-teaming-100-generative-ai-products/">blog post</a> lists &#8220;three takeaways,&#8221; but the eight lessons in the report itself are more useful:</p>
+<blockquote>
+<ol>
+<li>Understand what the system can do and where it is applied.</li>
+<li>You don&#8217;t have to compute gradients to break an AI system.</li>
+<li>AI red teaming is not safety benchmarking.</li>
+<li>Automation can help cover more of the risk landscape.</li>
+<li>The human element of AI red teaming is crucial.</li>
+<li>Responsible AI harms are pervasive but difficult to measure.</li>
+<li>LLMs amplify existing security risks and introduce new ones...</li></ol></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/on-generative-ai-security.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-05, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/08/26/cuckoo.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I possibly was a bit hasty in <a href="http://scripting.com/2025/02/04.html#a204729">declaring the coup over</a> yesterday. I'm sure there will be new restraining orders from the courts telling Musk to stop, and so far Trump has been obeying those, so there's some hope when that happens he'll order Musk to stop, and then we'll find out who the boss is and how our new post-coup reality works. The shock of Trump's <a href="https://www.bbc.com/news/articles/c9w5q8qn59yo">plan for Gaza</a>, announced yesterday may get even the most "loyal" Repubs in Congress to think again about what hell they hath wrought on they country they all grew up in. I have some faith that American values are installed in their personal operating systems, somewhere in there is the remnant of the ideals of the Constitution. So I might have missed the mark, I hope I did. Meanwhile I wonder if Musk's wonderboys have managed to penetrate the military, and if they're planning on giving them orders about how to restrain the anti-Musk protests that are starting to break out around the country. Oh mama we live in <a href="https://en.wikipedia.org/wiki/May_you_live_in_interesting_times">interesting times</a>. 
+
+<br> 
+
+<http://scripting.com/2025/02/05.html#a091604>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-05, from: Dave Winer's Scripting News)
+
+I updated the <a href="https://bsky.app/profile/devs.feediverse.org">Developers account</a> on Bluesky to follow Tim Bray, Simon Willison, Techdirt, Manton Reece and Cory Doctorow. I took my feeds off the list, and added other developer accounts I regularly read. I'm trying to bootstrap something here, to see what can be done, and feel it's important to take myself out of the list for now. 
+
+<br> 
+
+<http://scripting.com/2025/02/05.html#a091351>
+
+---
+
+## Office Hours: Where the hell are the Democrats? 
+
+date: 2025-02-05, from: Robert Reich's blog
+
+What should Democratic lawmakers do now? 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-what-should-democratic>
+
+---
+
+## curl 8.12.0
+
+date: 2025-02-05, from: Daniel Stenberg Blog
+
+Release presentation Numbers the 264th release8 changes56 days (total: 9,819)244 bugfixes (total: 11,417)367 commits (total: 34,180)2 new public libcurl function (total: 96)0 new curl_easy_setopt() option (total: 306)1 new curl command line option (total: 267)65 contributors, 34 new (total: 3,332)34 authors, 18 new (total: 1,341)3 security fixes (total: 164) Security CVE-2025-0167: netrc and default credential leak. &#8230; <a href="https://daniel.haxx.se/blog/2025/02/05/curl-8-12-0/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.12.0</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/02/05/curl-8-12-0/>
+
+---
+
+## February 4, 2025 
+
+date: 2025-02-05, from: Heather Cox Richardson blog
+
+Shortly after 1:00 this morning, Vittoria Elliott, Dhruv Mehrotra, Leah Feiger, and Tim Marchman of Wired reported that, according to three of their sources, &#8220;[a] 25-year-old engineer named Marko Elez, who previously worked for two Elon Musk companies [SpaceX and X], has direct access to Treasury Department systems responsible for nearly all payments made by the US government.&#8221; 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-4-2025>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-02-05, from: Ryan Gantz Bluesky feed)
+
+the solution? we build a mall 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lhfkt3i3rs2d>
+
+---
+
+## The 70% Rule
+
+date: 2025-02-05, from: Tracy Durnell Blog
+
+Oliver Burkeman&#8216;s latest email seems written for me, in that it sounds terrifying: The 70% rule: If you’re roughly 70% happy with a piece of writing you’ve produced, you should publish it. Moving forward at 70% takes more guts, more strength of character, than holding out for 100%, because it entails moving forward amid uncertainty, [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/02/04/the-70-rule/>
+
+---
+
+## Wednesday 5 February, 2025
+
+date: 2025-02-05, from: John Naughton's online diary
+
+HenryGate A group of Chinese tourists I noticed yesterday contemplating the Great Gate of Trinity College — and no doubt wondering who is the cove in the alcove half-way up the structure. He is none other than Henry VIII, who, &#8230; <a href="https://memex.naughtons.org/wednesday-5-february-2025/40407/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-5-february-2025/40407/>
+
+---
+
+## Tim Sweeney on the Apps With Porn in Apple’s App Store
+
+date: 2025-02-05, updated: 2025-02-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://x.com/timsweeneyepic/status/1886649436685693082>
+
+---
+
+##  FAIR calls out some of the shoddy coverage on the 2025 Coup... 
+
+date: 2025-02-04, updated: 2025-02-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046139-fair-calls-out-some-of>
+
+---
+
+## AltStore PAL Is Free of Charge, Thanks to ‘MegaGrant’ From Epic Games
+
+date: 2025-02-04, updated: 2025-02-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://x.com/altstoreio/status/1823826343085433226>
+
+---
+
+##  I&#8217;m a Federal Worker. Elon Musk&#8217;s Government Data Heist Is the Entire... 
+
+date: 2025-02-04, updated: 2025-02-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046138-im-a-federal-worker-elon>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-04, from: Miguel de Icaza Mastondon feed)
+
+<p>My latest obsession: rewriting the Animation&#39;s Tab in Godot for iPad.    It only added a month delay to the release - so not too shabby!</p><p><a href="https://blog.la-terminal.net/xogot-animations-tab/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/xogot-ani</span><span class="invisible">mations-tab/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113948037540578084>
+
+---
+
+## 2025-01-31 BorgBackup for the laptop and the server
+
+date: 2025-02-04, from: Alex Schroeder's Blog
+
+<h1 id="2025-01-31-borgbackup-for-the-laptop-and-the-server">2025-01-31 BorgBackup for the laptop and the server</h1>
+
+<p>A few days ago I mentioned the <a href="https://alexschroeder.ch/view/2025-01-27-rsync-sqlite">rsync-based backup script</a> I use to copy data from the server to the laptop.</p>
+
+<p>The backup script that makes backups of my laptop (including the backup from the server) to external disks is different, however.</p>
+
+<p>My actual backup uses external disks. I have two of them. One of them is always at the office. Every now and then (not often enough!) I make a backup to the external disk I have at hand and then I carry it to the office and bring the other one back. That is, the laptop and the two external disks are never in the same location.</p>
+
+<p>The two external disks I use are &ldquo;known backup disks&rdquo;. When I plug them in, BorgBackup immediately starts making a backup.
+I discussed this setup <a href="2017-12-24_Borg_Backup">back in 2017</a>.</p>
+
+<p>I&rsquo;m just going to repost the stuff and I don&rsquo;t think there have been any significant changes.</p>
+
+<p>Run commands and create files as root.</p>
+
+<p>Either use <code>sudo</code> for every command you run, or use <code>sudo su</code> once and do everything as root.
+No matter how you do it, the danger zone awaits!</p>
+
+<h2 id="mnt-backup"><code>/mnt/backup</code></h2>
+
+<p>Create the mount point on the laptop:</p>
+
+<pre><code>mkdir /mnt/backup
+</code></pre>
+
+<h2 id="etc-fstab"><code>/etc/fstab</code></h2>
+
+<p>Any disk labeled “Backup” will be mounted as <code>/mnt/backup</code>:</p>
+
+<pre><code>LABEL=Backup /mnt/backup auto nosuid,nodev,nofail,noauto,x-gvfs-show 0 0
+</code></pre>
+
+<h2 id="etc-backups-40-backup-rules"><code>/etc/backups/40-backup.rules</code></h2>
+
+<p>Install a symlink to this file:</p>
+
+<pre><code>ln -s /etc/backups/40-backup.rules \
+      /etc/udev/rules.d/40-backup.rules
+</code></pre>
+
+<p>The file content:</p>
+
+<pre><code>ACTION==&quot;add&quot;, SUBSYSTEM==&quot;bdi&quot;, DEVPATH==&quot;/devices/virtual/bdi/*&quot;, TAG+=&quot;systemd&quot;, ENV{SYSTEMD_WANTS}=&quot;automatic-backup.service&quot;
+</code></pre>
+
+<p>This makes sure that the service <code>automatic-backup</code> starts whenever an external disk gets plugged into the laptop.</p>
+
+<h2 id="etc-backups-automatic-backup-service"><code>/etc/backups/automatic-backup.service</code></h2>
+
+<p>Install a symlink to this file:</p>
+
+<pre><code>ln -s /etc/backups/automatic-backup.service \
+      /etc/systemd/system/automatic-backup.service
+</code></pre>
+
+<p>The service does nothing except start the <code>run.sh</code> shell script.</p>
+
+<pre><code>[Service]
+Type=oneshot
+ExecStart=/etc/backups/run.sh
+</code></pre>
+
+<h2 id="etc-backups-backup-disks"><code>/etc/backups/backup.disks</code></h2>
+
+<p>The <code>run.sh</code> below runs for every external disk plugged in.
+It&rsquo;s important to only make backups to known backup disks, however.</p>
+
+<p>The known backup disks are identified by their <code>uuid</code> in the <code>backup.disks</code> file.</p>
+
+<p>To list the disk labels and their <code>uuid</code>:</p>
+
+<pre><code>lsblk -o+uuid,label
+</code></pre>
+
+<p>Add the <code>uuid</code> to the <code>/etc/backups/backup.disks</code> file.</p>
+
+<p>This is the content of the file identifying my backup disks, for example:</p>
+
+<pre><code># generate using: lsblk -o+uuid,label
+7c478832-5d7f-43d3-9b79-20cfc67fb0e6
+bb1c034e-dd21-48e7-a496-1b95685a094d
+156cf4df-aa58-421e-b3d0-583fe6fdff4a
+</code></pre>
+
+<p>If you create your copy of the file, your uuids will be different!</p>
+
+<p>When you run <code>lsblk -o+uuid,label</code> you&rsquo;ll also see the device itself. In my case, that&rsquo;s <code>/dev/sdb</code>.
+Create a BorgBackup repository on the new disk, mount it, create the directory and initialize the repository.</p>
+
+<p>When initializing the repository, you&rsquo;re asked for a passphrase. You will need it for the <code>run.sh</code> script.</p>
+
+<pre><code>mount /dev/sdb /mnt/backup
+mkdir /mnt/backup/borg-backups
+borg init --encryption=repokey --progress /mnt/backup/borg-backups/backup.borg
+umount /mnt/backup
+</code></pre>
+
+<p>Make sure the disk has the correct label!
+You can do this from the command-line but I used <a href="https://apps.gnome.org/en/DiskUtility/">Disks</a>.</p>
+
+<h2 id="etc-backups-run-sh"><code>/etc/backups/run.sh</code></h2>
+
+<p>Now we&rsquo;re ready for the actual script. It checks whether a known backup disk is mounted under <code>/mnt/backup</code> and if so, it creates a new archive in the repository.</p>
+
+<p>Don’t forget to search for <code>BORG_PASSPHRASE</code> and change it to whatever you used when you ran <code>borg init</code> above!</p>
+
+<p>Hide the passphrase from everybody else and to make it executable:</p>
+
+<pre><code>chmod 0700 run.sh
+</code></pre>
+
+<p>This the content of the shell script:</p>
+
+<pre><code>#!/bin/bash -ue
+
+# The udev rule is not terribly accurate and may trigger our service before
+# the kernel has finished probing partitions. Sleep for a bit to ensure
+# the kernel is done.
+#
+# This can be avoided by using a more precise udev rule, e.g. matching
+# a specific hardware path and partition.
+sleep 5
+
+#
+# Script configuration
+#
+
+# The backup partition is mounted there
+MOUNTPOINT=/mnt/backup
+
+# This is the location of the Borg repository
+TARGET=$MOUNTPOINT/borg-backups/backup.borg
+
+# This is the file that will later contain UUIDs of registered backup drives
+DISKS=/etc/backups/backup.disks
+
+# Find whether the connected block device is a backup drive
+for uuid in $(lsblk --noheadings --list --output uuid)
+do
+        if grep --quiet --fixed-strings $uuid $DISKS; then
+                break
+        fi
+        uuid=
+done
+
+if [ ! $uuid ]; then
+        echo &quot;No backup disk found, exiting&quot;
+        exit 0
+fi
+
+echo &quot;Disk $uuid is a backup disk&quot;
+partition_path=/dev/disk/by-uuid/$uuid
+# Mount file system if not already done. This assumes that if something is already
+# mounted at $MOUNTPOINT, it is the backup drive. It won't find the drive if
+# it was mounted somewhere else.
+(mount | grep $MOUNTPOINT) || mount $partition_path $MOUNTPOINT
+drive=$(lsblk --inverse --noheadings --list --paths --output name $partition_path | head --lines 1)
+echo &quot;Drive path: $drive&quot;
+
+#
+# Create backups
+#
+
+# Set BORG_PASSPHRASE or BORG_PASSCOMMAND somewhere around here, using export,
+# if encryption is used.
+export BORG_PASSPHRASE=&quot;*secret*&quot;
+
+# No one can answer if Borg asks these questions, it is better to just fail quickly
+# instead of hanging.
+export BORG_RELOCATED_REPO_ACCESS_IS_OK=no
+export BORG_UNKNOWN_UNENCRYPTED_REPO_ACCESS_IS_OK=no
+
+echo Backup melanobombus
+borg create \
+     --stats \
+     --one-file-system \
+     --compression lz4 \
+     --show-version \
+     --exclude /proc \
+     --exclude /dev \
+     --exclude /sys \
+     --exclude /tmp \
+     --exclude /mnt \
+     --exclude /media \
+     --exclude /home/alex/.cache \
+     --exclude /root/.cache \
+     --exclude /var/cache \
+     --exclude /var/log \
+     --exclude /run/user/1000/gvfs \
+     $TARGET::{utcnow}-{hostname} \
+     /
+
+echo Prune melanobombus
+borg prune \
+     --stats \
+     --list \
+     --show-rc \
+     --keep-daily    7 \
+     --keep-weekly   4 \
+     --keep-monthly  6 \
+     --glob-archives '*-{hostname}' \
+     $TARGET
+
+# Just to be completely paranoid
+sync
+
+if [ -f /etc/backups/autoeject ]; then
+    umount $MOUNTPOINT
+    hdparm -Y $drive
+fi
+
+if [ -f /etc/backups/backup-suspend ]; then
+    systemctl suspend
+fi
+</code></pre>
+
+<h2 id="check-the-logs">Check the logs!</h2>
+
+<p>Check the log while the backup is being written:</p>
+
+<pre><code>journalctl --follow --unit automatic-backup
+</code></pre>
+
+<p>Make sure the backup disk is identified correctly and look at the sizes of the archives. If they&rsquo;re too small, check whether the archives contain the right files!</p>
+
+<p><a class="tag" href="/search/?q=%23Backup">#Backup</a> <a class="tag" href="/search/?q=%23Administration">#Administration</a></p>
+
+<p><strong>2025-02-04</strong>. A reader sent me an email saying: “you may
+want to call <code>borg compact</code> after <code>borg prune</code> in order to actually free
+up the disk space corresponding to the pruned archives.  Otherwise your
+backup repo will keep growing in size.”</p>
+
+<p>Good point. I think in my case it doesn’t matter because I don’t use the disk space for anything else (and surely Borg will reuse it). But who knows. Your situation might be different.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-01-31-backup>
+
+---
+
+##  Mike Masnick: Some Conservatives Admit We&#8217;re In A Constitutional Crisis. &#8220;It&#8217;s about... 
+
+date: 2025-02-04, updated: 2025-02-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046137-mike-masnick-some-conserv>
+
+---
+
+##  Personal Discretion Over the Treasury&#8217;s Payments System Means the End of Democracy.... 
+
+date: 2025-02-04, updated: 2025-02-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046136-personal-discretion-over->
+
+---
+
+##  Why It Matters That Musk Has Taken Control of Key Government Operations 
+
+date: 2025-02-04, updated: 2025-02-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/why-it-matters-that-musk-has-taken-control-of-key-government-operations>
+
+---
+
+## February 3, 2025
+
+date: 2025-02-04, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156485602/3a52e7a3e8cde4c0c63133733dc1f8ed.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156485602/3a52e7a3e8cde4c0c63133733dc1f8ed.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-3-2025-b57>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2025-02-04, from: Dave Winer's Scripting News)
 
-Freaky warning. As easily as Musk can turn off government websites, he can turn off our sites. He could turn off all .com or .org sites. He'll probably do it just that way. Only one domain will work in the future, x.com. Goodby Google, Amazon, your drug store. Bubuy. Not sure if moving your DNS to Europe or Asia will make a difference. He's taking advantage of centralization, and will try to make it more centralized. Totally centralized. A journalist couldn't report this, because what proof do I have? It's because there's a pattern here. And it's pretty obvious the tools he's using. 
+<a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lhepyeovhk2f">The coup is over</a>. This time, unlike the <a href="https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack">last time</a> it was tried, it worked. We're in the post-coup world now. He showed us exactly what he would do if he could and we somehow collectively acted as if he hadn't shown us. Sanewashing was just the tip of the iceberg, you can't blame it on the press, we didn't demand they get their shit together, we didn't try to change the subject so they'd have to tell the real story. We had a lot of tools available to us that we didn't use because we are lazy and selfish. BTW, if you want to follow the power, don't look at what governments do, look at what the other oligarchs do. Google, Apple, Amazon, Facebook, etc. 
+
+<br> 
+
+<http://scripting.com/2025/02/04.html#a204729>
+
+---
+
+##  The Verge interviewed federal employees about the chaos they&#8217;re seeing. &#8220;Many workers... 
+
+date: 2025-02-04, updated: 2025-02-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046134-the-verge-interviewed-fed>
+
+---
+
+##  &#8216;Fuck That&#8217;: Federal Workers Say They&#8217;re Scared But &#8216;Digging In&#8217; Amid Trump&#8217;s... 
+
+date: 2025-02-04, updated: 2025-02-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046133-fuck-that-federal-workers>
+
+---
+
+## ★ ‘Hot Tub’, a Hardcore Porn App for iOS, Hits AltStore in the E.U.
+
+date: 2025-02-04, updated: 2025-02-04, from: Daring Fireball
+
+So, no, Apple neither approves of Hot Tub in particular, nor the ability to distribute native porn apps in general. Everyone involved with both AltStore and Hot Tub knows this, but they also know that framing it as though notarization conveys approval is a good way to get headlines. 
+
+<br> 
+
+<https://daringfireball.net/2025/02/hot_tob_hardcore_porno_app_eu>
+
+---
+
+##  The 2025 Coup (Derogatory) 
+
+date: 2025-02-04, updated: 2025-02-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/the-2025-coup-derogatory>
+
+---
+
+##  Here is some good news: the white nationalist terrorist group Proud Boys... 
+
+date: 2025-02-04, updated: 2025-02-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046131-here-is-some-good-news>
+
+---
+
+## Dithering
+
+date: 2025-02-04, updated: 2025-02-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://dithering.fm/>
+
+---
+
+## What Trump ignores
+
+date: 2025-02-04, from: Robert Reich's blog
+
+While he tries for subservience from other world leaders, he&#8217;s turning his back on the real problems of America. 
+
+<br> 
+
+<https://robertreich.substack.com/p/what-trump-ignores>
+
+---
+
+##  Trump & Musk have discussed placing &#8220;spies&#8221; in gov&#8217;t offices to root... 
+
+date: 2025-02-04, updated: 2025-02-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046130-trump-musk-have-discussed>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-04, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/08/17/dewey.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Freaky warning. As easily as Musk can turn off government websites, he can turn off our sites. He could turn off all .com or .org sites. He'll probably do it just that way. Only one domain will work in the future, x.com. Goodbye Google, Amazon, your drug store. Bubye. Not sure if moving your DNS to Europe or Asia will make a difference. He's taking advantage of centralization, and will try to make it more centralized. Totally centralized. A journalist couldn't report this, because what proof do I have? It's because there's a pattern here. And it's pretty obvious the tools he's using. 
 
 <br> 
 
@@ -31,7 +625,7 @@ Freaky warning. As easily as Musk can turn off government websites, he can turn 
 
 **@Dave Winer's Scripting News** (date: 2025-02-04, from: Dave Winer's Scripting News)
 
-I was just setting up an account for another Feed Reader experiment on Bluesky and found that they have a Suggested User List that recommended the usual people who get in the way of telling the story that's really happening. I had a sinking feeling in my stomach, really felt it. We went through this with Twitter, it created influencers based on how loyal they were to the people who run Twitter, people who overlooked the obvious flaws in the system. We're living with their influence to this day, they have a million followers, completely manufactored by fealty to the owners. I swear to god these systems have to be publicly owned. The idea of turning to tech insiders to run them has run its course, don't you think. Over on Facebook this morning I saw an old friend with a cute meme that says people should paste swastika stickers on Teslas. That's nice. The reason you can get away with that is that you're attacking innocent people. More of the same. Of course <i>publicly owned</i> now means Musk Owned. See how things have changed, so quickly. 
+I was just setting up an account for another Feed Reader experiment on Bluesky and found that they have a <a href="https://www.google.com/search?q=site%3Ascripting.com+%22Suggested+User+List%22">Suggested User List</a> that recommended the usual people who get in the way of telling the story that's really happening. I had a sinking feeling in my stomach, really felt it. We went through this with Twitter, it created influencers based on how loyal they were to the people who run Twitter, people who overlooked the obvious flaws in the system. We're living with their influence to this day, they have a million followers, completely manufactored by fealty to the owners. I swear to god these systems have to be publicly owned. The idea of turning to tech insiders to run them has run its course, don't you think. Over on Facebook this morning I saw an old friend with a cute meme that says people should paste swastika stickers on Teslas. That's nice. The reason you can get away with that is that you're attacking innocent people. More of the same. Of course <i>publicly owned</i> now means Musk Owned. See how things have changed, so quickly. 
 
 <br> 
 
@@ -306,7 +900,7 @@ date: 2025-02-03, from: Stephen Wolfram blog
 
 ## ‘Apple in China’ — New Book by Patrick McGee, Coming in May
 
-date: 2025-02-03, updated: 2025-02-03, from: Daring Fireball
+date: 2025-02-03, updated: 2025-02-04, from: Daring Fireball
 
  
 

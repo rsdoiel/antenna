@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-02-04 09:32:30
+updated: 2025-02-05 07:07:18
 ---
 
 # games
 
-(date: 2025-02-04 09:32:30)
+(date: 2025-02-05 07:07:18)
+
+---
+
+## Switch 2 Nintendo Direct: How to watch Nintendo’s next big reveal
+
+date: 2025-02-05, updated: 2025-02-05, from: Polygon Website
+
+Nintendo officially revealed its next-gen console, Nintendo Switch 2, in January — though the company didn’t say much beyond confirming the Switch 2’s existence, its surprisingly straightforward name, and a 2025 release window in a short teaser video. Thankfully, Nintendo has promised to provide more details about Switch 2 in a dedicated Nintendo Direct presentation [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/452161/switch-2-nintendo-direct-april-2025-date>
+
+---
+
+## Jurassic World Rebirth gives us the Tomb Raider dinosaurs movie
+
+date: 2025-02-05, updated: 2025-02-05, from: Polygon Website
+
+Could you picture Scarlett Johansson as Lara Croft fighting the Tyrannosaurus rex from the original Tomb Raider? Good news: Jurassic World Rebirth is for you, if the movie’s first trailer is any indication. Both a proper sequel in the Jurassic Park/World continuity and a reboot away from the overstuffed locust-filled direction of 2022’s Jurassic World [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sci-fi/519214/jurassic-world-rebirth-trailer>
+
+---
+
+## Everything we know about Switch 2, Nintendo’s next-gen console
+
+date: 2025-02-05, updated: 2025-02-05, from: Polygon Website
+
+After many months, if not years, of leaks and speculation, it’s finally official: Nintendo has announced its next console, and it’s called Nintendo Switch 2. As the name implies, it’s a very similar design to the Switch — a hybrid handheld console with detachable controllers that can be connected to a TV via a dock. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games>
+
+---
+
+## Fortnite’s emote censorship leads to confusion, new insults
+
+date: 2025-02-05, updated: 2025-02-04, from: Polygon Website
+
+If John Wick prances around your virtual dead body with a giant L on his forehead and no one is around to see it, did it really happen? Fortnite players have had to contend with a sillier version of the classic philosophical quandary since mid-2024, when developer Epic Games introduced a setting called “See Confrontational [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite/518674/fortnite-confrontational-emotes-setting-censorship>
+
+---
+
+## Where is Shogun X and Shogun’s Arena location in Fortnite?
+
+date: 2025-02-05, updated: 2025-02-05, from: Polygon Website
+
+Shogun’s Arena is a group of floating islands that appear in Fortnite Chapter 6 Season 1. Shogun’s Arena is a place where you must deal 300 damage to opponents, and it’s the location of the Shogun X boss. It can be quite difficult to get there as its location changes every game, it doesn’t spawn [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/503243/shoguns-arena-location-where-to-find>
+
+---
+
+## Discoveries
+
+date: 2025-02-05, updated: 2025-02-05, from: Polygon Website
+
+At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
+
+---
+
+## When does the second Monster Hunter Wilds open beta start?
+
+date: 2025-02-05, updated: 2025-02-05, from: Polygon Website
+
+Monster Hunter Wilds’s open beta 2 provides another opportunity to test the next of Capcom’s action role-playing series before its launch later this month. While previously there was a staggered rollout starting with PS5 owners, this time all platforms can play from the off, and for those who can’t play over the first set of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/2023/9/7/518782/beta-2-times-dates-second-open>
+
+---
+
+## The status of all Neil Gaiman’s TV and film projects, including Sandman season 2
+
+date: 2025-02-04, updated: 2025-02-04, from: Polygon Website
+
+In the seven months since sexual assault allegations against novelist Neil Gaiman surfaced, Gaiman has largely retreated from the public eye. During that time, there have been a variety of developments around the many TV and film adaptations based on his books. Since the publication of a recent Vulture article about his alleged abuse, Gaiman [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/508776/gaiman-halted-canceled-projects-sandman-netflix-anansi-boys>
 
 ---
 
