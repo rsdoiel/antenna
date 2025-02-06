@@ -1,11 +1,163 @@
 ---
 title: going electric
-updated: 2025-02-06 07:06:31
+updated: 2025-02-06 13:29:05
 ---
 
 # going electric
 
-(date: 2025-02-06 07:06:31)
+(date: 2025-02-06 13:29:05)
+
+---
+
+## Chinese Cars Outsold British Cars In The U.S. Last Year
+
+date: 2025-02-06, from: Inside EVs News
+
+Despite not having Chinese brands in the U.S., we still imported plenty of cars from the country. Over 80,000, in fact.  
+
+<br> 
+
+<https://insideevs.com/news/749872/uk-vs-china-us-market-car-imports/>
+
+---
+
+## Hyundai launches aggressive IONIQ 5 discounts in Korea as EV sales slump
+
+date: 2025-02-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Hyundai-EV-discounts-Korea.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai introduced significant discounts on its top-selling EVs, including the <a href="https://electrek.co/guides/hyundai-ioniq-5/">IONIQ 5</a>, IONIQ 6, and Kona Electric, in South Korea to overcome slumping sales. With government incentives, the IONIQ 5 now starts at just over $30,500 in Hyundai’s home market. Although demand remains strong in the US, Hyundai is still offering big savings opportunities.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="400816" href="https://electrek.co/2025/02/06/hyundai-launches-aggressive-ioniq-5-ev-discounts-korea/#more-400816" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/06/hyundai-launches-aggressive-ioniq-5-ev-discounts-korea/>
+
+---
+
+## Massive EcoFlow phase 2 sale now offering up to $3,398 off power stations, Samsung Bespoke AI Laundry Combo $1,999, more
+
+date: 2025-02-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/EcoFlow-Game-Day-Power-sale-FI.png?w=1600" /></div><p>Leading today’s Green Deals is EcoFlow’s <a href="https://9to5toys.com/2025/02/06/ecoflow-phase-2-game-day-power-sale/">second phase of Game Day Power sale</a> deals, with increased savings up to $3,398, including continuing 15% accessory discounts, new offers, and the 5% in extra savings switching to a threshold minimum. One of the newly added offers is the brand’s <a href="https://9to5toys.com/2025/02/06/ecoflow-phase-2-game-day-power-sale/">DELTA Pro Portable Power Station</a> bundled alongside a smart extra battery and a transfer switch for home breaker backup for <a href="https://9to5toys.com/2025/02/06/ecoflow-phase-2-game-day-power-sale/">$3,499</a>. We also have an appliance sale from Samsung that has dropped the <a href="https://9to5toys.com/2025/02/05/samsung-bespoke-ai-laundry-combo-1999-bonus-savings/">Bespoke AI Laundry Combo</a> All-in-One Washer and Ventless Heat Pump Dryer to <a href="https://9to5toys.com/2025/02/05/samsung-bespoke-ai-laundry-combo-1999-bonus-savings/">$1,999</a>, among other models, with up to $648 in additional saving options. Lastly, we spotted <a href="https://9to5toys.com/2025/02/05/greenworks-crossovert-60v-riding-mower-bundle-4300-low/">Greenworks’ 60V 42-inch CrossoverT</a> Cordless Electric Riding Lawn Mower coming with a larger bundle package of six 8.0Ah batteries and the 42-inch Bin Bagger accessory for a <a href="https://9to5toys.com/2025/02/05/greenworks-crossovert-60v-riding-mower-bundle-4300-low/">$4,300</a> low. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/02/05/lectric-valentines-day-sale-from-999/">Lectric Valentine’s Day</a> e-bike bundle offers, <a href="https://9to5toys.com/2025/02/05/bluetti-flash-sale-handsfree-stations-new-199-low/">Bluetti’s limited-time flash</a> sale, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="400818" href="https://electrek.co/2025/02/06/ecoflow-game-day-power-sale-phase-2-samsung-more/#more-400818" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/06/ecoflow-game-day-power-sale-phase-2-samsung-more/>
+
+---
+
+## Polestar 2 Destroys A Bunch Of Gas Cars In A Real-World Test
+
+date: 2025-02-06, from: Inside EVs News
+
+This would have killed an internal combustion car. 
+
+<br> 
+
+<https://insideevs.com/news/749865/polestar-2-unfazed-by-floods/>
+
+---
+
+## Tesla sales crash in another market and this time, it can’t blame Model Y
+
+date: 2025-02-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Model-Y-2-Along-the-Way-Tablet-CN.png-e1736950646574.jpeg?quality=82&#038;strip=all&#038;w=1392" /></div><p>Australia is the latest market to report a significant drop in Tesla sales for the first month of 2025, and in this case, the automaker can’t blame the Model Y changeover.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="400809" href="https://electrek.co/2025/02/06/tesla-sales-crash-in-another-market-and-this-time-it-cant-blame-model-y/#more-400809" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/06/tesla-sales-crash-in-another-market-and-this-time-it-cant-blame-model-y/>
+
+---
+
+## You've Never Heard Of VinFast's Cutest EV
+
+date: 2025-02-06, from: Inside EVs News
+
+The VinFast Minio Green is part of a four car lineup meant to electrify VinFast's fleet offerings. 
+
+<br> 
+
+<https://insideevs.com/news/749863/vinfast-minio-green-lineup/>
+
+---
+
+## Nissan is scambling to find new EV partners as panic sets in
+
+date: 2025-02-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/07/Nissan-electric-SUV-sales.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After ending its planned EV merger with Honda, <a href="https://electrek.co/guides/nissan/">Nissan</a> is now on the hunt for a new partner to help it recover. To survive the industry’s shift to electric, software-defined vehicles, Nissan could turn to Apple supplier Foxconn.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan" data-layer-viewtype="unknown" data-post-id="400793" href="https://electrek.co/2025/02/06/nissan-scambling-find-new-ev-partners-panic-sets-in/#more-400793" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/06/nissan-scambling-find-new-ev-partners-panic-sets-in/>
+
+---
+
+## Elon Musk-approved Tesla Full Self-Driving dataset doubled: what’s the state of FSD now?
+
+date: 2025-02-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Tesla Full Self-Driving crowdsourced dataset that Elon Musk has approved has doubled since the CEO shared it last month.</p>
+
+
+
+<p>What does it say about the state of Tesla’s Full Self-Driving program now?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="400778" href="https://electrek.co/2025/02/06/elon-musk-approved-tesla-full-self-driving-dataset-doubled-whats-the-state-of-fsd-now/#more-400778" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/06/elon-musk-approved-tesla-full-self-driving-dataset-doubled-whats-the-state-of-fsd-now/>
+
+---
+
+## Is this our first look at the next-gen Chevy Bolt EV? [Video]
+
+date: 2025-02-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/First-look-new-Chevy-Bolt-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>GM’s beloved compact EV will live on. Although the new <a href="https://electrek.co/guides/chevy-bolt/">Chevy Bolt EV</a> will make its first appearance later this year, we might already be getting a look at the upgraded model.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevy-bolt" data-layer-viewtype="unknown" data-post-id="400776" href="https://electrek.co/2025/02/06/first-look-new-chevy-bolt-ev-video/#more-400776" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/06/first-look-new-chevy-bolt-ev-video/>
+
+---
+
+## This Chinese EV Has An Unbelievable Parallel Parking Cheat Code
+
+date: 2025-02-06, from: Inside EVs News
+
+This Chinese EV packs a parallel parking party trick that's so smooth, it would make Michael Jackson jealous. 
+
+<br> 
+
+<https://insideevs.com/news/749754/byd-denza-z9-parking-trick/>
 
 ---
 
@@ -77,7 +229,7 @@ Ford's CEO says EREVs will help overcome the "unsolvable" problems with large ba
 
 date: 2025-02-05, from: Inside EVs News
 
-The economics just don't work right now, he said. 
+The economics just don't work right now for the biggest "utility" vehicles, he said. But Ford's still pressing on with EVs in other ways. 
 
 <br> 
 
@@ -186,6 +338,22 @@ date: 2025-02-05, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/02/05/ev-deals-hard-to-pass-up-leases-under-300-month/>
+
+---
+
+## Here are the best EV deals you can snag for under $300 a month right now
+
+date: 2025-02-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/best-selling-EVs-US-2024.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After a record-breaking year for <a href="https://electrek.co/guides/electric-vehicles/">electric vehicles</a>, automakers are kicking off 2025 with significant discounts. With leases starting under $300 a month, these are some of the best EV deals to take advantage of this February.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-lease" data-layer-viewtype="unknown" data-post-id="400672" href="https://electrek.co/2025/02/05/best-ev-lease-deals-right-now-for-under-300-a-month/#more-400672" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/05/best-ev-lease-deals-right-now-for-under-300-a-month/>
 
 ---
 

@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-02-06 07:06:28
+updated: 2025-02-06 13:29:02
 ---
 
 # games
 
-(date: 2025-02-06 07:06:28)
+(date: 2025-02-06 13:29:02)
+
+---
+
+## Nintendo patent confirms Joy-Con mouse functionality rumored for Switch 2
+
+date: 2025-02-06, updated: 2025-02-06, from: Polygon Website
+
+A patent filed by Nintendo has strengthened rumors that Nintendo Switch 2’s Joy-Con controllers will include mouse functionality. The patent was filed Aug. 1, 2023, but was published Thursday, Feb. 6, 2025. Here’s the full description of the “input device” described in the patent, which seemingly does not specify whether this input device is, in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/520347/nintendo-joy-con-mouse-patent-filed-switch-2-rumor>
+
+---
+
+## Gamefound finished 2024 with 6 of the top 10 tabletop campaigns
+
+date: 2025-02-06, updated: 2025-02-06, from: Polygon Website
+
+Creators looking to raise funds for tabletop projects have more options than ever before, including Gamefound which recently completed its third full year as a direct competitor to the industry leader, Kickstarter. The company tells Polygon that it increased both its revenue and the number of campaigns that succeeded on its platform, but it still [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/520142/gamefound-top-10-biggest-board-game-crowdfund-campaigns>
+
+---
+
+## Not sure about Civ 7? Play Humankind for free instead
+
+date: 2025-02-06, updated: 2025-02-06, from: Polygon Website
+
+In the nine years since the launch of Civilization 6, a handful of contenders have risen to challenge the 4X franchise for the crown. While titles like Millennia may have fallen short of greatness, games like Humankind offer an interesting alternative to Civilization. Everyone is clamoring about the upcoming launch of Civilization 7 on Feb. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/520298/humankind-civilization-civ-7-free-epic-games-store-sale>
+
+---
+
+## The first GOTY 2025 contender has emerged: Kingdom Come: Deliverance 2
+
+date: 2025-02-06, updated: 2025-02-06, from: Polygon Website
+
+We’re barely out of January, and many of the awards ceremonies for 2024 games have yet to take place. But we already have a solid contender for Game of the Year 2025: Kingdom Come: Deliverance 2. The medieval role-playing game from Czech developer Warhorse Studios is solidly planted within a favored genre for the category, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/awards/520012/first-2025-goty-contender-kingdom-come-deliverance-2>
+
+---
+
+## Love Hurts strips the fantasy out of a John Wick action-fantasy setup
+
+date: 2025-02-06, updated: 2025-02-06, from: Polygon Website
+
+2022’s Everything Everywhere All at Once accomplished a lot of things. Writer-directors Daniel Kwan and Daniel Scheinert made the Academy take an action-comedy-fantasy seriously, in spite of the Oscars’ usual disdain for genre movies. (Best Picture and Best Director for a movie featuring a frantic martial arts battle over a butt plug? Unheard of.) It [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/520166/love-hurts-ke-huy-quan-movie-martial-arts>
+
+---
+
+## All egg pan station recipes in Hello Kitty Island Adventure
+
+date: 2025-02-06, updated: 2025-02-06, from: Polygon Website
+
+The egg pan station is one of the many cooking stations in Hello Kitty Island Adventure, and it allows you to cook up crepes and omelets to give to your island companions. The egg pan is really unique in the fact that no single character is associated with it and none of the characters love [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hello-kitty-island-adventure-guides/520159/all-egg-pan-station-recipes-list-unlock-upgrade-quest-requirements>
+
+---
+
+## Sarah Michelle Gellar shares her doubts about the Buffy revival — and why she signed on board
+
+date: 2025-02-06, updated: 2025-02-06, from: Polygon Website
+
+Monday’s news that a Buffy the Vampire Slayer sequel series is in development was met with mixed feelings, as fans (read: me) were torn between excitement at the beloved franchise’s return and hesitation — or outright disbelief — that they could ever do it right. As it turns out, original star Sarah Michelle Gellar shares [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/520352/buffy-tv-reboot-sarah-michelle-gellar>
+
+---
+
+## Zynga sues over copycat puzzle game that’s topping its original in downloads
+
+date: 2025-02-06, updated: 2025-02-06, from: Polygon Website
+
+Take-Two Interactive-owned Zynga is suing over its hyper-casual game Screw Jam, which it says was copied by a company called AdOne, according to a lawsuit reviewed by Polygon. The company released Screw Jam, developed by Rollic Games, on mobile on Dec. 8, 2023 and has since been downloaded more than one million times on the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/520256/screw-jam-zynga-lawsuit>
+
+---
+
+## Roblox suing to shut down third-party trading on PlayerAuctions
+
+date: 2025-02-06, updated: 2025-02-06, from: Polygon Website
+
+Every day, people turn to third-party marketplaces like PlayerAuctions to buy and sell digital goods, be it high-leveled World of Warcraft, rare Fortnite skins, status-building Neopets, or Grand Theft Auto 5 in-game money. On Tuesday, Roblox filed a lawsuit to shut down the buying-and-selling of Roblox digital goods on PlayerAuctions. Third-party marketplaces occupy a grey [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/520139/roblox-lawsuit-playerauctions-trading>
+
+---
+
+## When are the daily and weekly reset times in Hello Kitty Island Adventure?
+
+date: 2025-02-06, updated: 2025-02-06, from: Polygon Website
+
+The Daily reset time in Hello Kitty Island Adventure is the set time every day that things around your island will revert, allowing you to do more and progress further in the game. The daily reset time in this game happens at a set time, no matter where you’re playing from, so depending on your [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hello-kitty-island-adventure-guides/520084/daily-weekly-reset-times-schedule-est-pst>
 
 ---
 

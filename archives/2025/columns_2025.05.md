@@ -1,11 +1,391 @@
 ---
 title: columns
-updated: 2025-02-06 07:06:27
+updated: 2025-02-06 13:29:01
 ---
 
 # columns
 
-(date: 2025-02-06 07:06:27)
+(date: 2025-02-06 13:29:01)
+
+---
+
+##  The Musk staffer who broke into the Treasury Dept system has quit... 
+
+date: 2025-02-06, updated: 2025-02-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046161-the-musk-staffer-who-brok>
+
+---
+
+##  &#8220;The Oligarchs Who Came to Regret Supporting Hitler&#8221; 
+
+date: 2025-02-06, updated: 2025-02-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/the-oligarchs-who-came-to-regret-supporting-hitler>
+
+---
+
+## February 5, 2025
+
+date: 2025-02-06, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156626210/049aff24157058248144a25bbee0ad32.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156626210/049aff24157058248144a25bbee0ad32.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-5-2025-fee>
+
+---
+
+## 2025-02-06 Discord for role-playing games
+
+date: 2025-02-06, from: Alex Schroeder's Blog
+
+<h1 id="2025-02-06-discord-for-role-playing-games">2025-02-06 Discord for role-playing games</h1>
+
+<p>Discord really works well for my gaming. I even pay them. 😬 And as far as finding new players goes: essentially there are some generic servers, some servers for particular games or publishers, and for your tables. So you “look for games” in the first two category of servers and then you send interested parties an invite to the server for your table(s).</p>
+
+<p>It’s a bit weird but it works for me.</p>
+
+<p>I don’t use Discord as a chat or forum in the first two kinds of servers. Way too many people and crazy amount of text flying by! But on those small gaming table server? 🥰</p>
+
+<p>I just look the other way when they ask me about my activities shat they can share what music I listen to and what games I play. No way!</p>
+
+<p>One thing that Discord does better than IRC is help handle the dizzying amount of channels per server (i.e. per publisher, rule set or gaming table); their specific rules; their independent admins; their roles; their selective visibility: channels for certain roles only, for certain people only, group chat (ephemeral private channels); their local bots and automations; media uploads; muting for channels and servers, for certain time periods only or until you reverse your decision. All of this is great.</p>
+
+<p>Yes, you can self-host an IRC server and a web frontend like The Lounge (which I do) and you can get close: many channels, but all are equal: there is no formal grouping, no independent moderation, no independent roles, no independent bots. It’s all one big soup. And if you add some rules via nickserv and chanserv, it might get you all the way but is still quite arcane. What a difference Discord makes. Plus effortless voice chat. 🥰</p>
+
+<p>Yes, voice chat and video chat, on top of all that.</p>
+
+<p>Now, you might think: what a shill! But really: I self-host the inferior-but-free options. I write my bot to connect to both (!) IRC and Discord and free content from the black void that is the endless Discord archives. But I also want things to just work. My time is more precious than the €10 (?) I spend every month. And I had to take down Jitsi because it was too resource intensive. The alternative would have been to upgrade my lousy server and spend more time sysadminning and I don’t want to.</p>
+
+<p>So self-hosted IRC has voice and video only if I leech Jitsi from somebody else, as far as I am concerned.</p>
+
+<p>So I don’t know where to go from here. I just pay them for the service. And I look the other way when they disallow other clients. 😓</p>
+
+<p>But then again: I used Bitlbee for a long time. I even wrote a plugin that lets you connect to your fedi instance as if it was an IRC server and another kind soul wrote a plugin that does the same for Discord. And then you start to realize how unusable this is. I’m on maybe two dozen servers? My account has access to 200+ channels, all of the active, all of them need some sort of mapping to IRC channels? It’s hell. Notifications were out of control. I stopped doing it. So: is Discord shit, or the IRC clients? I don’t know. But I know that Discord is not all bad. It’s definitely not bad as an idea of how to organize a gazillion people.</p>
+
+<p>But I do look the other way when I think about tracking and AI training and data brokering.🖕I don’t even know if they do it but these are the days of zero trust and fucking corpo greed maggot CEOs so it doesn’t really matter what they do specifically because I don’t trust any company to do the right thing. Maybe I’d trust them if they were a non-profit association.</p>
+
+<p>Anyway. Just putting this out there because with Discord I’m playing three or four times a week and I only don’t play more because I do want to get out every now and then. 😆</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%23Social_Media">#Social Media</a> <a class="tag" href="/search/?q=%23Discord">#Discord</a> <a class="tag" href="/search/?q=%23IRC">#IRC</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-02-06-discord>
+
+---
+
+##  Business foot traffic is up within the [NYC] congestion pricing zone. &#8220;People... 
+
+date: 2025-02-06, updated: 2025-02-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046156-business-foot-traffic-is->
+
+---
+
+## ★ Bootable Mac Startup Drive Backups, and Another Ode to SuperDuper
+
+date: 2025-02-06, updated: 2025-02-06, from: Daring Fireball
+
+I know how different storage is today — abundant, cheap, reliable — but I still have feelings about my data that are rooted in the distant past. 
+
+<br> 
+
+<https://daringfireball.net/2025/02/bootable_mac_startup_drive_backups_and_another_ode_to_superduper>
+
+---
+
+## 2025-02-06 Trans rights are human rights
+
+date: 2025-02-06, from: Alex Schroeder's Blog
+
+<h1 id="2025-02-06-trans-rights-are-human-rights">2025-02-06 Trans rights are human rights</h1>
+
+<p>I just read <a href="https://eldritch.cafe/@Tattie/113786790886539212">a post</a> by <a class="account" href="https://eldritch.cafe/@Tattie" title="@Tattie@eldritch.cafe">@Tattie</a> that I’m copying here, with permission:</p>
+
+<h2 id="reminder-to-all-feminists">Reminder to all feminists</h2>
+
+<p>If you accept trans people being defined by their reproductive role&hellip;<br>
+Then men can define all woman by their reproductive role</p>
+
+<p>If you accept that trans teenagers are too young to make decisions about their bodies&hellip;<br>
+Then men can decide teenage girls are too young to make decisions about their bodies</p>
+
+<p>If you accept medical gatekeeping of trans people&rsquo;s access to hormones&hellip;<br>
+Then doctors can restrict any woman&rsquo;s access to HRT and birth control</p>
+
+<p>If you accept stripping trans people of legal protections&hellip;<br>
+Then men can strip women of legal protections</p>
+
+<p>This is the truth of &ldquo;trans rights are human rights&rdquo;.<br>
+Regardless of your personal feelings on whether trans people are &ldquo;really&rdquo; the gender they say they are, the exact same human rights protecting us also underlie women&rsquo;s liberation&ndash; bodily autonomy, dignity, equality of opportunity, and protection from harm.<br>
+And so many men are desperate for those rights to disappear.</p>
+
+<p><a class="tag" href="/search/?q=%23Trans">#Trans</a> <a class="tag" href="/search/?q=%23Human_Rights">#Human Rights</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-02-04-human-rights>
+
+---
+
+## Idea for news orgs
+
+date: 2025-02-06, from: Dave Winer's Scripting News
+
+<p>Do 1000 profiles of federal workers being attacked by Musk.</p>
+<p>Don't use real names. Have AI provide real-looking photos of fictitious people. Explain what they do. Don't focus on their lives. Make readers think of what life will be like without them.</p>
+<p>We should have done this a long time ago, when Reagan said, arrogantly, the government is the problem. </p>
+<p>That should have been rebutted, strongly and regularly.</p>
+<p>We need to learn what they actually do, all of them, at least understand what we're going to live without.</p>
+<p>I asked ChatGPT to try it out. "I want to tell a story about a typical person who works for the US government. It shouldn't be a glamorous job, but an important one. It should improve people's lives, health, happiness, fulfillment. Pick the role at random, as well as gender, age, race, geography. Write a 100 word job description, and  provide a realistic looking profile picture. Nothing about their personal life, or actual name, but it's okay to talk about the required education and experience for the job."</p>
+<p>Here's what it came back with: "An Environmental Health Officer (EHO) plays a crucial role in safeguarding public health by identifying and mitigating environmental hazards. Employed by federal agencies such as the Centers for Disease Control and Prevention (CDC) or the Environmental Protection Agency (EPA), EHOs conduct inspections of facilities like restaurants, swimming pools, and nursing homes to ensure compliance with health regulations. They investigate complaints related to air and water quality, noise, and waste management, and implement measures to prevent disease outbreaks. A bachelor's degree in environmental health or a related field is typically required, with many positions preferring candidates with a master's degree. Professional certification, such as Registered Environmental Health Specialist (REHS), is often preferred. Strong analytical skills, attention to detail, and the ability to communicate effectively are essential for success in this role."</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/02/06/eho1.png"></center>EHO 1</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/02/06/eho2.png"></center>EHO 2</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/02/06/eho3.png"></center>EHO 3</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/06/185008.html?title=ideaForNewsOrgs>
+
+---
+
+## The future belongs to idea guys who can just do things
+
+date: 2025-02-06, from: Geoffrey Hunntley's blog
+
+<p>There, I said it. I seriously can&apos;t see a path forward where the majority of software engineers are doing artisanal hand-crafted commits by as soon as the end of 2026. If you are a software engineer and were considering taking a gap year/holiday this year it would</p> 
+
+<br> 
+
+<https://ghuntley.com/dothings/>
+
+---
+
+##  Resegregation, Coups, Orwell, and the Importance of Precise Language 
+
+date: 2025-02-06, updated: 2025-02-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/resegregation-coups-orwell-and-the-importance-of-precise-language>
+
+---
+
+## The Real Upside of DeepSeek
+
+date: 2025-02-06, from: Om Malik blog
+
+DeepSeek, a company associated with High-Flyer, an $8 billion Chinese hedge fund, changed the AI narrative when it claimed OpenAI-like capabilities for a mere $6 million. The company challenged conventional thinking about artificial intelligence and its seemingly insatiable need for big, bad data centers and billions of dollars in infrastructure and chip investments. This is &#8230; 
+
+<br> 
+
+<https://om.co/2025/02/06/the-meaning-of-deepseek/>
+
+---
+
+##  McSweeney&#8217;s: Here at DOGE, We&#8217;ve Streamlined Every Aspect of America&#8217;s Collapse. &#8220;I... 
+
+date: 2025-02-06, updated: 2025-02-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046155-here-at-doge-weve-streaml>
+
+---
+
+##  A huge list of trans Girl Scouts who are selling Girl Scout... 
+
+date: 2025-02-06, updated: 2025-02-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046154-a-huge-list-of-trans>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-06, from: Dave Winer's Scripting News)
+
+BTW, I found that video using ChatGPT. I had tried explaining it to Google and it didn't understand. ChatGPT found it in an instant. 
+
+<br> 
+
+<http://scripting.com/2025/02/06.html#a160728>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-06, from: Dave Winer's Scripting News)
+
+A great <a href="https://www.youtube.com/watch?v=P4nYgfV2oJA&t=130s">scene in Goodfellas</a> where they explain what it's like to have Paulie the mob boss as a partner. In this scene Paulie is Musk. The restaurant owner is Trump. The United States is the restaurant.
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/06.html#a160338>
+
+---
+
+## On Not Being Immutable
+
+date: 2025-02-06, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK5BRioU4dfjvRLcTC3PfNU4ELV8sWtDVv6DdDtaf734UY2n5Pid0uUy55mrx71LUqyCJ5FvJTj3j12XTx6xKkHW5Il7PT48xEZANDDhPcvvrH4_jb47QSgjFflCl3hJ9RkCX4J0DBB7cZ6hk1O2E9zXFotF3wV3Fx9FxFbiaxdStgfUoi4Z5YXTXV5jVw/s1281/EconomistCover.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1281" data-original-width="960" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK5BRioU4dfjvRLcTC3PfNU4ELV8sWtDVv6DdDtaf734UY2n5Pid0uUy55mrx71LUqyCJ5FvJTj3j12XTx6xKkHW5Il7PT48xEZANDDhPcvvrH4_jb47QSgjFflCl3hJ9RkCX4J0DBB7cZ6hk1O2E9zXFotF3wV3Fx9FxFbiaxdStgfUoi4Z5YXTXV5jVw/w150-h200/EconomistCover.jpg" width="150" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.economist.com/weeklyedition/2025-02-01">Economist 2/1/25</a><br /></td></tr></tbody></table>
+Regulation of cryptocurrencies was an issue in last November's US election. Molly White documented the immense sums the industry devoted to electing a <a href="https://www.citationneeded.news/issue-70/">crypto-friendly Congress</a>, and converting Trump's skepticism into enthusiasm. They had two goals, pumping the price and avoiding any regulation that would hamper them ripping off the suckers.<br />
+<br />
+Back in November of 2022 I added an entry to this blog's list of <a href="https://blog.dshr.org/2022/09/impossibilities.html"><i>Impossibilities</i></a> for <a href="https://datafinnovation.medium.com/the-compliance-innovation-trade-off-72b9f8026f56"><i>The Compliance-Innovation Trade-off</i></a> from the team at ChainArgos. It started:<br />
+<blockquote>
+<i>tl;dr: DeFi cannot be permissionless, allow arbitrary innovation and comply with any meaningful regulations. You can only choose two of those properties. If you accept a limited form of innovation you can have two-and-a-half of them.</i><br />
+<br />
+Fundamental results in logic and computer science impose a trade-off on any permissionless system’s ability to both permit innovation and achieve compliance with non-trivial regulations. This result depends only on long-settled concepts and the assumption a financial system must provide a logically consistent view of payments and balances to users.<br />
+<br />
+This is a semi-technical treatment, with more formal work proceeding elsewhere.
+</blockquote>
+Two years later, the "more formal work" has finally been published in a peer-reviewed Nature Publishing journal, <a href="https://www.nature.com/srep/"><i>Scientific Reports</i></a>, which claims to be the 5<sup>th</sup> most cited journal in the world. Jonathan Reiter tells me that, although the publishing process took two years, it did make the result better.<br />
+<br />
+Below the fold I discuss <a href="https://www.nature.com/articles/s41598-024-84612-9"><i>Tradeoffs in automated financial regulation of decentralized finance due to limits on mutable turing machines</i></a> by Ben Charoenwong, Robert M. Kirby &amp; Jonathan Reiter.<br />
+<span><a name='more'></a></span>
+<br />
+This team were pioneers in applying fundamental computer science theorems to blockchain-based systems, starting in April 2022 with <a href="https://datafinnovation.medium.com/the-consequences-of-scalable-blockchains-8c4d23c6af4d"><i>The Consequences of Scalable Blockchains</i></a> in which they showed that implementing an Ethereum-like system whose performance in all cases is guaranteed to be faster than any single node in the network is equivalent to solving the great unsolved problem in the theory of computation, nicknamed P vs. NP. And thus that if it were implemented, the same technique could break all current cryptography, including that underlying Ethereum.<br />
+<br />
+But, I believe, they were not the first. That appears to have been Tjaden Hess, River Keefer, and Emin Gün Sirer in <a href="https://hackingdistributed.com/2016/06/28/ethereum-soft-fork-dos-vector/"><i>Ethereum's DAO Wars Soft Fork is a Potential DoS Vector</i></a> (28<sup>th</sup> June 2016), which applied the "<a href="https://en.wikipedia.org/wiki/Halting_problem">halting problem</a>" to "smart contracts" when analyzing possible defenses against DOS attacks on a "soft fork" of Ethereum proposed in response to "The DAO".<br />
+<br />
+Charoenwong <i>et al</i>'s abstract <a href="https://doi.org/10.1038/s41598-024-84612-9">states</a>:<br />
+<blockquote>
+We examine which decentralized finance architectures enable meaningful regulation by combining financial and computational theory. We show via deduction that a decentralized and permissionless Turing-complete system cannot provably comply with regulations concerning anti-money laundering, know-your-client obligations, some securities restrictions and forms of exchange control. Any system that claims to follow regulations must choose either a form of permission or a less-than-Turing-complete update facility. Compliant decentralized systems can be constructed only by compromising on the richness of permissible changes. Regulatory authorities must accept new tradeoffs that limit their enforcement powers if they want to approve permissionless platforms formally. Our analysis demonstrates that the fundamental constraints of computation theory have direct implications for financial regulation. By mapping regulatory requirements onto computational models, we characterize which types of automated compliance are achievable and which are provably impossible. This framework allows us to move beyond traditional debates about regulatory effectiveness to establish concrete boundaries for automated enforcement.
+</blockquote>
+They summarize the fundamental problem for the automation of <a href="https://doi.org/10.1038/s41598-024-84612-9">DeFi regulation</a>:<br />
+<blockquote>
+DeFi features some computationally challenging properties: (1) Turing-complete programming, (2) permissionless access to both transact and publish code and (3) selectively immutable code. The permissionless mutability of the system combined with the Turing completeness motivates our inquiry. A system running Turing-complete code where updates can be published permissionlessly cannot make any guarantees about its future behavior, a conclusion from early work on Universal Turing Machines (UTM).
+</blockquote>
+Despite this, they show that if it is possible to enforce <a href="https://doi.org/10.1038/s41598-024-84612-9">less-than-Turing-complete programming</a>:<br />
+<blockquote>
+it is possible to construct both (1) classes of algorithms that can make credible promises and (2) restricted update mechanisms that enable credible promises. In other words, DeFi platforms can provide compliant services like traditional centralized providers through fully automatic mechanisms.
+</blockquote>
+What exaxctly do they mean by "<a href="https://doi.org/10.1038/s41598-024-84612-9">compliant</a>"?<br />
+<blockquote>
+Consider an economy modeled as a Turing Machine, where the machine’s state corresponds to the state of the real economy. We formalize compliance as a property of system state transitions that can be verified mechanically, following Theorem 5.8.5 of Savage.  Specifically, a compliant system is one where no sequence of permitted operations can result in a state that violates predefined regulatory constraints set by an external regulator.
+</blockquote>
+They translate this into <a href="https://doi.org/10.1038/s41598-024-84612-9">economic terms</a>:<br />
+<blockquote>
+For example, if a regulation prohibits transactions with certain addresses, compliance means no sequence of permitted operations can transfer value to those addresses, either directly or indirectly. Similarly a regulator may impose requirements on intermediaries transacting in certain assets or products akin to depository receipts for those assets. Compliance would then require ensuring one does not unknowingly transact in “products akin to depository receipts” for a given list of assets.
+</blockquote>
+Because they model regulated systems in terms of states and the transitions between them, they can apply <a href="https://doi.org/10.1038/s41598-024-84612-9">results from compputer science</a>:<br />
+<blockquote>
+This formulation maps to well-known results in computability, such as the Halting Problem and the more general impossibility known as Rice’s Theorem: No algorithm exists to determine from the description of a [Turing Machine] whether or not the language it accepts falls into any proper subset of the recursively enumerable languages. In other words, we cannot categorize arbitrary programs into specific subsets automatically and reliably. In financial regulation, the canonical “proper subset” is a ban on interacting with a given address: interactions involving a banned address are forbidden, and the acceptable subset of states includes no such transfers.
+</blockquote>
+They proceed to use cryptocurrency "mixers" as an example. They explain that Rice's Theorem means that because any general description of "mixers" defines a "proper subset" of all programs, and thus there is no automatic or reliable method by which a "smart contract" can be assessed against the general description.<br />
+<br />
+Of course, as Justice Potter Stewart famously said "<a href="https://en.wikipedia.org/wiki/I_know_it_when_I_see_it">I know it when I see it</a>". Human regulators will have no difficulty in recognizing a "smart contract" as a mixer, if only because in order to function it needs liquidity. To attract it the "smart contract" needs to advertise its service.  So can the regulators ban interactions with the specific addresses of the mixers they recognize? Charoenwong <i>et al</i> make <a href="https://doi.org/10.1038/s41598-024-84612-9">two arguments</a><br />
+<blockquote>
+First, this severely limits the regulator’s power from regulating a mutable set of protocols to only specific ones. In other words, what is often called “principles-based” regulations (as opposed to rules-based regulations) are impossible. We cannot ban “mixers” generally – we can only ban “mixers A, B and C.” In some sense, this is akin to banning specific means of murder rather than simply banning murder, no matter the means.
+</blockquote>
+Then they introduce the time element inherent in <a href="https://doi.org/10.1038/s41598-024-84612-9">human regulation</a>:<br />
+<blockquote>
+Second, and more importantly, we cannot enforce even these more straightforward rules reliably. Consider these steps:<br />
+<ol>
+<li>Deploy a new, confusingly-coded, “mixer” labeled X</li>
+<li>Send funds to the mixer X</li>
+<li>Withdraw from the mixer X and feed into the mixer A</li>
+<li>Withdraw from the mixer A and feed into the mixer X</li>
+<li>Withdraw from the mixer X and spend freely</li>
+</ol>
+This procedure works because we cannot identify arbitrary mixers, so we are free to deploy and then use them before they get put on the banned list. As a result, the regulator cannot even ban all interaction with enumerated mixers – it can only reliably ban some forms of interaction. This result is a severe limit on regulatory power.<br />
+<br />
+If we consider that compliance exists in an automated form, operating on publicly available data in real-time, anyone accepting that final transfer must operate in a compliant fashion. If, instead, the plan is to decide these things later based on non-mechanical analysis, we are simply operating a conventional legal system with some more computers involved. Concretely, if that last transfer can be ruled illegal after the fact, it was never an automated financial system.
+</blockquote>
+This result generalizes to services other than mixers. Rice's Theorem means it isn't possible to ban a class of services, and banning individual services identified by humans will always be behind the curve.<br />
+<br />
+The authors illustrate the application of their result with real-world examples of <a href="https://doi.org/10.1038/s41598-024-84612-9">regulatory failure</a>:<br />
+<blockquote>
+These case studies-The DAO, Beanstalk Finance, Compound, Terra/LUNA, and MakerDAO-collectively illustrate the practical manifestations of our paper’s theoretical findings. Each example demonstrates a different facet of the challenges in implementing reliable, automated compliance mechanisms in decentralized, Turing- complete systems. From governance attacks to stablecoin collapses and liquidation issues, these incidents underscore the impossibility of guaranteeing specific regulatory outcomes without compromising system flexibility or introducing external interventions.
+</blockquote>
+The authors argue that there are two ways to construct a system that does allow automated regulation, by making it permissioned rather than permissionless, or by enforcing a non-Turing-complete language for the "smart contracts". In practice many cryptocurrencies are permissioned &mdash; in <a href="https://blog.dshr.org/2024/04/decentralized-systems-arent.html"><i>Decentralized Systems Aren't</i></a> I pointed out that:<br />
+<blockquote>
+The fact that the coins ranked 3, 6 and 7 by "market cap" don't even claim to be decentralized shows that decentralization is irrelevant to cryptocurrency users.
+</blockquote>
+There are many examples of cryptocurrency systems that claim to be decentralized but are actually permissioned. Patrick Tan described one in <a href="https://medium.com/chainargos/binance-built-a-blockchain-except-it-didnt-5759224ba7aa"><i>Binance Built a Blockchain, Except it Didn’t</i></a>:<br />
+<blockquote>
+For all its claims of promoting decentralization, Binance runs two “blockchains” that are not just highly centralized, but regularly alter history, undermining one of the core tenets of the blockchain — immutability.
+</blockquote>
+The authors' example of a <a href="https://doi.org/10.1038/s41598-024-84612-9">non-Turing-complete language</a> is:<br />
+<blockquote>
+Consider a scripting language where we cannot have variables. A simple “splitting the tab” contract might look like:<br />
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNRgz5Wcc3tXJJfFQUQ_9jJ06vS-o0TmbHdKvoPx8SvkaNsqwBBE6o8wpoH2TNeqxoQAbVEQYBQft94zKcBy7HO8DsoVxzJm1-Vk9M5ukqAX8L-e8YeF4P9Zlk25GUb82lLgII5ImDaSnPyTYyYgXkZbVfJTKVE7PDHx6WSevfYhyphenhyphenlNaX9TKNksAX_p4uq/s1292/SplitTheTab.png" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="392" data-original-width="1292" height="121" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNRgz5Wcc3tXJJfFQUQ_9jJ06vS-o0TmbHdKvoPx8SvkaNsqwBBE6o8wpoH2TNeqxoQAbVEQYBQft94zKcBy7HO8DsoVxzJm1-Vk9M5ukqAX8L-e8YeF4P9Zlk25GUb82lLgII5ImDaSnPyTYyYgXkZbVfJTKVE7PDHx6WSevfYhyphenhyphenlNaX9TKNksAX_p4uq/w400-h121/SplitTheTab.png" width="400" /></a>
+This is dangerous if we have a regulation that certain addresses cannot be paid. The issues raised surrounding the DAO hack, discussed above, apply here. But what if the only way to transfer a token is to call SendTo and that function looks like:<br />
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis5GTH5H1GMc41uu95_FzidtecuhCDVSrGfzDFlImPZX5Am8tgq4CT5ibQO6wg-NIlMt4aNhXQM4J70GV1O_dJd498TvSXBrW8xHqPX9J_lo80o2Gn60aSQJL6LB4z6gmf0aCD9gQYskTDlzIUKcg7bFGepYe2-nL_xnSR1tcdxnXLVA-RU6y8AId0zSYC/s1014/SendTo.png" style="display: block; padding: 1em 0px; text-align: center;"><img border="0" data-original-height="530" data-original-width="1014" height="167" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis5GTH5H1GMc41uu95_FzidtecuhCDVSrGfzDFlImPZX5Am8tgq4CT5ibQO6wg-NIlMt4aNhXQM4J70GV1O_dJd498TvSXBrW8xHqPX9J_lo80o2Gn60aSQJL6LB4z6gmf0aCD9gQYskTDlzIUKcg7bFGepYe2-nL_xnSR1tcdxnXLVA-RU6y8AId0zSYC/w320-h167/SendTo.png" width="320" /></a>
+There is no issue if a function only calls RealSendTo from SendTo. In such cases, the regulator’s responsibility is to maintain the BannedList, and the system is permissioned.
+</blockquote>
+Their example of a system that is not-Turing-complete is not useful, because it requires BannedList to be a constant. As they point out, if the system is to be useful, BannedList must be a variable that is updated by the regulator, and thus the system is permissioned. It may well be that, because BannedList is a variable, that the system is Turing-complete after all. I can't do the analysis to determine if this is the case, but it is known that even a small number of variables makes a system Turing-complete.<br />
+<br />
+Thus the paper is somewhat misleading, in the sense that it reads as if regulated systems can be either permissioned <b>or</b> not-Turing-complete, but it fails to provide an example of a system that is permissionless and not-Turing-complete. The example that looks as if it is going to be not-Turing-complete but permissionless seems to be permissioned <b>and</b> not-Turing-complete.<br />
+<br />
+I would argue somewhat differently:<br />
+<ul>
+<li>Charoenwong <i>et al</i> show that a permissionless, Turing-complete system cannot be regulated.</li>
+<li>In the real world no-one is going to cripple their system by making it not-Turing-complete.</li>
+<li>Even if a not-Turing-complete system could be built it isn't clear that it would be useful.</li>
+<li>In essence, the regulatory act of enforcing that a system is, and remains, not-Turing-complete <i>is</i> permissioning the system.</li>
+<li>Thus in practice permissionless systems cannot be regulated.</li>
+</ul>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6hjwDMkOxROhlMzdPaW6YdRFy6APUywusainCKLh70ufmNrdO-_8xAq0GnEBY8ta8fwf2lDTi_RvbAocuwxESgb2hHM6DvlXwRObiJY2IXYMGooU4MC78o6oq-gaUbEyN2knH5oKIuK8aNYxS2uIoHZtms3JoVxfm982kKzrMjkTDjwAuDR0cQ366ukYq/s1132/CryptoInflows.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="300" data-original-width="1132" height="85" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6hjwDMkOxROhlMzdPaW6YdRFy6APUywusainCKLh70ufmNrdO-_8xAq0GnEBY8ta8fwf2lDTi_RvbAocuwxESgb2hHM6DvlXwRObiJY2IXYMGooU4MC78o6oq-gaUbEyN2knH5oKIuK8aNYxS2uIoHZtms3JoVxfm982kKzrMjkTDjwAuDR0cQ366ukYq/w320-h85/CryptoInflows.png" width="320" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.ft.com/content/b783ddd9-b8f2-4ac0-874c-89e0153ca6c3">JPMorgan</a><br /></td></tr></tbody></table>
+While Charoenwong <i>et al</i>'s paper is of theoretical interest, in the two years since their initial post it has been overtaken by events.  Craig Coben asks <a href="https://www.ft.com/content/b783ddd9-b8f2-4ac0-874c-89e0153ca6c3"><i>Has Michael Saylor’s ‘infinite money glitch’ run into a hitch?</i></a>:<br />
+<blockquote>
+<a href="https://www.ft.com/content/0ca06172-bfe9-11de-aed2-00144feab49a">Reflexivity</a> has been MicroStrategy’s secret sauce. The company prints equity or equity-linked securities to buy bitcoin, boosting bitcoin’s price, which in turn inflates MicroStrategy valuation. This allows it to issue more stock and repeat the cycle.<br />
+<br />
+This MonoStrategy has enabled MicroStrategy to acquire <a href="https://www.mstr-tracker.com/">2.25 per cent of all bitcoin in existence</a>, a hoard worth around $46bn at current prices. The company trades at nearly double the value of its underlying bitcoin holdings, a testament to belief of some investors in Michael Saylor’s project.<br />
+...<br />
+As long as the stock trades at a premium to its bitcoin holdings, the company can keep issuing novel securities and finding new buyers. Meanwhile, with MicroStrategy comprising a sizeable portion of crypto inflows (28 per cent in 2024, <a href="https://d1e00ek4ebabms.cloudfront.net/production/uploaded-files/chrome_jnUot7ZhN1-55c34936-6e70-4def-b995-30a3c8ea2612.png">according to JPMorgan</a>), it has helped sustain bitcoin’s ascent.
+</blockquote>
+Both our co-Presidents are heavily invested in pumping cryptocurrencies. The new administration is planning to solve the <a href="https://blog.dshr.org/2022/11/greater-fool-supply-chain-crisis.html"><i>Greater Fool Supply-Chain Crisis</i></a> by turning the Federal government into the greater fool of last resort by establishing the <a href="https://www.bloomberg.com/news/articles/2025-02-04/crypto-czar-sacks-is-studying-feasibility-of-us-bitcoin-reserve">strategic Bitcoin reserve</a>. What better greater fool than one who can print his own money? The result is that the <a href="https://www.nytimes.com/2025/02/04/business/sec-crypto-task-force.html"><i>S.E.C. Moves to Scale Back Its Crypto Enforcement Efforts</i></a>, as Matthew Goldstein, Eric Lipton and David Yaffe-Bellany report:<br />
+<blockquote>
+The Securities and Exchange Commission is moving to scale back a special unit of more than 50 lawyers and staff members that had been dedicated to bringing crypto enforcement actions, five people with knowledge of the matter said.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8a6M1QXV5uy8ZL-FdXSpF2CDks4v1w1yvuovAF_8Umt42QHrAzG-oztDwqnuZU_HUHmZU8Ywq7-Z5ng3DhvDv6sBp2u524ei2OoXBAzxmFzU57SYv4_Kh3phkVprtJamM_uIU7xCsWyTuUrwHsr-Px2P8PyQ4NTgtMgbWDVVLkqnNT76q8vE8d6oihxVa/s1724/SatoshiStacker.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1724" data-original-width="1646" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8a6M1QXV5uy8ZL-FdXSpF2CDks4v1w1yvuovAF_8Umt42QHrAzG-oztDwqnuZU_HUHmZU8Ywq7-Z5ng3DhvDv6sBp2u524ei2OoXBAzxmFzU57SYv4_Kh3phkVprtJamM_uIU7xCsWyTuUrwHsr-Px2P8PyQ4NTgtMgbWDVVLkqnNT76q8vE8d6oihxVa/w191-h200/SatoshiStacker.png" width="191" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.bloomberg.com/news/newsletters/2025-02-04/a-sunday-night-flash-crash-in-the-most-insane-casino-ever-created">Source</a></td></tr></tbody></table>
+Even if it were possible to regulate real-world cryptocurrencies, there no longer appears to be any political support for doing so. And thus Michael P. Regan reports on <a href="https://www.bloomberg.com/news/newsletters/2025-02-04/a-sunday-night-flash-crash-in-the-most-insane-casino-ever-created"><i>A Sunday Night Flash Crash in the ‘Most Insane Casino Ever Created’</i></a>:<br />
+<blockquote>
+a major flash crash in Ether as leveraged positions were liquidated served as a stark reminder of how digital-asset markets still lack almost all of the guardrails installed on traditional markets over the years due to various misadventures that hurt investors. The second-largest token was down a bit as traditional markets opened for trading Monday morning in Asia, reacting to concerns about US tariffs against Canada and Mexico. Then in a matter of minutes its losses extended to about 27%, before quickly recovering.<br />
+...<br />
+There’s no indication that any of that is likely to change anytime soon. So Sunday night’s price action in Ether – and similar dives in a slew of other altcoins and memecoins – serves as a reminder that for better or worse this asset class still exists far outside of the padded walls of traditional markets, regardless of how much tradfi embraces it.
+</blockquote> 
+
+<br> 
+
+<https://blog.dshr.org/2025/02/on-not-being-immutable.html>
+
+---
+
+##  Unsurprisingly, it would be bad if Elon Musk breaks into the computer... 
+
+date: 2025-02-06, updated: 2025-02-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046151-unsurprisingly-it-would-b>
 
 ---
 

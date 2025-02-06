@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-02-06 07:06:31
+updated: 2025-02-06 13:29:05
 ---
 
 # craft
 
-(date: 2025-02-06 07:06:31)
+(date: 2025-02-06 13:29:05)
+
+---
+
+## At Home With Maiwa — Comfort Everywhere
+
+date: 2025-02-06, updated: 2025-02-06, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2025/02/at-home-with-maiwa-comfort-everywhere.html>
 
 ---
 

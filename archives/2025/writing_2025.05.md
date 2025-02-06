@@ -1,11 +1,83 @@
 ---
 title: writing
-updated: 2025-02-06 07:06:28
+updated: 2025-02-06 13:29:02
 ---
 
 # writing
 
-(date: 2025-02-06 07:06:28)
+(date: 2025-02-06 13:29:02)
+
+---
+
+## Weekly New Releases Video Is Here!
+
+date: 2025-02-06, from: Locus Magazine
+
+<p>We&#8217;re back again with a wide selection of new releases to start off the month of February! Swing by our YouTube channel to learn about all the top new SF, Fantasy, Horror, and YA books of the week! Subscribe to the channel to show your support and keep up-to-date on future videos!</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2025/02/weekly-new-releases-video-is-here/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/weekly-new-releases-video-is-here/>
+
+---
+
+## Heinlein Society 2025 Undergraduate Scholarships Open
+
+date: 2025-02-06, from: Locus Magazine
+
+<p>The Heinlein Society has opened its 2025 scholarships for undergraduate students. The deadline to apply is 11:59 p.m. PDT on April 1, 2025. Applicants must be entering their sophomore, junior, or senior year in a 4-year, accredited college in any country, and must submit a 500-1000 word essay.</p>
+<p>The Society awards four $4,000 scholarships:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li>The <strong>Virginia Heinlein Memorial Scholarship</strong> is dedicated to a female candidate majoring in engineering, math, or </li></ul></div> <a href="https://locusmag.com/2025/02/heinlein-society-2025-undergraduate-scholarships-open/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/heinlein-society-2025-undergraduate-scholarships-open/>
+
+---
+
+## 2025 Tähtivaeltaja Award Shortlist
+
+date: 2025-02-06, from: Locus Magazine
+
+<p>The five-title shortlist for the annual Tähtivaeltaja Award has been announced, honoring the best science fiction published in Finland. The award is sponsored by Helsingin Science Fiction Seura (Helsinki Science Fiction Society). The nominees are:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>The Future (Tuleva),</strong> Naomi Alderman, trans. Taina Helkamo (Simon &#38; Schuster/Gummerus)</li>
+<li><strong>Keuhkopuiden uni</strong>, Siiri Enoranta (Gummerus)</li>
+<li><strong>The Compass Rose (Kompassiruusu)</strong>, Ursula K. LeGuin, trans. Titia Schuurman (Spectra/Moebius)</li>
+<li><strong>Varjomi (Darkome), </strong>Hannu Rajaniemi, trans. Juha </li></ul></div> <a href="https://locusmag.com/2025/02/2025-tahtivaeltaja-award-shortlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/2025-tahtivaeltaja-award-shortlist/>
+
+---
+
+## The Scholar and the Last Faerie Door by H.G. Parry: Review by Colleen Mondor
+
+date: 2025-02-06, from: Locus Magazine
+
+<p><strong>The Scholar and the Last Faerie Door</strong>, H.G. Par­ry (Redhook 978-0-316-38390-5, $19.99, 464pp, tp) October 2024. Cover by Lisa Marie Pompilio.</p>
+<p><strong>The Scholar and the Last Faerie Door </strong>by H.G. Parry ostensibly opens in a secret col­lege magically located between Cambridge and Oxford (aka Camford, “the Cambridge-Oxford University of Magical Scholarship”). But the foreshadowing for a far larger story is set in the first pages, when protagonist Clover Hill  <a href="https://locusmag.com/2025/02/the-scholar-and-the-last-faerie-door-by-h-g-parry-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-scholar-and-the-last-faerie-door-by-h-g-parry-review-by-colleen-mondor/>
+
+---
+
+## The Year in Review 2024 by Ian Mond
+
+date: 2025-02-06, from: Locus Magazine
+
+<p>After the slam dunk that was 2023, I had high hopes for 2024 – too high, as it turns out. 2023 was a rare vintage, the 1999 of films in book form (Okay, maybe not that good). To expect that 2024 would scale those same heady heights was asking too much of the year, especially one already burdened by a world-shaping American election. Not that genre fiction schedules are influenced  <a href="https://locusmag.com/2025/02/the-year-in-review-2024-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-year-in-review-2024-by-ian-mond/>
 
 ---
 

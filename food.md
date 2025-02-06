@@ -1,11 +1,89 @@
 ---
 title: food
-updated: 2025-02-06 07:06:31
+updated: 2025-02-06 13:29:05
 ---
 
 # food
 
-(date: 2025-02-06 07:06:31)
+(date: 2025-02-06 13:29:05)
+
+---
+
+## Parsnip Soup
+
+date: 2025-02-06, from: Taste of Home
+
+This curried parsnip soup recipe is smooth and richly aromatic, a perfect antidote to cold weather. It comes together quickly, with curry powder providing a savory counterpoint to the sweet flavor of the parsnips and other vegetables. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/curried-parsnip-soup/>
+
+---
+
+## I Need a Pizza Dough Recipe That's Actually Good
+
+date: 2025-02-06, from: Bon Appetet
+
+Jesse and Shilpa are back with BA Bake Club to talk all things pizza. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-a-pizza-dough-recipe-thats-actually-good>
+
+---
+
+## Mama Kelce’s Dip Recipe Is All We Need for the Super Bowl
+
+date: 2025-02-06, from: Taste of Home
+
+<p>Score a touchdown with this seven-layer eating extravaganza, as made by the NFL's favorite mom.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mama-kelce-dip-recipe/">Mama Kelce&#8217;s Dip Recipe Is All We Need for the Super Bowl</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mama-kelce-dip-recipe/>
+
+---
+
+## Nespresso vs. Keurig: What Kind of Pod Person Are You?
+
+date: 2025-02-06, from: Bon Appetet
+
+One makes much better coffee, but it’s not necessarily the best option for everyone. 
+
+<br> 
+
+<https://www.bonappetit.com/story/nespresso-vs-keurig>
+
+---
+
+## Capri Sun Is Now Sold in Single-Serve Bottles, and ’90s Kids Want to Riot
+
+date: 2025-02-06, from: Taste of Home
+
+<p>What's the point of a Capri Sun that I can't jab a straw into?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/capri-sun/">Capri Sun Is Now Sold in Single-Serve Bottles, and &#8217;90s Kids Want to Riot</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/capri-sun/>
+
+---
+
+## I Tried the Skyline Chili Ice Cream, and It Spiced Up My Life
+
+date: 2025-02-06, from: Taste of Home
+
+<p>Cream, allspice and everything nice!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/skyline-chili-ice-cream/">I Tried the Skyline Chili Ice Cream, and It Spiced Up My Life</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/skyline-chili-ice-cream/>
 
 ---
 
@@ -108,6 +186,18 @@ Dependable, reliable, and virtually indestructible.
 <br> 
 
 <https://www.bonappetit.com/story/best-cast-iron-skillet>
+
+---
+
+## Strawberry Cheesecake Cinnamon Rolls
+
+date: 2025-02-05, from: Taste of Home
+
+These strawberry cheesecake cinnamon rolls have all the flavors of a strawberry cheesecake rolled up into a delicious breakfast treat. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/strawberry-cheesecake-cinnamon-rolls/>
 
 ---
 

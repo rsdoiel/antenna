@@ -1,11 +1,36 @@
 ---
 title: pacific
-updated: 2025-02-06 07:06:26
+updated: 2025-02-06 13:29:00
 ---
 
 # pacific
 
-(date: 2025-02-06 07:06:26)
+(date: 2025-02-06 13:29:00)
+
+---
+
+## UH President Hensel visits Waiʻanae Moku Education Center
+
+date: 2025-02-06, from: University of Hawaiʻi News
+
+<p><span aria-label="Waianae">Wai&#699;anae</span> Moku students’ passion impresses <abbr>UH</abbr> President Wendy Hensel.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/06/hensel-visits-waianae-moku/"><abbr>UH</abbr> President Hensel visits Waiʻanae Moku Education Center</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/06/hensel-visits-waianae-moku/>
+
+---
+
+## A Tomb by the Sounding Sea
+
+date: 2025-02-06, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by S. Holt Aunt Fran had called with my mother&#8217;s death announcement. She was barely intelligible, blubbering into her phone, her tears probably clogging the buttons and ports. &#8220;She ran the car in the garage,&#8221; she sobbed. &#8220;Nothing they could &#8230; <a href="https://hawaiipacificreview.org/2025/02/06/a-tomb-by-the-sounding-sea/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/02/06/a-tomb-by-the-sounding-sea/>
 
 ---
 

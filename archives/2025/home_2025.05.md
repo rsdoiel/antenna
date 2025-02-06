@@ -1,11 +1,109 @@
 ---
 title: home
-updated: 2025-02-06 07:06:30
+updated: 2025-02-06 13:29:04
 ---
 
 # home
 
-(date: 2025-02-06 07:06:30)
+(date: 2025-02-06 13:29:04)
+
+---
+
+## Three Tilting A-Frames Form a Net-Zero Mountain Retreat in Colorado
+
+date: 2025-02-06, from: Dwell
+
+Solar and geothermal energy power the hilltop home, which overlooks a nature preserve outside Boulder. 
+
+<br> 
+
+<https://www.dwell.com/article/betasso-overlook-renee-del-gaudio-architecture-net-zero-home-gas-free-design-17931a3f>
+
+---
+
+## Bob Dylan’s Former NYC Townhouse Lists to the Tune of $7.3M
+
+date: 2025-02-06, from: Dwell
+
+The legendary musician lived in this five-story brownstone in the middle of Manhattan for decades. 
+
+<br> 
+
+<https://www.dwell.com/article/bob-dylan-manhattan-townhouse-turtle-bay-gardens-new-york-real-estate-ee08eab7>
+
+---
+
+## What are Short-Day and Long-Day Plants?
+
+date: 2025-02-06, from: The Gardener's Path
+
+<p>Short-day, long-day, what do these terms mean when it comes to plants and their flowering habits? These terms refer to photoperiodism, which is a response to day length and its physiological impact on the plant. Learn all about what this means and how it impacts your gardening in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/short-long-day/">What are Short-Day and Long-Day Plants?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/short-long-day/>
+
+---
+
+## Going Out for Valentine’s Day Is Overrated. Make These Date Night Recipes at Home Instead.
+
+date: 2025-02-06, from: Sunset Magazine - Living in the West
+
+Set the mood for romance this Valentine's Day or on any special occasion by cooking up these Valentine's Day recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/valentines-day-recipes>
+
+---
+
+## Here’s Where to Order Your Valentine’s Day Flowers This Year
+
+date: 2025-02-06, from: Sunset Magazine - Living in the West
+
+The best Valentine’s Day gift to give that special someone in your life is a beautiful bouquet of flowers. Here are the best flower delivery services. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/valentines-day-flowers-delivery>
+
+---
+
+## The 10 Garden Trends That Will Be Huge in 2025
+
+date: 2025-02-06, from: Sunset Magazine - Living in the West
+
+From climate-adaptable planting to hunt-and-gather foraging gardens, here are the garden trends we can’t wait to see take root in 2025. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/garden-trends-2025>
+
+---
+
+## The Garden Trends We Want to Leave Behind in 2025
+
+date: 2025-02-06, from: Sunset Magazine - Living in the West
+
+It’s time to make room for fresh and meaningful practices in the new year by leaving behind these outdated garden trends. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/outdated-garden-trends-2025>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-02-06, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -21,18 +119,6 @@ date: 2025-02-06, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/what-do-centipedes-eat-a-complete-guide-to-their-diet/>
-
----
-
-## Going Out for Valentine’s Day Is Overrated. Make These Date Night Recipes at Home Instead.
-
-date: 2025-02-06, from: Sunset Magazine - Living in the West
-
-Set the mood for romance this Valentine's Day or on any special occasion by cooking up these Valentine's Day recipes. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/valentines-day-recipes>
 
 ---
 
@@ -324,18 +410,6 @@ date: 2025-02-05, from: The Gardener's Path
 
 ---
 
-## Sunset.com Home Page
-
-date: 2025-02-05, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## Disneyland Is Bringing Back a Fan-Favorite Ride for a Limited Time
 
 date: 2025-02-04, from: Sunset Magazine - Living in the West
@@ -371,6 +445,18 @@ Sometimes it can just take a few tiny tweaks to get your home organized. Profess
 <br> 
 
 <https://www.sunset.com/home-garden/design/easy-organizing-tips>
+
+---
+
+## This Renovated 1940s Home in Nashville—Asking $1.2M—Is Utterly Darling
+
+date: 2025-02-04, from: Dwell
+
+Exceptional finishes, cozy nooks, and an abundance of natural light make this a must-see. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-finca-nashville-real-estate-1d212da3>
 
 ---
 
@@ -431,18 +517,6 @@ The top floor of the 1883 structure was converted into an airy home with custom 
 <br> 
 
 <https://www.dwell.com/article/19th-century-chapel-home-west-architecture-casa-botelho-london-real-estate-e1271d27>
-
----
-
-## Here’s Where to Order Your Valentine’s Day Flowers This Year
-
-date: 2025-02-04, from: Sunset Magazine - Living in the West
-
-The best Valentine’s Day gift to give that special someone in your life is a beautiful bouquet of flowers. Here are the best flower delivery services. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/flowers-plants/valentines-day-flowers-delivery>
 
 ---
 

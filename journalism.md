@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2025-02-06 07:06:29
+updated: 2025-02-06 13:29:03
 ---
 
 # journalism
 
-(date: 2025-02-06 07:06:29)
+(date: 2025-02-06 13:29:03)
+
+---
+
+## Q&A: Craig Cockerill discusses filming process of ‘Deep Fake: Rise of Whisper Breach’
+
+date: 2025-02-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Craig Cockerill is combating cinematic conceptions of artificial intelligence.
+The alumnus&#8217; directorial debut &#8220;Deep Fake: Rise of Whisper Breach&#8221; is set to release early 2025. Taking place in the near future, the film follows three friends whose lives drastically change after one of them is assigned to examine a mysterious military grade AI known as &#8220;Whisper Breach.&#8221;
+Cockerill spoke with the Daily Bruin&#8217;s Sanjana Chadive about how his previous experiences in the film industry aided him in the production of &#8220;Deep Fake: Rise of Whisper Breach&#8221; and the challenges he encountered on set. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/06/qa-craig-cockerill-discusses-filming-process-of-deep-fake-rise-of-whisper-breach/>
 
 ---
 
@@ -161,7 +175,7 @@ date: 2025-02-05, from: The Daily Bruin (UCLA Student Newspaper)
 
 date: 2025-02-05, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Feb. 5 at 11 a.m.</em>
+<em>This post was updated Feb. 6 at 12:33 p.m.</em>
 Pro-Palestine protesters demonstrated outside Regent Jay Sures’ Brentwood house early Wednesday morning.
 The protest, organized by Graduate Students for Justice in Palestine at UCLA, began before 7:30 a.m. 
 

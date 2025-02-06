@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-02-06 07:06:30
+updated: 2025-02-06 13:29:04
 ---
 
 # retro computing
 
-(date: 2025-02-06 07:06:30)
+(date: 2025-02-06 13:29:04)
+
+---
+
+## b.log 2025/02/06 - The UK Online Safety Act, Pasta.
+
+date: 2025-02-06, from: Richard Murray's blog
+
+The UK Online Safety Act, Pasta. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250206>
 
 ---
 

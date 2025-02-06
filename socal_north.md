@@ -1,23 +1,109 @@
 ---
 title: socal north
-updated: 2025-02-06 07:06:25
+updated: 2025-02-06 13:29:00
 ---
 
 # socal north
 
-(date: 2025-02-06 07:06:25)
+(date: 2025-02-06 13:29:00)
 
 ---
 
-## Pasadena’s Red Cross wildfire shelter is shutting down soon. Where will evacuees go next?
+## Some Head Start programs still can't access federal funds in wake of Trump order
 
 date: 2025-02-06, updated: 2025-02-06, from: The LAist
 
-There are still 270 evacuees staying at the Pasadena Civic Center, which has a full slate of events scheduled this month. 
+Child care programs could be 'on the brink' due to funding delays. 
 
 <br> 
 
-<https://laist.com/news/climate-environment/pasadena-red-cross-shelter-evacuees-shutdown-altadena>
+<https://laist.com/news/education/early-childhood-education-pre-k/head-start-los-angeles-trump-administration-order>
+
+---
+
+## California’s surge in EV sales has stalled — so what happens to its landmark mandate?
+
+date: 2025-02-06, updated: 2025-02-06, from: The LAist
+
+About a quarter of all new cars registered in California in 2024 were electric cars. The flat sales follow several years of rapid growth. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/californias-surge-in-ev-sales-has-stalled-so-what-happens-to-its-landmark-mandate>
+
+---
+
+## We asked Angelenos for LA's most romantic restaurants. The answers are as eclectic as the city
+
+date: 2025-02-06, updated: 2025-02-06, from: The LAist
+
+It’s Valentine’s Day next week, people. Here are locals' recommendations on where to head for loved-up vibes. 
+
+<br> 
+
+<https://laist.com/news/food/most-romantic-la-restaurants>
+
+---
+
+## Heading to an LA County beach? Stay on the sand
+
+date: 2025-02-06, updated: 2025-02-06, from: The LAist
+
+The recent rain can wash chemicals, bacteria and trash into the ocean. You don't want to swim in that. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/heading-to-an-la-county-beach-stay-on-the-sand>
+
+---
+
+## Don't give a hoot about sports? The Superb Owl might be for you
+
+date: 2025-02-06, updated: 2025-02-06, from: The LAist
+
+What began as an accidental misspelling or an online joke has soared into a cultural phenomenon. 
+
+<br> 
+
+<https://laist.com/news/super-bowl-superb-owl-meme>
+
+---
+
+## ICE has arrested scores of immigrants in the US who have no criminal records
+
+date: 2025-02-06, updated: 2025-02-06, from: The LAist
+
+The Trump administration says it has already arrested thousands of immigrants in the U.S. without legal status, many without criminal records. 
+
+<br> 
+
+<https://laist.com/news/ice-arrests-migrants-no-criminal-records>
+
+---
+
+## Stepping Back into History at William S. Hart Park
+
+date: 2025-02-06, from: City of Santa Clarita
+
+<p>By Mayor Pro Tem Laurene Weste As a longtime Santa Clarita resident, I believe one of our community’s most important responsibilities is the preservation of our rich history and beautiful open spaces. Located in the heart of Newhall is one of our greatest treasures – the William S. Hart Park. Abundant in rich Western history, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/06/stepping-back-into-history-at-william-s-hart-park/">Stepping Back into History at William S. Hart Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/06/stepping-back-into-history-at-william-s-hart-park/>
+
+---
+
+## Farmworkers feed the country, but who protects them from wildfire smoke?
+
+date: 2025-02-06, updated: 2025-02-06, from: The LAist
+
+Thousands of farmworkers labored in fields in Ventura County in late January in wildfire smoke. They have little to no protection from its harmful effects. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/farmworkers-feed-the-country-but-who-protects-them-from-wildfire-smoke>
 
 ---
 
@@ -42,6 +128,18 @@ Here's where to watch the big game, a special immersive event at the Music Cente
 <br> 
 
 <https://laist.com/news/arts-and-entertainment/best-things-to-do-super-bowl-weekend-los-angeles-southern-california-2025>
+
+---
+
+## Pasadena’s Red Cross wildfire shelter is shutting down soon. Where will evacuees go next?
+
+date: 2025-02-06, updated: 2025-02-06, from: The LAist
+
+There are still 270 evacuees staying at the Pasadena Civic Center, which has a full slate of events scheduled this month. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/pasadena-red-cross-shelter-evacuees-shutdown-altadena>
 
 ---
 

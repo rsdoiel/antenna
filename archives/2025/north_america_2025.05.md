@@ -1,11 +1,290 @@
 ---
 title: north america
-updated: 2025-02-06 07:06:25
+updated: 2025-02-06 13:28:59
 ---
 
 # north america
 
-(date: 2025-02-06 07:06:25)
+(date: 2025-02-06 13:28:59)
+
+---
+
+## US imposes new sanctions targeting Iran oil exports
+
+date: 2025-02-06, from: VOA News USA
+
+The U.S. Treasury Department announced on Thursday new sanctions on Iran’s oil industry, targeting an international network that facilitates the shipment of millions of barrels of Iranian oil to China.
+
+
+In a release, the Treasury Department’s Office of Foreign Assets Control, or OFAC, said the sanctions target Sepehr Energy, a front company through which Iran’s Armed Forces General Staff, or AFGS, ships the oil. The sanctions include entities and individuals in China, India and the United Arab Emirates, as well as several vessels.
+
+
+The office said Sepehr Energy and its affiliate companies, which operate under the AFGS, use “deceitful evasion methods,” including the falsification of maritime documents, to disguise the Iranian origin of the oil that it trades and transports to overseas buyers, including China.
+
+
+The OFAC said each year, the illicit sales generate the equivalent of billions of dollars, which Iran uses to fund its destabilizing regional activities and support of multiple regional terrorist groups, including Hamas, the Houthis and Hezbollah.
+
+
+Iran's mission to the United Nations in New York did not immediately respond to a request for comment from Reuters.
+
+
+In the statement, U.S. Treasury Secretary Scott Bessent said Iran also uses the funds to develop its nuclear program and the production of deadly ballistic missiles and military drones.
+
+
+“The United States is committed to aggressively targeting any attempt by Iran to secure funding for these malign activities,” he said.
+
+
+In a separate statement, U.S. State Department spokesperson Tammy Bruce said the United States will not tolerate Iran’s destructive and destabilizing behavior.
+
+
+“We will use all tools at our disposal to hold the regime accountable for its destabilizing activities and pursuit of nuclear weapons that threaten the civilized world,” she said.
+
+
+Earlier this week, U.S. President Donald Trump signed an executive order mandating the U.S. government impose maximum pressure on Tehran to dissuade it from pursuing its nuclear program. Iran has said its nuclear program is for peaceful purposes.
+
+
+Some information for this report came from The Associated Press and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/us-imposes-new-sanctions-targeting-iran-oil-exports/7965708.html>
+
+---
+
+## Jen Rubin and Maya Wiley on civil rights
+
+date: 2025-02-06, from: The Contrarian
+
+Jen Rubin interviews Maya Wiley on the administration&#8217;s attempt to undermine DEI initiatives and other civil rights programs. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156617713/8bf6a81a65be84aab1dc8ba289cf2fae.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156617713/8bf6a81a65be84aab1dc8ba289cf2fae.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-maya-wiley-on-civil>
+
+---
+
+##  Elon Musk’s Hostile Takeover 
+
+date: 2025-02-06, from: The Lever News
+
+ Elon Musk and his allies have been sowing chaos in the civil service and hijacking government infrastructure. Journalist Nathan Tankus explains why.  
+
+<br> 
+
+<https://www.levernews.com/elon-musks-hostile-takeover/>
+
+---
+
+## House lawmakers push to ban AI app DeepSeek from US government devices
+
+date: 2025-02-06, from: VOA News USA
+
+WASHINGTON — A bipartisan duo in the U.S. House is proposing legislation to ban the Chinese artificial intelligence app DeepSeek from federal devices, similar to the policy already in place for the popular social media platform TikTok.
+
+
+Lawmakers Josh Gottheimer, a Democrat from New Jersey, and Darin LaHood, a Republican from Illinois, on Thursday introduced the "No DeepSeek on Government Devices Act," which would ban federal employees from using the Chinese AI app on government-owned electronics. They cited the Chinese government's ability to use the app for surveillance and misinformation as reasons to keep it away from federal networks.
+
+
+"The Chinese Communist Party has made it abundantly clear that it will exploit any tool at its disposal to undermine our national security, spew harmful disinformation, and collect data on Americans," Gottheimer said in a statement. "We simply can't risk the CCP infiltrating the devices of our government officials and jeopardizing our national security."
+
+
+The proposal comes after the Chinese software company in January published an AI model that performed at a competitive level with models developed by American firms like OpenAI, Meta, Alphabet and others. DeepSeek purported to develop the model at a fraction of the cost of its American counterparts. The announcement raised alarm bells and prompted debates among policymakers and leading Silicon Valley financiers and technologists.
+
+
+The churn over AI is coming at a moment of heightened competition between the U.S. and China in a range of areas, including technological innovation. The U.S. has levied tariffs on Chinese goods, restricted Chinese tech firms like Huawei from being used in government systems, and banned the export of state of the art microchips thought to be needed to develop the highest end AI models.
+
+
+Last year, Congress and then-President Joe Biden approved a divestment of the popular social media platform TikTok from its Chinese parent company or face a ban across the U.S.; that policy is now on hold. President Donald Trump, who originally proposed a ban of the app in his first term, signed an executive order last month extending a window for a long-term solution before the legally required ban takes effect.
+
+
+In 2023, Biden banned TikTok from federal-issued devices.
+
+
+"The technology race with the Chinese Communist Party is not one the United States can afford to lose," LaHood said in a statement. "This commonsense, bipartisan piece of legislation will ban the app from federal workers' phones while closing backdoor operations the company seeks to exploit for access. It is critical that Congress safeguard Americans' data and continue to ensure American leadership in AI."
+
+
+The bill would single out DeepSeek and any AI application developed by its parent company, the hedge fund High-Flyer, as subject to the ban. The legislation includes exceptions for national security and research purposes that would allow federal employers to study DeepSeek.
+
+
+Some lawmakers wish to go further. A bill proposed last week by Senator Josh Hawley, a Republican from Missouri, would bar the import or export of any AI technology from China writ large, citing national security concerns. 
+
+<br> 
+
+<https://www.voanews.com/a/house-lawmakers-push-to-ban-ai-app-deepseek-from-us-government-devices-/7965546.html>
+
+---
+
+##  Amazon And UnitedHealth’s Inaugural Demands 
+
+date: 2025-02-06, from: The Lever News
+
+ Within 24 hours of Trump’s inauguration, Amazon and UnitedHealth asked his regulators to help crush their shareholders’ demands for transparency.  
+
+<br> 
+
+<https://www.levernews.com/amazon-and-unitedhealths-inaugural-demands-post/>
+
+---
+
+## US service member, 3 contractors die in plane crash in Philippines
+
+date: 2025-02-06, from: VOA News USA
+
+MANILA, PHILIPPINES — One U.S. service member and three defense contractors were killed Thursday when a plane contracted by the U.S. military crashed in a rice field in the southern Philippines, U.S. Indo-Pacific Command said.
+
+
+The aircraft was conducting a routine mission "providing intelligence, surveillance, and reconnaissance support at the request of our Philippine allies," the command said in a statement. It said the cause of the crash was under investigation.
+
+
+The Civil Aviation Authority of the Philippines also confirmed the crash of a light plane in Maguindanao del Sur province. It did not immediately provide other details.
+
+
+The bodies of the four people were retrieved from the wreckage in Ampatuan town, said Ameer Jehad Tim Ambolodto, a safety officer of Maguindanao del Sur. Indo-Pacific Command said the names of the crew were being withheld pending family notifications.
+
+
+Windy Beaty, a provincial disaster-mitigation officer, told The Associated Press that she received reports that residents saw smoke coming from the plane and heard an explosion before the aircraft plummeted to the ground less than a kilometer from a cluster of farmhouses.
+
+
+Nobody was reported injured on or near the crash site, which was cordoned off by troops, Beaty said.
+
+
+U.S. forces have been deployed in a Philippine military camp in the country's south for decades to help provide advice and training to Filipino forces battling Muslim militants. The region is the homeland of minority Muslims in the largely Roman Catholic nation. 
+
+<br> 
+
+<https://www.voanews.com/a/us-service-member-3-contractors-die-in-plane-crash-in-philippines/7965438.html>
+
+---
+
+## It's bigotry or bust for the Trump administration
+
+date: 2025-02-06, from: The Contrarian
+
+On National Girls and Women in Sports Day, the president banned transgender girls and women from school sports. 
+
+<br> 
+
+<https://contrarian.substack.com/p/its-bigotry-or-bust-for-the-trump>
+
+---
+
+## Trump's US trade negotiator pick vows hard-line policies
+
+date: 2025-02-06, from: VOA News USA
+
+WASHINGTON — Jamieson Greer, President Donald Trump's choice to be the top U.S. trade negotiator, promised to pursue the president's hard-line trade policies in testimony Thursday before the Senate Finance Committee. But he faced pushback from senators unsettled by Trump's unpredictable actions on trade.
+
+
+Trump's protectionist approach — involving the heavy use of taxes on foreign goods — will give Americans "the opportunity to work in good-paying jobs producing goods and services they can sell in this market and abroad to earn an honest living," Greer said in remarks prepared ahead of his confirmation hearing.
+
+
+As U.S. trade representative, Greer would have responsibility along with commerce secretary nominee Howard Lutnick for one of Trump's top policy priorities: waging — or at least threatening — trade war with countries around the world, America's friends and foes alike.
+
+
+On Saturday, Trump signed orders imposing tariffs on Canada and Mexico — America's two biggest trading partners. Then on Monday, he turned around and gave those countries a 30-day reprieve from the tariffs after their leaders made modest concessions on stopping the flow of undocumented immigrants and illegal drugs into the United States.
+
+
+"Trump governs by whim, and in trade that hurts American families," said Oregon Senator Ron Wyden, the top Democrat on the finance committee. "His tariff bluff created huge uncertainty that is costing American businesses and putting the global economy on a month-to-month lease."
+
+
+Trump believes that imposing tariffs — import taxes — on U.S. trade partners can reduce America's massive trade deficits, protect U.S. industry from competition, bring manufacturing back to the United States and pressure other countries into making concessions on a variety of issues, including reducing illegal immigration and cracking down on drug trafficking.
+
+
+The hostilities have already begun. On Tuesday, the United States imposed a 10% tariff on Chinese imports on top of levies imposed in Trump’s first term. Beijing promptly lashed back, announcing tariffs on U.S. coal, crude oil and other products, restricting exports of critical minerals and launching an antitrust investigation of Google.
+
+
+
+
+But the Chinese tariffs don't take effect until Monday, buying time for the two countries to reach some kind of truce. That is what happened earlier this week. Trump had signed an order Saturday hitting imports from America's two biggest trade partners, Canada and Mexico, with 25% tariffs. They were supposed to take effect Tuesday, too, but were called off — and delayed for 30 days — after Mexican President Claudia Sheinbaum and Canadian Prime Minister Justin Trudeau agreed Monday to do more to stop the flow of undocumented immigrants and fentanyl across U.S. borders.
+
+
+Economists have warned that Trump's tariffs would disrupt trade and drive up prices for American consumers. Democrats and others have also criticized the impulsive and unpredictable way that Trump conducts trade policy and his decision to target America's neighbors and allies, not limiting his tariff onslaught to U.S. geopolitical rival China.
+
+
+Wyden expressed concern about Trump's campaign promises to impose an across-the-board "universal" tariff on imports as opposed to targeting China and other countries for unfair trade practices or protecting workers in specific industries struggling with foreign competition.
+
+
+The universal tariffs, Wyden said, amount to a "prescription for hitting our citizens, small businesses, really hard and also raising inflationary pressures."
+
+
+Greer responded that universal tariffs "should be studied" as a way to possibly lower America's massive trade deficits. Greer was a veteran of Trump's first-term trade battles, serving as chief of staff to then-U.S. Trade Representative Robert Lighthizer. In that position, Greer was involved in a U.S.-China trade brawl that saw the world's two biggest economies slap tariffs on hundreds of billions of dollars’ worth of each other's goods.
+
+
+He also played a role in Trump's contentious and successful campaign to rewrite a North American trade agreement with Mexico and Canada and to get Congress to approve the new pact.
+
+
+Earlier, Greer, a graduate of the University of Virginia law school, served as a lawyer in the U.S. Air Force's Advocate General's Corps, doing a tour in Iraq and serving as a prosecutor and defense counsel in criminal cases involving U.S. airmen.
+
+
+After Trump's first term, Greer joined the Washington law firm King & Spalding, representing clients in cases before the Commerce Department, the International Trade Commission and federal courts. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-us-trade-negotiator-pick-vows-hardline-policies/7965350.html>
+
+---
+
+##  Bondi’s License To Shill 
+
+date: 2025-02-06, from: The Lever News
+
+ The lobbyist-turned-AG just limited enforcement of anti-corruption laws regulating foreign agents trying to influence U.S. officials.  
+
+<br> 
+
+<https://www.levernews.com/bondis-license-to-shill/>
+
+---
+
+## Survivor of Argentina’s Military Atrocities Sees Popular Resistance to Trump as the ‘Only Way’
+
+date: 2025-02-06, from: Capital and Main
+
+<p>Abducted by soldiers as a student in Argentina, author and human rights activist Alicia Partnoy hopes young people stand up for migrant rights.</p>
+<p>The post <a href="https://capitalandmain.com/survivor-of-argentinas-military-atrocities-sees-popular-resistance-to-trump-as-the-only-way">Survivor of Argentina’s Military Atrocities Sees Popular Resistance to Trump as the ‘Only Way’</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/survivor-of-argentinas-military-atrocities-sees-popular-resistance-to-trump-as-the-only-way>
+
+---
+
+## The one single, proven constraint on oligarchy and autocracy 
+
+date: 2025-02-06, from: The Contrarian
+
+By Michael Podhorzer 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-one-single-proven-constraint>
+
+---
+
+## The Sims turns 25 this year. What’s the key to its success?
+
+date: 2025-02-06, from: Market Place
+
+It's the game that lets you build your dream home, control virtual lives (and remove the pool ladder and see what happens). Twenty-five years and 200 million copies on, what's made The Sims such a success? 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/06/the-sims-turns-25-this-year-whats-the-key-to-its-success/>
+
+---
+
+## New Mexico food bank hosts soup competition fundraiser
+
+date: 2025-02-06, from: VOA News USA
+
+A food bank in the Southwest United States is tackling hunger and emergency food needs with a flavorful fundraiser that has local chefs competing for the best soup. Gustavo Martinez Contreras has our story from New Mexico. 
+
+<br> 
+
+<https://www.voanews.com/a/new-mexico-food-bank-hosts-soup-competition-fundraiser/7965199.html>
 
 ---
 
