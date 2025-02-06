@@ -1,11 +1,803 @@
 ---
 title: science and technology
-updated: 2025-02-05 07:07:17
+updated: 2025-02-06 07:06:27
 ---
 
 # science and technology
 
-(date: 2025-02-05 07:07:17)
+(date: 2025-02-06 07:06:27)
+
+---
+
+## Google exec sees enterprise quantum app on closer horizon
+
+date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
+
+<h4>20 years? More like five for real-world workloads says company&#39;s Quantum AI lead</h4> <p>Despite ongoing breakthroughs, quantum computing has struggled to shake the perception that it&#39;s always another ten years away from being practical. However, researchers at Google now argue the tech is actually much closer to commercial viability than some would have you believe.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/06/google_quantum_apps/>
+
+---
+
+## Veterans Affairs reboots Oracle health records project for $330M
+
+date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
+
+<h4>Concerns around unfixed problems remain after system resulted in harm to some 150 patients</h4> <p>The US Department of Veterans Affairs has restarted a project to implement Oracle electronic health records in its hospitals after the project was suspended in 2023.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/06/oracle_cerner_va_reboot/>
+
+---
+
+## Hsiao Smith
+
+date: 2025-02-06, from: NASA breaking news
+
+Deputy Observatory Manager &#8211; Goddard Space Flight Center Growing up in Malaysia and Singapore, Hsiao Smith — now the deputy observatory manager for NASA’s Nancy Grace Roman Space Telescope — never imagined she’d have a career at NASA. But when she moved near NASA’s Goddard Space Flight Center in Greenbelt, Maryland, things quickly fell into [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/people-of-nasa/hsiao-smith/>
+
+---
+
+## More Than 400 Lives Saved with NASA’s Search and Rescue Tech in 2024
+
+date: 2025-02-06, from: NASA breaking news
+
+Did you know that the same search and rescue technologies developed by NASA for astronaut missions to space help locate and rescue people across the United States and around the world?&#160; NASA’s collaboration with the international satellite-aided search and rescue effort known as Cospas-Sarsat has enabled the development of multiple emergency location beacons for explorers [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/more-than-400-lives-saved-with-nasas-search-and-rescue-tech-in-2024/>
+
+---
+
+## Microsoft makes sweet, sweet music with Windows MIDI Services
+
+date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
+
+<h4>Preview arrives in Canary Channel, release planned for Windows 10 and 11</h4> <p>Microsoft has released its first in-box public preview of Windows MIDI Services with full support for the MIDI 2.0 standard.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/06/windows_midi_services_2/>
+
+---
+
+## Uber CEO warns robotaxis can't find a fast route to commercial viability
+
+date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
+
+<h4>Fleets built to handle peak demand will lose money, leaving humans driving to the rescue</h4> <p>Uber CEO Dara Khosrowshahi is warning that it&#39;s not yet possible to commercialize autonomous vehicles due to high costs, seasonal demand fluctuations, and the need to prove &#34;superhuman&#34; safety.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/06/uber_fy_2024_av_update/>
+
+---
+
+## Copilot+ PCs? Customers just aren't buying it – yet
+
+date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
+
+<h4>57% higher price point and app compatibility issues aren&#39;t helping</h4> <p>There remains little love for notebooks containing AI-capable processors and even less for Microsoft&#39;s Copilot+ models, with premium pricing, software compatibility, and opaque benefits cited as the reasons.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/06/ai_copilot_pc_sales/>
+
+---
+
+## Agent P waxes lyrical about 14 years of systemd
+
+date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
+
+<h4>Lennart Poettering gave packed-out keynote talk. Jack Dorsey … didn&#39;t</h4> <p><strong>FOSDEM 2025</strong>  FOSDEM returned to Brussels for the first weekend in February – not without some controversial people.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/06/14_years_of_systemd/>
+
+---
+
+## Robot dogs learn bomb disposal tricks in trials
+
+date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
+
+<h4>&#39;Fetch&#39; just got a lot more interesting</h4> <p>You can teach a robotic dog new tricks, it seems, with mechanic canines now being deployed in tests to detect and defuse bomb threats.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/06/uk_robot_bomb_disposal/>
+
+---
+
+## Openreach tests 50 Gbps broadband – don’t expect it anytime soon
+
+date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
+
+<h4>Download speeds of 41.9 Gbps and upload speeds of 20.6 Gbps achieved, claims BT division</h4> <p>Network builder and maintainer Openreach says it has tested a 50 Gbps fiber broadband connection in the UK, as a first step towards making it commercially available at some point in the distant future.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/06/openreach_tests_out_50gbps_broadband/>
+
+---
+
+## Why UK Online Safety Act may not be safe for bloggers
+
+date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
+
+<h4>Individual publishers could be held liable for visitors&#39; off-topic posts, legal eagle argues</h4> <p><strong>Updated</strong>  Individuals who run their own website could be held liable for, weirdly enough, off-topic visitor-posted comments that break the UK&#39;s Online Safety Act.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/06/uk_online_safety_act_bloggers/>
+
+---
+
+## Tesla sales crash in Europe, UK. We can only wonder why
+
+date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
+
+<h4>Somewhat stale range of Muskmobiles, competition from China, Elon being Elon, or all of the above?</h4> <p>Registration of new Tesla cars slumped across Europe in January, as Chinese electric-vehicle makers racked up enormous growth.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/06/europe_uk_tesla_sales/>
+
+---
+
+## Sols 4443-4444: Four Fours for February
+
+date: 2025-02-06, from: NASA breaking news
+
+Earth planning date: Monday, Feb. 3, 2025 Another successful weekend plan left us about 23 meters (about 75 feet) farther down our Mount Sharp Ascent Route (MSAR), with all our science data downlinked to Earth and the planet clocks aligned once more. We only have until 18:26 Pacific time to get this Monday’s plan uplinked […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4443-4444-four-fours-for-february/>
+
+---
+
+## Arm gives up on killing off Qualcomm's vital chip license
+
+date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
+
+<h4>The British are coming, the British are coming ... to terms with their loss</h4> <p>Arm has given up on terminating one of its key licenses with Qualcomm, leaving the latter free to continue producing homegrown Arm-compatible chips for PCs, phones, and servers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/06/arm_qualcomm_nuvia/>
+
+---
+
+## Democrats demand to know WTF is up with that DOGE server on OPM's network
+
+date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
+
+<h4>Are you trying to make this easy for China and Russia?</h4> <p>Who bought it, who installed it, and what&#39;s happening with the data on it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrats_opm_server/>
+
+---
+
+## Robocallers who phoned the FCC pretending to be from the FCC land telco in trouble
+
+date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
+
+<h4>Don&#39;t laugh: The $4.5m fine proposed for carrier Telnyx shows how the Trump administration will run its comms regulator</h4> <p>In its first enforcement action of the Trump presidency, the FCC has voted to propose fining Telnyx $4,492,500 – after scammers pretending to be the watchdog&#39;s staff started calling actual FCC staffers via the VoIP telco.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/06/robocallers_fcc_telnyx/>
+
+---
+
+## Mixing Rust and C in Linux likened to cancer by kernel maintainer
+
+date: 2025-02-05, updated: 2025-02-06, from: The Register (UK I.T. News)
+
+<h4>Some worry multiple languages will make it harder to maintain this open source uber-project, others disagree</h4> <p>Developers trying to add Rust code to the Linux kernel continue to face opposition from kernel maintainers who believe using multiple languages is an unwelcome and risky complication.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/>
+
+---
+
+## Cisco patches two critical Identity Services Engine flaws
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>One gives root access, the other lets you steal info and reconfig nodes, in the right (or should that be wrong) circumstances</h4> <p>Cisco has fixed two critical vulnerabilities in its Identity Services Engine (ISE) that could allow an authenticated remote attacker to execute arbitrary commands as root or access sensitive information, modify configurations, and reload affected devices.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/cisco_plugs_two_critical_ise_bugs/>
+
+---
+
+## Robert Murray
+
+date: 2025-02-05, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">Robert Murray</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-05T16:32:44-05:00" title="Wednesday, February 5, 2025 - 16:32" class="datetime">Wed, 02/05/2025 - 16:32</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Lt. Cmdr. Robert L. Murray joined DARPA as a deputy program manager in August 2024.&nbsp;</p><p>His interests include advancing innovation in medical triage, point of injury trauma care, and warfighter performance and protection.</p><p>Prior to arriving at DARPA, Murray served as the deputy director of modernization with III Marine Expeditionary Force in Okinawa, Japan and is an assistant professor in the Department of Military and Emergency Medicine at the Uniformed Services University. Murray is a member of the American Physiological Society and the Association of Military Surgeons of the United States.</p><p>Murray holds a bachelor’s degree in zoology from North Carolina State University, a master’s degree in biology from the University of Nebraska-Kearney, and a doctorate in physiology from the University of Maryland. He is a graduate of the Navy Command and Staff College, and his personal decorations include the Defense Meritorious Service Medal, the Navy and Marine Corps Commendation Medal, and the Navy and Marine Corps Achievement Medal.</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+          <div class="content-width-x-large margin-x-auto paragraph paragraph--type--from-library paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+      
+            <div class="field field--name-paragraphs field--type-entity-reference-revisions field--label-hidden field__item">
+  <div class="content-width-x-large margin-x-auto desktop:padding-top-0 mobile-lg:padding-top-5 paragraph paragraph--type--right-rail paragraph--view-mode--default">
+    
+      
+      <div class="field field--name-field-right-rail-paragraph field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p>&nbsp;</p><p><a class="primary-button-light primary-button-padding" href="#contact"><span>Contact me</span><svg id="right" viewBox="0 -7 30 35"><path d="M0.5 9.35772H20.9956L14.2001 2.29941L16.4134 0L27 11L16.4134 22L14.2001 19.7006L20.9956 12.6423H0.5V9.35772Z" fill="currentColor" /></svg></a></p></div>
+      
+
+      </div>
+</div>
+          </div>
+  
+
+      </div>
+</div>
+      
+
+              </div>
+      
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/about/people/robert-murray>
+
+---
+
+## NASA Brings Space to New Jersey Classroom with Astronaut Q&A
+
+date: 2025-02-05, from: NASA breaking news
+
+Students from the Thomas Edison EnergySmart Charter School in Somerset, New Jersey, will have the chance to connect with NASA astronaut Nick Hague as he answers prerecorded science, technology, engineering, and mathematics (STEM) related questions from aboard the International Space Station. Watch the 20-minute space-to-Earth call at 11:10 a.m. EST on Tuesday, Feb. 11, on [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-brings-space-to-new-jersey-classroom-with-astronaut-qa/>
+
+---
+
+## NASA Invites Media to Learn about Spacecraft Autonomous Tech Firsts
+
+date: 2025-02-05, from: NASA breaking news
+
+NASA’s Ames Research Center in Silicon Valley invites media to learn more about Distributed Spacecraft Autonomy (DSA), a technology that allows individual spacecraft to make independent decisions while collaborating with each other to achieve common goals – without human input. The DSA team achieved multiple firsts during tests of such swarm technology as part of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-invites-media-to-learn-about-spacecraft-autonomous-tech-firsts/>
+
+---
+
+## Wind Over Its Wing: NASA’s X-66 Model Tests Airflow
+
+date: 2025-02-05, from: NASA breaking news
+
+NASA’s Sustainable Flight Demonstrator (SFD) project recently concluded wind tunnel tests of its X-66 semi-span model in partnership with Boeing. The model, designed to represent half the aircraft, allows the research team to generate high-quality data about the aerodynamic forces that would affect the actual X-66. Test results will help researchers identify areas where they [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/wind-over-its-wing-nasas-x-66-model-tests-airflow/>
+
+---
+
+## Poland’s 2nd astronaut brings pierogi to the ISS party
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>Here&#39;s hoping freeze-dried Polish dumplings are just as good as ones freshly fried in butter</h4> <p>When Axiom Space&#39;s fourth mission to the International Space Station arrives in orbit this spring it&#39;ll include Poland&#39;s second-ever astronaut, who will bring an essential comfort from home: Pierogi.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/polands_second_astronaut_pierogi/>
+
+---
+
+## Apollo 14 Moon Landing
+
+date: 2025-02-05, from: NASA breaking news
+
+This Feb. 5, 1971, photo gives an excellent view of the Apollo 14 lunar module on the Moon’s surface after landing. At left, we can see that the astronauts – Alan Shepard and Edgar Mitchell – deployed the U.S. flag before taking this photo of the lunar module. Shepard and Mitchell touched down in the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/apollo-14-moon-landing/>
+
+---
+
+## NASA Goes Live: First Twitch Stream from Space Station
+
+date: 2025-02-05, from: NASA breaking news
+
+For the first time, NASA is hosting a live Twitch event from about 250 miles off the Earth aboard the International Space Station, bringing new audiences closer to space than ever before. Viewers will have the opportunity to hear from NASA astronauts live and ask questions about life in orbit. The event will begin at [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-goes-live-first-twitch-stream-from-space-station/>
+
+---
+
+## DOGE latest: Citrix supremo has 'read-only' access to US Treasury payment system
+
+date: 2025-02-05, updated: 2025-02-06, from: The Register (UK I.T. News)
+
+<h4>CEO of Cloud Software a &#39;special government employee&#39; probing for Team Elon</h4> <p>The US Treasury has revealed Tom Krause – the chief exec of Citrix and Netscaler owner Cloud Software Group – has &#34;read-only&#34; access to a vital federal government payment system that disburses trillions of dollars annually.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/tom_krause_treasury_read_only_access/>
+
+---
+
+## Trump admin seeks to reclassify federal CIOs, opening door to political appointees
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>Fall in line with executive policy or you&#39;re gone, acting OPM chief insists</h4> <p>Chief Information Officers across the US federal government face increased job uncertainty as the Trump administration recommends agencies reclassify these positions, potentially making them political appointees.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/trump_administration_reclassified_cios/>
+
+---
+
+## Blue Origin spins up lunar gravity for New Shepard flight
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>Bezos&#39; rocketeers tout capability as useful for NASA and other tech providers</h4> <p>Blue Origin has sent its reusable New Shepard rocket on another suborbital lob, this time simulating lunar gravity for capsule payloads.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/new_shepard_lunar_gravity/>
+
+---
+
+## SN BEST
+
+date: 2025-02-05, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">SN BEST</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>BTO is hosting a Proposers Day for the potential proposer community in support of a planned Program Solicitation for the <strong>BEST: BioElectronics to Sense and Treat program</strong>. In person and via webcast on Feb. 19, 2025. | <a href="https://drupal.darpa.mil/events/2025/best-proposers-day">See Event</a></p></div>
+      
+
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-05T12:11:38-05:00" title="Wednesday, February 5, 2025 - 12:11" class="datetime">Wed, 02/05/2025 - 12:11</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/node/3882>
+
+---
+
+## SBIR: SMART - Open Topic
+
+date: 2025-02-05, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">SBIR: SMART - Open Topic</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>This topic invites submissions of innovative research concepts in the technical domain of Advanced Computing and Software, Integrated Sensing and Cyber. | <a href="https://drupal.darpa.mil/research/programs/smart">See Topic</a></p></div>
+      
+
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Sean.Timko.ctr…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-05T12:01:40-05:00" title="Wednesday, February 5, 2025 - 12:01" class="datetime">Wed, 02/05/2025 - 12:01</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/opportunities/hr0011sb20254-p01>
+
+---
+
+## BEST Proposers Day
+
+date: 2025-02-05, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">BEST Proposers Day</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-05T11:47:47-05:00" title="Wednesday, February 5, 2025 - 11:47" class="datetime">Wed, 02/05/2025 - 11:47</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+            <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/max_325x325/public/gallery/2024-11/bto-hero.jpg.webp?itok=8j62FNbk" alt class="image-style-max-325x325">
+
+
+
+      <figcaption class="padding-bottom-3">
+        
+
+              </figcaption>
+
+    
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>The Biological Technologies Office (BTO) of the Defense Advanced Research Projects Agency (DARPA) is hosting a Proposers Day for the potential proposer community in support of a planned Program Solicitation (PS) for the BioElectronics to Sense and Treat (BEST) program.&nbsp;</p><p>The Proposers Day will be held in person and via webcast on Feb. 19, 2025, from 8 a.m. - &nbsp;6 p.m. ET.</p><p><strong>Advance registration is required.</strong></p><p>&nbsp;</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+        
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p><a class="primary-button-light primary-button-padding" href="https://events.sa-meetings.com/BESTProposersDay/" target="_blank"><span>Register now!</span></a>&nbsp;</p><p><strong>BEST Proposers Day</strong><br>Feb. 19, 2025<br>8 a.m. - 6 p.m. ET<br><br>Strategic Analysis, Inc.<br>Executive Conference Center (SA ECC)<br>4075 Wilson Blvd.<br>#200<br>Arlington, VA 22203<br><br><strong>Registration deadline: </strong>4 p.m., Feb. 14, 2025</p><h4>Resources</h4><p><a href="https://drupal.darpa.mil/research/programs/best-bioelectronics"><strong>Program:</strong> BEST: BioElectronics to Sense and Treat</a></p><h4>Opportunity&nbsp;</h4><p>DARPA-SN-25-31<br><br><strong>Published: </strong>Jan. 30, 2025<br><strong>Deadline: </strong>Feb. 14, 2025</p><p><a class="primary-button-light primary-button-padding" href="https://sam.gov/opp/8698a5251a4f44af896155e4cecba0a5/view" target="_blank"><span>Special Notice</span>&nbsp;</a>&nbsp;</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/events/2025/best-proposers-day>
+
+---
+
+## BEST: BioElectronics to Sense and Treat
+
+date: 2025-02-05, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">BEST: BioElectronics to Sense and Treat</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Summary</h4></div>
+      
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Wound infections are highly prevalent among combat injuries.&nbsp;</p><p>They can take otherwise ablebodied military personnel out of operations and result in severe medical complications and death.</p><p>The current standard of care for assessing a wound infection relies on identification of the specific infection-inducing microbial pathogens that invaded and colonized the wound via complicated genetic assays or multi-day cell culture approaches, neither of which can be done quickly or simply on the battlefield. The current standard of care for prevention and treatment of a battlefield wound infection is based on broad-spectrum and high-dose antibiotics alongside surgical debridement, which are not pathogen specific, drive antibiotic resistance, can have toxic side effects, require advanced medical training, and result in high treatment costs and burden on medical professionals and patients. A dramatically better approach to managing infection of combat wounds is greatly needed.</p><p>The BioElectronics to Sense and Treat (BEST) program seeks to address this need by developing wearable, automated technologies that can predict and prevent a wound infection before it can occur, and to eliminate an infection if it has already taken hold.&nbsp;</p><p>To achieve this vision, BEST performers will develop novel bioelectronic smart bandages comprised of wound infection sensor and treatment modules. The sensors will be high-resolution and provide real-time, continual monitoring of wounds based on, for example, microbial wound community and/or host signatures. Data from these sensors will be used to predict if a wound will fail to heal due to infection, diagnose the infection, and regulate administration of targeted treatments by closedloop control to prevent a predicted infection or to resolve an existing infection so that the wound heals.&nbsp;</p><p>Given that infection initiates at the time of injury and can take hold before medivac under anti access/area denial conditions, to have the greatest impact these technologies need to be pushed forward for use on the battlefield. Even if medivac occurs immediately, without the ability to prevent infection, the downstream care required to treat the surge of wound infections resulting from a large-scale combat operation will overwhelm care capacity.</p><p>Key to success of the BEST program will be technologies that:</p><ol><li>Adapt to variations in the wound microbial community composition</li><li>Adapt to variations among individuals</li><li>Continually update the status of a wound to intervene when indicated to fail</li><li>Utilize nonantibiotic treatments to which microbes cannot develop resistance due to high rates of antibiotic resistant combat wound infections</li><li>Does not interfere with a wound that is predicted to heal on its own</li></ol><p>By the end of the program, the sensor and treatment elements will be combined into a low size, weight, and power (SWaP), closed-loop device that can provide rapid predictions and precise treatments and can be deployed at all roles of military medical care including the battlefield. Specific target metrics will be described in the forthcoming BEST Program Solicitation.</p><p>The technical objective of the BEST program is to develop technologies to TRL-5 (prototype technology produced at pilot scale that undergoes rigorous testing). In pursuing this objective, it is imperative that performer teams propose technologies that when fully developed (i.e., TRL-8, completed clinical evaluations) are reasonably expected to be mass produced at non-prohibitive costs; are reasonably expected to operate in remote and austere environments including battlefields; and are reasonably expected to be low size, weight, and power (SWaP) for use on battle fields.</p><p>In support of the BEST performer technical research efforts, DARPA and members of the Government team will make datasets available to performer teams that relate wound microbial community composition to the host immune state and the wound outcome (healed or failed to heal due to infection). In addition, DARPA will utilize Government combat wound and infection subject matter experts (SMEs) to engage with performer teams on a regular basis and assess and provide feedback on the technical aspects of the performer team efforts.</p><p>In addition to pursuing the technical objectives, BEST performers will be expected to plan for transition of their approaches and prototypes. This will include developing and executing effective strategies to prepare for regulatory, clinical, and commercialization next steps with the objective of creating opportunities for advanced development and follow-on funding from private and/or government sponsors. For the regulatory strategy, the goal is generation of a preclinical dataset in large animal models and preparation of a regulatory package such as an Investigational Device Exemption (IDE) for submission to the Food and Drug Administration (FDA). For the commercialization strategy, the goal is generation of a Financing and/or Investor Engagement Plan.</p><p>Beyond the battlefield, wound infections are a risk to many patients (e.g., those with diabetic foot ulcers). As such, BEST performers will be expected to address relevant military and civilian clinical and market needs in their transition strategies.</p><p>In support of BEST transition efforts, DARPA will utilize Government regulatory and commercialization SMEs to engage with performer teams on a regular basis and assess and provide feedback on the regulatory and commercialization aspects of the performer team efforts.</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+          <div class="content-width-x-large margin-x-auto paragraph paragraph--type--from-library paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+      
+            <div class="field field--name-paragraphs field--type-entity-reference-revisions field--label-hidden field__item">
+  <div class="content-width-x-large margin-x-auto desktop:padding-top-0 mobile-lg:padding-top-5 paragraph paragraph--type--right-rail paragraph--view-mode--default">
+    
+      
+      <div class="field field--name-field-right-rail-paragraph field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+
+
+
+      <div class="padding-bottom-3 border-bottom-1px margin-bottom-3 paragraph paragraph--type--program-program-manager-link paragraph--view-mode--default">
+      
+        <p class="text-bold">Program Manager</p>
+        <h6>
+          
+          
+          
+        </h6>
+
+        <p>
+          ,
+          
+        </p>
+
+        <p><a class="display-flex" href><span class="padding-right-1">Read bio</span>
+            <svg data-name="Component 32 – 4" width="30" height="30" viewBox="0 0 30 30">
+              <circle id="Ellipse_48" data-name="Ellipse 48" cx="15" cy="15" r="15" fill="#15cde7" />
+              <g id="Group_28494" data-name="Group 28494" transform="translate(-601 -6480.795)">
+                <path id="Path_34153" data-name="Path 34153" d="M3.582,0V9.489L0,5.906V8.718l3.17,3.17,1.406,1.406,1.406-1.406,3.17-3.17V5.906L5.57,9.489V0Z" transform="translate(609.353 6499.947) rotate(-90)" fill="#18191c" />
+              </g>
+            </svg>
+
+          </a></p>
+
+          </div>
+  
+
+</div>
+          </div>
+  
+
+      </div>
+</div>
+      
+
+              </div>
+      
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Resources</h4><p><a href="https://drupal.darpa.mil/events/2025/best-proposers-day"><strong>Event</strong>: BEST Proposers Day</a></p><h4>Opportunity&nbsp;</h4><p>DARPA-SN-25-31<br><br><strong>Published: </strong>Jan. 30, 2025<br><strong>Deadline: </strong>Feb. 14, 2025</p><p><a class="primary-button-light primary-button-padding" href="https://sam.gov/opp/8698a5251a4f44af896155e4cecba0a5/view" target="_blank"><span>Special Notice</span>&nbsp;</a>&nbsp;</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-05T11:36:19-05:00" title="Wednesday, February 5, 2025 - 11:36" class="datetime">Wed, 02/05/2025 - 11:36</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/programs/best-bioelectronics>
+
+---
+
+## Netgear fixes critical bugs as Five Eyes warn about break-ins at the edge
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>International security squads all focus on stopping baddies busting in through routers, IoT kit etc</h4> <p>Netgear is advising customers to upgrade their firmware after it patched two critical vulnerabilities affecting multiple routers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/netgear_fixes_critical_bugs_while/>
+
+---
+
+## The Poetry Fan Who Taught an LLM to Read and Write DNA
+
+date: 2025-02-05, from: Quanta Magazine
+
+By treating DNA as a language, Brian Hie’s “ChatGPT for genomes” could pick up patterns that humans can’t see, accelerating biological design.            <p>The post <a href="https://www.quantamagazine.org/the-poetry-fan-who-taught-an-llm-to-read-and-write-dna-20250205/" target="_blank">The Poetry Fan Who Taught an LLM to Read and Write DNA</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-poetry-fan-who-taught-an-llm-to-read-and-write-dna-20250205/>
+
+---
+
+## SBIR: Spectrum Monitoring and Awareness in Real-Time (SMART) - Open Topic
+
+date: 2025-02-05, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">SBIR: Spectrum Monitoring and Awareness in Real-Time (SMART) - Open Topic</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+      
+
+              </div>
+      
+      </div>
+</div>
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p><strong>OUSD (R&amp;E) critical technology area(s)</strong>: &nbsp;Advanced Computing and Software, Integrated Sensing and Cyber</p><p id="objective"><strong>Objective: </strong>The objective of the Spectrum Monitoring and Awareness in Real-Time Open SBIR is to develop advanced capabilities that provide military dismounted ground tactical units real-time awareness of the radio frequency (RF) spectrum.</p><p id="description"><strong>Description: </strong>In an increasingly complex operational environment, it is imperative that military dismounted ground tactical units have real-time awareness of the RF spectrum. This awareness is critical to build an actionable picture of the threat environment and adhere to blue force emissions control (EMCON) procedures. To enable this awareness, ground units must have the technical capability to:</p><ol><li>Detect, separate from background noise, and characterize signals of interest, including identifying the communications protocol for signals within the RF communications band</li><li>Build a pattern of life (POL) of the RF spectrum over time</li><li>Localize and/or geolocate emitters</li></ol><p>Currently, dismounted tactical ground units are limited in their ability to accomplish all tasks in real-time. Although specialized units may be capable of doing one or more of these tasks, often characterization and identification of signals are done via reach-back organizations, and ground units won’t get feedback for hours or days later, if at all. This greatly reduces survivability and inhibits the unit’s ability to adapt to a complex, agile threat by maneuvering effectively through the RF spectrum.</p><p>Dismounted tactical ground units are equipped with man-portable software defined radios (SDRs) like the L3Harris AN/PRC-117G or AN/PRC-152A. Unfortunately, these SDRs are designed for communications and data sharing, and despite many advances in RF processing and management, they have limited ability to contribute to the technical capabilities described above. In addition to SDRs, warfighters are often equipped with Android tablets running the Android Tactical Assault Kit (ATAK) <a href="#1">[1]</a>. These Android tablets are very flexible for rapid implementation of new capabilities (e.g., incorporating AI/ML into existing plugins, new mission/domain-specific plugins). Unfortunately, the limiting factor is often the use of proprietary hardware (i.e., SDR) which prevents industry and academia from demonstrating novel technological developments that would require the manufacturer to modify/adapt their hardware.</p><p>Recently, there have been significant developments in SDR technology that facilitate rapid reconfiguration and/or adaptation for various tasks (e.g., Hedgehog SDR <a href="#2">[2]</a>). Additionally, there have been significant enhancements in handheld compute capabilities procured by the DoD. These enhancements include longer battery life; central processing unit (CPU), graphics processing unit (GPU), and neural processing unit (NPU) capacity; memory; and improved durability.</p><p>The Defense Advanced Research Projects Agency (DARPA) solicits technologies that, leveraging advancements in SDR technology, and handheld or tablet-based compute, optimize warfighter capabilities in one or more of the three technical capability areas described above.</p><p>A successful proposal should specify which of the three technical capability areas is being targeted. Proposals should include the RF bandwidth covered by the proposed solution and, if targeting the POL technical capability, the timeframe for POL required to gain specific insights. Solutions can be algorithmic, software, hardware, and/or material in nature; however, hardware/material solutions should not introduce a new physical burden on the warfighter (i.e., modifying or replacing an antenna/SDR is acceptable, but introducing an additional sensor/antenna/radio/tablet is not). Moreover, proposed solutions should not interfere with the primary function of the equipment (i.e., warfighter communication capability must not be degraded). Additionally, information should be presented in an intuitive manner that enhances situational awareness and does not impose an additional cognitive burden on the warfighter who does not have expertise in the field of RF spectrum operations.</p><p>An initial white paper describing the technical approach is required and will be evaluated. If DARPA selects a white paper for evaluation, the Government will issue an invitation to submit a full proposal. The technical white paper should include an overview of the proposed concept with details to support feasibility. The overview should address the bullets below listed in order of importance:</p><ul><li>Proposed system: Describe the proposed solution. Outline the design and operation of the main hardware and software components that are being proposed for development. Specify which parts of the solution require modification or replacement of fielded hardware.</li><li>Concept of employment: Identify how the proposed solution could be employed. Provide details about which of the three technical capability areas are being addressed, and the specific capabilities and limitations of the proposed solution. For example, a proposal targeting the POL technical capability area should specify the observation timeframe required to gain specific insights, what insights would be provided, and RF bandwidth of the proposed solution. Also identify potential new tactics, techniques, or procedures that are required for warfighters to employ the system appropriately.</li><li>Interoperability: Provide a brief analysis on how the proposed system will integrate with existing communications equipment fielded to ground tactical units. Identify potential risks that are introduced to the warfighter to include increased cognitive tasks, training requirements, potential degradation of communication, increased weight, etc.</li><li>Scalability: Provide a brief analysis of the viability of scaling the technology across both the DoD and industry. What are the non-DoD uses of the technology? Are the production costs low enough to merit widespread adoption? What are the projected maintenance and storage requirements, operational availabilities, and service lifetimes?</li></ul><h3 id="phase1">Phase I</h3><p>During Phase I, the company shall research and develop innovative solutions in one or more of the three technical capability areas described above. The company shall develop novel technology that demonstrates the technical capability to provide real-time RF situational awareness to the dismounted tactical ground user without introducing a new physical or cognitive burden to the warfighter, and without interfering with the primary function of their equipment. Proposers should recommend quarterly technical milestones that will be used to demonstrate their progress to DARPA throughout Phase I. These milestones will also be accompanied by monthly financial and technical summary reports.</p><p>At the end of Phase I, the company shall provide a formal written technical report including calculations, test data, analysis, and any relevant details from intermediate milestones. The report should also set the stage for Phase II by detailing the expected performance (i.e., RF bandwidth, timeframe for POL with expected insights, etc.) of the technology and comparing the technology to existing specialized solutions. Documentation must also include refined insights and analysis related to the previously mentioned concept of employment, interoperability, and scalability sections. A commercialization roadmap will also be required to demonstrate a high probability that continued design and development should result in a Phase II mature product.</p><h3 id="phase2">Phase II</h3><p>Produce prototype solutions that enable mission essential tasks in more complex field conditions. Products will be provided to select DoD units for further evaluation. In addition, companies will provide a technology transition and commercialization plan for DoD and commercial markets.</p><h3 id="phase3">Phase III dual use applications</h3><p>Potential dual-use applications include RF detection, spectrum analysis, and localization of RF interference sources in support of first responder operations as described in the Radio Frequency Detection, Spectrum Analysis, and Direction-Finding Equipment Market Survey Report <a href="#3">[3]</a>. These technologies could be used to “detect, identify, and locate RF interference sources that may be disrupting first responder communications systems” <a href="#3">[3]</a>.</p><h3>References</h3><p id="1">[1] Air Force Research Laboratory, “Tactical Assault Kit (TAK).” Accessed: Nov. 12, 2024. Available: <a href="https://afresearchlab.com/technology/information-technology/tactical-assault-kit-tak/" target="_blank">https://afresearchlab.com/technology/information-technology/tactical-assault-kit-tak/</a></p><p id="2">[2] BAE Systems, Hedgehog multifunction, multichannel software-defined radio, CS-19-A35-01-Hedgehog. 2019. Available: <a href="https://www.baesystems.com/en-media/uploadFile/20210404060814/1434640495846.pdf" target="_blank">https://www.baesystems.com/en-media/uploadFile/20210404060814/1434640495846.pdf</a></p><p id="3">[3] H. Shahid, “Radio Frequency Detection, Spectrum Analysis, and Direction Finding Equipment: Market Survey Report,” National Urban Security Technology Laboratory (NUSTL) U.S. Department of Homeland Security Science and Technology Directorate, New York, NY, USA, SAVER-T-MSR-19, April 2019.</p><h3>Keywords</h3><p>Radio frequency detection, radio frequency classification, radio frequency spectrum analysis, electronic warfare (EW), electronic support (ES), emitter localization, artificial intelligence, machine learning</p><h3 id="tpoc">TPOC-1</h3><p>DARPA BAA Help Desk</p><h3>Email</h3><p><a href="mailto:SBIR_BAA@darpa.mil">SBIR_BAA@darpa.mil</a></p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+        
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Opportunity</h4><p>HR0011SB20254-P01</p><p><strong>Publication: </strong>Feb. 5, 2025<br><strong>Deadline:</strong> March 26, 2025</p><!--<p>
+    <a href="/sites/default/files/attachment/2025-01/TurboFCL-SBIR-Topic-Industry-Day.pdf" target="_blank">Industry Day</a> (Slides) | Jan. 7, 2025
+</p>--><p><a class="primary-button-light" href="https://www.dodsbirsttr.mil/submissions/solicitation-documents/active-solicitations" target="_blank">Solicitation</a></p><h4>Resources</h4><!--<ul style="list-style-type:disc;margin-left:0;">
+    <li>
+        <a href="/sites/default/files/attachment/2025-01/FAQ-HR0011SB20254-04-1.pdf" target="_blank">FAQs</a>
+    </li>
+    <li>
+        <a href="/sites/default/files/attachment/2024-12/turbofcl-dp2-cost-proposal-template.xlsx" target="_blank">Cost proposal template</a>
+    </li>
+    <li>
+        <a href="/sites/default/files/attachment/2024-12/SBIR-HR0011SB20254-04-TurboFCL-OT-Template.docx" target="_blank">Other Transaction for Prototypes Template</a>
+    </li>
+    <li>
+        <a href="/sites/default/files/attachment/2024-12/SBIR-HR0011SB20254-04-OT-Certifications.docx">Certifications for Agreement</a>
+    </li>--><ul style="list-style-type:disc;margin-left:0;"><li><a href="https://drupal.darpa.mil/work-with-us/communities/small-business/fy25-topics">FY25 topics</a></li></ul></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Sean.Timko.ctr…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-05T10:45:23-05:00" title="Wednesday, February 5, 2025 - 10:45" class="datetime">Wed, 02/05/2025 - 10:45</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/programs/smart>
+
+---
+
+## You know something's wrong when Clippy fills you with nostalgia for simpler times
+
+date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+
+<h4>It looks like you want to irritate Windows users. Do you want some help with that?</h4> <p>There are some things that can&#39;t be unseen, including Microsoft posting a hand-drawn image of the company&#39;s infamous assistant, Clippy, on social media.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/05/microsoft_clippy_post/>
+
+---
+
+## UnixWare in 2025: still actively developed and maintained
+
+date: 2025-02-05, from: OS News
+
+It kind of goes by under the radar, but aside from HP-UX, Solaris, and AIX, there&#8217;s another traditional classic UNIX still in active development today: UnixWare (and its sibling, OpenServer). Owned and developed by Xinuos, UnixWare and other related code and IP was acquired by them when the much-hated SCO crashed and burned about 15 years ago or so, and they&#8217;ve been maintaining it ever since. About a year ago, Xinuos released Update Pack 1 and Maintenance Pack 1 for UnixWare 7 Definitive 2018, followed by similar update packs for OpenServer 6 later in 2024. These update packs bring a bunch of bugfixes and performance improvements, as well as a slew of updated open source components, like new versions of SAMBA, sendmail, GCC and tons of other GNU components, OpenSSH and OpenSSL, and so, so much more, enabling a relatively modern and up-to-date build and porting environment. They can be installed through the patchck update utility, and while the Maintenance Pack is free for existing registered users, the Update Pack requires a separate license. UnixWare, while fully capable as a classic UNIX for workstations, isn&#8217;t really aimed at individuals or hobbyists (sadly), and instead focuses on existing enterprise deployments, where such licensing costs are par for the course. UnixWare runs on x86, and can be installed both on real hardware as well as in various virtualised environments. I contacted Xinuos a few days ago for a review license, and they supplied me with one so I can experiment with and write about UnixWare. I&#8217;ve currently got it installed in a Linux kvm, where it runs quite well, including the full X11R6 CDE desktop environment and graphical administration tools. Installing updates is a breeze thanks to patchck automating the process of finding, downloading, and installing the correct ones. I intend to ask Xinuos about an optimal configuration for running UnixWare on real hardware, too. 
+
+<br> 
+
+<https://www.osnews.com/story/141690/unixware-in-2025-still-actively-developed-and-maintained/>
 
 ---
 
@@ -45,7 +837,7 @@ date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
 
 ---
 
-## Workday erases 8.5% of workforce because of...AI
+## Workday erases 8.5% of workforce because of ... AI
 
 date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
 
@@ -119,9 +911,9 @@ date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
 
 ## Microsoft quietly erases Windows 11 TPM 2.0 bypass workaround from help page
 
-date: 2025-02-05, updated: 2025-02-05, from: The Register (UK I.T. News)
+date: 2025-02-05, updated: 2025-02-06, from: The Register (UK I.T. News)
 
-<h4>You&#39;ll upgrade that aging piece of kit and you&#39;ll like it</h4> <p>For the past three years, Microsoft documented a way to run Windows 11 on PCs that lack Trusted Platform Module 2.0 hardware - but that workaround has now disappeared from its help page.…</p> 
+<h4>You&#39;ll upgrade that aging piece of kit and you&#39;ll like it</h4> <p><strong>updated</strong>  For the past three years, Microsoft documented a way to run Windows 11 on PCs that lack Trusted Platform Module 2.0 hardware – but that workaround has now disappeared from its help page.…</p> 
 
 <br> 
 

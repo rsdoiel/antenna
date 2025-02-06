@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-02-05 07:07:18
+updated: 2025-02-06 07:06:28
 ---
 
 # games
 
-(date: 2025-02-05 07:07:18)
+(date: 2025-02-06 07:06:28)
+
+---
+
+## Not sure what movie to watch? Leave a comment, we’ll help
+
+date: 2025-02-06, updated: 2025-02-05, from: Polygon Website
+
+We love movie recommendations here at Polygon. Whether it’s horror, sci-fi, action, comedy, thrillers, or just the best of the year, we’re always trying to introduce readers to new and exciting movies they’ll love. But now we want to find the perfect movie for you. (That’s you.) That’s why we have this regular open thread [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/519250/best-movies-watch-tonight-best-recommendations-streaming>
+
+---
+
+## Discoveries
+
+date: 2025-02-06, updated: 2025-02-05, from: Polygon Website
+
+At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
+
+---
+
+## This ultraviolent indie game would have pissed off Congress in the 1990s
+
+date: 2025-02-06, updated: 2025-02-05, from: Polygon Website
+
+Mario collects mushrooms. Donkey Kong collects bananas. The naked, blood-lusting loner of Butcher’s Creek collects snuff films. More than likely, you already know whether you’re the sort of person who will play the latest gorefest from Dusk creator David Szymanski — or the sort of person who wonders how this shit is legal. I’ll share [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/519184/butchers-creek-review-steam-david-szymanski>
+
+---
+
+## Painting miniatures: the ultimate beginner’s guide
+
+date: 2025-02-06, updated: 2025-02-06, from: Polygon Website
+
+Painting miniatures is a good, chill time. Since I picked the hobby back up in 2017 I’ve spent hundreds of hours away from my screens, listening to good music and great podcasts. And, as a bonus, I have dozens upon dozens of smartly painted little miniatures for all my favorite games. If you’d also like [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/23643118/how-to-paint-miniatures>
+
+---
+
+## All Legacy Paths and requirements in Civilization 7
+
+date: 2025-02-06, updated: 2025-02-05, from: Polygon Website
+
+Legacy Paths in Civilization 7 are a way to earn Legacy Points during each age that put you in better positions for subsequent ages. They’re not the same as — though they are related to — victories. Our Civilization 7 guide will explain what Legacy Paths are and all the steps you’ll need to complete [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/civilization-7-guides/512563/legacy-paths-points-ages-requirements-civ-7>
+
+---
+
+## All victory types in Civilization 7 and how to get them
+
+date: 2025-02-06, updated: 2025-02-05, from: Polygon Website
+
+Victory, like everything in Civilization 7, is complex. There are a lot of different ways to rocket your leader (and your civilization) over the finish line to become the top-ranked civilization on the map — including literal rockets! There are three victory types in Civilization 7: Legacy Path (winning via traditional economic, military, science, or [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/civilization-7-guides/514250/victory-types-all-how-to-get-civ-7-victories>
+
+---
+
+## How to get an Economic Victory in Civilization 7
+
+date: 2025-02-06, updated: 2025-02-05, from: Polygon Website
+
+An Economic Victory in Civilization 7 is a little more Machiavellian than the other victories — hence why Machiavelli is such a good leader for it. Through the ages, you’ll work hard to create strong diplomatic partnerships with other civilizations in order to enrich them — and, more importantly, yourself. In this Civilization 7 guide, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/civilization-7-guides/514292/economic-victory-conditions-how-to-get-win-civ-7>
+
+---
+
+## How to get a Culture Victory in Civilization 7
+
+date: 2025-02-06, updated: 2025-02-05, from: Polygon Website
+
+A Culture Victory in Civilization 7 may not sound as dramatic as a Military Victory or a Science Victory, but it’s no less exciting. You’ll be building beautiful buildings that survive through the ages, spreading your religion to other countries and bringing the world together with one of civilization’s greatest achievements: the World’s Fair. In [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/civilization-7-guides/514285/cultural-victory-conditions-how-to-get-win-civ-7>
+
+---
+
+## How to get a Science Victory in Civilization 7
+
+date: 2025-02-06, updated: 2025-02-05, from: Polygon Website
+
+A Science Victory in Civilization 7 is all about the space race, one of the most exciting events in human history. Through the ages, you’ll increase your intellect with insightful Codices, increase your yields with specialists, and launch the first manned spaceflight in history to win the game. In this Civilization 7 guide, we’re going [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/civilization-7-guides/514287/science-victory-conditions-how-to-get-win-civ-7>
+
+---
+
+## How to get a Military Victory in Civilization 7
+
+date: 2025-02-06, updated: 2025-02-05, from: Polygon Website
+
+A Military Victory in Civilization 7 is all about conquering your enemies with your raw might and having as many settlements in your empire as possible — which will then help you conquer even more civilizations. But this victory is less about fully eliminating your fellow leaders and more about building the biggest stick you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/civilization-7-guides/514290/military-victory-conditions-how-to-get-win-civ-7>
 
 ---
 
@@ -66,18 +186,6 @@ Shogun’s Arena is a group of floating islands that appear in Fortnite Chapter 
 <br> 
 
 <https://www.polygon.com/fortnite-guide/503243/shoguns-arena-location-where-to-find>
-
----
-
-## Discoveries
-
-date: 2025-02-05, updated: 2025-02-05, from: Polygon Website
-
-At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
 
 ---
 

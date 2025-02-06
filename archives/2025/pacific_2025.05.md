@@ -1,11 +1,511 @@
 ---
 title: pacific
-updated: 2025-02-05 07:07:16
+updated: 2025-02-06 07:06:26
 ---
 
 # pacific
 
-(date: 2025-02-05 07:07:16)
+(date: 2025-02-06 07:06:26)
+
+---
+
+## PII rescues container ship
+
+date: 2025-02-06, from: Marshal Islands Journal
+
+<p>A Pacific International Inc. tug boat saved a Maersk container vessel carrying over 9,000 containers of goods. The vessel, Maersk Saltoro, was experiencing engine problems west of Pohnpei on its voyage to China. PII’s Marshall Islands Towing and Salvage Company “deployed its tug LT-804 on January 22 to assist the container ship, which was adrift [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/pii-rescues-container-ship/">PII rescues container ship</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/pii-rescues-container-ship/>
+
+---
+
+## To keep aid coming, Ukraine appeals to Trump allies: conservative Christians
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Ukraine is sending its largest-ever delegation to a gathering of politically influential Christian leaders in Washington this week, seeking to lay out an argument that protecting religious freedom is a strong reason for continuing U.S. aid to resist Russian aggression.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/nation-world-news/to-keep-aid-coming-ukraine-appeals-to-trump-allies-conservative-christians/>
+
+---
+
+## Judge: No bail for alleged CVLT member from Pahoa
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge in Honolulu on Monday ordered that a 41-year-old Pahoa man be held without bail pending his transfer to Los Angeles to face a charge of engaging in child exploitation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/hawaii-news/judge-no-bail-for-alleged-cvlt-member-from-pahoa/>
+
+---
+
+## Musk’s DOGE granted access to US Medicare and Medicaid systems
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Representatives of Elon Musk&#8217;s Department of Government Efficiency have been working at the Centers for Medicare and Medicaid Services where they were granted access to agency systems and technology, CMS said on Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/nation-world-news/musks-doge-granted-access-to-us-medicare-and-medicaid-systems/>
+
+---
+
+## Journalists blast bill proposing regulations
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>A bill introduced in the Hawaii Legislature would establish a state-sanctioned journalistic code of ethics and create a Journalistic Ethics Commission and Journalism Review Board that could fine journalists and ban them from covering state government.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/hawaii-news/journalists-blast-bill-proposing-regulations/>
+
+---
+
+## Study confirms sewage leaks in Keaukaha
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>Sewage in Keaukaha is leaching into groundwater 10 times faster than previously believed, according to a study by University of Hawaii scientists.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/hawaii-news/study-confirms-sewage-leaks-in-keaukaha/>
+
+---
+
+## First climate fee bills pass initial hearing, with concerns
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green&#8217;s bills to fund Hawaii&#8217;s climate change response by increasing the state&#8217;s hotel room tax and dedicating all of the interest from the $1.5 billion rainy day fund were unanimously passed out of a House committee Tuesday, but with concerns that they need &#8220;a lot of work.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/hawaii-news/first-climate-fee-bills-pass-initial-hearing-with-concerns/>
+
+---
+
+## US Postal Service U-turn on China parcels sows confusion among retailers, shippers
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>HONG KONG/SEOUL/SHANGHAI &#8212; The U.S. Postal Service said on Wednesday it would again accept parcels from China and Hong Kong, reversing a temporary suspension after President Donald Trump scrapped an exemption used by retailers including Temu, Shein, and Amazon to ship low-value packages duty-free to the U.S.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/nation-world-news/us-postal-service-u-turn-on-china-parcels-sows-confusion-among-retailers-shippers/>
+
+---
+
+## Trump signs order barring transgender student-athletes from women’s sports
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump signed an executive order Wednesday aimed at prohibiting transgender women and girls from competing in women&#8217;s sports, directing agencies to withdraw federal funding for any schools that refused to comply.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/nation-world-news/trump-signs-order-barring-transgender-student-athletes-from-womens-sports/>
+
+---
+
+## ‘I thought we voted for America first’ – Trump Gaza plan divides his party
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump&#8217;s proposal that the U.S. take over the war-torn Gaza Strip prompted confusion and skepticism from some of his fellow Republicans on Wednesday, while others backed his &#8220;bold, decisive&#8221; idea. Meeting with Israeli Prime Minister Benjamin Netanyahu at the White House on Tuesday, Trump proposed the U.S. &#8220;take over Gaza&#8221; and create a &#8220;Riviera of the Middle East&#8221; after resettling Palestinians elsewhere. The idea prompted international condemnation and some dissent from Republicans in Congress, who have largely fallen in line behind Trump&#8217;s initiatives such as pausing foreign aid and eliminating thousands of federal workers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/nation-world-news/i-thought-we-voted-for-america-first-trump-gaza-plan-divides-his-party/>
+
+---
+
+## Judge blocks Trump’s birthright citizenship order nationwide
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>GREENBELT, Maryland &#8212; A second federal judge has issued an order blocking Donald Trump&#8217;s administration from implementing his plan to curtail U.S. birthright citizenship, saying no court in the United States has ever endorsed the Republican president&#8217;s interpretation of the Constitution.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/nation-world-news/judge-blocks-trumps-birthright-citizenship-order-nationwide/>
+
+---
+
+## Union asks judge to block Elon Musk’s DOGE from Labor Dept systems
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; One of the largest U.S. labor unions asked a federal judge on Wednesday to block Elon Musk&#8217;s government cost-cutting effort from accessing the Department of Labor&#8217;s systems, which the union warned could give the billionaire sensitive information about investigations into his companies.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/nation-world-news/union-asks-judge-to-block-elon-musks-doge-from-labor-dept-systems/>
+
+---
+
+## News in Brief for February 6
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>Thousands protest Trump &#0010;policies across the U.S.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/nation-world-news/news-in-brief-for-february-6/>
+
+---
+
+## Mirroring Trump, Milei pulls Argentina from WHO
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>RIO DE JANEIRO &#8212; President Javier Milei of Argentina announced plans to withdraw his nation from the World Health Organization on Wednesday, the latest in a series of moves by Milei that mimic President Donald Trump&#8217;s efforts to break with international norms and alliances.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/nation-world-news/mirroring-trump-milei-pulls-argentina-from-who/>
+
+---
+
+## Kremlin confirms talks with Trump administration about Ukraine
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>BERLIN &#8212; The Kremlin confirmed Wednesday it had established contact with the Trump administration, as discussions begin about the possibility of holding peace talks to end the war in Ukraine.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/nation-world-news/kremlin-confirms-talks-with-trump-administration-about-ukraine/>
+
+---
+
+## Cows have been infected with a second form of bird flu
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>Dairy cows in Nevada have been infected with a new form of bird flu that is distinct from the version that has been spreading through herds over the past year, the U.S. Department of Agriculture announced Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/nation-world-news/cows-have-been-infected-with-a-second-form-of-bird-flu/>
+
+---
+
+## Hawaii County seeks summer lifeguards
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Department of Parks and Recreation is now accepting applications for summer lifeguard positions at county pools.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/community/hawaii-county-seeks-summer-lifeguards/>
+
+---
+
+## Blessing Friday for new signage at Boiling Pots
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>As 27 people in the last 29 years have died at the Wailuku River State Park in areas commonly known as Rainbow Falls and Boiling Pots in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/community/blessing-friday-for-new-signage-at-boiling-pots/>
+
+---
+
+## UH Hilo invites public to Black History Month events
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>The University of Hawaii at Hilo invites the public to its Black History Month events to celebrate, honor and highlight the achievements, contributions and history of Black individuals and communities.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/community/uh-hilo-invites-public-to-black-history-month-events/>
+
+---
+
+## Dinosaurs return to ‘Imiloa
+
+date: 2025-02-06, from: Hawaii Tribune Harold
+
+
+				<p>The &#8216;Imiloa Astronomy Center is hosting &#8220;Expedition Dinosaur: Into the Deep,&#8221; a groundbreaking traveling exhibit that explores the fascinating world of prehistoric oceans and their inhabitants.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/06/community/dinosaurs-return-to-imiloa/>
+
+---
+
+## Understanding Menopause INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-02-06, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Menopause is a natural part of a woman’s life. It is accompanied by a range of symptoms including hot flashes, mood swings and even hysteria...</p>
+<p>The post <a href="https://www.pbshawaii.org/understanding-menopause-insights-on-pbs-hawai%ca%bbi/">Understanding Menopause &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/understanding-menopause-insights-on-pbs-hawai%ca%bbi/>
+
+---
+
+## Amatlain receives high honor
+
+date: 2025-02-06, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Career public servant Amatlain Elizabeth Kabua was awarded “The Order of the Rising Sun, Gold and Silver Star” following a conferral ceremony at the Marshall Islands Resort last Wednesday. The prestigious honor is conferred by imperial decree of Japan Emperor Naruhito and was awarded through Japan Ambassador to RMI Soma Hirohisa. The ceremony [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/amatlain-receives-high-honor/">Amatlain receives high honor</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/amatlain-receives-high-honor/>
+
+---
+
+## Landmark Dialogue to bolster Australia-India cooperation with Island States
+
+date: 2025-02-06, from: University of the South Pacific (Fiji)
+
+<p>&#160; &#160;  A first-of-its-kind dialogue, the Fiji Dialogue, will be held this Friday, 7 February 2025...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/landmark-dialogue-to-bolster-australia-india-cooperation-with-island-states/">Landmark Dialogue to bolster Australia-India cooperation with Island States</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/landmark-dialogue-to-bolster-australia-india-cooperation-with-island-states/>
+
+---
+
+## Step into the Spotlight with USP’s Oceania Dance Theatre
+
+date: 2025-02-06, from: University of the South Pacific (Fiji)
+
+<p>At USP, the Oceania Dance Theatre (ODT) offers dancers a platform to shine while embracing...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/step-into-the-spotlight-with-usps-oceania-dance-theatre/">Step into the Spotlight with USP&#8217;s Oceania Dance Theatre</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/step-into-the-spotlight-with-usps-oceania-dance-theatre/>
+
+---
+
+## Irooj meeting a highlight
+
+date: 2025-02-06, from: Marshal Islands Journal
+
+<p>HILARY HOSIA The inclusion of traditional games and sports may be underway in the near future thanks to developments from the National Socio-Economic and Climate Summit last week. Participants of the weeklong forum appealed to traditional leaders during the Q&#38;A session with members of the Council of Irooj. A participant from Wotho Atoll, requested on [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/irooj-meeting-a-highlight/">Irooj meeting a highlight</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/irooj-meeting-a-highlight/>
+
+---
+
+## US deportations worry islands
+
+date: 2025-02-05, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON The Trump administration’s aggressive action to deport illegal aliens is reverberating around the Pacific, with commentators from Papua New Guinea to Fiji to Tonga to Samoa warning that the arrival of dozens, possibly hundreds, of islanders deported from the US is likely to result in big negative consequences for these small islands. “Quite [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/us-deportations-worry-islands/">US deportations worry islands</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/us-deportations-worry-islands/>
+
+---
+
+## Brief chat with PK Phommachanh-Daigo: Military buildup in CNMI offers opportunities and poses challenges
+
+date: 2025-02-05, from: Pacific Island Times
+
+While the military buildup in the CNMI is a welcome addition to the local economy, it has an ambiguous effect on the civilian landscape, 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/brief-chat-with-pk-phommachanh-daigo-military-buildup-in-cnmi-offers-opportunities-and-poses-challe>
+
+---
+
+## Sixth person dies from Honolulu fireworks explosion
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>A 30-year-old woman critically injured at an Honolulu New Year&#8217;s Eve party when a stockpile of illegal aerials accidentally detonated died this morning</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/hawaii-news/sixth-person-dies-from-honolulu-fireworks-explosion/>
+
+---
+
+## MauiWES to hold final recruitment events, transition to monitoring participants
+
+date: 2025-02-05, from: University of Hawaiʻi News
+
+<p>The team will focus on monitoring the participants annually for at least the next 10 years to see how the wildfires have affected their mental and physical health.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/05/mauiwes-final-recruitment-events/">Maui<abbr>WES</abbr> to hold final recruitment events, transition to monitoring participants</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/05/mauiwes-final-recruitment-events/>
+
+---
+
+## Image of the Week: Samam
+
+date: 2025-02-05, from: University of Hawaiʻi News
+
+<p>This week’s image is from University of <span aria-label="Hawaii">Hawai&#699;i</span> at Mānoa's Janani Lakshmanan.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/05/image-of-the-week-samam/">Image of the Week: Samam</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/05/image-of-the-week-samam/>
+
+---
+
+## Trump says US wants to take over Gaza Strip
+
+date: 2025-02-05, updated: 2025-02-06, from: Marianas Variety
+
+WASHINGTON (Reuters) — President Donald Trump said the U.S. would take over the war-ravaged Gaza Strip and develop it economically after Palestinians are resettled elsewhere, moves that would shatter decades of U.S. policy toward the Israeli-Palestinian conflict. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-says-us-wants-to-take-over-gaza-strip/article_8ffe7ba0-e3b7-11ef-afe1-0f6197ba647c.html>
+
+---
+
+## CNMI SLDS team engages in national workshops
+
+date: 2025-02-05, updated: 2025-02-06, from: Marianas Variety
+
+(PSS) — The CNMI Statewide Longitudinal Data System or SLDS Program participated in two workshops that provided valuable insights and strategies that will further enhance its commitment to meaningful decision-making and effective data governance. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-slds-team-engages-in-national-workshops/article_b28db59e-e3be-11ef-805b-af0a09db7e1f.html>
+
+---
+
+## Are you eligible for EITC? Get it, and get it right.
+
+date: 2025-02-05, updated: 2025-02-06, from: Marianas Variety
+
+(CNMI Division of Revenue and Taxation) — Workers may get a larger tax refund this year because of the Earned Income Tax Credit. But to get it, you must file a tax return and claim it. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/are-you-eligible-for-eitc-get-it-and-get-it-right/article_35849daa-e3bf-11ef-8a93-9b8ad8096a2a.html>
+
+---
+
+## Defense attorney: Service firearm was in DPS vehicle
+
+date: 2025-02-05, updated: 2025-02-06, from: Marianas Variety
+
+POLICE Officer Zsazsa Manahane, 35, did not leave her service firearm at a residence, according to her attorney Joey San Nicolas in a motion to dismiss the case against her. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/defense-attorney-service-firearm-was-in-dps-vehicle/article_af32cc32-e3c2-11ef-a827-83f13400bb86.html>
+
+---
+
+## Trump in no hurry to talk to Xi amid new tariff war
+
+date: 2025-02-05, updated: 2025-02-06, from: Marianas Variety
+
+WASHINGTON/BEIJING (Reuters) — President Donald Trump said on Tuesday he is in no hurry to speak to Chinese President Xi Jinping to try to defuse a new trade war between the world's two largest economies sparked by his sweeping 10% tariffs on all Chinese imports. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/trump-in-no-hurry-to-talk-to-xi-amid-new-tariff-war/article_3736845a-e3b1-11ef-b4b3-cbda3f5c945b.html>
+
+---
+
+## Love is in the air at Crowne Plaza Resort Saipan this February
+
+date: 2025-02-05, updated: 2025-02-06, from: Marianas Variety
+
+(Special Advertising Feature) —  February is here, and Crowne Plaza Resort Saipan is ready to make this month extra special with exclusive Valentine’s Day offers and exciting new experiences for guests. Whether you’re planning a romantic getaway, an intimate dinner, or simply looking for a place to unwind, we have something for everyone! 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/love-is-in-the-air-at-crowne-plaza-resort-saipan-this-february/article_e3c1e03c-e3b3-11ef-99f4-e378dff43a70.html>
+
+---
+
+## OVR closed on Feb. 7
+
+date: 2025-02-05, updated: 2025-02-06, from: Marianas Variety
+
+(OVR) — The CNMI Office of Vocational Rehabilitation will be closed on Friday, Feb. 7, for staff professional development, specifically for the DOL/WIA - OVR Workgroup Session. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/ovr-closed-on-feb-7/article_dcbe2896-e3b2-11ef-9c69-d7f8410dc351.html>
 
 ---
 
@@ -244,6 +744,20 @@ date: 2025-02-05, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/02/05/nation-world-news/senate-panel-pushes-through-kennedys-nomination-along-party-lines/>
+
+---
+
+## Hilo woman dead after single-car crash, third traffic fatality this week
+
+date: 2025-02-05, from: Hawaii Tribune Harold
+
+
+				<p>Police said an 86-year-old woman critically injured in a one-car crash Jan. 30 in Hilo has died.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/05/hawaii-news/hilo-woman-dead-after-single-car-crash-third-traffic-fatality-this-week/>
 
 ---
 

@@ -1,11 +1,86 @@
 ---
 title: motorcycles
-updated: 2025-02-05 07:07:20
+updated: 2025-02-06 07:06:30
 ---
 
 # motorcycles
 
-(date: 2025-02-05 07:07:20)
+(date: 2025-02-06 07:06:30)
+
+---
+
+## NYC’s New E-Bike Trade-In Program Aims To Hit Two Birds With One Stone
+
+date: 2025-02-06, from: Ride Apart, Electric Motorcycle News
+
+It hopes to make safe and certified e-bikes accessible to food delivery riders who need them most. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/749623/nyc-ebike-trade-in-program-battery-safety/>
+
+---
+
+## Yamaha Has Made a Million R15 Sportbikes, They're Still Not Coming To the US
+
+date: 2025-02-06, from: Ride Apart, Electric Motorcycle News
+
+The R15 has proven to be a smash hit in the Asian market, though. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/749624/yamaha-r15-1million-motorcycles-produced/>
+
+---
+
+## This Kei Truck Has a Turbocharged Superbike Engine Heart, and Snowmobile Tracks
+
+date: 2025-02-06, from: Ride Apart, Electric Motorcycle News
+
+I don't know what to call it other than rad.  
+
+<br> 
+
+<https://www.rideapart.com/news/749747/cboys-cboystv-kei-truck-superbike-engine-snowmobile/>
+
+---
+
+## Ola’s Roadster X Electric Motorcycle Is Real, and It’s Ready To Hit India’s Roads
+
+date: 2025-02-06, from: Ride Apart, Electric Motorcycle News
+
+Could this be Ola’s ticket to the global market?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/749627/ola-roadster-x-launch-price-specs-features/>
+
+---
+
+## Sturgis the City Is a Mess, But Sturgis the Rally Says Everything is Fine
+
+date: 2025-02-06, from: Ride Apart, Electric Motorcycle News
+
+Rally organizers are unfazed by recent city issues as they prepare for the largest Sturgis ever. Or so they say. 
+
+<br> 
+
+<https://www.rideapart.com/news/749740/sturgis-city-motorcycle-rally-turmoil-turnover/>
+
+---
+
+## 2025 ARCA West at Bakersfield: Team Reactions and Analysis
+
+date: 2025-02-05, from: Kickin the Tires blog
+
+By Vincent Delforge, Staff Writer The first race of the season, the West Coast Stock Car Motorsports Hall of Fame 150, held on the half-mile paved oval at Kevin Harvick’s&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/2025-arca-west-at-bakersfield-team-reactions-and-analysis/>
 
 ---
 

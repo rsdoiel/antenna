@@ -1,11 +1,363 @@
 ---
 title: going electric
-updated: 2025-02-05 07:07:21
+updated: 2025-02-06 07:06:31
 ---
 
 # going electric
 
-(date: 2025-02-05 07:07:21)
+(date: 2025-02-06 07:06:31)
+
+---
+
+## Honda Is Why General Motors Is Slowing Down EV Production In Mexico
+
+date: 2025-02-06, from: Inside EVs News
+
+GM cut a third shift at the Ramos Arzipe plant to better match the demand for the Honda Prologue. 
+
+<br> 
+
+<https://insideevs.com/news/749751/gm-honda-ramos-arzipe-factory/>
+
+---
+
+## Ford's CEO Finally Says The Quiet Part Loud About Tariffs
+
+date: 2025-02-06, from: Inside EVs News
+
+Plus, China wants to be "move loved" in China and Xiaomi wants to sell $1 billion worth of its SU7 Ultra supercar-like EVs. 
+
+<br> 
+
+<https://insideevs.com/news/749760/ford-tariffs-higher-prices-ceo/>
+
+---
+
+## 2025 Jeep Wagoneer S Is Cheaper, But There’s An In-App Purchase Involved
+
+date: 2025-02-06, from: Inside EVs News
+
+The new Limited trim joins the Launch Edition for the 2025 model year. 
+
+<br> 
+
+<https://insideevs.com/news/749788/2025-jeep-wagoneer-s-limited-price-availability/>
+
+---
+
+## Jeep Wagoneer S EV just got a $5,000 price cut with a new Limited trim
+
+date: 2025-02-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Jeep-Wagoneer-S-Limited.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Jeep’s first electric SUV in the US just got more affordable. On Thursday, <a href="https://electrek.co/guides/jeep/">Jeep</a> launched a new Limited trim at the Chicago Auto Show. The new 2025 Jeep Wagoneer S Limited trim is $5,000 cheaper than the Launch Edition. And it also qualifies for the $7,500 federal EV tax credit. Here’s what the new model includes.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-jeep,jeep" data-layer-viewtype="unknown" data-post-id="400498" href="https://electrek.co/2025/02/05/jeep-wagoneer-s-ev-gets-5000-price-cut-new-limited-trim/#more-400498" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/05/jeep-wagoneer-s-ev-gets-5000-price-cut-new-limited-trim/>
+
+---
+
+## Ford CEO: We Need EREVs Because Americans 'Love Their Big Trucks'
+
+date: 2025-02-06, from: Inside EVs News
+
+Ford's CEO says EREVs will help overcome the "unsolvable" problems with large battery-electric trucks and SUVs. 
+
+<br> 
+
+<https://insideevs.com/news/749759/ford-ceo-erev-trucks/>
+
+---
+
+## Ford Says Large Electric Trucks And SUVs Have 'Unresolvable' Problems
+
+date: 2025-02-05, from: Inside EVs News
+
+The economics just don't work right now, he said. 
+
+<br> 
+
+<https://insideevs.com/news/749756/ford-large-ev-trucks-have-unresolvable-problems/>
+
+---
+
+## Here’s our first look at Volkswagen’s cheapest EV, with prices starting at about $20,000
+
+date: 2025-02-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Volkswagen-cheapest-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>We are finally getting a look at <a href="https://electrek.co/guides/volkswagen/">Volkswagen’s</a> answer to BYD and other low-cost Chinese electric cars. Volkswagen previewed its cheapest EV for the first time on Wednesday. It will kick off a new series of entry-level electric vehicles, with starting prices at €20,000, or just over $20,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen" data-layer-viewtype="unknown" data-post-id="400749" href="https://electrek.co/2025/02/05/volkswagen-teases-first-look-at-cheapest-ev-starting-20000/#more-400749" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/05/volkswagen-teases-first-look-at-cheapest-ev-starting-20000/>
+
+---
+
+## Mercedes is already heavily discounting its 2025 EVs
+
+date: 2025-02-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/2025-Mercedes-EQS-580-black-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Mercedes-Benz had a rough EV <a href="https://media.mbusa.com/releases/release-4efd8afecd0ad84220062379551956e8-mercedes-benz-usa-reports-9-year-over-year-growth-for-passenger-car-sales" target="_blank" rel="noreferrer noopener">sales year in 2024</a> in the US, so it’s hitting the reset button this year. To lure buyers back in, the automaker is already rolling out sweet discounts on its 2025 EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="2025,electric-vehicles,mercedes-benz,mercedes-benz-eqb,mercedes-benz-eqe,mercedes-benz-eqs" data-layer-viewtype="unknown" data-post-id="400715" href="https://electrek.co/2025/02/05/mercedes-discounting-its-2025-evs/#more-400715" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/05/mercedes-discounting-its-2025-evs/>
+
+---
+
+## Ford's BlueCruise Is Outselling GM Super Cruise By A Huge Margin
+
+date: 2025-02-05, from: Inside EVs News
+
+But it's not because of demand—it's because of where BlueCruise is implemented in the Ford lineup. 
+
+<br> 
+
+<https://insideevs.com/news/749753/ford-bluecruise-vs-gm-super-cruise/>
+
+---
+
+## Audi quietly dropped an extreme overland Q6 e-tron — and we are here for it
+
+date: 2025-02-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/A250021_large.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The overlanding trend may be played out, but no one told Audi — and they absolutely knocked it out of the park with this extreme off-road Q6 e-tron concept featuring genuine, <strong>high-clearance portal axles</strong>. (!?)</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="audi,concept-car,off-road" data-layer-viewtype="unknown" data-post-id="400683" href="https://electrek.co/2025/02/05/audi-quietly-dropped-an-extreme-overland-q6-e-tron-and-we-are-here-for-it/#more-400683" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/05/audi-quietly-dropped-an-extreme-overland-q6-e-tron-and-we-are-here-for-it/>
+
+---
+
+## Ford beat Q4 2024 earnings expectations, but its EV losses continue to pile up
+
+date: 2025-02-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Ford-monster-vehicles.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/ford/">Ford</a> (NYSE: F) released its fourth-quarter earnings report after the market closed on Wednesday, beating top and bottom line forecasts. Although its Model e electric vehicle business lost another $5.1 billion last year, CEO Jim Farley promises, “Ford is becoming a fundamentally stronger company.” Here’s a breakdown of Ford’s Q4 2024 earnings.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="400713" href="https://electrek.co/2025/02/05/ford-beat-q4-2024-earnings-but-ev-losses-continue-to-pile-up/#more-400713" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/05/ford-beat-q4-2024-earnings-but-ev-losses-continue-to-pile-up/>
+
+---
+
+## Tesla Is Alienating The People It Needs Most: Study
+
+date: 2025-02-05, from: Inside EVs News
+
+Among EV shoppers, Tesla and its CEO have low favorability ratings in a new study. That's going to make the next couple of years hard. 
+
+<br> 
+
+<https://insideevs.com/news/749741/tesla-ev-buyers-favorability-rating/>
+
+---
+
+## These EV deals are hard to pass up with leases under $300 a month in February
+
+date: 2025-02-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/EV-lease-deals-February.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After a record-breaking year for <a href="https://electrek.co/guides/electric-vehicles/">electric vehicles</a>, automakers are kicking off 2025 with significant discounts. With leases starting under $300 a month, these are some of the best EV deals to take advantage of this February.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-lease" data-layer-viewtype="unknown" data-post-id="400672" href="https://electrek.co/2025/02/05/ev-deals-hard-to-pass-up-leases-under-300-month/#more-400672" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/05/ev-deals-hard-to-pass-up-leases-under-300-month/>
+
+---
+
+## Lectric Valentine’s Day sale offers up to $654 in e-bike bundles from $999, Bluetti power station flash sale lows, EGO Power+, more
+
+date: 2025-02-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Lectric-XP-3.0-e-bikes-with-pet-trailer.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Today’s Green Deals are headlined by <a href="https://9to5toys.com/2025/02/05/lectric-valentines-day-sale-from-999/">Lectric’s Valentine’s Day sale</a> that is running through February 15 with up to $654 bundles accompanying the lineup of e-bikes, as well as a separate 40% discount on its pet trailer. The focus of this sale is on the brand’s <a href="https://9to5toys.com/2025/02/05/lectric-valentines-day-sale-from-999/">XP 3.0 e-bikes</a> that are getting passenger packages to take your loved ones along for the ride, starting from <a href="https://9to5toys.com/2025/02/05/lectric-valentines-day-sale-from-999/">$999</a>. There’s also a <a href="https://9to5toys.com/2025/02/05/bluetti-flash-sale-handsfree-stations-new-199-low/">Bluetti flash sale</a> on six backup power solutions, with the latest <a href="https://9to5toys.com/2025/02/05/bluetti-flash-sale-handsfree-stations-new-199-low/">Handsfree Backpack Power Stations</a> hitting new low prices from <a href="https://9to5toys.com/2025/02/05/bluetti-flash-sale-handsfree-stations-new-199-low/">$199</a>. We also spotted the EGO Power+ <a href="https://9to5toys.com/2025/02/04/ego-power-56v-15-inch-trimmer-159/">56V 15-inch Split-Shaft Cordless Electric String Trimmer</a> with a rapid-reload head down at <a href="https://9to5toys.com/2025/02/04/ego-power-56v-15-inch-trimmer-159/">$159</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/02/03/blix-packa-genie-free-gear-1599/">Blix Valentine’s sale</a> offers, the returning low price on <a href="https://9to5toys.com/2025/02/04/jackery-explorer-100-plus-89-low-3/">Jackery’s Explorer 100 Plus</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="400676" href="https://electrek.co/2025/02/05/lectric-valentines-day-sale-bluetti-ego-power-more/#more-400676" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/05/lectric-valentines-day-sale-bluetti-ego-power-more/>
+
+---
+
+## Polestar 2 Comeback, Polestar 7 SUV Will Be Keys To Going Bigger
+
+date: 2025-02-05, from: Inside EVs News
+
+Polestar's new CEO says the brand has big plans for a compact SUV and small sedan comeback. But will they draw from the Geely family? 
+
+<br> 
+
+<https://insideevs.com/news/749732/polestar-7-polestar-2-ceo-interview/>
+
+---
+
+## Elon Musk poached Tesla engineer for DOGE to the joy of lawyers suing him for resource tunneling
+
+date: 2025-02-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Elon-Musk-Game-of-Thrones.webp?w=1500" /></div><p>Elon Musk has poached a long-time Tesla engineer to help with his work at the Department of Government Efficiency (DOGE). </p>
+
+
+
+<p>The Tesla CEO appears to feel invincible right now because he did that while he and Tesla’s board are being sued for breach of fiduciary duties and resource tunneling.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="400654" href="https://electrek.co/2025/02/05/elon-musk-poached-tesla-engineer-for-doge-to-the-joy-of-lawyers-suing-him-for-resource-tunneling/#more-400654" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/05/elon-musk-poached-tesla-engineer-for-doge-to-the-joy-of-lawyers-suing-him-for-resource-tunneling/>
+
+---
+
+## Toyota’s first EV battery plant in the US is ready for business, but there’s more
+
+date: 2025-02-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Lexus-RZ-prices-2025-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The world’s largest automaker wants to catch up in the global EV race after falling behind rivals like Tesla and BYD. <span style="margin: 0px; padding: 0px;">On Wednesday, <a href="https://electrek.co/guides/toyota/" target="_blank">Toyota</a> announced</span> that its $14 billion EV battery plant in North Carolina is open for business. The new facility will begin shipping batteries for Toyota’s electric vehicles in April. Meanwhile, Toyota revealed separate plans to challenge BYD and other EV leaders in China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="400624" href="https://electrek.co/2025/02/05/toyota-opens-first-ev-battery-plant-in-us-but-theres-more/#more-400624" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/05/toyota-opens-first-ev-battery-plant-in-us-but-theres-more/>
+
+---
+
+## Clean energy companies are blitzing Capitol Hill to save IRA tax credits
+
+date: 2025-02-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/08/Heliene-Minnesota-solar-panel-factory.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A coalition of clean energy groups – representing over 2,000 companies and hundreds of billions in private investment – is holding more than 100 meetings today with bipartisan members of Congress to underscore the critical role of IRA clean energy tax credits.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,hydropower,inflation-reduction-act,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="400644" href="https://electrek.co/2025/02/05/clean-energy-companies-are-blitzing-capitol-hill-to-save-ira-tax-credits/#more-400644" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/05/clean-energy-companies-are-blitzing-capitol-hill-to-save-ira-tax-credits/>
+
+---
+
+## Tesla sales dropped 60% in Germany
+
+date: 2025-02-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/image-e1738774012291.png?w=1024" /></div><p>Tesla’s sales have dropped nearly 60% in January in Germany compared to the same period last year. The same thing is happening throughout Europe.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="400632" href="https://electrek.co/2025/02/05/tesla-sales-dropped-60-in-germany/#more-400632" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/05/tesla-sales-dropped-60-in-germany/>
+
+---
+
+## Glades County schools deploy 13 new Blue Bird electric school buses
+
+date: 2025-02-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/bluebird_glades-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Florida students will be breathing a bit easier this year thanks to the deployment of 13 new Blue Bird electric school buses — some of which will be replacing diesel buses that have been service for over twenty years!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="blue-bird,electric-school-buses,florida" data-layer-viewtype="unknown" data-post-id="400616" href="https://electrek.co/2025/02/05/glades-county-schools-deploy-13-new-blue-bird-electric-school-buses/#more-400616" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/05/glades-county-schools-deploy-13-new-blue-bird-electric-school-buses/>
+
+---
+
+## Other EV Companies Ditched Dealers. Polestar Is All-In On Them
+
+date: 2025-02-05, from: Inside EVs News
+
+Polestar's new CEO says dealers are needed, even as other EV brands move away from that model.  
+
+<br> 
+
+<https://insideevs.com/news/749618/polestar-ceo-interview-dealers/>
+
+---
+
+## Volkswagen's New EV Is The Affordable Car Tesla Won't Build
+
+date: 2025-02-05, from: Inside EVs News
+
+It launches for Europe in 2027 with a €20,000 price tag. That's just $20,800 in US currency ... if VW sends it to North America. 
+
+<br> 
+
+<https://insideevs.com/news/749714/volkswagen-new-affordable-ev-game-changer/>
+
+---
+
+## Tesla brings new discount to China amid demand slump
+
+date: 2025-02-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Tesla-Model-3-discount-in-China.png?w=1600" /></div><p>Tesla has implemented a new discount on Model 3 vehicles in China, the world’s biggest EV market, amid a worldwide demand slump for the automaker.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="400620" href="https://electrek.co/2025/02/05/tesla-brings-new-discount-to-china-amid-demand-slump/#more-400620" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/05/tesla-brings-new-discount-to-china-amid-demand-slump/>
+
+---
+
+## Honda and Nissan’s $60 billion EV partnership plans are already falling apart
+
+date: 2025-02-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Honda-Nissans-EV-plans.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The landmark EV merger, which would create the world’s third-largest automaker, may not happen after all. <a href="https://electrek.co/guides/honda/">Honda</a> and Nissan’s EV partnership plans are reportedly already being called off. The partnership was expected to help the Japanese automakers survive after falling behind BYD, Tesla, and others as the industry shifts to electric.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda,nissan" data-layer-viewtype="unknown" data-post-id="400604" href="https://electrek.co/2025/02/05/honda-nissans-60-billion-ev-merger-plans-falling-apart/#more-400604" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/05/honda-nissans-60-billion-ev-merger-plans-falling-apart/>
 
 ---
 
@@ -21,7 +373,7 @@ A software update will “soon” allow owners to make the change themselves.
 
 ---
 
-## Why The Honda-Nissan Merger May Be Dead Before It Started
+## Here's What Happened To That Nissan-Honda Merger
 
 date: 2025-02-05, from: Inside EVs News
 

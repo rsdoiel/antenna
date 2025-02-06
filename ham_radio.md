@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-02-05 07:07:16
+updated: 2025-02-06 07:06:26
 ---
 
 # ham radio
 
-(date: 2025-02-05 07:07:16)
+(date: 2025-02-06 07:06:26)
+
+---
+
+## Will open-source software come to SDV rescue?
+
+date: 2025-02-06, from: EDN Blog
+
+<img width="1536" height="864" src="https://www.edn.com/wp-content/uploads/Hero-image-Elektrobit-SDV.png?fit=1536%2C864" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Elektrobit-SDV.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-Elektrobit-SDV.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Elektrobit-SDV.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Elektrobit-SDV.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-Elektrobit-SDV.png?w=1260 1260w, https://www.edn.com/wp-content/uploads/Hero-image-Elektrobit-SDV.png?w=800 800w" sizes="(max-width: 1536px) 100vw, 1536px" /><p>Linux-based open-source solutions can solve the cost conundrum in high-level software-defined vehicle (SDV) designs.</p>
+<p>The post <a href="https://www.edn.com/will-open-source-software-come-to-sdv-rescue/" data-wpel-link="internal">Will open-source software come to SDV rescue?</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/will-open-source-software-come-to-sdv-rescue/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-02-05 07:07:16
 
 date: 2025-02-05, from: EDN Blog
 
-<img width="514" height="677" src="https://www.edn.com/wp-content/uploads/Average-to-RMS.png?fit=514%2C677" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Average-to-RMS.png?w=514 514w, https://www.edn.com/wp-content/uploads/Average-to-RMS.png?w=228 228w" sizes="(max-width: 514px) 100vw, 514px" /><p>John Dunn walks through how he converted the average value of a waveform to the RMS value in a resistive load test setup.</p>
+<img width="514" height="677" src="https://www.edn.com/wp-content/uploads/Average-to-RMS.png?fit=514%2C677" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Average-to-RMS.png?w=514 514w, https://www.edn.com/wp-content/uploads/Average-to-RMS.png?w=228 228w" sizes="(max-width: 514px) 100vw, 514px" /><p>John Dunn walks through how he converted the average value of a waveform to the RMS value in a resistive load test setup.</p>
 <p>The post <a href="https://www.edn.com/converting-from-average-to-rms-values/" data-wpel-link="internal">Converting from average to RMS values</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

@@ -1,11 +1,570 @@
 ---
 title: columns
-updated: 2025-02-05 07:07:17
+updated: 2025-02-06 07:06:27
 ---
 
 # columns
 
-(date: 2025-02-05 07:07:17)
+(date: 2025-02-06 07:06:27)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-06, from: Dave Winer's Scripting News)
+
+People might be curious to see the <a href="https://viewfeedlist.opml.org/?url=https%3A%2F%2Ffeedland.social%2Fopml%3Fscreenname%3Ddavewiner%26catname%3Dblogroll">list of feeds</a> that make up the <a href="https://this.how/feediverse/bluesky/">Little Feed Reader</a> account <a href="https://bsky.app/profile/feediverse.bsky.social">on Bluesky</a>. It's dynamic, I can add or remove feeds through a very simple <a href="https://imgs.scripting.com/2025/02/06/feedlistEditor.png">user interface</a> designed for managing systems like this. It's like the user inteface of a product like WordPress, for designers and developers, producing results that are for users. There are now apps for the <a href="https://bsky.app/profile/nba.feediverse.org">NBA</a>, <a href="https://bsky.app/profile/devs.feediverse.org">Devs</a> and all <a href="https://bsky.app/profile/dave.feediverse.org">my feeds</a>. 
+
+<br> 
+
+<http://scripting.com/2025/02/06.html#a143038>
+
+---
+
+##  Palate cleanser: Cabel Sasser&#8217;s review of all of the weird new snacks... 
+
+date: 2025-02-06, updated: 2025-02-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046144-palate-cleanser-cabel-sas>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-06, from: Dave Winer's Scripting News)
+
+Big picture, the US is being turned into Russia. 
+
+<br> 
+
+<http://scripting.com/2025/02/06.html#a140840>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-06, from: Dave Winer's Scripting News)
+
+California Senator Adam Schiff said, I think it was yesterday, that Trump and Musk are removing honest FBI investigators and DOJ attorneys so they can raid the treasury of the United States. It's obvious, but you don't hear it said very often. It's the money they want. All of it. 
+
+<br> 
+
+<http://scripting.com/2025/02/06.html#a140401>
+
+---
+
+## Fukuoka, Japan
+
+date: 2025-02-06, from: mrusme blog
+
+"Fukuoka is the sixth-largest city in Japan and the capital city of Fukuoka
+Prefecture, Japan. The city is built along the shores of Hakata Bay, and has
+been a center of international commerce since ancient times. The area has long
+been considered the gateway to the country, as it is the nearest point among
+Japan's main islands to the Asian mainland. Although humans occupied the area
+since the Jomon period, some of the earliest settlers of the Yayoi period
+arrived in the Fukuoka area. The city rose to prominence during the Yamato
+period. Because of the cross-cultural exposure, and the relatively great
+distance from the social and political centers of Kyoto, Osaka, and later, Edo
+(Tokyo), Fukuoka gained a distinctive local culture and dialect that has
+persisted to the present." 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/travel/japan/fukuoka/>
+
+---
+
+## What Makes an AI personal?
+
+date: 2025-02-06, from: Doc Searls (at Harvard), New Old Blog
+
+The unintended risks of handing over our lives to Personal AI is the headline of the opening segment of Jamie Smith&#8216;s newsletter today. In it he shares a post by Liz Gerber about an autonomous choice made by the AI in her self-parking car: Last night, my car automatically parked in the grocery store parking [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/02/06/what-makes-an-ai-personal/>
+
+---
+
+## AIs and Robots Should Sound Robotic
+
+date: 2025-02-06, updated: 2025-02-03, from: Bruce Schneier blog
+
+<p>Most people know that <a href="https://spectrum.ieee.org/tag/robots">robots</a> no longer sound like tinny trash cans. They sound like <a href="https://spectrum.ieee.org/tag/siri">Siri</a>, <a href="https://spectrum.ieee.org/tag/alexa">Alexa</a>, and <a href="https://spectrum.ieee.org/tag/gemini">Gemini</a>. They sound like the voices in labyrinthine customer support phone trees. And even those robot voices are being made obsolete by new <a href="https://spectrum.ieee.org/chatgpt-multimodal">AI-generated voices</a> that can mimic every vocal nuance and tic of human speech, down to specific regional accents. And with just a few seconds of audio, <a href="https://spectrum.ieee.org/tag/ai">AI</a> can now <a href="https://spectrum.ieee.org/digital-afterlife">clone someone&#8217;s specific voice</a>.</p>
+<p>This technology will replace humans in many areas. Automated customer support will save <a href="https://spectrum.ieee.org/tag/money">money</a> by cutting staffing at ...</p> 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://www.schneier.com/wp-content/uploads/2025/01/robots-article.mp3"></source>
+	<source type="audio/mpeg" src="https://www.schneier.com/wp-content/uploads/2025/01/robots-article-30hz-25percent.mp3"></source>
+	<source type="audio/mpeg" src="https://www.schneier.com/wp-content/uploads/2025/01/robots-article-30hz-40percent.mp3"></source>
+</audio> <a href="https://www.schneier.com/wp-content/uploads/2025/01/robots-article.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.schneier.com/blog/archives/2025/02/ais-and-robots-should-sound-robotic.html>
+
+---
+
+## The Coup d’État Has Begun 
+
+date: 2025-02-06, from: Michael Moore's blog
+
+Friends, 
+
+<br> 
+
+<https://www.michaelmoore.com/p/the-coup-detat-has-begun>
+
+---
+
+## Agent P waxes lyrical about 14 years of systemd
+
+date: 2025-02-06, updated: 2025-02-06, from: Liam Proven's articles at the Register
+
+<h4><span class="label">FOSDEM 2025</span> Lennart Poettering gave packed-out keynote talk. Jack Dorsey … didn&#39;t</h4>
+      <p>FOSDEM returned to Brussels for the first weekend in February – not without some controversial people.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/02/06/14_years_of_systemd/>
+
+---
+
+## 2025-01-23 The bots are at it again
+
+date: 2025-02-06, from: Alex Schroeder's Blog
+
+<h1 id="2025-01-23-the-bots-are-at-it-again">2025-01-23 The bots are at it again</h1>
+
+<p>For a while I just appended new graphs and data to <a href="2024-11-25-emacs-china">the last post on this topic</a>.
+This time around I feel it&rsquo;s worse. There are so many bots that I can&rsquo;t even do the WHOIS lookup any more.
+Or perhaps I just managed to block so few that I never realized how many more there were.
+In any case, now that I&rsquo;m speeding things up, there are more bots to block.</p>
+
+<p><strong>If you want to partake in unsupervised banning with no feedback, no due process, just automatic ban-hammers, take a look at this script full of firewall commands.</strong></p>
+
+<p>It needs ipset and iptables access: <a href="/admin/ban-cidr">ban-cidr</a>.</p>
+
+<p>I blocked another 4669 networks.</p>
+
+<p>What I did was get the most recent 10000 lines from the Apache access log, filter out all the requests for my GoToSocial instance (hoping that it has good defences!?), grepping for the magic word, <a href="/admin/network-lookup-lean">doing reverse lookups</a> using <code>asn.routeviews.org</code> and banning them all. Looking at a summary, there were two networks with 6 requests, 6 networks with 5 requests, etc. Of the 4669 networks banned, there were 3985 networks with a single request only.</p>
+
+<p>That is to say, the network lookup is not really all that efficient because the requests are so incredibly diverse. There are essentially no individual IP numbers to ban because there are no repeat offenders, and even with that great ban-hammer of mine, this wouldn&rsquo;t help against the next 85% of requests because they are all unique.</p>
+
+<p>Now, I was already banning about 10,000 networks yesterday, and their success rate is still 85%! So that tells you that even this little jousting I&rsquo;m doing is tilting at windmills because these bots are turning the web to shit.</p>
+
+<p>Summing the numbers I see that I looked at 10,000 requests, discarded all the hits for my GoToSocial instance and still had 5560 bot hits.</p>
+
+<p>Every website everywhere is paying the distributed price for these leeches to keep their projects running. Of course, I could rent a bigger machine, run a bigger cache, spending more money and more time for their scam.</p>
+
+<p>I keep shouting &ldquo;CO₂ for the CO₂ god!&rdquo; and that&rsquo;s part of it, yes… Sadly!</p>
+
+<p>Oh, and I could not post this on fedi because my GoToSocial instance is unable to cope and takes a very long time to recover from the onslaught. While I waited, I banned another 2184 networks. And I kept doing it.</p>
+
+<p>Fuck this shit.</p>
+
+<p>Fuck this whole generation.</p>
+
+<p>Time passes.</p>
+
+<p>Let me count how many entries I added today.</p>
+
+<pre><code>awk 'BEGIN {c=0; n=0} /^# 2025-01-23/ {c=1} c&amp;&amp;/^ipset/ {n++} END {print n}' \
+  bin/admin/ban-cidr
+14497
+</code></pre>
+
+<p>I think it&rsquo;s about time to add some fail2ban code.
+If only I knew how.
+More cost they are putting on every single site operator and service provider out there.</p>
+
+<p>Right now load is below 4, so that&rsquo;s not too bad for 2 cores.
+The sites are still sluggish. I some sort of congestion issue.</p>
+
+<p><img loading="lazy" src="2025-01-23-bots-devouring-the-web-1.jpg" alt="Netstats showing connections established spiking." /></p>
+
+<p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p>
+
+<p><strong>2025-01-24</strong>. What I did all day, yesterday:</p>
+
+<pre><code># prefix with a timestamp
+date; tail -n 2000 /var/log/apache2/access.log \
+ | grep -v ^social \
+ | grep &quot;rcidonly&quot; \
+ | bin/admin/network-lookup-lean &gt; result.log
+# count
+grep ipset result.log|wc -l
+# add
+grep ipset result.log|sh
+# document
+grep ipset result.log&gt;&gt;bin/admin/ban-cidr
+</code></pre>
+
+<p>But today:</p>
+
+<p><img loading="lazy" src="2025-01-23-bots-devouring-the-web-2.jpg" alt="After midnight, load climbed up to 40 and stayed up there" /></p>
+
+<p>I think made a mistake, yesterday around midnight. I rebooted the server and didn&rsquo;t run the script! 😱</p>
+
+<p>I thought the packages <code>netfilter-persistent</code>, <code>iptables-persistent</code> and <code>ipset-persistent</code> took care of that but that is not the case. See below for more.</p>
+
+<p>In any case, I think the graphs above illustrates what happens to my server without the firewall rules.</p>
+
+<p>Grrr.</p>
+
+<p>They said we&rsquo;re running out of IPv4 numbers but now that I&rsquo;m trying to block bots descending like flesh flies on baby bison, it turns out that there are still thousands of networks that need blocking. Holy cow may Baal eat the eyes of all the engineers partaking in this scouring of the web; may all the project managers rot and lose their teeth, their nails, their hair and their sense of smell; let them all suffer these curses until they repent, until they mend their ways and help undo the damage they are wreaking.</p>
+
+<p><strong>Later that day</strong>. I got an email asking about the bots and so I looked at the last run.
+Let&rsquo;s take the last run:</p>
+
+<pre><code>$ head result.log
+Made 763 DNS requests.
+21 cache hits.
+Range                          |       Hits |
+------------------------------:|-----------:|
+                       unknown |          4 |
+                38.188.60.0/24 |          3 |
+                201.46.36.0/22 |          3 |
+                45.225.53.0/24 |          2 |
+              170.246.119.0/24 |          2 |
+               45.178.110.0/23 |          2 |
+</code></pre>
+
+<p>The top hitting network I blocked in the last run had made just <em>three</em> suspicious requests!</p>
+
+<p>There is more info below:</p>
+
+<pre><code>38.188.60.0/24
+38.188.60.92 38.188.60.70 38.188.60.70
+38.188.60.0/24 | 38.188.60.92 | 24/Jan/2025:11:57:58 +0100 | GET /emacs?action=rc&amp;all=1&amp;days=3&amp;rcidonly=Comments_on_VimMode&amp;showedit=0 HTTP/1.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+38.188.60.0/24 | 38.188.60.70 | 24/Jan/2025:11:58:47 +0100 | GET /emacs?action=rc&amp;all=1&amp;from=1730419325&amp;rcidonly=profh&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+38.188.60.0/24 | 38.188.60.70 | 24/Jan/2025:12:01:02 +0100 | GET /emacs?action=rc&amp;all=1&amp;days=3&amp;rcidonly=2013-11-08&amp;showedit=1 HTTP/1.1 | Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.3478.83 Safari/537.36
+ipset add banlist 38.188.60.0/24
+</code></pre>
+
+<p>So the three requests from this network came from just two different IP numbers:</p>
+
+<ul>
+<li>38.188.60.92</li>
+<li>38.188.60.70</li>
+</ul>
+
+<p>The first suspicious request is for a list of recent changes made in the last 3 days for the page &ldquo;Comments on VimMode&rdquo;.</p>
+
+<p>Let&rsquo;s check whether this is a false positive. Perhaps the request belongs into a sequence that makes sense to a human?</p>
+
+<pre><code>$ grep 38.188.60.92 /var/log/apache2/access.log /var/log/apache2/access.log.1 
+/var/log/apache2/access.log:www.emacswiki.org:443 38.188.60.92 - - [24/Jan/2025:11:57:58 +0100] &quot;GET /emacs?action=rc&amp;all=1&amp;days=3&amp;rcidonly=Comments_on_VimMode&amp;showedit=0 HTTP/1.1&quot; 503 3868 &quot;-&quot; &quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36&quot;
+</code></pre>
+
+<p>This strange request is the only request this IP number made in over 24h.</p>
+
+<p>The only explanation I have is that the URL belongs to a dataset used to train AI, using bots running from machines rented all around the world.
+Or it&rsquo;s a denial of service attack.</p>
+
+<p><strong>2025-01-25</strong>. I think I finally understand the packages about making it all persistent:</p>
+
+<p><code>netfilter-persistent</code> calls all the modules.</p>
+
+<p><code>iptables-persistent</code> is the module that saves <code>/etc/iptables/rules.v4</code> and <code>/etc/iptables/rules.v6</code> with just the rules.</p>
+
+<p><code>ipset-persistent</code> is the module that saves <code>/etc/iptables/ipsets</code>.
+This file is about 1MB and pretty much contains what <code>ban-cidr</code> contains.</p>
+
+<p>And as it turns out, saving is never automatic.</p>
+
+<p>You need to run <code>netfilter-persistent save</code> manually after running <code>ban-cidr</code> for all the rules and sets to be loaded on a reboot.</p>
+
+<p>Similar stories in the news:</p>
+
+<blockquote>
+<p>The AI scraper bots cause a DDoS, a distributed denial-of-service attack. At times, the AI bots would clog the lines with hundreds of IP addresses simultaneously as soon as they decided to access the site&rsquo;s content. &ndash; <a href="https://www.heise.de/en/news/AI-bots-paralyze-Linux-news-site-and-others-10252162.html">AI bots paralyze Linux news site and others</a></p>
+</blockquote>
+
+<p><strong>2025-01-30</strong>. Look at this: <a href="https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/">AI haters…</a> &ndash; I didn&rsquo;t even read the whole headline of this article and I like it already.</p>
+
+<p>The article by  Ashley Belanger for Ars Technica mentions <a class="account" href="https://tldr.nettime.org/@tante" title="@tante@tldr.nettime.org">@tante</a> and <a class="account" href="https://come-from.mad-scientist.club/@algernon" title="@algernon@come-from.mad-scientist.club">@algernon</a>, gibberish-serving (and AI-poisoning?) <a href="https://zadzmo.org/code/nepenthes/">Nepenthes</a>, calling it malware. (Oh yeah? Oh no!)</p>
+
+<blockquote>
+<p>OK, so if I do nothing, AI models, they boil the planet. If I switch this on, they boil the planet. How is that my fault? &ndash; Aaron, quoted in that Ars Technica article.</p>
+</blockquote>
+
+<p>I like this guy.</p>
+
+<p>If you want to read the original answers by @tante, see his blog post, <a href="https://tante.cc/2025/01/28/quoted-in-ars-technicas-article-on-tarpits-for-ai-crawlers/">Quoted in Ars Technica’s article on tarpits for AI crawlers</a>.</p>
+
+<p>All I&rsquo;ll say is that I fear something like Nepenthes will just tie up too many resources of mine (RAM, file handles, bandwidth). &ldquo;CO₂ for the CO₂ god!&rdquo; But perhaps I&rsquo;m wrong? I should investigate.</p>
+
+<p>Although <a class="account" href="https://octodon.social/@wim_v12e" title="@wim_v12e@octodon.social">@wim_v12e</a> commented, saying:</p>
+
+<blockquote>
+<p>There is no way that something like Nephentes would ever be deployed at a scale so large that it would create considerable additional emissions.</p>
+</blockquote>
+
+<p>For now, I keep returning a 410 &ldquo;Gone&rdquo; response to self-identified bots and I just drop packets from networks that have hosted bots at the firewall. There are probably problems with this system as packets from fediverse instances hosted by the same providers get cut off, too. And I&rsquo;m not expiring the bans, unfortunately.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-01-23-bots-devouring-the-web>
+
+---
+
+## What you can do
+
+date: 2025-02-06, from: Robert Reich's blog
+
+Revised and expanded 
+
+<br> 
+
+<https://robertreich.substack.com/p/more-on-what-you-can-do>
+
+---
+
+## February 5, 2025 
+
+date: 2025-02-06, from: Heather Cox Richardson blog
+
+Five years ago, on February 5, 2020, Republican senators acquitted then-president Donald Trump in his first impeachment trial. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-5-2025>
+
+---
+
+## Pen and paper
+
+date: 2025-02-06, from: Jirka's blog
+
+...not the e-paper. Well, I have been extended use of old good hardware tools. While I use my phone and  computer to manage my calendar I don't like to use digital things to make quick notes and to manage my tasks. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250206-0443_Pen_and_paper>
+
+---
+
+## How to build Ollama to run LLMs on RISC-V Linux
+
+date: 2025-02-06, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">How to build Ollama to run LLMs on RISC-V Linux</span>
+
+            <p>RISC-V is the new entrant into the SBC/low-end desktop space, and as I'm in possession of a HiFive Premier P550 motherboard, I am running it through my usual gauntlet of benchmarks—partly to see how fast it is, and partly to gauge how far along RISC-V support is in general across a wide swath of Linux software.</p>
+
+<p>From my first tests on the <a href="https://www.jeffgeerling.com/blog/2023/risc-v-business-testing-starfives-visionfive-2-sbc">VisionFive 2 back in 2023</a> to today, RISC-V has seen quite a bit of growth, fueled by economics, geopolitical wrangling, and developer interest.</p>
+
+<p>The P550 uses the ESWIN EIC7700X SoC, and while it doesn't have a <em>fast</em> CPU, by modern standards, it is fast enough—and the system has enough RAM and IO—to run most modern Linux-y things. Including llama.cpp and Ollama!</p>
+
+<h2>Compiling Ollama for RISC-V Linux</h2>
+
+<p>I'm running Ubuntu 24.04.1 on my P550 board, and when I try running Ollama's simple install script, I get:</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">February 5, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/how-build-ollama-run-llms-on-risc-v-linux>
+
+---
+
+##  From Scientific American, Avoiding Outrage Fatigue While Staying Informed. &#8220;We can take... 
+
+date: 2025-02-06, updated: 2025-02-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046152-from-scientific-american->
+
+---
+
+##  Timothy Snyder: Of Course It&#8217;s a Coup 
+
+date: 2025-02-05, updated: 2025-02-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/timothy-snyder-of-course-its-a-coup>
+
+---
+
+##  Lots of people asking what they can do about the coup. Here&#8217;s... 
+
+date: 2025-02-05, updated: 2025-02-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046150-lots-of-people-asking-wha>
+
+---
+
+##  Federal software contractor Dan Hon (who&#8217;s worked with HHS, Head Start, Medicaid/Medicare,... 
+
+date: 2025-02-05, updated: 2025-02-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046149-federal-software-contract>
+
+---
+
+##  &#8220;Musk&#8217;s Impossible Power Grab And America&#8217;s Crisis&#8221; 
+
+date: 2025-02-05, updated: 2025-02-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/musks-impossible-power-grab-and-americas-crisis>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-05, from: Dave Winer's Scripting News)
+
+One of my next projects, Murphy-willing, will be <a href="https://javascriptscript.com/">JavaScriptScript</a>. 
+
+<br> 
+
+<http://scripting.com/2025/02/05.html#a223913>
+
+---
+
+##  Since NYC began congestion pricing, subway ridership is up, subway crime is... 
+
+date: 2025-02-05, updated: 2025-02-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046147-since-nyc-began-congestio>
+
+---
+
+##  Incredible: Nearly 96% of new cars registered in Norway in January 2025... 
+
+date: 2025-02-05, updated: 2025-02-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046146-incredible-nearly-96-of-n>
+
+---
+
+## Glow Blogs – Site Editing Adventure
+
+date: 2025-02-05, from: John's World Wide Wall Display
+
+<div><img width="620" height="330" src="https://johnjohnston.info/blog/wp-content/uploads/2025/02/editing-singile-post-template-620x330.png" class="attachment-medium size-medium u-featured wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://johnjohnston.info/blog/wp-content/uploads/2025/02/editing-singile-post-template-620x330.png 620w, https://johnjohnston.info/blog/wp-content/uploads/2025/02/editing-singile-post-template-1024x545.png 1024w, https://johnjohnston.info/blog/wp-content/uploads/2025/02/editing-singile-post-template-768x409.png 768w, https://johnjohnston.info/blog/wp-content/uploads/2025/02/editing-singile-post-template-668x356.png 668w, https://johnjohnston.info/blog/wp-content/uploads/2025/02/editing-singile-post-template.png 1200w" sizes="(max-width: 620px) 100vw, 620px" data-attachment-id="20225" data-permalink="https://johnjohnston.info/blog/glow-blogs-site-editing-adventure/editing-singile-post-template/" data-orig-file="https://johnjohnston.info/blog/wp-content/uploads/2025/02/editing-singile-post-template.png" data-orig-size="1200,639" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="editing-singile-post-template" data-image-description="" data-image-caption="" data-medium-file="https://johnjohnston.info/blog/wp-content/uploads/2025/02/editing-singile-post-template-620x330.png" data-large-file="https://johnjohnston.info/blog/wp-content/uploads/2025/02/editing-singile-post-template-1024x545.png" /></div>Recently I saw a post on Doug Belshaw&#8217;s Thought Shrapnel pointing to a nice 3 column layout for a blog. Doug wondered : If you’re reading this and know of a similar blog theme, on any platform, could you let me know? I thought it would be possible to use the Site Editor on a [&#8230;] 
+
+<br> 
+
+<https://johnjohnston.info/blog/glow-blogs-site-editing-adventure/>
+
+---
+
+##  Members of Musk&#8217;s team have tried to gain access to servers at... 
+
+date: 2025-02-05, updated: 2025-02-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046145-members-of-musks-team-hav>
+
+---
+
+##  The End of the Liberal Consensus 
+
+date: 2025-02-05, updated: 2025-02-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/the-end-of-the-liberal-consensus>
+
+---
+
+## This is what dictatorship looks like 
+
+date: 2025-02-05, from: Robert Reich's blog
+
+We&#8217;re now in a coup 
+
+<br> 
+
+<https://robertreich.substack.com/p/this-is-what-dictatorship-looks-like>
+
+---
+
+## February 4, 2025
+
+date: 2025-02-05, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156547149/d05af3aed6990051180bcdb531082f8b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156547149/d05af3aed6990051180bcdb531082f8b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-4-2025-545>
+
+---
+
+##  A Programming Note 
+
+date: 2025-02-05, updated: 2025-02-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/a-programming-note-1>
+
+---
+
+## Some terminal frustrations
+
+date: 2025-02-05, updated: 2025-02-05, from: Julia Evans blog
+
+ 
+
+<br> 
+
+<https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-05, from: Dave Winer's Scripting News)
+
+And btw to <a href="https://www.cnn.com/2021/02/13/politics/mcconnell-remarks-trump-acquittal/index.html">Mitch McConnell</a>, fuck you. You had a chance, with one freaking vote, to avoid this. You are among a small number of people who could have stopped this. This should be the first line in your obituary. "He could have saved the United States, but chose not to do it." 
+
+<br> 
+
+<http://scripting.com/2025/02/05.html#a154653>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-05, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/08/16/blackLivesMatter.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Highly recommend <a href="https://podcasts.apple.com/us/podcast/the-breaking-of-the-constitutional-order/id1548604447?i=1000689253755">this week's Ezra Klein podcast</a>. It made me wonder if any of the readers of my blog voted for Trump. I can't imagine too many did, unless they've been willing to overlook my strenuous support for any option that opposes him. However if any of you are still here, I'd like you to know that what's happening now is exactly what we thought <i>would</i> happen. If you agree that this is unacceptable, maybe we can use that as common ground to work together to get our country back from the chaotic authoritarian mess that Elon Musk is turning it into. He makes Trump look like an absolute moderate. Certainly no one who voted for Trump with any kind of appreciation for the American system, where your vote and mine matter, can stand by and not object to what he's doing to our system of government. If not now, keep this in mind as Musk's chaos becomes more and more real. 
+
+<br> 
+
+<http://scripting.com/2025/02/05.html#a153510>
 
 ---
 
@@ -108,6 +667,17 @@ Shortly after 1:00 this morning, Vittoria Elliott, Dhruv Mehrotra, Leah Feiger, 
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/february-4-2025>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-02-05, from: Jessica Smith's blog)
+
+<p>So, I have just read that the United States will be seizing control of Gaza, expelling all the people, and &ldquo;levelling the site&rdquo;???</p>
+<p>I keep thinking we live in the most batshit timeline, and then shit gets even wilder. <abbr title="What The Actual Fuck">WTAF</abbr>.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/02/us-takeover-of-gaza.html>
 
 ---
 

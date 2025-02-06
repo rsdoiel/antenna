@@ -1,11 +1,207 @@
 ---
 title: home
-updated: 2025-02-05 07:07:20
+updated: 2025-02-06 07:06:30
 ---
 
 # home
 
-(date: 2025-02-05 07:07:20)
+(date: 2025-02-06 07:06:30)
+
+---
+
+## What Do Centipedes Eat? A Complete Guide to Their Diet
+
+date: 2025-02-06, from: Yard Life blog
+
+<p>Centipedes are fascinating creatures that play a vital role in the ecosystem. With their long, segmented bodies and numerous legs, ... </p>
+<p class="read-more-container"><a title="What Do Centipedes Eat? A Complete Guide to Their Diet" class="read-more button" href="https://ownyardlife.com/what-do-centipedes-eat-a-complete-guide-to-their-diet/#more-23124" aria-label="Read more about What Do Centipedes Eat? A Complete Guide to Their Diet">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-do-centipedes-eat-a-complete-guide-to-their-diet/">What Do Centipedes Eat? A Complete Guide to Their Diet</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-do-centipedes-eat-a-complete-guide-to-their-diet/>
+
+---
+
+## Going Out for Valentine’s Day Is Overrated. Make These Date Night Recipes at Home Instead.
+
+date: 2025-02-06, from: Sunset Magazine - Living in the West
+
+Set the mood for romance this Valentine's Day or on any special occasion by cooking up these Valentine's Day recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/valentines-day-recipes>
+
+---
+
+## 38 Stunning Black and Blue Butterfly Species (With Pictures)
+
+date: 2025-02-06, from: Yard Life blog
+
+<p>Butterflies are some of the most exquisite creatures found in nature, their vibrant colors and delicate wings capturing the imagination ... </p>
+<p class="read-more-container"><a title="38 Stunning Black and Blue Butterfly Species (With Pictures)" class="read-more button" href="https://ownyardlife.com/38-stunning-black-and-blue-butterfly-species-with-pictures/#more-23081" aria-label="Read more about 38 Stunning Black and Blue Butterfly Species (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/38-stunning-black-and-blue-butterfly-species-with-pictures/">38 Stunning Black and Blue Butterfly Species (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/38-stunning-black-and-blue-butterfly-species-with-pictures/>
+
+---
+
+## A Family (Finally) Gives Their Eichler Home a Top-to-Bottom Reboot
+
+date: 2025-02-06, from: Dwell
+
+Twelve years after moving in, a Palo Alto couple add space, functionality, and vibrance to their beloved midcentury. 
+
+<br> 
+
+<https://www.dwell.com/article/eichler-v30-renovation-ogawa-fisher-architects-palo-alto-8fe39b64>
+
+---
+
+## Train Travel Has Never Been More Popular. Here Are the Best in the West.
+
+date: 2025-02-05, from: Sunset Magazine - Living in the West
+
+Trains are the nostalgic form of transport we need right now. This is a list of the best train trips that you can take in the West. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-train-trips-in-the-west>
+
+---
+
+## The Truth Behind the Numbers On Your Toaster
+
+date: 2025-02-05, from: Family Handyman Blog
+
+<p>Learn about the numbers on toasters to help you achieve the perfect crunch and color regardless of the type of bread and number of slices you're toasting.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/numbers-on-toaster/">The Truth Behind the Numbers On Your Toaster</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/numbers-on-toaster/>
+
+---
+
+## How to Collect Hellebore Seeds for Plant Propagation
+
+date: 2025-02-05, from: The Gardener's Path
+
+<p>Collecting and sowing fresh hellebore seeds is a cost-effective way to propagate them in home gardens. If you are enjoying the blossoms of this lovely late-winter flower, why not increase its presence in your landscape by gathering seeds to plant where you like? Learn how to collect and sow hellebore seeds now.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/propagation/harvest-hellebore-seeds/">How to Collect Hellebore Seeds for Plant Propagation</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/propagation/harvest-hellebore-seeds/>
+
+---
+
+## Corrugated Steel Completely Covers This Mountain Home in New Zealand
+
+date: 2025-02-05, from: Dwell
+
+The tan, gable-roofed retreat has equally rugged interiors with OSB walls and polished concrete floors. 
+
+<br> 
+
+<https://www.dwell.com/article/scout-strutt-studios-gable-home-corrugated-steel-siding-a58474fb>
+
+---
+
+## A Monolithic ’70s Home Lands on the Market in Burgundy for $779K
+
+date: 2025-02-05, from: Dwell
+
+Designed by Milan Tontic, the concrete-and-brick home brings a bit of brutalism to the French countryside. 
+
+<br> 
+
+<https://www.dwell.com/article/1970s-concrete-home-milan-tontic-burgundy-france-real-estate-441e0511>
+
+---
+
+## 5 Flower Pairings That Are Perfect for Spring Planting
+
+date: 2025-02-05, from: Sunset Magazine - Living in the West
+
+Author Brenna Estrada shares her favorite pansy pairings to plant this spring to give your garden a colorful refresh. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/spring-flower-pairings>
+
+---
+
+## Why Aren’t We Building More Modular Homes?
+
+date: 2025-02-05, from: Dwell
+
+The director of government affairs for the Modular Building Institute says the technology can create housing fast—if it can work through its PR problem. 
+
+<br> 
+
+<https://www.dwell.com/article/modular-building-institute-jon-hannah-spacagna-prefab-homes-4819e8bb>
+
+---
+
+## Sowing Resilience: Steve Buckley on the New California Seed Strategy
+
+date: 2025-02-05, from: California Native Plants Society
+
+<p>How do you protect California’s biodiversity now and for a changing future? You start with seeds.</p>
+<p>The post <a href="https://www.cnps.org/seed-strategy/sowing-resilience-42232">Sowing Resilience: Steve Buckley on the New California Seed Strategy</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/seed-strategy/sowing-resilience-42232>
+
+---
+
+## How to Grow and Care for Flame Violets
+
+date: 2025-02-05, from: The Gardener's Path
+
+<p>Flame violets are adorable houseplants with attractive trailing plantlets and gorgeous variegated foliage. The compact rosettes produce fiery colored flowers that are nestled into crinkled, colorful foliage, and the leaves are finished with a beautiful iridescent sheen. Learn how to grow flame violets in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/grow-flame-violets/">How to Grow and Care for Flame Violets</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/grow-flame-violets/>
+
+---
+
+## A Guide To Removing Hard Water Stains From Any Surface
+
+date: 2025-02-05, from: Family Handyman Blog
+
+<p>Learn how to remove stubborn hard water stains from all kinds of household surfaces.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/how-to-remove-hard-water-stains/">A Guide To Removing Hard Water Stains From Any Surface</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/how-to-remove-hard-water-stains/>
+
+---
+
+## This 1915 Dutch Colonial in Seattle Strays Far Away from Tradition
+
+date: 2025-02-05, from: Sunset Magazine - Living in the West
+
+It doesn’t get more traditional than a Dutch Colonial style house, but the owners of this one were adamant that the interiors were far from formal and stuffy. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/seattle-dutch-colonial-house-tour>
 
 ---
 
@@ -33,6 +229,18 @@ A Sydney home’s landscaping takes cues from the park’s all-native botanicals
 <br> 
 
 <https://www.dwell.com/article/how-they-pulled-it-off-a-sprawling-garden-inspired-by-a-neighboring-national-park-0e889bf2>
+
+---
+
+## Why Pantone Went with a Simple Neutral for Its 2025 Color of the Year
+
+date: 2025-02-05, from: Sunset Magazine - Living in the West
+
+Pantone just announced its 2025 Color of the Year and its a simple, yet rich brown: Mocha Mousse. See why they chose the hue. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/mocha-mousse-2025-pantone-color-of-the-year>
 
 ---
 
@@ -66,17 +274,27 @@ date: 2025-02-05, from: Yard Life blog
 
 ---
 
-## Tips to Identify and Prevent Peace Lily Diseases
+## 25 Wow-Worthy Valentine’s Day Gifts from the West
 
-date: 2025-02-05, from: The Gardener's Path
+date: 2025-02-05, from: Sunset Magazine - Living in the West
 
-<p>Peace lilies are typically easygoing houseplants, but occasionally they may come down with a disease. Most common peace lily diseases occur in nurseries, but certain root rots can strike houseplants in loving homes. Learn more about how to protect your peace lilies from disease now in this guide. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/how-to/disease-and-pests/peace-lily-disease/">Tips to Identify and Prevent Peace Lily Diseases</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
+From heart-shaped cooking pots to vegan massage candles, your valentine is sure to love these gift ideas from brands based in the West. 
 
 <br> 
 
-<https://gardenerspath.com/how-to/disease-and-pests/peace-lily-disease/>
+<https://www.sunset.com/lifestyle/shopping/valentines-day-gift-idea>
+
+---
+
+## This Bathroom’s Design Was Inspired by Cycling Trips in Marin
+
+date: 2025-02-05, from: Sunset Magazine - Living in the West
+
+The homeowner is an avid mountain biker and wanted a space that embodied his favorite biking trails in Marin. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/marin-bathroom-before-after>
 
 ---
 
@@ -92,6 +310,44 @@ Check out all of our favorite Super Bowl food ideas to make for your viewing par
 
 ---
 
+## Tips to Identify and Prevent Peace Lily Diseases
+
+date: 2025-02-05, from: The Gardener's Path
+
+<p>Peace lilies are typically easygoing houseplants, but occasionally they may come down with a disease. Most common peace lily diseases occur in nurseries, but certain root rots can strike houseplants in loving homes. Learn more about how to protect your peace lilies from disease now in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/disease-and-pests/peace-lily-disease/">Tips to Identify and Prevent Peace Lily Diseases</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/disease-and-pests/peace-lily-disease/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-02-05, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Disneyland Is Bringing Back a Fan-Favorite Ride for a Limited Time
+
+date: 2025-02-04, from: Sunset Magazine - Living in the West
+
+Disneyland is bring back Hyperspace Mountain this spring with a Star Wars overlay to celebrate the "Season of the Force." 
+
+<br> 
+
+<https://www.sunset.com/travel/disneyland-hyperspace-mountain-star-wars>
+
+---
+
 ## A Guide to Achieving Sparkling Dual Pane Windows
 
 date: 2025-02-04, from: Family Handyman Blog
@@ -103,6 +359,42 @@ date: 2025-02-04, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/project/clean-dual-pane-glass/>
+
+---
+
+## 5 Tiny Tweaks That Will Make Your Home Infinitely More Organized
+
+date: 2025-02-04, from: Sunset Magazine - Living in the West
+
+Sometimes it can just take a few tiny tweaks to get your home organized. Professional home organizers share easy organizing tips. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/easy-organizing-tips>
+
+---
+
+## A Well-Appointed Condo Perched High Above Fort Lauderdale Asks $3M
+
+date: 2025-02-04, from: Dwell
+
+Enjoy expansive views of the Intracoastal Waterway, Atlantic Ocean, and the historic Bonnet House Museum & Gardens. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-panoramas-fort-lauderdale-real-estate-f5409aa2>
+
+---
+
+## Flagstone Floors and New Mexican Vistas Take Center Stage in This $4.4M Sante Fe Home
+
+date: 2025-02-04, from: Dwell
+
+There’s no shortage of mountain or desert views. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-club-estates-santa-fe-real-estate-cfcc9ce4>
 
 ---
 
@@ -201,18 +493,6 @@ The owners of this Santa Fe house wanted to blend traditional Southwestern style
 <br> 
 
 <https://www.sunset.com/home-garden/home-tours/southwestern-style-house-santa-fe>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-02-04, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

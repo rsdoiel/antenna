@@ -1,11 +1,116 @@
 ---
 title: writing
-updated: 2025-02-05 07:07:18
+updated: 2025-02-06 07:06:28
 ---
 
 # writing
 
-(date: 2025-02-05 07:07:18)
+(date: 2025-02-06 07:06:28)
+
+---
+
+## 🐟💰 How to sell Big Fish
+
+date: 2025-02-06, from: Interesting, a blog on writing
+
+ProTip: Don't demand a price per pound. 
+
+<br> 
+
+<https://inneresting.substack.com/p/how-to-sell-big-fish>
+
+---
+
+## Gaiman Legal Complaint Filed
+
+date: 2025-02-05, from: Locus Magazine
+
+<p>On February 3, 2025, Scarlett Pavlovich filed suit in Wisconsin federal court against author Neil Gaiman and his estranged spouse Amanda Palmer; the complaint&#8217;s nine charges include human trafficking (against both), assault and battery (against Gaiman), infliction of emotional distress (against Gaiman), and negligence (against Palmer).</p>
+<p>Pavolovich seeks damages &#8220;in an amount to be determined at trial, but which is reasonably believed to be in excess of $1,000,000.00.&#8221;</p>
+<p>Allegations of  <a href="https://locusmag.com/2025/02/gaiman-legal-complaint-filed/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/gaiman-legal-complaint-filed/>
+
+---
+
+## 2025 SERAPH Finalists
+
+date: 2025-02-05, from: Locus Magazine
+
+<div>Phantastische Akademie announced the finalists for the 2025 SERAPH, a German fantasy award. Winners will be announced March 28, 2025.</div>
+<div class="mynomorebulletlist">
+<strong>Best Debut Novel</strong>
+<ul>
+<li><strong>Melodie der Asche</strong>, Elya Adair (Knaur)</li>
+<li><strong>City of Dust and Shadows</strong>, Lara Große (Leaf)</li>
+<li><strong>Shattered Bonds</strong>, Lisa-Katharina Hensel (One)</li>
+<li><strong>Der Glückskrämer und die Suche nach dem Unglück</strong>, Susann Loevenich (Scylla)</li>
+<li><strong>Die Krähen von Greengate</strong>, Cor Nightingale (8280 Edition)</li>
+<li><strong>Die Mutter der Masken </strong></li></ul></div> <a href="https://locusmag.com/2025/02/2025-seraph-finalists/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/2025-seraph-finalists/>
+
+---
+
+## How To Write a Contained Screenplay: 8 Great Scripts With One Location
+
+date: 2025-02-05, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-write-a-contained-screenplay" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/How%20To%20Write%20a%20Contained%20Screenplay%208%20Great%20Scripts%20With%20One%20Location.png" alt="Image of Tom Hanks stranded on a desert island bending over a box laying on the sand, and looking over at Wilson the Volleyball in 'Cast Away' (2000)" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Contained screenwriting can be challenging. Not everyone is wired to tell a story that involves only a small amount of characters and that mostly happens in just one or two locations. But like most creative endeavors, the right kind of limitations can produce surprising benefits. Placing boundaries on your screenplay can create dynamic storytelling opportunities, not to mention that contained screenplays typically have a lower budget. And that could make the difference between being an aspiring screenwriter versus <a href="https://blog.finaldraft.com/3-must-ask-questions-before-you-write-a-sellable-script">a produced screenwriter</a>.&nbsp;<br><br>Here’s everything you need to know about writing a contained screenplay, and why limitations might just launch your screenwriting career.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-to-write-a-contained-screenplay>
+
+---
+
+## Scriptnotes, Episode 674: The One vvith Robert Eggers, Transcript
+
+date: 2025-02-05, from: John August blog
+
+The original post for this episode can be found here. John August: Hey, this is John. A standard warning for people who are in the car with their kids, there’s some swearing in this episode. Hello and welcome. My name is John August, and you’re listening to Scriptnotes. It’s a podcast about screenwriting and things [&#8230;]
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-674-the-one-vvith-robert-eggers-transcript">Scriptnotes, Episode 674: The One vvith Robert Eggers, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-674-the-one-vvith-robert-eggers-transcript>
+
+---
+
+## What Editing Can You Teach You About Screenwriting
+
+date: 2025-02-05, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/what-editing-can-you-teach-you-about-screenwriting" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/What%20Editing%20Can%20You%20Teach%20You%20About%20Screenwriting.png" alt="Image of a film editor's video timeline on a computer screen." class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>There’s a cliché in Hollywood that a film is made three times: once on the page in the form of a screenplay, the second time is on set when it’s shot with the director and actors, and the third time is in the editing bay. While any filmmaker can argue that each stage of “making” the movie is equally important, it’s in the edit where the story is finalized and often defined more by what is cut out than by what is left in.&nbsp;<br><br>Many of the industry’s greatest screenwriters started their careers as editors, including Steven Zaillian (<em>Schindler’s List</em>, 1993), Steven Soderbergh (<em>Traffic</em>, 2000), and Joel Coen (<em>No Country for Old Men</em>, 2007). All three filmmakers have distinct visual styles, a knack for clear and concise storytelling and the ability to create effective pacing. These skills were no doubt formed and strengthened while spending hundreds of hours going over raw footage and slowly piecing it all together.&nbsp;<br><br><a href="https://blog.finaldraft.com/tag/podcast">Final Draft’s Write On podcast</a> recently interviewed Josh Salzberg, co-screenwriter (along with Shira Piven), for the new film <a href="https://www.imdb.com/title/tt15300212/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_the%2520performance" style="font-style: italic;">The Performance</a>, starring Jeremy Piven and Robert Carlyle, about a vaudeville dance troupe hired to perform in Nazi Germany. <a href="https://blog.finaldraft.com/write-on-the-performance-co-writer-josh-salzberg">Salzberg shared how being an editor helped him learn the craft of screenwriting</a>.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/what-editing-can-you-teach-you-about-screenwriting>
+
+---
+
+## Escape Pod, Worlds of Possibility, and Samovar: Short Fiction Reviews by Charles Payseur
+
+date: 2025-02-05, from: Locus Magazine
+
+<p>Escape Pod 10/31/24
+Worlds of Possibility 10/24
+Samovar 10/28/24</p>
+<p>Escape Pod celebrated Halloween with <strong>Ad­dison Smith</strong>’s “<strong>Mother Death Learns a Trick</strong>”, which finds the narrator passing by an old AI robot named Mother Death, who normally predicts the demise of anyone she sees. She becomes part of the background, at least until she starts predicting her own death, which knocks the narrator out of their cycle of  <a href="https://locusmag.com/2025/02/short-fiction-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/short-fiction-reviews-by-charles-payseur/>
 
 ---
 

@@ -1,11 +1,71 @@
 ---
 title: health
-updated: 2025-02-05 07:07:21
+updated: 2025-02-06 07:06:30
 ---
 
 # health
 
-(date: 2025-02-05 07:07:21)
+(date: 2025-02-06 07:06:30)
+
+---
+
+## Corrigendum: Klebsiella pneumoniae biofilms and their role in disease pathogenesis
+
+date: 2025-02-06, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1564010>
+
+---
+
+## Inhibition of early EHDV2-Ibaraki infection steps in bovine cells by endosome alkalinization or ikarugamycin, but not by blockage of individual endocytic pathways
+
+date: 2025-02-06, from: Frontiers in Cellular and Infection Microbiology
+
+The Epizootic hemorrhagic disease virus (EHDV), an orbivirus, is the etiological factor of a fatal hemorrhagic disease of wild ruminants. A subset of EHDV serotypes, including the Ibaraki strain of EHDV2 (EHDV2-Ibaraki), infect and cause disease in cattle, thus posing a potential threat to livestock. As a member of the Sedoreoviridae family, the EHDV particle is devoid of a membrane envelope and is predicted to employ endocytic pathways for infection. However, the degree of dependence of EHDV2-Ibaraki on specific internalization pathways while infecting bovine cells (its natural host) is unknown. The endosome alkalinizing agent ammonium chloride blocked EHDV2-Ibaraki infection of Madin-Darby Bovine Kidney (MDBK) cells with dependence on its time of addition, suggesting the criticality of endosomal pH for the completion of early stages of infection. Treatment of cells within the alkalinization-sensitive window (i.e., before endosomal processing) with inhibitors of actin polymerization, macropinocytosis (amiloride), or dynamin GTPase activity (dynasore or dynole), or with the cholesterol-depleting agent methyl-β-cyclodextrin, failed to reduce EHDV2-Ibaraki infection. In contrast, in this same treatment time frame, ikarugamycin potently inhibited infection. Moreover, ikarugamycin inhibited interferon induction in infected cells and induced the accumulation of enlarged Rab7- and lamtor4-decorated vacuoles, suggesting its ability to block viral processing and modify late-endosome compartments. Notably, ikarugamycin treatment at initial infection stages, augmented the infection of MDBK cells with the vesicular stomatitis virus while inhibiting infection with bluetongue virus serotype 8. Together, our results point to differential antiviral effects of ikarugamycin on viruses dependent on distinct sets of endosomes for entry/processing. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1494200>
+
+---
+
+## Metagenomic next-generation sequencing assists in the diagnosis of visceral leishmaniasis in non-endemic areas of China
+
+date: 2025-02-06, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionLeishmaniasis, a protozoan disease caused by infection by Leishmania, is a critical issue in Asia, South America, East Africa, and North Africa. With 12 million cases globally, leishmaniasis is one of the most serious neglected tropical diseases worldwide. Direct identification of infected tissues is currently the primary method of diagnosis; however, the low sensitivity and inconvenience of microscopic examination in detecting amastigotes, parasitic manifestations of Leishmania, leads to the possibility of misdiagnosis, delayed diagnosis, and underdiagnosis.MethodsWith the development of metagenomic nextgeneration sequencing (mNGS) technology for pathogen identification, it is possible to detect specific nucleic acid sequences characteristic of Leishmania parasites, which opens new avenues for the more accurate diagnosis of leishmaniasis. In this study, we report two cases of leishmaniasis from Henan Province, China, in which Leishmania parasites were identified using mNGS technology, massively expediting diagnosis and treatment.ResultsOur report demonstrates that the mNGS method is applicable to peripheral blood samples (PB), which are far more readily available in clinical settings, in addition to bone marrow aspirate samples (BM), which are traditionally used for diagnosis of visceral leishmaniasis.ConclusionOur report validates the efficacy of mNGS technology as a rapid and accurate method of diagnosis for leishmaniasis. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1517046>
+
+---
+
+## Unveiling new perspectives about the onset of neurological and cognitive deficits in cerebral malaria: exploring cellular and neurochemical mechanisms
+
+date: 2025-02-06, from: Frontiers in Cellular and Infection Microbiology
+
+Cerebral malaria is the most severe and lethal complication caused by Plasmodium falciparum infection, leading to critical neurological impairments and long-term cognitive, behavioral, and neurological sequelae in survivors, particularly affecting children under the age of five. Various hypotheses have been proposed to explain the neurological syndrome associated to cerebral malaria condition, including vascular occlusion and sequestration, cytokine storm or inflammatory response, or a combination of these mechanisms and despite extensive research and a growing range of scientific information, the precise pathophysiological mechanism remains poorly understood. In this sense, this review aims to explore the neurological impairment in cerebral malaria and elucidate novel mechanisms to explain the severity of this disease. Recent evidence implicates glutamate and glutamatergic pathways in the onset of cerebral malaria, alongside the impairments in the metabolic activity of other molecules such as dopamine and kynurenic acid. These neurotransmitters pathways may play a crucial role in the pathogenesis of cerebral malaria, potentially interacting with other molecular players. By enhancing our understanding in the pathophysiology of cerebral malaria, this article seeks to explore new hypotheses regarding the involvement of neurotransmitters and their interactions with other molecular targets, thereby contributing to the overall pathology of cerebral malaria. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1506282>
+
+---
+
+## Distribution and frequency of genetic mutations in three insecticide targets in field populations of Culex tritaeniorhynchus in Mianyang City, Sichuan Province, China
+
+date: 2025-02-06, from: Frontiers in Cellular and Infection Microbiology
+
+Japanese encephalitis (JE) is an important mosquito borne infectious disease which is mainly transmitted by Culex tritaeniorhynchus Giles (1901) in China. At present, vector control remains an important means to prevent and control vector-borne diseases including JE. The development of insecticide resistance has seriously threatened the effectiveness of insecticide-based vector control programmes. Therefore, understanding insecticide resistance in the target pest is essential to inform evidence-based vector control. In Mianyang City of Sichuan Province of China, Cx. tritaeniorhynchus is the dominant mosquito species, and JE has been documented in this city. Unfortunately, there is little information on the status and underlying mechanisms of insecticide resistance in field populations of Cx. tritaeniorhynchus, the main JE vector in this region. In the study, a total of 314 adults of Cx. tritaeniorhynchus, collected from 6 sites across Mianyang City, were inspected for resistance-conferring mutations in three genes encoding voltage-gated sodium channel (VGSC), Gamma-aminobutyric acid (GABA) receptor Rdl subunit (Rdl), and acetylcholinesterase (AChE) by DNA Sanger sequencing. The results showed that the classical L1014F mutation in VGSC was distributed in all the 6 populations at varying frequencies from 16.98% to 27.78%, and the frequency of F455W mutation in AChE was extremely high (97.06%-100%). Notably, the conserved mutations A296S and V327I previously reported in the Rdl of some other species of mosquitoes were discovered in Cx. tritaeniorhynchus for the first time. The frequency of the resistant Rdl 296S allele was 62.04% to 94.00%, while the V327I mutation was present at a much lower frequency ranging from 0.93% to 1.8%. Overall, the prevalent co-existence of resistance-conferring mutations in multiple insecticide target proteins in Cx. tritaeniorhynchus populations in Mianyang City indicates a worrying status of insecticide resistance, and suggests that it is highly required to monitor the phenotypic resistance of Cx. tritaeniorhynchus on a regular basis. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1496849>
 
 ---
 

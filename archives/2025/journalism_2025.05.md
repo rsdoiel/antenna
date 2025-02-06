@@ -1,11 +1,271 @@
 ---
 title: journalism
-updated: 2025-02-05 07:07:19
+updated: 2025-02-06 07:06:29
 ---
 
 # journalism
 
-(date: 2025-02-05 07:07:19)
+(date: 2025-02-06 07:06:29)
+
+---
+
+## Romance is in the air and on Hulu
+
+date: 2025-02-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Jefferson Hernandez Segovia</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/06/romance-is-in-the-air-and-on-hulu/">Romance is in the air and on Hulu</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/06/romance-is-in-the-air-and-on-hulu/>
+
+---
+
+## Beong-Soo Kim named interim president
+
+date: 2025-02-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The next president likely won’t be decided until at least June 2026.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/06/beong-soo-kim-named-as-interim-president/">Beong-Soo Kim named interim president</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/06/beong-soo-kim-named-as-interim-president/>
+
+---
+
+## Occidental College alcanza su clasificación más alta en 15 años, y la oficina de admisiones reflexiona sobre las estadísticas
+
+date: 2025-02-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>U.S. News and World Report, una empresa de publicaciones en educación, negocios y análisis, publicó el 24 de septiembre su lista de “Mejores Rankings de Universidades” y “Ranking Nacional de Colegios de Artes Liberales” de 2025. En la categoría de Colegios de Artes Liberales Nacionales, Occidental ahora comparte el puesto 34 con Mount Holyoke College, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/espanol/2025/02/05/occidental-college-alcanza-su-clasificacion-mas-alta-en-15-anos-y-la-oficina-de-admisiones-reflexiona-sobre-las-estadisticas/2914101">Occidental College alcanza su clasificación más alta en 15 años, y la oficina de admisiones reflexiona sobre las estadísticas</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/espanol/2025/02/05/occidental-college-alcanza-su-clasificacion-mas-alta-en-15-anos-y-la-oficina-de-admisiones-reflexiona-sobre-las-estadisticas/2914101>
+
+---
+
+## Estudiantes de Occidental participan en politica a escala mundial durante ‘Oxy en las Naciones Unidas’
+
+date: 2025-02-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Cada año, un grupo de estudiantes de último año de Occidental participa en el Programa de las Naciones Unidas William y Elizabeth Kahane (Programa Kahane UN) — el único programa patrocinado por las Naciones Unidas en los Estados Unidos que ofrece pasantias a los estudiantes a traves del programa Oxy en la ONU. Este año participan 17 estudiantes. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/espanol/2025/02/05/estudiantes-de-occidental-participan-en-politica-a-escala-mundial-durante-oxy-en-las-naciones-unidas/2914098">Estudiantes de Occidental participan en politica a escala mundial durante ‘Oxy en las Naciones Unidas’</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/espanol/2025/02/05/estudiantes-de-occidental-participan-en-politica-a-escala-mundial-durante-oxy-en-las-naciones-unidas/2914098>
+
+---
+
+## Q&A: Michelle Liu Carriger’s awarded research weaves fashion in theater with identity
+
+date: 2025-02-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Michelle Liu Carriger, who has a doctorate in theater arts and performance studies,  is encouraging others to embrace the complexity of their clothing.
+Carriger, UCLA&#8217;s Theater Department Chair, researches historical dialogues surrounding fashion, and her findings are illuminating modern discussions. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/05/qa-michelle-liu-carrigers-awarded-research-weaves-fashion-in-theater-with-identity/>
+
+---
+
+## USAC recap – Jan. 28
+
+date: 2025-02-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+A Students for Justice in Palestine at UCLA spokesperson condemned university policing during a special presentation at the Jan. 28 Undergraduate Students Association Council meeting.
+USAC &#8211; which also passed measures supporting undocumented students and subsidized student services at the meeting &#8211; is the official student government representing the undergraduate student body at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/05/usac-recap-jan-28-3/>
+
+---
+
+## UCLA Olympic Analytical Lab SRAs protest against alleged wage theft, work policies
+
+date: 2025-02-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Staff research associates at the UCLA Olympic Analytical Lab protested Wednesday against alleged wage theft and unfair labor practices.&#160;
+The SRAs were originally promised to receive raises in 2023 and have allegedly been denied over $500,000 collectively, according to signs from the protest and a document obtained by the Daily Bruin. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/05/ucla-olympic-analytical-lab-sras-protest-against-alleged-wage-theft-work-policies/>
+
+---
+
+## USC selects Beong-Soo Kim as interim president
+
+date: 2025-02-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Kim has served as the senior vice president and general counsel since July 2020.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/05/usc-selects-beong-soo-kim-as-interim-president/">USC selects Beong-Soo Kim as interim president</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/05/usc-selects-beong-soo-kim-as-interim-president/>
+
+---
+
+## Student Commencement Speaker to replace valedictorian speech
+
+date: 2025-02-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A 3.5 grade point average is required to apply, as opposed to 3.98 for last year’s valedictorian.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/05/student-commencement-speaker-to-replace-valedictorian-speech/">Student Commencement Speaker to replace valedictorian speech</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/05/student-commencement-speaker-to-replace-valedictorian-speech/>
+
+---
+
+## Book review: ‘I Am Not Jessica Chen’ embodies power of self-love over outward comparison
+
+date: 2025-02-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#8220;I Am Not Jessica Chen&#8221; is a must-read for those intensely struggling with comparison.
+&#8220;I Am Not Jessica Chen,&#8221; written by award-winning author Ann Liang and published Jan. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/05/book-review-i-am-not-jessica-chen-embodies-power-of-self-love-over-outward-comparison/>
+
+---
+
+## Dressed for SoCal Winter
+
+date: 2025-02-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/02/05/dressed-for-socal-winter/>
+
+---
+
+## Pro-Palestine protesters demonstrate outside UC Regent Jay Sures’ home
+
+date: 2025-02-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 5 at 11 a.m.</em>
+Pro-Palestine protesters demonstrated outside Regent Jay Sures’ Brentwood house early Wednesday morning.
+The protest, organized by Graduate Students for Justice in Palestine at UCLA, began before 7:30 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/05/pro-palestine-protesters-demonstrate-outside-uc-regent-jay-sures-home/>
+
+---
+
+## ‘Did we just lose everything we’ve invested all our lives into?’: Occidental community grapples with Eaton Fire
+
+date: 2025-02-05, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>&#8220;I can’t leave my dad&#8221; — student Wiley Calkins In Birkenstocks and sweatpants at his home in Altadena, Wiley Calkins (junior) turns up a long driveway between four homes, three of which were turned to rubble when the Eaton Fire ravaged his neighborhood on the night of Jan. 7. He could be navigating the remains [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/features/2025/02/05/did-we-just-lose-everything-weve-invested-all-our-lives-into-occidental-community-grapples-with-eaton-fire/2914039">&#8216;Did we just lose everything we&#8217;ve invested all our lives into?&#8217;: Occidental community grapples with Eaton Fire</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/features/2025/02/05/did-we-just-lose-everything-weve-invested-all-our-lives-into-occidental-community-grapples-with-eaton-fire/2914039>
+
+---
+
+## From Oxypreneurship to Forbes 30 Under 30, Ethan Glass ’19 launches successful tech startup
+
+date: 2025-02-05, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Before the pandemic, Occidental students could participate in J-term Oxypreneurship programming before the spring semester buzz filled campus. One of these students was Ethan Glass &#8217;19, a Media Arts &#38; Culture (MAC) major with an economics minor, who said he participated in 2016*. Now, Glass and his co-founder are recognized on the Forbes 30 Under [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2025/02/05/from-oxypreneurship-to-forbes-30-under-30-ethan-glass-19-launches-successful-tech-startup/2914011">From Oxypreneurship to Forbes 30 Under 30, Ethan Glass &#8217;19 launches successful tech startup</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/02/05/from-oxypreneurship-to-forbes-30-under-30-ethan-glass-19-launches-successful-tech-startup/2914011>
+
+---
+
+## Glee Club wraps up Northern California tour, ‘unites under their shared love of music’
+
+date: 2025-02-05, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental’s Glee Club piled onto a charter bus and headed to Northern California for their annual winter tour Jan. 12–18. The ensemble stopped in San Luis Obispo, Walnut Creek and San Francisco, performing in venues ranging from local Presbyterian churches to the Stanford Memorial Cathedral. For more than 75 years, Glee Club has toured annually, both domestically [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/02/05/glee-club-wraps-up-northern-california-tour-unites-under-their-shared-love-of-music/2914061">Glee Club wraps up Northern California tour, &#8216;unites under their shared love of music&#8217;</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/02/05/glee-club-wraps-up-northern-california-tour-unites-under-their-shared-love-of-music/2914061>
+
+---
+
+## The Industry explores unconventional opera as Oxy Arts’ Wanlass Artist In Residence
+
+date: 2025-02-05, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>This semester, Oxy Arts is offering the Studio Art course Art Outside the Bounds, where students learn from an LA-based artist through the Wanlass Artist in Residence Program. The year-long residency allows artists to develop their own curriculum for students and share their practice with students and the greater Occidental community. The Industry, an experimental performance art and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/02/05/the-industry-explores-unconventional-opera-as-oxy-arts-wanlass-artist-in-residence/2914059">The Industry explores unconventional opera as Oxy Arts&#8217; Wanlass Artist In Residence</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/02/05/the-industry-explores-unconventional-opera-as-oxy-arts-wanlass-artist-in-residence/2914059>
+
+---
+
+## Occidental Library collects hundreds of books for Children’s Books for Altadena
+
+date: 2025-02-05, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Between Jan. 21 and Jan. 24, the Mary Norton Clapp Library collected used and new donations for Children’s Books for Altadena. According to First-year, Transfer, &#38; Student Success Librarian Samantha Hilton, the library was one of ten locations collecting books — other locations included Vroman&#8217;s Bookstore, Chevalier&#8217;s Books, Book Soup, The Last Bookstore, Bob Baker [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/02/05/occidental-library-collects-hundreds-of-books-for-childrens-books-for-altadena/2914056">Occidental Library collects hundreds of books for Children’s Books for Altadena</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/02/05/occidental-library-collects-hundreds-of-books-for-childrens-books-for-altadena/2914056>
+
+---
+
+## Student-run Touchdown Thrift plans to reduce waste year-round
+
+date: 2025-02-05, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Touchdown Thrift, a student-owned thrift store on campus, opened their doors Jan. 24 with nearly all of their inventory coming directly from the Occidental community. Located in what used to be the concessions stand for Kemp Stadium, Touchdown Thrift is a collaboration between Oxy Ecossentials, the ECON 201 Sustainability Lab and the Office of Sustainability. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/02/05/student-run-touchdown-thrift-plans-to-reduce-waste-year-round/2914054">Student-run Touchdown Thrift plans to reduce waste year-round</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/02/05/student-run-touchdown-thrift-plans-to-reduce-waste-year-round/2914054>
+
+---
+
+## Coyote sightings on campus raise concern
+
+date: 2025-02-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Department of Public Safety advised students not to run away from coyotes.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/05/coyote-sightings-on-campus-raise-concern/">Coyote sightings on campus raise concern</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/05/coyote-sightings-on-campus-raise-concern/>
 
 ---
 
@@ -13,7 +273,7 @@ updated: 2025-02-05 07:07:19
 
 date: 2025-02-05, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Feb. 5 at 1:56 a.m.</em>
+<em>This post was updated Feb. 5 at 9:02 p.m.</em>
 Undergraduate Students Association Council Cultural Affairs Commissioner Alicia Verdugo announced Tuesday that they will resign amid allegations of antisemitic discrimination. 
 
 <br> 
@@ -75,20 +335,6 @@ date: 2025-02-05, from: The Daily Trojan (USC Student Newspaper)
 <br> 
 
 <https://dailytrojan.com/2025/02/05/baraye-student-dance-film-protests-iranian-regime/>
-
----
-
-## Coyote sightings on campus raise concern
-
-date: 2025-02-05, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Department of Public Safety advised students not to run away from coyotes.</p>
-<p>The post <a href="https://dailytrojan.com/2025/02/05/coyote-sightings-on-campus-raise-concern/">Coyote sightings on campus raise concern</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2025/02/05/coyote-sightings-on-campus-raise-concern/>
 
 ---
 
