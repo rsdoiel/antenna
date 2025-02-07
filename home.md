@@ -1,11 +1,150 @@
 ---
 title: home
-updated: 2025-02-06 13:29:04
+updated: 2025-02-07 07:06:24
 ---
 
 # home
 
-(date: 2025-02-06 13:29:04)
+(date: 2025-02-07 07:06:24)
+
+---
+
+## CNPS Quarterly Member Update: Standing Together in Crisis
+
+date: 2025-02-07, from: California Native Plants Society
+
+<p>In this CNPS quarterly update, Jun Bando reflects on the challenges of 2025, from the LA fires to federal changes, while celebrating key victories like the Chuckwalla and Sáttítla National Monuments.</p>
+<p>The post <a href="https://www.cnps.org/leadership-messages/cnps-quarterly-member-update-standing-together-in-crisis-42277">CNPS Quarterly Member Update: Standing Together in Crisis</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/leadership-messages/cnps-quarterly-member-update-standing-together-in-crisis-42277>
+
+---
+
+## 5 Reasons Why Peace Lilies May Not Bloom
+
+date: 2025-02-07, from: The Gardener's Path
+
+<p>Peace lilies are capable of stunning displays. While there are lots of houseplants out there that have attractive foliage, there aren't many that send out beautiful blossoms. That's why it's frustrating when a peace lily fails to bloom. In this article, we'll guide you through figuring out the cause and how to fix it.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/peace-lily-not-blooming/">5 Reasons Why Peace Lilies May Not Bloom</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/peace-lily-not-blooming/>
+
+---
+
+## Turkey Oak: Characteristics, Facts, and Care Tips
+
+date: 2025-02-07, from: Yard Life blog
+
+<p>Turkey Oak (Quercus cerris) is a majestic deciduous tree native to Southern Europe and Western Asia. It is renowned for ... </p>
+<p class="read-more-container"><a title="Turkey Oak: Characteristics, Facts, and Care Tips" class="read-more button" href="https://ownyardlife.com/turkey-oak-characteristics-facts-and-care-tips/#more-23185" aria-label="Read more about Turkey Oak: Characteristics, Facts, and Care Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/turkey-oak-characteristics-facts-and-care-tips/">Turkey Oak: Characteristics, Facts, and Care Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/turkey-oak-characteristics-facts-and-care-tips/>
+
+---
+
+## Prairifire Crabapple Tree Care and Growing Guide
+
+date: 2025-02-07, from: Yard Life blog
+
+<p>The Prairifire Crabapple Tree (Malus &#8216;Prairifire&#8217;) is a stunning ornamental tree that has gained popularity among gardeners and landscapers due ... </p>
+<p class="read-more-container"><a title="Prairifire Crabapple Tree Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/prairifire-crabapple-tree-care-and-growing-guide/#more-23179" aria-label="Read more about Prairifire Crabapple Tree Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/prairifire-crabapple-tree-care-and-growing-guide/">Prairifire Crabapple Tree Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/prairifire-crabapple-tree-care-and-growing-guide/>
+
+---
+
+## American Elm (Ulmus americana) Care and Growing Guide
+
+date: 2025-02-07, from: Yard Life blog
+
+<p>The American Elm (Ulmus americana) is a majestic and fast-growing deciduous tree native to North America. With its iconic vase-like ... </p>
+<p class="read-more-container"><a title="American Elm (Ulmus americana) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/american-elm-ulmus-americana-care-and-growing-guide/#more-23174" aria-label="Read more about American Elm (Ulmus americana) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/american-elm-ulmus-americana-care-and-growing-guide/">American Elm (Ulmus americana) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/american-elm-ulmus-americana-care-and-growing-guide/>
+
+---
+
+## These New Books by Black Authors Need to Be on Your Reading List
+
+date: 2025-02-07, from: Sunset Magazine - Living in the West
+
+To celebrate Black History Month, why not pick up a book by a Black author? Check out these most popular new and highly anticipated books. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/culture/books-by-black-authors>
+
+---
+
+## 11 Types of Mimosa Trees (With Pictures and Identification)
+
+date: 2025-02-07, from: Yard Life blog
+
+<p>Mimosa trees are known for their delicate, feathery leaves and vibrant, showy flowers. These trees belong to the Mimosa genus ... </p>
+<p class="read-more-container"><a title="11 Types of Mimosa Trees (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/11-types-of-mimosa-trees-with-pictures-and-identification/#more-23156" aria-label="Read more about 11 Types of Mimosa Trees (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/11-types-of-mimosa-trees-with-pictures-and-identification/">11 Types of Mimosa Trees (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/11-types-of-mimosa-trees-with-pictures-and-identification/>
+
+---
+
+## 20 Types of White Spiders (With Pictures and Identification)
+
+date: 2025-02-07, from: Yard Life blog
+
+<p>Spiders come in a variety of colors, with white spiders being some of the most fascinating due to their unique ... </p>
+<p class="read-more-container"><a title="20 Types of White Spiders (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/20-types-of-white-spiders-with-pictures-and-identification/#more-23128" aria-label="Read more about 20 Types of White Spiders (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-types-of-white-spiders-with-pictures-and-identification/">20 Types of White Spiders (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-types-of-white-spiders-with-pictures-and-identification/>
+
+---
+
+## This Is Why You Shouldn’t Start Spreading Seeds in Wildfire Zones
+
+date: 2025-02-06, from: Sunset Magazine - Living in the West
+
+The recent L.A. wildfires have devastated natural landscapes. Here's how to support wildfire recovery without harming local ecosystems. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/how-to-safely-restore-fire-damaged-hillsides>
+
+---
+
+## It’s Not Too Late to Plan a Romantic Valentine’s Day Road Trip. Here’s Where to Go.
+
+date: 2025-02-06, from: Sunset Magazine - Living in the West
+
+Valentine's Day is next Friday, February 14, and it's not too late to plan a getaway. Here are quick and easy road trips to spark romance. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips/valentines-day-road-trips>
 
 ---
 
@@ -33,29 +172,17 @@ The legendary musician lived in this five-story brownstone in the middle of Manh
 
 ---
 
-## What are Short-Day and Long-Day Plants?
+## What Are Short-Day and Long-Day Plants?
 
 date: 2025-02-06, from: The Gardener's Path
 
 <p>Short-day, long-day, what do these terms mean when it comes to plants and their flowering habits? These terms refer to photoperiodism, which is a response to day length and its physiological impact on the plant. Learn all about what this means and how it impacts your gardening in this guide. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/short-long-day/">What are Short-Day and Long-Day Plants?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/short-long-day/">What Are Short-Day and Long-Day Plants?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
  
 
 <br> 
 
 <https://gardenerspath.com/plants/flowers/short-long-day/>
-
----
-
-## Going Out for Valentine’s Day Is Overrated. Make These Date Night Recipes at Home Instead.
-
-date: 2025-02-06, from: Sunset Magazine - Living in the West
-
-Set the mood for romance this Valentine's Day or on any special occasion by cooking up these Valentine's Day recipes. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/valentines-day-recipes>
 
 ---
 
@@ -68,6 +195,30 @@ The best Valentine’s Day gift to give that special someone in your life is a b
 <br> 
 
 <https://www.sunset.com/home-garden/flowers-plants/valentines-day-flowers-delivery>
+
+---
+
+## Winter Is Still a Critical Season for Gardening. Here’s Your To-Do List.
+
+date: 2025-02-06, from: Sunset Magazine - Living in the West
+
+Savvy gardeners know winter is a critical season for setting up your landscape for success in spring. Here are the winter garden tasks to do. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/winter-gardening-tasks>
+
+---
+
+## Going Out for Valentine’s Day Is Overrated. Make These Date Night Recipes at Home Instead.
+
+date: 2025-02-06, from: Sunset Magazine - Living in the West
+
+Set the mood for romance this Valentine's Day or on any special occasion by cooking up these Valentine's Day recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/valentines-day-recipes>
 
 ---
 

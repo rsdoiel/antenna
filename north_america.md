@@ -1,11 +1,1107 @@
 ---
 title: north america
-updated: 2025-02-06 13:28:59
+updated: 2025-02-07 07:06:21
 ---
 
 # north america
 
-(date: 2025-02-06 13:28:59)
+(date: 2025-02-07 07:06:21)
+
+---
+
+## US employers added just 143,000 jobs last month, jobless rate slips to 4% to start the year
+
+date: 2025-02-07, from: VOA News USA
+
+Washington — U.S. employers added just 143,000 jobs last month, but the jobless rate slipped to 4% to start 2025 and the government revised November and December payrolls higher.
+
+
+The first job report of Donald Trump’s second presidency suggested that he inherited a labor market that is solid but unspectacular. Economists had expected about 170,000 new jobs in January.
+
+
+It's a downshift from 2024 which averaged 186,000 new jobs a month, including a surge of 256,000 in December. The unemployment rate is expected to remain low at 4.1%.
+
+
+
+The future is cloudier.
+
+
+A federal judge on Thursday temporarily blocked President Donald Trump's plan to push out federal workers by offering them financial incentives, yet a federal hiring freeze that Trump imposed January 20 is a “negative for employment growth,’’ Bradley Saunders, an economist at Capital Economics, wrote in a commentary last week.
+
+
+
+
+
+
+The freeze came after the Labor Department collected the January jobs numbers, so any impact would be revealed in upcoming employment data.
+
+
+Likewise, a cold snap that probably increased seasonal layoffs in the Midwest and Northeast occurred late in January and won’t register in government jobs data until the February numbers come out, Saunders wrote.
+
+
+Economists are also worried about Trump’s threat to wage a trade war against other countries. He’s already imposed a 10% tax on imports from China.
+
+
+
+
+Canada and Mexico — America’s two largest trading partners — remain in his crosshairs, although he gave them a 30-day reprieve from the 25% tariffs he was planning to sock them with on Tuesday, allowing time for negotiations. Trump says that America’s two neighbors and allies haven’t done enough to stem the flow of undocumented immigrants and fentanyl into the United States.
+
+
+
+Trump is also ready to slap tariffs on the European Union; pointing to America’s deficit in the trade of goods with the EU, which came to $236 billion last year, he says that Europe treats U.S. exporters unfairly.
+
+
+The tariffs, which are paid by U.S. importers who generally try to pass along the cost to customers, could rekindle inflation – which has fallen from the four-decade high it reached in mid-2022 but is still stuck above the Fed’s 2% target. If the tariffs push prices higher, the Fed may cancel or postpone the two interest-rate cuts it had forecast for this year. And that would be bad for economic growth and job creation.
+
+
+
+
+The job market already has cooled from the red-hot days of 2021-2023. American payrolls increased by 2.2 million last year, down from 3 million in 2023, 4.5 million in 2022 and a record 7.2 million in 2021 as the economy roared back from COVID-19 lockdowns. The Labor Department also reports that employers are posting fewer jobs. Monthly job openings have tumbled from a record 12.2 million in March 2022, to 7.6 million in December – still a decent number by historical standards.
+
+
+As the labor market cools, American workers are losing confidence in their ability to find better pay or working conditions by changing jobs. The number of people quitting has fallen from a record 4.5 million near the height of the hiring boom in April 2022, to December’s 3.2 million, which is below pre-pandemic levels.
+
+
+Still, layoffs remain below pre-pandemic levels, creating an unusual situation: If you are employed, you probably enjoy job security. If you’re looking for one, things have gotten tougher.
+
+
+The Labor Department also is expected to report annually released revisions Friday that will show job creation from April 2023 through March 2024 wasn’t as strong as originally reported.
+
+
+A preliminary version of the revisions, released in August, showed that 818,000 fewer jobs were created over those 12 months – lowering average monthly hiring during that span from 242,000 to 174,000. Because they are not final, the August estimates have not yet been added to the official government payroll numbers. The revisions out Friday will become official and part of the historic data. 
+
+<br> 
+
+<https://www.voanews.com/a/us-employers-added-just-143-000-jobs-last-month-jobless-rate-slips-to-4-to-start-the-year-/7966610.html>
+
+---
+
+## Morning Roundup: The Undaunted and the Conflicted
+
+date: 2025-02-07, from: The Contrarian
+
+Featuring Jen Rubin's Undaunted figure of the Week, Kathleen Clark's 
+
+<br> 
+
+<https://contrarian.substack.com/p/morning-roundup-the-undaunted-and>
+
+---
+
+## Iran's supreme leader criticizes proposed nuclear talks with US
+
+date: 2025-02-07, from: VOA News USA
+
+DUBAI, UNITED ARAB EMIRATES — Iran's supreme leader said Friday that negotiations with America “are not intelligent, wise or honorable” after U.S. President Donald Trump floated the idea of nuclear talks with Tehran.
+
+
+Ayatollah Ali Khamenei also suggested that “there should be no negotiations with such a government” but stopped short of issuing a direct order not to engage with Washington.
+
+
+Khamenei's remarks upend months of signals from Tehran to the United States that it wanted to negotiate over its rapidly advancing nuclear program in exchange for the lifting of crushing economic sanctions worth billions of dollars.
+
+
+What happens next remains unclear, particularly as reformist President Masoud Pezeshkian promised as recently as Thursday to enter a dialogue with the West.
+
+
+Khamenei’s remarks to air force officers in Tehran appeared to contradict his own earlier remarks in August that opened the door to talks.
+
+
+However, the 85-year-old Khamenei has always been careful with remarks about negotiating with the West. That includes balancing the demands of reformists within the country who want the talks against hard-line elements within Iran’s theocracy, including the paramilitary Revolutionary Guard.
+
+
+Khamenei noted that Trump unilaterally withdrew from the earlier nuclear deal under which Iran drastically limited its enrichment of uranium and overall stockpile of the material, in exchange for crushing sanctions being removed.
+
+
+“The Americans did not uphold their end of the deal,” Khamenei said. “The very person who is in office today tore up the agreement. He said he would, and he did.”
+
+
+He added: "This is an experience we must learn from. We negotiated, we gave concessions, we compromised — but we did not achieve the results we aimed for. And despite all its flaws, the other side ultimately violated and destroyed the agreement.”
+
+
+Mixed messages from Trump
+
+
+It's not clear what sparked Khamenei's remarks. However, they come after Trump suggested he wanted to deal with Tehran, even while signing an executive order to reimpose his “maximum pressure" approach to Iran on Tuesday.
+
+
+“I’m going to sign it, but hopefully we’re not going to have to use it very much,” he said from the Oval Office. “We will see whether or not we can arrange or work out a deal with Iran.
+
+
+“We don’t want to be tough on Iran. We don’t want to be tough on anybody,” Trump said. “But they just can’t have a nuclear bomb.”
+
+
+Trump followed with another online message on Wednesday, saying: “Reports that the United States, working in conjunction with Israel, is going to blow Iran into smithereens, ARE GREATLY EXAGGERATED.
+
+
+“I would much prefer a Verified Nuclear Peace Agreement, which will let Iran peacefully grow and prosper,” he wrote on Truth Social. “We should start working on it immediately, and have a big Middle East Celebration when it is signed and completed.”
+
+
+He did not elaborate.
+
+
+Nuclear enrichment
+
+
+Khamenei, like other Iranian leaders, uses elliptical comments to indirectly govern policy while not boxing himself into any one decision. As supreme leader, he's also created a vast bureaucracy that competes with itself for influence, including with its civilian leadership under Pezeshkian.
+
+
+As recently as Thursday, Pezeshkian suggested Iran could open itself up to even more inspections from the United Nations' nuclear watchdog, the International Atomic Energy Agency.
+
+
+“They [can] come and inspect one hundred times more since we are not supposed to go after” a nuclear weapon, Pezeshkian told foreign diplomats.
+
+
+
+
+Iranian diplomats have long pointed to Khamenei’s preachings as a binding fatwa, or religious edict, that Iran won't build an atomic bomb.
+
+
+Iran has long insisted its nuclear program is for peaceful purposes. However, it now enriches uranium to 60% purity — a short, technical step from weapons-grade levels of 90%. Iranian officials increasingly suggest Tehran could pursue an atomic bomb. U.S. intelligence agencies assess that Iran has yet to begin a weapons program but has “undertaken activities that better position it to produce a nuclear device, if it chooses to do so.”
+
+
+Gaza and oil sanctions
+
+
+Earlier in the week, Trump also said that displaced Palestinians in Gaza could be permanently resettled outside the war-torn territory and proposed the U.S. take “ownership” in redeveloping the area into “the Riviera of the Middle East.”
+
+
+Khamenei appeared to reference Trump's Gaza proposal in his remarks.
+
+
+“The Americans sit, redrawing the map of the world — but only on paper, as it has no basis in reality," Khamenei said. “They make statements about us, express opinions and issue threats. If they threaten us, we will threaten them in return. If they act on their threats, we will act on ours. If they violate the security of our nation, we will, without a doubt, respond in kind.”
+
+
+Meanwhile, Iran's Foreign Ministry separately criticized the U.S. Treasury's move to levy sanctions Thursday against firms trading sanctioned Iranian crude oil to China. The Treasury described the firms as forming an “international network for facilitating the shipment of millions of barrels of Iranian crude oil worth hundreds of millions of dollars.”
+
+
+Foreign Ministry spokesperson Esmail Baghaei called the Treasury's decision “completely unjustified and contrary to international rules and regulations.” 
+
+<br> 
+
+<https://www.voanews.com/a/iran-s-supreme-leader-criticizes-proposed-nuclear-talks-with-us/7966585.html>
+
+---
+
+## Like GE before it, Honeywell will spin off its aerospace unit to meet soaring demand
+
+date: 2025-02-07, from: Market Place
+
+Because of backlogs at Boeing and Airbus — and the older fleets airlines are flying as a result — the sky could be the limit for the new company. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/07/honeywell-aerospace-unit-soaring-demand/>
+
+---
+
+## Tom the Dancing Bug: Friday's Comic
+
+date: 2025-02-07, from: The Contrarian
+
+Today's Republican Party Says: Don't Call Us Nazis... 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-fridays-comic>
+
+---
+
+## Musk’s Inexcusable Conflicts 
+
+date: 2025-02-07, from: The Contrarian
+
+By Kathleen Clark 
+
+<br> 
+
+<https://contrarian.substack.com/p/musks-inexcusable-conflicts>
+
+---
+
+## President Trump has fired multiple government officials. Can he?
+
+date: 2025-02-07, from: Market Place
+
+Trump has fired EEOC and NLRB officials. Some believe it's firmly within the president's power. Others say that's not the case. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/07/president-trump-has-fired-multiple-government-officials-can-he/>
+
+---
+
+## Historical precedent, legal questions swirl around Trump plan to detain migrants at Guantanamo
+
+date: 2025-02-07, from: VOA News USA
+
+The Trump administration's expansion of migrant detention facilities, notably its use of the U.S. naval station at Guantanamo Bay, Cuba, has reignited debate among human rights advocates and legal experts.
+
+
+President Donald Trump campaigned on a promise to curb legal migration and deport those in the U.S. without legal status.
+
+
+Late last month, he instructed his administration to prepare the facility for the detention of up to 30,000 "high-priority" unauthorized immigrants with criminal records. The first group arrived on Tuesday.
+
+
+Described as the "the worst of the worst” by administration officials, the detainees were identified by the Department of Homeland Security as part of the transnational criminal organization "Tren de Aragua,” which the U.S. designated a foreign terrorist organization on January 20.
+
+
+
+
+VOA sent numerous requests to U.S. Immigration and Customs Enforcement regarding what crimes the migrants committed. ICE directed VOA to contact the Department of Homeland Security, which has not responded to emails.
+
+
+Miriam Pensack, a historian who studies Latin America and the Caribbean and is a postgraduate scholar at Princeton University, said the U.S. government has been using Guantanamo Bay to hold migrants on and off for 30 years.
+
+
+"There is an ICE office in Guantanamo. ... But obviously what we’re seeing now is a huge expansion of that capacity,” she said.
+
+
+Trump’s decision to use the naval base as a migrant detention center follows his signing of the Laken Riley Act, which mandates detention for those accused of theft or violent crimes while in the country unlawfully.
+
+
+Supporters say that using Guantanamo will alleviate pressure on overcrowded detention facilities and serve as a stronger deterrent against illegal crossings to the United States.
+
+
+
+
+Earlier this week, U.S. Defense Secretary Pete Hegseth described Guantanamo as the "perfect place" to detain migrants as he visited the border with Mexico.
+
+
+The Pentagon will provide any necessary assets "to support the expulsion and detention of those in our country illegally," he told Agence France-Presse.
+
+
+Guantanamo and migrant detention
+
+
+The U.S. first used Guantanamo Bay to detain migrants, mostly Haitian and Cuban asylum-seekers under President George H.W. Bush in the early 1990s.
+
+
+Following a military coup in Haiti in 1991, thousands fled by boat to the U.S. but were intercepted at sea and taken to Guantanamo. In 1994, Guantanamo became the site of the world’s first and only prison camp for people with HIV, where more than 300 Haitian refugees, including children, were confined behind razor wire.
+
+
+“These were refugees fleeing slaughter in their country, whose credible fear of persecution the U.S. officials who screened them acknowledged, who were held for no reason other than their HIV status. When these people protest detention, the response was brutal,” said Pardiss Kebriaei, senior staff attorney at the U.S.-based Center for Constitutional Rights, to reporters during a press call last Thursday.
+
+
+Legal challenges eventually forced the U.S. government to release the detainees, setting a precedent that indefinite offshore detention without due process is legally dubious.
+
+
+In 2002, the George W. Bush administration built a detention camp in Guantanamo Bay to hold terror suspects following the U.S. invasion of Afghanistan shortly after the 9/11 attacks of 2001.
+
+
+
+
+But Guantanamo’s use for migrant detention continued with at least two presidents, Bill Clinton and Joe Biden, using the base.
+
+
+The Biden administration sought to close Guantanamo, but Congress never passed the legislation, leaving the base operational for future use.
+
+
+“The idea of closing Guantanamo as a prison is one thing; closing Guantanamo as a 45-square-mile base held in Cuba is another,” Pensack said.
+
+
+Legal and human rights concerns
+
+
+Advocates warn that offshore detention facilities allow the U.S. to sidestep domestic constitutional protections and limit oversight.
+
+
+Eunice Cho, attorney at the ACLU National Prison Project, told reporters during the press call last Thursday that “detaining immigrants on military bases in the United States and Guantanamo would subject people to dangerous conditions ... and attempt to avoid scrutiny by lawyers, the press, and congressional oversight.”
+
+
+
+
+Historically, legal challenges have helped curb indefinite detentions at Guantanamo. The Supreme Court ruling in Rasul v. Bush (2004) established that Guantanamo detainees have the right to challenge their detention in U.S. courts. However, the Trump administration could attempt to argue that civil immigration detainees fall outside this precedent.
+
+
+While prior administrations may have seen Guantanamo as a law-free zone, “That is not the case today,” said Kebriaei of the Center for Constitutional Rights, adding that migrants at Guantanamo now “have due process rights under the Constitution.”
+
+
+“[Meanwhile], people would be detained. … and [litigation] would go on and people would suffer during that time,” she said.
+
+
+In the meantime, the Trump' administration border czar Tom Homan told reporters outside the White House on Thursday that “President Trump made a commitment that the worst of the worst will go to Gitmo.”
+
+
+Broader immigration, policy implications
+
+
+The Guantanamo facility has historically been used in moments of crisis, from Cuban and Haitian exoduses to post-9/11 military detention. The Trump administration’s decision to include Guantanamo in its mass detention strategy signals a shift toward increasingly punitive measures, according to some analysts.
+
+
+Stacy Suh, program director at Detention Watch Network, emphasized the link between detention expansion and deportations.
+
+
+“Detention plays a crucial role in deportation. … More detention means more people would be deported,” she said.
+
+
+The Department of Homeland Security has yet to clarify whether the latest White House policy includes detention of migrants without criminal records or whether they would have access to asylum proceedings or be expelled outright.
+
+
+Homan said the U.S. has had a migrant processing at “Gitmo for decades. So, we’re increasing our footprint there.”
+
+
+Legal response
+
+
+The administration's decision has sparked backlash from advocacy groups, legal experts, and members of Congress, many of whom are calling for oversight hearings and possibly legal action.
+
+
+Cho of the ACLU urged vigilance, saying there is a need for “a robust response from both the press, from government oversight agencies, Congress, advocacy organizations, and the community."
+
+
+With Guantanamo’s history of controversial and legally ambiguous detentions, experts predict judicial and political battles over its use for immigration enforcement. 
+
+<br> 
+
+<https://www.voanews.com/a/historical-precedent-legal-questions-swirl-around-trump-plan-to-detain-migrants-at-guantanamo-/7966534.html>
+
+---
+
+## What’s your vice? That might depend on your generation
+
+date: 2025-02-07, from: Market Place
+
+84% of adults spend money on alcohol, tobacco, drugs or gambling, according to a new Bankrate study.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/07/whats-your-vice-that-might-depend-on-your-generation/>
+
+---
+
+## Undaunted
+
+date: 2025-02-07, from: The Contrarian
+
+Workers vs. the Creepy Oligarch 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-83e>
+
+---
+
+##  The American Dream (Water Not Included) 
+
+date: 2025-02-07, from: The Lever News
+
+ Real estate developers are running a dark-money campaign to overturn new housing rules — and ignore basic laws of nature.  
+
+<br> 
+
+<https://www.levernews.com/the-american-dream-water-not-included/>
+
+---
+
+## Trump administration plans to slash all but a fraction of USAID jobs, officials say
+
+date: 2025-02-07, from: VOA News USA
+
+WASHINGTON — The Trump administration presented a plan Thursday to dramatically cut staffing worldwide for U.S. aid projects as part of its dismantling of the U.S. Agency for International Development, leaving fewer than 300 workers out of thousands.
+
+
+Late Thursday, federal workers associations filed suit asking a federal court to stop the shutdown, arguing that President Donald Trump lacks the authority to shut down an agency enshrined in congressional legislation.
+
+
+Two current USAID employees and one former senior USAID official told The Associated Press of the administration's plan, presented to remaining senior officials of the agency Thursday. They spoke on condition of anonymity due to a Trump administration order barring USAID staffers from talking to anyone outside their agency.
+
+
+The plan would leave fewer than 300 staffers on the job out of what are currently 8,000 direct hires and contractors. They, along with an unknown number of 5,000 locally hired international staffers abroad, would run the few life-saving programs that the administration says it intends to keep going for the time being.
+
+
+It was not immediately clear whether the reduction to 300 would be permanent or temporary, potentially allowing more workers to return after what the Trump administration says is a review of which aid and development programs it wants to resume.
+
+
+The administration earlier this week gave almost all USAID staffers posted overseas 30 days, starting Friday, to return to the U.S., with the government paying for their travel and moving costs. Workers who choose to stay longer, unless they received a specific hardship waiver, might have to cover their own expenses, a notice on the USAID website said late Thursday.
+
+
+Speaking to reporters Monday in El Salvador, Secretary of State Marco Rubio described the agency as historically "unresponsive" to Congress and the White House, even though the agency, he claimed, is supposed to take its direction from the State Department.
+
+
+"USAID has a history of sort of ignoring that and deciding that there's somehow a global charity separate from the national interest," Rubio said. "These are taxpayer dollars, and we owe the American people assurances that every dollar we are spending abroad is being spent on something that furthers our national interest."
+
+
+Speaking in the Dominican Republic on Thursday, Rubio said the U.S. government will continue providing foreign aid.
+
+
+"But it is going to be foreign aid that makes sense and is aligned with our national interest," he told reporters.
+
+
+The Trump administration and billionaire ally Elon Musk, who is running a budget-cutting Department of Government Efficiency, have targeted USAID hardest so far in an unprecedented challenge of the federal government and many of its programs.
+
+
+Since Trump’s Jan. 20 inauguration, a sweeping funding freeze has shut down most of the agency’s programs worldwide, and almost all of its workers have been placed on administrative leave or furloughed. Musk and Trump have spoken of eliminating USAID as an independent agency and moving surviving programs under the State Department.
+
+
+Democratic lawmakers and others call the move illegal without congressional approval.
+
+
+The same argument was made by the American Foreign Service Association and the American Federation of Government Employees in their lawsuit, which asks the federal court in Washington to compel the reopening of USAID’s buildings, return its staffers to work and restore funding.
+
+
+Government officials "failed to acknowledge the catastrophic consequences of their actions, both as they pertain to American workers, the lives of millions around the world, and to U.S. national interests," the suit says. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-administration-plans-to-slash-all-but-a-fraction-of-usaid-jobs-officials-say/7966325.html>
+
+---
+
+## Trump to create religious office in White House, target 'anti-Christian bias'
+
+date: 2025-02-07, from: VOA News USA
+
+U.S. President Donald Trump said on Thursday he would create a White House faith office and direct Attorney General Pam Bondi to lead a task force on eradicating what he called anti-Christian bias within the federal government.
+
+
+Trump delivered remarks at the National Prayer Breakfast at the U.S. Capitol and used his speech to call for unity, telling lawmakers his relationship with religion has changed since a pair of failed assassination attempts last year.
+
+
+At a second prayer breakfast in Washington, Trump struck a more partisan tone, took a victory lap for getting "rid of woke over the last two weeks" and announced steps to protect Christians from what he said was religious discrimination.
+
+
+"The mission of this task force will be to immediately halt all forms of anti-Christian targeting and discrimination within the federal government, including at the DOJ, which was absolutely terrible, the IRS, the FBI and other agencies," Trump said.
+
+
+He vowed his attorney general would work to "fully prosecute anti-Christian violence and vandalism in our society and to move heaven and earth to defend the rights of Christians and religious believers nationwide."
+
+
+The president did not cite specific examples of anti-Christian bias during his remarks but has previously claimed that the Biden administration used the federal government to target Christians specifically.
+
+
+Trump signed an executive order on Thursday to establish the task force and its responsibilities, which include recommending steps to terminate "violative policies, practices, or conduct."
+
+
+Biden's administration announced a strategy in December for countering anti-Muslim and anti-Arab bigotry, and a similar plan to fight antisemitism in September 2023.
+
+
+The actions announced on Thursday could pose constitutional questions about the separation of church and state, with the U.S. Constitution's First Amendment limiting government endorsement of religion.
+
+
+In the last three election cycles, white evangelical Christian voters, who make up a critical piece of the Republican base, have supported Trump. He has embraced the conservative Christian world view and policies that speak to the bloc's anxiety about changing gender norms and family patterns.
+
+
+The president on Thursday also announced he will create a White House Faith Office, led by the Rev. Paula White, who has served as a religious adviser to him for many years.
+
+
+Trump established a similar office at the White House during his first term and regularly consulted with a tight group of evangelical advisers.
+
+
+Trump also said he would create a new commission on religious liberty, and he criticized the Biden administration for the "persecution" of believers for prosecuting anti-abortion advocates.
+
+
+In 2023, the National Prayer Breakfast split into two events, the one on Capitol Hill attended by lawmakers and a separate private event for thousands at a hotel ballroom after some lawmakers sought to distance themselves from the private religious group following questions over how it was run and funded. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-to-create-religious-office-in-white-house-target-anti-christian-bias-/7966209.html>
+
+---
+
+## Trump imposes sanctions on International Criminal Court
+
+date: 2025-02-07, from: VOA News USA
+
+WASHINGTON — U.S. President Donald Trump on Thursday authorized economic and travel sanctions targeting people who work on International Criminal Court investigations of U.S. citizens or U.S. allies such as Israel, repeating action he took during his first term.  
+
+
+The move coincides with a visit to Washington by Israel's Prime Minister Benajmin Netanyahu, who -- along with his former defense minister and a leader of Palestinian militant group Hamas -- is wanted by the ICC over the war in the Gaza Strip.  
+
+
+It was unclear how quickly the U.S. would announce names of people sanctioned. During the first Trump administration in 2020, Washington imposed sanctions on then-prosecutor Fatou Bensouda and one of her top aides over the ICC's investigation into alleged war crimes by American troops in Afghanistan. 
+
+
+The ICC did not immediately respond to a request for comment. The sanctions include freezing any U.S. assets of those designated and barring them and their families from visiting the United States. 
+
+
+The 125-member ICC is a permanent court that can prosecute individuals for war crimes, crimes against humanity, genocide and the crime of aggression against the territory of member states or by their nationals. The United States, China, Russia and Israel are not members.  
+
+
+Trump signed the executive order after U.S. Senate Democrats last week blocked a Republican-led effort to pass legislation setting up a sanctions regime targeting the war crimes court.  
+
+
+The court has taken measures to shield staff from possible U.S. sanctions, paying salaries three months in advance, as it braced for financial restrictions that could cripple the war crimes tribunal, sources told Reuters last month. 
+
+
+In December, the court's president, judge Tomoko Akane, warned that sanctions would "rapidly undermine the Court's operations in all situations and cases, and jeopardize its very existence."
+
+
+Russia has also taken aim at the court. In 2023, the ICC issued an arrest warrant for President Vladimir Putin, accusing him of the war crime of illegally deporting hundreds of children from Ukraine. Russia has banned entry to ICC chief prosecutor Karim Khan and placed him and two ICC judges on its wanted list. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-imposes-sanctions-on-international-criminal-court/7966207.html>
+
+---
+
+## US Senate confirms Trump budget director pick Vought
+
+date: 2025-02-07, from: VOA News USA
+
+WASHINGTON — The Republican-led U.S. Senate confirmed President Donald Trump's nominee Russell Vought as budget director on Thursday, placing the reins of government funding in the hands of a hard-line conservative who has advocated for reducing Congress's power over taxpayer dollars.
+
+
+The Senate voted 53-47 to confirm Vought after a marathon overnight session during which Democrats denounced him as a dangerous far-right ideologue and blasted Republicans for rubber-stamping Trump's nomination.
+
+
+Vought, who also headed the Office of Management and Budget during Trump's first presidential term, raised concerns among members of both parties by criticizing a 1974 law preventing presidents from unilaterally blocking congressionally approved funding, a practice known as "impoundment."
+
+
+In his two confirmation hearings, Vought repeatedly said he believed a 1974 law was unconstitutional, a position that even the Republican committee chairmen said they did not fully support.
+
+
+Last week, the White House Budget Office issued a memo freezing hundreds of billions of dollars in federal grants and loans. The White House said the freeze was necessary to ensure aid programs were aligned with Trump's priorities including his executive orders to end diversity, equity and inclusion efforts.
+
+
+The White House rescinded the memo and a federal judge temporarily blocked the freeze, but not before the action raised widespread fears about the future critical government-funded services and concerns that Trump could take unilateral action against other government funding.
+
+
+Democrats sought to link Vought's role in the hard-right Project 2025 policy initiative to a range of administration actions, including the Trump administration's unilateral actions to essentially shutter the U.S. Agency for International Development and fire prosecutors at the Justice Department.
+
+
+"Whether it's with federal workers, whether it's at USAID, whether it's hurting Justice Department prosecutors, all of that is Russell Vought at work," Senate Democratic leader Chuck Schumer said on a floor speech.
+
+
+"He's working to hurt you, Mr. and Mrs. America."
+
+
+Republicans championed Vought’s experience as budget director and the role they expect him to play in cutting wasteful government spending.
+
+
+"Identifying ways to rein in our spending – and to target government waste – has to be a priority. And I’m confident that Mr. Vought will help lead that charge," Senate Majority Leader John Thune said this week. "There is no question that he will be able to hit the ground running." 
+
+<br> 
+
+<https://www.voanews.com/a/us-senate-confirms-trump-budget-director-pick-vought/7966203.html>
+
+---
+
+## Treaty obliges US to defend Panama Canal, says Rubio
+
+date: 2025-02-07, from: VOA News USA
+
+STATE DEPARTMENT — The United States has a treaty obligation to protect the Panama Canal if it comes under attack, U.S. Secretary of State Marco Rubio said Thursday, amid confusion and what Panama has described as "lies" regarding whether U.S. Navy ships can transit the Panama Canal for free.
+
+
+"I find it absurd that we would have to pay fees to transit a zone that we are obligated to protect in a time of conflict. Those are our expectations. … They were clearly understood in those conversations," Rubio said during a press conference in Santo Domingo, the capital of the Dominican Republic. He held talks with Panamanian President Jose Rauu Mulino in Panama City on Sunday.
+
+
+Rubio was referring to a treaty signed by the U.S. and Panama in 1977.
+
+
+The top U.S. diplomat told reporters that while he respects Panama's democratically elected government and acknowledges that it has "a process of laws and procedures that it needs to follow," the treaty obligation "would have to be enforced by the armed forces the United States, particularly the U.S. Navy."
+
+
+The U.S. intends to pursue an amicable resolution, Rubio said.
+
+
+Mulino posted on X that he planned to speak with U.S. President Donald Trump on Friday afternoon.
+
+
+
+
+On Wednesday, the U.S. State Department said, via a social media post on X, that U.S. government vessels can now transit the Panama Canal without incurring fees, saving the U.S. government millions of dollars annually.
+
+
+But the Panama Canal Authority, an autonomous agency overseen by the Panamanian government, disputed the U.S. claim, saying that it has made no adjustments to these fees. It also expressed its willingness to engage in dialogue with relevant U.S. officials.
+
+
+During his weekly press conference on Thursday, the Panamanian president denied his country had reached a deal allowing U.S. warships to transit the Panama Canal for free, saying he completely rejected the State Department's statement.
+
+
+
+
+Belt and Road Initiative
+
+
+Meanwhile, Mulino told reporters that the Panamanian Embassy in Beijing had provided China with the required 90-day notice of its decision to exit the Belt and Road Initiative, also known as BRI.
+
+
+He denied that the decision was made at Washington's request, saying that he was taking time to assess Panama's relationship with China and decide what would best serve his country's interests.
+
+
+"I don't know what the incentive was for the person who signed that agreement with China," Mulino said in Spanish, adding that he did not think the BRI had brought major benefits to his country.
+
+
+Panama joined China's BRI under former President Juan Carlos Varela. The agreement was signed in 2018, following Panama's decision in 2017 to establish its diplomatic relations with China and sever ties with Taiwan.
+
+
+Rubio has welcomed Panama's decision not to renew its participation in China's BRI.
+
+
+China describes the BRI, which was launched in 2013 under President Xi Jinping, as a vast infrastructure initiative designed to connect multiple continents through land and maritime routes.
+
+
+The United States has warned that the project is driven by China's mission to manipulate and undermine the global rules-based trading system for its own benefit.
+
+
+In Beijing, Chinese officials dismissed what they called the U.S.'s "irresponsible remarks on the Panama Canal issue" and accused Washington of intentionally distorting, attacking and mischaracterizing relevant cooperation.
+
+
+"China firmly opposes it and made stern demarches to the U.S. side," said Lin Jian, a spokesperson for China's Foreign Ministry.
+
+
+While in Santo Domingo, Rubio met with Dominican President Luis Abinader and Foreign Minister Roberto Alvarez.
+
+
+The Dominican Republic is the final stop on Rubio's five-nation tour across Central America and the Caribbean, which focuses on curbing illegal immigration, combating drug trafficking and countering China's growing influence in the Western Hemisphere.
+
+
+
+Some information for this report came from The Associated Press, Agence France Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/treaty-obliges-us-to-to-defend-panama-canal-says-rubio-/7965846.html>
+
+---
+
+## Evening Roundup: On Unions, Civil Rights, Public Health, and more! 
+
+date: 2025-02-06, from: The Contrarian
+
+February 6: Featuring Michael Podhorzer, Shalise Manza Young, Olivia Julianna, and Jennifer Weiss Wolf--in addition to Jen Rubin in conversation with Maya Wiley and with author of Fluke,&#160;Brian Klaas 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-on-unions-civil-rights>
+
+---
+
+## Chaos is not an economic strategy
+
+date: 2025-02-06, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>Elon Musk and the rest of the DOGE gang have been inside the guts of the federal government attempting to shut down agencies and gain access to the Treasury Department&#8217;s main payment system. We’ll discuss the constitutionality of it all and why some members of Congress may be reluctant to say it like it is. Plus, the toy business is paying attention to prices as Trump threatens trade war. And, AI is making a splash at the 2025 Super Bowl.</p>
+<p>Here’s everything we talked about today:</p>
+<ul>
+<li>Watch: <a href="https://www.youtube.com/watch?v=A69U3fbjKzs" target="_blank" rel="noreferrer noopener">“Rep. Khanna: If Elon Musk finds fraud or wasteful spending, come to Congress and force a vote on it”</a> by CNBC Television</li>
+</ul>
+<p><!-- /wp:paragraph --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.marketplace.org/2025/02/05/is-the-way-trump-and-musk-are-running-the-economy-even-legal/" target="_blank" rel="noreferrer noopener">“Is the way Trump and Musk are running the economy even legal?”</a> by Marketplace</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.axios.com/2025/02/06/doge-treasury-payments-system-access-trump-musk" target="_blank" rel="noreferrer noopener">“Trump admin agrees to limit DOGE access to Treasury payments system”</a> from Axios</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.washingtonpost.com/national-security/2025/02/06/elon-musk-doge-access-personnel-data-opm-security/" target="_blank" rel="noreferrer noopener">“Musk DOGE agents access sensitive personnel data, alarming officials”</a> by The Washington Post</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.marketplace.org/2025/02/06/us-nonprofits-still-reeling-from-federal-funding-freeze/" target="_blank" rel="noreferrer noopener">“U.S. nonprofits still reeling from federal funding freeze”</a> from Marketplace</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://abc.xyz/2024-q4-earnings-call/" target="_blank" rel="noreferrer noopener">2024 Q4 Earnings Call</a> from Alphabet Investor Relations</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.cbsnews.com/news/tariffs-trump-china-canada-mexico-mattel-barbie-hot-wheels/" target="_blank" rel="noreferrer noopener">“Mattel may hike prices for Barbie, Hot Wheels and other toys after Trump tariffs”</a> by CBS News</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://apnews.com/article/china-tariffs-trump-shein-temu-023aaee8f043605e62a614eaa5134f62" target="_blank" rel="noreferrer noopener">“Fast fashion, laptops and toys are likely to cost more due to US tariffs on Chinese imports”</a> from AP News</li>
+<li>Watch: <a href="https://www.youtube.com/watch?v=CHbOUpiHiwc" target="_blank" rel="noreferrer noopener">Act Like You Know :60 | GoDaddy Super Bowl Commercial 2025</a> on YouTube</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.marketplace.org/2025/02/04/super-bowl-to-feature-ai-product-ads-from-big-tech/" target="_blank" rel="noreferrer noopener">“Super Bowl to feature AI product ads from Big Tech”</a> from Marketplace</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Join us tomorrow for “Economics on Tap.” The <a href="https://www.youtube.com/@marketplaceAPM/streams" target="_blank" rel="noreferrer noopener">YouTube livestream</a> starts at 3:30 p.m. Pacific time, 6:30 p.m. Eastern.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/06/mms_20250206_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fchaos-is-not-an-economic-strategy&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/06/mms_20250206_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fchaos-is-not-an-economic-strategy&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/chaos-is-not-an-economic-strategy>
+
+---
+
+## Jen Rubin and Brian Klaas in conversation 
+
+date: 2025-02-06, from: The Contrarian
+
+Dr. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156639110/7292a85a28c6e694b76d83106cf295b0.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156639110/7292a85a28c6e694b76d83106cf295b0.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-brian-klaas-in-conversation>
+
+---
+
+## White House monitoring China’s complaint on Trump tariffs at WTO
+
+date: 2025-02-06, from: VOA News USA
+
+white house — The White House on Thursday said it was monitoring a complaint by China to the World Trade Organization that accuses the United States of making “unfounded and false allegations” about China’s role in the fentanyl trade to justify tariffs on Chinese products.
+
+
+The complaint was made Wednesday, a day after President Donald Trump raised tariffs on Chinese goods by 10%. The White House said the new duties on Chinese goods were aimed at halting the flow of fentanyl opioids and their precursor chemicals.
+
+
+China said it was imposing retaliatory tariffs on some American goods beginning February 10, including 15% duties on coal and natural gas imports and 10% on petroleum, agricultural equipment, high-emission vehicles and pickup trucks. The country also immediately implemented restrictions on the export of certain critical minerals and launched an antitrust investigation into American tech giant Google.
+
+
+In the WTO filing, China said the U.S. tariff measures were "discriminatory and protectionist" and violated international trade rules. Beijing has requested a consultation with Washington.
+
+
+China’s request will kick-start a process within the WTO’s Appellate Body, which has the final say on dispute settlements. A White House official told VOA the administration was monitoring Beijing’s file but did not provide further details.
+
+
+Analysts say Beijing’s move is largely performative and unlikely to yield much relief. The Appellate Body has been largely paralyzed following the first Trump administration’s 2019 move to block appointments of appellate judges over what it viewed as judicial overreach. The Biden administration continued the policy.
+
+
+China recognizes the WTO is not going to put a lot of pressure on the United States because Washington is fully capable of blocking any legal process there, said Jeffrey Schott, senior fellow at the Peterson Institute for International Economics.
+
+
+“So instead, I think the Chinese reaction has been moderate in indicating that they will act tit for tat against U.S. trade,” he told VOA.
+
+
+Schott added that there’s “a desire to keep things cool” and moderate the damage, just as what happened during the first Trump administration when a trade deal was agreed upon after initial retaliatory trade actions.
+
+
+On the U.S. side, the 10% tariffs against China are much lower than the up to 60% that Trump promised during his presidential campaign, he said. 
+
+
+Trump-Xi call
+
+
+Trump imposed import duties on Beijing after delaying his actions to impose 25% tariffs on Mexico and Canada following conversations Monday with their leaders. Tariff critics are hoping that a conversation between Trump and Chinese President Xi Jinping could lead to similar results.
+
+
+White House press secretary Karoline Leavitt said Tuesday that the call “is being scheduled and will happen very soon.”
+
+
+However, Trump has dismissed the negative impact of China’s tariffs and said he was “in no rush” to speak with Xi.
+
+
+“We’ll speak to him at the appropriate time,” Trump told reporters at the White House on Tuesday.
+
+
+Unlike Trump’s deal with Mexico and Canada, an agreement with Beijing is unlikely to come quickly, considering strong bipartisan support for placing tariffs on China because of concern about the influx of illegal drugs and other national security concerns, said Rachel Ziemba, an adjunct senior fellow at the Center for a New American Security.
+
+
+“Even if they come up with some kind of agreement to settle this particular tariff or to remove the countertariffs, there will probably be more tariffs on China later in this administration,” she told VOA.
+
+
+The U.S. Postal Service on Tuesday announced that it was suspending acceptance of inbound packages from China and Hong Kong, closing a loophole that Chinese garment and other consumer goods companies have used in the past. These companies, including Shein and Temu as well as Amazon vendors, bypassed existing U.S. tariffs by shipping to American customers directly from China.
+
+
+On Wednesday, USPS reversed its decision, saying it would work with Customs and Border Protection on a way to collect the new tariffs. 
+
+
+The Postal Service “will continue accepting all international inbound mail and packages from China and Hong Kong Posts,” it said. “The USPS and Customs and Border Protection are working closely together to implement an efficient collection mechanism for the new China tariffs to ensure the least disruption to package delivery.”
+
+
+It is unclear how the fee will be collected in such direct transactions between Chinese sellers and American buyers.
+
+
+Trump’s trade actions on China, Canada and Mexico, as well as his threat to impose duties on all foreign shipments into the country, including from European allies, have caused confusion and uncertainty across global trade. 
+
+
+Businesses usually respond to trade uncertainty by holding off on investments or passing on increased costs to customers. But the damage goes beyond small and large businesses domestically and abroad, Ziemba said.
+
+
+“If one of the U.S. goals is relying less on China and Chinese supply chains for critical minerals, for energy, for other things like that, then the uncertainty about whether there’s going to be tariffs and investment restrictions on its allies fly in the face of that goal,” she said. 
+
+<br> 
+
+<https://www.voanews.com/a/white-house-monitoring-china-s-complaint-on-trump-tariffs-at-wto/7965848.html>
+
+---
+
+## Public Health Websites Are Going Dark 
+
+date: 2025-02-06, from: The Contrarian
+
+The health of the body politic&#8212;and our bodies&#8212;depends on the free flow of information. Here&#8217;s how to fight Trump&#8217;s censorship 
+
+<br> 
+
+<https://contrarian.substack.com/p/public-health-websites-are-going>
+
+---
+
+## VOA Spanish: US, Mexico intensify joint border operations
+
+date: 2025-02-06, from: VOA News USA
+
+In a joint effort to reinforce security on the border, authorities from Mexico and the United States have intensified joint operations in the area of Ciudad Juárez and El Paso.
+
+
+Click here for the full story in Spanish. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-spanish-us-mexico-intensify-joint-border-operations/7965832.html>
+
+---
+
+## VOA Mandarin: Trump tariffs close loophole used by Chinese online retailers
+
+date: 2025-02-06, from: VOA News USA
+
+The new tariffs on Chinese imports, imposed by President Donald Trump this month, include a provision that will close a loophole that Chinese online retailers used for their U.S.-bound exports. The “de minimis” exemption that applies to packages worth less than $800 is commonly used by Chinese online retailers such as Shein and Temu to ship goods at a lower price directly to U.S. consumers.
+
+
+Click here for the full story in Mandarin. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-mandarin-trump-tariffs-close-loophole-used-by-chinese-online-retailers-/7965815.html>
+
+---
+
+## With skinny bundles, Disney hopes to fatten profits
+
+date: 2025-02-06, from: Market Place
+
+These smaller, cheaper streaming packages often focus on sports or news, and are meant to appeal to consumers tired of bloated, expensive cable subscriptions.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/06/skinny-bundles-disney-streaming-profits-sports-cable-tv/>
+
+---
+
+## Trump wants lower yields on 10-year bonds. Can he make that happen?
+
+date: 2025-02-06, from: Market Place
+
+The new administration hopes that energy dominance and government efficiency can bring down borrowing rates. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/06/trump-administration-10-year-bond-yield/>
+
+---
+
+## US judge blocks Trump offer for government workers until at least Monday
+
+date: 2025-02-06, from: VOA News USA
+
+A U.S. judge on Thursday temporarily blocked the Trump administration's proposed incentive for federal workers until at least Monday, giving an initial win to labor unions that sued to stop it. 
+
+
+The ruling by U.S. District Judge George O'Toole in Boston pushes back a midnight deadline set by the Trump administration, which is pressing federal workers to leave their jobs in an unprecedented drive to overhaul the federal government. 
+
+
+O'Toole could opt to delay the buyout further or block it on a more permanent basis when he next considers the legal challenge by the unions at a hearing on Monday. 
+
+
+The proposal has upended Washington, sparking street protests and accusations by labor unions and opposition Democrats that Republican President Donald Trump is violating multiple laws. 
+
+
+The offer promises to pay employees' salaries until October, but that may not be ironclad. Current spending laws expire on March 14 and there is no guarantee that salaries will be funded beyond that point. 
+
+
+The Education Department told staffers who accept it that their paychecks could stop at any time, media outlets reported. Labor unions and Democrats have said the offer is not trustworthy.  
+
+
+Some federal employees said they were heartened by Thursday's court ruling. 
+
+
+"It's a glimmer of hope that the courts might help us and block the whole resignation program," said an employee at the General Services Administration, which manages federal properties.  
+
+
+The buyout encompasses not only employees at domestic agencies like the Environmental Protection Agency that have traditionally drawn the ire of Trump's Republicans, but intelligence agencies like the CIA as well. 
+
+
+White House spokesperson Karoline Leavitt said more than 40,000 federal employees had accepted the offer so far, roughly 2% of the federal government's 2.3 million civilian workforce. 
+
+
+Roughly 6% of federal workers retire or resign in a typical year, according to the nonprofit Partnership for Public Service. 
+
+
+The administration said earlier in the day that those who do not accept the buyout could lose their jobs. 
+
+
+The White House has sought to identify workers hired within the last two years, who lack full civil-service protections and would be easier to fire. 
+
+
+It has also ordered agency officials to identify those appointed by Trump's predecessor, former President Joe Biden, who remain in civil-service jobs, as well as those who have received poor performance ratings. 
+
+
+Federal workers say they are operating in a climate of fear and uncertainty. 
+
+
+Workers said they were downloading pay and benefit records that they feared could be erased from government computers as they weighed whether to take a buyout deal that might not be honored or stay on with the knowledge they could be fired. 
+
+
+The White House says it is following through on Trump's campaign promise to cut wasteful spending and slim down a bureaucracy that many conservatives see as left-leaning and unresponsive to the president's agenda. 
+
+
+Trump has tasked Elon Musk, the world's richest person, with leading the overhaul effort. 
+
+
+Musk and his aides have moved rapidly, turning up at agencies throughout Washington to demand access to sensitive information, including personnel files. Their efforts have resulted in purges of staff in several departments and a significant scaling down of operations of America's main humanitarian aid agency, the U.S. Agency for International Development.  
+
+
+Among the data Musk's team has been examining are Medicare and Medicaid payments to older Americans and lower-income enrollees. 
+
+<br> 
+
+<https://www.voanews.com/a/us-judge-blocks-trump-offer-for-government-workers-until-at-least-monday/7965807.html>
+
+---
+
+## The Kids are not Alright 
+
+date: 2025-02-06, from: The Contrarian
+
+For young citizens, none of this is unprecedented&#8212;it&#8217;s just American life 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-kids-are-not-alright>
+
+---
+
+## A different vantage point can change the way you see your job
+
+date: 2025-02-06, from: Market Place
+
+A back injury made Washington Post theater critic Naveen Kumar see the stage, and his work, from a new angle. 
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/06/a-different-vantage-point-can-change-the-way-you-see-your-job/>
+
+---
+
+## One of LA’s only lesbian bars had to close because of the fires. Here’s how they hope to reopen.
+
+date: 2025-02-06, from: Market Place
+
+Kai Ryssdal spoke with the co-owners of the Ruby Fruit about seeking outside financial investment and how they hope to grow the business. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/06/la-lesbian-bars-close-because-of-the-fires-reopen-funding-reserves/>
+
+---
+
+## Increasing productivity is key to strong businesses. Here’s how some are doing it.
+
+date: 2025-02-06, from: Market Place
+
+Labor productivity has been increasing for more than two years, according to the Labor Department. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/06/increasing-productivity-is-key-to-strong-businesses-heres-how-some-are-doing-it/>
+
+---
+
+## Though China might aim to fill aid void left by USAID, its own challenges could limit it
+
+date: 2025-02-06, from: VOA News USA
+
+WASHINGTON — The U.S. foreign aid agency broadly shut down by the Trump administration has long been criticized by Beijing. But as USAID projects wind down, will Beijing step in to try to build influence? Some analysts say although China will want to fill the vacuum, its own economic problems could limit what it will do.  
+
+
+U.S. Secretary of State Marco Rubio, who is now the acting director of U.S. Agency for International Development, said he will bring the agency's activities in line with the agenda of the new government. 
+
+
+"These are taxpayer dollars, and we owe the American people assurances that every dollar we are spending abroad is being spent on something that furthers our national interest," he told reporters while visiting El Salvador earlier this week. 
+
+
+USAID had an annual budget of more than $40 billion and managed aid programs around the world, including a China-related program that has become a target of criticism by the White House. 
+
+
+On a "waste and abuse" fact sheet released on Feb. 3, the White House said USAID had given millions of dollars to EcoHealth Alliance, a U.S. organization working on protections against infectious disease. The organization has been accused of working with Wuhan Institute of Virology on coronavirus research that had caused the COVID-19 pandemic. Both EcoHealth Alliance and the Chinese government have rejected those accusations. 
+
+
+Agency has framed funding as strategy
+
+
+In recent years, USAID has increasingly framed its funding for China-related programs as a strategy to contain China's global expansion through aid and investments. 
+
+
+An archived page of USAID's now-closed website shows that the agency lauded its "Countering Chinese Influence Fund" as one of its "key accomplishments." The fund "will advance national-security goals" to "build more resilient partners that are able to withstand pressure from the CCP and other malign actors." 
+
+
+Michael Schiffer, former USAID assistant administrator for Asia, told a congressional panel in 2023 that the agency had for more than a decade supported data collection on China's overseas investments through AidData, a research group at the College of William and Mary in the U.S. state of Virginia.
+
+
+The funding freeze has put at least one such USAID-funded project in financial trouble. Brian Eyler, a researcher at the Stimson Center in Washington, wrote in a public post on Facebook that his project, Mekong Dams Monitor, has difficulty continuing operation because of the freeze. 
+
+
+"We are ordered to stop work on those grants for 90 days pending further review. And that means our Southeast Asia program might not be able to keep the lights on," he wrote.   
+
+
+Eyler's project was launched by the State Department during the first Trump administration to study how dams built by China and other countries on the Mekong River in southeast Asia have negatively affected communities downstream. According to Eyler's post, the project received funding from both the State Department and USAID.   
+
+
+Chinese state media had accused the project of smearing China. 
+
+
+VOA Mandarin reached out to Stimson Center for more details but did not receive a response.   
+
+
+On Wednesday, Rubio said the Trump administration is in the process of identifying programs that are exempted from the funding freeze.  
+
+
+"This [is] not about ending foreign aid. It is about structuring it in a way that furthers the national interest of the United States," Rubio said during his multiday trip to Latin America.
+
+
+Critics of USAID 
+
+
+USAID also has been a target of Beijing's ire. China's foreign ministry released a report last year accusing USAID programs of corruption and prioritizing the advancement of U.S. interests.
+
+
+The shutdown of USAID has been met with cheers and celebrations on the Chinese internet, where anti-U.S. narratives permeate. Many users praised Elon Musk, the billionaire and head of the Department of Government Efficiency, for closing the agency.   
+
+
+Musk previously posted on X describing USAID as "a criminal organization" and that it is time "for it to die." 
+
+
+USAID critics
+
+
+Critics of the funding freeze and the shuttering of USAID worry that Beijing will see this as an opportunity to fill the void left by the U.S. 
+
+
+"China has spent trillions of dollars in numerous countries because it is interested in pulling them into its sphere of influence," U.S. Democratic Senator Chris Coons wrote in The Washington Post. 
+
+
+Steven Balla, an associate professor of political science and international affairs at George Washington University in Washington, D.C., told VOA Mandarin he agrees with the assessment. But he said China's plan to expand foreign aid is likely to be hindered by its lingering domestic problems. 
+
+
+"You think about youth unemployment; you think about the real estate bubble and so forth," he said. "That might make it difficult for the Xi administration to aggressively expand into new parts of the world because the U.S is pulling back."
+
+
+Some activists worry that even if China tries to fill the void, certain areas where there once were U.S. aid programs will not receive the same kind of funding, if at all.   
+
+
+A former environmental lawyer in China who now lives in the U.S. told VOA Mandarin that, compared to U.S. aid programs, China's assistance is of a more transactional nature and seeks financial returns. She wants to remain anonymous because she fears harassment from Beijing. 
+
+
+A 2021 report released by China shows that between 2013 and 2018, China had spent $376 billion on foreign aid, 45% of which went to Africa in areas such as agriculture, medical assistance, food supply, disease control, and climate change. 
+
+
+The former environmental lawyer said if it is entirely left for China to provide aid, areas such as women's rights and natural resource management will lose a large portion of funding, if not entirely, because China is not interested in improving local governance. 
+
+
+"There will certainly be a very severe impact on the African people," she said, "which isn't something you'll be able to see within just a day or two." 
+
+<br> 
+
+<https://www.voanews.com/a/china-may-fill-aid-void-left-by-usaid-shutdown-but-its-own-challenges-could-limit-it/7965690.html>
 
 ---
 

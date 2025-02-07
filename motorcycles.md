@@ -1,11 +1,85 @@
 ---
 title: motorcycles
-updated: 2025-02-06 13:29:04
+updated: 2025-02-07 07:06:24
 ---
 
 # motorcycles
 
-(date: 2025-02-06 13:29:04)
+(date: 2025-02-07 07:06:24)
+
+---
+
+## Mechanic Lives Dream of Not Paying Road Tax for 23 Years, Eventually Caught
+
+date: 2025-02-07, from: Ride Apart, Electric Motorcycle News
+
+Of course, we should all be paying our taxes, folks. 
+
+<br> 
+
+<https://www.rideapart.com/news/749887/mechanic-evades-road-tax23-years-caught/>
+
+---
+
+## REV'IT!'s New Sand 5 Off-Road Motorcycle Jacket Looks Ready for Any Adventure
+
+date: 2025-02-07, from: Ride Apart, Electric Motorcycle News
+
+Let's get dirty.  
+
+<br> 
+
+<https://www.rideapart.com/news/749874/revit%21-sand-5-adv-adventure-motorcycle-off-road-jacket/>
+
+---
+
+## Polaris To Make Further Cuts After Laying off 10% of Workforce
+
+date: 2025-02-07, from: Ride Apart, Electric Motorcycle News
+
+It's a fickle industry. 
+
+<br> 
+
+<https://www.rideapart.com/news/749881/polaris-orv-workforce-cuts-expected-layoffs-2025/>
+
+---
+
+## Is the Brummell Blazer the Only Motorcycle Jacket You’ll Ever Need?
+
+date: 2025-02-07, from: Ride Apart, Electric Motorcycle News
+
+It doesn’t just blur the line between function and fashion, it erases it. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/749762/brummell-blazer-company-updates-developments/>
+
+---
+
+## This Electric Motorcycle Isn’t Real, But You Know You Want It To Be
+
+date: 2025-02-07, from: Ride Apart, Electric Motorcycle News
+
+It’s a vision of what retro could be like several years into the future. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/749761/ichiban-concept-electric-motorcycle-retro-futuristic/>
+
+---
+
+## What's Wrong With This Picture-Perfect '90s Yamaha Dirt Bike?
+
+date: 2025-02-07, from: Ride Apart, Electric Motorcycle News
+
+You're perfect, little XT250. Absolutely perfect. 
+
+<br> 
+
+<https://www.rideapart.com/news/749884/yamaha-xt250-will-it-run/>
 
 ---
 

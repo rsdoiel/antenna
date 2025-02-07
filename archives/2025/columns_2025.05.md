@@ -1,11 +1,236 @@
 ---
 title: columns
-updated: 2025-02-06 13:29:01
+updated: 2025-02-07 07:06:22
 ---
 
 # columns
 
-(date: 2025-02-06 13:29:01)
+(date: 2025-02-07 07:06:22)
+
+---
+
+##  Outrage Fatigue Is Real. These Tips May Help. &#8220;Repeated exposure to outrage-inducing... 
+
+date: 2025-02-07, updated: 2025-02-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046166-outrage-fatigue-is-real-t>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-07, from: Dave Winer's Scripting News)
+
+I saw a bit on CNN that was like the Dean Scream, an extended clip of how awkward Chuck Schumer is at a rally. It was used to shame a Democrat who was doing a great job of explaining the danger, Sen Murphy of Connecticut. I switched to basketball in disgust, thinking these people, CNN, are not serious. This problem isn't on the Dems, it's on all of us, and it always was. To pin it on the Dems is to say it's hopeless because right now they're just our representatives in Congress and some of our state governments. We have a big problem and we probably can't dig out of it, but if we have any hope at all, orgs like CNN have to stop being such idiots. Every so often I see a spark of brilliance over there, and then one of these things happens. What's more depressing, Trump or CNN? CNN by a lot. And the NYT and all the rest of the broken media. We are all in the same boat. 
+
+<br> 
+
+<http://scripting.com/2025/02/07.html#a142424>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-07, from: Dave Winer's Scripting News)
+
+In January I started <a href="https://this.how/myAppList/">an online diary</a> where I list each of the apps I manage, as I work on them. When I work on one, I move it to the top. The notes are brief and to anyone but me might seem cryptic. But at least you can follow what I'm doing. No I don't plan to do an RSS feed for it. It's just a place to keep track of all the things I work on, for people who I work with, and most important, me. 
+
+<br> 
+
+<http://scripting.com/2025/02/07.html#a140521>
+
+---
+
+##  You Can&#8217;t Post Your Way Out of Fascism. &#8220;When it comes to... 
+
+date: 2025-02-07, updated: 2025-02-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046163-you-cant-post-your-way>
+
+---
+
+##  &#8220;In 2022, one of Peter Thiel&#8217;s favorite thinkers envisioned a second Trump... 
+
+date: 2025-02-07, updated: 2025-02-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046162-in-2022-one-of-peter>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-07, from: Miguel de Icaza Mastondon feed)
+
+<p>To be clear that lol is anxious, not knowing whether to laugh, cry, make fun at the brexited leadership.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113962541639865923>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-07, from: Miguel de Icaza Mastondon feed)
+
+<p>lol</p><p><a href="https://appleinsider.com/articles/25/02/07/uk-secretly-orders-apple-to-let-it-spy-on-iphone-users-worldwide" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">appleinsider.com/articles/25/0</span><span class="invisible">2/07/uk-secretly-orders-apple-to-let-it-spy-on-iphone-users-worldwide</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113962538742483030>
+
+---
+
+## Shady Characters on AMSEcast: a podcast about calculators
+
+date: 2025-02-07, from: Shady Characters blog
+
+<p>I’ve had nuclear energy on the mind recently — a product of watching <a href="https://www.imdb.com/title/tt15398776/"><cite>Oppenheimer</cite></a>, perhaps, and also the <a href="https://www.bbc.co.uk/news/articles/c805mjxe2y9o"><abbr class="initialism">UK</abbr> government’s newfound interest in nuclear power</a> in the interest of combatting climate change. Apropos of all that, then, I was happy to appear on <a href="https://amsecast.libsyn.com/building-the-empire-of-the-sum-with-keith-houston">a recent episode of AMSEcast</a>, the podcast of the <a href="https://amse.org/">American Museum of Science and Energy</a> in Oak Ridge, Tennessee. The episode was hosted by the museum’s director, the genial Alan Lowe, who was kind enough to let me rabbit on at length on the subjects of counting, calculators, and computers. I really enjoyed talking to Alan, and I hope you enjoy listening too!</p><a class="more-link" href="https://shadycharacters.co.uk/2025/02/amsecast/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/02/amsecast/>
+
+---
+
+## What do I mean by some software devs are "ngmi"?
+
+date: 2025-02-07, from: Geoffrey Hunntley's blog
+
+<p>At &quot;<a href="https://ghuntley.com/oh-fuck/">an oh fuck moment in time</a>&quot; I closed off the post with the following quote.</p><blockquote>N period on from now, software engineers <strong>who haven&apos;t adopted or started</strong> exploring software assistants, are frankly <strong>not gonna make it</strong>. Engineering organizations right now are split between employees who</blockquote> 
+
+<br> 
+
+<https://ghuntley.com/ngmi/>
+
+---
+
+## Musk’s rats
+
+date: 2025-02-07, from: Robert Reich's blog
+
+They&#8217;re burrowing into every data system in the federal government, although many wouldn&#8217;t pass a security test 
+
+<br> 
+
+<https://robertreich.substack.com/p/doge-poop>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-02-07, from: Ryan Gantz Bluesky feed)
+
+WHAT IN THE LIVING FUCK IS HAPPENING 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lhkxlekfq22u>
+
+---
+
+## February 6, 2025 
+
+date: 2025-02-07, from: Heather Cox Richardson blog
+
+The U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-6-2025>
+
+---
+
+## The Purge
+
+date: 2025-02-07, from: Dan Rather's Steady
+
+Wrecking the civil service 
+
+<br> 
+
+<https://steady.substack.com/p/the-purge>
+
+---
+
+## Friday 7 February, 2025
+
+date: 2025-02-07, from: John Naughton's online diary
+
+Floral contrasts Our Amaryllis has suddenly burst magnificently into flower. Photographed yesterday with Robert Mapplethorpe’s ‘Orchid’ (1989) in the background. Quote of the Day ”He talked about those politicians who were always against everything new: “We used to have folks &#8230; <a href="https://memex.naughtons.org/friday-7-february-2025/40417/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-7-february-2025/40417/>
+
+---
+
+##  The world has probably passed &#8216;peak air pollution&#8217;. &#8220;Global air pollution is... 
+
+date: 2025-02-07, updated: 2025-02-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046157-the-world-has-probably-pa>
+
+---
+
+##  State Attorneys General to Sue Over Musk&#8217;s Access to Government Systems. &#8220;The... 
+
+date: 2025-02-06, updated: 2025-02-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046165-state-attorneys-general-t>
+
+---
+
+## If you're feeling stressed
+
+date: 2025-02-06, from: Dave Winer's Scripting News
+
+<p>if you're feeling stressed, hum a few bars of alice's restaurant.</p>
+<p>i find it very calming and satisfying. </p>
+<p>it's a nice place we can always go home to! </p>
+<p><a href="https://www.youtube.com/watch?v=m57gzA2JCcM">https://www.youtube.com/watch?v=m57gzA2JCcM</a></p>
+<p>just remember --</p>
+<p>you can get anything you want</p>
+<p>at alice's restaurant!</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/06/230816.html?title=ifYoureFeelingStressed>
+
+---
+
+##  Mister Rogers on How to Talk to Kids About Distressing News Events 
+
+date: 2025-02-06, updated: 2025-02-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/mister-rogers-on-how-to-talk-to-kids-about-distressing-news-events>
+
+---
+
+##  A list of all the lawsuits related to Trump administration executive orders.... 
+
+date: 2025-02-06, updated: 2025-02-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046160-a-list-of-all-the>
 
 ---
 
@@ -156,9 +381,7 @@ date: 2025-02-06, from: Dave Winer's Scripting News
 <p>We need to learn what they actually do, all of them, at least understand what we're going to live without.</p>
 <p>I asked ChatGPT to try it out. "I want to tell a story about a typical person who works for the US government. It shouldn't be a glamorous job, but an important one. It should improve people's lives, health, happiness, fulfillment. Pick the role at random, as well as gender, age, race, geography. Write a 100 word job description, and  provide a realistic looking profile picture. Nothing about their personal life, or actual name, but it's okay to talk about the required education and experience for the job."</p>
 <p>Here's what it came back with: "An Environmental Health Officer (EHO) plays a crucial role in safeguarding public health by identifying and mitigating environmental hazards. Employed by federal agencies such as the Centers for Disease Control and Prevention (CDC) or the Environmental Protection Agency (EPA), EHOs conduct inspections of facilities like restaurants, swimming pools, and nursing homes to ensure compliance with health regulations. They investigate complaints related to air and water quality, noise, and waste management, and implement measures to prevent disease outbreaks. A bachelor's degree in environmental health or a related field is typically required, with many positions preferring candidates with a master's degree. Professional certification, such as Registered Environmental Health Specialist (REHS), is often preferred. Strong analytical skills, attention to detail, and the ability to communicate effectively are essential for success in this role."</p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/02/06/eho1.png"></center>EHO 1</div></p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/02/06/eho2.png"></center>EHO 2</div></p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/02/06/eho3.png"></center>EHO 3</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/02/06/theThreeEhos.png"></center>Our three Environment Health Officers (not actual people).</div></p>
  
 
 <br> 
@@ -191,7 +414,7 @@ date: 2025-02-06, updated: 2025-02-06, from: Jason Kittke's blog
 
 ---
 
-## The Real Upside of DeepSeek
+## The Real Upside of DeepSeek: Cheaper Inference
 
 date: 2025-02-06, from: Om Malik blog
 
@@ -1097,7 +1320,7 @@ HenryGate A group of Chinese tourists I noticed yesterday contemplating the Grea
 
 ## Tim Sweeney on the Apps With Porn in Apple’s App Store
 
-date: 2025-02-05, updated: 2025-02-05, from: Daring Fireball
+date: 2025-02-05, updated: 2025-02-06, from: Daring Fireball
 
  
 

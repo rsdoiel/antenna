@@ -1,17 +1,17 @@
 ---
 title: weather
-updated: 2025-02-06 13:29:02
+updated: 2025-02-07 07:06:23
 ---
 
 # weather
 
-(date: 2025-02-06 13:29:02)
+(date: 2025-02-07 07:06:23)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-02-06, from: Eastern Pacific Basin GIS Data
+date: 2025-02-07, from: Eastern Pacific Basin GIS Data
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
@@ -21,15 +21,122 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Thu Feb  6 21:12:02 UTC 2025
+## SPC - No watches are valid as of Fri Feb  7 14:51:01 UTC 2025
 
-date: 2025-02-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Thu Feb  6 21:12:02 UTC 2025. 
+No watches are valid as of Fri Feb  7 14:51:01 UTC 2025. 
 
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Fri Feb  7 14:51:01 UTC 2025
+
+date: 2025-02-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri Feb  7 14:51:01 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Feb 7, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-02-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0646 AM CST Fri Feb 07 2025
+
+Valid 071300Z - 081200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected through Friday night.
+
+...Synopsis and Discussion...
+Predominantly zonal upper flow is currently in place across the
+CONUS as one shortwave trough progresses through the Canadian
+Maritimes and another moves through the Pacific Northwest. High
+surface pressure is expected the shift eastward across the OH Valley
+in the wake of the Canadian Maritime shortwave. A weakening cold
+front exists between the more continental air associated with this
+high and the modified maritime airmass from central TX across the
+Southeast. Relatively warm low/mid-level temperatures should
+preclude the development of deep convection along this front.
+Western portions of this front will likely begin returning northward
+this afternoon amid lowering surface pressure across the central
+High Plains/central Plains.
+
+Farther west, the shortwave trough currently over the Pacific
+Northwest is forecast to progress eastward through the northern
+Rockies and into the northern Plains. This progression will help
+induce the aforementioned lower surface pressure across the central
+High Plains/central Plains, while also encouraging a
+southward/southeastward surge of colder air across the northern
+Plains.
+
+The only thunderstorm potential across the CONUS today is expected
+over southern ID, northern UT, and western WY as the Pacific
+Northwest shortwave trough moves through the region. Strong forcing
+for ascent and cold mid-level temperatures could result in a few
+lightning flashes from now until the early afternoon when the wave
+exits the region.
+
+..Mosier.. 02/07/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2025-02-07, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0126 AM CST Fri Feb 07 2025
+
+Valid 081200Z - 091200Z
+
+...Synopsis...
+Breezy, hot, and dry conditions are expected again Saturday across
+portions of central, western, and southern NM, and a small area of
+west TX ahead of an approaching cold front. The greatest wind speeds
+(20-25 mph) will likely remain confined to the higher terrain of
+west-southwestern NM Saturday afternoon (along and west of the Black
+Range), where localized critical fire weather conditions appear
+possible. Further east and south near the Sacramento and Guadalupe
+Mountains, a shorter duration of critical wind speeds is
+anticipated. Relative humidity across this entire region will also
+drop into the low teens to single digits by late Saturday afternoon,
+while ERCs approach or exceed the 80-90th seasonal percentiles.
+
+..Barnes.. 02/07/2025
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -193,70 +300,6 @@ the mountains.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-02-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0123 PM CST Thu Feb 06 2025
-
-Valid 071200Z - 081200Z
-
-...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF CENTRAL NEW MEXICO
-INTO THE WESTERN TEXAS PANHANDLE...
-
-Widespread dry and windy conditions are still anticipated during the
-day tomorrow (Friday) for far eastern Arizona into much of New
-Mexico and far western Texas. Elevated and Critical highlights have
-been expanded to areas where the latest guidance consensus has
-trended drier and windier. Critical conditions (25+ mph sustained
-westerly winds amid 10 percent RH) are expected to be widespread
-along the lee of the Sangre de Cristo mountains into the western TX
-Panhandle. However, at least brief bouts of Critical conditions may
-be expected along the lee of Sacramento and Guadalupe mountains in
-southern New Mexico, as well as parts of western New Mexico, by
-afternoon peak heating.
-
-..Squitieri.. 02/06/2025
-
-.PREV DISCUSSION... /ISSUED 0156 AM CST Thu Feb 06 2025/
-
-...Synopsis...
-Westerly mid-level flow will continue over the CONUS D2/Friday as a
-more prominent shortwave and attendant jet streak approach the
-Southwest. In response to the approach of the upper trough, a lee
-cyclone will intensify over the High Plains, supporting strong winds
-and low humidity. The persistent dry conditions, exacerbated by
-downslope winds and low humidity, will support widespread elevated
-to critical fire-weather conditions.
-
-...Southwest and Southern High Plains...
-Another day of dry and windy conditions is expected across parts of
-the Southwest and High Plains D2/Friday. As the mid-level jet and
-shortwave cross the Rockies, enhanced lee cyclogensis will support
-strong west/southwesterly winds of 20-30 mph across eastern AZ, much
-of NM and parts of western TX/OK. Continued warm temperatures and
-dry downslope trajectories will support afternoon RH values in the
-teens to single digits. The combination of strong westerly winds,
-low humidity and worsening fuels suggest widespread elevated to
-critical fire-weather conditions are likely. The most likely area
-for sustained critical concerns is expected across parts of the High
-Plains in northeastern NM and the TX Panhandle.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -629,90 +672,6 @@ CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/ws0003.html>
-
----
-
-## SPC Feb 6, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-02-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0652 AM CST Thu Feb 06 2025
-
-Valid 061300Z - 071200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM THE
-TENNESSEE VALLEY INTO THE SOUTHERN APPALACHIANS...
-
-...SUMMARY...
-Multiple rounds of isolated severe thunderstorms may occur across
-parts of the southern Appalachians and Tennessee Valley, mainly this
-morning and later in the afternoon to early evening.
-
-...TN Valley into the Southern Appalachians...
-A line of thunderstorms is ongoing this morning from western WV into
-south-central KY, along a weak cold front progressing eastward
-across the region. The warm sector ahead of this front is
-characterized by temperatures in the low/mid 60s, dewpoints in the
-low 60s, and modest buoyancy. Strong vertical shear exists across
-this region as well, with mesoanalysis estimating effective bulk
-shear values around 50-55 kt. Notable low-level curvature exists
-over the region as well, supported by strong low-level flow (i.e.
-850 mb flow over 50 kt). These environmental conditions are
-supporting occasional updraft organization with the convective line,
-with a resulting potential for a few brief tornadoes as well as
-strong gusts and small hail. Shortwave trough responsible for the
-cold front as well as the strong low-level flow will continue to
-lift northeastward towards the Lower Great Lakes/northern
-Appalachians this morning. Resultant weakening of the large-scale
-ascent and low-level shear will likely lead to a weakening of this
-convective line by the late morning.
-
-The cold front is expected to continue gradually southward, and by
-the early afternoon will likely extend from far western VA
-west-southwestward across northern TN into northern AR. Another
-low-amplitude shortwave trough is expected to move through the
-region, contributing to another round of thunderstorms in the
-vicinity of this front. Thunderstorms are possible on both sides of
-the cold front, with greater storm coverage likely north of the
-boundary where large-scale ascent will be strongest. Vertical shear
-will be strong enough to support hail within a few of these elevated
-storms. 
-
-Potential for surface-based storms will exist south of the boundary,
-with the degree of buoyancy modulated by how much heating is
-realized. Current guidance suggests temperatures could reach the low
-70s, which would result in MLCAPE around 1000 J/kg. Fast, nearly
-unidirectional zonal flow regime will yield mid/upper-level
-hodograph elongation. This should foster potential for an organized
-cluster to develop by late afternoon, centered on the western/middle
-TN vicinity. Localized damaging winds and marginally severe hail may
-accompany this convection as it moves across TN and into far western
-NC by early evening.
-
-..Mosier/Bentley.. 02/06/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC - No MDs are in effect as of Wed Feb  5 14:39:02 UTC 2025
-
-date: 2025-02-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed Feb  5 14:39:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 

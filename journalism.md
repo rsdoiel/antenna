@@ -1,11 +1,76 @@
 ---
 title: journalism
-updated: 2025-02-06 13:29:03
+updated: 2025-02-07 07:06:23
 ---
 
 # journalism
 
-(date: 2025-02-06 13:29:03)
+(date: 2025-02-07 07:06:23)
+
+---
+
+## UCLA psychology study finds adolescents prefer social media for authenticity
+
+date: 2025-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Adolescents find social media to be the most authentic media form, according to a new Center for Scholars and Storytellers at UCLA study. 
+CSS, an adolescent-centered research group within the psychology department, published its annual &#8220;Teens and Screens&#8221; report to gain a better understanding of American teenagers&#8217; perspectives about the media. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/06/ucla-psychology-study-finds-adolescents-prefer-social-media-for-authenticity/>
+
+---
+
+## Data analytics features excite app users, raise privacy concerns
+
+date: 2025-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+User data is everywhere &#8211; exercise analytics on Strava, food reviews on Beli, curated playlists on Spotify and movie ratings on Letterboxd.
+A growing number of platforms are helping users track and quantify their daily experiences. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/06/data-analytics-features-excite-app-users-raise-privacy-concerns/>
+
+---
+
+## Saudi student named as UCLA’s 1st international, 13th-ever Rhodes Scholar
+
+date: 2025-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+When the Rhodes Scholarship selection committee congratulated a &#8220;Mohammed&#8221; as the first of two winners from Saudi Arabia, Mohammed Alharthi&#8217;s first reaction was, &#8220;Who is that Mohammed? 
+
+<br> 
+
+<https://dailybruin.com/2025/02/06/saudi-student-named-as-uclas-1st-international-13th-ever-rhodes-scholar/>
+
+---
+
+## Q&A: Music industry executives talk Berry Gordy’s legacy, Motown memories
+
+date: 2025-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 6 at 7:54 p.m.</em>
+At the Berry Gordy Music Industry Center, the impact of Motown lives on at UCLA.
+The center was founded following a $5 million donation by Gordy – the founder of Motown Record Corporation – last year. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/06/qa-music-industry-executives-talk-berry-gordys-legacy-motown-memories/>
+
+---
+
+## Jordan Cierra on release of sophomore single, working with Cherry Pop Records
+
+date: 2025-02-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 6 at 7:42 p.m.</em>
+With the release of her new single “dymk?,” Jordan Cierra is letting her audience know who she is as an artist. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/06/jordan-cierra-on-release-of-sophomore-single-working-with-cherry-pop-records/>
 
 ---
 
@@ -109,6 +174,7 @@ USAC &#8211; which also passed measures supporting undocumented students and sub
 
 date: 2025-02-06, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Feb. 6 at 10:28 p.m.</em>
 Staff research associates at the UCLA Olympic Analytical Lab protested Wednesday against alleged wage theft and unfair labor practices.&#160;
 The SRAs were originally promised to receive raises in 2023 and have allegedly been denied over $500,000 collectively, according to signs from the protest and a document obtained by the Daily Bruin. 
 

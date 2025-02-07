@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-02-06 13:29:03
+updated: 2025-02-07 07:06:24
 ---
 
 # libraries
 
-(date: 2025-02-06 13:29:03)
+(date: 2025-02-07 07:06:24)
+
+---
+
+## What We Can Learn About Languages from the Words for Parts of the Body
+
+date: 2025-02-07, from: Scholarly Kitchen
+
+<p>Because body parts have always been with us, they can tell us a lot about the development of languages.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/02/07/what-we-can-learn-about-languages-from-the-words-for-parts-of-the-body/">What We Can Learn About Languages from the Words for Parts of the Body</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/02/07/what-we-can-learn-about-languages-from-the-words-for-parts-of-the-body/>
+
+---
+
+## The Crime at Black Dudley, by Margery Allingham
+
+date: 2025-02-06, from: Standard Ebooks, new releaases
+
+The attendees of a party at a old mansion are threatened by a criminal kingpin. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/margery-allingham/the-crime-at-black-dudley>
 
 ---
 

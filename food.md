@@ -1,11 +1,141 @@
 ---
 title: food
-updated: 2025-02-06 13:29:05
+updated: 2025-02-07 07:06:25
 ---
 
 # food
 
-(date: 2025-02-06 13:29:05)
+(date: 2025-02-07 07:06:25)
+
+---
+
+## Making Espresso Martinis Is Good Clean Fun
+
+date: 2025-02-07, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Speed and precision are the name of the game. 
+
+<br> 
+
+<https://sprudge.com/making-espresso-martinis-is-good-clean-fun-272345.html>
+
+---
+
+## The Price of Coffee is All Over the News, But What Is the Price of Coffee?
+
+date: 2025-02-07, from: Daily Coffee News
+
+<div><img width="620" height="430" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-prices-620x430.png" class="attachment-large size-large wp-post-image" alt="coffee prices" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-prices-620x430.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-prices-300x208.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-prices-150x104.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-prices-768x532.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-prices.png 1500w" sizes="(max-width: 620px) 100vw, 620px" /></div>The relatively high price of coffee is the stuff of headlines in financial, mainstream and trade publications these days, which begs one fundamental question: What is&#160;the price of coffee? For... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/07/the-price-of-coffee-is-all-over-the-news-but-what-is-the-price-of-coffee/>
+
+---
+
+## Weekly Coffee News: A ‘Canadiano’ Movement + Education from Loring
+
+date: 2025-02-07, from: Daily Coffee News
+
+<div><img width="620" height="432" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Americano-620x432.jpg" class="attachment-large size-large wp-post-image" alt="Americano" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Americano-620x432.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Americano-300x209.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Americano-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Americano-768x535.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Americano.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Americano? It&#8217;s Canadiano Now, Says Kicking Horse Coffee Following... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/07/weekly-coffee-news-a-canadiano-movement-education-from-loring/>
+
+---
+
+## How To Find: A Wholesale Coffee Roasting Partner
+
+date: 2025-02-07, from: The Fresh Cup
+
+<p>Finding a coffee partner to supply your business requires more than just tasting samples from different roasters. Here’s how to evaluate wholesale coffee roasters—and find your perfect match.</p>
+<p>The post <a href="https://freshcup.com/how-to-find-a-wholesale-coffee-roasting-partner/">How To Find: A Wholesale Coffee Roasting Partner</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/how-to-find-a-wholesale-coffee-roasting-partner/>
+
+---
+
+## Brown Butter Chocolate Cake and More Recipes We Made This Week
+
+date: 2025-02-07, from: Bon Appetet
+
+Like rice cooker risotto and shrimp green curry. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-february-2025>
+
+---
+
+## Fajita Grilled Cheese
+
+date: 2025-02-07, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/mexican-fajita-grilled-cheese/"><img title="mexican-grilled-cheese-small-7" src="https://www.isabeleats.com/wp-content/uploads/2025/02/mexican-grilled-cheese-small-7-400x600.jpg" alt="Fajita grilled cheese cut in half and stacked on top of one another." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	The best fajita grilled cheese stuffed with sautéed bell peppers, onions, and zucchini sandwiched between two thick slices of toasted&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/mexican-fajita-grilled-cheese/>
+
+---
+
+## Birria Pizza Recipe
+
+date: 2025-02-07, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/birria-pizza/" title="Birria Pizza Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Birria-Pizza-Recipe-SLICED3-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A slice of Birria Pizza on a pizza stone" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Birria-Pizza-Recipe-SLICED3-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Birria-Pizza-Recipe-SLICED3-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Birria-Pizza-Recipe-SLICED3-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Birria-Pizza-Recipe-SLICED3-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Birria-Pizza-Recipe-SLICED3-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Birria-Pizza-Recipe-SLICED3-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/08/Birria-Pizza-Recipe-SLICED3.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Birria pizza is a delicious fusion of Mexican birria and pizza with tender, slow-cooked beef, melted cheese, and consomé on a crispy crust, easy to make!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/birria-pizza/">Birria Pizza Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/birria-pizza/>
+
+---
+
+## How to Make DIY Pop-Tarts Like Taylor Swift
+
+date: 2025-02-06, from: Bon Appetet
+
+Travis Kelce called them “unbelievable.” We feel the same way about our recipe from Claire Saffitz. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/taylor-swift-travis-kelce-pop-tarts>
+
+---
+
+## Homemade Pop-Tarts
+
+date: 2025-02-06, from: Bon Appetet
+
+Buttery pie crust, homemade jam, and even DIY sprinkles make these the breakfast of champions. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/homemade-pop-tarts-strawberry>
+
+---
+
+## Peeps Just Launched 3 Flavors That I Did Not See Coming
+
+date: 2025-02-06, from: Taste of Home
+
+<p>The iconic marshmallow purveyor is expanding its offerings for Easter 2025.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/new-peeps-flavors-2025/">Peeps Just Launched 3 Flavors That I Did Not See Coming</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/new-peeps-flavors-2025/>
 
 ---
 
@@ -141,7 +271,7 @@ People may not believe you when you tell them that these vegan cinnamon rolls ar
 
 date: 2025-02-06, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/regenerative-coffee-farm-620x414.jpg" class="attachment-large size-large wp-post-image" alt="regenerative coffee farm" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/regenerative-coffee-farm-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/regenerative-coffee-farm-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/regenerative-coffee-farm-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/regenerative-coffee-farm-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/regenerative-coffee-farm.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Have you noticed “regenerative” popping up on food labels or in marketing ads? It&#160;sounds promising — farming that heals the soil and helps stop climate change. So, what does it... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/regenerative-coffee-farm-620x414.jpg" class="attachment-large size-large wp-post-image" alt="regenerative coffee farm" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/regenerative-coffee-farm-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/regenerative-coffee-farm-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/regenerative-coffee-farm-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/regenerative-coffee-farm-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/regenerative-coffee-farm.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Have you noticed “regenerative” popping up on food labels or in marketing ads? It&#160;sounds promising — farming that heals the soil and helps stop climate change. So, what does it... 
 
 <br> 
 
@@ -287,7 +417,7 @@ date: 2025-02-05, from: Taste of Home
 
 date: 2025-02-05, from: Daily Coffee News
 
-<div><img width="620" height="389" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/USAID-website-620x389.png" class="attachment-large size-large wp-post-image" alt="USAID website" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/USAID-website-620x389.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/USAID-website-300x188.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/USAID-website-150x94.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/USAID-website-768x482.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/USAID-website.png 1442w" sizes="(max-width: 620px) 100vw, 620px" /></div>The phrase &#8220;political instability&#8221; is commonly cited as a threat to sustainability in coffee. Among organizations and analysts in the Global North, the phrase is most often applied to coffee-producing... 
+<div><img width="620" height="389" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/USAID-website-620x389.png" class="attachment-large size-large wp-post-image" alt="USAID website" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/USAID-website-620x389.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/USAID-website-300x188.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/USAID-website-150x94.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/USAID-website-768x482.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/USAID-website.png 1442w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The phrase &#8220;political instability&#8221; is commonly cited as a threat to sustainability in coffee. Among organizations and analysts in the Global North, the phrase is most often applied to coffee-producing... 
 
 <br> 
 
@@ -385,7 +515,7 @@ date: 2025-02-05, from: The Sprudge
 
 date: 2025-02-05, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/older-people-drinking-coffee-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="older people drinking coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/older-people-drinking-coffee-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/older-people-drinking-coffee-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/older-people-drinking-coffee-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/older-people-drinking-coffee-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/older-people-drinking-coffee-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new study highlights the potential cognitive benefits of regular coffee consumption for patients with atrial fibrillation (AF), a common heart arrhythmia that significantly increases the risk of stroke, cognitive... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/older-people-drinking-coffee-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="older people drinking coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/older-people-drinking-coffee-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/older-people-drinking-coffee-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/older-people-drinking-coffee-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/older-people-drinking-coffee-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/older-people-drinking-coffee-2.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A new study highlights the potential cognitive benefits of regular coffee consumption for patients with atrial fibrillation (AF), a common heart arrhythmia that significantly increases the risk of stroke, cognitive... 
 
 <br> 
 

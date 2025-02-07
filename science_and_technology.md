@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-02-06 13:29:01
+updated: 2025-02-07 07:06:22
 ---
 
 # science and technology
 
-(date: 2025-02-06 13:29:01)
+(date: 2025-02-07 07:06:22)
+
+---
+
+## How Noether’s Theorem Revolutionized Physics
+
+date: 2025-02-07, from: Quanta Magazine
+
+Emmy Noether showed that fundamental physical laws are just a consequence of simple symmetries. A century later, her insights continue to shape physics.            <p>The post <a href="https://www.quantamagazine.org/how-noethers-theorem-revolutionized-physics-20250207/" target="_blank">How Noether’s Theorem Revolutionized Physics</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-noethers-theorem-revolutionized-physics-20250207/>
+
+---
+
+## Microsoft 365 price rises are coming – pay up or opt out (if you can find the button)
+
+date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
+
+<h4>It&#39;s not auto-enrollment. It&#39;s just your current plan with extra Copilot for more money. Completely different</h4> <p>Users are now receiving notifications regarding their Microsoft 365 subscriptions and must take action if they wish to avoid Copilot and its extra charges.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/07/microsoft_365_price_rises/>
+
+---
+
+## Creators demand tech giants fess up and pay for all that AI training data
+
+date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
+
+<h4>But &#39;original sin&#39; has already been committed, shrugs industry</h4> <p>Governments are allowing AI developers to steal content – both creative and journalistic – for fear of upsetting the tech sector and damaging investment, a UK Parliamentary committee heard this week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/07/ai_training_data_committee/>
+
+---
+
+## UK industry leaders unleash hurricane-grade scale for cyberattacks
+
+date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
+
+<h4>Freshly minted organization aims to take the guesswork out of incident severity for insurers and policy holders</h4> <p>A world-first organization assembled to categorize the severity of cybersecurity incidents is up and running in the UK following a year-long incubation period.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/07/uk_cyber_monitoring_centre/>
+
+---
+
+## Musk's move fast and break things mantra won't work in US.gov
+
+date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
+
+<h4>248-year-old democracy is not a tech startup</h4> <p><strong>Opinion</strong>  120-hour work weeks, firing government staffers and dismantling agencies? Oh my. The US government under pseudo President Musk is in for a world of radical change.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/07/opinion_column_musk/>
+
+---
+
+## I was told to make backups, not test them. Why does that make you look so worried?
+
+date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
+
+<h4>Shabby admin invented &#39;transparent tape&#39; – a terrible storage medium but a magic tool for unlocking IT budgets</h4> <p><strong>On Call</strong>  Each week at work creates memories many are happy to forget, but some are willing to share with fellow <i>Register</i> readers in On Call, our Friday column that tells your tales of tech support.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/07/on_call/>
+
+---
+
+## Google's 7-year slog to improve Chrome extensions still hasn't satisfied developers
+
+date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
+
+<h4>Makers of content blockers, privacy add-ons say promises weren&#39;t kept</h4> <p>Google&#39;s overhaul of Chrome&#39;s extension architecture continues to pose problems for developers of ad blockers, content filters, and privacy tools.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/07/google_chrome_extensions/>
+
+---
+
+## Hardware quality problems and server supply chain kinks slow Amazon’s $100 billion AI build
+
+date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
+
+<h4>Reverses life extensions for some servers it now feels aren’t useful in the inferencing age</h4> <p>Amazon Web Services is struggling to get the high-quality servers it needs to build AI infrastructure and has retired other hardware early to make room to accelerated machines.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/07/amazon_q4_fy_2024/>
+
+---
+
+## Apple missed screenshot-snooping malware in code that made it into the App Store, Kaspersky claims
+
+date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
+
+<h4>OCR plugin great for extracting crypto-wallet secrets from galleries</h4> <p>Kaspersky eggheads say they’ve spotted the first app containing hidden optical character recognition spyware in Apple’s App Store. Cunningly, the software nasty is designed to steal cryptocurrency.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/07/infected_apps_google_apple_stores/>
+
+---
+
+## If Ransomware Inc was a company, its 2024 results would be a horror show
+
+date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
+
+<h4>35% drop in payments across the year as your backups got better and law enforcement made a difference</h4> <p>Ransomware extortion payments fell in 2024, according to blockchain analyst biz Chainalysis this week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/07/ransomware_costs_analysis/>
+
+---
+
+## Sols 4445–4446: Cloudy Days are Here
+
+date: 2025-02-07, from: NASA breaking news
+
+Earth planning date: Wednesday, Feb. 5, 2025 Overnight before planning today, Mars reached a solar longitude of 40 degrees. The solar longitude is how we like to measure where we are in a Mars year. Each year starts at 0 degrees and advances to 360 degrees at the end of the year. For those of […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4445-4446-cloudy-days-are-here/>
+
+---
+
+## DOGE geek with Treasury payment system access now quits amid racist tweet claims
+
+date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
+
+<h4>We did Nazi see that coming</h4> <p>Marko Elez, a former SpaceX, Starlink, and X engineer who was granted deep access to a critical US Treasury payment system by the Trump-blessed Department of Government Efficiency (DOGE), has quit that team after he was linked to a racist Twitter account.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/07/doge_staffer_twitter/>
+
+---
+
+## Amazon-backed X-energy bags $700M more for itty-bitty nuke reactors that don't exist yet
+
+date: 2025-02-06, updated: 2025-02-07, from: The Register (UK I.T. News)
+
+<h4>Looking forward to someone putting the new into nuclear</h4> <p>Months after Amazon joined a half-billion-dollar funding round for next-gen modular nuclear startup X-energy, the biz has announced a supplemental Series C-1 raise - despite its fission reactor design remaining unproven.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/06/amazon_backed_xenergy_funding/>
+
+---
+
+## NASA’s Aerospace Safety Advisory Panel Releases 2024 Annual Report
+
+date: 2025-02-06, from: NASA breaking news
+
+The Aerospace Safety Advisory Panel (ASAP), an advisory committee that reports to NASA and Congress, issued its 2024 annual report Thursday examining the agency’s safety performance, accomplishments, and challenges during the past year. The report highlights 2024 activities and observations on NASA’s work, including: “Over the past year, NASA has continued to make meaningful progress [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasas-aerospace-safety-advisory-panel-releases-2024-annual-report/>
+
+---
+
+## Coordinates of millions of smartphones feared stolen, sparking yet another lawsuit against data broker
+
+date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
+
+<h4>Fourth time’s the harm?</h4> <p>Gravy Analytics has been sued yet again for allegedly failing to safeguard its vast stores of personal data, which are now feared stolen. And by personal data we mean information including the locations of tens of millions of smartphones, coordinates of which were ultimately harvested from installed apps.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/06/gravy_analytics_data_breach_suit/>
+
+---
+
+## What You Need To Know About the March 2025 Total Lunar Eclipse
+
+date: 2025-02-06, from: NASA breaking news
+
+The Moon will pass into Earth’s shadow and appear to turn red on the night of March 13 or early in the morning of March 14, depending on time zone. Here’s what you need to know about the total lunar eclipse. What is a lunar eclipse? A lunar eclipse occurs when the Sun, Earth, and Moon align […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/moon/what-you-need-to-know-about-the-march-2025-total-lunar-eclipse/>
 
 ---
 
@@ -23,13 +215,99 @@ Blue tentacle-like arms attached to an Astrobee free-flying robot grab onto a �
 
 ## Federal judge tightens DOGE leash over critical Treasury payment system access
 
-date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
+date: 2025-02-06, updated: 2025-02-07, from: The Register (UK I.T. News)
 
-<h4>Lawsuit: &#39;Scale of intrusion into individuals&#39; privacy is massive and unprecedented&#39;</h4> <p>Elon Musk&#39;s Department of Government Efficiency has had its access to US Treasury payment systems restricted - at least temporarily - following a lawsuit from advocacy groups and unions.…</p> 
+<h4>Lawsuit: &#39;Scale of intrusion into individuals&#39; privacy is massive and unprecedented&#39;</h4> <p><strong>Updated</strong>  Elon Musk&#39;s Department of Government Efficiency has had its access to US Treasury payment systems restricted - at least temporarily - following a lawsuit from advocacy groups and unions.…</p> 
 
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/02/06/federal_court_leashes_doges_tresury_access/>
+
+---
+
+## Developing wearable, automated tech to prevent and treat wound infection
+
+date: 2025-02-06, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">Developing wearable, automated tech to prevent and treat wound infection  </span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-06T13:40:43-05:00" title="Thursday, February 6, 2025 - 13:40" class="datetime">Thu, 02/06/2025 - 13:40</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p><strong>DARPA seeks proposers for its new BEST program to develop novel bioelectronic smart bandages &nbsp;</strong></p></div>
+      
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Wound infections are common combat injuries and can take otherwise able-bodied personnel out of operations and/or result in severe medical complications. Current standard of care relies on complicated and often time-consuming tests to identify the specific infection-inducing pathogens that caused the wound infection. Therapeutic treatments rely on broad-spectrum and high-dose antibiotics alongside surgical excision – which are not pathogen specific, drive antibiotic resistance, can have toxic side effects, require advanced medical training, and can result in high treatment costs and burden on patients. A game-changing approach to managing infection of combat wounds, particularly one that can be applied autonomously, would benefit warfighter readiness and resilience.</p><p>The BioElectronics to Sense and Treat (BEST) program seeks to meet this need by developing wearable, automated technologies that can predict and prevent a wound infection before it can occur, and to eliminate an infection if it has already taken hold. To achieve this, DARPA is seeking researchers to develop novel bioelectronic smart bandages comprised of wound infection sensor and treatment modules. The sensors should be high-resolution and provide real-time, continual monitoring of wounds based on, for example, the person’s immune state and the collection of bacteria that live in and around a wound. Data from these sensors will be used to predict if a wound will fail to heal due to infection, diagnose the infection, and regulate administration of targeted treatments – using closed-loop control to prevent or resolve infection for improved wound healing.</p><p>“Given that infection initiates at the time of injury and can take hold before aid arrives, particularly in austere environments, the earlier we can deploy these technologies, the bigger impact they will have,” noted <a href="https://drupal.darpa.mil/about/people/leonard-tender">Dr. Leonard Tender, BEST program manager</a>. “Even if medivac occurs immediately, without the ability to prevent infection, the downstream care required to treat the surge of wound infections resulting from a large-scale combat operation could easily overwhelm care capacity.”</p><p>If successful, the BEST program will develop technologies that:</p><ul><li>Adapt to variations in the wound microbial community composition</li><li>Adapt to variations among individuals. Continually update the status of a wound to intervene when needed</li><li>Utilize non-antibiotic treatments to which microbes cannot develop resistance</li><li>Do not interfere with a wound that is predicted to heal on its own</li></ul><p>By the end of the program, the sensor and treatment elements will be combined into a low size, weight, and power closed-loop device that can provide rapid predictions and precise treatments and can be deployed at all aspects of military medical care, including the battlefield. Specific target metrics will be described in the forthcoming BEST program solicitation, which will appear on <a href="https://sam.gov/opp/8698a5251a4f44af896155e4cecba0a5/view" target="_blank">sam.gov </a>and under <a href="https://drupal.darpa.mil/research/opportunities">opportunities on the DARPA website</a>.</p><p>In addition to pursuing the technical objectives, BEST performers will be expected to plan for transition of their approaches and prototypes. This will include developing and executing effective strategies to prepare for regulatory, clinical, and commercialization next steps with the objective of creating opportunities for advanced development and follow-on funding from private and/or government sponsors. Government subject matter experts in these areas will work with the performers to enable success of their projects.</p><p>“Beyond the battlefield, wound infections are a risk to many patients (e.g., those with diabetic foot ulcers). As such, BEST performers will be expected to address relevant military and civilian clinical and market needs in their transition strategies,” added Tender.</p><p>Information is available on the upcoming BEST Proposers Day on <a href="https://sam.gov/opp/8698a5251a4f44af896155e4cecba0a5/view" target="_blank">SAM.gov.</a></p><p class="text-align-center">###</p><p class="text-align-center">Media with inquiries should contact DARPA Public Affairs at <a href="mailto:outreach@darpa.mil" target="_blank">outreach@darpa.mil</a></p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+          <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/wide_816/public/gallery/2025-02/darpa-program-logo-best.jpg?itok=QScCC7Ee" alt class="image-style-wide-816">
+
+
+
+      <figcaption class="padding-bottom-3">
+        
+
+              </figcaption>
+
+    
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Resources</h4><ul style="list-style-type:disc;margin-left:0;"><li><a href="https://drupal.darpa.mil/events/2025/best-proposers-day"><strong>Event:</strong> Proposers Day</a></li><li><a href="https://drupal.darpa.mil/research/programs/best-bioelectronics"><strong>Program:</strong> BioElectronics to Sense and Treat</a></li></ul><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/news/2025/wearable-tech-prevent-infection>
 
 ---
 
@@ -49,11 +327,97 @@ Key Points The largest solar storm in two decades hit Earth in May 2024. For sev
 
 date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
 
-<h4>Are cybersecurity roles included? Are Elon&#39;s enforcers vetted? Inquiring minds want to know</h4> <p>Elected officials are demanding answers as to whether the Trump administration and Elon Musk&#39;s Department of Government Efficiency (DOGE) are hamstringing US national security.…</p> 
+<h4>Are cybersecurity roles included? Are Elon&#39;s enforcers vetted? Inquiring minds want to know</h4> <p><strong>Updated</strong>  Elected officials are demanding answers as to whether the Trump administration and Elon Musk&#39;s Department of Government Efficiency (DOGE) are hamstringing US national security.…</p> 
 
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrat_trump_admin_letter/>
+
+---
+
+## DARPA selects two discrete utility-scale quantum computing approaches for evaluation
+
+date: 2025-02-06, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">DARPA selects two discrete utility-scale quantum computing approaches for evaluation</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-06T13:23:21-05:00" title="Thursday, February 6, 2025 - 13:23" class="datetime">Thu, 02/06/2025 - 13:23</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p><strong>Microsoft and PsiQuantum will work with government team to verify and validate their concepts</strong></p></div>
+      
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Following extensive technical analysis with an independent verification and validation team, DARPA has selected and is in negotiations with Microsoft and PsiQuantum for the Validation and Co-Design stage of the Underexplored Systems for Utility-Scale Quantum Computing (US2QC) program, one of two programs that make up DARPA’s larger Quantum Benchmarking Initiative (QBI).</p><p>DARPA’s Quantum Benchmarking Initiative (QBI) aims to determine whether it’s possible to build an industrially useful quantum computer much faster than conventional predictions. Specifically, QBI is designed to rigorously verify and validate whether any quantum computing approach can achieve utility-scale operation — meaning its computational value exceeds its cost — by the year 2033.</p><p>Announced in <a href="https://drupal.darpa.mil/news/2024/quantum-computing-prototype">July 2024</a>, QBI builds upon and expands <a href="https://drupal.darpa.mil/research/programs/underexplored-systems-for-utility-scale-quantum-computing">US2QC,</a> and is separate, but related to the <a href="https://drupal.darpa.mil/research/programs/quantum-benchmarking">original Quantum Benchmarking program</a>. Microsoft and PsiQuantum were participating in the second phase of US2QC when the QBI expansion was announced.&nbsp; The final Phase of US2QC has the same technical goals as the final stage of QBI – validation and co-design of an industrially useful quantum computer.</p><p>“Our government evaluation team has been working closely with both companies since the beginning of 2023 to scrutinize their approach to building a utility-scale quantum computer.&nbsp; Both companies have undergone an incredibly rigorous and deeply technical analysis from what is almost certainly the world’s best quantum computing test and evaluation team,” said <a href="https://drupal.darpa.mil/about/people/joe-altepeter">Joe Altepeter, DARPA QBI program manager</a>. “Now, we’re ready to evaluate their final utility-scale system designs, conduct government testing of components and hardware, and assess system-level performance capabilities of major prototypes.”</p><p>The companies have different approaches to their proposed utility-scale quantum computers. Microsoft Corporation, based in Redmond, Washington, is building an error-corrected, utility-scale quantum computer based on a compact superconducting topological qubit architecture, while PsiQuantum, Corp., based in Palo Alto, California, is using silicon-based photonics to create an error-corrected, utility-scale quantum computer based on a lattice-like fabric of photonic qubits. Over 50 experts from DARPA’s test and evaluation team have exhaustively examined both companies’ specific technical approaches, their detailed plans for fault-tolerant prototypes, and their long-term R&amp;D plans, components, architectures, systems development, and application utility.</p><p>Additional quantum computer companies, who submitted initial proposals under the QBI solicitation last summer, are expected to be selected for QBI Stage A soon. &nbsp;&nbsp;</p><p>“Since we expanded our quantum computing efforts beyond US2QC with the announcement of QBI last summer, we are very close to selecting additional quantum computing companies whose plans for a utility-scale quantum computer show promise,” Altepeter said. “Early this spring, we anticipate announcing multiple awards to companies who will be entering QBI Stage A, where they will describe their utility-scale quantum computing concepts to an extraordinary test and evaluation team. Stay tuned for news of these selections soon.” &nbsp;&nbsp;</p><p>For more information on QBI visit: <a href="https://drupal.darpa.mil/research/programs/quantum-benchmarking-initiative">https://www.darpa.mil/qbi</a>.</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+          <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/wide_816/public/QBI_619x316-1.jpg?itok=oTr-k60R" alt class="image-style-wide-816">
+
+
+
+      <figcaption class="padding-bottom-3">
+        
+
+              </figcaption>
+
+    
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Resources</h4><p><a href="https://drupal.darpa.mil/research/programs/quantum-benchmarking-initiative">Quantum Benchmarking Initiative</a></p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/news/2025/quantum-computing-approaches>
 
 ---
 
@@ -263,7 +627,7 @@ Earth planning date: Monday, Feb. 3, 2025 Another successful weekend plan left u
 
 ## Arm gives up on killing off Qualcomm's vital chip license
 
-date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
+date: 2025-02-06, updated: 2025-02-07, from: The Register (UK I.T. News)
 
 <h4>The British are coming, the British are coming ... to terms with their loss</h4> <p>Arm has given up on terminating one of its key licenses with Qualcomm, leaving the latter free to continue producing homegrown Arm-compatible chips for PCs, phones, and servers.…</p> 
 
@@ -301,7 +665,7 @@ date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
 
 date: 2025-02-05, updated: 2025-02-06, from: The Register (UK I.T. News)
 
-<h4>Some worry multiple languages will make it harder to maintain this open source uber-project, others disagree</h4> <p><strong>updated</strong>  Developers trying to add Rust code to the Linux kernel continue to face opposition from kernel maintainers who believe using multiple languages is an unwelcome and risky complication.…</p> 
+<h4>Some worry multiple languages will make it harder to maintain this open source uber-project, others disagree</h4> <p><strong>Updated</strong>  Developers trying to add Rust code to the Linux kernel continue to face opposition from kernel maintainers who believe using multiple languages is an unwelcome and risky complication.…</p> 
 
 <br> 
 
@@ -590,7 +954,7 @@ date: 2025-02-05, from: Darpa News
         
       
       
-      <img src="https://drupal.darpa.mil/sites/default/files/styles/max_325x325/public/gallery/2024-11/bto-hero.jpg.webp?itok=8j62FNbk" alt class="image-style-max-325x325">
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/timeline_single_618x439/public/gallery/2025-02/darpa-program-logo-best.jpg?itok=8pD1Bw9b" width="618" height="439" alt loading="lazy" class="image-style-timeline-single-618x439">
 
 
 
@@ -680,7 +1044,24 @@ date: 2025-02-05, from: Darpa News
       </div>
     
           <div class="layout__region layout__region--second">
-          <div class="content-width-x-large margin-x-auto paragraph paragraph--type--from-library paragraph--view-mode--default">
+          <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/wide/public/gallery/2025-02/darpa-program-logo-best.jpg.webp?itok=RZfzw0tH" alt class="image-style-wide">
+
+
+
+      <figcaption class="padding-bottom-3">
+        
+
+              </figcaption>
+
+    
+
+      </div>
+  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--from-library paragraph--view-mode--default">
     
               <div class="grid-col-fill">
       
@@ -1334,7 +1715,7 @@ date: 2025-02-04, from: Darpa News
   <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
     
       
-            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>DARPA’s Commercial Strategy Office is hosting a Proposers Day on Feb. 25, 2025, in support of a Commercial Solutions Opening under the Embedded Entrepreneur Initiative (EEI). EEI pairs top technical talent from DARPA programs with experienced business leaders to accelerate the transition of breakthrough technologies to market. The program provides hands-on go-to-market support, equipping teams with the tools, expertise, and strategies needed to succeed in both government and commercial sectors. By fostering strong commercialization roadmaps, EEI helps DARPA awardees attract U.S. investment and scale their innovations.</p><p>The purpose of the Proposers Day is to provide an overview of the EEI program strategy, address questions from potential proposers, illustrate success stories, and provide a forum for engagement. Additionally, attendees can engage in one-on-one meetings with the Commercial Strategy Team and Contracting.</p><p>This event is open to companies who have supported R&amp;D under a DARPA-funded Program (e.g., SBIR, Prime contract, Subcontract to a Prime DARPA contract) and are interested in commercialization.&nbsp;</p><p>For additional information, please review the <a href="https://sam.gov/opp/a05ba1aa2f874d7b9aa1a6f78b02b65a/view" target="_blank">EEI Proposers Day Special Notice</a> posted on SAM.gov. If you are new to working with DARPA, we recommend you check out the <a href="https://drupal.darpa.mil/events/2025/darpaconnect-minneapolis">DARPAConnect event</a>.&nbsp;</p><p>If there is enough interest in another Proposers Day, the Commercial Strategy Team may consider a virtual option in the future. If you are unable to attend this Proposers Day due to in-person travel costs, please send an email to <a href="mailto:EEIProposersDay@darpa.mil">EEIProposersDay@darpa.mil</a> to express your interest in a future virtual option. &nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></div>
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>DARPA’s Commercial Strategy Office is hosting a Proposers Day on Feb. 25, 2025, in support of a Commercial Solutions Opening under the Embedded Entrepreneur Initiative (EEI). EEI pairs top technical talent from DARPA programs with brilliant business minds to accelerate the transition of breakthrough technologies to market. The program provides techno-economic analysis, coaching and mentoring, and the tools, expertise, and strategies needed to succeed in both government and commercial sectors. By fostering strong commercialization roadmaps, EEI helps DARPA awardees attract U.S. investment and scale their innovations.</p><p>The purpose of the Proposers Day is to provide an overview of the EEI strategy, address questions from potential proposers, illustrate success stories, and provide a forum for engagement. Additionally, attendees can engage in one-on-one meetings with the Commercial Strategy Team and Contracting.</p><p>This event is open to participants who have supported R&amp;D under a DARPA-funded Program (e.g., SBIR, Prime contract, Subcontract to a Prime DARPA contract) and are interested in commercialization. For instance, small to mid-sized companies or larger organizations like universities and large companies interested in spinning out a company.</p><p>For additional information, please review the <a href="https://sam.gov/opp/a05ba1aa2f874d7b9aa1a6f78b02b65a/view" target="_blank">EEI Proposers Day Special Notice</a> posted on SAM.gov. If you are new to working with DARPA, we recommend you check out the <a href="https://drupal.darpa.mil/events/2025/darpaconnect-minneapolis">DARPAConnect event</a>.&nbsp;</p><p>This is an in-person event.&nbsp;</p><p>If there is enough interest in another Proposers Day, the Commercial Strategy Team may consider a virtual option in the future. If you are unable to attend this Proposers Day due to in-person travel costs, please send an email to <a href="mailto:EEIProposersDay@darpa.mil">EEIProposersDay@darpa.mil</a> to express your interest in a future virtual option. &nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></div>
       
 
       </div>

@@ -1,11 +1,121 @@
 ---
 title: socal north
-updated: 2025-02-06 13:29:00
+updated: 2025-02-07 07:06:21
 ---
 
 # socal north
 
-(date: 2025-02-06 13:29:00)
+(date: 2025-02-07 07:06:21)
+
+---
+
+## Saving Cupcake: The mission to rescue Pasadena's class pets from the Eaton Fire
+
+date: 2025-02-07, updated: 2025-02-07, from: The LAist
+
+A bunny rescue grew into a district-wide effort to locate, save and care for lizards, snakes, rats and fish at a half-a-dozen schools. 
+
+<br> 
+
+<https://laist.com/news/education/eaton-fire-pasadena-school-class-pet-rescue>
+
+---
+
+## Five stand out L.A. spots to score wings for Super Bowl Sunday
+
+date: 2025-02-07, updated: 2025-02-07, from: The LAist
+
+From ATL style to Indian spices and howlin’ hot, here’s a round-up of our favorite wing spots just in time for the big game. 
+
+<br> 
+
+<https://laist.com/news/food/five-stand-out-l-a-spots-to-score-wings-for-super-bowl-sunday>
+
+---
+
+## Storm moves out of SoCal today
+
+date: 2025-02-07, updated: 2025-02-07, from: The LAist
+
+Skies will clear this weekend. There's potential for another storm next week. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/storm-moves-out-of-socal-today>
+
+---
+
+## Topanga Creek’s steelhead trout faced localized extinction: ‘We got to go get these fish’
+
+date: 2025-02-07, updated: 2025-02-07, from: The LAist
+
+Wet weather after the Palisades Fire threatened to wipe out the local population of an endangered fish. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/topanga-creeks-steelhead-trout-faced-localized-extinction-we-got-to-go-get-these-fish>
+
+---
+
+## OC waived key oversight of contracts during COVID, opening the way for fraud, audit finds
+
+date: 2025-02-07, updated: 2025-02-07, from: The LAist
+
+Auditors have referred two contracts to the Orange County district attorney and county counsel for further investigation. 
+
+<br> 
+
+<https://laist.com/news/politics/oc-waived-key-oversight-of-contracts-during-covid-opening-the-way-for-fraud-audit-finds>
+
+---
+
+## Educators at El Camino Real Charter High Announce Strike Date
+
+date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Teachers and staff members at El Camino Real Charter High School in Woodland Hills announced a strike on Wednesday, Feb. 5, over better pay and after the Board of Directors [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/06/educators-at-el-camino-real-charter-high-announce-strike-date/">Educators at El Camino Real Charter High Announce Strike Date</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/06/educators-at-el-camino-real-charter-high-announce-strike-date/>
+
+---
+
+## Southern California Edison says its equipment may have caused Hurst Fire
+
+date: 2025-02-06, updated: 2025-02-06, from: The LAist
+
+The investigation into the causes of the Hurst and Eaton fires are still ongoing. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/southern-california-edison-equipment-hurst-fire>
+
+---
+
+## Ippei Mizuhara, Shohei Ohtani’s ex-interpreter, sentenced to nearly 5 years in prison
+
+date: 2025-02-06, updated: 2025-02-06, from: The LAist
+
+Mizuhara was facing a maximum sentence of 33 years on charges of bank fraud and signing a false tax return. 
+
+<br> 
+
+<https://laist.com/news/ippei-mizuhara-shohei-ohtanis-ex-interpreter-sentenced-to-nearly-5-years-in-prison>
+
+---
+
+## Aggressive prostate cancer is surging in California. What you need to know
+
+date: 2025-02-06, updated: 2025-02-06, from: The LAist
+
+Advanced prostate cancer cases are rising sharply in California, outpacing national trends, according to a new study from UCSF. 
+
+<br> 
+
+<https://laist.com/news/health/prostate-cancer-surging-in-california-heres-what-you-need-to-know>
 
 ---
 
@@ -107,6 +217,18 @@ Thousands of farmworkers labored in fields in Ventura County in late January in 
 
 ---
 
+## A mail carrier lost everything in the Eaton Fire. Along his route, people are rallying for him
+
+date: 2025-02-06, updated: 2025-02-07, from: The LAist
+
+Mail carrier Thomas Carter lost his home and a car he was restoring to the Eaton Fire. But along a route he has served for decades, a community of support has formed. 
+
+<br> 
+
+<https://laist.com/news/mail-carrier-lost-everything-eaton-fire-people-rally>
+
+---
+
 ## Will LA fire victims join the crowded OC housing market?
 
 date: 2025-02-06, updated: 2025-02-06, from: The LAist
@@ -155,18 +277,6 @@ We're looking at a generally weaker storm system this time around.
 
 ---
 
-## A mail carrier lost everything in the Eaton Fire. Along his route, people are rallying for him
-
-date: 2025-02-06, updated: 2025-02-06, from: The LAist
-
-Mail carrier Thomas Carter lost his home and a car he was restoring to the Eaton Fire. But along a route he has served for decades, a community of support has formed. 
-
-<br> 
-
-<https://laist.com/news/mail-carrier-lost-everything-eaton-fire-people-rally>
-
----
-
 ## Making Climate-Friendly Lifestyle Choices Isn’t Always Easy. India Learned the Hard Way
 
 date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
@@ -201,7 +311,7 @@ date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="973" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?fit=973%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?w=1927&amp;ssl=1 1927w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=285%2C300&amp;ssl=1 285w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=973%2C1024&amp;ssl=1 973w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=768%2C808&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=1460%2C1536&amp;ssl=1 1460w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=1200%2C1262&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=1568%2C1649&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=400%2C421&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=706%2C743&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?fit=973%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="973" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?fit=973%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?w=1927&amp;ssl=1 1927w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=285%2C300&amp;ssl=1 285w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=973%2C1024&amp;ssl=1 973w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=768%2C808&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=1460%2C1536&amp;ssl=1 1460w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=1200%2C1262&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=1568%2C1649&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=400%2C421&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=706%2C743&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?fit=973%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>El Departamento de Policía de Los Ángeles (LAPD), el Departamento del Sheriff del Condado de Los Ángeles (LASD) y el Departamento de Policía de Long Beach lanzaron una operación contra [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/02/05/el-fiscal-de-distrito-de-los-angeles-comienza-a-presentar-cargos-tras-una-operacion-de-trafico-de-personas/">El Fiscal de Distrito de Los Ángeles Comienza a Presentar Cargos Tras una Operación de Tráfico de Personas</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -244,7 +354,7 @@ date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=1536%2C1157&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=2048%2C1542&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=1200%2C904&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=1568%2C1181&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=2000%2C1506&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=1536%2C1157&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=2048%2C1542&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=1200%2C904&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=1568%2C1181&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=2000%2C1506&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>En el espíritu del Día Nacional de Concientización sobre el Crédito Tributario por Ingreso del Trabajo, los funcionarios locales lanzaron una campaña gratuita de preparación de impuestos en Los Ángeles [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/02/05/los-servicios-gratuitos-de-preparacion-de-impuestos-estan-disponibles-para-ayudar-a-los-residentes-de-ingresos-bajos-a-moderados/">Los Servicios Gratuitos de Preparación de Impuestos están Disponibles para Ayudar a los Residentes de Ingresos Bajos a Moderados</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -259,7 +369,7 @@ date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="741" height="508" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?fit=741%2C508&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?w=741&amp;ssl=1 741w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?resize=300%2C206&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?resize=400%2C274&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?resize=706%2C484&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?fit=741%2C508&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="741" height="508" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?fit=741%2C508&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?w=741&amp;ssl=1 741w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?resize=300%2C206&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?resize=400%2C274&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?resize=706%2C484&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?fit=741%2C508&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>“Tenemos que hacer todo lo posible para estar seguras”, dijo Bamby Salcedo, presidenta y directora ejecutiva de TransLatina Coalition. Durante una reciente rueda de prensa organizada por Ethnic Media Services, [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/02/05/trump-ha-puesto-en-riesgo-a-la-comunidad-transgenero/">Trump ha Puesto en Riesgo a la Comunidad Transgénero</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -274,7 +384,7 @@ date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Walt Butler se paró frente a los escombros de su casa en Altadena y, luchando por contener las lágrimas, exclamó: “No es justo. Lo siento, pero no es justo”. Su [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/02/05/los-residentes-de-altadena-confian-en-los-abogados-para-demandar-a-edison-con-el-fin-de-reconstruir/">Los Residentes de Altadena Confían en los Abogados para Demandar a Edison con el Fin de Reconstruir</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -289,7 +399,7 @@ date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Service-Workers-02-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Para ayudar a apoyar a las amas de llaves, jardineros, niñeras, cuidadores y otros trabajadores de servicios informales afectados financieramente por los incendios forestales de Los Ángeles, la semana pasada [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/02/05/concejal-padilla-e-icon-proporcionan-fondos-para-trabajadores-de-servicios-afectados-por-incendios/">Concejal Padilla e ICON Proporcionan Fondos para Trabajadores de Servicios Afectados por Incendios</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -672,7 +782,7 @@ date: 2025-02-04, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 ## How younger generations keep the folk art of lion dancing alive in LA
 
-date: 2025-02-04, updated: 2025-02-04, from: The LAist
+date: 2025-02-04, updated: 2025-02-06, from: The LAist
 
 At the East Wind Foundation, in the heart of Los Angeles' Chinatown, young people dedicate their after-school hours and weekends to practice the traditional folk art of lion dancing. 
 

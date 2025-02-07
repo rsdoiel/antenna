@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-02-06 13:29:02
+updated: 2025-02-07 07:06:23
 ---
 
 # games
 
-(date: 2025-02-06 13:29:02)
+(date: 2025-02-07 07:06:23)
+
+---
+
+## World of Warcraft throws shade at Final Fantasy 14 in its player housing plans
+
+date: 2025-02-07, updated: 2025-02-07, from: Polygon Website
+
+Blizzard has given the first high-level look at how player housing will work in World of Warcraft — and it’s espousing a “Home for Everyone” philosophy that takes direct aim at the expensive and chancy process of acquiring property in other MMOs, including WoW’s chief rival Final Fantasy 14. Player housing has been on WoW [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/world-of-warcraft/520687/world-of-warcraft-housing-ff14-shade>
+
+---
+
+## Everything we know about Switch 2, Nintendo’s next-gen console
+
+date: 2025-02-07, updated: 2025-02-07, from: Polygon Website
+
+After many months, if not years, of leaks and speculation, it’s finally official: Nintendo has announced its next console, and it’s called Nintendo Switch 2. As the name implies, it’s a very similar design to the Switch — a hybrid handheld console with detachable controllers that can be connected to a TV via a dock. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games>
+
+---
+
+## Did Dragon Age: The Veilguard undersell or face unrealistic expectations?
+
+date: 2025-02-07, updated: 2025-02-07, from: Polygon Website
+
+This is not the first time I’ve written about a video game that appears to have been sent out to die, and I predict it will not be the last. The latest victim of the business is Dragon Age: The Veilguard, which, of course, was one of the subjects of Electronic Arts’ third-quarter earnings call [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/520290/dragon-age-the-veilguard-sales-ea-bioware-layoffs>
+
+---
+
+## The 44 best movies on Netflix right now
+
+date: 2025-02-07, updated: 2025-02-07, from: Polygon Website
+
+What’s the best movie I can watch on Netflix? We’ve all asked ourselves this question, only to spend the next 15 minutes scrolling through the streaming service’s oddly specific genre menus and getting overwhelmed by the constantly shifting trend menus. Netflix’s huge catalog of movies continues to expand day by day, week by week, month [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## Pre-order Monster Hunter Wilds on PC and save 18%
+
+date: 2025-02-07, updated: 2025-02-07, from: Polygon Website
+
+Monster Hunter Wilds, the next flagship game in Capcom’s seminal and self-descriptive series, is coming out on Feb. 28, 2025. You may want to jump into one of its open beta periods in February, so you can try parts of the game for free. That said, you might already know that you’ll be picking up [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/457978/monster-hunter-wilds-deal-fanatical>
+
+---
+
+## How to get Essence of Desire in Destiny 2
+
+date: 2025-02-07, updated: 2025-02-07, from: Polygon Website
+
+Essence of Desire is one of the major currencies in Destiny 2: Heresy, the third and final episode that wraps up the Light and Darkness saga. Along with other minor currencies, like Metastasized Essentia, you’ll use the Essence of Desire to get yourself some powerful new loot so you can take on The Taken King [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/519999/essence-desire-metastasized-essentia>
+
+---
+
+## All leaders tier list in Civilization 7
+
+date: 2025-02-06, updated: 2025-02-06, from: Polygon Website
+
+There are more than two dozen leaders in Civilization 7, and not all of them are created equally. Ergo, a Civilization 7 leaders tier list is all but essential for parsing the differences. Every leader is viable, sure. However, some have more to offer than others and open new opportunities for strategizing as a result. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/civilization-7-guides/519986/leaders-tier-list-all-best-civ-7>
+
+---
+
+## Space Marine’s newest update adds a terrifying crab cannon to Operations
+
+date: 2025-02-06, updated: 2025-02-06, from: Polygon Website
+
+Space Marine 2’s main campaign can be polished off in a few hours, but Saber Interactive has continued to update the game with new operations and multiplayer features. On Thursday, Saber announced the third major content update for the game. Dubbed Datavault, the patch adds a new chamber to the battle barge, lots of new [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/520571/warhammer-space-marine-2-datavault-update>
+
+---
+
+## Magic: The Gathering movie greenlit from Dune and Dark Knight studio Legendary
+
+date: 2025-02-06, updated: 2025-02-06, from: Polygon Website
+
+Legendary Entertainment and Hasbro Entertainment announced in a joint news release on Thursday that they have reached a deal licensing Magic: The Gathering to Legendary for development into “a live-action feature film and television universe,” starting with an initial planned movie, then expanding to other media. Legendary is the studio behind IP-derived movies like Christopher [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/520568/mtg-movie-announcement-legendary-dune-dark-knight>
 
 ---
 
@@ -270,18 +378,6 @@ Could you picture Scarlett Johansson as Lara Croft fighting the Tyrannosaurus re
 <br> 
 
 <https://www.polygon.com/sci-fi/519214/jurassic-world-rebirth-trailer>
-
----
-
-## Everything we know about Switch 2, Nintendo’s next-gen console
-
-date: 2025-02-05, updated: 2025-02-05, from: Polygon Website
-
-After many months, if not years, of leaks and speculation, it’s finally official: Nintendo has announced its next console, and it’s called Nintendo Switch 2. As the name implies, it’s a very similar design to the Switch — a hybrid handheld console with detachable controllers that can be connected to a TV via a dock. [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2025-02-06 13:29:05
+updated: 2025-02-07 07:06:25
 ---
 
 # craft
 
-(date: 2025-02-06 13:29:05)
+(date: 2025-02-07 07:06:25)
+
+---
+
+## Closeout Sale on Our Roubo Volumes
+
+date: 2025-02-07, from: Lost Arg Press blog
+
+We are closing out the last 400 (or so) copies of our two translations of A-J Roubo’s “l’Art du menuisier” in order to make room for new editions of these books. The savings are significant. Act quickly to avoid disappointment. “With All the Precision Possible: Roubo on Furniture” is now $21 (on sale from $63).... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/02/06/closeout-sale-on-our-roubo-volumes/>
+
+---
+
+## New Pinch Rods in Development
+
+date: 2025-02-06, from: Lost Arg Press blog
+
+Thanks to a clever idea from our friend Roger Davis, we&#8217;re well on the way to once again offering Crucible Tool Pinch Rods (the brass on our former offering has become prohibitively expensive). Shown here is the second prototype. They work, but not as perfectly as possible, so we&#8217;re still working with Craig Jackson at... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/02/06/new-pinch-rods-in-development/>
 
 ---
 
