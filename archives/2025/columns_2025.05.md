@@ -1,11 +1,297 @@
 ---
 title: columns
-updated: 2025-02-07 07:06:22
+updated: 2025-02-08 07:05:37
 ---
 
 # columns
 
-(date: 2025-02-07 07:06:22)
+(date: 2025-02-08 07:05:37)
+
+---
+
+##  Extinction Burst Explains MAGA Voters&#8217; Racist Anger 
+
+date: 2025-02-07, updated: 2025-02-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/extinction-burst-explains-maga-voters-racist-anger>
+
+---
+
+## ★ My 2024 Apple Report Card
+
+date: 2025-02-07, updated: 2025-02-08, from: Daring Fireball
+
+While there are several areas where Apple maintained consistent excellence in 2024, I can’t think of a single area where Apple levelled up. Not one. That feels like a problem. 
+
+<br> 
+
+<https://daringfireball.net/2025/02/my_2024_apple_report_card>
+
+---
+
+## Lina Khan’s warning about America’s tech giants
+
+date: 2025-02-07, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/lina-khans-warning-about-americas>
+
+---
+
+## ‘This is Serious Business. You Better Start Paying Attention.’ 
+
+date: 2025-02-07, from: James Fallows, Substack
+
+The most recent aviation disasters were not the new administration's fault. The next ones likely will be. 
+
+<br> 
+
+<https://fallows.substack.com/p/this-is-serious-business-you-better>
+
+---
+
+## 2025-02-07 I bought some tea
+
+date: 2025-02-07, from: Alex Schroeder's Blog
+
+<h1 id="2025-02-07-i-bought-some-tea">2025-02-07 I bought some tea</h1>
+
+<p>I buy tea about once a year. I also buy a lot of coffee but I have never compared the two. Probably a mistake. At one point I weighed the coffee beans for my Mokka pot and got 17g. I make two of these per day. That’s about 12.5kg per year and probably costs CHF 250.- per year, plus coffee in coffee houses and restaurants.</p>
+
+<p>Anyway, taking pictures of the labels with my phone, relying on the optical character recognition so I can copy and paste this into <a class="account" href="https://social.tchncs.de/@babelcarp" title="@babelcarp@social.tchncs.de">@babelcarp</a>’s <a href="http://www.panix.com/~perin/babelcarp/">Babel Carp</a>, “a Chinese Tea Lexicon”, and reading the entriss is how I also spend extra time with the tea.</p>
+
+<ul>
+<li>Ye Lai Xiang (50g / CHF 41.50), <a href="https://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E5%87%A4%E5%87%B0%E5%8D%95%E4%B8%9B&amp;define=1">凤凰单丛</a>, Phoenix Single Bush, descended from Shuixian trees growing in Fenghuanshan, i.e., the Phoenix Mountains in Chao An, called 夜来香 or Nocturnal Fragrance, maybe due to roasting over lychee wood (although last time I bought it wasn’t nearly as strong as I remembered I still want back that lychee fragrance)</li>
+<li>Ya Shi Xiang Dong Pian (50g / CHF 55.00), another 凤凰单丛, this one being <a href="https://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E9%B8%AD%E5%B1%8E%E9%A6%99%E5%86%AC%E7%89%87&amp;define=1">鸭屎香冬片</a> or “Smells Like Duck Shit” – this is confusing! – from Taiwan</li>
+<li>Gang Kou Cha Meer Oolong (100g / CHF 55.00), <a href="http://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E6%B8%AF%E5%8F%A3%E8%8C%B6&amp;define=1">港口茶</a>, harbour tea from Pingtung in Taiwan</li>
+<li>Jinggu 2016 ( 357g / CHF 180.00), <a href="https://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E6%99%AE%E6%B4%B1%E7%94%9F%E9%A5%BC%E5%8F%A4%E6%A0%91%E8%8C%B6&amp;define=1">普洱生饼古树茶</a>, Pu Er Shen Bing Gu Shu Cha, i.e., raw Pu Er from old trees in 景谷, Jinggu; this one is the cheapest I could get, being neither from the east nor west of the Mekong river from from further north; they had cakes from 2015 up to 2024, all at the same price, and I didn’t know which ones to pick so I picked an older one – was this a good choice?</li>
+<li>Jin Jiang Hui Ming (50g / CHF 40.00), <a href="https://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E9%87%91%E5%A5%96%E6%83%A0%E6%98%8E&amp;define=1">金奖惠明</a>, green tea  grown by the She Zu; it got a gold medal in 1915! 😄 Huiming is the name of a local temple</li>
+<li>Tama Ryokucha Hinpyoukai (50g / CHF 35.00),</li>
+<li>Gen Mai Bancha (125g / CHF 17.50)</li>
+<li>Hojicha (70g / CHF 13.50)</li>
+<li>Shincha Yame (100g / CHF 40.00)</li>
+<li>Sencha Hoshino (50g / CHF 42.50)</li>
+</ul>
+
+<p>Some everyday tea like Genmaicha and Hojicha; some Sencha; some green tea from China, and a Pu Er cake. I am an absolutely clueless buyer of tea and essentially I just know that my price range goes up to around CHF 60.-/50g.</p>
+
+<p>Nevertheless, in my hubris I wrote <a href="2024-10-22-chinese-tea">preparing Chinese tea for beginners</a>. In a way, I fee like you can’t do this journey all in one go, so I wrote what I thought was important to me when I got started and I’m hoping to read more from people further along.</p>
+
+<p>Let me know if you have books or articles to recommend.</p>
+
+<p><a class="tag" href="/search/?q=%23Tea">#Tea</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-02-07-tea>
+
+---
+
+##  According to Wired&#8217;s reporting, a US Treasury Threat Intelligence Analysis has called... 
+
+date: 2025-02-07, updated: 2025-02-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046174-according-to-wireds-repor>
+
+---
+
+## Friday Squid Blogging: The Colossal Squid
+
+date: 2025-02-07, updated: 2025-02-01, from: Bruce Schneier blog
+
+<p><a href="https://www.bbc.com/future/article/20250130-colossal-squid-the-eerie-ambassador-from-the-abyss">Long article</a> on the colossal squid.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/friday-squid-blogging-the-colossal-squid.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-07, from: Dave Winer's Scripting News)
+
+Behind the scenes in the US government I imagine it's like a Vonnegut novel, or an episode of <a href="https://www.youtube.com/watch?v=XJYmyYzuTa8">Pinky and the Brain</a>. 
+
+<br> 
+
+<http://scripting.com/2025/02/07.html#a213527>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-07, from: Dave Winer's Scripting News)
+
+I wish Bluesky had just used the <a href="https://www.google.com/search?q=site%3Ascripting.com+%22twitter+api%22">Twitter API</a>. That's how I would've done it. Continuity matters a lot. And think of all time wasted at re-doing something we had working a long time ago. 
+
+<br> 
+
+<http://scripting.com/2025/02/07.html#a211816>
+
+---
+
+## February 6, 2025
+
+date: 2025-02-07, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156698599/c277502576f4a6e450ae140886a77c4b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156698599/c277502576f4a6e450ae140886a77c4b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-6-2025-d14>
+
+---
+
+##  Doechii&#8217;s Tiny Desk Concert 
+
+date: 2025-02-07, updated: 2025-02-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/doechiis-tiny-desk-concert>
+
+---
+
+##  Some Actions That Are Not Protesting or Voting, including donating to a... 
+
+date: 2025-02-07, updated: 2025-02-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046170-some-actions-that-are-not>
+
+---
+
+## Apple Settles Lawsuit Against Former Employee Who Leaked to The Information and WSJ
+
+date: 2025-02-07, updated: 2025-02-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/02/07/apple-leaker-issues-apology/>
+
+---
+
+##  David Kurtz argues that we should refer to Trump&#8217;s mass removal of... 
+
+date: 2025-02-07, updated: 2025-02-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046173-david-kurtz-argues-that-w>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/07/05/pinkyFacingLeft.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've <a href="https://bsky.app/profile/scripting.com/post/3lhm3di6fgs24">cracked the code</a> for adding OpenGraph data to Bluesky posts. The key was I <a href="https://bsky.app/profile/bmann.ca/post/3lhluwhk6jk2g">learned</a> how to do the equivalent of a <a href="https://pdsls.dev/at/did:plc:dwaduijo6ngdgzmir5vovzrh/app.bsky.feed.post/3lhlwfuq2a22u">View Source</a> on a Bluesky post so I could see how others did it. I tried Claude, ChatGPT, Gemini, none of them even understood the question of how to get Bluesky to add the data. I was amazed to learn that each developer has to do it for themselves, that this isn't something they built into their server. Anyway, I'm halfway there. 
+
+<br> 
+
+<http://scripting.com/2025/02/07.html#a171532>
+
+---
+
+##  &#8220;The Government&#8217;s Computing Experts Say They Are Terrified&#8221; 
+
+date: 2025-02-07, updated: 2025-02-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/the-governments-computing-experts-say-they-are-terrified>
+
+---
+
+##  Trump tried to illegally fire US Federal Election Commission Chair Ellen Weintraub.... 
+
+date: 2025-02-07, updated: 2025-02-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046171-trump-tried-to-illegally->
+
+---
+
+##  A kid named Big Balls (with some shady stuff in his past)... 
+
+date: 2025-02-07, updated: 2025-02-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046169-a-kid-named-big-balls>
+
+---
+
+## Screenshot-Reading Malware
+
+date: 2025-02-07, updated: 2025-02-07, from: Bruce Schneier blog
+
+<p>Kaspersky is <a href="https://www.engadget.com/cybersecurity/kaspersky-researchers-find-screenshot-reading-malware-on-the-app-store-and-google-play-211011103.html">reporting</a> on a new type of smartphone malware.</p>
+<blockquote><p>The malware in question uses optical character recognition (OCR) to review a device&#8217;s photo library, seeking screenshots of recovery phrases for crypto wallets. Based on their assessment, infected Google Play apps have been downloaded more than 242,000 times. Kaspersky says: &#8220;This is the first known case of an app infected with OCR spyware being found in Apple&#8217;s official app marketplace.&#8221;</p></blockquote>
+<p>That&#8217;s a tactic I have not heard of before.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/screenshot-reading-malware.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-07, from: Dave Winer's Scripting News)
+
+Another thing to watch while you still can, <a href="https://en.wikipedia.org/wiki/The_Lives_of_Others">The Lives of Others</a>, about life in East Germany during the Cold War. 
+
+<br> 
+
+<http://scripting.com/2025/02/07.html#a152522>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-07, from: Dave Winer's Scripting News)
+
+The AI world would have done much better with a president like Biden than we will with Trump. AI is a very potent tool for surveillance. Completely changes the game. And if it were just Trump and not Musk we'd have a chance, but Musk and Thiel fully understand the power, and probably already have all the code written, they just need the database records to scan and now they have all of them. Eventually we'll be talking about the "peaceful uses of AI" as we do about nuclear tech. But just saying that will get you punished. 
+
+<br> 
+
+<http://scripting.com/2025/02/07.html#a152216>
+
+---
+
+##  Wired is reporting that the Treasury Secretary and the White House press... 
+
+date: 2025-02-07, updated: 2025-02-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046168-wired-is-reporting-that-t>
 
 ---
 
@@ -23,7 +309,7 @@ date: 2025-02-07, updated: 2025-02-07, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2025-02-07, from: Dave Winer's Scripting News)
 
-I saw a bit on CNN that was like the Dean Scream, an extended clip of how awkward Chuck Schumer is at a rally. It was used to shame a Democrat who was doing a great job of explaining the danger, Sen Murphy of Connecticut. I switched to basketball in disgust, thinking these people, CNN, are not serious. This problem isn't on the Dems, it's on all of us, and it always was. To pin it on the Dems is to say it's hopeless because right now they're just our representatives in Congress and some of our state governments. We have a big problem and we probably can't dig out of it, but if we have any hope at all, orgs like CNN have to stop being such idiots. Every so often I see a spark of brilliance over there, and then one of these things happens. What's more depressing, Trump or CNN? CNN by a lot. And the NYT and all the rest of the broken media. We are all in the same boat. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/05/17/theBrain.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I saw a bit on CNN that was like the <a href="https://en.wikipedia.org/wiki/Dean_scream">Dean Scream</a>, an extended clip of how awkward Chuck Schumer is at a rally. It was used to shame a Democrat who was doing a great job of explaining the danger, Sen Murphy of Connecticut. I switched to basketball in disgust, thinking these people, CNN, they are <a href="https://www.youtube.com/watch?v=LZTaXjt2Ggk">not serious people</a>. This problem isn't on the Dems, it's on all of us, and it always was. To pin it on the Dems is to say it's hopeless because right now they're just our representatives in Congress and some of our state governments. We have a big problem and we probably can't dig out of it, but if we have any hope at all, orgs like CNN have to stop being such idiots. Every so often I see a spark of brilliance over there, and then one of these things happens. What's more depressing, Trump or CNN? CNN by a lot. And the NYT and all the rest of the broken media. We are all in the same boat. 
 
 <br> 
 
@@ -188,6 +474,16 @@ date: 2025-02-06, updated: 2025-02-06, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/02/0046165-state-attorneys-general-t>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-02-06, from: Jessica Smith's blog)
+
+<p>I think Indie did her first full back-to-front roll and neither Viv nor I saw it 😭 She was with Viv and he said he put her on a blanket behind him &ldquo;just for a minute&rdquo;, then turned around. Next thing he knew, she was crying so he turned back around and she was flat on her face! He&rsquo;s now arguing that it was an &ldquo;assisted&rdquo; roll because &ldquo;the blanket wasn&rsquo;t even&rdquo;, so we still have the milestone of her first roll on a completely flat surface with no assists to witness… 😅</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/02/indies-first-roll.html>
 
 ---
 
@@ -2588,4 +2884,538 @@ Saw a commercial on CNN this evening from <a href="https://www.ontario.ca/page/y
 <br> 
 
 <http://scripting.com/2025/02/01.html#a022359>
+
+---
+
+## 2025-02-02 Dungeons and Wilderness and Politics
+
+date: 2025-02-01, from: Alex Schroeder's Blog
+
+<h1 id="2025-02-02-dungeons-and-wilderness-and-politics">2025-02-02 Dungeons and Wilderness and Politics</h1>
+
+<p>Last year, I wrote that <a href="2024-08-19-rpg-intrigue">I&rsquo;d like to see a system for how to run an intrigue as a party</a>.
+I think the core of that idea is in this paragraph:</p>
+
+<blockquote>
+<p>What if B/X D&amp;D went levels 1–3 is for dungeons, 4–6 is for the wilderness and 7–9 is for politics. Doesn’t that sound fantastic? What sort of rules would you find in that third book? You would not get to name level by being a colonizer and clearing the land but by taking over an existing position of power – through intrigue. Oust the abbot, kick out the bishop, marry into the baron’s family, take over the guild. With the help of your friends. Without resorting to combat, but with dice rolling.</p>
+</blockquote>
+
+<p><a href="https://www.patreon.com/bjmurray">Brad J. Murray</a> saw this and started writing a document, riffing on the idea. He invited me to collaborate, I wrote some more, but then it didn&rsquo;t go anywhere. I&rsquo;m not sure what to do next. It&rsquo;s already much better than that vague idea I had, but it&rsquo;s not ready to be turned into a 20 page pamphlet. I feel that it&rsquo;s getting closer, though.</p>
+
+<p>Since we weren&rsquo;t doing anything with the document, I figured I might as well post what we have. Perhaps you want to run with it? Make a copy, make some changes, let us know?</p>
+
+<p>Here goes.</p>
+
+<h2 id="premise">Premise</h2>
+
+<p>Traditional dungeon and/or dragon games progress character in levels: discrete units of capability. Each is a steady increase in power, almost entirely in terms of how big a thing you can kill (or how easily you can kill a smaller thing). This creates a certain kind of play arc that can become tedious as you realise that narratively the same thing is happening, it’s just that the fights take longer. At least when it’s executed weakly, and it is very easy to execute it weakly.</p>
+
+<p>Instead of a power scale, levels can be grouped into a thematic progression where you gain more power but the context in which you execute the power changes. In order to progress into the next tier, you must accomplish something that leads naturally into that tier.</p>
+
+<p>The tiers are: from levels 1 through 3 you are in dungeons. Small(ish) set piece events in a structure full of enemies and loot. You acquire things, you kill things, and maybe you make some alliances within the dungeon context. The launching point of your dungeon excursions – a hamlet, a city, or what-have-you may reward you but certainly appreciates you and also keeps you informed of dungeons that need your attention.</p>
+
+<p>From levels 4 through 6 you are in the wilderness. The enemies are a little more random and of more widely ranging power. Sometimes you need to fight but often you need to hide or run. You are trying to get from safe place to safe place navigating distinctly unsafe places between. You are acquiring knowledge of multiple communities, places, enemies and friends.</p>
+
+<p>From levels 7 through 9 you are a leader. Your interests are political. You have gone from wandering between communities and serving them to attempting to create one or lead an existing one. Your interest is the well-being and even growth of a community in the context of a world with many desperate communities surrounded by dangerous wilderness. You will likely need to hire some dungeoneers and couriers. Pest control and deadly mail carriage.</p>
+
+<p>At level 10 you turn into a patron or nemesis for the players of your next campaign.</p>
+
+<p>Within a tier you become more powerful but in your tier context. In the wilderness you might become a little better at fighting but mostly you get better at navigating and hiding and planning. You become a rider of exotic mounts and become known for your successes. And maybe your failures. And in your political years you likely don’t get better at fighting at all but at organizing and communicating and planning and execution. You learn how to determine who you can trust and who you can’t.</p>
+
+<h2 id="level-1-3-the-dungeon-years">Level 1-3: The Dungeon Years</h2>
+
+<p>You will fight things for treasure and, eventually, to serve the needs of someone else.<br>
+You will learn fighty things – how to defeat enemies and locate traps.<br>
+You will develop a relationship with a home community.<br>
+You will learn new tactics, new spells, new powers.</p>
+
+<h3 id="making-the-home-community">Making the home community</h3>
+
+<p>A handful of non-player characters, representative of surface factions. They need things from the dungeon. This results in retrieval missions, rewards, and rumours regarding the mission. Players see the community leaders they are helping (by selling them their loot) grow in power and manoeuvre, but likely they don’t care.</p>
+
+<h3 id="making-a-dungeon">Making a dungeon</h3>
+
+<p>The dungeons contain things that are useful to the patrons in the home community. The dungeon also has factions and faction leaders, like the home community, but these factions are there to be exploited by the players. Ally with these humanoids against these other humanoids or against the common enemies further down, those nightmare caricatures of our fellow humans – more cruel, more greedy, more hungry than we are. The dungeon is the terrible mirror of our fears.</p>
+
+<p>(Needs more advice.)</p>
+
+<h3 id="moving-on">Moving on</h3>
+
+<p>At some point, the need arises to get help from a neighbouring community. A higher level magic-user is required to break a curse, cure a disease, reverse a petrification, or raise a dead comrade. This requires a trip overland and automatically ends the dependence on dungeon adventures.</p>
+
+<h2 id="level-4-6-the-wilderness-years">Level 4-6: The Wilderness Years</h2>
+
+<p>You will travel in the service of communities and eventually be sought for service and advice.<br>
+You will learn desperate things — how to avoid danger, how to ambush, and how to survive the environment.<br>
+You will make connections with communities.<br>
+You will learn to act strategically, where to fight and where to yield, where to go and when to go.</p>
+
+<h3 id="making-connected-communities-and-maps">Making connected communities and maps</h3>
+
+<p>Distribute the following on the map:</p>
+
+<ul>
+<li><strong>Powerful people</strong>: Give them names, titles and retainers including spells and magic items. Some of them must have skills and spells such that somewhere between level 3 and 4 players need to travel. Breaking curses over here, curing diseases over there, a sage to identify a powerful magic item in that other place.<br>
+</li>
+<li><strong>Settlements</strong>: Give them names, a small number of interesting buildings such as defensive structures and temples, and note the number of people ready to fight in case of a battle. The coming war will end wilderness exploration and those numbers will be important.<br>
+</li>
+<li><strong>Ruins</strong>: Create more dungeons, big or small. Since dungeon exploration is no longer the core activity, think of these more as lairs. Most have just three to five zones that may or may not map to “rooms” with monsters and treasure. Dragon lairs, giant fortresses, bandit camps, druid covens, troll caves. The monsters are big and powerful, with area attacks like dragons, or large damage output, like giants, with the potential to destroy buildings and settlements, or they are contagious and hard to kill like undead and lycanthropes, or they are numerous and nefarious, taking hostages and setting ambushes.<br>
+</li>
+<li><strong>Legendary items</strong>: As a consequence of treasure allocation for the above, some powerful magic items enter the sandbox and it’s good to have them on a separate list so that there can be rumours and quests pointing players towards them.</li>
+</ul>
+
+<p>The following create three separate, overlapping and contradicting networks of loyalties, providing for endless conflict and shifting alliances between powerful people.</p>
+
+<ul>
+<li><strong>Magic schools</strong>: This is where players get to learn higher level spells from legendary magic users. If you know their names, you can name their spell books (this is a copy of “Agrimach’s Grimoir of Necromancy” from back when he was a wandering battle mage) and players can go and visit them to learn more spells from the same school. Named spell collections also facilitate writing up spells for other magic-users since they can be former students with a subset of these spells.<br>
+</li>
+<li><strong>Secret societies</strong>: Give them names and leaders. For each settlement figure out if the secret society has a presence and if so, who the representative is.<br>
+</li>
+<li><strong>Gods &amp; demons and their temples</strong>: Give them names and themes. For each settlement, figure out if there is a shrine or temple and if so, who the head priest is.</li>
+</ul>
+
+<p>Note that monsters show up in multiple guises, here.</p>
+
+<p>There are the very dangerous foes living in the ruins mentioned above. These continue to be based on our nightmares: dragons spreading terror and devastation, undead sucking the life of the land, or giants making travel unsafe. The neighbouring communities need the players’ help, resulting in more wilderness travel. These are opponents that can be fought by the players, directly.</p>
+
+<p>The remaining monsters have societies living in the settlements mentioned above, just like humans. A few of them live in dystopian societies that players would like to end: Slavers, brutalisers, dictatorships. It is important that there are many more neutral settlements, however. If all the orcs are brutal tribal savages and all the underground elves are matriarchal slavers, it’s too easy to draw up conflict along racial lines. It’s better to have one society of brutal savages looking for plunder and one society of slavers looking for victims and have the rest be fearful onlookers and “neutral” parties. Organising them, solving their problems and forging alliances is what this tier is about.</p>
+
+<h3 id="community-objectives-and-you">Community objectives and you</h3>
+
+<p>New factions emerge: secret societies, cults, political parties (clans, families). There are power struggles between them, observable from a distance (like the political careers of the village non-player characters). For their struggles, these factions need the help of players. Invasions have to be fought back, spying missions need to be carried out, treasure needs to be found (dungeon adventures don’t necessarily disappear, but the dungeons are far away and dangerous, necessitating travel through the wilderness.</p>
+
+<h3 id="wilderness-encounters">Wilderness encounters</h3>
+
+<p>Wilderness encounters do not happen in tiers like encounters in dungeon levels where deeper means tougher. The wilderness has no centre and no distance – unless there is a colonialist vision of a borderland and the non-human world is there for the taking. Like slavery, colonialism can be a topic to explore, but it’s better to be struggling against it than to glorify it. If there are slaves, players can free them and fight the slavers. If there are colonisers, players can stop the land grab and the massacres.</p>
+
+<p>The monsters and lairs no longer reflect the nightmares of our childhood (monsters that eat us, monsters that take what’s ours, monsters that live in the darkness). Monsters now reflect the nightmares of our adult lives. Enemies have strongholds from where they sally out and attack our communities, disrupting our trade, plundering our villages, capturing our ships. Pirates and bandits, and monstrous equivalents. Conquering armies, occupational armies.</p>
+
+<h3 id="moving-on-1">Moving on</h3>
+
+<p>As the game progresses, things come to a head and the players cannot fight against hundreds of enemies on their own. Allies have to be found and it all culminates in a big battle or a series of battles. Mass combat rules are used. And when it’s over, when there’s a power vacuum, players are ready to move on and fill it.</p>
+
+<h2 id="level-7-9-the-political-years">Level 7-9: The Political Years</h2>
+
+<p>You will lead a community to wealth or ruin or maybe a little of both.<br>
+You will learn how to navigate the pitfalls of leadership.<br>
+You will command armies and governments.<br>
+You will anchor yourself to something.<br>
+You will fade away and make room for those that come after you.</p>
+
+<h3 id="making-the-political-landscape">Making the political landscape</h3>
+
+<ul>
+<li><strong>Expand on the list of powerful people</strong>: Add family members. Families add another layer of overlapping and contradicting loyalties. Now every important person can be connected to a magic school, a secret society, a temple, and a family.<br>
+</li>
+<li><strong>A list of jobs</strong>: Every settlement, every important building, every right to harvest is a resource that results in a job for somebody, a step on the way up for people.</li>
+</ul>
+
+<h3 id="making-your-community">Making your community</h3>
+
+<p>Based on the lower tiers of the game, players have hopefully made alliances with powerful people and their families. Some ways to make them part of the community:</p>
+
+<ul>
+<li><strong>Family</strong>: Where as before players are mostly interested in their names and their abilities, now is the time to learn about their families. Family is always a mixed bag. Some of them have disturbing tendencies. How do you handle those without triggering a feud? Some of them need a better place. Can you take them in and care for them, offer them an education and a career? Meeting new people also means a chance for romantic interests. Will you be able to create a family of your own?<br>
+</li>
+<li><strong>Housing</strong>: The devastation of war and powerful monsters leads to refugees that need housing. How do you provide for the raw materials to build camps and to fortify these? How do you transform these improvised settlements into regular settlements?<br>
+</li>
+<li><strong>Infrastructure</strong>: Building settlements, wells, walls, cisterns, granaries, towers, strongholds, roads, dams, aqueducts – this is the new normal. Sometimes the problems here still allow for short adventures. Road constructions are blocked because of an unnatural crocodile infestation. No stones are available because the quarry has been taken over by kobolds worshipping a medusa. Some of the problems need political resolutions, however: Perhaps the mine stopped working because revolutionaries incited the workers into revolt and indeed, their grievances are justified. Time to step in.<br>
+</li>
+<li><strong>Tolls and taxes</strong>: Infrastructure takes an immense effort in gold and manpower. Soldiers need to guard the roads and man the strongholds. With travel secured, trade brings in revenue. As trade expands overseas and across mountain passes, securing it becomes more difficult. Ships have to be built. Soldiers need to be raised and equipped.<br>
+</li>
+<li><strong>Jobs</strong>: With many people now depending on you, it’s important to pick the right advisors, the right second-in-commands.<br>
+</li>
+<li><strong>Peace</strong>: At this point, people are exhausted from the war. They want peace. Even if problems could conceivably be resolved by going to war, they prefer not to. To solve problems by violent confrontation is now retrograde and frowned upon.</li>
+</ul>
+
+<h3 id="threats-to-the-community-you-love">Threats to the community you love</h3>
+
+<ul>
+<li><strong>Corruption and betrayal</strong>: Whom do you trust? Loyalty is not a given. People will work for you until you hand them a settlement to run and they go rogue, allying themselves with stronger neighbours. People will work for you until you give them a post and then they’ll be corrupt, asking for bribes and posts for their family. How do you keep them in check and still get things done? How do you root out traitors without descending into paranoia and alienating your friends? How do you handle secret societies and cults?<br>
+</li>
+<li><strong>War</strong>: A war is no longer a question of mass combat rules used at the end of the previous tier. Player characters are usually not going on military expeditions. A single die roll determines whether armies win or lose battles, whether they advance or retreat. What players care about: How much reinforcements does the army need? How long are the supply lines and consequentially, how much of the reinforcements wither away before reaching the army? How many more battles will there be? How many refugees return from the war?</li>
+<li><strong>Revolution</strong>: The machinations of economics produce inequalities. You need rich people to stay in power and yet rich people are the causes of revolution. Can you ensure an economy that can stand against your neighbours without sucking your people dry?</li>
+<li><strong>Succession</strong>: You and your party rose to power but the world is complicated and strange. There are those who can handle it, but they need to learn how to do it – from you. And as they do, you&rsquo;ll find yourself more and more obsolete. Will you get the timing right? Will you raise people to power in times of need? Will you hold the reins until they are ready? And will you be able to let go when you&rsquo;re no longer up to the task?</li>
+</ul>
+
+<h3 id="threats-to-the-people-you-love">Threats to the people you love</h3>
+
+<ul>
+<li><strong>Power</strong>: Can you manage a peaceful transition that doesn&rsquo;t end end with most of your family dead?</li>
+<li><strong>Education</strong>: Can you raise your children to be the kind of people they want to be? Can you uplift your society to be the kind of citizens they want to be?</li>
+</ul>
+
+<h3 id="adventures">Adventures</h3>
+
+<p>Considering the means to build up a community and the threads the community faces as well as the people you love, consider the following checklists to generate political adventures.</p>
+
+<h4 id="a-diplomatic-mission">A diplomatic mission</h4>
+
+<p><strong>Why</strong>: To marry into a difficult family, to seal an alliance, to placate a pushy neighbour, to establish an embassy.</p>
+
+<p><strong>Act 1, the people involved</strong>: Secure the consent of the parties involved. Does the bride or groom want to go? Does the diplomat want the job? Why not? Can you sweeten the deal? Does anybody next to them object – family, rivals? Can you placate them?</p>
+
+<p><strong>Act 2, controlling public space</strong>: Travelling no longer means facing monsters but securing adequate lodgings for the entourage. Is somebody preventing the hosts from fulfilling their obligations? Can you send agents ahead of the troupe to get this resolved? If not, can you get it resolved in person without threatening violence? Alternatively, if you are hosting: Are there people in your community working against you? How will agents, heralds and advanced parties react? How do you prevent an escalation?</p>
+
+<p><strong>Act 3, social dynamics</strong>. Is there a hunt, a feast or a joust to partake in? Do you recite poetry or sing? Do you have the right people in your employ to entertain the hosts or guests? What gifts will you exchange? If there are veiled insults, how will you handle them without violence?</p>
+
+<p><strong>Act 4, diplomacy</strong>. Every demand, every offer, every deal is met with a counter. What do you have in return? How good are you at negotiating?</p>
+
+<p><strong>Act 5, the financial aftermath</strong>. When everything is said and done, check your finances. Did you win or did you lose? Add up the successes and failures and compare them to the table of financial consequences. Do you need to borrow gold from merchants and bankers to pay for all the entertainment, the soldiers, the pageantry? If you have gold to spare, how will you spend it? Or will you be saving it?</p>
+
+<h4 id="a-protracted-war">A protracted war</h4>
+
+<p><strong>Why</strong>: To gain notoriety and glory, to increase your holdings and thereby gain positions of power to hand to loyal followers.</p>
+
+<p>(Insert acts.)</p>
+
+<h4 id="a-rebellion-to-counter">A rebellion to counter</h4>
+
+<p><strong>Why</strong>: To secure a hold on an institution or a settlement that you have recently gained but are in danger of losing again.</p>
+
+<p>(Insert acts.)</p>
+
+<h3 id="ending">Ending</h3>
+
+<p>A successful, peaceful transfer of power to the next in line is the crowning achievement. The monarchist way to win is to found a family, have children and pass power to them. The republican way to win is to found an organisation that can sustain itself. The religious way to win is to steer the institution and its community through these troubled times and then to live out those last years in peace. Players win when peace and stability reigns, at least for a few years.</p>
+
+<p>The rules for war ensure that losses can be recovered from by betting more of what you have. Increase the stakes. At first, you send a second-in-command and some soldiers to take back those villages. Then you send reinforcements. You build roads to improve the supply lines. Perhaps there’s a betrayal and you must send your child to take back control – or you must go yourself. And if you lose then, your life’s work collapses. Players lose when civil war and ruin follows a long period of upheavals.</p>
+
+<h2 id="classes">Classes</h2>
+
+<h3 id="rogue">Rogue</h3>
+
+<ul>
+<li>Sneaky harm<br>
+</li>
+<li>Fast<br>
+</li>
+<li>Dextrous skills<br>
+</li>
+<li>Contacts in town<br>
+</li>
+<li>Treasure conscious<br>
+</li>
+<li>Intrigue conscious<br>
+</li>
+<li>Diplomatic</li>
+</ul>
+
+<p>1-3: sneak attack, deal with traps, run, make a contact<br>
+4-6: find a path, know where the money is, hide<br>
+7-9: undermine leadership, make a deal, cheat</p>
+
+<h3 id="fighter">Fighter</h3>
+
+<ul>
+<li>Lots of up front harm<br>
+</li>
+<li>Armours up<br>
+</li>
+<li>Inevitable<br>
+</li>
+<li>Famous in town<br>
+</li>
+<li>Gear conscious<br>
+</li>
+<li>Warfare expert<br>
+</li>
+<li>Intimidating</li>
+</ul>
+
+<p>1-3: smite, defend, endure<br>
+4-6: camp, destroy (1 big one or many small), blaze<br>
+7-9: lead armies, intimidate opposition, inspire devotion</p>
+
+<h3 id="wizard">Wizard</h3>
+
+<ul>
+<li>Harm from a distance<br>
+</li>
+<li>Support from a distance<br>
+</li>
+<li>Feared in town<br>
+</li>
+<li>Knows many old facts<br>
+</li>
+<li>Can dig up the dirt<br>
+</li>
+<li>Member of a cabal<br>
+</li>
+<li>Risky opponent</li>
+</ul>
+
+<p>1-3: hurt things, heal things, protect things<br>
+4-6: know things, hide things, move things<br>
+7-9: draw on the Cabal, create true things, organize people</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-02-02-dungeons-wilderness-politics>
+
+---
+
+## Pixelfed should be designed like a lightly gated garden
+
+date: 2025-02-01, from: Matt Haughey blog
+
+<p><a href="https://pixelfed.social/?ref=a.wholelottanothing.org" rel="noreferrer">Pixelfed</a> is a federated instance compatible with Mastodon and geared towards photographs. Their website and iOS app feels a lot like instagram in the old days, and that&apos;s not a bad thing at all. </p><p>It&apos;s also great timing, as Facebook continues to do questionable things that</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/pixelfed-should-be-designed-like-a-lightly-gated-garden/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-01, from: Dave Winer's Scripting News)
+
+Even if Congress doesn't do anything to rein in Musk and Trump, the stock market will have something to say on Monday, one assumes. And this might be one time to hope for a market crash. 
+
+<br> 
+
+<http://scripting.com/2025/02/01.html#a215437>
+
+---
+
+## January 31, 2025
+
+date: 2025-02-01, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156263606/1d23db292e3ccf3b1235824ef5e55efe.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156263606/1d23db292e3ccf3b1235824ef5e55efe.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/january-31-2025-eca>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-01, from: Dave Winer's Scripting News)
+
+I rewrote the <a href="https://oursocialweb.org/">oursocialweb.org</a> home page. It needed to focus on linking. The term web is being thrown around too casually, without regard to what the web is, the same kind of dilution that's happening with podcasting. But the <i>social web</i> idea is fairly new, and it's really important that we get this right. 
+
+<br> 
+
+<http://scripting.com/2025/02/01.html#a180237>
+
+---
+
+## ★ As if Anyone Needed Further Proof, Patrick Soon-Shiong’s Los Angeles Times Is Now a Propaganda Rag (and They’re Bad at HTML)
+
+date: 2025-02-01, updated: 2025-02-03, from: Daring Fireball
+
+You can’t see the link or click on it as rendered in a browser, because there’s no content between the opening `<a …>` and closing `</a>` tags, but whoever at the LA Times edited Reinhart’s column to pervert its meaning, did so sloppily, leaving behind at least this one acerbic vestigial link from his originally-submitted prose. 
+
+<br> 
+
+<https://daringfireball.net/2025/02/soon-shiong_la_times_propaganda_rag>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-01, from: Dave Winer's Scripting News)
+
+I'm <a href="https://bsky.app/profile/scripting.com/post/3lh4v4tdwds2e">working</a> on a new version of my thread-writer for Bluesky. 
+
+<br> 
+
+<http://scripting.com/2025/02/01.html#a164210>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-01, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/03/20/mrSmith.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Given what Musk is doing now, do you think the internet will still be here in a year? Will there be any tech companies that aren't wholly owned by Musk, Inc. Will owning things even mean anything? Or is this the beginning of the rule of the tech bros, world wide. I can't imagine what they're planning for us. In the meantime, me divesting my Tesla, which seemed so urgent just 24 hours ago, now seems like a powerless gesture. I heard it said that now feels like the moment in Covid when you realized everything was about to freeze, and you'd better head to the supermarket right now, and when you got there, you found you weren't among the first to see it this way. I was very reassured by the blog post that Krugman did. It's nice to hear a sane voice out there. 
+
+<br> 
+
+<http://scripting.com/2025/02/01.html#a164038>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-01, from: Dave Winer's Scripting News)
+
+Another <a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2025/01.opml">month</a>, starting a <a href="https://github.com/scripting/Scripting-News/tree/master/blog/opml/2025">new year</a> in the archive on GitHub. <a href="https://github.com/scripting/Scripting-News/tree/master/blog/opml/2024">2024</a> is complete. We've been following this pattern long enough. I wish GitHub had existed in 1994, and I wish we understood how to use it sooner than we did. Onward! 
+
+<br> 
+
+<http://scripting.com/2025/02/01.html#a163824>
+
+---
+
+## 2025-01-27 Using rsync with Sqlite databases
+
+date: 2025-02-01, from: Alex Schroeder's Blog
+
+<h1 id="2025-01-27-using-rsync-with-sqlite-databases">2025-01-27 Using rsync with Sqlite databases</h1>
+
+<p>I use Debian stable so my copy of Sqlite is not the latest and greatest.
+At the same time, I don&rsquo;t use Borg Backup for my server. I use rsync.</p>
+
+<p>I copy the content of the important server files to my local laptop
+and then I make a backup of my laptop to external disks using Borg Backup.</p>
+
+<p>When making copies using rsync, the database must not be in use.
+Otherwise, a busy database is probably going to be corrupt when restoring
+it from backup.</p>
+
+<p>The key is to stop all programs using database files before beginning the
+backup and restarting them after the backup. It&rsquo;s also important to stop
+these programs using the monitoring software.</p>
+
+<p>I use Monit to monitor the server. If I don&rsquo;t stop the programs using
+Monit, Monit will discover that they are not running and restart them
+while rsync is still copying the database file. The GoToSocial database
+is 10G so copying it takes a long time. Long enough for Monit to discover
+that GoToSocial isn&rsquo;t running to restart it.</p>
+
+<p>The programs using database files:</p>
+
+<ul>
+<li>GoToSocial</li>
+<li>fail2ban</li>
+<li>The Lounge</li>
+</ul>
+
+<p>Watch the log files for messages saying that files changed.</p>
+
+<p>This is my script:</p>
+
+<pre><code>#!/bin/bash
+
+# sibirocobombus.root is defined in ~/.ssh/config
+
+echo Stopping GoToSocial
+ssh sibirocobombus.root monit stop gotosocial
+
+echo Stopping fail2ban
+ssh sibirocobombus.root monit stop fail2ban
+
+echo Stopping The Lounge
+ssh sibirocobombus.root monit stop thelounge
+
+echo Backing up Sibirocobombus
+sudo rsync --archive --acls --xattrs --compress \
+    --delete --delete-excluded \
+    --verbose --itemize-changes \
+    --exclude '/home/alex/Downloads/' \
+    --exclude '/home/alex/alexschroeder/' \
+    --exclude '/home/alex/helmut/' \
+    --exclude '/home/alex/alexschroeder.ch/share' \
+    --exclude '/home/alex/planet/alex/' \
+    --exclude '/home/alex/planet/indie/' \
+    --exclude '/home/alex/planet/jdr/' \
+    --exclude '/home/alex/planet/osr/' \
+    --exclude '/home/alex/planet/other/' \
+    --exclude '/home/alex/planet/podcast/' \
+    --exclude '/home/alex/planet/podcast-de/' \
+    --exclude '/home/alex/planet/podcast-fr/' \
+    --exclude '/home/alex/.cpan/build' \
+    --exclude '/home/alex/.cpan/sources' \
+    --exclude '/home/alex/.cpanm' \
+    --exclude '/home/alex/.cache' \
+    --exclude '/home/alex/.local/share/Trash' \
+    --exclude '/dev/*' \
+    --exclude '/lost+found/*' \
+    --exclude '/media/*' \
+    --exclude '/mnt/*' \
+    --exclude '/proc/*' \
+    --exclude '/run/*' \
+    --exclude '/sys/*' \
+    --exclude '/tmp/*' \
+    --exclude '/var/log/*' \
+    sibirocobombus.root:/ \
+    /home/alex/Documents/Sibirocobombus
+
+echo Starting GoToSocial
+ssh sibirocobombus.root monit start gotosocial
+
+echo Starting GoToSocial
+ssh sibirocobombus.root monit start fail2ban
+
+echo Starting The Lounge
+ssh sibirocobombus.root monit start thelounge
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23Backup">#Backup</a> <a class="tag" href="/search/?q=%23Administration">#Administration</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-01-27-rsync-sqlite>
+
+---
+
+## Trump’s Rampage | Coffee Klatch for February 1, 2025
+
+date: 2025-02-01, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156185901/a0b6d6f674bf52e52b4c2266b91ea3a5.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156185901/a0b6d6f674bf52e52b4c2266b91ea3a5.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/trumps-rampage-coffee-klatch-for>
+
+---
+
+## January 31, 2025
+
+date: 2025-02-01, from: Heather Cox Richardson blog
+
+On February 1, 1862, in the early days of the Civil War, the Atlantic Monthly published Julia Ward Howe's "Battle Hymn of the Republic,&#8221; summing up the cause of freedom for which the United States troops would soon be fighting. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/january-31-2025>
+
+---
+
+## Another Bad Day for Aviation.
+
+date: 2025-02-01, from: James Fallows, Substack
+
+And how it sounds when often-derided public servants cope with terrible events. 
+
+<br> 
+
+<https://fallows.substack.com/p/another-bad-day-for-aviation>
+
+---
+
+## Weeknotes: Jan 25-31, 2025
+
+date: 2025-02-01, from: Tracy Durnell Blog
+
+Highlight of the week: husband asked &#8220;what would make me happy to eat for lunch&#8221; on the weekend so we got a huge gooey cookie we split over two meals 🍪 (plus real food from a taco truck) &#8212; I&#8217;m not usually big into chocolate but it was That Kind of Week Looking forward to: [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/01/31/weeknotes-jan-25-31-2025/>
+
+---
+
+## Perfect Headline: ‘Meta Warns That It Will Fire Leakers in Leaked Memo’
+
+date: 2025-02-01, updated: 2025-02-01, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/meta/603812/meta-warns-leakers-leaked-memo>
+
+---
+
+## Heartbreak for CBS News
+
+date: 2025-02-01, from: Dan Rather's Steady
+
+We must take back the press for the American people 
+
+<br> 
+
+<https://steady.substack.com/p/heartbreak-for-cbs-news>
 

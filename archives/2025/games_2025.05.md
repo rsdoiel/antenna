@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2025-02-07 07:06:23
+updated: 2025-02-08 07:05:37
 ---
 
 # games
 
-(date: 2025-02-07 07:06:23)
+(date: 2025-02-08 07:05:37)
+
+---
+
+## We Live in Time, Wolf Man, Kinda Pregnant on Netflix, and every movie new to streaming this week
+
+date: 2025-02-07, updated: 2025-02-06, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week there’s a new Amy Schumer comedy on Netflix, the Florence Pugh/Andrew Garfield romantic drama We Live in Time on Max, and Pharrell Williams’ Lego [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/518446/new-movies-watch-streaming-kinda-pregnant-netflix-we-live-time-garfield-pugh>
+
+---
+
+## Riot explains fewer free skins in a new League of Legends dev diary
+
+date: 2025-02-07, updated: 2025-02-07, from: Polygon Website
+
+On Friday, Riot Games posted a “check-in” video regarding the current season and monetization woes in League of Legends. The video begins with head of League Studio Andrei Van Roon and executive producer Paul Bellezza discussing the current season format, which recently underwent a big change to be more lore-focused. The pair also discuss Hextech [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/521137/league-dev-diary-hextech-chests-noxian-arena>
+
+---
+
+## How to slot resources in Civilization 7
+
+date: 2025-02-07, updated: 2025-02-07, from: Polygon Website
+
+Amassing a varied network of resources is an essential part of Civilization 7. That said, the game’s tutorials leave some big gaps in how resources actually work. Acquiring resources for your settlements is one thing, though Civilization 7 throws up several instances where you can’t slot them – and doesn’t tell you why. Below, we’ve [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/civilization-7-guides/520887/resources-how-to-slot-increase-civ-7>
+
+---
+
+## All resources list in Civilization 7
+
+date: 2025-02-07, updated: 2025-02-07, from: Polygon Website
+
+The list of resources in Civilization 7 long and, technically, winding. Some resources come and go as time passes, while others change categories and provide different bonuses depending on the age. Resources can make a serious difference in the life of your civilization, providing additional Food for population growth, boosting Production for other types of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/civilization-7-guides/520959/resources-list-all-civ-7>
+
+---
+
+## For fans of holes, here’s a game about digging them
+
+date: 2025-02-07, updated: 2025-02-07, from: Polygon Website
+
+I’ve been saying for a long time that video game titles are stupid. What does Horizon Zero Dawn even mean? Aren’t Dead Space and Killzone the same titles in a different font? Games need to be more honest with their names, like A Game About Digging a Hole. There’s nothing to hide with this one: [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/521049/a-game-about-digging-a-hole-review-sandbox-steam>
+
+---
+
+## Discoveries
+
+date: 2025-02-07, updated: 2025-02-07, from: Polygon Website
+
+At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
 
 ---
 
@@ -246,18 +318,6 @@ We love movie recommendations here at Polygon. Whether it’s horror, sci-fi, ac
 <br> 
 
 <https://www.polygon.com/entertainment/519250/best-movies-watch-tonight-best-recommendations-streaming>
-
----
-
-## Discoveries
-
-date: 2025-02-06, updated: 2025-02-05, from: Polygon Website
-
-At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
 
 ---
 
@@ -798,4 +858,148 @@ For Companion hero Iris (Heretic’s Sophie Thatcher), the movie begins as a fai
 <br> 
 
 <https://www.polygon.com/movies/516912/sophie-thatcher-interview-companion-movie-twist-reveal>
+
+---
+
+## Sinatra complicates Paradise’s murder mystery with modern politics
+
+date: 2025-02-01, updated: 2025-01-31, from: Polygon Website
+
+A twist, however seismic, can only take a story so far. Thankfully for Paradise, Hulu’s new sci-fi thriller in which a presidential assassination is only the tip of a Lost-esque iceberg, great performances and more interesting questions lie on the other side of revelations.&#160; While episode 1 offers a big surprise — the cast is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sci-fi/517976/paradise-sinatra-writer-interview-tv-bts-musk>
+
+---
+
+## Hyper Light Breaker&#8217;s Michael Clark: ‘We want our true believers to feel their faith in us is rewarded’
+
+date: 2025-02-01, updated: 2025-01-31, from: Polygon Website
+
+Like a lot of people, I adored Hyper Light Drifter, the debut title from the Culver City, California-based game devs Heart Machine. Drifter was one of those rare indie games where all the component parts just clicked: it had a gorgeous art style, an unbelievable soundtrack, and sparse but very effective storytelling that hinted at [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/features/517831/hyper-light-breaker-interview-push-to-talk-newsletter>
+
+---
+
+## Rewatching Parasite on Netflix is a good reminder that the Oscars get it right sometimes
+
+date: 2025-02-01, updated: 2025-01-31, from: Polygon Website
+
+The Academy Awards have had a spotty track record when it comes to awarding the Best Picture prize over the last couple of decades. Sure, sometimes the Academy gives the trophy to Oppenheimer, a verifiable classic and towering achievement in storytelling, but more often than that it goes to middling or outright bad films, like [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/514960/parasite-netflix-thriller-best-picture-great-movie>
+
+---
+
+## The best movies new to streaming this February
+
+date: 2025-02-01, updated: 2025-01-31, from: Polygon Website
+
+It’s only been one month since the year started (can you believe it?), and there are a ton of exciting new releases in February to look forward to. Captain America: Brave New World and Osgood Perkins’ The Monkey are the movies to see in theaters this month, while Scott Derrickson’s sci-fi horror film The Gorge [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/514217/best-new-movies-netflix-amazon-prime-max-hulu-february-2025>
+
+---
+
+## Dimension 20’s guide to the real Unsleeping City, actual New York
+
+date: 2025-02-01, updated: 2025-02-01, from: Polygon Website
+
+Dimension 20’s sold-out appearance at Madison Square Garden saw the return of their Unsleeping City campaign, set in a magical sixth borough of New York City. Ahead of the live show, we sat down with Ally Beardsley and Brennan Lee Mulligan to get their take on the real New York City. Read on for advice [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dnd-dungeons-dragons/517870/brennan-lee-mulligan-ally-beardsley-new-york-city>
+
+---
+
+## Severance could be using Danger Mouse to tell us something
+
+date: 2025-02-01, updated: 2025-01-31, from: Polygon Website
+
+The third episode of Severance season 2 offers new insight into the outie life of Dylan G., showing that, unlike his driven, perk-obsessed innie, the “real” version of Zach Cherry’s character isn’t exactly a go-getter. Outie Dylan seems content to sit on the couch, read the latest issue of Midlife Driver magazine, and nominally care [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/517190/severance-s2-episode-3-danger-mouse>
+
+---
+
+## Every movie and show coming to Netflix in February
+
+date: 2025-02-01, updated: 2025-01-31, from: Polygon Website
+
+Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s coming difficult to parse. We’re here to help. Nothing says Valentine’s Day like the new Witcher animated movie! Oh, and also the next installment of Cobra [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/517440/new-on-netflix-february-2025-movies-tv-to-watch>
+
+---
+
+## What is the Fortnite Crew Pack skin for February 2025?
+
+date: 2025-02-01, updated: 2025-02-01, from: Polygon Website
+
+Fortnite Crew is a monthly subscription service for Fortnite. Members who subscribe to Fortnite Crew receive access to the current Battle Pass, a top up of V-Bucks to their account, and perhaps most importantly, exclusive cosmetics through the Fortnite Crew Pack. As an additional incentive to keep subscribing, you also receive bonus Legacy Styles for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin>
+
+---
+
+## Honkai: Star Rail codes for February 2025
+
+date: 2025-02-01, updated: 2025-02-01, from: Polygon Website
+
+Honkai: Star Rail is Hoyoverse’s latest title added to their mobile (and PC) game lineup, which means that yes, the game has codes that you can redeem for premium currency. In this case, Honkai: Star Rail codes reward Stellar Jade and the usual other goodies — money, EXP, and the like. Below we list out [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade>
+
+---
+
+## FFXIV housing lottery schedule for February 2025
+
+date: 2025-02-01, updated: 2025-02-01, from: Polygon Website
+
+If you’re trying to get a house in Final Fantasy 14, you’ll need to play the lottery system. The FFXIV lottery system consists of five “entry period” days, followed by four “results period” days. You’ll need to place your bid during the entry period days and if you win, finalize your purchase during the results [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period>
+
+---
+
+## Pokémon Go raid schedule for February 2025’s Legendary and Mega Pokémon
+
+date: 2025-02-01, updated: 2025-02-01, from: Polygon Website
+
+Using a raid schedule helps you work out which creatures to save your raid passes (remote or otherwise) for in Pokémon Go. The raid targets swap out every 10 days approximately, so you’ll definitely want to keep track on who is coming next. If you’re unfamiliar with raids, they spawn in gyms from 10 a.m. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star>
+
+---
+
+## Pokémon Go Spotlight Hour schedule for February 2025
+
+date: 2025-02-01, updated: 2025-02-01, from: Polygon Website
+
+Pokémon Go hosts a Spotlight Hour every Tuesday. This special event sees spawn rates for one Pokémon boosted greatly. There’s also usually some kind of doubled up bonus, like doubled candy or XP, during this time, giving you an additional reason to check in. During February 2025, with the way the dates line up, we [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule>
 

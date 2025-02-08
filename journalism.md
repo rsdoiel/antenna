@@ -1,11 +1,160 @@
 ---
 title: journalism
-updated: 2025-02-07 07:06:23
+updated: 2025-02-08 07:05:38
 ---
 
 # journalism
 
-(date: 2025-02-07 07:06:23)
+(date: 2025-02-08 07:05:38)
+
+---
+
+## Film Review: ‘Love Hurts’ has little to love, from confused relationships to plot-line pitfalls
+
+date: 2025-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Warning: spoilers ahead
+This one hurts.
+“Love Hurts” leapt into theaters Friday, begging stunt specialist Jonathan Eusebio[ to stick the landing with a couple Oscars sweethearts leading his directorial debut. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/07/film-review-love-hurts-has-little-to-love-from-confused-relationships-to-plot-line-pitfalls/>
+
+---
+
+## Winner Takes All: Exploring Kendrick Lamar’s albums, determining his finest artistic achievements
+
+date: 2025-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Just days after taking home five Grammy Awards, Kendrick Lamar is off to the Super Bowl.
+Lamar previously performed at the Super Bowl LVI in 2022 but will appear as the headliner for Super Bowl LIX at Caesars Superdome in New Orleans, Louisiana on Sunday. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/07/winner-takes-all-exploring-kendrick-lamars-albums-determining-his-finest-artistic-achievements/>
+
+---
+
+## ‘La raza unida, jamás será vencida’
+
+date: 2025-02-07, from: The Sundail (CSUN Student Newspaper)
+
+Stephany Mayer was among the protestors who filled the streets of Los Angeles on Feb. 2 with dancing, gritos (exclamation or shout-cry), flag-waving, and mixed  emotions. Thousands rallied in response... 
+
+<br> 
+
+<https://sundial.csun.edu/189690/news/la-raza-unida-jamas-sera-vencida/>
+
+---
+
+## Arcadia raises $100,000 for Eaton Fire relief
+
+date: 2025-02-07, from: The Sundail (CSUN Student Newspaper)
+
+Steps away from the foothills burned by the Eaton Fire three weeks prior, the city of Arcadia raised $100,000 during their Lunar New Year Festival on Feb. 2. Downtown Arcadia... 
+
+<br> 
+
+<https://sundial.csun.edu/189677/news/__trashed-2/>
+
+---
+
+## Classifieds – February 7, 2025
+
+date: 2025-02-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/07/classifieds-february-7-2025/">Classifieds &#8211; February 7, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/07/classifieds-february-7-2025/>
+
+---
+
+## SDA hosts charity drive for wildfire relief
+
+date: 2025-02-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The drive focuses on helping those affected by wildfires in the Los Angeles area. </p>
+<p>The post <a href="https://dailytrojan.com/2025/02/07/sda-hosts-charity-drive-for-wildfire-relief/">SDA hosts charity drive for wildfire relief</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/07/sda-hosts-charity-drive-for-wildfire-relief/>
+
+---
+
+## Marvel Studios has greenlit itself into a corner
+
+date: 2025-02-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Ahead of “Captain America: Brave New World,” let’s take a look at Marvel’s messiest era.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/07/marvel-studios-has-greenlit-itself-into-a-corner/">Marvel Studios has greenlit itself into a corner</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/07/marvel-studios-has-greenlit-itself-into-a-corner/>
+
+---
+
+## Artists captivate audiences at wildlife relief benefit concert
+
+date: 2025-02-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The show had performances from stars like FINNEAS and Hayley Williams.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/07/artists-captivate-audiences-at-wildlife-relief-benefit-concert/">Artists captivate audiences at wildlife relief benefit concert</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/07/artists-captivate-audiences-at-wildlife-relief-benefit-concert/>
+
+---
+
+## Student Health, USG, GSG to provide free STI screenings
+
+date: 2025-02-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The screenings will last until April 5 and check for HIV, chlamydia and gonorrhea.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/07/student-health-usg-gsg-to-provide-free-sti-screenings/">Student Health, USG, GSG to provide free STI screenings</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/07/student-health-usg-gsg-to-provide-free-sti-screenings/>
+
+---
+
+## Ben and Kenny connect the country
+
+date: 2025-02-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Benjamin Booker and Kenny Segal dazzled L.A. with their unique experimental hip-hop beats.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/07/ben-and-kenny-connect-the-country/">Ben and Kenny connect the country</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/07/ben-and-kenny-connect-the-country/>
+
+---
+
+## Kaufman Converge improvises, inspires
+
+date: 2025-02-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Two dancers juxtapose their unique movement styles in an improvised routine. </p>
+<p>The post <a href="https://dailytrojan.com/2025/02/07/improvisation-leads-to-inspiration-at-kaufman-converge/">Kaufman Converge improvises, inspires</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/07/improvisation-leads-to-inspiration-at-kaufman-converge/>
 
 ---
 
@@ -26,7 +175,7 @@ CSS, an adolescent-centered research group within the psychology department, pub
 
 date: 2025-02-07, from: The Daily Bruin (UCLA Student Newspaper)
 
-User data is everywhere &#8211; exercise analytics on Strava, food reviews on Beli, curated playlists on Spotify and movie ratings on Letterboxd.
+User data is everywhere – exercise analytics on Strava, food reviews on Beli, curated playlists on Spotify and movie ratings on Letterboxd.
 A growing number of platforms are helping users track and quantify their daily experiences. 
 
 <br> 
@@ -102,12 +251,12 @@ date: 2025-02-06, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## Beong-Soo Kim named interim president
+## ‘Feeling great’: Beong-Soo Kim named as interim president
 
 date: 2025-02-06, from: The Daily Trojan (USC Student Newspaper)
 
-<p>The next president likely won’t be decided until at least June 2026.</p>
-<p>The post <a href="https://dailytrojan.com/2025/02/06/beong-soo-kim-named-as-interim-president/">Beong-Soo Kim named interim president</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The next president likely will not be decided until at least the Summer of 2026.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/06/beong-soo-kim-named-as-interim-president/">‘Feeling great’: Beong-Soo Kim named as interim president</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <br> 
@@ -198,12 +347,12 @@ date: 2025-02-05, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## Student Commencement Speaker to replace valedictorian speech
+## Commencement speaker to replace valedictory speech
 
 date: 2025-02-05, from: The Daily Trojan (USC Student Newspaper)
 
-<p>A 3.5 grade point average is required to apply, as opposed to 3.98 for last year’s valedictorian.</p>
-<p>The post <a href="https://dailytrojan.com/2025/02/05/student-commencement-speaker-to-replace-valedictorian-speech/">Student Commencement Speaker to replace valedictorian speech</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>A 3.5 grade point average is required to apply, compared to 3.98 for valedictorian.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/05/student-commencement-speaker-to-replace-valedictorian-speech/">Commencement speaker to replace valedictory speech</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <br> 
@@ -885,4 +1034,106 @@ Overdose deaths among young people have been rising for years, said Joseph Fried
 <br> 
 
 <https://dailybruin.com/2025/02/01/experts-discuss-fentanyls-role-in-overdose-deaths-share-prevention-plans/>
+
+---
+
+## Bruin Baking: Winter Holiday Cookies
+
+date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the spirit of winter, join Daily Bruin reporter Nora Gallagher as she revisits the holidays by trying out new Christmas cookie recipes. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/01/bruin-baking-winter-holiday-cookies/>
+
+---
+
+## PRIME: Not just athletes
+
+date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dakotah Tyler started watching astronomy documentaries while rehabilitating a knee injury. He developed a fascination with the cosmos after realizing that his life – just like many planets and stars – was a mere speck in the infinite expanse of the universe. 
+
+<br> 
+
+<https://prime.dailybruin.com/primeblackathletes>
+
+---
+
+## On The Steps Episode 1: Community comes together in aftermath of LA fires
+
+date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+This week, Daily Bruin Video looks at the community response to recent wildfires. We talk to students who evacuated the hill during week one, and we bring you stories of donation events from Altadena to New York. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/31/on-the-steps-episode-1-community-comes-together-in-aftermath-of-la-fires/>
+
+---
+
+## USAC Cultural Affairs commissioner to face USA Judicial Board in Friday hearing
+
+date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+A member of the Undergraduate Students Association Council is set to face an antisemitism allegation before the USA Judicial Board on Friday.
+USAC Cultural Affairs Commissioner Alicia Verdugo has been accused by Bella Brannon, a fourth-year public affairs and religion student, of deliberately not hiring Jewish students &#8211; including Brannon &#8211; who applied to the commission during its fall 2024 hiring cycle. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/31/usac-cultural-affairs-commissioner-to-face-usa-judicial-board-in-friday-hearing/>
+
+---
+
+## The Quad: Students transition their study habits as they start college
+
+date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+The abrupt transition from high school to college may leave Bruins reevaluating their study habits.
+Bradley Bohall, a third-year biology student, said his habit of last-minute cramming was not sustainable for the rigorous quarter system in college. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/31/the-quad-students-transition-their-study-habits-as-they-start-college/>
+
+---
+
+## UCPD arrests 2 people for suspected mail theft from off-campus buildings
+
+date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD arrested two people in connection with the theft of mail from off-campus buildings Friday.
+The crime was reported around 4:30 a.m. Friday. Officers made contact with the suspects at the intersection of Midvale and Levering Avenue, according to an emailed statement from Jeffrey Chobanian, UCPD’s Acting Captain of the Administrative Bureau.&#160;
+Officers recovered pepper spray and what they suspected to be methamphetamine from the suspects, along with multiple objects suspected to be burglary tools – including a hammer, crowbars, pliers, screwdrivers and keys – Chobanian said in the statement.&#160; Mail had been stolen from University Apartments North among other buildings, he added
+The suspects were brought to Los Angeles County jail and face charges of burglary, mail theft, identity theft, misappropriation of lost property, possession of narcotics, possession of drug paraphernalia, possession of burglary tools and possession of tear gas. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/31/ucpd-arrests-2-people-for-suspected-mail-theft-from-off-campus-buildings/>
+
+---
+
+## Regents discuss FAFSA changes for mixed-status families, policing reform for UC
+
+date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+SAN FRANCISCO &#8211; The UC Board of Regents heard a statement from UCLA Chancellor Julio Frenk and discussed new university initiatives, safety plans and updates on academic programs at its Jan. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/31/regents-discuss-fafsa-changes-for-mixed-status-families-policing-reform-for-uc/>
+
+---
+
+## Album review: The Weeknd awaits the next day in his 6th studio album, “Hurry Up Tomorrow”
+
+date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+For The Weeknd, tomorrow has finally arrived.
+Abel Tesfaye – the Canadian superstar who performs under the moniker The Weeknd – released his sixth studio album “Hurry Up Tomorrow” on Friday, which arrives three years after his last full-length LP “Dawn FM.” The new project covers 22 songs over 84 minutes of music and marks the end of a trilogy of The Weeknd’s albums that began with “After Hours” in 2020. 
+
+<br> 
+
+<https://dailybruin.com/2025/01/31/the-weeknd-awaits-the-next-day-in-his-6th-studio-album-hurry-up-tomorrow/>
 

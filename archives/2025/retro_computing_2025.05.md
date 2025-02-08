@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-02-07 07:06:24
+updated: 2025-02-08 07:05:39
 ---
 
 # retro computing
 
-(date: 2025-02-07 07:06:24)
+(date: 2025-02-08 07:05:39)
+
+---
+
+## The CRPG Renaissance, Part 2: Might and Magic VI
+
+date: 2025-02-07, from: Digital Antiquarian
+
+From the 1980s until well into the 1990s, the CRPG genre was typically dumped into the same broad bucket as the adventure game by the gaming press. Indeed, as late as the turn of the millennium, Computer Gaming World magazine had an &#8220;Adventure/RPG&#8221; department, complete with regular columnists whose beat encompassed both genres. Looking back, [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2025/02/the-crpg-renaissance-part-2-might-and-magic-vi/>
 
 ---
 
@@ -90,4 +102,28 @@ date: 2025-02-02, from: FreeDOS News
 <br> 
 
 <https://sourceforge.net/p/freedos/news/2025/02/mgrx-151/>
+
+---
+
+## Discwasher SpikeMaster
+
+date: 2025-02-01, from: Computer ads from the Past
+
+Meet the Mighty SpikeMaster, Protector of Computers. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/discwasher-spikemaster>
+
+---
+
+## b.log 2025/02/01 - Electricity bill, Enedis, DeepSeek, Defining Sex, Cluck!
+
+date: 2025-02-01, from: Richard Murray's blog
+
+Electricity bill, Enedis, DeepSeek, Defining Sex, Cluck! 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250201>
 

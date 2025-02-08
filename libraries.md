@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-02-07 07:06:24
+updated: 2025-02-08 07:05:38
 ---
 
 # libraries
 
-(date: 2025-02-07 07:06:24)
+(date: 2025-02-08 07:05:38)
+
+---
+
+## ARL Celebrates Black History Month 2025
+
+date: 2025-02-07, from: Association of Research Libraries News
+
+<p>Last Updated on February 7, 2025, 9:15 pm ET Join ARL and our member libraries in celebrating Black history in February. Below is a roundup of events, blog posts, exhibits,...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-celebrates-black-history-month-2025/">ARL Celebrates Black History Month 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/arl-celebrates-black-history-month-2025/>
 
 ---
 
@@ -177,4 +191,28 @@ date: 2025-02-03, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/02/03/weathering-the-storm-what-will-2025-bring-for-academia/>
+
+---
+
+## The utility of electroencephalographic measures in obsession compulsion disorder
+
+date: 2025-02-01, from: ETH Zurich, recently added
+
+Talesh Jafadideh, Alireza; Ejtehadi, Mehdi; Zarei, Asghar; Ansari Esfeh, Maryam; Yazdi-Ravandi, Saeid; Matinnia, Nasrin; Shamsaei, Farshid; Ahmadpanah, Mohammad; Ghaleiha, Ali; Rezaei Niyasar, Asiyeh; Rostami, Reza; Khosrowabadi, Reza 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/704442>
+
+---
+
+## Food recommendation towards personalized wellbeing
+
+date: 2025-02-01, from: ETH Zurich, recently added
+
+Qiao G.; Zhang D.; Zhang N.; Shen X.; Jiao X.; Lu W.; Fan D.; Zhao J.; Zhang H.; Chen W.; Zhu J. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/718150>
 

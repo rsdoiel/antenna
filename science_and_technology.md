@@ -1,11 +1,590 @@
 ---
 title: science and technology
-updated: 2025-02-07 07:06:22
+updated: 2025-02-08 07:05:36
 ---
 
 # science and technology
 
-(date: 2025-02-07 07:06:22)
+(date: 2025-02-08 07:05:36)
+
+---
+
+## Cassette: a POSIX application framework featuring a retro-futurist GUI toolkit
+
+date: 2025-02-07, from: OS News
+
+Cassette is a GUI application framework written in C11, with a UI inspired by the cassette-futurism aesthetic. Built for modern POSIX systems, it&#8217;s made out of three libraries: CGUI, CCFG and COBJ. Cassette is free and open-source software, licensed under the LGPL-3.0. ↫ Cassette GitHub page Upon first reading this description, you might wonder what a &#8220;cassette-futurism aesthetic&#8221; really is, but once you take a look at the screenshots of what Cassette can do, you immediately understand what it means. It&#8217;s still in the alpha stage and there&#8217;s lot still to do, but what it has now is already something quite unique I don&#8217;t think the major toolkits really cater to or can even pull off. There&#8217;s an example application that&#8217;s focused on showing some system stats, and that&#8217;s exactly the kind of stuff this seems a great fit for: good-looking, small widget-like applications showing glanceable information. 
+
+<br> 
+
+<https://www.osnews.com/story/141697/cassette-a-posix-application-framework-featuring-a-retro-futurist-gui-toolkit/>
+
+---
+
+## Trump's Dept of Transport hits brakes on Biden’s EV charger build-out
+
+date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
+
+<h4>Funding freeze while Feds review priorities</h4> <p>If you were hoping the Biden administration&#39;s $5 billion investment in building a cross-country network of EV chargers would soon have you road-tripping in an electric car without range anxiety, think again: The Trump-led US Dept of Transport has put the plan under review and halted new funding.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/07/biden_ev_charger_program_unplugged/>
+
+---
+
+## 'Maybe the problem is you' ... Linus Torvalds wades into Linux kernel Rust driver drama
+
+date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
+
+<h4>Open source project chief hits out at &#39;social media brigading&#39;</h4> <p>Weighing in on yet another Linux kernel spat - this time over Rust device drivers - Linux supremo Linus Torvalds has shot the messenger.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/07/linus_torvalds_rust_driver/>
+
+---
+
+## February’s Night Sky Notes: How Can You Help Curb Light Pollution?
+
+date: 2025-02-07, from: NASA breaking news
+
+Light pollution has long troubled astronomers, who generally shy away from deep sky observing under full Moon skies. The natural light from a bright Moon floods the sky and hides views of the Milky Way, dim galaxies and nebula, and shooting stars. In recent years, human-made light pollution has dramatically surpassed the interference of even […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/night-sky-network/februarys-night-sky-notes-how-can-you-help-curb-light-pollution/>
+
+---
+
+## Golden Moon over the Superdome
+
+date: 2025-02-07, from: NASA breaking news
+
+The full moon rises over the Superdome and the city of New Orleans, Louisiana on Monday evening, January 13, 2025. New Orleans is home to NASA’s Michoud Assembly Facility where several pieces of hardware for the SLS (Space Launch system) are being built. For more than half a century, NASA Michoud has been “America’s Rocket [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/golden-moon-over-the-superdome/>
+
+---
+
+## SABER Proposers Day
+
+date: 2025-02-07, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">SABER Proposers Day</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-07T14:20:14-05:00" title="Friday, February 7, 2025 - 14:20" class="datetime">Fri, 02/07/2025 - 14:20</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>DARPA I2O is sponsoring an unclassified hybrid Proposers Day in support of the anticipated Securing Artificial Intelligence for Battlefield Effective Robustness (SABER) Broad Agency Announcement (BAA). The purpose of this event is to provide information on the SABER technical goals and challenges, address questions from potential proposers, and provide an opportunity for potential proposers to consider how their research may align with the SABER program objectives.&nbsp;</p><p>Attendance is voluntary and is not required to propose to the SABER BAA.</p><p>The event will be held on March 12, 2025, from 9 a.m. - 4:30 p.m. ET in person at the Executive Conference Center, located at 4075 Wilson Blvd, Arlington, Virginia 22203 and virtually via Zoom for Government.</p><p>The event will consist of an open session from 9 a.m. - noon &nbsp;and a limited, U.S. persons-only session from 1:30 - 4:30 p.m. Non-U.S. persons are eligible to attend the 9 a.m. - noon open session.</p><p>The 1:30 - 4:30 p.m. session is limited to U.S. citizens and U.S. permanent residents from U.S. organizations only.</p><p>Attendance is voluntary and is not required to propose to the SABER BAA.</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+          <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/max_325x325/public/gallery/2025-01/darpa-program-saber.jpg.webp?itok=_kbp2mf7" alt class="image-style-max-325x325">
+
+
+
+      <figcaption class="padding-bottom-3">
+        
+
+              </figcaption>
+
+    
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p><a class="primary-button-light primary-button-padding" href="https://creative.spa.com/darpa/i2o/saber/pd/" target="_blank">Register now!</a></p><p><strong>Executive Conference Center</strong><br>4075 Wilson Blvd.<br>Arlington, Va. 22203</p><h4>Resources</h4><ul style="list-style-type:disc;margin-left:0;"><li><a href="https://drupal.darpa.mil/research/programs/saber-securing-artificial-intelligence"><strong>Program:</strong> Securing Artificial Intelligence for Battlefield Effective Robustness</a></li></ul><h4>Opportunity</h4><p>DARPA-SN-25-42</p><ul style="list-style-type:disc;margin-left:0;"><li><strong>Published:</strong> Feb. 7, 2025</li><li><strong>Deadline:</strong> Feb. 25, 2025</li></ul><p><a class="primary-button-light primary-button-padding" href="https://sam.gov/opp/7b7b1852adad42a18921c07dcfc870a7/view" target="_blank">Special Notice</a></p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/events/2025/saber-proposers-day>
+
+---
+
+## NASA solar mission data recovering after server room flood fiasco
+
+date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
+
+<h4>Spacecraft weather solar storms, but ground processing laid low by water</h4> <p>They can put a man on the Moon - but back on Earth, a busted water pipe managed to knock out NASA&#39;s solar mission data for months.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/07/nasa_solar_mission_data_recovering/>
+
+---
+
+## expMath: Exponentiating Mathematics
+
+date: 2025-02-07, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">expMath: Exponentiating Mathematics </span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h3>Summary</h3></div>
+      
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Mathematics is the source of significant technological advances. However, progress in math is slow for two primary reasons.</p><ol><li>Decomposing problems into useful lemmas is a laborious and manual process. To advance the field of mathematics, mathematicians use their knowledge and experience to explore candidate lemmas, which, when composed together, prove theorems. Ideally, these lemmas are generalizable beyond the specifics of the current problem so they can be easily understood and ported to new contexts.&nbsp;</li><li>Proving candidate lemmas is slow, effortful, and iterative. Putative proofs may have gaps, such as the one in Wiles’ original proof of Fermat’s last theorem, which necessitated more than a year of additional work to fix. In theory, formalization in programming languages, such as Lean, could help automate proofs, but translation from math to code and back remains exceedingly difficult.</li></ol><p>Recent advances in artificial intelligence (AI) suggest the possibility of increasing the rate of progress in mathematics. Still, a wide gap exists between state-of-the-art AI capabilities and pure mathematics research.</p><p>The goal of Exponentiating Mathematics (expMath) is to radically accelerate the rate of progress in pure mathematics by developing an AI co-author capable of proposing and proving useful abstractions.</p><p>expMath will comprise teams focused on developing AI capable of auto decomposition and auto(in)formalization and teams focused on evaluation with respect to professional-level mathematics. We will robustly engage with the math and AI communities toward fundamentally reshaping the practice of mathematics by mathematicians.</p><p>&nbsp;</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+          <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      
+
+
+      <figcaption class="padding-bottom-3">
+        
+
+              </figcaption>
+
+    
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Opportunity</h4><p>DARPA-SN-25-41</p><p><a class="primary-button-light primary-button-padding" href="https://sam.gov/opp/4def3c13ca3947069b1779e7ff697c6a/view" target="_blank">Future Program</a></p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-07T13:59:22-05:00" title="Friday, February 7, 2025 - 13:59" class="datetime">Fri, 02/07/2025 - 13:59</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/programs/expmath-exponential-mathematics>
+
+---
+
+## SN: SABER
+
+date: 2025-02-07, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">SN: SABER</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>SABER aims to build an exemplar AI red team equipped with the necessary counter-AI techniques, tools, and technical competency to operationally assess AI-enabled battlefield systems. &nbsp;| <a href="https://drupal.darpa.mil/research/programs/saber-securing-artificial-intelligence">See Program&nbsp;</a></p></div>
+      
+
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-07T13:39:16-05:00" title="Friday, February 7, 2025 - 13:39" class="datetime">Fri, 02/07/2025 - 13:39</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/opportunities/darpa-sn-25-42>
+
+---
+
+## FP: RESTORE
+
+date: 2025-02-07, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">FP: RESTORE</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>The RESTORE program aims to demonstrate precision control of sleep macro- and micro-architectures to optimize cognitive performance following 3-hour sleep restriction commonly occurring in combat operations. | <a href="https://drupal.darpa.mil/research/programs/restore-reengineering-enabling-sleep">See Program</a></p></div>
+      
+
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-07T13:10:06-05:00" title="Friday, February 7, 2025 - 13:10" class="datetime">Fri, 02/07/2025 - 13:10</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/opportunities/darpa-sn-25-43>
+
+---
+
+## NASA Explores Earth Science with New Navigational System
+
+date: 2025-02-07, from: NASA breaking news
+
+NASA and its partners recently tested an aircraft guidance system that could help planes maintain a precise course even while flying at high speeds up to 500 mph. The instrument is Soxnav, the culmination of more than 30 years of development of aircraft navigation systems. NASA’s G-IV aircraft flew its first mission to test this [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/science-research/earth-science/nasa-explores-earth-science-with-new-navigational-system/>
+
+---
+
+## RESTORE: Reengineering Enabling Sleep Transitions in Operationally Restrictive Environments
+
+date: 2025-02-07, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">RESTORE: Reengineering Enabling Sleep Transitions in Operationally Restrictive Environments</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h3>Summary</h3></div>
+      
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>The RESTORE: &nbsp;Reengineering Enabling Sleep Transitions in Operationally Restrictive Environments program aims to demonstrate precision control of sleep macro- and micro-architectures to optimize cognitive performance following 3-hour sleep restriction commonly occurring in combat operations.&nbsp;</p><p>Current civilian treatments are predicated on helping an individual with a sleep disorder achieve healthy, normative sleep by reducing time to sleep onset and awakenings during sleep and with a goal of achieving a fully restorative 7- to 8-hour night sleep.&nbsp;</p><p>Service members’ responsibilities frequently result in less than 3 hours of sleep during combat and less than 6 hours during regular duty.&nbsp;</p><p>RESTORE will test the potential for recent advancements in non-invasive neuromodulation technologies and understanding of the importance of sleep micro-architectures to increase sleep efficiency for maintenance of cognitive performance under sleep-restricted conditions commonly faced by warfighters.</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+          <div class="content-width-x-large margin-x-auto paragraph paragraph--type--from-library paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+      
+            <div class="field field--name-paragraphs field--type-entity-reference-revisions field--label-hidden field__item">
+  <div class="content-width-x-large margin-x-auto desktop:padding-top-0 mobile-lg:padding-top-5 paragraph paragraph--type--right-rail paragraph--view-mode--default">
+    
+      
+      <div class="field field--name-field-right-rail-paragraph field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+
+
+
+      <div class="padding-bottom-3 border-bottom-1px margin-bottom-3 paragraph paragraph--type--program-program-manager-link paragraph--view-mode--default">
+      
+        <p class="text-bold">Program Manager</p>
+        <h6>
+          
+          
+          
+        </h6>
+
+        <p>
+          ,
+          
+        </p>
+
+        <p><a class="display-flex" href><span class="padding-right-1">Read bio</span>
+            <svg data-name="Component 32 – 4" width="30" height="30" viewBox="0 0 30 30">
+              <circle id="Ellipse_48" data-name="Ellipse 48" cx="15" cy="15" r="15" fill="#15cde7" />
+              <g id="Group_28494" data-name="Group 28494" transform="translate(-601 -6480.795)">
+                <path id="Path_34153" data-name="Path 34153" d="M3.582,0V9.489L0,5.906V8.718l3.17,3.17,1.406,1.406,1.406-1.406,3.17-3.17V5.906L5.57,9.489V0Z" transform="translate(609.353 6499.947) rotate(-90)" fill="#18191c" />
+              </g>
+            </svg>
+
+          </a></p>
+
+          </div>
+  
+
+</div>
+          </div>
+  
+
+      </div>
+</div>
+      
+
+              </div>
+      
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><!-- 
+<h4>
+        Resources
+</h4>
+<ul style="list-style-type:disc;margin-left:0;">
+        
+    <li>
+                x
+            
+    </li>
+        
+    <li>
+                x
+            
+    </li>
+</ul>
+ --><h4>Opportunity</h4><p>DARPA-SN-25-43</p><ul style="list-style-type:disc;margin-left:0;"><li><strong>Published:</strong> Feb. 6, 2025</li><li><strong>Deadline:</strong> April 1, 2025</li></ul><p><a class="primary-button-light primary-button-padding" href="https://sam.gov/opp/fa75fe7827554f6e81b3e5ca532aec27/view" target="_blank">Future Program</a></p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-07T12:37:02-05:00" title="Friday, February 7, 2025 - 12:37" class="datetime">Fri, 02/07/2025 - 12:37</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/programs/restore-reengineering-enabling-sleep>
+
+---
+
+## FP: expMath
+
+date: 2025-02-07, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">FP: expMath</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>The goal of expMath is to radically accelerate the rate of progress in pure mathematics by developing an AI co-author capable of proposing and proving useful abstractions. | <a href="https://drupal.darpa.mil/research/programs/expmath-exponential-mathematics">See Program</a></p></div>
+      
+
+      </div>
+</div>
+          </div>
+  <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-07T12:27:01-05:00" title="Friday, February 7, 2025 - 12:27" class="datetime">Fri, 02/07/2025 - 12:27</time>
+</span> 
+
+<br> 
+
+<https://drupal.darpa.mil/research/opportunities/darpa-sn-25-41>
+
+---
+
+## UK Home Office silent on alleged Apple backdoor order
+
+date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
+
+<h4>Blighty’s latest stab at encryption? A secret order to pry open iCloud, sources claim</h4> <p>The UK&#39;s Home Office refuses to either confirm or deny reports that it recently ordered Apple to create a backdoor allowing the government to access any user&#39;s cloud data.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/07/home_office_apple_backdoor_order/>
+
+---
+
+## Taking quantum sensors out of the lab and into defense platforms
+
+date: 2025-02-07, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">Taking quantum sensors out of the lab and into defense platforms</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-07T11:40:30-05:00" title="Friday, February 7, 2025 - 11:40" class="datetime">Fri, 02/07/2025 - 11:40</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>DARPA’s Robust Quantum Sensors (RoQS) program seeks to advance quantum sensing technology for use in real-world conditions</h4></div>
+      
+
+      </div>
+  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/large/public/gallery/2024-11/mto-hero.jpg.webp?itok=kGembI8u" alt class="image-style-large">
+
+
+
+      <figcaption class="padding-bottom-3">
+        
+
+              </figcaption>
+
+    
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Quantum sensors, which have demonstrated unmatched precision in measuring magnetic fields, gravity, and motion, hold immense promise for advancing defense capabilities. However, these sensors face significant challenges when deployed in real-world settings – especially when placed on moving platforms. Vibrations, electromagnetic interference, and other environmental disturbances degrade their performance, limiting their operational utility. Current solutions, such as isolating the sensors or using bulky shielding, are impractical for widespread deployment.</p><p>To address these barriers, DARPA is launching the <a href="https://drupal.darpa.mil/research/programs/roqs-robust-quantum-sensors">Robust Quantum Sensors (RoQS) program</a>. RoQS will seek to develop quantum sensors that are inherently resistant to environmental disruptions, ensuring they can operate reliably outside of a laboratory without sacrificing their sensitivity. The ultimate goal of the program is to integrate these sensors into Department of Defense platforms.</p><p>RoQS emphasizes early collaboration between sensor developers and platform makers within the defense industrial base to streamline the transition from research to operational deployment. By fostering these partnerships early on, DARPA aims to ensure that the developed technologies meet real-world requirements and can be seamlessly integrated into existing systems – significantly reducing the time and resources needed to harden and deploy quantum sensors.</p><p>“Quantum sensors have the potential to redefine how we gather critical information in defense scenarios,” said <a href="https://drupal.darpa.mil/about/people/jonathan-hoffman">Dr. Jonathan Hoffman, Program Manager in DARPA’s Microsystems Technology Office.</a> “However, their fragility has been a major barrier to deployment. With RoQS, we’re taking a bold step toward creating sensors that are not only extremely precise but also resilient in the face of real-world challenges.”</p><p>The RoQS program is designed to tackle the problem of sensor fragility at its core. Instead of relying on bulky shielding or isolation techniques that are impractical for widespread use, RoQS will explore new approaches to sensor design and architecture. Potential approaches include:</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;Engineering sensor architectures that can suppress environmental disturbances.<br>•&nbsp;&nbsp;&nbsp;&nbsp;Developing compact arrays that differentiate between noise and meaningful signals.<br>•&nbsp;&nbsp;&nbsp;&nbsp;Exploring advanced atomic systems for greater stability under dynamic conditions.</p><p>Interested organizations are invited to submit abstracts by Feb. 20, 2025, at 4 p.m. ET. Full proposals are due by March 31, 2025, at 4 p.m. ET.</p><p>The program solicitation and additional information available can be found on the <a href="https://drupal.darpa.mil/research/programs/roqs-robust-quantum-sensors">RoQS program page</a>.</p><p class="text-align-center">###</p><p class="text-align-center">Media with inquiries should contact DARPA Public Affairs at <a href="mailto:outreach@darpa.mil">outreach@darpa.mil</a><br>&nbsp;</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+        
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/news/2025/quantum-sensors-defense-platforms>
+
+---
+
+## SoftBank woos OpenAI with $40B, making Microsoft's $13B look quaint
+
+date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
+
+<h4>Some of that cash is reportedly headed for $500B Stargate dream</h4> <p>The AI investment landscape is shifting once again, with SoftBank reportedly finalizing a $40 billion stake in OpenAI - pushing its valuation to around $300 billion.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/07/softbank_invests_40b_openai/>
+
+---
+
+## Datacenter energy use to more than double by 2030 thanks to AI's insatiable thirst
+
+date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
+
+<h4>Shocking research warns electricity shortages could create construction bottleneck</h4> <p>AI&#39;s thirst for electricity will see datacenter energy use more than double by the end of the decade – just five years from now – according to the latest forecast from investment banker Goldman Sachs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/07/datacenter_energy_goldman_sachs/>
 
 ---
 
@@ -42,6 +621,18 @@ date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/02/07/ai_training_data_committee/>
+
+---
+
+## Hubble Goes Supernova Hunting
+
+date: 2025-02-07, from: NASA breaking news
+
+A supernova and its host galaxy are the subject of this NASA/ESA Hubble Space Telescope image. The galaxy in question is LEDA 132905 in the constellation Sculptor. Even at more than 400 million light-years away, LEDA 132905’s spiral structure is faintly visible, as are patches of bright blue stars. The bright pinkish-white dot in the […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-goes-supernova-hunting/>
 
 ---
 
@@ -143,9 +734,9 @@ Earth planning date: Wednesday, Feb. 5, 2025 Overnight before planning today, Ma
 
 ## DOGE geek with Treasury payment system access now quits amid racist tweet claims
 
-date: 2025-02-07, updated: 2025-02-07, from: The Register (UK I.T. News)
+date: 2025-02-07, updated: 2025-02-08, from: The Register (UK I.T. News)
 
-<h4>We did Nazi see that coming</h4> <p>Marko Elez, a former SpaceX, Starlink, and X engineer who was granted deep access to a critical US Treasury payment system by the Trump-blessed Department of Government Efficiency (DOGE), has quit that team after he was linked to a racist Twitter account.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>We did Nazi see that coming</h4> <p><strong>Updated</strong>  Marko Elez, a former SpaceX, Starlink, and X engineer who was granted deep access to a critical US Treasury payment system by the Trump-blessed Department of Government Efficiency (DOGE), has quit that team after he was linked to a racist Twitter account.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -471,9 +1062,9 @@ date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
 
 ## Google exec sees enterprise quantum app on closer horizon
 
-date: 2025-02-06, updated: 2025-02-06, from: The Register (UK I.T. News)
+date: 2025-02-06, updated: 2025-02-08, from: The Register (UK I.T. News)
 
-<h4>20 years? More like five for real-world workloads says company&#39;s Quantum AI lead</h4> <p>Despite ongoing breakthroughs, quantum computing has struggled to shake the perception that it&#39;s always another ten years away from being practical. However, researchers at Google now argue the tech is actually much closer to commercial viability than some would have you believe.…</p> 
+<h4>20 years? More like five for real-world workloads, says q-AI lead</h4> <p>Despite ongoing breakthroughs, quantum computing has struggled to shake the perception that it&#39;s always another ten years away from being practical. However, researchers at Google now argue the tech is actually much closer to commercial viability than some would have you believe.…</p> 
 
 <br> 
 
@@ -2759,4 +3350,52 @@ date: 2025-02-02, updated: 2025-02-02, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/02/02/raymond_chen_restarts_updates/>
+
+---
+
+## Intel has officially missed the boat for AI in the datacenter
+
+date: 2025-02-01, updated: 2025-02-02, from: The Register (UK I.T. News)
+
+<h4>But it still has a chance at the network edge and the PC</h4> <p><strong>Comment</strong>  Any hope Intel may have had of challenging rivals Nvidia and AMD for a slice of the AI accelerator market dissolved on Thursday as yet another GPU architecture was scrapped.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/01/intel_ai_datacenter/>
+
+---
+
+## DeepSeek or DeepFake? Our vultures circle China's hottest AI
+
+date: 2025-02-01, updated: 2025-02-03, from: The Register (UK I.T. News)
+
+<h4>If this keeps Silicon Valley on its toes and honest, who are we to complain?</h4> <p><strong>Kettle</strong>  There&#39;s really only one topic for the Kettle this week. DeepSeek.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/01/deepseek_kettle_ai/>
+
+---
+
+## Discover How Four Black College Students Sparked a Nationwide Civil Rights Movement, on This Date in 1960
+
+date: 2025-02-01, from: Smithsonian Magazine
+
+By sitting down to lunch at a North Carolina department store, the brave men inspired many others to take part in nonviolent acts of civil disobedience 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/discover-how-four-black-college-students-sparked-a-nationwide-civil-rights-movement-on-this-date-in-1960-180985908/>
+
+---
+
+## Windows 11 stages a comeback – still miles behind older sibling
+
+date: 2025-02-01, updated: 2025-02-01, from: The Register (UK I.T. News)
+
+<h4>Microsoft&#39;s latest OS claws back market share from Windows 10, but the finish line is a long way off</h4> <p>Microsoft appears to be starting the year with a rebound in Windows 11 adoption as the latest figures show the operating system reversing its recent months&#39; long declines.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/01/windows_11_statcounter/>
 

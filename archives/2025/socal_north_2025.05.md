@@ -1,11 +1,200 @@
 ---
 title: socal north
-updated: 2025-02-07 07:06:21
+updated: 2025-02-08 07:05:34
 ---
 
 # socal north
 
-(date: 2025-02-07 07:06:21)
+(date: 2025-02-08 07:05:34)
+
+---
+
+## Flu cases rise again, while COVID takes a back seat
+
+date: 2025-02-07, updated: 2025-02-07, from: The LAist
+
+It's an unusual winter for respiratory illnesses. The flu is peaking twice: once in early January and again in February. Meanwhile, it's the mildest COVID winter since the pandemic began. 
+
+<br> 
+
+<https://laist.com/news/health/flu-cases-rise-again-covid-takes-a-back-seat>
+
+---
+
+## Broken Leg Theatre to Present Vanya and Sonia and Masha and Spike at The MAIN
+
+date: 2025-02-07, from: City of Santa Clarita
+
+<p>Experience a Delightful, Heartfelt Theatrical Treat for Valentine’s Day! Broken Leg Theatre is thrilled to announce its upcoming production of the critically-acclaimed play, Vanya and Sonia and Masha and Spike, written by Christopher Durang. Durang is a master of comedy and winner of the 2013 Tony Award for Best Play. Directed by Shanan Harrell, this [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/07/broken-leg-theatre-to-present-vanya-and-sonia-and-masha-and-spike-at-the-main/">Broken Leg Theatre to Present Vanya and Sonia and Masha and Spike at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/07/broken-leg-theatre-to-present-vanya-and-sonia-and-masha-and-spike-at-the-main/>
+
+---
+
+## Here's a Super Bowl riddle: Why are egg prices surging — but not chicken wings?
+
+date: 2025-02-07, updated: 2025-02-07, from: The LAist
+
+There is one economic riddle ahead of Super Bowl Sunday: The egg market has been hit hard by avian flu, but wings are abundant and relatively affordable this year. So what gives? 
+
+<br> 
+
+<https://laist.com/news/food/heres-a-super-bowl-riddle-why-are-egg-prices-surging-but-not-chicken-wings>
+
+---
+
+## Holiday Light Tour Recap and Golden Ticket Giveaway Winner
+
+date: 2025-02-07, from: City of Santa Clarita
+
+<p>The City of Santa Clarita is proud to recap the stats for another successful Holiday Light Tour, which brought joy and holiday cheer to residents and visitors alike. The event, which took place from December 13 through December 15, welcomed 2,121 attendees who celebrated the season with festive activities and dazzling light displays. Holiday Light [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/07/holiday-light-tour-recap-and-golden-ticket-giveaway-winner/">Holiday Light Tour Recap and Golden Ticket Giveaway Winner</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/07/holiday-light-tour-recap-and-golden-ticket-giveaway-winner/>
+
+---
+
+## SENSES Block Party Transforms Main Street with New, Exciting Themes
+
+date: 2025-02-07, from: City of Santa Clarita
+
+<p>Ignite Your Senses and Experience the Energy with Live Music, Dancing and More! The City of Santa Clarita is excited to announce the return of SENSES Block Party to Main Street in Old Town Newhall for another year of high-energy fun! From 7:00 to 10:00 p.m. and held on the third Thursday of each month [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/07/senses-block-party-transforms-main-street-with-new-exciting-themes/">SENSES Block Party Transforms Main Street with New, Exciting Themes</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/07/senses-block-party-transforms-main-street-with-new-exciting-themes/>
+
+---
+
+## Pacific Coast Highway remains closed after rain causes debris flows
+
+date: 2025-02-07, updated: 2025-02-07, from: The LAist
+
+Caltrans crews will assess the roughly 9-mile closure between Will Rogers Beach State Park and Carbon Beach in Malibu on Friday. 
+
+<br> 
+
+<https://laist.com/news/transportation/pch-palisades-fire-rain-closed>
+
+---
+
+## Catalina Island Health encourages residents to safely dispose of sharps
+
+date: 2025-02-07, from: Catalina Islander
+
+Catalina Island Health and Leo’s Catalina Drugstore encourage the public to safely dispose of home-generated used sharps using a free mail-back package. Sharps is a medical term for devices with sharp points or edges that can puncture or cut skin. These devices may be used at home, at work, and while traveling to manage the [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/catalina-island-health-encourages-residents-to-safely-dispose-of-sharps/>
+
+---
+
+## Council introduces new bike ordinance
+
+date: 2025-02-07, from: Catalina Islander
+
+The council on Feb. 4 unanimously approved the introduction of a new ordinance concerning bicycles. Technically, the council repealed and replaced Chapters 4-1 and 4-10 of the Avalon Municipal Code. The news rules if adopted would include fines and possible impounding of bicycles. The rules apply to regular bicycles, e-bikes and motorized bikes. The proposed [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/council-introduces-new-bike-ordinance/>
+
+---
+
+## Pet of the Week: Billy
+
+date: 2025-02-07, from: Catalina Islander
+
+Meet Billy, a young friendly guy who plays well with other animals and is easy going. Billy is looking for a forever home. For more information about Billy, contact us at catalinahumane.org, or call 310-510-1900. Help Us Help Them! Download QR 
+
+<br> 
+
+<https://thecatalinaislander.com/pet-of-the-week-billy/>
+
+---
+
+## Why is the Trump administration targeting USAID?
+
+date: 2025-02-07, updated: 2025-02-07, from: The LAist
+
+From Day 1, the Trump team has issued a series of orders and statements aimed at the U.S. Agency for International Development. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-administration-targeting-usaid>
+
+---
+
+## Heavy rain in the forecast brings greater mudslide risk
+
+date: 2025-02-07, updated: 2025-02-07, from: The LAist
+
+Rainfall totals are likely to be higher than what we saw this week. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-rain-forecast-mudslide-risk>
+
+---
+
+## The LA fires burned a lot of lithium-ion batteries. What does that say about a clean energy future?
+
+date: 2025-02-07, updated: 2025-02-08, from: The LAist
+
+We talk to experts about the safety of the technology and its role in the rebuild. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-fires-lithium-ion-batteries-clean-energy-future>
+
+---
+
+## The 2025 Super Bowl guide: When is it, who's performing at halftime and how to watch
+
+date: 2025-02-07, updated: 2025-02-07, from: The LAist
+
+From the football field to the halftime stage, here's what to know about the storylines and stakes before Super Bowl 59 kicks off on Sunday. 
+
+<br> 
+
+<https://laist.com/news/the-2025-super-bowl-guide-when-is-it-whos-performing-at-halftime-and-how-to-watch>
+
+---
+
+## Rev. Sharpton Leads Memorial Service for Victims of the Wildfires
+
+date: 2025-02-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_15.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_15.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_15.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_15.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_15.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_15.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_15.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_15.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_15.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_15.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_15.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_15.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Rev. Al Sharpton, founder and president of the National Action Network (NAN), led a memorial service at the First African Methodist Episcopal (AME) Church in Pasadena Thursday for victims of [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/07/rev-sharpton-leads-memorial-service-for-victims-of-the-wildfires/">Rev. Sharpton Leads Memorial Service for Victims of the Wildfires</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/07/rev-sharpton-leads-memorial-service-for-victims-of-the-wildfires/>
+
+---
+
+## Trump orders and atmospheric rivers: how prepared are California's levees?
+
+date: 2025-02-07, updated: 2025-02-07, from: The LAist
+
+A 2019 infrastructure report card gave the state’s levees a "D," citing that despite significant investments, much more work is needed to rehabilitate and improve them. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/trump-atmospheric-rivers-california-levees>
 
 ---
 
@@ -21,7 +210,19 @@ A bunny rescue grew into a district-wide effort to locate, save and care for liz
 
 ---
 
-## Five stand out L.A. spots to score wings for Super Bowl Sunday
+## Topanga Creek’s steelhead trout faced localized extinction: ‘We got to go get these fish’
+
+date: 2025-02-07, updated: 2025-02-07, from: The LAist
+
+Wet weather after the Palisades Fire threatened to wipe out the local population of an endangered fish. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/topanga-creeks-steelhead-trout-faced-localized-extinction-we-got-to-go-get-these-fish>
+
+---
+
+## Five stand out LA spots to score wings for Super Bowl Sunday
 
 date: 2025-02-07, updated: 2025-02-07, from: The LAist
 
@@ -42,18 +243,6 @@ Skies will clear this weekend. There's potential for another storm next week.
 <br> 
 
 <https://laist.com/news/climate-environment/storm-moves-out-of-socal-today>
-
----
-
-## Topanga Creek’s steelhead trout faced localized extinction: ‘We got to go get these fish’
-
-date: 2025-02-07, updated: 2025-02-07, from: The LAist
-
-Wet weather after the Palisades Fire threatened to wipe out the local population of an endangered fish. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/topanga-creeks-steelhead-trout-faced-localized-extinction-we-got-to-go-get-these-fish>
 
 ---
 
@@ -281,7 +470,7 @@ We're looking at a generally weaker storm system this time around.
 
 date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/AP25035598053807-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>By Sibi Arasu Associated Press BENGALURU, India (AP) — For nearly four years, India’s government pushed an initiative to get people to think about how to make lifestyle choices that pollute [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/02/05/making-climate-friendly-lifestyle-choices-isnt-always-easy-india-learned-the-hard-way/">Making Climate-Friendly Lifestyle Choices Isn’t Always Easy. India Learned the Hard Way</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -311,7 +500,7 @@ date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="973" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?fit=973%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?w=1927&amp;ssl=1 1927w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=285%2C300&amp;ssl=1 285w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=973%2C1024&amp;ssl=1 973w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=768%2C808&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=1460%2C1536&amp;ssl=1 1460w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=1200%2C1262&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=1568%2C1649&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=400%2C421&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=706%2C743&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?fit=973%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="973" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?fit=973%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?w=1927&amp;ssl=1 1927w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=285%2C300&amp;ssl=1 285w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=973%2C1024&amp;ssl=1 973w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=768%2C808&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=1460%2C1536&amp;ssl=1 1460w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=1200%2C1262&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=1568%2C1649&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=400%2C421&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?resize=706%2C743&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Human-Trafficking-03-scaled-e1738812812230.jpg?fit=973%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>El Departamento de Policía de Los Ángeles (LAPD), el Departamento del Sheriff del Condado de Los Ángeles (LASD) y el Departamento de Policía de Long Beach lanzaron una operación contra [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/02/05/el-fiscal-de-distrito-de-los-angeles-comienza-a-presentar-cargos-tras-una-operacion-de-trafico-de-personas/">El Fiscal de Distrito de Los Ángeles Comienza a Presentar Cargos Tras una Operación de Tráfico de Personas</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -354,7 +543,7 @@ date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=1536%2C1157&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=2048%2C1542&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=1200%2C904&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=1568%2C1181&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=2000%2C1506&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=1536%2C1157&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=2048%2C1542&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=1200%2C904&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=1568%2C1181&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=2000%2C1506&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250131_171200284-scaled.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>En el espíritu del Día Nacional de Concientización sobre el Crédito Tributario por Ingreso del Trabajo, los funcionarios locales lanzaron una campaña gratuita de preparación de impuestos en Los Ángeles [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/02/05/los-servicios-gratuitos-de-preparacion-de-impuestos-estan-disponibles-para-ayudar-a-los-residentes-de-ingresos-bajos-a-moderados/">Los Servicios Gratuitos de Preparación de Impuestos están Disponibles para Ayudar a los Residentes de Ingresos Bajos a Moderados</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -369,7 +558,7 @@ date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="741" height="508" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?fit=741%2C508&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?w=741&amp;ssl=1 741w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?resize=300%2C206&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?resize=400%2C274&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?resize=706%2C484&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?fit=741%2C508&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="741" height="508" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?fit=741%2C508&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?w=741&amp;ssl=1 741w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?resize=300%2C206&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?resize=400%2C274&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?resize=706%2C484&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/transgenderviolence_elsol.jpg?fit=741%2C508&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>“Tenemos que hacer todo lo posible para estar seguras”, dijo Bamby Salcedo, presidenta y directora ejecutiva de TransLatina Coalition. Durante una reciente rueda de prensa organizada por Ethnic Media Services, [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/02/05/trump-ha-puesto-en-riesgo-a-la-comunidad-transgenero/">Trump ha Puesto en Riesgo a la Comunidad Transgénero</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -384,7 +573,7 @@ date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-02-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02042025_LA-Fire-Justice_SN_05-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Walt Butler se paró frente a los escombros de su casa en Altadena y, luchando por contener las lágrimas, exclamó: “No es justo. Lo siento, pero no es justo”. Su [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/02/05/los-residentes-de-altadena-confian-en-los-abogados-para-demandar-a-edison-con-el-fin-de-reconstruir/">Los Residentes de Altadena Confían en los Abogados para Demandar a Edison con el Fin de Reconstruir</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -439,7 +628,7 @@ The order aims to eliminate red tape for childcare centers looking to relocate t
 
 ## USC names interim president and outlines search process for next leader
 
-date: 2025-02-06, updated: 2025-02-06, from: The LAist
+date: 2025-02-06, updated: 2025-02-08, from: The LAist
 
 USC announced today that Beong-Soo Kim will serve as the university’s interim president. Kim has served as a senior vice president and general counsel at USC since 2020. 
 
@@ -1091,4 +1280,102 @@ Big tech energy needs, including for artificial intelligence, has elected offici
 <br> 
 
 <https://laist.com/news/artificial-intelligence-is-bringing-nuclear-power-back-from-the-dead-maybe-even-in-california>
+
+---
+
+## Hours before planned Palisades' public reopening, Bass reverses course
+
+date: 2025-02-01, updated: 2025-02-02, from: The LAist
+
+Reopening of the Palisades was scheduled for 8 a.m. Sunday. But on Saturday night, L.A. Mayor Karen Bass said checkpoints will remain in place, after she secured additional law enforcement resources from Gov. Gavin Newsom. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/palisades-to-reopen-sunday>
+
+---
+
+## Make It Date Night at The MAIN This Valentine’s Day
+
+date: 2025-02-01, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin With Valentine’s Day just around the corner, planning the perfect date night might feel overwhelming—but don’t worry, Old Town Newhall has you covered! The City’s premier arts and entertainment district is the ultimate destination for a memorable evening, offering a charming blend of history, entertainment and dining. Start your night [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/01/make-it-date-night-at-the-main-this-valentines-day/">Make It Date Night at The MAIN This Valentine’s Day</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/01/make-it-date-night-at-the-main-this-valentines-day/>
+
+---
+
+## Malibu’s ocean life isn’t safe from fire, and the worst effects are yet to come
+
+date: 2025-02-01, updated: 2025-02-01, from: The LAist
+
+Marine biologists prepare to study damage from debris flows, nutrient imbalance and toxic contaminants. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/malibu-fire-impacts-ocean-life>
+
+---
+
+## 17 employees helped save the Getty Villa from the fires. They're telling other museums how it was done
+
+date: 2025-02-01, updated: 2025-02-01, from: The LAist
+
+Museums in New York and Chicago want to hear what worked and what didn’t at the Getty Villa. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/employees-helped-save-the-getty-villa-from-the-fires>
+
+---
+
+## Waymo is taking on LA freeways. Keep calm and carry on
+
+date: 2025-02-01, updated: 2025-02-01, from: The LAist
+
+It's actually easier for Waymo to tackle Los Angeles' freeways than our surface streets. Go figure. 
+
+<br> 
+
+<https://laist.com/news/transportation/waymo-freeways-los-angeles>
+
+---
+
+## Go Fact Yourself quiz for February 1
+
+date: 2025-02-01, updated: 2025-02-01, from: The LAist
+
+Our celebrity panelists Drew Carey and Yesika Salgado go head to head this week on their knowledge of garage rock and the film 'Dirty Dancing.' Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-february-1>
+
+---
+
+## 17 employees helped save the Getty Villa from the fires. They're telling other museums how it was done
+
+date: 2025-02-01, updated: 2025-02-01, from: The LAist
+
+Museums in New York and Chicago want to hear what worked and what didn’t at the Getty Villa. 
+
+<br> 
+
+<https://laist.com/news/employees-helped-save-the-getty-villa-from-the-fires>
+
+---
+
+## Here’s how LA County plans to spend your tax dollars on homelessness
+
+date: 2025-02-01, updated: 2025-02-01, from: The LAist
+
+County officials recommend some cuts to homeless services, part of a changing approach ahead of the Measure A sales tax kicking in in April. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/homeless-funding-prevention-cuts-measure-a-services>
 

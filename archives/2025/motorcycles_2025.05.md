@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2025-02-07 07:06:24
+updated: 2025-02-08 07:05:39
 ---
 
 # motorcycles
 
-(date: 2025-02-07 07:06:24)
+(date: 2025-02-08 07:05:39)
 
 ---
 
@@ -402,4 +402,16 @@ It’s one of the simpler “smart helmets” we’ve seen, and it might actuall
 <br> 
 
 <https://www.rideapart.com/news/749158/livall-mc1-pro-carbon-smart-helmet/>
+
+---
+
+## Honda Monkey and Dax Get Sweet New Colors for 2025, In Some Places
+
+date: 2025-02-01, from: Ride Apart, Electric Motorcycle News
+
+If you want a Monkey in the US, you get one color choice. In Europe, you get three. 
+
+<br> 
+
+<https://www.rideapart.com/news/749154/honda-monkey-dax-colors-europe/>
 

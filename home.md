@@ -1,11 +1,249 @@
 ---
 title: home
-updated: 2025-02-07 07:06:24
+updated: 2025-02-08 07:05:39
 ---
 
 # home
 
-(date: 2025-02-07 07:06:24)
+(date: 2025-02-08 07:05:39)
+
+---
+
+## Growing carrots in containers
+
+date: 2025-02-07, from: Greg Alder's blog, Yard Post
+
+<p>Yesterday morning I picked carrots to send with my kids in their lunches for the school day. I walked out to the pot on the driveway, pulled up about twenty, gave the green tops to the chickens, washed the roots off, and placed them in the lunch boxes. I grow carrots both in the ground [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/growing-carrots-in-containers/">Growing carrots in containers</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/growing-carrots-in-containers/>
+
+---
+
+## A Luxe Sleeper Train Will Soon Connect San Francisco and Los Angeles
+
+date: 2025-02-07, from: Sunset Magazine - Living in the West
+
+A new luxury sleeper train will take passengers from Los Angeles to San Francisco. Service is anticipated to begin mid-summer 2025. 
+
+<br> 
+
+<https://www.sunset.com/travel/new-sleeper-train-san-francisco-los-angeles>
+
+---
+
+## This Epic Road Trip in the Canadian Rockies Is Peak Winter Travel
+
+date: 2025-02-07, from: Sunset Magazine - Living in the West
+
+A wintertime road trip in Alberta reveals wide, open spaces, fewer crowds, and idyllic landscapes in the agricultural heartland of the Canadian Rockies. 
+
+<br> 
+
+<https://www.sunset.com/travel/canada/canadian-rockies-winter-roadtrip>
+
+---
+
+## Train Travel Has Never Been More Popular. Here Are the Best Routes in the West.
+
+date: 2025-02-07, from: Sunset Magazine - Living in the West
+
+Trains are the nostalgic form of transport we need right now. This is a list of the best train trips that you can take in the West. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-train-trips-in-the-west>
+
+---
+
+## The True Cost of Building a Home Today
+
+date: 2025-02-07, from: Family Handyman Blog
+
+<p>New home construction costs have never been higher. Here's a breakdown.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/home-building-costs-survey/">The True Cost of Building a Home Today</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/home-building-costs-survey/>
+
+---
+
+## 9 Ideas for Shiplap Walls
+
+date: 2025-02-07, from: Family Handyman Blog
+
+<p>It's no surprise that designers have gotten truly creative in how to use shiplap walls effectively. Here are some of the most beautiful examples we've found to help inspire your own updates.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/shiplap-wall-ideas/">9 Ideas for Shiplap Walls</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/shiplap-wall-ideas/>
+
+---
+
+## 10 Easy DIY Table Projects You Can Build In a Day
+
+date: 2025-02-07, from: Family Handyman Blog
+
+<p>It's time to roll up your sleeves and get to work building one of these great DIY tables.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/diy-table-projects/">10 Easy DIY Table Projects You Can Build In a Day</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/diy-table-projects/>
+
+---
+
+## 11 Tips for Cleaning a Bathroom Faster and Easier
+
+date: 2025-02-07, from: Family Handyman Blog
+
+<p>Cleaning doesn't have to take all day. We've rounded up several tips and tricks to show you how to clean your bathroom faster.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/bathroom-cleaning-tips/">11 Tips for Cleaning a Bathroom Faster and Easier</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/bathroom-cleaning-tips/>
+
+---
+
+## Your Bathroom Fan May Be Dirtier Than You Think— Here’s a Hack to Tell
+
+date: 2025-02-07, from: Family Handyman Blog
+
+<p>A dirty bathroom exhaust fan can be a fire hazard. Here's a quick hack to see if your fan's airflow is obstructed.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/bathroom-fan-airflow-test-hack/">Your Bathroom Fan May Be Dirtier Than You Think— Here&#8217;s a Hack to Tell</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/bathroom-fan-airflow-test-hack/>
+
+---
+
+## 19 of the Best Flowering Perennials for Hot, Sunny Gardens
+
+date: 2025-02-07, from: The Gardener's Path
+
+<p>For gardens in regions with punishing heat, blistering sun, or sweltering humidity, it can be a challenge to find plants that return year after year with showy flowers. You need selections that thrive in hot weather and can manage a little drought. Discover 19 of the best flowering perennials for hot, sunny gardens.</p>
+<p>The post <a href="https://gardenerspath.com/plants/general-guides/full-sun-southern-gardens/">19 of the Best Flowering Perennials for Hot, Sunny Gardens</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/general-guides/full-sun-southern-gardens/>
+
+---
+
+## No Corkscrew? No Problem! Creative Ways to Open a Wine Bottle
+
+date: 2025-02-07, from: Family Handyman Blog
+
+<p>No corkscrew? No problem! Discover 10 clever ways to open a wine bottle using everyday household items like a shoe, key, scissors, or even a bike pump.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/open-bottle-without-corkscrew/">No Corkscrew? No Problem! Creative Ways to Open a Wine Bottle</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/open-bottle-without-corkscrew/>
+
+---
+
+## Why Is My Cauliflower Turning Purple?
+
+date: 2025-02-07, from: The Gardener's Path
+
+<p>Cauliflower can be a challenging cool-weather crop to grow in the home garden. Sometimes, developing curds that should be snowy white take on a purplish hue. Learn what causes this phenomenon, how to avoid it, and what it means in terms of crop quality. We're discussing purplish cauliflower, here on Gardener’s Path!</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/purple-cauliflower/">Why Is My Cauliflower Turning Purple?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/purple-cauliflower/>
+
+---
+
+## Here Are the 11 Best New Flowers for Your 2025 Garden
+
+date: 2025-02-07, from: Family Handyman Blog
+
+<p>These new annual flower varieties were voted the best of the best. See what makes them thrive — and impress — in gardens throughout North America.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/aas-award-winning-new-flowers-2025/">Here Are the 11 Best New Flowers for Your 2025 Garden</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/aas-award-winning-new-flowers-2025/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-02-07, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Before & After: You’d Never Know This Maryland Cottage Nearly Doubled in Size
+
+date: 2025-02-07, from: Dwell
+
+A hidden rear extension with an ADU lets three generations come together under one Cape Cod–style roof. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-a-cape-house-reborn-hxh-architects-family-renovation-adu-af97eccb>
+
+---
+
+## Half a Million LG Stoves Recalled Over Fire Risk. Is Yours On The List?
+
+date: 2025-02-07, from: Family Handyman Blog
+
+<p>Find out if your LG stove range is one of the over 500,000 that have been recalled recently and what to do if it is. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/lg-stove-range-recall/">Half a Million LG Stoves Recalled Over Fire Risk. Is Yours On The List?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/lg-stove-range-recall/>
+
+---
+
+## Here’s Where to Order Your Valentine’s Day Flowers This Year
+
+date: 2025-02-07, from: Sunset Magazine - Living in the West
+
+The best Valentine’s Day gift to give that special someone in your life is a beautiful bouquet of flowers. Here are the best flower delivery services. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/valentines-day-flowers-delivery>
+
+---
+
+## Artist Alma Allen’s Joshua Tree Home Just Hit the Market for $3M
+
+date: 2025-02-07, from: Dwell
+
+The sculptor crafted his desert dwelling from glass, wood, and stone on a 14-acre site within walking distance to the national park. 
+
+<br> 
+
+<https://www.dwell.com/article/sculptor-alma-allen-home-joshua-tree-real-estate-b52821a5>
 
 ---
 
@@ -186,18 +424,6 @@ date: 2025-02-06, from: The Gardener's Path
 
 ---
 
-## Here’s Where to Order Your Valentine’s Day Flowers This Year
-
-date: 2025-02-06, from: Sunset Magazine - Living in the West
-
-The best Valentine’s Day gift to give that special someone in your life is a beautiful bouquet of flowers. Here are the best flower delivery services. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/flowers-plants/valentines-day-flowers-delivery>
-
----
-
 ## Winter Is Still a Critical Season for Gardening. Here’s Your To-Do List.
 
 date: 2025-02-06, from: Sunset Magazine - Living in the West
@@ -246,18 +472,6 @@ It’s time to make room for fresh and meaningful practices in the new year by l
 
 ---
 
-## Sunset.com Home Page
-
-date: 2025-02-06, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## What Do Centipedes Eat? A Complete Guide to Their Diet
 
 date: 2025-02-06, from: Yard Life blog
@@ -297,18 +511,6 @@ Twelve years after moving in, a Palo Alto couple add space, functionality, and v
 <br> 
 
 <https://www.dwell.com/article/eichler-v30-renovation-ogawa-fisher-architects-palo-alto-8fe39b64>
-
----
-
-## Train Travel Has Never Been More Popular. Here Are the Best in the West.
-
-date: 2025-02-05, from: Sunset Magazine - Living in the West
-
-Trains are the nostalgic form of transport we need right now. This is a list of the best train trips that you can take in the West. 
-
-<br> 
-
-<https://www.sunset.com/travel/best-train-trips-in-the-west>
 
 ---
 
@@ -1026,4 +1228,94 @@ date: 2025-02-02, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/how-to-grow-kale/>
+
+---
+
+## Easy Sourdough Pancakes Recipe (Discard or Active Starter) + Topping Ideas
+
+date: 2025-02-01, from: Homestead and Chil
+
+<p>You're going to love these fluffy, golden sourdough pancakes. You can use discarded sourdough starter or active starter in this recipe. Homemade sourdough pancakes are absolutely delicious, and more nutritious than boxed pancake mix!</p>
+<p>The post <a href="https://homesteadandchill.com/sourdough-pancakes/">Easy Sourdough Pancakes Recipe (Discard or Active Starter) + Topping Ideas</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/sourdough-pancakes/>
+
+---
+
+## How to Grow and Care for Urn Plants (Silver Vase Bromeliad)
+
+date: 2025-02-01, from: The Gardener's Path
+
+<p>Urn plant, aka silver vase, is an epiphytic bromeliad native to the Brazilian rainforests. It features variegated foliage streaked with silver and dramatic pinkish-purple, lily-like blooms. Learn how to grow and care for Aechmea fasciata outdoors in Zones 10 to 11 or as a houseplant in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/grow-urn-plant/">How to Grow and Care for Urn Plants (Silver Vase Bromeliad)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/grow-urn-plant/>
+
+---
+
+## These Braises and Brines Will Instantly Elevate Dinner
+
+date: 2025-02-01, from: Sunset Magazine - Living in the West
+
+Extract all the flavor you can from meat with these braises and brines. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/braises-brines-recipes>
+
+---
+
+## How One Oakland Couple Turned Their Garage into the Guest Suite of Their Dreams
+
+date: 2025-02-01, from: Sunset Magazine - Living in the West
+
+The six-month renovation of the Rockridge Casita in Oakland reveals an adorable space for guests and homeowners alike. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/garage-makeover-guest-suite>
+
+---
+
+## You Can Turn Your Neglected Garage into a Party Pavilion. Here’s How to Do It
+
+date: 2025-02-01, from: Sunset Magazine - Living in the West
+
+When a Pasadena couple wanted to transform a garage into stylish place to host friends—and watch baseball games—designer Liza Reyes stepped up to the plate to create this ultimate party pavilion. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/garage-party-pavilion>
+
+---
+
+## This 3-Car Garage and Boathouse Has a Stunning Surprise Upstairs
+
+date: 2025-02-01, from: Sunset Magazine - Living in the West
+
+The owners of a Montana property originally wanted a three-car garage, but the project evolved into boathouse guest dwelling. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/montana-boathouse-garage-guesthouse>
+
+---
+
+## January in Jacques’ Food Garden
+
+date: 2025-02-01, from: Greg Alder's blog, Yard Post
+
+<p>&#8220;Be Your Own Farmer,&#8221; reads the sticker on the back of Jacques&#8217; truck. And he lives it. And his family reaps the rewards. As do I. I&#8217;ve never visited Jacques&#8217; place without him taking me on a tour and sharing samples of whatever is ripe. What&#8217;s more, even as some of the food plants that [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/january-in-jacques-food-garden/">January in Jacques&#8217; Food Garden</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/january-in-jacques-food-garden/>
 

@@ -1,11 +1,223 @@
 ---
 title: going electric
-updated: 2025-02-07 07:06:25
+updated: 2025-02-08 07:05:40
 ---
 
 # going electric
 
-(date: 2025-02-07 07:06:25)
+(date: 2025-02-08 07:05:40)
+
+---
+
+## Renewables provided 90% of new US capacity in 2024 – FERC
+
+date: 2025-02-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Fox_Squirrel-solar-EDF-ohio.jpg_download1_gl1_1w3gvqe__gcl_au_MTk4Mzg5MzUwMC4xNzMxNTQyMTMx__ga_ODg5NTk2NDk4LjE2OTgxNzk3NTI.__ga_ZQWF70T3FK_MTczNjI3ODU4Ny4xMjYuMS4xNzM2Mjc4NjEzLjM0LjAuMA.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Renewable energy – solar, wind, geothermal, hydropower, biomass –  accounted for more than 90% of total US electrical generating capacity added in 2024, according to data released yesterday by the Federal Energy Regulatory Commission (FERC) and reviewed by the SUN DAY campaign. </p>
+
+
+
+<p>Solar alone accounted for over 81% of the new capacity. Moreover, December was the 16th month in a row in which solar was the largest source of new capacity.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,hydropower,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="400926" href="https://electrek.co/2025/02/07/renewables-90-percent-new-us-capacity-2024-ferc/#more-400926" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/07/renewables-90-percent-new-us-capacity-2024-ferc/>
+
+---
+
+## Here’s a better look at the new Nissan LEAF EV [Images]
+
+date: 2025-02-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/New-Nissan-LEAF-spotted.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The new <a href="https://electrek.co/guides/nissan-leaf/">Nissan LEAF</a> already looks like a major upgrade. The little electric hatchback is due for a refresh, and we are finally getting a better idea of what to expect after the new model was spotted again in the US. New images reveal a more crossover-like design.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,nissan-leaf" data-layer-viewtype="unknown" data-post-id="400972" href="https://electrek.co/2025/02/07/better-look-at-new-nissan-leaf-ev-images/#more-400972" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/07/better-look-at-new-nissan-leaf-ev-images/>
+
+---
+
+## DeepSeek Is Already Making Its Way Into Chinese EVs
+
+date: 2025-02-07, from: Inside EVs News
+
+Two Chinese automakers—including Geely—have announced support for China's AI disruptor. 
+
+<br> 
+
+<https://insideevs.com/news/750039/deepseek-ai-china-ev-geely/>
+
+---
+
+## Jeep is offering over $10,000 off the Wagoneer S for Presidents’ Day
+
+date: 2025-02-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Jeep-Wagoneer-S-Presidents-Day.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The first electric Jeep in the US is already getting some hefty discounts. <a href="https://electrek.co/guides/jeep/">Jeep</a> introduced significant savings for President’s Day, including on the new Wagoneer S. With a new cash bonus, you can score over $10,000 off Jeep’s new electric SUV. Here’s how.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-jeep,jeep" data-layer-viewtype="unknown" data-post-id="400958" href="https://electrek.co/2025/02/07/jeep-offering-over-10000-off-wagoneer-s-presidents-day/#more-400958" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/07/jeep-offering-over-10000-off-wagoneer-s-presidents-day/>
+
+---
+
+## Podcast: Tesla sales are dropping, tariff situation, Nissan/Honda deal falls through, more
+
+date: 2025-02-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla sale dropping, the tariff situation, the Nissan/Honda deal falling through, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="400939" href="https://electrek.co/2025/02/07/podcast-tesla-sales-are-dropping-tariff-situation-nissan-honda-deal-falls-through-more/#more-400939" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/07/podcast-tesla-sales-are-dropping-tariff-situation-nissan-honda-deal-falls-through-more/>
+
+---
+
+## GM is saying goodbye to the gas-powered Chevy Blazer, leaving only the EV: Report
+
+date: 2025-02-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Chevy-2025-Blazer-EV-prices.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The 2025 <a href="https://electrek.co/guides/chevy-blazer-ev/">Chevy Blazer</a> will reportedly be the last gas version sold in the US. GM is retiring the combustion engine Blazer, leaving the SUV exclusively as an EV model.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevy-blazer-ev,general-motors,gm" data-layer-viewtype="unknown" data-post-id="400931" href="https://electrek.co/2025/02/07/gm-to-say-goodbye-to-gas-chevy-blazer-only-ev-now-report/#more-400931" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/07/gm-to-say-goodbye-to-gas-chevy-blazer-only-ev-now-report/>
+
+---
+
+## Anker SOLIX Valentine’s sale takes 56% off power stations, Hiboy EVs 48% off, Jackery tax season sale with multiple ways to save, more
+
+date: 2025-02-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Anker-SOLIX-Valentines-Day-sale-FI.png?w=1600" /></div><p>Closing out this week’s Green Deals are three different sales from some of our favorite brands featuring some of their newest releases at their lowest rates. First off, we have <a href="https://9to5toys.com/2025/02/06/anker-solix-valentines-day-sale-from-99/">Anker’s SOLIX Valentine’s Day sale</a> with up to 56% discounts across its power station lineup, with the new <a href="https://9to5toys.com/2025/02/06/anker-solix-valentines-day-sale-from-99/">C200 DC</a> 60,000mAh Power Bank Station dropping to its <a href="https://9to5toys.com/2025/02/06/anker-solix-valentines-day-sale-from-99/">$100</a> low, among many others. There’s also the Valentine’s Day savings we’re seeing from <a href="https://9to5toys.com/2025/02/07/hiboy-valentine-day-sale-s2-se-300-low/">Hiboy’s sale</a>, which is cutting 48% off its EVs, with the upgraded <a href="https://9to5toys.com/2025/02/07/hiboy-valentine-day-sale-s2-se-300-low/">S2 SE Electric Scooter</a> returning to its <a href="https://9to5toys.com/2025/02/07/hiboy-valentine-day-sale-s2-se-300-low/">$300</a> low, among other returning low prices. Last, but certainly not least, Jackery has launched a <a href="https://9to5toys.com/2025/02/07/jackerys-tax-season-sale-from-90/">special tax season sale</a> with up to $3,100 in up-front discounts on power stations, as well as trade-in savings, select extra 5% off coupons, and up to 30% in tax rebates. Among the offers, the <a href="https://9to5toys.com/2025/02/07/jackerys-tax-season-sale-from-90/">Explorer 2000 v2</a> is dropping back to its <a href="https://9to5toys.com/2025/02/07/jackerys-tax-season-sale-from-90/">$999</a> low, with many more notable options from $90. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/02/06/ecoflow-phase-2-game-day-power-sale/">second phase of EcoFlow’s sale</a> through the weekend, <a href="https://9to5toys.com/2025/02/05/samsung-bespoke-ai-laundry-combo-1999-bonus-savings/">Samsung’s smart appliance discounts</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="400930" href="https://electrek.co/2025/02/07/anker-solix-valentines-sale-hiboy-jackery-tax-sale-more/#more-400930" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/07/anker-solix-valentines-sale-hiboy-jackery-tax-sale-more/>
+
+---
+
+## Ford CEO: We Have To Beat China In A 'Street Fight'
+
+date: 2025-02-07, from: Inside EVs News
+
+Ford's CEO says they can't hide behind a tariff wall forever. Yet he still seems to support import duties on Japanese and Korean cars. 
+
+<br> 
+
+<https://insideevs.com/news/749882/ford-farley-china-street-fight/>
+
+---
+
+## BYD Atto 2 electric SUV arrives in Europe, but can it keep up with Volvo’s top-selling EX30?
+
+date: 2025-02-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/byd-atto-2-Europe-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD’s smaller electric SUV, the Atto 2, is now arriving in Europe and the UK. Despite its small size, <a href="https://electrek.co/guides/byd/">BYD</a> expects big demand for its newest EV. Can it compete with top-selling electric cars like the Volvo EX30?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="400909" href="https://electrek.co/2025/02/07/byd-atto-2-arrives-europe-can-it-keep-up-with-volvo-ex30/#more-400909" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/07/byd-atto-2-arrives-europe-can-it-keep-up-with-volvo-ex30/>
+
+---
+
+## The Electric BMW M3 Will Sound Like A Gas Car Inside
+
+date: 2025-02-07, from: Inside EVs News
+
+BMWs have some of the most distinct acceleration sounds of any EV, but future M EVs will sound completely different. 
+
+<br> 
+
+<https://insideevs.com/news/750012/bmw-m3-ev-engine-sound/>
+
+---
+
+## Tesla increases Model X price, brings back incentive Elon Musk said was ‘not coming back’
+
+date: 2025-02-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/2024-Tesla-prices-Model-X.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla has increased Model X prices and brought back an incentive that CEO Elon Musk said was unsustainable and “not coming back to any vehicles.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-x" data-layer-viewtype="unknown" data-post-id="400903" href="https://electrek.co/2025/02/07/tesla-increases-model-x-price-brings-back-incentive-elon-musk-said-was-not-coming-back/#more-400903" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/07/tesla-increases-model-x-price-brings-back-incentive-elon-musk-said-was-not-coming-back/>
+
+---
+
+## Scout's Home State Blocks Direct EV Sales. This Bill Might Change That
+
+date: 2025-02-07, from: Inside EVs News
+
+We also discuss Tesla's sales plunge in China and why South Korean battery makers are in trouble. 
+
+<br> 
+
+<https://insideevs.com/news/750004/scout-state-laws-amended-direct-ev-sales/>
+
+---
+
+## Porsche will launch new gas-powered cars, because profits come first (for now)
+
+date: 2025-02-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Porsche-Tesla-Taycan-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/porsche/">Porsche</a> will launch new gas-powered and plug-in hybrid (PHEV) cars as its EV models fail to gain traction. The sports car maker warned that the new combustion engine models and battery development expenses would hurt profits this year, sending share prices plunging.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="porsche" data-layer-viewtype="unknown" data-post-id="400896" href="https://electrek.co/2025/02/07/porsche-plans-new-gas-powered-cars-because-profits-come-first/#more-400896" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/07/porsche-plans-new-gas-powered-cars-because-profits-come-first/>
+
+---
+
+## This Is The EV That Everyone Wants, Apparently
+
+date: 2025-02-07, from: Inside EVs News
+
+No, it’s not real. But based on owner data, this imagined EV has all the attributes buyers want.  
+
+<br> 
+
+<https://insideevs.com/news/749925/zenith-ev-concept-based-on-search-terms/>
 
 ---
 
@@ -221,7 +433,7 @@ The VinFast Minio Green is part of a four car lineup meant to electrify VinFast'
 
 ---
 
-## Nissan is scambling to find new EV partners as panic sets in
+## Nissan is scrambling to find new EV partners as panic sets in
 
 date: 2025-02-06, from: Electrek Feed
 
@@ -289,7 +501,7 @@ This Chinese EV packs a parallel parking party trick that's so smooth, it would 
 
 date: 2025-02-06, from: Inside EVs News
 
-GM cut a third shift at the Ramos Arzipe plant to better match the demand for the Honda Prologue. 
+GM cut a third shift at the Ramos Arizpe plant to better match the demand for the Honda Prologue. 
 
 <br> 
 
@@ -1535,4 +1747,52 @@ date: 2025-02-02, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/02/01/will-the-new-trump-tariffs-on-china-increase-electric-bike-prices/>
+
+---
+
+## Dannar Power Station concept continues to evolve beyond “just” power
+
+date: 2025-02-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/City-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Dannar keeps adapting its Mobile Power Station to meet the needs of the electrified off road market, bringing power to forests, construction sites, and rural farms when it’s needed. But now, the MPS doing more than just provide the power to do the work – its moving dirt!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-construction-equipment,mobile-charging" data-layer-viewtype="unknown" data-post-id="400016" href="https://electrek.co/2025/02/01/dannar-power-station-concept-continues-to-evolve-beyond-just-power/#more-400016" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/01/dannar-power-station-concept-continues-to-evolve-beyond-just-power/>
+
+---
+
+## Oshkosh airport of the future features autonomous ground support EVs
+
+date: 2025-02-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/osh-kosh.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Leveraging its advanced autonomy stack, <a href="https://electrek.co/2024/09/12/us-postal-service-electric-trucks-are-finally-here-and-drivers-love-them/">Oshkosh</a> corporation’s AeroTech group has debuted a series of electric support vehicles for the “Airport of the Future” that includes this driverless, electric baggage and cargo handler.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aviation,commercial-evs,oshkosh" data-layer-viewtype="unknown" data-post-id="399992" href="https://electrek.co/2025/02/01/oshkosh-airport-of-the-future-features-autonomous-ground-support-evs/#more-399992" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/01/oshkosh-airport-of-the-future-features-autonomous-ground-support-evs/>
+
+---
+
+## Renewables to continue driving US power generation growth – EIA
+
+date: 2025-02-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/pexels-photo-433308.jpeg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Renewable capacity additions, especially solar, will continue to drive the growth of US power generation over the next two years, according to the US Energy Information Administration (EIA). </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="coal,egeb,energy-brief,solar,oil-and-gas,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="399962" href="https://electrek.co/2025/01/31/renewables-us-power-generation-growth-eia/#more-399962" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/01/31/renewables-us-power-generation-growth-eia/>
 

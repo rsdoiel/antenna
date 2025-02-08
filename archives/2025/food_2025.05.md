@@ -1,23 +1,151 @@
 ---
 title: food
-updated: 2025-02-07 07:06:25
+updated: 2025-02-08 07:05:41
 ---
 
 # food
 
-(date: 2025-02-07 07:06:25)
+(date: 2025-02-08 07:05:41)
 
 ---
 
-## Making Espresso Martinis Is Good Clean Fun
+## This Is the One Thing Queen Elizabeth Refused to Eat in Italy
 
-date: 2025-02-07, from: The Sprudge
+date: 2025-02-07, from: Taste of Home
 
-<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Speed and precision are the name of the game. 
+<p>The Queen kept specific rules in place when it came to her royal menu.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-queen-elizabeth-refused-to-eat-in-italy/">This Is the One Thing Queen Elizabeth Refused to Eat in Italy</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
 
 <br> 
 
-<https://sprudge.com/making-espresso-martinis-is-good-clean-fun-272345.html>
+<https://www.tasteofhome.com/article/what-queen-elizabeth-refused-to-eat-in-italy/>
+
+---
+
+## The Best Girl Scout Cookies, Ranked By a Professional Baker
+
+date: 2025-02-07, from: Taste of Home
+
+<p>Now I know exactly what to order during Girl Scout Cookie season.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-girl-scout-cookies/">The Best Girl Scout Cookies, Ranked By a Professional Baker</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-girl-scout-cookies/>
+
+---
+
+## LG Just Recalled This Major Appliance Due to a Fire Hazard
+
+date: 2025-02-07, from: Taste of Home
+
+<p>If you've purchased an LG stove in the past 10 years, you're going to want to check the model and serial numbers. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/lg-stove-recall-february-2025/">LG Just Recalled This Major Appliance Due to a Fire Hazard</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/lg-stove-recall-february-2025/>
+
+---
+
+## Black Plastic Kitchen Utensils Aren’t As Toxic As Everyone Thought
+
+date: 2025-02-07, from: Taste of Home
+
+<p>This is good news for anyone who held onto their black plastic spatula.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/black-plastic-kitchen-utensils-less-toxic/">Black Plastic Kitchen Utensils Aren&#8217;t As Toxic As Everyone Thought</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/black-plastic-kitchen-utensils-less-toxic/>
+
+---
+
+## Best Dutch Ovens for Braising, Baking, Beginners & More (2025)
+
+date: 2025-02-07, from: Bon Appetet
+
+Including one under $100. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-dutch-ovens>
+
+---
+
+## The Price Of Coffee On The Commodities Market Just Broke $4
+
+date: 2025-02-07, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. It's a record high. 
+
+<br> 
+
+<https://sprudge.com/the-price-of-coffee-on-the-commodities-market-just-broke-4-272295.html>
+
+---
+
+## Nihari (Pakistani Beef Stew)
+
+date: 2025-02-07, from: Bon Appetet
+
+This one-pot South Asian dish is simple and celebratory. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/nihari-pakistani-beef-stew>
+
+---
+
+## Pitch Woo With Specialty Instant Coffee This Valentine’s Day
+
+date: 2025-02-07, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Be Mine instant coffee sachets from Partners Coffee. 
+
+<br> 
+
+<https://sprudge.com/pitch-woo-with-specialty-instant-coffee-this-valentines-day-272393.html>
+
+---
+
+## Registration Is Now Open For 2025 World Of Coffee In Geneva
+
+date: 2025-02-07, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Join Over 13,000 Attendees and 430+ Exhibitors at Europe’s Largest Specialty Coffee Trade Show. 
+
+<br> 
+
+<https://sprudge.com/registration-is-now-open-for-2025-world-of-coffee-in-geneva-272381.html>
+
+---
+
+## Soy Sauce Chicken
+
+date: 2025-02-07, from: Taste of Home
+
+Soy sauce chicken is a speedy dinner made by simmering boneless skinless chicken thighs in soy sauce, wine, aromatics and spices. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/soy-sauce-chicken/>
+
+---
+
+## Chocolate Pancakes
+
+date: 2025-02-07, from: Taste of Home
+
+Start your day the indulgent way. A mile-high stack of chocolate pancakes will make any morning memorable. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chocolate-pancakes/>
 
 ---
 
@@ -279,15 +407,15 @@ date: 2025-02-06, from: Daily Coffee News
 
 ---
 
-## The Price Of Coffee On The Commodities Market Just Broke $4
+## Making Espresso Martinis Is Good Clean Fun
 
 date: 2025-02-06, from: The Sprudge
 
-<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. It's a record high. 
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Speed and precision are the name of the game. 
 
 <br> 
 
-<https://sprudge.com/the-price-of-coffee-on-the-commodities-market-just-broke-4-272295.html>
+<https://sprudge.com/making-espresso-martinis-is-good-clean-fun-272345.html>
 
 ---
 
@@ -948,4 +1076,64 @@ date: 2025-02-02, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/football-season-snacking/>
+
+---
+
+## Join the BA Bake Club
+
+date: 2025-02-01, from: Bon Appetet
+
+Test kitchen baking experts Jesse Szewczyk and Shilpa Uskokovic share must-make recipes and answer your burning questions. 
+
+<br> 
+
+<https://www.bonappetit.com/story/bake-club>
+
+---
+
+## Tiramisu Basque Cheesecake
+
+date: 2025-02-01, from: Bon Appetet
+
+Two of our all-time favorite desserts, now in one new classic. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/tiramisu-basque-cheesecake>
+
+---
+
+## 23 Recipes With Phyllo Dough, Both Sweet and Savory
+
+date: 2025-02-01, from: Bon Appetet
+
+Like ruffled guava and goat cheese pie, cheesy sesame seed crackers, pistachio baklava, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/recipes-with-phyllo-dough>
+
+---
+
+## A Citrusy Oatmeal to Chase Away the Winter Blues
+
+date: 2025-02-01, from: Bon Appetet
+
+February's Feel-Good Food Plan is filled with bright recipes and soothing habits. 
+
+<br> 
+
+<https://www.bonappetit.com/story/feel-good-food-plan-february-2025>
+
+---
+
+## Super Citrusy Oatmeal
+
+date: 2025-02-01, from: Bon Appetet
+
+The ultimate antidote to the winter blues. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/super-citrusy-oatmeal>
 

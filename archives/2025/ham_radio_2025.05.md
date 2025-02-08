@@ -1,11 +1,85 @@
 ---
 title: ham radio
-updated: 2025-02-07 07:06:22
+updated: 2025-02-08 07:05:35
 ---
 
 # ham radio
 
-(date: 2025-02-07 07:06:22)
+(date: 2025-02-08 07:05:35)
+
+---
+
+## Basic oscilloscope operation
+
+date: 2025-02-07, from: EDN Blog
+
+<p>A quick start guide for beginner standard digital signal oscilloscope (DSO). If this doesn’t help, consider reading the manual.</p>
+<p>The post <a href="https://www.edn.com/basic-oscilloscope-operation/" data-wpel-link="internal">Basic oscilloscope operation</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/basic-oscilloscope-operation/>
+
+---
+
+## Hurricane Watch Net Turning 60, Seeking Net Control Operators
+
+date: 2025-02-07, from: Amateur Radio Relay League News
+
+<p>The Hurricane Watch Net (HWN), founded on Labor Day weekend 1965, is celebrating its 60th anniversary in 2025. The net, known for relaying surface observations into the National Hurricane Center, is also seeking volunteers to serve as net control operators. </p><p>Net Manager Bobby Graves, KB5HAV, reports HWN is preparing for what could be, yet again, an above-average hurricane season and that the net...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/hurricane-watch-net-turning-60-seeking-net-control-operators>
+
+---
+
+## Training the Next Generation of Net Controllers
+
+date: 2025-02-07, from: Amateur Radio Relay League News
+
+<p>Amateur radio operators are known for their desire and unique ability to provide public service through communications. Whether activated for a severe weather event or a local event such as a marathon or bike ride, the utility value and versatility of the Amateur Radio Service is enjoyed by communities around the country. One critical aspect of coordinating the communications is the role of net...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/training-the-next-generation-of-net-controllers>
+
+---
+
+## Propagation Update
+
+date: 2025-02-07, from: Amateur Radio Relay League News
+
+<p>Spaceweather.com reports that sunspot 3981 has produced more than 20<br />M-class solar flares, including two that almost reached category X.<br /><br />The activity is likely to continue today. The sunspot retains a<br />delta-class magnetic field that harbors energy for frequent<br />explosions.<br /><br />The current solar forecast calls for there to be no G1 (Minor) or<br />greater geomagnetic storms.  A potential glancing blow is possib...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/propagation-update>
+
+---
+
+## Learning Opportunity - On the Air Live: “How to Use Your Handheld Radio”
+
+date: 2025-02-07, from: Amateur Radio Relay League News
+
+<p>ARRL is helping members get the most out of amateur radio through <em>On the Air Live</em>, a monthly series of training sessions. The live events are hosted by ARRL Education Specialist Wayne Greene, KB4DSF, and offer a deep dive into topics hams will find useful. “We had a great crowd at January’s <em>On the Air Live</em>,” said Greene. “We showed folks how to get started in slow scan television (SSTV).”</p><p>The ne...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/learning-opportunity-on-the-air-live-how-to-use-your-handheld-radio>
+
+---
+
+## Amateur Radio Emergency Preparedness Act Re-Introduced
+
+date: 2025-02-07, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/amateur-radio-emergency-preparedness-act-re-introduced>
 
 ---
 
@@ -13,7 +87,7 @@ updated: 2025-02-07 07:06:22
 
 date: 2025-02-06, from: EDN Blog
 
-<img width="800" height="470" src="https://www.edn.com/wp-content/uploads/Teledyne-TDSW050A2T.jpg?fit=800%2C470" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Teledyne-TDSW050A2T.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Teledyne-TDSW050A2T.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Teledyne-TDSW050A2T.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Teledyne’s TDSW050A2T wideband RF switch operates from DC to 50 GHz with low insertion loss and high isolation.</p>
+<img width="800" height="470" src="https://www.edn.com/wp-content/uploads/Teledyne-TDSW050A2T.jpg?fit=800%2C470" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Teledyne-TDSW050A2T.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Teledyne-TDSW050A2T.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Teledyne-TDSW050A2T.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Teledyne’s TDSW050A2T wideband RF switch operates from DC to 50 GHz with low insertion loss and high isolation.</p>
 <p>The post <a href="https://www.edn.com/rad-tolerant-rf-switch-works-up-to-50-ghz/" data-wpel-link="internal">Rad-tolerant RF switch works up to 50 GHz</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

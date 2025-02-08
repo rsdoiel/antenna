@@ -1,11 +1,50 @@
 ---
 title: pacific
-updated: 2025-02-07 07:06:21
+updated: 2025-02-08 07:05:35
 ---
 
 # pacific
 
-(date: 2025-02-07 07:06:21)
+(date: 2025-02-08 07:05:35)
+
+---
+
+## UH Mānoa launches new early childhood education degree
+
+date: 2025-02-07, from: University of Hawaiʻi News
+
+<p>The goal of the program is to provide candidates with the needed competencies and experiences to nurture and guide children from birth through age 8.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/07/new-early-childhood-education-degree/"><abbr>UH</abbr> Mānoa launches new early childhood education degree</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/07/new-early-childhood-education-degree/>
+
+---
+
+## Former Canadian Supreme Court Justice to speak at Mānoa
+
+date: 2025-02-07, from: University of Hawaiʻi News
+
+<p>Justice Rosalie Silberman Abella made history as the first refugee and first Jewish woman to serve on Canada’s highest court.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/07/better-tomorrow-speaker-series-abella/">Former Canadian Supreme Court Justice to speak at Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/07/better-tomorrow-speaker-series-abella/>
+
+---
+
+## AI breakthroughs aim to transform healthcare, education, more
+
+date: 2025-02-07, from: University of Hawaiʻi News
+
+<p>These studies advance biomedical text analysis, automatic text summarization generalization, and the evolution of text summarization methods.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/07/ai-breakthroughs-healthcare-education-more/"><abbr>AI</abbr> breakthroughs aim to transform healthcare, education, more</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/07/ai-breakthroughs-healthcare-education-more/>
 
 ---
 
@@ -602,6 +641,30 @@ date: 2025-02-06, from: Marshal Islands Journal
 
 ---
 
+## Asegure su hogar para el Gran Partido
+
+date: 2025-02-06, updated: 2025-02-06, from: Marianas Variety
+
+(BPT) - Con el Gran Partido (el partido final del campeonato fútbol americano) a la vuelta de la esquina, miles de familias en todo el país están alistando sus hogares para ver el juego y animar a sus equipos favoritos. Debido a esto, la Comisión de Seguridad de Productos del Consumidor de Estados Unidos (U.S. Consumer Product Safety Commission, CPSC) le recuerda a las personas la importancia de asegurar sus muebles y televisores mientras preparan sus hogares para el Gran Partido. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/espanol/asegure-su-hogar-para-el-gran-partido/article_5d4a45dd-96f3-5802-a900-4e77b4e51fee.html>
+
+---
+
+## How to boost your savings: Smart strategies to save with intention
+
+date: 2025-02-06, updated: 2025-02-06, from: Marianas Variety
+
+(BPT) - Savings can help meet unexpected expenses, fund short-term spending goals and protect against unanticipated life events. At the same time, leaving too much of your money uninvested can jeopardize long-term financial goals like retirement. Set a goal to be more intentional with your savings by getting clear on your savings goals, ensuring your savings earn a competitive return and putting excess cash to work for your long-term financial goals. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/how-to-boost-your-savings-smart-strategies-to-save-with-intention/article_ffa1f0d9-89ac-55a3-97d9-db795bd80db6.html>
+
+---
+
 ## A Tomb by the Sounding Sea
 
 date: 2025-02-06, from: Hawai'i Pacific Review (HPU Literary Magazine)
@@ -611,6 +674,54 @@ by S. Holt Aunt Fran had called with my mother&#8217;s death announcement. She w
 <br> 
 
 <https://hawaiipacificreview.org/2025/02/06/a-tomb-by-the-sounding-sea/>
+
+---
+
+## Green flag on Rota
+
+date: 2025-02-06, updated: 2025-02-06, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzed marine water samples collected from Rota's recreational beaches and storm drainages this week. None of the samples collected contained excessive concentration of fecal indicator bacteria nor did they exceed CNMI marine water quality standards.  Therefore, BECQ assigns all of the sampled beach sites a green flag. Enjoy our waters! 
+
+<br> 
+
+<https://www.mvariety.com/news/local/green-flag-on-rota/article_1c5fcf7c-e476-11ef-8277-231151fa104a.html>
+
+---
+
+## Traffic delays and temporary sewer odor along Micro Beach Road, Garapan
+
+date: 2025-02-06, updated: 2025-02-06, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — There will be traffic delays and sewage odor along Micro Beach Road in Lower Miha, Garapan due to an ongoing sewer line replacement project. The odor is expected as existing sewer lines are exposed and replaced during the construction process. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/traffic-delays-and-temporary-sewer-odor-along-micro-beach-road-garapan/article_420ca622-e477-11ef-85ff-b793a5961db9.html>
+
+---
+
+## US immigration raids target illegal immigrants in Aurora, Colorado
+
+date: 2025-02-06, updated: 2025-02-06, from: Marianas Variety
+
+(Reuters) — Officers from several U.S. federal agencies searched for illegal immigrant1 on Wednesday in Aurora, the Colorado city with a large migrant population where President Donald Trump laid out his immigration policies during his campaign. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/us-immigration-raids-target-illegal-immigrants-in-aurora-colorado/article_7c39d472-e478-11ef-8e5b-5fd0775af5f8.html>
+
+---
+
+## USPS to continue accepting parcels from China and Hong Kong
+
+date: 2025-02-06, updated: 2025-02-06, from: Marianas Variety
+
+A DAY after it was issued, the U.S. Postal Service rescinded its notice suspending the acceptance of all inbound parcels from China and Hong Kong. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/usps-to-continue-accepting-parcels-from-china-and-hong-kong/article_7cba5364-e472-11ef-aa2a-d3ee280c912c.html>
 
 ---
 
@@ -905,6 +1016,20 @@ date: 2025-02-06, from: INSIGHTS ON PBS HAWAIʻI
 <br> 
 
 <https://www.pbshawaii.org/understanding-menopause-insights-on-pbs-hawai%ca%bbi/>
+
+---
+
+## Understanding Menopause INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-02-06, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Menopause is a natural part of a woman’s life. It is accompanied by a range of symptoms including hot flashes, mood swings and even hysteria...</p>
+<p>The post <a href="https://www.pbshawaii.org/understanding-menopause-insights-on-pbs-hawaii/">Understanding Menopause &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/understanding-menopause-insights-on-pbs-hawaii/>
 
 ---
 
@@ -2948,4 +3073,222 @@ date: 2025-02-02, updated: 2025-02-02, from: Marianas Variety
 <br> 
 
 <https://www.mvariety.com/news/national/trump-imposes-tariffs-on-mexico-canada-and-china-risking-trade-war/article_371b4280-e104-11ef-ba94-07fc188520e7.html>
+
+---
+
+## 'A wonderful cup of tea'
+
+date: 2025-02-01, from: Pacific Island Times
+
+My own guitar-playing phase began in 1982, after spending a year on Namu, an outer atoll in the Marshall Islands. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/a-wonderful-cup-of-coffee>
+
+---
+
+## A medical plane carrying a child patient and 5 others crashes in Philadelphia, setting homes ablaze
+
+date: 2025-02-01, updated: 2025-02-02, from: Marianas Variety
+
+PHILADELPHIA (AP) — A medical transport jet transporting a child who had just completed treatment for a life-threatening condition, her mother and four others crashed into a Philadelphia neighborhood shortly after takeoff Friday evening, exploding in a fireball that engulfed several homes. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/a-medical-plane-carrying-a-child-patient-and-5-others-crashes-in-philadelphia-setting-homes/article_947b8798-e0a8-11ef-8ba1-37bb08a1cd08.html>
+
+---
+
+## Trump administration plans to scrutinize FBI agents for possible purge
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration plans to scrutinize thousands of FBI agents involved in Jan. 6 investigations, setting the stage for a possible purge that goes far beyond the bureau&#8217;s leaders to target rank-and-file agents, according to internal documents and people familiar with the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/trump-administration-plans-to-scrutinize-fbi-agents-for-possible-purge/>
+
+---
+
+## Trump will hit Mexico, Canada and China with tariffs
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump plans to impose stiff tariffs on Mexico, Canada and China today, a move aimed at pressuring America&#8217;s largest trading partners into accepting more migrants and halting the flow of migrants and drugs into the United States.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/trump-will-hit-mexico-canada-and-china-with-tariffs/>
+
+---
+
+## Immigrant communities in hiding: ‘People think ICE is everywhere’
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>At a barbershop in Los Angeles, only one of the 10 chairs was occupied on what would ordinarily be a busy evening. In San Francisco, a middle school student&#8217;s erroneous information about seeing an immigration officer on a city bus prompted the school district to send parents a warning<strong>.</strong></p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/immigrant-communities-in-hiding-people-think-ice-is-everywhere/>
+
+---
+
+## Washington crash renews concerns about air safety lapses
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>Clues emerging from the moments before the deadly collision Wednesday night between an Army helicopter and an American Airlines passenger jet suggest that multiple layers of the country&#8217;s aviation safety apparatus failed, according to flight recordings, a preliminary internal report from the Federal Aviation Administration, interviews with current and former air traffic controllers and others briefed on the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/washington-crash-renews-concerns-about-air-safety-lapses/>
+
+---
+
+## Syria’s new president pledges unity in first address
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>DAMASCUS, Syria &#8212; The newly appointed president of Syria, Ahmed al-Sharaa, pledged in a speech Thursday to create an inclusive transitional government that reflects Syria&#8217;s diversity and that will lead the country until it can hold &#8220;free and fair elections.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/syrias-new-president-pledges-unity-in-first-address/>
+
+---
+
+## Kennedy says he will give HPV vaccine lawsuit proceeds to his son
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>Robert F. Kennedy Jr. told lawmakers in responses to questions released Friday that he would divest his interest in litigation against a major HPV vaccine maker and would sign over the financial stake to an adult son.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/kennedy-says-he-will-give-hpv-vaccine-lawsuit-proceeds-to-his-son/>
+
+---
+
+## 6 feared dead after medical plane crashes near Philadelphia mall
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>A small medical plane carrying six people crashed near a shopping center in northeast Philadelphia on Friday night, leaving no apparent survivors, sending a large fireball into the air and engulfing vehicles and homes in flames, authorities said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/6-feared-dead-after-medical-plane-crashes-near-philadelphia-mall/>
+
+---
+
+## New York doctor indicted in Louisiana for sending abortion pills there
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>A state grand jury in Louisiana has indicted a New York doctor for providing abortion pills to a Louisiana resident. The case appears to be the first time criminal charges have been filed against an abortion provider for sending pills into a state with an abortion ban.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/new-york-doctor-indicted-in-louisiana-for-sending-abortion-pills-there/>
+
+---
+
+## Health officials struggle to comply with DEI and gender orders
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>Federal and state health officials and staff members scrambled Friday to comply with a 5 p.m. deadline by the Trump administration to terminate any programs that promote &#8220;gender ideology,&#8221; and to withdraw documents and any other media that may do so.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/health-officials-struggle-to-comply-with-dei-and-gender-orders/>
+
+---
+
+## U.S. economy finished the year on strong note, but faces hurdles
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>Growth slowed but remained resilient at the end of 2024, leaving the U.S. economy on solid footing heading into a new year &#8212; and a new presidential administration &#8212; that is full of uncertainty.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/u-s-economy-finished-the-year-on-strong-note-but-faces-hurdles/>
+
+---
+
+## Norway seizes Russian-crewed ship suspected of cutting an undersea cable
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>OSLO, Norway &#8212; The authorities in Norway have seized a Russian-crewed ship that is suspected of damaging an undersea cable in an act of sabotage in the Baltic Sea, the Norwegian police said on Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/norway-seizes-russian-crewed-ship-suspected-of-cutting-an-undersea-cable/>
+
+---
+
+## A fish farm offered 40,000 pounds of salmon for free. There was a catch.
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>The offer was too good for the Food Bank of Central New York to pass up. A local fish farm was going out of business, and it wanted to donate more than 40,000 pounds of sushi-grade salmon.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/features/a-fish-farm-offered-40000-pounds-of-salmon-for-free-there-was-a-catch/>
+
+---
+
+## Tropical Gardening: Coffee flowering now means abundant harvests coming this fall
+
+date: 2025-02-01, from: Hawaii Tribune Harold
+
+
+				<p>The dry weather from Thanksgiving to January created conditions for heavy flowering when a rainy spell in mid January stimulated a big flush of flowering shortly thereafter. When Kona has a wet winter and flowering is intermitant, it results in a longer harvest season. This year harvest shoud be concentrated thus making the harvest short and heavy if all else goes well.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/01/features/tropical-gardening-coffee-flowering-now-means-abundant-harvests-coming-this-fall/>
+
+---
+
+## Guam governor turns the tables on critics, fires off FOIA letters to Terlaje and Moylan
+
+date: 2025-02-01, from: Pacific Island Times
+
+Gov. Lou Leon Guerrero has called into question the motive behind Sen. Therese Terlaje’s bill proposing a public-private partnership for GMH 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/governor-turns-the-tables-on-critics-fires-off-foia-letters-to-terlaje-moylan>
 
